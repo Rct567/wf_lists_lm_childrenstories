@@ -8,8 +8,7 @@ from openai import OpenAI
 
 LM_STUDIO_API_BASE = "http://127.0.0.1:1234/v1"
 LM_STUDIO_API_KEY = "lm-studio"
-MODEL = "llama-3.2-3b-instruct"
-
+MODEL = "meta-llama-3.1-8b-instruct (Q4_K_M)"
 
 NUMBER_OF_STORIES = 3
 STORIES_DIR = "stories"
@@ -19,6 +18,7 @@ LANG_ID = "nl"
 LM_TEMPERATURE = 0.9
 LM_TOP_P = 0.95
 
+
 class LmResponse:
     def __init__(self, response_content: str, prompt: str, model: str, lang_id: str, time_taken: float):
         self.response_content = response_content.strip()
@@ -26,6 +26,33 @@ class LmResponse:
         self.model = model
         self.lang_id = lang_id
         self.time_taken = time_taken
+
+    def content_from_tag(self, tag_name: str) -> Optional[str]:
+        tag_name = tag_name.strip('<>/')
+        content = self.response_content
+        if tag_name == "body" and "<body>" in content and not "</body>" in content:
+            content = content + "</body>"
+        content_match = re.search(r"<{}>(.*?)</{}>".format(tag_name, tag_name), content, re.DOTALL | re.IGNORECASE)
+        if not content_match:
+            return None
+        return content_match.group(1).strip()
+
+    def content_from_tag_or_empty(self, tag_name: str) -> str:
+        tag_content = self.content_from_tag(tag_name)
+        return tag_content if tag_content else ""
+
+    def get_words_from_content(self) -> list[str]:
+        return [word.strip() for word in self.response_content.split() if word.strip() != ""]
+
+    def get_num_words_per_second(self) -> float:
+        if self.response_content == "":
+            return 0
+        return len(self.get_words_from_content()) / self.time_taken
+
+class LmStoryResponse(LmResponse):
+
+    def get_title(self) -> str:
+        return self.content_from_tag_or_empty("title")
 
     def is_valid(self) -> bool:
         for tag in {"<title>", "<body>"}:
@@ -35,35 +62,11 @@ class LmResponse:
             if self.response_content.count(tag) > 1:
                 print("Tag '{}' appears more than once.".format(tag))
                 return False
-            content_in_tag = self.content_from_tag(self.response_content, tag)
+            content_in_tag = self.content_from_tag(tag)
             if not content_in_tag or len(content_in_tag) < 10:
                 print("Tag '{}' not valid.".format(tag))
                 return False
         return True
-
-    @staticmethod
-    def content_from_tag(content: str, tag_name: str) -> Optional[str]:
-        tag_name = tag_name.strip('<>/')
-        if "<body>" in content and not "</body>" in content:
-            content = content + "</body>"
-        content_match = re.search(r"<{}>(.*?)</{}>".format(tag_name, tag_name), content, re.DOTALL | re.IGNORECASE)
-        if not content_match:
-            return None
-        return content_match.group(1).strip()
-
-    def get_title(self) -> str:
-        title = self.content_from_tag(self.response_content, "title")
-        if not title:
-            return ""
-        return title
-
-    def get_words_from_content(self) -> list[str]:
-        return [word.strip() for word in self.response_content.split() if word.strip() != ""]
-
-    def get_num_words_per_second(self) -> float:
-        if self.response_content == "":
-            return 0
-        return len(self.get_words_from_content()) / self.time_taken
 
     def save_to_file(self, filename: str) -> None:
         if not self.is_valid():
@@ -74,10 +77,6 @@ class LmResponse:
             file_handle.write("<lang_id>{}</lang_id>\n\n".format(self.lang_id))
             file_handle.write(self.response_content)
         print("Saved story to '{}'.".format(filename))
-
-client = OpenAI(base_url=LM_STUDIO_API_BASE, api_key=LM_STUDIO_API_KEY)
-
-
 
 def build_story_prompt(lang_id: str) -> str:
     prompt = {}
@@ -97,7 +96,9 @@ def build_story_prompt(lang_id: str) -> str:
     )
     return prompt[lang_id]
 
-def call_local_lm(prompt_text: str, lang_id: str) -> Optional[LmResponse]:
+client = OpenAI(base_url=LM_STUDIO_API_BASE, api_key=LM_STUDIO_API_KEY)
+
+def call_local_lm(prompt_text: str, lang_id: str) -> Optional[tuple[str, str, str, str, float]]:
     messages = [
         {"role": "system", "content": "You are a creative children's story writer."},
         {"role": "user", "content": prompt_text}
@@ -114,18 +115,32 @@ def call_local_lm(prompt_text: str, lang_id: str) -> Optional[LmResponse]:
         if not response_content:
             return None
         time_taken = time.perf_counter() - start_time
-        return LmResponse(response_content, prompt_text, MODEL, lang_id, time_taken)
+        return (response_content, prompt_text, MODEL, lang_id, time_taken)
 
     except Exception as error:
         print("Error while generating story: {}".format(error))
         return None
 
-def generate_story(lang_id: str) -> Optional[LmResponse]:
+def get_story_response_from_lm(prompt_text: str, lang_id: str) -> Optional[LmStoryResponse]:
+    response_data = call_local_lm(prompt_text, lang_id)
+    if not response_data:
+        return None
+    (response_content, prompt_text, model, lang_id, time_taken) = response_data
+    return LmStoryResponse(response_content, prompt_text, model, lang_id, time_taken)
+
+def get_response_from_lm(prompt_text: str, lang_id: str) -> Optional[LmResponse]:
+    response_data = call_local_lm(prompt_text, lang_id)
+    if not response_data:
+        return None
+    (response_content, prompt_text, model, lang_id, time_taken) = response_data
+    return LmResponse(response_content, prompt_text, model, lang_id, time_taken)
+
+def generate_story(lang_id: str) -> Optional[LmStoryResponse]:
     prompt_text = build_story_prompt(lang_id)
-    response = call_local_lm(prompt_text, lang_id)
+    response = get_story_response_from_lm(prompt_text, lang_id)
     return response
 
-def save_story_to_file(story_dir: str, story: LmResponse) -> None:
+def save_story_to_file(story_dir: str, story: LmStoryResponse) -> None:
     story_lang_dir = os.path.join(story_dir, story.lang_id)
     if not os.path.exists(story_lang_dir):
         os.makedirs(story_lang_dir)
@@ -138,20 +153,20 @@ def save_story_to_file(story_dir: str, story: LmResponse) -> None:
 def generate_and_save_stories(total_stories: int, stories_dir: str, lang_id: str) -> None:
     if not os.path.exists(stories_dir):
         os.makedirs(stories_dir)
+
     stories_generated = []
     for index in range(total_stories):
         print("Generating story {} of {}...".format(index + 1, total_stories))
         lm_response = generate_story(lang_id)
         if not lm_response:
             print("Skipping story {} due to an error.".format(index + 1))
-            continue
+            break
         stories_generated.append(lm_response)
         print("Story '{}' generated in {:.2f} seconds ({} words).".format(lm_response.get_title(), lm_response.time_taken, len(lm_response.get_words_from_content())))
         if lm_response.is_valid():
             save_story_to_file(stories_dir, lm_response)
         else:
             print("Invalid story not saved.")
-
 
     if stories_generated:
         time_per_story = [story.time_taken for story in stories_generated]
