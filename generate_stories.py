@@ -120,7 +120,7 @@ def generate_and_save_stories(total_stories: int, stories_dir: str, lang_id: str
             print("Skipping story {} due to an error.".format(index + 1))
             break
         stories_generated.append(lm_response)
-        print("Story '{}' generated in {:.2f} seconds ({} words).".format(lm_response.get_title(), lm_response.time_taken, len(lm_response.get_words_from_content())))
+        print("Story '{}' generated in {:.2f} seconds ({} words).".format(lm_response.get_title(), lm_response.time_taken, lm_response.num_words_in_content()))
         if lm_response.is_valid():
             save_story_to_file(stories_dir, lm_response)
         else:
