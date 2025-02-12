@@ -6,7 +6,7 @@ import time
 from typing import Optional
 from openai import OpenAI
 
-from common_lib import LmResponse, get_lm_caller
+from common_lib import LmResponse, StoryTitles, get_lm_caller
 
 LM_STUDIO_API_BASE = "http://127.0.0.1:1234/v1"
 LM_STUDIO_API_KEY = "lm-studio"
@@ -17,10 +17,11 @@ STORIES_DIR = "stories"
 LANG_ID = "nl"
 
 # Temperature and top_p can be tuned to control the randomness of the output.
-LM_TEMPERATURE = 0.9
-LM_TOP_P = 0.95
+LM_TEMPERATURE = 1.1
+LM_FREQUENCY_PENALTY = 1
+LM_PRESENCE_PENALTY = 1.5
 
-call_local_lm = get_lm_caller(LM_STUDIO_API_BASE, LM_STUDIO_API_KEY, MODEL, LM_TEMPERATURE, LM_TOP_P)
+call_local_lm = get_lm_caller(LM_STUDIO_API_BASE, LM_STUDIO_API_KEY, MODEL, LM_TEMPERATURE, LM_FREQUENCY_PENALTY, LM_PRESENCE_PENALTY)
 
 class LmTitlesResponse(LmResponse):
     pass

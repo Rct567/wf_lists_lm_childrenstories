@@ -32,9 +32,10 @@ LANG_ID = "nl"
 
 # Temperature and top_p can be tuned to control the randomness of the output.
 LM_TEMPERATURE = 0.9
-LM_TOP_P = 0.95
+LM_FREQUENCY_PENALTY = 0
+LM_PRESENCE_PENALTY = 0
 
-call_local_lm = get_lm_caller(LM_STUDIO_API_BASE, LM_STUDIO_API_KEY, MODEL, LM_TEMPERATURE, LM_TOP_P)
+call_local_lm = get_lm_caller(LM_STUDIO_API_BASE, LM_STUDIO_API_KEY, MODEL, LM_TEMPERATURE, LM_FREQUENCY_PENALTY, LM_PRESENCE_PENALTY)
 
 class LmStoryResponse(LmResponse):
 

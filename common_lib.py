@@ -7,28 +7,32 @@ import time
 from typing import Callable, NewType, Optional
 from openai import OpenAI
 
-def get_lm_caller(LM_STUDIO_API_BASE: str, LM_STUDIO_API_KEY: str, MODEL: str, LM_TEMPERATURE: float, LM_TOP_P: float):
+def get_lm_caller(api_base: str, api_key: str, model: str, temperature: float, frequency_penalty: float, presence_penalty: float):
 
-    client = OpenAI(base_url=LM_STUDIO_API_BASE, api_key=LM_STUDIO_API_KEY)
+    client = OpenAI(base_url=api_base, api_key=api_key)
 
     def call_local_lm(prompt_text: str, lang_id: str) -> Optional[tuple[str, str, str, str, float]]:
         messages = [
             {"role": "system", "content": "You are a creative children's story writer."},
             {"role": "user", "content": prompt_text}
         ]
+        assert temperature > 0 and temperature <= 2
+        assert frequency_penalty > -2 and frequency_penalty <= 2
+        assert presence_penalty > -2 and presence_penalty <= 2
         try:
             start_time = time.perf_counter()
             response = client.chat.completions.create(
-                model=MODEL,
+                model=model,
                 messages=messages, # type: ignore
-                temperature=LM_TEMPERATURE,
-                top_p=LM_TOP_P
+                temperature=temperature,
+                frequency_penalty=frequency_penalty,
+                presence_penalty=presence_penalty
             )
             response_content = response.choices[0].message.content
             if not response_content:
                 return None
             time_taken = time.perf_counter() - start_time
-            return (response_content, prompt_text, MODEL, lang_id, time_taken)
+            return (response_content, prompt_text, model, lang_id, time_taken)
 
         except Exception as error:
             print("Error while generating story: {}".format(error))
@@ -140,8 +144,6 @@ class TextProcessing:
         word_tokens = (TextProcessing.create_word_token(token, lang_id) for token in tokenizer(text))
         accepted_word_tokens = [token for token in word_tokens if is_acceptable_word(token)]
         return accepted_word_tokens
-
-
 
 class LmResponse:
     def __init__(self, response_content: str, prompt: str, model: str, lang_id: str, time_taken: float):
