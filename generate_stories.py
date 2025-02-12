@@ -52,7 +52,7 @@ class LmStoryResponse(LmResponse):
                 return False
             content_in_tag = self.content_from_tag(tag)
             if not content_in_tag or len(content_in_tag) < 10:
-                print("Tag '{}' not valid.".format(tag))
+                print("Tag '{}' has no valid content.".format(tag))
                 return False
         return True
 

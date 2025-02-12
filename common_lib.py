@@ -21,7 +21,7 @@ def get_lm_caller(api_base: str, api_key: str, model: str, temperature: float, f
         assert presence_penalty > -2 and presence_penalty <= 2
         try:
             start_time = time.perf_counter()
-            response = client.chat.completions.create(
+            response = client.chat.completions.create( # type: ignore
                 model=model,
                 messages=messages, # type: ignore
                 temperature=temperature,
@@ -32,6 +32,7 @@ def get_lm_caller(api_base: str, api_key: str, model: str, temperature: float, f
             if not response_content:
                 return None
             time_taken = time.perf_counter() - start_time
+            print("\n====================\n"+response_content+"\n===========================\n")
             return (response_content, prompt_text, model, lang_id, time_taken)
 
         except Exception as error:
