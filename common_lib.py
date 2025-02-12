@@ -9,6 +9,9 @@ import time
 from typing import Callable, Generator, Iterable, NewType, Optional
 from openai import OpenAI
 
+
+lm_caller_num_errors = 0
+
 def get_lm_caller(api_base: str, api_key: str, model: str, temperature: float, frequency_penalty: float, presence_penalty: float):
 
     client = OpenAI(base_url=api_base, api_key=api_key)
@@ -34,11 +37,15 @@ def get_lm_caller(api_base: str, api_key: str, model: str, temperature: float, f
             if not response_content:
                 return None
             time_taken = time.perf_counter() - start_time
-            print("\n====================\n"+response_content+"\n===========================\n")
+            print("\n===========================\n"+response_content+"\n===========================\n")
             return (response_content, prompt_text, model, lang_id, time_taken)
 
         except Exception as error:
+            global lm_caller_num_errors
+            lm_caller_num_errors += 1
             print("Error while generating story: {}".format(error))
+            if lm_caller_num_errors > 10:
+                sys.exit(1)
             return None
 
     return call_local_lm
