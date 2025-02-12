@@ -184,3 +184,43 @@ class LmResponse:
             return 0
         return self.num_words_in_content() / self.time_taken
 
+
+class StoryTitles:
+
+    min_title_length = 20
+    prefix_length = 28
+
+    def __init__(self, lang_id: str):
+        self.file_name = "titles_{}.txt".format(lang_id)
+        try:
+            with open(self.file_name, 'r', encoding="utf-8") as f:
+                self.titles = [line.strip() for line in f if len(line.strip()) > self.min_title_length]
+                self.unique_prefixes = set(self.prefix_from_title(title) for title in self.titles)
+        except FileNotFoundError:
+            self.titles = []
+
+    def prefix_from_title(self, word: str) -> str:
+        return word[:self.prefix_length].lower()
+
+    def add_title(self, title: str) -> None:
+        title_prefix = title[:self.prefix_length].lower()
+        if title_prefix in self.unique_prefixes:
+            return
+        if len(title) < self.min_title_length:
+            return
+        self.titles.append(title)
+        self.unique_prefixes.add(self.prefix_from_title(title))
+        self.save()
+
+    def get_new_title(self) -> Optional[str]:
+        if not self.titles:
+            return None
+        title = self.titles.pop(0)
+        self.save()
+        return title
+
+    def save(self) -> None:
+        with open(self.file_name, 'w', encoding="utf-8") as f:
+            for t in self.titles:
+                f.write(f"{t}\n")
+
