@@ -153,20 +153,29 @@ class LmResponse:
         self.lang_id = lang_id
         self.time_taken = time_taken
 
+    @staticmethod
+    def remove_think_content(content: str) -> str:
+        if "<think>" in content and "</think>" in content:
+            content = content[content.index("</think>")+len("</think>"):].strip()
+        return content
+
     def content_from_tag(self, tag_name: str) -> Optional[str]:
         tag_name = tag_name.strip('<>/')
-        content = self.response_content
+        content = self.remove_think_content(self.response_content)
         if tag_name == "body" and "<body>" in content and not "</body>" in content:
             content = content + "</body>"
-        content_match = re.search(r"<{}>(.*?)</{}>".format(tag_name, tag_name), content, re.DOTALL | re.IGNORECASE)
-        if not content_match:
+        match = re.search(r"<{}>(.*?)</{}>".format(tag_name, tag_name), content, re.DOTALL | re.IGNORECASE)
+        if not match:
             return None
-        return content_match.group(1).strip()
+        return match.group(1).strip()
 
     def content_from_tags(self, tag_name: str) -> Optional[list[str]]:
         tag_name = tag_name.strip('<>/')
-        matches = re.findall(r"<{}>(.*?)</{}>".format(tag_name, tag_name), self.response_content, re.DOTALL | re.IGNORECASE)
-        return [match.strip() for match in matches] if matches else []
+        content = self.remove_think_content(self.response_content)
+        matches = re.findall(r"<{}>(.*?)</{}>".format(tag_name, tag_name), content, re.DOTALL | re.IGNORECASE)
+        if not matches:
+            return None
+        return [match.strip() for match in matches]
 
     def content_from_tag_or_empty(self, tag_name: str) -> str:
         tag_content = self.content_from_tag(tag_name)
