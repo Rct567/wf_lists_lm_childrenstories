@@ -2,9 +2,11 @@
 
 from functools import cache
 import html
+import os
 import re
+import sys
 import time
-from typing import Callable, NewType, Optional
+from typing import Callable, Generator, Iterable, NewType, Optional
 from openai import OpenAI
 
 def get_lm_caller(api_base: str, api_key: str, model: str, temperature: float, frequency_penalty: float, presence_penalty: float):
@@ -200,29 +202,39 @@ class LmResponse:
 class StoryTitles:
 
     min_title_length = 20
-    prefix_length = 28
+    max_title_length = 100
+    prefix_num_words = 2
 
-    def __init__(self, lang_id: str):
+    def __init__(self, lang_id: str, titles_dir: str):
+        if not os.path.exists(titles_dir):
+            os.makedirs(titles_dir)
         self.file_name = "titles_{}.txt".format(lang_id)
+        self.file_path = os.path.join(titles_dir, self.file_name)
         try:
-            with open(self.file_name, 'r', encoding="utf-8") as f:
-                self.titles = [line.strip() for line in f if len(line.strip()) > self.min_title_length]
-                self.unique_prefixes = set(self.prefix_from_title(title) for title in self.titles)
+            with open(self.file_path, 'r', encoding="utf-8") as f:
+                self.titles = [title for title in self.unique_titles(f)]
+
         except FileNotFoundError:
             self.titles = []
 
-    def prefix_from_title(self, word: str) -> str:
-        return word[:self.prefix_length].lower()
+    def unique_titles(self, titles: Iterable[str]) -> Generator[str, None, None]:
+        unique_prefixes = set()
+        for title in titles:
+            title = title.strip()
+            if len(title) < self.min_title_length or len(title) > self.max_title_length:
+                continue
+            title_prefix = self.prefix_from_title(title)
+            if not title_prefix or title_prefix in unique_prefixes:
+                continue
+            yield title
+            unique_prefixes.add(title_prefix)
 
-    def add_title(self, title: str) -> None:
-        title_prefix = title[:self.prefix_length].lower()
-        if title_prefix in self.unique_prefixes:
-            return
-        if len(title) < self.min_title_length:
-            return
-        self.titles.append(title)
-        self.unique_prefixes.add(self.prefix_from_title(title))
-        self.save()
+
+    def prefix_from_title(self, title: str) -> Optional[str]:
+        words = title.lower().split()
+        if len(words) < self.prefix_num_words:
+            return None
+        return " ".join(words[0:self.prefix_num_words])
 
     def get_new_title(self) -> Optional[str]:
         if not self.titles:
@@ -232,7 +244,7 @@ class StoryTitles:
         return title
 
     def save(self) -> None:
-        with open(self.file_name, 'w', encoding="utf-8") as f:
-            for t in self.titles:
-                f.write(f"{t}\n")
+        with open(self.file_path, 'w', encoding="utf-8") as f:
+            for title in self.unique_titles(self.titles):
+                f.write(f"{title}\n")
 
