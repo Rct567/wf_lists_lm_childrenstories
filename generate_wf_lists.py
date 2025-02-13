@@ -9,8 +9,8 @@ def create_wf_list(lang_story_dir: str) -> None:
 
     assert len(lang_story_dir) == 2
     lang_id = lang_story_dir
-    word_counter = Counter()
-    word_counter_per_story = Counter()
+    word_counter: Counter[str] = Counter()
+    word_counter_per_story: Counter[str]  = Counter()
 
     for story_file in os.listdir(os.path.join(STORIES_DIR, lang_story_dir)):
 
@@ -43,14 +43,17 @@ def create_wf_list(lang_story_dir: str) -> None:
             continue
 
         body_content = content[content.rfind("<body>")+len("<body>"):].strip().replace("</body>", "")
-        tokens = TextProcessing.get_word_tokens_from_text(title_content+" "+body_content, lang_id, filter_words=True)
+        text = TextProcessing.get_plain_text(title_content+" "+body_content)
+        tokens = TextProcessing.get_word_tokens_from_text(text, lang_id, filter_words=True)
         word_counter.update(tokens)
         word_counter_per_story.update(set(tokens))
 
     wf_file = os.path.join(WF_LISTS_DIR, "wf_list_{}.csv".format(lang_id))
 
-    entries: list[tuple[str, int, int]] = [(word, count, word_counter_per_story[word]) for word, count in word_counter.items()]
-    sorted_entries = sorted(entries, key=lambda x: fmean([x[1],x[2]]), reverse=True)
+    entries = [(word, count, word_counter_per_story[word]) for word, count in word_counter.items()]
+    max_count = max([entry[1] for entry in entries])
+    max_story_count = max([entry[2] for entry in entries])
+    sorted_entries = sorted(entries, key=lambda x: fmean([x[1]/max_count,x[2]/max_story_count]), reverse=True)
 
     with open(wf_file, 'w', newline='', encoding="utf-8") as file:
         writer = csv.writer(file)
