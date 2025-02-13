@@ -1,16 +1,14 @@
 import os
 
-from common_lib import LmResponse, StoryTitles, TextProcessing, get_lm_caller
+from common_lib import TITLES_DIR, LmResponse, StoryTitles, TextProcessing, get_lm_caller
+
+MODEL = "meta-llama-3.1-8b-instruct@Q4_K_M"
+
+LANG_ID = "en"
 
 LM_STUDIO_API_BASE = "http://127.0.0.1:1234/v1"
 LM_STUDIO_API_KEY = "lm-studio"
-MODEL = "meta-llama-3.1-8b-instruct"
 
-STORIES_DIR = "stories"
-TITLES_DIR = "titles"
-LANG_ID = "nl"
-
-# Temperature and top_p can be tuned to control the randomness of the output.
 LM_TEMPERATURE = 1
 LM_FREQUENCY_PENALTY = 0
 LM_PRESENCE_PENALTY = 0
@@ -30,8 +28,10 @@ def build_titles_prompt(lang_id: str) -> str:
 
     )
     prompt['en'] = (
-        "Make a list of 40 titles for new (not existing) English children's stories. \n"
-        "Be creative! Give the titles in <title> tags. The titles must be at least 6 words long. \n"
+        "Make a list of 20 titles for new (not existing) English children's stories. \n"
+        "Be creative! Be original! \n"
+        "Give the titles in <title> tags. The titles must be at least 6 words long. \n"
+        "Do not add any additional comments or explanations; only provide the titles in <title> tags."
     )
     return prompt[lang_id]
 

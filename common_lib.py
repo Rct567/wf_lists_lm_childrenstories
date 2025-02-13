@@ -9,6 +9,10 @@ import time
 from typing import Callable, Generator, Iterable, NewType, Optional
 from openai import OpenAI
 
+STORIES_DIR = "stories"
+TITLES_DIR = "titles"
+WF_LISTS_DIR = "wf_lists"
+
 
 lm_caller_num_errors = 0
 
@@ -37,14 +41,15 @@ def get_lm_caller(api_base: str, api_key: str, model: str, temperature: float, f
             if not response_content:
                 return None
             time_taken = time.perf_counter() - start_time
-            print("\n===========================\n"+response_content+"\n===========================\n")
+            #print("\n===========================\n"+response_content+"\n===========================\n")
             return (response_content, prompt_text, model, lang_id, time_taken)
 
         except Exception as error:
             global lm_caller_num_errors
             lm_caller_num_errors += 1
-            print("Error while generating story: {}".format(error))
+            print("Error while getting response from LM: {}".format(error))
             if lm_caller_num_errors > 10:
+                print("Too many errors. Exiting.")
                 sys.exit(1)
             return None
 
@@ -135,7 +140,10 @@ class TextProcessing:
         return tokens
 
     @staticmethod
-    def get_tokenizer(lang_id: str) -> Tokenizer:
+    def __get_tokenizer(lang_id: str) -> Tokenizer:
+
+        if lang_id in {'zh', 'ja', 'th', 'lo', 'km'}:
+            raise Exception("Tokenizer not implemented for language '{}'.".format(lang_id))
 
         if lang_id in {'en', 'nl', 'af'}:
             return TextProcessing.default_tokenizer_removing_possessives
@@ -149,7 +157,7 @@ class TextProcessing:
             is_acceptable_word = TextProcessing.get_word_accepter(lang_id)
         else:
             is_acceptable_word: Callable[[str], bool] = lambda _: True
-        tokenizer = TextProcessing.get_tokenizer(lang_id)
+        tokenizer = TextProcessing.__get_tokenizer(lang_id)
 
         word_tokens = (TextProcessing.create_word_token(token, lang_id) for token in tokenizer(text))
         accepted_word_tokens = [token for token in word_tokens if is_acceptable_word(token)]
@@ -217,6 +225,7 @@ class StoryTitles:
             os.makedirs(titles_dir)
         self.file_name = "titles_{}.txt".format(lang_id)
         self.file_path = os.path.join(titles_dir, self.file_name)
+        self.lang_id = lang_id
         try:
             with open(self.file_path, 'r', encoding="utf-8") as f:
                 self.titles = [title for title in self.unique_titles(f)]
@@ -238,10 +247,10 @@ class StoryTitles:
 
 
     def prefix_from_title(self, title: str) -> Optional[str]:
-        words = title.lower().split()
-        if len(words) < self.prefix_num_words:
+        tokens = TextProcessing.get_word_tokens_from_text(title, self.lang_id, filter_words=False)
+        if len(tokens) < self.prefix_num_words:
             return None
-        return " ".join(words[0:self.prefix_num_words])
+        return " ".join(tokens[0:self.prefix_num_words])
 
     def get_new_title(self) -> Optional[str]:
         if not self.titles:
