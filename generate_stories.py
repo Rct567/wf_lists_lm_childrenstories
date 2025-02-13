@@ -26,7 +26,7 @@ MODEL = "meta-llama-3.1-8b-instruct@Q4_K_M"
 #MODEL = "llama-3.2-3b-instruct@Q8_0"
 
 NUMBER_OF_STORIES = 200
-LANG_ID = "en"
+LANG_ID = "nl"
 
 LM_STUDIO_API_BASE = "http://127.0.0.1:1234/v1"
 LM_STUDIO_API_KEY = "lm-studio"
@@ -83,7 +83,7 @@ def build_story_prompt(lang_id: str, story_titles: StoryTitles) -> str:
         "Het moet volledig in correct Nederlands (NL) geschreven zijn. \n"
         "De titel van het verhaal moet geplaats worden in <title> tags en het verhaal zelf in <body> tags. \n"
         "Voorbeeld: <title>De title van het verhaal</title><body>Het verhaal zelf</body>\n"
-        "Voeg geen extra commentaar of uitleg toe; geef alleen het verhaal in de opgegeven formaat. \n"
+        "Voeg geen extra commentaar of uitleg toe; geef alleen het verhaal in het opgegeven formaat. \n"
     )
 
     title = story_titles.get_new_title()
