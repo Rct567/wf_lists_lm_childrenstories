@@ -294,8 +294,9 @@ class LmResponse:
 
 class StoryTitles:
 
-    min_title_length = 20
-    max_title_length = 100
+    min_num_words_title = 4
+    max_num_words_title = 40
+    max_length_title = 100
     prefix_num_words = 2
 
     def __init__(self, lang_id: str, titles_dir: str):
@@ -315,20 +316,34 @@ class StoryTitles:
         unique_prefixes = set()
         for title in titles:
             title = title.strip()
-            if len(title) < self.min_title_length or len(title) > self.max_title_length:
+            if len(title) > self.max_length_title:
+                print("Title '{}' is too long.".format(title))
                 continue
-            title_prefix = self.prefix_from_title(title)
-            if not title_prefix or title_prefix in unique_prefixes:
+            title_tokens = TextProcessing.get_word_tokens_from_text(title, self.lang_id, filter_words=False)
+            if len(title_tokens) < self.min_num_words_title:
+                print("Title '{}' has too few words.".format(title))
+                continue
+            if len(title_tokens) > self.max_num_words_title:
+                print("Title '{}' has too many words.".format(title))
+                continue
+            title_prefix = self.prefix_from_title(title, title_tokens)
+            if not title_prefix:
+                print("Title '{}' has no valid prefix.".format(title))
+                continue
+            if title_prefix in unique_prefixes:
+                print("Title '{}' has a duplicate prefix.".format(title))
                 continue
             yield title
             unique_prefixes.add(title_prefix)
 
 
-    def prefix_from_title(self, title: str) -> Optional[str]:
-        tokens = TextProcessing.get_word_tokens_from_text(title, self.lang_id, filter_words=False)
-        if len(tokens) < self.prefix_num_words:
+    def prefix_from_title(self, title: str, title_tokens: Optional[list[WordToken]] = None) -> Optional[str]:
+        if title_tokens == None:
+            title_tokens = TextProcessing.get_word_tokens_from_text(title, self.lang_id, filter_words=False)
+        if len(title_tokens) < self.prefix_num_words:
+            print("Title '{}' has too few tokens for prefix.".format(title))
             return None
-        return " ".join(tokens[0:self.prefix_num_words])
+        return " ".join(title_tokens[0:self.prefix_num_words])
 
     def get_new_title(self) -> Optional[str]:
         if not self.titles:

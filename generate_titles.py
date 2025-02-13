@@ -1,9 +1,10 @@
 import os
 
-from common_lib import TITLES_DIR, LmResponse, StoryTitles, TextProcessing, get_lm_caller
+from common_lib import LANGUAGE_CODES_WITH_NAMES, TITLES_DIR, LmResponse, StoryTitles, TextProcessing, get_lm_caller
 
 MODEL = "meta-llama-3.1-8b-instruct@Q4_K_M"
 
+NUMBER_OF_RUNS = 1
 LANG_ID = "en"
 
 LM_STUDIO_API_BASE = "http://127.0.0.1:1234/v1"
@@ -19,21 +20,31 @@ class LmTitlesResponse(LmResponse):
     pass
 
 def build_titles_prompt(lang_id: str) -> str:
-    prompt = {}
-    prompt['nl'] = (
+    num_words = 6
+    pre_made_prompts = {}
+    pre_made_prompts['nl'] = (
         "Maak je lijstje met 20 titels voor nieuwe (niet bestaande) Nederlandse kinderverhalen. \n"
+        "De titels moeten volledig in correct Nederlands (NL) geschreven zijn.\n"
         "Wees creatief! Wees origineel! \n"
-        "Geef de titels in <title> tags. De titels moeten minimaal 6 woorden lang zijn. \n"
+        "Geef de titels in <title> tags. De titels moeten minimaal {num_words} woorden lang zijn. \n"
         "Voeg geen extra commentaar of uitleg toe; geef alleen de titles in <title> tags. \n"
 
     )
-    prompt['en'] = (
-        "Make a list of 20 titles for new (not existing) English children's stories. \n"
+    english_prompt_template = (
+        "Make a list of 20 titles for new (not existing) {language_name} children's stories. \n"
+        "The titles must be completely written in proper {language_name} ({language_code}).\n"
         "Be creative! Be original! \n"
-        "Give the titles in <title> tags. The titles must be at least 6 words long. \n"
+        "Give the titles in <title> tags. The titles must be at least {num_words} words long. \n"
         "Do not add any additional comments or explanations; only provide the titles in <title> tags."
     )
-    return prompt[lang_id]
+
+    if lang_id in pre_made_prompts:
+        prompt = pre_made_prompts[lang_id].format(num_words=num_words)
+    else:
+        language_name = LANGUAGE_CODES_WITH_NAMES[lang_id]
+        prompt = english_prompt_template.format(num_words=num_words, language_name=language_name, language_code=lang_id.upper())
+
+    return prompt
 
 def generate_titles(lang_id: str, titles_dir: str) -> None:
 
@@ -55,20 +66,25 @@ def generate_titles(lang_id: str, titles_dir: str) -> None:
     titles_prefixes = set()
     titles_from_content = [TextProcessing.get_plain_text(title).strip('"’”“') for title in titles_from_content]
 
+    num_titles_added = 0
     for title in titles_from_content:
         prefix = title[0:10]
         if prefix not in titles_prefixes:
             titles_prefixes.add(prefix)
             story_titles.titles.append(title)
+            num_titles_added += 1
 
     story_titles.save()
+
+    if num_titles_added == 0:
+        print("No new titles added to titles file!")
 
     file_size_in_mb = os.path.getsize(story_titles.file_path) / 1024 / 1024
     if file_size_in_mb > 0.5:
         raise Exception("Titles file is too large ({:.2f} MB).".format(file_size_in_mb))
 
 def main() -> None:
-    while True:
+    for _ in range(NUMBER_OF_RUNS):
         generate_titles(LANG_ID, TITLES_DIR)
 
 
