@@ -5,7 +5,7 @@ max_line_length = 200
 [tool.pyright]
 typeCheckingMode="strict"
 include = []
-exclude = ["stories/"]
+exclude = ["stories/", "typings/"]
 reportMissingImports = true
 reportMissingTypeStubs = true
 reportUnusedImport = false

@@ -1,6 +1,6 @@
 
 
-from functools import cache
+from functools import cache, partial
 import html
 import os
 import re
@@ -54,6 +54,63 @@ def get_lm_caller(api_base: str, api_key: str, model: str, temperature: float, f
             return None
 
     return call_local_lm
+
+
+import spacy
+from spacy.tokens import Doc
+from spacy.language import Language
+
+loaded_spacy: dict[str, Language] = {}
+
+def get_spacy_pipeline(lang_code: str) -> Language:
+
+    global loaded_spacy
+
+    if lang_code in loaded_spacy:
+        return loaded_spacy[lang_code]
+
+    # model_mapping = {
+    #     "zh": "zh_core_web_sm",
+    # }
+    # model_name = model_mapping.get(lang_code)
+    # if model_name:
+    #     return spacy.load(model_name)
+
+    if lang_code == "zh":
+        import jieba
+        jieba.setLogLevel(20)
+        cfg = {"segmenter": "jieba"}
+        nlp = spacy.blank(lang_code).from_config(
+            {"nlp": {"tokenizer": cfg}}
+        )
+    elif lang_code == 'ja':
+
+        nlp = spacy.blank(lang_code)
+
+        import MeCab
+
+        class MecabTokenizer:
+            def __init__(self, nlp: Language):
+                self.mecab = MeCab.Tagger()
+                self.vocab = nlp.vocab
+
+            def __call__(self, text: str) -> Doc:
+                tokens = []
+                node = self.mecab.parseToNode(text)
+                while node:
+                    if node.surface.strip():
+                        tokens.append(node.surface)
+                    node = node.next
+                return Doc(self.vocab, words=tokens)
+
+        # Assign custom tokenizer
+        nlp.tokenizer = MecabTokenizer(nlp)
+    else:
+        nlp = spacy.blank(lang_code)
+
+    loaded_spacy[lang_code] = nlp
+
+    return nlp
 
 
 WordToken = NewType('WordToken', str)
@@ -140,10 +197,15 @@ class TextProcessing:
         return tokens
 
     @staticmethod
+    def spacy_tokenizer(lang_id: str, text: str) -> list[str]:
+        nlp = get_spacy_pipeline(lang_id)
+        return [token.text for token in nlp(text)]
+
+    @staticmethod
     def __get_tokenizer(lang_id: str) -> Tokenizer:
 
         if lang_id in {'zh', 'ja', 'th', 'lo', 'km'}:
-            raise Exception("Tokenizer not implemented for language '{}'.".format(lang_id))
+            return partial(TextProcessing.spacy_tokenizer, lang_id)
 
         if lang_id in {'en', 'nl', 'af'}:
             return TextProcessing.default_tokenizer_removing_possessives
