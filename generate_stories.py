@@ -6,7 +6,7 @@ import time
 from typing import Optional
 from openai import OpenAI
 
-from common_lib import STORIES_DIR, TITLES_DIR, LmResponse, StoryTitles, get_lm_caller
+from common_lib import LANGUAGE_CODES_WITH_NAMES, STORIES_DIR, TITLES_DIR, LmResponse, StoryTitles, get_lm_caller
 
 
 # Vulcan:
@@ -69,34 +69,49 @@ class LmStoryResponse(LmResponse):
 def build_story_prompt(lang_id: str, story_titles: StoryTitles) -> str:
 
     assert lang_id == story_titles.lang_id
+    num_words = 1000
 
-    prompt = {}
-    prompt['en'] = (
-        "Please write a creative and original children's story that is at least 1000 words long. \n"
-        "It must be completely written in proper English. \n"
-        "Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags. \n"
-        "Example: <title>The title of the story</title><body>The story itself</body>\n"
-        "Do not include any extra commentary or explanation; output only the story in the specified format. \n"
-    )
-    prompt['nl'] = (
-        "Schrijf een creatief en origineel Nederlands kinderverhaal van minstens 1000 woorden: \n"
-        "Het moet volledig in correct Nederlands (NL) geschreven zijn. \n"
-        "De titel van het verhaal moet geplaats worden in <title> tags en het verhaal zelf in <body> tags. \n"
+    pre_made_prompts = {}
+    pre_made_prompts['nl'] = (
+        "Schrijf een creatief en origineel Nederlands kinderverhaal van minstens {num_words} woorden:\n"
+        "Het moet volledig in correct Nederlands (NL) geschreven zijn.\n"
+        "De titel van het verhaal moet geplaats worden in <title> tags en het verhaal zelf in <body> tags.\n"
         "Voorbeeld: <title>De title van het verhaal</title><body>Het verhaal zelf</body>\n"
-        "Voeg geen extra commentaar of uitleg toe; geef alleen het verhaal in het opgegeven formaat. \n"
+        "Voeg geen extra commentaar of uitleg toe; geef alleen het verhaal in het opgegeven formaat.\n"
     )
+
+    english_prompt_template = (
+        "Please write a creative and original children's story that is at least {num_words} words long.\n"
+        "It must be completely written in proper {language_name} ({language_code}).\n"
+        "Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.\n"
+        "Example: <title>The title of the story</title><body>The story itself</body>\n"
+        "Do not include any extra commentary or explanation; output only the story in the specified format.\n"
+    )
+
+    if lang_id in pre_made_prompts:
+        prompt = pre_made_prompts[lang_id].format(num_words=num_words)
+    else:
+        language_name = LANGUAGE_CODES_WITH_NAMES[lang_id]
+        prompt = english_prompt_template.format(num_words=num_words, language_name=language_name, language_code=lang_id.upper())
+
+    # add story title
 
     title = story_titles.get_new_title()
 
     if not title:
-        return prompt[lang_id]
+        return prompt
 
-    title_prompt = {}
-    title_prompt['en'] = "The title of the story is: '{}'.".format(title)
-    title_prompt['nl'] = "De titel van het verhaal is: '{}'.".format(title)
+    pre_made_title_prompt = {}
+    pre_made_title_prompt['nl'] = "De titel van het verhaal is: '{}'."
 
-    return prompt[lang_id]+title_prompt[lang_id]
+    english_title_prompts_template = "The title of the story is: '{}'."
 
+    if lang_id in pre_made_title_prompt:
+        prompt += ""+pre_made_title_prompt[lang_id].format(title)+"\n"
+    else:
+        prompt += ""+english_title_prompts_template.format(title)+"\n"
+
+    return prompt
 
 
 def get_story_response_from_lm(prompt_text: str, lang_id: str) -> Optional[LmStoryResponse]:
