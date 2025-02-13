@@ -357,11 +357,15 @@ class StoryTitles:
             for title in self.unique_titles(self.titles):
                 f.write(f"{title}\n")
 
+def num_text_files_in_dir(dir_path: str) -> int:
+    files_in_dir = [file for file in os.listdir(dir_path) if os.path.isfile(os.path.join(dir_path, file))]
+    text_files_in_dir = [file for file in files_in_dir if file.endswith(".txt")]
+    return len(text_files_in_dir)
 
-LANGUAGE_CODES_WITH_NAMES = { # Languages unknown to my spelling checker have been disabled for now
-    "aa": "Afar",
-    "ab": "Abkhazian",
-    "ae": "Avestan",
+def num_lines_in_file(file_path: str) -> int:
+    with open(file_path, 'r', encoding="utf-8") as f:
+        return sum(1 for _ in f)
+
     "af": "Afrikaans",
     "ak": "Akan",
     "am": "Amharic",

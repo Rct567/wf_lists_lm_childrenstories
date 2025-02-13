@@ -1,11 +1,12 @@
 import os
 
-from common_lib import LANGUAGE_CODES_WITH_NAMES, TITLES_DIR, LmResponse, StoryTitles, TextProcessing, get_lm_caller
+from common_lib import LANGUAGE_CODES_WITH_NAMES, TITLES_DIR, LmResponse, StoryTitles, TextProcessing, get_lm_caller, num_lines_in_file
 
 MODEL = "meta-llama-3.1-8b-instruct@Q4_K_M"
 
 NUMBER_OF_RUNS = 1
 LANG_ID = "en"
+MAX_TITLES_PER_LANG = 1000
 
 LM_STUDIO_API_BASE = "http://127.0.0.1:1234/v1"
 LM_STUDIO_API_KEY = "lm-studio"
@@ -46,7 +47,9 @@ def build_titles_prompt(lang_id: str) -> str:
 
     return prompt
 
-def generate_titles(lang_id: str, titles_dir: str) -> None:
+def generate_titles(lang_id: str, titles_dir: str, run_num: int) -> None:
+
+    print("Generating titles for '{}' (batch {} of {})...".format(lang_id, run_num + 1, NUMBER_OF_RUNS))
 
     prompt_text = build_titles_prompt(lang_id)
     response_data = call_local_lm(prompt_text, lang_id)
@@ -80,13 +83,34 @@ def generate_titles(lang_id: str, titles_dir: str) -> None:
         print("No new titles added to titles file!")
 
     file_size_in_mb = os.path.getsize(story_titles.file_path) / 1024 / 1024
-    if file_size_in_mb > 0.5:
+    if file_size_in_mb > 1:
         raise Exception("Titles file is too large ({:.2f} MB).".format(file_size_in_mb))
 
-def main() -> None:
-    for _ in range(NUMBER_OF_RUNS):
-        generate_titles(LANG_ID, TITLES_DIR)
 
+
+def main(lang_id: str) -> None:
+
+    assert lang_id == "*" or lang_id in LANGUAGE_CODES_WITH_NAMES
+
+    num_runs = 0
+
+    if lang_id != "*":
+        for _ in range(NUMBER_OF_RUNS):
+            generate_titles(lang_id, TITLES_DIR, num_runs)
+            num_runs += 1
+    else:
+        for lang_id in LANGUAGE_CODES_WITH_NAMES:
+            lang_title_file = os.path.join(TITLES_DIR, "titles_{}.txt".format(lang_id))
+            if num_lines_in_file(lang_title_file) > MAX_TITLES_PER_LANG:
+                print("Skipping '{}' because it already has {} titles.".format(lang_id, MAX_TITLES_PER_LANG))
+                continue
+            for _ in range(NUMBER_OF_RUNS):
+                generate_titles(lang_id, TITLES_DIR, num_runs)
+                num_runs += 1
+                if num_runs >= NUMBER_OF_RUNS:
+                    break
+            if num_runs >= NUMBER_OF_RUNS:
+                break
 
 if __name__ == "__main__":
-    main()
+    main(LANG_ID)

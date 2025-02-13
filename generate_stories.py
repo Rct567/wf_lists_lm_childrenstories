@@ -6,7 +6,7 @@ import time
 from typing import Optional
 from openai import OpenAI
 
-from common_lib import LANGUAGE_CODES_WITH_NAMES, STORIES_DIR, TITLES_DIR, LmResponse, StoryTitles, get_lm_caller
+from common_lib import LANGUAGE_CODES_WITH_NAMES, STORIES_DIR, TITLES_DIR, LmResponse, StoryTitles, get_lm_caller, num_text_files_in_dir
 
 
 # Vulcan:
@@ -25,8 +25,9 @@ from common_lib import LANGUAGE_CODES_WITH_NAMES, STORIES_DIR, TITLES_DIR, LmRes
 MODEL = "meta-llama-3.1-8b-instruct@Q4_K_M"
 #MODEL = "llama-3.2-3b-instruct@Q8_0"
 
-NUMBER_OF_STORIES = 200
-LANG_ID = "nl"
+NUMBER_OF_STORIES = 30
+LANG_ID = "*"
+MAX_STORIES_PER_LANG = 10
 
 LM_STUDIO_API_BASE = "http://127.0.0.1:1234/v1"
 LM_STUDIO_API_KEY = "lm-studio"
@@ -81,7 +82,7 @@ def build_story_prompt(lang_id: str, story_titles: StoryTitles) -> str:
     )
 
     english_prompt_template = (
-        "Please write a creative and original children's story that is at least {num_words} words long.\n"
+        "Please write a creative and original {language_name} children's story that is at least {num_words} words long.\n"
         "It must be completely written in proper {language_name} ({language_code}).\n"
         "Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.\n"
         "Example: <title>The title of the story</title><body>The story itself</body>\n"
@@ -163,8 +164,23 @@ def generate_and_save_stories(total_stories: int, stories_dir: str, titles_dir: 
     else:
         print("No stories generated.")
 
-def main() -> None:
-    generate_and_save_stories(NUMBER_OF_STORIES, STORIES_DIR, TITLES_DIR, LANG_ID)
+
+
+def main(lang_id: str) -> None:
+
+    assert lang_id == "*" or lang_id in LANGUAGE_CODES_WITH_NAMES
+
+    if lang_id != "*":
+        generate_and_save_stories(NUMBER_OF_STORIES, STORIES_DIR, TITLES_DIR, lang_id)
+    else:
+        for lang_id in LANGUAGE_CODES_WITH_NAMES:
+            lang_story_dir = os.path.join(STORIES_DIR, lang_id)
+            if os.path.exists(lang_story_dir) and num_text_files_in_dir(lang_story_dir) > MAX_STORIES_PER_LANG:
+                print("Skipping '{}' because it already has {} stories.".format(lang_id, MAX_STORIES_PER_LANG))
+                continue
+            print("Generating stories for '{}'...".format(lang_id))
+            generate_and_save_stories(NUMBER_OF_STORIES, STORIES_DIR, TITLES_DIR, lang_id)
+            break
 
 if __name__ == "__main__":
-    main()
+    main(LANG_ID)
