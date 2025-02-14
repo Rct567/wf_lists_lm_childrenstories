@@ -20,38 +20,47 @@ def get_lm_caller(api_base: str, api_key: str, model: str, temperature: float, f
 
     client = OpenAI(base_url=api_base, api_key=api_key)
 
+    if "Mistral" in model:
+        model_role = "assistant"
+    else:
+        model_role = "system"
+
     def call_local_lm(prompt_text: str, lang_id: str) -> Optional[tuple[str, str, str, str, float]]:
         messages = [
-            {"role": "system", "content": "You are a creative children's story writer."},
+            {"role": model_role, "content": "You are a creative children's story writer."},
             {"role": "user", "content": prompt_text}
         ]
         assert temperature > 0 and temperature <= 2
         assert frequency_penalty > -2 and frequency_penalty <= 2
         assert presence_penalty > -2 and presence_penalty <= 2
-        try:
-            start_time = time.perf_counter()
-            response = client.chat.completions.create( # type: ignore
-                model=model,
-                messages=messages, # type: ignore
-                temperature=temperature,
-                frequency_penalty=frequency_penalty,
-                presence_penalty=presence_penalty
-            )
-            response_content = response.choices[0].message.content
-            if not response_content:
-                return None
-            time_taken = time.perf_counter() - start_time
-            #print("\n===========================\n"+response_content+"\n===========================\n")
-            return (response_content, prompt_text, model, lang_id, time_taken)
-
-        except Exception as error:
-            global lm_caller_num_errors
-            lm_caller_num_errors += 1
-            print("Error while getting response from LM: {}".format(error))
-            if lm_caller_num_errors > 10:
-                print("Too many errors. Exiting.")
-                sys.exit(1)
+        #try:
+        start_time = time.perf_counter()
+        response = client.chat.completions.create(
+            model=model,
+            messages=messages, # type: ignore
+            temperature=temperature,
+            frequency_penalty=frequency_penalty,
+            presence_penalty=presence_penalty
+        )
+        if not response.choices:
+            print("No choices in response?")
+            print(response)
             return None
+        response_content = response.choices[0].message.content
+        if not response_content:
+            return None
+        time_taken = time.perf_counter() - start_time
+        #print("\n===========================\n"+response_content+"\n===========================\n")
+        return (response_content, prompt_text, model, lang_id, time_taken)
+
+        # except Exception as error:
+        #     global lm_caller_num_errors
+        #     lm_caller_num_errors += 1
+        #     print("Error while getting response from LM: {}".format(error))
+        #     if lm_caller_num_errors > 10:
+        #         print("Too many errors. Exiting.")
+        #         sys.exit(1)
+        #     return None
 
     return call_local_lm
 
