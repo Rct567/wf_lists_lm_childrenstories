@@ -11,10 +11,12 @@ def create_wf_list(lang_story_dir: str) -> None:
     lang_id = lang_story_dir
     word_counter: Counter[str] = Counter()
     word_counter_per_story: Counter[str]  = Counter()
+    num_stories = 0
 
     for story_file in os.listdir(os.path.join(STORIES_DIR, lang_story_dir)):
 
         story_file_path = os.path.join(STORIES_DIR, lang_story_dir, story_file)
+        num_stories += 1
 
         if not os.path.isfile(story_file_path):
             print("File '{}' is not a file.".format(story_file_path))
@@ -47,6 +49,9 @@ def create_wf_list(lang_story_dir: str) -> None:
         tokens = TextProcessing.get_word_tokens_from_text(text, lang_id, filter_words=True)
         word_counter.update(tokens)
         word_counter_per_story.update(set(tokens))
+
+    if num_stories < 10:
+        print("Not enough stories for language '{}'.".format(lang_id))
 
     wf_file = os.path.join(WF_LISTS_DIR, "wf_list_{}.csv".format(lang_id))
 
