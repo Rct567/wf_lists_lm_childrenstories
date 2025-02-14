@@ -78,23 +78,14 @@ def get_spacy_pipeline(lang_code: str) -> Language:
     if lang_code in loaded_spacy:
         return loaded_spacy[lang_code]
 
-    model_mapping = {
-        'th': "th_core_news_sm", # Thai
-        'bo': "xx_ent_wiki_sm",  # Tibetan
-    }
-
-    model_name = model_mapping.get(lang_code)
-    if model_name:
-        return spacy.load(model_name)
-
-    if lang_code == "zh":
+    if lang_code == "zh": # Chinese
         import jieba
         jieba.setLogLevel(20)
         cfg = {"segmenter": "jieba"}
         nlp = spacy.blank(lang_code).from_config(
             {"nlp": {"tokenizer": cfg}}
         )
-    elif lang_code == 'ja':
+    elif lang_code == 'ja': # Japanese
 
         nlp = spacy.blank(lang_code)
 
@@ -113,29 +104,53 @@ def get_spacy_pipeline(lang_code: str) -> Language:
                         tokens.append(node.surface)
                     node = node.next
                 return Doc(self.vocab, words=tokens)
-
-        # Assign custom tokenizer
         nlp.tokenizer = MecabTokenizer(nlp)
-    elif lang_code == "km":
-        from khmernltk import word_tokenize as khmer_tokenizer
-        def custom_khmer_tokenizer(nlp: Language, text: str) -> Doc:
-            tokens: list[str] = khmer_tokenizer(text)
+    elif lang_code == "th": # Thai
+        from pythainlp.tokenize import word_tokenize as thai_word_tokenize
+        def custom_thai_tokenizer(text: str) -> Doc:
+            nonlocal nlp
+            tokens: list[str] = thai_word_tokenize(text)
             return Doc(nlp.vocab, words=tokens)
         nlp = spacy.blank('xx')
-        nlp.tokenizer = lambda text: custom_khmer_tokenizer(nlp, text)
-    elif lang_code == "lo":
+        nlp.tokenizer = custom_thai_tokenizer
+    elif lang_code == "km": # Khmer
+        from khmernltk.word_tokenize import word_tokenize as khmer_tokenizer
+        def custom_khmer_tokenizer(text: str) -> Doc:
+            nonlocal nlp
+            tokens: list[str] = [str(token) for token in khmer_tokenizer(text)]
+            return Doc(nlp.vocab, words=tokens)
+        nlp = spacy.blank('xx')
+        nlp.tokenizer = custom_khmer_tokenizer
+    elif lang_code == "lo": # Lao
         from laonlp.tokenize import word_tokenize as lao_tokenizer
-        def custom_lao_tokenizer(nlp: Language, text: str) -> Doc:
+        def custom_lao_tokenizer(text: str) -> Doc:
+            nonlocal nlp
             tokens: list[str] = [str(token) for token in lao_tokenizer(text)]
             return Doc(nlp.vocab, words=tokens)
         nlp = spacy.blank('xx')
-        nlp.tokenizer = lambda text: custom_lao_tokenizer(nlp, text)
+        nlp.tokenizer = custom_lao_tokenizer
+    elif lang_code == "bo": # Tibetan
+        from botok import WordTokenizer # type: ignore
+        from botok.config import Config
+        from pathlib import Path
+        config = Config(dialect_name="general", base_path= Path.home())
+        wt = WordTokenizer(config=config)
+        def custom_lao_tokenizer(text: str) -> Doc:
+            nonlocal nlp, wt
+            text = text.replace("\t", " ")
+            try:
+                tokens: list[str] = [str(token.text) for token in  wt.tokenize(text, split_affixes=False) if token.chunk_type == "TEXT"]
+            except Exception as e:
+                print(e)
+                tokens = []
+            return Doc(nlp.vocab, words=tokens)
+        nlp = spacy.blank('xx')
+        nlp.tokenizer = custom_lao_tokenizer
     else:
-        #nlp = spacy.blank(lang_code)
         raise Exception("Should Spacy be used for {}?".format(lang_code))
+        #nlp = spacy.blank(lang_code)
 
     loaded_spacy[lang_code] = nlp
-
     return nlp
 
 
@@ -347,7 +362,8 @@ class StoryTitles:
                 continue
             title_tokens = TextProcessing.get_word_tokens_from_text(title, self.lang_id, filter_words=False)
             if len(title_tokens) < self.min_num_words_title:
-                print("Title '{}' has too few words.".format(title))
+                print(title_tokens)
+                print("Title '{}' has too few words ({}).".format(title, len(title_tokens)))
                 continue
             if len(title_tokens) > self.max_num_words_title:
                 print("Title '{}' has too many words.".format(title))
