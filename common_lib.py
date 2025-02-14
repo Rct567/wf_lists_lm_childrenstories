@@ -69,12 +69,14 @@ def get_spacy_pipeline(lang_code: str) -> Language:
     if lang_code in loaded_spacy:
         return loaded_spacy[lang_code]
 
-    # model_mapping = {
-    #     "zh": "zh_core_web_sm",
-    # }
-    # model_name = model_mapping.get(lang_code)
-    # if model_name:
-    #     return spacy.load(model_name)
+    model_mapping = {
+        'th': "th_core_news_sm", # Thai
+        'bo': "xx_ent_wiki_sm",  # Tibetan
+    }
+
+    model_name = model_mapping.get(lang_code)
+    if model_name:
+        return spacy.load(model_name)
 
     if lang_code == "zh":
         import jieba
@@ -105,8 +107,23 @@ def get_spacy_pipeline(lang_code: str) -> Language:
 
         # Assign custom tokenizer
         nlp.tokenizer = MecabTokenizer(nlp)
+    elif lang_code == "km":
+        from khmernltk import word_tokenize as khmer_tokenizer
+        def custom_khmer_tokenizer(nlp: Language, text: str) -> Doc:
+            tokens: list[str] = khmer_tokenizer(text)
+            return Doc(nlp.vocab, words=tokens)
+        nlp = spacy.blank('xx')
+        nlp.tokenizer = lambda text: custom_khmer_tokenizer(nlp, text)
+    elif lang_code == "lo":
+        from laonlp.tokenize import word_tokenize as lao_tokenizer
+        def custom_lao_tokenizer(nlp: Language, text: str) -> Doc:
+            tokens: list[str] = [str(token) for token in lao_tokenizer(text)]
+            return Doc(nlp.vocab, words=tokens)
+        nlp = spacy.blank('xx')
+        nlp.tokenizer = lambda text: custom_lao_tokenizer(nlp, text)
     else:
-        nlp = spacy.blank(lang_code)
+        #nlp = spacy.blank(lang_code)
+        raise Exception("Should Spacy be used for {}?".format(lang_code))
 
     loaded_spacy[lang_code] = nlp
 
