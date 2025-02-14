@@ -100,6 +100,7 @@ def main(lang_id: str) -> None:
             num_runs += 1
     else:
         for lang_id in LANGUAGE_CODES_WITH_NAMES:
+            print("Working on language '{}' ({})...".format(lang_id, LANGUAGE_CODES_WITH_NAMES[lang_id]))
             lang_title_file = os.path.join(TITLES_DIR, "titles_{}.txt".format(lang_id))
             if num_lines_in_file(lang_title_file) > MAX_TITLES_PER_LANG:
                 print("Skipping '{}' because it already has {} titles.".format(lang_id, MAX_TITLES_PER_LANG))
@@ -108,6 +109,8 @@ def main(lang_id: str) -> None:
                 generate_titles(lang_id, TITLES_DIR, num_runs)
                 num_runs += 1
                 if num_runs >= NUMBER_OF_RUNS:
+                    break
+                if num_lines_in_file(lang_title_file) > MAX_TITLES_PER_LANG:
                     break
             if num_runs >= NUMBER_OF_RUNS:
                 break
