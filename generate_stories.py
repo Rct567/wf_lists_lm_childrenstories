@@ -137,24 +137,60 @@ def save_story_to_file(story_dir: str, story: LmStoryResponse) -> None:
     except Exception as error:
         print("Error saving the story: {}".format(error))
 
-def generate_and_save_stories(total_stories: int, stories_dir: str, titles_dir: str, lang_id: str) -> None:
+def generate_and_save_story(stories_dir: str, titles_dir: str, lang_id: str) -> Optional[LmStoryResponse]:
+
+    story_titles = StoryTitles(lang_id, titles_dir)
+
     if not os.path.exists(stories_dir):
         os.makedirs(stories_dir)
 
-    story_titles = StoryTitles(lang_id, titles_dir)
-    stories_generated = []
-    for index in range(total_stories):
-        print("Generating story {} of {}...".format(index + 1, total_stories))
-        lm_response = generate_story(lang_id, story_titles)
-        if not lm_response:
-            print("Skipping story {} due to an error.".format(index + 1))
-            break
-        stories_generated.append(lm_response)
-        print("Story '{}' generated in {:.2f} seconds ({} words).".format(lm_response.get_title(), lm_response.time_taken, lm_response.num_words_in_content()))
-        if lm_response.is_valid():
-            save_story_to_file(stories_dir, lm_response)
-        else:
-            print("Invalid story not saved.")
+    lm_response = generate_story(lang_id, story_titles)
+    if not lm_response:
+        print("Skipping story {} due to an error.")
+        return
+
+    print("Story '{}' generated in {:.2f} seconds ({} words).".format(lm_response.get_title(), lm_response.time_taken, lm_response.num_words_in_content()))
+
+    if lm_response.is_valid():
+        save_story_to_file(stories_dir, lm_response)
+    else:
+        print("Invalid story not saved.")
+        return
+
+    return lm_response
+
+
+def main(lang_id: str) -> None:
+
+    assert lang_id == "*" or lang_id in LANGUAGE_CODES_WITH_NAMES
+    stories_generated: list[LmStoryResponse] = []
+    num_runs = 0
+
+    if lang_id != "*":
+        for _ in range(NUMBER_OF_RUNS):
+            story = generate_and_save_story(STORIES_DIR, TITLES_DIR, lang_id)
+            if story:
+                stories_generated.append(story)
+            num_runs += 1
+    else:
+        for lang_id in LANGUAGE_CODES_WITH_NAMES:
+            print("Working on language '{}' ({})...".format(lang_id, LANGUAGE_CODES_WITH_NAMES[lang_id]))
+            lang_story_dir = os.path.join(STORIES_DIR, lang_id)
+            if num_text_files_in_dir(lang_story_dir) > MAX_STORIES_PER_LANG:
+                print("Skipping '{}' because it already has {} stories.".format(lang_id, MAX_STORIES_PER_LANG))
+                continue
+            for _ in range(NUMBER_OF_RUNS):
+                story = generate_and_save_story(STORIES_DIR, TITLES_DIR, lang_id)
+                if story:
+                    stories_generated.append(story)
+                num_runs += 1
+                if num_runs >= NUMBER_OF_RUNS:
+                    break
+                if num_text_files_in_dir(lang_story_dir) > MAX_STORIES_PER_LANG:
+                    print("Skipping '{}' because it already has {} stories.".format(lang_id, MAX_STORIES_PER_LANG))
+                    break
+            if num_runs >= NUMBER_OF_RUNS:
+                break
 
     if stories_generated:
         time_per_story = [story.time_taken for story in stories_generated]
@@ -163,24 +199,6 @@ def generate_and_save_stories(total_stories: int, stories_dir: str, titles_dir: 
         print("Rate: {:.0f} words per second.".format(num_words_per_second))
     else:
         print("No stories generated.")
-
-
-
-def main(lang_id: str) -> None:
-
-    assert lang_id == "*" or lang_id in LANGUAGE_CODES_WITH_NAMES
-
-    if lang_id != "*":
-        generate_and_save_stories(NUMBER_OF_STORIES, STORIES_DIR, TITLES_DIR, lang_id)
-    else:
-        for lang_id in LANGUAGE_CODES_WITH_NAMES:
-            lang_story_dir = os.path.join(STORIES_DIR, lang_id)
-            if os.path.exists(lang_story_dir) and num_text_files_in_dir(lang_story_dir) > MAX_STORIES_PER_LANG:
-                print("Skipping '{}' because it already has {} stories.".format(lang_id, MAX_STORIES_PER_LANG))
-                continue
-            print("Generating stories for '{}'...".format(lang_id))
-            generate_and_save_stories(NUMBER_OF_STORIES, STORIES_DIR, TITLES_DIR, lang_id)
-            break
 
 if __name__ == "__main__":
     main(LANG_ID)
