@@ -146,7 +146,7 @@ def generate_and_save_story(stories_dir: str, titles_dir: str, lang_id: str) -> 
 
     lm_response = generate_story(lang_id, story_titles)
     if not lm_response:
-        print("Skipping story {} due to an error.")
+        print("Skipped saving story due to an error.")
         return
 
     print("Story '{}' generated in {:.2f} seconds ({} words).".format(lm_response.get_title(), lm_response.time_taken, lm_response.num_words_in_content()))
@@ -160,20 +160,25 @@ def generate_and_save_story(stories_dir: str, titles_dir: str, lang_id: str) -> 
     return lm_response
 
 
-def main(lang_id: str) -> None:
+def main(lang_ids: Union[str, list[str]]) -> None:
 
-    assert lang_id == "*" or lang_id in LANGUAGE_CODES_WITH_NAMES
+    assert isinstance(lang_ids, list) or lang_ids == "*" or lang_ids in LANGUAGE_CODES_WITH_NAMES
+    assert not isinstance(lang_ids, list) or all(item in LANGUAGE_CODES_WITH_NAMES for item in lang_ids)
     stories_generated: list[LmStoryResponse] = []
     num_runs = 0
 
-    if lang_id != "*":
+    if isinstance(lang_ids, str) and lang_ids != "*":
         for _ in range(NUMBER_OF_RUNS):
-            story = generate_and_save_story(STORIES_DIR, TITLES_DIR, lang_id)
+            story = generate_and_save_story(STORIES_DIR, TITLES_DIR, lang_ids)
             if story:
                 stories_generated.append(story)
             num_runs += 1
     else:
-        for lang_id in LANGUAGE_CODES_WITH_NAMES:
+        if isinstance(lang_ids, list):
+            languages_to_process: list[str] = [id for id in lang_ids if id in LANGUAGE_CODES_WITH_NAMES]
+        else:
+            languages_to_process = list(LANGUAGE_CODES_WITH_NAMES.keys())
+        for lang_id in languages_to_process:
             print("Working on language '{}' ({})...".format(lang_id, LANGUAGE_CODES_WITH_NAMES[lang_id]))
             lang_story_dir = os.path.join(STORIES_DIR, lang_id)
             if num_text_files_in_dir(lang_story_dir) > MAX_STORIES_PER_LANG:
