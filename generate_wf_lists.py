@@ -71,7 +71,7 @@ def create_wf_list(lang_story_dir: str) -> None:
 
     with open(wf_file, 'w', newline='', encoding="utf-8") as file:
         writer = csv.writer(file)
-        writer.writerow(["word", "count", "story_count"])
+        writer.writerow(["word", "count", "doc_count"])
         for word, count, story_count in sorted_entries:
             if story_count == 1:
                 continue
