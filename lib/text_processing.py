@@ -27,25 +27,14 @@ def get_spacy_pipeline(lang_code: str) -> Language:
             {"nlp": {"tokenizer": cfg}}
         )
     elif lang_code == 'ja': # Japanese
-
-        nlp = spacy.blank(lang_code)
-
         import MeCab
-
-        class MecabTokenizer:
-            def __init__(self, nlp: Language):
-                self.mecab = MeCab.Tagger()
-                self.vocab = nlp.vocab
-
-            def __call__(self, text: str) -> Doc:
-                tokens = []
-                node = self.mecab.parseToNode(text)
-                while node:
-                    if node.surface.strip():
-                        tokens.append(node.surface)
-                    node = node.next
-                return Doc(self.vocab, words=tokens)
-        nlp.tokenizer = MecabTokenizer(nlp)
+        def custom_japanese_tokenizer(text: str) -> Doc:
+            nonlocal nlp
+            tagger = MeCab.Tagger("-Owakati")
+            tokens = tagger.parse(text).strip().split()
+            return Doc(nlp.vocab, words=tokens)
+        nlp = spacy.blank('xx')
+        nlp.tokenizer = custom_japanese_tokenizer
     elif lang_code == "th": # Thai
         from pythainlp.tokenize import word_tokenize as thai_word_tokenize
         def custom_thai_tokenizer(text: str) -> Doc:
