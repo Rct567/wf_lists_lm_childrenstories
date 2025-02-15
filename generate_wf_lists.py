@@ -3,7 +3,9 @@ import csv
 import os
 import re
 from statistics import fmean
-from common_lib import STORIES_DIR, TITLES_DIR, WF_LISTS_DIR, TextProcessing
+from lib.language_data import LANGUAGE_CODES_WITH_NAMES
+from lib.misc import STORIES_DIR, WF_LISTS_DIR
+from lib.text_processing import TextProcessing
 
 def create_wf_list(lang_story_dir: str) -> None:
 

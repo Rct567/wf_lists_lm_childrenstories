@@ -1,8 +1,8 @@
 import os
-
-from common_lib import LANGUAGE_CODES_WITH_NAMES, TITLES_DIR, LmResponse, StoryTitles, TextProcessing, get_lm_caller, num_lines_in_file
-
-MODEL = "meta-llama-3.1-8b-instruct@Q4_K_M"
+from lib.language_data import LANGUAGE_CODES_WITH_NAMES
+from lib.lm import LmResponse, StoryTitles, get_lm_caller
+from lib.misc import TITLES_DIR, num_lines_in_file
+from lib.text_processing import TextProcessing
 
 NUMBER_OF_RUNS = 1
 LANG_ID = "en"
