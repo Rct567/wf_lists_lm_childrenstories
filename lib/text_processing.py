@@ -90,10 +90,12 @@ Tokenizer = Callable[[str], list[str]]
 class TextProcessing:
 
     CHINESE_PATTERN = re.compile(r'[\u4e00-\u9fff]{1,}', re.UNICODE)
-    JAPANESE_PATTERN = re.compile(
+    JAPANESE_PATTERN = re.compile(r'[\u3040-\u309F\u4E00-\u9FAF\uF900-\uFAFF\u3400-\u4DBF]{1,}', re.UNICODE) # Kanji + Hiragana only
+    JAPANESE_ALL_PATTERN = re.compile(
         r'[\u3040-\u309f\u30a0-\u30ff\u4e00-\u9faf\uf900-\ufaff\u3400-\u4dbf]{1,}',
         re.UNICODE
-    )
+    ) # Kanji + Hiragana + Katakana
+    JAPANESE_KATAKANA_PATTERN = re.compile(r'[\u30A0-\u30FF]{1,}', re.UNICODE) # Katakana only
     KOREAN_PATTERN = re.compile(r'[\uac00-\ud7a3]{1,}', re.UNICODE)
     ARABIC_PATTERN = re.compile(r'[\u0600-\u06FF]{1,}', re.UNICODE)
     ETHIOPIC_PATTERN = re.compile(r'[\u1200-\u137F]{1,}', re.UNICODE)
@@ -120,6 +122,10 @@ class TextProcessing:
             word_pattern = TextProcessing.CHINESE_PATTERN
         elif lang_id == 'ja':
             word_pattern = TextProcessing.JAPANESE_PATTERN
+        elif lang_id == 'ja_kana':
+            word_pattern = TextProcessing.JAPANESE_KATAKANA_PATTERN
+        elif lang_id == 'ja_all':
+            word_pattern = TextProcessing.JAPANESE_ALL_PATTERN
         elif lang_id == 'ko':
             word_pattern = TextProcessing.KOREAN_PATTERN
         elif lang_id == 'ar':
