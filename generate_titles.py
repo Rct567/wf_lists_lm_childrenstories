@@ -71,6 +71,18 @@ def generate_titles(lang_id: str, titles_dir: str, run_num: int) -> None:
 
     num_titles_added = 0
     for title in titles_from_content:
+        if any(char in title for char in "{}[]<>@#$%^*+"):
+            print("Title '{}' contains invalid characters.".format(title))
+            continue
+        word_accepter = TextProcessing.get_word_accepter(lang_id)
+        title_acceptable = True
+        for word in TextProcessing.get_word_tokens_from_text(title, lang_id, filter_words=False):
+            if not word_accepter(word):
+                print("Title '{}' contains invalid word '{}' for language '{}'.".format(title, word, lang_id))
+                title_acceptable = False
+                break
+        if not title_acceptable:
+            continue
         prefix = title[0:10]
         if prefix not in titles_prefixes:
             titles_prefixes.add(prefix)
