@@ -5,8 +5,8 @@ from typing import Optional, Union
 
 
 from lib.language_data import LANGUAGE_CODES_WITH_NAMES
-from lib.lm import LmResponse, StoryTitles, get_lm_caller
-from lib.misc import STORIES_DIR, TITLES_DIR, num_text_files_in_dir
+from lib.lm import LmResponse, get_lm_caller
+from lib.misc import STORIES_DIR, TITLES_DIR, StoryTitles, num_text_files_in_dir
 
 
 # Vulcan:

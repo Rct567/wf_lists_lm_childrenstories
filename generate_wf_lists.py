@@ -49,11 +49,18 @@ def create_wf_list(lang_story_dir: str) -> None:
         body_content = content[content.rfind("<body>")+len("<body>"):].strip().replace("</body>", "")
         text = TextProcessing.get_plain_text(title_content+" "+body_content)
         tokens = TextProcessing.get_word_tokens_from_text(text, lang_id, filter_words=True)
+        if not tokens and body_content:
+            print("No tokens produced for file '{}'.".format(story_file_path))
+
         word_counter.update(tokens)
         word_counter_per_story.update(set(tokens))
 
     if num_stories < 10:
         print("Not enough stories for language '{}'.".format(lang_id))
+        return
+    if not word_counter:
+        print("No words found for language '{}'.".format(lang_id))
+        return
 
     wf_file = os.path.join(WF_LISTS_DIR, "wf_list_{}.csv".format(lang_id))
 
@@ -69,6 +76,8 @@ def create_wf_list(lang_story_dir: str) -> None:
             if story_count == 1:
                 continue
             writer.writerow([word, count, story_count])
+
+    print("Created word frequency list for language '{}' ({}) based on {} stories.".format(lang_id, LANGUAGE_CODES_WITH_NAMES[lang_id], num_stories))
 
 
 if not os.path.exists(WF_LISTS_DIR):

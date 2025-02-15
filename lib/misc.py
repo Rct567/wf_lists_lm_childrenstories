@@ -1,5 +1,8 @@
 
 import os
+from typing import Generator, Iterable, Optional
+
+from lib.text_processing import TextProcessing, WordToken
 
 STORIES_DIR = "stories"
 TITLES_DIR = "titles"
@@ -19,4 +22,84 @@ def num_lines_in_file(file_path: str) -> int:
         return 0
     with open(file_path, 'r', encoding="utf-8") as f:
         return sum(1 for _ in f)
+
+class StoryTitles:
+
+    min_num_words_title = 4
+    max_num_words_title = 40
+    max_length_title = 100
+    prefix_num_words = 2
+
+    def __init__(self, lang_id: str, titles_dir: str):
+        if not os.path.exists(titles_dir):
+            os.makedirs(titles_dir)
+        self.file_name = "titles_{}.txt".format(lang_id)
+        self.file_path = os.path.join(titles_dir, self.file_name)
+        self.lang_id = lang_id
+        try:
+            with open(self.file_path, 'r', encoding="utf-8") as f:
+                self.titles = [title for title in self.unique_titles(f)]
+
+        except FileNotFoundError:
+            self.titles = []
+
+    def unique_titles(self, titles: Iterable[str]) -> Generator[str, None, None]:
+        unique_prefixes = set()
+        for title in titles:
+            title = title.strip()
+            if len(title) > self.max_length_title:
+                print("Title '{}' is too long.".format(title))
+                continue
+            title_tokens = TextProcessing.get_word_tokens_from_text(title, self.lang_id, filter_words=False)
+            if len(title_tokens) < self.min_num_words_title:
+                print(title_tokens)
+                print("Title '{}' has too few words ({}).".format(title, len(title_tokens)))
+                continue
+            if len(title_tokens) > self.max_num_words_title:
+                print("Title '{}' has too many words.".format(title))
+                continue
+            title_prefix = self.prefix_from_title(title, title_tokens)
+            if not title_prefix:
+                print("Title '{}' has no valid prefix.".format(title))
+                continue
+            if title_prefix in unique_prefixes:
+                print("Title '{}' has a duplicate prefix.".format(title))
+                continue
+            yield title
+            unique_prefixes.add(title_prefix)
+
+    @staticmethod
+    def title_is_acceptable(title: str, lang_id: str) -> bool:
+        if any(char in title for char in "{}[]<>@#$%^*+"):
+            print("Title '{}' contains invalid characters.".format(title))
+            return False
+        word_accepter = TextProcessing.get_word_accepter(lang_id)
+        for word in TextProcessing.get_word_tokens_from_text(title, lang_id, filter_words=False):
+            if not word_accepter(word):
+                print("Title '{}' contains invalid word '{}' for language '{}'.".format(title, word, lang_id))
+                return False
+        return True
+
+    def prefix_from_title(self, title: str, title_tokens: Optional[list[WordToken]] = None) -> Optional[str]:
+        if title_tokens == None:
+            title_tokens = TextProcessing.get_word_tokens_from_text(title, self.lang_id, filter_words=False)
+        if len(title_tokens) < self.prefix_num_words:
+            print("Title '{}' has too few tokens for prefix.".format(title))
+            return None
+        return " ".join(title_tokens[0:self.prefix_num_words])
+
+    def get_new_title(self) -> Optional[str]:
+        if not self.titles:
+            return None
+        title = self.titles.pop(0)
+        self.save()
+        return title
+
+    def save(self) -> None:
+        with open(self.file_path, 'w', encoding="utf-8") as f:
+            for title in self.unique_titles(self.titles):
+                if not StoryTitles.title_is_acceptable(title, self.lang_id):
+                    print("Title '{}' is not acceptable.".format(title))
+                    continue
+                f.write(f"{title}\n")
 
