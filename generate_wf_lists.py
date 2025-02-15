@@ -9,7 +9,6 @@ from lib.text_processing import TextProcessing
 
 def create_wf_list(lang_story_dir: str) -> None:
 
-    assert len(lang_story_dir) == 2
     lang_id = lang_story_dir
     word_counter: Counter[str] = Counter()
     word_counter_per_story: Counter[str]  = Counter()
