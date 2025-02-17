@@ -2,6 +2,7 @@
 import os
 from typing import Generator, Iterable, Optional
 
+from lib.language_data import LANGUAGE_CODES_WITH_NAMES
 from lib.text_processing import TextProcessing, WordToken
 
 STORIES_DIR = "stories"
@@ -22,6 +23,23 @@ def num_lines_in_file(file_path: str) -> int:
         return 0
     with open(file_path, 'r', encoding="utf-8") as f:
         return sum(1 for _ in f)
+
+def get_languages_to_process(lang_ids: Union[str, list[str]]) -> list[str]:
+
+    assert isinstance(lang_ids, list) or lang_ids == "*" or lang_ids in LANGUAGE_CODES_WITH_NAMES
+    assert not isinstance(lang_ids, list) or all(item in LANGUAGE_CODES_WITH_NAMES for item in lang_ids)
+
+    if isinstance(lang_ids, str) and lang_ids == "*":
+        languages_to_process = list(LANGUAGE_CODES_WITH_NAMES.keys())
+    elif isinstance(lang_ids, str) and lang_ids != "*":
+        languages_to_process = [lang_ids]
+    elif isinstance(lang_ids, list):
+        languages_to_process: list[str] = lang_ids
+    else:
+        raise ValueError("lang_ids must be a string, a list of strings, or '*'.")
+
+    return languages_to_process
+
 
 class StoryTitles:
 

@@ -1,7 +1,7 @@
 import os
 from lib.language_data import LANGUAGE_CODES_WITH_NAMES
 from lib.lm import LmResponse, get_lm_caller
-from lib.misc import TITLES_DIR, StoryTitles, num_lines_in_file
+from lib.misc import TITLES_DIR, StoryTitles, get_languages_to_process, num_lines_in_file
 from lib.text_processing import TextProcessing
 
 NUMBER_OF_RUNS = 1
@@ -49,7 +49,7 @@ def build_titles_prompt(lang_id: str) -> str:
 
 def generate_titles(lang_id: str, titles_dir: str, run_num: int) -> None:
 
-    print("Generating titles for '{}' (batch {} of {})...".format(lang_id, run_num + 1, NUMBER_OF_RUNS))
+    print("Generating titles for language '{}' ({}/{})...".format(LANGUAGE_CODES_WITH_NAMES[lang_id], run_num + 1, NUMBER_OF_RUNS))
 
     prompt_text = build_titles_prompt(lang_id)
     response_data = call_local_lm(prompt_text, lang_id)
@@ -70,6 +70,7 @@ def generate_titles(lang_id: str, titles_dir: str, run_num: int) -> None:
     titles_from_content = [TextProcessing.get_plain_text(title).strip('"’”“') for title in titles_from_content]
 
     num_titles_added = 0
+    num_titles_original = len(story_titles.titles)
     for title in titles_from_content:
         if not StoryTitles.title_is_acceptable(title, lang_id):
             continue
@@ -79,43 +80,46 @@ def generate_titles(lang_id: str, titles_dir: str, run_num: int) -> None:
             story_titles.titles.append(title)
             num_titles_added += 1
 
-    story_titles.save()
+    if num_titles_added > 0:
+        num_saved = story_titles.save()
+    else:
+        num_saved = 0
 
     if num_titles_added == 0:
-        print("No new titles added to titles file!")
+        print("No titles added to titles file!")
+    elif num_saved == 0:
+        print("No new titles saved to titles file!")
+    else:
+        print("Saved {} new titles to.".format(num_saved-num_titles_original))
 
     file_size_in_mb = os.path.getsize(story_titles.file_path) / 1024 / 1024
     if file_size_in_mb > 1:
         raise Exception("Titles file is too large ({:.2f} MB).".format(file_size_in_mb))
 
 
-
-def main(lang_id: str) -> None:
-
-    assert lang_id == "*" or lang_id in LANGUAGE_CODES_WITH_NAMES
+def main(lang_ids: str) -> None:
 
     num_runs = 0
+    languages_to_process = get_languages_to_process(lang_ids)
+    languages_skipped = []
 
-    if lang_id != "*":
-        for _ in range(NUMBER_OF_RUNS):
-            generate_titles(lang_id, TITLES_DIR, num_runs)
-            num_runs += 1
-    else:
-        for lang_id in LANGUAGE_CODES_WITH_NAMES:
+    while True:
+        for lang_id in languages_to_process:
             print("Working on language '{}' ({})...".format(lang_id, LANGUAGE_CODES_WITH_NAMES[lang_id]))
             lang_title_file = os.path.join(TITLES_DIR, "titles_{}.txt".format(lang_id))
             if num_lines_in_file(lang_title_file) > MAX_TITLES_PER_LANG:
                 print("Skipping '{}' because it already has {} titles.".format(lang_id, MAX_TITLES_PER_LANG))
+                languages_skipped.append(lang_id)
                 continue
-            for _ in range(NUMBER_OF_RUNS):
-                generate_titles(lang_id, TITLES_DIR, num_runs)
-                num_runs += 1
-                if num_runs >= NUMBER_OF_RUNS:
-                    break
-                if num_lines_in_file(lang_title_file) > MAX_TITLES_PER_LANG:
-                    break
+
+            generate_titles(lang_id, TITLES_DIR, num_runs)
+            num_runs += 1
             if num_runs >= NUMBER_OF_RUNS:
                 break
+        if num_runs >= NUMBER_OF_RUNS:
+            break
+        if len(languages_skipped) == len(languages_to_process):
+            break
 
 if __name__ == "__main__":
     main(LANG_ID)
