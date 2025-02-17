@@ -1,6 +1,7 @@
 
 import os
-from typing import Generator, Iterable, Optional
+import random
+from typing import Generator, Iterable, Optional, Union
 
 from lib.language_data import LANGUAGE_CODES_WITH_NAMES
 from lib.text_processing import TextProcessing, WordToken
@@ -57,14 +58,22 @@ class StoryTitles:
         try:
             with open(self.file_path, 'r', encoding="utf-8") as f:
                 self.titles = [title for title in self.unique_titles(f)]
-
         except FileNotFoundError:
             self.titles = []
+
+        random.shuffle(self.titles)
+
+        valid_titles = [title for title in self.titles if StoryTitles.title_is_acceptable(title, self.lang_id)]
+        if len(valid_titles) != len(self.titles):
+            self.titles = valid_titles
+            print("Removed {} invalid titles from loaded titles.".format(len(self.titles) - len(valid_titles)))
+            self.save()
 
     def unique_titles(self, titles: Iterable[str]) -> Generator[str, None, None]:
         unique_prefixes = set()
         for title in titles:
             title = title.strip()
+            assert "\n" not in title and "\r" not in title
             if len(title) > self.max_length_title:
                 print("Title '{}' is too long.".format(title))
                 continue
@@ -113,11 +122,14 @@ class StoryTitles:
         self.save()
         return title
 
-    def save(self) -> None:
+    def save(self) -> int:
+        num_saved = 0
         with open(self.file_path, 'w', encoding="utf-8") as f:
             for title in self.unique_titles(self.titles):
                 if not StoryTitles.title_is_acceptable(title, self.lang_id):
-                    print("Title '{}' is not acceptable.".format(title))
+                    print("Title '{}' is not acceptable. Title not saved.".format(title))
                     continue
                 f.write(f"{title}\n")
+                num_saved += 1
+        return num_saved
 
