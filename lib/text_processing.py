@@ -245,3 +245,18 @@ class TextProcessing:
         word_tokens = (TextProcessing.create_word_token(token, lang_id) for token in tokenizer(text) if token)
         accepted_word_tokens = [token for token in word_tokens if is_acceptable_word(token)]
         return accepted_word_tokens
+
+    @staticmethod
+    def has_repetitive_sentences(text: str, max_repeat_allowed: int = 3) -> bool:
+        text = text.replace("<p>", "\n<p>").replace("</p>", "</p>\n")
+        sentences = [p.strip() for p in re.split(r'\n{1,}|(?<=[.!?])\s+', text) if p.strip()]
+        sentences_encountered: Counter[str] = Counter()
+        for sentence in sentences:
+            plain_sentence = TextProcessing.get_plain_text(sentence)
+            if not plain_sentence:
+                continue
+            segment = plain_sentence[0:min(len(plain_sentence), 80)]
+            if sentences_encountered[segment] > max_repeat_allowed:
+                return True
+            sentences_encountered[segment] += 1
+        return False
