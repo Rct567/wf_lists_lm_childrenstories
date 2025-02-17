@@ -3,7 +3,7 @@
 from functools import partial
 import html
 import re
-from typing import Callable, Generator, Iterable, NewType, Optional
+from typing import Callable, Counter, Generator, Iterable, NewType, Optional
 
 
 import spacy
@@ -98,19 +98,19 @@ class TextProcessing:
     JAPANESE_KATAKANA_PATTERN = re.compile(r'[\u30A0-\u30FF]{1,}', re.UNICODE) # Katakana only
     KOREAN_PATTERN = re.compile(r'[\uac00-\ud7a3]{1,}', re.UNICODE)
     ARABIC_PATTERN = re.compile(r'[\u0600-\u06FF]{1,}', re.UNICODE)
+    URDU_PATTERN = re.compile(r'[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF]{1,}', re.UNICODE)
+    SINHALA_PATTERN = re.compile(r'[\u0D80-\u0DFF]{1,}', re.UNICODE)
     ETHIOPIC_PATTERN = re.compile(r'[\u1200-\u137F]{1,}', re.UNICODE)
     THAI_PATTERN = re.compile(r'[\u0e00-\u0e7f]{1,}', re.UNICODE)
     LAO_PATTERN = re.compile(r'[\u0e80-\u0eff]{1,}', re.UNICODE)
     KHMER_PATTERN = re.compile(r'[\u1780-\u17ff]{1,}', re.UNICODE)
-    CYRILLIC_PATTERN = re.compile(
-        r'[\u0400-\u04FF\u0500-\u052F\u2DE0-\u2DFF\uA640-\uA69F\u1C80-\u1C8F]{1,}',
-        re.UNICODE
-    )
+    CYRILLIC_PATTERN = re.compile(r'[\u0400-\u04FF\u0500-\u052F\u2DE0-\u2DFF\uA640-\uA69F\u1C80-\u1C8F]{1,}', re.UNICODE)
     HEBREW_PATTERN = re.compile(r'[\u0590-\u05FF]{1,}', re.UNICODE)
     GREEK_PATTERN = re.compile(r'[\u0370-\u03FF\u1F00-\u1FFF]{1,}', re.UNICODE)
     INDIC_PATTERN = re.compile(r'[\u0900-\u097F\u0980-\u09FF\u0A00-\u0A7F\u0A80-\u0AFF\u0B00-\u0B7F\u0B80-\u0BFF\u0C00-\u0C7F\u0C80-\u0CFF\u0D00-\u0D7F]{1,}', re.UNICODE)
     MYANMAR_PATTERN = re.compile(r'[\u1000-\u109F]{1,}', re.UNICODE)
     TIBETAN_PATTERN = re.compile(r'[\u0F00-\u0FFF]{1,}', re.UNICODE)
+    MONGOLIAN_PATTERN = re.compile(r'[\u1800-\u18AF\u0400-\u04FF]{1,}', re.UNICODE) #  Mongolian script + Cyrillic
     GEORGIAN_PATTERN = re.compile(r'[\u10A0-\u10FF\u2D00-\u2D2F]{1,}', re.UNICODE)
     ARMENIAN_PATTERN = re.compile(r'[\u0530-\u058F]{1,}', re.UNICODE)
     DEFAULT_PATTERN = re.compile(r'\S{1,}', re.UNICODE)
@@ -130,7 +130,11 @@ class TextProcessing:
             word_pattern = TextProcessing.KOREAN_PATTERN
         elif lang_id == 'ar':
             word_pattern = TextProcessing.ARABIC_PATTERN
-        elif lang_id is not None and lang_id in {'am', 'ti'}:
+        elif lang_id in {'ur', 'fa', 'sd'}: # Urdu, Persian, Sindhi
+            word_pattern = TextProcessing.URDU_PATTERN # extended Arabic ranges
+        elif lang_id == 'si':
+            word_pattern = TextProcessing.SINHALA_PATTERN
+        elif lang_id is not None and lang_id in {'am', 'ti'}: # Amharic, Tigrinya
             word_pattern = TextProcessing.ETHIOPIC_PATTERN
         elif lang_id == 'th':
             word_pattern = TextProcessing.THAI_PATTERN
@@ -138,7 +142,9 @@ class TextProcessing:
             word_pattern = TextProcessing.LAO_PATTERN
         elif lang_id == 'km':
             word_pattern = TextProcessing.KHMER_PATTERN
-        elif lang_id in {'be', 'ru', 'uk', 'bg'}:
+        elif lang_id == 'mn':
+            word_pattern = TextProcessing.MONGOLIAN_PATTERN
+        elif lang_id in {'be', 'ru', 'uk', 'bg'}: # Belarusian, Russian, Ukrainian, Bulgarian
             word_pattern = TextProcessing.CYRILLIC_PATTERN
         elif lang_id in {'he', 'yi'}:
             word_pattern = TextProcessing.HEBREW_PATTERN
