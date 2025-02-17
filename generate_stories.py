@@ -7,31 +7,13 @@ from typing import Optional, Union
 from lib.language_data import LANGUAGE_CODES_WITH_NAMES
 from lib.lm import LmResponse, get_lm_caller
 from lib.misc import STORIES_DIR, TITLES_DIR, StoryTitles, get_languages_to_process, num_text_files_in_dir
-from lib.misc import STORIES_DIR, TITLES_DIR, StoryTitles, num_text_files_in_dir
+from lib.text_processing import TextProcessing
 
 
-# Vulcan:
-# meta-llama-3.1-8b-instruct (Q4_K_M) => 151s ps
-# llama-3.2-3b-instruct (Q8_0, 3.42 GB) => 120s ps
-# llama-3.2-1b-instruct (Q8_0, 1.32 GB) => 28s ps
 
-# ROCm llama.cpp
-# meta-llama-3.1-8b-instruct (Q4_K_M) => 133s ps (8 words per second)
-# llama-3.2-3b-instruct (Q8_0, 3.42 GB) => 81s ps
-
-# CPU Llama.cpp
-# meta-llama-3.1-8b-instruct (Q4_K_M) => 168s ps (6 words per second)
-
-
-MODEL = "meta-llama-3.1-8b-instruct@Q4_K_M"
-#MODEL = "llama-3.2-3b-instruct@Q8_0"
-
-NUMBER_OF_STORIES = 30
+NUMBER_OF_RUNS = 200
 LANG_ID = "*"
-MAX_STORIES_PER_LANG = 10
-
-LM_STUDIO_API_BASE = "http://127.0.0.1:1234/v1"
-LM_STUDIO_API_KEY = "lm-studio"
+MAX_STORIES_PER_LANG = 100
 
 LM_TEMPERATURE = 0.9
 LM_FREQUENCY_PENALTY = 0
