@@ -8,6 +8,7 @@ from openai import OpenAI
 from lib.text_processing import TextProcessing, WordToken
 
 
+lm_caller_num_calls = 0
 lm_caller_num_errors = 0
 
 def get_lm_caller(api_base: str, api_key: str, model: str, temperature: float, frequency_penalty: float, presence_penalty: float):
@@ -20,9 +21,12 @@ def get_lm_caller(api_base: str, api_key: str, model: str, temperature: float, f
         model_role = "system"
 
     def call_local_lm(prompt_text: str, lang_id: str) -> Optional[tuple[str, str, str, str, float]]:
-        global lm_caller_num_errors
+        global lm_caller_num_calls, lm_caller_num_errors
 
-        if lm_caller_num_errors > 5:
+        if lm_caller_num_calls == 0:
+            print("Using {} at '{}'.".format(model, api_base.split("://")[1]))
+
+        if lm_caller_num_errors > 3:
             print("Too many errors. Exiting.")
             sys.exit(1)
 
@@ -33,7 +37,7 @@ def get_lm_caller(api_base: str, api_key: str, model: str, temperature: float, f
         assert temperature > 0 and temperature <= 2
         assert frequency_penalty > -2 and frequency_penalty <= 2
         assert presence_penalty > -2 and presence_penalty <= 2
-        #try:
+        lm_caller_num_calls += 1
         start_time = time.perf_counter()
         response = client.chat.completions.create(
             model=model,
