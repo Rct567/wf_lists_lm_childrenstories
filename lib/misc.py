@@ -41,6 +41,17 @@ def get_languages_to_process(lang_ids: Union[str, list[str]]) -> list[str]:
 
     return languages_to_process
 
+def keep_looping_through_languages(languages: list[str]) -> Generator[str, None, None]:
+
+    loops = 0
+
+    while True:
+        for lang_id in languages:
+            yield lang_id
+        loops += 1
+        if loops >= 100_000:
+            raise Exception("Too many loops.")
+
 
 class StoryTitles:
 

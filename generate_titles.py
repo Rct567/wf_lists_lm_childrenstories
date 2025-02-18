@@ -1,7 +1,7 @@
 import os
 from lib.language_data import LANGUAGE_CODES_WITH_NAMES
 from lib.lm import LmResponse, get_lm_caller
-from lib.misc import TITLES_DIR, StoryTitles, get_languages_to_process, num_lines_in_file
+from lib.misc import TITLES_DIR, StoryTitles, get_languages_to_process, keep_looping_through_languages, num_lines_in_file
 from lib.text_processing import TextProcessing
 
 NUMBER_OF_RUNS = 1
@@ -101,25 +101,23 @@ def main(lang_ids: str) -> None:
 
     num_runs = 0
     languages_to_process = get_languages_to_process(lang_ids)
-    languages_skipped = []
+    languages_skipped = set()
 
-    while True:
-        for lang_id in languages_to_process:
-            print("Working on language '{}' ({})...".format(lang_id, LANGUAGE_CODES_WITH_NAMES[lang_id]))
-            lang_title_file = os.path.join(TITLES_DIR, "titles_{}.txt".format(lang_id))
-            if num_lines_in_file(lang_title_file) > MAX_TITLES_PER_LANG:
-                print("Skipping '{}' because it already has {} titles.".format(lang_id, MAX_TITLES_PER_LANG))
-                languages_skipped.append(lang_id)
-                continue
-
-            generate_titles(lang_id, TITLES_DIR, num_runs)
-            num_runs += 1
-            if num_runs >= NUMBER_OF_RUNS:
-                break
+    for lang_id in keep_looping_through_languages(languages_to_process):
         if num_runs >= NUMBER_OF_RUNS:
             break
         if len(languages_skipped) >= len(languages_to_process):
             break
+        print("Working on language '{}' ({})...".format(lang_id, LANGUAGE_CODES_WITH_NAMES[lang_id]))
+        lang_title_file = os.path.join(TITLES_DIR, "titles_{}.txt".format(lang_id))
+        if num_lines_in_file(lang_title_file) > MAX_TITLES_PER_LANG:
+            print("Skipping '{}' because it already has {} titles.".format(lang_id, MAX_TITLES_PER_LANG))
+            languages_skipped.add(lang_id)
+            continue
+
+        generate_titles(lang_id, TITLES_DIR, num_runs)
+        num_runs += 1
+
 
 if __name__ == "__main__":
     main(LANG_ID)

@@ -6,7 +6,7 @@ from typing import Optional, Union
 
 from lib.language_data import LANGUAGE_CODES_WITH_NAMES
 from lib.lm import LmResponse, get_lm_caller
-from lib.misc import STORIES_DIR, TITLES_DIR, StoryTitles, get_languages_to_process, num_text_files_in_dir
+from lib.misc import STORIES_DIR, TITLES_DIR, StoryTitles, get_languages_to_process, keep_looping_through_languages, num_text_files_in_dir
 from lib.text_processing import TextProcessing
 
 
@@ -158,28 +158,28 @@ def main(lang_ids: Union[str, list[str]]) -> None:
     stories_generated: list[LmStoryResponse] = []
     num_runs = 0
     languages_to_process = get_languages_to_process(lang_ids)
-    languages_skipped = []
+    languages_skipped = set()
 
-    while True:
-        for lang_id in languages_to_process:
-            print("Working on language '{}' ({})...".format(lang_id, LANGUAGE_CODES_WITH_NAMES[lang_id]))
-            lang_story_dir = os.path.join(STORIES_DIR, lang_id)
-            if num_text_files_in_dir(lang_story_dir) > MAX_STORIES_PER_LANG:
-                print("Skipping '{}' because it already has {} stories.".format(lang_id, MAX_STORIES_PER_LANG))
-                languages_skipped.append(lang_id)
-                continue
-
-            story = generate_and_save_story(STORIES_DIR, TITLES_DIR, lang_id, num_runs)
-            if story:
-                stories_generated.append(story)
-            num_runs += 1
-            if num_runs >= NUMBER_OF_RUNS:
-                break
+    for lang_id in keep_looping_through_languages(languages_to_process):
 
         if num_runs >= NUMBER_OF_RUNS:
+            print("Out of runs.")
             break
         if len(languages_skipped) >= len(languages_to_process):
+            print("Out of languages to process.")
             break
+
+        print("Working on language '{}' ({})...".format(lang_id, LANGUAGE_CODES_WITH_NAMES[lang_id]))
+        lang_story_dir = os.path.join(STORIES_DIR, lang_id)
+        if num_text_files_in_dir(lang_story_dir) > MAX_STORIES_PER_LANG:
+            print("Skipping '{}' because it already has {} stories.".format(lang_id, MAX_STORIES_PER_LANG))
+            languages_skipped.add(lang_id)
+            continue
+
+        story = generate_and_save_story(STORIES_DIR, TITLES_DIR, lang_id, num_runs)
+        if story:
+            stories_generated.append(story)
+        num_runs += 1
 
     if stories_generated:
         time_per_story = [story.time_taken for story in stories_generated]
