@@ -118,7 +118,7 @@ def main(lang_ids: str) -> None:
                 break
         if num_runs >= NUMBER_OF_RUNS:
             break
-        if len(languages_skipped) == len(languages_to_process):
+        if len(languages_skipped) >= len(languages_to_process):
             break
 
 if __name__ == "__main__":

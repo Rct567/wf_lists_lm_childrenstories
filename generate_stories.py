@@ -178,7 +178,7 @@ def main(lang_ids: Union[str, list[str]]) -> None:
 
         if num_runs >= NUMBER_OF_RUNS:
             break
-        if len(languages_skipped) == len(languages_to_process):
+        if len(languages_skipped) >= len(languages_to_process):
             break
 
     if stories_generated:
