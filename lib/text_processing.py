@@ -113,6 +113,7 @@ class TextProcessing:
     MONGOLIAN_PATTERN = re.compile(r'[\u1800-\u18AF\u0400-\u04FF]{1,}', re.UNICODE) #  Mongolian script + Cyrillic
     GEORGIAN_PATTERN = re.compile(r'[\u10A0-\u10FF\u2D00-\u2D2F]{1,}', re.UNICODE)
     ARMENIAN_PATTERN = re.compile(r'[\u0530-\u058F]{1,}', re.UNICODE)
+    SERBIAN_PATTERN = re.compile(r'[\u0400-\u045F\u0490\u0491A-Za-zČĆĐŠŽčćđšž]+', re.UNICODE) # Serbian Cyrillic + Serbian Latin
     DEFAULT_PATTERN = re.compile(r'\S{1,}', re.UNICODE)
 
     @staticmethod
@@ -160,6 +161,8 @@ class TextProcessing:
             word_pattern = TextProcessing.GEORGIAN_PATTERN
         elif lang_id == 'hy':
             word_pattern = TextProcessing.ARMENIAN_PATTERN
+        elif lang_id == 'sr':
+            word_pattern = TextProcessing.SERBIAN_PATTERN
         else:
             word_pattern = TextProcessing.DEFAULT_PATTERN
 
