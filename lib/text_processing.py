@@ -107,30 +107,48 @@ class TextProcessing:
         'ca',  # Catalan (e.g., "l’àvia")
         'oc'   # Occitan (e.g., "l’aiga")
     }
+
+    CHINESE_PATTERN = re.compile(r'^[\u4e00-\u9fff]+$', re.UNICODE)
+    JAPANESE_PATTERN = re.compile(r'^[\u3040-\u309F\u4E00-\u9FAF\uF900-\uFAFF\u3400-\u4DBF]+$', re.UNICODE)  # Kanji + Hiragana only
     JAPANESE_ALL_PATTERN = re.compile(
-        r'[\u3040-\u309f\u30a0-\u30ff\u4e00-\u9faf\uf900-\ufaff\u3400-\u4dbf]{1,}',
+        r'^[\u3040-\u309f\u30a0-\u30ff\u4e00-\u9faf\uf900-\ufaff\u3400-\u4dbf]+$',
         re.UNICODE
-    ) # Kanji + Hiragana + Katakana
-    JAPANESE_KATAKANA_PATTERN = re.compile(r'[\u30A0-\u30FF]{1,}', re.UNICODE) # Katakana only
-    KOREAN_PATTERN = re.compile(r'[\uac00-\ud7a3]{1,}', re.UNICODE)
-    ARABIC_PATTERN = re.compile(r'[\u0600-\u06FF]{1,}', re.UNICODE)
-    URDU_PATTERN = re.compile(r'[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF]{1,}', re.UNICODE)
-    SINHALA_PATTERN = re.compile(r'[\u0D80-\u0DFF]{1,}', re.UNICODE)
-    ETHIOPIC_PATTERN = re.compile(r'[\u1200-\u137F]{1,}', re.UNICODE)
-    THAI_PATTERN = re.compile(r'[\u0e00-\u0e7f]{1,}', re.UNICODE)
-    LAO_PATTERN = re.compile(r'[\u0e80-\u0eff]{1,}', re.UNICODE)
-    KHMER_PATTERN = re.compile(r'[\u1780-\u17ff]{1,}', re.UNICODE)
-    CYRILLIC_PATTERN = re.compile(r'[\u0400-\u04FF\u0500-\u052F\u2DE0-\u2DFF\uA640-\uA69F\u1C80-\u1C8F]{1,}', re.UNICODE)
-    HEBREW_PATTERN = re.compile(r'[\u0590-\u05FF]{1,}', re.UNICODE)
-    GREEK_PATTERN = re.compile(r'[\u0370-\u03FF\u1F00-\u1FFF]{1,}', re.UNICODE)
-    INDIC_PATTERN = re.compile(r'[\u0900-\u097F\u0980-\u09FF\u0A00-\u0A7F\u0A80-\u0AFF\u0B00-\u0B7F\u0B80-\u0BFF\u0C00-\u0C7F\u0C80-\u0CFF\u0D00-\u0D7F]{1,}', re.UNICODE)
-    MYANMAR_PATTERN = re.compile(r'[\u1000-\u109F]{1,}', re.UNICODE)
-    TIBETAN_PATTERN = re.compile(r'[\u0F00-\u0FFF]{1,}', re.UNICODE)
-    MONGOLIAN_PATTERN = re.compile(r'[\u1800-\u18AF\u0400-\u04FF]{1,}', re.UNICODE) #  Mongolian script + Cyrillic
-    GEORGIAN_PATTERN = re.compile(r'[\u10A0-\u10FF\u2D00-\u2D2F]{1,}', re.UNICODE)
-    ARMENIAN_PATTERN = re.compile(r'[\u0530-\u058F]{1,}', re.UNICODE)
-    SERBIAN_PATTERN = re.compile(r'[\u0400-\u045F\u0490\u0491A-Za-zČĆĐŠŽčćđšž]+', re.UNICODE) # Serbian Cyrillic + Serbian Latin
-    DEFAULT_PATTERN = re.compile(r'\S{1,}', re.UNICODE)
+    )  # Kanji + Hiragana + Katakana
+    JAPANESE_KATAKANA_PATTERN = re.compile(r'^[\u30A0-\u30FF]+$', re.UNICODE)  # Katakana only
+    KOREAN_PATTERN = re.compile(r'^[\uac00-\ud7a3]+$', re.UNICODE)
+    ARABIC_PATTERN = re.compile(r'^[\u0600-\u06FF]+$', re.UNICODE)
+    URDU_PATTERN = re.compile(r'^[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF]+$', re.UNICODE)
+    SINHALA_PATTERN = re.compile(r'^[\u0D80-\u0DFF]+$', re.UNICODE)
+    ETHIOPIC_PATTERN = re.compile(r'^[\u1200-\u137F]+$', re.UNICODE)
+    THAI_PATTERN = re.compile(r'^[\u0e00-\u0e7f]+$', re.UNICODE)
+    LAO_PATTERN = re.compile(r'^[\u0e80-\u0eff]+$', re.UNICODE)
+    KHMER_PATTERN = re.compile(r'^[\u1780-\u17ff]+$', re.UNICODE)
+    CYRILLIC_PATTERN = re.compile(
+        r'^[\u0400-\u04FF\u0500-\u052F\u2DE0-\u2DFF\uA640-\uA69F\u1C80-\u1C8F]+$',
+        re.UNICODE
+    )
+    HEBREW_PATTERN = re.compile(r'^[\u0590-\u05FF]+$', re.UNICODE)
+    GREEK_PATTERN = re.compile(r'^[\u0370-\u03FF\u1F00-\u1FFF]+$', re.UNICODE)
+    INDIC_PATTERN = re.compile(
+        r'^[\u0900-\u097F\u0980-\u09FF\u0A00-\u0A7F\u0A80-\u0AFF\u0B00-\u0B7F\u0B80-\u0BFF\u0C00-\u0C7F\u0C80-\u0CFF\u0D00-\u0D7F]+$',
+        re.UNICODE
+    )
+    MYANMAR_PATTERN = re.compile(r'^[\u1000-\u109F]+$', re.UNICODE)
+    TIBETAN_PATTERN = re.compile(r'^[\u0F00-\u0FFF]+$', re.UNICODE)
+    MONGOLIAN_PATTERN = re.compile(r'^[\u1800-\u18AF\u0400-\u04FF]+$', re.UNICODE)  # Mongolian script + Cyrillic
+    GEORGIAN_PATTERN = re.compile(r'^[\u10A0-\u10FF\u2D00-\u2D2F]+$', re.UNICODE)
+    ARMENIAN_PATTERN = re.compile(r'^[\u0530-\u058F]+$', re.UNICODE)
+    SERBIAN_PATTERN = re.compile(r'^[\u0400-\u045F\u0490\u0491A-Za-zČĆĐŠŽčćđšž]+$', re.UNICODE)  # Serbian Cyrillic + Serbian Latin
+    SLOVAK_PATTERN = re.compile(r'^[A-Za-zÁÄČĎÉÍĹĽŇÓÔŔŠŤÚÝŽáäčďéíĺľňóôŕšťúýž]+$', re.UNICODE)
+    SLOVENIAN_PATTERN = re.compile(r'^[A-Za-zČŠŽčšž]+$', re.UNICODE)
+    VIETNAMESE_PATTERN = re.compile(r'^[A-Za-z\u00C0-\u1EF9]+$', re.UNICODE)
+    INDONESIAN_PATTERN = re.compile(r'^[A-Za-zÀ-ÖØ-öø-ÿ]+$', re.UNICODE)
+    TURKISH_PATTERN = re.compile(r'^[A-Za-zÇĞİÖŞÜçğıöşü]+$', re.UNICODE)
+    HUNGARIAN_PATTERN = re.compile(r'^[A-Za-zÁÉÍÓÖŐÚÜŰáéíóöőúüű]+$', re.UNICODE)
+    POLISH_PATTERN = re.compile(r'^[A-Za-zĄĆĘŁŃÓŚŹŻąćęłńóśźż]+$', re.UNICODE)
+    CZECH_PATTERN = re.compile(r'^[A-Za-zÁČĎÉĚÍŇÓŘŠŤÚŮÝŽáčďéěíňóřšťúůýž]+$', re.UNICODE)
+    LATIN1_PATTERN = re.compile(r'^[A-Za-zÀ-ÖØ-öø-ÿ]+$', re.UNICODE)
+    DEFAULT_PATTERN = re.compile(r'^\S+$', re.UNICODE)  # Any non-whitespace character
 
     @staticmethod
     def get_word_accepter(lang_id: Optional[str]) -> Callable[[str], bool]:
@@ -139,7 +157,7 @@ class TextProcessing:
             word_pattern = TextProcessing.CHINESE_PATTERN
         elif lang_id == 'ja':
             word_pattern = TextProcessing.JAPANESE_PATTERN
-        elif lang_id == 'ja_kana':
+        elif lang_id == 'ja_katakana':
             word_pattern = TextProcessing.JAPANESE_KATAKANA_PATTERN
         elif lang_id == 'ja_all':
             word_pattern = TextProcessing.JAPANESE_ALL_PATTERN
@@ -179,6 +197,24 @@ class TextProcessing:
             word_pattern = TextProcessing.ARMENIAN_PATTERN
         elif lang_id == 'sr':
             word_pattern = TextProcessing.SERBIAN_PATTERN
+        elif lang_id == 'sk':
+            word_pattern = TextProcessing.SLOVAK_PATTERN
+        elif lang_id == 'vi':
+            word_pattern = TextProcessing.VIETNAMESE_PATTERN
+        elif lang_id == 'id':
+            word_pattern = TextProcessing.INDONESIAN_PATTERN
+        elif lang_id == 'sl':
+            word_pattern = TextProcessing.SLOVENIAN_PATTERN
+        elif lang_id == 'tr':
+            word_pattern = TextProcessing.TURKISH_PATTERN
+        elif lang_id == 'hu':
+            word_pattern = TextProcessing.HUNGARIAN_PATTERN
+        elif lang_id == 'pl':
+            word_pattern = TextProcessing.POLISH_PATTERN
+        elif lang_id == 'cs':
+            word_pattern = TextProcessing.CZECH_PATTERN
+        elif lang_id in {'en', 'es', 'fr', 'de', 'nl', 'it', 'pt', 'da', 'sv', 'no', 'fi', 'is', 'ca', 'af'}:
+            word_pattern = TextProcessing.LATIN1_PATTERN
         else:
             word_pattern = TextProcessing.DEFAULT_PATTERN
 
