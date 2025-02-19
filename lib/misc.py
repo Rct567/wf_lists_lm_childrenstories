@@ -1,6 +1,7 @@
 
 import os
 import random
+import re
 from typing import Generator, Iterable, Optional, Union
 
 from lib.language_data import LANGUAGE_CODES_WITH_NAMES
@@ -76,8 +77,9 @@ class StoryTitles:
 
         valid_titles = [title for title in self.titles if StoryTitles.title_is_acceptable(title, self.lang_id)]
         if len(valid_titles) != len(self.titles):
+            num_removed = len(self.titles) - len(valid_titles)
+            print("Removed {} invalid titles from loaded titles.".format(num_removed))
             self.titles = valid_titles
-            print("Removed {} invalid titles from loaded titles.".format(len(self.titles) - len(valid_titles)))
             self.save()
 
     def unique_titles(self, titles: Iterable[str]) -> Generator[str, None, None]:
@@ -108,9 +110,16 @@ class StoryTitles:
 
     @staticmethod
     def title_is_acceptable(title: str, lang_id: str) -> bool:
-        if any(char in title for char in "{}[]<>@#$%^*+"):
+        if any(char in title for char in "{}[]<>@#$%^*+＠_°©®™∞±√"):
             print("Title '{}' contains invalid characters.".format(title))
             return False
+
+        non_letters = r"!@#$%^&*()_+={}\[\]:;\"'<>,.?/\\|-~`"
+        non_letters_pattern = r'[{0}]'.format(re.escape(non_letters))+"{3,}"
+        match_non_letter_sequence = re.search(non_letters_pattern, title, re.UNICODE) is not None
+        if match_non_letter_sequence:
+            print("WARING: title '{}' contains non-letter sequences.".format(title))
+
         word_accepter = TextProcessing.get_word_accepter(lang_id)
         for word in TextProcessing.get_word_tokens_from_text(title, lang_id, filter_words=False):
             if not word_accepter(word):
