@@ -89,8 +89,24 @@ Tokenizer = Callable[[str], list[str]]
 
 class TextProcessing:
 
-    CHINESE_PATTERN = re.compile(r'[\u4e00-\u9fff]{1,}', re.UNICODE)
-    JAPANESE_PATTERN = re.compile(r'[\u3040-\u309F\u4E00-\u9FAF\uF900-\uFAFF\u3400-\u4DBF]{1,}', re.UNICODE) # Kanji + Hiragana only
+    LANGUAGES_USING_HYPHEN = {"en", "de", "fr", "es", "it", "pt", "nl", "da", "sv", "no",
+                              "fi", "pl", "cs", "sk", "hu", "ro", "hr", "sl", "bs", "lt",
+                              "lv", "et", "bg", "ru", "uk", "el", "tr", "ka", "mt", "id"}
+
+    LANGUAGES_USING_APOSTROPHE = {
+        'en',  # English (e.g., contractions like "don't")
+        'fr',  # French (e.g., "l'heure")
+        'it',  # Italian (e.g., "un'altra")
+        'ga',  # Irish (Gaeilge, e.g., "O'Connell")
+        'pt',  # Portuguese (e.g., poetic contractions)
+        'de',  # German (e.g., genitive case in older texts)
+        'nl',  # Dutch (e.g., shortened forms like "'s ochtends")
+        'sv',  # Swedish (e.g., possessive forms like "Anna's")
+        'fi',  # Finnish (e.g., loanwords like "taxi’t")
+        'mt',  # Maltese (apostrophe in words like "qalb’i")
+        'ca',  # Catalan (e.g., "l’àvia")
+        'oc'   # Occitan (e.g., "l’aiga")
+    }
     JAPANESE_ALL_PATTERN = re.compile(
         r'[\u3040-\u309f\u30a0-\u30ff\u4e00-\u9faf\uf900-\ufaff\u3400-\u4dbf]{1,}',
         re.UNICODE
@@ -166,11 +182,18 @@ class TextProcessing:
         else:
             word_pattern = TextProcessing.DEFAULT_PATTERN
 
+        ignore_hyphen = lang_id in TextProcessing.LANGUAGES_USING_HYPHEN
+        ignore_apostrophe = lang_id in TextProcessing.LANGUAGES_USING_APOSTROPHE
+
         def is_acceptable_word_for_lang(word: str) -> bool:
             stripped_word = word.strip("!@#$%^&*()_-=+{}:\"<>?,./;' ")
             stripped_word_len = len(stripped_word)
             if stripped_word_len < min_length or stripped_word_len > 300:
                 return False
+            if ignore_hyphen:
+                stripped_word = stripped_word.replace("-", "")
+            if ignore_apostrophe:
+                stripped_word = stripped_word.replace("'", "").replace("’", "")
 
             return re.search(word_pattern, stripped_word) is not None
 
