@@ -89,9 +89,11 @@ Tokenizer = Callable[[str], list[str]]
 
 class TextProcessing:
 
-    LANGUAGES_USING_HYPHEN = {"en", "de", "fr", "es", "it", "pt", "nl", "da", "sv", "no",
-                              "fi", "pl", "cs", "sk", "hu", "ro", "hr", "sl", "bs", "lt",
-                              "lv", "et", "bg", "ru", "uk", "el", "tr", "ka", "mt", "id"}
+    LANGUAGES_USING_HYPHEN = {
+        "en", "de", "fr", "es", "it", "pt", "pt_br", "nl", "da", "sv", "no", "fi", "pl", "cs", "sk", "hu",
+        "ro", "hr", "sl", "bs", "lt", "lv", "et", "bg", "ru", "uk", "el", "tr", "ka", "mt", "id",
+        "sw", "ms", "tl", "ga", "cy", "eu", "br", "lb", "fo", "kl"
+    }
 
     LANGUAGES_USING_APOSTROPHE = {
         'en',  # English (e.g., contractions like "don't")
@@ -105,7 +107,18 @@ class TextProcessing:
         'fi',  # Finnish (e.g., loanwords like "taxi’t")
         'mt',  # Maltese (apostrophe in words like "qalb’i")
         'ca',  # Catalan (e.g., "l’àvia")
-        'oc'   # Occitan (e.g., "l’aiga")
+        'oc',  # Occitan (e.g., "l’aiga")
+        'br',  # Breton
+        'sw',  # Swahili (e.g., Ng'ombe)
+        'tr',  # Turkish (e.g., İstanbul’a)
+        'cy',  # Welsh (e.g., i’r)
+        'gd',  # Scottish Gaelic (e.g., tha ’n)
+        'gv',  # Manx (e.g., yn ’eddin)
+        'mi',  # Māori (e.g., tā’onga)
+        'nv',  # Navajo (e.g., łéʼéjí)
+        'ku',  # Kurdish (e.g., k’u in Latin script)
+        'az',  # Azerbaijani (e.g., Bakı’da)
+        'uz'   # Uzbek (e.g., so’z)
     }
 
     CHINESE_PATTERN = re.compile(r'^[\u4e00-\u9fff]+$', re.UNICODE)
@@ -148,6 +161,8 @@ class TextProcessing:
     POLISH_PATTERN = re.compile(r'^[A-Za-zĄĆĘŁŃÓŚŹŻąćęłńóśźż]+$', re.UNICODE)
     CZECH_PATTERN = re.compile(r'^[A-Za-zÁČĎÉĚÍŇÓŘŠŤÚŮÝŽáčďéěíňóřšťúůýž]+$', re.UNICODE)
     LATIN1_PATTERN = re.compile(r'^[A-Za-zÀ-ÖØ-öø-ÿ]+$', re.UNICODE)
+    LATIN_EXTENDED_PATTERN = re.compile(r'^[A-Za-z\xC0-\xFF\u0100-\u017F\u0180-\u024F]+$', re.UNICODE)
+    BASIC_LATIN_PATTERN = re.compile(r'^[A-Za-z]+$', re.UNICODE)
     DEFAULT_PATTERN = re.compile(r'^\S+$', re.UNICODE)  # Any non-whitespace character
 
     @staticmethod
@@ -163,6 +178,16 @@ class TextProcessing:
             word_pattern = TextProcessing.JAPANESE_ALL_PATTERN
         elif lang_id == 'ko':
             word_pattern = TextProcessing.KOREAN_PATTERN
+        elif lang_id == 'bo':
+            word_pattern = TextProcessing.TIBETAN_PATTERN
+        elif lang_id == 'th':
+            word_pattern = TextProcessing.THAI_PATTERN
+        elif lang_id == 'lo':
+            word_pattern = TextProcessing.LAO_PATTERN
+        elif lang_id == 'km':
+            word_pattern = TextProcessing.KHMER_PATTERN
+        elif lang_id == 'vi':
+            word_pattern = TextProcessing.VIETNAMESE_PATTERN
         elif lang_id == 'ar':
             word_pattern = TextProcessing.ARABIC_PATTERN
         elif lang_id in {'ur', 'fa', 'sd'}: # Urdu, Persian, Sindhi
@@ -171,26 +196,18 @@ class TextProcessing:
             word_pattern = TextProcessing.SINHALA_PATTERN
         elif lang_id is not None and lang_id in {'am', 'ti'}: # Amharic, Tigrinya
             word_pattern = TextProcessing.ETHIOPIC_PATTERN
-        elif lang_id == 'th':
-            word_pattern = TextProcessing.THAI_PATTERN
-        elif lang_id == 'lo':
-            word_pattern = TextProcessing.LAO_PATTERN
-        elif lang_id == 'km':
-            word_pattern = TextProcessing.KHMER_PATTERN
         elif lang_id == 'mn':
             word_pattern = TextProcessing.MONGOLIAN_PATTERN
         elif lang_id in {'be', 'ru', 'uk', 'bg'}: # Belarusian, Russian, Ukrainian, Bulgarian
             word_pattern = TextProcessing.CYRILLIC_PATTERN
-        elif lang_id in {'he', 'yi'}:
-            word_pattern = TextProcessing.HEBREW_PATTERN
-        elif lang_id == 'el':
-            word_pattern = TextProcessing.GREEK_PATTERN
         elif lang_id in {'hi', 'mr', 'ne', 'bn', 'pa', 'gu', 'or', 'ta', 'te', 'kn', 'ml'}:
             word_pattern = TextProcessing.INDIC_PATTERN
         elif lang_id == 'my':
             word_pattern = TextProcessing.MYANMAR_PATTERN
-        elif lang_id == 'bo':
-            word_pattern = TextProcessing.TIBETAN_PATTERN
+        elif lang_id in {'he', 'yi'}:
+            word_pattern = TextProcessing.HEBREW_PATTERN
+        elif lang_id == 'el':
+            word_pattern = TextProcessing.GREEK_PATTERN
         elif lang_id == 'ka':
             word_pattern = TextProcessing.GEORGIAN_PATTERN
         elif lang_id == 'hy':
@@ -199,8 +216,6 @@ class TextProcessing:
             word_pattern = TextProcessing.SERBIAN_PATTERN
         elif lang_id == 'sk':
             word_pattern = TextProcessing.SLOVAK_PATTERN
-        elif lang_id == 'vi':
-            word_pattern = TextProcessing.VIETNAMESE_PATTERN
         elif lang_id == 'id':
             word_pattern = TextProcessing.INDONESIAN_PATTERN
         elif lang_id == 'sl':
@@ -213,8 +228,12 @@ class TextProcessing:
             word_pattern = TextProcessing.POLISH_PATTERN
         elif lang_id == 'cs':
             word_pattern = TextProcessing.CZECH_PATTERN
-        elif lang_id in {'en', 'es', 'fr', 'de', 'nl', 'it', 'pt', 'da', 'sv', 'no', 'fi', 'is', 'ca', 'af'}:
+        elif lang_id in {'en', 'es', 'fr', 'de', 'nl', 'it', 'pt', 'pt_br', 'da', 'sv', 'no', 'fi', 'is', 'ca', 'af'}:
             word_pattern = TextProcessing.LATIN1_PATTERN
+        elif lang_id in {'lv', 'lt', 'ro', 'et', 'mt', 'ga', 'cy', 'eu', 'br', 'lb', 'fo', 'kl'}:
+            word_pattern = TextProcessing.LATIN_EXTENDED_PATTERN
+        elif lang_id in {'sw', 'ms', 'tl'}:
+            word_pattern = TextProcessing.BASIC_LATIN_PATTERN
         else:
             word_pattern = TextProcessing.DEFAULT_PATTERN
 
