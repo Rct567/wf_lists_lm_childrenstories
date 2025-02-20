@@ -330,7 +330,7 @@ class TextProcessing:
         tokenizer = TextProcessing.__get_tokenizer(lang_id)
 
         word_tokens = (TextProcessing.create_word_token(token, lang_id) for token in tokenizer(text) if token)
-        accepted_word_tokens = [token for token in word_tokens if is_acceptable_word(token)]
+        accepted_word_tokens = [token for token in word_tokens if token.strip() != "" and is_acceptable_word(token)]
         return accepted_word_tokens
 
     @staticmethod
