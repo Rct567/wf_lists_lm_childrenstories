@@ -118,7 +118,8 @@ class StoryTitles:
         non_letters_pattern = r'[{0}]'.format(re.escape(non_letters))+"{3,}"
         match_non_letter_sequence = re.search(non_letters_pattern, title, re.UNICODE) is not None
         if match_non_letter_sequence:
-            print("WARING: title '{}' contains non-letter sequences.".format(title))
+            print("Title '{}' contains non-letter sequences.".format(title))
+            return False
 
         word_accepter = TextProcessing.get_word_accepter(lang_id)
         for word in TextProcessing.get_word_tokens_from_text(title, lang_id, filter_words=False):
