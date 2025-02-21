@@ -89,12 +89,6 @@ Tokenizer = Callable[[str], list[str]]
 
 class TextProcessing:
 
-    LANGUAGES_USING_HYPHEN = {
-        "en", "de", "fr", "es", "it", "pt", "pt_br", "nl", "da", "sv", "no", "fi", "pl", "cs", "sk", "hu",
-        "ro", "hr", "sl", "bs", "lt", "lv", "et", "bg", "ru", "uk", "el", "tr", "ka", "mt", "id",
-        "sw", "ms", "tl", "ga", "cy", "eu", "br", "lb", "fo", "kl"
-    }
-
     LANGUAGES_USING_APOSTROPHE = {
         'en',  # English (e.g., contractions like "don't")
         'fr',  # French (e.g., "l'heure")
@@ -249,9 +243,10 @@ class TextProcessing:
         elif lang_id in {'sw', 'ms', 'mg', 'so', 'zu'}:
             word_pattern = TextProcessing.BASIC_LATIN_PATTERN
         else:
+            raise Exception("Language '{}' not supported.".format(lang_id))
             word_pattern = TextProcessing.DEFAULT_PATTERN
 
-        ignore_hyphen = lang_id in TextProcessing.LANGUAGES_USING_HYPHEN
+        ignore_hyphen = True
         ignore_apostrophe = lang_id in TextProcessing.LANGUAGES_USING_APOSTROPHE
 
         def is_acceptable_word_for_lang(word: str) -> bool:
