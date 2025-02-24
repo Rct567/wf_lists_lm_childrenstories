@@ -40,6 +40,8 @@ def get_languages_to_process(lang_ids: Union[str, list[str]]) -> list[str]:
     else:
         raise ValueError("lang_ids must be a string, a list of strings, or '*'.")
 
+    random.shuffle(languages_to_process)
+
     return languages_to_process
 
 def keep_looping_through_languages(languages: list[str]) -> Generator[str, None, None]:
