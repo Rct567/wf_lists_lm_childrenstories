@@ -178,6 +178,8 @@ def main(lang_ids: Union[str, list[str]]) -> None:
         if len(languages_skipped) >= len(languages_to_process):
             print("Out of languages to process.")
             break
+        if lang_id in languages_skipped:
+            continue
 
         print("Working on language '{}' ({})...".format(lang_id, LANGUAGE_CODES_WITH_NAMES[lang_id]))
         lang_story_dir = os.path.join(STORIES_DIR, lang_id)

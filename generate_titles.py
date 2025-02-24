@@ -108,6 +108,9 @@ def main(lang_ids: Union[str, list[str]]) -> None:
             break
         if len(languages_skipped) >= len(languages_to_process):
             break
+        if lang_id in languages_skipped:
+            continue
+
         print("Working on language '{}' ({})...".format(lang_id, LANGUAGE_CODES_WITH_NAMES[lang_id]))
         lang_title_file = os.path.join(TITLES_DIR, "titles_{}.txt".format(lang_id))
         if num_lines_in_file(lang_title_file) > MAX_TITLES_PER_LANG:
