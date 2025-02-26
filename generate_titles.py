@@ -1,4 +1,5 @@
 import os
+from typing import Union
 from lib.language_data import LANGUAGE_CODES_WITH_NAMES
 from lib.lm import LmResponse, get_lm_caller
 from lib.misc import TITLES_DIR, StoryTitles, get_languages_to_process, keep_looping_through_languages, num_lines_in_file
