@@ -15,7 +15,7 @@ def create_wf_list(lang_story_dir: str) -> None:
     num_stories = 0
 
     if lang_id not in LANGUAGE_CODES_WITH_NAMES:
-        print("Unknown language '{}'. Skipping creation of word frequency list.".format(lang_id))
+        print("Unknown language '{}'. Skipped creating word frequency list.".format(lang_id))
         return
 
     for story_file in os.listdir(os.path.join(STORIES_DIR, lang_story_dir)):

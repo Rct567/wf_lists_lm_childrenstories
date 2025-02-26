@@ -27,7 +27,7 @@ def get_lm_caller(api_base: str, api_key: str, model: str, temperature: float, f
             print("Using {} at '{}'.".format(model, api_base.split("://")[1]))
 
         if lm_caller_num_errors > 3:
-            print("Too many errors. Exiting.")
+            print("Too many errors for {} ({}). Exiting.".format(model, api_base.split("://")[1]))
             sys.exit(1)
 
         messages = [
