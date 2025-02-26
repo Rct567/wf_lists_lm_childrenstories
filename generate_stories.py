@@ -1,4 +1,5 @@
 import datetime
+from functools import cache
 import os
 import random
 from statistics import fmean
@@ -27,6 +28,7 @@ class LmStoryResponse(LmResponse):
     def get_title(self) -> str:
         return self.content_from_tag_or_empty("title")
 
+    @cache
     def is_valid(self) -> bool:
         for tag in {"<title>", "<body>"}:
             if self.response_content.count(tag) == 0:
