@@ -116,10 +116,7 @@ class StoryTitles:
             print("Title '{}' contains invalid characters.".format(title))
             return False
 
-        non_letters = r"!@#$%^&*()_+={}\[\]:;\"'<>,.?/\\|-~`"
-        non_letters_pattern = r'[{0}]'.format(re.escape(non_letters))+"{3,}"
-        match_non_letter_sequence = re.search(non_letters_pattern, title, re.UNICODE) is not None
-        if match_non_letter_sequence:
+        if TextProcessing.has_non_letter_sequences(title, r"!@#$%^&*()_+={}\[\]:;\"'<>,.?/\\|-~`"):
             print("Title '{}' contains non-letter sequences.".format(title))
             return False
 

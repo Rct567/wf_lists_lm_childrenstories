@@ -45,9 +45,21 @@ class LmStoryResponse(LmResponse):
                 print("Tag '{}' has too few characters ({}).".format(tag, len(content_in_tag)))
                 return False
 
-        if TextProcessing.has_repetitive_sentences(self.content_from_tag_or_empty("body")):
+        body_content = self.content_from_tag_or_empty("body")
+
+        if TextProcessing.has_repetitive_sentences(body_content):
             print("Response contains repetitive sentences in body.")
             return False
+
+        if TextProcessing.get_word_token_rejection_rate(body_content, self.lang_id) > 0.1:
+            print("Response contains too many rejected words in body.")
+            return False
+
+        num_none_letter_sequences = TextProcessing.num_lines_non_letter_sequence(body_content, r"!@#$%^&()_+={}\[\]:;\"'<>/\\|-~")
+        if num_none_letter_sequences >= 3:
+            print("Response contains too many none-letter sequences.")
+            return False
+
         return True
 
     def save_to_file(self, file_path: str) -> None:

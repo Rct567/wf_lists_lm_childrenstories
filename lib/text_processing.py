@@ -47,6 +47,7 @@ def get_spacy_pipeline(lang_code: str) -> Language:
         from khmernltk.word_tokenize import word_tokenize as khmer_tokenizer
         def custom_khmer_tokenizer(text: str) -> Doc:
             nonlocal nlp
+            text = text.replace("\t", " ")
             tokens: list[str] = [str(token) for token in khmer_tokenizer(text)]
             return Doc(nlp.vocab, words=tokens)
         nlp = spacy.blank('xx')
@@ -308,8 +309,10 @@ class TextProcessing:
 
     @staticmethod
     def spacy_tokenizer(lang_id: str, text: str) -> list[str]:
+        if text.strip() == "":
+            return []
         nlp = get_spacy_pipeline(lang_id)
-        return [token.text for token in nlp(text) if not token.is_punct]
+        return [token.text.strip() for token in nlp(text) if not token.is_punct and token.text.strip() != ""]
 
     @staticmethod
     def __get_tokenizer(lang_id: str) -> Tokenizer:
@@ -338,9 +341,26 @@ class TextProcessing:
             is_acceptable_word: Callable[[str], bool] = lambda _: True
         tokenizer = TextProcessing.__get_tokenizer(lang_id)
 
-        word_tokens = (TextProcessing.create_word_token(token, lang_id) for token in tokenizer(text) if token)
+        word_tokens = (TextProcessing.create_word_token(token, lang_id) for token in tokenizer(text) if token.strip() != "")
         accepted_word_tokens = [token for token in word_tokens if token.strip() != "" and is_acceptable_word(token)]
         return accepted_word_tokens
+
+    @staticmethod
+    def get_word_token_rejection_rate(text: str, lang_id: str) -> float:
+
+        word_accepter = TextProcessing.get_word_accepter(lang_id)
+        num_accepted_words = 0
+        num_rejected_words = 0
+        for word in TextProcessing.get_word_tokens_from_text(text, lang_id, filter_words=False):
+            if word_accepter(word):
+                num_accepted_words += 1
+            else:
+                num_rejected_words += 1
+
+        if num_rejected_words == 0:
+            return 0
+
+        return num_rejected_words / (num_accepted_words + num_rejected_words)
 
     @staticmethod
     def has_repetitive_sentences(text: str, max_repeat_allowed: int = 3) -> bool:
@@ -356,3 +376,20 @@ class TextProcessing:
                 return True
             sentences_encountered[segment] += 1
         return False
+
+    @staticmethod
+    def has_non_letter_sequences(text: str, non_letters: str, min_length: int = 3) -> bool:
+        if len(text) < min_length:
+            return False
+        non_letters_pattern = r'[{0}]'.format(re.escape(non_letters))+"{"+str(min_length)+",}"
+        match_non_letter_sequence = re.search(non_letters_pattern, text, re.UNICODE)
+        return match_non_letter_sequence is not None
+
+    @staticmethod
+    def num_lines_non_letter_sequence(text: str, non_letters: str, min_length: int = 3) -> int:
+        num_none_letter_sequences = 0
+        for line in text.split("\n"):
+            if TextProcessing.has_non_letter_sequences(TextProcessing.get_plain_text(line), non_letters, min_length):
+                num_none_letter_sequences += 1
+
+        return num_none_letter_sequences
