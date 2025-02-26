@@ -72,14 +72,14 @@ class LmResponse:
         self.time_taken = time_taken
 
     @staticmethod
-    def remove_think_content(content: str) -> str:
+    def __remove_think_content(content: str) -> str:
         if "<think>" in content and "</think>" in content:
             content = content[content.index("</think>")+len("</think>"):].strip()
         return content
 
     def content_from_tag(self, tag_name: str) -> Optional[str]:
         tag_name = tag_name.strip('<>/')
-        content = self.remove_think_content(self.response_content)
+        content = self.__remove_think_content(self.response_content)
         if tag_name == "body" and "<body>" in content and not "</body>" in content:
             content = content + "</body>"
         match = re.search(r"<{}>(.*?)</{}>".format(tag_name, tag_name), content, re.DOTALL | re.IGNORECASE)
@@ -89,7 +89,7 @@ class LmResponse:
 
     def content_from_tags(self, tag_name: str) -> Optional[list[str]]:
         tag_name = tag_name.strip('<>/')
-        content = self.remove_think_content(self.response_content)
+        content = self.__remove_think_content(self.response_content)
         matches = re.findall(r"<{}>(.*?)</{}>".format(tag_name, tag_name), content, re.DOTALL | re.IGNORECASE)
         if not matches:
             return None
