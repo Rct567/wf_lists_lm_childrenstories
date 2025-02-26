@@ -206,7 +206,7 @@ class TextProcessing:
             word_pattern = TextProcessing.CYRILLIC_PATTERN
         elif lang_id in {'hi', 'mr', 'ne', 'bn', 'pa', 'gu', 'or', 'ta', 'te', 'kn', 'ml'}:
             word_pattern = TextProcessing.INDIC_PATTERN
-        elif lang_id == "cu":
+        elif lang_id == 'cu':
             word_pattern = TextProcessing.OLD_CHURCH_SLAVONIC_PATTERN
         elif lang_id == 'my':
             word_pattern = TextProcessing.MYANMAR_PATTERN
