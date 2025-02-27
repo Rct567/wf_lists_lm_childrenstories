@@ -25,7 +25,7 @@ def build_titles_prompt(lang_id: str) -> str:
     num_words = 6
     pre_made_prompts = {}
     pre_made_prompts['nl'] = (
-        "Maak je lijstje met 20 titels voor nieuwe (niet bestaande) Nederlandse kinderverhalen. \n"
+        "Maak je lijstje met 50 titels voor nieuwe (niet bestaande) Nederlandse kinderverhalen. \n"
         "De titels moeten volledig in correct Nederlands (NL) geschreven zijn.\n"
         "Wees creatief! Wees origineel! \n"
         "Geef de titels in <title> tags. De titels moeten minimaal {num_words} woorden lang zijn. \n"
@@ -33,7 +33,7 @@ def build_titles_prompt(lang_id: str) -> str:
 
     )
     english_prompt_template = (
-        "Make a list of 20 titles for new (not existing) {language_name} children's stories. \n"
+        "Make a list of 50 titles for new (not existing) {language_name} children's stories. \n"
         "The titles must be completely written in proper {language_name} ({language_code}).\n"
         "Be creative! Be original! \n"
         "Give the titles in <title> tags. The titles must be at least {num_words} words long. \n"
