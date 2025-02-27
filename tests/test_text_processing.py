@@ -1,0 +1,34 @@
+from lib.text_processing import TextProcessing
+
+lowercase_string = TextProcessing.lowercase_string
+
+
+def test_lowercase_string_chechen():
+
+    word_acceptor = TextProcessing.get_word_accepter("ce")
+
+    test_string_chechen = 'ХIорда'
+    # python lower() would incorrectly produce 'хiорда' instead of 'хӏорда'
+    assert not word_acceptor(test_string_chechen.lower())
+    assert word_acceptor(lowercase_string(test_string_chechen, 'ce'))
+
+    test_sentence = "ХIордан тIехула Ваха Вола, зIакаршца тIеэцначух."
+    expected_output = "хӏордан тӏехула ваха вола, зӏакаршца тӏеэцначух."
+    assert lowercase_string(test_sentence, 'ce') == expected_output
+
+
+def test_lowercase_string_turkish():
+    test_sentence = "İSTANBUL'DA IŞIKLI BİR GECE – İYİ GECELER!"
+    expected_output = "istanbul'da ışıklı bir gece – iyi geceler!"
+    assert lowercase_string(test_sentence, 'tr') == expected_output
+
+    word_acceptor = TextProcessing.get_word_accepter("tr")
+
+    tokens = [token for token in TextProcessing.default_tokenizer(test_sentence) if token]
+    all_tokens_accepted_with_custom_fn = all(word_acceptor(lowercase_string(token, 'tr')) for token in tokens)
+    assert all_tokens_accepted_with_custom_fn
+    at_least_one_token_reject_by_native_lower_fn = any(not word_acceptor(token.lower()) for token in tokens)
+    assert at_least_one_token_reject_by_native_lower_fn
+
+
+

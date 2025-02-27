@@ -285,7 +285,7 @@ class TextProcessing:
         if '’' in token and lang_id in {"en", "fr", "it", "de", "es"}:
             token = token.replace("’", "'")
 
-        return WordToken(token.lower())
+        return WordToken(TextProcessing.lowercase_string(token, lang_id))
 
     @staticmethod
     def default_tokenizer(text: str) -> list[str]:
@@ -393,3 +393,18 @@ class TextProcessing:
                 num_none_letter_sequences += 1
 
         return num_none_letter_sequences
+
+    @staticmethod
+    def lowercase_string(s: str, lang_id: str):
+        if lang_id == 'ce': # Chechen
+            # Lowercase the entire string first
+            s_lowered = s.lower()
+            # Replace Cyrillic letters followed by Latin 'i' with the corresponding Cyrillic lowercase and 'ӏ'
+            cyrillic_pattern = r'([\u0400-\u04FF\u0500-\u052F\u2DE0-\u2DFF\uA640-\uA69F\u1C80-\u1C8F])i'
+            pattern = re.compile(cyrillic_pattern, re.UNICODE)
+            s_replaced = pattern.sub(r'\1ӏ', s_lowered)
+            return s_replaced
+        elif 'tr': # Turkish
+            return s.replace('İ', 'i').replace('I', 'ı').lower()
+        else:
+            return s.lower()
