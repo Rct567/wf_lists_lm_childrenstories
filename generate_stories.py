@@ -51,8 +51,9 @@ class LmStoryResponse(LmResponse):
             print("Response contains repetitive sentences in body.")
             return False
 
-        if TextProcessing.get_word_token_rejection_rate(body_content, self.lang_id) > 0.1:
-            print("Response contains too many rejected words in body.")
+        token_rejection_rate = TextProcessing.get_word_token_rejection_rate(body_content, self.lang_id)
+        if token_rejection_rate > 0.1:
+            print("Response contains too many rejected words in body (rejection rate: {}).".format(token_rejection_rate))
             return False
 
         num_none_letter_sequences = TextProcessing.num_lines_non_letter_sequence(body_content, r"!@#$%^&()_+={}\[\]:;\"'<>/\\|-~")
