@@ -12,16 +12,19 @@ from lib.misc import STORIES_DIR, TITLES_DIR, StoryTitles, get_languages_to_proc
 from lib.text_processing import TextProcessing
 
 
-
-NUMBER_OF_RUNS = 200
+NUMBER_OF_RUNS = 500
 LANG_ID = "*"
-MAX_STORIES_PER_LANG = 100
+MAX_STORIES_PER_LANG = 500
 
-LM_TEMPERATURE = 0.9
+LM_MODEL = "meta-llama-3.1-8b-instruct@Q4_K_M"
+LM_STUDIO_API_BASE = "http://127.0.0.1:1234/v1"
+LM_STUDIO_API_KEY = "...."
+
+LM_TEMPERATURE = 1.0
 LM_FREQUENCY_PENALTY = 0
 LM_PRESENCE_PENALTY = 0
 
-call_local_lm = get_lm_caller(LM_STUDIO_API_BASE, LM_STUDIO_API_KEY, MODEL, LM_TEMPERATURE, LM_FREQUENCY_PENALTY, LM_PRESENCE_PENALTY)
+call_local_lm = get_lm_caller(LM_OPENAI_API_BASE, LM_OPENAI_API_KEY, LM_MODEL, LM_TEMPERATURE, LM_FREQUENCY_PENALTY, LM_PRESENCE_PENALTY)
 
 class LmStoryResponse(LmResponse):
 

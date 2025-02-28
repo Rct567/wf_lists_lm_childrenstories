@@ -5,14 +5,19 @@ from lib.lm import LmResponse, get_lm_caller
 from lib.misc import TITLES_DIR, StoryTitles, get_languages_to_process, keep_looping_through_languages, num_lines_in_file
 from lib.text_processing import TextProcessing
 
-NUMBER_OF_RUNS = 1
-LANG_ID = "en"
-MAX_TITLES_PER_LANG = 1000
 
+
+NUMBER_OF_RUNS = 500
+LANG_ID = "*"
+MAX_TITLES_PER_LANG = 500
+
+MODEL = "meta-llama-3.1-8b-instruct@Q4_K_M"
 LM_STUDIO_API_BASE = "http://127.0.0.1:1234/v1"
-LM_STUDIO_API_KEY = "lm-studio"
+LM_STUDIO_API_KEY = "..."
 
-LM_TEMPERATURE = 1
+
+
+LM_TEMPERATURE = 1.5
 LM_FREQUENCY_PENALTY = 0
 LM_PRESENCE_PENALTY = 0
 
