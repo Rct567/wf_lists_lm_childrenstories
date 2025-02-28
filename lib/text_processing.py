@@ -404,7 +404,7 @@ class TextProcessing:
             pattern = re.compile(cyrillic_pattern, re.UNICODE)
             s_replaced = pattern.sub(r'\1ӏ', s_lowered)
             return s_replaced
-        elif 'tr': # Turkish
+        elif lang_id == 'tr': # Turkish
             return s.replace('İ', 'i').replace('I', 'ı').lower()
         else:
             return s.lower()
