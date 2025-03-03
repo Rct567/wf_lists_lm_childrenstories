@@ -20,7 +20,7 @@ def get_lm_caller(api_base: str, api_key: str, model: str, temperature: float, f
     else:
         model_role = "system"
 
-    def call_local_lm(prompt_text: str, lang_id: str) -> Optional[tuple[str, str, str, str, float]]:
+    def call_lm(prompt_text: str, lang_id: str) -> Optional[tuple[str, str, str, str, float]]:
         global lm_caller_num_calls, lm_caller_num_errors
 
         if lm_caller_num_calls == 0:
@@ -61,7 +61,7 @@ def get_lm_caller(api_base: str, api_key: str, model: str, temperature: float, f
         #print("\n===========================\n"+response_content+"\n===========================\n")
         return (response_content, prompt_text, model, lang_id, time_taken)
 
-    return call_local_lm
+    return call_lm
 
 class LmResponse:
     def __init__(self, response_content: str, prompt: str, model: str, lang_id: str, time_taken: float):
