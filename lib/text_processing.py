@@ -3,7 +3,7 @@
 from functools import partial
 import html
 import re
-from typing import Callable, Counter, Generator, Iterable, NewType, Optional
+from typing import Callable, Counter, NewType, Optional
 
 
 import spacy
@@ -395,7 +395,7 @@ class TextProcessing:
         return num_none_letter_sequences
 
     @staticmethod
-    def lowercase_string(s: str, lang_id: str):
+    def lowercase_string(s: str, lang_id: str) -> str:
         if lang_id == 'ce': # Chechen
             # Lowercase the entire string first
             s_lowered = s.lower()
