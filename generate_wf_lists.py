@@ -61,7 +61,7 @@ def create_wf_list(lang_story_dir: str) -> None:
             print("File '{}' contains too many rejected words in body (rejection rate: {:.2f}).".format(story_file_path, word_token_rejection_rate))
             continue
 
-        num_none_letter_sequences = TextProcessing.num_lines_non_letter_sequence(body_content, r"!@#$%^&()_+={}\[\]:;\"'<>/\\|-~")
+        num_none_letter_sequences = TextProcessing.num_lines_non_letter_sequence(body_content, r"!@#$%^&()_+={}\[\]:;'<>/\\|-~")
         if num_none_letter_sequences >= 3:
             print("File '{}' contains too many lines with none-letter sequences.".format(story_file_path))
             continue

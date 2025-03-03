@@ -60,7 +60,7 @@ class LmStoryResponse(LmResponse):
             print("Response contains too many rejected words in body (rejection rate: {}).".format(token_rejection_rate))
             return False
 
-        num_none_letter_sequences = TextProcessing.num_lines_non_letter_sequence(body_content, r"!@#$%^&()_+={}\[\]:;\"'<>/\\|-~")
+        num_none_letter_sequences = TextProcessing.num_lines_non_letter_sequence(body_content, r"!@#$%^&()_+={}\[\]:;'<>/\\|-~")
         if num_none_letter_sequences >= 3:
             print("Response contains too many none-letter sequences.")
             return False
