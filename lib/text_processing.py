@@ -3,7 +3,7 @@
 from functools import partial
 import html
 import re
-from typing import Callable, Counter, NewType, Optional
+from typing import Callable, Counter, NewType, Optional, Sequence, Union
 
 
 import spacy
@@ -346,12 +346,17 @@ class TextProcessing:
         return accepted_word_tokens
 
     @staticmethod
-    def get_word_token_rejection_rate(text: str, lang_id: str) -> float:
+    def get_word_token_rejection_rate(text: Union[str, Sequence[WordToken]], lang_id: str) -> float:
+
+        if isinstance(text, str):
+            tokens = (str(token) for token in TextProcessing.get_word_tokens_from_text(text, lang_id, filter_words=False))
+        else:
+            tokens = text
 
         word_accepter = TextProcessing.get_word_accepter(lang_id)
         num_accepted_words = 0
         num_rejected_words = 0
-        for word in TextProcessing.get_word_tokens_from_text(text, lang_id, filter_words=False):
+        for word in tokens:
             if word_accepter(word):
                 num_accepted_words += 1
             else:
@@ -393,6 +398,25 @@ class TextProcessing:
                 num_none_letter_sequences += 1
 
         return num_none_letter_sequences
+
+    @staticmethod
+    def has_repeating_token_in_sequence(token_sequences: Sequence[WordToken], min_length: int = 3) -> bool:
+        if not token_sequences:
+            return False
+
+        current_token = token_sequences[0]
+        count = 1
+
+        for token in token_sequences[1:]:
+            if token == current_token:
+                count += 1
+                if count >= min_length:
+                    return True
+            else:
+                current_token = token
+                count = 1
+
+        return False
 
     @staticmethod
     def lowercase_string(s: str, lang_id: str) -> str:

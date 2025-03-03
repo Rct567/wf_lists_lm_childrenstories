@@ -66,6 +66,10 @@ def create_wf_list(lang_story_dir: str) -> None:
             print("File '{}' contains too many lines with none-letter sequences.".format(story_file_path))
             continue
 
+        if TextProcessing.has_repeating_token_in_sequence(tokens, min_length=10):
+            print("File '{}' contains repeating tokens.".format(story_file_path))
+            continue
+
         word_counter.update(tokens)
         word_counter_per_story.update(set(tokens))
 

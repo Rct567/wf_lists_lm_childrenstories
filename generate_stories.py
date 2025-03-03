@@ -49,12 +49,13 @@ class LmStoryResponse(LmResponse):
                 return False
 
         body_content = self.content_from_tag_or_empty("body")
+        body_tokens = TextProcessing.get_word_tokens_from_text(body_content, self.lang_id, filter_words=False)
 
         if TextProcessing.has_repetitive_sentences(body_content):
             print("Response contains repetitive sentences in body.")
             return False
 
-        token_rejection_rate = TextProcessing.get_word_token_rejection_rate(body_content, self.lang_id)
+        token_rejection_rate = TextProcessing.get_word_token_rejection_rate(body_tokens, self.lang_id)
         if token_rejection_rate > 0.1:
             print("Response contains too many rejected words in body (rejection rate: {}).".format(token_rejection_rate))
             return False
@@ -62,6 +63,10 @@ class LmStoryResponse(LmResponse):
         num_none_letter_sequences = TextProcessing.num_lines_non_letter_sequence(body_content, r"!@#$%^&()_+={}\[\]:;\"'<>/\\|-~")
         if num_none_letter_sequences >= 3:
             print("Response contains too many none-letter sequences.")
+            return False
+
+        if TextProcessing.has_repeating_token_in_sequence(body_tokens, min_length=10):
+            print("Response contains repeating tokens.")
             return False
 
         return True
