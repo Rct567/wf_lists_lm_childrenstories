@@ -50,15 +50,15 @@ def create_wf_list(lang_story_dir: str) -> None:
             continue
 
         body_content = content[content.rfind("<body>")+len("<body>"):].strip().replace("</body>", "")
-        text = TextProcessing.get_plain_text(title_content+" "+body_content)
-        tokens = TextProcessing.get_word_tokens_from_text(text, lang_id, filter_words=True)
-        if not tokens:
-            print("No tokens produced for file '{}'.".format(story_file_path))
-            continue
+        body_tokens = TextProcessing.get_word_tokens_from_text(body_content, lang_id, filter_words=False)
 
-        word_token_rejection_rate = TextProcessing.get_word_token_rejection_rate(body_content, lang_id)
+        word_token_rejection_rate = TextProcessing.get_word_token_rejection_rate(body_tokens, lang_id)
         if word_token_rejection_rate > 0.1:
             print("File '{}' contains too many rejected words in body (rejection rate: {:.2f}).".format(story_file_path, word_token_rejection_rate))
+            continue
+
+        if TextProcessing.has_repeating_token_in_sequence(body_tokens, min_length=10):
+            print("File '{}' contains repeating tokens.".format(story_file_path))
             continue
 
         num_none_letter_sequences = TextProcessing.num_lines_non_letter_sequence(body_content, r"!@#$%^&()_+={}\[\]:;'<>/\\|-~")
@@ -66,8 +66,10 @@ def create_wf_list(lang_story_dir: str) -> None:
             print("File '{}' contains too many lines with none-letter sequences.".format(story_file_path))
             continue
 
-        if TextProcessing.has_repeating_token_in_sequence(tokens, min_length=10):
-            print("File '{}' contains repeating tokens.".format(story_file_path))
+        content = title_content+" "+body_content
+        tokens = TextProcessing.get_word_tokens_from_text(content, lang_id, filter_words=True)
+        if not tokens:
+            print("No tokens produced for file '{}'.".format(story_file_path))
             continue
 
         word_counter.update(tokens)

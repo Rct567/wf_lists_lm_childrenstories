@@ -335,23 +335,20 @@ class TextProcessing:
     @staticmethod
     def get_word_tokens_from_text(text: str, lang_id: str, filter_words: bool) -> list[WordToken]:
 
+        plain_text = TextProcessing.get_plain_text(text)
+
         if filter_words:
             is_acceptable_word = TextProcessing.get_word_accepter(lang_id)
         else:
             is_acceptable_word: Callable[[str], bool] = lambda _: True
         tokenizer = TextProcessing.__get_tokenizer(lang_id)
 
-        word_tokens = (TextProcessing.create_word_token(token, lang_id) for token in tokenizer(text) if token.strip() != "")
+        word_tokens = (TextProcessing.create_word_token(token, lang_id) for token in tokenizer(plain_text) if token.strip() != "")
         accepted_word_tokens = [token for token in word_tokens if token.strip() != "" and is_acceptable_word(token)]
         return accepted_word_tokens
 
     @staticmethod
-    def get_word_token_rejection_rate(text: Union[str, Sequence[WordToken]], lang_id: str) -> float:
-
-        if isinstance(text, str):
-            tokens = (str(token) for token in TextProcessing.get_word_tokens_from_text(text, lang_id, filter_words=False))
-        else:
-            tokens = text
+    def get_word_token_rejection_rate(tokens: Sequence[WordToken], lang_id: str) -> float:
 
         word_accepter = TextProcessing.get_word_accepter(lang_id)
         num_accepted_words = 0

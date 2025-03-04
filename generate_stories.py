@@ -60,14 +60,15 @@ class LmStoryResponse(LmResponse):
             print("Response contains too many rejected words in body (rejection rate: {}).".format(token_rejection_rate))
             return False
 
+        if TextProcessing.has_repeating_token_in_sequence(body_tokens, min_length=10):
+            print("Response contains repeating tokens.")
+            return False
+
         num_none_letter_sequences = TextProcessing.num_lines_non_letter_sequence(body_content, r"!@#$%^&()_+={}\[\]:;'<>/\\|-~")
         if num_none_letter_sequences >= 3:
             print("Response contains too many none-letter sequences.")
             return False
 
-        if TextProcessing.has_repeating_token_in_sequence(body_tokens, min_length=10):
-            print("Response contains repeating tokens.")
-            return False
 
         return True
 
