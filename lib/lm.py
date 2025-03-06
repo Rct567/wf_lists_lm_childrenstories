@@ -92,6 +92,9 @@ def get_selected_lm() -> LM:
             print("Invalid index.")
             continue
 
+    print("Selected LM: {} ({})".format(selected_lm.model, selected_lm.api_base.split("://")[1]))
+    print("Temperature: {}".format(selected_lm.temperature))
+
     return selected_lm
 
 def get_lm_caller(lm: LM):
@@ -105,9 +108,6 @@ def get_lm_caller(lm: LM):
 
     def call_lm(prompt_text: str, lang_id: str) -> Optional[LmResponse]:
         global lm_caller_num_calls, lm_caller_num_errors
-
-        if lm_caller_num_calls == 0:
-            print("Using {} at '{} (temperature: {})'.".format(lm.model, lm.api_base.split("://")[1], lm.temperature))
 
         if lm_caller_num_errors > 3:
             print("Too many errors for {} ({}). Exiting.".format(lm.model, lm.api_base.split("://")[1]))
