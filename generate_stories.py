@@ -7,24 +7,18 @@ from typing import Optional, Union
 
 
 from lib.language_data import LANGUAGE_CODES_WITH_NAMES
-from lib.lm import LmResponse, get_lm_caller
+from lib.lm import LmResponse, get_defined_lms, get_lm_caller, get_selected_lm
 from lib.misc import STORIES_DIR, TITLES_DIR, StoryTitles, get_languages_to_process, keep_looping_through_languages, num_text_files_in_dir
 from lib.text_processing import TextProcessing
 
 
-NUMBER_OF_RUNS = 500
+NUMBER_OF_RUNS = 600
 LANG_ID = "*"
-MAX_STORIES_PER_LANG = 500
+MAX_STORIES_PER_LANG = 600
 
-LM_MODEL = "meta-llama-3.1-8b-instruct@Q4_K_M"
-LM_STUDIO_API_BASE = "http://127.0.0.1:1234/v1"
-LM_STUDIO_API_KEY = "...."
 
-LM_TEMPERATURE = 1.0
-LM_FREQUENCY_PENALTY = 0
-LM_PRESENCE_PENALTY = 0
-
-call_local_lm = get_lm_caller(LM_OPENAI_API_BASE, LM_OPENAI_API_KEY, LM_MODEL, LM_TEMPERATURE, LM_FREQUENCY_PENALTY, LM_PRESENCE_PENALTY)
+selected_lm = get_selected_lm()
+call_local_lm = get_lm_caller(selected_lm)
 
 class LmStoryResponse(LmResponse):
 

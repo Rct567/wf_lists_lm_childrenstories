@@ -1,8 +1,11 @@
+from dataclasses import dataclass
 from functools import cache
+import os
 import re
 import sys
 import time
 from typing import Optional
+from dotenv import load_dotenv
 from openai import OpenAI
 
 from lib.text_processing import TextProcessing, WordToken
@@ -11,11 +14,91 @@ from lib.text_processing import TextProcessing, WordToken
 lm_caller_num_calls = 0
 lm_caller_num_errors = 0
 
-def get_lm_caller(api_base: str, api_key: str, model: str, temperature: float, frequency_penalty: float, presence_penalty: float):
 
-    client = OpenAI(base_url=api_base, api_key=api_key)
+@dataclass
+class LM():
+    model: str
+    api_base: str
+    api_key: str
+    temperature: float
+    frequency_penalty: float
+    presence_penalty: float
 
-    if "Mistral" in model:
+    def __post_init__(self):
+        assert self.temperature >= 0 and self.temperature <= 2
+        assert self.frequency_penalty >= -2 and self.frequency_penalty <= 2
+        assert self.presence_penalty >= -2 and self.presence_penalty <= 2
+
+
+# named tuple for LM
+
+
+load_dotenv()
+
+def get_defined_lms() -> list[LM]:
+
+    # read .env file and create list of LMs
+    lms = []
+    current_index = 0
+    num_not_found = 0
+
+    while True:
+        try:
+
+            temperature = os.getenv("LM{}_TEMPERATURE".format(current_index))
+            if temperature:
+                temperature = float(temperature)
+            else:
+                temperature = 1.5
+
+            current_lm = LM(
+                model=os.environ["LM{}_MODEL".format(current_index)],
+                api_base=os.environ["LM{}_OPENAI_API_BASE".format(current_index)],
+                api_key=os.environ["LM{}_OPENAI_API_KEY".format(current_index)],
+                temperature=temperature,
+                frequency_penalty=0,
+                presence_penalty=0
+            )
+
+            lms.append(current_lm)
+        except KeyError:
+            num_not_found += 1
+            if num_not_found > 10:
+                break
+            else:
+                continue
+        finally:
+            current_index += 1
+
+    return lms
+
+def get_selected_lm() -> LM:
+
+    available_lms = get_defined_lms()
+
+    # ask user to select a LM
+    print("Available LMs:")
+    for index, lm in enumerate(available_lms):
+        print(" {}: {} ({})".format(index, lm.model, lm.api_base.split("://")[1]))
+    while True:
+        try:
+            selected_lm_index = int(input("Select a LM: "))
+            if selected_lm_index < 0 or selected_lm_index >= len(available_lms):
+                print("Invalid index.")
+                continue
+            selected_lm = available_lms[selected_lm_index]
+            break
+        except ValueError:
+            print("Invalid index.")
+            continue
+
+    return selected_lm
+
+def get_lm_caller(lm: LM):
+
+    client = OpenAI(base_url=lm.api_base, api_key=lm.api_key)
+
+    if "Mistral" in lm.model:
         model_role = "assistant"
     else:
         model_role = "system"
@@ -24,27 +107,25 @@ def get_lm_caller(api_base: str, api_key: str, model: str, temperature: float, f
         global lm_caller_num_calls, lm_caller_num_errors
 
         if lm_caller_num_calls == 0:
-            print("Using {} at '{}'.".format(model, api_base.split("://")[1]))
+            print("Using {} at '{} (temperature: {})'.".format(lm.model, lm.api_base.split("://")[1], lm.temperature))
 
         if lm_caller_num_errors > 3:
-            print("Too many errors for {} ({}). Exiting.".format(model, api_base.split("://")[1]))
+            print("Too many errors for {} ({}). Exiting.".format(lm.model, lm.api_base.split("://")[1]))
             sys.exit(1)
 
         messages = [
             {"role": model_role, "content": "You are a creative children's story writer."},
             {"role": "user", "content": prompt_text}
         ]
-        assert temperature > 0 and temperature <= 2
-        assert frequency_penalty > -2 and frequency_penalty <= 2
-        assert presence_penalty > -2 and presence_penalty <= 2
+
         lm_caller_num_calls += 1
         start_time = time.perf_counter()
         response = client.chat.completions.create(
-            model=model,
+            model=lm.model,
             messages=messages, # type: ignore
-            temperature=temperature,
+            temperature=lm.temperature,
             #frequency_penalty=frequency_penalty,
-            presence_penalty=presence_penalty
+            presence_penalty=lm.presence_penalty
         )
         if not response.choices:
             lm_caller_num_errors += 1
@@ -59,7 +140,7 @@ def get_lm_caller(api_base: str, api_key: str, model: str, temperature: float, f
             return None
         time_taken = time.perf_counter() - start_time
         #print("\n===========================\n"+response_content+"\n===========================\n")
-        return (response_content, prompt_text, model, lang_id, time_taken)
+        return (response_content, prompt_text, lm.model, lang_id, time_taken)
 
     return call_lm
 

@@ -1,27 +1,18 @@
 import os
 from typing import Union
 from lib.language_data import LANGUAGE_CODES_WITH_NAMES
-from lib.lm import LmResponse, get_lm_caller
+from lib.lm import LmResponse, get_lm_caller, get_selected_lm
 from lib.misc import TITLES_DIR, StoryTitles, get_languages_to_process, keep_looping_through_languages, num_lines_in_file
 from lib.text_processing import TextProcessing
 
 
-
 NUMBER_OF_RUNS = 500
 LANG_ID = "*"
-MAX_TITLES_PER_LANG = 500
+MAX_TITLES_PER_LANG = 50
 
-MODEL = "meta-llama-3.1-8b-instruct@Q4_K_M"
-LM_STUDIO_API_BASE = "http://127.0.0.1:1234/v1"
-LM_STUDIO_API_KEY = "..."
+selected_lm = get_selected_lm()
+call_local_lm = get_lm_caller(selected_lm)
 
-
-
-LM_TEMPERATURE = 1.5
-LM_FREQUENCY_PENALTY = 0
-LM_PRESENCE_PENALTY = 0
-
-call_local_lm = get_lm_caller(LM_STUDIO_API_BASE, LM_STUDIO_API_KEY, MODEL, LM_TEMPERATURE, LM_FREQUENCY_PENALTY, LM_PRESENCE_PENALTY)
 
 class LmTitlesResponse(LmResponse):
     pass
