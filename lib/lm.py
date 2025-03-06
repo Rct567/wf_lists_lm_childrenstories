@@ -103,7 +103,7 @@ def get_lm_caller(lm: LM):
     else:
         model_role = "system"
 
-    def call_lm(prompt_text: str, lang_id: str) -> Optional[tuple[str, str, str, str, float]]:
+    def call_lm(prompt_text: str, lang_id: str) -> Optional[LmResponse]:
         global lm_caller_num_calls, lm_caller_num_errors
 
         if lm_caller_num_calls == 0:
@@ -140,7 +140,7 @@ def get_lm_caller(lm: LM):
             return None
         time_taken = time.perf_counter() - start_time
         #print("\n===========================\n"+response_content+"\n===========================\n")
-        return (response_content, prompt_text, lm.model, lang_id, time_taken)
+        return LmResponse(response_content, prompt_text, lm.model, lang_id, time_taken)
 
     return call_lm
 

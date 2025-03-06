@@ -135,11 +135,16 @@ def build_story_prompt(lang_id: str, story_titles: StoryTitles) -> str:
 
 
 def get_story_response_from_lm(prompt_text: str, lang_id: str) -> Optional[LmStoryResponse]:
-    response_data = call_local_lm(prompt_text, lang_id)
-    if not response_data:
+    response = call_local_lm(prompt_text, lang_id)
+    if not response:
         return None
-    (response_content, prompt_text, model, lang_id, time_taken) = response_data
-    return LmStoryResponse(response_content, prompt_text, model, lang_id, time_taken)
+    return LmStoryResponse(
+        response.response_content,
+        response.prompt,
+        response.model,
+        response.lang_id,
+        response.time_taken
+    )
 
 def generate_story(lang_id: str, story_titles: StoryTitles) -> Optional[LmStoryResponse]:
     prompt_text = build_story_prompt(lang_id, story_titles)

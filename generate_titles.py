@@ -49,11 +49,17 @@ def generate_titles(lang_id: str, titles_dir: str, run_num: int) -> None:
     print("Generating titles for language '{}' ({}/{})...".format(LANGUAGE_CODES_WITH_NAMES[lang_id], run_num + 1, NUMBER_OF_RUNS))
 
     prompt_text = build_titles_prompt(lang_id)
-    response_data = call_local_lm(prompt_text, lang_id)
-    if not response_data:
+    response = call_local_lm(prompt_text, lang_id)
+    if not response:
         return
-    (response_content, prompt_text, model, lang_id, time_taken) = response_data
-    lm_response = LmTitlesResponse(response_content, prompt_text, model, lang_id, time_taken)
+
+    lm_response = LmTitlesResponse(
+        response.response_content,
+        response.prompt,
+        response.model,
+        response.lang_id,
+        response.time_taken
+    )
 
     titles_from_content = lm_response.content_from_tags("title")
 
