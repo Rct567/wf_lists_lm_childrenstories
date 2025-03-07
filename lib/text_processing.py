@@ -375,6 +375,7 @@ class TextProcessing:
                 continue
             segment = plain_sentence[0:min(len(plain_sentence), 80)]
             if sentences_encountered[segment] > max_repeat_allowed:
+                print("Sentence '{}' encountered {} times.".format(segment, sentences_encountered[segment]))
                 return True
             sentences_encountered[segment] += 1
         return False
