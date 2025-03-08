@@ -56,8 +56,8 @@ def get_defined_lms() -> list[LM]:
                 api_base=os.environ["LM{}_OPENAI_API_BASE".format(current_index)],
                 api_key=os.environ["LM{}_OPENAI_API_KEY".format(current_index)],
                 temperature=temperature,
-                frequency_penalty=0,
-                presence_penalty=0
+                frequency_penalty=0.01,
+                presence_penalty=0.01
             )
 
             lms.append(current_lm)
@@ -125,7 +125,7 @@ def get_lm_caller(lm: LM):
             messages=messages, # type: ignore
             temperature=lm.temperature,
             #frequency_penalty=frequency_penalty,
-            presence_penalty=lm.presence_penalty
+            #presence_penalty=lm.presence_penalty
         )
         if not response.choices:
             lm_caller_num_errors += 1
