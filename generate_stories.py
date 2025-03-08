@@ -7,9 +7,9 @@ from typing import Optional, Union
 
 
 from lib.language_data import LANGUAGE_CODES_WITH_NAMES
-from lib.lm import LmResponse, get_defined_lms, get_lm_caller, get_selected_lm
+from lib.lm import LmResponse, get_lm_caller, get_selected_lm
 from lib.misc import STORIES_DIR, TITLES_DIR, StoryTitles, get_languages_to_process, keep_looping_through_languages, num_text_files_in_dir
-from lib.text_processing import TextProcessing
+from lib.text_processing import TextProcessing, WordToken
 
 
 NUMBER_OF_RUNS = 600
@@ -24,6 +24,19 @@ class LmStoryResponse(LmResponse):
 
     def get_title(self) -> str:
         return self.content_from_tag_or_empty("title")
+
+    def num_words_in_story(self) -> int:
+        return len(self.word_tokens_from_story_content())
+
+    def get_num_words_per_second(self) -> float:
+        if self.response_content == "":
+            return 0
+        return self.num_words_in_story() / self.time_taken
+
+    @cache
+    def word_tokens_from_story_content(self) -> list[WordToken]:
+        story_content = self.content_from_tag_or_empty("body")
+        return TextProcessing.get_word_tokens_from_text(story_content, self.lang_id, filter_words=False)
 
     @cache
     def is_valid(self) -> bool:
@@ -43,7 +56,7 @@ class LmStoryResponse(LmResponse):
                 return False
 
         body_content = self.content_from_tag_or_empty("body")
-        body_tokens = TextProcessing.get_word_tokens_from_text(body_content, self.lang_id, filter_words=False)
+        body_tokens = self.word_tokens_from_story_content()
 
         if TextProcessing.has_repetitive_sentences(body_content):
             print("Response contains repetitive sentences in body.")
@@ -175,7 +188,7 @@ def generate_and_save_story(stories_dir: str, titles_dir: str, lang_id: str, run
         print("Skipped saving story due to an error.")
         return
 
-    print("Story '{}' generated in {:.2f} seconds ({} words).".format(lm_response.get_title(), lm_response.time_taken, lm_response.num_words_in_content()))
+    print("Story '{}' generated in {:.2f} seconds ({} words).".format(lm_response.get_title(), lm_response.time_taken, lm_response.num_words_in_story()))
 
     if lm_response.is_valid():
         save_story_to_file(stories_dir, lm_response)

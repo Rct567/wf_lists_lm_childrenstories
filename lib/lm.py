@@ -182,16 +182,3 @@ class LmResponse:
         tag_content = self.content_from_tag(tag_name)
         return tag_content if tag_content else ""
 
-    @cache
-    def word_tokens_from_content(self) -> list[WordToken]:
-        content = TextProcessing.get_plain_text(self.response_content)
-        return TextProcessing.get_word_tokens_from_text(content, self.lang_id, filter_words=False)
-
-    @cache
-    def num_words_in_content(self) -> int:
-        return len(self.word_tokens_from_content())
-
-    def get_num_words_per_second(self) -> float:
-        if self.response_content == "":
-            return 0
-        return self.num_words_in_content() / self.time_taken
