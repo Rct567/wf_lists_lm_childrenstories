@@ -76,7 +76,9 @@ def get_selected_lm() -> LM:
 
     available_lms = get_defined_lms()
 
-    # ask user to select a LM
+    if not available_lms:
+        raise Exception("No LMs defined in .env file.")
+
     print("Available LMs:")
     for index, lm in enumerate(available_lms):
         print(" {}: {} ({})".format(index, lm.model, lm.api_base.split("://")[1]))
