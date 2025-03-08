@@ -122,6 +122,8 @@ class TextProcessing:
         'qu',  # Quechua (e.g., "p'unchaw")
         'sc',  # Sardinian (e.g., "s'arti")
         'wa',   # Walloon (similar to French)
+        'mg',  # Malagasy (e.g., "lao'ny")
+        'rm',  # Romansh (e.g., "la 'n'oma")
     }
 
     CHINESE_PATTERN = re.compile(r'^[\u4e00-\u9fff]+$', re.UNICODE)
