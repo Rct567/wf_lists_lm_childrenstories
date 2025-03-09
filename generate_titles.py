@@ -75,7 +75,7 @@ def generate_titles(lang_id: str, titles_dir: str, run_num: int) -> None:
     num_titles_added = 0
     num_titles_original = len(story_titles.titles)
     for title in titles_from_content:
-        if not StoryTitles.title_is_acceptable(title, lang_id):
+        if not story_titles.title_is_acceptable(title):
             continue
         prefix = title[0:10]
         if prefix not in titles_prefixes:

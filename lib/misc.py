@@ -1,4 +1,5 @@
 
+from functools import cache
 import os
 import random
 import re
@@ -77,30 +78,23 @@ class StoryTitles:
 
         random.shuffle(self.titles)
 
-        valid_titles = [title for title in self.titles if StoryTitles.title_is_acceptable(title, self.lang_id)]
+        valid_titles = [title for title in self.titles if self.title_is_acceptable(title)]
         if len(valid_titles) != len(self.titles):
             num_removed = len(self.titles) - len(valid_titles)
             print("Removed {} invalid titles from loaded titles.".format(num_removed))
             self.titles = valid_titles
             self.save()
 
+    @cache
+    def tokenize_title(self, title: str) -> list[WordToken]:
+        return TextProcessing.get_word_tokens_from_text(title, self.lang_id, filter_words=False)
+
     def unique_titles(self, titles: Iterable[str]) -> Generator[str, None, None]:
         unique_prefixes = set()
         for title in titles:
             title = title.strip()
             assert "\n" not in title and "\r" not in title
-            if len(title) > self.max_length_title:
-                print("Title '{}' is too long.".format(title))
-                continue
-            title_tokens = TextProcessing.get_word_tokens_from_text(title, self.lang_id, filter_words=False)
-            if len(title_tokens) < self.min_num_words_title:
-                print(title_tokens)
-                print("Title '{}' has too few words ({}).".format(title, len(title_tokens)))
-                continue
-            if len(title_tokens) > self.max_num_words_title:
-                print("Title '{}' has too many words.".format(title))
-                continue
-            title_prefix = self.prefix_from_title(title, title_tokens)
+            title_prefix = self.prefix_from_title(title)
             if not title_prefix:
                 print("Title '{}' has no valid prefix.".format(title))
                 continue
@@ -110,8 +104,8 @@ class StoryTitles:
             yield title
             unique_prefixes.add(title_prefix)
 
-    @staticmethod
-    def title_is_acceptable(title: str, lang_id: str) -> bool:
+
+    def title_is_acceptable(self, title: str) -> bool:
         if any(char in title for char in "{}[]<>@#$%^*+＠_°©®™∞±√"):
             print("Title '{}' contains invalid characters.".format(title))
             return False
@@ -120,16 +114,35 @@ class StoryTitles:
             print("Title '{}' contains non-letter sequences.".format(title))
             return False
 
-        word_accepter = TextProcessing.get_word_accepter(lang_id)
-        for word in TextProcessing.get_word_tokens_from_text(title, lang_id, filter_words=False):
+        if len(title) > self.max_length_title:
+            print("Title '{}' is too long.".format(title))
+            return False
+
+        word_accepter = TextProcessing.get_word_accepter(self.lang_id)
+        title_tokens = self.tokenize_title(title)
+
+        if len(title_tokens) < self.min_num_words_title:
+            print(title_tokens)
+            print("Title '{}' has too few words ({}).".format(title, len(title_tokens)))
+            return False
+
+        if len(title_tokens) > self.max_num_words_title:
+            print("Title '{}' has too many words.".format(title))
+            return False
+
+        if len(set(title_tokens)) < len(title_tokens)/2:
+            print("Title '{}' has too many repeated words.".format(title))
+            return False
+
+        for word in title_tokens:
             if not word_accepter(word):
-                print("Title '{}' contains invalid word '{}' for language '{}'.".format(title, word, lang_id))
+                print("Title '{}' contains invalid word '{}' for language '{}'.".format(title, word, self.lang_id))
                 return False
+
         return True
 
-    def prefix_from_title(self, title: str, title_tokens: Optional[list[WordToken]] = None) -> Optional[str]:
-        if title_tokens == None:
-            title_tokens = TextProcessing.get_word_tokens_from_text(title, self.lang_id, filter_words=False)
+    def prefix_from_title(self, title: str) -> Optional[str]:
+        title_tokens = self.tokenize_title(title)
         if len(title_tokens) < self.prefix_num_words:
             print("Title '{}' has too few tokens for prefix.".format(title))
             return None
@@ -146,7 +159,7 @@ class StoryTitles:
         num_saved = 0
         with open(self.file_path, 'w', encoding="utf-8") as f:
             for title in self.unique_titles(self.titles):
-                if not StoryTitles.title_is_acceptable(title, self.lang_id):
+                if not self.title_is_acceptable(title):
                     print("Title '{}' is not acceptable. Title not saved.".format(title))
                     continue
                 f.write(f"{title}\n")
