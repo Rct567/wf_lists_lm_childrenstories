@@ -10,6 +10,7 @@ from lib.text_processing import TextProcessing
 def create_wf_list(lang_story_dir: str) -> None:
 
     lang_id = lang_story_dir
+    word_accepter = TextProcessing.get_word_accepter(lang_id)
     word_counter: Counter[str] = Counter()
     word_counter_per_story: Counter[str]  = Counter()
     num_stories = 0
@@ -52,9 +53,19 @@ def create_wf_list(lang_story_dir: str) -> None:
         body_content = content[content.rfind("<body>")+len("<body>"):].strip().replace("</body>", "")
         body_tokens = TextProcessing.get_word_tokens_from_text(body_content, lang_id, filter_words=False)
 
+        if not body_tokens:
+            print("No word tokens found in body.")
+            continue
+        elif len(body_tokens) > 2000:
+            print("WARNING: File '{}' contains {} words in body.".format(story_file_path, len(body_tokens)))
+
         word_token_rejection_rate = TextProcessing.get_word_token_rejection_rate(body_tokens, lang_id)
         if word_token_rejection_rate > 0.1:
             print("File '{}' contains too many rejected words in body (rejection rate: {:.2f}).".format(story_file_path, word_token_rejection_rate))
+            continue
+
+        if TextProcessing.has_repetitive_sentences(body_content):
+            print("File '{}' contains repetitive sentences in body.".format(story_file_path))
             continue
 
         if TextProcessing.has_repeating_token_in_sequence(body_tokens, min_length=10):
@@ -66,10 +77,16 @@ def create_wf_list(lang_story_dir: str) -> None:
             print("File '{}' contains too many lines with none-letter sequences.".format(story_file_path))
             continue
 
-        content = title_content+" "+body_content
-        tokens = TextProcessing.get_word_tokens_from_text(content, lang_id, filter_words=True)
+        title_tokens = TextProcessing.get_word_tokens_from_text(title_content, lang_id, filter_words=False)
+        if not title_tokens:
+            print("No word tokens found in title.")
+            continue
+
+        tokens = title_tokens + body_tokens
+        tokens = [token for token in tokens if word_accepter(token)]
+
         if not tokens:
-            print("No tokens produced for file '{}'.".format(story_file_path))
+            print("No word tokens found in title + body.")
             continue
 
         word_counter.update(tokens)
