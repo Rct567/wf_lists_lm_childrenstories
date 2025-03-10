@@ -18,7 +18,7 @@ def test_lowercase_string_chechen():
 
 
 def test_lowercase_string_turkish():
-    
+
     test_sentence = "İSTANBUL'DA IŞIKLI BİR GECE – İYİ GECELER!"
     expected_output = "istanbul'da ışıklı bir gece – iyi geceler!"
     assert lowercase_string(test_sentence, 'tr') == expected_output
@@ -31,7 +31,7 @@ def test_lowercase_string_turkish():
     at_least_one_token_reject_by_native_lower_fn = any(not word_acceptor(token.lower()) for token in tokens)
     assert at_least_one_token_reject_by_native_lower_fn
 
-def test_word_tokens_pt_br():
+def test_get_word_tokens_pt_br():
 
     text = "O Mistério do Tesouro Perdido na Ilha dos Pássaros Falantes e Coloridos. хӏорда"
     tokens = TextProcessing.get_word_tokens_from_text(text, "pt_br", filter_words=True)
