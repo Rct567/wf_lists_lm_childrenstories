@@ -73,7 +73,7 @@ class LmStoryResponse(LmResponse):
             print("Response contains too many rejected words in body (rejection rate: {}).".format(token_rejection_rate))
             return False
 
-        if TextProcessing.has_repeating_token_in_sequence(body_tokens, min_length=10):
+        if TextProcessing.has_repeating_token_in_sequence(body_tokens, min_repeats=10):
             print("Response contains repeating tokens.")
             return False
 

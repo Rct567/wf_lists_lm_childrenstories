@@ -68,7 +68,7 @@ def create_wf_list(lang_story_dir: str) -> None:
             print("File '{}' contains repetitive sentences in body.".format(story_file_path))
             continue
 
-        if TextProcessing.has_repeating_token_in_sequence(body_tokens, min_length=10):
+        if TextProcessing.has_repeating_token_in_sequence(body_tokens, min_repeats=10):
             print("File '{}' contains repeating tokens.".format(story_file_path))
             continue
 

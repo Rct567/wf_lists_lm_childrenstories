@@ -37,5 +37,23 @@ def test_word_tokens_pt_br():
     tokens = TextProcessing.get_word_tokens_from_text(text, "pt_br", filter_words=True)
     assert tokens ==  ['o', 'mistério', 'do', 'tesouro', 'perdido', 'na', 'ilha', 'dos', 'pássaros', 'falantes', 'e', 'coloridos']
 
+def test_has_repeating_token_in_sequence():
+
+    token_sequence = "b a a a".split()
+    assert TextProcessing.has_repeating_token_in_sequence(token_sequence)
+    assert not TextProcessing.has_repeating_token_in_sequence(token_sequence[0:2])
+    assert not TextProcessing.has_repeating_token_in_sequence(token_sequence, min_repeats=4)
+
+def test_has_repeating_multiple_tokens_in_sequence():
+
+    token_sequence = "c a b a b a b a b".split()
+    assert TextProcessing.has_repeating_token_in_sequence(token_sequence)
+
+    token_sequence = "a b c a b c a b c a b c".split()
+    assert TextProcessing.has_repeating_token_in_sequence(token_sequence, max_pattern_length=4)
+    assert TextProcessing.has_repeating_token_in_sequence(token_sequence, max_pattern_length=3)
+    assert not TextProcessing.has_repeating_token_in_sequence(token_sequence, max_pattern_length=2)
+    assert not TextProcessing.has_repeating_token_in_sequence(token_sequence, max_pattern_length=1)
+    assert not TextProcessing.has_repeating_token_in_sequence(token_sequence, min_repeats=5)
 
 

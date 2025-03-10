@@ -400,23 +400,54 @@ class TextProcessing:
         return num_none_letter_sequences
 
     @staticmethod
-    def has_repeating_token_in_sequence(token_sequences: Sequence[WordToken], min_length: int = 3) -> bool:
+    def has_repeating_token_in_sequence(token_sequences: Union[Sequence[str], Sequence['WordToken']],
+                                        min_repeats: int = 3, max_pattern_length: int = 2) -> bool:
+        """
+        Detects if there is a pattern of length k (where 1 ≤ k ≤ pattern_length) that repeats
+        consecutively at least min_repeats times in non-overlapping windows.
+
+        Args:
+            token_sequences: Sequence of tokens (strings or WordToken objects).
+            min_repeats: Minimum number of consecutive repeats required (default: 3).
+            max_pattern_length: Maximum length of the pattern to check (default: 2).
+
+        Returns:
+            bool: True if a pattern of length 1 to pattern_length repeats at least min_repeats
+                times consecutively, False otherwise.
+        """
+
         if not token_sequences:
             return False
 
-        current_token = token_sequences[0]
-        count = 1
+        tokens = [str(token) for token in token_sequences]
+        sequence_length = len(tokens)
 
-        for token in token_sequences[1:]:
-            if token == current_token:
-                count += 1
-                if count >= min_length:
-                    return True
-            else:
-                current_token = token
-                count = 1
+        if max_pattern_length > sequence_length:
+            return False
 
-        return False
+        effective_pattern_length = min(max_pattern_length, sequence_length)
+
+        for k in range(1, effective_pattern_length + 1):
+            if sequence_length < k * min_repeats:
+                continue
+
+            current_pattern = tuple(tokens[0:k])
+            streak = 1
+
+            for i in range(k, sequence_length, k):
+                if i + k > sequence_length:
+                    break  # Not enough tokens left for a full pattern
+                next_pattern = tuple(tokens[i:i + k])
+                if next_pattern == current_pattern:
+                    streak += 1
+                    if streak >= min_repeats:
+                        print("Found repeats in pattern '{}'".format(current_pattern))
+                        return True  # Found sufficient repeats
+                else:
+                    current_pattern = next_pattern
+                    streak = 1  # Reset streak for new pattern
+
+        return False  # No pattern found with sufficient repeats
 
     @staticmethod
     def lowercase_string(s: str, lang_id: str) -> str:
