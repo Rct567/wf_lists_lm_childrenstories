@@ -55,9 +55,9 @@ def create_wf_list(lang_story_dir: str) -> None:
         body_tokens = TextProcessing.get_word_tokens_from_text(body_content, lang_id, filter_words=False)
 
         if not body_tokens:
-            print("No word tokens found in body.")
+            print("No word tokens found in body of file '{}'.".format(story_file_path))
             continue
-        elif len(body_tokens) > 2000:
+        elif len(body_tokens) > 3100:
             print("WARNING: File '{}' contains {} words in body.".format(story_file_path, len(body_tokens)))
 
         word_token_rejection_rate = TextProcessing.get_word_token_rejection_rate(body_tokens, lang_id)
@@ -73,6 +73,9 @@ def create_wf_list(lang_story_dir: str) -> None:
             print("File '{}' contains repeating tokens.".format(story_file_path))
             continue
 
+        if len(set(body_tokens)) < len(body_tokens)/50:
+            print("WARNING: File '{}' contains too many repeated words.".format(story_file_path))
+
         num_none_letter_sequences = TextProcessing.num_lines_non_letter_sequence(body_content, r"!@#$%^&()_+={}\[\]:;'<>/\\|-~")
         if num_none_letter_sequences >= 3:
             print("File '{}' contains too many lines with none-letter sequences.".format(story_file_path))
@@ -80,7 +83,7 @@ def create_wf_list(lang_story_dir: str) -> None:
 
         title_tokens = TextProcessing.get_word_tokens_from_text(title_content, lang_id, filter_words=False)
         if not title_tokens:
-            print("No word tokens found in title.")
+            print("No word tokens found in title of file '{}'.".format(story_file_path))
             continue
 
         tokens = title_tokens + body_tokens
