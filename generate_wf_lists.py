@@ -10,7 +10,6 @@ from lib.text_processing import TextProcessing
 def create_wf_list(lang_story_dir: str) -> None:
 
     lang_id = lang_story_dir
-    word_accepter = TextProcessing.get_word_accepter(lang_id)
     word_counter: Counter[str] = Counter()
     word_counter_per_story: Counter[str]  = Counter()
     num_stories = 0
@@ -18,6 +17,8 @@ def create_wf_list(lang_story_dir: str) -> None:
     if lang_id not in LANGUAGE_CODES_WITH_NAMES:
         print("Unknown language '{}'. Skipped creating word frequency list.".format(lang_id))
         return
+
+    word_accepter = TextProcessing.get_word_accepter(lang_id)
 
     for story_file in os.listdir(os.path.join(STORIES_DIR, lang_story_dir)):
 
