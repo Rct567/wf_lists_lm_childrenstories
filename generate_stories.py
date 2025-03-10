@@ -22,6 +22,8 @@ call_local_lm = get_lm_caller(selected_lm)
 
 class LmStoryResponse(LmResponse):
 
+    story_min_word_tokens = 250
+
     def get_title(self) -> str:
         return self.content_from_tag_or_empty("title")
 
@@ -57,6 +59,10 @@ class LmStoryResponse(LmResponse):
 
         body_content = self.content_from_tag_or_empty("body")
         body_tokens = self.word_tokens_from_story_content()
+
+        if len(body_tokens) < self.story_min_word_tokens:
+            print("Response contains too few words in body ({}).".format(len(body_tokens)))
+            return False
 
         if TextProcessing.has_repetitive_sentences(body_content):
             print("Response contains repetitive sentences in body.")
