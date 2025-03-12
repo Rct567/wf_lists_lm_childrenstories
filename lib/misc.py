@@ -177,12 +177,21 @@ class _RateLimiter:
         self.interval = 60.0 / max_per_minute
         self.next_call_time: float = 0.0
 
+    def __print_sleep_duration(self, sleep_duration: float) -> None:
+        if sleep_duration < 0.1:
+            return
+        if sleep_duration >= 10:
+            sleep_duration_display_str = "{} seconds".format(int(sleep_duration))
+        else:
+            sleep_duration_display_str = "{:.1f} seconds".format(sleep_duration)
+        print("Sleeping for {} to stay within rate limit of {} calls per minute.".format(sleep_duration_display_str, self.max_per_minute))
+
     def __call__(self, func: Callable[P, R]) -> Callable[P, R]:
         def wrapped(*args: P.args, **kwargs: P.kwargs) -> R:
             current_time = time.monotonic()
             if current_time < self.next_call_time:
                 sleep_duration = self.next_call_time - current_time
-                print("Sleeping for {} seconds to stay within rate limit of {} calls per minute.".format(int(sleep_duration), self.max_per_minute))
+                self.__print_sleep_duration(sleep_duration)
                 time.sleep(sleep_duration)
                 current_time = time.monotonic()  # Get fresh time after sleep
 
