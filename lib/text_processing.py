@@ -367,13 +367,13 @@ class TextProcessing:
         return num_rejected_words / (num_accepted_words + num_rejected_words)
 
     @staticmethod
-    def has_repetitive_sentences(text: str, max_repeat_allowed: int = 3) -> bool:
+    def has_repetitive_sentences(text: str, max_repeat_allowed: int = 3, min_sentence_length: int = 15) -> bool:
         text = text.replace("<p>", "\n<p>").replace("</p>", "</p>\n")
         sentences = [p.strip() for p in re.split(r'\n{1,}|(?<=[.!?])\s+', text) if p.strip()]
         sentences_encountered: Counter[str] = Counter()
         for sentence in sentences:
             plain_sentence = TextProcessing.get_plain_text(sentence)
-            if not plain_sentence:
+            if not plain_sentence or len(plain_sentence) < min_sentence_length:
                 continue
             segment = plain_sentence[0:min(len(plain_sentence), 80)]
             if sentences_encountered[segment] > max_repeat_allowed:
