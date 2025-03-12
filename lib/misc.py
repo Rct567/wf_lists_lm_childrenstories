@@ -2,8 +2,8 @@
 from functools import cache
 import os
 import random
-import re
-from typing import Generator, Iterable, Optional, Union
+from typing import Generator, Iterable, Optional, ParamSpec, Union, Callable, TypeVar, Any, cast
+import time
 
 from lib.language_data import LANGUAGE_CODES_WITH_NAMES
 from lib.text_processing import TextProcessing, WordToken
@@ -165,4 +165,32 @@ class StoryTitles:
                 f.write(f"{title}\n")
                 num_saved += 1
         return num_saved
+
+
+
+P = ParamSpec("P")
+R = TypeVar("R")
+
+class _RateLimiter:
+    def __init__(self, max_per_minute: int):
+        self.max_per_minute = max_per_minute
+        self.interval = 60.0 / max_per_minute
+        self.next_call_time: float = 0.0
+
+    def __call__(self, func: Callable[P, R]) -> Callable[P, R]:
+        def wrapped(*args: P.args, **kwargs: P.kwargs) -> R:
+            current_time = time.monotonic()
+            if current_time < self.next_call_time:
+                sleep_duration = self.next_call_time - current_time
+                print("Sleeping for {} seconds to stay within rate limit of {} calls per minute.".format(int(sleep_duration), self.max_per_minute))
+                time.sleep(sleep_duration)
+                current_time = time.monotonic()  # Get fresh time after sleep
+
+            self.next_call_time = current_time + self.interval
+            return func(*args, **kwargs)
+        return wrapped
+
+def rate_limit_per_minute(max_per_minute: int) -> Callable[[Callable[P, R]], Callable[P, R]]:
+    """Decorator factory that enforces a maximum call rate per minute."""
+    return _RateLimiter(max_per_minute)
 

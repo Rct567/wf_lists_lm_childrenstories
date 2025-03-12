@@ -8,6 +8,7 @@ from typing import Optional
 from dotenv import load_dotenv
 from openai import OpenAI
 
+from lib.misc import rate_limit_per_minute
 from lib.text_processing import TextProcessing, WordToken
 
 
@@ -23,6 +24,7 @@ class LM():
     temperature: float
     frequency_penalty: float
     presence_penalty: float
+    rate_limit_per_minute: int
 
     def __post_init__(self):
         assert self.temperature >= 0 and self.temperature <= 2
@@ -51,13 +53,20 @@ def get_defined_lms() -> list[LM]:
             else:
                 temperature = 1.5
 
+            rate_limit_per_minute = os.getenv("LM{}_RATE_LIMIT_PER_MINUTE".format(current_index))
+            if rate_limit_per_minute:
+                rate_limit_per_minute = int(rate_limit_per_minute)
+            else:
+                rate_limit_per_minute = 4
+
             current_lm = LM(
                 model=os.environ["LM{}_MODEL".format(current_index)],
                 api_base=os.environ["LM{}_OPENAI_API_BASE".format(current_index)],
                 api_key=os.environ["LM{}_OPENAI_API_KEY".format(current_index)],
                 temperature=temperature,
                 frequency_penalty=0.01,
-                presence_penalty=0.01
+                presence_penalty=0.01,
+                rate_limit_per_minute=rate_limit_per_minute
             )
 
             lms.append(current_lm)
@@ -108,6 +117,7 @@ def get_lm_caller(lm: LM):
     else:
         model_role = "system"
 
+    @rate_limit_per_minute(lm.rate_limit_per_minute)
     def call_lm(prompt_text: str, lang_id: str) -> Optional[LmResponse]:
         global lm_caller_num_calls, lm_caller_num_errors
 
