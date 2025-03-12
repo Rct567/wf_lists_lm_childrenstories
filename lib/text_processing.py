@@ -401,7 +401,7 @@ class TextProcessing:
 
     @staticmethod
     def has_repeating_token_in_sequence(token_sequences: Union[Sequence[str], Sequence['WordToken']],
-                                        min_repeats: int = 3, max_pattern_length: int = 2) -> bool:
+                                        min_repeats: int = 3, max_pattern_length: int = 3) -> bool:
         """
         Detects if there is a pattern of length k (where 1 ≤ k ≤ pattern_length) that repeats
         consecutively at least min_repeats times in non-overlapping windows.
@@ -409,7 +409,7 @@ class TextProcessing:
         Args:
             token_sequences: Sequence of tokens (strings or WordToken objects).
             min_repeats: Minimum number of consecutive repeats required (default: 3).
-            max_pattern_length: Maximum length of the pattern to check (default: 2).
+            max_pattern_length: Maximum length of the pattern to check (default: 3).
 
         Returns:
             bool: True if a pattern of length 1 to pattern_length repeats at least min_repeats
