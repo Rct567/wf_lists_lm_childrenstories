@@ -100,15 +100,6 @@ def build_story_prompt(lang_id: str, story_titles: StoryTitles) -> str:
     assert lang_id == story_titles.lang_id
     num_words = 1000
 
-    pre_made_prompts = {}
-    # pre_made_prompts['nl'] = (
-    #     "Schrijf een creatief en origineel Nederlands kinderverhaal van minstens {num_words} woorden:\n"
-    #     "Het moet volledig in correct Nederlands (NL) geschreven zijn.\n"
-    #     "De titel van het verhaal moet geplaats worden in <title> tags en het verhaal zelf in <body> tags.\n"
-    #     "Voorbeeld: <title>De title van het verhaal</title><body>Het verhaal zelf</body>\n"
-    #     "Voeg geen extra commentaar of uitleg toe; geef alleen het verhaal in het opgegeven formaat.\n"
-    # )
-
     story_adjectives = ['creative and original', 'dialog-based', 'funny', 'fun and entertaining', 'educational', 'silly', 'uncomplicated',
                         'simple and easy-to-follow', 'light-hearted', 'emotional', 'timeless', 'relatable']
     random_story_adjective = random.choice(story_adjectives)
@@ -121,16 +112,13 @@ def build_story_prompt(lang_id: str, story_titles: StoryTitles) -> str:
         "Do not include any extra commentary or explanation; output only the story in the specified format.\n"
     )
 
-    if lang_id in pre_made_prompts:
-        prompt = pre_made_prompts[lang_id].format(num_words=num_words)
-    else:
-        language_name = LANGUAGE_CODES_WITH_NAMES[lang_id]
-        prompt = english_prompt_template.format(
-            num_words=num_words,
-            language_name=language_name,
-            language_code=lang_id.upper(),
-            story_adjective=random_story_adjective,
-        )
+    language_name = LANGUAGE_CODES_WITH_NAMES[lang_id]
+    prompt = english_prompt_template.format(
+        num_words=num_words,
+        language_name=language_name,
+        language_code=lang_id.upper(),
+        story_adjective=random_story_adjective,
+    )
 
     # add story title
 
@@ -140,18 +128,9 @@ def build_story_prompt(lang_id: str, story_titles: StoryTitles) -> str:
         print("Prompt made without title for story!")
         return prompt
 
-    pre_made_title_prompt = {}
-    pre_made_title_prompt['nl'] = "De titel van het verhaal is: '{}'."
-
-    english_title_prompts_template = "The title of the story is: '{}'."
-
-    if lang_id in pre_made_title_prompt:
-        prompt += ""+pre_made_title_prompt[lang_id].format(title)+"\n"
-    else:
-        prompt += ""+english_title_prompts_template.format(title)+"\n"
+    prompt += "The title of the story is: '{}'.".format(title)+"\n"
 
     return prompt
-
 
 def get_story_response_from_lm(prompt_text: str, lang_id: str) -> Optional[LmStoryResponse]:
     response = call_lm(prompt_text, lang_id)
