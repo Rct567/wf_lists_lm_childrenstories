@@ -1,4 +1,5 @@
 import os
+import random
 from typing import Union
 from lib.language_data import LANGUAGE_CODES_WITH_NAMES
 from lib.lm import LmResponse, get_lm_caller, get_selected_lm
@@ -18,29 +19,27 @@ class LmTitlesResponse(LmResponse):
     pass
 
 def build_titles_prompt(lang_id: str) -> str:
-    num_words = 6
-    pre_made_prompts = {}
-    pre_made_prompts['nl'] = (
-        "Maak je lijstje met 50 titels voor nieuwe (niet bestaande) Nederlandse kinderverhalen. \n"
-        "De titels moeten volledig in correct Nederlands (NL) geschreven zijn.\n"
-        "Wees creatief! Wees origineel! \n"
-        "Geef de titels in <title> tags. De titels moeten minimaal {num_words} woorden lang zijn. \n"
-        "Voeg geen extra commentaar of uitleg toe; geef alleen de titles in <title> tags. \n"
 
-    )
+    random_additional_instruction = random.choice([
+        'Be creative! Be original!',
+        'Make the titles simple and easy to understand.'
+    ])
+
     english_prompt_template = (
         "Make a list of 50 titles for new (not existing) {language_name} children's stories. \n"
         "The titles must be completely written in proper {language_name} ({language_code}).\n"
-        "Be creative! Be original! \n"
+        "{additional_instruction}\n"
         "Give the titles in <title> tags. The titles must be at least {num_words} words long. \n"
         "Do not add any additional comments or explanations; only provide the titles in <title> tags."
     )
 
-    if lang_id in pre_made_prompts:
-        prompt = pre_made_prompts[lang_id].format(num_words=num_words)
-    else:
-        language_name = LANGUAGE_CODES_WITH_NAMES[lang_id]
-        prompt = english_prompt_template.format(num_words=num_words, language_name=language_name, language_code=lang_id.upper())
+    language_name = LANGUAGE_CODES_WITH_NAMES[lang_id]
+    prompt = english_prompt_template.format(
+        num_words=6,
+        language_name=language_name,
+        language_code=lang_id.upper(),
+        additional_instruction=random_additional_instruction
+    )
 
     return prompt
 
