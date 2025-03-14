@@ -18,7 +18,7 @@ MAX_STORIES_PER_LANG = 600
 
 
 selected_lm = get_selected_lm()
-call_local_lm = get_lm_caller(selected_lm)
+call_lm = get_lm_caller(selected_lm)
 
 class LmStoryResponse(LmResponse):
 
@@ -154,7 +154,7 @@ def build_story_prompt(lang_id: str, story_titles: StoryTitles) -> str:
 
 
 def get_story_response_from_lm(prompt_text: str, lang_id: str) -> Optional[LmStoryResponse]:
-    response = call_local_lm(prompt_text, lang_id)
+    response = call_lm(prompt_text, lang_id)
     if not response:
         return None
     return LmStoryResponse(

@@ -12,8 +12,7 @@ LANG_ID = "*"
 MAX_TITLES_PER_LANG = 50
 
 selected_lm = get_selected_lm()
-call_local_lm = get_lm_caller(selected_lm)
-
+call_lm = get_lm_caller(selected_lm)
 
 class LmTitlesResponse(LmResponse):
     pass
@@ -48,7 +47,7 @@ def generate_titles(lang_id: str, titles_dir: str, run_num: int) -> None:
     print("Generating titles for language '{}' ({}/{})...".format(LANGUAGE_CODES_WITH_NAMES[lang_id], run_num + 1, NUMBER_OF_RUNS))
 
     prompt_text = build_titles_prompt(lang_id)
-    response = call_local_lm(prompt_text, lang_id)
+    response = call_lm(prompt_text, lang_id)
     if not response:
         return
 
