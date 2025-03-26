@@ -278,16 +278,22 @@ class TextProcessing:
         return val.strip()
 
     @staticmethod
-    def create_word_token(text: str, lang_id: str) -> WordToken:
+    def get_word_token_creator(lang_id: str) -> Callable[[str], WordToken]:
 
-        assert "\t" not in text and "\n" not in text and "\r" not in text
+        normalize_curly_apostrophe = str(lang_id) in TextProcessing.LANGUAGES_USING_APOSTROPHE
 
-        token = text.strip(".,'’\"' \t\n\r!@#$%^&*()_-=+{}:\"<>?/;")
+        def create_word_token(text: str) -> WordToken:
 
-        if '’' in token and lang_id in {"en", "fr", "it", "de", "es"}:
-            token = token.replace("’", "'")
+            assert "\t" not in text and "\n" not in text and "\r" not in text
 
-        return WordToken(TextProcessing.lowercase_string(token, lang_id))
+            token = text.strip(".,'’\"' \t\n\r!@#$%^&*()_-=+{}:\"<>?/;")
+
+            if normalize_curly_apostrophe and '’' in token:
+                token = token.replace("’", "'")
+
+            return WordToken(token.lower())
+
+        return create_word_token
 
     @staticmethod
     def default_tokenizer(text: str) -> list[str]:
@@ -338,6 +344,7 @@ class TextProcessing:
     def get_word_tokens_from_text(text: str, lang_id: str, filter_words: bool) -> list[WordToken]:
 
         plain_text = TextProcessing.get_plain_text(text)
+        create_word_token = TextProcessing.get_word_token_creator(lang_id)
 
         if filter_words:
             is_acceptable_word = TextProcessing.get_word_accepter(lang_id)
@@ -345,7 +352,7 @@ class TextProcessing:
             is_acceptable_word: Callable[[str], bool] = lambda _: True
         tokenizer = TextProcessing.__get_tokenizer(lang_id)
 
-        word_tokens = (TextProcessing.create_word_token(token, lang_id) for token in tokenizer(plain_text) if token.strip() != "")
+        word_tokens = (create_word_token(token) for token in tokenizer(plain_text) if token.strip() != "")
         accepted_word_tokens = [token for token in word_tokens if token.strip() != "" and is_acceptable_word(token)]
         return accepted_word_tokens
 
