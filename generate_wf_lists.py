@@ -1,107 +1,121 @@
 from collections import Counter
+from concurrent.futures import Executor, ProcessPoolExecutor
 import csv
+from functools import partial
 import os
 import re
 from statistics import fmean
+import time
+from typing import Callable, Optional, Sequence
 from lib.language_data import LANGUAGE_CODES_WITH_NAMES
 from lib.misc import STORIES_DIR, WF_LISTS_DIR
-from lib.text_processing import TextProcessing
+from lib.text_processing import TextProcessing, WordToken
 
-def create_wf_list(lang_story_dir: str) -> None:
+
+def get_tokens_from_story(story_file_path: str, word_accepter: Callable[[str], bool], lang_id: str) -> Optional[Sequence[WordToken]]:
+
+    content_of_file = open(story_file_path, "r", encoding="utf-8").read()
+
+    if not "<title>" in content_of_file:
+        print("No <title> tag found in file '{}'.".format(story_file_path))
+        return None
+
+    # start content from last <title> tag
+    content = content_of_file[content_of_file.rfind("<title>"):].strip()
+
+    match = re.search(r"<title>(.*?)</title>", content, re.DOTALL | re.IGNORECASE)
+    if not match:
+        print("No <title> tag found in file '{}'.".format(story_file_path))
+        return None
+    title_content = match.group(1).strip()
+
+    if not "<body>" in content:
+        print("No <body> tag found in file '{}'.".format(story_file_path))
+        return None
+
+    body_content = content[content.rfind("<body>")+len("<body>"):].strip().replace("</body>", "")
+    body_tokens = TextProcessing.get_word_tokens_from_text(body_content, lang_id, filter_words=False)
+
+    if not body_tokens:
+        print("No word tokens found in body of file '{}'.".format(story_file_path))
+        return None
+    elif len(body_tokens) > 3100:
+        print("WARNING: File '{}' contains {} words in body.".format(story_file_path, len(body_tokens)))
+
+    word_token_rejection_rate = TextProcessing.get_word_token_rejection_rate(body_tokens, lang_id)
+    if word_token_rejection_rate > 0.1:
+        print("File '{}' contains too many rejected words in body (rejection rate: {:.2f}).".format(story_file_path, word_token_rejection_rate))
+        return None
+
+    if TextProcessing.has_repetitive_sentences(body_content):
+        print("File '{}' contains repetitive sentences in body.".format(story_file_path))
+        return None
+
+    if TextProcessing.has_repeating_token_in_sequence(body_tokens, min_repeats=10):
+        print("File '{}' contains repeating tokens.".format(story_file_path))
+        return None
+
+    if len(set(body_tokens)) < len(body_tokens)/50:
+        print("WARNING: File '{}' contains too many repeated words.".format(story_file_path))
+
+    num_none_letter_sequences = TextProcessing.num_lines_non_letter_sequence(body_content, r"!@#$%^&()_+={}\[\]:;'<>/\\|-~")
+    if num_none_letter_sequences >= 3:
+        print("File '{}' contains too many lines with none-letter sequences.".format(story_file_path))
+        return None
+
+    title_tokens = TextProcessing.get_word_tokens_from_text(title_content, lang_id, filter_words=False)
+    if not title_tokens:
+        print("No word tokens found in title of file '{}'.".format(story_file_path))
+        return None
+
+    tokens = title_tokens + body_tokens
+    tokens = [token for token in tokens if word_accepter(token)]
+
+    if not tokens:
+        print("No word tokens found in title + body.")
+        return None
+
+    return tokens
+
+def count_tokens_from_story_file(lang_id: str, story_file_path: str) -> Counter[str]:
+
+    word_accepter = TextProcessing.get_word_accepter(lang_id)
+    tokens = get_tokens_from_story(story_file_path, word_accepter, lang_id)
+    return Counter(tokens)
+
+def create_wf_list(lang_story_dir: str, executor: Executor) -> None:
 
     lang_id = lang_story_dir
     word_counter: Counter[str] = Counter()
     word_counter_per_story: Counter[str]  = Counter()
-    num_stories = 0
 
     if lang_id not in LANGUAGE_CODES_WITH_NAMES:
         print("Unknown language '{}'. Skipped creating word frequency list.".format(lang_id))
         return
 
-    word_accepter = TextProcessing.get_word_accepter(lang_id)
+    story_files = []
 
     for story_file in os.listdir(os.path.join(STORIES_DIR, lang_story_dir)):
-
         story_file_path = os.path.join(STORIES_DIR, lang_story_dir, story_file)
-        num_stories += 1
-
         if not os.path.isfile(story_file_path):
             print("File '{}' is not a file.".format(story_file_path))
             continue
-        if not story_file.endswith(".txt"):
+        if not story_file_path.endswith(".txt"):
             print("File '{}' is not a text file.".format(story_file_path))
             continue
+        story_files.append(story_file_path)
 
-        content_of_file = open(story_file_path, "r", encoding="utf-8").read()
 
-        if not "<title>" in content_of_file:
-            print("No <title> tag found in file '{}'.".format(story_file_path))
-            continue
-
-        # start content from last <title> tag
-        content = content_of_file[content_of_file.rfind("<title>"):].strip()
-
-        match = re.search(r"<title>(.*?)</title>", content, re.DOTALL | re.IGNORECASE)
-        if not match:
-            print("No <title> tag found in file '{}'.".format(story_file_path))
-            continue
-        title_content = match.group(1).strip()
-
-        if not "<body>" in content:
-            print("No <body> tag found in file '{}'.".format(story_file_path))
-            continue
-
-        body_content = content[content.rfind("<body>")+len("<body>"):].strip().replace("</body>", "")
-        body_tokens = TextProcessing.get_word_tokens_from_text(body_content, lang_id, filter_words=False)
-
-        if not body_tokens:
-            print("No word tokens found in body of file '{}'.".format(story_file_path))
-            continue
-        elif len(body_tokens) > 3100:
-            print("WARNING: File '{}' contains {} words in body.".format(story_file_path, len(body_tokens)))
-
-        word_token_rejection_rate = TextProcessing.get_word_token_rejection_rate(body_tokens, lang_id)
-        if word_token_rejection_rate > 0.1:
-            print("File '{}' contains too many rejected words in body (rejection rate: {:.2f}).".format(story_file_path, word_token_rejection_rate))
-            continue
-
-        if TextProcessing.has_repetitive_sentences(body_content):
-            print("File '{}' contains repetitive sentences in body.".format(story_file_path))
-            continue
-
-        if TextProcessing.has_repeating_token_in_sequence(body_tokens, min_repeats=10):
-            print("File '{}' contains repeating tokens.".format(story_file_path))
-            continue
-
-        if len(set(body_tokens)) < len(body_tokens)/50:
-            print("WARNING: File '{}' contains too many repeated words.".format(story_file_path))
-
-        num_none_letter_sequences = TextProcessing.num_lines_non_letter_sequence(body_content, r"!@#$%^&()_+={}\[\]:;'<>/\\|-~")
-        if num_none_letter_sequences >= 3:
-            print("File '{}' contains too many lines with none-letter sequences.".format(story_file_path))
-            continue
-
-        title_tokens = TextProcessing.get_word_tokens_from_text(title_content, lang_id, filter_words=False)
-        if not title_tokens:
-            print("No word tokens found in title of file '{}'.".format(story_file_path))
-            continue
-
-        tokens = title_tokens + body_tokens
-        tokens = [token for token in tokens if word_accepter(token)]
-
-        if not tokens:
-            print("No word tokens found in title + body.")
-            continue
-
-        word_counter.update(tokens)
-        word_counter_per_story.update(set(tokens))
-
-    if num_stories < 10:
+    if len(story_files) < 10:
         print("Not enough stories for language '{}'.".format(lang_id))
         return
-    if not word_counter:
-        print("No words found for language '{}'.".format(lang_id))
-        return
+
+    count_tokens_from_story_file_fn_for_lang = partial(count_tokens_from_story_file, lang_id)
+    stories_counted_tokens = list(executor.map(count_tokens_from_story_file_fn_for_lang, story_files))
+
+    for story_counted_tokens in stories_counted_tokens:
+        word_counter.update(story_counted_tokens)
+        word_counter_per_story.update(set(story_counted_tokens))
 
     wf_file = os.path.join(WF_LISTS_DIR, "wf_list_{}.csv".format(lang_id))
 
@@ -118,11 +132,23 @@ def create_wf_list(lang_story_dir: str) -> None:
                 continue
             writer.writerow([word, count, story_count])
 
-    print("Created word frequency list for language '{}' ({}) based on {} stories.".format(lang_id, LANGUAGE_CODES_WITH_NAMES[lang_id], num_stories))
+    print("Created word frequency list for language '{}' ({}) based on {} stories.".format(lang_id, LANGUAGE_CODES_WITH_NAMES[lang_id], len(story_files)))
 
 
-if not os.path.exists(WF_LISTS_DIR):
-    os.makedirs(WF_LISTS_DIR)
+def create_wf_lists() -> None:
 
-for lang_story_dir in os.listdir(STORIES_DIR):
-    create_wf_list(lang_story_dir)
+    start_time = time.time()
+
+    if not os.path.exists(WF_LISTS_DIR):
+        os.makedirs(WF_LISTS_DIR)
+
+    with ProcessPoolExecutor(max_workers=6) as executor:
+
+        for lang_story_dir in os.listdir(STORIES_DIR):
+            create_wf_list(lang_story_dir, executor)
+
+        print("Created word frequency lists in {:.2f} seconds.".format(time.time() - start_time))
+
+
+if __name__ == "__main__":
+    create_wf_lists()
