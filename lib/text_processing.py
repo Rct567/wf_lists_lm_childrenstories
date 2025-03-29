@@ -90,6 +90,14 @@ Tokenizer = Callable[[str], list[str]]
 
 class TextProcessing:
 
+    NON_WHITESPACE_TOKENIZE_LANGS = {
+        'zh', # Chinese (zh): Logographic script with no word boundaries.
+        'ja', # Japanese (ja): Mixes kanji, hiragana, and katakana without spaces.
+        'th', 'lo', 'km', # Thai/Lao/Khmer (th/lo/km): Abugida scripts with no spaces between words.
+        'my', # Burmese (my): Script runs continuously without spaces.
+        'bo' # Tibetan (bo): No word separation in traditional texts.
+    }
+
     LANGUAGES_USING_APOSTROPHE = {
         'en',  # English (e.g., contractions like "don't")
         'fr',  # French (e.g., "l'heure")
@@ -325,14 +333,7 @@ class TextProcessing:
     @staticmethod
     def __get_tokenizer(lang_id: str) -> Tokenizer:
 
-        # Chinese (zh): Logographic script with no word boundaries.
-        # Japanese (ja): Mixes kanji, hiragana, and katakana without spaces.
-        # Thai/Lao/Khmer (th/lo/km): Abugida scripts with no spaces between words.
-        # Burmese (my): Script runs continuously without spaces.
-        # Tibetan (bo): No word separation in traditional texts.
-        non_whitespace_tokenize_langs = {'zh', 'ja', 'th', 'lo', 'km', 'my', 'bo'}
-
-        if lang_id in non_whitespace_tokenize_langs:
+        if lang_id in TextProcessing.NON_WHITESPACE_TOKENIZE_LANGS:
             return partial(TextProcessing.spacy_tokenizer, lang_id)
 
         if lang_id in {'en', 'nl', 'af'}:
