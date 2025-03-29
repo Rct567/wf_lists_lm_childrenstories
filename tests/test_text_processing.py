@@ -37,6 +37,12 @@ def test_get_word_tokens_pt_br():
     tokens = TextProcessing.get_word_tokens_from_text(text, "pt_br", filter_words=True)
     assert tokens ==  ['o', 'mistério', 'do', 'tesouro', 'perdido', 'na', 'ilha', 'dos', 'pássaros', 'falantes', 'e', 'coloridos']
 
+def test_get_word_tokens_lo():
+
+    text = "ຢ່າລືມຕັ້ງໃຈຮຽນເດີ້. Oke?"
+    tokens = TextProcessing.get_word_tokens_from_text(text, "lo", filter_words=True)
+    assert tokens == ['ຢ່າ', 'ລືມ', 'ຕັ້ງໃຈ', 'ຮຽນ', 'ເດີ້']
+
 def test_has_repeating_token_in_sequence():
 
     token_sequence = "b a a a".split()
