@@ -64,16 +64,21 @@ class StoryTitles:
     max_length_title = 100
     prefix_num_words = 2
 
-    def __init__(self, lang_id: str, titles_dir: str):
-        if not os.path.exists(titles_dir):
-            os.makedirs(titles_dir)
-        self.file_name = "titles_{}.txt".format(lang_id)
-        self.file_path = os.path.join(titles_dir, self.file_name)
+    def __init__(self, lang_id: str, titles_dir: Optional[str]):
         self.lang_id = lang_id
-        try:
-            with open(self.file_path, 'r', encoding="utf-8") as f:
-                self.titles = [title for title in self.unique_titles(f)]
-        except FileNotFoundError:
+        if titles_dir:
+            if not os.path.exists(titles_dir):
+                os.makedirs(titles_dir)
+            self.file_name = "titles_{}.txt".format(lang_id)
+            self.file_path = os.path.join(titles_dir, self.file_name)
+            try:
+                with open(self.file_path, 'r', encoding="utf-8") as f:
+                    self.titles = [title for title in self.unique_titles(f)]
+            except FileNotFoundError:
+                self.titles = []
+        else:
+            self.file_name = None
+            self.file_path = None
             self.titles = []
 
         random.shuffle(self.titles)
@@ -143,10 +148,13 @@ class StoryTitles:
 
     def prefix_from_title(self, title: str) -> Optional[str]:
         title_tokens = self.tokenize_title(title)
-        if len(title_tokens) < self.prefix_num_words:
+        prefix_num_words = self.prefix_num_words
+        if len(title_tokens) < prefix_num_words:
             print("Title '{}' has too few tokens for prefix.".format(title))
             return None
-        return " ".join(title_tokens[0:self.prefix_num_words])
+        if len(title_tokens[0]) == 1:
+            prefix_num_words += 1
+        return " ".join(title_tokens[0:prefix_num_words])
 
     def get_new_title(self) -> Optional[str]:
         if not self.titles:
@@ -157,6 +165,8 @@ class StoryTitles:
 
     def save(self) -> int:
         num_saved = 0
+        if not self.file_path:
+            return num_saved
         with open(self.file_path, 'w', encoding="utf-8") as f:
             for title in self.unique_titles(self.titles):
                 if not self.title_is_acceptable(title):

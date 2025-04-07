@@ -93,9 +93,10 @@ def generate_titles(lang_id: str, titles_dir: str, run_num: int) -> None:
     else:
         print("Saved {} new titles.".format(num_saved-num_titles_original))
 
-    file_size_in_mb = os.path.getsize(story_titles.file_path) / 1024 / 1024
-    if file_size_in_mb > 1:
-        raise Exception("Titles file is too large ({:.2f} MB).".format(file_size_in_mb))
+    if story_titles.file_path:
+        file_size_in_mb = os.path.getsize(story_titles.file_path) / 1024 / 1024
+        if file_size_in_mb > 1:
+            raise Exception("Titles file is too large ({:.2f} MB).".format(file_size_in_mb))
 
 
 def main(lang_ids: Union[str, list[str]]) -> None:
