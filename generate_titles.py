@@ -21,11 +21,11 @@ def build_titles_prompt(lang_id: str) -> str:
 
     random_additional_instruction = random.choice([
         'Be creative! Be original!',
-        'Make the titles simple and easy to understand.'
+        'Make the titles short and easy to understand.',
     ])
 
     english_prompt_template = (
-        "Make a list of 50 titles for new (not existing) {language_name} children's stories. \n"
+        "Make a list of 100 titles for new (not existing) {language_name} children's stories. \n"
         "The titles must be completely written in proper {language_name} ({language_code}).\n"
         "{additional_instruction}\n"
         "Give the titles in <title> tags. The titles must be at least {num_words} words long. \n"
@@ -34,7 +34,7 @@ def build_titles_prompt(lang_id: str) -> str:
 
     language_name = LANGUAGE_CODES_WITH_NAMES[lang_id]
     prompt = english_prompt_template.format(
-        num_words=6,
+        num_words=random.randint(4, 6),
         language_name=language_name,
         language_code=lang_id.upper(),
         additional_instruction=random_additional_instruction
