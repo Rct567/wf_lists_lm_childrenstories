@@ -6,7 +6,7 @@ import os
 import re
 from statistics import fmean
 import time
-from typing import Callable, Optional, Sequence
+from typing import Callable, NamedTuple, Optional, Sequence
 from lib.language_data import LANGUAGE_CODES_WITH_NAMES
 from lib.misc import STORIES_DIR, WF_LISTS_DIR
 from lib.text_processing import TextProcessing, WordToken
@@ -83,7 +83,16 @@ def count_tokens_from_story_file(lang_id: str, story_file_path: str) -> Counter[
     tokens = get_tokens_from_story(story_file_path, word_accepter, lang_id)
     return Counter(tokens)
 
-def create_wf_list(lang_story_dir: str, executor: Executor) -> None:
+
+class WFListData(NamedTuple):
+    lang_id: str
+    word_counter: Counter[str]
+    word_counter_per_story: Counter[str]
+    num_stories: int
+    num_words: int
+    file_path: str
+
+def create_wf_list(lang_story_dir: str, executor: Executor) -> WFListData:
 
     lang_id = lang_story_dir
     word_counter: Counter[str] = Counter()
@@ -91,7 +100,7 @@ def create_wf_list(lang_story_dir: str, executor: Executor) -> None:
 
     if lang_id not in LANGUAGE_CODES_WITH_NAMES:
         print("Unknown language '{}'. Skipped creating word frequency list.".format(lang_id))
-        return
+        return WFListData(lang_id, Counter(), Counter(), 0, 0, '')
 
     story_files = []
 
@@ -108,7 +117,7 @@ def create_wf_list(lang_story_dir: str, executor: Executor) -> None:
 
     if len(story_files) < 10:
         print("Not enough stories for language '{}'.".format(lang_id))
-        return
+        return WFListData(lang_id, Counter(), Counter(), 0, 0, '')
 
     count_tokens_from_story_file_fn_for_lang = partial(count_tokens_from_story_file, lang_id)
     stories_counted_tokens = list(executor.map(count_tokens_from_story_file_fn_for_lang, story_files))
@@ -124,15 +133,21 @@ def create_wf_list(lang_story_dir: str, executor: Executor) -> None:
     max_story_count = max([entry[2] for entry in entries])
     sorted_entries = sorted(entries, key=lambda x: fmean([x[1]/max_count,x[2]/max_story_count]), reverse=True)
 
+    num_stories = len(story_files)
+    num_words = 0
+
     with open(wf_file, 'w', newline='', encoding="utf-8") as file:
         writer = csv.writer(file)
         writer.writerow(["word", "count", "doc_count"])
         for word, count, story_count in sorted_entries:
-            if story_count == 1:
+            if story_count < 2:
                 continue
             writer.writerow([word, count, story_count])
+            num_words += 1
 
-    print("Created word frequency list for language '{}' ({}) based on {} stories.".format(lang_id, LANGUAGE_CODES_WITH_NAMES[lang_id], len(story_files)))
+    print("Created word frequency list for language '{}' ({}) based on {} stories.".format(lang_id, LANGUAGE_CODES_WITH_NAMES[lang_id], num_stories))
+
+    return WFListData(lang_id, word_counter, word_counter_per_story, num_stories, num_words, wf_file)
 
 
 def create_wf_lists() -> None:
@@ -142,12 +157,37 @@ def create_wf_lists() -> None:
     if not os.path.exists(WF_LISTS_DIR):
         os.makedirs(WF_LISTS_DIR)
 
+    # create word frequency list files
+
+    wf_lists_data: list[WFListData] = []
+
     with ProcessPoolExecutor(max_workers=6) as executor:
-
         for lang_story_dir in os.listdir(STORIES_DIR):
-            create_wf_list(lang_story_dir, executor)
+            wf_list_data = create_wf_list(lang_story_dir, executor)
+            wf_lists_data.append(wf_list_data)
 
-        print("Created word frequency lists in {:.2f} seconds.".format(time.time() - start_time))
+    print("Created word frequency lists in {:.2f} seconds.".format(time.time() - start_time))
+
+    # create overview file
+
+    overview_file_path = os.path.join("wf_lists_overview.md")
+
+    wf_lists_data.sort(key=lambda x: x.num_stories, reverse=True)
+
+    with open(overview_file_path, "w", encoding="utf-8") as file:
+        file.write("# Word frequency lists overview\n\n")
+        file.write("| Language | Word count | Story count |\n")
+        file.write("| --- | --- | --- |\n")
+        for wf_list_data in wf_lists_data:
+            if not wf_list_data.lang_id in LANGUAGE_CODES_WITH_NAMES:
+                continue
+            language_name = LANGUAGE_CODES_WITH_NAMES[wf_list_data.lang_id]
+            link_to_wf_list = "[{}]({})".format(language_name, wf_list_data.file_path)
+            file.write("| {} | {:,} | {:,} |\n".format(link_to_wf_list, wf_list_data.num_words, wf_list_data.num_stories))
+        file.write("\n")
+
+    print("Created overview file '{}'.".format(overview_file_path))
+
 
 
 if __name__ == "__main__":
