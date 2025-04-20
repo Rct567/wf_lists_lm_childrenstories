@@ -20,7 +20,7 @@ class LmTitlesResponse(LmResponse):
 def build_titles_prompt(lang_id: str) -> str:
 
     random_additional_instruction = random.choice([
-        'Be creative! Be original!',
+        'Make the titles simple and easy to understand.',
         'Make the titles short and easy to understand.',
     ])
 
