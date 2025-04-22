@@ -60,8 +60,8 @@ def keep_looping_through_languages(languages: list[str]) -> Generator[str, None,
 class StoryTitles:
 
     min_num_words_title = 4
-    max_num_words_title = 40
-    max_length_title = 100
+    max_num_words_title = 20
+    max_length_title = 80
     prefix_num_words = 2
 
     def __init__(self, lang_id: str, titles_dir: Optional[str]):
