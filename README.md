@@ -1,6 +1,6 @@
 # Word frequency lists bases on AI generated children's stories
 
-This repository contains the code used to generate word frequency lists based on AI generated children's stories.
+This repository contains **word frequency lists** based on AI generated children's stories, and the code to generate them.
 
 ## How to use
 
