@@ -5,6 +5,6 @@ This repository contains the code used to generate word frequency lists based on
 # How to use
 
 - Create a .env file based on the .env.example file.
-- (Optional) Run the `generate_titles.py` script to generate titles for the stories.
-- Run the `generate_stories.py` script to generate stories.
-- Run the `generate_word_frequencies.py` script to generate the word frequencies files.
+- (Optional) Run `generate_titles.py` to generate titles for the stories.
+- Run `generate_stories.py` to generate the stories.
+- Run `generate_wf_lists.py` to generate the word frequencies lists.
