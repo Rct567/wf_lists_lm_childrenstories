@@ -182,7 +182,7 @@ def create_wf_lists() -> None:
             if not wf_list_data.lang_id in LANGUAGE_CODES_WITH_NAMES:
                 continue
             language_name = LANGUAGE_CODES_WITH_NAMES[wf_list_data.lang_id]
-            link_to_wf_list = "[{}]({})".format(language_name, wf_list_data.file_path)
+            link_to_wf_list = "[{}]({})".format(language_name, wf_list_data.file_path.replace("\\", "/"))
             file.write("| {} | {:,} | {:,} |\n".format(link_to_wf_list, wf_list_data.num_words, wf_list_data.num_stories))
         file.write("\n")
 
