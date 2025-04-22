@@ -1,0 +1,33 @@
+<prompt>
+Please write a timeless Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Saulėgrąžos kelionė ieškant saulės šviesos ir jos spindulių šilumos.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>lt</lang_id>
+
+<title>Saulėgrąžos kelionė ieškant saulės šviesos ir jos spindulių šilumos</title>
+<body>Kadaise, senovės Lietuvoje prieš daugelį metų, gyveno jauna mergina vardu Saulėgrāža. Ji gyveno mažame kaimelyje, kur visi žmonės gyveno tarpukariu, augino gyvulius, dirbo laukuose ir rinko miško gėrybes. Saulėgrāža buvo labai draugiška ir visada padėdavo savo tėvams bei kaimynams. Ji taip pat buvo labai smalsi ir norėjo visažinoti apie pasaulį, kuris buvo už kaimo ribų.
+
+Vieną dieną, kai Saulėgrāža buvo einama miško pakraštyje, ji pastebėjo, kad saulė niekur nėra matyti. Dangus buvo uždengtas debesimis ir viskas atrodė tamsu ir šaltu. Ji pasijuto labai liūdna ir nusprendė, kad reikia keliauti į kelionę, kad surastų saulės šviesą ir jos spindulių šilumą. Saulėgrāža pakvietė savo geriausią draugą, šunį vardu Šariką, ir kartu jie išvyko į savo pirmąją kelionę.
+
+Jie keliavo per miškus, laukus ir kalnus, ir visur ieškojo saulės šviesos. Bet kuo toliau jie keliavo, tuo labiau jiems atrodė, kad saulė yra visai niekur. Saulėgrāža ir Šarikas pradėjo jausti alkį ir troškulį, bet jie nesileido ir toliau keliavo. Po keleto dienų jie pasiekė didelę upę, kurioje buvo įrengtas senas tiltas. Saulėgrāža ir Šarikas nutarė perėti upę ir tolimesnėje pusėje ieškoti saulės šviesos.
+
+Perėjus upę, jie pamatė seną žmogų, sėdintį ant uolos ir žiūrintį į dangų. Saulėgrāža ir Šarikas priejo prie jo ir paklausė, ar jis žino, kur yra saulė. Senas žmogus atsigręžė ir pasakė: "Saulė yra toli, toli, už kalnų ir miškų. Bet je turi noro ir stiprybės, tu gali ją rasti." Saulėgrāža ir Šarikas nusprendė tęsti savo kelionę ir nuo tos dienos jie keliavo dar labiau į kalnus.
+
+Po keleto savaičių keliavimo jie pasiekė labai aukštą kalną, kurio viršūnėje buvo didelis akmuo. Saulėgrāža ir Šarikas įkopė į viršūnę ir pamatė, kad saulė yra čia, tiesiai virš jų. Ji švietė visur ir suteikė jiem šilumą ir galią. Saulėgrāža ir Šarikas buvo labai džiaugsmingi ir nusileido ant akmenų, kad pailsėtų.
+
+Bet netrukus jiems atrodė, kad saulė nebešviečia taip stipriai, kaip anksčiau. Saulėgrāža ir Šarikas pamatė, kad dangus vėl yra uždengtas debesimis ir saulė yra pasislėpusi. Jie nusprendė, kad reikia keliauti toliau prie pat saulės, kad jos šviesa ir šiluma būtų visada su jais.
+
+Jie keliavo dar kelias dienas ir galiausiai pasiekė saulės namus. Ten jie pamatė didelę, šviesią patalpą, kurioje saulė sėdėjo ant sosto. Saulėgrāža ir Šarikas priejo prie saulės ir pasakė, kad jie atkeliavo čia, kad jos šviesa ir šiluma būtų visada su jais. Saulė juos paklausė, kodėl jie nori būti su ja visada, ir Saulėgrāža atsakė: "Kadangi saulės šviesa ir šiluma yra visa, ko mums reikia, kad būtume laimingi."
+
+Saulė girdėjo Saulėgrāžos žodis ir nusprendė, kad ji duos jai dalį savo šviesos ir šilumos. Ji duodama Saulėgrāžai mažą, šviesią akmenį, kuris turėjo saulės galią. Saulėgrāža ir Šarikas buvo labai džiaugsmingi ir nusprendė grįžti į savo kaimą, kad dalijimės saulės šviesa ir šiluma su visais.
+
+Jie keliavo atgal per kalnus ir miškus, ir visur saulės akmuo švietė. Jie grįžo į savo kaimą ir parodytos saulės akmenį visiems. Kaimo žmonės buvo labai džiaugsmingi, kad saulės šviesa ir šiluma grįžo, ir visi kartu šventė Saulėgrāžos ir Šariką. Nuo nuo tos dienos kaimas vėl tapo šviesus ir šiltas, ir Saulėgrāža bei Šarikas buvo laikomi didžiausiais herojais.
+
+Ir taip Saulėgrāža ir Šarikas gyveno laimingai visą savo gyvenimą, ir jų istorijos apie saulės kelionę buvo pasakojamos iš kartos į kartą, kad jauni žmonės visada būtų prisiminę apie saulės šviesą ir jos spindulių šilumą. Saulėgrāžos ir Šariką istorija tapo legendą, kuri buvo pasakojama visur, ir ji visada bus prisiminta kaip istorija apie meilę ir draugystę, ir apie tai, kad viskas yra įmanoma, jei tik nori ir tiki savo galimybių.</body>

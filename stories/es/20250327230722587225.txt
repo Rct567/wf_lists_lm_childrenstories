@@ -1,0 +1,105 @@
+<prompt>
+Please write a dialog-based Spanish children's story that is at least 1000 words long.
+It must be completely written in proper Spanish (ES).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La abuela que contaba historias de duendes y hadas por las noches.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>es</lang_id>
+
+```xml
+<title>La abuela que contaba historias de duendes y hadas por las noches.</title>
+<body>
+Era una vez, en un pequeño pueblo escondido entre montañas verdes y ríos cristalinos, una abuela llamada Emilia. La abuela Emilia, de ojos brillantes y arrugas que parecían mapas de sonrisas, tenía un don especial: contaba las mejores historias del mundo. Pero no cualquier historia, no. Las suyas eran historias de duendes traviesos, hadas juguetonas y mundos mágicos, contadas a la luz de la luna, en la oscuridad de la noche.
+
+La casa de la abuela Emilia era acogedora, con un olor constante a pan recién horneado y madera vieja. En el salón, donde las historias tomaban vida, había una chimenea enorme que crujía alegremente cuando se encendía, un sillón mullido cubierto con una manta de lana y, sobre todo, el eco de risas infantiles.
+
+Cada noche, al caer el sol, los nietos de la abuela Emilia, Sofía y Miguel, corrían emocionados a su casa.
+
+—¡Abuela, abuela! —gritaba Sofía, con su largo cabello negro ondeando al viento.
+—¡Cuéntanos una historia! —añadía Miguel, con sus mejillas rosadas y ojos curiosos.
+
+La abuela Emilia, ya sentada en su sillón, con una sonrisa en los labios, les indicaba que se sentaran a sus pies.
+
+—Buenas noches, mis pequeños tesoros —decía con voz suave—. Esta noche, ¿qué aventura os apetece vivir? ¿Queréis volar con las hadas o jugar al escondite con los duendes?
+
+—¡Con las hadas! —exclamaba Sofía, moviendo las manos como si extendiera alas invisibles.
+—¡No, con los duendes! —replicaba Miguel, frotándose las manos con picardía.
+
+La abuela Emilia se reía ante sus debates.
+
+—Bueno, bueno, no os preocupéis. Hoy, tal vez, os cuente una historia que combine ambas cosas. Una historia sobre la Luna y la magia que ella guarda.
+
+Y así comenzaba la magia.
+
+—Hace mucho, mucho tiempo —comenzaba la abuela Emilia, con voz misteriosa—, en el corazón del bosque encantado, vivía una hermosa hada llamada Luna. No, no la luna del cielo, aunque sí, la Luna era parte de ella. Esta hada tenía el pelo del color de la plata y los ojos del color de las estrellas, y su misión era cuidar de los secretos de la noche.
+
+Sofía y Miguel escuchaban atentamente, sus ojos fijos en la abuela.
+
+—Un día —continuaba—, Luna descubrió que los duendes, criaturas traviesas y juguetones, estaban en problemas. El Sol, envidioso de la belleza de la noche, había robado la magia de la Luna. Sin magia, los duendes se marchitarían y la oscuridad dejaría de ser mágica.
+
+—¡Qué malvado el Sol! —exclamaba Sofía, frunciendo el ceño.
+—¿Y qué hizo Luna, abuela? —preguntaba Miguel, mordiéndose el labio inferior.
+
+La abuela Emilia sonreía, disfrutando de la emoción de sus nietos.
+
+—Luna, con el corazón lleno de valentía, decidió pedir ayuda. Primero, buscó al duende más sabio, llamado Pip.
+
+—¡Pip! —suspiraba Miguel, imaginando al duende.
+
+—Pip, con su barba larga y su sombrero puntiagudo, le dijo: “Para recuperar la magia, debes encontrar el Espejo de los Deseos, escondido en la cueva del dragón Dormilón”.
+
+—¡Un dragón! —exclamó Sofía, sorprendida.
+
+—Sí, un dragón muy especial —dijo la abuela—. Dormilón, aunque parecía feroz, era un dragón amable, que solo quería dormir la siesta. Así que, Luna y Pip, con un mapa dibujado con polen y brillo de luciérnagas, partieron a la cueva.
+
+—¿Cómo llegaron? —preguntaba Miguel, fascinado.
+
+—Volando, por supuesto —contestó la abuela—. Luna, con sus alas de seda, y Pip, montado en una ardilla veloz. Atravesaron ríos de miel, sortearon montañas de caramelos y, finalmente, llegaron a la cueva oscura.
+
+—¿Y el dragón? —preguntaba Sofía, casi sin respirar.
+
+—El dragón roncaba tan fuerte que temblaba toda la cueva —dijo la abuela Emilia—. Luna y Pip, con mucho cuidado, se acercaron al dragón y le explicaron la situación. El dragón, al oír la tristeza de los duendes, les dijo: “El Espejo de los Deseos está guardado en mi tesoro, pero solo los corazones puros pueden verlo”.
+
+—¡Qué buena onda! —comentaba Miguel.
+
+—Luna y Pip, guiados por el brillo del Espejo, encontraron el camino —continuaba la abuela—. Luna se acercó al espejo, y con una lágrima de su ojo, que contenía la luz de todas las estrellas, tocó la superficie.
+
+—¿Y qué pasó? —preguntó Sofía, ansiosa.
+
+—El Espejo se iluminó con una luz dorada. Luna, con su corazón lleno de esperanza, le pidió al Espejo que devolviera la magia a la noche. Y así sucedió. El Sol, al ver la fuerza del deseo de Luna, se sintió avergonzado y devolvió la magia robada.
+
+—¡Y los duendes se alegraron! —exclamó Miguel, saltando en su lugar.
+—¡Y la Luna, brilló más que nunca! —añadió Sofía.
+
+La abuela Emilia sonreía.
+
+—Así es. Los duendes volvieron a jugar, las hadas bailaron y la noche recuperó su magia. Y desde entonces, cada vez que la Luna brilla en el cielo, recuerda la valentía de Luna y el poder del trabajo en equipo.
+
+Los nietos se quedaron en silencio, procesando la historia.
+
+—¿De verdad pasó, abuela? —preguntó Sofía, con los ojos soñadores.
+—En el corazón de la magia, querida —contestó la abuela Emilia, guiñando un ojo.
+—¿Y puedo encontrar el Espejo de los Deseos? —preguntó Miguel, entusiasmado.
+
+La abuela Emilia rio.
+
+—Quizás, si tienes el corazón puro y crees en la magia… —dijo con una sonrisa misteriosa.
+
+Entonces, la abuela Emilia se levantó, se estiró y les dio a cada uno un fuerte abrazo.
+
+—Ahora, mis queridos, es hora de dormir. Mañana, el sol volverá a brillar, y nuevas aventuras nos esperan.
+
+Los nietos, con la mente llena de hadas y duendes, se despidieron de la abuela. Sofía y Miguel se encaminaron a sus camas, todavía hablando sobre la historia.
+
+—¿Qué crees que hizo Luna con la magia recuperada? —preguntaba Sofía.
+—Tal vez la usó para darle más brillo a las estrellas —respondía Miguel, ya medio dormido.
+
+A la mañana siguiente, el sol iluminó el pueblo. Sofía y Miguel despertaron con una sonrisa. Sabían que, aunque el día fuera soleado, al caer la noche, la abuela Emilia les contaría otra maravillosa historia de duendes, hadas y mundos mágicos. La magia, en el corazón de la abuela, nunca se acababa. Y así, la tradición de las historias de la abuela Emilia continuó, pasando de generación en generación, recordando a todos que la magia, si se cree, siempre está presente, esperando a ser descubierta.
+Y colorín colorado, este cuento se ha acabado... hasta la próxima noche, en la casa de la abuela.
+</body>
+```

@@ -1,0 +1,32 @@
+<prompt>
+Please write a relatable Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kuun varjo ja sen valon voima'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>fi</lang_id>
+
+<title>Kuun varjo ja sen valon voima</title>
+<body>
+Kauan, kauan sitten, Suomen maaseudulla, missä metsät olivat syvät ja järvet olivat laajat, asui pienessä kylässä tyttö nimeltä Aada. Aada oli kuusivuotias, ja hänellä oli pitkät, kullankellertäiset hiukset ja siniset silmät, jotka näyttivät kuin taivaalta tippuneilta. Hän asui vanhempiensa ja isovanhempiensa kanssa pienessä, hirsinen kylämökissä, joka sijaitsi metsän reunalla.
+
+Aada rakasti metsää ja sen saloja. Hän vietti päivänsä metsässä, tutkimalla sen polkuja, keräten sieniä ja marjoja, ja leikkien metsän eläinten suurella armeijalla. Mutta Aada tiesi, että metsässä oli myös salaisuuksia, joita hän ei tiennyt. Hän oli kuullut vanhempiensa puhuvan kuun varjosta, joka oli legendaarinen olento, joka ilmestyi ainoastaan kuunvalossa.
+
+Eräänä iltana, kun kuunkierto oli täynnä, Aada meni metsään etsimään kuun varjoa. Hän oli kuullut, että kuun varjo ilmestyy ainoastaan silloin, kun kuunvalo on vahvin. Aada käveli metsässä, hänen sydämensä lyöden nopeasti, kun hän odotti näkevänsä kuun varjon. Ja sitten, yhtäkkiä, hän näki sen. Kuun varjo seisoi edessään, sen hahmo heijastuen maahan kuunvalon alla.
+
+Aada oli aluksi pelästynyt, mutta kuun varjo ei ollut paha. Se puhui Aadaan pehmeällä, melodisella äänellä, ja kertoi hänelle, että se oli tullut auttamaan häntä. Kuun varjo kertoi Aadaalle, että hänellä oli erityinen tehtävä, jonka hän oli valittu suorittamaan. Tehtävä oli etsiä kadonnut kuun kivi, joka oli kuun voiman lähde. Kuun varjo kertoi Aadaalle, että kuun kivi oli kadonnut, ja että ilman sitä kuun valo heikkenee, ja metsän eläimet joutuvat vaaraan.
+
+Aada suostui auttamaan kuun varjoa, ja he lähtivät yhdessä etsimään kuun kiveä. He kävivät läpi metsää, seuraten polkuja, jotka kuun varjo tiesi. He kohtasivat monia vaaroja, kuten sudet ja karhut, mutta kuun varjo suojeli Aadaa, ja he pääsivät turvallisesti eteenpäin. Lopulta, he saapuivat paikkaan, jossa kuun kivi oli kadonnut. Se oli syvän rotkon pohjalla, ja Aada ja kuun varjo joutuivat laskeutumaan rotkoon, jotta he voisivat hakea kiven.
+
+Kun he saapuivat rotkon pohjalle, he näkivät, että kuun kivi oli vangittu pahaan velhoon, joka oli varastanut sen. Velho oli vahva ja paha, ja hän ei antaisi kuun kiveä ilman taistelua. Aada ja kuun varjo joutuivat taistelemaan velhoa vastaan, ja he käyttivät kaikkia taitojaan ja voimiaan, jotta he voisivat voittaa. Lopulta, he onnistuivat voittamaan velhon, ja he saivat kuun kiven takaisin.
+
+Kun he palasivat metsään, kuun valo alkoi voimistua, ja metsän eläimet alkoivat parantua. Aada ja kuun varjo juhlivat voittoaan, ja he kiittivät toisiaan avusta. Kuun varjo kertoi Aadaalle, että hän oli osoittanut itsensä rohkeaksi ja urheaksi, ja että hän oli ansainnut paikan kuun valon joukossa. Ja sitten, kuun varjo katosi, ja Aada palasi kotiin, missä hänen perheensä odotti häntä.
+
+Aada kertoi perheelleen koko tarinan, ja he kuuntelivat häntä ihmeissään. He olivat ylpeitä Aadaan rohkeudesta ja urheudesta, ja he tiesivät, että hän oli erityinen tyttö. Ja kun kuunkierto oli täynnä, Aada meni metsään, ja hän näki kuun varjon uudelleen. Kuun varjo tervehti häntä, ja hän kertoi Aadaalle, että hän oli aina valmis auttamaan häntä, kun hän tarvitti sitä.
+
+Aada tiesi, että hänellä oli ystävä kuun varjossa, ja hän oli onnellinen siitä, että hän oli osa kuun valon maailmaa. Ja kun hän meni nukkumaan, hän tiesi, että hän oli valmis seuraavaan seikkailuun, joka odotti häntä metsässä, kuun valon alla.</body>

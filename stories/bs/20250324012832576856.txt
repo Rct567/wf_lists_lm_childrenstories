@@ -1,0 +1,83 @@
+<prompt>
+Please write a silly Bosnian children's story that is at least 1000 words long.
+It must be completely written in proper Bosnian (BS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Čudna djeca u šumi gdje ptice govore'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>bs</lang_id>
+
+```xml
+<title>Čudna djeca u šumi gdje ptice govore</title>
+<body>
+U jednoj maloj, živopisnoj bosanskoj varoši, gdje su kuće šarene poput ćevapa, živjelo je troje veoma neobične djece. Zvali su se Ajla, Vedran i Sanela. Njihove avanture počinjale su tamo gdje su ostala djeca stajala kod kuće, s glavom u tabletima. Ajla je imala kosu boje suncokreta i uvijek je nosila ogromne gumene čizme, Vedran je imao crvenu kosu kao vatra i nosio je majicu s likom čarobnog zmaja, dok je Sanela imala zelene oči i nosila je šešir s perjem koji joj je, iz nekog razloga, bio pričvršćen za glavu trajno.
+
+Jednog sunčanog jutra, dok su se igrali žmurke iza pekare 'Slatki zalogaj', čuli su neobičan cvrkut. Nije to bio običan cvrkut, nego čudna mješavina riječi. “Doručak... burek... treba... tražiti...” – čuo se glasić, kao iz obližnje šume. Djeca su se pogledala, znatiželjni kao mačke. Ajla, iako obično vesela, odjednom je osjetila jezu. Vedran je ispuhao zrak kroz nos i rekao: “Pa, idemo vidjeti! Možda se ptice u našoj šumi opametile!” Sanela, koja je uvijek bila najsmirenija, kimnula je glavom. “Možda nam treba pomoć oko pronalaska izgubljenog bureka.”
+
+Odmah su krenuli prema šumi, poznatoj kao "Šuma Šaptača", nazvana tako jer su se legende šuškale da se u njoj čuju šapati. Šuma je bila mračna i misteriozna, sa starim drvećem koje je izgledalo kao da ima lice. Sunčeve zrake probijale su se kroz gusto lišće, stvarajući čudne oblike na zemlji. Dok su ulazili dublje, cvrkut se ponovno čuo. "Burek... u potrazi... za avanturom... sam!"
+
+Kada su stigli do dubokog proplanka, ugledali su pticu, veću od vrane, s perjem u svim bojama duge. Ptica je sjedila na grani starog hrasta, a pred njom je ležao zgužvan komad papira.
+
+“Zdravo!” rekla je Ajla.
+
+“Ćao!” odgovorio je Vedran.
+
+“Dobar dan!” dodala je Sanela.
+
+Ptica ih je pogledala s iznenađenjem. "Nisam navikla na društvo... pa... ne s ljudima.” Rekla je to svojim ptičjim, ali vrlo razgovjetnim glasom. “Ja sam Slavica, i tragam za svojim izgubljenim receptom za najbolji burek na svijetu! Vjetar ga je odnio, a bez njega ne mogu više ni da se snađem!”
+
+Djeca su se pogledala. Slavica i burek? Izgledalo je kao savršena avantura!
+
+"Mi ćemo ti pomoći!" rekla je Ajla. "Mi smo eksperti u pronalaženju stvari, posebno onih jestivih!"
+
+Vedran se nasmijao. "Da, da, tražili smo nestale ćevape prošli mjesec... pronašli smo ih na krovu komšijine kuće!”
+
+Sanela je zakoračila naprijed, i ispravila šešir na glavi. "Reci nam gdje si zadnji put vidjela recept!"
+
+Slavica je uzdahnula. "Vjetar ga je odnio dok sam uvježbavala let. Znam samo da je pao negdje blizu potoka Bistrica."
+
+Krenuli su. Putem, sretali su razne neobične likove. U blizini rijeke sreli su žabu koja je govorila kao starac, kukca koji je recitirao poeziju i ježa koji je bio opsjednut matematikom. Žaba je mahala štapom i rekla: "Ovaj burek, ah... mora biti blago! Pazite se onih što kradu recepte." Kukac, odmah je izrecitovao: "U potrazi za užitkom, šuma puna iskušenja." A jež je odmah pokušao izračunati put do recepta, ali nije uspelo.
+
+Kada su stigli do potoka Bistrica, vidjeli su da je voda veoma brza i bujna. Pretraživali su obale potoka, pretrčali preko stijena i tražili izgubljeni recept.
+
+Ajla je ugledala nešto svjetlucavo na grani drveta. Popela se na drvo i shvatila da je to komad papira! Nažalost, bilo je to samo reklama za sapun od ruža!
+
+Vedran je pronašao napola pojeden burek! Nažalost, nije bio recept, nego odbačeni zalogaj.
+
+Sanela je našla mali, zahrđali ključ. Ključ, također, nije bio recept, već je izgledalo da vodi do tajni neke stare, tajanstvene škrinje.
+
+Njihova lutanja ih nisu dovela do recepta, ali ih je dovela do nove saznanje. Shvatili su da je šuma puna opasnosti, ali i prijateljstva. I, naravno, avantura.
+
+Tada su čuli iznenadni zvuk! Gruba ptica naletjela je na njih, ušiću.
+
+"Kradem... kradem... BUREK!" uzviknuo je. "Moj recept! Moj!"
+
+Djeca su shvatila da netko pokušava ukrasti Slavicin recept. Morali su brzo reagirati!
+
+Vedran je skočio i pokušao zgrabiti otmičara. Slavica, prestrašena, počela je vikati: "Vrati mi recept, lopove!" Sanela, s nevjerojatnom vještinom, iskoristila je svoj šešir i šeprtljavo pokušala uhvatiti papir. Na kraju, Ajla, sjetivši se babičinog recepta za borbu s lopovima, počela je vikati i udarati otmičara starim dobrim "Haaa! Tiii!" (što je obično djelovalo na dosadnim, običnim neprijateljima, poput brkatog djeteta koji je krao kolače).
+
+Izgledalo je da je čudna buka uplašila pticu. Papir je ispao iz njezina kandža, pao je direktno u rijeku.
+
+"Ne!" viknula je Slavica u očaju.
+
+Ali tada je Sanela shvatila da ju je ključ što je našla do sada vodio negdje. Odlučila ga je koristiti! Pokušavajući i pokušavajući, otključala je mali lokot na staroj, mahovitoj škrinjici koja je ležala skrivena među korijenjem. Kad ju je otvorila, unutra je bilo još nešto:
+
+“Još jedna…” tiho je rekla Sanela.
+
+“Još jedna…” rekle su ptice.
+
+Djeca su pažljivo izvukla smotani svitak. Kada su ga odmotali, bio je to... Da, da, recept za burek! Ali ne običan, nego bolji i s posebnim sastojcima! Recept je bio još bolji nego što je Slavica znala!
+
+“Eto!”, uskliknula je Ajla, “sada možemo peći burek!”
+
+Slavica je bila oduševljena. Ponovno su sastavili Slavicin nestali recept za burek! Prije nego što su krenuli kući, Slavica im je obećala da će im ispeći najbolji burek na svijetu, a djeca su obećala da će joj pomoći pri svakom njenom problemu. U povratku, ponovno su susreli kukca recitatora, žabu mudraca i ježa matematičara. Slavici su ispričali što se dogodilo i svi su zajedno bili sretni.
+
+U svom srcu djeca su znala da njihova avantura nije završila. Uostalom, uvijek ima novih misterija za rješavanje i, možda, još poneki izgubljeni burek koji treba pronaći! Po dolasku kući, Sanela, Vedran i Ajla obećali su jedno drugom da će uvijek zajedno ići u šumu i uvijek pratiti cvrkut. Vraćajući se kući, uživali su u još jednom danu avanture, znanja i prijateljstva, čekajući s nestrpljenjem njihovu iduću avanturu u šumi, tamo gdje ptice govore, gdje svaki dan postaje dio velike priče.
+
+A onda su, svi zajedno, prionuli poslu, i pomogli Slavici da peče burek za sve. Uspjeh im je nagrađen divnim mirisom i ukusnim burecima koje su s radošću jeli do kasno u noć, dok su šaptali šume odzvanjali do jutra.
+</body>
+```

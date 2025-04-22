@@ -1,0 +1,81 @@
+<prompt>
+Please write a fun and entertaining Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Léamh na Léine: An t-Aisling Chúil-Fhionn'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>ga</lang_id>
+
+```xml
+<title>Léamh na Léine: An t-Aisling Chúil-Fhionn</title>
+<body>
+Bhíodh Aoife, cailín beag a raibh gruaig rua cosúil le tine, iníon le feirmeoir i gContae Mhaigh Eo. Bhíodh sí ag rith timpeall na bhfeirme gach lá, ag imirt leis na caoirigh, ag bailiú uibheacha ó na cearca, agus ag cogaint féir le Buidheach, a madra. Buidheach, a bhí chomh dubh le h-oíche, i gcónaí ag tarraingt Aoife chuig eachtra.
+
+Lá amháin, agus í ag imirt sa tsean-ghairdín, tháinig Aoife ar rud a chuaigh i bhfeidhm uirthi. Ba léine sean-fhaisin í, déanta as líon agus brodaithe le bláthanna beaga gorma. Bhí sí céasta, ach fós bhí boladh beag de lavender uirthi. Bhí fonn mór ar Aoife í a chur uirthi. Bhí fonn buile uirthi faoin léine.
+
+"Mamó," a dúirt Aoife, agus í ag rith isteach sa teach, "féach an méid a fuair mé!"
+
+Bhreathnaigh Mamó Máire, bhean mná le súile gorma geala agus aoibh gháire bog, ar an léine. "Ó, a stóirín," a dúirt sí, "is léine sean-aimseartha í sin. Is dócha gur leis an sean-sean-sean-seanathair í!"
+
+"An féidir liom í a chur orm?" d’iarr Aoife, a súile ag lonrú.
+
+Chlaon Mamó Máire. "Ar ndóigh, ar ndóigh. Ach bí cúramach léithe. Tá sí an-leochaileach."
+
+Chuir Aoife an léine uirthi go cúramach. Nuair a rinne sí amhlaidh, bhraith sí rud difriúil. Ní raibh sé ach mar go raibh sí ag caitheamh éadaigh nua; bhí sé níos mó ná sin. Bhraith sí te agus suaimhneach, agus d'éirigh an gairdín níos gile, na bláthanna níos ildaite.
+
+Chomh luath agus a bhí an léine uirthi, tháinig Buidheach isteach ag tafann agus ag tarraingt ar a cuid éadaí. D'fhéach Aoife air agus d'aithin sí gur rud éigin nua a bhí ann. Ní raibh na cearca ag glaoch, bhí siad ag canadh amhráin. Bhí na caoirigh ag damhsa.
+
+Bhreathnaigh Aoife ar a lámha, agus ansin ar an léine. "Buidheach, an dtig linn dul?" a d'fhiafraigh sí.
+
+Reathaigh siad amach as an teach agus isteach sa gairdín. Ar an bpointe boise, thosaigh an gairdín ag athrú. D'fhás crann mór úll os comhair a súl, agus bhí úlla órga, lonracha ag crochadh óna craobhacha. D'oscail doras beag, adhmaid i lár an chrainn.
+
+"Cad é seo?" a d'fhiafraigh Aoife, eagla agus spleodar ag troid ina croí.
+
+Tharraing Buidheach léi go dtí an doras. Chroith sí a ceann. D'oscail sí an doras.
+
+Taobh istigh, bhí seomra beag, cluthar, le teallach beag, tóirsí ag lonrú ar na ballaí, agus leabhar mór, sean-aimseartha ar an mbord. Ar an leabhar, bhí teideal scríofa i litreacha órga: "An t-Aisling Chúil-Fhionn".
+
+Thosaigh Aoife ag léamh. Bhí an leabhar lán d’íomhánna de dhaoine, de thíortha, d’ainmhithe – gach rud a shamhlófá. Bhí sé cosúil le scéal fada fada. Nuair a bhí Aoife ag léamh, thosaigh sí ag mothú go raibh sí ag tarraingt isteach i saol an leabhair. Bhí sé deacair a dhíochlaithe.
+
+Tharraing sí súil ar an gcéad íomhá. Bhí cailín beag le súile gorma ag damhsa faoi sholas na gealaí. Ba bhreá léi damhsa mar sin. Thosaigh sí ag mothú go bhféadfadh sí damhsa chomh maith leis an gcailín.
+
+Le gach leathanach a chas sí, d'athraigh an seomra. Thosaigh na ballaí ag lasadh le dathanna, le caisleáin, le farraigí. D’imoibríodh an leabhar do Aoife; bhí sé ag athrú léi.
+
+Chonaic sí ansin páirc le liathróidí beaga datha ann. Shroich sí ar an sean-léine. B’fhearr léi imirt le cairde. Ar ndóigh, nuair a d’fhéach sí ar an taobh eile, chonaic sí é féin féin - agus Buidheach - ag imirt le daoine. Bhí sé ag damhsa léi, agus í ag miongháire.
+
+Chas sí an leathanach. Chonaic sí scéal faoi rí a bhí cróga agus cineálta, agus faoi bhean álainn, lán de ghrá. Mhothaigh sí go raibh sí ag iarraidh í féin a bheith ina bhean den sórt sin. B’fhéidir go bhféadfadh sí a bheith ina banríon.
+
+Chas Buidheach, a raibh ag breathnú cois na gcos, a shúile go dtí í. Mhothaigh sé an leabhair, agus bhí sé ar bís leis an bhuachaill.
+
+Agus í ag léamh na scéalta, bhí Aoife ag foghlaim faoin saol, faoi ghrá, faoi chroí. Shíl sí ar Mamó Máire agus ar a muintir. Bhí sí ag iarraidh a bheith cineálta, cróga, agus grámhar, cosúil leis na daoine a léigh sí fúthu.
+
+Chas sí an leathanach arís. Níorbh í an áit seo an gairdín. Níorbh í an áit seo a theach. Ba thalamh draíochta é, agus bhraith sí go raibh sí chomh tábhachtach leis an bprionsabal. Bhí sí ina banphrionsa.
+
+Bhí sí ag mothú tuirseach. Bhí an léamh ag dul ar aghaidh ar feadh uaireanta, agus lean sí ag leamh tríd na leathanaigh. Anois, bhí sí ag iarraidh titim ina codladh agus dul ar ais go dtí a seomra leapa.
+
+Agus ansin, tháinig scéal. Ba scéal é faoi bhean óg a chaill a bealach, a fuair léine draíochta, agus a d’úsáid í chun an domhan a aimsiú.
+
+Stop Aoife. Shíl sí go raibh rud éigin aisteach ag tarlú. Thosaigh láimhe na léine ag teas. Thosaigh a chroí ag bualadh go tapa. Bhraith sí fionnuar arís.
+
+Dúnadh an doras. D'fhéach sí timpeall. Bhí sí ina seomra leapa, agus ar a cóiréar.
+
+Chonaic sí an léine ansin. Bhí sé fós uirthi, agus an boladh lavender fós air.
+
+D'fhéach sí thar an seomra. Buidheach, ina luí cois a leapa.
+
+"Buidheach?" a dúirt sí go bog.
+
+Thosaigh an madra ag tafann.
+
+D’ardaigh sí í féin. Tharraing sí anál domhain. Ansin, chuaigh sí amach faoin spéir.
+
+Bhí an gairdín ansin. Agus bhí sé cosúil leis an gairdín sa leabhar – ach amháin gur cuireadh lámh air. Bhí sé níos gile, níos ildaite, agus d'oscail doras beag sa chrainn. Bhí a fhios ag Aoife go gcaithfeadh sí dul isteach. Bhí sí féin agus Buidheach ag dul isteach sa stair.
+
+Chas sí an léine uirthi féin, agus chuaigh sí isteach sa leabhar chun an chuid eile den lá a chur ann; chun an domhan a aimsiú agus í féin a aimsiú. Agus thuig sí go raibh sé anseo le fada an lá, agus gur cheart di a leanúint sa leabhair. Agus thuig sí, go raibh sé seo ina eachtra le bheith ag dul.
+</body>
+```

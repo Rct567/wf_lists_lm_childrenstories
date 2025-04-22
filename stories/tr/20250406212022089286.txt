@@ -1,0 +1,55 @@
+<prompt>
+Please write a funny Turkish children's story that is at least 1000 words long.
+It must be completely written in proper Turkish (TR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Yıldızlara Dokunan Minik Astronotlar'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>tr</lang_id>
+
+```xml
+<title>Yıldızlara Dokunan Minik Astronotlar</title>
+<body>
+<p>Bir zamanlar, Türkiye'nin en şirin kasabası olan Pıtırık Köyü'nde, birbirinden afacan üç çocuk yaşarmış: Ayşe, Can ve Elif. Ayşe, zekâsıyla meşhur, gökyüzüne hayran bir kızdı. Can, maceraperest ve sakar, uzay gemisi yapmaya kafayı takmıştı. Elif ise, kahkahalarıyla dünyayı ısıtan, bilmeceler sormayı seven bir çocuktu. Bu üç kafadarın en büyük hayali, yıldızlara dokunmaktı.</p>
+
+<p>Pıtırık Köyü'nün ortasında, devasa bir dut ağacı yükselirdi. Bu dut ağacı, o kadar yüksekti ki, sanki yıldızlara tırmanmak için özel olarak dikilmiş gibi dururdu. Çocuklar, her gün dut ağacının altında toplanır, hayaller kurarlardı. Ayşe, gökyüzünü inceler, yıldızların isimlerini sayar, uzayla ilgili kitaplar okurdu. Can, odunlardan, teneke kutulardan ve her türlü gereksiz eşyadan uzay gemisi modelleri yapar, Elif ise "Uzaya hangi hayvan gitse daha komik olur?" gibi bilmeceler sorardı. </p>
+
+<p>Bir gün, Can'ın kafasına çılgın bir fikir geldi. "Arkadaşlar, biz neden gerçek bir uzay gemisi yapmıyoruz?" dedi heyecanla. Ayşe hemen itiraz etti: "Can, imkânsız! Hem para yok, hem de uzay gemisi yapmak çok zor." Elif, her zamanki gibi kahkaha attı ve "Ya uzay gemisini patateslerden yaparsak?" diye sordu. </p>
+
+<p>Can'ın gözleri parladı. "Harika fikir! Patates gemisi! Adına da 'Patates-Torpido' koyarız!" Ayşe, bu çılgınlığa gülerek karşılık verdi ama içten içe bu maceraya katılmak istediğini hissediyordu. Böylece, 'Patates-Torpido' projesi başladı. </p>
+
+<p>İlk olarak malzeme toplamaya koyuldular. Köyün bakkalından bol miktarda büyük patates satın aldılar. Herkesin bahçesinden havuç, brokoli, turp gibi sebzeler topladılar. Eskimiş bir su borusunu roket motoru, salatalık turşusu kavanozlarını kokpit penceresi, kırmızı biberleri ise uzay gemisinin ışıkları olarak kullandılar. Can, her zamanki sakarlığıyla, patatesleri birbirine yapıştırmak için kullandığı yapıştırıcıyı kafasına sürdü ve saçları yapış yapış oldu. </p>
+
+<p>Günler geçtikçe, 'Patates-Torpido' şekillenmeye başladı. Elif, geminin dışını boyamak için rengarenk boyalar buldu. Ayşe, geminin içine uzay haritası çizdi ve kontrol panelleri yaptı. Can, sürekli olarak gemiye yeni eklemeler yapıyor, boruları birbirine takıyor, yanlışlıkla çekiçle parmağına vuruyordu. Köylüler, bu garip projeyi merakla izliyor, kahkahalarla onları destekliyordu. </p>
+
+<p>Nihayet, 'Patates-Torpido' tamamlandı! Gemi, kocaman, renkli, sebzelerle süslenmiş bir patates yığınına benziyordu. Kontrol paneli, turşu kavanozlarından yapılmış pencereleri ve kırmızı biber ışıklarıyla oldukça gösterişliydi. Can, geminin motorunu çalıştırmak için büyük bir hevesle düğmeye bastı. Ancak beklenen roket sesi yerine, patateslerden gelen bir 'pıffff' sesi duyuldu. Gemi, sadece biraz sallandı ve olduğu yerde kaldı.</p>
+
+<p>Can'ın yüzü düştü. "Galiba motoru çalıştıramadım," dedi üzgünce. Ayşe, gülümseyerek "Can, merak etme. Önemli olan denemekti," dedi. Elif ise, "Bence bu gemiye bir isim daha koymalıyız. 'Pıtırık Pıtırık Yıldız Gemisi' nasıl olur?" diye sordu. </p>
+
+<p>Bu sırada, Pıtırık Köyü'ne garip bir olay oldu. Bir gece, gökyüzünde tuhaf ışıklar belirdi. Köylüler, merakla dışarı çıktı. Işıklar, ağaçların tepesinden, evlerin bacasından geçiyor, tuhaf sesler çıkarıyordu. Ayşe, Can ve Elif, bu gizemli olayı öğrenince hemen dut ağacının altına koştular. </p>
+
+<p>O anda, dut ağacının tepesinden parlayan bir ışık huzmesi, 'Patates-Torpido'nun üzerine indi. Işıkla birlikte, gemi hafifçe yükselmeye başladı. Çocuklar şaşkınlıkla birbirlerine baktılar. Gemi, yavaşça havalanıyor, sanki sihirli bir güç tarafından yukarı çekiliyordu. </p>
+
+<p>"Bu... bu gerçek olamaz!" diye bağırdı Can. Ayşe, uzay haritasını sıkıca tutuyordu. Elif ise, kahkahalarını bastıramıyor, "Galiba uzaya gidiyoruz!" diye çığlık atıyordu. </p>
+
+<p>'Patates-Torpido', gökyüzüne yükseldikçe yükseldi. Köy, küçücük bir oyuncak gibi görünmeye başladı. Çocuklar, patates gemisinin içinden, yıldızları daha yakından görmeye başladılar. Yıldızlar, parıldayan toplar gibiydi, sanki onlara el sallıyorlardı. </p>
+
+<p>Gemi, uzayın derinliklerine doğru ilerlerken, içinden garip sesler gelmeye başladı. Sesler, sanki konuşan patateslerin sesiydi! "Hoş geldiniz minik astronotlar! Biz, 'Patates Gezegeni'nden geliyoruz. Sizi misafir etmek istiyoruz!"</p>
+
+<p>Çocuklar, şaşkınlıkla birbirlerine baktılar. Patates gezegeni mi? Onlar, rüya mı görüyorlardı? 'Patates-Torpido', bir patates gezegenine mi gidiyordu? Cevapları merak ediyorlardı. Gemi, büyük bir patates gezegenine yaklaştı. Gezegenin yüzeyi, rengarenk patates tarlalarıyla kaplıydı. Uzun bıyıklı patatesler, onları karşılamak için bekliyordu. </p>
+
+<p>'Patates-Torpido', gezegene indi. Çocuklar, gemiden çıktıklarında, kendilerini bir patates krallığında buldular. Her yer patatesti: patates evleri, patates ağaçları, patates yiyecekleri. Bıyıklı patatesler, onlara patates suyu ikram ettiler ve patates şarkıları söylediler. Ayşe, Can ve Elif, bu inanılmaz deneyime bayıldılar. </p>
+
+<p>Günler geçtikçe, Patates Gezegeni'ndeki yaşamı öğrendiler. Patateslerin uzay yolculuklarını, patateslerin bilmecelerini ve patateslerin kahkahalarını... Elif, patateslerin bilmecelerine bayıldı. Can, patates gemilerini inceledi. Ayşe, patateslerin uzay bilgisini öğrendi. </p>
+
+<p>Bir süre sonra, dünya özlemi başladı. Bıyıklı patatesler, onları 'Patates-Torpido' ile Pıtırık Köyü'ne geri götürmeye karar verdiler. Çocuklar, Patates Gezegeni'ne veda ettiler. 'Patates-Torpido', ışık hızında yolculuk yaparak Pıtırık Köyü'ne geri döndü. </p>
+
+<p>Gemi, dut ağacının yanına indi. Çocuklar, 'Patates-Torpido'dan inip, köyün ortasına geldiklerinde, bütün köylüler onları alkışlarla karşıladı. Ayşe, Can ve Elif, uzay macerasını anlattılar. Köylüler, hayretle onları dinledi. Artık Pıtırık Köyü'nde herkes, yıldızlara dokunmanın ne kadar mümkün olduğunu biliyordu.</p>
+
+<p>O günden sonra, 'Patates-Torpido', Pıtırık Köyü'nün en sevilen oyuncağı oldu. Çocuklar, her gün gemiye biner, yıldızlara doğru hayaller kurar, patates bilmeceleri sorarlardı. Ve her gece, gökyüzüne baktıklarında, Patates Gezegeni'ndeki dostlarını hatırlarlar, kahkahalarla gülümserlerdi. Çünkü onlar, yıldızlara dokunan minik astronotlardı. Ve macera hiç bitmemişti. Onları bekleyen yeni maceralar, yeni yıldızlar, yeni patatesler vardı. Kim bilir, belki bir sonraki seyahatlerinde, daha da komik ve daha da fantastik bir maceraya atılacaklardı. Çünkü hayal gücünün sınırı yoktu ve macera her zaman patates kadar taze ve eğlenceliydi!</p>
+</body>
+```

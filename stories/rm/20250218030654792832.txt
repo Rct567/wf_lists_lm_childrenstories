@@ -1,0 +1,83 @@
+<prompt>
+Please write a creative and original Romansh children's story that is at least 1000 words long.
+It must be completely written in proper Romansh (RM).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Il fö da la famiglia cun il caglia da glatsch chi parlava cun el.'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>rm</lang_id>
+
+```xml
+<title>Il fö da la famiglia cun il caglia da glatsch chi parlava cun el.</title>
+<body>
+Il giavargia da la famiglia Tuor, da la Val Müstair, era ün fö plain vita e bun. El s'udiva da nom Flurin, e seis göv era da brischar in l'urna da la chadafö da la chasa. Flurin amava seis lö: la chadafö da la famiglia. Là gniva fat calsa e las famiglias Tuor mangiavan lur pasts e raquintavan lur istorgias.
+
+Purtant ün di, quant Flurin brischaiva cun ün grond flamma, sintiva el ün fregià insolit. Ün fregià chi gniva da davo, davant la chadafö. "Tgi es quai?" domandava Flurin.
+
+"Eu sun il caglia da glatsch." rispundeva ün vusch, fraida sco la naiv. Flurin era stupì. Caglia da glatsch? In la chadafö, chi es il lö dal fö? Quai faiva be da s-chüffer!
+
+"Caglia da glatsch? Co es quai pussibel?" domandava Flurin, fascinà e ün pa spaventà.
+
+"Eu sun stat fat da l'aua da la fuont da l'alp, chi es daventada glatsch. Eu vag da quai temp chi es il ün di chi's vaira la s-chürza. Eu sun vengü in chasa per chalar la fraschürza chi vain davant." rispundeva il caglia da glatsch cun ün vusch sco il sül d'ün vent da fö.
+
+Flurin fadiava a creder a seis uors. Ün caglia da glatsch chi parlava! El vaiva mai intant avant quai in sia vita.
+
+"Eu sun Flurin, il fö da la chadafö. Plaischer." disch Flurin, ün pa timus.
+
+"Il plaschair es da mia part, Flurin. Eu sun da bes-chüra." rispundeva il caglia da glatsch.
+
+Cun il temp, Flurin e il caglia da glatsch daventavan amis. Flurin raquintaiva a bes-chüra istorgias da quants chi brischaiva per cha ils giuvens Tuor pudessan raquintar lur istorgias, da lur gios, da lur gots e da lur viadis in ils pajais da las alps. Bes-chüra raquintaiva a Flurin istorgias da las stailas, da la naiv ch'als cuvriva las vals, e da las creatüras chi dormivan illa terra sül temp chi saiva la jada.
+
+Un di, la famiglia Tuor decidiva da far ün viadi. Els annunziovan a Flurin chi pudess brischar ün pa püs, e cha la chadafö pudess chalar ün pa.
+
+"Eu sun trist da che'ls Tuor van. Eu amava brischar per lur!" disch Flurin a Bes-chüra.
+
+"Eu capesch. Ma pens ch'els turnaran, e tü pudast lura brischar plü. Eu sun il caglia da glatsch, eu sun ün pa famüglia a chalar l'ura chi's vaira la s-chürza, e forsa schi, eu sun ün pa trist eir. Uschè, sch'els van, pudain nus intant passar temp ensemen." rispundeva Bes-chüra.
+
+Durant ch'ils Tuor eran viagiand, Flurin e Bes-chüra passavan temp ensemen. Flurin brischaiva ün pa, e Bes-chüra restava sper el. Els raquintaivan istorgias, e discutan da lur differentas vitas. Els daventavan amicis plü stretgs.
+
+Ün saira, Flurin sintiva ün mister. El sintiva ün fregià chi gniva da davant la chadafö, ün fregià chi nu s'udiva sco quel da Bes-chüra.
+
+"Tgi es quai?" domandava Flurin.
+
+"Eu sun il vent da la Val Müstair." rispundeva ün vusch, plü frestgna chi quella da Bes-chüra. "Eu amava adintant adintant a flüer sur las alps e a purtar la naiv, ma omai, eu sun ün pa trisschi, perque il clim era a chaschur."
+
+Flurin e Bes-chüra eran stupì. Ün vent chi parlava! Quai era inavant quai!
+
+"Il vent, chi es quai?" domandava Flurin.
+
+"Eu sun il vent chi porta la glüsch e la fraschürza, e omai eir la trissezza." rispundeva il vent.
+
+"Tü es trisschi?" domandava Bes-chüra. "Perche?"
+
+"Perque il clim es a chaschur. La glatsch, eir il glatsch chi val sur la Val Müstair, vaira. Ilfö s'increscha da brischar. Eu nu pudet plüs purtar la naiv sco avant. La natüra es malada." spiegava il vent, cun ün vusch chi crivaiva.
+
+Flurin e Bes-chüra s'interruivan ün a l'oter. Els sintivan la tristezza dal vent, e comprendevan ch'ei era da far alch.
+
+"Nu vain nus a laschar cha quai capitescha!" disch Flurin. "Nus vain a far alch per cha la natüra turna be!"
+
+"Ma tge pudain nus far?" domandava Bes-chüra.
+
+"Eu nu sun s'tgi, ma nus pudain provar. Nus pudain dir a tuots, a tuots chi vains a chaschur ils Tuor, da far bain a la natüra!" disch Flurin.
+
+E cun quai, Flurin, Bes-chüra e il vent cumanzavan a lavur. Flurin brischaiva tan asch chi pudeva, per dar chalüsch. Bes-chüra tscherviva d'ingaschar la fraschürza. Il vent purtava lur pleds a tuots chi viveivan in la val. Els raquintaivan a tuots da la trisschezza dal vent, da la glatsch chi valìva, e da l'impurtanza da far bain a la natüra.
+
+Ils Tuor turnavan a chasa. Els eran surprais da vairs Flurin, Bes-chüra e il vent, chi raquintaivan lur istorgia.
+
+"Quai es vaira?" domandava il bab Tuor.
+
+"Vaira!" rispundevan Flurin, Bes-chüra e il vent ensemen.
+
+La famiglia Tuor, cun il cor fit, davant l'istorgia da Flurin, Bes-chüra e dal vent, decidiva da far alch. Els cumanzavan a reduir lur ütilaziun da la fuorma da fö, daventavan cun il temp plü ecologics, plantavan ils piants, e lavuravan per purtar la val a la beira.
+
+Cun il temp, la naiv turnava a la Val Müstair, e la glatsch sül alp s'arrestava da valair. Il vent redeventava ün pa plü giuv, e Flurin brischaiva cun ün flamma plü bun e plü viv.
+
+Flurin e Bes-chüra restavan amis, e raquintaivan lur istorgias. Els daventavan cuntschaints da la natüra, e savivan cha grazcha a la solidarität e a l'interacziun, tuots pudessan far ün differenza.
+
+E uschè, la chadafö da la famiglia Tuor, in la Val Müstair, restava ün lö da calsa, da la famiglia, da las istorgias, e da l'amicizia, ün lö chi ramintaiva la forza da la glüsch, dal glatsch, e dal vent.
+</body>
+```

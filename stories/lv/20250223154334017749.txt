@@ -1,0 +1,39 @@
+<prompt>
+Please write a fun and entertaining Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Bērni no Latgales ar savām mūzikām'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lv</lang_id>
+
+<title>Bērni no Latgales ar savām mūzikām</title>
+<body>
+Apmākušās debesis, kāpelējošas mākoņu pūces, un vēja šņācoņa, kas skāra katru koku Latgales mežā, liecināja par gaidāmo lietusgāzi.  Bet  zem šī klusā, bet spēcīgā dabas draudīgāka vērojuma, mazā, krāsainā mājiņā, kas atradās meža malā,  dzīvoja trīs bērni –  Aina,  Emīls un  Rūdolfs.  Viņi bija tikpat neparasti kā Latgales meži – Aina ar savām dziedāšanas balsi, Emīls ar savas dzelzs spēku un Rūdolfs ar savu fantāziju, kas bija tik plaša kā paši Latgales plašie lauki.
+
+Aina, ar acīm kā tumši zilas smaragda lašiem,  dziedāja melodijas, kas izklausījās pēc putnu dziesmām, kas izlido no meža dziļumiem.  Katrs viņas dziedājums bija stāsts – par ziedu smaržu, par upītes čīkstoņu, par zvaigžņu mirdzumu.  Viņa dziedāja, spēlēdamās ar savu skaisto balsu,  kā zirdziņam kāmju dārzā un spēlējāmies ar debesu zilumiem un debesu zeltu.
+
+Emīls bija spēcīgs kā liels ozoliņš, kas drosmīgi stāv pret vēju. Viņam patīka celt skaņas no dažādiem dabas materiāliem.  Viņš izmantoja koku zarus, akmeņus un pat upes oļus, lai izveidotu savus mūzikas instrumentus.  Viņa skaņas  bija stipras un skaidras, līdzīgas meža apņēmības skaņām,  un skaņas ritmiem un garumiem,  kas atbild uz zvēru rēcieniem un putnu dziesmām.
+
+Rūdolfs, ar acīm kā Latgales saules spīdumu,  izdomāja muzikālas spēles. Viņš izveidoja instrumentus no dažādiem priekšmetiem, no parastām koka gabaliņiem līdz pat mazgāšanas maisiņiem, kas sita viens pret otru.  Viņa mūzika bija tikpat neparasta kā viņa fantāzija –  viņš radīja mūziku ar zaļumiem, ar dzelmēm, ar meža ēnām un sauļiem.
+
+Kaut arī katrs no viņiem spēlēja atšķirīgi, viņu mūzika vienmēr izrādījās harmoniska.  Viņi dziedāja, spēlēja un dziedāja, līdz debesis sāka atklāt savas asaras.  Lielais lietus sāka krist virs Latgales meža.
+
+Vējš spiedās un dūrās pret kokiem, un lieta krišana klāja visu apkārtni.  Aina, Emīls un Rūdolfs iekļuva savā krāsainajā mājiņā.
+
+"Mēs varam spēlēt kopā!" Aina sacīja,  "Mēs varam izveidot vienu lielu mūzikas dabu ar dabu."
+
+Emīls, ar savām spēcīgajām rokām,  aizpildīja mājas vidu ar koka zariem, akmeņiem un oļiem, kas atradās ēnā.  Rūdolfs turpināja radīt savus mūzikas instrumentus un spēles, izveidojot harmoniju no lietus čukstām un vēja rūkšanas.
+
+Aina dziedāja savu skaisto dziesmu, un Emīls spēlēja savus dabas instrumentus.  Viņu mūzika izplatījās pa mājas telpām, un skaņas pārņēma lietus skaņu.  Rūdolfs pievienojās viņiem, veidojot jaunas melodijas ar koka gabaliņiem un mazgāšanas maisiņiem.  Viņu mūzika kļuva par vienu lielu dziesmu – par mežu, lietus un bērnu mīlestību.
+
+Lietus gāja mierīgāk.  Gaiss bija svaigs un tīrs.
+
+Kad lietus beidzās,  Latgales mežā bija klusa, bet skaista harmonija. Saule izrāpās no mākoņiem, spīdot uz zaļumiem, kas sita un atspīdēja.
+
+Bērni no Latgales, ar savu mūziku, bija izveidojuši harmoniju ar dabu.  Viņu mūzika turpināja spēlēt, atspoguļojoties ezeros un strautēs,  dziedot kokiem un apdzīvojoties pa visu mežu.  Un tā tas bija, ik dienas un visu gadu, kamēr viņi dziedāja, spēlēja un radīja mūziku.  Un tāds ir mūžam  Latgales meža mūzika.
+</body>

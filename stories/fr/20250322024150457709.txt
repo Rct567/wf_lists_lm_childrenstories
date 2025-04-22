@@ -1,0 +1,58 @@
+<prompt>
+Please write a simple and easy-to-follow French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Les drôles de bêtises de Léon, le petit lion qui aimait faire la fête.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```xml
+<title>Les drôles de bêtises de Léon, le petit lion qui aimait faire la fête.</title><body>
+<p>Dans la savane ensoleillée, vivait un petit lion nommé Léon. Léon n'était pas comme les autres petits lions. Il n'aimait pas tellement chasser, ni se reposer au soleil. Ce que Léon aimait par-dessus tout, c'était faire la fête !</p>
+
+<p>Chaque matin, dès que le soleil levait ses rayons dorés, Léon se réveillait avec une énergie débordante. Il sautait hors de son lit douillet fait de feuilles et de brindilles, et commençait à préparer une nouvelle fête. Sa maman, une lionne magnifique aux yeux bleus, soupirait souvent. "Léon, mon chéri, au lieu de faire des bêtises et d'organiser des fêtes sans fin, ne pourrais-tu pas essayer de chasser, comme tes frères ?"</p>
+
+<p>Mais Léon, avec un clin d'œil malicieux, répondait : "Maman, la vie est une fête ! Pourquoi se fatiguer à chasser quand on peut s'amuser ?" Et sur ces mots, il partait en trombe, laissant sa maman sourire et secouer la tête.</p>
+
+<p>Un jour, Léon décida d'organiser une grande fête pour tous les animaux de la savane. Il avait tellement d'idées ! D'abord, il pensa à une course de tortues avec des petits ballons attachés sur le dos. "Ce sera hilarant !" rugit-il joyeusement.</p>
+
+<p>Puis, il eut l'idée de décorer les arbres avec des guirlandes faites de fleurs multicolores. Il courut auprès de chaque animal pour les inviter. Il expliqua avec enthousiasme le programme : "Venez nombreux ! Il y aura des jeux, de la musique, des gâteaux, et beaucoup, beaucoup de rires !"</p>
+
+<p>Les premiers à arriver furent les singes espiègles. Ils étaient toujours partants pour une bonne rigolade. Ensuite, vinrent les zèbres rayés, curieux de voir ce que Léon avait préparé. Les girafes, avec leurs longs cous, arrivèrent en dernier, observatrices des préparatifs de loin.</p>
+
+<p>La fête commença avec la course de tortues. Pauvres petites tortues ! Elles essayaient de marcher, mais les ballons les soulevaient et les faisaient rouler dans tous les sens. Les singes éclatèrent de rire, et même les zèbres pouffèrent. Les tortues, elles, n'étaient pas si ravies. Léon, voyant leur mine renfrognée, réalisa peut-être que cette idée n'était pas la meilleure.</p>
+
+<p>Pour se faire pardonner, Léon décida de sortir les gâteaux qu'il avait préparés. Ils avaient l'air délicieux : des gâteaux au miel et aux fruits, décorés de jolies feuilles vertes. Mais, en voulant impressionner les invités, Léon avait utilisé trop de miel. Les gâteaux étaient si collants que les animaux avaient du mal à les manger. Le miel dégoulinait sur leurs pattes, leurs visages, et partout !</p>
+
+<p>Alors, Léon, un peu découragé, s'assit sous un grand acacia, soupirant. Sa maman arriva. "Alors, comment s'est passée la fête, mon chéri ?" demanda-t-elle avec un sourire. Léon baissa la tête, un peu honteux. "Pas très bien, Maman. Mes idées n'étaient pas géniales. Tout le monde est collant, et les tortues n'étaient pas contentes..."</p>
+
+<p>Sa maman s'assit à côté de lui. "Léon, faire la fête est une bonne chose, mais il faut aussi penser aux autres. Le plus important, ce n'est pas juste d'avoir des idées extravagantes, mais de s'assurer que tout le monde s'amuse vraiment."</p>
+
+<p>Léon réfléchit à ce que lui avait dit sa maman. Il comprit que faire rire n'était pas suffisant ; il fallait aussi penser au confort des autres. Soudain, il eut une idée ! "Maman, j'ai une autre idée de fête, mais cette fois, ce sera différent !"</p>
+
+<p>Avec l'aide de sa maman, Léon annonça la nouvelle fête. Cette fois, il n'y aurait pas de ballons, ni de gâteaux collants. Ils préparèrent une série de jeux plus doux. Ils construisirent un parcours d'obstacles facile pour les plus petits, organisèrent une danse joyeuse avec de la musique entraînante, et, surtout, ils mirent à disposition des boissons rafraîchissantes, adaptées à chacun.</p>
+
+<p>La fête reprit, et cette fois, elle fut un véritable succès. Les singes s'amusaient à sauter sur les obstacles. Les zèbres et les girafes se laissaient aller à la danse. Tout le monde riait et s'amusait. Léon, lui, courait partout, aidant les uns et les autres, veillant à ce que tout le monde passe un bon moment.</p>
+
+<p>Le soir, après que tous les animaux furent partis, Léon était épuisé, mais heureux. Il s'endormit rapidement, serrant sa maman. Il comprit enfin que faire la fête, c'était partager du bonheur, prendre soin des autres, et faire en sorte que tout le monde se sente bien.</p>
+
+<p>Le lendemain, au réveil, Léon ne se jeta pas tout de suite dans l'organisation d'une nouvelle fête. Il alla jouer avec ses frères. Ils lui apprirent à chasser, à reconnaître les empreintes d'animaux, et à se déplacer discrètement dans la savane. Il trouva cela intéressant, même si ce n'était pas aussi amusant qu'une fête. </p>
+
+<p>De temps en temps, il continuait à organiser des fêtes, mais maintenant, il réfléchissait toujours à l'avance. Il demandait l'avis des autres animaux, tenait compte de leurs goûts et de leurs envies. Ses fêtes étaient devenues plus réfléchies, plus joyeuses, et plus appréciées. Léon avait appris sa leçon : un petit lion qui aime faire la fête, c'est bien, mais un petit lion qui fait la fête en pensant aux autres, c'est encore mieux !</p>
+
+<p>Et ainsi, dans la savane, Léon, le petit lion toujours plein d'énergie, continua à égayer la vie des animaux, prouvant qu'on peut s'amuser et faire plaisir en même temps. Et sa maman, elle, était fière de son petit lion, qui avait appris à jongler entre les bêtises et les bonnes actions.</p>
+
+<p>Un jour, Léon décida d'organiser une fête d'anniversaire pour tous les animaux de la savane qui n'en avaient jamais eu. Ce fut la plus belle fête jamais vue. Il construisit une grande tente avec des feuilles et des branches. Les décorations étaient magnifiques : des lanternes faites de fruits évidés et des guirlandes de fleurs lumineuses. Il y eut des gâteaux pour tout le monde, même pour les tortues. Léon veilla à ce qu'il y ait des activités pour tous les âges et toutes les préférences. Ce fut un succès retentissant. </p>
+
+<p>Puis, il organisa des pique-niques sous les arbres, des concours de chants d'oiseaux et des séances de contes au clair de lune. Avec le temps, les bêtises de Léon diminuèrent, et ses bonnes actions augmentèrent. Il devint le symbole de la joie et de la générosité dans la savane. Tout le monde l'aimait, car Léon, malgré son amour pour la fête, avait appris que le plus important était de partager son bonheur avec les autres.</p>
+
+<p>Et Léon vécut heureux, toujours prêt à partager un éclat de rire, une aide, ou une nouvelle fête, bien sûr, toujours avec l'aide et le précieux conseil de sa maman, la lionne au regard doux et plein de sagesse.</p>
+
+<p>La savane, avec Léon et tous ses amis, était un endroit merveilleux, où la fête et l'amitié se mariaient pour le plus grand bonheur de tous, et les "drôles de bêtises" de Léon étaient désormais devenues de doux souvenirs, empreints de joie et de partage.</p>
+</body>
+```

@@ -1,0 +1,113 @@
+<prompt>
+Please write a simple and easy-to-follow Galician children's story that is at least 1000 words long.
+It must be completely written in proper Galician (GL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A Princesa e o Dragón das Catedrais'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>gl</lang_id>
+
+```xml
+<title>A Princesa e o Dragón das Catedrais</title>
+<body>
+Era unha vez, nun reino moi fermoso chamado Auria, unha princesa chamada Sabela. Sabela tiña o pelo dourado coma o sol da mañá e ollos azuis como o ceo do verán. Era unha princesa moi bondadosa e xenerosa, sempre disposta a axudar aos demais.
+
+Vivía Sabela nun castelo grande e esplendoroso, con torres altísimas e xardíns cheos de flores de todas as cores. Pero, a pesar de ter todo o que se podía desexar, Sabela sentíase un pouco soa. Gústanlle xogar cos paxaros do xardín e visitar os aldeáns, pero botaba de menos ter un amigo especial, alguén co que compartir os seus segredos e aventuras.
+
+Un día, mentres paseaba polos bosques que rodeaban o castelo, Sabela escoitou un ruído estraño. Era un son profundo e resonante, coma un forte ronco que viña das montañas máis altas. Curiosa, a princesa decidiu ir ver de onde procedía ese son.
+
+Camiñou e camiñou, subindo camiños pedregosos e cruzando regatos de auga cristalina. Finalmente, chegou a unhas impresionantes montañas, e alí, no alto dunha delas, viu unha enorme catedral. Non era unha catedral coma as que ela coñecía. Esta tiña un aspecto moi antigo, as súas pedras estaban escuras e cheas de musgo, e ao redor dela había un aire misterioso e maxestuoso.
+
+De súpeto, o ruído volveu soar. E desta vez, Sabela recoñeceu o berro dun dragón!
+
+A princesa, malia sentir un pouco de medo, era valente e quería saber que pasaba. Aproximouse á catedral con cautela, e ao entrar, quedou abraiada. A catedral estaba case baleira, pero no centro da nave, durmía un dragón enorme. Era negro como a noite, con escamas brillantes coma estrelas e uns ollos dourados que a miraban con curiosidade.
+
+O dragón, que se chamaba Draco, espertou ao sentir a presenza de Sabela. Non era un dragón malo, como os dos contos que Sabela lera. Era un dragón sabio e solitario, que vivía na catedral dende había moitos séculos, protexendo os seus tesouros e lembranzas.
+
+- Quen es ti, pequena dama?- preguntou Draco, coa súa voz grave e profunda.
+
+- Son a princesa Sabela, do reino de Auria - respondeu ela, sen amosar medo. - E vin porque escoitei o teu ruído.
+
+Draco sorriu, deixando ver os seus dentes afiados pero non ameazantes.
+
+- Perdoa o ruído, princesa. Son vello e ás veces doréenme os ósos.
+
+Sabela achegouse ao dragón. Sentiu pena pola súa soidade e decidiu propoñerlle algo.
+
+- Draco, por que vives aquí, só? Non tes amigos?
+
+Draco suspirou, o seu corpo enorme tremendo lixeiramente.
+
+- Os dragóns coma min son diferentes á xente. A xente ten medo de nós. Vivimos moitos anos, e a maioría da xente que coñecemos vén e vai.
+
+Sabela pensou un pouco.
+
+- E se eu fose a túa amiga? - preguntou.
+
+Draco quedou sorprendido. Nunca ninguén lle ofrecera semellante cousa.
+
+- A... a min? Unha princesa coma ti... a túa xente...
+
+- A miña xente non ten por que daberse - asegurou Sabela. - Prometo guardar o teu segredo se tú aceptas ser o meu amigo. Poderei vir visitarte sempre que queiras.
+
+Draco mirou nos ollos azuis da princesa, e viu neles xenerosidade e bondade. Sabía que podía confiar nela.
+
+- Estaría honrado de ter unha amiga coma ti, Sabela.
+
+A partir daquel día, Sabela e Draco fixéronse grandes amigos. Sabela visitaba a Draco na catedral con regularidade. Contábanse os seus segredos, xogaban a adiviñas e compartían historias. Sabela aprendía moito sobre a historia e os segredos do mundo escoitando a Draco e Draco, pola súa banda, aprendía a valorar a amizade e a compañía.
+
+Un día, a noticia da amizade entre a princesa e o dragón chegou aos oídos do rei, pai de Sabela. O rei, preocupado pola seguridade da súa filla, chamou a Sabela para falar con ela.
+
+- Sabela, estou preocupado por ti. Escoitei falar do teu amigo, o dragón... É perigoso, filla. Debes deixar de ir visitalo.
+
+Sabela, coas bágoas nos ollos, explicoulle ao seu pai a bondade de Draco, a súa sabedoría e o moito que aprendeu del.
+
+- Papá, Draco non é malo. É un amigo fiel e bondadoso. El nunca me faría dano.
+
+O rei, vendo a sinceridade na mirada da súa filla, decidiu confiar nela.
+
+- Confío en ti, filla miña. Pero, por favor, ten coidado.
+
+Sabela regresou á catedral, feliz e agradecida polo apoio do seu pai. Contoulle a Draco o sucedido. Draco, sabendo o difícil que era para a súa amiga, sorriu.
+
+- Non te preocupes, Sabela. Sei que todo irá ben.
+
+E a súa amizade seguiu adiante, máis forte ca nunca. Sabela e Draco gozaban xuntos dos días, explorando a catedral, descubrindo lugares escondidos e compartindo momentos especiais. Draco, a través de Sabela, comezou a achegarse á xente do reino, axudándoos en segredo sen o perigo de causar medo.
+
+Un día, un malvado feiticeiro chamado Varkos soubo da existencia de Draco e da súa catedral. Varkos, movido pola cobiza e a ambición, pretendía roubar os tesouros da catedral e someter a Draco á súa vontade. Varkos quería usar o poder do dragón para conquistar o reino de Auria e facerse con todo o poder.
+
+Varkos, coa súa maxia escura, enviou un feitizo sobre Draco, facéndoo débil e vulnerable. Aproveitando a situación, Varkos chegou á catedral e intentou someter ao dragón.
+
+Sabela, que estaba na catedral no momento do ataque, viu a Varkos e comprendeu o perigo. Sabía que debía actuar, pero, ¿que podía facer contra un feiticeiro tan poderoso?
+
+Sabela colleu unha espada, a única arma que atopou. Sabendo que non podería enfrontarse a Varkos nunha batalla directa, decidiu distraelo e dar tempo a Draco para recuperar as súas forzas.
+
+Enfrontouse a Varkos, berrando:
+
+- Deixa a Draco en paz! Non te aproxima a el!
+
+Varkos riu de xeito sinistro.
+
+- Unha princesa insignificante non pode deter o meu poder!
+
+Comezou a lanzar feitizos contra Sabela, pero ela, armada coa súa valentía e a súa intelixencia, esquivaba os ataques, movéndose cunha axilidade inusitada. Mentres, Draco, loitaba co debilitamento do feitizo de Varkos, intentando reunir as súas forzas.
+
+Finalmente, grazas á valentía de Sabela e ao seu propio esforzo, Draco conseguiu romper o feitizo de Varkos. Coas súas forzas recuperadas, Draco enfrontouse ao feiticeiro con toda a súa furia.
+
+A batalla entre Draco e Varkos foi épica. O aire encheuse de chamas, raios e escuridade. Ao final, o poder de Draco era superior, e Varkos, derrotado, fuxiu da catedral, xurando vinganza.
+
+Despois da batalla, Sabela correu cara Draco, preocupada pola súa saúde. Draco, vendo a preocupación nos ollos da princesa, sorriu.
+
+- Grazas, Sabela. Sen ti, todo tería sido diferente.
+
+Sabela abrazou a Draco, feliz de que estivese ben. Xuntos, celebraron a vitoria.
+
+A partir daquel día, a reputación de Draco cambiou para sempre no reino de Auria. A xente recoñeceu a súa valentía e a súa bondade. Draco, grazas ao apoio de Sabela, converteuse no protector do reino e viviu unha vida feliz e respectada.
+
+Sabela e Draco, amigos leais e inseparables, continuaron as súas aventuras, ensinándolle ao mundo que a amizade e a bondade poden vencer calquera mal. E así, no reino de Auria, no corazón da catedral e nos corazos de todos, viviron felices para sempre.
+</body>
+```

@@ -1,0 +1,91 @@
+<prompt>
+Please write a uncomplicated Norwegian children's story that is at least 1000 words long.
+It must be completely written in proper Norwegian (NO).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Ulven Kom Og Spiste Rødhette'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>no</lang_id>
+
+```xml
+<title>Ulven Kom Og Spiste Rødhette</title><body>
+Det var en gang en liten pike som het Rødhette. Hun hadde fått navnet sitt fordi hun alltid brukte en rød hette hun hadde fått av bestemoren sin. Bestemor elsket Rødhette over alt på jord, og Rødhette elsket bestemoren sin.
+
+En solfylt morgen, da Rødhette skulle gå ut for å plukke blomster, sa moren hennes: "Rødhette, kjære deg, jeg vil du skal gå til bestemor med denne kurven. Hun er syk og trenger noe godt å spise og drikke."
+
+Kurven var full av godsaker: en flaske melk, et stykke smør, en kringle, og et par deilige bringebærterter. Rødhette lovet å være forsiktig og å ikke snakke med fremmede.
+
+"Gå rett frem, gjennom skogen, og ikke stopp før du kommer til bestemor sitt hus," sa moren. "Vær snill og ikke gå av veien."
+
+Rødhette tok kurven og ga moren et kyss. "Ja, mamma," sa hun. "Jeg skal være veldig forsiktig."
+
+Så begynte Rødhette å gå. Solen skinte, fuglene sang, og blomstene duftet søtt. Hun var så glad og lett til sinns, at hun glemte alt moren hadde sagt.
+
+På veien møtte hun en ulv. Ulven var stor og lur, og han hadde et stygt glis. "God dag, Rødhette," sa ulven.
+
+Rødhette ble litt overrasket, for hun hadde aldri sett en ulv før. "God dag," svarte hun litt sjenert.
+
+"Hvor skal du hen?" spurte ulven med en falsk vennlig stemme.
+
+"Jeg skal til bestemor," svarte Rødhette. "Hun er syk, og jeg har mat og drikke til henne."
+
+"Å, så hyggelig," sa ulven. "Og hvor bor bestemor din?"
+
+Rødhette fortalte hvor bestemor bodde. Hun glemte helt at moren hadde sagt at hun ikke skulle snakke med fremmede.
+
+Ulven smilte bredt. "Det er en vakker vei," sa han. "Hvorfor ikke plukke noen blomster til bestemor? Det ville glede henne!"
+
+Rødhette tenkte seg om. Det hørtes jo hyggelig ut. Hun hadde glemt hva moren hadde sagt. Så hun la kurven ned ved stien og begynte å plukke blomster. Hun løp frem og tilbake, plukket liljekonvall og ville roser, og glemte helt å se etter ulven.
+
+Imens løp ulven den korteste veien til bestemors hus. Han banket på døren.
+
+"Hvem er det?" spurte bestemor, som lå i sengen.
+
+"Det er Rødhette," svarte ulven med en grov stemme. "Jeg har med mat og drikke til deg."
+
+"Dytt knappen," sa bestemor. "Døren er ikke låst."
+
+Ulven gikk inn i huset. Bestemor var veldig syk, og lå i sengen. Ulven spratt over til henne, slukte henne hel, og tok på seg hennes nattkjole og hette og la seg i sengen.
+
+Ikke lenge etter kom Rødhette dit. Hun hadde plukket så mange blomster at hun nesten ikke kunne bære dem. Hun banket på døren.
+
+"Hvem er det?" sa ulven, som prøvde å etterligne bestemors stemme.
+
+"Det er Rødhette," sa Rødhette. "Jeg har med blomster og mat til deg."
+
+"Dytt knappen," sa ulven. "Døren er ikke låst."
+
+Rødhette gikk inn i huset. Hun var veldig overrasket over hvor annerledes bestemor så ut.
+
+"Å, bestemor," sa hun. "For noen store øyne du har!"
+
+"Jo mer jeg ser deg, mitt barn," sa ulven.
+
+"Og for noen store hender du har!" sa Rødhette.
+
+"Jo mer jeg kan klemme deg, mitt barn."
+
+"Og for en stor munn du har!" sa Rødhette.
+
+"Jo mer jeg kan spise deg," sa ulven.
+
+Og i det samme spratt ulven ut av sengen, gapte og spiste Rødhette. Så fornøyd og mett la han seg ned igjen i sengen og snorket høyt.
+
+Det gikk en jeger forbi huset til bestemor. Han hørte snorkingen og tenkte: "Det må være bestemoren som er syk." Han gikk inn i huset.
+
+Der så han ulven som lå og snorket i sengen. Han visste med en gang at dette var ulven som hadde tatt bestemor.
+
+Jegeren hentet en saks, skar opp magen på ulven, og bestemor kom ut i live! Rødhette kom også ut, og hun var også i live!
+
+De var veldig glade for å være i live igjen.
+
+Jegeren fylte ulvens mage med tunge steiner, og sydde den sammen igjen. Da ulven våknet og prøvde å løpe, falt han ned død på stedet.
+
+De tok ut Rødhette og bestemor, og de lovte å aldri stole på en ulv igjen. Rødhette var veldig lei seg for at hun hadde vært ulydig, men bestemoren og jegeren tilgav henne. De spiste alle bringebærtertene som Rødhette hadde hatt med seg, og hadde en veldig hyggelig stund. Rødhette lovte å aldri gå bort fra stien, og å aldri mer snakke med fremmede. De var lykkelige, og levde lykkelig alle sine dager.
+Slutt.
+</body>
+```

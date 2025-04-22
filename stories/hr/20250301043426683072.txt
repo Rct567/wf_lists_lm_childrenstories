@@ -1,0 +1,43 @@
+<prompt>
+Please write a silly Croatian children's story that is at least 1000 words long.
+It must be completely written in proper Croatian (HR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Šuma puna čuda i tajni u Lici'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hr</lang_id>
+
+<title>Šuma puna čuda i tajni u Lici</title>
+<body>
+Petar i Lana, dva mališana s očima kao dva bisera, živjeli su u malom selu u Lici.  Svake su se zore budili uz pjevanje ptica, miris divljeg cvijeća i šumljav zvuk rijeke koja se smijala kroz šiblje. A šuma, oh, šuma! Šuma je bila njihova omiljena igraonica, puna čuda i tajni.
+
+Jednoga je jutra, dok su skupljali divlje jagode, Petar ugledao nešto čudno.  Na deblu starog hrasta, prekrivenog mahovinom kao nekim zelenim ćebadima, sjedila je malena, živa sjenka.  Imala je duge, tanke noge poput šibica, krila poput pčelinjih, a lice joj je bilo obasjano suncem kao zvijezde na nebeskom svodu.
+
+"Dobro jutro!" rekla je sjenka, glasom laganim kao šapat proljetnog vjetra. "Ja sam Lisica Šešira, čuvarica tajni ove šume.  Gdje se putate, mali istraživači?"
+
+"Mi tražimo jagode!" odgovorila je Lana, oduševljeno razdragana.  "Želimo napraviti najbolji jagodni džem na svijetu."
+
+"Pa, za taj džem su vam potrebni posebni jagode, ne obični, nego oni od čarobne šume, one kojima se divlji medvjedi hrane!" objasnila je Lisica Šešira. "Želite li sa mnom u potragu?"
+
+"Naravno!", viknuo je Petar, puni znatiželje.
+
+I tako su krenuli. Lisica Šešira je bila nevjerojatna vodičica. Skakala je od stabla do stabla, objašnjavajući im tajne šumskih životinja:  kako lisica traži hranu, kako se mravi čiste, kako vjeverica skuplja zalihe, a svaki put kada bi se njihovi mali nožni prsti dodirnuli s nekim nevidljivim kamenom, otvarao bi se mali prolaz, i otkrivali su nova i fantastična mjesta.
+
+Našavši čarobne jagode, crvene poput sunčevih zraka, vratili su se Lisici Šeširi.  Onaj je džem bio poseban!  Okusio je kao sunce, s mirisom šume i slatkoćom rijeke, a kada su ga podijelili s ostalim ljudima u selu, svi su se smijali i bili sretni.
+
+Ali to nije bio kraj priča u Lici.  Jedan su dan otkrili i stablo zvano Stablo Želja.  Svaki list tog stabla nosio je malu zelenu pticu, a na svakoj je ptici sjedila mala, smiješna zvijezda.
+
+"Ovo stablo ispunjava svaku želju," rekla je Lisica Šešira. "Ali želje moraju biti ljubazne i pomoćne."
+
+"Ja želim da se svi djeca u mojoj školi nasmiješe", izgovorila je Lana, puno ljubavi.
+
+"A ja želim da se rijeka uvijek smije", dodao je Petar.
+
+I onda se dogodilo čudo.  Na svim listovima Stabla Želja procvjetale su tisuće sitnih cvijeća i ptice su zapjevale uzbudljivije pjesme.  Sve su želje Petar i Lana ostvarili i u selu je vladao radost.
+
+Od tog trenutka Petar i Lana nisu bili samo istraživači jagoda. Postali su čuvari šume, njegujući njenu čaroliju i tajne.  Oni su otkrili da su čuda svuda oko nas, skrivena u šumi, u šumi divljeg cvijeća i veselim smijesima rijeke. A kada bi se izgubili u maglici, Lisica Šešira bi se uvijek pojavila da ih uputi kroz čaroliju šume.  I tako, između dječjih smijeha i šumova šume, Lika se nastavila skrivati u čudu i tajnama.
+</body>

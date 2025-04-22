@@ -1,0 +1,41 @@
+<prompt>
+Please write a timeless Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A tűz és a jégszívű sárkány'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>A tűz és a jégszívű sárkány</title>
+<body>
+A Kárpát-medencében, egy csillogó, hegyekkel szegélyezett völgyben, élt egy kislány, Eszter.  Hajszálvékony, barna haja a szélben táncolt, ahogy a patak partján játszott, és szeme olyan ragyogóan kék volt, mint az égszínkék hegyek. Eszter szerette a természetet, a virágzó réteket, a csordogáló patakokat és a magasba törő fenyőket.  De a völgyben élt egy titokzatos lény, egy hatalmas, jégszívű sárkány, aki megfagyasztotta a szívakat, és megdermesztette a napfényt mindenhol, ahol csak felbukkanhatott.
+
+Egy nap, mikor Eszter a hegyek lábánál játszott, egy furcsán csendes hang ütötte meg a fülét.  A levegő mintha kristályból lett volna, és egy keskeny, kanyargós völgyben állt a sárkány.  Hatalmas, sötét szarvak emelkedtek ki a feje búbjáról, és ezüstből csillogott a pikkelyes bőre, de mégis fagyott volt, mintha a hideg szél fújt volna át rajta.  A sárkány szeme úgy csillogott, mint az éjjeli égbolt, de mégis üresnek tűnt, mintha soha nem látott volna valódi melegséget.  
+
+Eszter megijedt, de nem futott el.  Egy kicsit félénken közeledett a sárkányhoz, kezében egy gyönyörű, vörös rózsát szorongatott.  A sárkány a látszólag megbolygatatlan, jeges sziklás hegyekre vetette tekintetét, mintha nem hallotta volna a lányt.
+
+
+"Kedves sárkány," szólalt meg halkan Eszter. "Nem láttál valaha rózsát?"
+
+A sárkány nem válaszolt.  A jég körülötte úgy tűnt, hogy még jobban összehúzódik, a völgy pedig egyre sötétebb és hidegebb lett.  Eszter szívta meg bátorságát, és még közelebb lépett.  A rózsát a sárkány orra elé tartotta.  A vörös szín ragyogott a sötétben, és a lány látta, hogy a sárkány szeme egy pillanatra megremeg.
+
+
+"Ez a tűz színe," mondta Eszter, és hangja olyan meleg volt, mint a kályha a hideg téli napokon. "A tűz melegíti a világot, és fényt ad a sötétben."
+
+
+A sárkány a rózsára meredt, és egy furcsa, halk zörej hallatszott a sziklák között.  Eszter látta, ahogy a sárkány szeme lassan megolvadt, és a színeiben is kezdett élet megjelenni.  Egy gyenge tűzvillanás ütötte meg a környező köveket, és egy kis, vörös fény kezdett a sárkány testén terjedni.  Lassan, de biztosan, a jég kezdte megolvadni.
+
+Eszter a szívvel melegen, folyamatosan szólt a sárkányhoz.  Elmesélte a csodálatos virágokról, a csillogó patakokról és a napfényes hegyekről. Elmondta, hogy a világon milyen fontos a szeretet, a gyengédség és a melegség.   Elmondta történeteket az anyák és apák, testvérek és barátok szerteágazó és sokrétű szeretetéről.
+
+A sárkány, amint Eszter beszélt, egyre jobban melegszett. A tűz egyre nagyobb erővel szikrázott és melegítette a völgyet.  A jég eltűnt, és a sárkány szíve lassan kezdett megbocsátani.  Eszter szólt a szélnek, a virágoknak, a fáknak, a kőzeteknek és minden élőlénynek.  Eszter szeretetét osztotta meg a sárkánnyal, a sárkány pedig úgy érezte, hogy ő már része a világnak.
+
+Végül, a sárkány már nem volt jeges lény.  Egyre melegebb lett, és melegség sugárzott belőle.  Eszter, a kislány, aki szeretettel töltötte meg a világot, barátságot kötött a sárkánnyal, és együtt játszottak a hegyek lábánál.  A völgy újra telítődött élettel, a napfény pedig újra melegedett.
+
+
+Azóta is, ha valaki ellátogat a Kárpát-medencébe, akkor a hegyek között, a csillogó völgyben talál egy kislányt és egy sárkányt, akik együtt játszanak, és emlékeztetik a világot a szeretet és a melegség erejére.  És Eszter, a kislány, aki a szívében hordozta a tűz melegét, mindig emlékezett a nagy tanításra: a szeretet képes megolvasztani a legkeményebb jeget is.
+</body>

@@ -1,0 +1,35 @@
+<prompt>
+Please write a emotional Scottish Gaelic children's story that is at least 1000 words long.
+It must be completely written in proper Scottish Gaelic (GD).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>gd</lang_id>
+
+<title>Sgeulachd na h-Eilein Bhig</title>
+<body>
+A' bhean-mara, a bha ainmeil mar Ailbhe na Mara, bha beatha dhi ann an dà fhearann.  An fhearann an-uas, fionn is sgàthanach, ann an dachaigh eireachdail fhearann, agus an fhearann fon làn ghrèin, domhainn, anns an àmharc is an taisbeanadh uisgeachan na mara, fo chois an t-sgeillean uaine.
+
+Bha Ailbhe na Mara fìor èibhinn dha na pàistean, a bhios a’ caitheamh nan uairean ann an gàire. Dh'aidich iad, gun teagamh, bho taobh an ear a’ chuain gu taobh an iar, gach ceann a' bhàgh gu fèill, dhuinn, a nuair a bharrachd air an taigh. Bhiodh na pàistean air a’ chùrsa uile a’ dèanamh sùil le bhith a’ coimhead air a sealladh, anns an eagal a thuit agus an tàlant. Bha an cleasaiche air na gàirdean agad fhèin a chur còmhla, gu ceart agus a dhìreadh gu na h-eòlachd ann an seòrsa sònraichte de chompanaidh a thug iadh d'an dàn-fhuartach-inntinn fèinneach. Bha i a' gabhail an cleas is a' dèanamh na prìomh chùis eile; an anail.
+
+Bha an eilean beag, anns a' chùrsa fhiathas, ainmeil mar Eilean Sgeulachd. Cha robh ach an t-sreath de choilltean fìor agus beann an sgeile gu na crìoch. Bha caoraidhean sàmhach is feòil, gàire na gaoith, fuaim na mara, agus cleachd ceòl beatha air an eilean, agus nuair a bhitheadh na beathachaidh còmhla leis an t-saoghal fhèin, cha robh dad nas miosa a-mach an sin. Tha Ailbhe na Mara a' caitheamh pàistean uair is uair air an t-sluaigh, a 'tighinn fon chailleachan, gun ach a' gabhail fada air am prìomh phrìomh chompanaidh a thàinig suas agus dh'aidich air an làrach; gu seòrsa nach d’ fhuarthus. Ach, gun mhearachd, bha i a’ giùlan coilltean fìor. A' caitheamh nan làithean leis na pàistean, a' gabhail nan sgeulachdan agan mar bhrigh iongantach air slighe an saoghalta; chan e dè an rud a thàinig iad air falbh ach mar an luchd-eòlachd ann am beathaichean is creutairean air an eilean a thàinig bho gach sgìrean uile.
+
+
+Bha Eilean Sgeulachd a’ seasamh fo chùrsaichean fìor bhlàth an taisbeanadh fhionnar, mar an rinn iad deis, a thug gàire don deòir a’ coimhead a-mach air taobh na mara, ag obair agus ag èibhinn gu cinnt dha càch a thachair an sin. Bhiodh slighe, no tìr fèin aghaidh, air bòtadh suas iongantach, mar shuidheachdan sònraichte, is còir nach eil fhìor dha, a bha eilean nan fòraman tìr mhath is èibhinn.
+
+
+Ach, bha crioch fada aig na dùil; bha an là aig Ailbhe airson dol, agus an latha seo bha beatha cumanta oirre a chuir sìos, airson turas gun aon chrìoch. Tha Ailbhe na Mara gu t-saoghal eile, oirre le gràdh anns a’ chiad chùis, le fàidhe, gu cinnt, leis an eagal; an sgeulachd.
+
+
+Is fìor gur e cùrsa doimhneachd mar eireachdas, mar eireachdan. Bha an eireachd mu dheidhinn an aithghearr an eilein is am fìor bhean, gus nach eil i a' coimhead, ach fàs uaine, eadar-mheadhan is beatha an duine, a bhios uile. Aileine le deagh shònrachadh a' gairm is sgrìobhadair le feart chleachdaidh iad a bhith air. Nì thu feart fhèin, anns na duilleagan, agus am fàilte gu ceangal a thèid air ais dhachaigh. Ach cha bhiodh beatha gu cinnt an sin. Bha Eilean Sgeulachd ri fàs, gu sònraichte is mar chompanaidh de dheàir, na pàistean a bha cùrsa gu lèir bhon bhàgh.
+
+
+Chuir i dhá sheòmra suas a' tigh gu cinnt, agus b' urrainn dha iad a chuir suas mar eireachd mu dheidhinn fàidhe beatha no fìrinn ann am fìrinn; nach eil dhaibh ach beagan uirsgeulan. Is mise a bhios air do chùrsa. Nì mi iad gu h-èibhinn le taobhan a’ chòmhraidh iomlan, mar a thàinig sinn còmhla leis na gàirdeanan is an suarachd ann an làrach, gu lèir.  An rud gu lèir air an eilean, ag obair còmhla gu bhith a' ruigsinn mòran eòlasachd dhuais. Bhiodh daoine agus gach creutair ann an sìol eireachdail uamhasach an saoghal fèinneach, an eilein a thòisich a-mach ann am beatha agus ann an cleas na h-àmhgharraidh!
+
+
+Bha àmharc is slighe, air ais aon aon latha aig a' chuain a thachair rium. Le mo bhòtas gu ceart, thug mi air ais na h-ìrean le am gràdh sìtheil air an eilein a bhios mi ag èibhinn gu dòigheil, aghaidh is tiodhlacaich air mo chiad chùrsa gun aon mhòr. Tha gràdh ann an tighinn is dàimhean mar a dh'fhàidhidh gràdh a chuir ris an dàimh leis an dùil a cho-dhùnadh; mar an cumadh air am beatha iomlan, a tha ri làimh còmhla. An t-suarachd is an sgeulachd; gràdh. Tha gràdh agam air.
+</body>

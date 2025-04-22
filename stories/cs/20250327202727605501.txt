@@ -1,0 +1,62 @@
+<prompt>
+Please write a timeless Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Sladké dobrodružství s medvědem v lesní dílně'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>cs</lang_id>
+
+```xml
+<title>Sladké dobrodružství s medvědem v lesní dílně</title>
+<body>
+Kdysi dávno, v hlubokých českých lesích, kde stromy dosahovaly nebes a slunce si hrálo ve zlatých paprscích, žil malý chlapec jménem Tomáš. Tomáš měl rád všechno, co vonělo dřevem a medem, a jeho největší touhou bylo objevit lesní dílnu, o které si šeptali všichni ptáci a veverky. Říkalo se, že v ní žije moudrý medvěd, který peče nejlepší perníčky v celém kraji.
+
+Jednoho podzimního dne, kdy listí mělo barvu šafránu a rubínu, se Tomáš vydal na svou cestu. Vzal si s sebou jablíčko a malý, ručně malovaný dřevěný vozík. Cesta vedla klikatými stezkami, přes zurčící potůčky a pod mohutnými duby. Les ho vítal šuměním větví a zpěvem ptáků, kteří jako by mu chtěli ukázat správný směr.
+
+Po dlouhé chůzi, když už se slunce začalo sklánět k západu, zahlédl Tomáš kouř. Důkaz, že se něco děje! Kouř stoupal z malého domku, který byl postavený ze dřeva, mechu a šišek. Srdce mu poskočilo radostí. Toto musela být lesní dílna!
+
+Opatrně přistoupil ke dveřím a zaklepal. Ozvalo se hluboké „Pojď dál!“ Tomáš opatrně vstoupil dovnitř. Vůně medu, skořice a vanilky ho omámila. V dílně, osvětlené teplým světlem z kamenných kamen, stál velký, huňatý medvěd. Měl vousy posypané moukou a na nose brýle. Před ním ležel stůl plný perníčků různých tvarů a velikostí – srdíčka, hvězdičky, i medvídci!
+
+„Vítám tě, malý poutníčku,“ řekl medvěd s úsměvem. „Jsem Bruno a tohle je moje dílna. Co tě sem zavádí?“
+
+Tomáš se trochu styděl, ale s odvahou pověděl: „Povídali si, že tu pečete ty nejlepší perníčky na světě a že jste velmi moudrý. Chtěl bych se to od vás naučit.“
+
+Bruno se zasmál svým hlubokým hlasem. „Učit se, to je důležité. Ale pečení perníčků je víc než jen míchání ingrediencí. Je to o srdci a radosti.“ A ukázal na stůl. „Pojď, ochutnej. Který se ti líbí nejvíc?“
+
+Tomáš se nemohl rozhodnout. Všechny vypadaly úžasně. Nakonec si vybral perníkové srdíčko. Bylo tak krásně zdobené a chutnalo jako sen.
+
+„Výborně,“ řekl Bruno. „Ale naučíš se péct perníčky až potom, co mi pomůžeš. V lese se stalo něco neobvyklého.“
+
+Tomáš byl zvědavý. „Co se stalo?“
+
+„Včely,“ odpověděl Bruno. „Ztratily svou radost. Přestaly tvořit med. Bez medu nejsou perníčky tak sladké a šťavnaté, a les není veselý.“
+
+Tomáš s úžasem sledoval Bruna. „Co můžeme udělat?“
+
+Bruno se zamyslel. „Musíme najít ztracenou radost včel. A jediný, kdo s tím může pomoci, jsi ty, malý Tomáši.“
+
+A tak se začalo dobrodružství. Bruno připravil pro Tomáše speciální košík plný kouzelných dobrot: medové sušenky pro dodání síly, malý srp na sběr květů a šeptající kompas, který ukazoval cestu k místu, kde se ztracená radost včel ukrývá.
+
+Vydali se hluboko do lesa, kde Bruno vysvětlil, že včely ztratily radost kvůli stinnému stromu, který zakrýval slunce a neumožňoval květinám kvést. Tomáš a Bruno, následováni mlsnými veverkami, které ochutnávaly po cestě, narazili na obrovský, stinný dub.
+
+„Musíme s tím něco udělat,“ řekl Tomáš rozhodně.
+
+Bruno kývl. „Ale pozor, dub je chráněn a nesmíme ho zranit. Musíme ho přesvědčit, aby se posunul, aby slunce mohlo svítit na květiny.“
+
+Tomáš dostal nápad! Použil svůj malý dřevěný vozík a naplnil ho barevným listím a krásnými květinami, které nasbíral. Společně s Brunem se pokusili dub přemluvit. Prosil ho, aby se odsunul a pustil sluneční paprsky. Dub se však ani nehnul.
+
+Po dlouhé chvíli Tomáš zjistil, že stinný strom je smutný. Potřeboval někoho, kdo by se o něj staral. A tak se Tomáš rozhodl. Začal se starat o dub. Okolo dubu vykopal jamky, a nasypal do nich jablíčka, lesní plody a semínka. Všechno, co se mohlo líbit stínu. Začal ho polévat vodou a zpívat písničky. Věřil, že s laskavostí a trpělivostí se dá dokázat cokoliv.
+
+Zázrak se stal! Stinný strom se pohnul! Věnoval své větve a slunce začalo pronikat skrz, svítíc na krásné květiny, které se znovu rozzářily barvami. A jakmile sluneční paprsky dopadly na květiny, včely se znovu rozlétly a začaly sbírat nektar. Znovu začaly být veselé!
+
+Tomáš a Bruno se vrátili do lesní dílny, kde včelí med tekl proudem. Bruno pekl perníčky jako o závod, s Tomášem po boku. Tomáš se naučil spoustu věcí, nejen o pečení, ale i o přátelství, odvaze a síle dobrého srdce.
+
+A tenkrát se perníčky od Bruna staly ještě sladšími, protože byly pečené s láskou a radostí. A Tomáš, pokaždé, když voněl perníčky, si vzpomněl na to sladké dobrodružství s medvědem v lesní dílně, na stinný strom a na ztracenou radost včel. Věděl, že v životě je důležité pomáhat druhým, pečovat o sebe i o přírodu a že i malé srdce dokáže udělat velké věci. A každý rok, když se listí barvilo do zlatých a rubínových odstínů, se Tomáš vracel do lesní dílny a pekl perníčky s Brunem.
+Konec.
+</body>
+```

@@ -1,0 +1,37 @@
+<prompt>
+Please write a creative and original Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Pikkuhiiren Suuri Seikkailu Talvessa'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>fi</lang_id>
+
+<title>Pikkuhiiren Suuri Seikkailu Talvessa</title>
+<body>
+Pikkuhiiretä, nimeltä Pip, asui lumisen metsän laidalla pienessä, lämpimässä pesässä. Talvi oli tullut, ja lumi peitti maan valkoiseksi peitoksi. Puut seisovat kuin valkoiset patsaat, ja kylmä tuuli vihelsi metsän halki.  Pip oli pieni, mutta rohkeasti utelias hiiri, ja talvi vei hänet seikkailulle, jonka hän ei voinut kuvitellakaan.
+
+Yhtenä aamuna, kun aurinko valaisi metsää ja lumisade hiljeni, Pip päätti lähteä metsän syvyyksiin. Hänen pienet nenänliikkeet haistoivat outoja tuoksuja: mausteista leipää ja makeita marjoja.  Hän seurasi tuoksua kuin uskollinen koira, ja pian hän löysi pienen, lumisateesta suojattun kuusen juurelle, ja siellä se oli:  ihmeellinen, valtava, kuivatun omenan muotoinen talvikoti.
+
+Tämä talvikoti ei ollut vain omakotitalo. Siinä asui koko joukko metsän eläimiä: lumikettu, kettu, jänis, ja jopa pieni orava, nimeltä Örtti. He olivat kaikki keränneet talven varalle, ja yhdessä he suunnittelivat kuinka nauttia kylmästä, lumisesta talvesta. 
+
+"Tervetuloa, Pip!" huusi lumikettu, Tyyne. "Me olemme iloisia, että löysit tiensä tänne. Meillä on paljon tarjottavaa."
+
+Pip oli hämmentynyt. Hän oli tottunut elämään yksin, mutta tämä lämmin, tuttu yhteisö oli viehättävä.  Hän oppi metsän eläimistä kuinka käyttää lumia ja paksua jäätä jäänliukumiseen, ja kuinka löytää piilossa olevia talvinen herkkuja, kuten kuivattuja marjoja. Örtti opetti hänelle  kuinka rakentaa lumilinnoja, jotka olivat kuin lumipeitteiset palatsit. Pip oppi myös lumikellon salaisuuden, ja kuinka kuvata lumikuvioita jäällä.
+
+Yhdessä he viettivät päivänsä metsässä. He leikkivät lumilintuja, rakensivat lumilinnoja ja etsivät sopivia paikkoja tunnelmallisiin yöuniin.  Pip oppi kuuntelemaan metsän ääniä, tuulen huuruja ja lintujen laulua.  Hän ymmärtää kuinka tärkeää oli yhteistyö ja kunnioitus luonnon kiertokulun suhteen.
+
+Eräänä päivänä, kun he istuivat lämmintä, pienen kuusen juureen, Pip huomautti, että heillä oli suuri ongelma.  He olivat keränneet runsaasti talven varastoja, mutta heidän talvikoti oli lähes loppu.  Örtti kysyi: "Mikä on ratkaisu, Pip?" Pip pohti hetken. Hän muisti kuinka isä oli kertonut tarinoita metsästä, ja kuinka tärkeää oli kunnioittaa luontoa ja jakaa varoja.
+
+"Metsän syvyyksissä on varmasti muita lumisia paikkoja, jotka vastaavat meidän tarpeisiin", Pip ajatteli.  Yhteistyössä he päättivät etsiä metsän uusia, lumisia paikkoja ja jakaa löytämäänsä. He löysivät upean, suojattun kuusen, jossa oli paljon tilaa ja luonnon antimia.
+
+Se oli todella upeat uudet seikkailut. He löysivät upeita lumilinnun rakennuksia ja kuivattuja marjoja. Heidän yhdessä työnsä oli todella palkitsevaa. He tunsivat yhteenkuuluvuutta metsän kanssa ja oppivat kuinka tärkeää oli jakaa ja auttaa toisia. He ymmärsivät, että talvi ei ollut vain kylmää ja pimeää, vaan se oli myös aika oppia, seikkailla ja rakastaa luontoa.
+
+Pip, Örtti, Tyyne ja muut metsän eläimet viettivät loput talven yhdessä.  He oppivat toisistaan, ja heidän ystävyytensä vahvistui.  Talven lopussa, kun aurinko alkoi lämmittää maata ja lumi alkoi sulaa, Pip tiesi, että tämä seikkailu oli opettanut hänelle enemmän kuin hän olisi koskaan voinut kuvitella. Hän oli oppinut, että ystävyys ja yhteistyö ovat tärkeimpiä arvoja, ja että luonto on täynnä ihmeitä, jos vain otat sen vastaan.  Pip oli oppinut paljon, mutta hän tiesi myös, että seikkailut eivät ole loppuneet.
+
+Pip palasi metsään joka talvi, ja hänestä tuli tunnetuksi rohkeudestaan ja hyvyydestä.  Hän jatkoi seikkailujaan ja tutustui uusille ystäville ja oppi uutta metsän salaisuuksista.  Ja niin pikkuhiiret, ja metsän eläimet elättivät yhdessä lumisia talvia, jakamalla hyvää, yhteistä elämää.
+</body>

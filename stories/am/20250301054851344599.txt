@@ -1,0 +1,30 @@
+<prompt>
+Please write a emotional Amharic children's story that is at least 1000 words long.
+It must be completely written in proper Amharic (AM).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'የተራራ ላይ የሚኖሩ አራት አይነት አራዊት'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>am</lang_id>
+
+<title>የተራራ ላይ የሚኖሩ አራት አይነት አራዊት</title>
+<body>
+በጥንት ጊዜ ላይ አንድ ከፍታው ተራራ ነበረ። ተራራው ከፍታው ነበረ እንጂ ከባድ ስም ነበረው። የተራራው ስም አራት አይነት አራዊት ነበረ። አራት አይነት አራዊት ማለት አንድ ተራራ ላይ አራት አይነት አራዊት የሚኖሩ ነበሩ። 
+
+አራት አይነት አራዊት ስም ሲሆን እነርሱ እንዴት ነበሩ? እነርሱ ምን አይነት አራዊት ነበሩ? እነርሱ ምን ያህል በጊዜ ነበሩ? እነርሱ ምን ያህል በአኗኗር ነበሩ? እነርሱ ምን ያህል በባህሪያቸው ነበሩ? 
+
+እነርሱ አራት አይነት አራዊት ነበሩ። አንደኛው አራዊት ስም ጥቁር አራዊት ነበረ። ሁለተኛው አራዊት ስም ነጭ አራዊት ነበረ። አራተኛው አራዊት ስም ቀይ አራዊት ነበረ። አራተኛው አራዊት ስም ሸረጧ አራዊት ነበረ። 
+
+ጥቁር አራዊት እንዴት ነበረ? ጥቁር አራዊት ከፍታ ብሔራዊ ነበረ። ጥቁር አራዊት በጊዜው ብዙ ነበረ። ጥቁር አራዊት በአኗኗርው ብዙ ነበረ። ጥቁር አራዊት በባህሪያው አስተማረ። 
+
+ነጭ አራዊት እንዴት ነበረ? ነጭ አራዊት ከፍታ ብሔራዊ ነበረ። ነጭ አራዊት በጊዜው ብዙ ነበረ። ነጭ አራዊት በአኗኗርው ብዙ ነበረ። ነጭ አራዊት በባህሪያው አስተማረ። 
+
+ቀይ አራዊት እንዴት ነበረ? ቀይ አራዊት ከፍታ ብሔራዊ ነበረ። ቀይ አራዊት በጊዜው ብዙ ነበረ። ቀይ አራዊት በአኗኗርው ብዙ ነበረ። ቀይ አራዊት በባህሪያው አስተማረ። 
+
+ሸረጧ አራዊት እንዴት ነበረ? ሸረጧ አራዊት ከፍታ ብሔራዊ ነበረ። ሸረጧ አራዊት በጊዜው ብዙ ነበረ። ሸረጧ አራዊት በአኗኗርው ብዙ ነበረ። ሸረጧ አራዊት በባህሪያው አስተማረ። 
+
+አራት አይነት

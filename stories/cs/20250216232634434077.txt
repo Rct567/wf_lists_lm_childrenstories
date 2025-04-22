@@ -1,0 +1,66 @@
+<prompt>
+Please write a creative and original Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'O nejchytřejším liškovi v lesích'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>cs</lang_id>
+
+```cs
+<title>O nejchytřejším liškovi v lesích</title><body>
+V hlubokém, starobylém lese, kde sluneční paprsky tančily v prachu a stromech, žil lišák. Ne jen tak ledajaký lišák, ale lišák, o kterém se v celém lese šeptalo jako o nejchytřejším. Jmenoval se Ruda, a jeho kožíšek zářil barvou podzimního listí – sytě rezavý, s bílou náprsenkou a špičatýma ušima, které zachycovaly každý šelest.
+
+Ruda nebyl jako ostatní lišky. Nehonil se jen za myšmi a králíky. Ruda měl rád hádanky, hlavolamy a především... čtení. U domu starého hajného, kde kdysi býval statek, nacházel staré, zapomenuté knihy. Hajný už dávno nebyl, ale dům stál a knihy v něm přežívaly, plné příběhů o cestovatelích, kouzelnících a odvážných zvířatech.
+
+Jednoho dne, když slunce svítilo zvlášť jasně, Ruda objevil knihu s tlustými deskami, zdobenými vybledlými zlatými písmeny. "Dobrodružství mudrce Sováka," stálo na nich. Zvědavost ho přemohla. Vlezl do rozpadající se stavby, protáhl se úzkým oknem a u stolu, pokrytém vrstvou prachu, knihu otevřel.
+
+Příběh vyprávěl o sově, která hledala ztracený poklad. Poklad, který prý obsahoval moudrost celého světa. A aby ho našla, musela vyřešit tři obtížné hádanky, které hlídali lesní duchové. Ruda se začetl tak hluboce, že zapomněl na všechno kolem sebe.
+
+Po přečtení knihy se Ruda cítil plný inspirace. Rozhodl se, že se sám vydá na dobrodružství a pokusí se najít nějaký poklad. Ne ten s bohatstvím, ale poklad, který by prověřil jeho vlastní chytrost. Prohledal celý les. Zkoušel luštit hádanky, které si vymýšlel sám, a pozoroval chování zvířat, aby se od nich mohl učit.
+
+Jednoho dne, když se procházel kolem staré, duté dubové stromu, uslyšel tichý nářek. Zastavil se a zaměřil uši. Nářek vycházel zevnitř stromu. Opatrně se přiblížil a nahlédl do dutiny. Uvnitř, na malém kameni, seděla malá veverka, celá uplakaná.
+
+"Co se ti stalo, veverko?" zeptal se Ruda jemným hlasem.
+
+Veverka vzhlédla a utřela si tlapkou slzy. "Ztratila jsem svůj nejcennější oříšek," vzlykala. "Můj tatínek mi ho dal a já si ho chtěla schovat, ale spadl mi do díry a nemůžu se pro něj dostat."
+
+Ruda se podíval do díry. Byla hluboká a úzká, a oříšek byl vidět na samém dně. "Neboj se, veverko," řekl Ruda. "Pomůžu ti."
+
+Ruda se zamyslel. Musel najít způsob, jak oříšek dostat ven. Zkoušel strčit do díry tlapu, ale byla příliš velká. Pak se pokusil oříšek vyfoukat, ale díra byla příliš hluboká. Začal uvažovat jako mudrc Sovák z knihy. Musel použít svou chytrost.
+
+V tu chvíli si vzpomněl na potok, který teče nedaleko. Napadlo ho, že by mohl použít vodu. Běžel k potoku a naplnil si ústa vodou. Vrátil se zpět k díře a začal vodu pomalu pouštět dovnitř. Hladina stoupala, až se oříšek začal pomalu zvedat. Nakonec se oříšek dostal až k okraji, a Ruda ho tlapou zachytil.
+
+Veverka se radostí rozplakala. "Děkuji ti, lišáku! Jsi nejchytřejší lišák v celém lese!"
+
+Ruda se usmál a s veverkou se rozloučil. Cítil se dobře, ale ne jen kvůli komplimentu. Cítil uspokojení z toho, že dokázal pomoci.
+
+Další den, když Ruda procházel lesem, zaslechl tlumený hlas. Znělo to jako nářek. Šel za zvukem a objevil malého ježka, který se zasekl mezi kameny. Ježek se snažil dostat ven, ale jeho bodliny mu to znemožňovaly.
+
+Ruda přišel blíž. Musel si dávat pozor, aby se nezranil. "Neboj se, ježku," řekl Ruda. "Pomůžu ti."
+
+Ruda se znovu zamyslel. Prohlédl si situaci. Kolem kamene byla mokrá hlína. Napadlo ho, že by mohl hlínu použít jako mazivo. Pečlivě posbíral hlínu a začal ji nanášet na místo, kde byl ježek zaseknutý. Poté se snažil ježka opatrně vytáhnout.
+
+Chvíli to trvalo, ale nakonec se ježek uvolnil a dostal se ven. Byl celý ulepený od hlíny, ale šťastný. "Děkuji ti, lišáku," řekl ježek. "Jsi opravdu velmi chytrý."
+
+Ruda se znovu usmál. Radost z pomoci byla pro něj tou největší odměnou.
+
+Třetí den, když se slunce chýlilo k západu, našel Ruda u potoka malé zajíče, kterému se zamotala noha do provázku. Zajíček se bál a zoufale se snažil dostat ven, ale provázek se mu pouze utahoval.
+
+Ruda přišel k zajíčkovi a opatrně mu prohlédl nohu. "Neboj se, zajíčku," řekl Ruda. "Už to bude."
+
+Ruda se podíval na provázek. Byl tenký a silný. Musel ho rozvázat nebo přeříznout. Vzpomněl si na ostré kameny, které viděl u potoka. Běžel k nim a vybral si jeden s ostrou hranou. Vrátil se zpět k zajíčkovi a opatrně provázek přeřízl. Zajíček se osvobodil a s radostí odběhl.
+
+"Viděl jsi to, Rudo?" ozvalo se najednou.
+
+Ruda se otočil a uviděl starého, moudrého sováka, který seděl na větvi stromu. "Byl jsem svědkem tvých činů, lišáku," řekl sovář. "Použil jsi svou chytrost nejen k vlastnímu prospěchu, ale i k dobru ostatních. To je ta největší moudrost."
+
+Sova se snesla dolů a přistála před Rudou. "Hledal jsi poklad, Rudo. A našel jsi ho. Pokladem není zlato ani drahokamy, ale laskavost a schopnost pomáhat. To je nejcennější poklad ze všech."
+
+Ruda se usmál. Pochopil. Jeho dobrodružství po lese ho naučilo to nejdůležitější: že chytrost není jen o luštění hádanek, ale především o tom, jak ji využít pro dobro ostatních. A tak, i když se o něm v lese stále mluvilo jako o nejchytřejším lišákovi, Ruda věděl, že to nejdůležitější je být laskavý a pomocný. A to byl poklad, který si uchovával v srdci navždy. A slunce na něj zářilo ještě jasněji, protože vědělo, že na světě existuje lišák, který chápe skutečný význam moudrosti.
+</body>
+```

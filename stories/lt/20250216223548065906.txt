@@ -1,0 +1,35 @@
+<prompt>
+Please write a creative and original Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Karaliaus ir jo sūnaus nuotykiai'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lt</lang_id>
+
+<title>Karaliaus ir jo sūnaus nuotykiai</title>
+<body>
+Karalius Gediminas, su šviesiai ruda barzda ir žydrais, kaip vasaros dangus, akimis, valdė nuostabų Žaliųjų kalvų kraštą.  Jo rūmai, išraižyti iš aukso spalvos akmens ir puošti gėlėmis, žydėjo tarsi pasakų sodas.  Bet karalius Gediminas nebuvo paprastas karalius.  Jis svajojo apie paslaptingą Žemės širdį, apie kraštą, kur augo magiški medžiai ir tekėjo kalnų upės, žvilgančios kaip deimantai.
+
+Jo vienintelis sūnus, jaunas ir drąsus princas Algirdas, pavelėjo tėvo aistrą nuotykiams.  Su kiekviena diena Algirdo žvilgsnis imdavo šviesėti, tarsi įdegęs nuo Saulės nuotykio ugnies.  Jam pasakojo apie nuostabias būtybes, apie dvasias, gyvenantį medžiuose ir šnabždėję paslaptis, apie gyvūnus, kurių akys spindėjo kaip žvaigždės.
+
+Vieną saulėtą rytą, Gediminas pasikvietė Algirdą į savo kabinetą, kuriame stovėjo didžiulis žemėlapis, žymėjęs neįžengiamus kalnus ir paslaptingas upes.
+
+„Mano sūnau“, – kalbėjo karalius, – „jaučiuosi, kad mano laikas artėja prie pabaigos.  Žinau, kad tu esi drąsus ir protingas.  Eik, rask Žemės širdį ir parnešk man jos paslaptį.“
+
+Algirdas širdgėliais, kupinas didžio nuotykio, sutiko.  Jis apsirengė savo geriausias keliautojo drabužius, apsivilko  šarvus, kurie spindi tarsi saulė, ir pasipuošė savo tėvo, Karaliaus Gedimino, dovanota žvaigždžių formos kardu.
+
+Kelionė buvo ilga ir pavojinga.  Algirdas keliavo per šaltas dykumas, per žalius miškus, per kalnus, aukštus kaip dangus. Jis susidūrė su piktais velniais, kurie norėjo pavogti jo drąsą ir paslaptis.  Bet Algirdas, remdamasis savo tėvo išmintimi ir drąsa, nugalėjo visas kliūtis.  Jis susipažino su linksmais nykštukais, kurie dalijosi savo žiniomis, ir su draugiškomis giesmininkėmis, kurios dainavo jam apie paslaptingas žvaigždes.
+
+Vieną dieną, už kalnų viršūnės, jis pasiekė nuostabų slėnį.  Slėnis atrodė tarsi išraižytas iš aukso ir deimantų.  Ten, tarp švytinčių krištolo upių ir  magiškų medžių, stovėjo Žemės širdis – didelis, ryškiai auksas atspindintis akmuo, žydintis įvairiaspalvėmis gėlėmis.
+
+Algirdas priėjo prie akmens ir jautė, kaip iš jo atsiveria nepaprasta šviesa.  Jis suprato, kad tai yra ne tiesiog akmuo, o durys į paslaptingą pasaulį.  Akmuo šnabždėjo jam paslaptis apie visų gyvųjų esmę ir žvaigždžių šnabždesius.  Algirdas suprato, kad Žemės širdys yra paslaptis, saugančios visų pasaulių grožį.
+
+Algirdas grįžo į savo tėvo rūmus, rankose nešdamas stebuklingą akmenį.  Jis papasakojo viską, ką išmoko savo kelionėje, apie draugus, pavojus ir žvaigždes.  Karalius Gediminas džiaugėsi sūnaus nuotykiu ir suprato, kad Žemės širdį jis rado ne viename akmenyje, o savo sūnaus širdyje.
+
+Nuo to laiko princas Algirdas tapo žinomu visame Žaliųjų kalvų krašte.  Jis tapo nuostabių pasakų ir legendų dalimi.  O karalius Gediminas, nors ir senas, jaučiasi jaunas, kai žvelgia į savo drąsaus sūnaus akis.  Ir taip, nuotykių kelias tęsiasi, pasakojant naujas istorijas, o Žaliųjų kalvų kraštas žydi, kupinas paslapčių ir nuotykių.
+</body>

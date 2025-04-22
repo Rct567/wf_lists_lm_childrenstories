@@ -1,0 +1,49 @@
+<prompt>
+Please write a relatable Croatian children's story that is at least 1000 words long.
+It must be completely written in proper Croatian (HR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Veseli šumski stanovnici i njihove price'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hr</lang_id>
+
+<title>Veseli šumski stanovnici i njihove price</title>
+<body>
+Ivana je živjela u malom selu podno prekrasne planine.  Iznad kuća su se pružale guste šume, prepune tajni i čuda. Ivana je obožavala šetati šumom, slušati pjevanje ptica i tragati za životinjama.
+
+Jednog sunčanog jutra, dok je Ivana lutala šumom, naišla je na malu, drvenu kućicu skrivenu među drvećem.  Na vratima je stajao mali, smeđi medvjedić sa zlatnim očima.
+
+"Dobro jutro!", rekao je medvjedić nježnim glasom.  "Možda ti želiš čuti neku priču?"
+
+Ivana je bila oduševljena.  "Naravno!", rekla je. "Obožavam priče."
+
+Medvjedić se nasmiješio. "Dobro, onda slušaj. Živjela sam u ovoj šumi više od stotinu zima, i vidjela sam mnogo čuda. A jedna od njih je priča o maloj žabici po imenu Zvonka."
+
+"Zvonka je bila mala žabica sa prekrasnim zeleno-žutim trbuhom.  Živjela je u malom potoku koji se slijevao niz padine planine.  Zvonka je obožavala pjevati.  Njen glas je bio tako lijep da bi se čuo čak i preko drveća.
+
+No, Zvonka je imala i jedan problem.  Bila je vrlo stidljiva.  Bojala se drugih životinja i nikada nije imala hrabrosti otpjevati pjesmu pred drugim životinjama.
+
+Jednog dana, dok je pjevala svojoj maloj družini u potoku, naišla je na skupinu veselih lisica.  Lisice su se smijali i rugali se njenom stidljivosti.  Zvonka je bila duboko povrijeđena, i prestala je pjevati.
+
+Tužna i sama, Zvonka se povukla u svoj mali, močvarni dom.  Tamo se skrivala, osjećajući se kao da je svijet prepun nepravdi.  Bila je toliko stidljiva da je zaboravila i svoje prekrasne pjesme.
+
+Ali, jednog jutra, u susjednom grmu, Zvonka je čula lijepu pjesmu. Bila je to ptica s prekrasnim perjem.  Zvonka se usudila pogledati kroz lišće i vidjela prekrasnu pticu, koja je pjevala o ljepoti šume i prijateljstvu.
+
+Ptica je na kraju otpjevala pjesmu o hrabrosti i tome kako je važno izraziti sebe.  Zvonka je pogledala pticu, a zatim pogledala sebe. Shvatila je da je i ona uistinu lijepa. Shvatila je da su njene pjesme posebne i da ne smije dopustiti da stidljivost uništi njezinu sreću.
+
+Od tog dana, Zvonka je pjevala još glasnije.  Njene pjesme su se proširile kroz cijelu šumu.  Lisice su prestale rugati se i počele su je slušati, zadivljene njezinim prekrasnim glasom.  Ubrzo su postale njene prijateljice.
+
+Zvonka je naučila da je važno biti hrabra i da je ljepota u tome što si, jednostavno, ti.  I na kraju, svi u šumi su shvatili da se ljepota skriva i u stidljivosti i da je najvažnije biti sretan, bez obzira na to što drugi misle."
+
+Ivana je slušala medvjedića, a kroz njezine oči su se slijevale suze.  Bila je duboko dirnuta priču o Zvonki.
+
+"Hvala ti, medvjediću", rekla je Ivana. "Ova priča je prekrasna."
+
+Medvjedić se nasmiješio.  "Uvijek sam sretan kad mogu podijeliti svoju priču", rekao je.  "I zapamti, draga Ivana, u šumi postoje mnoge priče o hrabrosti, prijateljstvu i ljepoti.  Samo trebaš otvoriti oči i uši."
+
+Ivana se nasmiješila.  Ona se zauvijek zapamtila ove priče.  I znala je da će se Zvonkina priča, kao i druge priče, uvijek vraćati u njezine misli i srce, obogaćujući ih.  Od tog trenutka, Ivana je imala još veću radost od šetnji kroz šumu.  Ona je čula šumu i vidjela njezine tajne, i shvatila da je svaki njezin korak u šumi korak u susret nečem novom i čarobnom.
+</body>

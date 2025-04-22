@@ -1,0 +1,107 @@
+<prompt>
+Please write a dialog-based Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Chuyện Kể Về Chú Sóc Nhỏ Dũng Cảm Cứu Rừng Xanh Khỏi Mùa Hè Khô Hạn'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>vi</lang_id>
+
+```vi
+<title>Chuyện Kể Về Chú Sóc Nhỏ Dũng Cảm Cứu Rừng Xanh Khỏi Mùa Hè Khô Hạn</title>
+<body>
+Trong khu rừng Xanh thẳm, nơi cây cối vươn mình đón ánh nắng mặt trời, có một chú sóc nhỏ tên là Chip. Chip có bộ lông màu hạt dẻ, đôi mắt đen láy lanh lợi và cái đuôi bông xù lúc nào cũng phe phẩy. Mùa hè năm nay, cái nắng gay gắt trở nên khắc nghiệt hơn bao giờ hết. Trời không mưa, dòng suối cạn dần, lá cây khô héo, cả khu rừng như đang khát.
+
+Một buổi sáng, Chip đang nhặt nhạnh hạt dẻ dưới gốc cây cổ thụ thì nghe tiếng thở dài thườn thượt của cụ Rùa. Cụ Rùa già nhất rừng, đã chứng kiến bao nhiêu mùa hè đến rồi đi.
+
+"Chao ôi, nóng quá, nóng quá! Mùa hè này thật là khủng khiếp!" cụ Rùa than thở, cố gắng rụt cổ vào chiếc mai cứng cáp.
+
+Chip nhanh nhẹn chạy đến bên cụ, lễ phép hỏi: "Thưa cụ, cụ có sao không ạ? Trời nóng thật đấy ạ."
+
+"Cháu thấy đó, Chip ạ. Nắng nóng làm khô hạn cả rừng. Không có nước, cây cối không sống nổi, rồi cả chúng ta cũng không còn gì để ăn nữa," cụ Rùa buồn rầu trả lời.
+
+Chip ngước mắt nhìn quanh. Quả thật, khu rừng quen thuộc đã khác đi. Lá cây vàng úa, những con suối nhỏ khô cạn. Tiếng kêu than của các loài vật vang vọng khắp nơi.
+
+Chip suy nghĩ một lát, rồi nói: "Cụ ơi, cháu nghĩ mình phải làm gì đó thôi ạ. Chúng ta không thể cứ ngồi yên được."
+
+Cụ Rùa nhìn chú sóc nhỏ với ánh mắt ngạc nhiên: "Nhưng chúng ta có thể làm gì bây giờ, Chip? Cháu còn bé quá."
+
+"Cháu…cháu sẽ đi tìm nước," Chip quả quyết. "Cháu sẽ đi đến nơi có nước, rồi mang nước về cho mọi người."
+
+Cụ Rùa lắc đầu: "Xa lắm đấy, Chip. Đường đi hiểm trở, cháu lại bé nhỏ…"
+
+Nhưng sự quyết tâm của Chip đã được thể hiện rõ trong đôi mắt. Cụ Rùa mỉm cười, rồi nói: "Được rồi, nếu cháu đã quyết tâm, cụ sẽ ủng hộ cháu. Nhưng cháu phải cẩn thận nhé."
+
+Thế là, Chip bắt đầu cuộc hành trình cứu rừng của mình.
+
+Chào tạm biệt cụ Rùa, Chip lên đường. Trên đường đi, chú gặp bác Nai, đang đứng rầu rĩ bên bờ suối cạn.
+
+"Chào bác Nai," Chip chào hỏi. "Cháu đi tìm nước."
+
+Bác Nai thở dài: "Khổ thân, mùa hè năm nay thật là khắc nghiệt. Cháu có tìm thấy nước không thì mách bác với."
+
+"Cháu sẽ cố gắng ạ," Chip đáp.
+
+Chip tiếp tục đi. Chú băng qua những bụi rậm, leo lên những ngọn đồi. Nắng càng lúc càng gay gắt, khiến Chip cảm thấy khát nước vô cùng. Nhưng nhớ đến lời hứa với cụ Rùa và mong muốn cứu lấy khu rừng, Chip vẫn cố gắng đi tiếp.
+
+Đến trưa, Chip gặp chị Hươu cao cổ. Chị đang tìm kiếm những chiếc lá xanh non trên ngọn cây.
+
+"Chào chị Hươu," Chip cất tiếng.
+
+Chị Hươu quay lại, dáng vẻ mệt mỏi: "Chào cháu. Cháu đi đâu đấy?"
+
+"Cháu đi tìm nước ạ. Rừng mình đang khát quá," Chip nói.
+
+"Khổ thân cháu," chị Hươu đáp. "Chị cũng rất lo lắng. Nếu không có nước, bọn chị sẽ không có gì để ăn."
+
+Chip đến một con suối cạn, chỉ còn trơ lại những viên sỏi trắng. Chú thấy đau lòng. Chợt, Chip nghe tiếng kêu yếu ớt. Chú chạy lại xem. Thì ra là anh Khỉ con bị mắc kẹt dưới một tảng đá lớn.
+
+"Cứu…cứu tôi…" anh Khỉ con yếu ớt lên tiếng.
+
+Chip không do dự, nhanh chóng chạy đến. Chú cố gắng đẩy tảng đá lên. Tuy nhỏ bé, nhưng với sự quyết tâm, Chip đã dùng hết sức lực của mình. Cuối cùng, tảng đá cũng dịch chuyển được một chút. Chip nhanh chóng chui vào, giúp anh Khỉ con thoát ra.
+
+"Cảm ơn cháu nhiều lắm," anh Khỉ con nói. "Cháu đã cứu mạng tôi đấy."
+
+Chip mỉm cười: "Không có gì ạ. Anh có bị thương không?"
+
+"Không, tôi không sao. Cháu đi đâu đấy?" anh Khỉ con hỏi.
+
+Chip kể lại về cuộc hành trình tìm nước của mình.
+
+Anh Khỉ con nghe xong, mắt sáng rực lên: "Để tôi đi cùng cháu. Tôi biết một nơi có nước, rất xa ở cuối rừng."
+
+Chip vui mừng khôn xiết. "Tuyệt vời! Chúng ta cùng đi!"
+
+Hai người bạn cùng nhau lên đường. Họ đi suốt cả buổi chiều, băng qua những con đường mòn, vượt qua những con dốc. Cuối cùng, họ đến một thung lũng xanh tươi, nơi có một hồ nước trong veo.
+
+Chip và anh Khỉ con reo lên vì sung sướng.
+
+"Tuyệt quá!" Chip thốt lên.
+
+"Nhưng làm sao để mang nước về cho mọi người bây giờ?" anh Khỉ con hỏi.
+
+Chip nghĩ ngợi một lát. Chú nhìn quanh, thấy những chiếc lá sen to tướng.
+
+"Chúng ta sẽ dùng lá sen làm thùng chứa," Chip nói.
+
+Hai chú cùng nhau dùng lá sen hứng đầy nước. Tuy nhiên, việc mang những chiếc lá sen nặng trĩu về lại khu rừng không hề dễ dàng.
+
+Trên đường về, Chip và anh Khỉ con gặp rất nhiều khó khăn. Họ phải đi qua những con đường dốc, vượt qua những bụi rậm, và đối mặt với cả những cơn gió mạnh. Nhưng cả hai đều không nản lòng. Họ chia nhau mang nước, nghỉ ngơi khi mệt mỏi, và động viên nhau đi tiếp.
+
+Khi về đến khu rừng, mọi người đều mừng rỡ. Ai cũng hân hoan chào đón Chip và anh Khỉ con.
+
+"Chip dũng cảm!" cụ Rùa già cất tiếng. "Cháu đã cứu được khu rừng của chúng ta."
+
+Chip mỉm cười, mệt nhưng vui sướng. Chú và anh Khỉ con chia nhau đổ nước vào những chiếc suối cạn, tưới cho những cây cối khô héo.
+
+Nhờ có nước, những chiếc lá xanh tươi dần dần xuất hiện trở lại, những bông hoa đua nhau khoe sắc. Các loài vật lại có thức ăn, và tiếng cười lại rộn rã khắp khu rừng.
+
+Mùa hè khô hạn cuối cùng cũng qua đi. Chip, chú sóc nhỏ dũng cảm, đã trở thành anh hùng của rừng Xanh. Từ đó, mỗi khi mùa hè đến, Chip luôn được mọi người nhớ đến và biết ơn.
+
+Và câu chuyện về chú sóc nhỏ Chip dũng cảm cứ thế được truyền miệng từ đời này sang đời khác, trở thành một bài học về lòng dũng cảm, sự đoàn kết và tình yêu thương thiên nhiên.
+</body>
+```

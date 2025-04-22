@@ -1,0 +1,53 @@
+<prompt>
+Please write a educational Malagasy children's story that is at least 1000 words long.
+It must be completely written in proper Malagasy (MG).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>mg</lang_id>
+
+<title>Ny Tantaran'i Ranomasina sy ny Kintana</title>
+<body>
+Ny Ranomasina, zazavavy kely iray nanana volo mainty toy ny hariva ary maso mavo toy ny masoandro, dia tia nandinika ny lanitra.  Niankina tamin'ny hazo fijaliana izy, ny vatany kely dia nirefy ny rivotra, ary nandinika ny kintana izay niparitaka toy ny vato sokitra eo amin'ny lanitra mainty.  Nefa tsy nisy kintana indray andro izay nanintona ny sainy toy ny kintana iray, kintana mena misy hazavana mamirapiratra.
+
+“Iza no kintana io?” hoy i Ranomasina, niteny moramora.
+
+“Izany no kintana manome hazavana amin'ny alina rehetra,” hoy ny feo iray avy eo ambanin'ny hazo.
+
+Nijery i Ranomasina.  Nisy lehilahy kely nanana volo fotsy toy ny oram-panala ary vazivazy mainty toy ny alina.  Ny masony dia toy ny kintana mena mamirapiratra izay nampianatra azy.
+
+“Ianao ve no kintana?” hoy i Ranomasina.
+
+“Tsy ahoana aho, Ranomasina.  Fa izaho no mpitari-dalana ny kintana, mpitondra ny alina.  Ny kintana dia toy ny masoandro kely, naterak'ny masoandro ihany.  Izaho no manampy ny masoandro hanao ny asany, hanao ny fotoana sy ny vanim-potoana.”
+
+“Ahoana no anaovanao izany?” hoy i Ranomasina, feno fanontaniana.
+
+“Ny kintana dia manana ny asany, ary ny masoandro ihany koa.  Ny kintana dia manome hazavana amin'ny alina, manampy ny biby sy ny olona hanao ny asany, ary manome aingam-panahy ny mpanao asa tanana.  Ny masoandro dia manome hafanana sy hazavana amin'ny andro, manampy ny zavamaniry hitombo ary ny biby hanao ny asany.”
+
+“Fa ahoana no anaovanao ny fotoana?” hoy i Ranomasina.
+
+“Ny fihodinan'ny tany, Ranomasina, no manamboatra ny andro sy ny alina.  Ny masoandro sy ny kintana dia manampy ny tany hihodina, mba hitoetra eo amin'ny lalany.  Izaho, ny mpitari-dalana, dia mampiditra ny kintana rehetra mba haneho ny lalana, ny fotoana, sy ny vanim-potoana.  Ny kintana tsirairay dia manana ny toerany sy ny asany.”
+
+“Fa nahoana ny kintana no mamirapiratra?” hoy i Ranomasina, nandinika ny kintana mena.
+
+“Ny kintana dia naterak'ny masoandro, ary izy ireo dia manana ny hazavany manokana.  Ny halaviran'ny kintana amin'ny masoandro dia mamaritra ny fahazavany, misy ny kintana akaiky sy lavitra.  Ny kintana akaiky dia mamirapiratra kokoa, ary ny kintana lavitra dia mamirapiratra kely kokoa.”
+
+Ranomasina dia nihaino hatrany, ny foany feno fahatakarana.  Nianatra momba ny fifandraisan'ny kintana sy ny masoandro izy, momba ny asan'ny kintana, momba ny toerana misy azy eo amin'ny lanitra.  Nianatra ny fomba hanamarihana ny fotoana sy ny vanim-potoana izy.
+
+“Misaotra anao, mpitari-dalana,” hoy i Ranomasina.
+
+“Tsy misy na inona na inona, Ranomasina.  Ataovy amim-paharetana ny fianaranao, ary ho hitanao ny zava-miafina rehetra ao amin'ny lanitra sy ny tany.”
+
+Niankina tamin'ny hazo fijaliana i Ranomasina,  ary nitazana ny kintana mena mamirapiratra.  Nefa tsy nisy kintana nampianatra azy intsony.
+
+Nianatra i Ranomasina, ary nanomboka nandinika ny lanitra tamin'ny fomba hafa.  Nianatra ny fomba hanamarihana ny fotoana sy ny vanim-potoana izy, ary nanomboka nampitombo ny fahalalany momba ny kintana sy ny masoandro.  Nanomboka nampianatra ny hafa koa izy, nambarany ny zava-miafina rehetra momba ny lanitra.  Nanao ny asany izy, toy ny mpitari-dalana kely, manampy ny hafa hahatakatra ny zava-miafina ao amin'ny lanitra.
+
+Ny tantaran'i Ranomasina sy ny kintana dia mampianatra antsika ny zava-miafina ao amin'ny lanitra sy ny tany.  Ny faharetana sy ny fianarana dia manampy antsika hianatra ny zava-miafina rehetra.  Ary izaho, ny mpitari-dalana, dia eto foana mba hitondra anareo, mba hianarana, mba hahatakatra.
+
+
+Ny kintana dia manome hazavana amin'ny alina, manampy ny olona hanao ny asany, ary manome aingam-panahy ny mpanao asa tanana.  Ny masoandro dia manome hafanana sy hazavana amin'ny andro, manampy ny zavamaniry hitombo ary ny biby hanao ny asany.  Raha tsy misy ny masoandro sy ny kintana, dia ho maizina sy mangatsiaka ny tany.  Noho izany dia tokony hankasitraka ny kintana sy ny masoandro isika.
+</body>

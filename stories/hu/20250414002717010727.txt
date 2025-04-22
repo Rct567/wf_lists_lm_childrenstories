@@ -1,0 +1,57 @@
+<prompt>
+Please write a simple and easy-to-follow Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A három kismalac és a szélfútta kis házikó nagyszerű kalandjai.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>hu</lang_id>
+
+```html
+<title>A három kismalac és a szélfútta kis házikó nagyszerű kalandjai.</title>
+<body>
+Egyszer volt, hol nem volt, volt egyszer három kismalac testvér. Ők voltak: Pufi, Picur és Pöttyös. Pufi volt a legidősebb, egy kicsit lassúbb, de nagyon jóindulatú. Picur volt a középső, mindig vidám és egy kicsit pajkos. Pöttyös volt a legfiatalabb, okos és nagyon kíváncsi.
+
+Élt a három kismalac egy nagy, zöld réten, a szüleikkel együtt. Amikor felnőttek, az anyukájuk azt mondta nekik: "Elérkezett az idő, hogy a saját lábatokra álljatok, és magatoknak házat építsetek!"
+
+Pufi egy nagy tölgyfa árnyékában álmodozott. "Én egy kényelmes, vastag falú házat építek, hogy biztonságban legyek a hideg ellen!" - mondta. Elindult, hogy építőanyagot keressen.
+
+Picur már a napraforgókkal táncolt. "Én egy könnyű, vidám házat építek, hogy mindig szórakoztató legyen benne!" - kiáltotta. Felfedezett egy rengeteg vékony nádszálat a patak partján, és összegyűjtötte őket.
+
+Pöttyös azonnal belevetette magát a munkába. "Én egy erős, praktikus házat építek, hogy megvédjen a veszélytől!" - gondolta. Elment, hogy kemény téglákat szerezzen.
+
+Pufi talált egy rakás vastag rönköt a közeli erdőben. Megtörölte a homlokát, és nekilátott a munkához. Nagyon sokat dolgozott, de mire elkészült a házával, már esteledett. A ház fala vastag volt, a teteje szilárd, de egy kicsit kényelmetlennek tűnt. "Hú, de fáradt vagyok!" - sóhajtott Pufi, és bement a házba.
+
+Picur már készítette a nádszálakból a házát. A nádfedeles házikó hamar elkészült, olyan könnyű és szellős volt, hogy a szél is át tudott fújni rajta. Picur örömében táncolt, majd bement a házikójába, és leheveredett a kényelmes kis szőnyegére.
+
+Pöttyös szorgalmasan rakta a téglákat, szépen egymásra. Falat épített, ablakot, ajtót, és még kéményt is. Mire elkészült, már sötét volt, de a háza erős és biztonságos volt. Végül felállította a kéményt, és betett egy kis tüzet a kandallóba. Ezután belépett a házikójába, és nagyon elégedett volt.
+
+Másnap a nagy, fújni szerető szélfútta érkezett. Először Pufi házához ment. "Fúúúúújok!" - mondta a szél. "Takarodj, nagy szél!" - rivallt Pufi. A szél nekifeszült, és fújt, fújt, fújt… de a ház nem mozdult. A szélfútta egy kicsit meglepődött. A ház még csak meg se rezzent!
+
+"Na, a következő könnyebb lesz!" - gondolta a szél, és elment Picur házához. "Fúúúúújok!" - kiáltotta. "Ó, ne már, megint te?" - kérdezte Picur. A szélfútta erősen fújt. A házikó azonban nem tudott ellenállni a szél erejének, a szélfútta könnyedén lefújta a nádfedeles házikót. Picur, szerencsére, éppen kiment a házikóból, így megúszta a dolgot egy nagy adag kacagással.
+
+A szélfútta egyre mohóbb lett, és Pöttyös házához sietett. "Fúúúúújok!" - kiáltotta, és hatalmasat fújt. "Én ezt már várom!" - válaszolt Pöttyös. A szél fújt és fújt, de a tégla ház nem mozdult. A szél egyre erősebben fújt, de a ház a helyén maradt. A kéményből kicsi szikra szökött a szél felé, és a szélfúttát felháborította, hogy semmi nem történik. Végül a szélfútta kifáradt és feladta a küzdelmet.
+
+A szélfútta nagyon csalódott volt. Addigra a kismalacok mind a három házában éltek már.
+
+"Mit csináljunk most?" - kérdezte Pufi.
+"Talán együtt?" - javasolta Picur.
+"De hogyan?" - tűnődött Pöttyös.
+
+Ekkor Pöttyös eszébe jutott valami. "Tudom! A szélfútta a legkevésbé tudja legyőzni a barátságot! Én a tégla házamban biztonságot nyújtok nekünk. Pufi, te hozhatnál sütnivaló lisztet. Picur, te a szórakozást hozod, mert ebben jó vagy! Én pedig a biztonságot megteremtem, ami most nagyon kell nekünk."
+
+Így is tettek. Pufi hozott lisztet és egyéb finomságokat. Picur dalokat énekelt, történeteket mesélt, és táncolt. Pöttyös megfigyelte az ablakból a szélfúttát, de az nem mert már közeledni. Este mind a hárman nagy asztalhoz ültek. Pöttyös a sütéshez, Pufi pedig a sütés után a hatalmas lakomához keverte a hozzávalókat.
+
+Másnap, ahogy kinyitották a nagy ajtót, egy meglepő dolgot láttak. A szélfútta egy nagy zsákra volt kitéve a házikó előtt. Tele volt a zsák a szélfútta által a legkülönfélébb tárgyakkal összegyűjtött ajándékokkal. Ékszer, faág, toll, falevél… Minden, ami a szélhez közel volt, egy zsákban hevert. A kismalacok, akiket megérintett a szélfútta ajándéka, meghívták a szélfúttát.
+
+A szélfútta, akit még soha senki nem hívott meg, örömében szétfújta a szomszédos tölgyfa lombkoronáját. Sütöttek a közösen összegyűjtött holmikból ebédet, a szélfútta segített a tésztagyúrásban, a kismalacok pedig a mesélésben. A szélfútta annyira jól érezte magát, hogy egy óriási felhő formájában megfestette a kismalacok új, nagyszerű házának tetőszerkezetét.
+
+Attól a naptól fogva a kismalacok és a szélfútta legjobb barátok lettek. A szélfútta többé nem akart senkinek sem ártani. Néha-néha, amikor nagyon szomorú volt, odament a házikóhoz, és enyhe szellőt fújt, hogy a kismalacok tudják, hogy velük van. A kismalacok pedig mindig meghívták a szélfúttát, hogy játsszanak együtt, és enni kapjon a finom ételekből.
+
+Pufi végül rájött, hogy a legfontosabb dolog nem a vastag falak, hanem a szeretet és a gondoskodás. Picur rájött, hogy a vidámság nem ér semmit, ha nincs biztonság, ami megvédi. Pöttyös pedig megtanulta, hogy a barátság többet ér, mint a legszilárdabb tégla. A három kismalac a nagyszerű kalandjukkal sok-sok jó barátot szerezett, és mindig egymásra számíthattak. És a szélfútta is megtanulta, hogy a szeretet mindennél erősebb, és hogy a barátság a legszebb ajándék. Így élték boldogan a mindennapjaikat, egy olyan házikóban, amit már nem fenyegetett a szélfútta ereje. És a tanulság? A barátság ereje legyőzi a vihart, és a közös összefogás a legnagyszerűbb kaland!
+</body>
+```

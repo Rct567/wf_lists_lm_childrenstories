@@ -1,0 +1,61 @@
+<prompt>
+Please write a emotional Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A macik, akik elmentek horgászni a tóra hamar.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>hu</lang_id>
+
+```xml
+<title>A macik, akik elmentek horgászni a tóra hamar.</title>
+<body>
+Élt egyszer, az erdő mélyén, egy kis család mackó. Apa maci, anya maci, és két kis bocs, Misi és Panna. Nagyon szerettek együtt lenni, játszani, énekelni, és természetesen, finom mézet enni. Egy nap, amikor a tavasz már zöldbe öltöztette az erdőt, Apa maci azt mondta: „Gyerekek, ma horgászni megyünk a tóra! Na, ki tart velem?”
+
+Misi, a nagyobbik bocs, egyből ugrált örömében. „Én! Én megyek! Szeretek horgászni, és olyan jó halakat sütni!” Panna, a kisebbik bocs, egy kicsit habozott. Ő inkább a virágokat szerette, és a pillangókat kergette. De végül a nagytestvére és az édesanyja biztatására ő is igent mondott.
+
+Apa maci nagy gonddal előkészített mindent. Elővette a horgászbotokat, a csalit (szép, piros kukoricát), és persze, nem felejtette ki a kosarat sem, ahová a zsákmány kerül majd. Anya maci finom pogácsákat sütött, és gondoskodott a szörpről, mert egy hosszú nap a tóparton elég fárasztó lehet.
+
+Reggel korán, a napfelkelte sárga sugarai közt, elindult a maci család a tó felé. Misi alig várta, hogy dobhasson a horoggal, Panna pedig kíváncsian nézelődött, minden bokorban felfedezve valamit. Apa maci büszkén vezette őket, anya maci pedig folyton biztatta a kicsiket, hogy figyeljenek a lépteikre, nehogy eltévedjenek.
+
+A tóhoz érve, megtalálták a legjobb helyet. Egy nagy, árnyékos fűzfánál telepedtek le, a vízparton. Apa maci gyorsan kikészítette a horgászbotokat, Misi izgatottan kapta el az egyiket, és a horgot beledugta a kukoricába. Panna a part szélén guggolt, és a vízbe bámészkodott.
+
+Apa maci először dobott, és szép ívben szállt a horog a vízbe. „Figyeljetek a zsinórra, gyerekek! Ha rángat, akkor kapás van!” – tanította a kicsiket. Misi figyelt, mint a kis manó, és a szeme sem rebbent a zsinórról. Panna viszont unatkozott. A vízben a tükörképe látszódott, amint éppen ujjával pödörgette a fülig érő fürtjeit.
+
+Hosszú ideig nem történt semmi. A nap melegített, a levegő illatos volt a friss fűtől és a nyíló virágoktól. Misi egyre türelmetlenebb lett. „Apa, mikor fogunk fogni halat?” – kérdezte. Apa maci megvakarta a hasát. „Türelmetlennek nem szabad lenni, fiam. A horgászat olyan, mint a türelempróba. Várni kell.”
+
+Panna hirtelen felkiáltott. „Nézzétek, egy csomó piros pillangó!” És el is szaladt, hogy utánaeredjen a szárnyasoknak, hátrahagyva a horgászbotot. Misi szájából kibuggyant egy kuncogás. „Ő mindig ilyen…”
+
+Épp ekkor, Misi horgászbotja hevesen megmozdult! A zsinór rángatózott, szinte kiugrott a kezéből. „Apa! Kapás! Kapás van!” – kiáltotta izgatottan. Apa maci odaszaladt, és együtt húzták a zsinórt. Erős hal kapaszkodott a horogba!
+
+Nagy nehezen kiszedték a halat a vízből. Egy szép, nagy ezüst ponty volt. Misi nem tudott betelni a látvánnyal. „Szuper! Gyorsan be a kosárba, és majd megfőzzük a vacsorához!” Apa maci belehelyezte a halat a kosárba, majd Misi megdicsérte a fiát a türelméért és az ügyességéért.
+
+De ekkor… Panna hangos sírását hallották. Sietve odarohantak. Panna egy bokornál sírt, és egy szép, nagy pillangót tartott a kezében. De a pillangónak megsérült a szárnya. Misi odament hozzá. „Mi történt, Panna?” – kérdezte szelíden.
+
+„Ezt a szép pillangót akartam megfogni… És… megsérült a szárnya…” – sápadozta Panna, a könnyei végigfolytak az arcán. Apa maci lehajolt. „Ne sírj, kicsim. Majd megpróbáljuk meggyógyítani.”
+
+Anya maci hirtelen ötletére vették elő a pillangót, és finom, gyengéd mozdulatokkal próbálták meg helyre tenni a szárnyát. Közben Panna vigasztalta a pillangót. „Ne félj, kicsim. Én vigyázok rád.” Misi pedig bocsánatot kért Pannától, hogy nem figyelt jobban a pillangókra.
+
+Hosszas igyekezettel végül sikerült összeragasztani a pillangó szárnyát, anya maci pedig készített neki egy kis, puha levélből egy fekhelyet, ahová a pillangó befekhetett. „Most pihennie kell” – mondta Anya maci. Panna hatalmas örömmel hallgatta ezt.
+
+Közben a nap lemenőben volt. Apa maci meggyújtotta a tüzet, hogy megsüssék a halat. A vacsora illata hamarosan beterítette a tópartot. Misi elmondta, hogyan fogták a halat, és hogyan kellett kivenni a vízből. Míg az ezüst hal sült, Panna végre felvidult. Közben a pillangó szárnyára fújt, nehogy elengedje.
+
+A finom illatokon túl egy csend telepedett a tópartra, amelyet csak a tűz ropogása, és a szél gyenge suttogása szakított meg. Misi szeme láthatóan szomorú volt, tekintete gyakran a vízre tévedt. Megfigyelte a pillangót a kis leveleken, és szívében elnyomott keserűséggel ismerte be, hogy a horgászat talán mégsem a legérdekesebb dolog a világon. Nem tartotta érdekesnek a horgászbotjait, sem a zsinórt. Sajnálta az ezüst pontyot.
+
+Végül, mikor Apa maci késznek nyilvánította a vacsorát, megkezdődött az evés. Mindannyian mohón falatoztak. Misi egy darabig nem evett, csak bámult. Egy idő után Apa maci észrevette a szomorúságát. „Mi a baj, fiam?”
+
+Misi összeszedte magát, majd egy nagy levegőt vett. „Sajnálom azt a halat.” – mondta halkan. „Ő is élt, és most meghalt. Talán… a pillangónak jobb lett volna” Anya maci és Apa maci elcsodálkoztak, hogy a kis Misi ennyire komolyan vette ezt. Apa maci magához szorította a fiát. „Értem én, kicsim. Néha ez is a természet rendje. De legalább finom volt a hal, igaz?”
+
+Misi kicsit elmosolyodott. „Igen, finom volt. De legközelebb inkább a virágokat szeretném nézni.” Panna pedig felnevetett, és megkérdezte: „Misi, talán többet akarsz játszani a pillangókkal?” Misi zavarba jött a szótól. „Szerintem… igen” – válaszolt végül, kissé pirulva.
+
+A nap lenyugodott, a tó vize lilás-arany színben pompázott. A maci család lassan összecsomagolt. A pillangót óvatosan magukkal vitték egy kis, puha dobozkában.
+
+Amikor hazaértek, Panna a pillangót a szobájában helyezte el egy szép, biztonságos helyre. Megígérte neki, hogy gondoskodik róla, amíg meg nem gyógyul. Másnap, amikor felkeltek, a pillangó szárnyai újra ragyogtak, és röpködött a nap felé.
+
+A maci család abban maradt, hogy legközelebb a virágokat nézik meg együtt, és egyáltalán nem fognak halat. Apa maci megtanulta, hogy nem csak a horgászat lehet örömteli, hanem az is, ha figyelnek egymásra, az érzéseikre, és a körülöttük lévő világra. Misi megtanulta, hogy fontos megérteni a dolgokat, és figyelembe venni a másik érzéseit, míg Panna, ahogy a pillangóján, megőrizte a reményt. Ő mindig tudta, hogy a szeretet mindent helyre tud hozni. Azóta sosem mentek többé horgászni, de sokat tanultak a tó partján eltöltött, szép, és egy kicsit szomorú napról. A családjuk még közelebb került egymáshoz, és a szeretetük szálai még jobban megerősödtek.
+</body>
+```

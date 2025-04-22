@@ -1,0 +1,37 @@
+<prompt>
+Please write a light-hearted Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Mazais trušu princis un viņa draugi'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lv</lang_id>
+
+<title>Mazais trušu princis un viņa draugi</title>
+<body>
+Pilsētas parkā, zem seniem, ēnainiem ozoliem, dzīvoja mazs trušu princis vārdā Rūdolfs. Viņš nebija kā citi truši – nebija tik ātrs, ne tik veikls, un ne tik liels. Rūdolfs bija mazs, ar garām, pelēcām ausīm un acīm, kas spīdēja kā divas mazas, spožas zvaigznes. Viņš bija sapņains un mīlēja iztēloties.
+
+Katru rītu, kad saule vēl tikai smaidīja pa debesīm, Rūdolfs dotos pastaigā pa parku. Viņš nemeklēja burvju zāles vai zelta gabalus, bet gan meklēja jaunus draugus.  Un viņš tos atrada!
+
+Viņa pirmais draugs bija zirnekļa meitenīte, kura dzīvoja liela, apaļa tīkla viducī.  Viņas vārds bija  Anīte. Anīte bija ļoti gudra un zināja visu par vējiem, ziediem un kukaiņiem. Viņa pastāstīja Rūdolfu par tālām zemes malām, par lidojošiem putniem un par burvju zālēm, kas aug tikai naktī. Rūdolfs klausījās, ar lielu interesi, un apbrīnoja Anītes gudrību.
+
+Nākamais draugs bija maza, zaļa vardīte, kura vārds bija  Pēteris. Pēteris bija ļoti labs stāstnieks. Viņš spēja stāstīt par upes dzīlēm un par ūdens čūskām, kas tur slēpās. Viņš pastāstīja par zivīm, kas spēja dziedāt un par ūdens ziediem, kas spīdēja kā dārgakmeņi.  Rūdolfs, klausīdamies, atklāja, ka pat maza vardīte var stāstīt fantastiskus stāstus.
+
+
+Tad viņš iepazinās ar lapseni, kura vārds bija  Līva. Līva bija ļoti strādīga un rūpējās par savām bišu mājām. Viņa pastāstīja Rūdolfam par medus saldumu un par bišu darba svarīgumu.  Rūdolfs apbrīnoja Līvas rūpību un centās iemācīties no viņas, kā rūpēties par savām lietām.
+
+Katru dienu Rūdolfs un viņa draugi kopā pavadīja laiku. Viņi spēlēja spēles, lasīja grāmatas, skatījās uz zvaigznēm un sarunājās par visām lietām pasaulē. Viņi stāstīja viens otram savus sapņus un bailes, dalījās ar priekiem un bēdām. Viņi bija īsti draugi, kuri atbalstīja viens otru visos piedzīvojumos.
+
+Viens skaists rīts, Rūdolfs atklāja, ka parka stūrī ir izaugusi ļoti skaista, sarkana rožu krūms.  Viņš bija redzējis šādu rožu krūmu tikai grāmatās.  Rūdolfs bija ļoti sajūsmā un gribēja uzreiz pastāstīt par to saviem draugiem.
+
+Anīte, Pēteris un Līva jau gaidīja Rūdolfa atgriešanos.  Viņi visi kopā devās uz rožu krūma. Anīte teica, ka rozes smaržo pēc vasaras un sauli. Pēteris pastāstīja, ka rozes lapas slēpj mazas, nemanāmas zvaigznes. Līva, savukārt, paskaidroja, ka rožu krūms ir kā maza paradīze, kurā katrs zieds ir īpašs.
+
+Rūdolfs jutās ļoti laimīgs, jo viņam bija tik brīnišķīgi draugi.  Viņš saprata, ka draudzība ir dārgākā dāvana pasaulē.  Un kopā ar saviem draugiem, viņš turpināja izpētīt parka noslēpumus, atklājot jaunus stāstus un piedzīvojums katru dienu.  Viņš saprata, ka patiesā laime nav atkarīga no lieluma, ātruma vai spēka, bet gan no mīlestības un draudzības.
+Un tā, zem seniem, ēnainiem ozoliem, dzīvoja mazais trušu princis Rūdolfs, un viņa brīnišķīgie draugi.
+
+
+</body>

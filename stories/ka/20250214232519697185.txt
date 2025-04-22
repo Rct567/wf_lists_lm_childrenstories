@@ -1,0 +1,22 @@
+<prompt>
+Please write a creative and original Georgian children's story that is at least 1000 words long.
+It must be completely written in proper Georgian (KA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'კეთილი გოჭი და ჯადოსნური წიგნი, რომელიც ზღაპრებს ყვებოდა.'.
+</prompt>
+
+<model>meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo-128K</model>
+
+<lang_id>ka</lang_id>
+
+<title>კეთილი გოჭი და ჯადოსნური წიგნი, რომელიც ზღაპრებს ყვებოდა</title><body>
+
+ერთ მშვიდობიან დღეს, უკაკი ვილაში, კახეთის მთებთან მიუთვალდება მოსიმდინარე გოჭი, ეჭმანკომ. იგი ამიდს ველ-ველადი ველებით სანაპირო ერთვია, და ჭალაში კასრით უკაკოვლა სახლში უწყვეტოდ სვენით მწკრცი. კირჩრების და დვალების დრო იყო - კურდო იყო კურთხეული და ნეპალ დიუჩა იყო უძველესი.
+
+იმ კახელ კუკიაშვილ გოჭს დასაბამად ბიძა ჯუკუნი ვეფხვის მეფე დვენო შალვაშვილი იყო. იგი კახეთის ამაღლევი წმინდა მოძღულ პეტრე საღარამელმა თავის კასრაში იღერა, და მონაზონი მონასტრის კვლოებმა მონანიება მომანიებითა თბოვითა მოიწონა.
+
+მომანიებითა თბოვითა შესმული ჯუკუნი ვეფხვის მეფე დვენო მარჯვა მომანიებითა მწკრცთა კიბოთა სასმული ვეფხვად ვიწრედ მივითვლის. როდესაც ნელმა ნელ, მეფე ვეფხვად სასმული შვენის ცესარების მდენ, ზორა იდგენ. მეფე ვეფხვის ნიშნი მრგვალი ანთელის კვალად უკონცხი.
+
+ვეფხვად სასველ მონაზონი კონდავერი სანაპირო ველად ერთვია, რა ვინმე დვალი უსინაზი ლურჯ ათბილეულ ლორო ამეერ ლარო სანადო ცუთხა დავჟილა, ზორა დავოითვონ.

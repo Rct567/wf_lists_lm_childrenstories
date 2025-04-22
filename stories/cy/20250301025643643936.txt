@@ -1,0 +1,39 @@
+<prompt>
+Please write a uncomplicated Welsh children's story that is at least 1000 words long.
+It must be completely written in proper Welsh (CY).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Yr Haf a'r Gwyliau yn y Traeth'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cy</lang_id>
+
+<title>Yr Haf a'r Gwyliau yn y Traeth</title>
+<body>
+Roedd yr haul yn disgleirio'n llachar dros lan y môr.  Roedd yr awyr yn gynnes ac yn llawn gwynion, ac roedd sŵn y tonnau'n cyffwrdd â'r traeth yn gyffrous.  Roedd y gwyliau yn dechrau ar ddiwedd mis Mehefin.  Sion a'i chwaer, Eluned, roeddent yn edrych ymlaen i'r gwyliau gyda llawenydd a chytun, a pheidiant gwyliau o'r dysgu a'r arddeg.
+
+Roedd Sion yn fachgen ddi-amser ac yn ddigynnwrf. Roedd ganddo gariad gwych at gemau traeth, o chwarae bylbiau bach a chwibau trwm hyd at geisio gafaelu'n y tonnau.  Roedd Eluned yn ferch gyda'r galon a'r calon, a byddai'n hoff o drafod hanesau, neu arddangos ei gelf ar brif fach o feirniadaeth o wedd y llethr.
+
+Pan gyrhaeddodd y gwyliau,  roedd eu teulu ar agor yn fywiog i orffen yn barod i gael gwell yfory a hysbyso bod pawb yn gwell yn gwybod ein bod yn wybod hynny'n gytûn. Roeddent yn dringo i mewn i'r cerbyd gyda breuddwyd sych, yn awyddus i wneud y daear a'r awyr hyn yn wir.
+
+Trwy'r diwrnodau, byddant yn cynnig gwyliau llwyddiannus am yr holl fodd y byddent yn cychwyn ar ddringo gyrthgarn traeth y ddinas, ar hyd traeth bychain yr haul. Ar gyfer Sion, roedd gan bob coed rhyfedd ei ddynoliaeth a'r bywyd; yn wynebu gwellt ddraig, a chwarae gyda chrwban yn ei gwyl ysgubor. Byddent yn cael hapusrwydd i meddwl ar wyliadwriaeth y tywysydd, yn gallu rhoi gweddi i'r awyr, yn rhyfeddu bod môr mor uchel fel coed uchel. Byddent yn darogan y tonnau'n gallu dros ben y traeth. Byddant yn dod â darluniau gan arddangos yr haul, a pheiriant chwaethus.
+
+Ac yn aml, byddai Eluned yn llunio'r haf allan gyda'i llaw gwych. Byddai'n gwneud dyfeisiau o'r cwympo, a thrafodaeth, gyda phenderfyniad yr haul yn y dydd. Byddai'n gwneud lliwiau dillad yr haul, ac yn arddangos ddyluniadau newydd gyda thyfodd, a phaffi yn tywys. Byddent yn cyfrifo amrywiol ffyrdd o fywioldeb y dydd, a dynodi darlun o bob rhyw ardal.
+
+Un diwrnod, tra roeddent yn gwneud gêm gyda bysgyd,  gwelodd Sion beth byth, aeth i fyny i'r uchel, yn ffyndraith i ymweld ag elfen gwylio. Yn yr uchel, roedd arlliwgaru o bryfaid wedi'u hennill mewn gwestai; roedd gan bob un ychwanegiadau cwrdd ag ynwydd, mewn lliwiau ac ewynion.
+
+Gwnaeth Sion a Eluned, ar ôl eu cynhyrchu'n fawr,  i meddwl am ddadl; Roeddent yn cyrraedd yr isafswm, yn credu bod yn dda'r haul. Byddai'r awyr yn llithro ar hyd traeth yr haul ac yn deimlo fel bod yn wir ymhlith ei gilydd; byddant yn gwneud cysylltiad yn gyffredin.
+
+Mewn lle fel môr, byddant yn dysgu cyn lleied yn fawr fel y byddent yn dysgu am bwynt cynnwys ardal.  Hynny oedd yn wych am hyfrydwch eu gwyliau, yn dechrau gan fynd i mewn i'r wyliau hwn a gadael gyda gwybodaeth a chytûn, yn hynny i ymdrechu o fewn bywyd, ac nid yn y diwrnodau gwyliau unigol.
+
+Roedd y gwyliau'n dod i ben. Roedd Sion a Eluned yn ddiolchgar am eu gwyliau hyfryd, yn dysgu am gyfoeth i mewn i wlad y traeth, fel gwlad a bodau byw ysblennydd;  a'u gwahanol agweddau.  Roeddent yn gwybod yn dda bod eu teulu yn wych ac y byddent yn diolchgar. Roeddent yn dod yn ffrwythlon yn eu bywydau ar draws gwyliau;  fel aeddfeddi yn cofio eu dydd gwyliau fel canfyddiadau cyfeillgar; gwyliadwriaeth a dymuniad.
+\
+Oesodd gwyliau sy'n cynorthwyo i ddatblygu.
+\
+Roeddent yn diolchgar am yr haf hwn.
+
+
+</body>

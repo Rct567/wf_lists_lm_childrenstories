@@ -1,0 +1,31 @@
+<prompt>
+Please write a emotional Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Ztracená hvězdička a cesta zpět na oblohu plná překvapení.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Ztracená hvězdička a cesta zpět na oblohu plná překvapení.</title>
+<body>
+Malá hvězdička jménem  Světluška se narodila na nebeském moři plném jiskřivých, zářících kamínků. Byla tak drobná a jemná, že se zdála být jen malým, třpytivým prachovým zrnkem.  Všichni ostatní hvězdy, s jejich jasnými, stabilními paprsky, ji obdivovali, ale zároveň se o ni trochu báli. Světluška se cítila malá a nepatrná, ačkoliv v jejím malém srdci svítila ohromná touha zářit.
+
+Jednoho večera, když se nebeská obloha rozprostírala v nekonečné modři plné tisíce hvězd, se Světluška rozplývala v hlubokém snění. Chtěla poznávat, cítit, žít.  A tak, poháněna tajemnou touhou, se s opojnou lehkostí oddělila od ostatních hvězd a vznášela se stále výše a výše.  Za chvíli se ocitla mimo jasná a pevná ramena oblohy.  Cítila se ztracena, malá a zranitelná.  Zmizela v nekonečné tmavém prostoru, plném tajemných zvuků a neznámych planet.
+
+Světluška plakala tichými slzami, které se rozplývaly ve vesmíru, a pocítila, jak se její jiskra chvěje.  Najednou se v dálce objevil slabý, ale laskavý záblesk.  Byla to planoucí kometa, která se k ní blížila, jako by ji hledala.  Kometa se k ní naklonila a s úsměvem jí nabídla pomocnou ruku.  "Neboj se, malá hvězdičko," zašeptala kometa, "nalezneš cestu domů."
+
+Světluška se s povzbuzením komety vydala na pouť.  Prošla kolem obřích planet, které se zdály být gigantickými draky spícími v vesmíru.  Přeskočila mraky mlhy a zmrzlé asteroidy, které se leskly jako ledové diamanty.  Setkala se s nádhernými galaxiemi, které tvořily úžasné obrazy plné záhadných barev.
+
+Na své cestě se Světluška setkala s nejrůznějšími bytostmi. S metrovým hmyzem, který si prozpěvoval neuvěřitelně hluboké melodie, s kočičkami z oblaků, které jí povídaly příběhy o nebeských záhadách, a dokonce i s chichotícími víly, které jí pomáhaly najít cestu.  Každá z nich jí dala kus svého srdce, a každá z nich jí připomínala, že i v neznámém prostoru existuje dobrota a štěstí.
+
+Nakonec, po mnoha dobrodružstvích, se Světluška dostala k hranici oblohy.  Cítila silné pulzování a ohromující tlak nebeské energie.  Kometa ji s laskavým a šeptavými slovy provedla nebeskou branou a Světluška se znovu ocitla v náručí hvězd.  Ačkoliv byla unavená a ztracená, cítila ohromující radost a štěstí.
+
+Když se Světluška vrátila mezi své sesterské hvězdy, pocítila nebeskou energii, která ji zaplavila.  Byla nadšená z toho, co prožila, a radovala se z toho, že se vrátila domů.  Ale zároveň, její duše se naplnila láskou ke všem planetám, kometám a vesmírným bytostem, které potkala.
+
+Od té chvíle zářila Světluška s novou sílou a světlem.  Její jiskra se ještě více rozrostla a zářila s novou touhou po dobrodružství, a zároveň z ní vyzařovala laskavost a porozumění.  Stala se moudřejší a silnější.  Nikdy nezapomněla na cestu, kterou prošla, a na úžasné bytosti, které potkala v hlubinách vesmíru.  A tak, Světluška, ztracená hvězdička, se stala inspirací pro všechny malé hvězdičky, které se odvážily opustit nebeskou náruč a odrazit se do nekonečného a zářivého vesmíru.
+</body>

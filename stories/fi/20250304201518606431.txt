@@ -1,0 +1,49 @@
+<prompt>
+Please write a silly Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kesäyön lepakko ja tähtienkirkas taivas yllämme'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>fi</lang_id>
+
+<title>Kesäyön lepakko ja tähtienkirkas taivas yllämme</title>
+<body>
+Liisa, pienikokoinen lepakko, joka asui maatuvassa tammessa metsän syrjässä, heräsi hämärästä.  Kesäyö oli jo valmistautumassa sukeltamaan tähtienkirkkaaseen pimeyteen.  Liisan suuret, kellanruskeat silmät avautuivat ja hän nyökkäsi heräillään.  "Oi, miten upea ilta!" hän huudahti kuiskaten,  kädet ja varpaat kiinni tummansinisissä tammenlehdissä.
+
+Hänen vatsansa murisi. Ei mikään ihme. Lepakot, niin ainutlaatuisia kuin he ovatkin, ovat nälkäisiä olentoja! Ja Liisa oli erityisen nälkäinen, sillä edellisenä iltana hän oli syönyt vain kolme lentävää kärpästä – aivan liian vähän.  "Meidän pitää lähteä metsästämään," Liisa mietti, "mutta ennen sitä, pitää tehdä tärkeä asia."
+
+Hän lentäytyi tammenlatvasta ja lensi hiljaa, kuin tuulen pyyhkäisemä lehdet, kohti metsän reunaa.  Siellä, puiden varjoissa ja kuiskaten pörrössä, asui pieni, vilkas mehiläisperhe, nimeltään Humma. He olivat tulossa kohti kauniita ja tuoksuvia kukkia.
+
+"Hyvää iltaa, Humma-perhe!" Liisa tervehti lempeästi.
+
+"Hyvää iltaa, Liisa-lepakko!" mehiläiset vastasivat, sykkien iloisesti.  "Miten olet?"
+
+"Olen hyvinkin, mutta olisin onnellinen, jos voisin saada tietää, onko teillä liian paljon mettä tänä yönä. Olen erittäin nälkäinen!", kertoi Liisa.
+
+"Todella!" humisehti Mehiläisäiti. "Meillä on niin paljon mettä, etteivät edes kaikki mehiläiset jaksa sitä kantaa, varsinkin kun he tekevät myös siivoushommia. Voitte itsekin kokeilla meillä! "
+
+"Ihmeellistä! Kiitos, Humma-perhe!" iloitsi Liisa ja söi ahneesti mettä mehiläisten suurtuotteista.  Hänellä oli melkein jo nälkä lähtenyt.
+
+Pian Liisa oli täynnä ja tunsi jo itsensä lennettäväksi! "Kiitos taas herkulliseen iltaan, ja metsästä on vielä niin paljon seikkailua ja elämyksellisiä löytöjä odottavilla mielellä ja hyvillä makuaistilla!" hän sanoi suullisesti, hymyillen ja lentäen takaisin metsään.
+
+Seuraavaksi yöretkellä oli edessään hämähäkinverkko. Hän lenteli siitä erittäin hienolla tavalla ohitse, lentäen kuin heikko tuuli. Hän pysähtyi toisen metsän keskellä ja katseli kirkasta yötaivasta, jossa tähdet välähtävät kuin kultaiset timantit mustassa villissä kankaassa. Yhtäkkiä hänen edestään lensi pieni, sylikokoinen päästäinen. Se kierteli kiertävää ympyrää, samankaltainen kuin muissa yöperhoset.
+
+"Hei päästäinen, haluaisitko tuoda minut pieneen lähilahteen, jossa on hyviä kasveja", hän pyysi sitä ja lenteli perhosta pitkin.
+
+He saapuivat lahteen, jossa vihreä ruoho peitti maan ja hyiä hedelmäpuita.  Liisa tunsi jo itsensä onnelliseksi tästä ihanasta pimeästä metsästä, mutta ei vielä luopunut tulevista seikkailuista! Se sanoi, että ne oli odotettavissa koko öin.
+
+Kuitenkin, kuin yö muuttui vielä hämärämmäksi, se onnellinen hyönteinen, yllätettiin Liisan toiveiden ylittävästä hyönteistä ja kysymyksen vastauksen odotusta ja tiedostamista. Kaunis lepakko kiitos päästäisen rohkeutta ja sanoi toiveensa hänen kuljettavansa itsensä lahteen, joka antaa metsästyspalkinnon hyönteisten loistavan metsästämisen avulla.
+
+Sitten hän lensi yhä pimeämpään metsään, missä pimeyden keskellä heräsi eräänlainen taika. Metsässä alkoi lentää ja kiertää ympärillään kauniita, tanssivia valoja. Liisa onnea kiireistä metsäretkistä. Hän tunsi itsensä rauhoittuneeksi ja yhtynyt pimeään metsien ydinpolkuun.
+
+ Hän lentäytyi uuteen taivaanalaan, täynnä tähtiä, joista jokainen kirveli niin loistavasti kuin kullakin oli oma yksilöllinen kirkkaus.  Hän tunsi onnellisen, nautinnollisen seikkailun yössä ja yhtyi hämähäkinverkkoon ja metsäluonnon rytmeen.  Se oli upea tunnelma.  Kaikki näytti tanssilta.
+
+Liisa lensi yhä pidemmälle, ylittämässä vuorten harjanteita, lennettynä kirkkailla tähdillä, jotka olivat kauniita valkeuksia ja pimeyttä ympäröiviä kuin loistavia helmiä tai auringonlasku-pilviä.
+
+ Hän tiesi nyt, ettei metsässä koskaan olisi turhaa yöelämästä luopua. Kun päivä koitti, Liisa lensi takaisin kotiin, sydämessään onnen täyteyttä ja uusia seikkailukokemuksia metsäyön tähtien valossa. Hän nauroi tyytyväisenä, tiedäten että hän oli elänyt täysillä yössä.
+</body>

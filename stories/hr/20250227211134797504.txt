@@ -1,0 +1,53 @@
+<prompt>
+Please write a timeless Croatian children's story that is at least 1000 words long.
+It must be completely written in proper Croatian (HR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Misteriozni događaji u selu nauke'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>hr</lang_id>
+
+```xml
+<title>Misteriozni događaji u selu nauke</title>
+<body>
+U jednom dalekom, sunčanom vilin-selu, skrivenom među zelenim brežuljcima i šumama, ležalo je Selo Nauke. U tom selu, svaka kuća bila je poput malog laboratorija, a njegove stanovnike krasili su umovi istraživača, izumitelja i sanjara. Djeca, zvana zvanima "Znalci", provodila su dane eksperimentirajući, čitajući knjige o astronomiji, fizici, kemiji i svim mogućim područjima znanosti.
+
+Jednog jutra, sunce se tek počelo penjati nad obzorom, a u Selu Nauke započeo je niz čudnih događaja. Prvo je profesor Kozmić, poznati astronom koji je proučavao zviježđa, probudio se i otkrio da je njegov teleskop, zvani "Zvezdozor", nestao iz stražnjeg dvorišta. Profesor je bio jako zabrinut, jer je Zvezdozor bio neprocjenjiv instrument, napravljen od kristala iz jedne meteoritske stijene, s kojeg je promatrao nebeska tijela.
+
+"Nestao je! Nemoguće!" kriknuo je profesor Kozmić, trčkarajući po vrtu. "Tko bi ovo učinio?"
+
+Vijest o nestalom teleskopu munjevitom je brzinom kolala selom. Znalci, koji su se obično igrali u parku svako jutro, skupili su se oko profesora Kozmića, znatiželjni i zabrinuti. Među njima su bili i dvoje najboljih prijatelja, Luka i Ana, koji su bili posebno vješti u rješavanju zagonetki. Luka je bio pun ideja i brzo je uočavao detalje, dok je Ana bila strpljiva i imala izvrsno pamćenje.
+
+"Možda je netko samo posudio teleskop, profesor?" upitala je Ana, pokušavajući umiriti profesora.
+
+"Ne, Ana. Zvezdozor se nikad ne posuđuje. Naročito ne noću! A i tko bi uopće znao kako rukovati s njim?" odgovorio je profesor, tužno gledajući u nebo.
+
+Nakon što su ispitali profesora Kozmića i pregledali mjesto gdje je teleskop stajao, Luka i Ana su krenuli u svoju vlastitu istragu. Prvo, odlučili su obići selo i prikupiti informacije. Razgovarali su s gospođom Elektrić, koja je radila na projektiranju novih vrsta žarulja, s gospodinom Kemikom, poznatim po svojim eksperimentima s raznim elementima, i s gospođicom Robotković, koja je gradila složene robote. Svi su bili zbunjeni, i nit jedan nije imao nikakav trag o nestalom teleskopu.
+
+Dok su istraživali, primijetili su i druge neobične stvari. U radionici gospođe Elektrić, otkriven je nered – svi pokusi bili su pomiješani, s nekakvim čudnim prahom na stolu. U laboratoriju gospodina Kemika, svi su se pokusi ponašali čudno – otopine su mijenjale boju bez razloga, a kemijski spojevi su neočekivano eksplodirali.
+
+"Ovo je sve previše čudno," rekao je Luka nakon što su izašli iz laboratorija gospodina Kemika, "Nije samo profesorov teleskop u pitanju, nešto se čudno događa u cijelom selu!"
+
+"Slažem se," odgovorila je Ana. "Moramo naći način da saznamo što se događa i tko je odgovoran za ove misterije."
+
+Luka je predložio da analiziraju prah koji su vidjeli u radionici gospođe Elektrić. Ana je predložila da se vrate u profesorov vrt i detaljno istraže tlo tražeći tragove. Proveli su cijelo poslijepodne radeći na istraživanju. Luka je iskoristio svoju torbicu s alatima, uvijek ponijetog sa sobom, da uzme uzorak praha, koji je potom pažljivo složio u sterilnu posudu. Ana je, s povećalom u ruci, pažljivo pregledala travu i zemlju oko mjesta gdje je stajao Zvezdozor.
+
+Uveče, kad su se svi Znalci okupili na glavnom trgu kako bi raspravljali o čudnim događajima, Luka i Ana su podijelili svoje nalaze. Luka je, na temelju analize praha, objavio da se radi o mješavini neobičnih sastojaka, uključujući i rijetki mineral koji se nalazi samo na jednom udaljenom mjestu na svijetu – u gorju Velebita. Ana je, pak, otkrila nekoliko sitnih tragova otisaka stopala koji su vodili prema rubu šume, malo izvan sela.
+
+"Imamo tragove!" ponosno je rekao Luka. "Netko tko zna za taj mineral, a otisći su dokaz da netko stvarno šeta po šumi, pa i krade!" Ana je, dok je pokazivala otiske, primijetila kako su otisci djelovali čudno - bili su veći od otisaka bilo kojeg stanovnika sela, no opet ne toliko da bi bili otisci životinje.
+
+Slijedeći tragove, Luka i Ana su ujutro otišli u šumu. Pronašli su malu, tajnu stazu, a zatim su išli u dubinu šume. Staza ih je dovela do skrivene špilje, iza gustog grma. U špilji su ugledali veliki uređaj sa svjetlima, cijevima i brojnim gumbima. U blizini je bio profesor koji je izumio super-brze robote.
+
+On je bio u panici. "Ja sam! Ja sam kriv za sve!" viknuo je. "Pokušavao sam stvoriti stroj koji bi mogao mijenjati vrijeme, no slučajno sam ga pokvario. Svjetlost je utjecala na selo."
+
+Njegov stroj, koji je trebao simulirati pomicanje zvijezda, slučajno je utjecao na kemijske reakcije i rad elektriciteta, pa i na sve pokuse po selu. Nestanak teleskopa, kao i svi neredi, bio je rezultat eksperimenta.
+
+Luka i Ana su mu pomogli ispraviti stroj, pomoću znanja koje su naučili, te se svi problemi u selu zaustavili. Profesor je vratio teleskop, sve je popravljeno, a Selo Nauke ponovno je zablistalo svojom znanošću i ljepotom.
+
+Od tada, Luka i Ana su postali junaci Sela Nauke. Naučili su da je znanje moćno, ali da je zaista važno koristiti ga odgovorno. Znali su da je istraživanje ključno, ali da je suradnja još važnija. A što se Sela Nauke tiče, nastavili su eksperimentirati, učiti i sanjati nove, nevjerojatne stvari. I naravno, nikada više nisu zanemarili sigurnost svojih pokusa! Život Znalaca bio je pun zabave, kreativnosti i avantura, a svaka nova zagonetka postajala je samo put ka novim otkrićima.
+</body>
+```

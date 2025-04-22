@@ -1,0 +1,33 @@
+<prompt>
+Please write a relatable Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Bylinkářská škola na úpatí modré hory'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Bylinkářská škola na úpatí modré hory</title><body>
+Jara vylezla z hluboké zimy jako lesní víla, s úsměvem, který hýbal i sněhovými vločkama.  Na úpatí Modré hory, plné vůně jasmínu a čerstvého deště, se nacházela Bylinkářská škola.  Malý Kuba, s očky jako lesní jezírko a vlasy jako sluncem políbené žito, se do ní s nadšením chystal. Bylinkářská škola nebyla jako žádná jiná škola. Nenacházely se v ní lavicemi s těžkými učebnicemi, ale krásnými, provoněnými zahradami plnými léčivých bylin.  
+
+Kuba si vzpomněl na starou babičku, která mu vždycky vyprávěla o tajemství bylin a o tom, jak dokáží uzdravit bolení hlavy i zraněnou duši. Babička mu říkala, že se do bylinářské školy dostane ten, kdo je vnímavý, ochotný naslouchat a má v srdci velkou radost z přírody. Kuba to všechno cítil v srdci.
+
+První den v Bylinkářské škole byl kouzelný.  Paní Bylinkářka, žena s rukama jako hedvábí a očima jako modré březové listy, ho přivítala a ukázala mu krásné zahrady. Rostla tam mateřídouška s fialovými kvítky, které voněly po medu, a silná divizna s trny jako šperky.  Každá rostlina měla své vlastní příběh, který Paní Bylinkářka s nadšením vyprávěla. Všechny zvuky přírody se zdály být pro Kuby vyprávění: cvrlikání ptáků, šumění větru, a dokonce i šustění listů – to všechno vnímal se zvědavostí.
+
+Kuba se s nadšením vrhl do učení. Učil se rozlišovat léčivé byliny od těch jedovatých, o jejich vlastnostech a o tom, jak je používat s úctou a moudrostí. Paní Bylinkářka ho učila, že neexistují jen recepty na léčení fyzických bolestí. Byliny mu pomohly poznat se i s jeho duší.  Cvičili, jak naslouchat svému tělu, aby poznal kdy se cíti unaveně a potřebuje odpočinout, kdy potřebuje štěstí z něčeho maličkého.
+
+Jednoho dne se na školní louce zranil Petr, který se v lese rozběhl za motýlem.  Měl pořezané koleno, které krvácelo. Paní Bylinkářka, místo aby ho léčila něčím silným a složitým, dala Kubovi jednoduchý úkol: Najdi bylinku, která dokáže uklidnit bolest. Kuba pohlédl na různé rostlinky a na památku se snažil vnímat vůně, které s nimi bylo spojeny, dokud nenašel heřmánek. Byl tam v hojné míře, i v kvetoucí zahradě u potoka.  A věděl, že toto bude správný lék. Jemně podržel heřmánek a uložil ho na Petrove koleno a tiše promodlil k nebi, ať je Petr zase silný.
+
+Poté, co ho utěšili bylinné výluhy, holedový vývar a dobrý sen, Petřík se pomalu uzdravoval. Pojili se a s chutí pomáhali Petříkovi v léčebných rituálech na schodišti, mezi zahradami. Paní Bylinkářka s úsměvem řekla: "Víte, děti, léčení není jen o bylinách.  Je to o lásce a o respektování přírody,  ale taky o štěstí z drobností."
+
+Další den Kubova maminka ho vyzvala, ať pro ni nakrájí bylinný čaj. Kuba se vrhl na úkol s úsměvem. Vychutnával si výhody bylinných ingrediencí, které se mísily se šťavnatými plody.  Vytvořil směs heřmánku, meduňky a lípy a opatrně je připravil pro svoji maminku. Jeho maminka zhluboka popila horký čaj a zavřela oči. Kuba viděl v její tváři úlevu a klidu. Cítil, že i v bylinném léku je mnoho citu.
+ 
+Kuba se naučil, že bylinky nejsou jen o receptech na léčení těla, ale taky o respektování přírody a o hledání štěstí v jednoduchých věcech.  Během let, které strávil v Bylinkářské škole, Kuba pochopil, že štěstí lze nalézt v tichých procházkách, v zamyšleném shlédnutí krás, v pocitu radosti z drobností a v péči o přírodu.
+ 
+Tak skončila Kubova pouť na Bylinkářské škole. Nicméně, i když škola a její magický duch se po létech uzavřely, Kuba nosil její tajemství v srdci a snažil se v každodenním životě používat byliny k péči o sebe i o druhých. Známal, jak velkou sílu mají, nejen pro léčení těl, ale i pro zklidnění duše a pro prohloubení kontaktu s krásou přírody a štěstím z maličkostí.
+
+</body>

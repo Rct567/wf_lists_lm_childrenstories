@@ -1,0 +1,46 @@
+<prompt>
+Please write a simple and easy-to-follow Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'An Crann Óir ar an mbóthar fhada'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>ga</lang_id>
+
+```xml
+<title>An Crann Óir ar an mbóthar fhada</title>
+<body>
+Bhíodh an aimsir go hálainn i gcónaí sa tír draíochta, Cnocánín. Ghrian go geal, spéir ghorm agus féar glas ag síneadh amach chomh fada agus a d'fheicfeá. Bhí cónaí ann ag cailín beag darb ainm Aoife. Bhí Aoife ina cónaí i dteachín beag gleoite, bán le díon tuí, ar imeall an choillte. Bhí Aoife an-aisteach agus thaitin sé go mór léi scéalta a léamh faoi ríochtanna i bhfad i gcéin agus faoi eachtraí corraitheacha.
+
+Lá amháin, agus í ag siúl sa choill, fuair Aoife léarscáil beag fillte. Bhí an léarscáil déanta as páipéar órga agus bhí sé chomh fíneáilte sin go raibh eagla uirthi é a phléascadh. Chuir sí an léarscáil ina póca go cúramach agus rith sí abhaile. Nuair a shroich sí a teachín, shuigh sí ag a tábla agus d'oscail sí an léarscáil.
+
+Bhí léaráid de chrann ollmhór le feiceáil ar an léarscáil. Ní crann ar bith é, a cheap Aoife, bhí an crann déanta as ór! Bhí an léarscáil ag taispeáint bóthar fada, fada a théadh chuig an gcrann. Bhí an bealach marcáilte le comharthaí beaga agus le carraigeacha aisteacha. Bhí sé scríofa freisin: “An Crann Óir, i gcroílár na ríochta, ina bhfolach sé rún.”
+
+"Rún?" a dúirt Aoife go hard, "Ní mór dom an rún sin a fháil!"
+
+Agus amach léi! Chuir sí a bróga siúil is fearr uirthi, líon sí a mála droma le beagán bia agus uisce, agus d’fhág sí a teachín. D’fhág sí nóta do a máthair ag rá cá raibh sí ag dul agus go mbeadh sí ar ais go luath. Thosaigh sí ag siúl ar an mbóthar a thaispeáin an léarscáil. Bhí an bóthar fada, agus chuaigh sí tríd an choill, thar sruthanna beaga agus suas cnoic. Bhí sé sách deacair, ach níor stop sí.
+
+Ar an gcéad lá, shiúil sí ar feadh uaireanta fada go dtí gur shroich sí bruach abhann. Bhí an abhainn leathan agus tapaidh. D'fhéach sí ar fud agus ní fhaca sí aon bhealach le dul trasna. "Cad a dhéanfaidh mé?" a smaoinigh sí. Ansin, chuala sí glór beag, "Ná bíodh eagla ort, lean mise." Bhí sé ag teacht ó frog beag glas ina shuí ar bharr cloch. Labhair Aoife leis an bhfrog, "Cá bhfuil tú ag iarraidh mé a thabhairt?" D’fhreagair an frog, “Lean mé agus tú a threorú go dtí an droichead rúnda." Agus chuaigh siad araon ag siúl cois abhann, ag cuardach an droichid rúnda.
+
+Tar éis siúl ar feadh tamaill, fuair siad droichead álainn cloiche, i bhfolach i measc na gcrann. Bhí an frog agus Aoife sásta nuair a shroich siad trasna na habhann slán sábháilte. D'fhág Aoife buíochas leis an bhfrog agus d’fhág sé í. Chonaic Aoife ansin carraig aisteach ar an taobh eile den abhainn agus chuimhnigh sí ar an léarscáil. Bhí carraig dá samhail marcáilte ar an léarscáil. Thug sé misneach di leanúint ar aghaidh.
+
+Ar an dara lá, shiúil Aoife go dtí gur tháinig sí go dtí gleann le bláthanna fiáine de gach dath. Bhí an spéir os cionn go hálainn. Shroich Aoife caisleán mór, agus mná óga taobh amuigh ag imirt. Nuair a d'fheic siad Aoife, ghlaoigh siad uirthi. "Bíodh fáilte romhat!" dúirt siad, "Tá muid ag tabhairt cuairt ar ár gcairde agus tá muid ag ullmhú féasta. Fan linn, le do thoil." Bhí Aoife an-sásta agus shuigh sí síos le na mná. Bhí an bia blasta, agus chaitheann siad an lá ar fad ag damhsa agus ag gáire.
+
+Ach níor dhíobh Aoife an crann órga. D’inis sí dá cairde faoi cad a bhí á lorg aici. “Tá bealach éigin chun an rún a fháil ag fanacht leat," arsa duine de na mná óga. “Tá treoracha sa choill agus ní mór duit a leanúint.” D’fhág Aoife go buíoch arís agus bhí treoracha nua aici leis an turas a leanúint.
+
+Ar an tríú lá, bhí an aimsir tar éis dul in olcas. Bhí an spéir dorcha, agus bhí báisteach throm ag titim. Bhí Aoife ag siúl le tamall nuair a chuala sí caoineadh. Tháinig sí go dtí duine beag, ina suí faoi chrann. "Cad é an scéal?" a d'fhiafraigh Aoife. D’inis an fear beag dó go raibh sé caillte agus go raibh sé ag cur eagla ar an mbáisteach agus an dorchadas. Thug Aoife cluas dó, thug sé an bia atá aici dó, agus d’fhan sí leis go dtí gur stop an bháisteach. Rinne sí an léarscáil amach agus thug sí cúnamh don fhear beag an bealach ceart a fháil. Agus leis sin, chuaigh sé ar a bhealach féin. Nuair a bhí sí ag leanúint, thuig sí go raibh sí ag druidim leis an gcrann órga.
+
+Ar deireadh, ar an gceathrú lá, chonacthas sí an crann órga. Sheas sé ina sheasamh go hiontach, ag taitneamh faoin ngrian. Chonaic sí comhartha deireanach agus bhí sé scríofa ann: "Fírinne an ratha: an croí atruach." D’aithin Aoife é sin a luaithe is a chonaic sí é. Thosaigh sí ag rith i dtreo an chrainn. Nuair a shroich sí é, fuair sí doras beag ceilte ag bun an chrainn. D'oscail sí an doras agus chonaic sí go leor leabhar. Thóg sí leabhar beag amháin. Bhí na scéalta sna leabhair go hálainn.
+
+Thuigeann Aoife go raibh an rún faoin gcrann órga ag baint le cineáltas, comhbhá, agus cabhrú le daoine eile. Ní raibh ann ach crann ach áit ina raibh scéalta agus eolas tábhachtach. Rinne Aoife an t-eolas seo léi nuair a chuaigh sí abhaile, agus lean sí ar aghaidh le bheith cineálta agus flaithiúil do gach duine. D'fhoghlaim sí gur mó an tábhacht a bhí ag croí cineálta ná ag ór.
+
+Bhí Aoife ag féachaint siar ar an eachtra agus mhothaigh sí go raibh a croí líonta le lúcháir agus le sásamh. Níor chaill sí a leanbhúchas. Ag tabhairt na gcuimhní seo léi, d'fhill sí ar a teachín, ach bhí sí athraithe go deo. Tháinig sí ar ais níos cróga, níos cineálta agus níos eagnaí. D'úsáid sí a heispéiris le bheith ina bean is fearr.
+
+Mar sin, thit oíche, agus bhí Aoife ina codladh sásta ina leaba bheag. Dúisigh sí ar maidin, agus í lán le mothúcháin dhearfacha. Rinne sí na rudaí céanna gach lá, ach bheadh anois saol difriúil aici go deo. Chaith sí níos mó ama ag cabhrú lena cairde, ag foghlaim agus ag léamh. D’fhan sí dílis do na gcuimhní go léir a bhí aici ar an mbóthar fhada, agus an crann órga.
+Agus b’sin é an scéal!
+</body>
+```

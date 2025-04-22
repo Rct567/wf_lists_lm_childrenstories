@@ -1,0 +1,55 @@
+<prompt>
+Please write a creative and original Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A teve, aki a sivatagban utazott a homokdűnék között a szomjúság ellenére.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>hu</lang_id>
+
+```hu
+<title>A teve, aki a sivatagban utazott a homokdűnék között a szomjúság ellenére.</title><body>
+
+A hatalmas, napsütötte sivatag közepén élt egy teve. Nem volt akárki, ez a teve, hanem Bulcsú volt a neve, és egy igazi kalandorlélek lakott a púpjai között. Szőre vöröslő volt, mint a tűz a naplementében, szemei pedig olyan mélykékek, mint a legtisztább oázis vize. Bulcsú imádott utazni, a sivatag minden zegét-zugát ismerte, a legmagasabb homokdűnéket megmászta, és a legcsodálatosabb naplementéket nézte végig.
+
+De volt egy nagy problémája: Bulcsú rettentően szomjas volt. Bármennyi vizet ivott is, a sivatag égető levegője mindig kiszívta belőle az élet nedvét. Néha úgy érezte, a homokdűnék is torkot csiklandoznak neki.
+
+Egy napon, amint éppen egy óriási homokdűnét kapaszkodott fel, hogy a távolba lásson, meglátta a legfurcsább dolgot. Egy kismadár, egy pici pinty, szárnyaiban egy aprócska edényt cipelt. A madárka nagyon fáradtnak látszott, szinte repülni sem tudott, a szárnyai libegtek, mint egy elszakadt zászló a szélben.
+
+Bulcsú leereszkedett a dűnéről, és óvatosan a madárhoz lépett. „Mi történt veled, kicsi pinty?” – kérdezte mély, bársonyos hangján.
+
+A pinty letette az edényt, és remegő hangon válaszolt: „A… a vízem kifogyott… és a sivatag rettenetesen… kiszívja belőlem az… az életet…”
+
+Bulcsú közelebb hajolt, és megfigyelte az edényt. Kis agyagedény volt, tele szép, tiszta vízzel. Ahogy a pinty szenvedett, Bulcsúban valami megmozdult. A sajnálat érzése. Aztán eszébe jutott a saját szomjúsága is, a fájdalom, amit átélt minden egyes percben.
+
+„Gyere, pinty. Én segítek neked.” – mondta Bulcsú.
+
+A pinty meglepetten pillantott fel Bulcsúra. Egy teve! Hogyan tudna egy teve segíteni egy kis madárnak?
+
+Bulcsú lassan és óvatosan odament a homokdűnéhez, a legmagasabbhoz, ami ott volt. Majd, anélkül hogy egyetlen szót is szólott volna, megkereste a dűne egyik oldalán egy apró árnyékot, ami a délutáni napon képződött. Lehajolt, és homlokát, ami addig száraz volt, most már a homokba nyomta, hogy a tetején pihenjen. A pinty elkapta a pillanatot, odarepült, és beleülve, a napernyő alá, megpihent. Aztán elkezdett inni a kis edényből.
+
+A pinty eközben ivott, Bulcsú a dűnéről figyelt le.
+
+„Tudod, kincsem,” - mondta Bulcsú, a hangjában kedvesség rezonált, - „én nem tudom, honnan való a víz. De nagyon sajnálom, hogy te ilyen szenvedsz. Add nekem is, legalább egy cseppet is? Még én is elszomjaztam a te szomjúságod láttán.”
+
+A pinty annyira megörült, hogy egy kedves teve szeretne vele szomjat csillapítani, hogy a legmélyebb részéből emelte ki az edényt. A pinty megérkezett a tevehöz.
+
+„Neked már nem sok van benne.” - suttogta a pinty. - „De, annyira szeretnélek meglátni boldognak is. Én nem bánom. Inkább innék egy keveset, hogy a másik részből tudj enni!”
+
+Bulcsú a pintytől kapott vizet, hogy kortyolgasson egy keveset, mert a nap sugarai őt is kiszárították. A pinty a tetejéből bekapott még a vizes részből.
+
+Amint megcsókolták a száraz, kis szájukat, az edény hirtelen felizzott. Vörös és csillogó lett! A két állat nagyon meglepődött.
+
+A vörös színben egy angyal bukkant fel, és így szólt: „Hálásak vagytok, amiért mások gondját viselitek! Ezért most juttok ehhez a csodához! Azonban ne felejtkezzetek meg, a ti életetek is csodás! A homokdűnék mindig várnak titeket.”
+
+A madár, amíg a nap végéig itt tartózkodott, újra felgyűjtötte a levegőben a nedvességét a homokdűnéről. Bulcsú az útjukra kísérte, majd szomjúság nélkül kezdett el utazni, sosem feledkezve meg a kismadárral töltött napról, amellyel mindketten hálát adott a szívének, amiért a másik iránt kedves volt.
+
+A két kalandor a sivatagban, boldogan utazott tovább. A sivatag nem volt többé olyan rémisztő, mint amilyennek eddig ismerték. Bulcsú megtanulta, hogy az igazi segítség sosem a nagyságon vagy az erőn múlik, hanem a szíven. Azt a forrást pedig, melyet ő most már ismert, sok-sok alkalommal látogatta, hogy vizet adjon szomjas vándoroknak, akik szintén kalandra készültek a sivatagban. A homokdűnék csöndjét most már a nevetésük, és a boldog pillanataik töltötték meg. Azóta sem szomjazott. Mindig tudta, hogy hol találja meg a segítséget, ha szomjas lenne. A pinty pedig minden nap elment hozzájuk, hogy egy kicsit megnézzék, mennyire érezte jól magát, hogy mindig itt a tevénél segítheti az utazókat a sivatagban. És így Bulcsú, a teve, aki a homokdűnék között utazott, a szomjúság ellenére, a sivatag legboldogabb lakója lett.
+
+A történet vége.
+</body>
+```

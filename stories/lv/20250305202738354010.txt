@@ -1,0 +1,33 @@
+<prompt>
+Please write a educational Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kad pilsētā ieradās burvīgie kuģi'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lv</lang_id>
+
+<title>Kad pilsētā ieradās burvīgie kuģi</title>
+<body>
+Rīgas pilsētas iedzīvotāji bija pazīstami ar savām ikdienas gaitām.  Rīts sākās ar kafijas smaržu, kas plūda no ielas kafejnīcām, un garšīgu cepumu smaržu no maiznīcām.  Dienas ritēja mierīgi, ar ielu trokšņiem, kas apvienojās ar putnu dziesmām.  Bet viena diena bija atšķirīga.  Diena, kad pilsētā ieradās burvīgie kuģi.
+
+Neviens nebija gaidījis šādu brīnumu.  Debesīs, pār Rīgas panorāmu, parādījās divi spoži, metāliski kuģi.  Tie nebija līdzīgi nevienam citam kuģim, ko pilsētnieki bija redzējuši.  Kuģi bija kā divi milzīgi, spoži zilie putni, kas peldēja pa debesīm.  Viņu klusā kustība bija tik maiga, ka varēja gandrīz dzirdēt vēju, kas šalcēja ap to spārniem.
+
+Kuģu klāja sarežģīti dzelzs un metāla rakstu zīmējumi, kas izskatījās pēc sarežģītiem zvaigžņu zīmējumiem.  No kuģu augšdaļas izstaroja maiga, gaiši zaļa gaisma, kas apgaismoja pilsētu ar īpašu, maģisku gaismu.  Šī gaisma nebija karsta, bet gan atdzesējoša un mierinoša.
+
+Pilsētnieki, sākumā apmulsuši un neizprotot, kas notiek, drīz vien sāka apbrīnot šos skaistos kuģus.  Bērni skrēja pa ielām, rādot uz kuģiem un stāstot viens otram par redzēto.  Pieaugušie apstāja savu ikdienas darbu, lai apbrīnotu neparasto parādību.
+
+Viens mazs zēns, vārdā Arturs, bija īpaši aizrāvies ar kuģiem.  Viņš bija iemīlējies kuģu skaistumā un vēlējās uzzināt vairāk par tiem.  Viņš skrēja uz tuvāko bibliotēku, cerot atrast grāmatu par nezināmajiem kuģiem.  Bibliotēkā viņš atrada grāmatu par kosmosa kuģiem, kas bija rakstīta senā valodā.  Grāmatā bija zīmējumi, kas līdzinājās kuģiem debesīs.  Arturs saprata, ka šie kuģi ir no kosmosa.
+
+Arturs, aizrautībā, atgriezās ielās un stāstīja visiem par savu atklājumu.  Viņš pastāstīja par kosmosa kuģiem un par to, ka tie ir ceļojuši miljoniem kilometru, lai apmeklētu Rīgu.  Viņš teica, ka kuģi ir pilni ar gudriem cilvēkiem, kas ir gatavi dalīties savā zināšanā.
+
+Pilsētnieki, uzzinot par kuģu kosmisko izcelsmi, bija pārsteigti un priecīgi.  Viņi atvēra savas mājas durvis un pavadīja viesus no kosmosa ar gardām kūkām un siltu tēju.  Viesi no kosmosa bija laipni un draudzīgi.  Viņi pastāstīja pilsētniekiem par savu ceļojumu no tālām zvaigžņotām pasaulēm un par to, cik skaista ir Rīga.  Viņi dalījās ar zināšanām par kosmosa noslēpumiem un par to, kā uzturēt mieru un harmoniju.
+
+Pilsētnieki uzzināja par dažādām zvaigžņu sistēmām un par to, kā pastāv dzīvība citur Visumā.  Viņi apbrīnoja kosmosa kuģu sarežģīto tehnoloģiju un uzzināja par dažādām enerģijas formām, ko izmanto kosmosa kuģu darbināšanai.  Viņi saprata, ka zināšanas ir svarīgas un ka nevajag baidīties no jauna.
+
+Kad diena tuvojās beigām, burvīgie kuģi lēnām pazuda debesīs.  Pilsētnieki atkal apmetās savā ikdienas ritmā, bet atmiņas par kosmosa kuģiem palika ar viņiem.  Tās bija atmiņas par draudzīgiem ceļotājiem un par jaunu zināšanu avotu.  Rīga vairs nebija tā pati pilsēta.  Tā bija kļuvusi par daļu no plašāka, kosmiska stāsta.  Un Arturs, mazais zēns, zināja, ka visu var atklāt, ja vien ir gatavs meklēt un iedziļināties zināšanās.
+</body>

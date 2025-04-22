@@ -1,0 +1,36 @@
+<prompt>
+Please write a uncomplicated Estonian children's story that is at least 1000 words long.
+It must be completely written in proper Estonian (ET).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Viimane sõnaloomutaja otsib uusi sõnu Eestimaal'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>et</lang_id>
+
+<title>Viimane sõnaloomutaja otsib uusi sõnu Eestimaal</title>
+<body>
+Ei olnud kunagi olnud nii palju sõnu maailmas, kui oli Eestimaal. Sõnad olid nagu lillede õied, mis õitsesid kõikjal, kus iganes inimesed elasid. Aga kui aeg läks, siis algas sõnade kadumine. Inimesed unustasid vanu sõnu ja uusi ei loodud. Sõnaloomutajad, kes olid kunagi loonud uusi sõnu, olid peaaegu kõik kadunud.
+
+Ainuke, kes veel alles oli, oli väike tüdruk nimelt. Ta elas väikses külas, kus inimesed veel rääkisid vanasõnades ja laulsid vanasid laule. Tüdruk oli sündinud sõnade armastusega ja ta armastas neid rohkem kui midagi maailmas. Ta kuulas vanu mehi, kes rääkisid vanast ajast, ja ta õppis nende sõnu. Ta luges raamatuid, kus olid kirjutatud vanad sõnad ja lood.
+
+Ühel päeval, kui tüdruk oli käinud metsas, leidis ta vanamehe, kes istus jalga all. Vanamees oli sõnaloomutaja, kes oli elanud kauem kui keegi teine. Ta oli loonud palju sõnu, mis olid nüüd unustatud. Tüdruk rääkis vanamehele, et ta tahab olla sõnaloomutaja, nagu tema. Vanamees vaatas tüdruku sügavalt silma ja ütles: "Sa oled viimane, kes veel tahab olla sõnaloomutaja. Ma õpetan sulle kõik, mis ma tean."
+
+Vanamees õpetas tüdrukule, kuidas luua uusi sõnu. Ta õpetas talle, kuidas kasutada vanu sõnu, et luua uusi. Ta õpetas talle, kuidas kuulata maailma ja leida uusi sõnu. Tüdruk õppis kiiresti ja ta hakkas looma sõnu. Ta lõi sõna "metsik", mis tähendas midagi, mis oli vaba ja läbimatu. Ta lõi sõna "õhk", mis tähendas midagi, mis oli kerge ja õhuke.
+
+Tüdruk reisis üle Eestimaa, otsides uusi sõnu. Ta külastas linna, kus inimesed rääkisid kiiresti ja ägedalt. Ta kuulis sõna "kiirus", mis tähendas midagi, mis liikus kiiresti. Ta kuulis sõna "äge", mis tähendas midagi, mis oli tugev ja jõuline. Ta lõi sõna "linn", mis tähendas midagi, mis oli suur ja elav.
+
+Tüdruk reisis ka mere äärde, kus inimesed rääkisid merest ja laevadest. Ta kuulis sõna "meri", mis tähendas midagi, mis oli suur ja sügav. Ta kuulis sõna "laev", mis tähendas midagi, mis liikus vees. Ta lõi sõna "lainetus", mis tähendas midagi, mis oli vees liikuv.
+
+Tüdruk reisis üle Eestimaa, kuni ta oli loonud palju uusi sõnu. Ta lõi sõna "päike", mis tähendas midagi, mis oli kuum ja valge. Ta lõi sõna "kuu", mis tähendas midagi, mis oli valge ja kaunis. Ta lõi sõna "täht", mis tähendas midagi, mis oli kauge ja särav.
+
+Kui tüdruk oli loonud palju uusi sõnu, siis ta läks tagasi vanamehe juurde. Vanamees vaatas tüdruku sügavalt silma ja ütles: "Sa oled viimane, kes on võimeline sõnaloomutajaks saama. Sa oled loonud palju uusi sõnu, mis on vajalikud meile kõigile." Tüdruk ütles: "Ma olen õppinud palju, aga ma tahaksin õppida veel rohkem." Vanamees ütles: "Sa oled juba õppinud kõik, mis ma tean. Nüüd on aeg minna maailma ja jagada oma sõnu teistega."
+
+Tüdruk läks maailma ja jagas oma sõnu teistega. Ta rääkis inimestele, kes ei teadnud uusi sõnu, ja ta õpetas neile, kuidas kasutada neid. Ta lõi raamatuid, kus olid kirjutatud uued sõnad, ja ta jagas neid inimestele. Inimesed armastasid uusi sõnu ja nad hakkasid neid kasutama. Sõnad said elavaks ja nad hakkasid kasvama.
+
+Tüdruk elas kaua ja ta jäi sõnaloomutajaks. Ta lõi palju uusi sõnu, mis said osaks meie keelest. Ta õpetas inimestele, kuidas armastada sõnu, ja ta jagas oma armastust sõnade vastu. Kui ta suri, siis inimesed mäletasid teda kui viimast sõnaloomutajat, kes oli võimeline looma uusi sõnu. Nad mäletasid teda kui tüdrukut, kes armastas sõnu rohkem kui midagi maailmas.
+
+Aga sõnad ei surma. Nad jäid elama ja nad hakkasid kasvama. Inimesed said uusi sõnu ja nad hakkasid neid kasutama. Sõnad said osaks meie keelest ja nad hakkasid elama meie hulgas. Viimase sõnaloomutaja pärand jäi meile kõigile, et me saaksime armastada sõnu ja jagada neid teistega. Ja nii elavad sõnad edasi, kuni meie kõik oleme unustanud, et nad on olemas.</body>

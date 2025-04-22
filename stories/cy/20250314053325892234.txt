@@ -1,0 +1,75 @@
+<prompt>
+Please write a educational Welsh children's story that is at least 1000 words long.
+It must be completely written in proper Welsh (CY).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Hysbysebion y Goedwig a'r Gwesteion'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>cy</lang_id>
+
+```xml
+<title>Hysbysebion y Goedwig a'r Gwesteion</title><body>
+Roedd hi'n bore braf yn y goedwig. Roedd yr haul yn disgleirio ar y dail gwyrdd, a'r adar yn canu eu caneuon melys. Roedd Sioned y Vole, yr hen ffrind cyfarwydd, yn neidio'n hapus trwy'r glaswellt. Roedd hi'n hoffi'r boreau hyn, pan oedd popeth yn newydd ac yn llawn addewid.
+
+“Bore da, pawb!” galwodd Sioned wrth iddi gyrraedd y glade. Roedd yno bawb: Dewi’r Ddraig fach, yn ymlwybro gyda'i adenydd gleision, Cariad y Ceiliog, yn cribo'i y grib, ac Efa'r Eryr, yn gosod ei hun yn daclus ar gangen uchel.
+
+“Bore da, Sioned,” atebodd pawb yn gyflym.
+
+“Beth sy’n digwydd heddiw?” gofynnodd Dewi, gan chwyrnu'n gyffrous. Roedd gan y goedwig bob amser rywbeth arbennig i gynnig.
+
+“Wel, rwy'n credu bod rhywbeth yn digwydd iawn!” atebodd Sioned gyda gwên. “Roeddwn i’n mynd ar fy nhaith boreol a welais i rywbeth rhyfedd. Roedd hysbysebion newydd ar draws y goedwig.”
+
+Fe wnaeth y pawb edrych ar ei gilydd mewn syndod. Hysbysebion? Yn y goedwig? Doedd hynny erioed wedi digwydd o'r blaen.
+
+“Hysbysebion? Beth ydyn nhw’n ei ddweud?” gofynnodd Cariad, ei geg ar agor. Roedd e bob amser eisiau gwybod beth oedd yn digwydd.
+
+“Dydyn nhw ddim yn hir,” esboniodd Sioned. “Maen nhw’n gwerthu gwrthrychau neu ddigwyddiadau o’r goeden.”
+
+“Dewch, mae’n rhaid i ni fynd i weld!” meddai Efa'r Eryr, gan ddechrau hedfan uwchben y coed. “Rydw i'n gweld un yn syth ymlaen!”
+
+Ac felly, aeth y pedwar cyfaill ar daith i archwilio'r hysbysebion.
+
+Ar y goeden gyntaf, gwelasant hysbyseb fawr, hardd wedi'i hongian ar gangen. Roedd wedi'i ysgrifennu mewn llythrennau lliwgar, hyfryd.
+**“CYNNIG ARBENNIG! TAITH AR FARA'R CORGI! Mae'r siop fwyd anifeiliaid yn cynnig taith o gwmpas y goedwig, wedi'i gyrru gan Siôn y Corgi. Dewch i fwynhau prynhawn o antur, gydag ymborth arbennig!”**
+
+“Wow!” galwodd Dewi, “Mae hwnnw’n swnio’n hwyliog! Dwi’n caru mynd ar y corgi, ac rydw i'n caru cael bwyd!”
+
+“Mae'n edrych fel ei fod wedi paratoi rhywfaint o fwyd ar eu cyfer yn ôl yr hysbyseb!” ychwanegodd Cariad, gyda rhywfaint o ofn. Roedd yn hoffi bwyd hefyd, ond roedd yn gwybod bod bwyd bob amser yn gallu cael rhywbeth annisgwyl.
+
+“Yn bendant,” meddai Sioned. “Gadewch i ni fynd a gofyn i Siôn.”
+
+Aethon nhw at Siôn y Corgi, oedd yn llawn cyffro i weld eu wynebau hapus. “Rwy'n falch iawn eich bod chi'n hoffi fy mhrosiect!” meddai Siôn gyda llawenydd. “Rydw i eisiau rhoi cyfle i bob un ohonoch i ddod i fwynhau.”
+
+Aethon nhw ar y daith a roddodd llawer o hwyl i'r grŵp, gyda'r corgi yn cludo ei holl ffrindiau ar draws y goedwig i ddarparu iddynt yr hyn oedd ei angen.
+
+Wedi i'r cyfaill orffen y daith, fe wnaethon nhw barhau i ddarganfod y lleill. Ychydig i lawr y llwybr, daethon nhw ar draws yr ail hysbyseb.
+
+**“DIWRNOD A CHAEL YN Y PWLL! Cynhelir digwyddiad i weld pob math o creaduriaid môr! Dewch i gael diwrnod o hapusrwydd!”**
+
+“Wow, mae hynny’n swnio’n rhyfeddol!” galwodd Efa'r Eryr. “Dw i wir eisiau gweld pysgod. Does gen i ddim syniad sut y mae pysgod yn edrych fel.”
+
+“Ac fi chwaith!” cytunodd Dewi. “Mae dŵr bob amser yn ymddangos mor ddiddorol.”
+
+Fe wnaethon nhw ddarganfod bod y digwyddiad hwn yn cael ei drefnu gan Pwyll y Llyffantod, oedd yn byw yn y pwll. Roedd wedi casglu ystod eang o creaduriaid o ddyfroedd pell a pherthnasau ar gyfer y bobl yn y goedwig i weld. Roedd hi'n edrych ar yr awyr gyda llygaid mawr, lliwgar a dechreuodd chwerthin wrth iddynt edrych yn llewyrchus ar draws yr afon.
+
+Roedd creaduriaid diddorol ar ddangos; roedd pysgod bach gwyn, cregyn cregyn y môr a llawer o bethau eraill. Mwynhaodd y pawb ddarganfod eu ffrindiau mor newydd.
+
+Aethon nhw ymlaen a chafon nhw drydydd hysbyseb arall:
+
+**“CYRSIAU CERDDORIAETH I'R GWYLIAID! Ymunwch â Sian y Gwiwer i ddysgu canu’r gitâr, y drymiau, a'r ffidil. Gwneud ffrindiau newydd, cael hwyl a chreu caneuon newydd! Am ddifyrrwch gweddus.”**
+
+“Mae hyn yn mynd i fod yn wych!” sgrechiodd Cariad. “Rydw i eisiau dysgu canu. Rydw i bob amser wedi breuddwydio am fod yn seren roc a rôl.”
+
+“Mae hynny'n swnio'n wych, Cariad!” atebodd Sioned. “Dw i’n meddwl bod hwnna'n lle da i ni i gyd.”
+
+Fe gwrddon nhw â Sian y Gwiwer, a ddarparodd y wers cerddoriaeth. Gwnaethon nhw glywed am nifer o ddrymmiau ac offerynnau eraill. Dechreuon nhw i gyd canu, hyd nes y clywson nhw swn fel pe byddent nhw wedi bod mewn band roc a rôl yn y gwirionedd. Gwnaethon nhw ddarganfod bod gennych bob un ohonyn nhw deimlad cariad ac angerdd at y gerddoriaeth, ac felly ar ôl misoedd fe gawsant gyfle i berfformio eu sioe gyntaf ar gyfer holl drigolion y goedwig!
+
+Gwnaethon nhw ddarganfod fod y goedwig yn llawn cyffro a syndod. Gwelasant bethau y buasai'n anodd i neb ohonyn nhw freuddwydio amddynt.
+
+Ac fe wnaethon nhw, am y diwedd, ddysgu peth gwirioneddol bwysig. Mae croeso i newid, mae angen croeso i ffrindiau, ac mae'n well cael amser hwyliog ac ysblennydd, gan ddarganfod llefydd a phethau newydd. Ac mae'r goeden yn darparu'r rhain i gyd. Roedd bob un ohonyn nhw'n dysgu pethau newydd ac yn fwy na hynny. Felly ar ddiwedd y dydd, fe ddychwelon nhw adref, eu calonau yn llawn llawenydd ac angerdd. Roedd y goedwig, roedd yn sicr, yn lle arbennig i fyw ynddo. A diolch i'r hysbysebion, roedd y goedwig yn dod yn fwy rhyfeddol fyth.
+</body>
+```

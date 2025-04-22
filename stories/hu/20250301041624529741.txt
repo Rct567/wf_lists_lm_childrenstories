@@ -1,0 +1,33 @@
+<prompt>
+Please write a emotional Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Az Esthajnalcsillag titkos üzenete'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>Az Esthajnalcsillag titkos üzenete</title>
+<body>
+Kis Bálint, a tízéves, barna hajú fiú, minden este, ha a nap lebukott a hegyek mögé, felnézett az égre.  Nem a csillagok szépségéért, nem a fények táncát figyelve, hanem egyetlen csillag után kutatva: az Esthajnalcsillag után.  A nagyszülei mesélték neki, hogy ez a csillag őriz egy titkos üzenetet, egy üzenetet, amely megváltoztathatja a világot.  És Bálint hitt nekik.
+
+Bálintnak fájt a szíve.  A falu, ahol élt, szegény volt. A házuknak hiányzott a vidámság, és a lelke mélyén vágyott arra, hogy a dolgok jobb irányba forduljanak.  Különösen szeretett volna játszani a völgyben, a színes virágok között, amelyek azonban mostantól távoli, érthetetlen fényekként tűntek fel az ablakból.  Apja mindig sokat dolgozott, és anyja arcán állandó aggodalom tükröződött.   Ez a csillag, a titkos üzenet talán a kulcs lenne.
+
+Egy éjszaka, amikor a Hold ragyogott, és a csillagok elbűvölő éneket énekeltek,  Bálint látta. Ott volt, az Esthajnalcsillag. Nem pislákolt, hanem élesen, határozottan ragyogott, mintha tudna valamit.  Bálint elhelyezkedett a kertjükben lévő régi,  roppant kőpadon.  Lassan, nagy nehezen lekövette a csillag mozgását, miközben szorosan figyelte.
+
+Hirtelen, úgy tűnt, a csillag villanást produkált. Nem volt tűzijáték, inkább egy apró, gyönyörű rajzfilm jelenet, amelyben virágok nőttek, virágoztak és táncoltak a sötétben.  A virágok színesek voltak: olyanok, mint a nyári napon, ragyogtak a hegyek lábában fekvő mezőn.  És minden virágban megjelent egy apró, szentképletű betű, a csillag titkos üzenetének egy része.
+
+Bálint elolvasta a meséket, amiket a csillagok rejtett kódjai közvetítettek.  Megértette a gondolatok érzetét, mintha az esthajnalcsillag lejegyezné, lefordítaná minden virág vágyait a földre. Megértette, hogy a falu lakói nem boldogok a földjük szomorúsága miatt.  Szükségük volt arra, hogy a szántóföld virágzó legyen.  Az üzenet világos volt, bár Bálint nem értette minden részletét:   „Szeretettel és szorgalommal, gazdag virágoskertek nőhetnek.”
+
+Elmosolyodott, és megérintette az anya karját, aki éppen az ablaknál állva figyelt.  Alig merte kimondani: „Mama, láttam a titkos üzenetet az Esthajnalcsillagtól!”  Beszélt a mezők szomjúságáról, a virágok vágyairól és arról, hogy a gondoskodás elnyújtó erővel bíró természet csodálatos lehet.
+
+Másnap reggel, Bálint egy kicsinyke üvegedénybe gyűjtött néhány szép virágot a völgyből, majd a földjükön kezdtek  egy kisebb virágágyást telepíteni, apránként megfigyelve az anya irányítását, a szomszédokkal segédkezve. Lassan, de biztosan a réten szebbnek és színesebben virítottak a növények. A lelkiismeretesség és szeretet nem várt virágzásáról számolt be.
+
+A következő éjszaka Bálint már nemcsak az Esthajnalcsillag titkos üzeneteit várta.  Megfogalmazott reményt a magabiztosságba és szándékkal tett mindennapjaiba. A közös gondoskodás és a szeretet csodálatosan átalakított mindent. A fájdalom és szomorúság szépen kezdtek feledésbe merülni.  A falu virágokkal telepedett, boldog mosollyal és reménylő szívvel, és mindenki tudta: az Esthajnalcsillag üzenete valóra vált.
+
+A boldogság a szívükben és az éjszakai csillagok gyöngéd fényében éltek tovább.
+</body>

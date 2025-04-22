@@ -1,0 +1,63 @@
+<prompt>
+Please write a emotional Swedish children's story that is at least 1000 words long.
+It must be completely written in proper Swedish (SV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Den stridslystna fisken och den fascinerande undervattensvärlden'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>sv</lang_id>
+
+```xml
+<title>Den stridslystna fisken och den fascinerande undervattensvärlden</title>
+<body>
+<p>Det var en gång en liten fisk vid namn Kalle. Kalle var inte som de andra fiskarna i den stora, glittrande sjön. Medan de andra småfiskarna lekte kurragömma bland de vajande sjögräsen eller pickade på algerna på botten, var Kalle alltid redo för strid. Han hade en liten, men trots allt envis, fenkniv som han vässade varje morgon mot en grov sten i en liten grotta han kallade "Krigergrottan". Hans fjäll glänste inte lika mjukt som de andras, utan bar istället märken av otaliga små "strider" med stenar, sjögräs och ibland till och med andra, rädda småfiskar som kommit för nära.</p>
+
+<p>Kalle drömde inte om att jaga de saftiga vattenlopporna eller flyga över sjön med måsarna. Han drömde om ära, om respekt, om att vara den starkaste fisken i hela sjön. Han tränade hårt varje dag, simmade snabbt, vred och vände sig i vattnet, och hoppade till och med (inte så högt) upp ur vattnet för att testa sin styrka. Hans idol var den stora gäddan, som lystrade till namnet Storfisk, och som alla fiskar, utom Kalle, fruktade.</p>
+
+<p>En dag, när Kalle satt och vässade sin fenkniv (som för övrigt var mer skrap än kniv), hörde han ett litet, pipigt ljud. Han ryckte till, nästan tappade kniven. Ljudet kom från en liten, skimrande skalbagge som kröp uppför grottväggen. "Hej där!" pipade skalbaggen. "Vad är du för en krigare?"</p>
+
+<p>Kalle reste raggarna (fjällen, men ändå) och sa, "Jag är Kalle! Den mest stridslystna fisken i sjön! Vem frågar?"</p>
+
+<p>Skalbaggen fladdrade med sina små, genomskinliga vingar. "Jag är Glittra. Jag har rest runt hela sjön och sett fantastiska saker. Jag tänkte att du, som är en krigare, kanske skulle vara intresserad."</p>
+
+<p>Kalle fnyste. "Fantastiska saker? Vadå? Stora stenar att slåss mot? Eller ännu räddare fiskar att skrämma?"</p>
+
+<p>Glittra skakade på sina små antenner. "Nej, inget sådant. Jag har sett korallrev i regnbågens alla färger, grottor fyllda med lysande alger, och... ja... valar som sjunger."</p>
+
+<p>Kalle blev tyst. Korallrev? Lysande alger? Valar som sjöng? Han hade aldrig hört talas om något sådant. Hans värld hade alltid bestått av den gråa botten, det mörkgröna sjögräset och de andra, tråkiga fiskarna.</p>
+
+<p>"Var... var är allt det där?" frågade han, rösten darrade lite.</p>
+
+<p>Glittra log. "Det är bortom de kända områdena, bortom den gråa botten. Det är en helt ny värld därute, Kalle. En värld full av underverk."</p>
+
+<p>Kalle tvekade. Han hade alltid tänkt att styrka och strid var det enda som räknades. Men nu... nu kände han en ny, märklig pirrande känsla i bröstet. Nyfikenhet.</p>
+
+<p>"Visar du mig?" frågade han, äntligen.</p>
+
+<p>Glittra fladdrade med sina vingar igen. "Jag tar dig med på en resa. Men var beredd. Du kommer att se saker du aldrig kunnat drömma om."</p>
+
+<p>Och så började deras resa. Glittra ledde Kalle genom snåriga sjögräs, förbi farliga strömmar och förbi den stora Storfisk, som, förvånansvärt nog, bara blinkade mot Kalle och lät honom passera. De simmade och simmade tills de nådde en plats där vattnet förändrades. Det blev varmare, ljusare, och färgerna blev... ja, de blev nästan obeskrivliga.</p>
+
+<p>Först såg de korallreven. Det var som en trädgård av färger, rosa, orange, lila, blått – allt sammansmält i ett spektakulärt konstverk. Små fiskar i alla regnbågens färger simmade fram och tillbaka mellan korallerna, lika nyfikna på Kalle som han var på dem. Kalle glömde nästan sin fenkniv och alla sina stridslystna tankar.</p>
+
+<p>Sedan såg de grottorna fyllda med lysande alger. Alger som lyste som tusen små stjärnor. Kalle simmade in i en grotta och stannade helt förbluffad. Det var som att simma genom en sagobok.</p>
+
+<p>Och till sist, hörde de valarna. Deras sång var djup, vibrerande och fylld av en sorglig, men vacker melodi. Kalle kände hur en tår, en fisk-tår, rullade nerför hans kind. Han förstod inte orden, men han förstod känslan. Det var en känsla av något större, något mer än strid, något... vackert.</p>
+
+<p>Under resan mötte Kalle många olika varelser. Vissa var farliga, men de flesta var vänliga och fascinerade av den lilla stridslystna fisken som nu var helt hänförd av den nya världen. Han insåg att styrka inte bara handlade om att slåss. Det handlade också om modet att utforska, att vara nyfiken, att öppna sitt hjärta för det okända.</p>
+
+<p>Kalle och Glittra återvände till slut till sjön. Kalle var inte längre samma fisk. Hans fjäll lyste inte lika mycket, men de hade en annan glans – en glans av kunskap och upplevelse. Han hälsade på de andra fiskarna, inte med hot eller utmaningar, utan med ett leende. Han berättade om allt han hade sett, om korallreven, de lysande algerna och valarna som sjöng.</p>
+
+<p>De andra fiskarna, som tidigare hade hållit sig undan honom, lyssnade fascinerat. Vissa tvivlade, andra blev nyfikna. Men alla kände en förändring i luften, en förändring som Kalle hade skapat, en förändring som handlade om att våga se bortom det kända.</p>
+
+<p>Storfisk, som hade sett allt, simmade fram till Kalle. Han sa ingenting, bara nickade lätt och blinkade med sina stora ögon. Det var en tyst bekräftelse. En erkännande. Kalle förstod. Han behövde inte vara den starkaste fisken. Han behövde inte slåss för att få respekt. Han behövde bara vara sig själv, en fisk som vågade drömma och utforska.</p>
+
+<p>Kalle fortsatte att simma i sjön, men han simmade inte längre ensam. Han hade vänner, och de hade en gemensam längtan – att utforska, att upptäcka, att förstå. Han vässade inte längre sin fenkniv. Han behövde den inte. Istället hade han ett litet, färgglatt skal från en korall som Glittra gett honom. Han bar det som en amulett, en påminnelse om den fascinerande undervattensvärlden och allt den hade lärt honom.</p>
+
+<p>Och så, den stridslystna fisken Kalle, blev en fisk som visste att den verkliga styrkan låg i hjärtat, i nyfikenheten, och i modet att simma bortom de gråa djupen och in i det okända, det vackra, det fantastiska.</p>
+</body>
+```

@@ -1,0 +1,83 @@
+<prompt>
+Please write a uncomplicated Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Cathair Fhiáin i lár na Mumhan'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>ga</lang_id>
+
+<title>Cathair Fhiáin i lár na Mumhan</title>
+<body>
+Bhíonn an t-aer fuar agus an ghaoth crua ar mhaitheamh na Mumhan.  Bhí sé geimhridh, geimhreadh deacair.  In aice le gleann a bhí clúiteach as a fhíor-ghlanacht, ina choisín ghlórmhar in aice le sléibhte ard, bhí cathair beag, nua-leasaíonn, déanta as cré agus clocha.  Ba cathair fhiáin í, ach bhí an bheocht ann, cosúil le craiceann álainn in aice le cruach dhearga.
+
+
+Bhí Maeve, cailín óga, ag fanacht leat an bhaile. Bhí sí ag luchtú páipéirí aige uaid, chun an taobh istigh a fhuarú agus a ghlanadh, agus ag obair mar a bhí an ghaoth ag pógadh na gcilaí ar a cófra.  Bhí a súile mór, gorm, ina suí ar a feiceáil amach agus ina súil ar chreag na gréine agus ina súil leis an uile dháta. Ba chách í ar an talamh.
+
+Bhí craiceann bána a feiceáil sa ghrian. Ba chailín aníos í, agus ghreann é. Bhí a cíocha ró-mór ar son a cófra. Is féidir leat an ghaonn a fheiceáil amach ar a ceann; d'fhéadfadh sé a mhála an dorchais a shocrú i bhfuinneog sa bhaile, chun an spéir os cionn a chéile agus a cófra a mheaitheamh.
+
+
+Agus sí ag obair, chuala sí fuaim dhocht. Bhí sí ag brú ar a nguais nó tá go leor a bheith faoi bháis agus ag teacht chun bheith díobhálach, ach ní raibh aon aibhéil orthu. Nuair a chuir sí a ghaol ar chinn isteach, bhuaileadh, chuir sí súil leis na fionnachtan iontaisach.
+
+
+Bhí duine ann, an fear. Bhí sé dorcha-feiceálach, go bhfuil, dorcha-feiceálach, ach bhí na sroicheadh faoi dheas go leor fós.  Bhí sé faoi chuideachta dhá bhean anonn an fionnachtana mórán, de chineál do mharcas deich bliain d’aois i bhfad. Is féidir iad a dhéanamh i n-íos-chúis faoi sriananna sa cheantar, faoi réir comhdhéana comhfhiosachta sa chathair. B’fhéidir nach raibh go leor fios acu, is amhlaidh a bheadh siad? B'fhéidir gurbh ionann a chruthadh iad seo, ina gcath, ach nár thainig a smachta ceart?
+
+
+Agus bhí sé ina cheann cheirdeach, a fheabhsú i gcárta na réalta agus a sásamh féin as na deisiúcháin i ngnó. Chaith sé níos mó ama ag fáil faoi shlándáil ar fhear agus gan a mhaitheamh le smaointe eile, le h-eagsoireacht sa chos, ach gan a chur in iúl, ina gcuacha ag díolcadh síológa ná i n-aon ghnó, ná ina n-úsáid ach. B'fhéidir gur fhaigh gach ball de dhíolacháin iad in éineacht leis, gan iad a sheasamh in éineacht leo le lá iomlán de na cúiseanna is gnách ag dul. B'fhéidir gur dócha go mbeadh sé sásta sa gceann ceirdeach seo mar fhoireann mheaisíní, agus go bhfaighdheadh sé sa mháthair nó ina fear eile ina n-aird agus ina n-aistriúchán, nó gur chóir go mbeadh go leor níos mó de na deiseanna sin. B'fhéidir gurbh iomchuí a bheith ag aon ghéim, gan i gcion níos mó sa leibhéal féin?
+
+
+"Cén fáth nach bhfuil aon duine ann, ag troid?" iarr Maeve.
+
+
+"Táimid ag lámhach le gnó," arsa an fear.  "Tá go leor feidhmiú ann a bhfuil ann. Is maith leo go mbeadh lucht obair acu. Ach níor leor seo leis an lucht saothair atá i gceist. Ar chóir dóibh a bheith ag gníomhú chomh maith is a bhíonn sa mhaoin?".
+
+
+"Agus cad a déanfaidh sibh le réitigh," iarr Maeve arís.  
+
+
+"Tiocfaidh rud ar bith i dtreo," arsa an fear,  agus rinne sé bogadh go taobh, rud a d'fhéadfadh cur i láthair a thairis.  Bhí sé ag caint go breá an ceathrú uair agus go minic gan a bheith ar a chosa féin nó sa chathair seo, agus ní raibh an chaidreamh dírithe chuig daoine éagsúla i gcónaí, agus níor thug an cath iad le chéile ach ansin nó a luaithe gur troid siad a chéile, nó bhí sé níos mó ná an troid siúd nó. Nuair a léigh sé sin, chaith sé anonn leis ina chonaic an fás isteach ag fás thar a chéile.
+
+
+"Ní gá duit lámh a chur ann," arsa an fear. "Cuma a dhéanann tú."
+
+
+"Cén fáth?" iarr Maeve.
+
+
+"Fágann go leor rudaí.  Beidh ár gcuid réitigh, áfach, a chuirfear faoi deara leis na forais a fhéadann siad ar bheag nó ar mór aon dháta amháin i dtréimhse amháin. D’fhéadfaimis é a dhéanamh aon lá, nó aon uair. Ag tosú ar aon fhoirm, ag gabháil faoi seo, ar an mbealach féin."
+
+
+Chuir Maeve súil air, iontach.   Bhí rud éigin ina srón sa fear. Nuair a shíl sé ar a cheist níos mó i láthair, níos mó fós agus mar a bheadh ceangailteach ina mbealach ar bith leis a shíológa mar go mbraitheann sé nuair a d’fhéadfadh rud éigin álainn a thabhairt ar an tráth nó ar dháta ceangail. Mar gheall air, chonaic Maeve a chuid ag tarraingt air féin leis na rudaí mhaithe chun iad a fhágáil ina gcúl agus chun dul i dtreo réad níos álainn, áilleacht mhór, go mbeadh go leor ann. Bhí siad faoi chuideachta dhá bhean, mar is minic a bhaineann, ina dhiaid amach faoin láthair seo.
+
+
+Is breá liom í an grian, a chuaigh Maeve a chonaic ar a súile a chroinnte. Níl aon dháta san áit ar chóir. Ní hé seo ar bhealach eile a bhuaigh go leor ar fhrith. Bheith ag imirt leis a chuid gnó is deireanna le fionnachtáin in ionad dó. Bhain sí lámh leis an ghnó seo faoi mhaitheamh. Bhí sí go bríomhar díreach agus bríomhar faoi na smaointe atá acu i ngach ceann, díreach go réasúnta faoin bhféiniúlacht a ghlacann siad. Chun cur i láthair a gcúram gan dochar a ghéar-cháilíochta nó a álainn. Níl sé nuair a thiocfaidh aon álainn ar chorr leis an ndíograis is éigean a bhí ann mar thoradh air sin i bhfeidhm.
+Tháinig an bheocht a dhéanann súil go leor leis an mbean faoi bhráigh an bhró, ag féachaint faoi chruaigí dearg agus ag síl gur ceart iad a bheith ag obair i gcomhpháirtíocht gan mórán díriú ná gá.
+
+Thosaigh sé ag cur síológa in airde ar fionnachtáin na réaltaí. Agus go hiontach d’éiligh a gcailín bhuadhach atá dírithe ar an tráth céanna a chur chun cinn gan stad. Agus síológa breá i láthair le déanaí, in ann féin-chinntíochtaí álainn áitritheach nó gnóthach a sheachaint. Thosaigh aon díreacht a d’aimsigh sé mar gheall air seo gan ach na mionghníomhartha is iontais i láthair. Bhain sé lámh leis na mion-chinnteachtaí.
+
+
+
+
+Chuir Maeve i gcuimhne duit, tá siad ann. Gan iad a bhaint uaidh sa chlár ach mar chomhréiteach. Chuir sé sin faoi deara go raibh sé réiteach.
+Bhí an lá gearr, ar an dath a bhí, ag smaoineamh ar an gcéad.
+Bhí cathair mhiorúil ag baint ar dtús leis. Bhí sí ag deireadh na sléibhte nua. Chinn sí go bhféadfaí é sin a dhéanamh. 
+Leis na huaire anuas, na ceasaí. Nuair a labhraíonn tú leis na síológa is minice a d’éist tú leis. Chuir an mná na síológa síos sa gach réiteach, faoi láthair gan mórán chroíltachta. Go hálainn nuair a bhí siad á n-ag cur suas ar fhionnachtán. D’fhógair sí an álainn seo, agus gan bród a d’éiligh.
+ Bhí an lá ag dul isteach i scéal uasal.
+
+
+Bhí an ghnó féin réiteach ag tús a thábhachtaithe i gcúrsaíocht nua chun ceasaí, iontais nach bhféadfadh gurbh fhéidir leat. Go deimhin, sa tráthchláir sa tsíológa atá aige seo.
+Sa láthair nach bhfuil ach.
+Chun an tráth céanna a ghabháil leis a réiteach.  Gan dócha go gcruinnítear leis an réiteach seo i n-ádh in aisce a d’fhéadfadh dul ag obair ag gabháil na mná agus faoi chomhairle eile. Bhí gné de aibhéil go hiontach. Chuir an chathair bheag é sin ar fáil agus a chur leis. Aitheantais go bhfuil sé breá, níos álainn le cúrsaí ar bhroinn go díreach.
+Bhí an bhrón.  Mar a bhí sé mar gheall ar éirigh réiteach nua dóibh a bheith ag obair in aon ghrúpa ag cur aird air féin agus cur le dúshláin. Chuir an cath. Ní leor a thabhairt le réiteach an fhrith i láthair a chreid. Níochtaí go mbraitheann sí ag baint taitneamh aige ag déanamh é a chuid réiteach faoin gcomhairle eile agus dul ar thrialach. Bhí cathair ag bualadh le dháta in éineacht léi.
+
+
+
+
+Thug an fear suas ag iarraidh é a réiteach agus gan teagmháil, a bhí ann nua.  Is dócha nach féidir le daoine faoin gceantar seo dul in éineacht lena mhaitheamh. Is maith le Maeve gan a bheith le gan tuairim bheag i bhfeidhm sa bhaile i gceann cúpla lá.
+
+
+Chuir an beirt anonn leis sa ghlann.

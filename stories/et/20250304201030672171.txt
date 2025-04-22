@@ -1,0 +1,69 @@
+<prompt>
+Please write a dialog-based Estonian children's story that is at least 1000 words long.
+It must be completely written in proper Estonian (ET).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Suvepäeva pärastlõunal kadunud päikesekivi'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>et</lang_id>
+
+<title>Suvepäeva pärastlõunal kadunud päikesekivi</title>
+<body>
+Sirje hüüdis õrnalt: "Tiiu, Tiiu! Kas sa oled siin?"
+
+Varjulise metsaseina taha peidus Tiiu vastas: "Jah, Sirje. Mis sa otsid?"
+
+Sirje kõndis lähemale, pilk metsaseinal vilkuvate liblikate peal. "Ma otsin päikesekivi! See on minu ema käekellaga kinni, aga ma ei leia seda enam."
+
+"Päikesekivi?" küsis Tiiu uudishimulikult. "Mis see on? Ma pole midagi sellist kuulnud."
+
+"Noh," Sirje hakkas jutustama, "see on väga eriline kivi. See paistab päikesevalgel eri värvides ja teeb inimese südame soojaks. See on nii väike, et mahuks kõrva auku."
+
+"Hää! Kõrva auku," imes Tiiu. "Kuidas see siis läks kaduma?"
+
+"Me mängisime varjualust leidmist ja ma asetasime selle sinna. Siis aga hakkas vihm ja kui mina tagasi tulime, oli kivi kadunud!" rääkis Sirje pisarais silmis.
+
+"Äkki ta peitub kuskil varjulises kohas?" pakkus Tiiu välja. "Või teises metsaosas?"
+
+Nad otsisid koos. Sirje läbis metsa tee iga künka ja metsaseina ümber, iga varjulise puu all, iga mädaneva kändu sees. Tiiu aitas leida langenud oksaid ja sorteeris ära iga mädanevat lehte. Nad uurisid iga nurka, aga päikesekivi ei leitud.
+
+"Noh," ütles Tiiu, õrn hapu näoga, "parem alustame otsimist ühelt poolt ja minge teisel pool metsa."
+
+Ja nii nad tegid. Sirje läbis rohelist metsateed, kuulates laulu metsalindude.  Tiiu sammus kuivate okaste ja lehtede kohal, vaadates iga metsakäärust. Nad jooksid metsa kaudu, kõrged puud varjates päikest ja lastes langevate lehtedest tekkida krõbinad ja kostudes metsloomade helisid.
+
+Järsku nägi Sirje varjulise kuusealuse all väikest sädelevat punkti. Ta kummardus, võttes kivi ja kinnitas see iseendale vastu.
+
+"Vaata!" karjus ta. "Leidsin!"
+
+Tiiu kiirustas ka lähemale ja imetas rõõmusena päikesekivi pehmet sätendust. "Vaata, kui ilus see on! See tõesti sähvatab erinevaid värve."
+
+"Mul on nii hea meel," hingas Sirje kergendunult. "See on just see!"
+
+"Aga kuidas see varju all ilmuna ilmus? Kuidas see kaduma läks, ei mäleta?" küsis Tiiu.
+
+"Meie pole kindel," naeratas Sirje, "aga kui kivi paistab nii sädelevana, siis võib ta alati kaduda ja uuesti ilmneda."
+
+Just siis avastas Tiiu okste vahel pisikesed jalajäljed. "Vaata, jalajäljed!" karjus ta rõõmustades.
+
+"Ja jälgi on kaks paari," märkis Sirje. "Me ei ole üksi.  Käis metsas midagi."
+
+Nad otsisid kauem,  kuuldes siis hõredalt linde.
+
+"Mida on siin?" küsis Tiiu, teadmata ise vastust.
+
+"See peab olema metsloom," rääkis Sirje. "Ta avastab kivi. Või oli nad meie järel jälginud?"
+
+"Peame rääkima metsast looma!" otsustas Tiiu. "Äkki ta aitab meil oma suvest lugu teha."
+
+Nende südamed olid rõõmsad, kivi kalli ja käes, nad seisid metsa serval, kus tuul mängis rohelistes lehtedes ja laulis oma meloodiat. Nad pidid veel paljude metsaaluste saladuste avastamisele.
+
+Sirje panis päikesekivi ettevaatlikult oma käekellale ja nägi Tiiuga kokku katsudes silma. Nende süda oli täis rõõmu ja uusi, teadmatuid teekondi.
+
+"Ma arvan," ütles Sirje naeratades, "et saame veel ühel päeval kuulda palju lugusid metsast."
+
+"Kindlasti," nõustus Tiiu ja samm kõndimisele. "Ja varsti võibolla leitakse veel teisi imelikke päikesekive. Igas värvitoonis! Tähtsaim asi ei ole kive leida, vaid uudishimu süüdata ja koos avastada!"
+</body>

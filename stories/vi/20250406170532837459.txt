@@ -1,0 +1,67 @@
+<prompt>
+Please write a emotional Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Bạn Thỏ Trắng Nhút Nhát Và Tình Bạn Đẹp Trong Rừng Xanh'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>vi</lang_id>
+
+```vi
+<title>Bạn Thỏ Trắng Nhút Nhát Và Tình Bạn Đẹp Trong Rừng Xanh</title>
+<body>
+Ngày xửa ngày xưa, trong một khu rừng xanh thẳm, nơi tiếng chim hót líu lo hòa cùng tiếng suối chảy róc rách, có một chú thỏ trắng nhỏ nhắn tên là Bông. Bông có bộ lông trắng như tuyết, đôi mắt hồng long lanh và đôi tai dài vểnh lên, luôn sẵn sàng lắng nghe. Nhưng trái tim Bông lại rất nhút nhát.
+
+Bông thường trốn sau những bụi cây dại hoặc trong hang ổ nhỏ của mình. Khi những chú thỏ khác tụ tập vui đùa, Bông chỉ dám đứng từ xa nhìn theo. Tiếng cười giòn tan, những trò chơi thú vị, tất cả đều ở rất gần mà cũng rất xa vời với Bông.
+
+Một buổi sáng, khi mặt trời vừa hé rạng, Bông đang lang thang một mình quanh khu vườn. Bỗng nhiên, một tiếng kêu thảng thốt vang lên, cắt ngang sự tĩnh lặng của buổi sớm. "Cứu tôi với! Cứu tôi với!"
+
+Bông giật mình, tim đập thình thịch trong lồng ngực. Nhút nhát như Bông, lẽ ra cậu phải bỏ chạy, tìm nơi an toàn. Nhưng tiếng kêu đau khổ kia cứ vang vọng trong đầu Bông. Cậu thận trọng tiến về phía phát ra âm thanh.
+
+Khi đến gần, Bông nhìn thấy một chú chim sẻ nhỏ, cánh bị thương, đang cố gắng vùng vẫy. Bên cạnh chú chim, một con mèo rừng to lớn, đôi mắt xanh lá cây nhìn chằm chằm, vẻ mặt hung dữ.
+
+Bông sợ hãi đến nỗi toàn thân run lên. Cậu chỉ muốn quay lưng bỏ chạy, nhưng rồi cậu lại nhớ đến tiếng kêu cứu của chú chim sẻ. Bông hít một hơi thật sâu, cố gắng lấy lại bình tĩnh. Cậu nghĩ, mình phải làm gì đó.
+
+Cậu từ từ bước ra, đứng giữa con mèo và chú chim sẻ. Giọng Bông run rẩy, nhưng cậu vẫn cố gắng cất tiếng: "Chào… chào anh mèo ạ. Anh… anh có thể… để chim sẻ đi được không ạ?"
+
+Con mèo rừng ngạc nhiên trước sự xuất hiện của Bông. Nó nhe răng, gầm gừ, nhưng có vẻ như sự dũng cảm bất ngờ của Bông đã khiến nó chùn bước.
+
+"Chú thỏ con, đây không phải chuyện của ngươi," con mèo gầm gừ. "Mau tránh ra, kẻo ta lại làm hại ngươi."
+
+Bông không lùi bước. Cậu đứng thẳng người, mắt vẫn nhìn vào con mèo. "Chim sẻ… chim sẻ cũng là bạn của tôi. Xin anh đừng làm hại bạn tôi."
+
+Bất ngờ, một giọng nói trong trẻo vang lên. "Con mèo kia, mau tránh xa bạn tôi ra!"
+
+Bông và con mèo cùng lúc nhìn về phía phát ra tiếng nói. Đó là một cô sóc con, đang trèo thoăn thoắt trên cành cây gần đó. Cô sóc cầm trên tay một quả thông lớn, sẵn sàng ném vào con mèo bất cứ lúc nào.
+
+Con mèo rừng có vẻ ngần ngại. Nó liếc nhìn Bông, rồi lại nhìn cô sóc. Cuối cùng, nó quyết định bỏ đi. Nó liếc nhìn Bông và chú chim sẻ một cái đầy hằn học, rồi nhảy phốc vào bụi rậm và biến mất.
+
+Khi con mèo đã đi xa, Bông mới thở phào nhẹ nhõm. Cậu chạy lại chỗ chú chim sẻ nhỏ, lo lắng hỏi: "Bạn chim sẻ, bạn có bị thương nặng không?"
+
+Chú chim sẻ yếu ớt đáp: "Cánh… cánh của tôi bị gãy rồi."
+
+Bông nhẹ nhàng đỡ chú chim sẻ, cẩn thận kiểm tra vết thương. Rồi cậu nhìn lên cô sóc đang đứng trên cây. "Cô sóc ơi, cảm ơn cô đã giúp tôi."
+
+Cô sóc nhanh nhẹn nhảy xuống, đến bên Bông. "Không có gì đâu. Bạn phải giúp đỡ lẫn nhau, đúng không?" Cô sóc nhìn chú chim sẻ, "Chúng ta cần đưa bạn chim sẻ đến chỗ bác cú để chữa trị."
+
+Thế là Bông và cô sóc cùng nhau đưa chú chim sẻ đến gặp bác cú già khôn ngoan. Bác cú là một bác sĩ tài giỏi trong rừng xanh. Bác cú ân cần băng bó vết thương cho chú chim sẻ.
+
+Trong suốt thời gian chim sẻ được chữa trị, Bông và cô sóc thường xuyên đến thăm. Bông mang theo những ngọn cỏ non và quả mọng ngon lành cho chim sẻ. Cô sóc thì kể cho chim sẻ nghe những câu chuyện vui về khu rừng.
+
+Ngày chim sẻ lành vết thương và có thể bay trở lại, Bông và cô sóc đều vui mừng khôn xiết. Chú chim sẻ, trước đây nhút nhát và cô đơn, giờ đã có những người bạn thật sự.
+
+Từ ngày đó, Bông, cô sóc và chim sẻ trở thành những người bạn thân thiết. Họ cùng nhau khám phá rừng xanh, cùng nhau chơi đùa và chia sẻ những niềm vui, nỗi buồn. Bông không còn nhút nhát như trước nữa. Cậu đã tìm thấy sự dũng cảm trong chính mình, sự dũng cảm của một người bạn luôn sẵn sàng giúp đỡ người khác.
+
+Tình bạn của họ không chỉ là những trò chơi, những tiếng cười. Họ còn cùng nhau vượt qua những khó khăn trong rừng xanh. Một lần, khi cơn bão lớn ập đến, những người bạn cùng nhau che chở cho các loài vật nhỏ bé khác, tìm kiếm thức ăn và nơi trú ẩn.
+
+Rồi mùa đông lạnh giá đến, thức ăn trở nên khan hiếm. Bông, cô sóc và chim sẻ cùng nhau tìm kiếm những quả thông, hạt dẻ và củ quả để dự trữ. Họ chia sẻ thức ăn cho những loài vật khác trong rừng, giúp nhau vượt qua mùa đông khắc nghiệt.
+
+Thời gian cứ thế trôi qua. Tình bạn của Bông, cô sóc và chim sẻ càng thêm bền chặt. Họ hiểu rằng, trong cuộc sống, tình bạn là một điều quý giá nhất. Nó không chỉ mang lại niềm vui mà còn là nguồn sức mạnh, giúp con người vượt qua mọi khó khăn, thử thách.
+
+Câu chuyện về bạn thỏ trắng nhút nhát, cô sóc nhanh nhẹn và chim sẻ nhỏ bé đã trở thành một huyền thoại đẹp đẽ trong khu rừng xanh. Họ đã chứng minh cho mọi người thấy rằng, ngay cả một chú thỏ nhút nhát nhất cũng có thể tìm thấy sự dũng cảm và tình bạn chân thành. Tình bạn đã thay đổi cuộc đời của Bông, biến cậu từ một chú thỏ cô đơn thành một người bạn dũng cảm và luôn sẵn sàng giúp đỡ người khác. Và quan trọng hơn hết, họ hiểu rằng, tình bạn đẹp sẽ mãi mãi tỏa sáng trong cuộc sống, sưởi ấm trái tim và gắn kết mọi người lại gần nhau hơn.
+</body>
+```

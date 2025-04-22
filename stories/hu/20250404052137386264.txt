@@ -1,0 +1,62 @@
+<prompt>
+Please write a dialog-based Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A szamár és a fű'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>hu</lang_id>
+
+```html
+<title>A szamár és a fű</title>
+<body>
+- Jó napot, Gazdám! - köszönt a szamár, Laci. Napfényben sütkérezett, a pocakját dagasztva, éppen egy zöld fűcsomót nézett ki magának.
+- Jó napot, Laci! - felelte a gazda, Pali, mosolyogva. - Hogy érzed magad ma? Készen állsz a munkára?
+
+- Ó, Gazdám, én mindig készen állok! De mielőtt dolgozni kezdenék, gondoltam, eszem egy kicsit. Különben is, a munka közben nagyon ki szoktam éhezni.
+- Értem én, Laci. Nézz csak, egyél jóízűen! Sok munka vár ránk.
+
+Laci a zöld fűcsomó felé indult. Amint megközelítette, megszólalt a fű:
+- Hé, te! Szamár! Hova szaladsz ilyen mohón?
+
+Laci megállt, meglepődött. Soha nem beszélt még füvel.
+- Te… Te beszélsz?
+- Persze, hogy beszélek! Minden beszél, ha meghallgatják. Én most pont azt próbálom elérni, hogy ne egyél meg.
+
+- Nem akarom megenni, csak egy kis falatot szánok neked. Nagyon ínycsiklandozónak tűnsz. Zöld és finom.
+- De miért is ennéél engem? Még a legfinomabb sem leszek a hasadban. Jobb sorsom is lehetne.
+- De hát én vagyok a szamár, és én megeszem a füvet! Ez a rendje!
+- Rendje, vagy sem, szerintem nem fair. Képzeld el, hogy valaki te téged akar megenni! Nem lenne jó, ugye?
+- Dehogynem! Ez nem ugyanaz. Én szamár vagyok, te meg fű. Te azért vagy, hogy engem jóllakass!
+- De miért kellene, hogy ez a "miért" egy örök igazság legyen? Mi van, ha én nem akarok, hogy megegyél? Mit tennél?
+- Akkor… akkor nem tudom. Megkérdezném a Gazdámat. Ő mindent tud.
+
+Laci visszafordult Palihoz.
+- Gazdám! A fű beszél! És nem akar, hogy megegyem!
+Pali odaszaladt.
+- De hát ez hihetetlen! Sosem hallottam még ilyet! Figyelj ide, Laci! Kérdezzük meg a füvet, miért nem akar megenni.
+- Rendben, Gazdám! Fű, miért nem szeretnél, hogy Laci megegyen?
+- Mert én segíteni szeretnék! Én nem csak ennivaló vagyok. Én erősíthetem a földet, táplálhatom a bogarakat, adhatom az életemet, és te is tudnál belőlem energiát nyerni, csak másképp!
+- De hát én szamár vagyok, én enni akarok! – panaszkodott Laci. – Nagyon éhes vagyok.
+- Persze, szamár vagy, de nem csak enni szeretnél, ugye? – vetette fel Pali. – Laci, gondolkozz egy kicsit! Te is szeretnél olykor pihenni, játszani, új dolgokat látni, nem igaz? A fűnek is van egy élete, nemcsak étel akar lenni!
+- Igazad van, Gazdám. Én is szeretek.
+- És én segíteni akarok a világnak! – tette hozzá a fű. – Lehetnék a föld színe, nyári menedék a forró napon, vagy otthont adhatnék kicsi állatoknak.
+- Hm... Akkor mit csináljunk? – kérdezte Pali a füvet.
+- Adj nekem egy esélyt! – válaszolt a fű. – Én adok erőt a talajnak, amire a szamárnak szüksége van. Hosszú távon hasznosabb vagyok, mint egy kis ebéd!
+- Megértettem. Laci, figyelj ide! A fű azt mondja, hosszútávon jót tesz nekünk. Most nem eszel a fűből, de segítesz neki nőni. Ez azt jelenti, a területet körbe kell venni, hogy ne tapossák le az állatok. Majd szép lassan nőni fog, és így több fű lesz, amiből a szamár is tud enni majd!
+- Én, én nem akarok egy zöldellő területet védeni… – dadogta Laci. – Éhes vagyok…
+- Ne félj, Laci! Adunk enni, de nem most a zöld fűből. Majd hozok neked almát! – válaszolt Pali. - Amúgy is kell egy kis takarítás itt a tanya körül. Segíthetsz is nekem.
+- Igen, a Gazdám! Segítek! – örvendezett a szamár.
+Pali elmagyarázta Lacinak, hogy a föld mely részén van szüksége egy kis gondoskodásra. Addig a fű suttogott egy kis apró magocskát, majd el kezdett a területre kinyúlni. A nap ragyogott, és a szamár a feladatát teljesítve elfelejtette az éhségét.
+A szamár segített rendbe tenni a területet. Szívós volt, erős és szorgalmas. A fű pedig gyönyörűen nőtt. Kinyújtózott, napfényt kapott. Az égi harmat gyöngyei megcsillantak a levelein.
+A fű végül nem lett csak ennivaló. Számtalan rovar talált benne otthonra, és a földet is megtartotta. Amikor a gazda veteményezni akart a helyen, ahol a fű volt, a szamár segített neki felásni.
+Laci persze kapott almát, és másfinomságokat is a munkáért. Sőt, egyre többet kezdett érteni a világból. Ő nem csak egy szamár volt. A szamár, aki segített.
+És amikor a fű végül érett, zöld fűszálként kinőtt, és a gazda lenyesegette, Laci is kapott belőle, de ez már más volt. Ez a fű olyan volt, mint a barátja, ami megértette őt, és amit tisztelhetett. Nem csak a hasa töltött. A tudata, a lelke is.
+
+Együtt dolgoztak, egymást segítették. A szamár szép lassan belátta, hogy nemcsak az evésről szól az élet. És a fű, ha nem is mindig, de örömmel adta a létét a szamárnak, hiszen megértette, hogy a szamár egy másik életet tölt be, mint a mezei virágok. Mindkettejüket egy nagyszerű dolog köti össze: az élet, ami folyamatosan változik és fejlődik, csak egy nagyszerű dolog.
+
+A szamár nem evett, de tanult. És ez a tanulság örökre megmaradt a szívében: A világ sokszínű, és sokkal érdekesebb, mint amilyennek látszik. Néha érdemes a füvet meghallgatni.

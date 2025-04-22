@@ -1,0 +1,64 @@
+<prompt>
+Please write a simple and easy-to-follow Spanish children's story that is at least 1000 words long.
+It must be completely written in proper Spanish (ES).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La ardilla aventurera y la búsqueda de la nuez mágica.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>es</lang_id>
+
+```xml
+<title>La ardilla aventurera y la búsqueda de la nuez mágica</title><body>
+En el corazón de un bosque frondoso, donde los rayos del sol danzaban a través de las hojas de los árboles altos, vivía una ardilla llamada Rosita. Rosita era una ardilla muy especial. No solo era rápida y ágil, como todas las ardillas, sino que también era curiosa y aventurera. Siempre estaba buscando nuevas experiencias, nuevas cosas que explorar. Le encantaba trepar por los árboles, corretear por el suelo del bosque, y, sobre todo, coleccionar bellotas y nueces.
+
+Un día, mientras Rosita exploraba un rincón desconocido del bosque, escuchó una leyenda susurrada por el viento. La leyenda hablaba de una nuez mágica. Decían que esta nuez tenía el poder de conceder cualquier deseo a quien la encontrara y la comiera. La nuez mágica era dorada y brillaba con una luz propia, escondida en lo más profundo del bosque, protegida por desafíos y acertijos.
+
+Rosita, con su corazón lleno de emoción y valentía, decidió que debía encontrar esa nuez mágica. Empaquetó una pequeña mochila con algunas bellotas y bayas, se despidió de su familia, prometiéndoles volver convertida en la ardilla más afortunada del mundo, y emprendió su gran aventura.
+
+Su viaje comenzó al pie de un gran roble antiguo, conocido como el Roble Sabio. El Roble Sabio era famoso en el bosque por su gran sabiduría y conocimiento. Rosita, acercándose con respeto, le preguntó al roble sobre la ubicación de la nuez mágica.
+
+El Roble Sabio, con su voz profunda y resonante, respondió: "La nuez mágica esconde su brillo en un lugar lleno de enigmas. Para encontrarla, deberás superar tres pruebas. La primera, la Prueba del Río Susurrante; la segunda, el Laberinto de las Sombras; y la tercera, el Guardián del Valle Escondido."
+
+Rosita, con la determinación brillando en sus ojos, asintió y agradeció al roble por su ayuda. Sabía que la aventura sería difícil, pero estaba dispuesta a afrontar cualquier desafío para lograr su sueño.
+
+Siguiendo las instrucciones del Roble Sabio, Rosita se dirigió hacia el Río Susurrante. El río era llamado así porque el agua, al correr sobre las piedras, emitía un sonido suave y constante, como un susurro. Para cruzar el río, Rosita debía resolver una adivinanza: "¿Qué viaja sin alas y sin pies, pero cruza el mundo entero con rapidez y estrés?".
+
+Rosita pensó por un momento, recordando todo lo que sabía. Miró a su alrededor, buscando una pista. Vio un pájaro volar, un conejo saltar y un caracol arrastrarse lentamente. Entonces, una idea surgió en su mente. "¡Un río!", exclamó, y al instante, el río se abrió, permitiéndole pasar.
+
+Al otro lado del río, Rosita encontró un camino cubierto de flores silvestres. Continuó su viaje, sintiendo la brisa fresca acariciar su pelaje. El camino la llevó al Laberinto de las Sombras.
+
+El Laberinto de las Sombras era un lugar oscuro y misterioso. Las paredes del laberinto estaban hechas de altas zarzas, que proyectaban largas sombras que se movían y cambiaban con la luz del sol. En el centro del laberinto, se escuchaba un sonido misterioso, como un suave silbido. Para encontrar la salida del laberinto, Rosita debía seguir el sonido del silbido y encontrar el camino correcto.
+
+Rosita entró en el laberinto con valentía. Las sombras la envolvieron, haciéndola sentir un poco asustada. Pero recordó que debía ser valiente y confiar en sus instintos. Empezó a caminar, guiada por el suave silbido. Giró a la izquierda, a la derecha, a veces retrocediendo y volviendo a empezar. El laberinto era un desafío, pero Rosita no se rindió. Después de un largo rato, finalmente escuchó el silbido más fuerte. Corrió hacia él y, al final del camino, encontró la salida.
+
+Fuera del laberinto, la luz del sol la recibió con los brazos abiertos. Estaba emocionada por haber superado la segunda prueba.
+
+Su siguiente destino era el Guardián del Valle Escondido. El Guardián era una gran lechuza, conocida por su sabiduría y astucia. El Valle Escondido era un lugar protegido, rodeado de altas montañas. Para acceder al valle, Rosita debía responder a tres preguntas del Guardián.
+
+Rosita se acercó al Guardián con respeto y escuchó las preguntas atentamente. La primera pregunta fue: "¿Qué es lo que siempre está delante de ti, pero nunca puedes ver?". Rosita pensó y pensó, luego sonrió. "El futuro", respondió.
+
+La segunda pregunta fue: "¿Qué tiene llaves, pero no abre cerraduras?". Rosita, recordando los objetos que había encontrado durante su aventura, respondió: "Un piano".
+
+La tercera y última pregunta fue: "¿Qué se moja al secarse?". Rosita, reflexionando, visualizó las flores y las plantas del bosque. "¿Una toalla?", respondió.
+
+El Guardián, impresionada por la inteligencia de Rosita, asintió y le permitió entrar en el Valle Escondido.
+
+El Valle Escondido era un lugar maravilloso. Estaba lleno de árboles frutales, arroyos cristalinos y flores de todos los colores. Y en el centro del valle, en una pequeña cueva protegida por una cascada, Rosita vio la nuez mágica. Era incluso más hermosa de lo que había imaginado, brillando con una luz dorada deslumbrante.
+
+Con el corazón latiendo con fuerza, Rosita se acercó a la nuez mágica. La recogió con cuidado, sintiendo su calidez en sus patas. Sabía que el poder de la nuez estaba en su interior y que podría pedir un deseo. Pero, ¿qué desearía?
+
+Pensó en su familia, en sus amigos, en la felicidad del bosque. Se dio cuenta de que ya tenía todo lo que necesitaba para ser feliz: el amor de su familia, la amistad de sus amigos, la belleza de la naturaleza.
+
+Rosita sonrió y tomó una decisión. En lugar de desear algo para sí misma, decidió desear algo para el bosque. Pidió que el bosque siempre fuera próspero, que sus árboles siempre estuvieran llenos de frutos y que sus animales siempre vivieran felices.
+
+Después de hacer su deseo, comió la nuez mágica. Sintió una ola de energía recorriendo su cuerpo. Entonces, sintió que algo cambió en el bosque. Los árboles crecieron aún más altos, los frutos se volvieron más sabrosos y los animales parecían aún más felices.
+
+Rosita, con el corazón lleno de alegría, regresó a casa. Su familia y amigos la recibieron con abrazos y celebraciones. Les contó su aventura y les explicó el deseo que había hecho.
+
+A partir de ese día, Rosita se convirtió en la ardilla más querida del bosque. Todos sabían que ella era la ardilla que había encontrado la nuez mágica y que había usado su poder para el bien del bosque. Y aunque ya no tenía la nuez, Rosita siempre tuvo consigo la satisfacción de haber hecho algo bueno para todos. Y así, Rosita, la ardilla aventurera, vivió feliz y contenta en el bosque, recordando siempre su increíble aventura y la nuez mágica que le enseñó la importancia de ser generoso y amable. Y colorín colorado, este cuento ha terminado.
+</body>
+```

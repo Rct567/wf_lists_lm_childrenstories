@@ -1,0 +1,37 @@
+<prompt>
+Please write a funny Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Magicae Munera: Inventio et Donum'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>la</lang_id>
+
+<title>Magicae Munera: Inventio et Donum</title>
+<body>Erant in urbe magna et populosa tres amici, Marcus, Lucius, et Gaius, qui semper pariter ludere et explorare solebant. Die quadam, dum per vias urbis ambularent, invenerunt magnum et antiquum librum in quo scripta erant magicae munera. Libellus, qui "Magicae Munera" inscribebatur, eos valde attraxit, et statim coeperunt eum legere.
+
+Marcus, qui erat studiosus et curiosus, primo coepit legere librum, et mox repperit capitulum de inventione magicae. Ibi scriptum erat quod omnes homines habent vim magicam intra se, sed pauci eam sciunt. Marcus valde gaudebat et dixit amicis suis: "Audite, amici! Omnes homines habemus vim magicam! Quod si sciamus, quid possumus facere?"
+
+Lucius, qui erat scepticus, respondit: "Non credo, Marcus. Ubi est probatio? Quomodo sciemus si vera est?" Gaius, qui erat optimista, dixit: "Non curate, amici! Si credimus, forte vera erit. Et si non est, nihil perdimus." Itaque, tres amici coeperunt experimenta facere, ut scirent si vere habebant vim magicam.
+
+Primo, Marcus temptavit levitare lapidem, sed nihil factum est. Deinde, Lucius conatus est ignem facere, sed non potuit. Gaius, qui erat patientissimus, temptavit florem facere crescere, sed nihil evenit. Tres amici valde tristabantur, sed non desperaverunt. Statim coeperunt iterum legere librum, ut scirent quid facere deberent.
+
+Postquam legerunt, invenerunt capitulum de dono magico. Ibi scriptum erat quod donum magicum est potestas dare aliis vim magicam. Marcus dixit: "Eureka! Hoc est quod debemus facere! Donare aliis vim magicam, et forte nosmet ipsi habebimus." Lucius respondit: "Sed quomodo donabimus? Nescimus quemadmodum." Gaius dixit: "Non curate, amici! Forte, si credimus, donum magicum nos ducet."
+
+Itaque, tres amici coeperunt iterum experimenta facere, sed hoc tempore donare aliis vim magicam. Marcus temptavit donare vim magicam puero, qui erat in via, sed nihil factum est. Lucius conatus est donare vim magicam cani, qui erat in platea, sed non potuit. Gaius, qui erat amantissimus, temptavit donare vim magicam aviculae, quae erat in arbore, et mirum! Avicula coepit cantare et volare valde alte.
+
+Tres amici valde gaudebant et dixit Marcus: "Videte, amici! Donum magicum est verum! Nunc scimus quid facere debemus." Lucius respondit: "Sed quomodo sciemus si donum magicum est in nobis?" Gaius dixit: "Fortis, amici! Si donamus aliis vim magicam, et si videmus effectum, sciemus quod donum magicum est in nobis." Itaque, tres amici coeperunt donare vim magicam aliis, et mox invenerunt quod donum magicum erat in eis.
+
+Die quadam, dum tres amici ambularent per vias urbis, invenerunt senem, qui erat in via, et qui valde tristabat. Marcus dixit: "Videte, amici! Senex tristat. Forte, si donamus ei vim magicam, gaudebit." Lucius respondit: "Sed quomodo sciemus si senex vult vim magicam?" Gaius dixit: "Non curate, amici! Si donamus ei vim magicam, et si non vult, nihil perdet." Itaque, tres amici donaverunt seni vim magicam, et mirum! Senex coepit ridere et gaudebere.
+
+Senex dixit: "Graecias ago, amici! Vim magicam donastis mihi, et nunc gaudeo. Sed quid est donum magicum?" Marcus respondit: "Donum magicum est potestas dare aliis vim magicam." Senex dixit: "Ah, intellego! Donum magicum est donare aliis gaudium et felicitatem." Lucius dixit: "Sed quomodo sciemus si donum magicum est in nobis?" Senex respondit: "Si donatis aliis gaudium et felicitatem, et si videtis effectum, scietis quod donum magicum est in vobis."
+
+Tres amici valde gaudebant et dixit Gaius: "Videte, amici! Donum magicum est in nobis! Nunc scimus quid facere debemus." Marcus respondit: "Sed quid faciemus nunc?" Lucius dixit: "Donabimus aliis vim magicam, et gaudebimus." Gaius dixit: "Et donabimus aliis gaudium et felicitatem, et videmus effectum." Itaque, tres amici coeperunt donare aliis vim magicam et gaudium, et mox invenerunt quod donum magicum erat in eis.
+
+Postquam tres amici donaverunt aliis vim magicam et gaudium, invenerunt quod urbs erat plena gaudii et felicitatis. Omnes homines ridebant et gaudebant, et tres amici erant valde felices. Marcus dixit: "Videte, amici! Donum magicum est verum! Nunc scimus quid facere debemus." Lucius respondit: "Sed quid faciemus nunc?" Gaius dixit: "Donabimus aliis vim magicam et gaudium, et gaudebimus."
+
+Itaque, tres amici coeperunt donare aliis vim magicam et gaudium, et mox invenerunt quod donum magicum erat in eis. Et tres amici vixerunt felices et gaudebant, et donaverunt aliis vim magicam et gaudium, et videmus effectum. Finis.</body>

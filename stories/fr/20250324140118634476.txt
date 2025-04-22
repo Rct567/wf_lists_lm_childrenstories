@@ -1,0 +1,71 @@
+<prompt>
+Please write a simple and easy-to-follow French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'L'incroyable voyage du petit pois perdu dans le jardin luxuriant potager.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```html
+<title>L'incroyable voyage du petit pois perdu dans le jardin luxuriant potager.</title>
+<body>
+<p>Il était une fois, dans un magnifique jardin potager, un petit pois appelé Pépito. Pépito était un petit pois vif et joyeux, toujours prêt pour l'aventure. Il adorait se balancer sur les feuilles vertes des plantes et observer le monde autour de lui. Un jour, alors qu'il se trouvait dans sa cosse, tout près de ses frères et sœurs petits pois, une grande rafale de vent souffla violemment.</p>
+
+<p>“Oh là là!” cria Pépito. Il sentit sa cosse s'ouvrir, et hop! Il fut projeté dans les airs. Il roula, roula, roula… loin de sa famille et de son chez-lui douillet. Lorsqu’il atterrit enfin, il était complètement perdu.</p>
+
+<p>“Où suis-je ?” se demanda-t-il, regardant autour de lui. Il se trouvait dans un endroit inconnu, entouré de plantes énormes et inconnues. Des tomates rouges dodues se doraient au soleil, des concombres verts et longs se prélassaient à l'ombre, et des carottes orange pointaient fièrement hors de la terre. Le jardin potager était un véritable labyrinthe végétal !</p>
+
+<p>Pépito, un peu effrayé mais aussi très curieux, décida de partir à l’aventure pour retrouver sa famille. Il commença à rouler doucement, essayant de repérer quelque chose de familier.</p>
+
+<p>Sa première rencontre fut avec une grosse chenille verte et gloutonne, nommée Gertrude. Gertrude grignotait une feuille de salade avec appétit. </p>
+
+<p>"Bonjour !" dit Pépito timidement.</p>
+
+<p>Gertrude leva la tête, surpris par la petite voix. “Oh, bonjour, petit pois ! Que fais-tu ici, tout seul ?” </p>
+
+<p>Pépito lui expliqua qu'il s'était perdu et cherchait sa famille. </p>
+
+<p>“Perdu, hein? Le jardin est grand, très grand. Je peux t’aider à trouver le chemin. J’habite ici depuis longtemps. Suis-moi ! Nous irons voir le vieux Jardinier, il connaît tout le potager." répondit Gertrude, la bouche encore pleine de salade.</p>
+
+<p>Pépito, reconnaissant, suivit Gertrude. Ils traversèrent un champ de tournesols géants, leurs visages souriants regardant le soleil. Les pétales dorés chatouillaient Pépito lorsqu’il passait. Gertrude, lente mais sûre d’elle, ouvrait le chemin, grignotant de temps en temps une feuille pour reprendre des forces.</p>
+
+<p>Ensuite, ils rencontrèrent un escargot lent et réfléchissant, appelé Edgar. Edgar glissait tranquillement sur une feuille de chou. </p>
+
+<p>“Bonjour, Edgar!” dit Gertrude.</p>
+
+<p>“Bonjour Gertrude. Bonjour, petit pois. Où allez-vous comme ça ?” demanda Edgar, avec sa voix traînante.</p>
+
+<p>Pépito lui raconta encore son aventure. Edgar, toujours prêt à aider, réfléchit longuement. </p>
+
+<p>"Le vieux Jardinier est en train de tailler les rosiers. Nous devons traverser le rosier ! C’est dangereux, il y a beaucoup d’épines. Mais le Jardinier est certainement là-bas ! Suivez-moi !" dit Edgar.</p>
+
+<p>Avec Edgar, la traversée du rosier fut une aventure épineuse. Gertrude, avec sa peau épaisse, ouvrait le passage, faisant attention de ne pas se faire piquer. Pépito, petit et rond, devait faire très attention pour ne pas rouler sur les épines. Edgar, lent mais sage, leur indiquait le meilleur chemin, en rampant avec précaution.</p>
+
+<p>Enfin, ils atteignirent le vieux Jardinier, qui était en train d'arroser les rosiers avec un tuyau d'arrosage. Le Jardinier, un homme grand et gentil avec des mains rugueuses, sourit à la vue du petit pois.</p>
+
+<p>“Ah, Pépito ! Je me demandais où tu étais passé, petit coquin ! Tes frères et sœurs petits pois s'inquiètent beaucoup.” dit le Jardinier avec une voix douce. Il avait remarqué la cosse vide le matin même et s’était douté qu’il s’était passé quelque chose.</p>
+
+<p>Pépito fut extrêmement soulagé. Il expliqua toute son aventure, de la rafale de vent à la rencontre de Gertrude et d'Edgar.</p>
+
+<p>Le Jardinier rit. “Tu as eu beaucoup d'aventures ! Gertrude et Edgar t'ont bien aidé, je vois.” </p>
+
+<p>Il prit Pépito délicatement et le plaça dans sa poche. "Je vais te ramener à ta famille".</p>
+
+<p>En chemin, le Jardinier croisa les sœurs et les frères petits pois. Ils étaient regroupés près de leur ancienne cosse, remplis d'inquiétude. Ils avaient aperçu Pépito s'envoler dans la matinée et tremblaient d'anxiété.</p>
+
+<p>Le Jardinier sortit Pépito de sa poche. “Voilà, les amis. Votre frère est sain et sauf !"</p>
+
+<p>Les petits pois, fous de joie, se jetèrent sur Pépito pour l’embrasser. Ils étaient tellement heureux de le retrouver! Pépito, ému, raconta à sa famille toutes les aventures qu'il avait vécues.</p>
+
+<p>“Gertrude, Edgar, merci infiniment pour votre aide!” cria Pépito pour s’assurer que ses nouveaux amis entendaient. Il leva la main pour les saluer. Gertrude et Edgar, heureux d'avoir aidé, levèrent leurs antennes en signe de reconnaissance.</p>
+
+<p>Le soir venu, tous les petits pois, entourés de leurs parents, racontèrent la journée à Gertrude et Edgar, que le Jardinier avait spécialement invités. Ils partagèrent des histoires de leurs propres aventures dans le potager. La famille petit pois offrit même une délicieuse salade à Gertrude et Edgar pour les remercier.</p>
+
+<p>Désormais, chaque fois qu'il y avait du vent, les petits pois se blottissaient les uns contre les autres. Pépito, lui, aimait raconter son incroyable voyage à ses amis, Gertrude et Edgar, et à tous ceux qui voulaient l’entendre. Il avait appris qu'il y a beaucoup de beautés à découvrir dans le monde et qu’il est essentiel de s’entraider. Le jardin potager, bien qu'il puisse sembler effrayant au début, était finalement un endroit plein d’amis et de merveilles. Et, de temps en temps, il lui arrivait de s'échapper secrètement de sa cosse pour aller explorer un petit peu, bien sûr, toujours en demandant l'aide de Gertrude et d'Edgar. Mais désormais, il ne s'éloignait plus trop longtemps. Après tout, le plus beau endroit était de retour auprès de sa famille.  Et ainsi, la petite famille petit pois vécut heureuse dans leur petit coin du jardin potager, avec Gertrude et Edgar pour toujours leurs meilleurs amis.</p>
+</body>
+```

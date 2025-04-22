@@ -1,0 +1,31 @@
+<prompt>
+Please write a silly Slovenian children's story that is at least 1000 words long.
+It must be completely written in proper Slovenian (SL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Čudežno drevo, ki je vsako jutro rojevalo nove in lepe zgodbe.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sl</lang_id>
+
+<title>Čudežno drevo, ki je vsako jutro rojevalo nove in lepe zgodbe.</title>
+<body>
+V majhnem, slikovitem mestecu, obkroženem z zelenimi griči, je raslo čudežno drevo. Ni bilo visoko, ampak široko, kot je bil širok nasmeh stare babice Frančke, ki je v njem živela. Vsako jutro je drevo rojevalo nove in lepe zgodbe.  Zgodbe so se pletle v čudovite, pisane listke, ki so se s hrupom, podobnim prepevanju ptic, razpršile po zraku in padle na travnike, poti in hiše.
+
+Ena od zgodb, ki je padla na okno malega Lovra, je govorila o muhih in njihovih čudovitih zvezdičnih plesih na stropu. Lovre, ki je bil sicer precej neroden pri šoli, je s prstnim kazalcem risal tančice v zraku, posnemajoč leteče muhe in se pri tem veselil. Ta zgodba je povzročila nekajkratno srečanje muh in otrok na krovu vseh stolov in miz v njihovih domačih prostorih.
+
+Druga zgodba, ki je priletela na okno malenkost bolj živahne Maje, pa je govorila o srečnem mešancu, ki se je prelepo igral v svetlem sončnem siju.  Njena rožnata srajčka se je bleščala z žarki, medtem ko se je na njenih obraznih poteh razširilo ogromno nasmešeno veselje. Maša je preskoki izvajala vse žonglerske figure v svoji igri in izkusila neskončno navdih.
+
+Toda najbolj priljubljena zgodba tega dne je govorila o živahnem, modrem zajcu, ki je v gozdu iskal pravljični bukev s posebnimi vrtnicami.  Zajec, po imenu Žiga, je bil s svojim čudovito bleščečim modrim krznom resnično atrakcija.  Pletela se mu je čarobna pot s čez vrtove in čez zelenje, kot mu je čudežno drevo prepisovalo čarobne prehode. Na njegov poti se je zgodba prepletala z mnogimi različnimi zgodbami, o nenavadnih živalih, čudežnih rastlinah in skritih šibalijah.
+
+Ko se je pripoved o tem nenavadnem zajcu razširila skozi mesto, so se vsi domači prišolci odpravili na sam vrt. Otroci so sledili poti, kot bi šli na čudovito lovsko tekmo.  Nisem vam omenil, da je imel Žiga še čudovito zmožnost -  zbral je lahko vse lepe rože in listje v svojih štirih elegantnih šapkah! Kot da se je vrt nehalo premikati. Bil je čudovit šov.
+
+Vendar pa ni bilo vse rožnato v mestu.  Stari gospod Gaberc, ki je živel na koncu vasi, je bil zelo nesrečen. Čudovita zgodba, ki je letela nad njegovo hišo, se je pretvarjala v dolgočasne besede, polne nesmisla. Gospod Gaberc je trmasto vlekla svoja ramena v neskončnost.  Bil je precej žalosten, da ni lahko zajel to veselje.
+
+Žiga, čudežni zajec, je slišal Gospoda Gaberca.  Skočil je z glavo v hišo, srečne rože in liste pa je položil na Gospodov stol.  Takoj je gospod Gaberc začutil luč in veselje.  Odkar se je zgodba spremenila iz nesmiselne govorice v pravljično glasbo, je Gospoda Gaberca zaznamoval nov žar veselja!  Veselje ga je poplavilo in je bil pripravljen vsem svojim ljudem podeliti sladka odkrivanja nove veselja.
+
+In tako se je zgodba o čudežnem drevesu razširila še dlje in dlje.  Listi, na katerih je bila pisana, so se razsipali nad vso pokrajino in po vsem svetu.  Vsak se je nasmejal in vsaki se je zdelo, da se mu nasmehli. Vsak je videl nekaj čudovitega. Napoved o dobrem duhu je prinesla srečo v vse kotičke. Drevo pa je kar naprej vsako jutro rojevalo nove in lepe zgodbe, in svet je bil vedno bolj vesel in bolj pisan.
+</body>

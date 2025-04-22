@@ -1,0 +1,114 @@
+<prompt>
+Please write a dialog-based Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kahden ystävän matka maailman ympäri'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>fi</lang_id>
+
+<title>Kahden ystävän matka maailman ympäri</title>
+<body>
+Oli kaksi ystävää, Mikko ja Ville, jotka asuivat samaa katua Helsingissä. He olivat luokkatoverit ja olivat tutustuneet toisiinsa jomonta vuotta sitten. Mikko ja Ville olivat aina pitäneet yhtä ja olivat aina keksineet jotain uutta ja jännittävää tekemistä.
+
+Eräänä päivänä, kun he olivat kävelemässä koulusta kotiin, he puhuivat matkustamisesta ja eri maista. Mikko kertoi Villelle, että hän oli aina halunnut matkustaa Kiinaan ja nähdä Kiinan muurin. Ville puolestaan kertoi, että hän oli aina halunnut matkustaa Yhdysvaltoihin ja nähdä New Yorkin.
+
+"Olisi kiva matkustaa ympäri maailmaa", sanoi Mikko.
+
+"Kyseleekö, olisiko se kiva!" sanoi Ville. "Me voimme tehdä sen. Me voimme matkustaa ympäri maailmaa ja nähdä kaikki nämä maailman ihmeet."
+
+Mikko ja Ville päättivät, että he lähtevät matkaan heti, kun he ovat valmiit. He alkoivat suunnitella matkaa ja etsivät tietoa eri maista ja niiden nähtävyyksistä.
+
+Kun he olivat valmiit, he lähtivät matkaan. He matkustivat lentokoneella Pariisiin, jossa he näkivät Eiffelin tornin ja Louvren taidemuseon. He kävelivät Seine-joen rannalla ja söivät croissanteja ja juivat kahvia.
+
+"Ranska on ihana maa", sanoi Mikko.
+
+"Kyseleekö, onko se ihana!" sanoi Ville. "Meidän on pakko tulla takaisin tänne jonain päivänä."
+
+Mikko ja Ville jatkoivat matkaa Italiaan, jossa he näkivät Rooman Colosseumin ja Firenzen katedraalin. He söivät pizzaa ja pastaa ja juivat viiniä.
+
+"Italia on ruokamaa", sanoi Mikko.
+
+"Ruoka on täällä niin hyvää", sanoi Ville. "Meidän on pakko syödä enemmän."
+
+Mikko ja Ville matkustivat sitten Etnaan, jossa he näkivat tulivuoren ja rannikon. He uivat meressä ja keräilivät simpukankuoria.
+
+"Etna on kaunis saari", sanoi Mikko.
+
+"Meri on täällä niin lämmin", sanoi Ville. "Meidän on pakko uida enemmän."
+
+Mikko ja Ville jatkoivat matkaa Kiinaan, jossa he näkivät Kiinan muurin ja Pekingin tornin. He söivät riisiä ja wok-ruokaa ja juivat teetä.
+
+"Kiina on suuri maa", sanoi Mikko.
+
+"Kiinan muuri on niin pitkä", sanoi Ville. "Meidän on pakko kävellä pitkin muuria."
+
+Mikko ja Ville matkustivat sitten Yhdysvaltoihin, jossa he näkivät New Yorkin ja Las Vegasin. He kävelivät Broadwaylla ja söivät hot dogeja ja juivat mehua.
+
+"Yhdysvallat on iso maa", sanoi Mikko.
+
+"Las Vegas on niin valoisa kaupunki", sanoi Ville. "Meidän on pakko käydä kasinossa."
+
+Mikko ja Ville jatkoivat matkaa Australiaan, jossa he näkivät Sydneyn oopperatalon ja Uluru-kivimuodostelman. He uivat meressä ja keräilivät mereneläviä.
+
+"Australia on kaunis maa", sanoi Mikko.
+
+"Uluru on niin pyhä paikka", sanoi Ville. "Meidän on pakko käydä siellä auringonlaskun aikaan."
+
+Mikko ja Ville matkustivat sitten Etelä-Afrikkaan, jossa he näkivät Kapkaupungin ja Table Mountainin. He kävelivät kaupungissa ja söivät eteläafrikkalaista ruokaa ja juivat viiniä.
+
+"Etelä-Afrikka on ihana maa", sanoi Mikko.
+
+"Kapkaupunki on niin kaunis", sanoi Ville. "Meidän on pakko käydä siellä uudestaan."
+
+Mikko ja Ville jatkoivat matkaa Intiaan, jossa he näkivät Taj Mahalin ja Varanasin. He söivät intialaista ruokaa ja juivat teetä.
+
+"Intia on värikäs maa", sanoi Mikko.
+
+"Taj Mahal on niin kaunis rakennus", sanoi Ville. "Meidän on pakko käydä siellä auringonlaskun aikaan."
+
+Mikko ja Ville matkustivat sitten Brasiliaan, jossa he näkivät Rio de Janeiron ja Amazonin sademetsän. He uivat meressä ja keräilivät trooppisia kasveja.
+
+"Brasilia on iloinen maa", sanoi Mikko.
+
+"Rio de Janeiro on niin kaunis kaupunki", sanoi Ville. "Meidän on pakku käydä siellä uudestaan."
+
+Mikko ja Ville jatkoivat matkaa Japaniin, jossa he näkivät Tokion ja Kiotoon. He söivät sushiä ja juivat teetä.
+
+"Japani on mielenkiintoinen maa", sanoi Mikko.
+
+"Tokio on niin iso kaupunki", sanoi Ville. "Meidän on pakku käydä siellä uudestaan."
+
+Mikko ja Ville matkustivat sitten Venäjälle, jossa he näkivät Moskovan ja Pietarin. He kävelivät kaupungissa ja söivät venäläistä ruokaa ja juivat vodkaa.
+
+"Venäjä on kylmä maa", sanoi Mikko.
+
+"Moskova on niin kaunis kaupunki", sanoi Ville. "Meidän on pakku käydä siellä uudestaan."
+
+Mikko ja Ville jatkoivat matkaa Kanadaan, jossa he näkivät Toronton ja Vancouverin. He uivat meressä ja keräilivät kaloja.
+
+"Kanada on kaunis maa", sanoi Mikko.
+
+"Toronto on niin iso kaupunki", sanoi Ville. "Meidän on pakku käydä siellä uudestaan."
+
+Mikko ja Ville palasivat lopulta takaisin Suomeen, jossa heidät odotti perhe ja ystävät. He kertoivat matkastaan ja näyttivät valokuvia.
+
+"Meillä oli niin hyvä matka", sanoi Mikko.
+
+"Me näimme niin monia kauniita paikkoja", sanoi Ville. "Meidän on pakku tehdä sama uudestaan."
+
+Mikko ja Ville olivat onnellisia, kun he olivat päässeet matkustamaan ympäri maailmaa. He tiesivät, että heidän elämänsä oli muuttunut matkan myötä.
+
+"Me olemme nähneet niin paljon", sanoi Mikko.
+
+"Me olemme kohdanneet niin monta uutta ihmistä", sanoi Ville. "Meidän on pakku muistaa tämä matka koko elämämme."
+
+Mikko ja Ville istuivat kotonaan ja katsoivat valokuvia matkastaan. He muistelivat kaikkia kauniita paikkoja, joissa he olivat olleet.
+
+"Meidän on pakku tehdä sama uudestaan", sanoi Mikko.
+
+"Meidän on pakku matkustaa ympäri maailmaa uudestaan", sanoi Ville. "Meidän on pakku nähdä kaikki nämä kauniit pa

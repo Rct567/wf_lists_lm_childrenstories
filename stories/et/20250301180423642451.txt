@@ -1,0 +1,61 @@
+<prompt>
+Please write a emotional Estonian children's story that is at least 1000 words long.
+It must be completely written in proper Estonian (ET).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Üksildaste hinged ja nende lood'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>et</lang_id>
+
+<title>Üksildaste hinged ja nende lood</title><body>  
+Kord, ammu, kunagi, kusagil kaugel Eestimaa metsade sügavuses, oli väike küla nimega Hallikese. Küla oli väike, aga seal elanud inimesed olid suured südamega. Nad jagasid üksteisega nii rõõme kui ka muresid, ja öösel, kui tuul ulgus metsas, kogunesid nad ümber tule, et kuulata üksteise lugusid. Aga igas külas on alati keegi, kes jääb üksildaseks, kes ei leia oma kohta teiste seas.  
+
+Hallikese külas oli üks selline inimene – väike tüdruk nimega Liisa. Liisa oli eriline. Ta ei rääkinud palju, aga ta silmad rääkisid rohkem kui suud suudaksid öelda. Ta nägi asju, mida teised ei näinud. Teda kutsuti "Metsa Liisaks", sest ta veetis enamiku ajast metsas, kus ta tundis end kodusemini kui inimeste keskel.  
+
+Ühel päeval, kui sügis oli juba kuldsete lehtedega metsa kaetud, otsustas Liisa minna sügavamale metsa, kui ta kunagi varem oli käinud. Ta jalutas pikki vanu radu, mis olid kaetud sammaldega, ja kuulatas looduse hääli. Mets oli täis elu: linnud laulsid, putukad sumisesid, ja vahel kostis kaugelt hundi ulgumist. Aga Liisa ei kartnud. Ta tundis, et mets oli tema sõber.  
+
+Kui päike hakkas looja minema, leidis Liisa end väikese lambi ees, mis rippus ühe vana puu otsas. Lambi valgus oli pehme ja soe, nagu kätk, mis kutsub teda ligi. Liisa astus lähemale ja nägi, et lambi all seisis väike mehike. Ta oli väike, nagu mõni nukk, aga tema silmad särasid nagu tähed.  
+
+"Tere," ütles mehike pehme häälega. "Ma olen Üksildaste Hinge valvur. Ma näen sind juba ammu. Sa oled eriline, Liisa. Sa näed asju, mida teised ei näe. Ja sellepärast oled sa siin."  
+
+Liisa vaatas talle suurte silmadega. "Kes sa oled?" küsis ta.  
+
+"Ma olen üks paljudest," vastas mehike. "Meie valvame üksildasi hingi, kes ei leia oma kohta maailmas. Meie kuulame nende lugusid ja aitame neil leida rahu."  
+
+Liisa istus maha sammaldele ja vaatas valvurile otsa. "Miks ma olen siin?" küsis ta.  
+
+"Kuna sa oled üks neist, kes näeb rohkem kui teised," vastas valvur. "Ja ma tahan sulle öelda ühe loo. Loost, mis aitab sul mõista, et sa ei ole üksi."  
+
+Valvur istus Liisa kõrvale ja hakkas rääkima.  
+
+"Kord, ammu, kunagi, oli üks väike tüdruk nimega Maarja. Maarja oli nagu sina. Ta tundis end alati erinevana teistest. Ta armastas metsa ja loodust, aga inimeste keskel ta ei leidnud oma kohta. Ühel päeval otsustas Maarja minna metsa, et kunagi enam tagasi ei tule. Ta jalutas kaua, kuni jõudis ühe salapärase järve äärde. Järve vesi oli nii selge, et selles peegeldusid tähed, kuigi päike paistis veel taevas.  
+
+Maarja istus järve kaldale ja vaatas veespeeglisse. Ta nägi oma peegeldust, aga ka midagi muud. Veest tõusis välja väike tüdruk, kes nägi välja täpselt nagu Maarja. 'Ma olen sinu südame hääl,' ütles tüdruk. 'Ma tean, et sa tunned end üksildana, aga sa ei ole üksi. Iga üksildane hing leiab lõpuks oma koha.'  
+
+Maarja vaatas tüdrukule otsa ja tundis, kuidas tema süda täitus soojusega. 'Aga kus see koht on?' küsis ta.  
+
+'See on seal, kus sa tunned end kodusena,' vastas tüdruk. 'Ja sinu kodu on siin, looduses. Sa oled nagu puu, mis kasvab metsas. Sa ei pea olema nagu teised. Sa oled eriline, sest sa näed maailma teisiti.'  
+
+Maarja naeratas ja tundis, kuidas tema üksindus sulas ära. Ta hakkas mõistma, et tema erinevus oli tema tugevus. Ta jäi metsa elama ja leidis seal rahu ning õnne."  
+
+Liisa kuulas valvuri lugu ja tundis, kuidas tema süda täitus soojusega. "Kas see tähendab, et ma ei pea kunagi end üksi tundma?" küsis ta.  
+
+Valvur naeratas. "Sa võid tunda end üksildana, aga sa ei ole üksi. Iga üksildane hing on nagu täht taevas. Nad säravad oma valguses ja loovad ilu, mida teised näevad. Ja nii nagu Maarja, sa pead leidma oma koha, kus sa tunned end kodusena."  
+
+Liisa tõusis püsti ja vaatas üles taeva poole. Tähed hakkasid ükshaaval helendama, ja ta tundis, kuidas tema süda täitus lootusega. "Ma leian oma koha," ütles ta kindlalt.  
+
+Valvur naeratas ja hakkas tasapisi hajutuma õhtu hämarusse. "Ma tean, et sa leiad," ütles ta. "Ja kui sa kunagi tunned end üksildana, tuleta meelde, et maailmas on palju teisi, kes näevad maailma nagu sina. Teie üksindus ühendab teid."  
+
+Liisa jäi metsa, kus ta tundis end kodusena. Ta õppis kuulama looduse hääli ja nägema ilu selles, mida teised ei märganud. Ja kuigi ta oli mõnikord üksildane, teadis ta, et ta ei olnud üksi.  
+
+Ja nii, Hallikese külas räägiti veel pikka aega Metsa Liisa lugusid. Teda kutsuti "üksildaseks hingeks", aga tema süda oli täis rahu ja õnne, sest ta oli leidnud oma koha – looduse süles.  
+
+Ja igal õhtul, kui tähed hakkasid taevas särama, vaatas Liisa üles ja tundis, kuidas tema hing säras koos nendega. Sest ta teadis, et iga üksildane hing on nagu täht – ainulaadne, ilus ja täis valgust.  
+
+Nii lõppeb see lugu, aga tegelikult see ei lõppe kunagi. Sest iga üksildane hing leiab kunagi oma koha, kus ta võib särada. Ja see on kõige ilusam lugu, mida võib kuulda.  
+
+Lõpp.</body>

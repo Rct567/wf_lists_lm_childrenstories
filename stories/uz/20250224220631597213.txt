@@ -1,0 +1,35 @@
+<prompt>
+Please write a relatable Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'To'quvchilar shahrida yashovchi ajoyib bolalar'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>To'quvchilar shahrida yashovchi ajoyib bolalar</title>
+<body>
+To'quvchilar shaharchasi rang-barang, go'zal bir joy edi.  Har bir uyning tomidan rang-barang ip-yelim o'ralgan, to'qima mashinalarining shovqini esa shahar bo'ylab yangrardi.  Bu shaharda yashovchi bolalar ham oddiy emasdi.  Ularning qalblarida hunarmandchilikka bo'lgan sevgi va ixtirokorlik o'chmas olovdek yonardi.
+
+Shaharchaning eng ajoyib bolalari, o'zlarining mehribon va har doim o'rganishga intiluvchi xislatlari bilan mashhur bo'lgan,  Xayrulla va Gulchehra edi. Ular o'zlarining do'stlari bilan har kuni shahar atrofidagi o'rmonda o'yin-kulgilar bilan mashg'ul bo'lishar, daraxtlar ostida rangli xayollarni to'qib, to'qimachilik hunarini o'rganishga intilishar edi.
+
+Bir kuni Xayrulla o'rmonda yangi bir o'simlik ko'rdi.  Uning barglari engil yashil rangda,  somon rangidagi nozik poyalari esa  quyosh nurida o'ynab turardi.  "Bu nima o'simlik?" deb so'radi u Gulchehradan. Gulchehra o'simlikni diqqat bilan ko'rib chiqdi. "Bilmayman, Xayrulla, lekin u juda g'alati ko'rinishga ega", dedi u.
+
+"Biz uni uyga olib borib, haqida ma'lumot izlaymiz!" dedi Xayrulla, ko'zlarida qiziqish porlayotgan edi.  Ular o'simlikni ehtiyotkorlik bilan o'rmondan olib chiqib, shaharchalariga qaytib kelishdi.
+
+Uydagi to'quvchilarning o'rganishga bo'lgan didi o'simlikni ko'rish bilan yanada kuchaygandi.  Ularning kattalari,  donador va tajribali to'quvchilar, xiralashgan ko'zlarini o'simlikka qaratib, u haqida biror narsani o'ylashardi.  Ba'zilari uni qadimiy afsonalardagi sehrli o'simliklar bilan taqqoslashardi.
+
+O'simlikning noyob tuzilishi va uning tabiiy chiroyiga ta'sirlanib, to'quvchilar uni o'rganishga kirishdilar.  Ular uning barglari, gullari, poyalari va ildizlarini diqqat bilan o'rganib chiqdilar.  Ular uning tuzilishi va xususiyatlarini o'rganish uchun mikroskoplar va boshqa laboratoriya jihozlaridan foydalanganlar.
+
+Xayrulla va Gulchehra esa, o'zlarining ixtirokorliklari bilan tanilgan bo'lib, o'simlikdan qanday yangi materiallarni hosil qilish mumkinligi ustida fikrlashdi.  Ular uni bir necha turli xil materiallar bilan birlashtirib,  bir-birlaridan farq qiladigan, ammo go'zal to'qimalarni yaratib ko'rishdi.  Birinchisi, o'simlik ipini paxta ipi bilan qo'shib, naqshli matolar tayyorlashdi.  Ikkinchisi, uni jun bilan aralashtirib, juda iliq va go'zal paypoqlar tayyorladi.  Ularning ixtirochiliklariga hamma hayratlanib qoldi.
+
+Ularning ishlari  shahar bo'ylab yoyilib,  yangi va ajoyib to'qimachilik hunarlari namoyish etildi.  To'quvchilar shaharchasi butun dunyoga o'zining noyob hunarmandchiligi va o'ziga xos ixtirochiliklaridan iborat yangi bir modani yaratdi.  Bu o'simlikdan hosil bo'lgan materiallar nafaqat chiroyli, balki  o'ziga xos  xususiyatlarga ega edi. Masalan, ulardan tayyorlangan kiyimlar tez quriydi va  havo sharoitlarining ta'siriga kamroq ta'sirchan edi.
+
+Bu g'alati o'simlikning yordamida Xayrulla va Gulchehra, o'zlarining do'stlari va shahar aholisi bilan birga, yangi imkoniyatlarni ochib,  shaharning obro'sini yanada oshirishdi.  Ulardan birga to'qilgan matolar va tayyorlangan buyumlar hamma tomondan talabga ega bo'ldi.  Bu hamma uchun yangi va go'zal davrning boshlanishi edi.  To'quvchilar shaharchasi o'zining ixtirochilik va qiziqishidan iborat  yangi gullarni ochgan edi.
+
+Xayrulla va Gulchehra esa, o'zlarining do'stlari bilan birga,  har doim yangi o'rganish va o'z hunarlarini takomillashtirishga intilar edilar.  Chunki ular bilar edilarki,  dunyo doimo yangi sirlar va o'ziga xos go'zalliklar bilan to'la.  Har bir o'rganish va har bir yangi kashfiyot esa ularga  kelajakda yanada buyuk hunarmandchilikka erishishga yordam beradi.
+</body>

@@ -1,0 +1,58 @@
+<prompt>
+Please write a relatable German children's story that is at least 1000 words long.
+It must be completely written in proper German (DE).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Wie das kleine Einhorn Freundschaft fand mit zwei kleinen Kindern.'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>de</lang_id>
+
+<title>Wie das kleine Einhorn Freundschaft fand mit zwei kleinen Kindern.</title><body>
+<p>Es war einmal, hoch oben in den zuckerwatteweichen Wolken, ein ganz kleines Einhorn namens Flauschehaar. Flauschehaar war nicht wie die anderen Einhörner. Während seine Geschwister am liebsten Regenbögen in der Sonne ritten und mit Sternenstaub spielten, liebte Flauschehaar es, den grauen Wolken zuzusehen und sich vorzustellen, was darunter wohl geschah. Er besaß ein schneeweißes Fell, eine goldene Mähne, die sich sanft im Wind wiegte, und ein Horn, das noch ganz klein und knubbelig war – ein Zeichen, dass er noch jung war.</p>
+
+<p>Flauschehaar langweilte sich oft. Die anderen Einhörner waren ihm zu abgehoben, zu beschäftigt mit ihren glitzernden Spielen. Er sehnte sich nach etwas mehr, nach jemandem, der ihn verstand, nach einem Freund. Eines Tages, als der Nebel besonders dicht war und die Wolken wie unförmige Wattebäusche aussahen, beschloss Flauschehaar, heimlich seinen Wolkenhort zu verlassen.</p>
+
+<p>Er ließ sich durch einen Schornstein, der weit unten aussah wie ein winziges, rauchendes Loch, fallen. Der Fall war sanft, wie auf einem Luftkissen. Als er sich umsah, befand er sich in einem Garten voller bunter Blumen, in dem ein kleines Mädchen mit blonden Zöpfen und ein kleiner Junge mit rotblondem Haar spielten. Das Mädchen, das sich später als Lotte herausstellte, malte mit Kreide auf dem Bürgersteig, während der Junge, der Paul hieß, mit einem alten Holzschwert im Gras kämpfte.</p>
+
+<p>Flauschehaar war noch nie so tief unten gewesen und noch nie einem Menschen so nahe. Sein kleines Herz schlug wild. Er versteckte sich hinter einem riesigen Sonnenblumenkopf und beobachtete die Kinder. Lotte lachte hell, als ihre Zeichnung einer Katze Gestalt annahm; Paul brüllte tapfer, als er imaginäre Drachen besiegte.</p>
+
+<p>"Was ist denn da?", hörte Flauschehaar plötzlich eine kleine Stimme sagen. Es war Paul, der ihn entdeckt hatte. Seine Augen waren groß und staunend. "Ein Einhorn! Mama, komm mal schnell!"</p>
+
+<p>Lotte ließ ihre Kreide fallen und rannte ebenfalls herbei. "Das ist ja wunderschön!", rief sie entzückt. Flauschehaar, der sich dem kleinen Mädchen nun etwas mutiger zuwandte, war verlegen. Er zuckte mit seinem kleinen Knubbelhorn, das er noch nicht richtig kontrollieren konnte. Ein winziger Funke funkelte und verschwand sofort wieder.</p>
+
+<p>"Hab keine Angst", sagte Lotte sanft. Sie kniete sich hin und streckte die Hand aus. Flauschehaar zögerte kurz, dann stupste er vorsichtig ihre Hand mit seiner Nase an. Es kitzelte. Lotte kicherte. Paul umrundete das Einhorn vorsichtig.</p>
+
+<p>"Bist du verloren?", fragte Paul besorgt. "Wo wohnst du denn?"</p>
+
+<p>Flauschehaar versuchte, die Wolken zu beschreiben, aber er konnte nicht sprechen. Er konnte nur Miau-Laute machen, so wie es seine Mama ihm beigebracht hatte.</p>
+
+<p>"Na, dann komm erstmal mit uns mit", sagte Lotte, ganz selbstverständlich. Sie hob vorsichtig einen kleinen Eimer voller Gänseblümchen auf. "Wir bringen dich ins Haus und geben dir Wasser und was zu essen."</p>
+
+<p>Flauschehaar nickte zustimmend. Er folgte den Kindern ins Haus, langsam und vorsichtig. Im Haus staunte er über die Möbel, die Teppiche und die vielen, bunten Bilder. Er verstand nichts, aber er fand alles aufregend.</p>
+
+<p>Die Mutter der Kinder, Frau Schmidt, war überrascht, als sie das Einhorn sah. Aber sie war eine freundliche Frau und lachte nur. "Na, das nenne ich mal einen Besuch!", sagte sie. "Was für ein Glück, dass ihr es gefunden habt."</p>
+
+<p>Sie kredenzte Flauschehaar ein Schälchen mit Wasser und eine Schüssel mit frischen Äpfeln und Karotten. Flauschehaar, der unheimlichen Hunger bekommen hatte, stürzte sich darauf und mümmelte genüsslich. Lotte und Paul saßen daneben und beobachteten ihn aufmerksam.</p>
+
+<p>Von diesem Tag an wurde Flauschehaar Teil der Familie Schmidt. Er durfte im Garten spielen, aß mit den Kindern am Tisch (hauptsächlich Obst und Gemüse, denn Einhörner sind wählerisch) und schlief abends in einem kuscheligen Korb neben Lottes Bett. Paul brachte ihm das Kämpfen mit dem Holzschwert bei, und Lotte flocht ihm kleine Blumenkränze ins goldene Haar. Flauschehaar lernte schnell Deutsch, zumindest die wichtigsten Wörter: "Hunger", "durstig", "spielen", "Freund".</p>
+
+<p>Gemeinsam erlebten die drei Freunde viele Abenteuer. Sie bauten Baumhäuser im Garten, malten riesige Bilder auf dem Bürgersteig und erfanden fantastische Geschichten. Flauschehaar zeigte den Kindern die Regenbögen, die er aus seinen Tränen weinen konnte, und die Kinder erklärten ihm die Welt unter den Wolken. Sie zeigten ihm, wie man Fahrrad fährt, wie Buchstaben aussehen und was ein Fußball ist.</p>
+
+<p>Eines Tages, als die Blätter bunt wurden und der Herbstwind durch den Garten fegte, spürte Flauschehaar eine Sehnsucht. Er vermisste seine Wolken, seine Geschwister, seine Heimat. Er erzählte Lotte und Paul davon, mit seinen Miau-Lauten und ein paar verständlichen deutschen Sätzen.</p>
+
+<p>"Du willst zurück?", fragte Lotte traurig. Tränen glitzerten in ihren Augen. Paul nickte stumm und kratzte sich am Kopf. "Aber wir wollen dich doch nicht verlieren!"</p>
+
+<p>Flauschehaar stupste die beiden Kinder sanft an. "Freunde", sagte er, mit zittriger Stimme. "Freunde bleiben für immer." Er erklärte ihnen, dass er manchmal nach oben zurückkehren müsse, aber dass er sie immer besuchen würde, immer in ihrem Herzen bleiben würde. Er hatte gelernt, dass Freundschaft keine Entfernung kennt.</p>
+
+<p>Die Kinder verstanden. Sie weinten ein wenig, aber sie lächelten auch. Am nächsten Tag verabschiedeten sie sich von Flauschehaar. Sie brachten ihn an einen einsamen Ort auf einer Anhöhe, von wo aus er zu den Wolken springen konnte. Sie umarmten ihn fest, ein letztes Mal.</p>
+
+<p>Flauschehaar stieß einen tiefen Atemzug aus, nickte den Kindern zu und sprang in die Luft. Er spürte, wie der Wind seine Mähne umspielte und der Himmel ihn empfing. Er landete weich auf einer Wolke und winkte noch einmal nach unten. Dann ritt er auf einem Regenbogen zurück zu seinem Wolkenhort.</p>
+
+<p>Von nun an besuchte Flauschehaar Lotte und Paul regelmäßig. Manchmal kam er nachts, wenn sie schliefen, und spielte mit ihnen in ihren Träumen. Manchmal schickte er ihnen einen kleinen Regenbogen, der über dem Garten funkelte. Und jedes Mal, wenn die Kinder nach oben schauten, wussten sie: Flauschehaar war in ihrer Nähe.</p>
+
+<p>Und so, hoch oben in den Wolken und tief unten in den Herzen zweier kleiner Kinder, lebte die Freundschaft des kleinen Einhorns Flauschehaar für immer weiter. Und manchmal, wenn der Wind sanft durch die Bäume flüsterte, konnten Lotte und Paul glauben, ein leises Miauen zu hören, das sagte: "Ich bin hier. Ich liebe euch."</p>
+</body>

@@ -1,0 +1,75 @@
+<prompt>
+Please write a educational Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'O věrné kočičce a psím přátelství'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>cs</lang_id>
+
+```xml
+<title>O věrné kočičce a psím přátelství</title>
+<body>
+Byla jednou jedna malá vesnička, ukrytá mezi zelenými kopci a zpěvnými potůčky. V té vesničce žila malá, černobílá kočička jménem Pepinka. Pepinka byla neobyčejně odvážná a chytrá, s očima zářícíma jako dva smaragdy. Její domov byl v útulném domku u staré paní Marie, která ji milovala nade vše. Pepinka si ráda hrála s klubíčkem vlny, naháněla motýly na louce a především... milovala dobrodružství.
+
+Jednoho slunečného rána se Pepinka vydala na procházku do lesa. Cesta vedla kolem vesnice, přes pole plná rozkvetlých květin a dále do hlubokého lesa, kde stromy šeptaly tajuplné příběhy. Pepinka byla statečná, ale trochu se bála. Les byl plný stínů a podivných zvuků.
+
+Když se Pepinka nořila hlouběji do lesa, zaslechla slabé kňučení. Šla směrem zvuku a brzy uviděla malého pejska, uvázaného ke stromu. Pejsek měl smutné oči a třásl se zimou. Pepinka se ho zeptala: "Kdo jsi a proč jsi tu sám?"
+
+Pejsek odpověděl s chraplavým hláskem: "Jsem Rex. Ztratil jsem se svému pánovi a nemůžu najít cestu zpět. Tenhle člověk mě uvázal, abych neutekl."
+
+Pepinka pocítila lítost. I když kočky a psi si obvykle příliš nerozumějí, Pepinka se rozhodla Rexovi pomoci. "Neboj se, Rexi," řekla Pepinka. "Pomůžu ti dostat se domů."
+
+Pepinka oběhla strom, u kterého byl Rex uvázán, a zuby se pokusila překousat provaz. Nebylo to snadné, ale Pepinka byla vytrvalá. Po chvíli se provaz přetrhl a Rex byl volný.
+
+"Děkuji ti, Pepinko," řekl Rex radostně. "Jsi opravdu statečná!"
+
+"Nemáš zač," odpověděla Pepinka. "Teď se musíme dostat domů. Vzpomínáš si, kudy jsi přišel?"
+
+Rex zavrtěl ocáskem a řekl: "Ano, ale bojím se ztratit."
+
+"Půjdeme spolu," řekla Pepinka rozhodně. "Já se o tebe postarám."
+
+A tak se vydali na cestu. Pepinka, se svou chytrostí a zkušenostmi s touláním lesem, vedla Rexe bezpečnou cestou. Šli skrz husté křoví, překonávali padlé stromy a vyhýbali se divokým zvířatům. Pepinka pečlivě sledovala stopy, zjišťovala směr větru a pozorně naslouchala zvukům v lese.
+
+Cesta byla dlouhá a únavná. Pepinka a Rex se střídali v vedení cesty a jeden druhého povzbuzovali. Rex, se svou velkou energií, se snažil Pepince pomáhat, i když jeho schopnosti nebyly tak dobré jako její. Sdíleli spolu vodu z potůčků a odpočívali pod stromy. Pomalu, ale jistě se blížili k vesnici.
+
+Když se slunce začalo sklánět k západu, ucítili oba vůni jídla. "Pach jídla!" zvolal Rex. "Páni, mám hlad!"
+
+"To bude asi vesnice," odpověděla Pepinka. "Půjdeme tím směrem."
+
+Když dorazili na okraj vesnice, spatřili malý domek s otevřenými okny a kouřem linoucím se z komína. U domku stála mladá dívka, plakala a rozhlížela se kolem.
+
+"To je moje paní!" zvolal Rex a rozběhl se směrem k dívce.
+
+Dívka, jménem Anička, se otočila a spatřila Rexe. Z jejího obličeje zmizel smutek a nahradila ho obrovská radost. Rozběhla se k Rexovi, objala ho a líbala.
+
+"Rexi! Kde jsi byl? Celou dobu jsem tě hledala!"
+
+Rex vrtěl ocáskem a s láskou olízal Aničku. Pak si uvědomil, že je tu Pepinka, která ho zachránila. Zavolal ji k sobě a Aničce ukázal Pepinku.
+
+"Aničko, tohle je Pepinka. Zachránila mě," řekl Rex s vděčností.
+
+Anička se sklonila k Pepince a laskavě ji pohladila po hlavičce. "Pepinko, děkuji ti. Jsi skvělá kočička!"
+
+Anička je vzala do domu, kde je čekal plný košík s dobrotami. Rex a Pepinka jedli společně, cítili se bezpečně a šťastně. Anička vyprávěla, jak moc jí Rex chyběl a jak ho hledala. Pepinka jim pozorně naslouchala, těšilo ji, že pomohla znovu spojit pejska s jeho milovanou dívkou.
+
+Po večeři, když se slunce úplně schovalo za horizont, se Anička obrátila na Pepinku. "Pepinko, chceš tu zůstat přes noc?"
+
+Pepinka zaváhala. Vzpomněla si na paní Marii, která se o ni jistě bála. "Děkuji, ale musím se vrátit domů. Paní Marie se o mě bojí."
+
+"Rozumím," odpověděla Anička. "Ale slib mi, že se sem zase vrátíš. Chceme, aby jsi byla naším přítelem."
+
+Pepinka souhlasila. Sbohem se s Aničkou a Rexem, a s hřejivým pocitem v srdci, se vydala na cestu zpět do své vesničky. Anička a Rex ji doprovodili k okraji lesa a mávali jí, dokud nezmizela mezi stromy.
+
+Cestou domů Pepinka přemýšlela o svém dobrodružství. Uvědomila si, že přátelství nezná hranic, ani rozdílu mezi kočkami a psy. Důležitá je odvaha, loajalita a vzájemná pomoc.
+
+Když se Pepinka vrátila domů, čekala na ni paní Marie s obavami v očích. Pepinka se jí radostně vrhla do náruče a začala vyprávět o svém dobrodružství, o statečném Rexovi a laskavé Aničce. Paní Marie naslouchala s úsměvem a byla hrdá na svou kočičku.
+
+Od té doby Pepinka často navštěvovala Aničku a Rexe. Stali se nejlepšími přáteli, i když se lišili. Společně si hráli, dováděli a prožívali další dobrodružství. Pepinka si uvědomila, že nejdůležitější věc na světě je mít přátele, na které se můžeš spolehnout, ať už jsi kočka nebo pes. A tak se zrodilo velké, věrné přátelství, které přetrvalo navždy, i když se kočička a pejsek někdy chovali jako kočka a pes!
+</body>
+```

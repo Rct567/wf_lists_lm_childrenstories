@@ -1,0 +1,29 @@
+<prompt>
+Please write a silly Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kichkina qo'zi va uning sehrli qo'shig'i'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>uz</lang_id>
+
+<title>Kichkina qo'zi va uning sehrli qo'shig'i</title><body>  
+Bir bor ekan, bir yo'q ekan, o'rmon chekkasida yashovchi kichkina qo'zi bor ekan. Uning ismi Qorako'z edi. Qorako'z juda ham qiziqarli va qiziq qo'zi edi. Uning eng sevimli mashg'uloti qo'shiq aytish edi. Lekin uning qo'shig'i oddiy qo'shiq emas edi—u sehrli qo'shiq edi! Qorako'z qo'shig'ini aytganida, butun o'rmon jonlanib ketardi: daraxtlar raqsga tushardi, qushlar unga jo'r bo'lib qo'shiq aytardi, hatto toshlar ham yumshab, gullarga aylanardi.
+
+Bir kuni Qorako'z o'rmon bo'ylab sayr qilayotganda, uzoqdan g'azabli bo'ri ovozini eshitdi. Bo'ri Qorako'zning qo'shig'ini eshitib, unga hujum qilishga qaror qildi. U o'yladi: "Agar men bu qo'zining qo'shig'ini to'xtatsam, butun o'rmon jim bo'lib qoladi. O'rmon aholisi meni eng qudratli bo'ri deb bilishadi!"
+
+Bo'ri Qorako'zni izlashga tushdi. Qorako'z esa, bo'ridan qochib, o'rmonning chuqur joylariga yashirinishga harakat qildi. Lekin bo'ri uning izini topib, deyarli tutib olayozgandi. Birdan Qorako'zning yonida katta oq quyon paydo bo'ldi. Quyon unga: "Qorako'z, menga ergash. Men seni xavfsiz joyga olib boraman," dedi.
+
+Qorako'z quyonning orqasidan yugurdi va ular o'rmonning sirli qismiga yetib kelishdi. U yerda katta, yorug' g'or bor edi. Quyon unga: "Bu g'orda sehrli qo'shiqning kuchi kuchayadi. Agar sen bu yerda qo'shiq aytmasang, bo'ri seni hech qachon topa olmaydi," dedi.
+
+Qorako'z g'orga kirib, o'zining sehrli qo'shig'ini aytishni boshladi. G'or devorlari yorishib, gullar bilan qoplanardi. Bo'ri esa g'or oldida turib, qo'shiq ovozini eshitdi, lekin u g'orga kira olmadi. Chunki sehrli qo'shiq g'orni himoya qilardi.
+
+Bo'ri juda xafa bo'ldi va uyiga qaytib ketdi. Qorako'z esa g'orda qo'shiq aytishda davom etdi. Uning qo'shig'i o'rmon aholisiga quvonch bag'ishlardi. Quyon unga: "Endi sen bu yerda xavfsizsan. Lekin sehrli qo'shig'ingni faqat yaxshi maqsadlar uchun ishlat," dedi.
+
+Qorako'z quyonning maslahatiga amal qilib, sehrli qo'shig'ini faqat do'stlari va o'rmon aholisini quvontirish uchun ishlata boshladi. Uning qo'shig'i butun o'rmonni tinchlik va baxtga to'ldirdi. Bo'ri esa hech qachon Qorako'zni topa olmadi, chunki sehrli qo'shiq uning himoyasida edi.
+
+Shu bilan Qorako'z va uning sehrli qo'shig'i haqidagi hikoya tugadi. Ular butun o'rmonni quvontirishda davom etishdi va hech kim ularni bezovta qila olmadi. </body>

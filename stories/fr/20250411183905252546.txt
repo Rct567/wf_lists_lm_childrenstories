@@ -1,0 +1,47 @@
+<prompt>
+Please write a funny French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'L'île mystérieuse et l'expédition extraordinaire menée par l'équipage.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```html
+<title>L'île mystérieuse et l'expédition extraordinaire menée par l'équipage.</title>
+<body>
+<p>Il était une fois, dans un petit port de pêche ensoleillé, un vieux navire nommé "Le Canard Boiteux". Le Canard Boiteux, malgré son nom peu glorieux (et sa légère tendance à zigzaguer), était le bateau favori de trois amis inséparables : Sophie, une jeune fille pleine de courage avec des couettes rousses toujours en mouvement; Pierre, un garçon un peu maladroit mais toujours prêt pour une aventure, et Madame Tartine, leur poule de compagnie, célèbre pour ses coqs et sa prédilection pour les gâteaux au chocolat.</p>
+
+<p>Un jour, en explorant le grenier poussiéreux de l'oncle Robert, un navigateur retraité, ils découvrirent une carte au trésor jaunie. Sur cette carte, griffonnée à l'encre de chine fanée, était dessinée une île mystérieuse, surnommée "L'Île aux Boulettes" – oui, Boulettes ! Et ce qui les intéressait le plus, c'était la croix indiquant l'emplacement d'un fabuleux trésor. Les jeunes explorateurs, les yeux brillants d'excitation, ne pouvaient résister. Une aventure était née !</p>
+
+<p>« À l'abordage, moussaillons ! » s’écria Sophie, sautant de joie. Pierre, trébuchant sur une pile de livres maritimes, renversa accidentellement une boîte de biscuits au beurre. Madame Tartine, profitant de l’opportunité, s'empressa de picorer goulûment ces trésors croustillants.</p>
+
+<p>Ils préparèrent fébrilement l’expédition. Sophie, en tant que capitaine, avait hérité du chapeau à plumes de son oncle Robert. Pierre, nommé cartographe et cuisinier (avec des réserves), s'assura qu'il y aurait suffisamment de fromage et de bonbons. Quant à Madame Tartine, elle était la mascotte officielle, bien que son rôle précis restait un mystère… à part peut-être pour effrayer les pirates (elle pouvait être très expressive!). Ils firent le plein de provisions, ce qui incluait : trois pains de mie, six boîtes de sardines (à l’huile, s’il vous plaît!), une bouteille de limonade et, bien sûr, une douzaine de gâteaux au chocolat pour Madame Tartine (pas n'importe quels gâteaux, des gâteaux individuels avec des copeaux de chocolat!)</p>
+
+<p>Après avoir surmonté les premiers défis (à savoir, attacher correctement les voiles, ce qui prit une heure entière), Le Canard Boiteux prit la mer. La brise était fraîche, le soleil brillait et l’odeur salée de l’océan remplissait leurs poumons. Madame Tartine, installée confortablement sur une pile de coussins, chantonnait des airs joyeux. Son chant, bien que… particulier, donnait le courage nécessaire à l’équipage.</p>
+
+<p>Le voyage ne fut pas de tout repos. Ils durent affronter un gros nuage noir menaçant. Pendant cet orage (qui dura cinq minutes exactement), Pierre, pris de panique, tenta de réparer la voile déchirée avec… du ruban adhésif ! Sophie, impavide, le rassura et, avec l'aide de Madame Tartine, qui mordilla le ruban afin qu’il soit plus maniable, ils réussirent à la rapiécer avec brio.</p>
+
+<p>Plus tard, alors que le soleil retrouvait sa place dans le ciel, une étrange découverte se présenta. Une flotte de dauphins espiègles s'approchèrent du Canard Boiteux. Ils commencèrent à jouer autour du bateau, en sautant et en faisant des pirouettes. Soudain, un dauphin, portant sur son dos un message dans une bouteille (probablement l'ayant récupéré d'une autre expédition…), s'approcha de Pierre. La lettre disait : « Attention ! L'Île aux Boulettes est gardée par les… Boulettes Géantes ! »</p>
+
+<p>Les enfants échangèrent des regards inquiets. Des boulettes géantes ! Qu'est-ce que cela pouvait bien être ? La question hanta leurs esprits pendant le reste du voyage. Après une navigation qui dura un temps interminable – et ponctué d’incessants picorages de Madame Tartine sur tous les objets comestibles du navire – l'île apparut enfin à l’horizon.</p>
+
+<p>Et quelle île ! L'Île aux Boulettes était littéralement couverte de… boulettes ! Des boulettes de viande, des boulettes de fromage, des boulettes de légumes – toutes plus grosses les unes que les autres, et d’une forme plus irrégulière. Elles semblaient dormir paisiblement sur le sable blanc. Sophie, toujours en tête, pointa son doigt : « Regardez ! On dirait qu'elles gardent un passage… »</p>
+
+<p>Ils débarquèrent avec prudence. Pierre, armé d’une loupe, commença à examiner le sol. Madame Tartine, elle, avait immédiatement repéré une boulette géante qui avait l'air… savoureuse. Tentant une approche, elle fut rapidement stoppée par une autre boulette qui se mit à grogner (oui, grogner !) en roucoulant.</p>
+
+<p>L’accès au trésor fut alors dégagé : les trois amis aperçurent une porte cachée dans une boulette, comme celle d'un conte de fées. Pour entrer, il fallait résoudre une énigme. Gravée sur un morceau de bois flotté, elle disait : « Je suis fait sans mains, je donne le manger. Que suis-je ? » Pierre, avec un éclair de génie, répondit immédiatement : « Le cuisinier ! » (Il avait vu la même énigme dans un livre de cuisine.)</p>
+
+<p>La porte s'ouvrit sur une grotte sombre. À l’intérieur, éclairé par la lumière vacillante des torches, se trouvait le trésor ! Mais ce n'était pas le genre de trésor auquel ils s'attendaient. Pas de pièces d'or ni de bijoux précieux. Non. Le trésor était un énorme tas de… recettes de cuisine ! Des recettes de boulettes, bien sûr ! Des recettes de boulettes aux épinards, aux carottes, aux lentilles… et même aux insectes comestibles, qui, fort heureusement, restèrent sur la table.</p>
+
+<p>La déception fut de courte durée. Sophie réalisa que ce n'était pas un trésor matériel, mais un trésor de savoir. Ils décidèrent de rapporter les recettes au village et d’ouvrir un restaurant spécialisé dans les boulettes. Ce fut un triomphe ! Chaque jour, le restaurant était bondé, et tout le monde s'émerveillait devant la variété des boulettes proposées.</p>
+
+<p>Madame Tartine, désormais cuisinière en chef et dégustatrice officielle, devint une célébrité locale. Ses recettes étaient particulièrement appréciées, surtout celles au chocolat – qui, il faut bien le dire, faisaient saliver tous les gourmands. Pierre, grâce à son talent de cartographe, créa une carte illustrant tous les types de boulettes et tous leurs mystères, devenant le spécialiste incontesté du sujet. Et Sophie ? Elle était toujours la capitaine courageuse et l’organisatrice du restaurant, s’assurant que tout le monde passait un bon moment.</p>
+
+<p>Et Le Canard Boiteux ? Il continua à voguer, avec, à son bord, un équipage plus heureux et plus gourmand que jamais. Les aventures continuèrent, chaque voyage étant une occasion de découvrir de nouvelles recettes et de célébrer l'amitié et le plaisir de manger ensemble. Et c’est ainsi que, grâce à une carte au trésor, à des boulettes géantes et à une poule prodigieuse, l’histoire des explorateurs culinaires de l’Île aux Boulettes devint une légende dans tout le port. La légende de l’équipage qui a changé la gastronomie, un plat de boulettes à la fois!</p>
+</body>
+```

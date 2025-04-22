@@ -1,0 +1,41 @@
+<prompt>
+Please write a light-hearted Icelandic children's story that is at least 1000 words long.
+It must be completely written in proper Icelandic (IS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Öll dýrin og ævintýrið um kærleika'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>is</lang_id>
+
+<title>Öll dýrin og ævintýrið um kærleika</title>
+<body>
+Á fjörðum Íslands, þar sem snjór dansaði á blæbrigðum og vindur söng sögu sína, bjuggu fjölmargir dýr.  Þar var stór, fegur hvítur björn sem hét Bjarki.  Bjarki var ekki bara stór, heldur einnig mjög góður og hugsaði um öll dýrin í skóginum.  Hann var sá sem setti reglur og sá um að þær væru fylgdar.
+
+En einn daginn komu óvænt vandamál.  Það var ekki aðeins einn vandamál, heldur fjöldi þeirra.  Hvergi í skóginum var hægt að finna nóg af berjum og jurtirnar voru þurr og þótt þær væru grænar, þá var ekki í þeim næringin sem dýrin þurftu.  Þetta var mikill vöxtur, sem var aðeins að verða verri.  Dýrin voru hungræg og veik.  Bjarki sá þetta og varð mjög dapur.
+
+„Þetta getur ekki haldið áfram,“ sagði Bjarki með djúpa rödd. „Við verðum að finna lausn.“
+
+Hann kallaði saman öll dýrin í skóginum.  Þar voru eldhúsar, fjölmargir hrútar, dásamlegir sælir, og margir fleiri.  Þeir sátu í hring og Bjarki skýrði vandamálið.
+
+„Við þurfum að finna nýja heimkynni, nýja jurtina, nýja fæðuna,“ sagði Bjarki. „En hvar finnum við hana?“
+
+Húsin, sem voru mjög snjall, hugsuðu um þetta í langan tíma.  Þeir sögðu Bjarka að þeir hefðu heyrt fréttir um fjörð í suðri, þar sem væri nóg af góðum jurtir og berjum.  Þetta var mikil von.
+
+Þannig hófst ævintýrið.  Öll dýrin, Bjarki í fararbroddi, fóru á leið sína til suðurs.  Þeir gengu um fjörðinn, yfir fjall og um skóg.  Þeir gengu í mörg sólarhrings og mörg kvöld.  Þeir voru þreyttir, en þeir gáfu ekki upp.
+
+Á leiðinni hittu þeir marga aðra dýr.  Þeir hittu glæsilegar fugla, sem söng sögu um himininn.  Þeir hittu hraða hjörtu og voru aðdáendur af þeirra hraða.  Þeir hittu einmana eldhús og hjálpuðu þeim að finna nýja vináttur.  Hvert dýr gaf til kynna mikla kærleika og samvinnu á leiðinni.
+
+Þessi samvinna, þessi kærleikur, var lykilstöð í ævintýrinu.  Þeir hjálpuðust að, hvattust og blessuðust fyrir hverja aðra.  Þessi samvinna var krafturinn sem þurfti til að takast á við erfiðleikana.
+
+Að lokum komu þeir til fjörðarins í suðri.  Þar voru jurtirnar grænar, berjarnir rósar og þetta var paradís.  Öll dýrin voru ánægð og fegin.  Þeir voru að hlæja og skella.
+
+En þetta var ekki bara nýtt heimkynni, heldur nýtt líf.  Þar lærdust dýrin að virða hver annað.  Þeir lærdust að vinna saman og að hjálpa hver öðrum.  Þeir lærdust að elska.
+
+Bjarki, sem hafði verið sá sem setti reglur, sá nú að kærleikurinn var sterkari en hvaða regla sem er.  Kærleikurinn var krafturinn sem hjálpaði þeim að yfirvinna erfiðleikana.  Þetta var ekki bara ævintýri, heldur kennsla um kærleika og samvinnu.
+
+Það var þá að Bjarki skildi að það var ekki bara um nýtt heimkynni að ræða, heldur um nýtt líf.  Þetta var líf þar sem dýrin lærðu að virða hvert annað, að vinna saman og að elska.  Og það var þar sem ævintýrið um kærleika endaði.
+</body>

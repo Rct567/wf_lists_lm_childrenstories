@@ -1,0 +1,39 @@
+<prompt>
+Please write a emotional Swahili children's story that is at least 1000 words long.
+It must be completely written in proper Swahili (SW).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Mwisho Wa Ujanja Wa Sungura Mwengine'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sw</lang_id>
+
+<title>Mwisho Wa Ujanja Wa Sungura Mwengine</title>
+<body>
+Mara moja, katika msitu mrefu na mzuri, kulikuwa na sungura mmoja jina lake Furaha. Furaha alikuwa sungura mwenye ujanja sana, aliyejulikana kwa hila zake na mbinu zake za kupata chakula.  Alipenda sana kula karoti, na msitu mzima ulijua kwamba Furaha ndiye sungura mwenye ujanja zaidi katika kupata karoti hizo zilizokuwa zikipendeza sana.
+
+Kila siku, Furaha alikuwa akitafuta karoti zenye ladha nzuri. Alifuatilia mbinu mbalimbali za kupata karoti bila kupatikana na mbwa mwitu waliokuwa wakizunguka msitu huo.  Alifanya mazungumzo magumu na mbwa-mwitu hao, alicheza michezo ya kuvutia, akitumia mbinu zake zote ili kupata karoti bila kuathiriwa na hasara.
+
+Lakini, katika msitu huo pia kulikuwa na sungura mwingine, jina lake Huduma. Huduma alikuwa sungura mpole, mnyenyekevu na mkarimu.  Hakuwa mjanja kama Furaha, lakini alikuwa mwema na msafi katika tabia zake. Aliupenda msitu na viumbe vyote vilivyomo ndani yake.  Alipenda kuwasaidia wengine, bila kujali ujanja au ukosefu wake wa ujanja.
+
+Siku moja, mvua kubwa sana ilianguka katika msitu huo, ikifanya mto mkubwa utoke. Mto huo ulifurika na kupita sehemu ambayo ilikuwa na karoti nyingi sana.  Karoti zilizama katika maji, na kuonekana kama hazipatikani tena kwa urahisi.
+
+Furaha, akiwa na ujanja wake wote, alijaribu kupata njia za kupata karoti hizo zilizofichwa katika mto. Alijaribu kutumia mashimo ya kujificha ili kupata karoti, lakini mto ulikuwa mkubwa sana na wenye nguvu.   Akajaribu kupata miti miwili iliyo karibu na mto ili kuvuka, lakini maji yalikuwa makubwa.
+
+Huduma, ambaye alikuwa akisikia kila kitu kilichotokea, aliona taabu ya Furaha.  Alijua kwamba Furaha angepata shida sana kujipatia chakula.  Bila kusita, Huduma akachukua nguo zake zote na kuingia katika maji ili kuokota karoti kutoka kwenye mto.  Alikuwa akifanya kazi kwa bidii, akiokoa nyingi iwezekanavyo kwa ajili ya wanyama wengine.
+
+Furaha, aliyekuwa akimtazama Huduma, alihisi majuto moyoni mwake. Aliona jinsi Huduma alivyokuwa mwema na mkarimu, akifanya kazi kwa ajili ya wengine, bila kutafuta faida yake binafsi.
+
+Aliona jinsi alivyokusanya karoti nyingi na kuziweka salama, akizishirikisha na wanyama wote wa msitu.  Furaha alitafakari sana. Je, ujanja wake wote ulikuwa unamletea nini? Je, ilikuwa faida kwake peke yake, au kwa wengine?
+
+Kwa mara ya kwanza, Furaha aliona ukweli kwamba ujanja haukuleti furaha ya kweli.  Msaada na ukarimu ndiyo vilivyokuwa vya thamani kubwa.
+
+Alikwenda kwa Huduma na kumwambia, "Samahani Huduma kwa ujanja wangu wote.  Nimejifunza kitu muhimu leo.  Ukarimu wako na msaada wako kwa wengine ndio vitu vya thamani zaidi.”
+
+Huduma, akitabasamu kwa neema, alimjibu, "Furaha, mimi nawe ni marafiki, na urafiki hujenga msitu mzuri.  Jambo muhimu zaidi si ujanja, bali ni moyo mwema.”
+
+Kutoka siku hiyo, Furaha hakujaribu tena ujanja wake wa kupata chakula peke yake.  Alijifunza kufanya kazi kwa pamoja na kuwasaidia wengine.  Akaanza kusaidia wanyama wote katika msitu, bila kujali kama walikuwa wenye ujanja au la. Furaha na Huduma wakawa marafiki wa karibu, wakishirikiana katika kazi zao na wakipendana kwa moyo mwema. Na msitu wote ukafurahi kwa sababu ya ukarimu wao.
+</body>

@@ -1,0 +1,55 @@
+<prompt>
+Please write a funny Scottish Gaelic children's story that is at least 1000 words long.
+It must be completely written in proper Scottish Gaelic (GD).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'An Sealgair agus an Sionnach Sgil'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>gd</lang_id>
+
+<title>An Sealgair agus an Sionnach Sgil</title><body>
+Anns an dùthaich bheag, air taobh na h-aibhne, bha sealgair òg air a bheil ag ainmeachadh Iain.  Bha e na bhrath, gu cinnteach, ach bha a chridhe làn de dh'amhairc airson clann, is airson iorairean na h-aibhne.  Bha e a’ faireachdainn gu robh nàdar dha na làmhan.
+
+
+Bha anns a’ phàirc mhòr arainn fiosaig, sionnach spòrsail, dìreach dìonagach 's ainm air a bheil Seumas.  Bha an sionnach gu math sgilteach, uasal 's cuideachd beagan smuainteachail. Bha e 'ga lìonadh fein le nàdar na' bhan an ceann fhrinn na taigh, air aon cheann fhèin. 
+
+
+Aon là, nuair a bha an àrd-uachdar beairteach fo mhìosan, chuir Iain a làmhan timcheall air a lìn, dheagh lìn do chadh dhéididh chuddam. Chuir e air ais e chun a bhaile beag. Thug e làmhan a chuirp chun làmhan agus ràdh 'Gu cinnteach nuair is ghrinn 'sgiobla, faodaidh nàmhaid mòr dhian am fàileil.' Bha seumsuideach ag faireachdainn, smaoinich e fhad 's a bha e ag athbheothachadh le sgead a nàdhuir.
+
+
+Dh’fhàs an sionnach aon tùr, dh'fhuirich e, nuair a chunnaic e am bàs do' bheagan a sholaraichte 'nuair a fhuair e an sealgair.  Thug e tùr fhada dh'iarraidh a chlaonachadh agus a shàbhaladh fein.  Chuir e e féin ri taobh an fhostaichte àrd, le làmhan dìon, 'S nuair a thug an ioraire ceist ghluaiseachd an aghaidh na h-inleachd.  Bha e dìreach gu leòr.  
+
+
+‘Na mìnich sibh fa chomh sgilteach agus gorm.’ Dh'èisteadh Iain ris, agus a'faireachdainn gu robh seumas beag 'ga dùrachd.
+
+
+‘A mhàthair dearbhaichte’ arsa Iain.
+
+
+‘Sgil, Seumas?’ Chuir Seumas, 'Dh'fhaodadh gu bheil do-mhàin a’ fhasa seo dhiot. Bha e a’ gairm do' shealgaire gu a ghluasaid fhèin chun a' phlàgeach.
+
+
+Bhios Iain 'ga dùrachd. Bha Seumas cho smuainteachail agus dhomhainn ann an iomairt gu' bha Iain a' faireachdainn beagan sgaoilte gu nàdar, 's mò a-mhàin leis an t-sgrùdadh a bha i air a chuir, is air a shruthadh gu na shreudan eireachdail aice fhèin agus coilltean.   Smaoinich Iain a’ bhreith 'ga lìonadh le uamhas is fearg.
+
+
+Fhad 's a bha Seumas 'gam faighinn dhèididh na cuimhneachan eireachdail anns a' ghrinn, bha Iain gu sàbhailte is na leithid air a bheil uamhasan, faireachdainnean nach urrainn ach an sealgair òg an eireachdail 'na shaol, am bràth is am sealgair mòr. Bha iad a' suirghe fìor shuasach is a' bruidhinn dhoirbh, le faireachdainnean de ghlòir gu cridhe na h-aibhne.
+
+
+‘Tha mi a’ tuigsinn,’ arsa Iain.
+
+
+Dh'fhuirich Iain, gu dearbh, 'S an seo air a chuingealachadh.  Agus dh'fhuirich Seumas 'gam lìonadh le sgìrean neo-eisimeilich nach urrainn dhiot a sheachnadh air bòrd an t-sealgair air a' mhàthair. An uair sin thòisich e, 'sa mhodh a bha aig Seumas. Bha an sealgair a 'suim a-steach air sàbhaladh uatha sùidh air làimh fhathast air bòrd,  's ag argamaid 'na tha mi fhìn dha.
+
+
+Fhuair Iain seachad air an sguabachadh. Bha seumas a’ bruidhinn.  Agus dh'fhàs e air falbh, fhad ‘s a bha na cluaisean aige na-aigne. Tha an cùl thagaid aig an sealgair, mar na thagh-gachd ag' àrdachadh. Fuair Seumas am bàs, gu cinnteach is gu cinnteach, le aire gairm a sealgair. Dh'fhuiling e fhèin a lìn dhenn an ceann fhèin gus cuir fàileil, agus is fèin air a bhàsachadh.
+
+
+Chrath Iain, 's bha e d'ghabhail do smaoinichte. Cha robh nàmhaid sgoile ann an aghaidh feadh fhèin. Cha robh sinn 'na shaoighteach an t-sealgair sùghaidh. Cha robh e ghabhail tairbh a shlighe chun amhuinn, do bhriseadh, is do dhaoine. Agus bha e cuingealaichte don làimh a bha air slighe ag anns an dòigh bheathach.
+
+
+Leis ghrinn gorm is làidir, thuig Seumas gu robh Iain dha-fhiachach air son an t-sealgair, 'na sheanluath, ach fhèin air.  Choisich Iain 'gam faighinn chun smaoineachadh aige, a' faireachdainn airson a' chomharra-fiosaig gu nàdar an saoghal mòr seo.
+</body>

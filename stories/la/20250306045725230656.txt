@@ -1,0 +1,37 @@
+<prompt>
+Please write a relatable Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Aventurae Pueri et Draconis Amicissimi'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>la</lang_id>
+
+<title>Aventurae Pueri et Draconis Amicissimi</title>
+<body>Erant in terra Latina, ubi sol semper fulgebat, puer nomine Marcus, qui vivebat in villa parva cum parentibus, avo, et avia. Marcus erat puer curiosus et audax, qui semper queritabat novas res et amicos. 
+
+In die quadam, cum Marcus in agro luderet, audivit sonum magnae bestiae, qui veniebat e silva proxima. Puer, qui non timebat, accessit ad silvam et invenit draconem, qui erat magnus et fortis, sed etiam amicus et mitis. Draco, cui nomen erat Ignis, erat expulsus e terra sua a malo rege, qui volebat dominari omnibus bestiis.
+
+Marcus et Ignis statim fuerunt amici, et Ignis dixit Marco, quod volebat eum ducere ad suam terram, ut pugnaret contra malum regem et recuperaret suum regnum. Marcus, qui erat audax, consensit et dixit, quod erat paratus ad pugnam. 
+
+Itaque, Marcus et Ignis inciperunt iter suum, et transierunt per montes altos et flumina profundas. In itinere, invenierunt multas bestias, quae erant amicae et auxiliabant eos in via. Erat ursus, qui erat fortis et potens, et erat avis, qui erat velocissimus et potens.
+
+Cum iter facerent, Marcus et Ignis loquebantur de suis vitis et de suis amicis. Marcus dicebat de suis parentibus et avo, qui erant semper amici et auxiliabant eum in omnibus. Ignis dicebat de suis amicis, qui erant bestiae, quae vivebant in sua terra, et de suo regno, quod erat dominatum a malo rege.
+
+Post multos dies, Marcus et Ignis advenere ad terram Ignis, et viderunt malum regem, qui erat crudelis et potens. Malus rex, cui nomen erat Malus, erat dominus omnium bestiarum, et volebat dominari omnibus terris. Marcus et Ignis sciverunt, quod debebant pugnare contra Malum, ut recuperarent regnum Ignis.
+
+Itaque, Marcus et Ignis inciperunt pugnam, et pugnaverunt contra Malum et eius bestias. Marcus erat audax et fortis, et Ignis erat potens et mitis. Pugna erat longa et difficilis, sed Marcus et Ignis non cesserunt. 
+
+Cum pugna esset in medio, Marcus et Ignis viderunt, quod Malus erat non solum crudelis, sed etiam stultus. Malus credebat, quod poterat dominari omnibus terris, sed non sciebat, quod vera potestas venit a amicitia et a auxilio. Marcus et Ignis sciverunt, quod debebant monere Malum, ut non pugnaret contra eos, sed contra suam stultitiam.
+
+Itaque, Marcus et Ignis cessaverunt pugnam, et accesserunt ad Malum. Marcus dixit, "Malus, cur pugnas contra nos? Cur non vis amicitiam et auxilium?" Malus respondit, "Ego pugno, quia volo dominari omnibus terris." Marcus dixit, "Sed vera potestas non venit a dominatione, sed a amicitia et a auxilio. Si vis vere dominari, debebis amicitiam et auxilium habere."
+
+Malus audivit verba Marci, et scivit, quod erat stultus. Malus dixit, "Ego sum stultus, et non scio, quid faciam." Marcus et Ignis auxiliaverunt Malum, et docuerunt eum, quid esset amicitia et auxilium. Malus scivit, quod vera potestas venit a amicitia et a auxilio, et non a dominatione.
+
+Itaque, Malus cessavit pugnam, et factus est amicus Marci et Ignis. Tres amici, Marcus, Ignis, et Malus, recuperaverunt regnum Ignis, et dominati sunt terram cum amicitia et auxilio. Marcus rediit ad suam villam, et dixit parentibus et avo de suis aventuris et de suis amicis. Parentes et avus Marci fuerunt laeti, quod Marcus erat audax et fortis, et quod habebat amicos, qui erant bestiae.
+
+Et sic, Marcus et Ignis et Malus vixerunt in pace et in amicitia, et dominati sunt terram cum auxilio et amicitia. Finis.</body>

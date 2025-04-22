@@ -1,0 +1,48 @@
+<prompt>
+Please write a relatable Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Az óriási sárkány és barátja'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>hu</lang_id>
+
+<title>Az óriási sárkány és barátja</title><body>  
+Egyszer volt, hol nem volt, egy távoli magyar faluban, ahol a dombok zöldellő mezői között egy kis házikó állt. Ebben a házikóban élt egy kisfiú, akit Bélának hívtak. Béla nagyon szeretett kalandokat keresni, és imádta a természetet járni. Minden nap az erdő szélén sétált, ahol a fák lombjai között rengeteg titok rejtőzött.  
+
+Egy nap, amikor Béla éppen a szokásos sétáján volt, valami furcsát észlelt. Az égen egy hatalmas árnyék suhant át, és a földre egy óriási sárkány szállt le. Béla szíve hevesen vert, de nem futott el. Inkább kíváncsisága győzött, és óvatosan közelebb lopakodott.  
+
+A sárkány nem volt félelmetes, ahogy Béla eltervezte. Inkább szomorúnak tűnt. A hatalmas lény leült a földre, és mély sóhajtás hallatszott torkából. Béla bátorságot gyűjtött, és közelebb ment.  
+
+– Miért vagy szomorú? – kérdezte a fiú, és a sárkány meglepődött, hogy egy gyermek merészeli megközelíteni.  
+
+– Senki sem akar velem barátkozni – mondta a sárkány mély hangon. – Mindenki fél tőlem, pedig én csak szeretnék játszani és nevetni, mint mások.  
+
+Béla elgondolkodott. A sárkány nem tűnt gonosznak, csak magányosnak.  
+
+– Én leszek a barátod – mondta Béla mosolyogva. – Ha megígérsz, hogy nem bántasz senkit.  
+
+A sárkány örömmel bólogatott, és így született meg egy különleges barátság. Béla minden nap felkereste a sárkányt, akit Sári néven keresztelt el. Sári megtanította Bélának, hogyan kell repülni a hátán, és a fiú pedig mesélt neki a faluról és az emberekről.  
+
+Egy nap azonban a falubeliek észrevették a sárkányt. Féltek tőle, és úgy döntöttek, hogy elűzik őt. Béla rettegett, hogy elveszíti barátját, és mindent elmondott Sárinak.  
+
+– Nem akarom, hogy bántsák téged – mondta Béla szomorúan. – De nem tudom megállítani őket.  
+
+Sári bölcs szemekkel nézett Bélára.  
+
+– Ne aggódj – mondta. – Megtaláljuk a megoldást.  
+
+Másnap, amikor a falubeliek fegyverekkel a kezükben közeledtek, Béla és Sári együtt álltak. Béla felszállt Sári hátára, és a sárkány lassan felemelkedett az égre. A falubeliek megálltak, és bámulva nézték, ahogy a kisfiú és a sárkány barátsága megmutatkozik.  
+
+– Ne féljetek tőle! – kiáltotta Béla. – Sári nem bánt senkit! Ő csak egy barát szeretne lenni!  
+
+A falubeliek elgondolkodtak. Látták, hogy Béla biztonságban van, és a sárkány sem tett semmi rosszat. Lassan letették a fegyvereiket, és megértették, hogy nem minden ismeretlen dolog gonosz.  
+
+Így lett Sári a falu védelmezője. A gyerekek imádtak játszani vele, és a felnőttek is megtanultak megbízni benne. Béla és Sári barátsága pedig még szorosabbá vált, és soha nem hagyták el egymást.  
+
+És ha nem hiszitek, jöjjetek el a faluba, ahol ma is látható egy hatalmas sárkány és egy bátor kisfiú barátságának emléke.  
+</body>

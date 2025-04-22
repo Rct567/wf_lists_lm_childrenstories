@@ -1,0 +1,33 @@
+<prompt>
+Please write a light-hearted Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Pasakas par zelta vēršu karaļvalsti'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lv</lang_id>
+
+<title>Pasakas par zelta vēršu karaļvalsti</title>
+<body>
+Lielajā, ziedošajā zālē, kas atradās zem milzīga, spīdoša zelta vērša spārniem, dzīvoja maza meitene vārdā Elīza. Elīza nebija parasta meitene.  Viņai bija acis kā tumši zilas zvaigznes un mati kā zelta rudens lapas.  Viņa prata saprast dzīvnieku valodu un bieži pavadīja laiku, sarunājoties ar ziedošajiem rožu krūmiem un čukstošajiem koku stumbriem.
+
+Zelta vēršu karaļvalstī viss bija zeltaini dzeltenā krāsā.  Zelta vērši ar spīdošām acīm ganīja zelta zāli, un pat upes tekoša ūdens bija zeltaini dzidrs.  Bet šajā skaistumā slēpās viens mazs, bet nepatīkams noslēpums.  Zelta vēršu karaļvalsts bija apdraudēta.  Zelta vēršu spārnu spīdums pamazām izbalēja, un viss sāka zaudēt savu spīdumu.
+
+Elīza, dzirdēdama koku čukstus un ziedu nopūtas, saprata, ka karaļvalsts slimo.  Viņa nolēma doties uz zelta kalnu, kur, kā stāstīja senās leģendas, atradās Zelta Vērša sirds.  Ja Elīza to atradīs un atjaunos, tad spīdums atgriezīsies karaļvalstī.
+
+Ceļš uz zelta kalnu bija garš un grūts.  Elīza satika gudru lapsu, kas prata lasīt zvaigžņu valodu, un draudzīgu brievi, kas prata dziedāt dziedināšanas dziesmas.  Lapsa pastāstīja par zvaigžņu stāvokli, kas norādīja ceļu uz kalnu, un brieža dziedināšanas dziesmas Elīzai deva spēku un cerību.
+
+Ceļā Elīza satika arī ļauno ēnu, kas gribēja nolaupīt Zelta Vērša sirdi.  Ēna bija liels, melns mākonis, kas izplatīja tumsu un briesmas.  Bet Elīza, ar savu drosmi un sirdi, kas bija pilna ar mīlestību pret karaļvalsti, cīnījās pret ēnu. Viņa dziedāja priecīgas dziesmas, un tās izkliedēja ēnas tumsu.  Ēna pazuda, kā izkususi sniega bumba.
+
+Beidzot Elīza sasniedza zelta kalnu.  Kalna virsotnē spīdēja Zelta Vērša sirds – milzīgs, spīdošs zelta akmens.  Bet lai to paņemtu, Elīza bija jāveic pārbaudījums.  Viņai bija jāizrāda mīlestība pret visu apkārtējo, jāapzinās skaistums un jāizrāda drosme.
+
+Elīza, pateicoties lapsai un briežam, zināja, kā rīkoties.  Viņa apskāva ziedošu rozi, dzirdēja putnu dziesmas un sarunājās ar koku.  Viņa apzinājās karaļvalsts skaistumu un drosmīgi pacēla Zelta Vērša sirdi.
+
+Kad Elīza atgriezās Zelta vēršu karaļvalstī, viss sāka mainīties.  Zelta zāle atkal kļuva zaļāka un spīdīgāka, upes ūdens – dzidrāks un skaistāks.  Zelta vēršu spārni atkal spīdēja ar neaprakstāmu spēku un skaistumu.  Elīza bija glābusi karaļvalsti un kļuvusi par tās varoni.
+
+No tā brīža Zelta vēršu karaļvalstī katru dienu notika svētki un priecīgas dejas.  Elīza kļuva par karaļvalsts mīļoto meiteni, kas vienmēr atcerējās savu ceļojumu un drosmi, kas bija nepieciešama, lai glābtu karaļvalsti.  Un katrs, kas apmeklēja Zelta vēršu karaļvalsti, zināja stāstu par drosmīgo meiteni, kas glāba visu zeltaini dzeltenajā zemē.
+</body>

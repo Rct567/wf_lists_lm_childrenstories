@@ -1,0 +1,61 @@
+<prompt>
+Please write a uncomplicated Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Zīmuļu pasaka: kā zīmuļi gleznoja skaistas bildes un stāstus.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>lv</lang_id>
+
+<title>Zīmuļu pasaka: kā zīmuļi gleznoja skaistas bildes un stāstus.</title><body>
+Reiz bija kāda kaste. Ne gluži parasta kaste, bet īpaša. Šajā kastē mita zīmuļi. Un ne jau vienkārši zīmuļi, bet gan īsti mākslinieki, kuriem patika zīmēt un krāsot, un radīt visbrīnišķīgākās bildes.
+
+Pirmais zīmulis bija Spilgti Sarkanais. Viņš vienmēr bija rosīgs un priecīgs, ar smaidu sejā. Spilgti Sarkanais vislabprātāk gleznoja saules rietus un jautrus ugunskurus. Viņam ļoti patika uzzīmēt sirdis un sarkanus balonus, kas lidoja debesīs. "Redziet, cik skaisti!" viņš sauca, kad beidza savu darbu.
+
+Blakus Spilgti Sarkanam dzīvoja Zili Zilais. Viņš bija mierīgs un kluss, kā dziļš ezers. Zili Zilais visbiežāk zīmēja debesis un jūru, viļņus un laivas. Viņš prata radīt noskaņu, tādu, ka skatoties uz viņa bildēm, gribējās atslābināties un pasapņot. Viņš mīlēja klusumu un rāmumu.
+
+Tālāk kastē mita Zaļi Zaļais. Viņš bija visenerģiskākais no visiem zīmuļiem. Zaļi Zaļais gleznoja kokus un pļavas, zāli un lapas. Viņam ļoti patika zīmēt kukaiņus un putnus, kas lidinājās starp zariem. Zaļi Zaļais allaž teica: "Daba ir skaista! Skatieties, cik daudz zaļuma!"
+
+Un tad bija Dzelteni Dzeltenais. Viņš bija saulains un dzīvespriecīgs. Dzelteni Dzeltenais zīmēja sauli un zvaigznes, dzeltenas puķes un gardus banānus. Viņam patika smaidīt un smieties, un viņš vienmēr centās iepriecināt pārējos zīmuļus. "Smaidi! Dzīve ir jautra!" viņš teica.
+
+Visbeidzot, pašā kastes apakšā, mita Melns Melnais. Viņš bija noslēpumains un nedaudz bēdīgs. Melns Melnais zīmēja nakti un zvaigznājus, ēnas un mākoņus. Viņam bija daudz noslēpumu, un viņš bieži vien klusēja. Bet, ja viņš sāka zīmēt, viņa bildes bija ļoti spēcīgas un dziļas.
+
+Zīmuļi dzīvoja ļoti draudzīgi. Viņi bieži vien strādāja kopā, lai radītu visbrīnišķīgākās bildes. Reizēm Spilgti Sarkanais un Zili Zilais strīdējās, kuram krāsot vairāk. Sarkanais vēlējās uzzīmēt sarkanu saulrietu, bet Zili Zilais vēlējās uzzīmēt zilu jūru. Bet, beigu beigās, viņi vienmēr atrada kompromisu. Viņi uzzīmēja saulrietu virs jūras – sarkans un zils kopā.
+
+Reiz kāda maza meitenīte vārdā Annasēna atvēra kasti. Viņa ieraudzīja zīmuļus un acis uzreiz mirdzēja no prieka. Viņa paņēma Spilgti Sarkano un sāka zīmēt sirdi uz papīra. "Cik skaisti!" viņa nopriecājās.
+
+Pēc tam Annasēna paņēma Zili Zilo un uzzīmēja debesis un mākonīšus. "Mani debess izskatās tik reāli!" viņa nodomāja.
+
+Tad Annasēna paņēma Zaļi Zaļo un uzzīmēja kokus un zāli. Un Dzelteni Dzeltenais palīdzēja viņai uzzīmēt sauli un dzeltenas puķes.
+
+Un, visbeidzot, Annasēna paņēma Melnu Melno un ar viņa palīdzību uzzīmēja ēnas zem kokiem un kontūras ziediem.
+
+Katrs zīmulis deva savu krāsu un savu īpašo vērtību Annasēnas zīmējumam. Viņa gleznoja skaistas bildes par putniem, kuri lidinājās debesīs, ziediem, kas smaržoja jauki, un sauli, kas sildīja zemi.
+
+Kādu dienu zīmuļi nolēma izstāstīt Annasēnai stāstu.
+
+"Es izstāstīšu stāstu par sauli," teica Dzelteni Dzeltenais. "Reiz saulīte bija ļoti vientuļa. Viņa spīdēja debesīs un neviens viņu neredzēja. Tad viņa nolēma nolaisties zemē un satikt cilvēkus."
+
+"Es izstāstīšu stāstu par jūru," teica Zili Zilais. "Reiz jūra bija ļoti dziļa un tumša. Bet, tad parādījās mazs zivs, kurai patika spēlēties ar viļņiem."
+
+"Es izstāstīšu stāstu par kokiem," teica Zaļi Zaļais. "Reiz kokiem nebija lapu. Viņi jutās ļoti pliki un auksti. Bet, pavasarī, viņiem parādījās daudz skaistu lapu."
+
+"Es izstāstīšu stāstu par sirdi," teica Spilgti Sarkanais. "Reiz sirds bija tukša un bēdīga. Bet, tad iemīlējās un sāka spīdēt no laimes."
+
+"Un es izstāstīšu stāstu par nakti," teica Melns Melnais. "Reiz naktis bija ļoti garas un tumšas. Bet, tad parādījās zvaigznes, kuras sāka spīdēt."
+
+Annasēna klausījās un klausījās. Katrs zīmulis stāstīja savu stāstu, un Annasēna tos izzīmēja. Viņa zīmēja sauli, kura smaida cilvēkiem, zivtiņu, kura spēlējas viļņos, kokus ar lapām un sirdi, kas spīd laimē.
+
+Arī Melnais Melnais pastāstīja stāstu par zvaigznēm, kuras apspīdēja zemi. Viņa atveidoja zvaigžņotās debesis, un tas bija pasakaini skaisti. Annasēna turpināja zīmēt, un katrs zīmulis bija klāt, daloties savā pasaulē. Viņa sāka saprast, ka katram zīmulim ir ko teikt un katrai krāsai ir sava nozīme.
+
+No tās dienas Annasēna sāka rakstīt un zīmēt savas pasakas, kurās vienmēr bija vieta visiem zīmuļiem. Viņa zināja, ka kopā viņi var radīt kaut ko ļoti skaistu un iedvesmojošu. Un viņi to arī darīja – radīja bildes un stāstus, kas iepriecināja bērnus un lika viņiem ticēt brīnumiem.
+
+Annasēna saprata, ka skaistums ir visur apkārt, un tas jāprot saredzēt.
+Annasēna gleznoja draudzību, laipnību un sapņus, un viņa zina, ka skaistākais pasakas ir tās, kuras tiek zīmētas kopā ar draugiem.
+
+Un tā zīmuļu kaste, ar visu tās krāšņumu un daudzveidību, vienmēr atradīs ceļu pie kāda mazā mākslinieka. Jo tieši šie zīmuļi parāda, cik bagāta ir pasaule. Un, kopā darbojoties, viss ir vēl skaistāks un krāšņāks. Zīmuļu pasaka nekad nebeidzas, tā turpinās katrā jaunā zīmējumā, katrā jaunā stāstā. Un Spilgti Sarkanais, Zili Zilais, Zaļi Zaļais, Dzelteni Dzeltenais un Melns Melnais vēl arvien strādā kopā, radot brīnumus un prieku bērnu sirdīs.
+</body>

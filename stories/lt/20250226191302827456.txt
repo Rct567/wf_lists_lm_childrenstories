@@ -1,0 +1,41 @@
+<prompt>
+Please write a silly Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Vakarų šalies pasakos ir legendos'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lt</lang_id>
+
+<title>Vakarų šalies pasakos ir legendos</title>
+<body>
+Sename, sename miške, prie pat Kuršių nerijos, gyveno linksmas, šmaikštus vilkas vardu  Voveraitė.  Ne, ne, ne, ne taip –  Voveraitė jis vadinosi, bet VOVERAITA,  su didžiule, rausva, beveik rausva, nosyte.  Nors vilkas, jis buvo tiesiog išskirtinis.  Nebūtinai geras, nebūtinai blogas, tiesiog –  VOVERAITA.
+
+Šis vilkas svajojo tapti dainininku. Ne, ne tiesiog gurgždėdamas kaip kiti vilkai, o dainininku su balsu, kuris užpildytų visą mišką nuostabia muzika! Bet Voveraita neturėjo noro dainuoti, tik noro gurgždėti. O gurgždėdamas atrodė lyg šnypščiantis šaudyklė ir tai – ne tai ką reiktų daryti šauniam dainininkui.
+
+Vieną saulėtą rytą, skraidydamas  ant pušies šakos (nes kaip kitaip Voveraita gali pasiekti tą viršutinę šaką,  ar ne?) Voveraita  sutiko šaunų strazdą vardu  Ąžuolas, pasmerktą  visą savo laiką praleisti rūkydamas krapus. Ąžuolas, neturėdamas nei poros protingų kalbų, tik rūkė ir gurgždėjo, suvokdavo kiekvieną dainos natą.
+
+„Aš noriu tapti dainininku!“, pasakė Voveraita, jo balsas suskambėjo lyg smulkios akmenukai sudaužyti, o Ąžuolas gurgždama ir šnypšdama, tarė: "Gurgždėji per daug. Norėdami dainuoti kaip tikroji daina, turėtumėte pirkti garbanotus triušius iš netikro cukraus". 
+
+"Bet kokie yra garbanoti triušiai iš netikro cukraus?" - paklausė Voveraita.
+
+"Viskas – neįprasta." - Atsakė  Ąžuolas, nusiėmęs krapų dūmų ir nusimetęs apimtis kaip obuolys, kuris pralindo per akmens spragą ir visada praeis.
+
+Voveraita, nors ir stebėjosi, suprato.  Jis nusprendė imtis ieškoti garbanotų triušių iš netikro cukraus. Jis ėmė klaidžioti po mišką, sutikdamas įvairias keistas būtybes.  Susipažino su ežiuku, kuris rėkė aukštesnį balsą nei Voveraitės dainos vokalo diapazonas, ir drieže, kuris mokėjo tik garsus, panašius į pasaulio garso užsikimšimus.  Niekas negalėjo padėti Voveraitei.
+
+Nuskubęs prie pelėdų ežero, Voveraita pastebėjo keistą dalyką – netikras triušių cukrumi visai prikimštos kiaulių spūsties sparnų. Kiaulės stovėjo pakrypusios į saulę.
+
+Voveraitei pavyko aplenkti vieną kiaušinį, bet tai jau atrodė nesunku.  Jis paėmė nedidelį netikrą cukrumi prikimštą triušio sparną ir priklijavo prie Voveraitės skraido.  Kai pūkuotas triušis nusileido žemę, ėmė šnypšėti,  gurgždėti, ir tyliai, tiesiai į Voveraitės ausį, sudrebėjo žodžiai: „Dainuosite, bet pirmiausia turite išmokti triukų!“ 
+
+Pradėdami nuo palyginimo tarp žvaigždžių ir deimantų (kuris pranašauja tam tikrą laimėjimą) ir perėjus per išskirtines dainas ir žodžius – Voveraita surado dvasinį dainavimo pasaulio pagrindą.
+
+Šaukdami aukštesniomis natomis nei per ankstesnius šuolius, jie dainavo visą vakarą. Net meškos įsipainiojo į šių nuostabių dainų dūžius ir pradėjo palydėti jį būgneliais ir mušant, Voveraita dainavo netgi daugiau nei tikėtasi, dainavo, kol nebeliko daugiau dainuojamų balsų.  Visas miškas, nuskendęs nuostabioje muzikos jūroje, linksmindavosi.
+
+Nuo tos dienos Voveraita tapo garsiausiomis dainų pasaulio daina, kurios dainas mylėjo tiek  plunksnuotosios paukščiai,  tiek kieti rūkymo šnypščiai, visų žvėrių, ir gėlių. Jis dainavo apie Kuršių neriją, apie saulėlydžių raudonius debesis, ir visada prisimindavo garbanotus triušius iš netikro cukraus, kurie jam davė įžvalgą į unikalią  daina pasaulio magiškąjį paveikslą.  Visi suprato, kad daina slypi ne tik balso galybėje, bet ir unikaliai surastame dainų ryšyje, kur  gali susivienyti ne tik gera ir bloga, bet  net smulkiuose  akmenuose.
+
+Taip baigėsi nepaprastas Voveraitės, kuris svajojo dainuoti miške,  Istorija.
+</body>

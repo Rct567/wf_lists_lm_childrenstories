@@ -1,0 +1,68 @@
+<prompt>
+Please write a dialog-based Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Merihevosen unelma ja meren syvyydet'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>fi</lang_id>
+
+<title>Merihevosen unelma ja meren syvyydet</title>
+<body>
+Oli kerran kaunis merihevospoika nimeltä Ahti. Ahti asui meren pohjalla isänsä ja äitinsä kanssa. Heillä oli siellä kaunis koti, joka oli tehty meren kivistä ja koralleista. Ahti rakasti meren pohjaa ja kaikkia siellä asuvia olentoja. Hän oli erityisen ystävällinen merikilpikonnien kanssa, jotka olivat hänen lemmikkejään.
+
+"Isä, mikä on meren syvin kohta?" Ahti kysyi isältään yhtenä päivänä.
+
+"Ah, poika, meren syvin kohta on Mariana-kaivo", isä vastasi. "Se on paikka, jonne valo ei pääse koskemaan, ja siellä asuu monia salaperäisiä olentoja."
+
+Ahti oli utelias ja halusi nähdä Mariana-kaivon itse. Hän pyysi isältään lupaa lähteä sinne, mutta isä kielsi.
+
+"Poika, Mariana-kaivo on liian syvä ja vaarallinen sinulle", isä sanoi. "Sinun on parempi pysyä täällä meren pohjalla, missä on turvallista."
+
+Ahti oli pettynyt, mutta hän ei antanut periksi. Hän alkoi suunnitella matkaa Mariana-kaivolle salaa. Hän keräsi ruokaa ja varusteita ja odotti sopivaa hetkeä lähtöön.
+
+Yhtenä yönä, kun hänen vanhempansa olivat nukkumassa, Ahti lähti matkaan. Hän ui meren pohjaa pitkin, ohittaen merikilpikonnat ja muita meren eläimiä. Hän seurasi meren syvyyksiä ja pääsi lopulta Mariana-kaivolle.
+
+Mariana-kaivo oli vielä syvempi ja salaperäisempi kuin Ahti oli odottanut. Siellä asui monia erikoisia olentoja, joita hän ei ollut koskaan nähnyt. Hän tapasi jättiläismäisen mustekalan, joka esittäytyi nimellä Kalle.
+
+"Hei, olen Kalle", mustekala sanoi. "Täällä on hyvin syvällä, eikö ole? Mitä sinä teet täällä?"
+
+Ahti kertoi Kallelle, että hän oli tullut näkemään Mariana-kaivon. Kalle oli yllättynyt, mutta hän tarjosi Ahdille opastusta kaivon syvyyksiin.
+
+"Hei, haluatko nähdä kaivon syvimmän kohdan?" Kalle kysyi.
+
+Ahti nyökkäsi innostuneena, ja Kalle vei hänet kaivon syvimpään kohtaan. Siellä he näkivät valtavan, loistavan kristallin, joka heijasti meren kauneutta.
+
+"Wow, tämä on uskomatonta!" Ahti huudahti.
+
+Kalle nauroi. "Täällä on paljon kaunista nähtävää, mutta myös vaarallista. Sinun on oltava varovainen."
+
+Ahti kiitti Kallea opastuksesta ja lähti takaisin meren pohjalle. Hän oli nähnyt asioita, joita hän ei ollut koskaan unelmoinut, ja hän tiesi, että hän ei koskaan unohda tätä matkaa.
+
+Kun Ahti palasi kotiin, hänen vanhempansa olivat huolissaan. He olivat etsineet häntä kaikkialla, mutta he eivät olleet löytäneet häntä.
+
+"Ahti, missä sinä olit?" äiti kysyi. "Me olimme niin huolissamme sinusta."
+
+Ahti kertoi vanhemmilleen kaiken, mitä hän oli nähnyt Mariana-kaivossa. He kuuntelivat häntä tarkkaan ja olivat ylpeitä Ahdin rohkeudesta.
+
+"Poika, sinä olet rohkea ja utelias", isä sanoi. "Me olemme ylpeitä sinusta, mutta muista aina olla varovainen ja kuulla vanhempiasi."
+
+Ahti nyökkäsi ja kiitti vanhempiaan. Hän tiesi, että hän oli oppinut paljon tärkeää matkallaan Mariana-kaivolle, ja hän oli valmis seuraavaan seikkailuun.
+
+Seuraavana päivänä Ahti lähti uudelleen meren pohjalle, tällä kertaa vanhempiensa kanssa. He kävivät merikilpikonnien luona, ja Ahti esitteli heidät vanhemmilleen.
+
+"Hei, tässä on ystäväni", Ahti sanoi. "He ovat hyvin ystävällisiä ja opettavat minulle paljon merestä."
+
+Vanhemmilla oli ilo tutustua merikilpikonnien kanssa, ja he kiittivät Ahtia siitä, että hän oli esitellyt heidät.
+
+"Ahti, sinä olet hyvin ystävällinen ja avulias", äiti sanoi. "Me olemme ylpeitä sinusta."
+
+Ahti oli iloinen ja tyytyväinen. Hän tiesi, että hän oli löytänyt oman paikkansa meren pohjalla, ja hän oli valmis elämään siellä vanhempiensa ja ystäviensä kanssa.
+
+Kun päivä oli päättynyt, Ahti meni nukkumaan, tietäen, että hänellä oli edessään paljon uusia seikkailuja ja kokemuksia. Hän unelmoi Mariana-kaivosta ja kaikista salaperäisistä olennoista, jotka asuivat siellä, ja hän tiesi, että hän palaisi sinne jonain päivänä.
+
+Ja niin Ahti jatkoi elämäänsä meren pohjalla, aina uteliaina ja rohkeana, ja aina valmiina seuraavaan seikkailuun. Hän tiesi, että meri oli täynnä salaisuuksia ja ihmeitä, ja hän oli valmis löytämään ne kaikki.</body>

@@ -1,0 +1,61 @@
+<prompt>
+Please write a simple and easy-to-follow Catalan children's story that is at least 1000 words long.
+It must be completely written in proper Catalan (CA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Les amigues del bosc i el seu secret'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>ca</lang_id>
+
+<title>Les amigues del bosc i el seu secret</title><body>Fa molt de temps, en un bosc lluminós i ple de vida, vivien tres amigues inseparables: la Llúdria Lluïsa, la Guineu Guioma i l’Ànec Adrià. Les tres eren molt diferents entre si, però compartien una amistat tan forta que res ni ningú podia separar-les. Passaven els dies explorant el bosc, jugant a jocs divertits i descobrint petits secrets que la natura amagava per a elles.
+
+Un dia, mentre caminaven per un sender estret que portava fins a un riu cristal·lí, la Lluïsa va cridar:  
+—Mireu! Què és allò que brilla entre els arbres?  
+
+Les tres van acostar-se amb curiositat i van veure alguna cosa que resplendia sota un gran roure. Era una petita caixa de fusta, antiga i plena de detalls tallats a mà. A sobre, hi havia una inscripció que deia: *“Per a qui trobi aquesta caixa, el bosc us revelarà el seu secret.”*  
+
+La Guioma, sempre la més curiosa, va preguntar:  
+—Què hi ha dins? Obrim-la?  
+
+—Potser és un tresor! —va dir l’Adrià, emocionat.  
+
+—O potser és una trampa... —va murmurar la Lluïsa, una mica més prudent.  
+
+Però la curiositat va més que la prudència, i les tres van decidir obrir la caixa. Dins hi van trobar un petit pergamí amb un mapa dibuixat. El mapa mostrava el bosc i un camí que portava a un lloc anomenat *“La Clariana dels Desitjos”*.  
+
+—Què és això? —va preguntar l’Adrià, amb els ulls ben oberts.  
+
+—No ho sé —va respondre la Guioma—, però sembla que hem de seguir aquest camí per descobrir el secret del bosc.  
+
+Les tres van decidir seguir el mapa. Van caminar durant hores, creuant rius, pujant turons i passant per llocs que mai havien vist abans. Finalment, van arribar a un clar del bosc on el sol brillava amb una llum especial. Enmig de la clariana hi havia una font d’aigua cristal·lina, i al seu costat, un arbre gegant amb fulles daurades.  
+
+—Això ha de ser la Clariana dels Desitjos —va dir la Lluïsa, impressionada.  
+
+—I què fem ara? —va preguntar l’Adrià.  
+
+—El pergamí deia que el bosc ens revelaria el seu secret —va recordar la Guioma—. Potser hem de fer alguna cosa.  
+
+En aquell moment, van sentir una veu suau que semblava venir de l’arbre:  
+—Benvingudes, amigues del bosc. Heu trobat el camí fins aquí, i ara heu de demostrar que sou dignes de conèixer el secret.  
+
+Les tres es van mirar, sorpreses. La veu va continuar:  
+—Cada una de vosaltres ha de deixar alguna cosa que estimi en aquesta font. Només així podreu descobrir el que el bosc us vol dir.  
+
+La Lluïsa va pensar en la seva joguina preferida, un pal lliscant que portava sempre amb ella. La Guioma va pensar en el seu collar de petxines, i l’Adrià en la seva gorra de colors. Eren objectes que estimaven molt, però van entendre que havia de ser així.  
+
+Una per una, van deixar els seus objectes a la font. En el moment que el tercer objecte va tocar l’aigua, l’arbre va començar a brillar, i un raig de llum va il·luminar la clariana. La veu va tornar a parlar:  
+—Heu demostrat generositat i coratge. Ara, escolteu el secret del bosc: la veritable màgia no es troba en els objectes, sinó en els vostres cors. L’amistat, la confiança i el respecte són els que fan que aquest bosc sigui un lloc especial.  
+
+Les tres amigues es van mirar i van somriure. Van entendre que el secret no era un tresor material, sinó alguna cosa molt més valuosa: la seva amistat.  
+
+—Gràcies —van dir les tres alhora, amb els ulls brillants d’emoció.  
+
+La veu va desaparèixer, i la clariana va tornar a la normalitat. Les tres amigues van recollir els seus objectes, però ja no els veien de la mateixa manera. Sabien que allò que realment importava era el seu vincle.  
+
+Van tornar a casa caminant, rient i parlant del que havien après. Des d’aquell dia, cada vegada que visitaven la Clariana dels Desitjos, recordaven la lliçó que el bosc els havia ensenyat: la màgia més gran es troba en el cor de les persones que estimem.  
+
+I així, la Llúdria Lluïsa, la Guineu Guioma i l’Ànec Adrià van continuar vivint aventures al bosc, sempre units pel poder de la seva amistat. I el secret del bosc va romandre amb elles per sempre.</body>

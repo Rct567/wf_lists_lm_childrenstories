@@ -1,0 +1,38 @@
+<prompt>
+Please write a simple and easy-to-follow Turkish children's story that is at least 1000 words long.
+It must be completely written in proper Turkish (TR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Ormanın En Korkusuz Cüce Kahramanı'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>tr</lang_id>
+
+<title>Ormanın En Korkusuz Cüce Kahramanı</title>
+<body>
+Güneşin altın ışıkları, yeşilin her tonuyla bezeli ormanın üzerine dökülüyordu.  Ormanın derinliklerinde, kocaman, eski bir meşe ağacının altında, minik bir cüce yaşıyordu. Adı  Küçük Yunus'tu.  Diğer cüceler gibi, Küçük Yunus da özenle kazdığı yuvasında,  güzel, parlak taşlardan ve  parlayan  kırık cam parçalarından oluşan  küçük bir hazine saklıyordu.  Ancak Küçük Yunus, diğer cücelerden farklıydı.  Diğer cüceler,  ormanın gölgeliklerinde saklanmayı,  gürültülü seslerden uzak durmayı severlerdi. Küçük Yunus ise,  ormanın cesur ruhuyla dolup taşıyordu.
+
+Ormanın kenarında,  kıvrımlı bir nehir kıyısında,  büyük bir tehlike gizleniyordu.  Korkunç bir canavar,  Gölge Kurt,  nehrin etrafındaki tüm hayvanları korkutuyor,  onların güzel seslerini susturuyordu.  Kuşlar,  uçarken ürperiyordu;  sincaplar,  ağaç dallarında titriyordu;  böcekler,  çimenlerin altında saklanıyorlardı.  Ormanın tüm canlıları,  Gölge Kurt'tan korkuyordu.
+
+Bir gün,  Küçük Yunus,  nehrin kıyısında,  Gölge Kurt'un karanlık gölgesinin altında  yürüyen  küçük bir tavşan gördü.  Tavşan,  korkudan  titremeye başlamıştı. Küçük Yunus,  tavşanın gözlerine baktı.  "Korkma!" diye fısıldadı. "Ben, Ormanın En Korkusuz Cüce Kahramanı'yım!"
+
+Küçük Yunus,  cesaret dolu adımlarla,  Gölge Kurt'un yanına doğru yürüdü.  Gölge Kurt,  büyük ve korkutucuydu;  gölgesi,  ormanın tüm güzelliklerini kaplayacak gibiydi.  Küçük Yunus,  yüreğinde korku olsa da,  cesaretini topladı.  "Neden tüm hayvanları korkutuyorsun?" diye sordu.
+
+Gölge Kurt,  sessizce  gülümsedi.  "Korkuyu seviyorum," dedi. "Korkuyu hissetmek,  beni güçlü kılıyor."
+
+Küçük Yunus,  başını salladı.  "Ama korku,  güzelliği öldürüyor.  Ormanın güzelliğini,  hayvanların neşesini,  her şeyin güzelliğini yok ediyor."
+
+Gölge Kurt,  bir an düşündü.  Küçük Yunus'un gözlerindeki  inanç ve cesaret,  onu şaşırtmıştı.  "Belki haklısın," dedi sonunda.  "Belki de korku yerine,  sevgi ve barışı aramalıyım."
+
+Gölge Kurt,  nehrin kıyısına doğru yavaşça geri çekildi.  Ormanın tüm canlıları,  Gölge Kurt'un hareketlerini izliyor,  küçük bir cücenin cesaretine hayran kalıyordu.  Gölge Kurt,  ormanın güzelliğine yeniden saygı duydu.
+
+Küçük Yunus,  Gölge Kurt'a  ormanın tüm canlılarının nasıl bir araya gelerek güzel şarkılar söylediklerini,  nasıl birlikte eğlendiklerini,  nasıl birlikte yaşadıklarını anlattı.  Gölge Kurt,  ormanın bu güzelliğine tanık olduktan sonra,  korkusunu  sevgiye dönüştürdü.
+
+O günden sonra,  Gölge Kurt,  ormanın diğer hayvanlarıyla barış içinde yaşadı.  Orman,  tekrar  güzel şarkılarla,  neşeli seslerle doldu.  Küçük Yunus ise,  ormanın en korkusuz cüce kahramanı olarak,  herkesin kalbinde özel bir yere sahip oldu.  Herkes,  Küçük Yunus'un cesaretine,  merhametine ve  sevgi dolu sözlerine hayran kalıyordu.  Ve Küçük Yunus,  ormanın güzelliğine her zaman  saygı duyan,  ormanın  her bir canlısını seven,  sevgili bir dost olarak kaldı.
+
+
+Ormanın derinliklerinde,  meşe ağacının altında,  Küçük Yunus,  yine  güzel taşlardan ve kırık cam parçalarından oluşan hazinesini koruyordu.  Ancak artık,  hazinesi sadece  parlak taşlardan ve cam parçalarından değil,  ormanın tüm canlılarının sevgisinden ve barışından oluşuyordu.  Ve her gece,  ormanın tüm canlıları,  Küçük Yunus'un cesaretini,  merhametini ve  sevgi dolu kalbini kutluyordu.
+</body>

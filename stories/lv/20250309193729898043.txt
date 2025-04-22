@@ -1,0 +1,39 @@
+<prompt>
+Please write a timeless Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Mazā Mežā Dīvainās Rādītāja Pasaka'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>lv</lang_id>
+
+<title>Mazā Mežā Dīvainās Rādītāja Pasaka</title>
+<body>Reiz sen senos laikos, mazā mežā, kur auga augsti koki un ziedēja dažādi ziedi, dzīvoja dīvainās rādītāja meita. Viņa bija maza, ar zaļām acīm un matiem, kas bija tikpat melni kā naktis. Meitai patika iet mežā un skatīties, kā dzīvo meža iedzīvotāji. Viņa bija ļoti laba drauge meža dzīvniekiem un tie viņu mīlēja.
+
+Mežā dzīvoja daudz dažādu dzīvnieku, no kuriem visbiežāk meitai patika runāt ar zaķiem. Zaķi bija ļoti draudzīgi un vienmēr gatavi palīdzēt. Meita bieži vien devās uz zaķu mājām, kur tie viņu gaidīja ar atvērtām durvīm. Zaķi viņai stāstīja par savu dzīvi mežā un meita viņiem stāstīja par savu dzīvi rādītāja mājās.
+
+Rādītājs bija ļoti gudrs cilvēks, kurš zināja daudz par zvaigznēm un planētām. Viņš bieži vien stāstīja meitai par savām atklājumiem un meita viņam klausījās ar lielu interesi. Meita bija ļoti talantīga meitene un viņai patika uzzināt jaunu lietu.
+
+Vienu dienu meita iegāja mežā un redzēja, ka kāds dzīvnieks ir iestrēgis starp diviem koku stumbriem. Meita aizskrējās palīdzēt dzīvniekam un atbrīvoja to no koku stumbriem. Dzīvnieks bija ļoti pateicīgs meitei un ieteica viņai doties uz savu māju, kur viņa varētu saņemt atalgojumu par savu palīdzību.
+
+Meita devās uz dzīvnieka mājām un, ieejot tur, redzēja, ka māja ir pilna ar dažādiem dāvanām. Dzīvnieks teica meitei, ka viņa var izvēlēties jebkuru dāvanu, ko viņa vēlas. Meita izvēlējās vienu no dāvanām un aizgāja no dzīvnieka mājām.
+
+Atgriežoties mājās, meita redzēja, ka rādītājs ir ļoti noskumis. Viņš teica meitei, ka viņam ir zudusi viena no savām vērtīgākajām lietām - teleskops. Meita bija ļoti noskumusi, jo viņa zināja, cik daudz rādītājam šī lieta bija svarīga.
+
+Meita nolēma doties mežā un meklēt teleskopu. Viņa devās uz zaķu mājām un lūdza tos palīdzēt. Zaķi vienmēr bija gatavi palīdzēt meitei un viņi devās meklēt teleskopu. Pēc ilga meklējuma viņi atrada teleskopu, kas bija zudis mežā.
+
+Meita bija ļoti priecīga, jo viņa bija atradusi teleskopu. Viņa atnesa to atpakaļ rādītājam un viņš bija ļoti pateicīgs meitei. Rādītājs teica meitei, ka viņa ir ļoti drosmīga meitene un ka viņai ir liela sirds.
+
+Meita bija ļoti lepna par sevi, jo viņa bija palīdzējusi rādītājam. Viņa zināja, ka viņa ir daļa no meža un ka meža dzīvnieki viņu mīlēja. Meita turpināja dzīvot mežā un palīdzēt meža dzīvniekiem, jo viņa zināja, ka viņa ir viena no viņiem.
+
+Laika gaitā meita kļuva visai slavēta mežā, jo viņa bija palīdzējusi daudziem dzīvniekiem. Meža dzīvnieki viņu saucās par "Meža Meiteni" un viņa bija ļoti lepna par šo nosaukumu. Meita zināja, ka viņa ir daļa no meža un ka meža dzīvnieki viņu mīlēja.
+
+Meita turpināja dzīvot mežā un palīdzēt meža dzīvniekiem, jo viņa zināja, ka viņa ir viena no viņiem. Viņa bija ļoti talantīga meitene un viņai patika uzzināt jaunu lietu. Meita kļuva visai slavēta mežā un viņa bija ļoti lepna par sevi.
+
+Meža dzīvnieki viņu mīlēja un viņa viņus arī mīlēja. Meita zināja, ka viņa ir daļa no meža un ka meža dzīvnieki viņu mīlēja. Viņa bija ļoti drosmīga meitene un viņai bija liela sirds. Meita turpināja dzīvot mežā un palīdzēt meža dzīvniekiem, jo viņa zināja, ka viņa ir viena no viņiem.
+
+Un tā meita dzīvoja mežā, palīdzēdama meža dzīvniekiem un uzzinot jaunu lietu. Viņa bija ļoti talantīga meitene un viņai patika būt mežā. Meita kļuva visai slavēta mežā un viņa bija ļoti lepna par sevi. Meža dzīvnieki viņu mīlēja un viņa viņus arī mīlēja. Meita bija ļoti drosmīga meitene un viņai bija liela sirds. Un tā meita dzīvoja mežā, palīdzēdama meža dzīvniekiem un būdama viena no viņiem.</body>

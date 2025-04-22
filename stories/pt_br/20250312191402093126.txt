@@ -1,0 +1,39 @@
+<prompt>
+Please write a silly Portuguese (Brazil) children's story that is at least 1000 words long.
+It must be completely written in proper Portuguese (Brazil) (PT_BR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'O Sonho Colorido do Coelho e a Princesa do País das Nuvens'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>pt_br</lang_id>
+
+<title>O Sonho Colorido do Coelho e a Princesa do País das Nuvens</title>
+<body>
+No reino encantado de Floresta Encantada, morava um coelho chamado Coelhinho, mas não era qualquer coelho. Coelhinho tinha um sonho colorido, cheio de matizes que faziam vibrar a sua pequena toca.  Ele sonhava com a Princesa Celeste, que residia no País das Nuvens, um lugar onde as nuvens eram de algodão-doce e o sol pintava o céu com cores de arco-íris.
+
+Coelhinho era um coelho diferente.  Seus pelos não eram brancos, nem pretos, nem cinzas. Eles eram uma mistura incrível de todas as cores possíveis: um toque de vermelho-rubi aqui, um verde-esmeralda ali, um azul-piscina em outra parte. E seus olhos, oh, seus olhos! Eram como dois botões de turquesa brilhantes, sempre brilhando de alegria.
+
+Um dia, enquanto Coelhinho roía uma cenoura na forma de uma estrela (sim, cenouras estrelas!), ele ouviu um zunzum misterioso vindo das alturas. Era a música das nuvens!  Coelhinho, fascinado,  pôs-se a correr pelas trilhas de samambaias, que pareciam escadas mágicas quando dançavam ao som. Ele sabia que tinha de encontrar a Princesa Celeste.
+
+O caminho até o País das Nuvens era repleto de aventuras. Coelhinho passou por uma floresta de árvores-fantasma que falavam em versos mágicos. Passou por um rio de chocolate quente que borbulhava e cantava canções em português antigo. Enfrentou um gigante de marshmallow que bocejava bolas de algodão-doce.  Coelhinho tinha que se desviar dos pingos de água-de-coco que se transformavam em macacos dançarinos, que tentavam roubar seus rabanetes.
+
+Ele até se deparou com um bando de pássaros-borboleta que cantavam canções em língua de abelhas! Coelhinho, com sua incrível capacidade de entender o idioma das flores e o gorjeio das aves noturnas, conseguia decifrar os enigmas, e suas frases, que soavam mais como risadas, faziam as criaturas rir e ajudavam-no a desvendar o caminho.
+
+No fim, cansado, mas animado, Coelhinho chegou a um penhasco colossal.  Na ponta do penhasco, um arco-íris pairava no ar, uma ponte dourada para o País das Nuvens. Ao chegar, a vista encantadora de Coelhinho levou-o à reverência. Nuvens, coloridas e fofinhas como marshmallows, pairavam no ar e cintilavam no sol poente, salpicadas de doces esvoaçantes. Era mais belo do que o sonho mais colorido.
+
+A Princesa Celeste, tão linda quanto uma nuvem de algodão-doce, sorria com olhos brilhantes. Ela tinha cabelos rosa-alaranjado, que brilhavam mais que o ouro, e seus vestidos pareciam feitos de luz de aurora boreal. Coelhinho,  um pouco nervoso mas cheio de alegria, apresentou-se:
+
+"Sua Alteza, sou o Coelhinho da Floresta Encantada, que veio de tão longe para encontrar a princesa Celeste."
+
+A Princesa Celeste riu, uma risada que ecoava como sinos de vento. "Coelhinho! Você tem um coração colorido e coragem que percorre o céu!".
+
+Eles passaram a tarde a conversar. Coelhinho, sem medo, falou de sua Floresta Encantada, com seus rabanetes saborosos, suas árvores falantes, e seus mistérios. A Princesa Celeste falou das nuvens e dos sonhos e de suas conversas noturnas com a Lua.
+
+Coelhinho e a Princesa Celeste compartilharam histórias, risos e sorrisos, e ambos percebem que seus mundos, tão diferentes, tinham pontos em comum – as cores vibrantes de seus sonhos.
+
+De repente, as estrelas começaram a aparecer no céu, e Coelhinho teve a ideia de que seria a hora de voltar para casa, para Floresta Encantada.  Com um aceno da Princesa Celeste, que o colocou de novo em seu curso inicial, o arco-íris levou-o de volta.  Enquanto o Coelho corria de volta a sua pequena toca, seus olhos viam a Floresta Encantada a tomar cores novas no pôr-do-sol, cada árvore como uma pincelada vibrante e mágica. Coelhinho voltou para sua casa, para sua pequena toca, ainda mais feliz por ter conhecido a Princesa Celeste. E seu sonho colorido ficou mais vívido ainda.
+</body>

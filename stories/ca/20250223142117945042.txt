@@ -1,0 +1,41 @@
+<prompt>
+Please write a simple and easy-to-follow Catalan children's story that is at least 1000 words long.
+It must be completely written in proper Catalan (CA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La banda de superherois anònims'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>ca</lang_id>
+
+<title>La banda de superherois anònims</title>
+<body>
+A la ciutat de Solitària, plena de carrers estrets i cases de colors vius, vivia una banda d'herois força especial. Eren els superherois anònims, una colla de joves amb superpoders sorprenents, però amb un secret ben guardat: no volien ser famosos.
+
+El líder era la Margarida, una noia amb la capacitat de controlar el temps.  Podria accelerar-lo, alentir-lo, fins i tot revertir-lo una mica!  Era molt precisa i sempre pensava les coses amb molta cura.  En Joan, amb la seva habilitat per volar, era l'espia ideal de la banda.  Els seus moviments eren tan suaus com el vent que li permetia planar pels cels.  En Martí, el superfort, podia aixecar cotxes amb una sola mà i era l'expert en resoldre situacions complexes.  I, per últim, hi havia la Clara, la més enginyosa, amb la capacitat de crear objectes increïbles amb el seu pensament.  Els seus inventes eren sempre sorprenents.
+
+Un dia, a Solitària, van sentir plorar. No eren els plors d'un nen, eren els plors d'un arbre molt antic, un roure gegant que estava al parc central de la ciutat, i que feia molts anys que hi era.
+
+Els seus fulles, abans verdes i brillants, ara estaven grogues i marrons, i les seves branques, abans fortes i robustes, ara es veien febles i trencades.  Semblava que s'estava morint.
+
+La Margarida, amb un sospir, va mirar l'arbre. "No podem deixar que mori", va dir, la seva veu plena de determinació. "Hem de descobrir què li passa."
+
+En Joan va volar fins al punt més alt de la ciutat, observant tota la zona.  En Martí, amb la seva força, va investigar al voltant de l'arbre, mirant a sota i a dalt les seves branques.  La Clara, amb un somriure, va començar a crear un dispositiu per analitzar la terra.
+
+Van descobrir que al voltant de l'arrel de l'arbre s'havien acumulat moltes deixalles.  Aquestes deixalles, no només embrutjaven la zona, sinó que impedia que l'arbre respirés.  L'arbre estava patint una greu contaminació.
+
+La Margarida, pensant ràpid, va accelerar el temps, ajudant a l'equip a treballar amb més eficiència. En Joan, amb l'habilitat del seu vol, va dirigir els treballs de neteja. En Martí, amb la seva força, va traslladar les deixalles molt lluny de l'arbre, a un abocador específic. La Clara, sense parar de treballar, va crear uns tubs especials per a que l'arbre rebés aigua i nutrients directament.
+
+Durant hores, els superherois anònims van treballar amb passió i dedicació, com si fossin un sol equip, un sol cor que batia per protegir el roure.  No importava si el treball era dur. No es rendien.
+
+Finalment, quan el sol començava a posar-se, van veure que les fulles de l'arbre, abans grogues i marrons, començaven a recuperar el seu color verd brillant. Les branques també es van tornar més fortes.  L'arbre estava recuperant la seva salut!
+
+L'arbre va començar a emetre un so profund i harmònic.  Era com si li agraïssin el seu esforç.
+
+Els superherois anònims van estar orgullosos del seu treball.  No volien la fama, però sabien que havien fet alguna cosa bona.  Van tornar als seus llocs, sense una paraula dita més.  Eren una banda d'herois silenciosos, una banda d'herois anònims, els superherois que Solitària necessitava.
+
+El roure, amb les seves fulles verdes, va esdevenir un símbol de la unió i l'esforç de Solitària. I cada nit, sota el cel ple d'estrelles, els superherois anònims continuaven vigilant, assegurant que la ciutat estigués sempre segura, sense necessitat de ser vistos.  El seu secret era el seu poder, la seva discreció era la seva recompensa, i la seva amistat era la seva força.
+</body>

@@ -1,0 +1,56 @@
+<prompt>
+Please write a educational Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Qo‘yichqda yashayotgan qudratli sherning hikoyasi'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>uz</lang_id>
+
+<title>Qo‘yichqda yashayotgan qudratli sherning hikoyasi</title><body>
+Bir zamonlar, olis-olis tog‘lar orasida, odamlar panjasidan yiroqda, o‘zining ajoyib manzaralari bilan mashhur bo‘lgan Qo‘yichqa deb nomlangan bir go‘zal joy bor edi. Qo‘yichqa so‘zining ma’nosi “qoyalar orasidagi chashma” degani edi va bu nomga juda mos kelardi. Bu joyda yuksak qoyalar osmonga intilib, ulardan tiniq suvlar sharillab oqib tushardi, atrofda esa yashil o‘tloqlar gullab-yashnar, turli-tuman hayvonot dunyosi erkin yashardi.
+
+Qo‘yichqaning eng qudratli va donishmand hukmdori — Mahmud ismli sher edi. Mahmud o‘zining baland bo‘yi, jangovar ko‘zlari va qo‘ng‘ir yelkasiga to‘kilgan qalin jungi bilan barchaning e’tiborini tortardi. Lekin u faqat tashqi ko‘rinishi bilan emas, balki o‘zining dono qarorlari, adolatli hukmi va Qo‘yichqa aholisiga bo‘lgan cheksiz g‘amxo‘rligi bilan ham shuhrat qozongandi.
+
+Mahmud har kuni ertalab erta uyg‘onardi. U qoyalarning eng baland cho‘qqisiga chiqib, quyoshning ilk nurlarini qarshilardi. Ushbu paytda u butun Qo‘yichqani kuzatar, uning har bir burchagini ko‘zdan kechirardi. Agar biron joyda muammo sezilsa, darhol unga yordamga borardi.
+
+Bir kuni Mahmud o‘zining odatdagi kuzatuvini olib borayotganda, tog‘ning etagida, go‘zal chorbog‘ ichida, kichkina bir quyonchaning yolg‘iz qolganini ko‘rdi. Quyoncha juda kichkina, qo‘rqinchli va xunuk edi. Uning ko‘zlari katta-katta ochilgan, quloqlari esa yurak urishlaridan titrab turardi. Mahmud uning yoniga tushdi va ovoz chiqarib so‘radi: "Hey, kichkina quyoncha, sen bu yerda nima qilib yuribsan? Nega bunchalik xavotirdasan?"
+
+Kichkina quyoncha qo‘rquvdan qaltirab javob berdi: "Men... men yo‘qolib qoldim. Onam va dadam meni o‘rmonga o‘yin uchun olib chiqqandi, lekin men adashib qoldim. Endi ular qayerda ekanini bilmayman."
+
+Mahmud quyonchaga rahmi keldi. U jiddiy tus oldi va dedi: "Xavotir olma, kichkina do‘stim. Men senga yordam beraman. Mening ismim Mahmud, men bu joyning sheri. Biz onang va dadangni topamiz."
+
+Mahmud quyonchani o‘zining orqasiga mindirdi va tog‘ orqali sayohatga otlandi. Uning kuchli hid bilish qobiliyati bor edi va u quyonlarning hidini sezishga harakat qildi. Ular yo‘lda turli-tuman hayvonlarga duch kelishdi. Birinchi bo‘lib, ular tulkiga yo‘liqishdi. Tulkining qanday yashirin rejalar borligini Mahmud bilardi, shuning uchun unga ishonmadi.
+
+"Salom, tulki", dedi Mahmud. "Sen bu tomonda quyonlarni ko‘rdingmi?"
+
+Tulkining yuzi g‘ayritabiiy tarzda nurlandi va u jilmaydi. "Yo‘q, men quyonlarni ko‘rmadim. Nega qidiryapsiz?"
+
+Mahmudning ovozi qat’iy edi: "Men bir kichkina quyonchani ota-onasi bilan topishga yordam beryapman."
+
+Tulkining ko‘zlari birozgina toraydi, lekin u o‘zini tutdi va javob berdi: "Unday bo‘lsa, men sizga omad tilayman!"
+
+Mahmud va kichkina quyoncha yo‘llarini davom ettirishdi. Ular daraxtzorlardan o‘tib, o‘tib ketayotganda turli-tuman qushlarning sayrashini eshitishardi. Keyin ular daryoga duch kelishdi. Daryoning narigi tomoniga o‘tish qiyin edi, lekin Mahmudga bu muammo emas edi. U darhol o‘zining jangovar ruhini namoyon qildi va daryoni sakrab o‘tib ketdi.
+
+Keyin ular katta bir o‘rmonga yetib kelishdi. O‘rmon juda qorong‘i va sirli edi. Bu yerda turli xil xavfli hayvonlar yashashi mumkin edi. Mahmud quyonchani qo‘rquvga tushmaslikka ishontirdi va o‘zining doimiy hushyorligini saqlab, oldinga yurdi.
+
+Ular o‘rmonda yurishganda, qora tusli ayiqning ovozini eshitishdi. Ayiqning ovozi juda baland va qo‘rqinchli edi. Mahmud darhol to‘xtadi va quyonchani orqasiga yashirdi. U ayiqqa dedi: "Ey, ayiq! Bu yerda nima qilib yuribsan? Bizga muammo tug‘dirmoqchimisan?"
+
+Ayiqning ovozi yumshoqlashdi. "Yo‘q, men muammo tug‘dirmoqchi emasman. Men yolg‘izman va juda qiynalmoqdaman. Sizning kuchli ovozingizni eshitib, sizdan yordam so‘ramoqchi edim."
+
+Mahmud ayiqqa rahmi keldi. U unga nima bo‘lganini so‘radi. Ayiq unga uzoq yo‘l yurganini va oyog‘ini jarohatlab olganini aytdi. Mahmud darhol yordamga qo‘l cho‘zdi. Uning zo‘r tishlari va tirnoqlari ayiqning yaralarini davolashga yordam berdi. Ayiq Mahmudga minnatdorchilik bildirdi va ular yana yo‘llariga ravon bo‘lishdi.
+
+Ular o‘rmon ichida yana uzoq yurishdi. Nihoyat, ular quyonlarning hidini his qilishdi. Mahmud xursand bo‘ldi. Ular quyonlar oilasining panjiga yetib kelishdi. Ular xursandchilikdan hayqirishdi.
+
+Kichkina quyoncha ota-onasini quchdi. Ularning ko‘zlaridan quvonch yoshlari oqdi. Ular Mahmudga katta rahmat aytishdi. Mahmud ularga hech qachon unutilmaydigan katta yordam bergan edi.
+
+Mahmud quyonchani xavfsiz joyga yetkazganidan mamnun edi. U yana Qo‘yichqaga qaytib keldi. U Qo‘yichqaning barcha aholisi uning qanday donishmand, adolatli va mehr-muruvvatli hukmdor ekanini yaxshi bilishdi. Mahmud butun hayoti davomida Qo‘yichqaning tinchligi va farovonligi uchun kurashdi.
+
+U shuningdek, ta’limga ham katta ahamiyat berardi. U yosh hayvonlarga dunyoni o‘rganishga yordam berdi. U o‘z bilimlarini ular bilan baham ko‘rdi. Mahmud yosh quyonchaga hayot darsini berdi: "Hech qachon hech kimni pastga urmagin, chunki har kim o‘zining ichida qobiliyatga ega. Agar sening ichingda ozgina qo‘rquv bo‘lsa, undan qutulish uchun ko‘proq harakat qil", dedi.
+
+Yillar o‘tdi. Mahmud qaridi, lekin uning qudrati va donoligi kamaymadi. Qo‘yichqa gullab-yashnashda davom etdi, chunki unda adolatli va g‘amxo‘r bir hukmdor yashardi. Va Qo‘yichqadagi har bir hayvon Mahmudning yaxshiligini yodda tutdi. Bu hikoya ularning yuragida abadiy saqlanib qoldi. Hatto Mahmud o‘lganidan keyin ham, uning nomi Qo‘yichqada afsona bo‘lib qoldi.
+</body>

@@ -1,0 +1,69 @@
+<prompt>
+Please write a educational Italian children's story that is at least 1000 words long.
+It must be completely written in proper Italian (IT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La mucca Margherita e il suo latte speciale che faceva volare.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>it</lang_id>
+
+```xml
+<title>La mucca Margherita e il suo latte speciale che faceva volare.</title>
+<body>
+C'era una volta, in una valle verde e lussureggiante ai piedi delle Alpi, una mucca di nome Margherita. Margherita non era una mucca qualunque. Era una mucca con un segreto, un segreto delizioso e straordinario: il suo latte speciale faceva volare!
+
+Ogni mattina, il sole baciava le vette innevate e illuminava la fattoria dei Signori Rossi, dove viveva Margherita insieme a tanti altri animali. Margherita, con le sue macchie bianche e nere e i suoi grandi occhi marroni, si svegliava sempre per prima, pronta per una nuova giornata piena di avventure.
+
+Il suo pascolo preferito era un prato fiorito di margherite gialle e bianche, un omaggio al suo nome. Mentre le altre mucche brucavano l'erba, tranquille e silenziose, Margherita, piena di energia, saltellava qua e là, le orecchie dritte e lo sguardo vivace.
+
+Un giorno, il piccolo Giovanni, il figlio dei Signori Rossi, stava giocando nel prato. Era un bambino curioso e pieno di immaginazione, con capelli color del sole e occhi scintillanti. Giovanni amava tutti gli animali della fattoria, ma Margherita era la sua preferita. Le portava sempre delle carote fresche e le sussurrava segreti all'orecchio.
+
+Quel giorno, Giovanni era particolarmente pensieroso. Aveva letto un libro sui viaggi spaziali e sognava di volare tra le stelle. Mentre camminava, con il naso all'insù, guardando gli uccelli che disegnavano cerchi nel cielo, vide Margherita.
+
+"Ciao, Margherita!" gridò Giovanni, correndo verso di lei.
+
+Margherita muggì, felice di vederlo. "Muuu!"
+
+Giovanni, con un'idea improvvisa, disse: "Margherita, vorrei tanto volare come gli uccelli!"
+
+Margherita lo guardò con i suoi occhi saggi e, con un muggito quasi impercettibile, sembrò annuire. Giovanni, non capendo bene, si sedette vicino a lei.
+
+"Sai, Margherita," disse Giovanni, "oggi ho voglia di provare il tuo latte. È così buono!"
+
+Ogni mattina, i Signori Rossi mungevano Margherita e preparavano latte fresco per la colazione. Giovanni amava il latte di Margherita, aveva un sapore speciale, un po' dolce e un po' cremoso.
+
+Quella mattina, invece, decise di assaggiarlo in modo diverso. Chiese a sua mamma un bicchiere pieno, si sedette sull'erba e guardò Margherita, poi inspirò profondamente e bevve il latte tutto d'un fiato.
+
+All'inizio non successe niente, ma poi... sentì una strana sensazione. Il suo corpo divenne leggero, come una piuma. Sentì le braccia aprirsi e, incredibile a dirsi, iniziò a fluttuare!
+
+"Mamma mia!" esclamò Giovanni, guardando i suoi piedi che si staccavano da terra. Si alzò in volo! Fluttuava proprio come un uccello, proprio come nei suoi sogni!
+
+Margherita, con un piccolo muggito felice, guardava Giovanni che volava sempre più in alto.
+
+Giovanni, emozionatissimo, gridava: "Grazie, Margherita! Grazie per il tuo latte magico!"
+
+Iniziò a girare intorno alla fattoria, sorvolando i campi, salutando le galline e i maiali. Vedeva dall'alto i Signori Rossi che si affaccendavano nei lavori della fattoria, e rideva, divertito.
+
+Ma non solo. Volando, Giovanni si accorse che anche il mondo visto dall'alto era una lezione. Poteva vedere il fiume serpeggiare tra i campi, come un nastro d'argento, i boschi fitti e scuri, le case del paese che sembravano giocattoli. Capì che la natura vista dall'alto era ancora più affascinante, una lezione di geografia che nessun libro avrebbe mai potuto dargli.
+
+Dopo un po', stanco ma felice, Giovanni atterrò delicatamente accanto a Margherita. "È stato fantastico!" disse, con gli occhi che brillavano.
+
+Da quel giorno, il segreto del latte speciale di Margherita divenne una leggenda in tutta la valle. Tutti i bambini volevano assaggiarlo e volare! Ma Margherita era una mucca molto saggia e aveva deciso di dare il suo latte magico solo a chi lo meritava veramente, a chi amava la natura, a chi rispettava gli animali, a chi aveva il cuore puro e la mente aperta.
+
+Giovanni diventò l'amico più caro di Margherita. Ogni giorno andava a trovarla, la nutriva con le carote più succose e le raccontava le sue avventure. Ogni tanto, quando era necessario e aveva bisogno di vedere il mondo da una prospettiva diversa, Margherita gli dava un bicchiere del suo latte speciale, e lui, felice e leggero, volava sopra le montagne e le valli.
+
+Un giorno, i Signori Rossi chiesero a Margherita: "Margherita, perché solo Giovanni può volare con il tuo latte?"
+
+Margherita rispose, muggendo dolcemente: "Perché Giovanni ha un cuore gentile, e guarda il mondo con curiosità e amore. Il mio latte magico non serve solo a volare, ma a vedere il mondo con occhi diversi, a imparare, a rispettare e a amare tutto ciò che ci circonda."
+
+Da quel giorno, anche i Signori Rossi iniziarono a guardare il mondo con gli occhi di Giovanni, con occhi nuovi e pieni di stupore. Iniziarono a prendersi cura della fattoria con ancora più amore, piantando fiori colorati e proteggendo gli alberi secolari.
+
+La leggenda di Margherita, la mucca che faceva volare, continuò a vivere per sempre, un ricordo indelebile nel cuore dei bambini e degli adulti della valle. E ogni volta che un bambino guardava il cielo e sognava di volare, sapeva che forse, da qualche parte, c'era una mucca speciale, con un latte magico, che aspettava di condividere il suo segreto con un cuore puro e una mente aperta.
+
+E così, la mucca Margherita, con il suo latte speciale che faceva volare, divenne un simbolo di speranza, di immaginazione e della magia che si nasconde nel mondo, a volte sotto forma di una mucca e del suo latte delizioso. E tutti, guardando verso l'alto, continuavano a sognare di volare, di esplorare e di amare la vita in tutta la sua meraviglia. E la valle continuò a prosperare, protetta dall'amore e dalla magia del latte speciale di Margherita.
+</body>
+```

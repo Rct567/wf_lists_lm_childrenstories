@@ -1,0 +1,50 @@
+<prompt>
+Please write a dialog-based Amharic children's story that is at least 1000 words long.
+It must be completely written in proper Amharic (AM).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'የልዩ ዛፍ እና የአደጋ ደጃፍ ጉዞ'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>am</lang_id>
+
+<title>የልዩ ዛፍ እና የአደጋ ደጃፍ ጉዞ</title>
+<body>
+አብራራ በአንድ ተራራ ላይ የሚገኝ አንድ ልዩ ዛፍ ነበረ። ዛፉ በምድረ በዳ የሚኖረውን ሕዝብ በማደስ እና በማስተማር ያለመው ልብ የሚኖረው ነበረ።
+
+እንደዚህ አንድ ቀን አብራራ ለእንቅስቃሴ ወጥቶ ነበረ። በዚያ ጊዜ አንድ ወጣት ሴት እንደዚህ ሄደች። ሴትየዋ ስም ኤልሳ ነበረ። ኤልሳ እንደዚህ ሄደች በአብራራን ላይ ስትኖር ነበረ።
+
+ኤልሳ፡ አብራራ ሆይ! አንተ ምን ትሰራለህ?
+
+አብራራ፡ ኤልሳ ሆይ! እኔ ለእንቅስቃሴ ወጣሁ።
+
+ኤልሳ፡ እንቅስቃሴ ለምን ትሰራለህ?
+
+አብራራ፡ እኔ ለእንቅስቃሴ ወጣሁ ምክንያቴ እንደ ሰው ልብ እንደ ሚኖረው ለማደስ እና ለማስተማር እንጂ ሌላ ምክንያቴ የለኝም።
+
+ኤልሳ፡ አንተ እንደ ሰው ልብ ምን ትሰራለህ?
+
+አብራራ፡ እኔ እንደ ሰው ልብ ምን እሰራለሁ ብሎ እንደዚህ አስተማረሁ። አንተ ለምን ትሰራለህ?
+
+ኤልሳ፡ እኔ ለምን ትሰራለህ ብሎ አስተማረሁ እኔም እንደ ሰው ልብ ምን እሰራለሁ ብሎ እንደዚህ አስተማረሁ።
+
+ኤልሳ እና አብራራ እንደዚህ ሄዱ። በዚያ ጊዜ አንድ ወጣት ወንድ እንደዚህ ሄደ። ወንድየው ስም አማረ ነበረ።
+
+አማረ፡ ኤልሳ ሆይ! አብራራ ሆይ! ምን ትሰራላችሁ?
+
+ኤልሳ፡ አማረ ሆይ! እኔ እና አብራራ ለእንቅስቃሴ ወጣሁን።
+
+አማረ፡ እኔም ለእንቅስቃሴ ወጣሁ። ወዴት ትሄዳላችሁ?
+
+ኤልሳ፡ እኛ ወደ አደጋ ደጃፍ ጉዞ ትሄዳለን።
+
+አማረ፡ እኔም ወደ አደጋ ደጃፍ ጉዞ ትሄዳለኹ።
+
+ኤልሳ፡ አማረ ሆይ! አደጋ ደጃፍ ጉዞ ምን አይነት ነው?
+
+አማረ፡ አደጋ ደጃፍ ጉዞ አንድ አደጋ የሚገኝበት እና አንድ ልዩ ደጃፍ የሚገኝበት ጉዞ ነው።
+
+ኤልሳ፡ �

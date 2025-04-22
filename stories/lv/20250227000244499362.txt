@@ -1,0 +1,43 @@
+<prompt>
+Please write a simple and easy-to-follow Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Cilvēki un to mīļākie dzīvnieki'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lv</lang_id>
+
+<title>Cilvēki un to mīļākie dzīvnieki</title>
+<body>
+Reiz senā laikā, skaistā zaļajā Latvijas zemē, dzīvoja jauka ģimene – mamma, tētis un divi bērni, Jānis un Maija. Viņi mīlēja savu mājvietu un apkārtni, īpaši mežu, kur audzis tik daudz dažādu koku un dzīvnieku.
+
+Jānis un Maija bija ļoti laipni un draudzīgi bērni, kuriem ļoti patika rūpēties par dzīvniekiem.  Katru dienu viņi staigāja pa mežu, meklējot putnus, zaķus un vāveres. Viņi ar mīlestību vēroja tos, uzmanīgi klausoties to dziesmās un skaņās.  Vienā saulainā dienas pusē, spēlējoties meža malā, viņi pamanīja mazu, trīcošu kazlēnu, kas bija apmaldījies un izšķēries no mātes ganāmpulka.
+
+
+Mazais kazlēns bija bailīgs un klusējot vēroja Jāni un Maiju.  Jānis un Maija neslēpa savu mīlestību pret dzīvniekiem, uzreiz izlēma palīdzēt apmaldītajam kazlēnam. Maija uzmanīgi pietuvojās kazlēnam, un tas, iespējams, sajūtot labvēlību, nebaidījās un klusībā uzņēma rokā tikko radušos draugus. Jānis paņēma mājās izcepti maizes gabaliņus, tos vēršot uz laupījumu.
+
+
+Ar maizītes gabaliņiem kazlēns kļuva mierīgāks un mazliet jautrāks. Tad Jānis ieteica iet pie vecās ozola, kura patvērums visos laikos bija daudzu dzīvnieku atbalsts. Tur viņa redzēja savu ģimeni, kazu māti un ganāmpulku, kuri gaidīja viņu.
+
+
+Kazlēns ieskauj ar prieku no jaunajiem draugiem, tieši tā kā norādīts pirms laika.  Kazlēns, pievilcīgi skaidrojot viņa sajūtu no jaunajiem draugiem, uzpildīja atvainošanos par notikušajiem notikumiem. Jānis un Maija kopā ar savu meklēto draugu gāja uz ozola koku un satikušas savus ģimenes locekļus. Kā jau gaidīts, ģimene viņu ietvērās siltā mīlestībā un draudzības lokam, nodrošinot nepieciešamo drošību. Kazlēns jutušies mierīgi un mīlēti no vecākās draudzenes.
+
+
+Maija atstāja ziedu vainagu netālu no kazlēna mātes, lai parādītu savu pateicību. Jānis un Maija ar dziļu sirdi paņēma līdzi savu jaunizveidoto draugu, aizvedot mājās līdz savas ģimenes locekļiem. Kazlēns sajūtot silto rūpību un piedošanu, izteica pateicību, ko Jānis un Maija bija apņēmušies izdarīt, palīdzēt mazā, trīcošajā kazlēnam. Jānis un Maija bija apmierināti, palīdzot apmaldītajam kazlēnam atrast ceļu mājup.
+
+
+No šī brīža kazlēns bija vairs ne apmaldījies kazlēns, bet Jāņa un Maijas mīļais draugs. Jānis un Maija katru dienu turpināja meklēt dzīvniekus un rūpēties par tiem, lai ikviens meža iemītnieks jūtas droši un mierīgi. Viņi rūpējas par mazākajiem un vājākajiem, zinot, ka mīlestība un palīdzība atgriežas nesalīdzināmas sajūtas un pieredzes veidā.
+
+
+Turpmākajos gados Jānis un Maija uzcēla dzīvnieku patvērumu.  Tur viņi kopā ar citiem bērniem izstrādāja īpašu mācību par dzīvnieku aizsardzību un laipnību.  Viņi mācīja citu bērniem, kā rūpēties par dabas dzīvniekiem, aizstāvot viņu vajadzības. Ar laiku par šiem bērniem uzzināja visi tuvējie ciemiņi un ģimenes locekļi. Daudzi no šīm ģimenēm paši sāka palīdzēt Jānim un Maijai, atstājot dažādu labvēlīgu sadarbību un pieredzi.  Viņi strādāja kopā, daloties līdzekļos, lai pabeigtu darbus uzcēla uz zemes izcili patvērumus dzīvniekiem, kas apdzīvoja mežus.  Tieši ar šo nodomu visas ģimenes darbojās, veidojot un atjaunojot nepieciešamo aprīkojumu un ērtumus.  Patiešām visas spēka darbības, ko visi kopā paveica, deva ievērojamu atdevi gan Jāņa, gan Maijas sirdspriekiem, kas viņus pavadīja visas dzīves.
+
+
+Tāpat viņi katru gadu rīkoja dzīvnieku aizsardzības pasākumus, iesaistot gan citus bērnus, gan pieaugušos, iemācot visiem apbrīnot dabas spēku un to mīļākā draugu varenības brīnumus. Mežā Jāņa un Maijas labvēlības un rūpes sasniedza neviena citu iemītnieku dvēseli, kas katram izrādīja savas godbijības pazīmes, kas iznāca no patiesības un dziļas godbijības pret apkārtējās vides skaistumu.
+
+
+Un tā, Jānis un Maija ar saviem mīļajiem dzīvniekiem kļuva par paraugu visai Latvijas zemei. Viņu stāsts kļuva par leģendu, kas turpinājās un pārraidīja nākotnē, ikviens vēlme aizstāvēt dzīvnieku un viņu rūpes.
+</body>

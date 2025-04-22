@@ -1,0 +1,43 @@
+<prompt>
+Please write a simple and easy-to-follow Swedish children's story that is at least 1000 words long.
+It must be completely written in proper Swedish (SV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Den little prinsessan och hennes vänner'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sv</lang_id>
+
+<title>Den lille prinsessan och hennes vänner</title>
+<body>
+Prinsessa Aurora var liten, men hon var inte liten på det sätt man kunde tro. Hon var liten i längd, men stor i hjärtat, fyllt med oändlig fantasi och en passion för äventyr. Hennes rum, i det vackra slottet, var ett hav av mjuka filtar, varma ljus och fantastiska böcker, men det var alltid lite tråkigt utan vänner.
+
+Alla prinsessor hon mötte var så upptagna med att dansa på soffor och att ha festligheter att de aldrig hade tid för riktig lek.  Aurora ville ha verkliga vänner, inte bara tillfälliga danspartners. Hon längtade efter att utforska skogarna bakom slottet, att upptäcka gömda grottor och att dela historier med dem som älskade äventyr lika mycket som hon.
+
+En dag, medan prinsessan satt vid fönstret och tittade ut på den vackra, gröna världen utanför slottet, såg hon något speciellt. Det var en liten flicka, med ett blont hår som sträckte sig ner till hennes midja, klädd i en elegant, blå kostym, med en liten väska i handen. Flickan grät, och hennes tårar hängde som små diamanter på kinderna.
+
+"Varför gråter du?", frågade Aurora mjukt och gick fram till flickan.
+
+Flickan tittade upp med rädda ögon. "Jag är lost," sa hon med en mjuk röst som lät som en liten fågelkvitter. "Jag är Elsa och jag söker min mormor, som bor djupt inne i skogen."
+
+Auroras hjärta svämmade över av medlidande.  "Orädd Elsa," sa hon, "Jag kan hjälpa dig! Låt oss leta tillsammans."  Och så började deras äventyr.
+
+De gick in i skogens tätaste delar. Solens strålar dansade mellan trädkronorna, och fåglar sjöng med ljusa stämmor.  Höga träd med gnarriga stammar sågs överallt, deras grenar drog långa, gröna skuggor på stigen framför dem. Aurora, med sin vackra lilla blomma i håret, och Elsa med sin vackra, blå kostym, gick med fasta steg och lustiga samtal.
+
+De stötte på en snäll älv med ett hjärta av guld. Hon erbjöd dem smakliga bär och vägledning genom skogens knepigaste partier.  De träffade en modig räv som kunde kommunicera med olika djurs språk,  en liten, mysig björn, som alltid hade ett glatt ord, och ett vackert älghorn, som förde dem på rätt kurs.
+
+Varje varelse på deras resa erbjöd dem stöd och visdom. En lustig liten flugsnappare viskade berättelser om skogens historia, en snäll näktergal sjöng lugnande visor, och en enorm, snäll orm skyddade dem mot farliga vilda djur.  Aurora upptäckte hur mycket kärlek som finns i skogarna.
+
+Efter många spännande timmar fann de Älsas mormor. Hon var en vänlig gammal dam med en lugn blick, och hon omfamnade Elsa med ett djupt tacksamt hjärta.  De firade deras möte med vackra blommor, som prydde Älsas huvud som en krona.  Aurora var lika lycklig som hon någonsin hade varit.  För första gången kände hon att hon hade äkta vänner, inte bara i hennes rikedomar utan i fantastiska utmaningar och oförutsägbara platser.
+
+De vänner som Prinsessa Aurora skapade, blev till en stark länk. Elsa, med sitt vackra hår och sin stora nyfikenhet, fick en varm plats i Auroras hjärta.  Deras nya vänskap sträckte sig över årtusenden, genom alla typer av fantastiska eventyr, varvid de ofta stöttade varandra genom livet, alltid redo för att stödja varandras drömmar, ge utmärkta råd, dela glädje och uppmärksamma varandras behov.
+
+Aurora hade lärt sig värdet av vänskap, äventyr och att inte bara se världen runt sig, men att se alla dess varelser med kärlek och omsorg.  Hon hade också förstått att den allra största prinsessan är den som lärt sig hur man ser och ser till varje väsens behov.
+
+År gick, och Aurora och hennes vänner fortsatte sina upptäcktsresor, upprätthöll sin vänliga natur och spred glädje därhelst de gick.  De kände sig som en stark familj, förankrade i skogarnas varma omfamning.  Deras hjärta delade på all kärlek.
+
+Och så levde de lyckliga ända tills de dog, varje ögonblick fyllt med vänlighet och kärlek.
+</body>

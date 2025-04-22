@@ -1,0 +1,31 @@
+<prompt>
+Please write a dialog-based Kongo children's story that is at least 1000 words long.
+It must be completely written in proper Kongo (KG).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>kg</lang_id>
+
+<title>Nzambe Na Nkisi: Mvuala Ya Mwana</title>
+<body>
+Nzambe na nkisi, mvuala ya mwana, yandi akendeleka na ngolo. Mvuala yandi alingi kuna se, "Tata, ngeye ndioleka, ngeye kwenda kuna nzila ya mvula." Tata yandi alingi, "Mwana, ngeye kwenda, kasi uzinga nzila ya mvula, uzinga kuna se, kuna mvuala mingi, kuna mafua makasi."
+
+Mvuala yandi akendeleka, na ngolo yandi, na kati ya nzila, yandi akabwana na nkisi. Nkisi yandi alingi, "Mvuala, ngeye kwenda, ngeye kwenda kuna nzila ya mvula, ngeye kufua." Mvuala yandi alingi, "Nkisi, ngeye kwenda, kasi tata yandi alingi, kuna mvuala mingi, kuna mafua makasi." Nkisi yandi alingi, "Mvuala, ngeye kwenda, ngeye kufua, kasi nzambe yandi, yandi akufua."
+
+Mvuala yandi na nkisi yandi, bakendeleka, na ngolo, na kati ya nzila, yandi akabwana na mvula. Mvula yandi alingi, "Mvuala, nkisi, ngeye kwenda, ngeye kufua, kasi nzambe yandi, yandi akufua." Mvuala yandi na nkisi yandi, balingi, "Mvula, ngeye kwenda, kasi tata yandi alingi, kuna mvuala mingi, kuna mafua makasi." Mvula yandi alingi, "Mvuala, nkisi, ngeye kwenda, ngeye kufua, kasi nzambe yandi, yandi akufua, kasi mvuala yandi, yandi akufua."
+
+Mvuala yandi, na nkisi yandi, na mvula yandi, bakendeleka, na ngolo, na kati ya nzila, yandi akabwana na nzambe. Nzambe yandi alingi, "Mvuala, nkisi, mvula, ngeye kwenda, ngeye kufua, kasi yandi, yandi akufua." Mvuala yandi, na nkisi yandi, na mvula yandi, balingi, "Nzambe, ngeye kwenda, kasi tata yandi alingi, kuna mvuala mingi, kuna mafua makasi." Nzambe yandi alingi, "Mvuala, nkisi, mvula, ngeye kwenda, ngeye kufua, kasi yandi, yandi akufua, kasi mvuala yandi, yandi akufua, kasi nkisi yandi, yandi akufua."
+
+Mvuala yandi, na nkisi yandi, na mvula yandi, na nzambe yandi, bakendeleka, na ngolo, na kati ya nzila, yandi akabwana na mafua. Mafua yandi alingi, "Mvuala, nkisi, mvula, nzambe, ngeye kwenda, ngeye kufua, kasi yandi, yandi akufua." Mvuala yandi, na nkisi yandi, na mvula yandi, na nzambe yandi, balingi, "Mafua, ngeye kwenda, kasi tata yandi alingi, kuna mvuala mingi, kuna mafua makasi." Mafua yandi alingi, "Mvuala, nkisi, mvula, nzambe, ngeye kwenda, ngeye kufua, kasi yandi, yandi akufua, kasi mvuala yandi, yandi akufua, kasi nkisi yandi, yandi akufua, kasi mvula yandi, yandi akufua."
+
+Mvuala yandi, na nkisi yandi, na mvula yandi, na nzambe yandi, na mafua yandi, bakendeleka, na ngolo, na kati ya nzila, yandi akabwana na kimbundu. Kimbundu yandi alingi, "Mvuala, nkisi, mvula, nzambe, mafua, ngeye kwenda, ngeye kufua, kasi yandi, yandi akufua." Mvuala yandi, na nkisi yandi, na mvula yandi, na nzambe yandi, na mafua yandi, balingi, "Kimbundu, ngeye kwenda, kasi tata yandi alingi, kuna mvuala mingi, kuna mafua makasi." Kibundu yandi alingi, "Mvuala, nkisi, mvula, nzambe, mafua, ngeye kwenda, ngeye kufua, kasi yandi, yandi akufua, kasi mvuala yandi, yandi akufua, kasi nkisi yandi, yandi akufua, kasi mvula yandi, yandi akufua, kasi mafua yandi, yandi akufua."
+
+Mvuala yandi, na nkisi yandi, na mvula yandi, na nzambe yandi, na mafua yandi, na kimbundu yandi, bakendeleka, na ngolo, na kati ya nzila, yandi akabwana na nguzu. Nguzu yandi alingi, "Mvuala, nkisi, mvula, nzambe, mafua, kimbundu, ngeye kwenda, ngeye kufua, kasi yandi, yandi akufua." Mvuala yandi, na nkisi yandi, na mvula yandi, na nzambe yandi, na mafua yandi, na kimbundu yandi, balingi, "Nguzu, ngeye kwenda, kasi tata yandi alingi, kuna mvuala mingi, kuna mafua makasi." Nguzu yandi alingi, "Mvuala, nkisi, mvula, nzambe, mafua, kimbundu, ngeye kwenda, ngeye kufua, kasi yandi, yandi akufua, kasi mvuala yandi, yandi akufua, kasi nkisi yandi, yandi akufua, kasi mvula yandi, yandi akufua, kasi mafua yandi, yandi akufua, kasi kimbundu yandi, yandi akufua."
+
+Mvuala yandi, na nkisi yandi, na mvula yandi, na nzambe yandi, na mafua yandi, na kimbundu yandi, na nguzu yandi, bakendeleka, na ngolo, na kati ya nzila, yandi akabwana na nlongo. Nlongo yandi alingi, "Mvuala, nkisi, mvula, nzambe, mafua, kimbundu, nguzu, ngeye kwenda, ngeye kufua, kasi yandi, yandi akufua." Mvuala yandi, na nkisi yandi, na mvula yandi, na nzambe yandi, na mafua yandi, na kimbundu yandi, na nguzu yandi, balingi, "Nlongo, ngeye kwenda, kasi tata yandi alingi, kuna mvuala mingi, kuna mafua makasi." Nlongo yandi alingi, "Mvuala, nkisi, mvula, nzambe, mafua, kimbundu, nguzu, ngeye kwenda, ngeye kufua, kasi yandi, yandi akufua, kasi mvuala yandi, yandi akufua, kasi nkisi yandi, yandi akufua, kasi mvula yandi, yandi akufua, kasi mafua yandi, yandi akufua, kasi kimbundu yandi, yandi akufua, kasi nguzu yandi, yandi akufua."
+
+Mvuala yandi, na nkisi yandi, na mvula yandi, na nzambe yandi, na mafua yandi, na kimbundu yandi, na nguzu yandi, na nlongo yandi, bakendeleka, na ngolo, na kati ya nzila, yandi akabwana na kilatu. Kilatu yandi alingi, "Mvuala, nkisi, mvula, nzambe, mafua, kimbundu, nguzu, nlongo, n

@@ -1,0 +1,37 @@
+<prompt>
+Please write a silly French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Le Combat des Super-Héros Enfants Contre les Méchants Adultes.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>fr</lang_id>
+
+<title>Le Combat des Super-Héros Enfants Contre les Méchants Adultes</title>
+<body>
+Dans le paisible village de Chouquette, où les maisons étaient toutes colorées comme des bonbons et les ruelles aussi sinueuses qu'un serpent à lunettes, vivait un groupe extraordinaire : les Super-Héros Enfants.  Ils n'étaient pas très grands, mais leur cœur était grand comme le ciel bleu azur.  Il y avait Camille, la super-rapide, avec des baskets rose vif et une cape scintillante qui tourbillonnait à chaque pas.  Ensuite, il y avait Guillaume, le super-fort, doté de muscles d'acier faits de pâte à modeler qu'il masquait sous un tee-shirt décoloré.  Et enfin, il y avait Zoé, la super-intelligente, avec des lunettes rondes et un carnet rempli de formules mathématiques mystérieuses.
+
+Leur plus grand ennemi étaient les Méchants Adultes, une troupe d'individus étrangement attachés à leur café et à leur téléphone portable.  Ils rêvaient d'une Chouquette désertique, recouverte d'une poussière invisible et, surtout, totalement dépourvue de douceurs.  Ces Méchants Adultes étaient dirigés par le redoutable Monsieur Craquelin, un homme dégingandé qui portait des chaussettes assorties et un air menaçant, même lorsqu'il commandait une glace à la vanille.
+
+Un jour, un éclair jaune vif traversa le ciel. Monsieur Craquelin, confortablement installé dans son fauteuil de jardin en plein milieu du village, eut un petit grincement d'excitation.  "Enfin ! Le moment tant attendu !" se dit-il, son sourcil gauche frôlant sa chemise. Il décida de déclencher son plan machiavélique. Il voulait voler tous les délicieux bonbons du village et les enfermer dans un grand coffre pour s'assurer une provision sucrée pour le futur. Pour ce faire, il allait utiliser des rayons de pur sucre démoniaque émis par sa terrible machine à moules à gâteaux!
+
+Les Super-Héros Enfants, s'apercevant du rayonnement sucré, se rassemblèrent au centre du village.  Camille, la super-rapide, esquissa une parade avec ses baskets, ses cheveux formant un nuage rose qui la suivit comme une nuée. Guillaume, le super-fort, prit une boule de pâte à modeler et la transforma en un marteau, l'odeur de la farine flottant sur le village.  Zoé, la super-intelligente, sorti son carnet et griffonna rapidement des équations et des schémas complexes, dessinant des figures géométriques étranges dans le sable à côté d'un rosier à odeur de violettes.  
+
+"Attention, ils préparent l'assaut de la douceur!", cria Camille, les yeux pétillants.
+
+"Nous allons empêcher ces horribles adultes de manger toutes nos gâteries!", affirma Guillaume, serrant le poing avec la force de mille éléphants.
+
+"Avec mes formules magiques, je vais leur apprendre à chérir les bonnes choses!", déclara Zoé, ses yeux fixés sur le cahier de recettes.
+
+Ils chargèrent avec enthousiasme. Camille fonça vers les rayons sucré de Monsieur Craquelin, esquissant un pas de danse fougueux avant d'intercepter l'énergie maléfique.  Guillaume, de toute sa force, frappa le champ de rayons en forme de sabliers, avec une boule de pâte à modeler qui sauta sur la surface.  Zoé, dansant avec les règles des mathématiques, déjoua les modèles imposés des rayons. Les rayons sucre disparaissent, comme un conte de fée magique et le délicieux parfum des friandises flottait de nouveau.
+
+Monsieur Craquelin, pris au dépourvu par leur enthousiasme, s'effondra dans son fauteuil, les chaussettes assorties bien en évidence. "Quelle énergie! Ces enfants...!" bredouilla-t-il, sans pouvoir compléter sa pensée. 
+
+Les habitants de Chouquette célébrèrent ce triomphe éclatant. Des ballons décorés, des caramels sucrés et des gâteaux étaient offerts partout.  Camille, Guillaume et Zoé, remplis d'honneur, s'entretinrent par des signes de remerciement.  Ils réalisèrent alors qu'il existait un monde plus important que les rayons de pur sucre maléfique et les mauvaises gâteries: le monde de la joie, de l'amitié et du partage.
+
+Ainsi, les Super-Héros Enfants, bien que toujours ravis de leur gâteau au chocolat, ne lésinèrent jamais sur l'important: la vraie joie était entre leurs amitiés. Le combat était loin d'être terminé, bien sûr. Mais pour Chouquette, c'était déjà une belle victoire !
+</body>

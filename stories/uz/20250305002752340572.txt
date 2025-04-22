@@ -1,0 +1,61 @@
+<prompt>
+Please write a dialog-based Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Sirli ko'lning suv osti sirlari'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>Sirli ko'lning suv osti sirlari</title><body>
+Oybek va Gulnara ko'l bo'yida o'ynab yuribdi.  Ularning oldiga qora ko'zlarini qisib turgan, qo'ylarining qorong'u soyalariga o'xshash bir qiz chaldi.  Qizning nomi Lola edi.
+
+Oybek: "Salom, Lola! Nima qilyapsan?" deb so'radi.
+
+Lola: "Men sirli ko'lning suv osti sirlari haqida hikoya aytib bermoqchiman. Lekin, sirlarni yopiq saqlash kerak! Qiz va qiz, u sirni eshitishga loyiqligingizga aminman," dedi Lola, ko'zlarini yalang'ochlaydigan sir bilan to'lib, u qiziqarli, uzoq hikoya boshlanadi.
+
+Gulnara: "Hikoyani tinglashni yaxshi ko'ramiz!  Biz hammaga ayta olasizmi?"
+
+Lola: "Agar sizlar shuni hech qachon kimga ham aytmaslikka va'da bersangiz, men sizlarga hikoyani aytib beraman.  Biz bu joyni birorta yosh boshqachalardan ehtiyotlab saqlash kerak, chunki bu hikoya shu yerda joylashgan hamma narsadir."
+
+Oybek va Gulnara, bir-birlarining ko'zlariga qarab o'ylashdi.  Yuraklaring qisqarganidek tuyulgan edi, va ularning hamma qo'rquvini to'g'rilab ular qo'llari bir-biriga tikildi va ular qulaylikni topish uchun bir-birlariga tashlab ketishdi, shu kabi va'dalar. Ular u yerdan yashirinlik o'rtasida hech qachon narsani yashirolmaydilar, deyishdi.
+
+Lola boshini egdi. "Bu sirli ko'lning pastki qismida ajoyib mavzular yashiringan.  Ulardan biri — Oq suv osti shoxligi.  Oq suv osti shoxligida katta ahamiyatga ega bo'lgan ko'plab sehrgar yurak bor, ba'zilari chuqur tungi qo'riqlar, ba'zilari chuqur, ba'zilari esa tosh va sopol qilich va to'lqinlar. Agar ehtiyot bo'lmasangiz ular quloqlarini tinglaydilar. Bu jonzotlar naqadar ehtiyotkorlik bilan harakatlanayotganligini tushuntirishadi, u naqadar ehtiyot bo'lishi kerak. Bu tungi guruh, ular naqadar mehmon soqlar.  Ba'zida ular sochlari bilan suv ostida suzib ketadilar. Agar ular sochlaringiz bilan o'rab olishga jur'at etsa, unda ko'zingizni yumayapsan, ko'zingiz bilan birga olishga jur'at etadi. Shuning uchun, hech kim suv ostinani ko'ra olmagan."
+
+Gulnara: "Xo'sh, oq suv osti shoxligida yana nimalar bor?"
+
+Lola: "Uning suvlarining baland tog'lari katta o'lchamga ega va qaychi va qiziqarli katta oq suvga aylanadi. Ba'zi marvaridlar esa oq, ba'zilari tunda quridi va eng go'zal to'lqinlarni hosil qiladi. Unda oq suv osti qasri bor, va unda oq suv osti shohi yashaydi. Uning shohligi suv ostida sirlar bilan to'la. Ko'lning chuqur qismlarida boshqa sirlar ham bor."
+
+Oybek: "Nima kabi?"
+
+Lola: "Suvda yashaydigan jonivorlarning bir xil toifasi va rangi bor va ular o'xshash harakatlarga qiziqadi.  Shunchaki ularning ba'zilarining boshlari chuqur ichida qo'llaringiz bilan g'oyib bo'ladi. Qorong'u osmondagi ulkan bosh, shunga o'xshagan. Unda bo'rtmasini ko'rmagandir. Unda sir bor, unda sir bor."
+
+Gulnara: "Xuddi shu qaymoq, yoki boshqa suv osti yashirinligi bo'yicha aytib bering. Suv ostida sirlar nimaga to'la?"
+
+Lola: "Albatta, chunki ko'lda yuradigan har bir o'rmon turadi va ko'lda suvga tushirilgan kichik qumli qismlarda joylashgan har qanday daraxtning ustunlari bo'ylab o'ladi. Shu sababli ko'l suv ostida, hamma joyda ko'pincha juda ko'p yaxshilik bilan joylashtirilgan joylarni bilib oladi va hech qanday qo'rqinch tug'diradi."
+
+Oybek: "O'shunda boshqalar haqida bilasizmi?"
+
+Lola: "Ha, men oq suv osti shoxligidan tashqari ko'lda juda ko'p qiziqarli narsalar borligini bilaman.  Misol uchun, sehrgar yurakning to'xtatilishidan olingan qiziqarli ovozlarni tinglashingiz mumkin.  Biz ba'zi baland qizig'im bilan tinglashimiz kerak, ular bir-birlariga qarashib, bir-birimizni to'lashga yordam beramiz."
+
+Gulnara: "Agar ko'lning suv osti sirlarini hech kimga aytmasdan bila olsak, u yerda yana qanday yashirin qismlar bor?"
+
+Lola: "Bundan tashqari, ko'lning tubida sirli tosh uyning ajoyib ko'rinishi ham bor. Unda sehrli toshdan yasalgan ko'pgina g'oyalar mavjud bo'lib, bu keng ko'rinishi juda ko'p ko'rinishi mumkin.  Ularning qo'lida aql bo'lib, siz hech qachon ulardan boshqa katta g'oyani o'ylab topmaysiz."
+
+Oybek: "Ammo, biz shu sirlarni o'zimiz bilan qanday qilib olib ketishimiz mumkin?"
+
+Lola: "Shuni hech kimga aytmaslik va o'z kuchlarimiz va xayolparastligimizni oshirishda davom etish bilan, va biz ko'lning ko'proq sirini ochib olishimiz mumkin. Ammo shuni unutmang, har bir yashirinlik hech qachon yomonlik qilmaydi. Shuning uchun, siz hech qachon o'zingizni sehr bilan quvib chiqarmaysiz, balki u juda uzoq vaqt davom etadigan g'oyani eslab qoling."
+
+Gulnara: "Bizga va'damiz bilan sirni hech kimga aytmaymiz. Biz bu ajoyib vaqtimizni doimo eslab qolishimiz mumkin."
+
+Oybek: "Lola, rahmat!"
+
+Lola: "Iltimos.  Faqat xotirada sir qolsin, xursand bo'ling va u butun dunyoni bo'ylab tarqalib ketmasligi uchun va siz unutib yuborishingiz yoki boshqalarning his-tuyg'ularini shudgorlashingiz mumkin."
+
+Va Lola sayohatidan borib, Oybek va Gulnara ko'l bo'yida yana o'ynashdi.  Ular ko'lning suv osti sirlari haqida o'ylar edilar.
+
+</body>

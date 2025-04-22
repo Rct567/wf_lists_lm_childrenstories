@@ -1,0 +1,47 @@
+<prompt>
+Please write a simple and easy-to-follow Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Yulduzli kechadagi yashirin shahar'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>uz</lang_id>
+
+<title>Yulduzli kechadagi yashirin shahar</title>
+<body>Uzoq-uzoqdagi yulduzli kechada, osmonning g'arbiy qismida, bir kichik shahar yashiringan edi. Ushbu shaharning nomi Chimyon bo'lib, uning aholisi juda xushmuomala va mehribon edilar. Chimyon shahri atrofi tog'lar bilan o'ralgan bo'lib, uning markazida katta va chiroyli bog' bor edi. Bog'da turli xil gullar, daraxtlar va qushlar yashar edi.
+
+Chimyon shahrida yashovchi bolalar juda baxtli edilar, chunki ularning shahri juda go'zal va xavfsiz edi. Ularning sevimli mashg'uloti kechalari osmonni tomosha qilish va yulduzlarni hisoblash edi. Bolalar yulduzlarning sirini bilishni juda istardilar va ular har kecha osmonni kuzatardilar.
+
+Bir kecha, Chimyon shahridagi bolalardan biri, uning ismi Xurshid, osmonni tomosha qilayotgan edi. U yulduzlarning orasida bir g'arib qiziq narsa payqadi. Yulduzlar orasida bir kichik, lekin juda yorqin yulduz bor edi, u boshqalardan farq qilar edi. Xurshid bu yulduzni ko'rib, juda qiziqib qoldi va uning sirini bilishni istadi.
+
+Xurshid o'zining eng yaxshi do'stlari, Farhod va Malika, bilan maslahatlashdi. Ular ham bu yulduzni ko'rib, uning haqida bilg'isiz edilar. Bolalar o'zlarining sevimli o'qituvchisi, o'qituvchi Sayyora, ga bu haqida aytishga qaror qildilar.
+
+O'qituvchi Sayyora bolalarga yulduzlarning sirini o'rgatgan edi, lekin bu kichik yulduz haqida hech narsa demadi. Bolalar unga bu yulduz haqida so'radilar, lekin o'qituvchi Sayyora faqat shahar afsonalaridan birini aytib berdi. U shunday dedi: "Chimyon shahri aslida yulduzli kechadan tushib kelgan, lekin u yerga yashirinib qolgan. Bu shahar faqat yulduzli kechalarda paydo bo'ladi va u yerga faqat bolalar kirishi mumkin".
+
+Bolalar bu afsonani eshitib, juda qiziqib qoldilar. Ular Chimyon shahri haqida ko'proq bilishni istardilar. O'qituvchi Sayyora ularga shahar tarixi haqida ko'proq aytib berdi. U shunday dedi: "Chimyon shahri juda qadimiy shahar bo'lib, u minglab yillar avval paydo bo'lgan. Ushbu shahar osmondan tushib kelgan va u yerga yashirinib qolgan. Shahar aholisi juda mehribon va xushmuomala edilar, lekin ular boshqalardan ajralib turardilar".
+
+Bolalar bu tarixni eshitib, juda hayratga tushdilar. Ular Chimyon shahri haqida ko'proq bilishni istardilar. O'qituvchi Sayyora ularga shahar sirini ochishga ruxsat berdi, lekin faqat agar ular yulduzli kechada shaharga borishga muvaffaq bo'lsalar.
+
+Bolalar juda shod edilar va ular Chimyon shahriga borishga tayyorlandilar. Ular o'zlarining eng yaxshi kiyimlarini kiyib, osmonni tomosha qila boshladilar. Yulduzlar orasida kichik yulduz bor edi, u boshqalardan farq qilar edi. Bolalar bu yulduzni ko'rib, uning sirini bilishni istardilar.
+
+Bir kecha, Chimyon shahridagi bolalar yulduzli osmonni tomosha qilayotgan edi. Ular kichik yulduzni ko'rib, uning sirini bilishni istardilar. Xurshid, Farhod va Malika o'zlarining sevimli o'qituvchisi, o'qituvchi Sayyora, bilan maslahatlashdilar. Ular unga bu yulduz haqida so'radilar, lekin o'qituvchi Sayyora faqat shahar afsonalaridan birini aytib berdi.
+
+Bolalar bu afsonani eshitib, juda qiziqib qoldilar. Ular Chimyon shahri haqida ko'proq bilishni istardilar. O'qituvchi Sayyora ularga shahar tarixi haqida ko'proq aytib berdi. U shunday dedi: "Chimyon shahri juda qadimiy shahar bo'lib, u minglab yillar avval paydo bo'lgan. Ushbu shahar osmondan tushib kelgan va u yerga yashirinib qolgan. Shahar aholisi juda mehribon va xushmuomala edilar, lekin ular boshqalardan ajralib turardilar".
+
+Bolalar bu tarixni eshitib, juda hayratga tushdilar. Ular Chimyon shahri haqida ko'proq bilishni istardilar. O'qituvchi Sayyora ularga shahar sirini ochishga ruxsat berdi, lekin faqat agar ular yulduzli kechada shaharga borishga muvaffaq bo'lsalar.
+
+Bolalar juda shod edilar va ular Chimyon shahriga borishga tayyorlandilar. Ular o'zlarining eng yaxshi kiyimlarini kiyib, osmonni tomosha qila boshladilar. Yulduzlar orasida kichik yulduz bor edi, u boshqalardan farq qilar edi. Bolalar bu yulduzni ko'rib, uning sirini bilishni istardilar.
+
+Xurshid, Farhod va Malika Chimyon shahriga borishga qaror qildilar. Ular o'zlarining sevimli o'qituvchisi, o'qituvchi Sayyora, bilan maslahatlashdilar. Ular unga bu haqida aytishga qaror qildilar, lekin o'qituvchi Sayyora ularga shahar sirini ochishga ruxsat bermadi.
+
+Bolalar Chimyon shahriga borishga tayyorlandilar. Ular o'zlarining eng yaxshi kiyimlarini kiyib, osmonni tomosha qila boshladilar. Yulduzlar orasida kichik yulduz bor edi, u boshqalardan farq qilar edi. Bolalar bu yulduzni ko'rib, uning sirini bilishni istardilar.
+
+Xurshid, Farhod va Malika Chimyon shahriga borish uchun yo'lga chiqdilar. Ular osmonni tomosha qilayotgan edi, lekin ular hech narsa ko'rmadilar. Bolalar Chimyon shahri haqida ko'proq bilishni istardilar, lekin ular uning sirini ocholmadilar.
+
+Bolalar Chimyon shahriga borish uchun yo'lga chiqdilar, lekin ular yo'lda turardilar. Ular osmonni tomosha qilayotgan edi, lekin ular hech narsa ko'rmadilar. Xurshid, Farhod va Malika Chimyon shahri haqida ko'proq bilishni istardilar, lekin ular uning sirini ocholmadilar.
+
+Bir kecha, Chimyon shahridagi bolalar yulduzli osmonni tomosha qilayotgan edi. Ular kichik yulduzni ko'rib, uning sirini bilishni istardilar. Xurshid, Farhod va Malika o'zlarining se

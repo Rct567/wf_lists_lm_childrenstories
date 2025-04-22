@@ -1,0 +1,65 @@
+<prompt>
+Please write a dialog-based Spanish children's story that is at least 1000 words long.
+It must be completely written in proper Spanish (ES).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'El disfraz divertido y la magia de la transformación siempre real.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>es</lang_id>
+
+```xml
+<title>El disfraz divertido y la magia de la transformación siempre real.</title>
+<body>
+<p>—¡Ay, qué aburrido es hoy! —exclamó Leo, saltando sobre el césped verde del jardín.</p>
+<p>—¿Qué te pasa, Leo? Pareces un poco desanimado —preguntó Sofía, su hermana mayor, mientras leía un libro bajo la sombra de un gran árbol de manzanos.</p>
+<p>—Es que no hay nada divertido que hacer. Mamá está ocupada con el jardín, papá trabaja en la oficina… y yo… yo estoy aburrido —respondió Leo, haciendo un puchero.</p>
+<p>Sofía cerró su libro y sonrió. —Bueno, siempre podemos inventar algo. ¿Te apetece jugar a algo? ¿Quizás a disfrazarnos?</p>
+<p>Los ojos de Leo se iluminaron. —¡Disfrazarnos! ¡Sí, sí, sí! ¿A qué nos disfrazamos?</p>
+<p>—Hmmm… ¿Qué te parece si nos transformamos en exploradores? ¡Podemos buscar tesoros escondidos en el jardín! —sugirió Sofía con entusiasmo.</p>
+<p>—¡Me encanta la idea! Pero… ¿dónde encontramos disfraces de exploradores? —preguntó Leo, un poco dudoso.</p>
+<p>Sofía sonrió con picardía. —No te preocupes. Tengo un plan. ¡Vamos al ático! Allí tenemos un montón de cosas viejas.</p>
+<p>Subieron corriendo las escaleras, emocionados por la aventura. El ático estaba lleno de cajas empolvadas, muebles antiguos y montones de tesoros olvidados.</p>
+<p>—¡Guau! ¡Mira esto! —exclamó Leo, cogiendo un sombrero de ala ancha que había encontrado en una caja. Tenía una gran mancha de tinta en la parte superior.</p>
+<p>—Perfecto para un explorador —dijo Sofía, sonriendo. —Busquemos camisas color caqui y pantalones cortos. Y necesito una mochila para llevar el mapa y la brújula imaginaria.</p>
+<p>Después de rebuscar un poco, encontraron unas camisas viejas que les quedaban perfectas, unos pantalones cortos y una mochila de lona descolorida. Sofía también consiguió una brújula de juguete y dibujaron un mapa del jardín en un trozo de papel.</p>
+<p>—¡Ya estamos listos para la gran aventura! —gritó Leo, emocionado.</p>
+<p>—¡A explorar! —respondió Sofía, guiñándole un ojo.</p>
+<p>Salieron al jardín, listos para la búsqueda del tesoro. Leo llevaba el sombrero manchado y Sofía la mochila con el mapa y la brújula.</p>
+<p>—¿Por dónde empezamos? —preguntó Leo.</p>
+<p>—Según el mapa, el primer lugar es… ¡debajo del árbol de manzanas! —respondió Sofía, consultando el mapa.</p>
+<p>Corrieron hacia el árbol y empezaron a buscar. Leo escarbó con sus manos en la tierra. —¡Aquí no hay nada! —dijo, un poco decepcionado.</p>
+<p>Sofía miró atentamente el mapa. —A ver… creo que hay una pista. Dice: “Busca donde la ardilla esconde su tesoro”.</p>
+<p>—¿La ardilla? ¿Y dónde esconde su tesoro? —preguntó Leo, mirando a su alrededor.</p>
+<p>—Hmm… ¿Recuerdas que vimos a la ardilla escondiendo nueces cerca del rosal? ¡Vamos allí! —respondió Sofía, caminando hacia el rosal.</p>
+<p>Al llegar al rosal, encontraron un pequeño agujero en la tierra. Leo metió la mano y sacó… ¡un montón de caramelos! —¡Un tesoro! ¡Hemos encontrado un tesoro! —gritó emocionado.</p>
+<p>—¡Yummy! ¡Qué suerte! —exclamó Sofía, sonriendo.</p>
+<p>Después de comerse algunos caramelos, continuaron su búsqueda. Según el mapa, el siguiente lugar era… ¡la casita del jardín! La casita de madera que solían usar para jugar.</p>
+<p>—¡Adelante! —gritó Leo, corriendo hacia la casita.</p>
+<p>Dentro de la casita encontraron un cofre de madera. ¡Estaba cerrado! —¡Necesitamos una llave! —dijo Leo, impaciente.</p>
+<p>Sofía miró el mapa. —Dice: “La llave está escondida donde el sol besa la tierra”. ¿Dónde puede ser eso?</p>
+<p>—¡Ya sé! ¡En el jardín de flores! Allí el sol siempre está brillando —respondió Leo, recordando su conocimiento del jardín.</p>
+<p>Corrieron hacia el jardín de flores. Debajo de un girasol enorme, encontraron una pequeña llave dorada.</p>
+<p>—¡La llave! —gritó Leo, con la llave en la mano.</p>
+<p>Regresaron corriendo a la casita y abrieron el cofre. Dentro había… ¡un montón de dibujos y pinturas, y pegatinas de estrellas y animales! —¡Qué maravilla! ¡Tenemos un cofre de artistas! —exclamó Sofía, encantada.</p>
+<p>—¡Genial! ¡Ahora podemos dibujar! —dijo Leo, emocionado.</p>
+<p>Pasaron la tarde dibujando y pintando. Se olvidaron por completo del aburrimiento. Estaban inmersos en la magia del disfraz, la aventura y la imaginación. Cada objeto en su entorno cobraba vida y la transformación era real.</p>
+<p>De repente, escucharon la voz de su madre llamándolos. —¡Leo! ¡Sofía! ¡A cenar!</p>
+<p>Salieron de la casita y fueron hacia su madre. Ella sonrió al verlos con sus disfraces de exploradores, con sus caras manchadas de pintura y felicidad. —Vaya, veo que se lo han pasado bien —dijo, riendo.</p>
+<p>—¡Sí! ¡Encontramos un tesoro! —exclamó Leo, mostrando el cofre de artistas.</p>
+<p>—¡Y aprendimos mucho sobre mapas y brújulas! —añadió Sofía.</p>
+<p>Después de cenar, mientras se preparaban para dormir, Leo se sentó en su cama, mirando la ventana.</p>
+<p>—¿Sabes, Sofía? —dijo Leo—. Me encanta disfrazarme. Me siento diferente, como si pudiera ser cualquier persona, como un explorador de verdad.</p>
+<p>Sofía se sentó junto a él. —Sí, es increíble, ¿verdad? Pero la magia más grande es la de la imaginación. La que nos permite transformar cualquier cosa en una aventura.</p>
+<p>—¿Y lo de explorar? —preguntó Leo.</p>
+<p>—¡Eso también! Explorar el mundo, descubrir cosas nuevas, eso también es magia. Y lo más importante es disfrutarlo. —respondió Sofía, guiñando un ojo.</p>
+<p>Leo sonrió. —Tienes razón. Mañana, ¿qué podemos ser? ¿Podemos ser piratas?</p>
+<p>—¡Claro que sí! —respondió Sofía, sonriendo—. Podemos usar la imaginación y transformarnos en lo que queramos. La verdadera magia está en lo que sentimos y la amistad que creamos juntos.</p>
+<p>Esa noche, Leo durmió plácidamente, soñando con barcos piratas, tesoros escondidos y la magia de la transformación, la cual él ya entendía que era más que sólo un disfraz. Comprendía que ser uno mismo, pero a la vez adoptar el rol de una nueva persona, en un mundo lleno de imaginación, era la verdadera magia.</p>
+<p>A la mañana siguiente, se despertaron con una nueva idea: ¡serían astronautas!</p>
+<p>La aventura, la magia y el disfraz se convirtieron en parte de sus vidas, aprendiendo siempre de sus juegos y creyéndose realmente cada rol, disfrutando de la transformación que la imaginación puede traer a la vida. Y así, día tras día, la diversión era real.</p>
+</body>
+```

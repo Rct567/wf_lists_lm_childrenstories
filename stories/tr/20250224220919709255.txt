@@ -1,0 +1,34 @@
+<prompt>
+Please write a educational Turkish children's story that is at least 1000 words long.
+It must be completely written in proper Turkish (TR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Bölünmüş Bir Ailenin Mutlu Sonu'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>tr</lang_id>
+
+<title>Bölünmüş Bir Ailenin Mutlu Sonu</title>
+<body>
+Elmas, küçük bir köyde, eski bir evin penceresinden sarkan, sarımsak kokulu, yeşil bir bahçe içinde yaşıyordu.  Evin duvarları, zamanın izlerini taşıyan, gri ve kahverengi lekelerle kaplıydı.  Ama Elmas için bu ev, dünyanın en güzel yeriydi.  Annesi, Leyla Hanım,  incecik elleriyle dokunaklı hikayeler anlatır, babası, Mehmet Bey, ise engin bir sabırla her şeye katlanırdı.  Ancak bu huzurlu günler, bir fırtına gibi gelen bir kararın ardından değişmişti.
+
+Mehmet Bey, şehirdeki iş fırsatını kaçıramazdı, diyordu.  Elmas'ın gözlerinde, annesinin yüzündeki kaygının aynısı yansıyordu.  Şehir, uzak ve korkutucu bir yerdi.  Köyleri, tanıdık ağaçları, sessiz nehirleri geride bırakmak, Elmas için dayanılmaz bir acıydı.  Her gün, Mehmet Bey'in yola çıkmadan önceki vedalarında, Elmas, gözyaşı dökerken, babasının özlemini duyuyordu.
+
+Yıllar hızla geçti.  Elmas, şehrin gürültüsü ve kalabalığı içinde büyüdü.  Okulda başarılıydı, ama içini bir boşluk kaplıyordu.  Her akşam, uyuyamazdı.  Köydeki dostları, annesi, tanıdık kokular ve sesler, aklından silinmeyen görüntülerdi.  Mektuplar, sessizce gelen, sonra kaybolan umut ışığıydı.
+
+Bir gün, Elmas'ın eline eski, yırtık bir mektup düştü.  Annesinin el yazısıyla yazılmıştı.  Mektupta, şehrin karmaşasının arasında kaybolmuş Elmas'a, köyün büyüsünü hatırlatıyordu.  Bahçelerdeki çiçeklerin kokusunu, nehrin şırıldayan sesini, en önemlisi de aile bağlarının sıcaklığını.  Annesi, her zaman Elmas'ın yanında olduğunu, bir gün tekrar görüşeceklerini, her şeyin yoluna gireceğini yazmıştı.
+
+Elmas, mektubu tekrar tekrar okudu.  Gözleri doldu.  Bir karar verdi.  Şehir hayatının içinde boğulmak yerine, köye dönecekti.  Hayallerinde gördüğü o yeşil bahçeyi, annesinin sıcak kollarını özlemişti.
+
+Elmas, uzun bir yolculuğa çıktı.  Trenler, otobüsler,  yürüdü, koştu; ama köyün görüntüsü, zihninin derinliklerinde parlıyordu.  Uzun ve yorucu bir yolculuğun ardından, sonunda köyün topraklarında buldu kendini.  Eski ev, gri ve kahverengi lekeleriyle, tanıdıktı.  Ama bu kez, farklı bir his vardı.  Kalbinin içinde, bir umut ışığı yanıyordu.
+
+Ev, önceden olduğu gibi değildi.  Mehmet Bey, yeni bir iş bulmuştu ve ev, daha iyiye, daha güzele doğru evrimleşmişti.  Annesi, saçları beyazlaymış, ama gözlerindeki sevgi ışığı sönmemişti.  Elmas'ın kalbi, öksüz bir ağaçtaki filiz gibi hızla gelişiyordu.
+
+Elmas, babasıyla uzun uzun konuştu.  Babası, şehrin gürültüsünün ardından, köye dönmenin ne kadar doğru bir karar olduğunu anlıyordu.  Şehirde, her ne kadar başarılar yaşamış olsa da, içini ve ruhunu saran boşluğu doldurabilecek tek şeyin, köklerine, dostlarına, ailesine geri dönmek olduğunu kavramıştı.
+
+İç içe geçmiş eller, sarılıp gelen sıcaklık, duyulan özlemler...  O an, Elmas, ailesinin yeniden bir araya gelmesinin mutluluğunu yaşadı.  Köy hayatının huzuru, Elmas'ın kalbinde, şehrin gürültüsünden daha büyük bir yankı uyandırdı.  Birbirlerine sarılan aile üyeleri,  yeni bir yola, yeni bir hayata, yeni bir mutluluğa yelken açtılar.  Eski evin duvarları, artık Elmas'ın yüreğindeki sıcaklığı, geçmişin izleri ve umudun ışığıyla doluydu.  Bölünmüş bir ailenin,  birlikte büyüyen bir sevgi hikayesinin, mutlu sonu yazılmıştı.  Ve Elmas, artık, dünyanın en güzel yerinin, aileyle birlikte olduğu, her zaman yeşil kalacak olan köyü olduğunu biliyordu.
+
+</body>

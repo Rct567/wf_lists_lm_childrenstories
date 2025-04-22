@@ -1,0 +1,64 @@
+<prompt>
+Please write a uncomplicated Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Jak žirafa Klára objevila svět za obzorem'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>cs</lang_id>
+
+<title>Jak žirafa Klára objevila svět za obzorem</title><body>Byla jednou jedna žirafa jménem Klára. Bydlela v malé vesničce uprostřed široké savany, kde tráva byla zelená a stromy vysoké. Klára byla známá svým dlouhým krkem, který jí umožňoval dosáhnout na nejvyšší větve stromů, odkud si pochutnávala na šťavnatých lístcích. Ale Klára nebyla jen obyčejná žirafa. Měla velkou zvědavost a touhu objevovat nové věci. Každý den se dívala k obzoru, kde se nebe setkávalo se zemí, a přemýšlela, co by tam mohlo být.
+
+Jednoho rána se Klára probudila s neobvyklým pocitem. "Dnes je ten den," řekla si. "Dnes objevím, co je za obzorem." Posnídala pár lístků a vydala se na cestu. Cestou potkala svého kamaráda, zebru jménem Zdeněk.
+
+"Kam jdeš, Kláro?" zeptal se Zdeněk.
+
+"Jdu objevovat svět za obzorem," odpověděla Klára.
+
+"To zní zajímavě," řekl Zdeněk. "Můžu jít s tebou?"
+
+"Samozřejmě!" zvolala Klára a oba se vydali na dobrodružství.
+
+Cestou potkali mnoho zvířat. Sloní rodina jim ukázala cestu přes řeku, opice jim přinesly banány k svačině a ptáci jim zpívali veselé písně. Klára a Zdeněk byli nadšeni, jak přátelské a pomocné všechny zvířata byly.
+
+Když dorazili k obzoru, uviděli něco, co nikdy předtím neviděli. Byl to obrovský les, plný stromů, které byly ještě vyšší než ty, které znali. Klára se rozhlédla a řekla: "To je úžasné! Pojďme dovnitř."
+
+V lese bylo ticho a klid. Sluneční paprsky pronikaly skrz listy stromů a vytvářely na zemi krásné světelné obrazce. Klára a Zdeněk šli dál a najednou uslyšeli podivný zvuk. Bylo to tiché šustění a šplouchání.
+
+"Co to je?" zeptal se Zdeněk.
+
+"Nevím," odpověděla Klára. "Pojďme se podívat."
+
+Když se přiblížili, uviděli malý potůček, který tekl mezi kameny. Voda byla čistá a průzračná, a Klára si všimla, že v ní plavou malé rybky.
+
+"To je krásné," řekla Klára. "Nikdy jsem neviděla nic takového."
+
+"Ani já," souhlasil Zdeněk.
+
+Najednou se z křoví vynořil malý ježek. "Dobrý den," řekl. "Co tu děláte?"
+
+"Objevujeme svět za obzorem," odpověděla Klára.
+
+"To je skvělé," řekl ježek. "Tady v lese je mnoho zajímavých věcí k objevování. Můžu vám ukázat něco zvláštního?"
+
+"Ano, prosím!" zvolali Klára a Zdeněk.
+
+Ježek je vedl k malé jeskyni ukryté mezi kořeny velkého stromu. Uvnitř jeskyně bylo plno třpytivých kamenů, které zářily ve tmě jako hvězdy.
+
+"Tohle je poklad lesa," řekl ježek. "Každý kámen má svůj příběh."
+
+Klára a Zdeněk byli ohromeni. "Děkujeme, že jsi nám to ukázal," řekla Klára.
+
+"Rádo se stalo," odpověděl ježek. "A teď vám chci říct něco důležitého. Svět za obzorem není jen to, co vidíte. Je to také o přátelství a pomoci druhým. Když budete dobří k ostatním, svět bude vždy plný překvapení a krásy."
+
+Klára a Zdeněk se zamysleli. "Máš pravdu," řekla Klára. "Dnes jsme potkali tolik přátelských zvířat a viděli tolik krásných věcí. Chtěli bychom to všechno sdílet s našimi přáteli doma."
+
+"To je skvělý nápad," řekl ježek. "Ale nezapomeňte, že i doma je mnoho krásy a tajemství k objevování."
+
+Klára a Zdeněk se rozloučili s ježkem a vydali se na cestu zpět. Když dorazili domů, vyprávěli všem svým přátelům o svém dobrodružství. A od té doby se Klára a Zdeněk stali největšími vypravěči ve vesničce, kteří ostatním ukazovali, že svět je plný zázraků, které čekají na objevení.
+
+A tak žirafa Klára objevila nejen svět za obzorem, ale také hodnotu přátelství a důležitost sdílení svých zážitků s ostatními. Každý den se dívala k obzoru s úsměvem, protože věděla, že za ním je ještě mnoho krásy a tajemství, která čekají, až je někdo objeví.</body>

@@ -1,0 +1,43 @@
+<prompt>
+Please write a uncomplicated Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Meža strazdu dziesma un zelta atslēga'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>lv</lang_id>
+
+<title>Meža strazdu dziesma un zelta atslēga</title>
+<body>Reiz bija mežs, kurā dzīvoja daudz dažādu dzīvību. Mežā bija skaisti koki, košās ziedes un daudz putnu. Viens no šiem putniem bija strazds ar skaistu, melnu spalvu un dzelteno knābi. Strazds bija ļoti mūžīgs un dziedāja skaistākās dziesmas, kuras varēja dzirdēt visi meža iemītāji.
+
+Strazda vārdā bija Kārlis, un viņš dzīvoja mazā, bet ļoti skaistā ligzdā kāda liela ozola zara galā. Kārlim patika dziedāt, un viņš dziedāja visu laiku. Viņa dziesmas bija tik skaistas, ka pat koki sāka ziedēt, un ziedes sāka smaržot vēl vairāk.
+
+Vienu dienu, gājot pa mežu, Kārlis ieraudzīja kādu zelta atslēgu, kas glītēja no kāda koka zara. Kārlis bija ļoti izbrāzīts un nolēma, ka viņam ir jāiegūst šī atslēga. Viņš sāka dziedāt īpaši skaistu dziesmu, un atslēga sāka gāzties lejup, līdz beidzot Kārlim izdevās to noķert.
+
+Kārlis bija ļoti priecīgs, jo viņam bija iegūts zelta atslēga. Viņš nolēma, ka ar šo atslēgu viņš varēs atvērt kādu slepeno durvi, kas, iespējams, aizvedīs viņu uz kādu jaunu, nezināmu pasauli. Kārlis sāka meklēt šo durvi, un pēc ilga laika viņam beidzot izdevās to atrast.
+
+Durvis atvēra zelta atslēga, un Kārlis iegāja cauri tām. Viņš nonāca kādā skaistā, ziemīgā pilsētā, kurā bija daudz baltu māju un zilu upītu. Kārlis bija ļoti pārsteigts, jo viņam šāda pilsēta nebija nekad redzēta.
+
+Kārlis sāka pārlūkot pilsētu un ieraudzīja daudz dažādu dzīvību, kuras viņam bija nezināmas. Viņš redzēja zilus putnus, sarkanus zīdus un pat vēl daudz citu dzīvību. Kārlis bija ļoti izbrāzīts un nolēma, ka viņam ir jāizglītojas par šīm dzīvībām.
+
+Kārlis iegāja vienā no baltām mājām un ieraudzīja kādu vecu vīru, kurš sēdēja pie galda un lasīja grāmatu. Vīrs pacēlās un sagaidīja Kārli. "Sveiks, jaunais strazds", - teica vīrs. "Kā tev iepaticas mūsu pilsēta?"
+
+Kārlis bija ļoti pārsteigts, jo vīrs runāja viņam saprotamā valodā. "Man patīk ļoti", - atbildēja Kārlis. "Es esmu no meža, un man šāda pilsēta nebija nekad redzēta".
+
+Vīrs nosmējās un teica: "Tā ir labi, ja tu esi no meža. Mēs šeit cienām meža dzīvības un to, ko tās mums dod. Mums ir daudz ko mācīties no meža, un mēs esam priecīgi, ka tu esi šeit".
+
+Kārlis bija ļoti priecīgs, jo viņam bija iespēja izglītīties par šo pilsētu un tās iemītājiem. Viņš uzzīmējās pie vīra un sāka mācīties. Vīrs stāstīja Kārlim par pilsētas vēsturi, par tās iedzīvotājiem un par to, ko viņi darīja.
+
+Kārlis mācījās ļoti labi un uzzināja daudz jaunu lietu. Viņš iepazinās ar daudziem pilsētas iemītājiem un kļuva par vienu no viņiem. Kārlis dziedāja savas skaistās dziesmas, un pilsētas iemītāji tos dzirdēja ar prieku.
+
+Pēc ilga laika Kārlis nolēma, ka viņam ir jāatgriežas mežā. Viņš bija ļoti priecīgs par to, ko viņam bija iemācījies, un viņš zināja, ka viņš varēs dalīties ar šo zinātāmo meža iemītājiem. Kārlis pēdējoreiz apskatījās pilsētā un aizgāja cauri durvīm, kas aizveda viņu atpakaļ mežā.
+
+Kārlis atgriezās savā ligzdā un sāka dziedāt savas skaistās dziesmas. Meža iemītāji dzirdēja viņa dziesmas un bija ļoti priecīgi, jo Kārlis bija atgriezies. Kārlis stāstīja meža iemītājiem par to, ko viņam bija iemācījies pilsētā, un viņi visi bija ļoti interesēti.
+
+Meža iemītāji uzzināja daudz jaunu lietu no Kārliem, un viņi kļuva vēl ciešāk saistīti. Kārlis turpināja dziedāt savas skaistās dziesmas, un meža iemītāji dzirdēja tos ar prieku. Kārlis bija ļoti priecīgs, jo viņam bija iespēja dalīties ar savu zinātāmo un dziedāt savas skaistās dziesmas.
+
+Un tā Kārlis dzīvoja mežā, dziedādams savas skaistās dziesmas un bija ļoti priecīgs. Viņa dziesmas kļuva vēl skaistākas, jo Kārlis bija iemācījies daudz jaunu lietu pilsētā. Meža iemītāji dzirdēja viņa dziesmas ar prieku, un Kārlis bija ļoti mīlestīts. Un tā meža strazda dziesma un zelta atslēga kļuva par daļu no meža vēstures, un tā tika stāstīta no paaudzes paaudzē.</body>

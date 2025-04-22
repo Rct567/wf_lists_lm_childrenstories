@@ -1,0 +1,68 @@
+<prompt>
+Please write a simple and easy-to-follow Italian children's story that is at least 1000 words long.
+It must be completely written in proper Italian (IT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'L'agnello innocente e la sua corsa verso la morbida e tiepida mamma.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>it</lang_id>
+
+```xml
+<title>L'agnello innocente e la sua corsa verso la morbida e tiepida mamma.</title><body>
+C'era una volta, in un verde prato pieno di fiori colorati, un piccolo agnello bianco come la neve. Si chiamava Chicco. Chicco era un agnello allegro, con una lana morbidissima e occhietti neri e vivaci. Amava correre, saltellare e giocare con i suoi amici: i pulcini gialli, i coniglietti marroni e le farfalle variopinte.
+
+Ogni mattina, quando il sole spuntava dalle colline, Chicco saltava fuori dalla sua stalla, un piccolo rifugio di legno caldo e accogliente. La sua mamma, una grande pecora con una lana altrettanto bianca e soffice, lo aspettava già, emettendo un dolce belato per salutarlo. "Beee!", diceva mamma pecora, invitando Chicco a mangiare il latte fresco e nutriente.
+
+Chicco correva felice verso la sua mamma, desideroso di bere il latte. Il latte era buono, dolce e riempiva la sua pancia, dandogli l’energia per affrontare la giornata. Dopo aver fatto colazione, Chicco e i suoi amici si dedicavano ai giochi. I pulcini correvano veloci tra l’erba, i coniglietti scavavano buche nella terra e le farfalle svolazzavano sopra le loro teste, come piccoli petali colorati mossi dal vento.
+
+Un giorno, mentre Chicco stava giocando con i suoi amici, sentì un rumore strano. Un rumore sordo, proveniente dalla collina. “Che cos’è?”, chiese Chicco, curioso. I suoi amici, spaventati, si raggrupparono. Nessuno sapeva cosa fosse quel rumore.
+
+All'improvviso, il rumore si fece più forte. Sembrava una vibrazione che si sentiva sotto le zampe. I pulcini iniziarono a pigolare ancora più forte, i coniglietti scapparono nei loro buchi e le farfalle smisero di volare, appoggiandosi timidamente sui fiori. Chicco, un po' impaurito ma anche molto coraggioso, decise di andare a vedere. "Aspettate qui!", disse ai suoi amici. "Vado a dare un'occhiata!"
+
+Con il cuore che batteva forte nel petto, Chicco iniziò a camminare verso la collina. Il rumore aumentava ad ogni passo. Saliva su per il sentiero erboso, sentendo la terra tremare sotto le sue zampette. Arrivò in cima e… rimase senza parole!
+
+Davanti a lui c'era un grande trattore rosso. Il trattore arava il campo, preparando la terra per la semina. Il rumore era quello del motore potente del trattore. Chicco non aveva mai visto un trattore prima. Era enorme e sembrava quasi un mostro.
+
+Si spaventò un po', ma poi ricordò le parole della sua mamma: “Non aver paura, piccolo mio. La curiosità è una cosa buona, ma la prudenza è ancora più importante." Chicco decise di guardare il trattore da una certa distanza.
+
+Osservò attentamente il lavoro del trattore. Vedeva la terra capovolta, pronta a ricevere i semi che sarebbero diventati fiori e piante. Capì che, nonostante il rumore e l'aspetto imponente, il trattore non era cattivo. Era lì per aiutare, per rendere il prato ancora più bello e fertile.
+
+Dopo aver osservato il trattore per un po', Chicco decise di tornare dai suoi amici. Correndo giù per la collina, urlò: "Non è un mostro! È un trattore! Serve a preparare il campo!"
+
+I suoi amici, rassicurati, uscirono dai loro nascondigli. Le farfalle ripresero a volare, i pulcini a pigolare e i coniglietti a giocare. Tutti, compreso Chicco, si sentirono sollevati e felici.
+
+Quel giorno, però, si fece sera molto presto. Il cielo si colorò di sfumature rosa e arancioni, annunciando l’arrivo della notte. Il sole scomparve dietro le colline e l’aria si rinfrescò. Chicco sentì freddo. Si accorse che era stanco e che voleva andare dalla sua mamma.
+
+Chicco ripensò alla sua giornata: il rumore strano, la paura, la curiosità verso il trattore, e la felicità di ritrovare i suoi amici. Ma adesso sentiva solo un grande desiderio: la morbidezza e il calore della sua mamma.
+
+Iniziò a correre verso la sua stalla. I suoi zoccoli picchiavano sul prato, creando un suono allegro e rassicurante. Voleva raggiungere la mamma il più presto possibile.
+
+Il cammino era un po' lungo. A volte, Chicco si perdeva nei suoi pensieri. Ma il ricordo della sua mamma lo spronava a continuare. Immaginava il suo pelo soffice, il suo sguardo amorevole e il suo profumo. Sentiva la necessità di essere tra le sue braccia, di sentire il suo calore.
+
+Attraversò campi, costeggiò alberi e sentì il vento sussurrargli dolci parole. Vide le lucciole che si accendevano e si spegnevano nell'oscurità. Il buio, prima un nemico, divenne amico. Era come un abbraccio che lo guidava verso casa.
+
+Chicco correva, correva e correva ancora. Sentiva il bisogno impellente di arrivare, di trovare rifugio tra le braccia della sua mamma. Ogni passo era un passo verso la sicurezza, verso l'amore.
+
+Finalmente, vide la sua stalla in lontananza. Un debole bagliore illuminava il suo cammino. Correndo, riconobbe la forma inconfondibile della sua mamma, che lo aspettava.
+
+Il cuore di Chicco batteva forte. Era quasi arrivato!
+
+Ansimando per la fatica, accelerò il passo. Non vedeva l'ora di sentire il profumo di mamma pecora, di essere avvolto nel suo morbido manto.
+
+La raggiunse. E non appena si avvicinò a lei, sentì la mamma emettere un dolce belato, rassicurante e affettuoso: “Beee! Chicco mio!”
+
+Chicco corse incontro alla sua mamma e si strinse a lei. Infilò la testa tra le sue zampe e si sentì avvolto da una sensazione di sicurezza e calore. Il pelo della mamma era ancora più morbido del solito, e il suo profumo inebriante.
+
+Mamma pecora abbassò la testa e lo leccò, con la sua lingua ruvida ma affettuosa, sul musetto. Chicco si sentiva al sicuro. Aveva trovato la sua morbida e tiepida mamma.
+
+“Sono così felice di averti qui, piccolo mio”, disse mamma pecora. "È stato un giorno lungo, vero? Ma ora sei al sicuro, con me."
+
+Chicco si accoccolò accanto alla sua mamma e si addormentò subito. Dormì sogni tranquilli, cullato dal suono del belato della sua mamma e dalla dolce brezza notturna.
+
+La mattina dopo, quando il sole sorse, Chicco si svegliò riposato e pieno di energia. Uscì dalla stalla, pronto per una nuova giornata di giochi e avventure. Sapeva che, qualunque cosa accadesse, la sua mamma sarebbe sempre stata lì per lui, pronta a offrirgli il suo amore e la sua protezione. E così, Chicco, l’agnello innocente, continuò a vivere felice nel suo verde prato, correndo verso la sua morbida e tiepida mamma ogni volta che si sentiva stanco o spaventato, e sapendo sempre di essere amato. La sua vita era fatta di semplici gioie, amicizie e l'amore incondizionato della sua mamma.
+</body>
+```

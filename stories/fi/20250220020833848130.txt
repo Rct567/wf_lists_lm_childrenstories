@@ -1,0 +1,33 @@
+<prompt>
+Please write a creative and original Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Luonnonlapset ja heidän seikkailunsa'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>fi</lang_id>
+
+<title>Luonnonlapset ja heidän seikkailunsa</title>
+<body>
+Auringonpaiste lämmitti kuivan heinän peittämää metsänlatua.  Neljä lasta, metsänlapsia,  naurua ja eloa täynnä, hyppivät pitkin polkua.  Kuusisto syöksyi ylös tummana taustana, ja pieni, kirkas puro virtas murinaen heidän edessään.  He olivat Lumi, Vesi, Tuuli ja Maahanjuurtunut.
+
+Lumi,  pitkät vaaleat hiukset tuulen leikitteleminä, oli ilmassa kuin höyhenenpallo. Hänen vaatteensa olivat valkoisia ja siivilöivät auringonvaloa.  Vesi, pehmeät, tummat hiukset sammalin vihreitä,  lähästi purskahti puroa myöten ja hänen vaatteensa välkehtivät sateenkaaren väreillä.  Tuuli,  mustat hiukset kuin pimeä yö,  lensi ja hyppi niiden läpi kuin leijona.  Hänen vaatteensa olivat harmaita ja peittivät hänet kuin tuulen pörröinen peitto.  Maahanjuurtunut,  ruskeat hiukset kuin kuivan lehden sävyt ja vaatteet vihreät kuin kuusen neulat, seisoi maassa vahvana, kiinteänä juurtuneena.
+
+Heillä oli salainen metsä,  pieni ja ainutlaatuinen luola,  piilossa vanhan kuusen juuren alla.  Siellä he kokivat ainutlaatuisia seikkailuja,  joka päivä uusi. Tänään heidän tehtävänään oli löytää metsän salainen kukka,  kuuluisa "Metsän sydän".  Sen kerrottiin kukkivan vain täydenkuun alla, ja sen terälehdet luvattiin antaa voimaa ja viisautta kaikille, jotka sen löytävät.
+
+He lähtivät matkaan. Lumi lensi kuin höyhenenpallo läpi metsän,  korkeuksissa ja auringonvalossa.  Vesi juoksi puroa myöten,  vaihtetellen purojen ja virtausten välillä.  Tuuli,  hurja myrsky kuin metsän henki,  hyppeli pitkin puita.  Maahanjuurtunut,  kypsä ja rauhallinen,  etsi polkuja,  joita muut eivät nähneet.
+
+Matkalla he kohtaavat hämähäkin, joka pyöritti verkkojaan taitavasti ja piti kiehtovaa tarinaa.  Se kertoi heille metsästä, puiden ja lintujen tarinoista, ja siitä, kuinka tärkeää on olla lempeä ja kunnioittaa luontoa.  Lumi oppi kuuntelemaan, Vesi oppi olemaan rauhallinen, Tuuli oppi olemaan lempeämpi ja Maahanjuurtunut oppi arvostamaan pienimmätkin olennot.
+
+He ylittivät virtaavan joen,  hyppeli pitkin kiviä,  ja tunkeutuivat läpi pimeän männikön.  Ilta alkoi laskea ja täysikuu valaisi metsää.  He löysivät metsän sydämen.  Se oli upea kukka,  sen terälehdet loisti kuin tuhat tähtiä.  Kukka oli syvään upea,  ja se oli auringon ja kuun ikuisesti luoma.
+
+He istuivat kuun valossa ja katselivat kukkaa.  Lumi keräsi kukasta punaisia terälehtiä ja laski ne pitkäksi, herkäksi sateenkaaren, joka muodostui metsän lapsista. Vesi kaunisteli kukkaa heidän hiuksillaan, Tuuli puhalsi aavemaisesti heille voimaa ja Maahanjuurtunut tuki heitä kiinteästi juurtuneella läsnäolollaan.
+
+He huomasivat, että kukka ei ollut vain kaunis, vaan se oli täynnä metsän salaisuuksia.  He oppivat, kuinka tärkeää on pitää huolta luonnosta, kunnioittaa sitä ja elää sen rytmin mukaan. He ymmärsivät, että voima ja viisaus tulevat metsästä ja sen monista ihmeellisistä olennoista.  He eivät vain löytäneet kukkaa, vaan he löysivät itsensä.
+
+Täydenkuun alla,  metsän sydän täynnä voimaa ja viisautta,  he nauttivat metsän levosta ja luontoon syöksyvistä tunteista. He olivat luonnon lapsia, ja luonnon maailma oli heidän oma salainen maailmansa.  He palasivat läpi metsän,  uusien tuntemusten ja kokemusten täynnä.  Luonnon voima virtas heidän suonissaan,  ja he tietivät, että metsä aina odottaisi heitä.  Ja niin he olivat,  Luonnonlapset,  ihanat ja ainutlaatuiset.
+</body>

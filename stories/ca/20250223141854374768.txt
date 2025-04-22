@@ -1,0 +1,51 @@
+<prompt>
+Please write a uncomplicated Catalan children's story that is at least 1000 words long.
+It must be completely written in proper Catalan (CA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La colla dels detectius joves'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>ca</lang_id>
+
+<title>La colla dels detectius joves</title>
+<body>En un petit poble anomenat Sant Pere, situat a la costa catalana, hi vivia un grup de nens i nenes amb una gran passió per la investigació i el misteri. Eren coneguts com "La colla dels detectius joves" i estaven decidits a resoldre els enigmes i els misteris que es presentaven al seu poble.
+
+La colla estava formada per cinc amics: en Marc, la Lluïsa, l'Anna, en Joan i en Pere. Tots ells tenien uns 12 anys i havien conegut els gegants de la literatura detectivesca, com en Sherlock Holmes i en Hercule Poirot. Havien llegit tots els llibres de misteri que havien trobat a la biblioteca del poble i estaven decidits a aplicar les seves coneixences per resoldre els casos que se'ls presentessin.
+
+Un dia, mentre estaven asseats a la plaça major del poble, van veure el senyor Smith, el propietari de la botiga de queviures, que estava molt preocupat. "Què passa, senyor Smith?", li va preguntar en Marc. "He perdut la meva caixa forta", va respondre el senyor Smith. "Hi havia tota la meva collita de l'any i ara no sé com pagaria els meus deutes".
+
+La colla dels detectius joves es va mirar entre ells i va decidir que havia arribat el moment de posar en pràctica les seves habilitats. "No pateixi, senyor Smith", va dir la Lluïsa. "Ens encarregarem de trobar la seva caixa forta". El senyor Smith els va agrair i els va donar les gràcies.
+
+Els detectius joves van començar a investigar. Van preguntar als veïns si havien vist res estrany, però ningú no havia vist res. Van buscar per tot el poble, però no van trobar cap pista. La Lluïsa va suggerir que havien de buscar en els llocs més inesperats, com les golfes de les cases o els soterranis. L'Anna va recordar que havia vist un home estrany al poble el dia abans, amb un barret i un abric llarg.
+
+En Joan va preguntar a l'Anna quin era el color del barret de l'home estrany. "Era negre", va respondre l'Anna. En Pere va recordar que havia vist un barret negre a la botiga de segona mà del poble. La colla va decidir anar a la botiga per investigar.
+
+Quan van arribar a la botiga, van veure el propietari, el senyor Johnson, que estava molt nerviós. "Què voleu, nens?", va preguntar. "Estem buscant un barret negre", va respondre en Marc. El senyor Johnson va mirar al voltant de la botiga i va trobar el barret negre en una prestatgeria. "Aquest és el barret que busqueu?", va preguntar.
+
+La colla va examinar el barret i va trobar una pista important. Hi havia un tros de paper enganxat a la cinta del barret amb una adreça. L'adreça era d'una casa a la perifèria del poble. La colla va decidir anar a la casa per investigar.
+
+Quan van arribar a la casa, van veure que estava buida. Però van trobar una pista més. Hi havia un tros de roba enganxat a la porta. La roba era del mateix color que l'abric llarg que havia vist l'Anna. La colla va decidir seguir la pista i van anar a la casa del costat.
+
+A la casa del costat, van trobar l'home estrany que havia vist l'Anna. Estava assegut en una cadira, fumant un cigarret. "Què voleu, nens?", va preguntar. La colla li va preguntar sobre la caixa forta del senyor Smith. L'home estrany va somriure i va dir: "No sé de què parleu".
+
+Però la colla no es va creure. Van buscar per la casa i van trobar la caixa forta amagada en un armari. L'home estrany va confessar que havia robat la caixa forta per pagar els seus deutes. La colla va trucar a la policia i l'home estrany va ser detingut.
+
+El senyor Smith va estar molt agraït a la colla dels detectius joves. Els va donar les gràcies i els va oferir un premi. La colla va decidir utilitzar el premi per comprar uns nous uniformes i un local per al seu club de detectius.
+
+Des d'aquell dia, la colla dels detectius joves va ser coneguda en tot el poble. La gent els anava a veure per resoldre els seus problemes i misteris. La colla va resoldre molts casos i va esdevenir famosa en tot el país.
+
+Un any després, la colla dels detectius joves va rebre una trucada del cap de la policia del poble. "Tenim un cas molt complicated", va dir. "Un joier ha estat robat i no sabem qui és el culpable". La colla va acceptar el cas i va començar a investigar.
+
+Van preguntar als testimonis i van buscar per les escenes del crim. Van trobar una pista important en un tros de paper que havia estat deixat al lloc del robatori. La pista els va portar a una casa a la perifèria del poble.
+
+A la casa, van trobar el joier robat i el culpable. Era un home que havia estat acomiadat del seu treball i volia venjar-se del joier. La colla va trucar a la policia i l'home va ser detingut.
+
+El cap de la policia va estar molt agraït a la colla dels detectius joves. Els va donar les gràcies i els va oferir un altre premi. La colla va decidir utilitzar el premi per anar de vacances a la costa.
+
+La colla dels detectius joves va continuar resolent casos i misteris durant molts anys. Van esdevenir famosos en tot el país i la gent els anava a veure per resoldre els seus problemes. La colla va demostrar que fins i tot els nens i nenes poden fer grans coses si treballen junts i utilitzen les seves habilitats.
+
+I així, la colla dels detectius joves va continuar investigant i resolent casos, sempre amb la seva famosa frase: "La veritat sempre surt a la llum".</body>

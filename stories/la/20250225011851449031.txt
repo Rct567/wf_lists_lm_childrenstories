@@ -1,0 +1,41 @@
+<prompt>
+Please write a educational Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'De Mysterio De Casa Qui Apparuit In Nubes'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>la</lang_id>
+
+<title>De Mysterio De Casa Qui Apparuit In Nubes</title>
+<body>Erant in urbe magna duae puellae, nomine Lucia et Julia, quae in eodem vico habitabant. Erant amicae optimae et semper in communi ludere volebant. Gaudere solebant ludis et risui, et numquam se separare voluerunt. 
+
+Una die, cum sol esset in caelo et nubes essent albae, puellae de mysterio audiverunt. Audiverunt de casa quae in nubibus apparuit, et omnes in urbe de ea loquebantur. Lucia et Julia curiosae erant et scire volebant quid esset hac casa. Itaque, decisionem ceperunt ut irent et explorarent.
+
+Per vias et plateas ambulabant, et omnes quos videbant interrogabant de casa in nubibus. Respondit unus senex: "Casa in nubibus est locus magicus, ubi omnia possibilia sunt. Sed caveat, puellae, quia via ad casam periculosa est." Lucia et Julia non timuerunt, sed magis curiosae factae sunt.
+
+Postquam senex finivit loqui, puellae iter suum continuaverunt. Per montes et vallis ambulabant, et nubes magis magisque appropinquant. Tandem, post multas horas ambulandi, casam in nubibus viderunt. Erat casa magna et alba, cum tecto argenteo et fenestris cristallinis.
+
+Lucia et Julia gaudebant et admiratione plenae erant. Accederunt ad casam et pulsaverunt ianuam. Ianua aperuit, et apparuit vir canus, cum barba longa et oculis sapientibus. "Salvete, puellae," dixit. "Ego sum custos huius domus. Quid vos hic agitis?"
+
+Lucia et Julia explicaverunt cur venissent, et vir canus eis respondit: "Casa in nubibus est locus ubi scientia et sapientia habentur. Hic, omnia secreta naturae et universi revelantur. Sed, ut haec secreta cognoscatis, oportet vos probare vosmetipsas."
+
+Puellae acceperunt probationem, et vir canus eis dedit tria problemata. Primum problematum erat: "Quid est natura temporis?" Lucia respondit: "Tempus est mensura motus et mutationis." Vir canus dixit: "Recte, puella. Tempus est quidem mensura motus et mutationis."
+
+Secundum problematum erat: "Quid est essentia vitae?" Julia respondit: "Vita est motus et actus, qui ab anima et spiritu derivantur." Vir canus dixit: "Recte, puella. Vita est quidem motus et actus, qui ab anima et spiritu derivantur."
+
+Tertium problematum erat: "Quid est finis humanorum actuum?" Lucia respondit: "Finis humanorum actuum est felicitas et beatitudo." Julia addidit: "Et finis humanorum actuum est etiam scientia et sapientia." Vir canus dixit: "Recte, puellae. Finis humanorum actuum est quidem felicitas et beatitudo, et scientia et sapientia."
+
+Postquam puellae problemata solverunt, vir canus eis dixit: "Vos, puellae, probatae estis. Nunc, secreta huius domus vobis revelabo." Et vir canus eis ostendit omnia secreta naturae et universi. Puellae sint gaudebant et admiratione plenae erant.
+
+Tandem, post multas horas, puellae iter suum reverti coeperunt. Per nubes et montes ambulabant, et sol iam occiderat. Cum ad urbem redierunt, omnes de eis et de casa in nubibus loquebantur. Lucia et Julia erant laudatae, quia probatae erant et secreta huius domus cognoverant.
+
+Ab illo die, Lucia et Julia semper de casa in nubibus loquebantur, et de secretis quae ibi cognoverant. Et omnes in urbe sciverunt quod casa in nubibus erat locus magicus, ubi omnia possibilia sunt, et scientia et sapientia habentur.
+
+Et Lucia et Julia vixerunt felices et beatae, et semper amicae optimae fuerunt. Et casa in nubibus semper in memoria eorum fuit, ut locus ubi scientia et sapientia habentur, et omnia secreta naturae et universi revelantur.
+
+Finit</body>

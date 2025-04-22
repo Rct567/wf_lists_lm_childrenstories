@@ -1,0 +1,42 @@
+<prompt>
+Please write a relatable Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Dědeček František a jeho pohádky o kouzelných zvířatech z celého světa.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Dědeček František a jeho pohádky o kouzelných zvířatech z celého světa.</title>
+<body>
+František, starý dědeček s vousy jako srst šedé lišky a s očima, které hluboko svítily, žil v malém domku u lesa.  Jeho dům voněl po čaji a po starých knihách, a když se otevřely dveře, vždy se ozvalo šepotání pohádkových příběhů.  František byl mistrem v vyprávění.  Nejen že dokázal vyprávět o králících, kteří uměli mluvit, ale i o žabách s křídly z perlové slávy, o slonech, kteří tančili na vrcholcích hor a o ptácích, co zpívali jazykem hvězd.
+
+Malá Anička a její bratr Ondřej se s ním každý víkend scházeli.  Anička, s vlasy jako tmavé vlny, a Ondřej, s očima zelenými jako lesní mech, poslouchali dědečkovy pohádky s otevřenou pusou.
+
+Jednoho slunečného sobotního rána, když se slunce prohánělo mezi stromy a malá ptáčí hejna zpívala své radostné písně, se dědeček František usadil do svého oblíbeného křesla.  S úsměvem, který by se dal srovnat s úsměvem slunce po dešti, začal vyprávět.
+
+„Dnes vám, moje drahá vnoučata, pověděl příběh o kouzelném kenguru, jménem Džungle,“ započal dědeček. „Džungle žil v buši Austrálie, plné opic s tvářemi jako rudé zapadající slunce a krokodýlů, jejichž šupiny se leskly jako drahokamy.“
+
+Příběh začal v okamžiku, kdy se malý Džungle, s koženým kožichem a s velkými ušima, snažil skákat nad vysokou trávou. Jeho nohy se třepaly a jeho oči se leskly, když se pokoušel překonat výšku.  Ale skákání se mu příliš nedařilo, a tak Džungle plakal.  Na smůlu Džungleho, ale plač se slétl do ústí divoké řeky.  Do řeky se vydala skupina krokodýlů. Každý krokodýl se docela divil, když viděl, jak tam plave malý kenguru. 
+
+„Co se ti, malý Džungle, stalo?“ zeptal se nejstarší krokodýl, s podivně velkými zuby. Džungle rozplakal plačem, ale co se k němu dostalo, že koukání se na krokodýly ho tak rozplakal?
+
+
+Džungle řekl, že se mu nepodařilo skákat přes trávník.  Krokodýlové se zasmáli, jejich zuby se leskly jako slunce v křišťálové vodě.  A najednou se jeden z nich, s jménem Krok, ozval, "My krokodýlové ti můžeme pomoci!"
+
+Krokodýlové ho naučili, jak skákat a jak sjíždět kopce. Naučili ho, jak se skrýt před sluncem a jak se zahřát v noci. Džungle se brzy stal jedním z nejlepších skokanů v celé buši.
+
+„A pak,“ dodal dědeček František, „se Džungle setkal s malou opičkou, která mu ukázala, jak naslouchat šepotu větru a jak číst jazyk květů.“
+
+Anička a Ondřej se dívali s úžasem.  Příběh byl plný barev a tajemství, plný nových a dobrodružných scenérií.  Ondřej si představil sebe, jak skáče v australské buši a Anička si představovala, jak se učí jazyk květin.
+
+„Dědečku, a co se stalo potom?“ zeptala se Anička.
+
+„Potom,“ řekl dědeček, „se Džungle stal legendou. A jeho příběh se stal poučením pro všechna zvířata v Austrálii.  A tak se tento příběh dostal do světa, a stal se pohádkou.“
+
+Povídání trvalo dlouho, ale když se slunce začalo skrývat za stromy, dědeček František pohladil Aničku a Ondřeje po hlavě.  "Sníte o kouzelných zvířatech z celého světa, a ty pohádky jsou takové, aby se do vašeho života dostala kouzlo a dobrodružství."  Anička a Ondřej usínali se zavřenýma očima, s úsměvy na tvářích a s představami o dobrodružstvích, které je čekaly.  A dědeček František se usadil do křesla a tiše přemýšlel o kouzelných zvířatech a o pohádkových světech, které čekaly na prozkoumání.
+</body>

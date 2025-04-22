@@ -1,0 +1,49 @@
+<prompt>
+Please write a light-hearted Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A boszorkány, aki jót akart, de a varázslata furcsán sült el.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>hu</lang_id>
+
+```html
+<title>A boszorkány, aki jót akart, de a varázslata furcsán sült el.</title>
+<body>
+Egyszer volt, hol nem volt, élt egy Zsófi nevű boszorkány. Zsófi kicsi volt, mint egy katicabogár, zöld haját két copfba fonta, és mindig egy hatalmas, pöttyös kalapot viselt. Nem volt ő egy gonosz boszorkány, sőt! Ő nagyon jó boszorkány volt. Annyira jószívű volt, hogy mindig segíteni akart másokon.
+
+Zsófi házikója egy sűrű erdő szélén állt, tele színes virágokkal és vidám madárcsicsergéssel. Bent, a kis házikóban, egy nagy kerek asztal állt, rajta számtalan furcsa hozzávaló: szárított levélkék, színes bogarak, gombák mindenféle színben és formában, meg persze egy hatalmas üst, ami a legfontosabb dolog volt. Ebben főzte Zsófi a varázsfőzeteket.
+
+Zsófi legújabb ötlete egy nagyszerű dolog volt: egy olyan bájitalt akart készíteni, ami mindenkit boldoggá tesz! Tudta, hogy sokan szomorúak, dühösek vagy csak egyszerűen unottak. Elhatározta, hogy a boldogság varázslatát megtalálja.
+
+Napokig böngészte a varázskönyveit, amik vastagok és porosak voltak, tele rég elfeledett recepttel. Keresett, kutatott, olvasott. Végül megtalálta a receptet, ami reményt adott: "Boldogság Főzete - mosolyra hangolva!". Azonban, ahogy Zsófi olvasott, rájött, hogy ez egy elég bonyolult recept. Rengeteg különleges összetevőre volt szükség.
+
+A recept szerint a főzethez kellett egy csipetnyi tavaszi harmat, egy kis nevető gomba, hét szál napsugár, egy kék pillangó szárnya, és a legfontosabb: a Szeretet Magja. Ez utóbbi egy ritka virág magja volt, ami csak a Holdfényes rét szívében virágzott, éjfélkor.
+
+Zsófi elszántan nekilátott a gyűjtésnek. Először elment a rétre, és óvatosan begyűjtötte a tavaszi harmatot a pázsit fűszálairól. A nevető gombákat könnyű volt megtalálni: az erdőben mindenhol nőttek, és ha meglépte őket, akkor egy halk kuncogás hallatszott fel. A napsugarakat azonban nehéz volt megszerezni. Zsófi sokat ügyeskedett, felmászott a legmagasabb fára, hogy a napsütést bele tudja ragasztani egy kis üvegbe.
+
+A kék pillangó szárnyát nem volt egyszerű leszedni, a pillangók ugyanis gyorsan repültek. Zsófi sokáig üldözte egy pillangót, amíg végül sikerült óvatosan megragadnia egyet, és levennie róla a szárnyat. Végül, éjfélkor elment a Holdfényes rétre. A rét gyönyörű volt a holdfényben, ezüstös fényben úszott. Ott talált a Szeretet Magját, egy aprócska, fénylő magot, a rét közepén virágzó gyönyörű virágban.
+
+Mindent összeszedett, és sietett haza, hogy megfőzze a bájitalt. Belevetette az üstbe a tavaszi harmatot, a nevető gombát, a napsugarakat, a pillangó szárnyát és a Szeretet Magját. Fokozatosan melegítette, keverte, suttogott hozzá varázsigéket. A főzet elkezdett bugyogni, szikrázni, sárgán világítani.
+
+Végül, a főzet elkészült. Arany színű lett, édes illatot árasztott. Zsófi, nagyon izgatottan, kiöntött egy kis üvegbe a bájitalból. Elsőként a kutyáján, Pajtáson próbálta ki. Pajtás odaszaladt, belekortyolt, és… hangosan nevetni kezdett! A kutyák egyébként nem szoktak nevetni, legalábbis nem úgy, mint az emberek. Pajtás hanyatt-homlok szaladgált a kertben, kuncogott és még szaltót is vetett! Zsófi nagyon örült, úgy tűnt, sikerült!
+
+Másodikként a szomszéd bácsit, Sándor bácsit próbálta meg boldogítani, aki mindig mogorva volt. Zsófi odament, és egy kis üvegcse bájitalt adott neki. Sándor bácsi nem sokat kért, de azért megkóstolta a főzetet. Kicsit furcsa íze volt, de nem rossz. Aztán, hirtelen... Sándor bácsi egy hatalmas lufivá változott! Lassan emelkedett a levegőbe, mosolyogva nézett le Zsófira. Zsófi megijedt, de Sándor bácsi csak nevetett, ahogy egyre magasabban szállt.
+
+Zsófi ekkor kicsit megrémült. Úgy tűnt, a bájitalnak mellékhatásai is vannak. Következő alanya egy macska volt, a kis Micike. Micike megitta a főzetet, és... hatalmas nagymama lett! Idős, fehér hajú nagymama, horgolt kardigánban, nagy, piros szemüveggel. Fogta a horgolótűjét, és elkezdet horgolni, de nem harcolót, hanem egy hatalmas, virágos kendőt. Közben tanácsokat adott a kutyának, Pajtásnak, hogyan élhetnének teljes életet!
+
+Zsófi kezdte érteni, hogy a bájital nem egészen úgy működik, ahogy elképzelte. Mindig akartak a dolgok valami furcsa formát ölteni. A következő áldozat egy sün volt, aki a kertben sétálgatott. A sün megitta a főzetet, és azonnal hatalmas tortává változott, amit színes gyümölcsök díszítettek. Persze a madarak rögtön meg akarták enni, aminek Zsófi nem örült.
+
+Ekkor már Zsófi nagyon zavarba jött. Hova vezet ez az egész? Próbált segíteni, boldogságot szerezni, de csak furcsa dolgok történtek. Rájött, hogy valami nincs rendben a recepttel.
+
+Ekkor jött a fekete macskája, Kormos, a bájital szagára. Kormos is megkóstolta. Zsófi nagyon aggódott, hogy most vajon mi történik? Kormos azonban csak egy hatalmas, színes léggömbbé változott, és a levegőbe emelkedett. Ott lebegett, és különböző formákat vett fel: szív, csillag, virág. Kormos a legboldogabbnak tűnt, mert örömében különböző alakzatokba formálódott, mintha sosem unatkozott volna!
+
+Zsófi leült a kerti padjára, és elgondolkodott. A bájital nem hozott igazi boldogságot, de valami csodálatos dolgot mégis eredményezett. A furcsa változások valami mókás, szórakoztató dolgot eredményeztek. A szomszéd bácsi most mosolyogva repkedett a házak felett. Pajtás most is kuncogva ugrált. A nagymacska pedig tanítgatta a kutyát, a süni-torta pedig csak hevert a füvön. Zsófi megfigyelte, hogy a szomszédok és a kutyája egyre többet nevettek, egyre többet szórakoztak.
+
+Hirtelen egy ötlet támadt a fejében. Nem akarta többé az embereket "boldoggá" tenni, hanem arra törekedett, hogy a mindennapi unalomból kizökkentse azokat. Több bájitalt készített, és megpróbálta a szomszédokat még "bolondabbá" tenni. Ez hatalmas siker volt. A szomszédok együtt szórakoztak a nagy, színes léggömb Sándor bácsival, a nagymama-macska bölcsességei mellett pedig nem volt unalom. A torta-süni még több madarat vonzott.
+
+Zsófi azóta sem készít "igazi" boldogság bájitalt. Inkább olyanokat főz, amik egy kicsit megkavarják a dolgokat. Sosem tudhatjuk, mi történik, de épp ez teszi annyira izgalmassá az életét. Persze, mindig ügyel arra, hogy Pajtás ne igyon túl sokat! És mindig készített egy kis bájitalt, hogy mosolyt csaljon az arcokra.

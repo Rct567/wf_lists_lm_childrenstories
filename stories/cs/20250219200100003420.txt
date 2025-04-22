@@ -1,0 +1,45 @@
+<prompt>
+Please write a creative and original Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Lenka a její přátelé na cestě za poznáním'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Lenka a její přátelé na cestě za poznáním</title>
+<body>
+Lenka, malá holčička s kudrnatými vlasy barvy světlého medu, žila v malebném městečku podél břehů Vltavy.  Každé ráno, když se slunce probouzelo a malovalo oblohu do růžova a oranžova, Lenka s nadšením skákala z postele. Ne proto, že by se jí nelíbilo spát, ale proto, že ji čekal úžasný den plný tajemství a objevování.
+
+Jednoho slunečného rána, když Lenka sjížděla na kolečku z kopce k řece, narazila na dva neobvyklé tvory. Byla to Liška s ohnivě rudým kožíškem a Ježek s trnitým pancířem a hnědými ježkami. Liška se jmenovala Lištička a Ježek se jmenoval Ježíšek.
+
+"Dobré ráno," řekla Lenka s úsměvem.  "Kam se chystáte?"
+
+Lištička se na ni podívala s chytrými očima. "Hledáme tajemství Zlaté stezky," odpověděla. "Říká se, že vede k nejkrásnějšímu lesu v celé zemi, plnému zázraků a dobrodružství."
+
+Ježíšek přikývl. "A my věříme, že tam najdeme i odpověď na naši nejhlubší otázku," zašeptal.
+
+Lenka se rozjasnila. "Já se s vámi chci jít podívat!" zvolala.  "Mám zkušenost s hledáním dobrodružství, i když jsem ještě nikdy neviděla Zlatou stezku."
+
+Tak se vydaly na cestu.  Nejprve překonaly štědře kvetoucí louku, plnou barev a vůní.  Pak proplouvaly podél Vltavy, která se vlní jako stříbrná stuha.  Lištička, s neskutečnou lehkostí, skákala z kamení na kámen. Ježíšek, s úžasnou opatrností, se plazil po zemi,  čichal k květinám a objevoval skryté cestičky. Lenka, na kolečku s obrovským košíkem, v němž přenášela zásoby a mapu s pokyny, jim s nadšením naslouchala.
+
+Cesta nebyla jednoduchá.  Potkali chytrá ptáčka, který znal tajný jazyk stromů.  Potkali i laskavou včelu, která jim darovala sladký med a ukázala cestu přes hluboký les.  Překonali hluboké údolí, kde se jim zjevila záhadná hora s tajemným leskem.
+
+Na vrcholu hory se konečně objevila Zlatá stezka.  Byla to zářivě žlutá cesta, která se klikatila mezi zalesněnými kopci a vedla do údolí, kde stál krásný les, plný záhadných zvuků a barev.  Všechny stromy se svíjely do nejrůznějších tvarů, jejich koruny se dotýkaly nebe a zdálo se, že ho drží. 
+
+"Je to úžasné!" vydechla Lenka.
+
+"Vidíte? To je úžasný les!" zvolala Lištička a její oči zářily radostí.
+
+V lesích narazily na tajemný vodopád, kde se skrývala tajemná jeskyně.  Uvnitř jeskyně uviděli posvátnou knihu, plnou krásných ilustrací a moudrých textů.  Kniha vyprávěla příběhy o lese, o zvířatech, a o samém světle. A nakonec, v samém srdci knihy, se objevila odpověď na otázku Ježíška.
+
+"Tajemství leží v harmonii," psalo. "V harmonii mezi stromy, zvířaty a lidmi. V harmonii s přírodou."
+
+Lištička, Ježíšek a Lenka si opatrně prohlíželi krásnou knihu.  Byli nadšení a zároveň zamyšlení.  Pochopili, že tajemství je skryto v každé maličkosti, v každém kousku přírody.
+
+S novým poznáním a v srdcích plných radosti se vrátili do městečka.  Od té chvíle se Lenka o přírodu starala s ještě větší úctou a pochopením.  Lištička se stala její nejlepším rádcem, Ježíšek jejím spolehlivým přítelem. Věděli, že poznání se skrývá všude kolem nás, a že je jen na nás, abychom jej objevili.  A tak se Lenka s jejími přáteli vydávala na nové cesty poznání, protože věděla, že svět plný tajemství je nekonečný a čekají ji ještě mnohá dobrodružství.
+</body>

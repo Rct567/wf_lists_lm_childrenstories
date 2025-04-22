@@ -1,0 +1,43 @@
+<prompt>
+Please write a simple and easy-to-follow Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Dobrodružství ve městě plném zajímavostí'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Dobrodružství ve městě plném zajímavostí</title>
+<body>
+Malý Pepa s velkýma, dohněda zářícíma očima žil v krásném městě Plzeň. Město bylo plné tajemství a úžasných věcí, které se jenom čekaly, až je objeví.  Pepa miloval procházky, a tak se každý den vydával na novou výpravu.  Jednoho krásného slunečného rána se rozhodl objevit tajemství staré radnice.
+
+Radnice stála na náměstí uprostřed květinových záhonů a sváděla k neutuchajícímu obdivování.  Její věž se tyčila do nebe a zdála se ztracená mezi mraky. Pepa s úžasem pozoroval zdobené kameny, které tvořily fasádu.  Bylo na nich vyryto mnoho krásných obrazců, ale Pepa zjistil, že se snaží dešifrovat jeden zvláštní.  Byly to zvláštní tvary –  čáry, kroužky a různé geometrické obrazce.  
+
+Pepa se rozhodl, že tento záhadný vzor musí rozluštit. Procházel se okolo radnice a hledal stopy.  Zastavil se u stánku s lízátky, které voněly po jahodách a malinách.  Rozhodl se, že se na chvilku odmění, ať si uleví od úvah o záhadném vzoru. Lízátko ho zaryté chvilečkami odměnilo.
+
+Když se vrátil k radnici, všiml si, že vzor je jiný.  Sluníčko se posunulo a s ním se i vzor na fasádě změnil. Bylo to jako kouzlo!  Zaujalo ho to.  Pomalu začal pochopit, že vzor se mění podle polohy slunce.
+
+Pepa se s nadšením pustil do zkoumání dalších částí radnice. Objevil krásný sochařský detail, zobrazující lva s otevřenou tlamou a upřenýma očima.  Sochařský detail ztělesňoval moc a sílu města. Pepa se zamyslel nad tím, co lvi představují. Zdálo se, že chrání a stráží tajemství města.
+
+V jedné z vedlejších uliček narazil na starou paní se krásnou pletenou košilí.  Zeptal se jí na záhadné obrazce.  Paní, která se jmenovala Libuše, mu s úsměvem vysvětlila, že jsou to historické symboly Plzně.  Každý vzor, každá čára a každý kroužek představuje událost nebo osobnost z historie města.  
+
+Libuše mu vyprávěla o starých Plzeňských pivovarech, o hrdinech, kteří bránili město, a o vynálezcích, kteří v Plzni tvořili.  Pepa se dozvěděl, že každý vzor na fasádě radnice je jako malý příběh, čeká jen na to, až ho někdo objeví.
+
+"Takže," řekl Pepa, "každý vzor na radnici je jako kus historického puzzle?"
+
+"Přesně tak," řekla Libuše.  "A ty jsi ho objevil."
+
+Pepa se podivoval nad tím, že se záhadné obrazce mění podle světla. Nechápil to. Libuše mu vysvětlila, že to je součást tajemství.  Slunce, úžasná energie, která ohřívá zem, se podílí na tomto kouzlu.  Když se mění slunce, mění se i obrazce, aby se Plzeň vždy ukázala v novém světle.
+
+Zdálo se, že záhadný vzor na fasádě ho chce naučit, jak se dívat na svět s pozorností a jak vnímat věci z různých úhlů.
+
+Pepa si uvědomil, že Plzeň je plná fascinujících příběhů.  Rozhodl se, že je bude zkoumat dále a že se stane skutečným objevitelem Plzeňských tajemství.  Nechal se unést fantazií a pomyslel si, že i on se stane součástí historie Plzně.
+
+Někde v dálce zazvonil zvonek.  Byl čas oběda.  Pepa s novými zjištěními a objevy plný fantazie šel domů.  Věděl, že dnes objevil jenom malou část tajemství Plzně.  Ale to ho nevadilo.  S radostí si uvědomil, že objevování tajemství je to nejkrásnější dobrodružství, které si může představit.
+
+A tak se Pepa dál toulal po Plzni, objevoval nové úhly pohledu, a v každém kameni a v každém koutě města hledal další fascinující a vzrušující dobrodružství.  
+</body>

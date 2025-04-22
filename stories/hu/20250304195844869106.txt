@@ -1,0 +1,39 @@
+<prompt>
+Please write a simple and easy-to-follow Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Lili, a lány, aki beszélt a fákkal'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>Lili, a lány, aki beszélt a fákkal</title>
+<body>
+Lili egy kislány volt, akinek nagy haja volt, mint a sötét szőke arany, és szemei, mint a tiszta kék ég.  Élt egy kis faluban, melyet öreg, hatalmas fák vették körül. Minden reggel, amikor kiment a házból, a fáknak üdvözölte őket.  Nem azért, mert ezt mindenki tette, hanem mert ő érezte, hogy beszélgetni lehet velük.
+
+Egyik reggel, amikor a nagy, öreg tölgyfa alatt ült, egy apró hang szólalt meg a fák között. – Lili – suttogta a hang. Lili meglepődött, és körbenézett, de senkit sem látott.  A levelek susogtak, a szél pedig viccesen játszott a fűszálakkal. Nem értette, hogy honnan jött a hang. A tölgyfa hatalmas, vastag törzsébe kapaszkodva, mosolyogva válaszolt.
+
+– Én itt vagyok, a fák között. – válaszolta Lili. – Meghalljátok a leveleket suttogni? Érezzétek a szél suhanását a lombkoronán. Ti vagytok a titkaim őrei, a barátaim, a falum lelke.
+
+A hang mosolygott, és egy gyönyörű, finom virág bontakozott ki a fák ölelésében. Színe a tavaszi virághoz hasonlított, illata pedig édes volt, mint a legédesebb méz.  Lili mosolygott a virágra, és érezte, hogy ez a találkozás egy fontos lépés. Úgy érezte, hogy mindenki benne van benne ebben a különleges hangulatban. Minden levél, minden fa, minden madár éneke  őrizt egy apró csodát.
+
+Egyik nap, a szomszédos mezőre tévedt. Ott, egy eldugott kis réten ült le, miközben hallgatta a csodálatos madárdalt. A madarak énekének különös üzenete volt, sőt minden hangnak, mint egy üzenetnek, a maga jelentése volt. Szikrázóan csillogtak a nap sugarai, miközben énekeltek a szél susogása, a fű csóválása és az illatos virágillat,  Lili felnézett. Egyszerre  egy fájdalmas jaj hangzott el.
+
+Lili gyorsan körbe nézett, egy csiripelő énekesmadárra talált. Nagy szemeit a fájdalomtől elkápráztatva nézték a kis madarat, amint a lábán vér csöpögött.
+
+"Mi történt?" kérdezte Lili, megérintette a lábát. A kis madár félelemmel nézett rá.
+
+"Jaj, Lili. A vadász...a nagy vadász... a fák között bújt és felhúzott egy nagy hálót. Ez a rossz háló megakasztódott, a kis lábamon... megvágta a szál." mondta a kis madár Lili szemébe nézve, majd felzokogott. Lili szívben sajnálatát érezte a kis madárnak.  Nem szabadna senki másnak semmi rosszat tenni, soha sem.
+
+"Én segítek," mondta Lili határozottan. Megnézte a közelben növő kis virágokat, és találtak egy kicsi és nagyon fontos megoldást.  Lili visszament a kunyhójához, egy kis vágásból, levágott egy csomó szót és minden más szükséges matériát a virágból. Megfeszítette mind a tudását és képzelőerejét, hogy megmentse a kis madarat. Végül sikerült segíteni rajta és szelíden bekötözni a sebet.
+
+"Köszönöm Lili. Te voltál a megmentőm," köszönte meg a madár.
+
+Lili mosolygott. Úgy érezte, a fák és az állatok elismerték jótéttet. Innen kezdve még szorosabbá vált a kapcsolata a fák világával, mintha a fák beszéltek volna hozzá a levelek zúgása által.
+
+Több hétig gyógyította Lili a sérült madarat, gondosan odafigyelve minden apró részletre. A fák pedig hallgattak.  A hangjuk hallatszódott a szélen, amikor Lili elment, és láthatta, ahogyan a fák szelíden suhantak, mint a kedves ölelés.  Lili, a lány, aki beszélt a fákkal,  már nem csak a levelek suttogását hallgatta, hanem a fák bölcsességét és az állatok sírását is.
+</body>

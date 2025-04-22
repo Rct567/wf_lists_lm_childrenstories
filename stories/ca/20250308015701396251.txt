@@ -1,0 +1,49 @@
+<prompt>
+Please write a fun and entertaining Catalan children's story that is at least 1000 words long.
+It must be completely written in proper Catalan (CA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'En Pere i els seus amics rescaten el sol que s'havia fet petit.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>ca</lang_id>
+
+<title>En Pere i els seus amics rescaten el sol que s'havia fet petit</title>
+<body>En un petit poble situat en un racó apartat de Catalunya, hi vivia un noi anomenat Pere. Era un noi molt curiós i aventurer, amb els cabells rossos i els ulls blaus. Li encantava explorar els voltants del poble i descobrir nous llocs i coses.
+
+Un dia, mentre Pere jugava al carrer, va notar que el sol no era tan gran i brillant com sempre. De fet, semblava que s'havia fet petit, com si hagués perdut la seva llum i el seu calor. Pere es va preguntar què podia haver passat i va decidir investigar.
+
+Va anar a parlar amb els seus amics, la Maria i l'Enric, que eren els seus companys de aventures. La Maria era una noia molt intel·ligent i resourceja, amb els cabells negres i els ulls marrons. L'Enric, en canvi, era un noi molt fort i valent, amb els cabells castanys i els ulls verds.
+
+Els tres amics van decidir anar a parlar amb el saví del poble, que era un home molt vell i sabut. El saví els va explicar que el sol s'havia fet petit a causa d'una maledicció que havia estat llançada per una bruixa dolenta. La bruixa havia estat ofesa pel poble i havia decidit castigar-los fent que el sol perdes la seva llum i el seu calor.
+
+Els amics van decidir que havien de fer alguna cosa per trencar la maledicció i recuperar el sol. El saví els va donar un mapa que els portaria fins a la casa de la bruixa, on podrien trobar la clau per trencar la maledicció.
+
+Van començar el seu viatge, caminant per un bosc dens i fosc. El camí era difícil i ple de perills, però els amics no es van rendir. Van trobar un riu que havien de creuar, i l'Enric va utilitzar la seva força per portar la Maria i en Pere a l'altra riba.
+
+Un cop a l'altra riba, van continuar el seu camí fins que van arribar a una muntanya alta i escarpada. La pujada era difícil, però la Maria va utilitzar la seva intel·ligència per trobar el camí més segur i fàcil.
+
+Finalment, van arribar a la casa de la bruixa, que era una casa gran i espantosa. La bruixa els va rebre amb una cara dolenta i els va dir que no podrien trencar la maledicció. Però els amics no es van rendir i van començar a buscar la clau.
+
+Van trobar una habitació plena de llibres i papers, i la Maria va començar a buscar entre ells. L'Enric va trobar una caixa de fusta que estava tancada amb un cadenat, i en Pere va utilitzar la seva curiositat per trobar la clau del cadenat.
+
+Dins de la caixa, van trobar un pergamí que explicava com trencar la maledicció. Havien de recollir tres objectes màgics: una flor que només floreix a la llum del sol, una pedra que només es troba a la nit i una gota d'aigua que només es troba en un llac secret.
+
+Els amics van decidir dividir-se per recollir els objectes màgics. La Maria va anar a buscar la flor, l'Enric va anar a buscar la pedra i en Pere va anar a buscar la gota d'aigua.
+
+La Maria va trobar la flor en un camp ple de flors, però va haver de superar un obstacle: un grup d'abelles que la volien atacar. La Maria va utilitzar la seva intel·ligència per fer-les fora amb un fum que havia trobat en un racó del camp.
+
+L'Enric va trobar la pedra en una cova fosca, però va haver de superar un altre obstacle: un grup de ratpenats que el volien atacar. L'Enric va utilitzar la seva força per fer-los fora amb una torxa que havia trobat en un racó de la cova.
+
+En Pere va trobar la gota d'aigua en un llac secret, però va haver de superar un obstacle: un grup de peixos que el volien atacar. En Pere va utilitzar la seva curiositat per fer-los fora amb un joc que havia trobat en un racó del llac.
+
+Els amics van tornar a la casa de la bruixa i van combinar els objectes màgics per trencar la maledicció. La bruixa va intentar aturar-los, però els amics van ser massa forts i van aconseguir trencar la maledicció.
+
+El sol va tornar a ser gran i brillant, i el poble va tornar a ser feliç. Els amics van ser rebuts com a herois i van celebrar la seva victòria amb una gran festa.
+
+Des d'aquell dia, en Pere, la Maria i l'Enric van ser coneguts com els herois que van rescatar el sol. Van continuar tenint moltes aventures junts, sempre utilitzant la seva intel·ligència, força i curiositat per superar els obstacles i aconseguir els seus objectius.
+
+I així, la història d'en Pere i els seus amics es va convertir en una llegenda que es va transmetre de generació en generació, recordant als nens i nenes la importància de la intel·ligència, la força i la curiositat per aconseguir els seus objectius i superar els obstacles de la vida.</body>

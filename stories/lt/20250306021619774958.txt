@@ -1,0 +1,37 @@
+<prompt>
+Please write a relatable Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Žalių Laukų ir Linksmų Vėjų Nuotykiai'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>lt</lang_id>
+
+<title>Žalių Laukų ir Linksmų Vėjų Nuotykiai</title>
+<body>Kadaise, toli, toli, buvo žemaitijos kaimas, apsuptas žalios diemedžio ir šaltinių. Šis kaimas vadinosi Žalieji Laukai. Čia gyveno daug vaikų, kurie visada buvo linksmi ir laisvi. Jie bėgdavo po laukus, žaistų su gyvuliais ir leisdavo burbulis ant šaltinių vandens.
+
+Vienas iš tų vaikų vadinosi Jonas. Jis buvo labai drąsus ir visada norėjo tyrinėti naujas vietas. Jonas turėjo gerus draugus - štai, tai buvo keturių metų mergaitė Urtė ir devynerių metų bernių Dovydas. Jie visi kartu bėgdavo po kaimą, tyruodavo miškus ir kalnus.
+
+Viename dieną, kai Jonui, Urtei ir Dovydui buvo labai karšta, jie nusprendė eiti į mišką. Jie šoko per šaltinius ir kopia per kalnus. Pamažu, jie pasiekė didelį, tylų ežerą. Ežeras buvo pilnas žuvų ir vandens lelija. Vaikai buvo labailinksmai ir nusprendė pasitepti ežero vandenyje.
+
+Kai jie plaukė, jie pastebėjo didelę, balta burla, kuri skriejo ežero vandenyje. Burla buvo labai graži ir šviesi. Vaikai nusprendė prieiti prie jos ir tyrinėti. Kai jie atėjo artyn, jie pamatė, kad burla yra pilna spalvotų paukščių ir gėlių.
+
+Burla kalbėjo su vaikais ir pasakė, kad ji bijo linksmų vėjų, kurie pučia per ežerą. Vaikai nusprendė padėti burlai ir kartu su ja išplaukti į ežero vidurį. Kai jie plaukė, jie pradėjo dainuoti ir šokti. Linksmieji vėjai, kurie pučia per ežerą, pradėjo dainuoti ir šokti kartu su vaikais.
+
+Pamažu, vėjai tapo vis labiau linksmi ir pradėjo pučiauti vis stipriau. Burla pradėjo skrietis vis greičiau ir vaikai buvo vis labiau linksmai. Jie visi kartu dainavo ir šoko, kol ežeras nebuvo pilnas linksmų žuvų ir paukšči�ENDERų.
+
+Kai saulė nusileido, vaikai ir burla grįžo atgal į kaimą. Visi kaimo gyvenjieji buvo labai linksmai ir laukė vaikų sugrįžimo. Jie visi kartu šoko ir dainavo, kol visą kaimą buvo pilna linksmų žmonių ir dienų.
+
+Jonas, Urtė ir Dovydas buvo labai linksmai ir turėjo daug nuotykių su burla ir linksmiaisiais vėjais. Jie visi kartu šoko ir dainavo, kol Žalieji Laukai nebuvo pilna linksmų dienų ir vaikų.
+
+Vėliau, vaikai nusprendė kurti savo draugų būrelį, kuris vadinosi "Linksmų Vėjų Draugai". Jie visi kartu rengdavo linksmus renginius ir šventes, kai visi kaimo gyventjieji būdavo kviečiami.
+
+"Linksmų Vėjų Draugai" tapo labai žinomi visoje šalyje ir visi vaikai norėjo būti šio būrelio nariais. Jonas, Urtė ir Dovydas buvo labai linksmai ir turėjo daug nuotykių su savo draugais.
+
+Kai Jonas, Urtė ir Dovydas užaugo, jie niekada neprarado savo linksmybės ir nuotykių. Jie visi kartu liko dienų ir vaikų draugais, o Žalieji Laukai visada buvo pilna linksmų dienų ir diemedžių.
+
+Ir taip, Visi vaikai nusprendė, kad "Žalių Laukų ir Linksmų Vėjų Nuotykiai" yra patys geriausi nuotykiai visoje šalyje. Jie visi kartu dainavo ir šoko, kol visą šalį buvo pilna linksmų dienų ir vaikų.</body>

@@ -1,0 +1,45 @@
+<prompt>
+Please write a light-hearted Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Salaisen metsän ääretön kauneus ja upeat eläimet'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>fi</lang_id>
+
+<title>Salaisen metsän ääretön kauneus ja upeat eläimet</title>
+<body>
+Aamu alkoi lumisena ja kylmänä, kuin pakkasen pusahdus poskelle.  Kerttu, pieni tyttö, jolla oli suuret, kirkkaat siniset silmät ja pitkä, punainen nauha hiuksissaan, suuntasi askeleet salaiseen metsään.  Hänen sydämessään loisti uteliaisuus ja odotettavissa oleva ihmeiden maasto.
+
+Metsä oli kuin salaperäinen maaginen portti.  Puiden rungot olivat kuin jättiläisiä, joiden kädet kohosivat taivasta kohti, ja lehdet, punaiset, keltaiset ja oranssit, tuiskasivat hiljaa maan pinnalla.  Ilmassa leijui hämmentävä tuoksu, täynnä mäntyä ja märkiä havupuita, sekoitettuna kuin jokin salaperäinen siideri.  Kerttu nauratti, kun näki jäniksen kiemurtelee kiireesti metsän varrella ja metsojen leikkaavaa tanssia havupuiden takana.
+
+Tällä kertaa Kerttu ei etsinyt vain tuttuja metsän asukkaita, vaan hänen mieli oli täynnä toiveita ja odotuksia.  Legenda kertoi salaisen metsän äärettömästä kauneudesta ja siellä asuvista, erikoisista eläimistä. Sanottiin, että vain kuuntelemalla tarkkaan metsän salaisia ääniä, ja tuntien sen rytmin, pystyt näkemään kaiken tämän mysteerin.
+
+Pian Kerttu huomasi kultaisen, säihkyvän punaisen loistimons. "Upeus, oletko täällä?"  hän kuiskasi eläimelle, joka istui puun tyvessä.  Pieni lohikäärme oli Kertun suurinta ihailua, täynnä erikoisia upeita leikkisyyttä ja ilmeitä, se oli ihana!  Se oli niin pieni, ettei sen koko ylittänyt Kertun peukalon pään.  Se oli täydellinen ja silottava.
+
+"Tervetuloa, Kerttu!" loistimos kiljahti ilotanssiaan heittelemä.  "Kuulitko, metsässä on tulossa tärkeä tapahtuma, kaikkien eläinten suuri tapaaminen."
+
+Kerttu tunsi kylmän äänensä uudestaan ja totesi, että "tapahtuma, se on minullekin uutta tietoa."
+
+"Totta kai, minun pitäisi kertoa siitä!" loistimos selitti iloisena. "Kuningas Pyhäpää, kauniin linnun kuningas, vietetään suurta juhlia ja järjestää tansseja kaikille eläimille."  Kerttu oli kiehtomana ja iloissaan siitä!
+
+"Tanssia! Onkos tanssia kaikkien eläinten kanssa?"
+
+"Oikeastaan, Kerttu", loistimos kertoi "Ei tämä ainoastaan tanssia ole, sillä myös kuorot ovat esiintymässä, lauluja ja kiehtovia seikkailuja!"
+
+Kerttu juoksi yhä syvemmälle metsään.  Hänen korvansa erottivat eläinten hiljaista kimeän uimata, kuten pikku lintujen vinksahtaneiden laulujen.   Taas upeat äänet toivat hänelle lopulta paikkaan.
+
+Ja Kerttu näki sen.  Jättimäinen avautumassa olleen puun alla, oli suuressa autiossa tilaa.  Kuin lumoavana valona, ihmeellisiä valoja koristelivat koko alppitilaa ja kirkkaan sinisen aurinko tuiskeli valon peittoon.  Tämä oli tanssipaikan tunnelmaa, ja siinä tanssivat kaikki metsän ihmeet.  Iso eläinsarvet yhtä hyvin tanssijoita!
+
+Yli 50 ihanaa eläintä kietoutui toisiinsa, kaikkien eläinten tunteiden kattamana! Kuuluisat eläimet loivat aamun ääniä ja hymyjä, kaikki kiehtovasti nauttien toisistaan!
+
+Peurat kääntelehtivät, metsot loikkivat kuin tulipalloja.  Jänikset hyppäsivät kuin kirjavia pilviä.  Linnut lauloivat ja heitä ympäröi kaunis laulu ja loiste.  Kaiken keskuudessa tanssi Kerttu, yhdessä kaikkien kanssa.  Lohikäärme-Loistimos pomppasi tyttön seurassa.
+
+Juhlallisuuksien tunnelmaa täytti ääni, täynnä naurua, ääntä ja iloista tanssia.  Auringon kultaiset säteet tanssivat tansseissa mukana ja metsässä heiteltiin valoa, joka peitti kaikki värisävyistä.
+
+Juhlia riitti koko yön.  Kerttu oppi, että metsä ei ole vain paikka, vaan eläinten kotiin, ja kaikenlaisten upeiden äänien ja tanssien kohtaamiseen.  Hänen sydämessään kasvoi ilo ja ymmärrys luonnon ihmeellisestä kaiken omasta kauneudesta.  Kun aamu lopulta tuli ja toi yhä kuivemman valon, ja ilmeiden muuttuessa ja loisto muuttui syvemmän ja täydellisemman valokuvaukseen ja valon säilyttämiseen, Kerttu läksi.  Loistavia hetkiä metsässä on ollut hänen iloinen seurustelu ystävilleen eläimille.  Nyt Kerttu menee ja odottaa jatkamista, ja eläinten ihmeitä toivomalla uudelleen koko elämänsä.
+</body>

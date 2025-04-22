@@ -1,0 +1,57 @@
+<prompt>
+Please write a fun and entertaining Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'An Rí a Bhí ag Lorg an Crota Nua sa Tír.'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>ga</lang_id>
+
+```xml
+<title>An Rí a Bhí ag Lorg an Crota Nua sa Tír.</title>
+<body>
+Bhí uair ann, i dtír ar a dtugtaí Éire, rí mór le rá ann, Rí Donnchadh. Bhí Donnchadh ina rí cineálta, ciallmhar agus lách. Bhí sé ag grá gach rud a bhain le hÉire. Bhí sé ag grá an ceol, na dathanna glé, na scéalta mór agus na daoine a bhí ina gcónaí sa tír. Ach bhí rud amháin a bhí ag cur isteach ar Donnchadh le tamall anuas. Bhí a chrota, an uirlis cheoil is fearr leis, briste.
+
+Bhí an crota seo ina shean-chomharba agus bhí sé ar cheann de na nithe ba luachmhaire sa ríocht. Bhí sé déanta as adhmad darach a bhí sean agus láidir, agus bhí na sreangáin déanta as gruaig capall a bhí caomhnaithe go cúramach. Nuair a sheinn Donnchadh an crota, bhíodh an ceol chomh draíochtúil, go stopfadh na héanacha ag canadh, agus go ndéanfadh na crainn rince leis an ghaoth. Ach, ar an drochuair, lá amháin, nuair a bhí Donnchadh ag iarraidh ceol a dhéanamh do na daoine, bhris ceann de na sreangáin.
+
+"Ó, mo chroí!" a dúirt Donnchadh le osna. "Céard a dhéanfaidh mé anois? Ní féidir liom mo cheol a imirt!"
+
+D’iarr sé ar a chomhairleoirí is fearr teacht chuige. Bhí comhairleoirí Donnchadh ina bhfearaibh agus mnáibh ciallmhara, agus bhí siad ar fad ag iarraidh cabhrú. "Caithfimid crota nua a fháil duit, a Rí," a dúirt siad. "Ach cá bhfaighfimid crota a bheas chomh maith leis an gceann a bhris?"
+
+Chuaigh Donnchadh agus a chomhairleoirí ar thóir crota nua ar fud na tíre. Thosaigh siad i mBaile Átha Cliath, an phríomhchathair, áit a raibh ceardlanna ceoil agus siopaí uirlisí ar gach aon choirnéal. Chuaigh siad isteach i ngach siopa, ag breathnú ar chrotaí de gach saghas agus méid. Bhí roinnt acu ró-bheag, roinnt acu ró-mhór, agus roinnt acu nár fhuaimigh go maith ar chor ar bith. Ní raibh aon cheann acu chomh draíochtúil leis an gcrota briste.
+
+Chuaigh siad ansin go dtí Contae Chorcaí, áit a raibh ceol na ndaoine ag síor-chloisteáil i ngach áit. Bhí féilte ceoil agus ceardlanna ag gach aon bhaile beag. D'éist Donnchadh le ceoltóirí d'aois ar fad, agus chonaic sé crotaí a bheag agus a mhór, ach ní raibh aon cheann acu oiriúnach.
+
+Agus ansin, shroich siad Conamara, áit a raibh an tír chomh draíochtúil agus chomh fiáin. Bhí an ceol ag teacht ó na pubanna beaga, agus bhí an fharraige ag bualadh leis an gcladach. Lá amháin, agus iad ag siúl tríd an gceantar, chuala siad ceol álainn ag teacht ó bhothán beag. D'oscail Donnchadh agus a chomhairleoirí an doras agus chonaic siad seanfhear ag seinm crota.
+
+Bhí an seanfhear ina chónaí ina aonar sa bhothán beag, agus bhí a chrota déanta as adhmad fíor-daraigh agus sreangáin ó chaoire. Bhí an ceol a bhí á imirt aige chomh draíochtúil agus a bhí sé ag súil leis.
+
+"Fíor-álainn!" a dúirt Donnchadh. "Cad is ainm duit, a dhuine uasail?"
+
+"Is mise Pádraig," a d'fhreagair an seanfhear agus é ag miongháire. "Agus is mise an fear a dhéanann na crotaí."
+
+"An féidir leat an crota seo a dhíol liom?" a d'fhiafraigh Donnchadh, ag pointeáil ar an uirlis álainn.
+
+"Ní dhíolfainn mo chrota," a d'fhreagair Pádraig. "Ach mura bhfuil tú in ann do cheol a imirt, cad is fiú an crota duit?"
+
+D'fhan Donnchadh beagán buartha. Bhí sé ag iarraidh crota nua ar feadh na seachtainí, ach ní raibh sé ag iarraidh ceol a chloisteáil arís. "Ach is mise an rí," a d'fhreagair Donnchadh. "Ní féidir liom a bheith ag súgradh leis an nguthán seo."
+
+"Is féidir leat a bheith ag súgradh le do chroí," a dúirt Pádraig go socair. "Ní bhaineann an ceol leis an ríocht, ach leis an gcroí. Má tá tú ag iarraidh ceol a dhéanamh, beidh tú in ann."
+
+Chuaigh Donnchadh ar ais ar a chathaoirín agus smaoinigh sé ar na focail seo. D'oscail sé a chroí agus chuimhnigh sé ar an gceol is fearr leis, ar na daoine, ar an tír, agus ar an bheatha. D'iarr sé ar Pádraig an crota a thabhairt dó agus thosaigh sé ag imirt.
+
+Ní raibh sé foirfe, ach bhí sé ó chroí. Agus thosaigh na daoine ag rince, agus na héanacha ag canadh, agus na crainn ag rince leis an ghaoth.
+
+"Tá sé draíochtúil!" a dúirt Pádraig. "Ach tá sé deacair"
+
+D'fhan Donnchadh sa bhothán le Pádraig ar feadh seachtainí. D'fhoghlaim sé conas an crota a sheinm, agus d'fhoghlaim sé faoin gceol. D'fhoghlaim sé faoi na daoine. Tháinig an ceol óna chroí féin, agus níorbh é sin an crota.
+
+Nuair a d'fhág sé Conamara, bhí Donnchadh athnuaite. Bhí crota nua aige, ach bhí seandaraí nua aige freisin. Bhí aigne aige, bhí ceol aige, agus bhí a chroí aige.
+
+Nuair a d'fhill sé ar a ríocht, thug sé ceol nua do na daoine. Bhí an ceol seo níos fearr ná riamh, mar bhí sé ag teacht óna chroí. Ó shin, bhí Donnchadh ag seinm ceoil ar feadh na mblianta, agus bhí gach duine ag canadh leis. Agus tháinig sé chun solais go raibh an crota, cé go raibh sé tábhachtach, níorbh é an rud is tábhachtaí. An rud is tábhachtaí ab ea an ceol a bhí sa chroí. Agus bhí sé sin le fáil in Éirinn ar fad. Agus bhí Donnchadh sásta ar a chuid ceoil.
+</body>
+```

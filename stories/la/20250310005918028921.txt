@@ -1,0 +1,35 @@
+<prompt>
+Please write a fun and entertaining Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Puer Pueri qui Invenit Aurum'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>la</lang_id>
+
+<title>Puer Pueri qui Invenit Aurum</title>
+<body>Erant in terra longinqua pueri tres, qui vivebant in villa parva. Pueri hi tres, nomine Marcus, Lucius, et Gaius, erant amici optimi et semper una ludere solebant. Die quadam, cum sol luceret et aves canerent, pueri tres in silvam ivere, ut fructus colligerent et aves spectarent.
+
+Cum in silva ambularent, Marcus dixit: "Amici, audivi fabulam de auro, quod in silva latebat. Dicunt, quod qui inveniat aurum, felix erit et omnia, quae vult, habebit." Lucius et Gaius audientes haec, gaudebant et dixerunt: "Eamus, quaeramus aurum!" Itaque pueri tres in silvam profundam ivere, ut aurum invenirent.
+
+Per viam, pueri tres multa animalia viderunt, ut cervos, leones, et ursos. Sed pueri non timebant, quia sciebant, se esse fortes et audaces. Cum autem sol altius esset, pueri tres ad flumen pervenerunt, ubi aqua clara et frigida erat. Marcus dixit: "Amici, hic potus sumus et reficiamur, antequam ulterius eamus." Itaque pueri tres potaverunt et refecti sunt.
+
+Postea, pueri tres iter suum continuaverunt et ad montem altum pervenerunt. In monte, via aspera et difficilis erat, sed pueri non desistebant. Cum autem ad summum montis pervenissent, Marcus exclamavit: "Ecce! Aurum!" Et vere, in terra aurum fulgebat. Pueri tres gaudebant et dixerunt: "Felicissimi sumus! Nunc omnia, quae volumus, habebimus."
+
+Sed, cum pueri tres aurum colligerent, subito ventus fortis exsurgens, aurum abstulit et in altum tulit. Pueri tres mirabantur et dixerunt: "Quid facimus? Aurum amisimus!" Sed Marcus, qui erat sapiens, dixit: "Amici, non est aurum, quod nos felices facit, sed amicitia et virtus. Itaque, eamus et quaeramus alia, quae nos felices faciant."
+
+Pueri tres igitur iter suum continuaverunt et ad villam redierunt. Ibi, invenere multos amicos, qui eos gaudebant et dixerunt: "Felicissimi estis, quia amicitiam et virtutem habetis." Pueri tres gaudebant et sciebant, se esse felices, non propter aurum, sed propter amicitiam et virtutem.
+
+Diebus sequentibus, pueri tres multa facinora fecerunt et semper una ludere solebant. Erant felices et gaudebant, quia sciebant, se esse amicos optimos. Et ita, pueri tres vivebant in villa parva, ubi amicitia et virtus regnabant.
+
+Sed, cum tempus transiret, pueri tres creverunt et facti sunt viri fortes et sapientes. Marcus factus est dux, Lucius factus est medicus, et Gaius factus est magister. Viri hi tres semper memoria tenebant, quam felices fuerant, cum pueri essent, et quam importantem esset amicitia et virtus.
+
+Itaque, viri tres semper docuerunt, quod amicitia et virtus sunt, quae nos felices faciunt, non aurum nec divitiae. Et ita, terra longinqua, ubi pueri tres vivebant, facta est terra felix, ubi amicitia et virtus regnabant.
+
+Annis sequentibus, terra longinqua crevit et facta est terra prospera. Pueri, qui ibi vivebant, erant felices et gaudebant, quia sciebant, se esse in terra, ubi amicitia et virtus regnabant. Et ita, terra longinqua manebat terra felix, ubi pueri tres, Marcus, Lucius, et Gaius, vivebant, et ubi amicitia et virtus semper regnabant.
+
+Et sic, fabula de pueris tribus, qui invenere aurum, sed sciverunt, quod amicitia et virtus sunt, quae nos felices faciunt, finita est. Sed memoria puerorum trium manebit semper, et terra longinqua manebit terra felix, ubi amicitia et virtus regnabant.</body>

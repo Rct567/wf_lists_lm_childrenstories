@@ -1,0 +1,37 @@
+<prompt>
+Please write a educational Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'O'zini topgan qushlar va ularning dunyosi'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>O'zini topgan qushlar va ularning dunyosi</title>
+<body>
+Qoraqo'rg'on tog'larining yonbag'rida,  yashil vodiyning chuqurligida,  kichik bir o'rmon bor edi.  O'rmonning ichida turli-tuman qushlar uylarini qurib,  hayotlarini davom ettirardi.  Ularning orasida,  kichik bir qarg'a,  Qaytar,  o'zining joyini topa olmay,  bezovtalikdan azob chekardi.
+
+Qaytar boshqa qushlardan farqli edi.  Uning qanotlari boshqa qushlarnikidan engilroq,  oyoqlari esa boshqalariga nisbatan katta edi.  Uning nozik,  qora qanotlari quyosh nurida porlamasdi,  o'zining umumiy ko'rinishi bilan ham o'rmon qushlari orasida ajralib turardi.  Qaytar boshqa qushlarga o'xshab chiroyli qo'shiqlar kuylay olmasdi.  Uning ovozi past va bir oz g'alati tuyulardi.
+
+Boshqa qushlar,  quvonchli qo'shiqlar kuylab,  yashil daraxtlar orasidan uchib,  baxtli va tinch hayot kechirardi.  Qaytar esa,  o'zining farqliligidan uyalib,  o'rmonning  eng  tushib qolgan,  eng  sovuq burchaklarida  yashirinib yurardi.  U o'zini boshqalarga o'xshamasligi uchun qayg'urardi va har kuni  o'zining noto'g'riligiga ishonar edi.
+
+Bir kuni,  Qaytar o'rmonning chekkasida yangi o'simliklarning o'sib chiqqanini ko'rdi.  Ular boshqa o'simliklardan farqli,  noyob xususiyatga ega edi.  Ularning qizil mevalari quyosh nurida juda chiroyli ko'rinardi.  U,  shu mevalarni yig'ish uchun o'ziga o'xshash boshqa qushlarning yig'ilishlarini kuzatdi.  Lekin,  Qaytarning o'ziga o'xshashligini sezgandan so'ng,  u bu qarorga keldi:  u ham shu yangi o'simliklarning mevalarini yig'ish kerak.
+
+Qaytarning o'ziga xos oyoqlari shu yangi o'simliklarning mevalarini qirqish uchun juda qulay edi.  Uning nozik qanotlari esa,  o'rmonning chuqurligiga osongina uchib ketishga yordam berardi.  Qaytar mevalarni yig'ib,  boshqa qushlarga ham ulardan taqsimlab berdi.
+
+Boshqa qushlar Qaytarning noyob qobiliyatlarini ko'rib hayratda qolishdi.  Ularning eng muhim xususiyati Qaytarning qayg'usini va farqliligini qabul qilishgan edi.  Qaytar ham o'zining  o'ziga xosligini  tan olishga boshladi.
+
+Ular birgalikda,  yangi o'simliklarning mevalarini yig'ib,  o'rmonning turli qismlariga  tashlab  turishdi.  Va shu tarzda,  o'rmon yangi mevalar bilan to'ldi.  O'simliklar yashnab,  qushlar esa o'zlarining farqli qobiliyatlarini o'zlarining hayotlarida muvaffaqiyatli qo'llaganlarini bilishdi.
+
+Qaytar,  endi boshqa qushlar singari,  qo'shiq kuylashga harakat qilmadi.  U  o'zining  ovozini  yangi va noyob tarzda  tan olishga harakat qildi va  o'ziga o'xshagan qushlardan  ham  o'zlarining o'ziga xos  tovushlarini  topishlarini  va  hayotdan  quvonch  olishini  xohlardi.
+
+Shundan so'ng,  Qaytar va uning do'stlari o'rmonda yangi bir urf-odatni yaratdilar:  har bir qushning o'ziga xosligi  va  farqliligi  muhim  ekanligini  tan olish  va  hayotda  muvaffaqiyatga erishishda  yordam berishini  tushunish.  Ular o'rmonning  yaxshiligi  uchun  bir-birlarining  qobiliyatlari  bilan hamkorlik  qilishdi.
+
+Qaytar o'rmonning eng  mahoratli  meva  yig'uvchisi  bo'ldi.  Va endi,  o'rmonning  barcha  qushlari  Qaytar  singari,  o'zlarining qobiliyatlaridan  va  farqliliklaridan  xursand bo'lishardi.  Ular  o'zlarini  topgan  edilar.
+
+O'rmonda  tinchlik  va  baxt hukm surardi.  Har bir qush o'zining o'rnini  va  o'ziga xosligini  topgan edi.  Qaytar esa,  o'zini  topgan  va  baxtli  bir  qushlar  o'rmonida  yashar edi.  U o'rmonning boyligiga,  bir-biriga yordam berishga  va  birga  kechayotgan  hayotga  qadrli  va  ham  muhim  ko'zlaridan  qarardi.  Qaytar endi  o'zining  farqliligidan  uyalmadi,  balki  uni  quvonch  bilan  tan olar edi.  U  o'zining  qobiliyatlari  bilan  o'rmonga  xizmat  qilar edi.
+</body>

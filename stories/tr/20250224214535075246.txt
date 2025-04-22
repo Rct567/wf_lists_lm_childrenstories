@@ -1,0 +1,35 @@
+<prompt>
+Please write a silly Turkish children's story that is at least 1000 words long.
+It must be completely written in proper Turkish (TR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kahramanların ve Köpeklerin Mucizevi Maceraları'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>tr</lang_id>
+
+<title>Kahramanların ve Köpeklerin Mucizevi Maceraları</title>
+<body>
+<p>Çayırların yeşilin, gökyüzünün mavinin, ağaçların yeşil-kahvenin birleştiği,  doğa harikası bir köyde,  Küçük Ali adında bir çocuk yaşarmış. Küçük Ali, kahraman olmakla değil,  her şeyin en iyisini yemek ve en iyi oyunları oynamakla meşguldü.  Ancak Ali'nin, en yakın arkadaşı olan,  sıradışı bir köpeği vardı:  Adı Pamuk. Pamuk,  normal köpeklerden çok farklıydı.  Bir yandan oldukça korkutucu bir havlayışı vardı,  bir yandan da kocaman,  yumuşak, pamuk gibi bir kuyruğu ve  sıradışı derecede büyük,  şeker gibi gözleri vardı.  </p>
+
+<p>Bir gün, köyün kenarındaki,  gizemli, kayalık dağın tepesinde,  eski bir hazine kutusunun gizlendiği söylenirdi.  Bu hazine,  altın paralar, mücevherler ve büyülü şifreli haritalardan oluşuyordu,  ve yüzyıllardır kimse tarafından bulunamamıştı.  Bu efsaneye herkes inanıyordu, hatta Küçük Ali ve Pamuk da. </p>
+
+<p>Ali,  Pamuk'un burnuna dokunarak, "Pamuk,  hazineyi bulmaya gideceğiz!" diye coşkuyla bağırdı.  Pamuk, kulağını sallayarak,  incecik burnuyla havayı kokladı ve kuyruğu,  hızla bir yılan gibi salınıyordu.  Köyün sınırına kadar gittiler, sonra yokuş yukarı, kayalık, dik yamaca doğru yola koyuldular. </p>
+
+<p>Yolda,  garip bir ses duyuldu.  "Kızıl Ayaklılar geliyor!" diye bağırdı Ali. Pamuk ise,  korkutucu bir havlayışıyla tüm sesi boğazından çıkartırcasına,  "Av! Av!" diye haykırdı.  Birdenbire,  önlerinde yemyeşil bir çalılığın arasında,  kırmızı renkli, çok hızlı ayaklar koşturdu. Bu, Ali ve Pamuk'un hiç görmediği,  vahşi bir hayvan türüydü.  Hayvanlar, Ali ve Pamuk'a doğru koşmaya başladılar.  </p>
+
+<p>Ali korktu, ama Pamuk,  sıradışı bir kahraman gibi davranarak,  havlayarak onlara karşı durmaya çalıştı.  Pamuk, nefes nefese,  bir yandan tehlikeli vahşi hayvanları kovalarken,  bir yandan da Ali'yi korkutan tehlikeye karşı koruyarak,  onların etrafında büyük bir halka oluşturmuştu.  Korkutucu havlamaları ve  kocaman, şeker gibi gözleri,  sanki bir ejderhanın korkutucu ateş nefesini andırıyordu. </p>
+
+<p>Vahşi hayvanlar, korkutucu havlamalara ve  Pamuk'un cesaretine yenildiler ve uzaklaştılar. Ali şaşkınlıkla Pamuk'a baktı ve  "Sen gerçekten çok cesur bir köpeksin, Pamuk!" dedi. Pamuk,   kuyruğunu sallayarak,  çok büyük bir gurur duyduğunu gösteriyordu.  </p>
+
+<p>Daha yükseğe doğru tırmanırken,  yolda,  çok eski ve gizemli görünümlü bir taş buldular. Taşın üzerinde,  esrarengiz harfler vardı.  Ali,  bu taşın, hazineye götüren bir işaret olduğunu anladı. Pamuk, taşın etrafında dönerek,  burun deliklerini havada gezdirerek etrafındaki sesleri dinliyordu. </p>
+
+<p>Taşın üzerindeki yazıları çözmek için çok uğraştılar.  Sonunda, bir bilge yaşlı adamın yazdığını anladılar.  Haritalar,  taşların altında bulunan bir gizemli şifreli bir yol gösteriyordu.  Yol,  onları gizemli bir mağaraya götürürdü. </p>
+
+<p>Mağaraya girdiklerinde,  göz kamaştırıcı bir ışıkla karşılaştılar. Işığın içinde,  altın paralar, değerli taşlar ve hatta uçan,  renkli kuşlar vardı.  Hazine,  doğru yolun bulunmasından ve cesaretten başka hiçbir şeyle bulunamamıştı.  Ali ve Pamuk,  mutluluktan uçuyordu. </p>
+
+<p>Ali, Pamuk'la birlikte hazineleri aldı ve köylerine döndüler.  Hazineyi paylaşmak için köyün herkesi çağırdılar.  Köyde herkes,  Ali ve Pamuk'un cesaretine ve arkadaşlıklarına hayran kaldı.  O andan itibaren,  Ali,  her zaman cesur ve iyi kalpli bir kahraman olarak tanındı.  Ve Pamuk,  en iyi dostluk örneği ve her zaman en güvenilir yoldaş olarak kaldı.  İkisi de,  her zaman, her zaman bir ömür boyu birlikte seyahat ettiler ve en iyi maceralara birlikte atıldılar.</p>
+</body>

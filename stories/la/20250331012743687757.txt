@@ -1,0 +1,52 @@
+<prompt>
+Please write a dialog-based Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'In Silvis Obscuris et Monstris Mollibus'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>la</lang_id>
+
+<title>In Silvis Obscuris et Monstris Mollibus</title><body>
+Marcus: Salvete, amici! Quid agitis? Ego Marcus sum, et hodie fabulam vobis narrare cupio.
+Aurelia: Salve, Marce! Nos bene sumus. Fabulam audire gaudemus.
+Lucius: Certe! Fabulas semper amamus. Quid de quo narrabis?
+Marcus: Narrabo de itinere per silvas obscuras et de monstris mollibus. Parati estis?
+Omnes pueri puellaeque: Parati sumus!
+Marcus: Bene! Olim, in villa rustica prope silvam magnam et obscuram habito. Silva illa timorem mihi saepe faciebat, nam multa de ea audiveram: lupos ingentes, ursos saevos, et… monstra.
+Aurelia: Monstra! Horrenda! Quid de illis monstris narravas?
+Marcus: Haud scio, sed dicebantur esse magna et horribilia, cum dentibus acutis et unguibus longis. Unum diem, cum sol clarissime lucebat, pater meus ad me venit. "Marce," inquit pater, "hoc tempore silvam ingredi oportet. Fratres tui ibi sunt, et baccae silvestres colligunt. Noli timere!"
+Lucius: Fratres tuos solus ad silvam ire non sinebimus. Eamus tecum!
+Marcus: Gratias vobis ago, amici mei! Hoc mihi placet. Itaque iter paravimus. Cibus et aquam sumpsimus. Gladii parvi, sed fortissimi, etiam cum nos tulimus.
+Aurelia: Quid primum in silvam intrantes vidistis?
+Marcus: Primum, sol per ramos arborum vix lucebat. Obscura erat silva. Arbores altae et densae erant, et ventus leniter per folia spirabat, sonitum occultum faciens. In principio, solum audivimus stridorem avium et sibilum serpentium.
+Lucius: Quid postea?
+Marcus: Paulatim in silvam profundius ingressi sumus, clamantes nomina fratrum meorum. “Gaudeamus!” clamavi ego. Et responsum magnum, velut risu, e silva audivimus. Deinde fratres mei ad nos accurrerunt. Erant in lacrimis!
+Aurelia: Quare? Quid accidit?
+Marcus: Dicebant se in magnam caveam cecidisse. Et monstra in illa cavea erant!
+Lucius: Horrendum!
+Marcus: Nos ad caveam currimus. Videbamus fratres meos in media cavea. Circum eos, magna corpora, mollis, coloris flavi et rubri. Monstra erant! Sed non erant terrentia.
+Aurelia: Non terrentia? Quid dicis?
+Marcus: Imo. Cum in caveam spectavimus, monstra risum faciebant! Habebant oculos magnos et rotundos, nasos parvos, et pedes magna cum digitulis gracilibus.
+Lucius: Mirabile! Non putavi monstra ridere!
+Marcus: Nec ego! Proximius accessimus. Monstra, nobis videntibus, baccae silvestres comedebant, et baccae per ora eorum cadere.
+Aurelia: Vere monstra molia!
+Marcus: Tum, unum monstrorum ad nos venit. "Salve, pueri! Nos vobis ignoti sumus? Noli timere! Hoc locum amatissimum nostrum est! Vultis bacas comedere?" Dixit cum voce melle dulci.
+Lucius: Quis crederet? Monstra amica! Quid respondistis?
+Marcus: Respondimus: "Gratias vobis! Cupimus!" Tunc fratres nostri e cavea surrexerunt, laeti. Et cum monstris bacas silvestres comedebamus! Bacae dulcissimae erant!
+Aurelia: Delectabile! Quid post bacas comedistis?
+Marcus: Post bacas, monstra nos docuerunt ludos facere. Ludebamus in prato prope caveam, currantes, saltantes, et ridemus. Monstra risum et ludos amare. Nos omnes eramus felices.
+Lucius: Quid fecerunt monstra quando sero factum est?
+Marcus: Cum sol occidere coepit, monstra nos ad ripam fluvii duxerunt. Ibam iucundi sonitus aquae. “Iterum cras advenite, amici! Semper gaudio vestro fruimur,” dixerunt.
+Aurelia: Num revera ad silvam redire voluistis?
+Marcus: Certe! Postquam domum redimus, de hoc die memorabile fabulam narravimus parentibus nostris. Et die sequenti, et dies sequentes, saepe redimus ad silvam et ad monstra molia. Semper ludimus, et risimus, et bacas silvestres comedimus. Monstra amici optimi nostri facti sunt.
+Lucius: Credo nullum monstrum est simile. Fabula mira est.
+Aurelia: Gratias tibi ago, Marce! Fabula optima est!
+Marcus: Nihil est! Gaudeo vos audivisse fabulam. Meminerint omnes: non semper de illis quae timent, iudicare debetis! Nunc, eamus et ludamus!
+Omnes pueri puellaeque: Eamus!
+(Pueri puellaeque risu et gaudio simul ad ludos proficiscuntur.)
+</body>

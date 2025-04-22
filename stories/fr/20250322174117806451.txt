@@ -1,0 +1,87 @@
+<prompt>
+Please write a educational French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'L'histoire d'amitié entre une abeille travailleuse et un paresseux paresseux.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```xml
+<title>L'histoire d'amitié entre une abeille travailleuse et un paresseux paresseux.</title>
+<body>
+Au cœur d'une forêt luxuriante, où les arbres touchaient le ciel et où les rivières chantaient de douces mélodies, vivait une petite abeille nommée Zélie. Zélie était une abeille très particulière, pleine d'énergie et toujours prête à travailler. Dès le lever du soleil, elle s'envolait, butinant de fleur en fleur, collectant le précieux nectar pour la ruche. Ses petites ailes bourdonnaient sans cesse, transportant sa charge avec diligence.
+
+Dans cette même forêt, vivait également un paresseux nommé Barnabé. Barnabé, lui, était tout le contraire de Zélie. Il aimait se reposer, se prélasser, et passait la plupart de son temps accroché aux branches les plus hautes des arbres, dormant ou simplement regardant le monde passer. Son expression était toujours nonchalante, son regard distant, et son pas… lent, très lent.
+
+Un jour, alors que Zélie volait, chargée de pollen et de nectar, elle aperçut Barnabé, suspendu à une branche, les yeux à moitié fermés. La petite abeille, toujours curieuse, décida de s'approcher.
+
+« Bonjour, Monsieur Barnabé ! » dit Zélie d'une voix claire et enjouée.
+
+Barnabé ouvrit lentement un œil. « Hmm ? Quoi ? Qui est là ? » demanda-t-il d'une voix rauque, endormie.
+
+« C'est moi, Zélie, l'abeille. Que faites-vous là-haut ? »
+
+Barnabé bâilla longuement. « Je… je me repose. Qu'est-ce que tu fais, toi, à bourdonner comme ça ? »
+
+« Je travaille ! Je collecte du nectar et du pollen pour la ruche. C'est très important. »
+
+Barnabé haussa les épaules. « Travailler… Pourquoi faire ? On peut simplement rester là, à admirer le soleil et le ciel… C'est beaucoup plus reposant. »
+
+Zélie fut un peu surprise par cette réponse. Elle était habituée à la vie trépidante de la ruche, à la productivité constante. Elle ne comprenait pas vraiment le concept de ne rien faire.
+
+« Mais si personne ne travaille, qui fabriquera le miel ? Qui pollinisera les fleurs ? » demanda Zélie, perplexe.
+
+Barnabé fit une moue. « Le miel ? Les fleurs ? Je n'y ai jamais vraiment pensé… » Il referma les yeux. « Tout cela me fatigue. »
+
+Zélie soupira. Elle ne pouvait pas rester inactive. Elle devait retourner à son travail. « Bon, au revoir, Monsieur Barnabé. Je dois y aller. »
+
+« Au revoir… » murmura Barnabé, avant de replonger dans son sommeil.
+
+Zélie retourna à la ruche, raconta son étrange rencontre à ses amies. Les autres abeilles, elles aussi, étaient étonnées. Comment un animal pouvait-il ne pas apprécier le travail ?
+
+Les jours passèrent, et Zélie continuait à croiser Barnabé accroché aux arbres. Chaque fois, elle s'arrêtait pour lui dire bonjour et lui proposer de voir la ruche, de goûter au miel. Mais Barnabé, fidèle à lui-même, déclinait poliment.
+
+Un jour, une tempête terrible éclata. Le vent soufflait avec violence, la pluie tombait à torrents, et les éclairs illuminaient la forêt d'une lumière effrayante. La ruche de Zélie était en danger. Les arbres étaient secoués avec force, et on craignait qu'ils ne s'effondrent.
+
+Zélie et les autres abeilles travaillaient sans relâche pour sécuriser la ruche, essayant de protéger les réserves de miel et les jeunes larves. Elles étaient épuisées et apeurées.
+
+Soudain, une branche d'arbre, arrachée par le vent, s'abattit sur la ruche. Les abeilles crièrent de panique. Zélie sentit une force immense la propulser. Elle savait qu'il fallait faire vite.
+
+Et là, quelque chose d'inattendu se produisit. Barnabé, malgré sa lenteur, se réveilla en sursaut et, animé par un élan de courage inattendu, grimpa avec une vitesse incroyable vers la branche menaçante. Il usa de toute sa force pour la maintenir en place, la retenant à l'aide de ses fortes griffes, offrant ainsi un précieux répit aux abeilles.
+
+Zélie, stupéfaite, regardait Barnabé faire. Elle ne pouvait pas le croire. Le paresseux, si lent, si indolent, était en train de sauver la ruche !
+
+Les minutes s'étirèrent, l'effort était intense, Barnabé tremblait de fatigue. Mais il continua, serrant la branche de toutes ses forces.
+
+Finalement, la tempête s'éloigna. Le ciel s'éclaircit et le soleil fit son apparition. La ruche était endommagée, mais sauvée.
+
+Zélie, débordante de gratitude, s'approcha de Barnabé, qui était maintenant épuisé et pendu à la branche.
+
+« Barnabé ! Vous… vous nous avez sauvés ! Merci ! » dit Zélie avec émotion.
+
+Barnabé, souriant faiblement, répondit : « J'ai… j'ai fait ce que j'ai pu. J'ai juste… voulu aider. » Il toussa.
+
+Les autres abeilles, à leur tour, exprimèrent leur reconnaissance. Elles apportèrent du miel et des fleurs à Barnabé, qui, pour la première fois, semblait apprécier ce qui l'entourait.
+
+À partir de ce jour, Zélie et Barnabé devinrent les meilleurs amis du monde. Zélie comprit que la paresse de Barnabé cachait en réalité un cœur tendre et courageux. Barnabé, lui, réalisa que le travail et l'effort pouvaient aussi apporter de la satisfaction, surtout quand ils étaient motivés par l'amitié et l'aide aux autres.
+
+Barnabé commença à aider Zélie à la ruche, non pas en butinant (cela restait impossible !) mais en gardant les alentours, en alertant les abeilles en cas de danger et en construisant parfois des petits abris pour les fleurs délicates.
+
+Ils passèrent de nombreux moments ensemble, Zélie partageant ses histoires de la ruche, ses défis et ses joies, et Barnabé, de son côté, racontant ses observations sur le monde, son amour pour le calme et la nature. Ils apprirent l'un de l'autre, Zélie apprenant à apprécier les moments de repos et Barnabé, à reconnaître la valeur du travail d'équipe.
+
+Un après-midi, alors qu'ils étaient assis ensemble sous un arbre, Barnabé regarda Zélie, occupée à nettoyer une feuille.
+
+« Zélie, » dit-il doucement, « je… je me sens bien ici, avec toi. »
+
+Zélie sourit. « Moi aussi, Barnabé. Tu sais, tu m'as appris que le repos peut être aussi important que le travail, et que même les paresseux peuvent être des héros. »
+
+Barnabé rit. « Et toi, tu m'as montré que le travail n'est pas une corvée, mais une aventure, surtout lorsqu'on le partage avec des amis. »
+
+Ils se regardèrent, souriants. Leur amitié, née d'une rencontre improbable, avait réussi à briser les barrières et à démontrer que, quelles que soient leurs différences, l'entraide et la tendresse peuvent unir les êtres les plus différents. L'abeille travailleuse et le paresseux paresseux étaient la preuve vivante que l'amitié, c'est bien plus qu'un simple mot, c'est un cadeau précieux qui illumine la vie. Et dans la forêt enchantée, l'amitié entre Zélie et Barnabé continua de grandir, comme une fleur éclose, baignée par le soleil et nourrie par la confiance et l'affection mutuelles. Fin.
+</body>
+```

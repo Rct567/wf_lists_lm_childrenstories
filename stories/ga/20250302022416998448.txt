@@ -1,0 +1,42 @@
+<prompt>
+Please write a silly Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'An Capall Draíochta agus an Turas Thar Farraige'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>ga</lang_id>
+
+<title>An Capall Draíochta agus an Turas Thar Farraige</title>
+<body>
+Bhí sean-chaipín ar a dtugtar Seamus ina chónaí i dteach beag, gearradh sa bhrain. Bhí capall draíochta aige, ar a dtugtar Rua, agus bhí an capall seo níos spéiseasaí fós ná aon chaipín de réir a gcuid anam.  Bhí fuaim áille, speisialta ag an gcapall seo a mbíonn draíochtaí, de ghnáth, ar a súile le breathnú orthu. Bhí a chuid cosa dhubha mór, cruachda, agus scálaí mór.
+
+Is é sin le rá go raibh sé mar thaibhse chruinn den dhraíocht, uile chumhachtaí. D'fhéadfaí a rá go raibh a láimh ag an gcapall seo ar gach rud. Bhí go leor cluichí i gcruth i níos lú bheatha i gcomparáid le saolta na ndraíochtaí! Ach ba chóir a rá freisin go bhféadfadh an capall rua seo, freisin, dul i ngrá leis na cluichí, agus sin á bheith áit nua chomh maith.
+
+Ar an lá atá le teacht, shíl Seamus go raibh sé in am chun turas iontach a thógáil thar na farraige. "Rua," arsa Seamus, "tá tú díreach go maith i measc na scéimeanna sa bhaile; cé mhéad ruda atá le fáil i bpoist saol agus i saolta nua; cé mhéad cineál breithiúnas breith le déanamh?  Ba mhaith linn turas thar an farraige a thógáil."
+
+Shíl Rua gur cheart an turas seo a dhéanamh, ar an gcaoi sin is fearr do chách. "Ní aon rud saor, é seo," arsa Rua, "ach beidh na gealltanna seo in aghaidh aon gníomhaíochtaí amuigh, ag teacht ag díriú chun na fáthanna is gníomhaí is gníomhaíochta. Níorbh fhéidir liom é seo a tháirgeadh ag teacht agus ag bogadh." Bhí siad réidh chun dul ar bun leis an bhfarraige fíor mhór, áille a chomhlíonadh a bhí thart faoi na héadan.
+
+D'éirigh siad ar an gcapall draíochta rua agus chuir siad an bhliain thar na farraige. Bhí gaoth láidir leo agus tráth nuair a bhí siad in aice le hinnteall, fuair an capall Rua a mhéid airgid go bhfuil. Thug Rua na turais seo leath go mór d'fhilleadh, gach uair, níos faide nuair a bhí aige ceann de. Agus aige a bhí a gcóras gnó saor in aisce, tá sé le fáil i ndearadh uisce, tá sé seo iomlánaithe i measc na scéimeanna i gcríoch na bhfoirmeacha an chomhordaithe.
+
+Nuair a chuaigh siad tríd an tráthnóna, thugadh an ghrian ar an taobh, ar a bhfuil sé ag ardú suas suas suas. Fuair siad scéalta a raibh ar na sléibhte, agus gaoth. Fuair siad scéalta, a mhuinigh sé ó bhliain le blianta. Leis an bhfarraige mór ag feitheamh ar a chuid i mhaitheas ar an ghnó. Agus bhí siad chomh iontach céanna mar is cuí leis.
+
+Bhí síolanna maithe i lár an farraige, a d'fhág Seamus agus Rua faoin ngaoth, faoin tráthnóna. Bhí siad fós a phleanáil ar fáil sa chomhshaol i gcónaí. Léim an ghrian aisteach ar a súile agus thug sé tacaíocht d'fhilleadh a mhothuithe a fháil i bhféileacán beag nuair a bhí siad i bhfearsa. Fuar siad naisc le daoine eile agus chuir sé i mbun iarrthachas ó thaobh an cheiste cé chomh maith le bheith réidh.  I ndiaidh an deireadh bhí a bhféileacán na sgeilte, ar aghaidh go cruinn i gcluasa na dtrioblóidí.
+
+Agus nuair a bhí an tráthnóna nua i ngá, dúirt Seamus: "A Rua, cad mar is fearr dúinn do turas, leis an dáil ar a shleas? Ba mhaith liom a dhéanamh le fadhbanna uaisle sa suíomh seo."
+
+Dúirt Rua le Seamus: "Is breá liom go leor seo a fháil, ach ba mhaith liom dul ar aghaidh sa fhialaire inniu. Léigh tú ar an bhfadbhórd agus is dócha go bhfuil an t-amhras go mbíonn rud éigin maith ag teacht thart ag obair go daingean le méid de bheartaíocht sa tóir seo aige a leithéid de pholasaí fíor-bhliantúil go raibh rud ar éigean go mór le tuiscint".
+
+"Ar ndóigh," a dúirt Seamus. Shleachtaithe siad thart agus idir. Bhí an ghrian ar fáil chun seasamh orthu, agus iad siúd atá ag breathnú orthu. Agus nuair a chuaigh siad thar na farraige, bhí an ghrian ag briseadh suas suas suas.
+
+Bhí Seamus agus Rua ag breathnú ar scéimeanna mhaith thar na farraige, a chaith siad i gcónaí i measc. Thóg sé an ghrian isteach i saolta eile, a lár is leathann níos leithligh.
+Thar na blianta, chaith Seamus agus Rua gach cineál gearrthóg, árdófar sa mháistir féin agus gan a gcuid aibí.
+
+Bhí a n-imeachtaí ag dul in iúl, gach an cumhacht saora an spioraid sa leas iontach. Bhí a gcailcí ag tógáil agus go rathúil faoi chumas an saoil níos mó seo, bhí an rud a mhol siad, agus is féidir a bheith ag déanamh dílis ann. Bhí an chumhacht i mbosca agus tá súile i gcónaí. Bhí sé seo sásta a bheith ann, tá siad réidh chun ligean ar bun leis an saol agus le gníomhaíocht go léir, rud ar a bhfuil siad fós cinnte gur chomhbháil an rath céanna.
+
+Is é sin an scéal an dá chéad, agus ba chóir iad a thuiscint.
+</body>

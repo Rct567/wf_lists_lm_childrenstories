@@ -1,0 +1,37 @@
+<prompt>
+Please write a simple and easy-to-follow Serbian children's story that is at least 1000 words long.
+It must be completely written in proper Serbian (SR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Čarobna kutija koja je čuvala sve izgubljene stvari'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sr</lang_id>
+
+<title>Čarobna kutija koja je čuvala sve izgubljene stvari</title>
+<body>
+Petar je bio dečak koji je voleo da istražuje.  Svakog dana je odlazio u šumu iza kuće, pun radoznalosti i želje da pronađe nešto novo. Jednog sunčanog jutra, dok je istraživao pod stare hrastovo drvo, našao je malu, drvenu kutiju.  Bila je izrezbarena sitnim, misterioznim crtežima i blistala je kao da je od zlata.  Petar ju je pažljivo podigao i odneo kući.
+
+Kutija nije bila kao druge kutije koje je poznavao.  Imala je neobičan miris, kao smeša čaja i sladoleda. Kada je Petar otvorio kutiju, osetio je prijatnu tišinu, izuzetno veću od bilo koje druge tišine. Nije bilo ničega unutra, osim svetlosti koja se igrala i menjala boje kao šarenilo duginih traka.
+
+Zaintrigiran, Petar je počeo da pretražuje svoju kuću, tražeći iščezle predmete. Zaboravio je mami ključeve za školski ormar i ona ih je odavno tražila. Njegova omiljena crvena olovka je nestala.  Čak je i maleni crveni kamiončić za igranje koji mu je tata poklonio prošlog leta misteriozno iščezao.  Petar je bio tužan, osećao je težinu svih izgubljenih stvari.  I onda se setio čarobne kutije.
+
+Potrčao je do svoje sobe, i ispružio ruku prema kutiji.  Osećao je toplotu njene drvene površine i ponovio njenu misterioznu tišinu. Sa nestrpljenjem, oprezno ju je otvorio. I tamo, iznad nežne bele svetlosti, je bio njegov crveni kamiončić, zdrav i spreman za avanture.  Pored njega, i pored nežne svetlosti, bio je i ključ od školskog ormara. I crvena olovka. Sve u istoj kutiji. Svi izgubljeni predmeti su se pojavili u kutiji, gledajući ga svojim malim, beskrajno slatkim pogledima.  Sve izgubljene stvari su se vraćale u kutiju.  Petar se osmehnuo.
+
+Bio je neverovatno srećan!  Kutija je mogla da čuva sve izgubljene stvari!
+
+Sutradan, u školi, Petar se setio ključeva, tako je lako otvorio školsku torbu i ormar, zadivljujući svojim drugovima kako su sva njegova potrebna pribora bila u njoj, na svom mestu. On je bio zadovoljan.
+
+Od tog trenutka, Petar je svaki dan posećivao čarobnu kutiju.   U kutiji je čuvao i druge stvari koje je tražio – izgubljene igračke, izgubljene knjige i isečke.  Kutija je bila puna isječaka, pisama, malih crteža i bojanaca, ali i mnogo više – i tajnovih, posebnih stvari. Petar nije znao kako je kutija mogla to činiti.
+
+Njegova sestra, Marija, je pitala Petru kako radi njegova čarobna kutija, zbunjena njenim neobičnim svojstvima.  "To je kutija koja prikuplja stvari", rekao je Petar,  "sve izgubljene stvari na svetu."  "To je kutija za nadu."   Imao je prav obrazac i obrazac u svojim objašnjenjima i osećao je ogromnu sreću u njima, znajući da se sve može dogoditi i uvek se pojaviti. Marija nije razumela celu tu misao. Ali ona je bila izuzetno zadovoljna njegovom šarmerijom i šarmom. I tako, Marija je izuzetno poštovana od svih drugih dece u svom razredu.
+
+Jednog dana, kada je Petar posetio čarobnu kutiju,  u njoj je video svetlosnu figuru bebe žirafe koja je došla u školu. Petar nije znao zašto je žirafa stigla do te kutije.  Ali on je bio ponosan da je primetio životinjicu u školi.
+
+Petar je pomislio da bi čarobna kutija mogla biti tajanstveno i tajanstveno stvorenje koje prikuplja stvari širom sveta.  Samo po sebi, niko nije video ovo stvorenje i Petar je bio jedini koji je imao sreću da otkrije ovaj čudesni fenomen.  Kada su drugi u školi to saznali, oni su se jako uzbudili. Ali sve što se desilo bilo je istina, stvarno, stvarno je bilo istina.
+
+Petar je često odlazio u šumu, ali nikada nije više našao nikakvu kutiju. Međutim, taj misterijum ostaje večno u svakom detetu. Ono što je značajno je što Petar nikada više nije izgubio ni jednu stvar, ni jednu igračku, ni jedan dragi predmet. Za njega je veoma očigledno bilo da je naučio ovekovečenje izgubljenih predmeta, sve dok ne dođe na svoj pravo mesto u srcu.   Imao je tajnu čuvanja izgubljenih stvari u sebi, što je čak i njegova porodica primenila u mnogim slučajevima kasnije.
+</body>

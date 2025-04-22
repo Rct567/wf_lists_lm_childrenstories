@@ -1,0 +1,63 @@
+<prompt>
+Please write a light-hearted Serbian children's story that is at least 1000 words long.
+It must be completely written in proper Serbian (SR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Grizlica Perle i Legenda O Ribnjaku'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>sr</lang_id>
+
+```xml
+<title>Grizlica Perle i Legenda O Ribnjaku</title>
+<body>
+U jednom šarmantnom selu, negde daleko u Srbiji, živela je mala veverica po imenu Grizlica. Grizlica je bila poznata po svom neobičnom hobiju - sakupljanju perli. Ne običnih perli, već perli svih oblika, boja i veličina. Njena kuća, mala hrastova šupljina, bila je prepuna staklenih, plastičnih, drvenih, pa čak i kamenih perli. Svaka perla je imala svoju priču, koju je Grizlica strpljivo čuvala u svom malom, pahuljastom srcu.
+
+Grizlica je provodila dane skakutajući po granama, tražeći nove perle. Njih je nalazila svuda – u zaboravljenim kutijama, na starim ogrlicama, pa čak i u ptičijim gnezdašcima. Jednom, pronašla je perlu oblika malog srca, stakleno i crveno poput trešnje, koju je nazvala "Ljubavna". Drugu, plavu kao duboko more, nazvala je "Okeanska". Svaka perla je predstavljala delić njenog šarenog i avanturističkog života.
+
+Jednog sunčanog jutra, dok je Grizlica tragala za novim blagom, čula je priču od mudre sove po imenu Sofija. Sofija je bila najstarija u šumi i znala je sve o svemu. Sova je ispričala Grizlici o staroj legendi o Ribnjaku. Ribnjak je, prema legendi, bio čarobno mesto gde su živeli riblji kraljevi i princeze, a na dnu ribnjaka se nalazila pećina ispunjena perlama. Ali, pećina se mogla otključati samo uz pomoć magičnog ključa, napravljenog od sedam različitih perli.
+
+"Legenda kaže, Grizlice", rekla je Sofija, "da je Ribnjak zaštićen od strane misteriozne magične moći. Samo ona veverica sa srcem čistim kao perla može pronaći ključ."
+
+Grizlica je bila uzbuđena! Ribnjak je bio mistično mesto o kome je sanjala. Ali, kako pronaći ključ? Odlučila je da zatraži pomoć od svojih prijatelja.
+
+Prvo je otišla kod Zeca Duška, koji je uvek bio veseo i pun energije. "Duško, čuo sam legendu o Ribnjaku!" rekla je Grizlica. "Moramo da pronađemo magični ključ!"
+
+Duško je na trenutak prestao da žvaće šargarepu i odmah se složio: "Naravno, Grizlice! Uvek sam spreman za avanturu!"
+
+Zajedno, krenuli su u potragu za prvom perlom ključa. Prema legendi, ta perla je trebala biti zelena kao smaragd. Pročešljali su celu šumu, proveravajući svako mesto za koje bi perla mogla biti sakrivena. Konačno, pronašli su je! Mala, svetlucava, smaragdno zelena perla, skrivena ispod lista deteline sa četiri lista. Duško je odmah skočio od radosti. "Sjajno! Jedan deo ključa je pronađen!"
+
+Zatim, otišli su kod lisice Lene, koja je bila poznata po svojoj mudrosti i sposobnosti da rešava zagonetke. "Leno, treba nam tvoja pomoć," rekla je Grizlica. "Moramo da pronađemo i drugu perlu, koja je, po legendi, žuta kao sunce."
+
+Lena je pažljivo razmislila. "Znam gde bi perla mogla biti", rekla je Lena. "Ali, moraćemo da rešimo zagonetku." Zagonetka je bila: "Gde svetlo pleše na toplom kamenu?" Lena je znala da su uvek topli kameni bili kod pećine starog lava. Pošli su prema pećini, i pored kamena su pronašli malu žutu perlu, savršeno okruglu i svetlucavu.
+
+Sada su imale dve perle, smaragdnu i sunčevu!
+
+Sledeća perla, po legendi, bila je crvena kao plamena ruža. Ići će kod Medveda Miše, koji je bio najjači u šumi. "Mišo, znaš da sam ja najbolji tražitelj, treba nam perla koja je crvena kao vatra!" rekla je Grizlica.
+
+Miša se nasmešio. "Samo mi reci gde." Grizlica se setila kako su je bake često častile džemom od šumskih jagoda. Počeli su da traže oko grmlja sa jagodama, i među bobicama su pronašli crvenu, rubinsku perlu.
+
+U potrazi za sledećim perlama, otkrili su da se legenda ne zaustavlja. Četvrta perla, plava kao noćno nebo, bila je sakrivena u visokoj planini. Moraće da potraže pomoć od orla Filipa. Filip je bio najviši i video je sve. "Filipu, pomozi nam da pronađemo plavu perlu."
+
+Filip je leteo visoko, tražeći neobičnosti. Kada je bio skoro na vrhu planine, ugledao je, u gnijezdu, malu plavu perlu. Odneo ju je direktno Grizlici.
+
+Peta perla, bila je bela kao sneg. U pomoć su pozvali ježeve, koji su mogli proći svuda. "Moramo da pronađemo belu perlu!" Grizlica im je rekla. Ježevi su pretraživali svaku pukotinu i rupu u zemlji, i na kraju, pronašli su malu bisernu perlu sakrivenu pod velikim belim cvetom.
+
+Šesta perla, ljubičasta kao jorgovan, sakrivena je kod potoka. Žabe i puževi, bili su poznati kao najpametniji u potoku. "Moramo da pronađemo ljubičastu perlu!" reče Grizlica. Uz pomoć puževa, koji su bili spori, ali uvek sve videli, pronašli su ljubičastu perlu ispod ljubičastog cveta u potoku.
+
+I, konačno, sedma perla. Ona je bila narandžasta kao jesenji zalazak sunca. Da bi je pronašli, morali su da se oslone na sve. I ptice i životinje. Da bi je pronašli, morali su se popeti na staro drvo, i pronašli su narandžastu perlu, obavijenu zlatnim listom.
+
+Sa sedam perli u rukama, Grizlica, Duško, Lena, Miša, Filip i ježevi bili su spremni da otključaju Ribnjak!
+
+Kada su stigli do Ribnjaka, Grizlica je postavila perle u poseban šablon, baš kao što je Sofija opisala u legendi. Odjednom, magična svetlost je ispunila okolinu, a iz vode je izronio mali, zlatni ključ. Grizlica je uzela ključ, a njene oči su sijale od sreće.
+
+U trenutku kada je ključ dodirnuo veliki, kameni kapak na dnu ribnjaka, kapak se polako otvorio, otkrivajući blistavu pećinu ispunjenu perlama svih oblika i veličina! Grizlica i njeni prijatelji su ušli u pećinu, zadivljeni lepotom koju su videli.
+
+Grizlica je shvatila da je najvrednije blago zapravo bila njihova prijateljstva i sreća koju su delili zajedno. Skupila je pregršt perli za uspomenu, i sa svojim prijateljima se vratila u šumu. Obećali su jedni drugima da će čuvati tajnu Ribnjaka i da će nastaviti svoje avanture.
+
+Od tog dana, Grizlica Perle i njeni prijatelji su nastavili da uživaju u avanturama, a šuma je uvek bila ispunjena smehom i srećom. A Grizlica je nastavila da sakuplja perle, znajući da svaka od njih ima svoju jedinstvenu priču, baš kao i život koji je vodila.
+</body>
+```

@@ -1,0 +1,34 @@
+<prompt>
+Please write a timeless Slovenian children's story that is at least 1000 words long.
+It must be completely written in proper Slovenian (SL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Moj prijatelj iz drugega sveta postane resničnost'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>sl</lang_id>
+
+<title>Moj prijatelj iz drugega sveta postane resničnost</title><body>  
+Nekoč, v majhni vasici ob vznožju čarobnih Julijskih Alp, je živelo dekle po imenu Lina. Lina je bila navdušena nad zvezdami in vsako noč je preživela na vrtu, strmeč v nebo. Njene sanje so bile polne vesoljskih ladij, neznanih planetov in prijateljev iz drugih svetov. Njeni starši so se ji smejali in rekli: "Lina, zvezde so lepo, vendar so daleč. Pazi rajši na zemljo!" Toda Lina ni poslušala. Vedela je, da nekje tam zunaj obstaja nekaj posebnega.
+
+Neke noči, ko je luna sijala kot srebrna plošča, se je zgodilo nekaj nenavadnega. Medtem ko je Lina opazovala nebo, je zaslišala šumenje, ki je prihajalo z neba. Pogledala je navzgor in zagledala majhno, svetlečo točko, ki se je hitro približevala. "To ni zvezda," je pomislila Lina, ko je točka postajala vse večja in svetlejša. Končno se je ustavila na travniku za njenim domom.
+
+Lina je previdno stopila bliže. Pred njo je bil majhen, srebrn plovček, obdan s svetlobo, ki je utripala kot srce. Vrata plovčka so se počasi odprla in iz njih je prišlo bitje, ki ga Lina nikoli prej ni videla. Imelo je dolge, tanke roke in noge, velike oči, ki so sijale kot zvezde, in kožo, ki je bila prozorna kot steklo. "Pozdravljen, Lina," je reklo bitje z mehkim glasom. "Sem Tiko, tvoj prijatelj iz drugega sveta."
+
+Lina je bila presenečena, a ni bila prestrašena. "Kako veš moje ime?" je vprašala. Tiko se je nasmehnil. "Slišal sem tvoje sanje. Ti si edina, ki nas je klicala." Lina je začutila, kako ji srce utripa od navdušenja. "Ali res prihajaš z drugega planeta?" je vprašala. Tiko je prikimal. "Prihajam z Nevarne, planeta, ki je poln barv in življenja. Nisem prišel sam. Pridruži se mi, Lina, in pokažem ti naš svet."
+
+Lina se je obotavljala. "Kaj pa moji starši?" je vprašala. Tiko je zamahnil z roko in na travniku se je pojavila svetleča slika Lininih staršev, ki so spali mirno v svoji postelji. "Čas na Nevarni teče drugače. Ko se vrneš, se ne bo nič spremenilo," je rekel Tiko. Lina se je nasmehnila in prijela Tiko za roko. "Pojdiva!" je rekla.
+
+Plovček jih je odpeljal skozi nebo, prek galaksij in čez nešteto zvezd. Končno so prispeli na Nevarne. Lina je bila osupljena. Vse okoli nje je bilo polno živih barv. Drevesa so bila vijolična, nebo je bilo zeleno, in reke so tekle z zlatom. Tiko jo je peljal po poti, ki je vodila do velikega mesta, zgrajenega iz svetlobe in stekla. "Dobrodošla na Nevarni," je rekel Tiko.
+
+Lina je spoznala druge prebivalce Nevarne. Imeli so različne oblike in velikosti, a vsi so bili prijazni in radovedni. Pokazali so ji svoje običaje, plesali in peli z njo ter ji povedali zgodbe o svojem svetu. Lina je bila srečna. Nikoli prej ni občutila tako velike pripadnosti.
+
+Ampak čas je tekel hitro. Tiko je rekel: "Lina, čas je, da se vrneš domov." Lina je bila žalostna. "Ali se bom kdaj vrnila?" je vprašala. Tiko jo je prijazno prijel za roko. "Vedno lahko prideš nazaj, če boš sanjala o nas," je rekel.
+
+Plovček jo je pripeljal nazaj na Zemljo. Ko je stopila na travnik, je bilo nebo še vedno polno zvezd. Lina je pogledala navzgor in se nasmehnila. Vedela je, da je njen prijatelj iz drugega sveta resničen in da bo vedno del njenega življenja.
+
+Od tistega dne naprej je Lina vsako noč strmela v nebo, vedoč, da nekje tam zunaj obstaja svet, ki jo čaka. In kadar je čutila samoto, je zaprla oči in se spomnila na barve, glasbo in prijatelje z Nevarne. Vedela je, da so njeni sanje resnične. In to je bilo vse, kar je potrebovala.  
+</body>

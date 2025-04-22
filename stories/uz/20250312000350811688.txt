@@ -1,0 +1,37 @@
+<prompt>
+Please write a light-hearted Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Sehrli bo'yoqlar bilan rasmlar chizib, ularni hayotga keltiradigan bola haqida ertak.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>Sehrli bo'yoqlar bilan rasmlar chizib, ularni hayotga keltiradigan bola haqida ertak</title>
+<body>
+Shaharning chekkasida,  o'rmonning soyali qismida,  qiziqarli va ajoyib dunyo yaratishga intiluvchi  Zafar ismli bir bola yashagan.  Uning qo'llarida oddiy ko'rinishdagi  qalam va ranglar, lekin uning ko'zlarida – boshqalar tasavvur qila olmasliklari kabi noyob hayotiy hikoyalar, ular ko'plab ranglarga ega edi.
+
+Zafar har kuni, tong otganda, o'rmonning jimjitligida, bo'yoqlari bilan qiziqarli rasmlar chizardi.  Qalamlaridan chiqadigan har bir chiziq,  ranglar bir-biriga qo'shilishda  o'ziga xos bir hikoyani qog'ozga yozardi.  Uning  o'ziga xos xususiyati  uni boshqa bolalardan farq qilardi – u o'z rasmlarini hayotga keltirishga urinardi.
+
+Bir kuni u yashil daraxtlar orasida bir parcha qog'ozga  uchta qora dog'li baliqlar chizdi.  Ko'zi bilan qog'ozni qattiq bosib ko'rdi, daraxtning barglari esa shabada bilan harakatlanib, u o'sha baliqlarning yashaydigan  suv osti dunyosini  hayotga keltirishni  ishtiyoq bilan intilardi.
+
+Endi uni qog'ozda tasvirlangan suvosti dunyosini kashf qilishga va uning yashovchilariga ko'rishni xohlagandek, ortida suvga kirish orqali olib borildi.  Suv quyuq, toza ko'rinishga ega bo'ldi, u to'lqinlar orasidan o'tganda, aqlga sig'maydigan mo''jizalar  boshini aylantirardi.  Uyda bo'yoqlari bilan yashagan oddiy Zafar, suv tubida uchta qora dog'li baliq  bilan uchrashishida, suvga ko'mir sochli yashil gul ko'rinishida bir mo''jizani ko'rdi.
+
+Baliqlar bilan gaplasha olganligi Zafarga ajoyib edi,  ularning o'ziga xos  tillarida Zafarni yangi ajoyib hikoyalar bilan tanishtirdi,  ular Zafarning fikriga ko'ra hayotga chuqurroq, hayotga yaxshiroq kirib bordi. Ular bir-birlaridan o'zlari to'g'risida qiziqarli ma'lumotlarni  berishdi; ular nimalardan qo'rqishadi, qanday ovqatlanishadi. Va  yashil ko'mirli g'ururli gul Zafar bilan  xursandchilik va  so'zsiz ma'no haqida suhbatlashdi.  Baliqlar  suvga to'yingan barglardan uchib  ketishini, g'ururli gul esa uni chuqurroq chuqurliklarga qo'yadi.
+
+
+Zafar shunchaki yaxshi va mehribon  o'sha baliqlar bilan uchrashuvlarida quvonch va  hayrat  bilan to'ldi. O'sha kun Zafarning hayotida unutilmas bir voqea edi.
+
+Keyinchalik,  Zafar o'rmonning soyasida,  bo'yoqlari bilan yana bir ajoyib rasmlar chizdi.  Bu safar u  rang-barang qushlar o'rnini qog'ozga o'tirdi, ko'zi orqali rasmini hayotga o'tkazardi. Va keyingi kuni u erda qiziqarli hikoyalari bilan o'zini ko'rdi, ko'k o'rmon daraxti bo'ylaridan  harakatlanadigan  xursandchilik va go'zallik. Ular ham  Zafar bilan   hayratlanarli uchrashuvlarni boshladilar,  uni hayotning  sezilarli ma'no qiymatini his qilishiga olib keldi. 
+
+
+Bu hikoya hammasi emas edi. Zafar yana turli rasmlarni hayotga keltirdi,  shabada bilan harakatlanib,  o'rmonning katta soyasi o'rtasida   go'zal  va chiroyli rasmlarini qog'ozda ifodalaydi. U doimo boshqa ajoyib hikoyalarni ochish uchun imkoniyat topardi.   Ko'pchilik o'sha rassomga hayrat bilan qaraydigan  bo'lishardi. Chunki har bir uning asarida  hayot hikoyalari  va bir dunyo yashirin  sezimlar joylashgan edi.
+
+Kunduzi  shahar  zich va qulay  sayyoralar ko'rinishida o'rmonda qayd etildi,  bo'sh  to'lqinlar orqali suvga sho'ng'igan qora dog'li  baliqlar,  hayvonlar, qushlar bir-biri bilan suhbati oqib  boradigan, bir-birlarini quchoqlab, bu oddiy va do'stona uchrashuvlar, go'zallikning   sezim  qiziqarli mo''jizalari haqida   suhbat.
+
+Zafarning  go'zal  rassomlik dunyosi haqidagi ertak boshqa bolalarga  inson hayotini tushunish, ko'pgina dunyolarga tegishli, uni to'la go'zallik va sehrli mo''jizalar bilan tanishtirdi.   Zafar o'sha oddiy bolalardan birining o'z noyob dunyosini  yaratgan edi,  bizga do'stlik, go'zallik, hayrat va  qadrli birliklardan  hayotning o'ziga xos mo''jizasini ochib beradigan   bir yulduzli  o'rnatilgan olam.
+</body>

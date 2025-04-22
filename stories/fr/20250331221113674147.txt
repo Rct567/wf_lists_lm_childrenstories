@@ -1,0 +1,107 @@
+<prompt>
+Please write a dialog-based French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Les pirates et le trésor caché sur l'île déserte et pleine de dangers.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```xml
+<title>Les pirates et le trésor caché sur l'île déserte et pleine de dangers.</title>
+<body>
+– Ahoy, matelots ! Crie le Capitaine Barbe-Rouge. La brume se dissipe enfin ! Terre en vue !
+
+– Aye, aye, Capitaine ! Répondent en chœur les moussaillons, les yeux brillants d'excitation.
+
+Ils étaient sur le point de découvrir l'île Mystérieuse, une île déserte réputée pour cacher un trésor légendaire. Le Capitaine Barbe-Rouge, un pirate avec une barbe rousse aussi flamboyante qu'un coucher de soleil, avait consacré toute sa vie à la recherche de cette fortune. Son fidèle perroquet, Coco, perché sur son épaule, jacassait d'impatience.
+
+– Nous allons mettre pied à terre sur la plage est, dit le Capitaine, en pointant du doigt. Soyez prêts ! Cette île est dangereuse. Il y a des animaux sauvages, des plantes étranges… et peut-être même d'autres pirates !
+
+Les pirates, une bande hétéroclite de marins rugueux et de jeunes garçons enthousiastes, se préparent à débarquer. Parmi eux, il y avait Petit Jean, un orphelin qui rêvait de devenir le plus grand pirate de tous les temps. Il était le plus jeune, mais aussi le plus courageux.
+
+– Capitaine, demanda Petit Jean avec audace, avez-vous la carte ?
+
+– Bien sûr, mon garçon ! Répondit Barbe-Rouge en lui tapant sur l'épaule. Sans la carte, nous serions perdus ! Regarde !
+
+Le Capitaine déplia une vieille carte jaunie par le temps. Elle montrait un chemin sinueux à travers la jungle dense, menant jusqu'à une grotte cachée. Un X, marqué d'une croix rouge sang, indiquait l'emplacement du trésor.
+
+– Écoutez bien, dit Barbe-Rouge. Le trésor est protégé par une série d'épreuves. Soyez prudents, restez groupés et faites confiance à vos instincts. Coco, garde l'œil ouvert !
+
+– Polly veut un biscuit ! Crache Coco.
+
+La petite troupe descendit dans les chaloupes et ramer jusqu'au rivage. Le sable était d'un blanc immaculé, bordé par une végétation luxuriante. Des singes hurleurs se cachaient dans les arbres et les papillons multicolores voletaient autour d'eux.
+
+– Wow ! s'exclama Petit Jean. C'est magnifique !
+
+– Mais méfiez-vous, murmura le Capitaine. La beauté peut cacher le danger.
+
+Ils s'enfoncèrent dans la jungle, suivant le chemin tracé sur la carte. Rapidement, ils se retrouvèrent face à la première épreuve : une rivière tumultueuse.
+
+– Comment allons-nous traverser ça ? Demanda un pirate, qui avait la réputation d'être peureux.
+
+– Ne vous inquiétez pas, dit le Capitaine. Construisons un radeau !
+
+Tous ensemble, ils coupèrent des arbres, assemblèrent des planches et construisirent un radeau solide. Ils traversèrent la rivière avec succès, malgré les courants forts.
+
+– Bravo, mes amis ! S'exclama Barbe-Rouge. La première épreuve est franchie !
+
+Après la rivière, ils durent traverser un labyrinthe de lianes et de buissons épineux. Coco les guidait, volant de branche en branche, et les avertissant des dangers potentiels.
+
+– Attention, un serpent venimeux ! Cria Coco.
+
+Un énorme serpent, d'un vert émeraude, sortit des buissons. Les pirates s'écartèrent, mais Petit Jean, le plus agile d'entre eux, dégaina son sabre et trancha le reptile en deux.
+
+– Bien joué, Petit Jean ! Dit le Capitaine, impressionné. Tu as du courage.
+
+– Ce n'est rien, Capitaine, répondit Petit Jean, rougissant de plaisir.
+
+Ils continuèrent leur progression, affrontant de nouvelles épreuves : des pièges dissimulés dans le sol, des falaises abruptes à escalader, et des bêtes sauvages à éviter. La fatigue commençait à se faire sentir, mais la perspective du trésor les maintenait en haleine.
+
+Un jour, après une longue marche, ils arrivèrent enfin à la grotte indiquée sur la carte. L'entrée était sombre et intimidante.
+
+– Nous y sommes, dit le Capitaine, la voix tremblante d'excitation. Le trésor est juste là. Mais attention, la grotte est gardée.
+
+Ils pénétrèrent dans la grotte, leurs torches éclairant les parois rocheuses. Ils furent soudainement confrontés à une seconde épreuve : une porte immense, verrouillée par une serrure complexe.
+
+– Comment allons-nous l'ouvrir ? Demanda un pirate.
+
+Le Capitaine étudia la serrure pendant plusieurs minutes.
+
+– Il faut trouver la clé, dit-il. La carte indique qu'elle se trouve au bout du tunnel, dans la salle aux échos.
+
+Ils s'engagèrent dans le tunnel sombre et étroit. Le silence était pesant, interrompu seulement par le bruit de leurs pas et les gémissements de Coco.
+
+– Ah, c'est sinistre ici ! Murmura Petit Jean.
+
+– Soyez silencieux, dit le Capitaine. Nous pourrions être entendus.
+
+Au bout du tunnel, ils trouvèrent une grande salle. Les échos résonnaient dans toutes les directions. Au centre de la salle, se trouvait un coffre en bois, et à l'intérieur… la clé !
+
+– Hourra ! Cria un pirate.
+
+Ils retournèrent à la porte et ouvrirent la serrure avec la clé nouvellement acquise. Derrière la porte, ils trouvèrent une grande pièce remplie d'or, de bijoux et de pierres précieuses ! Le trésor était là, devant leurs yeux.
+
+– C'est incroyable ! s'écria Petit Jean, les yeux écarquillés.
+
+Le Capitaine Barbe-Rouge sourit, heureux d'avoir accompli son rêve.
+
+– Nous avons réussi, mes amis ! Dit-il. Nous sommes riches !
+
+Ils passèrent des jours à organiser le trésor, partageant les richesses de manière équitable. Ils étaient maintenant tous des hommes et des femmes riches. Avant de partir de l'île, le Capitaine Barbe-Rouge prit la parole :
+
+– Je suis fier de vous tous. Vous avez prouvé votre courage, votre bravoure et votre loyauté. Ce trésor est le fruit de votre travail acharné. Et vous, Petit Jean, vous avez démontré votre valeur. Vous êtes un vrai pirate, l'un des meilleurs !
+
+– Merci, Capitaine ! Répondit Petit Jean, heureux.
+
+– Et n'oubliez jamais, dit le Capitaine, le trésor le plus précieux, c'est l'amitié.
+
+Après des adieux chaleureux, les pirates retournèrent à leur navire. Ils levaient l'ancre, emportant avec eux le trésor, et surtout, des souvenirs inoubliables. Coco, perché sur l'épaule de Petit Jean, jacassait joyeusement :
+
+– Polly veut des vacances ! Polly veut des biscuits !
+
+Petit Jean sourit. L'aventure était terminée, mais une nouvelle vie commençait. Il était enfin un pirate accompli, prêt à affronter de nouvelles aventures, aux côtés de ses nouveaux amis.

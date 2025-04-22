@@ -1,0 +1,53 @@
+<prompt>
+Please write a simple and easy-to-follow Scottish Gaelic children's story that is at least 1000 words long.
+It must be completely written in proper Scottish Gaelic (GD).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Am fear beag agus na rionnagan a bha a' bruidhinn anns an dorchadas oidhche.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>gd</lang_id>
+
+<title>Am fear beag agus na rionnagan a bha a' bruidhinn anns an dorchadas oidhche.</title>
+<body>Bha fear beag ann, agus bha e a' fuireach ann an taigh beag anns a' ghleann. Bha an taigh suidhichte eadar dà bheinn mhòr, agus bha an t-àite gu math dorcha anns an oidhche. Cha robh solas sam bith ann, ach bha an fear beag eòlach air a' phàirt a bha e a' fuireach ann.
+
+Latha a bha seo, bha an fear beag a' dol a dh'fhàgail an taighe, nuair a chuala e gluasad anns an dorchadas. Bha e a' smaointinn gun robh e na bheist, no rudeigin eile a bha a' feuchainn ri a dh'fhàgail. Ach an àite sin, chuala e glòir bheag a' bruidhinn. "Cò bh' ann?" ars esan.
+
+"Is mise a' chiad rionnag," ars a' ghuth. "Tha mi a' feuchainn ri do chuideachadh. Tha mi air a dhol a dh'fhàgail mo bhaile, agus tha mi a' lorg mo dhòchas."
+
+Bha an fear beag a' smaointinn gu robh an rionnag a' bruidhinn dìreach, agus thuirt e, "Ciamar a tha thu a' dol a dh'fhàgail do bhaile? Agus ciamar a tha thu a' lorg do dhòchas?"
+
+"Cha robh mi a' dol a dh'fhàgail mo bhaile," ars a' rionnag, "ach bha mi air a dhol a dh'fhàgail le mo charaid. Bha sinn a' dol a dh'fhàgail còmhla, ach cha do chuir sinn a cheart cho fad' s a bha sinn a' smaointinn. An uair a thàinig an oidhche, bha sinn air a dhol a dh'fhàgail, agus cha robh sinn a' dol a dh'fhàgail a cheart cho fad' s a bha sinn a' smaointinn."
+
+Bha an fear beag a' smaointinn gu robh an rionnag a' bruidhinn dìreach, agus thuirt e, "Tha mi a' dol a dh'fhàgail leat. Tha mi a' dol a dh'fhàgail an taigh, agus tha mi a' dol a dh'fhàgail an ghleann. Tha mi a' dol a dh'fhàgail còmhla riut."
+
+Chaidh an fear beag agus a' chiad rionnag a dh'fhàgail an taighe, agus chaidh iad a dh'fhàgail an ghleann. Bha iad a' dol tro na beanntan, agus bha iad a' dol tro na glinn. Bha iad a' dol a dh'fhàgail, agus bha iad a' dol a dh'fhàgail, gu ruige an uair a thàinig iad gu àite a bha gu math àrd.
+
+Bha an àite a bha iad air a dhol gu math àrd, agus bha e a' sealltainn gu math àrd. Bha an fear beag agus a' chiad rionnag a' coimhead sìos, agus bha iad a' faicinn na beanntan agus na glinn. Bha iad a' faicinn an taigh beag anns a' ghleann, agus bha iad a' faicinn an àite a bha iad air a dhol.
+
+"Tha mi a' smaointinn gu bheil sinn a' dol a dh'fhàgail gu math fad'," ars an fear beag.
+
+"Tha mi a' smaointinn gu bheil sinn a' dol a dh'fhàgail gu math fad' cuideachd," ars a' chiad rionnag. "Ach tha mi a' dol a dh'fhàgail leat, agus tha mi a' dol a dh'fhàgail còmhla riut."
+
+Chaidh an fear beag agus a' chiad rionnag a dh'fhàgail an àite a bha iad air a dhol, agus chaidh iad a dh'fhàgail na beanntan. Bha iad a' dol tro na glinn, agus bha iad a' dol tro na h-àiteachan. Bha iad a' dol a dh'fhàgail, agus bha iad a' dol a dh'fhàgail, gu ruige an uair a thàinig iad gu àite a bha gu math ìosal.
+
+Bha an àite a bha iad air a dhol gu math ìosal, agus bha e a' sealltainn gu math ìosal. Bha an fear beag agus a' chiad rionnag a' coimhead sìos, agus bha iad a' faicinn na h-àiteachan agus na glinn. Bha iad a' faicinn an taigh beag anns a' ghleann, agus bha iad a' faicinn an àite a bha iad air a dhol.
+
+"Tha mi a' smaointinn gu bheil sinn a' dol a dh'fhàgail gu math fad'," ars an fear beag.
+
+"Tha mi a' smaointinn gu bheil sinn a' dol a dh'fhàgail gu math fad' cuideachd," ars a' chiad rionnag. "Ach tha mi a' dol a dh'fhàgail leat, agus tha mi a' dol a dh'fhàgail còmhla riut."
+
+Chaidh an fear beag agus a' chiad rionnag a dh'fhàgail an àite a bha iad air a dhol, agus chaidh iad a dh'fhàgail na h-àiteachan. Bha iad a' dol tro na glinn, agus bha iad a' dol tro na beanntan. Bha iad a' dol a dh'fhàgail, agus bha iad a' dol a dh'fhàgail, gu ruige an uair a thàinig iad gu àite a bha gu math àrd.
+
+Bha an àite a bha iad air a dhol gu math àrd, agus bha e a' sealltainn gu math àrd. Bha an fear beag agus a' chiad rionnag a' coimhead sìos, agus bha iad a' faicinn na beanntan agus na glinn. Bha iad a' faicinn an taigh beag anns a' ghleann, agus bha iad a' faicinn an àite a bha iad air a dhol.
+
+"Tha mi a' smaointinn gu bheil sinn a' dol a dh'fhàgail gu math fad'," ars an fear beag.
+
+"Tha mi a' smaointinn gu bheil sinn a' dol a dh'fhàgail gu math fad' cuideachd," ars a' chiad rionnag. "Ach tha mi a' dol a dh'fhàgail leat, agus tha mi a' dol a dh'fhàgail còmhla riut."
+
+Chaidh an fear beag agus a' chiad rionnag a dh'fhàgail an àite a bha iad air a dhol, agus chaidh iad a dh'fhàgail na beanntan. Bha iad a' dol tro na glinn, agus bha iad a' dol tro na h-àiteachan. Bha iad a' dol a dh'fhàgail, agus bha iad a' dol a dh'fhàgail, gu ruige an uair a thàinig iad gu àite a bha gu math ìosal.
+
+Bha an àite a bha iad air a dhol gu math ìosal, agus bha e a' sealltainn gu math ìosal. Bha an fear beag agus a' chiad rionnag a'

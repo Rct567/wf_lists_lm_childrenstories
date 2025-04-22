@@ -1,0 +1,27 @@
+<prompt>
+Please write a timeless Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A bátrak és az okosak legendája'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>A bátrak és az okosak legendája</title>
+<body>
+A Szép-völgyben, ahol a patakok csillogó szalagként fonódtak át a zöld mezőkön, élt egy nép, akiknek két csoportja volt: a bátrak és az okosak. A bátrak hatalmas, izmos emberek voltak, akiknek ereje a hegyekhez hasonlóan szilárd volt. Végtelenül bátrak voltak, bármilyen veszélyt vállaltak, bármilyen feladat elé állították őket. Az okosak pedig, akiknek szemei ragyogóan csillogtak, minden kérdésre bölcsen feleltek, minden problémát okosan oldottak meg.
+
+Egy nap, hatalmas vihar tört ki a Szép-völgy felett. A hegyekről lecsapó eső özönként ömlött, a patakok dühösen zúgtak, és fenyegető villámok hasították a sötét eget. A falu házai remegtek a vihar erejétől.  A bátrak, akik a hegyi sziklákhoz hasonlóan állhatatosak voltak, azonnal a munka elé álltak.  Felhúzták a háztetők réseit, hogy ne ázzen el a falu.  A fákat, amelyek a viharban megrogytak, erős kezeikkel emelték vissza a helyükre.  A patakok mentén, ahol a vízfolyás fenyegetően áradni kezdett, szilárd gátakat építettek, hogy megvédjék a falut az áradástól.  Szorgalmasan dolgoztak, és szívükben egyetlen gondolat volt: a falu biztonsága.
+
+Az okosak pedig, akik a gyorsan változó éghajlatot figyelemmel kísérték, gyorsan átgondolták a vihar okozta problémákat.  A tapasztalatokat felhasználva új, hatékony módszereket találtak a károk minimalizálására. Tanácsot adtak a bátraknak, hogyan használják leghatékonyabban erejüket, felhívva a figyelmüket a helyi sajátosságokra.  Megállapították, melyek a leginkább veszélyeztetett területek, és felkészítették a falut a lehetséges további károkra.  Megtervezték, hogyan lehetnek a leghatékonyabbak, hogy a lehető leghamarabb eltávolítsák a romokat.  Tanácsaikkal és megfigyeléseikkel hasznosnak bizonyultak a bátrak munkájában.
+
+A vihar elmúlt, a nap ismét felragyogott a Szép-völgy felett. A falu, amelyet egykor a sötét felhők fenyegettek, most ragyogóan csillogott a napfényben.  A bátrak és az okosak együttesen működtek, hogy helyreállítsák a rendet a pusztítás után.  A bátrak megtisztították a patakokat a törmeléktől, az okosak pedig eltervezték, hogyan lehetne megakadályozni a jövőbeni viharok káros hatásait. A falu lakói ünnepelték a bátrak és az okosak együttműködését, amelynek során a falu biztonságát és jólétét biztosították.
+
+Egyszer, egy újabb vihar támadt a Szép-völgy felett. A bátrak és az okosak, tapasztalataikra támaszkodva, ismét együttműködtek. A bátrak gyorsan és hatékonyan védték a falut, míg az okosak megtervezték a károk minél gyorsabb és hatékonyabb megszüntetését. A falu lakói rájöttek, hogy a bátrak és az okosak egymásnak kiegészítői. A bátrak ereje a biztos alap, az okosak bölcsessége pedig a pontos iránymutatás. A Szép-völgyben béke és harmónia uralkodott, és a bátrak és az okosak együtt élték örömteli életüket, és minden nap újabb, közös kalandokban részesültek.
+
+A Szép-völgy legendája elterjedt a környező hegyek között, és sok más település utánzást talált a bátrak és az okosak együttműködésében.  Az emberek rájöttek, hogy a sikerhez nem elegendő csak bátorság, de az okosság is elengedhetetlen.  A bátrak és az okosak együttese az igazi erő, a közös cél és a megértés pedig a boldog élet garanciája. A Szép-völgyben azóta is élik a bátrak és az okosak legendáját, és minden generáció számára példát mutatnak az együttműködés erejére.
+</body>

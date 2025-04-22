@@ -1,0 +1,165 @@
+<prompt>
+Please write a dialog-based Icelandic children's story that is at least 1000 words long.
+It must be completely written in proper Icelandic (IS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Litli strákurinn sem fann töfra í gömlu bókinni sinni.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>is</lang_id>
+
+```xml
+<title>Litli strákurinn sem fann töfra í gömlu bókinni sinni.</title>
+<body>
+— Hæ, Palli! Hvað ertu að gera? spurði Stína.
+
+— Hæ, Stína! Ég er að fletta í gegnum gömlu bókina mína, svaraði Palli. Hann sat á gólfinu, umkringdur rykugum bókum. Sólin skein inn um gluggann og lýsti upp litlar rykagnir sem dönsuðu í loftinu.
+
+— Ó, er þetta bókin sem þú fannst á risinu? spurði Stína, hnýsin.
+
+— Já, þessi! Hún er svo... undarleg. Hún er ekki eins og hinar bækurnar mínar, hún er með svo undarlegum myndum og skrítnum orðum.
+
+Palli lyfti bókinni varlega upp. Hún var með grænum harðspjalda kápum sem höfðu dofnað með tímanum. Mynd á kápunni sýndi dularfullan fjallstind, hulið þoku.
+
+— Má ég sjá? sagði Stína og lagði sig á gólfið við hliðina á Palla. Hún horfði yfir öxlina á honum.
+
+Palli opnaði bókina. Blaðsíðurnar voru gulnaðar og lyktin af gömlu pappírnum fyllti loftið.
+
+— Sjáðu! Þessi mynd er skrítin, sagði Stína, benti á teikningu af vængjuðu hesti.
+
+— Já, mér finnst líka allt í þessari bók vera skrýtið. Ég kann ekki einu sinni að lesa allt sem stendur hérna, þetta er allt á einhverju fornu tungumáli.
+
+Þau flettu saman í gegnum bókina, ræddu um ólíkar teikningar, myndir af dýrum sem þau höfðu aldrei séð, og furðulegum táknum sem voru skrifuð á blöðunum.
+
+— Hvað heldurðu að þessi bók sé? spurði Stína loksins.
+
+— Ég veit það ekki, en ég held að hún sé eitthvað sérstakt. Það er eins og það séu leyndarmál í henni.
+
+— Leyndarmál? Spurði Stína, augun stór.
+
+— Já, leyndarmál. Leyndarmál sem ég ætla að reyna að finna! svaraði Palli, brosandi.
+
+Hann fletti aðeins aftar í bókina. Hann stoppaði við bladsíðu sem virtist öðruvísi en hinar. Á henni var mynd af litlum blómstrandi blómi, með fimm mjög skærum litum. Fyrir neðan myndina stóð stuttur texti á óþekktu tungumáli.
+
+— Sjáðu! Sagði Palli spenntur. Ég ætla að reyna að lesa þetta!
+
+Hann settist betur við, tók á andlitið eins og hann væri að læra fyrir próf. Stína fylgdist með honum, andann úr sér tekinn.
+
+Hann las hægt og vandlega, fylgdist með táknum og hljóðum.
+
+— Ég held… ég held ég skilji þetta! sagði Palli loksins. Þetta virðist vera töfraformúla!
+
+— Töfraformúla? Hvað meinarðu? spurði Stína forvitin.
+
+— Já, þetta segir hérna að ef maður segir orðin, og hugsar mjög mikið um eitthvað gott... þá muni það gerast.
+
+— Ó, Palli! Þetta er ævintýri! sagði Stína. Reynum þetta! Hvað á ég að hugsa um?
+
+Palli hugsaði sig um.
+
+— Hmmm... við skulum reyna að láta okkur dreyma um meiri ís!
+
+Stína hló.
+
+— Ég elska ís! Við skulum gera það. En hvað segir formúlan?
+
+Palli las aftur, vandlega.
+
+— Hún segir: "Blómið skærra, draumar nær. Um ísa land, í gleði fer". Þetta virkar kannski ekki, en það er gaman að prófa, finnst þér ekki?
+
+— Jú! Hvað annað? Hvernig ættum við að gera þetta?
+
+— Við skulum loka augunum, hugsa mjög mikið um ís, og segja orðin, sagði Palli, ákveðinn.
+
+Þau lokuðu augunum, hugsuðu um ís í öllum mögulegum bragðtegundum – jarðarberjaís, súkkulaðís, vanilluís…
+
+— Ertu tilbúin? spurði Palli, með bros á vör.
+
+— Já! svaraði Stína.
+
+— Blómið skærra, draumar nær. Um ísa land, í gleði fer! sögðu þau í kór.
+
+Þegar þau opnuðu augun aftur, leit hvorugt þeirra út fyrir að vera búin að verða fyrir neinum töfrum.
+
+— Hmmmm… ekkert gerðist, sagði Stína, svolítið vonsvikin.
+
+— Já… kannski virkar þetta bara ekki.
+
+Palli var að loka bókinni, en þá heyrðu þau dúndur í dyrunum.
+
+— Hvað var þetta? spurði Stína, hrædd.
+
+— Ég veit ekki…
+
+Palli gekk varlega að dyrunum og opnaði þær. Hann vissi varla hvað hann átti að búast við. En hvað hann sá gerði hann orðlausan.
+
+Fyrir utan dyrnar stóð… ísbíll! Og ekki bara hvaða ísbíll sem er, heldur fullur af öllum tegundum af ís sem þau gátu ímyndað sér.
+
+— Ó, vá! hvíslaði Stína.
+
+— Ég trúi þessu ekki! sagði Palli, steinhissa.
+
+Hjá bílnum stóð stór og ljúfur maður, í hvítum búningi.
+
+— Góðan daginn, litlu vinir! Sagði hann með gleði í röddinni. Ég heyrði þið viljið ís.
+
+Stína og Palli litu hvort á annað. Þau vissu að þetta var ótrúlegt.
+
+— Er… er þetta… draumur? spurði Palli, ennþá agndofa.
+
+— Nei, litli vinur, ekki draumur. Þetta er dásamlegt afleiðing af því að trúa! Nú, hvaða ís vilið þið?
+
+Þau öll gengu að ísbílnum. Stína og Palli fengu sér stórar skálar af ís, hlógu og nutu hverrar einustu sekúndu. Ísinn var bragðbetri en nokkur ís sem þau höfðu smakkað áður.
+
+Daginn eftir fór Stína heim, ennþá ofsæl yfir deginum. Palli varð eftir heima, þar sem hann tók bókina upp, og fletti í gegnum hana.
+
+— Hvað ætti ég að óska mér næst? sagði hann við sjálfan sig.
+
+Hann fletti í gegnum blaðsíðurnar. Allt í einu stöðvaðist hann. Á blaðsíðunni fyrir framan hann var ný teikning. Aftur af einhverjum skrýtnum blómi, og undir myndinni var ný töfraformúla.
+
+— Hvað segir þetta? sagði Palli upphátt.
+
+Hann las: "Í hjarta skóg, vinir nær. Dýr í hóp, í gleði fer."
+
+Palli horfði á myndina, og hugsaði sig um.
+
+— Skógur… vinir… Ég er viss um að það væri gaman!
+
+Þennan daginn fór hann út í skóg, með bókina sína, vonandi að nýr töfrar biðu eftir honum.
+
+Hann fann falinn stað í skóginum. Stað sem var algjörlega ónuminn af fólki, fjarri öllum húsunum og þjóðvegunum.
+
+Hann lokaði augunum, hugsaði um alla vini sína. Allir vinir hans sem hann hafði kynnst, allt frá barnaskólanum hans, og allir þeirri tíma í bókum og kvikmyndum, alla góðu sögurnar sem hann hafði lesið eða hlustað á.
+
+— Ertu tilbúinn? sagði hann við sjálfan sig.
+
+— Já!
+
+— Í hjarta skóg, vinir nær. Dýr í hóp, í gleði fer! sagði hann, hátt og skýrt.
+
+Aðeins sekúndu seinna, það var mjög skrýtið hljóð, eins og rækjur og dýrin frá alls konar ævintýrum virtust taka þátt í skrínslíku, skrýtinum skrámur sem eiga heima í skóginum. Hann heyrði flögra, gírafa gaurlaust á milli trjánna, rækjur hoppa á milli annarra, en á sama tíma tók hann eftir mörgum vinum hans, og líka fólki frá kvikmyndum og bókum, fólki sem hann var með mjög gaman að dreyma um.
+
+Palli hljóp í hópinn. Hann hoppaði og leika með vinum sínum. Það var fullt af hlátri og gleði í skóginum. Og hann vissi að allir vinir hans höfðu beðið í raun, eins og þeir vissu af töfrum bókarinnar.
+
+Þegar kvöldaði ákveði Palli að fara heim. Hann stóð frammi fyrir hópi vina sinna og dýra, brosandi.
+
+— Takk fyrir daginn! sagði hann. Ég átti mjög gott í dag.
+
+Vinirnir kveiktu í kór.
+
+Þegar Palli gekk út úr skóginum, aftur einn, gekk hann með bros á vör. Hann vissi að þessi gamla bók hans var ekki bara bók, heldur gátt að heimi töfra. Heimur sem hann gat alltaf snúið aftur í.
+
+Heima opnaði Palli aftur bókina sína. Blaðsíðurnar voru enn margar, enn fullar af leyndardómum og möguleikum. Hann vissi að margir fleiri ævintýri biðu eftir honum.
+
+— Hvað ætti ég að gera næst? Hvað ætti ég að óska mér næst? sagði Palli, augun skær af spennu.
+
+Hann fletti í gegnum blaðsíðurnar, og leit loksins á nýja mynd. Hún sýndi ungan dreng, sitjandi á tunglinu, með stjörnur í kring. Undir henni var ný formúla.
+
+Hann las hana upphátt: "Á nóttu ljóma, himinn opinn. Fyrir ofan heim, vonir hroknar!"
+
+Hann brosti breitt. Næsta ævintýri beið hans, og hann var tilbúinn að fara. Næturhiminninn, tunglið og stjörnurnar, biðu hans.
+</body>
+```

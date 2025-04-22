@@ -1,0 +1,47 @@
+<prompt>
+Please write a silly Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Minttu ja Satumetsän Salaperäiset Kasvit'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fi</lang_id>
+
+<title>Minttu ja Satumetsän Salaperäiset Kasvit</title>
+<body>
+Olipa kerran pieni, punatukkainen tyttö nimeltä Minttu. Minttu asui värikkäässä talossa, jossa oli vinot katot ja ikkunalaudoilla tanssahtelevia kukkia. Hänen suurin unelmansa oli löytää Satumetsä, jonka sanottiin piilottelevan kaikkien sateenkaarien päässä. Aikuiset vain naureskelivat tälle ajatukselle, mutta Minttu tiesi totuuden. Hän oli kuullut metsästä mummon vanhalta kirjailijaystävältä, rouva Kurppaselta, jonka mielikuvitus oli yhtä villi kuin metsän kasvillisuus.
+
+Eräänä aurinkoisena aamuna Minttu päätti, että nyt oli aika lähteä etsimään Satumetsää. Hän pakkasi reppuunsa eväitä: korvapuusteja, rusinapaketin ja pullollisen itse tehtyä mustikkamehua. Mukaan lähti myös hänen rakas, sininen pupunukke, Pörröpää. Minttu oli saanut nuken isältään, ja Pörröpää oli jo nähnyt monta seikkailua.
+
+Matka alkoi Mintun takapihalta. Hän ohitti punaisena loistavan omenapuun, jossa kiemurteli toukka, jolla oli hattupäähine. "Huomenta, toukka!" Minttu tervehti. Toukka kohotti hattuaan kohteliaasti ja mutisi jotain, mitä Minttu ei ymmärtänyt.
+
+Pian Minttu oli metsässä. Puut olivat niin korkeita, että niiden latvat koskivat taivasta. Välillä aurinko pilkisti lehtien välistä kuin utelias orava. Kävellessään Minttu huomasi outoja kasveja. Ensinnäkin hän näki sienen, jolla oli aurinkolasit ja joka luki kirjaa. Sitten hän kohtasi punaisen, muhkean kukan, joka nauroi. "Hih hih!" kukkiva naurahti. "Olen Kukka Kukkainen, ja olen hyvin... kukallinen!"
+
+Minttu hymyili. Hän rakasti hassuja asioita. Hän kysyi Kukkaiselta, tietääkö tämä, missä Satumetsä on. "Tottakai tiedän!" Kukka Kukkainen vastasi ja pullisti rintaa. "Se on siellä missä... öh... missä on paljon värejä ja... kasveja." Hän mietti hetken. "Mene suoraan eteenpäin, ohi räkäisen lehtikasautuman ja kiivetä koivun oksaa pitkin. Sieltä löydät tienviitan, joka näyttää sinulle suunnan!"
+
+Minttu kiitti ja lähti matkaan. Räkäinen lehtikasa näytti hieman... no, räkäiseltä, mutta Minttu ohitti sen reippaasti. Koivun oksalle kiipeäminen oli haastavaa, mutta Minttu oli urhea. Ylhäällä hän löysi puusta kiinnitetyn pienen, puisen viitan, jossa luki: "Satumetsä - 3 kookosrasvaa!" Minttu ihmetteli. Kookosrasvaako? Miksi?
+
+Hän jatkoi matkaa ohittamalla pienen puron, jonka vesi oli kuplivaa mehua. Purosta kalasteli pikkuruinen, vaaleanpunainen kala, joka nauroi koko ajan. Kala kertoi Mintulle, että kookosrasva viittaa lohikäärmeeseen, joka pitää Satumetsän portteja. Lohikäärme tykkää syödä kookosrasvaa.
+
+Minttu, Pörröpää sylissään, jatkoi matkaa. Pian hän saapui suurelle niitylle, jossa kasvoi kukkia, jotka puhuivat runoja. Yksi kukista, nimeltä Runokukka, kietoutui Mintun jalkoihin ja lausui: "Hämärä hiljaa hiipii jo, ja auringon kulta häipyy jo..." Minttu antoi Runokukalle suukon poskelle, ja kukka muuttui hymyileväksi keltaiseksi auringonkukaksi.
+
+Niityn reunalla seisoi suuri, vihreä lohikäärme. Sen silmät olivat suuret ja kirkkaat kuin karkkiluomukset. Lohikäärme nieleskeli ja kysyi: "Onko sinulla kookosrasvaa?" Minttu kaivoi repustaan rusinapussin ja korvapuustin. "Valitettavasti minulla ei ole kookosrasvaa, mutta minulla on rusinoita ja korvapuusteja?" Lohikäärme kohotti kulmakarvojaan. "Rusinoita? No, kai minä niitä voin maistaa."
+
+Minttu antoi lohikäärmeelle rusinoita ja korvapuusteja. Lohikäärme nautti herkuista suurella suulla ja hymyili tyytyväisenä. "Olen Loitsu Lohikäärme", hän sanoi. "En yleensä päästä ketään Satumetsään ilman kookosrasvaa, mutta nämä rusinat ja korvapuustit olivatkin hyviä." Hän avasi suuren, kimeltävän portin, jonka takaa avautui värikäs maailma. "Astukaa sisään, rohkea tyttö ja sininen pupu!"
+
+Minttu ja Pörröpää astelivat sisään Satumetsään. Puut olivat pastellivärisiä, ja lehdet soittivat musiikkia tuulessa. Joet virtasivat limpparia, ja taivaalla lensivät puhuvia perhosia. Maassa kasvoi syötäviä sateenkaaria, jotka maistuivat eri hedelmiltä.
+
+He kohtasivat puita, joilla oli parta ja jotka kertoivat hassuja vitsejä. He juttelivat sammakoiden kanssa, jotka joivat mehua teekupeista. He ratsastivat jättimäisillä, lentävillä oravilla.
+
+Minttu, sydän täynnä iloa, tutki Satumetsää. Hän söi sateenkaarimakeisia ja nauroi puhuville perhosille. Pörröpää pomppi iloisena ja heilutti korviaan.
+
+Päivä vierähti kuin sekunnit. Vihdoin oli aika lähteä kotiin. Minttu ja Pörröpää kiittivät Loitsu Lohikäärmettä, joka lupasi, että he saisivat tulla takaisin milloin vain.
+
+Minttu käveli takaisin kotiin, hymy huulillaan. Hän oli löytänyt Satumetsän! Hän kertoi äidilleen ja isälleen päivän seikkailuistaan, ja he vain nauroivat, mutta Minttu tiesi totuuden.
+
+Ensi päivänä Minttu teki uusia eväitä, myös kookosrasvaa ja lähti takaisin Satumetsään. Hän tiesi, että häntä odotti uusia, salaperäisiä kasveja ja entistäkin hullumpia seikkailuja. Ja niin seikkailut jatkuivat, aina ja ikuisesti, Satumetsässä ja Mintun sydämessä. Loppu.
+</body>

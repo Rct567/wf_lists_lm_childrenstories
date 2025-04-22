@@ -1,0 +1,71 @@
+<prompt>
+Please write a silly Spanish children's story that is at least 1000 words long.
+It must be completely written in proper Spanish (ES).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'El Castillo de Hielo'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>es</lang_id>
+
+```xml
+<title>El Castillo de Hielo</title>
+<body>
+Había una vez, en un reino muy, muy lejano, un castillo. Pero no cualquier castillo, ¡no, señor! Este castillo era el Castillo de Hielo, construido enteramente de... ¡hielo! Imagínense las puertas, las ventanas, las torres… todo, ¡hecho de cristal transparente y helado! Vivía en él la Princesa Pepa, una niña con el pelo color zanahoria y una risa tan contagiosa que hacía que las estatuas de pingüinos del jardín se sonrieran.
+
+Pepa era una princesa muy peculiar. En lugar de vestirse con vestidos largos y aburridos, prefería monos con estampados de fresas y botas de lluvia rosas. Le encantaba comer helado, pero solo de sabor a… ¡pepino! (Sí, lo sé, ¡rarísimo!). Y en vez de tener un dragón guardián, tenía un gato llamado Churro, que era gordo, naranja y con una afición desmedida por las siestas.
+
+Un día, Pepa estaba jugando al escondite con Churro en el salón principal del castillo. “¡Uno, dos, tres… ya voy, Churro!”, gritaba Pepa, tapándose los ojos con las manos. Churro, como buen gato, estaba escondido en el lugar más obvio: ¡dentro de un jarrón gigante!
+
+De repente, ¡CRAC! El jarrón se rompió en mil pedazos de hielo. Churro saltó, asustado, y Pepa abrió los ojos, lista para encontrar a su amigo. Pero en vez de ver a Churro y los trozos de jarrón, vio… ¡un agujero! Un agujero grande, brillante y con forma de… ¡roca gigante!
+
+Pepa, con la curiosidad que la caracterizaba, no lo pensó dos veces. Se arrodilló y miró dentro del agujero. ¡Oh, sorpresa! Lo que veía era… ¡otra sala del castillo! Pero esta sala era diferente. Era cálida, con paredes de arena dorada y llena de… ¡cactus con sombreros mexicanos!
+
+“¡Churro, ven a ver esto!”, gritó Pepa, llamando al gato. Churro, después de recuperarse del susto, se acercó a la princesa y maulló, "¿Miaaau?", con su voz profunda y ronca.
+
+Pepa se adentró en el agujero y entró en la sala. En el centro, vio una mesa redonda cubierta con un mantel rojo a lunares verdes. Encima de la mesa, había una bandeja con… ¡tacos de pepino! (¡Qué coincidencia!). Y alrededor de la mesa, ¡seis sillas! Pero en cada silla había… un animal muy peculiar.
+
+En la primera silla, estaba un camello con gafas de sol, leyendo un periódico en árabe. En la segunda, una serpiente con un turbante y tocando el sitar. En la tercera, un oso panda vestido de mariachi, afinando su guitarra. En la cuarta, un loro parlanchín con un sombrero charro, contando chistes en español. En la quinta, una llama vestida de bailarina de flamenco, lista para bailar. Y, finalmente, en la sexta silla, un pingüino con bigote, fumando una pipa y con un mapa arrugado.
+
+Pepa, emocionada y un poco confundida, decidió acercarse a ellos. El camello levantó la vista de su periódico, la serpiente detuvo su música, el oso panda dejó su guitarra, el loro calló sus chistes, la llama se detuvo en su estiramiento y el pingüino sacó la pipa de su boca.
+
+“¡Bienvenidos al Club de los Animales Extraordinarios!”, dijo el pingüino con bigote, con voz grave. “Hoy, tenemos un invitado especial: ¡la Princesa Pepa!”
+
+“¿Princesa?”, preguntó la serpiente, en un tono misterioso. “¿De verdad eres una princesa que come helado de pepino y tiene un gato gordo?”
+
+Pepa, un poco avergonzada, asintió. “Sí, y me encantan los tacos de pepino… ¿qué hacen ustedes aquí?”
+
+“Somos viajeros”, respondió el camello, con su voz profunda. “Hemos viajado por todo el mundo, y ahora nos reunimos para contarnos nuestras aventuras”.
+
+El oso panda sonrió. “Y para comer tacos de pepino, ¡por supuesto!”
+
+La llama, ansiosa, movió los pies. “¡Y para bailar flamenco cuando terminamos de comer!”
+
+El loro, que no se podía quedar callado, exclamó: “¡Y para contar chistes malos!”
+
+El pingüino, con un guiño, dijo: “Y para planear nuestras próximas aventuras… pero esta vez, contigo, Princesa Pepa”.
+
+Pepa, aunque sorprendida, sintió una gran emoción. ¡Siempre había querido tener aventuras! Y, ¡con animales extraordinarios! Aceptó la invitación sin dudarlo.
+
+Después de una deliciosa comida de tacos de pepino y una animada conversación, el Club de los Animales Extraordinarios decidió planificar su primera aventura. El pingüino con bigote sacó su mapa.
+
+“Debemos encontrar… ¡la Flor de la Risa!”, exclamó el pingüino. “Dicen que la Flor de la Risa puede curar cualquier tristeza y que florece en el desierto de los churros gigantes…”
+
+La Princesa Pepa, el gato Churro (que, inexplicablemente, se había unido al club), el camello, la serpiente, el oso panda, el loro, la llama y el pingüino partieron hacia el desierto de los churros gigantes.
+
+El viaje no fue fácil. Tuvieron que cruzar montañas de algodón de azúcar, esquivar tormentas de confeti, y resolver enigmas planteados por duendes bailarines. El camello utilizaba su paciencia para superar las dificultades, la serpiente usaba su ingenio para encontrar caminos ocultos, el oso panda tocaba melodías que animaban al grupo, el loro contaba chistes para levantar el ánimo, la llama bailaba flamenco para hacerles sonreír, el pingüino lideraba con sabiduría y Churro… ¡dormía en el lomo del camello, roncando!
+
+Después de muchos días de viaje, finalmente llegaron al desierto. ¡Y vaya desierto! Estaba lleno de churros gigantes, tan grandes como árboles. ¡Y en medio del desierto, florecía la Flor de la Risa! Era una flor enorme, con pétalos brillantes y una sonrisa dibujada en cada uno.
+
+El grupo, fascinado, se acercó a la flor. La Princesa Pepa, con su risa contagiosa, empezó a reírse. Y la Flor de la Risa, al escuchar la risa de la princesa, se iluminó aún más.
+
+“¡Misión cumplida!”, exclamó el pingüino.
+
+De vuelta al Castillo de Hielo, la Princesa Pepa y el Club de los Animales Extraordinarios compartieron sus aventuras con todo el reino. Churro se convirtió en el héroe de la siesta, la princesa en una embajadora de la alegría y el helado de pepino, y el reino se convirtió en un lugar más feliz. Y, por supuesto, ¡seguían comiendo tacos de pepino!
+Y así, en el reino de hielo y risas, cada día era una nueva aventura, esperando ser vivida por la Princesa Pepa y sus amigos.
+El fin… o quizás, ¡el principio de muchas más aventuras!
+</body>
+```

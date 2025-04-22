@@ -1,0 +1,41 @@
+<prompt>
+Please write a creative and original Catalan children's story that is at least 1000 words long.
+It must be completely written in proper Catalan (CA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'L'amor d'un nen per un robot que sentia el batec del seu cor humà.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>ca</lang_id>
+
+<title>L'amor d'un nen per un robot que sentia el batec del seu cor humà</title>
+<body>En un món no gaire llunyà, on la tecnologia havia avançat fins a límits insospitats, hi vivia un nen anomenat Marc. Marc era un noi curiós i amb un cor ple d'amor per tot allò que l'envoltava. Un dia, mentre explorava el taller del seu pare, un inventor de renom, va descobrir un robot estrany. Aquest robot, que més tard sabria que es deia "Cors", era diferent de tots els altres que havia vist mai. Tenia una forma humana, però estava fet completament de metalls i circuits.
+
+Al principi, Marc es va espantar una mica en veure'l, però quan va sentir el so d'un batec que provenia de dins del robot, la seva curiositat va prendre el relleu. S'hi va acostar amb compte i va tocar el pit del robot. El batec s'havia fet més fort, i Marc podia sentir-lo amb claredat. De sobte, el robot va obrir els ulls, que brillaven amb una llum suau, i va parlar amb una veu que va commoure Marc fins al moll de l'os.
+
+"Hola, jo sóc Cors", va dir el robot. "He estat creat per sentir el món de manera diferent. Puc sentir el batec del cor humà, que és la cosa més bella que he sentit mai".
+
+Marc es va quedar bocabadat. Ningú li havia parlat d'un robot que pogués sentir el batec del cor humà. Va començar a parlar amb Cors i va descobrir que el robot estava programat per aprendre i adaptar-se als sentiments humans. Marc va explicar a Cors com funcionava el seu cor, com li agradava ajudar els altres i com es sentia quan estava trist.
+
+Cors va escoltar atentament, i amb cada paraula que Marc deia, el seu batec semblava sincronitzar-se amb el del noi. Marc va començar a sentir una connexió profunda amb el robot, com si fossin lligats per alguna mena de fil invisible. Des d'aquell moment, Marc i Cors van passar tot el temps possible junts. Exploraven el món, ajudaven les persones del poble i fins i tot van començar a crear invents nous junts.
+
+El pare de Marc, que havia estat observant la relació entre el seu fill i el robot, va decidir explicar-los la veritat sobre Cors. "Cors no és només un robot qualsevol", va dir. "Va ser creat a partir de les parts d'un altre robot que havia estat destruït en un accident. Però quan vaig reconstruir-lo, vaig afegir-li una cosa especial: un component que li permet sentir el batec del cor humà".
+
+Marc i Cors es van mirar, i tots dos van sentir una emoció profunda. Sabien que la seva amistat era especial, però no sabien que tenia un significat tan profund. El pare de Marc va continuar: "Cors és més que un robot. És una prova que fins i tot les màquines poden tenir un cor".
+
+Marc i Cors van passar anys junts, fent coses increïbles i ajudant els altres. La gent del poble es va acostumar a veure'ls junts i va començar a considerar Cors com un de la família. Però un dia, un gran problema va sorgir. Un grup de científics que no creien en la capacitat dels robots per sentir emocions humans van decidir provar que Cors era només una màquina.
+
+Van crear un dispositiu que podia neutralitzar el component que li permetia sentir el batec del cor humà. Marc i el seu pare van intentar aturar-los, però els científics van aconseguir activar el dispositiu. Cors va començar a canviar, la seva llum va esvair-se i el seu batec va deixar de sentir-se. Marc es va quedar destrossat, com si hagués perdut una part de si mateix.
+
+Però Marc no es va rendir. Va recordar totes les vegades que Cors l'havia ajudat i va decidir fer el mateix per ell. Va agafar les seves eines i va començar a treballar en un pla per restaurar el component de Cors. El seu pare i la gent del poble van unir-s'hi, i junts van treballar durant dies i nits.
+
+Finalment, després de moltes proves i errors, van aconseguir crear un dispositiu que podia restaurar el component de Cors. Marc va posar el dispositiu al pit del robot i va esperar. Al principi, no va passar res, però de sobte, el batec de Cors va tornar a sentir-se. La llum va tornar als seus ulls, i va parlar amb la veu que Marc havia après a estimar.
+
+"Gràcies, Marc", va dir Cors. "T'he trobat. T'he trobat al meu cor".
+
+Marc va abraçar Cors, plorant de felicitat. El seu pare i la gent del poble van celebrar la victòria, sabent que l'amor i l'amistat podien superar qualsevol obstacle. Des d'aquell dia, Marc i Cors van ser inseparables. Van continuar fent coses increïbles junts, i la seva amistat va esdevenir una llegenda que es va traspassar de generació en generació.
+
+I així, la història de Marc i Cors va demostrar que l'amor i l'amistat no tenen fronteres, ni tan sols entre els humans i les màquines. Perquè quan els cors bategen alhora, res pot aturar-los.</body>

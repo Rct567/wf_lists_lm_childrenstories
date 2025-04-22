@@ -1,0 +1,37 @@
+<prompt>
+Please write a silly Danish children's story that is at least 1000 words long.
+It must be completely written in proper Danish (DA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Den kloge gamle mand fra Århus'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>da</lang_id>
+
+<title>Den kloge gamle mand fra Århus</title>
+<body>
+<p>En smuk sommerdag i Århus, hvor solen skinnede varmt på de farverige tage, sad en gammel mand ved en lille kiosk. Hans navn var Ole, og han havde et par smukke, blå øjne, der kunne se lige igennem dig, hvis du var en smule uærlig.  Han solgte is, og det var et fantastisk job, for hvem kan modstå en is på en varm sommeraften? </p>
+
+<p>Ole havde en helt særlig hemmelighed. Han kunne snakke med dyr.  Katte fortalte ham om deres drømme om mus, fugle sang ham sange om sommerfugle, og bier fortalte om de fantastiske blomster.  Han hørte alt, og han lyttede altid opmærksomt, for han var en klog mand.  Ikke fordi han kunne læse eller skrive, nej, hans visdom var en ubeskrivelig form for indsigt. Han havde den klogskab, man får af at se verden, for i Århus var der altid noget spændende at opdage.</p>
+
+<p>På den dag mødte Ole en lille, urolig mus.  Musen hedder Pip og var ikke helt sikker på, hvad hun skulle foretage sig.  Hun havde mistet sin familie og løb nu rundt i Århus, og hun var både bange og sulten. Hun havde set Ole mange gange, mens hun snusede rundt blandt kioskens planter, men hun tørrede aldrig at tale til ham.  Pludselig kom hun tæt på Ole, og i det øjeblik, han så hendes triste ansigt, forstod han, hvad der skete.</p>
+
+<p>"Hvad er det, der plager dig, min lille Pip?" spurgte Ole med sin milde stemme.  Pip, der var vant til at være alene og ikke til at stole på andre, kiggede på Ole med store, runde øjne.  "Jeg...jeg er tabt," hviskede hun, hendes stemme næsten usynlig. "Jeg har mistet min familie, og jeg ved ikke, hvordan jeg skal finde dem igen." </p>
+
+<p>Ole nikkede med et smil.  "Jeg ved, at det er svært," sagde han. "Men jeg kan hjælpe dig, Pip." Han tog en håndfuld kerner fra sin skuffe, små, sprøde solsikkekerner, og lagde dem på kanten af disken. "Disse kerner kan hjælpe dig til at finde vej." </p>
+
+<p>"Hvordan?" spurgte Pip forbavset.  Ole smilte. "Disse kerner er et spor.  De er små, og de er gule, som sommerens sol.  Føl din vej med dem, og følg sollyset. Det vil guide dig til dine venner."  Han fortalte hende om de hemmelige stier i Århus, om de små skove og de blomstrende haver, om hvor hun kunne finde de bedste kerner, og hvordan man kunne bruge dem til at skabe et varmt hjem.</p>
+
+<p>Pip takkede Ole med et lille hop og gik afsted, de små kerner i hendes mund. Hun fulgte sollyset, og snart fandt hun sine familiemedlemmer, der var ved at give op. Det var en rørende genforening, og Pip fortalte sine venner om den kloge gamle mand fra Århus og de små kerner, der havde reddet hende. Fra den dag af blev Ole kendt i Århus som "Den kloge gamle mand fra Århus". Han hjalp ikke kun med at skabe en følelse af tryghed, han hjalp også med at skabe en venlig og åben atmosfære.</p>
+
+<p>En dag kom en lille, forvirret svane til Ole. Hun var blevet adskilt fra sin flok under en storm, og hun vidste ikke, hvordan hun skulle finde vej tilbage.  Ole lyttede til hende med fuld opmærksomhed, og så gav han hende et lille, blomstret håndklæde, der var gennemsyret af en særlig duft.  "Husk på denne duft," sagde Ole. "Den duft vil føre dig tilbage til dine venner."  Og med en smule held og lidt kærlighed fandt svanen sin vej tilbage til sin flok.  Hun fløj højere og højere, dens vinger fløj i takt med vinden, og hun sang en taknemmelig sang for Ole, der var en klog mand, og for Århus, der var en varm by.</p>
+
+<p>Ole var glad for at hjælpe, for han vidste, at venlighed og kærlighed var en af de mest værdifulde ting i verden. Han fortsatte med at sælge is og hjælpe de små skabninger, der var kommet forbi hans kiosk. Og hver dag hørte man Ole snakke med dyr i den hyggelige atmosfære i Århus. De var venner med ham, og han var en stor del af dem.</p>
+
+<p>Og så var der en dag, hvor en lille, forvirret bjørn kom til Ole.  "Jeg har mistet min mor," sagde bjørnen, hendes stemme fyldt med bekymring. "Hvad skal jeg gøre?" Ole smilede og tog bjørnen i hånden. "Jeg ved, at det er en vanskelig tid," sagde han, "men du er ikke alene.  Føl din vej, bjørnen. Dit hjerte er din vej, og dit hjerte fører dig til din mor.  Du vil finde hende." Og bjørnen, med et varmt hjerte i sin lille brystkasse, gik mod skoven, og med Ole's hjælp fandt hun sin mor.</p>
+
+<p>Og så fortsatte Ole sin hverdag i Århus, med et smil på læben, og han sørgede for, at alle i Århus huskede, at der altid var håb, og at kærligheden altid finder sin vej, uanset om den var i form af en klog mand eller en lille, forvirret svane.</p>
+</body>

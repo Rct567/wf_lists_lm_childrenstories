@@ -1,0 +1,39 @@
+<prompt>
+Please write a educational Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Pūķa izglābtāji un aizmirstie dārgumi'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lv</lang_id>
+
+<title>Pūķa izglābtāji un aizmirstie dārgumi</title>
+<body>
+Rūpīgi iekopta meža malā, zem senām, spēcīgām ozolām, atradās mazs, bet silts namiņš. Tajā dzīvoja trīs draugi: Zīle, kurš prata lieliski stāstīt stāstus,  Pēteris, ar brīnišķīgu rokrakstu un spējām izdarīt brīnumus ar krāsām, un Elza, gudra un iejūtīga meitene, ar neticamu spēju saprast dzīvnieku valodu.
+
+Viņi bija pazīstami visā mežā kā Pūķa izglābtāji.  Leģenda stāstīja par milzīgu pūķi, kas glabāja aizmirstos dārgumus dziļā alā zem kalna. Dārgumi esot tik spoži un vērtīgi, ka varētu apgaismot visu pasauli. Taču pūķis, baidoties no ļaunprātīgiem medniekiem, bija aizslēdzis alā ieeju, un neviens nekad nebija atklājis noslēpumu, kā to atkal atvērt.
+
+Zīle, Pēteris un Elza, dzirdējuši leģendu, nolēma doties uz kalnu, lai meklētu pūķi un atklātu noslēpumu.  Ceļš bija grūts un apdraudēts.  Mežā slēpās viltīgi vilki, kas ieklausījās katrā troksnī, un  neparedzami strauji plūda upītes, kas bieži vien kļuva par neiespējāmām šķēršļiem.
+
+Pēteris, ar savu brīnišķīgo rokrakstu, uzrakstīja dzejoļus, kas nomierināja vējš un aizmigrināja vilkus.  Elza, ar savu spēju saprast dzīvnieku valodu, sarunājās ar meža iemītniekiem, lūdza ceļa norādījumus un atklāja slēptos ceļus.  Zīle, ar saviem stāstu dāvanām, atklāja senas zināšanas un izskaidroja noslēpumainus zīmes, kas bija atstātas uz akmeņiem.
+
+Viņi gāja un gāja, līdz sasniedza kalna virsotni.  Tur, starp milzīgiem akmeņiem, atklāja nelielu, ieeju slēptu alā.  Alā valdošā gaisma bija neparasti dziļa un dīvaina.  Pūķis, milzīgs un spēcīgs, bet ar maigām acīm, mierīgi gulēja uz dārgumiem.
+
+"Mēs neesam te, lai kaitētu," Zīle mierīgi sacīja,  "mēs esam te, lai palīdzētu."
+
+Pūķis, kas bija dzirdējis daudzus stāstus par cilvēku ļaunprātību, skeptiski uzlūkoja draugus.
+
+Elza, ar savu dziļo skaņu, paskaidroja, kāpēc viņi ir atnākuši.  Viņa stāstīja par meža skaistumu, par dzīvnieku draudzību un par cilvēku nepieciešamību saprast un ciena dabas noslēpumus.  Pēteris, uzvelkot krāsas uz akmeņiem, radīja skaistus zīmējumus, kas apliecināja viņu miermīlīgās nodomās.
+
+Pūķis, dzirdēdams draugu vārdus un redzēdams viņu darbu, atvēra alā ieeju.  Aizslēgtā telpā atklājās neskaitāmi dārgumi - spoži kristāli, kas spīdēja kā zvaigznes, un dzeltenie metāli, kas spīdēja kā saule.
+
+Bet pūķis nebija vienkārši dārgumu glabātājs.  Viņš bija meža sargs, kas aizsargāja to no ļaunprātīgiem medniekiem un nodrošināja, ka dārgumi paliek droši.  Viņš pastāstīja, ka dārgumi nav tikai materiālas vērtības.  Tie ir meža dvēsele, kas jāaizsargā un jācienā.
+
+Zīle, Pēteris un Elza, sapratuši pūķa gudrību, atgriezās mežā.  Viņi nebija atnākuši pēc dārgumiem, bet gan pēc gudrības un zināšanām.  Viņi atgriezās ar jaunu redzējumu par pasauli un ar sirdi pilnu pateicības.
+
+Un tā Pūķa izglābtāji kļuva par meža iedvesmu, mācot visiem, ka draudzība, iejūtība un godprātība ir vērtīgāki par jebkuru dārgu dārgumu.  Un dzirkstošie dārgumi, kas palika alā, turpināja spīdēt,  aizsargāti un iekopti.
+</body>

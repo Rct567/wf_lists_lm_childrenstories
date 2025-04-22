@@ -1,0 +1,44 @@
+<prompt>
+Please write a educational Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Pöllöpuun alla piilevä salaisuus'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>fi</lang_id>
+
+<title>Pöllöpuun alla piilevä salaisuus</title>
+<body>
+Kaikki alkoi eräänä sateisen syksyisenä iltapäivänä, kun koululaiset olivat palaamassa kotiin päivän opinnoista. Heidän kylänsä, Pikkukylä, oli pieni ja idyllinen paikka, jossa jokainen tunsi toisensa. Kylän reunalla kohosi suuri, vanha pöllöpuu, jonka oksat olivat taipuneet ajan myötä ja joiden alla kylän lapset leikkivät usein.
+
+Eräs koululainen, nimeltään Lumi, oli erityisen utelias ja rakasti salaisuuksia. Hän oli aina kuullut, että pöllöpuun alla oli jokin salaisuus, mutta kukaan ei ollut koskaan kertonut hänelle, mitä se oli. Lumi päätti, että hän halusi selvittää asian itse.
+
+Hän kutsui parhaimmat ystävänsä, Mikon ja Ainan, mukaansa seikkailuun. He kokosivat taskulampun, eväät ja lähtivät pöllöpuun luokse. Sade oli lakannut, ja taivas oli selkenemässä. Pöllöpuu näytti valtavalta ja mystiseltä hämärän valossa.
+
+Kun he saapuivat puun juurelle, he huomasivat, että sen runko oli paljon suurempi kuin he olivat ajatelleet. Lumi otti taskulampun esille ja valaisi puun juurta. He näkivät, että puun runkoon oli kaiverrettu pieni ovi, jota he eivät olleet aiemmin havainneet.
+
+"Katsokaa! Tässä on ovi!" Lumi huudahti.
+
+Mikko ja Aina katsoivat toisiinsa ja sitten takaisin Lumelle. He tiesivät, että heidän täytyi avata ovi ja tutkia, mitä siellä oli. Lumi etsi avainta, mutta he eivät löytäneet sitä missään. Sitten Mikko muisti, että hänen isänsä, joka oli kylän seppä, oli kertonut hänelle, että vanhojen ovien avaimet voivat olla piilossa lähellä ovea.
+
+Aina etsi ympäröivää aluetta ja löysi lopulta pienen, ruston avaimen puun juuren alla olevasta kolosta. He avasivat oven ja löysivät itsensä pienen, hämärän kammiosta. Kammiosta löytyi vanha, nahkaan sidottu kirja, joka oli täynnä kauniita, käsin piirrettyjä kuvia.
+
+Lumi avasi kirjan ja alkoi lukea. Kirja kertoi Pikkukylän historiasta ja sen perustajista, jotka olivat olleet rohkeita ja älykkäitä ihmisiä. He olivat perustaneet kylän paikalle, jossa he voisivat elää rauhassa ja turvassa. Kirja kertoi myös pöllöpuun salaisuudesta, joka oli, että puu oli ollut kylän perustajien suojelija ja oli antanut heille voiman ja rohkeuden.
+
+Kun he lopettivat lukemisen, he kuulivat äänen kammiosta. Se oli pöllö, joka istui ylhäällä puun oksalla ja tarkkaili heitä. Pöllö puhui heille ja kertoi, että hän oli kylän perustajien henki, joka oli jäänyt puun luo suojelemaan kylää ja sen asukkaita.
+
+Lumi, Mikko ja Aina kuulivat pöllön tarinan ja ymmärtivät, että heidän kylänsä oli erityinen paikka, jossa historian henget elivät edelleen. He kiittivät pöllöä ja lupasivat pitää kylän salaisuuden ja suojeella sitä tuleville sukupolville.
+
+Kun he poistuivat kammiosta, he näkivät, että taivas oli täynnä tähtiä, ja pöllöpuu näytti valtavalta ja voimakkaalta. He tiesivät, että he olivat kokeneet jotain erityistä ja että heidän elämänsä oli muuttunut ikiajoiksi.
+
+Seuraavana päivänä Lumi, Mikko ja Aina kertoivat kylän asukkaille, mitä he olivat löytäneet pöllöpuun alla. Kylän asukkaat kuulivat heidän tarinaansa ja ymmärtivät, että heidän kylänsä oli todella erityinen paikka. He päättivät pitää pöllöpuun ja sen salaisuuden turvassa ja suojelevat sitä tuleville sukupolville.
+
+Ja niin, Pikkukylä jatkoi elämäänsä, mutta nyt kylän asukkaat tiesivät, että heidän kylänsä oli erityinen paikka, jossa historian henget elivät edelleen. Lumi, Mikko ja Aina olivat löytäneet pöllöpuun salaisuuden, ja he tiesivät, että heidän elämänsä oli muuttunut ikiajoiksi.
+
+Vuodet menivät, ja Lumi, Mikko ja Aina kasvoivat aikuiseksi. He muistivat aina pöllöpuun salaisuuden ja pitivät sitä turvassa. He kertoivat tarinaa omille lapsilleen ja lapsenlapsilleen, ja näin tarina siirtyi sukupolvelta toiselle.
+
+Ja pöllöpuu seisoi edelleen kylän reunalla, voimakkaana ja valtavana, muistuttamassa kylän asukkaille heidän kylänsä salaisuudesta ja historiasta. Pöllö istui edelleen puun oksalla, tarkkaili kylää ja suojelee sitä kaikelta. Ja Lumi, Mikko ja Aina tiesivät, että heidän löytönsä oli ollut vain alkua uudelle seikkailulle, joka veisi heidät kohtaamisiin uusien salaisuuksien ja seikkailujen kanssa.</body>

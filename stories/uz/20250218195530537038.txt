@@ -1,0 +1,31 @@
+<prompt>
+Please write a creative and original Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Rang-barang gullar bilan bezalgan bog'dagi hasharotlarning hayoti'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>Rang-barang gullar bilan bezalgan bog'dagi hasharotlarning hayoti</title>
+<body>
+Qoraqalpog'istonning quyoshli va iliq o'lkalaridan birining chekkasida, rang-barang gullar bilan bezalgan go'zal bir bog' bor edi.  Bu bog'da har bir gullar barglarining orasida, har bir barg ustida, har bir gul qopqog'i ostida hayot jonlanib turardi.  Kichkina qora chuqurchalar, rang-barang kapalaklar, mayda-mayda o'rgimchaklar, shuningdek, boshqa ko'plab hasharotlar bu go'zal bog'da o'zlarining  ajoyib, qiziqarli va ba'zan hayratomuz hayotlarini kechiradigan edilar.
+
+Bog'ning markazida eng baland va eng chiroyli gul -  "Oltin gul" joylashgan edi.  Uning barglari quyosh nurida oltin rangda porlab turardi.  Oltin gulning yonida esa,  "Yulduz gul" nomli ajoyib gul o'sgandi.  Uning barglari osmon yulduzlari kabi yorqin va naqshli edi.  Yulduz gulning ostida esa,  "Mavj gul" nomli gul o'sgandi.  Uning barglari  dengiz to'lqinlari kabi  ranglarga bo'yalgandi.  Bu uchta go'zal gul atrofida  ko'pgina hasharotlar hayotlari bilan shug'ullanar edilar.
+
+Oltin gulning yonida  Zarina ismli  bir  kapalak  yashaydigan edi.  Uning qanotlari yorqin sariq va binafsha ranglarda edi.  Zarina  har kuni oltin gulning changini yig'ib,  o'z uyiga  olib borardi.  U oltin gulning changini  o'z  uyasidagi  g'alati  shakarli  shirinliklarni tayyorlash uchun ishlatardi.
+
+Yulduz gulning ostida esa,  Javohir nomli o'rgimchak yashaydigan edi.  Uning o'rgimchaklar to'ri juda nozik va chiroyli edi.  Javohir  o'rgimchak to'ri bilan  bog'da  harakatlanib,  tushib qoladigan hasharotlarni ovlardi.  Ammo,  u  hadsiz   yomon  emas edi.  Ba'zan  u  uchib  yurgan  kapalaklarga  shirinliklar  berishga  harakat  qilardi,  ularning   aynan  qochib  ketmasligini  bildirish uchun.
+
+Mavj gulning yonida  Baxtiyor  nomli  chiziqli  hasharot  yashaydigan edi.  U  gulning  shirali  nektarini  yig'ib,  o'z  uyasiga  olib  borardi.  Baxtiyor   hasharotlar  jamiyatining  aynan  ishonchli  bir  qismi  edi,  chunki  u  gulning  nektarini  jamiyatda  bo'ladigan  har  bir  o'simlikni  oziqlantirish uchun  muhim  hisoblanar  edi.
+
+Bir kuni, kuchli shamol bog'dan  esdi.  Shamollar  gullarni  tebrantirib,  hasharotlar  uyasini  silkitdi.  Zarina  o'z  uyasidan  chiqib,  o'zining  oltin  gulini  qidirdi.  Javohir  o'z  to'rini  mustahkamlab,  shamollar  olib  yurmasligi  uchun  harakat  qildi.  Baxtiyor esa,  gullarning  nektarini  qanday  saqlashni  yoki  qanday  to'plash  mumkinligini  o'ylagan  holda  barcha  yordam  berishi  uchun  harakat  qildi.
+
+Shamol  butun  bog'ni  o'z  boshidan  o'tkazdi,  lekin  hasharotlar  o'z  ishlariga  qaytib  ketishdi.  Har  kim  o'z  ishlarini  muvaffaqiyatli  bajarishdi  va  bog'  yaxshi  va  go'zal  bo'lib  qoldi.  Ular  o'zlarining  bog'idagi  go'zal  gullarni  muhofaza  qilish  uchun  harakat  qilishdi,  chunki  ular  bitta  kattalar  hayvonlari  kabi  bir-birlariga bog'liq  edilar.
+
+Shunday  qilib,  rang-barang  gullar  bilan  bezelgan  bog'da  har  bir  kichik  hasharot  o'zining  ahamiyatli  rolini  bajarardi.  Ular  bitta  kattalar  hayvonlari  kabi  bir-birlariga  bog'liq  edilar,  va  bir-birini  qadrlab,  bog'  uchun  asosiy  muhimlik  rolini  o'ynaydilar.  Ular  o'zlarining  bog'ini  doimo  go'zal,  yashil  va  quvonarli  qilishni  maqsad  qilib  qo'yishgan edi.  Bundan  ham  muhimi,  ular  bir-birlaridan  o'zaro  hurmat  bilan  va  bir  kattalar  hayvonlari  kabi  birgalikda  ishlaydilar.
+</body>

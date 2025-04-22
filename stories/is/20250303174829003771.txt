@@ -1,0 +1,59 @@
+<prompt>
+Please write a dialog-based Icelandic children's story that is at least 1000 words long.
+It must be completely written in proper Icelandic (IS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Álfarnir og gjáin sem gaf gleði'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>is</lang_id>
+
+<title>Álfarnir og gjáin sem gaf gleði</title><body>  
+Einu sinni í fjarlægum skóg, þar sem trén vaxa hátt og sólskin dansar í gegnum laufin, bjuggu álfar í lítilli þorpinu sem hét Bláskógar. Þetta þorp var frábærlega fallegt, en það var eitt stórt vandamál: álfarnir voru alltaf dapurir. Enginn vissi af hverju, en gleðin hafði horfið úr þorpinu eins og sólskin á skýjaðri degi.
+
+Einn daginn, þegar álfarnir sátu saman í kringum eldinn og horfðu á hvernig skuggarnir dansuðu á trjábolnum, stóð Elín, yngsta álfanna, upp og sagði:
+
+„Ég veit ekki af hverju við erum öll svona döpur. En ég ætla að finna út úr þessu. Ég ætla að fara í ævintýraferð til að finna gleðina okkar aftur!“
+
+Álfarnir horfðu á Elín með opnum munn. Enginn hafði nokkurn tíma farið út fyrir mörk þorpsins. En Elín var ákveðin. Hún tók möttu sína, pakkaði smá brauð og vatn og hélt af stað.
+
+„Gangi þér vel, Elín!“ kallaði Dagný, elsta álfanna, á eftir henni.
+
+Elín gekk lengi og lengi. Hún fór yfir ána sem fór í gegnum skóginn, klifraði upp á hæsta fjallið og fór í gegnum dimman furareyn. Þegar hún var orðin mjög þreytt, heyrði hún skrítinn hljóð. Það var eins og kveðandi rödd sem kom frá einhvers staðar nálægt.
+
+„Hver er þarna?“ kallaði Elín.
+
+„Ég er gjáin sem gaf gleði,“ svaraði röddin. „Komdu nær, ég skal sýna þér.“
+
+Elín fylgdi röddinni og kom að stórri gjá. Í miðri gjánni var ljós sem blikkaði í öllum litum regnbogans. Gjáin talaði aftur:
+
+„Ég hef séð margar álfa koma hingað í leit að gleði. Ég get gefið þér gleðina, en þú verður að svara þremur gátum. Ef þú svarar rétt, þá færðu gleðina. Ef ekki, þá verður þú að skilja hana eftir hér.“
+
+Elín var örlítillega hrædd, en hún var einnig forvitin. „Já, ég vil reyna!“ sagði hún.
+
+„Vel gert,“ sagði gjáin. „Hér er fyrsta gátan: Hvað er það sem fer hægt og hægt, en skilar þér aldrei á sama stað?“
+
+Elín hugsaði lengi. Hún horfði á sólina sem var að setjast og sá hvernig skuggarnir breyttust. „Það er tíminn!“ sagði hún loksins.
+
+„Rétt!“ sagði gjáin gleðifull. „Nú er næsta gáta: Hvað er það sem þú getur ekki séð, en er alltaf þar?“
+
+Elín hugsaði enn lengur. Hún horfði upp í loftið og hugsaði um vindinn. „Það er loftið!“ sagði hún.
+
+„Rétt aftur!“ sagði gjáin. „Nú er síðasta gátan, og hún er erfiðust: Hvað er það sem getur fyllt alla herbergið án þess að taka pláss?“
+
+Þetta var erfitt. Elín hugsaði um allt sem hún vissi. Hún hugsaði um ljósið, um lyktina, og jafnvel um draumana. En svo kom henni í hug eitthvað annað. „Það er gleðin!“ sagði hún.
+
+Gjáin þagnaði í augnablik. Svo hrópaði hún: „Þú ert sniðug! Gleðin er svarið. Og nú þarftu ekki að leita lengur, því hún er nú þegar í þér!“
+
+Elín fann hvernig hjartað hennar fylltist af hamingju og hló út í einu. „Ég skil! Gleðin er ekki eitthvað sem við finnum utan okkar. Hún er í okkur!“
+
+„Nákvæmlega,“ sagði gjáin. „Nú skaltu fara heim og deila þessari gleði með öllum í Bláskógum.“
+
+Elín þakkaði gjánni og hleypði heim í þorpið. Þegar hún kom þangað, sá hún að allir álfarnir voru enn daprir. En þegar hún sagði þeim frá gjánni og gátunum, og hvernig gleðin var í þeim öllum, byrjaði það að breytast. Smám saman fóru álfarnir að hlæja og dansa, og þorpinu var aftur fyllt af gleði.
+
+Frá þeim degi lifðu álfarnir í Bláskógum í hamingju og gleði. Og Elín, sem hafði fundið gleðina, varð þekkt sem gleðiálfan, og hún minnti alla á að gleðin er alltaf í okkur, bara þegar við viljum finna hana.
+
+Og svo endaði ævintýrið, en gleðin lifði ævinlega í hjörtum álfanna í Bláskógum.</body>

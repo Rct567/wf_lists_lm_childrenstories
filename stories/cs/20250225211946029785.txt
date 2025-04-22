@@ -1,0 +1,32 @@
+<prompt>
+Please write a educational Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Čarovné bylinky a jejich zázračné léčivé schopnosti'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Čarovné bylinky a jejich zázračné léčivé schopnosti</title><body>
+Jirka, malý chlapec s kudrnatými vlasy a zářivě modrýma očima, žil v malebné horské vesničce.  Jeho dědeček, starý a moudrý pan Štěpán, byl bylinkář a léčil nejen lidi, ale i zvířata s pomocí kouzelných bylinek, které rostly v hlubokých lesích. Jirka ho vždycky s úžasem sledoval, jak s vědomím a laskavostí sbírá léčivé bylinky.
+
+Jednoho krásného letního dne se Jirka rozhodl, že se s dědečkem vydá na cestu za nejvzácnějšími bylinkami. Pan Štěpán mu pověděl o legendární bylině – o léčivém česneku medvědí, který dokáže uzdravit i ty nejtěžší nemoci. "Jeho vůně je tak silná," vysvětlil mu dědeček, "že zahání i ty nejhorší chřipky."
+
+Vyrazili brzy ráno. Šli lesem, kde se linulo křišťálové bzučení včel a zpěv ptáků. Jirka si povšiml rozmanitého lesního bohatství.  Barevné houby se třpytily na vlhké podzemí a v korunách stromů tančila světýlka s modravým a zlatavým odstínem. V lese, zapomenutém mezi kořeny stoletých dubů a stoletých smrků, dědeček našel první bylinu.  Byla to  najařaná jitřenka s krásně bledě růžovými květky.  "Jitřenka," vysvětlil dědeček, "je skvělá pro uklidnění a proti spěcháním a tlaku."
+
+Dále pokračovali hluboko do lesa, a cesta se jim stala údolím tajných vůní a zázračných tvarů. Střídaly se tmavé stíny a klenuté koruny stromů, vše to se blýskalo nekonečnou hlubinou. Po chvíli spatřili Jirka a dědeček zářivě fialovou bylinku, která se tvořila s jiskrou a skrývala v sobě léčivý tanec. "To je heřmánek," usmál se dědeček. "Heřmánek pomáhá k uvolnění mysli a pomáhá s  pomalým trávením."
+
+Setkali se také s hlubokou vřesovitou houštinou, plnou sladce vonících modrých a fialových květin, která tvořila kouzelné a nezaměnitelné místo. S úctou sbírali vřes, vždy si pamatovali, že každý rostlinný království má svůj vlastní význam. Zmíněné květiny byly skvělé pro posílení imunity, jelikož v sobě ukryly neviditelné kouzlo, plné energie.
+
+Věděli, že les skrývá mnoho tajemství, ale k  jejich nalezení byl nutný úctyhodný postoj a pochopení krásy přírody. "Každá bylinka má svou zvláštní moc," vysvětloval dědeček.  "Moudrost přírody musíme respektovat."  Po chvíli ticha se nacházeli před úchvatným podívem na  zázračné lesní údolí plné rozmanitých léčivých rostlin a bylin.
+
+Bylinky, které nalezli v ten den, měly různé účinky. Jitřenka, pomáhala k uzdravování duševní rovnováhy a posilování duše, heřmánek  usnadňoval trávení a uklidňoval mysl, vřes podporoval imunitu, česnek medvědí dokázal zlikvidovat i ty nejhorší viry a bacily. Jirka si zapamatoval jejich léčivé vlastnosti. V knize, kterou si dědeček přinesl, zapisovali každou rostlinu s obrázky a poznámkami.
+
+Cestou domů se Jirka s nadšením ptal na další bylinky. Pan Štěpán s láskou vysvětloval o léčivých houbách, o šťavnatých lesních jahodách, které povzbuzovaly srdíčko a zlepšovaly pohodu. Našli také zázračné jeřabin, jež chutnaly lahodně a vylepšovaly duševní i fyzické zdraví.
+
+Vrátí se domů, unavení, ale šťastní. Jirka i dědeček plnili  své kapsy čarovnými bylinkami. Díky jejich výpravě a moudrému dědečkovi, Jirka plně pochopil sílu přírody a krásu bylinek. Také se naučil jak pečlivě sbírat bylinky, aby neublížili rostlinám a neznečišťovali lesy. Jirka i v budoucnu navštěvoval lesy s úctou, vzal si lesní moudrost, která mu pomohla na dlouhé životní cestě.  A tak se ze samotného Jirky stal moudrý mladý muž.
+</body>

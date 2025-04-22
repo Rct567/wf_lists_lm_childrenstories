@@ -1,0 +1,44 @@
+<prompt>
+Please write a relatable Scottish Gaelic children's story that is at least 1000 words long.
+It must be completely written in proper Scottish Gaelic (GD).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Na rudan falaichte a lorg leanabh òg ann an seann chaisteal dùinte fad ùine mhòir.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>gd</lang_id>
+
+<title>Na rudan falaichte a lorg leanabh òg ann an seann chaisteal dùinte fad ùine mhòir.</title>
+<body>
+Bha leanabh òg ann an sgìre Ghàidhealach, air an robh Eilidh. Bha Eilidh a' fuireach ann an taigh beag, faisg air seann chaisteal a bha dùinte fad ùine mhòir. Bha an chaisteal air a dhùnadh leis a' mhòr-shàr, agus bha e air a chur fo dhìon leis a' phoball.
+
+Bha Eilidh a' cur suim anns an chaisteal, agus bha i a' faicinn na seòmraichean mòra, na h-uisgean, agus na tobhtaichean. Ach bha i a' cur suim nas motha anns na rudan a bha falach anns an chaisteal. Bha i a' smaointinn gum biodh e a' dol a lorg rudeigin a bha nas fheàrr na a h-uile rud eile.
+
+Latha a bha seo, dh'fhalbh Eilidh a dh'fhàgail a taighe, agus chaidh i a dh'fhàs an chaisteal. Bha i a' dol a lorg na rudan falaichte, agus bha i a' dol a dh'fhàgail a h-uile rud eile air a' chùlaibh. Chaidh i troimh na seòmraichean, agus bha i a' coimhead airson a h-uile rud a bha falach.
+
+An toiseach, cha do lorg i rudeigin sam bith. Ach an uair a bha i a' dol a dh'fhàgail an chaisteal, chunnaic i solas beag ann an aon de na seòmraichean. Bha i a' smaointinn gum biodh e a' dol a lorg rudeigin a bha nas fheàrr, agus chaidh i a dh'fhàs an seòmar. 
+
+Nuair a chaidh i a-steach don seòmar, chunnaic i rud a bha nas àlaind na a h-uile rud eile a chunnaic i riamh. Bha e na chearc mhòr, le clòimhean geala, agus le sùilean uaine. Bha Eilidh a' cur suim mhòr anns a' chearc, agus bha i a' smaointinn gum biodh e a' dol a lorg a h-uile rud a bha falach anns an chaisteal.
+
+Thug a' chearc Eilidh air cuairt an chaisteal, agus chaidh i a lorg na rudan falaichte. Chaidh i a lorg seòmar leabhraichean, far an robh leabhraichean aig a h-uile duine a bha eòlach air an chaisteal. Chaidh i a lorg seòmar ciùil, far an robh ciùil aig a h-uile duine a bha eòlach air an chaisteal. Agus chaidh i a lorg seòmar ealain, far an robh dealbhan aig a h-uile duine a bha eòlach air an chaisteal.
+
+Bha Eilidh a' cur suim mhòr anns na rudan a lorg i, agus bha i a' smaointinn gum biodh i a' dol a lorg a h-uile rud a bha falach anns an chaisteal. Ach an uair a bha i a' dol a dh'fhàgail an chaisteal, chunnaic i rudeigin a bha nas fheàrr na a h-uile rud eile. Bha e na seòmar beag, le tobhtaichean aig a h-uile àite. 
+
+Agus anns an seòmar beag, chunnaic Eilidh rudeigin a bha nas àlaind na a h-uile rud eile a chunnaic i riamh. Bha e na cheud chaorach, le clòimhean geala, agus le sùilean uaine. Bha Eilidh a' cur suim mhòr anns a' chaorach, agus bha i a' smaointinn gum biodh e a' dol a lorg a h-uile rud a bha falach anns an chaisteal.
+
+Thug a' chaorach Eilidh air cuairt an chaisteal, agus chaidh i a lorg na rudan falaichte. Chaidh i a lorg seòmar leabhraichean, far an robh leabhraichean aig a h-uile duine a bha eòlach air an chaisteal. Chaidh i a lorg seòmar ciùil, far an robh ciùil aig a h-uile duine a bha eòlach air an chaisteal. Agus chaidh i a lorg seòmar ealain, far an robh dealbhan aig a h-uile duine a bha eòlach air an chaisteal.
+
+Bha Eilidh a' cur suim mhòr anns na rudan a lorg i, agus bha i a' smaointinn gum biodh i a' dol a lorg a h-uile rud a bha falach anns an chaisteal. Ach an uair a bha i a' dol a dh'fhàgail an chaisteal, chunnaic i rudeigin a bha nas fheàrr na a h-uile rud eile. Bha e na seòmar mòr, le clòimhean geala, agus le sùilean uaine.
+
+Ann an seòmar mòr, chunnaic Eilidh rudeigin a bha nas àlaind na a h-uile rud eile a chunnaic i riamh. Bha e na rìgh, le clòimhean geala, agus le sùilean uaine. Bha Eilidh a' cur suim mhòr anns a' rìgh, agus bha i a' smaointinn gum biodh e a' dol a lorg a h-uile rud a bha falach anns an chaisteal.
+
+Thug a' rìgh Eilidh air cuairt an chaisteal, agus chaidh i a lorg na rudan falaichte. Chaidh i a lorg seòmar leabhraichean, far an robh leabhraichean aig a h-uile duine a bha eòlach air an chaisteal. Chaidh i a lorg seòmar ciùil, far an robh ciùil aig a h-uile duine a bha eòlach air an chaisteal. Agus chaidh i a lorg seòmar ealain, far an robh dealbhan aig a h-uile duine a bha eòlach air an chaisteal.
+
+Bha Eilidh a' cur suim mhòr anns na rudan a lorg i, agus bha i a' smaointinn gum biodh i a' dol a lorg a h-uile rud a bha falach anns an chaisteal. Agus an uair a bha i a' dol a dh'fhàgail an chaisteal, chunnaic i rudeigin a bha nas fheàrr na a h-uile rud eile. Bha e na seòmar beag, le tobhtaichean aig a h-uile àite.
+
+Ann an seòmar beag, chunnaic Eilidh rudeigin a bha nas àlaind na a h-uile rud eile a chunnaic i riamh. Bha e na cheud chaorach, le clòimhean geala, agus le sùilean uaine. Bha Eilidh a' cur suim mhòr anns a' chaorach, agus bha i a' smaointinn gum biodh e a' dol a lorg a h-uile rud a bha falach anns an chaisteal.
+
+Thug a' chaorach Eilidh air cuairt an chaisteal, agus chaidh i a lorg na rudan falaichte. Chaidh i a lorg seòmar leabhraichean, far an robh leabhraichean aig a h-uile duine a bha eòlach air an chaisteal. Chaidh i a lorg seòmar ciùil, far

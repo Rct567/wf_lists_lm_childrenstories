@@ -1,0 +1,59 @@
+<prompt>
+Please write a uncomplicated Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Šokių ir dainų šventės mieste'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>lt</lang_id>
+
+```html
+<title>Šokių ir dainų šventės mieste</title>
+<body>
+Kartą, tolimame, žaliame mieste, vadinamame Žaliakiemiais, gyveno maža mergaitė, vardu Saulė. Saulė buvo itin linksma ir judri mergaitė. Jos mėgstamiausias užsiėmimas buvo šokti ir dainuoti. Ją džiugino kiekvienas saulės spindulys, kiekviena paukščio giesmė, kiekvienas vėjo šnaresys.
+
+Vieną dieną, Saulė išgirdo nuostabų skelbimą. Mieste bus organizuojama didelė Šokių ir dainų šventė! Tai buvo didžiausia šventė, kokia tik galėjo būti. Visa Žaliakiemių aikštė turėjo virsti spalvinga scena, kurioje dainuos ir šoks vaikai iš visų aplinkinių kaimų ir miestelių. Saulė net aiktelėjo iš džiaugsmo. Jos širdis pradėjo šokinėti lyg maža šokinėjanti varlytė.
+
+Atskubėjusi namo, ji papasakojo šią nuostabią žinią savo mamai. Mama nusišypsojo. Ji žinojo, kaip Saulė myli šokius ir dainas. "Puiku, mylimoji," – tarė mama. "Aš netgi jau siuvu tau naują šventinę suknelę."
+
+Saulė šoko iš laimės. Ji įsivaizdavo save šokančią ant scenos, apsuptą kitų vaikų, dainuojančią džiaugsmingas dainas.
+
+Tačiau, kad šoktų ir dainuotų šventėje, reikėjo pasiruošti. Reikėjo mokytis naujų šokių ir dainų. Saulė įstojo į mažąjį chorą, kurį vedė maloni, juodaplaukė mokytoja, vardu Rasa. Rasa buvo itin kantri ir gera mokytoja. Ji visada šypsojosi ir tikėjo kiekvieno vaiko talentu.
+
+Saulė su dideliu malonumu lankė repeticijas. Kartu su kitais vaikais jie mokėsi šokti linksmas polkas, žaismingus valsus ir energingus tautinius šokius. Jie dainavo dainas apie gamtą, apie meilę ir apie draugystę. Kartais repeticijos būdavo sunkios, kojos pavargdavo, balsai užkimdavo, bet Saulė niekada nepasidavė. Ji žinojo, kad sunkumai yra tik laikini, o džiaugsmas, kurį patirs šventėje, bus bekraštis.
+
+Artėjant šventės dienai, mieste kilo milžiniškas šurmulys. Gatvės buvo papuoštos spalvotais balionais ir girliandomis. Kiekvienas namas spindėjo šventiniu džiaugsmu. Žaliakiemio aikštė buvo parengta priimti šimtus vaikų. Pastatyta didžiulė scena, kurioje šviesos mirgėjo it žvaigždės danguje.
+
+Saulė su nekantrumu laukė tos dienos. Ji nuolat repetavo namuose, įsivaizduodama, kaip šoks ir dainuos. Ji svajojo apie didelius batutus ir saldžius ledus, kuriuos galės gauti šventėje.
+
+Pagaliau atėjo didžioji diena. Saulė apsivilko savo naują, šventinę suknelę. Ji buvo šviesi, žydra, puošta mažais gėlių raštai. Mama supynė jai kasas ir įsegė gėlę į plaukus. Saulė atrodė kaip tikra princesė.
+
+Atvykusi į aikštę, Saulė nustėro iš nuostabos. Visa aikštė buvo pilna vaikų, apsirengusių spalvingais rūbais. Skambėjo linksma muzika, iš visų pusių sklido juokas ir džiaugsmas. Kiekvienas vaikas tryško laime.
+
+Prieš pradžią, Rasa surinko visus savo choro narius. "Šiandien jūs – žvaigždės," – tarė ji šypsodamasi. "Šokite ir dainuokite iš visos širdies. Parodykite visiems, kokie talentingi esate."
+
+Saulė, nors ir jaudinosi, nusprendė, kad išpildys mokytojos prašymą. Ji giliai įkvėpė ir pasiryžo pasirodyti geriausiai, kaip tik gali.
+
+Prasidėjus šventei, ant scenos lipo vis daugiau ir daugiau vaikų. Vieni šoko, kiti dainavo, treti grojo muzikos instrumentais. Saulė stebėjo visus pasirodymus su dideliu susižavėjimu. Jai patiko viskas – nuo spalvotų kostiumų iki nuostabios muzikos.
+
+Atėjo ir Saulės choro eilė. Jie užlipo ant scenos, susikibo už rankų ir pradėjo dainuoti dainą apie vasarą. Saulė pajuto, kaip jaudulys pamažu dingsta. Ji dainavo iš visos širdies, įsijautė į dainos ritmą. Jos balsas skambėjo aiškiai ir stipriai.
+
+Po dainos jie pradėjo šokti. Saulė šoko linksmai ir ritmingai. Ji judėjo pagal muzikos ritmą, net nesusimąstydama. Ji jautėsi lengva ir laiminga kaip paukštis, skraidantis danguje.
+
+Publika plojo, šaukė ir šypsojosi. Saulė pajuto, kaip širdis užplūsta džiaugsmu ir pasididžiavimu. Jai patiko būti ant scenos, dainuoti ir šokti kartu su kitais vaikais. Ji jautėsi tarsi viena didelė, linksma šeima.
+
+Šventė tęsėsi visą dieną. Vaikai šoko ir dainavo, dalinosi saldumynais ir žaidė drauge. Saulė sutiko daug naujų draugų, su kuriais kartu linksminosi. Ji pamiršo visus rūpesčius ir mėgavosi kiekviena akimirka.
+
+Kai šventė baigėsi, Saulė jautėsi pavargusi, bet laiminga. Ji apkabino savo mamą ir papasakojo jai apie visus nuostabius įspūdžius. Mama šypsojosi ir patvirtino, kad ir ji labai džiaugėsi matydama savo dukrelę tokią laimingą.
+
+Grįždama namo, Saulė žvelgė į žvaigždėtą dangų. Ji juto, kaip širdis pilna džiaugsmo ir pasididžiavimo. Ji žinojo, kad ši šventė taps vienu iš gražiausių jos gyvenimo prisiminimų. Ji pasižadėjo ir toliau šokti ir dainuoti, kad ir kur bebūtų.
+
+Kitą dieną, kai Saulė sugrįžo į mokyklą, visi klasiokai kalbėjo apie šventę. Visi gyrė Saulės gražų šokį ir dainą. Saulė nusišypsojo. Ji jau žinojo, kad šokis ir daina – tai jos gyvenimo dalis. Ir ji buvo labai laiminga.
+
+Nuo tos dienos, Saulė dar labiau mylėjo šokti ir dainuoti. Ji visada prisimindavo nuostabią šventę Žaliakiemių mieste. Ji svajojo, kad tokios šventės pasikartotų kuo dažniau. O kas žino, galbūt, netrukus ir vėl bus Šokių ir dainų šventė... ir Saulė joje vėl šoks ir dainuos! Ir tie, kas norės, galės prisijungti prie jos šokyje ir dainoje.
+</body>
+```

@@ -1,0 +1,62 @@
+<prompt>
+Please write a light-hearted Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A kígyó, aki a fűben csúszott, és néha meglátogatta a virágokat a kertben.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>hu</lang_id>
+
+<title>A kígyó, aki a fűben csúszott, és néha meglátogatta a virágokat a kertben.</title>
+<body>
+Egyszer volt, hol nem volt, volt egyszer egy kis kert. Ez a kert egy öreg, zöld ház mögött terült el, ahol egy kedves öreg bácsi, Pista bácsi élt. Pista bácsinak rengeteg virága volt: tulipánok, rózsák, nárciszok, napraforgók. Mindegyik színes volt, és a legszebb illatokkal büszkélkedtek.
+
+De ebben a kertben élt valaki más is. Ő egy kis kígyó volt, Zoli. Zoli sötétzöld színű volt, olyan, mint a legsűrűbb fű a kertben. Szeretett a fűben csúszkálni, naphosszat. Néha felmászott egy-egy bokorra, hogy onnan nézhesse a világot. Imádott a napsütésben sütkérezni, a leveleken rejtőzködni, és hallgatni a madarak énekét.
+
+Zoli nagyon kíváncsi kígyó volt. Mindent látni akart, mindent megtudni. Ezért néha a virágokhoz csúszott, hogy beszélgethessen velük. A virágok mindig nagyon meglepődtek, amikor Zoli megjelent. Először kicsit meg is ijedtek, mert a kígyók, hát… hát a kígyók ijesztőek lehetnek! De Zoli sosem akart bántani senkit. Ő csak barátkozni szeretett volna.
+
+„Jó napot!” – köszöntött egyszer a legszebb rózsabokornak, Rózsinak. Rózsi piros volt, mint a tűz, és olyan illata volt, mintha ezer cukrász versenyezne benne.
+
+„Jó napot! – rebegte Rózsi, kissé gyanakvóan. – Te ki vagy?”
+
+„Én Zoli vagyok – válaszolta Zoli mosolyogva (kígyósan persze). – A fűben élek, és csak barátkozni jöttem.”
+
+Rózsi egy kicsit megnyugodott. „Barátkozni? De a kígyók… hát…!”
+
+„Tudom, hogy sokan félnek tőlem – mondta Zoli szomorúan. – De én nem bántok senkit. Én csak nézelődöm, és szeretem a virágokat, a színeket, az illatokat.”
+
+Rózzi elgondolkodott. Aztán a többi virág is odahajolt hozzájuk. A tulipánok sárgán, a nárciszok fehéren, a napraforgók sárgán, mind kíváncsian figyelték a beszélgetést.
+
+„Nos, Zoli, ha csak nézelődni szeretnél, maradj csak itt – mondta végül Rózsi. – De vigyázz, mert Pista bácsi néha öntöz. És akkor nagyon vizes lehetsz!”
+
+Zoli felnevetett (kígyósan persze, kicsit sistergősen). „Köszönöm, Rózsi! Óvatos leszek.”
+
+És Zoli maradt a virágok közelében. Napközben beszélgetett velük. Megkérdezte, hogy hogy érzik magukat, mesélt nekik a fűben történő kalandjairól, arról, hogy milyen magasra mászott egy bokorra, vagy hogy mit látott a kert szélén. A virágok elmesélték, hogy milyenek a szirmok, hogy miért szeretnek napozni, és hogy hogyan tartják karban őket.
+
+A napraforgók elmesélték, hogy hogyan követik a napot, hogy mindig tudják, hol van, és sosem tévednek el. A tulipánok a színeikről meséltek, arról, hogy milyen büszkék a sárga, piros, lila vagy fehér színekre. A nárciszok a finom illatukról meséltek, és arról, hogy hogyan hozzák el a tavaszt a kertbe. Rózsi a rózsák királynője volt, mindig ő intézte a beszélgetéseket, és elmesélte a legfontosabb dolgokat a virágok életéből.
+
+Zoli egyre jobban megismerte a virágokat. Tudta, hogy melyikük a legérzékenyebb, melyik a legviccesebb, és melyiknek van a legédesebb illata. A virágok pedig megszokták Zolit. Már nem féltek tőle, sőt, várva várták a napot, amikor Zoli eljött hozzájuk.
+
+Egyszer egy nagy vihar jött a kertre. Fújt a szél, esett az eső, és a virágok egy része megsérült. A nagy szél ledöntött néhány rózsát, a nagy eső megtörte a tulipánok szárát. Zoli, aki a fűben csúszkált, megpróbálta megvédeni őket. Belebújt a sérült rózsák levelei alá, a fűben szélárnyékot keresett, hogy a többi virágot védelmezze.
+
+Amikor a vihar elvonult, Pista bácsi eljött a kertbe, hogy megnézze, mi történt. Elszomorodott, amikor meglátta a kárt. „Szegény virágaim!” – sóhajtott.
+
+Zoli odacsúszott Pista bácsihoz. „Ne szomorodj, Pista bácsi! A virágok jól vannak. Én vigyáztam rájuk.”
+
+Pista bácsi meglepődött. „Te? Zoli vagy? A kis kígyó?”
+
+Zoli bólintott. Pista bácsi megsimogatta Zolit. „Köszönöm, Zoli! Nagyon köszönöm. Te igazi jó barát vagy.”
+
+Pista bácsi megjavította a sérült virágokat, és meglocsolta a kertet. Zoli pedig a virágokkal maradt, és vigyázott rájuk.
+
+A napok teltek, és Zoli egyre jobban megbarátkozott a virágokkal és Pista bácsival. Ő volt a kert őrzője, aki megvédte a virágokat a rossz időtől, és a kert szépjét nézte minden nap. A virágok is egyre jobban szerették Zolit. Tudták, hogy számíthatnak rá, hogy mindig meghallgatja őket, és hogy sosem bántaná őket.
+
+Zoli a kert szerelmese lett. Szeretett a virágokkal beszélgetni, a fűben csúszkálni, a napfényben sütkérezni, és hallgatni a madarak énekét. És a virágok is szerették őt. Szerették, hogy a kígyó figyel rájuk, hogy védi őket, és hogy mindig van idejük egy kis csevegésre. A kert pedig a kígyó, a virágok, és a kedves Pista bácsi boldog otthona lett. A kígyó, aki a fűben csúszott, és néha meglátogatta a virágokat a kertben, a kert legszebb titka lett.
+És ez a történet arra tanít minket, hogy nem kell félni a különbségektől, mert mindenkiben lehet valami jó, valaki, akivel barátkozhatunk, ha hagyjuk, hogy közeledjenek hozzánk. A barátság pedig a legszebb virág a világon.
+
+VÉGE
+</body>

@@ -1,0 +1,44 @@
+<prompt>
+Please write a light-hearted Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'In Urbe Mirabili et Tristitia Vanescit'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>la</lang_id>
+
+<title>In Urbe Mirabili et Tristitia Vanescit</title>
+<body>
+Quattuor pueri,  Lucius,  Aemilia,  Caecilius, et  Cornelia,  habitabant in urbe mirabili nomine Florenti.  Aedificia alta et pulchra, plena picturae et sculpturis,  domos eorum circumscribebant.  Sed  tristantia,  nigra nubes,  semel in die  urbem percurrebat,  animum omnium opprimens.
+
+
+Lucius,  puer fortis et ingeniosus,  conabatur  tristantiam  dissolvere.  Eius cor,  sicut sol  aestate,  ardens erat,  et  in dies  inveniebat modos  ad  iucunditatem  redigerenda.  Aemilia,  puella  armata  calamo  et  libro,  excogitatum narravit fabulam.  Cornelia,  mulier  dulcissima  vocis,  cantavit  cantiones  laetae,  et Caecilius,  puer  silentius,  observationes naturae  in hortulis collectis  adnotationes descripsit.
+
+
+Die  una,  tristantia  in  urbem  inundavit.  Nigrae nubes  caelum  umbraverunt.  Omnia aedificia  somno  videbantur,  et  sonitus  murmurationis  in  omni  via  erat.  Lucius  videbat  in  facie  tristantiae  in  caelo  figura  triste.  Non  potuit  resistere,  et  clamavit: "Tristantia,  deinde  in  urbem!"
+
+
+Aemilia,  videns  adfectus Lucii,  calamo  in  libro  scripsit:  "Si  te  impedire  non  possumus,  ad  solum  redeamus."  Caecilius  condidit  flores  in  hortulis,  dein  existimavit  ad  esse  sine  specula.  Cornelia  cantavit  cantiones  de  amore  et  letitia,  excusso  ex  suo  cor.
+
+
+Cum  sonsus  singuli  sonaret,  Lucius  conatus  est  in  urbem  pervenire.  In  via,  invenit  templum  parvum.  In  hoc  templum  scriptura  de  fortunae  potentia  esset.  Lectis  scripturis  Lucius  comprehendebat  quia  tristantia  in  sapientiam  mutaretur,  si  populus  lectitat.
+
+
+Aemilia  scripturum  suum  sumit.  "Tristantia  cum  delectatione,"  scripsit.  "Leticia  est  cum  lacrimis,  et  cum  solitudine."  Et  scripsit  per  totum  diurnos  horae,  de  sentientiis  qui  a  populis  faciebant.
+
+
+Cornelia,  sua  voce  suave  in  aere  agitavit,  narrare  fabulas.  Et  omnes  populus,  ab  aedificiis  alta,  ad  suos  laeti  expectabant.  Caecilius,  floribus  ornatrum  suis  operibus,  poterat  semper  remedium  pro  re.
+
+
+Tristantia,  audio  canticulos  et  litterae,  incipiens  a  tenue,  in  caelo  dispersit.  Cum  tristantia  recederet,  dies  incipit  emicare.  Lucius  comprehensus  esset  in  sua  opera  consequentia.  Aemilia  cum  scriptura  et  imaginibus  perficere  potuerit  suam  urbem.  Cornelia  canticum  per  omni  viae  cum  sono  percurrebat,  et  Caecilius  omnium  floreat.
+
+
+In  novissimum  hora  solis,  omnes  quaerentibus  aedificia  Florenti  incipere  laetari.  In  urbe  mirabili  et  in  tristantia,  aeterna  sapientia  a  quatuor  pueris  inveniebantur,  sapientia  que  populus  sperate.
+
+
+Et  sic,  in  urbe  Florenti  speraverunt  semper  tristantia  vanescit  in  sapientiam  leticiamque.
+</body>

@@ -1,0 +1,35 @@
+<prompt>
+Please write a simple and easy-to-follow Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Malý hrdina z českých dějin'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Malý hrdina z českých dějin</title>
+<body>
+Dobře ráno, malí čtenáři! Dnes vám povíme o jednom statečném chlapci, který žil v krásných českých zemích dávno, dávno. Jeho jméno bylo Petr.
+
+Petr se narodil v malém městečku, obklopeném krásnými lesy a břehy říčky Vltavy. Jeho maminka byla laskavá a pracovitá, a tatínek statečný rybáři, který lovil ryby v čistých vodách Vltavy. Petr miloval přírodu. Procházel se lesem a pozoroval ptáčky, sbíral krásné květiny a s potěšením poslouchal cvrlikání cvrčků.
+
+Jednoho krásného podzimního dne, když se Petr procházel lesem, našel u starého dubu starou knihu. Byla plná podivných znaků a starých slov, ale Petr ji opatrně vzal a s nadšením se jí snažil porozumět. Kniha mu vyprávěla o statečných rytířích, kteří bránili království před zlomyslnými draky a o věrných psích věrných kamarádech, kteří vylepšovali jejich statečnost.  Petr si představoval, že i on může být hrdina.  Někdy stál Petr u potoka a představoval si, že on je zdatný voják s těžkým mečem a že on bojuje proti nepřátelům a brání své domovy.
+
+Všichni v městečku věděli o Petrově lásce k historii a jeho ochotě k výzkumu a zjišťování, kam až to s tou touhou po dobrodružství může zajít. A tak se stalo, že přišli temná, nebezpečná a zlověstná časy. Zlá princezna, která chtěla vládnout všemu a požírat všechna ta krásná lesa, se uchýlila do nejhlubších míst hlubokých lesů. Naše malé městečko, obklopené zelenými lesy a tyrkysovými řekami, se ocitlo v ohrožení.
+
+Petr si uvědomil, že je zodpovědný.  Musel najít cestu, jak zastavit tu zlou princeznu. Prolistoval knihu znovu a znovu. Najednou se mu oči zastavily na staré mapě. Byla na ní zobrazena cesta skrze husté lesy a přes strmé kopce, a to vše k divoké skalní jeskyni v hlubinách. Petr věděl, že to je ta správná cesta.
+
+Se svou novou odvahou vzal Petr svůj dobrý starý klobouk a vyrazil s úsměvem do dobrodružství. V lese potkal roztomilého ježka, který mu pomohl nalézt ztracenou cestu. Také se potkal se šikovnou sovou, která mu dávala důležité rady, a laskavou vlkodlačí vlk, který ho ochraňoval před nebezpečím a poskytoval mu svou chůzi po kopcích, pokaždé s neobvyklou laskavostí a péčí.
+
+Petr zdolal všechny překážky. Kámen po kameni, kopec za kopcem se vracel k jeskyni. A konečně dosáhl jejího ústí. V jeskyni byla zlá princezna, která plánovala zničující magii a zlé kouzla a zaklínadla na celou zem. Ale Petr, odhodlaný dostat knížky a historické informace z jejich podivného jazyka, věděl, jak na ni reagovat. Vzpomněl si na historické zprávy a vyprávění od strýčka rybáři, jak prý se když se člověk bojí, musí postavit tomu, před čím se bojí. Vybavil si je a použil je na princeznu. Zůstala zasněna, protože nečekala, že ji nějaký malý statečný kluk tak perfektně a geniálně bude umět přesvědčit.
+
+Petr se princezně postavil s úsměvem a ukázal jí knížku. Vyprávěl ji o krásě lesů, o síle přírody a o štěstí, které přináší ochrana druhých a udržení harmony. Princezna, překvapená jeho odhodlaností, se dojemným dílem vzdala svého zlého plánu.  Pochopila, že štěstí nelze dosáhnout ničením, ale ochraňováním a láskou.
+
+A tak Petr, malý hrdina z českých dějin, zachránil celé království. Byl odměněn za svoji statečnost a odhodlání. S laskavostí ve svém srdci a úsměvem na tváři, Petr se vracel zpět domů. Věděl, že i malý člověk může velké věci, když se rozhoduje jít si za svými sny a být milý.  Přátelé a příbuzní se ho velmi moc těšili, že se vrátil zpátky domů v pořádku. A tak i nadále Petr pomáhal lidem se svými skvělými znalostmi a byl pro něj vždy důležitý, a vždy zůstal dobrý kamarád, a věrný přátel.  Celá země s velikou láskou v srdcích slavila oslavu. Petr si uvědomil, že i malá duše v sobě skrývá velkou sílu a že je důležité chránit přátele a pomáhat slabším. A tak dále, žil Petr ve svém domě, plném lásky, odhodlání a zájmu o cestování po světě.
+
+Petr byl příkladem pro všechny ostatní děti a pro budoucí generace, a zůstal malý hrdina z českých dějin na věky věků.
+</body>

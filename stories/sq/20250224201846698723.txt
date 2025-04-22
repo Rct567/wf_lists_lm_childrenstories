@@ -1,0 +1,35 @@
+<prompt>
+Please write a light-hearted Albanian children's story that is at least 1000 words long.
+It must be completely written in proper Albanian (SQ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Muzika e një pylli të gjelbër'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sq</lang_id>
+
+<title>Muzika e një pylli të gjelbër</title>
+<body>
+Një ditë e dielluar të pranverës, në një pyll të gjelbër dhe të madh, banonte një zog i vogël me një këngë të mrekullueshme. Emri i tij ishte Zogu Pipë.  Zogu Pipë këndonte me një zë të butë, sikur të kishte një harmonikë të vogël brenda tij.  Kënga e tij ngjallte dritë, ngrohtësi dhe gëzim në zemrën e çdo bimeje dhe kafsheje që banonte në pyll.  Lule të kuqe, të verdha dhe të bardha lulëzonin më bukur, bimët e vogla shtriheshin më lartë dhe pemët e mëdha i lëviznin degët në një vallëzim të lehtë, të sjellur nga muzika e Zogut Pipë.
+
+Dëgjimi i këngës së Zogut Pipë bënte që një lepuri i vogël me emrin Lepuri Lulu të dilte nga streha e tij.  Lepuri Lulu e duartrokiste me këmbët e tij të vogla, duke e ndierë lumturinë e thellë që i jepte kënga.  Ai kërcente, duke i kthyer këmbët në një ritëm të lehtë, duke i lëvizur veshët sikur të ishte në një vallëzim magjik.  Ai shpesh ndihmonte Zogun Pipë në këndimin e tij, duke thërrmuar me zë të butë të bëhej më e bukur.
+
+Një dhelpra e vogël, me emrin Dhelpra Dajana, e ndiente këngën e Zogut Pipë si një tingëllim të lehtë që ngjallte dëshirë për të qëndruar në pyll.  Ajo shikonte pemët që vallëzonin, lulëzimet e vogla që shkëlqenin në rrezet e diellit dhe ndiente një gëzim të çuditshëm në shpirtin e saj. Dhelpra Dajana, me sytë e saj të rrumbullakët, ishte një mbikëqyrëse e kujdesshme e këtij koncerti të natyrës.
+
+Një ditë, në një nga koncertet e Zogut Pipë, një erë e fortë erdhi në pyll.  Erërat e forta e kërcënuan këngën e vogël të Zogut Pipë dhe ngjyrat e pyllit u trembën. Lule dridhën, pemët i lëviznin degët me vështirësi dhe tingulli i Zogut Pipë i humbi forcën.  Lepuri Lulu, i shqetësuar, u afrua tek Zogu Pipë.
+
+"Mos u shqetëso, Zogu Pipë," tha Lepuri Lulu, duke u përpjekur të dukej i fortë, "ne do të gjejmë një mënyrë për të ndaluar erën!"
+
+"Po, Lepuri Lulu," tha Zogu Pipë. "Por si?"
+
+Dhelpra Dajana, me sytë e saj të zgjuara, kishte një ide.  "Ne duhet të krijojmë një mbrojtës të muzikës," tha ajo.  "Nëse muzika e pyllit është e forta, ajo do të mposhtë erën!"
+
+Nëpërmjet punës së bashku, Zogu Pipë, Lepuri Lulu dhe Dhelpra Dajana u përpiluan me forcë të jashtëzakonshme. Ata mblodhën gjethe të mëdha, degë të hollë dhe lule të harlisura në një mbrojtës të madh. Përgatitën një çelës të vogël nga një gjethe e rënë, e mrekulluar dhe e bukur.
+
+Pasi ishte përfunduar mbrojtësi i muzikës, ata e vendosën mbi Zogun Pipë.  Tingujt e pyllit, të mbrojtur, filluan sërish të këndoheshin.  Era e fortë e ndali të dëmtonte pyllin, duke kuptuar se muzika e fortë e pyllit e kishte mposhtur.  Zogu Pipë vazhdoi të këndonte, dhe pyll i gjelbër u mbush me këngë dhe gëzim.
+
+Prej asaj dite e tutje, Zogu Pipë, Lepuri Lulu dhe Dhelpra Dajana u bënë heronjtë e pyllit të gjelbër, duke treguar se bashkëpunimi dhe dashuria për muzikën mund të mposhtë çdo erë të keqe.  Dhe pyll i gjelbër vazhdoi të këndonte me një melodi të mrekullueshme, duke e bërë çdo ditë një festë të paharrueshme.
+</body>

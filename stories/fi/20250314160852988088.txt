@@ -1,0 +1,89 @@
+<prompt>
+Please write a simple and easy-to-follow Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Maija Mehiläinen ja kukkien salainen puutarha: Hunajan etsimistä ja upeita kukkia.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fi</lang_id>
+
+```xml
+<title>Maija Mehiläinen ja kukkien salainen puutarha: Hunajan etsimistä ja upeita kukkia.</title>
+<body>
+Olipa kerran pieni, iloinen mehiläinen nimeltä Maija. Maijalla oli kirkkaankeltaiset siivet, raidallinen vartalo ja ahkera mieli. Hän asui yhdessä muiden mehiläisten kanssa suurella, humisevalla niityllä. Niityllä kasvoi kaikenlaisia kukkia, mutta Maija ja hänen ystävänsä, Pirkko ja Arvo, olivat erityisen kiinnostuneita etsimään parasta hunajaa.
+
+Yhtenä aurinkoisena aamuna, kun auringon säteet maalasivat niityn kultaiseksi, Maija heräsi hunajan kaipuusta. "Voi, hunaja on niin makeaa ja herkullista!" hän ajatteli ja venytteli siipiään. "Minun täytyy löytää parasta hunajaa tänään!"
+
+Maija lensi ulos pesästä ja tapasi Pirkon ja Arvon. Pirkko oli Maijan paras ystävä, ja hänellä oli kirkkaanpunainen rusetti antenneissaan. Arvo oli hieman ujosteleva mehiläinen, mutta erittäin ystävällinen ja ahkera.
+
+"Huomenta, Maija!" Pirkko sanoi iloisesti. "Mitä aiot tehdä tänään?"
+
+"Olen päättänyt etsiä parasta hunajaa!" Maija vastasi hymyillen. "Tulisitteko mukaan?"
+
+"Toki!" Pirkko huudahti heti. Arvo nyökkäsi ujosti, mutta hänen silmänsä loistivat innosta.
+
+Niin he lähtivät lentämään yhdessä. He vierailivat monien erilaisten kukkien luona. Ensimmäisenä he vierailivat punaisissa tulppaaneissa, mutta niissä ei ollut paljon hunajaa. Sitten he menivät keltaisten päivänkakkaroihin, mutta niiden hunaja ei ollut erityisen makeaa. He vierailivat myös purppuran värisissä kellokukissa, mutta niissäkin hunaja oli vähän tylsää.
+
+"Eikö täällä ole parempaa hunajaa?" Maija ihmetteli hieman pettyneenä.
+
+"Ei hätää, Maija!" Pirkko sanoi pirteästi. "Olen kuullut legendan salaisesta puutarhasta. Siellä kerrotaan olevan uskomattoman makeaa hunajaa, joka on peräisin harvinaisista ja upeista kukista."
+
+"Salainen puutarha?" Arvo kysyi hämmentyneenä. "Missä sellainen sijaitsee?"
+
+"Vanha mehiläisten tietäjä, mummo Mesi, kertoi minulle sen olevan vuoren takana, syvällä metsässä," Pirkko vastasi salaperäisesti. "Hän sanoi, että sen löytää, jos seuraa pientä, sinistä perhosta."
+
+Maija ja Arvo katsoivat toisiaan innosta säteilevinä. Salainen puutarha kuulosti aivan uskomattomalta seikkailulta!
+
+"Lähdetään sinne!" Maija päätti. "Mutta miten löydämme sen sinisen perhosen?"
+
+Pirkko hymyili. "Meidän täytyy vain etsiä. Katsellaan tarkasti ja ollaan kärsivällisiä."
+
+Niin he lähtivät etsimään sinistä perhosta. He lensivät niityn poikki, kiipesivät korkeiden ruohokasvien yli ja ohittivat suurten puiden varjot. Lopulta, aivan pienen puron rannalla, Maija näki sen.
+
+Siellä se oli, pieni, hohtavan sininen perhonen, joka tanssi iloisesti kukkien yllä. Sen siivet loistivat auringonvalossa kuin pienet safiirit.
+
+"Siinä se on!" Maija huudahti. "Seuraamme perhosta!"
+
+He lensivät perhosen perässä. Perhonen lensi korkeammalle ja korkeammalle, metsään päin. He lensivät puiden latvojen yllä, ylittivät vaikeita kallioita ja kulkivat tummien varjojen läpi.
+
+Lopulta he saapuivat pienen vuoren juurelle. Perhonen alkoi lentää ylös vuorta, ja mehiläiset seurasivat perässä. Matka oli vaivalloinen, ja heidän siipensä alkoivat väsyä.
+
+"Olen väsynyt," Arvo huokaisi. "En jaksa enää kauaa."
+
+"Pitäkäämme tauko," Maija sanoi. "Mutta älkäämme luovuttako! Me olemme jo niin lähellä."
+
+He laskeutuivat kivelle lepäämään. Pirkko piti kiinni Maijan ja Arvon siivistä, antaen heille pienen motivaatiolevähdyksen.
+
+"Muistakaa," Pirkko sanoi. "Hunaja, jonka löydämme, on sen vaivan arvoista."
+
+Kun he olivat levänneet, he jatkoivat matkaa ylöspäin. Lopulta, kun he olivat saavuttaneet vuoren huipun, he näkivät jotain uskomatonta.
+
+Vuoren toisella puolella avautui upea salainen puutarha. Se oli täynnä kukkia, joita he eivät olleet koskaan ennen nähneet. Siellä oli kukkia, joiden terälehdet olivat kirkkaanpunaisia, keltainen säteileviä, sinisiä kuin taivas ja violetteja kuin ametistit. Kukkien tuoksu oli niin makea ja ihana, että heidän täytyi vetää syvään henkeä.
+
+Sininen perhonen lensi puutarhaan ja laskeutui suurimman, upeimman kukan terälehdelle. Se kukka oli niin suuri, että mehiläiset pystyivät vaivatta hyppäämään sen terälehdelle. Sen terälehdet olivat kultaisia ja hopeisia, ja sen sisällä säkenöi hunaja, kirkas kuin timantti.
+
+"Vau!" Maija huudahti hämmästyneenä.
+
+He lentäivät kukkaan ja alkoivat kerätä hunajaa. Hunaja oli niin makeaa ja herkullista kuin he olivat kuvitelleetkin. Se maistui auringolta, tuulelta ja itse kukkien parhaimmilta mauilta.
+
+"Tämä on parasta hunajaa, mitä olen koskaan maistanut!" Pirkko sanoi onnellisena.
+
+"Olen niin onnellinen, että tulimme tänne," Arvo sanoi hymyillen.
+
+He keräsivät hunajaa ahkerasti, kunnes heidän hunajakennonsa olivat täynnä. Sitten he lähtivät lentämään takaisin pesäänsä, kantamalla mukanaan kallisarvoista saalistaan.
+
+Kun he saapuivat pesään, kaikki muut mehiläiset tulivat ihmettelemään heidän hunajaansa. Hunaja oli niin erityistä, että heidän mehiläispesänsä tuli kuuluisaksi. Kaikki halusivat maistaa Maijan, Pirkon ja Arvon löytämää hunajaa.
+
+Ja Maija, Pirkko ja Arvo ymmärsivät, että paras asia hunajan etsimisessä ei ollut pelkästään makea maku, vaan myös ystävien kanssa jaettu seikkailu ja upeiden asioiden löytäminen.
+
+Joka päivä, kun aurinko paistoi, Maija, Pirkko ja Arvo lensivät niityllä, hymyillen ja muistaen salaisen puutarhan upeita kukkia. He tiesivät, että heillä oli aina uusia seikkailuja edessään, kunhan he vain pitäisivät ystävät ja toivon mukanaan.
+
+Maija ja hänen ystävänsä oppivat, että elämä on täynnä seikkailuja ja että oikeat ystävät auttavat voittamaan kaikki haasteet. Ja aina, kun he maistoivat hunajaa, he muistivat sen maun lisäksi myös matkan, joka heidät sinne vei – matkan salaisessa puutarhassa, jossa upeat kukat loistivat ja hunaja oli makeampaa kuin koskaan.
+
+Loppu.
+</body>
+```

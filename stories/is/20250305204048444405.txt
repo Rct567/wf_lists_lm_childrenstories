@@ -1,0 +1,45 @@
+<prompt>
+Please write a silly Icelandic children's story that is at least 1000 words long.
+It must be completely written in proper Icelandic (IS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Ýmis konar dýr í skógum og á fjöllum'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>is</lang_id>
+
+<title>Ýmis konar dýr í skógum og á fjöllum</title>
+<body>
+Það var einu sinni, í fjallalöndum Íslands, skógum og á blómaþakið engu síður.  Þar bjuggu ýmis konar dýr, frá stórum björnum til smáa, sprengihraðra músanna.  Þetta var land þar sem vindurinn söng sögulega söngva og hvergi var að finna þreytu.
+
+Í einum litlum, blómaþakið skógi bjó litla, fjólubláa kóngudýr sem hét Bláa.  Bláa var ekki eins sterk og björninn, ekki eins hrað eins og hjörturinn, og ekki eins snjall eins og ræturinn.  En Bláa hafði eitt sem engin önnur dýr höfðu -  hún gat talað við tré.  Þau hlýðnuðu við hana.
+
+Eitt morgun, þegar sólin var að vakna og skína á fjallalöndin, var Bláa að fara í gönguferð.  Hún gekk um skóginn, hlustaði á sönginn sem vindurinn söng og talaði við trén.  „Góðmorgun, elsku tré!“ sagði hún. „Hvernig er dagurinn í dag?“
+
+Eitt tré, gamalt og þykkt, svaraði, „Dagurinn er frábær, Bláa!  Vindurinn flýgur í gegnum greinar mínar og blómin dansa í sólarljósinu.  En ég er aðeins aðeins órólegur.  Ég hef ekki séð Brúna, minn gamla vin.  Þú veist, þann sem elskar að borða berverki?“
+
+Bláa, sem var góð vinkona Brúna, sagði, „Ég mun leita að honum, elskaða tré!  Ég mun finna hann og koma honum til þín.“
+
+Bláa fór í leitina.  Hún gekk um skóginn, hún leit í hverri gróðurlögn, og hún talaði við hverja steinn.  En hún fann ekki Brúna.  Hún var aðeins aðeins að missa vonina.
+
+Á leiðinni fann Bláa klett.  Á kletnum sat stór, grábrúnn, björn.  Björninn var að borða berverki.  Bláa stóð við hliðina á honum og sagði, „Góðmorgun, Björnin!  Þú ert að borða berverki.  Ertu ekki að leita að Brúna?“
+
+Björninn leit upp og sagði, „Nei, ég er aðeins að borða berverki.  Hver er Brúni?“
+
+„Það er gamalt tré sem er að leita að honum,“ sagði Bláa. „Það er órólegt vegna þess að það hefur ekki séð hann í nokkra daga.“
+
+Björninn, sem var óvenju góður maður, sagði, „Ég mun hjálpa ykkur!  Ég mun fara með ykkur á leitina.“
+
+Þeir fóru saman, Bláa og Björninn.  Þeir fóru í gegnum skóginn, og þeir fóru upp á fjall.  Og þar, í einu skjótu horninu, fundu þeir Brúna.  Brúni var að borða grænmeti og var ekki að leita að neinum.
+
+Brúni var ánægður að sjá Bláu og Björnin.  Þeir voru góðir vinir.  Þeir voru aðeins aðeins óvenjulegir vinir.  Þeir voru aðeins aðeins skemmtilegir vinir.
+
+Þeir sögðu öll sögu sína, og þeir léku saman.  Þeir dansuðu með vindinum og sungu söngva með trén.  Það var frábær dagur.
+
+Þegar sólin fór að setjast, sögðu Bláa, Björninn og Brúni hver öðrum góðan nótt.  Þeir sögðu, „Þökk fyrir að þú varst með okkur í dag.“  Þeir vissu að það væri ekki síðasta ferðin sem þeir myndu vera saman.
+
+Og þannig bjuggu Bláa, Björninn og Brúni í skóginum, og léku saman í mörg ár.  Þeir voru vinir, og þeir voru skemmtilegir.  Þeir vissu að það væri gaman að lifa í fjöllum Íslands.
+</body>

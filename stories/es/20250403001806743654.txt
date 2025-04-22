@@ -1,0 +1,103 @@
+<prompt>
+Please write a dialog-based Spanish children's story that is at least 1000 words long.
+It must be completely written in proper Spanish (ES).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'El cine donde las películas eran aventuras y los sueños se hacían realidad siempre.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>es</lang_id>
+
+```xml
+<title>El cine donde las películas eran aventuras y los sueños se hacían realidad siempre.</title>
+<body>
+<p>Era una vez, en un pueblo escondido entre montañas color esmeralda y un río de aguas cristalinas, un cine muy especial. No era un cine cualquiera, ¡no! Este cine, llamado “Cine de Ensueño”, tenía una magia única. Sus películas no solo se proyectaban en la pantalla; ¡también te llevaban dentro!</p>
+
+<p>La puerta del cine siempre estaba abierta, invitando a curiosos y soñadores. Afuera, un letrero antiguo, con letras doradas que brillaban bajo el sol, anunciaba: "Cine de Ensueño: Donde la fantasía se encuentra con la realidad".</p>
+
+<p>En el pueblo vivían dos amigos inseparables: Leo y Sofía. Leo era un niño de rizos castaños y ojos curiosos. Siempre llevaba una mochila llena de lápices de colores y un cuaderno para dibujar. Sofía, por su parte, tenía trenzas rubias que le llegaban a la cintura y una sonrisa que iluminaba cualquier lugar. Le encantaba leer y soñar despierta.</p>
+
+<p>Un día, al salir de la escuela, Leo le dijo a Sofía con entusiasmo:</p>
+
+<p>– ¡Sofía, Sofía! ¿Has oído hablar del Cine de Ensueño? ¡Dicen que es mágico! Hoy proyectan una película sobre piratas.</p>
+
+<p>– ¿Piratas? –preguntó Sofía, sus ojos brillando– ¡Me encantan los piratas! ¿Vamos?</p>
+
+<p>– ¡Claro que sí! –respondió Leo, y juntos corrieron hacia el cine.</p>
+
+<p>Al entrar, la atmósfera del Cine de Ensueño era fascinante. La sala estaba decorada con luces suaves, estrellas brillantes y nubes de algodón colgando del techo. Las butacas eran mullidas y cómodas, como si estuvieran hechas para abrazar a los espectadores. En la entrada, una señora mayor, con un sombrero extravagante adornado con plumas, les sonrió.</p>
+
+<p>– ¡Bienvenidos, pequeños soñadores! –dijo la señora con una voz dulce– Soy la señora Esmeralda. Hoy, ¡nos embarcaremos en una gran aventura!</p>
+
+<p>Leo y Sofía le devolvieron la sonrisa y tomaron sus asientos. La película comenzó. En la pantalla, un barco pirata surcaba los mares tempestuosos. Un valiente capitán, con parche en el ojo y espada en mano, gritó:</p>
+
+<p>– ¡A toda vela! ¡Rumbo a la Isla del Tesoro!</p>
+
+<p>De repente, un fuerte resplandor iluminó la sala. ¡Leo y Sofía sintieron un mareo y se encontraron, no en sus butacas, sino en la cubierta del barco pirata! La brisa marina les golpeaba la cara, y el olor a salitre llenaba el aire.</p>
+
+<p>– ¡Wow! –exclamó Leo, asombrado– ¡Estamos dentro de la película!</p>
+
+<p>– ¡Increíble! –dijo Sofía, sujetándose de la barandilla del barco.</p>
+
+<p>Se acercaron al capitán, quien los miró con sorpresa.</p>
+
+<p>– ¡Ahoy, marineros! ¿Quiénes son ustedes?</p>
+
+<p>– Somos Leo y Sofía, y ¡queremos ayudarles a encontrar el tesoro! –respondió Leo, emocionado.</p>
+
+<p>El capitán, con una sonrisa enigmática, les dijo:</p>
+
+<p>– ¡Perfecto! Necesitamos valientes compañeros. ¡Pero cuidado! El camino hacia el tesoro está lleno de peligros.</p>
+
+<p>Y así, comenzó su aventura. Navegaron por mares turbulentos, esquivaron cañones y se enfrentaron a terribles tormentas. Leo, con sus lápices, dibujaba mapas improvisados para guiarlos. Sofía, con su inteligencia y conocimiento, descifraba los acertijos y resolvía los enigmas que encontraban en su camino.</p>
+
+<p>Un día, llegaron a una isla desierta. El mapa indicaba que el tesoro estaba escondido en una cueva oscura y llena de trampas. El capitán les advirtió:</p>
+
+<p>– Debemos ser cautelosos. La avaricia es un peligro mayor que cualquier tormenta.</p>
+
+<p>Al entrar en la cueva, encontraron un laberinto lleno de pasadizos secretos y trampas ingeniosas. Leo, con sus habilidades de dibujo, marcaba el camino para no perderse. Sofía, con su aguda observación, detectaba las trampas y las desarmaba.</p>
+
+<p>De pronto, se encontraron frente a una puerta enorme, adornada con calaveras y huesos cruzados. En la puerta, había un acertijo escrito con letras de oro:</p>
+
+<p>“Soy invisible, pero me ves en cada sueño. Soy la fe, la esperanza y el deseo sincero. ¿Quién soy?”</p>
+
+<p>Leo y Sofía se miraron, pensativos. Después de un rato, Sofía respondió:</p>
+
+<p>– ¡Es la imaginación! –dijo Sofía, emocionada– Sin imaginación, no existirían las películas, ni las aventuras, ni los sueños.</p>
+
+<p>Al decir la palabra "imaginación", la puerta se abrió de par en par, revelando un cofre brillante lleno de tesoros. Pero, para sorpresa de Leo y Sofía, el cofre no contenía oro ni joyas. En su interior, había una colección de objetos mágicos: un pincel que pintaba la felicidad, un libro que contaba historias increíbles, una flauta que despertaba la alegría.</p>
+
+<p>El capitán les explicó:</p>
+
+<p>– El verdadero tesoro no está en las riquezas materiales, sino en la alegría, la imaginación y el poder de los sueños. Estos objetos les ayudarán a hacer felices a otros y a crear un mundo mejor.</p>
+
+<p>Leo y Sofía se sintieron inmensamente felices. Sabían que habían encontrado un tesoro mucho más valioso que el oro. Con los objetos mágicos, comenzaron a hacer el bien en el pueblo. Con el pincel pintaron sonrisas en los rostros de los niños, con el libro contaron historias inspiradoras y con la flauta tocaron melodías que llenaban de alegría a todos.</p>
+
+<p>Después de un tiempo, un nuevo resplandor iluminó la cueva. Leo y Sofía se dieron cuenta de que volvían a estar en el cine. La película había terminado, y la señora Esmeralda los esperaba con una sonrisa.</p>
+
+<p>– ¿Y bien, mis pequeños aventureros? –preguntó la señora Esmeralda– ¿Disfrutaron su aventura?</p>
+
+<p>– ¡Fue increíble! –respondió Leo.</p>
+
+<p>– Aprendimos que el verdadero tesoro es la imaginación y la alegría –dijo Sofía.</p>
+
+<p>La señora Esmeralda asintió con una sonrisa y les dijo:</p>
+
+<p>– El Cine de Ensueño siempre está abierto para quienes deseen vivir aventuras y hacer realidad sus sueños. ¡Hasta la próxima función!</p>
+
+<p>Leo y Sofía salieron del cine, caminando a la luz de la luna. Sabían que las aventuras del Cine de Ensueño no terminaban con la película. Siempre llevarían en su corazón la magia del cine y la importancia de la imaginación.</p>
+
+<p>– ¿A qué película iremos la próxima vez? –preguntó Leo, emocionado.</p>
+
+<p>– ¡A una donde podamos volar! –respondió Sofía, con una sonrisa en los labios.</p>
+
+<p>Y así, cada fin de semana, Leo y Sofía regresaban al Cine de Ensueño, listos para embarcarse en nuevas aventuras y vivir en un mundo donde los sueños se hacían realidad, siempre. Sabían que, dentro de ese cine especial, no solo veían películas, sino que también encontraban el camino para construir un mundo lleno de felicidad, amistad y, sobre todo, imaginación.</p>
+
+<p>Un día, Leo y Sofía decidieron compartir la magia del cine con otros niños del pueblo. Organizaron funciones especiales, pintaron carteles coloridos y decoraron el cine con globos y serpentinas. La señora Esmeralda, encantada, les ayudó con los preparativos. El Cine de Ensueño se convirtió en un lugar aún más especial, un espacio donde la amistad y la fantasía florecían día tras día.</p>
+
+<p>Desde ese día, la magia del Cine de Ensueño se extendió por todo el pueblo. Los niños aprendieron a creer en sus sueños, a ser valientes y a ayudar a los demás. Y, cada noche, antes de dormir, miraban al cielo, sabiendo que las aventuras, como las películas, siempre tienen un final feliz… si se cree en la magia de la imaginación. Y, por supuesto, si se visitaba el Cine de Ensueño.</p>
+</body>
+```

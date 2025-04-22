@@ -1,0 +1,45 @@
+<prompt>
+Please write a funny Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Yomg'irli kunlarda yashirin sirlar'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>Yomg'irli kunlarda yashirin sirlar</title>
+<body>
+O'rta Osiyo qishloqlaridan birida,  qora bulutlar osmonni qoplab olgan yomg'irli bir kunda,  kichik,  qo'shni uylarning orasida joylashgan bir uyda,  ikki qiziqarli bolalar,  Oybek va Gulnora,  o'zlarining o'yinchoqlarini to'plashgan edi.  Yomg'irning shovqinli to'qilishi,  uyning  kaminlaridan oqayotgan suv tomchilari,  o'sha kunda  ko'ngilni  o'ziga jalb qilgan edi.
+
+Oybek,  qizil rangli avtomobilini o'ziga jalb qilgan  va  uni  yomg'ir ostida  "poytaxt"  deb nomlagan edi.  Gulnora esa,  kichik bir  qizil  cho'chqani  o'z qo'llariga  olib,  uning  oyoqlariga  yomg'ir tomchilarini  "yomg'irli  to'y"  deb  hisoblardi.  Ular  o'zlarining  o'yinchoqlari bilan o'yinlarini  davom ettirishlari  uchun  uy  ichida  yashirin  va  qiziqarli  bir  o'yin  o'ylashgan  edi.
+
+"Bugun biz  yashirin  sirlar  to'g'risida  o'yin o'ynaymiz," dedi Oybek,  ko'zlarini  yomg'ir  tomchilariga  qarab.
+
+"Qanday yashirin sirlar?"  deb so'radi Gulnora,  cho'chqasini  qo'llariga  siqib.
+
+"Biz  uyimizning  har bir  burchagida  yashirin  sirlar  borligini  bilamiz,"  dedi Oybek.  "Biz  ularni  topib,  o'zlarining  sirlarini  ochib  berishimiz  kerak!"
+
+Ular  uyning  har bir  burchagini  tekshirishga  tushishdi.  Ular  kitob  rafida  yashirin  bir  qog'oz  topdilar.  Qog'ozda  kichik  xatlar  bilan  yozilgan  sehrli  so'zlar  bor  edi.
+
+"Bu nima?"  deb so'radi Gulnora.
+
+Oybek  qog'ozni  diqqat bilan  o'qidi.  U  so'zlarni  bir-biriga  bog'lab  o'qidi:  "Yomg'irli  kunlarda  yashirin  sirlar  yashiringan.  O'z  o'yinchoqlaringizga  quloq  soling.  Ularning  sirlarini  toping."
+
+"Bu  qiziq!"  dedi Gulnora.
+
+Ular  o'zlarining  o'yinchoqlariga  diqqat bilan  qarab  boshlashdi.  Qizil  avtomobil  o'zining  to'rt  g'ildiragi  bilan  yomg'ir  tomchilariga  qarab  o'zining  qiziqarli  hikoyasini  aytib  bermoqchi  edi.  Gulnoraning  cho'chqasi  esa  yomg'ir  tomchilariga  qarab  o'zining  qiziqarli  musiqalarini  o'ynamoqchi  edi.
+
+Oybek  avtomobilning  g'ildiraklarini  diqqat bilan  tekshirdi.  U  g'ildiraklarning  har  birida  kichik  bir  temir  yozuv  borligini  payqab  qoldi.  Yozuvlar  bir-biriga  bog'lab  o'qilganda,  "Yomg'ir  har  bir  narsaga  hayot  bag'ishlaydi"  deyilgan  edi.
+
+Gulnora  cho'chqaning  oyoqlarini  tekshirdi.  U  har  bir  oyoqda  kichik  bir  raqam  borligini  payqab  qoldi.  Raqamlar  bir-biriga  bog'lab  o'qilganda,  "Yomg'ir  o'yinchoqlarimizga  quvonch  bag'ishlaydi"  deyilgan  edi.
+
+Ular  o'yinchoqlarining  sirlarini  topganlaridan  keyin,  ular  uyning  boshqa  burchaklariga  qarab  boshlashdi.  Ular  kitob  rafida  bir  qog'oz  topdilar.  Qog'ozda  kichik  xatlar  bilan  yozilgan  sehrli  so'zlar  bor  edi.  "O'yinchoqlar  bilan  o'ynang,  lekin  ularga  ozor  bermang.  Ular  ham  siz  kabi  sezgi  va  hislarga  ega."
+
+Oybek va Gulnora o'yinchoqlariga g'amxo'rlik qilishdi va ular bilan o'ynashdi.  Yomg'ir  to'xtaganidan  keyin,  ular  o'z  o'yinchoqlarini  yomg'irdan  saqlab  qolish  uchun  uy  ichida  saqlashdi.
+
+O'sha  kundan  keyin  Oybek  va  Gulnora  o'zlarining  o'yinchoqlarini  ham  o'zlarini  kabi  hisoblashgan.  Ular  o'yinchoqlarning  sirlarini  topish  uchun  har  bir  yomg'irli  kunda  yangi  o'yinlar  o'ynashgan.  Va  ular  bilib  oldilar  ki,  hayotda  ko'p  yashirin  sirlar  bor,  faqat  biz  ularni  topish  uchun  ko'proq  diqqat  bilan  qarasak  va  o'ylasak  boradi.
+</body>

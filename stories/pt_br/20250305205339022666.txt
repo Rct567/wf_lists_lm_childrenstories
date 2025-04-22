@@ -1,0 +1,60 @@
+<prompt>
+Please write a silly Portuguese (Brazil) children's story that is at least 1000 words long.
+It must be completely written in proper Portuguese (Brazil) (PT_BR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>pt_br</lang_id>
+
+<title>A Aventura do Pipoca e do Guaraná</title>
+<body>
+O Pipoca era um macaquinho pequenino, com um focinho cor-de-rosa e uma franja ruiva que parecia um cacho de pipoca estourando. Ele morava numa mangueira enorme, no meio da Floresta Encantada, e adorava observar as aventuras dos outros animais.  O Guaraná era um veado com chifres curtos e um pelo marrom-avermelhado, que brilhava como se estivesse sempre bebendo um delicioso guaraná gelado.  Ele era conhecido por sua curiosidade sem limites e sua disposição para correr atrás de qualquer novidade.
+
+Um dia, enquanto o Pipoca comia um delicioso cacho de mangas, ouviu um barulho esquisito vindo da floresta.  "Hum... que barulho será esse?", pensou ele, espreitando entre as folhas.  Era o Guaraná, que corria em disparada, com os olhos arregalados, como se tivesse visto um fantasma.
+
+"Pipoca! Pipoca! Vi um bicho-preguiça com óculos de sol e um chapéu de palha! Um bicho-preguiça elegante!" gritou o Guaraná, ofegante.
+
+O Pipoca, sem entender nada, correu atrás do amigo.  Juntos, eles chegaram a uma clareira onde, de fato, um bicho-preguiça, com um par de óculos de sol gigantescos e um chapéu de palha decorado com flores, estava sentado em cima de uma pedra, lendo um livro.
+
+"Olá!", disse o Pipoca, com a voz mais doce que podia.
+
+O bicho-preguiça, que se chamava Preguiça-Prestígio, ergueu os óculos e olhou para eles com ar pensativo. "Ah, vocês são os aventureiros Pipoca e Guaraná? Já ouvi falar de vocês!"
+
+"Aventureros?  Nós?", perguntou o Guaraná, meio envergonhado.
+
+"Claro!  Afinal, quem mais se arrisca a perseguir um bicho-preguiça com óculos de sol e chapéu de palha?", respondeu Preguiça-Prestígio, com um sorriso que mostrava todos os seus dentes.  "Mas... por que vocês estão tão... agitados?"
+
+"Nós estávamos procurando o Coelho da Lua!" explicou Pipoca, com um suspiro. "Dizem que ele guarda as estrelas mais brilhantes e o Guaraná estava muito curioso para vê-las."
+
+Preguiça-Prestígio sorriu.  "O Coelho da Lua?  Ele mora atrás da cachoeira de cristal, mas só é possível encontrá-lo com a ajuda da Flor-Fada."
+
+"Flor-Fada?" perguntou o Guaraná, seus olhos brilhando.
+
+"Sim, a Flor-Fada. Ela tem o poder de transformar qualquer coisa em algo mágico.  Mas ela só aparece na hora do pôr do sol, e só fala com quem tem um coração puro e cheio de alegria."
+
+O Pipoca e o Guaraná se entreolharam, um pouco preocupados.  Seria possível encontrar a Flor-Fada?
+
+Eles correram pela floresta, procurando por qualquer sinal da Flor-Fada.  Encontraram um rio com águas cristalinas, uma árvore com frutos dourados e até um grupo de esquilos jogando bolinhas de pinhão. Mas não encontraram a Flor-Fada.
+
+Enquanto caminhavam, avistaram uma linda flor, com pétalas cor-de-rosa e um perfume delicioso.  Era uma Flor-Fada! Ela estava sentada no meio de um jardim, sorrindo para as borboletas que dançavam ao seu redor.
+
+"Olá, Flor-Fada!", disse o Pipoca, com a voz mais doce que conseguiu.
+
+A Flor-Fada sorriu. "Bem-vindos!  Vocês têm corações puros e cheios de alegria."
+
+"Nós queremos encontrar o Coelho da Lua!" disse o Guaraná.
+
+A Flor-Fada sorriu e, com um toque mágico, fez aparecer um caminho de luz que levava até a cachoeira de cristal.  "Sigam este caminho, e vocês encontrarão o Coelho da Lua."
+
+O Pipoca e o Guaraná seguiram o caminho de luz, e logo chegaram à cachoeira. Lá, sentado em cima de uma pedra, estava o Coelho da Lua, com um grande sorriso e as estrelas mais brilhantes em suas mãos.
+
+O Coelho da Lua mostrou as estrelas para o Pipoca e o Guaraná, que ficaram maravilhados.  Eles aprenderam que a aventura não era só sobre encontrar coisas, mas sobre a alegria de compartilhar a jornada com amigos e descobrir a beleza que existe em cada detalhe.
+
+E assim, o Pipoca e o Guaraná voltaram para a Floresta Encantada, trazendo consigo não só as estrelas, mas também a amizade e a alegria de uma aventura inesquecível.
+
+E o bicho-preguiça? Ele ficou lá, lendo seu livro, sabendo que a melhor aventura era a da descoberta pessoal, mesmo que sem óculos de sol.
+</body>

@@ -1,0 +1,102 @@
+<prompt>
+Please write a silly Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A szorgalmas méhek és a virágos rét'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>hu</lang_id>
+
+<title>A szorgalmas méhek és a virágos rét</title>
+<body>
+Egyszer volt, hol nem volt, a világon túl, a kék folyón túl, egy gyönyörű, virágos rét. De nem ám akármilyen rét! Ez a rét olyan volt, mintha egy festő hatalmas, színes ecsettel mázolta volna tele a világot. Tarka virágok nyíltak mindenféle színben: piros pipacsok, sárga napraforgók, lila árvácskák, kék búzavirágok, rózsaszín rózsák. A rét szélén kanyargott egy kristálytiszta patak, amiben aranyhalak úszkáltak, és a nap melegen sütötte az egészet.
+
+És a réten élt egy nagy, dongó-bongó méhkas. A méhek a világ legszorgalmasabb, legkedvesebb, legzsonglőrösebb teremtményei voltak. Persze, zsonglőrködni nem mindegyikük tudott, de nagyon szerettek próbálkozni! A méhek vezére, Zizi, egy különösen okos, nagydarab méhecske volt, aki mindig tudta, mit kell tenni. Ő tartotta a rendet, ő szervezte a munkát, és ő ellenőrizte, hogy mindenki elég mézet gyűjtött-e. Zizi mindig nagyon szigorú volt, de a méhecskék szerették őt, mert tudták, hogy a legjobbakat akarja nekik.
+
+A méhkasban nagy nyüzsgés volt. A méhek reggeltől estig szorgoskodtak. Néhányan nektárt gyűjtöttek a virágokból, néhányan virágport gyűjtöttek, néhányan a lépesmézet építették, néhányan a méhcsaládot gondozták, és néhányan a méhkas környékét tisztították. Persze, mindig volt egy-két pajkos méhecske, akik inkább a játékkal foglalkoztak. Például Pöttyös, a nagyszájú méhecske, aki folyton ugrándozott és kiabált: „Gyere ide, játsszunk bújócskát a virágok között!” Vagy Füles, a kicsit ügyetlen méhecske, aki mindig beleesett a virágokba, vagy rátapadt a levelekre, miközben próbált dolgozni.
+
+Egyik szép napon Zizi, a méhkirálynő, megszólította a méhecskéket. „Méhecskék, figyelem! A réten egyre kevesebb a nektár. Valakinek sürgősen ki kellene találni, hogy mi a teendő.”
+
+A méhecskék megijedtek. „Mi lesz most, ha nem lesz elég nektár?” – kiáltotta egy ijedt kis méhecske.
+
+„Ne aggódjatok, méhecskék!” – mondta Zizi. – „Ki kell találnunk valamit. Füles, Pöttyös, gyertek ide!”
+
+Füles és Pöttyös összenéztek. Tudták, hogy baj van, mert Zizi sosem szólított ki a nevükön, ha nem történt valami fontos.
+
+„Ti ketten vagytok a legkalandvágyóbbak és legügyesebbek a méhkasban.” – kezdte Zizi. – „El kell mennetek, és ki kell derítenetek, miért kevesebb a nektár.”
+
+Füles és Pöttyös boldogan ugráltak. A kaland! Ők szeretnek kalandozni!
+
+„De figyeljetek!” – szólt Zizi. – „Ne térjetek le a kijelölt útvonalról. Ne kísérletezzetek veszélyes dolgokkal. És főleg: legyetek óvatosak! Ne hagyjátok el a rétről. Vigyétek magatokkal ezt a kis üveget. Ebbe gyűjtsetek nektárt. Így láthatjuk, mennyit gyűjtöttetek!”
+
+Füles és Pöttyös megkapták az üveget, és útra keltek. Rögtön elfelejtették, hogy óvatosnak kell lenniük. Pöttyös elkezdett énekelni egy furcsa dalt: „Rét a rét, virág a virág, kaland lesz most, hajrá, hajrá!” Füles pedig úgy döntött, hogy ő fogja a térképet (egy nagy levelet, amire egy pillangó rajzolta a rétet). De mire felnéztek a térképről, már teljesen eltévedtek!
+
+„Én már nem is látok a patakot!” – kiáltotta Füles.
+
+„Én sem!” – kiáltotta Pöttyös. – „Hová tűntünk? Talán átmentünk egy másik rétre?”
+
+Sétáltak, mendegéltek, és a végén egy furcsa helyre érkeztek. Ez a hely sötét és tele volt furcsa, sárga dolgokkal. Szaguk is volt… de egy kicsit kellemetlen.
+
+„Mi ez?” – kérdezte Pöttyös.
+
+„Nem tudom.” – felelte Füles. – „De nézzétek!”
+
+Észrevették, hogy itt a virágok szomorúnak tűntek. A leveleik le voltak hervadva, a virágaik elfordultak, a méhek pedig… sehol!
+
+Hirtelen egy hangot hallottak. „Hű, de unalmas itt!” Egy nagy, kövér bogár ült egy sárga, döngölődő kupac mellett. Ez a bogár, ahogy utólag kiderült, egy hatalmas sárga sáska volt, aki éppen a kukoricát siratta, ami elhervadt a szomszéd földön.
+
+„Ti meg kik vagytok?” – kérdezte a sáska, aki valami nagy bajon gondolkodott.
+
+„Mi, mi a virágos rétről jöttünk!” – felelte Pöttyös. – „Mi méhecskék vagyunk, és nektárt gyűjtünk. De mi a baj?”
+
+„Baj van!” – sóhajtott a sáska. – „A szomszédban a kukorica kiszáradt. Nem tudom miért. Valami furcsa dolog történik! Egyre kevesebb eső esik, a nap meg csak süt, és süt. Én is egyre kevesebb kukoricát kapok!”
+
+„A nap nem süt egyformán mindenhol.” – sóhajtott Füles. – „Én csak a térképet rajzoltam le a pillangóval, azért nem látom.”
+
+„Én a nap szeretem!” – kiabált a sáska. – „Nekem kellene egy esővarázsló! Vagy a napvarázsló. Valaki, aki beállítaná a napot.”
+
+Pöttyös és Füles hirtelen megrémültek. Az esővarázsló! Vagy a napvarázsló! Ilyenek nincsenek! Ráadásul nekik a nektárgyűjtést kellett volna megoldaniuk.
+
+„Várj csak, mi éppen arra jöttünk, hogy nektárt gyűjtsünk…” – mondta Pöttyös.
+
+„De nem találunk nektárt!” – tette hozzá Füles.
+
+A sáska gondolkodóba esett. „Nektár? Hol vagytok?” – kérdezte.
+
+„A virágos réten.” – felelte Pöttyös.
+
+A sáska kuncogott. „Ugyan! Már mindenhol kevesebb a virág. Akkor én elmegyek. Én eszek!” – majd odament a kukoricákhoz, és halkan hápogni kezdett.
+
+Füles és Pöttyös, nagyon elkeseredve, elindultak vissza. Ahogy mennek, egy kis gyümölcsfa mellett elmentek. Sok-sok szép virág pompázott rajta! Azonnal belemerültek a nektárgyűjtésbe, és mire a nap már kezdett lemenni, az üvegük majdnem tele volt.
+
+Visszatértek a méhkasba. Zizi nagyon meglepődött, amikor látta az üveget. „Hol voltatok?” – kérdezte.
+
+Elmesélték a kalandjukat. Elmondták a sáskával történt találkozást is. Zizi, meghallgatva a történetüket, sokáig gondolkozott. Végül ezt mondta: „Én hiszem, hogy megoldást kell találnunk.”
+
+A méhek összegyűltek. „Mi lesz, mi lesz?” – kérdezték.
+
+Zizi felsóhajtott. „Pöttyös, Füles, ti találtatok egy jó dolgot! Megoldjuk együtt a nektárcsökkenést.”
+
+Zizi elmagyarázta a tervét. Minden méh kapott egy kis üveget. Mindenki a virágos rétről a kis üveget. Elmentek a sáskához.
+
+„Sáska úr!” – szólt Zizi. – „Sajnos nálunk is kevesebb a nektár. De a nap, ami téged zavar, minket is. És a te sárga, felesleges kukoricád, amiről beszéltél, attól sem vagyunk elájulva. Megoldást kell találnunk. Szerintünk sokat segítene, ha esne egy kicsit az eső.”
+
+A sáska nagyon meglepődött. „Eső?! Az meg honnan jön? Én sárga vagyok!”
+
+„Mi elhívunk egy esővarázslót!” – mondta Pöttyös.
+
+És tényleg! Egy óra múlva már sokan jöttek! A pillangó, a tücsök, a szöcske. Azt mondták: „Várjuk a harmatot. Az jó!”
+
+Egy hirtelen ötlettől vezérelve Füles egy óriási vízcsepp-festményt rajzolt, majd kiabált a rét közepén: „Ezt a szivárvány-festményt ki lehet tenni, és a nap a helyére kerülhet, meg az eső is! Az segít a szivárványnak.”
+
+Kiderült, hogy ez a megoldás! Mikor a virágok meglátták a festményt, mintha csak felélénkültek volna. Hirtelen fellegek gyülekeztek az égen, és nagy örömünkre esni kezdett az eső! Az eső mindent meglocsolt, felpezsdített.
+
+A sáska megenyhült. Megfogadta, hogy többet gondol a környezetére. A kukoricát leültették a virágok közé. Így mindenhol volt élet. A méhecskék pedig annyi nektárt gyűjtöttek, hogy az egész télre jutott.
+
+És a réten béke lett. A méhecskék szorgalmasak maradtak, a virágok virágosak, a nap ragyogott, és esett az eső, pont amikor kellett. A méhkasban pedig minden nap vidám volt. Zizi pedig meg volt elégedve az eredményekkel. Füles és Pöttyös pedig megkapták a kitüntetést a bátorságukért, és büszkén mesélték a kalandjaikat a többi méhecskének.
+A történet pedig boldogan ért véget, mindaddig, míg a méhek éltek a virágos réten.
+</body>

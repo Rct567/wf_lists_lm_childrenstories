@@ -1,0 +1,41 @@
+<prompt>
+Please write a uncomplicated Slovak children's story that is at least 1000 words long.
+It must be completely written in proper Slovak (SK).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Príbeh Dobrodruhov z Lesa, Kde Bývali Zvieratká Vesele'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sk</lang_id>
+
+<title>Príbeh Dobrodruhov z Lesa, Kde Bývali Zvieratká Vesele</title>
+<body>
+V hustom lese, plnom rozličných stromov, od tých najvyšších dubov až po jemné vŕby, žili zvieratká veselo.  Každý deň bol plný nových dobrodružstiev a zážitkov.  V strede lesa stál starý, mohutný dub, ktorého koruna sa dotýkala oblohy.  Pod ním sa stretávali všetky zvieratká – medvede, líšky, zajace, veveričky, a mnoho, mnoho ďalších.
+
+Malý zajac menom Pipík sa vždy tešil na ranné stretnutia.  Mal krátke uši, ktoré sa mu často hýbali z dôvodu jeho neustáleho nadšenia.  Miloval skákať po zelených lúkach a hľadať chutné mrkvičky.  Jeho najlepšou kamarátkou bola veverička s krásnym, červeným chvostom, ktorú volali Štefka.  Štefka bola rozvážna a múdra, vždy vedela nájsť riešenie v každej situácii.
+
+Jedného dňa, keď sa slnko zohrialo na lesnej ceste, ozvalo sa zvláštne šušťanie.  Pipík a Štefka sa pozreli na seba.  Z tmavého lesa vyšiel veľký, hnedý medveď.  Nevyzeral strašidelne, ale jeho oči boli plné zvedavosti.  „Dobré ráno,“ povedal medveď hrubým, ale priateľským hlasom. „Vidím, že ste sa opäť stretli. Čo robíte?"
+
+„Hľadáme zriedkavý hubový klobúk, ktorý má čarovnú vôňu,“ odpovedala Štefka. „Sľúbili sme ho našej starej líške, ktorá sa cíti trochu chorľavo.“
+
+Medveď sa usmial. „Och, poznám túto líšku! Je to veľmi milá stará duša.  Pomôžem vám ho nájsť.“
+
+Všetci traja začali cestu lesom.  Medveď, so svojou mohutnou postavou, otváral cestu, Štefka, s jej skvelým čuchom, sa rozhliadala po okolí, a Pipík, s jeho rýchlym skokom, sa snažil udržať krok s nimi.  Prešli cez husté krovia, okolo lesných potokov a pod starými, rozsiahlymi stromami.  Hľadali a hľadali, ale zázračný klobúk sa im stále nedostal do rúk.
+
+Začali sa rozpúšťať obavy. Slnko už sklonilo svoju tvár k západu. Zdálo sa, že ich zriedkavý hubový klobúk je len výmyslom. Práve vtedy, keď už strácali nádej, náhle Štefka zastala. Jej červený chvost sa rozkýval, plný nadšenia. Z pod vysokým dubom na okraji lúky videl podivný, lesklý hubový klobúk.  Mal neobyčajnú vôňu, ktorá bola silnejšia, než čokoľvek, čo kedy cítili.
+
+Všetci traja sa k nemu ponáhľali. Medveď ho opatrne zdvihol.  Hubový klobúk sa zdvihol, akoby ho tam niekto tajne držal.
+
+"Je to naozaj ten správny!"  zašuškal Pipík.
+
+Štefka ho rozdrvila, aby vyskúšala vôňu.  "Až teraz cítim jeho liečivú vôňu," povedala. "Zrejme to pomôže babičke."
+
+S úsmevom na tvári ho odniesli k starej líške.  Líška, keď cítila jeho vôňu, sa prebudila.  Bola slabá, ale s úľavou sa usmiala.  Hubový klobúk bol jedinečný a mágii plný, a v tomto lese, kde boli zvieratá veselé, sa stala rozprávka skutočnosťou.
+
+Od tej chvíle, sa zvieratá v lese ešte viac tešili.  Pochopili, že aj v najmenších činoch, ak sa robia z lásky a priateľstva, sa skrýva veľká sila.  Pipík, Štefka a medveď sa spolu s celým lesom poďakovali za zázrak.  A tak sa príbeh Dobrodruhov z Lesa, Kde Bývali Zvieratká Vesele, stal legendou pre všetkých lesných obyvateľov, príbeh o priateľstve, odvahe a tajných pokladoch v srdciach lesa.
+
+V lese sa znovu zaviedla radosť a pokoj.  Každý deň bol plný veselých skokov, šušťania a hľadania nových zážitkov. A už nikdy neboli smutné dni.
+</body>

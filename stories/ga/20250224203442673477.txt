@@ -1,0 +1,37 @@
+<prompt>
+Please write a relatable Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'An Buachaillín Beag agus an Eochair go Caisleán na Gaoithe'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>ga</lang_id>
+
+<title>An Buachaillín Beag agus an Eochair go Caisleán na Gaoithe</title>
+<body>
+Bhí buachaillín beag, le súile dorcha agus gruaig ghrámhar, ina chónaí i gcroílár baile beag ar a bhí an spéir mar chúlra.  A ainm a bhí sé, Pádraig, agus bhí grá ag Pádraig as an gcaisleán a bhí ar a bhí an Gaoth ina chónaí.  Bhí an caisleán, Caisleán na Gaoithe, ar chnoc airde faoi ghluaiseacht na gaoithe, agus bhí sé ina shealbhóir i ndáiríre de mhionnadh. Bhí an eochair ag teacht chuig an áit, agus bhí gach duine ag iarraidh air sin a chosaint. Ach níor bhí aon eochair ag Pádraig.
+
+Thug Pádraig a shábháil agus a chosaint, ach níor tugadh deis dó a bheith ag caint go díreach le daoine eile.  Bhí sé ag obair le chéile le Pádraig, ag déanamh a dhícheall chun an caisleán a chosaint, ach níor chonaic sé aon bhealach chun an eochair a fháil.  Bhí Pádraig ag maithiú, ach níor chuir sé bac ar a spéis.  Bhí an eochair go caisleán na Gaoithe ina chuid is fearr.
+
+Amháin lá, bhí Pádraig ag siúl trasna an fhánaí i dtreo Caisleán na Gaoithe. Bhí sé ina chumais le bheith ag siúl, ach bhí sé díreach ag dul ar aghaidh. Bhí sé ag súil go mór le feiceáil an eochair.  Nuair a tháinig sé in aice leis an gcaisleán, chonaic sé cluiche idir buachaillí eile ón mbaile. Bhí siad ag imirt chluiche iontach le clocha agus éadaí. Chonaic Pádraig go raibh an eochair ar bhalla amháin. Bhí an eochair ina ghrúpa de chlocha agus de chrua-chnáimh.
+
+Bhí sé ag smaoineamh ar conas a d'fhéadfadh sé an eochair a fháil.  Bhí sé ag iarraidh dul isteach sa chluiche, ach bhí sé ró-chúthail.  Bhí sé ag smaoineamh go díreach an uair sin agus bhí sé ag cur a aithne orthu. Bhí siad ag rá, "Táimid ag iarraidh an eochair."
+Bhí buachaill óga ina dteach agus bhí sé ag imirt le clocha agus éadaí. Bhí sé ag rá: "Táim ag iarraidh an eochair a fháil."
+
+Bhí aon duine ag iarraidh an eochair a fháil. Bhí go leor daoine ag iarraidh air sin a chosaint, ach níor bhí aon duine a bhí mar dhuine eile.
+Bhí Pádraig ag smaoineamh ar conas a bheadh sé mar dhuine eile.  Chuir sé faoi deara gur chóir dó go raibh sé de dhícheall chun an eochair a fháil.
+
+Agus ansin, chonaic sé an bealach.  Chonaic sé an ceann is fearr óna chuid bealaí.  Bhí sé ag féachaint ar an eochair le linn a chuid imirt, agus thug sé aire do gach rud a tharla. Bhí sé ag féachaint ar an eochair, agus bhí sé ag féachaint ar na daoine eile ag imirt. Bhí Pádraig ag smaoineamh ar an bealach is fearr chun dul isteach sa chluiche.
+
+Le linn a chuid machnamh, chonaic Pádraig gur thug siad aire do gach rud. Bhí siad ag déanamh díreach mar a bhí na daoine eile. Bhí sé ag iarraidh dul isteach sa chluiche, ach bhí sé ró-chúthail. Chonaic sé an chéad uair sin nach raibh cúthailteacht chomh maith. Bhí sé ag iarraidh dul isteach sa chluiche, agus thosaigh sé ag imirt lena chuid clocha. Agus thosaigh sé ag imirt leo.
+
+Agus nuair a thosaigh sé ag imirt lena chuid clocha, bhí sé cosúil le haon duine eile.  Bhí a fhios aige an chéad fhocal chun ráite, "Táim ag iarraidh an eochair a fháil."  Tháinig sé chun bheith mar aon le buachaillí eile sa chluiche. Bhí sé ag iarraidh an eochair a fháil.  Bhí siad go léir chomh sásta.  Bhí siad ag rá go mbeadh sé níos fearr.
+
+Agus san uair sin, d'éirigh leis an eochair a fháil.  Bhí sé ag maithiú, ag imirt le clocha agus éadaí, agus ar a dhéanaí, bhí sé i gceannas ar an eochair.  Chuir Pádraig an eochair ar a chúl agus thug sé an eochair go Caisleán na Gaoithe. Agus ansin, d'éirigh leis Caisleán na Gaoithe a oscailt.  Bhí Caisleán na Gaoithe ina áit álainn agus ina áit álainn. Bhí an t-eochair ina chuid is fearr.
+
+Bhí Pádraig, an buachaillín beag, ina chosaint an áit.  Bhí sé ina chónaí i gcroílár an bhaile, agus bhí grá ag Pádraig as a mhionnadh.  Bhí an eochair aige go Caisleán na Gaoithe.
+</body>

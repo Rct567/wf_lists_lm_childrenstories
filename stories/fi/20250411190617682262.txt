@@ -1,0 +1,54 @@
+<prompt>
+Please write a fun and entertaining Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Laulavan linnun matka ja uusi koti'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fi</lang_id>
+
+```xml
+<title>Laulavan linnun matka ja uusi koti</title>
+<body>
+Olipa kerran, kaukana pohjoisessa, missä lumoava talvi tanssi revontulien valossa, pieni laululintu nimeltä Tiuku. Tiuku oli tavallista lintua iloisempi, sillä hänen laulunsa oli niin kaunis, että se sai jopa karhut hymyilemään ja oravat tanssimaan. Tiuku asui suuressa kuusimetsässä, vanhan kuusen oksalla, yhdessä perheensä kanssa.
+
+Eräänä päivänä, kun aurinko maalasi taivaan oranssilla ja vaaleanpunaisella, Tiuku sai äidiltään ja isältään huolestuttavan uutisen. "Tiuku, meidän on lähdettävä. Talvi on tulossa, ja ruoka alkaa loppua", äiti-lintu sanoi surullisesti. Isä-lintu nyökkäsi ja lisäsi: "Meidän on etsittävä lämpimämpi paikka, missä on tarpeeksi ruokaa."
+
+Tiuku tunsi pienen piston sydämessään. Hän rakasti kotiaan, suurta kuusimetsää, ja ystäviään, oravia ja kettuja. Mutta hän ymmärsi, että perheen täytyi selviytyä. Niinpä he aloittivat matkan kohti etelää, kohti tuntematonta.
+
+Matka oli pitkä ja vaikea. Tiuku ja hänen perheensä lentelivät päivästä toiseen, ohittaen lumihuippuisia vuoria, jäätävän kylmiä järviä ja pimeitä metsiä. He kohtasivat monia haasteita. He joutuivat väistämään raivoisia tuulia ja pakenemaan ahnailta haukoilta.
+
+Yhtenä päivänä, kun he olivat levähtämässä korkealla kalliokielekkeellä, he näkivät jotain uutta. Kauempana, horisontissa, he huomasivat laajoja, vihreitä kenttiä, kirkkaita jokia ja kukkivia puita. "Se on varmaan se paikka, mistä äitini ja isäni ovat kertoneet", Tiuku ajatteli.
+
+He jatkoivat matkaa ja saapuivat vihdoin uuteen, ihmeelliseen maailmaan. Täällä oli lämpimämpää ja aurinko paistoi lempeämmin. He löysivät runsaasti ruokaa: mehukkaita marjoja, suuria siemeniä ja makeaa hedelmää. Täällä asui myös monia uusia lintuja, joiden laulu soi kuin moniääninen kuoro.
+
+Tiuku oli ensin hieman ujostunut. Hän oli tottunut omaan metsäänsä, ja uusien lintujen jutustelu tuntui vieraalta. Mutta eräänä päivänä, kun hän kuuli pienen, oranssikärkisen tikan soittavan rumpuja puun rungolla, hän päätti kokeilla lauluaan. Hän hyppäsi pienelle oksalle ja avasi nokkansa.
+
+Hänen laulunsa alkoi hiljaisena, pehmeänä, kuin lumpeenkukka avautumassa auringonvalossa. Sitten se voimistui, täynnä riemua ja iloa. Se kertoi matkasta, kylmistä tuulista ja lumisista maisemista. Se kertoi uudesta kodista, auringonpaisteesta ja uusista ystävistä.
+
+Pian muutkin linnut lopettivat laulunsa ja kuuntelivat Tiukua. He eivät olleet koskaan kuulleet mitään sellaista. Tiukun laulu kosketti heidän sydämiään ja toi heidän silmiinsä kyyneleitä. Kun laulu päättyi, muut linnut lentelivät Tiukun ympärille ja alkoivat kiittää häntä.
+
+"Se oli kauneinta, mitä olen koskaan kuullut!" huudahti yksi iso, punarintainen lintu. "Kiitos, että jaoit meille tarinasi."
+
+Tiuku hymyili ujosti. Hän ei ollut koskaan ajatellut, että hänen laulunsa voisi olla niin tärkeä.
+
+Päivien kuluessa Tiuku tutustui uusiin ystäviin ja oppi uusia lauluja. Hän ja uudet ystävät keräsivät yhdessä ruokaa, rakensivat pesiä ja auttoivat toisiaan. Heillä oli suuri ilo ja he tunsivat olonsa turvalliseksi uudessa kodissaan.
+
+Eräänä iltana, kun aurinko oli painumassa mailleen ja taivas oli täynnä tähtikipinää, Tiuku ja hänen perheensä kokoontuivat suuren tammen juurelle. "Tiuku, olemme niin ylpeitä sinusta", äiti-lintu sanoi ja taputti varovasti Tiukun päätä. "Olet löytänyt uuden kodin, ja tuonut meille kaikille iloa laulullasi."
+
+Isä-lintu nyökkäsi ja sanoi: "Olet osoittanut, että muutoksesta ei tarvitse pelätä. Se voi tuoda mukanaan uusia mahdollisuuksia ja uusia ystäviä."
+
+Tiuku tiesi, että hänen elämänsä oli muuttunut. Hän oli lähtenyt kylmästä metsästä, ja löytänyt uuden kodin, joka oli täynnä lämpöä, ystävyyttä ja musiikkia. Hän lauloi yhä useammin, ja hänen laulunsa kantautui yhä kauemmas. Hänen laulunsa kertoi tarinaa matkasta, uudesta kodista ja ystävyydestä, jonka hän oli löytänyt.
+
+Yhtenä päivänä, kun kevät oli jo saapunut täydessä kukassa ja aurinko lämmitti lempeästi, Tiuku sai uuden ystävän, pienen tyttölapsen. Tyttö asui lähellä Tiukun puuta, ja hän rakasti kuunnella linnun laulua. Tyttö toi Tiukulle marjoja ja siemeniä, ja heistä tuli parhaat ystävät.
+
+Tiukun laulu ilahdutti kaikkia, jotka sen kuulivat. Sen ansiosta ihmiset tunsivat itsensä onnellisemmiksi ja toiveikkaammiksi. Linnun laulu kannusti ihmisiä etsimään kauneutta maailmasta ja ymmärtämään, että ystävyys ja rakkaus ovat tärkeämpiä kuin mikään muu.
+
+Ja niin, pieni Tiuku, laulava lintu, eli onnellisena uudessa kodissaan, laulaen ilosta ja levittäen iloa ympärilleen. Hän ei koskaan unohtanut suurta kuusimetsäänsä tai matkaa, joka oli tuonut hänet tänne. Mutta hän tiesi, että hänellä oli nyt uusi perhe ja uusi koti, joka oli yhtä ihana kuin hän oli aina unelmoinut.
+Loppu.
+</body>
+```

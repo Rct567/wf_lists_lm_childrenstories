@@ -1,0 +1,45 @@
+<prompt>
+Please write a silly Slovenian children's story that is at least 1000 words long.
+It must be completely written in proper Slovenian (SL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Skupina otrok, ki so rešili vaško šolo'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sl</lang_id>
+
+<title>Skupina otrok, ki so rešili vaško šolo</title>
+<body>
+V majhnem, slikovitem goratem vasi, imenovani Šum, je stala stara, a srčna vaška šola.  Bila je starodobna, z lesenimi okni in streho, ki se je zdihala ob vsakem pihu vetra.  V tej šoli, kjer so se učili že dedje in babice, je vladal poseben duh, mešanica smeha, znanja in nekaj malega, nedoločljivega, starinskega čarobnosti.
+
+Toda en dan se je zgodilo nekaj nenavadnega.  Streha šole, ki je bila že precej obolela, se je začela resno krpati, kot da bi se sama sebe bala.  Še huje, njeni leseni stropi so se zdihali tako močno, da so se učenci vsaki dan bolj bali, da bodo ob koncu pouka nekako pristali v brezdan.
+
+Najbolj pogumna od vseh otrok, desetošolka Tina, je videl v težavi. "To se ne sme zgoditi," je rekla, in njena glasnost je odmevala po celem razredu.
+
+"Kaj pa naj storimo?" je vprašal Petar, ki je vedno sedel na zadnji klopi in razmišljal o čem povsem drugem.
+
+"Potrebujemo načrt," je odločila Tina. "In potrebujemo močno ekipo."
+
+In tako se je rodila ekipa "Reševalci šole Šum".  V njej so bili:  Tina, Petar, ki je bil čudežni raziskovalec,  Anja, ki je znala čarobno povezati ljudi,  Žan, ki je bil mojster v gradnji hišic iz kartona, in  Lara, ki je znala prepričati vse, da se zabavajo.
+
+Prva naloga je bila ugotoviti, kaj se dogaja s šolo. Petar, ki je običajno raziskoval žuželke, je odkril, da je problem v starodobni konstrukciji in podhranjenih lesenih nosilcih.
+
+"Najprej moramo ugotoviti, kako so narejeni ti leseni nosilci," je dejal Petar, medtem ko je pregledoval stare risbe v šolskem arhivu.
+
+Anja, s svojo močjo prepričevanja, je prepričala staro učiteljico gospo Petrovič, da jim pusti vpogled v stari zapisnik.  V njem so našli skrite nasvete o starodobnih tehnikah popravljanja lesenih konstrukcij.
+
+Žan, z neverjetno kreativnostjo, je izdelal izjemno prenosno konstrukcijo iz kartona in lesa, ki je pomagala prenašati breme strehe in ohranjati ravnotežje.
+
+Lara, s svojo neverjetno sposobnostjo prepričevanja, je prepričala vse domačine, da se pridružijo skupini.  Njihova skupna moč je bila presenetljiva.  Dopoldne so vsi premikali lesene kose, popravljali in znova sestavljali, večer pa se je preoblikoval v zabavno delovanje v skupini.
+
+Tako so Reševalci šole Šum vsak dan delovali – z veliko truda, smeha in veliko ustvarjalnosti.  Premikali so teže, razstavljali in ponovno sestavljali, čistili in polnili.  Petar je skrbno preverjal vsak korak, Tina je bila organizatorka, Anja je vzbudila dobro voljo, Žan je bil mojster v ustvarjanju in Lara je imela nalogo, da zadovolji vse domačine.
+
+Po tednih trdega dela je bil čas, da se znova pogledajo v delo.  Skupina Reševalcev je s ponosom pregledala delo.  Šola je bila kot nova, streha trdno povezana, leseni stropi pa so se tiho zdihali ob vsakem pihu vetra, ne da bi se balo.
+
+Vaščani so bili navdušeni nad skupino otrok, ki so s svojim trudom, srečanjem, ustvarjalnostjo in neustrašnostjo rešili vaško šolo.  Šola je spet začela živeti, smeh učencev se je spet odmeval po starih stenah, znanje pa je spet cvetelo.
+
+In tako je skupina otrok, ki so rešili vaško šolo, postala legenda v vasi Šum.  Njihovo ime je bilo zapisano v srca vseh prebivalcev in v zgodovino vasi.  In vsako leto, ko bi se odprla šolska vrata, bi vsi ugotovili, da je v njenih stenah še vedno občutiti duh te neverjetne skupine Reševalcev.
+</body>

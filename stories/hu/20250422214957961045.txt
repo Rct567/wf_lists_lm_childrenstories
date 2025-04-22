@@ -1,0 +1,43 @@
+<prompt>
+Please write a fun and entertaining Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A kismanók története, akik a varázssapkával a kincset keresték.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>hu</lang_id>
+
+```html
+<title>A kismanók története, akik a varázssapkával a kincset keresték.</title>
+<body>
+Volt egyszer egy kis falucska a Börzsöny lábánál, ahol a legtöbb ház sárga volt, a kapuk pedig zöldek. Itt élt három manó, akik a legjobban a kincskeresést szerették a világon. Ők voltak: Pici, a legbátrabb, Nagymókus, a legokosabb, és Kicsinyke, a legvidámabb. A három manó édesanyja egy varázssapkát örökölt a nagymamájától. A sapka aranyszínű volt, aprócska csillagokkal díszítve, és a nagymama azt mondta, hogy a sapka segítségével megtalálhatják a legnagyobb kincset, amit csak valaha láttak.
+
+Egy napon, mikor a Nap épp aranyló sugarait szórta a falu házaira, Pici előállt egy ötlettel. "Gyerekek, induljunk el! Ma keressük meg a kincset a varázssapkával!" – kiáltotta. Nagymókus egyből helyeselt. "Tudom, hol keresgéljünk! A nagymamám azt mondta, hogy a kincs a Farkas-sziklán van elásva!" Kicsinyke, mint mindig, vidáman tapsikolt. "Juhú! Kaland! Kaland! Vigyük a varázssapkát is!"
+
+Előkészültek. Pici hozott egy kicsi, piros zsákot, amibe uzsonnát tettek: egy tál finom bogyós gyümölcsöt, egy kis szelet házi készítésű kenyeret, és egy üveg mézes teát. Nagymókus a térképüket rendezgette, amit még az édesanyjától kapott: egy roppant bonyolult, színes papírlapot, melyen jelölve volt a Farkas-szikla útja. Kicsinyke pedig a varázssapkát óvatosan tette a kis piros zsákba.
+
+Elindultak. Az út a falu szélén át vezetett, a zöld füves réteken át, melyeken apró mezei virágok pompáztak. A nap ragyogóan sütött, a madarak vidám dalokat énekeltek, és a kismanók jókedvűen követték a térképet. Pici mindig a legelöl haladt, hogy ő vigyázzon a többiekre. Nagymókus, aki sosem unt meg kérdezősködni, folyton tanácsot adott, és a helyes utat kereste. Kicsinyke pedig, a nagy csodáló, folyton vicces történeteket mesélt, amivel mindig mosolyt csalt a másik kettő arcára.
+
+Hamarosan elértek az erdőbe. A fák magasra nőttek, az avar ropogott a lábuk alatt. A térkép mutatta, hogy át kell kelniük egy kis patakon. Nagymókus aggódni kezdett, mert a patak vize kicsit gyorsnak tűnt. "Vajon át tudunk kelni rajta? Talán inkább megkerüljük?" – kérdezte aggódva. Pici azonban bátor volt. "Semmi baj, tesók! Én átmegyek előre, és megnézem, hol a legsekélyebb!" Levett a cipőjét, és óvatosan lépkedett a hideg vízbe. Kicsinyke és Nagymókus követték, a víz bokájukig ért. Szépen átkeltek, és folytatták útjukat.
+
+Az erdőben tovább haladva találkoztak egy hatalmas fával, aminek egy ürege volt. Pici arra gondolt, hogy talán egy medve lakik ott. Nagymókus aggódni kezdett: "Vajon van ott egy medve? Én nem szeretek a medvékkel találkozni!" Kicsinyke viszont egy jót nevetett, és azt mondta: "Ne féljetek, fiúk! Talán csak egy kis mókus lakik ott, aki éppen mogyorót eszik." Vettek egy nagy levegőt, és óvatosan a faüreg felé sétáltak. De amint odaértek, egy cuki, kis nyuszival találkoztak, amint épp répát evett. A nyuszi megijedt, amikor meglátta őket, de Kicsinyke megnyugtatta: "Ne félj, kisnyuszi, mi csak arra járunk, hogy kincset keressünk!" A nyuszi füleit hegyezve hallgatta a kismanókat.
+
+Végül, hosszú menetelés után, elérkeztek a Farkas-sziklához. A szikla hatalmas és szürke volt, a tetejére egy meredek ösvény vezetett fel. Pici, aki a legbátrabb volt, azonnal felkapaszkodott a sziklára. Nagymókus a térképjét szorongatta, hogy megtalálja a kincset. Kicsinyke pedig felkiáltott: "Induljunk! Vagyok türelmetlen, hogy megtaláljuk a kincset!"
+
+A térkép egy pontos helyet mutatott, ahol a kincset elásták. Amikor odaértek, Pici, a legerősebb, elkezdett ásni egy kis fapálcával. Nagymókus térdelt mellette, tanácsokat adott. Kicsinyke pedig vidáman szurkolt nekik: "Csak ásd, Pici! Hamarosan megtaláljuk a kincset!" Egy darabig semmi nem történt, de Pici nem adta fel. Végül, hosszas kaparászás után, valami keménybe ütközött. "Megvan!" – kiáltotta örömmel. Kihúzta a tárgyat a földből: egy apró, fa dobozka volt.
+
+Megnyitották a dobozkát. A dobozban egy darabka papír volt. Pici felolvasta: "A legnagyobb kincs, ami csak létezik, az a barátság." Pici, Nagymókus és Kicsinyke egymásra néztek. Nem találtak aranyat, ékszereket, vagy varázseszközöket. Csak egy darabka papírt kaptak. Kicsinyke hirtelen nevetni kezdett. "Persze! A legjobb kincs a barátság!" – mondta.
+
+Hirtelen Nagymókus is megértette. "Én is így gondolom! Micsoda kaland volt ez! Azt hiszem, több kincset is találtunk!" – mondta mosolyogva. Pici szintén boldog volt. "Igazatok van! Barátok nélkül ez a kaland nem ért volna semmit! Örülök, hogy veletek lehetek!" – mondta, és átölelte a barátait.
+
+Visszasétáltak a faluba, együtt, mint mindig. Az erdő még mindig ugyanúgy festett, mint mikor elindultak, a nap még mindig a megszokott fényét szórta. De ők már nem ugyanazok a manók voltak. Valahogy okosabbak lettek, mint korábban. Míg haladtak a naplemente felé, Kicsinyke vidáman énekelt: "Barátság, barátság, a legnagyobb kincs!"
+
+Amikor hazaértek, Kicsinyke elmondta az édesanyjának a kalandot. Az édesanya megölelte a fiait. "Nagyon büszke vagyok rátok, fiúk. Megtaláltátok a legfontosabb kincset."
+
+Aztán lefeküdtek aludni. Aznap éjjel Pici, Nagymókus és Kicsinyke szívét a legmélyebb béke töltötte el. Ők tudták, hogy van kincsük: a barátság. És ők már tudták, hogy azzal a varázssapkával nem a tárgyakat, hanem a szeretetet lehet megtalálni. A varázssapka aznap még különöskébb ragyogással díszítette a manó szívüket, hiszen ők felfedezték a legfontosabbat. És így kezdődött egy örömteli manóvilág, akik a legnagyobb kincset birtokolják: az örökös, csodálatos barátságukat. S a történetük még sokszor elhangzott az apró kis falucska sárga házaiban, s zöld kapuin át, sok apró gyermek fülébe, mígnem egy legendává vált, miszerint a barátság a legnagyobb kincs.
+</body>
+```

@@ -1,0 +1,31 @@
+<prompt>
+Please write a simple and easy-to-follow Albanian children's story that is at least 1000 words long.
+It must be completely written in proper Albanian (SQ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Misteret e Malit të Harruar të Shqipërisë'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sq</lang_id>
+
+<title>Misteret e Malit të Harruar të Shqipërisë</title>
+<body>
+Një ditë e dielluar verore, tre miq të vegjël,  Ardita,  Lulzim, dhe  Enis, vendosën të shkonin në një shteg të panjohur në malin e harruar.  Mali i Harruar, siç e quanin ata, ishte i mbuluar me pyje të dendura, me shkurre të gjera dhe me shpella misterioze.  Ata e kishin dëgjuar rrëfimin e vjetër, se në thellësitë e malit fshiheshin sekrete të panjohura, përtej imagjinatës së tyre.
+
+Ardita, me sytë e saj të mëdhenj kafe, ishte e pasionuar pas natyrës. Lulzim, me flokët e tij të errët si një natë e paqartë, ishte një zbulues i pasionuar i gjurmëve dhe sekreteve. Enis, i shpejtë dhe i zgjuar, ishte i përkryer për të zgjidhur enigmat.  Ata mbartinë me vete një shishe ujë, një koshere me manaferra të freskët dhe një hartë të vjetër, të vështirë për t'u kuptuar, që i kishte dhënë gjyshi i Lulzimit.
+
+Rruga ishte e vështirë.  Shkurre të gjera pengonin kalimin, ndërsa rrjedha e një lumi të vogël i bënte të vështirë kalimin.  Por, tre miqtë e vegjël vazhduan me vendosmëri.  Ata bisedonin, qeshnin dhe ndanin ëndrrat e tyre.  Ardita, me zërin e saj të bukur, këndonte këngë të vjetra popullore, ndërsa Lulzim vërente gjurmët e kafshëve në tokë. Enis, i angazhuar në zgjidhjen e misterit të hartës, u përpoq të kuptonte simbolizmin e linjave dhe pikave të çuditshme.
+
+Pas një kohe të gjatë, ata arritën në një shpellë të madhe, e mbuluar me shkëmbinj të errët.  Brenda saj, një dritë e ndritshme i këndonte sytë.  Ata hyrën në shpellë, duke u përgatitur për të zbuluar sekretin e saj.
+
+Brenda shpellës, ata zbuluan një dhomë të madhe, të mbuluar me piktura të çuditshme në muret e saj.  Pikturat paraqitnin kafshë të panjohura, bimë të çuditshme dhe simbole të panjohura.  Lulzim, me njohuritë e tij, u përpoq të kuptonte kuptimin e pikturave.  Ai vërente se kafshët e pikturuara ishin të ngjashme me gjitarët e gjurmëve që kishte gjetur më parë, ndërsa bimët ishin të ngjashme me ato të rrjedhave të ujit të afërt.
+
+Enis, duke shqyrtuar me kujdes hartën e vjetër, kuptoi se linjat e saj të çuditshme përputheshin me shtigjet e pikturave.  Harta tregonte një rrugë të fshehur nëpër shpellë.  Ata ndoqën rrugën e hartës dhe arritën në një dhomë më të vogël, ku një arkë e vjetër prej druri i priste sytë.
+
+Arkën e hapnë me kujdes.  Brenda saj, nuk gjetën thesare të çmuara ose ari të shumtë.  Por, gjetën një libër të vjetër, të mbushur me shkrime të panjohura.  Ardita, duke i lexuar me kujdes shkrimet, kuptoi se libri përshkruante historinë e malit.  Ai tregoi për një popull të lashtë që jetonte në mal, që kishin njohuri të mëdha në botë të kafshëve dhe bimëve.  Ata e dinin si të mbronin natyrën dhe e respektonin ekuilibrin e saj.
+
+Tre miqtë e vegjël kuptuan se Mali i Harruar nuk ishte i harruar fare.  Ai ishte një arkiv i njohurive të vjetra, një dëshmi e një pasioni për të ruajtur natyrën.  Ata u kthyen në shtëpi, të mbushur me njohuri dhe një respekt të ri për natyrën dhe historinë e tyre.  Ata e shpërndanë historinë e tyre në fshat, duke i fryrë dashurinë dhe respektin për mjedisin në të gjithë ata që e dëgjuan. Dhe Mali i Harruar, mbeti i mbuluar me misteret e tij, duke vazhduar të ruante sekretet e tij të çmuara.
+</body>

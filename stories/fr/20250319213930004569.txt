@@ -1,0 +1,87 @@
+<prompt>
+Please write a fun and entertaining French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Les Aventures Fantastiques d'Antoine le Fou'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```xml
+<title>Les Aventures Fantastiques d'Antoine le Fou</title>
+<body>
+<p>Dans le village pittoresque de Fleurville, niché au cœur d'une vallée verdoyante, vivait Antoine. Antoine, avec son chapeau ridicule orné de clochettes et son rire joyeux, était connu de tous comme "Antoine le Fou". Mais attention, Antoine n'était pas fou au sens traditionnel du terme. Non, Antoine était fou… de joie, fou d'aventures, et surtout, fou d'imagination !</p>
+
+<p>Chaque matin, au lever du soleil, Antoine se levait avec une énergie débordante. Il sortait de sa petite maisonnette, décorée de peintures vives et d'objets insolites, et saluait le monde d'un grand sourire. Les enfants du village, fascinés par son allure excentrique, l'entouraient aussitôt, impatients d'écouter les histoires merveilleuses qu'il avait à raconter.</p>
+
+<p>Un jour, alors que le soleil brillait haut dans le ciel bleu, Antoine, entouré de ses jeunes auditeurs, leur annonça une nouvelle aventure. "Mes amis, préparez-vous ! Aujourd'hui, nous partons à la recherche du Jardin des Fleurs Enchantées !" Les enfants, les yeux écarquillés d'émerveillement, crièrent à l'unisson : "Oh oui !!"</p>
+
+<p>Le Jardin des Fleurs Enchantées, selon la légende, était un endroit caché, gardé par un dragon amical et peuplé de fleurs qui parlaient et dansaient au rythme de la musique. Pour y accéder, il fallait résoudre une énigme et trouver un chemin secret. Personne n'avait jamais trouvé le jardin, mais Antoine, lui, était sûr de sa capacité à le localiser.</p>
+
+<p>"Notre première étape," expliqua Antoine en tirant une carte froissée de sa poche, "est la Forêt des Chuchotements. Là, nous devrons demander notre chemin aux arbres anciens." Et, sans plus attendre, l'expédition s'ébranla. Antoine, en tête, guidait le groupe, ses clochettes tintent joyeusement à chaque pas. Les enfants, animés par la curiosité et l'excitation, le suivaient à travers les champs de coquelicots et les chemins bordés de roses.</p>
+
+<p>La Forêt des Chuchotements était sombre et mystérieuse. Les arbres, aux branches noueuses et aux feuilles bruissantes, semblaient observer le petit groupe d'intrépides explorateurs. Antoine s'arrêta au pied d'un chêne majestueux, le plus ancien de la forêt, et lui adressa une question solennelle : "Ô grand chêne, connais-tu le chemin du Jardin des Fleurs Enchantées ?"</p>
+
+<p>Après un long silence, un léger bruissement se fit entendre. Les feuilles du chêne s'agitèrent, formant une douce mélodie. "Suivez le ruisseau," murmura le vent, portant le message du chêne. "Il vous mènera au pont de cristal. Sur le pont, vous trouverez une énigme. Répondez-y avec votre cœur et vous saurez où aller."</p>
+
+<p>Enthousiastes, les enfants et Antoine suivirent le ruisseau. L'eau scintillait au soleil, murmurant des secrets aux oreilles attentives. Après une longue marche, ils arrivèrent devant un pont étincelant, fait de cristal pur, qui enjambait une gorge profonde. Au milieu du pont, une plaque de marbre portait l'énigme gravée :</p>
+
+<p>"Je n'ai pas de voix, mais je parle. Je n'ai pas de corps, mais je voyage. Je n'ai pas de pieds, mais je montre le chemin. Qui suis-je ?"</p>
+
+<p>Les enfants se grattaient la tête, perplexe. Antoine, quant à lui, réfléchissait intensément, ses yeux pétillant d'intelligence. Il sourit soudainement et s'écria : "C'est la carte ! La carte qui nous guide !" Il tira la carte froissée de sa poche et la tendit aux enfants. "C'est elle qui nous parle, qui voyage, qui nous montre le chemin !"</p>
+
+<p>Un rayon de lumière illumina le pont de cristal et, au même instant, des fleurs multicolores apparurent autour d'eux. Les enfants éclatèrent de joie. "Nous y sommes presque !" cria Antoine. La carte trembla dans sa main et le pont se transforma en un chemin de fleurs scintillantes, menant à un portail doré.</p>
+
+<p>Au-delà du portail, se trouvait le Jardin des Fleurs Enchantées ! Des fleurs de toutes les couleurs, plus belles les unes que les autres, chantaient et dansaient sur une musique joyeuse. Un dragon vert et amical, avec des yeux d'émeraude et des écailles scintillantes, les accueillit d'un sourire.</p>
+
+<p>"Bienvenue, petits aventuriers !" rugit le dragon avec une voix douce. "Je suis Gustave, le gardien du jardin. Antoine le Fou, je vous attendais."</p>
+
+<p>Antoine sourit. "Bonjour, Gustave ! Nous sommes ravis d'être ici."</p>
+
+<p>Les enfants passèrent une journée inoubliable dans le Jardin des Fleurs Enchantées. Ils jouèrent avec les fleurs qui chantaient des chansons entraînantes, dansèrent avec les roses élégantes et discutèrent avec les tulipes philosophes. Ils goutèrent le nectar sucré des fleurs et se baignèrent dans les fontaines pétillantes.</p>
+
+<p>Au coucher du soleil, il fut temps de rentrer. Gustave le dragon les raccompagna au portail. "N'oubliez jamais la magie de ce jardin," dit-il. "Elle réside dans votre cœur et dans votre imagination."</p>
+
+<p>Antoine, les enfants autour de lui, retourna dans le village de Fleurville, le cœur rempli de joie et d'émerveillement. Ils racontèrent à tous ceux qui voulaient l'entendre leur incroyable aventure. Et à partir de ce jour, Antoine le Fou continua d'inventer des histoires fantastiques, emmenant les enfants du village dans des voyages extraordinaires. Car, après tout, l'aventure est là où l'on choisit de la chercher, et l'imagination, elle, est sans limites.</p>
+
+<p>La semaine suivante, Antoine organisa une nouvelle expédition : la recherche du Trésor du Pirate Barbepoire, connu pour cacher un coffre rempli de bonbons magiques ! Les enfants se réjouirent, savourant déjà le goût sucré des douceurs de la légende.</p>
+
+<p>L'histoire du Pirate Barbepoire racontait que son trésor était gardé par un perroquet parlant, nommé Coco. Le perroquet avait pour mission de poser des devinettes à tous ceux qui voulaient s'emparer du trésor. Seuls ceux qui trouvaient les bonnes réponses pouvaient obtenir les précieuses friandises.</p>
+
+<p>Le point de départ de l'aventure était, comme d'habitude, la maison d'Antoine. Devant la maison, les enfants se rassemblèrent, prêts à relever le défi. Antoine, avec son air malicieux, exhiba une boussole étrange, fabriquée à partir d'une noix de coco et d'une plume de paon.</p>
+
+<p>"Mes amis, cette boussole nous mènera vers l'île au trésor," expliqua-t-il. "Elle pointera toujours vers l'endroit le plus joyeux."</p>
+
+<p>Le groupe commença alors son périple. La boussole les mena à travers des champs verdoyants, des forêts touffues et même sur une rivière, où ils naviguèrent sur un radeau improvisé. L'aventure était pleine d'imprévus et de défis amusants, des énigmes à résoudre, des obstacles à surmonter.</p>
+
+<p>Finalement, après plusieurs jours de voyage, la boussole les guida vers une plage paradisiaque. Au milieu de l'île, se dressait un grand cocotier, et sur une branche, perché, un perroquet multicolore les observait. C'était Coco, le perroquet du Pirate Barbepoire !</p>
+
+<p>"Ah, les nouveaux prétendants au trésor !" croassa Coco. "Pour mériter les bonbons magiques, vous devrez répondre à mes énigmes. Êtes-vous prêts ?"</p>
+
+<p>"Oui !" répondirent les enfants en chœur.</p>
+
+<p>Coco commença ses énigmes : "Je n'ai ni cœur, ni poumons, mais je chante. Qui suis-je ?"</p>
+
+<p>Les enfants réfléchirent un moment. Antoine, après une rapide réflexion, cria : "L'oiseau !"</p>
+
+<p>"Correct !" répondit Coco. "Deuxième énigme : J'ai des yeux, mais je ne vois pas. Qui suis-je ?"</p>
+
+<p>Cette fois, les enfants hésitèrent un peu plus. Puis, une petite fille du groupe s'écria : "La pomme de terre !"</p>
+
+<p>"Bravo !" dit Coco, impressionné par l'ingéniosité des enfants. "Et enfin, la dernière énigme : Je suis toujours devant vous, mais je suis aussi dans votre dos. Qui suis-je ?"</p>
+
+<p>Cette dernière énigme était la plus difficile. Les enfants cherchèrent la réponse pendant un long moment. Antoine observa les enfants, remarquant qu'ils se regardaient les uns les autres. "L'avenir ?" proposa-t-il enfin, pensif.</p>
+
+<p>Coco, un peu surpris, secoua la tête. "Non, mais… l'indice est là," dit-il, en désignant le groupe d'enfants, qui commença à comprendre la subtilité. L'un des enfants cria alors : "Un miroir ! C'est notre reflet ! Nous pouvons voir notre passé comme notre futur!"</p>
+
+<p>Coco éclata de rire et hocha la tête en signe d'approbation. "Excellent !" dit-il. "Vous avez résolu mes énigmes. Vous méritez le trésor !" Il s'envola vers le cocotier, où il laissa tomber une grosse noix de coco dorée. À l'intérieur, les enfants découvrirent une abondance de bonbons multicolores et délicieux, créant un festin de saveurs.</p>
+
+<p>Après avoir partagé les bonbons, les enfants remercièrent Coco et Antoine pour cette aventure mémorable. Ils retournèrent à Fleurville, heureux et émerveillés, avec le souvenir des défis relevés, des amis rencontrés et des énigmes résolues.</p>
+
+<p>Et chaque fois qu'Antoine le Fou prononçait son célèbre : "À demain pour de nouvelles aventures !", les enfants savaient qu'ils partiraient, une nouvelle fois, à la découverte de mondes fabuleux, pleins d'émerveillement et de joie.</p>
+</body>
+```

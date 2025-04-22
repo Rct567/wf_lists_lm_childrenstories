@@ -1,0 +1,38 @@
+<prompt>
+Please write a fun and entertaining Icelandic children's story that is at least 1000 words long.
+It must be completely written in proper Icelandic (IS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Falleg saga um strákinn sem lærði að treysta sjálfum sér'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>is</lang_id>
+
+<title>Falleg saga um strákinn sem lærði að treysta sjálfum sér</title>
+<body>
+Í litlu þorpinu Vik, sem lá í skugga Vestmannaeyja, bjó strákur að nafni Jón. Jón var góður og vinalegur strákur, en hann hafði einn mikinn galla: hann treysti sjálfum sér ekki. Hann var ávallt að þora sig til að prófa nýjar hluti, en þegar kemur að verki, þá gat hann ekki neitt gert.
+
+Einn dag, þegar Jón gekk til skóla, sá hann plakati á veggnum sem boðaði upp á skíðaferð til Vatnajökuls. Allir strákar hans voru á móti því að fara, en Jón var ekki viss. Hann þoraði sig ekki til að fara á ferðina, því að hann var búinn að falla af skíðum sínum einu sinni, og hafði ekki gert það síðan.
+
+Þegar Jón kom heim frá skóla, sagði hann föður sínum frá plakatunum. Faðir hans, sem var góður og ágætur maður, spurði Jón, hví hann vildi ekki fara á ferðina. Jón sagði honum, að hann þoraði sig ekki til að fara, og að hann væri ótryggur á skíðum sínum.
+
+Faðir Jóns sagði honum, að hann ætti að prófa sig, og að hann gæti lært að treysta sjálfum sér. Hann sagði honum einnig, að hann ætti að þora sig til að fara á ferðina, og að hann gæti fengið mikið ánægju af því. Jón hugsadi um þetta, og ákvað að prófa sig.
+
+Næsta dag, þegar Jón gekk til skóla, sagði hann kennara sínum, að hann vildi fara á skíðaferðina. Kennarinn var glaður, og sagði Jón, að hann gæti fengið sérðu til að fara. Jón var ótrúlega glaður, og gekk heim frá skóla með mikilli von.
+
+Þegar dagurinn kom, er ferðin átti að fara, var Jón miklu óttaslegur. Hann þoraði sig ekki til að fara, og vildi helst vera heima. En faðir hans sagði honum, að hann ætti að þora sig, og að hann gæti fengið mikið ánægju af því. Jón ákvað að fara, og gekk á búsinn, sem átti að taka þá til Vatnajökuls.
+
+Ferðin var lang og erfið, en Jón var glaður og þakklátur, þegar þeir komu á áfangastað. Þar sótti hann skíði sína, og ákvað að prófa sig. Hann fór upp á fjall, og byrjaði að skíða. Hann var ávallt að þora sig til að fara hratt, en hann var ótrúlega hræddur.
+
+En síða eftir síðu, byrjaði Jón að treysta sjálfum sér. Hann fór hratt, og ánægðist mjög af því. Hann skíðaði niður fjallið, og komst á botn án þess að falla. Hann var ótrúlega glaður, og þakkaði föður sínum, sem hafði hvatt hann til að fara á ferðina.
+
+Eftir það, var Jón búinn að læra að treysta sjálfum sér. Hann var ekki lengur ótryggur, og gat prófað sig í mörgum hlutum. Hann fór á mörgum ferðum, og ánægðist mjög af því. Hann varð einn af þeim bestu skíðamyndunum í Vik, og varð þekktur fyrir að vera ótrúlega djarfur.
+
+Jón var líka búinn að læra, að það er ekki allt sem er auðvelt, en að það er alltaf möguleiki að læra og að bæta sig. Hann varð einn af þeim bestu nemendum í skólanum, og varð þekktur fyrir að vera ótrúlega áhrifaríkur. Hann varð einn af þeim leiðtogum, sem áttu að leiða Vik í framtíðinni, og varð þekktur fyrir að vera ótrúlega vísbuningur.
+
+Á endanum, var Jón búinn að læra að treysta sjálfum sér, og varð einn af þeim bestu strákum í Vik. Hann var glaður og þakklátur, og ánægðist mjög af lífi sínu. Hann varð einn af þeim þekktustu strákum í Vestmannaeyjum, og varð þekktur fyrir að vera ótrúlega djarfur og áhrifaríkur.
+
+Þannig lýkur sagan um Jón, strákinn sem lærði að treysta sjálfum sér. Hann varð einn af þeim bestu strákum í Vik, og varð þekktur fyrir að vera ótrúlega djarfur og áhrifaríkur. Sagan um Jón er falleg saga, sem segir okkur, að það er ekki allt sem er auðvelt, en að það er alltaf möguleiki að læra og að bæta sig.</body>

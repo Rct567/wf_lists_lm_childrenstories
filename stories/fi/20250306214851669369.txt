@@ -1,0 +1,48 @@
+<prompt>
+Please write a uncomplicated Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Vanha viulu ja sen maagiset sävelet'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>fi</lang_id>
+
+<title>Vanha viulu ja sen maagiset sävelet</title>
+<body>
+Oli kerran pieni kylä, joka sijaitsi kauniissa laaksossa. Kylässä asui paljon lapsia, jotka rakastivat leikkiä ja seikkailla. Heillä oli oma leikkikenttänsä, jossa he voivat juosta, hypellä ja pelata omia pelejään.
+
+Eräänä päivänä, kun lapset olivat leikkimässä, he löysivät vanhan viulun kylän vanhan talon ullakolta. Viulu oli pölyinen ja vanha, mutta siinä oli jotain erikoista. Lapset ottivat viulun ja veivät sen kylän torille, missä he alkoivat tutkia sitä tarkemmin.
+
+Yksi lapsista, tyttö nimeltä Sofia, oli erityisen kiinnostunut viulusta. Hän oli aina rakastanut musiikkia ja oli itsekin opetuslapsi kylän musiikkiopistossa. Sofia otti viulun käteensä ja alkoi soittaa. Aluksi sävelet olivat epäselvät ja epätasaiset, mutta kun Sofia jatkoi soittamista, sävelet alkoivat muuttua.
+
+Ne alkoivat kuulostaa kauniilta ja maagisilta. Lapset, jotka olivat kokoontuneet ympärille, alkoivat tanssia ja laulaa. Heillä oli hauskaa ja he unohtivat kaiken muun. Kylän vanhat ihmiset, jotka olivat istuneet torin penkeillä, alkoivat hymyillä ja taputtaa jalkojaan.
+
+Sofia jatkoi soittamista ja sävelet alkoivat vaikuttaa kylän eläimiin. Linnut alkoivat laulaa, koirat haukkua ja kissat kiljua. Jopa kylän vanha, puinen kirkko alkoi näyttää uusvanhalta ja kauniilta. Kirkon ovet avautuivat ja sisältä kuului kaikua.
+
+Lapset ja vanhat ihmiset menivät kirkkoon ja löysivät sieltä vanhan, kauniin urkurin. Urkuri oli vanha mies, jolla oli pitkä, valkoinen tukka ja silmälasit. Hän tervehti lapsia ja vanhempia ja alkoi soittaa urkuja.
+
+Sofia jatkoi viulunsoittoa ja urkurin sävelet sekoittuivat viulun säveliin. Musiikki alkoi kuulostaa aivan uudelta ja maagiselta. Kylän ihmiset alkoivat tanssia ja laulaa ja eläimet liittyivät mukaan. Kirkko täyttyi musiikilla ja ilolla.
+
+Kun musiikki loppui, kylän ihmiset ja eläimet menivät ulos kirkosta ja istuivat torin penkeille. He olivat onnellisia ja tyytyväisiä. Sofia ja urkuri istuivat keskellä ja heidän välissään oli vanha viulu.
+
+Sofia kertoi, että viulu oli ollut hänen isoäidillään, joka oli ollut kylän paras viulisti. Isoäiti oli soittanut viulua kylän juhlissa ja häissä ja oli saanut kaikki iloisiksi. Sofia sanoi, että hän halusi jatkaa isoäidillään aloittamaa työta ja soittaa viulua kylän iloksi.
+
+Urkuri sanoi, että hän halusi auttaa Sofiaa ja opettaa hänelle uusia säveliä. Hän kertoi, että hänellä oli vanha, salainen kirja, jossa oli kaikki kylän vanhat sävelmät. Urkuri lupasi opettaa Sofialle nämä sävelmät ja auttaa häntä soittamaan niitä viululla.
+
+Sofia ja urkuri alkoivat harjoitella yhdessä ja heidän musiikkia kuultiin kylässä jopa useita kertoja päivässä. Kylän ihmiset ja eläimet rakastivat heidän musiikkia ja heitä alettiin kutsua kylän musiikkiduotiksi.
+
+Kun talvi tuli, kylässä järjestettiin joulumarkkinat. Sofia ja urkuri soittivat viulua ja urkuja ja heidän musiikki täytti koko kylän. Ihmiset ja eläimet tanssivat ja laulavat ja kylä näytti kauniilta ja valoisalta.
+
+Jouluillalla Sofia ja urkuri menivät kirkkoon ja soittivat joulumusiikkia. Heidän musiikkia kuultiin kauas ja se sai kaikki iloisiksi. Kylän ihmiset ja eläimet olivat onnellisia ja he kiittivät Sofiaa ja urkuria heidän kaunista musiikista.
+
+Kun vuosi vaihtui, Sofia ja urkuri jatkoivat soittamista ja heidän musiikki kuultiin kylässä joka päivä. Heidän musiikki sai kaikki iloisiksi ja se auttoi kylän ihmisiä ja eläimiä olemaan yhdessä.
+
+Sofia ja urkuri tulivat kuuluisiksi kylässä ja heitä alettiin kutsua kylän musiikkilegendoiksi. He jatkoivat soittamista ja opettivat uusia säveliä kylän lapsille. Kylässä järjestettiin musiikkikoulu, jossa Sofia ja urkuri opettivat lapsille musiikkia.
+
+Kun Sofia ja urkuri vanhenivat, he luovuttivat viulun ja urut kylän nuorimmalle lapselle. He opettivat lapselle kaikki vanhat sävelmät ja auttoivat häntä soittamaan niitä. Lapsi alkoi soittaa viulua ja urkuja ja kylän ihmiset ja eläimet rakastivat hänen musiikkia.
+
+Niin kylän musiikkiperinne jatkui ja Sofia ja urkurin musiikki kuultiin kylässä aina. Kylässä oli aina iloista ja musiikkia ja kaikki olivat onnellisia. Vanha viulu ja sen maagiset sävelet olivat aloittaneet kaiken ja ne jatkoivat kuulumista kylässä aina.</body>

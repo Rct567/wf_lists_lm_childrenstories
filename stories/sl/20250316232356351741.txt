@@ -1,0 +1,84 @@
+<prompt>
+Please write a silly Slovenian children's story that is at least 1000 words long.
+It must be completely written in proper Slovenian (SL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Pustolovka male lisice, ki se je prvič odpravila na lov na okusne bobne.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>sl</lang_id>
+
+```xml
+<title>Pustolovka male lisice, ki se je prvič odpravila na lov na okusne bobne.</title>
+<body>
+Nekoč, tam daleč v zelenih gozdovih Slovenije, je živela mala lisica po imenu Zvezdica. Zvezdica je bila posebna mala lisica. Ne le, da je imela čudovit, bujen rdeč kožuh, ki se je svetlikal na soncu, ampak je imela tudi neverjetno radovedne oči. Vedno je vpraševala: "Zakaj? In zakaj še?" Njeni starši, mama Lisica in oče Lisjak, sta bila že navajena njenih vprašanj, čeprav sta se včasih le poskušala ne zasmejati.
+
+Zvezdica je imela en velik strah: strah pred lovom. Vsi mladi lisjaki so se morali naučiti loviti. Morali so se naučiti slediti sledi, opazovati gibanje, skakati na pravi trenutek. Toda Zvezdica si je predstavljala lov kot en velik neznanski bum, hrum, ropot – grozen in nevaren!
+
+"Zakaj moramo loviti?" je vprašala nekega jutra, ko je oče Lisjak prebiral novice o tem, kako prihajajo "mrzle črke" na snegu (to so bile najverjetneje besede).
+"Ker moramo jesti," ji je odgovorila mama Lisica, ki je poskušala narediti kolačke z jagodami. “Potrebujemo hrano, da bomo močni, igrivi in da bomo zrasli."
+"Ampak zakaj ne bi jedli jagod?" je spraševala Zvezdica.
+"Oh, draga Zvezdica," je rekel oče Lisjak, ki je med branjem prikimal glavo. "Jagode so okusne, seveda, toda mi smo vsejedi. Moramo jesti tudi meso."
+
+In končno je prišel dan, ko se je Zvezdica morala odpraviti na svoj prvi lov. Srce ji je razbijalo kot boben – in o tem si je mislila – “oh, boben! Bobni so okusni?" Ko je pomislila na bobne, si je zamišljala rdeče, bele in črne bobne, kakršne je videla pri starejšem zajcu, ki je imel nenavadne čopke po imenu Zvitorepec. "Bi ga lahko pojedla?"
+
+Z očetom so se odpravili v gozd. Gozd je bil kot vedno poln različnih zvokov: cvrčanje čričkov, šumenje listja, piskanje ptic. Zvezdica je skrivala svoj strah za košatim repom.
+
+"Pazi, Zvezdica," je šepetal oče. "Poslušaj okoli sebe. Živali ti bodo povedale, kje so. In ne pozabi dihati globoko, da bo tvoj vonj močan."
+
+"Ampak kaj bomo lovili?" je vprašala Zvezdica, ko je skozi grmovje opazila enega debeluškega polža.
+"Danes bomo poskusili najti kakšnega zajca," je rekel oče. "So okusni in hranljivi."
+Zvezdica se je zamislila. Zajci so bili luštni z dolgimi ušesi in skakljajočimi zadnjimi nogami.
+
+Hodila sta, tiho kot miška. Oče Lisjak je sledil različnim sledem, jo opozarjal na različne vonje. Nekajkrat je Zvezdica skočila od strahu, ko je čula kako je v grmu nekaj zašumelo.
+
+Po nekaj urah hoje so prispeli na travnik. Travnik je bil obsijan s soncem, poln različnih cvetlic in naokoli so veselo skakljali metulji. In tam, na robu gozda, je Zvezdica zagledala... velik boben! Ne, čakaj... na vrhu velikega hlod se je postavil... mali zajec, s tistimi dolgimi ušesi in mokrim noskom!
+
+"Pazi!" je oče zašepetal. "Ne premikaj se, Zvezdica. Opazuj in se nauči."
+Zvezdica je prikimala. Srce ji je še vedno razbijalo, a počasi je začela uživati v tej napeti igri. Opazovala je očeta, kako se počasi in previdno prikriva. Vstopil je med travo, se prilega terenu. Zajec se še vedno ni zavedal.
+Potem se je oče Lisjak premaknil. Hitro, tiho, kot senca. Skočil je proti zajcu. Zvezdica je napeto stisnila oči. Zaslišala je rahlo prasketanje in nato – tišino.
+Ko je Zvezdica odprla oči, je videla, da ima oče Lisjak zajca v zobih.
+"Bravo, oče!" je rekel Zvezdica z glasom, ki je izražal vznemirjenost in presenečenje.
+Oče Lisjak ji je pogledal in se nasmehnil. “Zdaj pa bomo jedli.”
+
+Vrnila sta se domov, kjer je mama Lisica že pripravljala večerjo. Tokrat pa ni šlo samo za kolačke z jagodami! Oče Lisjak je skuhal okusno zajčje meso.
+Zvezdica je poskusila. Bilo je… neobičajno, ampak okusno! Bilo je toplo in močno. Potem si je pomislila na okus bobna.
+"Oče, mama," je vprašala med žvečenjem, "kaj pa bobni? Bi jih lahko poskusili ujeti?"
+Oče Lisjak se je zasmejal. "Bobni? Misliš te velike, okrogle stvari, ki jih ima zajec Zvitorepec?"
+"Da!" je rekel Zvezdica. “So videti zelo zanimivo. Pa morda okusno?"
+Mama Lisica je odgovorila: "Ne vem, Zvezdica, kaj praviš."
+Naslednji dan je Zvezdica sama šla na svojo pustolovščino. Z nahrbtnikom jagod in radovednostjo se je odpravila iskat bobne. Hodila je po gozdu, šla po istih poteh kot z očetom. Srečala je veliko živali. Ko so jo slišali, so se malo ustrašile njene ambicije. Nekoč se ji je s konjskega nosu priklonil konj, ki je rekel “vidiš, malo smo mi grdi, malo smešni, ampak nikoli nič dobrega ne slišiš o bobnih!".
+
+Po dolgem času iskanja, je našla Zvitorepca. Sedel je pred svojo hišo. Igral je s svojim najljubšim bobnom, velikim, čudovito okrašenim bobnom.
+"Živjo!" je pozdravila Zvezdica.
+Zvitorepec jo je pogledal s svojimi velikimi, prijaznimi očmi.
+"Živjo, mala lisica," je odgovoril. "Kaj te pripelje do mene?"
+"Zanima me, ali bi lahko poskusila boben," je priznala Zvezdica.
+Zvitorepec je bil presenečen, vendar se je nasmejal. "Boben? Ampak to ni hrana! Je glasbilo. Z njim se dela 'bum bum'!"
+"Ampak meni zgleda okusen."
+Zvitorepec se je glasno zasmejal. Potem je boben postavil na tla. "Pojdi. Probaj."
+Zvezdica se je previdno približala bobnu. Zgledal je res čudovito. Rdeč, okroglasti, z lepo oblikovanim vzorcem. Dregnila ga je s tačko. Zaslišal se je 'bum bum'!
+"Vau!" je zaklicala.
+"Bi ga poskusila pojesti?" je Zvitorepec vprašal.
+"Ja!" je odgovorila. Pomislila je na ta 'bum bum' zvok. Morda je vse res drugače, kot si predstavlja.
+
+Začela je žvečiti boben! Vse je bilo zelo drugače. Boben ni imel okusa po hrani, ampak po – zvoku. Zvezdica je začutila vibracijo v čeljusti, ščegetanje v trebuhu, poskusila je narediti isto kot zajec.
+Po kratki epizodi bobnarskega treninga se je Zvezdica končno sprijaznila s tem, da boben ni hrana. Ni pa mu rekla, da ni všeč. Zelo ji je bil všeč!
+"Pojdi, pojdi po svoje, saj greš lahko kdaj drugič, Zvezdica," je dejal Zvitorepec. "Se mi zdi, da danes nisi najbolj pri volji. Očesu in ušesu. Čeprav vedi, ni nič sramotnega, če se motiš."
+"Zagotovo!" je odvrnila. "Hvala, Zvitorepec! Nasvidenje!"
+Ko se je vračala domov, je srečala svoje starše. Bili so zaskrbljeni.
+"Zvezdica! Kje si bila?" je rekla mama.
+"Lovila sem bobne!" je odgovorila Zvezdica.
+"Bobne?" je vprašal oče.
+Zvezdica jim je povedala o svoji pustolovščini. Povedala je, kako je spoznala Zvitorepca, kako je poskušala "pojesti" boben. Vendar pa bobni niso bili za hrano!
+"Ampak to ni bil lov, draga," je rekla mama Lisica.
+"No, mogoče ne," je prikimala Zvezdica. "Ampak bila je čudovita pustolovščina! Naučila sem se, da niso vsi bobni dobri za hrano, in da obstajajo še druge zabavne stvari v gozdu, kot je zvok."
+Oče in mama sta se spogledala. Nato sta se zasmejala.
+"No, Zvezdica," je rekel oče. "Pomembno je, da si radovedna in da raziskuješ svet."
+"Se strinjam," je rekla mama. "In zdaj pojdite spat. Jutri te čakajo nove pustolovščine."
+Zvezdica je zaspala z nasmehom na obrazu. Vedela je, da čeprav bobni niso bili za jesti, so bili kljub temu okusni – okusni s svojim čudovitim zvokom in novo izkušnjo. Od takrat je Zvezdica še naprej hodila na "lovene" bobnov z Zvitorepcem, pri tem se je še več naučila o življenju v gozdu in o tem, da je življenje – in gozd – poln presenečenj. In kar je najpomembnejše: da je biti radoveden najslajša stvar od vseh. In tako se je mala lisica Zvezdica poskušala posvečati temu čudovitemu konceptu – o tem se je morala učiti na lastni koži, ker drugače si tega res ne moreš zamisliti!
+</body>
+```

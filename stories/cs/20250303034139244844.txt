@@ -1,0 +1,34 @@
+<prompt>
+Please write a creative and original Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Tajemství starého mlýna u řeky Sázavy'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Tajemství starého mlýna u řeky Sázavy</title><body>
+Podél břehů řeky Sázavy, kde se stromy skláněly v úctě k proudící vodě, stál starý mlýn. Nejenom, že byl starý, ale cítil se také opuštěný.  Mlynář a jeho rodina odešli dávno, a mlýnské kameny se už staletími ztichly.  Dřevěné stěny obrůstaly mechem, střecha prosychala starostí a cedule s vybledlým nápisem "Mlýn Uvodce" vítr pomalu odfukoval a rozptyloval po proudu řeky.
+
+Jednoho deštivého podzimního dne se poblíž mlýna objevily tři malé bytosti. Byly to sestry:  Lípa, Jasmína a Jitka, odvážné, ale trochu zmatené čarodějnice. Nebyly klasickými čarodějnicemi s velkými hrnci a nebezpečnými elixíry, ale spíš s hrstkami neposlušných rostlin a s rozházenými kouzelnými zábaly ze zrezivělého papíru.  Každá z nich cítila v srdci drobounkou tísň, a s každým šuměním Sázavy to v nich vířilo a dunělo.  Lípa, nejstarší, se prohloubila do listí a snažila se odhalit mlhavé tajemství. Jasmína s vlasy z barokního perníku prohlížela okrašlovací květiny, jež zbarvily  zemědělskou  zemi do závratných odstínů rudé, a Jitka, ta se s potížemi snažila shromáždit kapky vody na své opálené dlaně – odhadovala a počítala, zdali by z nich dokázala vytvořit vodní zámek.
+
+"Myslíte si," zeptala se Jasmína, její hlas zněl zvonivě jako padající kapky deště, "že ten mlýn ukrývá nějaký kouzlo?"
+
+"Jasně, že ano," odpovídala Jitka. "Vždyť se i dvířka můžu zmrazit!"
+
+Lípa se na ni podívala s obavou a pak se vyprostřila ze zeleného mlýna mlha, šeptala věkem otřesený mlýnský jazyk a ukázala zrezivělý, starý rozbitý papírek na kterém stálo. "Psalo se tu," pronesla ztišujícím hlasem, "že je v něm uloženo tajemství  šťastné jízdy. Ale je nutné ho najít."
+
+Pojaly se odhodlání a vydaly se na cestu plnou překážek. V mlýně se vracející šípek přetrhl,  tvor z kovu a leštěných kámen vyrval špendlíkovou hlavu, a kachličky pod sebou se pohnuly jako žraloci.  Ptačí křesání s tóny větrů vyletovaly a oplétali  chrám a prosvícené mlhy tvořily bludiště.
+
+Zatímco procházeli stísněnými prostorami a plísili mezi hromadami prachu a křepelami a  šrápy po dávných stěhovavých ptácích a vynořovaly se i nové a nové zdi z historie, s nimiž museli hrát hádanku, objevily  starou tabuli, která skrývala zkušené moudrosti a tajemné rčení. Na ní se skrýval jednoduchý odkaz: "Štěstí spočívá v odvaze objevovat tajemství přírody, jež skrývá stará tajemství".
+
+Když ho sestry pročetly, zářil jim radostí pohled. Podívaly se, podívaly a zjistily, že když sester se spojí, mohu vidět to nejlepší, i když to je občas šikanováno. Nahoře v mlýně našly zmenšenou mapu s úseky odkazů s označením očekávaných překážek. Jednalo se o jednoduchý vodopád, který směřuje přes most, dále se nacházel zvednutý klíč, a na samém konci cesty, ležel kámen s nádechem života v podobě zářícího květu.  
+
+Zvítězily nad obtížemi, sbíraly vzácné mince po kůru z rozkládajících se hlohů a nakonec našly poselství v duchu proslulé krásy, které obklopovaly mlýn.  Štědrou odměnou bylo staré loutkové divadlo, v němž si moudře sdílely své objevené poznatky, a odhalily s klidným pocitem spokojenosti a úžasu skrytý význam. 
+
+S pokorou odnesly vzácná poučení s hloubkou a ticho s nimi do nově nalezeného domu. Voda v řekách už s tichými vzkazy plnou nocí  přispěla k radosti sester, ať už v nich hluboko plně hluboká moudrost vyjádřila. Starý mlýn už více nebyl opuštěný.  Stál jako ochránce věků a tajemství přírody. A sestry Lípa, Jasmína a Jitka věděly, že budou dál sdílet tajemství přírody i s těmi, které je najdou na cestě. Všechny tři si šeptly, že cesta plná objevů nikdy nebude končit.
+</body>

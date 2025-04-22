@@ -1,0 +1,57 @@
+<prompt>
+Please write a emotional Spanish children's story that is at least 1000 words long.
+It must be completely written in proper Spanish (ES).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'El Pastel de Chocolate'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>es</lang_id>
+
+```xml
+<title>El Pastel de Chocolate</title>
+<body>
+En un pequeño pueblo enclavado entre montañas verdes y ríos cristalinos, vivía una niña llamada Sofía. Sofía era una niña especial, con ojos del color del cielo de verano y una sonrisa que iluminaba cualquier habitación. Pero últimamente, la alegría que la caracterizaba parecía haberse ido, reemplazada por una tristeza profunda.
+
+Su abuela, Abuela Elena, era su mejor amiga, su confidente y la persona que la hacía reír más fuerte. Abuela Elena horneaba los mejores pasteles del mundo, y el favorito de Sofía era, sin duda, el pastel de chocolate. Un pastel suave, húmedo, con un glaseado cremoso y rico que, solo con olerlo, transportaba a Sofía a un mundo de felicidad.
+
+Pero un día, Abuela Elena enfermó. Una tos persistente y una debilidad generalizada la obligaron a quedarse en cama. Las risas en la casa se apagaron, reemplazadas por el sonido del suspiro de Sofía y el silencio preocupante. Los padres de Sofía, con el corazón apesadumbrado, intentaron mantener una actitud positiva, pero la tristeza era palpable en el aire.
+
+Sofía pasaba horas sentada al lado de la cama de su abuela, tomándole la mano y contándole historias, cantándole canciones, esperando una señal de mejoría. La piel de Abuela Elena estaba fría, y sus ojos, antes brillantes, se habían nublado. Ya no podía hornear, ya no podía reír, ya no podía, al parecer, hacer nada que la hacía feliz.
+
+Un día, mientras acariciaba la mano de Abuela Elena, Sofía notó algo. Debajo de la almohada, entre sábanas y cojines, se asomaba una pequeña caja. Era una caja de madera oscura, delicadamente tallada, que Sofía nunca había visto antes. Con cuidado, la sacó.
+
+“¿Qué es eso, mi amor?”, susurró Abuela Elena, su voz débil y temblorosa.
+
+“No lo sé, Abuela. ¿Puedo abrirla?”, preguntó Sofía, con los ojos llenos de curiosidad.
+
+Abuela Elena asintió, sonriendo ligeramente. La sonrisa le costaba, pero hizo el esfuerzo.
+
+Con manos temblorosas, Sofía abrió la caja. En su interior, encontró un pequeño libro de recetas, un delantal con manchas de harina y un cuchillo especial para cortar pasteles. También encontró una carta, doblada y amarrada con un lazo de seda.
+
+"Para mi querida Sofía," decía la carta con la letra elegante y fluida de Abuela Elena. "Este pequeño tesoro contiene todos mis secretos, mis trucos, mis sueños… y, sobre todo, mi amor. Dentro encontrarás la receta del pastel de chocolate perfecto, el que tanto te gusta. Ahora te toca a ti, mi sol, seguir con la tradición. Cocina, experimenta, sonríe. Y recuerda que el amor, como un buen pastel de chocolate, siempre debe ser compartido."
+
+Sofía leyó la carta una y otra vez, sintiendo una mezcla de alegría y tristeza. Alegría porque tenía la oportunidad de honrar a su abuela, tristeza porque la situación era difícil y le dolía mucho el estado de su amada abuela.
+
+Después de secarse las lágrimas, Sofía decidió tomar cartas en el asunto. Esa misma tarde, con la ayuda de su madre, sacó los ingredientes y comenzó a hornear. Era un desafío, la receta era larga y complicada, pero Sofía estaba decidida. Leyó cada palabra de la receta, midiendo con cuidado cada ingrediente, recordando las veces que había visto a Abuela Elena en acción.
+
+El aroma del chocolate llenó la casa, un olor familiar y reconfortante. Sofía untaba el glaseado, con las manos manchadas de crema y chocolate, pensando en su abuela. Imaginaba su sonrisa, escuchaba sus risas y se sentía menos sola. Cada ingrediente era un recuerdo, cada movimiento, una caricia.
+
+Cuando el pastel estuvo listo, era… diferente. No era perfecto, el glaseado no estaba tan liso, pero el aroma era inconfundible. Con la ayuda de su padre, que estaba más torpe con el tema de la cocina, decoraron el pastel con virutas de chocolate y fresas frescas, como solía hacerlo Abuela Elena.
+
+Llevaron el pastel a la habitación de Abuela Elena. Con cuidado, le ofrecieron una porción. La abuela, con los ojos húmedos, mordió un trozo. Una sonrisa genuina se extendió por su rostro.
+
+“¡Está delicioso, mi amor!”, exclamó, su voz recuperando un poco de fuerza. “Como los que yo hacía… ¡casi!”
+
+Sofía sintió un nudo en la garganta, pero la alegría la desbordaba. Había hecho el pastel, había honrado a su abuela, había mantenido viva la tradición. Y en ese momento, mientras comían pastel juntos, sintió que la tristeza se aligeraba.
+
+Los días siguientes fueron de altibajos. Abuela Elena se recuperaba lentamente, día a día, semana tras semana, y cada pequeño avance era motivo de celebración. Sofía horneaba pasteles, no siempre de chocolate, sino de diferentes sabores, cada uno lleno de amor. Cada pastel era una ofrenda, un regalo para su abuela, una manera de agradecerle por todo lo que le había enseñado, no solo sobre cocina, sino sobre la vida, sobre el amor y sobre la importancia de los recuerdos.
+
+Abuela Elena se recuperó completamente, para el júbilo de toda la familia. Volvió a reír, a contar cuentos, a dar consejos. Volvió a hornear, aunque esta vez compartía el protagonismo con Sofía. La cocina volvió a ser el centro de la casa, llena de risas, olores y el dulce aroma del pastel de chocolate, que ahora tenía un significado aún más especial.
+
+Sofía aprendió que la tristeza, aunque dolorosa, puede transformarse en algo hermoso. Aprendió que el amor, como un buen pastel, puede ser compartido y disfrutado, incluso en los momentos más difíciles. Aprendió que la memoria y el legado de sus seres queridos, especialmente el amor de su abuela, permanecen para siempre, en cada receta, en cada pastel y en cada dulce sonrisa. Y desde ese día, cada vez que horneaba el pastel de chocolate, Sofía recordaba que el amor verdadero nunca se desvanece, sino que endulza cada instante de la vida.
+</body>
+```

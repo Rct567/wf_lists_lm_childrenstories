@@ -1,0 +1,93 @@
+<prompt>
+Please write a dialog-based Italian children's story that is at least 1000 words long.
+It must be completely written in proper Italian (IT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La tartaruga Teresa e la gara di corsa più lenta del mondo intero.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>it</lang_id>
+
+```xml
+<title>La tartaruga Teresa e la gara di corsa più lenta del mondo intero.</title>
+<body>
+— Uffa, che noia! — esclamò Teresa, la tartaruga, sbuffando.
+
+Era seduta sotto il grande albero di fico nel prato verde, osservando gli altri animali che sfrecciavano avanti e indietro. Conigli che saltavano, scoiattoli che si arrampicavano velocissimi, persino i pigri orsi si muovevano più in fretta di lei.
+
+— Che c'è, Teresa? Sei di cattivo umore? — chiese Guido, il suo amico chiocciola, avvicinandosi lentamente.
+
+— Ciao, Guido. Sì, sono un po' giù. Mi sento sempre… così lenta! Tutti corrono, e io… beh, io mi muovo a passo di lumaca!
+
+Guido sorrise, mostrando i suoi occhioni lucidi. — Ma Teresa, essere lenti non è un difetto! Ognuno ha il suo ritmo. E poi, la lentezza ha i suoi vantaggi!
+
+— Vantaggi? Quali? Non vedo nessun vantaggio nell'essere sempre l'ultima a tutto! — rispose Teresa, con un filo di amarezza nella voce.
+
+Guido si sedette accanto a Teresa, prendendosi tutto il tempo necessario. — Beh, per esempio, puoi vedere i dettagli che gli altri non notano. Guardi bene ogni fiore, ogni piccolo insetto. Vivi il presente, senza fretta.
+
+Teresa ci pensò su. Non ci aveva mai riflettuto in quel modo. — Forse hai ragione, Guido… ma vorrei comunque fare qualcosa di… entusiasmante! Qualcosa di veloce, magari!
+
+Guido ebbe un'idea. — Senti, perché non organizziamo una gara?
+
+— Una gara?! — esclamò Teresa, stupita. — Io? Una gara? Non so…
+
+— Sì, ma una gara speciale! La gara di corsa più lenta del mondo intero! — dichiarò Guido, con un sorriso radioso.
+
+Teresa spalancò gli occhi. — La gara… più lenta? Ma… è fantastico!
+
+— Esatto! E so già a chi possiamo chiedere aiuto per organizzarla. Andiamo! — Guido, più veloce del solito per l'entusiasmo, cominciò a muoversi verso il centro del prato.
+
+Così, i due amici andarono a cercare la signora Gufo, che viveva in cima al fico, e le raccontarono l'idea della gara. La signora Gufo, saggia e paziente, adorò l'idea e si offrì di essere la giudice.
+
+— Sarà divertente, ragazzi! — disse la signora Gufo, mentre prendeva appunti su un pezzo di corteccia. — Ma dobbiamo stabilire delle regole chiare!
+
+Insieme, organizzarono tutto. La linea di partenza e di arrivo furono segnate con dei sassi colorati. L'importante era arrivare *ultimi*. Chi fosse arrivato per primo, sarebbe stato squalificato.
+
+L'annuncio della gara si sparse rapidamente tra gli animali del prato. Molti si iscrissero, curiosi di vedere come si sarebbe svolta. C'erano il Signor Orso, con la sua andatura sonnolenta, il pigro Procione, sempre incline al riposo, e naturalmente, Guido, la chiocciola.
+
+Il giorno della gara, il prato era pieno di eccitazione. Gli animali erano in fila, pronti a partire. Teresa, un po' nervosa, cercava di mantenere la calma.
+
+— Pronti… ai vostri posti… — disse la signora Gufo con voce solenne. — Via!
+
+Il segnale diede il via a un’incredibile parata di lentezza. Il Signor Orso si mosse lentamente, poi si fermò per sbadigliare e riprendere fiato. Il Procione, dopo pochi passi, si accovacciò per un breve riposo. Guido, con tutta la sua pazienza, si trascinò lentamente, mentre Teresa, cercando di non accelerare, si mosse a passo di lumaca, concentrata nel fare un solo passo lento.
+
+La gara durò ore. Il sole alto nel cielo guardava incuriosito. Gli spettatori si divertivano un mondo, incitando i concorrenti.
+
+— Forza, Signor Orso! Ce la può fare! — urlò un coniglietto.
+
+— Procione, riposati bene! Hai tutto il tempo! — disse un altro spettatore.
+
+Teresa, concentratissima, era quasi arrivata alla fine del percorso. Vide il traguardo, quel mucchietto di sassi colorati, e sentì il cuore battere forte. Stava per vincere la gara… ma voleva arrivare *ultima*.
+
+Improvvisamente, si accorse che il Signor Orso era proprio dietro di lei. L'orso, dopo la sua lunga sosta, si era rimesso in moto e stava per tagliare il traguardo per primo.
+
+— Oh no! — sussurrò Teresa.
+
+Con un ultimo sforzo, impercettibile, Teresa rallentò ancora un po'. Il Signor Orso, ignaro, raggiunse i sassi colorati e…
+
+— Squalificato! — gridò la signora Gufo. — È arrivato per primo!
+
+Gli spettatori risero e applaudirono. Era un momento divertente!
+
+Guido, arrivato secondo, si congratulò con Teresa. Poi la signora Gufo si avvicinò alla tartaruga.
+
+— Complimenti, Teresa! Hai vinto la gara! Sei stata la più… paziente, direi!
+
+Teresa sorrise, felice. Aveva dimostrato che essere lenti non era un difetto, ma una qualità. E in quel giorno speciale, la sua lentezza le aveva regalato la vittoria.
+
+— Grazie, signora Gufo! È stata la giornata più divertente della mia vita! — esclamò Teresa, emozionata.
+
+— E ora, ragazzi, è tempo di festeggiare! — dichiarò la signora Gufo.
+
+Così, organizzarono una grande festa nel prato, con frutta fresca, foglie croccanti e tanti abbracci. Teresa, circondata dai suoi amici, capì che non importava quanto fosse lenta, l'importante era godersi il viaggio e trovare la felicità nelle piccole cose. E capì, soprattutto, che l'amicizia era il motore più forte per ogni avventura, lenta o veloce che fosse.
+
+La signora Gufo osservava la scena, sorridendo sotto le sue ali. Sapeva che quel giorno nel prato, la tartaruga Teresa aveva insegnato a tutti una lezione importante: la bellezza della lentezza e il valore dell'amicizia.
+
+E da quel giorno, il prato verde divenne famoso per la gara di corsa più lenta del mondo intero, una celebrazione della lentezza e dell'importanza di non avere fretta.
+Teresa, con la sua proverbiale lentezza, diventò una vera e propria star del prato, un esempio di come vivere la vita, un passo alla volta. E ogni anno, la gara di corsa più lenta del mondo intero si svolgeva con entusiasmo e allegria, un inno alla lentezza, all'amicizia e alla gioia di vivere, sotto il sole splendente del prato verde. E tutti, animali grandi e piccoli, lenti e veloci, aspettavano con trepidazione quel giorno, pronti a divertirsi e a imparare.
+FINE.
+</body>
+```

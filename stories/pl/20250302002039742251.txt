@@ -1,0 +1,37 @@
+<prompt>
+Please write a simple and easy-to-follow Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Tajemnicze przygody detektywa w małym mieście'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>pl</lang_id>
+
+<title>Tajemnicze przygody detektywa w małym mieście</title>
+<body>
+W małym, urokliwym miasteczku, gdzie słońce grało w kolorowe mozaiki na dachach starych domów, mieszkał detektyw Mikołaj.  Nie był to detektyw z wielkiego miasta, z pełnymi teczkami i przepychem.  Mikołaj był detektywem z sercem pełnym dobroci i z głową pełną pomysłowości. Miał niezwykłe oczy, które widziały więcej niż tylko to, co leżało na powierzchni.  Miał również wiernego psa,  Bartosza, który potrafił wyczuć ukryte tajemnice tak samo dobrze, jak jego pan.
+
+Pewnego słonecznego poranka, miasteczko obudziło się z trwogą.  Zniknęła Pani Kasia, właścicielka słynnego sklepu z ciastkami.  Wszystkie pieczenie, cukiernictwo i zapach karmelu - zniknęły, jakby je porwała sama syrena.  Wszyscy mieszkańcy: starsi panowie, młode mamy z wózkami, dzieciaki, wpatrzone były w pustą przestrzeń sklepu. Na froncie, gdzie wisiała tablica ze słodkim napisem „Piekarnia Pani Kasi”, widniał tylko niezrozumiały chaos – brak ciast, poskładane torby i wcale nie radosne westchnięcia.
+
+Długie ogony klientów, którzy ciągnęli się z nadzieją po pyszne babeczki, teraz stały się źródłem niepewności i rozpaczy.  Miasteczko zamarło, zastygłe w oczekiwaniu. Pani Basia, sprzedawczyni warzyw na rogu, szepnęła: "Znalazła może nowe inspiracje w lesie?"  Pan Kowalski, kowalski-rzeźbiarz, opowiedział o dziwnym chmurzastej sytuacji i powiedział, że nie widział Pani Kasi już od kilku godzin.  Bartosz, czując niezwykłe napięcie, węszył nerwowo, wpatrując się we wszystkie zakamarki sklepu.
+
+Mikołaj, z aparatem fotograficznym zawieszonym na szyi i notatnikiem w ręku, rozpoczął swoje dochodzenie. Szybko zorientował się, że Pani Kasia nie tylko piekła wyśmienite ciastka, ale również była świetną ogrodniczką. Jej ogród za sklepem był prawdziwym cudem, a każda roślina zdawała się mieć swoją własną historię.  Postanowił odwiedzić ogród, sprawdzając, czy jest w nim jakiś ukryty trop.
+
+Gdy Mikołaj wkroczył do ogrodu, Bartosz energicznie powęszył i skorygował go w kierunku tajemniczego, dziwnie zielonego, krzewu.  Detektyw podczołgał się i zajrzał pod liściaste zarośla. Zobaczył mały, zapieczętowany skrzyniowy słoik z napisem “Klucz do sekretu”. Na etykiecie słoiczka umieszczono również mapkę z wieloma krzaczkami i oznaczeniami, na których umieszczono ważne ślady - dziwne znaki w kształcie pszczół. 
+
+Mikołaj był przekonany, że słoik ukrywa rozwiązanie zagadki. Detektyw skrupulatnie wyjęte klucze do słoiczka używał do otwarcia zamkniętego obiektu. I znalazł w nim nie zwyczajną zawartość, lecz list napisany małym, ozdobnym pismem.
+
+"Drogi detektywie Mikołaju," czytał z uwagą.  "Szukałam inspiracji na nową linię wypieków w tajemniczych lasach.  Nadeszła jesień, i natura przygotowuje się na zimę. Idź pod most, znajdź złotą brzoskwinię i w nią włóż ten listek ze skrzypu."
+
+Mikołaj zadrżał.  Złota brzoskwinia?  Listki ze skrzypu?  To było bardziej dziwne niż poprzednio myślał!  Z Bartoszem w pościgowej gotowości, wyruszył na poszukiwania.
+
+Przechodząc przez wąskie uliczki miasta, dostrzegli kamienny most, tuż za sklepem.  Przyjrzeli się bliżej, a oto ona - złote owady krzepłe na łodydze, jak perełki, na każdym liściu widniało małe słoiczka z pyłkami pszczelimi. Detektyw Mikołaj był zszokowany - oto złote brzoskwinie. W ich środku odkryli coś niezwykłego, a na każdym liściu - poznaczone było zdanie; „Świąteczne przywitanie”! Wyjęli zeń zielonkawy listek ze skrzypu.
+
+Z wielkim zadowoleniem położył listek na brzoskwini. W tym samym momencie słyszał głos. "Dobrze zrobiony Mikołaju!"  Usłyszano przywitanie ze śpiewem Pani Kasi i zobaczono za sklepem nowy ogród pełen pięknych owoców.
+
+Od tej pory, detektyw Mikołaj, pełen zmysłu rozwiązywania zagadek, był dumny z możliwości poznania tajemnic i pomagał mieszkańcom w rozwiązaniu nieoczekiwanych kłopotów, okazując swoje ciepło i wielkie umiejętności, a wszystko to w przyjaznej atmosferze z wierną towarzyszką Bartoszem!
+</body>

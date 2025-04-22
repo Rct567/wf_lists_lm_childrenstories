@@ -1,0 +1,94 @@
+<prompt>
+Please write a fun and entertaining Somali children's story that is at least 1000 words long.
+It must be completely written in proper Somali (SO).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>so</lang_id>
+
+<title>Sheekooyinka Geela iyo Digaagga</title>
+<body>
+Maalin maalmaha ka mid ah, waxaa jiray geel aad u weyn oo la odhan jiray Raage. Raage wuxuu ahaa geel aad u dherer badan, oo leh qoorta dheer, oo indhihiisa waaweyn ay u ekaayeen laba dhagax oo madow ah. Wuxuu ku noolaa meel aad u ballaaran oo cagaar ah, oo ay ka buuxaan geedo waaweyn iyo ubaxyo midabyo badan leh. Raage wuxuu ahaa geel aad u saaxiibtinimo badan, wuxuuna jeclaa inuu la sheekeysto xayawaanada kale ee ku noolaa meeshaas.
+
+Maalin maalmaha ka mid ah, markii Raage uu socday, wuxuu arkay digaag yar oo la odhan jiray Dayax. Dayax wuxuu ahaa digaag aad u qurux badan, oo leh baalal midabkiisu yahay jaalle iyo cagaar, oo indhihiisa yaryar ay u ekaayeen laba digir oo madow ah. Dayax wuxuu ahaa digaag aad u firfircoon, wuxuuna jeclaa inuu ku ordo oo uu ciyaaro beerta dhexdeeda.
+
+Raage wuxuu u dhawaaday Dayax, wuxuuna yiri: "Salaan, Dayax! Sidee tahay?"
+
+Dayax wuxuu ku jawaabay: "Waayahay, Raage! Adiguna sidee tahay?"
+
+"Waan fiicanahay," ayuu yiri Raage. "Maxaad samaynaysaa?"
+
+"Waxaan ciyaarayaa," ayuu yiri Dayax. "Ma rabtaa inaad ila ciyaarto?"
+
+Raage wuxuu ku qoslay: "Haa, dabcan! Laakiin sidee ayaan ku ciyaari karnaa?"
+
+Dayax wuxuu yiri: "Waan wada ordaynaa! Kumaa ugu dhaqso badan, ayaa guuleysanaya!"
+
+Raage wuxuu madaxa ruxay: "Taasi ma shaqeyn doonto, Dayax. Waxaan aad u weynahay, oo adigu aad u yar tahay. Waxaad noqon doontaa mid aad u dhaqso badan!"
+
+Dayax wuxuu ku qoslay: "Taasi ma ahan dhib, Raage! Waxaan isku dayi karnaa wax kale. Sidee tahay inaan ciyaarno qarinta?"
+
+Raage wuxuu yiri: "Taasi waa fikrad fiican! Laakiin sidee ayaan u ciyaari karnaa qarinta? Waxaan aad u weynahay, oo adigu aad u yar tahay. Waxaad si fudud u qarin kartaa!"
+
+Dayax wuxuu yiri: "Waan isku dayi karnaa! Waxaan qarin doonaa, adiguna waad i raadin doontaa. Haddii aadan i helin, waxaan guuleysan doonaa!"
+
+Raage wuxuu ogolaaday, oo waxay bilaabeen inay ciyaaraan qarinta. Dayax wuxuu si dhaqso ah u orday oo wuxuu galay geed weyn oo hoostiisa. Raage wuxuu isku dayay inuu arko halka uu Dayax aaday, laakiin wuu waayay.
+
+Raage wuxuu bilaabay inuu raadiyo Dayax. Wuxuu eegay geedaha hoostooda, wuxuu eegay ubaxyada dhexdeeda, wuxuu eegay dhagaxyada dhexdeeda. Laakiin ma uusan helin Dayax.
+
+Raage wuxuu isku dhiibay. Wuxuu yiri: "Dayax, meeshaad joogtaa!"
+
+Dayax wuxuu ka soo booday geedka hoostiisa, wuxuuna ku qoslay: "Waxaad ku guuldareysatay inaad i hesho, Raage! Waan ku guuleystay!"
+
+Raage wuxuu ku qoslay: "Haa, waad ku guuleysatay! Waxaad tahay digaag aad u fiican."
+
+Dayax wuxuu yiri: "Waxaan leeyahay fikrad kale! Sidee tahay inaan ciyaarno ciyaar kale?"
+
+Raage wuxuu yiri: "Waan ciyaari karnaa ciyaar kale! Maxaad rabtaa inaan ciyaarno?"
+
+Dayax wuxuu yiri: "Aan ciyaarno dabaasha!"
+
+Raage wuxuu yiri: "Waxaan aad u weynahay inaan dabaasho, Dayax!"
+
+Dayax wuxuu yiri: "Waxaan isku dayi karnaa! Waxaan dabaalan doonaa biyaha, adiguna waxaad ku socon doontaa dhulka. Kumaa ugu dhaqso badan, ayaa guuleysanaya!"
+
+Raage wuxuu ogolaaday, oo waxay bilaabeen inay ciyaaraan dabaasha. Dayax wuxuu si dhaqso ah u dabaashay biyaha, halka Raage uu si tartiib ah u socday dhulka.
+
+Ugu dambeyntii, Dayax wuxuu gaaray dhinaca kale ee biyaha. Wuxuu ku qoslay Raage, wuxuuna yiri: "Waxaad ku guuldareysatay inaad i hesho, Raage!"
+
+Raage wuxuu ku qoslay: "Haa, waad ku guuleysatay! Waxaad tahay digaag aad u fiican."
+
+Dayax wuxuu yiri: "Waxaan leeyahay fikrad kale! Sidee tahay inaan ciyaarno ciyaar kale?"
+
+Raage wuxuu yiri: "Waan ciyaari karnaa ciyaar kale! Maxaad rabtaa inaan ciyaarno?"
+
+Dayax wuxuu yiri: "Aan ciyaarno dhagax tuur!"
+
+Raage wuxuu yiri: "Taasi waa fikrad fiican! Laakiin sidee ayaan u ciyaari karnaa dhagax tuur? Waxaan aad u weynahay, oo adigu aad u yar tahay. Waxaad si fudud u tuuri kartaa dhagaxa!"
+
+Dayax wuxuu yiri: "Waxaan isku dayi karnaa! Waxaan tuuri doonaa dhagaxa, adiguna waad isku dayi doontaa inaad qabato. Haddii aad qabato, waad guuleysan doontaa!"
+
+Raage wuxuu ogolaaday, oo waxay bilaabeen inay ciyaaraan dhagax tuur. Dayax wuxuu si adag u tuuray dhagaxa, Raage wuxuu isku dayay inuu qabto.
+
+Dhagaxii wuu dul maray, oo Raage wuu qabtay. Wuxuu ku qoslay Dayax, wuxuuna yiri: "Waan qabtay! Waan ku guuleystay!"
+
+Dayax wuxuu ku qoslay: "Haa, waad ku guuleysatay! Waxaad tahay geel aad u fiican."
+
+Waxay ciyaareen ciyaaro badan oo kale maalintaas, oo waxay ku raaxeysteen waqtigooda. Waxay ogaadeen in xitaa haddii ay aad u kala duwan yihiin, ay weli noqon karaan saaxiibo wanaagsan.
+
+Markii qorraxdu dhacday, Raage wuxuu yiri: "Dayax, waa waqtigii aan guriga aado."
+
+Dayax wuxuu yiri: "Haa, waa waqtigii aan guriga aado. Laakiin maanta waan ku raaxeystay! Waan ku arki doonaa berri?"
+
+Raage wuxuu yiri: "Haa, dabcan! Waan ku arki doonaa berri."
+
+Raage iyo Dayax waxay iska tageen, oo waxay ku soo noqdeen guryahooda. Laakiin waxay ogaayeen in ay hadda yihiin saaxiibo wanaagsan, oo ay had iyo jeer ku raaxeysan doonaan waqtigooda wada jira.
+
+Maalinta xigtay, Raage iyo Dayax waxay mar kale kulmeen. Waxay ciyaareen ciyaaro badan, wayna qosleen. Waxay ogaadeen in saaxiibtinimadu ay tahay wax aad u qaalisan.
+
+Waxay ku noolaayeen farxad iyo isku xirnaan, waxayna ahaayeen saaxiibo weligood ah. Sheekada Raage iyo Dayax waxay noqotay mid aad looga yaqaan beerta, waxaana loo sheegay carruurta oo dhan. Waxay ahayd sheeko ku saabsan saaxiibtinimada, ciyaarta, iyo farxadda.
+</body>

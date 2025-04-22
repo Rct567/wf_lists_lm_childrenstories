@@ -1,0 +1,33 @@
+<prompt>
+Please write a silly Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Az Újhold titkos története'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>Az Újhold titkos története</title>
+<body>
+A hold, a fényes, ezüstös korong, mindig figyelte a földet.  Nem csak a virágokat, a folyókat és a házakat, hanem a kis, vidám falut is, amelynek neve Kecskésfalva volt. Kecskésfalva lakosai, a kecskésfalviak, híresek voltak a különlegesen hangos kacagásukról.  Minden reggel, amikor a nap felkelt, a falu hangosabban kacagott, mint a hegyek visszhangja.
+
+Egyik reggel, amikor a hold még csak félkörnyi volt, a kecskésfalviak különösen vidám hangulatban voltak.  A faluban lakott egy kislány, Piroska, akinek piros haja volt, mint a bogyó, és szemei, mint a tiszta égbolt.  Piroska mindig figyelt a környezetére, és a hold titkos történeteit kereste.  Elhatározta, hogy felfedezi az újhold titkát.
+
+Elindult a falu szélén lévő, titokzatos erdőbe.  Az erdőben rengeteg különös állat lakott. Volt egy hangos kakas, aki éjjel is kukorékolt, egy macska, aki mindig a Holdat nézte és nyávogott.  Volt egy róka is, aki mindig meséket osztott, de azok sosem értettek a lényegre.
+
+Piroska elindult, a hold pedig egyre jobban lehajolt, hogy figyelemben tartsa a kislányt.  Az erdő mélyén egy furcsa, csillogó tóra bukkant.  A tó körül különleges virágok nyíltak, amelyek ragyogtak, mint a gyémántok.  A tóból egy csodálatos hang hallatszott.  „Ki vagy te, kislány?” kérdezte a hang.
+
+Piroska meglepetten hátrahőkölt. Egy nagydarab, aranyló, csillogó teknős úszott ki a tóból.  A teknős a feje fölé emelt egy kis, ezüstös tálkát.  "Én vagyok a Hold titkának őrzője," mondta a teknős.  "Én gyűjtöm össze a földi kacagásokat és a jókedvet, és teszem el az újholdba, hogy az éj folyamán fényesítse a világot.  A kacagás a titok kulcsa!"
+
+Piroska megértette.  A kecskésfalviak kacagása nem csak hangos volt, de tele volt szeretettel és boldogsággal.  Aztán elmesélte neki a kecskésfalviak történetét. Hogy minden reggel a felkelő napra hangosan kacagnak, mert élvezik az életet és a barátaikat.
+
+A teknős mosolygott.  "A kacagás a Hold legnagyobb ajándéka," mondta. "A boldogság fényét viszi az éjszakába, és mindenkit boldoggá tesz."
+
+Piroska megértette.  A hangos kacagás nem csak egyféle öröm, hanem egy ajándék.  Visszament Kecskésfalvába, és elmondta minden kecskésfalvinak a titokzatos teknős történetét.  A falu lakói még hangosabban kacagtak.  Tudták, hogy a kacagásuk a hold fényének legfontosabb eleme.
+
+Attól kezdve Kecskésfalva még vidámabb volt.  A kacagásuk olyan hangos volt, hogy az egész világ meghallhatta, és a hold fényesebbé vált minden éjszaka.  Piroska pedig, a piros hajú kislány, mindig figyelte a holdat, és tudta, hogy a titokzatos erdő mélyén, egy ragyogó tó partján egy aranyló teknős őrzi a világ kacagásának és boldogságának titkát.  És a hold, a fényes, ezüstös korong, mindig örömmel figyelte Kecskésfalva, és a világ összes vidám lakóját.
+</body>

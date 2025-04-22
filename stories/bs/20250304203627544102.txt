@@ -1,0 +1,35 @@
+<prompt>
+Please write a silly Bosnian children's story that is at least 1000 words long.
+It must be completely written in proper Bosnian (BS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Neobična družina lutaka iz sarajevskog pozorišta'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>bs</lang_id>
+
+<title>Neobična družina lutaka iz sarajevskog pozorišta</title>
+<body>
+Jednom davno, u srcu Sarajeva, u starom, starom pozorištu, živjela je neobična družina lutaka.  Nisu bile kao druge lutke.  One su imale srca od šećera, ruke od mašinskog ulja, a noge od najfinijih svilenih niti.  To znači da su bile izuzetno glupe i sporadične, ali i veoma mekane i lagane.
+
+Najstarija lutka, gospodin  Petar, bio je drveni konj.  Imao je prekrasan crveni kaput i stalno se žalio da je muška.   Često je sanjao da leti, iako bi mu se noge uvijek zapetljaljale.
+
+Zatim je došla gospođica Ana, lutka od gline.  Bila je  užasno ljubomorna, jer je bila jako mršava i ni jedna od drugih lutaka je nije htjela smijati u  dvorcu.  Njena mala glavica je stalno kretala, poput  jedne vesele  vjeverice.  No, čim bi se neko nasmijao, Ana bi se stidljivo sklonila u mračni kutak.
+
+Na kraju, imao se i  mali Zoran, lutka od drveta. Zoran je bio najveseliji u grupi. Imao je jednu jedinu haljinu u kojoj se nije lijepo osjećao i sviđala mu se haljina od šećera i svi su ga  zadirkivali sa time.  On se  najviše družio sa gospodinom Petar i mislio je da su mu zaista dragi prijatelji. Zoran je uvek  zamišljao da leti iznad krovova Sarajeva, mašući malim šalom koji je ukrašen sa raznobojnom trakom.
+
+Jednog sunčanog popodneva, dok su se lutke smijali na svojim mjestima, usred pozorišta, otvorio se vrata od  pozornice.  Iznenada, u prostoriji su se pojavili veliki čudni insekti, velikih  šarenih krila i antena.  Uplašene, lutke su potrčale. Gospođica Ana se sakrila ispod stola, gospodin Petar je ušao pod fotelju, a Zoran se sakrio u veliki sanduk i  molio se.
+
+Umesto da napade, insekti su progovorili lepim i nežnim glasovima, zvučnim kao zvučna ploča i pitali se zašto je ovde. Gospodin Petar je izašao iz fotelje i  uznemireno pitao da li su oni divlji? Lutke su bile u šoku. Insekti su objašnjavili kako su lutke toliko divne i prekrasne i žele da budu njihovi prijatelji.
+
+Želeli su da prijateljski izvedu sve lutke na pozornici i ispričaju jednu ljepotu o ljubavi, ljubavi sa zaboravljenim i napuštenim ljudima. Oni su smatrali lutke izuzetno elegantnim prijateljima koji znaju previše, zato su izabrali lutke da postanu njihova prekrasna zvezda pozorišne predstave.
+
+U početku, lutke su bile sumnjičave, a gospođica Ana, pošto je iskočila ispod stola, bila je određeno  strasna. No, postepeno, pod magičnim utjecajem leptih insekata, lutke su shvatile da bi to mogao biti zaista dobro druženje i odlučile su da budu dio pozorišne predstave.
+
+Pored njih je stigao lutkar koji je izgledao kao mali dječak. On je bio oduševljen! I oni su se smirili! Bilo im je stalo do svojih osjećaja, i bili su uzbuđeni što mogu pomoći svima. Počeli su se spremati za svoju čudnu i sjajnu avanturu, obukli su svoja najbolja odijela, pjesme su se slijevale, a smeh je odzvanjao kroz veliko pozorište.
+
+Tako je počela fantastična avantura za malu lutku. Počele su smišljati i izmišljati predstave i doživljavale divne iskustva! Gospodin Petar je dokazao da može lijepo letjeti, a gospođica Ana se, kada je na kraju shvatila zašto se toliko ljubila, počela osjećati divno! Zoran je dobio novu haljinu!  Svi su otkrili nešto novo u sebi.  I tako, lutke iz sarajevskog pozorišta, zahvaljujući čarobnim insektima, dobile su novi život, punu sreće, ljubavi i avantura. Svakoga dana, ispod zvjezdanog sarajevskog neba, lutke su smiješile, pjevale i plesale, čineći svoje malo pozorište predivnim i magičnim mjestom.
+</body>

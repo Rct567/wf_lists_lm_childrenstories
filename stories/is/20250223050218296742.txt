@@ -1,0 +1,36 @@
+<prompt>
+Please write a light-hearted Icelandic children's story that is at least 1000 words long.
+It must be completely written in proper Icelandic (IS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Litla geitin og hvernig hún fann fjársjóðinn fyrir ofan hliðið'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>is</lang_id>
+
+<title>Litla geitin og hvernig hún fann fjársjóðinn fyrir ofan hliðið</title>
+<body>
+Í litlu þorpi í fjöllunum bjó litla geit sem hét Grása. Grása var mjög kýrlát og ástríða, en hún var einnig mjög hrifin af ævintýrum og draumum. Hún átti alltaf erfitt með að vera heima í bænum og hlakkaði alltaf til að vera úti og leita að nýjum ævintýrum.
+
+Einum degi, þegar Grása var að ganga um þorpíð, hitti hún gamlan höfrung sem hét Hrímnir. Hrímnir var mjög visur og hafði búið í þorpinu alla sín líf. Hann sagði Grásu að hann vissi eitthvað sem hún gæti verið vild að vita. Grása var mjög hrifin og spurði Hrímnir hvað það var. Hrímnir sagði henni að það var fjársjóður fyrir ofan hliðið, en enginn vissi hvar hann var.
+
+Grása var mjög áhugasam og ákvað að leita að fjársjóðinum. Hún spurði Hrímnir ef hann vissi eitthvað um fjársjóðinn, en Hrímnir sagði henni að hann vissi að fjársjóðurinn var faliður í helli, en hann vissi ekki hvar hellirinn var. Grása ákvað að leita að hellinum og fann hann loksins eftir langan leit. Hellirinn var djúpur og myrkur, en Grása var ekki hrædd og fór inn í hellinn.
+
+Í hellinum fann Grása mikið af steinum og berjum, en hún fann ekki fjársjóðinn. Hún ákvað að fara lengra inn í hellinn og fann loksins lítið rum sem var faliður bakvið stein. Í rumminu fann hún kistu sem var lokuð með lykli. Grása fann lykilinn og opnaði kistuna. Í kistunni fann hún fjársjóðinn, sem var fullur af gulli og silfri.
+
+Grása var mjög glöð og ákvað að taka fjársjóðinn með sér. Hún fór út úr hellinum og til baka í þorpíð. Þar sagði hún Hrímniri frá fjársjóðinum og Hrímnir var mjög glöð. Hrímnir sagði Grásu að hún væri mjög szczæð og að hún hefði gert þorpíð mjög stórt ánægja.
+
+Grása var mjög þakklát og ákvað að nota fjársjóðinn til að gera þorpíð betra. Hún keypti nýtt húsnæði fyrir þorpið og lagaði götur og brúir. Hún einnig keypti nýja báta fyrir þorpið og hjálpaði þorpunum að byggja nýtt fiskverkunartæki.
+
+Þorpunum líkaði mjög vel við Grásu og þakkaði henni fyrir allt sem hún hafði gert fyrir þorpíð. Grása var mjög glöð og ákvað að halda áfram að gera þorpíð betra. Hún varð mjög vinsæl í þorpinu og allir unnu henni svo vel. Grása var mjög þakklát og ákvað að nota lífi sitt til að gera þorpíð betra.
+
+Árum seinna, þegar Grása var orðin gamall, var hún ennþá að gera þorpíð betra. Hún hafði gert þorpíð mjög ríkt og þorpunum líkaði mjög vel við hana. Grása var mjög glöð og ákvað að halda áfram að gera þorpíð betra, þar til hún dó. Grása var mjög þakklát og ákvað að láta þorpíð arfa allt sem hún hafði gert fyrir það.
+
+Þorpunum var mjög þakklát Grásu fyrir allt sem hún hafði gert fyrir þorpíð. Þeir höfðu verið mjög lykkill að því að gera þorpíð betra og þeir voru mjög glöð. Þeir ákváðu að reisa minnisvarða til minningar um Grásu og allt sem hún hafði gert fyrir þorpíð. Minnisvarðinn var reistur á miðju þorpsins og þorpunum fóru þar til að heiðra Grásu.
+
+Grása var mjög þakklát og ákvað að láta þorpíð vita að hún var mjög glöð. Hún sagði þorpinu að hún hefði gert allt sem hún hafði gert fyrir þorpíð og að hún væri mjög þakklát fyrir allt sem þorpunum hafði gert fyrir hana. Þorpunum voru mjög glöð og þakkaði Grásu fyrir allt sem hún hafði gert fyrir þorpíð.
+
+Svo var að Grása dó, en þorpunum munu aldrei glöyma henni. Þeir munu alltaf minnast hennar sem litlu geitinni sem fann fjársjóðinn fyrir ofan hliðið og gerði þorpíð betra. Grása var mjög szczæð og þorpunum munu alltaf þakka henni fyrir allt sem hún hafði gert fyrir þorpíð.</body>

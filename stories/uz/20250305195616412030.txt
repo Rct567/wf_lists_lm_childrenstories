@@ -1,0 +1,49 @@
+<prompt>
+Please write a dialog-based Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Bo‘rilar bilan do‘stlashgan bola'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>Bo‘rilar bilan do‘stlashgan bola</title>
+<body>
+Qishki oqlikda, tog‘larning cho‘qqilarida, bir qishloqda yashagan edi.  Ushbu qishloqda,  O‘tkir nomli bir bola yashagan. O‘tkir juda qiziquvchan va baquvvat edi.  Har kuni u tog‘larga chiqib, qorli tog‘ cho‘qqilarida o‘ynab,  tabiatning go‘zalligiga hayron qolar edi.
+
+Bir kuni, O‘tkir tog‘larning chuqur vodiysiga kirib bordi.  Uning ko‘zi oldida qorli tog‘ tepalarida bir guruh bo‘rilar o‘ynayotganini ko‘rdi.  O‘tkir hayratda qoldi, chunki u hech qachon bo‘rilar bilan shunday yaqin o‘ynayotganini ko‘rmagan edi.
+
+"Assalomu alaykum, bo‘rilar!" – dedi O‘tkir, ovozini pastga tushirib.
+
+Bo‘rilarning boshida turgan, qora rangli, kuchli bo‘ri,  Oqsoy,  O‘tkirga qarab,  "Alaykum assalom, bola!" – deb javob berdi.  Ovozini juda yumshoq va mehribon aytdi.
+
+"Sizlar… sizlar nima uchun bu yerda o‘ynayapsizlar?" – deb so‘radi O‘tkir,  yuzini hayrat bilan bo‘rilarga qaratib.
+
+"Biz… biz bu tog‘larning farzandlarimiz," – dedi Oqsoy,  "Bu yerda o‘ynab,  yashash,  bizning tabiatimiz."
+
+"Ammo… sizlar… yovvoyi hayvonlarsiz," – dedi O‘tkir,  biroz qo‘rqib.
+
+"Biz yovvoyi emasmiz, bola," – deb javob berdi Oqsoy,  "Biz ham bu dunyoda yashaydigan mavjudotlarmiz.  Biz ham o‘ynaymiz,  o‘rganamiz va his qilamiz."
+
+"Lekin, odamlar bizni qo‘rqishadi," – dedi Oqsoy,  "Bizni yovuz deb o‘ylashadi."
+
+O‘tkir  bo‘rilarga qarab,  "Men sizlarni yovuz deb o‘ylamayman," – dedi u,  "Sizlar… sizlar juda chiroyli va kuchli hayvonlarsiz."
+
+"Biz ham sizlarni yaxshi ko‘ramiz," – dedi Oqsoy, "Sizlarning yaxshiligingizni ko‘rganmiz."
+
+O‘tkir va bo‘rilar bir-biri bilan suhbatlashishdi.  Ular o‘zlarining hayoti,  o‘yinlari,  qorli tog‘lar haqida gaplashishdi.  Ular bir-birlarini tushunishdi va do‘stlashishdi.
+
+O‘tkir o‘z uyiga qaytib,  o‘z ota-onasiga bo‘rilar bilan do‘stlashgani haqida aytib berdi.  Ota-onasi  avvaliga qo‘rqishgan, lekin keyin O‘tkirning so‘zlariga ishonib,  uni qo‘llab-quvvatlashdi.  Ular O‘tkirga bo‘rilar bilan do‘stona munosabatda bo‘lishni maslahat berishdi.
+
+O‘tkir har kuni bo‘rilar bilan uchrashish uchun tog‘larga borardi.  Ular birgalikda o‘ynardi,  qo‘shiq kuyladi va bir-birlarini tushunardi.  Bo‘rilar O‘tkirga tog‘larning sirlarini ochib berdi,  qorli tepaliklarning go‘zalligidan bahramand bo‘lishdi.
+
+Bir kuni,  qishloqda bir o‘t o‘chog‘i yuz berdi.  Olov juda tez tarqalib ketdi va qishloqning ko‘p uylarini yo‘q qildi.  O‘tkir va bo‘rilar darhol yordamga kelishdi.  Ular o‘z kuchlarini birlashtirib,  olovni o‘chirish uchun harakat qilishdi.  Ular qishloq aholisini xavfsiz joylarga olib chiqishdi.
+
+O‘tkir va bo‘rilarning do‘stligi qishloq aholisini qutqardi.  Odamlar bo‘rilarni yovuz emas, balki yaxshi hayvonlar deb bilishdi.  O‘tkir va bo‘rilar o‘zaro do‘stliklarini mustahkamlab,  tog‘larning go‘zalligida birga yashadilar.
+
+Keyinidan, O‘tkir va bo‘rilar har kuni tog‘larga chiqib,  o‘ynashardi.  Ular tog‘larning go‘zalligidan bahramand bo‘lib,  bir-biri bilan do‘stona munosabatda bo‘lishardi.  Qishloq aholisi esa bo‘rilarni yaxshi ko‘rib,  ularga hurmat bilan qarashardi.  O‘tkir va bo‘rilarning do‘stligi butun qishloqqa quvonch va tinchlik keltirdi.
+</body>

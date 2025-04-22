@@ -1,0 +1,33 @@
+<prompt>
+Please write a simple and easy-to-follow Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Bogi, a lány, aki beszélt a széllel'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>hu</lang_id>
+
+<title>Bogi, a lány, aki beszélt a széllel</title>
+<body>Aznap, amikor Bogi megszületett, egy különös dolog történt. Ahogy az anyja a karjában tartotta, hirtelen egy enyhe szellő kezdett el fújdogálni a szobában. Az ablakok zárva voltak, mégis, a függönyök megmozdultak, mintha valaki finoman meglökte volna őket. Bogi anyja csodálkozva nézett körül, de nem látott senkit. A szél egyre erősebb lett, és Bogi, aki addig csendben feküdt, hirtelen elkezdett nevetni.
+
+Ahogy Bogi felnőtt, kiderült, hogy ő egy különleges lány. Gyakran beszélt a széllel, és a szél mindig válaszolt neki. A szél elmesélte neki a világ legtitkosabb történeteit, és Bogi mindent elhitt neki. A szél volt a legjobb barátja, és Bogi soha nem érezte magát egyedül, amikor a szél vele volt.
+
+Egy napon, amikor Bogi sétált az erdőben, a szél hirtelen elkezdett süvöltögetni. Bogi megállt, és a szélre figyelt. "Mi a baj, szél?" kérdezte. "Valami nagy dolog történt", válaszolta a szél. "A varázserdőben egy titkos ajtó nyílt meg, és senki nem tudja, hova vezet." Bogi kíváncsi lett, és elindult, hogy kiderítse, mi az a titkos ajtó.
+
+Ahogy belépett a varázserdőbe, a fák megmozdultak, és a levelek susogtak. Bogi követte a szél hangját, amely egyre hangosabb lett. Hirtelen, egy nagy, régi ajtó bukkant elő a fák közül. Az ajtó zárva volt, de a szél segített Boginak, hogy kinyissa. Az ajtó mögött egy hosszú, sötét folyosó volt, amely egy titkos kamrába vezetett.
+
+A kamrában egy öreg varázsló ült, aki Bogit várta. "Üdvözöllek, Bogi", mondta a varázsló. "Tudom, hogy te vagy az, aki beszél a széllel. Azért hívtalak ide, mert szükségem van a segítségedre." Bogi kíváncsi volt, és megkérdezte, mi az, amivel tud segíteni. "A varázserdőben egy nagy veszély fenyeget", mondta a varázsló. "Egy sötét varázsló ellopott egy varázskönyvet, amelynek segítségével elpusztíthatja az erdőt. Szükségem van valakire, aki visszaszerzi a könyvet."
+
+Bogi elhatározta, hogy segít a varázslónak. A szél segített neki, hogy eljusson a sötét varázsló kastélyába. Ahogy belépett a kastélyba, a szél elkezdett fújdogálni, és a folyosók megmozdultak. Bogi követte a szél hangját, amely egyre hangosabb lett. Hirtelen, a sötét varázsló bukkant elő, és megpróbálta megállítani Bogit. De a szél segített neki, hogy kikerülje a varázsló varázslatait.
+
+Bogi végül eljutott a varázskönyvhöz, amely egy nagy, sötét szobában volt. A könyv zárva volt, de a szél segített neki, hogy kinyissa. Ahogy kinyitotta a könyvet, a varázslatok elkezdtek működni, és a sötét varázsló elvesztette az erejét. Bogi visszavitte a varázskönyvet a varázslónak, aki nagyon hálás volt neki.
+
+A varázsló megköszönte Boginak a segítségét, és elmondta neki, hogy ő egy különleges lány, aki beszél a széllel. "A szél mindig veled lesz", mondta a varázsló. "És te mindig segíteni fogsz azoknak, akik rászorulnak." Bogi visszatért az erdőbe, ahol a szél várt rá. A szél elmesélte neki, hogy milyen veszélyek leselkednek a világra, és Bogi mindent elhitt neki.
+
+Ahogy Bogi felnőtt, ő lett a varázserdő védelmezője. A szél segített neki, hogy megvédje az erdőt a veszélyektől, és Bogi mindig készen állt, hogy segítsen azoknak, akik rászorulnak. A szél és Bogi együtt járták a világot, és mindent megtettek, hogy megvédjék a természetet és az embereket.
+
+És így, Bogi és a szél együtt éltek, és mindig segítettek azoknak, akik rászorulnak. A szél mindig vele volt, és Bogi soha nem érezte magát egyedül. A varázserdő és a világ mindig biztonságban voltak, mert Bogi és a szél vigyáztak rájuk.</body>

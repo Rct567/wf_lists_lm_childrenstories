@@ -1,0 +1,33 @@
+<prompt>
+Please write a light-hearted Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Žaislų parduotuvės paslaptis: gyvybė, atsirandanti naktį, kai visi miega.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>lt</lang_id>
+
+<title>Žaislų parduotuvės paslaptis: gyvybė, atsirandanti naktį, kai visi miega</title>
+<body>Šiąnakt Vilniuje, senamiestyje, buvo tuščia ir ramu. Visi žmonės miegojo, o pietų kryptimi, ant aukštų pastatų, švietėjo mėnulis. Tarp senų namų, šalia upelio, stovėjo maža, bet įdomi žaislų parduotuvė. Parduotuvės pavadinimas buvo "Vaiko pasaulis" ir joje buvo viskas, ko vaikams reikia: lėlės, lošimai, puikūs žaislai ir dar daug ko.
+
+Parduotuvės savininkas, senas ponas Jonas, jau seniai užsidarė namo ir miegojo, o parduotuvę paliko vieną. Bet kas nutiko, kai visi miegojo? Parduotuvės durys, kažkodėl, atsidarė vienos, ir iš vidaus išlindo keletas lėlių. Jos buvo labai gražios, su ryškiais veidais ir spalvingais rūbais. Lėlės pradėjo žaisti tarp parduotuvės prekių, ir netrukus visas parduotuvė tapo gyva.
+
+Tarp lėlių buvo viena, kuri buvo labai speciali. Jos vardas buvo Lina, ir ji buvo pagaminta iš ypatingo medžio, kuris augo tik Lietuvos miškuose. Lina turėjo magiškas savybes, ir ji galėjo kalbėti su visomis parduotuvės prekėmis. Ji pradėjo kalbėti su žaislais, ir netrukus visos parduotuvės prekės tapo jos draugėmis.
+
+Lina ir jos draugės pradėjo žaisti visame mieste. Jos lankėsi senųjų namų kiemuose, kur žaidė su kačiukais ir šunimis. Jos lankėsi ir upelio krantuose, kur žaidė su žuvimis ir vandens gyvūnais. Visas miestas buvo jų žaidimų aikštelė, ir jos naudojo visas galimybes, kad būtų laimingos.
+
+Bet, kaip ir visos geros istorijos, šiai istorijai taip pat buvo priešas. Jis buvo blogas velnias, kuris gyveno miesto kanalizacijoje. Velnias buvo labai piktas, kad visi miesto gyventojai buvo laimingi, ir jis norėjo viską sugadinti. Jis pradėjo kurstyti sąmokslą, kad sunaikintų visą miestą.
+
+Lina ir jos draugės, supratę, kad velnias kursto sąmokslą, pradėjo ieškoti būdų, kaip jį sustabdyti. Jos lankėsi senųjų namų bibliotekose, kur skaitydavo senas knygas apie magiją ir velnių. Jos rado keletą receptų, kaip velnią nuvyti, bet jos buvo labai sudėtingos.
+
+Lina ir jos draugės nusprendė, kad reikia susieti visas jėgas, kad sustabdyti velnią. Jos subūrė visus miesto gyventojus, ir kartu jie pradėjo rengti didelę maginę ceremoniją. Ceremonijoje dalyvavo visi miesto gyventojai, ir jie visi kartu giedojo magines giesmes, kad nuvyti velnią.
+
+Ceremonija buvo labai sėkminga, ir velnias buvo nuvytas. Miestas vėl buvo saugas, ir visi gyventojai buvo laimingi. Lina ir jos draugės buvo garbinamos kaip didelės herojės, ir jos tapo žinomos visame mieste.
+
+Parduotuvės savininkas, senas ponas Jonas, atsikėlė ryte ir pamatė, kad viskas yra tvarkoj. Parduotuvė buvo tvarkyje, ir visos prekės buvo jų vietose. Jis nieko negalvojo, kad naktį buvo tokia didelė aventūra, ir jis tikriausiai niekada nežinos, kas nutiko tą naktį.
+
+Lina ir jos draugės vėl tapo paprastomis lėlėmis, bet jų širdyse visada liks magiškas jausmas, kad jos yra herojės, kurios gali pakeisti pasaulį. Ir kas žino, maybe kitą naktį jos vėl atsikels ir pradės naują aventūrą, kad padarytų pasaulį dar geresniu.</body>

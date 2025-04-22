@@ -1,0 +1,60 @@
+<prompt>
+Please write a timeless Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Những ước mơ của bạn Ốc Sên trên con đường đến biển lớn.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>vi</lang_id>
+
+```xml
+<title>Những ước mơ của bạn Ốc Sên trên con đường đến biển lớn.</title><body>
+Ngày xửa ngày xưa, trong một khu vườn xanh mướt, nơi những bông hoa khoe sắc rực rỡ và những hạt sương mai long lanh đọng trên lá, có một chú Ốc Sên nhỏ bé tên là Ốc. Ốc không giống những người anh em Ốc Sên khác, chỉ quanh quẩn ăn lá và trốn tránh ánh nắng. Ốc có một ước mơ lớn lao: đến được biển lớn.
+
+Biển cả trong trí tưởng tượng của Ốc là một nơi vô cùng kỳ diệu. Nơi đó, những con sóng vỗ bờ ào ạt, những chú cá đầy màu sắc bơi lội tung tăng, và cát biển mịn màng, ấm áp dưới ánh mặt trời. Ốc thường ngồi trên một chiếc lá lớn, ngước nhìn lên bầu trời xanh thẳm, nơi những cánh chim hải âu chao liệng, và tự hỏi liệu con đường đến biển có xa xôi không.
+
+"Mẹ ơi, biển lớn ở đâu ạ?" Ốc hỏi mẹ, khi đang chậm chạp gặm một chiếc lá rau xanh.
+
+Mẹ Ốc Sên hiền từ mỉm cười: "Biển lớn ở rất xa con ạ, phải đi qua bao nhiêu con suối, vượt qua bao nhiêu ngọn đồi, và tránh xa khỏi những nguy hiểm."
+
+"Con muốn đến biển!" Ốc Sên nhỏ bé quả quyết. "Con muốn thấy cá, muốn chơi với cát."
+
+Mẹ Ốc Sên xoa nhẹ lên chiếc vỏ ốc sần sùi của con, rồi nói: "Được rồi, nếu con muốn, mẹ sẽ ủng hộ. Nhưng con phải nhớ cẩn thận, phải kiên trì và luôn giữ vững ước mơ của mình."
+
+Thế là, Ốc Sên bắt đầu hành trình phiêu lưu của mình. Ốc từ giã khu vườn thân yêu, mang theo một trái tim đầy hy vọng và một ước mơ cháy bỏng.
+
+Con đường đầu tiên Ốc Sên gặp phải là một con suối nhỏ. Dòng nước trong vắt, mát lạnh, nhưng cũng rất trơn trượt. Ốc Sên cố gắng bò qua, từng bước một, chậm chạp nhưng không ngừng. Có lúc, Ốc suýt bị cuốn trôi theo dòng nước, nhưng bằng tất cả sức lực, Ốc bám chặt vào những tảng đá nhỏ, cuối cùng cũng vượt qua được con suối.
+
+Tiếp theo, Ốc Sên phải leo lên một ngọn đồi nhỏ. Dốc đồi dốc đứng, và mặt đất thì khô cằn, đầy sỏi đá. Ốc Sên thở hổn hển, đôi khi muốn bỏ cuộc, nhưng hình ảnh về biển cả luôn hiện ra trong tâm trí Ốc, tiếp thêm sức mạnh cho Ốc. Ốc lại bò, bò và bò. Cuối cùng, sau một khoảng thời gian dài, Ốc Sên cũng lên được đỉnh đồi. Từ trên cao, Ốc nhìn thấy những cánh đồng lúa xanh mướt, những ngôi làng nhỏ bé, và xa xa, một đường chân trời màu xanh thẫm – có lẽ là biển!
+
+Trên đường đi, Ốc Sên gặp rất nhiều người bạn. Đầu tiên là Chị Bướm xinh đẹp với đôi cánh rực rỡ. Chị Bướm bay lượn quanh Ốc Sên, hỏi: "Ốc Sên đi đâu mà vội thế?"
+
+Ốc Sên kể cho Chị Bướm nghe về ước mơ của mình. Chị Bướm ngạc nhiên, nhưng cũng rất ngưỡng mộ. Chị Bướm giúp Ốc Sên bằng cách chỉ cho Ốc Sên con đường ngắn nhất, và đôi khi, Chị Bướm còn đậu lên chiếc vỏ ốc của Ốc Sên, bay đi một đoạn, rồi lại hạ xuống, giúp Ốc Sên đi nhanh hơn.
+
+Sau đó, Ốc Sên gặp Anh Kiến siêng năng. Anh Kiến đang bận rộn tha mồi về tổ. Ốc Sên kể chuyện, và Anh Kiến cũng chia sẻ kinh nghiệm về sự kiên trì và lòng quyết tâm. Anh Kiến nói: "Đường đến thành công luôn có nhiều thử thách. Nhưng nếu không bỏ cuộc, chúng ta sẽ đạt được ước mơ của mình." Anh Kiến còn giúp Ốc Sên vượt qua một đoạn đường đầy chướng ngại vật.
+
+Ốc Sên cũng gặp những người bạn khác, như Chú Dế Mèn hóm hỉnh, Chị Chuồn Chuồn tinh anh, và Cô Bọ Rùa hiền lành. Mỗi người bạn đều có những câu chuyện thú vị và những lời khuyên bổ ích, giúp Ốc Sên vững tin trên con đường của mình.
+
+Tuy nhiên, không phải lúc nào hành trình của Ốc Sên cũng suôn sẻ. Có những ngày mưa to, Ốc Sên phải trú ẩn dưới những chiếc lá lớn để tránh bị ướt sũng. Có những ngày nắng gắt, Ốc Sên cảm thấy mệt mỏi và khát nước. Có những lúc, Ốc Sên bị những con vật lớn hơn dọa dẫm, hoặc bị lạc đường.
+
+Trong những lúc khó khăn đó, Ốc Sên luôn nhớ lời mẹ dặn, nhớ về ước mơ của mình, và lấy đó làm động lực để tiếp tục. Ốc Sên tự nhủ: "Mình phải cố gắng! Mình phải đến biển!"
+
+Cuối cùng, sau rất nhiều ngày đêm không ngừng nghỉ, Ốc Sên cũng đến được bờ biển. Khi nhìn thấy biển cả bao la, rộng lớn trước mắt, Ốc Sên không khỏi vỡ òa trong niềm vui sướng. Ốc Sên chậm chạp bò xuống bãi cát mịn màng. Những con sóng vỗ vào chân Ốc Sên, mát lạnh và êm ái.
+
+Ốc Sên ngắm nhìn những chú cá nhiều màu sắc bơi lội, lắng nghe tiếng sóng biển rì rào, và cảm nhận được sự ấm áp của ánh mặt trời. Ước mơ của Ốc Sên đã trở thành hiện thực. Ốc Sên đã đến được biển lớn.
+
+Ốc Sên chơi đùa trên bãi biển, gặp gỡ những người bạn mới, và khám phá những điều kỳ diệu của biển cả. Ốc Sên nhận ra rằng, hành trình đến với ước mơ còn quan trọng hơn cả việc đạt được ước mơ. Trên suốt chặng đường, Ốc Sên đã học được sự kiên trì, lòng dũng cảm, tình bạn, và biết trân trọng cuộc sống.
+
+Một ngày nọ, khi Ốc Sên đang ngồi trên một tảng đá lớn, ngắm nhìn cảnh biển, Chị Hải Âu bay đến gần Ốc Sên và hỏi: "Ốc Sên ơi, ước mơ của em bây giờ là gì?"
+
+Ốc Sên mỉm cười, ánh mắt lấp lánh niềm vui: "Em vẫn còn nhiều ước mơ lắm chị ạ. Em muốn khám phá cả thế giới, muốn giúp đỡ những người khác, và muốn chia sẻ câu chuyện về hành trình của mình, để mọi người biết rằng, chỉ cần có ước mơ và sự kiên trì, không gì là không thể."
+
+Chị Hải Âu gật đầu, vỗ cánh chào Ốc Sên, rồi lại bay vút lên bầu trời. Ốc Sên lại một mình trên bãi biển, trong lòng đầy ắp những kỷ niệm và những ước mơ mới.
+
+Từ đó, câu chuyện về Ốc Sên trên con đường đến biển lớn được lan truyền khắp khu vườn xanh, trở thành một bài học quý giá cho tất cả các loài vật. Câu chuyện dạy rằng, ước mơ là điều cần thiết, và con đường đến với ước mơ luôn chứa đựng những thử thách, nhưng chỉ cần có lòng quyết tâm và sự kiên trì, mọi người đều có thể đạt được những điều mình mong muốn. Và quan trọng hơn cả, hành trình đó sẽ mang đến cho chúng ta những trải nghiệm tuyệt vời và những bài học giá trị trong cuộc sống.
+</body>
+```

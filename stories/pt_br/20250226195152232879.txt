@@ -1,0 +1,44 @@
+<prompt>
+Please write a simple and easy-to-follow Portuguese (Brazil) children's story that is at least 1000 words long.
+It must be completely written in proper Portuguese (Brazil) (PT_BR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A Galinha Pintadinha em Busca de um Novo Lar e Novos Amigos para Cantar.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>pt_br</lang_id>
+
+<title>A Galinha Pintadinha em Busca de um Novo Lar e Novos Amigos para Cantar.</title>
+<body>
+A galinha Pintadinha era uma pintinha especial. Suas penas, ao invés de um único tom, eram um turbilhão de cores vibrantes: amarelo-dourado, azul-celeste, vermelho-coral e um rosa-choque que faziam lembrar um arco-íris desbotado.  Em seu pequeno quintal, ela tinha a companhia da velha vovó-galinha, que ensinava a todas as pintinhas a importância do canto melodioso e da amizade sincera.
+
+Vovó-galinha, com seus fios de penas grisalhas e olhos sábios, falava com a ternura que só os seres mais velhos e sábios conseguem: "Cada canto possui uma melodia, Pintadinha, e cada amizade, um tom diferente de afeição. O mundo é vasto, e as vozes, diversas!"
+
+Pintadinha, porém, sentia uma saudade estranha em seu coraçãozinho de pintinha.  Sentia falta de descobrir novas canções e de compartilhar alegrias com pintinhos de cores e cantigas diferentes.  Todos os outros pintinhos em seu quintal cantavam canções tranquilas,  de acordes suaves. Pintadinha ansiava por canções mais vibrantes, mais explosivas, como uma sinfonia de cores e notas diferentes.
+
+
+Um dia,  enquanto caminhava pelo gramado dourado, ela viu um pequeno portão de madeira, todo pintado com desenhos coloridos de flores. A curiosidade era como uma pena colorida em seu peito, a impulsionando a atravessá-lo.  Do outro lado do portão, estava uma vasta campina cheia de flores exóticas e desconhecidas. O ar vibrava com cantos de pássaros diferentes que pareciam se misturavam num concerto único.
+
+Pintadinha se sentiu atraída por este lugar desconhecido. Sentiu uma liberdade enorme de suas penas, flutuando livre como um pensamento. Era uma sensação nova, cheia de aromas desconhecidos e melodias encantadoras.  Ali, encontrou um grupo de pintinhos que faziam música com suas asas como se fossem tambores e cantavam com sua própria língua de pintinhos e grilos.
+
+O primeiro pintinho, com plumagem verde esmeralda, tinha um canto que parecia uma floresta vibrante, cheios de trovões de folhas agitadas pelo vento. O segundo, um pintinho amarelo com pintas pretas, cantava uma música como o mar em festa, cheia de ondulações e sons de redemoinhos e ondas.  E o terceiro, com plumagem lilás e asas brilhantes, emitia uma canção como um arco-íris na hora do nascer do sol.
+
+Pintadinha, envergonhada e tímida no início, ouvia atentamente cada melodia.  A canção do pintinho esmeralda era calma, o canto do amarelo parecia se espalhar como gotas de orvalho, e o canto do pintinho lilás lhe parecia uma alegria que dançava na ponta dos pés.
+
+Com o tempo, ela percebeu que sua música, mesmo diferente da dos outros, era especial também. Seu canto vibrante e colorido se misturava com as canções dos outros pintinhos, criando uma harmonia única, um concerto de pintinhos de todos os tipos. Eles aprenderam as canções uns dos outros, adaptando suas próprias maneiras e descobriram que diferentes eram as melodias. Cada canto carregava uma mensagem diferente; o canto de um era como um sorriso, outro, era uma alegria.
+
+
+Acamparam em um espaço seguro na campina com folhas macias e flores para as horas de sono. Noites em branco escura onde as estrelas criavam desenhos encantadores no céu, Pintadinha contava histórias como se fossem conto para o luar com cada pintinho com suas cores especiais e cantigas para adormecerem com harmonia.
+
+
+Eles riam de piadas diferentes e as canções de cada pintinho criavam novas músicas mais alegres juntos, a harmonia os uniu. Pintadinha estava feliz.
+
+
+Vovó-galinha, ao observar Pintadinha de longe, sorria com um coração repleto de satisfação.  Sabia que a jornada para descobrir suas próprias melodias era a chave para um coração leve.
+
+Pintadinha aprendeu que a diversidade não era algo a temer, mas algo para ser celebrado e valorizada, e  a verdadeira harmonia só florescia quando os sons, tão diversos quanto as cores,  se uniam em um só concerto de cores e melodias. Ela tinha finalmente encontrado seu lar e seus amigos para cantar.  E  seu novo quintal agora ecoava com cantos mais vibrantes e mais alegres.  Uma música nova se misturava com melodias suaves de cores vibrantes de amizade verdadeira. E  assim, a pequena pintinha colorida descobriu que, não importava como você cantasse ou o que suas cores fossem, cada pintinho tinha seu lugar na grande sinfonia da amizade e da alegria.
+
+</body>

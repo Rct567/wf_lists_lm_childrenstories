@@ -1,0 +1,43 @@
+<prompt>
+Please write a timeless Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Rosvo-Roope Ja Hänen Seikkailunsa'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>fi</lang_id>
+
+<title>Rosvo-Roope Ja Hänen Seikkailunsa</title>
+<body>
+Rosvo-Roope ei ollut tavallinen rosvo.  Hänellä ei ollut nahkaa, joka oli musta kuin yö, eikä taskussaan täynnä kultaa.  Roope oli pieni, ruskean tukkainen ja vilkkaasti silmät vilkkuva orava. Hän asui kauniissa männyssä, jonka latva ulottui taivaanrantaan, ja hänen talonsa oli loistava, lintujen höyhenistä ja hämähäkinseitistä kudottu.  Siellä oli myös hurmaava, pieni keittiö, jossa kiehuivat herkulliset pähkinä- ja sienisoodat.
+
+Yhtenä kirkkaana syyspäivänä Roope istui ikkunassaan ja katseli metsän leikkiä.  Lämpö nousi metsään, ja lehdet värjäytyivät kauniisiin väreihin.  Hän kuuli kaukaa kovan äänen, kuin muinainen salama oli iskenyt. Se oli pähkinänmurtaja!  Roope tunsi sen äänen. Se merkitsi, että metsän parhaat pähkinät olivat kypsät.
+
+Hän hyppäsi alas puusta ja sujahti metsän syvyyksiin.  Matkallaan hän kohtasi metsänvartija-jyrsijän, Jyrkin.  Jyrkki oli vanha ja viisas ja tunsi metsän salaisuudet.
+
+"Jyrkki, kuulitko tuota pähkinänmurtajan ääntä?" Roope kysyi.
+
+"Kyllä, pieni rosvo," Jyrkki vastasi, nuolemassa herkullisia sieniä. "Se merkitsi, että metsän parhaat pähkinät ovat valmiina.  Mutta ole varovainen, metsässä on myös vaaroja.  Ovatko sinun seikkailusi valmiita?"
+
+"Totta kai", Roope vastasi, hyppien ja vinkuen innosta. "Minun on löydettävä ne parhaat pähkinät. Ja ehkä jokin aarre!"
+
+Yhdessä he lähtöivät metsän syvyyksiin. Polku kiemurteli läpi sankoisten puiden ja lumisten ojanrantojen. Heidän polkunsa johti läpi salaperäisen, lumisen metsän, jossa lepattivat kylmänä syyskuun valot.  Matkallaan he kohtasivat erikoisia olentoja.  He tapailivat kuorenvartijan, joka vartioitui lähellä vanhaa tammea, ja metsäkissoja, jotka leikittelivät auringon säteissä.  Heidän silmät näkivät metsän salaisuuksia.
+
+Lopulta he saapuivat pähkinäpuuhun. Se oli yhtä suuren kuin iso talo, ja sen oksilla riippui tuhansia kypsitä pähkinöitä.  Monet pienet metsän asukkaat olivat jo ottaneet osan pähkinöistä.
+
+"Oho, tässä on paljon pähkinöitä," Roope hymyili.
+
+"Kyllä, mutta ne parhaat ovat piilossa," Jyrkki sanoi, katsomalla tarkkaan pähkinäpuun ylös.  "Ne ovat piilotettu salaperäiseen lokeroon. Löydä se, ja saat parhaat pähkinät."
+
+Roope, joka oli nopea ja ketterä, kiipeili puuhun. Hän etsi ja etsi.  Lopulta hän löysi pienen, hienovaraisen lokero, joka oli piilotettu kauniin lehden taakse.  Se oli täynnä kullanhiukkisia, herkullisia pähkinöitä.
+
+"Onnea, Roope", Jyrkki sanoi, kun Roope laskeutui alas puusta, kantaen kädessään täynnä aarteita.
+
+"Kiitos, Jyrkki!" Roope iloitsi ja jakoi herkullisia pähkinöitä kaikkien metsän asukkaiden kanssa.  Hänen pähkinänsoodansa kiehuivat läpi päivän, ja metsässä oli iloinen meteli.  He kaikki nautivat hyvistä pähkinöistä ja iloisista seikkailuista.
+
+Roope palasi takaisin kotiin, sydän täynnä ilosta ja vatsa täynnä pähkinöitä.  Hän tunsi, että oli saanut parhaat pähkinät, mutta myös ystävyyden ja seikkailun arvon.  Hänen sydämessänsä oli uusi aarre - metsän salaisuudet.   Rosvo-Roope oli enemmän kuin vain orava; hän oli metsän sankari.  Ja hän tiesi, että metsässä oli vielä monia seikkailuja odottamassa häntä.
+</body>

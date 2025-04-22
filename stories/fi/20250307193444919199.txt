@@ -1,0 +1,54 @@
+<prompt>
+Please write a uncomplicated Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Taikakivi, joka toi eläimet yhteen'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>fi</lang_id>
+
+<title>Taikakivi, joka toi eläimet yhteen</title>
+<body>
+Kerran oli pieni kylä, joka sijaitsi kauniissa laaksossa. Kylässä asui paljon eläimiä, mutta ne eivät tulleet toimeen keskenään. Kissat ja koirat kilpailivat keskenään, linnut ja lepakot riitelivät, ja jyrsijät ja matelijat pelkäsivät toiseaan.
+
+Eräänä päivänä, kun kyläläiset olivat poissa, ilmestyi kylään pieni, hohtava kivi. Kivi oli niin kaunis, että se houkutteli kaikki eläimet luokseen. Ne kokosivat suuren joukon kiven ympärille ja ihmettelivät sen valoa.
+
+Yhtäkkiä kivi puhui eläimille. "Minä olen taikakivi", se sanoi. "Minä voitan parantaa kylän eläinten välit. Mutta teidän on tehtävä yhteistyötä ja luotettava toisiinne."
+
+Eläimet katsoivat toisiaan epäluuloisesti, mutta taikakiven sanat herättivät heissä toiveen. He päättivät yrittää. Kissa, joka oli aina ollut erittäin itsenäinen, tarjoutui johtamaan ryhmää. Koira, joka oli aina ollut hyvin urheilullinen, tarjoutui auttamaan kissaa.
+
+Linnut ja lepakot, jotka olivat aina riidelleet, päättivät tehdä sovinnon. Ne alkoivat keskustella ja löysivät, että heillä oli paljon yhteistä. Jyrsijät ja matelijat, jotka olivat aina pelänneet toisiaan, alkoivat puhua ja löysivät, että heillä oli paljon opittavaa toisiltaan.
+
+Taikakivi seurasi eläinten edistymistä ja oli tyytyväinen. Se alkoi loistaa entistä kirkkaammin, ja eläimet alkoivat tuntea itsensä yhä enemmän yhteen kuuluviksi.
+
+Kun kyläläiset palasivat, he olivat hämmästyneitä siitä, miten eläimet tulivat toimeen keskenään. He näkivät, miten kissa ja koira leikkivät yhdessä, miten linnut ja lepakot keskustelivat ja miten jyrsijät ja matelijat olivat ystäviä.
+
+Kyläläiset päättivät, että taikakivi oli kylän suurin aarre. He päättivät pitää kiven turvassa ja varmistaa, että se säilyisi aina. Eläimet ja kyläläiset alkoivat elää yhdessä harmoniassa, ja kylästä tuli kaunein ja onnellisin paikka kaukana.
+
+Vuodet menivät, ja taikakivi säilyi kylän keskuksena. Se jatkoi loistamistaan ja muistutti eläimiä ja kyläläisiä ystävyydestä ja yhteistyöstä. Kylä kasvoi ja menestyi, ja sen asukkaat olivat aina ylpeitä siitä, miten he olivat onnistuneet luomaan harmonisen yhteisön.
+
+Eräänä päivänä, kun kylä oli jo vanha, ryhmä nuoria eläimiä tuli kylään. He olivat kuulleet taikakivestä ja halusivat nähdä sen itse. Vanhat eläimet ja kyläläiset ottivat heidät vastaan ja kertoivat heille tarinaa taikakivestä ja siitä, miten se oli muuttanut kylän.
+
+Nuoret eläimet olivat ihmeissään ja halusivat tietää, miten he voivat auttaa kylää ja taikakiveä. Vanhat eläimet ja kyläläiset opettivat heille, miten tärkeää on ystävyys, yhteistyö ja luottamus. He kertoivat, miten taikakivi oli opettanut heille, miten elää yhdessä harmoniassa.
+
+Nuoret eläimet kiittivät vanhoja eläimiä ja kyläläisiä opetuksista. He lupasivat jatkaa taikakiven perintöä ja pitää kylän harmonisen yhteisön elossa. Taikakivi loisti heille ja antoi heille siunauksensa.
+
+Ja niin kylä jatkoi elämistään harmoniassa, ja taikakivi säilyi sen keskuksena. Se muistutti aina eläimiä ja kyläläisiä ystävyydestä, yhteistyöstä ja luottamuksesta, ja he elivät onnellisina ja tyytyväisinä kaukana.
+
+Kun vuodet menivät, kylästä tuli legendaarinen paikka, jossa eläimet ja ihmiset elivät yhdessä harmoniassa. Taikakivi oli kylän symboli, ja se muistutti kaikkia, miten tärkeää on elää yhdessä ja arvostaa toisiaan.
+
+Ja niin tarina on kulkenut sukupolvelta toiselle, ja se on opettanut lapsille ja aikuisille, miten tärkeää on ystävyys, yhteistyö ja luottamus. Taikakivi on jäänyt kylän keskuksena, ja se jatkaa loistamistaan, muistuttaen kaikkia siitä, miten kaunis ja onnellinen paikka voidaan luoda, kun eläimet ja ihmiset elävät yhdessä harmoniassa.
+
+Lopulta, kun kylä oli jo hyvin vanha, taikakivi alkoi himmetä. Se oli ollut kylän keskuksena niin kauan, että se oli alkanut väsyä. Eläimet ja kyläläiset olivat surullisia, kun he näkivät taikakiven himmenevän.
+
+Mutta sitten, yhtäkkiä, taikakivi alkoi loistaa uudelleen. Se oli saanut uuden elämän, ja se alkoi loistaa entistä kirkkaammin. Eläimet ja kyläläiset olivat iloisia, kun he näkivät taikakiven palautuvan entiseen loistoonsa.
+
+Taikakivi puhui eläimille ja kyläläisille. "Minä olen saanut uuden elämän", se sanoi. "Minä jatkan loistamistaani, ja minä muistutan kaikkia siitä, miten tärkeää on elää yhdessä harmoniassa. Minä olen kylän symboli, ja minä takaan, että kylä jatkaa elämistään harmoniassa."
+
+Ja niin taikakivi jatkoi loistamistaan, ja se muistutti kaikkia siitä, miten tärkeää on elää yhdessä harmoniassa. Eläimet ja kyläläiset elivät onnellisina ja tyytyväisinä, ja kylästä tuli jälleen kaunein ja onnellisin paikka kaukana.
+
+Tarina taikakivestä on kulkenut sukupolvelta toiselle, ja se on opettanut lapsille ja aikuisille, miten tärkeää on ystävyys, yhteistyö ja luottamus. Taikakivi on jäänyt kylän keskuksena, ja se jatkaa loistamistaan, muistuttaen kaikkia siitä, miten kaunis ja onnellinen paikka voidaan luoda, kun eläimet ja ihmiset elävät yhdessä harmoniassa.</body>

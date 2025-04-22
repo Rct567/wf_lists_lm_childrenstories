@@ -1,0 +1,45 @@
+<prompt>
+Please write a uncomplicated Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Karhun ja oravan ystävyysseikkailu'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>fi</lang_id>
+
+<title>Karhun ja oravan ystävyysseikkailu</title>
+<body>
+Syksyinen metsä hehkuu lämpimillä ruskan sävyillä.  Iso, karvainen karhu nimeltä Kalle suunnitteli leppoisaa päiväunia. Hän oli syönyt täyttävästi marjoja ja sienistä oli kertynyt mukava vatsan täyte.  Kallen turkki, joka oli kesästä tumma ja kiiltävä, oli nyt pehmeämpi ja hieman ruskeamman sävyinen.  Hän löysi mieluisan paikan puun juurelta ja valmistautui rauhalliseen päiväuneen.
+
+Yhtäkkiä kuului pieni, kiireinen viheltävä ääni.  "Prö! Prö! Prö!"  Kalle heräsi yllättyneenä.  Hänen vierellään, pensaiden takaa, oli pieni orava nimeltä Pikku-Pippa.  Hänellä oli kiire ja hippunen pölyä turkissaan.  Pikku-Pippa oli juuri kerännyt talveksi varastojaan ja nyt hänellä oli vielä muutamia pähkinöitä kannettavaksi.
+
+"Oho, anteeksi!", Pikku-Pippa sanoi jännittävästi ja katsoi Kallea syöksyen silmiin.  "En huomannut, että olit täällä."
+
+Kalle, joka oli tottunut metsän rauhallisuuteen, oli hieman hämmästynyt pienen oravan kiireestä.  "Hei, hyvää päivää", Kalle sanoi hellästi.  "Mikä kiire sinulla on?"
+
+"Minulla on niin paljon pähkinöitä kerättäväksi!" Pikku-Pippa vastasi ja osoitti tiheää lehtipensasviidasta. "Talven varastointi on tärkeää, ja  jäätyneet marjat eivät riitä!"
+
+"Ymmärrän", Kalle sanoi.  "Onnea pähkinöiden keräämiseen!"
+
+Ja niin alkoi karhun ja oravan ystävyysseikkailu.  Kalle auttoi Pikku-Pippaa etsimään pähkinöitä.  Kallen suuri koko ja vahvat kädet olivat suureksi avuksi.  Hän kaatoi kaatuneita oksia pois tieltä ja etsi pähkinäpuita. Pikku-Pippa puolestaan oli erinomainen pähkinöiden etsijä.  Hän tunsi metsän ja sen kätköt paremmin kuin kukaan muu.
+
+Heidän etsintänsä johdatti heidät kauniille laaksoon, jossa oli valtavia tammia ja kuusia.  Puiden latvoilla oli linnut, jotka lauloivat iloisia lauluja.  Pikku-Pippa osoitti puun juuren, jonka alla oli useita pähkinöitä. Kalle kaatoi oksat pois ja Pikku-Pippa keräsi niitä varovasti pienen, kiireisen kädellään.  He keräsivät ja keräsivät.
+
+"Onpa täällä paljon pähkinöitä!" huudahti Pikku-Pippa.
+
+"Kyllä, onpa!", Kalle vastasi, ja he nauttivat pähkinöiden keräämisestä yhdessä.
+
+Päivä kului nopeasti.  Aurinko alkoi laskea ja maisemat värittivät metsän kauniisiin ruskan sävyihin.  Kalle ja Pikku-Pippa olivat keränneet pähkinöitä niin paljon, että se riitti koko talven!  He istuivat puun juurelle, katsoivat laskevaa aurinkoa ja hymyilivät.
+
+"Kiitos, Kalle", Pikku-Pippa sanoi. "Olit mahtava apu!"
+
+"Kiitos, Pikku-Pippa", vastasi Kalle.  "Oli mukava olla kanssasi!"
+
+Heidän ystävyytensä oli vahvistunut ja he olivat molemmat iloisia siitä, että olivat tavanneet toisensa.  Pikku-Pippa kiipes takaisin puuhun ja Kalle löysi leppoisan paikan päiväuneen.  Metsä täyttyi yönsä hiljaisuudesta ja heidän ystävyysseikkailunsa oli päättynyt onnellisesti.
+
+Seuraavana aamuna, kun Kalle heräsi, hän kuuli tutun äänen.  "Prö! Prö! Prö!" Pikku-Pippa oli puun latvassa ja tervehti Kallea iloisesti.  He tutustuivat jälleen pian ja jatkoivat yhdessä hauskoja seikkailuja.  Ystävyys oli vahva ja he osasivat nauttia metsästä yhdessä!
+</body>

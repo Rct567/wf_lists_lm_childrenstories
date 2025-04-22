@@ -1,0 +1,65 @@
+<prompt>
+Please write a timeless Portuguese (Portugal) children's story that is at least 1000 words long.
+It must be completely written in proper Portuguese (Portugal) (PT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A Cozinheira Alice e a Receita do Bolo de Chocolate Delicioso.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pt</lang_id>
+
+```xml
+<title>A Cozinheira Alice e a Receita do Bolo de Chocolate Delicioso.</title>
+<body>
+Numa pequena vila pitoresca, aninhada entre colinas verdejantes e o mar azul cintilante, vivia a Cozinheira Alice. Alice não era uma cozinheira qualquer; ela tinha um dom especial para transformar os ingredientes mais simples em verdadeiras obras-primas culinárias. A sua especialidade, o seu orgulho e alegria, era o Bolo de Chocolate Delicioso.
+
+A padaria da Alice, pintada num alegre amarelo sol, era o ponto de encontro favorito das crianças da vila. Todas as tardes, após a escola, os pequenos corriam para a padaria, os olhos brilhando de esperança, sabendo que podiam contar com um pedaço do famoso bolo. O aroma do chocolate, que se espalhava pelas ruas, era um convite irresistível.
+
+Alice era uma mulher de rosto redondo e bochechas rosadas, com cabelos grisalhos sempre presos num coque impecável. Os seus olhos, azuis como o oceano, brilhavam com alegria e bondade. Ela adorava crianças e, com cada bolo que assava, espalhava felicidade e doçura.
+
+Certa manhã, enquanto preparava a sua loja para um novo dia, Alice percebeu que a sua receita secreta do Bolo de Chocolate Delicioso, a receita que passava de geração em geração, havia desaparecido. Um calafrio percorreu-lhe a espinha. Sem a receita, como poderia fazer o bolo? Como poderia levar a alegria às crianças?
+
+Desesperada, Alice vasculhou todos os cantos da padaria, revirando gavetas, prateleiras e baús antigos. Nada. A receita tinha desaparecido como fumo. O coração de Alice afogou-se em tristeza.
+
+Enquanto reflectia sobre a situação, ouviu uma batida suave na porta. Era o pequeno Tomás, um menino com um sorriso travesso e cabelo desgrenhado. Ele entrava todos os dias para comprar um pedaço de bolo e contar à Alice as suas aventuras.
+
+"Bom dia, Alice!" disse Tomás, com os olhos arregalados. "Estou pronto para o meu pedaço de bolo de chocolate."
+
+Alice, com a voz embargada, explicou a Tomás a terrível notícia. "A receita... desapareceu. Não posso fazer o bolo hoje."
+
+A tristeza de Tomás reflectiu-se no seu rosto. "Mas… mas o bolo de chocolate é o meu favorito!" exclamou, desapontado.
+
+Vendo a decepção do menino, Alice sentiu uma pontada de determinação. "Não te preocupes, Tomás," disse, com um brilho nos olhos. "Encontraremos uma solução. Juntos!"
+
+Tomás, entusiasmado com a ideia de ajudar, pulou de alegria. "Eu ajudo! Onde procuramos?"
+
+Alice sorriu, tocada pela lealdade do pequeno Tomás. "Primeiro, precisamos pensar. Onde poderia a receita estar? Aonde a colocamos sempre?"
+
+Juntos, começaram a tentar lembrar-se do paradeiro da receita. Percorreram memórias, recordações e lembranças dos momentos de cozinhar o bolo. Começaram a analisar os passos da preparação: primeiro, a escolha do cacau de qualidade, o segredo que dava um sabor especial. Recordaram o toque delicado do açúcar, a textura fofa da farinha e a leveza dos ovos.
+
+De repente, Tomás exclamou: "Alice! Lembro-me! Uma vez, quando eu estava a ajudar-te, a receita caiu atrás do armário!"
+
+Alice arregalou os olhos. "É verdade! Mas nunca mais a encontrei..."
+
+Com a ajuda de Tomás, Alice afastou cuidadosamente o pesado armário de madeira. Atrás, na escuridão, viram um pequeno pedaço de papel dobrado. Era a receita!
+
+Alice e Tomás abraçaram-se de alegria. A receita estava salva!
+
+Rapidamente, Alice reuniu os ingredientes. Tomás, entusiasmado por ajudar, ofereceu-se para lavar as frutas e bater os ovos. Alice, com um sorriso radiante, começou a seguir as instruções da receita.
+
+A cozinha da padaria encheu-se de aromas deliciosos. A mistura de chocolate e farinha, o perfume suave da baunilha e a frescura da fruta criavam uma sinfonia olfactiva.
+
+Enquanto o bolo assava no forno, Alice e Tomás contavam histórias e riam. A preocupação inicial desapareceu, substituída por uma sensação de companheirismo e alegria.
+
+Finalmente, o momento esperado chegou. Alice retirou o bolo do forno, cuidadosamente. Estava dourado, fofo e com um cheiro maravilhoso. Decorou-o com raspas de chocolate, cerejas frescas e um pouco de açúcar em pó.
+
+Quando as crianças da vila entraram na padaria naquele dia, os seus olhos brilharam com a visão do bolo. Alice, com um grande sorriso, cortou as fatias e entregou-as a cada criança.
+
+O Bolo de Chocolate Delicioso da Alice sabia melhor do que nunca. Tinha um sabor especial, um sabor feito de trabalho de equipa, perseverança e amor. Cada dentada era uma celebração da amizade e da capacidade de superar desafios.
+
+Desde aquele dia, a padaria da Alice continuou a ser um lugar mágico, onde as crianças podiam encontrar alegria e doçura. E a Cozinheira Alice, com a sua receita recuperada e a ajuda do seu fiel amigo Tomás, continuou a espalhar felicidade e a aquecer os corações de todos com o seu Bolo de Chocolate Delicioso. A história da Cozinheira Alice tornou-se uma lenda na vila, passada de geração em geração, um testemunho do poder da amizade, da perseverança e da importância de partilhar alegria.
+</body>
+```

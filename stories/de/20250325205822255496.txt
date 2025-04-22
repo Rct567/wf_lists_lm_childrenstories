@@ -1,0 +1,70 @@
+<prompt>
+Please write a simple and easy-to-follow German children's story that is at least 1000 words long.
+It must be completely written in proper German (DE).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Die verrückten Abenteuer der drei Zauberpilze'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>de</lang_id>
+
+```xml
+<title>Die verrückten Abenteuer der drei Zauberpilze</title><body>
+Es war einmal in einem tiefen, grünen Wald, nicht weit entfernt von einem kleinen, gemütlichen Dorf, ein Trio von ganz besonderen Pilzen. Diese Pilze waren keine gewöhnlichen Waldpilze; nein, sie waren Zauberpilze! Und sie nannten sich Fridolin, Brunhilde und Konrad.
+
+Fridolin war der kleinste der drei, mit einem leuchtend roten Hut mit weißen Punkten. Er war der aufgeregteste und neugierigste von allen. Seine Spezialität war es, Glückseligkeit und Kicherlachen zu verbreiten. Wenn man Fridolin aß, musste man einfach lachen!
+
+Brunhilde, die mittlere im Bunde, hatte einen blauen Hut mit gelben Sternen. Sie war die Weise und Bedächtige. Brunhilde konnte Träume in die Realität verwandeln. Sie liebte es, Geschichten zu erzählen und ihren Freunden zu helfen, ihre Wünsche zu erfüllen.
+
+Konrad, der Größte, trug einen grünen Hut mit braunen Flecken. Er war der Mutigste und Stärkste der drei. Konrad besaß die Gabe, Schutz und Stärke zu verleihen. Wer ihn aß, wurde unerschrocken und konnte jede Herausforderung meistern.
+
+Eines sonnigen Morgens, als die Vögel ihr fröhliches Zwitschern anstimmten, beschlossen die drei Zauberpilze, ein Abenteuer zu erleben. "Ich habe gehört, dass im Norden ein verstecktes Tal voller Kristallblumen liegt!", sagte Fridolin aufgeregt. "Lasst uns dorthin reisen!"
+
+Brunhilde nickte zustimmend. "Eine Reise ist eine wunderbare Idee! Aber wir sollten uns vorbereiten. Wir brauchen Proviant und..."
+
+Konrad unterbrach sie lachend: "Quatsch, Brunhilde! Wir sind Zauberpilze! Wir brauchen gar nichts! Alles, was wir brauchen, ist unsere Magie!"
+
+Also machten sie sich auf den Weg. Fridolin hüpfte vor Freude, Brunhilde las eine Karte von den Sternen, die sie sich im Kopf gespeichert hatte, und Konrad ging voraus und bahnte den Weg durch das Unterholz.
+
+Zuerst kamen sie an einem reißenden Fluss vorbei. Fridolin zögerte: "Oh, der Fluss sieht gefährlich aus!"
+
+"Keine Sorge", sagte Konrad und lachte. Er berührte den Fluss mit seinem Hut. Sofort verwandelte sich das Wasser in einen soliden Eisweg. So überquerten sie den Fluss ganz einfach.
+
+Auf der anderen Seite des Flusses trafen sie auf einen knurrenden Bären. Der Bär war hungrig und sah die Pilze als leckere Mahlzeit. Fridolin zitterte vor Angst.
+
+"Ich werde mich darum kümmern", sagte Konrad und trat vor. Er berührte seine Freunde mit seinem Hut. Sofort spürten sie Mut und Stärke. Konrad blickte den Bären in die Augen. Der Bär, überwältigt von Konrads Stärke, schnaubte und trottete davon.
+
+Weiter ging die Reise. Sie durchquerten einen dunklen, unheimlichen Wald. Die Bäume waren so dicht, dass kein Sonnenlicht hindurchdrang. Fridolin begann, sich zu fürchten. "Ich sehe Gespenster!" flüsterte er.
+
+Brunhilde berührte ihre Freunde. "Vertraut mir!" flüsterte sie. Sofort sahen sie in der Dunkelheit bunte, schimmernde Farben. Die Bäume begannen zu leuchten. Es waren keine Gespenster, sondern freundliche Waldgeister.
+
+Endlich erreichten sie das Tal der Kristallblumen. Das Tal war noch schöner, als sie es sich vorgestellt hatten. Die Kristallblumen glänzten in allen Farben des Regenbogens. Sie leuchteten wie tausend kleine Sterne.
+
+Doch plötzlich entdeckten sie etwas Schreckliches. Ein großer, hässlicher Drache hatte das Tal besetzt und die Kristallblumen mit seinem Feuer zerstört. Der Drache brüllte und drohte, das ganze Tal zu verwüsten.
+
+Fridolin weinte. "Wir können nichts tun! Wir sind zu klein!"
+
+Brunhilde suchte nach einer Lösung. Sie berührte ihre Freunde. "Wir müssen dem Drachen einen Traum schicken!", sagte sie entschlossen.
+
+Konrad nickte. "Ich werde den Drachen ablenken, während du dich konzentrierst, Brunhilde!"
+
+Konrad rannte auf den Drachen zu und schrie ihn an. Der Drache war überrascht und wusste nicht, wie ihm geschah. Brunhilde schloss die Augen und konzentrierte sich fest auf einen schönen Traum: eine Welt voller Freundschaft, Liebe und Schönheit.
+
+Langsam, aber sicher begann der Drache sich zu verändern. Seine Augen wurden weicher, sein Feuer erlosch. Stattdessen schimmerte er nun in den Farben der Kristallblumen. Er hatte den Traum gesehen und war gerührt.
+
+Der Drache sprach mit sanfter Stimme: "Ich wollte nur beschützt werden. Niemand hat mich lieb gehabt."
+
+Fridolin, Brunhilde und Konrad waren sich einig, dem Drachen zu helfen. Fridolin gab dem Drachen einen kleinen Zaubertrunk zum Lachen, damit er glücklich wurde. Brunhilde erzählte ihm Geschichten von Freundschaft, so dass er verstand, wie wichtig Freunde sind. Konrad zeigte dem Drachen, wie man das Tal wiederherstellt, und so lernte der Drache, das Tal und seine Schönheit zu beschützen.
+
+Gemeinsam arbeiteten sie daran, das Tal wieder aufzubauen. Der Drache säte die Samen der Kristallblumen, und die Zauberpilze sorgten dafür, dass sie schnell wuchsen. Das Tal erstrahlte in neuem Glanz.
+
+Die drei Zauberpilze lebten mit dem Drachen glücklich im Tal der Kristallblumen. Sie halfen den anderen Waldbewohnern und erlebten weiterhin aufregende Abenteuer. Sie lernten, dass Freundschaft und Mut alles bewältigen können.
+
+Von diesem Tag an erzählten sie ihre Geschichte immer und immer wieder, an alle Kinder und Erwachsenen, die es hören wollten. Sie erinnerten sich oft an ihr verrücktes Abenteuer und wussten, dass sie zusammen alles schaffen konnten. Und so lebten die drei Zauberpilze und der Drache glücklich und zufrieden im Tal der Kristallblumen, immer bereit für ein neues Abenteuer!
+
+Manchmal, wenn man durch den Wald geht und genau hinsieht, kann man vielleicht sogar einen kleinen roten Hut mit weißen Punkten, einen blauen Hut mit gelben Sternen und einen grünen Hut mit braunen Flecken sehen. Oder, wenn man ganz viel Glück hat, einen Drachen, der das Tal der Kristallblumen beschützt. Vielleicht auch alle zusammen. Denn Magie existiert überall, man muss nur daran glauben. Und wenn man Glück hat, bekommt man sogar ein Lachen vom kleinen Fridolin oder einen Traum von Brunhilde oder Stärke von Konrad!
+</body>
+```

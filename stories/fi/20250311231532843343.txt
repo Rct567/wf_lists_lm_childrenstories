@@ -1,0 +1,52 @@
+<prompt>
+Please write a simple and easy-to-follow Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Tähkäpään Ja Lauran Iloinen Päivä: Kumma Kukkula Ja Salaperäiset Sirkat.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>fi</lang_id>
+
+<title>Tähkäpään Ja Lauran Iloinen Päivä: Kumma Kukkula Ja Salaperäiset Sirkat</title>
+<body>
+Tähkäpään ja Lauran kesä oli täynnä upeita seikkailuja.  He asuivat pienessä metsässä, jonka reunalla virisi kirkas puro. Tähkäpää oli pieni, reipas poika, jolla oli aina iloinen hymy kasvoillaan. Laura taas oli tyttö, jolla oli upeat silmät, jotka kimmeltäivät kuin korallihelmiä auringonpaisteessa.
+
+Yhtenä aamuna, kun aurinko maalasi taivaan herkullisilla oransseilla ja vaaleanpunaisilla sävyillä, Tähkäpää ja Laura lähtivät tutustumaan uuteen mäkeen, josta oli usein kuultu kumia ja salaperäisiä ääniä.  Kukkula oli korkea, ja sen rinne oli peitetty kauniilla, vaaleanvihreillä nurmikoilla. Matkalla kukkulan juurelle he tapasivat vanhan, viisaan mäntypuun, jonka latvuksessa riippui valkoinen lintuhavaintoaamulehti.
+
+"Onko kukkulassa joku kummallista?", Laura kysyi hiljaa.
+
+"Ehkä, se saattaa olla paikka, missä sattuu salaperäisiä tarinoita", vastasi mäntypuu viisasti. Sen kuoresta kuului kuoppa-ääniä.
+
+Kukkulan laella he löysivät  suuren, pyöreän niityn, joka oli täynnä kiehtovia, värikkäitä kukkia.  Mutta eipä siitä kaikki.  Pieniä, salaperäisiä siroketta lentäessä, tanssiessaan ja loimotessa niittyyn valoa kirkkaan siniseltä taivaalta.
+
+"Oi! Katso siroja", kiljui Laura.  Sirkat näyttivät kimmeltävän hopean värinisiä, tai vihreitä ja punaisia kuin upeat metsän helmitanssijat. Ne söivät kukkia ja loimottivat valoa joka paikkaan niitylle, jonka ilmakehä säilyi mystisen hiljaisena. 
+
+Tähkäpää katseli ihastuneena siroja.  "Miten mahtavat lentää noin hiljaa?". hän mietti.
+
+"Ehkä ne ovat pikkuinen salaisuuspuiston hengitystä" mietti Laura.  
+
+He istuivat hetkeksi  maakuivilla niityn reunalla, ihmetellen  pikkusia lennettyjä ja hyönteisistä syntyviä siroja. Näyttäydessä onnettomuus sattui yllättäen.  Yhtäkkiä pilvistä tippuivat suurikatteet jänistä.  Se ryntäsi niitylle  kaappaaman sirkon!  Se näytti vauhdikas ja raivon täyteisenä se heitti itsensä niitylle
+
+"Autaa jänistä!" Tähkäpää huusi, kun nämä kauniit sirkat yhtä hurjan leikkisiksi. Laura juoksi apuun ja kaveri sai  tuoda takaisin rauhaa. 
+
+"Siirat ovat osa maailmaa!"  mäntypuu selitti. "Sirkat ovat valtavan hyödyllisiä, koska he keräävät hedelmiä ja siemeniä"
+
+"Mutta miksi jänis kaapasi sirkan?" Laura ihmetteli.
+
+"Jänis on aina hakemassa ruohoa tai herkullisia syötäviä asioita", selitti  mäntypuu, " Ja  niin, ehkä nämä sirkat, olivatkin niin houkuttelevia hän ei  tässä  yksityisessä niityssä. Ja ehkä ne keräävät siemeniä yhdessä."
+
+Tähkäpää ja Laura nauroivat ja ymmärtävät, miten tärkeä kaikista oli  kesyttäjä on.  He pysyttelivät niityllä vielä hetken, ihaillen  sirojen tanssia. Sitten he lähtivät, mukanaan ihania muistoja ja valppaat tuntemuksia, jonka maailmassa oli vielä paljon kiehtovaa, odottamassa löytöä, löytää ja tutustua. 
+
+
+Matkalla takaisin he tapasivat taas vanhan mäntypuun, ja se nauroi.
+
+
+"Näette, että kukkulan  täyttäviä ilmeitä voi löytää, vain jos katselette herkkiä herkkiä ystävienne hengittämässä!" selitti mänty. 
+
+
+Auringonlasku maalasi taivaan värikkäiksi sävyiksi ja Tähkäpää ja Laura tiesivät, että  heidän päivä oli todella ihmeellinen, täynnä iloa, ystävyyttä ja upeita seikkailuja. He lähtivät kotiinsa  ilmaisilla hymyillä kasvoillaan,  lupatuen, että he palasivat pian uusiin seikkailuihin.  Metsä vastasi hämmentyvän hengityksen ja suloisen vinkunsa heidän lempeille silmilleen. 
+</body>

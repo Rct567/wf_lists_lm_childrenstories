@@ -1,0 +1,49 @@
+<prompt>
+Please write a educational Kongo children's story that is at least 1000 words long.
+It must be completely written in proper Kongo (KG).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>kg</lang_id>
+
+```html
+<title>Nsunga ya Mbote na Mvwani</title>
+<body>
+Nzayaka mwana mosi, zina diandi Kele, o yandi vandaka ti nsunga ya mbote na mvwani.  Nsunga yango vandaka nene mpi ya kitoko.  Nsunga yango vandaka ti divu ya buluku mpi makanda ya mpembe, mpi yo vandaka ti meso ya nene ya makanda ya bunkete, ya pwelele.  Kele vandaka kuzola nsunga na yandi mingi, mpi yandi vandaka kutunga yo mbote na mvwani.
+
+Konso kilumbu, Kele vandaka kunata nsunga na yandi na divu.  Yandi vandaka kulonguka mambu mingi ya kitoko na konso kilumbu.  Yandi vandaka kumona bambanza ya kitoko mpi bisika ya mbote.  Kele vandaka kukumisa makanda ya mpembe ya nsunga na yandi ti madia ya mbote, mpi yandi vandaka kutanina nsunga na yandi ti dibaya ya pwelele.
+
+Mvula mosi, madia ya mbote kumaka mingi ve na divu.  Nsunga ya Kele kumaka na nzala.  Maboko ya Kele kumaka kuzola nsunga na yandi mingi.   Maboko ya Kele vandaka kumona ndola ya madia na masa, mpi mbala na mbala, madia vandaka ya mpasi sambu na kulemba.  Ntangu nsunga ya Kele kumonaka mpasi, Kele kumonaka nsangu ya mpasi, sambu yandi zolaka nsunga na yandi.  Yandi vandaka kumona mpasi ti nsunga na yandi sambu yandi vandaka kubaka yo na mvwani mpi kukola mbote.
+
+Kele zabaka mutindu ya kusala, kansi yandi vandaka ve kuzaba bisika ya madia.  Yandi vandaka kundima ve nde nsunga na yandi fwete kufwa na nzala.
+
+Yandi tambikilaka mama na yandi nsangu, mpi mama yandi ndiminisaka yandi na kupasika na nzila ya divu.  Konso fulu yandi vandaka kukutana ti bambanza, yandi vandaka kukanisa bantu, sambu na kimpusa ya kuyika nsangu ti nsunga. Yand vandaka kumona bamvuama na luzingu na yandi mpi kupusina. Yandi vandaka kunwana ti makasi na nsunga na yandi, na kuyala madia.
+
+Mama yandi zabaka nde bantu ya muntu mingi kevandaka ti nsadisi.  Yandi ndimisaka yandi na kusala mutindu yina na bantu yina bo kemonaka.
+
+Kele vandaka kusala mukumba yina.  Yandi vandaka kuvutukila bantu sambu na kulomba luzingu ya mbote na nsunga na yandi. Yandi vandaka kulomba na bampumpa, na bambanza, na badikulu sambu na kusadila nsunga ya mbote na nsunga na yandi mpi na luzingu ya mbote.
+
+Yandi vandaka kumona bantu ya ntu mpi ya mboma na bantu ya banganga-ntoto, yandi vandaka kusala kisalu ya mbote, ti ndongisila ti kulomba na kuzitisa luzingu na yandi, yandi zabaka mutindu ya kusadila badikulu.  Bovandaka kuyindula ntangu bo vandaka kubaka yandi mpi kupesa yandi nsadisi.  Bovandaka kuyindula sambu bo vandaka kuzaba yandi mpi kulomba na ntima na yandi, kusadisa yandi.
+
+Na nsuka, Kele kukutana ti bantu mosi ya mbuta.  Bantu yango vandaka kuzaba bisika ya madia, mpi bo songaka yandi bisika ya mbote ya kusanga ba bisika ya kuzwa madia.  Bantu yango salaka nsadisi sambu na kulembika nsunga na Kele.  Bo songinaka nsunga ti bambuta mpi ba bisalu na nzila ya kubaka bisalu ya pwelele sambu na nsadisi ya maboko ya Kele, bo landaka yandi ti luzingu mpi kukitula yango na mukumba ya kimuntu na kimuntu ya mbote.
+
+
+Kele mpi nsunga na yandi kumaka kudia mbote.  Nsunga vandaka kola mbote, yo vandaka  kutunga mbote mpi yo kumaka ya kitoko.  Kele kumaka kumonisa luzingu ya nsunga na yandi, kusala ti yo sambu na kununga makasi na luzingu na ntoto mpi yandi vandaka kubaka nsadisi.
+
+Nsunga ya Kele vandaka na maboko ya nsoni.   Na luzingu yina, yandi vandaka kuyedisa luzingu ya mbote.
+
+
+Kele landaka nsunga na yandi na luzingu na yandi ya mbote mpi nsunga na yandi ya mbote.  Yandi yikaka madia na yandi, mpi na kulonguka ti bayikula ya kitoko ya yandi mpi yo salaka mambu ya mbote.  Yandi kumaka kuzwa madia mpi kumonisa mutindu ya kukila luzingu, sambu  bima yina yikaka ya mbote.
+Yandi zabaka ntangu yandi kukumika maboko na yandi.  Nsunga na yandi zabaka mpi, yo salaka ti yandi sambu na  luzingu ya mbote.
+
+
+Kele songaka nsunga na yandi  mambu yonso yandi vandaka kulonga mpi, yandi sadisaka yo na luzingu.
+Nsunga kumaka ya kyeyeyaka  mpi  ya kzola.  Nsunga mpi Kele vandaka kumona ngolo mpi mpwanza na nima ya mawa, yandi zabaka luzingu ya mbote mpi luzingu ya mbote, na nsunga na yandi mpi luzingu.
+
+Yo vandaka luzingu ya kyeyeye, luzingu ya kubaka, ya luzingu,  luzingu ya kwikama.   Mpi Kele na nsunga na yandi landaka luzingu yina, na kiese na ntima.
+</body>
+```

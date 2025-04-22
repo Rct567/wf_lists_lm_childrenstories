@@ -1,0 +1,53 @@
+<prompt>
+Please write a emotional French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'L'Oiseau et la Chanson d'Amour'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```xml
+<title>L'Oiseau et la Chanson d'Amour</title>
+<body>
+Au cœur de la forêt enchantée, où les arbres touchaient le ciel et les rivières chantaient des mélodies secrètes, vivait un petit oiseau appelé Bleu. Bleu n'était pas comme les autres oiseaux. Tandis que ses amis virevoltaient, picoraient et gazouillaient des chansons joyeuses, Bleu, lui, portait en lui une tristesse insondable. Son plumage, autrefois d'un bleu vibrant, était devenu terne, reflétant l'ombre qui pesait sur son cœur.
+
+Un jour, tandis qu'il se posait sur la branche la plus haute d'un chêne majestueux, il entendit une mélodie. Une chanson, une véritable symphonie de l'âme, qui semblait flotter dans l'air, emportée par le vent. Elle venait d'un ruisseau, le Ruisseau des Soupirs, qui serpentait à travers la forêt. Bleu, fasciné, suivit le son.
+
+Au bord du ruisseau, une jeune fille était assise. Ses longs cheveux blonds, tressés de fleurs sauvages, brillaient au soleil. Elle jouait d'une flûte faite de roseau, et les notes qui s'échappaient de l'instrument remplissaient l'air d'une beauté déchirante. C'était la chanson d'amour, une chanson parlant de perte, de chagrin et d'espoir, tissée de larmes invisibles et de souvenirs précieux.
+
+Bleu, le cœur serré, écoutait. Les notes résonnaient avec la tristesse qu'il portait en lui, la décrivant mieux qu'il n'aurait jamais pu l'exprimer. Chaque note était une goutte de pluie sur son plumage terne, chaque mélodie un murmure de compréhension. Il resta là, immobile, des heures durant, les yeux rivés sur la jeune fille.
+
+La jeune fille, qui s'appelait Elara, remarqua l'oiseau. Ses yeux bleus, profonds comme un lac, brillèrent de compassion. Elle continua à jouer, mais maintenant, ses notes étaient un peu différentes. Elles contenaient une promesse de réconfort, une ode à la guérison.
+
+Chaque jour, Bleu retournait écouter Elara. Il se posait près d'elle, silencieux et attentif. Il ne chantait pas, mais sa présence semblait apporter à Elara une douceur particulière. Elle parlait à l'oiseau, lui racontant des histoires, lui confiant ses peines. Elle lui racontait l'amour qu'elle avait perdu, un amour aussi fort que le soleil, et aussi présent que le vent. Elle lui parlait de ses rêves, brisés, de son espoir de trouver un jour la paix, d'alléger ce poids lourd qui reposait sur son cœur.
+
+Bleu écoutait, son cœur s'ouvrant lentement. Le bleu de son plumage commençait à scintiller à nouveau, refleter la lumière du soleil et celle des larmes partagées. Il sentait qu'un lien profond se créait entre lui et Elara, un lien fondé sur la compréhension mutuelle, le chagrin commun, et le besoin incommensurable de tendresse.
+
+Un soir, alors que le soleil déclinait, colorant le ciel de teintes pourpres et orangées, Elara joua une nouvelle mélodie. Cette fois, c'était une chanson de courage, d'espoir et d'amour retrouvé. Bleu sentit quelque chose se débloquer en lui. Une douleur ancienne, bien enfouie, se libéra.
+
+Il ouvrit son bec et, pour la première fois depuis longtemps, chanta. Ce n'était pas un chant gai et léger comme ceux de ses amis. C'était une mélodie pleine de tristesse, d'une tristesse aussi profonde que l'océan, mais mêlée d'une pointe de gratitude et d'espoir. Il chanta sa douleur, son désespoir, mais aussi sa foi en l'amour, en la vie, et en la beauté du monde.
+
+Elara cessa de jouer. Des larmes perlèrent sur ses joues, mais cette fois, c'était des larmes de joie. Elle savait que l'oiseau avait trouvé le moyen d'exprimer ce qui était enfoui en lui. Elle sentit une joie immense envahir son cœur, comme si elle venait elle-même d'être libérée d'un poids.
+
+Pendant des semaines, ils partagèrent ces moments, la musique d'Elara se mêlant au chant de Bleu. Ils s'épaulaient l'un l'autre, s'apportant du réconfort et du courage. Elara ne se sentait plus seule. Son chagrin s'était atténué. Bleu retrouva sa joie de vivre et, avec elle, la brillance de son plumage.
+
+Un matin, Elara sentit que le temps de son départ était venu. Elle savait qu'elle devait partir, explorer de nouveaux horizons, trouver de nouvelles sources de joie et de paix. Elle alla dire au revoir à Bleu, au bord du Ruisseau des Soupirs.
+
+Elle joua sa dernière chanson, une mélodie légère et pleine d'espérance. Le chant d'adieu, promettant que l'amour, comme le soleil, se lève toujours après la nuit.
+
+Bleu chanta à son tour. Sa mélodie était douce, remplie d'amour et de gratitude. Il lui disait qu'il ne l'oublierait jamais, que son cœur porterait toujours le souvenir de leur amitié.
+
+Quand la dernière note de sa chanson se fut éteinte, Elara souria, les larmes aux yeux. Elle prit le petit oiseau dans sa paume. Elle lui dit qu'il serait toujours dans son cœur, et qu'il avait été sa meilleure thérapie, son meilleur ami.
+
+Puis, Elara s’éloigna, disparaissant dans les profondeurs de la forêt.
+
+Bleu resta seul, sur la branche d'un arbre, les yeux humides. Il se sentait triste, comme le jour où il avait rencontré Elara. Mais cette fois, il sentait aussi une force nouvelle. La chanson d'amour, qu'il avait partagée avec Elara, l'avait transformé. Elle lui avait donné le courage d'affronter le monde, et d'apprécier la beauté de chaque instant.
+
+Il regarda le ciel bleu, rempli de promesses. Il savait qu'Elara lui manquerait. Mais il savait aussi que leur amitié, leur chanson d'amour, vivrait à jamais en lui. Il ouvrit son bec et chanta une nouvelle mélodie, une chanson pleine d'espoir, de gratitude et d'amour. Une chanson pour Elara, pour la forêt, pour la vie. Il vola haut, toujours plus haut, portant cette chanson au plus loin, au-delà des arbres, au-delà des montagnes, vers l'horizon infini. Son chant se mélangeait au vent, porteur d'une douce mélodie pour tous ceux qui l'entendaient. Et, tandis qu'il chantait, le soleil brillant illumina sa nouvelle joie, prouvant que la tristesse, un jour, se transforme toujours en amour.
+</body>
+```

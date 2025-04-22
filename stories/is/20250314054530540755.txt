@@ -1,0 +1,66 @@
+<prompt>
+Please write a light-hearted Icelandic children's story that is at least 1000 words long.
+It must be completely written in proper Icelandic (IS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Bjarni blýskurðurinn og bjöllur þetta byggðabæja'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>is</lang_id>
+
+```xml
+<title>Bjarni blýskurðurinn og bjöllur þetta byggðabæja</title><body>
+Hjá fjörunum fallegu, undir bláum himni Íslands, bjó Bjarni blýskurður. Hann var ekki venjulegur blýskurður. Bjarni var nefnilega einstaklega glaðlyndur og fannst gaman að skemmta sér. Hann hafði litla rauða húfu sem hann gekk alltaf með, og í vasa sínum voru alltaf litlir steinar sem hann safnaði frá öllum hornum landsins.
+
+Einn daginn, þegar sólin skein skært og sjórinn var spegilsléttur, var Bjarni á gangi um þorpið sitt, Hvammstanga. Hvammstanga var lítill en notalegur bær, fullur af litríku húsum og vingjarnlegum íbúum. Bjarni gekk og fór framhjá húsunum, og heyrði þá allt í einu hávært "BRRRRRRRR!"
+
+"Hvað var þetta?" hugsaði Bjarni, og kallaði á undan sér, "Halló? Er einhver þarna?"
+
+Svarið kom fljótt, og af hljómi sem Bjarni kannaðist ekki við. "BRRRRRRR! Við erum hér!"
+
+Bjarni fór að leita að hljóðinu, og sá þá... nei! Þetta var ótrúlegt! Í kringum hann flögruðu tugir af stórum, glimmerandi bjöllum. Þær voru allar mismunandi litum: sumar voru grænar eins og mosinn, aðrar bláar eins og sjórinn, og nokkrar voru gylltar eins og sólin.
+
+"Hverjar eruð þið?" spurði Bjarni, agndofa.
+
+Ein af stærri bjöllunum, sem var djúplil af dökkum fjólubláum lit, flaug nær og svaraði: "Við erum Bjöllur þetta byggðabæja! Við erum alltaf að leita að nýjum, skemmtilegum stöðum til að búa á!"
+
+"Bjöllur þetta byggðabæja?" endurtók Bjarni, undrandi. "En... hvers vegna ert þið svona margar?"
+
+"Jú," svaraði önnur bjalla, þessi var skærgul, "við erum allar úr mismunandi bæjum um allt Ísland! Okkur langar að finna eitt yndislegt samfélag, eitt heimili fyrir okkur allar!"
+
+Bjarni var strax áhugasamur. Hann elskaði Hvammstanga, og hugsaði: "Þetta gæti verið einstaklega skemmtilegt!"
+
+"Það er frábært hér í Hvammstanga!" sagði Bjarni, og breiddi út hendurnar. "Húsin eru litrík, fólkið er vingjarnlegt, og landslagið er ótrúlegt. Viltu kannski vera hérna?"
+
+Bjöllurnar kynntust hver annarri. Nokkrar af þeim kalla á hvor aðra "Bjalla Blússurð", "Bjalla Blíða", "Bjalla Dalla" og þar fram eftir götunum, sem bjuggust til um að taka um hugmynd Bjarna, og skiptust um að skoða bæinn.
+
+Djúpbláa Bjallan, sem hét Birna Blika, kynnti Bjarna að einu til að kveikja á sér þegar Bjarni byrjaði að leiða þær á skoðunarferð um bæinn, eitt af þessum húsum var appelsínugult og eitt grænt, og eitt rautt eins og húfa Bjarna. Þær gáfu skoðuðu kirkjuna, sem var svo hár að bjöllurnar þurftu að svífa langt upp til að líta yfir. Þær skoðuðu bókasafnið, og glöddust yfir öllum sögunum sem geymdar voru þar. Og svo skoðuðu þær ísbúðina.
+
+"Mmm... ís!" sagði Birna Blika og nuddaði kviðinn. "Vá, hvaða bragð á að velja?"
+
+Bjarni hló. "Við getum allar fengið ís! Við verðum bara að sjá til þess að bjalla-ísinn okkar hjaðni ekki of fljótt."
+
+Eftir að allar bjöllurnar höfðu fengið sér ís, ákváðu þær að fara í göngutúr með ströndinni. Þar sá Bjarni og Bjöllur margt. Þær sá hvítt, fallegt fugla, mörg falleg skeljar, og hvali í fjarlægð.
+
+Þegar sólin fór að halla, vissu Bjarni og bjöllurnar að þeir voru að finna fullkomið heimili fyrir þær allar. Bjöllur þetta byggðabæja fannst Hvammstanga æðislegur bær, þar sem þær gátu verið saman, flögrað um, borðað ís og spjallað saman í sólinni.
+
+En það var einn vandi. Hvar áttu bjöllurnar að búa? Bjöllur þetta byggðabæja voru of margar til að búa í einu húsi.
+
+"Ég veit!" sagði Bjarni skyndilega. "Ég skal tala við borgarstjórann! Við getum fengið að byggja okkar eigin, litla bæ í Hvammstanga! Bjöllu-bæ!"
+
+Allar bjöllurnar fögnuðu þessari hugmynd. Bjarni hljóp á stað til borgarstjórans, og útskýrði hvað væri í gangi. Borgarstjórinn, sem hét Sigrún, var hrifin. Hún elskaði allt sem gladdi fólk og gæti gert bæinn betri. Hún kallaði þetta einstakt tækifæri fyrir bæinn. Hún gat ekki ímyndað sér betri kost.
+
+"Þetta er frábær hugmynd, Bjarni!" sagði Sigrún. "Ég skal finna góðan stað fyrir bjöllu-bæinn, og við munum hjálpast að að byggja hann."
+
+Og þannig varð til Bjöllu-bærinn. Húsin voru lítil og litrík, eins og bjöllurnar sjálfar. Það var blómagarður fyrir allar Bjöllurnar, lítil sundlaug, og ísbar þar sem allar bjöllurnar gátu fengið sér ís eins oft og þær vildu. Og þar var því alltaf hljóð: "BRRRRRRRR!"
+
+Bjarni var hamingjusamur. Hann fann að fleiri og fleiri bjöllur komu. Hann gisti á fjölmörgum mismunandi stöðum, og einnig bjóst í nýja, flotta skála á bjöllubænum. Hann og Bjöllur þetta byggðabæja urðu bestu vinir. Þær flugu saman um himininn, spjölluðu, og glöddust yfir lífinu í litla, yndislega bænum Hvammstanga.
+Bjarni átti steina á fljölmörgum einstökum stöðum, allir skrautlegir, og Bjöllur þetta byggðabæja kynntu fyrir honum að finna fallegt form, eða fljúga upp í loftið með þeim á lofti, meðan hann leitaði, eða skoða, alla steina sína í bjartari sólinni. Bjarni skurðiði ný steina, átti ný litlar húfur, og hugsaði stöðugt upp ný ævintýri til að skemmta Bjöllur þetta byggðabæja, eins og allra bestum vinum.
+
+Og þegar kvöldaði, sat Bjarni, með litlu rauðu húfuna sína, og horfði á bjöllurnar svífa um í kvöldsólinni, vissi hann að hann hafði fundið stærsta ævintýrið af öllum.
+Og Bjöllur þetta byggðabæja og Bjarni lifðu hamingjusamlega, alla daga.
+</body>
+```

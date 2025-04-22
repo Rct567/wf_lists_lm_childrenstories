@@ -1,0 +1,29 @@
+<prompt>
+Please write a creative and original Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Ģēnu un vēršu gleznošanas sacensības'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lv</lang_id>
+
+<title>Ģēnu un vēršu gleznošanas sacensības</title>
+<body>
+Ģēnu un vēršu ciemats bija slavens ne tikai ar savām sulīgajām avenēm un smaržīgajiem pļavu ziediem, bet arī ar savu neparasto iedzīvotāju – gleznotājiem.  Te dzīvoja gan Ģēņi, gan Vērši, un abi šie dzīvnieku cilšu pārstāvji bija ārkārtīgi talantīgi glezniecībā.  Viņu gleznas bija tik iespaidīgas, ka pat saule apstātos, lai tās aplūkotu, un vēji dziedāja gleznu priekšā, aizrāvušies ar to skaistumu.
+
+Katru gadu Ģēnu un vēršu ciematā notika gleznošanas sacensības, un tās bija vissvarīgākā notikums visu iedzīvotāju dzīvē.  Sacensību laikā ciemats pārvērtās krāsu un iztēles burvju zemē.  Lielā, plašajā pļavā, zem krāšņām ozolīm, tika izvietotas gleznošanas galdi un krēsli.  Gaiss bija piepildīts ar krāsu un gleznu zīmuļu skaņu, un putni dziedāja īpašos, gleznošanas dziesmu ritmos.
+
+Šogad sacensībās piedalījās jaunā Ģēne, vārdā Gundega, un jauns Vēršs, vārdā Vilis. Gundega bija pazīstama ar savu neparasto spēju uztvert pasaules smalkākās detaļas un pārnest tās uz audekla.  Viņas gleznas bija pilnas ar maigiem toņiem un smalkām līnijām, un katrā viņas darba detalē piemītēja vēsture un dziļa jūta.  Vilis, gluži pretēji, bija pazīstams ar savu spēcīgo un dinamisko zīmējumu stilu. Viņa gleznas bija ekspresīvas un enerģiskas, pilnas ar dzirkstošām krāsām un drosmīgām līnijām.  Abi bija ļoti nosprausti, lai uzvarētu šajās sacensībās.
+
+Sacensību komisija, kuru veidoja gudrākie un pieredzējušākie ciemata iedzīvotāji, bija gatava vērtēt gleznas.  Tie bija ciema vecākais ozols, mūžsenā priede un gudrākais lapsenieks.  Gundega un Vilis, ar lielu nepacietību un aizrautību, pabeidza savas gleznas. Gundega gleznoja krāšņu saulrietu virs ezera, ar smalkām krāsām atstarojot gaismas spēli uz ūdens virsmas. Vilis gleznoja spēcīgu vētru, kas sita pret klinšainajiem pakalniem, ar dinamiskām krāsām atspoguļojot dabas spēku.
+
+Komisija, rūpīgi aplūkojot abas gleznas, sāka savu darbu.  Ozols, ar savu mūžseno gudrību, teica: "Gundegas glezna ir skaista kā ziedu pļava pavasarī.  Bet Vilisa glezna ir tikpat spēcīga kā pērkons debesīs." Priede pievienoja: "Gundegas gleznā ir jūtama mierīga meditācija, bet Vilisa gleznā – aizraujošs ceļojums."  Lapsenieks, ar savu izsmalcināto vērojumu, sacīja: "Abas gleznas ir neparastas un piepildītas ar sajūtām.  Gundegas darbs ir kā dziesma, kas iekļauj mieru, bet Vilisa glezna ir kā stāsts, kas iekļauj izaicinājumus."
+
+Pēc ilgām un rūpīgām pārdomām, komisija nolēma, ka abas gleznas ir neparastas un pelnījušas apbrīnu.  Tādēļ tika nolemts piešķirt abiem talantīgajiem māksliniekiem īpašas balvas.  Gundega ieguva balvu par gleznas maigumu un dziļumu, bet Vilis ieguva balvu par gleznas spēku un dinamiku. Abi bija laimīgi, jo gan Gundega, gan Vilis saprata, ka katrs mākslinieks ir unikāls un īpašs.
+
+Tā ciemats atkal izdziedāja priecīgus dziesmu ritmus, lepojies ar saviem dārgakmeņiem, gleznošanas meistariem.  Un gleznošanas sacensības kļuva par tradīciju, kas iedvesmoja jaunus talantus un iepazīstināja ciematu ar krāsu un iztēles brīnumiem, kur Ģēņi un Vērši gleznoja savas pasaules.
+</body>

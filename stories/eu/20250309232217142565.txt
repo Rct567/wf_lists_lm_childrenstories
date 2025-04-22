@@ -1,0 +1,45 @@
+<prompt>
+Please write a relatable Basque children's story that is at least 1000 words long.
+It must be completely written in proper Basque (EU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Euri Tantekin Jolasean Hasi Ziren Txori Txikien Abenturak'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>eu</lang_id>
+
+<title>Euri Tantekin Jolasean Hasi Ziren Txori Txikien Abenturak</title>
+<body>
+Mendi gainetan, baso lodietan, etxe txiki baten teilatuan, txori txiki bat bizi zen.  Zazpi txorixek osatzen zuten familia txikia, eta, batzuetan,  bere jostailuzko etxe txikien barruan jolasean hasi zuten egun guztiak. Txoriaren izena, Txoria, zen. Eta, bere anai-arrebak ziren:  Zuri, Gorri, Itsas, Argi, Belz, Larrosa eta Hortza.
+
+Udaberrian, lore ederrak hazten ziren basoan.  Eguzki beroak txoriei abesteko gogoa eman zien,  ezpain txikietatik doinu ederrenak botatzen zituzten. Txoria bere aitona-amonen abesti zaharrak gogoratzen hasi zen, basoko ahotsen doinu sakonak; eta, hala, bere txori-familia osoarekin jolasean ari ziren egun batean,  euri baten abisurik gabeko erorketa sentitu zen inguruan.
+
+Hasieran, euri txikien ziztada gisa heldu zen.  Txori-familiak ez zuen kezkatu hasieran.   "Euria gustatzen zait, Txoria!" zioen Gorrik. "Abesti ederrak izango ditu!", pentsatu zuen Txoriak.  Baina,  euria indartzen hasi zen,  zurrustaka eta gogaikarakor.  Txorik familiak ikasi zuen erlaitzpean egotea zinez beharrezkoa zela.
+
+Euri tantekin,  basoa oso polita zela ikusten hasi ziren txorixak. Loreen petalo hezea guztiak irribarreetan busti zitzaizkien.   Itsasoaren soinua, zuhaitz loretsuenen txistuaren zentzua aurrean zituztela.   Alegia, Txoria, bere aiton-amonen kanturik ezagunenetako bat gogoratu zuen.
+ 
+«Euriaren gogoa entzun zenuen behin?».
+
+ Txoria, orduan,  basoak euriaren erritmoarekiko zer eramaten zuen konturatu zen. Zuk mendiak urteak urte hauetan izan zen argi argitsua gogoratu duzu? Hasteko, zuregana hurbiltzen diren olatuen doinua, hain ederra izan behar duen bezala.
+
+"Txori familia guztiak batera ibili gara behin euria eta basoa bizitzat hartu ditugun bezala, hain ederra da" adierazi du Gorrik.
+
+Euria iraun zuen egun osoan. Txori txiki guztiek etxean pasa zuten.  Zazpi txoriek egun guztia jolasteko eta kantatzeko ahalegina egin zuten.  Irudiko zen, euriak txoriei asko gustatu zitzaien.
+
+Txori txiki bat izan zuten; aurpegien itzalak ur artean.  Iluntasuna.  Itsasoan bezala ibili ginen... Gorriren ahoak, zorionetik eta irekitasunetik euriak sortzen duen doinuari, iristen zen ahal bestean.  Beharrezkoa. Txoriek ikusi zuten beren burua.
+
+Argi, hasieratik hasten hasi zen bere aurrean zeukan belarri txikian pentsatzen; ea  txori guztiek entzuteko gaitasun egokia duten ala ez.   Beste txorik txori txikiek, egun bat beste baten antzean sentitzen hasten hasi ziren.  Bat-batean, txoria ahotsik eman ez duenari sentitu zen txorixaren inguruan, baina ez.
+
+Izan ere, egun batean, belzaren abestia izan zen eta txorixak sentitzen ziren.  Horretara eramaten zuena ez da batere ikusi izan zuen lehen baino.
+
+ Euria gelditu zen; argiaren islak zeudela behin-behinean. Zazpi txorik abestu egin zuten egun guztiaren eta haur-haritzaren doinu polita entzunez. Egunari buelta eman zioten.
+
+Goizean, mendiaren gailurretik eguzki-izpi urdin batzuk jausi ziren. Euria amaitu eta gero, loreen behealdea distiratsu eta bedeinkatuta egon ziren.  Euriari esker, basoa bizitzan egoteko bidean jarri zuten.
+
+Txoria txori txikia da basoan.  Hizkuntzaren bermea.  Eta, zure burua izateak zer esan nahi duen eta euren maiteak bizia mantentzeak, zinez ulertzen du.
+
+Ordutik aurrera,  Txori eta bere anai-arrebak ez zituzten inoiz ahaztu euriaren abentura zoriontsu hori, euria ez da inoiz baztertua, euria zinez beharrezkoa eta ederra da txori txikien bizitzetan, baita gutako bakoitzarentzat ere.
+</body>

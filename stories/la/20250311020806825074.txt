@@ -1,0 +1,41 @@
+<prompt>
+Please write a silly Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Ad astra per aspera: Iter Adolescentis Fortis'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>la</lang_id>
+
+<title>Ad astra per aspera: Iter Adolescentis Fortis</title>
+<body>
+In regione remota, ubi montes alti caelum contingere videbantur et flumina clara per vales resonabant, habitabat puer nomine Titus.  Non erat Titus puer mediocris; erat enim fortis, ingeniosus, et, quidam dicerent, paulo nimium curiosus.  Sua erat domus, parva quidem, sed cum horto magno, ubi rosaria pulchra florebant et  arbusta poma dulcia ferebant.
+
+Titus, dum spatiatus per hortum, invenit lapidem rotundum, fulgentem luce mira.  Scribere aliquid super lapide cupiebat, sed nulla erat pluma.  Quid ageret?  Accedens ad arboris ramum, videt passerem parvum, qui carmina suavem cantabat.  "Passer," inquit Titus, "an scribere potes?"
+
+Passer, qui nomen habebat Pip, mirebatur hominem.  "Scribere?  Ego?  Sed nos aves sumus, et cantus est nobis opus!  Verbum dicere in charta, non possum!"  Dixit Pip,  remissa voce.
+
+Titus, cum animus non frangeret, quaesivit, "Sedne, si litteras figurasque faceres?  Si in lapide formares imagines!"
+
+Pip, cum videret Titum, persto,  cogitans de arte et studio magno, respondit, "Honeste quaeris!  Quibus exemplis, quid tibi necesse est?  Expecta!"  Et cum hoc dixit, Pip ad calcem lapidem, ubi lucent aethelis flores, percussit alas suas leves.
+
+Cum celeriter volitasset, pulcherrima figuris formavit ex aeris in lapide lucente.  Solea pulchra cum figuris animalibus exaruit, et nubes et stellae pictas cum arcus iris.  Titus stupuit et dixit, "Mirabilis ars tua, Pip!"  Ut aliquid donare poterit, pip, Titus aedificavit alveum a quo poterant comedere semen.
+
+Deinde Titus percussit cortices arboreae pulchras ut litteras gradatim scriberet super lapide.  "Ad astra per aspera," scripsit. " Iter Adolescentis Fortis!"
+
+Haec verba, protinus erumpens ex ore, audiit inter herbam, quae resonans, et serpente, quod ad lapidem serpere per callem visibilitatem movens, perque arborem arbusti.   Quia hoc audiebant, Titus quaerere  inquit serpentes, aves et animales  quomodo ius et scientia cum studio paria sint, sed nihil responsum recepit, nisi responsa in lapidum et speculum litterarum erant.
+
+Deinde, Titus, cum lapide sub brachio, in  villam quam venerit, intravit.  Illic invenit senem sapientem nomine Aulus, qui litterarum et scientiarum peritus erat.
+
+Aulus, audiens narrationem Titum de avium litteris  et  de  "Ad astra per aspera,"  inquit, "Puer Titus!  Haec est vera sapientia.  Per difficultates ad astra pervenimus.  Adhuc multum debes discere.  In mundo magnitudine multa est et magnam laborem."
+
+Titus et Pip ad astra iuvabant, volans sursum in celsitudinem coelumque, volans cum aviolis ad astra cum stellae et lunae volantibus, et omnia animalia qui currebant cum vita, ad Astra per Aspera percursum.
+
+Et sic Titus, per aspera iter suum continuavit, cum amico avi Pip et consilio Aulus, in suo itinere ad astra per aspera.
+
+Igitur, siquis puer vel puella  magnos vult habere, et in terris et in caelo;   si volunt habere, et persequi desiderant viam ad astra,  meminturi sunt  litteris et sapientia, qui   contingentes animas erant, ut proderent.   Fortitudo, industria, et studium  clavis erunt ad astra per aspera aditus.  Itaque, puer Titus, ad astra per aspera, ambulans!
+</body>

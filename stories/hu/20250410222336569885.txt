@@ -1,0 +1,84 @@
+<prompt>
+Please write a dialog-based Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Vanda és az állatkert'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>hu</lang_id>
+
+```html
+<title>Vanda és az állatkert</title>
+<body>
+– Vanda, felkelsz már? – hallotta Vanda édesanyja lágy hangját a párnája mellől.
+
+– Hmm... még kicsit... – nyögött Vanda, a takaróba burkolózva. A mai napon állatkerti kirándulás volt a program, de a kisgyerek nagyon szeretett aludni.
+
+– De Vanda! Ma megyünk az állatkertbe! Ugye emlékszel? Megígértem, hogy megnézzük a zsiráfokat, a majmokat és az oroszlánokat! – biztatott anya.
+
+Vanda szemében felragyogtak a csillagok. Ugrálva felült az ágyban. – Jaj, anya! Az állatkert! Emlékszem! Mikor indulunk? – kiáltotta, és rohant a szekrényéhez, hogy kiválassza a kedvenc kék nadrágját és a pöttyös pólóját.
+
+– Mindjárt indulunk! Készüljünk el, reggelizzünk meg, aztán irány a kaland! – mosolyodott anya, miközben Vanda már izgatottan pakolta a táskájába a kedvenc plüsskutyusát, Füleskét és egy üveg vizet.
+
+A reggeli gyorsan lezajlott, és nemsokára már a kocsiban ültek, zümmögve a z állatkert felé. Vanda végig a kilátást figyelte az ablakból, miközben anya énekelt.
+
+– Érkezünk, Vanda! – jelentette be anya, miután megérkeztek a parkolóba.
+
+– Jaj de izgulok! – kiáltotta Vanda, ahogy kiszálltak a kocsiból, és a kapu felé sietett.
+
+A bejáratnál megvették a jegyeket. Az állatkert egy hatalmas hely volt, tele fák, bokrok és persze állatokkal. Vanda szeme tágra nyílt a sok csodálatos látványtól.
+
+– Először menjünk a zsiráfokhoz! – javasolta Vanda, már húzva anyukáját maga után.
+
+Megtalálták a zsiráfokat a hatalmas kifutójukban. A zsiráfok hatalmasra nőttek, és hosszú nyakukkal büszkén legelésztek a fák tetejéről. Vanda soha nem látott még ilyen nagy állatot!
+
+– Ó, nézd, anya! Milyen hosszú a nyakuk! És milyen szépek a foltjaik! – ámult el Vanda.
+
+– Valóban gyönyörűek, ugye? – válaszolta anya, miközben ő is gyönyörködött a látványban.
+
+Hamarosan a majmokhoz mentek. A majmok vidáman ugráltak a fák ágairól, vicces arcokat vágtak, és hangosan visítottak. Vanda órákig tudta volna nézni őket.
+
+– Anya, nézd! Ez a majom éppen banánt eszik! És ez a másik a hátát vakarja! – nevetett Vanda.
+
+– Nagyon mókásak, ugye? – kuncogott anya.
+
+A következő állomás az oroszlánok kifutója volt. A két nagy hím oroszlán büszkén üldögélt a sziklákon, és halkan hörgött. Vanda kicsit megijedt, de anya megnyugtatta.
+
+– Ne félj, Vanda. Biztonságos távolságban vagyunk. Az oroszlánok csak pihennek. – mondta anya, miközben Vanda kézen fogta.
+
+– Milyen hatalmasak! És milyen sárga a szőrük! – suttogta Vanda, és tágra nyitotta a szemeit.
+
+Ahogy tovább sétáltak, rengeteg más állatot is megtekintettek. Láttak hatalmas elefántokat, vicces pingvineket, csicsergő madarakat, és sok más állatot. Vanda nem győzött betelni a látnivalókkal.
+
+– Anya, megnézzük a medvéket is? – kérdezte Vanda, mikor egy medve kifutójához értek.
+
+– Persze, menjünk! – mondta anya.
+
+A medvék hatalmas ketrecekben voltak, éppen ennivalóval foglalatoskodtak. Vanda nagyon szerette a medvéket.
+
+– Anya, azt hiszem, én medve leszek, ha nagy leszek! – jelentette ki Vanda, miközben a medvéket bámulta.
+
+– Még egy kiskutya se árt, ha már állatkertben vagyunk! – válaszolta mosolyogva anya.
+
+A nap folyamán többször megálltak, hogy megigyanak egy kis vizet, és pihenjenek. Vanda elfáradt, de nagyon boldog volt.
+
+– Anya, olyan jó volt az állatkertben! – mondta Vanda, amikor már a kijárat felé sétáltak.
+
+– Én is nagyon élveztem a mai napot, Vanda. Nagyon jól viselkedtél, és mindent megnéztünk, amit akartál. – válaszolta anya, megölelve Vandát.
+
+– Holnap is jöhetnénk? – kérdezte Vanda reménykedve.
+
+– Holnap nem, de majd biztosan eljövünk még többször is! – ígérte anya, megsimogatva Vanda haját.
+
+A hazafelé vezető úton Vanda szép lassan elaludt a kocsiban. Álmaiban a zsiráfok magas nyakát, a majmok vicces arcát, és az oroszlánok hatalmas sörényét látta. A plüsskutyusát, Füleskét szorosan ölelte. Az állatkerti nap egy örök emlék maradt számára.
+
+Anya a hazavezető úton énekelt, és a visszapillantó tükörben mosolyogva nézte, ahogy a kislánya békésen alszik, a csodálatos nap emlékeitől kísérve. Hazaértek. Anya óvatosan átrakta Vandát az ágyába. Elhúzta a takarót a kis Vanda testére. Megpuszilta a homlokát, és halkan suttogta: „Jó éjszakát, Vanda.” Aztán lement a konyhába, hogy egy finom vacsorát készítsen. A ház csendes volt, csak a kis Vanda boldog álmaiban szívfájtó halk nesze hallatszott. Másnap Vanda felébredt. Azonnal az állatkertre gondolt. Futott anyjához.
+
+– Anya! Mesélek az állatkertről! – kiáltotta. És mesélt is. Órákig mesélt a majmokról, a zsiráfokról, az oroszlánokról, a medvékről és minden más állatról, akit láttak. Anyja figyelt, és a szíve tele volt szeretettel, büszkeséggel. Együtt megtervezték a következő állatkerti kirándulást, ahova Vanda meghívta a legjobb barátját, Petit.
+A jövőre nézve Vanda még sokszor látogatta az állatkertet. De az első alkalom, az az állatkert, amit együtt látogattak anyjával, az mindörökké egy különleges emlék maradt a szívében. És mindig nagy örömmel gondolt vissza aznapra, amikor először látogatott el az állatkertbe, és a csodák világával találkozott.
+</body>
+```

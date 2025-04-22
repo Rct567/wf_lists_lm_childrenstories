@@ -1,0 +1,59 @@
+<prompt>
+Please write a dialog-based Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Vaikų akademija ir jos stebuklingi mokiniai'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lt</lang_id>
+
+<title>Vaikų akademija ir jos stebuklingi mokiniai</title>
+<body>
+Saulė švietė ryškiai, apšviesdama seną, medinį namą, kuriame veikė Vaikų akademija. Jame mokosi ne paprasti vaikai, o tie, kurie turėjo ypatingų gebėjimų –  galėjo kalbėti su gyvūnais, matyti spalvas, kurių kiti nematė, ar netgi skaityti mintis!  
+
+Greta, smalsu ir linksma mergaitė, su didele kibirkštimi akyse, įėjo į akademiją. Ji mokėsi skaityti paukščių dainas ir suprato, ką jie kalba. Šiandien ji skubėjo į matematikos pamokas, kurias ves Domas.
+
+
+"Labas, Greta!" pasitiko ją Domas, šypsodamasis. "Šiandien spręsime uždavinius, susijusius su gyvūnų pasauliu."
+
+"Aš esu pasiruošusi, Domo!" atsakė Greta.  "Kiek paukščių migruoja per Lietuvą rudenį?"
+
+"Puikus klausimas, Greta," atsakė Domas, ištraukdamas didelį, spalvotą žemėlapį. "Šis žemėlapis mums padės. Pažiūrėkime, kiek paukščių rūšių atkeliauja į Lietuvą.  Žvirbliai, varnėnai,  ir daug kitų rūšių.  Kaip tu galvoji, kiek jų?"
+
+Greta, savo vaizduotėje susiejusi paukščių skrydžio maršrutus su geografiniais duomenimis, ilgai nesvarstė ir atsakė: "Man atrodo, kad per Lietuvą migruoja maždaug tūkstantis paukščių."
+
+"Labai arti tikro skaičiaus, Greta!" pasakė Domas. "Bet svarbiausia yra ne tik skaičiai, bet ir tai, kaip jie keliauja."
+
+
+Tuo metu į klasę įėjo Rokas, didelis berniukas su ryškiai žaliomis akimis. Jis galėjo kalbėti su gyvūnais ir jie jį suprasdavo.
+
+
+"Labas, Rokai!" pasveikino Domas. "Šiandien išsiaiškinsime, kaip šunys bendrauja su savo šeimininkais."
+
+"Lengva," tarė Rokas.  "Jų uodegos šuoliuoja.  Šuniukas, kuris uodegą sukioja ratu,  norėtų žaisti."
+
+"O kuo skiriasi šuo, kuris loja, nuo šuns, kuris šniukštinėja?  Paaiškink mums, Rokai." paklausė Greta.
+
+"Tas, kuris loja, dažniausiai nori dėmesio ar norėtų, kad jį pašlovintų, o šniukštinėjantis -  tikrinėja aplinką.  Jų kūno kalba yra įdomi."
+
+"Puiku!" pasakė Domas. "Dabar išsiaiškinkime, kaip elgesys keičiasi skirtinguose gyvūnų pasauliuose.  Rūšis nuo rūšies?"
+
+
+Ieva, mergaitė, galinti matyti spalvas, kurių kiti nematė, pridūrė: "Aš galiu pamatyti, kaip šviesos atspindžiai ant jų kailio sukuria stebuklingas spalvas, kurių mes tiesiog negalime matyti".
+
+"Taip!" sutiko Rokas. "Yra daug slypinčių paslapčių, netgi šunų uodegos judesiuose, jei tik moki skaityti kūno kalbą."
+
+Klasėje visi vaikai dirbo kartu, dalindamiesi informacija ir atrandami naujus būdus suprasti gyvūnų pasaulį. Greta pasakojo apie paukščių skrydžio maršrutus, Rokas dalijosi pastebėjimais apie gyvūnų elgesį, o Ieva aprašė nepaprastas spalvas, kurias matė gyvūnų kailyje. Jie suprato, kad gyvūnai ir žmonės yra tarpusavyje susiję ir visi kartu sudaro nuostabų pasaulį.
+
+
+Per pamokas jie ne tik mokėsi matematikos, biologijos, bet ir sužinojo, kaip svarbu suprasti gyvūnus, gerbti jų pasaulį ir jį saugoti.
+
+Po pamokų visi draugai kartu žaidė gamtoje, stebėdami paukščių skrydžius ir šunų žaidimus. Jie suvokė, kad pasaulis yra pilnas stebuklų, kuriuos reikia ne tik atpažinti, bet ir gerbti. Greta pastebėjo, kaip vienas varnėnas, kuris atrodo įstrigo medžio šakelių labirinte, prašo pagalbos. Ji jį nuvedė į saugų vietą.  Visa klasė  juntė bendradarbiavimo džiaugsmą, kur kiekvienas mokėsi iš kito ir tarpusavyje dalijosi idėjomis.
+
+
+Tai buvo tik viena diena Vaikų akademijoje, bet ji buvo pilna nuostabų atradimų ir stebuklų.  Ir jie žinojo, kad rytoj laukia dar daugiau nuotykių ir naujų atradimo galimybių.
+</body>

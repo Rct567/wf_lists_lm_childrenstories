@@ -1,0 +1,31 @@
+<prompt>
+Please write a creative and original Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'De Tribus Amicis Qui Vagrant Per Mundum'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>la</lang_id>
+
+<title>De Tribus Amicis Qui Vagrant Per Mundum</title>
+<body>
+Fuit semel tres amici,  Lupus,  a puero audax et ingenio acuto;  Filia,  a puella pulchra et  loquax;  et  Aquilla,  a juvene  sapiens et  observans.  In urbe magna,  Roma,  habitabant,  sed  fatigati  vitae  urbanae  oneribus,  consilium  fecerunt  pro  peregrinatione  per  mundum.  Cum  baculis  et  tortis  panibus,  in  via  sese  dedicabant.
+
+Primum,  per  campi  Italiae  ambularunt,  ubi  flores  colorati  et  arbores  altissimis  ramis  decorabant  terram.  Lupus,  cum  saltu  et  lepore,  per  pratunculas  currebant,  filia  de  floribus  cantabat  et  Aquilla  de  natura  regionis  disseruit.  In  villa  rustica  pauca  horae  pernoctaverunt,  ubi  bene  victu  et  somno  refecerunt.
+
+Deinde,  per  Alpes  magnas  via  se  prosecutus  sunt,  montium  immanis  et  glacialibus  fluviis  ornati.  Aquilla,  cum  sapientia  sua,  situs  et  vestigia  animalia  agricola  observavit,  filia  in  praecipitem  monte  pugnabat  cum  ventum,  et  Lupus,  fortissimus,  per  scopulas  et  rupes  se  expediit.  Noctu,  in  cavernis  magnis  pernoctaverunt,  ubi  sonus  aquae  fluens  et  murmur  ventus  dormientium  somnia  complebat.
+
+Per  mare  Mediterraneum  navigabant,  unde  sonitus  maris  et  auris  navis  per  aquas  et  fluctus  circumferentes  audebant.  Aquilla,  navigando,  per  stellam  et  lunam  via  se  directa  est,  et  Lupus,  cum  nautae  magis,  in  mare  navigavit.  Filia,  cum  pulchritudine  sua,  cum  maris  maris  disseruit,  praeterea  ad  nautas  canibus  delectans  et  de  vitae  maris  narrationes  faciens.  Insulas  grecas  et  eximia  bella  visae  sunt,  in  quibus  a  nautae  bene  victus  sunt.
+
+Iterum  per  desertos  Africae  regiones,  ubi  sol  ardens  et  sable  flava  terram  tenebant,  ambularunt.  Lupus,  cum  resistentia  corporis,  per  desertum  percurrebant,  Filia  de  natura  animalum  specierum  in  regionibus  descripsit,  et  Aquilla  otia  et  sapientiam  ad  regulae  mundi  explorandum  cum  sapientia  sua  invenit.  In  oasis  pauca  pernoctaverunt,  ubi  aqua  fragrans  et  palma  magna  dormientium  satus  repleverunt.
+
+Per  Asiam  magnificam,  unde  templis  altis  et  urbibus  magnis  decorabant,  ambularunt.  Lupus  forte  per  pagus  regales  recurrere  potuit,  Filia  de  cultura  et  more  populis  loquentes  in  regionibus  narravit,  et  Aquilla  de  philosophiae  et  artis  exempli  in  regionibus  disseruit.  In  urbibus  multas  horas  pernoctaverunt,  ubi  bene  victu  et  somno  refecerunt.
+
+Post  longum  iter  per  mundum,  ad  Roma  rederunt,  experientiis  et  cognitis  multas.  Lupus  plus  fortissimus  et  audax  factus  est,  Filia  plus  erudita  et  loquax  fuit,  et  Aquilla  plus  sapiens  et  observans  factus  est.  De  omnibus  iis  quae  viderunt  et  experti sunt  narraverunt  et  in  urbe  suae  vitae  perpetuo  per  annos  per  annos  laeti  et  sapientiores  fuerunt.
+
+Per  peregrinationem  suam  discebant  quod  mundus  magnus  et  mirabilis  esset,  et  quod  viatoribus  in  omnibus  regionibus  amici  et  beneficia  invenire  possent.  Hoc  per  dies  et  noctes  per  annos  et  per  saecula  memorabant.
+</body>

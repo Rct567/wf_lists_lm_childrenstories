@@ -1,0 +1,79 @@
+<prompt>
+Please write a educational Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Przyjaźń sowy i roześmianego szpaka'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pl</lang_id>
+
+```xml
+<title>Przyjaźń sowy i roześmianego szpaka</title>
+<body>
+Dawno, dawno temu, w głębokim, zielonym lesie, żyła mądra sowa o imieniu Zosia. Zosia miała wielkie, złote oczy, które widziały wszystko, co działo się w lesie. Miała również bardzo spokojny charakter i uwielbiała spędzać wieczory, obserwując gwiazdy i słuchając szumu liści na wietrze. Mieszkała w starej, potężnej sośnie, wysoko nad ziemią, gdzie było cicho i bezpiecznie.
+
+W tym samym lesie, na skraju polany, mieszkał mały, roześmiany szpak o imieniu Staś. Staś był zupełnym przeciwieństwem Zosi. Był pełen energii, nieustannie podskakiwał i śpiewał swoje wesołe piosenki. Kochał słońce i każdego dnia budził się z radością, witając nowy dzień. Zawsze miał na dziobie jakąś piosenkę, a jego piórka mieniły się wszystkimi kolorami tęczy.
+
+Pewnego dnia, Staś, jak zwykle pełen zapału, wyruszył na poszukiwanie smacznych jagód. Przeleciał całą polanę, zbadał każdy krzak i krzew, ale nigdzie nie mógł znaleźć swoich ulubionych przysmaków. Zmęczony i trochę zniechęcony, usiadł na gałęzi wysokiej sosny, nieświadomy, że tuż obok mieszka sowa Zosia.
+
+Zosia, jak zwykle, siedziała spokojnie w swoim gnieździe, obserwując wieczorne światło. Usłyszała cichutkie westchnienie. Spojrzała w dół i zobaczyła Stasia, który wyglądał na bardzo zmartwionego.
+
+– Czego szukasz, mały szpaku? – zapytała Zosia swoim spokojnym, głębokim głosem.
+
+Staś podskoczył ze zdziwienia. Nie spodziewał się nikogo w pobliżu. Spojrzał w górę i zobaczył wielkie, mądre oczy sowy.
+
+– Och, dzień dobry pani Sowo! – powiedział zawstydzony. – Szukam jagód, ale nigdzie ich nie mogę znaleźć. Zawsze rosły tu w pobliżu, a dzisiaj jakby zniknęły.
+
+Zosia pomyślała chwilę. Wiedziała, że w lesie wiele się dzieje. Zmieniają się pory roku, zwierzęta poszukują pokarmu, a niektóre rośliny kwitną w innych miejscach.
+
+– Rozumiem. Las jest duży i czasami rzeczy się zmieniają. Chodź, poszukamy jagód razem – zaproponowała Zosia.
+
+Staś był zachwycony. Sowa, choć z natury spokojna, była bardzo mądra i dobrze znała las. Z radością zgodził się na propozycję.
+
+Zaczęli wspólne poszukiwania. Zosia, korzystając ze swoich doskonałych oczu, skierowała Stasia w miejsce, gdzie rosły jagody w zeszłym roku. Przeleciała nad miejscem, w którym spodziewała się je znaleźć, a Staś szukał w gęstych krzakach. Niestety, jagód tam nie było.
+
+Przeszli kilka kolejnych miejsc, ale nigdzie nie było ani jednej jagódki. Staś powoli tracił nadzieję. Był smutny i głodny.
+
+– Może po prostu już ich nie ma? – powiedział ze zrezygnowaniem.
+
+Zosia usiadła na gałęzi i pomyślała. Rozwiązywanie zagadek i poszukiwanie rozwiązań to było jej zadanie.
+
+– Musimy pomyśleć, dlaczego ich nie ma. Czy zmieniło się coś w lesie? – zapytała. – Widzę, że słońce świeci mocniej niż zwykle, a wiatr jest cieplejszy. Może jagody potrzebują więcej cienia lub wilgoci?
+
+Staś zaczął rozmyślać. Faktycznie, wiatr w ostatnich dniach wiał cieplej, a słońce grzało bardziej intensywnie. Zauważył również, że gleba w niektórych miejscach była bardziej sucha niż zwykle.
+
+– Wiem! Może trzeba szukać w cieniu, tam gdzie gleba jest wilgotna! – zawołał radośnie Staś.
+
+Zosia skinęła głową z aprobatą. – To bardzo dobry pomysł, Staś. Spójrzmy, gdzie słońce najmniej świeci i gdzie woda najlepiej się utrzymuje.
+
+Razem zaczęli szukać nowych miejsc. Tym razem kierowali się w stronę gęstego lasu, gdzie drzewa rzucały więcej cienia. Szukali także wzdłuż strumienia, gdzie ziemia była wilgotna. I nagle, w głębokim cieniu, tuż obok strumyka, zobaczyli… krzaki pełne dojrzałych, soczystych jagód!
+
+Staś, uradowany, natychmiast zaczął jeść. Były pyszne! Dziękował Zosi za pomoc.
+
+– Dzięki, pani Sowo! To dzięki pani udało nam się je znaleźć! – powiedział z pełną buzią.
+
+Zosia uśmiechnęła się delikatnie. – Razem myślimy lepiej. Każdy ma swoje mocne strony. Ty masz oczy pełne radości i szybki umysł, a ja mam dobre oczy i doświadczenie. Ważne jest, żeby współpracować.
+
+Od tego dnia Zosia i Staś zostali najlepszymi przyjaciółmi. Często spędzali razem czas. Staś opowiadał Zosi o swoich przygodach, a Zosia uczyła go o życiu w lesie. Nauczyła go rozpoznawać różne gatunki drzew, rozpoznawać odgłosy zwierząt i orientować się w gwiazdach.
+
+Pewnego dnia Staś poczuł się bardzo źle. Był osłabiony i miał gorączkę. Nie mógł latać i nie mógł jeść.
+
+– Co się ze mną dzieje? – zapytał zmartwiony Zosię.
+
+Zosia zbadała Stasia. Widziała, że coś jest nie tak. Nie wiedziała, co dokładnie się dzieje, ale wiedziała, że musi mu pomóc. Pomyślała chwilę. Przypomniała sobie, że w dawnych czasach zwierzęta znały się na ziołach i roślinach leczniczych. Zaczęła szukać wiedzy w najstarszych książkach lasu, czyli na podstawie obserwacji i własnego doświadczenia.
+
+– Musimy znaleźć lekarstwo – powiedziała Zosia. – Pamiętam, że starszy dzięcioł opowiadał mi kiedyś o specjalnych ziołach, które rosną na leśnych polanach. Pomagają na osłabienie.
+
+Zosia i Staś wyruszyli na poszukiwania. Staś był bardzo słaby, ale Zosia cały czas go wspierała i zachęcała. Przeleciała nad każdym miejscem, kierowała go i pomagała w trudnej podróży. Znaleźli zioła o których mówiła Zosia. Dała mu kilka listków do zjedzenia. Zrobiła napar, w którym wymoczyła piórka Stasia.
+
+Po kilku dniach, Staś poczuł się znacznie lepiej. Gorączka ustąpiła, wróciły mu siły i apetyt. Mógł znowu latać i śpiewać swoje piosenki. Był bardzo wdzięczny Zosi.
+
+– Dziękuję pani, Zosiu! – powiedział uradowany. – Uratowała pani moje życie! Jestem pani ogromnie wdzięczny.
+
+Zosia uśmiechnęła się ciepło. – Jesteśmy przyjaciółmi. Pomagamy sobie nawzajem, w dobrych i złych chwilach. To jest prawdziwa przyjaźń. Prawdziwa przyjaźń to nie tylko radość ze wspólnego śpiewania, ale też wsparcie i pomoc w potrzebie.
+
+Od tamtego czasu ich przyjaźń stała się jeszcze silniejsza. Nauczyli się, że razem potrafią pokonać wszelkie trudności. Rozumieli się bez słów, dzielili się radościami i smutkami. Zosia nauczyła się śpiewać piosenki Stasia, a Staś nauczył się spokojnie obserwować gwiazdy. Razem odkrywali nowe miejsca w lesie, poznawali nowe zwierzęta i poznawali tajemnice natury. Ich przyjaźń była przykładem dla wszystkich zwierząt w lesie, pokazując, że różnice charakterów i umiejętności mogą być atutem, a prawdziwa przyjaźń jest najcenniejszym skarbem.

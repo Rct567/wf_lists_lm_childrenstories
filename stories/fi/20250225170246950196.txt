@@ -1,0 +1,47 @@
+<prompt>
+Please write a relatable Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Pieni Prinsessa ja Hänen Ystävänsä Seikkailut'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>fi</lang_id>
+
+<title>Pieni Prinsessa ja Hänen Ystävänsä Seikkailut</title>
+<body>
+Pieni prinsessa, nimeltään Elina, asui kauniissa, mutta hieman tylsässä puutarhassa.  Hänen päivänsä kuluivat kukkien kasteluun, lintujen seurailuun ja  kirjojen lukemiseen, jotka kertoivat kaukaisista maista ja seikkailuista.  Elina kaipaili kuitenkin enemmän. Hän kaipaili ystäviä, jotka jakaisivat hänen intohimonsa ja seikkailunhalunsa.
+
+Yhtenä aamuna, kun Elina istui terassin reunalla syöden aamupalaa – herkullisia mustikkahilloketta ja leipää – hän huomasi pienen, hämmentyneen olennon kaatuneen ruohikon seasta.  Se oli pieni, vilkas käärmettä, jonka väri oli kuin smaragdi.  Sen silmät loistivat kuin tähdet ja sen nimi oli Vipsu.
+
+"Moi," Elina sanoi hiljaa.  "Mitä sinä täällä teet?"
+
+Vipsu kuiskasi vastauksena, "Olen eksynyt ja etsin tietä takaisin kotiin.  Minun pienet veljeni ovat huolissaan, ja pelkään että olen jäänyt liian pitkäksi ajaksi hukkaan."
+
+Elina, joka oli aina valmis auttamaan, sanoi, "Älä huoli, Vipsu! Autan sinua."  Ja niin alkoi Elinan ja Vispun uskomaton seikkailu.
+
+He lähtivät matkaan yhdessä. Elina tunsi metsän kuin omaa kättä, kun oli lukenut lukuisia tarinoita metsän sielunhoidosta. Vipsu taas oli erinomainen opas.  Se tiesi kaikkien metsän salaisuudet ja kertoi niistä Elinalle salaperäisillä kuiskauksilla.
+
+Heidän reittinsä johti läpi kukkuloiden ja metsien, pitkin purojen ja yli jyrkkyyksien.  He tapasivat kivikkoisia rotkoja ja lumisia harjanteita.  He söivät maukkaita metsämarjoja, joita Vipsu kertoi tuntemaan, ja kuuntelivat lintujen laulua.  Heidän matkansa oli täynnä ihmeellisiä seikkailuja.
+
+Yksi päivä he törmäsivät jyrkän rinteeseen, joka laski alas pitkään laaksoon.  Laakson pohjalla oli kirkas järvi, joka hehkuivat auringonvalossa kuin timantti. Järven rannalla kasvoi tuhansia loistavia sinisiä lupineja.  Elina oli ihastunut näkemästään.
+
+"Tämä on upea, Vipsu!" Elina huudahti. "Mutta miten me pääsemme sinne?"
+
+Vipsu virnisti. "Se on helppoa", se kuiskasi. "Käytämme teitä."  Ja Vipsu laskeutui Elinan jalkojen luokse ja heikosti rohkaisi Elinaa.
+
+"Meillä on paljon voimaa yhdessä", Vipsu sanoi.  He kiipeivät rinteestä yhdessä,  Elina käyttäen kaikkea voimaansa.  Ne saavuttiin lopulta järven rannalle ja nautiskelivat upeasta maisemista.
+
+Pian Vipsu kertoi, että hänen kotiinsa oli lähellä –  pieni, kaunis metsänreunaan kätkeytynyt luola.  Siellä Vipsu ja hänen veljensä odottivat kiitollisina Vipsun paluuta.
+
+"Kiitos Elina", Vipsu sanoi. "Sinä olit minulle loistava ystävä."
+
+Elina hymyili. "Oli minun ilo, Vipsu.  Toivottavasti tapaamme pian jälleen."
+
+Elina palasi takaisin puutarhaansa, sydämessään täynnä onnea ja seikkailun muistoja.  Hän ymmärsi, että onnea ja seikkailua ei tarvitse etsiä kaukaisista maista.  Se piilee usein lähellä, vain vähän uteliaisuutta ja ystävällisyyttä vaatien.  Ja ystävyys, se oli aina lahja, joka oli yhtä arvokas kuin kaunis metsä ja valoisa järvi.
+
+Elina jatkoi kukkien kastelua, lintujen seuraamista ja kirjojen lukemista, mutta nyt hänen päivänsä olivat täynnä uusia kertomuksia ja aivan uutta, upeaa elämää.  Hän tiesi, että vaikka seikkailut voivat viedä ihmisiä kauas, ystävyys ja hyvä sydän olivat kuin kompassi, jotka johtivat aina kotiin.
+</body>

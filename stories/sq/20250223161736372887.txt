@@ -1,0 +1,38 @@
+<prompt>
+Please write a simple and easy-to-follow Albanian children's story that is at least 1000 words long.
+It must be completely written in proper Albanian (SQ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Legjendat dhe mite të lashtësisë shqiptare'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sq</lang_id>
+
+<title>Legjendat dhe mite të lashtësisë shqiptare</title>
+<body>
+Njëherë e një kohë, në një vend të largët, ku malet ngriheshin si gurë të mëdhenj dhe lumenjtë rrjedhnin si tela argjendi, jetonin banorë të lashtë. Ata ishin popuj të fuqishëm dhe të guximshëm, që kultivonin tokën dhe adhuronin perënditë e tyre të fuqishme.
+
+Të gjithë këta popuj kishin legjendat dhe mitologjinë e tyre, që i transmetonin brezat pas brezit. Një nga legjendat më të famshme ishte ajo e  "Shqiponjës së Dritës". Sipas kësaj legjende, shqiponja e dritës ishte një zog i jashtëzakonshëm, me krahë të mëdhenj, që fluturonte në qiell dhe ndriçonte me shkëlqim të jashtëzakonshëm.  Ajo gjithmonë mbronin  lumturinë e popullit.  Thotësh se kur Shqiponja e Dritës fluturonte, gjithçka rreth saj ndriçonte, dhe kështu mbillte shpresë në zemrat e banorëve.
+
+
+Një ditë, në një fshat të vogël,  banorët e fshatit ndeshën me probleme të mëdha.  Toka nuk jepte fryte, dhe uji nuk kishte më shkëlqimin e tij.  Kjo shkatërroi gjithë lumturinë e fshatit.   Një djalë i ri, me emrin  Ardi, u përpoq që të gjejë zgjidhje për problemet e fshatit. Ai dëgjoi rrëfimin e legjendave dhe mitëve të lashtë. Ai kuptoi se problemet e fshatit kishin lidhje me mosrespektimin e natyrës dhe mosadhuruarit e perëndive.
+
+Ardi, i frymëzuar nga legjendat, vendosi të ndryshojë gjërat. Ai shkoi në malin e shenjtë, ku thuhej se jetonin perënditë.  Ai solli me vete lule të bukura të fushave të tyre, fruta të freskëta të pemëve dhe ujë të pastër nga lumi.
+
+
+Ai falënderonte perënditë për gjithçka që kishin dhënë për fshatin e tij.  Ardi i kërkoi ndihmë perëndive që të kthejnë  gëzimin dhe harmoninë e fshatit.  Me përpjekje, duke respektuar natyrën dhe duke adhuruar perënditë, në fshat u kthye gëzimi dhe shpresë.
+
+Në atë moment, Shqiponja e Dritës u shfaq në qiell.  Krahët e saj  ndriçuan  si një shkëlqim dielli, duke i ndriçuar fytyrat e banorëve të fshatit.  Ndriçimi i saj  shtrihej në tërë fshatin. Kjo ishte një shenjë e mirëqenies që perënditë i kishin dhuruar fshatit.
+
+Nga ajo ditë e tutje, fshati lulëzoi. Toke u bë pjellëse dhe uji u kthye në një shkëlqim. Banorët e fshatit e kujtuan gjithmonë legjendat dhe mitologjinë e tyre. Ata  i respektuan perënditë dhe natyrën.  Ata jetonin në harmoni me njëri-tjetrin dhe me botën rreth tyre.
+
+
+Dhe kështu, legjendat dhe mitologjia shqiptare u transmetuan brezat pas brezit, duke i dhënë popullit forcën dhe guximin për të luftuar problemet e jetës. Ato tregojnë se edhe në kohë të vështira, duhet të kemi shpresë, respekt ndaj natyrës dhe besim në forcën e perëndive.
+
+Shumë legjenda tjera u folën në fshat dhe në vende të tjera. Të gjitha ato pasqyronin njohuritë dhe besimet e popullit të lashtë.  Legjendat  përmbanin rrëfime për krijesa të mahnitshme, perëndi të fuqishme, dhe aventurat e heronjve të guximshëm.  Kështu,  përmes rrëfimeve të lashtë,  gjeneratat pasuese mësonin për traditat, vlerat dhe historinë e tyre.
+
+Këto legjenda dhe mite ishin më shumë se thjesht rrëfime. Ato ishin një pjesë e jetës së popullit shqiptar. Ato u përgatitën për sfida dhe ngritje, duke  mbyllur një histori të madhe dhe të pasur. Ato ishin një dritë që gjeneratat e ardhshme mund të ndrinin nga.
+</body>

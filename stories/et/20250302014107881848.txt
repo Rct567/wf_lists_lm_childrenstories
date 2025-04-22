@@ -1,0 +1,38 @@
+<prompt>
+Please write a relatable Estonian children's story that is at least 1000 words long.
+It must be completely written in proper Estonian (ET).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Väike lind, kes õppis laulma oma südamega'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>et</lang_id>
+
+<title>Väike lind, kes õppis laulma oma südamega</title>
+<body>
+Piilunägu oli väike tiiruline lind, kes elas suure männi otsas. Tema sulestik oli õrn roheline, täpiline valgete triipudega.  Teised linnud metsas olid juba pikalt harjutanud oma kõrgeid ja vilunud laule, võistes üksteisega, kellel on kõige paremad noodid. Aga Piilunägu oli pigem vaikne vaatlejate tüüp. Ta ei teinud kunagi mitte ühtegi heli.  Ta vaatas ja kuulas.
+
+Ta kuulis metsaköögikübarat laulavat nagu õrna lauluvööri häält ja metsakübarate vihmaesed koputasid üha vaiksemalt, üha õrnalt vastu lehti, justkui räägivad linde lugusid oma võlusõnaga. Ta kuulis õnneliku metsseeprägu laulust rõõmustavat kuud ja kõrbes ööviljad nätsisid tema öises rahulolemises.  Päikesekiir käis käes lilledega ning tegi värvilisi triipe kõigi lehtedele,  maas tikkinud värvilised triibud laulusid ja tantsimised õitsvasest kevadest.
+
+
+Piilunägu tundis kahelt küljelt häält:  ühelt küljelt tuule hingamine vastu oma lehti ja teiselt küljelt puu kõrval voolava jõe vaikne voolavus.  Kõik need kõlad moodustasid suure, kõneleva suhte, kus igas hääles peitus iga südame helin.
+
+Ühel päeval lendles Piilunägu metsast välja ja sattus avarale lagedale.  Taevas oli puhas, nagu peegeldunud sinine peegel ja pildid olid kõige ilusamad, ilusamad metsas näinud. Piilunägu nägi suurt hunnikut lindudega, kes kõlades õitsvas laulus võistlesid oma kõlades. Nende lauludega tervislik õhtulik õhuke liist täitis linnurühma ümber elutseva ilmarahuga. Kuigi Piilunägu oli kohanud mõnes muus linnus oma kõrgele elusteele. Kujutab ette, Piilunägu tundis, et nad kõik, linnud laulsid laulud, mis pähe surusid, õitsesid koduistmetelt peast.
+
+
+Kõige pealt laulsid tervislikud liblikad õnnistavalt elurõõmu ja kergemeelse naeru, ning õhk pealis häälitseb kergemeelse, rõõmsameelse, särava, heleda helinaga.  Ja üks lind, kuldne kirsikakk, laulis häälega, mis oli nii terava ilutulestik, justkui täidaks õhtu ilusa pealtnägija rõõmuga. Teised linnud vaatasid, kõla häälega laulus laulde.
+
+Metses võluväel hoidsin end ihaldavalt Piilunägu võluväel üllatuslikuna.
+
+Piilunägu, kes oli enne kunagi ei rääkinud midagi ennast, tundis äkki hingamist oma kõrist tõusvat.  Ta tundis suurt südamest hingavat rõõmu, sest ta nägi ka kõiki laule, õitsedes õnnelikult ja kõlides tõelist rõõmu. Ta ei osanud laulda nagu teised linnud, aga tema südames oli kahe tuhande meloodia õrn seadus, ja tema laul oli see. Ja kui ta sulgedega rähises, näis kõik õitsema igal kivil, igal oksal ja kaugelt iga hääle helinat.
+
+Ta tõstis oma väikese kurgu ja rähises, kuuldes iga liigutust.
+
+Piilunägu laulis oma südamega, mitte oma kõnega. Tema laul oli vaikne ja õrn, nagu hõljuv pilv taevas või veekihte voolava vooliku voolamata voolamine, tuulte mäng või puude hinge tõustes õrnalt. Ja tema laul täitis metsa kõigiga nii rõõmuga ja heaga, et teised linnud hakkasid hingamist õrna südame häälele ja täidavad tema laulu oma südames, lisades igaüks pisikese häälkese oma kohase helina ja meloodilise häälega.
+
+
+Sellest päevast peale õpetas Piilunägu kõiki lindude laulud teiste häälede õrnat kohtumist, sest iga helin peitis nii suurt ilusat värvi.  Piilunägu ei unustanud kunagi laule oma südamega. Ja ta õpetas kõigile, et tõeline laul ei ole kunagi õige, vaid et see on igaühe sees, ootamas avastamist.
+</body>

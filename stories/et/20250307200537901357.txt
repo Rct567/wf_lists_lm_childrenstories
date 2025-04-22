@@ -1,0 +1,41 @@
+<prompt>
+Please write a uncomplicated Estonian children's story that is at least 1000 words long.
+It must be completely written in proper Estonian (ET).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Jõeäärse Jaani Jutu Jäätise Jutt ja Jõhvikate Jõulud'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>et</lang_id>
+
+<title>Jõeäärse Jaani Jutu Jäätise Jutt ja Jõhvikate Jõulud</title>
+<body>
+Jõeäärse Jaani Jutu Jäätise Jutt ja Jõhvikate Jõulud oli juba ammu oodatud sündmus kogu külas. Jaan oli kuulus jutumees, kes elas jõe ääres väikeses majas. Tema majas oli alati soe ja magus lõhn, sest Jaan armastas küpsetada ja valmistada erinevaid magusaid maiuseid.
+
+Jaanil oli väike jäätisevabrik, kus ta valmistas erinevaid mõnusaid jäätiseid. Ta oli leiutanud endale erilise jäätisemasina, mis võimaldas tal valmistada jäätist erinevate maitsega. Jaan armastas katsetada uusi maitseid ja retsepte, ning tema jäätised olid kogu küla lemmik.
+
+Ühel päeval, kui Jaan valmistas uut partiid jäätist, tuli tema juurde väike tüdruk, kes ütles, et ta tahab olla Jaani abiliseks. Jaan oli üllatunud, kuid ta võttis tüdruku tööle. Tüdruk õppis kiiresti, kuidas valmistada jäätist, ning ta osutus väga andekaks abiliseks.
+
+Kui jõulud lähenemas, otsustas Jaan korraldada jõulupidu kogu küla lastele. Ta valmistas erilisi jõulujäätiseid, mis olid maitsega nagu jõuluküpsised, piparkoogid ja marjad. Jaan kaunistas oma maja jõuludeks, ning ta kutsus kõik küla lapsed enda juurde.
+
+Jõulupidu oli suur õnnestus, ning kõik lapsed armastasid Jaani jõulujäätiseid. Jaan jagas lastele ka erilisi jõuluvärvikuid, mida ta oli ise valmistanud. Lapsed joonistasid värvikutesse erilisi jõulupilte, ning nad said need kätte kingituseks.
+
+Kui jõulud olid möödas, otsustas Jaan minna jõhvikate juurde, kus ta tahab nad üllatada. Jõhvikad elasid metsas, ning nad olid väga armastatud kogu küla poolt. Jaan võttis endaga kaasa erilisi jäätiseid, mis olid mõeldud jõhvikatele.
+
+Kui Jaan jõudis jõhvikate juurde, leidis ta nad üsna üllatunud. Jõhvikad olid harjunud elama üksikult, kuid nad olid siiski väga sõbralikud. Jaan jagas jõhvikatele jäätiseid, ning nad armastasid neid. Jõhvikad ütlesid Jaanile, et nad tahavad teda aidata, ning nad palusid Jaanil luba minna külla.
+
+Jaan võttis jõhvikad külla, kus nad kohtusid kogu küla lastega. Lapsed armastasid jõhvikaid, ning nad mängisid nendega koos. Jõhvikad olid väga osaavad, ning nad õpetasid lastele, kuidas elada üksikult ja kuidas olla sõbralikud.
+
+Kui aeg läks, said jõhvikad külast võõrustajateks. Nad kutsusid kõik küla lapsed enda juurde, kus nad korraldasid suure joulupeo. Jõhvikad valmistasid erilisi toite, mis olid maitsega nagu jõuluküpsised, piparkoogid ja marjad. Lapsed armastasid jõhvikate toite, ning nad tänasid neid kingituse eest.
+
+Jaan ja jõhvikad said väga head sõbrad, ning nad korraldasid koos palju ühispeosi. Jaan õppis jõhvikatelt, kuidas elada üksikult ja kuidas olla sõbralikud, ning jõhvikad õppisid Jaanilt, kuidas valmistada jäätist ja kuidas olla hea jutumees.
+
+Kui aasta läks, said Jaan ja jõhvikad ikka paremaks sõpradeks. Nad korraldasid koos palju peosi, ning nad jagasid omavahel erilisi kingitusi. Jaan valmistas jõhvikatele erilisi jäätiseid, mis olid maitsega nagu jõuluküpsised, piparkoogid ja marjad. Jõhvikad valmistasid Jaanile erilisi toite, mis olid maitsega nagu jõuluküpsised, piparkoogid ja marjad.
+
+Jaan ja jõhvikad elasid õnnelikult, ning nad said ikka paremaks sõpradeks. Nad korraldasid koos palju peosi, ning nad jagasid omavahel erilisi kingitusi. Jaanile ja jõhvikatele oli oluline, et nad olla sõbralikud ja et nad elada üksikult. Nad õppisid teineteiselt, ning nad said ikka paremaks sõpradeks.
+
+Lõpuks said Jaan ja jõhvikad ikka paremaks sõpradeks, ning nad elasid õnnelikult. Nad korraldasid koos palju peosi, ning nad jagasid omavahel erilisi kingitusi. Jaanile ja jõhvikatele oli oluline, et nad olla sõbralikud ja et nad elada üksikult. Nad õppisid teineteiselt, ning nad said ikka paremaks sõpradeks. Ja nii elasid Jaan ja jõhvikad õnnelikult, ning nad said ikka paremaks sõpradeks.
+</body>

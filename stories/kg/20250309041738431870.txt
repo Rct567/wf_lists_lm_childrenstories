@@ -1,0 +1,36 @@
+<prompt>
+Please write a dialog-based Kongo children's story that is at least 1000 words long.
+It must be completely written in proper Kongo (KG).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Nzolo ya Ntoto, Makasi ya Mavulu, ye Nsangu ya Nsuka'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>kg</lang_id>
+
+<title>Nzolo ya Ntoto, Makasi ya Mavulu, ye Nsangu ya Nsuka</title>
+<body>
+Ntoto akabwaka kuna se, akalamba: "Tata, tata, ngeye kozela bapaya." Tata ya yandi akamona: "Ntoto, ozela bapaya, kasi ozone maboko, oza kufua, oza kubanza nzela." Ntoto akabanza nzela, akapita kuna muntu, akamwana: "Mama, mama, ngeye kozela bapaya." Mama ya yandi akamona: "Ntoto, ozela bapaya, kasi ozone maboko, oza kufua, oza kubanza nzela, kadi oza kuzinga kuna makasi ya mavulu."
+
+Ntoto akapita kuna makasi ya mavulu, akamwana: "Mavulu, mavulu, ngeye kozela bapaya." Mavulu akamona: "Ntoto, ozela bapaya, kasi ozone maboko, oza kufua, oza kubanza nzela, kadi oza kuzinga kuna nsangu ya nsuka." Ntoto akapita kuna nsangu ya nsuka, akamwana: "Nsuka, nsuka, ngeye kozela bapaya." Nsuka akamona: "Ntoto, ozela bapaya, kasi ozone maboko, oza kufua, oza kubanza nzela, kadi oza kuzinga kuna nzambe."
+
+Ntoto akapita kuna nzambe, akamwana: "Nzambe, nzambe, ngeye kozela bapaya." Nzambe akamona: "Ntoto, ozela bapaya, kasi ozone maboko, oza kufua, oza kubanza nzela, kadi oza kuzinga kuna muntu wa kinkulu." Ntoto akapita kuna muntu wa kinkulu, akamwana: "Muntu wa kinkulu, muntu wa kinkulu, ngeye kozela bapaya." Muntu wa kinkulu akamona: "Ntoto, ozela bapaya, kasi ozone maboko, oza kufua, oza kubanza nzela, kadi oza kuzinga kuna bapaya."
+
+Ntoto akapita kuna bapaya, akamwana: "Bapaya, bapaya, ngeye kufua." Bapaya akamona: "Ntoto, kufua, kasi ozone maboko, oza kubanza nzela, kadi oza kuzinga kuna tata ya yo." Ntoto akabanza nzela, akapita kuna tata ya yandi, akamwana: "Tata, tata, nazali kufika." Tata ya yandi akamona: "Ntoto, nazali kufika, kasi ozone maboko, oza kufua, oza kubanza nzela, kadi oza kuzinga kuna mama ya yo."
+
+Ntoto akapita kuna mama ya yandi, akamwana: "Mama, mama, nazali kufika." Mama ya yandi akamona: "Ntoto, nazali kufika, kasi ozone maboko, oza kufua, oza kubanza nzela, kadi oza kuzinga kuna makasi ya mavulu." Ntoto akapita kuna makasi ya mavulu, akamwana: "Mavulu, mavulu, nazali kufika." Mavulu akamona: "Ntoto, nazali kufika, kasi ozone maboko, oza kufua, oza kubanza nzela, kadi oza kuzinga kuna nsangu ya nsuka."
+
+Ntoto akapita kuna nsangu ya nsuka, akamwana: "Nsuka, nsuka, nazali kufika." Nsuka akamona: "Ntoto, nazali kufika, kasi ozone maboko, oza kufua, oza kubanza nzela, kadi oza kuzinga kuna nzambe." Ntoto akapita kuna nzambe, akamwana: "Nzambe, nzambe, nazali kufika." Nzambe akamona: "Ntoto, nazali kufika, kasi ozone maboko, oza kufua, oza kubanza nzela, kadi oza kuzinga kuna muntu wa kinkulu."
+
+Ntoto akapita kuna muntu wa kinkulu, akamwana: "Muntu wa kinkulu, muntu wa kinkulu, nazali kufika." Muntu wa kinkulu akamona: "Ntoto, nazali kufika, kasi ozone maboko, oza kufua, oza kubanza nzela, kadi oza kuzinga kuna bapaya." Ntoto akapita kuna bapaya, akamwana: "Bapaya, bapaya, nazali kufika." Bapaya akamona: "Ntoto, nazali kufika, kasi ozone maboko, oza kufua, oza kubanza nzela, kadi oza kuzinga kuna tata ya yo."
+
+Ntoto akabanza nzela, akapita kuna tata ya yandi, akamwana: "Tata, tata, nazali kufika, nazali na makasi ya mavulu, nsangu ya nsuka, nzambe, muntu wa kinkulu, ye bapaya." Tata ya yandi akamona: "Ntoto, nazali kufika, nazali na makasi ya mavulu, nsangu ya nsuka, nzambe, muntu wa kinkulu, ye bapaya, kasi ozone maboko, oza kufua, oza kubanza nzela, kadi oza kuzinga kuna mama ya yo."
+
+Ntoto akapita kuna mama ya yandi, akamwana: "Mama, mama, nazali kufika, nazali na makasi ya mavulu, nsangu ya nsuka, nzambe, muntu wa kinkulu, ye bapaya." Mama ya yandi akamona: "Ntoto, nazali kufika, nazali na makasi ya mavulu, nsangu ya nsuka, nzambe, muntu wa kinkulu, ye bapaya, kasi ozone maboko, oza kufua, oza kubanza nzela, kadi oza kuzinga kuna makasi ya mavulu." Ntoto akapita kuna makasi ya mavulu, akamwana: "Mavulu, mavulu, nazali kufika, nazali na makasi ya mavulu, nsangu ya nsuka, nzambe, muntu wa kinkulu, ye bapaya."
+
+Mavulu akamona: "Ntoto, nazali kufika, nazali na makasi ya mavulu, nsangu ya nsuka, nzambe, muntu wa kinkulu, ye bapaya, kasi ozone maboko, oza kufua, oza kubanza nzela, kadi oza kuzinga kuna nsangu ya nsuka." Ntoto akapita kuna nsangu ya nsuka, akamwana: "Nsuka, nsuka, nazali kufika, nazali na makasi ya mavulu, nsangu ya nsuka, nzambe, muntu wa kinkulu, ye bapaya." Nsuka akamona: "Ntoto, nazali kufika, nazali na makasi ya mavulu, nsangu ya nsuka, nzambe, muntu wa kinkulu, ye bapaya, kasi ozone maboko, oza kufua, oza kubanza nzela, kadi oza kuzinga kuna nzambe."
+
+Ntoto akapita kuna nzambe, akamwana: "Nzambe, nzambe, nazali kufika, nazali na makasi ya mavulu, nsangu ya nsuka, nzambe, muntu wa kinkulu, ye bapaya." Nzambe akamona: "Ntoto, nazali kufika, nazali na makasi ya mavulu, nsangu ya nsuka, nzambe, muntu wa kinkulu, ye bapaya, kasi ozone maboko, oza kufua, oza kubanza nzela, kadi oza kuzinga kuna muntu wa kinkulu." Ntoto akapita kuna muntu wa kinkulu, akamwana: "Muntu wa kink

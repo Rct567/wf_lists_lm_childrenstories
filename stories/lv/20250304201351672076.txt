@@ -1,0 +1,52 @@
+<prompt>
+Please write a dialog-based Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Ziemassvētku eglītes jeb dzīvības skaistums'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lv</lang_id>
+
+<title>Ziemassvētku eglītes jeb dzīvības skaistums</title>
+<body>
+Lielajā mežā, kur saule rotaļājās ar zariem un vēji dziedāja dziesmas, auga viena īpaša egliņa.  Viņas vārds bija Egle. Viņa nebija augstāka par citiem meža iemītniekiem, bet viņā slēpās īpaša gaisma, mīlestība un skaistums.
+
+“Ak, cik brīnišķīgi!”  pārlauzās, šķiet, no paša gaisa. “Tieši manas svētku egles gaismas spīd tik krāšņi!”  Tas bija Mazulis, sīks, pelēks ēnains putns, kas iešāvās virs Eglītes.
+
+“Labdien, Mazuli,” mierīgi čukstēja Egle. “Priecājos tevi redzēt. Kas tevi aizvedis tik agri?”
+
+“Man rīt būs tikšanās! Jaunas putnu dziesmas, jaunu meža dziesmu noklausīšanos.”  Mazulis strauji ielidoja, tā kā dzinnis iešaujas plaukstā. “Bet jā, tā jāiegūst rīta svētā balss.  Mana sirds to sajūt. Un tā kā es esmu meža ēna, meklēju visu skaisto un gaidāmo.”
+
+“Skaista, neapšaubāmi,” Egle piekrītoši nopūšas. “Un svētki tuvojas. Viss mežs gatavojas Ziemassvētku brīnumiem.”
+
+“Ziemassvētku brīnumi?” Mazulis paklanās, lieldarot, un kā no rītausmas spīd. “Par ko tu runā?”
+
+“Jau kopš meža dzimšanas ir klātesošas īpašas enerģijas,” Egle skaidroja, izvelkot savus maigās brūnā krāsā, dzelkņainos zarus. “Tā ir dvēseles sajūta, gaisma no paša Kunga Debesu Visuma. Vējš dod šim brīnumu spēku. Un skaistākā no visām šīm svētceļiem ir saules ietītas Ziemassvētku eglītes, kuras spīd gaismās, kaut arī pati daba tās ar krāsu nenovieto.”
+
+“Kas tās eglītes?” Mazulis, iekošās zaros, izšāva uzdevumu.
+
+“Eglītes,” skaidroja Egle. “Tās ir kā mazi kristāla skaistuma mirgoņi, no debesīm nokrītošas gaismas mirgoņi. Mežā tās atrod atbildes un silda sirdis. Ja cilvēki ar atvērtām sirds telpām tās meklēs, katrai eglu zarā būs unikāls stāsts un cerība.”
+
+Tad uzrāpās Dzeguze, kura sprakšķēja un čaloja.  "Eglīte!  Kas tevis aizrāvusi? Vai esi atkal atradusi brīnišķīgāko dziesmu?"
+
+"Labdien, Dzeguze," Egle mierīgi novēlēja.  "Es runāju par Ziemassvētku eglītēm. Par gaismas, cerības un skaistuma simboliem, kas cilvēkiem dod cerību un iedvesmu."
+
+"Hmm," Dzeguze pakņudīda zaru galu ar savu sarunas skaņu. "Tā gan ir brīnišķīga ideja! Brīnišķīgs mirklis, kurā saplūst skaistums un sirdspūze. Man ar sirds mieru gan to apgūt nāksies. Lai svētkos visur būtu eglīšu skaistums!"
+
+Uzturas un nolaižas putns Zvirbulītis, viņa spārni balti un mierīgi. "Kas tur tā sakustas?"  šausminoties, čukstēja putns.
+
+"Ziemassvētku eglītes," Eglīte apmierināja. "Tās spēj aizkustināt sirdis un radīt svētku atmosfēru. Un svētku eglītes ir kā svētki, kad viss apkārt skaistāk rotās."
+
+
+"Tā gan ir brīnišķīgi!"  Zvirbulītis piekrītoši nodrebēja un pavērsa spārni debesu spožumam.  "Mēs esam meža dvēseles, un es redzu, ka visas meža dvēseles to izbauda. Ziemassvētku eglīte ir īpaša un svēta! Tā dod mums prieku un mieru."
+
+Tad uzlec Sniegbaltīte, vējainākā un ātrākā visā mežā.  Viņa, pārklāta ar tīro sniega krāsu un neaptveramas ledus skaistuma iezīmētiem, teica:  "Patiess, ka Ziemassvētku eglītes aizpilda pasauli ar brīnumu, kad tās ir svētītas ar mieru! Brīnišķīga dāvana!"
+
+Tad visas meža būtnes - putni, zvēri, koksne un krūmi –  apklājās un  pievienojās balsu orķestrim par Ziemassvētku eglīšu skaistumu un spēku.
+
+Eglīte priecājās par šo meža himnu un zināja, ka Ziemassvētku eglītes skaistums patiesi apgaismo visus. Meža dvēseles piekrīta – dzīve ir skaista! Svētku noskaņa piepilda apkārtni. Šī neaprakstāma gaisma ir tik maģiska, ka aizrāv arī pat Mazuli.  Un Ziemassvētku eglīte, tā kā tik maza, bet skaista, ir spējīga apņemt veselu pasauli.
+</body>

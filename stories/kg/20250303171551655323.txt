@@ -1,0 +1,46 @@
+<prompt>
+Please write a simple and easy-to-follow Kongo children's story that is at least 1000 words long.
+It must be completely written in proper Kongo (KG).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>kg</lang_id>
+
+<title>Nduki ye Malu ya Mvuamvua</title>
+<body>
+Nduki, mosi na bana mingi ya nsaka, vandaka kuzinga na ntoto ya ntoto.  Yandi vandaka nsinga ya ngolo, mpi yandi vandaka kuzola kudiyangisa ve.  Mbala mingi yandi vandaka kutula ntangu na yandi na kupalana na banyama ya nsi ntoto mpi na bansoni ya nsaka ya bambuta.
+
+Konso kilumbu, Nduki vandaka kuyedika nzila na yandi ya nkaka ya nzayilu. Yandi vandaka kulungisa bamfunu ya nene ya kikalulu. Yandi vandaka kuyeba bima yonso ya ntoto, ata konso nzila ya nsi ntoto to mbwaki mosi ya ntoto. Yandi vandaka mpenza nzodi ya nzila ya bambanza mpi ya ntoto.
+
+Muntu mosi vandaka kuzinga pene-pene na yandi, nkento mosi ya ngolo mpi ya nkenda. Yandi vandaka zina Mbengi, mpi yandi vandaka kuzitisama sambu na nzayilu ya ntoto ya yandi.
+
+Mosi ya bilumbu, Mbengi yitukaka na yimbefo ya ngolo.  Yandi vandaka kuvila ntoto ya yandi, nsuka ya nzila, mpi bisika ya kitoko ya nsi ntoto. Yandi vandaka kumona bana ya nsaka mpi yidilu ya bambweta kukonda kuwila bima yango mpasi.   Nduki vandaka kuzola Mbengi mingi, mpi yandi yitukaka.
+
+Nduki kuvandaka penepene na yandi mpi kulola na kwikama.  Yandi vandaka kutula yidilu mpi luzingu ya Mbengi na ntima na yandi.
+
+Nduki bakaka nzila ya kuyedika mbuma mpi mbongo ya ntembe. Yandi kubalula kintuku na yandi, kusepela na nsaka. Yandi vandaka kuzola kulonga Mbengi yonso. Yandi vandaka kuzola kulonga yandi mpi mambu ya ntoto yonso.  
+
+Yandi kulungisa banzila ya kyese yina Mbengi vandaka kudiyangisa na yo.  Nduki vandaka kukutana na bambweta na nzila ya nsi ntoto, mpi kuwidika minduku ya yandi ya bambuta ya nsaka.  Bana vandaka kupesa mvutu mpi kununga banso na yandi na nzila ya malongi, bampangi ya nkaka ya ntoto.
+
+Na lusadisu ya mbongo na yandi ya ntembe, yandi tubaka mpi bima ya nzila mpi bitabu.  Yandi longaka yandi luzingu ya mpema mpi ya kimuntu na bilanga ya bambuta.
+
+Nduki kubakaka ntangu ya kuyedika bikulu ya luzingu.  Yandi vandaka kutuba, "Mbengi, wena yidilu yonso ya mambu ya ntoto, mpi luzolo yonso ya bima yina yina nge vandaka."
+
+Mbengi kuwakaka. Yandi waka nsansa ya bisika ya kitoko ya yandi zinga, yonso yina yandi bikaka mpenza na ntima ya yandi ya nzayilu. Nduki pesaka mambu ya nsaka ya luzingu, ndambu ya nsaka ya yandi mosi, yonso ya nkento mosi na yau, mpi yandi zitisaka yo.
+
+Mbengi kumonaka mpi kudimbuta sambu na luzingu na yandi yina katukaka ku vila, mpema ya bima ya nsi ntoto, mpi mbalu ya bambweta.  
+
+Luzingu ya nsaka kuvandaka kibeni mbote na bampangi na yau yina yandi vandaka kubakisa. Yandi kumonaka nde yandi vandaka kaka kaka ya kuzola kuvutuka na ntoto ya nsaka yina yandi vandaka nkento. Yandi waka mbote, mpi yandi kumonaka kikesa sambu na kuzinga mpema yonso.  
+
+Mbengi kumisaka ngolo diaka, yiluta luzingu ya yandi. Yandi bakaka luzingu yina yandi ndimaka mpi bakaka mambu yonso ya yandi kubalula.
+
+Nduki waka kiese mingi.  Yandi waka ndefi ya kudiyangisa mpi kikalulu ya kinsuni na luzingu ya yandi na mbele ya muntu yina, yandi longaka luzingu yina Mbengi longaka nkinsi ya ntoto, bikulu, ntima mpi banse. 
+
+Konso kilumbu yina kutalukaka, Nduki ye Mbengi vandaka kupalangana na nsaka ya bambuta, kuyantika na yau diaka na kuvukisa na yau ntoto ya yandi ya nzayilu.   Bonso bantu ya nene mpi ya kulu, bo vandaka kusala bima ya nzayilu mpi luzingu ya nkento.
+
+
+</body>

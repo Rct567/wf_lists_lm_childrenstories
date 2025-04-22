@@ -1,0 +1,79 @@
+<prompt>
+Please write a dialog-based Turkish children's story that is at least 1000 words long.
+It must be completely written in proper Turkish (TR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Parlayan Gemiler ve Harika Yolculuk Masalları'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>tr</lang_id>
+
+```xml
+<title>Parlayan Gemiler ve Harika Yolculuk Masalları</title>
+<body>
+"Anne, baba! Uyandım!" diye bağırdı küçük Elif, yatağından zıplayarak.
+
+"Günaydın canım kızım!" dedi annesi Gülçin, mutfaktan gelerek. "Ne bu enerji? Yine mi macera hayalleri kuruyorsun?"
+
+Elif, kocaman parlayan gözleriyle, "Evet anne! Rüyamda parlayan gemiler gördüm. Üstelik sihirliymişler! Her biri farklı bir masal diyarına gidiyormuş."
+
+Babası Deniz, kahvesini yudumlayarak, "Hım, ilginç. Anlat bakalım bu parlayan gemilerin maceralarını." dedi.
+
+Elif, heyecanla sofraya oturdu ve anlatmaya başladı: "Önce, pembe bir gemi gördüm. Üzerinde kocaman, renkli balonlar vardı. Geminin adı 'Baloncu Gökkuşağı'ymış. Bu gemi, tatlıların diyarına gidiyordu. Orada şekerden evler, çikolatadan nehirler ve dondurmadan ağaçlar varmış!"
+
+Annesi gülümsedi: "Ne güzel bir rüya! Peki o gemide neler oldu?"
+
+"Baloncu Gökkuşağı'nda bir sürü çocuk vardı. Hepsi tatlılar diyarına doğru yola çıktı. Orada önce kocaman bir şekerleme bahçesine gittiler. Herkes istediği kadar şekerleme yedi! Sonra çikolata nehrinde kaydırak kaydırdılar ve dondurma ağaçlarından meyve topladılar. Ama en önemlisi, hepsi çok eğlendi ve arkadaş oldu."
+
+Babası, "Ne kadar eğlenceli! Başka hangi gemileri gördün?" diye sordu.
+
+Elif, "Sonra, yeşil bir gemi gördüm. Üzerinde minik sincaplar ve kuşlar uçuşuyordu. Geminin adı 'Doğa Dostu'ymış. Bu gemi, hayvanların yaşadığı gizemli ormanlara gidiyordu."
+
+"Vay canına! O ormanda neler vardı?" dedi annesi.
+
+"Doğa Dostu'nda, çocuklarla birlikte sincaplar ve kuşlar ormana doğru yola çıktı. Orada konuşan ağaçlarla tanıştılar, şarkı söyleyen çiçeklerle dans ettiler ve yaramaz maymunlarla oyunlar oynadılar. Ama en güzeli, hayvanların hayatlarını korumak için neler yapabileceklerini öğrendiler."
+
+Deniz, "Çok eğitici bir rüya! Başka gemi var mıydı?" diye merakla sordu.
+
+Elif, "Evet! Mavi bir gemi vardı. Üzerinde yıldızlar ve ay figürleri vardı. Geminin adı 'Yıldız Gezgini'ymiş. Bu gemi, uzayın derinliklerine, yıldızlara gidiyordu."
+
+Gülçin, şaşkınlıkla, "Uzaya mı? Nasıl bir macera!" dedi.
+
+"Yıldız Gezgini'nde, çocuklar uzay kıyafetleri giyerek yıldızlara ve gezegenlere yolculuk ettiler. Ay'da zıpladılar, Mars'ta kırmızı kayaları incelediler ve yıldızların arasında süzüldüler. En ilginç olanı, uzaylılarla tanışıp onlardan evreni öğrendiler."
+
+Babası, "Harika! Peki bu gemilerin hepsi mi sihirliydi?"
+
+Elif başını salladı: "Evet! Her gemi sihirli bir anahtara sahipti. Bu anahtarlar sayesinde çocuklar, istedikleri yere ışınlanabiliyorlardı ve tehlikelerden korunuyorlardı. Örneğin, Baloncu Gökkuşağı'nın anahtarı, tatlıları çok yiyen çocukları tatlıdan vazgeçiriyordu. Doğa Dostu'nun anahtarı, ormandaki ağaçların hasta olmasını engelliyordu. Yıldız Gezgini'nin anahtarı ise, çocukları uzayda kaybolmaktan kurtarıyordu."
+
+Annesi, "Bu çok akıllıca! Rüyan çok zenginmiş Elif. Başka maceralar da yaşadın mı?"
+
+Elif, "Evet! Son olarak, altın sarısı bir gemi gördüm. Üzerinde denizkızları ve deniz atları yüzüyordu. Geminin adı 'Okyanus Prensesi'ymiş. Bu gemi, denizin derinliklerine gidiyordu."
+
+Babası, "Denizin derinlikleri... Gizemli bir yer olmalı." dedi.
+
+"Okyanus Prensesi'nde, çocuklar denizkızları ve deniz atlarıyla birlikte mercan resiflerini keşfettiler, balıklarla yüzdüler ve batık gemilerin kalıntılarını incelediler. Hatta, kayıp hazineleri buldular ve deniz altı yaşamını korumak için neler yapabileceklerini öğrendiler. Bu geminin anahtarı ise, deniz kirliliğini engelleyen bir sihire sahipti."
+
+Gülçin, "Ne kadar güzel mesajlar içeriyor bu rüyalar! Her gemi farklı bir değeri simgeliyor." dedi.
+
+Elif, "Evet anne! Sonra uyandım. Ama şimdi ben de bir gemi inşa etmek istiyorum. Hem de gerçek bir gemi! İçinde macera dolu bir dünya yaratacağım."
+
+Babası, "Harika bir fikir! Yardım etmek ister misin?"
+
+Elif, sevinçle zıpladı: "Evet baba! Birlikte inşa edelim! Önce hangi gemiyi yapalım? Baloncu Gökkuşağı mı, Doğa Dostu mu, Yıldız Gezgini mi, yoksa Okyanus Prensesi mi?"
+
+Annesi, "Bence hepsini yapabiliriz! Önce bir çizim yapalım. Sonra malzemeleri toplarız ve adım adım inşa ederiz. Her gemi için farklı bir proje oluşturabiliriz. Böylece hem eğleniriz hem de farklı beceriler kazanırız."
+
+Elif, heyecanla, "Harika! Öyleyse önce Baloncu Gökkuşağı'nı çizelim! Sonra da malzemeleri toplarız. Renkli kartonlar, balonlar, kurdeleler... Hepsi hazır olmalı!"
+
+Babası, "Tamamdır küçük maceraperest. İlk işimiz çizim yapmak. Sonra alışverişe çıkarız ve gemimizi inşa etmeye başlarız. Seninle birlikte harika bir gemi inşa etmek benim için de büyük bir zevk olacak."
+
+Gülçin, "Ben de yardım edeceğim! Boyama, süsleme, tasarım... Hepsinde size destek olacağım. Bu sayede hem eğleniriz hem de Elif'in hayallerini gerçeğe dönüştürmesine yardımcı oluruz."
+
+Elif, mutlulukla, "Yaşasın! Ben bu gemilerle bir sürü çocuğun hayallerini gerçekleştireceğim! Onlara harika maceralar yaşatacağım. Birlikte dünyanın en güzel masallarını yazacağız!" dedi.
+
+Birlikte kahvaltılarını yaparken, Elif, ailesine rüyasını anlatmanın mutluluğuyla parlayan gözleriyle, gelecekteki maceralarının hayallerini kuruyordu. Artık, rüyalarında gördüğü parlayan gemiler sadece bir rüya olmaktan çıkmış, gerçek hayatta inşa edilecek muhteşem bir projenin başlangıcı olmuştu.
+</body>
+```

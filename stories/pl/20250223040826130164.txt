@@ -1,0 +1,110 @@
+<prompt>
+Please write a relatable Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Przygodowa misja śmiałych, młodych odkrywców'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>pl</lang_id>
+
+```xml
+<title>Przygodowa misja śmiałych, młodych odkrywców</title>
+<body>
+<p>Pewnego słonecznego poranka, w uroczym miasteczku Złota Woda, gdzie domki miały dachy koloru miodu, a okna ozdobione były pelargoniami, mieszkała trójka przyjaciół. Byli to: Zosia, energiczna dziewczynka z burzą kręconych, ciemnych włosów i oczami jak czarne jagody; Kuba, wysoki chłopiec o wiecznie uśmiechniętej twarzy i mocnych, sprawnych rękach; oraz Mia, delikatna dziewczynka z blond warkoczem i marzycielskim spojrzeniem.</p>
+
+<p>Zosia była duszą towarzystwa, zawsze gotowa do działania i pomysłów. Kuba uwielbiał budować i majsterkować, a Mia miała niesamowitą wyobraźnię i talent do opowiadania historii. Razem tworzyli zgraną drużynę, gotową na każdą przygodę.</p>
+
+<p>Tego dnia, gdy słońce wesoło zaglądało przez okna, Zosia wpadła na pomysł. "Słuchajcie, mam coś! Babcia Krysia opowiadała mi o tajemniczej jaskini, ukrytej gdzieś w lesie za miastem. Mówiła, że w środku kryją się skarby!"</p>
+
+<p>Kuba natychmiast z entuzjazmem odpowiedział: "Skarby?! To brzmi niesamowicie! Musimy tam iść! Potrzebujemy mapy!"</p>
+
+<p>Mia, zamyślona, dodała: "Ale babcia Krysia powiedziała, że jaskinia jest strasznie niebezpieczna. Trzeba uważać na dziwne dźwięki i nagłe zmiany pogody."</p>
+
+<p>Zosia, choć nieco przestraszona, nie chciała rezygnować. "Nie bójmy się! Będziemy ostrożni. Zrobimy plan i wszystko przygotujemy. To będzie nasza misja!"</p>
+
+<p>Tak narodziła się "Przygodowa misja śmiałych, młodych odkrywców".</p>
+
+<p>Pierwszym krokiem było zebranie niezbędnego ekwipunku. Kuba wziął ze strychu starą mapę, kompas i latarkę. Zosia spakowała plecak z batonami energetycznymi, wodą i apteczką. Mia dodała do tego notes i ołówek, wierząc, że będzie musiała zanotować jakieś ważne odkrycia.</p>
+
+<p>Następnie dzieci zasiadły przy stole, rozkładając mapę. "Z tego co mówiła babcia Krysia," zaczęła Zosia, "jaskinia powinna znajdować się w pobliżu strumienia, za Starym Lasem."</p>
+
+<p>"Stary Las... To brzmi tajemniczo," mruknął Kuba, przyglądając się mapie. "Musimy uważać na korzenie drzew i dzikie zwierzęta."</p>
+
+<p>Mia zaczęła rysować na mapie szkice, zaznaczając możliwe niebezpieczeństwa. "Pamiętajmy, że musimy trzymać się razem i nigdy się nie rozdzielać," powiedziała stanowczo.</p>
+
+<p>Po dokładnym zaplanowaniu trasy i zebraniu wszystkich potrzebnych rzeczy, trójka przyjaciół wyruszyła w drogę. Słońce prażyło niemiłosiernie, ale dzieci były pełne zapału.</p>
+
+<p>Po godzinie marszu dotarli do Starego Lasu. Drzewa były tak wysokie, że słońce z trudem przedzierało się przez gęste korony. W powietrzu unosił się zapach wilgotnej ziemi i igliwia.</p>
+
+<p>"Ale tu ciemno!" jęknęła Mia, trzymając mocno rękę Zosi.</p>
+
+<p>"Spokojnie, mamy latarkę," uspokoił ją Kuba, włączając urządzenie. Promień światła rozświetlił ścieżkę przed nimi.</p>
+
+<p>W miarę jak wchodzili głębiej w las, robiło się coraz ciszej. Słyszeli tylko szum wiatru w koronach drzew i odgłosy własnych kroków. Nagle, Kuba zatrzymał się i wskazał palcem w górę. "Zobaczcie! Orzeł!"</p>
+
+<p>Na niebie krążył dumnie ogromny orzeł, obserwując ich z góry. Dzieci z zachwytem wpatrywały się w ptaka, zapominając na chwilę o celu swojej wyprawy.</p>
+
+<p>Po chwili Kuba zauważył wąską ścieżkę, schowaną za gęstym krzewem. "Tu! Chyba tędy mamy iść!"</p>
+
+<p>Ścieżka prowadziła w dół, coraz bliżej strumienia, o którym mówiła babcia Krysia. W końcu, po długim marszu, zobaczyli ją – jaskinię! Była ukryta w skalnej ścianie, porośnięta mchem i bluszczem.</p>
+
+<p>"Ojej, ale to wygląda strasznie," wyszeptała Mia.</p>
+
+<p>"Nie bój się, Mia," powiedział Kuba, starając się brzmieć pewnie. "Jesteśmy razem."</p>
+
+<p>Zosia, zdeterminowana, podeszła do wejścia do jaskini. "No dobrze, wchodzimy!"</p>
+
+<p>Weszli do ciemnej i wilgotnej jaskini. Było tu chłodno i pachniało mokrym kamieniem. Latarka Kuby oświetlała wąski korytarz, który prowadził w głąb.</p>
+
+<p>Nagle, w oddali, rozległ się dziwny dźwięk. "Co to było?" zapytała z przerażeniem Mia.</p>
+
+<p>"To pewnie tylko wiatr," odpowiedziała Zosia, choć sama poczuła dreszcz na plecach.</p>
+
+<p>Szli dalej, ostrożnie stawiając kroki. Korytarz skręcał i zakręcał, prowadząc w dół. Po chwili dotarli do dużej, przestronnej sali. Na środku znajdował się mały, okrągły staw.</p>
+
+<p>"Wow!" wykrzyknęli jednocześnie dzieci, zaskoczone pięknem tego miejsca.</p>
+
+<p>Brzegi stawu oświetlały tajemnicze, zielone światło. Woda była krystalicznie czysta, a na dnie widać było błyszczące kamienie.</p>
+
+<p>Mia, zauroczona, zanotowała w swoim notesie: "Niesamowite! Woda mieni się magicznym światłem!"</p>
+
+<p>Nagle, usłyszeli kolejny dźwięk – tym razem głośniejszy i bardziej niepokojący. "Coś tu jest!" krzyknęła Zosia.</p>
+
+<p>Zza skał wyłoniły się dwie ogromne oczy, błyszczące w ciemności. Serce Kuby zaczęło szybciej bić. "To... to niedźwiedź!"</p>
+
+<p>Dzieci zamarły ze strachu. Niedźwiedź, wielki i groźny, powoli zbliżał się w ich stronę.</p>
+
+<p>"Uciekamy!" krzyknęła Zosia i wszyscy rzucili się do ucieczki. Biegli korytarzami jaskini, potykając się i gubiąc po drodze. Niedźwiedź ryczał za nimi, dając im do zrozumienia, że ich śladem idzie.</p>
+
+<p>W końcu, po długim i wyczerpującym biegu, dotarli do wyjścia z jaskini. Wybiegli na zewnątrz, padając na ziemię z wycieńczenia.</p>
+
+<p>"Uff... Uciekliśmy..." wydyszał Kuba.</p>
+
+<p>"Ten niedźwiedź... To było straszne!" powiedziała Mia, drżąc ze strachu.</p>
+
+<p>Zosia, choć wystraszona, odetchnęła z ulgą. "Najważniejsze, że jesteśmy cali i zdrowi. Może lepiej będzie zrezygnować ze skarbów..."</p>
+
+<p>Wtedy, Kuba, który w szaleńczym biegu zgubił mapę, zauważył coś błyszczącego w trawie. Podniósł to i zaniemówił z wrażenia.</p>
+
+<p>"Patrzcie!" krzyknął, trzymając w ręku piękną, złota monetę! "Znalazłem skarb!"</p>
+
+<p>Moneta była mała, ale lśniąca i wyglądała na bardzo starą. Na jej powierzchni widniał dziwny wzór.</p>
+
+<p>Mia spojrzała na monetę i nagle, jej oczy rozbłysły. "To... to gwiazda! Taka sama, jak na herbie naszego miasta! Babcia Krysia mówiła, że to symbol szczęścia i odwagi!"</p>
+
+<p>Zosia i Kuba spojrzeli na siebie. Okazało się, że skarby wcale nie muszą być wielkie i kosztowne. Najważniejsze jest to, co się liczy dla serca.</p>
+
+<p>Wrócili do domu szczęśliwi i dumni ze swojej misji. Choć nie znaleźli bogactw w postaci złota i klejnotów, odkryli coś cenniejszego – przyjaźń, odwagę i radość z pokonywania trudności razem.</p>
+
+<p>Wieczorem, siedząc w pokoju Zosi, przeglądali pamiątki z wyprawy. Kuba z dumą trzymał złotą monetę, Mia opowiadała o swoich notatkach i rysunkach, a Zosia planowała kolejne przygody.</p>
+
+<p>Zasnęli z uśmiechami na twarzach, pełni wspomnień i obietnic przyszłych odkryć. Wiedzieli, że ich przyjaźń jest najcenniejszym skarbem, jaki mogą mieć.</p>
+
+<p>I tak zakończyła się "Przygodowa misja śmiałych, młodych odkrywców", ale ich przygody dopiero się zaczynały.</p>
+
+</body>
+```

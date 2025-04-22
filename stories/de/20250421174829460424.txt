@@ -1,0 +1,76 @@
+<prompt>
+Please write a timeless German children's story that is at least 1000 words long.
+It must be completely written in proper German (DE).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Das ABC der Tiere im Wald'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>de</lang_id>
+
+```xml
+<title>Das ABC der Tiere im Wald</title><body>
+<p>Es war einmal, tief im Herzen eines dichten, grünen Waldes, ein kleines Mädchen namens Greta. Greta hatte strahlend blaue Augen und blonde Zöpfe, die ihr über die Schultern tanzten, wenn sie durch das Unterholz flitzte. Ihr liebster Zeitvertreib war es, im Wald herumzustreifen, die Tiere zu beobachten und ihre Geschichten zu erlauschen. Greta kannte jedes Tier im Wald, und sie wusste, dass jedes Tier einen ganz besonderen Buchstaben in ihrem ganz eigenen ABC hatte. Dieses ABC war nicht wie das in der Schule, sondern ein ABC, das von den Tieren des Waldes selbst geschrieben wurde.</p>
+
+<p>An einem sonnigen Morgen, als die ersten Sonnenstrahlen durch die Blätter tanzten, beschloss Greta, ihr ABC der Tiere aufzuschreiben. Sie nahm ihr kleines, ledergebundenes Notizbuch und ihren Bleistift und machte sich auf den Weg in den Wald.</p>
+
+<p>**A wie Ameise:** Zuerst begegnete Greta einer fleißigen Ameisenkolonie. Winzige, schwarze Ameisen huschten geschäftig umher, trugen Krümel und Blätter und organisierten ihr großes Ameisenvolk. "A für Ameise," flüsterte Greta und kritzelte den Buchstaben ins Notizbuch. "Die Ameise ist so winzig, aber so stark und fleißig!"</p>
+
+<p>**B wie Bär:** Ein kurzes Stück weiter traf Greta auf einen gemütlichen Braunbären, der sich gerade aus seinem Winterschlaf erhoben hatte und sich in der Sonne reckte und streckte. Der Bär brummte freundlich, und Greta notierte: "B für Bär. Der Bär ist groß und stark, und manchmal auch ein bisschen brummig."</p>
+
+<p>**C wie Dachs:** Der Dachs, mit seinem schwarz-weiß gestreiften Gesicht, kam aus seinem Bau gekrabbelt. Er schnüffelte neugierig und betrachtete Greta. "C für Dachs", schrieb Greta. "Der Dachs ist ein fleißiger Baumeister und versteht sich hervorragend darauf, seine Höhle sauber zu halten."</p>
+
+<p>**D wie Eichelhäher:** Auf einem Ast eines alten Baumes saß ein frecher Eichelhäher und beobachtete Greta mit seinen blauen Augen. Er krächzte und hüpfte von Ast zu Ast. "D für Eichelhäher," schrieb Greta. "Der Eichelhäher ist schlau und versteckt Eicheln, um sie im Winter zu finden."</p>
+
+<p>**E wie Eichhörnchen:** Ein flinkes Eichhörnchen flitzte an Greta vorbei, kletterte an einem Baum hoch und verschwand in den Blättern. "E für Eichhörnchen," sagte Greta lachend. "Das Eichhörnchen ist ein kleiner Akrobat, der in Windeseile durch die Bäume saust."</p>
+
+<p>**F wie Fuchs:** Am Rande des Waldes, unter einem dichten Busch, lag ein schlauer Fuchs und sonnte sich. Seine Augen waren wachsam, und er schien Greta zu mustern. "F für Fuchs," notierte Greta. "Der Fuchs ist schlau und listig, ein echter Überlebenskünstler."</p>
+
+<p>**G wie Gämse:** Ein paar Schritte weiter oben am Hang sah Greta eine elegante Gämse, die graziös über die Felsen sprang. "G für Gämse," schrieb Greta voller Bewunderung. "Die Gämse ist elegant und geschickt, sie tanzt auf den Bergspitzen."</p>
+
+<p>**H wie Hase:** Ein kleiner Hase, mit großen, ängstlichen Augen, huschte ängstlich über den Weg. "H für Hase," murmelte Greta. "Der Hase ist schnell und vorsichtig, immer auf der Hut vor Gefahren."</p>
+
+<p>**I wie Igel:** Unter einem Haufen von Blättern entdeckte Greta einen kleinen Igel, der sich gerade einrollte. "I für Igel," flüsterte Greta. "Der Igel ist stachelig und verteidigt sich gut."</p>
+
+<p>**J wie Jäger:** Ein Jäger mit Pfeil und Bogen kam vorsichtig durch den Wald. Greta bemerkte: "J wie Jäger, die auf die Tiere aufpassen und dafür sorgen, dass der Wald gesund bleibt."</p>
+
+<p>**K wie Käfer:** Auf einem großen, verrotteten Baumstamm entdeckte Greta einen kleinen Käfer, der mühsam versuchte, einen Ast zu tragen. "K für Käfer," schrieb Greta. "Der Käfer ist winzig, aber unglaublich stark."</p>
+
+<p>**L wie Luchs:** In den Büschen erkannte Greta einen Luchs, der sich heimlich anschlich. "L für Luchs," sagte sie ehrfürchtig. "Der Luchs ist ein stiller Jäger, der mit geschmeidigen Pfoten durch den Wald streift."</p>
+
+<p>**M wie Maus:** Eine kleine Maus flitzte flink über den Waldboden und verschwand unter einem Pilz. "M für Maus," sagte Greta. "Die Maus ist klein und mutig und sucht immer nach etwas zu essen."</p>
+
+<p>**N wie Nachtigall:** Am Ufer des Flusses hörte Greta eine wunderschöne Melodie – eine Nachtigall sang ihre liebliche Weise. "N für Nachtigall," flüsterte Greta. "Die Nachtigall singt die schönsten Lieder im Wald."</p>
+
+<p>**O wie Otter:** Ein neugieriger Otter schwamm im klaren Wasser des Flusses. Er schien Greta zuzusehen. "O für Otter," schrieb Greta. "Der Otter ist ein fröhlicher Geselle, der im Wasser spielt und sich gerne im Schlamm suhlt."</p>
+
+<p>**P wie Pilz:** Am Waldboden entdeckte Greta einen roten Pilz mit weißen Punkten, der gerade aus der Erde spross. "P für Pilz," schrieb Greta. "Der Pilz wächst im Wald, kann aber manchmal auch giftig sein, also vorsichtig sein."</p>
+
+<p>**Q wie Quell:** In einer kleinen Quelle blubberte sauberes, klares Wasser. "Q wie Quell," notierte Greta. "Das Wasser ist rein und erfrischend für alle Tiere des Waldes."</p>
+
+<p>**R wie Reh:** Ein zartes Reh mit sanften Augen schaute vorsichtig durch das Unterholz. "R für Reh," flüsterte Greta. "Das Reh ist elegant und grazil, ein wahrer Anblick für die Augen."</p>
+
+<p>**S wie Schlange:** Am Wegesrand sonnte sich eine glatte Schlange. Greta überlegte. "S für Schlange," sagte sie vorsichtig. "Die Schlange ist manchmal unheimlich, aber doch Teil des Kreislaufs der Natur."</p>
+
+<p>**T wie Tanne:** Eine majestätische Tanne reckte ihre Zweige in den Himmel. "T für Tanne," schrieb Greta. "Die Tanne ist stark und standhaft und schützt die Tiere bei schlechtem Wetter."</p>
+
+<p>**U wie Uhu:** Hoch oben in einem alten Baum hörte Greta das Rufen einer Uhu. "U für Uhu," notierte Greta. "Der Uhu ist weise und beobachtet alles aus der Ferne."</p>
+
+<p>**V wie Vogel:** Am Himmel flogen viele verschiedene Vögel, sangen ihre Lieder und suchten nach Futter. "V für Vogel," schrieb Greta. "Die Vögel sind vielfältig und bringen Leben in den Wald."</p>
+
+<p>**W wie Wildschwein:** Eine ganze Familie von Wildschweinen durchquerte den Weg. "W für Wildschwein," schrieb Greta. "Das Wildschwein ist stark und wühlt nach Nahrung auf dem Boden."</p>
+
+<p>**X wie Xenodocus:** Etwas Schwieriges für Greta, aber schließlich fiel ihr ein: Ein Xenodocus (einer von den seltenen, kleinen, einheimischen Wildarten). "X für Xenodocus."</p>
+
+<p>**Y wie Ysop:** Ein schönes Kräutlein war im Wald am Rande vom Weg gefunden, bekannt als Ysop, was Greta ins Buch eintrug. "Y für Ysop," flüsterte Greta.</p>
+
+<p>**Z wie Zeisig:** Zu guter Letzt entdeckte Greta einen kleinen Zeisig auf einem Ast. "Z für Zeisig," schrieb Greta glücklich. "Der Zeisig ist ein bunter kleiner Vogel, der den Wald verschönert."</p>
+
+<p>Greta schloss ihr Notizbuch. Ihr ABC der Tiere im Wald war vollendet. Sie wusste, dass jedes Tier, jeder Baum, jede Pflanze im Wald eine Geschichte zu erzählen hatte. Und sie, Greta, würde immer wiederkommen, um zuzuhören und zu lernen, und um das ABC der Tiere des Waldes zu bewahren.</p>
+
+<p>Als die Sonne langsam unterging und der Wald in sanftes Dämmerlicht getaucht wurde, machte sich Greta auf den Heimweg, ihr Notizbuch fest an sich gedrückt. Sie wusste, dass das ABC der Tiere im Wald sie für immer begleiten würde, und sie freute sich schon auf den nächsten Tag, an dem sie neue Geschichten im Herzen des Waldes entdecken würde.</p>
+</body>
+```

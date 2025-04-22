@@ -1,0 +1,89 @@
+<prompt>
+Please write a silly Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Tulivuoren Tuiman Tarina ja Arvoitus'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>fi</lang_id>
+
+```xml
+<title>Tulivuoren Tuiman Tarina ja Arvoitus</title>
+<body>
+Olipa kerran, aivan Pohjois-Suomen reunalla, hieman tunturin itäpuolella, omituinen tulivuori. Sen nimi oli Tuima, ja Tuima oli todellakin nimensä veroinen. Ei niinkään tulen takia (vaikka toki joskus saattoi vähän sulaa lunta kyljiltä), vaan koska Tuima oli jatkuvasti äkäinen. Sanottiin, että Tuima oli suuttunut jo ennen kuin ihmisetkään muistivat sen olemassaolon, ja suuttumus vain yltyi vuosi vuodelta.
+
+Tuima ei pitänyt mistään. Ei aurinkopaisteesta ("Sokaisevaa!") eikä pilvisestä säästä ("Masseeraavat silmiäni!"). Ei porojen puskemisesta (vaikkakin niitä oli paljon, varsinkin lähimetsissä) eikä lintujen laulusta ("Särkee korviani!"). Ja kaikkein vähiten Tuima piti ihmisistä. "Ne kiipivät rinteilleni, nakertavat kivikkeitäni, ja kaiken lisäksi vielä mölyävät!" Tuima murahti joka kerta, kun kaukaa kuului ihmisten ääniä.
+
+Eräänä päivänä, hyvin erikoisena päivänä, kun Taivas itki rakeita ja tuuli ulvoi kuin nälkäinen susi, Tuimalla oli erityisen huono päivä. Ensinnäkin, eräs pieni orava oli pudottanut kävyn juuri siihen, missä Tuiman mielestä piti ihanteellisen kivipaaden. Toiseksi, eräs ilves oli päättänyt levätä Tuiman huulilla (eli kivikkoisella reunalla), ja kolmanneksi, Tuimalla oli kamala kutina – kivikautinen kutina, jota ei yksikään eläin tai luonnonvoima pystynyt raapimaan helpotukseksi.
+
+"ARGH!" karjaisi Tuima, niin että maa järähti ja lähimetsien puut heiluivat kuin hullun lailla. Ilves loikkasi pakoon hirveät silmät suurina, ja orava pudotti vielä toisenkin kävyn.
+
+Juuri silloin, sattumalta tai ei, paikalle asteeli pieni tyttö, nimeltä Lumi. Lumi oli utelias ja rohkea, ja hän rakasti arvoituksia. Hänellä oli yllään punainen takki, ja päässä sininen pipo. Hänellä oli myös mukanaan iso reppu täynnä eväitä, muun muassa maukkaita mustikkamuffineita.
+
+Lumi pysähtyi hetkeksi, ja katsoi Tuimaa, joka tuntui olevan juuri sillä hetkellä räjähdyspisteessä. "Moi, tulivuori!" Lumi huusi. "Mitä ihmettä täällä tapahtuu?"
+
+Tuima tuhahti. "Mitä sinun asiasi on, pieni tyttö? Olen tulivuori, ja minulla on aivan riittävästi tekemistä ilman, että minun pitää jutella sinulle!"
+
+"Minun nimeni on Lumi, ja tulin katsomaan, koska kuulit niin kovaa meteliä", Lumi vastasi ystävällisesti. Hän ei pelännyt Tuiman jyrinää lainkaan, vaan hymyili suoraan.
+
+Tuima oli päästä räjähtämään ihan oikeasti. "METELIÄ? Olenko ME-TE-LIÄ, sinun mielestäsi? Minulla on kutiava kivikausi, ja kaiken lisäksi et pääse koskaan ymmärtämään, miten ärsyttävää on olla VUO-RI!"
+
+Lumi istui alas ja otti repustaan yhden mustikkamuffinin. Hän ojensi sitä Tuimalle. "Ota, jos haluat. Voi olla, että se auttaa oloa."
+
+Tuima katsoi muffinia epäilevästi. "Mitä tämä on? Jotain, mitä syötävää?"
+
+"Mustikkamuffini. Se on herkullista", Lumi selitti. "Olen tehnyt niitä itse."
+
+Tuima ei ensin halunnut ottaa muffinia, mutta hänen vatsansa kurni niin kovaa, että se kuului Lumillekin. Hän lopulta suostui, ja otti muffinin varovasti. Hän veti jättimäisen kivenpalan kielelleen, ja yritti maistaa sitä varovaisesti.
+
+"Hmm...", Tuima sanoi epäröivästi. "Onko tämä... hyvää?"
+
+"Kerroinhan", Lumi hymyili. "Minun muffineissani on aina paras maku."
+
+Tuima söi muffinin kokonaan, ja vaikeni. Sitten hän kysyi: "Mitä nyt?"
+
+"No, kerro ihmeessä, mikä sinua vaivaa!" Lumi ehdotti.
+
+Tuima puhkesi itkemään, ja kyyneleet virtasivat alas rinteiltä ja muodostivat pienen joen. "Minulla on kutinaa! Kutinaa, jota en saa millään pois! Ja kaiken lisäksi olen yksinäinen ja ärtyisä. Kukaan ei ymmärrä minua!"
+
+Lumi kuunteli kärsivällisesti. Kun Tuima oli lopettanut, Lumi mietti hetken. "Olen kuullut, että kutinaa voi helpottaa, jos sitä raapii. Ja kun olet tulivuori, sinulla ei tietenkään ole käsiä. Mutta ehkä minä voisin auttaa!"
+
+Tuima katsoi Lumiin toiveikkaasti. "Todellako? Miten?"
+
+"No, minulla on tässä kivikko", Lumi sanoi. "Voisitko ehkä hieroa itseäsi siihen? Tai minä voisin yrittää hinkata sinua kivillä, jos se tuntuu paremmalta."
+
+Tuima epäröi hetken. Hän ei ollut koskaan antanut kenenkään koskea itseensä. Mutta kutina oli niin kova, että hän suostui.
+
+Lumi otti muutaman pyöreän kiven ja alkoi hinkata niillä Tuiman kylkeä. Aluksi se tuntui oudolta, mutta sitten siitä tuli yhä parempi, ja lopulta Tuima alkoi nauttia. "Ai, tuo tuntuu hyvältä! Lisää, lisää!" hän kirskaisi.
+
+Lumi hioi ja hieroi, ja Tuima katseli taivaalle hymyillen, ja kyyneleet kuivuivat hänen poskilleen. Kutina alkoi hellittää, ja Tuiman mieliala muuttui.
+
+"Kiitos, Lumi", Tuima sanoi lopulta. "Se oli... mahtavaa. Olen tuntenut itseni jo paljon paremmaksi."
+
+"Ole hyvä", Lumi vastasi. "Mutta miksi olet aina niin vihainen?"
+
+Tuima mietti asiaa. "Sitä en oikein tiedä. Ehkä siksi, ettei kukaan ole koskaan ymmärtänyt minua. Ehkä siksi, etten ole koskaan pitänyt itseäni tärkeänä."
+
+Lumi hymyili. "Kuuntelepas, minulla on sinulle arvoitus."
+
+"Arvoitus? Mistä sellaisesta?" Tuima ihmetteli.
+
+"Mitä on suuri, ei silti suuri, kuuma, ei kuitenkaan tulikuuma, ja antaa valoa, mutta ei niin kuin aurinko?" Lumi kysyi.
+
+Tuima mietti hetken. "Hmm... En tiedä. Kerro vastaus!"
+
+Lumi nauroi ja sanoi: "Se on ystävyys! Ystävyys voi olla suurta tai pientä, mutta se lämmittää kuin tulta ja antaa valoa elämään."
+
+Tuima vaikeni taas. Sitten hän sanoi pehmeästi: "Lumi, sinä... olet oikeassa. Olen aina ollut yksin, ja vihainen, koska en ole tehnyt mitään löytääkseni ystäviä. Kiitos, että tulit luokseni."
+
+"Ei kestä!", Lumi sanoi. "Nyt, annetaanko sinulle vielä yksi mustikkamuffini?"
+
+Tuima naurahti, ja maa järähti ilosta. Se oli ensimmäinen kerta moneen, moneen vuoteen, kun Tuima nauroi. "Kyllä, kiitos! Ja ehkäpä voisit kertoa minulle lisää arvoituksia?"
+
+Ja niin Lumi ja Tuima viettivät sen päivän yhdessä, syöden mustikkamuffineita, ja ratkoen arvoituksia. Tuima ei enää ollut vihainen, ja Lumi sai uuden ystävän. Ja siitä päivästä lähtien, Tuima ei ollut enää vain tulivuori, vaan ystävällinen tulivuori, joka toivotti kaikki tervetulleiksi rinteilleen. Ja joskus, jos kuuntelet tarkasti, voit kuulla Tuiman jopa kuiskaavan: "Ystävyys on parasta!"
+</body>
+```

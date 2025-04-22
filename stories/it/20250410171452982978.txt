@@ -1,0 +1,45 @@
+<prompt>
+Please write a timeless Italian children's story that is at least 1000 words long.
+It must be completely written in proper Italian (IT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La raganella e il canto notturno'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>it</lang_id>
+
+```xml
+<title>La raganella e il canto notturno</title>
+<body>
+Nel cuore della Toscana, tra colline verdeggianti e vigneti dorati, viveva una piccola raganella di nome Allegra. Allegra, con la sua pelle verde smeraldo e i grandi occhietti brillanti, era una creatura piena di vita e di curiosità. Ogni sera, quando il sole si abbassava sull'orizzonte, dipingendo il cielo con sfumature di rosa e arancione, Allegra si posizionava sulla foglia più grande di un ninfeo, preparandosi al suo canto notturno.
+
+Ma Allegra non era come le altre raganelle. Mentre le sue compagne intonavano cori monotoni e ripetitivi, lei sognava melodie nuove, ricche di passione e di mistero. Cercava invano di emulare il canto del cuculo, la dolce nenia del grillo, il soffio del vento tra le foglie di cipresso. Ma ogni suo tentativo si concludeva con un semplice, e per lei insoddisfacente, "cric, cric, cric".
+
+Una sera, mentre la luna argentea iniziava a illuminare il paesaggio, Allegra, più scoraggiata del solito, si preparava al suo usuale canto. Ma prima che potesse emettere il solito verso, un suono straordinario, un’armonia sconosciuta, si diffuse nell'aria. Proveniva da una lontana radura, dove le lucciole danzavano come polvere di stelle.
+
+Incuriosita e rapita, Allegra decise di avventurarsi alla scoperta. Abbandonò il suo ninfeo, saltellando attraverso l’erba umida, superando cespugli fitti e ruscelli gorgoglianti. Il percorso era lungo e periglioso. Doveva fare attenzione alle serpi, saggiamente nascoste nell’ombra, e agli avidi gufi che la sorvegliavano dall'alto.
+
+Mentre si faceva strada, si imbatté in una famiglia di ricci, raggomitolati sotto un fungo gigante, che la salutarono con un mormorio sonnacchioso. Un vecchio rospo, seduto su una pietra muschiata, la avvertì del pericolo, descrivendo la radura come un luogo magico, ma anche pieno di insidie. "Attenta, piccola Allegra", sibilò il rospo con voce rauca, "il canto che senti proviene dalla Fata delle Acque, e il suo canto può rapire il cuore."
+
+Allegra, tuttavia, non si lasciò scoraggiare. Il richiamo della musica era troppo forte. Avanzò imperterrita, superando ogni ostacolo, finché, finalmente, raggiunse la radura.
+
+La scena che si presentò ai suoi occhi era mozzafiato. La radura era illuminata da migliaia di lucciole scintillanti, che danzavano in un balletto incantevole. Al centro, su un lago incantato, sedeva la Fata delle Acque, una creatura di straordinaria bellezza, con lunghi capelli fluenti color acqua e occhi che brillavano come gemme. Stava suonando un’arpa di cristallo, e da quel momento la melodia che si spargeva per tutta la notte era semplicemente perfetta.
+
+Allegra, ipnotizzata, si avvicinò timidamente. La Fata la vide, e con un sorriso la invitò ad avvicinarsi. "Benvenuta, piccola raganella", sussurrò la Fata con una voce dolce come la rugiada. "So che cerchi il canto perfetto, e so che lo troverai."
+
+Allegra le raccontò del suo sogno, della sua frustrazione, del suo desiderio di creare musica speciale. La Fata la ascoltò attentamente, poi le disse: "Il canto non si trova, piccola mia. Si crea. E si crea dal cuore."
+
+La Fata le donò un piccolo fiore di ninfea, intessuto di magia. "Questo fiore", spiegò, "ti aiuterà a sentire le melodie che sono nascoste dentro di te. Ascolta il battito del tuo cuore, respira la musica del mondo, e lasciala fluire."
+
+Allegra tornò al suo ninfeo, stringendo il fiore magico. La notte successiva, sotto la luce argentea della luna, si preparò al suo canto. Chiuse gli occhi, si concentrò, e sentì il suo cuore pulsare. Ascoltò il vento che sussurrava tra le foglie, il canto dei grilli nella notte, e le melodie che scorrevano nel lago.
+
+Quando aprì gli occhi, non cercò di emettere un semplice "cric". Invece, liberò un canto diverso. Un canto nato dall'interno, con un'armonia particolare e unica. Un canto di gioia e di speranza, un canto di amore per la natura e per la vita. Il suo canto, finalmente, risuonava con la stessa magia della Fata delle Acque.
+
+Le altre raganelle, inizialmente sorprese, smisero di cantare e l'ascoltarono incantate. Alcune si unirono al canto di Allegra, creando un coro meraviglioso.
+
+Da quel giorno, Allegra divenne famosa per il suo canto speciale. Non solo rendeva felici gli altri animali della foresta, ma anche le notti successive. Le sue melodie raccontavano storie, dipingevano emozioni, e portavano la magia in ogni angolo della Toscana. E così, la piccola raganella, che un tempo sognava solo di cantare, diventò una leggenda, ricordata per sempre come la raganella che trovò la sua voce e insegnò a tutti il vero significato della musica: un linguaggio universale proveniente dal cuore. E ogni sera, quando il sole calava, la radura e le colline intorno alla casa di Allegra, si riempivano di quel canto che risuonava attraverso il tempo, un inno alla gioia, alla libertà, all'amore e alla magia che ancora vivono nelle verdi colline della Toscana. La sua musica non finì mai di cantare e con ogni nota, un messaggio: "Non abbiate mai paura di usare la vostra voce, perché ognuno di noi ha una melodia dentro di sé, basta solo saperla trovare". E così, la storia della raganella Allegra e il suo canto notturno, divenne una lezione per tutti i bambini del mondo.
+</body>
+```

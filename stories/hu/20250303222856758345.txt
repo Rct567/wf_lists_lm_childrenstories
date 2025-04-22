@@ -1,0 +1,52 @@
+<prompt>
+Please write a uncomplicated Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Lotti, a lány, aki beszélt a madarakkal'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>hu</lang_id>
+
+<title>Lotti, a lány, aki beszélt a madarakkal</title><body>Egyszer volt, hol nem volt, egy kis faluban élt egy kislány, akit Lottinak hívtak. Lotti nem volt olyan, mint a többi gyerek. Ő különleges képességgel rendelkezett: tudott beszélni a madarakkal. Nem csak hallotta a csipogásukat és a trillázásukat, hanem értette is, amit mondanak. Ez a képesség már kicsi korától megvolt neki, és a szülei is tudtak róla, de soha nem beszéltek erről másoknak. Úgy gondolták, hogy ez Lotti kis titka maradhat.
+
+Lotti mindennap kiment a faluban lévő erdőbe, ahol a madarakkal beszélgetett. A fák lombjai alatt ült, és figyelte, ahogy a madarak körülrepülik. Egyik nap, amikor éppen a kedvenc tölgyfája alatt üldögélt, egy kis sárga kanári szállt le a vállára.
+
+– Szia, Lotti! – csipogta a madár. – Új barátunk költözött az erdőbe. Ő egy feketerigó, és nagyon szomorú. Nem beszél senkivel, és nem is énekel. Tudnál segíteni neki?
+
+Lotti összeráncolta a homlokát. – Miért szomorú? – kérdezte.
+
+– Nem tudjuk – válaszolta a kanári. – Csak annyit mondott, hogy elvesztette valamit, ami nagyon fontos volt neki.
+
+Lotti felállt, és elhatározta, hogy megkeresi a feketerigót. A madarak vezették az erdő mélyébe, ahol egy öreg tölgyfa alatt ült a feketerigó. A madár fekete tollai csillogtak a napfényben, de a szemei tele voltak bánattal.
+
+– Szia – szólt hozzá Lotti óvatosan. – Hallottam, hogy szomorú vagy. Mi történt?
+
+A feketerigó felpillantott, és mély sóhajt hallatott. – Elvesztettem a családom – mondta halkan. – Egy vihar szétszórt minket, és azóta nem találom őket. Egyedül vagyok, és nem tudok énekelni. Az énekem nélkülözhetetlen a családom számára, csak így találhatnák meg újra.
+
+Lotti szíve megsajdult a madárért. – Segítek neked megtalálni őket – mondta határozottan. – De hogyan találhatnánk meg őket?
+
+A feketerigó elmondta, hogy a családja egy különleges dallamot énekel, ami csak rájuk jellemző. Ha Lotti és a többi madár segítene ezt a dallamot terjeszteni az erdőben, talán a családja meghallaná, és követné a hangot.
+
+Lotti egyből belefogott a tervbe. Összehívta az erdő összes madarát, és elmagyarázta nekik, mit kell tenniük. A madarak szívesen segítettek, hiszen Lotti mindig kedves volt hozzájuk. A feketerigó megtanította nekik a dallamot, és az összes madár elkezdte énekelni az erdőben. A hangok szépen terjedtek, és hamarosan az egész erdő tele volt a különleges dallammal.
+
+Lotti nem csak hallgatta a madarakat, hanem ő is segített. A madarakkal együtt énekelt, és a hangja olyan szép volt, hogy még a fák is megrezdültek tőle. Órákig tartott az éneklés, és Lotti már kezdett fáradni, de nem adta fel. Tudta, hogy a feketerigó családjának visszatérése fontosabb, mint a fáradtsága.
+
+Végre, amikor már napnyugta közeledett, a távolból egy másik hang hallatszott. Egy másik feketerigó énekelt, majd még egy, és még egy. A feketerigó családja közeledett! A madarak egyre hangosabban énekeltek, és hamarosan a feketerigó családja is megjelent a fák között. Összecsapták szárnyaikat, és boldogan körberepülték egymást.
+
+A feketerigó, akinek Lotti segített, könnyek között köszönte meg a lánynak a segítséget. – Köszönöm, Lotti. Nélküled soha nem találtam volna újra a családomat.
+
+Lotti mosolygott. – Örülök, hogy segíthettem. Most már újra boldog lehettek.
+
+A madarak körülvették Lottit, és mindegyikük háláját fejezte ki. A feketerigó családja pedig újraénekelte a dallamot, most már boldogságtól telve. Lotti tudta, hogy ezen a napon nem csak a feketerigó családját találta meg újra, hanem ő maga is megtanulta, hogy a segítség és az együttműködés milyen csodákat képes elérni.
+
+Amikor Lotti hazament, a szülei látták rajta a boldogságot. – Mi történt veled, kicsim? – kérdezték.
+
+Lotti elmesélte nekik az egész történetet, és a szülei büszkék voltak rá. Tudták, hogy Lotti különleges, de most még inkább megértették, hogy a lánya különleges képessége mennyi jót tud tenni.
+
+Aznap este, amikor Lotti lefeküdt aludni, az ablakában megjelent a sárga kanári. – Köszönjük, Lotti – csipogta. – Az erdő madarai mindig hálásak leszünk neked.
+
+Lotti mosolyogva aludt el, tudva, hogy a madarak barátai maradnak, és hogy az erdő mindig ott lesz számára, amikor szüksége van rá.</body>

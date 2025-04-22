@@ -1,0 +1,94 @@
+<prompt>
+Please write a creative and original Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Imeachtaí na Máthar Cróga'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>ga</lang_id>
+
+```xml
+<title>Imeachtaí na Máthar Cróga</title>
+<body>
+Bhíodh Máire ina máthair bheag chroíúil, bean a raibh gruaig dearg cosúil le lasair na tine agus súile glasa cosúil le féar na hÉireann. Bhí cónaí uirthi i dteach beag bán ar bharr cnoic, le radharc iontach ar an bhfarraige gorm. Ba bhreá léi a cuid páistí, Beirtín agus Siobhán, a bhíodh i gcónaí ag imirt sa ghairdín mór taobh amuigh den teach.
+
+Lá amháin, agus an ghrian ag taitneamh go hard sa spéir, chuaigh Máire síos go dtí an baile chun beagán bia a cheannach. D'fhág sí Beirtín agus Siobhán ag imirt, ag rá leo fanacht sa teach agus gan imeacht go dtí go mbeadh sí ar ais.
+
+"Beidh mé ar ais go luath," a dúirt sí, ag pógadh a gcinn. "Bígí go maith."
+
+Nuair a chuaigh Máire ar shiúl, bhuaigh an ghaoth go láidir, ag séideadh trí na crainn agus ag déanamh glórtha aistí. Thosaigh na scamaill ag bailiú, ag dathú na spéire le liath dorcha. Bhí sé ag breathnú cosúil le stoirm mhór.
+
+Agus Beirtín agus Siobhán ag imirt, chualathas glór lag ag glaoch ó chomh fada ar shiúl. "Cabhair! Cabhair!"
+
+"Cad a bhí ann?" a d'iarr Beirtín, a bhí ina bhuachaill beag cróga.
+
+"Chuala mé glaoch," a dúirt Siobhán, a bhí ina cailín beag le croí mór. "An gcaithfimid dul ag féachaint?"
+
+Chuaigh siad anuas go dtí an fál, agus d'fhéach siad thar an bhfeirm a bhí in aice leo. Chonaic siad capall beag bán, a bhí sáinnithe i bpoll. Bhí eagla ar an gcapall. Bhí sé ag iarraidh éalú, ach bhí a chosa sáite sa láib.
+
+"Och, bochtán," a dúirt Siobhán. "Ní mór dúinn cabhrú leis."
+
+"Ach dúirt mamaí linn fanacht sa teach," a dúirt Beirtín, ag breathnú ar ais ar an teach.
+
+"Tá a fhios agam, ach ní féidir linn ligean don chapall bheag fulaingt," a dúirt Siobhán. "Ní mór dúinn cabhrú leis."
+
+Tháinig Beirtín ar a bhun chun cabhrú, cé go raibh a chroí ag bualadh go tapa. Chuaigh siad síos go dtí an feirm, agus d'fhéach siad ar an gcapall. Bhí sé ag breathnú go han-bhrónach.
+
+"Ná bíodh eagla ort, a chapall bheag," a dúirt Siobhán go bog. "Beimid ag iarraidh tú a fháil amach as seo."
+
+Thosaigh siad ag tarraingt ar an gcapall, ag iarraidh é a tharraingt amach as an bpoll. Ach bhí sé ró-throm, agus bhí an láib ró-ghreamaitheach.
+
+"Ní féidir linn é a dhéanamh leis féin," a dúirt Beirtín, ag breathnú brónach. "Ní mór dúinn cabhair."
+
+Bhí sé ag tosú ag cur báistí, agus bhí an ghaoth ag séideadh níos láidre ná riamh. Ní raibh aon duine eile le feiceáil sa chomharsanacht. Bhí sé cosúil gur tháinig stoirm anuas orthu.
+
+"Tá a fhios agam," a dúirt Siobhán go tobann. "Tá seangán mór ag na seangáin!"
+
+D'éirigh sí ar a cosa, agus chuaigh sí síos go dtí an chraobh crainn a bhí in aice láimhe, áit a raibh an nead seangán mór. "A sheangáin!" ghlaoigh sí. "Tá capall beag sáinnithe i bpoll, agus ní féidir linn é a tharraingt amach. An féidir libh cabhrú linn?"
+
+Tháinig na seangáin amach as an nead, go leor acu. Bhí siad go léir beag, ach bhí siad an-chumhachtach. Chuaigh siad síos go dtí an capall, agus thosaigh siad ag tarraingt ar an láib. D'oibrigh siad le chéile, agus go luath, bhí an láib ag scaoileadh.
+
+Agus iad ag tarraingt, ar deireadh, tháinig an capall amach as an bpoll. Bhí sé sásta, ach bhí sé beagán salach. Bhí Beirtín agus Siobhán sásta go raibh sé sábháilte.
+
+"Go raibh maith agat, a sheangáin!" a dúirt Siobhán. "Tá sibh dochreidte!"
+
+"Ní raibh aon fhadhb," a dúirt na seangáin. "Is maith linn cabhrú."
+
+D'fhill Beirtín agus Siobhán ar ais go dtí an teach, agus iad fliuch go smior. Bhí a máthair tagtha abhaile, agus bhí sí buartha iad a fheiceáil.
+
+"Cá raibh sibh?" a d'iarr sí. "Bhí mé imníoch. Tá sé ag cur báistí go dian!"
+
+"Tá brón orm, mamaí," a dúirt Beirtín. "Bhí capall beag i bpoll, agus bhí muid ag cabhrú leis."
+
+Mhínigh siad don mháthair cad a tharla, agus d'éist sí le súile móra.
+
+"Tá sibh chomh cróga!" a dúirt sí. "Agus chomh cineálta. Táim chomh bródúil as bhur n-iompar."
+
+Thóg sí iad isteach sa teach, agus thug sí tuáillí dóibh chun iad a thriomú. D'iarr sí orthu suí síos os comhair na tine, agus thug sí tae te dóibh.
+
+"D'oibrigh sibh le chéile, agus d'úsáid sibh bhur gcroí," a dúirt Máire. "Sin an rud is tábhachtaí."
+
+Níos déanaí an oíche sin, nuair a bhí Beirtín agus Siobhán ina luí sa leaba, chuaigh Máire isteach sa seomra. Phóg sí iad, agus dúirt sí, "Mo pháistí cróga."
+
+Agus bhí a fhios ag Beirtín agus Siobhán go raibh siad tar éis rud éigin iontach a dhéanamh. Bhí siad tar éis cabhrú le duine eile, agus bhí siad tar éis a bheith cróga. Bhí a fhios acu go mbeadh siad i gcónaí ag cuimhneamh ar an lá sin, agus ar na seangáin a chabhraigh leo. Agus thuig siad gur féidir le daoine beaga rud mór a dhéanamh má tá siad cróga agus cineálta.
+Bhí sé ag breathnú cosúil le lá an-speisialta, lá a bhí lán le eachtraí, lá a léirigh an fhírinne faoi croí na ndaoine.
+An mhaidin dár gcionn, d'éirigh Máire le luath, agus d'ullmhaigh sí bricfeasta blasta don teaghlach. Nuair a bhí siad ag ithe, d'iarr sí ar Beirtín agus Siobhán a gcuid bróga a chur orthu, mar bhí siad ag dul go dtí an feirm chun cuairt a thabhairt ar an gcapall beag.
+Nuair a tháinig siad, fuair siad an capall beag ag imirt sa bhfaiche, ag rith agus ag léim. Thug siad cairéid dó, atá sé ag ithe go sásta.
+Agus bhí Máire chomh bródúil as a cuid páistí. Bhí a fhios aici go raibh siad tar éis rud éigin speisialta a dhéanamh, agus go mbeadh siad i gcónaí ag coinneáil an chroí sin leo.
+Bhí siad ina máthair agus páistí cróga, agus bhí grá acu ar a chéile. Bhí a saol lán le eachtraí, agus ba bhreá leo gach nóiméad dá saol a chaitheamh le chéile.
+Mar sin, d'fhan siad ann go dtí tráthnóna, ag imirt leis an gcapall, agus ag baint taitnimh as an lá breá.
+Nuair a bhí sé in am dul abhaile, thug Máire póg deireanach don chapall beag, ag rá leis a bheith go maith.
+Ar an mbealach abhaile, ghlac Beirtín lámh Siobhán, agus dúirt sé, "Bhí sé sin iontach, nach raibh?"
+"Bhí sé," a dúirt Siobhán. "Táim chomh sásta gur chabhraigh muid leis an gcapall."
+Agus nuair a d'fhill siad ar ais go dtí an teach, bhí siad tuirseach, ach sona. Bhí siad tar éis lá iontach a bheith acu, agus bhí siad tar éis cuimhne a dhéanamh a mhairfeadh ar feadh a saoil.
+Bhí an stoirm imithe. Agus an ghrian ag taitneamh arís.
+Agus mar sin, bhí gach rud ceart arís sa saol beag seo.
+Bhí sé ina lá fada, ach lá a bhí lán le áthas agus le grá.
+Agus bhí sé go léir mar gheall ar na imeachtaí na máthar cróga agus a cuid páistí beaga.
+An deireadh.
+</body>
+```

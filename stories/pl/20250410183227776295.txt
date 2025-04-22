@@ -1,0 +1,72 @@
+<prompt>
+Please write a simple and easy-to-follow Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Wesoły Pies, Który Kochał Bawić Się Piłką Nożną.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pl</lang_id>
+
+```xml
+<title>Wesoły Pies, Który Kochał Bawić Się Piłką Nożną</title><body>
+Pewnego słonecznego dnia, w małym, przytulnym miasteczku, żył bardzo wesoły pies. Nazywał się Fifi, a jego futro było tak białe jak śnieg. Oczy Fiiego były błyszczące i radosne, a jego uśmiech potrafił rozjaśnić nawet najbardziej pochmurny dzień. Fifi uwielbiał jedną rzecz bardziej niż cokolwiek innego na świecie: piłkę nożną!
+
+Codziennie rano, kiedy słońce wschodziło i malowało niebo na pomarańczowo i różowo, Fifi zrywał się z koszyka i pędem biegł na pobliskie zielone boisko. Boisko było jego królestwem. Tam spędzał długie godziny, bawiąc się piłką nożną. Dostał ją od małej dziewczynki o imieniu Zosia, która była jego najlepszą przyjaciółką.
+
+Zosia miała rude warkocze, piegi na nosie i zawsze szeroki uśmiech na twarzy. Była bardzo energiczna i uwielbiała bawić się z Fifim. Często razem grali w piłkę nożną, a Fifi, ze swoim zwinnością i szybkością, był doskonałym zawodnikiem.
+
+Pierwszą rzeczą, jaką robił Fifi, po przybyciu na boisko, było rozejrzenie się. Sprawdzał, czy Zosia już przyszła. Jeśli Zosia jeszcze nie dotarła, Fifi ćwiczył. Rzucał piłkę w powietrze i łapał ją pyskiem. Kopał piłkę tak wysoko, jak tylko potrafił, a potem z gracją ją odbierał. Bawiąc się, wesoło szczekał, a jego białe futro falowało na wietrze.
+
+Pewnego razu, kiedy Fifi trenował, zobaczył jak trzech chłopców gra w prawdziwą piłkę nożną. Byli starsi od niego, i na początku, trochę się wstydził podejść. Ale Fifi był ciekawski. Czuł w sobie dużą potrzebę, by dołączyć do gry. Zatem, zebrał w sobie odwagę i podbiegł do nich, wymachując ogonem i merdając nim z radości.
+
+Chłopcy spojrzeli na Fiiego z uśmiechem. Jeden z nich, o imieniu Kuba, powiedział: „Cześć, maluchu! Co ty tu robisz?”
+
+Fifi zamerdał ogonem jeszcze mocniej, a Zosia, która właśnie przyszła, odpowiedziała za niego: „On uwielbia grać w piłkę nożną! Jest w tym naprawdę dobry!”
+
+Chłopcy spojrzeli na siebie, po czym Kuba rzekł: „No dobrze, możesz spróbować. Ale uważaj, bo my gramy na poważnie.”
+
+Fifi zaszczekał radośnie i natychmiast pobiegł na boisko. Początkowo, chłopcy nie wiedzieli, jak mają grać z psem. Ale Fifi pokazał im, że potrafi. Biegał po boisku, podawał piłkę pyskiem, a czasem nawet starał się ją strzelać. Robił to wszystko z ogromną radością i zapałem.
+
+Z początku chłopcy się śmiali, ale szybko zrozumieli, że Fifi jest naprawdę pomocny. Był szybki, zwinny i zawsze gotów do gry. Czasami nawet potrafił zablokować strzały lepiej niż którykolwiek z nich.
+
+Gra była pełna śmiechu i radości. Fifi biegł za piłką, skakał, robił uniki, a chłopcy z radością kibicowali mu. Zosia również była zachwycona. Wpatrywała się w Fiiego z dumą w oczach.
+
+Po długiej i ekscytującej grze, chłopcy byli zmęczeni, ale szczęśliwi. Fifi był zmęczony bardziej niż wszyscy, ale jego ogon nadal wesoło merdal. Kuba podszedł do Fiiego i pogłaskał go po głowie. „Jesteś świetnym zawodnikiem, Fifi!” – powiedział.
+
+Pozostała dwójka chłopców zgodziła się z nim. Powiedzieli, że Fifi był najlepszym zawodnikiem, z jakim kiedykolwiek grali.
+
+Od tego dnia, Fifi regularnie grał w piłkę nożną z chłopcami. Zawsze czekali na niego z niecierpliwością. Często razem z Zosią tworzyli drużynę. Nieważne, czy wygrywali, czy przegrywali, zawsze dobrze się bawili. Ważne było wspólne spędzanie czasu i radość z gry.
+
+Pewnego dnia, w miasteczku odbył się turniej piłki nożnej dla dzieci. Zosia, Kuba i dwaj pozostali chłopcy postanowili zapisać się do turnieju. Nie mogli jednak zostawić Fiiego. Wiedzieli, że potrzebują go w drużynie.
+
+Zosia wpadła na pomysł. Porozmawiała z organizatorami turnieju i zapytała, czy Fifi może wziąć udział. Początkowo, organizatorzy byli zaskoczeni, ale Zosia uparła się. Opowiedziała o wszystkich niezwykłych umiejętnościach Fiiego.
+
+W końcu, po długich namowach, organizatorzy zgodzili się, żeby Fifi wystąpił w turnieju, ale tylko jako dodatkowy zawodnik. Zgodzili się, żeby pomagał, ale nie mógł liczyć się jako jeden z zawodników w liczeniu bramek. Było to ogromne szczęście dla całej drużyny.
+
+Drużyna, w której grał Fifi i Zosia, z radością zapisała się do turnieju. Nazwali się „Wesołe Pieski”. Fifi był bardzo podekscytowany. Od samego rana biegał po domu, merdając ogonem i szczekając radośnie.
+
+W dniu turnieju, całe miasteczko zjechało się na boisko. Drużyna „Wesołych Piesków” zagrała w swoich nowych, zielonych koszulkach. Na koszulce każdego gracza, oprócz jego imienia, widniała łapka psa. Na koszulce Fiiego namalowano jego uśmiechniętą buzię.
+
+Pierwszy mecz był bardzo ekscytujący. Fifi, jak zawsze, dał z siebie wszystko. Biegał, skakał, bronił strzałów, podawał piłkę i zagrzewał drużynę do walki. Zosia i Kuba znali wszystkie jego sztuczki. Wiedzieli, jak najlepiej wykorzystać jego umiejętności. Mecze były trudne, ale „Wesołe Pieski” grały z wielkim sercem. Publiczność wiwatowała na widok Fiiego, który biegał po boisku jak prawdziwy profesjonalista.
+
+Drużyna „Wesołych Piesków” wygrała wiele meczów, dzięki niesamowitej grze wszystkich zawodników. Ostatecznie dotarli do finału. W finale czekała na nich silna drużyna.
+
+Mecz finałowy był niezwykle zacięty. Obie drużyny walczyły zawzięcie. Piłka krążyła po boisku, a kibice wstrzymali oddech. Fifi, jak zawsze, dał z siebie wszystko. Biegł, bronił, podawał, zagrzewał. Zosia i Kuba strzelali gole, a reszta drużyny pomagała im z całej siły.
+
+Nadeszła ostatnia minuta meczu. Wynik był remisowy. Emocje sięgały zenitu. Nagle, piłka została kopnięta w kierunku bramki drużyny „Wesołych Piesków”. Fifi, jak błyskawica, rzucił się w stronę piłki i obronił strzał! Potem podał piłkę Kubie. Kuba przebiegł z piłką całe boisko, i nagle… Strzelił gola!
+
+Trybuny eksplodowały. Drużyna „Wesołych Piesków” wygrała turniej! Zosia i chłopcy rzucili się na Fiiego, ściskając go i gratulując. Fifi szczekał radośnie i merdał ogonem tak szybko, że niemal odpadł od ciała.
+
+Kiedy wracali do domu, Fifi był najszczęśliwszym psem na świecie. Trzymał w pysku złoty medal, który dostał za wspaniałą grę. Zosia trzymała go za obrożę i uśmiechała się do niego czule.
+
+Od tamtego dnia, Fifi był prawdziwym bohaterem miasteczka. Wszyscy uwielbiali patrzeć, jak gra w piłkę nożną. A co najważniejsze, Fifi wiedział, że ma wspaniałych przyjaciół i że może liczyć na ich wsparcie.
+
+Wieczorem, kiedy słońce zaszło za horyzontem, Fifi leżał w swoim koszyku, zmęczony, ale bardzo szczęśliwy. Pomyślał o wszystkich pięknych chwilach, które przeżył. Pomyślał o Zosi, Kubie i wszystkich swoich przyjaciołach.
+
+Zanim zasnął, pomyślał: „Najważniejsze w życiu jest mieć przyjaciół i robić to, co się kocha.” I z uśmiechem na pyszczku zasnął, śniąc o kolejnych wspaniałych meczach i przygodach na zielonym boisku, u boku swoich najlepszych przyjaciół.
+</body>
+```

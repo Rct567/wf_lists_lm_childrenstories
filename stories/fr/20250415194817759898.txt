@@ -1,0 +1,71 @@
+<prompt>
+Please write a funny French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Comment devenir ami avec un dragon et partager des aventures incroyables.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```xml
+<title>Comment devenir ami avec un dragon et partager des aventures incroyables.</title>
+<body>
+Il était une fois, dans un petit village pittoresque niché au cœur de la France, un garçon nommé Émile. Émile était un enfant comme les autres, avec une passion pour les glaces à la vanille, les histoires de pirates et les blagues – surtout les blagues. Mais contrairement aux autres enfants de son âge, Émile avait un secret. Un secret brûlant, même. Il croyait aux dragons.
+
+Bien sûr, tout le monde disait que les dragons n'existaient que dans les contes de fées. Mais Émile, lui, sentait qu'il y avait quelque chose, une étincelle, une lueur, même dans l'air du petit village, qui lui laissait espérer. Et puis, un jour… un événement incroyable arriva.
+
+Un matin, alors qu'Émile explorait le grenier poussiéreux de sa grand-mère, à la recherche d'un chapeau de pirate égaré (la grand-mère, Marguerite, était elle-même une pirate à la retraite… officiellement boulangère), il trébucha sur un coffre en bois. Le coffre était orné de serrures rouillées et couvert de toiles d'araignée. La tentation fut trop forte. Émile, armé d'un tournevis rouillé, entreprit d'ouvrir le coffre.
+
+Après de longues minutes de lutte acharnée (et quelques jurons murmurés, rapidement expurgés par un "zut alors!" respectueux), le coffre s'ouvrit enfin. À l'intérieur, au lieu de pièces d'or ou de cartes au trésor, Émile trouva… un petit œuf.
+
+Un œuf !
+
+L'œuf était d'un bleu saphir étincelant, avec des reflets iridescents. Émile le prit délicatement, le posa sur son lit, et attendit. Et attendit. Il parla à l'œuf, lui raconta des blagues (ses préférées portaient sur des moutons voleurs et des lapins qui prenaient des leçons de magie), chanta des chansons (fausses notes incluses), et lui lut des histoires de chevaliers et de princesses.
+
+Puis, un jour, alors qu'Émile lisait à haute voix les exploits d'un chevalier maladroit mais courageux, l'œuf se mit à craquer. Fissure après fissure, il dévoila… une petite créature. Pas un poussin, ni un caneton, ni même un chaton. Mais un… dragon !
+
+Un dragon miniature, avec des écailles vertes brillantes, des yeux couleur ambre espiègles et… une incroyable propension à éternuer.
+
+"Atchooooum !" fit le dragon, sa petite fumée fumant son visage.
+
+Émile, bouche bée, le fixa. "Tu… tu es un dragon ?"
+
+Le dragon cligna des yeux. "Euh… oui. Et toi, tu es Émile, n'est-ce pas ? Maman m'a parlé de toi. Enfin, elle m'a parlé des humains. Généralement, ils ne sont pas très amicaux avec nous."
+
+Émile sourit, radieux. "Moi, si! Je m'appelle Émile, et je voulais un dragon comme ami depuis toujours ! Comment t'appelles-tu ?"
+
+"Je m'appelle Ignace," répondit le dragon, avant de faire un autre "Atchooooum !". "Mais… s'il te plaît, ne le dis à personne. Les autres dragons se moqueraient de moi à cause de mes éternuements."
+
+Ainsi commença l'amitié improbable entre Émile et Ignace. Ignace, malgré sa taille et ses éternuements, s'avéra être un ami formidable. Il adorait les blagues d'Émile (même les moins drôles) et dévorait les histoires, tout comme lui. Émile, de son côté, apprenait rapidement à supporter les "Atchooooum !" fréquents, à éviter les objets lorsqu'Ignace se sentait chatouilleux (et donc prêt à cracher du feu… timidement, bien sûr), et à comprendre le langage subtil des grognements et des ronflements dragons.
+
+Leur première aventure commença lorsqu'Émile, lassé des haricots verts que sa grand-mère lui préparait pour le déjeuner, exprima le désir de voler en chercher. Ignace, qui n'était encore qu'un jeune dragon, pas très bon en vol (et beaucoup moins bon avec les éternuements au sommet des collines), proposa une solution : voler discrètement jusqu'au potager du voisin, Monsieur Dubois, réputé pour ses carottes géantes, et y faire leur butin.
+
+"Mais c'est du vol !" s'écria Émile.
+
+"Hum… oui," admit Ignace. "Mais ce sont de délicieuses carottes. Et si on laisse un petit quelque chose en échange ?"
+
+Le "petit quelque chose" s'avéra être… un tas de cailloux brillants et quelques brins d'herbe. Monsieur Dubois, en découvrant ce "trésor" près de ses carottes disparues, était perplexe.
+
+Les aventures continuèrent. Ils participèrent à un concours de tartes (Ignace mangea plus qu'il n'aida à la préparation, se terminant avec une flambée involontaire dans la cuisine) ; sauvèrent un chaton coincé dans un arbre (Ignace, avec ses minuscules griffes, était bien plus agile que les pompiers locaux) ; et même, aidèrent une jeune fille à retrouver son ballon, perdu… sur le toit de la boulangerie de Grand-Mère Marguerite !
+
+Chaque aventure était une nouvelle leçon d'amitié, de courage, et de… tolérance aux éternuements. Émile découvrit qu'être ami avec un dragon signifiait accepter ses faiblesses, s'amuser de ses excentricités et le protéger des regards curieux. Ignace, de son côté, apprenait ce que signifiait l'amitié humaine : la confiance, le rire, et surtout, le partage.
+
+Un jour, lors d'une promenade en forêt, ils rencontrèrent un groupe d'enfants plus âgés qui, moqueurs, traitèrent Ignace de "bébé dragon stupide". Émile, pour la première fois, sentit sa colère monter. Il se plaça devant Ignace, les poings serrés.
+
+"Laissez-le tranquille !" lança-t-il, la voix tremblante. "Il est mon ami ! Et il est bien plus courageux que vous tous !"
+
+Ignace, malgré sa peur, prit la parole. "En effet," dit-il, d'une voix plus grave qu'à son habitude. "Et même si j'éternue beaucoup, j'ai aussi des talents. Et je suis sûr qu'un jour, je ferai des choses extraordinaires."
+
+Les enfants, surpris par la réaction inattendue, se moquèrent moins, puis finirent par s'éloigner, bredouillant des excuses à moitié murmurées.
+
+Après cet incident, leur amitié devint encore plus forte. Émile réalisa que son dragon avait besoin de lui, autant que lui avait besoin de son dragon. Et Ignace, de son côté, décida de contrôler ses éternuements. Pas complètement, bien sûr, ce serait trop demander. Mais assez pour ne plus terroriser les boulangeries ou enflammer accidentellement les cheveux de Grand-Mère Marguerite.
+
+Ils continuèrent à explorer, à jouer, à rire. Ils découvrirent de nouveaux lieux, de nouvelles saveurs et, surtout, de nouvelles aventures. Ils apprirent à se connaître, à s'accepter, avec leurs forces et leurs faiblesses. Ils se créèrent un monde à eux, un monde où un garçon et un dragon, malgré leurs différences, étaient simplement les meilleurs amis du monde.
+
+Et parfois, juste parfois, on pouvait entendre dans le petit village des éclats de rire, des "Atchooooum !" furtifs et, venant du cœur de la forêt, le doux bruit de deux amis partageant les merveilles d'une journée ensoleillée. Un garçon, son dragon, et l'infinité de l'amitié. La preuve vivante que les contes de fées peuvent devenir réalité, à condition d'ouvrir les yeux et… de croire. Et aussi, bien sûr, de trouver un œuf bleu dans un vieux coffre. Et si, par chance, le dragon en sort… il ne vous restera plus qu'à lui raconter des blagues. Et vous verrez, le reste se fera tout seul.
+</body>
+```

@@ -1,0 +1,74 @@
+<prompt>
+Please write a relatable Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Rudens lapai: kaip šokti su vėju.'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>lt</lang_id>
+
+```lt
+<title>Rudens lapai: kaip šokti su vėju.</title><body>
+Kartą, tolimame miške, kurio medžiai siekė dangų, gyveno maža mergaitė vardu Eglė. Eglė turėjo auksinius plaukus, kaip saulės spinduliai, ir žydinčias akis, kaip rugiagėlių laukas. Ji labai mėgo tyrinėti mišką, rinkti grybus po pušimis ir klausytis paukščių čiulbėjimo. Bet labiausiai ji laukdavo rudens.
+
+Ruduo miške būdavo ypatingas. Medžių lapai keisdavo savo spalvą – iš žalios į geltoną, raudoną, oranžinę. Vėjas pūsdavo stipriau, šokdindamas lapus ore. Ir Eglei atrodydavo, kad lapai šoka!
+
+Vieną rytą, pabudusi nuo lengvo vėjo gūsio, Eglė išbėgo iš savo namelio. Lapai krito iš medžių, tarsi lietus. Geltoni, raudoni, oranžiniai lapai suposi ore, sukosi ir šoko.
+
+"Kaip norėčiau šokti su jais!" – garsiai pasakė Eglė, žiūrėdama į tą nuostabų reginį.
+
+Staiga, netoli jos, ant didelio ąžuolo šakos tupėjo mažas paukštelis. Jo plunksnos buvo geltonos, kaip rudens lapai, o akys – didelės ir protingos.
+
+"Kas norėtų šokti su lapais?" - paklausė paukštelis maloniu balsu.
+
+Eglė nustebo. "Aš! Aš norėčiau! Bet kaip?"
+
+Paukštelis nusijuokė. "Tai paprasta. Reikia tiesiog išmokti klausytis vėjo ir leisti jam vesti."
+
+Eglė susiraukė. "Klausytis vėjo? Kaip tai?"
+
+"Žiūrėk", - tarė paukštelis ir nuskrido nuo šakos, leisdamasis žemyn į lapų sūkurį. Jis sukosi su lapais, kilnodamas sparnelius, tarsi šokdamas valso. "Vėjas šneka. Jis tau sako, kur eiti, kaip suktis."
+
+Eglė nusižiūrėjo į paukštelį ir į lapus. Ji suprato, kad reikia būti atviromis širdimi ir leisti vėjui vadovauti.
+
+Ji užmerkė akis, giliai įkvėpė šviežio rudens oro ir ištiesė rankas. Vėjas pajuto jos kailį, praskriejo pro plaukus. Ji pajuto, kaip vėjas švelniai pakelia ją nuo žemės.
+
+"Dabar judėk", - tarsi šnibždėjo vėjas į jos ausį.
+
+Eglė pradėjo judėti. Ji sukosi, kilnodama rankas, bandydama sekti vėjo kryptį. O vėjas vedė ją. Jis ją pakeldavo aukštyn, paskui vėl nuleisdavo žemyn. Kartais jis ją sukti, kartais – tiesiog švelniai glostyti.
+
+Ji pamiršo viską – žemę, medžius, net save. Buvo tik ji, vėjas ir šokantys lapai. Jos koja palietdavo žemę, o staiga vėjas pakeldavo ją į viršų tarsi ant nematomos sūpynės. Jai atrodė, kad ji skrenda.
+
+Kartu su vėju ji šoko tarp medžių, juokdamasi iš džiaugsmo. Lapai suposi aplink ją, tarsi jos partneriai šokyje. Ji jautė jų prisilietimą, jų švelnumą.
+
+Po kurio laiko, vėjas aprimo. Eglė atmerkė akis. Ji stovėjo ant žemės, apdengta spalvotais lapais. Jos veidas švytėjo iš laimės.
+
+Paukštelis nutūpė ant netoliese esančio medžio. "Ar patiko šokis?" – paklausė jis.
+
+"Tai buvo nuostabiausia! – atsakė Eglė. - Aš niekada nepamiršiu šito šokio!"
+
+"Svarbiausia – išmokti klausytis vėjo. Ruduo visada atneša naujus šokius, naujas dainas." - tarė paukštelis. "Ir nepamiršk pamokyti ir kitus, kaip šokti su vėju."
+
+Eglė pažadėjo. Nuo tos dienos, ji kiekvieną rudenį šokdavo su vėju. Ji kviesdavo ir savo draugus. Ji mokė juos klausytis vėjo, leisti jam vesti. Jiems visiems tai patiko.
+
+Vieną dieną, kai Eglė jau buvo jauna moteris, atėjo mažas berniukas, neturėjęs drąsos prisijungti prie šokio su lapais. Jis stovėjo nuošalyje ir stebėjo.
+
+Eglisei tai priminė jos vaikystę. Ji priėjo prie berniuko ir švelniai paklausė: "Ko tu bijai?"
+
+Berniukas sukandžiojo lūpą. "Aš nemoku šokti."
+
+Eglė nusišypsojo. "Nesijaudink. Šokyje nereikia mokėti. Reikia tik klausytis vėjo. Užsimerk ir pajusk, kaip jis šneka."
+
+Ji išmokė berniuką šokti su vėju. Ir jis, kaip ir Eglė, pamiršo viską – žemę, medžius, net save. Jis šoko su vėju ir lapais, jausdamas laimę ir džiaugsmą.
+
+Nuo tos dienos berniukas tapo dideliu šokėju, ir jis taip pat mokė kitus, kaip šokti su vėju. Taip paslaptinga rudens šokio tradicija tęsėsi iš kartos į kartą, perteikiant magišką ryšį su gamta. Ruduo, vėjas ir spalvoti lapai visada primindavo, kad grožis yra visur, svarbiausia – mokėti jį pastebėti ir juo mėgautis.
+
+Eglė visada prisimindavo paukštelio žodžius. Ji suprato, kad šokis su lapais – tai ne tik malonumas, bet ir pamoka. Pamoka apie tai, kaip reikia pasitikėti savimi, klausytis savo širdies ir leisti gyvenimui vesti. Ir kad kartais reikia tiesiog užsimerkti ir šokti su vėju.
+
+Ir kiekvienas rudenį, kai vėjas pūsdavo stipriau, Eglė visada jausdavo, kad jos siela vėl šoka. O rudens lapai, sklandydami ore, primindavo jai, kad gyvenimas – tai šokis, kuris niekada nesibaigia.
+</body>
+```

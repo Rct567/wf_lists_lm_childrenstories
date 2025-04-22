@@ -1,0 +1,42 @@
+<prompt>
+Please write a simple and easy-to-follow Estonian children's story that is at least 1000 words long.
+It must be completely written in proper Estonian (ET).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Põder Peebu Pikk Seiklus: Läbi Udu ja Udara, Et Leida Koju Tagasi Metsaas!'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>et</lang_id>
+
+<title>Põder Peebu Pikk Seiklus: Läbi Udu ja Udara, Et Leida Koju Tagasi Metsaas!</title>
+<body>
+Põder Peebu elas üksildases metsas, kus ta oli sündinud ja kasvanud. Ta oli suur ja tugev, tema sarved olid pikkade ja teravate otsadega, ning ta võis endale lubada kõike, mida ta tahtis. Kuid Peebu ei olnud üksildane, sest tal oli palju sõpru metsas, kes armastasid teda ja ta neid.
+
+Ühel päeval, kui Peebu jalutas läbi metsa, kohtas ta udut, mis tuli tema poole. Udu oli nii paks, et Peebu ei näinud midagi ees. Ta ei teadnud, kuhu minna, ja kartis, et võib eksida. Kuid ta ei andnud alla, sest ta oli kindel, et leiab tee tagasi koju.
+
+Peebu astus edasi, kuid udu muutus aina paksemaks. Ta ei näinud enam mitte midagi, isegi mitte oma jalgu. Ta kuulis vaid metsaloomade häälitsusi ja lehtede sahinaid. Peebu hakkas kartma, et võib jääda metsa, kuid ta ei andnud alla.
+
+Kui ta edasi astus, kohtas ta väikest oja, mis voolas läbi metsa. Peebu kuulis vee kohinat ja mõtles, et see võib olla hea märk, et leida tee tagasi koju. Ta järgnes ojale, kuid see viis ta ainult sügavamale metsa.
+
+Peebu hakkas tundma, et ta on täielikult eksinud. Ta ei teadnud, kuhu minna, ja udu ei andnud talle võimalust näha midagi. Kuid ta ei andnud alla, sest ta oli kindel, et leiab tee tagasi koju.
+
+Kui ta edasi astus, kohtas ta suure puu, mis seisis keset metsa. Peebu mõtles, et see võib olla hea koht, et puhata ja mõelda, kuhu minna edasi. Ta istus puu juurde ja hakkas mõtlema.
+
+Peebu mõtles kõike, mis ta oli teinud, ja kõike, mis ta võis teha. Ta mõtles oma sõpradele, kes olid talle alati abiks olnud. Ta mõtles ka oma kodu, mis oli tema jaoks kõige olulisem koht.
+
+Kui Peebu mõtles, kuulis ta häält, mis tuli puu otsast. Hääl oli nii peen, et Peebu ei saanud aru, kes seda teeb. Kuid ta kuulis sõnu, mis olid tema jaoks olulised: "Peebu, Peebu, ära anna alla! Leiad tee tagasi koju, kui usud endale!"
+
+Peebu tundis, et see hääl on talle abiks. Ta tundis, et ta peab uskuma endale, et leiab tee tagasi koju. Ta tõusis üles ja hakkas edasi astuma.
+
+Kui ta edasi astus, hakkas udu häljuma. Peebu nägi, et ta on jälle metsas, kuid seekord nägi ta tee, mis viis tema koju. Ta oli väga õnnelik, sest ta oli leidnud tee tagasi koju.
+
+Peebu jõudis koju, kus teda ootasid tema sõbrad. Nad olid väga õnnelikuks, et Peebu oli leidnud tee tagasi koju. Nad ütlesid talle, et nad olid talle alati abiks olnud, ja et nad olid temast alati hoolinud.
+
+Peebu tundis, et ta on väga õnnelik, sest tal olid sõbrad, kes armastasid teda. Ta tundis, et ta on leidnud tee tagasi koju, ja et ta on jälle turvaliselt metsas. Ta oli väga tänulik sõpradele, kes olid talle abiks olnud, ja ta teadis, et ta alati saab nende abil.
+
+Põder Peebu elas edasi metsas, kus ta oli sündinud ja kasvanud. Ta oli suur ja tugev, tema sarved olid pikkade ja teravate otsadega, ning ta võis endale lubada kõike, mida ta tahtis. Kuid Peebu ei olnud üksildane, sest tal oli palju sõpru metsas, kes armastasid teda ja ta neid.
+
+Ja nii elas Põder Peebu edasi, alati turvaliselt metsas, kus ta oli sündinud ja kasvanud. Ta oli väga õnnelik, sest tal olid sõbrad, kes armastasid teda, ja ta teadis, et ta alati saab nende abil. Peebu oli kindel, et ta leiab alati tee tagasi koju, kui ta usub endale, ja et ta on alati turvaliselt metsas, kus ta on sündinud ja kasvanud.</body>

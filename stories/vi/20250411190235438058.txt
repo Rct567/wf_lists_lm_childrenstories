@@ -1,0 +1,55 @@
+<prompt>
+Please write a uncomplicated Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Vườn Cây Ăn Quả Đầy Màu Sắc'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>vi</lang_id>
+
+```vi
+<title>Vườn Cây Ăn Quả Đầy Màu Sắc</title>
+<body>
+Ngày xửa ngày xưa, ở một ngôi làng nhỏ bé nép mình bên bờ sông Hồng hiền hòa, có một cô bé tên là Mai. Mai có mái tóc đen nhánh như gỗ mun, đôi mắt tròn xoe long lanh như hai hòn bi ve. Cô bé rất yêu thích những điều xung quanh mình, đặc biệt là khu vườn nhỏ phía sau nhà. Khu vườn đó không giống bất kỳ khu vườn nào khác, nó là một "Vườn Cây Ăn Quả Đầy Màu Sắc".
+
+Trong vườn, mỗi loại cây lại mang một màu sắc riêng biệt và kỳ diệu. Ở góc trái của vườn là cây xoài, với những trái xoài xanh mướt, căng tròn. Khi xoài chín, chúng chuyển sang màu vàng ươm, thơm lừng cả một góc vườn. Mai rất thích hái xoài, vì vị ngọt thanh tao của chúng luôn khiến cô bé cảm thấy vui vẻ.
+
+Bên cạnh cây xoài là cây ổi, với những trái ổi xanh, trắng hồng. Ổi có vị giòn tan, ngọt dịu, và Mai thường thích mang ổi ra gốc đa đầu làng ngồi ăn cùng bạn bè. Tiếng cười nói rộn rã của các bạn nhỏ như những nốt nhạc vui tươi, hòa cùng tiếng chim hót véo von trên cành.
+
+Đi sâu vào trong vườn, ta sẽ gặp cây mận, với những trái mận đỏ mọng, tím biếc. Khi mận chín, Mai thường hái mận, rửa sạch và cắn một miếng thật to, vị chua chua ngọt ngọt của mận tan chảy trong miệng, làm cô bé nhăn mặt thích thú.
+
+Ở một góc khác của vườn là cây khế. Khế có hình dáng như những ngôi sao nhỏ xinh, màu vàng óng ánh. Mai thích nhất là lúc ăn khế, vị chua nhẹ của khế làm cô bé tỉnh táo, sảng khoái. Cô bé thường rủ các bạn cùng đến hái khế, rồi cùng nhau chia sẻ những trái khế ngon lành.
+
+Ngoài ra, trong vườn còn có cây vú sữa, với những trái vú sữa tròn trịa, màu xanh tím. Khi chín, vú sữa chuyển sang màu tím sẫm, vỏ bóng loáng. Mai thích nhất là khi bổ vú sữa ra, bên trong có lớp thịt trắng ngần, ngọt lịm. Cô bé thường dùng thìa múc từng miếng vú sữa, vừa ăn vừa ngắm nhìn khu vườn rực rỡ sắc màu.
+
+Một ngày nọ, có một cơn gió mạnh thổi đến. Cơn gió thổi bay những chiếc lá vàng rụng của cây xoài, làm rơi rụng những quả ổi xanh non. Mai chạy ra vườn, nhìn thấy cảnh tượng đó mà lòng buồn rười rượi. Cô bé lo sợ rằng cơn gió sẽ làm hư hại vườn cây của mình.
+
+Mai chạy vào nhà, gọi mẹ ra xem. Mẹ Mai là một người phụ nữ hiền lành, luôn yêu thương và chăm sóc khu vườn nhỏ. Mẹ nhìn Mai, xoa đầu cô bé và nói: "Con đừng lo, Mai yêu dấu. Cơn gió chỉ là một thử thách nhỏ thôi. Chúng ta cùng nhau bảo vệ khu vườn nhé!"
+
+Mai nghe lời mẹ, cô bé vui vẻ trở lại. Hai mẹ con bắt đầu cùng nhau thu gom những trái ổi rơi rụng, nhặt lá vàng, và tưới nước cho cây. Mai thì dùng chiếc xẻng nhỏ, đào xới đất xung quanh gốc cây, giúp cây hấp thụ chất dinh dưỡng. Mẹ thì tỉa bớt những cành bị gãy, vun gốc cho cây.
+
+Hai mẹ con làm việc miệt mài dưới ánh nắng dịu nhẹ của buổi chiều tà. Mai vừa làm vừa hát những bài hát về vườn cây, về những loại quả. Tiếng hát trong trẻo của cô bé vang vọng khắp vườn, khiến những cây cối như cũng trở nên vui tươi hơn.
+
+Đến khi trời tối, công việc cũng hoàn thành. Mai và mẹ nhìn lại khu vườn, lòng đầy tự hào. Cây cối vẫn đứng vững vàng, những trái ổi non được đặt cẩn thận xuống đất, chuẩn bị cho ngày mai sẽ tươi tốt trở lại.
+
+Đêm đến, Mai nằm mơ thấy mình lạc vào một khu vườn cổ tích. Trong vườn, những cây xoài xanh mướt, những trái ổi xanh mọng, những trái mận đỏ tươi, tất cả đều phát ra ánh sáng lung linh huyền ảo. Cô bé còn thấy cả những chú chim xinh xắn, hót líu lo trên cành cây, những chú bướm rập rờn bay lượn quanh những bông hoa rực rỡ.
+
+Mai tỉnh giấc. Cô bé cảm thấy thật hạnh phúc. Cô bé yêu khu vườn của mình hơn bao giờ hết. Khu vườn không chỉ là nơi có những trái cây ngon, mà còn là nơi chứa đựng tình yêu thương của mẹ, của gia đình.
+
+Sáng hôm sau, Mai thức dậy thật sớm. Cô bé chạy ngay ra vườn. Mặt trời vừa mới hé rạng, những giọt sương mai còn đọng lại trên lá cây, lấp lánh như những viên kim cương.
+
+Mai nhìn thấy những trái ổi non đã được thu gom cẩn thận, những chiếc lá vàng được quét dọn sạch sẽ, những cây cối vẫn đứng hiên ngang trước gió. Cô bé mỉm cười. Cơn gió mạnh đã đi qua, nhưng tình yêu thương và sự chăm sóc của Mai và mẹ vẫn còn ở lại, bảo vệ khu vườn.
+
+Từ đó, Mai càng chăm chỉ chăm sóc khu vườn của mình. Cô bé thường xuyên tưới nước, bón phân, và bắt sâu cho cây. Mai còn học cách nhận biết những dấu hiệu của bệnh tật ở cây, để kịp thời chữa trị.
+
+Mai cũng thường xuyên chia sẻ những trái cây ngon trong vườn với bạn bè, hàng xóm. Cô bé luôn mong muốn mọi người đều có thể thưởng thức những trái ngọt, thơm ngon do chính tay cô bé và mẹ vun trồng.
+
+Vườn Cây Ăn Quả Đầy Màu Sắc của Mai ngày càng trở nên tươi tốt. Những trái xoài ngày càng to hơn, những trái ổi ngày càng ngọt hơn, những trái mận ngày càng đỏ mọng hơn. Khu vườn không chỉ là một nơi cung cấp thức ăn, mà còn là nơi gắn kết tình yêu thương, tình bạn, và là nơi nuôi dưỡng những ước mơ đẹp đẽ của cô bé Mai.
+
+Và cứ thế, mỗi ngày, Mai lại cùng mẹ ra vườn, cùng nhau chăm sóc những cây ăn quả. Tiếng cười nói rộn rã của Mai, tiếng chim hót líu lo trên cành cây, tiếng lá xào xạc trong gió, tất cả đã tạo nên một bản hòa ca tươi vui, sống động cho Vườn Cây Ăn Quả Đầy Màu Sắc. Và khu vườn vẫn mãi mãi là một phần không thể thiếu trong cuộc đời của cô bé Mai, một kỷ niệm đẹp đẽ, một nguồn cảm hứng bất tận cho tuổi thơ.
+</body>
+```

@@ -1,0 +1,52 @@
+<prompt>
+Please write a dialog-based Scottish Gaelic children's story that is at least 1000 words long.
+It must be completely written in proper Scottish Gaelic (GD).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'An Sgàthan a' Dol air an Loch'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>gd</lang_id>
+
+<title>An Sgàthan a' Dol air an Loch</title><body>
+Bha sgàthan beag, le fuilt geal is eireachdail, ag obair ann an gàrradh mòr, fìor chruaidh. Bha a' ghràdh aige air na craobhan is na blàthan, ach bha e a' faireachdainn gu robh e glè bheag agus glè neo-chumhachdach.
+
+"A bheil thu a' faireachdainn mar sin, Sgàthan?" dh'fhalbh fuaim òg, blàth.  Bha làimh shàr-mhath ag èirigh bhon talamh is a' toirt seachad bàrr bheag de chraobh-mheadhanach, soilleir agus socair.  Bha e na bhlàth-chruaidh agus bha smùid air a' mhullach.
+
+"Tha," fhreagair an sgàthan, a' faireachdainn iongantach. "Tha mi a' faireachdainn gu robh mi cho bheag.  Chan eil mi ach sgàthan, agus chan urrainn dhomh ach faicinn!"
+
+"Ach tha barrachd agad na dh'fhaicinn, Sgàthan," thuirt a' bhlàth.  "Tha thu a' faicinn na tha na craobhan agus na blàthan a' faireachdainn.  Tha thu a' faicinn na tha iad a' faireachdainn nuair a tha e soilleir, agus nuair a tha e dorcha.  Tha thu a' faicinn an t-saoghal gu lèir, ged nach urrainn dhuit an sgàthan agad fhèin a chumail.  Tha e na bheartan mòr."
+
+"A bheil sin ceart, a' bhlàth?" thuirt an sgàthan, a' faireachdainn nas làidire.  "Tha mi a' tuigsinn, ach ciamar?"
+
+"Tha na craobhan agus na blàthan a' faireachdainn an èadhar.  Tha iad a' faireachdainn an t-uisge.  Tha iad a' faireachdainn eadhon do chridhe.  Tha thu a' faicinn an gaoith a' gluasad is an ghràin, agus an gàire a' tighinn bhon uisge."
+
+Bha sgàthan beag a' tuigsinn.  Bha e a' faireachdainn na gaoithe, a' faireachdainn an t-uisge.  Dh'fhalbh e a' tuigsinn gur e a' bhlàth a rinn e fhèin gu h-ìosal, agus gu robh i na mhargaidhean.
+
+"Agus ciamar a tha mi a' dol a bheairt a-steach a' chumhachd seo?" thuirt an sgàthan.
+
+"Mus dèan thu sin, Sgàthan," thuirt a' bhlàth, "feuch ri dol air an loch.  Is e an t-uisge an àite as fhasa airson na sgàthanan faireachdainn a thoirt a-mach."
+
+Bha an sgàthan a' faireachdainn gu robh an dàil a' faighinn gu math deireach.  Ghluais e gu dlùth ri taobh an lochs.  Bha an uisge a' gluasad, agus bha e a' faireachdainn na gluasaid anns a' bhlàth.
+
+"Tha e soilleir a-nis," thuirt an sgàthan, a' faireachdainn na uisge a' ruith fo na sgàthanan.
+
+"An uairsin, co-dhùin a ghluasad, Sgàthan," thuirt a' bhlàth.
+
+Dh'fhàs an sgàthan motha, is motha.  Dh'fhàs e a' faireachdainn gur e na sgàthanan eile a' mhargaidhean eile.  Bha e a' faireachdainn na lochs, a' faireachdainn na gaoithe agus na grìdhe.  Bha e a' faireachdainn na sìth, a' faireachdainn na gàire.
+
+"Tha mi a' faireachdainn mo chumhachd," thuirt an sgàthan. "Tha mi a' faireachdainn na saoghal mun cuairt orm!"
+
+"Ceart gu leòr," thuirt a' bhlàth.  "Tha thu air do chumhachd a lorg."
+
+"A bheil thu a' dol a dol a dh'fhalbh?" dh'fhalbh an sgàthan.
+
+"Chan eil.  Tha mi an seo leat.  Tha sinn gach uile na pàirt de na saoghal seo, agus chan eil sinn ach na sgàthanan beaga a' coimhead air an uisge."
+
+Dh'imich an sgàthan agus a' bhlàth air an loch a' coimhead air an uisge agus a' faireachdainn na saoghal mun cuairt orra.  Dh'fhàs iad gu h-ìosal is gu h-ìosal, a' dol air an uisge, a' faighinn a' chumhachd is na beatha a' ruith tro na sgàthanan beaga, an uisge fhuar.  Bha iad a' faireachdainn an saoghal gu lèir, a' toirt aire do na beathaichean beaga ann an taigh-beag beag.  Bha an sgàthan a' faireachdainn, airson a' chiad uair, gu robh e gu math. Bha e na phàirt de rudan mòra, rudan eachdraidheil.
+
+Bha an sgàthan a' faireachdainn a' chumhachd agus a' beatha a' ruith tro na sgàthanan, is bha e toilichte, a' faireachdainn an saoghal air a' bhlàth agus an sgàthan.
+</body>

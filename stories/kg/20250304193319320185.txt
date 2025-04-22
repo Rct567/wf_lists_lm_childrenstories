@@ -1,0 +1,48 @@
+<prompt>
+Please write a educational Kongo children's story that is at least 1000 words long.
+It must be completely written in proper Kongo (KG).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>kg</lang_id>
+
+```html
+<title>Nsangu ya Nkangu ya Nkoko</title>
+<body>
+Muna nima ya kingumba ya nti ya kaka, kuna lembi ya nzo ya mawe, vana muna kingumba ya Nsasa, kuna moko ya nti ya ngolo, o nkoko ya nzola, Kalunga, wadi zingila.  Kalunga uvenekele vana kanda ye yandi vandaka wa mwini,  mwinda ya mabundu ye mbanzi ya mpila yonso ya nsi a yandi.  Kalunga vandaka ntima ya kiese, kansi yandi vandaka kudimona nzozila mu kuma kia nsangu.
+
+Kalunga watoma zinga ye bantu ya kingumba ya Nsasa. Yandi vandaka kuvangila bantu bibaku, kuyidika madia, ye kutala bana. Kansi, Kalunga vandaka kudila. Yandi vandaka kudila sambu yandi vandaka kuyindula mambu. Mambu ya mutindu-mutindu, mazodi a ngolo ya ngumba ye ya masa ya nsaku.  Yandi vandaka kudila sambu yandi vandaka kuyindula mutindu bima ya nene yina kevandaka mun'esumu na bantu ye mun'esumu na yandi.  Yandi vandaka kudila mu kuma kia kinsukami ya bantu ya bwala yandi, nsangu ya mpamba-mpamba ya mafunda ya ntete yina kevandaka  munt’a mundu.
+
+Mosi ya lumingu, kiese kwamanisa kukanika maza ya ngolo na madimbudidila.  Bana ya Nsasa, bonso ngombe yina kekota mun'ebulu,  basalakana na kinsweti ya nene. Bantu ya nganda, babakisana, kulu, ye nsweti. Kalunga wabaka nsangu ya makwela ya bana na ntoto, kansi yandi vandaka kuyindula nsangu yankaka, ya nsangu ya nene.  Yandi vandaka kubaka nsangu.
+
+Lelo yina, Kalunga wayantika kubaka nsangu yankaka.  Ntangu  bana ya kingumba ya Nsasa bakisana, nkutu bana ya mbundu,  yau yonso wa kumaka mu kingumba ya Nsasa. Ntangu bo kumaka, nkento mosi a kimpululu vandaka kuzenga masamba ye bilanga ya mayibi. Mboma a mabundu na kingumba ya Nsasa.  Masamba yonso.
+
+Kalunga waningisa meso ya yandi.  Yandi wavana meso mu wenda kundisamuna muna kingumba.  Yandi wemonaka nsangu yina bantu keyisikila.  Yandi vandaka kupona mu songa mpila ya nkuya a Nsangu yankaka yina ke vandaka ku songa kibeni nkanu a mambu.  Kinsukami.  Kinsukami yina bantu ke vandaka na yau kevandaka ku songa mpila a kimpumbulu.
+
+“Tunga masamba !,”  Kalunga kubaka makutu na yandi, nsoni ya mosi, sambu bantu kevandaka na kinsukami.”
+
+“Tunga bilanga !  Mambu ya mpasi ye nsangu,” Kalunga kukanisaka yo.  “Bilanga ya mpasi ya luzingu, bilanga ya kiese,  bilanga ya ntima.”
+
+Kalunga wabeba na kinsukami, mpi yandi vandaka kuyindula. “Tunga masamba!” Yandi wadikota,  kuyakula  nsangu.  Mpila ya kukwenda mu lweka, mpila ya kukwenda mun’e kielo, ye mpila a kukwenda mun’eyilu ya makaka ya mambu.
+
+Bantu yonso badi kota sambu na kulungisa mavwila yandi. Kiese, nsomi, na nsangu, na maludiku.  Bana, babakisana mpi, badi sungidila mu lumbu na ntangwa.
+
+Muna ntangu yina,  mwinda yafula mun'eme.  Yaluta  ludi ya ntangwa,  ye  ya nkanu ya bantu a mosi.
+
+"Nsangu,"  yizongula ntangu mpi.  "Muni'e kiese ye muni'nsuki, yo fwa,"
+Kutu, "Munu mu nsudi. Yina na mazola na ntoto," kalunga kwakanisaka yo.
+"Ntangu yonso, luzingu. Nsoki ke vundisa zunga," Kalunga kuyambila yo.
+
+
+Muna ntangu yina, bwala ya Nsasa yatangaka nto.  Nsudi ye nsudi, luzingu yatangaka. Ntangu vandaka kulunga, mafunda ya mbanzi ke beba, ndinga ya nti ya ngolo. Ntangu na ntangwa, bantu ke vonda bilumbu. Yo ke muntu, bantu  koyisila  ye kufula mpisa.
+
+Ye muna lumingu yina ya mpasi ya kimpumbulu, ya nsoni ya mosi, nsangu yankaka yabaka. Muna nzo yina ya malembe, moko ya bantu yafuluka. Muna ntangu ya malembe, Bantu kudizola, muna luzingu yina ya kieleka, mafunda yankaka. Bantu kubasila ntangwa na yau.
+
+
+Muna nsudi, ntu ya bantu ya Nsasa yabaka nsangu yankaka yina Kalunga kudi zonga. Kiese kuzulu.
+
+```

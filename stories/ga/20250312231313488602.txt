@@ -1,0 +1,74 @@
+<prompt>
+Please write a relatable Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Muiceán Mear a tháinig chun tosaigh i bhFéin'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>ga</lang_id>
+
+```xml
+<title>Muiceán Mear a tháinig chun tosaigh i bhFéin</title>
+<body>
+Bhí Muiceán Mear ina chónaí ar fheirm bheag i gContae Chorcaí. Ba mhucínín beag é, le gruaig bhog dhonn agus súile beaga dubha a bhí lán de rún. Bhí sé an-ghasta agus an-ghalánta, ainm a thug a mháthair dó. Thaitin sé leis rith timpeall na feirme, ag tafann leis na sicíní agus ag cur as do na caoirigh.
+
+Bhí Máire agus Pádraig, beirt leanaí ónár bhfeirm, ag baint an-taitneamh as Muiceán. D’imir siad leis gach lá. Chuir siad hataí beaga air, rith siad ar fud na páirce leis, agus d’ith siad úlla leis faoin gcrann úll. Bhí Muiceán grámhar dóibh, agus d’fhan sé leo i gcónaí.
+
+Lá amháin, d’fhógair an máistir feirme, Seán, go mbeadh Féin ar siúl. Ba chomórtas mór a bhí ann, le cluichí, ceol, agus bia. Bhí gach duine ar an bhfeirm ag caint air. Bhí Máire agus Pádraig ar bís. D'iarr siad ar a n-athair an bhféadfadh Muiceán páirt a ghlacadh.
+
+"Ní dóigh liom," arsa Seán, "Níl aon rud ag muiceánaigh le déanamh ag Féin."
+
+Ach bhí Máire agus Pádraig dóchasach. Bhí a fhios acu go raibh Muiceán níos cliste agus níos gasta ná muiceánaigh eile. D’iarr siad arís, ag cur gach cineál cúinsí isteach.
+
+"Mamaí, an gceadód tú dúinn?" d'iarr Máire.
+
+Bhreathnaigh Mamaí ar Muiceán, agus d'fheic sí an t-áthas soilsiúil ina shúile. "Bhuel," arsa sí go socair, "ach caithfidh sé a bheith faoi smacht. Ní féidir leis cur isteach ar dhaoine eile, agus caithfidh sé éisteacht leis na treoracha."
+
+Bhí an dá pháiste thar a bheith sásta. D'aontaigh siad léi go léir, agus d'imigh siad ag ullmhú Muiceán don lá mór. Chruthaigh siad rópa beag le haghaidh Muiceán a chaitheamh. D’fhoghlaim siad conas é a spreagadh go réidh.
+
+Ar an lá de Féin, bhí an pháirc lán le daoine. Bhí ceol traidisiúnta ar siúl, agus boladh na bhfianáin agus an bhainne úr ag líonadh an aeir. Sheas Máire agus Pádraig le Muiceán in aice leis an gcéad stáisiún don chomórtas. Bhí sé beartaithe go mbeadh rás ann, agus cuireadh ainm Muiceán síos mar iomaitheoir bréagach.
+
+Thosaigh an rás. Bhí capaill, madraí, agus baill eile na bhfeirme ag rith. Ghlac Máire agus Pádraig greim daingean ar Muiceán. Nuair a d’imigh na h-ainmhithe eile, lig siad do Muiceán dul.
+
+Thosaigh Muiceán ag rith. Rith sé, agus rith sé, agus rith sé. Ba é an rith is tapúla a chonaic aon duine riamh. Bhí na daoine ag gáire agus ag bualadh bos. Bhí súile Muiceán ag taitneamh le spraoi. Chuaigh sé thar na crosa agus thar na fálta, agus thug sé faoi deara an líne chríochnaithe.
+
+“Ar aghaidh leis, Muiceán!” a scread Máire.
+
+“Is féidir leat é a dhéanamh!” a d’fhógair Pádraig.
+
+Rith Muiceán thar an líne chríochnaithe. Buaiteoir! Bhí an slua ag glaoch agus ag caoineadh. Bhí Muiceán ar an ríl ar gach duine.
+
+Ansin, thosaigh na cluichí. Sa chluiche "Féach agus Inis," bhí ar dhaoine rud a fheiceáil agus ansin é a insint. Bhí súile géara ag Muiceán. D'fhéach sé ar gach rud go cúramach, scrúdaigh sé na sonraí, agus ansin d'inis sé do Máire agus Pádraig faoi. D'éirigh leo go han-mhaith, agus bhuaigh siad an cluiche!
+
+Ansin bhí an comórtas "Bia Trí Blasta". Bhí ar dhaoine bia a thriail, agus ansin an t-oideas a aithint. Cheap Máire agus Pádraig go raibh sé dodhéanta cur isteach ar Muiceán. Ach nuair a chuaigh na h-aoinn bia trí blasta isteach, ghéaraigh Muiceán a shrón ar an aer. Rith sé timpeall, agus thosaigh sé ag screadaíl.
+
+"Tá sé ar a dhuine!" a dúirt Máire. "Tuismitheoir!"
+
+Bhí Máire agus Pádraig chomh ceanúil ar Muiceán. D'imigh siad agus d'inis siad don cheannaire. Bhí an ceannaire ann, ach bhí imní air. D'fhan siad leis.
+
+“Tá a fhios agat,” a dúirt an máistir feirme, “tá siad ag foghlaim faoi bhia. B'fhéidir go ngabhfaidh mé mé féin i mo chuid eolais."
+
+D'inis Máire agus Pádraig faoi Muiceán. Bhí a fhios acu go bhféadfadh Muiceán an bia a aithint, mar is breá leis a ithe.
+
+Thriail Muiceán gach rud. Bhí sé ag ithe, ag sniffing, agus ag gáire. Thosaigh na daoine in aice leis ag gáire ag an amadántacht. Ach d'aithin sé gach oideas! Bhí bua ag Muiceán.
+
+Sa deireadh, bhí Muiceán ar an bhfeisteas iomlán den Fhéin. D'éirigh leis i ngach comórtas. Bhí na daoine á gceiliúradh, agus bhí siad sásta. Fuair sé bonn mór óir. Chuir sé a chosa beaga ar an mbord, agus rinnc sé le Máire agus Pádraig. Chuir sé áthas ar gach duine.
+
+Bhí Seán, an máistir feirme, ag féachaint le gáire mór ar a aghaidh. Chuaigh sé chuig Muiceán agus chuig na páistí.
+
+"Muiceán," a dúirt sé, ag miongháire, "tá tú tar éis an-obair a dhéanamh. Tá tú cróga, tapa, agus fíor. Ansin, beidh cúpla duais agat le tabhairt leat abhaile."
+
+Rith Muiceán suas chuige, agus bhuail sé a léim.
+
+Fuair Muiceán go leor bronntanais. Fuair sé babhla mór lán le bran, blaincéad nua le haghaidh a chodladh, agus fiú hata beag úll. Bhí sé neirbhíseach ar dtús, ach chuaigh a buachaillí isteach dó.
+
+Nuair a bhí an Féin thart, d’fhill gach duine ar an bhfeirm. Bhí Máire agus Pádraig an-bhródúil as Muiceán. Chonaic siad go raibh sé níos mó ná mucínín; bhí sé ina laoch.
+
+Sa bhaile, chuir siad a mbonn óir ar a muineál. Léim Muiceán ar fud na feirme, ag taispeáint a chuid duaiseanna go léir. Chonaic sé an áthas ina shúile, agus bhí gach duine sásta. Bhí sé ina lá speisialta do Muiceán, agus do gach duine ar an bhfeirm.
+Bhí Muiceán, an mucínín beag, tar éis a chruthú gur féidir le gach duine, fiú duine beag mar é, a bheith ina laoch má tá siad cróga, gasta, agus fíor. Agus ansin, tháinig sé chun cinn i bhFéin.
+</body>
+```

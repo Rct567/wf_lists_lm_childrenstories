@@ -1,0 +1,133 @@
+<prompt>
+Please write a dialog-based French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La Plume Enchantée : l'Aventure d'un Écrivain et de Personnages Fabuleux'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```xml
+<title>La Plume Enchantée : l'Aventure d'un Écrivain et de Personnages Fabuleux</title>
+<body>
+Dans un petit atelier lumineux, baigné par le soleil matinal, vivait un jeune écrivain nommé Émile. Émile adorait écrire des histoires. Son atelier était rempli de cahiers, de papiers froissés et d'une plume d'oie magnifique. Un jour, alors qu'il peaufinait une nouvelle histoire, la plume brilla d'une lumière argentée.
+
+**Émile :** (Étonné) Oh là là ! Qu'est-ce que c'est que ça ?
+
+La plume, après avoir scintillé, se mit à flotter dans l'air, émettant un doux murmure.
+
+**La Plume (voix cristalline) :** Bonjour, Émile. Je suis une plume enchantée.
+
+**Émile :** (Bégayant) Une… une plume enchantée ? Mais… c'est impossible !
+
+**La Plume :** Rien n'est impossible si l'on croit en ses rêves. Je suis ici pour vous aider à raconter des histoires encore plus merveilleuses.
+
+**Émile :** Vraiment ? Comment ça ?
+
+**La Plume :** Chaque fois que vous écrirez avec moi, vos personnages deviendront réels. Ils pourront interagir avec vous.
+
+**Émile :** (Les yeux grands ouverts) Incroyable ! Ça veut dire que… je pourrai parler à mes personnages ?
+
+**La Plume :** Exactement. Mais attention, ils ont leurs propres personnalités et leurs propres envies.
+
+**Émile :** Génial ! Commençons tout de suite !
+
+Émile prit la plume enchantée et commença à écrire. Il décrivit un petit lutin malicieux nommé Pépito, avec un chapeau vert et des bottes rouges. Soudain, un petit lutin, identique à la description, apparut devant lui.
+
+**Pépito :** Hé ! C'est moi, Pépito ! Et tu es…?
+
+**Émile :** (Surpris) Euh… Émile. L'écrivain… qui t'a créé.
+
+**Pépito :** Créé ? Ah bon ? J'ai toujours existé, moi ! Et j'ai faim !
+
+**Émile :** Faim ? Mais… qu'est-ce que tu veux manger ?
+
+**Pépito :** Des baies rouges, bien sûr ! Et de la tarte aux pommes !
+
+Émile, un peu dépassé, accepta. Il réalisa que la plume enchantée avait vraiment le pouvoir de donner vie à ses créations.
+
+**Émile :** D'accord, Pépito. Mais il faut que tu saches… ce n'est pas un jeu. Tu es un personnage d'une histoire.
+
+**Pépito :** Une histoire ? Et alors ? Je veux jouer ! Et faire des bêtises !
+
+Émile, reprenant sa plume, écrivit sur une forêt enchantée, où les animaux parlaient et où les arbres dansaient.
+
+Soudain, un renard roux, portant un gilet brodé, apparut à ses côtés.
+
+**Renard Roux :** Bonjour, monsieur Émile. Ravi de vous rencontrer. Je m'appelle Goupil.
+
+**Émile :** (Ébahis) Bonjour, Goupil. Euh… c'est vous que j'ai écrit ?
+
+**Goupil :** Il semblerait bien. Et vous, monsieur, êtes l'auteur de nos destins.
+
+**Émile :** C'est… c'est incroyable !
+
+**Goupil :** Et si vous permettez, j'ai quelques recommandations sur l'intrigue. On pourrait ajouter une princesse et un dragon, n'est-ce pas ? Ça pimenterait le récit !
+
+**Émile :** (Riant) Excellente idée, Goupil !
+
+Ensemble, ils travaillèrent sur l'histoire. Goupil suggéra des rebondissements, Pépito proposa des farces. Émile prit des notes, écoutant les idées de ses nouveaux amis.
+
+Plus tard, alors qu'Émile écrivait l'arrivée de la princesse Élodie, une jeune fille, habillée d'une robe rose, fit son apparition.
+
+**Élodie :** Bonjour ! Je suis Élodie. Enchantée.
+
+**Émile :** (Avec un grand sourire) Enchanté, Élodie. Je suis Émile. Et… bienvenue !
+
+**Élodie :** Merci. J'adore ma robe ! Mais… où est le dragon ?
+
+**Émile :** Le dragon… Il arrive ! Nous y sommes presque.
+
+**Élodie :** Je suis impatiente ! Il paraît qu'il est gentil, ce dragon ?
+
+**Goupil :** (Avec un clin d'œil) Tout dépend de la plume, n'est-ce pas ?
+
+Ils poursuivirent l'histoire. Finalement, ils créèrent un dragon nommé Flambeau, un dragon doux et gentil qui aimait collectionner les cailloux brillants.
+
+**Flambeau :** (Avec une voix grave mais douce) Bonjour à tous. Je suis Flambeau.
+
+**Émile :** (Riant de bonheur) Bonjour, Flambeau ! Tu es parfait !
+
+**Pépito :** (À Flambeau) Salut, gros ! Tu as des trésors ?
+
+**Flambeau :** Bien sûr, petit lutin. J'adore les trésors !
+
+Ils vivaient de grandes aventures. Ils cherchèrent un trésor caché, aidèrent un petit oiseau blessé, et affrontèrent un méchant sorcier qui voulait voler la plume enchantée.
+
+**Sorcier :** (Avec une voix grinçante) Donnez-moi cette plume ! Elle m'appartient !
+
+**Émile :** Jamais !
+
+**Goupil :** Il ne l'aura pas, monsieur.
+
+**Pépito :** On va lui faire une blague !
+
+**Flambeau :** (Crachant une volute de fumée non agressive) Nous vous vaincrons !
+
+Élodie, grâce à son courage et son intelligence, trouva la faiblesse du sorcier. Ils réussirent à le chasser, et la plume enchantée fut sauvée.
+
+**Émile :** Nous avons réussi ! Nous avons vaincu le sorcier !
+
+**Tous les personnages :** Oui ! Hourra !
+
+**La Plume (voix cristalline) :** Bravo, Émile. Vous avez prouvé votre courage et votre talent.
+
+**Émile :** Merci, la plume. Mais sans vous, et sans mes amis… je n'aurais rien pu faire.
+
+**Pépito :** C'était super ! On recommence ?
+
+**Goupil :** Certainement. J'ai déjà d'autres idées pour l'histoire !
+
+**Élodie :** Moi aussi ! On pourrait aller dans le pays des étoiles !
+
+**Flambeau :** (Soufflant une petite flamme de joie) Et chercher de nouveaux cailloux !
+
+**Émile :** (Souriant, plein d'enthousiasme) Bien sûr ! Continuons ! J'ai hâte de découvrir ce que l'avenir nous réserve. Avec vous tous, l'aventure ne fait que commencer. Je suis l'écrivain, vous êtes mes personnages, et ensemble, nous allons créer le monde le plus merveilleux qui soit !
+
+La plume enchantée brilla une dernière fois, imprégnant l'atelier d'une douce magie. Émile prit sa plume et se mit à écrire, prêt à vivre de nouvelles aventures, entouré de ses extraordinaires amis. Et dans son petit atelier baigné de lumière, les histoires s'écrivirent, enchantées et emplies de rires et de joie.
+</body>
+```

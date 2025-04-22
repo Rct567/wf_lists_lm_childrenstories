@@ -1,0 +1,41 @@
+<prompt>
+Please write a relatable Catalan children's story that is at least 1000 words long.
+It must be completely written in proper Catalan (CA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La aventura dels tres amics valents'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>ca</lang_id>
+
+<title>La aventura dels tres amics valents</title>
+<body>En un petit poble situat a la costa catalana, hi vivien tres amics inseparables anomenats Marc, Pere i Joan. Eren coneguts a tot el poble per la seva valentia i la seva imaginació. Un dia, mentre jugaven al parc, van decidir que volien anar en una aventura junts.
+
+Els tresphis van començar a parlar de les diferents possibilitats que tenien. Marc volia anar al bosc i explorar els seus secrets, Pere volia anar a la muntanya i escalar fins al cim, i Joan volia anar al mar i descobrir els seus misteris. Després de molt debatre, van decidir que volien fer tots tres: explorar el bosc, escalar la muntanya i descobrir els secrets del mar.
+
+L'endemà al matí, els tres amics es van aixecar d'hora i van preparar les seves motxilles amb tot el necessari per a la seva aventura. Van prendre un bon esmorzar i van sortir del poble cap al bosc. El sol brillava i els ocells cantaven mentre ells caminaven per la sendera. Van veure molts animals, com conills, guineus i fins i tot un senglar.
+
+Després de caminar durant unes hores, van arribar a una clariana on hi havia un antic castell en ruïnes. Els tres amics van decidir explorar el castell i van trobar moltes coses interessants, com ara una espasa antiga, un escut i una corona. Van imaginar que eren cavallers i van començar a jugar amb les coses que havien trobat.
+
+Quan van sortir del castell, van veure que el sol començava a pondre's. Van decidir acampar allà per la nit i van preparar un foc per cuinar el sopar. Mentre menjaven, van parlar de les seves aventures i van riure molt. Després de sopar, van seure al voltant del foc i van començar a cantar cançons tradicionals catalanes.
+
+L'endemà al matí, van continuar la seva aventura cap a la muntanya. Van escalar durant hores fins que van arribar al cim, on van trobar una vista impressionant. Van veure tot el poble i la costa catalana des de dalt. Van prendre una foto junts i van escriure el seu nom a la neu.
+
+Després de baixar de la muntanya, van anar cap al mar. Van prendre un vaixell i van navegar per les aigües cristal·lines de la Mediterrània. Van veure molts peixos i fins i tot una balena. Van prendre el sol a la coberta del vaixell i van disfrutar de la brisa marina.
+
+Quan van tornar al poble, van ser rebuts com a herois. Tots els veïns van voler sentir les seves històries i van riure molt amb les seves aventures. Els tres amics van aprendre que la valentia i la imaginació poden portar a moltes aventures emocionants.
+
+Mesos després, els tres amics van decidir escriure un llibre sobre les seves aventures. Van passar moltes hores escrivint i il·lustrant el llibre. Finalment, van publicar el llibre i va ser un èxit a tot Catalunya. La gent de tot arreu va llegir el llibre i va somiar amb les seves pròpies aventures.
+
+Els tres amics van continuar tenint moltes aventures junts, però mai van oblidar la seva primera aventura, que els va ensenyar que la valentia i la imaginació poden portar a moltes coses emocionants. I així, la història dels tres amics valents va viure per sempre a la memòria del poble.
+
+Anys després, quan els tres amics ja eren grans, van tornar al poble on havien crescut. Van veure que el poble havia canviat molt, però la gent encara recordava les seves aventures. Van anar al parc on havien jugat de petits i van seure en un banc. Van recordar les seves aventures i van riure molt.
+
+En aquell moment, un grup de nens va anar cap a ells i va preguntar si eren els tres amics valents de la història. Marc, Pere i Joan van somriure i van dir que sí. Els nens van començar a preguntar-los sobre les seves aventures i ells van explicar les seves històries. Els nens van escoltar amb els ulls oberts de meravella i van somiar amb les seves pròpies aventures.
+
+I així, la història dels tres amics valents va continuar vivint, inspirant a les generacions futures a ser valents i a imaginar. La valentia i la imaginació van ser les claus per a les seves aventures i van ensenyar als nens que res és impossible si es té la valentia de provar.
+
+La història dels tres amics valents és un record que la infància és un moment màgic, ple d'aventures i de possibilitats. La valentia i la imaginació són les claus per a descobrir el món i per a créixer com a persones. I així, la història dels tres amics valents roman com a exemple per a tots els nens i les nenes que volen ser valents i imaginar.</body>

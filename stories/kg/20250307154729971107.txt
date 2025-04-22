@@ -1,0 +1,58 @@
+<prompt>
+Please write a emotional Kongo children's story that is at least 1000 words long.
+It must be completely written in proper Kongo (KG).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>kg</lang_id>
+
+<title>Nsongi ya Ntima wa Mfumu</title>
+<body>
+Mu nzila ya Kongo, kuna mbanza ya Ntotila, kwakale mwana mosi, zina diandi Nsaku. Nsaku, mwana wa fioti, wau ya meso mama ya mbote, muilu wa nkanu, ye ntima wambote kimana. Yandi wakala mwana wa ntete wa Mfumu Kisoloke, ntotila wa ngolo wa mbanza. Mfumu wakala se w’a ngolo, kansi wanzola Nsaku kuna ntima awonso.
+
+Nsaku wakula mu nima ya ndonga ya mvula mu luzolo lunene. Yandi wazola kubanga, kubaka mu nzila ya fulu yoso, kubeta masamba, kubonga makaya ma konso nti. Waka yandi mpe wazola kuiza vana lumonso lwa Tata andi, Mfumu Kisoloke, ye kumvovesa mambu ma lufieti lwa lumbu yo. Ntoto yaba yandi kadi, wazola kumona mpe mambu ma unzambi andi, mambu ma ngemba, mpe ngolo zandi za ntotila.
+
+Lumbu mosi, kuna lumonso lwa Tata, Nsaku wamvovesa: “Tata, e lumbu kiaki ngala kumona e ngolo zaku, e unzambi waku. Kieleka wa ntotila wa mpila yayi, kansi ngala zola kuzaba mpe e ntima wa muntu, wa Mfumu.”
+
+Mfumu Kisoloke, wa kubanga y’e mvovo ya mwana andi, wavutula: “Mwana w’a kwami, e ngolo za ntotila zalanda, kansi e ntima wa nuni wasadilanga. E ntima wami wa kubona kaka mu mambu ma ngindu ye mawete kwa bantu.”
+
+Nsaku wazinga mu lumbu yo, wazola kuzaba mpe e ntima wa Tata andi. Wakala mu kubanga kukanga mosi, kazola mpe kutuba mambu mawonso mpe. Watianga kuenda ku fulu yawonso, wazola kubanga ma muntu yoso, wazola kubeta mu ntoto, mu zola kuzaba mpe e mambu mawonso maa luzolo.
+
+Kansi, kuna luzolo lwa Nsaku, e mbanza ya Ntotila yazooka nkanu. E mvula yayiza, e maza mayiza, bakala y’e nsuala ye nzila ya ngolo. Mambu ma unzambi, kana mpe nzungu ma ngolo za ntotila, mankanua mu ngolo z’e mpasi. Bantu, nkati, bafokomoka. Mazono ma nkati ma muntu, ma kuiza mu mbanza ya Ntotila.
+
+Mfumu Kisoloke, wa kubona mpe mambu mama, wayantika kuyivanga. Wazinza mu nzila y’e lumbu, wazola kubafukila bantu bandi, kansi makala ndonga mu ngolo. Watianga kuenda ku fulu yawonso, mpe kuenda ku nzila yawonso. Waba mpe wazola kuvana ngolo, kansi mambu malo.
+
+Nsaku, wa kubona mpe mambu momo, wa ntima wambote kiandi. Wazola kuvungula Tata andi, kansi kasoba mpe lumbu yayi ya mpasi. Watianga kulonga ye ngolo, kuvovesa y’e mvovo ya ngemba.
+
+Lumbu mosi, mu katikati ka mvula yo, Nsaku, wa mona mbandu a mulumba. Wana mu nzila katanga, mvula izi, wazola kumbanguza. Kansi, wayantika kubanga nzo mosi. Vana nzo yo, kana yandi wamona muntu mosi w’e nkanu, wa banga mpe w’a luema.
+
+Nsaku, wa mona ntima wa muntu w’e mpasi, wamvovesa: “Luvu, e mambu kayiza, ye ntima mbote, kansi e mpasi z’e nzo yaku, zieta mvula, kazola kunungunini.”
+
+Muntu oyo, wa kubanga mu mvovo ya mwana fioti, wavutula: “E, kieleka. Ngala kubanga, kansi ngoyo, kuizisa nkati. Ngala kubanga, kansi w’nkati, wanzuila.”
+
+Nsaku wavutula: “Mani? Ngolo zazala mu tata. Ngala kwenda kumoka, ngala kumvovesa, ngala kubeta ye ngolo, ngala kubeta ye luzolo lwamfumu.”
+
+Nsaku wakina mu nzila, waenda kuna lumonso lwa Tata andi. Wafukoma mpe mu nzo andi, wanunina. “Tata, ngala vovesa, e muntu wankana yanda lumbu yiaki, w’e mpasi, wazola luzolo.”
+
+Mfumu Kisoloke, wa kubonga kiese mu mvovo wa mwana andi, wayantika kuvanga. Wavovesa bantu bandi: “Twenda kuna fulu ya mpasi. Twenda, mu zola kubanga, mu lungisa luzolo.”
+
+Bantu bamfumu, va yandi, bazola kumvana matu. Kwenda ku fulu ya muntu w’e mpasi, bavungula, bakala mpe kuiza y’e nzo. Kubanga mu nzila yawonso, mu nzila ya bantu, mu nzila yawonso ya ngemba ye luzolo.
+
+Nsala ya nkati yapwena. Mvula yayooka. Ngolo yampasi yayela. E mbanza ya Ntotila yayantika kuzonzama.
+
+Mfumu Kisoloke, wa mona mpe e munu ya Ngemba, watika kusamunua. Wavovesa bantu bandi: “Luzolo, lukutuzika. Ngolo, zetu kw’e ngemba.”
+
+E mbanza yantika kuiza mu ngemba. Bantu bazola kuzola mpe. E ngolo zama zamba, nzila ya ngemba yazooka. Nsaku, wakuizanga mu luzolo lwa ngemba ya tata andi, e muntu yandi wazolela.
+
+Lumbu mosi, kuna nzila yayi ya ngemba, Nsaku wamvovesa Tata andi. Mfumu Kisoloke, wa kubota kuizanga: “Tata, e ntima wa muntu, kina mpe e ntima wayina. Kieleka e ntima wa ngolo, kangisa, kansi e ngemba iyiza kumosi, mu lutoto lwa ntima wamvimba.”
+
+Mfumu Kisoloke wavutula mu ngemba: “Mwana wami, wazola nzo yayi. Wazola e konso muntu. Ngeye wazola e ntima wa Kongo.”
+
+Nsaku wanguna ye kiese. “Mono, ngala sala mu lumbu yawonso, mu luzolo lwa Kongo, mu luzolo lwa ntima wa Tata.”
+
+Kuna mvula mi yenda, Nsaku wakula mu luzolo ye ngemba. Yandi wakala ntotila wa Kongo wa ngolo, wa ntima wamvula. Yandi wanzola bantu, wazamvova mu ngemba. Mpe mu mvula yo, Mfumu Kisoloke wakala mu kuiza, kukenga, kuiza mpe mu nzo, mu kuzola kw’e ntima wa mwana andi, Nsongi ya Ntima wa Mfumu.
+</body>

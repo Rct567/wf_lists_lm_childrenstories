@@ -1,0 +1,35 @@
+<prompt>
+Please write a simple Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A Fény És A Sötétség Küzdelme'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>A Fény És A Sötétség Küzdelme</title>
+<body>
+A hatalmas, ezüstös Hold nézte le a zöld völgyet, amelyben a kis falu, Kálmánfalva állt. A falu háztetői, mint apró, sötét pöttyök, szórtak el a mélykék égbolton.  A falu egyik legnagyobb házában, egy régi, kőből épült kúriában, élt egy kislány, Zsófi. Zsófi nem volt olyan, mint a többi gyerek. Szívesen játszott a sötétben, a csillagok alatt, és a titokzatos árnyékokkal barátkozott.
+
+Egy este, mikor a Hold fénye gyengült, és az éjszaka teljesen beborította a völgyet, Zsófi a kertjében játszott. A hatalmas, ősi diófa alatt kuporgott, és a földön csillogó, apró köveket gyűjtögette.  A szél susogott a levelek között, és Zsófi halk sóhajokat hallatott.  Hirtelen, furcsa, halk nyikorgás hallatszott a diófa mögött. Zsófi szíve megremegett. Tudta, hogy itt nem a szél, nem a levelek susogása okozza a hangokat.
+
+A sötét árnyak elkezdtek táncolni a kertben.  Nem a megszokott, vicces árnyékok voltak ezek, hanem furcsa, sötét alakzatok, amelyek láthatatlanul mozgott. A szél elcsendesedett, és a levegő megfagyott.  Zsófi megdermedt a félelemtől, de nem menekült.  Ehelyett óvatosan felállt, és közelebb sétált a titokzatos hang forrásához.
+
+A diófa mögött egy hatalmas, sötét figura állt.  Egy óriási lény volt, tele sötét, szürke árnyékokkal. A lény szeme, mint két izzó szénparázs, ragyogott a sötétben. "Ki vagy te?" kérdezte Zsófi remegő hangon. A figura halk, mély hangon felelt: "Én vagyok a Sötétség, és te vagy az utolsó fény, aki ellenáll nekem."
+
+Zsófi nem ijedt meg. "Miért jöttél ide?" kérdezte, a hangja már nem remegett annyira. "Sokkal több sötétség van a világon, mint fény.  Neked meg kell szüntetned a fényt a világból," mondta a Sötétség. "Ha a fény nem létezik, akkor én uralkodom mindenütt."
+
+Zsófi tudta, hogy a Sötétség szavai igazak. Kálmánfalván és az egész világon egyre több sötét hely volt.  A gyerekek a játék helyett inkább az utcán barangoltak, nem a napfényben, hanem a sötétben. A virágok elszáradtak, és a madarak elhallgattak.  A Sötétség győzelmet aratott.  De Zsófi nem adta fel.  "Nem engedem, hogy győzz!" mondta határozottan.  "A fény mindig erősebb lesz, mint a sötétség."
+
+Zsófi tudta, hogy a fény meglétéhez valamit tennie kell.  A falu szélén egy régi, elhagyott templom állt.  A templom tornya, mint egy vékony, sötét ujjal, nyúlt a sötét égboltra. Zsófi tudta, hogy ott a kulcs.  Gyorsan elindult a templom felé, a Sötétség árnyai szorongatva követték.
+
+A templom ajtaja rozsdás volt, de Zsófi megtalálta a kulcslyukat.  Belépett, és a sötét templomban egy hatalmas, üres oltár fogadta.  Hirtelen egy fényes villanás világított meg a templomot.  A falon régi, aranyos betűk jelentek meg.  Szavak, amelyek a fényről és az élet gyönyörűségéről szóltak.  Zsófi megértette. A fény nem a napfényben rejlik, hanem a szívben, a szeretetben és a reményben.
+
+Zsófi, a szívből fakadó fény erejével, a templomban gyűjtötte össze a sötétben rejlő, apró fénycseppeket.  Minden apró fény egy kis reményt adott a szívébe, egy kis fényt a világba. Az óriási, sötét figura, aki a Sötétség volt, látva Zsófi fényét, megremegett.  A sötét árnyékok visszahúzódtak a diófa mögé.  Zsófi erősebb volt a sötétségénél.
+
+Onnantól kezdve, Kálmánfalva újra ragyogni kezdett. A gyerekek ismét a napfényben játszottak, a madarak újra énekeltek, és a virágok újra nyíltak. Zsófi, a fény kis angyalaként, a falu védelmezője lett. Minden este, a Hold fényében, megvédte a falut a Sötétség gonosz terveitől.  És Kálmánfalva mindig tudta, hogy a fény, a remény, és a szeretet sokkal erősebb, mint bármilyen sötétség.
+</body>

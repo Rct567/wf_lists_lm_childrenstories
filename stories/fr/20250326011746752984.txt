@@ -1,0 +1,39 @@
+<prompt>
+Please write a funny French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Le Tournoi des Animaux et la Coupe Brillante'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```xml
+<title>Le Tournoi des Animaux et la Coupe Brillante</title>
+<body>
+Il était une fois, dans une forêt enchantée appelée "Bois de Balivernes", un grand tournoi sportif annuel. Ce n'était pas n'importe quel tournoi, non ! C'était le Tournoi des Animaux, et le prix à gagner était... roulements de tambour... la Coupe Brillante ! Cette coupe était si étincelante qu'elle pouvait illuminer la forêt entière pendant une semaine. Chaque année, tous les animaux du Bois de Balivernes participaient avec enthousiasme, et surtout, avec une bonne dose de comique.
+
+Cette année, les préparatifs étaient plus chaotiques que jamais. Gustave le grand ours, champion en titre du lancer de boulets de neige, avait décidé de se reconvertir au plongeon artistique, avec des résultats... disons variables. Madame Gertrude la poule, réputée pour sa rapidité légendaire à picorer les vers, s'était inscrite à la course de relais, mais avait terriblement peur des souris qui traversaient la piste. Et enfin, Fernand le renard, connu pour ses farces élaborées, avait annoncé qu'il allait se présenter à l'épreuve d'équitation, sur... un escargot nommé Escargotino.
+
+Le jour du tournoi, la forêt bourdonnait d'excitation. Les gradins faits de branches d'arbres étaient remplis de spectateurs : écureuils, lapins, blaireaux, et même quelques vaches curieuses qui avaient réussi à se faufiler. Le commentateur de l'événement, un vieux hibou philosophe nommé Socrate, perché sur une branche bien en vue, lançait sa voix grave et résonnante : « Mesdames et messieurs, enfants et créatures de tous poils, de plumes et d’écailles ! Bienvenue au Tournoi des Animaux ! Que la compétition commence ! »
+
+La première épreuve était le lancer de boulets de neige. Gustave l'ours, tout vêtu d'un maillot de bain tricoté, monta sur le tremplin. Il prit une profonde inspiration, ferma les yeux, et... plongea comme une pierre. Il oublia totalement le boulet de neige. Heureusement, un écureuil fut assez rapide pour pousser le boulet de neige avec son museau juste avant que Gustave ne se crashe lamentablement dans la neige. Résultat : Gustave, ridicule, l’écureuil, vainqueur inattendu.
+
+Vint ensuite la course de relais. Madame Gertrude la poule, tenant nerveusement le bâton, tremblait de la tête aux pattes. Quand le départ fut donné, elle partit comme une flèche… pendant trois mètres. Puis, apercevant une souris, elle fit un grand bond et se retrouva perchée dans un arbre. Le deuxième coureur de son équipe, un jeune lapin très impressionné, la supplia de descendre. Finalement, après de longues négociations et une promesse d’absence de souris dans la zone, Gertrude consentit à descendre. Ils finirent avant-derniers, mais avec une histoire incroyable à raconter.
+
+Après la course de relais, ce fut le tour du plongeon artistique, une discipline qui connut cette année de grandes… évolutions. Un groupe de canards, en équipe, avait prévu une chorégraphie synchronisée : le plongeon des canards en cascade. Au moment de plonger, chacun eut une approche différente : l'un prit son élan et s'écrasa la tête dans l'eau ; le second, voyant ce qu'il s'était passé, fit demi-tour à la dernière seconde ; le troisième plongea en exécutant une triple vrille, et le dernier ne put pas s'empêcher de glousser avant de tomber. Le public éclata de rire.
+
+L’épreuve d’équitation, était attendue par tous avec une excitation mêlée d’appréhension. Fernand le renard, perché sur Escargotino l'escargot, avait l'air aussi fier qu'un chevalier. Le public, fasciné, fixa ses yeux sur eux. Au signal de départ, Escargotino, avec une détermination sans faille, entama son trajet. Sa vitesse : oh, un escargot, vous connaissez... Mais, Fernand, par des encouragements continus, et surtout grâce à de savantes pirouettes pour attirer l'attention des juges, réussit à mener Escargotino vers une arrivée en deuxième position.
+
+Les juges, après de longues délibérations (ils se grattaient la tête, se chuchotaient à l’oreille, et parfois… dormaient carrément), annoncèrent les résultats. Surprise générale : le vainqueur du tournoi, grâce à son exceptionnel lancer de boulets de neige, fut… l’écureuil ! L'écureuil, tout confus et surpris, monta sur le podium, aux côtés de Gustave l’ours et Fernand et Escargotino, qui avait, à sa grande joie, réussi à remporter une mention honorable.
+
+La remise de la Coupe Brillante fut un spectacle éblouissant. La coupe, polie à la perfection par une bande de lucioles travailleuses, irradiait d'une lumière extraordinaire. L'écureuil, tenant fièrement la coupe, sentit son cœur gonfler de joie. Le Bois de Balivernes fut inondé de lumière pendant toute une semaine, et les animaux fêtèrent ce tournoi inoubliable avec des gâteaux aux noisettes, des chansons et des rires à n'en plus finir.
+
+Mais l'histoire ne s'arrêta pas là. Fernand le renard, loin d’être découragé, décida d’entraîner Escargotino pour le prochain tournoi, en se concentrant sur le saut d’obstacles. Madame Gertrude, inspirée par l'écureuil, commença un régime intensif d’entraînement avec des graines énergisantes et promettait de défier la compétition dans la course de vitesse. Et Gustave l’ours, abandonnant le plongeon (mais gardant son maillot tricoté), se lança dans une carrière de coach sportif… un rôle où, contre toute attente, il excellait.
+
+Et c'est ainsi que, dans le Bois de Balivernes, l'amitié et le rire continuèrent de prospérer, le tournoi des Animaux devenant chaque année un événement encore plus fou et joyeux. La Coupe Brillante brilla toujours plus fort, éclairant les cœurs de tous ceux qui croisaient son chemin, et rappelant à tous que, dans la vie, le plus important n'est pas de gagner, mais de participer, de s'amuser, et surtout, de ne pas avoir peur du ridicule. Car, après tout, c'est ce qui rendait le Bois de Balivernes si... balivernes ! Et la vie tellement plus amusante.
+</body>
+```

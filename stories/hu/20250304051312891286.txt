@@ -1,0 +1,48 @@
+<prompt>
+Please write a educational Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Az Ezer Színű Pillangó Kalandjai'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>hu</lang_id>
+
+<title>Az Ezer Színű Pillangó Kalandjai</title>
+<body>
+A napfényes mezőn, ahol a virágok színes sálakat viseltek, egy kis pillangó született. Ez a pillangó nem volt olyan, mint a többi, mert az ő szárnyai ezer különböző színt mutattak. Voltak rajta piros, kék, zöld, sárga és lila foltok, de még sok más szín is. A pillangó neve Színeske volt.
+
+Színeske nagyon boldog volt, hogy ilyen szép szárnyai vannak, de hamarosan rájött, hogy nem tudja, hogyan kell repülni. Próbálta megmozgatni a szárnyait, de azok nem engedelmeskedtek neki. Ekkor egy bölcs öreg pillangó, aki a közeli bokorban lakott, odaszólt neki: "Színeske, nem tudod, hogyan kell repülni? Gyere, tanítlak!"
+
+Színeske izgatottan odarepült az öreg pillangóhoz, aki elkezdte tanítani a repülés fortélyait. "Először is, meg kell tanulnod, hogyan kell a szárnyaidat megmozgatni. Aztán meg kell tanulnod, hogyan kell a levegő áramlását kihasználni. És végül, meg kell tanulnod, hogyan kell irányítani a repülésedet."
+
+Színeske figyelmesen hallgatta az öreg pillangót, és hamarosan már repült is. Először lassan és bizonytalanul, de ahogy gyakorolt, egyre gyorsabban és ügyesebben repült. Az öreg pillangó büszke volt rá, és azt mondta: "Színeske, te nagyon gyorsan tanulsz! Most már készen állsz arra, hogy felfedezd a világot."
+
+Színeske elindult, hogy felfedezze a világot. Repült a mezőn, ahol a virágok színes sálakat viseltek, és látta, hogy milyen sokféle növény és állat él ott. Találkozott egy családnyi méhekkel, akik éppen nektárt gyűjtöttek a virágokból. "Szia, Színeske!" - mondták a méhek. "Gyere, mutatunk neked valami csodálatosat!"
+
+A méhek elvitték Színeskét egy közeli erdőbe, ahol egy gyönyörű tó volt. A tóban egy családnyi hattyú úszkált, és Színeske látta, hogy milyen szépen úsznak. A hattyúk odajöttek hozzá, és azt mondták: "Szia, Színeske! Gyere, ússz velünk!"
+
+Színeske szeretett volna úszni, de nem tudta, hogyan kell. A hattyúk elkezdtek neki tanítani, és hamarosan már úszott is. Először lassan és bizonytalanul, de ahogy gyakorolt, egyre gyorsabban és ügyesebben úszott. A hattyúk büszkék voltak rá, és azt mondták: "Színeske, te nagyon gyorsan tanulsz! Most már készen állsz arra, hogy felfedezd a víz alatti világot."
+
+Színeske elindult, hogy felfedezze a víz alatti világot. Úszott a tóban, és látta, hogy milyen sokféle hal és növény él ott. Találkozott egy családnyi rákokkal, akik éppen a tó fenekén mászkáltak. "Szia, Színeske!" - mondták a rákok. "Gyere, mutatunk neked valami csodálatosat!"
+
+A rákok elvitték Színeskét egy közeli barlangba, ahol egy gyönyörű kristálycsoport volt. A kristályok csillogtak és ragyogtak, és Színeske látta, hogy milyen szépen csillognak. A rákok odajöttek hozzá, és azt mondták: "Szia, Színeske! Gyere, fedezd fel a kristályok titkait!"
+
+Színeske szeretett volna megtudni a kristályok titkait, de nem tudta, hogyan kell. A rákok elkezdtek neki tanítani, és hamarosan már tudta, hogy a kristályok hogyan csillognak és ragyognak. A rákok büszkék voltak rá, és azt mondták: "Színeske, te nagyon gyorsan tanulsz! Most már készen állsz arra, hogy felfedezd a föld alatti világot."
+
+Színeske elindult, hogy felfedezze a föld alatti világot. Mászott a barlangban, és látta, hogy milyen sokféle ásvány és kőzet él ott. Találkozott egy családnyi vakondokkal, akik éppen a föld alatt ástak. "Szia, Színeske!" - mondták a vakondok. "Gyere, mutatunk neked valami csodálatosat!"
+
+A vakondok elvitték Színeskét egy közeli üregbe, ahol egy gyönyörű ásványkincs volt. Az ásványok csillogtak és ragyogtak, és Színeske látta, hogy milyen szépen csillognak. A vakondok odajöttek hozzá, és azt mondták: "Szia, Színeske! Gyere, fedezd fel az ásványok titkait!"
+
+Színeske szeretett volna megtudni az ásványok titkait, de nem tudta, hogyan kell. A vakondok elkezdtek neki tanítani, és hamarosan már tudta, hogy az ásványok hogyan csillognak és ragyognak. A vakondok büszkék voltak rá, és azt mondták: "Színeske, te nagyon gyorsan tanulsz! Most már készen állsz arra, hogy felfedezd az ég világát."
+
+Színeske elindult, hogy felfedezze az ég világát. Repült fel a levegőbe, és látta, hogy milyen sokféle madár és felhő él ott. Találkozott egy családnyi madarakkal, akik éppen repültek. "Szia, Színeske!" - mondták a madarak. "Gyere, mutatunk neked valami csodálatosat!"
+
+A madarak elvitték Színeskét egy közeli hegyre, ahol egy gyönyörű kilátás volt. A kilátásból Színeske látta, hogy milyen szép a világ. A madarak odajöttek hozzá, és azt mondták: "Szia, Színeske! Gyere, fedezd fel a világ titkait!"
+
+Színeske szeretett volna megtudni a világ titkait, de nem tudta, hogyan kell. A madarak elkezdtek neki tanítani, és hamarosan már tudta, hogy a világ hogyan működik. A madarak büszkék voltak rá, és azt mondták: "Színeske, te nagyon gyorsan tanulsz! Most már készen állsz arra, hogy felfedezd a saját szíved titkait."
+
+Színeske elindult, hogy felfedezze a saját szíved titkait. Gondolkodott, és látta, hogy milyen sokféle érzés és gondolat él a szívében. Találkozott egy bölcs öreg pillangóval, aki éppen a közeli bokorban lakott. "Szia, Sz

@@ -1,0 +1,60 @@
+<prompt>
+Please write a simple and easy-to-follow Scottish Gaelic children's story that is at least 1000 words long.
+It must be completely written in proper Scottish Gaelic (GD).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'An dòigh aig balach òg gus an rathad ceart a lorg gu crìch nan saoghal.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>gd</lang_id>
+
+<title>An dòigh aig balach òg gus an rathad ceart a lorg gu crìch nan saoghal</title>
+<body>
+Bha balach òg ann, air an robh Eòghan, a bha a' fuireach ann an glèidht a bha suidhichte ann an àite iomallach. Bha e a' dol gu sgoil anns a' mhadainn, agus an uair a bhiodh e a' tilleadh dhachaigh, bhiodh e a' coimhead air a' chladach, a' feuchainn ri faicinn na longan a bha a' dol a dh'fhàgail a' phort. 
+
+Bha Eòghan a' cur fàinne air aon long, a bha ainmichte "An t-Eileanach", agus bha e a' smaointinn gu robh e a' dol a dh'fhàgail a' phort a h-uile latha. Ach cha robh e a' faicinn "An t-Eileanach" a' dol a dh'fhàgail a' phort, agus bha e a' cur fàinne air an long a bha a' dol a dh'fhàgail a' phort a h-uile latha. 
+
+Latha a bha seo, nuair a bha Eòghan a' dol gu sgoil, chunnaic e duine a bha suidhichte air a' chladach, a' coimhead air a' mhuir. Bha an duine seo a' caitheamh còta mòr, agus bha e a' giùlain bastan mòr. Bha Eòghan a' smaointinn gu robh an duine seo a' dol a dh'fhàgail a' phort, agus bha e a' dol a dh'fhàgail a' phort a h-uile latha. 
+
+"Halò, a bhalaich," ars an duine, "ciamar a tha thu an diugh?" 
+"Tha mi gu math, tapadh leat," ars Eòghan. 
+"Ciamar a tha do là an diugh?" ars an duine. 
+"Tha mi a' dol gu sgoil," ars Eòghan. 
+"O, tha mi a' smaointinn gu bheil sgoil a' dol a bhith math dhut," ars an duine. "Tha thu a' dol a dh'ionnsaigh rudan ùra, agus tha thu a' dol a dh'fhàgail do dhachaigh a h-uile latha." 
+
+Bha Eòghan a' smaointinn mu dheidhinn na faclan a chaidh an duine a ràdh, agus bha e a' cur fàinne air an duine a bha a' dol a dh'fhàgail a' phort a h-uile latha. Cha robh e a' faicinn an duine a-rithist, ach bha e a' smaointinn gu robh an duine a' dol a dh'fhàgail a' phort, agus bha e a' dol a dh'fhàgail a' phort a h-uile latha. 
+
+An ath-latha, nuair a bha Eòghan a' tilleadh dhachaigh, chunnaic e an duine a-rithist, a' coimhead air a' mhuir. Bha an duine a' caitheamh aon chòta, agus bha e a' giùlain aon bhastan. Bha Eòghan a' smaointinn! 
+
+"O, halò, a bhalaich," ars an duine, "ciamar a tha thu an diugh?" 
+"Tha mi gu math, tapadh leat," ars Eòghan. 
+"Ciamar a tha do là an diugh?" ars an duine. 
+"Tha mi air tilleadh dhachaigh," ars Eòghan. 
+"O, tha mi a' smaointinn gu bheil thu a' dol a dh'fhàgail do dhachaigh a-rithist," ars an duine. "Tha thu a' dol a dh'ionnsaigh rudan ùra, agus tha thu a' dol a dh'fhàgail do dhachaigh a h-uile latha." 
+
+Bha Eòghan a' smaointinn mu dheidhinn na faclan a chaidh an duine a ràdh, agus bha e a' cur fàinne air an duine a bha a' dol a dh'fhàgail a' phort a h-uile latha. Cha robh e a' faicinn an duine a-rithist, ach bha e a' smaointinn gu robh an duine a' dol a dh'fhàgail a' phort, agus bha e a' dol a dh'fhàgail a' phort a h-uile latha. 
+
+An latha an déidh sin, nuair a bha Eòghan a' dol gu sgoil, chunnaic e an duine a-rithist, a' coimhead air a' mhuir. Bha an duine a' caitheamh aon chòta, agus bha e a' giùlain aon bhastan. Bha Eòghan a' smaointinn! 
+
+"O, halò, a bhalaich," ars an duine, "ciamar a tha thu an diugh?" 
+"Tha mi gu math, tapadh leat," ars Eòghan. 
+"Ciamar a tha do là an diugh?" ars an duine. 
+"Tha mi a' dol gu sgoil," ars Eòghan. 
+"O, tha mi a' smaointinn gu bheil thu a' dol a dh'fhàgail do dhachaigh a-rithist," ars an duine. "Tha thu a' dol a dh'ionnsaigh rudan ùra, agus tha thu a' dol a dh'fhàgail do dhachaigh a h-uile latha." 
+
+Bha Eòghan a' smaointinn mu dheidhinn na faclan a chaidh an duine a ràdh, agus bha e a' cur fàinne air an duine a bha a' dol a dh'fhàgail a' phort a h-uile latha. Cha robh e a' faicinn an duine a-rithist, ach bha e a' smaointinn gu robh an duine a' dol a dh'fhàgail a' phort, agus bha e a' dol a dh'fhàgail a' phort a h-uile latha. 
+
+An ceann greis, bha Eòghan a' smaointinn gu robh e a' dol a dh'fhàgail a' phort, agus bha e a' dol a dh'fhàgail a' phort a h-uile latha. Bha e a' coimhead air a' chladach, a' feuchainn ri faicinn na longan a bha a' dol a dh'fhàgail a' phort. 
+
+Latha a bha seo, nuair a bha Eòghan a' dol gu sgoil, chunnaic e "An t-Eileanach" a' dol a dh'fhàgail a' phort. Bha e a' smaointinn gu robh e a' dol a dh'fhàgail a' phort, agus bha e a' dol a dh'fhàgail a' phort a h-uile latha. 
+
+"O, halò, a bhalaich," ars an duine a bha a' stiùireadh "An t-Eileanach", "ciamar a tha thu an diugh?" 
+"Tha mi gu math, tapadh leat," ars Eòghan. 
+"Ciamar a tha do là an diugh?" ars an duine. 
+"Tha mi a' dol gu sgoil," ars Eòghan. 
+"O, tha mi a' smaointinn gu bheil thu a' dol a dh'fhàgail do dhachaigh a-rithist," ars an duine. "Tha thu a' dol a dh'ionnsaigh rudan ùra, agus tha thu a' dol a dh'fhàgail do dhachaigh a h-uile latha." 
+
+Bha Eòghan a' smaointinn mu dheidhinn na faclan a chaidh an duine a ràdh, agus bha e a' cur fàinne air an duine a b

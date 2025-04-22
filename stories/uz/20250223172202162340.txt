@@ -1,0 +1,35 @@
+<prompt>
+Please write a funny Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Uchar para va uning osmon sehrli sarguzashtlari'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>Uchar para va uning osmon sehrli sarguzashtlari</title>
+<body>
+Oq rangli, mayin qanotlari quyosh nurida porlagan, Uchar para deb nomlangan bir para bor edi. U oddiy para emas edi, balki osmonning sirli sehrgarlari bilan do'st edi.  Har kuni tong otganda, Uchar para uyg'onib, olovli quyoshning nurini yutib, o'zining qanotlarini yoyardi.  Uning ko'zlarida esa osmonning cheksizligi, bulutlarning o'yma naqshlari va shamolning hushtak chalish ovozlariga bo'lgan hayrat va qiziquvchanlik aks etardi.
+
+Uchar para o'zining sehrli sarguzashtlarini tog'li qoyalar ustida, bulutlarning yengil o'ymakorligi ostida boshlardi.  Bir kuni u ko'k osmonning chuqurliklarida uchib yurganida, qora bulutlarning ichidan qo'rqinchli shovqinga o'xshash g'alati ovoz eshitib qoldi.  U ahamiyat bermasdan uchib o'tib ketmoqchi bo'ldi, lekin g'alati ovoz tobora kuchayib borardi.  Uzoqdan qorong'u bulutlar ichidan katta, tuxumsimon bir narsa chiqib, havo ichida devorlarni o'yib yuboradigan shamol tezligida uchib borayotganini ko'rdi.
+
+"Nima bo'layapti?" deb o'yladi Uchar para. Qiziquvchanlik tuyg'usi uni ustun tutdi. U bulutlarga yaqinlashdi va u ko'rgan narsa uni hayratda qoldirdi.  O'sha tuxumsimon narsaning ichida, harakatlantiruvchi kuch bilan harakatlanayotgan, eng chiroyli va xushbo'y gullar, shirin mevalar va lazzatli shirinliklar bilan to'ldirilgan bir yosh qiz va bir yosh o'g'ilning sehrli bog'i bor edi.
+
+Bu katta, tuxumsimon narsa - sehrli bulut edi. Bulutlar sehrli oshpaz va qizlar va o'g'il bolalar - shirinlik tayyorlovchilar edi.  Uchar para bir oziga shunday fikrga keldi: "Bu sehrli bulutlarning yosh qiz va o'g'il bolalari nima uchun hamma joyni shunday ajoyib hid bilan to'ldirmoqdalar?".
+
+Bulutlarning ichidan yosh qiz va yosh o'g'il bolalar qo'llarini kengayitib, Uchar paraga tabassum qildi. "Bizga yordam bering!" deb shirin ovoz bilan iltimos qilishdi ular.
+
+"Nima bo'ldi?" deb so'radi Uchar para, qanotlari orqali uchirib yuborgan shamolni his qilib.
+
+"Bizning sehrli bog'imiz shu qorong'u bulutlar ichida qoladi", deb aytdi yosh o'g'il. "Ularni tarqatib yuborish uchun bizga yordam kerak."
+
+Uchar para, yurakda qaldirg'ochning harakatini his qilib, yordam berishga qaror qildi.  U bulutlarning o'rtasiga kirib, yosh qiz va yosh o'g'il bilan birga bog'ning ajoyib hidini tarqatib yuborishni boshladi.  Uning qanotlari bulutlarni to'lqinlantirib, ularning ichidagi yalang'och, eng chiroyli gullarni bir-biriga urdi.  Ularning har bir qismi yorqin ranglarni porlatdi, bulutlarni engilroq va yumshoqroq qildi.
+
+Bunday qiziqarli ish Uchar paraning qalbidagi eng chiroyli kayfiyatni uyg'otdi. Ularning harakatlaridan hayratga tushgan, bulutlar asta-sekin tarqala boshladi.  Sehrli bog'ni yengil va porloq bulutlar bilan o'ralgan, chiroyli va toza osmonga chiqib keldi.  Yosh qiz va yosh o'g'il bolalar Uchar paraga minnatdorchilik bildirishdi va sehrli bulut ular bilan birga osmon bo'ylab sayohat qildi.
+
+Uchar para shunday sehrli sarguzashtlarni ko'p marta boshdan kechirdi, do'stlari bilan o'zaro yordamlashib, osmonning sehrli sirlarini ochib berdi. U har bir parvozda yangi tuyg'ularga va yangi tajribalarga to'yingan holda, qanotlarini yoyib, osmonning cheksizligi bo'ylab sayohat qildi.  Har qanday paytda Uchar paraga qaragan odamlar uning qanotlaridagi quyosh nurlari va tabassumida osmonning cheksiz kengligini ko'rishlari mumkin edi.
+</body>

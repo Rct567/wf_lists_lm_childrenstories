@@ -1,0 +1,38 @@
+<prompt>
+Please write a funny Bosnian children's story that is at least 1000 words long.
+It must be completely written in proper Bosnian (BS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Čarobni svijet u staroj knjizi i tajna koja krije'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>bs</lang_id>
+
+<title>Čarobni svijet u staroj knjizi i tajna koja krije</title>
+<body>
+Petar, mali dječak sa kosom boje suncokreta i očima koje su sjale kao dva bisera, bio je zaljubljenik u stare knjige.  Njegova baka, stara žena sa rukama pune bora i pričama koje su mirisale na med i đumbir, imala je jednu knjigu koja je bila, kako je ona govorila, “ispunjena tajnama svijeta koji se krije ispod naslova.”  Knjiga je bila starinska, vezana kožom i punom neobičnih crteža, slova koja su izgledala kao isprepleteni zmajevi, i riječi na kojima je se činilo da se skuplja magla. Petar ju je neprestano dodijavao, ispitivajući je s pitanjima, dok ga baka nije na kraju pristala pustiti da čita samo jednu stranicu, ali… samo jednom!
+
+Te večeri, Petar se spustio u bakačin podrum. Mračna soba, smještena ispod njihovog doma, mirisala je na prašinu i nešto što je bilo slično slatkim, zrelim bobicama. Knjiga je sjala kao biser na starom stolu, čekajući da je on otvori. Petar je pažljivo okrenuo jednu stranica. I odmah se našao u čarobnom svijetu. 
+
+Njegovu sobu zamijenila je prekrasna šuma od čarobnih stabala čija su lišća bila prepunjena zlatnim zvjezdicema. Zvjezdice su se miješale s radosnim cvrkutom ptica, i nijansama nevidljivih cvijeća. Iza drveća, on je vidio životinje, čudne i veličanstvene – bijeli lav s crnim mrljama, zebra s perjanjem poput anđela i ogromni ždral sa sjajnim zlatnim očima.  Svi su oni živeli u potpunoj harmoniji, i svaki zvuk koji su pravili, nosio je odjek prekrasne tajne. 
+
+
+Petar je pažljivo hodao, šapatom u ovoj bajci odjekujućoj prirode. Čula su ga sve male životinjice.  Nije bio siguran gdje će se ovo putovanje završiti, ali znao je da ga dočekuju avanture. Dok je tako hodao, čuo je neobične zvukove, gotovo poput tihog pjevanja. Krenuo je pravo na njihov izvor, koji je ležao na rubu rijeke od sjajnog crnog šećera, iz koje su visile kristalne vodene kapi.
+
+
+Skrivajući se iza razbacanih listova čudnih stabala, sreo je nevidljivu djevojčicu, čija su leđa nosila sjajan šešir koji je bio ukrašen zvjezdanim kamenčićima. Ona mu je pokazala svih deset vrsta magičnih buba koje se krio na njezinom ruksaku. Svaka je buba pjevala pjesmu o tajnama svijeta.
+
+
+Djevojčica mu je objasnila kako se vratiti u stvarnost: "Da bi se vratio, moraš pronaci cvijet s rukama od srebra i laticama od svjetlosti, a sakriven je iza sedam plavih zidova."
+
+
+Petar je krenuo u novu avanturu, pronalazeći šest labirintha između svjetla i sjene. Šesta tajna vrata krila su iznenađujuće iskustvo. U dvorani je sjajio svijetleći cvijet s laticama prepunim vječnih tajni, sjajeći od zvjezda. U tom trenutku se pojavila baka, s osmehom poput sunčeve zrake. "Čudno je, ali nisi baš izgubljen", rekla je. "Vidio sam vas dvoje kako razgovarate kroz moju staru knjigu."
+
+
+Baka je objasnila da je to prava priča iz staroga vremena, priča punjena čarolijom. Svaki zvuk u knjizi, svaki crtež skrivao je dio te predivne priče.   
+
+Petar je iz šume izašao još mudriji i pored svega, još više ljubazniji, a sretniji je bio nego ikad. Od tog dana, svaku večer, pred spavanje bi uzivao u čaroliji stara knjiga iz bakina podruma.  I znao je, bez ikakve sumnje, da su tajne tog čarobnog svijeta očekuju svaki čitatelj koji uči i sa zanimanjem  proživljava bajke na papiru.  Baka, uz smijeh i razumijevanje, bila je ponosna na svoga unuka, čiji je duh otkrivao tajne stare knjiga.
+</body>

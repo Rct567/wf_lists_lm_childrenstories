@@ -1,0 +1,77 @@
+<prompt>
+Please write a creative and original Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Zaginiony List do Świętego Mikołaja i Poszukiwania Pełne Niespodzianek.'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>pl</lang_id>
+
+```xml
+<title>Zaginiony List do Świętego Mikołaja i Poszukiwania Pełne Niespodzianek.</title>
+<body>
+Dawno, dawno temu, w małej, przytulnej chatce na skraju malowniczego lasu, mieszkała mała dziewczynka o imieniu Zosia. Zosia miała sześć lat i w sercu nosiła wielką miłość do Świąt Bożego Narodzenia. Uwielbiała zapach choinki, błysk ozdób i oczywiście, oczekiwanie na prezenty od Świętego Mikołaja.
+
+Każdego roku, na długo przed świętami, Zosia pisała list do Świętego Mikołaja. Z ogromną starannością kreśliła na papierze swoje marzenia i prośby. W tym roku, postanowiła poprosić o magiczny pędzel, który potrafiłby malować rzeczy, które potem stawałyby się rzeczywiste. Wyobrażała sobie, jak maluje piękne kwiaty, które rozkwitają w jej pokoju, albo latającego konia, który zabiera ją w podróż po chmurach.
+
+List do Świętego Mikołaja był już prawie gotowy. Zosia ozdobiła go brokatem i naklejkami z reniferami. Brało go tylko jedno – wrzucenie do skrzynki pocztowej. Schowała list pod poduszką, obiecując sobie, że jutro, zaraz po śniadaniu, pójdzie na pocztę.
+
+Niestety, następnego dnia, tuż po przebudzeniu, Zosia odkryła straszną rzecz – list zaginął! Przeszukala cały pokój, zaglądała pod łóżko, do szafy, sprawdzała wszystkie szuflady. Niestety, listu nigdzie nie było.
+
+Zaczęła płakać. „Jak Święty Mikołaj dowie się o moim marzeniu? Jak dostanę magiczny pędzel?” – lamentowała. Jej mama, usłyszawszy płacz Zosi, weszła do pokoju.
+
+„Co się stało, kochanie?” – zapytała troskliwie.
+
+Zosia opowiedziała mamie o zaginionym liście i o swoim smutku. Mama przytuliła ją mocno i powiedziała: „Spokojnie, Zosiu. Na pewno się odnajdzie. Spróbujmy go razem poszukać.”
+
+Rozpoczęły się poszukiwania pełne niespodzianek. Najpierw przeszukały cały dom jeszcze raz, metr po metrze. Sprawdziły nawet torebkę mamy, czy list przypadkiem nie wpadł do niej. Niestety, bez rezultatu.
+
+„Może list wyleciał przez okno?” – zapytała mama.
+
+Wyszły na dwór i zaczęły szukać w śniegu. Zosia wytężyła wzrok, szukając znajomej, brokatowej koperty. Nagle, zobaczyła coś błyszczącego na gałęzi starej jabłoni. Podbiegła tam z nadzieją w sercu.
+
+To nie był list, ale piękna, czerwona wstążka. Była przywiązana do gałęzi i migotała w słońcu. „Może to znak od Świętego Mikołaja?” – pomyślała Zosia.
+
+Wróciły do domu i kontynuowały poszukiwania. Mama wpadła na pomysł, żeby zapytać sąsiadów. Zosia, choć trochę nieśmiała, zgodziła się.
+
+Najpierw poszły do pani Krysi, która mieszkała w domu obok. Zosia, trzymając się kurczowo ręki mamy, opowiedziała jej o zaginionym liście. Pani Krysia potrząsnęła głową i powiedziała, że niczego takiego nie widziała. Zaoferowała jednak ciepłą herbatę i pyszne pierniczki.
+
+Następnie odwiedziły pana Jana, który mieszkał na końcu ulicy. Pan Jan był starszym panem, ale bardzo przyjaznym. Niestety, on również nie widział listu.
+
+„Może trzeba zapytać zwierzęta?” – nagle zaproponowała Zosia, patrząc na siedzącego pod drzwiami kota sąsiadów.
+
+Mama spojrzała na nią ze zdziwieniem, ale postanowiła spróbować. „No dobrze, Zosiu. Spróbujmy.”
+
+Zosia podeszła do kota i powiedziała: „Mruczku, widziałeś może mój list do Świętego Mikołaja? Jest bardzo ważny!”
+
+Kot spojrzał na nią swoimi zielonymi oczami, zamruczał i podrapał się za uchem. Nagle, podniósł łapę i wskazał nią w kierunku ścieżki prowadzącej do lasu.
+
+Zosia i mama spojrzały po sobie zaskoczone. „No dobrze, Mruczku, idziemy!” – powiedziała Zosia.
+
+Ruszyły w stronę lasu. Śnieg skrzypiał pod ich butami. Zosia uważnie rozglądała się dookoła. Las był piękny, ale również trochę straszny. Zosia poczuła lekkie dreszcze emocji.
+
+Nagle, zauważyła coś, co błyszczało w śniegu. Podeszła bliżej i… to był list! Leżał na śniegu, trochę zmoczony, ale cały i nieuszkodzony! Zosia podniosła go z radością.
+
+„Mamo, znalazłam go! Znalazłam list!” – krzyknęła.
+
+Mama podbiegła do Zosi i przytuliła ją mocno. „To wspaniale, kochanie! Teraz możemy go wrzucić do skrzynki.”
+
+Wrócili szczęśliwe do domu. Zosia ostrożnie osuszyła list i razem z mamą wrzuciły go do skrzynki pocztowej.
+
+Wieczorem, gdy Zosia leżała w łóżku, myśląc o magicznym pędzlu, usłyszała nagle delikatne pukanie do okna. Przestraszyła się, ale po chwili zebrała odwagę i podeszła do okna.
+
+Na parapecie siedział mały, rudy ptaszek. W dziobie trzymał… mały, zawinięty w papier prezent! Zosia otworzyła okno i ostrożnie wzięła prezent od ptaszka.
+
+Rozwinęła papier i… oniemiała z radości. W pudełeczku leżał piękny, magiczny pędzel! Był cały złoty i błyszczący.
+
+Zosia wiedziała, że to był prezent od Świętego Mikołaja, który znalazł jej list i spełnił jej marzenie.
+
+Uśmiechnęła się szeroko i zaczęła wyobrażać sobie, co namaluje tym magicznym pędzlem. Na pewno zacznie od latającego konia, który zabierze ją na wycieczkę po chmurach! A potem… potem namaluje wszystko, co tylko zechce!
+
+Od tamtej pory Zosia malowała piękne obrazy i wierzyła w magię Świąt Bożego Narodzenia jeszcze bardziej. Wiedziała, że nawet jeśli niektóre rzeczy wydają się zaginione, zawsze znajdzie się ktoś, kto pomoże je odnaleźć. A czasami, zupełnie niespodziewanie, spełniają się marzenia! I to jest najpiękniejsza część świątecznej magii.
+</body>
+```

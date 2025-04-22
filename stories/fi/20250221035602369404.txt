@@ -1,0 +1,41 @@
+<prompt>
+Please write a creative and original Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kalle Kissan Seikkailut Kesäsaarella'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>fi</lang_id>
+
+<title>Kalle Kissan Seikkailut Kesäsaarella</title>
+<body>
+Kalle Kissa, pienen, siniharmaan kissanpentu, asui Kesäsaarella. Se oli ihana paikka, täynnä vihreitä niittyjä, sinisiä järviä ja tuoksuvia kukkia.  Kalle rakastoi uimaan järvessä, jahtaamaan perhosia ja leikkimään piilopaikoissa.  Tänä kesänä kuitenkin kaikki tuntui erilaisemmalta.  Yksi suuri, musta pilvi oli leijunut saaren yllä jo useana päivänä, ja ilma oli painava ja hiljainen.  Linnuston laulu oli vaimentunut, ja jopa hyönteiset näyttivät surullisilta.
+
+Yhtenä sateisena aamuna, kun Kalle istui kuivassa kalliossa, kuuli hän hennon kuiskaamisen.  "Apua!"  Kalle katsahti ympärilleen, mutta ei nähnyt ketään.  Kuiskahdus toistui.  "Järven syvyydessä on vaarassa!"
+
+Kalle, rohkean sydämen omaavana kissanpentuna, päätti selvittää asian.  Hän ryntäsi rantaan ja astui varovasti järven jäätyneeseen, mutkittelevaan rantaan.  Siellä, jäällä, hän näki pienen, valkoisen linnun, jolla oli siivet kylmässä.  Linnu todella näytti olevan ahdingossa.
+
+"Mikä sinulla on?" Kalle kysyi.  Linnu, nimeltään Lumikki, avasi sukkensa ja sanoi:  "Musta pilvi on imeänyt järven voiman.  Kaikki kasvit ja eläimet ovat heikkoja.  Vain sinä, Kalle, voit auttaa meitä."
+
+Kalle oli hämmentynyt.  "Miten minä voin auttaa?"
+
+"Järven sydämessä on kultaiset, loistavat kivet, jotka voivat palauttaa voiman.  Ne ovat piilossa salaisessa luolassa.  Sinun täytyy löytää ne ennen kuin pilvi nielaisee koko saaren.", Lumikki selitti.
+
+Kalle ymmärsi, että hänen oli tehtävä jotain. Hän hyppäsi jäällä luontevasti ja ryntäsi järven kohti.  Järvi oli kylmä, mutta Kalle oli rohkeasti sitoutunut tehtäväänsä.
+
+Matka järven syvyyksiin oli vaikea.  Kalle oli melkein jännittänyt, mutta Lumikki kannusti häntä aina ja aina. Hän ohjasi Kallen matkaa ja Kalle löysi salaisen luolan.  Se oli täynnä salaperäisiä kuvioita ja hohtavia kristalleja.  Kalle etsi ja etsi, ja lopulta hänen silmänsä tarttuivat.  Siellä, luolan syvimmässä kohdassa, loisti kultaiset kivet.  Ne loivat kauniita valoja, jotka tanssivat ympäri luolaa.
+
+Kalle tuonutti kiven varovasti ja nosti sen esiin.  Kivet olivat todellakin erittäin kauniita ja yhtä kuin järveen.  Tämän jälkeen hän palasi Lumikille ja kaikki muut eläimet.  Kalle antoi heille kiviä ja kaikki tunsivat voimansa palaavan.
+
+Musta pilvi alkoi vähitellen haihtua, ja aurinko paistoi läpi pilvien.  Järvi alkoi hehkua ja kasvit kasvoivat uudelleen.  Linnut lauloivat kirkkaasti ja hyönteiset leikkivät ilmassa.  Kesäsaari oli taas täynnä elämää ja iloisia ääniä.  Kalle, sankari kissanpentu, oli onnistunut.
+
+Kalle ja Lumikki juhlivat yhdessä.  Heidän ilo oli suurta. Kalle oli pelastanut saaren, ja hänestä oli tullut kaikkien suosikki. Hän oli todellinen sankari.
+
+Saaren muut asukkaat kiittivät Kallelle ja antoivat hänelle parhaat lahjat.  Heidän joukossaan oli myös saaren vanha, viisas käärme, nimeltään Viisas.  Viisas sanoi: "Kalle, olet osoittanut suurta rohkeutta ja vastuullisuutta.  Olet todellinen sankari."
+
+Kalle kissa, pienen, siniharmaan kissanpentu, nukkui onnellisena Kesäsaaren aurinkoisessa kesäillassa, tietäen, että hän oli tehnyt jotain tärkeää.  Hän oli osoittanut, että pieni eläinkin voi olla iso sankari. Ja että rohkeus ja ystävyys ovat voimakkaita aarteita, jotka voittavat kaikki pimeät ja surullisen pilvet.
+</body>

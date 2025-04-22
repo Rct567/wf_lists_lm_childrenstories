@@ -1,0 +1,51 @@
+<prompt>
+Please write a timeless Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Historia Dobrego Dinozaura i jego Serce'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pl</lang_id>
+
+```xml
+<title>Historia Dobrego Dinozaura i jego Serce</title>
+<body>
+Dawno, dawno temu, w krainie zielonych wzgórz, pachnących lasów i błyszczących rzek, żył sobie mały dinozaur. Nie był to jednak zwyczajny dinozaur, lecz diplodok, którego serce wypełniała dobroć. Nazywał się Dobromir. Jego skóra miała kolor wiosennej trawy, a oczy były jak dwa błyszczące kamienie szlachetne. Dobromir uwielbiał wszystko, co żywe. Dbał o małe owady, pomagał zagubionym ptakom odnaleźć drogę do gniazda i dzielił się najsmaczniejszymi liśćmi z innymi dinozaurami.
+
+Miał wspaniałą rodzinę: mamę, tatę, i kilku starszych braci i sióstr. Mieszkali w dużej, słonecznej dolinie, gdzie bujna roślinność kwitła przez cały rok. Bracia Dobromira byli silni i odważni, uwielbiali gonitwy i wyzwania. Siostry z kolei były piękne i eleganckie, spędzały czas na podziwianiu kwiatów i tańcu w promieniach słońca. Dobromir jednak wolał spędzać czas z małymi zwierzątkami i pomagać potrzebującym. Z tego powodu czasem był wyśmiewany przez swoje rodzeństwo. "Znowu pomagasz tym maluchom?" pytał gromki Brat Twardosław, po czym się śmiał. "Przecież jesteś dinozaurem! Powinieneś być silny i odważny, a nie delikatny jak listek!"
+
+Dobromir tylko smutniał, ale nigdy nie przestał być miłym i pomocnym. Wiedział, że dobroć jest czymś, co sprawia, że jego serce śpiewa radością. Pewnego dnia, gdy słońce zachodziło nad doliną, a kolory malowały niebo w odcieniach pomarańczy i różu, Dobromir usłyszał płacz. Był to płacz maleńkiego triceratopsa, który zgubił się w gęstym lesie. Triceratops trząsł się ze strachu, a jego oczy błyszczały od łez.
+
+"Co się stało, mały?" zapytał Dobromir delikatnym głosem, klękając przy nim.
+"Z-zgubiłem się... Boję się..." wybełkotał triceratops, ocierając łzy.
+Dobromir otoczył triceratopsa ramieniem i powiedział: "Nie bój się. Pomogę ci znaleźć drogę do domu."
+
+Ruszył więc w głąb lasu, ostrożnie stawiając swoje ogromne stopy, aby nie nadepnąć na żadne małe zwierzę. Triceratops, wciąż przestraszony, trzymał się kurczowo Dobromira. Przez chwilę szli w milczeniu, słysząc tylko szum liści i śpiew ptaków. Nagle, usłyszeli groźny ryk. To był duży, zły tyranozaur, który wyszedł na polowanie. Tyranozaur był największym i najgroźniejszym dinozaurem w okolicy. Zazwyczaj wszyscy uciekali, gdy tylko go zobaczyli.
+
+Triceratops zadrżał ze strachu, ale Dobromir ani drgnął. Stanął przed małym triceratopsem, chroniąc go własnym ciałem. "Spokojnie" powiedział cicho, po czym głośno zwrócił się do tyranozaura: "Proszę pana, czy mógłby pan dać nam przejść? Ten mały triceratops zgubił się i szukamy drogi do domu."
+
+Tyranozaur, zaskoczony śmiałością Dobromira, prychnął gniewnie. Zmarszczył brwi i zmrużył swoje małe, przenikliwe oczy. "Ja się nie dzielę! Zabiorę go ze sobą! Jest mały, smaczny... Będzie doskonałym posiłkiem!" Ryknął groźnie, a jego zęby błysnęły w zmierzchu.
+
+Dobromir, mimo że był przestraszony, nie odstąpił. "Panie tyranozaurze, proszę się zastanowić. Jest bardzo smutny i z pewnością rodzina się o niego martwi. Pomogę panu zdobyć najlepsze liście, obiecuję. Byleby tylko pozwolił pan mu wrócić do domu."
+
+Tyranozaur spojrzał na Dobromira, zdumiony jego uporem. Widział w nim coś, czego nigdy wcześniej nie widział – niezłomność i dobroć. Po chwili namysłu westchnął ciężko. "Dobra… Przechodźcie. Ale jeśli tylko zobaczę was znowu w moich okolicach… pożałujecie!"
+
+Dobromir uśmiechnął się do tyranozaura, dziękując mu, po czym chwycił triceratopsa za ramię i poprowadził go przez gęste krzewy. Przeszli długą drogę, aż wreszcie zobaczyli w oddali znajomy widok – dom triceratopsa. Przywitała ich szczęśliwa mama triceratopsa, która z wdzięczności tulila swoje dziecko. "Dziękuję ci, Dobromirze, uratowałeś moje dziecko!" powiedziała, ściskając go mocno.
+
+Dobromir uśmiechnął się szeroko, jego serce przepełnione radością. "To nic takiego, cieszę się, że mogłem pomóc."
+
+Wrócił do domu, zmęczony, ale szczęśliwy. Gdy opowiedział rodzeństwu o swojej przygodzie, ku jego zaskoczeniu, bracia i siostry wysłuchali go z zainteresowaniem. Twardosław, który zawsze go wyśmiewał, podszedł do niego i powiedział: "Dobromirze, jesteś naprawdę odważny. Pomogłeś małemu triceratopsowi i postawiłeś się tyranozaurowi! Chyba… pomimo tego że jesteś miły… jesteś również bardzo silny!"
+
+Siostry pokiwały głowami z uznaniem. "Dobromirze, pokazaleś nam, że dobroć jest ważniejsza od siły fizycznej." powiedziała najstarsza z sióstr, Elżbieta.
+
+Od tamtego dnia, rodzeństwo Dobromira zmieniło swoje zdanie. Zrozumieli, że prawdziwa siła nie polega na tym, aby być wielkim i silnym, ale na posiadaniu wielkiego i dobrego serca. Pomagali Dobromirowi w jego codziennych działaniach, chronili małe zwierzęta, i dzielili się z innymi.
+
+Tyranozaur, z czasem, zmienił się również. Widząc dobroć Dobromira i to, jak wiele zyskał dzięki niej, również stał się milszy. Przestał być zły i groźny, zaczął pomagać innym dinozaurom, a nawet czasem dzielił się z nimi liśćmi.
+
+Historia Dobromira pokazuje, że dobroć zawsze zwycięża. Pokazuje, że warto być miłym i pomocnym, bez względu na to, co mówią inni. A dobre serce, podobnie jak Dobromira, może zmieniać świat na lepsze, czyniąc go piękniejszym i bardziej przyjaznym. I tak, Dobromir, dobry dinozaur o złotym sercu, żył długo i szczęśliwie, otoczony miłością i szacunkiem, dając przykład innym dinozaurom, że dobroć jest największą siłą ze wszystkich. A jego historia była opowiadana z pokolenia na pokolenie, w krainie zielonych wzgórz, jako dowód na to, że dobro zawsze się opłaca.
+</body>
+```

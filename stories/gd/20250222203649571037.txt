@@ -1,0 +1,67 @@
+<prompt>
+Please write a funny Scottish Gaelic children's story that is at least 1000 words long.
+It must be completely written in proper Scottish Gaelic (GD).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Clann an Duin a' Chuain'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>gd</lang_id>
+
+<title>Clann an Duin a' Chuain</title>
+<body>Bha clann a' fuireach ann an duin a' chuain, far an robh iad a' faicinn nan tonn is nan eun mara. Bha an duin a' chuain a' dol chun a' chladach, is bha iad a' dol a dh'fhàs nas motha is nas motha. Bha athair na clann, Aonghas, a' dol a dh'obair gach madainn, is bha e a' tilleadh dhachaigh aig deireadh an latha. Bha a' mhàthair, Màiri, a' dol a dh'fhàgail nan clann aig an taigh, is bha i a' dol a dh'obair ann an gàrradh a' chlann.
+
+Bha na clann, Seumas, Anna, is Calum, a' dol a dh'fhàs nas motha is nas motha, is bha iad a' dol a dh'fhàgail an taigh aca. Bha Seumas, a' mhac a bu shine, a' dol a dh'obair mar mhalairt, is bha e a' dol a dh'fhàgail a' chladach. Bha Anna, a' nighean a bu shine, a' dol a dh'obair mar bhanaltram, is bha i a' dol a dh'fhàgail an duin a' chuain. Bha Calum, am mac a bu òige, a' dol a dh'fhàs nas motha is nas motha, is bha e a' dol a dh'fhàgail an taigh aca.
+
+Latha a bha seo, bha Aonghas a' dol a dh'obair, is bha e a' faicinn duine a' tighinn gu a' chladach. Bha an duine a' dol a dh'fhàgail a' bhaile, is bha e a' dol a dh'fhàgail a' chladach. Bha Aonghas a' dol a dh'fhàgail a' chladach, is bha e a' dol a dh'fhàgail an duin a' chuain. Bha e a' faicinn an duine a' tighinn gu a' chladach, is bha e a' dol a dh'fhàgail a' bhaile.
+
+" Halò, a dhuine," ars Aonghas, "dè tha thu a' dol a dh'fhàgail a' bhaile?"
+
+"Tha mi a' dol a dh'fhàgail a' bhaile, is tha mi a' dol a dh'fhàgail a' chladach," ars an duine.
+
+"Dè tha thu a' dol a dh'fhàgail a' chladach?" ars Aonghas.
+
+"Tha mi a' dol a dh'fhàgail a' chladach, is tha mi a' dol a dh'fhàgail an duin a' chuain," ars an duine.
+
+Bha Aonghas a' dol a dh'fhàgail a' chladach, is bha e a' dol a dh'fhàgail an duin a' chuain. Bha e a' faicinn an duine a' tighinn gu a' chladach, is bha e a' dol a dh'fhàgail a' bhaile. Bha e a' smaointinn air an duine, is bha e a' dol a dh'fhàgail a' chladach.
+
+An ath latha, bha Màiri a' dol a dh'fhàgail nan clann aig an taigh, is bha i a' dol a dh'obair ann an gàrradh a' chlann. Bha i a' faicinn an duine a' tighinn gu a' chladach, is bha i a' dol a dh'fhàgail a' bhaile. Bha i a' smaointinn air an duine, is bha i a' dol a dh'fhàgail a' chladach.
+
+" Halò, a dhuine," ars Màiri, "dè tha thu a' dol a dh'fhàgail a' bhaile?"
+
+"Tha mi a' dol a dh'fhàgail a' bhaile, is tha mi a' dol a dh'fhàgail a' chladach," ars an duine.
+
+"Dè tha thu a' dol a dh'fhàgail a' chladach?" ars Màiri.
+
+"Tha mi a' dol a dh'fhàgail a' chladach, is tha mi a' dol a dh'fhàgail an duin a' chuain," ars an duine.
+
+Bha Màiri a' dol a dh'fhàgail a' chladach, is bha i a' dol a dh'fhàgail an duin a' chuain. Bha i a' faicinn an duine a' tighinn gu a' chladach, is bha i a' dol a dh'fhàgail a' bhaile. Bha i a' smaointinn air an duine, is bha i a' dol a dh'fhàgail a' chladach.
+
+An latha an déidh sin, bha Seumas a' dol a dh'obair mar mhalairt, is bha e a' dol a dh'fhàgail a' chladach. Bha e a' faicinn an duine a' tighinn gu a' chladach, is bha e a' dol a dh'fhàgail a' bhaile. Bha e a' smaointinn air an duine, is bha e a' dol a dh'fhàgail a' chladach.
+
+" Halò, a dhuine," ars Seumas, "dè tha thu a' dol a dh'fhàgail a' bhaile?"
+
+"Tha mi a' dol a dh'fhàgail a' bhaile, is tha mi a' dol a dh'fhàgail a' chladach," ars an duine.
+
+"Dè tha thu a' dol a dh'fhàgail a' chladach?" ars Seumas.
+
+"Tha mi a' dol a dh'fhàgail a' chladach, is tha mi a' dol a dh'fhàgail an duin a' chuain," ars an duine.
+
+Bha Seumas a' dol a dh'fhàgail a' chladach, is bha e a' dol a dh'fhàgail an duin a' chuain. Bha e a' faicinn an duine a' tighinn gu a' chladach, is bha e a' dol a dh'fhàgail a' bhaile. Bha e a' smaointinn air an duine, is bha e a' dol a dh'fhàgail a' chladach.
+
+An ath latha, bha Anna a' dol a dh'obair mar bhanaltram, is bha i a' dol a dh'fhàgail an duin a' chuain. Bha i a' faicinn an duine a' tighinn gu a' chladach, is bha i a' dol a dh'fhàgail a' bhaile. Bha i a' smaointinn air an duine, is bha i a' dol a dh'fhàgail a' chladach.
+
+" Halò, a dhuine," ars Anna, "dè tha thu a' dol a dh'fhàgail a' bhaile?"
+
+"Tha mi a' dol a dh'fhàgail a' bhaile, is tha mi a' dol a dh'fhàgail a' chladach," ars an duine.
+
+"Dè tha thu a' dol a dh'fhàgail a' chladach?" ars Anna.
+
+"Tha mi a' dol a dh'fhàgail a' chladach, is tha mi a' dol a dh'fhàgail an duin a' chuain," ars an duine.
+
+Bha Anna a' dol a dh'fhàgail a' chladach, is bha i a' dol a dh'fhàgail an duin a' chuain. Bha i a' faicinn an duine a' tighinn gu a' chladach, is bha i a' dol a dh'fhàgail a' bhaile. Bha i a' smaointinn air an duine, is bha i a' dol a dh'fhàgail a' chladach.
+
+An latha an déidh sin, bha Calum a' dol a dh'

@@ -1,0 +1,47 @@
+<prompt>
+Please write a simple and easy-to-follow Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'De Regibus Qui Fuerunt Iusti Et Misericordes'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>la</lang_id>
+
+<title>De Regibus Qui Fuerunt Iusti Et Misericordes</title>
+<body>Erant olim reges duo, qui in terris longe distantibus regnabant. Uterque rex habebat regnum magnum et populum multum. Rex primus vocabatur Iustinus, et rex secundus vocabatur Misericors. Iustinus et Misericors erant amici optimi, et saepe epistulas ad invicem mittebant.
+
+Iustinus rex fuit iustus et aequus. Ille semper ius dicebat, et numquam injuste iudicabat. Populus regni Iustini eum amabat, et semper gaudebant, quod rex iustus eos regebat. Iustinus rex habebat etiam uxorem pulchram et filios duos, qui erant fortissimi et sapientissimi.
+
+Misericors rex fuit misericors et clemens. Ille semper pauperibus et miseris auxilium dabat, et numquam eos despicebat. Populus regni Misericordis eum amabat, et semper gaudebant, quod rex misericors eos regebat. Misericors rex habebat etiam uxorem pulchram et filias duas, qui erant pulcherrimae et sapientissimae.
+
+Die quadam, Iustinus rex et Misericors rex convenerunt, ut de rebus regnorum suorum loquerentur. Iustinus rex dixit: "Amice Misericors, audivi, quod regnum tuum est pacificum et prosperum. Quaeso, dic mihi, quid fecisti, ut regnum tuum sic esset?" Misericors rex respondit: "Amice Iustinus, feci, quod omnes pauperes et miseri in regno meo auxilium haberent, et quod omnes iusti et aequi in regno meo ius dicerent."
+
+Iustinus rex dixit: "Ego quoque feci, quod omnes iusti et aequi in regno meo ius dicerent, et quod omnes pauperes et miseri in regno meo auxilium haberent. Sed audivi, quod in regno tuo est fons, qui sanat omnes aegros. Quaeso, dic mihi, ubi est fons ille?" Misericors rex respondit: "Amice Iustinus, fons ille est in silva, quae est in medio regni mei. Quisquis bibit de fonte illo, sanatetur ab omni aegritudine."
+
+Iustinus rex dixit: "Ego volo fontem illum videre, et bibere de eo, ut saner, si aeger sum." Misericors rex dixit: "Amice Iustinus, vade in silvam, et quaere fontem illum. Sed cave, ne serpentem, qui in silva habitat, offendat te." Iustinus rex abiit in silvam, et quaerebat fontem illum. Sed serpens, qui in silva habitabat, apparuit ei, et dixit: "Quid vis, rex Iustinus? Cur in silvam venisti?"
+
+Iustinus rex respondit: "Veni in silvam, ut fontem videam, qui sanat omnes aegros." Serpens dixit: "Ego sum custos fontis illius. Si vis fontem videre, solve enigma meum." Iustinus rex dixit: "Dic enigma tuum, ut solveam." Serpens dixit: "Enigma meum est: Quid est, quod semper venit, sed numquam pervenit?"
+
+Iustinus rex respondit: "Solve non possum enigma tuum." Serpens dixit: "Ego te iuvo. Respondes, quod cras semper venit, sed numquam pervenit." Iustinus rex dixit: "Gratias tibi, serpens. Nunc fontem videbo." Serpens dixit: "Vade, rex Iustinus, et fontem vide. Sed cave, ne aquam de fonte illo bibas, nisi es aeger."
+
+Iustinus rex abiit ad fontem, et vidit aquam, quae erat crystalina et pura. Sed non bibit de fonte illo, quia non erat aeger. Rex reversus est ad regnum suum, et dixit populo: "Vidi fontem, qui sanat omnes aegros. Sed non bibi de fonte illo, quia non sum aeger." Populus gaudebat, quod rex eorum viderat fontem illum.
+
+Misericors rex audivit, quod Iustinus rex viderat fontem illum, et dixit: "Amice Iustinus, gaudeo, quod videris fontem illum. Sed quaeso, dic mihi, quid fecisti, ut serpens, qui in silva habitat, non te offenderet." Iustinus rex respondit: "Solvebam enigma serpentis, et tunc ille me non offenderet."
+
+Misericors rex dixit: "Ego quoque volo fontem illum videre, et bibere de eo, ut sanem, si aeger sum." Iustinus rex dixit: "Vade, amice Misericors, et quaere fontem illum. Sed cave, ne serpentem, qui in silva habitat, offendat te." Misericors rex abiit in silvam, et quaerebat fontem illum. Sed serpens, qui in silva habitabat, apparuit ei, et dixit: "Quid vis, rex Misericors? Cur in silvam venisti?"
+
+Misericors rex respondit: "Veni in silvam, ut fontem videam, qui sanat omnes aegros." Serpens dixit: "Ego sum custos fontis illius. Si vis fontem videre, solve enigma meum." Misericors rex dixit: "Dic enigma tuum, ut solveam." Serpens dixit: "Enigma meum est: Quid est, quod semper est, sed numquam videtur?"
+
+Misericors rex respondit: "Solve non possum enigma tuum." Serpens dixit: "Ego te iuvo. Respondes, quod Deus semper est, sed numquam videtur." Misericors rex dixit: "Gratias tibi, serpens. Nunc fontem videbo." Serpens dixit: "Vade, rex Misericors, et fontem vide. Sed cave, ne aquam de fonte illo bibas, nisi es aeger."
+
+Misericors rex abiit ad fontem, et vidit aquam, quae erat crystalina et pura. Bibit de fonte illo, quia erat aeger, et sanatus est. Rex reversus est ad regnum suum, et dixit populo: "Vidi fontem, qui sanat omnes aegros, et bibi de fonte illo, et sanatus sum." Populus gaudebat, quod rex eorum sanatus erat.
+
+Iustinus rex et Misericors rex erant amici optimi, et semper epistulas ad invicem mittebant. Regna eorum erant pacifica et prospera, et populi regnorum eorum gaudebant, quod reges iusti et misericordes eos regebant. Iustinus rex et Misericors rex vixerunt felices, et regnaverunt multos annos, et populi regnorum eorum semper gaudebant.
+
+Die quadam, Iustinus rex et Misericors rex convenerunt, ut de rebus regnorum suorum loquerentur. Iustinus rex dixit: "Amice Misericors, audivi, quod filiae tuae sunt pulcherrimae et sapientissimae. Quaeso, dic mihi, quid fecisti, ut filiae tuae sic essent?" Misericors rex respondit: "Amice Iustinus, feci, quod filiae meae semper disciplinam et sapientiam haberent, et quod semper veritatem et iustitiam dilegerent."
+
+Iustinus rex dixit: "Ego quoque feci, quod filii mei semper disciplinam et sapientiam haberent, et quod semper veritatem et iustitiam dilegerent. Sed audivi, quod filiae tuae sunt expertae in artibus et scientiis. Quaeso, dic mihi, quid fecisti, ut filiae tuae sic essent?" Misericors rex respondit: "Amice Iustinus, feci, quod filiae meae semper studerent et exercerentur in artibus et scientiis, et

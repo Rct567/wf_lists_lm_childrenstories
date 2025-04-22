@@ -1,0 +1,37 @@
+<prompt>
+Please write a uncomplicated Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Hayvonot bog'idagi hayvonlarni himoya qilgan bolaning jasorati haqida'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>uz</lang_id>
+
+<title>Hayvonot bog'idagi hayvonlarni himoya qilgan bolaning jasorati haqida</title>
+<body>Uzoq vaqtlar oldin, katta shahar chekkasida kichkina bir o'quvchi yashardi. Uning ismi Jahongir edi. Jahongir o'zining katta yuragi va mehribonligi bilan barchaning sevimlisiga aylangan edi. U hayvonlarni juda yaxshi ko'rar, ularning xavfsizligi va farovonligi uchun hamma narsani qilar edi.
+
+Bir kuni, Jahongir o'zining eng yaqin do'stlari - To'ra va Husan bilan shahar hayvonot bog'iga tashrif buyurdi. Hayvonot bog'i juda katta edi, unda turli xil hayvonlar yashardi. Jahongir va uning do'stlari hayvonot bog'ida sayr qilib, hayvonlarni kuzatib, ularning turli xil o'ziga xos xususiyatlarini bilib oldilar.
+
+Lekin, ertalab, hayvonot bog'ida bir narsa yomon bo'lib ketdi. Bir guruh yovuz odamlar hayvonot bog'iga kirib, hayvonlarni zaharlashni boshladilar. Ular hayvonlarni o'ldirishni va ularning go'shtini sotishni istardilar. Jahongir va uning do'stlari bu haqida eshitib, juda xafaga tushdilar.
+
+Jahongir o'zining jasoratini ko'rsatishga qaror qildi. U o'zining do'stlari bilan birgalikda hayvonlarni himoya qilishga kirishdi. Ular hayvonot bog'iga borib, yovuz odamlarni to'xtatishga harakat qildilar. Lekin, yovuz odamlar juda ko'p edi va ular Jahongir va uning do'stlariga hujum qildilar.
+
+Jahongir va uning do'stlari qo'rqmadilar. Ular o'zlarining hayotlarini xataraga qo'yib, hayvonlarni himoya qilishda davom etdilar. Jahongir yovuz odamlarga qarshi chiqib, ularni hayvonot bog'idan quvib chiqardi. Uning do'stlari ham unga yordam berib, hayvonlarni xavfsiz joyga olib ketdilar.
+
+Shahar aholisi Jahongir va uning do'stlarining jasoratini bilib, ularni qahramon deb e'lon qildilar. Hayvonot bog'i direktori Jahongirga maxsus minnatdorlik maktubini topshirdi. Jahongir va uning do'stlari shahar aholisi tomonidan hurmatga sazovor bo'ldilar.
+
+Jahongirning jasorati haqidagi xabar butun mamlakatga tarqaldi. Boshqa shaharlard!an ham bolalar Jahongirning jasoratini ko'chirish uchun kelishdi. Jahongir ularning barchasiga hayvonlarni himoya qilish va ularning xavfsizligi uchun kurashish haqida ma'ruzalar o'qidi.
+
+Jahongirning jasorati butun mamlakatda yangi harakatni boshladi. Bolalar va kattalar hayvonlarni himoya qilish uchun birlashgan holda ishlay boshladilar. Hayvonot bog'lari va qo'riqxonalar yaratildi, hayvonlarni himoya qilish uchun maxsus qonunlar qabul qilindi.
+
+Jahongir o'zining jasorati bilan butun mamlakatni o'zgartirdi. U hayvonlarni himoya qilish uchun yangi avlodni tarbiyaladi. Jahongirning ismi butun mamlakatda mashhur bo'lib, u hayvonlarning himoyachisi sifatida esga olina boshlandi.
+
+Yillar o'tdi, Jahongir katta bo'lib, o'zining maqsadiga erishdi. U hayvonot bog'i direktori bo'ldi va hayvonlarni himoya qilish uchun butun umri ishladi. Jahongirning jasorati bilan tarbiyalangan bolalar ham o'z navbatida hayvonlarni himoya qilish uchun ishlay boshladilar.
+
+Jahongirning hikoyasi butun mamlakatda esga olina boshlandi. Uning jasorati va mehribonligi butun dunyoga misol bo'lib qoldi. Jahongir hayvonlarni himoya qilish uchun o'zining barcha katta yuragini bergan qahramon edi. Uning ismi abadiy esda qoladi, uning jasorati butun dunyoga ilhom beradi.
+
+Va shunday Jahongirning hikoyasi tugaydi. Uning jasorati va mehribonligi butun mamlakatga misol bo'lib qoldi. Jahongir hayvonlarni himoya qilish uchun o'zining barcha katta yuragini bergan qahramon edi. Uning ismi abadiy esda qoladi, uning jasorati butun dunyoga ilhom beradi.</body>

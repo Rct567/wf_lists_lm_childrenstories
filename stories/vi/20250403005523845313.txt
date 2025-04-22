@@ -1,0 +1,127 @@
+<prompt>
+Please write a dialog-based Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Lời Khuyên Răn Quý Báu Từ Ông Tiên Râu Dài.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>vi</lang_id>
+
+```xml
+<title>Lời Khuyên Răn Quý Báu Từ Ông Tiên Râu Dài.</title>
+<body>
+– “Mẹ ơi, con đói bụng quá!” – Giọng bé Na vang lên trong veo, kéo áo mẹ Liên.
+
+– “Chờ một chút nhé, con yêu. Mẹ đang nấu cơm.” – Mẹ Liên vừa nói vừa đảo chảo.
+
+– “Nhưng con muốn ăn ngay bây giờ! Con muốn ăn kem, ăn bánh, ăn… ăn tất cả mọi thứ!” – Bé Na nhăn mặt, hai tay ôm bụng.
+
+Mẹ Liên cười hiền, đặt tay lên đầu con gái: “Được rồi, được rồi, Na ngoan. Ăn cơm xong mẹ cho con ăn kem. Con thấy thế nào?”
+
+Bé Na vẫn chưa hết giận dỗi: “Con muốn ăn ngay bây giờ cơ! Con không muốn đợi!”
+
+Bỗng nhiên, một tiếng “Khụ… khụ…” khe khẽ vang lên từ ngoài cửa. Hai mẹ con ngạc nhiên nhìn ra. Một ông lão râu dài, mặc áo the khăn xếp, tay chống gậy, đứng đó, mỉm cười hiền hậu.
+
+– “Chào hai mẹ con. Ta có thể vào trong xin chút nước uống được không?” – Ông lão lên tiếng.
+
+– “Dạ, mời ông vào ạ.” – Mẹ Liên nhanh nhẹn mời ông vào nhà.
+
+Ông lão từ tốn bước vào, đôi mắt sáng ngời nhìn quanh căn nhà nhỏ bé nhưng ấm cúng. Ông ngồi xuống chiếc ghế gỗ, nhẹ nhàng đặt cây gậy xuống đất.
+
+– “Cảm ơn lòng tốt của cô. Cháu gái cô trông thật đáng yêu.” – Ông lão nhìn bé Na.
+
+Bé Na, tò mò, rụt rè núp sau lưng mẹ.
+
+– “Chào ông ạ. Con là Na.” – Bé Na lí nhí.
+
+Ông lão cười khẽ: “Chào Na. Ta là ông Tiên râu dài. Con có biết vì sao ông râu dài không?”
+
+Na lắc đầu nguầy nguậy.
+
+– “Vì ông Tiên đã sống rất lâu, nhìn thấy nhiều chuyện, và học được nhiều điều. Ông Tiên thích kể chuyện lắm.” – Ông Tiên nói.
+
+Mẹ Liên bưng ly nước trà nóng đặt lên bàn, nhẹ nhàng hỏi: “Thưa ông, không biết ông đến đây có việc gì ạ?”
+
+Ông Tiên nhấp một ngụm trà, mắt nhắm hờ vẻ khoan khoái: “Ta chỉ là đi ngang qua, tình cờ thấy nhà cô. Ta cảm thấy không khí trong nhà cô rất ấm áp. Mà tiện thể, ta cũng thấy bé Na ở đây đang có chút buồn bực.”
+
+Na tròn xoe mắt nhìn ông Tiên.
+
+– “Con… con không buồn nữa!” – Bé Na vội vàng nói.
+
+Ông Tiên cười lớn: “Được, được, không buồn thì càng tốt. Nhưng ta muốn kể cho con một câu chuyện.”
+
+Na nghe vậy, tò mò quên cả đói bụng. Cô bé ngồi xuống cạnh ông Tiên, chăm chú lắng nghe.
+
+– “Ngày xưa, ở một vương quốc nọ…” – Ông Tiên bắt đầu câu chuyện bằng giọng trầm ấm.
+
+“Có một vị vua rất giàu có. Vương quốc của ông có vàng bạc châu báu, nhà cửa nguy nga tráng lệ, thức ăn ngon trên đời đều có đủ cả. Nhưng vị vua lại rất tham lam. Ông muốn tất cả mọi thứ đều là của mình. Ai làm điều gì trái ý ông, ông đều phạt nặng, thậm chí còn giam cầm.
+
+Một ngày nọ, nhà vua cảm thấy vô cùng mệt mỏi, không còn muốn làm gì cả. Các ngự y đã cố gắng tìm cách chữa trị, nhưng bệnh tình của vua vẫn không thuyên giảm. Nhà vua đâm ra cáu gắt, quát tháo với tất cả mọi người.
+
+Một hôm, có một ông lão nghèo khổ đến gặp nhà vua. Ông nói rằng ông có thể chữa bệnh cho nhà vua. Nhà vua liền triệu ông lão vào. Ông lão nói: 'Thưa bệ hạ, bệnh của người đến từ lòng tham của người. Người hãy cho đi bớt những gì mình có, rồi bệnh tình sẽ tự khỏi.'”
+
+Na chăm chú lắng nghe, miệng há hốc.
+
+– “Nhà vua không tin, tức giận đuổi ông lão đi. Nhưng rồi, ông lại càng cảm thấy tồi tệ hơn. Ông lão thấy vậy, bèn đưa cho nhà vua một chiếc hộp nhỏ. Ông nói: 'Trong hộp này có những hạt giống quý giá. Người hãy gieo những hạt giống này xuống. Khi nào hạt nảy mầm, người sẽ biết phải làm gì.'"
+
+Ông Tiên ngừng lại, nhìn Na.
+
+– “Na ơi, con nghĩ nhà vua đã làm gì?”
+
+– “Con… con không biết ạ.” – Na lí nhí đáp.
+
+– “Nhà vua, trong lúc tuyệt vọng, đã làm theo lời ông lão. Ông bắt đầu chia sẻ những gì mình có, giúp đỡ những người xung quanh. Ông xây trường học cho trẻ em, dựng nhà cho người nghèo, và chia sẻ lương thực cho những vùng bị hạn hán. Kỳ lạ thay, bệnh tình của ông dần dần thuyên giảm. Hạt giống trong hộp, thực ra không phải là hạt giống của loài cây nào, mà là những hạt giống của lòng tốt. Khi nhà vua biết chia sẻ, bệnh của ông tự khắc khỏi.”
+
+Na ngẫm nghĩ một lát, rồi hỏi: “Nhưng ông ơi, chia sẻ có liên quan gì đến việc ăn kem của con ạ?”
+
+Ông Tiên mỉm cười, xoa đầu Na: “Mọi thứ đều có liên quan, Na ạ. Con muốn ăn kem ngay lập tức, vì con muốn thỏa mãn cái ham muốn của mình. Nhưng nếu con đợi một chút, con chia sẻ sự kiên nhẫn của mình, thì niềm vui sẽ kéo dài hơn. Cũng giống như câu chuyện của nhà vua vậy. Khi chúng ta biết chia sẻ, biết cho đi, thì niềm vui của chúng ta sẽ càng lớn hơn, cuộc sống của chúng ta sẽ càng tốt đẹp hơn.”
+
+Mẹ Liên dịu dàng nói: “Đúng vậy con yêu. Thay vì chỉ nghĩ đến bản thân mình, con có thể chia sẻ những gì con có cho người khác. Ví dụ, con có thể chia sẻ cây bút màu của mình cho bạn bè, hoặc giúp mẹ nhặt rau, rửa chén.”
+
+– “Ông Tiên ơi…” – Na ngập ngừng. – “Nhưng con sợ chia sẻ. Con sợ người khác sẽ lấy mất đồ chơi của con.”
+
+Ông Tiên dịu giọng: “Sợ chia sẻ cũng là điều dễ hiểu, Na ạ. Nhưng con hãy thử xem. Khi con chia sẻ, con sẽ nhận được gì?”
+
+Na suy nghĩ một lát, rồi nói nhỏ: “Con sẽ thấy vui hơn… có lẽ.”
+
+– “Đúng rồi! Khi con chia sẻ, con sẽ thấy vui hơn, hạnh phúc hơn. Và mọi người xung quanh sẽ yêu quý con hơn. Hơn nữa, nếu con biết chia sẻ, người khác cũng sẽ muốn chia sẻ lại với con. Đó là quy luật của cuộc sống.” – Ông Tiên giảng giải.
+
+– “Ông Tiên ơi, vậy làm thế nào để con có thể học được cách chia sẻ ạ?” – Na hỏi, ánh mắt long lanh.
+
+– “Rất đơn giản, Na ạ. Hãy bắt đầu từ những điều nhỏ nhặt nhất. Chia sẻ một chiếc kẹo với bạn, giúp đỡ bạn khi bạn gặp khó khăn. Cứ làm như vậy, dần dần, con sẽ thấy việc chia sẻ thật tuyệt vời.” – Ông Tiên đáp.
+
+– “Và quan trọng nhất, hãy luôn nhớ đến những gì con cảm thấy, khi con cho đi, khi con giúp đỡ người khác. Đó là món quà vô giá mà không gì có thể thay thế được.” – Mẹ Liên bổ sung.
+
+Na gật gù, có vẻ như đã hiểu ra vấn đề. Cô bé nhìn mẹ, rồi nhìn ông Tiên, đôi mắt ánh lên vẻ quyết tâm.
+
+– “Mẹ ơi, con muốn chia sẻ kem với ông Tiên và mẹ!” – Na reo lên.
+
+Mẹ Liên ôm chặt lấy con gái, nụ cười rạng rỡ.
+
+Ông Tiên nhìn hai mẹ con với ánh mắt ấm áp.
+
+– “Thật tuyệt vời! Và bây giờ, chúng ta hãy ăn kem thôi nào. Nhưng trước khi ăn, Na hãy nhớ một điều quan trọng nhé…” – Ông Tiên chậm rãi nói.
+
+Na chăm chú lắng nghe.
+
+– “Cuộc sống giống như một khu vườn. Lòng tham của con là những bụi gai, làm tổn thương chính mình và người khác. Lòng tốt, sự chia sẻ của con, là những bông hoa đẹp, giúp khu vườn thêm tươi tốt, rực rỡ.” – Ông Tiên giải thích.
+
+– “Vâng, con hiểu rồi ạ.” – Na đáp, vẻ mặt vô cùng vui vẻ.
+
+Thế rồi, cả ba người cùng nhau thưởng thức món kem. Tiếng cười nói rộn rã vang khắp căn nhà nhỏ. Ông Tiên, sau khi ăn kem xong, từ biệt hai mẹ con, tiếp tục lên đường. Trước khi đi, ông còn ngoảnh lại, nở một nụ cười hiền từ, rồi biến mất trong ánh nắng chiều.
+
+Mẹ Liên và Na, sau khi tiễn ông Tiên, cùng nhau dọn dẹp nhà cửa. Trong lúc làm việc, Na luôn miệng kể lại câu chuyện của ông Tiên. Cô bé quyết tâm sẽ là một người biết chia sẻ, một người luôn giúp đỡ người khác.
+
+Tối đến, trước khi đi ngủ, Na lại ôm chặt lấy mẹ, thủ thỉ: “Mẹ ơi, con yêu ông Tiên râu dài lắm. Ông ấy đã dạy cho con nhiều điều quý báu.”
+
+Mẹ Liên mỉm cười, xoa đầu con gái: “Ừ, ông Tiên râu dài thật là người tốt. Và mẹ tin rằng Na của mẹ cũng là một cô bé rất ngoan, rất hiểu chuyện.”
+
+Bé Na nhắm mắt lại, trong lòng ngập tràn niềm vui và hạnh phúc. Cô bé thầm hứa với bản thân, sẽ luôn nhớ lời khuyên răn quý báu từ ông Tiên râu dài, và trở thành một người tốt, luôn lan tỏa yêu thương đến mọi người.
+
+Từ đó về sau, bé Na đã trở thành một cô bé rất biết chia sẻ. Cô bé luôn sẵn sàng giúp đỡ bạn bè, hàng xóm, và người thân trong gia đình. Mỗi khi có dịp, bé Na lại kể lại câu chuyện về ông Tiên râu dài, để những người xung quanh cũng học được cách cho đi và sẻ chia. Và khu vườn trong lòng cô bé ngày càng thêm tươi tốt, rực rỡ, đầy ắp những bông hoa của tình yêu thương và lòng tốt.
+</body>
+```

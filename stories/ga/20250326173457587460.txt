@@ -1,0 +1,51 @@
+<prompt>
+Please write a creative and original Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Fionn an Fhuilíochta, agus na Fianna fáinne'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>ga</lang_id>
+
+```xml
+<title>Fionn an Fhuilíochta, agus na Fianna fáinne</title>
+<body>
+Bhí Fionn mac Cumhaill ina bhuachaill óg, láidir le gruaig dhonn agus súile gorma cosúil leis an spéir ar maidin. Ní raibh mórán taithí aige ar shaol na bhfear ach bhí anam na gcraobhach ina chroí, agus anois bhí sé ag tarraingt air féin, chun dul isteach i measc na bhFianna. Bhí na Fianna ar cheann de na grúpaí is mó le rá in Éirinn, saighdiúirí cumhachtacha, sealgairí cróga, agus filí buaiteacha.
+
+Agus é ag déanamh bealaigh isteach i gCill Dara, bhí sé ag iarraidh freastal ar dhreasóir ar a dtugtar Conn Cétchathach. Shíl sé gur chóir dó, le bheith chomh maith le fear eile, go mbeadh sé ag treabhadh go crua. Anonn is anall a dhéanadh sé ar bhóithrín ag iarraidh go gcruthóidh sé níos mó spraoi i ndiaidh leat. Níor mheall na Fianna é ar an gcéad amharc. Tháinig ansin an ócáid a chur i láthair, agus thug Conn Cétchathach cuireadh do Fhionn dul isteach sa bhFianna. D'aontaigh Fionn, agus shínigh sé é féin isteach sa gcomhluadar mór.
+
+Bhí orlach a bheith ag obair chun go gcomhlíonadh sé na gníomhartha do na Fianna. Agus chuir na saighdiúirí in aghaidh cleachtaí éagsúla, agus tástálacha ina dhiaidh sin. An chéad tástáil bhí sé chun rith go tapa trí choillteach fíochmhar, agus iad ag cuardach sleasa agus deora a sheachaint. Chuidigh na mílte pléiméaraigh le Fionn chun go mbeadh sé níos fearr ag an rás seo. Thóg sé a chúram, ag dul ó fhreasracht do thaisí na gcrann.
+
+An chéad bhuaic-chloch eile, bhí sé chun cath a throid i gcoinne nathrach nimhiúla. Bhí an nathair ag cuardach fola, ag fásach agus ag teacht i dtreo Fhionn le súile feargacha. Ar ndóigh, bhí ar Fhionn é féin a chosaint ón nathair. Thug sé ionsaí amháin ar an nathair le a chuid lámh. Phreab an nathair anuas ag iarraidh go gcosaint. Shroich Fionn an bealach chun buille níos measa a bhaint amach. Agus leis an deisiú sin, scrios sé an nathair. Mar thoradh air sin, fuair na Fianna le fios go raibh crógacht Fhionn go maith.
+
+An tríú tástáil, bhí sé chun iasacht a fháil ón Fhuilíocht. Bhí an Fhuilíocht ina leaid draíochta, áit a raibh aithne uirthi, gur dúnmharaíodh í go minic ar fhórsaí eile. Chuaigh Fionn ann, áfach, le croí misniúil, réidh le freastal ar na tástálacha. D'iarr an Fhuilíocht Fionn chun rún beag a fhoghlaim. Ní fhéadfadh Fionn teipeadh, nó cailleadh a theacht isteach sa bhFianna.
+
+Chuir an Fhuilíocht ceisteanna ar Fhionn. "Cé mhéad féar is féidir le dornán amháin a láimhseáil?" D'fhreagair Fionn, "Mar a fhéachann do shúile, ní haon rud le haghaidh duine." Tháinig iontas ar an Fhuilíocht faoi freagra Fhionn. Agus chuir sí ceist eile. "Cén cineál treabha is mó is maith leis na beanna?" D'fhreagair Fionn arís, "Leis an ghrian sa spéir, ach an méid sin nach bhfuil in ann seasamh sa saol". Agus chuaigh an ceathrú cheist mar seo ar aghaidh, le smaointeoireacht arís ó Fhionn, ó ghruama go dathúil.
+
+Bhí an Fhuilíocht ag déanamh meas air faoin am seo. "Is tú duine cliste," dúirt sí. "Chonaic mé fíor-mhisean anseo. Go dtagann tú go tapa." Ansin dúirt sí leis, "Leis na focail bheaga seo, bí ar an gcuid is mó den bheag-éagsúla, i ndiaidh gach comórtais". Ag breith ar rún beag draíochta, d'iompaigh Fionn ar ais chun dul isteach sa bhFianna.
+
+Nuair a d'fhill sé ar ais chuig na Fianna, chuir Conn Cétchathach ceist amháin ar Fhionn. "Fionn, cá bhfuil tú tar éis dul? Táthar ag fanacht go fada ort." Dúirt Fionn, "Chuaigh mé chun na tástálacha go léir, a Conn." Agus chroith an lucht féachana a gceann, an chroí ag bualadh i dtreo an fhiachair.
+
+D'iarr Conn Cétchathach go dtabharfadh Fionn a chead isteach i measc na bhFianna. Sheas Fionn, agus sheas na Fianna aníos. Thóg Fionn a bhealach amach i gcroí na bhfear. D'fhás a leabhar amháin ar fuaid na tíre seo.
+
+Agus chuir Conn Cétchathach dúshlán deiridh eile os comhair Fhionn. "Fionn, tá deis amháin eile agat. Caithfidh tú teacht i gcogadh chun dul isteach go buan sa bhFianna. Seo comhpháirteach, nó níl," a dúirt Conn.
+
+Sheas Fionn ar aghaidh, réidh leis an dainséar seo. Chuaigh sé isteach i bhfeall-bhealach, chun an áit inar choinníodh rúin, agus dhéanfaí feall mór le cinniúint Éirinn. Bhí sé le feiceáil ag na ceannairí, le ról anois. Chuathas ansin isteach i gcuais dorcha.
+
+Bhí an cuais dorcha líonta le naimhde. Le scéim chinnte, ríomhaíodh go ndéanfaí é an lá seo, ag féachaint ar fháinne. D’fhás na hairm níos feargacha de réir mar a chuaigh na tástálacha ar aghaidh. Bhuail Fionn a chuid cathúirseach, cosanta ag na Fianna taobh leis. Mar bharr ar an scéal, bhuail sé naimhde leis a láimhseoireacht ghéar, lena shúile le bua. Tháinig ansin deireadh leis an troid fhuilteach. Buaigh na Fianna.
+
+Tar éis dóibh an cath a bhuachan, agus iad sábháilte ó gach coscairt, bhí Fionn réidh le dul isteach sa bhFianna. Ar an ócáid seo, sheas Conn Cétchathach os comhair Fhionn. Le léiriú aige ar a fhéinfheidhmeanna uile, le croí an laoch i gcorp fear.
+
+"Fionn," a dúirt Conn le guth trom, "tá tú cruthaitheach i do ghníomhais. Bhuaigh tú an lámh. Tugtar isteach thú anois mar bhall de na Fianna." Chuir Conn fáinne órga ar mhéar Fhionn, an fáinne ag léiriú na dtiúchan láidre isteach sna Fianna.
+
+D'fhéach Fionn ar an bhfáinne, leis an bhfáinne ar a mhéar. Bhí sé chomh láidir, chomh uasal. Agus is comhartha é sin, go raibh sé ina bhall de na Fianna. D'aontaigh na Fianna go léir, le glór bríomhar. Agus arís, bhí fear óg le buanna.
+
+Ó shin i leith, d'fhan Fionn sa bhFianna le h-ealaín agus le feidhmeanna. Throid sé, séideadh sé le daoine. Shealbhaigh sé agus rún a bhí aige leis an Fhuilíocht, agus throid sé an dáimh de réir a chroí féin.
+
+Bhí na Fianna fáinne a leanas Fionn ar fud na hÉireann, cosanta agus sábháilte ó naimhde. Tháinig Fionn agus na Fianna chun bheith ina finscéal, ina gcónaí i gcroidheacha na ndaoine go deo. Agus is féidir leis an scéal seo beo go deo freisin.
+</body>
+```

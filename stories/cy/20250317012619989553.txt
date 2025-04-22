@@ -1,0 +1,90 @@
+<prompt>
+Please write a light-hearted Welsh children's story that is at least 1000 words long.
+It must be completely written in proper Welsh (CY).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Y Mynwent Mawr a'r Ysbryd Arall'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>cy</lang_id>
+
+```html
+<title>Y Mynwent Mawr a'r Ysbryd Arall</title>
+<body>
+Roedd hi'n noson dywyll a stormyddus yn Nhregaron. Roedd y gwynt yn chwythu fel bwystfil, yn canu trwy'r coed, ac roedd y glaw yn taro'r ffenestri fel drymiau. Yn rhywle yn y dyfnder, lle'r oedd hen fynwent, gorffwysai’r tywyllwch trymach fyth. Dyma Fynwent Fawr Tregaron, lle’r oedd cymaint o gymeriadau hynod wedi eu claddu dros y canrifoedd.
+
+Yno, ar fynwent y mynwent, eisteddai Dai Baner, hen ysbryd cas a oedd yn hoffi dychryn pobl. Roedd ei flew yn hir ac yn gwyllt, ei lygaid yn llewygu fel glo gwyn, ac roedd ganddo gwichlyd hyll pan ddechreuai siarad. Ac roedd yna un ffaith hynod am Dai Baner – roedd e eisiau cwmni! Roedd yn teimlo'n unig, hyd yn oed pan oedd yn cael boddi pawb yn y rhith o fflachio yn gudd.
+
+"Cnoi-cnwii!" gwysodd Dai Baner yn hyll. "Be wnaiff fi, ydw i'n credu bod fy modola yn rhwbio heno?"
+
+"Ymli ychydig, Dai!" llefodd llais meddal o'i gwmpas. "Mae rhywun yn mynd i deimlo'n ddic i raddau."
+
+Daeth llygedyn arall i'r golwg ar un o'r beddau, a phreswylai rhywun llai arferol nag Dai Baner. Roedd hi’n Fanny Fanws, hen wraig a oedd wedi caru torthau gwenith, ydy, gwenith nid bara! Ei gwallt yn binc a'i ffrog o liw lliwgar fel cymylau yn y machlud. Roedd hi'n ysbryd melys a hwyliog.
+
+"Dychrynu rhai sy'n mynd i alw yma? Dim lwc ar hyn, Dai!" atebodd Fanny, a tharodd gwir o llaw y ddyn.
+
+"O, dyma chwerwder yn amlwg gennych chi," cwynodd Dai. "Dw i jyst yn gweld cymaint â dw i eisiau rhywfaint o antur!"
+
+"Wel, efallai yna dy chwith byth i'r drwg. Ti angen rhywbeth newydd. Efallai yna arall," siaradodd Fanny.
+
+"Efallai," atebodd Dai, gan ymdrech i peidio dilyn y gair arall. Ond roedd hi’n rhaid. Ac efallai bod hi yn iawn. "Efallai rhywun newydd fyddai'n clywed am…"
+
+"Dwi'n gwybod y gwaharddiadau gweinyddol ar boblogaeth mynwentydd. Mae rhywfaint yna'n debyg o wneud i rywun ymddangos yn annymunol. Ydw," esboniodd Fanny Fanws yn hapus, a suddo i baned dychmygol o de.
+
+Ychydig wythnosau yn ddiweddarach, gyda'r haul yn tanio ar Fynydd y Dduallt, roedd dau blentyn, Mari a Steffan, yn penderfynu chwarae ar Fynwent Fawr Tregaron. Doedden nhw ddim yn credu mewn ysbrydion, wrth gwrs! Roedd hi'n stori hen ffasiwn, dweud nhw. Roedden nhw eisiau ymchwilio, yn credu y byddai rhain yn addas.
+
+"Edrychwch!" meddai Mari, a dynnu llyfr hen oddi wrth y cyrffed. "Dyma ddisgrifiad o Dai Baner. Ysbryd cas sy’n dychryn pobl!"
+
+"Gweld! Rhag-golygfa yn gyfan!" chwerthin Steffan.
+
+Dechreuasont chwilio rhwng y beddau, yn chwilio am y llun hyll. Roedd hi’n ddifyr, i ddweud y gwir, amser, ac yn hytrach na swn y gwynt oedd y dydd ar hwnnw. O’r cyfan, roedd rhywbeth o ddim, o gariad, a'r ddau plant garedig. Yng nghanol y canser fawr o ystyllon y crefftydd.
+
+"Cnoi-cnwii…" clywodd y ddau, yn ymsymud o'r coed.
+
+Eisteddodd Dai Baner ar garreg, golwg ddrwg ar ei wyneb. "Felly, tybed pam?" gofynnodd e, yn annifyr. "Ysbryd yn siarad yma am y ffaith… mae 'na beth o gyfeillgarwch!"
+
+Edrychodd Mari a Steffan ar ei gilydd, ychydig yn ansicr.
+
+"Wel," dechreuodd Steffan, "nid ydych yn edrych yn rhy ofnadwy…"
+
+"Mae e'n ddrwg ar yr wyneb!" ebychodd Mari. "Roeddem ni'n meddwl eich bod chi'n anferthol!"
+
+Yn araf, dechreuodd Dai Baner chwerthin. Roedd wedi disgwyl i'r plant redeg i ffwrdd mewn ofn. "Brawd-bwynt, yw e, ia?" meddai.
+
+"Ydy," cytunodd Mari, ychydig yn gwefrus. "Felly, yn ol ein taid. Rydych chi ysbryd."
+
+"Unig," cywirodd Fanny Fanws, oedd wedi dod yn ddistaw. "Ti’n amheuaeth ohono. Felly, beth am…"
+
+"Beth?" gofynnodd Dai.
+
+"Ti eisiau yna, chwarae, gwneud y hwyl?" gofynnodd Fanny.
+
+Edrychodd Dai ar Mari a Steffan. Roedd llygaid yr wyneb yn llachar a gofynnodd ar unwaith, "Hwnnw o'r newydd!"
+
+Ac felly, chwaraeodd Mari a Steffan gyda Dai Baner a Fanny Fanws yn Fynwent Fawr Tregaron am y gweddill o'r prynhawn. Chwaraeodd y gwyr rhai o gemau'r fynwent; cuddio a cheisio o amgylch y beddau, defnyddio'r cerrig fel marchogaeth, a dyfalu ymadroddion yr henoed.
+
+"Rhowch nhw i chi yma ar-gyfer y torth!" cyhoeddodd Dai, gyda chwerth arall. "Rydw i’n rhy dda wrth ei gwneud! Byd-rannol gynnig un arall, y plant?!"
+
+"Eich tro!" sgrechodd Steffan.
+
+Yna, pan oedd hi’n dechrau tywyllu, aeth y plant adref, eu wynebau’n llawn chwerthin ac egni. Roedd hi wedi dod yn arferol gyda ysbrydion, o’r ehediad newydd o fodoliaeth ar gyfer yr hen un. Gwahoddasant hwy am y te gyda'r pethau hyfryd.
+
+"Fe wnaethon nhw," ysgydwodd Dai Baner ar ôl yr ysbeidiwr. "Gael y hwyl fwyaf yn eu bywydau, mae'n debyg. Wnes i erioed ddim bod fel 'na, chwaith."
+
+"Felly," meddai Fanny Fanws, yn rhoi cwpanaid o de i Dai. "Pam ydych chi'n gwneud pethau ddim am ddim yn rhan-deledu heddiw?"
+
+"Well…" dechreuodd Dai, yn rhithwir anghyfartal. "Efallai ei fod yn gymysg â llawer iawn o…"
+
+"Ffrindiau?" gofynnodd Fanny, yn gwenwyno'n hynod.
+
+"Ydy," cytunodd Dai Baner, a rhoi gwên gyntaf ar ei wyneb ers blynyddoedd.
+
+Amser maith ar ôl hynny, roedd Mari a Steffan yn parhau i ymweld â Fynwent Fawr Tregaron yn aml. Byddai bob amser yn dod â rhoddion, megis tatws melys neu gynnig eistedd yn ysgafn, ar gyfer y ddau ysbryd sydd wedi dod yn gyfeillion iddynt. A deallodd y ddeuawd, ei ddihareb newydd ar ei gof, y gwrthrych oedd i'w gadw.
+
+Ar yr hen fynwent yn y tywyllwch, roedd y mynydd bellach yn debyg i hen ysbrydion, o'r holl hen bersonoliaeth. Felly, doedden nhw ddim yn dychryn mwyach. Roeddent yn chwerthin, siarad, ac yn chwarae; i gyd oherwydd ysbryd arall, a ddeallodd yn hyfryd y gwerth o gyfeillgarwch, a chredwyd ychydig o ddychryn.
+</body>
+</html>
+```

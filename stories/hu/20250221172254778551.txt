@@ -1,0 +1,33 @@
+<prompt>
+Please write a creative and original Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Az Esti Csillagokdaloló éneke'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>Az Esti Csillagokdaloló éneke</title>
+<body>
+A patak partján, ahol a susogó víz csillogott a naplementében, állt egy kis, vén diófa.  Nem volt a legmagasabb a környéken, de ágai szelíden simulva ölelték körül a föld minden apró teremtményét.  A diófa alatt, egy puha mohában burkolt gyökér mellett, lakott egy kis, szürke egér, akinek a neve Csirip volt.
+
+Csirip nem volt egy átlagos egér.  Szeretett mesélni, méghozzá csodálatos, csillagos történeteket.  A napnyugta után, amikor az ég rózsaszínbe és narancsba öltözött, Csirip  kis hangján elkezdett mesélni a csillagokról. Ahogy a csillagok egyre fényesebbek lettek az égen, úgy szövődtek Csirip meséi is a varázslatos éjszakába.
+
+Egy este, amikor a csillagok már úgy ragyogtak, mint egymillió apró gyémánt, Csirip elmesélte a legcsodálatosabb történetét.  "Egyszer régen, a csillagok még nem voltak a helyükön, hanem apró, ragyogó porrészecskék voltak. Egy hatalmas, fényes szövőasszony, akit Csillagasszonynak hívtak, elkezdte szőni a csillagokat a sötét égbolton. De nem csak a szövőszéke volt különleges, hanem a fonalai is. Minden egyes fonal egy álomszál volt, tele örömmel, bánattal, szeretettel és félelemmel."
+
+Csirip elmesélte, hogy a szeretet fonalaiból született a fényesebb csillagok, a bánat szálából pedig a halványabb, de azért éppolyan fontos kis fények.  A nap álomszálainak árnyékában születtek a sötétebb területek az égen.  "És amikor a Csillagasszony befejezte munkáját, a csillagok egyszerre ragyogtak fel az éjszakai égbolton, és mindenki, aki látta őket, egy csodás történetet hallhatott a fonalaikban. A csillagok ugyanis mind-mind egy-egy történet, egy-egy öröm vagy bánat, egy-egy álom vagy valóság."
+
+A kis történet végén egy gyönyörű, fényes csillag, amely különösen ragyogott a többi között, megkérdezte: "Csirip, miért mesélsz nekünk?"
+
+"Mert a csillagoknak szüksége van a történetekre, hogy emlékezzenek rájuk. És mert a mi történeteink, az én történeteim, a te történeteid, mind elmesélődnek az éjszakában, és az égbolt szövőszékéhez kapcsolódnak. Szóval a csillagoknak szüksége van rátok, a történeteitekre, hogy ne legyenek üres éjszakák," válaszolta Csirip, és egyre több szürke csillogást vett észre a szemeiben.
+
+A csillagok egyhangú morajlással válaszoltak, mintha egy hatalmas énekkar szólalna meg.  A kis egér meghatódott, és még csendesebben folytatta a mesélést. Beszélt a holdról, amely egy nagy, békés tükör volt, a Holdanya éjszakai lámpása, és a távoli bolygókról, amik különös történetek őrzői.
+
+A diófa levelei susogtak, mintha hallgatnának, a patak vízszálai pedig csillogtak a csillagok fényében.  A kis csikorgó hangok, a madarak éneklése, a szél szelíd zúgása, és a csillagok daloló éneke  egybefonódott egy gyönyörű éjszakai zenévé. Csirip pedig, a kis szürke egér, tovább mesélt és mesélt, a csillagok pedig ragyogva hallgatták őt,  minden egyes kis szavával  újabb és újabb történeteket szőve a csillagok szövetébe.
+
+Aztán, amikor a hajnal első fényei kezdettek beszűrődni a fákon, Csirip elhallgatott. A csillagok pedig, egyenként elhalványultak, de a történeteik, örökké megmaradtak az éjszakai égbolton. Csirip pedig, a kis szürke egér, a legboldogabb volt a világon, mert tudta, hogy a csillagok daloló éneke  mindenki történetét megőrizte.
+</body>

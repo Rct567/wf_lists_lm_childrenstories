@@ -1,0 +1,51 @@
+<prompt>
+Please write a simple and easy-to-follow Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Smilšu vīri un viņu mīlestība'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lv</lang_id>
+
+<title>Smilšu vīri un viņu mīlestība</title>
+<body>
+Dzirksteļojošā saule apspīdēja plašo smilšu krastu.  Smiltis, it kā mazi dzeltenbrūni kristāli,  spīdēja saulē.  Tur, starp smiltīm,  dzīvoja divi mazi smilšu vīri.  Viens –  saulainais un gaišmatains  –  bija Rūdolfs.  Otrs – tumšmatains un vientuļš  –  bija Roberts.
+
+Rūdolfs bija vissmīlainākais smilšu vīrs visā pasaulē.  Viņš iemieloja sev smilšu pilītes, un tās, apspīdētas saulē,  kā mazi dārgakmeņi, rotaļājās uz viņa pleciem.  Katru rītu viņš celtos un zīmējām uz smiltīm dažādas dīvainas formas – briedi ar lieliem ragiem, lielu zirgu ar spīdošām acīm, un reiz pat lielu  pūķi ar degošu degunu.  Robert, pats klusākā smilšu vīrs, vienkārši novēroja Rūdolfa radošumu,  un viņa acīs iemirdzējās patīkamas emocijas.
+
+Bet Rūdolfs un Roberts bija divi smilšu vīri ar dziļi ievērojamu atšķirību: Roberts meklēja patiesību smiltīs, bet Rūdolfs spēlējas ar gaišu radošumu.  Roberts novēroja dabu un atklāja, kā pūkām vējš piešķir dažādus veidus, vai kā vārnas aizlido dažādos virzienos un veidos.  Roberts saprata lielo gudrību no katra dabas elementa. Bet Rūdolfs apmierinājās ar smilšu gleznošanas burvību.
+
+Vienu skaistu dienu, saule sirsnīgi apsildīja smiltis, Rūdolfs, radoši izveidojis lielu pūķi, ieteica Robertam ienākt šajā burvīgajā pasaulē.  "Roberts!" sauca Rūdolfs. "Apbrīnoj pieliku kādu tik skaistu pūķi."
+
+Roberts, klusībā ar aizrautību un godbijību novērojot smilšu gleznu, mierīgi nolaida savu klusināto roku un izdomāja vārdus. “Patiesi neticami. Vai var būt dabas skaistums ietverts šajā glābībā, vai tas tikai apzīmē burvīgu pasauli?”
+
+
+"Kas tevi tik dziļi aizrauj, Roberts?" Rūdolfs bija dzirdam neparasti ziņkārīgs. "Tas ir tik burvīgs un skaists!"
+
+Roberts pasmaidīja un pateica: "Es vienkārši vēlos atrast nozīmi šajā lielajā, brīnišķīgajā pasaulei, kas apkārt mums.”
+
+"Nozīme?", brīnījās Rūdolfs. "Vai ar tik daudz pūķu ir kāda īsta nozīme?"
+
+
+Roberts pasmaidīja: “Jā. Piemēram, dabā, kas apkārt mums, var redzēt mīlestību, skaistumu, izskatu un lielu domu bagātību, lai kāds pūķis uzreiz neuztver nozīmi. Bet tad, pēkšņi,  no kāda pūķa, tu iemācies domāt un saprast to lielās pasauli."
+
+
+Rūdolfs palūdza Roberts pateikt vairāk, kas ir nozīme. Robert stāstīja par laiku, par gaismu un par smiltīm un par visu apkārtējo pasauli. "Katrā pūķī, katrā briedī, katrā liellopā - katrā mazajā lietas ir kaut kas dziļāks. Un ar visām  mazām, vienkāršām lietām -  kuru saprotam  - es eju cauri brīnumiem. Un tādā veidā var saprast pasaules gudrību.”
+
+
+"Tiešām?"  jautāja Rūdolfs, skatoties Roberts ar jaunu cieņu. “Tad arī man ir kaut kas, kas vēlas redzēt! Ja es novērtēju pasauli un pūķus caur dziļu līmeni, kas piepildīs mani ar prieku un iespaidotu ar dziļāku priekšstatu par pasaules skaistumu, es varēšu palīdzēt šim  īstam skaistumam, kurš apbrīnojami uztver manu dvēseli."
+
+
+Kopā Rūdolfs un Roberts  sāka  pētīt pasauli.  Viņi izgāja  arī ārpus smilšu krasta – redzēja debesīs lidus putnus, uzzināja no meža zvēriem savas gudrības.
+
+
+Rūdolfs gleznoja skaistā smilšu glezna, un Roberts atklāja visu smilšu vīru pasaules burvību.  Viņi saprata, ka katrai dvēselei ir nepieciešama gan rotaļa un skaistums, gan arī dziļa vēlēšanās saprast un izprast dabu.  Bet abi vīri uzticēja visiem ievērojamam smilšu pasaulei.  Viņi saprata, ka skaistumā ir gudrība, un ka katrā no mums ir paslēpts dziļš smilšu pasaules burvība. Viņi bijas labākie draugi – ar katru atklātību, un vienu mīlestību, un iemīļotu dabu, bet pats vissvarīgākais – ar patiesu sirds draudzību.
+
+ Un tā, zem spožās saulrieta krāsu debesīm, smilšu vīri, Rūdolfs un Roberts, uz smilšu pili, nodarbojas ar savu bezgalīgo ceļojumu, ko neapstrīdami iesvītro skaistums un dziļums.
+
+
+</body>

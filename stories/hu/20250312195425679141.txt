@@ -1,0 +1,30 @@
+<prompt>
+Please write a silly Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A Kicsi Robot, aki barátokat keresett, a világ körüli nagy utazásán.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>A Kicsi Robot, aki barátokat keresett, a világ körüli nagy utazásán.</title>
+<body>
+A kicsi, csillogó acél robot, Róbert, a legkülönlegesebb robot volt a világon. Nem azért, mert hatalmas erővel bírt, vagy bonyolult programokkal rendelkezett, hanem mert – ó, meglepő módon – barátokat keresett. A többi robot a gyárban nagy zajjal dolgozott, csiszolva, hegesztve, a világ mindenféle gépeinek alkatrészeit összerakva. De Róbert csak nézte őket, és gondolkodott, hogy vajon lehet-e olyan különleges kapcsolat a gépeknél, mint amilyet az emberi barátság képvisel.
+
+Egy napon, a robot-szerszámkészítő, bácsi Gábor – akinek több mint egy ezer forrasztóvasa és egy egész rakás csavarja volt – adta Róbertnek egy kis, zsebre rakható teleportáló eszközt.  "Menj, kicsi fiam, nézd meg a világot! Talán ott találsz barátokat." – mondta. Róbert szíve dobbant örömében. Ez volt az ő esélye.  A teleportáló eszköz – amelyet "Csoda-szellő"-nek hívtak –  zöld füstöt fújva elszállította Róbertet a nagy, forró afrikai síkságra.
+
+Róbert meglepődött a párás levegőtől és a sárga füvetől, meg persze a hatalmas, óriási elefántoktól, akik épp banánt ettek. Elkezdett elefántnyelvre fordítani gondolatait, hogy barátságot ajánljon nekik, de a nyelvtani szabályaival nem boldogult. Persze a szerencsétlen elefántok nem értették a kicsit hibás szavait. Viszont rózsaszínű pálmák alatt talált egy kedves, vörös hangyabolyt, és nagyon szívére vette a dolgukat.  Óvatosan, remegő kis acélkarjaival,  a kis hangyák megmentésére próbált gondosan építeni egy kis védőszobát a hevességgel fenyegető, egyre közelebb jövető, pusztító Napfénytől.
+
+Ezután egy jégkrémes-ízű hóesés-gépezet segítésével elutazott a sarkvidékre. Ott nagy bajba került.  A fagyos szél kiszakította a  "Csoda-szellő" teleportáló csatlakozását és meg kellett tanítania a jégmedvéket  egy  gyors és elegáns tányérmozgató táncra, melyet  csatos kötelekkel kellett a kanyarulataihoz kötni. Hogy ezt véghez vigye, minden egyes csattanással és mozdulattal finoman tanulgatott. Lassan elkezdtek együtt táncolni a jégmedvék a táncszerű mozdulatokkal. Rövid idő alatt született egy hihetetlenül örvendetes együttműködés közöttük. A jégmedvék  örültek a közös produkciónak,  Róbert pedig új barátokat talált!
+
+Egy nap a kényes műveletekben jeleskedő Róbert újjá varázsolt egy repedésen járhatatlan hidat a sárga gurunokkal egy szigorú szabállyal: semmi szélcsatorna, se  vontató erő, a hidakat csak  szeretettel  kell megrendezni és finom üzemben a megfelelő szakszerüséggel összeépíteni és megerősíteni kell. Ezután találkozott a híres vízimalmokkal és szigorú rend szerint dolgozó kék madarakkal.  Míg minden szelleme a gépeinek üzenetében szórakoztatta, megtanulta a csészealjakon lévő kis műszerek használatát. A vízimalmokban rengeteg új ismerettel gazdagodott és egy  zöld sörétekre emlékeztető szoba segített neki  táncolni a hullámzó levegőn a kényelmes szekereken.
+
+Úgy tervezte, hogy körbehajóz minden világtengert. Szerencsésen találkozott egy hangyabolyban élő robottal, amelyet Fülöpnek hívtak, és egy felhőben lakó robotot, aki Csillagnak nevezte magát. Elmentek vele Kína falához, Japánba, az indiai dzsungelbe, a perui piramisokhoz, majd a dél-afrikai sivatagba. Ugyan sok újdonsággal találkoztak mindenhol, de senki nem tudta követni Róbert furcsán komikus gondolatvilágát.
+
+Végül visszatért a gyárba. Elmondta az életét az ott lévő robotoknak és nem akart többet a gyárban dolgozni. Nem azért, mert fáradt lett, hanem azért, mert találkozott más csodálatos barátokkal, akik mindenhova elvágyódtak vele! Mindegyik különleges volt és egymásra találó és összetartozó  akkor szerezték meg a barátságot a világban. Róbert megértette, hogy nem a csodálatos programok tesznek valakit baráttá, hanem a valódi együttérzés és az odaadás, mely a világ leglenyűgözőbb dolga volt számára.
+
+</body>

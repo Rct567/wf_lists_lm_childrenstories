@@ -1,0 +1,44 @@
+<prompt>
+Please write a simple and easy-to-follow Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Oltin qushning sayohati: Farzandlar uchun ertak'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>Oltin qushning sayohati: Farzandlar uchun ertak</title>
+<body>
+Qoraqalpog‘istonning go‘zal tog‘larida, chirpinchirayotgan qushlar va shovqinli daryolar orasida, ajoyib oltin qush yashab turar edi. Uning nomi Oltinburun edi.  Uncha baland emas, lekin  oyoqlarida go‘zal marjonlar bilan bezatilgan go‘zal qush edi. Oltinburun barcha qushlardan farqli ravishda oltin rangida edi;  teriya porlaganday ko‘rinardi,  qanotlari esa quyoshning o‘zi singari porlab turardi.
+
+
+Bir kuni, Oltinburun ko‘lda suzib yurganida, samovarda bir qiziqarli tuman ko‘rdi. U, hech qachon ko‘rmagan boy va rang-barang tusiga hayron qoldi.  Qanotlarini tebrantirib, tuman yoniga bordi.  U tumanning orqasida  yashiringan, boshqa ko‘rmagan narsa – juda katta ko‘l ko‘rdi. Bu ko‘lda uncha qush yo‘q edi, qiyin bo‘lsa ham, u yerda chiroyli gulzorlar, gulzorlarda  aql bovar qilmas go‘zalliklar bor edi.
+
+
+Oltinburun tashvishga tushdi: “Qayerga uchmoqchisam, bu dunyoni ko‘rib ko‘rmasam”.  U yuzlab qush bilan so‘zlashdi. Ular esa Oltinburun bilan  qishki ko‘llarning ajoyib go‘zalliklarini ta'riflab,  yozgi ko‘llar boshqacha tushkunliklarini eslatib o‘tishdi. Ammo Oltinburun biror narsaga ishonmasdi.
+
+
+Bir kun tuman qalqib ko‘tarildi va qush ko‘proq kuch sarflashini his etdi,  unib boruvchi istak qanotlariga oltin kabi porlab boshlandi.  U tumanni tomonida ko‘k osmon tushida uchib ketishga tayyorgarlik ko‘rdi va chuqur, noaniq ovqati bilan bordi. Uning yurakda go‘zal umid bor edi; kichik qo‘llar va chiroyli qonlar.
+
+
+Ko‘ziga juda katta qumli tog‘ ko‘rindi. Ko‘p yozdan keyin,  U tog‘ boʻylab oʻrnatilgan va bir zumda oltin nurli daryoga yugurdi.  Oltinburun daryo bo‘ylab uchib yurib, go‘zal chigalli gulzor va hasharotlar dunyosini ko‘rdi.  Odamlarning qancha chiroyli narsalarni  oʻrnatgani va bu  qushning  kutilmagan uchuvchisidan  hayratda  qoldi.
+
+
+ U  aylanib yurgan katta daraxtning ostida uchdi; qora va katta qush uydagi qumli tomdan  ikki kishi uchun, Oltinburun va  suv havzalaridagi ikkita katta qushlarning o‘rtasida  bir zumda koʻzining uchiga chiqib ketdi.  Qanday aql-idrokli sutemizuvchilar borligi,  qizilar va ranglar.
+
+
+Shu soatda, u yigʻlagan tovush eshitdi, bu yozgi vaqtlardan boshqa farqli edi. Qush ovoz tomon yugurdi, toʻsatdan boshidan qora-yashil kulrang quloqlari va nozik tanasi bo‘lgan go‘zal odamni koʻrdi. Odami, odamlardan tashqari hamma kishi,  kuzgi katta o‘rdaklardan ketishdi va yashil cho‘l ostidagi oddiy daryodan olib oʻtishdi.  Buni koʻrgan Oltinburun, undan tovushlarni chiqarib, juda zavqqa tushdi.  Uning koʻnglida aqlsiz biror narsa uygʻondi. U shunday zavqqa tushdi, buningdek  dunyo bilan yoʻqoladigan yuragi koʻrindi.
+
+
+Uning hayajoni tushmadi,  U yanada ham uzoqroq uchdi, koʻplab ko‘k va yashil osmonlarda uchib yurdi,  ko‘proq uchdi.  Oq daryolar,  ko‘k gulzorlar,  quyoshli joylarni koʻrib, uchdi. Yovuz-chiqmoqda!
+
+
+Oltinburun toqayib  ketayotganda, boshqa dunyo deb oʻylagan narsaning bu go‘zallik bilan ajralib turadi  deb hisobladi, oʻzini kichkina bir joydagi hayotdagi umida  shunday quvonch bilan ishlatib  oʻtdi. Shunday qilib uzoq ko‘chganini bilmasdan, koʻrgani bilan uchuvchisining boshida qoldi va tumanning oʻzi esa, oʻz yoʻllarini izlagan kabi.
+
+
+ U  o‘zini uyda his etdi va ko‘llarning barcha tumanlari orqasida  sayohatiga boshlanishni istardi. Undan yumshoq tovush ko‘zida ko‘ringani, Oltinburun o‘z uyiga uchib keldi va qolgan qushlar bilan birga sayohat qildi. Ular birgalikda sayohat qilishlarini bilib, goʻzal yozgi kuni boshida birlashib,  yana  o‘z  ayvonida  uchishadi  degan   xayollarini  tasavvur   qilish   umidlari   oʻz  gʻayratini   esga  oladi.
+</body>

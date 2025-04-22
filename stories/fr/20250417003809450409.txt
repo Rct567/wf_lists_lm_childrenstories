@@ -1,0 +1,105 @@
+<prompt>
+Please write a uncomplicated French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'L'observation des étoiles et des constellations brillantes.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```xml
+<title>L'observation des étoiles et des constellations brillantes.</title>
+<body>
+Il était une fois, dans un petit village niché au cœur de la France, une jeune fille nommée Sophie. Sophie adorait les histoires. Elle adorait aussi la nuit. Chaque soir, juste avant d’aller dormir, elle aimait ouvrir sa fenêtre et regarder le ciel. Et chaque soir, elle se demandait : "Qu'est-ce qui brille là-haut ? Qu'est-ce que sont ces points lumineux ?"
+
+Un soir d’été, son grand-père, Jean, lui rendit visite. Jean était un homme curieux et passionné par l’astronomie. Il savait tout sur les étoiles, les planètes et les constellations.
+
+"Bonsoir, ma chérie !" dit Jean en entrant dans la chambre de Sophie. "Prête pour une aventure céleste ?"
+
+Sophie, les yeux brillants, acquiesça vivement. "Oh oui, grand-père ! J'ai tellement envie de comprendre le ciel !"
+
+Jean sourit et tendit à Sophie une couverture chaude. "Allons dehors. Le spectacle va commencer."
+
+Ils sortirent de la maison et s'installèrent dans le jardin, loin des lumières vives du village. Le ciel était incroyablement noir et parsemé d’innombrables étoiles scintillantes. Sophie fut émerveillée.
+
+"Wow !" s'exclama-t-elle. "C'est magnifique !"
+
+"C'est ce qu'on appelle la Voie lactée," expliqua Jean, pointant du doigt une large bande laiteuse qui traversait le ciel. "C’est notre galaxie, une immense collection d'étoiles, de gaz et de poussière."
+
+Sophie, toujours fascinée, s’allongea sur la couverture et leva les yeux. "Grand-père, aide-moi à comprendre. Qu'est-ce qu'une étoile ?"
+
+Jean s’assit à côté d'elle. "Imagine que les étoiles sont des soleils, comme le nôtre, mais beaucoup, beaucoup plus loin. Elles brillent parce qu'elles brûlent du gaz et produisent de la lumière et de la chaleur. Et certaines sont même plus grandes que notre propre soleil !"
+
+Sophie était stupéfaite. "Incroyable !"
+
+"Et maintenant, regardons les constellations," dit Jean avec un sourire. "Sais-tu ce que c'est ?"
+
+"Euh... non, pas vraiment," répondit Sophie, un peu perplexe.
+
+"Les constellations," expliqua Jean, "sont des groupes d'étoiles qui, vues depuis la Terre, forment des formes. Les anciens, il y a très longtemps, ont imaginé des figures avec ces étoiles et leur ont donné des noms."
+
+Il sortit un petit guide du ciel qu’il avait apporté. "Commençons par la Grande Ourse. Peux-tu la trouver ?"
+
+Sophie chercha attentivement, et après quelques instants, elle dit : "Je crois que oui ! Je vois une forme qui ressemble à une grande louche !"
+
+Jean rit. "Exactement ! C'est la Grande Ourse. Et le manche de la louche, c'est la queue de l'ours."
+
+Ils cherchèrent ensuite d’autres constellations. Jean expliqua comment trouver l’Étoile Polaire en suivant les étoiles de la Grande Ourse.
+
+"Trouves les deux étoiles qui forment le bord de la louche," dit Jean. "Elles pointent toujours vers l'Étoile Polaire."
+
+Sophie suivit les instructions et trouva rapidement l'Étoile Polaire.
+
+"C'est magique !" s'émerveilla-t-elle. "Elle semble rester toujours au même endroit !"
+
+"C'est vrai," confirma Jean. "Elle est presque exactement au-dessus du pôle Nord de la Terre. C'est pourquoi elle nous indique la direction du nord."
+
+Ensuite, Jean lui montra la constellation de Cassiopée, qui avait la forme d'un "W" ou d'un "M", selon la façon dont on la regardait. Il lui raconta l’histoire de Cassiopée, la reine égyptienne, et de sa fierté démesurée.
+
+Sophie écoutait attentivement, captivée par les histoires de Jean et la beauté du ciel nocturne.
+
+"Maintenant, regardons une constellation encore plus brillante," dit Jean. "Orion !"
+
+Sophie chercha Orion, une constellation visible en hiver, mais qui commençait à se montrer timidement dans le ciel d'été. Elle trouva facilement les trois étoiles alignées qui formaient la ceinture d'Orion, puis le reste du "chasseur" avec son épée et son arc.
+
+"Voyez, les trois étoiles de la ceinture sont faciles à repérer !" dit Jean. "Et l'épée d'Orion est juste en dessous. Si vous utilisez un télescope, vous pourrez voir des nébuleuses, des nuages de gaz et de poussière où de nouvelles étoiles naissent !"
+
+Jean lui expliqua aussi l'histoire d'Orion, le chasseur géant et sa rivalité avec le scorpion, dont la constellation, aussi, brille dans le ciel.
+
+Sophie posa de nombreuses questions. Elle voulait savoir pourquoi les étoiles brillaient de différentes couleurs (la température !), comment les planètes se déplaçaient autour du soleil (la gravité !), et comment les astronomes étudient l'univers.
+
+Jean répondit patiemment à toutes ses questions, partageant sa connaissance et son enthousiasme avec sa petite-fille. Il lui expliqua que les planètes, contrairement aux étoiles, ne brillent pas d’elles-mêmes. Elles reflètent la lumière du soleil.
+
+La nuit avançait, et la température baissa. Sophie se blottit dans sa couverture. Elle était fatiguée, mais son esprit était rempli de merveilles célestes.
+
+"Grand-père," dit-elle, "c'est le plus beau spectacle que j'aie jamais vu."
+
+"Je suis content que tu aies aimé," répondit Jean en lui souriant. "Le ciel est une source infinie d'émerveillement. Il y a tant de choses à découvrir."
+
+Ils restèrent assis à regarder les étoiles encore un moment, en silence. L'air frais et le spectacle infini du ciel les unissaient dans un moment précieux.
+
+Enfin, Jean dit : "Il est temps d'aller dormir, petite étoile. Mais avant, je vais te montrer quelque chose de spécial."
+
+Il pointa vers une constellation en forme de scorpion. "Regarde, c'est la constellation du Scorpion ! Remarque l’étoile brillante qui brille à côté. Elle s’appelle Antarès, c’est un supergéant rouge. C’est une étoile qui est très grande et qui se trouve dans le dernier stade de sa vie."
+
+Sophie resta sans voix devant l’image de l’immense étoile, réalisant l’immensité de l’univers, et la place qu’elle occupait dans cette immensité.
+
+Ils rentrèrent à l'intérieur. Avant de s’endormir, Sophie pensa à toutes les histoires qu’elle avait apprises et aux secrets du ciel qu’elle allait encore découvrir.
+
+Le lendemain, elle se leva tôt. Elle alla dans le jardin avec son guide du ciel. Elle chercha la Grande Ourse, la Cassiopée, Orion. Elle trouva les étoiles, elle imagina les formes, elle raconta les histoires à ses jouets.
+
+Chaque soir suivant, Sophie retourna observer le ciel avec plus de connaissances. Elle apprit à reconnaître les constellations, les planètes, et même à deviner des phénomènes comme les étoiles filantes.
+
+Elle continua à étudier les livres sur l'astronomie, et plus tard, elle visita un observatoire.
+
+Elle se rappela toujours la nuit avec son grand-père. Grâce à lui, elle avait appris à apprécier la beauté et les mystères du ciel nocturne.
+
+Et Sophie grandit avec la tête remplie d’étoiles, de planètes, et la magie de l'univers. Elle passa sa vie à apprendre, à observer, et à partager la passion de l'astronomie, devenant elle-même, un jour, une grande astronome. Elle transmit aussi cet amour des étoiles aux autres enfants, perpétuant la magie des constellations et l'observation des étoiles.
+Et, chaque fois qu'elle regardait le ciel, elle se souvenait du bon vieux temps passé avec son grand-père et souriait, toujours émerveillée par la beauté du ciel et ses mystères infinis.
+La fin.
+</body>
+```

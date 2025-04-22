@@ -1,0 +1,33 @@
+<prompt>
+Please write a relatable Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Žalių Miškų ir Paslaptingų Paukščių Šokis'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>lt</lang_id>
+
+<title>Žalių Miškų ir Paslaptingų Paukščių Šokis</title>
+<body>Kadaise, toli toli nuo mūsų, buvo žali miškas, kuris driekėsi iki pat horizonto. Šis miškas buvo visiems žinomas dėl savo nepakartojamo grožio ir paslaptingumo. Jo medžiai buvo tokie aukšti, kad jiems netrukdo saulės spinduliai, o jų šakos buvo tokios storos, kad jose galėjo tilpti net keli žmonės. Miške gyveno daugybė gyvūnų, nuo smulkių pelėžių iki stambų meškų, bet visi jie gyveno taikiai ir niekada nesikariaudavo.
+
+Vieną dieną, miške atsirado jauna mergina, vardu Užuolaida. Ji buvo kilusi iš kaimo, esančio netoli miško, ir čia atvyko ieškoti naujų patirčių. Užuolaida buvo labai drąsi ir niekada nesibjodavo nieko, tad ji nusprendė įžengti į mišką ir pamatyti, ką jis slepia. Ji ėjo giliau ir giliau į mišką, kol galiausiai pasiekė jo vidurį. Ten ji rado didelę aikštelę, apsuptą medžių, ir šioje aikštelėje buvo įrengtas didelis šokis.
+
+Užuolaida buvo labai nustebusi, matyti, kad miške, kuris anksčiau buvo tokai tylicas, dabar buvo tokia gausybė gyvų būtybių. Ji matė meškas, lapes, kiškius ir net pelėžius, šokančius ir linksminančius. Bet tarp visų šių gyvūnų Užuolaida pastebėjo ir kitokius dalykus - paukščius. Jie buvo visų spalvų, nuo balto iki juodo, ir visų dydžių, nuo smulkių zyzdrų iki stambų erelių. Užuolaida buvo labai žavimi, matyti, kad paukščiai taip pat dalyvauja šokyje.
+
+Kol Užuolaida stebėjosi šokančiais paukščiais, ji pastebėjo, kad tarp jų yra ir paslaptingas paukštis. Jis buvo visiškai juodas, su ryškiais, raudonais akimis, ir jo sparnai buvo tokie dideli, kad galėjo uždengti visą aikštelę. Užuolaida buvo labai sužavinta šiuo paukščiu ir nusprendė sužinoti daugiau apie jį. Ji priartėjo prie paukščio ir paklausė, kas jis yra ir kodėl jis čia.
+
+Paslaptingas paukštis atsakė, kad jis yra Karalius Paukštis, ir kad jis atvyko į mišką, kad dalyvautų šokyje. Jis pasakė, kad šis šokis yra rengiamas kasmet, ir kad jame dalyvauja visi miško gyventojai. Karalius Paukštis taip pat pasakė, kad šis šokis yra labai svarbus, nes jis jungia visus miško gyventojus ir padeda jiems sugyventi taikiai.
+
+Užuolaida buvo labai patikusi, kad susitiko Karalių Paukštį, ir ji nusprendė dalyvauti šokyje. Ji šoko kartu su meškomis, lapėmis, kiškiais ir pelėžiais, ir net su Karalių Paukščiu. Ji buvo labai laimingu, nes jautė, kad ji yra dalis miško bendruomenės. Šokis truko visą naktį, ir Užuolaida buvo labai liūdna, kad jis baigėsi.
+
+Kol Užuolaida ruošėsi išvykti iš miško, Karalius Paukštis priartėjo prie jos ir pasakė, kad jis nori jai padėti. Jis pasiūlė Užuolaidai atvykti į mišką kitą kartą, ir ji sutiko. Užuolaida išvyko iš miško, bet ji žinojo, kad ji grįš čia vėl, nes ji jaučiasi miško dalimi.
+
+Nuo tos dienos Užuolaida dažnai lankydavosi miške, ir ji visuomet dalyvavo šokyje. Ji tapo miško gyventoju, ir visi miško gyventojai mylėjo ją. Užuolaida buvo labai laimingu, nes ji rado naują šeimą, ir ji žinojo, kad ji visada bus miško dalimi.
+
+Kad ir kas būtų, Užuolaida visuomet atsimindavo apie Karalių Paukštį ir jo paslaptingą šokį. Ji žinojo, kad šis šokis yra labai svarbus, nes jis jungia visus miško gyventojus, ir padeda jiems sugyventi taikiai. Užuolaida buvo labai dėkinga Karaliui Paukščiui, kad jis ją įtraukė į miško bendruomenę, ir ji visuomet bus jo draugė.
+
+Ir taip Užuolaida gyveno miške, kartu su Karalių Paukščiu ir kitais miško gyventojais. Ji buvo labai laimingu, nes ji rado naują šeimą, ir ji žinojo, kad ji visada bus miško dalimi. Užuolaida visuomet atsimindavo apie paslaptingą šokį, ir ji visuomet dalyvavo joje, nes ji žinojo, kad šis šokis yra labai svarbus miško gyventojams.</body>

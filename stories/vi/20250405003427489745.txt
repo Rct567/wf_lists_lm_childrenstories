@@ -1,0 +1,95 @@
+<prompt>
+Please write a dialog-based Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Đêm Noel của Em Bé'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>vi</lang_id>
+
+```xml
+<title>Đêm Noel của Em Bé</title>
+<body>
+Một đêm Noel giá lạnh, tuyết rơi trắng xóa trên mái nhà và những con đường của Sài Gòn. Trong một căn nhà nhỏ xinh, nơi ánh đèn lung linh tỏa ra từ cây thông Noel, em bé Mai ngồi bên cửa sổ, mắt dán chặt vào những vì sao lấp lánh.
+
+"Mẹ ơi," Mai gọi, giọng nói nhỏ nhẹ như tiếng chuông gió. "Con có thể ra ngoài chơi được không ạ? Tuyết đẹp quá!"
+
+Mẹ Mai bước đến, đặt tay lên vai con gái. "Mai yêu, trời lạnh lắm. Con ở trong nhà nhé. Bên ngoài đường có rất nhiều người. Mẹ sợ con bị lạc."
+
+Mai bĩu môi. "Nhưng con muốn xem ông già Noel!"
+
+"Ông già Noel sẽ đến tặng quà cho con trong giấc mơ," mẹ cười hiền từ. "Giờ thì lại đây, chúng ta cùng gói quà cho các bạn nhỏ nhé."
+
+Mai vui vẻ chạy lại, nhảy chân sáo đến bên cạnh mẹ. Trên bàn, những hộp quà xinh xắn với giấy gói đủ màu sắc được chuẩn bị sẵn. Bên trong là những cây bút chì màu, những quyển vở, và cả những chiếc kẹo mút ngọt ngào.
+
+"Mình sẽ tặng quà cho ai, mẹ?" Mai hỏi.
+
+"Cho các bạn nhỏ ở trại trẻ mồ côi," mẹ đáp. "Các bạn ấy không có gia đình, nên Noel này, mình sẽ mang đến cho các bạn một chút niềm vui."
+
+Mai gật đầu lia lịa, đôi mắt ánh lên niềm vui. Cô bé bắt đầu hăng hái gói quà, chọn từng chiếc nơ thật xinh xắn, tỉ mỉ dán lên từng hộp quà.
+
+"Mẹ ơi, ông già Noel sẽ đến bằng gì?" Mai hỏi, trong lúc tay đang cố định chiếc nơ màu xanh.
+
+Mẹ Mai cười. "Ông già Noel có thể đến bằng xe tuần lộc, hoặc bằng một chiếc xe do các chú lùn chế tạo, hoặc có khi… bằng cả phép màu nữa đấy!"
+
+Mai tròn xoe mắt. "Phép màu ạ? Con muốn thấy phép màu của ông già Noel!"
+
+"Con hãy ngoan ngoãn, ngủ thật ngon, rồi sáng mai, con sẽ thấy điều bất ngờ thôi."
+
+Sau khi gói xong tất cả các món quà, mẹ và Mai cùng nhau đặt chúng dưới gốc cây thông Noel. Căn phòng tràn ngập không khí ấm áp và hạnh phúc.
+
+"Mẹ ơi, con đói," Mai nói.
+
+"Vậy mình cùng ăn bánh kem Noel nhé," mẹ nói.
+
+Hai mẹ con cùng nhau ăn bánh kem, nhâm nhi tách ca cao nóng hổi. Bên ngoài, tuyết vẫn rơi nhẹ nhàng, phủ trắng xóa mọi thứ.
+
+"Mẹ ơi, sao tuyết lại rơi vào đêm Noel?" Mai hỏi.
+
+"Vì tuyết muốn mang đến niềm vui và sự kỳ diệu cho đêm Noel," mẹ giải thích. "Tuyết là những hạt tinh thể nước, khi gặp lạnh sẽ kết tinh thành những bông tuyết xinh xắn. Đêm Noel, không khí trở nên lạnh hơn, và thế là tuyết rơi."
+
+Mai chăm chú lắng nghe.
+
+"Vậy tuyết có biết mình có nhà không, mẹ?" Mai hỏi, khi nhìn ra ngoài.
+
+Mẹ Mai ôm Mai vào lòng. "Tuyết không có nhà. Nhưng tuyết có bạn bè, có cây cối, có đất mẹ. Và quan trọng nhất, tuyết có thể mang đến niềm vui cho mọi người."
+
+"Con cũng muốn mang niềm vui cho mọi người," Mai nói.
+
+"Vậy con ngoan ngoãn, học giỏi, giúp đỡ mọi người, đó là cách con mang đến niềm vui rồi," mẹ nói.
+
+"Con sẽ làm ạ," Mai gật đầu.
+
+Đến khuya, mẹ dìu Mai lên giường. Mai chìm vào giấc ngủ ngon lành. Trước khi ngủ, cô bé thì thầm: "Ông già Noel ơi, hãy đến tặng quà cho các bạn nhỏ nhé."
+
+Sáng hôm sau, Mai thức dậy thật sớm. Cô bé vội vàng chạy xuống nhà. Dưới gốc cây thông Noel, những hộp quà đã biến mất!
+
+"Mẹ ơi! Quà của con đâu rồi?" Mai hỏi, ngạc nhiên.
+
+Mẹ Mai cười, chỉ vào cửa sổ. Bên ngoài, một chiếc xe của tình nguyện viên đang chuẩn bị rời đi, chất đầy những hộp quà.
+
+"Ông già Noel đã đến rồi," mẹ nói. "Ông đã mang quà đến cho các bạn nhỏ ở trại trẻ mồ côi."
+
+Mai chạy ra cửa, vẫy tay chào chiếc xe. Trong lòng cô bé dâng trào niềm vui sướng.
+
+"Ông già Noel có thật!" Mai kêu lên.
+
+"Đúng rồi, ông già Noel có thật trong trái tim của những người biết yêu thương và chia sẻ," mẹ nói. "Và con chính là một ông già Noel nhỏ bé của mẹ."
+
+Mai ôm chầm lấy mẹ.
+
+"Mẹ ơi, sang năm con lại gói quà tặng các bạn nhỏ nhé," Mai nói.
+
+"Được chứ," mẹ đáp. "Mình sẽ cùng nhau chia sẻ tình yêu thương, con gái ạ."
+
+Sau đó, hai mẹ con cùng nhau đi chuẩn bị bữa sáng, mở cửa đón một ngày Noel an lành và hạnh phúc. Mai cảm thấy đêm Noel của mình thật kỳ diệu. Cô bé thầm nghĩ, có lẽ phép màu đã đến với mình, khi được chia sẻ tình yêu thương đến những người khác.
+
+Khi Mai đi học về, cô bé đã kể cho các bạn về đêm Noel của mình. Các bạn đều rất thích thú, và ai nấy đều muốn trở thành một "ông già Noel nhỏ" giống Mai. Mai càng vui mừng hơn, vì cô bé biết, tình yêu thương sẽ được lan tỏa mãi, vào mỗi mùa Noel.
+
+Đêm Noel năm đó, sau khi kể xong câu chuyện của mình cho mọi người trong gia đình, Mai vẫn chưa muốn đi ngủ. Cô bé đứng bên cửa sổ, nhìn ra những vì sao lấp lánh. Cô bé cảm thấy vui vẻ vì đêm Noel của mình đã mang lại hạnh phúc cho nhiều người, từ các bạn nhỏ ở trại mồ côi, đến chính bản thân mình. Và cô bé tự hứa, đêm Noel nào, cô cũng sẽ là một "ông già Noel nhỏ" mang yêu thương đến mọi nhà.
+</body>
+```

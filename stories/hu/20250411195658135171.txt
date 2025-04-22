@@ -1,0 +1,72 @@
+<prompt>
+Please write a dialog-based Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Olivér és az űrhajó'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>hu</lang_id>
+
+```xml
+<title>Olivér és az űrhajó</title>
+<body>
+- Olivér! Olivér, ébredj már fel! – hallotta Olivér az anyukája suttogását.
+- Hmm… mi történt? – nyögte álmosa.
+- Gyere gyorsan ki a kertbe! Valami furcsa van odakint!
+Olivér kiugrott az ágyból, felkapta a pizsamáját és szaladt a kertbe. Az ablakon kinézve alig hitte el a szemének. Az égbolton, a szürkületben egy hatalmas, csillogó űrhajó lebegett.
+- Anya! Ez… ez egy igazi űrhajó! – kiáltotta.
+- Én is azt látom, kisfiam! – mosolygott az anyukája. – De nem értem, hogy kerül ide.
+Olivér kinyitotta az ajtót, és óvatosan kilépett a kertbe. A fű még nedves volt a harmattól, és a levegő friss, szinte üde volt. Az űrhajó csendesen, szinte súlytalanul lebegett a nagy fa fölött.
+- Ki van ott? – kérdezte Olivér, egy kicsit remegő hangon.
+Egy apró, kerek ablak kinyílt az űrhajón. Egy zöld, bolyhos lény kukucskált ki belőle.
+- Helló! – mondta a lény egy furcsa, csilingelő hangon. – Én Blup vagyok!
+- Én pedig Olivér. Ez a mamám. – mutatott Olivér az anyukájára, aki addigra a kertbe ért.
+- Örvendek! – válaszolta Blup. – Én a Xylar bolygóról jöttem. Elveszettem…
+- Elvesztél? – kérdezte Olivér. – Hogy?
+- A űrhajóm navigációs rendszere meghibásodott, és tévedésből ide kerültem, a Földre.
+- Szuper! – kiáltotta Olivér. – Én mindig is szerettem volna egy űrhajóval utazni! El tudod vinni engem a Xylarra?
+- Természetesen! – felelte Blup. – Ha persze nem bánod a zöld arcokat meg a csúszós ételeket.
+- Egyáltalán nem! – vigyorodott Olivér.
+- De várjatok! – szólt az anyukája. – Nem lehet csak úgy elmenni a Xylarra! Beszéljük meg!
+- Nem baj, ha egy napot késlekedünk. – mondta Blup. – Tudok még várni. Az űrhajóm javításához amúgy is szükségem van némi speciális alkatrészre, ami talán megtalálható itt, a Földön.
+- Rendben! – döntött az anyukája. – Beszéljük meg. De előbb reggelizzünk. Blup, szeretnél valami földi finomságot? Például rántottát?
+- Rántottát? – kérdezte Blup kíváncsian. – Mi az?
+- Majd megmutatom! – mosolygott Olivér.
+A reggeli asztalnál Olivér mesélt Blupnak mindenről a Földről, a bolygónkról, a mindennapjairól. Blup pedig mesélt a Xylarról, a furcsa növényekről, a nyálkás gyümölcsökről és arról, hogy az emberek hogyan tisztálkodnak, mert ezt a földi szokást ő furcsának találta. A reggeli alatt rengeteg nevetés hallatszott, és egyre jobban összebarátkoztak.
+Amikor végeztek, az anyukája felajánlotta, hogy segítenek megtalálni a szükséges alkatrészeket az űrhajóhoz.
+- Van egy jó kis műhely a szomszédban. – mondta. – Biztos tudnak segíteni.
+Így hát hármasban, Olivér, Blup és az anyukája átmentek a szomszédba, Pista bácsihoz. Pista bácsi, egy nagydarab, vicceskedő férfi volt, aki mindig tudott segíteni.
+- Szevasztok! – köszöntött Pista bácsi, ahogy meglátta őket. – Na, mi jár a fejetekben? Egy űrhajóval jöttök?
+- Majdnem! – kuncogott Olivér. – Blup, a barátom, egy másik bolygóról jött, és elromlott az űrhajója. Szüksége lenne néhány alkatrészre.
+Pista bácsi megvizsgálta Blup űrhajójának vázlatát, és mosolyogva bólintott.
+- Van itt egy csomó dolog, ami segíthet! – mondta. – Nézzük meg, mit tudunk szerezni!
+A műhelyben elkezdték keresgélni az alkatrészeket. Pista bácsi profi módon pakolta össze a dolgokat, Olivér pedig kíváncsian figyelt. Blupnak nagyon tetszett a hely. Sok érdekességet látott. Végül, több óra után, sikeresen megtalálták a hiányzó alkatrészeket.
+- Köszönöm szépen! – mondta Blup, amikor visszamentek a kertbe, az űrhajóhoz. – Sokat segítettetek!
+- Nincs mit! – mosolyogott Pista bácsi.
+Az anyukája és Olivér most már egy kicsit szomorúak lettek.
+- Na, akkor most már búcsúzunk? – kérdezte az anyukája.
+- Igen. – válaszolta Blup. – Sajnálom, hogy mennem kell, de muszáj hazajutnom. Viszont ígérem, hogy vissza fogok jönni! És akkor még több időt tölthetünk együtt.
+- Akkor én most pakolok! – kiáltotta Olivér boldogan. – Ma én is elutazok a Xylarra!
+- Már csak egy órára van szükséged a pakoláshoz! – mondta mosolyogva Blup.
+Olivér szaladt be a házba, hogy összepakolja a legfontosabb dolgait: a kedvenc könyvét, a labdáját, egy csomó rajzot, és persze, a fogkeféjét. Amikor visszatért, az űrhajó már teljesen készen állt. A csillogó ajtó nyitva állt, Blup pedig az ajtóban mosolygott.
+- Készen állsz az utazásra? – kérdezte.
+- Igen! – kiáltotta Olivér, és felugrott az űrhajóba.
+Azonnal a kabin belsejében találta magát. Nem volt olyan bonyolult, mint képzelte, de minden olyan csillogó és furcsa volt. Tele gombokkal, lámpákkal és színes kijelzőkkel.
+- Kapcsold be a biztonsági övedet! – mondta Blup. – És fogd meg szorosan a karfát!
+Olivér becsatolta az övet, és szorosan fogta a karfát. Az űrhajó lassan elindult. Először csak felemelkedett a földről, majd egyre gyorsult. Olivér érezte, ahogy a gyomra összeszorul. De nagyon élvezte!
+- Most felgyorsítjuk a gépet! – mondta Blup, és megnyomott egy nagy, piros gombot.
+Az űrhajó elképesztő sebességgel süvített, a házak, a fák egyre kisebbek lettek, majd elmosódtak. Olivér hallotta a süvítő hangot, és a szeme láttára a csillagok elkezdtek körbefutni az űrhajón. Egy kis idő után az űrhajó csöndesen, súlytalanul lebegett a világűrben.
+- Azt hiszem, megérkeztünk! – mondta Blup. – Itt a Xylar!
+Olivér kinézett az ablakon, és elállt a lélegzete. Egy gyönyörű bolygó fogadta őket, színes növényekkel, furcsa állatokkal, és egy narancssárga égbolttal.
+- Wow! Ez hihetetlen! – suttogta Olivér.
+- Igen, Xylar szép hely! – válaszolta Blup mosolyogva. – Gyere, megmutatom a világot!
+És így kezdődött Olivér kalandja a Xylaron, a zöld lények és csúszós gyümölcsök világában. Egy kaland, amit soha nem fog elfelejteni. De erről egy másik történetben majd!
+- Vigyázzatok magatokra! – kiáltotta az anyukája a távolból, miközben Olivér és Blup elrepült.
+Olivér megnézte a hátra a fát, Pista bácsit és az anyukáját, akik most már pici pontoknak tűntek. Mosolyodott. A szeme könnyes lett, de ezt az érzést azonnal elfelejtette, mert a Xylar hihetetlen világa várta!
+A kaland tehát kezdetét vette, ami Olivérnek egy örökre emlékezetes nyár lett. És természetesen, minden remekül ment a barátságuknak hála!
+</body>
+```

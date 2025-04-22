@@ -1,0 +1,113 @@
+<prompt>
+Please write a dialog-based Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Co Widziała Koala W Wielkim i Nieznanym Dla Niego Lesie.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pl</lang_id>
+
+```xml
+<title>Co Widziała Koala W Wielkim i Nieznanym Dla Niego Lesie.</title>
+<body>
+— Ojej! Gdzie ja jestem? — zapytał malutki koala, przytulając się do liścia eukaliptusa.
+
+Jego futerko było puszyste i szare, a duże, czarne oczy błyszczały ze zdziwienia. Zawsze mieszkał w swoim rodzinnym, niewielkim gaju eukaliptusowym. Wiedział o każdym drzewie, znał każdy kąt. Ale teraz... znajdował się w miejscu, którego kompletnie nie rozpoznawał. Drzewa były gigantyczne, liście – o wiele większe, a powietrze pachniało zupełnie inaczej.
+
+— Mamo? Tato? Gdzie wy jesteście? — wołał cienkim głosikiem.
+
+Odpowiedziała mu jedynie cisza i szum wiatru w koronach drzew.
+
+Koala poczuł się bardzo samotny. Zazwyczaj trzymał się blisko mamy, która pokazywała mu, które liście są najsmaczniejsze. Tata z kolei uczył go, jak wspinać się na najwyższe gałęzie. Teraz nie było ich obok.
+
+Postanowił ruszyć przed siebie. Może znajdzie drogę powrotną albo kogoś, kto mu pomoże. Zszedł ostrożnie z liścia i zaczął wędrować po leśnej ściółce.
+
+— Hop! — krzyknął nagle, wpadając do małej dziury.
+
+Na szczęście nie spadł daleko, a jedynie wylądował na miękkim mchu. Wygramolił się z dziury, otrzepując swoje futerko.
+
+— Uważaj, koala! — usłyszał nagle piskliwy głosik.
+
+Spojrzał w dół i zobaczył maleńką, zieloną żabkę. Żabka miała błyszczące oczy i uśmiechała się do niego.
+
+— Cześć! — powiedział koala nieśmiało.
+
+— Cześć! Jestem Żabka Zosia. Co robisz w lesie? Zgubiłeś się? — zapytała Zosia.
+
+— Tak, zgubiłem się… Szukam mamy i taty. Nigdy wcześniej nie widziałem takiego lasu! — odpowiedział koala, spoglądając na ogromne drzewa.
+
+— To Wielki Las! Jest tu dużo miejsc, ale też dużo niespodzianek. Chodź ze mną, może pomogę ci odnaleźć rodzinę! — zaproponowała Zosia.
+
+Koala z radością zgodził się. Zosia okazała się bardzo sympatyczną przewodniczką. Oprowadzała go po lesie, pokazując mu różne ciekawe rzeczy.
+
+— Patrz, tam są mrówki! Noszą jedzenie do mrowiska — powiedziała Zosia, wskazując na małą ścieżkę, po której maszerowały mrówki.
+
+— Ojej! Jak one to robią? — dziwił się koala.
+
+— Bardzo ciężko pracują. Ale to jest ich zadanie! — odpowiedziała Zosia.
+
+Poszli dalej. Nagle usłyszeli szelest. Zza krzaka wyskoczył mały wiewiór.
+
+— Cześć! Jestem Wiewiórka Basia! — przedstawiła się wiewiórka, trzymając w łapkach orzeszek.
+
+— Cześć! Ja jestem Koala — powiedział koala.
+
+— A ja Żabka Zosia! — dodała Zosia.
+
+— Co tu robicie? — zapytała Basia.
+
+— Koala się zgubił i szuka rodziny — wytłumaczyła Zosia.
+
+— Och, rozumiem. Znam ten las jak własną kieszeń! Może wam pomogę? — zaproponowała Basia, obgryzając orzeszek.
+
+— Byłoby wspaniale! — ucieszył się koala.
+
+Basia poprowadziła ich ścieżkami i przesmykami, pokazując im zakamarki lasu, o których Zosia nawet nie wiedziała.
+
+— Widzicie tamten wysoki dąb? Tam mieszka Stary Dzięcioł. Może on coś wie — powiedziała Basia, wskazując na potężne drzewo.
+
+Dotarli do dębu. Dzięcioł stukał dzióbkiem w korę, szukając robaków.
+
+— Dzień dobry, Panie Dzięciole! — zawołała Basia.
+
+Dzięcioł podniósł głowę i spojrzał na nich jednym okiem.
+
+— Dzień dobry. Co was tu sprowadza? — zapytał z chrapliwym głosem.
+
+— Koala się zgubił i szuka rodziny. Czy Pan wie, gdzie mogą być? — zapytała Basia.
+
+Dzięcioł spojrzał na koalę uważnie.
+
+— Koala… Koala… Widziałem ostatnio koale w gaju eukaliptusowym na skraju lasu. Pewnie tam ich szukają! — powiedział Dzięcioł, stukając dzióbkiem w drzewo.
+
+Koala zamarł z radości.
+
+— Naprawdę? Czy to daleko? — zapytał.
+
+— Dosyć daleko, ale idąc wzdłuż rzeki, na pewno traficie — odpowiedział Dzięcioł.
+
+Koala podziękował Dzięciołowi i wraz z Zosią i Basią ruszyli w drogę. Szli wzdłuż szemrzącej rzeki, podziwiając piękne kwiaty i kolorowe motyle. Zosia skakała po kamieniach, a Basia zręcznie wspinała się na drzewa, wypatrując ewentualnych niebezpieczeństw.
+
+Po długiej wędrówce, dotarli do skraju lasu. Koala zobaczył znajome drzewa! Gaje eukaliptusowe!
+
+— To tu! To tu! — krzyknął z radością.
+
+Na jednym z drzew zauważył mamę i tatę! Szybko wspiął się po pniu i rzucił im w ramiona.
+
+— Mamo! Tato! Znalazłem was! — wołał, tuląc się do nich.
+
+Mama i tata bardzo się ucieszyli.
+
+— Koala! Gdzie byłeś? Martwiliśmy się! — powiedziała mama.
+
+— Wędrowałem po Wielkim Lesie. Było tam bardzo dużo ciekawych rzeczy! I spotkałem wspaniałych przyjaciół! — powiedział koala, wskazując na Zosię i Basię.
+
+Rodzice koali podziękowali Zosi i Basi za pomoc. Obiecał, że zawsze będą mile widziane w ich gaju.
+
+Koala spędził resztę dnia, opowiadając rodzicom o swoich przygodach w Wielkim Lesie. Już nigdy nie bał się go tak bardzo, wiedząc, że las kryje w sobie nie tylko nieznane i straszne rzeczy, ale także wspaniałych przyjaciół. Od tamtej pory często odwiedzał Zosię i Basię w lesie, przeżywając kolejne przygody. I choć Wielki Las pozostał dla niego wielki i tajemniczy, już nigdy się go nie obawiał. Zawsze miał obok przyjaciół, którzy byli gotowi mu pomóc i towarzyszyć w odkrywaniu nowych miejsc. A czasem, kiedy tęsknił za swoją rodziną, przypominał sobie smak liści eukaliptusa, które zawsze przypominały mu o jego bezpiecznym i pięknym domu. Koniec.
+</body>
+```

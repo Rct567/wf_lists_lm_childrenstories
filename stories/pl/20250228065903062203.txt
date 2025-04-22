@@ -1,0 +1,57 @@
+<prompt>
+Please write a dialog-based Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Mała Wróżka i Jej Zadanie Uratowania Zaczarowanego Lasu.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>pl</lang_id>
+
+<title>Mała Wróżka i Jej Zadanie Uratowania Zaczarowanego Lasu</title>
+<body>
+W małej wiosce, położonej na skraju wielkiego lasu, mieszkała mała wróżka o imieniu Zosia. Zosia była bardzo dobrym i pomocnym stworzeniem, zawsze gotowym do pomocy potrzebującym. Jednak w ostatnim czasie las, w którym Zosia mieszkała, zaczął zmieniać się w niepożądany sposób. Drzewa, które kiedyś były tak piękne i zielone, zaczęły więdnieć i umierać. Zwierzęta, które kiedyś biegały i śpiewały w lesie, zaczęły znikać.
+
+Pewnego dnia, do Zosii przyszedł stary drzewo o imieniu Dąb. Dąb był bardzo smutny i powiedział Zosii:
+
+"Zosiu, muszę ci coś powiedzieć. Las jest w niebezpieczeństwie. Czarownica, która mieszka w lesie, rzuca na nas złe zaklęcia. Drzewa umierają, a zwierzęta uciekają. Musimy coś zrobić, aby uratować las."
+
+Zosia była bardzo zaniepokojona i postanowiła, że musi coś zrobić. Poprosiła Dęba, aby opowiedział jej więcej o czarownicy i jej zaklęciach.
+
+"Czarownica nazywa się Malwa", powiedział Dąb. "Mieszka w starej chatce na skraju lasu. Jest bardzo zła i nie lubi niczego, co jest dobre. Rzuca na nas złe zaklęcia, aby nas zniszczyć."
+
+Zosia postanowiła, że musi się udać do chatki Malwy i spróbować ją powstrzymać. Wzięła małą torbę i wypełniła ją różnymi rzeczami, które mogłyby jej pomóc w misji. Wzięła również małą butelkę z wodą ze źródła, które było znane ze swoich uzdrawiających właściwości.
+
+Gdy Zosia szła przez las, spotkała różne zwierzęta, które również były dotknięte zaklęciami Malwy. Spotkała ptaka, który nie mógł latać, oraz królika, który nie mógł biegać. Zosia pomogła im, używając swoich magicznych mocy i wody ze źródła.
+
+Po kilku godzinach spaceru, Zosia dotarła do chatki Malwy. Była to mała, brzydka chatka, otoczona czarnymi kwiatami i pnączami. Zosia poczuła, że jest bardzo blisko niebezpieczeństwa, ale nie bała się. Puknęła do drzwi i czekała, aż Malwa otworzy.
+
+Malwa była starą, złą kobietą z długimi, siwymi włosami i czarnymi oczami. Patrzyła na Zosię z nienawiścią i powiedziała:
+
+"Co tu robisz, mała wróżko? Czy przyszłaś, aby mnie powstrzymać?"
+
+Zosia odpowiedziała: "Tak, przyszłam, aby cię powstrzymać. Twoje zaklęcia niszczą las i zwierzęta. Musisz je odwołać."
+
+Malwa zaśmiała się i powiedziała: "Nigdy nie odwołam swoich zaklęć. Las i zwierzęta są moimi wrogami. Chcę ich zniszczyć."
+
+Zosia wiedziała, że musi coś zrobić, aby powstrzymać Malwę. Wyciągnęła małą butelkę z wodą ze źródła i polała ją na Malwę. Malwa krzyknęła z bólu i zaczęła słabnąć.
+
+Zosia powiedziała: "Twoje zaklęcia są złe i muszą być odwołane. Las i zwierzęta są twoimi przyjaciółmi, a nie wrogami."
+
+Malwa spojrzała na Zosię i zobaczyła dobro w jej oczach. Zrozumiała, że Zosia mówi prawdę. Odwołała swoje zaklęcia i poprosiła Zosię o pomoc w odbudowaniu lasu.
+
+Zosia i Malwa pracowały razem, aby odbudować las. Zosia używała swoich magicznych mocy, aby pomóc drzewom i zwierzętom. Malwa używała swojej wiedzy, aby stworzyć lekarstwa na chore drzewa i zwierzęta.
+
+Po kilku tygodniach pracy, las zaczął się zmieniać. Drzewa zaczęły rosnąć i kwitnąć, a zwierzęta zaczęły wracać. Zosia i Malwa stały się przyjaciółkami i pracowały razem, aby utrzymać las w zdrowiu.
+
+Zosia wróciła do swojej wioski i opowiedziała wszystkim o swojej przygodzie. Ludzie byli bardzo zadowoleni i podziękowali Zosii za uratowanie lasu. Zosia uśmiechnęła się i powiedziała:
+
+"Nie zrobiłam tego sama. Malwa i ja pracowaliśmy razem, aby odbudować las. Teraz las jest bezpieczny i zwierzęta są szczęśliwe."
+
+Ludzie kiwnęli głowami i powiedzieli: "Zosia jest naprawdę małą wróżką. Ona uratowała las i nauczyła nas, że nawet najgorszy wróg może stać się przyjacielem, jeśli tylko chcemy."
+
+I tak Zosia żyła dalej, zawsze gotowa do pomocy potrzebującym i chronienia lasu i jego mieszkańców. A Malwa, dawniej zła czarownica, stała się jej przyjaciółką i pomagała jej w jej misji, aby zawsze utrzymać las w zdrowiu i szczęściu.
+</body>

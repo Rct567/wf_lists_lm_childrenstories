@@ -1,0 +1,63 @@
+<prompt>
+Please write a creative and original French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Les Voyages Fantastiques du Dragon Rouge et les Forêts Éternelles'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```xml
+<title>Les Voyages Fantastiques du Dragon Rouge et les Forêts Éternelles</title>
+<body>
+Dans le royaume enchanté d'Aethelgard, où les montagnes chatouillaient les nuages et les rivières chantaient des mélodies ancestrales, vivait un dragon extraordinaire. Il ne crachait pas de feu destructeur, non, non, ce dragon-là, il crachait… des arcs-en-ciel de paillettes ! Et au lieu d'avoir des écailles sombres et menaçantes, il était recouvert d'écailles rouge flamboyant, brillantes comme des rubis, qui lui valaient le surnom de « Dragon Rouge ». Son nom, c'était Ignis.
+
+Ignis adorait les voyages. Pas les voyages habituels, qui menaient vers des trésors cachés ou des châteaux forts. Lui, il aimait voyager à travers les Forêts Éternelles, un ensemble de bois magiques, chacune unique et possédant ses propres merveilles. Ces forêts étaient reliées entre elles par des portails scintillants, créés par la magie des anciens elfes.
+
+Un matin ensoleillé, alors que le soleil peignait le ciel de teintes orangées et rosées, Ignis sentit une forte envie de partir à l'aventure. Il se réveilla de sa sieste, bien reposé après avoir rêvé de nuages en barbe à papa, et se prépara pour une nouvelle exploration. Avant de s'envoler, il sortit de son antre, une caverne spacieuse remplie de coussins de soie et de livres anciens.
+
+Son premier arrêt fut la Forêt des Chants Éthérés. Le portail, un cercle de lumière verte émeraude, brillait devant lui. Il s'élança dedans, les ailes déployées. Instantanément, il fut transporté dans un monde où les arbres murmuraient des poèmes et où les feuilles, comme des papillons multicolores, dansaient au gré du vent. Les ruisseaux, cristallins, fredonnaient des berceuses délicates.
+
+Dans cette forêt, Ignis rencontra une petite fée, Iris, aux cheveux blonds comme le soleil et aux ailes aussi fines que le verre. Iris, en pleurs, lui expliqua que la musique des arbres s'était éteinte, et avec elle, la joie de la forêt. Ignis, le cœur empli de compassion, interrogea la fée.
+
+« Pourquoi les chants se sont-ils arrêtés, petite Iris ? » demanda-t-il, sa voix grave mais douce.
+
+Iris répondit en sanglotant : « Un mauvais sort, jeté par la sorcière Sombra, a ensorcelé les arbres. Seule la mélodie du Cœur de la Forêt, un cristal enchanteur, peut les réveiller. Mais le Cœur est caché au plus profond de la forêt, gardé par un griffon effrayant… »
+
+Ignis, intrépide, proposa son aide. Il promit à Iris de trouver le Cœur de la Forêt et de libérer les arbres de leur silence. Ensemble, ils s'enfoncèrent dans les profondeurs du bois, suivant le faible écho de la mélodie disparue. Ils traversèrent des clairières éclairées par des lucioles, survolèrent des champignons géants servant de maisons aux gnomes et évitèrent les plantes carnivores gourmandes.
+
+Finalement, ils atteignirent le cœur de la forêt. Là, perché sur un rocher noir, se tenait le griffon, avec des yeux perçants et un plumage sombre. Le griffon, qui protégeait le Cœur de la Forêt, lança un cri strident lorsqu'il vit Ignis et Iris approcher.
+
+Le combat s'annonçait difficile. Ignis, avec sa force, et Iris, avec ses sorts lumineux, affrontèrent le griffon. Ignis, utilisant ses écailles brillantes pour aveugler momentanément l'oiseau géant, permit à Iris de lancer un sort d'illusion qui enveloppa le griffon. Pendant que l'oiseau était désorienté, Ignis profita de l’occasion et, d’un puissant souffle, envoya un arc-en-ciel de paillettes, qui, touchant le griffon, le transformèrent en une statue de… paillettes scintillantes !
+
+Ensuite, Ignis et Iris approchèrent du Cœur de la Forêt. Il brillait d'une lumière douce et chaleureuse. Ignis, avec soin, le prit entre ses griffes et le rapporta au cœur de la forêt, le plaçant dans une cavité creusée dans un chêne ancestral. Immédiatement, les arbres reprirent leurs chants. Les feuilles se mirent à danser joyeusement, et la forêt entière s’éveilla. Iris, rayonnante, remercia Ignis et le couvrit de baisers.
+
+Ignis, heureux d'avoir aidé, quitta la Forêt des Chants Éthérés, traversant à nouveau le portail de lumière verte. Sa prochaine destination était la Forêt des Fleurs Lumineuses. Le portail, cette fois, était un cercle de lumière rose tendre.
+
+La Forêt des Fleurs Lumineuses était un véritable spectacle de couleurs et de parfums. Des fleurs de toutes formes et de toutes tailles éclairaient le paysage, émettant une lumière douce et apaisante. Dans cette forêt, Ignis rencontra un petit lutin nommé Pépito, dont le chapeau en forme de champignon semblait faire partie de sa tête.
+
+Pépito, visiblement inquiet, lui raconta qu'une ombre maléfique avait envahi la forêt, privant les fleurs de leur lumière. Seule la Lumière Originelle, une fleur magique, pouvait redonner leur éclat aux fleurs. Le problème, c'est que cette fleur était gardée par les Ombres Errantes, des créatures insidieuses.
+
+Sans hésiter, Ignis accepta d’aider Pépito. Ils s'engagèrent ensemble dans la forêt, à la recherche de la Lumière Originelle. Ils traversèrent des champs de tournesols géants, des prairies de tulipes flamboyantes et des jardins secrets.
+
+Alors qu’ils s’approchaient de l’endroit où la Lumière Originelle était cachée, ils rencontrèrent les Ombres Errantes. Ces créatures, sombres et floues, semblaient absorbées la lumière. Un combat s'engagea. Ignis, utilisant ses paillettes multicolores, créa un barrage de lumière éblouissante, repoussant les Ombres. Pépito, quant à lui, utilisa ses pouvoirs de lutin pour semer la confusion parmi les créatures.
+
+Finalement, ils parvinrent à l'endroit où la Lumière Originelle était cachée. Elle était protégée par une cloche de cristal. Ignis, avec précaution, brisa la cloche. La Lumière Originelle irradia toute la forêt. Immédiatement, les fleurs retrouvèrent leurs couleurs éclatantes et leur lumière vive. Les Ombres Errantes, effrayées par la lumière, s'évanouirent.
+
+Ignis, heureux d'avoir encore une fois accompli sa mission, prit congé de Pépito et quitta la Forêt des Fleurs Lumineuses, son cœur rempli de joie. Il emprunta le portail, un cercle de lumière bleu turquoise, qui menait à sa prochaine aventure.
+
+Cette fois, Ignis visita la Forêt des Rêves Écarlates, une forêt emplie d'arbres aux feuilles rouge sang, où les rêves prenaient vie. Dans cette forêt, il rencontra une jeune fille nommée Léa, qui avait perdu le sourire et ne parvenait plus à rêver. Elle lui expliqua que le voleur de rêves, un être sombre qui se nourrissait des beaux rêves, avait emprisonné tous les rêves les plus précieux.
+
+Ignis comprit immédiatement qu’il devait agir. Avec Léa, il s’aventura dans le labyrinthe des songes, une zone sinueuse où les souvenirs étaient palpables. Il dut faire face à des monstres cauchemardesques et à des illusions complexes. Ignis, armé de sa détermination, de son courage et de sa capacité à cracher des arcs-en-ciel, détruisit les illusions, lutta contre les monstres et finalement, il affronta le voleur de rêves.
+
+Le voleur de rêves était une créature sombre et tordue, avec des yeux qui scintillaient d’une lueur maléfique. Il essaya d'enfermer Ignis dans ses propres cauchemars, mais la bonté du dragon et l’éclat de ses écailles protectrices lui permirent de résister. Ignis répliqua en créant un arc-en-ciel massif qui envahit le voleur de rêves, le faisant s’évanouir, pour toujours.
+
+Les rêves furent libérés, et retournèrent à Léa et aux autres habitants de la forêt. Léa retrouva son sourire et Ignis fut acclamé en héros. Après cet acte héroïque, Ignis rentra chez lui. Il avait voyagé à travers trois magnifiques forêts, chacune pleine de défis et de beauté.
+
+De retour dans son antre, Ignis, fatigué mais heureux, s’allongea sur ses coussins moelleux. Il se remémora les rires des fées, l'éclat des fleurs et l'expression de reconnaissance dans les yeux de Léa. Il savait qu'il y avait d'autres forêts à explorer, d'autres créatures à aider. Et il se promit de toujours partir à l'aventure, avec son cœur plein de joie et ses écailles brillantes comme des rubis, prêt à cracher des arcs-en-ciel de paillettes pour apporter le bonheur dans le monde. La prochaine aventure l'attendait. Et pendant qu’il s’endormait, il rêva des voyages encore plus fantastiques, dans des forêts encore plus merveilleuses, avec des amis encore plus extraordinaires. Les Forêts Éternelles et ses voyages n’étaient qu'un début. Le Dragon Rouge et ses aventures n’étaient pas près de s'arrêter.
+</body>
+```

@@ -1,0 +1,70 @@
+<prompt>
+Please write a dialog-based Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A kertész és a virágok'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>hu</lang_id>
+
+```xml
+<title>A kertész és a virágok</title>
+<body>
+- Jó napot, Kertész bácsi! – kiáltotta Zsófi, ahogy belépett a kapun.
+- Jó napot, Zsófi! Milyen szép nap! Gyere közelebb, nézd meg a virágaimat! – mosolygott Kertész bácsi, egy magas, napsütötte öregember, akinek mindig földszínű volt a kezén.
+
+Zsófi rohant közelebb. A kertész kertje maga volt a csoda: rengeteg színes virág nyílt mindenfelé. Volt ott piros rózsa, kék harangvirág, sárga napraforgó és még sok más, Zsófi által sosem látott virág is.
+
+- Ó, de szépek! Mindig ilyen gyönyörűek? – kérdezte Zsófi, a csodálkozástól tágra nyílt szemekkel.
+- Majdnem mindig. De van, hogy a virágok szomorúak.
+- Szomorúak? Hogy lehet egy virág szomorú? – kérdezte Zsófi értetlenül.
+- Nos, a virágok is érzik a világot. Szeretik a napfényt, a vizet, a társaságot… ha nem kapják meg ezeket, szomorúvá válnak.
+- Tényleg? És mit teszel, hogy ne legyenek szomorúak?
+- Beszélgetek velük, Zsófi. Ez nagyon fontos.
+- Beszélgetsz a virágokkal? – nevetett Zsófi.
+- Igen! Mutatok neked valamit. Gyere! – mondta Kertész bácsi, és elindult a kert egy távolabbi részébe.
+
+Egy magas, keskeny fülkénél állt meg, ahol több, kicsi, kék virág pompázott.
+- Ők a harangvirágjaim – suttogta Kertész bácsi, és lehajolt. – Szeretitek a vizet, ugye? Ma este sokat kaptok majd belőle. Remélem, jól érzitek magatokat itt.
+Zsófi elképedve figyelte a jelenetet. Kertész bácsi olyan kedves hangon beszélt a virágokkal, mintha emberek lennének.
+- Miért beszélsz velük? – kérdezte, amikor visszamentek a napos részre.
+- Mert hallgatnak. Sőt, értik is, amit mondok. Elmondom nekik, hogy fontosak, hogy szépek, hogy vigyázok rájuk.
+- De nem válaszolnak... – motyogta Zsófi.
+- Nem szavakkal, de érzem a válaszaikat. Látod a színeiket? A virágok boldogabbak, amikor én boldog vagyok, amikor gondoskodom róluk.
+- Hmm… – töprengett Zsófi. – Én is szeretem a virágokat. Akkor megpróbálok én is beszélgetni velük!
+- Nagyon jó! Szerintem nagyon fognak örülni. Mondjuk ki mit, például, hogy "Szia, rózsa! Milyen szép vagy!"
+- Oké! – Zsófi közelebb ment egy hatalmas, élénkvörös rózsabokorhoz. – Szia, rózsa! Milyen szép vagy! – kiáltotta, és nagyot kerekedett a szeme a rózsabokor láttán.
+- Látod? Már elkezded érezni! – nevetett Kertész bácsi.
+
+Ettől kezdve minden nap a kertben töltötték az idejüket. Zsófi sokat beszélgetett a virágokkal, dicsérte őket, és Kertész bácsi minden apró titkát megmutatta neki, a talaj összetételétől a kártevők távol tartásának trükkjeiig. Zsófi megtanulta, hogy a virágok is szenvedhetnek, ha valami nem stimmel, és meg kell vizsgálni őket. Egyszer látta, hogy az egyik rózsa lehajtott levelekkel küzködik.
+
+- Kertész bácsi, mi a baj ezzel a rózsával? Szomorúnak tűnik. – kérdezte Zsófi aggódva.
+- Hmm, nézzük meg. – mondta Kertész bácsi, és lehajolt a rózsa felé. Megvizsgálta a leveleit, a szárát, majd a talajt. – Azt hiszem, túl sok a napfény, meg egy kicsit kevés a víz.
+- Mit tegyünk?
+- Vigyázzunk rá. Árnyékosabb helyre teszem, és locsolom gyakrabban. Látod, a virágok sem mind egyformák. Mindnek más az igénye.
+
+Kertész bácsi átültette a rózsát, és innentől kezdve szorgosan gondozta. Zsófi pedig figyelte a virágot. Napról napra jobban lett, a levelei felfrissültek, és ismét pompázóan nyíltak a virágai.
+
+- Látod? – mosolygott Kertész bácsi. – A virágok hálásak a gondoskodásért.
+- És te mindig ilyen jól vigyázol a kertedre? – kérdezte Zsófi.
+- Mindig. Ez a munkám, de ennél több is. Szeretem őket, és ezért teszek meg mindent, hogy jól érezzék magukat. Ha én boldog vagyok, ők is azok.
+- Mi van, ha beteg lesz egy virág? – kérdezte Zsófi, hiszen emberek is betegeskednek.
+- Akkor segíteni kell nekik. Mint az embereknek a doki. Van nekik is egyfajta dokija, aki tudja, mi a bajuk. Vagy megpróbálok én segíteni, levágom a rossz részeket, vagy különleges italt adok nekik.
+- És ha meghal? – kérdezte Zsófi kicsit szomorúan.
+- Sajnos a virágok sem élnek örökké. De addig is gyönyörűek, amíg tart. Emlékszel rájuk. Új virágot ültetek a helyükbe, ami tovább szépíti a kertet.
+- Sajnálom, ha egy meghal… – sóhajtotta Zsófi.
+- Nem baj. Az élet körforgása. Minden elmúlik, de valami mindig helyette jön.
+- Meg fogok próbálni én is vigyázni a virágokra! – határozta el Zsófi. – Kérek egy kis magot, és otthon is ültetek egyet!
+- Örömmel! Melyiket szeretnéd? – kérdezte Kertész bácsi.
+- Szeretnék egy napraforgót! – kiáltotta Zsófi boldogan. – Mindig is csodáltam őket!
+- Rendben van! Nézd, itt van a napraforgó magja. Ültesd a napos helyre, öntözd meg, és beszélgess vele! Hamarosan ki fog hajtani.
+
+Zsófi hazavitte a napraforgó magot, és hatalmas lelkesedéssel ültette el a kertjébe. Mindennap gondozta: öntözte, gyomlálta, és beszélgetett vele. Figyelte, hogyan bújik elő a földből a kis zöld hajtás, majd hogyan növekszik hatalmasra, és végül kibontja a gyönyörű, sárga virágját.
+
+És Zsófi egyre jobban értette, mit jelent a kertészmesterség. A virágok nem csak a szépségükért fontosak. Fontos, hogy valaki vigyázzon rájuk, hogy gondoskodjon róluk, és hogy szeresse őket. Hiszen a szeretet mindent virágba borít! Azóta, ahányszor csak meglátogatta Kertész bácsit, mindig elsuttogott néhány kedves szót a virágoknak, megköszönte a szép látványt, és úgy érezte, hogy ők is mosolyognak rá. A két kertész, az öreg és a kicsi, mindketten egy nagyszerű, illatos kertben élték az életüket, amelyet a virágok varázsa töltött meg.
+</body>
+```

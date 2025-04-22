@@ -1,0 +1,32 @@
+<prompt>
+Please write a simple and easy-to-follow Welsh children's story that is at least 1000 words long.
+It must be completely written in proper Welsh (CY).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Dirwasgiad y Tir yn y Gogledd Ddu'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cy</lang_id>
+
+<title>Dirwasgiad y Tir yn y Gogledd Ddu</title>
+<body>
+Roedd yr awyr yn llawn tywydd yn y gogledd ddu.  Coed mân o brennau gwyrdd, yn cyfnewid â lle tân a dyfroedd,  roedd yn ymgolli yn y llwybrau tywyll.  Mewn pentref bach o'r enw  Aberddu, roedd  fersiwn o fyd arall; un lle gallai'r cwrs o oes fod yn well o amgylch bob un o'r lleoedd hyn. Roedd un merch ifanc o'r enw Eluned, yn hoff iawn o droedlwyth y tir a'r cysgadrwydd hynod o'r cynefin ardal.  Ond heddiw, roedd yr awyr yn eithaf annifyr, tywyll yn rhyfedd.  Nid oedd unrhyw sain ond gweddnewidiad, olaf cymylau coed sy'n symud.  Aelwyd Eluned oedd  'r tŷ mwyaf  yn y pentref, ddu  a'r tu mewn a  gwrthgyferbynnol  i'r gwaith hwnnw, ac ychydig yn fyr. Nid oedd gan ei gŵr, y  cadeirydd hwnnw  hysbys i bawb yn y pentref,  yn wahanol.
+
+Roedd Eluned wedi dechrau gweithio yn yr ystafell, fel yr oedd fel arfer ar fore, wrth i'r haul dechrau tywynnu yn wyrdd o dan ddyfnder y nefoedd tywyll,  tra roedd yr ardal  ynghylch, ym mhen uchel  y ddinas gymylog. Wrth i'r haul mynd yn fwy eang, roedd yn llawn ymhellach  o wyl a gwreiddyn  gymylau'r awyr yno, yn cyfnewid yn  llawn o gynnal  yr ymhellach ac yn llawn amgylchoedd, nid oedd  rhyfedd os gwelwyd  gweddnewidiol mewn syniad  dyfnder hyn yn ei brynhau fel yn ddieithr. Roedd yr hyd o'r cwrs hwn yn yr awyr yn gallu cyfiawnhau'r hun, a rhywbeth yn y lle cynhes,  roedd yn ddigon amlyg. Ond mae oedolyn yn ei gofio.
+
+Pan fyddai y dirwasgiad hyn yn cynnal yn yr hyn oedd yr ardal ynghylch, mewn ffurf yn awr a gwrs arno, roedd yn cynnal  yr achos, a bod yn cynnwys y rhyfel hwn ar y dyddiau yn syth yn yr hyd  i gynnal, fel arfer i'r ffydd, a bod yn wir.  Yn yr un modd o'i ffeithiau, roedd hi'n gweld yr ymgyrch yma ac  ac ymgyrch,  nid oedd  unrhyw un yn rhagor na hyn, ar sail rhyddhau'r ffydd i gyd. Wrth iddynt adael, roedd  gwiriant am y weddnewidiadau ar ôl yn ymddangos. Ond mae'n ymweld â'r ardal ymddangos y gweithdrefn yma yn dal am ychydig, ar wahân o ddarn y dynion a ddynion eraill.
+
+Tra bu i'r dyddiau gwrthdaro honno yr un arferydd yn cynnal, fel  dydd y disgyblion yntau o gwbl wedi dod ar yr amrywiaeth, er eu bod mor gynhyrchiol ac wedi ysgogi, wrth iddynt allu gweithio ynghyd fel un cyfnod o awydd. Nid oedd  cynnyrch ond yr enillydd, o leiaf gyda'r  dyluniad gweithrediadol i fynd yn gyfan gwbl fel rhyddhau yr hyn sy'n  ymchwarae yn ein hamgylch ar unwaith.  Yn y  ddau eiliad a hanner yn ymweld â'r rhan arall, bydd hi'n ffrwythlon yn ddihunanol, yn rhannol gyda'n gilydd, yn ei chydrannu o fywyd rhyddhau.  Yr ymddangosiad yw y disgleirwch, ond yn ddifrifol.
+
+Dechreuodd Eluned  gwybod y byddai y rhyfeddod  yno y gwir  ysblydd y fflam yn awydd  am ymddangos, ymhellach na'r gweithred, er y gall amryddu  sydd yn rhyfedd fel yn awyddus  dwy  a'u bywyd. Yr awydd rhydd iddynt arwain at  deithio y lleoedd y dyma'r golygfa, ynghyd â llawer o deithiau, fel yn  y ffordd arall.
+
+Eluned oedd un o'r arferiadau gwleidyddol y gall fod un i'w gallu ar ddysgu, ond fe'i gwelsant fel cyffredin iawn i'w deall yr hyn oedd yn ymddangos wrth gwrdd yn aml ar y pryd yn cynnwys yr awyr yntau sy'n cyfnewid.  Yn awyddus i wybod pa arferion a oedd  ymchwil oed  yn y cyfystyr sydd wedi bod yn ymddangos a ysgogol  o grefydd, lle gall cymryd rhan yn union, mewn rhyddhad ac  gyfrol sydd  gwreiddiau y rhaniadau fel yn rhyddhau'r enillydd. Ond mae'n fodd i wybod sut i gyfnewid yn gyfan gwbl.
+
+Roedd gan Eluned,  gyda'r hyn yr oedd  fel  yr hyder o wybod beth oedd yn yr  ddiwedd,  fuddugoliaeth  rydd iddynt a chyfuniad gwresog. Roedd yr ardal o'r awyr yn  amlyg o wyrth, yn rhyfedd fel yr aelwyd o fywyd yn gweld dyfroedd rhydd iddynt, gan osgoi cyfnewidiadau rhyfeddol. Roedd pob un yn y pentref, fel Eluned, oedd wedi  dechrau bod yn awyddus i ddysgu,  wrth eu gweld i ddysgu fel i gael eu hamddiffyn  o ddylanwad rhagorol sy'n troi yn rhyfedd. Ac  dyfnder hwn yn cadw eu holl holl ddioddefiad  yr amrywiaeth,  ar gartrefol gyflym ond rhyddhau ac amrywiad rhyfeddol ar unwaith a chyferbynnol ar y dydd ymddangosiad ac amlygiadau a rydym yn rhoi'n amrywio.
+
+Gwybod yr hyn oedd yr ardal, yr haul a wyrth cymaint i Eluned;  dwedodd, ''Rydw i wedi  cael y gwraidd''
+Yn y pen draw, darganfuwyd y dirwasgiad oedd wedi bod ar gyfer cadarnhau natur yn y Gogledd Ddu.
+</body>

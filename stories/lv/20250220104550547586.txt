@@ -1,0 +1,27 @@
+<prompt>
+Please write a creative and original Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Meža zvēru sacensības: kurš būs ātrākais un stiprākais?'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lv</lang_id>
+
+<title>Meža zvēru sacensības: kurš būs ātrākais un stiprākais?</title>
+<body>
+Rudenī, kad lapas kļuva sarkanīgas un zeltainas, un gaiss kļuva vēss, mežā notika neparastas sacensības. Nevis cilvēki, bet meža zvēri – lapsas, zaķi, vāveres, lāči un pat mazas peles – gatavojās sacensībām, kas noteiks, kurš būs ātrākais un stiprākais.
+
+Sacensību organizators bija gudrais vecais ēzelis Ežiks, kam bija rūpīgi izveidotas dažādas trases un izaicinājumi. Pirmajā dienā norisinājās ātruma sacensības.  Lapsa, ar savu veiklo un elastīgo ķermeni, bija pārliecināta par uzvaru.  Bet zaķis, ar savām garajām kājām, lidojoši peldējās pa taku, apdzīvojot mežu ar dvesmas pilnu svilpi un drosmīgu lēkšanu. Vāvere, ar savām spēcīgajām ķepām, bija neticami ātra zaros, pārspējot gan lapsu, gan zaķi.  Pēc sīvas cīņas, uzvarētāja godu ieguva zaķis, kurš ar savām brīnišķīgajām spējām pārspēja visus.
+
+Otrajā dienā bija paredzētas stiprības sacensības. Liels, briesmīgs akmens, pārklāts ar aļģēm un sūnajām lapām, bija jāpārvieto uz citu vietu. Lācis, ar savu milzīgo spēku, bija pārliecināts par uzvaru. Bet cīnījās arī vāvere, kas ar savām mazajām, bet spēcīgajām ķepām centās visiem spēkiem pārvietot akmeni, ietverot to spēcīgi zemē. Viņas mazā ķermenī slēpās neticams spēks. Pēc ilgas cīņas, ar lāča milzīgo spēku, uzvaras smaidu uz sejas ievāca lācis, parādot visu savu spēku un izmēru.
+
+Trešajā dienā, norisinājās inteliģences sacensības. Ežiks bija izvietojis sarežģītus uzdevumus, kas prasīja gudrību un vērīgumu.  Vāvere, ar savu asprātību, bija ļoti gudra un spēja rast risinājumu visiem uzdevumiem, un iekaroja visus uzdevumus ar neticamu ātrumu un prasmi.  Lapsa, kam iepriekš bija bijusi panākta ātrumā, šajā brīdī bija spiesta atzīt savu gudrības trūkumu.  Arī zaķis, ar savu ātrumu un uzmanību, tiecās uzdevumu risinājumiem.  Pēc ilgām un sarežģītām cīņām, uzvaru ieguva vāvere, parādot neticamu gudrību un radošumu.
+
+Visbeidzot, visām meža zvēriem bija jāapvienojas, lai pārvarētu pēdējo izaicinājumu – uzcelt tiltu pār strauju upi. Katrs zvērs devās uz savu iecerēto uzdevumu, katrs izrādot savu spēku un gudrību. Lācis, ar savu milzīgo spēku, pārvietoja akmeņus, lapsa, ar savu veiklību, salika zarus, vāvere, ar savām spēcīgajām ķepām, izveidoja tilta balstiekārtas, un zaķis, ar savu ātrumu un izpratni, pārliecinājās par katras daļas drošību.
+
+Un tā, apvienojoties, meža zvēri veiksmīgi uzcēla tiltu.  Visi saprata, ka spēks, gudrība un ātrums, apvienojoties, var panākt neticamus rezultātus.  Pēc tam katrs meža zvērs atgriezās savā mājā, ar atceri par neaizmirstamajām sacensībām.  Ežiks, ar savām gudrām acīm, novēroja tos visus un zināja, ka šīs sacensības būs leģenda uz visiem laikiem.  Pēc tam notika svētki, kurā tika svinēti visi meža zvēri. Katrs zvērs saņēma balvu, kas atbilstoši atklāja katra zvēra unikalitāti un ieskats. Tās sacensības bija vairāk par uzvaru – tās bija par draudzību, spēku un meža dvēseles apvienošanos.
+</body>

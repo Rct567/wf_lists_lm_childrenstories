@@ -1,0 +1,67 @@
+<prompt>
+Please write a timeless Scottish Gaelic children's story that is at least 1000 words long.
+It must be completely written in proper Scottish Gaelic (GD).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>gd</lang_id>
+
+<title>An Ròs Bòidheach agus an Tìgear Òir</title><body>
+Bha uair ann am Beinn-Fhlaioch, àite far an robh na beanntan ag èirigh gu h-àrd chun na speuran, agus na lochan a’ sgàthanachadh na craobhan. An sin, ann am meadhan coille uaine, dh'fhàs ròs cho bòidheach is gum biodh e a' cumail grèin bhon ghàrradh. B’ e ròs dearga a bh’ ann, le peatalan cho bog is gum faigheadh tu aithreachas gun lorg thu fear, agus fàile fìnealta a lìonadh an èadhar.
+
+Bu bhuin an ròs do nighean bheag, Mairead, aig an robh falt donn mar dhubh-dhubh na h-oidhche agus sùilean gorm mar an loch. Bha Mairead gu tric a’ cluich timcheall an ròis, a’ bruidhinn ris, agus a’ gabhail a gàirdean timcheall a’ ghàrraidh. Bha Mairead a’ creidsinn gur e draoidheachd a bh’ ann am ròs, agus gum biodh an ròs a’ freagairt dìomhaireachdan a cridhe.
+
+Aon latha, nuair a bha Mairead a’ cluich faisg air an ròis mar a b’ àbhaist, thàinig tìgear òir a-mach às a’ choille. Bha am tìgear iongantach, le fionn furasta agus sùilean lìomhach mar òr. Bha e cho mòr is gum biodh a chorp gu lèir a’ lasadh ann an grian. Bha e a’ coimhead air Mairead agus an ròs, le iongnadh air a shùilean.
+
+B’ e tìgear òir sònraichte a bh’ ann, fear a bha a’ dìon na coille gu lèir. Bha e a’ faireachdainn maighstireachd air an fhlùr àlainn, ach bha e cuideachd a’ faireachdainn aithreachas nach b’ urrainn dha a bhuidheachas a nochdadh.
+
+“Cò thu?” dh’fhaighnich Mairead, a guth beag fhathast fhathast fìor dhìreach.
+
+“Is mise an tìgear òir," fhreagair am tìgear, "agus tha mi a’ dìon na coille. Ach tha mi air m’ inntinn a ghoid leis an ròs bòidheach seo. Tha e cho brèagha!”
+
+Choimhead Mairead air an tìgear le iongnadh, oir cha do chunnaic i tìgear òir a-riamh roimhe. “Tha an ròs agam," thuirt i gu faiceallach, “agus is toigh leam e glè mhath."
+
+“Tha mi ga fhaicinn,” thuirt an tìgear, a’ cromadh a cheann ann an osna. “An urrainn dhomh a bhith eòlach air?"
+
+Bha Mairead a’ faireachdainn coibhneas anns an tìgear. “Bha," thuirt i, “ach innis dhomh, ciamar a ghabhas sinn eòlach ri chèile?"
+
+“Dh’ fhaodadh sinn bruidhinn," fhreagair an tìgear. “An cànain agadsa agus mo chànain-sa, agus gheibh sinn eòlas air an t-saoghal a chèile."
+
+Dh’aontaich Mairead gu toilichte. Suidhidh i air an fheur uaine, agus thòisich iad a’ bruidhinn. Dh’innis Mairead dha mu na geamannan aice, na sgeulachdan aice, agus na aislingean aice. Dh’innis an tìgear dhi mu na dìomhaireachdan aige, mu na craobhan àrda, na h-eòin a’ seinn, agus na rionnagan san adhar. Cho fad ‘s a bhruidhinn iad, thòisich an t-eagal a’ falbh.
+
+“Ciamar a tha thu?” dh’fhaighnich Mairead. “Ciamar a gheibh thu an latha?”
+
+“Bidh mi a’ coimhead air a’ choille gu lèir," fhreagair an tìgear. “Bidh mi a’ seòladh nan gleann agus a’ mothachadh gu bheil a h-uile beathach sàbhailte. Bidh mi a’ gabhail a-steach bòidhchead an t-saoghail."
+
+Thòisich iad air caraid a chruthachadh. Bha Mairead a’ tighinn don ròs gach latha, agus bha an tìgear a’ tighinn còmhla rithe. Bha iad a’ cluich, ag èisteachd ri sgeulachdan, agus a’ roinn dìomhaireachdan. Bha Mairead a’ cur a h-uisgean air an ròis, agus bha an tìgear a’ moladh a’ chiùil choinnte am flùr.
+
+Aon latha, thàinig stoirm mhòr. Bha a’ ghaoth a’ sèideadh gu cruaidh, agus bha an t-uisge a’ dòrtadh sìos. Bha e gu math eagallach. Bha Mairead a’ gabhail truas leis an ròs, a bha a’ tuiteam sìos anns an t-sruth.
+
+“Feumaidh sinn an ròs a dhìon,” thuirt Mairead.
+
+Ruith iad còmhla chun an ròis. Bha na peatalan aige a’ fàs fliuch agus bha e a’ coimhead gu math lag. Bha an tìgear a’ lorg àite sàbhailte airson an ròis agus a’ chuirpichte iad. Lorg e creig mhòr fon choibhneas, agus tharraing e an ròs an sin. An uair sin, dh’fhan e gus an tig e uaine.
+
+“Cumaidh mi thu sàbhailte,” thuirt an tìgear.
+
+Sheas am tìgear ri taobh an ròis, a’ dìon e bhon ghaoith agus bhon uisge. Bha Mairead a’ coimhead air gu h-iongantach, a cridhe làn de ghaol agus de dhìlseachd.
+
+Nuair a sguir an stoirm, bha an ròs fhathast ann. Bha e beagan air a sgrios, ach bha e fhathast a’ seasamh. Bha Mairead agus an tìgear cho toilichte.
+
+“Tha thu gu math treun,” thuirt Mairead ris an tìgear.
+
+“Tha thu cuideachd,” fhreagair an tìgear. “Bha thu treun a’ tighinn a-mach sa ghaoth agus san uisge."
+
+Bho sin a-mach, dh’fhàs am bòidhchead aig an ròis. Bha Mairead agus an tìgear eòlach ri chèile, agus bha iad a’ fuireach mar charaidean fad am beatha. Bha an ròs dearga an-còmhnaidh a’ seasamh, mar shamhla air an càirdeas gun chrìoch.
+
+Chunnaic Mairead an tìgear nas trice agus thuig i gu robh e fìor mhath 'na cridhe. Bha e a’ seòladh na coille fad na h-ùine, agus bha e an-còmhnaidh eòlach air a h-uile rud. Thug am tìgear gràdh còmhla ri Mairead agus an ròs mar dhachaigh.
+
+Bha an fheadhainn dhà a’ gabhail tlachd anns a h-uile latha còmhla, agus an ròs a’ fàs nas sine agus nas bòidhche. Dh’ionnsaich iad gu robh a’ chruinneachadh-sa tìgear òir na chridhe, ag obair gus an deagh-fhortan a dhèanamh foirfe. Bha Mairead a’ tuigsinn gur e tìgear òir mòr a bh’ ann, ach b’ e tìgear òir glanach a bh’ ann cuideachd.
+
+Mar a chaidh na bliadhnaichean seachad, cha robh an t-eagal air Mairead a-riamh. Chaidh a sùilean a làn le gàirdeachas nuair a choinnich i ri tìgear òir. Bha fios aice an-còmhnaidh gum biodh e ann, a’ coimhead oirre le gaol agus le earbsa.
+
+Agus mar sin, bha an ròs, an nighean, agus an tìgear a’ fuireach còmhla, gu toilichte, ann an Beinn-Fhlaioch, gus an latha an-diugh. Bha an ròs an-còmhnaidh a’ flùrachadh, a’ nochdadh dìlseachd agus uilethìr. Air an oidhche, dh’èirich an tìgear òir, agus b’ e sealladh eireachdail a bh’ ann. Agus Mairead, mhothaich i an-còmhnaidh an draoidheachd sin, gu leòr gu taigh agus gu saoghal.
+</body>

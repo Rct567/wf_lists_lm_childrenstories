@@ -1,0 +1,47 @@
+<prompt>
+Please write a silly Swahili children's story that is at least 1000 words long.
+It must be completely written in proper Swahili (SW).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Simba aliye na Moyo wa Dhahabu'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sw</lang_id>
+
+<title>Simba aliye na Moyo wa Dhahabu</title>
+<body>
+Simba mdogo, jina lake Faraja, alikuwa na tatizo kubwa.  Alikuwa na moyo mkubwa, mkubwa mno, lakini ulikuwa mwekundu kama nyanya iliyokomaa sana, si dhahabu kama wenzake walivyokuwa.  Simba wengine walipenda kuonyesha meno yao meupe, yenye kung'aa, wakipiga kelele za kutisha, wakionyesha jinsi walivyo hodari.  Faraja, kwa upande mwingine, alikuwa na tabasamu pana, pana kama mto wa maji, na sauti yake ilikuwa kama paka akizungumza.  Hawakupenda hilo.
+
+Siku moja, kundi kubwa la wanyama wa porini walikuwa wamekusanyika chini ya mti mrefu wa mbuyu.  Walikuwa wanasubiri kwa hamu kuona malkia mpya wa wanyama wote.  Faraja alikuwa amejificha nyuma ya kichaka, akitetemeka kwa woga.  Alijua kwamba alikuwa tofauti.
+
+"Nimeona mnyama mkuu," alisema Tembo mkubwa, meno yake yakizunguka-zunguka kama vilima vya mlima.  "Mnyama huyu atakuwa mkuu!"
+
+"Mimi nimesikia kelele za kutisha," alisema Chui aliye na manyoya meusi kama usiku.  "Sauti ya shujaa wa kweli!"
+
+Faraja alijificha zaidi, machozi yakimtiririka mashavuni.  Aliota ndoto ya kupendwa, ya kuheshimiwa, lakini hakujua kama hilo lingetokea.
+
+Wakati huo, aliona nyuki mkubwa akielekea kuelekea kwenye chungu chake. Nyuki huyo alikuwa na macho mawili makubwa, meusi kama makaa ya moto. Alikuwa na hasira kali.  Nyuki huyo alikuwa na tatizo kubwa. Alikuwa amepoteza mtoto wake.
+
+Kila mnyama alikuwa busy na kile kinachoendelea, isipokuwa Faraja.  Faraja alitoka nyuma ya kichaka.  "Nipeni msaada!" alisema, sauti yake ilikuwa na huruma kubwa.
+
+Nyuki huyo alizungumza, lakini hakuwa na sauti. Aliinua mkono wake, akionyesha mtoto wake aliyekuwa ameanguka chini.
+
+Faraja, bila woga, alikwenda kumsaidia nyuki.  Aliangalia kwa makini, na akagundua kuwa mtoto huyo alikuwa amejeruhiwa.  Alijua nini cha kufanya.
+
+Alipapasa mimea ya karibu, akichagua majani yenye afya, akayafanyia kazi ili kuponya. Nyuki huyo alionekana kufahamu na kuona huruma katika moyo wa Faraja.
+
+Alipomaliza, Faraja alichukua mtoto wa nyuki na kumwekea kwenye chombo ambacho nyuki alikuwa akilitumia.
+
+"Samahani sana," alisema Faraja, akitumaini nyuki hawezi kuona moyo wake mwekundu.
+
+Nyuki huyo alitikisa mbawa zake. Aliruka juu na kuondoka.  Hakuwa na haja ya kuonyesha meno, alielewa kwamba moyo mwema ni kitu cha thamani zaidi.
+
+Mara moja, wanyama walianza kuongea juu ya Faraja. Walimwona kama mkuu wa kweli.  Waligundua kwamba moyo wa dhahabu haukuonekana kwa macho, lakini ulikuwa ndani ya roho.  Hawakuwa wanatafuta meno meusi au sauti ya kutisha. Walikuwa wanatafuta moyo mwema, na Faraja alikuwa nayo.
+
+Akawa Malkia wa wanyama wote, si kwa nguvu, bali kwa upole wake na moyo wake mkuu.  Alifanya sheria za haki na huruma kwa kila mnyama.  Wanyama wote walimheshimu, sio kwa vile alikuwa mfalme, bali kwa vile alikuwa mwalimu mwema.
+
+Faraja aliendelea kuishi maisha ya furaha.  Alikuwa mfano kwa wanyama wote, akiwaonyesha kwamba moyo mwema na wema ni nguvu kubwa kuliko nguvu zozote za kimwili.  Alipenda kucheka na kutabasamu, akionyesha moyo wake mwekundu, ambao sasa uliangaza kama dhahabu, kwani ulimleta furaha kwa wanyama wote.  Na kila siku alikuwa na hakika kwamba kuwa wema na mkarimu ni njia pekee ya kufurahia maisha.
+</body>

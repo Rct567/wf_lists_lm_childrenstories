@@ -1,0 +1,55 @@
+<prompt>
+Please write a silly Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Magicus Liber et Verba Quae Vivunt'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>la</lang_id>
+
+<title>Magicus Liber et Verba Quae Vivunt</title>
+<body>
+In oppido parvo, iuxta flumen scintillantem, erat librarius nomine Flavius.  Non erat librarius communis;  is erat librarius magicus,  cum manu sagaci et corde diligenti.  In taberna sua, plena voluminum antiquorum et chartae flavae, habebat librum specialem, librum magicum.  Is erat textus intricatus, plenum verbis quae vivebant, et imagine animantis insignis.  Hoc erat Liber Quae Vivunt, vel "Liber Vitai."
+
+Unus dies, puer parvus, nomine Maximus,  in taberna Flavii  adventus est.  Maximus, cum oculis caeruleis et capillis flavis,  erat puer curiosus, semperque peritus rerum.  "Domine Flavii," inquit, "vidi Librum Vitae.  Dic mihi,  quid potest? Estne aliquis potentia?"
+
+"Puer curiosus,"  respondit Flavius placidus, "verba eius possunt fabulas conficere.  Et in terra, quae illa verba dicuntur, possunt mirabilia fieri."
+
+Maximus audivit, et oculi eius scintillant.  "Scripta haec sunt peritura?" rogavit.
+
+"Non, puer," inquit Flavius, "non omnes verbis pereunt.  Verba quae vivunt, a corde exire possunt, et agere in mundum, etiam postquam manibus non plus scribuntur."
+
+Maximus avidus cogitavit de possibilitate haec vera esse.  "Domine Flavii," exclamavit, "mitte mihi specimen."
+
+Flavius, cum risu, iussit Maximum sequi in subterranea angulo in taberna sua.  Ibi, in armario antiquo et secreto, Liber Vitae tenebatur.  Flavius  pagine eius aperuit, et digitis subtiliter inscriptiones carmines elegit.
+
+"Lege hoc, Maximus,"  inquit.
+
+Maximus, cum labore, litteras legit.  Verba haec sonabant: "In monte aequoreo, habitat pluma aurea.  Per eam venies ad ornatum hortum."
+
+Maximus exclamavit.  "Hortos!"  inquies.
+
+Flavius movit caput et risit. "Non omnes hortorum typi sunt tam facile accedunt."
+
+Maximus, cum animo magno, Liber Vitae, in locum designavit.  Per flumen scintillavit.   "Adsunt ad hoc montem." dixit.  Clamavit.
+
+In monte arduissimo,  invenit Maximus plumam auream.  Pluma haec erat magnifica et praeclarus, ut solis radii in aere movere viderentur.  Sequutus eam est, et in parvam vallem exstitit, ubi erat hortus formosus et mirabilia.  Flos rubri splendorem, et rosa, purpureo colore radiantes.  Quamlibet avis quae habuit pinnas clarissimi; et omnes in floribus gaudebant.  In medio, fons sonuit; et aquae clarissimae, lucentium guttarum in aere suspendit.
+
+Maximus, ex admiratione eius orbis, nonne vidit fabulas vivaes verbis adspectuari.
+
+Sed nihil hortis perpetuo manebat.  Et maxime delectamentum huius rei est quam in mente eius manere posset.  
+
+Cum hora egressa est et sol occasum accepit. Maximus, corde pleno,  reversus est ad tabernam.
+
+"Domine Flavii," inquit, "vera est ista magia!"
+
+Flavius placida respondet: "Magia verba viva sunt, in corde habitanti, manent semper in memoria.  Non est in arte rei quae invenietur.   Magia in ipso esse vestro, et adhibita opera in mundo vestro est."
+
+"Vale," inquit Maximus, "iam veras tibi. Ita et vos qui legitis haec miracula quae viva erant verba."
+
+Maximus in suis diebus adhuc quaerere aditum ad hunc librum. Quia omnes qui intelligere conantur, aliquamdem partem horti magni et speciosis ac pulchritudinis in se retinent.
+</body>

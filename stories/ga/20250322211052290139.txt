@@ -1,0 +1,91 @@
+<prompt>
+Please write a dialog-based Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'An Sráid Órtha sa Scéalta Scotha'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>ga</lang_id>
+
+```xml
+<title>An Sráid Órtha sa Scéalta Scotha</title>
+<body>
+Bhí Éireannaigh beaga, Aibhistín agus Saoirse, ina gcónaí i mbaile beag gleoite ar an gcósta, Barr na hAille. Bhí sé ina áit iontach chun cónaí ann, le farraige gorm ag lonrú agus féara glas ar na cnoic máguaird. Lá amháin, agus iad ag imirt ar an trá, chonaic siad seanfhear ag siúl aníos, ag breathnú an-bhrónach.
+ 
+“Dia dhaoibh,” a dúirt sé le guth crithreach. “An bhfaca sibh riamh aon rud chomh brónach le mise?”
+ 
+D'fhéach Aibhistín agus Saoirse ar a chéile, agus ansin ar an seanfhear. Bhí a chuid éadaí caite agus bhí a shúile dearg.
+ 
+“Ní fhaca,” a dúirt Aibhistín. “Cad atá cearr, a sheanfhir?”
+ 
+“Tá mé caillte,” a dúirt an seanfhear. “Caillte go deo. Táim ag lorg Sráid Órtha.”
+ 
+“Sráid Órtha?” a d'fhiafraigh Saoirse. “Níor chuala mé trácht ar a leithéid riamh. Cá bhfuil sí?”
+ 
+“Tá sí, a leanaí, i Scéalta Scotha,” a dúirt an seanfhear. “Áit draíochta is ea í, áit ina mbíonn gach rud foirfe. Bhí mé ag cónaí ann nuair a bhí mé óg, ach chaill mé í nuair a d'fhág mé. Agus anois, níl a fhios agam conas dul ar ais.”
+ 
+D'fhéach Aibhistín agus Saoirse ar a chéile arís. Bhí an scéal aisteach, ach bhí an seanfhear chomh brónach, gur mhothaigh siad trua dó.
+ 
+“Ba mhaith linn cabhrú leat,” a dúirt Aibhistín go cúramach. “Ach níl a fhios againn cá bhfuil Scéalta Scotha.”
+ 
+“Caithfidh tú dul ar thóir,” a dúirt an seanfhear. “Téigh thar an gcnoic ghlasa, trasna an abhann mhóir, agus síos trí choill dorcha. Tá cosán ann, agus má leanann tú an cosán, treoróidh sé tú.”
+ 
+Thug Aibhistín agus Saoirse sracfhéachaint ar a chéile. Ní raibh sé seo ina dteagmháil leo de ghnáth, ach mhothaigh siad go gcaithfidh siad é seo a dhéanamh.
+ 
+“Go maith,” a dúirt Saoirse. “Tabharfaimid cabhair duit.”
+ 
+Agus amhlaidh a chuaigh siad ar a dturas. Chruinnigh siad bia agus uisce, agus d’fhág siad Barr na hAille. Chuaigh siad thar an gcnoic ghlasa, agus trasna an abhann mhóir, áit a bhfaca siad bradáin ag léim. Ansin, chuaigh siad isteach sa choill dorcha. Bhí an choill dorcha agus eagla ar Aibhistín agus Saoirse, ach lean siad ar aghaidh. Bhí a ngabhar chomh maith lena gcroí.
+ 
+“An bhfaca tú an cosán?” a d'fhiafraigh Saoirse, ag féachaint thart.
+ 
+“Níor fheic mé,” a dúirt Aibhistín. “Ach bíodh foighne againn. Beidh sé ann.”
+ 
+Agus, díreach mar a dúirt sé, fuair siad an cosán. Bhí sé caol agus cúng, ach bhí sé ann. Lean siad an cosán, ag siúl ar feadh uaireanta fada. Thrasnaigh siad droichid bheaga, agus chonaic siad éin ag canadh. D'éirigh an ghrian íseal ar an spéir, agus thosaigh sé ag dorchú. Bhí an dorchadas ag cur eagla orthu, ach lean siad orthu ag siúl.
+ 
+“Tá mé tuirseach,” a dúirt Aibhistín. “Agus ocras orm freisin.”
+ 
+“Beimid go maith,” a dúirt Saoirse. “Níl ann ach beagán eile. Creidim gur chóir dúinn a bheith in ann fáil amach anseo go luath.”
+ 
+Tar éis tamaill fhada, chonaic siad solas i bhfad uathu. D'éirigh siad aníos. Bhí an solas ag soilsiú cosáin.
+ 
+“Féach!” a dúirt Saoirse, ag tarraingt Aibhistín léi. “Tá rud éigin ann!”
+ 
+D’imigh siad níos gaire agus níos gaire. Bhí an solas ag éirí níos gile. Ansin, tháinig siad ar ghleann. Agus istigh sa ghleann, chonaic siad… Sráid. Sráid iontach, álainn.
+ 
+Bhí na tithe ar an tsráid daite le dathanna geala, agus bhí bláthanna ag fás i ngach áit. Bhí daoine ag siúl síos an tsráid, ag gáire agus ag comhrá. Bhí cumhráin bláthanna ag líonadh an aeir. Ba é an áit ba bhreátha a bhfaca siad riamh.
+ 
+“Seo é!” a dúirt Aibhistín. “Seo Sráid Órtha!”
+ 
+D’fhéach siad timpeall, ach ní raibh an seanfhear ann. Ach go tobann, chonaic siad figiúr ag siúl i dtreo iad. Nuair a tháinig an figiúr níos gaire, d’aithníodar é: bhí sé ina seanfhear! Ach ní raibh sé brónach a thuilleadh. Bhí aoibh gháire air, agus bhí a shúile ag lonrú le háthas.
+ 
+“Is sibhse!” a dúirt sé. “D'éirigh libh teacht anseo. Is sibh croíúil.”
+ 
+“Is éard é sin, táimse ag fiafraí,” a dúirt Aibhistín. “An bhfuil tú sásta anois?”
+ 
+“Níl,” a dúirt an seanfhear. “An-sásta, is ea. Ní raibh mé sásta le blianta fada. Tá mo chroí iomlán arís, agus bhí sé iontach.”
+ 
+“Conas a bhí sibh caillte?” a d’fhiafraigh Saoirse.
+ 
+“Chaill mé an draíocht,” a dúirt sé. “Chaill mé an dóchas. Ach bhí sibh chun cabhrú liom teacht ar ais. Go raibh maith agaibh!”
+ 
+D'fhan Aibhistín agus Saoirse le chéile leis an seanfhear i Sráid Órtha ar feadh lá. D'ith siad bianna blasta, d'imir siad le páistí eile, agus chonaic siad go leor rudaí iontacha. Nuair a d'imigh siad, bhí a gcroí ag síorgháire. Thosaigh siad ag ullmhú chun an bealach ar ais a dhéanamh, ag iarraidh bealach a fháil chuig Barr na hAille.
+ 
+“An gcaithfidh muid imeacht anois?” a d'fhiafraigh Aibhistín.
+ 
+“Tá,” a dúirt an seanfhear. “Caithfidh sibh dul ar ais. Ach beidh anseo, i gcónaí, istigh i bhur gcroí. Bheas an dóchas ann anois.”
+ 
+Bhailigh Aibhistín agus Saoirse a gcuid rudaí. Thug an seanfhear póg orthu gach duine. D'imigh siad anonn i Sráid Órtha. Bhí siad ar an gcosán, ag siúl tríd an choill dorcha arís. Agus ar an mbealach ar ais, thuig siad gur fhoghlaim siad rud éigin an-tábhachtach. D'fhoghlaim siad gur féidir le cairdeas agus le grá an draíocht a aimsiú i gcónaí, agus nach mbeidh sé deacair an dóchas a choinneáil, má thacaíonn sibh lena chéile.
+ 
+Tar éis tamaill fhada, tháinig siad ar ais chuig Barr na hAille. D'fhéach siad ar an trá, agus d'fheic siad an fharraige gorm. Agus bhí siad sásta go mór go raibh siad sa bhaile arís.
+ 
+Thug Aibhistín agus Saoirse scéal Sráid Órtha do gach duine sa bhaile. Níor chreid cuid acu iad, ach d'éist daoine eile. Bhí gach duine sásta, agus bhí an pobal ar fad an-sásta le fios Sráid Órtha.
+ 
+Bhí aithne acu anois ar chumhacht na cairdeas. D'fhan Aibhistín agus Saoirse ina gcónaí i mBarr na hAille ar feadh a saoil, agus chuaigh siad ar ais go Sráid Órtha go minic. Chabhraigh siad le daoine eile a chuaigh caillte, agus thuig siad gur féidir le gach duine teacht ar a mbealach féin arís, má tá an dóchas acu. Agus d’éirigh go maith leis an seanfhear i gcónaí, ag fanacht in Sráid Órtha, agus ag guí gach lá go dtiocfadh na páistí beaga, Aibhistín agus Saoirse, ar ais arís. D'fhan an seanfhear i Sráid Órtha, agus bhí sé ag súil go mór leis an lá go dtiocfadh siad ar ais. Agus tháinig siad ar ais.
+ 
+Agus tá an scéal sin, agus an draíocht ina mbun, le haghaidh go deo.
+</body>
+```

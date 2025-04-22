@@ -1,0 +1,73 @@
+<prompt>
+Please write a simple and easy-to-follow Portuguese (Portugal) children's story that is at least 1000 words long.
+It must be completely written in proper Portuguese (Portugal) (PT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'O Farol Iluminado e o Guia dos Navios Perdidos.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pt</lang_id>
+
+```xml
+<title>O Farol Iluminado e o Guia dos Navios Perdidos.</title><body>
+
+Era uma vez, numa costa portuguesa, um farol muito alto e branquinho. Chamava-se Farol do Sol Nascente. Ele vivia no cimo de uma colina, mesmo à beira-mar, e a sua principal missão era guiar os navios que navegavam nas águas escuras da noite.
+
+O Farol do Sol Nascente era especial. Tinha uma luz muito forte, mais forte que qualquer outro farol da região. Essa luz brilhava como uma estrela, mesmo com chuva e nevoeiro, e podia ser vista a quilómetros de distância.
+
+No topo do farol, morava o Sr. Manuel, o faroleiro. O Sr. Manuel era um homem velho, com uma barba comprida e branca como a neve, e uns olhos azuis que pareciam o mar. Ele era o guardião da luz, e passava os dias a polir os vidros e a cuidar das lâmpadas, para que a luz do farol estivesse sempre forte e pronta para ajudar.
+
+Todas as noites, quando o sol se punha e as estrelas começavam a brilhar, o Sr. Manuel acendia a luz do farol. A luz rodava, rodava, iluminando o mar e alertando os marinheiros dos perigos.
+
+"Boa noite, meu amigo farol!", dizia o Sr. Manuel todas as noites. "Vamos iluminar o caminho, para que os navios cheguem em segurança aos seus destinos!"
+
+Um dia, uma tempestade terrível abateu-se sobre a costa. O vento uivava, as ondas batiam com força nas rochas, e a chuva caía torrencialmente. O nevoeiro era tão denso que se podia cortar com uma faca.
+
+O Sr. Manuel olhava pela janela do farol, com o coração nas mãos. Sabia que, com aquela tempestade, muitos navios podiam estar em perigo. Ele ligou a luz do farol com ainda mais intensidade, desejando que a sua luz conseguisse penetrar no nevoeiro e guiar os marinheiros.
+
+Nessa noite, um navio chamado "Estrela do Mar" estava perdido em meio à tempestade. A tripulação, assustada, lutava para manter o navio a flutuar. O capitão, um homem experiente, mas cansado, não conseguia ver nada. O nevoeiro era espesso e a tempestade era implacável.
+
+"Precisamos de ajuda!", gritou o capitão. "Se não encontrarmos uma orientação, vamos afundar!"
+
+De repente, através do nevoeiro, eles avistaram uma luz. Era uma luz forte, brilhante e que parecia indicar um caminho seguro.
+
+"Um farol!", exclamou um dos marinheiros. "Temos de seguir a luz do farol!"
+
+O capitão, cheio de esperança, virou o navio na direção da luz. Com muito esforço, a tripulação conseguiu orientar o "Estrela do Mar" na direção correta. Lentamente, muito lentamente, eles começaram a sentir que a tempestade se amansava.
+
+Finalmente, depois de horas de luta, o "Estrela do Mar" chegou em segurança à baía, protegido pelo farol. Os marinheiros, aliviados e agradecidos, suspiraram de alívio.
+
+Na manhã seguinte, a tempestade passou. O sol voltou a brilhar e o mar estava calmo. O Sr. Manuel, lá no farol, via o "Estrela do Mar" ancorado na baía e sorriu. Ele sabia que a sua luz tinha salvado aqueles marinheiros.
+
+Com o passar dos dias, a fama do Farol do Sol Nascente espalhou-se por toda a costa. Todos os marinheiros o conheciam e sabiam que a sua luz era um guia seguro. Eles diziam que o farol era como um amigo, que os protegia e os guiava em segurança.
+
+Um dia, chegou ao farol um rapazinho chamado Pedro. O Pedro era muito curioso e adorava ouvir as histórias do Sr. Manuel sobre o mar e os navios. O Sr. Manuel recebeu-o com um sorriso e convidou-o a entrar.
+
+"Olá, Pedro!", disse o Sr. Manuel. "O que te traz aqui hoje?"
+
+"Olá, Sr. Manuel!", respondeu o Pedro. "Eu queria saber tudo sobre o farol. Como funciona? Porque é tão importante?"
+
+O Sr. Manuel explicou ao Pedro tudo sobre o farol, desde as engrenagens que faziam a luz rodar até ao cuidado que era necessário para manter a luz sempre forte.
+
+"O farol é muito mais do que uma luz, Pedro", explicou o Sr. Manuel. "É um guia, um amigo, uma esperança para todos os que navegam no mar. É um sinal de que existe um porto seguro, um lugar para voltar para casa."
+
+O Pedro escutou atentamente, fascinado pelas palavras do Sr. Manuel. Ele prometeu que, quando crescesse, também queria ser faroleiro e ajudar a guiar os navios perdidos.
+
+Os anos passaram e o Pedro cresceu, sempre visitando o Sr. Manuel no farol. Aprendeu tudo sobre faróis, sobre o mar e sobre a importância de ser um bom amigo.
+
+Um dia, o Sr. Manuel, já muito idoso, disse ao Pedro: "Meu rapaz, chegou a hora de passares o testemunho. É altura de cuidares do farol. Tens o coração certo, e és um bom rapaz."
+
+O Pedro, com um nó na garganta, aceitou a responsabilidade. Prometeu que cuidaria do farol com a mesma dedicação e carinho que o Sr. Manuel sempre tinha demonstrado.
+
+E assim, o Pedro tornou-se o novo faroleiro do Farol do Sol Nascente. Continuou a iluminar o caminho para os navios perdidos, com a mesma luz forte e brilhante. Ele contava histórias aos marinheiros, confortando-os e alegrando-os, tal como o Sr. Manuel fazia.
+
+O Farol do Sol Nascente continuou a ser o guia dos navios, sempre presente na costa, com a sua luz a brilhar no céu, como uma estrela, indicando o caminho seguro de volta para casa. E a história do farol, do Sr. Manuel e do Pedro, passou de geração em geração, um conto de luz, de amizade e de esperança.
+
+E mesmo hoje, se ouvirem atentamente o vento na costa portuguesa, ainda podem ouvir a doce melodia da luz do farol, a sussurrar: "Estou aqui. Estão em segurança. Eu sou o vosso guia..."
+
+Fim.
+</body>
+```

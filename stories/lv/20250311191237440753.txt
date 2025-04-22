@@ -1,0 +1,69 @@
+<prompt>
+Please write a silly Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Mīļais lācītis, kurš atrada pazudušu cimdiņu un palīdzēja atrast īsto saimnieku.'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>lv</lang_id>
+
+<title>Mīļais lācītis, kurš atrada pazudušu cimdiņu un palīdzēja atrast īsto saimnieku.</title>
+<body>
+Reiz dzīvoja mīļš un pūkains lācītis vārdā Pūks. Pūks dzīvoja mazā, jaukā mājiņā meža vidū, kur blakus burbuļoja strautiņš un apkārt auga paši gardākie mellenāji. Pūks ļoti mīlēja mellenes, tāpēc katru dienu viņš devās mellenēs.
+
+Kādā skaistā, saulainā rītā, kad Pūks bija jau sarunājis savām mellenēm "Labrīt, mīļās mellenes!", dodoties uz savu iecienīto melleņu lauciņu, viņš atrada kaut ko pavisam neparastu. Uz zaļās zāles, tieši zem lielā ozola, gulēja… cimdiņš! Bet ne jau parasts cimdiņš – tas bija sarkanā krāsā, ar baltiem punktiņiem un ar mazu, smaidīgu sunīti izšūtu uz rokas daļas.
+
+Pūkam pat prātā nenāca iet garām šādai skaistai atradnei! Viņš uzmanīgi pacēla cimdiņu un sāka to apskatīt. "Hmmm," nodomāja Pūks, "šis ir ļoti jauks cimdiņš. Žēl, ka tas ir viens pats. Noteikti kādam ir pazudis otrs cimdiņš, un viņš tagad ir ļoti bēdīgs."
+
+Pūks nolēma palīdzēt. Viņš ielika cimdiņu savā mazajā somiņā, paņēma savu iecienīto melleņu groziņu un devās ceļā, meklēt pazudušā cimdiņa īpašnieku. Viņš gāja gar strautiņu, kur burbuļoja priecīgi burbuļi. "Vai jūs neesat redzējuši pazudušu cimdiņu?" jautāja Pūks burbuļiem. Burbuļi atbildēja tikai ar smiekliem un šļakatām.
+
+Tad Pūks gāja pa meža taku. Viņš satika vāveri, kas skrēja augšā un lejā pa koku. "Sveika, vāvere! Vai tu neesi redzējusi pazudušu cimdiņu, sarkanu ar baltiem punktiņiem un smailīgu sunīti?"
+
+Vāvere apstājās un paskatījās uz Pūku. "Cimdiņu? Neesmu redzējusi. Bet es zinu, ka lapsa šorīt bija ļoti dusmīga, jo viņa pazaudēja savu garo asti!"
+
+"Lapsa pazaudēja asti? Bet kā viņa var staigāt?" Pūks brīnījās. Nu, astes atrašana nebija viņa galvenais uzdevums.
+
+Pūks turpināja ceļu. Viņš atrada lielu akmeni, uz kura sēdēja zaķis. Zaķis ēda burkānus. "Sveiks, zaķi! Vai tu neesi redzējis pazudušu cimdiņu?"
+
+Zaķis apēda savu burkānu un pamāja ar galvu. "Redzēju gan! Esmu redzējis daudz cimdiņu. Bet sarkanu ar baltiem punktiņiem un sunīti? Nē, tādu neesmu redzējis."
+
+Pūks sāka justies mazliet bēdīgs. Viņš bija gājis jau tik tālu, bet īpašnieku vēl nebija atradis. Viņš ieņēma dziļu elpu un atcerējās savu mammu-lāci, kura vienmēr teica: "Nekad nepadodies, Pūks! Un vienmēr palīdzi citiem!"
+
+Pūks nolēma atgriezties pie strautiņa un vēlreiz apskatīt apkārtni. Varbūt viņš kaut ko bija palaidis garām. Atgriezies pie strautiņa, Pūks ieraudzīja kaut ko pavisam neparastu. Tur, blakus akmenim, sēdēja meitene. Viņa raudāja.
+
+Pūks pieskrēja pie viņas. "Sveika! Kas tev noticis?"
+
+Meitene pacēla galvu un noslaucīja asaras. "Es... es pazaudēju savu cimdiņu. Man bija divi tādi sarkani cimdiņi ar baltiem punktiņiem un smailīgiem suņiem. Tagad man ir tikai viens..."
+
+Pūks uzmanīgi izņēma cimdiņu no savas somiņas un parādīja to meitenei. "Vai šis nav tavs cimdiņš?"
+
+Meitene iepleta acis. "Jā! Tas ir mans cimdiņš! Kur tu to atradi?"
+
+Pūks pastāstīja meitenei, kur viņš atrada cimdiņu un kāpēc viņš to meklēja. Meitene smaidīja un teica: "Tu esi tik jauks lācītis! Man ir vēl viens atgadījums. Esmu atradusi vienu tavu mazās, pūkainās spalvas. Varbūt, ka tavs mājoklī ir pūšļi?"
+
+Pūks atbildēja, ka viņam nav nekādu pūšļu!
+
+Meitene atbildēja: "Bet mans draugs, kuram ir jāpalīdz, pazaudēja savu cimdiņu. Vai tu neesi redzējis, kur viņš pazuda?"
+
+Pūks padomāja. Viņš atcerējās, ka vāvere bija sākusi runāt par lapsas zaudēto asti. Pūks teica meitenei: "Es zinu vienu veidu, kā atrast tavas drauga cimdiņu! Un tas ir lapsā!"
+
+Meitene smaidīja un teica: "Es atcerējos, ka lapsa man teica, teicu, ka viņa apmeklēs savas mājvietas. Ir jānodod cimdiņs lapsai!"
+
+Pūks un meitene kopā devās pie lapsas. Kad viņi atrada lapsu, lapsa izskatījās ļoti bēdīga. Viņa apsēdās uz zemes un skumja. Pūks pieskrēja pie lapsas un teica: "Sveika lapsa! Vai tu esi redzējusi šo cimdiņu?"
+
+Pūks parādīja lapsai cimdiņu. Lapsa iepleta acis. "Ak, jā! Es pazaudēju šo cimdiņu. Es ņēmu to, lai to valkātu uz savu mēteļu, bet pazudu tā."
+
+Meitene pasmaidīja un teica: "Mans draugs pazaudēja savu cimdiņu, un tu atradi to! Vai nu tu esi atradusi savējo, un nu atradīsi savējo?"
+
+Lapsa pasmaidīja. "Protams! Esmu tik priecīga, ka atradu gan savējo, gan tēva. Viss ir kārtībā!"
+
+Meitene paņēma savu cimdiņu, un viņa bija ļoti laimīga. Viņa pateicās Pūkam par palīdzību un atvadījās. Lapsa pateicās Pūkam un meitenei par to, ka viņi atrada viņas cimdiņu.
+
+Pūks atgriezās savā mājā, mellenēs. Viņš bija ļoti laimīgs. Viņš bija palīdzējis atrast cimdiņu, un tas bija daudz svarīgāk nekā ēst mellenes. Viņš apsēdās savā mājā, un viņš ēda mellenes.
+
+Un tā, mīļais lasītāj, atceries – ja kādreiz atradīsi kaut ko pazudušu, vienmēr palīdzi atrast īsto saimnieku. Jo prieka sajūta, ko saņem, palīdzot citiem, ir visjaukākā sajūta pasaulē. Un, protams, tu vienmēr atceries pazudušai cīmņu, jo tev patīk dzīvot melleņu laikā!
+</body>

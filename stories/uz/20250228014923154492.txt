@@ -1,0 +1,35 @@
+<prompt>
+Please write a relatable Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Bolalarning sehrli kuchlari bor'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>uz</lang_id>
+
+<title>Bolalarning sehrli kuchlari bor</title><body>  
+Bir bor ekan, bir yoq ekan, O‘zbekistonning go‘zal vodiysida joylashgan kichkina qishloqda yashar edi. Bu qishloqda har bir uyning o‘ziga xos hikoyasi, har bir bolaning o‘ziga xos orzusi bor edi. Lekin bu qishloqda yashovchi bolalarning bitta g‘alati xususiyati bor edi: ularning har biri sehrli kuchlarga ega edi. Bu kuchlar ularga qandaydir noyob imkoniyatlar berar, lekin ular bu kuchlarni faqat yaxshilik uchun ishlatishlari kerak edi.
+
+Qishloqning markazida katta chinor daraxti ostida o‘ynaydigan uch do‘st bor edi: Aziza, Jasur va Dilshod. Aziza o‘zining sehrli kuchi bilan hayvonlarni tushunish qobiliyatiga ega edi. U qushlarning qo‘shiqlarini, mushuklarning mirmirlashini va hatto itlarning vahvlashini tushunardi. Jasurning kuchi esa unga har qanday narsani tezda o‘rganish imkonini berardi. U bir marta ko‘rgan narsani hech qachon unutmasdi va har qanday mashqni birinchi urinishda bajara olardi. Dilshod esa o‘zining sehrli kuchi bilan har qanday narsani yengil va tez harakatlantirish qobiliyatiga ega edi. U og‘ir toshlarni bir qo‘li bilan ko‘tarib, uzoq masofalarga otib yuborardi.
+
+Bir kuni, qishloqda katta muammo paydo bo‘ldi. Qishloqning yagona suv manbai bo‘lgan buloq qurib qoldi. Qishloq aholisi suvsiz qolgan edi. Ekinlar qurib, hayvonlar chanqab, odamlar tashvishga tushgan edi. Qishloqning keksa oqsoqoli, Hoji aka, bolalarni yig‘ib, ularga yordam so‘radi. “Bolalar, agar sehrli kuchlaringizni birlashtirsangiz, buloqni qayta tiklash mumkin bo‘ladi,” dedi u.
+
+Aziza, Jasur va Dilshod birgalikda ishlashga qaror qilishdi. Birinchi navbatda, Aziza hayvonlar bilan suhbatlashdi. U qushlardan buloqning qurib qolish sababini so‘radi. Qushlar unga buloqning manbai yaqinida ulkan tosh yotib, suv oqimini to‘sib qo‘yganini aytishdi. Jasur esa bu haqda eshitib, toshni qanday olib tashlash mumkinligini o‘ylay boshladi. U tezda qishloqning eski kitoblaridan foydalanib, toshni portlatish usulini topdi. Lekin bu usul xavfli edi va qishloqqa zarar yetkazishi mumkin edi.
+
+Shunda Dilshodning sehrli kuchi yordamga keldi. U toshni yengil va tez harakatlantirish qobiliyatiga ega edi. U toshni qo‘li bilan ushlab, uzoq tog‘larga otib yuborishni taklif qildi. Lekin tosh juda og‘ir edi va Dilshod buni yolg‘iz bajara olmasdi. Shuning uchun u Aziza va Jasurning yordamini so‘radi.
+
+Uch do‘st birgalikda ishlashga qaror qilishdi. Aziza hayvonlarni yig‘ib, ularga yordam so‘radi. Qushlar havodan kuzatib, mushuklar va itlar esa yerdan yordam berishdi. Jasur esa toshni qanday qilib eng yaxshi usulda ko‘tarish kerakligini hisoblab chiqdi. Dilshod esa toshni ushlab, unga kuch qo‘shdi.
+
+Nihoyat, ular toshni ko‘tarishga muvaffaq bo‘lishdi. Tosh yengil bo‘lib, havoga ko‘tarildi va uzoq tog‘larga otilib yuborildi. Buloqning suvi yana oqib, qishloqni hayot bilan to‘ldirdi. Odamlar quvonch bilan qichqirishdi, hayvonlar mirmirlashdi, qushlar qo‘shiq aytishdi.
+
+Hoji aka bolalarni maqtadi va ularga minnatdorchilik bildirdi. “Sizlar sehrli kuchlaringizni yaxshilik uchun ishlatdingiz va bu butun qishloqni qutqardingiz,” dedi u. Bolalar bir-birlariga qarab kulishdi. Ular sehrli kuchlarining katta mas’uliyatini angladilar va ularni doimo yaxshilik uchun ishlatishga qaror qilishdi.
+
+Shundan so‘ng, qishloqda hamma narsa yaxshilandi. Buloqning suvi toza va serob edi, ekinlar yashil, hayvonlar baxtiyor edi. Bolalar esa o‘z sehrli kuchlarini boshqa muammolarni hal qilish uchun ishlatishda davom etishdi. Ular har kuni yangi sarguzashtlar yashab, bir-birlariga yordam berishdi.
+
+Va shu tariqa, qishloqda sehrli kuchlarga ega bo‘lgan bolalar har doim yaxshilik va baxt tarqatishdi. Ular bilardiki, sehrli kuchlar nafaqat katta imkoniyatlar, balki katta mas’uliyatdir ham. Va ular bu mas’uliyatni doimo yaxshi yo‘lda ishlatishga qaror qilishdi.
+
+</body>

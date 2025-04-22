@@ -1,0 +1,36 @@
+<prompt>
+Please write a funny Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Magister Ventorum et Clavis Tempestatis'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>la</lang_id>
+
+<title>Magister Ventorum et Clavis Tempestatis</title><body>Olim in terra longinqua, ubi montes nubes tangunt et flumina melodia cantant, erat villa parva nomine Ventopolis. In hac villa, omnes venti habitabant—hi venti non solum venti erant, sed etiam amici et vicini. Erat Ventus Orientalis, qui semper novas fabulas afferebat; Ventus Occidentalis, qui dulces odores florum portabat; Ventus Australis, qui calorem solis secum ferebat; et Ventus Borealis, qui nives et glaciem amabat.
+
+Inter hos ventos, erat unus qui omnibus praeerat—Magister Ventorum, nomine Zephyrus. Zephyrus erat sapiens et benignus, sed habebat unum secretum: Clavem Tempestatis. Haec clavis erat magica et potens, quae poterat omnes ventos in tempestates magnas convertere. Zephyrus clavem in arca alta in summo monte celabat, et nemo unquam eam videre poterat.
+
+Sed erat etiam parvus ventulus nomine Ventulus Minimus. Ventulus Minimus erat curiosus—nimis curiosus. Semper quaerebat: "Quid est in arca? Quomodo clavis tempestatis operatur? Cur Magister Zephyrus eam celat?" Alii venti eum monuerunt: "Ne curiosus sis, Ventule Minimē! Clavis periculosa est!" Sed Ventulus Minimus non audivit.
+
+Una nocte, cum luna plena luceret et omnes venti dormirent, Ventulus Minimus surrexit et ad montem ascendit. "Iam sciam quid in arca sit!" dixit sibi. Cum ad arcam pervenisset, clausam invenit, sed clavem magicae ianuae in terra iacentem reperit. "O fortuna!" exclamavit. "Nunc clavis mea est!"
+
+Cum clavi ianuam aperuisset, intus vidit clavem tempestatis—pulcherrimam et scintillantem. Ventulus Minimus eam arripuit et dixit: "Iam ego ero magister ventorum!" Sed, heu, clavis erat magica, et Ventulus Minimus nesciebat quomodo eam uteretur.
+
+Subito, venti magni coepierunt spirari, nubes nigrae caelum texerunt, et tonitrua magnisona audiebantur. Ventulus Minimus, territus, clavi tenebatur et clamabat: "Sistite! Sistite!" Sed tempestas magis magisque crescebat.
+
+Magister Zephyrus, expergefactus, ad montem cucurrit. "Ventule Minimē! Quid fecisti?" rogavit. Ventulus Minimus, lacrimans, respondit: "Ego clavem tempestatis sumpsi, sed nunc tempestas magna est! Quid faciam?"
+
+Zephyrus, sapiens ut erat, dixit: "Da mihi clavem, et ego tempestatem compescam." Ventulus Minimus clavi tradidit, et Zephyrus eam in altum extulit. Statim, venti cessaverunt, nubes discesserunt, et luna iterum lucere coepit.
+
+Post tempestatem, omnes venti in Ventopolim convenerunt. Zephyrus, cum clavi in manu, dixit: "Ventule Minimē, curiositas tua nos omnes in periculum posuit. Sed docebo te quomodo clavis utendum est, ne iterum erres."
+
+Et sic, Ventulus Minimus discere coepit. Didicit quod potentia magna responsabilitatem magnam requirit. Didicit quod secreta sunt secreta propter rationem. Et, quod maximum erat, didicit quod amici semper sunt auxilio, etiam si errant.
+
+Ex illo die, Ventulus Minimus factus est custos claviculae, et omnes venti in Ventopolim felices et securi vivebant. Et si quando clavis tempestatis iterum adhibenda erat, Zephyrus et Ventulus Minimus simul eam gerebant, scientes quod potentia sola non sufficit—sed sapientia et amicitia sunt verae claves.
+
+Et sic finis huius fabulae est, sed memoria eius semper manebit in cordibus ventorum Ventopolis.</body>

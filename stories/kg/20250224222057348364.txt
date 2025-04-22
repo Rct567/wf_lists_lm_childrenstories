@@ -1,0 +1,37 @@
+<prompt>
+Please write a simple and easy-to-follow Kongo children's story that is at least 1000 words long.
+It must be completely written in proper Kongo (KG).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kiongo Kia Tatu Na Feti Za Kinonyi'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>kg</lang_id>
+
+<title>Kiongo Kia Tatu Na Feti Za Kinonyi</title>
+<body>
+Muna nsi a Kongo, kuna mwana mosi wa nkento, o nkumbu andi i Manani.  Manani wazingidi muna nzo ya kinsuni, kuna ngumba ya Mavinga, yakalanga kuna nsongo a nsi a Kongo. Wawandi muna nkangu a longo, o mfumu andi, o tata andi, kavanganga e salu ya ntoto, yo ngudi andi, kavanganga e salu ya nzo. Manani, o mwana wa nkento, wazingidi muna nzo yayi, yo yangalala muna luzingu lwandi.
+
+Konso lumingu, Manani kalendanga muna mbuta a nsi a Kongo. O mbuta a nsi a Kongo, wakalanga kuna nzevu a nsi, muna mbanza ya kinsantu, o nkumbu andi i Lukumi.  Muna nzevu a nsi a Kongo, kuna ntoto, kuna nzadi, kuna nti, kuna nsunga ya madimi.  Manani, muna nzila, watungululanga yo yekelele, yo mona konso nti wa nti, yo mona konso nsapi ya madimi.
+
+Muna lumingu lumosi, Manani wayiwana vo e Feti za Kinonyi, e feti ya nsunga ya kinsantu, yatoma ntu. Wayangalala.  O mfumu andi, o tata andi, wabakula vo o lumingu lwalu, o Manani kalenda kwenda muna Lukumi, yo monanga o nsunga ya madimi.
+
+Muna lumingu lwalu, Mandi kavangidi ekonda dia nti, yo fwa, yo vonda o fwa, yo zaya e nsunga ya madimi.  Manani okelele o nkanda, o nkanda wa vangu, wakazayanga  e nsunga ya madimi. O nkanda wayekama muna nsunga ya madimi.  Wavanga e nkenda ya mpila, nsunga ya madimi.
+
+Manani wabakula vo o nkangu a longo, o nkangu a longo, walembanga kwenda kuna Lukumi.  Manani wadi kwenda ko, kansi, o nkangu a longo, wasia o ntu, o nkangu a longo, wavova vo, “O Manani, o nsunga ya madimi, i nsunga ya luzingu, e nsunga ya luzingu ya madimi, i nsunga ya kinsuni ya luzingu.  Kana una ulembi kwenda kuna Lukumi, o nsunga ya madimi, i yikuma yawonso muna zingu diau.”
+
+Manani wayiwana vo o nkangu a longo, walongele ndongonsi ya nsunga ya madimi. Wayangalala vo wavanganga e salu, yo mona konso nsunga ya madimi.  Wayangalala vo o nkangu a longo wakavanga e feti.  Manani, muna nzo, wabakula vo o nkangu a longo, wakazayanga e nsunga ya madimi.
+
+O nsunga ya madimi, i feti ya luzingu, feti ya nsunga.  Wavanga e nkenda ya nsunga ya madimi, watoma mona e nkenda.  E nsunga, yatoma ntu.  Wabakula e nkumbu ya konso nsunga ya madimi. O nsunga ya madimi, yakalanga muna nsi a Kongo, o nsunga ya madimi, yakalanga e ntoto.
+
+Muna nsunga ya lumingu lwalu, Manani wayiwana vo o mbuta a nsi a Kongo, o Lukumi, watoma fwa. Wakalanga muna nsunga ya nti, watoma mona e nsunga ya nti.  Manani, muna nzila, watoma mona e nsunga ya nti.  O nsunga ya nti, yakalanga muna nsi a Kongo, o nsunga ya nti, yakalanga e ntoto.
+
+Muna nzila, Manani wabakula vo o nsunga ya madimi, i feti ya nsunga, yo nsunga ya nti.  O nsunga ya nti, yo madimi, yakalanga muna nsi a Kongo.  Muna nzila, Manani watoma monana ye nsapi ya nti. Manani watoma bakula e nsunga.  Muna nsi, o nsunga, yakalanga muna nzila.
+
+Konso lumingu, Manani watoma zaya o nsunga. Watoma monana ye nsapi ya nti, yo nsunga ya madimi.  Muna nzo, Manani watoma longoka e ziku ya nsunga.  Watoma bakula e kinsuni ya nsunga.  Watoma mona o luzingu lwa nsunga.
+
+Muna nsunga ya lumingu lwalu, Manani wakalanga muna nzo, yo yangalala muna luzingu lwandi.  Wabakula vo o nsunga ya madimi, yo feti, yo luzingu, yakalanga muna nsunga ya luzingu, yakalanga muna nsunga ya zingu.  Manani wayangalala, yo bakula e ziku ya luzingu.
+</body>

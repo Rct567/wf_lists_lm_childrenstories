@@ -1,0 +1,41 @@
+<prompt>
+Please write a educational Kongo children's story that is at least 1000 words long.
+It must be completely written in proper Kongo (KG).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>kg</lang_id>
+
+<title>Nkento wa Mbuta ye Nti</title><body>
+Nkento mosi, o nkumbu dia Ndeke, vandaka mu nzo ya ndumba, kuna kinsansa ya mbuta.  Ndeke vandaka nkento ya mbote, ya ntima ya mbote, kansi yandi vandaka ti kimpala ya nene. Yandi vandaka kuzola nti mingi, mpi yandi vandaka kubakisa mambu mingi ya me tala luzingu ya nti.
+
+Ndeke vandaka kuzinga pene-pene ya nti mosi ya nene, ya ntangu ya nti, ya nkumbu dia Nti-Nzambi.  Nti-Nzambi vandaka nti ya nene mpi ya ntangu ya nti, ti matadi ya mbote yina vandaka kumonika bonso matadi ya nti ya mpembe.  Ndeke vandaka kuzola kuzinga pene-pene ya Nti-Nzambi, sambu yandi vandaka kumona yandi bonso nkento ya kinsansa.
+
+Ndeke vandaka kutula ntima na yandi na Nti-Nzambi.  Yandi vandaka kutuba ti yandi, kutula masolo na yandi, mpi kusambila yandi. Yandi vandaka kumona Nti-Nzambi bonso mfumu ya kinsansa ya mbuta.  Ndeke vandaka kudimona bonso mwana ya nti, mpi yandi vandaka kudimona ya mbote na kinsansa ya mbuta.
+
+Mvu mosi, kimvuka ya bantu ya nkaka kukwisa na kinsansa ya mbuta.  Bo vandaka bantu ya nkaka, ti bibansa ya nkaka.  Bo vandaka kusala kisalu ya nkaka.  Bo vandaka kubaka bambuma ya nti, mpi bo vandaka kubaka maba ya nti.  Bo vandaka kuluta na kinsansa ya mbuta, kansi bo vandaka ve kutula ntima na Nti-Nzambi.
+
+Ndeke monaka bo.  Yandi vandaka kuzola kubakisa mambu ya bantu yai.  Yandi vandaka kuzola kubakisa sambu na nki bo vandaka kuluta na kinsansa ya mbuta.  Yandi vandaka kuzola kubakisa sambu na nki bo vandaka kubaka bambuma ya nti mpi maba ya nti.
+
+Ndeke yita kusolula ti bantu yai.  Yandi yita kutuba ti bo, kansi bo vandaka ve kuzaya ntu-ntunsa.  Bo vandaka ve kuzaya mambu ya me tala luzingu ya nti.  Bo vandaka ve kuzaya sambu na nki nti vandaka mfunu na luzingu.
+
+Ndeke yita kusala kima mosi.  Yandi yita kulonga bantu yai mambu ya me tala luzingu ya nti.  Yandi yita kulonga bo sambu na nki nti vandaka mfunu na luzingu.  Yandi yita kulonga bo sambu na nki bo vandaka kubaka bambuma mpi maba ya nti.
+
+Ndeke yibaka bambuma ya nti ya mbote, mpi yandi yibaka maba ya nti.  Yandi yita kulonga bantu yai, mpi yandi yita kulonga bo sambu na nki bo vandaka kubaka bambuma ya nti mpi maba ya nti.  Yandi yita kulonga bo sambu na nki nti vandaka mfunu na luzingu.
+
+Ndeke yita kulonga bo nde, nti vandaka mfunu sambu na kubaka mvuma.  Ndeke yita kulonga bo nde, nti vandaka mfunu sambu na kubaka mampa.  Ndeke yita kulonga bo nde, nti vandaka mfunu sambu na kuzinga.  Ndeke yita kulonga bo nde, nti vandaka mfunu sambu na luzingu ya bantu.
+
+Bantu yai, bo vandaka kubakisa mambu yina Ndeke vandaka kutuba.  Bo vandaka kubakisa sambu na nki nti vandaka mfunu na luzingu.  Bo vandaka kubakisa sambu na nki bo vandaka kubaka bambuma mpi maba ya nti.  Bo vandaka kumona mambu ya me tala nti bonso mambu ya mfunu.
+
+Bantu yai yedisaka ntima na bo.  Bo yantikaka kuzitisa nti.  Bo yantikaka kutula ntima na nti.  Bo yantikaka kukuma bantu ya mbote.  Bo vandaka ve kaka kubaka bambuma mpi maba ya nti, kansi bo vandaka mpi kutula ntima na nti.
+
+Ndeke vandaka ya kiese.  Ndeke vandaka kumona nde yandi salaka kisalu ya mbote.  Yandi vandaka kumona nde yandi lungisaka kisalu na yandi ya kulonga bantu.  Ndeke vandaka kumona nde yandi salaka kisalu ya mbote na kinsansa ya mbuta.
+
+Ndeke vandaka kudimona bonso nkento ya mbote.  Ndeke vandaka kudimona bonso muntu ya mbote.  Ndeke vandaka kudimona bonso nkento ya kinsansa.  Ndeke vandaka kudimona bonso mwana ya nti.  Ndeke vandaka kudimona bonso nkento ya mbote, ya ntima ya mbote.
+
+Mpi Ndeke, na nima ya luzingu ya mbote, yandi vandaka kuzinga na kinsansa ya mbuta, ti Nti-Nzambi, mpi bantu ya nkaka.  Bo vandaka kuzinga na kiese.  Bo vandaka kuzinga na luzingu ya mbote.  Bo vandaka kuzinga na luzingu ya kiese.  Bo vandaka kuzinga na luzingu ya mbote.
+</body>

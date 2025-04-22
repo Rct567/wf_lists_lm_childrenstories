@@ -1,0 +1,64 @@
+<prompt>
+Please write a silly Spanish children's story that is at least 1000 words long.
+It must be completely written in proper Spanish (ES).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Una hormiga trabajadora que construyó su hormiguero.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>es</lang_id>
+
+```xml
+<title>Una hormiga trabajadora que construyó su hormiguero.</title><body>
+En un jardín soleado, donde las margaritas bailaban al son del viento y las mariposas jugaban al escondite entre las flores, vivía una hormiga muy especial. Su nombre era Anita, y a diferencia de las demás hormigas, que preferían charlar sobre los granos de arena y las migajas de pan, Anita tenía un sueño: ¡construir el hormiguero más fabuloso y divertido de todo el jardín!
+
+Anita era una hormiga pequeñita, pero con una energía y una determinación del tamaño de una sandía gigante.  Cada mañana, al salir el sol, Anita se despertaba con un saltito y un "¡Buenos días, mundo hormiguil!", después de cepillarse sus antenas con un tallo de hierba.  
+
+Las otras hormigas, lideradas por la muy seria y siempre ocupada Hortensia, se reían de ella.  “Anita, ¿otra vez con tus planes absurdos?”, decía Hortensia, mientras organizaba meticulosamente una fila de hormigas que transportaban una miga de galleta del tamaño de un pequeño balón de fútbol. “¡Enfócate en lo importante! ¡En la comida, en la comida!”
+
+Anita, lejos de desanimarse, sonreía.  “¡Pero Hortensia, también es importante divertirse y crear cosas nuevas!”, respondía, moviendo sus diminutas patitas con entusiasmo.  “Imaginad un hormiguero con toboganes, una piscina de néctar y un cine para ver películas de… ¡otros bichos!”
+
+Hortensia soltaba un bufido y se alejaba, murmurando algo sobre la falta de sentido común en las jóvenes.  Pero Anita, sin perder ni un ápice de su alegría, empezaba su trabajo.
+
+Primero, necesitaba un buen lugar. Después de mucha exploración, Anita encontró el sitio perfecto: bajo un enorme rosal, con sombra en la tarde y un montón de tierra suave y apetitosa.  ¡Perfecto!
+
+Con un diminuto pico que improvisó con un pedazo de cáscara de nuez, Anita comenzó a cavar. ¡Pica, pica, pica! Día tras día, Anita excavaba, moviendo granitos de tierra del tamaño de piedras gigantes para ella.  El sol la acariciaba con sus rayos cálidos y el viento le susurraba ánimos.
+
+A veces, se sentía cansada, pero entonces recordaba sus sueños y recuperaba fuerzas.  Se imaginaba a las otras hormigas jugando en sus toboganes, chapoteando en la piscina de néctar y riendo con las películas de bichos.  Eso la impulsaba a seguir.
+
+Un día, mientras cavaba un túnel, se encontró con un gusano glotón llamado Gumersindo. Gumersindo era famoso en el jardín por comer más hojas que cualquier otro gusano.  Tenía una barriga redonda y siempre estaba buscando algo para masticar.
+
+"¡Hola, hormiga!", saludó Gumersindo, con la boca llena de hojitas de menta.  "¿Qué estás haciendo ahí abajo?"
+
+"¡Estoy construyendo mi hormiguero!", respondió Anita, orgullosa.  "¿Y tú, qué haces?"
+
+Gumersindo tragó las hojas de menta con dificultad.  "Comiendo, ¡por supuesto! ¿Qué más se puede hacer en la vida?"
+
+Anita le contó a Gumersindo sobre sus planes para el hormiguero.  Gumersindo, al principio, se rió a carcajadas.  "¿Un hormiguero con toboganes?  ¡Pero qué tontería!  ¿Y una piscina de néctar? ¡Eso no tiene ningún sentido!"
+
+Anita no se desanimó.  Con paciencia, le explicó a Gumersindo lo divertido que sería el hormiguero y cómo podría ser un lugar donde todos, incluso un gusano glotón como él, pudieran disfrutar.
+
+Finalmente, Gumersindo, contagiado por el entusiasmo de Anita, decidió ayudar.  "Bueno, bueno", dijo Gumersindo. "Quizás… quizás un pequeño tobogán no esté tan mal. ¡Y puedo usar mi mucosidad para que resbale más!"
+
+¡La ayuda de Gumersindo fue invaluable! Con su mucosidad, resbaladiza y brillante, Gumersindo creó toboganes rápidos y emocionantes.  Además, con su apetito insaciable, Gumersindo ayudó a cavar túneles más grandes y rápidos, comiéndose literalmente parte de la tierra. ¡Aunque Anita tuvo que regañarle un poco por querer comerse las paredes!
+
+Con la ayuda de Gumersindo y su incansable trabajo, el hormiguero de Anita comenzó a tomar forma.  Construyeron un enorme salón de baile, decorado con pétalos de rosa y hojas brillantes. Crearon una biblioteca, con libros escritos en diminutas hojas de helecho.  Y, por supuesto, construyeron los toboganes, que recorrían todo el hormiguero, desde la entrada hasta una gran piscina llena de néctar de flores.
+
+Las otras hormigas, al principio, observaban desde lejos, con escepticismo. Hortensia, sin embargo, no pudo evitar sentirse intrigada por el hormiguero.  Un día, se acercó a observar a Anita y a Gumersindo trabajar.
+
+Anita la saludó con una sonrisa.  “¡Hortensia, qué gusto verte! ¿Te gustaría ver cómo va nuestro hormiguero?”
+
+Hortensia, sin saber cómo, accedió.  Anita la guio por los túneles y le mostró todos los rincones del hormiguero.  Cuando Hortensia llegó a los toboganes, no pudo resistirse y se lanzó por uno.  ¡Fue tan divertido!  Después, se zambulló en la piscina de néctar y probó uno de los deliciosos bocadillos que Anita había preparado con migas de pan y polen.
+
+Cuando Hortensia salió de la piscina, toda mojada y sonriente, las otras hormigas, viendo su felicidad, se animaron a explorar el hormiguero también.  Y, ¡oh sorpresa!, a todos les encantó.
+
+Las hormigas se deslizaban por los toboganes, nadaban en la piscina de néctar, leían en la biblioteca y bailaban en el salón de baile.  Hasta las más serias y ocupadas hormigas, como Hortensia, se olvidaron por un momento de la comida y se dejaron llevar por la diversión.
+
+El hormiguero de Anita se convirtió en el lugar más popular del jardín.  Las hormigas de todos los rincones se reunían allí, creando risas, juegos y una amistad inquebrantable.
+
+Y la moraleja de la historia es:  Nunca dejes de soñar, por muy absurdo que parezca tu sueño.  Con esfuerzo, imaginación y la ayuda de amigos (¡incluso un gusano glotón!), todo es posible. Y recuerda, ¡la felicidad es mejor cuando se comparte!  Además, nunca subestimes el poder de un buen tobogán de mucosidad y una piscina llena de néctar. Y por último, Hortensia aprendió a sonreír un poquito más y a no tomarse la vida tan en serio. ¡Fin!
+</body>
+```

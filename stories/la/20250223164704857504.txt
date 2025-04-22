@@ -1,0 +1,33 @@
+<prompt>
+Please write a relatable Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'De Animalibus Qui Fuerunt Amici Et Socii'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>la</lang_id>
+
+<title>De Animalibus Qui Fuerunt Amici Et Socii</title>
+<body>
+In silva vasta, ubi radii solis per folia arbores late diffundebantur, habitavit pulcherrima familia animalium.  Ergo erat Ursa mater, nomine Augusta, et filius eius, Iulus, iuvenis et fortis.  Cum ipsis erant Lepus, nimis celer, nomine Salix, et Vulpes, astutissima, nominata  Cynthia.
+
+Augusta, Ursa fortis, amabat filium suum, Iulum, supra omnia.  Educabat eum in viis sapientiae, docens eum de virtute et patientia.  Iulus, qui erat audax et amabilis,  sequebatur matrem, audiens fabulas de animalibus, de arboribus et de fluminibus qui per silvam percurrebant.  Discebat Iulus  de  fortitudine, de aequitate, et de amicitia,  per vias et angulos silvae.
+
+Salix, Lepus celer, erat maxime jocundus et nimis  agilis.  Salix  saepissime agitare solebat per silvam,  persequens muscas et insecta.  Amicitia sua et Iuli era maximus iocus, cum saepe Salix celeritas sua Iulum per silvam  delectaret, cum Iulus magnam risus voluptates proderet.
+
+Cynthia, Vulpes astuta, erat valde sagax et observans.  Cynthia erat expertus in arte venandi, sed etiam  erat  amans amicitiae.  Iuli et Salicis amicitiae addebat  se, cum astutitia sua  prodesset omnibus.  Cynthia saepe  iuvabat Salicem invenire fructus et flores raros, et Iulum  docuit  de  secretis  silvae, de medicinis herbarum et de oculis naturae.
+
+Quotidie, in horis aureis, cum sol occidere coepit, quattuor amici ad rivum conveniebant.  Ibi, sub umbra arborum magnarum,  conficiebant  consilia  et narrabant fabulas.  Augusta narrabat historias de heros et heroinae, et Iulus percontando discebat, docens se de fortitudine et prudentia.  Salix, cum celeritate sua,  narrativas fabulas  de  animalibus celeribus et audacibus  describere solebat.  Cynthia, cum subtilitate sua, fabulas de arte et astutia narrabat, et amicos suos instruxit in rebus  praeclaris.
+
+Dies quaedam,  inveniebant silvam in incendio.  Flammae magna cum celeritate per montes  et colles percurrere coepere.  Augusta,  ob timorem  incendii,  silvam percurrebat,  vocans  omnes  animales,  ut  evaderent.  Iulus,  exaudito  clamore,  sequebatur matrem suam,  et  Salicem et Cynthiam.
+
+In tempore, invenerunt   animalia  paucissima,  quae  in  incendiis  erant.  Iulus,  cum fortitudine,  per  flammam  percurrebat,  ad  salvandum  omnes  animales.  Salix,  cum  celeritate,  per  silvam  currebat,  perferens  animales  per  flammam.  Cynthia,  cum  astutia,  invenit  viae  per  silvam  et  iuvavit  omnes  animalia  ad  salvum  pervenire.
+
+Iuli, Salicis, et Cynthiae   fortitudo et amicitia  efficacem  fecerunt   in  praesidio  contra  incendium.  Omnes  animales  silvae  salvi  erant  et  incolumes.  Augusta, cum laetitia,   Iulum, Salicem et Cynthiam  laudavit,  propter  fidem  et  amicitiam  suam.
+
+Post incendium,  silva nova  et  splendidior  natus est.  Animales  erant  grati  propter  amicitiam  et  fortitudinem  suam.  Iulus, Salix, et Cynthia  erant  amici  et  socii  semper.  Et sic, in silva vasta,  per   aevum,  amicitia  fuerat  magnus  et  gloriosus  bonus.
+</body>

@@ -1,0 +1,75 @@
+<prompt>
+Please write a silly Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Wróżka z Krainy Szumów i Jej Mądre Porady'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pl</lang_id>
+
+```xml
+<title>Wróżka z Krainy Szumów i Jej Mądre Porady</title>
+<body>
+Dawno, dawno temu, za siedmioma górami, za siedmioma lasami, a konkretnie w Krainie Szumów, żyła sobie urocza, choć trochę roztrzepana, wróżka o imieniu Bąblina. Bąblina nie była zwyczajną wróżką. Zamiast eleganckich szat nosiła strój zrobiony z liści szpinaku i piór ptaka dodo, który, nawiasem mówiąc, dawno wyginął. (Bąblina twierdziła, że ma magiczną maszynę czasu, ale nikt jej nie wierzył, a ona sama często zapominała gdzie ją schowała).
+
+Bąblina uwielbiała wszystko, co szumiało – szumiące drzewa, szumiące morze, szumiące kapusty… Tak, dobrze słyszycie, szumiące kapusty. Mieszkała w wielkiej, pomarańczowej dyni, która w nocy świeciła jak gigantyczna latarnia. Dynia stała obok szumiącej rzeki Gzik. Rzeka Gzik słynęła z tego, że zamiast ryb pływały w niej… marchewki! (I to w dodatku śpiewające!).
+
+Pewnego pięknego, słonecznego dnia, kiedy Bąblina siedziała na trzonku dyni, jedząc lody o smaku papryki (jej ulubiony!), usłyszała dziwny szum. Brzmiał zupełnie inaczej niż szum liści czy rzeki. Okazało się, że to szum zmartwień. Z Krainy Zmartwień przyszła do niej mała, smutna dziewczynka o imieniu Jagódka. Jagódka miała wielkie, niebieskie oczy, w których odbijało się tysiące malutkich chmurek deszczowych.
+
+- O, witaj Jagódko! – zawołała Bąblina, oblizując lodowy patyczek. - Co cię sprowadza do mojej dyniowej jaskini?
+
+Jagódka pociągnęła nosem i powiedziała: - Boję się! Boję się pójść do szkoły! Dzieci się ze mnie śmieją, bo… bo… bo… – i wybuchnęła płaczem.
+
+Bąblina, mimo że sama często gubiła zaklęcia i zapominała o praniu, była bardzo mądrą wróżką. Zamyśliła się głęboko, aż na jej nosie pojawiła się malutka kropelka potu. Po chwili wpadła na genialny pomysł!
+
+- Rozumiem, Jagódko. Ale spokojnie. Spróbujemy pokonać twój strach. Proponuję magiczną kurację! Musisz zjeść… całą michę spaghetti z brokułami, potrzymać kota za ogon (jeśli masz kota, oczywiście), a następnie… nauczyć się śmiać!
+
+Jagódka spojrzała na Bąblinę z niedowierzaniem. - Spaghetti? A po co? I… kota?
+
+- Spaghetti dodaje odwagi! Brokuły zapewniają siłę! A śmiech to najlepsze lekarstwo na strach! Co do kota… pomaga zapomnieć o zmartwieniach. Spróbuj!
+
+Jagódka, mimo wciąż wiszących w oczach chmurek, zgodziła się. Po pierwsze, była bardzo głodna. Po drugie, bardzo chciała przestać się bać.
+
+Bąblina natychmiast zmaterializowała (po prostu kichnęła bardzo mocno) ogromną michę spaghetti z brokułami. Pachniało obłędnie! Jagódka zjadła wszystko w mgnieniu oka, mlaskając przy tym głośno. Nagle poczuła się trochę lepiej.
+
+Następnie Bąblina, z pomocą magicznego pyłku (było to trochę kurzu znalezionego pod dywanem w dyni) sprawiła, że obok nich pojawił się… pluszowy kot. Nie żywy, niestety, bo Bąblina nie miała akurat żywego kota pod ręką. Jagódka delikatnie pociągnęła go za ogon. Nic się nie stało, poza tym, że kot się zatrząsł. Jagódka roześmiała się.
+
+- Haha! – powiedziała. - Nic się nie dzieje!
+
+- Widzisz? – powiedziała Bąblina. – Śmiech to potęga! A teraz… czas na najważniejsze! Musisz nauczyć się śmiać TAK, aby strach uciekł!
+
+Bąblina wzięła głęboki oddech i zaczęła się śmiać. Najpierw chichotała, potem rechotała, a na końcu wybuchła śmiechem tak głośnym, że pomarańczowa dynia zadrżała w posadach. Jagódka patrzyła na nią, wciąż lekko zmartwiona, ale w jej oczach pojawiały się pierwsze iskierki uśmiechu.
+
+- Spróbuj! – zachęcała Bąblina, ocierając łzy ze śmiechu.
+
+Jagódka spróbowała. Najpierw słabo się uśmiechnęła, potem zaczęła się chichotać, a w końcu, naśladując Bąblinę, wybuchła tak zaraźliwym śmiechem, że cała Kraina Szumów rozbrzmiała radością! Śmiały się szumiące drzewa, śmiała się szumiąca rzeka Gzik (a marchewki śpiewały wesołą piosenkę), śmiała się pomarańczowa dynia!
+
+Po długim, wesołym śmiechu, Jagódka poczuła, że strach gdzieś się schował. Zniknął, rozpłynął się w powietrzu jak mgła.
+
+- Jak się teraz czujesz? – zapytała Bąblina, nadal chichocząc.
+
+- Super! – odpowiedziała Jagódka. – Chcę iść do szkoły! I chcę opowiedzieć dzieciom o tobie i o… marchewkach!
+
+- Wspaniale! – ucieszyła się Bąblina. – Pamiętaj, Jagódko, zawsze, kiedy poczujesz strach, przypomnij sobie spaghetti, kota (pluszowego też się liczy!) i… śmiech! To twoja broń! A jak będzie naprawdę źle… możesz też pogadać z marchewkami. Są bardzo mądre.
+
+Jagódka pożegnała Bąblinę i ruszyła do domu, pełna radości i pewności siebie.
+
+Bąblina zaś, zadowolona z dobrze wykonanej pracy, postanowiła zjeść drugą porcję lodów o smaku papryki. Nagle usłyszała kolejne szumy. Z Krainy Zmartwień nadbiegł… mały, zielony krasnal. Wyglądał na bardzo przestraszonego.
+
+- Wróżko Bąblino! Ratuj! – krzyczał. – Straciłem czapkę! A bez czapki nie mogę zbierać grzybów! I nie mogę potem robić placków grzybowych! A moje wiewiórki…
+
+Bąblina westchnęła. Kolejna przygoda!
+
+- Spokojnie, krasnalu. Czapka się znajdzie. Co robimy? Hmm… Na początek, zjedz… babeczkę z orzechami! – (Bąblina akurat jedną piekła, ale nie zamierzała się nią dzielić, oczywiście.) – Następnie… poszukaj żaby. A potem… pośmiej się z niej!
+
+Krasnal spojrzał na nią z niedowierzaniem, ale ponieważ bardzo chciał znaleźć swoją czapkę, zrobił to, co Bąblina kazała. Zjadł babeczkę (była pyszna!), znalazł żabę (była zielona i chrypiąca), pośmiał się z żaby (a żaba kwakała ze śmiechu) i… nagle, o dziwo, czapka spadła z gałęzi drzewa! Krasnal był uradowany!
+
+Od tego dnia Bąblina pomogła wielu mieszkańcom Krainy Szumów i Krainy Zmartwień. Uczyła ich, że strach i smutek można pokonać śmiechem, odwagą i… dobrym jedzeniem. A jej mądre rady, choć czasem dziwaczne, zawsze przynosiły rezultaty. Bo Bąblina wiedziała jedno: nawet najtrudniejsze problemy można pokonać, mając w sobie trochę radości, trochę głupoty i… mnóstwo spaghetti z brokułami!
+
+I tak, wróżka Bąblina z Krainy Szumów, choć nieco roztargniona i z zamiłowaniem do kapusty, stała się ulubioną bohaterką wszystkich dzieci w Krainie. A czasem, kiedy wiatr szumiał bardzo głośno, można było usłyszeć śmiech Bąbliny i śpiewające marchewki, roznoszący się po całej krainie, dając nadzieję i radość. I co najważniejsze… Bąblina wciąż szukała swojej magicznej maszyny czasu! Kto wie, może pewnego dnia ją znajdzie i… zaprosi nas na herbatę z marchewkowymi ciasteczkami! Koniec.
+</body>
+```

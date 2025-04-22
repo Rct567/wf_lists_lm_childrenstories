@@ -1,0 +1,41 @@
+<prompt>
+Please write a funny German children's story that is at least 1000 words long.
+It must be completely written in proper German (DE).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Die Geschichte von der kleinen Eule Luna'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>de</lang_id>
+
+<title>Die Geschichte von der kleinen Eule Luna</title>
+<body>
+Die kleine Eule Luna hatte ein Problem.  Nicht irgendein Problem, sondern *das* Problem.  Sie war nämlich eine Eule mit einem extrem schlechten Zeitgefühl.  Andere Eulen wussten genau, wann der Mond aufging, wann die Mäuse auftauchten und wann der perfekte Zeitpunkt für ein nächtliches Schlummerfrühstück war.  Luna hingegen?  Luna verstand die Zeit wie ein verirrter Schmetterling im Regen.
+
+Sie wachte manchmal um Mitternacht auf und dachte, es sei morgens.  Oder sie schlief um sechs Uhr morgens ein und erwachte, als der Mond schon wieder hinter den Bergen versteckte sich.  Ihr Tagesablauf war ein wilder Tanz aus Verwirrung und Verspätungen.
+
+Einmal, als die anderen Eulen fleißig ihre Nachmittags-Nüsse knackten, versuchte Luna, den perfekten Zeitpunkt für ein frühstückliches Mäuse-Frühstück zu finden.  Sie huschte durch die Baumwipfel, ihre großen Augen, die wie zwei glänzende Perlen funkelten, suchten nach dem richtigen Moment.  Doch sie landete auf einem feuchten Ast, als die Sonne bereits die Bäume verließ und der Abend sich zu kühlen Farben färbte.  Enttäuscht flatterte sie zu ihrem selbstgebauten Nest, das aus einem alten Vogelhaus bestand.  "Verdammt," dachte sie, "ich bin wieder zu spät!"
+
+Ihre beste Freundin, die Eule Ottilie, die bekannt war für ihre pünktliche Natur und ihr stählernes Zeitgefühl, sah Luna von unten herab.  Ottilie saß auf einem Baumstamm und las mit einer Brille, die an ihren Schnabel gepinnt war, ein dickes Buch über die Uhrzeit.  Sie sah ein bisschen wie ein kleiner, gefiederter Professor aus.
+
+"Luna," rief Ottilie mit ihrer melodischen Stimme, "was ist denn mit dir los?  Du bist wieder mal viel zu spät dran!"
+
+"Ottilie," jammerte Luna, "ich kann die Zeit einfach nicht einfangen!  Es ist wie eine wundersame, aber völlig unberechenbare Schlange!"
+
+Ottilie seufzte.  "Schlange?  Das Problem liegt nicht an der Zeit, sondern an dir, Luna! Du musst lernen, die Zeit zu *beobachten*, nicht zu *verfolgen*!"
+
+"Wie denn?", fragte Luna.
+
+"Schaue dir die Schatten an," erklärte Ottilie.  "Die Sonne geht auf und unter, und die Schatten verändern sich mit der Zeit.  Beachte die Sterne, Luna, sie stehen auch nicht still! Sieh dir die Tiere an, ihre Bewegungen sind wie Markierungen auf der Uhrzeit!"
+
+Luna lauschte Ottiliens Worten aufmerksam.  Sie wusste, dass Ottilie recht hatte.  Sie probierte es.  Als sie am nächsten Morgen aufwachte, schaute sie zuerst auf die Schatten, dann auf die Sterne und schließlich auf die Mäuse, die über die Wiesen huschten. Sie achtete auf die Veränderung der Farben am Himmel. Sie merkte, wie die Bäume ihre Blätter veränderten, je nach Sonnenstand.
+
+Und wie durch Zauber, schien die Zeit langsam und deutlich vor ihren Augen zu stehen.  Sie fand den perfekten Zeitpunkt für das Mäuse-Frühstück, pünktlich!
+
+Von diesem Tag an, achtete Luna auf die kleinen und großen Veränderungen in ihrer Umgebung.  Sie bemerkte die leuchtenden Blätter auf den Bäumen, den Gesang der Vögel und das Zwitschern der Grillen.  Sie lernte, die Zeit zu beobachten und nicht mehr zu verfolgen, und sie war nie wieder zu spät.
+
+Und so lebte Luna glücklich und zufrieden, immer pünktlich und mit einem neuen Verständnis für die Zeit – eine Eule mit einem neuen, fantastischen Zeitgefühl.  Und Ottilie?  Ottilie lachte, weil sie wusste, dass sie ein wunderbares Geschenk mit ihren kleinen Ratschlägen gegeben hatte.  Denn die beste Art zu leben, war es immer, mit viel Liebe und Aufmerksamkeit die Zeit zu leben, genau wie sie kam.
+</body>

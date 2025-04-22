@@ -1,0 +1,89 @@
+<prompt>
+Please write a creative and original Welsh children's story that is at least 1000 words long.
+It must be completely written in proper Welsh (CY).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Tudor o Lan Fawr a'r Castell o Eryri'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>cy</lang_id>
+
+```xml
+<title>Tudor o Lan Fawr a'r Castell o Eryri</title>
+<body>
+Roedd Tudor yn fachgen bach o Lan Fawr, pentref bach hyfryd yng Nghymru. Roedd ei gwallt yn frown tywyll fel y ddaear, a'i lygaid yn las fel y môr ar ddiwrnod heulog. Roedd yn hoffi chwarae ar hyd y caeau gwyrddlas, a dysgu gan ei nain, Eira, am hen hanes Cymru. Roedd Nain Eira yn adrodd straeon fel pe baent yn digwydd o'i flaen, llawn hud a lledrith.
+
+Un diwrnod, tra roedd Tudor yn chwarae gydag un o'i deganau pren – march bach, gwnaeth Nain Eira ysgwyd ei phen. “Tudor bach,” meddai, “mae angen i ti weld pethau y tu hwnt i'r caeau. Mae'r castell o Eryri yn galw.”
+
+Roedd Tudor yn gwybod am gastell Eryri, neu gastell Caernarfon fel y'i gelwir. Roedd Nain Eira wedi adrodd am frenhinoedd a thywysogion, draigiau a rhyfeloedd. Ond roedd y castell ymhell i ffwrdd, ar ben mynydd, ac roedd Tudor erioed wedi bod yno.
+
+“Ond Nain,” gofynnodd Tudor, “sut alla i fynd yno? Mae mor bell.”
+
+“Byddi di’n cael help,” atebodd Nain Eira gyda gwên ddirgel. “Yfory, wrth i’r haul godi, dewch i’r giât arferol. Bydd rhywbeth arbennig yn aros.”
+
+Roedd Tudor yn rhyfeddol iawn. Roedd e eisiau gwybod beth fyddai, ond ceisiodd fod yn amyneddgar. Yn y bore, wrth i'r haul godi, rhoddodd Nain Eira gôt fawr i Tudor, un a oedd yn ymddangos fel pe bai wedi'i gwneud o'r awyr las. Yna, wrth iddo sefyll wrth y giât, ymddangosodd ceffyl gwyn hyfryd, fel petai wedi dod o'r straeon tylwyth teg. Roedd gan y ceffyl gynffon a mwng hir a sidanaidd, a'i lygaid yn belydru fel sêr.
+
+“Dyma Gwyn,” meddai Nain Eira, “bydd e’n dy gludo i'r castell. Cyd-fydd yn ofalus, Tudor bach.”
+
+Neidiodd Tudor i fyny ar gefn Gwyn, gan deimlo'n gyffrous ac ychydig yn nerfus. Meddai, “Diolch Nain.”
+
+“Ewch, Gwyn!” gorchmynnodd Nain Eira.
+
+Dechreuodd Gwyn i symud, yn gyntaf yn araf, ac yna'n gyflymach. Roeddent yn teithio ar hyd y caeau gwyrdd, heibio i afonydd a choedwigoedd. Roedd yr awyr yn llawn o adar yn canu, a’r haul yn disgleirio. Roedd Tudor yn teimlo'n rhydd ac yn hapus.
+
+Ar ôl ychydig oriau, daethant at droed y mynydd. Roedd y castell, gyda'i waliau cerrig mawr a'i dyrau tal, yn sefyll ar y copa, yn fawreddog yn erbyn yr awyr. Roedd yn edrych fel cartref brenin o'r hen amser.
+
+Aeth Gwyn i fyny'r mynydd, gan neidio dros gerrig a rhaeadrau. Roedd Tudor yn gafael yn dynn, ond roedd yn mwynhau'r daith. Roedd y golygfeydd o'r copa yn anhygoel - roedd y cwbl o'r tir Cymraeg yn ymddangos i ymestyn o'i flaen, fel paentiad enfawr.
+
+Pan gyrhaeddasant y castell, roedd y giât fawr pren ar agor. Aethant i mewn i'r cwrt. Roedd yno nifer o bobl, yn gwisgo dillad hen ffasiwn. Roedd rhai yn marchogaeth ceffylau, ac roedd eraill yn dwyn arfau. Edrychodd Tudor arnynt yn rhyfeddod.
+
+Daeth dyn tal, gyda gwallt du a barf hyfryd, ato. Roedd yn gwisgo coron ar ei ben.
+
+“Croeso i Gastell Eryri, Tudor,” meddai’r dyn. “Rwy’n Frenin Llywelyn. Mae Nain Eira wedi dweud wrthyf am dy ddyfodiad. Rydym yn aros amdanat.”
+
+Edrychodd Tudor ar y Brenin Llywelyn, wedi synnu.
+
+“Rwy’n deall,” meddai’r Brenin Llywelyn, “mai Nain Eira yw ceidwad yr hen hanesion. Mae wedi adrodd i mi am dy ddewrder a'th gariad at Gymru. Mae gormod o ddrwg yn y byd, a rydym angen dy help.”
+
+Esboniodd y Brenin Llywelyn bod gwrach ddrwg, o'r enw Morwenna, wedi dechrau achosi drygioni yn y wlad. Roedd hi wedi ei gwneud yn dywyll, ac yn yfed y llawenydd oddi wrth y pobl. Roedd y Brenin Llywelyn yn gofyn i Tudor ei helpu i drechu Morwenna.
+
+“Rydym wedi paratoi,” meddai’r Brenin Llywelyn, “i'ch gwneud yn farchog. Byddwch yn cael cleddyf hudolus a tharian, i'ch amddiffyn.”
+
+Roedd Tudor yn teimlo'n gyffrous ac yn benderfynol. Roedd yn barod i helpu Cymru. Cyn bo hir, rhoddwyd cleddyf disglair a tharian i Tudor. Ar ôl iddo gael ei urddo'n farchog gan y brenin, roedd e'n dechrau teimlo'n wirioneddol wahanol. Roedd yn teimlo'n gryfach, yn fwy dewr, ac yn barod i wynebu unrhyw beth.
+
+Aethant i chwilio am Morwenna. Teithiodd Tudor a'r brenin ar draws yr holl wlad, gan ymladd â'r creaduriaid tywyll a anfonwyd gan Morwenna. Roedd Tudor yn defnyddio ei gleddyf hudolus a'i tharian i'w gorchfygu.
+
+Un diwrnod, daethant at hen dŷ tywyll, lle'r oedd Morwenna yn byw. Safodd Tudor o'i flaen, gan wybod bod yr ymladd hwn yn ddyddiadol.
+
+“Morwenna!” llefodd Tudor. “Rydych chi wedi achosi digonedd o ddrwg! Rhaid i chi stopio!”
+
+Chwarddodd Morwenna, gan edrych yn greulon. “Ti? Bachgen bach yn ceisio fy trechu? Ni fydd yn digwydd!”
+
+Dechreuodd ymladd ffyrnig. Defnyddiodd Tudor ei gleddyf a'i tharian yn dda, gan atal y sêl ac ymosodiadau Morwenna. Ar ôl amser hir, rhoddodd Tudor ergyd dda i Morwenna, gan ei gwthio yn ôl.
+
+Yna, cododd Tudor ei gleddyf uwchben ei ben, a galwodd allan, “Dros Gymru!”
+
+Gyda chryfder, ergydodd y cleddyf i lawr. Disgleiriodd y cleddyf, a gorchfygwyd Morwenna. Diflannodd y gwrach i'r llawr. Gorchfygwyd y tywyllwch. Dychwelodd yr heulwen a’r llawenydd i’r wlad.
+
+Dychwelodd Tudor a Brenin Llywelyn i'r castell, lle'r oeddent yn cael eu croesawu yn ôl fel arwyr. Fe wnaeth pawb ddathlu eu buddugoliaeth.
+
+Ar ôl y dathliad, daeth Gwyn, y ceffyl gwyn, ato. Roedd Nain Eira yn aros.
+
+“Daethoch yn farchog go iawn, Tudor,” meddai Nain Eira. “Rydych wedi achub Cymru.”
+
+Neidiodd Tudor ar gefn Gwyn. Dywedodd i'r brenin a'r bobl oedd yn bresennol, “Diolch i gyd, byddaf yn cofio hyn am byth.”
+
+Yna, gadawodd Tudor y castell. Teithiodd yn ôl ar gefn Gwyn, gan edrych ar y tir Cymraeg hyfryd, gan wybod ei fod wedi gwneud gwahaniaeth.
+
+Y diwrnod nesaf, deffrodd Tudor yn ôl yn ei ystafell yn Llan Fawr. Roedd yn disgwyl i Nain Eira ddod. Ychydig o amser ar ôl hynny, daeth Nain Eira i mewn.
+
+“Adroddwch i mi, Nain,” meddai Tudor, “A oedd hi'n freuddwyd?”
+
+Chwarddodd Nain Eira. “Dim breuddwyd, Tudor bach. Rwy'n falch eich bod wedi profi hyn. Rydych wedi derbyn hanes a gwirionedd Cymru.”
+
+Aeth Tudor i'w gael ei frecwast. Fe wyddai y byddai'n cofio'r antur hon am weddill ei oes. Roedd ei galon yn llawn o lawenydd a balchder. Roedd wedi dysgu nad oedd yn rhaid bod yn fawr, i greu gwahaniaeth. Roedd y castell o Eryri, a'r Brenin Llywelyn, a Gwyn, a Morwenna, i gyd yn rhan o'r hanes Cymreig, ac roedd Tudor bellach yn rhan o'r straeon hynny.
+</body>
+```

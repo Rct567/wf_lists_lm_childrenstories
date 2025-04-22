@@ -1,0 +1,55 @@
+<prompt>
+Please write a dialog-based Slovak children's story that is at least 1000 words long.
+It must be completely written in proper Slovak (SK).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Ako sa zajačik naučil lietať'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>sk</lang_id>
+
+<title>Ako sa zajačik naučil lietať</title>
+<body>
+Bolo raz, bolo, v malej lesnej dedine, kde žili rôzne zvieratá. Medzi nimi bol aj malý zajačik menom Žigo. Žigo bol veľmi zvedavý a vždy sa chcel nåčo nového naučiť. Jedného dňa, keď sedel na kmeňu stromu, pozrel na nebo a uvidel vtáka, ktorý letel vysoko nad ním.
+
+"Áno," povedal si Žigo, "to je to, čo chcem naučiť - lietať!"
+
+Žigo začal hľadať spôsob, ako by mohol lietať. Šiel k sove, ktorá bola známa svojou múdrosťou, a povedal jej: "Dobrý deň, múdra sova! Chcem sa naučiť lietať. Môžeš mi pomoct?"
+
+Sova sa pozrela na Žigo a povedala: "Lietať? To nie je ľahké, malý zajačik. Potrebuješ krídla, aby si mohol lietať."
+
+Žigo povedal: "Áno, krídla, to je to, čo potrebujem. Vieš, kde by som mohol dostať krídla?"
+
+Sova sa zamyslela a povedala: "Môžem ti dať rád, ale musíš ísť k pávovi. On má krásne krídla a možno ti ich bude ochotný dať."
+
+Žigo šiel k pávovi a povedal mu: "Dobrý deň, krásny páve! Chcem sa naučiť lietať a potrebujem krídla. Môžeš mi ich dať?"
+
+Páva sa pozrel na Žigo a povedal: "Krídla? To nie je tak jednoduché. Moje krídla sú krásne, ale nie sú určené pre zajačíkov. Musíš si nájsť iný spôsob, ako lietať."
+
+Žigo bol sklamaný, ale nezdal sa. Šiel k liške, ktorá bola známa svojou chytrousnosťou, a povedal jej: "Dobrý deň, chytrá liška! Chcem sa naučiť lietať a potrebujem krídla. Môžeš mi pomoct?"
+
+Liška sa pozrela na Žigo a povedala: "Krídla? To nie je to, čo potrebujem. Musíš sa naučiť lietať bez krídel. Môžem ti ukázať, ako sa to robí."
+
+Žigo bol zvedavý a povedal: "Áno, ukáž mi, ako sa to robí!"
+
+Liška začala učiť Žiga, ako sa má hýbať, ako sa má dýchať a ako sa má sústrediť. Žigo sa učil denne a denne sa zlepšoval. Liška mu povedala, aby sa nezdal, že sa to naučí, ale Žigo bol už taký unavený.
+
+Jedného dňa, keď Žigo sedel na kmeňu stromu, pozrel na nebo a uvidel vtáka, ktorý letel vysoko nad ním. Žigo sa rozhodol, že to zkusí. Zatvoril oči, sústredil sa a... letel!
+
+Žigo letel vysoko nad lesom, cítil vír vzduchu a slobodu. Bol tak šťastný, že mohol lietať. Keď sa vrátil na zem, šiel k liške a povedal jej: "Ďakujem, chytrá liška! Naucila si ma lietať!"
+
+Liška sa usmiala a povedala: "Som ráda, že si sa naučil lietať, malý zajačik. Ale pamätaj, že lietať nie je len o krídlach, ale aj o sústredení a odvahu."
+
+Žigo sa stal známym ako zajačik, ktorý mohol lietať. Všetky zvieratá v lese sa ho báli a žiadali ho, aby im ukázal, ako sa to robí. Žigo sa stal učiteľom a učil všetky zvieratá, ako sa môžu naučiť lietať.
+
+Jedného dňa, keď Žigo sedel na kmeňu stromu, pozrel na nebo a uvidel vtáka, ktorý letel vysoko nad ním. Žigo sa usmial a povedal si: "Áno, lietať je krásne. Ale musíme si pamätať, že lietať nie je len o krídlach, ale aj o sústredení a odvahu."
+
+A tak Žigo pokračoval v lietaní a učil všetky zvieratá, ako sa môžu naučiť lietať. Stal sa legendou v lese a všetky zvieratá ho milovali.
+
+Žigo žil šťastne a lietal vysoko nad lesom, cítil vír vzduchu a slobodu. A keď sa pozrel na nebo, videl vtáka, ktorý letel vysoko nad ním, a usmial sa, lebo vedel, že lietať je krásne.
+
+Koniec.
+</body>

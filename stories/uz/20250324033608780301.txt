@@ -1,0 +1,75 @@
+<prompt>
+Please write a simple and easy-to-follow Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Ko'lning chuqurligida yashirin sirlar'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>uz</lang_id>
+
+```uz
+<title>Ko'lning chuqurligida yashirin sirlar</title>
+<body>
+Bir zamonlar, uzoq-uzoq o'lkalarda, moviy ko'llar va yashil o'rmonlar bilan o'ralgan go'zal bir qishloq bor edi. Bu qishloqda juda ko'p bolalar yashar edi, ammo ularning ichida eng serg'ayratlari - Dilnoza va Sherzod edi. Dilnoza juda aqlli va zukko qizcha bo'lib, doim yangi narsalarni bilishga qiziqardi. Sherzod esa, jasur va tadbirkor bola edi, u sarguzashtlarga ishtiyoqi baland edi.
+
+Qishloqning yonida, ularning uyi yaqinida, ulkan bir ko'l bor edi. Bu ko'l juda chuqur edi va uning chuqurligida ko'pchilikga noma'lum bo'lgan sirlar yashiringaniga ishonishardi. Qishloq aholisi ko'lga juda ehtiyotkorlik bilan munosabatda bo'lishardi, chunki u juda xavfli deb hisoblashardi. Faqatgina eng qiziqqan bolalar, masalan, Dilnoza va Sherzod, uning sirlarini ochishga qiziqishardi.
+
+Bir kuni, yozning issiq kuni edi. Quyosh osmonda charaqlab turar, hamma bayram qilar edi. Dilnoza va Sherzod ko'l bo'yiga, o'zlari doim o'ynaydigan joyga bordilar. Ular qumda o'tirishar, qo'llarida rangli qalamlar bilan rasmlar chizishardi.
+
+– Sherzod, – dedi Dilnoza o'ychan ohangda, – seningcha, ko'lning tubida nimalar yashiringan?
+
+Sherzod unga jilmayib javob berdi: – Bilmayman, lekin bilishni juda istayman! Ehtimol, u yerda qadimiy shaharning qoldiqlari yoki g'oyib bo'lgan xazinalar yashiringandir.
+
+Dilnoza bosh irg'ab qo'ydi: – Mumkin. Biz ularni topishimiz kerak!
+
+Ular uzoq o'tirib, ko'l haqida xayol surishdi. To'satdan, Sherzod qichqirib yubordi: – Qarang!
+
+Dilnoza uning ko'zlari qarab qoldi. Ko'lning yuzida, to'lqinlar orasida, g'alati bir narsa ko'rinardi. U kichkina, yaltiroq, kumush rangda edi.
+
+– Bu nima o'zi? – so'radi Dilnoza.
+
+– Bilmayman, lekin uni tekshirib ko'rishimiz kerak! – javob berdi Sherzod va darhol ko'lga sho'ng'imoqchi bo'ldi.
+
+Dilnoza uni to'xtatdi: – To'xta! Biz avval xavfsizlikni ta'minlashimiz kerak. Suv juda sovuq va chuqur, biz ehtiyot bo'lishimiz kerak. Keling, avval daraxtga o'tiramiz va yaxshilab kuzatamiz.
+
+Ular daraxtga chiqishdi va ko'lni kuzatishni boshlashdi. Ular bir muddat o'tirishdi, kumush rangli narsa esa bir joyda turardi.
+
+Nihoyat, u yaqinroqqa suzib keldi. Bu kichkina, kumush baliq edi, uning yuzida g'ayrioddiy belgi bor edi. Baliq ularga qaragandek bo'ldi va keyin yana suvga sho'ng'idi.
+
+– Mana bu g'aroyib! – hayrat bilan dedi Sherzod. – U bizga nimanidir ko'rsatmoqchi bo'lgan shekilli!
+
+Dilnoza fikrladi: – U bizga qandaydir signal berdi. Biz uni kuzatishimiz kerak.
+
+Ular daraxtdan tushishdi va ko'l qirg'og'iga yaqinlashishdi. Sherzod suvga tushmoqchi bo'lganida, Dilnoza uni yana to'xtatdi.
+
+– Sherzod, ehtiyot bo'l! Bizning bu yerda yuzma-yuz kelishimiz, ehtimol, havfli bo'lishi mumkin. Keling, avval bolalar o'yinchoqlarimizdan foydalanamiz.
+
+Ular o'zlari bilan olib kelgan kichik qayiqcha va ipni oldilar. Sherzod qayiqchani ipga bog'ladi va ko'lga tashladi, ipni uzunroq qilib, u bilan ko'lga qarab suzdi.
+
+Kumush baliq ularga ko'rinib, qayiqcha tomon suzdi. Baliq qayiqcha atrofida aylanib, unga ishora qilayotgandek edi. Keyin u yana suvga sho'ng'idi va chuqurlikka g'oyib bo'ldi.
+
+Dilnoza va Sherzod baliqning ortidan suzishni boshladilar. Ular asta-sekin ko'lning chuqurligiga tushishdi. Ular atrofida suv tusi o'zgara boshladi. Quyosh nurlari endi ularga etib bormas edi. Suv juda sovuq edi.
+
+Ularning yuraklari hayajondan urardi. Nihoyat, ular suv tubiga etib kelishdi. U yerda, qorong'ilikda, ular g'aroyib bir manzara ko'rishdi. Ularning oldida, qadimiy bir shaharning qoldiqlari turardi. Devorlar yashil o'tlar bilan qoplangan, uylarning tomlari buzilgan, ammo juda chiroyli edi.
+
+Va o'sha paytda kumush baliq ularning oldida paydo bo'ldi va ularni kichik bir g'or tomon yetakladi. G'orda, ular bir g'aroyib narsani topdilar. Ular nur chiqaruvchi kristallarni ko'rdilar. Ular har xil rangda, yorqin va chiroyli edi. Bu kristalllar ulkan xazinaga o'xshardi!
+
+– Bu nima? – hayron bo'lib so'radi Sherzod.
+
+Dilnoza kristallarga teginib, javob berdi: – Menimcha, bular ko'lning yuragi. Ular bizga o'zlarining sehrini berishga tayyor!
+
+Va shunday qilib, ular ko'lning ichidagi sehrni topdilar. Kumush baliqning do'stligi tufayli, ular yashirin sirlarni bilib oldilar. Ular shahar va kristallarning hikoyasini tushunishdi. Kristallarning kuchi, agar ular yaxshilik uchun ishlatilsa, ko'lni va uning aholisini himoya qilishga yordam berardi.
+
+Dilnoza va Sherzod qishloqqa qaytib kelishdi, ularning yuraklari quvonchga to'la edi. Ular o'zlarining sarguzashtlari haqida hech kimga aytishmadi. Ular sirni saqlashdi va ko'lni, baliqni va sehrli kristallarni himoya qilishga qaror qilishdi.
+
+Har yozda, ular ko'lga borishar, kumush baliq bilan uchrashar va sehrli kristallarga mehr berishardi. Ular doimiy ravishda ko'lga g'amxo'rlik qilishdi, suvni ifloslanishdan himoya qilishdi. Qishloq ahli buni bilmagan holda, Dilnoza va Sherzodning g'amxo'rligi tufayli, ko'l gullab-yashnashda davom etdi.
+
+Shu tariqa, Dilnoza va Sherzodning sarguzashtlari tugadi, ammo ko'lning yashirin sirlari abadiy qoldi. Ular ko'lning do'sti bo'lib qoldi, go'zallikni himoya qilishda va yaxshilikni saqlashda davom etdilar.
+
+Va agar siz, aziz bolalar, shu ko'l yoniga borsangiz, ehtimol, siz ham kumush baliqni ko'rishingiz va ko'lning sehrini his qilishingiz mumkin. Faqat, doimo yaxshi bo'ling va atrofdagi tabiatni asrang, shunda siz ham o'z sarguzashtingizni topishingiz mumkin!
+</body>
+```

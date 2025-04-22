@@ -1,0 +1,48 @@
+<prompt>
+Please write a dialog-based Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Sehrli qum soati va vaqtning maxfiy sirlari'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>Sehrli qum soati va vaqtning maxfiy sirlari</title>
+<body>
+ 
+O'rta Osiyoning go'zal tog'li qishlog'ida, Ulug'bek nomli bir qiziqarli bola yashagan.  Ulug'bek qishloqning eng o'ychan bolalaridan biri bo'lib, har doim yangi narsalarni topishga va ularning sirlari bilan tanishishga intilar edi.  Bir kuni, u katta-katta, zargarlik bilan bezatilgan bir qum soatini topdi.  Qum soati, oddiy qum soati emas edi. Uning chuqur qumli o'lchog'i qimmatbaho toshlar bilan bezatilgan, shuningdek, oltin rangdagi mayda o'yma naqshlar bilan bezadi edi.  Qizig'i, qum soatini egallangan bo'sh joylarga qayerdandir mayda-chuyda raqsga tushadigan qum donalari chiqib kelardi.
+
+"Bu qum soati menga sirni ochib bera oladimi, vaqtning siri qayerda?", deya o'yladi Ulug'bek, qum soatini qo'llariga olgancha.  U qum soatini esiga olib o'tirgancha, birdan eski bobosi keldi. Bobosi qorong'i shlyapa va katta qoshli ko'zoynak kiygan edi.
+
+"Nima qilyapsan, nevaram?", dedi bobosi yumshoq ohangga.
+
+"Bobo, men bu sehrli qum soatini topdim. Menga ko'rinmas sirli dunyo va vaqtning sirlari haqida gapiradigan ekanini ko'rdim!" deydi Ulug'bek.
+
+Bobosi kulib, "Qum soati oddiy emas, Ulug'bek. U vaqtning sirli kashfiyotchisi, har bir qum donasi har bir lahzani ifodalaydi", deydi.
+
+"Lekin men qanday qilib qumning har bir harakatini tushunaman?", so'radi Ulug'bek hayrat bilan.
+
+"Vaqt sirli va uchinchi o'lchamda yashiringan", deb tushuntirdi bobosi.  "Har bir qum donasi bir lahzani,  har bir soatlik harakat esa vaqtning oqimi", deb qo'shib qo'ydi. "Sizga ko'rinmaydigan sirlarni ko'rib chiqishga yordam berishi mumkin!"
+
+Ulug'bek va bobosi birgalikda qum soatini kuzatib o'tirishdi. Qum donalari harakat qilishini ko'rib,  har bir soatlik harakatning yo'lini o'ylar edilar.  Birinchilardan biri, ko'rinmas dunyolarga yo'lni ochadigan har bir dona qumdan iborat yashirin yozuv edi.
+
+"Qarang", dedi bobosi, " bu qum donalari quyoshda porlagandek ko'rinayapti. Ular bizning dunyoimizdan tashqaridagi, o'zgarmas bir soha haqida gapirib turibdi!"
+
+Ulug'bek birdan aqlga kirdi, "Boshqacha qilib aytganda, bu qum soati boshqa vaqtlarga, boshqa dunyo siriga kira olmasligimizdan boshqa yo'l yo'q?" deb so'radi u.
+
+"To'g'ri, nevaram, bu soat vaqtni turli burchakdan ko'rish imkoniyatini beradi. Agar bir-birini tushunsa,  hech bir vaqt  bizga qarama-qarshi kelmasligi, aksincha,  hamma narsaga  yaxshi munosabatda bo'lishi mumkin!" dedi bobosi tabassum bilan.
+
+Keyin ular quyoshning porlab turadigan nurini o'rganishdi, qorong'i tomoniga chuqur o'qigandan so'ng.  Ularning yo'lini ko'rib turgan bir joydan bo'shliqlar va har xil ko'rgazmalar, butun bir galaktika bilan koinotdagi voqea borligini tushunishga erishdilar.
+
+
+Ulug'bek va uning bobosi yana  qo'shni ko'llarga boqishdi.  Qo'shni ko'lda o'ynayotgan bolakaylarni  sezilarli to'lqinlar ustida  qayiqda ko'rdilar.  Qum soati  o'zgarmasdir, har doim qat'iy edi, lekin u odamlardagi  bir joyni o'rgatdi.  Bu ko'rgazmaga  butun vaqt yo'li  yopishtirilishi mumkinligidan ajralishga imkon beruvchi  o'zgarishlardir. Ularning sevgisi, umidlari va g'ayratlari har bir  lahzani hayotga  tashlamoqda.
+
+
+Ulug'bek chuqur o'ylagandi. Vaqt haqiqatdan ham sirlidir. Bu butun qamronli hayotimizni, har bir sevgimizi,  va har bir qamronli  kuzimizni  o'ylashadi.
+
+Shundan so'ng ular uyga qaytib ketishdi. Ulug'bek esa vaqtning ma'nosini yanada chuqurroq  tushunardi. Qum soati hech qachon uning  qo'lida emasdi, aksincha uning  qalbidagi vaqtdan yuksalib turardi, hayot harakati bilan yoqimli soyalarda o'zini taqdim etardi.
+</body>

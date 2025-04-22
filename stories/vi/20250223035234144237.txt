@@ -1,0 +1,137 @@
+<prompt>
+Please write a dialog-based Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Heo Con Thông Minh Và Những Cuộc Phiêu Lưu'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>vi</lang_id>
+
+```xml
+<title>Heo Con Thông Minh Và Những Cuộc Phiêu Lưu</title>
+<body>
+<p><b>Heo Con Thông Minh Và Những Cuộc Phiêu Lưu</b></p>
+
+<p>Ngày xửa ngày xưa, trong một khu rừng xanh biếc, có một chú heo con tên là Tí. Tí không giống những chú heo con khác. Tí rất thông minh và thích khám phá. Thay vì chỉ lăn lê bò toài trong bùn, Tí thích đọc sách, đặt câu hỏi và tìm hiểu về thế giới xung quanh.</p>
+
+<p>Một buổi sáng nọ, khi mặt trời vừa ló dạng, Tí đang ngồi dưới gốc cây cổ thụ, chăm chú đọc cuốn sách tranh về những loài chim. Bỗng nhiên, một tiếng kêu thảng thốt vang lên.</p>
+
+<p>“Oa… oa… cứu tôi với!”</p>
+
+<p>Tí ngẩng đầu lên, nhìn quanh. Từ trên ngọn cây cao nhất, một chú chim non nhỏ bé đang cố gắng vẫy cánh, nhưng không tài nào bay được.</p>
+
+<p>Tí liền chạy nhanh đến gốc cây. “Chào bạn chim nhỏ! Bạn bị sao vậy?”</p>
+
+<p>Chim non run rẩy đáp: “Tôi… tôi bị ngã từ tổ xuống. Cánh tôi đau quá, không bay lên được.”</p>
+
+<p>Tí nhìn lên tổ chim trên cao. “Đừng lo, tôi sẽ giúp bạn.”</p>
+
+<p>Tí nghĩ ngợi một lúc. Cây cao quá, mình không thể trèo lên được. Nhưng mình có thể nghĩ cách khác.</p>
+
+<p>“Bạn có đói không?” Tí hỏi.</p>
+
+<p>“Có… tôi đói lắm,” Chim non yếu ớt trả lời.</p>
+
+<p>Tí liền chạy đi tìm. Tí tìm thấy một vài quả sung chín mọng rụng dưới gốc cây. Tí nhẹ nhàng nhặt những quả sung, mang đến cho chim non.</p>
+
+<p>“Ăn đi, bạn sẽ có thêm sức mạnh.”</p>
+
+<p>Chim non ăn ngấu nghiến, một lúc sau, vẻ mệt mỏi đã giảm đi đôi chút.</p>
+
+<p>Tí quan sát xung quanh. Bên cạnh gốc cây, có một đống cành cây khô. Tí nảy ra một ý tưởng.</p>
+
+<p>“Bạn chim nhỏ, bạn đợi tôi một chút nhé!”</p>
+
+<p>Tí nhanh nhẹn nhặt những cành cây khô, xếp thành một cái thang nhỏ. Sau đó, Tí nhẹ nhàng đặt cái thang cạnh gốc cây, rồi dùng sức đẩy, cái thang từ từ dựa vào thân cây.</p>
+
+<p>“Bạn chim, hãy cố gắng trèo lên thang đi. Tôi sẽ ở dưới giúp bạn.”</p>
+
+<p>Chim non cố gắng, từng bước, từng bước một, trèo lên cái thang do Tí tạo ra. Cuối cùng, chim non cũng lên đến gần tổ.</p>
+
+<p>“Cố lên! Sắp tới nơi rồi!” Tí cổ vũ.</p>
+
+<p>Khi chim non gần đến tổ, một cơn gió nhẹ thổi qua, giúp chim non bám được vào thành tổ. Chim non mừng rỡ, cất tiếng kêu:</p>
+
+<p>“Cảm ơn bạn Tí! Bạn thật là tốt bụng và thông minh!”</p>
+
+<p>Tí cười tươi. “Không có gì đâu. Chỉ cần bạn an toàn là tôi vui rồi.”</p>
+
+<p>Buổi chiều hôm đó, Tí đang đi dạo trong rừng thì nghe thấy tiếng khóc. Tí chạy đến, thấy một bạn sóc nhỏ đang ngồi dưới gốc cây, hai má đẫm nước mắt.</p>
+
+<p>“Bạn sóc, bạn bị sao vậy?” Tí hỏi.</p>
+
+<p>Sóc nhỏ nức nở: “Tôi… tôi bị lạc đường. Tôi không biết đường về nhà.”</p>
+
+<p>Tí nhìn quanh. Khu rừng rất rộng lớn, có rất nhiều con đường. Tí phải tìm cách giúp bạn sóc nhỏ.</p>
+
+<p>“Bạn đã đi qua những đâu?” Tí hỏi.</p>
+
+<p>Sóc nhỏ cố gắng nhớ lại: “Tôi đi qua một con suối nhỏ, rồi đến một bụi hoa hồng đỏ, sau đó là một cây nấm lớn…”</p>
+
+<p>Tí nghe xong, liền suy nghĩ. Tí nhớ lại con đường mình thường đi. Tí biết con suối nhỏ, bụi hoa hồng đỏ và cây nấm lớn ở đâu.</p>
+
+<p>“Được rồi, bạn đi theo tôi.” Tí nói.</p>
+
+<p>Tí dẫn bạn sóc nhỏ đi theo con đường mình biết. Tí đi trước, thỉnh thoảng dừng lại để hỏi bạn sóc nhỏ có nhớ gì không. Cuối cùng, sau một hồi đi bộ, Tí và bạn sóc nhỏ cũng đến được ngôi nhà của sóc.</p>
+
+<p>Sóc mẹ mừng rỡ ôm chầm lấy con. Sóc con cũng ôm chầm lấy Tí.</p>
+
+<p>“Cảm ơn bạn Tí! Bạn đã giúp con tôi tìm được đường về nhà.” Sóc mẹ nói.</p>
+
+<p>“Không có gì đâu ạ.” Tí cười.</p>
+
+<p>Trước khi ra về, sóc mẹ còn cho Tí một túi hạt dẻ thơm ngon.</p>
+
+<p>Một hôm khác, Tí đang chơi gần bờ sông thì thấy một chú rùa con đang cố gắng bò lên bờ, nhưng cứ bị trượt xuống vì bờ sông trơn trượt.</p>
+
+<p>“Chào bạn rùa con! Bạn cần giúp đỡ gì không?” Tí hỏi.</p>
+
+<p>Rùa con thở dốc: “Tôi… tôi muốn lên bờ để tìm thức ăn. Nhưng tôi không bò lên được.”</p>
+
+<p>Tí nhìn bờ sông. Bờ sông rất dốc và trơn. Tí nghĩ, mình phải tìm cách giúp rùa con.</p>
+
+<p>Tí quan sát xung quanh. Gần đó có rất nhiều sỏi đá nhỏ.</p>
+
+<p>“Bạn rùa, bạn đợi tôi một chút nhé!”</p>
+
+<p>Tí nhanh nhẹn nhặt những viên sỏi đá, xếp thành một con đường nhỏ dốc lên bờ. Tí cẩn thận xếp sỏi, để tạo thành một con đường an toàn cho rùa con.</p>
+
+<p>“Bạn rùa, hãy đi theo con đường này. Nó sẽ giúp bạn lên bờ dễ dàng hơn.”</p>
+
+<p>Rùa con chậm rãi bò lên con đường sỏi. Nhờ có con đường mà Tí tạo ra, rùa con dễ dàng lên bờ. Rùa con vui mừng cảm ơn Tí.</p>
+
+<p>“Cảm ơn bạn Tí! Bạn thật là giỏi!”</p>
+
+<p>Tí cười. “Không có gì đâu. Chỉ cần bạn lên bờ an toàn là tôi vui rồi.”</p>
+
+<p>Cứ như vậy, với trí thông minh và lòng tốt của mình, heo con Tí đã giúp đỡ rất nhiều bạn bè trong khu rừng. Tí luôn sẵn sàng giúp đỡ những ai cần. Tí cũng học được rất nhiều điều từ những cuộc phiêu lưu của mình.</p>
+
+<p>Một ngày nọ, Tí quyết định đến thăm một khu rừng khác, nơi mà mọi người đồn rằng có rất nhiều điều kỳ diệu. Tí chuẩn bị hành lý, mang theo một cuốn sách và một ít hạt dẻ.</p>
+
+<p>“Tạm biệt mọi người! Tôi đi đây!” Tí nói lời tạm biệt với bạn bè.</p>
+
+<p>Bạn bè trong khu rừng tiễn Tí đi. Ai cũng mong Tí có một chuyến đi vui vẻ và an toàn.</p>
+
+<p>Trên đường đi, Tí gặp rất nhiều điều thú vị. Tí gặp những con vật lạ, những cây cối kỳ lạ, và những con suối trong veo. Tí khám phá, học hỏi và trải nghiệm.</p>
+
+<p>Trong khu rừng mới, Tí cũng gặp những người bạn mới. Tí kết bạn với một chú thỏ nhút nhát, một cô cáo thông minh và một chú gấu hiền lành.</p>
+
+<p>Tí cùng bạn bè trải qua những cuộc phiêu lưu đầy thú vị. Họ cùng nhau khám phá những bí mật của khu rừng. Họ cùng nhau vượt qua những khó khăn. Và họ luôn giúp đỡ lẫn nhau.</p>
+
+<p>Tí nhận ra rằng, thế giới này thật rộng lớn và kỳ diệu. Tí cũng nhận ra rằng, tình bạn là điều quý giá nhất. Và quan trọng nhất, Tí biết rằng, dù ở bất cứ đâu, chỉ cần có lòng tốt và trí thông minh, thì mọi khó khăn đều có thể vượt qua.</p>
+
+<p>Sau nhiều ngày phiêu lưu, Tí quyết định quay về khu rừng của mình. Bạn bè ở khu rừng cũ đã rất nhớ Tí.</p>
+
+<p>Khi Tí trở về, cả khu rừng như bừng tỉnh. Mọi người đều vui mừng chào đón Tí trở về.</p>
+
+<p>Tí kể cho mọi người nghe về những cuộc phiêu lưu của mình. Mọi người chăm chú lắng nghe, mắt ai cũng sáng rỡ.</p>
+
+<p>Từ đó, Tí tiếp tục sống hạnh phúc trong khu rừng của mình, chia sẻ những câu chuyện của mình và giúp đỡ những người bạn.</p>
+
+<p>Và câu chuyện về heo con Tí thông minh và những cuộc phiêu lưu của chú vẫn được kể mãi đến ngày nay.</p>
+</body>
+```

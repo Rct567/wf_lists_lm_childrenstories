@@ -1,0 +1,100 @@
+<prompt>
+Please write a educational Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Caint na Croí: A scéal Saoire Nua'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>ga</lang_id>
+
+```xml
+<title>Caint na Croí: A scéal Saoire Nua</title><body>
+Bhí sé ina lá gréine, ag taitneamh ar fud na hÉireann. Ag seasamh ar bharr chnoic bhig, bhí Beagóigín, buachaill beag le gruaig rua agus súile gorma ag féachaint amach. Bhí a chroí lán le háthas. Bhí an lá inniu speisialta – bhí sé ar tí dul ar a chéad saoire nua!
+
+"Máthair, a Mhóir, an bhfuil gach rud réidh?" a scairt sé anuas go dtí an teach beag binn a bhí fúthu.
+
+"Tá, Beagóigín, a stór," a d'fhreagair Máthair, a bhí ina seasamh ag an doras, le gáire mór ar a haghaidh. "An bhfuil do bhagáiste pacáilte agat? Do chuid bréagán, do léaráidí, do bhróga?"
+
+"Tá, tá, tá!" a dúirt Beagóigín, ag rith síos go dtí an doras. "Agus táim réidh le dul! Cá mbeidh muid ag dul?"
+
+"Bhuel, a Beagóigín, táimid ag dul go Conamara!" a dúirt Máthair le gliondar ina glór. "Tá sé ina áit álainn, le farraige, sliabhra, agus daoine deasa ag labhairt na Gaeilge."
+
+"Conamara!" a scairt Beagóigín le sult. "Cad é an Ghaeilge?"
+
+"Is í an Ghaeilge ár dteanga dúchais, a Beagóigín," a mhínigh Máthair. "Is teanga í atá labhartha ag na daoine in Éirinn le fada an lá. Anois, táimid ag dul chuig áit ina labhraítear an Ghaeilge gach lá."
+
+Thóg Máthair agus Beagóigín a mbagáiste, chuaigh siad isteach i gcarr beag deas agus thosaigh siad ar a dturas fada. Ag taisteal trí chathracha, bailte beaga, agus tuaithe áille, bhí Beagóigín ag féachaint amach as an bhfuinneog, a shúile ag spalpadh de ghean.
+
+"Breathnaigh, Máthair! Sliabhra! Agus crainn chomh glas!"
+
+"Is fíor sin, a stór," a d'fhreagair Máthair, ag miongháire. "Tá Éire ina tír iontach álainn. Agus anois, táimid ag druidim le Conamara."
+
+Tar éis roinnt uaireanta an chloig, shroich siad Conamara. Bhí an radharc iontach. An fharraige leathan gorm, na sléibhte arda glasa, agus an spéir leathan gorm, agus an ghrian ag taitneamh go geal.
+
+Chonaic Beagóigín teach beag bán le fuinneoga gorma. "An é sin ár dteach, Máthair?"
+
+"Is ea, a Beagóigín," a d'fhreagair Máthair. "Sin an teach ina bhfanfaimid le linn na saoire."
+
+Nuair a chuaigh siad isteach sa teach, bhí sé deas agus cluthar. Bhí troscán adhmaid ann, teallach, agus fuinneoga móra a d'fhéach amach ar an bhfarraige.
+
+"Is breá an áit é!" a dúirt Beagóigín. "Ach cá bhfuil na daoine a labhraíonn an Ghaeilge?"
+
+"Féach, a stór," a dúirt Máthair, ag féachaint amach as an bhfuinneog. "Seo é Muireann."
+
+Bhí Muireann ina cailín beag le gruaig donn fhada agus súile donn ag siúl anuas an tsráid. Tháinig siad amach chun bualadh léi.
+
+"Fáilte go Conamara!" a dúirt Muireann le gáire. "Is mise Muireann."
+
+"Is mise Beagóigín," a dúirt Beagóigín. "Agus seo mo mháthair."
+
+"Tá áthas orm bualadh libh," a dúirt Máthair. "Tá muid ar bís leis an saoire."
+
+"An maith leat an Ghaeilge?" a d'fhiafraigh Muireann de Bheagóigín.
+
+"Níl a fhios agam," a dúirt Beagóigín. "Níor chuala mé í roimhe."
+
+"Ná bíodh eagla ort," a dúirt Muireann. "Múinfidh mé roinnt focal duit!"
+
+Chuaigh siad síos go dtí an trá. Bhí an ghrian ag taitneamh ar an ghaineamh bhán, agus bhí an fharraige ag taitneamh go ciúin.
+
+"Anseo, Beagóigín," a dúirt Muireann. "Deirimid 'fáilte' nuair a bhuaileann muid le daoine nua. Déan iarracht 'fáilte' a rá."
+
+"Fáilte!" a dúirt Beagóigín, ag miongháire.
+
+"Go hiontach!" a dúirt Muireann. "Anois, 'conas atá tú?'"
+
+"Conas atá tú?" a d'fhoghlaim Beagóigín, go cruinn.
+
+"Maith thú!" a dúirt Muireann. "Agus seo, 'go raibh maith agat'."
+
+"Go raibh maith agat," a d'fhoghlaim Beagóigín, agus thosaigh a chroí ag líonadh le háthas. Thuig sé go raibh an Ghaeilge an-spéisiúil.
+
+Ansin, thosaigh siad ag foghlaim faoi na hainmhithe. "Madra," a dúirt Muireann, ag léiriú an madra beag ag rith trasna na trá. "Cat." Dúirt sí agus chuir sí lámh ar chait mhóir ghreamaithe. "Éan." Sheas sí le Beagóigín agus féachaint ar éin ag eitilt. "Capall." Léirigh sí capall galánta le mane fada.
+
+Thug Muireann, Beagóigín, agus Máthair cúpla lá ag spaisteoireacht. Chuaigh siad chuig an trá gach lá. D'ith siad uachtar reoite, shiúil siad ar feadh na gcosán, agus d'fhoghlaim siad níos mó focal Gaeilge gach lá. Chuir siad gach rud le chéile agus thosaigh Beagóigín ag labhairt Gaeilge le muinín nua.
+
+Nuair a d'fhág Máthair agus Beagóigín Conamara, bhí Beagóigín brónach. Ach d'fhiosraigh sé freisin go raibh rud éigin luachmhar foghlamtha aige - caint na croí.
+
+"Beidh mé ag caint Gaeilge gach lá, Máthair," a dúirt Beagóigín, agus é ag féachaint amach as an bhfuinneog.
+
+"Is breá an rud é sin, a stór," a d'fhreagair Máthair. "Tá an Ghaeilge ina cuid thábhachtach dár n-oidhreacht. Agus is rud álainn é le labhairt."
+
+Mar sin, nuair a d'fhill siad abhaile, chuaigh Beagóigín i dtaithí ar labhairt Gaeilge. Chuir sé ceist ar a mháthair agus a athair an chuid is mó de na laethanta. Thosaigh sé ag léamh leabharthaí Gaeilge, ag éisteacht le ceol Gaeilge, agus ag féachaint ar chláir theilifíse Gaeilge.
+
+Thosaigh sé ag brionglóid faoi fhocail, abairtí, agus scéalta, i nGaeilge. Thug an Ghaeilge beatha agus brí nua do shaol Beagóigín.
+
+"Máthair," a dúirt Beagóigín oíche amháin. "Cathain a bhfaighimid dul ar saoire nua go Conamara arís?"
+
+Miongháir an mháthair agus dúirt sí, "Nuair is féidir leat, a stór. Ar aon chuma, beimid ann in éineacht leis an Ghaeilge sa chroí!"
+
+Agus ag an nóiméad sin, thuig Beagóigín go raibh an saoire is fearr aige riamh. Bhí cairde nua déanta aige, bhí scileanna nua foghlamtha aige, agus, thar gach rud eile, fuair sé cara leis an Ghaeilge - an teanga a cheanglaigh a chroí leis an oidhreacht álainn a bhí aige. Bhí caint na croí faighte ag Beagóigín, agus ba é sin an bronntanas is fearr a d’fhéadfadh a bheith aige riamh.
+
+Thóg sé roinnt blianta chun go mbeadh an Ghaeilge ag Beagóigín go líofa. D’fhás sé aníos, chuaigh sé ar scoil, d’fhás sé mór agus láidir, ach choinnigh sé an grá don Ghaeilge ina chroí. Chuaigh sé ag foghlaim ar scoil Ghaeilge, áit ar chónaigh an Ghaeilge gach lá.
+
+Gach lá, chloisfí Beagóigín ag gáire, ag déanamh cairde nua, agus ag rá, "Dia duit! Conas atá tú?" Agus seo a spreag an croí. Ba é anseo agus ansin i gcaitheamh a shaoil a thaispeáin sé don domhan nach mbeadh sé riamh, riamh, riamh arís ar an saol gan a Ghaeilge. Ba í an Ghaeilge a chuidigh leis dul ar aghaidh le gach rud agus bhí sé ábalta a mhian a chaitheamh i saol nua, áit ar éirigh leis an Ghaeilge ina chroí an áthas is mó a d’fhéadfadh duine ar bith a fháil riamh. Agus mar sin, deirimid: go dtí an chéad scéal eile.
+</body>
+```

@@ -1,0 +1,63 @@
+<prompt>
+Please write a uncomplicated Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Dziwne Przygody Małego Krasnoludka, Który Szukał Skarbu'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pl</lang_id>
+
+```xml
+<title>Dziwne Przygody Małego Krasnoludka, Który Szukał Skarbu</title><body>
+Dawno, dawno temu, w głębokim, zielonym lesie, mieszkał mały krasnoludek. Nazywał się Bobek. Bobek nie był zwyczajnym krasnoludkiem. Miał małą, czerwoną czapeczkę, wielkie, niebieskie oczy i wiecznie zadrapane kolana. Uwielbiał przygody, choć często kończyły się one dla niego upadkami i stłuczeniami. Jego największym marzeniem było znalezienie skarbu. Słyszał od starszych krasnali opowieści o skrzyniach pełnych błyszczących klejnotów i złotych monet, ukrytych głęboko w lesie.
+
+Pewnego słonecznego poranka, Bobek postanowił, że wyruszy na poszukiwania. Spakował mały plecak. W plecaku znalazł się kawałek razowego chleba z miodem (ulubione śniadanie Bobka), mała drewniana łopatka i starą, pożółkłą mapę. Mapa należała do jego dziadka, najstarszego krasnala w całej wiosce, który podobno wiedział, gdzie ukryte są skarby. Mapa przedstawiała krętą ścieżkę, prowadzącą przez gęsty las, obok szemrzącego strumienia i w górę wysokiej góry. Na samym końcu, zaznaczony był X.
+
+"Gotowy do przygody!" – krzyknął Bobek, zaciskając malutką piąstkę. Otworzył drzwi swojego domku – małego grzyba, który wyglądał jakby wyjęty z bajki. Zostawił za sobą swoją małą, przytulną izdebkę, w której na kominku pyrkotał mały czajnik z herbatą miętową. Wybiegł na ścieżkę.
+
+Najpierw ruszył w głąb lasu. Drzewa były tak wysokie, że słońce ledwo przebijało się przez korony. Słychać było śpiew ptaków i szelest liści pod stopami Bobka. Szukał znaków, które były zaznaczone na mapie. Szukał strumienia. Po godzinie wędrówki, dotarł do szemrzącego strumienia. Woda była tak czysta, że widział na dnie drobne kamyki i małe rybki.
+
+Usiadł na kamieniu i zjadł swój chleb z miodem. Był pyszny! Gdy skończył, zauważył, że coś błyszczy w wodzie. "O, to może być klejnot!" – pomyślał Bobek, z ekscytacją pochylając się nad wodą. To okazała się błyszcząca muszelka, która odbijała promienie słoneczne. Bobek wziął ją do ręki. "Przyda się w mojej kolekcji!" – pomyślał zadowolony.
+
+Po odpoczynku, ruszył dalej. Kierował się w górę. Szlak był coraz trudniejszy. Droga pięła się w górę stromo, a skały były śliskie od wilgoci. Mały krasnoludek musiał uważać, żeby się nie poślizgnąć. Kilka razy upadł, ale podnosił się i szedł dalej, myśląc o skarbie.
+
+Podczas wspinaczki, spotkał wiewiórkę, która z uwagą patrzyła, jak Bobek próbuje wdrapać się na duży kamień.
+"Co robisz, mały krasnoludku?" – zapytała wiewiórka, trzymając w łapkach żołądź.
+"Szukam skarbu!" – odparł Bobek, oddychając ciężko.
+"Skarbu?" – zdziwiła się wiewiórka. "Co to za skarb?"
+"Skrzynia pełna złota i klejnotów!" – odpowiedział z zapałem Bobek.
+Wiewiórka roześmiała się. "Widziałam już wiele skarbów w tym lesie, ale żaden z nich nie wyglądał tak, jak opisujesz. Znam sekretny skarb, schowany na szczycie góry. Ale to nie jest skrzynia złota. To coś o wiele cenniejszego."
+
+Bobek zaciekawił się. "A co to takiego?"
+"Chodź ze mną, to zobaczysz!" – powiedziała wiewiórka i poprowadziła Bobka dalej, w górę góry. Po jeszcze trudniejszej wspinaczce, dotarli na szczyt. Rozpościerał się stamtąd wspaniały widok. Z góry widać było cały las, strumień i małą wioskę krasnali. Ale to nie widok był skarbem, chociaż był naprawdę piękny.
+
+Na samym szczycie rosło stare, majestatyczne drzewo. Wiewiórka wskazała na pień drzewa. W pniu, w dziupli, znajdowało się gniazdo z kilkoma małymi pisklętami. Pisklęta skrzeczały, oczekując na rodziców.
+"To jest nasz skarb" – powiedziała wiewiórka. "To radość życia, patrzenie, jak nowe życie się rozwija, słuchanie śpiewu ptaków i oddychanie świeżym powietrzem. To wszystko jest warte więcej niż złoto."
+
+Bobek spojrzał na małe pisklęta, na piękny widok, i pomyślał o tym, co powiedziała wiewiórka. Po raz pierwszy pomyślał o tym wszystkim w ten sposób. Zdał sobie sprawę, że to, co wiewiórka powiedziała, było prawdą.
+
+"Masz rację" – powiedział Bobek. "To wspaniały skarb."
+
+Schodzili razem z góry. W czasie zejścia, rozmawiali o przyrodzie i o tym, co ich cieszy w lesie.
+Dotarli do małego, kolorowego pola kwiatów. Na kwiatach latały kolorowe motyle. Bobek roześmiał się, patrząc na motyle.
+"Pamiętaj, Bobku" – powiedziała wiewiórka – "skarby można znaleźć w wielu miejscach, nie tylko w skrzyniach pełnych złota."
+
+Wrócili do strumienia, gdzie Bobek znalazł muszelkę. Pożegnał się z wiewiórką i podążał ścieżką, która prowadziła w dół, do jego domu. Myśląc o przygodzie, która go spotkała.
+Zanim dotarł do domu, zauważył coś na trawie. Leżała tam mała, błyszcząca moneta. Podniósł ją. "Złoto!" – krzyknął, z uśmiechem na twarzy. Moneta była maleńka, ale była prawdziwa. "I to jest super!" – powiedział Bobek, patrząc na monetę.
+
+Dotarł do swojego domku. U drzwi czekał na niego jego dziadek.
+"Gdzie byłeś, Bobku?" – zapytał dziadek.
+"Szukałem skarbu!" – odpowiedział Bobek, pokazując mu monetę.
+Dziadek uśmiechnął się. "Widzę, że znalazłeś coś cennego. I pamiętaj, skarby mogą przybierać różne formy."
+Bobek przytulił dziadka i opowiedział mu o wszystkich przygodach i o tym, czego się nauczył. Dziadek słuchał z zainteresowaniem.
+
+W ten wieczór, Bobek usiadł przed swoim kominkiem i spojrzał na mapę. Zrozumiał, że mapa dziadka prowadziła go do czegoś o wiele ważniejszego niż skrzynia ze złotem. Popatrzył na muszelkę, na monetę, a przede wszystkim – na swoje wspomnienia z dnia.
+
+Zrozumiał, że prawdziwym skarbem jest przyjaźń, natura i ciekawość świata.
+Następnego dnia, Bobek wyszedł znowu do lasu. Ale tym razem nie szukał skarbu. Chciał cieszyć się pięknem lasu, poznawać nowych przyjaciół, i szukać nowych przygód, tych mniejszych i większych. Postanowił, że codziennie będzie poszukiwał jakiegoś małego skarbu, tego który można odnaleźć w radości, uśmiechu i spędzeniu czasu w otoczeniu natury. I tak zaczął się jego kolejny dzień pełen przygód. Mały Bobek, krasnoludek, wciąż szukał skarbów, ale teraz wiedział, że skarby są wszędzie.
+</body>
+```

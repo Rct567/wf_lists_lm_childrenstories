@@ -1,0 +1,60 @@
+<prompt>
+Please write a silly Turkish children's story that is at least 1000 words long.
+It must be completely written in proper Turkish (TR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Yedi Renkli Gökkuşağı ve Gizli Dünyaları'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>tr</lang_id>
+
+<title>Yedi Renkli Gökkuşağı ve Gizli Dünyaları</title><body>Bir zamanlar, tıpkı bir şekerleme kutusu gibi gökyüzünü süsleyen şahane bir gökkuşağı varmış. Bu gökkuşağı öyle böyle bir gökkuşağı değilmiş, tam yedi farklı renkteymiş ve her rengin içinde de minik, gizli dünyalar saklıymış. Bu dünyalarda garip mi garip, komik mi komik, rengarenk mi rengarenk yaratıklar yaşarmış.
+
+Gökkuşağının en üstünde, güneşin en yakınında, kırmızı renk bulunuyormuş. Kırmızı dünyanın sakinleri, "Kızıl Patatesler" adını taşıyan, patates kafalı minik yaratıklarmış. Ama sakın ola ki onları sıradan patateslerle karıştırmayın! Kızıl Patatesler, her sabah uyanır uyanmaz, kırmızı pancar suyundan yapılmış kahvelerini yudumlar ve bütün gün boyunca birbirinden komik yarışmalar düzenlerlermiş. En sevdikleri yarışma, dünyanın etrafında pat pat zıplayarak tur atmakmış.
+
+Gökkuşağının bir alt katmanında, turuncu dünyada ise "Turuncu Tırtıllar" yaşarmış. Bu minik yaratıklar, tırtıl olmalarına rağmen turuncu bir tulum giymeyi çok severlermiş. En büyük hayalleri, dev bir portakalın içinde yaşamakmış. Gün boyu, portakal kabuklarından yaptıkları kaydıraklardan kayar ve turuncu havuçlardan yaptıkları müzik aletleriyle şarkılar söylermişler. Şarkıları o kadar neşeli olurmuş ki, dinleyen herkesin ağzı kulaklarına varmış.
+
+Sarı renkli dünyada ise "Sarı Civcivler" oturuyormuş. Bu civcivler, tüylerinin renginden anlaşılacağı gibi, sürekli bir telaş içindeymişler. Hiç durmadan zıplar, koşar ve etrafta koştururlarmış. En sevdikleri oyun, sarı mısır tanelerinden yapılmış labirentlerde kaybolmakmış. Kaybolduklarında ise, "Cik cik cik!" diye bağırarak birbirlerini bulurlarmış.
+
+Gökkuşağının tam ortasında, yeşil dünyanın kalbinde, "Yeşil Kurbağalar" yaşarmış. Bu kurbağalar, sıradan kurbağalardan farklı olarak, dans etmeyi çok severlermiş. Her gün, yeşil nilüfer yapraklarından yapılmış sahne üzerinde, birbirinden ilginç dans gösterileri hazırlarlarmış. Dans ederken, yeşil yapraklardan yapılmış şapkalarını takarlar ve hoplaya zıplaya, "Vırak vırak!" diye şarkılar söylermişler.
+
+Mavi renkli dünyada ise, "Mavi Balıklar" yüzer dururmuş. Bu balıklar, suyun altında yaşamanın yanı sıra, gökyüzünde de yüzmeyi çok severlermiş. Gökyüzünde uçar gibi görünmek için, mavi baloncuklar yaparlar ve bu baloncukların içinde dans ederlermiş. En sevdikleri oyun, baloncukları patlatmadan birbirlerine pas vermekmiş.
+
+Lacivert dünyada ise, "Lacivert Kediler" oturuyormuş. Bu kediler, tıpkı gerçek kediler gibi mırlamayı severlermiş. Ama onların mırlamaları o kadar güçlü olurmuş ki, gökkuşağı bile titrermiş. En sevdikleri aktivite, yıldızlardan yapılmış yataklarında uyuklamakmış. Uyurken, lacivert rüyalar görürlermiş ve rüyalarında süt peşinde koştururlarmış!
+
+Ve son olarak, menekşe renkli dünyada ise, "Menekşe Kuğular" yaşarmış. Bu zarif kuğular, menekşe rengi tüyleriyle göz kamaştırırmış. En sevdikleri şey, menekşe çiçeklerinden yapılmış sandallarıyla gökkuşağında gezintiye çıkmakmış. Gezintileri sırasında, gökkuşağının renklerini ve dünyalarını hayranlıkla izlerlermiş.
+
+Günlerden bir gün, tüm bu renkli dünyaların sakinleri, büyük bir telaşla toplanmışlar. Çünkü gökkuşağının rengi solmaya başlamış. Kırmızı rengi solmuş, turuncusu donuklaşmış, sarısı matlaşmış, yeşili solgunlaşmış, mavisi grileşmiş, laciverdi kararmış ve menekşesi silinmeye yüz tutmuş.
+
+Kızıl Patatesler, Turuncu Tırtıllar, Sarı Civcivler, Yeşil Kurbağalar, Mavi Balıklar, Lacivert Kediler ve Menekşe Kuğular, ne yapacaklarını bilememişler. Gökkuşağının rengini eski haline getirmek için bir çözüm bulmaları gerekiyormuş.
+
+Kızıl Patateslerin lideri, "Patates Paşa" diye bağırarak ortaya atılmış: "Bence, gökkuşağının neşesi kaçmış! Bizim yarışmalarımız, şarkılarımız, danslarımız yetersiz kalmış!"
+
+Turuncu Tırtılların en yaşlısı, "Tırtıl Nine" ise, "Haklısın, Patates Paşa! Gökkuşağı, eğlenceye susamış olmalı! Bizim portakal kabuğu kaydıraklarımız bile artık onu güldürmüyor!" demiş.
+
+Sarı Civcivlerin en hızlısı, "Civciv Çapkın", "Benim aklıma bir fikir geldi! Gökkuşağına dünyayı gezdirelim! Belki o zaman, bizim gibi eğlenmek ister!" diye bağırmış.
+
+Bunun üzerine, Yeşil Kurbağalar, Mavi Balıklar, Lacivert Kediler ve Menekşe Kuğular da fikirlerini söylemişler. Sonunda, hepsi birleşerek, gökkuşağına dünyayı gezdirme kararı almışlar.
+
+İlk olarak, Kızıl Patatesler, Gökkuşağını kırmızı pancar tarlalarına götürmüşler. Patates Paşa, gökkuşağına en iyi zıplama tekniklerini öğretmiş. Gökkuşağı, ilk başta biraz çekinmiş ama sonra kahkahalarla yarışmaya katılmış.
+
+Daha sonra, Turuncu Tırtıllar, gökkuşağını dev bir portakal bahçesine götürmüşler. Turuncu Tırtıllar, Gökkuşağına portakal kabuklarından yaptıkları kaydıraklarda kaymayı öğretmişler. Gökkuşağı, kaydıraklardan kayarken, turuncu havuçlardan yapılan müzik aletleriyle şarkılar söylemiş.
+
+Sarı Civcivler, gökkuşağını sarı mısır tarlalarına götürmüşler. Gökkuşağı, civcivlerle birlikte labirentlerde kaybolmuş ve "Cik cik cik!" diye bağırarak birbirlerini bulmuşlar.
+
+Yeşil Kurbağalar, gökkuşağını yeşil nilüfer yapraklarıyla dolu göletlere götürmüşler. Gökkuşağı, kurbağalarla birlikte dans etmiş ve "Vırak vırak!" diye şarkılar söylemiş.
+
+Mavi Balıklar, gökkuşağını mavi denizlere götürmüşler. Gökkuşağı, baloncuklar yapmış ve balıklarla birlikte baloncukların içinde dans etmiş.
+
+Lacivert Kediler, gökkuşağını yıldızların parladığı bir geceye götürmüşler. Gökkuşağı, kediler gibi yıldızlardan yapılmış yataklarda uyumuş ve lacivert rüyalar görmüş.
+
+Son olarak, Menekşe Kuğular, gökkuşağını menekşe çiçekleriyle dolu bir bahçeye götürmüşler. Gökkuşağı, kuğularla birlikte menekşe sandallarında gezintiye çıkmış ve muhteşem manzaraların tadını çıkarmış.
+
+Bu eğlenceli yolculuklar sırasında, gökkuşağının yüzü yavaş yavaş gülmeye başlamış. Renkleri yeniden canlanmış. Kırmızısı parlamış, turuncusu ışıldamış, sarısı parıldamış, yeşili canlanmış, mavisi berraklaşmış, laciverdi derinleşmiş ve menekşesi göz kamaştırmış.
+
+Gökkuşağı, tüm bu maceradan sonra, rengarenk bir kahkaha atmış ve "Teşekkür ederim çocuklar! Beni yeniden hayata döndürdünüz!" demiş.
+
+O günden sonra, gökkuşağı her zamanki gibi gökyüzünde parlamaya devam etmiş ve yedi renkli dünyaların sakinleri de mutluluk içinde yaşamışlar. Gökkuşağının renkleri her zaman parlak kalmış çünkü biliyorlarmış ki, birlikte eğlenmek ve dünyayı keşfetmek, her şeyi güzelleştirirmiş. Ve tabii ki, ara sıra turptan yapılmış pastalar yemek de unutulmamalıymış! Çünkü, kim bilir, belki de gökkuşağı turptan yapılan pastaları da çok seviyordur!

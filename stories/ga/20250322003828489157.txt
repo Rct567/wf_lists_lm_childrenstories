@@ -1,0 +1,62 @@
+<prompt>
+Please write a simple and easy-to-follow Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'An Rúnaí Sa Chnoic: Saibhir ag Tógáil Aislingí'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>ga</lang_id>
+
+```xml
+<title>An Rúnaí Sa Chnoic: Saibhir ag Tógáil Aislingí</title><body>
+Bhí Saibhir ina leanbh beag ag cur fáilte roimh an domhan. Bhí súile móra gorma aici, gruaig rua mar thine, agus croí lán de ghrá agus de aisteachas. Ba ghnách léi bheith ag imirt ar bharr an chnoic a bhí taobh thiar dá teachín beag, a bhí péinteáilte i ndathanna geala. D’amharc sí ar an ghrian ag eirí gach maidin, ag spalpadh dathanna óir agus bándearga ar an spéir, agus ag leá ag dul faoi na cnoic go mall gach tráthnóna.
+
+Ba í an cnoc féin a cara is fearr. Thabharfadh sí 'An Rúnaí' ar an chnoc. Is breá léi a bheith ag siúl suas agus síos a fhánaí, ag iniúchadh na carraigeacha, ag bailiú na bbláthanna beaga fiáine, agus ag éisteacht leis an ghaoth ag canadh ina cluasa. Thuig sí nach raibh ann ach cnoc, ach chuala sí scéalta anuas ó shin agus bhí sé i gcónaí ag freagairt í féin nuair a theastaigh sé uirthi.
+
+Bhí teachín beag deas ag a tuismitheoirí, Seán agus Máire, ar bhun an chnoic. Bheadh Saibhir ag imirt go sona sásta lasmuigh de'n teachín i gcónaí, ag cruthú scéalta sa chrann cúpla ag an doras nó ag bailiú péire duilleog do a cuid bréagáin.
+
+Bhí Seán agus Máire, an dá thuismitheoir ag Saibhir, ag obair go crua chun a dteach a choinneáil foscanta agus a bpáiste sona. Ba fheirmeoirí iad, agus bhí a gcuid talún ag fás glasraí blasta agus ag coimeád roinnt caorach agus bó. D’oibrigh Seán sa talamh ó éirí na gréine go dtí a dul faoi, agus chuidigh Máire leis agus dhéanadh sí an teach a choinneáil eagraithe chomh maith. D'fhoghlaim Saibhir a bheith ag obair lena lámha, ag cur bia le chéile, agus ag aire a thabhairt dá chéile.
+
+Bhí lá amháin, nuair a bhí Saibhir ag siúl suas an cnoc, go bhfuair sí rud neamhghnách. Bhí sé ag breathnú faoi chloch mhór nuair a chonaic sí scáth ar an ghaineamh. Tar éis di a chroitheadh ar leataobh, d'aimsigh sí scrín bheag, snoite as adhmad. Bhí an scrín lán de dheich scrioptúr beag, agus ceann áirithe acu ar a raibh ainm Saibhir snoite.
+
+"Wow!" arsa Saibhir, bhí iontas uirthi. Chuir sí tús leis an scrioptúr beag. Bhí sé chomh beag go bhféadfadh sé a bheith furasta í a chailleadh.
+
+"Fáilte, Saibhir," a dúirt an nóta. "Is tusa an rúnaí den chnoc seo. Is mise an t-easpag. Ní tú an t-aon duine atá i dtaithí air. An chnoc seo anois, ach is ag teacht isteach isteach ag fás, is ag fás. Is dóigh liom gur chóir duit cuidiú le bheith a dhéanamh foirfe. Níl ach ábhar amháin a theastaíonn ó an chnoc: aislingí."
+
+Rinne Saibhir smaoineamh ar aislingí. "Cad a chiallaíonn sin?" arsa Saibhir i gcogar. D’amharc sí thart, ach ní raibh aon duine ann. Thóg sí an nóta agus rith sí síos an cnoc go dtí a teach.
+
+Ar an tráthnóna sin, shuigh sí ag an mbord cistine agus léigh sí an nóta arís agus arís eile. "Aislingí," dúirt sí. "Caithfidh mé tuiscint a fháil ar cad a chiallaíonn sin."
+
+An lá dár gcionn, d’imigh Saibhir ar ais suas an chnoc. Thug sí nótaí, pinn luaidhe, agus leabhar leis. D'imigh sí chomh fada le scrín an t-eagair agus shuigh sí síos ar charraig mhór. D’oscail sí a leabhar agus thosaigh sí ag smaoineamh ar a cuid aislingí.
+
+"Ba mhaith liom," a scríobh sí, "féachaint ar gach áit ar domhan. Ba mhaith liom a bheith in ann eitilt os cionn na gcnoc agus na ngleannta, os cionn na farraige agus na n-oileán. Ba mhaith liom bualadh le daoine ó gach cearn den domhan agus foghlaim faoina gcuid beatha."
+
+Lean sí ag scríobh. "Ba mhaith liom a bheith i mo bhéaloideasóir mór, chun scéalta iontacha a chur le chéile. Ba mhaith liom na focail a chur san amhrán seo i dtosach, scéalta na ndaoine."
+
+Nuair a chríochnaigh sí, chuaigh sí síos go dtí an scrín agus chuir sí a cuid nótaí taobh istigh de. D’fhan sí ann go dtí go raibh sé dorcha.
+
+An lá dár gcionn, tháinig rud éigin fíor. Nuair a dhúisigh Saibhir, d’fhoghlaim sí go raibh a máthair tinn. D'éirigh sé go dona, agus b'éigean di fanacht sa leaba. Chaill Seán an obair go léir i gcúis a thabhairt ar an leigheas Máire.
+
+"An Rúnaí," dúirt Saibhir i gcogar. "Caithfidh mé cuidiú."
+
+An lá sin, d'oibrigh Saibhir leis an obair go léir a dhearbhú, chun cabhrú leis a hathair, agus chun solas a thabhairt dá máthair. Ó éirí na gréine go dtí a dul faoi, ní raibh aon ghearán ann ó lá go lá, agus chuir sé ar an nótaí sa scrín ar a bhealach sa chúnamh.
+
+Thosaigh sí ag a chuid aislingí beaga a thógáil i gcroílár na hóige agus a thaispeáint síos an chnoc chun na aislingí seo a chur ag obair. Thóg sí bád beag as na bláthanna agus d'imir sí ar an abhainn, agus thóg sí teachín beag as na carraigeacha. Ag an am sin, chuaigh sí isteach sa bhrionglóid chun buailead go mall léi. Thóg sí láimheanna i dteachín beag nó chonaic sí na bláthanna fite fuaite timpeall an tí.
+
+Thar na laethanta agus na seachtainí, chuaigh Máire níos fearr agus níos fearr. D'fhill a neart, agus d'fhill an sonas ar an teachín beag. Go raibh maith agat sa deireadh, d'fhill sí ar an talamh. Agus is beag ó bhaile é ar fad.
+
+Ansin, lá amháin, fuair Saibhir nod go dtí an chnoc. Chuaigh sí suas, agus sheas sí os comhair an scrín. D’oscail sí an nóta, agus léigh sí.
+
+"Bhí tú álainn ag aisling," a scríobh an t-easpag. "Tá an cnoc ag fás. Tá tú ag iarraidh. Thóg tú aislingí agus d'úsáid tú iad chun gach rud a dhéanamh níos fearr. Chun a bheith fíor. Go raibh maith agat, Saibhir."
+
+D’amharc Saibhir thart ar an chnoc. Ba chosúil go raibh sé níos áille ná riamh. D'fheicfeá é, i measc na carraigeacha móra ag bualadh síos nó sna coillteanna glas.
+
+Bhí a fhios ag Saibhir go raibh a post mar an Rúnaí díreach tosaithe. Thosaigh sé leis an bpobal ag féachaint ar an ngrian, agus bheadh sé ar aghaidh go ceann a beatha. Ach fuair sí aislingí agus rinne sí saol iontach dá haghaidh.
+
+An lá sin, bhí Saibhir ag fanacht ina rúnach ag tosú scéalta. Thóg sí éachtanna, scéalta agus cuimhní i rith a saol. Is cuma má chreideann duine nó nach gcreideann, ba í a cuid aislingí féin a rinne saibhir í. Ba í Saibhir an Rúnaí, agus bhí a chuid aislingí aici, agus ba sona í.
+</body>
+```

@@ -1,0 +1,54 @@
+<prompt>
+Please write a uncomplicated Scottish Gaelic children's story that is at least 1000 words long.
+It must be completely written in proper Scottish Gaelic (GD).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Leis an t-Sgeulachd Mòr agus an Uamhas Fada'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>gd</lang_id>
+
+<title>Leis an t-Sgeulachd Mòr agus an Uamhas Fada</title>
+<body>
+Bha duine òg ann, ainmichte Eòghan, a bha a' fuireach ann an glen fhada, faisg air a' mhuir. Bha e a' cur seachad a' mhòr-chuid de dh'ùine air a' chladach, a' coimhead air a' mhuir mhòr agus a' smaointinn mu dheidhinn nan cuileanan a bha a' dol a dh'fhalbh gu tirichean fad air falbh. 
+
+Bha Eòghan a' dol a dh'fhàgail a' ghlinne aige fhèin, ach bha e a' faireachdainn gu robh rudeigin a' dol a thachairt dha. Cha robh e a' dol a dh'fhàgail a' ghlinne gu tur, ach bha e a' dol a dh'fhàgail e airson greis, airson tòisich a' sgeulachd mhòr aige. 
+
+Latha a bha seo, bha Eòghan a' coimhead air a' mhuir, nuair a chunnaic e bàta mhòr a' tighinn a dh'fhàgail a' chladach. Bha an bàta a' dol a dh'fhalbh gu eilean fad air falbh, far an robh cuilean a' fuireach. Bha Eòghan a' smaointinn mu dheidhinn a dhol air a' bhàta, ach bha e a' faireachdainn gu robh e a' dol a bhith ro dhòchasach. 
+
+Ach an uair sin, thàinig duine òg eile a dh'fhàgail a' ghlinne, ainmichte Aonghas, a bha a' dol a dh'fhàgail air a' bhàta. Bha Aonghas a' dol a dh'fhàgail a' ghlinne airson a' chiad turas, agus bha e a' faireachdainn gu robh e a' dol a bhith na urrainn dha a dhol air a' bhàta. 
+
+"Halò, a Eòghan," ars Aonghas, "a bheil thu a' dol a dh'fhàgail air a' bhàta?" 
+"Cha chreid mi," ars Eòghan, "tha mi a' faireachdainn gu robh e a' dol a bhith ro dhòchasach." 
+"Ach," ars Aonghas, "tha mi a' dol a dh'fhàgail air a' bhàta, agus a bheil thu a' dol a dh'fhàgail còmhla rium?" 
+
+Eòghan bha a' smaointinn mu dheidhinn a' chùis, ach an uair sin thàinig e gu conaltradh. "Tha," ars e, "tha mi a' dol a dh'fhàgail còmhla riut." 
+
+An dèidh sin, dh'fhalbh Eòghan agus Aonghas air a' bhàta, agus chaidh iad a dh'fhàgail a' ghlinne. Bha iad a' dol a dh'fhalbh gu eilean fad air falbh, far an robh cuilean a' fuireach. 
+
+Nuair a bha iad air a' bhàta, bha iad a' coimhead air a' mhuir, agus bha iad a' smaointinn mu dheidhinn nan cuileanan a bha a' dol a dh'fhalbh gu tirichean fad air falbh. Bha iad a' faireachdainn gu robh iad a' dol a bhith na urrainn dha a dhol air a' bhàta, agus bha iad a' dol a dh'fhàgail a' ghlinne airson greis. 
+
+Latha a bha seo, nuair a bha iad air a' bhàta, chunnaic iad eilean beag a' tighinn a dh'fhàgail a' chladach. Bha an eilean a' dol a dh'fhalbh gu àite fad air falbh, far an robh cuilean a' fuireach. Bha Eòghan agus Aonghas a' smaointinn mu dheidhinn a dhol air an eilean, ach bha iad a' faireachdainn gu robh e a' dol a bhith ro dhòchasach. 
+
+Ach an uair sin, thàinig duine òg eile a dh'fhàgail a' ghlinne, ainmichte Seumas, a bha a' dol a dh'fhàgail air an eilean. Bha Seumas a' dol a dh'fhàgail a' ghlinne airson a' chiad turas, agus bha e a' faireachdainn gu robh e a' dol a bhith na urrainn dha a dhol air an eilean. 
+
+"Halò, a Eòghan, a Aonghas," ars Seumas, "a bheil sibh a' dol a dh'fhàgail air an eilean?" 
+"Cha chreid sinn," ars Eòghan, "tha sinn a' faireachdainn gu robh e a' dol a bhith ro dhòchasach." 
+"Ach," ars Seumas, "tha mi a' dol a dh'fhàgail air an eilean, agus a bheil sibh a' dol a dh'fhàgail còmhla rium?" 
+
+Eòghan agus Aonghas bha a' smaointinn mu dheidhinn a' chùis, ach an uair sin thàinig iad gu conaltradh. "Tha," ars iad, "tha sinn a' dol a dh'fhàgail còmhla riut." 
+
+An dèidh sin, dh'fhalbh Eòghan, Aonghas, agus Seumas air an eilean, agus chaidh iad a dh'fhàgail a' ghlinne. Bha iad a' dol a dh'fhalbh gu àite fad air falbh, far an robh cuilean a' fuireach. 
+
+Nuair a bha iad air an eilean, bha iad a' coimhead air a' mhuir, agus bha iad a' smaointinn mu dheidhinn nan cuileanan a bha a' dol a dh'fhalbh gu tirichean fad air falbh. Bha iad a' faireachdainn gu robh iad a' dol a bhith na urrainn dha a dhol air an eilean, agus bha iad a' dol a dh'fhàgail a' ghlinne airson greis. 
+
+Latha a bha seo, nuair a bha iad air an eilean, chunnaic iad cuilean a' tighinn a dh'fhàgail a' chladach. Bha an cuilean a' dol a dh'fhalbh gu àite fad air falbh, far an robh eilean eile a' fuireach. Bha Eòghan, Aonghas, agus Seumas a' smaointinn mu dheidhinn a dhol air a' chuil, ach bha iad a' faireachdainn gu robh e a' dol a bhith ro dhòchasach. 
+
+Ach an uair sin, thàinig duine òg eile a dh'fhàgail a' ghlinne, ainmichte Calum, a bha a' dol a dh'fhàgail air a' chuil. Bha Calum a' dol a dh'fhàgail a' ghlinne airson a' chiad turas, agus bha e a' faireachdainn gu robh e a' dol a bhith na urrainn dha a dhol air a' chuil. 
+
+"Halò, a Eòghan, a Aonghas, a Sheumais," ars Calum, "a bheil sibh a' dol a dh'fhàgail air a' chuil?" 
+"Cha chreid sinn," ars Eòghan, "tha sinn a' faireachdainn gu robh e a' dol a bhith ro dhòchasach." 
+"Ach," ars Calum, "tha mi a' dol a dh'fhàgail air a' chuil, agus a bheil sib

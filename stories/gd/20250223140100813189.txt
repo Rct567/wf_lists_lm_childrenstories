@@ -1,0 +1,51 @@
+<prompt>
+Please write a dialog-based Scottish Gaelic children's story that is at least 1000 words long.
+It must be completely written in proper Scottish Gaelic (GD).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Na creutairean beaga agus mar a bha iad a’ bruadar.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>gd</lang_id>
+
+<title>Na creutairean beaga agus mar a bha iad a’ bruadar.</title>
+<body>
+A dh’fhalbh, ann an dùthaich cho beag ri bàrr fàinne, bha aon chnoc beag, a’ crathadh leis na gaothan.  Air a’ chnoc sin, bha coille beag a’ fàs, le craobhan tana, agus deoch-an-latha bhlàth.  Anns an choille bha cuid de na creutairean beaga as spòrsail a bha idir.
+
+“Tha mi ag iarraidh bruadar mòr a dhèanamh air a’ chnoc seo!” thuirt aon chùig-bheathach beag, le fuachd a’ cruinneachadh air a’ chridhe.  Bha an chùig-bheathach beag sin ainmeil mar Aonghas.
+
+“Aonghas, tha mi den bheachd gu bheil thu a’ bruadar ro mhòr,” freagair aon mhòin beag, le smuaintean a’ nochdadh air a h-aghaidh. Bha an mhòin beag sin ainmeil mar Brìgh.
+
+“Ach, is e sin a tha mi ag iarraidh!” ghluais Aonghas, a’ crathadh a chuid sgiathan.  “Tha mi ag iarraidh bruadar a dhèanamh mu dheidhinn àiteachas na coinneachaidh, mu dheidhinn spioradan na coille, agus mu dheidhinn na h-eilean cho fada air falbh!”
+
+“Spioradan na coille?” dh’fhalbh Brìgh, a’ coimhead air a’ ghrian a’ fàs beag.  “Aonghas, na creutairean sin nach eil a’ nochdadh ach ann an bruadar!”
+
+“Tha iad sin gu cinnteach ann,” thuirt beòthach beag, le cridhe làn de dh’fhianais, a’ nochdadh air an aghaidh. Bha an beòthach beag sin ainmeil mar Faolan.
+
+“Tha mi a’ creidsinn gu bheil iad sin ann cuideachd,” chuir cùig-bheathach beag eile ri chèile, an ainm Ceann. “Tha sinn gu leòr gus bruadar ionmhasail a dhèanamh dhuinn fhéin.”
+
+“Ciamar a nì sinn sin, Ceann?” chuir Brìgh ceist.
+
+“Tha sinn a’ bruadar còmhla!” fhreagair Ceann, a’ dol air adhart. “Is e sin a tha a’ toirt an fhianais againn.”
+
+Dh’fhalbh iad air adhart, na creutairean beaga, a’ dèanamh gnìomhan dìreach.  Aonghas, a bha a’ dèanamh bruadar mu na spioradan, bha e a’ dol tro na craobhan, a’ cluinntinn fuaimean gan cur an gnìomh.  Brìgh, a bha a’ dèanamh bruadar mu àiteachas na coille, bha i a’ coimhead air na flùraichean, a’ faicinn dath agus fionnrachadh. Faolan, a bha a’ dèanamh bruadar mu na creutairean, bha e a’ tuigsinn aithris na h-ùghdarais ann an gach grian.  Ceann, a bha a’ dèanamh bruadar mu dheidhinn na coinneachaidh, bha e a’ faireachdainn a h-uile pàirt de na h-àiteachasan còmhla.
+
+Thug iad beagan uairean air falbh, agus thug iad beagan uairean a-rithist, agus thàinig iad gu crìch a’ faireachdainn an cruinneachaidh air a’ chnoc.  Chuir iad an gnìomh an bruadar aca.
+
+“Tha mi air faicinn,” thuirt Aonghas. “Tha an aon chnoc seo làn de spioradan na coille.”
+
+“Tha mi air faicinn,” thuirt Brìgh. “Tha e làn de dh’àiteachas.”
+
+“Tha mi air faicinn,” thuirt Faolan. “Tha e làn de dh’aithris na h-ùghdarais.”
+
+“Tha mi air faicinn,” thuirt Ceann. “Tha e làn de chòmhraidhean, de fhreagairtean, agus de dh’fhianais.”
+
+Bha an creutairean beaga air bruadar mòr a dhèanamh. Bha iad air faireachdainn na h-uile pàirt den chnoc aige. Agus nuair a dh’fhàg iad a’ chnoc, cha robh iad dìreach a’ bruadar; bha iad a’ faireachdainn.
+
+Bha iad air bruadar mòr a dhèanamh.  Bha iad air faicinn.  Bha iad air faireachdainn.
+
+Bha na creutairean beaga a’ dol air falbh, a’ gabhail ris na bruadar air am faireachdainn, agus a’ cluich san t-saoghal a bha iad a’ faireachdainn.  Bha an àm a’ dol air adhart, agus bha an t-saoghal beag a’ fàs beò agus a’ fàs.
+</body>

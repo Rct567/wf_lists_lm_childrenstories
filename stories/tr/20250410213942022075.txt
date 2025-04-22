@@ -1,0 +1,75 @@
+<prompt>
+Please write a relatable Turkish children's story that is at least 1000 words long.
+It must be completely written in proper Turkish (TR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Dürüstlük En Büyük Değerdir'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>tr</lang_id>
+
+<title>Dürüstlük En Büyük Değerdir</title>
+<body>
+Ahmet, sekiz yaşında, çapkın mı çapkın, ama aynı zamanda çok da meraklı bir çocuktu. Yaz tatili gelmiş, annesi ve babasıyla birlikte, Karadeniz'in yemyeşil yaylalarından birinde, şirin mi şirin bir pansiyonda kalmaya başlamışlardı. Pansiyonun sahibi, Güler Teyze, sıcakkanlılığıyla ve misafirperverliğiyle meşhurdu.
+
+Ahmet, yaylada koşuşturmaktan, dere kenarında balık tutmaya çalışmaktan ve rengarenk çiçeklerle dolu çayırlarda oyunlar oynamaktan büyük keyif alıyordu. Ama onun en sevdiği şey, pansiyonun bahçesindeki ceviz ağacının altında, Güler Teyze'nin anlattığı masalları dinlemekti. Güler Teyze, her akşam onlara farklı bir masal anlatır, bazen bir padişahın hikayesini, bazen de konuşan hayvanların maceralarını aktarırdı.
+
+Bir gün, Güler Teyze masal anlatırken, Ahmet'e dönerek, "Ahmetçiğim," dedi, "bugün sana dürüstlüğün ne kadar önemli olduğunu anlatan bir masal anlatacağım."
+
+Ahmet merakla gözlerini büyüttü. "Çok sevinirim Güler Teyze!" diye yanıtladı.
+
+Güler Teyze gülümseyerek anlatmaya başladı:
+
+"Bir zamanlar, çok uzaklarda, güzel mi güzel bir köy varmış. Bu köyde, herkesin bildiği, çok çalışkan ve dürüst bir çocuk yaşarmış: Adı Ali'ymiş. Ali, köyün en iyi marangozunun çırağıymış. Tahtadan harika oyuncaklar yapar, insanlara güzel mobilyalar yaparmış. Köydeki herkes onu sever ve saygı duyar, çünkü Ali dürüstlüğüyle nam salmış.
+
+Bir gün, köyün en zengin adamı, Hasan Amca, Ali'ye gelmiş ve çok önemli bir iş istemiş. 'Ali, benim için çok değerli bir sandık yapmanı istiyorum,' demiş. 'Sandık o kadar değerli olmalı ki, içindeki mücevherlerimi güvenle saklayabileyim.'
+
+Ali, Hasan Amca'nın isteğini kabul etmiş ve çalışmaya başlamış. En güzel ağaçları seçmiş, ince ince kesmiş ve titizlikle sandığı yapmaya koyulmuş. Sandığın yapımı uzun sürdü, ama sonunda mükemmel bir eser ortaya çıktı. Sandık, hem çok sağlamdı hem de çok güzel görünüyordu.
+
+Hasan Amca, sandığı görünce çok memnun olmuş ve Ali'ye 'Bravo Ali! Eserin harika olmuş. Sana bunun için iyi bir ücret ödeyeceğim.' demiş. Ancak, Hasan Amca bir de gizli bir teklifte bulunmuş: 'Sandığı yaparken, kalan tahtalardan ve bazı fazladan parçalardan, kendine de ufak bir sandık yapabilirsin. İçine de ufak tefek eşyalarını koyarsın.'
+
+Ali, bu teklife önce şaşırmış. Hasan Amca'nın bu teklifi, aslında küçük bir hırsızlık demekti. Ali, ne yapacağını düşünürken, aklına annesinin öğüdü gelmişti: 'Dürüstlük, en büyük hazinedir evladım. Kimsenin hakkını yemekten sakın.'
+
+Ali, Hasan Amca'ya 'Teşekkür ederim Hasan Amca, ama ben bunu yapamam,' demiş. 'Benim için önemli olan dürüst olmaktır. Sizin için yaptığım sandıkta hiçbir eksiklik olmamalı.'
+
+Hasan Amca, Ali'nin bu cevabına hem şaşırmış hem de çok etkilenmiş. Ali'nin dürüstlüğüne hayran kalmış ve ona daha fazla saygı duymuş. Ona sandığın ücretini ödemiş ve köydeki herkesin önünde Ali'ye övgüler yağdırmış. 'Sen gerçek bir dürüstsün Ali!' demiş. 'Senin gibi bir çırak kazandığım için çok şanslıyım.'
+
+Aradan zaman geçmiş. Bir gün, Hasan Amca'nın mücevherleri çalınmış. Hırsızlık olayının ardından, köyde herkes şüphelenmeye başlamış. Herkes birbirini suçlamış. Hasan Amca, hırsızı bulabilmek için, köyün en akıllı kişilerini bir araya toplamış ve yardım istemiş.
+
+Toplantıda, herkes hırsızın kim olabileceği hakkında konuşurken, Ali, cesaretini toplayarak, Hasan Amca'ya dönmüş ve 'Hasan Amca, benim bir fikrim var,' demiş. 'Eğer mücevherlerinizin çalınmasıyla ilgili bir şüpheiniz varsa, sandığınızı kontrol edebilirsiniz. Çünkü sandık, yalnızca bana özeldi.'
+
+Hasan Amca, Ali'nin bu sözleri karşısında hem şaşırmış hem de çok duygulanmıştı. Hemen sandığı açmış. Sandığın içi bomboştu. Ancak sandığın tabanında küçük bir bölme vardı ve bu bölmede mücevherler saklanıyordu.
+
+Hasan Amca, Ali'nin dürüstlüğüne bir kez daha hayran kalmıştı. Hırsızın kim olduğunu anlamıştı. Hırsız, Hasan Amca'nın yakınında çalışan biriydi ve sandığı, içindeki mücevherleri çalmak için kullanmayı planlamıştı.
+
+Hasan Amca, hırsızı yakalamış ve cezalandırmış. Ali'nin dürüstlüğü sayesinde, hem mücevherleri kurtulmuş hem de gerçek hırsız ortaya çıkmıştı.
+
+O günden sonra, Ali'nin dürüstlüğü köyde daha da ünlenmiş. Ali, dürüstlüğüyle hem insanlara yardım etmiş hem de saygıdeğer bir insan olarak yaşamaya devam etmiş. Ve herkes bilmiş ki, dürüstlük gerçekten de en büyük değerdir."
+
+Güler Teyze masalı bitirdiğinde, Ahmet'in gözleri parlıyordu. "Ne kadar güzel bir masal Güler Teyze!" dedi. "Ali ne kadar dürüstmüş! Ben de onun gibi olmak istiyorum."
+
+Güler Teyze gülümsedi. "Elbette Ahmetçiğim. Dürüst olmak çok önemlidir. Her zaman doğruyu söylemeli, kimsenin hakkını yememeliyiz. Unutma, dürüstlük bizi hem mutlu eder hem de başkalarının güvenini kazanmamızı sağlar."
+
+Ahmet, Güler Teyze'nin bu sözlerinden çok etkilenmişti. O günden sonra, daha dürüst olmaya karar verdi. Artık, arkadaşlarından ödünç aldığı oyuncakları zamanında geri veriyor, annesine ve babasına karşı daha açık sözlü oluyordu. Hatta bazen, oyunlarda hile yapan arkadaşlarını bile uyarıyordu.
+
+Bir gün, Ahmet ve arkadaşları ormanda oyun oynuyorlardı. Ormanın içinde, eski bir kulübe vardı. Kulübenin kapısı açıktı ve içerde bir sürü eski eşya duruyordu. Ahmet ve arkadaşları, meraklarına yenik düşerek kulübenin içine girdiler. İçerde, kırık bir oyuncak bebek ve eski bir saat vardı.
+
+Ahmet, saatten çok etkilenmişti. Saati tamir edip edemeyeceğini merak ediyordu. Ama kulübe başkasına aitti ve saati alması doğru değildi.
+
+O anda, aklına Güler Teyze'nin anlattığı masal geldi. Dürüst olmak zorundaydı.
+
+Ahmet, arkadaşlarına kulübede bulunan eşyaları almamalarını, kulübenin sahibiyle konuşup izin istemelerini önerdi. Arkadaşlarından bazıları buna karşı çıksalar da, Ahmet'in ısrarıyla, hep birlikte kulübeden çıktılar ve kulübenin sahibini bulmaya gittiler.
+
+Kulübenin sahibi yaşlı bir amcaydı. Ahmet ve arkadaşları, amcaya durumu anlattılar ve saatten bahsettiler. Yaşlı amca, çocukların dürüstlüğünden çok etkilendi ve onlara saati alıp tamir edebileceklerini söyledi. Hatta onlara saat tamiri konusunda yardımcı bile olabileceğini ekledi.
+
+Ahmet ve arkadaşları bu duruma çok sevindiler. Saati tamir ettiler ve saat yeniden çalışmaya başladı. O günden sonra, Ahmet ve arkadaşları, yaşlı amcayla dost oldular. Kulübede zaman geçiriyor, onun anlattığı masalları dinliyor ve birlikte oyunlar oynuyorlardı.
+
+Yaz tatili bittiğinde, Ahmet pansiyondan ayrılırken, Güler Teyze'ye sarıldı ve teşekkür etti. "Güler Teyze," dedi, "sayende dürüstlüğün ne kadar önemli olduğunu öğrendim. Artık, dürüst olmak için elimden gelenin en iyisini yapacağım."
+
+Güler Teyze, Ahmet'in yanağını okşadı ve gülümsedi. "Aferin sana Ahmetçiğim. Unutma, dürüstlük her zaman kazanır."
+
+Ahmet, ailesiyle birlikte pansiyondan ayrılırken, Karadeniz'in yemyeşil manzaralarına son bir kez baktı. İçinde, dürüstlüğün değerini bilmenin huzuru ve mutluluğu vardı. Artık, dürüst bir insan olarak, hayatına daha umutlu ve güvenli bir şekilde devam edecekti. Ve o günden sonra, Ahmet, dürüstlüğün hayatındaki en büyük değer olduğunu hiç unutmadı.
+</body>

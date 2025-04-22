@@ -1,0 +1,35 @@
+<prompt>
+Please write a relatable Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Az oroszlán és a szél szövetsége'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>hu</lang_id>
+
+<title>Az oroszlán és a szél szövetsége</title>
+<body>Az afrikai szavannán, ahol a nap sugarai aranyozták be a füvet, és a csillagok éjszakánként ragyogtak az égen, élt egy hatalmas és büszke oroszlán. Az oroszlán neve Leo volt, és ő volt a szavannának a királya. Az állatok mind tisztelettel adóztak neki, és Leo mindig igyekezett bölcsen és igazságosan uralkodni.
+
+Egy napon, amikor Leo a szavannán sétált, észrevett egy különös dolgot. A szél, amely addig mindig lágyan és gyengéden fújt, most erősen és viharosan süvített. A füvek és a fák ingadoztak, és az állatok ijedten kerestek menedéket. Leo csodálkozott, hogy mi lehet ennek az oka, és elhatározta, hogy utánajár a dolognak.
+
+Ahogy Leo közelebb ért a szél forrásához, találkozott egy kis, de gonosz szellemmel. A szellem neve Zefir volt, és ő volt az, aki a szél viharos légáramlását okozta. Zefir elmondta Leónak, hogy őt egy gonosz varázsló bűvölte meg, és most kénytelen volt a szavannán garázdálkodni.
+
+Leo megértette Zefir szituációját, és elhatározta, hogy segít neki. Az oroszlán és a szellem szövetséget kötöttek, és együtt elindultak, hogy megtalálják a gonosz varázslót, és megtörjék a varázst. A szavannán keresztül utazva találkoztak különböző állatokkal, akik mind segítettek Leónak és Zefirnek a küldetésükben.
+
+Találkoztak egy okos és gyors nyúllal, aki elvezette őket a varázsló titkos helyére. Találkoztak egy bátor és erős elefánttal, aki megvédelmezte őket a varázsló szolgáitól. És találkoztak egy bölcs és tapasztalt bagollyal, aki elmondta nekik, hogyan kell legyőzni a varázslót.
+
+Végre elérkezett a nap, amikor Leo és Zefir szembenéztek a gonosz varázslóval. A varázsló hatalmas és félelmetes volt, de Leo és Zefir nem ijedtek meg. Az oroszlán és a szellem együttműködve, Zefir szélerejével és Leo bátorságával, sikerült legyőzniük a varázslót, és megtörniük a varázst.
+
+Zefir megszabadult a bűvölet alól, és a szél ismét lágyan és gyengéden fújt. Az állatok, akik segítettek Leónak és Zefirnek, mind örültek a győzelemnek, és Leo továbbra is a szavannának a királya maradt. De most már Zefir is az oroszlán barátja és szövetségese volt, és együtt uralkodtak a szavannán, bölcsen és igazságosan.
+
+Az idő múlt, és a szavannán béke és harmónia uralkodott. Az állatok boldogok és elégedettek voltak, és Leo és Zefir mindig ott voltak, hogy segítsenek és védelmezzék őket. A szél, amely korábban viharos és erős volt, most lágyan és gyengéden fújt, és a szavannán mindig szép és zöld volt.
+
+Egy napon, amikor Leo és Zefir a szavannán sétáltak, találkoztak egy kis, ártatlan kislánnyal. A kislány elveszett volt, és nem találta a szüleit. Leo és Zefir segítettek neki, és elvezették őt a szüleihez. A kislány szülei hálásak voltak Leónak és Zefirnek, és megköszönték nekik a segítségüket.
+
+Leo és Zefir továbbra is a szavannának a királyai maradtak, és mindig ott voltak, hogy segítsenek és védelmezzék az állatokat. A szél, amely korábban viharos és erős volt, most lágyan és gyengéden fújt, és a szavannán mindig szép és zöld volt. Az oroszlán és a szél szövetsége erős és tartós volt, és a szavannán mindig béke és harmónia uralkodott.
+
+És így éltek Leo és Zefir, az oroszlán és a szél, boldogok és elégedettek, a szavannán, ahol a nap sugarai aranyozták be a füvet, és a csillagok éjszakánként ragyogtak az égen. A szavannán, ahol az állatok mind tisztelettel adóztak Leónak, és ahol a szél mindig lágyan és gyengéden fújt. A szavannán, ahol az oroszlán és a szél szövetsége erős és tartós volt, és ahol a béke és a harmónia mindig uralkodott.</body>

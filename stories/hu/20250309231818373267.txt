@@ -1,0 +1,33 @@
+<prompt>
+Please write a funny Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Egy utazás a Holdra, ahol a csillagok énekelnek éjjel.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>hu</lang_id>
+
+<title>Egy utazás a Holdra, ahol a csillagok énekelnek éjjel.</title>
+<body>Aznap este, amikor a nap lenyugodott a horizonton, és a csillagok elkezdték felragyogni az éjszakai égboltot, egy kisfiú, akinek a neve Szabi volt, álmodott egy nagy kalandról. Szabi mindig is lenyűgözte az éjszakai égbolt, a csillagok és a hold varázslatos világa. Gyakran nézte az égboltot, és elképzelte, milyen lenne, ha ott lehetne, ahol a csillagok születnek.
+
+Egy este, amikor Szabi az ágyában feküdt, hirtelen egy hangot hallott a szobájában. A hang egy kis, aranyos hang volt, amely így szólt: "Szabi, Szabi, gyere velem egy utazásra a Holdra!" Szabi kipattant az ágyból, és körülnézett a szobájában, de senkit sem látott. Aztán meglátott egy kis, ragyogó fényt, amely a szoba sarkában állt. A fény hirtelen egy kis, szárnyas lóvá alakult, amelynek a neve Csillag volt.
+
+Csillag így szólt: "Szabi, én vagyok a te kalauzod ezen az utazáson. Gyere velem, és meglátod a Hold varázslatos világát!" Szabi nem gondolkodott sokáig, hanem felült Csillag hátára, és elindultak az éjszakai égbolt felé. Ahogy repültek, Szabi látta, hogy a csillagok egyre közelebb kerülnek, és a hold egyre nagyobb lesz. Végre elérkeztek a Hold felszínére, ahol Szabi csodálkozva látta a holdbéli tájat.
+
+A Hold felszínén Szabi és Csillag egy csodálatos erdőben találták magukat, ahol a fák csillagokból készültek, és a levelek holdfényből ragyogtak. Ahogy sétáltak az erdőben, Szabi hallotta, hogy a csillagok énekelnek. Az ének olyan szép volt, hogy Szabi nem tudott betelni vele. Csillag így szólt: "Ez a csillagok éneke, amelyet csak azok hallhatnak, akik a Holdon vannak."
+
+Szabi és Csillag tovább sétáltak az erdőben, és hamarosan egy nagy, ragyogó tóhoz érkeztek. A tóban Szabi látta, hogy a holdfényben fürdőznek a csillagok. Csillag így szólt: "Ez a csillagok tava, ahol a csillagok fürdőznek, és felkészülnek az éjszakai égboltra." Szabi csodálkozva nézte a csillagokat, ahogy fürdőznek a tóban.
+
+Ahogy tovább sétáltak, Szabi és Csillag egy nagy, csillagokból készült városhoz érkeztek. A városban Szabi látta, hogy a csillagok mindennapjaikat élik, és készülnek az éjszakai égboltra. Csillag így szólt: "Ez a csillagok városa, ahol a csillagok élnek, és felkészülnek az éjszakai égboltra." Szabi csodálkozva nézte a csillagokat, ahogy élnek a városban.
+
+Végre Szabi és Csillag elérkeztek a Hold közepére, ahol egy nagy, ragyogó palota állt. A palotában Szabi látta, hogy a Hold királya és királynéja trónolnak. A Hold királya és királynéja Szabihoz fordultak, és így szóltak: "Szabi, te vagy a mi vendégünk a Holdon. Mi vagyunk a Hold királya és királynéja, és mi kormányzunk a Holdat." Szabi tisztelegve köszöntötte a Hold királyát és királynéját.
+
+A Hold királya és királynéja Szabinak adtak egy ajándékot, egy kis, ragyogó csillagot, amelyet Szabi az éjszakai égbolton láthatott. Szabi hálásan köszönte meg az ajándékot, és elbúcsúzott a Hold királyától és királynéjától. Csillag így szólt: "Szabi, itt az ideje, hogy visszatérjünk a Földre." Szabi búcsúzott a Holdtól, és felült Csillag hátára.
+
+Ahogy repültek vissza a Földre, Szabi látta, hogy a csillagok egyre távolabb kerülnek, és a hold egyre kisebb lesz. Végre elérkeztek Szabi szobájába, ahol Szabi leült az ágyára, és nézte a csillagot, amelyet a Hold királya és királynéja adott neki. Szabi elaludt, és álmodott a Hold varázslatos világáról, ahol a csillagok énekelnek éjjel.
+
+Másnap reggel Szabi felébredt, és kinézett az ablakon. Látta, hogy a csillagok ragyognak az éjszakai égbolton, és a hold fénylik a horizonton. Szabi elmosolyodott, és gondolt a Hold varázslatos világára, ahol a csillagok énekelnek éjjel. Szabi tudta, hogy soha nem felejti el az utazását a Holdra, ahol a csillagok énekelnek éjjel.</body>

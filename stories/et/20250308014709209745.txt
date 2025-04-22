@@ -1,0 +1,42 @@
+<prompt>
+Please write a uncomplicated Estonian children's story that is at least 1000 words long.
+It must be completely written in proper Estonian (ET).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Öine seiklus kummitusrongis läbi Eestimaa'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>et</lang_id>
+
+<title>Öine seiklus kummitusrongis läbi Eestimaa</title>
+<body>
+Öö oli tume ja pilviline, kui kolm sõber, Mari, Toomas ja Kaia, kohtusid rongijaamas. Nad olid kuulnud, et öösel sõidab läbi Eestimaa kummitusrong, mis võtab kaasa kõik, kes on vaprad ja julged. Sõbrad olid otsustanud, et nad tahavad selle rongiga kaasa minna ja näha, mis seiklused neid ees ootavad.
+
+Kui nad rongijaamas olid, nägid nad, et jaam oli täiesti tühi. Ainult üksikud lambid olid põlema pandud, et valgustada pime jaamahoone. Sõbrad kuulsid, kuidas tuul ulgus ja uksed käisid ise avanema ja kinni. Nad teadsid, et see oli kummitusrongi tuleku märk.
+
+Siis, justkui ei midagi, ilmus jaamale valge rong, mille vagunid olid kaetud uduga. Rongi esimesel vagunil oli suur, hirmuäratav kuju, mis meenutas koletist. Sõbrad said aru, et see oli kummitusrongi kapten, kes võtab neid kaasa öisele seiklusele.
+
+Kui rong peatus, avanes ukse ja sõbrad astusid vaguni. Seal olid ainult kaks tooli, mis olid kaetud valge kangaga. Kapten ütles neile, et nad peavad istuma ja hoiduma kinni, sest rong sõidab läbi Eestimaa ja võtab neid kaasa eri paikadesse.
+
+Rong asus liikuma ja sõbrad tundsid, kuidas vagun kiirenes. Nad läbisid Tallinna, kus nad nägid Toompea lossi ja Oleviste kiriku. Nad läbisid ka Tartu, kus nad nägid Tartu ülikooli ja Jaani kiriku. Kuid rong ei peatunud kuskil, vaid sõitis edasi, läbi maastiku ja metsade.
+
+Sõbrad olid vaprad ja julged, kuid nad teadsid, et nad on siiski kummitusrongis. Nad kuulsid, kuidas rongi vagunid käisid ja kuidas kapten karjus. Nad nägid, kuidas uduga kaetud aknad avanesid ja sulgusid, ning kuidas rongi valgusid vilkus.
+
+Kui rong sõitis läbi Eestimaa, nägid sõbrad eri paikadesse. Nad nägid Pärnu rannikut, kus nad nägid mere ja liiva. Nad nägid ka Soomaa raba, kus nad nägid sood ja metsi. Kuid rong ei peatunud kuskil, vaid sõitis edasi, läbi öö.
+
+Siis, kui öö oli poolik, nägid sõbrad midagi erilist. Nad nägid, kuidas rong sõitis läbi tunneli, mis oli kaetud tulega. Tunnel oli nii pitka, et sõbrad arvasid, et nad on juba teises maailmas. Kuid kui nad tunnelist väljusid, nägid nad, et nad on jälle Eestimaal.
+
+Rong sõitis edasi, läbi öö, kuni nad jõudsid Eesti lõunapiirile. Seal nägid nad, kuidas rong sõitis läbi piiri, ning kuidas nad olid juba teises maailmas. Kuid sõbrad teadsid, et nad on siiski kummitusrongis, ning et nad peavad tagasi minema.
+
+Kui rong pööras tagasi, nägid sõbrad, et nad on jälle Eestimaal. Nad läbisid taas Tartu ja Tallinna, ning nad nägid taas Toompea lossi ja Oleviste kiriku. Kuid seekord olid nad teadlikud, et nad on kummitusrongis, ning et nad peavad hoiduma kinni.
+
+Rong sõitis edasi, kuni nad jõudsid tagasi rongijaama. Seal peatus rong ja sõbrad astusid vagunist välja. Nad olid vaprad ja julged, kuid nad teadsid, et nad on siiski läbi elanud öise seikluse.
+
+Kui nad rongijaamast väljusid, nägid nad, et öö on juba läbi. Koidik oli tõusnud ja päike paistis taevast. Sõbrad teadsid, et nad on läbi elanud midagi erilist, ning et nad on vaprad ja julged. Nad läksid koju, kus nad jutustasid oma vanematele öise seiklusest.
+
+Vanemad kuulasid jutustust ja ütlesid, et see oli ainult unenägu. Kuid sõbrad teadsid, et nad on siiski läbi elanud öise seikluse kummitusrongis läbi Eestimaa. Ja kui nad magama läksid, nägid nad, kuidas rong sõitis edasi, läbi öö, ning kuidas kapten karjus ja rongi vagunid käisid.
+
+Sõbrad teadsid, et nad on siiski osa kummitusrongist, ning et nad on vaprad ja julged. Ja kui nad homme ärgates said, teadsid nad, et nad on valmis uute seikluste jaoks, sest nad olid läbi elanud öise seikluse kummitusrongis läbi Eestimaa.</body>

@@ -1,0 +1,43 @@
+<prompt>
+Please write a relatable Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Gyvūnų miško pasakos ir stebuklai'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>lt</lang_id>
+
+<title>Gyvūnų miško pasakos ir stebuklai</title>
+<body>Šįkart aš jums pasakysiu istoriją apie mišką, kuris buvo pilnas gyvūnų, ir apie stebuklus, kurie ten įvyko. Miškas buvo didelis ir tankus, su aukštomis medžių šakomis, kurios siekė dangų. Gyvūnai, kurie ten gyveno, buvo labai įvairūs - nuo mažų pelių iki didžiųjų meškų.
+
+Vienas mažas peliukas, vardu Peliukas, buvo labai smalsus ir norėjo viską žinoti apie mišką. Jis kasdien bėgdavo pro medžius, tyrinėdamas kiekvieną kampą, ir visada rado kažką naujo. Peliukas turėjo daug draugų miške, ir jie visi kartu žaidė, tyrinėjo ir mokėsi vienas kitą.
+
+Vieną dieną, kai Peliukas bėgo pro tankų krūmą, jis aptiko mažą, bet labai gražų paukštį. Paukštis turėjo spindinčias mėlynas ir žalias plunksnas, ir jo giesmė buvo kaip muzika. Peliukas buvo labai sužavėtas ir paklausė paukščio, kas jis ir iš kur atėjo. Paukštis pasakė, kad jis yra iš toli esančių kalnų, ir kad jis atskridęs į mišką, norėdamas pamatyti, kokie čia gyvūnai.
+
+Peliukas ir paukštis, vardu Skraidantis, greitai tapo draugais. Jie kartu tyrinėjo mišką, ir Skraidantis buvo labai patenkintas, kai pamatė, kokie čia gyvūnai yra draugiški ir atkakliai. Peliukas ir Skraidantis dažnai sėdėdavo ant didelio akmenio, kuris buvo miško centre, ir ten jie kalbėdavosi apie savo gyvenimus ir svajones.
+
+Vieną dieną, kai jie sėdėjo ant akmenio, Skraidantis pasakė Peliukui apie stebuklą, kuris įvyko jam kelis mėnesius anksčiau. Jis pasakė, kad jis skridęs per didelį ežerą, kai pamatė žuvį, kuri buvo labai didelė ir graži. Žuvys buvo tokia didelė, kad Skraidantis galėjo ant jos nusileisti, ir jis pasakė, kad žuvys buvo labai draugiška ir pasiūlė jam skristi ant jos nugaros.
+
+Peliukas buvo labai sužavėtas šia istorija, ir jis paklausė Skraidančio, ar jis gali parodyti jam tą ežerą. Skraidantis pasakė, kad ežeras yra labai toli, bet kad jis gali parodyti jam kelią. Jie abu nusprendė keliauti į ežerą, ir jų draugai miške juos lydėjo.
+
+Kelionė buvo ilga, bet jie visi buvo labai džiaugsmingi ir cantarų. Jie ėjo pro tankų mišką, per upes, ir pro kalnus. Galiausiai, po kelių dienų kelionės, jie pamatė didelį ežerą, kuris buvo labai gražus. Ežeras buvo pilnas žuvų, ir Skraidantis parodyjo Peliukui tą didelę žuvį, apie kurią jis anksčiau kalbėjo.
+
+Peliukas buvo labai sužavėtas, kai pamatė žuvį, ir jis paklausė Skraidančio, ar jis gali pakilti ant jos nugaros. Skraidantis pasakė, kad žuvys yra labai draugiška, ir kad ji leis Peliukui pakilti ant jos nugaros. Peliukas pakilo ant žuvies nugaros, ir jis buvo labai džiaugsmingas, kai jis skriejo per ežerą.
+
+Žuvys parodė Peliukui visą ežerą, ir jis pamatė daug naujų gyvūnų, kurie ten gyveno. Peliukas buvo labai patenkintas, kai grįžo į mišką, ir jis pasakė savo draugams apie stebuklą, kuris jam įvyko. Jo draugai buvo labai sužavėti, kai girdėjo apie Peliuko kelionę, ir jie visi norėjo keliauti į ežerą.
+
+Taip Peliukas ir jo draugai tapo labai garsūs miške, ir jie visi buvo vadinami stebuklingais gyvūnais. Jie visi kartu tyrinėjo mišką, ir jie visada rado kažką naujo. Peliukas ir Skraidantis visada buvo draugai, ir jie kartu kalbėdavosi apie savo gyvenimus ir svajones.
+
+Vieną dieną, kai Peliukas ir Skraidantis sėdėjo ant akmenio, jie pamatė mažą, bet labai gražų vabzdį. Vabzdys turėjo spindinčias auksines ir raudonas sparnas, ir jo skrydis buvo kaip šokis. Peliukas ir Skraidantis buvo labai sužavėti, kai pamatė vabzdį, ir jie paklausė jo, kas jis ir iš kur atėjo.
+
+Vabzdys pasakė, kad jis yra iš toli esančių laukų, ir kad jis atskridęs į mišką, norėdamas pamatyti, kokie čia gyvūnai. Peliukas ir Skraidantis greitai tapo draugais su vabzdžiu, vardu Šokėjas, ir jie kartu tyrinėjo mišką. Šokėjas buvo labai patenkintas, kai pamatė, kokie čia gyvūnai yra draugiški ir atkakliai.
+
+Peliukas, Skraidantis, ir Šokėjas dažnai sėdėdavo ant didelio akmenio, kuris buvo miško centre, ir ten jie kalbėdavosi apie savo gyvenimus ir svajones. Jie visi buvo labai džiaugsmingi, kai būdavo kartu, ir jie visada rado kažką naujo.
+
+Taip Peliukas ir jo draugai gyveno miške, ir jie visi buvo labai patenkinti. Jie visi kartu tyrinėjo mišką, ir jie visada rado kažką naujo. Peliukas, Skraidantis, ir Šokėjas visada buvo draugai, ir jie kartu kalbėdavosi apie savo gyvenimus ir svajones.
+
+Ir taip, ši istorija apie Peliuką ir jo draugus baigiasi. Jie visi gyveno miške, ir jie visi buvo labai patenkinti. Peliukas, Skraidantis, ir Šokėjas visada buvo draugai, ir jie kartu tyrinėjo mišką. Jie visi buvo labai d

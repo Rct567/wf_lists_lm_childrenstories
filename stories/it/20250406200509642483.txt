@@ -1,0 +1,58 @@
+<prompt>
+Please write a silly Italian children's story that is at least 1000 words long.
+It must be completely written in proper Italian (IT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'L'Astronauta con il Cuore d'Oro che Amava le Nuvole Soffici.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>it</lang_id>
+
+```xml
+<title>L'Astronauta con il Cuore d'Oro che Amava le Nuvole Soffici.</title><body>
+C'era una volta, in un paesino sperduto tra le colline toscane, un astronauta molto, molto speciale. Il suo nome era Giovanni, ma tutti lo chiamavano "Giovanni Cuore d'Oro" perché aveva un cuore così grande e gentile che risplendeva come il sole. Ma c’era una cosa che rendeva Giovanni davvero unico: amava le nuvole. Non le normali nuvole, grigie e piovose, ma le nuvole soffici, quelle bianche come la panna montata, che galleggiavano pigre nel cielo.
+
+Giovanni, ogni volta che tornava dai suoi viaggi nello spazio, dimenticava le galassie lontane, le stelle scintillanti e i pianeti misteriosi, e si precipitava sulla collina più alta del paese. Lì, con un panino con la mortadella in una mano e un binocolo nell'altra, passava ore a contemplare le nuvole.
+
+Un giorno, mentre osservava una nuvola che assomigliava a un gigantesco gelato al limone, Giovanni ebbe un'idea. "Voglio costruire una macchina," sussurrò tra sé e sé, "una macchina che mi porti sulle nuvole!"
+
+La notizia si sparse per il paese come un fulmine. I contadini, che solitamente parlavano solo di raccolti e di prezzi dell'olio, iniziarono a mormorare increduli. "Giovanni Cuore d'Oro vuole costruire una macchina per le nuvole? Ma è pazzo!" disse il Signor Rossi, il macellaio, con la bocca piena di salsiccia.
+
+Ma Giovanni, con il suo cuore d'oro, non si scoraggiò. Raccolse tutte le informazioni possibili. Leggeva libri ingialliti di aerodinamica, chiedeva consigli a tutti gli scienziati pazzi che incontrava, e faceva esperimenti segreti nel suo garage, trasformato in un laboratorio fantascientifico.
+
+La macchina, soprannominata affettuosamente "Nuvola Uno", fu un’opera d’arte ingegneristica. Aveva un motore a vapore alimentato con fagioli magici, eliche fatte con piume di pavone, e un abitacolo a forma di gigantesco raviolo. Per la sicurezza, Giovanni aveva aggiunto anche un paracadute a forma di ombrello.
+
+Finalmente, dopo mesi di duro lavoro e innumerevoli tentativi falliti (durante uno dei quali, finì con il cappotto impigliato nelle eliche e venne inseguito da uno stormo di piccioni per tutto il paese), la "Nuvola Uno" era pronta per il volo inaugurale.
+
+Tutto il paese si radunò sulla collina, con il naso all'insù, ansioso di assistere all'evento. La Signora Pina, la fornaia, aveva preparato una torta a forma di nuvola per l'occasione. Il Signor Bruno, il meccanico, aveva lucidato il suo casco da motociclista per l’occasione. Anche i gatti randagi del paese, che di solito dormivano al sole, erano usciti allo scoperto, incuriositi.
+
+Giovanni, con il suo casco spaziale color oro, salì sulla "Nuvola Uno". Si sedette nel raviolo-abitacolo, afferrò la leva del vapore e la tirò con decisione. La macchina tremò, tossì, sputò fumo e… non successe niente.
+
+Un silenzio imbarazzante calò sulla collina. I contadini iniziarono a scuotere la testa, i gatti sbadigliarono e la Signora Pina pensò di assaggiare la sua torta. Giovanni si sentì il cuore sprofondare. "Non funziona!" urlò.
+
+All'improvviso, un bambino piccolo, con le guance sporche di gelato, si fece avanti. Si chiamava Matteo e aveva solo cinque anni. “Giovanni Cuore d’Oro,” disse il bambino con voce squillante, “forse la macchina ha bisogno di… amore!”
+
+Giovanni lo guardò stupito. “Amore?” domandò.
+
+Matteo annuì con forza. “Certo! Le macchine, come le nuvole, hanno bisogno di amore. Prova a cantarle una canzone!”
+
+Giovanni ci pensò su un attimo. Aveva provato a usare carburanti diversi, a cambiare le eliche, ad applicare persino olio d’oliva (per tradizione toscana), ma non aveva mai pensato di cantare. Ma perché no? Con la sua dolce voce di tenore, iniziò a cantare una canzone che aveva scritto appositamente per le nuvole, una canzone allegra e spensierata, con parole come “soffice”, “bianca”, “gelato” e “amore”.
+
+Mentre cantava, la "Nuvola Uno" iniziò a tremare di nuovo. Questa volta, però, era diverso. Il motore a vapore emise un suono felice, quasi come una risata. Le eliche iniziarono a girare più velocemente, e lentamente, molto lentamente, la macchina iniziò a sollevarsi da terra.
+
+Un applauso fragoroso si alzò dalla folla. La "Nuvola Uno" continuò a salire, salendo sempre più su nel cielo, diventando sempre più piccola. Giovanni Cuore d'Oro, sorridendo come mai prima d’ora, stava finalmente per raggiungere le sue amate nuvole soffici.
+
+Il viaggio fu fantastico. Giovanni esplorò ogni singola nuvola, toccandole con le sue mani e sentendo la loro incredibile morbidezza. Giocò a nascondino con loro, mangiò "gelati-nuvola" preparati appositamente per lui dalla Signora Pina, e imparò tutti i loro segreti. Scoprì che le nuvole amavano le canzoni, e cantava per loro ogni giorno, per farle ballare e divertire.
+
+Ogni tanto, tornava sulla terra per salutare il suo paese, portare regali alle persone, come per esempio la polvere di stelle e sassolini colorati dal pianeta "Zuppa di Minestrone" che aveva scoperto durante uno dei suoi viaggi. Ma non dimenticava mai il suo obiettivo: le nuvole.
+
+E un giorno, mentre volava tra le nuvole, ebbe un'altra idea geniale. Costruì una fabbrica di profumo, capace di riempire il mondo con il profumo che preferiva. Fece il profumo al "profumo della nonna", quello alla pizza, quello alla mortadella (ovviamente), e quello al gelato. E per la sua gente creò il profumo di ogni singolo personaggio che amava! La Signora Pina ebbe il profumo del pane caldo e del lievito, e il Signor Bruno quello dei motori potenti e dei bulloni.
+
+Ma il profumo che fece in quantità più grande, per riempire il mondo, fu il profumo delle nuvole.
+
+E da quel giorno, ogni volta che Giovanni Cuore d'Oro tornava a casa, il paese profumava di nuvole soffici. Ed è per questo che, ancora oggi, se vi trovate tra le colline toscane in una giornata di sole, e sentite un profumo dolce e delicato nell’aria, non dimenticate di alzare lo sguardo. Potrebbe essere Giovanni Cuore d’Oro, in volo sulla "Nuvola Uno", mentre canta alle nuvole e diffonde l’amore in tutto il mondo. E, forse, se ascoltate attentamente, potrete sentire anche voi la sua dolce voce che intona una canzone, con parole come "soffice", "bianca", "gelato" e "amore".
+</body>
+```

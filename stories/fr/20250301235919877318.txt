@@ -1,0 +1,31 @@
+<prompt>
+Please write a light-hearted French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La Reine des Fées et ses Amies Fougueuses'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>fr</lang_id>
+
+<title>La Reine des Fées et ses Amies Fougueuses</title>
+<body>
+Dans un royaume enchanté, perché sur le sommet d'une montagne scintillante, vivait la Reine des Fées,  Élodie.  Elle n'était pas une reine austère, au contraire ! Ses ailes, couleur d'arc-en-ciel, chatoyaient au soleil et son rire, comme une cascade de cloches, résonnait dans les vallées. Élodie avait une cour remplie de fées aussi joyeuses et excentriques qu'elle.  Ce n'était pas la cour traditionnelle, pleine de révérences et de robes brodées, mais un rassemblement de fées aux personnalités uniques et à l'imagination débordante.
+
+Parmi elles, on trouvait la fée Clochette, experte dans l'art de créer des fleurs qui dansaient sur la musique des ruisseaux.  Ses mains, plus fines qu'un brin d'herbe,  avaient un talent prodigieux pour modeler des roses aux pétales de cristal et des lys qui brillaient comme des étoiles. Mais Clochette, avec son côté artistique fougueux, avait un petit problème : elle avait un penchant pour les histoires passionnées, ce qui la conduisait souvent à oublier de ramasser ses fleurs enchantées.  Elles s'échappaient alors pour s'installer un peu partout, faisant des délices pour toutes sortes de petites créatures.
+
+Ensuite, il y avait la fée Iris, la plus rapide et la plus agile de toutes.  Elle se déplaçait sur les vents, faisant danser les feuilles dans la forêt.  Elle avait une prédisposition naturelle pour le voyage et la découverte, aimant explorer les mondes secrets cachés derrière les rochers et à l'intérieur des rosiers couverts de rosées.  Son rire aigu résonnait à travers les collines, comme le son des cloches d'un sonneur. Elle avait une petite tendance à partir dans des aventures sans préavis, se trouvant souvent à des endroits inconcevables pour une fée à un certain point de l'histoire.
+
+Enfin, il y avait la fée  Pivoine, la fée la plus gaie et la plus joueuse. Ses cheveux rouges comme un feu crépitant se tressaient au rythme du vent.  Elle possédait le don de transformer n'importe quel objet en une source de jeu. Une pierre pouvait devenir un magnifique cheval, un brin d'herbe pouvait devenir une baguette magique ou un champignon pouvait se métamorphoser en un château fantastique pour un goûter.  Pivoine adorait inventer des jeux, se surprenant parfois elle-même par la quantité de possibilités qu'elle développait, pour autant de divertissement.
+
+Un jour, un événement inattendu perturba la vie paisible de la reine et de ses amies fougueuses.  Un sorcier, de nature sombre et sournoise, nommé Maléfice, jeta un sort maléfique sur le royaume enchanté, et les couleurs commencèrent à disparaître petit à petit.  Le soleil devint terne, les fleurs perdirent leurs éclat et les chants des oiseaux s'estompèrent.  La reine Élodie, troublée, s'empressa de rassembler ses trois amies.
+
+«  Nous devons stopper cette horrible malédiction ! » exclama-t-elle avec une détermination inébranlable.  Les trois fées, chacune avec leurs propres talents et leurs particularités, se lancèrent à la recherche du moyen d'inverser le sort.  Clochette, en s'aidant de son immense connaissance des plantes, composa un breuvage parfumé, issu des fleurs les plus rares et des herbes les plus précieuses. Iris, à l'aide de son agilité incomparable, vola à travers les cieux, recueillant les derniers rayons du soleil d'or pour rassembler son énergie.  Quant à Pivoine, avec son humour vif, elle construisit un arc-en-ciel, coloré et joyeux, à la façon d’un pont reliant les cœurs du monde visible et du royaume enchanté.
+
+En utilisant l’incroyable collaboration entre leurs compétences et leurs passions respectives, ils réussirent ensemble à briser le sort maléfique de Maléfice. Les couleurs refirent leur apparition, illuminant les sommets de la montagne, vibrant et revigorant chaque fleur, oiseau et être du royaume enchanté.  Alors que les fées regardaient leur œuvre ensemble, un large sourire s’étira sur leur visage et un éclair dans leurs yeux.
+
+Leur amitié indéfectible et leur courage résonnèrent à travers le royaume, servant d’exemple pour chaque petite créature, enseignant une leçon de collaboration, de créativité et de célébration de la différence. La Reine et ses amies, plus joyeuses que jamais, continuèrent leurs aventures, éclairant le monde de leur joie et leur amour inconditionnel.
+</body>

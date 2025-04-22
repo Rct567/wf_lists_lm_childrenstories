@@ -1,0 +1,55 @@
+<prompt>
+Please write a funny French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'L'écolier et ses nouvelles chaussures toutes neuves.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```html
+<title>L'écolier et ses nouvelles chaussures toutes neuves.</title>
+<body>
+Il était une fois, dans un petit village pittoresque de France, un jeune écolier nommé Pierre. Pierre était un garçon espiègle, avec des yeux pétillants et un amour pour les farces. Mais surtout, Pierre avait un grand désir : des chaussures flambant neuves ! Ses vieilles chaussures étaient usées jusqu'à la corde, avec des trous qui laissaient apparaître ses chaussettes, et elles grincaient à chaque pas, comme si elles voulaient chanter une mélodie triste.
+
+Un jour, à l'annonce de l'arrivée imminente du père Noël, l'espoir scintilla dans les yeux de Pierre. Il avait écrit une longue lettre, expliquant à quel point il avait été sage (même s'il avait peut-être subtilisé un petit gâteau ou deux de la cuisine de sa grand-mère). Il avait surtout insisté sur le fait qu'il avait absolument, terriblement besoin de chaussures neuves, celles avec des lacets rouges, qui brillent sous le soleil !
+
+La veille de Noël, l'excitation de Pierre atteignit son apogée. Il sauta du lit à l'aube, impatient de découvrir les cadeaux. Courant vers le sapin, il remarqua, émerveillé, un énorme paquet, enveloppé dans du papier rouge et doré. Son cœur fit un bond. Il y était, il en était sûr, ses chaussures !
+
+Avec des mains tremblantes, il déchira le papier cadeau. Et là, devant ses yeux ébahis, trônaient… pas une, mais deux boîtes ! Une boîte contenait des chaussettes à rayures multicolores, d’une extravagance folle. Pierre grimaça légèrement, mais sourit. Après tout, de nouvelles chaussettes, c’était déjà un bon début. La deuxième boîte… oh, la deuxième boîte était encore mieux ! Elle contenait… des bottes ! Mais pas n'importe quelles bottes, des bottes en caoutchouc jaune vif, avec des petits canards flottant autour du bas.
+
+« Des bottes ! » s’écria-t-il, partagé entre la déception et l’émerveillement. Des bottes jaunes avec des canards ! C'était… différent. Certes, pas les chaussures rouges avec les lacets qui brillent, mais elles étaient… drôles. Et il fallait bien l'avouer, la perspective de sauter dans les flaques d'eau avec ces canards l’enthousiasmait.
+
+Le lendemain, à l'école, Pierre fit sensation. Ses nouvelles bottes jaunes attirèrent tous les regards. Les enfants pouffaient, le complimentaient (avec une pointe de moquerie bien sûr). Mais Pierre, loin de se sentir gêné, en rajoutait. Il sautait joyeusement dans toutes les flaques qu'il croisait, faisant éclabousser tout le monde. Il imitait le coin-coin des canards, et ses rires résonnaient dans la cour de récréation.
+
+Le maître, Monsieur Dupont, un homme réputé pour sa sévérité, ne put s'empêcher de sourire. Il trouvait que les bottes de Pierre mettaient de la gaieté dans la classe.
+
+Cependant, la récréation suivante fut pleine de surprises. Pendant un jeu de cache-cache, Pierre, en courant à toute vitesse, trébucha sur une grosse pierre, enfouie dans l’herbe. Il chuta lourdement. Au lieu de se relever, il remarqua quelque chose d'étrange : il était… collé !
+
+Ses bottes étaient restées coincées dans la boue, englouties jusqu’au dessus des canards ! Et voilà Pierre, seul, coincé dans la boue, ressemblant à un canard lui-même. Ses camarades, d'abord amusés, éclataient de rire, puis, constatant l'impossibilité de le dégager, appelèrent Monsieur Dupont.
+
+Monsieur Dupont, armé d’une pelle, tenta de sortir les bottes de la boue, en vain. Elles semblaient solidement ancrées. Il fallut plusieurs élèves, utilisant des cordes, pour extraire laborieusement les bottes de la terre. Une fois les bottes libérées, Pierre retrouva son équilibre et, avec l'aide de ses amis, se leva, couvert de boue de la tête aux pieds.
+
+Heureusement, les chaussettes multicolores n'étaient pas touchées.
+
+Ce jour-là, Pierre apprit une précieuse leçon : les bottes, aussi amusantes soient-elles, ne sont pas forcément idéales pour toutes les activités.
+
+Mais l'histoire ne s'arrêta pas là.
+
+Le lendemain, Pierre revint à l'école, fier et souriant, non pas avec ses bottes, mais… avec ses chaussettes ! Il les portait par-dessus ses vieilles chaussures grinçantes, donnant l'impression qu'il marchait sur un arc-en-ciel. Il fit croire à tous qu'il avait un pouvoir secret. Il pouvait "marcher dans la couleur"! Les éclats de rire se multiplièrent, mais personne ne se moqua réellement. Ils admiraient son imagination et son ingéniosité.
+
+Le matin suivant, il retourna avec… rien du tout, pas de bottes, pas de chaussures, juste des chaussettes sur les pieds. Monsieur Dupont, intrigué, demanda à Pierre : « Mais où sont tes chaussures, Pierre ? »
+
+Pierre, avec un regard malicieux, répondit : « Ah, Monsieur Dupont ! Mes chaussures ? Elles sont en vacances ! Elles avaient besoin d'un repos bien mérité après cette aventure boueuse. Je suis en train d'expérimenter la liberté des pieds nus ! C'est… surprenant ! »
+
+Monsieur Dupont, malgré son air sévère, sourit encore une fois. Il réalisa que l'imagination de Pierre n'avait pas de limites et que, finalement, peu importaient les chaussures que l'on portait. L'important, c'était l'attitude et la joie de vivre.
+
+Quelques jours plus tard, Pierre reçut un nouveau cadeau inattendu. C’était un grand sac rempli de lacets de toutes les couleurs, et une petite carte. La carte disait : « Pour un garçon qui sait faire chanter la vie avec ses pieds ! »
+
+Pierre, comblé, accepta ce cadeau, mais surtout, il se mit à inventer toutes sortes de jeux et de tours basés sur ses nouvelles "armes" colorées. Il utilisait les lacets comme des bracelets d'amitié, il fabriquait des jeux de marelle improvisés, et il donnait à ses amis de drôles de noms de couleurs pour jouer. Chaque jour, l'école se transformait en un spectacle rempli de rires, de couleurs et de bonheur.
+
+Et bien sûr, le père Noël ne l'oublia jamais, lui envoyant chaque année un cadeau spécial… jamais des chaussures, mais des choses surprenantes et qui sortaient de l'ordinaire : des lunettes de soleil à monture bizarre, des chapeaux pointus et toujours, une grande collection de lacets colorés, pour que Pierre continue à répandre sa bonne humeur autour de lui. Et à faire sourire tout le village, grâce à sa créativité et son esprit joyeux !

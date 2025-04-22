@@ -1,0 +1,53 @@
+<prompt>
+Please write a timeless Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Bạn Hươu cao cổ và chuyến đi khám phá những vùng đất xa xôi.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>vi</lang_id>
+
+```xml
+<title>Bạn Hươu cao cổ và chuyến đi khám phá những vùng đất xa xôi.</title>
+<body>
+Ngày xửa ngày xưa, trong một khu rừng xanh tốt trải dài bên bờ sông Hồng thơ mộng, có một chú hươu cao cổ tên là Linh. Linh không giống những bạn hươu cao cổ khác. Trong khi bạn bè chỉ thích ăn lá cây cao trên ngọn, Linh lại luôn tò mò về những điều xa xôi, về những vùng đất mà chưa ai từng đặt chân đến. Cậu luôn ngước nhìn bầu trời, tưởng tượng ra những vì sao lấp lánh và những đám mây trôi bồng bềnh, tự hỏi liệu có gì ngoài khu rừng thân yêu này.
+
+Một buổi sáng mùa xuân, khi những tia nắng vàng rực rỡ chiếu rọi khắp khu rừng, Linh quyết định sẽ thực hiện ước mơ của mình. Cậu chào tạm biệt cha mẹ và bạn bè, hứa hẹn sẽ mang về những câu chuyện thú vị nhất. Linh mang theo một chiếc ba lô nhỏ đựng đầy bánh gạo, vài quả ổi chín mọng và một bình nước suối mát lạnh.
+
+"Con hãy cẩn thận nhé, Linh," mẹ cậu dặn dò. "Ngoài kia có thể có nhiều điều nguy hiểm."
+
+"Con biết rồi ạ, mẹ," Linh đáp, mắt sáng ngời niềm vui và háo hức.
+
+Thế là Linh bắt đầu cuộc hành trình khám phá. Cậu bước đi thoăn thoắt trên những con đường mòn, len lỏi qua những bụi cây rậm rạp và vượt qua những con suối trong veo. Cậu gặp gỡ nhiều loài vật khác nhau. Có chị ong chăm chỉ đang hút mật hoa, có anh sóc nhanh nhẹn đang chuyền cành, và có cả những chú chim sẻ xinh xắn đang líu lo trên những ngọn cây. Linh chào hỏi và trò chuyện với tất cả mọi người. Cậu kể cho họ nghe về kế hoạch của mình và lắng nghe những câu chuyện về cuộc sống của họ.
+
+Ngày đầu tiên, Linh đến được một ngọn đồi cao. Từ trên đỉnh đồi, cậu có thể nhìn thấy cả một vùng đất rộng lớn trải dài đến tận chân trời. Cậu cảm thấy ngỡ ngàng trước vẻ đẹp của thiên nhiên. Những cánh đồng lúa xanh mướt, những dòng sông uốn lượn như dải lụa mềm mại và những ngọn núi hùng vĩ ẩn hiện trong sương sớm. Cậu lấy chiếc bút chì và cuốn sổ nhỏ ra, tỉ mẩn vẽ lại những cảnh đẹp mình nhìn thấy.
+
+Ngày thứ hai, Linh đi sâu vào rừng già. Ở đó, cậu gặp một đàn voi lớn đang tắm mát trong một vũng bùn lầy. Những chú voi con nghịch ngợm đùa giỡn, vẩy nước tung tóe làm ướt cả người Linh. Linh không hề sợ hãi, cậu tiến lại gần và cười với chúng. Đàn voi tỏ ra thân thiện và chia sẻ thức ăn với Linh. Cậu học được cách giao tiếp với chúng bằng những âm thanh đặc biệt.
+
+Ngày thứ ba, Linh đến được một vùng biển rộng lớn. Biển xanh mênh mông như một bức tranh khổng lồ. Những con sóng vỗ về bờ cát trắng xóa. Linh nhìn thấy những con tàu lớn đang ra khơi và những chú hải âu bay lượn trên bầu trời. Cậu thích thú nhặt những vỏ ốc biển đủ màu sắc và tìm hiểu về những loài sinh vật biển kỳ lạ.
+
+Trong suốt chuyến đi, Linh đã gặp không ít khó khăn. Có những lúc cậu cảm thấy đói bụng, mệt mỏi và cô đơn. Nhưng Linh không hề nản chí. Cậu luôn nhớ lời mẹ dặn và tự nhủ phải kiên trì và dũng cảm. Cậu tìm cách vượt qua mọi thử thách. Cậu tìm thấy những quả dại ăn được để lấp đầy chiếc bụng đói, tìm một gốc cây to để nghỉ ngơi và ngắm nhìn bầu trời đêm đầy sao để quên đi nỗi nhớ nhà.
+
+Một buổi chiều, Linh tình cờ gặp một cụ rùa già. Cụ rùa có bộ râu dài trắng xóa và đôi mắt hiền từ. Cụ đã sống qua hàng trăm năm và biết rất nhiều điều về thế giới. Linh kể cho cụ nghe về chuyến đi của mình và những điều cậu đã khám phá. Cụ rùa lắng nghe chăm chú và mỉm cười.
+
+"Cháu đã làm rất tốt," cụ rùa nói. "Cháu đã dũng cảm khám phá những điều mới lạ và học hỏi được nhiều điều từ thiên nhiên. Cháu đã gặp gỡ nhiều người bạn và chia sẻ tình yêu thương của mình với họ. Cháu đã lớn hơn rất nhiều."
+
+Cụ rùa còn kể cho Linh nghe về một khu vườn bí mật nằm sâu trong lòng rừng. Khu vườn đó được bao phủ bởi một lớp sương mù huyền bí. Nơi đó có những loài hoa kỳ lạ, những loại trái cây thơm ngon và những dòng suối trong vắt. Cụ rùa nói rằng chỉ những người có trái tim lương thiện và dũng cảm mới có thể tìm thấy khu vườn.
+
+Nghe vậy, Linh càng thêm quyết tâm tìm đến khu vườn bí mật. Cậu chia tay cụ rùa và tiếp tục hành trình của mình. Linh đi sâu vào rừng, băng qua những con đường gập ghềnh và vượt qua những con suối chảy xiết. Cậu cảm nhận được sự thay đổi của thiên nhiên, không khí trở nên ẩm ướt hơn và những âm thanh trở nên huyền bí hơn.
+
+Cuối cùng, sau nhiều ngày gian khổ, Linh tìm thấy khu vườn bí mật. Cậu đứng trước một cánh cổng được làm bằng đá cổ kính. Một lớp sương mù dày đặc bao phủ xung quanh. Linh bước qua cánh cổng, trái tim đập thình thịch vì hồi hộp.
+
+Khu vườn bí mật hiện ra trước mắt Linh. Cậu không thể tin vào mắt mình. Vô số loài hoa đủ màu sắc đua nhau khoe sắc, tạo nên một bức tranh tuyệt đẹp. Những trái cây thơm ngon treo lủng lẳng trên cành cây, mời gọi. Linh cảm thấy như mình đang lạc vào một thế giới cổ tích. Cậu vui mừng khám phá khu vườn, thưởng thức những trái cây ngon ngọt và tận hưởng không khí trong lành.
+
+Sau khi khám phá khu vườn, Linh quyết định quay về nhà. Cậu từ biệt khu vườn bí mật, mang theo những ký ức tuyệt vời. Trên đường về, cậu gặp lại những người bạn cũ và kể cho họ nghe về những điều kỳ diệu mà cậu đã trải qua. Mọi người đều ngạc nhiên và thích thú trước những câu chuyện của Linh.
+
+Khi Linh về đến nhà, cha mẹ và bạn bè đã chờ đón cậu với vòng tay yêu thương. Cậu ôm chầm lấy cha mẹ và kể cho họ nghe về chuyến đi đáng nhớ. Cậu chia sẻ những câu chuyện, những bài học và những trải nghiệm quý báu. Cậu mang về những món quà nhỏ cho bạn bè và gia đình.
+
+Từ đó, Linh trở thành một người bạn thân thiết của cả khu rừng. Cậu kể cho mọi người nghe về những vùng đất xa xôi và khuyến khích mọi người khám phá thế giới. Cậu truyền cảm hứng cho những ước mơ và đam mê. Chuyến đi của Linh không chỉ là một hành trình khám phá thế giới bên ngoài mà còn là một hành trình khám phá thế giới bên trong tâm hồn. Cậu đã trưởng thành, tự tin hơn và biết trân trọng cuộc sống hơn. Và quan trọng nhất, cậu hiểu rằng, tình yêu thương và lòng dũng cảm là những điều quý giá nhất trong cuộc đời.
+</body>
+```

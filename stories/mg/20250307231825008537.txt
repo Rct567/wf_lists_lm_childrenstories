@@ -1,0 +1,43 @@
+<prompt>
+Please write a dialog-based Malagasy children's story that is at least 1000 words long.
+It must be completely written in proper Malagasy (MG).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>mg</lang_id>
+
+<title>Ny Vorona Kely sy ny Hazo Avo</title>
+<body>
+Nisy vorona kely iray, antsoina hoe Lihi, nanana elatra mahazava madio sy maso tsara tarehy.  Nipetraka tao anaty ala lehibe izy, teo akaikin'ny hazo avo sy mafy iray.  Nantsoina hoe Hazo Avo ity hazo ity, ary noheverina ho iray amin'ny hazo mahatahotra indrindra tao anaty ala izy.
+
+"Oh Lihi! Vorona kely feno fifaliana!" hoy ny feo iray.
+
+Nitongilana ny lohany i Lihi ka nahita bibilava iray, tamin'ny lokon'ny volondry.  Nefa tsy nisy ahiahy na nahatsiaro tahotra i Lihi, satria ny bibilava dia nanana fony tsara sy fo mangarahara, nitahiry fitiavana ho an'ny zavamananaina rehetra.
+
+"Salama, Andriamatoa Bibilava!" hoy i Lihi. "Fa inona no mahatonga anao ho eto?"
+
+"Lihi malalako," hoy ny bibilava, "Miangatra dia miangatra aho izao, tsy mahatsapa ny laliko manomboka.  Tsy hitako intsony ny fifandraisana amin'ny anaty ala."
+
+"Fa ahoana ny fifandraisan'ny ala aminao Andriamatoa Bibilava?" nanontany i Lihi.
+
+"Manana fakan-tsary manokana aho," hoy ny bibilava. "Avy eo dia mampifandray ny sary avy amin'ny ala ao anatin'ny ao anaty tany, fa raha ny tena izy, efa simba be ny famirapiratan'ny alako.  Indraindray dia tsikaritro koa ny hazon'ity ala ity raha mandalo aho; nefa tsy mahatsapa intsony ny hatsaran'ny vovoka sy ny fitiavana ao aminy."
+
+"Misy olana ny famirapiratan'ny ala?" hoy i Lihi. "Ahoana no ahafahany mahazo fahasalamana?"
+
+"Toa misy fahasahiranana amin'ny fitondrana otrikaina eo amin'ny fakan'ny hazo, Lihi malala," hoy ny bibilava. "Nefa tsy azoko tsara fa inona avy no anton'ny tsy fahatakaran'ireo fitondrana izany. Toa misy vatolampy kely ao amin'ireo tany eo am-piandohany ihany koa, ka mety misy tsy fitovian'ny fotoana fitrandrahana otrikaina sy vovoka amin'ireo tany ireo."
+
+"Tsara!" hoy i Lihi, "Hanaraka anao aho amin'ny fandinihana ireo hazo avy ao anaty ala. Ny fakan-tsaranao dia mety manampy antsika hahatakatra kokoa ireo olana ireo."
+
+Nijery niaraka i Lihi sy ny bibilava ny hazo Avo.  Nanavotra ny hazon'ny ala rehetra ny vorona kely avy eo, ka dia nahita ny hazo kely sy lehibe rehetra, nianjera miaraka amin'ireo hazo izay mafy ary ny hazo tsara.  Nanamarika i Lihi sy ny bibilava ny hazo kely voan'ny aretina sy ireo voajanahary fa ny hazo Avo indrindra dia nanana olana.  Nitambatra ny fahasamihafany mba hamantarana ireo olana mety hitranga eo amin'ireo fakany.
+
+Nitadiava ny tanimanga tsara ho an'ny fitondraina sakafo tao anaty ala i Lihi sy Andriamatoa Bibilava, nitady tanimanga azo antoka, ka niangona koa izy ireo tamin'ny fahaiza-mitady sy hiteny teny amin'ny zavamananaina hafa mba hamantarana ny olana kokoa.
+
+Hitany fa ny fisorohana ny vovoka ao amin'ireo tany misy hazo lehibe sy mafy no tena olana lehibe, ka nanamarika ny zava-nitranga rehetra izy ireo, nampianatra ny zavamananaina hafa koa mba hanova ny lalany sy ny fomba fiasan'izy ireo. Ny vorona rehetra sy biby rehetra dia miara-miasa ho toy ny ekipa iray, hamerenana ny fahasalamana sy ny famirapiratan'ny ala.
+
+
+Tamin'ny farany, dia tonga ny vokatra mahafinaritra: Nanjary mamy indray ny hazo avo, ka namela otrikaina bebe kokoa ho an'ny hazo rehetra. Nanjary marevaka indray koa ny ala. Nanjary hitantsika ny hazo rehetra tamin'ny ny tanimanga sy vovoka, ary niara-nitahy i Lihi sy Andriamatoa Bibilava ho toy ny iray ihany izay maneho ny hahatakarana lalina ny fifanampiana ao anaty ala.  Niaina sambatra ary miray fifankatiavana i Lihi sy Andriamatoa Bibilava taty aoriana.
+</body>

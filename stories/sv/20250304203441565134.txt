@@ -1,0 +1,54 @@
+<prompt>
+Please write a funny Swedish children's story that is at least 1000 words long.
+It must be completely written in proper Swedish (SV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'En dag i livet hos en älvbarnvakt'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sv</lang_id>
+
+<title>En dag i livet hos en älvbarnvakt</title>
+<body>
+
+Klockan ringde fem på morgonen.  Inte en vanlig klocka, utan en som lät som en besvärlig älva som var arg för att det inte fanns mer mjölk i skålen.  Det var Selma, och hon var älvbarnvakt.  Inte vilken älvbarnvakt som helst, utan den mest spännande och mest… oorganisererade, i hela älv-dalarna.
+
+Selmas rum såg ut som en snöig lekpark efter ett kraftigt åskväder.  Leksaker av trä och halvt förvrängda metallfigurer låg överallt, blandade med blomstrande (men inte särskilt väldoftande) kryddor och några pappersfjärilar som fortfarande fladdrade från igår.  Det enda ordningsfulla var en trasslig bokhylla med böcker med titlar som "Hur man gör en älv-labb med snäckor" och "Älva-äventyr i en gammal vindsbjälke."
+
+"Fy sjutton," mumlade Selma, fortfarande med ögonen slutna. Hon öppnade ögonen och fick direkt en skramlig träsked i ansiktet. Det var  Alfred, en liten älv med uttalade hår och en alldeles för stor hatt.
+
+"Ska vi baka kakor för älv-barns morgonmål?" frågade han med en allvarlig blick.
+
+"Mmm...kakor?", stammade Selma, som ännu inte helt vaknat. "Men jag tror vi har glömt att köpa mjölk?"
+
+"Mjölk? Inte om jag får säga något. Ska vi bara låna en hink och hämta lite från älvfjällen?" föreslog Alfred, hans röst en klar men oändligt barnslig diskant.
+
+Och så började dagen.  Det handlade inte om någon ordning och reda utan snarare ett hastigt samlande av ingredienser från olika hörn av huset.  En knuten grönsak, några väldoftande örter, ett gäng små stenar - du vet, allt man kan använda i ett "hemma-gjort älvmåltid"
+
+Selma använde en gammal flaska som sked, eftersom hon hade glömt att skydda den alldeles för kostbara koppkollektionen (som de faktiskt hade lånat från ett bibliotek på andra sidan älvdalarna).
+
+Efter frukost började äventyret.  Först var det en jakt på en särskild blå blomma, vars kronblad skapade fantastiska skuggor när de fladdrade i den mörka grottan.  De blev också nästan omkullkastade av en stor, sovande mårhund (som var fast besluten om att vila där.)
+
+Sedan var det ett slags racingäventyr i ett mysigt småvatten som snabbt förvandlades till ett vattenspökande mellan två glada vattenspelande snäckor.
+
+På lunchen drack de te av örter från hela skogen som de fann varav vissa tycktes inte bara vara örter utan även att växa på träden och även att växa som små stenar.
+
+Eftermiddagens stora äventyr handlade om att bygga en flygande skogsunge. Selma tog med sig en bunt av den största skogen från en viss gammal knut och en bunt av stenar och satte ihop dem i den form av en häst. De fick det till att gå bra genom ett speciellt stridssystem på den naturliga uppvisningsgården, och de skrattade högt.
+
+Det var nu kvällen och den lille vännen Alfred blev hungrig och tycktes få en oändlig storlek på magen efter alla sina äventyr. Selma visste att nu var det dags att gå in och laga lite varm choklad till Alfred med socker som den enda ingrediensen.
+
+På vägen hem stötte de på en grupp väldigt, väldigt gamla och utmärkande trollsländor som behövde hjälp med ett kryssord som utmanades av älvarnas hjärna och Selma och Alfred lyckades löst det komplexa gåtans svar.
+
+"Klockan är snart elva", sade Selma.
+
+"Ja", sa Alfred, trött men glad. "Nu är det dags att sova. Nästa äventyr börjar imorgon, vad ska det handla om?"
+
+Selma funderade lite. "Säker på att vi vill göra något väldigt tråkigt?"
+
+Alfred blinkade med sina stora ögon. "Jag skulle gilla en enkel promenad?"
+
+Selma skrattade.  "Visst då. En enkel promenad.  Det kanske är det mest spännande av allt!"  Och så, under en himmelsfärg som strök ut över den mystiska dalen, begav de sig hemåt. Selma hade inte en lätt dag, men var glad att det hade varit minst lite kul.  Dessutom visste hon att den natten skulle vara väldigt spännande för den lilla pojken Alfred med hans nya historia om natten.
+</body>

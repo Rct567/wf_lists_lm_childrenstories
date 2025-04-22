@@ -1,0 +1,37 @@
+<prompt>
+Please write a simple and easy-to-follow Turkish children's story that is at least 1000 words long.
+It must be completely written in proper Turkish (TR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Bir Ailenin common\core Tradisyonları ve leurs'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>tr</lang_id>
+
+<title>Bir Ailenin Common\Core Tradisyonları ve Leurs</title>
+<body>
+Çınar ağaçlarının gölgesinde, taş evlerin sıralandığı, sıcak ve mis kokulu bir köy vardı.  Bu köyde, yüzyıllardır nesilden nesile aktarılan,  özellikle de evlilik ve aile yaşamına dair birçok güzel gelenek vardı.  Bunlar, aile üyeleri arasındaki bağı kuvvetlendiren, ortak bir kültürel miras oluşturan özel ritüellerdi.
+
+En önemli geleneklerden biri, "Elma ve Gül" ritüeliydi.  Yeni evli çiftler, köy meydanındaki büyük çınar ağacının altında, bir sepet dolusu elma ve bir buket gül ile buluşurlardı.  Elmalar, aşkın ve mutluluğun sembolüydü; pırıl pırıl parlak yüzeyleri, yeni hayatın umutlarını yansıtıyordu.  Gül kokuları ise,  aşkın tazeliğini ve güzelliğini sergiliyordu.  Bu ritüel sırasında, yaşlılar çiftlere, sevgiyle ve anlayışla dolu bir evlilik hayatı için dileklerde bulunuyor,  onlara yeni hayatlarına dair nasihatlerde bulunuyorlardı.
+
+Bir gün, köyün en genç çiftlerinden biri olan Leyla ve Ali, "Elma ve Gül" ritüeline hazırlanıyordu.  Leyla, elmaların parlak kırmızı rengine hayranlıkla bakıyordu.  Her bir elmanın, bir mutluluk öyküsünü anlatıyormuş gibi görünüyordu.  Ali ise, pembe güllerin arasında saklı olan incecik altın telin,  geleceğe dair umutlarını temsil ettiğini düşünüyordu.
+
+Bu yıl,  geleneğin  bir yeniliği daha vardı.  Her çift, "Hayallerin Çiçeği" adlı bir kutuyu  "Elma ve Gül" ritüeline getirmeliydi. Bu kutular, yeni evli çiftlerin evliliklerinde neleri başarmayı hedeflediklerini gösteren küçük notlar,  hayallerini içeren çizimler ve umut dolu düşüncelerle doluydu.
+
+Leyla, Ali ile birlikte,  hayallerinden birkaçını  "Hayallerin Çiçeği" kutusuna yazdı. Leyla,  her zaman  bir kitap yazmayı hayal etmişti ve kutusuna, bu hayali çizmişti.  Ali ise,  daha çok zaman geçirmek için köyün ormanına  bir ağaç ev yapmak istiyordu.  Her iki hayal de,  kutuya yerleşmişti.
+
+Çınar ağacının altında, köyün yaşlıları,  Leyla ve Ali'yi  yüreğiyle kutluyor,  "Hayallerin Çiçeği" kutularına bakarak,  onların yeni hayatlarına  iyi dileklerde bulundular.  Her bir dilek,  gözlerindeki ışığı daha da parlatıyordu.
+
+Bir diğer önemli gelenek, "Dört Mevsim Sofrası" ritüeliydi.  Her mevsim,  köy halkı,  o mevsime özgü ürünlerle  birlikte,  geniş bir sofra kurarlardı.  Baharın taze yeşillikleri, yazın meyveleri,  sonbaharın bereketli ürünlerini, kışın sıcak yemeklerini  paylaşarak,  birlikte olmak,   doğanın bereketini ve birlik duygusunu  sergilerlerdi.
+
+Bu sofralarda,  herkes,  çocukları ve yaşlıları,  kahkaha ve sohbetler arasında,  birbirleriyle kaynaşıyor,  hayatları hakkında konuşuyor,   hayatın her aşamasında  birlik duygusunu hissediyorlardı.
+
+Bir başka gelenek de, "Bilgelik Bahçesi" ritüeliydi.  Köyün bilge adamları, her yıl  bir gün toplantı yaparak,  köyün yaşamındaki tüm olayları tartışırlardı. Herkes,  görüşlerini açıkça ortaya koyar,  önemli kararların alınmasına katılırdı.  Bu konuşmalar,  köylülerin,  gelecekteki sorunları çözmek için  birlikte nasıl  çalışacaklarını ortaya koyuyordu.
+
+Bu tradisyonlar,  Leyla ve Ali için çok önemliydi.  Bu tradicyonları ve leurs,  onlara,  ailenin ve köyün değerlerini ve önemini öğretiyordu.  Her ritüel,  geçmişe saygıyı,  geleceğe güven duygusunu ve  aile bağlarını güçlendirmiş,  birbirlerini daha da sevmelerine olanak tanımıştı.
+
+Her sabah uyanıp, bu gelenekleri hatırlayarak, Leyla ve Ali,  hayatlarının her anında,  sevgi, anlayış ve uyum içinde olmaya karar verdiler.  Bu tradiyonları ve leurs sayesinde,  Leyla ve Ali'nin hayatları her geçen gün daha da güzel, daha da anlamlı oluyordu.  Ve köyün diğer yeni aileleri de, onların izinden giderek,  bu değerli gelenekleri yüzyıllar boyunca yaşatmaya devam edeceklerdi.
+</body>

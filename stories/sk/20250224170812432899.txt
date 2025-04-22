@@ -1,0 +1,37 @@
+<prompt>
+Please write a funny Slovak children's story that is at least 1000 words long.
+It must be completely written in proper Slovak (SK).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Veľké príhody v malej dedine'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sk</lang_id>
+
+<title>Veľké príhody v malej dedine</title>
+<body>
+Slnko sa usmievalo na malu dedinku s krásnym názvom Slnečná dolina.  Deti sa hrali na lúke, kde sa pásli ovce, ktorých vlna bola taká mäkká, ako zamat.  V strede dediny stála stará, rozpadajúca sa studňa, ktorej dno bolo skryté v hlbinách.  A práve tam, v tej studni, žil starý, múdry žabák menom Ferdinand.
+
+Ferdinand bol najmúdrejší žabák v celej Slnečnej doline.  Vedia to všetci, od včiel, ktoré s ním prehovárali o najlepších medovníkoch, až po ovce, ktoré mu rozprávali o najchutnejších trávičkách.  Ferdinand vedel všetko, o všetkom. Vedel, ktorý kvet vydá najvoňavejší med, aký vták speje najkrajšie a dokonca aj, aké tajomstvá sa skrývajú v kalužiach.
+
+Jedného pekného dňa sa v dedine objavil čudný cudzinec. Bol vysoký a tenký, s dlhými, fialovými vlasmi. Mal so sebou veľký, ťažký kufrík a s úsmevom na tvári sa pýtal na najmúdrejšieho žabáka v celej dedine. Deti sa zhromaždili a šepkali si o zvláštnych fialových vlasoch. Starý Janko, dedinský kováč, povedal, že to musí byť čarodejník.
+
+"Ale kde je ten žabák?" spýtal sa cudzinec.
+
+Deti ukázali na studňu.  Ferdinand, ukrytý v studni, sa len smial.  Myslel si, že sa len hrá na čarodejníka. Cudzinec sa k studni priblížil a spýtal sa Ferdinanda, či vie, kde sa skrýva najväčšie tajomstvo dediny. Ferdinand, ktorý si myslel, že tajomstvo je ukryté v kalužiach, odpovedal: "Najväčšie tajomstvo sa skrýva v najhlbšom kúte najhlbšej kaluže!"
+
+Cudzinec sa zamyslel.  "Ale kde nájdem najhlbšiu kalužu?" spýtal sa.
+
+Ferdinand, ktorý sa chcel iba pozrieť na čudného cudzinca, povedal: "Musíš prejsť cez les, obísť starý dub, preliezť cez plot pani Márie a vtedy nájdeš najhlbšiu kalužu."
+
+Cudzinec sa rozlúčil a s kufríkom v ruke sa vydal na cestu. Deti sa smiali a Ferdinand sa tešil, že sa môže vrátiť späť do studne.
+
+Cestou cez les sa cudzinec stratil.  Prechádzal okolo pomedzujúcich šípkov, nad ktorými sa plazili mravce, a preliezť cez plot pani Márie sa mu nepodarilo. Kufrík sa mu z ničoho nič sám odtrhol od ruky a spadol do kaluže.
+
+Deti sa zhromaždili na okraji lesa a pozorovali. Po chvíli sa z kaluže vynoril rozčúlený Ferdinand a kričal: "To nie je najhlbšia kaluža! Je plná zbytočných vecí!"
+
+Napriek tomu, že sa cudzinec stratil, sa deti v Slnečnej doline nadalej smiali.  A Ferdinand, najmúdrejší žabák, si vychutnával svoju studňu a najmä svoje tajomstvo – nikto nevie, či sa v nej skrýva to najväčšie tajomstvo, ale v každom prípade, je to skvelé tajomstvo!  A možno práve tam, v tom najhlbšom kúte najhlbšej kaluže, sa skrývalo najväčšie tajomstvo celej dediny – tajomstvo, že byť hlúpy je v Slnečnej doline obrovský dar!
+</body>

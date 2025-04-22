@@ -1,0 +1,109 @@
+<prompt>
+Please write a relatable Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Sekretna Misja Detektywów: Kto Ukradł Cenne Ciasteczko, Czyli Nowe Wyzwanie.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pl</lang_id>
+
+```xml
+<title>Sekretna Misja Detektywów: Kto Ukradł Cenne Ciasteczko, Czyli Nowe Wyzwanie.</title>
+<body>
+Była piękna, słoneczna sobota w Warszawie. W dzielnicy Mokotów, gdzie rosły wysokie bloki i szumiały stare drzewa, działała Agencja Detektywistyczna "Kociego Oka i Złotego Pazura". A właściwie, działała to duże słowo. Składała się z dwóch najlepszych przyjaciół, Jasia i Zosi, którzy mieli po dziewięć lat i ogromną pasję do rozwiązywania zagadek.
+
+Jasiek, drobny chłopiec z wiecznie uśmiechniętą buzią i roztrzepanymi, jasnymi włosami, był mózgiem operacji. To on wymyślał skomplikowane teorie i trzymał pieczę nad archiwum. Zosia, dziewczynka o długich, kruczych włosach, zawsze związaanych w dwa warkocze i przenikliwym spojrzeniu, była z kolei specjalistką od obserwacji i zbierania dowodów. Jej wzrok nie przepuszczał żadnego szczegółu.
+
+Ich głównym biurem był niewielki, zawalony książkami i plakatami pokój Jasia. Na biurku, pomiędzy stosem komiksów a modelem statku kosmicznego, leżał lupą, notatnik i długopis. Tu zbierali się na narady, przygotowywali plany i analizowali dowody.
+
+Pewnego sobotniego poranka, gdy słońce wesoło zaglądało przez okno, Jasiek z radością ogłosił: „Zosiu! Czas na śniadanie! Mama upiekła moje ulubione ciasteczka!”
+
+Zosia, która właśnie czytała książkę o tajnych agentach, podniosła głowę z zainteresowaniem. "Ciasteczka? Mniam! Ale co z tym detektywem?"
+
+"No tak! Ciasteczka są najważniejsze! Zwłaszcza te od mamy… z kawałkami czekolady! Musimy tylko… hmm… upewnić się, że są w dobrym stanie." - powiedział Jasiek, z tajemniczym błyskiem w oku.
+
+Wbiegli do kuchni. Na stole stała piękna patera z ciasteczkami. Pachniały obłędnie. Jasiek wyciągnął jedno, aby spróbować, ale w tym momencie Zosia krzyknęła: "Czekaj! Coś się nie zgadza!"
+
+Jasiek spojrzał na nią zdziwiony, z ciasteczkiem w ręku. "Co się nie zgadza?"
+
+Zosia wskazała palcem na paterę. "Brakuje ciasteczka!"
+
+Jasiek aż podskoczył. "Jak to? Brakuje ciasteczka? Niemożliwe!"
+
+Rozpoczęło się śledztwo. Jasiek, pożerany ciekawością i chęcią rozwiązania zagadki, natychmiast przybrał minę detektywa. Zosia, poważna i skupiona, od razu zaczęła przeszukiwać teren.
+
+"Rozważamy wszystkie opcje!" - oświadczył Jasiek, zerkając w kierunku psa Borysa, który spał spokojnie pod stołem. "Czy Borys był w kuchni? Czy mógł wziąć udział w akcji?"
+
+Borys, biały sznaucer średni, zareagował na wzmiankę o swoim imieniu pomrukiem, ale nie wstał. Jasiek odrzucił hipotezę o psie. Byłoby to zbyt oczywiste.
+
+Zosia z kolei skrupulatnie sprawdzała każdy zakamarek kuchni. Przyjrzała się podłodze, blatom, a nawet koszowi na śmieci. Nie znalazła żadnych okruchów, które mogłyby zdradzić obecność sprawcy.
+
+"Dowody są bardzo skąpe..." - mruknął Jasiek, wpatrzony w pustą paterę. "Ale nie poddamy się! Musimy przesłuchać świadków!"
+
+Pierwszym świadkiem była mama Jasia, która właśnie weszła do kuchni.
+
+"Co tu się dzieje?" - zapytała ze śmiechem, widząc zdezorientowane miny dzieci.
+
+"Mamo!" - wykrzyknął Jasiek. "Zaginęło jedno ciasteczko! Musimy dowiedzieć się, kto je ukradł!"
+
+Mama Jasia wyglądała na rozbawioną. "No dobrze, detektywi! Ja upiekłam ciasteczka, postawiłam je tu, a potem wyszłam na balkon podlewać kwiaty. Widziałam przez okno, że przyszedł listonosz, ale nikogo więcej."
+
+Zosia szybko zanotowała słowa mamy w swoim notesie. Listonosz... Czyżby on?
+
+Kolejnym "świadkiem" był młodszy brat Jasia, pięcioletni Staś. Spał w swoim pokoju, więc Jasiek i Zosia musieli go obudzić. Staś, po tym jak przetarł oczy, spojrzał na nich z ciekawością.
+
+"Co się stało?" - zapytał zaspany.
+
+"Staś! Czy widziałeś ciasteczko?" - zapytał Jasiek, starając się zachować powagę.
+
+Staś zmarszczył brwi i pokręcił głową. "Nie… A są jakieś ciasteczka?"
+
+Zosia przyjrzała mu się uważnie. Wyglądał na niewinnego, ale kto wie? Może jest mistrzem kamuflażu? Zosia nie wykluczyła niczego.
+
+"Sprawdzamy też dostęp do potencjalnych miejsc ucieczki!" - powiedział Jasiek. Zwrócili uwagę na okno kuchenne. Zosia zauważyła, że było otwarte na kilka centymetrów. "Ktoś mógł się dostać przez okno!"
+
+Wychodzą na ogród i oglądają teren wokół. Przeglądają krzewy róż, sprawdzają rabaty, podglądają ptaki. Nic.
+
+Wrócili do kuchni.
+
+"Przeanalizujmy jeszcze raz dowody!" - zaproponował Jasiek. "Mamy brakujące ciasteczko. Mamy mamę, która wychodziła na balkon. Mamy listonosza, o którym wspominała mama. Mamy Stasia, który spał. Mamy otwarte okno…"
+
+Zosia nagle krzyknęła: "Jasiek! Popatrz!"
+
+Zwróciła jego uwagę na stolik w rogu kuchni. Stał tam mały talerzyk. Na nim kilka okruchów ciasteczek i… jeden mały, zielony ludzik z plasteliny!
+
+Jasiek spojrzał na nią z otwartymi ustami. "Niesamowite! To trop! Ale kto go tu zostawił?"
+
+Pomyśleli oboje i doszli do wniosku: Staś. Staś bardzo lubił plastelinę i chętnie bawił się nią w kuchni.
+
+Zosia uśmiechnęła się. "Idziemy do Stasia!"
+
+W pokoju Stasia znaleźli resztę plasteliny i... garść okruchów. Na ustach chłopca widać było resztki czekolady.
+
+"Staśku, kochanie, czy ty… zjadłeś ciasteczko?" - zapytał Jasiek, z trudem powstrzymując śmiech.
+
+Staś, zawstydzony, skinął głową. "Mmm… Było takie pyszne… I nie wiedziałem, że nie wolno…"
+
+Jasiek i Zosia spojrzeli na siebie i zaczęli się śmiać. Rozwiązali zagadkę!
+
+"Staś, wiesz, detektywi muszą zawsze rozwiązywać zagadki… Ale nie szkodzi. Chcesz jeszcze ciasteczko?" – zapytała Zosia.
+
+Staś natychmiast się ucieszył.
+
+Misja detektywów zakończyła się sukcesem, choć w dość nietypowy sposób. Jasiek i Zosia uznali, że śledztwo zakończone! Wzięli po jeszcze jednym ciasteczku, i z uśmiechem wrócili do biura.
+
+"No cóż…" - powiedział Jasiek, wkładając lupę do szuflady. "Może czas pomyśleć o nowej misji?"
+
+Zosia skinęła głową. "Zdecydowanie. Kto wie, co jeszcze czeka na naszych detektywów!"
+Mogli być pewni, że kolejne wyzwania czekają tuż za rogiem. Bycie detektywem to nie tylko rozwiązywanie zagadek, ale także praca zespołowa, spostrzegawczość i dużo, dużo dobrej zabawy. A dla Jasia i Zosi, każde nowe śledztwo to kolejna okazja do odkrywania świata i spędzania czasu razem. Zaczęli szukać kolejnych zagadek. Nagle Jasiek krzyknął, widząc gazetę. "Zosiu! Słyszałaś o zaginionym kocie?"
+
+Zosia spojrzała w stronę Jasia. "Słyszałam. Kot pani Kowalskiej, prawda?"
+
+"Tak! To nasza nowa sprawa! Kot uciekł… Musimy go odnaleźć! Zaczynamy!" - powiedział Jasiek, już myśląc o nowych przygodach i kolejnych smakowitych ciasteczkach od mamy.
+I tak oto zaczęła się kolejna przygoda detektywów "Kociego Oka i Złotego Pazura" - gotowych na wszystko, by rozwiązywać tajemnice i tropić przestępców (a czasem po prostu znaleźć zgubione koty). Ich dni wypełnione były ekscytującymi śledztwami, a ich serca – radością i przyjaźnią. A wszystko to zaczęło się od zaginionego ciasteczka.
+</body>
+```

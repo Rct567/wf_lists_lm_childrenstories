@@ -1,0 +1,44 @@
+<prompt>
+Please write a educational Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Lumen Stellarum in Fonte Aeterno'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>la</lang_id>
+
+<title>Lumen Stellarum in Fonte Aeterno</title><body>  
+Olim, in terra antiqua et pulchra, ubi silvae virides et montes alti caelum tangere videbantur, erat fons mirabilis. Fons hic, nomine "Fons Aeternus", aquam claram et splendidam habebat, quae numquam deficiebat. Aqua huius fontis non solum sitim hominum sedebat, sed etiam lumen mysticum habebat, quod nocte lucere solebat sicut stellae in caelo.
+
+In vicino villae, parvus puer nomine Marcus habitabat. Marcus erat curiosus et audax, semper quaerens veritatem et sapientiam. Avus eius, vir sapiens et benignus, saepe fabulas de Fonte Aeterno narrabat. "Marcus," dicebat avus, "Fons Aeternus non solum aquam praebet, sed etiam secretum magnum celat. Qui hoc secretum invenerit, lumen veritatis accipiet."
+
+Marcus, cupidus discendi, statuit se hoc secretum inventurum esse. Una nocte, cum luna plena caelum illuminaret, Marcus silenter e villā exiit et ad fontem ambulavit. Ad fontem veniens, vidit aquam lucentem sicut stellam. Dum appropinquabat, vox dulcis et tranquilla ex aquā audita est. "Quis es, qui ad me venis?" vox interrogavit.
+
+Marcus, paulum territus sed constans, respondit, "Ego sum Marcus, puer villae. Venio ut secretum Fons Aeternus inveniam."
+
+Vox risit leniter et dixit, "Secretum meum non facile invenitur, sed si audax es et cor sincerum habes, fortasse tibi revelabo. Tres quaestiones tibi proponam. Si recte responderis, lumen stellarum accipies."
+
+Marcus annuit et paratus erat. Vox prima quaestionem posuit: "Quid est quod omnes habent, sed nemo videre potest?"
+
+Marcus diu cogitavit. Deinde, subito, respondit, "Spes est. Omnes spem habent, sed nemo eam videre potest."
+
+Vox approbavit, "Bene respondisti. Secunda quaestio est: Quid crescit, sed numquam moritur?"
+
+Marcus rursus cogitavit. Tum, recordatus fabulas avi sui, dixit, "Memoria crescit, sed numquam moritur."
+
+Vox iterum approbavit, "Recte respondisti. Ultima quaestio est: Quid est quod plus das, plus habes?"
+
+Marcus haesitavit. Hoc videbatur difficillimum. Sed subito, in corde suo, intellexit. "Amor est," dixit. "Plus amorem das, plus habes."
+
+Vox silentio diu manebat. Tum, subito, aqua fontis clarior facta est, et lumen splendidum e fontē exsiluit. Lumen circum Marcum volavit et in cor eius intravit. Vox denuo locuta est, "Marcus, tu veritatem invenisti. Lumen stellarum, quod est sapientia et amor, semper tecum erit. Hoc lumen aliis dona, et mundus pulchrior fiet."
+
+Marcus, gaudio plenus, ad villam revenit. Ex illo die, Marcus sapientiam et amorem cum omnibus dividebat. Villani eum amabant, quia cor eius purum et plenum luminis erat. Fons Aeternus semper lucet, et Marcus, cum lumen stellarum portaret, vitam felicem et plenam duxit.
+
+Et sic, fabula de Marco et Fonte Aeterno memoria hominum manet, docens nos quod veritas, sapientia, et amor semper vincunt.  
+
+Finis.  
+</body>

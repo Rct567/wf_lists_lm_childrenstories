@@ -1,0 +1,75 @@
+<prompt>
+Please write a silly Spanish children's story that is at least 1000 words long.
+It must be completely written in proper Spanish (ES).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La campana que anunciaba tiempos felices'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>es</lang_id>
+
+```xml
+<title>La campana que anunciaba tiempos felices</title>
+<body>
+En el pueblo más alegre de España, Villafelices, vivía una campana muy especial. No era una campana cualquiera, ¡era la campana que anunciaba tiempos felices! Se llamaba Campanilla, y era redonda, brillante y muy parlanchina. En vez de sonar *ding dong*, Campanilla cantaba una canción diferente cada día, llena de rimas y chistes, siempre lista para arrancar una sonrisa a quien la escuchara.
+
+Un día, el Sol, que se llevaba muy bien con Campanilla, le preguntó: "¿Campanilla, por qué eres tan feliz? ¿Cuál es tu secreto?".
+
+Campanilla, al instante, comenzó a tintinear con entusiasmo. "¡Ay, Sol! ¡Es muy sencillo! Miro el mundo, escucho a la gente, y siempre encuentro algo que me hace reír. Por ejemplo, hoy, vi a Don Pepito, el panadero, intentando atrapar una paloma con una baguette gigante. ¡Fue un espectáculo! Y ayer… ¡ah, ayer! La Señora Margarita se puso sus pantuflas al revés y no se dio cuenta en toda la mañana".
+
+El Sol sonrió y brilló con más intensidad. "¡Eres maravillosa, Campanilla! Pero… ¿qué ocurre cuando la gente está triste? ¿Cómo anuncias tiempos felices entonces?".
+
+Campanilla se detuvo a pensar por un momento. Su sonido habitual, alegre y ligero, se transformó en un *tin-tin-tin* más suave y lento. "Cuando la gente está triste… les doy tiempo. Les ofrezco canciones que reconfortan. Les cuento historias que terminan bien, incluso si el camino es un poco complicado. Les recuerdo que siempre, siempre, después de la lluvia, sale el sol".
+
+Un día, Villafelices fue invadido por una nube gigante, ¡pero una nube de tristeza! El cielo se oscureció, y la gente comenzó a sentirse decaída. Don Pepito olvidó hornear pan, y la Señora Margarita se olvidó de regar sus geranios. Los niños dejaron de jugar y hasta los perros dejaron de ladrar. ¡La tristeza se había apoderado de Villafelices!
+
+Campanilla, al escuchar el silencio, supo que era hora de actuar. Empezó a sonar, pero esta vez, su canción no era la misma. Su voz, habitualmente alegre, se volvió cálida y melodiosa. Cantó:
+
+“En Villafelices, la tristeza llega,
+como un velo gris que nos ciega.
+Pero no teman, corazones afligidos,
+porque el sol de la esperanza no está perdido.
+
+Si la lluvia cae y empapa la tierra,
+si el corazón se llena de una honda guerra,
+recordemos siempre, con fervor y calma,
+que después del invierno, siempre llega la rama.
+
+Si el pan no sube y la flor no florece,
+si el día sombrío al alma la estremece,
+una risa suave, un abrazo sincero,
+¡alegrarán de nuevo el corazón austero!”
+
+La canción de Campanilla flotó por todo el pueblo, como una brisa suave. La gente, al escucharla, levantó la mirada. Las arrugas de preocupación se suavizaron, y las lágrimas, aunque presentes, se volvieron menos pesadas. Don Pepito, escuchando la melodía, sintió un cosquilleo en las manos y se acordó del pan. ¡Aún tenía harina! La Señora Margarita, al escuchar el verso sobre la flor, corrió a regar sus geranios, recordando su belleza. Los niños, con la música en sus oídos, volvieron a sonreír. ¡Una sonrisa, al fin!
+
+Y los perros... ¡los perros ladraron! ¡Un ladrido, un pequeño ladrido!
+
+Campanilla continuó cantando durante todo el día. Su canción cambió varias veces, adaptándose a cada corazón. Contó chistes tontos, narró cuentos de valientes caballeros y princesas graciosas, e incluso improvisó una canción sobre un gato que comía espaguetis. ¡Nada ni nadie escapaba a su magia!
+
+La nube de tristeza, poco a poco, comenzó a desvanecerse. El cielo, antes plomizo, empezó a mostrar pequeños rayos de sol. Los colores reaparecieron en las casas y en las calles. Los niños volvieron a jugar a la rayuela, y las risas llenaron de nuevo las plazas.
+
+Cuando finalmente la nube desapareció por completo, Campanilla cantó su canción más alegre. ¡Una explosión de felicidad!
+
+“¡El sol brilla, el sol brilla,
+y la alegría nos atavía!
+La tristeza se marchó,
+y la risa nos conquistó!”
+
+La gente de Villafelices salió de sus casas, cantando y bailando. Don Pepito regaló pan recién horneado, aún caliente. La Señora Margarita repartió flores, y los niños compartieron sus juguetes. La plaza del pueblo se convirtió en una fiesta de color, música y alegría.
+
+Pero el secreto más grande de Campanilla era otro: no solo cantaba para anunciar la felicidad. Cantaba para *crearla*. Sabía que la felicidad no siempre era fácil de encontrar, pero que, con una sonrisa, una canción, y un poco de ayuda, siempre estaba a la vuelta de la esquina.
+
+El Sol, al ver la escena, brilló con fuerza y le dijo a Campanilla: "¡Eres la mejor campana del mundo!".
+
+Campanilla, llena de alegría, respondió: "¡Gracias, Sol! Pero el secreto está en todos y cada uno de los corazones de Villafelices. Yo solo les recuerdo lo que ya saben: que la felicidad siempre está ahí, esperando ser descubierta. Y que, a veces, basta con escuchar una buena canción".
+
+A partir de ese día, Campanilla continuó anunciando tiempos felices en Villafelices, adaptando sus canciones a cada momento y a cada corazón. Algunas veces cantaba sobre las aventuras de un perro que hablaba, otras veces sobre el amor incondicional de un abuelo, y otras… ¡a veces solo hacía ruidos graciosos! Pero siempre, siempre, su misión fue la misma: recordar a todos que la alegría, como el sol, siempre está presente, esperando para iluminar cada día.
+
+Y así, en el pueblo más alegre de España, Villafelices, Campanilla siguió cantando y anunciando tiempos felices, recordándole a todos que, en la vida, siempre hay motivos para sonreír y celebrar. Y que, a veces, la mejor manera de combatir la tristeza es… ¡con una buena canción! Y, por supuesto, ¡con un baguette gigante para atrapar palomas! (¡siempre y cuando el panadero, Don Pepito, no olvide hornearlo!)
+
+¡Fin!
+</body>
+```

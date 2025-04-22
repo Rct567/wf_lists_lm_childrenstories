@@ -1,0 +1,41 @@
+<prompt>
+Please write a silly Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Atidarymo raktas ir jo slaptojo pasaulio'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lt</lang_id>
+
+<title>Atidarymo raktas ir jo slaptojo pasaulio</title>
+<body>
+Jonas, mažas berniukas su plaukais kaip rudens lapai, gyveno sename name su daugybe paslapčių.  Jo kieme, po senu, supuvusiu obuolių medžiu, slėpėsi mažytė, išlydyta bronzos durų rankena.  Ji nebuvo paprasta rankena – tai buvo Atidarymo raktas,  leidžiantis patekti į slaptojo pasaulio duris.
+
+Jonas, žinodamas apie legendinį raktą, kiekvieną dieną bandė jį rasti.  Jis ieškojo po akmenimis, po šaknimis, netgi pabandė iškasti duobę, bet bevaisiai.  Rankena visada pasislėpdavo, tarsi žaidždama paslėptą žaidimą.
+
+Vieną saulėtą popietę, kai Jonas žaidė su savo mažais žaisliniais arkliukais, jis pastebėjo, kad rankena švyti.  Švytėjimas buvo neįprastas, raudonas ir žaliuojantis, tarsi žiburėliai paslėpti po žydinčio medžio lapais.  Jonas, nustebęs, priėjo prie supuvusio obuolių medžio.  Rankena švytėjo vis ryškiau, ir staiga, iš po medžio šaknų išlindo maža, žalia varlė.
+
+"Sveiki, Jonas," sucypė varlė, jos balsas skambėjo kaip varpelių daina. "Aš esu  Žaliukas, slaptojo pasaulio sargas.  Atidarymo raktas yra tavo."
+
+Jonas, vis dar nustebęs, paėmė raudoną ir žalią rankeną.  Ji buvo šilta ir lygi.  "Kaip aš jį turiu rasti?" paklausė Jonas.
+
+"Viskas paprasta," atsakė Žaliukas. "Turite rasti tris daiktus:  auksinio drugio sparną,  sidabrinio upės šliužo kiautą ir  žalsvosios pelėdos plunksną.  Kai surinksi visus tris, galėsi atidaryti duris į slaptojo pasaulio paslaptis."
+
+Jonas, kupinas smalsumo, patraukė ieškoti.  Jis aplankė šiltą pievą, kur žydėjo gėlės, ir ieškojo auksinio drugio.  Jis sutiko švelnius, juodus drugius, bet auksinio drugio nebuvo.  Atrodė, kad jis pasislėpė tarp auksinių saulėgrąžų.  Jonas ieškojo ir ieškojo, kol pagaliau rado mažą, auksinį drugį, sėdinčią ant gėlės.  Jis atsargiai paėmė drugio sparną ir įdėjo į savo kišenę.
+
+Tada Jonas nuėjo prie upės.  Ten, tarp šlapio akmenų, jis ieškojo sidabrinio upės šliužo.  Jis pamatė daug šliužų, bet sidabrinio nebuvo.  Jis ieškojo ir ieškojo, kol pagaliau rado gražų, sidabrinį šliužą, šliaužiantį ant drėgno akmens.  Jonas atsargiai paėmė šliužo kiautą ir įdėjo į savo kišenę.
+
+Paskutinė užduotis buvo rasti žalsvosios pelėdos plunksną.  Jonas žinojo, kad pelėdos gyvena miško gilumoje.  Jis įžengė į mišką, kur medžiai buvo aukšti ir tamsūs.  Jis ieškojo ir ieškojo, kol pagaliau rado žalsvą pelėdą, sėdinčią ant medžio šakos.  Atsargiai Jonas paėmė žalsvosios pelėdos plunksną ir įdėjo į savo kišenę.
+
+Turimas tris daiktus, Jonas grįžo pas Žaliuką.  "Aš turiu viską, ką tu pasakei," pasakė Jonas.
+
+Žaliukas nusišypsojo.  "Puiku, Jonas.  Dabar tu gali atidaryti duris į slaptojo pasaulio paslaptis."
+
+Jonas nuėjo prie supuvusio obuolių medžio, kur buvo paslėpta bronzos rankena.  Jis įkišo rankeną į skylę ir paspaudė.  Duris atidarė.  Jonas pamatė neįtikėtiną vaizdą.  Pasaulio spalvos buvo ryškesnės, o garsai - skambesni.  Ten buvo žalia pieva, žydinčios gėlės ir šokantys drugeliai.  Jonas sutiko mielas būtybes, kurios kalbėjo neįtikėtinomis kalbomis.
+
+Jonas praleido visą dieną slaptojo pasaulio nuotykiuose.  Jis sutiko draugus, aplankė paslaptingas vietas ir sužinojo daug naujų dalykų.  Dienos pabaigoje, prisimindamas visus nuotykius, Jonas padėkojo Žaliukui ir grįžo namo.  Jis žinojo, kad slaptojo pasaulio durys visada bus atviros jam, jei tik jis ras Atidarymo raktą.  Ir jis žinojo, kad ieškodamas jis ras dar daugiau nuotykių.
+</body>

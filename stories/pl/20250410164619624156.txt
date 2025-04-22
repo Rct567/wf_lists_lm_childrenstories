@@ -1,0 +1,105 @@
+<prompt>
+Please write a dialog-based Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Jak Zając nauczył się współpracy i pokonał złego wilka.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pl</lang_id>
+
+```xml
+<title>Jak Zając nauczył się współpracy i pokonał złego wilka.</title>
+<body>
+– Ach, znowu! – westchnął mały Zając, trzepiąc swoimi długimi uszami. – Znowu wilk ukradł marchewki z mojej grządki! Przecież zasialiśmy ich tak dużo!
+
+Spojrzał na swój mały, pusty ogródek. Stały tam tylko resztki zielonych listków, a tam gdzie powinny być soczyste pomarańczowe korzenie, była tylko ziemia.
+
+– Oj, źle to widzę – mruknął do siebie Zając, skubiąc zmartwiony końcówkę ucha. – Samemu z wilkiem nie wygram… Jest silniejszy, szybszy… i do tego taki sprytny!
+
+Zajączek, z natury samotnik, ruszył wolno przez las. Nigdy nie przepadał za towarzystwem, wolał spędzać czas sam, w swoim ogródku, ale teraz sytuacja była krytyczna. Musiał coś wymyślić.
+
+Spotkał na ścieżce Szpaka.
+
+– Cześć, Szpaku! – zawołał Zając. – Widziałeś może wilka?
+
+– Widziałem, widziałem! – odpowiedział Szpak, trzepocząc skrzydłami. – Nosił w pysku dwie, może trzy marchewki! Wyglądał na bardzo zadowolonego. Ale dlaczego pytasz? Też Ci je ukradł?
+
+– Niestety… Tak. Całą grządkę mi zdemolował! – poskarżył się Zając.
+
+– Ech, ten wilk… Jest okropny! Zawsze coś kombinuje. Może powinieneś poprosić o pomoc? – zasugerował Szpak, siadając na gałęzi.
+
+– Prosić o pomoc? – Zając zamyślił się. To było dla niego trudne. – No tak… Ale kogo? I czy w ogóle ktoś chciałby mi pomóc? Przecież wszyscy wiedzą, że jestem samotnikiem…
+
+– Może Królik? On ma bardzo silne nogi, potrafi szybko biegać. A może Jeż? Ma ostre kolce, mógłby się przydać w obronie. – radził Szpak. – Trzeba próbować! Razem zawsze łatwiej.
+
+Zając skinął głową. Miał rację. Spróbuje. Ruszył więc w stronę nory Królika.
+
+– Króliku! – zawołał, gdy dotarł do jego domostwa. – Możesz wyjść na chwilę? Potrzebuję Twojej pomocy!
+
+Z nory wyskoczył duży, puchaty Królik, patrząc na Zająca ze zdziwieniem.
+
+– Zając? Co się stało? Wyglądasz na zmartwionego.
+
+– Wilk… – zaczął Zając, dysząc. – Wilk ukradł wszystkie moje marchewki! Nie wiem, co robić! Sam nie dam rady.
+
+– Och, ten wilk… – westchnął Królik. – To już kolejna taka sytuacja. Oczywiście, pomogę Ci! Razem na pewno coś wymyślimy! Co proponujesz?
+
+– Myślałem, żeby… – Zając zamilkł, niepewny siebie. – Może… mógłbyś czekać w krzakach i wystraszyć wilka, jakby znowu przyszedł?
+
+Królik zamyślił się. – To dobry pomysł! Ale trzeba uważać, żeby wilk nas nie zaskoczył. Może Jeż też mógłby się przydać? Jego kolce… to byłaby dobra obrona.
+
+Zając rozpromienił się. – Świetny pomysł! Idziemy po Jeża!
+
+Razem poszli do nory Jeża. Jeż, nieco zaspany, wyturlał się ze swojego schronienia.
+
+– Co się dzieje? Co tak hałasujecie? – zapytał.
+
+– Wilk znowu ukradł marchewki Zająca! – odpowiedział Królik. – Potrzebujemy Twojej pomocy!
+
+Jeż zjeżył się, pokazując swoje kolce. – Wilk? Ten oszust! Zawsze psuje nam spokój. Oczywiście, pomogę! Tylko co mamy zrobić?
+
+Zając i Królik opowiedzieli mu o planie. Jeż, po krótkim namyśle, zgodził się.
+
+– Dobrze, zgadzam się! Ale potrzebujemy planu. Musimy wszystko dokładnie zaplanować, żeby wilk nas nie przechytrzył. Zając, musisz przygotować w pobliżu ogródka kryjówkę, żebyśmy mogli się ukryć. Królik, Ty jesteś najszybszy. Będziesz obserwował wilka i dawał nam znać, kiedy się zbliża. Ja… ja ustawię się blisko grządki. Jak tylko wilk spróbuje sięgnąć po marchewkę, atakuję!
+
+Wszyscy przystąpili do działania. Zając zbudował kryjówkę z gałęzi i liści. Królik biegł wokół ogródka, obserwując okolicę. Jeż ustawił się przy grządce, w gotowości. Zegar na słońcu tykał leniwie.
+
+Czekali długo. Zmrok zaczął zapadać, a wilka nadal nie było widać. Zając powoli tracił nadzieję.
+
+– Może wilk się nie pojawi? – zapytał zrezygnowany.
+
+– Cierpliwości, Zającu! – odpowiedział Królik. – Wilk zawsze wraca. Trzeba być gotowym.
+
+Nagle, zza drzew, wyłonił się znajomy cień. To był wilk! Podchodził powoli, z przebiegłym wyrazem twarzy, oceniając wzrokiem ogródek.
+
+– Jest! – szepnął Królik. – Uważajcie!
+
+Wilk podszedł do grządki, oblizując wargi. Wyciągnął łapę po marchewkę. Wtedy… wyskoczył Jeż!
+
+– Auuu! – zawył wilk, trafiony kolcami. Cofnął się gwałtownie, otrząsając się.
+
+Królik błyskawicznie wybiegł z ukrycia i zaczął biegać wokół wilka, myląc mu tropy. Zając, zachęcony sukcesem, też dołączył do akcji. Rzucił w wilka garść ziemi, zasłaniając mu oczy. Wilk, oszołomiony i przestraszony, zaczął się miotać w panice.
+
+Jeż, korzystając z zamieszania, zaatakował jeszcze raz. Wilk, nie wiedząc, gdzie się chować, rzucił się do ucieczki, pozostawiając w spokoju ogródek Zająca.
+
+Cała trójka wybuchła śmiechem z radości. Udało się! Pokonali wilka!
+
+– Udało się! – krzyknął Królik. – Wspaniale!
+
+– Nie do wiary! – zaśmiał się Jeż, prostując kolce.
+
+Zając patrzył na nich z szerokim uśmiechem.
+
+– Dzięki wam… – powiedział, wzruszony. – Bez was… nigdy by mi się to nie udało. Widzę, że współpraca naprawdę działa!
+
+Następnego dnia, Zając, Królik i Jeż razem posadzili nową grządkę marchewek. Pracowali razem, rozmawiając i śmiejąc się. Zając nauczył się, że dzielenie się problemami i pomoc ze strony przyjaciół jest cenniejsza niż całe bogactwo marchewek świata. Zrozumiał, że bycie samotnikiem nie zawsze jest najlepszym rozwiązaniem.
+
+Od tamtej pory, gdy tylko wilk próbował zbliżyć się do ogrodu, Królik ostrzegał wszystkich, a Jeż był gotowy do obrony. Razem, w zespole, czuli się silni i bezpieczni.
+
+I żyli długo i szczęśliwie, ciesząc się marchewkami, które razem uprawiali i chronili.
+</body>
+```

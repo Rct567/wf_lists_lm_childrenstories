@@ -1,0 +1,41 @@
+<prompt>
+Please write a silly Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Equus Alatus et Regnum Obscurum'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>la</lang_id>
+
+<title>Equus Alatus et Regnum Obscurum</title>
+<body>
+In regione remota, ubi montes altissimi ad caelum ferebantur et flumina per saxa murmurabant, erat regnum obscurum nomine Atheria.  Hic regnavit Rex Globus, vir magni pondus et minus ingenii.  Rex Globus, perditus in monstris et mirabilibus,  omnes artes regni neglexit, praeter solum computandi nummos.  Monasterium numerorum, monumentum artis arithmeticæ, olim celebratum in regno, nunc in ruinam versa erat,  et musæ mathematicae, frustra pro numero desiderabat.
+
+Sed in agro distanti, in vallibus floribus et fontium murmur, erat villa rustica.  Hic vivebat pulcher equus alatus nomine Zephyr.  Equus Zephyr non erat equus vulgaris; alas candidas habens, poterant per nubes volare et per aëra currit.  Et Zephyr erat bonus calculator, bonus grammaticus, bonus etiam poeta!  Sed equus Zephyr plus desiderabat quam cibum et aquam.  Desiderabat gratiam, honorem, et recognitionem pro ingenio suo!
+
+Dies quidam, ventus fortis Zephyr in Atheria portavit.  Audivit fabulam de rege qui nummos amabat plus quam scientiam.  Suspicatus est quam desperatam situatiam regnum obtulerat.  "Estne aliquis in hac regione," interrogaverat nubes, "qui studet artibus liberalis?"  Ex auditu venientis viridibus volibus, Zephyr a via et navigabat per nubes ad aërem obvius.
+
+Et perveni ad castellum magnificum; videtur in monte. Rex Globus sedit in aula aurea, circumdatum a corpulenti munere. "Bene mihi! Bene mihi!"  rex dixit, numerans suos nummos.  Zephyr, ab nubes descendens, dixit cum voce clara,  "Rex Globus, audi me!"
+
+"Qui es tu?" rex interrogavit, suspensus in stupore.
+
+"Ego sum Zephyr," respondit equus alatus. "Equus alatus et probo, et bonus calculi."
+
+"Equus alatus?"  rex interrogavit, "Et quomodo auxilium mihi dare potes?"
+
+Zephyr explanavit,  "In Regno obscurum, videntur, intellectus rerum est oblitteratum; intellegentia necessaria est in his rebus!"  Demonstravit Zephir calculis intricatis  et dictis subtilibus, quomodo potuit computis scientiae praestare plusquam per aeternam munere, non modo in nummularibus.
+
+Rex Globus, admirans de arte Zephiris, interrogavit si equus adhaerens in scientiis liberalis.  Zephyr respondit, "Etsi non scire potuit litteras et litteras, equus potest adjuvare regni ex litteris praestare. "Dixit rex Globus, "Omitto scientias in artibus; erunt magnae beneficia pro illo regno."
+
+Zephyr tum statim ad operandum cœpit, adhortatus a multitudine monstrorum quae regium inhabitabat. Docuit numeros, litteras et artium formas multis rebus mirabilibus.  Reges, reginae, et etiam monstra docuerunt, non solum regnum aetate, sed et ex admiratione peritias, sciencia.
+
+Mox, in monasterium numerorum rediit ad gloriam.  Multae musae in regione inventae erant, et operantur ad opus in artibus liberales, redibunt. Et Rex Globus, amplius tantum nummis captivus non erat; erat praesertim vir doctus in aeternitate.
+
+Ubique rex in regno delectatus erat in arte Zephiri. Regimen magnum et plenum adulescentis sapientiae pervenerat. Dies nocte clarissimus et optimi sunt. Equus Alatus, cum admiratione, recognovit vitam et deinde deposuit rem desiderabat; per gratiam et per honorem. Regnum Obscurum ex tenebris ad lucem veniunt.  Incepit aurea aetas.
+
+
+</body>

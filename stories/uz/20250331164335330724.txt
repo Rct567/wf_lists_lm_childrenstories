@@ -1,0 +1,89 @@
+<prompt>
+Please write a dialog-based Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Boburning juda qiziqarlimi matematika darsligidagi masalalar.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>uz</lang_id>
+
+<title>Boburning juda qiziqarlimi matematika darsligidagi masalalar.</title>
+<body>
+— Salom, do'stlar! Men Boburman! Sizlarga matematika olamiga sayohat qilishni taklif qilaman. Bugun biz juda qiziq va qiziqarli masalalarni yechamiz! Kim matematika o'yinlarini yoqtiradi?
+
+— Men! — dedi Nodir qo'lini ko'tarib. Nodir har doim juda aqlli va ziyrak bo'lardi.
+
+— Men ham! — deb baqirdi Dilnoza. U matematika darslarida juda faol qatnashar edi.
+
+— Ajoyib! — deb kuldi Bobur. — Unda boshlaymiz! Birinchi masala: "Sahnada uchta kaptar turardi. Ularning yoniga yana ikkita kaptar qo'shildi. Sahnada jami nechta kaptar bo'ldi?"
+
+Nodir darhol javob berdi: — Beshta kaptar! Uchta bilan ikkitani qo'shsak, beshta bo'ladi!
+
+— Juda to'g'ri, Nodir! — Bobur tabassum qildi. — Sizlar juda aqllisizlar! Ikkinchi masala: "Akbarning ertalab ertalab o'nta olma bor edi. Tushlikda u uchtasini yedi. Qolganini Dilnoza bilan bo'lishdi va har biri bittadan yedilar. Akbarda necha dona olma qoldi?"
+
+Dilnoza o'ylanib qoldi. — Men... bilmayman.
+
+Bobur yordam berdi: — O'ylab ko'ring, dastlab o'nta olma bor edi, keyin uchta yedin... Keyin esa...
+
+Nodir gapga aralashdi: — Akbarning o'nta olmasi bor edi, uchta yedi, demak yettita qoldi. Dilnoza bilan bo'lishdi, demak yettidan ikkitasi yedi. Qolganida beshta olma qoldi!
+
+— To'g'ri, Nodir! Juda zo'r! — dedi Bobur. — Dilnoza, endi siz ham tushundingiz-a?
+
+— Ha, tushundim! — dedi Dilnoza jilmayib. — Men endi qanday qilinishini bilaman.
+
+— Unda uchinchi masala: "O'g'il bolaning beshta o'yinchoq mashinasi bor edi. U uchtasini do'stiga berdi. Qolganini yana ikkitasi sinib qoldi. Uning necha o'yinchoq mashinasi qoldi?"
+
+Dilnoza javob berishga harakat qildi. — Beshta bor edi, uchta berdi... Qolganidan ikkitasi sinib qoldi... Birta!
+
+Bobur: — Ajoyib, Dilnoza! Juda to'g'ri javob! Qaranglar, matematika aslida juda ham qiziqarli! Keling endi biroz murakkabroq masalalarni yechamiz.
+
+— Xo'p! — dedi Nodir. — Men murakkab masalalarni ham yechishni yaxshi ko'raman!
+
+— Unda, to'rtinchi masala: "Do'konda olma, nok va uzum bor. O'lchovi bir kilogrammdan bo'lgan mevalar narxi quyidagicha: olma - 500 so'm, nok - 700 so'm, uzum - 900 so'm. Agar siz har bir mevadan bir kilodan olsangiz, jami necha pul to'laysiz?"
+
+Nodir hisoblab ko'rdi. — 500 qo'shilgan 700, qo'shilgan 900... jami 2100 so'm!
+
+Bobur: — Juda zo'r, Nodir! To'g'ri! Sizlar juda yaxshi hisoblay olasizlar! Beshinchi masala: "Agar uchta baliq birinchi kuni oltita tuxum qo'ysa, beshinchi kuniga necha tuxum qo'yadi?"
+
+Dilnoza birdan kuldi. — Lekin baliqlar tuxum qo'ymaydi-ku!
+
+Bobur: — To'g'ri! Bu shunchaki hazil masala edi. Sizlar o'z matematika bilimingizdan foydalanishingiz bilan birga, aqlingizni ham ishlatishingiz kerak! Ajoyib! Keyingi masala: "Mening beshta do'stim bor, ularning har biri bittadan olma olib keldi. Har bir olma qizil rangda, beshta ham emas. Har birining og'irligi ham xar xil. Umumiy olmalar sonini ayting?"
+
+Nodir javob berdi: "Jami beshta olma, har bir do'st bir olmaga ega".
+
+— Ajoyib! — dedi Bobur. — Endi oltinchi masala: "Samolyot Toshkentdan uchib, uch soatda Samarqandga yetib bordi. Keyin ikki soatdan so'ng, u yana uchib Buxoroga yetib bordi. U qanday rangdagi osmonda uchgan?"
+
+Dilnoza yana kuldi. — Hech qanday rangdagi osmonda uchdi, menimcha!
+
+Bobur: — To'g'ri! Aql bilan ish qilish kerak. Judayam yaxshi! Keling endi geometrik masalalar haqida gaplashamiz. "Sizning qo'lingizda 10 santimetrlik ip bor. Agar siz bu ipdan kvadrat yasasangiz, uning perimetri necha santimetr bo'ladi?"
+
+Nodir o'ylanib qoldi. — Agar biz 10 santimetr uzunlikdagi ipdan kvadrat yasasak, perimetri ham 10 santimetr bo'ladi.
+
+— To'g'ri! Lekin kvadratning to'rtta tomoni bor, har biri teng. Shunday qilib, har bir tomonning uzunligi 2.5 sm bo'lishi kerak. Kvadratning perimetri tomonlarining yig'indisiga teng. 2.5+2.5+2.5+2.5=10 sm! Ajoyib! — dedi Bobur.
+
+Dilnoza yordam berishga harakat qildi. — Agar tomonlarni qo'shsak, 10 santimetr chiqadi-da?
+
+Bobur: — Ha, to'g'ri, Dilnoza! Siz juda tez o'rganyapsiz! Keyingi masala: "Uchburchakning uchta tomoni bor: 3 sm, 4 sm, 5 sm. Bu uchburchakning perimetrini toping."
+
+Nodir darhol javob berdi: — 3+4+5=12. Perimetr 12 santimetrga teng!
+
+— Juda zo'r! — dedi Bobur. — Sizlar matematika bo'yicha juda yaxshi ishlayapsizlar! Oxirgi masala: "Sizda 24 dona olma bor. Ularni uchta bolaga teng qilib bo'lish kerak. Har bir bolaga nechta olma tegadi?"
+
+Dilnoza o'ylanib qoldi, lekin tezda javob berdi: — 24 ni 3 ga bo'lsak, 8! Demak, har bir bolaga 8 ta olma tegadi!
+
+— Ajoyib, Dilnoza! — dedi Bobur xursandchilik bilan. — Sizlarga bugungi matematika darslari yoqdimi?
+
+— Juda! — dedi Nodir.
+
+— Ha, matematika qiziq ekan! — dedi Dilnoza.
+
+— Men juda xursandman! Matematika haqiqatan ham qiziqarli, shunday emasmi? Sizlarga yana qiziqarli masalalarni o'rgataman, keyingi darsgacha xayr!
+
+— Xayr! — deb javob berishdi do'stlar.
+
+— Sizlar bilan keyingi darslarda yana uchrashamiz! — dedi Bobur.
+</body>

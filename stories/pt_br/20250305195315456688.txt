@@ -1,0 +1,40 @@
+<prompt>
+Please write a fun and entertaining Portuguese (Brazil) children's story that is at least 1000 words long.
+It must be completely written in proper Portuguese (Brazil) (PT_BR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>pt_br</lang_id>
+
+<title>A Aventura de Zé e a Fada das Flores</title>
+<body>
+Zé, um menino de cabelos castanhos e olhos brilhantes como o sol da manhã, adorava explorar o jardim de sua avó.  Um jardim mágico, cheio de flores coloridas que pareciam sussurrar segredos ao vento.  Numa tarde ensolarada, enquanto Zé brincava entre os canteiros, avistou uma flor diferente, um botão de cor violeta-escuro, adornado com minúsculas pérolas prateadas.  Curioso, ele tentou pegá-la, mas a flor se mexeu, e um pequeno ser de asas translúcidas, com um vestido de pétalas de rosa, surgiu diante dele.
+
+Era a Fada das Flores, um ser tão delicado quanto uma pluma. Seus olhos, do tamanho de grãos de arroz, brilhavam com uma luz mágica.  "Olá, Zé," disse a fada, sua voz como o canto de um passarinho. "Você é muito gentil por se interessar por minhas flores."
+
+Zé, sem saber o que fazer, apenas sorriu.  "Eu... eu gosto muito das flores do vovó," ele gaguejou.
+
+"Eu sou a Fada das Flores, e cuido de todas as flores deste jardim," explicou a fada. "Mas há algo errado.  As flores estão ficando tristes, sem o brilho habitual."
+
+"Tristes?" Zé franziu a testa. "Mas elas são tão bonitas!"
+
+"Sim, mas elas sentem falta do néctar mágico que as alimenta e as faz brilhar.  E o néctar só pode ser encontrado no Vale Encantado, bem lá no alto da colina," explicou a fada, apontando para uma trilha sinuosa que subia a montanha.
+
+Zé, sempre aventureiro, não hesitou. "Vou ajudar a senhora Fada!" exclamou, cheio de entusiasmo.
+
+"Obrigada, Zé! Mas o Vale Encantado é perigoso.  Há o dragão barulhento, que adora assustar os visitantes, e o rio serpenteante, que pode ser traiçoeiro." A fada lhe entregou um pequeno frasco de vidro, contendo uma gota de néctar brilhante. "Este néctar irá te proteger.  Beba-o quando sentir medo."
+
+Zé pegou o frasco e, com a fada a guiá-lo, partiram em busca do Vale Encantado.  A trilha era íngreme e cheia de pedras escorregadias.  Zé sentiu seus pés doerem, e o sol forte começou a incomodá-lo.  Mas o pensamento da fada e das flores tristes o motivou.
+
+Enquanto subiam, Zé avistou o dragão barulhento.  Um dragão enorme, com escamas verdes e brilhantes, que soltava fumaça e ruídos assustadores.  Zé, com o coração batendo forte, tomou um gole do néctar.  Um sentimento de coragem e tranquilidade o invadiu.  Em vez de temer o dragão, Zé se aproximou dele com um sorriso. "Olá, dragão barulhento," disse ele, com voz calma. "Estou aqui para ajudar a Fada das Flores."  O dragão, surpreendido pela gentileza do menino, parou de rugir e apenas olhou para Zé com curiosidade.  "Tudo bem, menino," rosnou ele, em voz mais suave. "Passe."
+
+Atravessaram o rio serpenteante, que parecia uma cobra brilhante e sinuosa.  Zé, com a ajuda do néctar, conseguiu atravessar com firmeza e segurança.  Chegaram ao Vale Encantado, um lugar cheio de árvores frondosas e flores de cores vibrantes.  No centro, uma fonte de néctar mágico brilhava com uma luz dourada.
+
+Zé e a fada colheram o néctar com cuidado.  A fada agradeceu a Zé, dizendo que ele era um amigo especial e corajoso.  Voltando para o jardim, Zé colocou gotinhas de néctar nas flores.  Imediatamente, as flores começaram a brilhar com mais intensidade, suas cores se tornando mais vivas e vibrantes.  Um sorriso se espalhou pelo rosto da fada.
+
+Zé e a fada retornaram para o jardim, onde Zé viu suas avós sorrindo e aplaudindo.  As flores agora brilhavam com uma beleza ainda mais radiante, e Zé sentiu-se feliz por ter ajudado.  A partir daquele dia, Zé tornou-se conhecido por sua gentileza e coragem, e o jardim de sua avó tornou-se ainda mais especial.  Zé sabia que, com um pouco de coragem e amizade, até as tarefas mais difíceis podem ser superadas.  E sempre que olhava para as flores, lembrava-se da sua aventura no Vale Encantado e da fada gentil que o guiou.
+</body>

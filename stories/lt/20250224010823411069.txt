@@ -1,0 +1,41 @@
+<prompt>
+Please write a light-hearted Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Mažasis meistras ir jo stebuklingi darbai'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>lt</lang_id>
+
+<title>Mažasis meistras ir jo stebuklingi darbai</title>
+<body>Ką tik prasidėjo pavasaris, ir visi kaimo gyventojai buvo visai sutrikę. Žiemą buvo labai šalta, ir daugelis jų namų buvo apgriuvę. Tačiau kaimo gyventojai nebuvo nusigyvenę, jie visi susibūrė ir pradėjo statyti naujus namus.
+
+Tarp jų buvo ir mažas vaikinas, vardu Jonas. Jis buvo labai smalsus ir norėjo viską žinoti apie statybą. Jis stebuodavosi, kaip kaimo gyventojai gali statyti tokias gražias ir tvirtas sienas.
+
+Vieną dieną, Jonas pasakė savo tėvui, kad nori tapti meistru ir statyti namus. Jo tėvas, kuris buvo patyręs meistras, pasijuokavo ir pasakė: "Vaikine, meistro darbas yra labai sunkus, bet jei nori, aš galiu tave mokyti".
+
+Jonas buvo labai džiaugsmingas ir pradėjo mokytis meistro meno. Jis mokėjo labai greitai, ir netrukus tapo labai gera meistru. Jis statė namus, tvirtino sienas, ir darė viską, ko reikalavo kaimo gyventojai.
+
+Kaimo gyventojai buvo labai patenkinti Jonu, ir jie pradėjo jį vadinti "Mažuoju meistru". Jis buvo labai linksmas ir visada juokavo, ir kaimo gyventojai mylėjo jį.
+
+Vieną dieną, kaimo seniūnas atėjo pas Joną ir pasakė: "Mažasis meistras, mes turime didelę problemą. Měsos gamyklos pastatas yra labai senas, ir jis griaunasi. Mes negalime jo remontuoti, nes neturime pinigų. Ar galėtumėte jį statyti?"
+
+Jonas pasakė: "Taip, aš galiu jį statyti, bet man reikės pagalbos". Seniūnas pasakė: "Visi kaimo gyventojai jums padės, nes mes visi norime, kad měsos gamykla būtų graži ir tvirta".
+
+Jonas prad�de statyti měsos gamyklą, ir visi kaimo gyventojai jam padėjo. Jie dirbo labai sunkiai, bet Jonas buvo labai geras meistras, ir jis viską darė, kad pastatas būtų gražus ir tvirtas.
+
+Po kelių mėnesių, měsos gamykla buvo baigta, ir ji buvo labai graži. Kaimo gyventojai buvo labai patenkinti, ir jie sveikino Joną. Seniūnas pasakė: "Mažasis meistras, jūs esate labai geras meistras, ir mes visi jūsų gyvenime".
+
+Jonas buvo labai džiaugsmingas, ir jis tęsė savo darbą. Jis statė namus, tvirtino sienas, ir darė viską, ko reikalavo kaimo gyventojai. Jis buvo labai meilės ir visada juokavo, ir kaimo gyventojai mylėjo jį.
+
+Kai Jonas užaugo, jis tapo labai garsiu meistru, ir žmonės iš visos Lietuvos atvykdavo pas jį, kad jis jiems statytų namus. Jis buvo labai geras meistras, ir viskas, ką jis darė, buvo labai gražu ir tvirta.
+
+Ir taip, Jonas, Mažasis meistras, gyveno ilgai ir buvo labai geras meistras, ir visi kaimo gyventojai mylėjo jį. Jis buvo labai linksmas ir visada juokavo, ir kaimo gyventojai niekada nesigailėjo, kad jie jį pavadino "Mažuoju meistru".
+
+Tačiau Jonas niekada nemirė, jo darbai gyvuoja iki šiol. Ir kai kaimo gyventojai einasi pro jo pastatus, jie visada prisimena Mažąjį meistrą, ir jų širdys pilnos meilės ir džiaugsmo.
+
+Ir taip, istorija apie Mažąjį meistrą baigiasi, bet jo darbai visada bus prisiminti, ir visi kaimo gyventojai visada mylės jį. Jis buvo labai geras meistras, ir viskas, ką jis darė, buvo labai gražu ir tvirta.</body>

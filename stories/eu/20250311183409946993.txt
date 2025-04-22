@@ -1,0 +1,71 @@
+<prompt>
+Please write a educational Basque children's story that is at least 1000 words long.
+It must be completely written in proper Basque (EU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Lau izarretako aberastasuna: Loreen azpian'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>eu</lang_id>
+
+```xml
+<title>Lau izarretako aberastasuna: Loreen azpian</title>
+<body>
+Behin batean, Euskal Herriko herri txiki batean, Amaiur izeneko neskato bat bizi zen. Amaiur txikia zen, baina oso jakintsua eta kuriosoa. Beti galdetzen zuen nola, zergatik eta zeren. Bere lagunik onena, Mikel, mutil ausarta eta jolastia zen. Biak ala biak, naturaz maiteminduta zeuden, eta egunero, herriko mendietan eta zelaietan jolasten eta ezer ikasten pasatzen zuten denbora.
+
+Egun batean, udaberriko eguraldi ederra zela eta, Amaiur eta Mikel, herritik gertu zegoen zelaia batera joan ziren. Hori zen, herriko zaharrek kontatzen zutenez, "Lau izarretako aberastasuna" ezkutatzen zen tokia. Jakina, bi umeek entzun zutenean, jakin-mina piztu zitzaien. Lau izarretako aberastasuna, zer ote zen? Urrea? Diamanteak?
+
+"Amaiur, entzun nuen zaharrek esaten zutela aberastasuna loreen azpian ezkutatuta dagoela!" esan zuen Mikelek, begiak distiratsurik.
+
+"Loreen azpian? Baina zer da loreen azpian egon litekeena aberastasuna izateko?" galdetu zuen Amaiurrek, kopeta zimurtuz.
+
+"Ez dakit, baina deskubritzeko gogoa dut!" erantzun zuen Mikelek, irribarrez. "Goazen bilatzera!"
+
+Eta horrela, bi lagunak, zelaiaren erdira abiatu ziren. Zelaia, udaberriko lorez beteta zegoen: tulipanak gorriak, urdinak, horiak; margaritak zuriak; nardua laranjak; eta beste hainbat lore koloretsu eta usaintsu.
+
+"Begira, Mikel! Begira zenbat lore!" oihukatu zuen Amaiurrek, hunkituta. "Hau paradisua da!"
+
+"Bai, baina non da aberastasuna?" galdetu zuen Mikelek, begirada inguruan zebilen bitartean.
+
+Orduan, Amaiurrek ideia bat izan zuen. "Mikel, gogoratu zaharrek esan zutela aberastasuna loreen azpian dagoela. Demagun, baliteke hainbat lore mota egotea. Goazen lore mota bakoitzaren azpian bilatzera!"
+
+Mikelek baietz egin zuen, eta lanari ekin zioten. Lehenengo, tulipanen azpian begiratu zuten. Ezer ez! Bigarrenik, margariten azpian. Ezer ez! Narduen azpian, ezer ere ez!
+
+Egun osoan zehar, loreen azpian ibili ziren, lurra arretaz miatuz. Batzuetan, intsektu txikiak topatzen zituzten, marigorringoak edo tximeletak, baina aberastasunik ez. Amaiur eta Mikel, pixka bat nekatuta zeuden, baina oraindik ez ziren kikildu. Bazekiten zerbait garrantzitsua ezkutatzen zela bertan.
+
+"Ezin dugu amore eman!" esan zuen Amaiurrek, bere lagunari begiratuz. "Ziur naiz aberastasuna hemen dagoela. Agian, ez dugu ondo bilatzen."
+
+"Agian, loreen azpian zerbait ez ezik, loreei buruz zerbait gehiago bilatu behar dugu!" erantzun zuen Mikelek, pentsakor.
+
+"Loreei buruz? Zerbait gehiago?" galdetu zuen Amaiurrek, harriturik.
+
+Mikelek, irribarre maltzur batekin, esan zuen: "Beti dugu begiratzen zer dagoen azpian, baina inoiz ez dugu begiratzen loreen inguruan! Ez dugu jakin loreen izenak, ezta loreen onurak ere!"
+
+Ideia hori, Amaiurrek gozatzen zuen. Ez zituen uste, loreek hainbeste gauza ezkutatzen zituztela.
+
+"Mikel, arrazoi duzu! Loreei gehiago jakin behar dugu!" erantzun zuen Amaiurrek, kitzikatuta. Orduan, bi lagunak, loreen inguruan ikasten hasi ziren.
+
+Lehenengo, loreen izenak ikasi zituzten. Tulipan gorriak, tulipan horiak, tulipan urdinak... Margarita zuriak, nardua laranjak... Horrela, lore bakoitzaren izena jakitea oso garrantzitsua zen. Gero, loreen onurak ikasi zituzten. Nardua, adibidez, eztia egiteko erabiltzen zen. Kamamilak, lasaitzeko balio zuen.
+
+"Hau zoragarria da!" oihukatu zuen Amaiurrek, loreak ikasten ari zen bitartean. "Loreek ez dute ez bakarrik edertasuna, baizik eta onurak ere badituzte!"
+
+"Bai!" erantzun zuen Mikelek, pozik. "Eta kontuz ibili behar dugu loreak biltzerakoan, landatzerakoan, eta zaintzerakoan. Bestela, loreak desagertuko lirateke, eta ez genuke ezer gozatu ahal izango."
+
+Horrela, egunak pasatzen joan ziren, eta Amaiur eta Mikel, loreen inguruko ezagutzan sakontzen joan ziren. Liburuak irakurri zituzten, zaharrei galderak egin zizkieten, eta beraiek ere esperimentuak egin zituzten.
+
+Egun batean, zelaian zeudela, Amaiurrek Mikel-i esan zion: "Mikel, uste dut aurkitu dugula lau izarretako aberastasuna."
+
+"Benetan? Non?" galdetu zuen Mikelek, harrituta.
+
+"Aberastasuna ez da urrea edo diamanteak. Aberastasuna, loreen ezagutza da. Loreen edertasuna estimatzea, haien onurak aprobetxatzea, eta naturarekin bat egotea. Laurekin, ezagutzarekin, edertasunarekin, onurarekin eta naturarekin egotea da aberastasuna." erantzun zuen Amaiurrek, irribarre batekin.
+
+Mikelek, bere lagunak esandakoa ulertu zuen. Orduan, begirada guztiari inguratu zion, eta zelaia, inoiz baino ederragoa ikusi zuen. Laurek benetan edertasuna, ezagutza, onura eta natura balio zituzen.
+
+"Amaiur, arrazoi duzu!" esan zuen Mikelek. "Lau izarretako aberastasuna, ez da urrea edo diamanteak. Aberastasuna, gure barruan dago!"
+
+Eta horrela, Amaiur eta Mikel, betiko lagunak, beren ezagutzaz gozatzen jarraitu zuten. Zelaia, beren aberastasunaren lekua zen, loreen azpian ezkutatuta, baina ikusgai dena. Eta handik aurrera, beti gogoratuko zuten, benetako aberastasuna, ezagutzan, edertasunean, onuratan eta naturaren maitasunean datzala. Lau izar horiek beti argituko zieten bidea, bizitzan zehar!
+</body>
+```

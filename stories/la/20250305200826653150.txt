@@ -1,0 +1,61 @@
+<prompt>
+Please write a dialog-based Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Caverna Mysteriosa et Gemma Lucida'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>la</lang_id>
+
+<title>Caverna Mysteriosa et Gemma Lucida</title>
+<body>
+Aemilia, puella cum crinibus aureis,  in silvam profunda perambulat.  Sol radiis calidis terram illuminabat, avis cantus dulcis resonabant per ramos.  "Ubi est via?"  quaesivit Aemilia,  voce tenui.
+
+"Hic, puella,"  respondit vox mirabilis,  "sequere me."
+
+Aemilia,  pauca dubitans,  in umbram densa pervestigavit.  In fundo valle,  apertura obscura in lapide duro apparuit.  "Estne illa caverna?"  quaesivit Aemilia.
+
+"Ita est,"  respondit vox iterum, "sed cauta esto.  Mirabilia et pericula in interioribus latent."
+
+Aemilia,  curiositate incitata,  in caverna ingressa est.  Lux tenuis ex scintillationibus lapidum emanaverunt,  illuminantes viam.  "Quam pulchra,"  susurrat Aemilia.
+
+"Sed non omnia quae speciosa videntur, bona sunt,"  inauditam vocem audiit.  "Cave!"
+
+Aemilia,  territa,  in circuitu sua respexit.  In angulo obscuro,  draco parvus,  cum squamis viridibus et oculis flavis,  se ostendebat.  "Tu es draco?"  quaesivit Aemilia,  voce tremula.
+
+"Ego sum Ignis,"  respondit draco,  "custos huius cavernae.  Quid hic quaeris?"
+
+"Gemmam lucidam quaero,"  respondit Aemilia,  "dicunt eam in caverna latere.  Dicunt eam habere virtutem ad illuminandum animos."
+
+"Gemma Lucida?"  quaesivit Ignis,  "nam, haec caverna plena est mysteriis.  Sed non facile datur.  Proba te ipsum, puella."
+
+"Quomodo?"  interrogavit Aemilia.
+
+"Per gradus tres,"  respondit Ignis,  "primus est fortitudo,  secundus est ingenium,  tertius est benevolentia."
+
+"Fortitudo,"  cogitavit Aemilia,  "habeamne eam?"  Ante se,  labyrinthus ex saxis arduis apparuit.  "Si hoc est fortitudo,  ego sum paratus."
+
+Aemilia,  cum animo firmo,  per labyrinthum transisit,  evitantes saxa et lapidum pericula.  "Fortitudo mea est!"  exclamavit,  cum ad finem pervenisset.
+
+"Ingenium,"  dixit Ignis,  "quid de ingenio tuo?"  Ante Aemiliam,  tabella cum rebus obscurioribus apparuit.  "Solve haec aenigmata."
+
+Aemilia,  cum ingenio suo,  aenigmata solvit.  "Ingenium meum est!"  dixit,  cum omnia aenigmata solveret.
+
+"Bene,"  dixit Ignis,  "nunc proba benevolentiam tuam."  In fundo cavernae,  puer parvus,  cum vultu tristissimo,  sedebant.  "Quid tibi accidit?"  interrogavit Aemilia.
+
+"Fames me torquet,"  respondit puer.  "Et nemo mihi cibum dat."
+
+Aemilia,  cor magnanimous,  panem et aquam ei dedit.  "Benevolentia mea est!"  dixit.
+
+"Puella,"  dixit Ignis,  "invenisti Gemmam Lucidam.  Non est in saxo,  sed in corde tuo."
+
+Et ecce,  in medio cavernae,  gemma lucida fulgebat.  Non erat magna,  sed radiabant lux in auras,  illuminans omnia in circuitu.  "Gratias tibi ago,"  dixit Aemilia ad Ignis.
+
+"Vale,"  respondit Ignis,  "et memento,  fortitudo,  ingenium,  et benevolentia,  sunt clavis ad omnia."
+
+Aemilia,  cum gemma lucida in manu,  ex caverna egressa est.  Sol radiis calidis terram illuminabat,  avis cantus dulcis resonabant per ramos.  Aemilia,  cum corde gaudio plena,  per silvam perambulat,  gemma lucida in manu,  et in corde suo.
+</body>

@@ -1,0 +1,79 @@
+<prompt>
+Please write a uncomplicated Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Pieni merihevonen ja suurten aaltojen matka: matka valtameren salaisuuksiin.'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>fi</lang_id>
+
+```html
+<title>Pieni merihevonen ja suurten aaltojen matka: matka valtameren salaisuuksiin.</title>
+<body>
+Olipa kerran, kaukana meren syvyyksissä, pieni merihevonen nimeltä Aalto. Aalto oli pieni, mutta sydämeltään suuri. Hänellä oli kultaisen kellertävä iho, kirkkaat, uteliaat silmät ja pitkä, koukkumainen häntä, jolla hän tarttui meriruohopetiin. Aalto asui äitinsä, isänsä ja monien muiden merihevosten kanssa suuressa, värikkäässä koralliriutassa. Riutta oli täynnä elämää: värikkäitä kaloja, meritähtiä, ja monenlaisia mereneläviä.
+
+Aalto oli utelias ja halusi ymmärtää kaikkea, mitä meressä tapahtui. Hän kuunteli tarkkaan vanhempiaan ja muita merihevosten vanhimpia, kun he kertoivat tarinoita meren ihmeistä. He kertoivat tarinoita suurista aalloista, jotka joskus tulivat vierailulle riutan lähelle, ja salaperäisistä valtameren syvyyksistä, joissa asui tuntemattomia olentoja.
+
+Eräänä päivänä, kun Aalto oli leikkimässä ystäviensä kanssa, hän huomasi jotain poikkeuksellista. Taivaalle oli ilmestynyt suuri, tumma pilvi, ja tuuli alkoi puhaltaa voimakkaasti. Meressä alkoi muodostua suuria aaltoja, jotka keinuttelivat riuttaa ja saivat korallit heilumaan.
+
+"Oi ei!" huudahti yksi Aallon ystävistä, pieni, punainen kalapoikanen nimeltä Kipinä. "Tulee myrsky!"
+
+Vanhemmat uivat nopeasti paikoilleen, keräten lapsensa turvaan. Aallon isä tuli hänen luokseen ja sanoi: "Aalto, pysy lähellä, ja pidä kiinni minun hännästäni. Myrsky voi olla vaarallinen."
+
+Aalto nyökkäsi ja tarttui isänsä häntään lujasti. Aallot kasvoivat ja kasvoivat, ja ne mursivat riuttaan päin. Aalto ja hänen perheensä pysyivät piilossa, jotta he eivät joutuisi suurten aaltojen vietäviksi. Aalto katsoi silmänsä suurina, kuinka valtavat vesimassat liikkuivat ja kuinka ne tuntuivat loputtomilta.
+
+Myrsky kesti pitkään. Lopulta, kun aurinko alkoi laskea, aallot alkoivat hiipua. Taivas selkeni, ja aurinko pilkisti esiin pilvien takaa. Riutta oli vaurioitunut, mutta suurin osa asukkaista oli selvinnyt.
+
+Aalto oli utelias ja halusi nähdä, mitä myrskyn jälkeen oli tapahtunut meressä. Hän irrotti otteensa isänsä hännästä ja lähti uimaan tutkimaan. Hän ui varovasti, varoen loukkaamasta itseään rikkoutuneisiin koralleihin.
+
+Hän huomasi, että aallot olivat kuljettaneet hiekkaa ja muuta materiaalia merenpohjaan. Hän ui syvemmälle ja syvemmälle, etsien jotain mielenkiintoista. Lopulta hän löysi jotain: suurikokoisen, merenpohjaan uponneen laivan hylky.
+
+Hylky oli peittynyt merilevään ja koralleihin, ja sen sisällä ui monenlaisia kaloja. Aalto ui varovasti hylyn sisään. Hän löysi vanhoja aarteita, kuten kolikoita, helmiä ja muita arvoesineitä. Mutta hän ei etsinyt aarteita. Hän etsi seikkailua ja vastauksia kysymyksiin, joita myrsky oli herättänyt.
+
+Hän päätti lähteä matkalle. Hän halusi nähdä, mistä suuret aallot tulivat, ja tutkia valtameren salaisuuksia. Hän tiesi, että matka olisi vaarallinen, mutta hän oli valmis ottamaan riskin. Hän keräsi rohkeutensa ja palasi sanomaan hyvästit perheelleen ja ystävilleen. Hänen äitinsä antoi hänelle erityisen, hohtavan simpukan, jonka piti tuoda onnea matkalle.
+
+"Ole varovainen, rakas Aalto", sanoi hänen äitinsä kyyneleet silmissään. "Palaa pian takaisin."
+
+"Toki, äiti", Aalto vastasi hymyillen. "Minä palaan."
+
+Niinpä Aalto lähti matkalle. Hän ui pois koralliriutalta ja kohti avomerta. Matkansa alku oli vaikea. Hän joutui kohtaamaan voimakkaita virtauksia ja väsymystä. Hän uiskenteli pitkän matkan, ja välillä hänellä oli tosi kurja.
+
+Hän näki monenlaisia mereneläviä, kuten valaita, delfiinejä, kilpikonnia ja haita. Hän oppi paljon matkallaan. Hän oppi, kuinka mereneläimet elivät ja sopeutuivat eri ympäristöihin. Hän oppi, miten meren ekosysteemi toimi ja kuinka tärkeää on suojella sitä.
+
+Matkan varrella Aalto kohtasi myös vaaroja. Hän joutui pakenemaan suurta hailta, joka halusi syödä hänet. Hän eksyi pimeässä, vaarallisessa luolastossa. Mutta hän ei koskaan luovuttanut. Hän muisti äitinsä antaman simpukan ja sen antamaa onnea.
+
+Lopulta, pitkän ja vaikean matkan jälkeen, Aalto saapui suurten aaltojen lähteelle: syvään, pimeään rotkoon, jossa valtavat vesimassat liikkuivat. Hän tiesi, että tämä oli valtameren suurten salaisuuksien piilopaikka.
+
+Rotko oli mahtava ja pelottava. Aalto katseli hämmästyneenä suurten aaltojen syntymistä. Hän näki, kuinka vedenalaiset vuoret ja virtaukset vaikuttivat aaltojen muotoon ja suuntaan. Hän ymmärsi, että aallot eivät olleet vain satunnaisia tapahtumia, vaan luonnon voimakkaiden voimien ilmentymiä.
+
+Aalto ui rotkon seinämiä pitkin, tutkiessaan sen syvyyksiä ja salaisuuksia. Hän löysi uusia, ihmeellisiä olentoja, jotka elivät pimeydessä. Hän näki loistavia kaloja, joilla oli valoa hehkuvia evät.
+
+Yhdessä rotkon nurkassa hän löysi vanhan, viisaan merikilpikonnan, joka istui hiljaa ja mietiskeli. Kilpikonna oli asunut rotkossa vuosisatoja ja tunsi sen salaisuudet.
+
+"Tervetuloa, pieni merihevonen", kilpikonna sanoi Aallolle. "Olen kuullut sinusta. Olet rohkea ja utelias. Mitä etsit?"
+
+"Etsin vastauksia", Aalto sanoi. "Haluan ymmärtää, mistä suuret aallot tulevat ja miten valtameri toimii."
+
+Kilpikonna hymyili. "Se on hyvä päämäärä. Valtameri on täynnä salaisuuksia. Kaikki riippuu siitä, miten sitä katsoo. Isot aallot ovat osa luonnon kiertoa, ja niiden tehtävä on siivota merta ja levittää elämää."
+
+Kilpikonna kertoi Aallolle valtameren monimutkaisesta ekosysteemistä ja sen eri osien vuorovaikutuksesta. Hän kertoi Aallolle, kuinka tärkeää on suojella merta ja sen eläimistöä. Hän opetti Aallolle asioita, joista Aalto ei ollut koskaan kuullutkaan.
+
+Aalto kuunteli tarkkaan, ja hän oppi paljon. Hän ymmärsi, että valtameri oli paljon monimutkaisempi ja ihmeellisempi kuin hän oli koskaan kuvitellutkaan.
+
+Kun aurinko alkoi nousta, ja uimista oli tulloo melkein päivä, kilpikonna sanoi: "Nyt sinun on aika palata kotiin. Sinulla on paljon tietoa jaettavana ystävillesi ja perheellesi."
+
+Aalto kiitti kilpikonnaa ja lähti paluumatkalle. Hän ui takaisin kohti koralliriuttaa, sydämessään uutta tietoa ja kokemuksia.
+
+Kun Aalto palasi kotiin, hänen perheensä ja ystävänsä olivat iloisia nähdessään hänet. Hän kertoi heille matkastaan, aalloista, valtamerestä ja kaikesta, mitä hän oli oppinut. Hän kertoi uudesta maailmasta, jota hän kokea.
+
+Kaikki kuuntelivat häntä tarkkaan, ja Aalto huomasi, että hänen tarinansa inspiroi muita. He alkoivat arvostaa merta ja sen eläimistöä enemmän. He lupasivat tehdä parhaansa suojellakseen sitä.
+
+Aalto kasvoi isoksi ja viisaaksi merihevoseksi. Hänestä tuli riutan johtaja ja opettaja. Hän opetti nuoremmille merihevosille merten salaisuuksista. Hän oli aina utelias ja halukas oppimaan uutta, ja hän jakoi tietonsa ja kokemuksensa muiden kanssa.
+
+Ja niin, Aalto, pieni merihevonen, joka oli lähtenyt suurelle matkalle, saapui sinne, missä hänen oli tarkoitus olla: antamaan merten tarinat koko maailmalle. Ja suurtenkin aaltojen matka, toi hänelle lopulta suurimman onnen. Matka jatkui, ja Aallon sydän oli aina täynnä mielenkiintoa.
+</body>
+```

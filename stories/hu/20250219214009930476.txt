@@ -1,0 +1,31 @@
+<prompt>
+Please write a creative and original Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A boszorkány és a varázslatos sütemény, amivel mindenkit boldoggá tett.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>A boszorkány és a varázslatos sütemény, amivel mindenkit boldoggá tett.</title>
+<body>
+Barna, a vidám kiscica, a varázslatos erdő szélén élt, egy kicsi, rózsaszín házikóban, amelynek ablakaiból a napsugarak játszottak.  Barna minden reggel ugyanazt a dallamot énekelte, amint a nap felkelt, és úgy érezte, hogy a világ a legcsodálatosabb hely a világon.  Egyszer azonban egy szomorúság beköszöntött a vidám erdőbe.
+
+A boszorkány, Szilvia, aki a magas, tölgyfákkal övezett hegy tetején lakott, egyre szomorúbb lett. Nem azért, mert hiányzott volna neki a szeretet, vagy a barátok, hanem mert a varázslatos süteménye, amivel mindenkit boldoggá tudott tenni, elfogyott.  Ez a sütemény nem volt egyszerű sütemény.  A benne lévő titkos hozzávaló, a boldogságpor, megváltoztatta az emberek hangulatát, mosolyt varázsolt az arcukra, és örömteli érzést adott mindenki szívébe.  Szilvia már több száz süteményt készített, és a boldogságpor is elfogyott.  A szíve szomorúságba borult.
+
+Barna, aki mindig is kíváncsi volt, és szeretett segíteni a másoknak, meghallgatta a szomorú zúgást a hegyek felett.  Érezte, hogy Szilvia boszorkánynak a szíve szomorkásabb, mint valaha.  Szilvia boszorkány remegett, és a szeme könnybe lábadt. Miután egy nagy levegőt vett, elindult a városba, a varázslatos sütemény elkészítéséhez szükséges anyagokat keresni. 
+
+Barna azonnal felpattant, és a hegyoldalon lefelé szaladt, remélve, hogy segíthet a boszorkánynak.  A város felé tartva, találkozott egy vidám, sárga madárral, Aki elmondta, hogy a boldogságpor elkészítéséhez szükséges  a boldogságvirág.  Ezek a virágok csak a naplementében nyílnak ki, és csakis a legtisztább folyó partján teremnek meg.  Barna azonnal tudta, hogy mit kell tennie.
+
+Barna, a vidám kiscica, érezte, hogy a szivében fellobbant egy láng.  Elindult a tisztáson, ahol a Nap lemegy, és a boldogságvirágok nyílnak.  A folyó partján, a naplementében, varázslatos virágokat látott, ragyogó sárga és piros színben.  Szorgalmasan gyűjtötte őket, ügyelve arra, hogy ne sérüljön meg egyetlen egy sem.  A folyó hűvös vize megnyugtatta és megtisztította a lelki szomját.
+
+Miközben a boldogságvirágokat gyűjtötte, egy bölcs, öreg varázslómadár ült egy faágon.  A madár elmondta, hogy a boldogságpor elkészítéséhez a szeretet és a jóindulat is szükséges.  Barna érezte, hogy igazat mond a madár.  Visszament a városba, és keresett mindenkit, aki szomorú volt.  Segített egy eltévedt kismadárnak, vigasztalta egy síró kislányt, és mosolyt varázsolt egy szomorú kutya arcára.  Barna ezt is megértette, hogy a boldogság megosztásával még több boldogságot kaphat.
+
+A boszorkány, Szilvia, megköszönte Barna segítségét, és együtt elkészítették a varázslatos süteményt. A boldogságpor beledolgozása után, mindenkit a környéken boldoggá tett. Barna, a vidám kiscica, érezte, hogy a szíve még soha nem volt ilyen meleg.  Mindegyik ember, akit mosolyra fakasztott, egy csepp boldogságot adott neki, és ettől még boldogabb lett.  Barna, a szeretet és az öröm sugárzó sugara, egyre erősebb lett.
+
+A varázslatos erdő ismét vidám lett.  A szomorúság elpárolgott, és a boldogságporral, a boszorkány és a vidám kiscica által sütött varázslatos süteményekkel, mindenki örömmel töltődött el.  Barna, a kis cica, mindig mosolygott, a szíve boldogsággal telt.  És tudta, hogy a szeretet és a megértés mindig a legnagyobb varázslat, amire szükségünk van a világunk megváltoztatásához.
+</body>

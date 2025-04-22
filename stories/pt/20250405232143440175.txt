@@ -1,0 +1,63 @@
+<prompt>
+Please write a silly Portuguese (Portugal) children's story that is at least 1000 words long.
+It must be completely written in proper Portuguese (Portugal) (PT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'O Moana e a Busca pela Salvação do Seu Povo na Ilha Tropical.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pt</lang_id>
+
+```xml
+<title>O Moana e a Busca pela Salvação do Seu Povo na Ilha Tropical</title>
+<body>
+Era uma vez, numa ilha tropical incrivelmente parva, chamada Pastelaria do Cocó, uma menina chamada Moana. A Moana, não confundir com a Moana da canção (essa era americana e cantava muito bem), era portuguesa, de olhos arregalados e cabelo encaracolado cor de pastilha elástica. Vivia com a sua avó, a Dona Natália, que era mais velha que a Arca de Noé e cheia de rugas como um mapa de tesouro.
+
+A Pastelaria do Cocó não era uma ilha qualquer. Era especial por ter um problema muito sério: todas as manhãs, os bolos e os pastéis de nata desapareciam misteriosamente das prateleiras da pastelaria principal da ilha, a "Delícias do Dente de Leão". E com a comida a desaparecer, a população, conhecida por adorar comer, ficava tristíssima e magra.
+
+Um dia, a Dona Natália chamou a Moana e disse, com uma voz rouca de tanto tossir: “Moana, minha querida, temos que resolver este problema dos bolos. O povo está a ficar com uma fome que até dá dó! Precisamos que encontres o culpado!”
+
+A Moana, que era uma menina muito curiosa e adorava comer mais do que tudo (até mais do que as brincadeiras com os amigos!), aceitou o desafio de imediato. “Não se preocupe, avó! Eu vou descobrir quem anda a roubar os bolos!”
+
+E assim, começou a aventura da Moana. A primeira coisa que fez foi falar com o Senhor Custódio, o padeiro, que tinha uma barba mais comprida que uma mangueira e um bigode que parecia duas bananas viradas para cima. O Senhor Custódio suspirou e disse: “Já tentei de tudo, Moana! Coloquei câmaras secretas, guardas nocturnos... Mas nada! Os bolos somem como fumo!”
+
+A Moana, esperta como um raio, decidiu que precisava de um plano. Pensou, pensou… e teve uma ideia fantástica! “Senhor Custódio, precisamos de uma armadilha! Uma armadilha com bolos, claro!”
+
+O Senhor Custódio arregalou os olhos. “Bolos como armadilha? Mas isso parece… perigoso! E gordo!”
+
+A Moana, com um sorriso sapeca, explicou o plano: “Vamos fazer um bolo gigante, recheado com… feijões mágicos! Quando o ladrão comer o bolo, os feijões vão começar a… fazer cócegas! E assim vamos descobrir quem é!”
+
+O Senhor Custódio, desconfiado mas desesperado, concordou. Passaram a noite a fazer um bolo gigante, do tamanho de uma banheira. Usaram quilos e quilos de farinha, ovos, açúcar e, claro, feijões mágicos, fornecidos pelo Professor Albino, um cientista louco que vivia numa tenda no meio da floresta, mais desorganizada do que uma caixa de sapatos.
+
+No dia seguinte, o bolo gigante, irresistível, foi colocado na prateleira mais apetitosa da Delícias do Dente de Leão. A Moana e o Senhor Custódio esconderam-se atrás de uma pilha de caixas de bolachas Maria e esperaram.
+
+O tempo passou, as horas voaram… até que, de repente, ouviram um barulho suspeito. Um… miau?
+
+A Moana e o Senhor Custódio espreitaram por cima das caixas. Eram as… as Marias! Não, as gatas!
+
+Viram uma gata gorda, com um ar de quem não dormia há séculos e com uma barriga enorme, a aproximar-se do bolo. A gata, que se chamava Amélia, olhou para o bolo com uma paixão no olhar. Aproximou-se, farejou, lambeu e… BOOOM! Mordeu uma fatia gigantesca!
+
+“Agora é que vai ser!”, sussurrou a Moana, enquanto observava atentamente a reação da Amélia.
+
+A gata, de repente, começou a saltar e a dançar, com as orelhas a abanar. Parecia que tinha entrado numa discoteca! Começou a rir, a fazer cambalhotas e a… cócegas, muitas cócegas! A Amélia começou a fazer cócegas à própria barriga. Era o efeito dos feijões mágicos!
+
+“Amélia!”, gritou a Moana, saindo do esconderijo. “É você quem está a roubar os bolos?”
+
+A Amélia, completamente atordoada pelas cócegas, respondeu: “Miau… é… miau… eu… não… consegui… resistir… miau… adoro… bolos… miau!”
+
+A Moana, com uma expressão de choque, explicou: “Mas porque fazia isso? Estava a deixar toda a gente com fome!”
+
+A Amélia parou de fazer cócegas a si própria e explicou que, em segredo, a Amélia não era só uma gata normal. Ela era… uma princesa! Mas não uma princesa com um castelo, não. A Amélia era uma princesa felina, a princesa dos bolos! E achava que os bolos da Delícias do Dente de Leão eram os mais deliciosos do mundo e precisava comer todos para… proteger a ilha. “Eu só quero proteger a receita!”, revelou a gata, muito constrangida.
+
+A Moana, com pena da gata, decidiu ajudar. Depois de muita conversa, descobriram uma solução. A Amélia pararia de roubar os bolos, desde que recebesse uma dose diária do seu pastel de nata preferido. E, em troca, revelaria o segredo da receita dos bolos mais saborosos do mundo.
+
+O Senhor Custódio ficou radiante! Fez um trato com a Amélia, prometendo um pastel de nata a cada dia. A Moana aprendeu a receita dos bolos e, claro, passou a ajudar o Senhor Custódio na pastelaria.
+
+A notícia espalhou-se pela ilha como fogo num bosque de pinheiros. O povo da Pastelaria do Cocó ficou feliz e voltou a saborear os deliciosos bolos. A Amélia continuou a receber o seu pastel de nata diário, e todos viviam felizes para sempre.
+
+E a Moana? Bem, a Moana continuou a comer bolos, a brincar com os amigos e a ouvir as histórias da avó Natália, que nunca mais se fartou de repetir que a neta era a menina mais esperta da ilha. E assim, a Pastelaria do Cocó voltou a ser o lugar mais doce e feliz do mundo, tudo graças a uma menina esperta, um padeiro bondoso e uma princesa felina com um apetite insaciável. E, claro, graças à magia dos bolos e à amizade.
+
+Fim.

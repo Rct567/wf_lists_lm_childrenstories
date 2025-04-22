@@ -1,0 +1,37 @@
+<prompt>
+Please write a funny Romansh children's story that is at least 1000 words long.
+It must be completely written in proper Romansh (RM).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La buoba ch'era sa persa en il guaud, suenter avair giugà cun il vent.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>rm</lang_id>
+
+<title>La buoba ch'era sa persa en il guaud, suenter avair giugà cun il vent.</title>
+<body>En in guaud da muntogna, nua ch'ils arbols creschan auts e ch'ils flums ronan clers, viviva ina buoba pitschna. Ella era ina buoba speziala, cun ina pel grisa e ina cocha lunga e fina. Ella viveva en ina chasa pitschna, fatta da ramus e da fuaglia, e passava ses dis giugand cun ils animals da guaud.
+
+La buoba era ina giugadra fina, e tut ils animals da guaud la amavan. Ella era amis cun il liever, cun la vulp, cun l'urs e cun tut ils auters animals. Ella giugava cun els, els contava istorgias e els dava da mangiar. La buoba era ina persona pitschna, ma ella aveva in grond cor.
+
+In di, la buoba ha decidì da giugà cun il vent. Ella ha mess en movement ses pels e ha cumenzà a correr tras il guaud, giugand cun il vent. Il vent era fort, ma la buoba era pli forte. Ella ha corrut e ha saltà, e il vent ha suflà e ha giugà cun ella.
+
+Ma il vent era in vent schelastros, e ha cumenzà a suflar pli fort. La buoba ha perdì il equilibri e ha cadì en terra. Ella ha sautà en pe e ha cumenzà a correr, ma il vent ha suflà anc pli fort. La buoba ha perdì la via e ha finì en ina part dal guaud ch'ella na conoscheva betg.
+
+La buoba era persa, e na saveva betg co returnar a si' chasa. Ella ha clamà per ajuda, ma il vent ha suflà si fort ch'ella na pudeva betg audir. Ella ha cumenzà a plurar, e il vent ha suflà anc pli fort.
+
+Ina vulp, ch'era en vischinanza, ha audì la buoba ch'ella clamava per ajuda. La vulp ha curs en ajuda e ha chattà la buoba ch'era persa en il guaud. La vulp ha ditg a la buoba: "Na ti es persa, buoba. Eu ti ajut a returnar a tia chasa."
+
+La buoba ha ringrazià la vulp e ha seguit ella tras il guaud. La vulp ha menà la buoba tras ils arbols e ils flums, e ha finì en vischinanza da si' chasa. La buoba ha ringrazià la vulp e ha ditg: "Ti es in amic veritabel, vulp. Eu na vegli mai obliviar tia ajuda."
+
+La vulp ha ditg: "Na ti oblivias betg, buoba, ch'eu sem in amic. Ma ti oblivias betg da giugà cun il vent, perche ch'el po esser periculos." La buoba ha promiss da na giugà betg pli cun il vent, e ha returnà en si' chasa.
+
+La buoba ha contà a tut ils animals da guaud co ch'ella era persa en il guaud e co ch'la vulp l'aveva ajutada. Tut ils animals han ringrazià la vulp per si' ajuda, e han decidì da far ina festa en onur da la vulp.
+
+La festa ha durà tut il di, e han mangià e han giugà tut ils animals da guaud. La buoba ha giugà cun ils animals, ma ha na giugà betg cun il vent. Ella ha imparà ch'il vent po esser periculos, e ha decidì da na giugà betg pli cun el.
+
+La buoba ha vissut en pasch cun ils animals da guaud, e ha na mai obliviat la vulp ch'ella aveva ajutada. La vulp ha vissut en pasch cun la buoba, e ha na mai obliviat l'amistad ch'els avevan. E il vent ha suflà anc adina, ma la buoba ha na mai giugà betg pli cun el.
+
+En il guaud da muntogna, nua ch'ils arbols creschan auts e ch'ils flums ronan clers, la buoba e la vulp han vissut en pasch e han giugà cun ils animals da guaud. E il vent ha suflà anc adina, ma la buoba ha na mai obliviat la vulp ch'ella aveva ajutada, e ha na mai giugà betg pli cun el.</body>

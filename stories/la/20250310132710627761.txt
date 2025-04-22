@@ -1,0 +1,37 @@
+<prompt>
+Please write a relatable Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Sagittae Aviae et Naturae'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>la</lang_id>
+
+<title>Sagittae Aviae et Naturae</title>
+<body>Erant in terra Latina, ubi sol splendebat et aves cantabant, duo pueri nomine Marcus et Lucius. Hi pueri amabant naturam et omnia quae in ea vivebant. Unum diem, dum in silva ludebant, invenerunt avem sagittam, quae vulnerata erat et non poterat volare.
+
+Marcus et Lucius miserati sunt avem et eam in domum suam portaverunt, ubi eam curaverunt et cibum dederunt. Avis, cui nomen erat Avis, gratias egit pueris et eis promisit se remunerare, cum sanaretur. Post aliquot dies, Avis sanata est et poterat volare iterum.
+
+Avis, ut promiserat, pueris remunerare voluit. Dixit eis: "Veni, pueri, et sequimini me. Vobis naturae secreta ostendam et vos docebo, quomodo vivere in harmonia cum natura." Marcus et Lucius gaudebant et sequi coeperunt Avem.
+
+Per silvam ambulabant, et Avis eis ostendebat omnia mirabilia, quae in natura erant. Ostendebat eis flores, qui in terra crescunt, et arbores, quae in caelo tendunt. Ostendebat eis animalia, quae in silva vivunt, et aves, quae in aere volant.
+
+Cum ambulabant, venerunt ad flumen, quod per silvam fluerebat. Avis dixit eis: "Hic est locus, ubi natura sua potentia ostendit. Videte, quomodo aqua fluere potest et quomodo vita in ea est." Marcus et Lucius mirabantur et videbant, quomodo pisces in aqua natabant et quomodo plantae in aqua crescunt.
+
+Deinde, Avis eos ad montem duxit, qui in proximo erat. Dixit eis: "Hic est locus, ubi natura sua sublimitate ostendit. Videte, quomodo montes in caelo tendunt et quomodo vita in eis est." Marcus et Lucius mirabantur et videbant, quomodo arbores in monte crescunt et quomodo animalia in monte vivunt.
+
+Postea, Avis eos ad cavam duxit, quae in monte erat. Dixit eis: "Hic est locus, ubi natura sua profunditate ostendit. Videte, quomodo terra in profundum tendit et quomodo vita in ea est." Marcus et Lucius mirabantur et videbant, quomodo mineralia in terra crescunt et quomodo animalia in terra vivunt.
+
+Cum vidissent omnia mirabilia, quae Avis eis ostenderat, Marcus et Lucius gratias egerunt Avi et dixerunt: "Nos iam scimus, quomodo vivere in harmonia cum natura. Nos iam scimus, quomodo natura sua potentia, sublimitate et profunditate ostendit." Avis dixit eis: "Gaudeo, quod vos didicistis. Nunc, pueri, ite et vivite in harmonia cum natura. Et cum vos naturae secreta ostenditis, alios docebitis, quomodo vivere in harmonia cum natura."
+
+Marcus et Lucius itaque abierunt et in domum suam redierunt. Sed nunquam obliviscerentur, quae Avis eis ostenderat, et semper vivebant in harmonia cum natura. Et cum alios pueris naturae secreta ostendebant, eos doceabant, quomodo vivere in harmonia cum natura.
+
+Anni post, Marcus et Lucius facti sunt viri sapientes et naturae amatores. Et semper vivebant in harmonia cum natura, et semper doceabant alios, quomodo vivere in harmonia cum natura. Et Avis, quae eos docuerat, semper vivebat in corde eorum, et semper eos remindebat, quomodo vivere in harmonia cum natura.
+
+Et ita, historia Marci et Lucii finita est. Sed memoria eorum vivit in corde omnium, qui naturam amant et in harmonia cum ea vivunt. Et Avis, quae eos docuerat, semper vivet in corde omnium, qui naturae secreta ostendunt et alios doceunt, quomodo vivere in harmonia cum natura.
+
+In fine, omnes, qui historiam Marci et Lucii audierunt, gaudebant et dicebant: "Nos iam scimus, quomodo vivere in harmonia cum natura. Nos iam scimus, quomodo natura sua potentia, sublimitate et profunditate ostendit." Et ita, historia Marci et Lucii vivit in corde omnium, qui naturam amant et in harmonia cum ea vivunt.</body>

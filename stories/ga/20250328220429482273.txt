@@ -1,0 +1,68 @@
+<prompt>
+Please write a dialog-based Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Fearga na Féile: An Taisceoireacht Treise'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>ga</lang_id>
+
+```xml
+<title>Fearga na Féile: An Taisceoireacht Treise</title>
+<body>
+"A Phaidí, a Phaidí! Tá sé in am dúinn éirí!" a scairt Máire, an mháthair bheag, ag an doras.
+"Ach, a Mháthair," a bhéalain Phaidí, "níl mé ag iarraidh éirí. Tá sé fuar agus dorcha fós."
+"Is fíor sin, a ghrá, ach tá an Fhéile ag teacht, agus ní bheidh an taisceoireacht chríochnaithe fé lá."
+"An Taisceoireacht Treise, an ea?" D'éirigh spéis le Phaidí sa bhfocal "Treise". Bhí sé ag iarraidh bheith láidir.
+"Sea, a stór," a dúirt Máire agus í ag dul isteach sa seomra, "caithfimid ár gcuid oibre a dhéanamh inniu más mian linn gach rud a bheith réidh roimh an bhFéile."
+"Cad a chaithfimid a dhéanamh?" d'fhiosraigh Phaidí agus é ag léim amach as an leaba, ar an bpointe.
+"Ar dtús, cabhróidh tú liom leis an bhféar a bhailiú don bó. Tá sé go leor fionn. Ansin, déanfaimid arán, agus ní dhéanfaidh tú dearmad ar na pluideanna a fhilleadh agus an seomra a ghlanadh."
+"Ceart go leor, a Mháthair!" a scairt Phaidí, a chroí ag léim le háthas. Ba bhreá leis cabhrú.
+Chuaigh siad amach ar an bhfeirm. Bhí an spéir liath agus an t-aer fuar.
+"A Phaidí, buailfidh muid na bó," a dúirt Máire, ag gabháil go dtí an páirc. "Tabharfaidh muid dóibh an féar agus ansin bheidh siad sásta."
+Agus iad ag tarraingt an fhéir ón bpáirc, chonacthas Phaidí leath na gcnoc ó thoir. "A Mháthair, féach, an sliabh! An gcreideann tú go bhfeicfimid an sneachta ar bharr an tsléibhe sula dtosaíonn an fhéile?"
+"B'fhéidir, a stór," a d'fhreagair Máire. "Anois, faighimid an féar."
+Chríochnaigh siad an obair sin agus d'fhill siad ar an teach. Bhí ocras mór ar Phaidí.
+"Anois, déanfaimid an t-arán!" a d'fhógair Máire, ag tosú ag meascadh an phlúir agus na gcomhábhar eile.
+"An mbeidh mé in ann an chuid eile a dhéanamh?" d'iarr Phaidí go fonnmhar.
+"Cinnte, a Phaidí. Anois, caithfidh tú an taois a ghlúineáil."
+Chríochnaigh siad ag déanamh an aráin, agus boladh blasta leath isteach sa teach. Ansin, thosaigh Phaidí ag filleadh na pluideanna agus ag glanadh an tseomra.
+"Tá an teach glan!" a scairt Phaidí go bródúil, agus é ag críochnú an ghlantacháin.
+"Ar fheabhas, a ghrá!" a dúirt Máire, ag féachaint air. "Anois, is féidir linn scíth a ligean beagán."
+"An ndéanfaidh muid rud éigin spraíúil?" d'iarr Phaidí.
+"B'fhéidir," a d'fhreagair Máire. "Chéad, déanfaimid tae agus gheobhaimid ar an gcistin. Beidh scéal agam le hinsint duit."
+Shuigh siad ag an mbord le tae te agus arán úr.
+"Anois, Phaidí," a dúirt Máire, "cén fáth a dtugtar an Taisceoireacht Treise uirthi?"
+"Níl a fhios agam," a dúirt Phaidí. "An ndúirt tú? Tá mé ag tnúth leis an méid seo!"
+"Bhuel," a dúirt Máire, "cuid den Fhéile is ea an tréitheacht de na seanchompáinigh, anseo thíos. Ar thír mhór, bíodh scoilteacha sa bhfarraige agus i ngach áit, fuair an fear ábalta ainmniú leis an leabhar agus bhailigh an cineál treise a theastaigh, le bheith anuas."
+"Agus cén saghas treise atá i gceist?" d'iarr Phaidí, a shúile ar leathadh.
+"Ní hé láidreacht na gcréacht go léir, ná an láidreacht a mbeidh tú féin ann go ceann na dteacht, ná an ghéar a mbeidh ag an bpríosún. Is láidreacht intinne agus croí atá i gceist, a Phaidí. An treise chun a bheith cineálta, chun cabhrú le daoine eile, chun bheith foighneach, chun an méid a dhéanann tú a dhéanamh go maith, go crua. Agus treise a thugtar chun fáil réidh le rudaí nach féidir a bhaint amach."
+"Sin go hiontach!" a dúirt Phaidí. "Caithfidh mé a bheith treise mar sin!"
+"Is féidir leat, cinnte," a dúirt Máire. "Is féidir linn gach lá a bheith ag obair ar ár dtreise."
+Agus dóibh, thug Máire seachtain i bhfochair Phaidí ar na críocha, leis an nglaineacht. Chuaigh sí leis go dtí an tsléibhe, agus throid sé buicéad treasc a bhí ag cur bac ar rogha leanaí ó imirt. Ba lúb amháin a bhí ann i measc an domhain leamh agus níos fuaraí. Ba dheaith féin atá idir láidreacht agus treise. Ní léir go gcuirfeadh an bhaint leis an ngriail. Mar a dúirt sí go cúramach, bhí an fhéile níos cumhachtaí má bhí siad go léir tréitheach.
+Tharla go raibh fear beag ina bhéal ar an sliabh, ag faire orthu. Nuair a thug siad cuairt air, thug sé bronntanais ó na sean-tír, ar son a gcruinnithe. Fuair Phaidí cloigeann beag snoite, leis an dath chéanna leis an sliabh féin.
+"Caithfidh tú seo a choimeád leat, a Phaidí," a dúirt an fear. "Meabhraíonn sé duit do threise. Meabhraíonn sé duit gur féidir leat gach rud a dhéanamh."
+Thosaigh an fhéile ag teacht, agus gach lá bhí siad ag obair ar an treise. D'éirigh Phaidí níos cineálta le daoine eile, cabhraigh sé lena thuismitheoirí gan leithscéal a dhéanamh, agus chuaigh sé i dtreo na n-ábhair a theastaigh. Thaitin an buicéad leis, ach choinnigh sé a chuid de, a fhios ag teacht arís.
+Ar lá na Féile, bhí siad go léir le chéile. Bhí bia, ceol, agus áthas ar fad ann. Thóg siad roinnt béile ó scéithe agus sheinneadar. Bhí Phaidí ag breathnú ar an gcloigeann beag a thug an fear ón sliabh dó. Thug sé miongháire beag dó.
+"An raibh an bhliain seo chomh maith agus a bhí sé thuas anuraidh?" d'iarr Phaidí ar a Mháthair.
+"Bhí, cinnte," a dúirt Máire, "bhí sé níos fearr. Mar gheall gur oibrigh muid go léir ar ár dtreise, agus thugamar aird ar dhaoine eile."
+"Beidh sé níos fearr fós an bhliain seo chugainn," a dúirt Phaidí go muiníneach.
+Thuig sé anois go raibh an Fhéile faoi lán seoil, mar gheall ar a gcuid oibre. Tháinig an fhíorfhéile, an fíor-athrú, ó bheith láidir le croí agus intinn, ón dtreise sin.
+Agus ó shin i leith, is é Phaidí agus a mhuintir a mhaireann sa saol le tuiscint iomlán ar an rud a thaisceoireacht treise.
+"Gach rud atá á dhéanamh agam a fheiceann tú inniu, má dhéanaim é leis an ngrá, agus le toil, agus le foighne, tá mé ag cleachtadh mo treise," a dúirt sé léi.
+"Fíor," a d'fhreagair Máire agus í ag gáire. "Tá tú ag foghlaim, a stór."
+Bhuail Phaidí agus a mhuintir beagnach an leabhar nuair a thug sé cúl ar a thuismitheoirí chun imirt lena chairde, go dtí gur chríochnaigh an leabhar. Mar bharr air sin, dúirt sé lena athair go raibh sé "go bhfásfadh sé." Ní bheadh sé in ann scuabadh a bhailiú ach anois!
+Bhí go leor ann. Tháinig an sneachta ar bharr an tsléibhe i gcaitheamh na seachtaine, agus ó thosach go deireadh na Féile, bhí an bheirt acu tar éis bheith ag breathnú air gach maidin, agus ag smaoineamh ar an gtreise agus ar an bpearsantacht nua a d'fhoghlaim siad le chéile.
+"Is é an bealach sin a shaibhríonn an domhan," a dúirt Phaidí, agus é ag baint an dath ó ghloine an bholgáin ina lámha.
+"Tá sé anseo duit," a dúirt Máire, agus í ag críochnú na hArdeaglaise beaga ó thuas. "Tá an domhan le haghaidh daoine dána agus láidir!"
+"Mar sin, ní mór dúinn a bheith láidir," a dúirt Phaidí.
+"Caithfidh tú é a thaisceadh," a dúirt Máire.
+"Caithfimid go léir," a dúirt Phaidí.
+Agus ag an bpointe sin, ní raibh aon fhreagairt ag teastáil. Bhí a fhios acu go léir anois, cad ba cheart dóibh a dhéanamh.
+An Taisceoireacht Treise!
+</b>
+```

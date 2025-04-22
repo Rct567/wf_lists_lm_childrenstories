@@ -1,0 +1,37 @@
+<prompt>
+Please write a educational Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Aqlli Maymunlar va Sehrli Daryo'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>uz</lang_id>
+
+```uz
+<title>Aqlli Maymunlar va Sehrli Daryo</title>
+<body>
+Qadim zamonlarda, baland tog'laru yashil o'rmonlar ichida, juda aqlli maymunlar yashardi. Ular o'yin o'ynashni, meva terishni va o'zaro suhbatlashishni yaxshi ko'rishardi. Har bir maymunning o'ziga xos ismi va qiziqishlari bor edi. Misol uchun, katta-katta ko'zlari bilan mashhur bo'lgan Ziyod, she'r yozishga qiziqardi. Aqlli-yo'g'on tumshuqli Bobur esa, topishmoqlarni sevardi. Yaramas qiliqlari bilan tanilgan Shoxrux, doimo yangi sarguzashtlar izlar edi.
+
+Maymunlarning hayoti, asosan, tog' yonbag'rida joylashgan katta daraxtlarda o'tardi. Ular quyosh nurida isinib, shirin mevalardan bahramand bo'lishardi. O'rmonda, ular doimo yangi narsalarni o'rganishga intilishardi. Ziyod, kitob o'qishni bilmasada, daraxtlarga yozilgan xabarlarni tushunishga urinardi. Bobur, yosh daraxtlarning qaysi biridan eng shirin mevani topish mumkinligini bilishga harakat qilardi. Shoxrux esa, o'rmonning ichida yashiringan sirli joylarni izlardi.
+
+Bir kuni, ular o'rmon chetida joylashgan juda ham sirli bir daryoga duch kelishdi. Bu daryoning suvi kulrang edi va uning yonida g'aroyib gullar o'sardi. Daryoning nomini "Sehrli Daryo" deb atashgan. Afsonalarga ko'ra, bu daryo insonlarga aqlni va bilimlarni beradi. Har bir maymun daryoning sirini bilishga qiziqdi.
+
+Ziyod, ilk bor daryoga yaqinlashgach, uning suvida o'zining aksini ko'rdi. Uning ko'zlarida, qiziqish va hayrat uyg'ondi. Uning ich-ichidan o'zini yanada yaxshiroq anglashga intilish hissi paydo bo'ldi. Bobur esa, daryoning yonida turib, savol berishga tayyorlandi. "Sehrli Daryo, agar men savolimga javob olsam, yana ham aqlliroq bo'lamanmi?" Boburning savoliga, daryodan shivirlash ovozi eshitildi: "Savol qo'yish, javob izlash, aqlni o'stiradi." Shoxrux esa, daryoning ichiga sakrab tushishga jazm qildi. Lekin boshqa maymunlar uni to'xtatishdi, chunki ular afsonalarni eshitgandi, juda ehtiyotkor bo'lish kerak edi.
+
+Ular birgalikda, Sehrli Daryoni o'rganishga qaror qilishdi. Ular har kuni daryo yoniga kelib, uni kuzatib turishdi. Ziyod, daryo suviga qarab, xayol surishni boshladi. U o'zining ichki tuyg'ularini anglab yetdi. Bobur, daryoning yonidagi gullarni kuzatib, ularning nomlari va xususiyatlarini o'rgandi. U gul barglarida, yozilgan harflarga o'xshash belgilar topdi va ularni o'rganishga qiziqdi. Shoxrux esa, daryoning atrofida aylanib, uning atrofida nimalar sodir bo'lishini kuzatdi.
+
+Kunlar o'tdi. Maymunlar daryo bilan do'stlashdilar. Ziyod she'rlar yozishni boshladi. Uning she'rlari, tabiat go'zalligi va ichki hislar haqida edi. Bobur, gullarning sirli belgilari orqali, yozuvni o'rgandi. U o'ziga topishmoqlar tuzdi va ularga javob topdi. Shoxrux, o'rmon ichida yangi yo'llar topdi. U boshqa hayvonlar bilan do'stlashdi va ularning hayoti haqida hikoyalar eshitdi.
+
+Ular o'zlarining qiziqishlari va bilimlari orqali, o'sishda davom etdilar. Ular, o'zaro yordam berishni o'rgandilar. Ziyodning she'rlari, Boburning topishmoqlari va Shoxruxning sarguzashtlari, bir-birini to'ldirardi. Bir kuni, Ziyod bir she'r yozdi: "Sehrli Daryo, bizni birlashtirdi. Aqlimizni, bizga ato etdi." Bobur, bu she'rga javoban, topishmoq tuzdi: "Nima, do'stlikni mustahkamlaydi, bilimni ko'paytiradi va qo'rquvni yengadi?" Shoxrux javob berdi: "Albatta, bu hamkorlik!"
+
+Maymunlar tushundilar, Sehrli Daryo ularga haqiqiy bilim berish bilan birga, do'stlik, hamkorlik va qiyinchiliklarni birgalikda yengish qobiliyatini ham o'rgatdi. Ular, endi o'zlarini faqat maymun emas, balki o'zlarining aql va yuraklari bilan boshqa yaratilganlardan farqlanadigan mavjudotlar sifatida his qila boshladilar.
+
+Ularning hayoti davom etdi. Har kuni ular daryo yoniga kelishar, yangi narsalarni o'rganar va o'z bilimlari bilan o'rtoqlashar edilar. Ziyod, she'rlari bilan atrofdagilarni xursand qilar, Bobur topishmoqlar o'ylab topib, boshqalarni hayratga solardi, Shoxrux esa yangi joylarni topib, ularni o'rganardi.
+
+Ular yana ko'p vaqt davomida yashadilar va o'rgandilar. O'z bilimlarini boshqa hayvonlarga ham o'rgatdilar. Maymunlar, o'zining o'rmonini bilim va donolik o'lkasiga aylantirdilar. Ular o'zlarining donoligi bilan yuksaldilar. O'zgalarga yordam berish ularning asosiy maqsadiga aylandi. Shunday qilib, Sehrli Daryoning siri ularga ochildi. Daryoning sehri, ular tomonidan qo'lga kiritilgan bilimlar emas, balki ular qo'lga kiritgan donolik edi. Va bu donolik, do'stlik, hamkorlik va mehribonlik edi.
+</b>
+```

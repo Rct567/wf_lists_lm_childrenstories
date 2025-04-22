@@ -1,0 +1,35 @@
+<prompt>
+Please write a timeless Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Zahrada, kde rostly kouzelné květiny z pohádky'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Zahrada, kde rostly kouzelné květiny z pohádky</title>
+<body>
+Malá Anička žila v malebné vesničce pod Šumavou.  Její denní radostí bylo procházet se po lesních cestách, sbírat lesní plody a poslouchat šumění větví.  Jednoho slunečného odpoledne, když se Anička vracela z procházky, narazila na neobyčejnou zahradu.  Byla to zahrada, o které se v pohádkách vyprávělo.  Zdálo se, že čas v ní se zastavil.  Neobvyklé, zelené stromy s lesklými listy se tyčily k nebi a z jejich větví visely zářivé ovoce neznámých tvarů a barev.  A uprostřed zahrady, na zeleném koberci, se rozkládaly květiny, jaké Anička nikdy předtím neviděla.
+
+Květiny byly z pohádky!  Jedny s korunami z lesklého jantaru, jiné s okvětními lístky z perel.  Byly to květiny, které voněly sladce po medu a po tajemstvích starých lesů.  Anička se s úžasem dívala na ty kouzelné květiny.  Chtěla je ochutnat, ale bála se, že by je mohla zničit.  Znenadání se před ní objevil starý, laskavý zahradník.  Jeho vousy byly bílé jako sníh a jeho oči jako dvě lesklé hvězdy.
+
+"Ahoj, malá Aničko," usmál se zahradník.  "Těší mě, že jsi objevila mou zahradu.  Je to místo, kde rostou kouzelné květiny z pohádky.  Ale pozor," dodal s vážným tónem, "květiny jsou chráněny tajemstvím a jejich moc je velká."
+
+"Jakou mocí?" zeptala se Anička s úžasem.
+
+"Každá květina skrývá v sobě kus pohádky," vysvětlil zahradník.  "Jedna ti může splnit přání, druhá ti ukáže cestu k tvým snům, a třetí ti dá sílu překonat všechny překážky."
+
+Anička se s úžasem dívala na květiny.  Kterou si vybere?  Která květina skrývá to pravé kouzlo?  Rozhodla se, že si nejprve prohlédne všechny květiny, než se rozhodne.  Začala u květiny s korunou z lesklého jantaru.  Její vůně byla tak nádherná, že Anička se cítila, jako by vlétla do pohádkového lesa.  Pak se přiblížila k květině s perlovými okvětními lístky.  Její vůně jí připomínala její maminku a její laskavé objetí.
+
+Po chvíli se Anička rozhodla.  S nádechem vybrala květinu s korunou z hedvábně modrých lístků.  Byla to květina, která voněla po sladkých jahodách a po sluncem zalitém létě.  S úctou ji utrhla.  V tu chvíli se zahrada rozzářila neobyčejným světlem a do Aniččiny mysli se vlétly krásné obrázky.  Viděla se v roli statečné princezny, která zachraňuje království před zlem.
+
+"Děkuji," řekla Anička.  "Doufám, že můžu tuto moc využít pro dobro."
+
+Zahradník se usmál.  "To je správná volba, Aničko.  Tato květina ti dá sílu, aby ses stala hrdinkou.  Ale pamatuj, moc musíš používat s rozumem a moudrostí."
+
+Anička se s květinou v ruce vrátila do své vesnice.  O své zážitky se s nikým nepodělila.  Ale v srdci cítila, že se stala součástí kouzelného světa, světa pohádkových květin.  A když se později v životě potýkala s těžkostmi, vždy si vzpomněla na zahradu, kde rostly kouzelné květiny z pohádky a na moudré slovo starého zahradníka.  A tak, Anička, dívka z malé vesničky pod Šumavou, se stala hrdinkou vlastního příběhu.  A její dobrodružství se stále rozvíjela, s každým novým dnem, s každým novým kouzlem.
+</body>

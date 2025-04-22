@@ -1,0 +1,109 @@
+<prompt>
+Please write a silly Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Bạn Sên con chậm chạp và hành trình về nhà.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>vi</lang_id>
+
+```xml
+<title>Bạn Sên con chậm chạp và hành trình về nhà.</title>
+<body>
+Ngày xửa ngày xưa, ở một khu vườn rau xanh mướt, có một bạn Sên con tên là Sên Sún. Sún là một bạn sên rất, rất, rất chậm chạp. Đến mức, đôi khi, Sún còn tự hỏi liệu mình có phải là sên không nữa. Những người bạn ốc sên khác thì cứ vèo vèo bò đi, chỉ trong chớp mắt đã vượt xa Sún. Còn Sún, cứ từ từ, chậm rãi, bò từng centimet một.
+
+Một buổi sáng đẹp trời, khi ánh nắng mặt trời vàng ươm len lỏi qua những lá rau xanh, Sún quyết định đi khám phá khu vườn. “Mình phải đi xem thế giới rộng lớn này như thế nào chứ!” Sún tự nhủ, trong khi cố gắng xoay xở bò qua một chiếc lá rau diếp cá.
+
+“Chào Sún!” Một giọng nói vang lên. Sún ngẩng đầu lên, nhìn thấy một chú bướm xinh đẹp đang đậu trên một bông hoa cúc vàng.
+
+“Chào bạn Bướm!” Sún đáp, giọng nói có phần thở dốc vì vừa bò qua một đoạn đường khá dài.
+
+“Bạn đi đâu thế?” Bướm hỏi.
+
+“Mình đang đi khám phá khu vườn!” Sún vui vẻ trả lời.
+
+“Thế thì cẩn thận nhé. Khu vườn này có nhiều điều thú vị, nhưng cũng có nhiều điều nguy hiểm đấy.” Bướm cảnh báo. “Đặc biệt là anh Ba Ba Mập Mạp, anh ấy thích ăn sên lắm đó.”
+
+“Ba Ba Mập Mạp?” Sún lo lắng hỏi. “Vậy mình phải cẩn thận thôi!”
+
+Thế là Sún con bắt đầu cuộc hành trình khám phá của mình. Cậu ta bò qua những luống rau muống xanh mướt, ngửi thấy mùi thơm của những quả cà chua chín đỏ, và nhìn thấy những con kiến chăm chỉ tha thức ăn về tổ. Cậu ta còn gặp cả một chị Châu Chấu xinh đẹp đang chơi đàn tì bà.
+
+"Chào chị Châu Chấu!" Sún cất tiếng chào.
+
+"Chào bạn Sên!" Chị Châu Chấu đáp. "Bạn đi đâu thế?"
+
+"Tôi đang đi khám phá khu vườn!" Sún lại trả lời.
+
+"Cẩn thận nhé. Đừng đi gần bụi cây xương rồng, gai của nó sắc nhọn lắm đấy!"
+
+Sún cảm ơn chị Châu Chấu và tiếp tục cuộc hành trình của mình.
+
+Tuy nhiên, sự chậm chạp của Sún lại gây ra một vài tình huống dở khóc dở cười.
+
+Khi đến gần một vũng nước, Sún muốn uống một ngụm nước mát. Nhưng khi cậu ta bò đến nơi, vũng nước đã cạn mất rồi. "Ôi thôi, chắc mình phải đi tìm một vũng nước khác thôi." Sún thở dài.
+
+Đến khi trời bắt đầu xế chiều, Sún vẫn còn chưa đi được bao xa. Bụng thì bắt đầu cồn cào vì đói. Sún muốn tìm một chiếc lá rau để ăn nhưng vì quá chậm, những chiếc lá ngon lành đều đã bị những bạn ốc sên khác ăn mất rồi.
+
+Đột nhiên, Sún nghe thấy một tiếng ồm ồm phía sau. "Rõ là Sên Sún chậm chạp!"
+
+Sún giật mình quay lại. Thì ra là Ba Ba Mập Mạp! Anh Ba Ba, to lớn, béo tốt, đang nheo mắt nhìn Sún với vẻ mặt thèm thuồng.
+
+Sún hoảng sợ vô cùng. Cậu ta cố gắng bò thật nhanh, nhưng tốc độ của cậu vẫn cứ là...chậm như sên. Anh Ba Ba Mập Mạp cứ thế đuổi theo.
+
+"Chết mình rồi!" Sún nghĩ thầm. "Mình phải làm gì bây giờ?"
+
+Chạy không được, trốn không xong. Đột nhiên, Sún nhớ ra lời khuyên của bạn Bướm: "Khu vườn này có nhiều điều thú vị, nhưng cũng có nhiều điều nguy hiểm đấy." Và cả lời khuyên của chị Châu Chấu: "Đừng đi gần bụi cây xương rồng, gai của nó sắc nhọn lắm đấy!"
+
+Trong lúc hoảng loạn, Sún bỗng nhiên nhìn thấy một bụi cây xương rồng to lớn. Ngay lập tức, cậu ta quyết định liều mình. Sún bò nhanh nhất có thể (dù vẫn chậm chạp), hướng về phía bụi xương rồng.
+
+Anh Ba Ba Mập Mạp vẫn đang đuổi theo, há miệng muốn đớp lấy Sún. Nhưng rồi, "Bụp!"... anh Ba Ba đâm sầm vào bụi xương rồng.
+
+"Á á á… đau quá… gai… gai…" Anh Ba Ba Mập Mạp kêu la thảm thiết. Những chiếc gai nhọn đã đâm vào người anh ta, khiến anh ta không thể di chuyển được nữa.
+
+Sún thở phào nhẹ nhõm. Cậu ta quay lại nhìn anh Ba Ba đang loay hoay gỡ gai.
+
+"Anh Ba Ba, anh có sao không?" Sún hỏi.
+
+Anh Ba Ba Mập Mạp tức giận nhưng cũng không thể làm gì được. Anh ta nhìn Sún, rồi lại nhìn vào những chiếc gai xương rồng.
+
+"Thôi được rồi, ta không ăn ngươi nữa." Anh ta nói, giọng đầy cay cú. "Nhưng lần sau đừng có mà gặp ta!"
+
+Sún cảm thấy nhẹ nhõm và vui mừng vì đã thoát khỏi nguy hiểm. Cậu ta quyết định quay trở lại con đường của mình.
+
+Trên đường về, Sún lại gặp bạn Bướm.
+
+"Bạn Bướm ơi, mình suýt chút nữa thì bị anh Ba Ba ăn thịt rồi!" Sún kể lại một cách hào hứng.
+
+"Thế sao? May mắn là bạn đã gặp bụi xương rồng đấy!" Bướm nói.
+
+"Đúng vậy! Mình còn nhớ cả lời khuyên của chị Châu Chấu nữa." Sún đáp.
+
+"Khu vườn này, dù có nhiều điều thú vị, nhưng cũng tiềm ẩn nhiều nguy hiểm. Quan trọng là bạn đã biết cách xử lý tình huống." Bướm nói, vỗ cánh khuyến khích Sún.
+
+"Nhưng bây giờ thì mình phải về nhà thôi. Trời tối rồi." Sún nói.
+
+"Ừ, về nhà thôi." Bướm đáp.
+
+Sún tiếp tục hành trình về nhà. Lần này, cậu ta đi chậm hơn mọi khi, nhưng trong lòng đầy sự tự tin và hiểu biết. Cậu ta biết rằng, dù chậm chạp đến đâu, thì sự thông minh, nhanh trí và biết lắng nghe lời khuyên vẫn có thể giúp cậu ta vượt qua mọi khó khăn.
+
+Khi về đến nhà, Sún nhìn thấy mẹ Sên đang lo lắng chờ đợi.
+
+"Sún ơi! Mẹ lo cho con quá!" Mẹ Sên ôm chầm lấy Sún.
+
+"Mẹ ơi, con đã khám phá khu vườn. Con đã gặp anh Ba Ba, nhưng con không sao cả." Sún kể lại những gì đã xảy ra cho mẹ nghe.
+
+Mẹ Sên mỉm cười. "Con trai mẹ đã lớn rồi! Dù con chậm chạp, nhưng con đã rất dũng cảm."
+
+Sún ôm mẹ và cảm thấy hạnh phúc vô cùng. Cậu ta biết rằng, ngôi nhà chính là nơi ấm áp nhất, là nơi cậu có thể cảm thấy an toàn và yêu thương nhất.
+
+Đêm hôm đó, Sún nằm trên chiếc giường nhỏ của mình, suy nghĩ về cuộc hành trình ngày hôm nay. Cậu ta nhận ra rằng, đôi khi, sự chậm chạp không phải là điều gì quá tồi tệ. Nó giúp cậu ta quan sát kỹ hơn mọi thứ xung quanh, và suy nghĩ thấu đáo hơn trước khi đưa ra quyết định.
+
+Và từ đó, bạn Sên Sún vẫn tiếp tục cuộc sống chậm chạp của mình. Cậu ta khám phá khu vườn mỗi ngày, học hỏi những điều mới mẻ, và luôn trân trọng những người bạn xung quanh. Dù có gặp khó khăn, cậu ta vẫn luôn dũng cảm và tự tin vào bản thân.
+
+Sáng hôm sau, khi những tia nắng đầu tiên chiếu rọi vào khu vườn, Sún con lại bắt đầu một ngày mới với nụ cười trên môi, chậm chạp nhưng đầy hạnh phúc.
+</body>
+```

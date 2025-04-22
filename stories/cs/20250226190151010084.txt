@@ -1,0 +1,42 @@
+<prompt>
+Please write a silly Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'O princezně, která tančila s vílou'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>O princezně, která tančila s vílou</title>
+<body>
+Princezna Alžběta nebyla obyčejná princezna.  Neměla ráda plesy, kde se všichni křečovitě usmívali a snažili se vtipy, které nikoho nebavily, servírovat co nejrychleji.  Alžběta preferovala tiché procházky v zámeckém parku,  kde se shlížela s  květmi a  poslouchala šumění stromů. Její zlaté vlasy jí vpadaly do očí, když se dívala na světýlka broučků, a cítila se, jako by  již  nikdy nepřestala objevovat kouzlo světa.
+
+Jednoho slunného odpoledne, když si Alžběta vymalovávala z kamínků obrazky ve stínu dubu, slyšela neobvyklý šumění.  Nejprve to znělo, jako by si po lese běželo desetitisíce drobných myšek, pak  jako  tiché šplouchání v rybníčku a nakonec se měnilo v neobvyklý, melodicky slastný zpěv.  Alžběta se zarazila.  Zvedla hlavu a hleděla  do  vrchní části  stromů,  kde se skrýval stín.
+
+A tam ji viděla.  Malinkou vílu s křídly lesklými jako modré safíry.  Kolem víly tancovaly zářivé, flitrované papírové motýlci a ozdovaly stromy.  Víla zpívala píseň tak sladkou a zábavnou, že ji zatahovaly do víru zábavné melodie i stromy. Alžběta ztuhla úžasem. Takové krásné zvíře si nikdy nepředstavovala.  Nikdy ji nic takového na hradě nepředvedli. Víla se směla, a to s tak neobvyklou,  mírně šišlající radostí, že jí Alžběta musela úsměv vynadat na její rty.
+
+„Dobrý den," ozvalo se vtipem sladký hlas víly.  „Nevěděla jsem, že na zámku také máme diváka. Myslím, že tvé úžasem rozširované oči líčí celou příběhu! Zdá se, že se s tímhle šumivým hřištěm nemůžete rozloučit.”
+
+Alžběta se zhluboka nadechla a odpověděla: „Dobrý den. Jsem princezna Alžběta. A co je to za zábavu? Cítím, jako by stromy byly živé!"
+
+Víla se zasmála melodičtěji a mávnutím křídel rozptýlila  jiskry  do všech  stran. "Tohle je taneční párty Stromů s Vítrkem! A já jsem Vlka-Víla. Ty to taky vidíš, Alžběto?  Myslím, že tam máš nádherný záblesk inspirace."
+
+„Taneční párty?“ zeptala se Alžběta s úžasem. „S tímto Stromy s Vítrkem, slyším melodii?”
+
+„Jasně,“ potvrdila Vlka-Víla. „Dokud  zůstáváš  s námi, nevidíme žádný důvod k ukončení! My se s tebou ročně sejdou! Ale přidej se k tanci! Jde to!  Začne to s šuměním a končí tancem všech listů!“
+
+Alžběta se nadšením  začervenala.  Bylo to nejzábavnější, co kdy slyšela.  Ostrá rytmika zní v šumění lesních listů.  Postavila se do kroku s Vlka-Vílou a dali se do šikmého tancování, jak jim s hudbou šlo z duše.  Klíčky rostliny se otáčeli, kameny zrychlovali rytmus. Alžběta se dívala, s ohromným obdivem, co s vílou udělala a začala tančit s radostným posměchem.
+
+S vílou tančila hodiny.  Proplétaly se mezi tancem stromů, jejich taneční kroky byly stejně sladké a neobvyklé jako poselství listů a květů. Alžběta cítila, jak se její srdce rozvíjí a její smysl pro humor prolézá. Srdce se otevírá s každým pohybem listů a šuměním, které stvořila Alžběta sama.
+
+Nakonec, když se slunce  začalo skrývat  za obzorem a barvy na obloze začaly blikající, pověděla Alžběta Vlka-Víle: "Chci se naučit tento tanec líp, Vlka-Víla!"
+
+
+"Takže máš smysl! Vždycky je radost učit novým fanouškům!" odpovídá jí Vlka-Víla a rozvěšuje ji papírové motýly, abys se cítila šťastně! "Je nám radost dělat s vámi vše společně, Alžběto!"
+
+A  tak princezna Alžběta, která neměla ráda plesy, ale měla srdce plné lásky a zájmu pro tanec, se s vílou stala blízpečnou přátelkou.  Každé odpoledne se shromažďovaly ve stínu stromů a tancovaly, až se v nich všech skrývaly šťastné tóny přírody. A lidé se jich všichni dělili.  A zámecký park, s Alžbětou a Vlka-Vílou v něm,  zaplnil harmonicky ladný zpěv  tancovního radovánky.
+</body>

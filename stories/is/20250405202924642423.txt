@@ -1,0 +1,54 @@
+<prompt>
+Please write a educational Icelandic children's story that is at least 1000 words long.
+It must be completely written in proper Icelandic (IS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Hinir Dásamlegu Draugar og Mikilvægi Hlaupa Um Fjöllin'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>is</lang_id>
+
+```xml
+<title>Hinir Dásamlegu Draugar og Mikilvægi Hlaupa Um Fjöllin</title>
+<body>
+Einu sinni fyrir langa, löngu, í ísköldu og töfrandi Íslandi, bjó hópur dásamlegra drauga. Þeir lifðu í fallegum dal, umlukt af háum fjöllum og fossa sem sungu í vindinum. Þessir draugar voru ekki eins og draugar í myrkum sögum. Þeir voru glaðlegir, litríkir og ákaflega áhugasamir um allskonar skemmtileg ævintýri.
+
+Í þessum hópi voru nokkrir draugar sem stóðu upp úr. Fyrst var Ljósbjartur, draugurinn með silfurhárin og bros sem skein eins og sólin á sumardegi. Hann elskaði að læra nýja hluti og var alltaf með bók í höndunum. Svo var Straumrún, draugurinn með bláa hárið og augun eins og hafið. Hún var sterk og hraust og elskaði að synda í ísköldu vötnunum. Síðan var Hrímsól, draugurinn með rauða hárið og hjarta sem sló eins og trommur. Hún elskaði tónlist og dans og gat látið fólk dansa af gleði með tónum sínum. Og að lokum, Sæfinn, draugurinn með græna hárið og brosið sem minnti á vor. Hann var kurteis, klár og með einstakt lag á dýrum og náttúru.
+
+Einn daginn, þegar sólin var að lita fjöllin bleik og gyllt, fannst Ljósbjarti undarlegur hlutur. Hann var að blaða í gegnum gamlar bækur þegar hann rakst á töfrandi kort. Á kortinu var lýsing á týndu rústum sem sagðar voru vera fullar af dýrmætum gimsteinum og dulúðlegum sögum. Kortið sagði einnig að leiðin að rústunum væri löng og krefjandi og myndi þar að auki reyna á þrek, hugrekki og samstarf.
+
+"Vá!" sagði Ljósbjartur, augun stór af undrun. "Þetta verðum við að fara!"
+
+Hann flýtti sér að leita uppi hina draugana og sýndi þeim kortið. Hrímsól tók undir strax. "Hljómar eins og ævintýri!" hún hrópaði, trommurnar í hjarta sínu byrjuðu að slá hraðar.
+
+Straumrún og Sæfinn voru líka spennt. "Við þurfum að undirbúa okkur," sagði Straumrún. "Það verður mikil vinna að komast yfir fjöllin."
+
+"Við þurfum að hafa vatn og mat," bætti Sæfinn við, "og vita eitthvað um hvaða dýr gætum við hitt á leiðinni."
+
+Ákvörðunin var tekin: draugarnir ætluðu að leggja af stað í ævintýri. Þeir söfnuðu öllum nauðsynlegum hlutum. Ljósbjartur pakkaði niður nokkrum bókum til að læra, Straumrún tók vatnsflöskur og sterkan mat, Hrímsól tók hljóðfærið sitt til að spila tónlist og Sæfinn tók útihús dýraverndunarbókar til að fræðast.
+
+Snemma morguns, þegar sólin var rétt að byrja að rísa yfir fjöllin, stóðu draugarnir saman við rætur fjallsins. Þeir hughreystu sig og lögðu af stað.
+
+Fyrsta daginn var landslagið erfitt. Þeir klifu brattar brekkur, stukku yfir fossana og fóru varlega yfir steinana. Ljósbjartur var fljótur að átta sig á leiðinni og leiðbeina hópnum, meðan Straumrún hjálpaði með að fara yfir grýttari hluta leiðarinnar. Hrímsól spilaði á tónlistarhljóðfæri sitt til að gefa þeim orku og hressa þau. Sæfinn horfði alltaf vel á náttúruna í kringum þau, og sagði áhugaverðar staðreyndir um dýralíf, plöntur og jarðfræði.
+
+Á öðrum degi, komu þeir að stóru svæði sem kallað var Skjaldmærudalurinn. Hrímsól, varð að söngvaborg; hún samdi hvetjandi söng sem hressaði og hjálpaði öllum að halda áfram, og draugarnir byrjuðu að læra leiðir og undra sig á fegurð fjallana. Á daginn sem átti eftir kom þoka yfir fjöllin og draugarnir lentu í vandræðum með að finna veginn. En Straumrún vissi hvernig ætti að leysa úr vandræðum, þá hún hjálpaði til við að kortleggja og sýna leiðina fyrir aðra. Hún leiðbeindi þeim yfir steina, undir trjám og áfram upp til rústirnar.
+
+Þegar kvöldaði, og þreyttir, þurftu þeir að finna skjól. Sæfinn, sem hafði rannsakað tré og jurtir leiðarinnar, fann helli sem þau gætu sofið í.
+
+Í hellinum, undir stjörnubjörtu himni, skiptust þau á sögum um daginn. Ljósbjartur sagði frá hversu mikilvægt það væri að vera flókið og læra nýja hluti. Straumrún deildi ást sinni á að vera sterk og þegar hjálpa. Hrímsól sagði frá óendanlegri orku og undraverkum tónlistarinnar og hversu mikilvægt er að gleðja hvern annan. Og Sæfinn sagði hversu mikilvægt var að þekkja dýr og virða umhverfið okkar.
+
+Á þriðja degi komu draugarnir að dularfullum foss. Hann virtist loka leiðina, svo draugarnir stóðu og skoðuðu hann. Ljósbjartur áttaði sig á því að ef þeir klifu í kringum fossinn, gætu þeir farið yfir. Með þolinmæði og hjálp Hrímsólar klifu þeir upp og voru yfir fossinum.
+
+Á loksins fjórða degi sáu draugarnir loksins rústirnar. Þær voru stórar og fallegar, úr steini, falnar af sígrænum plöntum og með djúpum leyndarmálum. Þeir fundu hellisskjól þar sem var fjársjóður og bækur. Draugarnir fóru að skoða gimsteinana og sögur rústanna.
+
+Í ljós kom að gimsteinarnir voru ekki dýrmætir steinar sem gefa auð, heldur fallegir kristallar sem lýstu hverja lita sem dröngunum eiga að tileinka lífi sínu: Ljósbjarts lærdóm, Straumrúns styrk, Hrímsólar gleði og Sæfinns viðskiptasambönd og virðingu.
+
+Eftir að hafa lært lexíu úr sögum og verið metnir á gildi hvers eins, ákváðu draugarnir að fara aftur heim, með dýrmæta lærdóma í hjörtum sínum. Þeir áttuðu sig á mikilvægi þess að vera sterkur, hugrakkur og vinna saman til að ná árangri, eins og Straumrún og hinir sýndu. Þeir vissu að að þrauka í gegnum erfiðleika og viðhalda gleði sinni var mikilvægt, eins og Hrímsól hafði sýnt. Og þau áttuðu sig á mikilvægi þess að vera vinir, læra og virða náttúruna, eins og Sæfinn hafði sýnt.
+
+Þegar þeir komu aftur í dalinn sinn, áttu draugarnir saman, samheldnari en nokkru sinni fyrr. Þau höfðu ekki aðeins fundið gimsteina og rústir, heldur höfðu þau fundið hamingjuna í sjálfum sér og virkilega mikilvægi hlaupa um fjöllin - mikilvægi vináttu, þekkingu, styrk, gleði og virðingu fyrir náttúrunni. Það var ómetanlegur fjársjóður, þessari gæfu draugarnir lifðu í allan sinn ævi. Þeir vissu líka, að mikilvægi þess að vera alltaf vinir, ævintýra, læra og sýna hvern annan vináttu og stuðning.
+Þessir dásamlegu draugar, halda áfram að hlaupa um fjöllin í dag, til að læra nýja hluti, finna ást í hvert og einasta skrefi, og minna allra að mikilvægi lífsins er í upplifunum og samstarfi. Og með þeim dýrmætum dýrmætum lexíum hja hjarta sér, hlaupa draugarnir alltaf um fjöllin, til að njóta þess að vinna, læra, hjálpa hver öðrum, gera gleði og þekkja umhverfið og gildi vináttunnar, um alla ævi.
+</body>
+```

@@ -1,0 +1,81 @@
+<prompt>
+Please write a relatable French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La Fille et le Hibou et la Lettre Enchantée'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```xml
+<title>La Fille et le Hibou et la Lettre Enchantée</title>
+<body>
+Dans le charmant village de Fleurville, blotti au creux d'une vallée verdoyante, vivait une petite fille nommée Élise. Élise, avec ses couettes rousses et ses yeux pétillants, était connue pour son imagination débordante et son amour des histoires. Elle adorait passer ses après-midi à explorer les bois qui entouraient le village, toujours à la recherche de nouvelles aventures.
+
+Un soir d'automne, alors que les feuilles d'or et de pourpre tourbillonnaient dans le vent, Élise se sentait particulièrement curieuse. Elle avait découvert un nouveau sentier caché derrière le grand chêne centenaire, un sentier qui semblait mener vers un endroit mystérieux. Avec son courage et une lanterne vacillante, elle s'aventura dans les ténèbres.
+
+Le sentier serpentait à travers une forêt enchantée, éclairée par le clair de lune et le scintillement de minuscules lucioles. Le bruit des feuilles craquant sous ses pieds la rassurait. Soudain, au détour d'un buisson de rosiers sauvages, elle aperçut quelque chose d'inattendu : un grand hibou aux plumes d'un brun roux, perché sur une branche. Le hibou, aux yeux brillants comme des émeraudes, semblait l'attendre.
+
+Élise, fascinée, s'approcha prudemment. Le hibou inclina sa tête, comme pour la saluer. "Qui êtes-vous ?" demanda Élise, la voix tremblante d'excitation.
+
+"Je suis Archibald," répondit le hibou d'une voix grave et mélodieuse. "Et je sais que tu cherches quelque chose."
+
+Élise, surprise, se demanda comment Archibald pouvait savoir cela. Elle réfléchit un instant, puis se souvint de son désir secret : elle voulait plus que tout vivre une véritable aventure, une de celles qui restent gravées dans le cœur.
+
+"Oui," répondit-elle, "je recherche une aventure."
+
+Archibald hocha la tête. "Je peux t'aider," dit-il. "J'ai été chargé de protéger une lettre enchantée. Cette lettre est la clé de nombreuses aventures, mais elle est perdue. Seule une personne au cœur pur et courageux peut la retrouver."
+
+Les yeux d'Élise s'écarquillèrent. Une lettre enchantée ! L'idée était absolument incroyable. "Comment puis-je la trouver ?" demanda-t-elle.
+
+"Tu devras résoudre des énigmes et surmonter des épreuves," expliqua Archibald. "Le premier indice se trouve près de la rivière enchantée, sous le plus grand saule pleureur."
+
+Élise, le cœur battant à tout rompre, accepta la mission avec enthousiasme. Archibald prit son envol, disparaissant dans l'obscurité, la laissant seule avec sa lanterne et une nouvelle quête.
+
+Elle courut vers la rivière enchantée, située à quelques pas de là. La rivière, sous le clair de lune, brillait d'une lumière argentée. Elle trouva rapidement le saule pleureur, ses branches tombant gracieusement vers l'eau. En dessous, cachée parmi les racines, elle découvrit un petit parchemin.
+
+Elle le déplia avec précaution. Sur le parchemin, était écrit : *"Je garde une vérité cachée, où la gourmandise est révélée. Cherche dans le lieu où le plaisir se crée, là où le sucre est roi et la joie est célébrée."*
+
+Élise réfléchit. Où le plaisir est-il célébré ? Où le sucre est-il roi ? Puis, tout à coup, elle comprit ! La pâtisserie de Madame Dubois, bien sûr ! La pâtisserie, connue pour ses délicieux gâteaux et ses friandises enchantées.
+
+Elle se rendit en courant à la pâtisserie. La vitrine regorgeait de merveilles : des éclairs au chocolat brillants, des macarons colorés et des tartes aux fruits alléchantes. Elle demanda à Madame Dubois, une dame gentille au sourire chaleureux, si elle pouvait l'aider.
+
+"Une énigme ? Pour trouver une lettre enchantée ?" s'étonna Madame Dubois. "Voyons… suis-moi, petite."
+
+Madame Dubois l'emmena dans l'arrière-boutique, remplie d'odeurs exquises de vanille et de beurre. Elle désigna un grand coffre en bois. "Dans ce coffre, se trouve le deuxième indice," dit-elle. "Mais il faut que tu prouves ta valeur. Prépare-moi un gâteau."
+
+Élise, surprise, accepta le défi. Elle n'avait jamais préparé un gâteau toute seule auparavant, mais elle était déterminée. Avec l'aide de Madame Dubois, elle mélangea les ingrédients, ajouta des œufs, de la farine et du sucre. Elle remplit le moule, et mit le gâteau au four.
+
+Pendant que le gâteau cuisait, Madame Dubois lui raconta des histoires sur les recettes enchantées et la joie qu'elles apportaient. Quand le gâteau fut doré et prêt, Madame Dubois sortit le coffre en bois. À l'intérieur, se trouvait une petite boîte en argent. Élise ouvrit la boîte avec précaution. À l'intérieur, un autre message : *"Là où la connaissance s'épanouit et les histoires s'écoutent, ton prochain pas, dans un lieu se raconte."*
+
+Cette fois, l'énigme était plus simple. La bibliothèque du village !
+
+Élise courut à la bibliothèque. Elle fouilla parmi les rayons, à la recherche d'un indice. Le bibliothécaire, Monsieur Leroux, un homme grand et mince, l'observait attentivement. Elle finit par trouver une pile de livres, dont l'un était ouvert à la page qui contenait un marque-page. Elle sortit le marque-page. Il contenait une phrase : *"La dernière épreuve, sous la garde d'une vieille Dame, est au cimetière de l'aube, où chaque cœur est en flammes."*
+
+Le cimetière ? Élise frissonna légèrement. Elle n'avait jamais visité le cimetière toute seule. Mais elle savait qu'elle devait être courageuse.
+
+Elle se rendit au cimetière. Le vent sifflait entre les tombes. Au centre du cimetière, se trouvait une vieille dame assise sur un banc, entourée de roses rouges. Elle semblait très âgée, mais ses yeux pétillaient d'une intelligence particulière.
+
+"Qui êtes-vous ?" demanda Élise.
+
+"Je suis la Gardienne des Secrets," répondit la vieille dame. "Et je sais que tu cherches la lettre enchantée. Mais tu dois prouver que tu es digne de la posséder."
+
+La Gardienne des Secrets donna à Élise une énigme : *"Je parle sans bouche et j'entends sans oreilles. Je n'ai pas de corps, mais je suis toujours près de toi. Qu'est-ce que je suis ?"*
+
+Élise réfléchit. Sans bouche...sans oreilles...toujours près de nous...Elle comprit ! "La pensée !" s'exclama-t-elle.
+
+La Gardienne des Secrets sourit. "Juste," dit-elle. "Tu as réussi. Mais la lettre n'est pas la fin, mais le début de votre aventure."
+
+La Gardienne lui donna alors une clé, puis une petite enveloppe délicatement ouvragée.
+
+Élise ouvrit l’enveloppe, espérant y trouver la lettre. À l'intérieur, il y avait une autre enveloppe. Sur cette enveloppe, l'inscription disait "Pour Élise, dans les bras de l'aventure." Lorsqu'Élise ouvrit cette enveloppe, à sa plus grande surprise, la lettre à l'intérieur était totalement vierge. Seul un point scintillant, une petite étincelle lumineuse avait apparu sur le papier.
+
+Dès que l’étincelle scintilla, toute sa vie commença à se transformer. La rivière devant elle devint soudainement luminescente, des fleurs de toutes les couleurs apparurent, des animaux s’approchèrent, semblant saluer Élise. Archibald apparut, avec un sourire. Il s'inclina respectueusement devant elle. "Vous avez enfin trouvé l'aventure, Élise. La magie se trouve en vous. Ce que vous ressentirez, imaginerez et ferez. Voici la suite de votre récit."
+
+Elle sentit son cœur s’épanouir. Elle savait, maintenant, que les aventures ne se trouvent pas dans une lettre ou sur un parchemin, mais dans la force de son imagination, dans sa bonté et son courage. L’aventure ne faisait que commencer.
+</body>
+```

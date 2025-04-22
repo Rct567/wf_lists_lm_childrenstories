@@ -1,0 +1,50 @@
+<prompt>
+Please write a uncomplicated Dutch children's story that is at least 1000 words long.
+It must be completely written in proper Dutch (NL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>nl</lang_id>
+
+```html
+<title>De Avonturen van Pip en de Verdwenen Koekjes</title>
+<body>
+<p>Het was ochtend in het gezellige, kleine dorpje Zonnebloem. De zon scheen vrolijk door de ramen en de vogels floten een vrolijk liedje. In een klein, rood huisje woonde Pip, een kleine, nieuwsgierige muis. Pip had bruine ogen, een zachte vacht en een grote liefde voor… koekjes!</p>
+
+<p>Vandaag was een bijzondere dag, want Pip had een hele grote pot koekjes van zijn mama gekregen. "Wees voorzichtig met de koekjes, Pip," had Mama Muis gezegd, "ze zijn voor de hele week!" Pip knikte ijverig en zette de pot koekjes op de keukentafel. De koekjes waren heerlijk; er zaten chocoladekoekjes, vanillekoekjes en zelfs een paar koekjes met glazuur op. Pip keek ernaar met stralende ogen.</p>
+
+<p>Even later speelde Pip buiten in de tuin. Hij rolde zich door het gras, klom in een kleine boom en kletste met zijn vrienden. Er waren Bas de eekhoorn, die altijd op zoek was naar noten, en Lotte de lieveheersbeestje, die vrolijk over de bloemen heen vloog. Ze speelden verstoppertje tussen de zonnebloemen, de gele bloemblaadjes die net zo vrolijk straalden als de zon.</p>
+
+<p>Toen de middag aanbrak, kreeg Pip plotseling trek. "O, ik heb trek," piepte Pip. Hij rende terug naar huis, zijn kleine pootjes maakten een zacht tik-tik-tik op de stenen weg. Hij wilde één klein koekje uit de pot pakken, gewoon om de trek te stillen. Maar toen Pip de keuken binnenkwam, schrok hij zich rot!</p>
+
+<p>De pot koekjes… was leeg! Niet helemaal leeg, maar er waren een heleboel koekjes verdwenen. Pip knipperde met zijn ogen. Hij herinnerde zich dat hij de pot op de tafel had gezet. Hoe kon dit nu gebeuren? "Oh nee," fluisterde Pip. "Mijn koekjes! Wie heeft mijn koekjes gestolen?"</p>
+
+<p>Pip voelde zich verdrietig. Hij hield zo van zijn koekjes. En nu… waren ze weg. Hij wist zeker dat hij ze niet zelf had opgegeten. Met een zucht begon Pip te denken wie de koekjes gestolen zou kunnen hebben. "Het moet iemand zijn die heel erg van koekjes houdt," mompelde hij tegen zichzelf.</p>
+
+<p>Eerst ging Pip naar Bas de eekhoorn. "Bas, heb jij misschien mijn koekjes gezien?" vroeg Pip bezorgd. Bas keek verbaasd. "Koekjes? Nee Pip, ik was de hele dag op zoek naar lekkere noten in het bos. Ik heb geen tijd voor koekjes, ik houd meer van noten!" Pip vertrouwde Bas. Hij had gelijk, Bas was gek op noten. En noten zaten er toch al genoeg in de tuin van Pip.</p>
+
+<p>Vervolgens ging Pip naar Lotte de lieveheersbeestje. Hij vond Lotte op een grote zonnebloem. "Lotte, heb jij misschien iets gezien? Zijn er koekjes verdwenen?" Lotte lachte en wapperde met haar rode vleugels. "Pip, ik was de hele tijd aan het vliegen en heb met bloemen gekletst. Koekjes lijken me zo zwaar, ik kan ze toch niet meedragen!" Lotte leek onschuldig, ze was altijd zo vrolijk. Pip vertrouwde Lotte.</p>
+
+<p>Pip zuchtte diep. Bas had het niet gedaan. Lotte had het niet gedaan. Maar wie dan wel? Hij besloot zijn huis te doorzoeken. Misschien was er wel een spoor van koekkruimels, of iets anders dat hem kon helpen de koekjesdief te vinden. Hij zocht onder de tafel, achter de stoelen en in de kast. Niets.</p>
+
+<p>Toen Pip opkeek, zag hij iets. Er lag een klein, bruin puntje op de grond bij de deur. Pip bukte zich en bekeek het beter. Het was… een koekje! Maar het was geen heel koekje. Het was een klein, afgebroken stukje chocoladekoekje. Pip wist precies welk koekje dit was. De chocoladekoekjes waren zijn favoriet.</p>
+
+<p>Pip keek om zich heen. Waar kon het afgebroken stukje koekje vandaan komen? Hij volgde het spoor van kruimels. Het spoor leidde naar de deur en naar buiten. Pip volgde het spoor. Het ging door de tuin, langs de zonnebloemen en langs de heg. Het werd steeds kleiner en verdween uiteindelijk onder… de grote appelboom in de tuin!</p>
+
+<p>Pip kroop onder de appelboom. Daar, onder een paar bladeren, zag hij iets bewegen. Voorzichtig sloop hij dichterbij. En toen… zag hij wie de koekjes had gestolen. Het was… Mama Muis! Mama Muis zat verscholen onder de boom, met een paar koekjes in haar pootjes.</p>
+
+<p>Pip was verrast. Hij wist niet wat hij moest zeggen. Mama Muis keek op, haar bruine ogen werden groot. "Pip," zei ze zacht, "ik… ik was een beetje hongerig." Ze keek naar de koekjes en dan weer naar Pip. "Het spijt me, schat. Ik dacht… ik dacht dat je ze toch niet allemaal op kon."</p>
+
+<p>Pip wist dat zijn mama altijd de waarheid sprak. En hij begreep het ook wel. Iedereen had wel eens trek, en mama had hard gewerkt in het huis. Hij glimlachte naar haar. "Het is goed, Mama," zei Pip. "Maar… mag ik nu toch een koekje?"</p>
+
+<p>Mama Muis glimlachte terug. "Natuurlijk, mijn liefje!" Ze gaf Pip een van de overgebleven koekjes. "En vanaf nu… zullen we ze samen delen." Pip at het koekje heerlijk op. Het smaakte nog lekkerder dan anders, omdat hij het deelde met zijn mama.</p>
+
+<p>Daarna kropen ze allebei onder de appelboom, aten de rest van de koekjes samen op en genoten van de zon. Ze besloten dat koekjes nóg lekkerder waren als je ze samen deelde. En ze begrepen dat het belangrijkste niet de koekjes zelf waren, maar de liefde en het plezier dat ze samen beleefden. De verdwenen koekjes werden al snel vergeten, en het avontuur van Pip en de verdwenen koekjes eindigde met een grote glimlach en een buik vol koekjes.</p>
+
+<p>De volgende dag maakte Mama Muis een nieuwe pot koekjes, groter dan ooit tevoren. Ze maakte ze met extra liefde en veel glazuur, zodat Pip en Mama Muis altijd genoeg koekjes zouden hebben om samen te delen. En zo eindigden de avonturen van Pip en de verdwenen koekjes met een gelukkig einde, vol koekjes en heel veel liefde!</p>
+</body>
+```

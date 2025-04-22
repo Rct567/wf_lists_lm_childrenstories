@@ -1,0 +1,43 @@
+<prompt>
+Please write a uncomplicated Italian children's story that is at least 1000 words long.
+It must be completely written in proper Italian (IT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La Banda dei Cinque Amici e l'Avventura nella Giungla Pericolosa.'.
+</prompt>
+
+<model>meta-llama/llama-4-maverick:free</model>
+
+<lang_id>it</lang_id>
+
+<title>La Banda dei Cinque Amici e l'Avventura nella Giungla Pericolosa</title><body>
+C'era una volta, in un piccolo paese vicino a una grande città, un gruppo di cinque amici inseparabili: Leo, il capo della banda, sempre pronto a inventare nuove avventure; Emma, la curiosa e appassionata di esplorazione; Marco, l'atletico e coraggioso, sempre pronto a tuffarsi nelle situazioni più difficili; Sofia, la dolce e sensibile, con un cuore pieno d'amore per gli animali; e Luca, il genio della tecnologia, capace di risolvere ogni enigma con i suoi gadget e la sua conoscenza.
+
+La loro passione comune era l'avventura, e spesso trascorrevano le giornate esplorando i dintorni del paese, scoprendo nuovi sentieri, boschi e segreti nascosti. Un giorno, mentre erano seduti al loro caffè preferito discutendo delle loro prossime mosse, si imbatterono in un vecchio cartografo che sembrava essersi perso nel tempo.
+
+Il cartografo, con una lunga barba bianca e occhi che brillavano per l'entusiasmo, mostrò loro una vecchia mappa logora e spiegazzata. "Questa," disse con un tono di voce che tradiva l'eccitazione, "è la mappa di una giungla pericolosa, un luogo che pochi hanno avuto il coraggio di esplorare e ancora meno di sopravvivere per raccontarlo." La mappa prometteva un tesoro nascosto, ma anche grandi pericoli.
+
+La curiosità dei cinque amici fu immediatamente solleticata. Decisero all'unanimità che dovevano avventurarsi nella giungla per scoprire cosa si nascondesse realmente. Il cartografo, notando la loro determinazione, consegnò loro la mappa con un sorriso. "Siete coraggiosi, vedo. Spero che torniate con storie da raccontare."
+
+La preparazione per il viaggio fu intensa. Luca studiò la mappa e pianificò il percorso più sicuro, mentre Marco si occupò dell'equipaggiamento necessario per superare gli ostacoli della giungla. Emma lesse tutto ciò che poté sulla flora e la fauna locali, identificando potenziali pericoli e provviste utili. Sofia preparò un kit di pronto soccorso, comprendendo medicine per ferite, insetticidi e trattamenti per eventuali allergie. Leo, infine, coordinò tutti gli sforzi, assicurandosi che fossero pronti a partire al più presto.
+
+Dopo giorni di preparazione, finalmente partirono. La giungla si rivelò immediatamente per quello che era: un luogo di bellezza incredibile ma anche di pericolo costante. Gli alberi erano altissimi, con foglie così fitte da bloccare gran parte della luce del sole, creando un mondo di ombre. Gli animali, alcuni dei quali non avevano mai visto prima, emettevano suoni che andavano dal canto melodioso degli uccelli tropicali al ruggito minaccioso di bestie più grandi.
+
+Il loro viaggio non fu facile. Marco cadde in un fiume impetuoso e Luca dovette salvarlo con una corda improvvisata. Emma identificò un serpente velenoso che Sofia prontamente curò con il suo kit di pronto soccorso. Ma nonostante le difficoltà, continuarono.
+
+Un giorno, dopo diverse ore di cammino, giunsero finalmente a un altopiano nascosto tra le montagne della giungla. Al centro dell'altopiano c'era un laghetto cristallino, le cui acque sembravano invitare a un tuffo rinfrescante. Ma fu ciò che trovarono sulla riva opposta del laghetto a far loro trattenere il respiro: un'antica statua, coperta di vegetazione e sfregiata dal tempo, sembrava indicare la direzione del tesoro.
+
+Leo lesse le iscrizioni sulla statua, decifrando un indizio cruciale. "Dobbiamo seguire il corso del fiume che nasce da questo laghetto," concluse, gli occhi brillanti di eccitazione. Il fiume li condusse attraverso una serie di cascate e rapide, superando ostacoli naturali che richiedevano tutta la loro agilità e determinazione.
+
+Infine, dopo ore di navigazione sul fiume, emersero in una radura. Al centro, un ingresso oscuro sembrava invitare all'esplorazione. "Il tesoro dev'essere qui dentro," disse Emma, la voce appena sopra un sussurro.
+
+Con torce ricavate da rami e foglie secche, si avventurarono nell'oscurità. L'aria era fresca e umida, e il silenzio era tale da far sembrare i loro respiri rumorosi. Camminarono per diversi minuti, il percorso serpeggiante e le ombre danzanti intorno a loro.
+
+All'improvviso, giunsero a una grande camera sotterranea, illuminata da un'apertura naturale nel soffitto che lasciava filtrare la luce del sole. E lì, al centro della camera, trovarono il tesoro: una collezione di oggetti preziosi, gioielli scintillanti e monete d'oro, raccolti in un grande forziere antico.
+
+Ma ciò che più li stupì non fu il tesoro stesso, ma l'iscrizione sul forziere: "Per coloro che affrontano le sfide della natura con coraggio e amicizia". Capirono allora che il vero tesoro non era l'oro o i gioielli, ma l'avventura stessa, le amicizie strette lungo il cammino e le lezioni apprese.
+
+Ritornarono al loro paese da eroi, con storie da raccontare e ricordi indimenticabili. La "Banda dei Cinque Amici" divenne leggendaria, e la loro avventura nella giungla pericolosa ispirò altri a esplorare, a scoprire e a fidarsi gli uni degli altri.
+
+E il vecchio cartografo? Fu ritrovato al loro caffè preferito, un sorriso beato sul viso, ad ascoltare le loro storie con gli occhi che brillavano di gioia, sapendo che la sua mappa aveva fatto molto di più che indicare un tesoro: aveva forgiato un legame indissolubile tra cinque amici.</body>

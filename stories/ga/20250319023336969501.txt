@@ -1,0 +1,55 @@
+<prompt>
+Please write a uncomplicated Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'An Bhó agus an Leabhar Faoin Spéir agus na Réaltaí.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>ga</lang_id>
+
+```xml
+<title>An Bhó agus an Leabhar Faoin Spéir agus na Réaltaí.</title><body>
+Bhí bó bheag darb ainm Caitlín. Bhí Caitlín ina cónaí i ngleann glas álainn in Éirinn. Bhí an gleann lán le féar úr, bláthanna ildaite, agus sruthán beag ag rith tríd. Ba bhreá le Caitlín féar a ithe, léimneach thar na cloca, agus breathnú ar na scamall sa spéir.
+
+Lá amháin, agus í ag siúl trí na cnocáin, fuair Caitlín rud aisteach. Bhí leabhar beag ann, ceangailte le craiceann dearg. Níor chonaic Caitlín riamh leabhar roimhe seo. Bhí sí an-aisteach faoi. Thóg sí an leabhar go cúramach leis a béal, óir bhí a cosa ag an talamh, agus shiúil sí ar ais chuig a teach.
+
+Bhí teach Caitlín an-simplí. Bhí sé déanta as adhmad agus bhí díon tuí air. Bhí áit ann le haghaidh codlata, áit le haghaidh bia, agus go leor spáis le haghaidh súgartha. Bhí na ballaí péinteáilte le dathanna geala, mar is breá le Caitlín dathanna geala.
+
+Nuair a shroich sí a teach, chuir Caitlín an leabhar ar an urlár. D’fhéach sí ar an leabhar le spéis. Bhí sé beagán salach, tar éis an siúlóid ar fad. Chuaigh sí ag snámh sa sruthán beag chun a lámha a ghlanadh. D'fhill sí ar ais, agus anois, bhí an leabhar réidh le léamh!
+
+Osclaíodh sí an leabhar go cúramach. Ní raibh aon íomhánna ann, ach go leor litreacha beaga dubha. Ní raibh a fhios ag Caitlín conas iad a léamh. Bhí sí buartha. “Cad is féidir liom a dhéanamh?” a d’fhiafraigh sí di féin.
+
+Agus í ag breathnú ar na litreacha, chonaic sí roinnt pictiúr beaga sna spásanna idir na focail. Ba réaltaí iad. Bhí réaltaí gleoite, beaga, lonracha ann. Ba bhreá le Caitlín féachaint ar na réaltaí san oíche.
+
+Ansin, thosaigh Caitlín ag smaoineamh. "B'fhéidir go bhfuil na réaltaí ag iarraidh labhairt liom," a dúirt sí. Bhí sí an-spéisiúil. D'fhéach sí ar an leabhar arís. Thosaigh sí ag foclóir leis na litreacha. "A, B, C..." a thosaigh sí ag a rá. D’fhan sí go dtí go raibh sí ag rá na litreacha go léir.
+
+Tar éis tamaill, chonaic sí rud aisteach eile. Thosaigh na litreacha ag bogadh! D'eagraíodh siad i bhfocail, agus bhí na focail ag foirmíodh abairtí. Bhí sé draíochta!
+
+Thosaigh Caitlín ag léamh. “An spéir,” léigh sí. “Tá sí gorm.” Bhí an t-eolas nua seo iontach. Bhí a fhios ag Caitlín go raibh an spéir gorm, ach ní raibh a fhios aici go raibh sé scríofa i leabhar. Léigh sí ar aghaidh.
+
+"Is féidir leat na réaltaí a fheiceáil san oíche." "Tá siad lonracha agus beag." Chuir an méid seo ionadh uirthi. Níor thuig sí riamh gur eolais é sin!
+
+Lean Caitlín ag léamh. Foghlaim sí faoi na réaltbhuíonta. Léigh sí faoi An Tarbh, An Beara Mór, agus go leor réaltaí eile. Ba bhreá léi na hainmneacha nua seo.
+
+Gach lá, chuaigh Caitlín amach agus léigh sí an leabhar faoin spéir agus na réaltaí. Foghlaim sí faoi na pláinéid freisin. Foghlaim sí faoi Mhars, Iúpatar, agus Satharn. Bhí gach rud sa leabhar suimiúil.
+
+Lá amháin, agus í ag léamh faoi na réaltaí, fuair Caitlín smaoineamh iontach. “Ba mhaith liom an réalta is gile sa spéir a fheiceáil,” a dúirt sí léi féin.
+
+Thóg Caitlín an leabhar léi, agus shiúil sí chuig an mbarr an chnoic is airde sa ghleann. D'fhan sí ann go dtí gur thosaigh sé ag dorchú. Thosaigh na réaltaí ag teacht amach.
+
+Bhí an spéir dorcha agus lán le réaltaí. Ba iontach an radharc a bhí ann. Bhí Caitlín ag lorg na réaltaí is gile, mar a scríobhadh sa leabhar. D’fhéach sí suas. Ansin, chonaic sí í.
+
+Ba réalta an-gheal a bhí ann! D’fhéach sé ar fud na spéire, ag lonrú mar dhianóig. “Tá tú álainn!” a dúirt Caitlín leis an réalta.
+
+D'fhan Caitlín ag féachaint ar na réaltaí go dtí an mhaidin. Nuair a thosaigh an ghrian ag ardú, d’fhill sí ar ais chuig a teach. Bhí sí tuirseach, ach go hiontach sásta.
+
+Bhí Caitlín tar éis cairdeas nua a dhéanamh leis an spéir agus na réaltaí. Bhí a fhios aici anois go raibh áilleacht iontach i ngach rud, agus ba bhreá léi an eolas seo a roinnt le gach duine. Ón lá sin ar aghaidh, choinnigh Caitlín an leabhar beag leis an spéir agus na réaltaí go sábháilte, agus léadh sí é arís agus arís eile, ag foghlaim gach lá rud éigin nua faoi áilleacht an domhain mór.
+
+Ón lá sin ar aghaidh, d'inis Caitlín an scéal faoin spéir agus na réaltaí do gach duine a bhuail sí. Chonaic na páistí go léir an leabhar beag, agus thosaigh siad ag foghlaim faoi na réaltaí freisin. Bheathaigh sí féin iad leis an scéal sin, agus bheadh siad ag iarraidh léamh faoi na réaltaí freisin.
+
+Ansin, bhí aithne ag an saol ar fad ar an spéir, na réaltaí agus an leabhar beag a chruthaigh nasc idir an áilleacht agus na páistí. Agus d'fhan an leabhar le Caitlín ar feadh a saoil, go dtí an lá ar fhág sí an domhan seo.
+Agus dá bhrí sin, bhí an gleann i gcónaí lán le scéalta faoi na réaltaí agus faoin áilleacht sa saol.

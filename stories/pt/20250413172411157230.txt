@@ -1,0 +1,65 @@
+<prompt>
+Please write a timeless Portuguese (Portugal) children's story that is at least 1000 words long.
+It must be completely written in proper Portuguese (Portugal) (PT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A Tartaruga Veloz que Ganhou a Corrida na Praia do Algarve.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pt</lang_id>
+
+```xml
+<title>A Tartaruga Veloz que Ganhou a Corrida na Praia do Algarve.</title>
+<body>
+Era uma vez, na ensolarada Praia do Algarve, um evento muito especial: a Grande Corrida Anual da Praia! Todos os animais, desde os mais pequenos aos mais grandes, preparavam-se para competir. Havia coelhos saltitantes, gaivotas velozes, caranguejos determinados e até mesmo peixes a tentar nadar para a vitória (embora, claro, não contasse tanto). Mas a estrela deste ano era, surpreendentemente, a Tartaruga Veloz.
+
+Sim, leram bem! A Tartaruga Veloz.
+
+Diziam as más línguas, e em todas as praias há sempre quem goste de fofocas, que o nome era uma ironia. Afinal, as tartarugas são lentas, certo? A nossa Tartaruga, chamada Bela, ouvia tudo isto com um sorriso sereno. Ela era uma tartaruga muito especial, com um casco incrivelmente polido, quase brilhante sob o sol, e olhos que pareciam conter a sabedoria de séculos.
+
+A verdade é que a Bela não era tão lenta como as outras tartarugas. Ela praticava todos os dias. Acordava com o sol, fazia alongamentos (que consistiam em esticar e contrair as patas devagar, mas com grande empenho), e corria, se assim se pode chamar a forma como uma tartaruga "corre". Corria pela areia, contornando conchas, subindo e descendo pequenas dunas, sempre focada em melhorar a sua técnica.
+
+No dia da corrida, a praia fervilhava. Bandeirolas coloridas tremulavam ao vento, as crianças gritavam de excitação e o cheiro a maresia misturava-se com o aroma dos doces de algarve. Todos os competidores alinharam na linha de partida. O juiz, um velho pelicano com um apito enferrujado, preparou-se para dar o sinal.
+
+"Aos vossos postos… Preparar… JÁ!" gritou, com um apito estridente.
+
+Os coelhos dispararam como flechas, as gaivotas levantaram voo com elegância e os caranguejos correram lateralmente com rapidez. A Bela, com a sua determinação silenciosa, iniciou a sua marcha lenta, mas constante.
+
+"Ah, a tartaruga!", riam alguns coelhos, enquanto corriam. "Vai demorar uma eternidade!"
+
+A Bela, sem se importar com as provocações, concentrava-se na areia sob as suas patas, em cada passo cuidadoso e calculado. Sabia que não conseguiria vencer a velocidade pura dos coelhos ou a agilidade das gaivotas. Mas tinha uma arma secreta: a persistência.
+
+A corrida era longa, contornando a praia, passando por rochas e chegando ao final, junto ao farol. A distância era exaustiva, e muitos dos competidores, no meio do caminho, começaram a sentir o cansaço. Os coelhos, já sem fôlego, pararam para descansar à sombra de um pinheiro. As gaivotas, fatigadas, pousaram numa rocha para recuperar energias. Os caranguejos, com as pinças bambas, abrandaram o ritmo.
+
+A Bela, porém, mantinha a sua cadência. Um passo de cada vez. Uma garra na areia de cada vez. Não se permitia parar. A sua persistência parecia alimentar-se da incredulidade dos outros. Ela, a tartaruga lenta, avançava, firme e decidida.
+
+À medida que a corrida avançava, o cenário mudava. O sol começou a baixar, lançando longas sombras sobre a praia. O vento soprava com mais força, levantando a areia e dificultando a progressão dos corredores. Mas a Bela persistia.
+
+Enquanto os outros descansavam ou se entregavam ao desânimo, a Bela continuava. Visualizava a meta, o farol que brilhava ao longe, a recompensa final. Imaginava o sabor dos seus frutos silvestres favoritos, que esperavam por ela no final da corrida.
+
+Chegou ao ponto onde os outros corredores estavam exaustos. Muitos desistiram, rindo da ideia da tartaruga a vencer. A Bela passou pelos coelhos que bocejavam, pelas gaivotas que bicavam a areia, pelos caranguejos que tentavam, em vão, arrastar-se novamente.
+
+Finalmente, quando a noite começava a cair, o farol apareceu mais perto. Com as últimas forças, a Bela avançou. Os seus passos, apesar de lentos, eram firmes. Os seus olhos brilhavam com a determinação.
+
+A poucos metros da meta, o pelicano, o juiz, arregalou os olhos, incrédulo. A multidão, que já estava a perder as esperanças, começou a gritar e a incentivar a tartaruga.
+
+"Vai, Bela! Vai, Bela! Não desistas!"
+
+Com um último esforço, a Bela cruzou a linha de chegada.
+
+A vitória foi dela!
+
+A multidão explodiu em júbilo. As crianças corriam para a parabenizar, atirando-lhe conchas e flores. Os coelhos, as gaivotas e os caranguejos ficaram de boca aberta, sem acreditar no que tinham visto.
+
+A Bela, exausta, mas radiante, aceitou os cumprimentos e as felicitações. O pelicano entregou-lhe a taça de ouro, que brilhava sob a luz do luar.
+
+"A lição, meus amigos", anunciou o pelicano com a voz rouca, "é que a velocidade nem sempre ganha. A persistência, a determinação e a crença em si mesmo podem levar qualquer um à vitória, mesmo que seja uma tartaruga!"
+
+A partir desse dia, a Bela tornou-se uma lenda na Praia do Algarve. A sua história foi contada e recontada, passando de geração para geração. A Tartaruga Veloz, que conquistou a vitória na corrida, tornou-se um símbolo de perseverança e um exemplo para todos os que ousavam sonhar e lutar pelos seus objetivos, independentemente das dificuldades.
+
+E todas as noites, na Praia do Algarve, ainda se pode ouvir, ao longe, o suave som das patas da Bela a caminhar, um passo de cada vez, a lembrá-los a todos que nunca se deve subestimar o poder da persistência e da fé em si próprio. A lenda da Tartaruga Veloz continuava a viver, ensinando a todos que a verdadeira vitória não está na velocidade, mas na jornada, na dedicação e na crença de que, com esforço e determinação, tudo é possível.
+</body>
+```

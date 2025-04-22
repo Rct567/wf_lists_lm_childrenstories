@@ -1,0 +1,73 @@
+<prompt>
+Please write a uncomplicated Icelandic children's story that is at least 1000 words long.
+It must be completely written in proper Icelandic (IS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Ólafur orrustuöldinn og orðum orðafjöld'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>is</lang_id>
+
+```xml
+<title>Ólafur orrustuöldinn og orðum orðafjöld</title>
+<body>
+<p>Ólafur var lítill strákur. Hann bjó á bænum Hlíðarhaga, langt norður í landi, þar sem fjöllin rísu há og himinninn var stór og blár. Hann var mjög orkubundinn og elskaði að leika sér úti. Ólafur hafði mikið ímyndunarafl og gerði allt að ævintýri. Hann gat verið riddari í ógnvekjandi orrustu, eða ævintýramaður að leita að týndum fjársjóði.</p>
+
+<p>Mamma hans, Gunnhildur, var dugleg og góð. Hún bakkaði besta rúgbrauðið og sagði alltaf fallegar sögur fyrir svefninn. Pabba hans, Eiríkur, var sterkur og rólegur. Hann kenndi Ólafi að veiða, höggva við og lesa stjörnur.</p>
+
+<p>Einn daginn, þegar Ólafur var að leika sér í hlaðinu, sá hann eitthvað glitra í sólinni. Hann hljóp að því og komst að því að þetta var lítill, gamall, gylltur lykill. Hann var svo lítill að hann passaði fullkomlega í lófanum hans. Hann hélt á lyklinum, fannst hann stórfenglegur og byrjaði að velta því fyrir sér hvað hann gæti opnað.</p>
+
+<p>"Hvað ætli þessi lykill opni?" spurði hann sig upphátt, meðan hann skoðaði lykilinn vel. "Ætli hann opni hurð að einhverju töfrastaði?"</p>
+
+<p>Hann fór inn til mömmu sinnar og sýndi henni lykilinn.</p>
+
+<p>"Ó, Ólafur minn," sagði Gunnhildur, "þessi lykill er fallegur. En ég þekki hann ekki. Viltu sýna pabba þínum hann?"</p>
+
+<p>Ólafur hljóp að pabba sínum, sem var að vinna í fjárhúsunum.</p>
+
+<p>"Pabbi, pabbi! Sjáðu hvað ég fann!" sagði Ólafur spenntur og sýndi honum lykilinn.</p>
+
+<p>Eiríkur skoðaði lykilinn vel. "Já, þetta er gamall lykill," sagði hann. "Ég hef aldrei séð þennan áður. Prufaðu að leita, Ólafur minn. Kannski finnum við hvað hann opnar."</p>
+
+<p>Og þar með byrjaði ævintýrið hans Ólafs. Hann byrjaði að leita alls staðar. Hann skoðaði skúrana, risið, fjárhúsin, en fann enga hurð sem lykillinn passaði í. Hann leitaði í matarkistum, en þar voru bara alls konar matvörur. Hann leitaði í pottum og pönnum, en fann ekkert nema eldhúsáhöld.</p>
+
+<p>Svo fór hann út í skóg. Skógurinn var fullur af leyndardómum. Trén voru há og stór og sólarljósið síaðist í gegnum laufin. Hann skoðaði undir steinum, á milli trjáa og í lækjunum. Hann leitaði og leitaði. En hvergi fann hann hurð eða kistu sem lykillinn passaði í.</p>
+
+<p>Hann fannst þetta leiðinlegt, og fór að hugsa. Hvað átti hann að gera? Hvað átti hann að gera við lykilinn? Ákvað hann að reyna á fjallinu.</p>
+
+<p>Á fjallinu, þar sem vindurinn blés og fuglarnir sungu, sá hann fjöl af stórum steini. Hann stóðst við hlið fjöldin. Lítil glufa var í fjölhópnum og áttaði hann sig á því að það væri engin venjuleg glufa.</p>
+
+<p>Hann reyndi lykilinn í glufunni og ótrúlegt gerðist. Lykillinn passaði fullkomlega! Þegar hann snéri lyklinum, opnaðist lítið gat í steininum.</p>
+
+<p>Innan í holunni var lítil kista. Ólafur opnaði kistuna spenntur. Þar var ekkert gull eða gimsteinar. Þar var bara lítill, gamall, brotin penni, en fullur af letri. Og fleiri en það. Þar var ræma af pappír, vafin og bundin með litlum bandi. Ólafur tók upp ræmuna og byrjaði að lesa.</p>
+
+<p>Á ræmunni voru skrifuð orð. Þetta voru ekki neinar venjulegar skriftir, þetta var ljóð. Og meira en það. Þetta voru töfrandi orð. Ljóðið sagði: "Ó, litli Ólafur, þú hefur fundið orrustuöldinn. Í þessari kistu eru orð. Orð geta skapað og orð geta eyðilagt. Með réttu orðum getur þú lært og vitað. Hver orð bera vald, varðveittu þau vel."</p>
+
+<p>Ólafur var svolítið hissa. Hann hafði vonast eftir fjársjóði, eða kannski töfrabrúsa. En hann hafði fengið orð. Hann fann fyrir forvitni og forvitni að lesa meira.</p>
+
+<p>Hann tók upp brotinn pennann, og átti hann eftir að læra hvernig á að skrifa. Hann varð æstur, tók stór orð yfir sig. Þá mundi hann eftir ljóðinu.</p>
+
+<p>"Með réttu orðum getur þú lært og vitað." Hugsaði hann. "Kannski eru þessi orð öflugri en ég geri mér grein fyrir."</p>
+
+<p>Ólafur hugsaði mikið. Hann fór til mömmu sinnar og bað hana um að kenna sér að lesa. Hún var glöð að hjálpa honum. Þeim þótti gaman að lesa saman, og hún sagði honum frá orðunum. Hann fór að kynnast nýjum orðum á hverjum degi. Hann lærði hvað þau þýddu, hvernig þau voru notuð og hvernig þau tengdust öðrum orðum.</p>
+
+<p>Hann fór til pabba síns og spurði hann út í heiminn, fjöllin og stjörnurnar. Pabbi hans útskýrði allt sem hann vissi og notaði stór orð. Ólafur lærði um vindinn, veðrið og dýrin í skóginum. Hann spurði um allt. Og pabbi hans svaraði eins vel og hann gat. Ólafur lærði að spyrja og lesa meira.</p>
+
+<p>Með hverju nýju orði, sem Ólafur lærði, fannst honum heimurinn stækka. Hann fór að sjá hluti á nýjan hátt. Hann gat lýst hlutum, lýst tilfinningum og hugsunum. Hann gat skrifað sögur og ljóð um það sem hann upplifði. Honum fannst gaman að geta lýst hugmyndum.</p>
+
+<p>Hann lærði líka að orð geta verið hættuleg. Hann las um stríð og þrengingar í sögunum. Hann las um fólk sem var sært af orðum. Hann lærði að það skipti máli að velja orð sín af varfærni og að tala alltaf af virðingu.</p>
+
+<p>Og Ólafur varð óvenjulegur strákur. Hann varð þekktur fyrir að vera hógvær og vel talaðir orð. Hann notaði aldrei neitt illskafull orð. Hann var þolinmóður og góður vinur, og honum þótti gaman að hjálpa öðrum. Og, síðar, rann hann í það að vera stórsöngvari og yrkja fyrir hvern. Og honum leið vel.</p>
+
+<p>Einn daginn, kom Ólafur upp á fjallið aftur. Hann fór að steininum, þar sem lykillinn hafði fundist. Hann tók kistuna og byrjaði að búa hana til. Hann bætti í hana bækur, skriftir og orð sem hann notaði dags daglega. Hann setti líka stjörnur, eins og pabbi hans kenndi honum, af því að orð þurftu líka að vera ljós. Hann vildi láta eitthvað vera til, sem hann hafði unnið á og átti sér.</p>
+
+<p>Þá mundi Ólafur, með mörg orð í minni, að þetta hafði öllum áhrif. Orð átti að varðveita vel. Og hann hló að allri hugsun, til að verða óbyggjanlegt með þeim.</p>
+
+<p>Ólafur vissi að ævintýri hans var rétt að byrja. Hann vissi að hann átti marga kafla eftir að skrifa, með orðunum sínum og lífinu sjálfu.</p>
+
+<p>Og Ólafur orrustuöldinn, hann lærði að orð voru sannkölluð vald og fjársjóður.</p>
+</body>
+```

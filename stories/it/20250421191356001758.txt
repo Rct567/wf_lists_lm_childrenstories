@@ -1,0 +1,49 @@
+<prompt>
+Please write a timeless Italian children's story that is at least 1000 words long.
+It must be completely written in proper Italian (IT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'L'uccello che amava viaggiare per il mondo intero.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>it</lang_id>
+
+```html
+<title>L'uccello che amava viaggiare per il mondo intero.</title>
+<body>
+C'era una volta, in una valle rigogliosa e verdeggiante, un piccolo uccello dal piumaggio azzurro brillante, come il cielo in una giornata d'estate. Si chiamava Azzurro, e, a differenza degli altri uccellini della sua valle, che preferivano restare a casa, tra i loro nidi sicuri e gli alberi familiari, Azzurro aveva un’unica, grande passione: viaggiare. Amava sognare posti lontani, ascoltando i racconti dei mercanti di passaggio che arrivavano con le loro carovane, portando con sé profumi esotici e storie avvincenti.
+
+Ogni mattina, non appena il sole faceva capolino dietro le montagne, Azzurro si spingeva fino al punto più alto della sua quercia, spalancando le ali e osservando l'orizzonte. Guardava i venti sussurrare tra le cime degli alberi e immaginava di sentire l'odore salmastro del mare, il profumo dei fiori esotici, il calore del sole di paesi lontani.
+
+Gli altri uccelli, al vederlo così, spesso lo prendevano in giro. "Ma dove vuoi andare, Azzurro?", cinguettavano. "È pericoloso viaggiare! Meglio restare qui, al sicuro." Ma Azzurro, con un sorriso gentile, rispondeva: "Non ho paura. Il mondo è grande e pieno di meraviglie, e io voglio vederle tutte!"
+
+Così, un giorno, Azzurro prese la decisione. Strinse i suoi artigli sul ramo della quercia, inspirò profondamente, e si lanciò in cielo. La sua famiglia, sorpresa e un po’ spaventata, lo seguì con lo sguardo finché non fu un puntino nel blu infinito.
+
+Il viaggio di Azzurro cominciò così. Prima, volò verso sud, attraverso le montagne. Vide cascate fragorose, fiumi argentati che serpeggiavano attraverso valli verdi. Si fermò a riposare in un bosco di pini, dove assaggiò deliziosi frutti di bosco. Ascoltò i canti melodiosi di altri uccelli, diversi da lui, e imparò nuove canzoni.
+
+Poi, attratto da un profumo dolce e intenso, volò verso le coste assolate. Vide il mare, immenso e scintillante sotto il sole. Incontrò gabbiani maestosi che planavano sulle onde, e ascoltò le storie dei marinai che solcavano i mari da secoli. Imparò a riconoscere il ritmo delle onde, e il linguaggio del vento.
+
+Un giorno, un forte vento di maestrale lo spinse verso est, verso terre sconosciute. Sorvolò deserti infuocati, dove incontrò cammelli che viaggiavano in carovane attraverso dune di sabbia. Volò sopra città antiche, con templi maestosi e mercati brulicanti di gente. Si meravigliava dei colori vibranti dei vestiti, dei profumi speziati, delle lingue diverse.
+
+In un piccolo villaggio, Azzurro conobbe un’anziana signora che aveva vissuto a lungo, viaggiando per il mondo. Le raccontò le sue avventure, le sue difficoltà e le sue gioie. La signora, con gli occhi che brillavano, gli confidò un segreto: "La cosa più importante nei viaggi, caro Azzurro, non è solo vedere luoghi lontani, ma anche imparare ad amare il mondo in tutti i suoi aspetti."
+
+Azzurro si sentì toccato dalle parole della donna. Capì che aveva ragione. I viaggi, non erano solo spostarsi da un luogo all'altro, ma erano anche scoprire la bellezza della diversità, imparare a rispettare culture diverse, e trovare l’amore per il prossimo, ovunque si fosse.
+
+Proseguì il suo viaggio, superando montagne innevate e foreste oscure. Visitò paesi dove la neve cadeva per mesi, e vide paesaggi ricoperti da un manto bianco e silenzioso. Osservò le albe infuocate e i tramonti infuocati, in un turbinio di colori incredibili. Incontrò animali sconosciuti, grandi e piccoli, dai colori straordinari.
+
+Ogni luogo aveva qualcosa di speciale da offrire. Un sorriso gentile, una mano tesa, una canzone allegra… Azzurro si rese conto che non importava dove si trovava, le persone e gli animali condividevano tutti un desiderio comune: quello di vivere in pace e armonia.
+
+Dopo molti anni di viaggio, il piccolo Azzurro sentì una strana nostalgia per casa. Il ricordo della sua valle, della sua quercia, del suo nido, gli si era impresso nel cuore. Sentiva il richiamo delle sue radici, del profumo della sua terra.
+
+Decise quindi di tornare a casa, per raccontare le sue avventure. Il viaggio di ritorno fu altrettanto emozionante quanto l'andata. Mentre sorvolava i luoghi che aveva già visitato, si sentiva grato per tutte le esperienze che aveva vissuto.
+
+Quando finalmente raggiunse la sua valle, vide il suo vecchio albero, più imponente che mai. Atterrò delicatamente su un ramo, salutando gli altri uccellini che erano cresciuti e avevano avuto i loro nidi. Raccontò loro le sue storie, parlando di luoghi esotici, di persone diverse, di esperienze indimenticabili.
+
+Gli uccellini, prima scettici, ascoltarono incantati i suoi racconti. Capirono che Azzurro aveva visto il mondo intero, imparando a rispettare ogni angolo del globo. Capirono che, anche se è bello restare a casa, è ancora più importante viaggiare, scoprire e capire il mondo.
+
+Da quel giorno, Azzurro divenne il maestro viaggiatore della valle. I suoi racconti ispirarono molti giovani uccellini a superare le loro paure e a esplorare il mondo. E Azzurro, contento di aver condiviso le sue avventure, trascorse il resto dei suoi giorni a cinguettare storie, sorridendo felice per i suoi viaggi indimenticabili e per aver aperto le ali ai suoi amici. E così, nella valle verdeggiante, il piccolo uccello azzurro, che amava viaggiare per il mondo intero, continuò a vivere felice, celebrando la bellezza infinita della vita e dei viaggi.
+</body>
+```

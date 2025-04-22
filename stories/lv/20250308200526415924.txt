@@ -1,0 +1,30 @@
+<prompt>
+Please write a simple and easy-to-follow Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Atjautīgais ezis, kas atrada zelta ābolu un iepriecināja visus meža iemītniekus.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>lv</lang_id>
+
+<title>Atjautīgais ezis, kas atrada zelta ābolu un iepriecināja visus meža iemītniekus</title>
+<body>
+Reizēm, mežā, kur dzīvoja daudzi dažām dzīvnieki, dzīvoja mazs, bet ļoti atjautīgs ezis. Viņa vārdā bija Eziņš, un viņš bija pazīstams visiem meža iemītniekiem ar savu labo sirdi un palīdzību tiem, kas to vajāja.
+Eziņš dzīvoja nelielā alā, kas atradās pie liela ozola koka. Viņš pārvadāja savu dienu, meklējot barību un izklaides mežā. Viņam patika pārbaudīt savas spējas, cērtoties koku zaros un lekt no zara uz zaru.
+Vienu dienu, gājot pa mežu, Eziņš ieraudzīja dārgumu, kas viņu pilnīgi pārsteidza. Uz zemes, zem viena no koku zariem, gulēja zelta ābols. Eziņš nevarēja ticēt saviem acīm - zelta ābols bija tik skaists un spožs, ka viņam vajadzēja to paņemt un noskūpstīt.
+Eziņš paņēma zelta ābolu un noskūpsta to. Viņam šķita, ka ābols ir īsts dārgums, un viņš nolēma to saglabāt kā savu personīgo dārgumu. Bet pēc dažām minūtēm, Eziņam ienāca domā, ka šo dārgumu varētu izmantot, lai iepriecinātu visus meža iemītniekus.
+Eziņš sāka domāt, kā viņš varētu izmantot zelta ābolu, lai iepriecinātu meža iemītniekus. Viņam ienāca domā, ka varētu rīkot lielu svētku, kurā būtu daudz ēdienu, spēļu un izklaides. Eziņš sāka gatavoties svētkiem, un viņam palīdzēja daudzi meža iemītnieki.
+Meža iemītnieki bija ļoti priecīgi, kad uzzināja par zelta ābolu un svētkiem. Viņi visi bija gatavi palīdzēt Eziņam, un drīz viņi visi strādāja kopā, lai sagatavotu svētkus.
+Svētku dienā mežs bija pilns ar dzīvniekiem, kas gāja uz svētkiem. Eziņš bija ļoti priecīgs, redzot, cik daudz cilvēku bija atnākuši, lai iepriecinātos. Viņš sāka runāt, un visi meža iemītnieki klusēja, lai dzirdētu, ko Eziņš vēlas teikt.
+"Drīzāk, draugi," sāka Eziņš, "es vēlos teikt, ka es esmu ļoti priecīgs, ka esmu atradis zelta ābolu. Tas man deva iespēju rīkot šos svētkus, un es ceru, ka jūs visi būtu priecīgi un iepriecināti."
+Meža iemītnieki visi aplausoja, un Eziņš turpināja runāt. "Es vēlos teikt, ka šie svētki ir jūsu visu dāvinājums. Es gribu, lai jūs visi būtu priecīgi un iepriecināti, un es ceru, ka jūs visi atnāksiet atkal nākamgad."
+Svētki turpinājās visu dienu, un meža iemītnieki visi bija ļoti priecīgi. Viņi ēda daudz ēdienu, spēlēja spēles, un daudzi no viņiem dejoja. Eziņš bija ļoti priecīgs, redzot, cik daudz cilvēku bija iepriecināti, un viņš zināja, ka viņa zelta ābols bija devies labākajai lietai.
+Pēc svētkiem meža iemītnieki visi atgriezās savās mājās, bet Eziņš palika mežā, jo viņam vēl bija daudz darba. Viņam vajadzēja saglabāt zelta ābolu un gatavoties nākamgada svētkiem.
+Eziņš turpināja dzīvot mežā, un viņš kļuva vēl labāk pazīstams kā atjautīgais ezis, kas atrada zelta ābolu un iepriecināja visus meža iemītniekus. Viņa stāsts tika stāstīts no paaudzes paaudzē, un daudzi meža iemītnieki viņu sauca par "Zelta Ābola Ezi".
+Gadu pēc gada Eziņš rīkoja svētkus, un meža iemītnieki visi bija ļoti priecīgi. Viņi zināja, ka Eziņš ir atjautīgs ezis, kas vienmēr grib iepriecināt citus, un viņi visi mīlēja viņu par to.
+Eziņa stāsts beidzās ar to, un viņš kļuva leģendā, kas tika stāstīta visiem meža iemītniekiem. Viņa zelta ābols kļuva par simbolu, kas apzīmēja labu un iepriecinājumu, un meža iemītnieki visi zināja, ka Eziņš ir atjautīgais ezis, kas to atrada un iepriecināja visus.
+Eziņš dzīvoja šo stāstu, un viņš bija ļoti priecīgs, ka viņam bija iespēja iepriecināt citus. Viņa zelta ābols bija devies labākajai lietai, un Eziņš zināja, ka viņa stāsts tiks stāstīts visiem meža iemītniekiem, lai arī pēc tam, kad viņš būs aizgājis no šīs pasaules.</body>

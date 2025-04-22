@@ -1,0 +1,34 @@
+<prompt>
+Please write a silly Slovenian children's story that is at least 1000 words long.
+It must be completely written in proper Slovenian (SL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Zgodbe o čarobnih čarovnikih in njihovih čudovito bitjih'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>sl</lang_id>
+
+<title>Zgodbe o čarobnih čarovnikih in njihovih čudovito bitjih</title>
+<body>
+V majhnem slovenskem mestu, ki leži med zelenimi griči in šumavimi gozdovi, so živeli trije čarobni čarovniki. Prvi se je imenoval Jakob, drugi ga je poklical Miha in tretji je bil znani čarovnik po imenu Luka. Vsak od njih je imel svojega edinstvenega čudovitega bitja, ki ga je varoval in skrbel zanj.
+
+Jakobov čudoviti partner je bil velik, modro-črni pes po imenu Živor. Živor je bil najpamětnejši pes v vseh deželah, saj je znal govoriti v vseh jezikih in reševati zapletene probleme. Miha je imel za svojega čudovitega bitja lepega, svetlo-rdečega konja po imenu Rdeči Peter. Rdeči Peter je bil najhitrejši konj v vseh deželah in je znal leteti po zraku, kadar koli je hotel. Luka pa je imel za svojega čudovitega bitja majhnega, zelenega zmaja po imenu Zmaji. Zmaji je bil najmočnejši zmaj v vseh deželah in je znal izpljuniti ogenj, kadar koli je hotel.
+
+Nekega dne so se trije čarovniki odločili, da bodo organizirali velik čarobni turnir. Na turnirju so se zbrali vsi čarobniki iz vseh dežel in so se borili za naziv najboljšega čarovnika. Jakob, Miha in Luka so se odločili, da bodo sodelovali na turnirju in da bodo pokazali, kdo je najboljši čarovnik.
+
+Turnir se je začel z veliko ceremonijo, na kateri so se vsi čarobniki predstavili in so pokazali svoje čarobne moči. Jakob je pokazal, kako Živor rešuje zapletene probleme, Miha je pokazal, kako Rdeči Peter leti po zraku, in Luka je pokazal, kako Zmaji izpljuje ogenj. Občinstvo je bilo navdušeno in je zahtevalo več.
+
+Prvi del turnirja je bil čarobni dvoboj. Čarovniki so se borili drug proti drugemu, vsak z svojim čudovitim bitjem. Jakob in Živor sta se borila proti čarovniku po imenu Ana in njenemu čudovitemu bitju, velikemu, sivemu medvedu po imenu Medo. Ana je poskušala ujeti Živorja, vendar ga je Živor hitro rešil in je z lahkoto premagal Meda. Miha in Rdeči Peter sta se borila proti čarovniku po imenu Marko in njegovemu čudovitemu bitju, lepega, črna kača po imenu Kača. Marko je poskušal ujeti Rdečega Petra, vendar ga je Rdeči Peter hitro premagal in je z lahkoto zmagal. Luka in Zmaji sta se borila proti čarovniku po imenu Nina in njenemu čudovitemu bitju, velikemu, rdečemu orlu po imenu Orel. Nina je poskušala ujeti Zmaja, vendar ga je Zmaji hitro premagal in je z lahkoto zmagal.
+
+Drugi del turnirja je bil čarobni preizkus. Čarovniki so morali rešiti zapletene probleme in izpolniti zahteve. Jakob in Živor sta morala rešiti problem, kako doseči vrh gore, ki je bila previsoka, da bi jo lahko dosegli peš. Živor je hitro rešil problem in je Jakoba ponesel na vrh gore. Miha in Rdeči Peter sta morala rešiti problem, kako prečkati široko reko, ki je bila pregloboka, da bi jo lahko prečkali peš. Rdeči Peter je hitro rešil problem in je Mihu prenesel čez reko. Luka in Zmaji sta morala rešiti problem, kako doseči skrivno jamo, ki je bila prezapletena, da bi jo lahko dosegli peš. Zmaji je hitro rešil problem in je Luka ponesel v skrivno jamo.
+
+Tretji del turnirja je bil čarobni šov. Čarovniki so morali pokazati svoje čarobne moči in navdušiti občinstvo. Jakob in Živor sta pokazala, kako Živor rešuje zapletene probleme in kako Jakob uporablja čarobne moči. Miha in Rdeči Peter sta pokazala, kako Rdeči Peter leti po zraku in kako Miha uporablja čarobne moči. Luka in Zmaji sta pokazala, kako Zmaji izpljuje ogenj in kako Luka uporablja čarobne moči. Občinstvo je bilo navdušeno in je zahtevalo več.
+
+Na koncu turnirja so se trije čarovniki zbrali in so čakali na razglasitev zmagovalca. Živor, Rdeči Peter in Zmaji so bili navdušeni in so čakali na razglasitev zmagovalca. Ko je bil naznanjen zmagovalец, so se vsi čarovniki in njihova čudovita bitja zbrali in so čakali na razglasitev. In zmagovalец je bil... Luka in Zmaji! Luka in Zmaji sta bila navdušena in sta prejela nagrado za najboljšega čarovnika in njegovo čudovito bitje.
+
+Vse čarovnike in njihova čudovita bitja so se zbrali in so proslavili zmago Luka in Zmaja. Jakob in Živor sta bila navdušena in sta pogratulirala Luki in Zmaju. Miha in Rdeči Peter sta bila navdušena in sta pogratulirala Luki in Zmaju. Vsi so se zbrali in so proslavili zmago Luka in Zmaja.
+
+In tako je zgodba o čarobnih čarovnikih in njihovih čudovito bitjih končana. Luka in Zmaji sta bila najboljša čarovnika in njegovo čudovito bitje, in so osvojila nagrado za najboljšega čarovnika in njegovo čudovito bitje. Vsi čarovniki in njihova čudovita bitja so bila navdušena in so proslavili zmago Luka in Zmaja. In zgodba o čarobnih čarovnikih in njihovih čudovito bitjih bo še naprej živela v srcih vseh, ki so jo prebrali.</body>

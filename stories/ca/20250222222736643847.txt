@@ -1,0 +1,39 @@
+<prompt>
+Please write a timeless Catalan children's story that is at least 1000 words long.
+It must be completely written in proper Catalan (CA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Les cròniques de la família Reiales'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>ca</lang_id>
+
+<title>Les cròniques de la família Reiales</title>
+<body>
+En una petita casa de pedra, a la vora d'un bosc encantat, vivia la família Reiales.  El pare, en Joan, era un mestre ferrer amb mans hàbils i un cor generós.  La mare, la senyora Rosa, cuidava el petit jardí amb la seva paciència i un amor incondicional per les flors.  I els seus fills, la petita Marta i el petit Guillem, eren dos infants inquiets, amb els ulls brillants com els diamants i un cor ple de somnis.
+
+Cada matí, abans de començar les seves tasques, en Joan feia sonar la seva campana de coure, un so peculiar que ecoava pel bosc.  Aquest so era el senyal que anunciava la nova aventura per a la família.  Avui, la campana resonava amb una melodia especial.  La senyora Rosa, amb un somriure amable, disseminava les flors per la seva hort. Marta, amb una petita cistella de mimbres, recollia les flors més precioses, les que tenien un color més viu i perfums més exquisits.  Guillem, amb una petita pala, excavava per sota de la gran roure.
+
+"Què busques, fill meu?", va preguntar la senyora Rosa, amb un somriure amable.
+
+"Busco el Tresor del Bosc Encantat, mare!", va respondre Guillem amb passió, els ulls brillants com estrelles. "Diuen que sota la gran roure hi ha un tresor que es guarda els secrets dels boscos i els seus habitants."
+
+La senyora Rosa va riure amb suavitat. "Hi ha molta imaginació en el cor del meu fill, però a vegades, la realitat és diferent dels nostres somnis."
+
+I Marta, amb la seva cistella plena de flors, va mirar a Guillem amb curiositat. "Potser el Tresor del Bosc Encantat no és un tresor d'or, sinó un tresor de bellesa i de descobriments.", va dir Marta, amb una mirada aguda.
+
+Amb aquesta filosofia, els dos joves van començar la seva exploració.  Van descobrir un rierol que murmurava secrets a través dels cingles. Van observar les papallones amb els seus colors vibrants.  Van escoltar el cant dels ocells i les converses dels insectes.  Van aprendre que cada cosa del bosc tenia una història i un propòsit.  Van descobrir que la bellesa del bosc no residia només en un tresor físic, sinó en la meravella dels detalls, en l'harmonia de la natura.
+
+De sobte, van trobar un petit caragol, amb un capet de color verd brillant.  El caragol, amb la seva lentitud, va començar a parlar amb una veu tan dolça que Marta i Guillem van quedar sense paraules.
+
+El caragol els va explicar que el Tresor del Bosc Encantat era la bellesa que els envoltava. Era la manera que els arbres parlaven amb les fulles, la serenitat del rierol que murmurava a través dels cingles, i la harmonia de totes les criatures que convivien en aquest paradís.
+
+Quan el sol començava a posar-se, pintant el cel amb colors d'incandescent, els dos germans van retornar a casa, amb un cor ple de noves experiències i amb un aprenentatge important.  Van comprendre que el tresor més preuat no estava amagat, sinó a la vista de tots.  Van comprendre que el bosc encantat no era un lloc físic, sinó un estat d'ànim, una manera de veure el món amb ulls inquisitius i un cor obert.
+
+Des d'aquell dia, la família Reiales va continuar explorant els secrets del bosc encantat, no buscant tresors materials, sinó tresors de bellesa, d'aprenentatge i de compartir.  I els seus cors, més enriquits cada dia, van créixer amb la seva comprensió de la vida, de la natura i d'ells mateixos.
+
+I així, les cròniques de la família Reiales van continuar, passant de generació en generació, un llegat d'amor i descobriment que mai no es va apagar, igual que la llum que emissor el sol que il·luminava el bosc.
+</body>

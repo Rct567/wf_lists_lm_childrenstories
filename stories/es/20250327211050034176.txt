@@ -1,0 +1,61 @@
+<prompt>
+Please write a silly Spanish children's story that is at least 1000 words long.
+It must be completely written in proper Spanish (ES).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Historias Brillantes Contadas por el Farol Viejo'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>es</lang_id>
+
+```xml
+<title>Historias Brillantes Contadas por el Farol Viejo</title><body>
+En un pueblito escondido entre montañas de chocolate y ríos de limonada, vivía un farol muy peculiar. No era un farol cualquiera; era el Farol Viejo, y sus historias eran tan brillantes que hasta las estrellas parpadeaban con envidia. El Farol Viejo tenía una pantalla amarilla como el sol, un cuerpo oxidado que brillaba con mil y un secretos y una voz grave, ronca por los años y la brisa.
+
+Todas las noches, cuando el sol se despedía con un beso rosado, los niños del pueblo, con las mejillas manchadas de helado de fresa, se reunían bajo su luz. Allí, el Farol Viejo, después de un carraspeo digno de un rey, comenzaba a narrar sus maravillosas aventuras.
+
+La primera historia que contaba era sobre "El Señor Bigote y el Gran Festival de las Sardinas Voladoras". Resulta que en una tierra lejana, donde las nubes eran de algodón de azúcar y los árboles daban zumo de naranja, vivía el Señor Bigote. El Señor Bigote, como su nombre indicaba, tenía un bigote tan largo que le llegaba hasta los pies, y era el organizador del Gran Festival de las Sardinas Voladoras.
+
+“¡Era un espectáculo inolvidable!”, gruñía el Farol Viejo, moviendo su pantalla. “Las sardinas, gracias a la magia del Señor Bigote y un chorro de salsa tártara, se elevaban al cielo. ¡Imaginad, niños, sardinas con alas, bailando entre las nubes de algodón de azúcar!”
+
+El problema era que las sardinas eran extremadamente torpes. A menudo, chocaban contra las casas hechas de galletas de jengibre y caían en los ríos de limonada, empapando a todo el mundo. El Señor Bigote, con su bigote empapado y su sombrero ladeado, siempre encontraba una solución. "¡Un poco más de salsa tártara y… ¡voilà!"
+
+La siguiente historia se titulaba “La Gallina Matildel y el Misterio de los Huevos de Color”. Matildel era una gallina con plumas moradas y una gran afición por los sombreros extravagantes. Un día, ¡sorpresa!, empezó a poner huevos de colores: rojos como los tomates, verdes como las ranas, azules como el cielo, y hasta amarillos con lunares negros.
+
+“¡El caos se apoderó del corral!”, exclamaba el Farol Viejo. “Los demás animales estaban locos. ¿Cómo era posible? ¿Era Matildel una alienígena disfrazada de gallina? ¿O tal vez había encontrado una fábrica secreta de huevos mágicos?”
+
+Matildel, con su sombrero de plumas de pavo real, simplemente se encogía de hombros. “¡No tengo ni idea!”, decía, mientras picoteaba granos de maíz.
+
+El misterio se resolvió, oh sorpresa, gracias a un gato juguetón llamado Rufino. Rufino, en su afán por atrapar un huevo, descubrió que Matildel, sin darse cuenta, había estado comiendo caramelos de colores de una tienda cercana. ¡Por eso los huevos eran tan brillantes!
+
+Luego, venía la historia del "Mono Mariano y la Gran Guerra de las Bananas". Mariano, un mono con una corbata de plátano (porque, claro, ¡tenía que ser de plátano!), era el líder de una tropa de monos revoltosos. Se habían declarado en guerra contra las ardillas, motivados por la posesión del mejor árbol de plátanos del bosque.
+
+“¡La guerra fue épica!”, contaba el Farol Viejo, con voz dramática. “Los monos lanzaban plátanos como proyectiles y las ardillas contraatacaban con nueces y piñas. ¡La selva parecía un campo de batalla de postres!”
+
+Mariano, siempre en primera línea, montado sobre un enorme coco rodante, arengaba a sus tropas. “¡Por los plátanos!”, gritaba. "¡Por el honor!", decían los monos, manchándose las caras con la pulpa de la fruta.
+
+La guerra terminó de la manera más inesperada: con una tregua. Descubrieron que el mejor árbol de plátanos, en realidad, no existía, y el supuesto árbol codiciado era un grupo de zarzas que, con el sol, parecían formar una ilusión. Monos y ardillas, cansados y hambrientos, se sentaron a compartir un buen puñado de plátanos, poniendo fin a la contienda.
+
+Después del mono, seguía la historia de "La Princesa Clementina y el Tesoro Escondido en la Tarta". La princesa Clementina era, según el Farol Viejo, la más golosa de todas las princesas. Su reino, en lugar de oro, estaba lleno de caramelos, bombones y helados. Un día, encontró un mapa en un pastel gigante (¡por supuesto, una tarta gigante!), que indicaba la ubicación de un tesoro secreto.
+
+“¡La búsqueda fue toda una aventura!”, decía el Farol Viejo. “Clementina, vestida con un vestido de chocolate y un sombrero de merengue, se adentró en la selva de gelatina. ¡Tuvo que luchar contra monstruos de gomitas y esquivar ríos de caramelo pegajoso!”
+
+El tesoro, tras sortear múltiples desafíos y gracias a su enorme amor por la repostería, resultó ser… ¡una nueva receta de tarta! “¡Y una tarta exquisita, por cierto!”, concluía el Farol Viejo, lamiendo virtualmente su pantalla.
+
+La siguiente aventura narrada por el Farol Viejo era acerca de “El Perro Panadero y el Misterio de los Croissants Desaparecidos". Don Canelo, un perro con un gorro de cocinero y un delantal de harina, era famoso por sus croissants dorados y crujientes. Un día, misteriosamente, todos los croissants desaparecieron de la panadería.
+
+“¡La alarma se disparó!”, contaba el Farol Viejo, con una voz llena de emoción. “Don Canelo, desconsolado, investigó el caso con la ayuda de un gato detective llamado Sherlockito. Buscaron pistas entre migas y harina, pero la única que encontraban era la puerta entreabierta.”
+
+El misterio se resolvió, por supuesto, de la manera más inesperada: resulta que un grupo de ratones, atraídos por el olor, había planeado el "robo de los croissants" como una pequeña fiesta nocturna. Don Canelo, tras el susto, se unió a la fiesta. Después de todo, ¿quién puede resistirse a un croissant, incluso un perro?
+
+Por último, el Farol Viejo contaba su propia historia: "El Farol Viejo y el Viaje a la Luna de Queso". Un día, cansado de contar historias, el Farol Viejo decidió que quería vivir una aventura. Construyó un cohete con chatarra reciclada y, ¡Zas!, ¡rumbo a la luna!
+
+“¡Fue un viaje lleno de baches!”, narraba el Farol Viejo, mientras las luces parpadeaban. “Me encontré con extraterrestres verdes que bailaban la macarena, meteoritos con forma de pizza y, por supuesto, la luna de queso, ¡tan deliciosa que casi me la como entera!”
+
+En su viaje lunar, descubrió que la luna estaba hecha, no solo de queso, sino también de otros sabores. Había regiones de chocolate, de fresa e incluso, una zona con sabor a… ¡patatas fritas! Después de su aventura espacial, el Farol Viejo regresó al pueblito, contándole a todos los niños sus experiencias intergalácticas.
+
+Así, noche tras noche, el Farol Viejo, bajo la mirada curiosa de las estrellas y con la risa contagiosa de los niños, continuaba iluminando el pueblito, compartiendo sus historias, y convirtiendo cada día en una nueva y brillante aventura. Y es que, como decía el Farol Viejo, “Una buena historia, con un poco de imaginación y mucha salsa tártara, siempre hace que el mundo sea un poco más… ¡sabroso!”.
+```

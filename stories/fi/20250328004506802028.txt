@@ -1,0 +1,89 @@
+<prompt>
+Please write a dialog-based Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Luonnon salaisuudet ja loistava lohikäärme'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fi</lang_id>
+
+<title>Luonnon salaisuudet ja loistava lohikäärme</title>
+<body>
+– Kuuluuko siellä ketään? Huusi pikkutyttö, Lumi, heiluttaen uteliaasti lyhyitä, ruskeita hiuksiaan. Hän seisoi suurten, rehevien lehtipuiden reunustamassa metsässä, juuri siellä missä puut olivat kuin maalattuja väreillä: vihreät, punaiset, keltaiset, ruskeat.
+
+– Kuka siellä? Vastasi karkea, mutta samalla lämmin ääni. Lumi hätkähti hieman. Ääni kuului läheltä, jostakin pensaiden takaa.
+
+Lumi hiipi varovaisesti pensaan luo ja kurkisti varovasti. Siellä, syvällä varjossa, istui… lohikäärme! Se oli valtava, mutta silti jotenkin lempeän näköinen. Sen suomut kimaltelivat kuin auringonvaloa vanginneet jalokivet.
+
+– Wau! Huudahti Lumi. – Oletko sinä… lohikäärme?
+
+Lohikäärme kohotti suurta päätään. Sen silmät olivat kullanväriset ja ne tuikkivat uteliaisuudesta. – Olen, nuori neiti. Olen Kulta. Ja sinä olet…?
+
+– Lumi, vastasi tyttö. – Minä olen Lumi. Olen tullut tänne etsimään luonnon salaisuuksia! Olen kuullut, että tämä metsä on täynnä niitä.
+
+Kulta hörähti kevyesti. – Luonnon salaisuudet! Ne ovat kaikkialla, jos vain osaat katsoa. Tule lähemmäs, Lumi. Kerro minulle, mitä haluat tietää.
+
+Lumi asteli varovaisesti lähemmäs. Hän tunsi olonsa oudosti turvalliseksi, vaikka seisoi lohikäärmeen edessä. – No, esimerkiksi… Miten puut saavat lehtensä keltaisiksi ja punaisiksi?
+
+Kulta hymyili, ja hänen silmäkulmansa kohosivat. – Sehän on helppo juttu! Kesällä puut käyttävät auringonvaloa ja vettä kasvattaakseen itsensä suuriksi ja vahvoiksi. Ne luovat vihreää väriä, klorofylliä, jonka avulla ne tekevät ruokaa. Mutta kun päivät lyhenevät ja tulee kylmempi, klorofylli vähenee. Silloin esiin pääsevät muut värit: keltainen, oranssi, punainen. Ne ovat aina olleet siellä, piilossa, odottamassa omaa hetkeään.
+
+Lumi katsoi puita uudestaan, ja nyt hän näki ne aivan uusin silmin. – Voi vau! Sehän on ihan kuin taikaa! Mutta miten kasvit tietävät, milloin syksy tulee?
+
+– Ah, se onkin jo monimutkaisempi juttu, Kulta vastasi. – Kasvit aistivat ympäristönsä muutoksia. Ne tuntevat ilman viilenemisen, päivänvalon vähenemisen. Ja tietenkin, ne tuntevat itse luonnon kiertokulun. Kaikki elää ja muuttuu. Kevät, kesä, syksy, talvi… Jokaisella on oma tehtävänsä.
+
+– Ja mikä on sinun tehtäväsi? Lumi kysyi uteliaana.
+
+Kulta katsoi ympärilleen. – Minä vartioin tätä metsää, ja opetan niitä, jotka haluavat oppia. Ja tietenkin… suojelen luontoa. Ihmiset, kuten sinä, ovat joskus unohtaneet sen merkityksen.
+
+– Minä rakastan luontoa! Lumi vakuutti. – Käymme usein retkillä äidin ja isän kanssa. Keräämme marjoja ja sienesti, ja katsomme lintuja.
+
+– Se on hienoa, Kulta sanoi. – Silloin tunnet varmasti myös maan antimet. Tiedät, että maa on täynnä salaisuuksia, aivan kuin tämä metsäkin.
+
+– Niin tiedänkin! Lumi innostui. – Olen oppinut, että maan alla on valtava verkosto juuria ja sieniä, jotka auttavat puita ja kasveja elämään. Olen oppinut myös, että mehiläiset ovat tosi tärkeitä kasveille!
+
+Kulta nyökkäsi tyytyväisenä. – Olet oppinut paljon, nuori neiti. Mutta tiedätkö myös, miksi joet virtaavat?
+
+Lumi mietti hetken. – Hmm… No, vesi sataa maahan, ja valuu jokiin ja puroihin, ja sitten mereen.
+
+– Oikein! Kulta vahvisti. – Mutta miksi se valuu?
+
+– Painovoiman takia! Lumi huudahti.
+
+– Ja tiedätkö, mikä tekee merestä suolaisen? Kulta jatkoi kysymistä.
+
+Lumi naurahti. – No, olen oppinut, että meressä on suolaa, ja sitä tulee joista, joissa on suolaista kiveä.
+
+– Hienosti sanottu! Kulta kehui. – Maapallolla on paljon suolaa. Jotenkin se päätyy mereen.
+
+Lumi mietti pitkään. Sitten hän kysyi: – Entä mitä salaisuuksia linnut kätkevät?
+
+Kulta virnisti. – Lintujen salaisuuksia on monia! Mieti vaikka, miten ne osaavat lentää niin korkealle, tai miten ne löytävät takaisin pesimäpaikoilleen tuhansien kilometrien päästä.
+
+– Olen kuullut, että linnut käyttävät aurinkoa ja tähtiä apuna! Lumi tokaisi. – Ja että ne tunnistavat maiseman.
+
+– Todellakin! Kulta vahvisti. – Mutta monimutkaisempia asioita ovat muuttolinnut. Ne lentävät juuri sinne, missä niillä on paras ruoka ja sää. Se on luonnon viisauden ja vaiston huikea yhdistelmä.
+
+Lumi istui ja kuunteli lohikäärmeen juttuja haltioituneena. – Onko sinulla vielä lisää salaisuuksia kerrottavana?
+
+Kulta mietti hetken. – Entäpä eläinten talviunesta? Tiedätkö, miksi jotkut eläimet nukkuvat talvella?
+
+– Siksi, että silloin ei ole ruokaa tarpeeksi! Lumi vastasi nopeasti. – He kuluttavat rasvavarastojaan ja pysyvät turvassa talven kylmyydeltä.
+
+– Juuri niin. Kulta nyökkäsi. – He heräävät taas keväällä, kun luonto herää uudelleen eloon. Silloin alkaa uusi elämän kierto.
+
+Lumi katsoi ympärilleen metsässä. Aurinko paistoi kauniisti ja lehdet kimmelsivät väreissä. – Tämä on niin ihanaa! Täällä on niin paljon nähtävää ja opittavaa!
+
+– Se on totta, Kulta vastasi. – Ja muista, Lumi: luonto ei koskaan lopeta yllättämistä. Joka päivä voit oppia jotain uutta. Jos kuuntelet tarkkaan ja katsot avoimin silmin.
+
+Lumi nousi seisomaan. – Kiitos, Kulta! Olen oppinut tänään niin paljon.
+
+– Ole hyvä, Lumi. Minä olen täällä aina, jos haluat kysyä lisää. Ja muista, etsi luonnon salaisuuksia! Niitä on kaikkialla.
+
+Lumi hymyili leveästi. – Aion etsiä! Kiitos lohikäärme Kulta!
+
+Lumi kääntyi ja lähti kävelemään metsän läpi, hymy huulillaan ja sydämessä suuri ilo. Hän tiesi, että hän tulisi vielä monesti takaisin tähän metsään ja Kulta-lohikäärmeen luo, oppimaan lisää luonnon ihmeistä ja salaisuuksista. Ja ehkä, hän ajatteli, hän oppisi jonain päivänä lentämään itsekin, kuten linnut. Kuka tietää, mitä kaikkea luonto vielä paljastaisi hänelle?
+</body>

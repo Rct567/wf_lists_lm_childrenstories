@@ -1,0 +1,35 @@
+<prompt>
+Please write a silly Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Iter Parvae Testudinis Per Silvam Ob Mirabilem Florum Inventum'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>la</lang_id>
+
+<title>Iter Parvae Testudinis Per Silvam Ob Mirabilem Florum Inventum</title>
+<body>
+Quondam, in silva profunda, ubi arbores altae ad caelum ferebantur et rivi murmurabant, vivebat parva testudo nomine  Testa.  Non erat magna, sed erat celeriter pergens, et animo magno plena.  Die uno,  Testa,  cum sol ardens in silvam fulgebat,  decidit per silvam ambulare,  inquirens delectationem et novas experientias.  Per viam,  invenit  viam angustam,  et se per angustum iter ad locum obscurum duxit.  
+
+Hic,  inter arbores vetustas et frondosas,  invenit locum ubi flores mirabiles in flore erant.  Flores,  colores incredibilis,  erant tam lucidi ut sol in eis luceret.  Rosae rubrae,  violacae caeruleae,  et lilia alba  omnes in uno loco creverunt.  Testa,  in admiratione,  inclinavit caput suum ad flores,  nasum suum ad odorem gratissimam.  Flores  mirabiles  erant tam dulcis,  ut  testudo  non posse  resistere  sua  dulcia  spirare.
+
+"Quam pulchra!" exclamavit Testa,  voce tenui sed contenta. "Numquam flores tales in vita mea vidi!"  Cum  Testa  flores mirabiles  contemplebatur,  audivit  sonum.  Sonus  procedebat  a  ramis  arborum.  Testa,  timida  sed  curiosa,  se  observavit et videbat  parvum  squalidem  lapidem,  qui  parvus  et  niger  erat,  qui  inter  arborem  et  floribus  sedebat.
+
+"Quis es tu?"  interrogavit Testa.  Lapis,  qui  squalidum  sonum  emittebat,  respondit, "Ego sum Lapis,  custos  florum  mirabilium.  Non omnes  possunt  haec  mirabilia  experiri.  Si  voles  flores  mirabiles  deserere,  necesse  est  periculum  transcendere."
+
+"Periculum?"  interrogavit Testa.  "Quid est periculum?"
+
+"In silva  haec  sunt  plures  creaturae  malignae,  qui  voluptatem habent  flores  mirabiles  eligendo.  Nec  te  relinquent  donec  flores  mirabiles  accipiunt.  Invenire  debes  via  ad  exitum  silvae.  Haec  via  non  facilis  est!" dixit  Lapis.
+
+Testa,  non  timorosa,  respondit, "Non timeo!  Paratus  sum  periculum  transcendere!"  Exspectans,  Testa  se  paravit  ad  iter  suum.  Lapis  dedit  Testae  parvam  lapidem,  qui  in  silva  lucebat  et  in  nocte  lucebat.  "Hic lapis te  adiuvabit  per  silvam  navigare."  dicit  Lapis.
+
+Testa  cum  laureola  in  manu  sua  iterum  per  silvam  perambulatus  est.  Per  viam,  occurrerunt  ad  lupos  et  felines,  qui  in  invidia  florum  mirabilium  erant.  Sed  cum  Testa  laureola  lumina  in  mana  habuerit,  omnia  animantia  periculosa  in  lacrimas  inclinabant,  in  timore  et  in  admiratione  lucis.
+
+Testa  per  silvam  transierunt,  dum  a  lupetis  et  felis  periculis  incolumes  relinquebantur.  Post  diebus  multis,  Testa  invenit  exitum  de  silva.  Cum  exitus  silvae  atque  ad  mundum  externam  conversus  est,  invenit  se  in  campum  aperto,  ubi  flores  pulchri  et  varii  erant.
+
+Testa  cum  floribus  mirabilibus  relinquitur  et  ex  silva  exiit.  Testa  gaudete  et  grata  est  quod  in  silvam  per  florum  mirabilium  iter  inire  potuit.  Testa  et  flores  mirabiles  cum  se  reliquerunt,  in  laetitia  et  in  pace.  Testa  deinde  per  campum  laeti  et  contuentes  ambulantem  reliquerunt,  semper  memor  iter  suum  ob  flores  mirabiles  in  silva.
+</body>

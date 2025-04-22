@@ -1,0 +1,49 @@
+<prompt>
+Please write a simple and easy-to-follow Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Vecā kundze arī var būt jauna'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lv</lang_id>
+
+<title>Vecā kundze arī var būt jauna</title>
+<body>
+Mamīte stāstīja, ka vecā kundze, kas dzīvo pie meža malas, ir ļoti, ļoti vecā.  Viņas mati bija balti kā sniegs, un rokas – saraukušās un krokainas kā vecās, nolietotās grāmatas.  Viņa staigāja lēni, ar neredzamu slodzi uz pleciem, un viņas acīs mirdzēja nevis prieks, bet gan kaut kas tāds, kas atgādināja ziedu, kas zaudējis savu krāsu.
+
+Mazā Līva, kas sēdēja mamītes klēpī, jautāja: "Mamīt, vai vecā kundze nekad nav bijusi jauna?"
+
+Mamīte pasmaidīja: "Protams, Līva, katrs, pat visvecākais, kādreiz bija jauns.  Vecā kundze ir redzējusi daudz, daudz vasaras un ziemas, un tās ir atstājušas savas pēdas uz viņas dvēseles.  Tās ir kā krāsainas gleznas, kas kopā veido viņas stāstu.  Bet, tāpat kā glezna, arī viņa joprojām spēj spīdēt, ja vien atceries paskatīties ar sirdi."
+
+Līva, iedomājoties vecās kundzes baltos matus un krokainās rokas, juta kaut ko dīvainu.  Viņa nevarēja iedomāties, kā vecā kundze varētu būt jauna.
+
+Nākamajā dienā Līva devās pastaigā pie meža malas.  Viņa meklēja vecās kundzes māju, kas bija paslēpta starp kokiem.  Māja bija maza un senā, ar dzeltenām, nolaistām sienām.  Līva redzēja, ka vecā kundze sēž uz soliņa pie mājas, rokās turēdama dārzu.
+
+"Labdien," Līva teica, pieejot klāt.
+
+Vecā kundze pacēla skropstas.  Viņas acīs bija dziļa gudrība, bet arī kaut kas gaišs, kaut kas jauns.
+
+"Labdien," viņa atbildēja, balsī, kas bija kā skaists, senas melodijas skaņa. "Ko tu meklē?"
+
+"Es gribēju redzēt, kā jūs esat," Līva atbildēja. "Mamīte teica, ka jūs esat ļoti vecā."
+
+Vecā kundze pasmaidīja.  "Esmu redzējusi daudz, Līva," viņa teica. "Esmu redzējusi, kā ziedi atveras un nokalst, kā koki aug un noveco.  Esmu redzējusi, kā bērni aug un kļūst par pieaugušiem cilvēkiem.  Esmu redzējusi daudz laimes un skumjas.  Bet viss tas nav padarījis mani vecu.  Vecums ir tikai skaitlis, Līva.  Tas ir tas, ko mēs ielikām tajā."
+
+Līva domāja par mamītes vārdiem.  Vecā kundze bija redzējusi daudz, daudz vasaras un ziemas.  Viņas acīs bija redzamas daudzas gleznas.  Bet tās nebija padarījušas viņu vecu.  Vecums bija tikai skaitlis.
+
+"Vai jūs esat jauna?" Līva jautāja.
+
+Vecā kundze pasmaidīja.  "Man ir sirds, kas ir pilna ar prieku un mīlestību," viņa teica. "Man ir rokas, kas spēj sildīt citus.  Man ir acis, kas redz skaistumu visur.  Tas viss ir tas, kas padara mani jaunu.  Tas nav vecuma skaitlis."
+
+Līva paskatījās uz vecās kundzes.  Viņa saprata.  Vecums nav skaitlis.  Vecums ir tas, ko mēs esam ielikām tajā.  Vecā kundze bija jauna, jo viņas sirds bija pilna ar mīlestību, viņas rokas – ar rūpēm, un viņas acis – ar prieku.
+
+Līva pavadīja laiku ar vecā kundzi, klausoties stāstos par viņas dzīvi.  Viņa uzzināja par laiku, kad vecā kundze bija jauna meitene, kas dziedāja dziesmas zem ziediem.  Viņa uzzināja par viņas mīlestību pret dārzu un par viņas rūpēm par ziediem un augiem.  Viņa uzzināja, ka vecā kundze ir pilna ar gudrību, ko viņa bija savākusi caur visu dzīvi.
+
+Līva saprata, ka vecums nav nekas cits kā skaitlis.  Tas, kas padara cilvēku jaunu, ir viņa sirds, rokas un acis.  Un vecā kundze bija pilna ar to visu.
+
+Līva atgriezās mājās, smaidot.  Viņa saprata, ka vecums nav nekas cits kā skaitlis.  Tas, kas padara cilvēku jaunu, ir viņa sirds, rokas un acis.  Un vecā kundze bija pilna ar to visu.  Un Līva atcerējās, ka vecā kundze arī var būt jauna.
+</body>

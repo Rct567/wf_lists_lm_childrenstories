@@ -1,0 +1,102 @@
+<prompt>
+Please write a dialog-based Slovak children's story that is at least 1000 words long.
+It must be completely written in proper Slovak (SK).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Mačiatko, ktoré vedelo rozprávať s vetrom'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>sk</lang_id>
+
+<title>Mačiatko, ktoré vedelo rozprávať s vetrom</title>
+<body>
+Bolo raz, bolo, v malej dedine, ktorá sa volala Slnecná, kde žiili radosní ľudia a zvieratá. V tejto dedine žilo mačiatko menom Miko, ktoré bolo veľmi zvláštne. Miko totiž vedelo rozprávať s vetrom.
+
+Jedného dňa, keď slnko svietilo na nebi, Miko sedelo na okne a pozeralo von. Cítilo teplý vánek, ktorý mu šepkal do ucha: "Miko, Miko, poď so mnou na výlet!"
+
+Miko sa rozčúdilo a spýtalo sa: "Kam si ma chceš odviesť, vetre?"
+
+Veterník odpovedal: "Chcem ťa odviesť do lesa, kde rastú vysoké stromy a žijú radosní zvieratá. Chcem ťa predstaviť mojim priateľom."
+
+Miko sa rozveselilo a povedalo: "Áno, áno, poďme! Som zvedavé, ako vyzerajú tvoj priatelia."
+
+Veterník sa zasmial a povedal: "Dobré, poďme! Drž sa ma pevne, lebo letíme!"
+
+Miko sa držalo veterníka pevne a cítilo, ako ich neseť vzduchom. Videlo, ako sa zem rozťahuje pod nimi a ako sa les bližie a bližie.
+
+Keď prileteli do lesa, Miko uvidelo vysoké stromy, ktoré sa clonili v vetre. Uvidelo aj radosné zvieratá, ktoré sa hrali medzi stromami.
+
+Veterník povedal: "Toto sú moji priatelia. Toto je Javor, ktorý je najvyšší strom v lese. A toto sú muchy, ktoré sú najrýchlejšími lietajúcimi tvormi v lese."
+
+Miko sa rozčúdilo a spýtalo sa: "Ako sa volá tá mucha, ktorá lieta najrýchlejšie?"
+
+Veterník odpovedal: "Tá mucha sa volá Zajko. Je to najrýchlejší lietajúci tvor v lese."
+
+Miko sa rozveselilo a povedalo: "Chcem sa pozdraviť s Zajkom!"
+
+Veterník sa zasmial a povedal: "Dobré, poďme k Zajkovi!"
+
+Keď pršli k Zajkovi, Miko ho pozdravilo a povedalo: "Ahoj, Zajko! Som Miko, mačiatko, ktoré vedie rozprávať s vetrom."
+
+Zajko sa rozčúdil a odpovedal: "Ahoj, Miko! Som Zajko, najrýchlejší lietajúci tvor v lese. Rád ťa spoznám."
+
+Miko a Zajko sa rozprávali dlho a Miko sa dozvedelo mnoho nového o lese a jeho zvieratách.
+
+Keď sa začalo stmievať, Veterník povedal: "Je čas ísť späť do Slnecnej. Drž sa ma pevne, Miko!"
+
+Miko sa držalo veterníka pevne a cítilo, ako ich neseť vzduchom. Videlo, ako sa zem rozťahuje pod nimi a ako sa Slnecná bližie a bližie.
+
+Keď prileteli do Slnecnej, Miko sa rozlúčilo s Veterníkom a povedalo: "Ďakujem ti, Veterníku, za krásny výlet. Som veľmi šťastné, že som spoznalo tvojich priateľov."
+
+Veterník sa zasmial a povedal: "Nie je čo, Miko. Rád ťa vezmem na ďalší výlet. Drž sa!"
+
+Miko sa usmialo a povedalo: "Áno, áno, poďme na ďalší výlet!"
+
+A tak Miko a Veterník lietali ďalej, objavovali nové miesta a spoznávali nových priateľov.
+
+Ďalšieho dňa, keď slnko svietilo na nebi, Miko sedelo na okne a pozeralo von. Cítilo teplý vánek, ktorý mu šepkal do ucha: "Miko, Miko, poď so mnou na výlet do hor!"
+
+Miko sa rozčúdilo a spýtalo sa: "Kam si ma chceš odviesť, vetre?"
+
+Veterník odpovedal: "Chcem ťa odviesť do hor, kde rastú vysoké vrcholy a žijú radosní zvieratá. Chcem ťa predstaviť mojim priateľom, ktorí žijú v horách."
+
+Miko sa rozveselilo a povedalo: "Áno, áno, poďme! Som zvedavé, ako vyzerajú tvoj priatelia v horách."
+
+Veterník sa zasmial a povedal: "Dobré, poďme! Drž sa ma pevne, lebo letíme do hor!"
+
+Miko sa držalo veterníka pevne a cítilo, ako ich neseť vzduchom. Videlo, ako sa zem rozťahuje pod nimi a ako sa hory bližie a bližie.
+
+Keď prileteli do hor, Miko uvidelo vysoké vrcholy, ktoré sa clonili v vetre. Uvidelo aj radosné zvieratá, ktoré sa hrali medzi skalami.
+
+Veterník povedal: "Toto sú moji priatelia. Toto je Medveď, ktorý je najsilnejší živočích v horách. A toto sú orly, ktoré sú najvyššie lietajúce tvory v horách."
+
+Miko sa rozčúdilo a spýtalo sa: "Ako sa volá ten orol, ktorý lieta najvyššie?"
+
+Veterník odpovedal: "Ten orol sa volá Horec. Je to najvyššie lietajúci tvor v horách."
+
+Miko sa rozveselilo a povedalo: "Chcem sa pozdraviť s Horecom!"
+
+Veterník sa zasmial a povedal: "Dobré, poďme k Horecovi!"
+
+Keď pršli k Horecovi, Miko ho pozdravilo a povedalo: "Ahoj, Horec! Som Miko, mačiatko, ktoré vedie rozprávať s vetrom."
+
+Horec sa rozčúdil a odpovedal: "Ahoj, Miko! Som Horec, najvyššie lietajúci tvor v horách. Rád ťa spoznám."
+
+Miko a Horec sa rozprávali dlho a Miko sa dozvedelo mnoho nového o horách a ich zvieratách.
+
+Keď sa začalo stmievať, Veterník povedal: "Je čas ísť späť do Slnecnej. Drž sa ma pevne, Miko!"
+
+Miko sa držalo veterníka pevne a cítilo, ako ich neseť vzduchom. Videlo, ako sa zem rozťahuje pod nimi a ako sa Slnecná bližie a bližie.
+
+Keď prileteli do Slnecnej, Miko sa rozlúčilo s Veterníkom a povedalo: "Ďakujem ti, Veterníku, za krásny výlet. Som veľmi šťastné, že som spoznalo tvojich priateľov v horách."
+
+Veterník sa zasmial a povedal: "Nie je čo, Miko. Rád ťa vezmem na ďalší výlet. Drž sa!"
+
+Miko sa usmialo a povedalo: "Áno, áno, poďme na ďalší výlet!"
+
+A tak Miko a Veterník lietali ďalej, objavovali nové miesta a spoznávali nových priateľov.
+
+Miko sa stalo veľmi známym v Slnecnej, pretože vedelo rozprávať s vetrom a lietať do nových miest. Ľudia v Slnecnej sa divili, ako Miko môže rozprávať s vetrom a lietať

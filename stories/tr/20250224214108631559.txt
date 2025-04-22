@@ -1,0 +1,27 @@
+<prompt>
+Please write a uncomplicated Turkish children's story that is at least 1000 words long.
+It must be completely written in proper Turkish (TR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Bir Masaldaki Kahramanın Hikayesi'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>tr</lang_id>
+
+<title>Bir Masaldaki Kahramanın Hikayesi</title>
+<body>
+<p>Uzun, uzun yıllar önce, yeşil tepelerin ve pırıl pırıl nehirlerin süslediği, masmavi gökyüzünün altında bir köy vardı. Köyün adı Çiçekli Vadisi'ydi. Çiçekli Vadisi’nde yaşayan herkes, cömert doğa tarafından bağışlanan bolca meyve, sebze ve çiçek ile mutlu bir hayat sürüyordu. Köyün tam ortasında, ihtişamlı bir sarayın bulunduğu, en yüksek tepedeki tepenin adı ise,  "Güneş Tepe" idi.  Sarayın duvarları,  binlerce yıllık hikayeler taşıyordu.  Sarayda yaşayan Kral,  Akdeniz'in en güçlü kralıydı. Ancak, Kralın yüreğinde gizli bir hüzün vardı.  Çünkü, sarayın duvarları arasında en değerli hazinesi,  kayıp bir masaldı.</p>
+
+<p>Bir gün, Güneş Tepe'den aşağı doğru gelen bir çocuk, adı Yunus'tu. Yunus,  nehir kıyısında,  sarayın dış duvarlarına kadar uzanan  bir yoldan yürüyor, gözleri  düşüncelerle doluydu.  Çünkü, o,  bu ülkenin, bu sarayın gizli bir kahramanı olduğuna inanıyordu.  Büyük bir heyecan içinde, saraya doğru koştu.  Sarayın önündeki geniş avluda, bir grup yaşlı büyücü ve sihirbaz,  eski bir kitap üzerinde eğilip duruyordu.  Yunus,  onlara yaklaştı.  Kitap,  sarayın en eski hazinelerinden biriydi ve masal dolu sayfaları,  yüzyıllardır kimse tarafından okunmamıştı.</p>
+
+<p>Yunus,  "Sayın büyücüler," dedi. "Bu kitaptaki gizli masalı biliyorum. Kayıp kahramanı bulmak için bir yol arayışındayım."  Büyücüler,  Yunus'a şaşkınlıkla baktılar.  Kimse, bu kitabı ve içindeki masalı o kadar iyi bilmiyordu! Otuz yıllık bir büyücünün,  gözleri yaşlıydı,  sesi titriyordu. "Yunus,  bizim bildiğimiz  gibi, masalların kalbi,  yüreğimizdeki gerçeğin  bir aynasıdır.  Kayıp masalı bulmalısın,  fakat  bunun için özel bir yolculuğa çıkmalısın." dedi. Yunus, heyecanla, "Benimle gelin!" diye bağırdı.  İşte bu,  Yunus'un masal kahramanı olma yolculuğuydu.</p>
+
+<p>Büyücüler, Yunus'a, kayıp masalın, yalnızca birer kelime değil,  dört temel gücün içinde saklı olduğunu söylediler: cesaret, sevgi, akıl ve merhamet.  Yunus,  bu dört gücü bulmak için yola koyuldu.  İlk olarak,  en yüksek dağa tırmanarak  cesareti buldu.  Yolda,  en acımasız hayvanlarla karşılaştı ve onları korkusuzca karşıladı,  cesaretiyle onların korkularını yendi.  Sonrasında,  bir çiçek bahçesinde,  sevgiyi,  bütün canlılara olan şefkatli bağını keşfetti.  Yunus,  yüreğinde sevgiyle dolmuştu ve  bu yolculuk onu daha da güçlü yapmıştı.</p>
+
+<p>Yunus,  akıl yolculuğunda,  nehir kıyısında,  bilge balıkçıların öğretilerine kulak verdi.  Onlardan hayatın sırlarını öğrendi,  ve hayatın anlamını anladı.  Bu yolculuk boyunca,  gözlerinde yeni bir ışık parladı.  Son olarak,  merhamete ulaşmak için,  kendi köyüne geri döndü.  Köyde,  acı çeken insanlara yardım etti.  Onlara  merhametli davranarak,  insanların yüreğine dokunan  bir yolculuk yaptı.  Yunus,  masalın dört temel gücüne kavuştuğu için,  yüzünü  görünce, Güneş Tepe’nin altında  yüksek sesle  söyledi, "Benim masalımdaki kahramanım,  benimle geldi!" diye bağırdı.</p>
+
+<p>Yunus'un bulduğu kayıp masal,  köylülerin yüreğinde yankılanarak,  onları  daha da güçlü kıldı.  Sarayda,  en sonunda,  masal kahramanının hikayesi anlatıldı.  Yunus,  herkesin kalbinde,  ve Güneş Tepe'nin ihtişamlı sarayında,  görünmez bir kahraman olarak kaldı.  Ve her gün,  Çiçekli Vadisi’nde,  yunusların ve diğer hayvanların coşkusuyla, bir masalın güzelliği yeniden hayat buldu.</p>
+</body>

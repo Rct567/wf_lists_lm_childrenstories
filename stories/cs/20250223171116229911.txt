@@ -1,0 +1,35 @@
+<prompt>
+Please write a uncomplicated Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Cesta do fantastického světa Čech'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Cesta do fantastického světa Čech</title>
+<body>
+Malá Anička milovala Čechy.  Nejenom krásné hory a lesy, ale i zvláštní kouzlo, které se v nich skrývalo.  Jednoho slunného odpoledne, zatímco čistila skleněné ozdoby na svém stole,  se jí zdálo, že se jedna z nich rozsvítí.  Neobyčejná zelená koule se začala třpytit a pomalu se zvětšovala.  Anička se s úžasem dívala, jak se koule mění v malou, zářivě modrou bránu. 
+
+„Tak tohle je to kouzlo!“ zašeptala, a s nadšením se k ní přiblížila.  Brána se na ni usmála záhadným, tajemným úsměvem.  Anička se do ní  odvážně  vydala.
+
+Prvním místem, které spatřila, byl fantastický les.  Místo obyčejných stromů rostly stromy s listy z cukroví a větvemi ze zlata.  Ptactvo mělo křídla z barevných per a zpívalo písně plné neznámých slov.  Cesta byla lemována tajemnými květinami, které voněly po sladkých melonech a jahodách.  Anička si nasbírala několik květů a uložila je do malé krabičky.
+
+Potkala tam také zvláštní stvoření. Byla to malá, šedá zvířátka s velkýma očima.  Každé z nich držel v tlapce malý, zářivě modrý kámen.  Anička se jich nebála a usmála se na ně.  Zvířátka se jí odměnila podivuhodnými pohledy a tiše se s ní vydala na cestu.
+
+Další zastávka vedla do pohádkové vesničky.  Domky byly z cukroví a v oknech se třpytily sladké bonbóny.  Na ulicích se procházeli lidé, jejichž oblečení bylo vyrobeno z lesklých listů a květů.  Na náměstí stál velký strom, jehož ovoce dávalo lidem nekonečnou energii.  Anička se seznámila se starou ženou, která měla vlasy jako zlaté sluneční paprsky.  Stará žena jí dala hrst z toho magického ovoce.  Anička se cítila plná energie a nadšení.
+
+Přes úžasný, zelený most se Anička dostala na magickou louku. Byla to louka plná divokých orchidejí s květy v barvách duhy a zvonivé bylinky vytvářely hudbu, která se linula všemi směry.  Ptáci z celé říše, od horských orelů až po lesní sojky, slétli, aby se do hudby zapojili.  Anička si lehla na trávu a poslouchala melodii, která se rozléhala po celém okolí.
+
+Potom se ocitla na kopci, odkud se rozprostíralo úžasné panorama.  Viděla zámek z růžového zlata,  jehož stěny zdobily úžasné obrazy.  A tam uprostřed hradu, v sále zářícím jako tisíce sluncí, stála vysoká, krásná princezna, která jí nabídla sladké víno z lesních plodů.  Anička ochutnala z něho a cítila, jak se jí v těle probouzí velká moudrost.
+
+Všude kolem se leskly ohromné diamanty a měděné vázy se zdály být plné ohnivými drahokamy.  A pak Anička uviděla svou bránu.  Zářila modrou září a volala ji zpět domů.
+
+Anička se s princeznou rozloučila s vděkem a s krásnými vzpomínkami.  Vrátila se do brány a ta se s tichým  zvukem zavřela.  Anička se ocitla zpět na svém stole, se skleněnými ozdobami.  Zelená koule se vrátila do své původní podoby a Anička se na ni s úsměvem dívala.
+
+Od té doby se Anička dívala na svět s novými očima.  Věděla, že kouzlo Čech spočívá nejen v jejich kráse, ale i v tajemstvích, která se skrývají v každém koutě a v každém srdci.   A někdy, když si myslela na fantastický svět Čech,  se jí zdálo, že slyší ozvěny ptačích písní a voní sladké květiny, a cítí na tváři  jemný vánek.
+</body>

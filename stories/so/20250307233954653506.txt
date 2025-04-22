@@ -1,0 +1,38 @@
+<prompt>
+Please write a uncomplicated Somali children's story that is at least 1000 words long.
+It must be completely written in proper Somali (SO).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>so</lang_id>
+
+<title>Sheekada Awoowe Nuur iyo Dameerkii Samatar</title>
+<body>
+Awoowe Nuur, nin aad u da' weyn oo leh indho buluug ah oo qurux badan, wuxuu lahaa dameer aad u qurux badan oo la odhan jiray Samatar. Samatar wuxuu lahaa dabo caddaan ah oo qurux badan iyo lugihiisii oo xoog badan oo ku fiican orodka.  Awoowe Nuur iyo Samatar waxay wada socdeen waddooyinka gobolka ka socda buuraha ilaa dabariga xeebaha. Waxay wada tagayeen inay soo qaataan khudaar iyo miraha ugu fiican oo ka soo baxay beeraha  gobolka, si ay guriga ugu soo karsadaan cunto dhadhan leh.
+
+Maalin maalmaha ka mid ah, markii ay ay ku socodeen waddada  oo ay iftiinka qorraxdu u dhammayd ee u socota habeyn dheer, Samatar wuu oorog dhigay, isagoo wax aan maqashay  lagu yiri  dhegahiisa. Wuu  caaw ku jiidhay  hal lugood.  Awoowe Nuur oo isaga u eegay wuu la  soo bixi waayay meeshii ay waddadu hore u socotay, xataa wuu  goob ka maahanaa iyadoo isku bixinayso. Awoowe Nuur wuxuu istaagay, oo yiri “Samatar, meel kee baad maanta aaday? Waad anfacaysiin naysaa maanta maydkaygu”.
+
+Samatar, oo dhagaha u furaniin dhageystay, ayaa leh, “Awoowe, halkan baa aan u baahanahay, waan wuu ila qabsaday. Waxaan u socodnaa meel hore u lahaa  guriga, waan siisaa laakin waaan dareemayaa in anig aan u aadayso.” Samatar wuu ku soo jeestay meesha u sidaa.  Samatar wuu ka filicnay  meel waxa  xarun  xoog badan.  Dhaqdhaqaaqyada dhicinayo, waxay na ku fariisinayeen  meelaha  goobaban, oo  na dhawaanshiya  awoowe Nuur. Laakin qorshahan  xun  ayaa xoogaa oo  aad u  xumaatay.
+
+Markii ay la kulmeen halkii geed, iyagu waxay bilaabeen  in ay  dhaleceen  fureerka. Waxaanu kuna tagnay biyoodka waxayna bilaabeen in ay oogoodaan dhul kale.  Waxay la kulmeen meelo  xarun fiican leh,  qoraalo guubaabaya iyo simbaab. Marka simbaabka  simbaynaya yaanay gaadhi, wayn ay ila taagtay. Waxaa soo baxday dheer oo  hool xasuust ahaa.  
+
+“Subxaanallaah!” Awoowe Nuur baa isagoo yaaban leh. Hal geed oo ka  saara xarun, waxaa ka soo baxa dhoobada, iyo waxyo kale ayaa ayna  soo degentay.  
+
+“Waar Samatar, waad ka qariysey, sideen  u  gaarankaa  meel  ay guriga ugu kuusho?”. Awoowe Nuur baa waydiiyay  iyadoo  indhaheeda  buuxiyaya  dareemo nabadgelyo oo  badan.  “Hubaal aanu ka tagnay meel na bad tahay kuna hayso wanaag.” ayuu samatar yidhi.
+
+Markay samatar eegidayo markay  xoog sidaa, simbaab, samatar, ilaa samatar u waca ayaa bilaabay ina wuu  garab marayso.  Waxay waxay ku socotay hool  guuban ayaa waxay soo birirayseen dhageysigii  dhara, ama waxa ku  noqonayay xubin ka mid aha samada.
+
+Awoowe Nuur oo indhahoodu buuxiyaya wuu  ila jiidhay Samatar. Waxaanay ku wacdeen dadka iyaguna  goobo ayuu isugu  soo ururin waayay. Way dhammaystiri kari waayeen simbabaabo  ku soo dhaweyn, oo ka samaysa hal xarun.
+
+Waxay ka soo dhaadhacdeen wadadihii guud ee gobolku ka hore u  socday inta la  og yahay iyo dhulka goobaban, ilaa laga tagay magaalada  ilaa aanay  soo xasuustay.
+
+
+Waxa soo baxday inay  qorraxdu soo bilaabatay, iyo  markay is qabteen  Samatar,  way la  soo hooree oo ay ayay soo bilaabeen  sida oo ay  awoowe Nuur hool la  kiciyeen,  iyadoo  dareeneynaya khasaarooyinkii dhammaaday.  Dusha  dheer oo ay  la kici ayaa iyagu u laabteen dhulka oo ay la qaateen kharabadahooda, iyagoo u  daba  soo socodnayso  webi bayaan oo waxaa soo baxday nabad iyo wanaag.  Waxaanay mar dhow gaareen guriga, iyagoo  la qaaday kharabadaha.  
+
+
+Markii ay  guriga  yimaadeen,  Awoowe Nuur  iyo  Samatar  ayaa  soo qaatay miraha iyo khudaarta,  waxayna dhamaan u soo diyaariyeen  cunno dhadhan leh  oo  aanay  wada cunayeen.  Waxayna  xasuustaan  maalin  aad u yaabka  leh, oo uu ahaa mid awood leh mana  xasuusun  ayey  ayagu  hal meel  uu  ila  ahaa, waxa uu sigi u magaluud  kuna joogtay waqtigii aad u xog badan, waxaanay aad u nabad  qaateen.  
+</body>

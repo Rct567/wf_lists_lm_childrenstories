@@ -1,0 +1,39 @@
+<prompt>
+Please write a simple Turkish children's story that is at least 1000 words long.
+It must be completely written in proper Turkish (TR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kırmızı Gülün Açtığı Anda Büyüyen Ağaç'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>tr</lang_id>
+
+<title>Kırmızı Gülün Açtığı Anda Büyüyen Ağaç</title>
+<body>
+Eski, sevgili bir bahçe vardı. Bahçenin ortasında, eski bir köşk duruyordu. Köşkün etrafını, binlerce farklı renkte çiçekler süslerdi.  Papatyalar, menekşeler, laleler…  Ancak, bahçedeki en özel çiçek, bahçenin en özlediği çiçek, kırmızı bir güldü.
+
+Bu gül, diğer çiçeklerden farklıydı.  Diğerleri güneşin altında, yavaşça açar,  yavaşça solardı.  Ama kırmızı gül, diğerlerinin hepsi açmışken,  ilkbaharın en güzel gününde,  en canlı  kırmızısında, aniden, bir anda açılırdı.  Öyle ki, bir bakışta, sanki tüm baharı kucaklamış gibi görünüyordu.
+
+Kırmızı gülün etrafında,  yeterince büyümemiş küçük, incecik bir ağaç vardı.  Güneşin altında,  yağmurun altında, yılın her mevsiminde  kırmızı güle bakardı.  Ağaç, güle hayranlıkla bakarken,  kendisinden daha büyümeyen,  dallarını uzatamıyordu.  Kendi ufacık yapraklarıyla, küçücük gövdesi ile,  kırmızı gülün ihtişamına yetişemeyecek kadar küçük kalıyordu.
+
+Bir gün, kırmızı gülün etrafındaki minik ağaç,  kırmızı güle sordu: "Neden sen,  öyle güzel ve hızlı büyürsün?  Benimle aynı bahçedeyiz, aynı güneş altında yaşıyoruz, aynı yağmurlara tutuluyoruz,  ama ben hiç büyüyemedim.  Ne yapmalıyım?"
+
+Kırmızı gül,  incecik, yeşil yaprakları arasında,  sözcükler dökülür gibi konuştu:  "Sevgili ağaç, büyümenin zamanı gerektirir.  Sabır ve çaba,  büyümenin vazgeçilmez koşullarıdır.  Güneşi kucakla, yağmuru sevinçle karşıla,  toprağın derinliklerinde saklı olan gücü hissederek,  kendini besle.  Ve en önemlisi,  dünyaya,  sevgiyle bak."
+
+Küçük ağaç,  kırmızı gülün sözlerine kulak verdi.  Her sabah, güneşe doğru uzandı.  Her yağmur damlasıyla toprağın derinliklerine doğru kök saldı.  Her gece, yıldızları ve ayı izleyerek,  büyümeyi ve gelişmeyi kendi içindeki ışığa bağladı.
+
+Günler, haftalar, aylar geçti.  Küçük ağaç,  kırmızı gülün sözlerine kulak vererek,  güneş ve yağmurla beslendi. Her gün, biraz daha yükseldi, biraz daha genişledi.  Yaprakları yeşillenerek,  güçlendi.  Kökleri toprağa daha sıkı tutundu.
+
+Ve işte o gün geldi.  Kırmızı gül yine, ihtişamlı kırmızılığında açıldı.  Ancak bu kez,  kırmızı gülün etrafında,  küçük ağaç değildi,  uzun boylu,  güçlü dallar, geniş gövdesi olan,  ağaç büyümeye devam ediyordu.
+
+Ağaç, artık, güneş altında dik duruyordu.  Rüzgârın şarkılarını dinliyordu.  Yaprakları, kırmızı gülün güzelliğiyle  ve kendi güzelliğiyle parlıyordu.  Artık, minik ağaç değildi.
+
+Kırmızı gül,  ağacın büyümesinden çok etkilendi.  Ağacın yanında daha mutlu ve daha neşeli hissediyordu kendini.
+
+O günden sonra, kırmızı gül ve ağaç,  bahçenin en güzel ve en özel ikilisi oldular.  Her sabah, güneş doğduğunda,  kırmızı gül,  açılmak için sabırsızlanır, ağaç da, o güzelliği ve büyüklüğüyle, gülün güzelliğini bir kez daha görmekle övünürdü.
+
+Ve onlar,  bahçenin yüzyıllarca sürecek güzelliğinin  sembolleri oldular.  Birbirlerine destek olmayı,  sabrı ve çalışkanlığı  öğrenen iki dost.
+</body>

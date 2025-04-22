@@ -1,0 +1,44 @@
+<prompt>
+Please write a simple and easy-to-follow Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Ztracený dopis, který změnil osudy celého městečka'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Ztracený dopis, který změnil osudy celého městečka</title>
+<body>
+V malebném městečku Podlesí, skrytém v údolí plném zelených kopců a křišťálově čisté řeky, žila malá holčička jménem Lenka.  Byla to dívka s vlnitými hnědými vlasy a očima jako dva lesklé kameny.  Lenka milovala sbírat kamínky po proudu řeky,  ale nejvíce na světě milovala staré, zaprášené knihy, které najížděla v městské knihovně.
+
+Jednoho slunečného odpoledne, když se Lenka opatrně proplétala mezi dřevěnými policemi s výmluvnými názvy, objevila v koutě zapomenutý svazek starých listin. Byly to pozůstatky z dávného léta, listiny o slavné soutěži malířů! Lenka je prožila hned, jak se k nim přiblížila.  Cítila magickou sílu vycházející z pomačkaných listů papíru.  Měla podezření, že tam, ukrytá mezi řádky a zápisy, je uloženo něco, co by mělo zvednout duše obyvatel městečka Podlesí.
+
+Dopis v knize se vzápětí ukázal, jak se Lenka zaměřila blíže.  Byl složen z žlutého, dožívajícího papíru, na němž byly stopy po dívkách, které z městečka zmizely při svém hledání slavnosti. Nažloutlé skvrny listů v dopise jí připomněly stopy sněhu v zasněženém lese.  A to vše dokazovalo, že listy jsou důležitější, než se zdálo. Dopis mluvil o tajném pokladě!  A v něm se mluvilo o dívkách a o tom, že zmizely.
+
+
+Lenka se ponořila do textu, jejímž obsahem byly staré obrázky, úhledně napsané, a křivulecky psané verše s tajemnou magií. Čtení dopisu bylo jako cesta do dávného času. Na listech bylo rozepsáno, jak starý císař sliboval, že udělí čest obyvatelům Podlesí, jak zvolá název osadníků z dalekých krajů. Prostě, starý císař sliboval pohodu, vděčnost i štěstí.
+
+Dopisu však scházelo několik stránek.  Zklamaná Lenka je vložila do hromady starých knih.  Pak je zaprosila, aby jí pomohl je obnovit. Nakonec, po dlouhé noci, Lenka spěchala s nálezem mezi sousedními domy.  Zažádala o pomoc. Slíbila věrně plnit rady svých sousedů.  Povědomí o úkolu se rozlezlo mezi lidmi, a tak se zapojily do pátrání celá městečka Podlesí.
+
+Spolu se svými kamarády, Malinou a Honzou, začala Lenka shromažďovat indicie.  Honza byl šikovný mechanik a Malině v rukách se mýtické skřítci přeměnili v nezkrotné síly. Všichni hledali, všude pátrali, a zdálo se, že zapomenuté tajemství se ztratilo někde mezi křivými uličkami a schovanými zahradami. 
+
+
+Najednou se Malina zasmála.  "Není tam nic," prohlásila. "Jenom ta malá chatrč za lesem," odvětila. Zastavila se a ušima naslouchala zvukům. Na okraj chatrče zableskla, když se přiblížili. Za ní se ozvalo šustění listí a něco křupavého a tajného. Lenka a Honza spatřili podivuhodné kamínky lemující malou cestičku.  Na nich byly napsané tajné řeči.
+
+Měli pochybnosti, ale usilovně hledali. Najednou, Honza zvedl hluboce zasazený kámen.  Z kamene vypadl ukrytý svazek papírů, přesně jako listiny, které ztratili. Bylo tam vše, vše, co hledali.
+
+Když dopisy došli ke všem obyvatelům městečka, začalo se všechno hýbat. Každá dívka, která v životě usilovala a cítila smutek, s hrdostí přijala povel k tanci. Všichni zvolili tanec s láskou a dojímavým vzájemným pochopením.  Po závěrečném rytmickém tleskání, si Lenka vzala svazek do rukou. Středním pozemkem se hnaly draky, a protnutím všech vln a vln, křišťálové víry zářily jako drahé kameny.
+
+
+Tancem i dojímavým vyprávěním o životě, si město ověřilo tajemství a štěstí v novém směru. Každý se cítil vděčný a šťastný. To bylo projev všech jejich duší a nadějí.
+
+
+Společně, s láskou v srdcích a jiskřivými úsměvy na tvářích, vyrazili do hlubin starého císařského lesa a hledali zdroje krásy. Nenašli ho ale, naopak objevili úžasný výjev: z lesního údolí stoupal krásný papírový motýl. Lehl na list, a odlétal do širokých krajin, unášen povětrným vírem.  Nechal po sobě stopy naděje a lásky.
+
+<br>
+Od té doby se městečko Podlesí proslavilo jako město umělců, hudebníků a příznivců lásky.  A Lenka, odhodlaná splnit úkol, který začala, se stala strážkyní příběhu a symbol naděje v tomto údolí plném krásy a tajemství.
+</body>

@@ -1,0 +1,39 @@
+<prompt>
+Please write a simple and easy-to-follow Catalan children's story that is at least 1000 words long.
+It must be completely written in proper Catalan (CA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Els llums que il·luminaven els somnis dels nens'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>ca</lang_id>
+
+<title>Els llums que il·luminaven els somnis dels nens</title>
+<body>En un petit poble envoltat de muntanyes i valls, on els nens jugaven lliurement pels carrers empedrats, hi havia una llegenda que s'havia transmès de generació en generació. La llegenda parlava d'uns llums màgics que il·luminaven els somnis dels nens, fent-los més vius i emocionants.
+
+Els nens del poble sempre havien sentit curiositat per saber més sobre aquests llums, però cap d'ells havia aconseguit veure'ls mai. Algun dia, un nen anomenat Pere decidí que volia descobrir el secret d'aquests llums. Pere era un nen molt curiós i aventurer, amb els ulls plens de somnis i una imaginació sense límits.
+
+Un vespre, quan el sol s'havia post al darrere de les muntanyes, Pere sortí del seu casa per començar la seva recerca. Caminà pels carrers del poble, preguntant als veïns si sabien res sobre els llums màgics. Alguns li digueren que eren només una llegenda, mentre que d'altres li parlaren d'uns llums que només apareixien a la nit, quan les estrelles brillaven amb més intensitat.
+
+Pere continuà la seva recerca, decidit a trobar els llums. Arribà a la plaça del poble, on hi havia un gran arbre centenari que feia ombra sobre els nens que hi jugaven. Pere s'assegué a l'arbre i començà a mirar cap amunt, cap a les estrelles que començaven a aparèixer al cel. De sobte, sentí un petit soroll a la seva esquerra. Es girà i veié una figura petita i somrient que s'acostava cap a ell.
+
+La figura era un follet, amb les ales de papallona i els cabells de color blau. El follet es presentà com a Llumi, l'encaracat de fer que els llums màgics il·luminessin els somnis dels nens. Llumi li explicà a Pere que els llums només apareixien quan els nens tenien somnis purs i innocents, i que només podien ser vists per aquells que creien en la màgia.
+
+Pere estava emocionat de conèixer Llumi i de saber que els llums màgics eren reals. Llumi li proposà que l'acompanyés en el seu viatge per il·luminar els somnis dels nens. Pere acceptà i junts començaren a caminar cap a les cases del poble. Llumi li ensenyà com fer que els llums apareguessin, i Pere va veure com els somnis dels nens es feien més vius i emocionants.
+
+A mesura que caminaven, Pere veié com els llums màgics il·luminaven els somnis dels nens. Veié com un nen somiava que volava pels aires, amb les ales de àguila, i com una nena somiava que era una princesa, amb un vestit de seda i una corona de diamants. Pere s'adonà que els llums màgics no només il·luminaven els somnis, sinó que també feien que els nens se sentissin més segurs i feliços.
+
+Quan arribaren a la darrera casa del poble, Llumi li digué a Pere que era hora de tornar a casa. Pere es despertà, adonant-se que havia estat somiant. Però quan mirà cap al cel, veié que les estrelles brillaven amb més intensitat que mai, i que els llums màgics il·luminaven els somnis dels nens.
+
+A partir d'aquell dia, Pere sabé que els llums màgics eren reals, i que sempre estarien allà per il·luminar els somnis dels nens. I cada nit, quan es ficava al llit, mirava cap al cel i veia com els llums màgics feien que els somnis dels nens fossin més vius i emocionants.
+
+El poble sencer sabé de la recerca de Pere i de la seva trobada amb Llumi. I a partir d'aquell dia, els nens del poble començaren a creure en la màgia dels llums màgics. Cada nit, abans d'anar a dormir, miraven cap al cel i pregaven perquè els llums màgics il·luminessin els seus somnis.
+
+I així, el poble es convertí en un lloc on la màgia era real, on els somnis dels nens eren il·luminats pels llums màgics, i on la felicitat i la seguretat eren les coses més importants. I Pere, el nen que havia descobert el secret dels llums màgics, es convertí en un heroi per als nens del poble, que sempre recordarien la seva recerca i la seva trobada amb Llumi.
+
+Anys després, quan Pere ja era gran, tornà al poble on havia crescut. I quan mirà cap al cel, veié que els llums màgics encara il·luminaven els somnis dels nens. I sabé que la màgia dels llums màgics mai no desapareixeria, perquè sempre hi hauria nens que creien en ella.
+
+I així, la història dels llums que il·luminaven els somnis dels nens es convertí en una llegenda que s'ha transmès de generació en generació, recordant als nens la importància de creure en la màgia i de somiar en gran. I cada nit, quan les estrelles brillen amb més intensitat, els llums màgics il·luminen els somnis dels nens, fent-los més vius i emocionants, i recordant-los que la màgia sempre està allà, esperant ser descoberta.</body>

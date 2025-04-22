@@ -1,0 +1,53 @@
+<prompt>
+Please write a simple and easy-to-follow Norwegian Nynorsk children's story that is at least 1000 words long.
+It must be completely written in proper Norwegian Nynorsk (NN).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Det spøkelsesfulle huset i dalen'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>nn</lang_id>
+
+<title>Det spøkelsesfulle huset i dalen</title>
+<body>
+Lille Astrid, med sine store, blå auge og et hår som ein solnedgang, budde i ein liten gard i dalen.  Husa der var som små, sølvfarget smykke i det grønne landskapet.  Men éin bygd i dalen skilte seg ut.  Eit gammalt, spøkelsesfullt hus, med gråmurar som var dekte av ein tett gard av mos og edderkoppernett.
+
+Folk fortalte historier om huset. Om ein gammal kone som hadde døydd inne i veggen, om spøkelser som vandra i gangen, og om ein mystisk skatt som låg skjult bak det fallete taket. Astrid hadde alltid lurt på om det var sant.  Hovudskulelæraren, fru Olsen, sa at dei berre var eventyr, men Astrid visste noko anna.
+
+Eitt stille haustkveld, etter at sola var gått ned og himmelen var blitt til ein sort klut brodert med stjerner, tok Astrid seg heimover frå skogen.  Ho bar på ei bukett med  gules, raude og oransje løv som glødde i mørkret.
+
+Ho gjekk forbi det spøkelsesfulle huset.  Vind suste gjennom det tomme taket, og et skrik – det var eit lett sus -  braut seg gjennom natta.  Astrid stansa.  Ho holdt pusten.  Hjartet dunket så ho nesten kunne høyra det gjennom den lange stillnaden.
+
+`Eg er ikkje redd`, tenkte Astrid.  `Eg skal berre sjå kva som er der inne.`
+
+Astrid tok seg modige steg mot huset.  Døra var skeiv, og lukta av gammalt tre og støv møtte ho.  Ho trykte forsiktig på døra. Den knakk open som ein skarp pinne.  Inne var det mørkt, så mørkt at ho knapt kunne sjå ein tomme framfor seg.
+
+Astrid lukka augene og tok eit dypt åndedrett.  Ho lytta.  Ho hørte ingenting anna enn vind og kvekkende avfugtar.  Ein skarp, lysere lyd kom frå eit hjørne i rommet.  Astrid tok forsiktig seg inn, og let seg inn i det mørke.
+
+Ho fant en gammel, støvete bok på gulvet.  Boka var bundet i skinn, og Astrid holdt pusten mens ho løfta den opp.  Tittelen på boka var skriven på eit gammalt og utbleikt språk.
+
+Ho la boka på bordet, og titta på resten av rommet.  Alle vegger var fullt av merkelige tegninger, teikna med tusj og fargar som var falma over tida.  Astrid skreiv seg ut etter sporene på veggene med fingerane.  Ho fant ein liten åpning bak ein ramma bilde av ei gammal kone.
+
+Ved åpningen låg ein liten, skinande diamant.  Den glødde av eigen kraft.
+
+"Det er skatten!" tenkte Astrid. "Fru Olsen hadde rett i det: Dei andre berre fant opp myter for å beskytte desse skattane."
+
+Men Astrid gjekk etter følelsene og oppdagelsen av dei merkelege teikna på veggene. Ho fann ein liten, skrivende skål i eit hjørne. I skåla fann ho små, falma ark av papir. Ho samla dei og såg at dei var ein bokføring, en historie om korleis denne diamant hadde endt opp i huset.  
+
+Historien fortalte om ein jente med lang, vakker hår som, på ei spesiell haustkveld for mange generasjoner siden, hadde funnet den, og gjort bruk av den vakre diamanten. 
+
+Astrid tok diamanten i hendene og følte kor varm den var. Den skinte som ein lyskilde, og fargar frå omverdenen dansa omkring det klare glansen. 
+
+Like etterpå, kom Astrid tilbake til sin egen verden.  Lyset skinte utenfor vinduet og et smil spratt på hennes ansikt. Ho skjønte hvorfor alle sa at det var et spøkelsesfullt hus, det var huset som beskyttede skjønnheten.
+
+Astrid forlot huset med diamant i hendene.  Ho følte seg ikke skremt, men glad. Hun forsto nå at alle historiene, om spøkelser og skatter,  gjorde huset mer spennende for å bevare den mystiske diamanten.
+
+Astrid tok boka og skiltene med seg og tok dem tilbake til sitt hus. Hun fortalte sine foreldre om sin opplevelse. De var imponerte over hvor mye modighet hun hadde vist. 
+
+Ho lærte at det som kan sjå ut som spøkelser og eventyr kan faktisk vere noe mer vakkert og spennende, berre dersom ein veit korleis ein skal tolke det, forklarte hun dem og smilte. Astrid smilte alltid.
+
+Og den gamle, spøkelsesfulle huset i dalen, holdt på sin mystiske hemmelighet, men også på en måte  skjulte en kjærlighetshistorie til Astrid.  Hun hadde funnet skatten, ikke bare av diamant, men av tillit, inspirasjon og kjærlighet til det vakre landskapet.  Siden den dagen var dalen litt mer magisk for Astrid.
+</body>

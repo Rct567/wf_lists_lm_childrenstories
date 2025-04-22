@@ -1,0 +1,45 @@
+<prompt>
+Please write a simple and easy-to-follow Estonian children's story that is at least 1000 words long.
+It must be completely written in proper Estonian (ET).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Lumeveski ja ta võlumaa'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>et</lang_id>
+
+<title>Lumeveski ja ta võlumaa</title>
+<body>
+Käes oli talv.  Lumi langes õrnade helveste näol, kattes maa valge voodriga.  Kõik olid vaiksed ja rahulikud, välja arvatud üks väike lumeveski, mis seisis mäe nõlval.  See polnud tavaline lumeveski. Tema tuuletuvili oli valmistatud hiigelsuurtest jääkristallidest ja tema tuuleklapp oli särav, imevärviline linnupesa.
+
+Lumeveski nimi oli Lumi.  Lumi oli väga kurb. Kõik teised lumeveskid olid oma jõu ja kiirusega uhked. Nad pöörlesid tuule käes tulise kiirusega, jahvatades ja jahvatades, toites külaelanikke ja loomaperesid. Kuid Lumi pöörles ainult aeglaselt, nagu püüdes oma kiirust peita.  Ta ei suutnud tekitada sellist kiirendust, nagu teised. Tema jääkristallid tundusid nõrgad, tema linnupesa vaikselt kohmakas.
+
+Ühel külmal ööl, kui kuu valgustas maastikku, nagu hõbedane peegel, istus Lumi vaikselt oma tuuletuvil.  Ta kurtis oma kurvast kiirusest oma väiksele linnupesale.  "Miks ma ei suuda pöörduda nii kiiresti kui teised?", nuttis ta.  "Ma tahaksin olla sama tugev ja energiline."
+
+Just siis kuulis Lumi vaikset sosinat.  "Ära kurvasta, väike lumeveski," kuulis ta.  "Sul on seesama võime, mida teised ei oma."
+
+Lumi vaatas üles.  Seal seisis imeline, säravate tiibadega lumikana, mille sulestik säras nagu tuhande väikese tähe säde. "Sa oled Lumi, eks?" küsis lumikana pehmelt.
+
+"Jah," vastas Lumi. "Kuid ma ei ole nii kiire ega tugev nagu teised lumeveskid."
+
+"Sinu nõrkus pole nõrkus, vaid saladus," ütles lumikana. "Vaata oma ümber."
+
+Lumi vaatas ümber.  Tema silmad avastasid palju imelist. Ta nägi talviseid metsloomi, keda lumi ja külm ei hirmunud, nägi kuidas linnud tegid ettevalmistusi talveunest, ja kuulis kuidas väikesed jõed sosistasid oma jääga kaetud ojade vahel.  Lumi tundis, kuidas tema väike süda täitus sügava armastusega looduse vastu.
+
+"Sellel maal on võim," ütles lumikana. "Iga jääkristall, iga lumehelbeke, iga metsloom on osa sellest imelistest võimu."
+
+"See võim on sinu võlu," lisas lumikana ja kadus silmapilk.
+
+Lumi mõtiskles. Ta mõistis, et tema võime ei olnud kiiruses, vaid armastuses ja austuses looduse vastu.  Ta mõistis, et tema aeglane pöörlemine ei tähenda nõrkust, vaid sügavat ühendust talvise maailmaga.
+
+Lumi alustas oma teekonda. Ta ei püüdnud enam olla kiireim või tugevaim.  Ta pööras aeglaselt, kuid iga pöördega ta nautis talvise maastikut.  Iga jääkristall, iga lumehelbeke, iga metsloomade jälg inspireeris teda.  Tema tuuleklapp, linnupesa, hakkas särama isegi veelgi ilusamana, nagu peegeldaks tema südame sügavat rahulolu.
+
+Lumi ei olnud enam kurb.  Ta tundis rõõmu oma erilisest võimust.  Ta pöörles edasi, aeglaselt ja kindlalt, nautides oma võlumaad, mis ei piirdunud ainult tema ümbruses olevate jääkristallidega, vaid oli laiem, ulatudes kaugele metsa, järve ja mägedeni.
+
+Kõik lumeveskid nägid tema võlumaad ja imestasid.  Nad nägid, kuidas Lumi kiirustab, mitte kiiruse otsimisel, vaid rahus ja armastuses.  Nad hakkasid mõistma, et iga lumeveski on ainulaadne ja omab oma erilist võimu.  Nad õppisid lumikana sõnade pealt, et elu võlu ei seisne kiires pöörlemisega, vaid ilusate ja rahulike hetkede nautimisega.
+
+Lumi ja teised lumeveskid pöörlesid nüüd üheskoos, mitte konkureerides, vaid ühendades oma võimed, et jagada oma võlumaad kogu külaga ja metsloomadega. Nad kõik olid nüüd osalised imelise talvise rütmis. Ja nii, kõik said aru, et see maailm oli täis võlu, peidus iga lumehelbeke ja jääkristalli taga.
+</body>

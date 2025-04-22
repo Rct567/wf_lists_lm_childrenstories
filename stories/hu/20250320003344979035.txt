@@ -1,0 +1,53 @@
+<prompt>
+Please write a relatable Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A pingvin, aki a melegre vágyott, és a sivatagba költözött messze délre'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>hu</lang_id>
+
+```hu
+<title>A pingvin, aki a melegre vágyott, és a sivatagba költözött messze délre</title>
+<body>
+Egyszer volt, hol nem volt, volt egyszer egy kis pingvin. De nem is akármilyen pingvin! Ez a pingvin, akinek Pityu volt a neve, imádott nagyokat álmodni. Álmában sosem a jeges, hideg Antarktiszban érezte magát, ahol valójában élt. Ő mindig valahol melegben képzelte el magát, egy helyen, ahol süti a nap, és a homok sárga, mint a frissen sült kalács.
+
+Pityu a hidegtől is hidegebb volt, mint a szomszédos jéghegy, ami mellette trónolt, és ami persze még hidegebb volt, mint a nagymama fagyos orra. A pingvin kis pocakjában fészkelő, állandó fázékonyság lassan kiette a békés mindennapjait. A többi pingvin nem értette meg, hogy mi baja van Pityunak. „Hát nem látod? Itt minden olyan pompás!” – mondták. „Rengeteg a hal, lubickolhatunk a vízben, siklunk a jeges partokon!” De Pityu csak didergett és elképzelte a meleg homokot a lábai alatt.
+
+Egy napon, ahogy Pityu éppen egy nagy jégtömbön üldögélt és bámult a távolba, valami furcsa történt. Megpillantott egy szivárványt! Nem, nem csak egy sima szivárványt, mint amit az eső után láthatunk. Ez a szivárvány olyan volt, mintha aranyból lenne, és mintha vibrálna, ragyogna a napfényben. Egyik pillanatban még ott volt, a következőben pedig már egy hosszú, homályos csatornát képzett, ami a horizonton át vezetett.
+
+Pityu szívverése felgyorsult. Tudta, érezte, hogy ez egy lehetőség. Egy esély, hogy megvalósítsa a nagy álmát, a melegre költözést. Annyira meg akarta tapintani azt a forróságot, ami eddig csak álmokban kísértette! Búcsút intett a pingvin barátainak, nem sokat magyarázott, csak annyit suttogott: „Én most elmegyek messzire.” Aztán felkapta magát, és elindult a szivárványos csatorna felé.
+
+A csatorna belseje tele volt meleg fénnyel és furcsa hangokkal. Pityu egyre melegebbet érzett, és mintha egy hatalmas, gyorsvonaton utazna. Egyre gyorsabban száguldott a csatornán, a világ elmosódott körülötte. Végre a végére ért, és kiszaladt a csatornából. Hát persze! Hirtelen a feje felett tűzött a nap, és egy teljesen más világ tárult elé: hatalmas homokdűnék, amelyek a horizontig nyúltak, kaktuszok, amelyek bizarrul álltak a sivatagban, és a levegő, ami annyira forró volt, hogy szinte érezte, ahogy a tollazata ég.
+
+Pityu szeme elkerekedett. Ez az, amire vágyott! Azonnal letelepedett a homokra, ami valóban sárga volt, mint a kalács. Meleg volt, nagyon meleg. Talán túlságosan is meleg, de Pityu nem panaszkodott. Örült. Óvatosan körülnézett. Azonnal felfedezett pár dologt: egy hosszú nyakú, barna teve, ami eléggé fura volt a pingvinek által megszokott állatokhoz képest, és amint meglátta Pityut, furcsán nézett rá. Valamint egy óriási kaktusz, aminek éles tüskéi voltak, és egy meglepően eleven, kis sivatagi róka, aki körbe szaladgált.
+
+Az első napokban Pityu új szokásokat próbált kialakítani. Megtanult a homokban szaladgálni, ami nehéz volt, a lába ugyanis egyfolytában belesüppedt. Megpróbált enni a furcsa, tövises kaktuszokból, de elég csípősek voltak. Aztán a teve is egyre többet érdeklődött nála, és néha furcsa hangokat adott ki, amivel Pityut próbálta megzavarni. Nem volt egyszerű dolga. A hőség próbára tette, az ismeretlen ételek, állatok furcsák voltak, és Pityunak honvágya is volt, hiányoztak a barátai, a halak, a jég...
+
+Egy este, mikor a Nap lebukott, és a homok már hűlni kezdett, Pityu egy magányos dűnén ült, és sóhajtozott. Nem tudta, hogy jó döntést hozott-e. A hideg hiányzott, és a sivatagi élet sokkal keményebb volt, mint gondolta.
+
+Hirtelen, a homályos távolban egy kis, mozgó pontot pillantott meg. Közelebb jött, és Pityu meglepetésére az a kis, eleven sivatagi róka volt, a neve Furfang. Furfang valami furcsaságot cipelt: egy zacskót! Odarohant Pityuhoz, letette a zacskót, és egy kicsit kuncogott.
+
+– Na, mit gondolsz? – kérdezte Furfang. – Egy kis meglepetés a pingvinnek!
+
+Pityu kinyitotta a zacskót. Tele volt hallal! Jégbe fagyasztva, épp úgy, mint amiket a hideg Antarktiszon ettek!
+
+– Honnan szereztél halat? – kérdezte Pityu csodálkozva.
+
+– Találtam egy elhagyott utasszállítót. Ahhoz tartoztak. – magyarázta Furfang. – Észrevettem, hogy néha szomorú vagy, és hiányzik neked az otthonod. Gondoltam, hogy a hal feldob!
+
+Pityu szíve megolvadt a meglepetéstől. Nagyon meghatódtak szavai, és Furfang barátságától. Furfang végig megérezte, hogy Pityunak szüksége van valamire, és megoldotta a problémát! Egyből hatalmasat ölelt a rókán, és nagyokat evett a halakból. Elhatározta, hogy nem adja fel. Elkezdi megtanulni az új helyen való életet, most már két baráttal.
+
+Másnap, Furfang elmagyarázta Pityunak, hogyan tud enni a sivatagi gyümölcsökből, melyek íze meglepően finom volt. Kiderült, hogy a teve, akit korábban furcsának talált, valójában nagyon kedves, csak eleinte zavarba jött a szokatlan vendégtől, és elviszi őt egy hatalmas homokdűnén. A teve elmesélte, hogy ő is mennyit utazott már, és hogy Pityunak nyitott szívvel kell lennie az új élményekre. Elmondta, hogy a homok melegét úgy lehet viselni, hogy egész nap, amikor süt a nap, árnyékban marad, és csak este szaladgál, mikor egy kicsit hűvösebb van.
+
+Pityu egyre többet tanult, egyre jobban megbarátkozott a sivatagi élettel. Egyre ritkábban gondolt a hideg otthonára, és a jeges világra. Persze, néha hiányoztak neki a barátai, a nagy havazások, a jéghideg levegő. Ezért azt tervezte, hogy egyszer visszamegy, meglátogatja a régi helyét, és megmutatja a pingvineknek, hogy mi a meleg.
+
+Aztán egy szép napon, mikor a Nap magasan ragyogott, a nagy sivatagi róka, Furfang, a pingvin, Pityu, és a teve, egy nagy csapatot szervezett a sivatagban. Versenyeztek, a szórakoztak, és nevetgéltek, a sivatagi levegőn! Pityu megértette, hogy az igazi otthon nem a helytől függ, hanem a barátoktól, a szeretettől, a közösségtől.
+
+Azóta is a sivatagban él Pityu, boldogan. Minden nap megköszöni Furfangnak és a tevének a barátságukat. Ő a legboldogabb pingvin a Földön, mert megtalálta, hogy mit szeret igazán, és kit szeret igazán, bárhová is sodorta a sors. Megtanulta, hogy nem csak a hely számít, hanem az, hogy kit veszel magaddal! És persze, nem felejtette el a nagy, aranyos szivárványt sem, ami segített neki a kalandjában. Ha valaha arra járt, bizonyosan újra felkapta volna.
+</body>
+```

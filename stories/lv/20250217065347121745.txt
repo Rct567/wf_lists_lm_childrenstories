@@ -1,0 +1,43 @@
+<prompt>
+Please write a creative and original Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kā vilks kļuva par draugu meitenēm'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>lv</lang_id>
+
+<title>Kā vilks kļuva par draugu meitenēm</title>
+<body>
+Reiz sen senos laikos, mežā, kur auga augstas kāpas un dziļas upes, dzīvoja trīs meitenes - Anna, Marta un Helēna. Tās bija labākās draudzenes un kopā pavadīja visu brīvo laiku. Viņas mīlēja iziet mežā, meklēt sēnes un ogas, kā arī dziedāt un dejojot pa meža ceļiem.
+
+Vienu dienu, kamēr meitenes gāja pa mežu, viņas sastapa vilku. Vilks bija liels un spēcīgs, ar zaļām acīm un baltu apmetumu. Meitenes bija bailīgas, jo viņas zināja, ka vilki var būt bīstami. Tomēr vilks neuzvedās agresīvi, un meitenes sāka runāt ar to.
+
+"Kas tev vajag, vilk?" jautāja Anna.
+
+"Es meklēju draugus," atbildēja vilks. "Es vienātu un neko nevaru darīt, jo mani visi baidās."
+
+Meitenes noskaidroja, ka vilks vārdā saucās Kārlis, un ka viņš bija atdalījies no savas Barsības, jo viņa bija pārāk liela un viņam bija grūti sekot līdzi. Meitenes izlēma palīdzēt Kārlim un aicināja viņu sekot līdzi.
+
+Kārlis bija pārīgi pateicīgs un sāka sekot meiteņu pēdām. Viņas aizveda viņu uz savu māju, kur viņas dzīvoja kopā ar vecākiem. Vecāki bija pārsteigti, redzot vilku, bet meitenes stāstīja par Kārli un viņa stāstu. Vecāki piekrīja, ka Kārlis var palikt pie viņiem, ja viņš būs labs un palīdzēs ar darbiem.
+
+Kārlis bija ļoti labs un palīdzēja meiteņu vecākiem ar dažādiem darbiem. Viņš palīdzēja ar lauku strādām, gādāja par goviem un cūkām, un pat palīdzēja ar mājas darbiem. Meitenes mīlēja Kārli un viņas sāka saukt viņu par "mūsu vilku".
+
+Laika gaitā Kārlis kļuva par īstu draugu meiteņu ģimenē. Viņš dzīvoja kopā ar viņiem un palīdzēja ar visiem darbiem. Meitenes mācīja Kārli runāt un spēlēt dažādus spēļus. Kārlis kļuva par labu draugu un palīgu, un meitenes nevarēja iedomāties dzīvi bez viņa.
+
+Vienu dienu, mežā notika liels negaiss. Vējš putināja un lija stipri. Meitenes un Kārlis bija mājās, bet viņi zināja, ka ārā ir daudz cilvēku, kuri var būt bīstamā situācijā. Kārlis nolēma iziet ārā un palīdzēt cilvēkiem, kas bija bīstamā.
+
+Meitenes bija bailīgas, jo viņas zināja, ka negaiss ir bīstams, bet Kārlis bija drošs un spēcīgs. Viņš izgāja ārā un sāka meklēt cilvēkus, kuriem vajadzēja palīdzība. Kārlis atrada veco sievieti, kura bija izskēlusies no savas mājas un nevarēja atgriezties. Kārlis palīdzēja sievietei atgriezties mājās un nodrošināja, ka viņa ir drošībā.
+
+Meitenes bija pārīgi pateicīgas Kārlim par viņa varonību. Viņas zināja, ka Kārlis ir īsts draugs un ka viņš vienmēr būs gatavs palīdzēt. Kārlis atgriezās mājās, un meitenes svinēja viņa varonību.
+
+No tā dienas Kārlis bija zināms kā varonīgais vilks, kas palīdzēja cilvēkiem bīstamā situācijā. Meitenes un Kārlis turpināja dzīvot kopā, un viņi bija ļoti laimīgi. Kārlis bija kļuvis par īstu draugu meiteņu ģimenē, un viņi zināja, ka viņš vienmēr būs gatavs palīdzēt.
+
+Gadu gaitā Kārlis kļuva par sava veida leģendu mežā. Cilvēki stāstīja par varonīgo vilku, kas palīdzēja cilvēkiem bīstamā situācijā. Meitenes un Kārlis turpināja dzīvot kopā, un viņi bija ļoti laimīgi. Kārlis bija kļuvis par īstu draugu meiteņu ģimenē, un viņi zināja, ka viņš vienmēr būs gatavs palīdzēt.
+
+Un tā meitenes un Kārlis dzīvoja laimīgi visu mūžu, zinādami, ka viņi ir labi draugi un ka viņi vienmēr būs gatavi palīdzēt. Kārlis bija kļuvis par daļu no meiteņu ģimenes, un viņi nevarēja iedomāties dzīvi bez viņa. Meitenes un Kārlis bija īsti draugi, un viņi zināja, ka viņu draudzība būs mūžīga.
+</body>

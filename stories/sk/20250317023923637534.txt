@@ -1,0 +1,78 @@
+<prompt>
+Please write a silly Slovak children's story that is at least 1000 words long.
+It must be completely written in proper Slovak (SK).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Zázraky v kvetinovom záhrade na konci sveta'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>sk</lang_id>
+
+```xml
+<title>Zázraky v kvetinovom záhrade na konci sveta</title><body>
+Bol raz jeden svet, kde slnko svietilo rovnako ružovo ako žuvačka a oblaky mali tvar obrovských, nadýchaných baránkov, ktoré sa volali Ovecky-Chrumky. A na samom, úplnom konci tohto sveta, kde more špliechalo vôňou slaných uhorkov, sa nachádzala kvetinová záhrada. Ale nie len tak hocijaká! Bola to Zázračná kvetinová záhrada na konci sveta, kde kvetiny namiesto slzami zalievali trávu limonádou a namiesto včiel v nej bzučali miniatúrne, zveselé kaktusy s cylindrami.
+
+V tejto záhrade žila malá dievčinka menom Žofka. Žofka mala vlasy ako kukuričné klásky a oči, ktoré farbou pripomínali najzrelšie slivky, a nos, ktorý sa v smiechu jemne zrúcaval, ako keby chcel chytiť motýle. Najradšej mala svojich dvoch priateľov: rozprávačského slimáka Slimáčika – ktorý vedel rozprávať o všetkom, len nie o slimákoch, pretože na to vraj nemal „slimačí mozog“ – a škrečka-kúzelníka Ťapku, ktorý vyčarúval zakaždým niečo úplne nečakané, ako napríklad dáždniky z banánov, alebo labute z cestovín.
+
+Jedného dňa, keď slnko-žuvačka žmurkalo na Žofku, Slimáčik ju s veľkým divadlom zavolal: „Žofka, Žofka! Musíš prísť! Je to VEĽMI dôležité! Zázrak! Alebo skôr... zázraky!“
+
+Žofka s úsmevom od ucha k uchu pribehla k Slimáčikovi, ktorý sedel na obrovskom, červenom tulipáne, s očami takmer vypúlenými zo vzrušenia. „Čo sa stalo, Slimáčik?“ opýtala sa.
+
+„Ťapko…“ začal Slimáčik, a zdalo sa, že sa mu jazyk zamotáva. „Ťapko sa premenil na… na… tekvicu! Presne tak, tekvicu!“
+
+Žofka si prekvapene zakryla ústa. „Ťapko na tekvicu? To je… nezvyčajné!“
+
+Slová „nezvyčajné“ sa im zjavne zachutili, pretože zrazu sa z úkrytu medzi listami objavil aj Ťapko, no… skutočne vyzeral ako veľká, oranžová tekvica. Na jeho mieste na hlavu sedel malý kaktus s cylindrom a zamračene sa na nich pozeral.
+
+„Mmm, to je trošku nepríjemné,“ zamrmlala tekvica-Ťapko, jej hlas sa ozýval trošku hlbšie a dutšie ako zvyčajne. „Zas to bude trvať dlho, kým sa znova premením… A cítim sa trochu…dutý.“
+
+Žofka, ako správna kamarátka, okamžite premýšľala, čo robiť. „Slimáčik, máš nejaký nápad? Ako ho môžeme vrátiť späť?“
+
+Slimáčik si zahryzol do okvetného lístka tulipánu (pretože bol hladný) a po chvíli váhania povedal: „No, počul som, že na to, aby sa čarovná vec napravila, musí sa… hm… použiť niečo rovnako čarovné! Alebo aspoň… zábavné!“
+
+Žofka si to zapisovala do svojho neviditeľného zápisníka (pretože ten skutočný, z papiera, sa jej minule rozpustil v čajovej zálievke). „Zábavné… Ale čo je zábavné?“
+
+„Nuž…“ zamyslel sa Slimáčik. „Čo tak… súťaž v tanci s kaktusmi? Tie v cylindroch sú strašne súťaživé!“
+
+Žofka súhlasila. Rozhodne to znelo zábavne a kto vie, možno to pomôže Ťapkovi. Rýchlo sa teda vydali do kaktusovej časti záhrady. Keď kaktusy s cylindrami zbadali, čo sa deje, ich malé, trstinaté srdiečka (ak vôbec nejaké mali) zaplesali radosťou.
+
+Žofka im vysvetlila situáciu a o chvíľu už prebiehala rozsiahla tanečná súťaž. Kaktusy sa predvádzali s najneuveriteľnejšími choreografiami: točili sa ako vrtule, prekvapkávali z miesta na miesto ako popcorn, a dokonca robili aj salta (no iba tie menšie). Slimáčik, ako nestranný porotca, ich hodnotil mimoriadne prísne (každý, kto by chcel vyhrať, musel by vraj tancovať s dôstojnosťou a bez úrazu), a Žofka povzbudzovala a smiala sa, až jej tečúli slzy limonády.
+
+Ťapko, aj keď bol tekvicou, sa nemohol ubrániť úsmevu (či skôr záblesku oranžovej radosti). Keď sa však snažil sledovať túto chaotickú a zábavnú tanečnú bitku, cítil, ako sa v ňom deje niečo zvláštne. Začal cítiť páľavu a brnenie a nakoniec… *puf*! Namiesto tekvice tam opäť stál škrečok Ťapko, celý spotený a s trochou hliny na ušiach, ale so širokým úsmevom.
+
+„Podarilo sa!“ zvolal Ťapko, skákajúc od radosti.
+
+„Výborne! Úžasné!“ kričala Žofka.
+
+Slimáčik s uľavením odkvácal k nim. Súťaž v tanci s kaktusmi sa skončila nerozhodne, no to už vôbec nikoho netrápilo.
+
+Žofka, Slimáčik a Ťapko sa teraz potrebovali nejako odmeniť. Zišli sa teda na obrovskej čajovej lyžičke (ktorá sa v záhrade používala ako kolotoč) a premýšľali, čo teraz. „Mám nápad!“ povedala Žofka. „Poďme na piknik s bublinkovým šampanským!“
+
+„Výborná myšlienka!“ zahrmel Slimáčik.
+
+„Hurá!“ piskl Ťapko.
+
+Piknik bol naozaj rozprávkový. Rozprávačský slimák vyrozprával nekonečné množstvo príbehov (pretože nikdy nezostalo len pri jednom) a škrečok, aj keď bol celý čas opäť čarovný, sa už nepremieňal (možno sa len poučil zo svojho zážitku). Vypili bublinkové šampanské (vďaka ktorému im šampanské skákalo do nosov a vypľúvali ho vo forme malých farebných hviezd) a jedli chlebíčky s uhorkami a paradajkami, ktoré boli opečatené s láskou priamo zo Zázračnej kvetinovej záhrady na konci sveta.
+
+Zrazu, pri jedle, Žofka zdvihla zrak a hľadela s údivom.
+
+„Čo sa deje, Žofka?“ opýtal sa Slimáčik.
+
+„Pozerám sa na tie kvetiny,“ odpovedala Žofka, jej oči žiarili ako trblietavé drahokamy. „Všimnite si ich… Vyzerajú šťastné.“
+
+Všetci sa pozreli na kvetiny. Všetky, bez výnimky, mali akýsi žiarivý, zelený lesk. Vlastne, všetko okolo nich malo o trošku krajšie farby, o trošku silnejšiu vôňu, o trošku zábavnejšiu náladu.
+
+Ťapko prehovoril: „To je preto, že sme sa smiali. Smiech je najmocnejšie kúzlo zo všetkých!“
+
+„Možno,“ súhlasil Slimáčik a opäť sa schoval za lístok kapusty (ktorý nosil vždy ako bezpečnostný dáždnik). „Smiech vnáša do sveta radosť. A radosť je... No, radosť je dôležitá!“
+
+A tak, zatiaľ čo slnko-žuvačka už začínalo zapadať za horizont (hoci vďaka zázračnosti kvetinovej záhrady to trvalo veľmi, veľmi dlho), Žofka, Slimáčik a Ťapko si uvedomili najväčší zázrak zo všetkých. A ten zázrak bol, že stačí smiech, aby svet dostal tie najkrajšie farby.
+
+Dohodli sa, že každý deň budú robiť niečo zábavné, aby sa ich Zázračná kvetinová záhrada cítila šťastne. Možno to bol tanečný súboj s kaktusmi, možno piknik, alebo iba rozprávanie vtipov, zakaždým pri západu slnka.
+
+A od tej doby, aj keď nikto nevedel presne ako, Zázračná kvetinová záhrada na konci sveta kvitla čoraz viac. A tak dlho, pokiaľ sa na konci sveta rozliehal smiech, všetko sa mohlo stať. Koniec koncov, v takej záhrade sú zázraky na každom kroku.
+</body>
+```

@@ -1,0 +1,37 @@
+<prompt>
+Please write a silly Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Urocza Kocia Rodzinka: Historie Pięciu Kotków z Błękitnymi Oczami.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pl</lang_id>
+
+<title>Urocza Kocia Rodzinka: Historie Pięciu Kotków z Błękitnymi Oczami.</title>
+<body>
+W malowniczej wiosce, gdzie domy miały dachy w kolorze czekolady, a na każdym płocie siedziały gile, mieszkała niezwykła kocia rodzinka. Byli to koty o wyjątkowym atucie: wszystkie pięć kotków miało oczy w kolorze błękitu nieba, tak jasne i błyszczące, jak najczystszy diament. Mamą była piękna, kremowa kotka o imieniu Śmietanka. Tata, dostojny szary kocurek, nazywał się Popiel. I mieli oni pięcioro dzieciaków, każde bardziej psotne od poprzedniego!
+
+Pierwszy był Kleks. Jego futro było czarne jak smoła, ale błękitne oczy sprawiały, że wyglądał jak gwiazda na niebie. Kleks uwielbiał broić. Jego ulubioną rozrywką było chowanie kapci Pana Zielińskiego, rolnika mieszkającego po sąsiedzku. Pewnego razu Kleks schował wszystkie kapcie w stodole, pod ogromną kupą siana! Pan Zieliński biegał z płaczem po wiosce, pytając, czy ktoś widział jego kapcie. Wszyscy, oczywiście, wiedzieli kto to zrobił, ale nikt nie zdradził Kleksa, bo bardzo go lubili. Kleks, obserwując całą scenę z dachu, parskał śmiechem i potrząsał wąsami.
+
+Druga była Jagódka. Jagódka była cały w prążki, jak mała tygrysica. Była niezwykle sprytna i inteligentna. Zawsze wiedziała, jak wywabić coś dobrego z kuchni. Jej ulubionym przysmakiem była śmietana, którą podkradała z wiadra na mleko. Pewnego dnia, Jagódka postanowiła dostać się do lodówki. To było nie lada wyzwanie! Po godzinie prób, wspinania się i przeskakiwania, Jagódka wpadła na genialny pomysł. Postanowiła wykorzystać swoją sprytną naturę i poprosiła o pomoc najmniejszego z rodzeństwa.
+
+Trzeci był Pączek. Pączek był okrągły, puszysty i uwielbiał spać. Jego futro miało kolor słonecznego blasku. Pączek był bardzo sympatyczny, ale potrafił też narobić bałaganu. Jego największą pasją było tarzalanie się w błocie. Pewnego razu, po takiej "kąpieli", wszedł prosto do domu i wytarzał się o świeżo wypraną pościel. Śmietanka była wściekła, ale kiedy spojrzała w błękitne oczy Pączka, od razu się rozczuliła i tylko pokręciła głową.
+
+Czwarta była Lawenda. Lawenda miała delikatne, szare futro i oczy w kolorze najgłębszego błękitu. Była marzycielką i uwielbiała przesiadywać na dachu, obserwując chmury. Często wyobrażała sobie, że jest księżniczką latającą na dywanie. Lawenda kochała śpiewać. Jej koci głos był tak piękny, że wszystkie ptaki w okolicy zastygały w bezruchu, słuchając jej pieśni. Pewnego dnia, Lawenda zgubiła swój ulubiony grzebień. Przez tydzień nie mogła znaleźć swojego przyjaciela. Smutna, chodziła po domu szukając zguby. Na szczęście, dzięki pomocy Kleksa, udało jej się go odnaleźć pod krzakiem róż.
+
+Ostatnim, piątym kociakiem był Mruczek. Mruczek był najmniejszy i najcichszy z rodzeństwa. Miał szare futro i najbardziej przenikliwe błękitne oczy. Był trochę nieśmiały, ale bardzo odważny. Mruczek uwielbiał zagadki i tajemnice. To on wpadł na pomysł, żeby pomóc Jagódce dostać się do lodówki. Mruczek był również jedynym kotkiem, który potrafił zrozumieć mowę ptaków. Pewnego razu, Mruczek podsłuchał rozmowę dwóch wron, które planowały ukraść Panią Agacie czerwoną kokardę z włosów. Mruczek, nie zastanawiając się ani chwili, pobiegł do Pani Agaty i ostrzegł ją przed kradzieżą. Pani Agata była mu bardzo wdzięczna i dała mu w nagrodę miskę pysznego łososia.
+
+Pewnego pięknego, słonecznego dnia, kocia rodzinka wybrała się na spacer do lasu. Kleks od razu zaczął buszować po krzakach, szukając przygód. Jagódka wypatrzyła małego motyla i próbowała go złapać. Pączek jak zwykle tarzał się w liściach. Lawenda nuciła pod nosem swoją ulubioną piosenkę. A Mruczek, pełen ciekawości, odkrywał tajemnice leśnego świata.
+
+Nagle, zza drzew wyszedł wielki, burczliwy pies. Pies był ogromny i bardzo groźnie wyglądał. Kociaki, przestraszone, zaczęły uciekać. Kleks wskoczył na drzewo, Jagódka schowała się pod krzakiem, Pączek próbował zakopać się w ziemi, Lawenda zaczęła śpiewać piosenkę, mając nadzieję, że pies się rozczuli, a Mruczek... Mruczek postanowił porozmawiać z psem.
+
+Mruczek, z całą powagą, zapytał psa: "Czego szukasz, panie psie?" Pies, zdziwiony, że mały kotek do niego mówi, odpowiedział: "Szukam swojej zguby. Zgubiłem swoją ulubioną kość." Mruczek, który świetnie orientował się w terenie, zapytał: "A gdzie ją zgubiłeś?" Pies opowiedział o miejscu, gdzie się to stało. Mruczek, obdarzony wyjątkowym słuchem, pokierował psa, i rzeczywiście, kość leżała zakopana pod drzewem.
+
+Pies, wdzięczny za pomoc, zamiast gryźć, zaczął lizać Mruczka po głowie. Zaskoczone kociaki wyszły ze swoich kryjówek. Pies, widząc błękitne oczy, roześmiał się głośno i powiedział: "Ależ macie śliczne oczy! Jak najpiękniejsze niebo!" Od tego dnia, pies i kocia rodzina zostali najlepszymi przyjaciółmi. Czasami razem chodzili na spacery do lasu. Kleks przestawał chować kapcie, Jagódka przestała kraść śmietanę, Pączek już tak bardzo się nie brudził, Lawenda przestała bać się burz, a Mruczek znalazł w końcu przyjaciela, który rozumiał jego pasję do zagadek.
+
+Żyli długo i szczęśliwie w swojej czekoladowej wiosce, a błękitne oczy pięciorga kociąt nadal błyszczały jak najpiękniejsze gwiazdy. A co się stało z kapciami Pana Zielińskiego? Po roku Kleks przyniósł je wszystkie pod drzwi, w zamian za miskę pysznej śmietany. Pan Zieliński, wciąż roześmiany, obiecał kotu dodatkowy talerz łososia, jeżeli przestanie ukrywać jego obuwie. I tak oto, historia o uroczej kociej rodzince z błękitnymi oczami zakończyła się szczęśliwie.
+</body>

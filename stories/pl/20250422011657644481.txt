@@ -1,0 +1,70 @@
+<prompt>
+Please write a uncomplicated Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Czarodziejski Las, Gdzie Drzewa Mają Dzieci i Grają Razem'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pl</lang_id>
+
+```xml
+<title>Czarodziejski Las, Gdzie Drzewa Mają Dzieci i Grają Razem</title>
+<body>
+Dawno, dawno temu, za siedmioma górami i za siedmioma lasami, gdzie słońce tańczyło na listkach, a wiatr śpiewał kołysanki, znajdował się niezwykły las. Nazywano go Czarodziejskim Lasem. Nie był to zwykły las, w którym rosły tylko drzewa. W Czarodziejskim Lesie drzewa miały dzieci. Tak, dokładnie! Drzewa miały małe, urocze drzewka, które biegały po polanach, bawiły się w chowanego i śmiały się głośno.
+
+W tym czarodziejskim lesie mieszkała mała, wesoła dziewczynka o imieniu Jagódka. Miała kręcone włosy koloru miodu i oczy jak dwa małe, niebieskie jeziora. Jagódka kochała Czarodziejski Las nad życie. Codziennie rano, zaraz po przebudzeniu, biegła do lasu, by spędzać czas ze swoimi przyjaciółmi – dziećmi drzew.
+
+Najlepszym przyjacielem Jagódki był Mały Dąbek. Był to malutki, ale bardzo odważny dąb, który miał silne korzenie i wspaniałą, zieloną koronę. Mały Dąbek uwielbiał wspinać się na wyższe drzewa i obserwować świat z góry. Miał też braciszka, Leszczynka, który był bardzo skryty i wstydliwy, ale miał niesamowicie ostre oko do szukania leśnych skarbów, takich jak błyszczące kamienie czy kolorowe piórka.
+
+Innym przyjacielem Jagódki była Śliweczka. Była to mała, zgrabna śliwa, która uwielbiała tańczyć i śpiewać. Jej śpiew był tak piękny, że wszystkie zwierzęta w lesie zatrzymywały się, by jej słuchać. Śliweczka zawsze była wesoła i zarażała wszystkich swoim optymizmem.
+
+Pewnego pięknego dnia, kiedy słońce świeciło jasno na niebie, Jagódka pobiegła do lasu, jak zwykle. Wołała: „Mały Dąbku! Śliweczko! Gdzie jesteście?”. Usłyszała ciche szmery, szelesty liści i nagle… zza krzaka wyskoczył Mały Dąbek!
+
+„Jagódko! Wspaniale, że przyszłaś!” – zawołał uradowany Mały Dąbek. „Mamy problem!”.
+
+Jagódka zmarszczyła brwi. „Problem? Jaki problem?”.
+
+Mały Dąbek spojrzał na nią poważnie. „Nasza mama, Wielki Dąb, przestała rosnąć. Zmartwiła się i traci radość. A bez niej, cały las jest smutny”.
+
+Jagódka rozejrzała się dookoła. Rzeczywiście, las wydawał się nieco przygnębiony. Liście zwisały ociężale, a ptaki nie śpiewały tak głośno, jak zwykle.
+
+„Chodźmy do Wielkiego Dębu!” – powiedziała Jagódka stanowczo.
+
+Razem z Małym Dębkiem ruszyli w głąb lasu. Po drodze spotkali Śliweczkę.
+
+„Co się stało?” – zapytała zatroskana Śliweczka.
+
+„Wielki Dąb jest smutny” – odpowiedziała Jagódka. „Musimy coś zrobić!”.
+
+W trójkę, dotarli do Wielkiego Dębu. Wielki Dąb był ogromnym drzewem, którego konary sięgały aż do nieba. Wyglądał na zmartwionego. Jego liście były lekko opadnięte.
+
+„Witajcie, moje kochane dzieci” – powiedział Wielki Dąb cichym głosem. „Jestem bardzo zmartwiony. Coś sprawia, że nie mogę rosnąć i jestem smutny.”
+
+Jagódka pomyślała chwilę. Spojrzała na wesołe, błyszczące oczy Małego Dębu i przypomniała sobie wszystko, co dobre w tym lesie. „Wiem!” – krzyknęła nagle. „Brakuje nam zabawy! Las potrzebuje radości! Musimy zorganizować wielki festiwal!”
+
+Mały Dąbek i Śliweczka z radością poparli ten pomysł. „Tak! Musimy zorganizować festiwal!” – zawołał Mały Dąbek. „Będziemy się bawić, tańczyć i śpiewać!”.
+
+„Pomyślmy, co możemy zrobić” – powiedziała Śliweczka. „Może zaprosimy wszystkie zwierzęta z lasu? I będziemy opowiadać bajki, a może zrobić konkurs na najpiękniejszą piosenkę o lesie?”.
+
+Wszyscy zgodzili się, że to wspaniały pomysł. Jagódka natychmiast pobiegła powiadomić wszystkie zwierzęta. Mały Dąbek wyruszył, żeby przygotować plac do zabawy, a Śliweczka zaczęła komponować nową, wesołą piosenkę.
+
+Wszystkie zwierzęta w lesie ucieszyły się z zaproszenia na festiwal. Wiewiórki szykowały orzechy na poczęstunek, jeże zbierały owoce, a ptaki ćwiczyły śpiew.
+
+Po całym dniu przygotowań, nadszedł wreszcie dzień festiwalu. Na polanie zebrały się wszystkie dzieci drzew, zwierzęta i Jagódka. Wszyscy byli podekscytowani.
+
+Mały Dąbek z radością powitał wszystkich ze szczytu małej górki usypanej z ziemi i liści. „Witamy serdecznie! Zapraszamy do wspólnej zabawy!”.
+
+Rozpoczęło się wielkie świętowanie. Śliweczka zaśpiewała swoją nową piosenkę, która opowiadała o pięknie Czarodziejskiego Lasu. Wszystkie zwierzęta tańczyły i śpiewały razem. Jagódka opowiadała wesołe bajki, a dzieci drzew, w tym Mały Dąbek i jego brat Leszczyn, i Śliweczka, bawiły się w chowanego wśród drzew. Leszczyn pokazał swoje umiejętności odnajdywania leśnych skarbów, dzięki czemu wszystkie dzieci drzew otrzymały przepiękne kamyki.
+Pewnego momentu zrobiło się nieco ciszej, gdy każdy z obecnych zauważył, jak bardzo ucieszył się Wielki Dąb. Jego gałęzie powoli uniosły się do góry. Słońce znów zaczęło mocniej świecić, a ptaki śpiewały jeszcze piękniej. Wiatr tańczył wokół nich, szeleszcząc listkami.
+
+Wielki Dąb uśmiechnął się. Był szczęśliwy. Znowu poczuł radość życia i zaczął rosnąć! Z każdym dniem stawał się większy i silniejszy.
+
+„Widzicie!” – zawołała Jagódka, śmiejąc się. „Radość i zabawa są najważniejsze!”.
+
+Od tego dnia, Czarodziejski Las rozkwitał jeszcze bardziej. Każdego roku organizowano festiwale, na których drzewa, dzieci i zwierzęta bawiły się razem, śmiejąc się i tańcząc. Las stawał się jeszcze piękniejszy, a jego magia trwała wiecznie, bo drzewa pamiętały, jak ważne jest, by dbać o siebie nawzajem i zawsze się uśmiechać. Dzieci drzew rosły i były szczęśliwe, a Jagódka, już dorosła dziewczyna, nadal odwiedzała swoich przyjaciół w lesie, spędzając z nimi piękne chwile. Wiedziała, że w Czarodziejskim Lesie, radość nigdy się nie kończy. I nawet dzisiaj, jeśli bardzo uważnie posłuchacie, możecie usłyszeć śmiech dzieci drzew i śpiew Śliweczki, bo magia Czarodziejskiego Lasu wciąż trwa... w waszych sercach!
+</body>
+```

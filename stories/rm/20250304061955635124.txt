@@ -1,0 +1,37 @@
+<prompt>
+Please write a simple and easy-to-follow Romansh children's story that is at least 1000 words long.
+It must be completely written in proper Romansh (RM).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La lutta da las flurs cunter il fraid'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>rm</lang_id>
+
+<title>La lutta da las flurs cunter il fraid</title>
+<body>
+En la val da Surselva, en un pli da muntogna, vivan pliras flurs.  Era la bela e fragil Giada, la robusta e colorada Rosa, il simpatic e gialg ch'era il Sole, e la discreta e bianca Margherita.  Tut las flurs eran amiche e s'aimavan.  Eran creschius en la terra calda e fertil, en un lieu da solei e da ventas lievis.
+
+Un di, però, arrivà un fraid increïbel.  Il vent s'agittà cunter las muntognas, e la nèiv comenza a cadir, a copir tut cun un mantel blanc e fred.  Las flurs, abituadas a la calidez del solei, tremavan.  Giada, cun ses petalis delicads, tremava tant ch'i s'incurvavan.  Rosa, cun ses petalis ross, sembrava un'ombra en la nèiv.  Il Sole, cun ses petalis gialgs, s'incurvà, perdend la soa forma.  E Margherita, cun ses petalis blancs, semblantavan da far part da la nèiv.
+
+«Oh, qu'è quel fraid terrible!», sussurrà Giada.  «Creid ch'i na pudaimai pli vegnir la primavera!».
+
+«Na te preocupà, Giada», répondì Rosa, cun la soa voiz ferma.  «Tut las flurs han passà l'inviern.  I na s'han pas abandonà a la nèiv.  I han tenì la speranza en ils cuers.»
+
+«Ma quel fraid è tant fortsch», sussurrà il Sole. «I na vegn mai il solei!».
+
+Margherita, cun la soa voiz discreta, sussurrà: «Però, il solei na s'abanduna mai.  I na s'esconderà pas per sempre.  E nos petalis, cun la soa forza, na s'incurvaran pas per sempre.»
+
+Las flurs, cun la soa forza e la soa speranza, decidiran da far una lutta cunter il fraid.  Decidiran da far un ballet, un dansa da speranza.  Giada, cun ses petalis fragils, s'incurvà, ma cun dignità.  Rosa, cun ses petalis ross, s'incurvà e s'incurvà, ma cun la soa forza.  Il Sole, cun ses petalis gialgs, s'incurvà, ma cun la soa speranza.  E Margherita, cun ses petalis blancs, s'incurvà, ma cun la soa forza.
+
+In quel moment, un raglun de solei, un raglun de speranza, trapassà la nèiv.  Il solei, cun la soa forza, comenza a scaldar la terra.  Las flurs, cun la soa forza, comenza a tremar, ma cun speranza.  Il vent, cun la soa forza, comenza a calmar.  E la nèiv, cun la soa forza, comenza a fondre.
+
+Las flurs, cun la soa forza e la soa speranza, danzavan ancora.  Giada, cun ses petalis delicads, s'aprirà.  Rosa, cun ses petalis ross, s'aprirà e s'aprirà, e s'aprirà.  Il Sole, cun ses petalis gialgs, s'aprirà, e s'aprirà, e s'aprirà.  E Margherita, cun ses petalis blancs, s'aprirà.
+
+E, a las primas luces da la primavera, tut las flurs, cun la soa forza e la soa speranza, danzavan en la val da Surselva.  Eran creschius en la terra, cun la soa forza e la soa speranza.  Eran creschius en la val da Surselva, cun la soa forza e la soa speranza.
+
+La lutta da las flurs cunter il fraid era finida.  E la primavera, cun la soa bellezza e la soa forza, era arrivada.  Tut las flurs, cun la soa forza e la soa speranza, eran creschius en la primavera.  E la val da Surselva era piena da color, da speranza e da vita.  E tut las flurs, cun la soa forza e la soa speranza, eran creschius en la primavera.
+</body>

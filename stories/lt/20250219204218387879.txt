@@ -1,0 +1,33 @@
+<prompt>
+Please write a creative and original Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Jaunųjų mokinių vasaros stovykla'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lt</lang_id>
+
+<title>Jaunųjų mokinių vasaros stovykla</title>
+<body>
+Saulė kaitino smėlį, šildydama ir jaunus, smalsaus žvilgsnio mokinius.  Šiemetinė vasaros stovykla, įsikūrusi prie ežero, žadėjo nuotykius ir linksmybes.  Dešimt vaikų, su skirtingais charakteriais ir svajonėmis, iš visos Lietuvos susirinko į šią magišką vietą – "Žaliosios šakelės".
+
+Ąžuolo pavėsyje, susirinkę prie medžio kamieno, stovyklos vadovė, linksma ir energinga Rūta, pristatė dienotvarkę.  "Sveiki, mažieji tyrinėtojai!" – sušuko ji. "Šiandien mūsų laukia didelis nuotykis – paslapties ieškojimas! Pasak legendos, ežere slypi magiškas akmuo, kuris pildo norus.  Bet kelias į jį nėra lengvas.  Jums teks parodyti savo sumanumą, drąsą ir draugiškumą."
+
+Pirmasis iššūkis laukė prie ežero kranto.  Vaikai turėjo perplaukti siaurą, bet gilyn besidriekiantį kanjoną, nešdami sunkias, surištas sušlapusio audinio pakuotes.  Mažas, ūmus ir išdykęs Lukas, norėdamas greičiau pasiekti kitą pusę, surišo pakuotes per daug stipriai.  Jos sprogo, o vertingos dėžutės su užuomazgomis pasislėpė po vandeniu.  
+
+Nusiminęs Lukas vos neišsiliejo ašaromis.  Bet Sara, protinga ir kantri mergaitė, pasiūlė pasitelkti virves ir ištraukti daiktus iš vandens.  Ąžuolo pavėsyje, dirbdami kaip komanda, jie surinko visus gabalus.
+
+Antrasis iššūkis reikalavo sumanumo.  Vaikams buvo pateiktas sudėtingas uždavinys – paslėpti norą paslapties akmenyje.  Tomas, kuris labiausiai svajojo apie didelį, plaukiojančią salą, parašė ant popieriaus gabalo savo norą.  Bet jis jį sudaužė į šimtus gabalėlių.  Ilgai susimąstę, vaikai nusprendė pasitelkti galingą jėgą – kūrybiškumą!  Jie sukūrė įspūdingą mozaiką su savo noru –  susiklijavo ir suformavo šimtus mažų gabaliukų į vieną.
+
+Trečiasis iššūkis buvo pats sunkiausias. Vaikai turėjo įveikti labirintą, išsipynusį tarp tankių miško krūmų.  Greta, tylus ir atidus berniukas, nuolat klaidžiojo ir neteisingai sekė kelią.  Bet Lina, greita ir sumani mergaitė, iškart pastebėjo užuominas ir pėdsakus, vedančius teisinga kryptimi.  Ji vedė Gretą per sudėtingus vingius ir draugiškai su juo padėjo.
+
+Galiausiai jie pasiekė ežero vidurį, kur, tarp vandens augalų, ilsėjosi paslaptingas akmuo.  Norėdami jį paimti, vaikai turėjo atlikti paskutinį uždavinį – dainuoti visų kartu sudarytą dainą, kupiną pagarbos gamtai ir draugystei.  Jų balsai, skambėdami per ežero vandenį, sukūrė nuostabų chorą, įkvepiantį pasitikėjimą ir džiaugsmą.
+
+Akmuo švytėjo, tarsi atspindėdamas jų bendrą norą ir svajones.  Kiekvienas vaikas įmetė į jį savo norus, savo idėjas, savo meilę.  Tomas svajojo apie plaukiojančią salą.  Greta – apie gerą šunį. Sara – apie naują knygą.  Visi norai susipynę į vieną didžiulę, šviesią energiją, kuri atnešė džiaugsmo.  
+
+Grįždami namo, vaikai jau buvo nebe vieni. Jie buvo ne tik mokinių, bet ir draugų grupė, sujungta ne tik uždavinių sprendimu, bet ir nuoširdžiu bendradarbiavimu bei pagarba vienas kitam.  Jie suprato, kad svarbiausia ne tik pasiekti tikslą, bet ir kelias, kurį jie kartu ėjo, šviesdamas ir džiuginamas draugiškumu.  Žaliosios šakelės stovykla buvo daugiau nei kelionė. Tai buvo magiška patirtis, kuri liks jų širdyse amžinai.
+</body>

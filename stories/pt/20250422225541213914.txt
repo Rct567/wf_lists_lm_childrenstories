@@ -1,0 +1,54 @@
+<prompt>
+Please write a funny Portuguese (Portugal) children's story that is at least 1000 words long.
+It must be completely written in proper Portuguese (Portugal) (PT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'O Tigre Forte e a Caça na Floresta Tropical Densa'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pt</lang_id>
+
+```html
+<title>O Tigre Forte e a Caça na Floresta Tropical Densa</title>
+<body>
+Era uma vez, numa floresta tropical densa e cheia de mistérios em algum lugar de Portugal (sim, em Portugal!), vivia um tigre chamado Fortíssimo. O Fortíssimo não era um tigre qualquer; ele era... bom, era o tigre mais desajeitado, medroso e, para dizer a verdade, o menos forte de toda a floresta. Mas, apesar de tudo, era adorável, com as suas riscas cor-de-laranja borradas e um rugido que mais parecia um espirro estrondoso.
+
+O Fortíssimo tinha uma barriga que roncava mais alto do que a maioria dos trovões da tempestade. E por isso, todas as manhãs, depois de acordar (sempre com um susto provocado pela sua própria sombra), ele tentava caçar. O problema é que a caça, com o Fortíssimo, nunca corria muito bem.
+
+Um dia soalheiro, enquanto o sol filtrada-se timidamente pelas enormes folhas das árvores, o Fortíssimo decidiu que era hora de caçar um javali. "Este dia será diferente!", declarou ele para o ar, tremendo um pouco. "Vou mostrar a todos o quão forte eu sou!" (Ele disse isso com um pigarrear, como se a sua própria autoconfiança lhe estivesse a provocar uma irritação na garganta).
+
+Primeiro, espreitou atrás de um grupo de cogumelos grandes e redondos, parecendo pequenas casas de gnomos. O javali, um senhor robusto e com uma vasta experiência em fugir de tigres, estava a farejar bolotas, alheio ao perigo que se aproximava. O Fortíssimo preparou-se para o ataque. Inspirou… e, no momento crucial, escorregou numa casca de banana, que estava ali mesmo, num sítio perigosamente estratégico. O javali, com o susto, fugiu a toda a velocidade, rosnando e resfolegando, rindo-se silenciosamente do tigre tombado.
+
+O Fortíssimo levantou-se, sacudindo a terra da pelagem. "Talvez não seja hoje", murmurou ele, a frustração evidente no seu olhar.
+
+Continuando a sua busca desesperada por uma refeição, o Fortíssimo avistou um coelho. "Um coelho! Óptimo!", pensou ele, a salivar. O coelho, muito mais esperto do que o Fortíssimo, estava a roer uma cenoura gigantesca. O tigre rastejou cautelosamente pela erva alta. "Agora!", sussurrou ele para si mesmo, saltando sobre o coelho…
+
+… e, no processo, tropeçou numa raiz de árvore saliente. Caiu de boca no chão, emitindo um grito agudo que mais se assemelhava a um miado aflito. O coelho, com um olhar de puro divertimento, engoliu a última mordida da cenoura e correu para as profundezas da floresta.
+
+"Este dia é péssimo!", queixou-se o Fortíssimo, agora realmente com fome. A sua barriga ressoava como um tambor mal batido.
+
+Desanimado, o Fortíssimo sentou-se à sombra de uma árvore frondosa, a pensar na sua falta de jeito. De repente, ouviu um barulho: "Snif, snif…". Era um veado jovem, encolhido atrás de um arbusto, a soluçar.
+
+"O que se passa?", perguntou o Fortíssimo, com uma ponta de curiosidade misturada com a sua fome.
+
+O veado, ainda a fungar, explicou que se tinha perdido da mãe. "Estou sozinho e com medo", lamentou ele, com os olhos marejados.
+
+O Fortíssimo, embora faminto, sentiu pena do pequeno veado. "Não te preocupes", disse ele, com a sua voz rouca habitual. "Eu ajudo-te a encontrar a tua mãe."
+
+E, contra todas as expectativas, o Fortíssimo foi extremamente eficaz. Com a sua notável (e não intencional) capacidade de atrair atenção, começou a andar, ruidosamente, pela floresta, resmungando e esbarrando nas árvores. Cada barulho estranho, cada galho que partia, parecia espalhar o pânico entre os outros animais. As aves voavam, os esquilos trepavam freneticamente pelas árvores, e os veados adultos, ouvindo o barulho, aproximavam-se cautelosamente.
+
+A mãe do veado, ao reconhecer o ruído inconfundível do seu filho, galopou em direção ao barulho, encontrando-o exatamente onde o Fortíssimo, sem saber como, a tinha conduzido. A reencontro foi cheio de soluços, lambidelas e agradecimentos.
+
+A mãe do veado, grata, ofereceu ao Fortíssimo um pedaço de erva fresca e doce. Ele não comeu carne, mas comeu-a, grato.
+
+Quando a noite chegou, a barriga do Fortíssimo já não roncava tão alto. A sua fome, apesar de não estar totalmente saciada, foi diminuída pela alegria de ajudar o outro.
+
+No dia seguinte, enquanto caminhava pela floresta, o Fortíssimo encontrou a dona do coelho (a mãe dele), com uma cesta cheia de cenouras deliciosas, preparadas especialmente para ele! O coelho sabia que o tigre não era mau, apenas muito distraído!
+
+O Fortíssimo percebeu que ser "forte" não era apenas sobre caçar ou rugir alto. Era também sobre a bondade, a empatia e sobre a capacidade de usar os seus... digamos, "dons únicos". E, embora nunca tenha conseguido apanhar um javali, o Fortíssimo tornou-se o amigo mais improvável de todos os animais da floresta, com um coração maior que a sua barriga roncante. E, todos os dias, o coelho levava uma cesta de cenouras deliciosas e frescas para o tigre, pois era a única forma do Fortíssimo estar forte.
+E todos viveram felizes para sempre... excepto o javali, que ainda tinha pesadelos com bananas.
+</body>
+```

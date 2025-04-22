@@ -1,0 +1,53 @@
+<prompt>
+Please write a relatable Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Cuộc Khám Phá Mới Mẻ Trong Thế Giới Vô Cùng'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>vi</lang_id>
+
+```vi
+<title>Cuộc Khám Phá Mới Mẻ Trong Thế Giới Vô Cùng</title><body>
+
+Một buổi sáng mùa hè oi ả, tại ngôi làng nhỏ ven sông Cửu Long, bé Mai tỉnh giấc với tiếng gà gáy ran và ánh nắng vàng tươi rói len lỏi qua ô cửa sổ. Mai năm nay vừa tròn tám tuổi, với mái tóc đen nhánh buộc gọn gàng hai bên, đôi mắt to tròn đen láy luôn ánh lên vẻ tò mò và thích khám phá. Hôm nay, ba mẹ báo tin sẽ dẫn Mai đi chơi xa. Mai mừng rỡ nhảy cẫng lên, tiếng cười trong trẻo vang vọng khắp nhà.
+
+"Mai ơi, con mau dậy ăn sáng rồi ba mẹ mình đi nha!" tiếng mẹ gọi từ dưới bếp vọng lên.
+
+Mai vội vàng bước xuống nhà, bụng đã bắt đầu biểu tình. Mùi thơm của bánh mì nướng phết bơ và ly sữa đậu nành bốc khói nghi ngút khiến Mai không thể kiềm chế được. Bữa sáng diễn ra trong không khí vui vẻ và đầy ắp tiếng cười. Ba Mai là một kỹ sư xây dựng, còn mẹ là một cô giáo tiểu học. Cả hai đều rất yêu thương và luôn dành thời gian cho Mai.
+
+Sau khi ăn sáng xong, cả nhà lên đường. Điểm đến của họ là một khu vui chơi giải trí mới mở mang tên "Thế Giới Vô Cùng". Mai háo hức không ngừng, miệng cứ liên tục hỏi ba mẹ về những trò chơi thú vị. Trên đường đi, Mai còn chăm chú ngắm nhìn cảnh vật xung quanh: những cánh đồng lúa xanh mướt trải dài, những chiếc thuyền đánh cá neo đậu bên bờ sông, và những ngôi nhà nhỏ xinh nép mình dưới bóng cây.
+
+Đến nơi, Mai như lạc vào một thế giới hoàn toàn khác. "Thế Giới Vô Cùng" rộng lớn và đầy màu sắc, với đủ loại trò chơi hấp dẫn. Có những trò chơi mạo hiểm như tàu lượn siêu tốc, đu quay trên không, và nhà ma. Lại có những trò chơi nhẹ nhàng, dễ thương như khu vui chơi dành cho trẻ em, rạp chiếu phim 4D, và khu vườn cổ tích.
+
+Mai bắt đầu khám phá khu vui chơi với niềm phấn khích tột độ. Đầu tiên, cô bé chọn trò chơi đu quay trên không. Khi chiếc đu quay từ từ bay lên cao, Mai cảm thấy hồi hộp xen lẫn thích thú. Cô bé vươn tay ra như muốn chạm vào những đám mây trắng bồng bềnh trên bầu trời. Từ trên cao, Mai có thể nhìn thấy toàn bộ khu vui chơi, những người đang nô đùa bên dưới, và cả khung cảnh xung quanh.
+
+Tiếp theo, Mai cùng ba mẹ vào rạp chiếu phim 4D. Mai được trải nghiệm những bộ phim hoạt hình sống động với hiệu ứng hình ảnh và âm thanh đặc biệt. Cảm giác như mình đang thực sự bước vào thế giới của nhân vật trong phim khiến Mai thích thú đến mức quên cả thời gian.
+
+Sau khi vui chơi ở rạp chiếu phim, Mai cùng ba mẹ đến khu vui chơi dành cho trẻ em. Ở đây, Mai gặp rất nhiều bạn nhỏ khác. Cô bé nhanh chóng làm quen và cùng các bạn chơi những trò chơi như cầu trượt, xích đu, và nhà banh. Mai còn được tham gia vào các hoạt động vẽ tranh, nặn tượng, và làm đồ thủ công. Cô bé say sưa với những hoạt động này đến mức quên cả mệt mỏi.
+
+Đến buổi trưa, cả nhà tìm một quán ăn trong khu vui chơi để nghỉ ngơi và nạp lại năng lượng. Mẹ gọi cho Mai một suất cơm gà thơm ngon với rau xanh và trái cây. Mai vừa ăn vừa kể cho ba mẹ nghe về những trải nghiệm thú vị mà cô bé đã có. Cô bé đặc biệt thích khu vườn cổ tích.
+
+Sau khi ăn trưa xong, Mai cùng ba mẹ đến khu vườn cổ tích. Khu vườn được trang trí lộng lẫy với những bông hoa đủ màu sắc, những ngôi nhà nhỏ xinh theo phong cách cổ tích, và những tượng các nhân vật hoạt hình quen thuộc. Mai cảm thấy như mình đang lạc vào một thế giới thần tiên. Cô bé say sưa khám phá từng ngóc ngách của khu vườn, chụp ảnh với các nhân vật hoạt hình, và nghe ba kể những câu chuyện cổ tích.
+
+Trong khi khám phá khu vườn cổ tích, Mai gặp một chú bé có vẻ nhút nhát, đứng một mình ở góc khuất. Chú bé tên là Nam, bằng tuổi Mai, nhưng vẻ mặt lại buồn rầu. Mai chủ động đến làm quen với Nam. Sau khi nói chuyện, Mai biết được rằng Nam bị lạc mẹ và đang rất lo lắng.
+
+Không một chút do dự, Mai nắm tay Nam và nói: "Đừng lo, mình cùng nhau tìm mẹ bạn nhé!"
+
+Mai và Nam cùng nhau đi khắp khu vườn, vừa đi vừa hỏi thăm những người xung quanh. Mai nhớ lại lời mẹ dặn, nếu gặp chuyện gì cứ mạnh dạn nhờ người lớn giúp đỡ. Mai và Nam gặp một cô bảo vệ đang tuần tra. Mai kể lại chuyện Nam bị lạc và nhờ cô giúp đỡ. Cô bảo vệ ngay lập tức thông báo qua loa và giúp Nam tìm lại mẹ.
+
+Khi nhìn thấy mẹ, Nam chạy ùa đến ôm chầm lấy mẹ. Mẹ Nam ôm chặt lấy con trai và cảm ơn Mai vì đã giúp đỡ. Mai cảm thấy rất vui và tự hào về bản thân mình. Ba mẹ Mai cũng khen ngợi sự dũng cảm và tốt bụng của con gái.
+
+Buổi chiều, Mai và ba mẹ tiếp tục vui chơi ở "Thế Giới Vô Cùng". Mai đặc biệt thích trò chơi mê cung. Cô bé cùng ba mẹ lạc vào một mê cung rộng lớn và đầy thử thách. Cả nhà cùng nhau tìm đường ra, vượt qua những khúc quanh co và những chướng ngại vật. Trò chơi này không chỉ giúp Mai rèn luyện khả năng quan sát và tư duy logic mà còn giúp cả nhà gắn kết với nhau hơn.
+
+Đến cuối ngày, Mai và ba mẹ rời khỏi "Thế Giới Vô Cùng" với những kỷ niệm thật đẹp. Mai cảm thấy vui vẻ và hạnh phúc vì đã có một ngày thật ý nghĩa. Cô bé học được rằng thế giới xung quanh luôn có những điều mới mẻ và thú vị để khám phá. Cô bé còn học được về tình bạn, sự dũng cảm, và lòng tốt.
+
+Trên đường về nhà, Mai ôm chặt ba mẹ và kể về những gì mình đã trải qua trong ngày. Mai hứa với ba mẹ rằng sẽ luôn ngoan ngoãn, học giỏi, và giúp đỡ mọi người xung quanh. Ba mẹ Mai mỉm cười hạnh phúc, lòng thầm nghĩ về một tương lai tươi sáng đang chờ đợi cô con gái bé bỏng của mình.
+
+Về đến nhà, trời đã nhá nhem tối. Mai nhanh chóng tắm rửa và chuẩn bị đi ngủ. Trước khi chìm vào giấc ngủ, Mai nghĩ về những điều đã xảy ra trong ngày hôm nay. Cô bé cảm thấy biết ơn vì có một gia đình yêu thương, có những người bạn tốt, và có cơ hội khám phá thế giới. Trong mơ, Mai tiếp tục những cuộc phiêu lưu của mình trong "Thế Giới Vô Cùng", nơi những điều kỳ diệu luôn chờ đợi cô bé khám phá. Giấc ngủ của Mai thật sâu và êm đềm, báo hiệu một ngày mới với những khám phá và niềm vui đang chờ đón cô bé ở phía trước.
+</body>
+```

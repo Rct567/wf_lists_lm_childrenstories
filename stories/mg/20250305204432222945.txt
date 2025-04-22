@@ -1,0 +1,34 @@
+<prompt>
+Please write a timeless Malagasy children's story that is at least 1000 words long.
+It must be completely written in proper Malagasy (MG).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>mg</lang_id>
+
+<title>Ny Zazalahy sy ny Vorona Kely</title>
+<body>
+Ny masoandro nitsangana, nanjelatra ny hazavana teo amin'ny tendrombohitra avo be, izay nisy ny ala be dia be, feno vorona sy biby.  Tany amin'ny faran'ny ala, tao anatin'ny trano kely vita hazo, dia nonina zazalahy iray antsoina hoe Rakoto. Rakoto zazalahy mahay foana, tia milalao sy mihaino ny feo mahagaga ny natiora.
+
+Indray andro, raha nandeha nitsangatsangana Rakoto teo amin'ny ala, dia naheno feo kely iray, feo mitomany mafy.  Naka ny fokony izy ka nanaraka ny feo, nanaraka ny lalan-kely izay nitarika azy ho any amin'ny tany ambanin'ny hazo lehibe iray.  Tao, teo amin'ny tany ambanin'ny hazo, dia nahita vorona kely iray nivadika izy, nisy ny elany roa nivadika, ary ny tsipikely kely teo amin'ny vatany dia nisy ny rà.
+
+Naka ny vorona kely i Rakoto, ary nitondra azy niverina tao an-tranony.  Nitondra rano madio izy, ary nampiditra ny vorona kely tao anaty takelaka kely misy rano madio.  Tsy nisy ny teny nivoaka avy amin'ny vorona kely, fa ny masony kely dia nanambara ny fahoriany.
+
+Nanao fomba rehetra i Rakoto mba hahasitrana ny vorona kely.  Nampiditra ny ravina maitso avy amin'ny hazo manasitrana izy, nampiditra ny rano madio, ary nampiditra ny voankazo kely avy amin'ny hazo.  Nijery azy foana izy, ary niandry ny famantarana ny fahasitranany.
+
+Nandritra ny andro maromaro, dia nibanjina ny vorona kely i Rakoto.  Nisy ny fitiavana lehibe izay niseho tao am-pony, ary niasa mafy izy mba hahasitrana ny vorona kely.  Ny vorona kely dia nanomboka nampiseho ny famantarana ny fahasitranana.  Ny elany dia nanomboka nitsangana kely, ary ny masony dia nanomboka nibanjina.
+
+Indray andro, rehefa nibanjina ny vorona kely i Rakoto, dia naheno ny feo kely iray, feo mahafinaritra, nivoaka avy amin'ny vavan'ny vorona kely.  Nampiditra ny elany roa izy, ary nitsangana.  Nijerijery ny manodidina izy, ary nanomboka nampihetsika ny elany.  Nisy ny fihirana mahafinaritra nivoaka avy amin'ny vavan'ny vorona kely, ary nampiseho ny fankasitrahany izy.
+
+Tsy nisy ny teny nivoaka avy amin'ny vorona kely, fa ny fihetsika sy ny fihirana dia nanambara ny fankasitrahana lehibe izay nisy tao am-pony.  Nampiseho ny fitiavany sy ny fanajany an'i Rakoto izy.
+
+Nefa, ny vorona kely dia nampiseho ny faniriany hiverina any an-tsaha.  Nampiditra ny elany izy, ary nitsangana, ary nandeha niaraka tamin'ny vorona hafa.  Nanaraka azy i Rakoto, ary nibanjina azy mandra-pahatongan'ny faran'ny ala.  Rehefa nandeha ny vorona kely, dia nampiseho ny fitiavana sy ny fanajany an'i Rakoto izy.
+
+Rehefa niverina tao an-tranony i Rakoto, dia nahatsapa fahafaham-po lehibe izy.  Tsy ny vorona kely ihany no nasitraniny, fa ny fony koa dia feno fitiavana sy fahasambarana.  Nahatsapa fa zava-dehibe ny fanampiana ny hafa, ary ny fitiavana sy ny fanajana dia fanomezana lehibe indrindra.
+
+Nianatra i Rakoto fa ny fanampiana ny hafa dia manome fahafinaretana lehibe kokoa noho ny zavatra rehetra.  Ary ny fitiavana sy ny fanajana dia fanomezana lehibe indrindra, izay tsy azo vidina na oviana na oviana.  Ary nanolo-tena izy mba hanohy hanampy ny hafa, ary hanohy hiaina am-pitiavana sy am-panajana.
+</body>

@@ -1,0 +1,39 @@
+<prompt>
+Please write a creative and original Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Beshaka va uning jasur do'stlari'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>Beshaka va uning jasur do'stlari</title>
+<body>
+Beshaka, yosh bir qiz, qishloqning eng go'zal gulzorida yashovchi, juda chiroyli, ammo biroz qo'rqoq qiz edi.  Uning uyining yonida, qadimiy, baland daraxti ostida, uchta kichik, ammo juda jasur do'sti yashaydi:  Oqquloq,  Qoraqo'yn va To'qquloq.  Beshaka ular bilan o'ynashni yaxshi ko'rardi, lekin ba'zan ularning jasoratiga hasad qilardi.
+
+Bir kuni, qishloqning chekkasida, qorong'u tog'larning orqasida, havosi o'ziga xos, siri bilan o'ralgan sehrli daryo joylashgan edi.  Daryoning tubida, ko'rinmas go'zallik bilan,  o'simliklarning eng ajoyiblari o'sardi.  Qishloq aholisi,  bu daryoning suvini ichsa,  ularning sog'lig'i yaxshilanadi,  yuraklari esa quvonch bilan to'lib ketishini aytishardi.  Ammo,  daryoga kirish,  qorong'i va xavfli  tog' o'rmonlari orqali o'tishni talab qilardi.
+
+Beshaka, do'stlari bilan birga, bu sirli daryoni ko'rishni orzu qilardi.  Ammo,  u va uning do'stlari  tog'larning qorong'u qoyalaridan qo'rqardilar.  "Biz ularga qadam qo'yolmaymiz", deya Beshaka, qo'rqib, gapirdi.  "Ular juda qorong'i va qo'rqinchli."
+
+Oqquloq, oq,  jasur qush, qanotlarini yoydi.  "Bizdan qo'rqmaslik kerak," dedi u.  "Jasorat - bu bizning eng yaxshi qurolımız.  Biz birga tog'larni yengamiz!"
+
+Qoraqo'yn, qoraqo'yn,  qo'rqmas ko'zlarini yaltiratdi.  "Biz  tog'larga qadam qo'yamiz va daryoning go'zalligini ko'ramiz!" dedi u.
+
+To'qquloq,  to'q  quyon,  boshini chayqadi.  "Siz bilan birga boraman", deb aytdi u.
+
+Va shunday qilib, uch do'st birgalikda qorong'u tog' o'rmonlariga yo'l olishdi.  Ularning  oyoqlari ostida  tosh toshlar shovqin qildi.  Oldinda  ko'rinmas  o'rmon shovqini eshitilardi.  Har bir qadam bilan,  ularning yuraklari tez-tez urardi,  ammo ular qat'iyat bilan oldinga siljishdi.
+
+Yo'lda ular har xil hayvonlarni uchratdilar:  yirtqich toshbaqalar,  uchuvchi qurbaqalar,  shovqinli maymunlar.  Ularning jasoratini ko'rib,  har bir hayvon ularga yo'lda yordam berdi.  To'qquloq,  o'tkir ko'zlari bilan,  yo'ldagi xavf-xatarlarni ko'rib turadi va boshqalarga  oldindan ogohlantirish berardi.  Oqquloq,  o'zining katta qanotlari bilan,  ularni yomg'irdan himoya qildi va  qoraqo'yn  ularni  qorong'u qoyalar orqasida  yashirin  xavflardan ogohlantirdi.
+
+Oxir-oqibat, ular tog'larning tepasiga chiqib,  o'z oldiga  sezdirmagan  sehrli daryoni ko'rishdi.  Uning suvi  chinakam  kristall kabi edi.  Daryo bo'yida  gullarning  ajoyib  ranglari  ko'rinib turardi.  Beshaka,  qalbida  quvonch  bilan  to'lib ketdi.  U  oldingi qo'rqoqligidan  uzoqlashdi.
+
+Ular daryoning tubida  o'simliklarning ajoyib go'zalligini  ko'rishdi.  Birgalikda,  ular daryo  suvlarini ichdilar va  o'zlarini  quvonch va sog'lik bilan to'ldirishdi.  Bu daryo  ularni  jasoratga to'ldirdi.
+
+Qaytganlarida,  Beshaka  do'stlari bilan  birga,  qishloqqa borishdi.  Endi Beshaka  jasoratini  va  do'stlik  qudratini  bilardi.  U  ularning  jasoratiga qoyil  qoldi va ularni  hammaga  namuna  qilib  ko'rsatdi.  U  ushbu  tashabbusi  uchun  har doim  o'z  do'stlari  bilan  birga  bo'ldi va hech qachon ularni  taqdirlashdan  boy bermadi.
+
+Ular  o'zlarining  sehrli  daryo  safarlarini  do'stlariga  aytib  berishdi  va  shu  bilan  jasorat  va  do'stlikning  qadr-qimmatini  ko'rsatib  berishdi.  Shundan so'ng, Beshaka va uning jasur do'stlari har doim birgalikda  mas'uliyatli  va  qiziqarli  ishlar  qilishdi.  Qishloq  ularning jasoratlari va do'stligi  bilan  maqtanadi.
+</body>

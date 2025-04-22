@@ -1,0 +1,33 @@
+<prompt>
+Please write a funny Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kaip karvė išmoko šokti su mėnuliu'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>lt</lang_id>
+
+<title>Kaip karvė išmoko šokti su mėnuliu</title>
+<body>Kadaise, šalia mažo kaimo, gyveno karvė vardu Karolina. Ji buvo labai linksma ir draugiška, bet turėjo vieną didelę problemą - ji niekada negalėjo šokti. Visos kitos karvės kaimynystėje mylėjo šokti, bet kai Karolina bandydavo, ji visada užkliūdavo savo didelėmis kojomis ir krisdavo ant žemės.
+
+Vieną naktį, kai mėnulis šviesiai švietė, Karolina įėjo į lauką ir pamatė, kaip mėnulis šoka per dangų. Ji buvo labai naiviai nustebinta ir pagalvojo: "Kodėl aš negaliu šokti kaip mėnulis?" Tada ji nusprendė, kad reikia išmokti šokti su mėnuliu.
+
+Karolina pradėjo kiekvieną naktį eiti į lauką ir stebėti, kaip mėnulis šoka. Ji matydavo, kaip jis lėtai kyla ir leidžiasi, kaip jo šviesa šviesia visą lauką. Karolina buvo vis labiau įsimylėjusi mėnulį ir norėjo jo šokti kartu.
+
+Vieną naktį, kai mėnulis buvo visai pilnas, Karolina nusprendė pabandyti šokti. Ji atsikvėpė giliai, paėmė savo kojas ir... užkliūdo. Ji krito ant žemės ir pasijuto labai gaila. Bet tada ji pamatė, kaip mėnulis juokiasi jos. Mėnulis sakydavo: "Nebylėk, Karolina, aš čia esu, kad tave mokytų šokti".
+
+Karolina atsistojo ir vėl bandė šokti. Šį kartą ji pasinaudojo savo uodegu, kad palaikytų pusiausvyrą, ir... ji šoko! Ji šoko vis žemesnė ir aukštesnė, vis greičiau ir lėčiau. Mėnulis juokėsi ir dainuodavo kartu su ja.
+
+Nuo tada Karolina kiekvieną naktį šoko su mėnuliu. Ji buvo labai laiminga, kad galėjo šokti kaip mėnulis, ir mėnulis buvo laimingas, kad galėjo mokyti Karoliną. Visos kitos karvės kaimynystėje matydavo, kaip Karolina šoka su mėnuliu, ir norėjo jiems taip pat išmokti.
+
+Karolina pradėjo mokyti kitas karves šokti su mėnuliu. Ji rodydavo jiems, kaip panaudoti savo uodegas, kaip laikytis pusiausvyros, ir kaip šokti lėtai ir greitai. Visos karvės buvo labai dėkingos Karolinai, kad ji jiems moko šokti, ir mėnulis buvo labai laimingas, kad galėjo stebėti, kaip visos karvės šoka kartu.
+
+Vieną naktį, kai mėnulis buvo visai pilnas, visos karvės susirinko lauke ir šoko su mėnuliu. Karolina buvo labai laiminga, kad galėjo šokti su visomis savo draugėmis, ir mėnulis buvo labai laimingas, kad galėjo stebėti, kaip visos karvės šoka kartu.
+
+Nuo tada visos karvės kaimynystėje šoko su mėnuliu kiekvieną naktį. Jos buvo labai laimingos, kad galėjo šokti kaip mėnulis, ir mėnulis buvo labai laimingas, kad galėjo stebėti, kaip visos karvės šoka kartu. Ir Karolina, kuri niekada negalėjo šokti, tapo geriausia šokėja visame kaimynystėje.
+
+Kad ir šiandien, kai mėnulis šviesiai švietė, visos karvės eina į lauką ir šoka su mėnuliu. Jos šoka lėtai ir greitai, aukštesnė ir žemesnė, ir visos jos yra labai laimingos, kad galėjo išmokti šokti su mėnuliu. Ir Karolina, kuri niekada negalėjo šokti, yra tarp jų, šokdama su mėnuliu ir juokdamasi su savo draugėmis.</body>

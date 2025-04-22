@@ -1,0 +1,35 @@
+<prompt>
+Please write a creative and original Kongo children's story that is at least 1000 words long.
+It must be completely written in proper Kongo (KG).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Mambu Ma Ntoto, Ye Zola kia Mfumu, Vana Luzingu Lweto.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>kg</lang_id>
+
+<title>Mambu Ma Ntoto, Ye Zola kia Mfumu, Vana Luzingu Lweto.</title>
+<body>
+Ndunda, muntu mosi ya nkulu, wazingaka muna kinsanda kia Nzadi ya Kongo.  Yandi vandaka nkumbu ya ngangu, ye nkumbu ya zola.  Ndunda vandaka kuvuanda ye ngana, ye malongi ma mbote, yina yandi vandaka kutuba muna nzo yau.  Konso kilumbu, yandi vandaka kutangina bana yau,  ma nkumbu ya bantu ya nkulu, yina bakala ye ngangu za mbote, ye bakala ye luzingu lwa mbote.
+
+Kuna nzo yau, bakala ye nkento, bakala ye bana yau ya ntete, yina vandaka kunua mambu ma ntete.  Kuna nzo yau, bakala ye ndambu ya ntete ya kinsanda, ye nzo yau vandaka ti zulu ya nkento ya mbote.  Kikaya ya mbote vandaka kumonana muna nzo yau.  Ngonda vandaka kutulula nsoba ya ndilu ye nsongi muna kinsanda.
+
+Muna lumingu dimosi, muna nzo ya ndunda, bana yau ya ntete bakala ye diambu dimosi ya nkulu.  Mpangi mosi, Mbuta, vandaka kudia mambu ma mbote, ye yandi vandaka kuzitisa mambu ma ntete.  Mpangi mwisi, Ndinga, yandi vandaka kuzola kusoma, ye yandi vandaka kuzola kuvutukila mambu mambu ya nkulu.  Kansi, Ndinga vandaka kuzola kudia madia ma ntete, ye yandi vandaka kuzola kudia mankenda ya mbote.
+
+Ndunda, yandi vandaka kutuba, "Bana, zola kimfumu, ye zitisa mambu ma ntoto.  Ntoto yau yina vandaka ti madia ma mbote, ye ntoto yau yina vandaka ti nkento ya mbote.  Ntoto yau yina vandaka ti mambu ma mbote, ye luzingu lwa mbote.  Bana, zola luzingu lwa ntoto, ye zola kimfumu kianu."
+
+Konso kilumbu, Ndinga vandaka kufunga ngolo muna kusosa kudia madia ma ntete.  Yandi vandaka kusosa mambu mambu ya mbote muna ntoto.  Yandi vandaka kutala mambu mambu yina Nzambi metulaka muna ntoto.  Yandi vandaka kutala mbona, ye mazi, ye mbu.  Yandi vandaka kutala mambu mambu yina vandaka kumonana, ye kuvutukila luzingu lwa mbote.
+
+Muna kilumbu kia nkulu,  Ndinga vandaka kuzinga muna nkanda yina vandaka ti madia ma mbote,  ye yandi vandaka kuzola kudia mambu ma ntete.  Konso kilumbu, yandi vandaka kukumisa luzingu lwandi ya mbote.  Kansi, yandi vandaka kumanisa luzingu lwandi muna kusosa madia,  ye yandi vandaka kuzola kudia mambu ma ntete, ye kuzola mambu ma ntoto.
+
+Konso kilumbu, muna luzolo lwa ntima, yandi vandaka kutala  mbona, ye ntoto, ye nkento.  Yandi vandaka kutala, kansi yandi vandaka ve kuzitisa mambu mambu. Yandi vandaka kusosa ve madia ma mbote, yandi vandaka kusosa luzingu lwa mbote.  Yandi vandaka kulomba Nzambi, “Ngangu ya ngangu, vana ngangu, ve madia ma mbote.”
+
+Muna kilumbu mosi,  Ndunda wa mona mambu mambu ma ntima ya Ndinga.  Yandi wabaka Ndinga, ye yandi kutuba, “Mpangi, zola kimfumu, ye zitisa luzingu lwa ntoto.  Nzambi mepesaka mambu yonso ya mbote.  Zola kimfumu, kansi zitisa mambu ma ntoto.”
+
+Ndinga wabakisa mambu yina Ndunda tubaka.  Yandi wabakisa ngangu.  Yandi wabakisa luzingu.  Yandi wabakisa Nzambi.  Konso kilumbu, Ndinga vandaka kutala ntoto, ye yandi vandaka kukumisa luzingu lwandi.  Yandi vandaka kuzitisa luzingu lwa nkento, ye yandi vandaka kuzola mambu yonso ya ntoto.
+
+Ndunda wabakisa, na mvu miosi.  Bana, zola kimfumu, zitisa mambu ma ntoto, ye zola luzingu lwa mbote.  Luzingu lweto kele muna ntoto, ye Nzambi mepesaka mambu yonso ya mbote.  Luzingu lweto kele muna zola kimfumu, ye kuzitisa mambu yonso ya ntoto.  Mambu ma ntoto, ye Zola kia Mfumu, vana luzingu lweto.  Mambu ma mbote, ye luzingu lwa mbote, ye Zola kia Mfumu, vana luzingu lweto.
+</body>

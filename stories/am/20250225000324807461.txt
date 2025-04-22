@@ -1,0 +1,22 @@
+<prompt>
+Please write a educational Amharic children's story that is at least 1000 words long.
+It must be completely written in proper Amharic (AM).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'ስለቆንጆዋ ቢራቢሮና አበባዎች ያሳለፉት አስደሳች ጊዜ የሚያሳይ ትረካ'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>am</lang_id>
+
+<title>ስለቆንጆዋ ቢራቢሮና አበባዎች ያሳለፉት አስደሳች ጊዜ የሚያሳይ ትረካ</title>
+<body>
+ቆንጆዋ ቢራቢሮና አበባዎች ያሳለፉት አስደሳች ጊዜ የሚያሳይ ትረካ እንደስለቆንጆዋ ቢራቢሮና አበባዎች ያሳለፉት አስደሳች ጊዜ የሚያሳይ ትረካ አብያቶን ሰንበቴ ከተማ አካባቢ አንድ ቆንጆ ቤት ነበረ። ቆንጆው ከሆነ በረከት ነበረ። ቆንጆው የእጉድና አንበሳ ቋንቋን ያውቅ ነበረ። ቆንጆው ባለቤት ቢራብሮና ከተማዋ አካባቢ የሚኖር አበባ ነበረ። ቆንጆው እና አበባው ብዙ ጊዜ ይሰራሉ ነበረ።
+
+አንድ ቀን ቆንጆው እና አበባው በሚሠሩ ሥራቸው ላይ አስደሳች ጊዜ ይጠብቀዋል። አበባው እንዲህ አለ፡ "ቆንጆ አብዛኛው ጊዜ አስደሳች ነው። እንዴት ነው አስደሳች የሆንና ሁሌም ለአንድ ሰው በቅሮ እንዳይቀር ብሄራዊ ጥበባ እንዲሆን ትረካውን አስተምረው እንሂድ ዘንድ እረዳለሁ።" ቆንጆው እንዲህ አለ፡ "እንዴት ነው እኔስ አስደሳች ነኝ የምትለው። ለምነስ አስደሳች ነኝ።"
+
+አበባው እንዲህ አለ፡ "ቆንጆ፣ አስደሳችን ማለት ማሰልቀው ነው። ለዚህም ብዙ ሰዎች ቆንጆን ይወዱታል። ለማንኛውም ሰው አስደሳች ከመሆን ይልቅ የሚያስደስት ነገር ማድረግ አስቸጋሪ ነው። አሁን እንዴት ነው አስደሳች የሆንና ሁሌም ለአንድ ሰው በቅሮ እንዳይቀር ብሄራዊ ጥበባ እንዲሆን ትረካውን አስተምረው እንሂድ ዘንድ እረዳለሁ።"
+
+ቆንጆው የአበባውን ቃል በመስማት እንዲህ አለ፡ "እኔ ለአንድ ሰው በቅሮ እንዳይቀር ብሄራዊ ጥበባ ሆኖ እንዴት ነው እምትረካውን አስተምረው እንሂድ ዘንድ እረዳለሁ።" አበባው እንዲህ አለ፡ "ቆንጆ እንዴት ነ

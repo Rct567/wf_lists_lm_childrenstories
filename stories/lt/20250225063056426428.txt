@@ -1,0 +1,33 @@
+<prompt>
+Please write a light-hearted Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Labai Ilgas Ir Linksmas Vasaros Atostogu'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>lt</lang_id>
+
+<title>Labai Ilgas Ir Linksmas Vasaros Atostogu</title>
+<body>Kaip ir visi metai, vasaros atostogos artėjo prie pabaigos. Vaikai jau senai laukė šios dienos, kai galės iškeliauti į savo mėgstamą vietą – jų senelio sodybą, esančią netoli ežero. Šiemet vaikai turėjo visai ypatingus planus – jie norėjo išbandyti viską, ką dar niekada nebuvo darę.
+
+Sodyboje jau senai buvo pasirengę visi reikalingi daiktai. Senelis, kuris jau ilgai laukė savo vaikųčiams, buvo labai laimingas, kad galės juos vėl pamatyti. Jis jau paruošė visus mėgstamus vaikų patiekalus – šaltibarščius, kibinus, šakotis. Be to, jis pasistengė paruošti ir visus reikalingus daiktus, kad vaikai galėtų žaisti ir pramogautis.
+
+Pirmoji diena vasaros atostogų buvo labai saulėta. Vaikai, kai atvyko į sodybą, iš karto pasijuto labai laimingi. Jie išsiruošė ir išėjo į lauką, kur žaidė visą dieną. Jie žaidė futbolo, krepšinio, ir net bandė savo jėgas bėgimo varžybose. Senelis juos stebėjo ir labai džiaugėsi, kad vaikai taip gerai praleidžia laiką.
+
+Kitą dieną vaikai nusprendė eiti į ežerą. Jie pasiėmė maisto, gėrimų, ir net kelnes, kad galėtų paskęsti. Senelis jiems parodė, kaip reikia plaukti, ir vaikai iš karto ėmė mokytis. Jie plaukė, šokaudavo, ir net bandė nardyt. Senelis juos saugodavo, kad nieko blogo netaptų.
+
+Trečioji diena buvo dar labiau įdomi. Vaikai nusprendė eiti į mišką, kur norėjo surasti grybų. Senelis jiems parodė, kaip reikia ieškoti grybų, ir vaikai iš karto ėmė ieškoti. Jie rado daugybę skirtingų grybų, ir senelis jiems parodė, kaip reikia juos ruošti. Vaikai labai džiaugėsi, kad galėjo pabūti gamtoje ir surasti ką naujo.
+
+Ketvirtoji diena buvo skirta pramogams. Vaikai nusprendė šokti, dainuoti, ir net sukti filmus. Senelis jiems parodė, kaip reikia dainuoti, ir vaikai iš karto ėmė dainuoti. Jie dainavo visą dieną, ir senelis juos akompanavo. Vaikai labai džiaugėsi, kad galėjo būti kūrybiški ir išreikšti savo jausmus.
+
+Penktoji diena buvo labai svarbi. Vaikai nusprendė eiti į kaimo šventę, kur norėjo pamatyti, kaip žmonės švenčia. Senelis jiems parodė, kaip reikia elgtis šventėje, ir vaikai iš karto ėmė dalyvauti. Jie šokė, dainavo, ir net bandė savo jėgas tradiciniuose žaidimuose. Vaikai labai džiaugėsi, kad galėjo būti dalis kaimo bendruomenės ir sužinoti daugiau apie savo kultūrą.
+
+Šeštoji diena buvo paskutinė vasaros atostogų diena. Vaikai labai džiaugėsi, kad galėjo leisti laiką su savo seneliu, bet jie taip pat buvo liūdni, kad viskas baigėsi. Senelis jiems pasakė, kad jie visada gali grįžti, ir vaikai labai džiaugėsi, kad turi tokį meilų senelį.
+
+Vaikai grįžo namo, bet jie niekada nesirado, kad vasaros atostogos baigėsi. Jie visada prisiminė savo senelio sodybą, ežerą, mišką, ir kaimo šventę. Jie visada džiaugėsi, kad galėjo būti dalis tokių nuostabių patyrimų, ir jie visada laukė kitų vasaros atostogų, kad galėtų vėl leisti laiką su savo seneliu.
+
+Ir taip, vasaros atostogos baigėsi, bet vaikai visada prisiminė, kad jie turėjo labai ilgas ir linksmas vasaros atostogas, kurios jų visam gyvenimui liko kaip gražūs prisiminimai. Jie visada džiaugėsi, kad galėjo būti dalis tokių nuostabių patyrimų, ir jie visada laukė kitų vasaros atostogų, kad galėtų vėl leisti laiką su savo seneliu.</body>

@@ -1,0 +1,101 @@
+<prompt>
+Please write a dialog-based Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Chú Vẹt Thông Minh và Những Câu Chuyện Vui Nhộn.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>vi</lang_id>
+
+```xml
+<title>Chú Vẹt Thông Minh và Những Câu Chuyện Vui Nhộn.</title>
+<body>
+Một buổi sáng đẹp trời, ánh nắng vàng rực rỡ chiếu rọi xuống khu vườn nhà bà Ba. Trong khu vườn xanh tốt ấy, có một chú vẹt tên là Tí. Chú Tí không giống những chú vẹt khác. Chú không chỉ biết hót hay, mà còn rất thông minh và thích kể chuyện.
+
+"Chào buổi sáng, bà Ba!" – tiếng chú Tí vang lên, rộn rã cả khu vườn.
+
+"Chào con, Tí! Hôm nay con kể chuyện gì cho bà nghe nào?" – bà Ba đáp, giọng cười hiền từ. Bà Ba rất yêu quý chú vẹt nhỏ.
+
+"Dạ, hôm nay con kể chuyện về hai con gà nhé bà!" – chú Tí hót vang.
+
+"Tuyệt vời! Bà rất thích!" – bà Ba vui vẻ nói.
+
+"Chuyện kể rằng, trong một khu vườn rộng lớn, có hai chú gà rất thân thiết. Chú gà trống tên là Trắng, và cô gà mái tên là Vàng. Chú Trắng thì rất oai vệ, luôn cất tiếng gáy thật to vào mỗi buổi sáng để đánh thức mọi người. Còn cô Vàng thì hiền lành, luôn chăm chỉ tìm kiếm thức ăn cho cả hai." – chú Tí bắt đầu câu chuyện.
+
+"Một buổi sáng nọ, khi chú Trắng đang chuẩn bị cất tiếng gáy, thì chú Vàng hốt hoảng chạy đến, giọng thều thào: 'Trắng ơi, Trắng ơi, có chuyện gì đó!'" – chú Tí nhại giọng cô Vàng.
+
+"Chuyện gì vậy Vàng?" – chú Tí bắt chước giọng của chú Trắng, đầy vẻ ngạc nhiên.
+
+"Bên cạnh nhà mình có một cái... hố rất sâu! Chắc chắn là nguy hiểm lắm!" – chú Vàng lo lắng nói.
+
+"Hừm, cứ bình tĩnh đi Vàng. Để Trắng tôi xem xét tình hình." – chú Tí làm giọng kiêu ngạo của chú Trắng. Rồi chú "bước" ra mép hố, "nhìn" xuống.
+
+"Chao ôi! Sâu thật! Và nguy hiểm thật!" – chú Tí lại tự nói.
+
+"Thế bây giờ mình phải làm sao?" – bà Ba tò mò hỏi.
+
+"Chú Trắng lúc đó rất thông minh. Chú nghĩ ngay đến việc lấp đầy cái hố. Nhưng làm sao bây giờ? Một mình thì không thể được." – chú Tí tiếp tục.
+
+"Thế rồi Trắng nghĩ ra một kế hoạch. Chú gọi to: 'Các bạn gà ơi, lại đây giúp chúng tôi một tay nào! Chúng ta sẽ lấp đầy cái hố này để bảo vệ khu vườn của chúng ta!'" – chú Tí nhại giọng của Trắng lần nữa, với giọng điệu đầy quyết tâm.
+
+"Thật là một ý tưởng tuyệt vời!" – bà Ba reo lên.
+
+"Và thế là, cả đàn gà cùng nhau tìm kiếm những thứ để lấp đầy cái hố. Một chú thì tìm đất, một chú thì tìm lá khô, một chú thì tìm cành cây... Cứ như thế, từng chút một, cái hố sâu nguy hiểm dần dần được lấp đầy." – chú Tí kể tiếp.
+
+"Thật là một câu chuyện hay! Bài học ở đây là gì, Tí?" – bà Ba hỏi, mắt ánh lên vẻ thích thú.
+
+"Bài học là, khi gặp khó khăn, chúng ta phải đoàn kết và cùng nhau giải quyết. Và chúng ta luôn có thể tìm ra giải pháp nếu chúng ta biết suy nghĩ." – chú Tí đáp, giọng đầy tự hào.
+
+"Con thật là một chú vẹt thông minh, Tí! Con còn câu chuyện nào khác không?" – bà Ba cười.
+
+"Dạ còn ạ! Con xin kể chuyện về một chú thỏ tinh nghịch." – chú Tí hót vang.
+
+"Tuyệt vời! Bà chờ nghe đây!" – bà Ba đáp.
+
+"Trong một khu rừng xanh thẳm, có một chú thỏ tên là Bông. Chú Bông rất tinh nghịch và thích chơi trò trốn tìm. Một ngày nọ, chú Bông rủ những người bạn của mình chơi trốn tìm." – chú Tí bắt đầu.
+
+"Nhưng chơi trốn tìm ở đâu bây giờ?" – bà Ba hỏi.
+
+"Chú Bông nhanh chóng nghĩ ra. Chú nói: 'Chúng ta hãy chơi trong vườn rau của bác nông dân!'." – chú Tí nhại giọng.
+
+"Ôi không! Thế thì... " – bà Ba giả vờ lo lắng.
+
+"Đúng rồi, bác nông dân nổi tiếng là rất khó tính. Nhưng chú Bông đã nghĩ ra một kế hoạch. Chú dặn dò các bạn: 'Chúng ta phải cẩn thận, đừng làm hỏng rau của bác, và tuyệt đối không được để bác nhìn thấy chúng ta!'" – chú Tí kể tiếp.
+
+"Các bạn thỏ và cả các bạn sóc, nai, cùng nhau chơi trốn tìm. Chú Bông thì cứ thoắt ẩn thoắt hiện, làm mọi người phải tìm kiếm một phen. Cuối cùng, sau một hồi lâu, mọi người đều cảm thấy mệt và đói bụng." – chú Tí nói.
+
+"Thế rồi..." – bà Ba hồi hộp hỏi.
+
+"Chú Bông bỗng nảy ra một ý tưởng. Chú nhẹ nhàng đến gần bụi cà rốt, rồi gọi: 'Chào bác nông dân!'." – chú Tí nói, giọng như thầm thì.
+
+"Bác nông dân đang làm gì đó, ngẩng đầu lên. Thấy chú Bông, bác la lớn: 'Thì ra là con! Đừng hòng trốn thoát!'." – chú Tí tiếp tục.
+
+"Nhưng... chú Bông nhanh nhẹn hơn bác rất nhiều. Chú ta lách mình vào bụi cà rốt và biến mất. Các bạn cũng làm theo chú. Bác nông dân tức giận đến nỗi đứng chôn chân một chỗ." – chú Tí kể với giọng điệu hài hước.
+
+"Nhưng cuối cùng, tất cả chúng đều bị bắt, đúng không Tí?" – bà Ba hỏi.
+
+"Không phải đâu bà. Chú Bông, sau khi trốn khỏi bác nông dân, đã nhanh chóng nghĩ ra một cách. Chú gom tất cả bạn bè lại và nói: 'Chúng ta phải giúp bác nông dân!'." – chú Tí nói.
+
+"Giúp bác nông dân? Giúp làm gì?" – bà Ba ngạc nhiên.
+
+"Chú Bông nói: 'Chúng ta sẽ tưới nước cho rau của bác! Rồi chúng ta sẽ tỉa lá cho rau của bác!'" – chú Tí tiếp tục.
+
+"Thật là một ý tưởng tuyệt vời!" – bà Ba reo lên.
+
+"Thế là cả bầy thỏ, sóc, nai, cùng nhau làm việc. Chúng tưới nước, tỉa lá, làm cho vườn rau của bác nông dân trở nên xanh tốt hơn bao giờ hết. Bác nông dân lúc đầu thì ngạc nhiên, sau đó thì cảm động vô cùng. Bác đã cho chúng rau củ để ăn và còn coi chúng là bạn của mình nữa." – chú Tí kết thúc câu chuyện.
+
+"Bài học ở đây là gì, Tí?" – bà Ba hỏi.
+
+"Bài học là, chúng ta nên luôn biết sửa sai và đối xử tốt với người khác. Ngay cả khi chúng ta mắc lỗi, nếu chúng ta cố gắng sửa chữa, mọi thứ sẽ trở nên tốt đẹp hơn." – chú Tí trả lời, giọng điệu đầy triết lý.
+
+"Con thật là một chú vẹt thông minh! Con còn nhiều câu chuyện khác nữa không?" – bà Ba cười.
+
+"Dạ còn nhiều lắm ạ!" – chú Tí đáp, mắt sáng rực lên.
+
+"Vậy thì kể tiếp đi nào!" – bà Ba hào hứng nói. Và thế là, chú Tí bắt đầu kể những câu chuyện mới, kể mãi không thôi, về những bạn vật dễ thương, về những cuộc phiêu lưu thú vị, về những bài học cuộc sống đầy ý nghĩa. Khu vườn nhà bà Ba lúc nào cũng tràn ngập tiếng cười và sự vui vẻ nhờ những câu chuyện của chú vẹt thông minh Tí.
+</body>
+```

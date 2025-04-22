@@ -1,0 +1,79 @@
+<prompt>
+Please write a uncomplicated Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Bầy Sẻ Nhỏ Và Hành Trình Đi Tìm Nguồn Sống Mùa Đông'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>vi</lang_id>
+
+```xml
+<title>Bầy Sẻ Nhỏ Và Hành Trình Đi Tìm Nguồn Sống Mùa Đông</title>
+<body>
+Ngày xửa ngày xưa, trong một khu vườn nhỏ xanh tươi, có một bầy sẻ nhỏ sinh sống. Bầy sẻ nhỏ này rất đáng yêu, chúng có bộ lông màu nâu vàng óng ả, đôi mắt đen láy và tiếng hót líu lo vang vọng khắp khu vườn. Chúng luôn sống vui vẻ, đùa nghịch và cùng nhau chia sẻ những hạt thóc, hạt gạo mà chúng tìm thấy.
+
+Trong bầy, có một chú sẻ nhỏ đặc biệt tên là Chích. Chích nhỏ nhắn, thông minh và rất tò mò. Chích luôn thích khám phá những điều mới lạ và thường đặt ra những câu hỏi thú vị cho cả bầy. Mùa thu đến, khu vườn bắt đầu thay đổi. Lá cây chuyển sang màu vàng, màu đỏ và từ từ rụng xuống. Những ngày nắng ấm áp dần trở nên hiếm hoi, thay vào đó là những cơn gió lạnh buốt giá.
+
+“Các bạn ơi,” Chích cất tiếng, “mùa đông sắp đến rồi! Chúng ta phải làm gì để sống sót qua mùa đông lạnh giá này?”
+
+Những chú sẻ khác bắt đầu xôn xao bàn tán. Một chú sẻ già dặn, với bộ lông đã ngả màu xám hơn các chú khác, lên tiếng: “Chúng ta sẽ ở trong những chiếc tổ ấm áp của mình, chờ đợi mùa đông qua đi.”
+
+“Nhưng thức ăn ở đâu?” Chích hỏi. “Khi tuyết rơi, chúng ta sẽ không tìm thấy hạt thóc, hạt gạo nữa.”
+
+Tất cả đều im lặng. Câu hỏi của Chích chạm đến một vấn đề quan trọng mà bầy sẻ chưa từng nghĩ đến.
+
+“Ta phải tìm kiếm thức ăn và nơi trú ẩn,” một chú sẻ khác nói.
+
+Thế là, cả bầy quyết định lên đường. Chích, với sự tò mò và lòng dũng cảm của mình, đã trở thành người dẫn đầu.
+
+Ngày đầu tiên, bầy sẻ bay đến một cánh đồng ngô đã thu hoạch. Chúng tìm thấy một vài hạt ngô còn sót lại. Mặc dù số lượng không nhiều, nhưng cũng giúp chúng có thêm năng lượng.
+
+“Cố gắng lên nào các bạn,” Chích động viên. “Chúng ta sắp đến nơi có nhiều thức ăn hơn.”
+
+Những ngày tiếp theo, bầy sẻ tiếp tục cuộc hành trình. Chúng bay qua những khu rừng thưa thớt, những ngọn đồi phủ đầy sương giá. Gió lạnh táp vào mặt chúng, nhưng chúng không hề nản lòng.
+
+Một buổi chiều nọ, khi mặt trời đã khuất sau rặng núi, bầy sẻ tìm thấy một ngôi nhà nhỏ. Căn nhà có vẻ ấm cúng và có một vũng nước nhỏ trước cửa. Chích quyết định đến gần xem xét.
+
+“Xin chào,” Chích nhỏ nhẹ cất tiếng.
+
+Một cô bé nhỏ nhắn, tóc tết hai bím, xuất hiện. Cô bé tên là Mai.
+
+“Chào bạn,” Mai đáp. “Các bạn là chim sẻ phải không? Các bạn có lạnh không?”
+
+“Chúng tôi đang tìm kiếm thức ăn và nơi trú ẩn,” Chích trả lời.
+
+Mai mỉm cười. “Mời các bạn vào nhà tôi. Ở đây có thức ăn và nơi trú ẩn ấm áp.”
+
+Mai mở cửa, và bầy sẻ bay vào. Bên trong, căn nhà thật ấm cúng. Có một bếp lò sưởi đang tỏa ra hơi ấm. Mai mang ra những hạt gạo, hạt kê và một ít bánh mì vụn cho bầy sẻ.
+
+“Cảm ơn bạn rất nhiều,” Chích nói.
+
+“Không có gì đâu,” Mai đáp. “Tôi rất thích nhìn các bạn. Các bạn hãy ở đây cho đến khi mùa đông kết thúc nhé.”
+
+Bầy sẻ rất vui mừng. Chúng được ở trong ngôi nhà ấm áp của Mai, được ăn no bụng và được che chở khỏi cái lạnh giá bên ngoài.
+
+Nhưng Chích vẫn còn một câu hỏi trong lòng. Một ngày nọ, khi Mai đang tưới cây trong vườn, Chích hỏi: “Mai ơi, tại sao bạn lại giúp đỡ chúng tôi?”
+
+Mai dừng lại, nhìn Chích với ánh mắt dịu dàng. “Vì các bạn rất đáng yêu. Vì tôi hiểu được nỗi khổ của các bạn. Và vì tôi muốn chia sẻ tình yêu thương của mình.”
+
+Chích suy nghĩ rất lâu về câu trả lời của Mai. Chích nhận ra rằng, trong cuộc sống, không chỉ có thức ăn và nơi trú ẩn là quan trọng, mà còn có tình yêu thương và sự sẻ chia.
+
+Mùa đông trôi qua thật nhanh. Tuyết rơi trắng xóa trên những cành cây, nhưng trong ngôi nhà của Mai, không khí vẫn luôn ấm áp và vui vẻ. Bầy sẻ cùng Mai chơi đùa, hát ca và kể cho nhau nghe những câu chuyện thú vị.
+
+Khi mùa xuân đến, tuyết tan, hoa nở rộ, cây cối xanh tươi trở lại. Bầy sẻ đã sẵn sàng để trở về khu vườn của mình.
+
+“Tạm biệt Mai,” Chích nói. “Cảm ơn bạn rất nhiều vì tất cả.”
+
+“Tạm biệt các bạn,” Mai đáp. “Hãy quay lại chơi với tôi nhé.”
+
+Bầy sẻ vẫy tay chào tạm biệt Mai và bay về khu vườn của mình. Chúng mang theo những kỷ niệm đẹp về mùa đông ấm áp và tình bạn chân thành.
+
+Khi trở về khu vườn, bầy sẻ gặp lại những người bạn sẻ khác. Chúng kể cho nhau nghe về cuộc hành trình gian khổ, về ngôi nhà ấm áp của Mai và về tình yêu thương mà Mai đã dành cho chúng.
+
+Từ đó, bầy sẻ luôn ghi nhớ bài học quý giá mà Chích đã học được. Chúng biết rằng, trong cuộc sống, chúng ta không chỉ cần tìm kiếm thức ăn và nơi trú ẩn, mà còn cần chia sẻ, yêu thương và giúp đỡ lẫn nhau. Chúng cũng hiểu rằng, những điều nhỏ bé như tình bạn, lòng tốt và sự sẻ chia có thể mang lại sự ấm áp và niềm vui trong cuộc sống, ngay cả trong mùa đông lạnh giá nhất.
+
+Và cứ như vậy, bầy sẻ nhỏ vẫn tiếp tục sống hạnh phúc trong khu vườn, cùng nhau khám phá cuộc sống và lan tỏa tình yêu thương đến mọi người xung quanh. Chúng nhớ mãi về cuộc hành trình đi tìm nguồn sống mùa đông, một hành trình đã giúp chúng trưởng thành và hiểu được ý nghĩa thực sự của cuộc sống.

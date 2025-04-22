@@ -1,0 +1,54 @@
+<prompt>
+Please write a timeless Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Yashirin sehrli xazina topildi'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>Yashirin sehrli xazina topildi</title>
+<body>
+Qoraqalpog'istonning qumli cho'llarida, birinchi bahor nuri zarrin ranglarni yanglatgan bir kun, uchta do'st —  Bahodir, Gulnora va Javohir, cho'lning o'rmoncha san'atkorliklari bilan bezatilgan qal'asini o'rganib chiqishga jo'nadi.  Ularda qum o'ymakorliklaridan yaratilgan haykallar va chiroyli gul o'ymakorliklarining har bir xavfi va sirini bilib olishga qiziqish kuchli edi.
+
+Bahorda uchrashuv yuz bergan daraxt qalin o'rmon o'rtada edi. Quyosh  yorqin nuri bilan gul o'ymakorliklarini  chiralashib qimirlatar edi, kunning yoqimli iliqligi ularni quvontirib turardi.  
+
+"Bu ajoyib", dedi Bahodir, og'zini keng ochib, qiziqishdan shoshib. "Men o'z go'zalligi va maxfiy sirlarining hamma bir vaqtda to'planganidan mamnunman!"
+
+
+Gulnora, qorong'u ko'zlari bilan katta hayratda, qush qo'shiqlarini eshitdi va haykallar va naqshlarga qo'shilib, o'rmonga hamma narsani o'rab olgan bir sehrli o'yinni his qildi.  
+
+"Sehrli xazina bu erda yashiringan bo'lishi kerak", deb hushtak chaldi Javohir, chuqur izlarning chuqurligida  kashf qilishga o'zini tayyorlaydi. "Biz topganimizga aminmizki".
+
+
+Ular to'plamga kirishdan oldin qumlarni yuvib o'tishdi.  Ularni to'ldirish uchun eng ko'p vaqt ajratgan daraxtning yoniga yaqinlashishdi. Ularda uchta chuqur iz,  xazinaning qo'shilib chiqishiga ishora bo'ladigan oddiy belgilar bor edi.
+
+Izlar ularni xavfsiz  qo'ylarining bo'linmasi bilan devor bilan bo'lgan kichik makonlarga olib bordi. O'tinlarning ichida, qum o'ymakorliklarining yonida,  sehrli, quyuq yashilrang quti turardi. U engil porlab turardi. 
+
+Bahodir qutilarga tegib ko'rmoqchi edi, lekin Gulnora uni to'xtatdi: "Kuting, do'stim. Birinchi quti bilan gaplashib ko'raylik".
+
+U qutiga boshini egib oldi. "Quti, sening bilan gaplashishni xohlayman," dedi Gulnora. "Biz seni topib xursandmiz."
+
+Bir zumda qutida tovushlarning jaranglayotgan shovqini ovozlari paydo bo'ldi. Qutidan qurilma o'rgatilgan so'zlari aytiladi.
+
+"Mening maqsadim – har kimga bo'lingan qadr va mehr bilan ta'minlash. Cho'l va uni o'rab turgan  butunlay quloq eshitishsiz olam uchun yashil tushdagi taqdiriy sirlar bor".
+
+Ular quti oqimli xazinalarini chuqur yashirib, eng sirli sehrli ob'ektni, hech qachon  sezmagan. Birinchi bahor nuri zarrin ranglarni yanglatgan bir kun, bu juda maxfiy xazina topildi.
+
+Bu sehrli xazina  - qullarga katta go'zallik bilan va taqdirlarini anglash qobiliyatini beruvchi sehrli  bo'yni edi.  
+
+
+Bahodir, quyonlarining bo'linmalarining ichida bir quti bilan qilingan bir uyning yordami bilan bir joyda o'yinlarda hech qachon ishlatilmagan kichik quti ochib turardi. Qutida to'ldirilgan kitob bor edi, unda butunlay bo'ysundirilgan qum va gullar haqidagi juda ko'p sirli qo'lyozmalar o'yilgan edi. 
+
+Gulnora esa o'zining qo'liga bir chiziq chizib olishni  o'rgandilar. Bahodir uchun esa  sehrli so'zlarini yaxshilash uchun, yangi  sehrli aqlning asoslari yozishga  qiziqish bor edi.
+
+
+Ular yulduzlar osmonida uxlashadi, shuning uchun qum o'ymakorliklari va gullar o'zlarini yaratgan shoir sifatida  ularga hikoyalarini gapirib beradi va yulduzlarning barqarorligida shuhrat topishadi.  
+
+
+Bu har doim kutilmagan topilma,  sehrli xazinaning  yashil va aql bo'lib, chuqur qum o'ymakorliklari bilan bezatilgan qal'a  do'stlarning qalblariga har doim  bayram keltiradigandir, va  shu qumdan chiqqan sirni xotiralarga chuqur  yozuvdir,  sehrli qutilarga aylantirilgan odamlardan  abadiy xotiralarni tark etmaydi.
+</body>

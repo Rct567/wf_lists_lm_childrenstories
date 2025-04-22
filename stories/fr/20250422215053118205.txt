@@ -1,0 +1,111 @@
+<prompt>
+Please write a dialog-based French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'L'étonnante métamorphose du petit cocon en un beau papillon.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```xml
+<title>L'étonnante métamorphose du petit cocon en un beau papillon</title>
+<body>
+– Oh là là, regarde ! s'écria Zoé, le nez collé à la fenêtre.
+
+– Qu'est-ce qu'il y a, Zoé ? demanda Lucas, son frère, en s'approchant curieux.
+
+– Viens voir ! C'est incroyable ! Un petit cocon, tout vert, sur la branche du rosier !
+
+– Un cocon ? s'étonna Lucas. Qu'est-ce que c'est que ça ?
+
+– Je crois que c'est là que les papillons se cachent quand ils sont petits, expliqua Zoé, qui adorait la nature. Maman nous l'a expliqué l'année dernière.
+
+– Ah oui ? Et qu'est-ce qu'ils font là-dedans ?
+
+– Ils grandissent et se transforment ! Ils deviennent des papillons !
+
+– C'est fou ça ! On dirait une petite maison, ajouta Lucas, en observant attentivement le cocon. On devrait lui donner un nom.
+
+– Oui ! On peut l'appeler... Cocotte ! suggéra Zoé avec un grand sourire.
+
+– Cocotte ? C'est un peu… banal, non ? Proposa Lucas, fronçant les sourcils.
+
+– Hmm... Alors, comment veux-tu l'appeler ?
+
+– Papillonnet ! s'exclama Lucas, ravi de son idée.
+
+– Papillonnet ? C'est mignon ! J'aime bien ! approuva Zoé.
+
+Ainsi, Papillonnet devint le nom de leur petit ami vert, niché sur la branche du rosier. Chaque jour, Zoé et Lucas se précipitaient à la fenêtre pour observer le cocon.
+
+– Est-ce qu'il bouge ? demandait Lucas, les yeux grands ouverts.
+
+– Non, il ne bouge pas, répondait Zoé, un peu déçue. Mais regarde, il a l'air de grossir un peu !
+
+Ils passèrent des heures à imaginer ce qui se passait à l'intérieur du cocon. Ils parlaient à Papillonnet, lui racontant leurs journées, leurs jeux et leurs rêves.
+
+– Tu sais, Papillonnet, dit un jour Zoé, j'espère que tu auras de belles ailes, avec de jolies couleurs !
+
+– Moi aussi, j'espère que tu pourras voler, dit Lucas, en souriant. Tu pourras aller où tu voudras !
+
+Un matin, Zoé courut vers la fenêtre, plus vite que jamais.
+
+– Lucas ! Lucas ! Viens vite ! s'écria-t-elle, la voix tremblante d'excitation.
+
+Lucas accourut, les yeux brillants. Devant eux, le cocon… était différent. Il était un peu craquelé, et à l'intérieur, une couleur différente se devinait.
+
+– C'est... c'est incroyable ! s'étonna Lucas. Il se prépare !
+
+– Oh oui ! Je le sens ! répondit Zoé, haletante. On devrait rester là, pour ne rien manquer !
+
+Ils restèrent, silencieux, les yeux fixés sur le cocon. Des heures passèrent. Le soleil montait, et les rayons chauds illuminaient la scène. Soudain, une petite fente apparut.
+
+– Oh ! regarda Zoé.
+
+– Qu'est-ce qui se passe ? demanda Lucas, fébrile.
+
+Une tête, petite et fragile, commença à sortir de la fissure. Puis, des pattes, délicates et pliant, apparurent à leur tour.
+
+– C’est Papillonnet ! s'exclama Zoé, les larmes aux yeux. Il sort !
+
+Lentement, le papillon tenta de se libérer complètement de son ancienne maison. Il se débattait, déployant ses ailes encore froissées.
+
+– Courage, Papillonnet ! encourageait Lucas. Tu vas y arriver !
+
+Après de longs efforts, le papillon se libéra enfin. Il tomba sur la branche, tout tremblant. Ses ailes étaient pliées, chiffonnées, mais déjà, on distinguait les couleurs magnifiques qu’avait imaginées Zoé.
+
+– Oh là là... Elles sont... magnifiques ! souffla Zoé, éblouie.
+
+Puis, le papillon se mit à gonfler ses ailes, à les déployer doucement. Il les faisait vibrer, essayant de prendre son envol.
+
+– Vas-y, Papillonnet, tu peux le faire ! encourageait Lucas.
+
+Les ailes s'ouvrirent entièrement, révélant des motifs d'une beauté extraordinaire : des taches oranges, jaunes, noires, et blanches se dessinaient dans un dégradé parfait. Le papillon était somptueux.
+
+Il se redressa sur ses pattes et d'un battement d'ailes, s'envola dans le ciel bleu.
+
+– Il vole ! cria Zoé, joyeuse. Il vole !
+
+Le papillon, devenu Papillonnet, s'éloigna dans le jardin, virevoltant de fleur en fleur. Zoé et Lucas, heureux, l’observèrent jusqu’à ce qu’il disparaisse derrière les arbres.
+
+– C'était le plus beau jour de ma vie, dit Zoé, émue.
+
+– Le plus beau, approuva Lucas, avec un grand sourire. On a assisté à un miracle !
+
+Ils retournèrent à l'intérieur, le cœur rempli de joie et d'émerveillement.
+
+Le lendemain, Zoé et Lucas retournèrent voir le rosier. Il restait un petit morceau de l'ancien cocon, vide, accroché à la branche.
+
+– Il nous a laissé un cadeau, dit Zoé, touchée.
+
+– Oui, un souvenir magnifique, ajouta Lucas.
+
+Ils savaient qu’ils n’oublieraient jamais la métamorphose de Papillonnet, leur petit ami, qui s’était transformé devant leurs yeux en un beau papillon coloré, capable de s'envoler vers de nouvelles aventures. Et, à chaque fois qu’ils apercevraient un papillon dans le jardin, ils seraient sûrs qu’il s’agissait de Papillonnet, leur ami le plus précieux.
+Ils continuaient de regarder les papillons voler, attendant une nouvelle métamorphose et une nouvelle histoire à partager.
+FIN
+</body>
+```

@@ -1,0 +1,72 @@
+<prompt>
+Please write a simple and easy-to-follow Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Hevosen Iloiset Laajat Kestit.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fi</lang_id>
+
+```fi
+<title>Hevosen Iloiset Laajat Kestit</title>
+<body>
+Olipa kerran pieni, ruskea hevonen nimeltä Jalmari. Jalmari asui suuressa, vihreässä laitumella, jossa kasvoi herkullista heinää ja kirkkaanvärisiä kukkia. Jalmari oli iloinen hevonen, joka rakasti juoksemista, hyppelyä ja erityisesti ystävien kanssa olemista.
+
+Jalmari tunsi kaikki laidunniityn asukkaat. Oli Pipsa-poni, joka oli aivan yhtä vilkas kuin Jalmari, ja Hilla-lehmä, joka oli aina valmis jakamaan parhaat heinät. Lisäksi heillä oli monta pientä ystävää, kuten Pulla-kanat, jotka olivat aina kiipeämässä ja kukkia keräämässä, ja Urho-ankka, joka rakasti uida lammessa.
+
+Eräänä aurinkoisena aamuna Jalmari sai idean. "Minä pidän kaikille karkelot!", hän hirnuen ilmoitti ystävilleen. "Kaikki ovat tervetulleita! Luvassa on herkkuja, pelejä ja hauskaa!"
+
+Pipsa-poni oli heti mukana innostuksesta. "Upeaa, Jalmari! Minä autan sinua kaikessa!", hän vikrasi.
+
+Hilla-lehmä puolestaan hymyili leveästi. "Minä voin kerätä makeita omenia puusta. Ne maistuvat varmasti kaikille!", hän maiskutti.
+
+Jalmari, Pipsa ja Hilla alkoivat valmistella suuria, iloisia karkeloita. Ensimmäisenä he päättivät, mitä karkeloihin tulisi. Jalmari toivoi isoja keksejä, Pipsa halusi paljon porkkanoita ja Hilla tiesi parhaat omenat ja heinän.
+
+Päivän mittaan he juoksivat ja keräsivät tarvikkeita. Jalmari ja Pipsa hyppivät metsään keräämään sieniä ja marjoja. Hilla kulki omenapuulle ja heilutteli päätään niin, että kypsiä omenia putosi maahan. Pipsa-kani ja Pulla-kanat auttoivat, keräämällä herkullista, tuoretta ruohoa.
+
+"Ja mitä leikkejä meillä on?", kysyi Pipsa.
+
+"Meillä on tietysti hevoskisa!", Jalmari vastasi innoissaan. "Ja piilosta! Ja tietysti omenan heittelyä!", hän hirnuen jatkoi.
+
+Ystävät sopivat, että karkelot pidettäisiin seuraavana viikonloppuna, lauantaina. Koko viikon ajan he ahkeroivat. Jalmari ja Pipsa koristelivat laidunniittyä värikkäillä kukilla. Hilla tasoitti heinää ja levitti niille pehmeän peitteen, jossa vieraiden oli mukava istuskella. He rakensivat pienen lavan, jossa voisi esiintyä ja tanssia.
+
+Pulla-kanat auttoivat levittämään kutsuja kaikille laidunniityn eläimille. Ne juoksivat pitkin ja poikin, naputtaen nokillaan eri taloihin ja kertovat kaikille tulevista karkeloista. Urho-ankka lipui lammella ja levitti uutisia, että karkeloissa olisi mahdollista nauttia lammikossa uimisesta.
+
+Lauantaiaamu saapui vihdoin! Laidunniitty oli aivan täynnä elämää. Ensin saapui kani-perhe, jonka pienet jäsenet olivat innoissaan piilosta leikkimisestä. Sitten tulivat pienet oravat, jotka kiipeilivät puiden oksilla ja odottivat ensimmäisiä keksejä. Urho-ankka ja hänen ankka-ystävänsä tulivat paikalle, ja etsivät heti parasta paikkaa lammesta.
+
+Jalmari oli aivan hermostunut. "Kaikki näyttää olevan niin hienoa! Toivottavasti kaikilla on hauskaa", hän hirnuen mietti. Pipsa lohdutti häntä. "Kyllä on! Kaikki rakastavat karkeloita!"
+
+Karkelot alkoivat iloisesti. Jalmari johti hevoskisaa. Pipsa kilpaili vauhdikkaasti, ja monet pienemmät eläimet huusivat kannustusjoukkona. Hilma lehmä palkitsi voittajan isommalla palkinnolla. Jalmari voitti, ja hän sai juoda itselleen runsaasti palkitsemisporkkanoita.
+
+Sitten oli vuorossa piilosta. Kanit loikkivat innokkaasti heinäkasojen ja puiden väliin. Jalmari ja Pipsa etsivät heitä hymyillen, naurattaen kaikkia, koska heillä oli vaikeuksia löytää kaikkia kaniperheen jäseniä.
+
+Omenanheittely oli hauskempaa kuin koskaan. Hilla antoi kaikille isoja, kypsiä omenoita. Jokainen heitti omenan mahdollisimman kauas. Eniten onnistunut oli Urho-ankka, joka pystyi uimaan niin hyvin, että pystyi hyppäämään jopa kuudenteen omenaan!
+
+Jokainen söi ja joi sydämensä kyllyydestä. Herkut olivat upeita. Heillä oli makeita hedelmiä, herkullisia heinäkeksejä, juomana makeaa omenamehua.
+
+Kun ilta alkoi hämärtyä, Jalmari ja Pipsa johtivat tanssiaisia. Hilla soitti haitaria, ja kaikki tanssivat laidunniityllä valojen alla. Kaikki hyppivät ja pyörivät yhdessä.
+
+Kaikki olivat väsyneitä, mutta iloisia. Aurinko laski hiljaa. Kun vieraat lähtivät, Jalmari, Pipsa ja Hilla istuivat yhdessä ja nauttivat yön viileydestä.
+
+"Tämä oli paras päivä ikinä!", Jalmari hirnuen sanoi.
+
+"Olen samaa mieltä!", vastasi Pipsa ja nyökkäsi.
+
+"Minäkin", Hilla mutisi, samalla kun hän maiskutti tyytyväisenä.
+
+Yhdessä he päättivät, että pitävät karkeloita joka vuosi, jotta kaikki laidunniityn ystävät voisivat juhlia yhdessä ja jakaa ilonsa. He tiesivät, että ystävyys ja yhdessäolo tekivät elämästä paljon hauskempaa. Ja niin Jalmari, Pipsa ja Hilla nukkuivat tyytyväisinä, unelmoiden jo seuraavista karkeloista.
+
+Pulla-kanat, jotka olivat koko päivän noudattaneet tarkasti jokaisen vieraiden juttuja, palasivat nukkumaan omaan pesäänsä. Urho-ankka ja hänen ankkaystävänsä ottivat iloa päivän uinnista. Kaniperhe nukahti pehmeään ruohopesäänsä. Ja kaikki muut laidunniityn asukkaat levännyt tyytyväisinä.
+
+Laidunniitty nukkui rauhallisesti, odottaen uutta päivää ja uusia seikkailuja, joita ystävät voisivat yhdessä kokea. Mutta ennen kaikkea se odotti uusia karkeloita, täynnä iloa, naurua ja yhdessäoloa. Sillä se on juuri se, mikä teki elämästä niin erityistä.
+
+Seuraavana päivänä Jalmari, Pipsa ja Hilla heräsivät uuteen päivään täynnä energiaa. He kiittelivät itseään upeista karkeloista ja päättivät alkaa suunnitella uutta, vielä suurempaa juhlaa. Jalmari hymyili ja katsoi ystäviään. "Me olemme todella onnekkaita, että meillä on toisemme", hän hirnuen sanoi.
+
+Pipsa ja Hilla nyökkäsivät. He tiesivät, että Jalmari oli oikeassa. Yhdessä he pystyivät mihin tahansa. Ja he odottivat innolla kaikkia tulevia seikkailuja ja ilon hetkiä. Sillä laidunniityllä, ystävyys oli ainoa asia, mitä he todella tarvitsivat.
+Ja niinpä, laidunniityn ystävyys jatkui, vahvempana kuin koskaan, ja uudet karkelot odottivat!
+</body>
+```

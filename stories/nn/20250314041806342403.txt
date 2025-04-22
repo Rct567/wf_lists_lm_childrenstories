@@ -1,0 +1,53 @@
+<prompt>
+Please write a simple and easy-to-follow Norwegian Nynorsk children's story that is at least 1000 words long.
+It must be completely written in proper Norwegian Nynorsk (NN).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Høvdingens døtre og den magiske trær'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>nn</lang_id>
+
+<title>Høvdingens døtre og den magiske trær</title>
+<body>
+Ein gong for lenge sidan, i eit land der fjella tårna seg mot himmelen og fjordane glitra som sølv, budde høvdingen Torvald. Han var sterk og klok, og folket hans levde i fred og velstand. Men høvdingen var ikkje åleine. Han hadde tre vakre døtre, Solveig, Astrid og Liv.
+
+Solveig, den eldste, hadde langt, gyllent hår og augo som havet. Ho var modig og bestemt, og ho elska å ri på hesten sin, Storm. Ho drøymde om å bli ein stor krigar, som far sin.
+
+Astrid, midtdottera, hadde mjukt, brunt hår og augo som skogen. Ho var klok og omsorgsfull, og ho elska å lese bøker og kjenne urter. Ho drøymde om å hjelpe folk, og bli like klok som mor si, som var ein dyktig helbreder.
+
+Liv, den yngste, hadde krøllete, raudt hår og augo som elden. Ho var leiken og full av energi, og ho elska å danse og synge. Ho drøymde om å oppleve verda, og reise ut på eventyr.
+
+I landsbyen deira var det eit magisk tre, eit eiketre som stod midt i ei lysning. Blada på treet var glitrande grøne, og stammen var så brei at fleire menneske måtte halde handa rundt. Det sagst at treet hadde krefter, og at det kunne oppfylle eit ønske for den som var rein i hjartet. Men berre ein gong i livet.
+
+Ein dag, kom ei vond storm over landet. Det storma så hardt at mange hus fekk skadar. Dyr sprang vekk og gjekk seg vill. Folket i landsbyen vart redde og leita etter høvdingen. Dei visste ikkje kva dei skulle gjere.
+
+Høvdingen prøvde alt han kunne for å roe ned folk, men stormen var for sterk. Han såg korleis bekymringa prega ansikta til døtrene sine. Han bestemte seg for å dra til det magiske treet. Kanskje det kunne hjelpe.
+
+"Solveig, Astrid, Liv, ver med meg," sa høvdingen. "Me må be om hjelp."
+
+Døtrene nikka samtykkande, og dei følgde faren sin til den lysningen der det magiske treet stod. Vindane ulte rundt dei, og regnet piska mot ansikta. Men treet stod stødig, som eit teikn på håp.
+
+"Kvar og ein av dykk får no ynskje," sa høvdingen. "Men husk, det må vere eit godt ynskje, eit ynskje for alle."
+
+Solveig gjekk fram fyrst. Ho tenkte hardt. Kva kunne ho ynskje? Ho tenkte ikkje berre på seg sjølv, men på landsbyen og folka i ho. "Eg ynskjer at stormen skal stoppe, og at alle skal vere trygge," sa ho høgt.
+
+I det ho hadde sagt det, fekk blada på treet ein sterkare glød. Stormen løyna seg ei lita stund. 
+
+Astrid gjekk fram. Ho tenkte på korleis ho kunne hjelpe dei som hadde mista eigedelar i stormen. "Eg ynskjer at folk må ha mat og tak over hovudet," sa ho. 
+
+Igjen lyste blada sterkare. Og etter kort tid såg folk at folk kom fram og hjelpte kvarandre med å finne husly.
+
+Til slutt var det Liv sin tur. Ho tenkte ikkje berre på seg sjølv eller landsbyen. Ho tenkte på framtida og korleis ho kunne gjere verda til eit betre stad. "Eg ynskjer at alle menneske kan leve i fred og fordrag," sa ho.
+
+Då Liv hadde sagt det, byrja treet å lyse med eit vakkert, varmt lys. Vinden stilna, og regnet slutta å falle. Ei solbraut seg gjennom skyene, og eit vakkert regnboge viste seg på himmelen.
+
+Alle i landsbyen var takknemlege for døtrene sine. Høvdingen smilte. Han var stolt av døtrene sine, og han visste at dei var modige, kloke og gode. Dei hadde hjelpt landsbyen deira i ei tid med vanskar.
+
+Solveig brukte ferdigheitene sine for å hjelpe landsbyen å få bygga opp husa igjen, sterkare enn før. Astrid hjalp til med å finne urter som kunne kurere sår og gje folk betre helse. Liv brukte songane sine for å løfte opp humøret i folket, og for å fortelje om alt det fantastiske dei hadde å vere takknemlege for.
+
+Og i tida som kom, levde folket i landsbyen lykkeleg. Dei hugsa alltid kva døtrene til høvdingen hadde gjort for dei. Dei hugsa at det magiske treet hadde hjelpt dei, men viktigare enn det, dei hugsa at håp, kjærleik og vennskap alltid kan hjelpe ein gjennom vanskelege tider. Og på slutten av dagen, var det ingenting så viktig som å vere snille mot kvarandre.
+</body>

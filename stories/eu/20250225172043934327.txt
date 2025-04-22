@@ -1,0 +1,27 @@
+<prompt>
+Please write a funny Basque children's story that is at least 1000 words long.
+It must be completely written in proper Basque (EU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'LeonENTRYako bidaia luzeari buruz'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>eu</lang_id>
+
+<title>LeonENTRYako bidaia luzeari buruz</title>
+<body>
+Lehenengo, LeonENTRYako bidaia luzeari buruz hitz egin behar dugu.  Ez zen bidaia erraza izan, noski, baina oso dibertigarria izan zen, eta hori da garrantzitsuena.  Bidaia honetan, LeonENTRYako izarretako izarrik txikienak parte hartu zuten.  Beste izar batzuk, handiagoak eta lotsatiagoak, etxean gelditu ziren, telebista ikusteko edo ohean lo egiteko asmoarekin.
+
+Txiki eta zirraratuta zeuden LeonENTRYako izar txiki horiek.  Izar baten izena, Txomin, zen.  Txomin oso txikia zen, ia ikusgai ez zen txikia, baina oso ausarta zen.  Beste izar bat, Izar, oso argala zen eta oso zalantzazkoa.  Izarrek beti pentsatzen zuen zer gertatuko zen aurrerago.  Eta, azkenik, beste bat, Argia, oso bizia eta irribarretsua zen.  Argia inoiz ez zen urduri sentitzen.  Bere bi begi argiarekin, argi-izpiak sortzen zituen, eta hauek bidean arazoak konpontzeko balio zuten.
+
+Aurtengo bidaia, bereziki luzea izan zen.  Lehenengo egunean, basamortu handia zeharkatu behar izan zuten.  Eguzkiak berriro erre zituen izarrak, eta basamortuak harri gogorrak zituen.  "Ezin gara horrela jarraitu!" esan zuen Txomin-ek.  "Zer gertatuko da eguzkiaren aurka?" Galdetu zuen Izar-ek.  "Ez kezkatu, laster igaroko gara," esan zuen Argi-ak, eta bere argi-izpiekin, harrizko errepideak zuloak sortu zituen, basamortuko lehorteak, denbora labur batean desagertu ziren.
+
+Bigarren egunean, mendi garaizkoak zeharkatu behar izan zuten.  Txomin-ek, izar txikienak, zuloetan sartu ziren, eta mendi altuen gainetik jauzi egin zuten.  Izar-ek beldur handia zuen, eta Argi-ak, bere argiarekin, izarrak bultzatzen zituen, eta bere argi-izpiekin, mendi hutsaren artean zuloa zabaldu zuen.  Horrela, mendiak ere gainditu zituzten.
+
+Hirugarren egunean, laku handi eta sakon bat zeharkatu behar izan zuten.  Hala ere, hori ere gainditu zuten.  Txomin-ek, itsasontzi txiki bat eraiki zuen bere izpietan, eta haien artean gidatu zuen.  Izar-ek zailtasun handiak izan zituen, eta Argi-ak bere argia sortu zuen, laku osoa argituz, eta bidearen zatirik zailena errazagoa bihurtuz.
+
+Bidaia luzea, eta hainbesteko zailtasun eta abentura, amaitzear zegoenean, LeonENTRYako bidaia luzeari buruzko istorioa amaitu zen.  Txomin, Izar eta Argia, izar txiki LeonENTRYakoak, izar handi bihurtu ziren.  Hainbat bidaia egin zuten, eta ez zituzten inoiz ahaztu LeonENTRYako bidaia luzea eta dibertigarria.  Eta, bidean, ikasi zuten zer zen izatea ausarta, zalantzan jartzea eta argi izatea.  LeonENTRYako izar txiki hauek, mundu osoa argitu zuten eta, inoiz ez zen inoiz ahaztuko.
+</body>

@@ -1,0 +1,29 @@
+<prompt>
+Please write a funny Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Džiugo ir liūto draugystė per septynias upes'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>lt</lang_id>
+
+<title>Džiugo ir liūto draugystė per septynias upes</title>
+<body>Žemėje, kur saulė leidžiasi į horizontą ir spalvina dangų oranžine, geltona ir raudona spalva, gyveno mažas Džiugas. Jis buvo labai smalsus ir mėgo keliauti. Vieną savaite, kai Džiugas buvo pasiėmęs savo mašiną ir važiavo pro mišką, jis pamatė didelį liūtą, sėdintį ant akmenies. Liūtas buvo labai liūdnas, ir Džiugas nusprendė pasitikslinti, kas jį kamavo.
+
+"Draugas, kodėl tu taip liūdni?" - paklausė Džiugas. Liūtas atsakė: "Aš esu liūdnas, nes man reikia perėjimo per septynias upes, kad pasiekti mano tėvų namus, bet aš bijau plaukti." Džiugas pasiūlė savo pagalbą ir kartu jie nusprendė keliauti per septynias upes. Pirmoji upė buvo labai sekli, tad jie ėjo per ją be jokio rūpesčio. Antroji upė buvo šiek tiek giliau, bet Džiugas sugebėjo ją perplaukti, o liūtas jėgo ant jo nugaros.
+
+Trečioji upė buvo dar giliau, ir Džiugo mašina jau nebeįveikė vandens, tad jie turėjo ieškoti kito būdo, kaip perplaukti upę. Džiugas pasiūlė plaukti valtimi, bet liūtas bijojo, kad valtis nerezgs. Tada Džiugas atsiminė, kad turi savo mašinoje oro pūtimo prietaisą, ir jie nusprendė pūsti oro į liūto plaukų tarpus, kad jis galėtų plaukti. Šis būdas pasirodė esąs labai efektyvus, ir jie sėkmingai perplaukė trečiąją upę.
+
+Ketvirtoji upė buvo labai srauni, tad Džiugas ir liūtas turėjo būti labai atsargūs. Jie naudojo liūto stiprų balsą, kad išgirstų, ar upės gilumas leidžia jiem perplaukti. Kai jie perplaukė ketvirtąją upę, jie pamatė didelę salą, kurioje augo visokios uogos. Džiugas ir liūtas nusprendė pailsėti ir pasiskųsti uogų.
+
+Penktoji upė buvo labai šalta, tad Džiugas ir liūtas turėjo apsirengti šiltai, kad neprebėgtų šalčio. Jie perplaukė penktąją upę ir pasiskųstė dar daugiau uogų. Šeštoji upė buvo labai seklus, tad jie ėjo per ją beveik nesudrėkdamas kojų. Paskutinė, septintoji upė buvo labai gili, bet Džiugas ir liūtas jau buvo patyrę, tad jie perplaukė ją be jokio rūpesčio.
+
+Kai jie perplaukė visose septynios upės, liūtas buvo labai dėkingas Džiugui už jo pagalbą. Jis pasiūlė Džiugui atvykti į jo tėvų namus ir juos aplankyti. Džiugas sutiko, ir jie kartu atvyko į liūto tėvų namus. Liūto tėvai buvo labai dėkingi Džiugui už jo pagalbą sūnui, ir jie pasiūlė jam visokios uogos ir gėrimus.
+
+Džiugas ir liūtas tapo labai gerais draugais, ir jie dažnai kartu keliavo. Jie perplaukė daug upių, ir Džiugas sugebėjo padėti liūtui visose sunkumose. Liūtas taip pat sugebėjo padėti Džiugui, kai jam reikėjo stipros rankos. Jie buvo labai laimingi, kad susitiko ir tapo draugais, ir jie žinojo, kad jų draugystė bus ilga ir stipri.
+
+Kad ir kokie būtų jų kelionės, Džiugas ir liūtas visada turėjo vienas kitam pagalbą, ir jie niekada nesiskyrė. Jų draugystė buvo pavyzdys visiems, kad draugai turi visada būti kartu ir padėti vienas kitam. Ir taip Džiugas ir liūtas gyveno ilgai ir laimingai, keliaudami per visokias upes ir kalnus, bet visada turėdami vienas kitam pagalbą ir stiprų draugystės ryšį.</body>

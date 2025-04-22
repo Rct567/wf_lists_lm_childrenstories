@@ -1,0 +1,44 @@
+<prompt>
+Please write a uncomplicated Turkish children's story that is at least 1000 words long.
+It must be completely written in proper Turkish (TR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Ay Işığında Dans Eden Tavşanlar'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>tr</lang_id>
+
+<title>Ay Işığında Dans Eden Tavşanlar</title>
+<body>
+<p>Uzun, uzun yıllar önce, yeşil tepelerin ve gür ormanların arasında, masmavi bir göletin kıyısında, huzurlu bir köy yerleşmişti. Köyün etrafını sarmalayan kocaman ağaçlar, dallarıyla gökyüzüne uzanıyor, kuş cıvıltılarıyla ve esen meltemlerle yankılanıyordu.</p>
+
+<p>Bu köyde, meraklı gözleri ve çevik ayaklarıyla tanınan dört tavşan yavrusu yaşıyordu.  Zıpzıp, Çıtırtı, Hopsa ve Pıtırtı adlı bu yavru tavşanlar, birbirlerine çok düşkündü.  Her gün birlikte oyunlar oynuyor, ormanlık alanları keşfediyor ve bol bol zıplıyorlardı.</p>
+
+<p>Bir gün, ay, puslu bir örtüyle örülü gökyüzünde parlamaya başladı. Ay ışığı, gölün yüzeyinde pırıl pırıl yansıyarak, ormanı sihirli bir ışıkla kapladı.  Zıpzıp, birdenbire bir fikir edindi.  "Arkadaşlar," dedi, "bu harika ay ışığında dans edelim mi?"</p>
+
+<p>Çıtırtı, heyecanla başını salladı. "Dans etmek mi? Çok güzel bir fikir!"</p>
+
+<p>"Ben de isterim!" diye bağırdı Hopsa, kocaman gözlerini parlatarak.</p>
+
+<p>"Pıtırtı ne dersin?" dedi Zıpzıp. Pıtırtı, biraz çekingen olmasına rağmen, "Tamam," diye mırıldandı ve bu güzel fikre katılmaya karar verdi.</p>
+
+<p>Dört arkadaş, ay ışığının büyülü dansıyla adeta büyülenmiş gibiydi. Ormanın arasında bir çembere oturmuş, ayaklarını yere vuruyor ve ufak ufak zıplayarak, birbirlerine eşlik ederek dans ediyorlardı. Zıpzıp, ayaklarını hızlıca hareket ettirerek bir vals yapıyordu; Çıtırtı, yavaş ve zarif adımlarla dans ediyor, yerdeki yapraklara dikkatlice dokunuyordu.  Hopsa, güçlü ve enerjik adımlar atarak, hareketlerine neşe katıyordu. Pıtırtı, arkadaşlarına eşlik ederken biraz daha yavaş ama aynı zamanda tatlı ve zarif hareketler yapıyordu.</p>
+
+<p>Çıtırtı, incecik ve yumuşak sesiyle şarkı söylemeye başladı: "Ay ışığıyla aydınlanıyor, orman derin bir neşeye bürüniyor,  zıplıyoruz, eğleniyoruz." Çıtırtı'nın melodik sesleri,  tüm ormana yayılıyor,  kuşlar şarkılarını birleştirerek daha da neşeli hale geliyordu.</p>
+
+<p>Rüzgar, ağaçların dallarını sallayarak, ay ışığının dansı ve şarkıya güzel bir müzik katıyordu.  Yakındaki bir dere, mırıldanarak bu büyülü anlara tanık oluyordu.</p>
+
+<p>Dans ederken, Zıpzıp, aniden bir çiçek fark etti. Çiçek,  ay ışığında  güzellikle parlıyordu ve tavşanların güzel dansını izliyordu sanki. Zıpzıp, bu büyülü anda hissettiği neşeyi ve şaşkınlığı arkadaşlarıyla paylaşmak için sabırsızlanıyordu.  Kafasını arkaya çevirdi ve arkadaşlarına gülümsedi. Çıtırtı da Hopsa da, aynı gülümsemeyi kendi yüreklerinde hissettiler.</p>
+
+<p>Birbirlerine tutunup, etraflarında dans ettiler ve ellerini uzatarak gökyüzüne doğru neşeli seslerle seslendiler: “Biz de Ay Işığında Dans Eden Tavşanlarız.” </p>
+
+<p>Ve gece geç vakte kadar,  ay ışığında dans ettiler; zıplayıp, şarkılar söylediler ve  dostluklarının sevincine kapıldılar.  Ay ışığı, sanki onlarla dans ediyormuş gibiydi.  Ortalığı kuş sesleri ve rüzgârların hışırtıları dolduruyordu. Ay ışığında dans eden tavşanlar, o geceyi, ömürleri boyunca unutmayacakları unutulmaz anılarla tamamladılar.</p>
+
+<p>Ertesi gün, köy halkı, ay ışığında tavşanları dans ederken görmüşlerdi. Şaşkınlıklarına rağmen, onları takdir edip tebrik ettiler ve onların dostluğu için minnettar kaldılar. O gün sonra tavşanların orman ve köyün birleşik canlıları ve dostluklarının güzel bir simgesi olduğunu herkes anlamıştı.</p>
+
+
+<p>Uzun zaman sonra, bu dört arkadaş, hala  ormanların içinde dans eder ve ormanın derinliklerinde güzel şarkılar söylerlerdi. Onların güzel dostluk öyküsü, her mevsim  yeniden doğardı ve ormanda yankılanırdı.</p>
+</body>

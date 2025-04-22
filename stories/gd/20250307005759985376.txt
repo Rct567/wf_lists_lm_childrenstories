@@ -1,0 +1,69 @@
+<prompt>
+Please write a funny Scottish Gaelic children's story that is at least 1000 words long.
+It must be completely written in proper Scottish Gaelic (GD).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>gd</lang_id>
+
+<title>Turas Dùbhlanach Dhòmhnaill is Chomhrain</title>
+<body>
+Bha Dòmhnall agus Comhran nan dithis bhalach òg a bha a’ fuireach ann an sràid bheag ann an Dùn Èideann. Bha iad nan caraidean gu math dlùth, agus rinn iad a h-uile càil còmhla. Aon latha grianach, fhad ‘s a bha iad a’ cluich ann an gàrradh Chòmhrain, thàinig plana mòr adharcach gu Dòmhnall.
+
+"Comhran," ars' Dòmhnall, "Tha mi a' smaoineachadh gum bu chòir dhuinn turas a ghabhail! Turas gu… Loch Nis!"
+
+Bha sùilean Chòmhrain a’ deàrrsadh. "Loch Nis? Leis a' Bheathach Nise?"
+
+"Gu dearbh!" fhreagair Dòmhnall. "Bidh e uamhasach! Feumaidh sinn a h-uile càil a dheasachadh."
+
+Agus mar sin, chuir iad romhpa an turas aca a dheasachadh. Chruinnich iad stoc mòr de bhiadh: sgàin, briosgaidean, measan, agus bocsa de mhònadh-dreachd a bha Comhran a’ còrdadh ri chèile. Chuir iad cuideachd stoc mòr de dh’aodach: còtaichean-uisge, adan-ghaoithe, agus paidhir mhòr de bhòtannan a bha ro mhòr dha Dòmhnall agus air a bhith a’ toirt air coiseachd mar ròbataire. “Dh’ fhaodadh gun èirich an aimsir," mhìnich Dòmhnall fhad 's a bha e a’ pacadh. Chuir iad cuideachd mapa mòr, trom, pàipear a bha coltach ri map de sheann seòladair.
+
+Dh’ iarr iad air pàrantan cead, rud a bha a’ toirt ùine mhòr. Bha pàrantan Chòmhrain ag iarraidh gum biodh iad a’ dol le inbheach, ach dh’ iarr iadsan nach robh iad a’ gabhail ris sin còmhla. Mu dheireadh, le mòran gheallaidhean nach rachadh iad air falbh, agus cha bhiodh iad a-riamh ag ithe a’ phlàta oidhche, thug iad cead dhaibh.
+
+A’ chiad rud sa mhadainn, phaisg iad am bagannan agus sheall iad air an rathad mhòr. Ghabh iad bus le rathad gu baile beag Inbhir Nis. Chuir an turas stad air ann am baile beag brèagha leis an ainm Cùil Lodair. Bha sruthan-uisge fuar a’ ruith ri taobh nam bothain, agus chaidh iad a chraobhachadh air na creagan. Bha sùilean mòra air Comhran nuair a chunnaic e caisteal mòr air mullach cnoc.
+
+Nuair a ràinig iad Inbhir Nis, chuir iad romhpa gun tèid iad air falbh sa bhàta a bhiodh a’ dol air Loch Nis fhèin. Bha a’ bhàta mhòr agus dh’fhaodadh iad a’ choille a chluinntinn, a’ ruith air falbh. Bha Dòmhnall trang a’ coimhead airson Comhran gus coinneachadh ris. “Comhran! Càit a bheil thu?” ghlaodh Dòmhnall.
+
+"An seo!" thàinig guth. Chunnaic Dòmhnall Comhran, leis a' chlòca air, a' coiseachd mun cuairt le beath le beagan sgìths air aodann.
+
+"Tha mi airson mo chuideachadh," thuirt Comhran. "Bha mi a’ coimhead airson an Bheathaich Nise!"
+
+Chrath iad beagan dhiubh air an t-slighe, agus fhad ‘s a bha iad air an turas, thuirt an stiùiriche ris a h-uile duine gu feumadh iad coimhead a-mach airson an beathach. Thòisich Dòmhnall agus Comhran a’ coimhead, gu h-àrd, shìos agus gu sgiobalta.
+
+“Thoir sùil air sin!” ghlaodh Dòmhnall gu h-obann. Sheall e air a’ bhonn de loch nuair dh'fhaic iad beag-bhòid each-mara a' tighinn a-mach às. Bha e coltach ri snàthadach, gorm agus mì-chinnteach. Bha barrachd dragh air Comhran agus dh’fhalbh e.
+
+"Na gabh dragh," thuirt Dòmhnall, "chan eil e fhèin a' toirt ionnsaigh air duine!"
+
+Bha a’ bhàta a’ cur seachad ri taobh caisteal Urchadan. Bha an caisteal àrd agus drùidhteach, agus bha e a’ coimhead air an loch.
+
+“Am faic thu e?” thuirt Comhran, a’ crathadh air beagan cuideachd.
+"Chì mi e," fhreagair Dòmhnall. "Tha e coltach ri seann uilebheist!"
+
+Às deidh an turais bhàta, bha an dithis bhalach acrach. Lorg iad taigh-bìdh beag ann am baile beag. Bha an taigh-bìdh làn de dh' fhuamhairean bho air feadh an t-saoghail. “Càit an tèid sinn?” thuirt Comhran.
+"Eibhinn," fhreagair Dòmhnall, “bidh iad a 'frithealadh sgadan agus buntàta!"
+
+Cho-dhùin iad òrdachadh sgadan agus buntàta. Bha e glè bhlasta, ach dh'fhaodadh gum biodh iad air barrachd de rudan bìdh eile iarraidh.
+
+Aig a' cheann thall, chaidh Dòmhnall agus Comhran air ais dhachaigh ann am bus. Bha iad sgìth, ach glè thoilichte leis an turas aca. Bha iad air uilebheist fhaicinn, chaidh iad air turas bhàta, agus bha iad air rudeigin dhol.
+Chaidh an turas aca a dhèanamh gu math spòrsail!
+
+Nuair a ràinig iad Dùn Èideann, chaidh iad a dh' ionnsaigh pàrantan Dòmhnaill. "Ciamar a bha an turas?" dh'fhaighnich màthair Dòmhnaill.
+"Uamhasach!" fhreagair iad le chèile. "Chunnaic sinn… am Beathach Nise!"
+
+Chrath iad beagan air an turas, agus a’ coimhead air an ath thuras còmhla. Agus tha mi a’ smaoineachadh gum faic sinn iad a’ feitheamh aig stad às déidh sgoile, a’ deasachadh airson an ath turas aca gu àiteachan dìomhair agus spòrsail eile.
+Bha iad gu cinnteach a’ bruadar mu na thachair dhaibh air Loch Nis airson mòran oidhcheannan an dèidh sin. Agus nan robh sibh a’ tadhal air gàrradh Chòmhrain, is dòcha gum faiceadh sibh fhathast iad a’ feitheamh còmhla.
+Bha fios aca gum faodadh e bhith aig àm sam bith an uair a bhiodh iad air an t-slighe a-rithist, a’ coimhead air an ath dhùbhlan acair agus gan ullachadh fhèin.
+
+An turas seo…
+Bha iad airson a dhol gu…
+Eilean Sgitheanach!
+Agus thug iad a-nuas de dhìreach beathach eile!
+The Beathach Sgìth!
+An ath thuras…
+An ath dhùbhlan…
+Bhiodh iad a’ bruadar…
+Gu deo!</body>

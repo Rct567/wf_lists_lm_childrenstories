@@ -1,0 +1,56 @@
+<prompt>
+Please write a dialog-based Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Qadimiy kitoblarni sevuvchi bolaning kutubxonadagi sarguzashtlari'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>Qadimiy kitoblarni sevuvchi bolaning kutubxonadagi sarguzashtlari</title>
+<body>
+O'rta maktabning yosh o'quvchisi, Javohir, kutubxonani juda yaxshi ko'rardi.  Uning ko'zlari sahnasi rang-barang, hidlari esa go'yo qurilgan rang-barang hayvonlar, tabiat go'zalligining yo'q bo'lmagan xushbo'yligi bo'lgan kitoblar orasida aylanib yurib, g'oyib bo'lardi.  Uning xohishi – har bir kitobni o'qish, har bir sahifani o'rganish edi. 
+
+Bir kuni, Javohir o'zining eng sevimli joyiga, kutubxonaga bordi. Uning ko'ziga to'g'ridan-to'g'ri ulkan va qora rangdagi kitob qoravalli edi. "Bu nima qiziq?" – dedi Javohir. Kitobning qopqog'ida eski harflar bilan "Afsonalar" deb yozilgan edi.
+
+"Assalomu alaykum, kichik kutubxonachi," – dedi uning orqasidan biroz yaşli va mehribon ko'zlarli ayolning ovozi.  "Qaysi kitobni o'qishni xohlaysiz?"
+
+"Men bu kitobni ko'rdim, bu qadimiy ko'rinadi. "Afsonalar" deb yozilgan... haqiqatdan ham afsonalar bo'lmasa kerak?"  – Javohir o'ziga ishonmay suhbatni davom ettirdi.
+
+"Ha, to'g'ri aytasiz.  Bu kitoblar o'tmishdagi voqealarni, sehrgarlar, qirollar va janglarni, ayniqsa ulkan hikoyalarni o'z ichiga oladi." – ayolning ko'zlari Javohirga issiqlik bilan qaradi. "Ular sehrga boy va sehrli mavzularga to'la."
+
+"Afsuski, ularda sehrga oid hech qanday yozuvlar ko'rinmayapti?" Javohir o'ylanib qoldi.
+
+"Yo'q. Ular har bir qahramonning qalbida bo'ladigan maxsus kuch haqida gapiradi.  Shu munosabat bilan, sehrning qudratiga ishoning", - deb javob berdi kutubxonachi onasi.
+
+Javohir ehtiyotkorlik bilan kitobni ochib ko'rdi. Sayhi tushunarli emas, ammo ajoyib rasmlar va ulkan hikoyalar edi. Uning ko'ziga oltin yulduzlar va jilovlarli otlar, unutilmas qahramonlar paydo bo'ldi.  Javohir sayhlarga chiqdi, har bir sahifaning sirlarini yordamsiz o'qishga harakat qildi, va haqiqatdan ham ularning qalbidan quvvatlar bor edi.
+
+Kitobni birin-ketin o'qib chiqgan holda Javohir bir necha kun o'tkazdi. U afsonalar olamini o'rganib, uning o'z hayotini yanada go'zalroq qilib tashlagan g'oyalarga to'la edi. U ulkan erta qisqichbaqalar,  ulkan qaroqchilar to'g'risida eshitgan edi va hatto qush qanotida sayohat qilayotgan sehrgarning sehrgarliq hayotini ham qoldirmagandi.
+
+
+Bir kuni, kutubxonaga yana Javohirning katta singlisi, O'mol, boribdi. U kitobning maqomlarini qizg'in iltimos qildi va bir-biriga ishonchli e'tibor bilan qarab, "Endi nimalar bilan band edingiz? Biz Javohir bilan birgalikda katta daftarlar bilan qiziqarli o'yin o'ynashni niyat qildik. Buni ham kutubxonada qidiraylik". dedi.
+
+"Javohir, seni qiziqtirgan narsa nima edi?"  - O'mol gapini Javohirga murojaat qilib aytdi.
+
+"Qadimiy kitoblarda yozilgan afsonalar va ertaklar." – Javohirning javoblari aniq va dolzarb edi.
+
+"Sizda bir qiziqish mavjudmi? Shuning uchun yaxshi maslahatchimiz bor, qaysi kitoblarda nima bor?" - O'molning e'tibori ham afsonalarga qaratilgandi.
+
+"Bu juda ko'p odamlarga ta'sir qiladi, kishi va jamiyatning hayotda qanday harakatlanishi kerakligini yaxshiroq tushunadi",  – Javohir qo'shib qo'ydi.
+
+Birgalikda ular sehrli yulduzlar bilan qoplangan qorong'u uylarni tasvirlaydigan, har bir yulduz sirga mardona aylanayotgan ko'plab afsonalar kitoblarini topdilar. Javohir shuningdek, ba'zi sehrgarlar va ayolni davolash turlarini tasvirlab beradigan afsonalarni qidirardi.
+
+"Qadimiy afsonalar – biror narsani to'g'ri bajarishning, to'g'ri yo'lni tanlashning g'oyaviy namunalaridir!", - Javohir yangi kashfiyotini O'mol bilan baham ko'rdi.
+
+Shu payt kutubxonachi onasi xona ichiga kirib, "Yaxshi narsalarni o'rgandinglarmi? Agar sizga biron bir sir yoki qiziqarli maslahat kerak bo'lsa, meni toping", deb gapira boshladi.
+
+
+Ular qahramonlarning xatti-harakatlaridan saboq olishni va hayotlarini yanada chiroyli qilishni maqsad qildilar.
+
+Javohir va O'mol kutubxonadan quvonch bilan ketishdi.  O'sha kundan boshlab, ular ko'proq kitob o'qishni, ko'proq bilim olishni va ko'proq hayot haqida bilishni xohlashdi.  Kutubxonachi onasi ham xursand edi. Ular uchun kitoblar muqaddas sehr va afsonalar manbai bo'lib qolaveradi.
+
+</body>

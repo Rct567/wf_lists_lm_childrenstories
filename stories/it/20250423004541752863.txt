@@ -1,0 +1,73 @@
+<prompt>
+Please write a timeless Italian children's story that is at least 1000 words long.
+It must be completely written in proper Italian (IT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'I Due Orsetti Curiosi e il Tesoro Nascosto nel Fiume'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>it</lang_id>
+
+```xml
+<title>I Due Orsetti Curiosi e il Tesoro Nascosto nel Fiume</title>
+<body>
+C'erano una volta, in una verde valle incantata ai piedi delle Alpi, due orsetti gemelli chiamati Marco e Sofia. Marco era un orsetto avventuroso, con un naso sempre all'insù, alla ricerca di nuove scoperte. Sofia, invece, era più saggia e riflessiva, con grandi occhi che osservavano attentamente il mondo intorno a lei. Ambedue avevano un'inconfondibile pelliccia marrone e due cuori grandi come il bosco che li ospitava.
+
+Un giorno di primavera, mentre il sole timidamente illuminava i prati di fiori colorati, i due orsetti si trovavano vicino al fiume che serpeggiava attraverso la valle. L'acqua, cristallina e fresca, scorreva cantando melodie misteriose, portando con sé piccoli sassi lisci e foglie danzanti.
+
+"Marco, che cosa pensi ci sia laggiù, oltre la curva del fiume?" chiese Sofia, indicando con la zampa un punto nascosto dalla fitta vegetazione.
+
+Marco, con un balzo, si mise in posizione di ascolto. "Non lo so, Sofia. Ma sento qualcosa...un segreto, forse?"
+
+La curiosità era come il miele per gli orsetti: irresistibile. Decisero di partire per esplorare.
+
+"Aspetta, Marco! Dobbiamo preparare un cestino con qualcosa da mangiare. Potremmo avere fame," disse Sofia, che pensava sempre con la testa.
+
+Raccolsero quindi delle bacche succose, qualche noce trovata sotto un albero di faggio e, con grande attenzione, un favo di miele abbandonato da alcune api. Mettendo tutto nel loro piccolo cestino di vimini, si avviarono lungo il fiume, tenendosi per mano.
+
+Il cammino fu avventuroso. Camminarono lungo sponde ripide, scavalcarono radici robuste e si fecero largo tra cespugli spinosi. Il sole picchiava forte, ma la brezza leggera che arrivava dal fiume li rinfrescava. Ascoltavano i canti degli uccelli, osservavano le farfalle multicolori che svolazzavano tra i fiori e cercavano di non perdere mai di vista il fiume, loro guida silenziosa.
+
+Dopo ore di cammino, la curva del fiume finalmente si aprì, rivelando uno spettacolo mozzafiato. Una piccola cascata, nascosta dalla vegetazione, si gettava in un laghetto dalle acque tranquille. L'aria era profumata di muschio e umidità.
+
+"Che meraviglia!" esclamò Marco, incantato. "Sembra un luogo magico."
+
+"È bellissimo," concordò Sofia, "Ma dove potrebbe essere il segreto?"
+
+Iniziarono a perlustrare i dintorni con attenzione. Marco si concentrò sul lato destro della cascata, arrampicandosi sulle rocce scivolose, mentre Sofia scrutava attentamente il laghetto e la sua sponda opposta.
+
+All'improvviso, Marco gridò: "Sofia! Vieni qui! Ho trovato qualcosa!"
+
+Sofia corse da lui, ansiosa di vedere cosa avesse scoperto. Marco indicava con la zampa una piccola sporgenza nella roccia, nascosta dietro la cascata. C'era una specie di apertura.
+
+"Devo provare ad entrare," disse Marco, con gli occhi che brillavano di eccitazione.
+
+Con fatica, si introdusse nell'apertura. Era buio, freddo e umido. Sofia lo seguì a sua volta, spaventata ma desiderosa di condividere l'avventura.
+
+All'interno della sporgenza, scoprirono una piccola grotta. Le pareti erano ornate da strane figure e simboli scolpiti nella pietra. In fondo alla grotta, su un piccolo piedistallo, c'era un oggetto luccicante.
+
+"Un tesoro!" gridò Sofia, emozionata.
+
+L'oggetto era un piccolo scrigno di legno intarsiato, ornato con gemme colorate. Lo aprirono con cautela, tremanti di curiosità. All'interno, non c'era oro, né gioielli, come si aspettavano. Invece, trovarono un libro antico, rilegato in pelle, con le pagine ingiallite dal tempo.
+
+Marco, deluso, esclamò: "Ma... non c'è niente di prezioso!"
+
+Sofia, invece, prese il libro in mano e iniziò a sfogliarlo con delicatezza. Sulle pagine erano disegnate illustrazioni di piante e animali, con note scritte in una lingua antica e misteriosa.
+
+"Questo è più di un tesoro, Marco!" disse Sofia, con gli occhi che brillavano di conoscenza. "È un libro di storia naturale. Parla di tutte le piante e gli animali che vivono qui, nella nostra valle, e spiega come prendersi cura di loro."
+
+Passarono il resto del pomeriggio nella grotta, leggendo insieme il libro. Marco, inizialmente deluso, si lasciò trasportare dalla bellezza delle immagini e dalla saggezza delle parole. Cominciò a capire che il vero tesoro non era fatto di oro e gemme, ma di conoscenza e amore per la natura.
+
+Al tramonto, uscirono dalla grotta, con il libro in mano. Il sole, ormai basso all'orizzonte, dipingeva il cielo con colori caldi e intensi.
+
+"Adesso capisco," disse Marco, guardando Sofia con ammirazione. "Il tesoro non era nascosto per essere rubato, ma per essere scoperto. Era un invito ad amare e proteggere la nostra valle."
+
+Rientrarono a casa, felici e appagati. Da quel giorno, Marco e Sofia dedicarono tutto il loro tempo a studiare il libro e a mettere in pratica le sue indicazioni. Piantarono alberi, raccolsero semi, aiutarono gli animali feriti e insegnarono agli altri abitanti del bosco l'importanza di proteggere la natura.
+
+Diventarono i guardiani della valle, amati e rispettati da tutti. La loro curiosità, unita alla saggezza di Sofia e all'entusiasmo di Marco, aveva portato a una scoperta preziosa: il vero tesoro è la conoscenza, e l'amore per la natura è il più grande dei tesori.
+
+E così, i due orsetti curiosi vissero felici e contenti, continuando a esplorare, imparare e proteggere la loro valle incantata per sempre.
+</body>
+```

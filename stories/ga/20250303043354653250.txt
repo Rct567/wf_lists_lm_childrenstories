@@ -1,0 +1,68 @@
+<prompt>
+Please write a timeless Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'An Ghrian agus an Ghaoth agus an Gáire'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>ga</lang_id>
+
+```xml
+<title>An Ghrian agus an Ghaoth agus an Gáire</title><body>
+Bhíodh an Ghrian, go hálainn agus órga, ina cónaí sa spéir. Bhíodh sí ag taitneamh ar fud na tíre gach lá, ag téamh na talún agus ag soilsiú na ndaoine. Bhíodh sí ina cara le gach rud beo, ó na héin bheaga a chanadh go hard sna crainn, go dtí na bláthanna beaga a bhíodh ag fás sna páirceanna.
+
+Lá amháin, bhí an Ghrian ag taitneamh go geal nuair a chuala sí guth ag teacht. "Hó-ró! Hó-ró!" a bhí á rá. D'fhéach an Ghrian anuas agus chonaic sí an Ghaoth, ag damhsa agus ag casadh ar fud na talún. Bhí sí ag séideadh na gcrann, ag bogadh na scamall, agus ag scaipeadh na duilleoga ar fud na háite.
+
+"Dia duit, a Ghaoth," arsa an Ghrian go bog. "Céard atá ar bun agat?"
+
+"Táim ag imirt!" a dúirt an Ghaoth, ag gáire go hard. "Táim ag déanamh spraoi! Táim ag bogadh gach rud!"
+
+"Ach, a Ghaoth," arsa an Ghrian, "tá tú ag déanamh an iomarca torainn. Tá tú ag cur isteach ar na daoine agus ar na hainmhithe."
+
+"Níor thug mé faoi deara," a dúirt an Ghaoth. "Ní raibh mé ach ag iarraidh spraoi a bheith agam." Agus lean sí uirthi ag séideadh agus ag damhsa.
+
+Bhí an Ghrian ag smaoineamh ar conas an Ghaoth a stopadh. Bhí a fhios aici go raibh an Ghaoth láidir, agus go bhféadfadh sí a bheith contúirteach mura mbeadh sí cúramach. D'fhéach sí anuas ar an talamh agus chonaic sí buachaill beag ag imirt le hata ar a cheann. Bhí an hata ag eitilt leis an ngaoth, agus bhí an buachaill ag rith i ndiaidh.
+
+"Féach!" a dúirt an Ghrian. "Tá an Ghaoth ag cur isteach ar an mbuachaill beag!"
+
+D'fhéach an Ghaoth anuas freisin agus chonaic sí an buachaill. "Ó, tá brón orm," a dúirt sí. "Níor theastaigh uaim dochar a dhéanamh."
+
+"Is féidir leat cabhrú," arsa an Ghrian go socair. "Is féidir leat stopadh ar feadh tamaill, agus lig don bhuachaill a hata a fháil ar ais."
+
+D'éist an Ghaoth leis an nGrian. Mhoilligh sí a cuid séideadh, agus tháinig sí go dtí beagnach stad. D’éirigh leis an mbuachaill a hata a fháil ar ais. Bhí sé an-sásta.
+
+"Go raibh maith agat, a Ghaoth," arsa an buachaill.
+
+"Fáilte," a dúirt an Ghaoth. "Is maith liom cabhrú."
+
+D'fhéach an Ghrian ar an Ghaoth agus ar an mbuachaill, agus bhraith sí go maith. Thuig sí go raibh an Ghaoth in ann a bheith ina cara le daoine, ach go raibh sí ag teastáil chun foghlaim conas a bheith cúramach.
+
+"Anois, a Ghaoth," arsa an Ghrian, "tá rud éigin eile le taispeáint agam duit."
+
+D'fhéach an Ghaoth suas ar an nGrian.
+
+"Féach anuas ar an talamh," a dúirt an Ghrian.
+
+D'fhéach an Ghaoth anuas agus chonaic sí páirc mhór, le bláthanna ag fás i ngach dath. Chonaic sí leanaí ag imirt, ag rith agus ag gáire. Chonaic sí daoine ag siúl, ag baint taitnimh as an lá.
+
+"Féach!" a dúirt an Ghrian. "Tá an Gáire ann! Is é an Gáire an rud is áille ar fad."
+
+Bhreathnaigh an Ghaoth ar an Gáire. Thuig sí go raibh an Gáire ina rud an-speisialta. Bhí sé ina rud a thug áthas do dhaoine. Bhí sé ina rud a thug ar dhaoine mothú go maith.
+
+"Is álainn é," a dúirt an Ghaoth go bog. "Is mian liom an Gáire a bheith agam freisin."
+
+"Is féidir leat," arsa an Ghrian. "Ach caithfidh tú a bheith cineálta. Caithfidh tú a bheith cúramach. Caithfidh tú a bheith sásta."
+
+"Beidh mé," a dúirt an Ghaoth. "Beidh mé cineálta. Beidh mé cúramach. Beidh mé sásta."
+
+Agus mar sin, thosaigh an Ghaoth ag foghlaim conas a bheith ina chara leis an nGrian agus leis an nGáire. Stop sí ag séideadh chomh crua. Thosaigh sí ag séideadh go bog, ag cruthú gaotha beaga a bhog na duilleoga agus a chuidigh leis na héin canadh. Thosaigh sí ag tabhairt an Gáire do dhaoine.
+
+Thosaigh sí ag damhsa leis na scamall, ag cruthú cruthanna iontacha sa spéir. Thosaigh sí ag imirt le páistí, ag séideadh a gcuid eitleán agus a gcuid balúin.
+
+Agus nuair a bhí an Ghaoth sásta, bhí an Ghrian sásta. Bhí an Gáire sásta freisin. Bhí an triúr acu ina gcairde, agus bhí siad ag taitneamh le chéile ar feadh na mblianta. Bhí an Ghaoth cineálta, cúramach, agus sásta. Agus bhí an Gáire ag scaipeadh ar fud na tíre, ag cur áthas ar gach duine a bhí ina gcónaí ann. Agus d'fhan an Ghrian ag taitneamh, ag soilsiú gach rud, agus ag tabhairt teas agus grá do gach duine.
+</body>
+```

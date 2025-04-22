@@ -1,0 +1,81 @@
+<prompt>
+Please write a educational Welsh children's story that is at least 1000 words long.
+It must be completely written in proper Welsh (CY).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Bywydau'r Arddau a'r Cyfnodau Cynnar'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>cy</lang_id>
+
+```xml
+<title>Bywydau'r Arddau a'r Cyfnodau Cynnar</title><body>
+
+Roedd hi'n fore braf, heulog iawn. Roedd yr haul yn tywynnu dros fryniau gwyrdd a chaeau aur. Mewn tŷ bach, gwyn, ar gwr y pentref, roedd dau blentyn yn deffro. Enw'r bachgen oedd Gruffydd a'r ferch oedd Eira. Roeddent yn ffrindiau gorau ac yn caru antur.
+
+"Eira, deffro! Mae'r haul yn disgleirio," galwodd Gruffydd, gan neidio allan o'i wely.
+
+"Wyt, Gruff, dwi'n deffro," atebodd Eira, gan ymestyn yn araf. "Beth ydym ni'n mynd i'w wneud heddiw?"
+
+"Rwy'n meddwl y dylen ni ymweld â gardd hen Nain Sioned," dywedodd Gruffydd. "Mae hi'n gwybod cymaint am y planhigion a'r anifeiliaid bach sy'n byw yno."
+
+Roedd Nain Sioned yn fenyw hen a doeth. Roedd ei gardd yn lle hudolus, llawn o liwiau a phersawr. Roedd ganddi flodau o bob math, coed ffrwythau, llysiau gwyrdd, a bwthyn bach cyfforddus lle'r oedden nhw'n hoffi ymweld.
+
+"Felly, gadewch i ni fynd!" dywedodd Eira, yn llawn cyffro.
+
+Gwisgodd y plant eu dillad, bwyta brecwast cyflym, a rhedeg allan i'r awyr agored. Cymeron nhw'r llwybr trwy'r cae, gan basio ceffylau a defaid yn pori yn dawel. Yn fuan, roeddent nhw wrth drws gardd Nain Sioned.
+
+"Bore da, Nain Sioned!" galwodd Gruffydd.
+
+"Bore da i chi, blant bach hyfryd," atebodd Nain Sioned, gyda gwên fawr ar ei hwyneb. Roedd ei gwallt yn wyn fel eira, a'i llygaid yn ddisglair. "Beth ydych chi eisiau ddysgu heddiw?"
+
+"Rydyn ni eisiau gwybod am y bywydau yn yr ardd," meddai Eira. "Sut mae'r planhigion yn tyfu, a beth mae'r anifeiliaid yn ei wneud?"
+
+"Hynny yw'r pethau mwyaf diddorol i'w ddarganfod," meddai Nain Sioned. "Dewch gyda mi, a byddaf yn dangos i chi."
+
+Aethon nhw i mewn i'r ardd. Roedd y lle'n llawn o fywyd. Adar yn canu ar y coed, gwenyn yn symud rhwng y blodau, a phryfed gleision yn hedfan yn yr awyr.
+
+"Edrychwch ar y blodau," dywedodd Nain Sioned. "Mae pob un ohonynt yn dechrau fel hadau bach. Mae angen golau haul, dŵr, a maeth i dyfu."
+
+Dangosodd Nain Sioned hadau i'r plant, rhai'n fach iawn, eraill yn fwy. Roedd hi'n egluro sut mae'r hadau'n cael eu plannu yn y ddaear, sut maen nhw'n egino, a sut maen nhw'n troi'n blanhigion.
+
+"Ac mae'r gwenyn yn chwarae rhan bwysig," parhaodd Nain Sioned. "Maen nhw'n helpu i beillio'r blodau, gan eu gwneud yn gallu gwneud ffrwythau a hadau."
+
+Yna, aethon nhw i'r gwelyau llysiau. "Dyma lle rydyn ni'n tyfu ein bwyd," meddai Nain Sioned. "Rydym ni'n cael tomatos, tatws, moron, a llawer o bethau blasus eraill yma."
+
+Roedd Gruffydd ac Eira'n synnu ar yr amrywiaeth. Gofynnodd Eira, "Beth am yr anifeiliaid? Beth maen nhw'n ei wneud yn yr ardd?"
+
+"Mae llawer o anifeiliaid bach yn byw yma," atebodd Nain Sioned. "Mae yna gwybed, pryfed genwair, llyffaint, a llawer o greaduriaid eraill. Maen nhw'n chwarae rhan bwysig yn yr ecosystem."
+
+Roedd Nain Sioned yn dal pryf genwair i'w dangos i'r plant. "Edrychwch ar hyn," dywedodd. "Mae'r pryf genwair yn helpu i wneud y ddaear yn iach. Maen nhw'n bwyta deunydd organig ac yn ei drawsnewid yn ffrwythlon."
+
+Aethon nhw ymlaen i weld y llyffaint. "Mae'r llyffaint yn bwyta pryfed," esboniodd Nain Sioned. "Maen nhw'n helpu i reoli poblogaeth y pryfed yn yr ardd."
+
+Yna, aethon nhw i bwthyn Nain Sioned. Roedd yna lawer o hen lyfrau a lluniau yno. "Rwy'n hoffi darllen am yr hen ddyddiau," meddai Nain Sioned. "Y cyfnodau cynnar. Pan oedd pethau'n wahanol."
+
+Dangosodd hi luniau o deuluoedd yn gweithio ar y tir. "Roedd pobl yn tyfu eu bwyd eu hunain. Roedden nhw'n gwybod cymaint am natur," esboniodd Nain Sioned.
+
+Roedd y plant yn gwrando'n ofalus. Roedd hi'n dweud straeon am ddefaid, gwartheg, a chnydau, fel gwenith a haidd. "Roedd pob un yn bwysig i oroesi," meddai Nain Sioned.
+
+Gofynnodd Gruffydd, "Ond beth am ysgolion? A oedd yna ysgolion yn yr hen ddyddiau?"
+
+"Do, roedd yna ysgolion," atebodd Nain Sioned. "Ond roedden nhw'n wahanol iawn i'r ysgolion rydych chi'n mynd iddyn nhw heddiw. Roedd yna ysgolion un ystafell, gyda phlant o bob oed yn dysgu gyda'i gilydd. Roeddent nhw'n dysgu darllen, ysgrifennu, a rhifyddeg, ac yn dysgu am hanes a'r Beibl."
+
+"Ac beth am deithiau? Ydaeth pobl i deithio?" gofynnodd Eira.
+
+"O, do. Ond roeddent nhw'n teithio'n wahanol iawn. Roedd pobl yn teithio ar geffylau neu mewn cerbydau ceffylau. Roedd teithiau'n cymryd llawer hirach," esboniodd Nain Sioned. "Os oeddech chi am fynd yn bell, roedd rhaid i chi baratoi."
+
+Yn dilyn ymweliad â'r bwthyn, aethon nhw yn ôl i'r ardd. Gwelodd y plant fwy o blanhigion, mwy o anifeiliaid, a dysgon nhw fwy o bethau. Roedd y diwrnod yn llawn o ddysgu ac antur.
+
+"Rwy'n gwybod pam rydych chi'n caru eich gardd nawr, Nain Sioned," meddai Gruffydd, ar ôl sawl awr. "Mae'n lle hudolus!"
+
+"Mae hynny'n iawn, Gruffydd," atebodd Nain Sioned, gyda gwên fawr. "Mae natur yn lle rhyfeddol. Mae yna gymaint i'w ddysgu bob dydd. Cofiwch bob amser y pethau rydych chi'n eu gweld a'u dysgu heddiw. Mae'r rhain yn fwy na'r dim ond gardd, mae hwn yn amgylchedd iach lle mae bywyd yn ffynnu."
+
+"Byddwn ni'n gwneud, Nain Sioned," atebodd Eira. "Diolch am bopeth!"
+
+Yna, dywedon nhw ffarwel i Nain Sioned a rhedeg yn ôl adref. Roedd y ddau blentyn yn llawn cyffro ac awydd i ddysgu mwy am yr ardd a'r byd o'u cwmpas. Roedden nhw'n gwybod y byddai llawer o anturiaethau eraill yn aros amdanyn nhw. Roedd y dyfodol yn disgwyl, ac roedden nhw'n barod i ddysgu bob dydd, a mynd ar bob taith o antur newydd. A dyna ddiwedd ein stori heddiw!
+</body>
+```

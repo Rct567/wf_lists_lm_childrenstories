@@ -1,0 +1,38 @@
+<prompt>
+Please write a relatable Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Flores Qui Narant Fabulas Antiquas'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>la</lang_id>
+
+<title>Flores Qui Narant Fabulas Antiquas</title>
+<body>
+In agris amoenis, prope flumen tranquillo, crevit rosa rubra, nomine Rosalia.  Non erat rosa solitaria; circum se habebat flores diversi—violas caeruleas, petuniae purpureas, et heliotropia fragrantia.  Omnes flores, iucundi et festivi,  delectabantur in sole et cantu avium.  Sed Rosalia,  in pulchritudine sua,  sentiebat solitudinem.  Dicit enim Rosalia ad se ipsum, "Numquam aliquis audiet fabulas meas antiquas, fabulas quas memoria mea tenet."
+
+
+Rosalia, cum floribus aliis, flores aliis temporibus floribusque loquebatur.  Partim cantus,  partim murmurantia verba inter se habebant;  Sed Rosalia semper sentiebat se esse aliquem solitariorum, aliquem separatum a communione generis florum.  Quotidie, cum sol oriretur, et aestate calida,  spectat Rosalia caelum, et cogitat de temporibus antiquis.  Ex ipso flumine, in currenti aquarum voce, sonant fabulae antiquas. Rosalia memorabatur de bellis, pace, et amoribus ab antiquus temporibus.  Fabulae erant in corde rosae inscriptae; non per litteras, sed in picturis memorabilium temporum in animas floris incisis.
+
+
+Unus dies, ventus levis, ab occidente veniens,  surrexit et per campos voluit.  Rosalia  in arbore, cui sedit,  respexit in auras,  ubi nubes leves currebant.   Et tunc audivit sonum; non a cantibus avium, sed  a vocem parvulam, suavem; quasi susurrus in vento, aut murmura aquarum in petra. "Estne aliquis?" quaesivit Rosalia.
+
+
+Et vocem exauditur: "Ego sum."   Rosalia, stupefacta, intenderat aurem ad terram.  Tunc videret minusculum lepidum formica, cum cornu aureum in fronte sua et oculis magnis, in foliis arbusculae prope se sedentibus. "Quem es?" Rosalia inquit. "Nomen mihi est Fortuna," formica respondit, "et fabulis tuis audire cupio, o Rosalia."
+
+
+Et Rosalia gaudio repleta, coepit narrare formicae fabulam de flore pulchro, cuius petala aurea erant et flores ab aliis fluminibus creverunt.  Forma formica intenderat auris, et Rosalia narrat de gloria eius. "Sed de alia historia narra mihi,"  Fortuna petivit.  "Narra de tempore ubi sol in lumine suo lucem magnam  in monte ponebat. Tunc, ubi luna in aethere surrexit, decies mille astra in mundo illustrata sunt."  Et Rosalia, cum  lacrimis et gaudio simul in oculis suis,  narravit fabulam, verbis aemulis, imaginibus mirabilibus.
+
+
+Et formica, ob audientiam clarissimae narrationis,  respondit: "O Rosalia! Quantae voces a memoria tua veniunt!"   "Et tu, Fortuna," Rosalia dicit, "quid audivi a te?"  Et Fortuna dixit: "Narrare volo tibi fabulam mea,  de itinere longo et pericolorum multo."  Narratum est de formica qui in deserto vasto ad aquam magnis et laboris pervenire debuit, et de vita perdifficili formicarum operantium in una colonia. Rosalia, audivit narrationem formicae cum attentione summa; vidit in narratione formicae, aliam  partem temporis sui, non narratum a se ipsum.
+
+
+Itaque Rosalia et Fortuna, amicae factae, narrabant  se invicem fabulas.  Fortuna, cum multis fabulis suis, narravit de formicarum cultura et operae et diligentiae.  Rosalia, cum antiquorum fabularum memoria, narravit  de bellis et amore, gloria et solitudine, de temporibus quae praeterierunt, et de futuro adhuc incitato.
+
+
+Et sic, Rosalia, jam non solitaria, cum voce formicae Fortuna, et cum fabulis suis, florum et formicarum communitas facta est.  Ipsis inter se fabulas  in terram diffusum esse et exsonat sonitum  pulchre  ac deliciose.  Ut pulchrior fiat vita cum amicis et narrationibus magnis;  quod sola non est,  sed fabulas narrabant per secula; et ita factum est.
+</body>

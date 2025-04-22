@@ -1,0 +1,52 @@
+<prompt>
+Please write a creative and original Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Przyjaźń Dwojga Dzieci, Którzy Razem Odkryli Tajemnice Starego Zamku, Wtedy Wow.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pl</lang_id>
+
+```xml
+<title>Przyjaźń Dwojga Dzieci, Którzy Razem Odkryli Tajemnice Starego Zamku, Wtedy Wow.</title>
+<body>
+Dawno, dawno temu, w malowniczej polskiej wsi, gdzie pola pszenicy falowały jak złote morze, a rzeki wiły się wśród zielonych łąk, mieszkało dwoje małych przyjaciół. Zosia, dziewczynka o wesołych, błyszczących oczach i warkoczach koloru słomy, oraz Kuba, chłopiec z zarumienionymi policzkami i niespożytą energią. Dzieci te uwielbiały spędzać czas razem, wymyślając coraz to nowe przygody.
+
+Ich ulubionym miejscem zabaw był stary zamek, który górował nad wsią, budząc ciekawość i wyobraźnię. Zamek ten, zwany Zamkiem Sów, od dawna stał pusty, jego mury pokrywały bluszcz i mech, a okna straszyły pustymi oczodołami. Mieszkańcy wsi opowiadali o nim legendy – o duchach, ukrytych skarbach i zaklęciach. Zosia i Kuba, mimo początkowego strachu, byli zaintrygowani tajemnicą zamku.
+
+Pewnego słonecznego poranka, gdy słońce rozlewało swoje złote promienie na wszystko dookoła, Zosia i Kuba postanowili, że nadszedł czas, aby zbadać Zamek Sów. Uzbrojeni w starą latarkę, linę, i pełne zapału serca, ruszyli w stronę zamku. Droga prowadziła przez gęsty las, gdzie drzewa szeleściły tajemniczo, a ptaki śpiewały swoje melodyjne pieśni.
+
+Kiedy dotarli do zamku, jego majestatyczna obecność zrobiła na nich ogromne wrażenie. Bramy były zardzewiałe i uchylone, jakby zapraszające do wejścia. Zosia, nie tracąc animuszu, delikatnie pchnęła je, a one skrzypnęły przeraźliwie, otwierając wejście do mrocznego świata.
+
+Wchodząc do środka, dzieci poczuły zapach kurzu i wilgoci, który przyprawił ich o dreszcze. Światło słoneczne wpadało przez rozbite okna, rzucając na podłogę dziwaczne cienie. Kuba, który zawsze był odważniejszy, włączył latarkę i skierował ją na ściany. "Wow!" – krzyknął. Zobaczył wspaniałe freski przedstawiające rycerzy w zbrojach, damy w pięknych sukniach i sceny z dawnego życia na zamku.
+
+Zosia podeszła bliżej i zaczęła uważnie obserwować malowidła. "Zobacz, Kuba!" – zawołała. "Patrząc na te obrazy, można się dowiedzieć o historii tego zamku." Dzieci przez chwilę zastygły w bezruchu, chłonąc piękno i magię, jaką niosły w sobie te starodawne freski.
+
+Postanowili dokładnie przejrzeć cały zamek. Wędrowali przez mroczne korytarze, wchodzili do pustych sal i zaglądali do pokoi, gdzie czas zatrzymał się wieki temu. W jednym z pomieszczeń, które wyglądało na dawną bibliotekę, znaleźli stare, zakurzone księgi. Zosia, uwielbiająca czytać, natychmiast rzuciła się na nie.
+
+Z pomocą latarki, zaczęła czytać fragmenty opowieści o Zamku Sów. Okazało się, że zamek był domem dla potężnej rodziny rycerzy, znanych z odwagi i mądrości. W księgach były też legendy o skarbie, który ukryto gdzieś na terenie zamku. Kuba, zafascynowany wizją skarbu, zaczął gorączkowo szukać wskazówek.
+
+Przez kilka godzin przeszukiwali zamek, szukając ukrytych przejść, tajnych pomieszczeń i znaków prowadzących do skarbu. Po dokładnych oględzinach i skrupulatnym badaniu malowideł oraz starych ksiąg, Kuba zauważył coś niezwykłego. Na jednym z fresków, przedstawiającym rycerza, widniał nietypowy detal – mała, złotą strzała, która wskazywała konkretny punkt na obrazie.
+
+"Znalazłem coś!" – krzyknął Kuba. Zosia natychmiast do niego dołączyła i razem dokładnie przyjrzeli się malowidłu. Okazało się, że strzała wskazywała na ukrytą skrzynię pod podłogą w dawnej sali balowej.
+
+Z entuzjazmem zaczęli rozkopywać podłogę. Po chwili ciężkiej pracy, z wielkim trudem zdołali odsłonić skrzynię. Zosia i Kuba, pełni napięcia, otworzyli wieko. Zamiast złota i drogich kamieni, w skrzyni znaleźli starą, drewnianą skrzynkę i list.
+
+List był napisany przez ostatniego właściciela zamku. Opowiadał o prawdziwym skarbie, który nie miał wartości materialnej. Skarbem tym była przyjaźń i wspólnie spędzony czas. Skrzynka zawierała w sobie serię zagadek i zadań, które miały na celu pogłębienie ich przyjaźni. Dzieci uśmiechnęły się, zdając sobie sprawę, że prawda o zamku była inna, niż się spodziewali.
+
+Przez następne dni, Zosia i Kuba wspólnie rozwiązywali zagadki, odkrywając zakamarki zamku i poznając jego historię. Podczas poszukiwań, znaleźli ukryty ogród, gdzie kwitły piękne kwiaty i śpiewały ptaki. Odkryli tajne przejście, prowadzące do podziemnego lochu, gdzie rycerze kiedyś trenowali. Spędzili razem wiele czasu, dzieląc się wrażeniami i pomysłami.
+
+Po rozwiązaniu wszystkich zagadek, dzieci odkryły w końcu sekret ostatniej – w ukrytej szkatule znaleźli starą, drewnianą pieczęć z herbem zamku i list potwierdzający ich odnalezienie skarbu. Z listu wynikało, że nagrodą jest ich przyjaźń, która przetrwała próbę czasu.
+
+Wtedy wow!
+Zosia i Kuba byli zachwyceni, zrozumieli, że największą nagrodą jest ich przyjaźń, ich wspólne przygody i wspomnienia. Wrócili do domu, trzymając pieczęć i wspominając to niezwykłe lato spędzone w Zamku Sów. Od tamtej pory, każdego roku, odwiedzali zamek, odświeżając swoje wspomnienia i wspominając tę wyjątkową przygodę.
+
+Ich przyjaźń z każdym rokiem stawała się silniejsza. Pomogli oni wielu ludziom, organizując wydarzenia charytatywne i dbając o dobro innych. Stali się przykładem dla wszystkich w okolicy, pokazując, że prawdziwy skarb to przyjaźń, wzajemne wsparcie i umiejętność pokonywania trudności razem. A Zamek Sów, który stał się symbolem ich przygody, zyskał nowe życie, stając się miejscem spotkań, zabaw i świętowania życia.
+
+I tak oto, Zosia i Kuba, odważni odkrywcy tajemnic starego zamku, stali się bohaterami opowieści, która na zawsze zapisała się w sercach mieszkańców wsi, przypominając o wartości prawdziwej przyjaźni i sile wspólnych marzeń. A wszystko zaczęło się od “Wow!” w mrocznym zamku.
+</body>
+```

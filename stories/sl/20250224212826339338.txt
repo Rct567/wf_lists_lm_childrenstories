@@ -1,0 +1,43 @@
+<prompt>
+Please write a simple and easy-to-follow Slovenian children's story that is at least 1000 words long.
+It must be completely written in proper Slovenian (SL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Lev in njegova družina v afriški savani'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sl</lang_id>
+
+<title>Lev in njegova družina v afriški savani</title>
+<body>
+V vroči afriški savani, kjer se sonce peče kot vroč železni žar, je živel mogočen lev po imenu Leo. Ni bil samo močan in hiter, ampak je bil tudi zelo ljubeč oče in ponosen možakar.  Njegova družina, sestavljena iz žene, ki ji je bilo ime Luna, in treh mladih levkov, se je vsak dan veselila novih pustolovščin.
+
+Leo je bil vzoren starš. Vsako jutro je budil svoje mladiče s nežnim, a odločenim mrmranjem.  "Čas je za novo pustolovščino, mali levki," bi rekel z globokim grmenjem.  Luna, vedno mirna in previdna, je spremljala, kako so se njeni mladiči z velikimi radovednimi očmi in razgibanimi telesi pripravljali na dan.
+
+Prvi mladič, ki so ga imenovali  Zlato, je bil vedno poln energije. Njegova dlaka je sijala v rumenkasto-zlati barvi, ki je odsevala svetlobo savane.  Drugi, Črni, je bil vedno bolj previden in premišljen. Njegova temna dlaka se je odlično združevala s sencami pod drevesi.  Nazadnje je bila Majka,  mlada levinja s čarobno rjavkasto dlako, ki je rada opazovala okolico in učila se novih vzorcev.
+
+Vsak dan so se Leo in Luna skupaj z mladiči podali na dolgo pot v iskanju hrane.  Savana je bila polna divjih živali in njihovih različnih zvokov.  Ptice so peli melodične pesmi, antilope so se hitro premikale,  žabe so se žabjajovale v blatnih lužah.  Leo je stalno pazil na okolico, Luna pa je s svojo pristno močjo in preudarnostjo zagotovila, da so bili varni.  
+
+Zlato se je vedno prizadel, da se poda na lov pred drugimi. "Jaz bom prvi," bi veselo zavpil, toda Leo je vztrajal pri miru. "Najprej opazuj, Zlato," bi povedal. "Uči se previdnosti od Lune in Črnega. Preden loviš, moramo najti pravi trenutek."
+
+En dan, medtem ko so se mladiči pogovarjali in se prepirali, kakor se mladiči radi, je začelo močno deževati.  Nevihta je bila strašna. Nebo je bilo temno, strele so se bliskale, grom je treskal.  Mladiči so se prestrašili in se skrivali za Leovo močno telo.
+
+Luna je, medtem ko je skrbela za svoje mladiče, prepoznala, da se je nevihta vedno bolj bližala reki.  Leo je pogledal v nebo in se zavedel, da se bodo morali umakniti v varnejše ozemlje.
+
+"Potrebno je, da se umaknemo," je dejal Leo, z močnim glasom ki je odmeval po savani. "Nevihta se bliža reki!"
+
+Skupaj,  vsem skupaj, so se pohiteli v deževnem oblaku, mimo cvetja, dreves in drugih živali, ki so se skrivali pred nevihto. Leo je stalno pazil na okolico, Luna pa je s svojo pristno močjo zagotovila, da so se varno umaknili.
+
+Po dolgem času so se skrili pod ogromno akacijo, varni pred nalivi.  Vsi so se zadovoljno zibali pod njenimi vekami, ki so zdržale vse nevihte.
+
+Ko se je nevihta umirila, so se mladiči pridružili Luni, ki je s toplim dihom in nežnim dotikom pomirila svoje malčke.  Leo se je pridružil njima, z nežnim obrazom in mirnim pogledom, ki je odseval ljubezen in moč.  
+
+"Srečno smo, da smo skupaj," je tiho rekla Luna. "Vsi smo varni, in skupaj smo močni."
+
+Zlato, Črni in Majka so se stiskali skupaj, zadovoljni, da so bili varni in skupaj.  Od takrat naprej so bili mladiči še bolj pridni v učenju od svojih staršev, in niso pozabili na pomembnost skupine. Učili so se preživetja in vrednosti družine, ki sta bila ključna v savani.
+
+Vsak dan so se učili in odkrivali, kako je živeti v divjini.  In vsak dan so se v savani, ki je bila polna neverjetnih dogodivščin, naučili še kaj novega.  In kot si je sonce vedno znova odpiralo pot skozi oblake, je Leo in njegova družina znova odkrivala  lepoto, moč in radost življenja v afriški savani.
+</body>

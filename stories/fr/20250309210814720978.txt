@@ -1,0 +1,71 @@
+<prompt>
+Please write a dialog-based French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La Maison Magique au Bout du Chemin'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>fr</lang_id>
+
+<title>La Maison Magique au Bout du Chemin</title>
+<body>
+Il était une fois, dans un petit village niché au cœur d'une forêt dense, une maison qui semblait surgir de nulle part. Les villageois l'appelaient la Maison Magique au Bout du Chemin, car elle était située à l'extrémité d'un chemin sinueux qui disparaissait dans les arbres. Les enfants du village étaient fascinés par cette maison et aimaient se rassembler à son entrée pour écouter les histoires que les anciens leur racontaient à son sujet.
+
+Un jour, trois amis, Léa, Matthieu et Sophie, décidèrent de s'aventurer jusqu'à la Maison Magique pour découvrir ses secrets. Ils marchèrent le long du chemin, leurs sacs à dos remplis de provisions et de curiosité.
+
+"Je me demande ce que nous allons trouver là-bas", dit Léa, les yeux brillants d'excitation.
+
+"Peut-être des trésors ou des créatures magiques", répondit Matthieu, un large sourire sur le visage.
+
+"Ou peut-être juste une vieille maison abandonnée", ajouta Sophie, plus sceptique.
+
+Les trois amis continuèrent leur chemin, traversant la forêt dense et silencieuse. Le soleil filtrant à travers les arbres créait des motifs complexes sur le sol, et les oiseaux chantaient leurs mélodies joyeuses. Après une heure de marche, ils arrivèrent enfin devant la Maison Magique.
+
+Elle était encore plus belle qu'ils ne l'avaient imaginée. Les murs étaient recouverts de fleurs colorées, et le toit était fait de tuiles brillantes qui scintillaient au soleil. Une grande porte en bois, ornée de symboles mystérieux, s'ouvrit avec un grincement lorsqu'ils l'approchèrent.
+
+"Bonjour, jeunes aventuriers", dit une voix chaude et accueillante. "Je m'appelle Madame Luna, et je suis la gardienne de cette maison. Entrez, entrez, et découvrez les secrets de la Maison Magique."
+
+Les trois amis entrèrent dans la maison, émerveillés par les merveilles qui les entouraient. Il y avait des livres qui flottaient dans les airs, des bougies qui brûlaient sans flamme, et des objets qui semblaient changer de forme devant leurs yeux.
+
+"Comment faites-vous tout cela, Madame Luna ?" demanda Léa, les yeux écarquillés.
+
+"La magie est partout, mes enfants", répondit Madame Luna. "Il suffit de savoir où la trouver. Venez, je vais vous montrer quelque chose de spécial."
+
+Madame Luna les conduisit à une pièce secrète, cachée derrière un livre qui glissa sur une étagère. À l'intérieur, il y avait un grand miroir qui reflétait non pas leur image, mais des paysages lointains et des créatures fantastiques.
+
+"Ce miroir est magique", expliqua Madame Luna. "Il peut vous montrer des endroits et des choses que vous n'avez jamais vus. Mais il faut être prudent, car il peut également vous montrer des choses que vous ne voulez pas voir."
+
+Matthieu, toujours curieux, décida de regarder dans le miroir. Il vit un paysage de montagnes et de vallées, avec des créatures qui ressemblaient à des dragons volant dans le ciel.
+
+"Wow, c'est incroyable !" s'exclama-t-il.
+
+Mais lorsqu'il regarda à nouveau, il vit une image sombre et menaçante. Un grand monstre était en train de détruire un village, et les habitants couraient pour sauver leur vie.
+
+"Matthieu, arrête ! Ne regarde plus !" cria Madame Luna.
+
+Mais il était trop tard. Le monstre avait déjà vu Matthieu, et il se mit à courir vers lui. Les trois amis et Madame Luna durent s'enfuir de la pièce pour échapper au monstre.
+
+"Il faut trouver un moyen de le stopper", dit Sophie, les larmes aux yeux.
+
+"Je sais comment faire", répondit Madame Luna. "Il faut utiliser la magie de la Maison Magique. Venez, je vais vous montrer."
+
+Madame Luna les conduisit à une autre pièce, où il y avait un grand livre de sorts. Elle leur expliqua comment utiliser les sorts pour vaincre le monstre et sauver le village.
+
+Les trois amis étudièrent le livre, apprenant les sorts et les pratiquant jusqu'à ce qu'ils soient prêts. Puis, avec Madame Luna, ils partirent affronter le monstre.
+
+La bataille fut longue et difficile, mais les trois amis utilisèrent tous les sorts qu'ils avaient appris pour vaincre le monstre. Finalement, après ce qui sembla être des heures, le monstre disparut dans un nuage de fumée.
+
+Les habitants du village, qui avaient été sauvés, vinrent remercier les trois amis et Madame Luna. Ils leur offrirent des cadeaux et des félicitations, et les trois amis se sentirent fiers de ce qu'ils avaient accompli.
+
+"Merci, Madame Luna, pour nous avoir aidés", dit Léa, en embrassant la vieille femme.
+
+"De rien, mes enfants", répondit Madame Luna. "Vous avez découvert la magie de la Maison Magique, et vous avez utilisé cette magie pour faire le bien. Vous êtes de véritables héros."
+
+Les trois amis repartirent vers leur village, les sacs à dos vides mais les cœurs remplis de joie et de fierté. Ils savaient qu'ils avaient vécu une aventure inoubliable, et qu'ils pourraient toujours compter sur la magie de la Maison Magique pour les aider.
+
+À partir de ce jour, les trois amis visitèrent souvent Madame Luna et la Maison Magique, apprenant de nouveaux sorts et découvrant de nouvelles merveilles. Et ils vécurent heureux pour toujours, grâce à la magie de la Maison Magique au Bout du Chemin.
+</body>

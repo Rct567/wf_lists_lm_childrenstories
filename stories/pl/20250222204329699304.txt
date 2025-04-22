@@ -1,0 +1,32 @@
+<prompt>
+Please write a silly Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Przygody w świecie fantazji i wyobraźni'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>pl</lang_id>
+
+<title>Przygody w świecie fantazji i wyobraźni</title>
+<body>
+Zajączek, którego imię brzmiało Hop, mieszkał w bujnym, zielonym ogródku pełnym kolorowych kwiatów i pachnących warzyw. Hop, pomimo swojego malutkiego wzrostu, miał ogromną wyobraźnię.  Codziennie, gdy słońce ogrzewało jego krótkie, szarobrązowe futerko, Hop wyruszał w niesamowite przygody w świecie fantazji i wyobraźni.
+
+Pewnego słonecznego poranka, Hop, z marchewką w ząbkach i kapeluszem zrobionym z listka sałaty, postanowił odwiedzić Krainę Słodkich Marzeń.  Droga była kręta i pełna nieoczekiwanych przeszkód. Najpierw musiał przepłynąć rzekę zrobioną z soku malinowego,  a potem pokonać grzbiet góry zrobionej z wielkich, słodkich ogórków.  Nogi Hopy się plątały, a kapelusz latał mu z głowy, gdy niefortunnie wpadł w wiatr zrobiony z zapachów truskawek.
+
+Wreszcie, po wielu perypetiach, Hop dotarł do Krainy Słodkich Marzeń.  Było to magiczne miejsce, gdzie drzewa owocujące były zrobione z cukierków, a trawa z rozpuszczonego masła.  Lecz nie wszystko było tak idealne, jak się wydawało.  W Krainie Słodkich Marzeń królowała Pani Cukierkowa, której jedynym zajęciem było zjadanie wszystkich cukierków.  Jej apetyt był niesamowicie rozwinięty, a wszystkie piękne słodycze znikały w mig.
+
+Hop, nie bacząc na niebezpieczeństwo, postanowił pomóc.  Spotkał tam również Małą Myszkę, która uwielbiała gryźć kapelusze i  Ślimaka, którego zadaniem było klejenie kolorowych, cukierkowych kwiatów na trawę. Razem postanowili powstrzymać Panią Cukierkową.
+
+Mała Myszka,  z zawstydzonym ale pełnym determinacji miną, zaczęła gryźć, w magiczny sposób, krople wody, które padały z nieba, dzięki czemu zmieniały się one w pysznie wyglądające pianki.  Potem Ślimak, z niezwykłą precyzją i starannością, kleił pianki na kwiatowych łąkach, tworząc tak piękne i słodkie obrazy, że Pani Cukierkowa, która zjadła już kilkadziesiąt cukierków,  nie mogła przestać zachwycać się nimi.
+
+Popełniła błąd, a to za sprawą tych pianek!  Stały się one na tyle smaczne, że Pani Cukierkowa zapomniała o tym, żeby jeść cukierki.  Z początku była zaskoczona, ale potem zaczęła smakować pianki.  Były one tak pyszniutkie, że Pani Cukierkowa stwierdziła, że nie ma już apetytu na zwykłe cukierki.
+
+Hop, Mała Myszka i Ślimak, szczęśliwi z odniesionego sukcesu, poczęstowali się pysznymi piankami i wspólnie zatańczyli w deszczu smakowych kropel.  W Krainie Słodkich Marzeń zapanował pokój i radość, a słodycze przestały znikać.  Hop, zadowolony z kolejnej przygody, wrócił do swojego ogródka, gdzie witało go słońce i pachnące warzywa.  Od tej pory, na co dzień, Hop nadal wyruszał w nowe, fantastyczne przygody,  pełne zaskakujących zdarzeń i jeszcze bardziej pysznych smaków.  A Krainę Słodkich Marzeń zapamiętał na zawsze.
+
+Na dodatek, dowiedział się, że czasem najlepsze przysmaki mogą zaskoczyć i zadziwić nas w najmniej oczekiwany sposób.  I że przyjaźń i współpraca mogą pokonać nawet najbardziej apetyczne problemy.
+Być może następna przygoda zaprowadzi go do Krainy Słonych Lodów lub do Krainy Wesołych Kwiatkowych... kto wie?  Przygoda czekała,  a Hop był gotowy na wszystko!
+</body>

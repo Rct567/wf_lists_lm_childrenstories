@@ -1,0 +1,85 @@
+<prompt>
+Please write a dialog-based Javanese children's story that is at least 1000 words long.
+It must be completely written in proper Javanese (JV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Keajaiban Kaca Pembesar di Pantai Berpasir Putih'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>jv</lang_id>
+
+```xml
+<title>Keajaiban Kaca Pembesar di Pantai Berpasir Putih</title>
+<body>
+<p>Ing sawijining dina sing cerah, bocah loro, yaiku Joko lan Rini, lagi dolanan ing pantai berpasir putih sing endah. Srengenge sumunar kanthi padhang, ombak alon-alon nggebug pinggir pantai, lan angin semilir nggawa ambu asin segara.</p>
+
+<p>"Wah, endah banget ya, Rin!" ujare Joko karo mesem, mripate nglirik segara sing jembar.</p>
+
+<p>"Iya, Ko! Rasane pengen dolanan kene wae," wangsulane Rini karo ngguyu. Rambute sing dawa katon katumbuk angin.</p>
+
+<p>Bocah loro kasebut banjur wiwit ngumpulake kerang-kerang sing ana ing pasir. Ana sing wernane putih, kuning, lan malah ana sing wernane jambon. </p>
+
+<p>"Delengen, Ko! Kerangku iki apik banget," Rini ngomong karo nuduhake kerang sing wernane kaya emas.</p>
+
+<p>"Wah, pancen apik, Rin! Aku uga nemu kerang sing luwih cilik nanging wernane biru," Joko nyauri karo nuduhake kerange dhewe.</p>
+
+<p>Nalika lagi asyiking golek kerang, Joko nemu siji barang sing katon menarik. Iku kaya kaca bunder cilik kanthi gagang kayu.</p>
+
+<p>"Rin, delengen! Aku nemu apa iki?" Joko nggawa kaca pembesar kasebut marang Rini.</p>
+
+<p>"Wah, kayae kaca pembesar, Ko! Mesti kanggo ndeleng barang-barang sing cilik banget," wangsulane Rini karo nyawang kaca pembesar kasebut kanthi rasa penasaran.</p>
+
+<p>Joko lan Rini banjur nyoba kaca pembesar kasebut. Kapisan, dheweke nyoba ndeleng pasir. Pasir sing katon kaya butiran cilik, katon gedhe banget lan kasar sawise diwenehi kaca pembesar.</p>
+
+<p>"Wah, pasir iki dadi gedhe banget, Rin!" Joko kaget.</p>
+
+<p>"Iya, Ko! Aku uga kaget. Delengen, ana warna-warna ing pasir iki!" Rini ngomong karo excited.</p>
+
+<p>Sabanjure, dheweke nyoba ndeleng kerang-kerang sing wis dikumpulake. Kanthi kaca pembesar, dheweke bisa ndeleng detail-detail sing sadurunge ora katon.</p>
+
+<p>"Delengen, Rin! Ana garis-garis cilik ing kerang iki, lan wernane uga katon luwih jelas," Joko ngomong karo semangat.</p>
+
+<p>"Iyo, Ko. Lan ana titik-titik cilik ing kene. Keren banget!" Rini mbales karo gumun.</p>
+
+<p>Luwih suwe dheweke dolanan, luwih akeh sing ditemokake. Joko weruh semut cilik lagi mlaku ing pasir, dikembangake katon kaya kewan raksasa. Rini nemu godhong cilik kanthi urat-urat sing katon jelas.</p>
+
+<p>"Ko, coba delengen semut iki! Gedhe banget!" Rini ngguyu.</p>
+
+<p>"Iya, Rin. Kaca pembesar iki pancen ajaib!" Joko katon seneng banget.</p>
+
+<p>Nalika srengenge wis wiwit surup, dheweke banjur ngentukake kewan liyane, yaiku uler. </p>
+
+<p>"Rin, aku nemu uler! Coba delengen apike uler iki," Joko matur.</p>
+
+<p>"Wah, iya. Uler iki katon apik banget karo warna-warna sing padhang!" wangsulane Rini, mripate katon sumringah.</p>
+
+<p>Uler kuwi lagi mangan godhong cilik. Joko lan Rini banjur nyawang kanthi premati, kabeh gerakan uler kuwi katon jelas banget. Padahal sadurunge ora katon. </p>
+
+<p>"Ko, delengen uler iki! Awake kaya ana bulu-bulu cilik e," Rini ngomong.</p>
+
+<p>"Iyo, Rin. Pancen menarik banget. Kaca pembesar iki pancen menehi kita pengalaman anyar!" Joko ngomong.</p>
+
+<p>Dumadakan, Rini katon kaget. "Ko! Delengen kae!" dheweke nuduhake menyang arah segara.</p>
+
+<p>Joko uga nyawang. Ana cahya sing padhang, kaya cahya lintang, nanging katon cedhak banget saka ombak segara. Banjur cahya kuwi katon mundhak, alon-alon nuju langit. </p>
+
+<p>"Wah, cahya apa kuwi, Rin?" Joko takon kanthi rasa penasaran.</p>
+
+<p>"Aku ora ngerti, Ko. Nanging katon endah banget," wangsulane Rini karo mripate ora kumet.</p>
+
+<p>Deheke banjur nyawang cahya kasebut nganti ilang. Nalika kuwi, dhewek bisa ngresakake yen wektu wis sore lan srengenge arep surup.</p>
+
+<p>"Ko, wis sore iki. Kayane awake dhewe kudu bali," Rini ngajak Joko bali.</p>
+
+<p>"Iya, Rin. Nanging sadurunge, aku pengen nggawa kaca pembesar iki bali. Aku pengen terus nyawang barang-barang kanthi cara sing beda," Joko matur.</p>
+
+<p>Dheweke banjur mlaku bali nganti omah, nggawa kaca pembesar sing menehi pengalaman sing ora bisa dilalekake. Ing wayah wengi, sadurunge turu, Joko mikirake bab- bab sing wis katon ing pantai, lan janji bakal ngajak Rini dolanan maneh ing pantai berpasir putih kuwi mesthi.</p>
+
+<p>Rinipun ana ing ngono, uga mikirake pengalaman dina iki. Dheweke banjur njupuk gambar saka kabeh sing wis katon nganggo kaca pembesar. Dheweke ngerti yen donya iki kebak kaendahan sing ora katon yen awake dhewe ora nyawang kanthi premati. </p>
+
+<p>Ing dina sabanjure, Joko lan Rini bali menyang pantai. Nanging wektune padha, lan padha ngajak kanca-kancane sing liyane supaya bisa nyawang lan nemu pengalaman sing padha. Kaca pembesar kasebut katon dadi obyek sing ndadekake bocah-bocah seneng dolanan ing pantai lan sinau babagan alam sekitar. Lan ngerti, yen ana keajaiban ing saben barang ana ing ngarep, yen awake dhewe gelem nyawang kanthi ati sing mbukak lan rasa penasaran.</p>
+</body>
+```

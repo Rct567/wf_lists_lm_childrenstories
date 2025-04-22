@@ -1,0 +1,80 @@
+<prompt>
+Please write a uncomplicated Spanish children's story that is at least 1000 words long.
+It must be completely written in proper Spanish (ES).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La Historia del Gato Negro con Botas Blancas.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>es</lang_id>
+
+```xml
+<title>La Historia del Gato Negro con Botas Blancas.</title><body>
+En un pequeño y soleado pueblo llamado Villa Alegre, vivía un gato muy especial. Su nombre era Sombrío, pero no se parecía en nada a su nombre. Sombrío era un gato negro, negro como la noche, pero tenía algo único: ¡botas blancas! Sus cuatro patitas lucían como pequeñas calcetas de nieve, contrastando hermosamente con su pelaje oscuro.
+
+Sombrío amaba Villa Alegre. Le gustaba pasear por las calles empedradas, saludar a los niños que jugaban en la plaza y dormir la siesta bajo el sol cálido. Su hogar era una acogedora casa con un gran jardín, donde vivía con la señora Elena, una amable anciana de cabello plateado y ojos brillantes.
+
+La señora Elena y Sombrío eran inseparables. Ella le daba de comer su comida favorita (¡pescado fresco!), le peinaba con un cepillo especial y le contaba cuentos antes de dormir. Sombrío, por su parte, le hacía compañía a la señora Elena, ronroneando en su regazo mientras tejía o le hacía cosquillas en el pie con sus bigotes.
+
+Un día, en Villa Alegre llegó un gran circo. Era un circo maravilloso, con carpas enormes, payasos graciosos, animales exóticos y, lo más emocionante de todo, un mago. El mago era conocido por sus trucos sorprendentes y su misterioso sombrero de copa.
+
+Los niños de Villa Alegre estaban emocionados. Hablaban del circo en todas partes. Preparaban carteles, planeaban qué pedir de comer en la función y soñaban con ver los animales. Sombrío, aunque era un gato casero, también sintió curiosidad.
+
+Una tarde, mientras la señora Elena estaba ocupada horneando galletas, Sombrío decidió ir a explorar el circo. Caminó sigilosamente por las calles, sintiendo la emoción en el aire. Sus botas blancas se destacaban en la hierba verde, guiándolo en su aventura.
+
+Al llegar al circo, Sombrío se escondió entre unos arbustos, observando la actividad. Vio a los payasos practicar, a los artistas ensayar y a los trabajadores preparándolo todo para la función. El olor a palomitas de maíz, algodón de azúcar y animales lo embriagó.
+
+De repente, escuchó una conversación. Dos hombres, con trajes oscuros y caras sombrías, hablaban en voz baja.
+
+—El diamante de la reina es nuestro —dijo uno.
+
+—Sí, y nadie sospechará de nosotros —respondió el otro.
+
+Sombrío se sintió intrigado. ¿Qué diamante? ¿Qué tramaban esos hombres? Con valentía felina, decidió seguir a los hombres. Se movió con agilidad, aprovechando las sombras y sus patas silenciosas.
+
+Los hombres entraron en la carpa del mago. Sombrío se acercó con cautela y espió por una pequeña rendija. Vio a los hombres hablando con el mago. Parecían discutir, con gestos bruscos y miradas sospechosas.
+
+—No puedo hacer esto —dijo el mago, con voz temblorosa.
+
+—Sí, debes hacerlo. Tenemos a tu gato —respondió uno de los hombres.
+
+¡El gato del mago! Sombrío sintió un escalofrío. ¿Qué estaba pasando? Decidió entrar en acción.
+
+Saltó audazmente dentro de la carpa, interrumpiendo la conversación. Los hombres, sorprendidos, retrocedieron. El mago, con los ojos bien abiertos, miró a Sombrío.
+
+—¡Un gato negro con botas blancas! —exclamó el mago. —¡Qué suerte!
+
+Sombrío, entendiendo que debía aprovechar la situación, comenzó a actuar. Saltó sobre una mesa y, con sus afiladas garras, rasgó la capa de uno de los hombres. Luego, corriendo como un rayo, se subió al sombrero de copa del mago, haciendo que cayera al suelo.
+
+El caos reinó en la carpa. Los hombres, asustados y confusos, intentaban atrapar a Sombrío, pero él era demasiado ágil. El mago, aprovechando la distracción, se liberó de los hombres y llamó a la guardia del circo.
+
+Los hombres fueron arrestados y llevados a la policía. El diamante, que se suponía debía robarse, fue encontrado en la maleta de uno de ellos.
+
+Después del alboroto, el mago se acercó a Sombrío.
+
+—¡Eres un héroe! —dijo el mago, acariciando a Sombrío. —¡Me has salvado!
+
+Sombrío ronroneó feliz.
+
+El mago, agradecido, invitó a Sombrío a la función del circo. La señora Elena, al enterarse de la aventura de su gato, se sintió orgullosa y emocionada.
+
+Esa noche, Sombrío se sentó en primera fila, junto a la señora Elena. Vio a los payasos haciendo reír a todos, a los acróbatas realizando increíbles piruetas y a los animales mostrando su gracia. Y al final, el mago hizo su acto más impresionante: ¡hizo aparecer un enorme cofre lleno de golosinas y juguetes para Sombrío!
+
+Después de la función, la señora Elena y Sombrío regresaron a casa, caminando bajo las estrellas.
+
+—Eres un gato muy valiente, Sombrío —dijo la señora Elena, abrazando a su gato.
+
+Sombrío, sintiendo el cariño de su dueña, ronroneó fuerte y frotó su cabeza contra su pierna. Sabía que había hecho lo correcto. Había salvado al mago, protegido Villa Alegre y descubierto que las botas blancas no solo eran hermosas, sino que también lo convertían en un héroe.
+
+A partir de ese día, Sombrío fue conocido en Villa Alegre como el “Gato Héroe”. Los niños lo saludaban por la calle, le ofrecían golosinas y le pedían que contara sus aventuras. Él, con humildad felina, aceptaba los mimos y las atenciones, sintiéndose feliz y amado.
+
+Continuó sus paseos por Villa Alegre, pero ahora con un brillo especial en sus ojos. Sus botas blancas, impecables y radiantes, simbolizaban su coraje y su bondad. La historia del gato negro con botas blancas, el héroe de Villa Alegre, se contaba de boca en boca, inspirando a todos a ser valientes, a ayudar a los demás y a apreciar la belleza en lo inesperado.
+
+Sombrío siguió viviendo feliz con la señora Elena, recibiendo montones de caricias y recompensas, pero siempre recordaría su increíble aventura en el circo, y la importancia de su pequeña, pero especial, particularidad.
+
+Y así, en Villa Alegre, el gato negro con botas blancas, siguió siendo un símbolo de esperanza, valentía y amistad. Y cada vez que alguien veía un gato negro con botas blancas, recordaba la leyenda, la leyenda del gato que salvó el circo, el gato héroe de Villa Alegre.
+</body>
+```

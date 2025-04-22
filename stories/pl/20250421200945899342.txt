@@ -1,0 +1,37 @@
+<prompt>
+Please write a silly Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Co Nauczyło Dziewczynkę Latem na Wsi?'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pl</lang_id>
+
+```xml
+<title>Co Nauczyło Dziewczynkę Latem na Wsi?</title>
+<body>
+Pewnego pięknego, słonecznego dnia, w sercu malowniczej wsi, o której nawet Google Maps jeszcze nie słyszało (ale nie martwcie się, bo i tak była przepiękna!), mieszkała mała dziewczynka o imieniu Zosia. Zosia miała kręcone włosy koloru dojrzałej marchewki i oczy jak dwa, małe, błyszczące jeziora. Zosia uwielbiała lato! Kochala lody o smaku zielonej żaby (nie pytajcie skąd to się wzięło, tak po prostu lubiła!), pluskanie się w kałużach po deszczu i przytulanie się do puszystego, białego barana o imieniu Stefan (który z kolei uwielbiał obgryzać ogrodzenie).
+
+Tego lata Zosia miała wyruszyć na niezwykłą, wakacyjną przygodę. Miała spędzić całe dwa miesiące na wsi u swojej ekscentrycznej babci, która była specjalistką od… wszystkiego. Babcia Helena, bo tak się nazywała, miała nos, który potrafił przewidywać pogodę (nie wiemy jak, po prostu tak było), potrafiła robić dżem z… skarpet (to też nie pytajcie), i przede wszystkim, uwielbiała uczyć Zosię ciekawych rzeczy.
+
+Pierwszego dnia pobytu, kiedy Zosia wysiadła z rozklekotanego pociągu, Babcia Helena czekała na nią z uśmiechem szerokim jak Wisła. Zosia, widząc babcię, od razu rzuciła się jej na szyję, wołając: „Babciu! Babciu! Chcę od razu zobaczyć Stefana!”. Babcia Helena tylko roześmiała się donośnie, po czym, podając Zosi ogromną, truskawkową lizawkę (bo wizyty na wsi zawsze zaczynało się od słodkości), odpowiedziała: „Spokojnie, Zosiu. Stefan już czeka, ale najpierw… przeżyjemy niezapomnianą przygodę!”.
+
+I rzeczywiście, przygody czekały na Zosię za każdym rogiem, za każdym drzewem, za każdym chichotem wiatru. Pierwszego tygodnia, babcia Helena postanowiła nauczyć Zosię, jak rozmawiać z warzywami. „Warzywa, Zosiu, mają swoje sekrety. Trzeba z nimi po prostu pogadać.” – powiedziała, wręczając Zosi wielką, drewnianą łyżkę i prowadząc ją do ogródka. Zosia, początkowo nieśmiała, usiadła obok potężnego pomidora (który, jak się okazało, nazywał się Kazik) i zaczęła cicho szeptać do niego swoje sekrety. Ku jej zdziwieniu, Kazik zaczął… odpowiadać! Oczywiście, Zosia rozumiała jego pomidorowe pomruki tylko w połowie, ale atmosfera przyjaźni i zrozumienia unosiła się nad rabatkami.
+
+Drugiego tygodnia, babcia Helena postanowiła nauczyć Zosię, jak latać… na dmuchawcu. „Dmuchawiec, Zosiu, to mała rakieta!” – wytłumaczyła z powagą. Zosia, nie do końca wierząc, zebrała mnóstwo dmuchawców, wdrapała się na największą górkę w okolicy (tak zwaną „Górkę Śmiechu”) i… zamyśliła się. Babcia Helena, obserwując ją z dołu, podpowiedziała: „Pomyśl o czymś naprawdę cudownym! O lodach o smaku zielonej żaby, o Stefanie, o... o wszystkim, co kochasz!”. Zosia zamknęła oczy, dmuchnęła w dmuchawiec i… spadła na plecy, prosto w miękką trawę. Babcia Helena zaśmiała się i powiedziała: „No dobrze, dobrze… Trzeba jeszcze popracować nad lądowaniem!”
+
+Kolejny tydzień był tygodniem ptasim. Babcia Helena nauczyła Zosię rozpoznawać ptasie śpiewy (Zosia początkowo słyszała tylko „Ćwir-ćwir-ćwir” i „Kru-kru-kru”), jak budować budki dla ptaków (które, swoją drogą, zamieszkiwały głównie myszy i wiewiórki) i jak… flirtować z gawronami (które, jak się okazało, bardzo lubiły błyskotki).
+
+Następny tydzień upłynął na poszukiwaniach skarbu. Babcia Helena dała Zosi starą mapę, na której, obok krzywych kresek i dziwnych znaków, widniał napis: „Skarb ukryty w miejscu, gdzie słońce całuje księżyc”. Zosia, uzbrojona w łopatę i ogromne pokłady entuzjazmu, wyruszyła na poszukiwania. Po kilku dniach poszukiwań, przekopywaniu całej działki i zakopywaniu Stefana (który, ku uciesze Zosi, wcale się nie obraził), skarb został odnaleziony! Był to… słoik dżemu ze skarpet! Zosia, początkowo zaskoczona, roześmiała się głośno i stwierdziła: „Babciu, ten dżem jest… wyjątkowy!”.
+
+Kiedy lato powoli dobiegało końca, Zosia była już zupełnie innym dzieckiem. Znała sekrety warzyw, umiała budować budki dla myszy, potrafiła flirtować z gawronami i potrafiła… uwielbiać dżem ze skarpet! Ale najważniejsze, nauczyła się czegoś innego. Nauczyła się, że prawdziwa przygoda nie musi być pełna piratów i ukrytych skarbów (choć dżem ze skarpet też był niezły!). Prawdziwa przygoda to ciekawość świata, chęć poznawania nowych rzeczy i spędzanie czasu z ludźmi, którzy kochają cię takim, jakim jesteś.
+
+Przedostatniego dnia wakacji, Zosia zapytała babcię Helenę: „Babciu, a czego mnie najbardziej nauczyło to lato?”. Babcia Helena uśmiechnęła się, pogładziła Zosię po kręconych włosach i odpowiedziała: „Nauczyłaś się, Zosiu, że w życiu najważniejsze jest śmiech, przyjaźń, ciekawość świata i… smak zielonej żaby!”.
+
+Ostatniego dnia, kiedy Zosia żegnała się z babcią i Stefanem (który, jak zwykle, obgryzał ogrodzenie), poczuła nagłą potrzebę, aby jeszcze raz popatrzeć na ogródek. Pobiegła do niego i stanęła przed pomidorem Kazikiem. „Kaziku, do zobaczenia za rok!” – powiedziała z uśmiechem. Kazik pomidor mruknął coś w swoim pomidorowym języku, a Zosia, uśmiechając się jeszcze szerzej, zrozumiała: „Do zobaczenia, Zosiu!”. Wsiadając do pociągu, Zosia wiedziała jedno: lato na wsi, z babcią Heleną i Stefanem, było najlepszym latem w jej życiu. A tak w ogóle, nigdy nie dowiedziała się, z jakich skarpet babcia Helena robiła dżem... i to było właśnie najpiękniejsze w całej tej historii! Bo przecież, prawdziwa magia zawsze kryje się w tajemnicach.
+</body>
+```

@@ -1,0 +1,69 @@
+<prompt>
+Please write a relatable Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kouzelná tužka a obrázky, které ožívaly, když bylo úplněk.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>cs</lang_id>
+
+```xml
+<title>Kouzelná tužka a obrázky, které ožívaly, když bylo úplněk.</title>
+<body>
+Byla jednou v malém, malebném městečku jménem Sluneční Lhota holčička jménem Anežka. Anežka byla bystrá a zvědavá, se zrzavými vlasy a pihami posazenými po celém nose, jako malými slunečními políčky. Měla ráda dobrodružství a nejvíce na světě milovala kreslení. Vždy s sebou nosila notýsek a pastelky, a každý volný okamžik trávila vytvářením nových světů na papíře.
+
+Jednoho krásného podzimního odpoledne, když slunce líně zapadalo za kopci, se Anežka zatoulala do starého, zarostlého obchodu s hračkami, který se nacházel na kraji města. Okno obchodu bylo plné prachu, a uvnitř bylo vidět jen stíny hraček a zaprášených pokladů. Anežku to však neodradilo. Zvědavost jí nedala, a tak se tiše připlížila ke dveřím a zatukala.
+
+Starý pán s brýlemi, které vypadaly, že by mohly spadnout z nosu každou chvíli, otevřel dveře a usmál se. "Ahoj, děvče. Co tě sem přivádí?" zeptal se laskavě.
+
+"Dobrý den, pane," odpověděla Anežka. "Jen jsem se přišla podívat. Mám ráda hračky."
+
+Starý pán se zasmál. "Hračky, pravíš? V tom případě jsi na správném místě!" Pozval ji dovnitř a Anežka s nadšením vstoupila do obchodu. Uvnitř to vonělo prachem, dřevem a tajuplností. Regály byly přeplněné starými hračkami – panenky s porcelánovými tvářemi, dřevění vojáčci, plyšoví medvídci a stavebnice z dob dávno minulých.
+
+Anežka si prohlížela všechny poklady s otevřenými ústy. V jednom koutě si všimla dřevěného stolu s mnoha zásuvkami. Zvědavost ji zase přemohla, a tak se zeptala starého pána: "Co je v těch zásuvkách, pane?"
+
+"To jsou různé věci," odpověděl záhadně starý pán. "Některé obyčejné, jiné… zvláštní."
+
+Pak se starý pán usmál a kývl hlavou k jedné ze zásuvek. "Ale nejzajímavější je tahle." Sáhl do zásuvky a vytáhl z ní starou dřevěnou krabičku. "Tato krabička obsahuje poklad."
+
+Anežka s napětím sledovala, jak starý pán krabičku otevřel. Uvnitř ležela jediná tužka – zvláštní, stříbrná tužka, která se na světle leskla jako hvězdička. "To je kouzelná tužka," řekl starý pán tiše. "A dokáže vytvářet zvláštní věci."
+
+Anežka s nedůvěrou sledovala tužku. "Co tím myslíte, pane?" zeptala se.
+
+"Zkus ji," odpověděl starý pán s úsměvem. "Vem si papír a nakresli něco. A uvidíš."
+
+Anežka poslechla. Vzala si notýsek, který nosila pořád u sebe, a začala kreslit. Nakreslila krásnou květinu, s barevnými okvětními lístky a zeleným stonkem. Pak ji ukázala starému pánovi. "Je pěkná, že?" zeptala se.
+
+"Ano, je," odpověděl starý pán. "Ale to nejzajímavější přijde, když bude úplněk."
+
+Anežka nechápala. "Úplněk?" zeptala se. "Co s tím má společného?"
+
+"Kouzelná tužka se probouzí v noci, když je úplněk," odpověděl starý pán. "Obrázky, které nakreslíš, se oživí."
+
+Anežka se nemohla dočkat. Rychle se rozloučila a spěchala domů, s kouzelnou tužkou pevně sevřenou v ruce. Celý den se nemohla dočkat, až přijde večer a nastane úplněk.
+
+Když se večer setměl a na nebi se objevil obrovský, zářící měsíc, Anežka se uvelebila ve svém pokoji, s notýskem a kouzelnou tužkou připravenou. Nejdřív nakreslila veselého kocoura s velkými zelenými očima. Jakmile domalovala poslední čárku, ucítila mravenčení v prstech. V tu chvíli se papír rozzářil a kočka, kterou nakreslila, vyskočila z papíru a začala si hrát na jejím stole! Anežka se překvapením zhluboka nadechla. Zůstala stát s otevřenými ústy a sledovala, jak kočka, kterou nakreslila, honí klubíčko vlny a vesele mňouká.
+
+Potom Anežka nakreslila dům, který vypadal jako perníková chaloupka. Po chvilce se obrázek ožil, a před Anežkou se objevil malý perníkový domeček s kouzelnými okny a dveřmi. Z komína se linula vůně perníku.
+
+Během té kouzelné noci Anežka nakreslila mnoho dalších obrázků – roztomilého pejska, který ji následoval jako věrný kamarád, ptáčka zpívajícího krásné písničky, i pole s květy. Každý obrázek se ožil a začal se chovat jako živý. Celá Anežčina izba se proměnila v kouzelný svět.
+
+Když se začalo rozednívat, úplněk se pomalu schovával za kopci. Anežka cítila, že kouzlo pomalu slábne. Obrázky, které ožily, se začaly pomalu vracet zpět do notýsku. Pejsek se změnil zpět v kresbu a tiše odpočíval na stránce. Kočka se vesele usadila vedle něj a perníkový domeček se zmenšil a zmizel.
+
+Anežka si uvědomila, že tato kouzelná noc byla nejkrásnější nocí v jejím životě. Uvědomila si, že kouzelná tužka je darem, který ji může provázet životem. Nicméně, Anežka také pochopila, že kouzlo musí být chráněno.
+
+Další dny a noci Anežka kreslila nové a nové obrázky. Každý úplněk se těšila na to, co se stane. Nicméně, začala si uvědomovat i zodpovědnost. Věděla, že kouzelná tužka je mocná zbraň, a tak se rozhodla kreslit jen věci, které jsou laskavé a dobré. Nikdy už by nenakreslila nic, co by mohlo ublížit jiným.
+
+Jednoho dne, když procházela lesem, našla malého, zraněného ptáčka. Rychle si vytáhla notýsek a kouzelnou tužku. Nakreslila hnízdo a zdravou ptáčátko. Ve chvíli, kdy se ptáček ožil, se vyléčil a odletěl do oblak.
+
+Postupem času Anežka využila kouzelnou tužku k mnoha dobrým účelům. Pomáhala sousedům, starala se o zvířata a kreslila krásné věci, které dělaly radost všem kolem ní. Věděla, že kouzlo není jen v tužce, ale v jejím srdci.
+
+A starý pán z obchodu s hračkami? Často na Anežku vzpomínal a věděl, že tužka se dostala do správných rukou. Anežka si uchovávala tajemství kouzelné tužky v srdci, a pokaždé, když se podívala na zářící měsíc, si připomněla, jak důležité je být laskavý, kreativní a používat kouzlo pro dobro. A tak, Anežka žila dlouhý a šťastný život, a kouzelná tužka jí doprovázela na každém kroku.
+
+A v Sluneční Lhotě se i nadále děly kouzelné věci, ovšem ne tak často, jak za Anežčina mládí. A víte proč? Protože už po ní kouzelná tužka přešla na další malé, zvědavé děvčátko s jiskrou v oku a velkým srdcem.
+</body>
+```

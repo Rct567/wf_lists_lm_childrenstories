@@ -1,0 +1,42 @@
+<prompt>
+Please write a simple and easy-to-follow Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kāpēc zeme ir apaļa un zaļa'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>lv</lang_id>
+
+<title>Kāpēc zeme ir apaļa un zaļa</title><body>  
+Vienu skaistu rītu, kad saule vēl tikko bija uzlecisi pāri meža malai, mazais trušu bērns Lapsiņš atmodās savā mīļajā bedrītē. Viņš izstiepa savus garos ausis un nopūtās. "Kāpēc zeme ir apaļa un zaļa?" viņš prātoja. Šis jautājums viņu mocīja jau vairākas dienas.  
+
+Lapsiņš nolēma apmeklēt savu labāko draugu, vāveri Riekstiņu, kurš dzīvoja augstu ozolā. "Riekstiņ, vai tu zini, kāpēc zeme ir apaļa un zaļa?" viņš jautāja, paceļoties uz pēdējām kājiņām.  
+
+Riekstiņš, kurš bija aizņemts ar riekstu kraušanu, apstājās un pārdomāja. "Hmm," viņš teica, "man šķiet, ka tā ir tāpēc, ka zeme ir kā liela bumbiņa. Un zaļa tā ir tāpēc, ka augi un koki to klāj. Bet tu labāk pajautā Zvirbulim. Viņš daudz lido un droši vien zina vairāk."  
+
+Lapsiņš pamāja ar galvu un devās meklēt Zvirbuli. Viņš atrada to, kad tas sēdēja uz žoga un čivināja dziesmiņu. "Zvirbul, vai tu zini, kāpēc zeme ir apaļa un zaļa?" Lapsiņš jautāja.  
+
+Zvirbulis nolēca uz zemes un piekoda dažus graudus. "Es zinu, ka zeme ir apaļa, jo esmu to redzējis no augšas, lidojot. Bet par to, kāpēc tā ir zaļa, tu labāk pajautā Zaķim. Viņš dzīvo tuvu ūdenim un zina visu par augiem."  
+
+Lapsiņš pamāja ar galvu un devās tālāk. Viņš atrada Zaķi, kurš sēdēja pie strauta un dzēra ūdeni. "Zaķ, kāpēc zeme ir apaļa un zaļa?" Lapsiņš jautāja.  
+
+Zaķis pacēla galvu un nopūtās. "Es zinu, ka zeme ir zaļa, jo augi un zāle tai dod dzīvību. Bet par to, kāpēc tā ir apaļa, tu labāk pajautā Vērzi. Viņš ir vecs un gudrs un zina daudz stāstu."  
+
+Lapsiņš pamāja un devās meklēt Vērzi. Viņš atrada to, kad tas guļēja zem lielā ozola. "Vērzi, vai tu zini, kāpēc zeme ir apaļa un zaļa?" Lapsiņš jautāja.  
+
+Vērzis atvēra acis un nopūtās. "Mazais Lapsiņ, zeme ir apaļa, jo tā ir kā liela bumbiņa, kuru rotā debesis. Un zaļa tā ir tāpēc, ka dzīvība tai dod krāsu. Bet, ja tu vēlies uzzināt vēl vairāk, dodies uz kalnu un atrodi Gara Vēju. Viņš zina visu."  
+
+Lapsiņš pamāja un devās uz kalnu. Ceļš bija garš un grūts, bet Lapsiņš nebija mazs gļēvulis. Viņš kāpa augšup, līdz beidzot sasniedza kalna virsotni. Tur viņš ieraudzīja Garo Vēju, kurš pūta cauri kokiem un nesāka mākoņus.  
+
+"Garais Vēj, vai tu zini, kāpēc zeme ir apaļa un zaļa?" Lapsiņš jautāja.  
+
+Garais Vējs apstājās un pievērsās mazajam trusim. "Lapsiņ, zeme ir apaļa, jo tā ir kā liela mīlestības bumbiņa, kuru rotā debesis. Un zaļa tā ir tāpēc, ka dzīvība tai dod krāsu un siltumu. Tā ir mūsu māja, un mums ir pienākums to sargāt."  
+
+Lapsiņš saprata. Viņš pateicās Garajam Vējam un devās mājup, lai pastāstītu visiem saviem draugiem, ko bija uzzinājis. Un kopš tās dienas visas meža dzīvnieki zināja, ka zeme ir apaļa un zaļa, jo tā ir viņu māja, kas pilna ar dzīvību un mīlestību.  
+
+Un tā Lapsiņš un viņa draugi dzīvoja laimīgi, rūpējoties par savu skaisto, apaļo un zaļo zemi.  
+</body>

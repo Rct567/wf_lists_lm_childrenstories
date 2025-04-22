@@ -1,0 +1,58 @@
+<prompt>
+Please write a educational Malagasy children's story that is at least 1000 words long.
+It must be completely written in proper Malagasy (MG).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Ny Bibilava Marani-tsaina sy Ny Fomba Fiarovan'izy Ireo Ny Tenany Tamin'ny Loza'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>mg</lang_id>
+
+<title>Ny Bibilava Marani-tsaina sy Ny Fomba Fiarovan'izy Ireo Ny Tenany Tamin'ny Loza</title><body>
+Indray andro, tao anaty ala maitso mavana any Madagasikara, dia nisy bibilava maromaro nonina. Ny bibilava rehetra ireo dia bibilava tena tsara fanahy sy marani-tsaina. Isan'ireo bibilava ireo ny bibilava iray antsoina hoe Rivo, ny bibilava tanora sy be zotom-po; i Lolo, ilay bibilava antitra sy hendry; ary i Tiana, ilay bibilava vorona, malaza amin'ny fitantarany tantara.
+
+Isan’andro, ireo bibilava ireo dia miara-mivezivezy eny an-ala, misakafo, ary miresaka. Tia mifampiresaka izy ireo, indrindra ny momba ny fiarovana ny tenany amin’ny loza. Fantatr'izy ireo fa ny ala misy azy dia misy loza maro samihafa, toy ny biby mpiremby, ny toetr'andro ratsy, ary indraindray aza ny olombelona. Nanana fomba maro samy hafa hiarovana ny tenany izy ireo, izay nianarany nandritra ny taona maro.
+
+Indray andro, raha nipetraka teo am-pototry ny hazo lehibe iray i Rivo sy i Lolo, dia nanontany i Rivo hoe: “Ry Lolo o, ahoana no fomba tsara indrindra hiarovan-tena amin'ny loza amin'ny ankapobeny?”
+
+Namaly i Lolo sady nanitsy ny vatany malefaka hoe: “Rivo malala, tsy misy fomba tokana sy tsara indrindra izany. Fa ny zava-dehibe dia ny fahatakarana ny loza mety hitranga, ary ny famoronana fomba maro samihafa hiatrehana izany. Andeha, homeko ohatra vitsivitsy ianao.”
+
+“Voalohany, mila mahafantatra ny manodidina anao ianao. Mila hainao ny mamantatra ny biby mpiremby, toy ny voromahery, ny gidra, na ny karazam-biby hafa izay mety hitady sakafo aminao. Mba hanaovana izany dia mila mitandrina foana ianao, ary miaina amim-pahatsarana ny tontolo iainanao. Ohatra, rehefa mandeha eny an-tany malalaka ianao, dia mitazona ny masonao amin’ny toerana avo, ary mijery ny manodidinao foana. Rehefa mahita zavatra hafahafa ianao, dia miezaha hahalala hoe inona izany.”
+
+“Faharoa, mila mahafantatra ny fodianao ianao. Mila toerana azo antoka azonao aleha haingana rehefa misy loza. Ohatra, manana lavaka ao amin’ny tany ve ianao, na toerana miafina eo ambanin'ny vatolampy? Zava-dehibe ny fisian’ny toerana azo itokisana, mba hahafahanao mandositra haingana raha ilaina izany.”
+
+“Fahatelo, mila mahafantatra ny fomba hiarovana ny tenanao ianao. Ny bibilava sasany dia manana hoditra matevina, izay afaka miaro azy amin’ny fanafihan'ny biby hafa. Ny hafa kosa dia miantehitra amin’ny fanovana ny lokon’ny vatany mba hiavahana amin’ny tontolo iainany, izay fantatra amin'ny hoe ‘kamoflazo’. Misy koa ireo bibilava mampiasa poizina, ary mamitaka hahafaty ny rembiny.”
+
+Tamin'izay fotoana izay no tonga i Tiana, ilay bibilava vorona. “Ary aza adino ny momba ny sioka,” hoy izy. “Ny sioka dia afaka manampy anao hampitandrina ny hafa amin'ny loza. Raha mahita biby mpiremby ianao, na raha mahatsapa loza hafa, dia azonao atao ny mamoaka feo hafahafa, mba hanairana ny bibilava hafa rehetra.”
+
+“Mahaliana tokoa izany,” hoy i Rivo. “Fa ahoana kosa raha misy tafio-drivotra? Ny andro mafana sy mangatsiaka ve dia mety hiteraka loza ho antsika?”
+
+Nihomehy i Lolo. “Eny, mazava ho azy. Ny toetr'andro ratsy dia mety hitondra loza ho antsika. Amin'ny fotoana misy tafio-drivotra, dia mila mitady toerana azo antoka ianao mba hiarovana ny tenanao amin’ny orana sy ny rivotra mahery. Ny lavaka ao anaty tany, ny lava-bato, na ny toerana miafina eo atsimon'ny hazo lehibe dia mety ho toerana tsara.”
+
+“Ary amin'ny fotoana mafana, dia mila mitady alokaloka ianao mba tsy ho may, ary hisotro rano betsaka mba tsy ho maina ny vatanao.” Nampianatra i Tiana.
+
+“Ary ahoana ny momba ny olombelona?” hoy i Rivo. "Samy fantatray fa ny olombelona dia afaka mampidi-doza indraindray."
+
+“Marina izany, Rivo," hoy i Lolo niady saina. “Ny olombelona, indraindray, dia mety hanimba ny bibilava. Mety hanenjika anao izy ireo, na mety handratra anao, raha tsy mitandrina ianao. Ny fomba tsara indrindra hiarovana ny tenanao amin’ny olombelona dia ny miala lavitra azy ireo. Raha hitanao izy ireo, dia miezaha hiala haingana araka izay azo atao. Aza miady aminy mihitsy.”
+
+“Ary koa, tadidio ireto zavatra manaraka ireto: Aza mihinana zavatra tsy fantatrareo, satria mety ho misy poizina izany. Aza manakaiky ny rivotra izay mety hitondra afo, ary mitandrema amin’ny zavina, izay mety mampidi-doza. Aza adino ny fanajana ny tontolo iainana, ary aza mandoto izany.” Nohazavain'i Tiana.
+
+Nandritra ny herinandro vitsivitsy manaraka, i Rivo dia nampihatra izay rehetra nianarany tamin'i Lolo sy Tiana. Niezaka nitandrina foana izy, nitazona ny masony, ary nitady toerana azo antoka handosirana raha misy loza. Nanjary nahay niavaka tamin'ny alalan'ny kamoflazo izy, rehefa nilentika tao anaty tany izy. Ary niasa mafy izy mba hahafantatra ireo feo samihafa avy amin’ny biby mpiremby, mba hahafahany mitandrina ny hafa.
+
+Indray andro, raha nandeha teny an-ala i Rivo, dia nahita voromahery lehibe iray nanidina ambonin’ny lohany. Hitan'ny voromahery i Rivo. Teo no ho eo, dia nitsofoka nankany anaty lavaka kely teo akaiky teo i Rivo. Ny voromahery teo, tsy nahita azy, dia nifindra nankany amin'ny hazo hafa.
+
+Tamin’ny fotoana hafa, raha nandihizidihizy akaikin'ny loharano i Rivo, dia nahatsapa fihetsiketsehana hafahafa izy teo am-potony. Nijery izy, ary nahita voay kely nivoaka avy tao anaty rano. Tsy nitodelitra i Rivo, fa nirenireny haingana avy hatrany. Nijanona izy, rehefa nahatsapa fa tsy manaraka azy ilay voay.
+
+Fotoana fohy taty aoriana, raha nitsidika an'i Lolo sy i Tiana i Rivo, dia notantarainy ny zava-nitranga. “Ry Lolo, ry Tiana, tena nandaitra tokoa ny fampianaranareo. Nampiasako ny fandaharan'ny fampianaranao rehetra tamin'ny fotoana samihafa, ary voavonjy foana aho.”
+
+Nitsiky i Lolo. “I Rivo malala, faly izahay raha nandray soa tamin'ny fampianaranay. Mbola misy zavatra betsaka ho fantatra, fa ny zava-dehibe indrindra dia ny mijanona ho mailo, ary mampiasa ny sainao.”
+
+“Eny," hoy i Tiana nanako. “Ny fiarovana dia dingana mitohy. Isaky ny mandeha eny an-ala ianao, dia mianatra zavatra vaovao ianao. Ary isaky ny mamantatra fomba vaovao hiarovana ny tenanao ianao, dia lasa matanjaka kokoa ianao.”
+
+Nankasitraka i Rivo. Sady faly no gaga, na dia kely fotsiny aza. Takatr'i Rivo fa tsy ny fisorokana ny loza irery ihany no zava-dehibe, fa ny fikatsahana fahalalana mandrakariva koa. Noho izany, nanohy nianatra tamin’i Lolo sy i Tiana i Rivo, ary niara-niaina am-pilaminana tao anaty ala. Nanjary bibilava hendry sy matanjaka izy, ary nahafantatra ny fomba hiarovana ny tenany amin'ny loza rehetra mety hitranga. Ary niaraka tamin'ny namany, izy ireo dia nanohy nampita ny fahalalan'izy ireo tamin'ny bibilava tanora hafa, mba ho afaka hiaro ny tenany ihany koa.
+
+Ary dia notohizan'izy ireo foana izany fampianarana izany, satria fantatr'izy ireo fa ny fahalalana dia ny fomba tsara indrindra hiarovana ny tenany, ary ny tontolo iainany. Ary nanohy niaina am-pilaminana sy fahasambarana tao anaty ala maitso mavana izy ireo, fantatr'izy ireo fa ny fomba rehetra hiarovan-tena dia miasa, raha mampiasa ny atidohany izy ireo.
+</body>

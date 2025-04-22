@@ -1,0 +1,87 @@
+<prompt>
+Please write a dialog-based French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Le serpent et le sable, l'habileté à vivre dans les environnements les plus ardents.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```xml
+<title>Le serpent et le sable, l'habileté à vivre dans les environnements les plus ardents.</title>
+<body>
+— Bonjour, petite tortue ! Où vas-tu comme ça ? dit le serpent Zig, en ondulant à travers les dunes.
+
+— Oh, bonjour Zig ! Je vais vers l’oasis, comme chaque jour. J’ai soif ! répondit Tortue Thérèse, en clignant ses petits yeux.
+
+— L’oasis, hein ? Encore ? Tu ne te lasse jamais de ce petit coin de fraîcheur ? fit Zig, sa langue fourchue sortant et rentrant avec un léger sifflement.
+
+— Jamais ! L'eau est délicieuse, et les feuilles de palmier sont parfaites pour une petite collation ! Et toi, qu'est-ce que tu fais dans le désert aujourd'hui ? demanda Thérèse, essoufflée par l'effort de ramper sur le sable chaud.
+
+— Moi ? Je suis… moi, tout simplement ! J’adore le désert. C’est ma maison. Je chasse, je me prélasse au soleil, et j’admire la beauté infinie de ces dunes dorées. Et puis, c’est bien plus tranquille qu’à l’oasis, avec tous ces animaux… trop bruyants, à mon goût.
+
+— Bruyants ? Mais non ! Les oiseaux chantent, les gazelles gambadent… c’est magnifique ! rétorqua Thérèse.
+
+— Mouais, chacun ses goûts. Tu sais, être tortue, c’est assez lent pour s’accommoder de tout… répondit Zig, un sourire narquois sur son visage écailleux. Dis, petite, tu as jamais pensé à rester ici ? À vivre comme moi ?
+
+— Ici ? Mais… comment ferais-je ? Il fait si chaud ! Et je n’aurais rien à manger, à part du sable… Ce n’est pas très appétissant ! répondit Thérèse, perplexe.
+
+— Oh, le sable… c’est tout un délice ! Enfin, pas tout le temps. Moi, par exemple, je sais comment survivre ici. Je peux rester des jours sans boire, chasser à l'ombre, et me cacher dans le sable brûlant. C’est tout un art ! expliqua Zig, fier de lui.
+
+— Un art ? Raconte-moi ! Je suis toujours curieuse d'apprendre de nouvelles choses, dit Thérèse, intriguée.
+
+— Eh bien, tout d’abord, il faut savoir gérer la chaleur. Je me déplace surtout tôt le matin et tard le soir, quand le soleil n’est pas encore, ou plus, au zénith. Et entretemps, hop ! Sous le sable, bien au frais.
+
+— Sous le sable ? Mais tu ne vas pas t'étouffer ? demanda Thérèse, l'inquiétude se lisant dans ses yeux.
+
+— Non, non, pas du tout ! J’ai une technique bien rodée. Je m’enfonce juste un peu, et je me mets dans l’ombre. Le sable est beaucoup plus frais en dessous. Et puis, mes écailles me protègent du soleil direct. C’est une combinaison parfaite ! répondit Zig, en se contorsionnant pour montrer ses mouvements.
+
+— Fascinant ! Et pour boire ? Tu ne vas pas rester sans eau ? interrogea Thérèse.
+
+— Bien sûr que si ! Mais je suis préparé. Je stocke de l’eau, je mange des proies qui contiennent beaucoup de liquide, et je limite au maximum les dépenses énergétiques. Pas de course folle sous le soleil, pas d’activité inutile. L'économie, c'est la clé ! répondit Zig avec un clin d'œil.
+
+— Ah, je comprends ! Et pour manger, comment fais-tu ? Le désert ne semble pas très généreux avec la nourriture…
+
+— Détrompe-toi ! Il y a plein de petites bestioles délicieuses, et même quelques rares plantes résistantes. Je suis un excellent chasseur, très rapide et agile. Je surprends mes proies par derrière, et… paf ! Le repas est servi. Avec ça, il ne faut pas gaspiller ! ajouta Zig, la satisfaction palpable dans sa voix.
+
+— C’est… incroyable. Tu as vraiment l'air d'un expert ! dit Thérèse, admirative.
+
+— C’est parce que je suis né ici ! Je connais chaque grain de sable, chaque trou, chaque refuge. C'est ça, l'adaptation : savoir s'accommoder de son environnement.
+
+— Et… le vent ? Le vent de sable est parfois terrible, non ? demanda Thérèse, pensant à son propre vécu.
+
+— Oh, le vent… c’est un défi, c'est vrai. Mais là aussi, on s'adapte. Je me colle au sol, je me protège derrière les dunes, ou bien, je me niche dans un trou, jusqu'à ce que la tempête passe. Le vent, ce n’est pas une menace, c’est une occasion. L'occasion de changer de décor, de s’enfouir pour respirer plus facilement.
+
+— Ça a l'air tellement… différent de ma vie, à l'oasis ! répondit Thérèse, réfléchissant.
+
+— Bien sûr ! Mais l'oasis, c'est facile ! Tout est là, à portée de main. Ici, il faut se battre, il faut faire preuve d'ingéniosité, et il faut… savoir survivre. C'est ça, la vraie vie ! lança Zig, sa langue sillonnant l'air.
+
+— Je suppose… Mais je ne pourrais jamais me passer de l’eau fraîche et de l'ombre des palmiers… dit Thérèse, un peu nostalgique.
+
+— C’est une question de choix. Chaque endroit a ses avantages et ses inconvénients. L'important, c'est de connaître les siens. Toi, tu connais l'oasis, tu sais comment profiter de sa fraîcheur. Moi, je connais le désert, et j’en tire le meilleur parti.
+
+— Tu as raison. Je n’avais jamais vu les choses sous cet angle. Je ne me suis jamais vraiment posé la question. Moi, je suis toujours allée là où je trouvais le plus simple.
+
+— Eh bien, c'est normal ! Mais à présent, tu vois les choses sous un autre jour ! dit Zig, en enroulant une partie de son corps autour d’un petit buisson sec.
+
+— Oui. Je vois que le désert, ce n'est pas juste un endroit hostile et vide. C'est un lieu plein de vie, rempli de défis, et avec sa propre beauté. Et toi, tu en es la preuve vivante ! reconnut Thérèse, avec un sourire.
+
+— Exactement ! Et tu vois, il y a encore des endroits où tu peux apprendre ! Ne crois jamais que tu connais tout. La vie est un grand apprentissage. Et tu as toujours la possibilité d'explorer, de découvrir et… d'adapter ta vie.
+
+— Je vais y réfléchir, dit Thérèse, touchée par ces paroles inattendues. Je pense que je vais retourner à l’oasis, car j’ai toujours très soif… Mais peut-être que je reviendrai te voir un de ces jours. Pour apprendre encore, et observer comment tu vis.
+
+— Avec plaisir ! J'adore avoir de la compagnie. Et qui sait, peut-être qu'un jour tu finiras par apprécier le sable, dit Zig, un clin d’œil dans l’œil. Je suis content de t’avoir expliqué mes petites astuces. Tu seras peut-être plus courageuse désormais !
+
+— Merci Zig, tu es un excellent professeur. Au revoir, et à bientôt peut-être ! dit Thérèse, et elle continua à ramper vers l’oasis.
+
+— Au revoir, petite tortue ! Et n'oublie pas : adapte-toi, et survis ! cria Zig, regardant Thérèse s’éloigner dans la chaleur dorée.
+
+Et Zig, lui, se fondit dans le sable, profitant de sa tranquillité, prêt pour une nouvelle journée de vie dans son royaume désertique. Il savait qu'il y aurait encore beaucoup à partager sur l’art de la survie, pour tous ceux qui voudraient l’apprendre. Il pensa que la tortue pourrait revenir. Peut-être, avec le temps, trouverait-elle la beauté dans la solitude. Mais pour le moment, le bruit de l’oasis… semblait convenir parfaitement à la tortue. Il souria. La vie était pleine de mystères… et de soif.
+
+Fin.
+</body>
+```

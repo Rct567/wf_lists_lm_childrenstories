@@ -1,0 +1,40 @@
+<prompt>
+Please write a funny Estonian children's story that is at least 1000 words long.
+It must be completely written in proper Estonian (ET).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Jäneste jooksuvõistlused ja joovastav jõgi'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>et</lang_id>
+
+<title>Jäneste jooksuvõistlused ja joovastav jõgi</title>
+<body>
+Ei ole palju aega, kui kõik jänkud Eestis said teada, kui palju nad armastavad jooksmist. Nad tegid otsuse korraldada suured jäneste jooksuvõistlused, kus osalevad kõik Eesti jänkud. Võistlused toimusid suurel ilusal rohul, kus oli palju ruumi jänkudele joosta.
+
+Kõik jänkud olid väga erinevad. Oli väikesi ja suuri, musti ja valgeid, pikakõrvulisi ja lühikõrvulisi. Kuid kõik nad olid ühel meelel - nad tahtsid võita jooksuvõistlusi. Enne võistlusi toimus suur avatseremoonia, kus kõik jänkud said endale võistlusnumbrid ja -vormid.
+
+Esimesed võistlused olid 100 meetri jooks. Sellel distantsil osalesid kõik väikesed jänkud. Nad olid väga kiired ja jooksid nagu väikesed autod. Esimene koht läks väikesele mustale jänkule, kes jooksis aja 10,2 sekundit. Teine koht läks väikesele valgele jänkule, kes jooksis aja 10,5 sekundit.
+
+Järgmiseks toimusid 400 meetri jooksud. Sellel distantsil osalesid kõik suured jänkud. Nad olid väga tugevad ja jooksid nagu suured hobused. Esimene koht läks suurele mustale jänkule, kes jooksis aja 50,1 sekundit. Teine koht läks suurele valgele jänkule, kes jooksis aja 51,2 sekundit.
+
+Pärast jooksuvõistlusi toimus suur lõunapaus. Kõik jänkud said endale vorsti ja kartuleid. Nad olid väga täna ja rahul. Pausi ajal rääkisid nad omavahel, kui palju nad armastavad jooksmist ja kui ilus on Eesti loodus.
+
+Pärast lõunapausi toimusid hüppemängud. Kõik jänkud pidid hüppama üle takistustele. Esimene takistus oli väike oja, mille üle pidid jänkud hüppama. Teine takistus oli suur kivi, mille üle pidid jänkud ronima. Kolmas takistus oli joovastav jõgi, mille üle pidid jänkud ujuma.
+
+Joovastav jõgi oli väga eriline. See oli täidetud kogu sorte joogadega - õllega, veini, limonaadiga ja isegi piimaga. Kõik jänkud olid väga huvitatud sellest jõest ja tahtsid seda proovida. Nad ujusid jõge pidi ja joosid kogu sorte joogasid. Nad olid väga rõõmsad ja naersid kogu aeg.
+
+Pärast hüppemänge toimus suur lõppseremoonia. Kõik jänkud said endale medaleid ja diplomeid. Esimene koht läks suurele mustale jänkule, kes võitis kõik võistlused. Teine koht läks suurele valgele jänkule, kes võitis kaks võistlust. Kolmas koht läks väikesele mustale jänkule, kes võitis ühe võistluse.
+
+Kõik jänkud olid väga rahul ja täna. Nad tahtsid juba järgmise aasta jooksuvõistlusi. Nad läksid koju ja rääkisid kogu aeg sellest, kui ilusad olid võistlused ja kui palju nad armastavad jooksmist. Ja nii lõppesid jäneste jooksuvõistlused ja joovastav jõgi.
+
+Aga see ei olnud kõik. Jänkud said teada, et joovastav jõgi on nüüd avatud kõigile. Nad said sellest teada ja läksid jõge pidi ujuma. Nad joosid kogu sorte joogasid ja olid väga rõõmsad. Ja nii sai joovastav jõgi kuulsaks kogu Eestis.
+
+Kõik inimesed olid huvitatud sellest jõest ja tahtsid seda proovida. Nad läksid jõge pidi ujuma ja joosid kogu sorte joogasid. Nad olid väga rõõmsad ja naersid kogu aeg. Ja nii sai joovastav jõgi suureks turismiattraktsiooniks.
+
+Aga jänkud ei unustanud, kui palju nad armastavad jooksmist. Nad korraldasid iga aasta uued jooksuvõistlused ja kutsusid kõiki Eesti jänkudele osalema. Nad olid väga rahul ja täna, et said jooksmist harrastada. Ja nii elasid jänkud õnnelikult ja jooksid kogu aeg.
+
+Ja nii lõppes lugu jäneste jooksuvõistlustest ja joovastavast jõest. See oli väga ilus lugu, mis rääkis sellest, kui palju jänkud armastavad jooksmist ja kui ilus on Eesti loodus. Ja kui sa lugesid seda lugu, siis sa tead, kui palju jänkud armastavad jooksmist ja kui ilus on Eesti loodus.</body>

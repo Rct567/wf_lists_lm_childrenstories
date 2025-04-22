@@ -1,0 +1,38 @@
+<prompt>
+Please write a creative and original Catalan children's story that is at least 1000 words long.
+It must be completely written in proper Catalan (CA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La Gran Aventura dels Exploradors de la Costa'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>ca</lang_id>
+
+<title>La Gran Aventura dels Exploradors de la Costa</title>
+<body>
+En un petit poble de pescadors, a la costa mediterrània, vivia una colla d'exploradors incansables: la Núria, la Marina, el Marc i l'enric.  No eren exploradors de grans muntanyes ni de selves impenetrables, sinó exploradors de la costa.  Cada dia, amb els seus barquets de vela pintats de colors vius, recorrien les platges, les cales i els penya-segats, a la recerca de secrets ocults.
+
+Un dia, mentre navegaven a prop d'una illa misteriosa, coberta d'una vegetació exuberant i plenes de colors, van veure una petita figura vestida d'un vestit blau que s'agitava sobre una roca.  Era una nena, amb els cabells com el bronze del sol i els ulls com dos grans ametlles negres.  La nena semblava solitària i trista.
+
+"Hola!", va cridar la Núria, navegant cap a la nena amb el seu barquet.  "Som els exploradors de la costa!  Què et passa?"
+
+La nena, que es deia Mar, va respondre amb una veu dolça i plena de pena: "He perdut la meva amuleta màgica, un petit cor de fusta que em protegia de les tempestes i em donava sort.  Sense ella, sento que la mar es torna dura i els vents, cruels."
+
+Els exploradors, amb els seus cors plens de compassió, van decidir ajudar Mar.  El Marc, amb la seva gran habilitat per als dibuixos, va proposar dibuixar un mapa de l'illa, per trobar pistes de l'amuleta.  L'Enric, el més observador, va començar a observar les ombres i els moviments de les ones per buscar qualsevol senyal. La Marina, amb el seu saber infatigable, va recordar llegendes i poemes tradicionals que parlaven de les criatures marines de la zona.
+
+
+Durant dies, els exploradors van explorar l'illa amb la Marina com a guia.  Van navegar pels canals secrets, van escalar penya-segats amb vista a la mar i van descobrir coves misterioses.  Van descobrir flors exòtiques, amb perfums extraordinaris,  i bestioles diminutes, que semblaven esculpides a partir de la mateixa roca.
+
+El Marc, a partir d'observar els rastres, va dibuixar un mapa detallat de l'illa, marcant possibles zones on l'amuleta podria estar.  L'Enric, observant les ombres i l'aigua, va notar un moviment inusual sota les roques.  I la Marina, amb la seva experiència, va recordar una llegenda que parlava d'un petit drac de mar, que guardava tresors, entre ells, amulets de fusta.
+
+Seguint la pista que va deixar el drac, van arribar a una cova plena de llum blava.  A dins, hi havia una petita criatura amb escames de bronze i ulls com diamants.  Era un drac de mar, molt més petit del que s'havien imaginat, però amb una mirada savia i beneïda.
+
+"Necessiteu ajuda?", va preguntar el drac amb una veu que semblava música.  "Si em confieu, us puc ajudar a trobar l'amuleta."
+
+Els exploradors li van explicar el seu problema.  El drac, amb una mirada de compassió, va escoltar amb atenció. Després, va conduir-los a una petita platja oculta.  En un petit tros de sorra, entre algues i pedres, hi havia el cor de fusta de Mar.
+
+Mar va sentir un gran alleujament.  Gràcies al seu coratge, la seva perseverança i la seva solidaritat, els exploradors van tornar a casa, carregats de bons records i la satisfacció de treballar junts. I Mar, amb l'amuleta de nou a la mà, va sentir que la mar tornava a ser sua.  Des de llavors, els exploradors i Mar es van convertir en els millors de amics.  I cada any, en els seus barquets, tornaven a explorar la costa, no només per descobrir secrets, sinó per recordar el gran valor de l'amistat, la compassió i l'esperit d'aventura. I tots sabien que cada sortida podia portar-los a noves aventures.  Després d'aquesta aventura, els exploradors sabien que la verdadera aventura no era el lloc al que anaven, sinó les persones que trobaven al llarg del camí.
+</body>

@@ -1,0 +1,61 @@
+<prompt>
+Please write a silly Italian children's story that is at least 1000 words long.
+It must be completely written in proper Italian (IT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La Danza delle Farfalle Arcobaleno'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>it</lang_id>
+
+```xml
+<title>La Danza delle Farfalle Arcobaleno</title>
+<body>
+C'era una volta, in un angolo nascosto dell'Italia, tra le dolci colline della Toscana, un prato più speciale di tutti gli altri. Questo prato, chiamato Prato Fiorito, non ospitava fiori qualsiasi. No! Ospitava fiori dai colori impossibili: tulipani che cantavano canzoni napoletane, rose che raccontavano barzellette e girasoli che danzavano la tarantella.
+
+E in questo prato, la cosa più straordinaria erano le Farfalle Arcobaleno. Non erano farfalle normali. Ogni farfalla aveva ali dipinte con i colori dell'arcobaleno, ma in un ordine sempre diverso, e ognuna ballava una danza unica e assolutamente strampalata.
+
+La farfalla più anziana, la Nonna Farfalla Zafferano, aveva le ali di un giallo oro e parlava con la voce di una nonna toscana, sempre pronta a offrire un bicchiere di vino (per le farfalle, naturalmente, un succo di frutta!). Nonna Zafferano era anche la maestra di danza. Ogni pomeriggio, radunava le giovani farfalle e le insegnava passi nuovi e movimenti eccentrici.
+
+Un giorno, nel Prato Fiorito, arrivò una nuova farfalla. Si chiamava Brunilde, aveva le ali di un blu notte, costellate di stelle argentate, e aveva un grosso problema: non sapeva ballare! Cercava di muovere le ali, ma finiva sempre per inciampare sui petali dei fiori e per cadere a capofitto nell'erba.
+
+“Mamma mia!” esclamò Nonna Zafferano, agitando le antenne. “Questa Brunilde è un vero pasticcio! Ma non ti preoccupare, cara mia, a ballare s’impara, anche se hai i piedi che sembrano due zampe di pollo!”
+
+Così, Nonna Zafferano prese Brunilde sotto la sua ala (o, per meglio dire, sotto la sua ala zafferano) e cominciò le lezioni di danza.
+
+“Prima di tutto,” disse la Nonna, “devi sentire la musica! Che suono senti, Brunilde?”
+
+Brunilde si concentrò. Sentiva il cinguettio degli uccellini, il ronzio delle api e il suono… pluf, pluf, pluf… dei ranocchi che saltavano nello stagno vicino.
+
+“Sento… pluf, pluf, pluf!” rispose Brunilde, imitando il suono dei ranocchi.
+
+Nonna Zafferano scoppiò a ridere. “Bene! Allora, balliamo come i ranocchi! Salta, Brunilde, salta!”
+
+Brunilde saltò, ma invece di ballare come un ranocchio, finì per rotolare come una palla blu notte, tra le risate delle altre farfalle.
+
+Le lezioni continuarono per giorni e giorni. Nonna Zafferano provava di tutto: la danza del limone (con movimenti aciduli!), la danza del pomodoro (con movimenti rotondi!), la danza della pizza (con movimenti che facevano venire l’acquolina in bocca!). Ma Brunilde continuava a essere un vero disastro.
+
+“Non ce la farò mai!” singhiozzò Brunilde, un giorno, con le lacrime che le rigavano le ali. “Sono la farfalla più impacciata del Prato Fiorito!”
+
+Nonna Zafferano la abbracciò (metaforicamente, naturalmente, perché le farfalle non hanno braccia). “Non arrenderti, cara mia! Ogni farfalla è speciale a modo suo. Tu devi solo trovare il tuo stile!”
+
+Nonna Zafferano la osservò a lungo, mentre Brunilde cercava di muoversi, goffamente, come un filo d'erba mosso dal vento. E ad un certo punto, ebbe un'idea.
+
+“Brunilde, prova a immaginare di essere il cielo stellato!” disse. “Sii la notte, con le sue stelle scintillanti! Sii la magia!”
+
+Brunilde chiuse gli occhi e si immaginò in alto, nel cielo, sopra il Prato Fiorito, circondata da milioni di stelle argentate. Si sentiva leggera, libera, piena di mistero.
+
+E allora, cominciò a muoversi in modo diverso. Non tentava di ballare come le altre farfalle, non provava a imitare nessuno. Muoveva le ali lentamente, come se stesse disegnando forme nell'oscurità. Fluttuava, volteggiava, come una cometa che attraversa lo spazio.
+
+Le altre farfalle, inizialmente sorprese, rimasero incantate. Le loro risate si trasformarono in sospiri di ammirazione. Non avevano mai visto una danza simile! Era una danza silenziosa, ma piena di emozione, una danza che raccontava la storia del cielo notturno, una danza che parlava di misteri e di sogni.
+
+Da quel giorno, Brunilde diventò la stella del Prato Fiorito. La sua danza, la “Danza delle Stelle”, era la più amata. E Brunilde, finalmente, aveva trovato la sua strada.
+
+Le Farfalle Arcobaleno, riunite al tramonto, danzavano sotto il cielo colorato, ognuna con la propria danza speciale: la danza del sole, la danza della luna, la danza del gelato… e, naturalmente, la meravigliosa danza delle stelle di Brunilde.
+
+E vissero felici e danzanti, mangiando nettare di fiori e sognando avventure, fino al prossimo capriccio del meteo. E la storia, come spesso accade, finisce con un sorriso e un pizzico di dolce malinconia, come la pasta della nonna, un vero capolavoro di amore e creatività!
+</body>
+```

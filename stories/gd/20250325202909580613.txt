@@ -1,0 +1,62 @@
+<prompt>
+Please write a simple and easy-to-follow Scottish Gaelic children's story that is at least 1000 words long.
+It must be completely written in proper Scottish Gaelic (GD).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Caisteal an Draoidh le Doras Dhìomhair'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>gd</lang_id>
+
+```xml
+<title>Caisteal an Draoidh le Doras Dhìomhair</title><body>
+Bha aon uair ann an caisteal àlainn, mòr air beinn àrd, ann an coille uaine. B' e Caisteal an Draoidh a bh' air. Bha an draoidh, fear leis an t-ainm Donnchadh, gu math sean agus gliocasach. B' e duine coibhneil a bh' ann, ach bha e cuideachd glè dhìomhair. Bha aig Donnchadh caileag bheag leis an t-ainm Aileas, agus bha i fuathasach oirre a’ bruadar agus a’ rannsachadh.
+
+Bha Aileas na h-oidhche a' cluinntinn sgeulachdan mu chaisteal an draoidh bhon mhàthair aice, a' tighinn bhon bhaile bheag. Bha i air a h-iongnadh leis na sgeulachdan, agus b' i an rud as motha a dh' fheumadh i eòlas fhaighinn air an dìomhaireachd a bha timcheall an caisteal. Bha i air ais an caisteal fhaicinn gach latha.
+
+Aon latha, fhad 's a bha Aileas a' coiseachd tron choille, chunnaic i nathair bheag bhòidheach. Bha sùilean soilleir uaine aice, agus bha i coltach ri clach luachmhor. "Cò thu?" dh' fhaighnich Aileas. "Is mise Niall," fhreagair an nathair. "Agus tha fios agam gun leigeadh an draoidh a-steach thu, ma dh' iarras tu air."
+
+Thuirt Aileas, "Tha mi air a bhith airson tighinn a-steach don chaisteal airson greis fhada. Ach tha mi glè eagalach!"
+Chrath Niall a cheann. "Na biodh eagal ort, cha dèan e cron ort. Chan eil anns an Draoidh ach sean duine coibhneil."
+Thàinig Aileas gu caisteal an draoidh. Bha e glè mhòr agus bha tòrr uinneagan aige. Bha i an impis a bhith a’ tilleadh air ais, ach chuimhnich i faclan Niall. Chaidh i suas air an staidhre gus an dorus mòr fhosgladh. Chaidh Aileas a-steach. Bha eagal mòr oirre, ach bha fios aice gun do rinn i an rud ceart.
+
+Bha an caisteal dorcha agus dorcha. Bha deannach de dh'àirneis mòr agus sgeadachadh neònach ann an uile àite. Fhad 's a bha i a' coiseachd tro na trannsaichean fada, chuala i guth. "Cò tha sin?"
+"Is mise Aileas," thuirt Aileas, an guth aice a’ crith beag. "Tha mi air a thighinn gu Caisteal an Draoidh."
+"Thig a-steach," fhreagair an guth.
+
+Lorg Aileas an t-seòmar a' dol an tòir an guth. Nuair a dh'fhosgail i an doras, chunnaic i Donnchadh, an draoidh. Bha e na sheasamh aig a' chathair aige le leabhar mòr, seann ann an làmhan. Bha a shùilean a’ deàrrsadh leis a’ ghliocas. "Fàilte, Aileas," thuirt e le gàire. "Tha fios agam gu robh thu a' tighinn."
+Dh’ fhaighnich Aileas, “Ciamar a bha fios agad, Donnchadh?”
+“O, Aileas, is fhiach dhomh mòran aithne fhaighinn," fhreagair an draoidh. "Tha mi a’ faicinn rudan nach fhaic daoine eile."
+
+Bha i fhèin is Donnchadh a’ bruidhinn gu fad, mu sgeulachdan, leabhraichean, agus mu na dìomhaireachdan anns a' chaisteal. Bha iad a’ co-roinn gàire agus iongnadh. Bha Donnchadh na dhìomhaire, ach bha e cho gràdhaich 's cho coibhneil ri Aileas.
+
+Aon latha, fhad 's a bha i a' sgrùdadh anns a' chaisteal, lorg Aileas seòmar le doras dìomhair. Bha an doras falaichte air cùl sgeilp de leabhraichean. Chaidh i faisg air, agus phut i an doras a-steach. Bha e a’ dol a-steach do rùm beag.
+Taobh a-staigh, chunnaic i inneal mòr le cuibhlichean agus pìoban. Air mullach an inneil bha dealbh. Bha e coltach ri ciste le seallaidhean den t-saoghal. Thuig Aileas gur e inneal a bh' ann gus amannan eadar-dhealaichte fhaicinn. Bha i cho toilichte an dìomhair seo a lorg!
+
+Thill i gu Donnchadh. "Donnchadh! Lorg mi doras dìomhair! Agus inneal a sheallas amannan eadar-dhealaichte!"
+Ghabh Donnchadh a làmh, agus thug e air an inneal. Sheall e do Aileas grunn amannan bho eachdraidh a theaghlaich. Chunnaic i na h-athair-seanair aice, agus a màthair-seanair, a' dèanamh fealla-dhà.
+"Tha an t-inneal seo," mhìnich Donnchadh, "air a dhealbh gus nach dìochuimhnich thu do cheanglaichean ri do theaghlach."
+Bha Aileas a' coimhead air an dealbh, agus thuirt i, "Tha mi ga thuigsinn a-nis. Tha gaol agus ceangal do theaghlaich glè chudromach."
+
+Às deidh an latha sin, dh'fhàs Aileas agus Donnchadh nas fhaisge air a chèile. Rinn iad spòrs còmhla, agus rinn iad biadh còmhla. Sheall Donnchadh dhith dìomhaireachdan mu chroiteagan agus feòil bho na diofar phàirtean de dh' Alba. Bha Aileas a' còrdadh ri bhi le Donnchadh; bha e 'na caraid as fhearr.
+
+Ach, bha e fhathast fhèin na dìomhaire. Cha do dh'innis e i gu bràth mu 'n sgeul as motha 's ann.
+Aon fheasgar, nuair a bha a’ ghrian a’ dol fodha, thuirt Donnchadh ri Aileas. "Tha an t-àm ann dhuit tilleadh dhachaigh, Aileas." Bha i duilich. Cha robh i airson falbh.
+"Ach carson?" dh'fhaighnich i. "Tha mi a' còrdadh ri bhi còmhla riut, Donnchadh."
+"Is mise glè thoilichte a bhith còmhla riut cuideachd," fhreagair Donnchadh. "Ach tha agad air falbh a-nis."
+Thuirt Aileas, "Am faigh mi tighinn air ais?"
+Chrath Donnchadh a cheann. "Chan eil. Bidh an caisteal air a chuthadh gus am bi thu. Bidh thu air chuairt ann an saoghal far am bu mhath dhut eòlas a ghabhail."
+
+Dh'fhalbh Aileas, le deòir a’ ruith sìos a gruaidhean. Phòg i Donnchadh, agus chuir i gàirdeachas aice mu a h-amhach.
+Anns an fhìrinn, ghluais Aileas air falbh bho chaisteal an draoidh. Nuair a thill i dhan bhaile aice, bha i ag innse mu na sgeulachdan dhan uile duine. A h-uile h-oidhche, bha i a' bruadar mu Chaisteal an Draoidh le Doras Dhìomhair.
+
+B' i an uair sin am bàrd as motha a' ruith a bhaile. Bhàsaich Aileas a' sgrìobhadh sgeulachdan agus bàrdachd a tha air a sgrìobhadh le meas. Chan fhaca duine a-riamh an caisteal a-rithist, ach anns a' chaisteal anns na sgeulachdan aca, thug i a beatha còmhla rithe.
+Agus mar sin, chaidh sgeul Aileis agus Caisteal an Draoidh le Doras Dhìomhair air adhart tro na linntean, mar sgeulachd dhìomhair airson nan cloinn anns na beanntan agus a' ghleann.
+Chaidh sgeul a' chaisteil a chur an cuimhne mar sgeulachd a thug dòchas agus gràdh gu cridheachan mòran. Agus ged nach fhaca duine a-riamh Caisteal an Draoidh le Doras Dhìomhair a-rithist, bhiodh a h-uile duine ag ràdh gu robh an sgeulachd an-còmhnaidh ann an cridheachan nan daoine a chuala i. B' e sin a thug a' mheudachadh dha-rìribh dha-rìribh, gun dìomhaireachd, an sgeulachd mhaiseach, a' toirt brosnachadh gus aislingean a chumail beò.
+
+Am facal deireannach a bh' ann!
+</body>
+```

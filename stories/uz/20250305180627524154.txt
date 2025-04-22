@@ -1,0 +1,39 @@
+<prompt>
+Please write a educational Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Yashirin ko'zlarda yashaydigan jodugar'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>uz</lang_id>
+
+<title>Yashirin ko'zlarda yashaydigan jodugar</title>
+<body>Uzoq-zamonlar avval, O'zbekistonning go'zal vodiylaridan birida kichkina qishloq joylashgan edi. Qishloq aholisi mehribon va samimiy edi. Ular bir-birlari bilan yaxshi munosabatda bo'lib, bir-birlariga yordam berishardi. Qishloqda yashovchi bolalar o'zlarining go'zal tabiat bilan o'ynashardi, ularning orasida bir o'g'il bolasi bor edi, uning ismi Xurshid edi.
+
+Xurshid juda qiziquvchan va bilimga chanqoq bolalardan edi. U doimo yangi narsalarni o'rganishni xohlardi, tabiatning sirlarini bilishni istardi. Uning eng sevimli mashg'uloti o'rmonda sayr qilish va uning sir-asrorlarini o'rganish edi.
+
+Bir kun, Xurshid o'rmonda sayr qilib, birdan g'arib narsani ko'rdi. U yashirin ko'zlar edi, ular juda katta va go'zal edi. Xurshid bu ko'zlarni hech qachon ko'rmagan edi, shuning uchun u juda qiziqib, ularni yaqindan ko'rib chiqdi. Yashirin ko'zlarda bir narsa harakatlanayotgani ko'rib, Xurshid qo'rqib ketdi, lekin u qo'rqib qochib ketmasdan, o'zini ushlab turdi.
+
+Birdan, yashirin ko'zlardan biror narsa chiqdi. U juda kichkina va go'zal jodugar edi. Jodugar Xurshidga qaradi va uni kutib turganini aytdi. Xurshid juda hayron bo'lib, jodugarni qanday kutib turganini so'radi. Jodugar unga o'zining ismini aytib, o'zini tanishtirdi. Uning ismi Malika edi.
+
+Malika Xurshidga o'zining yashirin ko'zlarda yashashini aytdi. U shu yerda juda uzoq vaqtdan buyon yashayotganini aytdi. Malika Xurshidni o'z uyiga taklif qildi. Xurshid rozi bo'lib, Malikaning uyiga bordi. U yerda juda go'zal va qiziqarli narsalar ko'rdi.
+
+Malika Xurshidga o'zining sir-asrorlarini ko'rsatdi. U unga o'zining sehrlarini ko'rsatdi, ular juda ajoyib edi. Xurshid juda hayron bo'lib, Malikaning sehrlarini ko'rdi. U Malikaga o'zining sehrlarini o'rgatishini so'radi. Malika rozi bo'lib, Xurshidga o'zining sehrlarini o'rgata boshladi.
+
+Xurshid Malikaning sehrlarini tezda o'rganib oldi. U juda kuchli jodugar bo'lib, o'zining sehrlarini ishlatishni bila boshladi. Malika Xurshidni juda maqtadi, u unga o'zining eng yaxshi shogirdi ekanligini aytdi.
+
+Bir kun, qishloqda juda katta ofat yuz berdi. Qishloq aholisi juda qo'rqib ketdi, ular o'zlarini himoya qila olmadilar. Xurshid va Malika qishloq aholisini himoya qilishga qaror qildilar. Ular o'zlarining sehrlarini ishlatib, ofatni to'xtatdilar.
+
+Qishloq aholisi juda minnatdor bo'lib, Xurshid va Malikaga rahmat aytishdi. Ular ularni juda maqtashdi, ularning qahramonligini bayon etishdi. Xurshid va Malika juda g'ururlandilar, ular o'zlarining sehrlarini ishlatib, qishloq aholisini saqlab qolganlarini bilishdi.
+
+Shu kundan boshlab, Xurshid va Malika qishloq aholisining sevimli kishilari bo'lib, ular o'zlarining sehrlarini ishlatib, qishloq aholisini himoya qilishda davom etdilar. Ular juda kuchli jodugarlar bo'lib, o'zlarining sehrlarini ishlatib, qishloq aholisini saqlab qoldilar.
+
+Yillar o'tdi, Xurshid va Malika juda mashhur bo'lib, ularning ismlari butun mamlakat bo'ylab tarqaldi. Ular juda kuchli jodugarlar bo'lib, o'zlarining sehrlarini ishlatib, xalqni himoya qilishda davom etdilar. Ular o'zlarining sehrlarini ishlatib, ofatlarni to'xtatdilar, xalqni saqlab qoldilar.
+
+Xurshid va Malika juda g'ururlandilar, ular o'zlarining sehrlarini ishlatib, xalqni saqlab qolganlarini bilishdi. Ular o'zlarining kuchlarini ishlatib, xalqni himoya qilishda davom etdilar, ular juda kuchli jodugarlar bo'lib, o'zlarining sehrlarini ishlatib, xalqni saqlab qoldilar.
+
+Va shu tariqa, Xurshid va Malika juda g'ururlandilar, ular o'zlarining sehrlarini ishlatib, xalqni saqlab qolganlarini bilishdi. Ular o'zlarining kuchlarini ishlatib, xalqni himoya qilishda davom etdilar, ular juda kuchli jodugarlar bo'lib, o'zlarining sehrlarini ishlatib, xalqni saqlab qoldilar. Xurshid va Malika abadiy xalqning sevimli kishilari bo'lib qoladilar, ular o'zlarining sehrlarini ishlatib, xalqni himoya qilishda davom etadilar.</body>

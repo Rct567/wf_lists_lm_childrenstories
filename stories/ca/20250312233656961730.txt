@@ -1,0 +1,66 @@
+<prompt>
+Please write a educational Catalan children's story that is at least 1000 words long.
+It must be completely written in proper Catalan (CA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'L'hivern que es va cansar del fred i va decidir fer un viatge tropical.'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>ca</lang_id>
+
+```xml
+<title>L'hivern que es va cansar del fred i va decidir fer un viatge tropical.</title>
+<body>
+A tocar de les muntanyes del Pirineu, on el vent bufava amb força i la neu cobria tot d'un mantell blanc, hi vivia l'Hivern. No era un hivern qualsevol; era un hivern molt particular, amb un abric de gel que canviava de color segons l'estat d'ànim. Avui, l'abric era d'un blau gris.
+
+L'Hivern era un personatge una mica rondinaire. Li agradava el fred, la neu i les nits llargues. Era el seu paper al calendari, i sabia complir-lo a la perfecció. Però, darrerament, sentia una mena de cansament. El fred, que tant estimava, ja no el feia sentir com abans. Les nevades, que havien estat una festa, ara li semblaven monòtones. Les nits, abans misterioses i plenes de secrets, eren ara avorrides i llargues.
+
+“Ai, ai, ai…”, sospirava l'Hivern, mentre es mirava en un estany glaçat. “Aquest fred em té fart! Sempre glaçant, sempre blau, sempre el mateix!”
+
+Un dia, mentre observava els ocells que marxaven cap a terres més càlides, a l'Hivern se li va acudir una idea que li va fer saltar el cor. “Per què no? Per què no faig jo també un viatge? Un viatge a un lloc càlid, ple de sol i de colors! Un… viatge tropical!”
+
+La idea el va omplir d'emoció. Imaginava platges de sorra daurada, palmeres que es movien amb la brisa suau, fruites exòtiques i animals estranys. Un lloc on el seu abric de gel seria completament inútil!
+
+Així doncs, l'Hivern va començar a preparar el seu viatge. Va consultar el seu amic, el Sol, que, tot i ser ell qui portava la calor, va entendre perfectament la necessitat de canvi de l'Hivern. El Sol li va explicar que, al sud de l'equador, hi havia un lloc meravellós anomenat "Tropicàlia". Era una illa paradisíaca amb un clima càlid i humit durant tot l'any.
+
+“Però, com hi arribaré?”, va preguntar l'Hivern, una mica preocupat.
+
+“No et preocupis”, va contestar el Sol. “Truca al Vent. Ell és un gran viatger i t'hi pot portar.”
+
+L'Hivern va cridar el Vent amb totes les seves forces. El Vent, un personatge alegre i juganer, que sempre estava inquiet, va sentir la crida de l'Hivern i va aparèixer tot bufant.
+
+“Què passa, amic Hivern?”, va preguntar el Vent, emocionat per l'oportunitat d'una nova aventura.
+
+“Vull anar a Tropicàlia!”, va exclamar l'Hivern, amb els ulls brillants. “M'he cansat del fred i vull veure un lloc càlid.”
+
+El Vent va saltar d'alegria. “Això és fantàstic! A mi també m'agrada la calor! Pujat a la meva esquena i marxem!”
+
+Així doncs, l'Hivern es va enfilar a l'esquena del Vent. Amb un buf potent, el Vent va començar a volar, portant l'Hivern cap al sud. Deixaven enrere les muntanyes nevades, els boscos silenciosos i els rius glaçats. L'Hivern tancava els ulls i sentia l'emoció de l'aventura.
+
+Durant el viatge, el Vent li va ensenyar moltes coses. Li va explicar els noms de les constel·lacions, li va mostrar la bellesa dels núvols i li va fer sentir la fragància de les flors que volaven pel vent. L'Hivern escoltava amb atenció, meravellat per tot el que veia.
+
+Després de molts dies de viatge, finalment van arribar a Tropicàlia. L'Hivern, en veure l'illa per primera vegada, va quedar bocabadat. Tot era ple de colors vius i intensos: el verd de les palmeres, el blau turquesa del mar, el groc de la sorra. L'aire era càlid i humit, i l'olor de les flors exòtiques inundava tot el lloc.
+
+El Vent va deixar l'Hivern a la platja. “Ara t'ho passaràs bé, amic Hivern! Jo seguiré viatjant, però tornaré a buscar-te quan vulguis.” I amb un buf fort, el Vent va marxar, deixant l'Hivern sol, però feliç.
+
+L'Hivern va trepitjar la sorra càlida amb els peus. Va sentir el sol sobre la seva pell i va respirar profundament l'aire perfumat. Va veure micos juganers que es balancejaven entre les palmeres, ocells de colors cridaners que volaven pel cel i peixos exòtics que nedaven al mar. Tot era nou i fascinant per a ell. Fins i tot el seu abric blau gris semblava més brillant aquí, contrastant amb els colors tropicals.
+
+Va provar fruites exòtiques, com mangos dolços i pinyes sucoses. Va aprendre a nedar i a gaudir del mar calent. Va passar dies sencers prenent el sol, llegint llibres a l'ombra de les palmeres i xerrant amb els animals de l'illa. Va conèixer nous amics, com el Tucan, un ocell amb un bec gegant, la Mona, una micoa molt divertida, i la Tortuga, una persona sàvia i tranquil·la.
+
+Durant la seva estada a Tropicàlia, l'Hivern va aprendre moltes coses. Va aprendre que el fred no era l'única manera de viure, que la calor també podia ser agradable i que la diversitat era una cosa meravellosa. Va aprendre a relaxar-se, a gaudir del moment present i a valorar la bellesa de tot el que l'envoltava.
+
+Un dia, mentre estava assegut a la platja mirant la posta de sol, l'Hivern es va adonar que havia passat molt de temps. La terra, al seu nord, ja començava a despertar de la letargia de l'hivern. El Sol li havia enviat un missatge convidant-lo a tornar. L'Hivern va sentir una certa nostàlgia, però al mateix temps una gran satisfacció.
+
+Va reunir els seus nous amics i els va explicar que havia de marxar. Tots van sentir pena, però van entendre que era el moment que tornés a casa. L'Hivern els va prometre que tornaria a visitar-los algun dia.
+
+Quan el Vent va tornar per buscar-lo, l'Hivern es va acomiadar de Tropicàlia amb un somriure. S'havia perdut una mica del seu blau gris, i ara, incorporava tons daurats i rosats, record de la posta de sol de cada dia.
+
+Durant el viatge de tornada, l'Hivern reflexionava sobre tot el que havia viscut. S'havia adonat que el fred encara era important, que formava part de la naturalesa i que tenia la seva pròpia bellesa. Però, també havia descobert que la calor, la llum i els colors oferien una experiència diferent i enriquidora.
+
+Quan van arribar a casa, l'Hivern va canviar. Ja no era el mateix hivern rondinaire i avorrit de sempre. Ara era un hivern més relaxat, més obert i més alegre. Encara li agradava el fred, però també recordava amb afecte els dies a Tropicàlia. I, de tant en tant, quan el vent bufava fort, somreia i imaginava de nou les palmeres, la sorra daurada i el sol càlid.
+
+L'Hivern havia après la importància de l'equilibri, de gaudir de les diferents estacions i de valorar tot el que la vida li oferia. Amb aquesta nova experiència, l'Hivern va tornar a assumir el seu paper, però ara, amb un cor més gran i un abric ple de colors, com un arc de Sant Martí cada vegada que el sol el tocava.
+I l’hivern va continuar, ara amb una nova vitalitat, esperant amb ànsia la propera aventura, un dia en què potser, tornaria a visitar Tropicàlia.

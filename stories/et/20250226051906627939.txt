@@ -1,0 +1,51 @@
+<prompt>
+Please write a relatable Estonian children's story that is at least 1000 words long.
+It must be completely written in proper Estonian (ET).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kits Kaisa ja tema seiklus: kuidas ta leidis kadunud kitse.'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>et</lang_id>
+
+<title>Kits Kaisa ja tema seiklus: kuidas ta leidis kadunud kitse</title><body>  
+Ühel ilusal kevadpäeval, kui päike paistis heledalt ja linnud laulsid rõõmsalt, elas väikeses talus üks väike kits nimega Kaisa. Kaisa oli väga uudishimulik ja tahtis alati uusi kohti avastada. Ta elas oma perega – ema-kits Kati, isa-kits Kalle ja väikese venna-kits Karliga – talu ümber paksus rohus.  
+
+Ühel hommikul, kui Kaisa ärkas, märkas ta, et tema lemmik-sõber, suur-kits Kusti, oli kadunud. Kusti oli alati olnud Kaisa parim sõber, kes rääkis talle lõbusaid lugusid ja jagas oma rohelist heina. Kaisa oli väga mures.  
+
+"Ema, kas sa nägid Kustit?" küsis Kaisa murelikult.  
+"Ei, kallis, ma ei ole teda täna näinud," vastas ema-kits Kati.  
+"Isa, kas sina nägid teda?" pöördus Kaisa isa-kits Kalle poole.  
+"Kahjuks ei, Kaisa," vastas isa.  
+
+Kaisa otsustas, et ta peab Kusti üles leidma. Ta võttis oma väikese seljakoti, pani sinna mõned heinakäkid ja paar maasikut, ning asus teele. Ta teadis, et see võib olla ohtlik seiklus, kuid ta ei saanud lihtsalt istuda ja oodata.  
+
+Kaisa läks esmalt metsa, kus nad sageli mängisid. Ta hüüdis: "Kusti! Kus sa oled?" Kuid vastuseks kostis vaid tuule sahin. Metsas oli pime ja hirmutav, kuid Kaisa jätkas oma otsingut. Äkki kuulis ta nõrka määgimist. Ta järgis seda häält ja jõudis väikesele lagendikule, kus nägi Kustit kinni jäänud suurde puujuurtesse.  
+
+"Kusti! Ma leidsin su!" hüüdis Kaisa rõõmsalt.  
+"Kaisa, aitäh, et tulid mind otsima," määgis Kusti nõrgalt. "Ma proovisin üle puu hüpata, kuid komistasin ja jäin kinni."  
+
+Kaisa proovis Kustit vabastada, kuid puujuured olid liiga tugevad. Siis meenus talle, et tal on seljakotis heinakäkid. Ta võttis ühe käe ja pakkus selle Kustile. "Siin, Kusti, söö seda. See annab sulle jõudu."  
+
+Kusti sõi heinakäe ära ja tundis, kuidas tema jõud kasvas. Koos proovisid nad uuesti puujuurtest vabaneda. Nende jõupingutused lõpuks õnnestusid ja Kusti oli vaba!  
+
+"Tänan sind, Kaisa! Sa oled tõeline sõber," ütles Kusti.  
+"Me peame kiiresti koju minema. Pimedus hakkab varsti langema," ütles Kaisa.  
+
+Nad asusid teele tagasi talu poole. Teel nad kohtasid tarkat vana metsaööd, kes istus kivisel pingil.  
+"Tere, noored kitsed," ütles öökull. "Ma nägin teid otsimas ja tahan teile öelda, et te olete väga vaprad. Kuid ärge unustage, et mets võib olla ohtlik koht, kui te ei ole ettevaatlikud."  
+
+"Tänan teid, öökull," ütles Kaisa. "Me oleme ettevaatlikud ja läheme nüüd koju."  
+
+Nad jätkasid teekonda ja varsti jõudsid talu juurde. Ema-kits Kati ja isa-kits Kalle olid väga rõõmsad, kui nägid, et Kaisa ja Kusti on tagasi.  
+
+"Kaisa, sa oled tõeline kangelane," ütles ema.  
+"Ja Kusti, me oleme väga õnnelikud, et sa oled turvaliselt kodus," lisas isa.  
+
+Kaisa ja Kusti jagasid oma seikluse loo perega ja naersid koos. Nad õppisid, et sõprus ja julgus on väga tähtsad. Ja nii lõppes Kaisa suur seiklus, kuid tegelikult oli see vaid algus paljudele uutele põnevatele retkedele.  
+
+Sellest päevast alates elasid Kaisa, Kusti ja nende pere õnnelikult edasi, jagades uusi seiklusi ja meenutades alati, et koos on nad tugevamad kui üksi. Ja kui keegi neilt küsis, kuidas nad leidsid üksteise, siis nad naeratasid ja vastasid: "See on lugu sõprusest ja julgusest!"  
+</body>

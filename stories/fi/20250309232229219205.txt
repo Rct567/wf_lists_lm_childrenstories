@@ -1,0 +1,35 @@
+<prompt>
+Please write a simple and easy-to-follow Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Avaran avaruuden ja upeiden tähtien seikkailu'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>fi</lang_id>
+
+<title>Avaran avaruuden ja upeiden tähtien seikkailu</title>
+<body>
+Aivan kaukana, tähtisumujen syvyydessä, asui pieni avaruusalus nimeltä Pikkuvalkea. Se ei ollut mikään mahtava ja järeä alus, vaan pieni, mutta hurjan rohkean ja uteliaan astronautin, Lillan, kotiin.  Lilla oli noin kuuden vuoden ikäinen, ja hänellä oli kaikkein kiiltävimmät tummat silmät ja pitkät, kauniit punaiset hiukset.  Pikkuvalkea oli värjätty ihastuttavalla sinipalellä, täynnä pienempiä tähtiä ja kuun kuvioita.
+
+Yhtenä aamuna Lilla heräsi avaruuden kylmään hiljaisuuteen. Auringon säteet loimusivat avaruusaluksen ikkunoista ja Lilla tunsi uteliaisuutta hiipimässä sydämensä syvyyteen. Hän nosti sängystään auringonlaskun keltaista avaruuspaitaansa, kiemurteli sen päällensä, ja napsautti avaruusasut.
+
+"Aika lähteä uuteen seikkailuun", Lilla hiljaisesti sanoi itselleen.  Hänen pieniä sorsiaan varjostivat pikkulaiset avaruussuihkut, joiden loistavasta päästä pursusi paineistettua ilmaa, ja valtava halki tähtitaivas aukesi uuden yllätyksen.
+
+Lilla ohjasi Pikkuvalkeaan lähiavaruuden halki ja se liipaisi syöksykierteeseen täynnä kirkkaan valkoisia tähtiä.  Taivas alkoi heittäytyä värikkäämmäksi ja värikkäämmäksi; toinen kerros tähteä toisensa jälkeen heijastuivat avaruusaluksen ikkunoista. Avaruus on kiehtova ja suuri paikka.
+
+Sitten, Lilla huomasi.  Aivan lähellä, hitaasti liikuessaan, oli jättiläismäinen asteroidi. Se oli erilaisen kirkkaan vihreän sävyn ja sen pinnalla hohti kauniita kultaisia pisteitä. "Oma seikkailunsa!", Lilla äänesti ja pysähtyi kuulasta suihkukoneesta, niin ettei alus liialti kaatumu ja ajaantumi takaisin.  Pikkuvalkea hiipi hitaasti asteroidin kiertoradalle ja pian Lilla tunsi virtauksia lämpenemästä ilmakehästä asteroidin välittömästä ympäristöstä.
+
+Hän avasi Pikkuvalkeaan valtava ikkunaan ja katsoi asteroidin pintaan. Kultaiset pisteet olivat kuin pienet aurinkoiset kivikivet. Asteroidi vaikuttaa täydelliseltä palstalta upeimpia kivia, Lilla ajatteli ja päätti ottaa sen kanssa yhteyden. Hän suoristi varovasti astrosormensa astrosovitetusta kädestään ja lähetti ilmakivua asteroidin suunnalle, kuten kaikkein suosituimman ilmallavoitto-sarjan tapaan. Asteroidin pinta välähti ja pienet valonpilkut avautuivat kuin aurinkokirja. Asteroidi on yhtä kirkas kuin auringon pinnat.
+
+Lilla päätti lähettää pienen roverinsa asteroidin pinnalle.  Rover otti hitaasti ja varovasti otoskuvia ja kuvia asteroidin ulkonäköä kuvaavasta peilokuvasta.  Pian Lilla ymmärtäisi, että jokaisessa kultaisessa pisteessä on hioutunut kiehtova piilotettu viisas voima ja ne on rakennettu valkoisesta lumesta ja ylivertaisista planeettojen tähdistä. Lilla huomasi samoin, että niissä piilottaa outo tarina ja ympäröivät heikkoja raitamaisia planeettoja, joissa he ottavat yhdessä vauhtia.
+
+Silläkään Lilla ei lopettanut seikkailua. Hän kulki Pikkuvalkeaan läheisessä planeettasysteemissä, joka oli täynnä outoja ja ihania tähtiä, kaarevat galaksit ja värikkäitä sumuja. Se kuului täynnä musiikkia ja lauluja, jotka soivat toistuvasta galaksista ja kauniista tähdistä, joita kiehtoivat tähden ja tähtien välissä heikkana ja herkkana äänenä.  Lilla ja hänen avaruusalus tunsivat itsensä osaksi tätä uskomatonta galaksia, täynnä mysteerejä ja ihanuuksia. Hän tunsi yksinään onnea.
+
+Paluumatkalla, Pikkuvalkea läikähteli palimpsestön väritonnin ja kosmoksen läpi ja Lilla pohti kaikkea mitä hän oli oppinut uudesta tähtien tarinasta ja yllättävistä viisaimmista voimista, asteroidin ja planeettakasviston aarteiden salaisuuksista.  Kaikki yhdessä muodostivat upean tarinan, tarina avaruudesta ja hänen uudesta onnen kokemuksistaan ja ystävällisyydestä tähden paljastamaan valoon.
+
+Lilla maahdatetti Pikkuvalkeaan rauhallisen maan avaruustasoon, kun uusi aurinko tuotti yön, jättäen avaruusalus Pikkuvalkean avaruudessa syvän seikkailun merkin. Se palaa takaisin kotiin seuraavana iltapäivänä toiseen seikkailuun.
+</body>

@@ -1,0 +1,37 @@
+<prompt>
+Please write a timeless Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Sariq devning sarguzashtlari dunyoda'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>Sariq devning sarguzashtlari dunyoda</title>
+<body>
+Qoraqalpog'istonning quyoshli dashtlarida,  ulkan qora daraxtlar o'rtasida, Sariq dev deb nomlangan g'alati bir dev yashagan. Uning terisi quyosh nurida porlagan sariq rangda edi,  ko'zlari esa qora qora, ko'kda uchib yurgan qush qanotlari singari.  Sariq dev oddiy dev emas edi. U xayolparast, quvnoq va yuragi hamma jonivorlarga to'la edi.
+
+Har kuni tong otishi bilan Sariq dev dashtda sayr qilar, gullarni hidlar va osmonning bepoyonligini kuzatardi.  U qush qo'shiqlarini tinglar,  qoraqalpoq qo'ylarining  oyoq-qadamlarini his qilardi.  Sariq devning eng sevimli mashg'ulotlaridan biri o'zining sariq rangli dev qal'asida do'stlari bilan o'ynash edi.
+
+Bir kun, Sariq dev sayr qilib yurgan paytda,  qora tog'larning orqasidan  ulkan bulutlar  o'ziga to'la  oq rangli bo'ronlar kelayotganini ko'rdi.  Shamol esib,  daraxtlar silkirib,  dunyoga qo'rqinchli ko'rinish berayotgan edi.
+
+Sariq devning yuragi qayg'u bilan to'ldi.  U bu yomon bo'ronning hech kimga zarar yetkazmasligi kerakligini bilardi.  Yuragida qahramonlik tug'ilib,  Sariq dev tez orada o'zining qal'asidan chiqib ketdi.  Uning qal'asi Sariq devning  qalbi singari  quvnoq va iliq edi.
+
+Sariq dev yo'l bo'ylab  o'zining qoraqalpog'istonlik do'stlariga –  qo'ylarga, tuyalar va qushlarga, hamma jonivorlarga yordam berishni boshladi. Ularning uy-joylari o'rnatilgan joylarni qayta tiklay boshladi.  U o'zining qo'l ko'nikmalarini ishlatib, ularga zarar yetkazayotgan narsalarni qaytarishga harakat qildi.
+
+Sariq dev tez orada  bir nechta qishloqni topdi,  ular ham bo'ronning qurboniga aylanish arafasida edi. Ular o'z uylarini qanday qilib qutqarishni bilishmaydi edi.  Sariq dev o'zining  kattaligi va kuchiga qaramasdan, juda ham yumshoq va hurmatli edi. Ularni tinchlantirib va ularga yordam berish uchun juda ko'p harakatlarni amalga oshirdi.  Ularning qo'rqoqligidan xalos bo'lish uchun ularga ajoyib hikoyalar aytib berdi.
+
+Ularga,  bo'ron  ham,  qisqa muddatli bo'lishi,  va  quyosh  albatta  yana  chiqishi  va ularni  isitib  berishi to'g'risida  eshittirdi.  
+
+Bir yosh qizcha,  Gulchehra,  Sariq devning ajoyib hikoyalari bilan  xursand bo'lib,  u o'zini juda quvvatlanganini his qildi.  U shoshqaloqlik qilib devning  yoniga kelib,  uning qo'lidan ushlab oldi. Sariq dev  ularni qo'rqinchli  bo'rondan qanday  qutqarganini  aytib berdi.
+
+Shu bilan birga, Sariq dev  o'zining do'stlari  qo'ylar,  tuyalar va qushlar  bilan  birgalikda,  ko'plab qishloqlarni  qutqargan edi.  Ularning harakatlari  qoraqalpog'istonliklarni  quvontirib,  bo'ronni  engishga  yordam berdi.
+
+Oxir-oqibat,  bo'ron  o'tib ketdi.  Osmon yana  temir rangli bulutlardan  xalos bo'ldi.  Quyosh yana  chiqdi  va  dunyoni  yumshoq  nurlar  bilan  yoriqlardi.  Sariq dev  o'zining  qal'asiga  qaytib  keldi.  Ammo u endi  bitta dev emas edi.  U hamma jonivorlar va odamlar uchun  sevgi va  mehr  bilan  to'la  yuksak dev edi.
+
+O'sha kundan boshlab,  Sariq devning  sarguzashtlari,  qoraqalpog'iston  dashtlarida  davom etdi.  U  hamma  jonivorlar uchun  doimo  g'amxo'r,  do'stona va hurmatli edi.  Va hech qachon  hech bir  yomon  bo'ron  uning  yuragini qorong'ilata olmas edi.  Chunki u  davom etar edi,  o'zining yuragida  oshkor  qilinadigan   yorqin  qalbi bilan.
+</body>

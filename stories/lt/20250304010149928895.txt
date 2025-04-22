@@ -1,0 +1,31 @@
+<prompt>
+Please write a simple and easy-to-follow Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Karališkojo Žolyno Slėpiniai ir Stebėjimai'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lt</lang_id>
+
+<title>Karališkojo Žolyno Slėpiniai ir Stebėjimai</title>
+<body>
+Ąžuolo šaknų glėbyje, paslaptingame ir žaliame miško kampelyje, tyvuliavo Karališkasis Žolynas. Ne, tai nebuvo žolynas, kaip įprastas pievos žalias kilimas, o magiškas, spalvingas pasaulis, pilnas paslaptingų augalų. Čia augo žolės su aukso spalvos lapeliais,  gėlės skleidė šviesiai mėlyną švytėjimą, o nedideli žali žiedai dvelkė mielu, medumi kvepiančiu aromatu.
+
+Mažasis Linas, berniukas su žydrais kaip vasaros dangus akimis, norėjo atrasti Karališkojo Žolyno paslaptis.  Jis, eidamas pro  storą, suaugusių šaknų pynę, klausėsi visų aplinkui skleidžiamų garsų:  šniokštančių lapelių, supuokiančio vėjo, skardžių paukščių čiulbėjimų.
+
+Pirmasis jo paslaptingų nuotykių stebėjimas nutiko  pavasario pradžioje.  Šilta saulutė jau atšildė žemę, ir Karališkasis Žolynas prabudęs nuo žiemos miego. Linas pamatė, kaip iš  žeminės, vis dar tamsaus, ploto, lėtai  išsirita  nuostabios žaliai-auksinės gėlės, primenančios mažylius saulės spindulėlius. Gėlės skleidė švelnų, medaus kvapo kvapą.  Linas, susigūžęs prie žolės, tyliai stebėjo, kaip smulkios vabalėlės šokinėja ant gėlių lapelių, renkant gėlių nektaro.  Šie nuostabūs vabalai atrodė lyg iš mažyčių deimantų iškaldyti.
+
+Kita diena Linas pamatė šviesą mėlyną gėlę, turinčią šiek tiek šaltą žvilgesį, pasislėpusią žolės viduryje. Ji stovėjo paslapčia, nesuprantamas, atspindėdama nuostabą ir tyką dangaus. Kiekvienas  jos lapelio išryškintas smulkiai mėlynas raštas atrodė tarsi  mažas dangus ant Žolyno. Linas žinojo, kad šios  mėlynos gėlės galingas gydantis kvapas. Ir kiekvieną kartą ja pasinaudojo ir išdžiovintas šio kvapas jaudinančių šiek tiek šaltu aromatu , Linas gydydavo mažus  skaudžius įkandimų padarinius, užpuolančius gyvūnus iš miško pakraščio, ar patyręs žmonę uždegimus  ar uždegiminius procesus. Linas žinojo, kad kiekvienas augalas yra svarbus šiam pasakiškam pasauliui.
+
+Žiemos metu Linas nuolat stebėjo paslaptingą žolyną.  Jis matė, kaip paslaptingų, žalių pumpurų, vis dar neatskleisdami  sau savo grožio ir spalvų, atbundantys su pirmaisiais pavasario spinduliais, kurie įšildo juos tarsi švelnūs pūkelės.   Vos pastebima žalsvai balta rūšies  plėvė, suskleista šviesiai mėlynuosias  tašką ,išskleidė magiško šypsnio, sklindantis nuo augalų žolėse.
+
+Linas rašė visus žolyno augalus,  išrašinėdamas jų ypatumus  ir savybes,  jo sąsiuvinis virto ne tik stebėjimų ir atradimo knyga, bet ir tikros paslaptingų savybių Žolyno gidas. Vieną vakarą, atvykęs  pastatytą  pasaulį su žydiomis ir žolemis, Linas atrado  nepaprastą  augalą.  Žydroji žvaigždė, turinti plačias, žvakių formos lapas su spindesiais raštais. Ir iš  jums jis išaugo nuostabi  kitimi-iš šimtmečių  baltiams auksiniais stiebeliais žavisi. Žydi žydi į auksiną spindulį, pripildydama orą iš pačios nakties gilios gražesnio švelnaus kvapą. Žvaigždės pavadinimas buvo Karališka žolė.  Jos žiedai buvo ne tik gražūs, bet ir galingi gydomieji ingredientai.
+
+Lino žingsniai Karališkajame Žolyne vis labiau gilinosi, jo žinios apie augalus  sustiprėjo. Jis supramo, jog nėra tik atsitiktinis augalų pasaulis, bet didelis ir sudėtingas organizmas su savo dėsniais, ir savybėmis. Linas  suprato, jog viskas Žolyne tarpusavyje susiję – nuo mažiausio vabalėlio iki didžiausio medžio.
+
+Šiame stebėjime išaugo gilus dėkingumas,  nuolatinė pagarba ir susipažinimas su kiekvienu paslapčių spindulių. Linas dar ilgai tyrinėjo  Karališkąjį Žolyną, atskleidęs ir sukaupęs  jo stebėjimų  rezultatų, kas jį įtraukė  žolininku  tarp kitų.  Dabar kiekvienas miško tvarinys ir gyvūnas žino, kad Karališkame Žolyne gyvenantis Linas  – paslaptingų augalų meistras, turintis didelę įgūdžių atskleidžia žodyną.
+</body>

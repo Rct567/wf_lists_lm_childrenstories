@@ -1,0 +1,65 @@
+<prompt>
+Please write a light-hearted Welsh children's story that is at least 1000 words long.
+It must be completely written in proper Welsh (CY).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Plant y Castell a'r Teithiwr Mawr'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>cy</lang_id>
+
+<title>Plant y Castell a'r Teithiwr Mawr</title>
+<body>Roedd castell hynod o hardd yn sefyll ar ben bryn uchel, gyda chwareli o gerrig a choedwig o dderw a phinwydd o'i gwmpas. Roedd y castell yn gartref i deulu o blant bach, sef Ieuan, Catrin, a'r baban, Rhys. Roedd eu rhieni, y Brenin a'r Frenhines, yn rheolwyr cyfiawn a charedig, ond roeddent yn aml yn mynd ar deithiau i wledydd pell i ymgyngori â'r brenhinoedd a'r breninesau eraill.
+
+Un diwrnod, tra roedd y Brenin a'r Frenhines allan, daeth teithiwr mawr i'r castell. Roedd yn dyn hynod o ddigywilydd, gyda gwallt coch a llygad gleision. Roedd ganddo bag siôl mawr ar ei ysgwydd, a chroes o bren yn ei law. Roedd yn teithio o wlad i wlad, yn chwilio am anturiaethau newydd.
+
+"Shwmae, plant bach!" meddai'r teithiwr, wrth iddo gyrraedd y castell. "Beth yw'ch enwau, a beth yw'ch hoff fawrth?"
+
+Roedd Ieuan, Catrin, a Rhys yn synnu i weld y teithiwr, ond roeddent hefyd yn awyddus i siarad ag ef. "Shwmae, sir!" meddai Ieuan. "Rwy'n Ieuan, a'r plant yma yw fy chwaer, Catrin, a fy ngwraig, Rhys."
+
+"Rwy'n hoffi'r enwau hynny!" meddai'r teithiwr. "A beth yw'ch hoff fawrth, felly? Ydych chi'n hoffi chwarae, neu ydych chi'n hoffi darllen?"
+
+Roedd Catrin yn dweud, "Rwy'n hoffi chwarae, yn enwedig chwarae gêm y castell. Rwy'n mynd i'r castell, a'r gelynion yn mynd i'w ddinistrio."
+
+"Ah, gwyn!" meddai'r teithiwr. "Rwy'n hoffi chwarae gêm y castell hefyd. A Rhys, beth yw dy hoff fawrth, bach?"
+
+Roedd Rhys yn dweud, "Ga ga! Rwy'n hoffi chwarae â'r bêl, a'r ci yn mynd i'w chwilio."
+
+"Ah, bach!" meddai'r teithiwr. "Rwy'n hoffi chwarae â'r bêl hefyd. Ieuan, a allaf i chwarae gêm y castell gyda thi, a Catrin, a allaf i chwarae â'r bêl gyda Rhys?"
+
+Roedd y plant yn cytuno, a dechreuodd y teithiwr i chwarae gêm y castell gyda Ieuan a Catrin, a chwarae â'r bêl gyda Rhys. Roedd y castell yn llawn iâ, a'r plant yn chwarae yn hapus.
+
+Ar ôl y prynhawn, daeth y teithiwr i'r ystafell fawr, a dechreuodd i siarad â'r plant am ei deithiau. "Rwy'n mynd i wledydd pell," meddai. "Rwy'n gweld anturiaethau newydd, a rwy'n cwrdd â phobl newydd. Rwy'n mynd i'r môr, a'r mynyddoedd, a'r coedwigoedd."
+
+Roedd y plant yn synnu i glywed am y teithiau, a gofynodd Ieuan, "A beth yw'r antur fawrth, felly? A beth yw'r peth mwyaf cyffrous rydych chi wedi ei wneud?"
+
+"Ah, gwyn!" meddai'r teithiwr. "Rwy'n mynd i'r môr, a'r llong yn mynd i'r môr. Rwy'n gweld y morfilod, a'r dolffiniaid, a'r adar y môr. Rwy'n mynd i'r mynyddoedd, a'r mynydd yn mynd i'r awel. Rwy'n gweld y lleoedd uchel, a'r cymoedd isel."
+
+Roedd y plant yn awyddus i clywed mwy, a gofynodd Catrin, "A beth yw'r peth mwyaf cyffrous rydych chi wedi ei wneud, felly? A beth yw'r antur fawrth?"
+
+"Ah, bach!" meddai'r teithiwr. "Rwy'n mynd i'r coedwig, a'r coedwig yn mynd i'r tywyllwch. Rwy'n gweld y creaduriaid, a'r planhigion, a'r afonydd. Rwy'n mynd i'r afon, a'r afon yn mynd i'r môr. Rwy'n gweld y pysgod, a'r llyswennod, a'r glaswellt."
+
+Roedd y plant yn synnu i glywed am y teithiau, a dechreuodd Rhys i siarad am ei hoff fawrth. "Ga ga! Rwy'n hoffi'r bêl, a'r ci yn mynd i'w chwilio."
+
+"Ah, bach!" meddai'r teithiwr. "Rwy'n hoffi'r bêl hefyd. A Ieuan, a Catrin, a beth yw'ch hoff fawrth, felly? Ydych chi'n hoffi chwarae, neu ydych chi'n hoffi darllen?"
+
+Roedd Ieuan yn dweud, "Rwy'n hoffi chwarae, yn enwedig chwarae gêm y castell. Rwy'n mynd i'r castell, a'r gelynion yn mynd i'w ddinistrio."
+
+"Ah, gwyn!" meddai'r teithiwr. "Rwy'n hoffi chwarae gêm y castell hefyd. A Catrin, a beth yw dy hoff fawrth, felly? Ydych chi'n hoffi chwarae, neu ydych chi'n hoffi darllen?"
+
+Roedd Catrin yn dweud, "Rwy'n hoffi chwarae, yn enwedig chwarae gêm y castell. Rwy'n mynd i'r castell, a'r gelynion yn mynd i'w ddinistrio."
+
+"Ah, bach!" meddai'r teithiwr. "Rwy'n hoffi chwarae gêm y castell hefyd. A Rhys, a beth yw dy hoff fawrth, felly? Ydych chi'n hoffi chwarae â'r bêl, neu ydych chi'n hoffi darllen?"
+
+Roedd Rhys yn dweud, "Ga ga! Rwy'n hoffi chwarae â'r bêl, a'r ci yn mynd i'w chwilio."
+
+"Ah, gwyn!" meddai'r teithiwr. "Rwy'n hoffi chwarae â'r bêl hefyd. A Ieuan, a Catrin, a Rhys, a beth yw'ch hoff fawrth, felly? Ydych chi'n hoffi chwarae, neu ydych chi'n hoffi darllen?"
+
+Roedd y plant yn cytuno, a dechreuodd y teithiwr i chwarae gêm y castell gyda Ieuan a Catrin, a chwarae â'r bêl gyda Rhys. Roedd y castell yn llawn iâ, a'r plant yn chwarae yn hapus.
+
+Ar ôl y prynhawn, daeth y teithiwr i'r ystafell fawr, a dechreuodd i siarad â'r plant am ei deithiau. "Rwy'n mynd i wledydd pell," meddai. "Rwy'n gweld anturiaethau newydd, a rwy'n cwrdd â phobl newydd. Rwy'n mynd i'r môr, a'r mynyddoedd, a'r coedwigoedd."
+
+Roedd y plant yn synnu i

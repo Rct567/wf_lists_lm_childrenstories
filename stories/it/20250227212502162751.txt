@@ -1,0 +1,88 @@
+<prompt>
+Please write a fun and entertaining Italian children's story that is at least 1000 words long.
+It must be completely written in proper Italian (IT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La Giraffa che Imparò a Volare con le Ali'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>it</lang_id>
+
+```xml
+<title>La Giraffa che Imparò a Volare con le Ali</title><body>
+C'era una volta, in un paese meraviglioso chiamato Zelandia, una giraffa di nome Ginevra. Ginevra era una giraffa molto speciale, non solo per il suo lungo collo maculato, ma soprattutto perché sognava in grande. Tutte le altre giraffe di Zelandia trascorrevano le loro giornate a brucare le foglie succose degli alberi di acacia, a chiacchierare e a guardare il tramonto rosa sull'orizzonte. Ginevra, invece, guardava il cielo. Osservava gli uccelli che, con le loro ali, danzavano liberi tra le nuvole.
+
+«Ah, se potessi volare come loro!» sospirava Ginevra, con un lungo sospiro che faceva sussultare le foglie degli alberi.
+
+Le altre giraffe la prendevano in giro. «Ma dove vuoi andare, Ginevra? Le giraffe non volano! Sei fatta per stare con i piedi a terra, e non per fluttuare in cielo!» dicevano, scuotendo la testa e ridacchiando.
+
+Ginevra non si arrendeva. Sapeva nel suo cuore che c'era qualcosa di più oltre le alte vette degli alberi di acacia. Decise di trovare un modo per realizzare il suo sogno impossibile.
+
+Un giorno, mentre passeggiava vicino alla riva di un fiume cristallino, Ginevra incontrò un vecchio gufo saggio di nome Ulisse. Ulisse era famoso in tutto il regno per essere gentile, ingegnoso e possedere una libreria piena di libri magici e antiche pergamene.
+
+«Buongiorno, cara giraffa. Sembra pensierosa,» disse Ulisse, con la sua voce profonda e rassicurante.
+
+Ginevra raccontò al gufo del suo sogno di volare. Ulisse ascoltò attentamente, annuendo con la testa. Quando Ginevra terminò, Ulisse sorrise.
+
+«Il tuo sogno non è impossibile, Ginevra. Ogni cosa è possibile se credi in te stessa e se sei disposta a lavorare sodo per realizzarlo. Conosco un modo per aiutarti.»
+
+Ulisse la portò nella sua libreria, dove il profumo di incenso e pergamena riempiva l'aria. Preso un vecchio libro rilegato in pelle dorata e lo aprì. Le pagine erano piene di disegni intricati e misteriosi simboli.
+
+«Questo è un manuale di ingegneria alata,» spiegò Ulisse. «Contiene i segreti per costruire delle ali! Ma preparati, perché richiederà impegno e tanta pazienza.»
+
+Ginevra, piena di entusiasmo, accettò la sfida. Iniziò a studiare il manuale insieme al gufo. Imparò i nomi delle varie parti di un'ala, le leggi dell'aerodinamica e le tecniche per costruire strutture leggere ma robuste.
+
+Il primo problema era trovare i materiali giusti. Ulisse la consigliò di cercare piume di uccelli nella foresta, legno leggero di balsa e tessuto resistente per rivestire le ali. Ginevra accettò la sfida.
+
+Ogni mattina, prima che il sole sorgesse, Ginevra si metteva in cammino. Visitava i luoghi più nascosti di Zelandia, raccogliendo piume colorate cadute dagli uccelli più esotici: piume verdi dai pappagalli, piume blu dai martin pescatori e piume rosse dai fenicotteri.
+
+Riuscì a trovare le piume, ma il legno di balsa era un'altra storia. Cresceva solo in una zona molto lontana, in una valle nascosta tra le montagne più alte. Ginevra, con le sue lunghe gambe e il collo lungo, non aveva paura delle distanze. Si mise in viaggio, superando fiumi impetuosi, attraversando pianure sconfinate e scalando dolci colline.
+
+Dopo giorni di cammino, finalmente raggiunse la valle. Trovò alberi di balsa altissimi e leggeri come il vento. Tagliò con cura dei rami e li trasportò indietro, con fatica, ma con il cuore pieno di gioia.
+
+Il tessuto era la parte più difficile. Ulisse le consigliò del filo di seta molto resistente, ma costava moltissimo. Ginevra ebbe un'idea. Chiese aiuto agli altri animali di Zelandia. I bruchi fornirono i bozzoli di seta, i ragni tessero delle tele resistenti e gli uccelli le aiutarono a dipingere il tessuto con colori vivaci.
+
+Tornata da Ulisse, Ginevra era pronta per iniziare la costruzione. Ci vollero settimane, mesi di lavoro instancabile. Ginevra costruiva, tagliava, cuciva e incollava, seguendo alla perfezione le istruzioni del manuale, il tutto sotto la guida del gufo Ulisse, che con la sua saggezza e i suoi occhi penetranti, la aiutava ad ogni minimo dettaglio.
+
+Le dita di Ginevra, per quanto grosse, sapevano accostare con precisione i piccoli materiali. Il suo collo lungo e flessibile le permetteva di raggiungere angolazioni impossibili per altre giraffe.
+
+Alla fine arrivò il grande giorno. Le ali erano pronte. Erano enormi, coloratissime e bellissime. Ginevra le indossò con emozione. Le legò saldamente alle spalle, con delle robuste cinghie di cuoio. Si sentiva strana e felice, ansiosa e trepidante.
+
+Si recò sulla cima della montagna più alta di Zelandia, con Ulisse al suo fianco e, a distanza, tutte le altre giraffe, Curiosi, ma allo stesso tempo scettiche. Il vento soffiava forte, come per salutarla.
+
+Ginevra inspirò profondamente, chiuse gli occhi per un istante e poi li aprì di scatto. Le sue gambe tremavano leggermente.
+
+«Ricorda, Ginevra,» disse Ulisse con voce calma, «sii coraggiosa. Credi in te stessa. E non dimenticare: il volo è una questione di equilibrio.»
+
+Ginevra sorrise. «Certo, Ulisse. Non dimenticherò.»
+
+Fece due passi in avanti e si lanciò nel vuoto.
+
+Per un attimo, sentì la sensazione della caduta libera. Poi, con un colpo di reni, iniziò a battere le ali. Le ali, inizialmente, pesavano molto, ma Ginevra, con forza e determinazione, le sollevò. Si librò nell'aria, combattendo contro il vento. Salì, salì sempre più in alto.
+
+Le altre giraffe la guardarono dalla cima della montagna, con occhi sgranati. Qualcuna esclamò di stupore, qualcun’altra trattenne il fiato.
+
+Ginevra volava!
+
+Volava sopra le montagne, sopra le pianure, sopra i fiumi. Volava libera, come un uccello. Il vento le accarezzava il viso, il sole le riscaldava la schiena. Vedeva il mondo da una prospettiva completamente nuova.
+
+Fece cerchi nel cielo, eseguì virate e picchiate. Si sentiva felice, più felice di quanto avesse mai immaginato.
+
+Dopo aver fatto il suo volo, tornò sulla cima della montagna. Atterrò, con un po' di difficoltà, ma con un sorriso immenso stampato sul muso.
+
+Le altre giraffe, avvicinandosi, rimasero senza parole. Non potevano credere a ciò che avevano visto. La loro amica Ginevra, la giraffa sognatrice, aveva compiuto l'impossibile.
+
+«È...è incredibile, Ginevra!» disse una di loro, balbettando.
+
+Ginevra sorrise. «Non è impossibile, basta crederci.»
+
+Da quel giorno, Ginevra diventò un simbolo di coraggio e determinazione per tutti gli animali di Zelandia. Condivideva la sua esperienza con tutti, raccontando loro l'importanza di seguire i propri sogni, di non arrendersi mai e di credere in se stessi.
+
+Ginevra continuò a volare ogni giorno, godendosi la libertà del cielo. E ogni volta che vedeva un altro animale guardare il cielo con desiderio, gli sorrideva, sapendo che, anche per lui, il sogno di volare poteva diventare realtà.
+
+E così, la giraffa che imparò a volare con le ali, grazie alla sua tenacia e al suo coraggio, dimostrò a tutto il mondo che, con la giusta determinazione, niente è impossibile. La storia di Ginevra divenne una leggenda, tramandata di generazione in generazione, un monito a non smettere mai di sognare e a credere sempre in se stessi, anche quando gli altri dicono che è impossibile. E per sempre, nel cuore di Zelandia, il ricordo di Ginevra, la giraffa alata, risplenderà come una stella nel cielo.
+</body>
+```

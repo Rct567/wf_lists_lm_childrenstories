@@ -1,0 +1,36 @@
+<prompt>
+Please write a creative and original Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Jak králík Oliver vyhrál závod kolem světa'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Jak králík Oliver vyhrál závod kolem světa</title>
+<body>
+Králík Oliver, drobný, ale s velkými sny, žil v malebné díře pod mrkví.  Svými štíhlými nožičkami a energickým srdíčkem si Oliver představoval svět plný dobrodružství.  Slyšel pověsti o závodě kolem světa, závodě, v němž se srazí nejrychlejší tvorečci z celého kraje – o závodě, o němž se zpívaly písně v noci pod hlubokými kořeny dubů.
+
+A tak jednoho slunného rána, když se jiskry rosy třpytily na lístkách malin, Oliver s urputnou odhodlaností nasedl na své rozbité, ale věrné, dřevěné kolo.  Jeho klobouk s motýlkem mu špičatě a odhodlaně ležel na hlavě, a na hrudi nosil maličký štít s vyrytou hnědou mapou světa, kterou mu nadšeně vyrobil tatínek, starý, moudrý králík, který byl v závodě kolem světa také v dávných dobách.
+
+"Cesta bude dlouhá, Oliveri," řekl tatínek králík vlídným hlahol, "a plná překážek. Budeš potkávat lesní obra, jehož hlava je plná hřibů a jeho oči ohromujících snů. Setkáš se s řadou zvědavých zajíců, kteří budou vyprávět strašlivé příběhy o hrozivých vlčích vlnech, a budeš muset přeskočit potok z kamene na kámen."
+
+"Nebojím se," odvětil Oliver odhodlaně, s odvahou a tvrdošíjností malého hrdiny.  "Můj sen je silnější než všechny obavy!"
+
+A tak se vydal na cestu.  První překážkou byl potok s velkými a divokými kameny. Oliver, když prozkoumával nejrychlejší skoky, se skok za skokem dostal na protější břeh a radost z dosaženého cíle ho naplnila. Potom se setkal s lesním obřem. Hřiby mu rostly z hlavy, a on se v očích skrýval nesčetné příběhy lesů. Ale Oliver nepanikařil, a místo toho se mu do úsměvu podařilo vtáhnout i lesního obra. Obř pochopil Oliverovu radost ze závodu a Oliver s úsměvem na tváři přešel dál.
+
+Další dny byly plné úžasných setkání.  Oliver se dostal do kraje medvědů, jejichž hlasitá učí se chůze doprovázeli jeho pouť. Setkal se s líščaty a jejich zlomyslnými otázkami, s zajíci a jejich skokem v nebe, a s ptáky a jejich tichými písněmi.  Na každém rohu potkával nové kamarády. Učil se jazyky květin a rozuměl moudrosti listí, a jeho srdíčko roste se smíchem.
+
+
+Na své pouti, Oliver potkal moudrého jestřába, který ho poučil o větrných proudech a tajném umění orientace podle hvězd. Jestřáb mu také dal větev s netopýrím kožichem, které posílí Oliverovu odvahu a ochránil ho před nočními mraky a temnými neštěstími. A tak Oliver, plný nově nalezené moudrosti a radosti, pokračoval ve svém závodě.
+
+Jednoho dne se dostal na okraj obrovského a hlubokého moře.  Věděl, že tady, v rozlehlých vodách oceánu, čeká na něj další výzva. Bez otálení překonal Oliver úchvatnou vlnobití a na protilehlém břehu potkal skupinu želv.  Želvy mu pověděly příběh o tajemství mořského proudu a jak se dostat nejrychleji přes oceán.  Oliver, s touto novou informací, si s radostí nasedl na záda ryby, která ho přes oceán a hluboký podvodní svět.
+
+Když konečně došel ke cíli, na druhém konci země, Oliver byl unavený, ale nesmírně šťastný.  Běžel do ramene starého králíka a objal ho těsně v objetí. S úžasem, vzrušením a blaženosti přemohl Oliver svou cestu. Dokázal to, a zlomyslné oči všech tvorečků byly udivené. Závod byl těžký, ale Oliver s hrdostí prohlásil: „Ovládám! Dosahl jsem!“
+
+A tak Oliver, drobný králík, zvítězil. Jeho závod kolem světa se stal legendou, pověstí o odhodlání a moudrosti, a na úžas celého kraje, v něm se stal králem.  A ačkoli na sobě nosil jenom dřevěné kolo, jeho štít s mapou světa byl krásně odhalen.  S každým dnem a na všech místech, jimiž prochází, bude tato odvaha světlem jeho duše.
+</body>

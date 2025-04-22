@@ -1,0 +1,37 @@
+<prompt>
+Please write a creative and original Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Životopis slavného českého hrdiny dívky'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Životopis slavného českého hrdiny dívky</title>
+<body>
+Malá Anička se narodila pod stromem s úsměvem, který se leskl jako jiskřička v ranním rosy. Byla to běžná holčička, s blond vlasy, které se jí proplétaly jako zlatý proužek, s modrýma očima, jako když se díváte do sametové oblohy, a s úsměvem, který se nikdy neskrýval.  Bydlela v malém, starobylém domku na okraji lesa, plného tajemství a vůní jehličnatých stromů.  Anička však nebyla obyčejná holčička.  V jejím srdci se skrývalo neobyčejné odhodlání, a v očích jiskra odvahy.
+
+Její denní rutina se skládala z běžných dětských aktivit: hraní s kamarády, sbírání květin v lesíku a povídání si s ptáčky.  Ale když se setmělo, Anička trávila čas v tajném koutku zahrady, kde se skrýval starý, zdánlivě obyčejný strom.  Anička věděla, že tento strom je speciální.  Byl to strom, který mluvil, když se na něj uslyšela tišešeptat.  A strom jí vyprávěl příběhy o dávných čarách a o hlubokých tajemstvích lesa.
+
+Jednoho slunného podzimního dne, když Anička sbírala kaštany, najednou se les ztmavil.  Z údolí se ozýval děsivý řev.  Anička se bála, ale zároveň cítila, že musí něco udělat.  Slyšela, jak volá o pomoc starý strom.  "Anička," šeptal strom, "v lese se ukrývá zlo. Zlo zvané Šedá mlha, která se živí strachem a smutkem.  Musíš ji zastavit."
+
+Anička, i když se bála, věděla, že je to její povinnost.  V srdci se jí probudilo neobvyklé odhodlání.  Věděla, že musí bojovat proti Šedé mlze, i když byla sama.  S úsměvem na tváři, i když s tlukoucím srdcem, se vydala na cestu.
+
+Cesta byla dlouhá a nebezpečná.  Šedá mlha se jí zjevovala v různých podobách: jako strašidla, jako zlé víly a děsivé stíny.  Anička se snažila vypořádat s každým strachem, který ji mlha přinášela.  Zastavila se u potoka a vypila vodu.  Přála si, aby ji posílila a dala jí odvahu.  A najednou, kdy se dívala na svou odraz v tůňce, se jí na tváři objevil vtipný úsměv.  Uvědomila si, že strach jenom upevňuje odhodlání a že sama je silná.
+
+Uprostřed lesa, v temné jeskyni, Anička narazila na Šedou mlhu.  Byla to obrovská, temná bytost, která se plížila po zemi.  Anička se na ni nerozzlobeně podívala.  Vzala hluboký nádech a oslovila ji: "Šedá mlho, proč děláš lidem tolik zla?"
+
+Šedá mlha se zasmála děsivým smíchem.  "Zlo je mnou, Anička," řekla.  "Všechno zlé a smutné se mi líbí.  Potřebuji se živit strachem, abych mohla žít."
+
+Anička se neusmála, ale podívala se na Šedou mlhu a řekla: "Ale já tě se svým strachem nenaplním.  Mám v srdci radost a odvahu.  A ty se mi s tím nemůžeš vyrovnat."
+
+Anička začala zpívat píseň o radosti a o odvaze.  Její hlas se šířil lesem a pronikl i do srdce Šedé mlhy.  Píseň se proměnila v záři, která rozptýlila Šedou mlhu na malé kousky.
+
+Šedá mlha se rozplynula do vzduchu a zmizela.  Les se rozzářil sluncem, a všichni ptáci se radovali.  Anička se vrátila domů jako hrdinka, jako dívka, která dokázala porazit zlo.  Stromy se zvedly ke korunám a zdraví se.  A Anička věděla, že v srdci každého člověka, ať už je to dítě nebo dospělý, se skrývá velké dobro a velké odhodlání. Od té chvíle se stala známou jako "Malá hrdinka z lesa" a její příběh se šířil všemi koutky Česka.
+
+A tak skončil životopis slavné českého hrdiny dívky, Aničky.  Příběh o síle odvahy, lásky a radosti.
+</body>

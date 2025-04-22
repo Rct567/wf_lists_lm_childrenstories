@@ -1,0 +1,33 @@
+<prompt>
+Please write a creative and original Bosnian children's story that is at least 1000 words long.
+It must be completely written in proper Bosnian (BS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Velika potraga za izgubljenim blagom'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>bs</lang_id>
+
+<title>Velika potraga za izgubljenim blagom</title>
+<body>
+U malom selu Šumica, poznatom po svojim bujnim šumama i kristalno čistim potocima, živjela je djevojčica po imenu Lena. Lena nije bila obična djevojčica. Imala je maštu veliku kao sama šuma i oči koje su sjale kao dragulji.  Jednog sunčanog jutra, dok je skupljala cvijeće uz potok, Lena je naišla na staru, izlizanu kartu. Na karti je bio nacrtan zmijasto vijugav put, a na kraju njega, skriven među drvećem, bio je misteriozni simbol.
+
+Lena je prepoznavala detalje sa karte.  Bilo je to mjesto gdje se sastajala tri potoka – Bistri, Vjetrovni i Tihi – mjesto koje je znala da postoji ali nije nikad posjetila.  Znatiželja ju je obuzela. Šta je to skriveno na kraju puta?  Da li je to pravo blago, ili samo neka zaboravljena priča?
+
+Odmah je krenula na put.  Uzela je svoj omiljeni ruksak pun zaliha – sušene šljive, orahe i, naravno, knjigu pjesama.  Na putu je sretala razne životinje: snalažljivog lisca koji je prepričavao legende, veliku medvjediću koja joj je pokazala skroz dobar put, i živahnog crvenog vrapca koji je, pjevajući, pronašao skrivenu stazu.
+
+Put nije bio lak.  Lena je morala preći preko brzaka, preko strmih brda i kroz guste šume.  Cvijeće je uvenjavalo, sunce je nestajalo iza oblaka, a mrak je polako, ali sigurno, dolazio.  Ali, Lena nije odustajala.  Sećala se stihova iz svoje pjesme: "Neustrašivost je krilo koje leti kroz oluju, a hrabrost je sidro koje drži u teškim vremenima."  U njenoj duši je gorila vatra želje da otkrije tajnu karte.
+
+Nakon mnogo sati hoda, Lena je stigla do mjesta gdje su se sastajala tri potoka.  Tamo, skrivena među korijenjem drveta, nalazila se kovčeg od tvrdog drveta.  Kovčeg je bio prekriven neobičnim simbolima. Lena ga je pažljivo otvorila.  Unutra nije bilo zlatnog blaga, niti dragulja. Umjesto toga, bila je velika knjiga ispunjena slikama divljih životinja, cvijeća i ptica.
+
+Lena je otvorila jednu stranicu.  Na njoj je bila sličica medvjeda koji se grije na suncu.  Ispod nje je pisalo: "Medvjed je čuvar šume, njegov mir obogaćuje život svakog bića."  Lena je počela čitati.  Svaka stranica je pričala priču o ljepoti prirode, o važnosti prijateljstva i o harmoniji sa svijetom oko nje.  To nije bilo obična knjiga. To je bila knjiga ispunjena mudrošću.
+
+Lena je shvatila da blago nije skriveno u zlatu ili draguljima.  Blago je u ljepoti prirode, u ljubavi i u znanju.  To je bila mnogo veća nagrada od bilo kojeg kovčega.  Odlučila je da će knjiga ostati u šumi.  Pojedinačne priče su bile dovoljno velike da ih ljudi treba da čitaju i pamte.
+
+Osjećala je veliku radost i zahvalnost.  Osjećala je da je izvršila svoju misiju, ne samo da je otkrila blago, već i da je saznala o duhovnom bogatstvu prirode.  Vratila se u selo sa novim znanjem i ispunjenim srcem.  Svoje prijatelje je obavijestila o čudesnim otkrićima.  Objasnila im je kako se prijateljstvo sa prirodom, sa životinjama i sa ljudima, ispunjava dušu.
+
+Od tada, Lena je postala poznata kao djevojka koja je znala razgovarati sa životinjama, i koja je uvijek bila spremna da podeli svoju mudrost i radost sa svima.  A šuma Šumica postala je još ljepša, jer je Lena njegovu mudrost dijelila sa svim onima koji su je slušali.  I tako je priča o velikoj potrazi za izgubljenim blagom postala legenda u selu Šumica.
+</body>

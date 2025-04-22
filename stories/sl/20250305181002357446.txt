@@ -1,0 +1,47 @@
+<prompt>
+Please write a relatable Slovenian children's story that is at least 1000 words long.
+It must be completely written in proper Slovenian (SL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Zvezdna noč, ko so živali začele govoriti'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sl</lang_id>
+
+<title>Zvezdna noč, ko so živali začele govoriti</title>
+<body>
+V vasi Podpeč, kjer so se domačini ukvarjali z govedorejo in pridelavo zelenjave, je bila ena posebna noč.  Noč, polna sijočih zvezd, ki so se bleščale na črnem nebu, kot biseri razmetani po svilenih pregrinjalah.  Majhen, leseni hišic, ki so se stiskali drug ob drugem, so bili v tišini, le nežno šumenje vetra skozi vrtove je prekinjalo mir.
+
+Na travniku, tik ob hiši stare babice Ane, je živel mali zajček, po imenu Miško.  Miško je bil zelo radoveden zajček, ki je rad opazoval svet okoli sebe.  Vsako noč se je zatekel pod veliki, star javor, da bi užival v lepoti zvezd.  Ta noč je bila še posebej čarobna. Zvezde so se bleščale z neverjetno močjo, kot da bi želele razkriti skrivnosti vesolja.
+
+Miško je sedel pod javorjem in opazoval, kako se zvezde premikajo po nebu.  Nenadoma je zaslišal šepet.  "Hej, Miško," je prišel glas iz teme.
+
+Miško je zdrznil.  Ni pričakoval, da bi kdo govoril.  Ogledal se je naokoli, a ni videl nikogar.  "Kdo je tam?" je vprašal z nežnim glasom.
+
+"Jaz sem," je odgovoril glas, ki je prišel izza velikega hrasta.  "Jaz sem Jelen, kralj gozda."
+
+Miško je bil presenečen.  Jelen, kralj gozda?  Nikoli si ni predstavljal, da bi živali govorile.  "Kako je to mogoče?" je vprašal.
+
+"Noč, ko zvezde dosežejo svojo največjo moč, je noč, ko se živali prebudijo v govor.  Danes je ta noč," je odgovoril Jelen.
+
+Nenadoma so se okoli Miška začele pojavljati druge živali.  Lisica, s svojim pametno-iskrivim pogledom, se je pridružila pogovoru.  "Žal mi je, da nisem lahko bila ob tebi prej, Miško," je rekla. "Ampak zdaj smo vsi skupaj."  Medved, znan po svoji mirnosti in modrosti, se je pridružil skupini. "Slišite zgodbe o nebesih!" je rekel.
+
+Ptice so začele peti v zvezdni pesmi, govorile so o svojih letih in o lepoti, ki jo je prinesla noč.  Sova, z modrimi očmi, je pripovedovala o skrivnostnih zgodbah, ki so se dogajale v gozdu.  Žabe so se pridružile pevcem in vsi skupaj so se prepletali v neverjetno harmonijo.
+
+Miško je bil navdušen.  Nikoli prej ni bil deležen takšne čarobne noči.  Živali so mu pripovedovale zgodbe o svojih življenjih, o svojih strahovih in o svojih sanjah.  Povezali so se v čarobnem dialogu, ki je presegala vse, kar si je Miško lahko predstavljal.
+
+"Vse živali so povezane," je dejala lisica. "Vsi delimo isto zemljo in isto nebo.  Sodelujemo v istem plesu življenja."
+
+"Kaj se bo zgodilo, ko se zjutraj sonce prebudi?" je vprašal Miško.
+
+"Ko se sonce prebudi, se tišina vrne.  Govor se ustavi.  A spomini na to noč ostanejo z nami," je odgovoril Jelen.
+
+Miško je bil žalosten, da se noč končuje.  A je bil hkrati tudi srečen, ker je doživel nekaj čudovitega, nekaj, kar bo vedno ostalo v njegovem spominu.  Zdaj je vedel, da je svet veliko večji in čudovitejši, kot si je kdajkoli predstavljal.
+
+Ko se je sonce prebudi, so se živali spet umaknile v svoja običajna življenja.  Miško je sedel pod javorjem in opazoval, kako se svet okoli njega spet vrne v svojo običajno obliko.  Vendar pa ni bil sam.  V srcu je nosil spomin na čarobno zvezdno noč, ko so živali začele govoriti.  In to je bila skrivnost, ki jo je Miško vedno hranil v svojem srcu.
+
+In tako, v vasi Podpeč, kjer so se domačini ukvarjali z govedorejo in pridelavo zelenjave, je ena noč, polna zvezd, ostala v spominu vseh, ki so jo doživeli.  Noč, ko so živali začele govoriti.
+</body>

@@ -1,0 +1,46 @@
+<prompt>
+Please write a emotional Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Moudrost Starého Dubu a Jeho Rady Pro Mladé Lesní Zvěře'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Moudrost Starého Dubu a Jeho Rady Pro Mladé Lesní Zvěře</title>
+<body>
+V hlubokém lese, plném tajemství a šumění větrů, stál mohutný dub. Byl to starý dub, s kmenem silným jako věková památka, a s korunou, která se dotýkala oblačných výšin.  Jeho listy, hnědé od věků a zkušeností, šeptali tiché příběhy větru a slunce.  Dub si stál s jistotou a laskavostí, a na jeho kmeni byly vyryté stopy časů.  Tady žil moudrý starý dub, plný laskavé moudrosti.
+
+Mladé lesní zvěře - zajíci, srnky, veverky a lišky - se ho často scházely s napětím a pochybnostmi. Pro ně byl dub oporou, nejlepším posluchačem a nejdůvěryhodnějším poradcem.  Tihle drobní tvorové s radostí proplétali své cesty do hlubin lesa k velkému dubu a vždy v něm nacházeli podporu. 
+
+Jednoho deštivého podzimního dne, když se listí na stromech krčilo a kaluže na cestách leskem jiskřily, se k starému dubu shromáždila skupinka malých zajíčků.  Byla to Terezka, rychlá a zvědavá s kulatýma černýma očima, Honzík, s lehce tichouvá povahou, a malá Jitka, plachá, ale s krásnými ušima jako kachní pera.
+
+"Pane Dubě," ozvala se Terezka.  "My nemáme štěstí.  Naše oblíbené místo pro krmení je plné zajících stop, je tam všude bláto a všude je mnoho nebezpečí!"
+
+"Můj dědice," odpověděl starý dub, jeho hlas hluboký a plný ticha. "Překáží vám, že je tu mnoho zvěře?"
+
+"No... myslíme si že je to tak," ozval se Honzík s tichým přitakáním.  "Nikdo tam už nenachází vhodné prostředí pro odpočinek. Je to jako když se hrabeš v kaluži, je tam hodně bláta a obvykle se tam nebezpečí shromažďuje."
+
+"Ale proč by to pro vás nebylo štěstí?" zeptal se Dub, kroutem silných větví.
+
+"My bychom rádi měli pokoj a soukromí a ti další ho stále berou!" ozvala se Jitka tiše a smutně.
+
+
+"Mladí zajíčkové,"  hlubokým hlasem pokračoval dub, " štěstí není v tom mít všechno samy pro sebe.  Štěstí je v sdílení a v nalezení harmonie. Je pravda, že v nouzi může pomoc dorazit od kamaráda, ale ne nadarmo se říká, že radost má být sdílená."
+
+"Sdílet? Jak to?" zmateně se ptal Honzík.
+
+"Pojďte se mnou, za tmou stínu a do chladu větví se skrývají mnohé krásy," řekl starý dub a vede je.
+
+"Les nabízí všem hojnost." Ukázal dub na krásný ovocný strom, pověšený plody ve všech barvách. "Skliďte ovocné dary s vděkem a poznáte, jak se daří tvořivým duchům, když najdou prostor pro spolupráci."  Dub jim s milostí vysvětloval jak by mohli v tom malém údolí a lesích sdílet radost a tvořit. Vybavil jim v paměti mnoho chvil, kde by mohli žít štěstím a vzpomínkami s jinými.
+
+Terezka, Honzík a Jitka se zamysleli. Skutečně, dub má pravdu! Možná by se s dalšími zajíčky a zvířátky mohli naučit spoluvytvářet údolí pro všechna zvířata, a sdílet potravu, hry a útočiště.
+
+Od té doby se malé zajíčky snažily sdílet své nalezené pokladky a radovaly se s jinými zvířátky. Spolu hlídali i opuštěné lesy a jejich cesty. V jejich údolí zazněly smíchy a zpěvy, plné spokojenosti a naděje. Les se s nimi sdíleli potravu a štěstí.
+
+Pak se uklonili ke svému starému dubu, s vděkem a novým štěstím v srdci.  Pochopili, že moudrost a štěstí spočívají v laskavosti, soucitu a sdílení - a že radost může přinést i to nečekané dobrodružství v životě. Starý dub, spokojeně pokrývajíci se hnědými listy,  je zjevně šťastný a s radostí a moudrostí vyhledává ty nejsilnější větry.   A les, hluboký a plný tajemství, věděl, že jeho moudrost nikdy nevyprchala a bude po generace inspirovat další životy.
+</body>

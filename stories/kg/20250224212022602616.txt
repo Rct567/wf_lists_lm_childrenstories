@@ -1,0 +1,35 @@
+<prompt>
+Please write a relatable Kongo children's story that is at least 1000 words long.
+It must be completely written in proper Kongo (KG).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Nsuka Ya Ku Mvula Na Mboka'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>kg</lang_id>
+
+<title>Nsuka Ya Ku Mvula Na Mboka</title>
+<body>
+Mvula ya ndonga yabaka, yabaka ntangu ya mvimba.  Bilongo bya bantu byasumbama na mboka, mpi bima byonso byakebisa.  Mwana mosi ya nzoloko, zina na yandi kele Mbemba, yandi vandaka na mawa sambu na bima yonso yina yabebisama.  Yandi vandaka kudimona bonso mbeka ya mpimpa ya mbi.
+
+Mbemba vandaka kubaka ntangu ya mvimba na kutadila bambeni ya kele na ntoto.  Bantu ya nene vandaka kutuba nde, "Nsuka ya mvula ya zola me kwisa."  Mbemba yingilaka, kansi yandi vandaka na mpasi.  Mpila ya nkufi, yandi vandaka kudimona bonso kibeni, muntu ya ntama.
+
+Kilumbu mosi, yandi waka ndinga ya mbote.  Ndonga ya mvula yabaka ntangu ya fioti, mpi mvula yina yandaka kulanda.  Mbemba, na kinsansa ya ntima, yandi ndimaka kusala mambu ya mfunu.  Yandi kwenda na mboka ya ngolo.  Bantu ya mboka, bo vandaka kudimona ti mpasi, kansi Mbemba vandaka kutuba nde, "Beno kudimona ve bonso ve bantu ya mpimpa.  Beno kele bantu ya luzingu ya mbote mpi beno fwete ndima."
+
+Yandi waka bantu ya mboka ke tuba nde, "Mvula me katuka, bo me katuka.  Beto ke zabaka ve ntangu ya nsuka."  Mbemba, na ntima ya ngolo, yandi tubaka nde, "Bantu ya mbote, beno fwete vanda ti luzingu ya mbote.  Beno fwete vanda ti luzingu ya mbote.  Beno fwete vanda ti luzingu ya mbote."
+
+Mbemba monaka nkento mosi, nkento ya nzoloko, yina vandaka kudimona ti mpasi. Yandi vandaka kudimona bonso muntu ya nkaka.  Nkento yango vandaka kutuba nde, "Mono me vanda na mpasi.  Nzambi me vila mono."  Mbemba tubaka nde, "Ve, Nzambi me vila nge ve.  Nge kele muntu ya mbote.  Nge fwete vanda na kiese."
+
+Mbemba vandaka kusala mambu ya mbote na bantu yonso.  Yandi vandaka kutuba nde, "Beto me fyoti.  Beto fwete vanda na kiese mpi beto fwete sala mambu yina ta pesa beto kiese."  Yandi vandaka kupesa bantu madya mpi matadi.  Yandi vandaka kupesa bantu yonso mambu yina bo vandaka na yo mpasi.  Bantu yonso na mboka vandaka kudimona bonso bantu ya mbote.
+
+Kilumbu mosi, nkento yango, yina vandaka kudimona ti mpasi, yandi monaka nde mambu yina Mbemba vandaka kusala vandaka mbote.  Yandi tubaka nde, "Mono ke zaba nde Nzambi me vila mono ve."  Yandi yantikaka kusala mambu ya mbote mpi.  Yandi yantikaka kusala mambu ya mbote mpi.  Mpi yandi yantikaka kusala mambu ya mbote mpi.
+
+Bantu ya mboka yantikaka kusala mambu ya mbote.  Bo yantikaka kusala misala ya ntima ya mbote mpi ya mbote, sambu bo zolaka Mbemba.  Bo yantikaka kusala mambu ya mbote mpi.  Bo yantikaka kusala mambu ya mbote.
+
+Mbemba vandaka na kiese sambu yandi vandaka kudimona bonso muntu ya mfunu.  Yandi vandaka kudimona bonso muntu ya mbote.  Yandi vandaka kudimona bonso muntu ya mbote.
+
+Na nima ya ntangu ya fioti, mvula yabaka ntangu ya fioti mpi ntangu ya mbote yina yakatuka.  Mboka yina vandaka na kiese mpi yandi vandaka na luzingu ya mbote, sambu na bantu yina vandaka na kinsansa ya ntima.  Mbemba, mwana ya nzoloko, yandi vandaka na kiese sambu yandi monaka nde, na nsuka ya mvula, luzingu ya mbote ke vandaka.
+</body>

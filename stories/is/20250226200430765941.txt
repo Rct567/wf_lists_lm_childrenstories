@@ -1,0 +1,34 @@
+<prompt>
+Please write a simple and easy-to-follow Icelandic children's story that is at least 1000 words long.
+It must be completely written in proper Icelandic (IS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Frægar sögur af dýrum og fuglum'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>is</lang_id>
+
+<title>Frægar sögur af dýrum og fuglum</title>
+<body>
+Hér í skóginum, í hjartanu á landinu, búa fjölmargir dýr og fuglar. Þeir eru ótrúlega frægir fyrir sína fróðleika og eiginleika, og hver og einn hefur sögu að segja. Nú ætlum við að fara í ferðalag með þeim og uppgötva sögu hverrar skepnu.
+
+Í heiðum landsins, þar sem sólin skín sterkt, býr stór og glæsileg hrúta, með nafni Hrútahlíð. Hrútahlíð er fræg fyrir sína stærð og kraft, en enn meira er hún fræg fyrir sitt blíðleika.  Einn dag, þegar Hrútahlíð var að skokka í stóru, grænni graslendi, sá hún smá, grátt kanína, sem var hrikalega hræddur. Kaníninn, sem hét Hræslan, var ótrúlega veikur og sætti hann ekki að kynnast dýrinu. Hann hafði frumraunina sökkt undir höggur hræðslu.
+
+
+Hrútahlíð tók á sér og hressti Hræslan, sýndi honum góð og sýnileg umönnun, kynni honum við áhugaverðar tegundir af grænmeti og víkju til öllum þeim hremmum sem Hræslan hefði staðið í. Hrútahlíð var áður að þakka fyrir blíðleika sína,  áð eins og hún gæti ekki unnið, þá hafði hún verið hrifin af samfylgju sína við Hræslan.  Kaníninn hló fyrst eftir að láta vita að Hrútahlíð hefði getað hjálpað honum.
+
+Skóginn var í hávaði af kvöldfuglalæti og hrútur og kanínur áttu nýjan vináttubönd. Þeir skelltu um skóginn, í fjölskylduhópi. Þeir létu lítið bil liðast. Þeir fundu litaða steina, þeir máluðu í litakast og stutt í smásveim. Þeir sköpuðu sína eigin heim.  Þeir vissu að  hvar sem þær voru komnar, þeir voru alltaf samheldnir. 
+
+Svo sá Hrútahlíð litla, gullbruna þjálsfjugla sem var fallinn úr fjöllunum, falinn í mykju. Þjálsfjuglinn hafði ekki fengið góða fæði af fljúgandi smápening og var nú ekki í góðu lagi. Hann var svo mikið veikur og sá sársaukinn í auga þess.
+
+Hrútahlíð var svo góð, hún hafði mikinn samviskusýn og sannreyndur að skilningur væri til.  Hún veitti þjálsfjuglanum flóð af frosnum berjum og góðu, mjúku gróðri. Þjálsfuglinn náði að batna á fáum dögum og lofaði þakklæti með löngum skreiðar.  Allur skóginn hlýddi með blóminni, og hrútur, kanínur, og fuglar spiluðu saman meðan fuglinn batnaði.
+
+Öll dýrin fundu gleði í samfélagi og skilningi. Svo á kvöldinu, meðan sólin sett í skóginn,  hvert ský var í samráðsþinginu; fuglar, kanínur, hrútar, björnarnir.  Þeir allur skóp svo fallega skugga með litaskugga sem táknuðu samfélagsmót. Svo sá þjálsfuglinn Hrútahlíð  við og gerði sér til lífs af tilfinningum af sætum og æðrum aðdáun.
+
+Öll skógarinn, með allar skepnu, fengu þakklæti fyrir umráðir þess, og tækifæri til samningsþjónaði sem tengdi líf allra saman í samræmi.
+
+Hrútahlíð, Hræslan, þjálsfjuglinn – þeir voru nú frægir fyrir fræðu sína að hjálpa hvor öðrum og öll dýrin lifðu saman í friði og gleði í skóginum.  Svo var skóginn að hverfa, eftir skjóta sögu á daglegum rekstri, með dýrin fyrir ofan og  með allir í öllu frömunni, með fullum gleði. Og svo sýndi skóginn til allra,  að brýnst við hjálpa frömu gleði að brýnst.
+</body>

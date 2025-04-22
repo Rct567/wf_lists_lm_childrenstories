@@ -1,0 +1,72 @@
+<prompt>
+Please write a uncomplicated Welsh children's story that is at least 1000 words long.
+It must be completely written in proper Welsh (CY).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Y Bechgyn Blinedig a'r Cyfrinachau Coll yn y Goedwig Ddu Dirgel.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>cy</lang_id>
+
+```xml
+<title>Y Bechgyn Blinedig a'r Cyfrinachau Coll yn y Goedwig Ddu Dirgel.</title><body>
+Roedd unwaith, ym mhentref bach hyfryd o'r enw Pontfaen, dau fachgen hynod o ddewr a chwilfrydig. Owain oedd yr hŷn, gyda gwallt tywyll fel y nos a llygaid glas fel y môr. Tomos oedd yr iau, gyda gwallt coch tân a'r wên fwyaf llon a welwyd erioed. Roedd y ddau yn ffrindiau gorau, yn chwarae gyda'i gilydd bob dydd, yn hela helyntion ac yn darganfod pethau newydd.
+
+Un bore braf, roedd y haul yn disgleirio, a'r adar yn canu’n brydferth. Dywedodd Owain wrth Tomos: "Tomos, beth am antur heddiw? Rwy'n meddwl y dylen ni ymweld â'r Goedwig Ddu Dirgel. Rydw i wedi clywed llawer o straeon amdani!"
+
+Chwarddodd Tomos. "O, Goedwig Ddu Dirgel! Dwi erioed wedi mynd yno. Maen nhw’n dweud ei bod yn llawn creaduriaid rhyfedd a chyfrinachau coll."
+
+Cytunodd Owain, a chymerasant eu bagiau picnic, gyda brechdanau caws, afalau coch a photel o ddŵr ffynnon. Ar ôl hanner awr o gerdded, cyrhaeddasant ymyl y goedwig. Roedd y coed yn dal, yn dywyll ac yn drwchus, fel wal enfawr o wyrdd tywyll.
+
+"Yma rydym ni," meddai Owain, ei lais ychydig yn uwch na'r arfer. "Byddwn yn ofalus."
+
+Camasant i'r goedwig. Dechreuodd y goleuni ddiffodd yn gyflym wrth i'r goedwig ei amsugno. Roedd y cwymp dail yn greisionog o dan eu traed, a'r arogl o bridd a phlanhigion gwlyb yn llenwi'r awyr.
+
+Cerddasant am beth amser, ac arweiniodd y llwybr troellog hwy i ganol y goedwig. Wrth iddynt symud ymlaen, clywsant swn rhyfedd - "Croc, croc". Dilynasant y sŵn, gan ddarganfod y ceidwad coedwig hynafol, hen ddyn barfog efo siaced o ddefnydd llwyd, a’i ffon yn ei law.
+
+"Pwy ydych chi?" gofynnodd Owain yn nerfus.
+
+"Hen Siôn ydw i, ceidwad y goedwig," atebodd yr hen ddyn yn drist. "A beth ydych chi’n ei wneud yn y man hwn?"
+
+"Rydyn ni wedi dod am antur," atebodd Tomos yn frwd, ond dechreuodd ymddangos ei bod hi'n amhosibl cuddio rhywfaint o bryder yn ei llygaid.
+
+"Mae angen help arna i," ochneidiodd hen Siôn. "Mae’r cyfrinachau coll yn y goedwig wedi mynd ar goll. Maent yn rhoi nerth i'r goedwig iach, ac rwy'n ofni os nad ydynt yn cael eu darganfod, y bydd y goedwig yn mynd yn ddu a marw."
+
+Edrychodd Owain a Tomos ar ei gilydd, yn ddryslyd. "Cyfrinachau coll?" gofynnodd Tomos.
+
+"Ydw," atebodd Hen Siôn. "Maent yn dri, pob un gyda'i nodwedd arbennig. Y cyntaf yw Llyfr y Geiriau, sy'n cynnwys holl eiriau caredigrwydd a llawenydd. Yr ail yw Clust y Coed, sy'n gwrando ar yr holl gwynion a gobeithion y goedwig. Y trydydd yw Deigryn y Ddinas, sy'n dwyn y dŵr pur i gadw’r holl goed i dyfu."
+
+"Rydym ni'n eich helpu!" dywedodd Owain yn ddigynnwrf. "Dywedwch wrthym ni lle i edrych!"
+
+"Yn dda iawn," atebodd hen Siôn, gyda gwen bach. "Rhaid i chi deithio i dri lle gwahanol. Y cyntaf yw’r hen dderwen ar y bryn uchel. Yr ail yw'r afon gyfrinachol a guddir yn y rhaeadr. Y trydydd yw ogof ddofn, o dan yr hen ddraenen."
+
+Dechreuodd Owain a Tomos ar eu hymdrech, yn dilyn cyfarwyddiadau hen Siôn. Teithiasant i fyny'r bryn uchel, ac yno, yng ngwreiddiau'r hen dderwen, daethant o hyd i Llyfr y Geiriau. Roedd y llyfr yn hen iawn, gyda tudalennau lliw haul, ond roedd ei eiriau'n dal i sgleinio ac yn ddisglair. Pan gyffyrddodd Tomos â'r llyfr, clywodd y ddau fachgen lais ysgafn yn sibrwd.
+
+"Defnyddiwch y geiriau i fod yn garedig, ac yna bydd y goedwig yn falch."
+
+Nesaf, aethant i'r afon gyfrinachol. Drwy’r rhaeadr, gwelsant groes fan i'r afon. Dyma ble y gwelsant Clust y Coed. Roedd y glust fel gwraidd enfawr o goeden, ac wrth i Owain agosáu, clywodd glust y coed swn o bryder.
+
+"Byddwch yn gyfeillgar, a gwrandewch ar yr hyn sydd angen i'r coed ei ddweud, ac yna bydd y goedwig yn ffynnu."
+
+Yna aethant i'r ogof ddofn, a geiriodd amryw o gamau cymhleth. O dan yr hen ddraenen, yng nghanol y cerrig, daethant o hyd i Deigryn y Ddinas. Roedd y deigryn yn llawn dŵr clir, a'r dŵr hwnnw oedd yn edrych yn fythgofiadwy, yna arllwysant y dŵr ar y coed sy'n cyfagos. Wrth iddo ddisgyn, fe geisiodd Tomos y dŵr:
+
+"Cadwch y gobeithion byw, ac yna bydd y goedwig yn llawn bywyd."
+
+Dychwelodd y bechgyn yn ôl i hen Siôn, gyda'r cyfrinachau yn eu dwylo. Edrychodd hen Siôn arnynt â llawenydd. "Rydych chi wedi achub y goedwig! Mae fy ngalonnau yn llawn llawenydd."
+
+Dywedodd Owain: "A beth rydych chi am i ni ei wneud gyda'r cyfrinachau coll nawr?"
+
+"Rhaid i chi eu rhoi yn ôl yn eu lle," atebodd hen Siôn. "Rhowch y llyfr yn ôl i'r hen dderwen, gadewch i'r clust byw a'r dŵr ar ogof y draenen. Ond dylech chi ddod i weld yr adloniant bob dydd a dydd."
+
+Felly gwnaethant. Aethant yn ôl i'r tair lleoliad ac adferasant y cyfrinachau coll. Gwelodd y goedwig ei hymarfer dychwelyd i fywyd, gan ddod yn fwy gwyrdd a ffres. Roedd y coed yn dechrau canu’n fwy hyfryd, ac roedd anifeiliaid y goedwig yn dod yn fwy gweithgar a hapus.
+
+Yna dychwelodd y ddau fachgen at hen Siôn. Edrychodd y ceidwad coedwig arnynt. Roedd llawenydd yn ei lygaid. "Diolch yn fawr iawn i chi, fy mhartneriaid hyfryd."
+
+O’r diwrnod hwnnw ymlaen, ymwelai Owain a Tomos â'r Goedwig Ddu Dirgel bob dydd. Chwaraewyd y cyfrinachau coll, trwy ddefnyddio'r geiriau caredig i'r coed, i'r anifeiliaid, a’i gilydd, a buont yn dysgu am gynnal y gobeithion byw, am yr awyr, y coed a’r ddaear, ac am ei gilydd. Daeth y goedwig yn lle hyfryd lle daethant i chwarae, i ddysgu ac i ymgysylltu. Bu'r goedwig i ddwyn atgofion annwyl.
+
+A phan ddaethai'r nos, ac roedd y bechgyn yn llawn blinder, ond hefyd yn llawn llawenydd, dychwelant i Pontfaen, gyda'r wyneb wedi ei lenwi â gwên, ac wrth iddynt gysgu, roeddent yn breuddwydio am yr antur ddifyr, y creaduriaid rhyfedd, a'r cyfrinachau coll yn y Goedwig Ddu Dirgel.
+</body>
+```

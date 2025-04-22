@@ -1,0 +1,69 @@
+<prompt>
+Please write a silly Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'An Gámh le Focail agus an Bhealach go Tír na mBrionglóidí.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>ga</lang_id>
+
+```xml
+<title>An Gámh le Focail agus an Bhealach go Tír na mBrionglóidí.</title><body>
+Bhíodh gaisce leanaí in Éirinn fadó, fadó, ach ní raibh aon duine chomh aisteach le Pádraigín Ó Súilleabháin. Ba pháiste beag, breá é, le gruaig dhonn-dearg, súile glasa móra, agus… gámh le focail. Ó, bhí sé uafásach leis na focail! Bheadh sé ag iarraidh rud éigin a rá, ach bheadh focail eile ag rith as a cheann, cosúil le hainmhithe craiceáilte ag siúl i bhfeirm!
+
+Lá amháin, agus é ag imirt faoin gcrann úll mór sa ghairdín, chuala sé gleo. "Croc, croc!" Chonaic sé béal mór, oráiste, agus é ag iarraidh úll a ghabháil. “Ó, nach álainn an ghreig seo!” a dúirt Pádraigín, ag cuimhneamh go ndéarfadh sé “gréig” in ionad “gáire.” Ach ba chrocaill bhig é, gan bhróga. Chuir sé a ladhar ar úll.
+
+D'éirigh an crocaill feargach, agus d'fhéach sé suas ar Phádraigín. "Céard atá tú a rá?" a cheistigh an crocaill. "Ní hé do ghreig an méid seo! Is fál mór mé, agus tú ag iarraidh na húlla a spíonadh?"
+
+“Ní hea, a chrocaill beag!” a dúirt Pádraigín. "Bhí mé ag rá gur... gur ghá dom a bheith ag ceannach bainne, is dóigh." Tharraing sé súil ar an bhfocal “bainne” agus é ag cuimhneamh ar “carnaist.”
+
+"Carnaist? An é sin ainmhí nua?" d'fhreagair an crocaill. "Agus cá bhfuil an bainne á cheannach?"
+
+Bhraith Pádraigín mearbhall. Ba mhaith leis an gcrocaill seo, aisteach, agus bhí a intinn ag baint le "pota" in ionad "bainne." "Hmm... ag an... an photaigh?" dúirt sé. Ní raibh sé cinnte.
+
+D'éirigh an crocaill níos mearbhaill. "An potaigh? Nach iad sin na daoine a dhíolann an pota caife?"
+
+"Ní hea, crocaill!" phreab Pádraigín, ag iarraidh na focail a chosaint. "Is gnóthaí tromchúiseach é seo. Táimid tar éis titim isteach i bhfeilm chontúirteach de bharr mo ghámh le focail! Caithfimid teacht ar bhealach éigin."
+
+Thug an crocaill féachaint air, ansin d’fhéach sé suas ar na húlla dearga, lonracha. "Feirmeoireacht chontúirteach, haon?" a dúirt sé. "Agus céard a dhéanfaimid?"
+
+"Caithfimid dul go Tír na mBrionglóidí!" exclaimed Pádraigín. "Tá siad ar fad istigh ann."
+
+Bhreathnaigh an crocaill air le spéis. "Tír na mBrionglóidí, arsa tú? An bhfuil bainne agus potaí caife ar fáil ann?"
+
+“Níl a fhios agam! Ach tá na focail cearta le fáil ann, dar liom. Tá sé chomh simplí sin." Rinne sé aoibh ar an gcrocaill.
+
+"Mar sin, céard a chaithfimid a dhéanamh?"
+
+D'fhéach Pádraigín timpeall. “Féach, ní bheidh ach bealach amháin ann,” a dúirt sé. “Tá sé leis na heochracha! Feicim iad."
+
+B’éigean dóibh bealach a fháil chun na heochracha a fháil. "Caithfimid dul trí ghairdín na bhfataí," dúirt an crocaill. "Tá siad an-ghasta."
+
+“Na fataí?” d’fhreagair Pádraigín. “Ní hea, bhuel, is dóigh.” Rinne sé miongháire ar an smaoineamh.
+
+Shiúlaigh siad go dtí an ghairdín mór de na fataí. Bhí na fataí go léir ag rince! Rinne siad damhsa craiceáilte, ag cromadh agus ag ardú a gcuid coirp, cosúil le beatha éigin a bheith iontu. D'imigh Pádraigín agus an crocaill as a gcosa.
+
+"Nach bhfuil siad iontach!" a dúirt an crocaill. "Is féidir leo bogadh gan eagla ar bith!"
+
+"Cinnte," dúirt Pádraigín, "ach níl sé foirfe don tslí chun Tír na mBrionglóidí."
+
+Thosaigh siad ag damhsa leis na fataí. Rinceadar go hiontach, ag cur a gcuid lámh agus cosa ar an talamh. Tháinig scáthán le feiceáil ar an urlár.
+
+"Hey, breathnaigh ort féin!" ghreann an crocaill. "An bhfaca tú do chuid fothaí riamh?"
+
+"Is iontach an rud é," a dúirt Pádraigín. "Agus is dócha gurb é sin an eochair. Mar shampla..."
+Rinne Pádraigín iarracht an focal “eochair” a rá. "Eo... eo... gh... ocha..."
+
+D’éirigh an crocaill agus chabhraigh sé leis, agus ghreann siad go mór.
+
+“Bhuel, níl ann ach dhá fhocal,” a dúirt Pádraigín tar éis nóiméid. “Bainfimid triail ar an bhfocal nua arís." D'éirigh sé chun é a rá.
+
+D’imigh siad as na fataí. Ritheadar ar feadh an ama a bhí fágtha acu, ag troid chun iad féin a fháil ar an mbealach ceart. Chonaic siad an eochair! Agus fuair siad é! D'oscail siad an doras le é. Bhí siad in Tír na mBrionglóidí!
+
+Bhí an tír lán de rudaí aisteacha agus aoibhne. Bhí crainn le huibheacha seacláide ag fás orthu. Bhí sé go deas, ach ní raibh na focail ar bith foirfe. Ní raibh gá ag Pádraigín níos mó a bheith buartha. Fuair sé na focail cearta i dTeach na bhFocal. D'foghlaim sé an lá sin go raibh an gámh le focail ann, agus go mb’fhéidir gur bealach a bhí ann dó níos mó a fhoghlaim.
+
+B’fhéidir gur chuir an t-eispéaras é ar dtús i dtrioblóid, ach go deimhin fuair Pádraigín agus an crocaill a gcuid focail ar ais. Fuair siad na brionglóidí. Bhí siad chomh sásta, gur rinceadar go léir go dtí an lá, ag gáire agus ag rince leis na fataí, an crocaill agus Pádraigín Ó Súilleabháin, an fear beag aisteach a bhí páirteach le focail.

@@ -1,0 +1,50 @@
+<prompt>
+Please write a silly Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A Szélvész és a Bátor Kis Madár'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>A Szélvész és a Bátor Kis Madár</title>
+<body>
+A Mátra hegyek lábánál, egy patak partján, egy apró, tarka házban élt Piroska, a bátor kis rigó. Nem volt nagy, és nem is volt különösebben szép, de szívében rengeteg bátorság és egy csipetnyi bolondság lakott. A patak mentén nőtt a virágok, csillogtak a fűszálak a napfényben, és a madarak dalolták a dalukat. A levegő vibrált az élet örömétől, de Piroska nagyon különbözött a többi madártól.
+
+Egy nap, mikor a nap arany fényében fürdött a mező, egy hatalmas, szürke szélvész suhant át a hegyen. A levelek táncoltak, a virágok elhajoltak, a patak pedig vészjóslóan morgott.  A szél, aki Szélvésznek nevezte magát (mert ő maga volt a szél!), mindenkit megijesztett. Az őzek elbújtak a ligetekben, a szarvasok rémült pillantásokkal bámulták a dübörgő szelet.  Piroska azonban, mivel elég bátorság lakott benne, előbújt a házából.
+
+– Szia Szélvész! – mondta vidáman. – Hova rohansz ilyen dühösen?
+
+Szélvész megdöbbent.  Egy madár merészelte megszólítani őt! Sosem látott még ilyen bátor madarat.   
+– Te… te ki vagy? – kérdezte méltatlankodva, a szél hangja kissé eltorzult a szélviharban.
+
+
+– Én Piroska vagyok, a bátor kis rigó! – válaszolta a madár. –  Mégis mit keresel ezen a szép hegyen? A virágok úgy táncolnak az erejedben, mint a tündérek!
+
+
+– Miért, nem tetszik? – hördült fel Szélvész, és forgatta a fejét, akár egy mérges kismacska.  – Én vagyok a Szélvész, a hatalmas szél, aki mindent összezavarok! A levelek is elszaladnak tőlem, a fák meghajolnak!  Neked, madár, minek ilyen vidáman beszélni velem?  Én most éppen szélkavarásért szaladok.
+
+Piroska nagyot pislantott. – Szélkavarás?  Mi az?
+
+
+– Szélszámolók keresnek. A hegytetőn el vannak veszve, a legszebb virágkoszorukat a szél elzavarta! Még több seprű van a szeleknek. Ők minden szemet felporszívózták! Segíteni kéne!
+
+
+Piroska csillogó szemekkel tekintett Szélvészre. – Hát persze! Elmegyek veled! Megkeresem a szemeket és a seprűket. Nem tudom, hol lehet a kis seprűk titkos rejtekhelyük, és a szemeket sem tudom honnan kaparintották el!
+
+
+És így, a bátor kis rigó és a szélvihar együtt indultak neki a szélkavarásnak. Szélvész, bár fújta a vad szelet, próbálta Piroskát is megemelni a szélén. Piroska pedig csattogva röpködött, és kereste a szemszemcskéket és seprűket, míg a füvet és virágokat csavarta szélvész útján.
+
+Repültek, körbekerülték a magas fákat, elsuhantak a patakok felett, és megtalálták a szétzúzódott virágok közé rejtett szemeket és seprűket.  Szélvész most már nem fújt olyan dühösen. A munka közben megnyugodott, és néha mosolygott is, mert Piroska nagyon vicces és cseles volt. Még a szívecskét is el akarta lopni. 
+
+
+Amikor minden szem és seprű összegyűlt, a szélkavarás véget ért. A hegytetőn újra derűs szelídítő szelek szálltak. A nap visszatért és fénylő fényben fürdött a mező. Szélvész és Piroska a barátok lettek. Szélvész a szellő, a rigó pedig Piroska volt és érezte a  barátság szelíd örömét.
+
+
+
+Piroska haza repült, hogy elmesélje az anyukájának a kalandot. Míg a családjának beszéltek, és megkapták a szükséges információkat, Szélvész pedig mindenképpen részt akart venni. Úgy döntöttek, minden este segítenek a virágok és fák összeszedésében, így együtt segítenek a hegyen minden nehézségben. Piroska és a szél mindig találkozott az apró seprűk és szemek eltávolítása céljából és örültek együtt. A barátság igazi csodákra képes a szemek és seprűk megtalálásában, így védve az apró növényeket is! A boldogság hangja mindenütt hallatszódott és egy szép nap végett.
+</body>

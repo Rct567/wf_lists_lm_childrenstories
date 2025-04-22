@@ -1,0 +1,45 @@
+<prompt>
+Please write a silly Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Jak kočka a pes zachránili vesmírnou loď'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Jak kočka a pes zachránili vesmírnou loď</title>
+<body>
+V malebné vesničce Podolí, uprostřed zelených kopců, žila kočička s jménem Šárka a pejsek s jménem Štěpán. Šárka měla neobyčejně modré oči a Štěpán, i když byl pes, měl neobyčejně hluboký hlas.  Byli to nejlepší kamarádi a trávili spolu každý den spoustu legrace.
+
+Jednoho slunečného rána, když Šárka lovila mouchy na okně a Štěpán se snažil chytit motýla, který se mu zvláštně vyhýbal, se nad Podolí objevila záhadná vesmírná loď.  Byla kovově lesklá a svítila všemi barvami duhy. Šárka, zvyklá na divné věci, jen zvedla hlavu a mrkla. Štěpán, který byl zvyklý na divné věci, jen zvedl uši a zasyčel.
+
+"To je ale divná hračka," pomyslela si Šárka.
+
+"Určitě je to něčí ztracená hračka," řekl si Štěpán.
+
+Vesmírná loď se pomalu a neohrabaně snášela k zemi, až se nakonec zastavila uprostřed vesnice, přímo na náměstí.  Z lodi se ozval divný zvuk, jako by se v ní někdo dusil.  Šárka a Štěpán se k ní přiblížili.
+
+Uvnitř lodi se plazily podivné, žluté červy, které se snažily zničehonic zvednout a uchopit se za kovové stěny.  Vypadaly, jako by měly žízeň.  Šárka, která znala zkušeností, že žluté červy milují mléko, se rozběhla a přinesla misku s mlékem, které si uchovala na zahradě.  Štěpán, který znal zkušeností, že žluté červy nemají rádi hluk, se schoval za strom a jen na ně tiše štěkal.  Žluté červy se s chutí vrhly na mléko.
+
+Najednou se loď zhoupla a začala se otáčet.  Z červů se vyklubali malí, zelení mužičci, kteří se s údivem dívali na Šárku a Štěpána.  Byli to vesmírní cestovatelé, kteří se snažili opravit svou poškozenou loď, ale jejich pokusy se stále nedařily.
+
+"Co se děje?" zeptala se Šárka.
+
+"Naše loď má problém s gravitací," odpověděl jeden z mužičků. "Ty červy se snaží opravit systém, ale nefunguje to."
+
+Štěpán, který si všiml, že červy nefungují, se zvedl a štěkal na ně.  Žluté červy se zalekli a odletěly do vesmíru.
+
+"To je zvláštní," řekl jeden z mužičků. "Pes nám pomohl."
+
+"A mléko?" zeptal se další.
+
+"Ano," odpověděl Štěpán. "Mléko jim chutnalo."
+
+Malí mužičci se usmáli.  Šárka a Štěpán se stali hrdiny.  Mužičci se s nimi podělili o vesmírné bonbóny, které chutnaly jako čokoláda a zároveň jako kosmické mléko.
+
+Společně s Šárkou a Štěpánem opravili vesmírnou loď.  Malí mužičci se s nimi rozloučili a odletěli do vesmíru.  Šárka a Štěpán se vrátili do Podolí a hráli si na zahradě.  Od té doby se o nich v Podolí vyprávěly příběhy.  Příběhy o kočce a psovi, kteří zachránili vesmírnou loď, a o tom, že i v malých vesnicích se mohou dít velké a zábavné věci.  A že mléko chutná i žlutým červům.
+</body>

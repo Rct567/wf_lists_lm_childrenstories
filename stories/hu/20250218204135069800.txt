@@ -1,0 +1,31 @@
+<prompt>
+Please write a creative and original Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Az éjszakai város varázslatos teremtményei'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>Az éjszakai város varázslatos teremtményei</title>
+<body>
+A régi, kőből épült város, Esztergom, éjszaka különleges varázslatot kapott. Nem a fények, nem a zenék, hanem a csendes sötétségben rejlő titok volt az igazi varázslat.  A felhőkarcolók, a házak, a templomok árnyékai táncoltak a holdfényben, és életre keltek.  Nem élő lényekké, hanem titokzatos teremtményekké, akiknek csak éjszaka volt szabad láthatóvá válniuk.
+
+Kis Barna, egy kíváncsi és kalandvágyó fiú, aki Esztergomban lakott, mindig lenyűgöződött a város titokzatos csendjében rejlő éjszakai teremtményekről.  Anyukája mesélt neki a "Városi Lényekről", akik csak éjfél után jöttek elő a sötétségből.  Volt köztük a Fénymadár, amelyikkel a holdfényben táncolt, a Szélharang, aki a villanyoszlopok között zenélt, és az Aranyhal, amelyik a Dunában csillogott.
+
+Egy éjszakán, amikor a hold ragyogó fénye betöltötte az egész várost, Barna elhatározta, hogy megkeresi a Városi Lényeket.  Felkapta a kék sálját, amelyik éjszaka ragyogott, és elindult a város sötét utcáin.  A lámpák fényei elhalványultak, a zajok elnémultak, és Barna csak a saját lélegzetvételét hallotta a sötétben.
+
+Először a Fénymadarat kereste.  A történetek szerint a Fénymadár a templom tornyában táncolt, a holdfényben tükröződő, apró, színes, kristályokból álló lepkék táncában.  Barna felment a toronyba, és látta a madarat.  Nem volt madár, hanem egy kislány, aki ragyogó, fehér ruhában táncolt.  A táncát a holdfény táncolta körülötte, és a tánc minden mozdulata kristály lepkék százait hozta létre.  A Fénymadár mosolygott Barna-ra, és megmutatta neki, hogyan kell a táncot a holdfényben látni.
+
+A következőként a Szélharangot kereste.  A történetek szerint a Szélharang a villanyoszlopok között, az erős szélben zenélt, a réz hangszerei rezegtek a szélben, varázslatos zene született.  Barna megtalálta a Szélharangot a főtér villanyoszlopai között.  Nem volt harang, hanem egy öregember, aki réz hangszereket játszott. A hangszerek rezegésével a szél táncolt, és a zenében volt valami olyasmi, ami a szívekbe hatolt. Barna meghatódott a Szélharang zenei varázslatától, és megértette, hogy a zene a városi lények igazi hangja.
+
+Végül megtalálta az Aranyhalat.  A történetek szerint az Aranyhal a Dunában csillogott, a víz mélyén egy titokzatos, arany színű hal.  Barna lement a Duna-partra.  Nem volt hal, hanem egy fiú, aki arany színű, kristályos ruhában állt a vízben.  A fiú mosolygott, és a kristályok csillogása megvilágította a Dunát.  Barna látta, hogy az Aranyhal volt a Dunában csillogó varázslat.
+
+Barna megértette, hogy a Városi Lények nem voltak valódi lények, hanem a város titkos, varázslatos része.  A város varázslata rejtette el a lényeket a nappali világ elől, és csak a csendes sötétségben engedte, hogy megjelenjenek.  Barna a szelíd fényekkel megvilágított városban, a varázslatos teremtményekkel átélt éjszakák után, most már ő is tudta, hogy Esztergomban minden éjszakán megvan a maga varázslatos titka.
+
+Barna elindult visszafelé, a szívében a Városi Lények varázslatának emlékével.  Tudta, hogy a város sötétjében rejtőző teremtmények éjszakánként visszatérnek, és aki figyelmes, mindig megtalálhatja a titokzatos szépséget a csendes sötétségben. És ebben a tudásban, Barna tudta, hogy a város éjszakai varázslata egy örökkévaló titok, amit ő is mindig meg fog őrizni szívében.
+</body>

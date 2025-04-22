@@ -1,0 +1,59 @@
+<prompt>
+Please write a dialog-based Slovak children's story that is at least 1000 words long.
+It must be completely written in proper Slovak (SK).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Čarovná flauta, ktorá privoláva zvieratká'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sk</lang_id>
+
+<title>Čarovná flauta, ktorá privoláva zvieratká</title>
+<body>
+Malý Juraj žil v malej dedinke obklopenej zelenými kopcami a lesom plným tajomstiev.  Jeho najväčším priateľom bola stará, rozpadajúca sa flauta, ktorú našiel v starom, opustenom dome na okraji dediny.  Flauta nebola obyčajná.  Mala zvláštne, lesklé otvory a jemný, modrastý odtieň dreva.  Juraj ju často držal v rukách a potichu na ňu fúkal.  Nikdy však nič nepočul.
+
+"Asi je to len obyčajná flauta," povedal Juraj smutne jednej noci, keď ležal v posteli.
+
+"Nie, Juraj," zaznel tichý hlas za ním.  Juraj sa zľakol a otočil sa.  Stála tam stará lesná víla, s očami ako lesklé kamene a vlasmi ako zlato.
+
+"Ty si... ty si víla?" spýtal sa Juraj s úžasom.
+
+"Áno, malý Juraj," odpovedala víla. "A tá flauta... tá flauta je čarovná.  Vie privolať zvieratká z lesa."
+
+"Naozaj?" zvolal Juraj, oči mu svietili nadšením. "A ako sa to robí?"
+
+"Musíš si vybrať melódiu," vysvetlila víla. "Každé zviera má svoju vlastnú melódiu.  Pre líšku je to veselá, hravá melódia.  Pre medveďa je to tichá, hĺbavá melódia.  Pre vtáčiky je to jemná, spievajúca melódia."
+
+Juraj sa rozveselil.  "A ako to vieš?" spýtal sa.
+
+"V lese žijem už mnoho rokov," odpovedala víla. "Počúvam zvieratká a ich piesne.  A flauta je s nimi spojená."
+
+"Takže, ako ju mám použiť?" opýtal sa Juraj.
+
+"Najprv sa musíš sústrediť," povedala víla. "Predstav si zviera, ktoré by si chcel vidieť.  A potom na flaute zahraj jeho melódiu."
+
+Juraj sa snažil zapamätať si melódie.  Najprv si predstavil líšku, rýchlu a šikovnú.  Zahral veselú, hravá melódiu.  A zrazu!  Z lesa vybehol malý líščie mláďa, s červenými chvostíkom a vtipným pohľadom.
+
+"Wow!" zvolal Juraj.
+
+Potom si predstavil medveďa, silného a pokojného.  Zahral tichú, hĺbavú melódiu.  A z lesa vyšiel veľký medveď, s hnedou srsťou a pokojnými očami.  Juraj sa s ním pozdravil a medveď sa mu usmieval.
+
+"To je úžasné!" zvolal Juraj.
+
+Ďalej si predstavil vtáčiky, ktoré spievajú krásne piesne.  Zahral jemnú, spievajúcu melódiu.  A z lesa sa ozvalo krásne spievanie.  Na stromoch sa objavili vtáčiky, rôznych farieb a tvarov.
+
+"Je to úžasné!" zvolal Juraj.
+
+"Vidíš?" povedala víla. "Flauta ti pomôže spoznať zvieratká a priateľov v lese."
+
+Odvtedy Juraj každý deň hral na čarovnú flautu.  Spoznal mnoho zvierat, naučil sa ich mená a zvyky.  Naučil sa, že každý zvuk a každý pohyb zvierat má svoj príbeh.  A s každým novým zvieraťom, ktoré privolal, sa jeho priateľstvo s lesom a jeho obyvateľmi len prehĺbilo.  Naučil sa, že dôležité nie je len počuť, ale aj počúvať.
+
+Jedného dňa, keď Juraj hral na flaute, zaznel zvláštny zvuk.  Z lesa vyšiel starý, chorľavý zajac.  Juraj ho pozorne sledoval.  Zviera vyzeralo veľmi smutne.  Juraj sa s ním porozprával.  Zajačik mu povedal, že je osamelý a že mu chýba jeho rodina.
+
+Juraj sa sústredil a zahral smutnú, ale zároveň nádejivú melódiu.  A zrazu sa objavili aj ostatní zajačiky.  Boli šťastní, že sa opäť stretli so svojím priateľom.  Juraj bol šťastný, že mohol pomôcť.
+
+A tak Juraj žil šťastne v dedinskom lese, s čarovnou flautou v ruke a s množstvom priateľov, s ktorými spoločne prežíval mnoho dobrodružstiev.  A každý deň si uvedomoval, že les je plný krásnych tajomstiev, ktoré len čakajú na to, aby ich objavil.
+</body>

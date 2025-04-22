@@ -1,0 +1,43 @@
+<prompt>
+Please write a relatable Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Czarodziejskie zwierzęta i ich opowieści'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>pl</lang_id>
+
+<title>Czarodziejskie zwierzęta i ich opowieści</title>
+<body>
+W małym, urokliwym miasteczku, otoczonym zielonymi wzgórzami i strumieniami pełnymi śpiewających żab, żyła dziewczynka o imieniu Zosia. Zosia uwielbiała przyrodę i spędzała długie godziny w lesie, obserwując zwierzęta.  Nie były to zwykłe zwierzęta; były to czarodziejskie zwierzęta, które umiały opowiadać historie.
+
+Pewnego słonecznego dnia, Zosia szła ścieżką, prowadzącą w głąb lasu.  Słyszała ciche szmery i szelesty, jakby liście tańczyły w tajemniczym rytmie.  Nagle, zza pnia starego dębu, wyskoczyła mała, żółta myszka z błyszczącymi, czarnymi oczkami. Myszka uśmiechnęła się do Zosi, a jej wąsik trząsł się z ekscytacji.
+
+"Witaj, Zosiu!" powiedziała myszka. "Czy chcesz posłuchać opowieści?"
+
+Zosia była zachwycona.  "Oczywiście!  Ale o czym?" zapytała z ciekawością.
+
+"O tym, jak królewna Jelonka, córka króla Leśnego, zgubiła swój magiczny śpiewny kwiatek," odpowiedziała myszka. "Jest on źródłem jej wspaniałego głosu, a bez niego jej głos staje się cichy jak szelest liści."
+
+Zosia złapała za rękę myszkę i razem weszły głębiej w las.  Myszka prowadziła ją przez gęste zarośla, a Zosia słuchała z uwagą.  Opowiadanie było pełne magii i cudów.  Opowiadało o niezwykłych kwiatach, które rozkwitały tylko w pełnię księżyca, o śpiewających ptakach, które potrafiły tworzyć muzykę z szeleszczących liści i o magicznych strumieniach, które strumieniami życia wypełniały doliny.
+
+W drodze spotkali majestatycznego, białego jelenia z rogami jak kryształy. Jeleń miał w oczach mądrość wieków.
+
+"Czy Jelonka wciąż szuka swojego kwiatka?" zapytała Zosia.
+
+"Niestety, tak," odpowiedział Jeleń. "Śpiewny kwiatek jest tak rzadki, że mało kto go zna.  Ukryty jest w sercu lasu, gdzie schronienie znalazły legendy i mity."
+
+Zosia i myszka ruszyły dalej.  Spotkali sowę, której oczy błyszczały jak diamenty.  Sowa opowiadała o tajemniczych stworzeniach, które strzegą tajnych ścieżek w lesie, o istotach, które potrafią przemieniać się w drzewa i o strumieniach, które płyną ścieżkami czasu.  Każda opowieść była bardziej fascynująca od poprzedniej.
+
+W końcu, po wielu godzinach wędrówki, dotarli do miejsca, gdzie rosło magiczne drzewo. Drzewo było otoczone lśniącymi, różnokolorowymi kwiatami.  A wśród kwiatów, Zosia dostrzegła mały, śpiewny kwiatek, świecący delikatnym, złotym blaskiem.
+
+Myszka podbiegła do kwiatka i delikatnie go dotknęła.  Wtedy, nagle, rozległ się wspaniały śpiew.  Był to śpiew Jelonki, królewny Leśnej!  Był czysty, melodyjny i przepiękny.
+
+Zosia i myszka cieszyły się razem, że pomogły Jelonce odzyskać jej magiczny głos.  A królewna Jelonka, z uśmiechem na twarzy, podziękowała im za pomoc.  Zosia wróciła do domu pełna radości i nowych przygód.
+
+Od tego dnia Zosia spędzała jeszcze więcej czasu w lesie, słuchając opowieści czarodziejskich zwierząt.  Wiedziała, że las pełen jest tajemnic i że każda istota, nawet najmniejsza, ma swoją niezwykłą historię do opowiedzenia.  A ona, Zosia, miała szczęście, że mogła je usłyszeć.
+</body>

@@ -1,0 +1,98 @@
+<prompt>
+Please write a dialog-based Scottish Gaelic children's story that is at least 1000 words long.
+It must be completely written in proper Scottish Gaelic (GD).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Na flùraichean dathte agus an t-sìde bhòidheach gan cumail beò sa ghàrradh mòr.'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>gd</lang_id>
+
+<title>Na flùraichean dathte agus an t-sìde bhòidheach gan cumail beò sa ghàrradh mòr.</title><body>
+Bha gàrradh mòr ann, agus anns a’ ghàrradh mhòr bha flùraichean dathte. Bha flùraichean dearga ann, flùraichean buidhe, flùraichean gorma, agus flùraichean purpaidh. Bha iad uile a’ fàs gu toilichte, ach bha iad a’ faireachdainn beagan iomagaineach.
+
+“Tha mi a’ smaoineachadh gu bheil an t-sìde a’ dol a dh’atharrachadh,” thuirt Flùr Dhearg, a bha a’ seasamh faisg air an t-slighe.
+
+“Ciamar a tha fios agad?” dh’fhaighnich Flùr Bhuidhe, a bha a’ crathadh a ceann.
+
+“Tha mi ga faireachdainn anns na duilleagan agam,” fhreagair Flùr Dhearg. “Tha an t-sìde air a bhith cho grianach o chionn ghoirid, agus chan eil an t-uisge air teachd. Tha mi a’ smaoineachadh gum bi stoirm ann.”
+
+“O, chan eil mi ag iarraidh stoirm,” thuirt Flùr Ghorm, a bha a’ coimhead suas ris an speur. “Tha mi ag iarraidh an t-sìde bhòidheach, grianach.”
+
+“Tha mi ag aontachadh,” thuirt Flùr Purpaidh. “Tha an t-sìde bhòidheach a’ toirt oirnn fàs cho làidir.”
+
+Thàinig guth beag bho chùl nan flùraichean. “Na gabh dragh, a chlann,” thuirt an dealan-dè beag, Dùghall. “Tha fios agam gu bheil an t-sìde a’ dol a bhith ceart gu leòr. Tha an t-sìde bhòidheach a’ tighinn.”
+
+“Ciamar a tha fios agad?” dh’fhaighnich Flùr Dhearg.
+
+“Tha mi air mo dhol timcheall a h-uile latha,” fhreagair Dùghall. “Tha mi air a bhith a’ faicinn a’ ghrian, na sgòthan, agus an t-uisge. Tha fios agam dè tha a’ tighinn.”
+
+“An urrainn dhuinn earbsa a bhith agad?” dh’fhaighnich Flùr Bhuidhe.
+
+“Gu dearbh,” thuirt Dùghall. “Na gabh dragh. Bi toilichte.”
+
+Bha na flùraichean a’ faireachdainn beagan nas fheàrr às deidh dhaibh bruidhinn ri Dùghall. Bha iad fhathast beagan iomagaineach, ach bha iad a’ feuchainn ri bhith dòchasach.
+
+An ath latha, thòisich na sgòthan a’ cruinneachadh. Bha an speur a’ fàs dorcha, agus thòisich an t-uisge a’ tuiteam.
+
+“Tha mi ag ràdh gu robh an t-sìde a’ dol a dh’atharrachadh,” thuirt Flùr Dhearg.
+
+“Tha mi duilich,” thuirt Flùr Ghorm. “Cha robh mi ag iarraidh seo.”
+
+Thòisich an stoirm. Bha an t-uisge a’ tuiteam gu cruaidh, agus bha a’ ghaoth a’ sèideadh gu làidir. Bha na flùraichean a’ crathadh agus a’ lùbadh anns a’ ghaoith.
+
+“Tha mi a’ smaoineachadh gu bheil sinn a’ dol a bhàsachadh,” thuirt Flùr Purpaidh.
+
+“Na gabh dragh,” thuirt Dùghall, a bha a’ falach fo dhuilleag mòr. “Bidh sinn ceart gu leòr. Tha an t-sìde bhòidheach a’ tighinn.”
+
+Bha na flùraichean a’ feuchainn ri cumail suas. Bha iad a’ feuchainn ri seasamh an aghaidh na gaoithe agus an uisge.
+
+An uairsin, thòisich an stoirm a’ socrachadh. Bha an t-uisge a’ tuiteam nas lugha, agus bha a’ ghaoth a’ sèideadh nas ciùine.
+
+Mu dheireadh, stad an stoirm. Sheall a’ ghrian a-mach tro na sgòthan.
+
+“Tha sinn beò!” thuirt Flùr Dhearg.
+
+“Tha an t-sìde bhòidheach air tilleadh,” thuirt Flùr Ghorm.
+
+Bha na flùraichean uile a’ faireachdainn toilichte. Bha iad air a bhith tro stoirm, ach bha iad air a bhith beò. Bha iad a-nis a’ coimhead air adhart ris an t-sìde bhòidheach.
+
+“Tha mi cho toilichte gum b’ urrainn dhuinn a bhith beò,” thuirt Flùr Purpaidh.
+
+“Mise cuideachd,” thuirt Flùr Bhuidhe. “Tapadh leat, Dùghall.”
+
+“Tha fàilte oirbh,” thuirt Dùghall. “Tha fios agam gum bi an t-sìde bhòidheach an-còmhnaidh a’ tighinn.”
+
+Bha na flùraichean a’ fàs a-rithist, agus bha iad a’ coimhead nas dathte na bha iad a-riamh. Bha a’ ghrian a’ deàrrsadh, agus bha na duilleagan a’ deàrrsadh. Bha iad a’ faireachdainn taingeil airson an t-sìde bhòidheach, agus bha fios aca gun robh iad fortanach a bhith a’ fuireach sa ghàrradh mhòr.
+
+“Tha mi a’ smaoineachadh gu bheil sinn a’ dol a bhith toilichte an-diugh,” thuirt Flùr Dhearg.
+
+“Tha mi ag aontachadh,” thuirt Flùr Ghorm. “Tha an t-sìde bhòidheach a’ toirt oirnn a bhith toilichte.”
+
+“Tha sinn uile toilichte,” thuirt Flùr Purpaidh. “Tha sinn uile a’ fàs còmhla.”
+
+Bha na flùraichean a’ fàs còmhla, agus bha iad a’ faireachdainn toilichte. Bha iad a’ tuigsinn gu robh iad uile a’ feumachdainn a chèile, agus gu robh iad uile a’ feumachdainn an t-sìde bhòidheach. Bha iad a’ faireachdainn taingeil airson a h-uile càil.
+
+“Tha e cho math a bhith beò,” thuirt Flùr Bhuidhe.
+
+“Tha,” thuirt na flùraichean uile. “Tha e cho math a bhith beò.”
+
+Bha na flùraichean a’ fuireach sa ghàrradh mhòr, agus bha iad a’ fàs gu toilichte. Bha iad a’ tuigsinn gu robh iad uile a’ feumachdainn a chèile, agus gu robh iad uile a’ feumachdainn an t-sìde bhòidheach. Bha iad a’ fuireach còmhla, agus bha iad toilichte.
+
+“Am bi sinn a’ faicinn an t-sìde bhòidheach a-rithist?” dh’fhaighnich Flùr Dhearg.
+
+“Gu dearbh,” thuirt Dùghall. “Tha an t-sìde bhòidheach an-còmhnaidh a’ tighinn.”
+
+Bha na flùraichean a’ gàireachdainn. Bha fios aca gu robh Dùghall ceart. Bha an t-sìde bhòidheach an-còmhnaidh a’ tighinn. Agus bha iad deiseil air a shon.
+
+“Bidh sinn a’ feitheamh,” thuirt Flùr Ghorm.
+
+“Bidh sinn a’ feitheamh còmhla,” thuirt Flùr Purpaidh.
+
+“Bidh sinn a’ feitheamh gu toilichte,” thuirt Flùr Bhuidhe.
+
+Agus rinn iad. Bha iad a’ feitheamh ris an t-sìde bhòidheach, còmhla, gu toilichte, anns a’ ghàrradh mhòr. Agus bha fios aca gun robh iad sàbhailte, fhad 's a bha iad ann còmhla.
+</body>

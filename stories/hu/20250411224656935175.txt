@@ -1,0 +1,65 @@
+<prompt>
+Please write a timeless Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'István, aki felépítette a világ legszebb homokvárát a tengerparton délben.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>hu</lang_id>
+
+```html
+<title>István, aki felépítette a világ legszebb homokvárát a tengerparton délben.</title>
+<body>
+István, a kisgyerek, aki épp betöltötte a hatodik életévét, egy különleges fiúcska volt. Kicsi termetű, kék szemű, kócos hajú, és mindig egy kicsit piszkos arccal – de nem számított, hiszen a homok az ő barátja volt. Minden nyáron, amikor a családjuk a Balaton partján nyaralt, István egész nap a parton ült, és homokvárat épített.
+
+És nem akármilyen homokvárat!
+
+Mindenki tudta a családban és a parton is, hogy István a világ legszebb homokvárait építi. Kicsi kezei ügyesen formálták a nedves homokot, tornyokat emelt, kapukat épített, aprócska ablakokat vájt. Minden várának volt sánca, árok, bástya, zászló és titkos kijárat is.
+
+És az idén, a nyári szünetben, István úgy döntött, hogy valami igazán különlegeset fog építeni. Valami, ami még szebb lesz, mint valaha. Egy olyan várkastélyt, ami bekerül a világ leghíresebb várkastélyainak a sorába.
+
+Délelőtt, a reggeli után, már sietett is a partra. A napsugarak melegen simogatták arcát, a tenger sós illata belengte a levegőt. Megtöltötte a kis sárga vödörét, kikaparta a szerszámosládájából a lapátot, a formázót és egy különleges fa pengét, amivel finom vonalakat tudott húzni a homokba.
+
+Először egy óriási, lapos területet jelölt ki a parton. Ez lesz a vár udvara – gondolta István. Aztán a vödör homokot a homokvárak helyére öntötte. Kezdetben magas tornyokat tervezett, amiket a szél ereje koptatott, ezért úgy döntött, hogy a homokvárakat mélyebben és erősebben építi fel. A tornyok hatalmasra nőttek, körben járt a szájában a fülébe jutó kiejtés: "Árok, sánc, kapu, bástya, védőfal! Árok, sánc, kapu, bástya, védőfal!" – duruzsolta magában, ahogy a nedves homokot a vödörből a többi helyre húzta.
+
+Dolgozott, mint a hangya, a homokot vette a vödörbe, az alakokat a kezeivel megformázta. A napsütés egyre erősebben sütött, érezte, ahogy a háta izzad. Az óra tizenegyre kerekedett, de István nem tudott megállni. Annyira belemerült a munkába, hogy elfelejtette a világot, a forróságot, az éhséget. Csak a várkastélyára koncentrált.
+
+A vár udvarára egy apró hidat tervezett, amin keresztül be lehet majd jutni a főkapun. A hidat gondosan, kőbe véste, úgy, hogy a homok mindkét oldalon ki legyen erősítve. Az egyik tornyot, ami magasra nőtt, piros zászlóval díszítette fel, a másikra pedig egy sárga zászlót tűzött. Az udvar közepén pedig egy szökőkutat képzelt, ami gyönyörűen tündökölt volna a napfényben. Ehhez kis homok gömböket gyúrt, a víz helyett.
+
+Ahogy közeledett a dél, a tengerparton már csak István látszott, aki egyre kitartóbban építette várkastélyát. A felnőttek a hűsítő árnyékban pihentek, de István ott ült a napsütésben, és tovább építette a remekművét.
+
+Hirtelen, ahogy éppen az utolsó bástyát formázta, egy árnyék vetült a homokvárra. Felnézett, és látta, hogy egy nagydarab ember áll előtte, egy kedves mosollyal az arcán.
+
+– Nahát, kisfiam! Milyen gyönyörű várat építesz! – szólt az ember, a hangja barátságos volt. – Ez lesz a világ legszebb homokvára!
+
+István elmosolyodott. Az ereje elfogyott, de megérezte a felnőtt felajánlását, mely kedvességéről tett tanúbizonyságot. Nem válaszolt, csak nézte az embert. A férfi tovább beszélt:
+
+– Tudod, én egy képzőművész vagyok, és mindig is vágytam arra, hogy lássak valami szépet. Ez most beteljesült, és nagyon meg szeretném örökíteni. Van nálad toll, vagy ceruza?
+
+István bólintott. Szégyellte elmondani, hogy csak zsírkréták vannak nála, de ezután a férfi mosolyogva bólintott.
+
+– Tökéletes. Kérlek, hadd rajzoljam le a váradat! – mondta a férfi.
+
+István büszkén adott tollat a képzőművésznek. A férfi leült a homokba, és István munkájáról rajzolt. Gyönyörűen és tökéletesen ábrázolta a vár minden részletét. Amikor befejezte a rajzot, átadta Istvánnak. A fiú soha életében nem látott még ilyen szép rajzot, meg is könnyezett a meghatottságtól.
+
+– Köszönöm! – suttogta.
+
+A képzőművész elmosolyodott, megsimogatta a fejét, és azt mondta:
+
+– Ez a vár, amit építettél, a szívvel készült. Látom, hogy belefektettél mindent. Ez a vár nem csak homokból van, hanem szeretettel, álommal, képzelőerővel. És ettől válik olyan naggyá.
+
+Aztán a férfi felkelt, megköszönte Istvánnak az engedélyt, és elment.
+
+István a homokvárhoz fordult. A rajzot szorosan a kezeiben tartotta. Dél volt, és a napsugarak a homokvárra sütöttek. Érezte az éhséget, de a fáradtságot is, viszont a szívét melegséggel töltötte el az elismerés.
+
+A homokvárat egy apró sánc megvédte. Az óriás kő-bástyákból, kapukból, apró hidakból a harcban kiválóan felkészített vár állt.
+
+Leült a homokba a vár mellé, és a homokvásáig lapáttal kivezette a kis hidat. Sajnálkozva nézte, ahogy a hullámok közeledtek a várhoz, egyre közelebb. Tudta, hogy a tenger, mint a váraknál szokás, be fogja venni a várat. A hirtelen erősödő szél, a habok zubogása nem kímélt semmit. De nem volt szomorú. Tudta, hogy amit a szíve épített, az örökké megmarad.
+
+Ahogy a hullámok elérték a várát, István felkelt, a rajzot a kezében tartva. Egy hatalmas hullám letarolta a homokvárat, és mindent a tengerbe vitt. István megfordult, és elindult a szüleihez, a rajzzal a kezében, a naplementében ragyogó arcával. Tudta, hogy a világ legszebb homokvárát építette fel, a tengerparton délben, és az a homokvár, amit a szeretete és az álmai építettek, örökre megmarad a szívében és a képzeletében. A nyári szünet hátralévő részében újabb és újabb várakat tervezett, és bár mindet letarolta a tenger, az ő emlékezetében a rajzon örökké ott ragyogott a világ legszebb homokvára. Aztán ahogy a nap eltűnt a horizonton, István a következő napokon már a nagypapa-rajzokat használta fel, miközben új terveket eszelt ki az újabb kalandokhoz. A várépítés varázsa megmaradt örökre.
+</body>
+```

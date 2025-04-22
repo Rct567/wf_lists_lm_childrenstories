@@ -1,0 +1,37 @@
+<prompt>
+Please write a educational Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Solis Radii et Lunae: Nocturnae Luces'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>la</lang_id>
+
+<title>Solis Radii et Lunae: Nocturnae Luces</title>
+<body>Erant olim duo amici, Sol et Luna, qui in caelo habitabant. Sol erat calorosus et splendidus, Luna autem erat frigida et serena. Solis radii per diem terram illuminabant, et omnia viventia gaudebant calore eius. Luna, nocte autem, suam lumen per terram spargebat, et omnia nocturna animalia eius lumine utebantur.
+
+Sol et Luna semper disputabant, quis eorum esset potior. Sol dicebat: "Ego sum potior, quia mei radii terram calent et omnia viventia alunt." Luna respondit: "Non, ego sum potior, quia meum lumen noctem illuminat et omnia nocturna animalia tutela mea sunt."
+
+Die quadam, Sol et Luna decidere voluerunt, quis eorum esset potior. Igitur, ad Iudicem Caeli, qui erat sapientissimus et iustissimus, accesserunt. Iudex Caeli audiit disputatio eorum et dixit: "Ut sciam, quis vestrum potior sit, faciam experimentum. Sol, tu meus radiis caloris plenus eris, et Luna, tu meum lumen noctis plenus eris. Tunc, videbo, quis eorum potior sit."
+
+Sol et Luna consenserunt et Iudex Caeli experimentum fecit. Solis radii terram calent, et omnia viventia gaudebant calore eius. Luna, nocte autem, suam lumen per terram spargebat, et omnia nocturna animalia eius lumine utebantur. Iudex Caeli videbat, quid Sol et Luna facerent, et dixit: "Videtur mihi, ut Sol et Luna, ambo potiores sint, sed diversis modis."
+
+Sol et Luna interrogaverunt Iudicem Caeli: "Quomodo potiores sumus?" Iudex Caeli respondit: "Sol, tu es potior, quia mei radii terram calent et omnia viventia alunt. Sed Luna, tu es potior, quia meum lumen noctem illuminat et omnia nocturna animalia tutela mea sunt. Ergo, ambo potiores estis, sed diversis modis."
+
+Sol et Luna intellexerunt, quid Iudex Caeli diceret, et amicitiam suam renovaverunt. Ab illo die, Sol et Luna semper cooperabantur, ut terram et omnia viventia alerent. Solis radii per diem terram illuminabant, et Luna, nocte autem, suam lumen per terram spargebat. Et omnia viventia gaudebant calore Solis et lumine Lunae.
+
+Iudex Caeli, postea, Soli et Lunae dixit: "Vos ambo, Sol et Luna, potiores estis, sed non solum vos. Sunt et alii, qui potiores sunt, sed diversis modis. Est Terra, quae omnia viventia alit, et est Mare, quod omnia aquatica animalia sustentat. Est Ignis, qui omnia calida et luxuriosa creat, et est Ventus, qui omnia movet et mutat."
+
+Sol et Luna interrogaverunt Iudicem Caeli: "Quomodo Terra, Mare, Ignis, et Ventus potiores sunt?" Iudex Caeli respondit: "Terra, quia omnia viventia alit, et Mare, quod omnia aquatica animalia sustentat. Ignis, quia omnia calida et luxuriosa creat, et Ventus, quia omnia movet et mutat. Ergo, omnes potiores sunt, sed diversis modis."
+
+Sol et Luna intellexerunt, quid Iudex Caeli diceret, et amicitiam suam cum Terra, Mare, Ignis, et Ventu renovaverunt. Ab illo die, Sol, Luna, Terra, Mare, Ignis, et Ventus semper cooperabantur, ut omnia viventia alerent et sustentarent. Solis radii per diem terram illuminabant, et Luna, nocte autem, suam lumen per terram spargebat. Terra omnia viventia alit, et Mare omnia aquatica animalia sustentat. Ignis omnia calida et luxuriosa creat, et Ventus omnia movet et mutat.
+
+Et omnia viventia gaudebant calore Solis, lumine Lunae, alimento Terrae, sustentatione Maris, calore Ignis, et motu Ventis. Et Sol, Luna, Terra, Mare, Ignis, et Ventus semper amici erant, et cooperabantur, ut omnia viventia alerent et sustentarent. Et Iudex Caeli videbat, quid Sol, Luna, Terra, Mare, Ignis, et Ventus facerent, et dixit: "Videtur mihi, ut omnes amici sint, et cooperent, ut omnia viventia alant et sustentent."
+
+Et ita, Sol, Luna, Terra, Mare, Ignis, et Ventus semper amici erant, et cooperabantur, ut omnia viventia alerent et sustentarent. Et omnia viventia gaudebant calore Solis, lumine Lunae, alimento Terrae, sustentatione Maris, calore Ignis, et motu Ventis. Et Iudex Caeli semper videbat, quid Sol, Luna, Terra, Mare, Ignis, et Ventus facerent, et dixit: "Videtur mihi, ut omnes amici sint, et cooperent, ut omnia viventia alant et sustentent."
+
+Et haec est historia Solis et Lunae, et amicorum eorum, Terrae, Maris, Ignis, et Ventis. Et omnes intellegunt, quid Iudex Caeli diceret, et amicitiam suam renovaverunt. Et ab illo die, Sol, Luna, Terra, Mare, Ignis, et Ventus semper cooperabantur, ut omnia viventia alerent et sustentarent. Et omnia viventia gaudebant calore Solis, lumine Lunae, alimento Terrae, sustentatione Maris, calore Ignis, et motu Ventis.</body>

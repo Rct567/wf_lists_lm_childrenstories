@@ -1,0 +1,21 @@
+<prompt>
+Please write a creative and original Tajik children's story that is at least 1000 words long.
+It must be completely written in proper Tajik (TG).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Қисмати Ду Ошиқон дар Кӯл'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>tg</lang_id>
+
+```text
+<title>Қисмати Ду Ошиқон дар Кӯл</title>
+<body>
+Дар диёри зебои Тоҷикистон, ки бо кӯҳҳои баланд ва даштҳои сабзу хуррам зебоӣ дошт, ду ошиқ буданд: Гулбаҳор ва Наврӯз. Гулбаҳор духтари зебои бо чашмони кабуди осмонӣ ва мӯйҳои сиёҳи шабона буд. Наврӯз ҷавони қавииҷусса ва дилбози бо дили пурмуҳаббат буд. Онҳо дар наздикии кӯли калоне, ки дар миёни кӯҳҳо ҷойгир буд, зиндагӣ мекарданд. Ин кӯл, ки ба "Кӯли Меҳр" машҳур буд, оби софу шаффоф дошт ва дар атрофаш гулҳои рангоранг ва дарахтони сабзи ҳар навъ месабзиданд.
+
+Гулбаҳор ва Наврӯз ҳар рӯз дар соҳили Кӯли Меҳр вомехӯрданд. Онҳо дар бораи муҳаббаташон, орзуҳояшон ва ояндаашон сӯҳбат мекарданд. Гулҳоро аз соҳил мечиданд ва ба ҳамдигар туҳфа мекарданд. Наврӯз шеър мехонд ва Гулбаҳор суруд мегуфт. Онҳо дар зери офтоби гарм ва дар сояи дарахтони баланду қадимаи атрофи кӯл вақти худро мегузарониданд.
+
+Як рӯз, ва

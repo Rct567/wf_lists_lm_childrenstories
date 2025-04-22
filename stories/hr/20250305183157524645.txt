@@ -1,0 +1,31 @@
+<prompt>
+Please write a uncomplicated Croatian children's story that is at least 1000 words long.
+It must be completely written in proper Croatian (HR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Putovanje malene vile kroz cvjetne livade pune šarenog cvijeća.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hr</lang_id>
+
+<title>Putovanje malene vile kroz cvjetne livade pune šarenog cvijeća.</title>
+<body>
+Mala vila, s krilima poput svilenih leptira, živjela je u malom cvijetu ljubičice, skrivenom u srcu velike cvjetne livade.  Zvala se Ljiljana, a njezina su krila bila boje zore, s blagim nijansama ljubičaste i ružičaste.  Svaki dan Ljiljana bi se igrala s kapljicama rose, plesala među cvijećem i slušala pjesme pčela.  No, danas je bila posebna želja u srcu malene vile. Željela je istražiti šarene livade koje se protežu daleko iza njezina omiljenog cvijetnog kuta.
+
+Sunce je sjalo s vedrog neba, a zraci su se igrali među cvjetovima.  Ljiljana je duboko udahnula miris cvijeća - miris ruža, tratinčica, ljubičica i mnogih drugih, neprepoznatljivih, mirisa.  Podigla je svoja krila i s lakoćom se uzdigla u zrak.  Cvjetovi su se vrtjeli ispod nje, kao što se vrtjeli i oblaci na nebu.
+
+Prva livade koju je Ljiljana srela bila je livade pune cvjetova sunčanice.  Svaki je cvijet bio kao mali zlatan sunce, što je činilo da se livade sjaje.  Ljiljana je slijedila miris slatkog nektara, a pčele su je pozdravljale s ljubaznim zujanjem.  Naučila je da svaki cvijet ima svoju posebnu pjesmu, svoj poseban miris i svoj poseban način da se raduje suncu.
+
+Dalje se protezala livade ruža.  Njihovi su cvjetovi bili različitih boja - od svijetle ružičaste do duboke crvene.  Ljiljana je s divljenjem promatrala svaku nijansu.  Ruže su imale posebnu ljepotu, a njihove mirisne latice su se širile po zraku. Ljiljana je čula šapat ruža, koje su joj govorile o ljepoti i snazi ljubavi.
+
+Idući dan, Ljiljana je stigla do livade tratinčica.  Njihovi su cvjetovi bili žuti, kao sunce, a njihove su latice bile poput malih, mekanih perja.  Ljiljana se igrala s laticama, osjećajući njihovu nježnost.  Tatinčice su joj otkrile tajnu mira i ljepote jednostavnosti.
+
+Prolazila je kroz livade s plavim zvjezdicama, livade s bijelim narcisima, s ljubičastim i žutim imenima koja je tek trebala otkriti.  Svaki cvijet, svaki miris, svaki zvuk bio je nova lekcija za malu vilu.  Upoznala je pčele, leptire, bubamare i mnoge druge životinje koje su dijelile ove cvjetne livade.  Saznala je da su svi oni povezani, da svi imaju svoju ulogu u prirodi i da se svi zajedno brinu za ljepotu livade.
+
+Na svom putovanju, Ljiljana je srela i jednu malu, usamljenu ljubičicu, koja je bila tužna jer nije imala nikoga tko bi je pogledao. Ljiljana je prišla cvijetu i nježno mu rekla: "Nemoj biti tužan.  Ljepota je u svakom cvijetu, a tvoje su latice toliko lijepe."  Ljiljana je s cvijetom provela cijeli dan, pričajući mu o čaroliji cvijeća i livade.  Čula je da je cvijet, zahvaljujući njoj, ponovno sretan.
+
+Nakon dugog putovanja, Ljiljana je shvatila da je lijepa cvjetna livade mnogo veća nego što je mislila.  Sretna je vratila se u svoju omiljenu ljubičicu, s novim znanjem i iskustvom.  Nosila je u sebi sjećanje na svaki cvijet, svaki miris, svaki zvuk.  Znala je da će se uvijek vraćati u ove cvjetne livade, jer su one bile njezin dom, njezina škola i njezino srce.  I tako je Ljiljana nastavila živjeti u svom malom cvijetu ljubičice, sretna i ispunjena ljubavlju prema svijetu oko sebe.
+</body>

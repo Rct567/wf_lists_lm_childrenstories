@@ -1,0 +1,71 @@
+<prompt>
+Please write a silly Galician children's story that is at least 1000 words long.
+It must be completely written in proper Galician (GL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A princesa que quería ser unha estrela de rock'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>gl</lang_id>
+
+```xml
+<title>A princesa que quería ser unha estrela de rock</title>
+<body>
+Nun reino moi, moi lonxe de aquí, nunha terra onde as vacas falaban con acento de Pontevedra e os carballos bailaban muiñeiras cando había vento forte, vivía unha princesa. Pero non era unha princesa calquera, non señor. Esta princesa, chamada Rosalía, tiña un segredo. Un segredo tan grande como o Monte Pindo, e tan barulhento como unha charanga nunha festa de San Xoán.
+
+Rosalía non quería ser princesa. Non quería levar vestidos longos e pesados, nin aprender boas maneiras, nin falar con palabras rimbombantes que ninguén entendía. Non. Rosalía quería ser unha estrela de rock!
+
+Todos os días, mentres as outras princesas facían punto e tomaban té con bolos de mel, Rosalía encerrábase no seu cuarto, que máis ben parecía un estudio de música. O cuarto estaba cheo de instrumentos estraños e coloridos: unha batería feita con caldeiros vellos e tapas de potas (que facían un son ¡boom-chac, boom-chac!), unha guitarra feita cunha táboa de lavar e cordas de roupa (que emitía un son "clang-clang-clang"), e un teclado de acordeón roubado ao gaiteiro do castelo (que tocaba unha melodía peculiar, a medio camiño entre unha polca e unha cantiga de berce).
+
+Ás veces, cando o rei, o seu pai, a chamaba para cear, ela respondía cun berro tan forte que facía tremer os cristais das ventás: "¡Non vou, papá! Estou a facer ensaio!".
+
+O rei, un home bo e bonachón, cunha barba tan longa que a usaba para trenzar, non entendía nada. "Unha estrela de rock? Que burrada é esa, Rosalía?", solía dicir, removéndose a barba. "As princesas teñen que casar con príncipes, ter fillos e gobernar o reino con sabedoría. Non é cousa de facer ruído e saltar por aí coma unha marmota!".
+
+Pero a nai de Rosalía, a raíña, unha muller intelixente e cun ollo posto en todo, entendía a súa filla. Sabía que Rosalía era diferente, especial. E, sobre todo, sabía que unha princesa infeliz é peor ca unha vaca con dor de estómago nun día de choiva.
+
+Un día, mentres Rosalía estaba a tocar a súa táboa de lavar-guitarra, a raíña entrou no cuarto. "Rosalía, podo falar contigo?", preguntou cun sorriso.
+
+"Claro, mamá. Pasa, pero coidado coa batería, que está a cargar", respondeu Rosalía, sen deixar de "clanguear" a guitarra.
+
+A raíña sentouse nunha cadeira feita con fardos de palla e mirou para a súa filla. "Vexo que tes moito talento, miña querida. Pero, quizais, poderiamos aproveitar esas habilidades para algo máis... formal?"
+
+Rosalía deixou de tocar e mirou para a súa nai, confusa. "Formal? Que queres dicir, mamá?"
+
+"Mira, mañá o reino vai celebrar unha gran festa. Van vir príncipes de todos os lugares, conde e duquesas. Haberá bailes, banquetes e moita, moita xente. E..." - a raíña fixo unha pausa dramática - "... tamén haberá un concurso musical!".
+
+Os ollos de Rosalía brillaron. "Un concurso musical?! E podo participar?!"
+
+"Por suposto! Pero... con unha condición. Necesito que fagas un bo papel, que te comportes como unha princesa polo menos por un día, e que o rei non se escandalice moito coa túa vestimenta", dixo a raíña, cun pestaneo.
+
+Rosalía dubidou un intre. Era a súa gran oportunidade. Se gañaba, podería demostrar a todos o seu talento. E, quen sabe, quizais conseguiría o permiso do seu pai para montar unha banda de rock!
+
+"De acordo, mamá!", exclamou Rosalía, cun sorriso enorme. "Farei o que me pidas!".
+
+E así foi como comezou a preparar a actuación máis importante da súa vida. Traballou sen descanso, ensaiando cada nota, cada berro, cada movemento escénico. A súa nai axudouna a crear un vestiario especial: un vestido de princesa, pero con cremalleras grandes e cheo de tachas de cores; botas de coiro con plataformas enormes e un peiteado extravagante, con moitos rizos e trenzas.
+
+O día da festa chegou. O castelo estaba engalanado con bandeiras e serpentinas. A xente chegaba de todos os recunchos do reino: príncipes con traxes brillantes, condes con sombreiros altos, duquesas con xoias resplandecentes... e, por suposto, moitos aldeáns curiosos.
+
+Rosalía sentía nervios, pero tamén emoción. Cando chegou o momento do concurso, subiu ao escenario co seu corazón a mil por hora. O rei, sentado no seu trono, parecía máis pálido do habitual. A raíña, en cambio, sorría con orgullo.
+
+Unha vez que o presentador (unha gaivota elegante cun frac e un bigote) anunciou o seu nome, Rosalía pegou un berro e empezou a tocar. A súa música era unha mestura estraña e divertida de rock, muiñeira e cantiga de berce. A batería de caldeiros facía "boom-chac, boom-chac", a guitarra de táboa de lavar "clang-clang-clang" e o acordeón tocaba unha melodía tola e pegadiza.
+
+A xente miraba para ela, sorprendida e confusa. Algúns rían, outros movían a cabeza negativamente. O rei estaba a punto de desmaiarse.
+
+Pero Rosalía non se importaba. Ela seguía a tocar con paixón, saltando e bailando polo escenario, berrando a letra da súa canción: "Son unha princesa de rock, rock, rock! Non quero ser unha princesa de conto, conto, conto!".
+
+A actuación durou moitos minutos (ou talvez parecese unha eternidade para o rei). Ao final, Rosalía acabou case sen voz e suando coma unha ameixa. A xente aplaudiu con timidez. O presentador gaivota dubidou. O rei parecía a piques de ordenar a execución da súa filla.
+
+Pero entón... a raíña levantouse do seu asento e comezou a aplaudir. E, aos poucos, o resto da xente uniuse. Primeiro con aplausos tímidos, logo con máis forza, ata que o salón enteiro estaba a vibrar cos aplausos.
+
+O xurado, composto por un grupo de vacas sabias (que entendían moito de música), declarou a Rosalía gañadora do concurso!
+
+O rei, sorprendido polo entusiasmo xeral e pola habilidade da súa filla, respirou profundamente e dixo: "Rosalía... fíxenche unha tolemia... pero divertida. Estou orgulloso de ti".
+
+E dende ese día, Rosalía converteuse na princesa máis famosa do reino. Fundou a súa banda de rock, "As Princesas do Rock and Roll", deu concertos por todo o país e ensinou aos seus pais a bailar muiñeiras con ritmo de rock. As vacas, que se converteron nas súas fans número un, animábana dende as primeiras filas.
+
+E, aínda que aínda tiña que asistir a algúns bailes e banquetes reais, Rosalía sempre atopaba tempo para subir ao escenario e demostrar a todos que, aínda que fose princesa, o seu corazón sempre batería ao ritmo do rock and roll. E así, a princesa que quería ser unha estrela de rock viviu feliz para sempre, nun reino onde as vacas berraban "¡Ole!" e os carballos facían o "pogo".
+</body>
+```

@@ -1,0 +1,75 @@
+<prompt>
+Please write a simple and easy-to-follow French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Le club secret des explorateurs et leurs cartes au trésor farfelues.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```xml
+<title>Le club secret des explorateurs et leurs cartes au trésor farfelues.</title>
+<body>
+<p>Au cœur d'une petite ville pittoresque nommée Fleurville, nichée entre des collines verdoyantes et une rivière scintillante, se trouvait une bande d'amis inséparables. Ils se faisaient appeler « Le Club Secret des Explorateurs ». Ce club était composé de quatre enfants pleins de curiosité : Sophie, l'intelligente et curieuse ; Théo, le courageux et aventureux ; Léa, l'artiste et pleine d'imagination ; et Hugo, le maladroit mais toujours enthousiaste.</p>
+
+<p>Ils avaient tous entre sept et huit ans, et leur quartier général était une cabane en bois construite au fond du jardin de Sophie, cachée derrière un grand buisson de rosiers grimpants. La cabane était leur sanctuaire, remplie de cartes au trésor dessinées avec des crayons de couleur, de jumelles poussiéreuses, de vieilles boussoles et d'une collection hétéroclite d'objets trouvés au cours de leurs aventures.</p>
+
+<p>Un après-midi ensoleillé, les quatre amis étaient réunis dans la cabane. Sophie, avec ses lunettes rondes et ses longs cheveux bruns, était en train de décrypter une énigme qu'elle avait trouvée dans un vieux livre. Théo, toujours prêt à l'action, s'impatientait, tambourinant avec ses doigts sur la table en bois. Léa, elle, dessinait de nouvelles cartes au trésor, imaginant des lieux fantastiques remplis de dangers et de merveilles. Quant à Hugo, il trébuchait presque sur le seuil de la cabane, un grand sourire sur les lèvres.</p>
+
+<p>« Alors, Sophie, as-tu trouvé quelque chose ? » demanda Théo, impatient de partir à l'aventure. </p>
+
+<p>Sophie leva les yeux de son livre, un air pensif sur le visage. « Oui, j'ai presque terminé. L'énigme dit : 'Là où le soleil embrasse l'eau et où les pierres murmurent des secrets, cherchez le symbole de l'étoile dorée.' »</p>
+
+<p>Léa, interrompant son dessin, s'exclama : « Le symbole de l'étoile dorée ! Ça me rappelle la carte au trésor que j'ai dessinée hier. Je l'ai appelée ‘Le Trésor des Lucioles Brillantes’ ! » Elle sortit une carte farfelue de sa pochette. Elle était illustrée de montagnes roses, de rivières de chocolat, et de lucioles géantes. </p>
+
+<p>Hugo, qui avait enfin trouvé une chaise, ajouta, avec enthousiasme : « Et moi, j'ai ma propre carte au trésor aussi ! C'est ‘Le trésor du Chat Pirate’, et il est gardé par un chat géant qui parle ! » Il sortit une carte dessinée maladroitement avec des traits tremblants, montrant un chat avec un bandeau sur l'œil et une jambe de bois, assis sur un tas de pièces d'or.</p>
+
+<p>Théo, toujours pragmatique, demanda : « Mais où cela se trouve-t-il, réellement ? Ces cartes semblent un peu… imaginatives ! »</p>
+
+<p>Sophie réfléchit un instant, puis dit : « Je crois que l'énigme fait référence à la rivière qui traverse Fleurville et aux rochers au bord de l'eau. Nous devons trouver un endroit où le soleil se reflète dans la rivière, et qui a un rocher en forme d'étoile. »</p>
+
+<p>Ils décidèrent de partir à la recherche de ce fameux "endroit magique". Armés des cartes au trésor farfelues de Léa et Hugo, d'une boussole empruntée au grand-père de Théo et d'une gourde remplie de limonade maison, les quatre explorateurs sortirent de la cabane, plein d'espoir.</p>
+
+<p>Ils suivirent la rivière, en commençant par les berges près du pont. Le soleil brillait sur l'eau scintillante, mais les rochers n'avaient pas la forme d'une étoile. Ils explorèrent ensuite un petit chemin caché au bord de l'eau. Léa indiquait parfois des endroits sur sa carte, imaginant des ponts en bonbons et des gardes de trésor en forme d'ours en peluche. Hugo, quant à lui, cherchait activement des traces du chat pirate.</p>
+
+<p>Après une longue marche, ils arrivèrent à un endroit où la rivière faisait un virage, et où le soleil illuminait parfaitement l'eau. Sur le bord, il y avait un grand rocher. Ils l'observèrent attentivement et soudainement Sophie cria : "Regardez! Il y a une fissure qui forme une étoile !" </p>
+
+<p>Ils sautèrent de joie. L'endroit où l'eau embrassait le soleil et où les pierres murmuraient semblait être là. Mais aucune carte n'indiquait vraiment ce qu'il fallait faire maintenant, les cartes étant pleines de créativité et non de précision.</p>
+
+<p>Ils commencèrent à chercher. Théo, fidèle à lui-même, souleva des pierres, tandis que Léa scruta les environs en quête d'indices artistiques sur sa carte, observant chaque buisson et chaque fleur. Hugo, de son côté, cherchait les traces de pattes d'un chat, tout en répétant à voix haute les conseils du chat pirate qu'il avait imaginés. </p>
+
+<p>Soudain, Hugo cria : « J'ai trouvé quelque chose ! » Il pointait du doigt un petit trou dans le rocher en forme d'étoile. « Il y a quelque chose à l'intérieur ! » </p>
+
+<p>Théo, avec précaution, utilisa une petite branche pour atteindre l'intérieur. Au bout de la branche, il ramena une petite boîte en bois. Les enfants, emplis de curiosité, ouvrirent la boîte. </p>
+
+<p>À l'intérieur, ils trouvèrent une autre énigme et un parchemin roulé avec l'inscription 'Le prochain indice est proche du symbole de l'oiseau qui chante tous les matins'.</p>
+
+<p>« Super ! Une nouvelle aventure ! » s'exclama Théo. </p>
+
+<p>Ils savaient tous que « le symbole de l'oiseau qui chante » faisait référence à un vieux chêne, célèbre à Fleurville car on disait qu’un rossignol chantait sur l’une de ses branches chaque matin.</p>
+
+<p>Les enfants coururent vers le vieux chêne. Il se trouvait à l'autre bout de la ville, au milieu d'un parc verdoyant. L'énigme contenue dans la boîte en bois les avait menés au prochain indice.</p>
+
+<p>Une fois arrivés au chêne, ils regardèrent partout autour de l'arbre. Le rossignol chantait effectivement, ce qui remplissait leurs cœurs d'espoir.</p>
+
+<p>Sophie, réfléchissant un instant, remarqua que sur l'une des branches de l'arbre, il y avait une petite inscription gravée sur l'écorce. En s'approchant, ils découvrirent des lettres gravées en forme d'étoile, qui formaient un mot : "CACHE".</p>
+
+<p>« Cache… Ça veut dire qu'il y a quelque chose de caché ! » s'écria Léa, toute excitée.</p>
+
+<p>Ensuite, tout le monde se mit à chercher autour de l'arbre. Théo examina le tronc, Hugo regarda dans le creux des branches, et Léa vérifia tous les endroits imaginables que sa créativité lui suggérait.</p>
+
+<p>Après de longues minutes de recherche, Hugo trébucha accidentellement contre la racine d'un arbre et tomba sur quelque chose de dur. En se relevant, il remarqua qu'il avait révélé une petite cachette, nichée sous la racine de l'arbre. A l'intérieur, ils découvrirent un petit coffre, doré et brillant.</p>
+
+<p>Avec les mains tremblantes d'excitation, ils ouvrirent le coffre. À l'intérieur, au lieu de trésors d'or et de diamants, se trouvaient des lettres. Elles étaient toutes signées par le grand-père de Théo. Les enfants souriaient. Leur trésor était différent, mais il était précieux : c'était la preuve qu'ils étaient capable de créer de formidables aventures.</p>
+
+<p>Il y avait des lettres pour chaque enfant du club, qui lui racontaient l'histoire de ce jour. Le grand-père avait écrit de tendres mots et encouragé leur curiosité. Il les félicitait pour leur esprit d'équipe, pour leur créativité et pour l'amitié qui les liait. Ces lettres devinrent le trésor le plus précieux du Club Secret des Explorateurs.</p>
+
+<p>Ce soir-là, de retour dans la cabane, les quatre amis relurent leurs lettres, savourant chaque mot. Ils avaient appris qu'une aventure n'avait pas besoin d'être pleine d'or et de bijoux pour être extraordinaire. L'amitié, la curiosité, l'imagination et le courage étaient les vrais trésors. </p>
+
+<p>Et c'est ainsi que le Club Secret des Explorateurs, avec ses cartes au trésor farfelues et son cœur rempli de joie, continua ses aventures, prêt à explorer les mystères du monde et à vivre des moments inoubliables, toujours ensemble.</p>
+</body>
+```

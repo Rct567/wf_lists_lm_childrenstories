@@ -1,0 +1,41 @@
+<prompt>
+Please write a uncomplicated Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Mažasis Strazdelis, Kuris Pamatė Visą Pasaulį'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>lt</lang_id>
+
+<title>Mažasis Strazdelis, Kuris Pamatė Visą Pasaulį</title>
+<body>Kadaise, šalia didelio miško, gyveno mažo strazdelio šeima. Mažasis strazdelis, kurio vardas buvo Strazdas, buvo labai smalsus ir norėjo pamatyti visą pasaulį. Jis kasdien klaustė savo tėvų: "Ką yra už mūsų miško? Ar ten yra dar daugiau medžių? Ar ten gyvena kitų paukščių?"
+
+Jo tėvai, Strazdo tėvas ir mama, būdavo juokingi ir sakydavo: "Žinoma, Strazdu, ten yra daugiau medžių, ir gyvena daug kitų paukščių. Bet pasaulis yra didelis, ir ten yra daug ko pamatyti." Strazdas norėjo pamatyti viską, bet jo tėvai sakydavo, kad jis dar per jaunas, kad galėtų skristi toli.
+
+Vieną dieną, Strazdas nusprendė, kad jis negali daugiau laukti. Jis pasakė savo tėvams, kad jis skris į pasaulį ir pamatys viską. Jo tėvai buvo susirūpinę, bet Strazdas buvo nusprendęs. Jis pasveiko savo tėvus ir išskrido iš lizdo.
+
+Strazdas skrido ir skrido, kol pasiekė miško pakraštį. Ten jis pamatė didelą lauką, kur augo gėlės ir žolė. Strazdas buvo nuostabęs, kad pasaulis yra toks didelis ir gražus. Jis skrido per lauką ir pamatė daug kitų paukščių, kurie skrido ir šoko.
+
+Strazdas skrido toliau ir pasiekė upę. Ten jis pamatė žuvį, kurie plaukiojo vandenyje. Strazdas buvo labai žavėjosi, kad upė yra tokia didelė ir gili. Jis skrido per upę ir pamatė daug kitų gyvūnų, kurie gyveno ten.
+
+Strazdas skrido ir skrido, kol pasiekė kalnus. Ten jis pamatė didelius akmenis ir uolas. Strazdas buvo nuostabęs, kad kalnai yra tokie aukšti ir stiprūs. Jis skrido per kalnus ir pamatė daug kitų paukščių, kurie gyveno ten.
+
+Strazdas skrido toliau ir pasiekė jūrą. Ten jis pamatį vandens ir bangas. Strazdas buvo labai žavėjosi, kad jūra yra tokia didelė ir galinga. Jis skrido per jūrą ir pamatį daug kitų gyvūnų, kurie gyveno ten.
+
+Strazdas skrido ir skrido, kol pasiekį kitą šalį. Ten jis pamatį kitų žmonių ir miestų. Strazdas buvo nuostabęs, kad pasaulis yra toks didelis ir įvairus. Jis skrido per miestus ir pamatį daug kitų gyvūnų, kurie gyveno ten.
+
+Strazdas skrido toliau ir pasiekį dar kitą šalį. Ten jis pamatį dar kitų žmonių ir miestų. Strazdas buvo labai žavėjosi, kad pasaulis yra toks didelis ir gražus. Jis skrido per miestus ir pamatį daug kitų gyvūnų, kurie gyveno ten.
+
+Strazdas skrido ir skrido, kol pasiekį savo namus. Jis buvo labai užsispyręs, kad jis pamatė visą pasaulį. Jo tėvai buvo labai džiaugsmingi, kad Strazdas grįžo namo. Jie klausinėjo Strazdo, ką jis pamatė, ir Strazdas pasakė jiems viską.
+
+Strazdas pasakė savo tėvams, kad jis pamatė didelą lauką, upę, kalnus, jūrą, kitų žmonių ir miestų. Jis pasakė, kad pasaulis yra toks didelis ir gražus. Jo tėvai buvo labai džiaugsmingi, kad Strazdas pamatė viską, ką jis norėjo.
+
+Nuo tada Strazdas buvo laikomas didžiausiu paukščiu visame miške. Jis buvo labai žinomas, kad jis pamatė visą pasaulį. Strazdas buvo labai džiaugsmingas, kad jis galėjo pamatyti viską, ką jis norėjo. Jis skrido ir skrido, bet jis visada grįždavo namo, kad pasikalbėtų su savo tėvais ir pasakotų jiems apie savo keliones.
+
+Strazdas taip pat mokė kitus paukščius, kad pasaulis yra didelis ir gražus. Jis sakydavo, kad visi paukščiai turi skristi ir pamatyti viską, ką pasaulis turi. Strazdas buvo labai gerbiamas, kad jis mokė kitus paukščius apie pasaulį.
+
+Ir taip Strazdas gyveno ilgai ir buvo laikomas didžiausiu paukščiu visame miške. Jis visada skrido ir pamatydavo naujas vietas, bet jis visada grįždavo namo, kad pasikalbėtų su savo tėvais ir pasakotų jiems apie savo keliones. Strazdas buvo labai džiaugsmingas, kad jis galėjo pamatyti viską, ką jis norėjo, ir jis visada buvo laikomas didžiausiu paukščiu visame miške.</body>

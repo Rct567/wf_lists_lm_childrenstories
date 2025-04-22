@@ -1,0 +1,75 @@
+<prompt>
+Please write a uncomplicated Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Punainen kengännauha ja seikkailu ja etsinnät ja uuden löytäminen ja ihmettely.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fi</lang_id>
+
+```xml
+<title>Punainen kengännauha ja seikkailu ja etsinnät ja uuden löytäminen ja ihmettely.</title><body>
+
+Olipa kerran, kaukana, kaukana, ihan oikeasti kaukana, pieni kylä, jonka nimi oli Koivula. Koivulassa asui pieni tyttö nimeltä Maija. Maija oli ihan tavallinen tyttö, paitsi että hänellä oli yksi salaisuus: hän rakasti seikkailuja. Ja hänellä oli toinenkin salaisuus: hänen kengännauhoistaan toinen oli punainen, kuin tomaatti, ja toinen oli sininen, kuin taivas.
+
+Eräänä aamuna, kun Maija heräsi, aurinko paistoi kirkkaasti. Hänellä oli kummallinen tunne vatsassaan – tunne seikkailusta! Hän söi aamiaiseksi puuroa, juoksi hampaita harjaamaan, ja hyppäsi kengät jalkaansa. Ja silloin se tapahtui.
+
+Hän huomasi, että hänen punainen kengännauhansa oli poissa!
+
+"Voi ei!" Maija huudahti. Hän katsoi kenkiään ja tuijotti sinistä nauhaa. "Minun täytyy löytää punainen nauha!"
+
+Hän juoksi ulos ovesta, katsoen joka puolelle. Hän katsoi nurmikkoa, pensaiden alle, ja jopa naapurin kissan hännän alle (siis katsoi vain varovasti!). Mutta nauhaa ei missään näkynyt.
+
+"Missä se voi olla?" Maija kysyi itseltään. Hänen mielessään alkoi pyöriä ajatuksia: ehkä se oli lentänyt pois tuulen mukana? Ehkä sen oli napannut joku orava? Ehkä joku salainen haltija oli vienyt sen!
+
+Hän päätti aloittaa etsinnät. Ensimmäiseksi hän käveli omalle pihalleen. Hän kumartui ja tutki maata, tarkasti, sentti sentiltä. Ei mitään.
+
+Sitten hän päätti mennä metsään. Hän tiesi, että metsässä asui monia eläimiä, jotka saattaisivat nähdä tai tietää jotain. Hänellä oli mukanaan pieni kori, johon hänellä oli suunnitelma kerätä marjoja, jos onnistuisi löytämään nauhan.
+
+Metsässä oli ihanaa. Aurinko siivilöityi puiden välistä ja lintujen laulu kaikui. Maija käveli varovasti, katsoen joka paikkaan. Hän huomasi oravan juoksevan puuhun, ja sinitiaisen laulavan korkealla oksalla.
+
+"Hei, orava!" Maija huusi varovasti. "Oletko nähnyt punaista kengännauhaa?"
+
+Orava katsoi häntä, heilutti sitä nopeasti ja juoksi sitten pois.
+
+Maija jatkoi matkaa. Hän kohtasi peuran, joka katsoi häntä suurilla, lempeillä silmillään.
+
+"Hyvää päivää, peura", Maija sanoi. "Oletko sinä nähnyt punaista kengännauhaa?"
+
+Peuran katse oli niin lempeä, että Maija melkein unohti nauhan. Peura nyökkäsi päätään hitaasti ja jatkoi sitten ruohon syömistä. Ilmeisesti ei ollut nähnyt.
+
+Maija jatkoi etsintäänsä. Hän katseli puitten juurelle, kukkien väliin ja lehtien alle. Hän jopa kurkisti pienessä purossä, mutta ei, ei punasta nauhaa.
+
+Pitkän ja väsyttävän metsäretken jälkeen, Maija istui alas suurelle kivelle. Häntä alkoi vähän väsyttää. Hän huokasi. "Missä se voi olla?" hän kuiskasi.
+
+Juuri silloin, kun Maija oli luopumassa toivosta, hän huomasi jotain. Hän näki pienen, punaista kimaltelevan jotain. Se oli aivan pienen, valkoisen kukan vieressä.
+
+Hän juoksi kohti ja kumartui. Ja siinä se oli! Punainen kengännauha, ihan kuin tomaatti!
+
+Maija otti sen käteensä. Se oli hieman likainen, mutta ehjä! Hän oli niin onnellinen, että hän melkein hyppäsi ilosta.
+
+"Jes!" hän huusi. "Minä löysin sen!"
+
+Mutta sitten hän katsoi tarkemmin. Nauhan vieressä oli jotain muuta. Pieni, pyöreä, punainen hedelmä. Se oli niin punainen ja kiiltävä, että se näytti juuri nauhalta!
+
+Maija nosti sen varovasti. Hänellä oli nyt sekä kengännauha että tuntematon hedelmä. Mitä hän tekisi?
+
+Hän päätti kokeilla. Hän otti hedelmän ja maistoi sitä varovasti. Se oli makeaa ja mehukasta, ihanan makuista! Se maistui hieman vadelmalta, hieman mansikalta, mutta ennen kaikkea se maistui seikkailulta!
+
+Hän söi koko hedelmän, nauttien jokaisesta suupalasta.
+
+Sitten hän palasi kotiin, nauha mukanaan. Hän sidottu punaisen nauhan kenkäänsä ja hyppeli riemusta.
+
+Kun Maija kertoi äidilleen seikkailustaan, äiti vain nauroi ja sanoi: "Näyttää siltä, että seikkailu löysi sinut, ei toisinpäin!"
+
+Illalla, kun Maija oli sängyssä, hän ajatteli päivän seikkailua. Hän oli kadottanut nauhansa, etsinyt sitä, löytänyt sen ja lisäksi löytänyt uuden, mahtavan hedelmän. Hän ihmetteli, mistä se hedelmä oli peräisin, ja minne hän seuraavaksi lähtisi seikkailemaan. Ehkä hän lähtisi etsimään uusia ihmeellisiä hedelmiä?
+
+Hän päätti, että seuraavana päivänä hän lähtisi jälleen seikkailemaan, sillä seikkailu oli hauskaa, ja maailma oli täynnä asioita, joita ei vielä tiennyt.
+
+Ja niin, pieni Maija nukahti, punainen ja sininen nauha kenkiensä vieressä, ja unelmoi uusista seikkailuista, uudenlaisista hedelmistä ja kaikista ihmeistä, joita maailma voisi hänelle vielä tarjota. Hän tiesi, että seikkailut odottavat, ja hän oli valmis niihin! Lopuksi hän hymyili, koska hän ymmärsi, että jokainen päivä voi olla uusi seikkailu, kun vain uskaltaa lähteä etsimään sitä! Ja siinä hän nukahti, punaisen kengännauhansa vieressä, odottaen uutta aamua ja uusia ihmeitä.
+</body>
+```

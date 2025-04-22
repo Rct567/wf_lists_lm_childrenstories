@@ -1,0 +1,55 @@
+<prompt>
+Please write a simple and easy-to-follow Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'O Kaczce, Która Odkryła Nowy Świat w Rzece'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pl</lang_id>
+
+```xml
+<title>O Kaczce, Która Odkryła Nowy Świat w Rzece</title>
+<body>
+Dawno, dawno temu, nad brzegiem uroczej, krętej rzeki, mieszkała mała kaczka o imieniu Zosia. Zosia była niezwykłą kaczką. Miała piękne, błyszczące pióra w odcieniach brązu i bieli, duże, ciekawe oczy i bardzo ciekawskie usposobienie. Spędzała większość czasu na pływaniu, nurkowaniu i obserwacji wszystkiego, co działo się wokół niej.
+
+Rzeka, w której mieszkała Zosia, była dla niej całym światem. Widziała w niej odbicia słońca i chmur, podziwiała tańczące w wodzie liście i słuchała śpiewu ptaków, które zamieszkiwały drzewa nad brzegiem. Zosia uwielbiała nurkować w poszukiwaniu smacznych glizd i małych ślimaków, które żyły na dnie. Ale pewnego dnia, podczas jednego ze swoich codziennych nurkowań, Zosia odkryła coś niezwykłego.
+
+Zazwyczaj, kiedy nurkowała, widziała tylko piaszczyste dno i kamienie, które leżały w spokojnym rytmie. Ale tego dnia, kiedy zanurzyła głowę głębiej, zobaczyła coś zupełnie innego. Zauważyła dużą, ciemną jaskinię, która znajdowała się pod korzeniami starego dębu, rosnącego tuż nad brzegiem. Jaskinia była ukryta w cieniu, niewidoczna z powierzchni wody.
+
+Zosia, zaintrygowana, postanowiła przyjrzeć się bliżej. Zacisnęła dziób, zebrała w sobie całą odwagę i zanurzyła się głębiej niż kiedykolwiek wcześniej. Płynęła w stronę tajemniczej jaskini, czując lekkie mrowienie w żołądku z powodu podekscytowania. Wpłynęła do wnętrza i ku jej zdziwieniu, odkryła zupełnie nowy świat.
+
+Jaskinia była pełna świetlistych roślin, które świeciły delikatnym, zielonkawym światłem. Dno było usłane drobnymi kamyczkami i piaskiem, a pomiędzy nimi biegały małe, srebrne rybki. Woda była krystalicznie czysta, a powietrze wypełnione było wilgocią i tajemniczym zapachem. Zosia, oniemiała z wrażenia, pływała wzdłuż i wszerz jaskini, podziwiając piękno otoczenia.
+
+Po chwili zauważyła coś jeszcze. W głębi jaskini, w miejscu, gdzie strumień światła wpadał przez mały otwór, zobaczyła grupę małych, kolorowych ślimaków. Ślimaki miały muszle w najróżniejszych kształtach i barwach – czerwone, żółte, niebieskie i zielone. Zosia nigdy wcześniej nie widziała tak pięknych stworzeń.
+
+Postanowiła się z nimi zaprzyjaźnić. Powoli podpłynęła do ślimaków i delikatnie się im przyglądała. Ślimaki, początkowo przestraszone, po chwili przyzwyczaiły się do jej obecności. Zosia zaczęła rozmawiać ze ślimakami, opowiadając im o swoim świecie nad rzeką. Opowiadała o słońcu, które ogrzewało jej pióra, o wietrze, który kołysał drzewami, i o innych kaczkach, które pływały z nią w rzece.
+
+Ślimaki, zafascynowane opowieściami Zosi, chętnie jej słuchały. Opowiadały jej o swoim świecie w jaskini, o świetlistych roślinach, o kryształowej wodzie i o tajemniczych stworzeniach, które czasami odwiedzały jaskinię.
+
+Każdego dnia Zosia odwiedzała swoich nowych przyjaciół w jaskini. Spędzała z nimi długie godziny, bawiąc się i ucząc się od siebie nawzajem. Zosia nauczyła się od ślimaków cierpliwości i uważnego obserwowania otoczenia. Ślimaki nauczyły się od Zosi radości z życia i doceniania piękna, które je otacza.
+
+Pewnego dnia, podczas wizyty w jaskini, Zosia usłyszała cichy szum. Zdziwiona, rozejrzała się dookoła. Zauważyła, że woda w jaskini zaczęła się podnosić. Ślimaki, przerażone, zaczęły się chować w swoje muszle.
+
+Zosia, zaniepokojona, postanowiła dowiedzieć się, co się dzieje. Wypłynęła na powierzchnię rzeki i zauważyła, że woda w rzece zaczyna się podnosić. Zrozumiała, że woda, która zalewała jaskinię, pochodziła z rzeki.
+
+Pobiegła do swojej mamy i opowiedziała jej o tym, co się dzieje. Mama Zosi, doświadczona kaczka, spojrzała na rzekę i powiedziała: „To pewnie wiosenne roztopy. Rzeka wylewa, więc trzeba być ostrożnym.”
+
+Zosia zrozumiała, że jej przyjaciele są w niebezpieczeństwie. Wiedziała, że musi im pomóc. Bez wahania wróciła do jaskini.
+
+Kiedy dotarła do jaskini, zobaczyła, że woda już prawie zalała całą jaskinię. Szybko zaczęła zbierać ślimaki i wynosić je na powierzchnię rzeki. Mimo że była mała, dawała z siebie wszystko. Płynęła w górę i w dół, przenosząc ślimaki w bezpieczne miejsce.
+
+Kiedy skończyła, wszystkie ślimaki były w bezpiecznym miejscu, na pniu starego dębu. Zosia, zmęczona, ale szczęśliwa, popatrzyła na swoich przyjaciół. Ślimaki były bezpieczne.
+
+Następnego dnia, kiedy woda w rzece opadła, Zosia i ślimaki ponownie spotkały się w jaskini. Jaskinia była nadal piękna, choć nieco zmieniona. Ślimaki były wdzięczne Zosi za jej odwagę i troskę.
+
+Od tamtego dnia, Zosia i ślimaki były jeszcze bardziej zaprzyjaźnione. Często spotykały się w jaskini, pływały razem w rzece i opowiadały sobie nowe historie. Zosia zrozumiała, że prawdziwa przyjaźń polega na wzajemnym wsparciu i trosce. Wiedziała, że jej mały świat w rzece był teraz o wiele bogatszy, dzięki niezwykłym przyjaciołom, które znalazła w tajemniczej jaskini.
+
+Zosia nauczyła się, że odkrywanie nowych miejsc i poznawanie nowych przyjaciół to najpiękniejsza przygoda, jaka może spotkać kaczkę. Zawsze pamiętała o tym, że ciekawość i odwaga mogą otworzyć drzwi do niezwykłych światów, a prawdziwa przyjaźń jest najcenniejszym skarbem. A rzeka, którą tak dobrze znała, stała się dla niej jeszcze bardziej fascynująca i pełna niespodzianek.
+
+Z czasem Zosia dorosła, ale nigdy nie zapomniała o jaskini i swoich przyjaciołach. Często odwiedzała ślimaki, a ich przyjaźń trwała przez wiele lat. Zosia stała się mądrą i odważną kaczką, która zawsze była gotowa do pomocy innym. Ilekroć nad brzeg rzeki przybywały nowe kaczki, Zosia opowiadała im historię o odkryciu nowego świata w rzece, zachęcając je do ciekawości i poszukiwania własnych, niezwykłych przygód. I tak legenda o kaczce Zosi, która odkryła magiczną jaskinię, przeszła z pokolenia na pokolenie, przypominając wszystkim o wartości przyjaźni i sile ciekawości.
+</body>
+```

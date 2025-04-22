@@ -1,0 +1,33 @@
+<prompt>
+Please write a educational Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Cudowna wyspa pełna skarbów i przygód'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>pl</lang_id>
+
+<title>Cudowna wyspa pełna skarbów i przygód</title>
+<body>
+Mały, zafascynowany światem, chłopiec o imieniu Mikołaj mieszkał w malowniczej wiosce nad morzem. Jego oczy, jak dwa brylanty, stale wędrowały w stronę horyzontu, w poszukiwaniu nieznanych, tajemniczych miejsc. Jednego słonecznego poranka, podczas spaceru nad brzegiem, natknął się na dziwną, mieni się błyszczącą muszlę. W środku skrywał się mały, brązowy papierek, na którym widniał tajemniczy zapis. Mikołaj, z sercem pełnym ciekawości, odczytał napis: "Na Wyspie Skarbów, gdzie czekają cudowne przygody."
+
+Od razu wiedział, że musi tam popłynąć. Ze swoimi przyjaciółmi, Agatą i Bartkiem, chłopcem odważnym jak lew, ruszyli w podróż. Zbudowali niewielką łódkę z połączonych desek, żagiel zrobiony z wielkich liści i wyruszyli w otwarty ocean. Płynęli przez dni i noce, podziwiając niezliczone ptaki wędrowne, śpiewające swoje tajemnicze pieśni nad szumowym morzem. Słońce i księżyc oświetlały ich drogę, podczas gdy morze opowiadało im historie fal i wiatru.
+
+Wreszcie, po wielu tygodniach, ich małe statek przypłynął do niezwykłej wyspy. Wyspa była pełna zielonych gór, jak gigantyczne zielone chmury, które zrzucały na brzeg wodę. Miała ona barwne kwiaty, mieniące się różnymi kolorami i błyszczące, jak drogocenne kamienie. Ozdabiali je niezwykłe, świetliste ptaki, wesoło ćwierkające i śpiewające melodie.
+
+Przyjaciele odkrywali coraz więcej ciekawych miejsc na wyspie. Przechadzali się przez gęste lasy, gdzie drzewa wydawały się wysokie jak chmury i rosły tam jagody. Używając małych, specjalnych narzędzi znalezionych w jednej z rozrzuconych skarbniczek, odkryli skamieniałe rośliny, takie jak niezwykłe paprocie.
+
+Jeden dzień, po przebyciu stromych wzgórz, dotarli do pięknej doliny, pełnej dziwnych istot. Zobaczyli majestatyczne zwierzęta, którego skrzydła wystrzeliwały łuki świetlne. Były to motyle – skarbniki wiedzy o drzewach i zwierzętach wyspy, mówili do siebie, i podziwiali skarb, który przedstawiały. Poznawali nowe zwierzęta, z wielkimi rogami, i pięknymi skrzydłami z klejnotów. Uczyli się od nich o tajemnicach wyspy, o ukrytych roślinach i o zastosowaniach ziołowych.
+
+Mikołaj i jego przyjaciele odkrywali też magiczne jaskinie, których ściany zdobiły niezwykłe minerały. Dowiedzieli się, że minerały te pochodzą z podziemnych kopalń, tworząc kamienie szczęścia, dające szczęśliwym odkrywcą, specjalne zdolności, takie jak możliwość rozumienia mowy ptaków, widzenia przez dym, lub magiczną siłę przemieszczeń.
+
+Niewiarygodne! W jednej z jaskiń znaleźli mapę! Była to mapa ukrytych skarbów wyspy. Mapa pokazywała wiele tajnych przejść, skrzynki i podziemne labirynty. Mapę trzeba było odczytać w kodzie wykorzystującym wiedzę z roślin i zwierząt. W końcu, po wielkiej przygodzie i odgadnięciu skomplikowanego szyfru, odnaleźli sekretny skarb - wielką księgę wiedzy! W księdze tej zapisane były historie wyspy, tajemnice roślin i zwierząt. Zrozumieli jak ważna jest ochrona środowiska naturalnego. Wiedzieli, że w każdej z roślin i zwierząt kryją się tajemnice, które trzeba zachować.
+
+Mikołaj, Agata i Bartek przeżyli niezwykłe przygody. Poznawali magię świata, tajemnice przyrody i zrobili ważne odkrycie - cennej książki! Wiedzieli też, że piękno wyspy tkwi w jej delikatnych roślinach, w tajemniczych stworzeniach i w cudownych skarbów. Nauczyli się, jak cenna jest przyroda i wiedzieli, że to jest coś, co trzeba szanować.
+
+Z pełnymi sercami i z nowo zdobytą wiedzą, Mikołaj, Agata i Bartek wrócili do swojej wioski. Podzielili się swymi doświadczeniami ze swoimi przyjaciółmi i nauczyli się doceniać cudowną przyrodę wokół siebie. Była ona dla nich teraz skarbem, ważniejszym niż wszystko inne.
+</body>

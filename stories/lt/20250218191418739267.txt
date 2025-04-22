@@ -1,0 +1,39 @@
+<prompt>
+Please write a creative and original Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Muzikos Miesto Paslaptys: Kaip Vaikai Išgirdo Dainuojančius Instrumentus Ir Susidraugavo Su Jais.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lt</lang_id>
+
+<title>Muzikos Miesto Paslaptys: Kaip Vaikai Išgirdo Dainuojančius Instrumentus Ir Susidraugavo Su Jais.</title>
+<body>
+Saulėlydis dažė dangų ryškiomis oranžinėmis ir violetinėmis spalvomis.  Mažame miške, už paslaptingų kalvų, slėpėsi Muzikos Miestas. Ten stovėjo ne medžiai, o išskirtiniai, spindintys instrumentai – smuikai, fortepijonai, fleitos, būgnai. Jie tyliai dūzgė, lyg laukdami, kol kažkas juos išgirds.
+
+Atokiame, su krūmais apaugusiame namuke gyveno trys draugai –  Aušra,  Lukas ir  Gabija. Jie mėgo tyrinėti mišką, ieškoti paslėptų takų ir klausytis gamtos garsų.  Šią dieną, pasislėpę už senos, šaknimis apraizgytos medžio, jie girdėjo visai kitokius garsus.  Tai nebuvo paukščių čiulbėjimas ar upės murkimas. Tai buvo melodingas, švelnus muzikos šnabždesys.
+
+„Ką tai?“ – sušnibždėjo Aušra, apkabindama savo smalsų žvilgsnį.
+
+Lukas, visada pasiruošęs iššūkiams, pasilenkė arčiau ir paklausė: „Tai lyg kažkas groja, bet nematau jokių muzikantų“.
+
+Gabija, stebėdama besikeičiančius spalvų atspalvius ant medžių kamienų, palengva atvėrė lūpas ir tarė: „Gal tai dainuoja patys instrumentai?“
+
+Ir tuo metu, lyg kažkas būtų patvirtinęs jų mintis, iš didingo, vargšų smuiko nuskambėjo traukos kupina melodija. Jis tarsi verkė švelniu, liūdnu balsu, pasakojęs istorijas, kurias buvo pamatęs per amžius.  Šalia jo, su meiliu skambesiu, švelniai žaidė fortepijonas, lyg pasakodamas apie džiaugsmo ir meilės šokį.  O šalia, fleita, šviesiai ir lengvai pūtė, sukurdama švelnius ir žaismingus garsus.
+
+Vaikai stebėjosi ir apstulbo. Jie išdrįso priartėti prie šių paslaptingų instrumentų.   Smuikas, priėmęs jaunus tyrinėtojus, pradėjo pasakoti savo istorijas. Apie ilgas keliones, apie koncertų salių spindesį ir apie nepakartojamą grožio pojūtį.  Fortepijonas, su savo tvirtu širdžių balsu, papasakojo apie žmonių jausmus, įrašytus į juodų ir baltų klavišų kalbą.  Fleita, savo švelniomis pūtimų frazėmis, supažindino juos su pasaulio grožiu ir tyrumu.
+
+Būgnai, giliais, galingais dūžiais, sušnibždėjo apie ritmą, apie energijos bangas ir apie gyvenimo šokį.  Jie papasakojo apie senus šokius, apie linksmybių ir džiaugsmo šventes.  Vaikai suprato, kad muzika, ne tik garsas, bet ir istorijų pasakotoja.
+
+Aušra, jautrandama smuiko širdį, suprato, kaip svarbu klausytis. Lukas, užsidegęs fortepijono žavesiu, išmoko įžvelgti paslėptas jausmų gijas.  Gabija, apimta fleitos šviesos, pradėjo suprasti gyvenimo subtilybes.
+
+Kartu jie sukūrė melodiją, instrumentų harmoniją ir sujungė savo širdis su muzikos miestu.  Smuikas, fortepijonas, fleita ir būgnai džiaugėsi draugystės pasirodymu.  Jie suprato, kad muzika yra ne tik garsas, bet ir jausmų kalba,  kuri gali sujungti širdys ir pasaulius.
+
+Nuo tos dienos Muzikos Miestas tapo vaikų ir instrumentų bendruomene.  Jie dažnai susirinkdavo pasakoti istorijas per muzikos kalbą.  Jie dainavo kartu, šoko kartu, ir atrado, kad muzika gali pakeisti pasaulį, pripildyti jį džiaugsmu ir šiluma.  Dabar, kai saulė leidžiasi virš kalnų, visi instrumentai Muzikos mieste, tyliai dainuoja ir šnabžda savo paslaptis, lauks naujų draugų, kurie norės išgirsti jų muzikinį pasakojimą.
+
+Aušra, Lukas ir Gabija tapo Muzikos Miesto ambasadoriais, skelbdami muzikos žavesį visam pasauliui.  Ir taip, muzika toliau skambėjo,  sujungdama širdis ir pripildant pasaulį nepakartojamu grožiu.
+</body>

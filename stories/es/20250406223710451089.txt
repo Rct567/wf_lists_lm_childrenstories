@@ -1,0 +1,61 @@
+<prompt>
+Please write a emotional Spanish children's story that is at least 1000 words long.
+It must be completely written in proper Spanish (ES).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Las cartas de amor y amistad escritas por los niños a los animales.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>es</lang_id>
+
+```xml
+<title>Las cartas de amor y amistad escritas por los niños a los animales.</title>
+<body>
+En un pequeño pueblo, a orillas del río Azul, vivía una niña llamada Sofía. Sofía era especial, no por tener un juguete nuevo o el mejor vestido, sino por su inmenso amor por los animales. Su corazón latía al ritmo de los maullidos, ladridos, y trinos de pájaros que habitaban el valle. Tenía una cabellera color sol y unos ojos que reflejaban la pureza del cielo.
+
+En su jardín, florecía un pequeño secreto: un buzón, pintado con colores vibrantes y decorado con pegatinas de animales, donde guardaba cartas destinadas a sus amigos peludos, emplumados y escamosos.
+
+Un día de primavera, mientras el sol jugaba con las hojas de los árboles, Sofía se sentó bajo su sauce llorón, pluma en mano y papel en blanco, lista para escribir una nueva carta. Esta vez, iba dirigida a Luna, su gata atigrada, la sombra que la acompañaba a todas partes.
+
+"Querida Luna," comenzó a escribir, con una caligrafía redonda y llena de cariño. "Hoy el sol brilla como tus ojos ámbar. Recuerdo cuando te encontré, abandonada en la calle, flaca y con miedo. Me dio tanta pena, Luna. Te llevé a casa, y mamá y papá te recibieron con los brazos abiertos. Ahora, eres la reina de la casa, y me haces mucha compañía. ¿Recuerdas cuando jugamos con la lana? ¡Cómo me gustaba verte correr tras ella! Espero que estés feliz, mi gatita. Te quiero mucho, con todo mi corazón."
+
+En la siguiente carta, destinada a Coco, el perrito labrador de la familia, Sofía escribió:
+
+"¡Hola, Coco, amigo mío! Hoy hemos ido al parque a jugar a la pelota, y casi la atrapas todas las veces. ¡Eres el perro más rápido y simpático del mundo! Me encanta cuando me recibes moviendo la cola y me das lametazos en la cara. Me haces reír mucho, sobre todo cuando persigues las mariposas. Espero que sepas que eres muy importante para mí. Te prometo que siempre te llevaré a pasear y te daré muchos mimos. Eres mi mejor amigo."
+
+Sofía se preocupaba por todos los animales, no solo por los suyos. Tenía un cuaderno donde apuntaba sus nombres y lo que sabía de ellos. Una tarde, escribió a Pepe, un canario amarillo que vivía en casa de su vecina, la señora Carmen.
+
+"Estimado Pepe," empezó la carta, con más formalidad. "Me he dado cuenta de que tus trinos alegran mucho las tardes de la señora Carmen. Tu canto es tan bonito y alegre que hasta me hace bailar. Espero que te sientas bien en tu jaula dorada y que tengas muchos juguetes. Te prometo que, cuando te escuche, me acordaré de ti y te enviaré mis mejores pensamientos. Eres una estrella que ilumina las tardes grises."
+
+No solo enviaba cartas a los animales domésticos. Un día, vio un zorzal herido en el jardín y le escribió:
+
+"Querido Zorzal," redactó con delicadeza. "Te he visto caer del árbol y sé que te has hecho daño. Me da mucha pena verte así. Espero que te recuperes pronto y que puedas volar de nuevo, surcando el cielo como antes. Me gusta mucho escuchar tu canto al amanecer, es como una melodía que anuncia un nuevo día. Te enviaré todas mis energías para que te pongas bien."
+
+En el pueblo, muchos niños admiraban a Sofía y sus cartas. La imitaban, escribiendo también a sus animales, compartiendo sus alegrías y tristezas. El buzón se llenaba de cartas, cada una de ellas un testimonio de amor y respeto por la vida animal.
+
+Una mañana, llegó una carta especial al buzón de Sofía. Era de Lucas, un niño que no creía en los animales ni en el amor que se les podía profesar. Lucas se burlaba de Sofía, llamándola "loca de los animales". Pero, en el fondo, sentía curiosidad por sus cartas.
+
+En su carta, Lucas escribió:
+
+"Sofía, he estado observando lo que haces y, aunque me burlaba de ti, creo que hay algo especial en lo que haces. He visto tu preocupación por los animales. He visto cómo les das cariño. Nunca había visto a nadie tratar a los animales de esta forma. Te escribo para preguntarte, ¿por qué los quieres tanto? ¿Qué te dan ellos?"
+
+Sofía respondió a Lucas con una carta extensa y sincera:
+
+"Querido Lucas, gracias por tu carta. Me alegra que te hayas dado cuenta de lo que siento por los animales. Yo los quiero tanto porque ellos nos dan alegría, compañía y, sobre todo, amor incondicional. No juzgan, no critican, solo están ahí para querernos. Ellos nos enseñan muchas cosas, como a ser pacientes, a valorar la vida, a respetar a los demás. Además, creo que el mundo sería un lugar mucho mejor si todos fuéramos un poco como los animales: leales, sinceros, y con el corazón abierto. Ellos son parte de nuestra vida. Y si yo puedo hacer algo por ellos, haré todo lo que esté en mi mano."
+
+Después de leer la respuesta de Sofía, Lucas sintió algo nuevo en su corazón. Por primera vez, entendió lo que era la empatía, la capacidad de ponerse en el lugar de otro ser. Comenzó a observar a los animales de manera diferente y, poco a poco, su escepticismo se convirtió en admiración.
+
+Un día, Lucas se acercó a Sofía con una carta en la mano. La había escrito a un gato callejero que merodeaba cerca de su casa, un gato flaco y asustado.
+
+"Querido Bigotes," decía la carta, "Sé que vives solo y que a veces tienes miedo. Sé que tienes frío y hambre. He visto cómo te escondes y cómo huyes cuando alguien te ve. Hoy quiero que sepas que no tienes que tener miedo. Quiero ser tu amigo y que sepas que estoy aquí para ayudarte."
+
+Lucas le dio la carta a Sofía, y le pidió que la pusiera en el buzón. A partir de ese día, Lucas y Sofía se hicieron amigos. Juntos, alimentaban al gato Bigotes, construyendo una pequeña casita para él en el jardín de Lucas.
+
+Las cartas de Sofía habían sembrado una semilla de amor y compasión en el corazón de Lucas, y esa semilla floreció, extendiéndose por todo el pueblo. Los niños comenzaron a cuidar a los animales, a respetarlos, a darles cariño. El buzón de Sofía se convirtió en un símbolo de amor y amistad, un lugar donde los sueños se escribían con tinta y los corazones se unían en un mismo sentir.
+
+Y así, las cartas de Sofía, escritas con el corazón, transformaron el pueblo, recordándoles a todos la importancia de cuidar y amar a los animales, a sus amigos, a su reflejo y a los seres que con ellos habitaban el planeta. El amor y la amistad eran más fuertes que cualquier barrera, y el eco de sus cartas resonaba en el viento, llevando el mensaje de cariño y respeto a todos los rincones del mundo. Y Luna, Coco, Pepe, el Zorzal y Bigotes, cada día, sentían el calor de aquel amor puro, llegando a comprender el regalo que suponía aquella tierna amistad.
+</body>
+```

@@ -1,0 +1,120 @@
+<prompt>
+Please write a silly Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Eszter, a kis boszorkány, és a bájitalok a titkos laboratóriumban.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>hu</lang_id>
+
+```html
+<title>Eszter, a kis boszorkány, és a bájitalok a titkos laboratóriumban.</title>
+<body>
+Volt egyszer egy Eszter nevű kis boszorkány. Eszter egy nagymama varázslóval élt, aki nem volt más, mint Rozália néni. Rozália néni hosszú, szürkés haját mindig copfba fonta, a szemüvege folyton orra hegyén libbent, és imádott nagyokat kacarászni, különösen, ha valami varázslattal bajlódott. Eszter, mint a boszorkányinasok általában, egy kissé szerencsétlen volt. De nem a bajok keresték, hanem Eszter a bajokat. Imádott kísérletezni!
+
+A Rozália néni házában egy titkos laboratórium is volt, melyet mindenféle üvegcsével, kémcsővel, kotyogóval, üsttel és fura illatú porokkal töltöttek meg. Ez volt Eszter igazi játszótere!
+
+Egy nap Eszter úgy döntött, hogy bájitalt készít. Mégpedig olyat, ami nagyméretűre varázsolja az embereket! Eszter mindig is nagynak képzelte el magát. Végre itt a lehetőség!
+
+Elővette Rozália néni régi, poros receptkönyvét, melyet “Fura Főzetek és Boszorkányos Bájitalok kézikönyve” címmel neveztek. Keresett, kutatott, böngészett, mígnem megakadt a szeme a “Nagyító-Nagyítós Bájital” leírásánál.
+
+A recept a következő volt:
+
+1.  Egy csipetnyi szúnyogláb por
+2.  Három csepp kígyónyál
+3.  Öt szem makk
+4.  Hét darab szárított pillangószárny
+5.  Egy üveg tündérpor
+6.  Tizenkét libatojás
+
+“Hm… hát ez nem is tűnik nehéznek!” – gondolta Eszter.
+
+El is kezdett szorgoskodni. Először a szúnyogláb port szerezte meg. Kiment a kertbe, és egy marék szúnyogot fogott. (Persze mindent megpróbált, hogy ne csípjék meg!) Aprólékosan levágta a lábacskákat, és egy kicsi mozsárban megőrölte őket.
+
+Következett a kígyónyál. De honnan szerezzen kígyónyálat? Rozália néni soha nem tartott otthon kígyót. Eszter elment a közeli erdőbe, hátha talál egyet. Óvatosan lépkedett a fák között, a leveleket taposva. Hirtelen megpillantott egy hosszú, zöld kígyót a fűben. Nagyon meglepődött!
+
+- Szervusz, kígyó bácsi! – köszöntött Eszter. – Tudnál adni egy kis nyálat? Bájitalt készítek…
+
+A kígyó felpillantott, a fejét megmozdította. – Kígyónyálat? Mire? – kérdezte egy kicsit mogorván.
+
+- Nagyságot varázsolni! – válaszolta Eszter izgatottan.
+
+A kígyó végül megkegyelmezett a kérésnek, és adott Eszternek három csepp nyálat. Eszter, a mérges kígyó nyálát ügyesen a kis üvegcsébe csöpögtette.
+
+Harmadiknak a makk jött. Öt darab. Eszter egy hatalmas tölgyfa alatt gyűjtötte össze őket. (Az sem volt baj, ha némelyiket megkóstolta…)
+
+Aztán a szárított pillangószárnyak következtek. Ez már kicsit nehezebb volt, hiszen szárított pillangót találni nem egyszerű. Eszter a padláson talált egy régi fiókot tele könyvekkel, és abban lapultak az apró kis szárnyak.
+
+Tündérport nem volt könnyű szerezni. Eszter sokáig kereste, mígnem egy régi, kopott hintaszékben, egy szakadt párnánál rábukkant egy kis zacskó tündérporra. Vajon honnan? Ki tudja. Talán még a nagymamája fiatalkorából.
+
+Végül, a libatojások… Tizenkettő! Eszter elballagott a szomszéd Mariska nénihez, és kért tojásokat. Mariska néni mindig szeretett Eszternek segíteni, de ez most furcsának tűnt.
+
+- De mire ennyi tojás? – kérdezte Mariska néni.
+
+- Bájitalhoz! – mondta Eszter.
+
+Mariska néni persze mindent megbocsátott Eszternek, és adott neki tizenkét libatojást.
+
+Mindent gondosan összevitt Eszter a laboratóriumba.
+
+Most jött a keverés! Először a szúnyoglábport öntötte a kotyogóba, utána a kígyónyálat, majd a makkot, a pillangószárnyakat, a tündérport, végül a tojásokat. Lassan, óvatosan keverte az egészet egy hatalmas üstben. (Ezúttal persze nagymama felügyelete nélkül.)
+
+A kotyogó a zöldes színétől sötétzöld lett, majd elkezdett füstölni! Eszter sietve keverte tovább, és a bájital kezdett lila színben ragyogni!
+
+Végül, ahogy Rozália néni tanította, egy utolsó varázsigét is mondott. A varázsigék Esztert egyfolytában bolondították, de nagymamájától soha nem hallotta a “vacakoló szavakat”! Most így szólt: "Fitty-fitty, piff-puff, nagyító! Ess a bögyön, ki a fütty!"
+
+A füst még erősebben áradt, majd az üst tartalma egy hatalmas pukkanással kitört belőle, és Eszterre zuhant!
+
+Eszter a földre esett, ijedtében behunyta a szemét. Miután kitisztult a füst, óvatosan kinyitotta a szemét.
+
+…De a labort nem ismerte meg! Minden sokkal, de sokkal nagyobb volt! A kémcsövek hatalmasra nőttek, a kotyogó egy óriási edény lett, az üvegcsék, a porok mind hatalmasodtak. De mi a helyzet Eszterrel?
+
+Éppen, mint ahogyan ő a kísérletezett: kicsire zsugorodott! Pici lett, mint egy gombostű!
+
+A labort nem csak hatalmasították, hanem Eszter picit is. És most mit tegyen? Hiszen most ő az, aki nagyméretű. De kicsiben.
+
+Szerencsére Rozália néni nem volt sehol. Biztos, hogy valahol varázsol. Eszter odaszaladt egy hatalmas üsthöz, a nagyságába, hogy a gőzben nefulladjon meg. (A gőz is megnőtt, ha Eszterhez képest nézzük.)
+
+Sietve egy mini-kicsi labdához, ami Eszter fázásában egy labdának tűnt a laboratórium porszívójában. Ez a porszívó pont olyan volt, mint amilyet nagymamája a ház takarításához használt. Eszter végig a porszívó körött kaparta a labdáját, hogy onnan levetítse a gőzt.
+
+Egyszerre csak nagy hangot hallott. “Eszterke, hol vagy? Tudom, mit csináltál, gyerünk segítek, jössz segíteni azzal a bájitallal”.
+
+És ekkor Rozália néni is a laboratóriumba toppant.
+
+“Jaj, kislányom, hát ez a bájital… ez valami szörnyű katasztrófa!” – kacarászott Rozália néni. – De aggódj, van ellenszer! De először… meg kell találnunk a nagyított telet!”
+
+Rozália néni elkezdte nézni a labort. Hatalmas tündérpor-maradványok, üstök, libatojás darabok.
+
+“Ugyan, te pici manó! Kezdjük a takarítást!” – kacsintott a nagymama. Eszter nagy szomorúságára a nagymamája pont nem tudta, hogy kispók lett. Így a “te nagyméretű, apró kis apró-apró Eszter!” - szavakra végül nagymamája megértette a csavart, s elkezdett Eszterre koncentrálni.
+
+A nagymama összeszedett egy nagy marék gombát. Tudta, a gombát a kis boszorkányok mindig hasznát veszik. Megmutatta Eszternek, hogy mire figyeljen.
+“Észben kell tartanunk, hogy minél többet varázsolunk, annál jobban beleszívja magát a szer a testedbe. Ahhoz, hogy valakinek a testében maradjon, egy nap kell.” – mondta a nagymama, miközben a szárított pillangószárnyakra tapintott.
+Eszter hallgatta nagymamáját. Nagymamája meg a receptet, így a két kicsi boszorkány rövidesen újabb bájital-főzésbe kezdett. Ez a recept a visszafordításhoz való volt!
+
+1.  Egy csepp szúnyogláb por
+2.  Hét csepp kígyónyál
+3.  Egy darab makk
+4.  Három szárított pillangószárny
+5.  Két porszívó zsákból tündérpor
+6.  Kilenc libatojás héja
+
+Eszter a felét megkezelte az óriás kotyogóba, amíg nagymamája mindent előkészített, persze a végső keverés előtt a szavakkal!
+
+A gombák, amiket a nagymamája szerzett, kicsi boszorkány segédként szivárvány-illatot vettek fel a szúnyoglábpor feloldódása közben. Ezután nagymamája egy nagy fakanál, ami valaha egy óriás fakanál volt Eszter méretéhez, a pillangószárnyak felkeverése után a többi hozzávaló is következett!
+
+A nagymama a fenti igét ismételgette, s most azt súgta Eszternek, hogy mondja: "Gitty-gitty, fityi-fityi, zsugor! Ha a kicsi, meg a nagy a gáz! "
+
+És a kotyogó ismét gőzölögni kezdett! A füst a nagymama felé kúsztak, majd csábító lila gőz gomolyogni kezdett, egészen Eszterig! A boszorkány kislány ismét átalakult… De most sem sikerült a nagyságra. A labor ismét a normális méretére redukálódott, de Eszter visszanyerte eredeti nagyságát. (Persze nem nagyítottan, és nem kicsinyítetten.)
+
+“Hát ez a bájital se sikerült igazán” – sóhajtott Eszter.
+
+“De legalább megpróbáltad, kislányom! – kacarászott Rozália néni. – Legközelebb majd jobban sikerül! Most pedig egy kis teázás!”
+
+És megitták a forró teát, egy darab nagyméretű gyümölcsös süteménnyel, amelyet nagymamája varázsolt, most mindketten átéltek.
+És ettől kezdve, ha Eszter bájitalt főzött, mindig volt ott nagymamája, aki segített. Hogy a következő bájitalt is sikeresebben varázsolják!
+</body>
+```

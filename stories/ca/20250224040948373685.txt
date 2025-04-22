@@ -1,0 +1,44 @@
+<prompt>
+Please write a timeless Catalan children's story that is at least 1000 words long.
+It must be completely written in proper Catalan (CA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La tortuga que va guanyar una cursa contra la llebre gràcies a la perseverança.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>ca</lang_id>
+
+<title>La tortuga que va guanyar una cursa contra la llebre gràcies a la perseverança</title>
+<body>
+En un petit poble de la Catalunya rural, hi vivia una tortuga anomenada Teresa. Teresa era coneguda per la seva lentitud i la seva incapacitat per fer res de pressa. Els altres animals del poble li deien "la tortuga lenta" i es burlaven d'ella quan passava per la plaça.
+
+Un dia, mentre Teresa anava pel camí, va sentir a parlar d'una cursa que es faria a la vora del riu. La llebre, que era molt ràpida i orgullosa, havia anunciat que participaria en la cursa i que guanyaria fàcilment. Teresa, que havia estat escoltant la conversa, es va aturar i va dir: "Jo també vull participar en la cursa".
+
+La llebre i els altres animals es van riure de Teresa i li van dir que no tenia cap oportunitat de guanyar. Però Teresa no es va desanimar. Va anar a veure el vell savi del poble, que era un astut conill anomenat Pere, i li va demanar consell. Pere li va dir que la clau per guanyar la cursa no era la velocitat, sinó la perseverança.
+
+Teresa va prendre les paraules de Pere al cor i va començar a entrenar-se per a la cursa. Cada dia, anava al riu i corria una mica més lluny que l'endemà. Al principi, estava molt cansada i havia de parar sovint per descansar, però amb el temps, es va anar sentint més forta i més segura.
+
+Mentrestant, la llebre s' estava preparant per a la cursa de manera diferent. S'entrenava només una vegada a la setmana i es pensava que la seva velocitat natural li seria suficient per guanyar. No es preocupava per la competència, ja que estava segura que Teresa no tenia cap oportunitat.
+
+Finalment, el dia de la cursa va arribar. Els animals del poble es van reunir a la vora del riu per veure la competició. La llebre i Teresa van sortir al punt de sortida i, amb un xiulet, la cursa va començar. La llebre va sortir disparada com un coet, mentre que Teresa va començar a córrer a un ritme constant.
+
+Al principi, la llebre estava molt ahead, però Teresa no es va desanimar. Va continuar corrent al seu ritme, sense parar ni mirar enrere. La llebre, que havia començat a cansar-se, va començar a perdre velocitat. Va mirar enrere i va veure que Teresa era més a prop del que esperava.
+
+A mesura que la cursa avançava, la llebre va començar a sentir-se més cansada. Havia subestimat Teresa i havia pensat que la cursa seria fàcil. Però Teresa no es va aturar. Va continuar corrent, fins que finalment va arribar a la meta.
+
+El públic va esclatar en aplaudiments quan Teresa va creuar la línia de meta. La llebre, que havia arribat uns segons després, no podia creure el que havia passat. S'havia deixat sorprendre per la perseverança de Teresa.
+
+Teresa va ser declarada la guanyadora de la cursa i els animals del poble la van felicitar. La llebre, que havia après una valuosa lliçó, va anar a felicitar Teresa i li va dir: "No em vaig adonar que la perseverança era més important que la velocitat. Ets una veritable campiona".
+
+Des d'aquell dia, Teresa va ser coneguda com "la tortuga perseverant" i els altres animals del poble la van respectar per la seva determinació. La llebre, que havia après una lliçó valuosa, va començar a entrenar-se de manera més seriosa i va esdevenir una atleta molt millor.
+
+Teresa va continuar corrent i va participar en moltes altres curses. Va guanyar algunes i va perdre d'altres, però sempre va mantenir la seva actitud positiva i la seva perseverança. I els animals del poble sempre la van recordar com "la tortuga que va guanyar una cursa contra la llebre gràcies a la perseverança".
+
+Anys després, quan Teresa ja era una tortuga gran, va anar a visitar el vell savi del poble, Pere. Li va dir: "Pere, sempre recordaré el que em vas dir sobre la perseverança. Em va ajudar a guanyar la cursa contra la llebre i em va ensenyar a nevereixar. Gràcies per la teva saviesa".
+
+Pere li va somriure i li va dir: "Teresa, la perseverança és una virtut que t'acompanyarà tota la vida. No només et va ajudar a guanyar la cursa, sinó que també t'ha fet una persona més forta i més segura. Continua sent la tortuga perseverant i sempre recorda que la victòria no és només guanyar, sinó també aprendre i millorar".
+
+I així, Teresa va continuar vivint la seva vida com "la tortuga perseverant", inspirant als altres animals del poble amb la seva actitud positiva i la seva determinació. I la seva història va ser recordada per generacions com un exemple de com la perseverança pot superar fins i tot les dificultats més grans.</body>

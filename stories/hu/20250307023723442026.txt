@@ -1,0 +1,43 @@
+<prompt>
+Please write a light-hearted Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A zseniális mókus és a rejtvények'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>hu</lang_id>
+
+<title>A zseniális mókus és a rejtvények</title>
+<body>Az erdőben, a fák között, egy kis mókus éldegélt, aki nem volt akármilyen mókus. Ő volt a zseniális mókus, aki mindent tudott és mindent megoldott. A többi állat az erdőben csodálta őt, és mindig kérdezgette, hogy hogyan oldja meg a legnehezebb rejtvényeket is.
+
+Egy szép napon, a zseniális mókus úgy döntött, hogy kipróbálja a tudását, és elindult, hogy megkeresse a legnehezebb rejtvényeket az erdőben. Ahogy sétált, találkozott egy öreg szarvassal, aki így szólt hozzá: "Hallottam rólad, zseniális mókus. Azt mondják, hogy te megoldod a legnehezebb rejtvényeket is. De én nem hiszem el. Szeretném, ha megoldanál egy rejtvényt, amit én találtam ki."
+
+A zseniális mókus mosolygott és így szólt: "Természetesen, öreg szarvas. Mondd el a rejtvényt, és én megoldom." Az öreg szarvas gondolkodott egy kicsit, majd így szólt: "Van egy ház az erdőben, amelynek nincs ajtaja, de van kulcsa. Van egy kert, amelyben nincs virág, de van illata. Van egy fa, amelynek nincs ága, de van gyümölcse. Mi ez a ház, a kert és a fa?"
+
+A zseniális mókus gondolkodott egy kicsit, majd így szólt: "Ez nagyon egyszerű. A ház az erdőben a méhkas, amelynek nincs ajtaja, de van kulcsa, a méhkirálynő. A kert az erdőben a szegfűkert, amelyben nincs virág, de van illata, a szegfűillat. A fa az erdőben a fügefa, amelynek nincs ága, de van gyümölcse, a füge."
+
+Az öreg szarvas csodálkozott és így szólt: "Valóban, zseniális mókus, te megoldottad a rejtvényt. De van egy másik rejtvény, amit én találtam ki, és az még nehezebb." A zseniális mókus mosolygott és így szólt: "Mondd el, öreg szarvas, én készen állok."
+
+Az öreg szarvas gondolkodott egy kicsit, majd így szólt: "Van egy szoba az erdőben, amelyben nincs ablak, de van fénye. Van egy asztal, amelyen nincs terítő, de van terítéke. Van egy szék, amelyen nincs ülés, de van ülője. Mi ez a szoba, az asztal és a szék?"
+
+A zseniális mókus gondolkodott egy kicsit, majd így szólt: "Ez is nagyon egyszerű. A szoba az erdőben a barlang, amelyben nincs ablak, de van fénye, a csillagfény. Az asztal az erdőben a szikla, amelyen nincs terítő, de van terítéke, a moha. A szék az erdőben a fatönk, amelyen nincs ülés, de van ülője, a madár."
+
+Az öreg szarvas csodálkozott és így szólt: "Valóban, zseniális mókus, te megoldottad a rejtvényt. Te vagy a legokosabb mókus az erdőben." A zseniális mókus mosolygott és így szólt: "Köszönöm, öreg szarvas. De én nem vagyok okosabb, mint a többi állat az erdőben. Csak én szeretem a rejtvényeket és a megoldásukat."
+
+Az öreg szarvas bólintott és így szólt: "Te valóban szereted a rejtvényeket, zseniális mókus. És én is szeretem őket. Szeretném, ha velünk jönnél, és megoldanád a legnehezebb rejtvényeket az erdőben." A zseniális mókus mosolygott és így szólt: "Természetesen, öreg szarvas. Én velünk jövök, és megoldom a legnehezebb rejtvényeket az erdőben."
+
+Így a zseniális mókus és az öreg szarvas elindultak, hogy megkeressék a legnehezebb rejtvényeket az erdőben. Ahogy sétáltak, találkoztak egy rókával, aki így szólt hozzájuk: "Hallottam rólatok, zseniális mókus és öreg szarvas. Azt mondják, hogy ti megoldjátok a legnehezebb rejtvényeket az erdőben. De én nem hiszem el. Szeretném, ha megoldanátok egy rejtvényt, amit én találtam ki."
+
+A zseniális mókus mosolygott és így szólt: "Természetesen, róka. Mondd el a rejtvényt, és mi megoldjuk." A róka gondolkodott egy kicsit, majd így szólt: "Van egy folyó az erdőben, amely nem folyik, de van árama. Van egy sziget az erdőben, amely nem úszik, de van partja. Van egy híd az erdőben, amely nem ível, de van átjárója. Mi ez a folyó, a sziget és a híd?"
+
+A zseniális mókus és az öreg szarvas gondolkodtak egy kicsit, majd a zseniális mókus így szólt: "Ez nagyon egyszerű. A folyó az erdőben a szél, amely nem folyik, de van árama, a légáram. A sziget az erdőben a szikla, amely nem úszik, de van partja, a szikla partja. A híd az erdőben a gerinc, amely nem ível, de van átjárója, a gerinc átjárója."
+
+A róka csodálkozott és így szólt: "Valóban, zseniális mókus és öreg szarvas, ti megoldottátok a rejtvényt. Ti vagytok a legokosabbak az erdőben." A zseniális mókus mosolygott és így szólt: "Köszönöm, róka. De mi nem vagyunk okosabbak, mint a többi állat az erdőben. Csak mi szeretjük a rejtvényeket és a megoldásukat."
+
+A róka bólintott és így szólt: "Ti valóban szeretitek a rejtvényeket, zseniális mókus és öreg szarvas. És én is szeretem őket. Szeretném, ha velünk jönnél, és megoldanátok a legnehezebb rejtvényeket az erdőben." A zseniális mókus mosolygott és így szólt: "Természetesen, róka. Mi velünk jövünk, és megoldjuk a legnehezebb rejtvényeket az erdőben."
+
+Így a zseniális mókus, az öreg szarvas és a róka elindultak, hogy megkeressék a legnehezebb rejtvényeket az erdőben. Ahogy sétáltak, találkoztak egy nyúllal, aki így szólt hozzájuk: "Hall

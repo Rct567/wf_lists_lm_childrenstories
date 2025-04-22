@@ -1,0 +1,35 @@
+<prompt>
+Please write a educational Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kad četri eksti bija viens komanda'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lv</lang_id>
+
+<title>Kad četri eksti bija viens komanda</title>
+<body>
+Uz zaļas pļavas, kur saulīte rotaļājās ar zālītēm un smieklīgi šūpoja ziedus, dzīvoja četri eksotiski putni – sarkanā kardīnāle, zilais strazds, dzeltens kanārijputns un zaļā kakadu. Katrs bija īpašs un unikāls, bet neviens no tiem nedomāja, ka varētu būt patiešām laba komanda.
+
+Sarkanā kardīnāle, kuru sauca par Sarkano, bija pašpārliecināts un gudrs. Viņš domāja, ka spēj risināt jebkuru uzdevumu vienatnē. Zilais strazds, kura vārds bija Zils, bija ļoti radošs un mīlēja improvizēt, bieži vien atstājot citus neapmierinātus. Dzeltenais kanārijputns, kuru sauca par Dzelteno, bija ļoti labs ar skaņām un patīkami izteicās, tomēr bieži vien apšaubīja savu spēju cīnīties ar grūtībām. Zaļā kakadu, kuru sauca par Zaļo, bija miermīlīgs un draudzīgs, bet ne pārāk pārliecināts par savu potenciālu.
+
+Viena saulainā rīta, eksotiskie putni satika vienu krāšņu pērkona mākoņa lielu krūmu. Zem tā atradās lielākais, vissvarīgākais pīļu olas meklēšanas konkurss visā putnu valstībā. Katrs no putniem bija redzējis pārējos pīļu olas ieguvējos. Gan smagā slodze, gan ātrāko spārnu skaņa.  Konkursā katram putnim vajadzēja meklēt īpašas, krāšņas pīļu olas un ieņemt 1. vietu. Pirmā vietā – bagātīgs pīļu ēdiena krājums!  Šī bija izdevība pierādīt savu spēju.
+
+Sarkanais domāja: “Kāds interesants uzdevums! Es noteikti uzvarēšu pats.”  Zils sacīja: “Vau, cik interesanti! Noteikti būs jāimprovizē!”  Dzeltenais domāja: “Šķiet, diezgan izaicināts. Labāk pārskatīšu savu skaņu biblioteku.” Un Zaļais teica: “Nu jā, vissvarīgākais ir palīdzēt un kopā strādāt”.
+
+Sarkanais uzsāka savu meklējumu ar lielu entuziasmu un ātrumu, taču, pēc pāris dienām, saskārās ar sarežģītiem ceļiem, kas ved cauri gariem džungļiem. Zilais lidoja pa gaisu ar neticamu ātrumu un neievēroja ceļu un pīļu olu dārgumus. Dzeltenais kanārijputns sāka skaļi dziedāt, zaudējot uzmanību. Bet Zaļais kakadu, miermīlīgi virzījās un atrada daudz interesantu dārgumu, neizkļūstot neaizskartais.
+
+Atgriežoties putnu kopienā, visi četri saprata, ka katrs no tiem ieguva kādu pieredzi, bet ne vienu pīļu olu.  Sarkanais bija tik ļoti atņēmis savu koncentrāciju, ka bija nomākts par zaudējumu. Zilais iekļuva sarežģītos kokos un aizmigla ap sevi ar savām fantāzijām un uzkrāto gudrību. Dzeltenais jau bija tik pieradis pie komforta, ka zaudēja savu entuziasmu. Un, kas patiešām pārsteidza, bija Zaļā kakadu lielais zināšanas bāze.
+
+Viņi saprata, ka veiksme nav viens atsevišķs indivīds, bet gan kopīga piepūle. Tad sāka pārdomāt savu komandu. Sarkanais piekrita lūgt padomu, lai uzraudzītu.  Zils izveidoja jaunas stratēģijas.  Dzeltenais iepazīstināja ar savu unikālo skaņu bibliotēku. Un Zaļais, parādīdams savu izcilo miermīlīgumu, dalījās ar zināšanām. Viņi nolēma izmantot savu savdabību vienā komandā un darīt, kā labāk zina.  Viņi bija izgudrojuši īpašu meklēšanas plānu, lai pīļu olas meklēšana notiktu precīzi un visefektīvāk!
+
+Sarkanais izmantoja savu ātrumu un spējas aptaujā. Zils deva jaunām idejām. Dzeltenais skaļi rīkojās, atklājot slēptus dārgumus. Zaļais savukārt atvēra ceļus un lika atzīmēt pīļu olu meklēšanas vietas. Kā liels komandas dalībnieks! Viņi strādāja kopā.
+
+Viņi atklāja meža pasauli un ar visu savu iemaņu, spējām un draudzībā atrast daudz vairāk pīļu olu nekā citu komandu. Visi putni saprata savu spēku kā komandas! Pateicoties cieņai viens pret otru, ar labprātīgu līdzdarbību un vispārējai uzmanībai, atrada bezgalīgi dārgumus. Pateicoties apvienotiem centieniem un uzticībai, bija izdevies sasniegt iespaidīgus rezultātus un apbalvojumus.
+
+Kopīgā cīņā un cieņpilnās sadarbībā eksotiskā putnu četriniece demonstrēja, ka pat ļoti atšķirīgas personības var radīt fantastiskus rezultātus, apvienojoties vienā komandā. Tā bija brīnišķīga spēlfilma par to, cik liela un brīnišķīga spēku avots ir komandas darbs!
+</body>

@@ -1,0 +1,60 @@
+<prompt>
+Please write a timeless Icelandic children's story that is at least 1000 words long.
+It must be completely written in proper Icelandic (IS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Töfrandi gjöfin sem kom til barna á afmælisdaginn þeirra.'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>is</lang_id>
+
+```xml
+<title>Töfrandi gjöfin sem kom til barna á afmælisdaginn þeirra.</title><body>
+Í dásamlegu þorpi, fótum stórfenglegs jökuls á Íslandi, bjuggu tvö systkini sem hétu Hrafnhildur og Eiríkur. Hrafnhildur var fimmtán ára og elskaði að mála, fyllandi herbergið sitt af litríkum strigum. Eiríkur var tólf ára, áhugasamur um stjörnur, alltaf með sjónauka sinn og lesandi bækur um vetrarbrautir og sólkerfi.
+
+Þann daginn var afmælisdagur þeirra beggja. Sunnanvindur blés mildilega um þorpið, berandi með sér ilminn af blómum og óm frá vötnum sem bráðnuðu úr jöklinum. Heimili þeirra, lítið timburhús með rauðu þaki, var skreytt með fánum og blöðrum. Innan dyra var mikil gleði og gestir streymdu inn, hver með afmælisgjöf í hönd.
+
+Móðir þeirra, Ásdís, var búin að baka fjölmargar kökur, sumar skreyttar með stjörnum, sumar með blómum sem Hrafnhildur elskaði. Faðir þeirra, Jón, spilaði á harmonikku, og gestirnir sungu, hlógu og dönsuðu. En á meðan á gleðinni stóð, var einhver sérstök tilfinning í loftinu, eins og von væri á einhverju ótrúlegu.
+
+Þegar kvöldaði, komu nokkrir gestir frá, og Hrafnhildur og Eiríkur settust saman við gluggann og horfðu út. Hrafnhildur dundaði sér við að teikna skissur af norðurljósunum sem byrjuðu að lýsa himininn, meðan Eiríkur beindi sjónaukanum sínum að stjörnunum.
+
+Skyndilega, eins og úr engu, birtist lítið, gyllt póstkrókaskáld. Það glóði af ljósi, eins og lítill, fljúgandi engill. Það sveimaði inn um gluggann og lagði niður litla, silfurlitaða pakka við fætur þeirra.
+
+"Til Hrafnhildar og Eiríks," sagði póstkrókaskáldið með rödd sem var eins og hljóðið úr smáklukkum í vindinum. "Þessi gjöf inniheldur eitthvað sérstakt fyrir ykkur bæði. Hún er töfrandi, en notkun hennar kallar á varúð og visku."
+
+Áður en þau gátu spurt meira, hvarf póstkrókaskáldið eins hratt og það kom. Hrafnhildur og Eiríkur litu hvort á annað, undrandi og nokkuð hrædd. Þau opnuðu pakkan.
+
+Inni í pakkanum var ekkert, nema tvö litil, silfurhjól. Þau voru mjög falleg, með filigree mynstri og smáum, bláum steinum settum í miðjuna. Fyrst vissu þau ekki hvað þau áttu að gera.
+
+"Kannski eru þetta einhvers konar lyklar?" sagði Eiríkur. "Eða kannski eru þau bundin við eitthvað sem við þurfum að finna?"
+
+Hrafnhildur, alltaf praktísk, skoðaði hjólin vandlega. "Þau eru svo létt," sagði hún. "Og þau snúast svo auðveldlega. Ég veit ekki."
+
+Ákveðið að reyna, ákvað Hrafnhildur að reyna að festa eitt hjólið á pensil sinn. Það passaði fullkomlega. Þegar hún hélt um pennann með hjólinu, fann hún furðulega tilfinningu. Eins og litirnir og landslagið í kringum hana væru að svara henni. Hún dró pensilinn á striga, og myndin sem henni datt í hug, kom fram á einu augnabliki. Hún gat málað framtíðina, fortíðina, eða hvað sem hana langaði.
+
+Eiríkur, hins vegar, festi hjólið á sjónaukann sinn. Þegar hann leit í gegnum hann, sá hann ekki bara stjörnur og vetrarbrautir. Hann gat ferðast þar, farið í gegnum rýmið, skoðað plánetur og gert við þær. Hann gat jafnvel séð hvað gerðist í fortíðinni, eða hvað myndi gerast.
+
+Næstu daga, voru Hrafnhildur og Eiríkur upptekin af því að kanna gjöfina sína. Hrafnhildur málaði dásamleg landslagið, skipuleggur að koma heim og fólk úr öðrum löndum, og óskaði eftir að sjá hvað myndi gerast. Eiríkur ferðaðist um rýmið, heimsótti nýjar plánetur, lærði um leyndarmál alheimsins.
+
+En eins og póstkrókaskáldið hafði varað við, lærðu þau þá að töfrarnir voru ekki án kostnaðar. Því meira sem Hrafnhildur málaði framtíðina, þeim mun meira breyttist hún. Því meira sem Eiríkur ferðaðist í tíma, þeim mun meira ruglaði hann. Hvorugt þeirra vildi meiða eða skaða fólk eða heiminn.
+
+Einn daginn, þegar Hrafnhildur málaði mynd af fallegum þorpsbúum, vöknuðu þau skyndilega, en alls ekki eins. Þau voru reið, leið, og ógnandi hvert annað. Hver einasta litur á striganum virkaði leiðilega. Áttaði Hrafnhildar eimir, að hún hafði málað þau inn í svona ævi, því eins og þau gætu, eitt í einu, breytt eðli hennar var búið. Sama gerðist með Eirík. Hraðar en hann hafði ferðast, varð hann ruglaður frá löngu tímabilum.
+
+Þau ákváðu að hittast og ræða. "Við verðum að hætta," sagði Hrafnhildur. "Við erum að missa það sem við elskum mest - raunveruleikann, tengslin okkar, hvert annað. Við verðum að fagna heiminum eins og hann er."
+
+Eiríkur samþykkti. Hann hringdi í sjónaukann. "Við þurfum að hætta þessu áður en við eyðileggjum allt."
+
+Saman, ákváðu þau að gera aðra stórt öfugt. Hrafnhildur teiknaði nýtt málverk, þar sem hún teiknaði hjólið fjarlægt frá penslinum. Eiríkur beindi sjónaukanum sínum að stjörnunum og hóf að senda út bylgjur af friði í gegnum rýmið og tíma. Þeim tókst að snúa sínu breytti fortíð aftur.
+
+Þeir settu hjólin í kista og færðu hana upp á hæsta fjallið í nágrenninu. Þar fundu þau falinn helli og setti hjólin þar inn, vitað að nú er betra að geyma þau í friði.
+
+Þau sneru aftur til eðlilegs lífs, þar sem Hrafnhildur málaði sem áður, en nú með meiri fegurð og hreinleika. Eiríkur náði dýpt í stjörnufræði, með bara sjónauka sinn og mikla forvitni.
+
+Þau lærðu af mikilvægi þess að meta litla hlutina, þá sem eru næst þeim, fegurð augnabliksins og samheldni fjölskyldu og vina. Afmælisgjöfin hafði kennt þeim að töfra og kraftur sé til staðar og hann er að finna í hlutum sem eru öllum aðgengilegir en mikilvægast er að það verði haft í höndum með visku.
+
+Frá þeim degi, lifðu Hrafnhildur og Eiríkur hamingjusamlega, alltaf minni á töfrandi gjöf sinnar afmælisdags, og hvernig hún hafði kennt þeim, að hinir sönnu töfrar séu í ástinni, gleðinni og einfaldleika lífsins. Og ef þú, lesandi, ferð inn í litla, gamla tréhús þar sem rauða þakið skín, gætirðu séð að þau voru ennþá að læra þessi mikilvægu lexíu.
+</body>
+```

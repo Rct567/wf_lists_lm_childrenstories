@@ -1,0 +1,48 @@
+<prompt>
+Please write a light-hearted Scottish Gaelic children's story that is at least 1000 words long.
+It must be completely written in proper Scottish Gaelic (GD).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>gd</lang_id>
+
+<title>An Duilleag Dìomhair aig Domhnall</title>
+<body>
+Bha Domhnall na bhalach òg le gruaidh ruadh, sùilean gorm mar an t-sàile, agus gàire cho soilleir ris a’ ghrian samhraidh. Bha e a’ fuireach ann an taigh beag, geal ri taobh Loch Nis còmhla ri a mhàthair, Màiri, agus a sheanair, Seumas. Bha Domhnall dèidheil air Loch Nis. Bhiodh e a’ cluich ri taobh an locha fad an latha, a’ tilgeil chreagan a-steach don uisge, a’ coimhead airson a’ bhàta-mara ainmeil, Nessie, agus a’ sgrùdadh a h-uile rud a lorgadh e.
+
+Aon latha, fhad ‘s a bha e a’ rannsachadh bucaid shean ann an seilear an taighe, lorg Domhnall leabhar beag, seann dòigh. Bha an leabhar air a dhèanamh de leathar dorcha, agus bha crios òir beag a’ cumail a dhùnadh. Bha Domhnall air a tharraing sa bhad. Dh’fhosgail e an leabhar, agus chunnaic e gu robh e làn de dh’fhigearan iongantach agus deirean ann an litrichean breagha, eireachdail. Cha robh Domhnall a’ tuigsinn mòran dhiubh, ach bha aon duilleag ann a bha eadar-dhealaichte. Bha an duilleag seo bàn, gun sgrìobhadh.
+
+“Dè tha seo?” smaoinich Domhnall. “Duilleag falamh?”
+
+Bha e a’ coimhead air an duilleag airson ùine mhòr, a’ smaoineachadh mu na bhiodh e a’ sgrìobhadh air. Dh’fheuch e ri a lìonadh le dealbhan de Nessie, ach cha robh na peansailean ag obair. Dh’fheuch e ri a sgrìobhadh le inc, ach cha do thachair dad. Bha an duilleag dìomhair fhathast.
+
+Dh’fheuch e ri innse dhan mhàthair aige, ach thuirt Màiri gu socair: “Is dòcha nach eil e fhathast deiseil, a ghràidh. Cum e sàbhailte, agus thig e leis fhèin nuair a bhios e deiseil.”
+
+Bha Domhnall a’ cumail an leabhair bheag leis ann an àite sàbhailte, fo a leabaidh. Bhiodh e ga thoirt a-mach a h-uile latha agus ga choimhead. Dh’fhàs e eòlach air na figearan agus na litrichean anns an leabhar, agus thòisich e a’ tuigsinn beagan den cànan.
+
+Aon latha, fhad ‘s a bha e a’ coimhead air an duilleag dhìomhair, thòisich e a’ smaoineachadh mu na rinn e e fhèin. Bha e air cluich ri taobh an locha, air càirdean a dhèanamh leis a h-uile creutair beag a bh’ ann, bho na seilleanan gu na caoraich. Bha e air cuideachadh a thoirt dha sheanair san t-seilear, a’ togail bàtaichean beaga le fiodh agus a’ coimhead às dèidh a’ ghàrraidh.
+
+“Is dòcha,” thuirt e ris fhèin, “is e seo a tha a dhìth.”
+
+Dh’fhosgail Domhnall an leabhar chun an duilleig falamh. Thòisich e a’ smaoineachadh air na rudan a bha dèidheil air an duilleag, agus mheasgaich e na figearan agus na litrichean, agus sgrìobh e am facal "Gàire". An uairsin, sgrìobh e “Locha”, “Nessie” agus “Màthair” agus “Seanasr”. An uairsin thòisich e a’ dealbhachadh an àite-fuirich sgiobalta le peansail beag.
+
+Aig an aon àm, bha a’ ghrian a’ deàrrsadh tro uinneag an t-seòmair, agus thòisich an duilleag a’ deàrrsadh. Thòisich na faclan agus na dealbhan a’ gluasad, a’ dannsa air an duilleag. Thàinig dealbh de Loch Nis, le Nessie a’ sgoltadh gu socair tron uisge. Thàinig dealbh de Màiri agus Seumas, a’ gàireachdainn agus a’ gabhail tlachd ri teine. An uairsin, thàinig dealbh de Domhnall fhèin, a’ gàireachdainn agus a’ cluich le creutairean bheaga.
+
+Bha Domhnall air a ghlacadh leis an t-sealladh. Bha an duilleag dìomhair a’ taisbeanadh na h-uile rud a bha cudromach dha: a theaghlach, a charaidean, agus an àite a bha e dèidheil air.
+
+Nuair a stad an solas, bha an duilleag air a lìonadh leis na dealbhan brèagha. Bha na faclan, le litrichean eireachdail, sgrìobhte ann am meadhan gach dealbh, mar sin a’ cruthachadh sgeulachd bheag mu dheidhinn beatha Domhnaill.
+
+Ghluais Domhnall an leabhar chun a mhàthair agus a sheanair, agus le gàire mòr, dh’innse e dhaibh mu na h-uile rud. Bha iad air leth toilichte. Chaidh leabhar ùr fhàs aig Domhnall an uairsin, de sheòrsa.
+
+“Tha seo sgoinneil,” thuirt Màiri. “Tha iad uile anns an leabhar agad.”
+
+“Is e seo an leabhar agad,” thuirt Seumas, gu socair. “Thoir e leat fad do bheatha, agus cleachd e gu glic.”
+
+Bho sin a-mach, chùm Domhnall an leabhar dìomhair leis a h-uile latha. Nuair a bha rudeigin sònraichte a’ tachairt, bha e ga sgrìobhadh agus ga dhealbhadh air an duilleig. Tha e air mòran sgeulachdan a sgrìobhadh agus air mòran bheachdan a sgrìobhadh an sin. Mar a bha na bliadhnaichean a’ dol seachad, dh’fhàs an leabhar gu bhith na chruinneachadh de a h-uile rud a bha cudromach dha. Bha e na chuimhneachan air na h-amannan sona, na caraidean, agus an teaghlach aige, is gun do dh’ionnsaich e meas a dhèanamh air a h-uile nì beag a bha a’ dèanamh a bheatha cho sònraichte.
+
+Agus a h-uile turas a dh’fhosgladh e an leabhar, bha e a’ faireachdainn an aon rud: gàire. Chùm e a’ sgrìobhadh san leabhar, fiù 's nuair a dh'fhàs e suas. Bha am facal "Gàire" fhathast aig a' phrìomh àite. Agus a-nis, tha an leabhar aige fhathast ann, a’ feitheamh ri sgeulachdan ùra.
+</body>

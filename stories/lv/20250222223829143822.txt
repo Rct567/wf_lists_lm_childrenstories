@@ -1,0 +1,53 @@
+<prompt>
+Please write a relatable Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Zēns, kurš atrada abpusējo draugu'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lv</lang_id>
+
+<title>Zēns, kurš atrada abpusējo draugu</title>
+<body>
+Pēteris bija mazs zēns ar lielu sirdi un vēl lielākām sapņu spārniem. Viņš dzīvoja nelielā, mājīgā ciematā, kur katrs mājas stūris bija pilns ar stāstiem un noslēpumiem. Bet Pēteris jutās vientuļš.  Viņam nebija īstā drauga, ar kuru varētu dalīties ar savām sapņu lidojumiem un iedomātajiem piedzīvojumiem.  Citos ciemata bērniem bija savi rotaļu biedri, ar kuriem kopā spēlēt.  Pēteris palika vienatnē ar savām fantāzijām, rotaļām ar koka kuģīšiem un iztēles radītiem draugiem.
+
+Viņa māte, silta un mīļa sieviete, ar mīļiem vārdiem mēģināja atvieglot Pētera sirdi. "Pēterītis," viņa sacīja, "draudzība ir kā skaists zieds, kas aug tikai tad, ja tam ir pietiekami daudz siltumu un uzmanības."  Bet Pēteris zināja, ka siltums un uzmanība vien nebija pietiekami.
+
+Vienā saulainā vasaras dienā, Pēteris devās uz mežu, kas klāja ciemata robežas.  Mežā, starp krāšņiem ozolu un priedēm, viņš uzdūrās jauna, nepazīstama zēna, kurš, apsēdies pie upes krasta, laboja savas makšķeres.  Zēna acīs spīdēja zinātkāre un prieks, un viņš bija ģērbies vecā, bet rūpīgi sakopā  šūtos apģērbā.
+
+"Sveicināti," Pēteris teica, savā acīs spoguļojoties neliels kautrība.
+
+"Sveicināti," atbildēja zēns, neskatoties uz Pēteru.  Viņš bija piepildīts ar nelielu spriedzes sajūtu, bet  vienlaicīgi arī ar nelielu ieinteresētību.
+
+"Esmu Pēteris," sacīja Pēteris.
+
+"Es esmu Jānis."
+
+"Man patīk zvejošana," sacīja Pēteris.
+
+"Man patīk lasīt," sacīja Jānis.
+
+Pēc īsa klusuma Pēteris jautāja: "Kāpēc tu esi viens?"
+
+Jānis nopietni paskatījās uz Pēteri un atbildēja: "Man nepatīk spēcīga runa, bet esmu vientuļš, jo visi domā, ka esmu pārāk kluss."
+
+"Bet man patīk klusums!" Pēteris teica. "Man patīk klausīties meža balsīs un sapņot."
+
+Jānis pamirkšķināja.  "Tu sapņo?"
+
+"Jā," teica Pēteris. "Es sapņoju par lielu kuģi, kas brauc pa okeānu, par brīnumiem, kas slēpjas aiz katra meža stūra."
+
+Jānis klusēja un pēkšņi pasmaidīja. "Man arī patīk sapņi. Es sapņoju par pasaules kartēm un par tālām zemēm, par meža rūpēm un putnu dziesmām."
+
+Tā sāka uzplaukt draudzība. Viņi pavadīja stundas, runājot par saviem sapņiem, daloties ar saviem iedomātajiem piedzīvojumiem un spēlējot meža rotaļās. Jānis parādīja Pēterim dažādas meža ārstniecības augu, stāstot par to dziednieciskajām īpašībām, un Pēteris rādīja Jānim savus fantāzijas kuģus un pasauļu kartes. Viņi spēlēja spēles, kas nebija līdzīgas cita bērnu spēlēm, bet tās bija piepildītas ar entuziasmu un atklātību.
+
+Viņi atklāja, ka viņi nav tik atšķirīgi, kā sākumā domāja. Jānis bija kluss nevis tāpēc, ka viņš nebija runīgs, bet gan tāpēc, ka viņš vēroja un dzirdēja pasauli visapkārt ar savām acīm un ausīm. Viņš runāja vienīgi tad, kad tas bija nepieciešams, bet viņa vārds bija piepildīts ar dziļu gudrību. Pēteris, savukārt, nebija vientuļš, jo viņš bija piepildīts ar daudzām domām un iztēli, bet viņš apzinājās, ka ir svarīgi dalīties ar šīm domām un iztēli ar kādu.
+
+Draudzība ziedēja. Viņi pavadīja kopā daudz laika, spēlējot un daloties ar savām atklāsmēm. Mežā, starp ozolu un priedēm, Pēteris atrada ne tikai draugu, bet gan abpusēju draugu,  draugu, kurš saprata viņa sirdi un sapņus. Viņi vairs nebija vientuļi.
+
+Un tā, Pēteris vairs nebija vientuļš.  Viņš bija atradis Jāni, un kopā viņi bija ne tikai divi, bet gan viens liels, skaists pasaule, kas piepildīta ar sapņiem un piedzīvojumiem.
+</body>

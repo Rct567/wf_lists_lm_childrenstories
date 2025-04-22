@@ -1,0 +1,34 @@
+<prompt>
+Please write a simple and easy-to-follow Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Terra Incognita et Homines Minuti'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>la</lang_id>
+
+<title>Terra Incognita et Homines Minuti</title><body>Olim, in terra incognita, ubi montes altissimi caelum tangere videntur et silvae densae umbram perpetuam creant, habitabant homines minuti. Hi homines, non altiores quam digitus manus, in domunculis ex foliis et ramis constructis vivebant. Erant valde industriosi et semper aliquid novi faciebant.
+
+Una die, parvus puer nomine Lucius, qui erat curiosus et audax, silvam explorare voluit. "Mater," inquit, "licetne mihi in silvam ire? Volo videre quid ultra arbores lateat." Mater eius, quae erat prudens et diligens, respondit, "Luci, scisne quod silva plena periculorum est? Sed si promittis te caute agere, licet tibi ire."
+
+Lucius gaudio exsultans, "Promitto, mater!" et statim parva saccina cum cibo et aqua paravit. Cum saccina in umero, Lucius per semitas angustas in silvam ambulavit. Avibus cantantibus et foliis susurrantibus, Lucius se in medio silvae invenit.
+
+Subito, Lucius sonitum mirum audivit. Erat sonitus qui nec avis nec ventus erat. Curiositate ductus, Lucius ad sonitum appropinquavit. Post arborem magnam, Lucius fontem lucidum invenit. Aqua fontis splendebat sicut gemmae, et Lucius, qui numquam tale miraculum viderat, attonitus stetit.
+
+Dum Lucius fontem spectat, vox suavis e fontis medio audita est. "Quis es tu, qui ad fontem meum venisti?" vox interrogavit. Lucius, paulum territus, respondit, "Ego sum Lucius, homo minutus. Quis es tu?"
+
+Ex aqua, figura pulcherrima emersit. Erat nympha, cuius capilli erant sicut aurum et oculi sicut saphiri. "Ego sum Nympha Fontis," inquit. "Hic fons est locus magicus, et tu es primus homo minutus qui huc venit."
+
+Lucius, stupefactus, rogavit, "Quid vis a me, Nympha Fontis?" Nympha subridens respondit, "Nihil volo, sed habeo donum tibi. Hic fons potest desiderium tuum implere. Sed cave, quia non omnia quae desideramus bona sunt."
+
+Lucius diu cogitavit. Tandem, "Volo ut terra nostra semper tuta sit et homines minuti felices vivant," dixit. Nympha Fontis approbavit, "Desiderium tuum bonum est. Terra vestra semper tuta erit, et homines minuti feliciter vivent."
+
+Post haec verba, Nympha Fontis in aquam rediit, et Lucius domum reversus est. Cum domum venit, omnes homines minuti gaudio exsultabant, quia sentiebant se tutos et felices. Lucius, cum mater sua, fabulam de Nympha Fontis narravit, et omnes admirati sunt.
+
+Ex illo die, Lucius et homines minuti in pace et felicitate vixerunt, scientes quod Nympha Fontis eos semper custodiret. Et si aliquando in silvam ambulabant, semper fontem lucidum salutabant, grati pro dono quod acceperant.
+
+Sic finis fabulae est, sed memoria Lucii et Nymphae Fontis in cordibus hominum minutorum semper manet.</body>

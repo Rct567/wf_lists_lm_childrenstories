@@ -1,0 +1,90 @@
+<prompt>
+Please write a dialog-based Croatian children's story that is at least 1000 words long.
+It must be completely written in proper Croatian (HR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Čarobna mapa koja vodi do izgubljenih prijatelja'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>hr</lang_id>
+
+<title>Čarobna mapa koja vodi do izgubljenih prijatelja</title>
+<body>
+Bilo je lijepo sunčano jutro u šumi, gdje su se ptice veselo pijuckale i cvrčci zavijali. U tom idiličnom okruženju, dvoje djece, Pero i Ana, sjedili su na kamenu, promatrajući staru, izlomljenu mapu koju su pronašli u dječjoj sobi njihove bake.
+
+Pero: "Ana, što misliš što je ovo? Izašla slike na ovoj karti izgledaju kao da su nacrtane od nekoga tko je stvarno bio u tim mjestima."
+
+Ana: "Ne znam, ali izgleda kao da je ovo neka vrsta trezora. Možda će nas odvesti do nečeg čarobnog!"
+
+Pero: "Trezor? To znači da moramo krenuti u potragu! Baka nam je govorila o nekim izgubljenim prijateljima koji su nestali u šumi. Možda će nas ova mapa odvesti do njih."
+
+Ana: "Misliš li da je to moguće? Da će nas ova mapa zaista odvesti do njih?"
+
+Pero: "Ne znam, ali jedino način da saznamo je da krenemo u potragu. Siapni se, Ana! Krenuli smo!"
+
+Dvoje djece krenuli su u šumu, slijedeći znakove na karti. Šuma je bila gusta i tamna, ali Pero i Ana nisu se bojali. Oni su bili odlučni da pronađu izgubljene prijatelje.
+
+Nakon nekoliko sati hoda, stigli su do velikog kamena. Na kamenu je bio nacrtan znak koji je odgovarao znaku na karti.
+
+Ana: "Pero, pogledaj! Ovo je znak s karte. Mislim da smo na pravom putu."
+
+Pero: "Super! Sada moramo samo pratiti znakove i vidjeti gdje će nas odvesti. Čekaj, što je to?"
+
+Pero je pokazao na malu špilju iza kamena. Ulaz u špilju bio je uzak i taman, ali Pero i Ana nisu se bojali. Oni su ušli u špilju i našli se u velikoj dvorani.
+
+U dvorani su bili brojni predmeti koji su izgledali kao da su bili ostavljeni odavno. Pero i Ana su počeli istraživati i pronašli su staru knjigu.
+
+Pero: "Ana, pogledaj ovo! Ova knjiga izgleda kao da je stara koliko i mapa."
+
+Ana: "Da, i izgleda kao da je napisana u nekom starom jeziku. Možda će nam ova knjiga reći što treba učiniti."
+
+Pero: "Hmmm, pokušajmo razumjeti što piše ovdje. Ah, evo! Ovdje piše da treba slijediti rijeku koja teče kroz šumu."
+
+Ana: "Rijeka? Koja rijeka? Nisam vidjela nikakvu rijeku ovdje."
+
+Pero: "Čekaj, mislim da znam što piše ovdje. Ovdje piše da treba slijediti zvuk vode. Mislim da smo blizu."
+
+Nakon nekoliko minuta hoda, Pero i Ana su čuli zvuk vode. Slijedili su zvuk i stigli su do male rijeke koja je tekla kroz šumu.
+
+Ana: "Pero, pogledaj! Ovo je rijeka! Mislim da smo na pravom putu."
+
+Pero: "Super! Sada moramo samo slijediti rijeku i vidjeti gdje će nas odvesti. Čekaj, što je to?"
+
+Pero je pokazao na malu kolibu na obali rijeke. Koliba je izgledala kao da je bila napuštena, ali Pero i Ana su odlučili istražiti.
+
+Ušli su u kolibu i pronašli su starog čovjeka koji je spavao na krevetu. Pero i Ana su se uplašili, ali starac se probudio i pogledao ih.
+
+Starac: "Dobrodošli, djeco! Ja sam Vuk, jedan od izgubljenih prijatelja vaših bake. Kako ste me pronašli?"
+
+Pero: "Pratili smo mapu koju smo pronašli u dječjoj sobi bake. Vodila nas je do ovdje."
+
+Vuk: "Ah, ta mapa! Bila je napravljena od našeg prijatelja, kartografa. On je napravio mapu da bi nas vodila do izgubljenih prijatelja. Ali kako ste je pronašli?"
+
+Ana: "Baka nam je rekla da je mapa bila sakrivana u dječjoj sobi. Mi smo je pronašli i odlučili pratiti je."
+
+Vuk: "Ah, dobro! Sada ste me pronašli, ali još uvijek ima mnogo izgubljenih prijatelja koji treba biti pronađeni. Htjeli biste mi pomoći da ih pronađem?"
+
+Pero: "Da, naravno! Mi smo ovdje da vam pomognemo."
+
+Vuk: "Dobro, onda krenimo! Imamo mnogo posla i malo vremena. Moramo pronaći sve izgubljene prijatelje i vratiti ih kući."
+
+Pero, Ana i Vuk krenuli su u potragu za izgubljenim prijateljima. Putovali su kroz šumu, slijedeći mapu i znakove koji su ih vodili do različitih mjesta. Pronašli su neke izgubljene prijatelje, ali još uvijek je bilo mnogo onih koji nisu bili pronađeni.
+
+Nakon nekoliko dana potrage, Pero, Ana i Vuk su se vratili kući, umorni ali sretni. Oni su pronašli mnoge izgubljene prijatelje i vratili ih kući.
+
+Baka: "Djeco, kako ste uspjeli pronaći izgubljene prijatelje? Ja sam mislila da ćete se izgubiti u šumi."
+
+Pero: "Pratili smo mapu koju smo pronašli u tvojoj dječjoj sobi. Vodila nas je do Vuka i on nam je pomogao pronaći ostale izgubljene prijatelje."
+
+Baka: "Ah, ta mapa! Bila je napravljena od našeg prijatelja, kartografa. On je napravio mapu da bi nas vodila do izgubljenih prijatelja. Ja sam mislila da je izgubljena zauvek."
+
+Ana: "Mi smo je pronašli i odlučili pratiti je. I sada smo pronašli sve izgubljene prijatelje i vratili ih kući."
+
+Baka: "Djeco, vi ste hrdi! Ja sam toliko sretna što ste uspjeli pronaći izgubljene prijatelje. Sada možete biti sigurni da ćete uvijek naći put kući, bez obzira gdje ste."
+
+Pero i Ana su se osmijehnuli i zagrlili baku. Oni su znali da će uvijek biti sigurni, jer su imali čarobnu mapu koja će ih uvijek vratiti kući.
+
+I tako, Pero i Ana su naučili da uvijek treba pratiti svoje srce i da će uvijek naći put kući, bez obzira gdje su. I čarobna mapa je ostala u njih! </body>

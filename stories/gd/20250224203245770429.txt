@@ -1,0 +1,49 @@
+<prompt>
+Please write a creative and original Scottish Gaelic children's story that is at least 1000 words long.
+It must be completely written in proper Scottish Gaelic (GD).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'An Tàilleas a' Dol air an Adhar'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>gd</lang_id>
+
+<title>An Tàilleas a' Dol air an Adhar</title>
+<body>
+Am measg na h-eilean, ann an dùthaich bhlàth, bha baile beag ainmeil le ainm Carraig-Chruaidh.  Bha na craoibhean làn de dh'fhlùraichean èibhinn, agus bha an ghaoth a' seinn òrain sgàthanach tron mhachair.  Anns a' bhaile seo, bha clann beag ainmeil, Eòin agus Brìghde, a bha ga lìonadh le spiorad a' chruthachais.
+
+Bha Eòin, le sùilean dorcha is crith-chridhe làidir, a' faireachdainn gaoth nan creagan. Bha Brìghde, le sùilean geal is spiorad làidir, a' faireachdainn gaol nan làraichean.  Còmhla, bha iad a' creidsinn gu robh an saoghal làn de dh'fhuinn chruinneach.
+
+Aon là, bha na clann a' dol air bàrdachd gu taobh na mara.  Bha fàinneachan speuradail a' cluich thar an uisge sgàthanach, agus bha na h-eileanan a' sìor-fhuireach.  Chunnaic Eòin rud a bha gan cur an cuimhne, làrach beag, neo-choimhlionta, nach robh a-riamh a’ dol air falbh bho a shuidheachadh.
+
+"Ciamar a tha e comasach gun a bhith a’ dol air adhart?" ars Brìghde gu smuaineach.
+
+"Tha mi a' faireachdainn gu bheil duilich ann," a thuirt Eòin gu sìmplidh. "Tha an saoghal gu lèir ag aoradh le a’ chuimhne."
+
+Fhuair iad air an làrach beag, a bha na chruinn-chloinn beag de chlach. Bha seallaidhean beaga de dh'fhlùraichean a’ sìor-fàs àrd gu h-àrd. Bha an dà chloinn a' faicinn cuideigin a' seasamh taobh a-muigh na cùirteach. Bha an neach seo uasal agus beag, le grian faicinn anns na sùilean aige. Bha sùilean aige coltach ri sùilean an gàirdeachan.
+
+"Smaoinich," thuirt an neach, "a bheil duilich agad a-riamh?"
+
+"Tha, gu cinnteach," a thuirt Brìghde.
+
+"An urrainn dhut a chàradh?" a chuir e ceist.
+
+"Chan eil mi cinnteach," a thuirt Eòin. "Tha e cho mòr."
+
+"Tha mi a' creidsinn gu bheil dòigh ann," a thuirt an neach. "Tha am beatha làn de dh'atharrachaidhean, mar an uisge a' sìor-thilgeil tron mharc.  Tha e a' dol air adhart, ach tha e a' sìor-atharrachadh.  Tha cuideigin ann an cruinneachd a’ tighinn gu buil agus a’ sìor-ghluasad."
+
+"Mar a tha an t-àilleachd a’ tighinn gu buil?" a chuir Eòin ceist.
+
+"A dh'aonagh, is e an cruthachd a th' ann," a thuirt an neach. "Tha gach cuid de na tha ceart agus de na tha ceàrr a' nochdadh ann an solas a’ chruinneachaidh seo. Ma tha thu ag iarraidh air an t-sùil a dhùsgadh, feumaidh thu a chruthachadh."
+
+An uair sin, chunnaic iad uile rud beag. Bha am beatha beag seo, a bha na chruinn-chloinn de chlach, a’ nochdadh an t-slighe air adhart. Bha a’ chruinn-chloinn a’ sìor-fàs gu h-àrd, a’ toirt air falbh bho na h-eileanan agus a’ dol air adhart gu ràinig e na speuran.
+
+Bha Eòin agus Brìghde a' faireachdainn a' ghaoth, a' gluasad air an adhar, a' sìor-èirigh mar chuimhneachan spioradail.  Bha iad a' cluinntinn cùisean a' seinn agus a' seinn anns an adhar. Bha e a' cluinntinn cuidhtean an slighe.
+
+B'e an t-aon rud a bha air fhàgail anns an cùirteach beag, làrach beag de ghràdh agus de chruthachas, a bha a' toirt air falbh gu h-ionmholtach air an adhar. B'e seo an t-àilleachd nach robh ach a' dol air adhart air a' chùirteach.  Bha an àilleachd a’ dol air an adhar.  Bha iad a' gluasad air falbh.
+
+Bha Eòin agus Brìghde a' coimhead, a' faireachdainn an t-slighe a' fàgail bho na h-eileanan, a' gluasad thar an uisge, a’ dol air adhart gu ràinig e na speuran.  Bha iad a' faireachdainn a' ghaoth a' seinn òrain sgàthanach, agus bha iad a' creidsinn gu robh an saoghal làn de dh'fhuinn chruinneach.  Bha an t-àilleachd a' dol air an adhar.
+</body>

@@ -1,0 +1,29 @@
+<prompt>
+Please write a educational Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Discipulus Curiosus et Liber Magicus'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>la</lang_id>
+
+<title>Discipulus Curiosus et Liber Magicus</title>
+<body>
+In villa rustica, prope flumen placidum, vivebat discipulus curiosus nomine Titus.  Non solum litteras discere amabat, sed etiam fabulas et mysteria.  Diebus serenis, cum sol radiis aureis terras illuminabat, Titus libros in horto perlegebat, quaerens scientiam reconditam.  Inter libros antiquos, in armario vetusto, invenit librum magicae, obvolutum pergameno vetusto.  Scripta in litteris aureis, fabulae mirabiles et incantatio secreta tegebant folia.  "Liber Magicus," susurrabat Titus, "quid te recondit?"
+
+Cum librum aperuisset, paginae primum silentio obtectae erant.  Tunc,  litterae in aere, quasi animae, surrexerunt, narrando fabulam de Nympha aquatica, quae in flumine vivebat.  Nympha, nomine Luna, erat pulchra et sapientissima, custodiens secreta fontis.  "Luna, regina aquarum," dicebat liber, "potestatem habet ad curandum et ad sanandum.  Sed eius potentia condicionibus regitur."
+
+Titus,  curiosus et avidus,  legere pergebat.  Liber narravit de herbis medicinalibus, quae in silvis crescebant,  de floribus qui colores celestium caeli imitabantur, et de lapidibus qui potentiam occultam tenebant.  Descriptio herbae Valerianae, cum virtutibus suis sanandis, et rosae albae, quae pacis et amoris symbolum erat,  Titum captivaverunt.  Deinde,  de lapis lazuli,  qui in tenebris lucem emittere poterat,  legit.  "Mirabile!"  exclamavit Titus,  "scientia haec est inestimabilis!"
+
+Titus,  impetu motus,  in silvam profectus est, quaerens herbas et flores descriptos in libro.  Cum silvam intravit,  sonus avium cantantium et murmur aquarum eum circumdabat.  Inveniens Valerianam,  cum cautela et reverentia,  plantam colligebat,  memor instructionum libri.  Deinde,  in campo,  rosa alba in flore perfectum invenit,  et eam cum reverentia  in bracchio suo portavit.  Sed lapis lazuli, ut liber dicebat,  in spelunca occulta latebat.
+
+Per horas,  Titus  in speluncae tenebris errans,  in fine  lapidem caeruleum,  splendidum et clarum,  inveni.  Cum lapidem in manibus tenuit,  sentiens potentiam ejus,  recordatus est  conditionum libri.  "Potentia haec,"  cogitatum est,  "non est ad maleficium, sed ad bonum."  Cum lumine lapidis,  Titus  fecerat propositum ad sanandum aliquem aegrotum in villa.
+
+In villa,  senex infirmus,  Nomine  Aulus,  in lecto jacuit,  laborans dolore gravi.  Titus,  cum  cordibus plena spe,  herbas et flores,  quos colligere per silvam potuit,  cum lapide lazuli ad Aulum portavit.  Cum herbas in aqua miscuit,  et lapidem lazuli in aqua posuit,  color caeruleus aquam illuminavit,  et  aurae mirabiles in aere volitabant.  Aulus,  bibit poculum,  et dolor eius  dissipata est.
+
+Titus,  cum  gaudio et admiratione,  vidit Aulum  sanari.  "Miraculum!"  exclamavit,  "Liber Magicus me docuit!"  Aulus,  ad vitam suam reditus,  Titum gratias egit pro cura.  Titus,  exultans,  reversus est ad villam,  librum magicum in armario ponens.  Non solum scientiam et artes magicae didicit, sed etiam  iucunditatem et gratiam in opere suo.  Et sic,  Titus,  discipulus curiosus,  cognoscebat  quod potentia vera non in maleficio, sed in opere bono sita est.  Finis.
+</body>

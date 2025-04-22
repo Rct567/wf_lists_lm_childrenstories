@@ -1,0 +1,41 @@
+<prompt>
+Please write a simple and easy-to-follow Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Mazais pūķis, kas mācījās celt mājas no mākoņiem'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lv</lang_id>
+
+<title>Mazais pūķis, kas mācījās celt mājas no mākoņiem</title>
+<body>
+Uz debesīm, virs zaļajām pļavām un ziliem ezeriem, dzīvoja mazs pūķis vārdā Pūķītis. Viņš nebija kā citi pūķi – nebija milzīgs un briesmīgs, bet gan mazs un draudzīgs, ar spīdošām, zaļām acīm un smieklīgi mazu degunu. Pūķītis nebija ieinteresēts uguns elpošanā vai zelta meklēšanā. Viņam patika mākoņi. Viņš sapņoja par mākoņiem – par to, kā tie peld pa debesīm, kā tie mainās, kā tie varētu kļūt par kaut ko skaistu un pārsteidzošu.
+
+Pūķītis bija dzimis debesu kraujā, kur mākoņi bija viņa draugi. Viņš pavadīja stundas, vērojot, kā mākoņi izveidojas no mitruma un gaismas, un kā tie mainās. Viņš vēroja, kā no nelielas, baltas pūkas var izveidoties milzīga, pelēcīga, vai pat krāsaina, rozā un dzeltena mākonis. Viņš iedomājās, ka varētu izveidot māju no mākoņiem.
+
+Bet kā to izdarīt? Pūķītis jautāja savam vecākajam brālim, liela pūķa, vārdā Pūķa-Pilsēta, kurš bija pazīstams ar savām dīvainībām un neparastajām idejām.
+
+"Brāli," jautāja Pūķītis, "vai tu zini, kā celt māju no mākoņiem?"
+
+Pūķa-Pilsēta, ar savu milzīgo degunu un smieklīgi garām ausīm, domāja ilgu laiku. Viņš skatījās uz debesīm, uz mākoņiem, un tad nopietni atbildēja: "Protams, dēls. Bet tas prasīs daudz pacietības un zināšanu. Mākoņi ir nepastāvīgi, un tos nevar vienkārši apķert un pacelt. Tos ir jāiedvesmo."
+
+"Kā?" jautāja Pūķītis.
+
+"Jā, tas ir sarežģīti," atbildēja Pūķa-Pilsēta. "Mums jāizmanto īpaši mākoņu spēki. Mums jāzina, kā piesaistīt mitrumu, kā to pārveidot par vēlamo formu un kā to noturēt gaisā."
+
+Pūķītis un Pūķa-Pilsēta pavadīja dienas un naktis, pētot mākoņus. Viņi iemācījās, ka mākoņi ir izgatavoti no sīkām ūdens pilieniņām un ledus kristāliņiem. Viņi iemācījās, ka mākoņi veidojas, kad gaiss paceļas un atdziest, un ka tie var mainīties atkarībā no gaisa temperatūras un spiediena. Viņi iemācījās, ka mākoņus var ietekmēt vējš un gaisa straumes.
+
+Pūķītis un Pūķa-Pilsēta eksperimentēja ar dažādiem mākoņiem. Viņi mēģināja tos apķert ar gaisa burbuļiem, bet mākoņi vienkārši izkliedējās. Viņi mēģināja tos savienot ar gaismas stariem, bet tie vienkārši izkliedēja gaismu. Viņi mēģināja tos noturēt ar īpašām burvībām, bet burvības nebija pietiekami spēcīgas.
+
+Beidzot, pēc daudzām neveiksmēm un daudzām stundām, Pūķītis atklāja vienu lielu noslēpumu. Viņš atklāja, ka mākoņu formas un krāsas var ietekmēt ar īpašām dziesmām. Viņš sāka dziedāt skaistas dziesmas, dziedot par debesīm, par sauli, par lietus lāsēm un par zvaigznēm.
+
+Viņa balss bija tik skaista un tik pilna ar mīlestību, ka mākoņi sāka dziedāt kopā ar viņu. Tie sāka veidot skaistas formas un krāsas. Tie sāka izveidot mākoņdārzu, kurā dzīvoja daudzas mazas, krāsainas putnu radības.
+
+Pēc tam Pūķītis un Pūķa-Pilsēta izveidoja savu māju no mākoņiem. Tā bija balta mākonis ar ziliem logiem un dzeltenām durvīm. Mājā bija vieta visiem debesu iemītniekiem.
+
+Un tā, mazais pūķis, kas mācījās celt mājas no mākoņiem, kļuva par debesu karali, un viņa māja kļuva par debesu dārzu. Un visi debesu iemītnieki dzīvoja laimīgi un priecīgi.
+</body>

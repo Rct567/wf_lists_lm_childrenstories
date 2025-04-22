@@ -1,0 +1,44 @@
+<prompt>
+Please write a emotional Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Piparipojan seikkailut lumiukkokylässä: uusi ystävä ja piparkakkutalon pelastaminen.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>fi</lang_id>
+
+<title>Piparipojan seikkailut lumiukkokylässä: uusi ystävä ja piparkakkutalon pelastaminen</title>
+<body>
+Kaikki alkoi talven tullen, kun lumet peittivät kylän valkoiseen vaipaan. Piparipoika, joka asui piparkakkutalossaan lumiukkokylän laidossa, oli innoissaan talven saapumisesta. Hän rakasti lumipelejä, luistelua ja kaikkea, mitä talvi tarjosi.
+
+Piparipojan talo oli erikoinen. Se oli tehty piparkakkuja ja koristeltu värikkäillä icing-koristeilla. Talon ikkunat olivat suuria ja pyöreitä, ja ovi oli maustepippurin muotoinen. Piparipoika rakasti taloaan ja huolehti siitä tarkoin.
+
+Eräänä päivänä, kun Piparipoika oli ulkona lumessa leikkimässä, hän näki outoa. Lumipalloja lensi ilmassa, ja ne muodostivat yhden suuren lumipallon. Piparipoika oli utelias ja meni tutkimaan asiaa. Hän huomasi, että lumipalloista oli muodostunut yksi iso lumipallo, josta tuli ulos pieni, punatukkainen tyttö.
+
+Tyttö esittäytyi nimellä Lumina, ja hän kertoi olevansa lumiukkokylän uusi asukas. Piparipoika oli iloinen saadessaan uuden ystävän ja esitteli Luminan kylän asukkaille. Heistä tuli nopeasti hyvät ystävät, ja he viettivät päivänsä lumessa leikkimällä ja seikkaillessa.
+
+Mutta kaikki ei ollut hyvin lumiukkokylässä. Paha lumimies, joka asui kylän ulkopuolella, suunnitteli pahaa. Hän halusi tuhota kylän ja sen asukkaat. Lumimies oli suuri ja karva, ja hänellä oli voimakas lumenvetäjä, jolla hän voi hallita lumia.
+
+Piparipoika ja Lumina kuulivat lumimiehen suunnitelmista ja päättivät tehdä jotain. He keräsivät kylän asukkaat yhteen ja keksivät suunnitelman, jolla he voivat pelastaa kylän. He päättivät rakentaa suuren lumivallin, joka estäisi lumimiehen pääsyn kylään.
+
+Piparipoika, Lumina ja kylän asukkaat alkoivat rakentaa lumivallia. He työskentelivät koko päivän ja saivat valmiiksi suuren ja vahvan lumivallin. Mutta juuri kun he olivat valmiit, lumimies saapui paikalle.
+
+Lumimies oli suuri ja karva, ja hänellä oli voimakas lumenvetäjä. Hän alkoi heittää lumipalloja kylän asukkaille, ja he joutuivat puolustautumaan. Piparipoika ja Lumina keksivät kuitenkin suunnitelman, jolla he voivat voittaa lumimiehen.
+
+He muistivat, että piparkakkutalon icing-koristeet olivat erittäin makeita, ja ne voisivat houkutella lumimiehen. He leivottivat suuren määrän piparkakkuja ja asettivat ne lumivallin eteen. Lumimies näki piparkakut ja meni niiden luokse. Hän alkoi syödä piparkakkuja, ja ne olivat niin makeita, että hän unohti suunnitelmansa.
+
+Piparipoika, Lumina ja kylän asukkaat hyödynsivät tilannetta ja alkoivat rakentaa toista lumivallia. Tällä kertaa he rakensivat sen ympäröiväksi lumimiehen, jotta hän ei pääsisi karkaamaan. Lumimies yritti paeta, mutta lumivalli oli liian vahva.
+
+Lopulta lumimies antautui, ja kylän asukkaat voittivat. Piparipoika, Lumina ja kylän asukkaat juhlivat voimiaan, ja he kiittivät toisiaan avusta. Piparipoika ja Lumina olivat erityisen iloisia, koska he olivat löytäneet uuden ystävän ja pelastaneet kylän.
+
+Seuraavana päivänä kylän asukkaat kokoontuivat piparkakkutaloon juhlimaan voittoaan. Piparipoika ja Lumina tarjoilivat piparkakkuja ja juomia, ja he kertoi tarinaa siitä, miten he pelastivat kylän. Kylän asukkaat kuuntelivat tarinaa ja nauroivat, ja he kiittivät Piparipoikaa ja Luminaa rohkeudesta.
+
+Jälkeenpäin Piparipoika ja Lumina jatkoivat seikkailujaan lumiukkokylässä. He rakensivat uusia lumivalleja, leikkivät lumessa ja viettivät aikaa yhdessä. He olivat parhaat ystävät, ja he tunsivat olevansa onnellisia siitä, että he löysivät toisensa.
+
+Talvi kulki, ja lopulta se alkoi hävitä. Lumet sulivat, ja kylä alkoi näyttää erilaiselta. Piparipoika ja Lumina olivat surullisia, koska he tiesivät, että talvi oli ohi. Mutta he myös tiesivät, että he voivat odottaa seuraavaa talvea, jolloin he voivat jatkaa seikkailujaan.
+
+Niin Piparipoika ja Lumina jatkoivat elämäänsä lumiukkokylässä, aina odottaen seuraavaa talvea ja seikkailuja, jotka se tuo. He olivat onnellisia siitä, että he löysivät toisensa, ja he tiesivät, että he aina voivat luottaa toisiinsa.</body>

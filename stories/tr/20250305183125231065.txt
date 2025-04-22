@@ -1,0 +1,35 @@
+<prompt>
+Please write a uncomplicated Turkish children's story that is at least 1000 words long.
+It must be completely written in proper Turkish (TR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Gizemli Harita ve Kayıp Define Adası'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>tr</lang_id>
+
+<title>Gizemli Harita ve Kayıp Define Adası</title>
+<body>
+Baharın ılık esintisi, deniz kıyısındaki küçük köyü sardığında, on iki yaşındaki Ali, elinde eski, yırtık bir harita ile heyecanla dolmuştu. Haritanın üzerinde, yeşilliklerle kaplı, gizemli bir ada resmedilmişti.  Adanın üzerinde, altın parlayan bir hazine sandığı simgelerinin arasında, tuhaf deniz canlıları ve garip şekiller vardı.  Ali, dedesinin eski eşyalarını karıştırırken bu haritayı bulmuştu.  Dedesi, yıllar önce bu adaya gittiğini, ama hiç geri dönmediğini söylerdi.
+
+Ali, bu gizemli adaya ulaşmak için büyük bir maceraya atılmaya kararlıydı.  Köyün yaşlı balıkçısı, dedesinin hikayelerini duyarak Ali'ye yardım etmeye karar verdi.  "O ada, fırtınalı denizlerin ortasında, görünmeyen bir sis perdesinin ardında saklı," dedi.  "Harita, sana yolu gösterebilir, ama cesaret ve zeka da gerekli."
+
+Ertesi gün, Ali, yaşlı balıkçıya ait eski, ama sağlam bir tekneyle yola koyuldu.  Yanında, haritanın dışında, dedesinin eski bir pusulası ve birkaç ihtiyacı olan yiyecek vardı.  Deniz, başlangıçta sakin görünüyordu.  Ama güneş batarken, rüzgar kuvvetlenmeye başladı ve dalgalar, tekneyi şiddetle sallamaya başladı.  Ali, korkmadan, teknedeki deneyimsizliğine rağmen, yönünü pusuladan takip ederek yoluna devam etti.
+
+Gecenin karanlığı çöktüğünde, gökyüzü yıldırımların ve şimşeklerin dansıyla aydınlandı.  Ali, korkmasına rağmen, teknesini denizin fırtınalı kollarında yönlendirirken, dedesinin hikayelerini hatırladı.  Dedesi, bu adanın, deniz ruhlarının ve gizemli yaratıkların koruduğunu söylerdi.  Ali, her fırtınayla, haritadaki gizemli simgelerin anlamını daha iyi anlamaya çalıştı.
+
+Birkaç gün sonra, ufukta, haritada çizilen adaya benzeyen yeşil bir ada belirdi.  Ali, tekneyi adanın yakınlarına yanaştırdı ve kıyıya doğru kürek çekti.  Ada, yemyeşil ormanlarla kaplı, üzerinde garip şekillerde desenler olan, parlak çiçeklerle süslü bir cennet gibiydi.  Ali, ormanın içine doğru ilerledi.  Ormanın derinliklerinde, gizemli bir ses duydu.  Ses, ona yakınlaşıyor gibiydi.
+
+Ağaçların arasında, gizemli bir mağara belirdi.  Mağaranın girişinde, eski bir yazı vardı.  Ali, haritadaki gizemli simgelerin, mağaranın girişindeki yazılarla eşleştiğini fark etti.  Mağaraya girdi.  Mağaranın içinde, karanlık ve ürkütücü bir atmosfer vardı.  Ama aynı zamanda, bir hazineye benzeyen bir ışıltı da vardı.
+
+Ali, mağaranın derinliklerine doğru ilerledi.  Yol boyunca, gizemli heykeller ve şaşırtıcı desenler vardı.  Bu heykeller, haritadaki deniz canlılarına benziyordu.  Sonunda, mağaranın en derin noktasında, bir hazine sandığı belirdi.  Sandık, altınla kaplıydı ve içinde değerli taşlar ve mücevherler vardı.  Ali, heyecanla sandığı açtı.
+
+Ama sandıktaki altınlar ve mücevherler dışında, bir de eski bir kitap vardı.  Kitap, dedesinin adadaki macerası hakkında yazılmıştı.  Kitap, dedesinin adada sadece altın arayan değil, aynı zamanda doğanın gizemlerini ve deniz ruhlarının hikayelerini araştıran biri olduğunu gösteriyordu.  Ali, dedesinin cesaret ve bilgeliğini takdir etti.
+
+Ali, hazineyi alıp adadan ayrılmaya karar verdi.  Ama önce, haritanın üzerindeki tüm simgeleri çözmüştü.  Harita, dedesinin adadaki macerasını anlatan bir hikaye gibiydi.  Ali, haritayı ve kitabı yanına alarak, teknesine döndü ve köyüne doğru yola koyuldu.  Yolda, fırtınalı denizler, Ali'ye zorlu bir yolculuk yaşattı.  Ama Ali, dedesinin hikayelerini ve haritanın gizemini hatırlayarak, cesaretini korudu.
+
+Köyüne döndüğünde, Ali, hazineyi ve kitabı köyün yaşlılarına gösterdi.  Hepsi, Ali'nin cesaret ve zekasını takdir etti.  Ali, artık genç bir maceracı değildi, aynı zamanda bilge bir keşifçiydi.  Ve o, dedesinin mirasını, cesareti ve bilgeliği ile yaşatmıştı.  Ali, haritanın gizemini çözmüştü ve kayıp define adasının sırlarını öğrenmişti.
+</body>

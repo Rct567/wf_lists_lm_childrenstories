@@ -1,0 +1,37 @@
+<prompt>
+Please write a simple and easy-to-follow Slovak children's story that is at least 1000 words long.
+It must be completely written in proper Slovak (SK).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Magické svety a ich tajomstvá'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sk</lang_id>
+
+<title>Magické svety a ich tajomstvá</title>
+<body>
+Malá Anička, s očami ako dva lesklé kamienky, žila v malej dedine na okraji lesa.  Každý deň prechádzala popri starom, rozpadajúcom sa dome, ktorý sa skrýval za hustými korunami stromov. Hovorili, že v ňom žijú magické bytosti a že skrýva tajomstvo rozličných svetov. Anička mu vždy zvedavo prikladala ucho a počúvala šušot vetra, ktorý prechádzal cez jeho rozpadnuté steny.
+
+Jedného dňa, keď sa Anička hrávala na okraji lesa, zbadala v tráve záhadný, lesklý kamienok. Bol taký krásny, že ho s nadšením zdvihla a vložila si ho do vrecka. Keď sa večer vracala domov, cítila, ako sa kamienok zahrieva. V jej ruke sa náhle vynoril tenký, priesvitný prameň, ktorý ju viedol cez les a dovnútra starého domu.
+
+V dome bolo ticho, len sem-tam sa ozýval šušot a škrípanie starých drevených schodov. Anička prešla cez rozpadnuté dvere a ocitla sa v malej izbe, plnej starých kníh a zvláštnych predmetov. Na stole stála stará, bronzová miska plná rozličných drobných kameňov. Jeden z kameňov žiarila neobyčajnou, žiarivou farbou.  Anička si ho opatrne zobrala.
+
+V tom sa z kamenných stien ozval tichý hlas: „Vitaj, Anička.  Si odvážna a zvedavá.  Tieto kamene sú bránami do magických svetov.  Každý kameň skrýva iný svet, plný zázrakov a tajomstiev."
+
+Anička sa prekvapene pozrela na rozžiarujúci sa kameň.  „A ako sa tam dostanem?" spýtala sa.
+
+„Musíš ho držať v ruke a povedať želanie," ozval sa hlas.
+
+Anička zatvorila oči a premyslela sa. Chcela vidieť svet, kde sa stromy dotýkajú oblakov a kde vtáky spievajú pesničky plné zlatej hudby.  S úctou a láskou v srdci,  vyriekla želanie: „Želám si vidieť svet, kde sa stromy dotýkajú oblakov a kde vtáky spievajú zlato."
+
+V okamihu sa kameň zmenil na bránu. Na dverách sa objavili malé, svietiace hieroglyfy, ktoré sa pomaly otvárali a pred Aničkou sa otvorila úžasná krajina. Vzduch bol naplnený neuveriteľnou vôňou kvetov, ktoré boli oveľa väčšie ako tie, ktoré poznávala.  Stromy sa dotýkali oblakov, a ich listy svietili v rozličných odtieňoch.  Mnoho farebných vtákov lietať okolo, spievať nádherné pesničky.
+
+Anička sa prechádzala po tejto rozprávkovej krajinke, objavovala nádherné tvory a zázraky. Stretla roztomilú, šesťnohú húsenicu, ktorá jej povedala tajomstvo kvetov, ktoré rozprávajú rozprávky. Videla krásne, svietiace kvety, ktoré vyžarovali magické svetlo.  Všetko bolo tak nádherné, že Anička zabudla na čas.
+
+Po chvíli jej srdce zazvonilo a vedela, že je čas vrátiť sa domov.  Stále držala kameň v ruke.  S úsmevom ho položila na stôl v izbe. Dvere magického sveta sa pomaly zatvorili. Anička sa ocitla späť v známom dome.
+
+Odvtedy sa Anička pravidelne vracala do magického sveta.  Vždy si priniesla domov kúsok radosti a poznania z tých tajomných svetov.  A každý kameň, ktorý našla, jej otvoril ďalšie dvere k poznaniu a zázrakom.  A tak, vďaka svojmu odvahe a zvedavosti, Anička objavila krásu a tajomstvá sveta okolo seba.
+</body>

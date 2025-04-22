@@ -1,0 +1,62 @@
+<prompt>
+Please write a light-hearted Slovak children's story that is at least 1000 words long.
+It must be completely written in proper Slovak (SK).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Zlatý zámok a princ, co vládne srdciam'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>sk</lang_id>
+
+```xml
+<title>Zlatý zámok a princ, co vládne srdciam</title>
+<body>
+<p>Za siedmimi horami a siedmimi dolinami, kde sa lúky zelenali a rieky strieborne trblietali, stál nádherný Zlatý zámok. Nebol to len tak hocijaký zámok, ale ozajstné umelecké dielo. Steny sa ligotali zlatom a slnko, keď na ne svietilo, sa v nich odrážalo ako tisíce malých slniečok. Na vežiach zámku, namiesto bežných vlajok, viseli pestrofarebné transparenty, na ktorých boli nakreslené šťastné smajlíky a srdiečka.</p>
+
+<p>V Zlatom zámku žil princ Matej. Ale nebol to taký princ, akých poznáte z rozprávok. Nebol namyslený, nerozkazoval a nesnažil sa každému dokázať, že je najlepší. Naopak, princ Matej bol nesmierne milý, usmievavý a vedel každého rozosmiať. Vládnuť zámku a ľuďom sa učil nie rozkazmi, ale svojím srdcom. Preto ho všetci v kráľovstve milovali.</p>
+
+<p>Princ Matej mal jedného najlepšieho priateľa – malého, hravého draka Danka. Danko nebol obyčajný drak. Síce chrlil oheň, ale len keď sa cítil šťastný. Jeho plamene mali farbu dúhy a namiesto spáleného dreva voňali po jahodách. Danko bol zároveň trochu nemotorný. Neustále do niečoho narážal a takmer denne stratil nejaké šupiny.</p>
+
+<p>Jedného dňa sa na Zlatom zámku objavil zvláštny hosť – madam Klaminda, povestná svojimi čarami a záľubou v pokladaní hádaniek. Mala dlhé fialové šaty, klobúk s perím a v ruke držala drevenú paličku. Prešla zámkom s teatrálnym spôsobom, zvedavo si obzerala všetko navôkol. Poobede sa madam Klaminda ocitla v princovej pracovni. Zrejme jej bolo v kráľovstve naozaj dobre, keďže si urobila malú čajovú oslavu.</p>
+
+<p>„Drahý princ,“ prehovorila madam Klaminda svojím zamysleným hlasom. „Prišla som s hádankou. A ak ju nevyriešite, stanete sa..." Zrazu sa odmlčala a dramaticky si zotrela čelo. "No, stane sa hrozná vec! Vaše kráľovstvo bude navždy premenené na…na…kopu kamenia!“</p>
+
+<p>Princ Matej sa len usmial. „Nebojte sa, madam. Hádanky mám veľmi rád. Skúste.“</p>
+
+<p>Madam Klaminda sa uškrnula a začala: „Mám oči, ale nevidím. Mám ústa, ale nehovorím. Mám nohy, ale nechcem chodiť. Čo som?“</p>
+
+<p>Princ Matej sa zamyslel, pohladil si bradu a potom mu v očiach zasvietil úsmev. „No predsa mapa!“ zvolal radostne.</p>
+
+<p>Madam Klaminda zostala prekvapená. „Hm… no áno. Je to mapa. Ale to nie je všetko. Ďalšia hádanka! Kto býva v dome s oknami, ale nevlastní žiadne dvere?“</p>
+
+<p>Princ Matej na chvíľu zaváhal, ale potom sa usmial na Danka, ktorý ležal zrolovaný pod stolom a počúval. „Predsa úľ! V úli sú okná – diery na vlet a výlet včiel, ale žiadne dvere.“</p>
+
+<p>Madam Klaminda stŕpla a naozaj ju to už prestávalo baviť. „Dobre! Posledná hádanka. Čo má zuby, ale nikdy nežerie?“</p>
+
+<p>Princ Matej sa na madam pozrel priamo do očí. Chvíľku premýšľal. Zrazu sa zamračil. "Píla! Píla má zuby, ale nikdy nimi neje," povedal.</p>
+
+<p>Madam Klaminda, bezmocná a porazená, sa posadila na stoličku. „Ale, to je nemožné! Vyhral ste! Už mi to tu nedáva zmysel. Prepáčte, princ, nechcem urobiť s kráľovstvom to, čo sľúbil, a zmeniť ho na kopu kamenia. Nie som dostatočne dobrá. Chcela som sa iba s niekým zahrať...“. Vypustila tichý vzdych.</p>
+
+<p>Princ Matej sa pousmial. „No tak, madam Klaminda. Nenechajte sa odradiť. Hra s hádankami je predsa len zábava. Môžeme si ich vymieňať. A o tom, čo sa stalo… to nikto nemôže vedieť! Aj Danko bude rad, ak byste mu robila spoločnosť, a aj ak vám upečiem koláč!“, navrhol princ s úsmevom.</p>
+
+<p>Madam Klaminda naozaj prekvapene pozdvihla obočie. Uvedomila si, aké je to s princom Matejom iné ako s tými kráľovskými pánmi, o ktorých doteraz len počúvala. „No, a prečo by nie?“ odpovedala. Potom zdvihla z podlahy zopár Dankových vypadnutých šupín a s radostnou iskrou v očiach podotkla: „A dúfam, že mi dovolíte, aby som vám pomohla nájsť tie chýbajúce šupiny vášho draká!"</p>
+
+<p>Vzápätí si začali navzájom rozprávať, baviť sa a hrať s hádankami. Madam Klaminda sa veľmi rada stala hosťom Zlatého zámku, a nakoniec si tam našla aj trvalý pobyt. A Danko? Danko bol konečne s niekým ďalším spokojný, mal s kým tvoriť šialené spoločné dobrodružstvá, na ktoré bude rad spomínať. Princ Matej opäť raz potvrdil, že vládnuť srdciam je najväčšia mágia na svete.</p>
+
+<p>Život na Zlatom zámku sa zmenil, a v tom najlepšom zmysle slova. Zakaždým, keď sa ozval zvon pri bráne, nevedeli, koho ešte naozaj uvidia. Niekedy to boli potulní hudobníci, ktorí na nádvorí hrali veselé melódie. Inokedy zase maličké víly, čo chceli ukázať svoje trblietavé krídelká. Madam Klaminda s Dankom často organizovali pre deti záhadné hry a hľadania pokladov. A ak sa na oblohe objavila dúha, všetci vedeli, že Danko je šťastný a šúcha si svojimi plameňmi po lúkach zámku.</p>
+
+<p>Princ Matej bol najšťastnejší, keď videl šťastné tváre okolo seba. Vedel, že hádanky, ktoré madam Klaminda vymýšľala, ho vždy potešili. Raz za čas sa im stalo, že nechcel dávať riešenia, ale to iba preto, aby hru pretiahli na čo najdlhší čas, len aby mali prečo sa smiať. Vďaka madam Klaminde mal navyše pocit, že je tu s niekým rovnaký, a nielen ako kráľ, ale ako normálny človek. </p>
+
+<p>Zlatý zámok, na ktorého vežiach viseli smajlíky a srdiečka, bol stále oázou radosti a lásky. A princ Matej, so svojím milým úsmevom a dobrým srdcom, navždy vládol svojmu kráľovstvu a všetkým jeho obyvateľom. Vďaka jeho dobrote bolo kráľovstvo, na rozdiel od predpovedí Madam Klamindy, silné a odolné. Zrazu pochopili aj to, že to nie je zlato, ktoré skrášľuje ich zámok, ale ich spoločné šťastie. Kráľovstvo tak začalo prosperovať ešte viac a zažili šťastné a veselé dni!</p>
+
+<p>Jedného dňa, pri príležitosti osláv piateho výročia príchodu madam Klamindy, sa pred Zlatým zámkom zišlo množstvo detí. Hrali sa, tancovali a radovali sa, pričom každý bol ozdobený veselým úsmevom. Všetci prišli obdivovať a podeliť sa o svoju radosť, s princovým záhradníkom, ktorý pripravoval malé poklady a rozvoniaval dobroty zo záhradného altánu. Hrať sa s nimi prišli aj pani Klaminda a Danko. Spoločne vytvorili v záhrade ohňostroj s pomocou Dankových dúhových plameňov. Následne sa madam Kalaminda predovšetkým zaslúžila o to, že vytvorila jednu spoločnú veľkú hádanku, ktorej rozlúsknutie by prinieslo každému jedno veľké prekvapenie.</p>
+
+<p>Prekvapenie, ktoré Madam Klaminda pripravila, bolo neuveriteľné. Ako odmenu za to, že to so smiechom a radoťou vydržali a hľadali pre ňu odpovede na jej hádanky, priniesla hrad plný rozprávok, zábavy a dobrodružstva, a k tomu jeden obrovský obľúbený kúsok - Dankova šupinu, ktorá mala úžasnú moc! Každé dieťa si mohlo dotknúť tohto kúsku a na pár sekúnd zažiť niečo výnimočné – stať sa hrdinom z ich obľúbenej rozprávky. Každé z detí vybehlo nadšene dopredu, usilovne čakali na rad, keď sa konečne dočkali svojho šťastia, dotknúť sa Danka a zahrať si so všetkými spolu. Hlasom Mateja tak padlo všetkým na dušu to, že sa hádanka vyplatila, a že Madam Klaminda naozaj splnila sľub, o čom by mal celý svet vedieť.</p>
+
+<p>V Zlatom zámku sa šťastne žilo ešte dlho. A princ Matej? Stále sa usmieval a svojou láskou a dobrotou vládne srdciam všetkých, čo ho poznali. A to je ten najkrajší príbeh, aký si len môžete predstaviť.
+</p>
+</body>
+```

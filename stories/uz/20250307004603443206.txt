@@ -1,0 +1,50 @@
+<prompt>
+Please write a timeless Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Samolyotda Sayohat Qilgan Qizaloq va Quyoshli Shaharlar'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>uz</lang_id>
+
+<title>Samolyotda Sayohat Qilgan Qizaloq va Quyoshli Shaharlar</title>
+<body>
+
+Bir kuni, juda go'zal bir qizaloq - Gulnora, oynadan samolyotning qanotlarini tomosha qilib o'tirardi. Uning yuzi hayajon bilan to'lgan, ko'zlari esa porlar edi. Gulnora ilk bor samolyotda sayohat qilayotgandi. Uning qo'lida bobosi tomonidan sovg'a qilingan yorqin rangli, eski kitob bor edi. Kitob sahifalarida sehrli shaharlarning rasmlari chizilgan, ushbu shaharlarning hayotidan hikoyalar yozilgan edi.
+
+Samolyot uchdi, bulutlar orasidan o'tib, quyoshga yaqinlashdi. Gulnora o'zini osmonda, qushdek his qildi. Uning fikrlari dengiz kabi cheksiz, hayollari esa rang-barang edi. Kitobini ochdi va birinchi sahifani varaqladi.
+
+Birinchi shahar - Samarqand. Uning rasmi chiroyli minoralari, Registon maydoni bilan yorqin edi. Kitobda shunday yozilgan edi: "Samarqand – tarixiy shahar, ilm-fan va madaniyat beshigi. Bu yerda osmon rangidagi gumbazlar, naqshinkor devorlar, mehnatkash odamlar yashaydi. Har bir g'ishtida tarix aks etadi, har bir eshigida mehmon kutish odati bor".
+
+Gulnora ko'zlarini yumdi-da, Samarqandni o'z ko'z oldiga keltirdi. U yelkalariga atlas ko'ylak kiygan, tillarang sochlari bilan maydonda aylanib yurgan qizaloqni tasavvur qildi. Uning qo'lida olma bor edi va u doimo kulib turar edi. Uning xayolida Samarqandning go'zalligi, odamlarning mehmondo'stligi namoyon bo'ldi.
+
+Keyingi shahar - Buxoro. Uning rasmlari ko'k rangdagi hovuzlar, labirintga o'xshash tor ko'chalar bilan bezatilgan edi. "Buxoro – ertaklar shahri. Bu yer shaharning har bir burchagida sirlar yashirinadi, do'konlarda turli xil gilamlar va ziravorlar sotiladi. Buxoroda sehr bor, go'zallik bor, sevgi bor", deb yozilgan edi kitobda.
+
+Gulnora Buxoroni xayolan sayr qildi. U eski devorlar ichida yashiringan g'aznalarni qidirayotgan bolakayni ko'rdi. Uning qo'lida kichkina uzunroq somsa bor edi va uni har qadamda yemakchilar taklif qilardi. U atrofga hayrat bilan qarab, sirli narsalarni qidirardi. Buxoroning sehrli atmosfera uni o'ziga tortdi.
+
+Keyin, kitob sahifasida Xiva shahri paydo bo'ldi. "Xiva – mingboshi shahri. Bu yerda mustahkam devorlar, qal'alar, minoralar bor. Odamlar qahramonlik haqida hikoyalar aytib berishadi, jangchilar jasorat bilan o'z yurtini himoya qilishadi. Xivada ruh shiddati, kuchli iroda va vatanga muhabbat hukmronlik qiladi".
+
+Gulnora Xivani xayolida tasavvur qildi. U jang maydonlarida jasorat ko'rsatgan polvonlarni, qal'a devorlaridan o'tuvchi askarlarni ko'rdi. U o'zini qahramon qizaloqdek his qildi, uning yuragi g'ururga to'ldi. Xivaning qahramonlik ruhi uni ham qizg'inlikka soldi.
+
+Samolyotning ovozi bir zumda pasaydi. Gulnora oynadan pastga qaradi va Toshkent shahrini ko'rdi. Uning yuqori binolari, keng yo'llari, katta bog'lari va o'yin maydonchalari ko'zga tashlanardi. Bu shahar zamonaviy edi, lekin o'zining qadimiy tarixiga ega edi.
+
+Kitobda Toshkent haqida shunday yozilgan edi: "Toshkent – do'stlik shahri. Bu yerda turli millat vakillari tinch-totuv yashaydi, bir-biriga yordam beradi. Toshkent – gullagan bog'lar, fayzli mehmonxonalarga ega shahar. Toshkentga kelgan har bir inson o'zini uyida his etadi".
+
+Gulnora Toshkentning bog'laridan o'tib, do'stlari bilan o'ynayotgan bolakaylarni ko'rdi. Uning qo'lida muzqaymoq bor edi, ular qahqaha otib kulishardi. Ular bir-birlariga yordam berishardi, birga o'ynashardi va hursandchilik bilan vaqt o'tkazishardi. Toshkentning mehrli muhiti Gulnorani o'ziga jalb qildi.
+
+Samolyot asta-sekin qo'ndi. Gulnora kitobini mahkam ushlagan holda samolyotdan tushdi. Uning qalbi sayohatdan olgan taassurotlarga to'lib-toshgandi. Samarqandning tarixiy go'zalligi, Buxoroning ertaklardagi sehrli dunyosi, Xivaning qahramonlik ruhi, Toshkentning do'stlik tuyg'ulari uning qalbida abadiy qoldi.
+
+U o'zining uyi tomon yo'l oldi, lekin uning yuragi hali ham samolyotda edi. U kelajakda yana samolyotda uchishni va o'zining kitobidagi barcha shaharlarni ziyorat qilishni orzu qildi. U o'zining sayohati haqida do'stlariga, qarindoshlariga so'zlab berdi. Ular ham Gulnoraning hikoyalaridan hayratga tushishdi.
+
+Gulnora har kuni kitobini o'qirdi, eski shaharlardagi hikoyalarni eslar edi. Uning hayollari yana va yana sayohatga otilardi. U kelajakda yorqin quyosh nurlari ostida, gullagan shaharlarda ko'proq insonlarga mehribonlik, samimiylik va do'stlik ulashishga ahd qildi.
+
+Kunlar o'tdi, yillar o'tdi. Gulnora katta bo'ldi, lekin uning qalbida samolyotda qilgan sayohati xotiralari hali ham yashardi. U boshqa shaharlarga ham sayohat qildi, yangi odamlar bilan tanishdi va o'zining dunyoqarashini boyitdi.
+
+U har doim kitobini esladi, chunki bu unga o'sha go'zal, yorqin shaharlarga sayohat qilish imkonini bergan edi. Ular Gulnoraning qalbida abadiy qoldi, uning umrining yo'lida unga yordam berdi, orzulariga yetishishiga ko'maklashdi.
+
+Gulnora o'zini baxtli his qilardi. Chunki u samolyotda sayohat qildi, quyoshli shaharlarni ko'rdi va ularning go'zalligi uning hayotini to'ldirdi. U har doim yoshligida o'tkazgan samolyotdagi sayohatini eslab, o'zining farzandlariga ham bu hikoyani aytib berdi. Hikoya avloddan-avlodga o'tib, o'zining ahamiyatini asrab qoldi.
+</body>

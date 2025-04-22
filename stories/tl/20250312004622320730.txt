@@ -1,0 +1,37 @@
+<prompt>
+Please write a simple and easy-to-follow Tagalog children's story that is at least 1000 words long.
+It must be completely written in proper Tagalog (TL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Ang Pag-awit ng mga Kanta Tungkol sa Pag-ibig sa Pamilya'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>tl</lang_id>
+
+<title>Ang Pag-awit ng mga Kanta Tungkol sa Pag-ibig sa Pamilya</title>
+<body>
+Sa isang maliit na nayon, kung saan ang mga puno ng mangga ay nakapalibot sa mga bahay na gawa sa kawayan, may isang maliit na batang lalaki na nagngangalang  Mateo. Siya ay palaging nag-iisip ng mga kwento, mga kwento tungkol sa kanyang pamilya.
+
+Isang araw, habang naglalaro sa likod ng bahay, narinig ni Mateo ang mga mahiwagang tunog na lumalabas sa isang lumang gitara.  Ang gitara ay nakapatong sa isang lumang, natutuyo nang puno ng kamatis. Sa kabila ng matandang itsura nito, parang ito'y may sariling buhay, nagniningning ng isang banayad na liwanag.
+
+Nilapitan ni Mateo ang puno.  Mayroon ding mga papel, parang mga nota, na nakakalat sa paligid. Naging interesado siya. Mabuti nga at may kakayahan siya sa musika. Madalas siyang umaawit ng mga tula tungkol sa kalikasan.  Sinuri niya ang gitara, kinagat niya ang kanyang labi, at nagpasya siyang maglaro sa kaninang mahiwagang gitara.
+
+Habang hinahaplos niya ang mga kuwerdas ng gitara, parang may buhay na tumawag sa kanya. Naaninag niya ang kulay ginto sa mga letra ng mga papel sa paligid ng instrumento, parang mga titik sa langit.  Hindi ito mga simpleng papel; parang mga tula, mga awitin ang mga ito!
+
+Nang unang tinugtog ni Mateo ang gitara, lumabas ang himig na masaya. Ang himig ay tila tungkol sa isang anak na babae na gustong magpalipas ng umaga kasama ang kaniyang nanay at ama.  "Mama, Papa, gusto ko tayong maglaro!" kumanta si Mateo.
+
+Napansin din ni Mateo ang mga papel ay naglalarawan hindi lamang ng mga masasayang awitin, pati na rin ng mga mahirap, tulad ng paggugol ng pag-aalaga para sa may sakit na miyembro ng pamilya. Narinig niya na naawit na ang isang dalaga, habang inaalagaan niya ang kaniyang kapatid na may sakit. "Ina, kapatid, ikaw at ako" awit niya.
+
+Nang makalapit ng mas mabuti si Mateo sa mga papel, nakita niya na hindi lamang mga simpleng tula ang mga ito; ang bawat isa ay isang kwento tungkol sa kanyang pamilya, tungkol sa mga karanasan nila ng magkasama sa buong mga taon. Naisip niya ang kaligayahan at ang paghihinagpis sa mga mukha ng kaniyang mga magulang. Naalala niya rin kung paano pinagsiksikan ni Mama ang kanyang sarili para gawing masaya ang araw ng mga kapatid. Napagtanto rin niya na ang karanasan ng pamilya ay isang kuwento ng pakikibaka at pagmamahal sa pagdaraanan ng buhay.
+
+Isa-isang nilalaruan niya ang mga papel na tila sila mga hiwaga. Nasuri niya ang awit na nagkukuwento ng isang ina na nagpapangarap na makita ang kanyang mga anak na nagtatagumpay sa hinaharap. Habang ginagalaw ng mga daliri ang mga kuwerdas, lumalabas sa kanyang sarili ang mga awiting tungkol sa gabi ng pagkain kasama ng pamilya, ang saya ng araw na ang pagdating ay masarap para sa mga bata, ang pagdating ng bagong miyembro ng pamilya sa tahanan, mga awit ng maliliit na kahirapan at masarap na alalahanin, at maging mga kwento tungkol sa pagdaan sa mahihirap na panahon, at ang pagiging malakas sa espiritu at damdamin.
+
+Habang patuloy na tinutugtog ni Mateo ang gitara, maririnig niya na unti-unti ang bawat tugtog ay nabubuhay.  Parang nararamdaman niya ang init ng araw na sumisikat, ang ingay ng mga bata na tumatakbo, at ang tawa ng mga tao na nagsasama-sama. Ang mga tugtog ay parang lumilikha ng tunay na mga karanasan sa isip, puso, at katawan ni Mateo.  Alam niyang may kakaibang ugnayan ang kanyang musika sa kaniyang pamilya. Ang bawat tugtog ay pagsasalaysay ng  pag-ibig na ipinadama ng kaniyang magulang, ni Aling Marites at Kuya Raul, mga kamag-anak, at maging sa mga kaibigan. Ang bawat tunog ay nagpapaalala sa kaniya ng kaniyang mga karanasan kasama ang pamilya, malalim ang kahulugan sa likod nito.
+
+Bigla, nagningning ang gitara. Lumitaw ang isang matandang lalaki na may mapusyaw na balbas. "Mateo," sabi ng matanda, "ang mga awitin ng pagmamahal sa pamilya ay nasa iyo. Awitin mo ang mga kwento ng iyong pamilya, sapagkat sila ang iyong inspirasyon."
+
+Napangiti si Mateo. Napagtanto niya ang tunay na kahalagahan ng mga kanta at kwento ng pag-ibig sa pamilya. Sapagkat para sa kanya, ang pag-ibig sa pamilya ay hindi lang sa mga mabubuting araw; ito ay  sa lahat ng mga oras ng kanyang buhay. Mula noon, si Mateo ay naging isang mang-aawit ng kanyang pamilya.  Ang kanyang mga awit ay nagpapalakas sa kanila, nagtuturo ng pagmamalasakit, at tumatalakay sa pag-ibig na nag-uugnay sa kanila.  Siya ay isang  tula ng kanilang karanasan na nangyayari sa kanyang kaluluwa, para sa lahat ng buhay.
+</body>

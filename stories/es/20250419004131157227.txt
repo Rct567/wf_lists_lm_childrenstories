@@ -1,0 +1,59 @@
+<prompt>
+Please write a timeless Spanish children's story that is at least 1000 words long.
+It must be completely written in proper Spanish (ES).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Una maestra inspiradora que cambió la vida de sus alumnos para siempre.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>es</lang_id>
+
+```xml
+<title>Una maestra inspiradora que cambió la vida de sus alumnos para siempre.</title>
+<body>
+En un pequeño pueblo escondido entre montañas verdes y ríos cristalinos, vivía una maestra llamada Doña Elena. Era una mujer de sonrisa amable y ojos que brillaban con la luz del conocimiento. Su cabello, peinado con un moño apretado, comenzaba a mostrar hebras plateadas, testimonio de los años dedicados a enseñar y a amar a sus alumnos. La escuela, pintada de colores alegres, era un refugio de risas, juegos y aprendizaje. Allí, Doña Elena no solo enseñaba matemáticas, lectura y escritura; también sembraba semillas de bondad, respeto y curiosidad en los corazones de los niños.
+
+Cada mañana, antes de que el sol asomara por las cumbres, Doña Elena ya estaba preparando la escuela. Abría las ventanas, permitiendo que el aire fresco de la montaña llenara las aulas. Revisaba los trabajos de sus alumnos, preparando actividades creativas para cada día. Su misión no era solo educar, sino también inspirar.
+
+Uno de sus alumnos, un niño llamado Mateo, era conocido por su timidez. Se escondía detrás de sus gruesas gafas, temeroso de equivocarse o de ser el centro de atención. Le costaba participar en clase, y sus calificaciones reflejaban su inseguridad. Doña Elena, observando la tristeza en los ojos de Mateo, sabía que tenía que encontrar una manera de llegar a su corazón.
+
+Otro alumno, Sofía, era una niña curiosa y llena de energía, pero provenía de una familia humilde. A menudo, sus zapatos estaban rotos, y sus libros eran viejos y desgastados. A pesar de las dificultades, Sofía tenía una sed insaciable de aprender y una imaginación desbordante. Doña Elena veía en Sofía un potencial enorme, pero sabía que necesitaba apoyo para prosperar.
+
+Un día, durante la clase de ciencias, Doña Elena anunció un proyecto especial: cada alumno tendría que elegir un tema de su interés y realizar una investigación. El objetivo era aprender a investigar, a organizar la información y a presentarla de manera clara y creativa. Mateo se encogió en su silla, abrumado por la idea. Sofía, en cambio, sonrió, ya pensando en el tema que elegiría.
+
+Doña Elena, notando la inquietud de Mateo, se acercó a él. "Mateo, ¿hay algo que te guste mucho, algo que te haga sentir feliz?", le preguntó con voz suave. Mateo, titubeante, respondió en un susurro: "Los pájaros, señora. Me encanta verlos volar, escuchar sus cantos..."
+
+Un brillo iluminó los ojos de Doña Elena. "¡Perfecto! Puedes investigar sobre los pájaros que viven en nuestra región. Puedes aprender sobre sus tipos, sus costumbres, sus cantos. ¡Imagínate! ¡Podrás convertirte en un experto en aves!"
+
+Mateo, sorprendido, levantó la mirada. Por primera vez, sintió que el proyecto no era una amenaza, sino una oportunidad. Empezó a investigar, con la ayuda de Doña Elena. Juntos, pasaban horas en la biblioteca, buscando información en libros y enciclopedias. Salían al patio de la escuela, observando a los pájaros con binoculares y anotando sus descubrimientos.
+
+Para Sofía, Doña Elena organizó una pequeña colecta en la escuela. Con la ayuda de los padres y otros maestros, consiguieron libros nuevos para Sofía, cuadernos y algunos útiles escolares. Le recordaba constantemente lo talentosa que era y la animaba a soñar en grande. Sofía, sintiéndose querida y apoyada, floreció como una flor en primavera.
+
+Durante semanas, los alumnos trabajaron con entusiasmo en sus proyectos. Doña Elena les guiaba, les animaba y les enseñaba a superar los obstáculos. Les enseñó a no tener miedo a equivocarse, porque los errores eran oportunidades para aprender y mejorar. Les enseñó a trabajar en equipo, a compartir ideas y a celebrar los éxitos de los demás.
+
+El día de la presentación, la escuela se convirtió en un mercado de ideas y conocimientos. Los alumnos, nerviosos pero emocionados, presentaron sus trabajos. Mateo, con el corazón latiendo con fuerza, expuso sobre las aves. Con su voz temblorosa al principio, pero cada vez más segura, habló de las diferentes especies, de sus migraciones, de sus nidos. Presentó un dibujo detallado de un colibrí, pintado con colores vibrantes. El público, fascinado, lo escuchó con atención.
+
+Sofía, por su parte, presentó una maqueta impresionante de una célula animal, construida con materiales reciclados. Explicó con pasión el funcionamiento de la célula, mostrando una comprensión admirable del tema. Su exposición fue tan clara y concisa que hasta los más pequeños entendieron los conceptos complejos.
+
+Después de las presentaciones, Doña Elena se acercó a Mateo y le abrazó. "¡Lo hiciste increíble, Mateo!", le dijo con una sonrisa radiante. "Te has superado a ti mismo. Has descubierto tu talento, y ahora, el mundo se abre ante ti."
+
+Luego, se acercó a Sofía y le felicitó. "Eres una niña brillante, Sofía. Tienes una mente prodigiosa y un futuro prometedor."
+
+El éxito de estos proyectos fue mucho más allá de las aulas. Mateo, gracias a la investigación de los pájaros, encontró confianza en sí mismo. Dejó de ser el niño tímido que se escondía detrás de sus gafas. Empezó a participar activamente en clase, a hacer preguntas y a compartir sus ideas. Sus calificaciones mejoraron notablemente. Desarrolló una pasión por la ornitología, y soñaba con convertirse en un científico para estudiar a las aves.
+
+Sofía, con el apoyo de Doña Elena y de la comunidad escolar, continuó brillando. Sus logros inspiraron a otros niños a perseguir sus sueños. Su imaginación desbordante la llevó a escribir cuentos, a pintar cuadros y a soñar con convertirse en una gran artista.
+
+Pero el cambio no solo ocurrió en la vida de Mateo y Sofía. Todos los alumnos de Doña Elena se transformaron. Aprendieron que la educación no era solo una obligación, sino una aventura, un camino hacia el descubrimiento personal. Aprendieron a amar el conocimiento, a valorar el esfuerzo y a respetar a los demás. Aprendieron que con esfuerzo, dedicación y el apoyo adecuado, podían lograr cualquier cosa que se propusieran.
+
+Con el tiempo, la reputación de Doña Elena y su escuela se extendió por todo el pueblo y más allá. Muchos padres querían que sus hijos estudiaran con ella, sabiendo que allí recibirían mucho más que solo lecciones. Recibirían una educación que les cambiaría la vida.
+
+Los años pasaron, y Doña Elena, aunque su cabello se tornó completamente blanco, siguió siendo la misma maestra inspiradora de siempre. Sus alumnos, convertidos en hombres y mujeres de bien, recordaban con cariño a su maestra y el impacto que había tenido en sus vidas. Algunos se convirtieron en profesionales exitosos, otros en artistas talentosos, y todos recordaban con gratitud las lecciones de vida que aprendieron en aquella pequeña escuela del pueblo.
+
+Un día, una antigua alumna, ya convertida en una destacada periodista, regresó al pueblo y entrevistó a Doña Elena. Le preguntó qué era lo más importante que había aprendido durante todos esos años de enseñanza. Doña Elena, con sus ojos llenos de sabiduría, respondió: "Lo más importante es aprender a ver el potencial que reside en cada niño, a cultivar su curiosidad y a sembrar en sus corazones la semilla de la esperanza. Porque cada niño, sin importar sus circunstancias, tiene algo especial que ofrecer al mundo. Y mi trabajo, mi mayor alegría, ha sido ayudarlos a descubrir ese don."
+
+Y así, Doña Elena continuó siendo una maestra inspiradora, cambiando la vida de sus alumnos para siempre, recordándoles que la verdadera educación va mucho más allá de los libros, que se encuentra en el corazón, en el espíritu de superación y en el amor por el conocimiento.
+</body>
+```

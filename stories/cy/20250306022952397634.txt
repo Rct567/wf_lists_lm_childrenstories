@@ -1,0 +1,42 @@
+<prompt>
+Please write a educational Welsh children's story that is at least 1000 words long.
+It must be completely written in proper Welsh (CY).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Arloesedd y Gwyllt a'r Cŵn Goch'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>cy</lang_id>
+
+<title>Arloesedd y Gwyllt a'r Cŵn Goch</title>
+<body>
+Roedd y tywydd yn wyrdd a chwerw yn y pentref bach, lle'r oedd y blant yn chwarae yn y strydoedd a'r caeau. Roedd un blodyn bach o'r enw Elain, a oedd yn caru chwarae yn yr awel a'r glaw. Roedd ganddi gi bach o'r enw Cai, a oedd yn fawr ei flaenoriaeth.
+
+Un diwrnod, tra'r oedd Elain a Cai yn chwarae yn y cae, clywodd Elain sŵn anghyfarwydd. Roedd y sŵn yn debyg iawn i wylan, ond roedd yn dod o'r coed. Roedd Elain yn chwilfrydig, a phenderfynodd fynd i weld beth oedd y sŵn. Aeth hi a Cai i'r coed, ac ar ôl mynd i mewn i'r coed, clywodd hi'r sŵn eto.
+
+Roedd y sŵn yn dod o goed bach, lle'r oedd aderyn bach yn canu. Roedd yr aderyn yn wyrdd a du, a roedd ganddo gôf uchel. Roedd Elain yn synnu, a gofynnodd i'r aderyn, "Beth wyt ti, a phwy wyt ti?" Yr oedd yr aderyn yn ateb, "Dw i'n aderyn o'r enw Iolo, a dw i'n byw yn y coed. Dw i'n caru canu, a dw i'n hoffi'r awel a'r glaw."
+
+Roedd Elain yn hapus, a phenderfynodd aros am ychydig yn y coed gyda Iolo. Roedd hi'n chwarae gyda Cai, a roedd Iolo yn canu. Roedd y tywydd yn wyrdd a chwerw, ond roedd Elain a'i ffrindiau yn hapus. Ar ôl ychydig, roedd Elain yn penderfynu mynd yn ôl i'r pentref, ond roedd Iolo yn gofyn iddo ef mynd gyda hi.
+
+Aeth Elain, Cai, a Iolo i'r pentref, ac ar ôl cyrraedd, clywodd Elain sŵn arall anghyfarwydd. Roedd y sŵn yn debyg iawn i gath, ond roedd yn dod o'r llethyr. Roedd Elain yn chwilfrydig eto, a phenderfynodd fynd i weld beth oedd y sŵn. Aeth hi a Cai a Iolo i'r llethyr, ac ar ôl mynd i mewn i'r llethyr, clywodd hi'r sŵn eto.
+
+Roedd y sŵn yn dod o gornel bach, lle'r oedd cath fawr yn cysgu. Roedd y cath yn du a gwyn, a roedd ganddo lygadau mawr. Roedd Elain yn synnu, a gofynnodd i'r cath, "Beth wyt ti, a phwy wyt ti?" Yr oedd y cath yn ateb, "Dw i'n cath o'r enw Gwyn, a dw i'n byw yn y llethyr. Dw i'n caru cysgu, a dw i'n hoffi'r tywydd wyrdd a chwerw."
+
+Roedd Elain yn hapus, a phenderfynodd aros am ychydig yn y llethyr gyda Gwyn. Roedd hi'n chwarae gyda Cai a Iolo, a roedd Gwyn yn cysgu. Roedd y tywydd yn wyrdd a chwerw, ond roedd Elain a'i ffrindiau yn hapus. Ar ôl ychydig, roedd Elain yn penderfynu mynd yn ôl i'w cartref, ond roedd Gwyn yn gofyn iddo ef mynd gyda hi.
+
+Aeth Elain, Cai, Iolo, a Gwyn i cartref Elain, ac ar ôl cyrraedd, clywodd Elain sŵn arall anghyfarwydd. Roedd y sŵn yn debyg iawn i gi, ond roedd yn dod o'r garden. Roedd Elain yn chwilfrydig eto, a phenderfynodd fynd i weld beth oedd y sŵn. Aeth hi a Cai, Iolo, a Gwyn i'r garden, ac ar ôl mynd i mewn i'r garden, clywodd hi'r sŵn eto.
+
+Roedd y sŵn yn dod o gwt bach, lle'r oedd gi bach yn chwarae. Roedd y gi yn coch, a roedd ganddo gwallt hir. Roedd Elain yn synnu, a gofynnodd i'r gi, "Beth wyt ti, a phwy wyt ti?" Yr oedd y gi yn ateb, "Dw i'n gi o'r enw Cŵn Goch, a dw i'n byw yn y garden. Dw i'n caru chwarae, a dw i'n hoffi'r tywydd wyrdd a chwerw."
+
+Roedd Elain yn hapus, a phenderfynodd aros am ychydig yn y garden gyda Cŵn Goch. Roedd hi'n chwarae gyda Cai, Iolo, Gwyn, a Cŵn Goch. Roedd y tywydd yn wyrdd a chwerw, ond roedd Elain a'i ffrindiau yn hapus. Ar ôl ychydig, roedd Elain yn penderfynu mynd i wely, ond roedd Cai, Iolo, Gwyn, a Cŵn Goch yn gofyn iddynt aros gyda hi.
+
+Aeth Elain i wely, ac aeth Cai, Iolo, Gwyn, a Cŵn Goch i gê wrth y wely. Roedd Elain yn synnu, a gofynnodd i'w ffrindiau, "Beth ydych chi'n mynnu aros gyda fi?" Yr oedd Cai yn ateb, "Dw i'n mynnu aros gyda ti, Elain, achos dw i'n caru ti." Yr oedd Iolo yn ateb, "Dw i'n mynnu aros gyda ti, Elain, achos dw i'n caru canu." Yr oedd Gwyn yn ateb, "Dw i'n mynnu aros gyda ti, Elain, achos dw i'n caru cysgu." Yr oedd Cŵn Goch yn ateb, "Dw i'n mynnu aros gyda ti, Elain, achos dw i'n caru chwarae."
+
+Roedd Elain yn hapus, a phenderfynodd gadael iddynt aros gyda hi. Aeth Elain i gysgu, ac aeth Cai, Iolo, Gwyn, a Cŵn Goch i gysgu wrth y wely. Roedd y tywydd yn wyrdd a chwerw, ond roedd Elain a'i ffrindiau yn hapus. Ar ôl ychydig, roedd y tywydd yn newid, a daeth yr haul allan. Roedd Elain a'i ffrindiau yn wakenio, ac aethent i chwarae yn yr awel a'r haul.
+
+Roedd Elain yn synnu, a gofynnodd i'w ffrindiau, "Beth ydych chi'n mynnu wneud heddiw?" Yr oedd Cai yn ateb, "Dw i'n mynnu chwarae yn yr awel a'r haul." Yr oedd Iolo yn ateb, "Dw i'n mynnu canu yn yr awel a'r haul." Yr oedd Gwyn yn ateb, "Dw i'n mynnu cysgu yn yr awel a'r haul." Yr oedd Cŵn Goch yn ateb, "Dw i'n mynnu chwarae yn yr awel a'r haul."
+
+Roedd Elain yn hapus, a phenderfynodd mynd i chwarae gyda'i ffrindiau. Aeth Elain, Cai, Iolo, Gwyn, a Cŵn Goch i'r cae, ac aethent i chwarae yn yr awel a'r haul. Roedd y tywydd yn braf, a roedd Elain a'i ffrindiau

@@ -1,0 +1,39 @@
+<prompt>
+Please write a simple and easy-to-follow Welsh children's story that is at least 1000 words long.
+It must be completely written in proper Welsh (CY).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Chwilio'r Llwynog Coch am yr Hufen Iâ Blasus ar y Dyffryn Hardd.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cy</lang_id>
+
+<title>Chwilio'r Llwynog Coch am yr Hufen Iâ Blasus ar y Dyffryn Hardd</title>
+<body>
+Roedd Llwynog Coch, llwynog fach gyda gwallt coch fel tân, yn gyrru drwy'r dyffryn hardd.  Roedd yr awyr yn llawn adar yn canu, a'r haul yn disgleirio'n dda ar y blodau lliwgar.  Roedd Llwynog Coch yn edrych ar bob cwrt a'r goedwig, yn chwilio am rhywbeth arbennig.  Roedd yn chwilio am yr hufen iâ blasus, yr hufen iâ sydd wedi'i gwneud gyda ffrwythau'r dyffryn.
+
+Roedd wedi clywed stori am yr hufen iâ yn ystod y gwanwyn.  Stori am ddinas fach o wasgwyr llwch yn gwneud yr hufen iâ mwyaf blasus erioed.  Roedd pawb yn siarad amdano, hyd yn oed y gwyfynod bach yn y llyn tywodol.  Roedd Llwynog Coch yn gwybod y byddai'n dod o hyd iddi, a'i bod yn rhaid iddi chwilio.
+
+Dechreuodd ei daith yn yr eira sych, yn debyg i eira'r gwanwyn.  Roedd y ffrwythau'n edrych mor hardd, fel cyfleusterau arbennig i'r hufen iâ.  Roedd y beriw yn edrych fel melysion a'r serenogau fel ffrwythau llachar.  Roedd Llwynog Coch yn dod o hyd i flodau bach o wahanol liwiau, a'r blodau bach hynny'n canu caneuon bach a hyfryd.
+
+Aeth ymhellach ac ymhellach, drwy goedwig o goedwigoedd tywodol, a throdd drwy goedwig o goedwig.  Roedd y llwybrau'n cwympo'n rhannol, ond Llwynog Coch oedd yn gwybod yn well, fod yr hufen iâ yn rhywle.  Roedd yn gwybod y byddai'n dod o hyd iddi.  Roedd y llwybrau'n edrych fel llwybrau golau, fel petai'n cyfeirio at yr hufen iâ.
+
+Dechreuodd ei chwilio'n sydyn.  Roedd y gwyfynod yn syrthio'n ddwfn, ac roedd y gwyfynod yn syrthio i'r cae, fel petai'n gwybod bod rhywbeth rhyfedd.  Yna, roedd y gwyfynod bach yn canu caneuon eithaf rhyfedd.  Roedd y caneuon yn llawn rhyfeddod, a'r gwyfynod yn syrthio i'r cae.  Roedd Llwynog Coch yn gweld y llwybrau'n cyfeirio at y ddinas fach o wasgwyr llwch.
+
+Roedd y ddinas yn fach ac yn ddiddorol, gyda'i waliau o loegr, ei ddylanwad yn ddiddorol.  Roedd y ddeunyddiau'n gwybod y bydde Llwynog Coch yn dod o hyd iddynt, gan y byddai'n dod o hyd i'r hufen iâ.  Roedd y ddeunyddiau'n tyfu ar ôl tyfu, fel petai'n gwybod y byddai'n dod o hyd iddynt.
+
+Roedd llwyth o wasgwyr llwch yn gweithio'n galed, yn rhuthro'n gyflym i gael cynnyrch gorau'r hufen iâ.  Roedd y ddeunyddiau yn edrych yn ddylanwadol, ac roedd y ddeunyddiau yn llawn blas.  Roedd Llwynog Coch yn edrych arno'n ofalus, yn edrych arno'n gyson.
+
+Roedd y wasgwyr llwch yn rhyddhau'r hufen iâ, yn rhuthro i'r ddeunyddiau.  Roedd y ddeunyddiau'n tyfu ar ôl tyfu, yn cynyddu'n ddylanwadol.  Roedd Llwynog Coch yn edrych ar y ddeunyddiau o hufen iâ.
+
+Roedd y hufen iâ yn edrych yn flasus, gyda'i liwiau lliwgar a'i ffrwythau.  Roedd yn edrych yn llachar, yn flasus iawn.  Roedd Llwynog Coch yn gwybod y byddai'n blasu hufen iâ cymaint a ddymunai.
+
+Roedd yn cymryd llwyth o'r hufen iâ, yn blasu'r flas cyfan a'r ffrwythau.  Roedd yn blasus ac yn llawn.  Roedd Llwynog Coch yn hynod o hapus, yn fwy na byth.  Roedd yn cymryd llwyth o'r hufen iâ, fel petai'n gwybod ei bod yn rhaid iddi gael blasau gwahanol.
+
+Roedd yn gwybod y byddai'n dychwelyd i'r dyffryn hardd eto, gan ddechrau'r gwanwyn eto, gyda'r holl ffrwythau, a'r hufen iâ arall sydd wedi'i gwneud.  Roedd yn gwybod y byddai'n dod o hyd i hufen iâ yn yr amser hwnnw.  Achos ydyw yr hufen iâ gorau o'r holl gymeriadau.
+
+Roedd Llwynog Coch yn dod adre'n hapus, yn cofio'r hufen iâ blasus, yn cofio'r ddinas fach o wasgwyr llwch, a'r dyffryn hardd.  Roedd yn gwybod y byddai'n dod o hyd i hufen iâ arall eto.  Roedd yn gwybod bod hufen iâ yn rhywbeth sydd bob amser yn rhaid iddi edrych amdanno.
+</body>

@@ -1,0 +1,67 @@
+<prompt>
+Please write a uncomplicated Danish children's story that is at least 1000 words long.
+It must be completely written in proper Danish (DA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Vindens Urok i Et Forlis'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>da</lang_id>
+
+```xml
+<title>Vindens Urok i Et Forlis</title>
+<body>
+Lille Peter elskede havet. Ikke bare lidt, men rigtigt meget! Hver dag, når solen stod op, løb han ned til stranden. Der gravede han efter skatte, byggede sandslotte, og drømte om at sejle ud på det store, blå hav. Peters hus lå lige ved siden af klitterne, og han kunne dufte saltvandet i luften, selv når han lå i sin seng.
+
+En dag, mens Peter sad og så ud over vandet, så han noget mærkeligt. Langt ude i horisonten, som en lille sort prik, lå et skib. "Et skib!" råbte Peter højt. Han havde set mange skibe før, men det her så anderledes ud. Det virkede lille og alene på det store hav.
+
+Vinden begyndte at tage til. Den ruskede i Peters hår og piskede små bølger mod kysten. "Uh-oh," tænkte Peter. "Det ser ud til at være en storm på vej." Han vidste, at storme kunne være farlige for skibe, især for små skibe.
+
+Pludselig så Peter, at skibet begyndte at krænge. Det lagde sig mere og mere til siden. "Det ser ud som om det er i problemer!" udbrød Peter bekymret. Han rejste sig op og løb hen til sit hus. Han måtte advare nogen!
+
+Inde i huset råbte han efter sin far, som var i gang med at male et billede af en måge. "Far! Der er et skib ude på havet, og det ser ud til at have problemer!"
+
+Peters far, en stor og stærk mand med skæg, så op fra sit arbejde. "Hvad siger du, Peter? Et skib i problemer? Jamen, så må vi se at komme ud!" Han greb sin jakke og løb ud af døren, efterfulgt af Peter.
+
+Sammen løb de ned til stranden igen. Da de kom ud, kunne de tydeligt se, at skibet kæmpede mod de store bølger. Vinden hylede, og regnen begyndte at falde. "Det ser ud som om de er strandet," sagde Peters far bekymret.
+
+Peter og hans far så, hvordan bølgerne slog ind over skibet. Det så ud som om det var ved at gå i stykker. "Vi må hjælpe!" råbte Peter.
+
+"Ja," sagde hans far. "Men hvad kan vi gøre? Vi kan ikke sejle ud i den storm. Det er alt for farligt."
+
+Peter tænkte sig om. Han kendte alt til havet, han havde lært det af sin bedstefar. "Jeg ved det!" råbte han pludseligt. "Vi kan ringe efter redningsbåden!"
+
+Peters far smilede. "Det er en god idé, Peter! Skynd dig ind i huset og ring efter dem!"
+
+Peter løb ind i huset, og hans far stod på stranden og holdt øje med skibet. Peter greb telefonen og slog nummeret til redningsstationen. "Halløjsa! Der er et skib i nød ude ved kysten! Det er ved at gå ned!"
+
+Stemmen i telefonen spurgte: "Hvor er du henne, dreng?"
+
+Peter svarede hurtigt og præcist, og forklarede hvor de befandt sig og hvordan skibet så ud. Telefonmanden takkede, og sagde at redningsbåden ville være på vej med det samme.
+
+Peter løb ud til sin far igen. Sammen ventede de på redningsbåden. Minutterne føltes som timer. Bølgerne blev større, og vinden hylede højere. Skibet så mere og mere forladt ud, men de kunne stadig se et svagt lys fra en lanterne.
+
+Endelig, langt ude på horisonten, så de det! Redningsbåden! Den sejlede gennem bølgerne som en kraftig vandhund. Peter og hans far jublede.
+
+Redningsbåden nærmede sig skibet. De kæmpede med bølgerne og vinden. Efter lang tid så de, at de fik folk ombord. De reddede dem! Peter jublede højlydt.
+
+Endelig, efter hvad der føltes som en evighed, vendte redningsbåden tilbage til kysten. De havde trukket skibet med. De reddede folk fra skibet var glade og taknemmelige. De klappede Peter og hans far på skulderen og takkede for at ringe efter hjælp.
+
+Peter følte sig stolt. Han havde været med til at redde liv! Hans far klappede ham på skulderen. "Du gjorde det godt, Peter!" sagde han stolt. "Du var hurtig og modig."
+
+Den næste dag, da solen skinnede igen, gik Peter ned til stranden. Skibet, der var blevet trukket til kysten af redningsbåden, lå nu på sandet. Det var beskadiget, men folkene var i live. Han snakkede med kaptajnen på skibet.
+
+Kaptajnen takkede Peter igen. Han fortalte Peter om stormen, og hvordan de var blevet overraskede. Peter hørte interesseret efter, og stillede spørgsmål om alt.
+
+Peter lovede kaptajnen at komme og besøge ham når skibet var repareret. Peter tog et stykke træ med sig hjem. Han huggede et lille skib ud af træet. Det lille skib stod på hans hylde i stuen.
+
+Hver gang Peter så ud over havet, huskede han den dag. Han huskede vinden, bølgerne, og hvordan han havde været med til at redde mennesker. Han vidste, at han ville elske havet for altid. Han ville altid huske "Vindens urok i et forlis".
+
+Fra den dag, fortsatte Peter med at elske havet, og han fortsatte med at lære om det. Han lærte om alle skibene, og alle fisken. Han blev klog på alt ved havet, og han vidste altid hvad han skulle gøre. Han fik nye venner, nogle af dem var søfolk, og han lyttede til deres historier. Han lærte også at sejle, og senere sejlede han verden rundt. Han glemte aldrig den dag, han var med til at redde folk, for han var en helt i havet.
+
+Han havde lært den vigtigste lektie af dem alle: at hjælpe andre.
+</body>
+```

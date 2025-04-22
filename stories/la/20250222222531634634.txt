@@ -1,0 +1,33 @@
+<prompt>
+Please write a timeless Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'De Fabula De Paribus Amiculis, Qui Amorem Et Auxilium Semper Dare Dilexuerunt.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>la</lang_id>
+
+<title>De Fabula De Paribus Amiculis, Qui Amorem Et Auxilium Semper Dare Dilexuerunt</title>
+<body>
+In agro florenti, ubi prata viridea et flumina nitida per saxa cantabant, habitabant duo pueri,  aemulatio nominis  Aulus et  Barnabas.  Aulus,  viridibus oculis et  capillis aureis,  ingenio acuto et corde magno,  erat. Barnabas autem,  cum  nigris oculis et  capillis  nemoris  similibus,  erat  fortis et  fidelis,  labori  et  affictionibus  paratus.
+
+Quotidie,  cum  sol  in  caelum  ascendebat,  ambobus  pueris  placuit  se  in  silvis  ludere.  In  arboribus  altis  et  in  pratis  viridantibus,  iam  in  flumine  languido,  interdum  in  saxo  sub  umbris  magnis  congregabant.
+
+Unum  diem,  cum  in  silvam  profecti  essent,  sonitum  insolitum  audiverunt.  Vox  gravis  et  terribilis  per  arbores  percurrebat,  et  timor  in  cordibus  puerorum  involutus  est.  "Quid  est  hoc?"  exclamavit  Aulus,  tremens.  Barnabas,  tamen,  coram  temeritas  suam  obliviscens,  in  silvam  obdurata  profecit,  in  obscurum  adire  audens.
+
+Post  momenta  brevia,  in  silva  obscura  magna  et  terribilis  monstrum  invenerunt.  Erat  cum  squamis  aureis  et  caeruleis,  oculis  magnis  et  terribiles  clamores.  Multa  animalia  pertimuerunt  ab  hoc  monstro  et  fugiunt  abscondita.  Aulus,  videns  periculum,  paucis  verbis  ad  Barnabas  clamavit.  "Barnabas,  fugi!"
+
+Barnabas,  obediens  atque  fortis,  obviam  monstro  ire  praefecit.  Manibus  et  pedebus  in  monstrum  pugnaverunt.  Aulus  lapides  et  ramulos  in  monstrum  proiecit.  Barnabas  magnis  gladiis  qui  in  silvis  invenerat  pugnavit.  Monstrum,  avidum  et  furiosum,  in  pueros  in  furiosos  in  clamores.  Barnabas  fortis  et  in  pugna  validus  erat.
+
+Sed  monstrum  validum  erat  et  difficile  ad  vincendum.  Aulus,  cum  ingenio  suo  acuto,  conspiciebatur  lacum  prope  in  silva  occultu.  "Vide,  Barnabas!"  clamavit.  "Lacus  hic  est,  qui  monstrum  decipiet!"
+
+Barnabas,  cum  corpore  validissimo,  in  lacum  monstrum  demisit.  Monstrum  in  lacum  profligatum  est,  et  in  aqua  dissolutum  est.  Silentia  in  silva  regnatio  regnans,  et  pueri  in  opem  in  silva  veniebant.
+
+Cum  silva  satis  tranquilla  essent,  Aulus  et  Barnabas  se  amplecti  coepere,  laeti  et  gratos.  "Bene  feceris,  amicus  meus,"  dixit  Aulus.  "Sine  te  auxilio,  non  successisset."  "Et  tu,  Aulus,"  respondit  Barnabas.  "Sine  tua  ingenio,  non  esset  facile  invenire  solutionem."
+
+Amicitia  inter  duos  pueros  plus  fortis  et  firmissima  facta  est.  Sciebant  se  mutuo  semper  auxilium  et  amorem  dare.  Ab  eo  die,  Aulus  et  Barnabas  in  silvis  et  in  pratis  semper  similiter  congregabant,  aemulatio  et  amicitia  inter  se  crescente.  Et  sic  per  annos  multis  vixerunt,  semper  amici,  semper  fideles,  semper  auxilium  mutuum  dantes.
+</body>

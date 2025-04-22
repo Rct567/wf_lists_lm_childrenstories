@@ -1,0 +1,51 @@
+<prompt>
+Please write a emotional Welsh children's story that is at least 1000 words long.
+It must be completely written in proper Welsh (CY).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Y Tywyllwch a'r Tywysogau Tywysogol'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>cy</lang_id>
+
+<title>Y Tywyllwch a'r Tywysogau Tywysogol</title>
+<body>Roedd y tywyllwch yn cwympo dros y wlad, fel clwt o ddwysedd a oedd yn gwneud i bawb deimlo'n ofnus. Roedd y sêr yn dodwy allan o'r awel, a'r lloer yn llechu fel glaswelltyn bach yn y nos. Yn y pentref bach, roedd y plant yn cyfarfod yn nhŷ'r rheithor, i wrando ar storiau'r hen bobl.
+
+Roedd y rheithor, Mr Jones, yn dyn hynaf a doedd dim byd yn ei wybod am y tywyllwch a'r tywysogau tywysogol. Roedd ganddo lyfr mawr, llenwi â chwedlau a straeon, a roedd yn ei agor, i ddangos i'r plant y stori a oedd i'w dweud.
+
+"Yn yr hen amser," dechreuodd Mr Jones, "roedd tywyllwch mawr dros y wlad. Roedd y tywysogau tywysogol, sef y Brenin a'r Frenhines, wedi mynd i'r rhyfel, i ymladd yn erbyn y gelyn. Roedd y wlad yn ofnus, a'r bobl yn anhapus."
+
+Roedd y plant yn gwrando'n astud, wrth i Mr Jones ddarlledu'r stori. Roeddent yn clywed sŵn y gelyn, yn dod o'r pellter, fel sŵn morfil yn y môr. Roeddent yn deimlo'r ofn, a'r tywyllwch yn cwympo dros y wlad.
+
+"Ond roedd y tywysogau tywysogol," meddai Mr Jones, "yn ddewrion, a'u calon yn llawn o ffydd. Roeddent yn gwybod, bod y tywyllwch yn mynd i ddod i ben, a'r wlad yn mynd i fod yn hapus eto."
+
+Roedd y plant yn edrych ar Mr Jones, a'u llygaid yn llawn o gwestiynau. Roeddent yn gofyn, "Beth sy'n digwydd, Mr Jones? Beth sy'n mynd i ddigwydd i'r tywysogau tywysogol?"
+
+Roedd Mr Jones yn gwenu, a'i wyneb yn llawn o heddwch. "Wel," meddai, "roedd y tywysogau tywysogol, yn mynd i gwrdd â'r gelyn, yn y frwydr fawr. Roeddent yn mynd i ymladd, i ennill y frwydr, a'r wlad i fod yn rhydd."
+
+Roedd y plant yn clywed, sŵn y frwydr, yn dod o'r pellter, fel sŵn thunder yn y awel. Roeddent yn deimlo, yr ofn, a'r tywyllwch yn cwympo dros y wlad. Ond roeddent hefyd, yn deimlo, y ffydd, a'r gobaith, yn y tywysogau tywysogol.
+
+"Ac yna," meddai Mr Jones, "roedd y tywysogau tywysogol, yn ennill y frwydr. Roeddent yn mynd i adennill y wlad, a'r bobl yn mynd i fod yn hapus eto. Roedd y tywyllwch, yn mynd i ddod i ben, a'r wlad yn mynd i fod yn llawn o heddwch."
+
+Roedd y plant yn llawen, wrth i Mr Jones orffen y stori. Roeddent yn clywed, sŵn y sêr, yn dodwy allan o'r awel, a'r lloer yn llechu fel glaswelltyn bach yn y nos. Roeddent yn deimlo, y heddwch, a'r gobaith, yn y tywysogau tywysogol.
+
+"Diolch, Mr Jones," meddai un o'r plant, "am y stori. Roedd hi'n stori bendigedig."
+
+Roedd Mr Jones yn gwenu, a'i wyneb yn llawn o heddwch. "Croeso," meddai, "i chi glywed y stori. Mae hi'n stori sy'n dysgu ni, am y ffydd, a'r gobaith, yn y tywysogau tywysogol."
+
+Roedd y plant yn mynd adref, wrth i'r nos ddod i ben. Roeddent yn cario, y stori, yn eu calon, a'u meddwl yn llawn o gwestiynau. Roeddent yn gofyn, "Beth sy'n mynd i ddigwydd, nesaf? Beth sy'n mynd i ddigwydd i'r tywysogau tywysogol?"
+
+Ond roeddent hefyd, yn gwybod, bod y tywyllwch, yn mynd i ddod i ben. Roeddent yn gwybod, bod y wlad, yn mynd i fod yn hapus eto. A roeddent yn gwybod, bod y tywysogau tywysogol, yn mynd i fod yn ddewrion, a'u calon yn llawn o ffydd.
+
+Ac felly, roedd y plant yn mynd i'r gwely, wrth i'r nos ddod i ben. Roeddent yn clywed, sŵn y sêr, yn dodwy allan o'r awel, a'r lloer yn llechu fel glaswelltyn bach yn y nos. Roeddent yn deimlo, y heddwch, a'r gobaith, yn y tywysogau tywysogol. A roeddent yn gwybod, bod y tywyllwch, yn mynd i ddod i ben, a'r wlad yn mynd i fod yn llawn o heddwch.
+
+Yn y pentref bach, roedd y bobl yn deimlo, y heddwch, a'r gobaith, yn y tywysogau tywysogol. Roeddent yn gwybod, bod y tywyllwch, yn mynd i ddod i ben, a'r wlad yn mynd i fod yn hapus eto. A roeddent yn gwybod, bod y tywysogau tywysogol, yn mynd i fod yn ddewrion, a'u calon yn llawn o ffydd.
+
+Ac felly, roedd y pentref bach, yn mynd i fod yn lle, o heddwch, a gobaith. Roedd y bobl yn mynd i fod yn hapus, a'r wlad yn mynd i fod yn llawn o heddwch. A roedd y tywysogau tywysogol, yn mynd i fod yn ddewrion, a'u calon yn llawn o ffydd.
+
+Yn y diwedd, roedd y tywyllwch, yn mynd i ddod i ben. Roedd y wlad, yn mynd i fod yn hapus eto. A roedd y tywysogau tywysogol, yn mynd i fod yn ddewrion, a'u calon yn llawn o ffydd. Ac roedd y pentref bach, yn mynd i fod yn lle, o heddwch, a gobaith.
+
+A hynny yw, y stori, o'r tywyllwch, a'r tywysogau tywysogol. Stori, sy'n dysgu ni, am y ffydd, a'r gobaith, yn y tywysogau tywysogol. Stori, sy'n dangos ni, bod y tywyllwch, yn mynd i ddod i ben, a'r wlad yn mynd i fod yn hapus eto. A stori, sy'n gwneud ni, yn deimlo, y heddwch, a'r gobaith, yn y tywysogau tywysogol.</body>

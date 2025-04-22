@@ -1,0 +1,52 @@
+<prompt>
+Please write a timeless Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Biệt Đội Kỳ Cùng Của Rừng Và Biển'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>vi</lang_id>
+
+<title>Biệt Đội Kỳ Cùng Của Rừng Và Biển</title><body>
+Ngày xưa, ở một vùng đất trù phú trải dài từ rừng xanh thẳm đến biển cả mênh mông, có một biệt đội đặc biệt được biết đến với cái tên "Biệt Đội Kỳ Cùng Của Rừng Và Biển". Biệt đội này không phải là chiến binh với gươm giáo hay pháp sư với phép thuật, mà là những người bạn thân thiết, mỗi người mang trong mình một tài năng độc đáo, chung sức bảo vệ sự yên bình của thiên nhiên.
+
+Đội trưởng của biệt đội là anh Ba, một chú voi rừng to lớn nhưng lại có trái tim nhân hậu hơn cả. Anh Ba có khả năng cảm nhận được sự thay đổi trong rừng, từ tiếng lá xào xạc trong gió đến những bước chân của kẻ xâm lấn.
+
+Kế bên anh Ba là cô Tư, một nàng tiên cá xinh đẹp với mái tóc dài óng ánh như tơ vàng. Cô Tư là người trông coi biển cả, có thể điều khiển sóng biển, trò chuyện với cá voi và triệu hồi những cơn bão nhẹ để xua đuổi kẻ xấu.
+
+Thành viên tiếp theo là anh Năm, một chú khỉ tinh ranh, nhanh nhẹn, có khả năng leo trèo thoăn thoắt trên mọi ngọn cây. Anh Năm thường được giao nhiệm vụ thám thính, quan sát tình hình và báo cáo lại cho anh Ba và cô Tư.
+
+Cuối cùng là em Sáu, một chú rùa biển chậm chạp nhưng lại rất thông minh và có tấm lòng bao la. Em Sáu có khả năng tìm kiếm những nguồn nước ngọt quý giá trong lòng đất và làm lành những vết thương cho các thành viên trong biệt đội.
+
+Một ngày nọ, sự yên bình của rừng và biển bị đe dọa. Một nhóm người từ phương xa đến, mang theo những cỗ máy kỳ lạ và những ý định xấu xa. Họ muốn khai thác gỗ quý trong rừng và đánh bắt cá một cách vô tội vạ, phá hủy môi trường sống của muôn loài.
+
+Anh Ba, với đôi tai thính nhạy, đã nghe thấy tiếng cưa máy vang vọng trong rừng. Ngay lập tức, anh triệu tập biệt đội. "Các bạn ơi," anh Ba lên tiếng, giọng trầm ấm nhưng đầy quyết tâm, "chúng ta phải hành động để bảo vệ ngôi nhà của mình!"
+
+Cô Tư, nhìn thấy những con thuyền lớn xả rác xuống biển và đánh bắt cá ồ ạt, cũng vô cùng tức giận. Cô vung tay, triệu hồi một cơn sóng lớn, cảnh báo những kẻ xâm phạm. "Hãy rời khỏi nơi này, nếu không các người sẽ phải hối hận!" cô Tư gầm lên.
+
+Anh Năm, với sự nhanh nhẹn của mình, đã lẻn vào nơi bọn người đang làm việc. Anh quan sát, ghi nhớ những gì họ làm và tìm cách phá hoại những cỗ máy của chúng. Anh nhảy nhót trên những cành cây, ném trái cây vào những người thợ, khiến họ phải dừng tay vì khó chịu.
+
+Em Sáu, chậm chạp nhưng không kém phần quan trọng, bò đến những con suối trong rừng, tìm cách cứu lấy những con vật bị thương do việc phá rừng. Em dùng lớp vỏ cứng cáp của mình để che chở cho những mầm non, đồng thời dùng kinh nghiệm sống của mình để hướng dẫn những con vật nhỏ trốn thoát.
+
+Biệt đội cùng nhau lên kế hoạch. Anh Ba sử dụng sức mạnh của mình, dùng thân hình to lớn chặn đường những cỗ máy, ngăn chúng tiến sâu vào rừng. Cô Tư dùng sóng biển đánh chìm những con thuyền chở đầy gỗ lậu. Anh Năm tiếp tục phá hoại, làm rối loạn công việc của bọn chúng. Em Sáu, với sự thông minh của mình, đã tìm ra một con đường bí mật đưa những con vật yếu ớt trốn thoát khỏi nơi nguy hiểm.
+
+Cuộc chiến diễn ra vô cùng gay cấn. Bọn người xâm lược tức giận, cố gắng chống trả. Chúng dùng súng, dùng bẫy để tấn công biệt đội. Nhưng biệt đội không hề sợ hãi. Chúng chiến đấu vì tình yêu với thiên nhiên, vì sự sống của muôn loài.
+
+Sau nhiều ngày chiến đấu kiên cường, biệt đội đã giành chiến thắng. Những cỗ máy bị phá hủy, những con thuyền bị đánh chìm, bọn người xâm lược phải tháo chạy trong sự sợ hãi. Rừng và biển lại trở về với sự yên bình vốn có.
+
+Anh Ba, cô Tư, anh Năm và em Sáu cùng nhau đứng trên một ngọn đồi cao, nhìn xuống rừng và biển. Ánh nắng mặt trời chiếu rọi xuống, làm cho mọi thứ trở nên tươi sáng và rực rỡ.
+
+"Chúng ta đã làm rất tốt!" anh Ba nói, giọng nói đầy tự hào.
+
+"Đúng vậy," cô Tư đồng tình. "Nhưng chúng ta phải luôn cảnh giác, vì những kẻ xấu có thể quay lại bất cứ lúc nào."
+
+"Em sẽ tiếp tục quan sát và báo cáo," anh Năm nói.
+
+"Và em sẽ luôn ở đây, bảo vệ cho mọi người," em Sáu khẳng định.
+
+Biệt đội Kỳ Cùng Của Rừng Và Biển tiếp tục cuộc sống của mình, luôn sẵn sàng chiến đấu để bảo vệ thiên nhiên. Tình bạn, lòng dũng cảm và sự đoàn kết đã giúp họ vượt qua mọi khó khăn. Câu chuyện về biệt đội kỳ cùng này đã trở thành một bài học quý giá cho tất cả mọi người, về tình yêu thiên nhiên, về sự bảo vệ môi trường và về sức mạnh của tình bạn. Và cho đến ngày nay, người ta vẫn truyền tai nhau câu chuyện về Biệt đội Kỳ Cùng Của Rừng Và Biển, như một lời nhắc nhở về trách nhiệm của con người đối với hành tinh xanh này.
+</body>

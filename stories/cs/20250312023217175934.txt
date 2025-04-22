@@ -1,0 +1,37 @@
+<prompt>
+Please write a silly Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Zvědavá sova a její hledání nejmoudřejších odpovědí na světě.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Zvědavá sova a její hledání nejmoudřejších odpovědí na světě.</title>
+<body>
+Byl jednou jeden malý soví mládě, jménem Sýsel. Byl zvědavý jako štěně, kterému právě dali do rukou kostku cukru.  Sýsel žil v hlubokém lese, na větvích starého dubu, a neustále se ptal, proč je tráva zelená, proč slunce svítí a proč děda medvěd chodí s tak velkým břichem.  Jeho maminka, sova s pery jako jantar a zkušenostmi stačícími na celé letecké pouštní letadlo, vždycky klidně vysvětlovala, ale Sýsel to prostě potřeboval zjistit. A tak se Sýsel, s balíkem zeptaných otázek, které rostly exponenciálně s každou odpolední cestou, vydal na dobrodružství.
+
+Nejprve navštívil děda medvěda, obrovského, chlupatého tvora s břichem plným hlívy, lesních plodů, ale také s moudrostí veškerých zimních věcí. Děda medvěd odpovídal pomalu, žvýkal trávu a občas si odskočil na odpočinek k řece, protože zodpovězení Sýslových otázek vyžadovalo úsilí ostudující sportovce v olympijském běhu na deset tisíc metrů.  "Proč je tráva zelená?" se zeptal Sýsel. Děda medvěd zavřel oči, zadíval se do slunce a řekl: "Protože to je zvykem lesa, synku. Takhle to už vždycky bylo, odjakživa." Sýsel nebyl spokojený. Hledal hlubší odpovědi, odpovědi v srdcích stromů a ve švitoření potůčků.
+
+
+Poté Sýsel navštívil starou, rozbitou lípu, kterou zdobily stovky brouků a motýlů. Na jejích větvích se houpaly neviditelné bytosti, které pověděly tajná, jen pro lesní stvoření. Byla to chyba lesa. Stromy pověděly Sýslovi: "Tráva je zelená, protože to je poselství světla, které se v noci skrývá a během dne se vrací."  Ale ani tato odpověď nestačila k jeho velkému žíznivému ptáčímu srdci.
+
+Další cestou navštívil vlhkou jeskyni, kde sídlil vlk. Ten měl na hlavě obrovský černý baret a žvýkal velká mrkví.  Zřejmě to byl nejstarší hromový kouzelník z vesnice. Zodpovídal s velkým humorem: "Tráva je zelená, Sýslíku, protože zelená je barva optimismu, zjevovaná nebezpečnou, malou vlkouhou, ve tvaru květu, kterou bys bez přikázání nikde jiný nenalezl! Musíš, synku, zjistit sama!" Vlk, ožralý mocí starověku, nechal Sýsla bez další pomoci.  Vlk ho s mrkví nadzvednul, a na tváři, se směsem údivu a úžasu, promluvil Sýsl.
+
+Sýsel, unavený z neukojitelné touhy po znalostech, se vrátil na svůj dub.  Seděl tam, na větvích, a díval se na lesní zvěř, na zářící slunce a do duši květů.  Zavřel oči. A v tu chvíli ho napadlo to nejrozumnější ze všech. Moudrost, říkával děda medvěd, není jenom v odpovědi, ale také v otázkách.
+
+Dále to tak bude. Že si na své vlastní cestě  objeví nejužitečnější moudrost z těch nejrůznějších moudrých bytostí, z lesní  velké tmy. Takové poznání, když si to Sýsel uvědomil, ho rozesmálo. S úsměvem, radostí a spokojeností, prozradil svůj tajný způsob bytí na svět. A od té doby, každý den po ránu, Sýsel zjistil, že vědět všechny odpovědi na světě nestačí.
+
+
+Doma, v hnízdě, zavolal za svými sourozenci.
+
+
+Na tomto obrovském dobrodružství si Sýsel uvědomil, že nejkrásnější odpovědi se nalézají v otázkách samotných. Od té doby, stále s touž zvědavostí a s úžasnou odvahou a láskou, hledá odpovědi v úchvatném světě lesa.
+
+
+
+</body>

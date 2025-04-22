@@ -1,0 +1,33 @@
+<prompt>
+Please write a relatable Swahili children's story that is at least 1000 words long.
+It must be completely written in proper Swahili (SW).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sw</lang_id>
+
+<title>Simulizi ya Tembo na Kuku</title>
+<body>
+Jamani, leo tunakwenda kusikiliza simulizi ya Tembo na Kuku.  Huyu Tembo, jina lake ni Tembo.  Alikuwa mrefu, mzito, na aliishi kwenye msitu mzuri mrefu.  Alikuwa na shughuli nyingi kila siku: kupiga tarumbeta kubwa za msituni, kuchimba mchanga ili kupata mizizi na maua, na kucheza mpira wa mti pamoja na nyani wadogo wakicheka.
+
+Lakini, jambo moja Tembo alilifanya kila asubuhi alipoamka lilikuwa kusikiliza kicheko cha ndege. Ndege wakitwanga na kutikisa mabawa yao ndogo.  Alifurahia kicheko hicho; kilimfanya anahisi kama dunia yenyewe inafurahi naye.  Siku moja, Tembo alifurahishwa hasa na kicheko cha kuku mdogo. Kuku huyo alikuwa mwekundu-mwekundu. Aliruka huku na huku huku akipiga mayowe makubwa ya furaha.
+
+"Mimi hujisikia vizuri na kicheko hicho chake," Tembo alisema kwa sauti tulivu kwa tembo mwenzake.  Tembo mwenzake hakujibu. Alikosa maneno sahihi ya kuelezea, kwa sababu hawakuwa wamewahi kukutana na ndege.  Walitambua kama kuna wanyama wengine, lakini hakuna yeyote aliyewahi kukaribiana au kuongea nao.  "Si unauona yule kuku?" Tembo aliendelea. "Anajua furaha."
+
+Siku hiyo ilikuwa ya ajabu sana kwa tembo.  Hakujawahi kukutana na wanyama wanaofanana sana na kuku.  Alikutakuwa, aliwahi kusikia kwamba kuna viumbe wadogo sana duniani, lakini hakufikiria kuwa waliishi katika ulimwengu wake. Wakati huo, Tembo aligundua kichaka cha manjano kinachopepea msituni; alichuchumaa kuangalia karibu zaidi. Aliona wadudu wadogo wakiimba na kuchomwa na mwanga wa jua.  Tembo akagundua jambo; Ulimwengu ulikuwa wazi sana!
+
+Hatimaye, alikutana na kuku mwekundu-mwekundu yuleyule, aliyefahamika kwa jina la Kuku.  Walipendana na kuwa marafiki haraka.  Tembo, asiyejua anasemaje na viumbe vidogo, alitazama Kuku mwekundu-mwekundu akipiga mbizi juu juu kwenda kukimbia kwenye miti. Alijiwinda na mende na vipepeo, akikariri sauti za msitu, kama wimbo.
+
+Kuku alimpeleka Tembo kwenye mti mrefu sana na matawi mengi.  Kutoka huko, Tembo aliweza kutazama msitu mzima, mpaka sehemu za mbali alizotaka kuzifikia.  Walizungumza na kubadilishana mawazo. Kuku alisisitiza kwamba mazingira yenye uzuri yalikuwepo pande zote mbili za miti mirefu. Tembo akatambua kwamba msitu mzima ulikuwa unamng'aa naye. Tembo aligundua kwamba maumbile mengine yaliyofichika ndani ya msitu yalipendeza kwa kila kitu ambacho kiko karibu nao.
+
+
+"Msitu huu ni mzuri sana," alisema Tembo.  Kuku akacheka kwa sauti kubwa na akaruka juu ya tawi. "Ndio, ndio," akasema. "Tuna furaha hapa, hata kwa viumbe vidogo sana."  Tembo aligundua kwamba Kuku alikuwa sahihi kabisa;  Hata hata wao wakubwa na wenye nguvu wanaweza kufurahia vitu vidogo vinavyozunguka msitu.
+
+Tangu wakati huo, Tembo alitembelea mti kila siku, aketi pamoja na Kuku na viumbe vingine vidogo vilivyokuwepo. Tembo, tofauti na kabla, alitambua mambo mengi mpya kuhusu ulimwengu, akijisikia furaha pamoja na viumbe wote vilivyokuwepo msituni, wote wakiwemo wanyama, mimea, na hata wadudu.  Aliwaheshimu Kuku kwa urafiki wake na ujasiri aliouonyesha katika maisha yake.  Alifundisha Tembo kwamba ukubwa haimaanishi chochote katika furaha ya msituni.  Urafiki, unamuunganisha kila kiumbe katika maumbile;  ilimfanya aione dunia tofauti kabisa.
+
+Kwa hivyo, marafiki zangu wapendwa, tumsikilize Tembo na Kuku, na tukumbuke kwamba furaha inapatikana kwa kila mtu, kwa kila kitu;  kwenye ukubwa au ukubwa mdogo. Ulimwengu umejaa uzuri, tuzungumze kwao wote na kuujua, na tutafurahiya pamoja.
+</body>

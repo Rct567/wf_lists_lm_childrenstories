@@ -1,0 +1,58 @@
+<prompt>
+Please write a silly Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Chú Voi Con Dễ Thương và Tình Bạn Với Những Chú Khỉ Vui Vẻ.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>vi</lang_id>
+
+```vi
+<title>Chú Voi Con Dễ Thương và Tình Bạn Với Những Chú Khỉ Vui Vẻ.</title><body>
+Ngày xửa ngày xưa, ở một khu rừng xanh thẳm ở Việt Nam, nơi tiếng suối reo vui hòa cùng tiếng chim hót líu lo, có một chú voi con vô cùng dễ thương tên là Voi Bông. Voi Bông có đôi tai to như hai chiếc quạt giấy, một cái vòi dài thoòng và một đôi mắt tròn xoe, lúc nào cũng tò mò và vui vẻ. Voi Bông sống cùng với cả gia đình voi của mình, nhưng chú lại đặc biệt thích chơi với những người bạn nhỏ khác.
+
+Trong khu rừng đó, có một bầy khỉ rất tinh nghịch và vui vẻ. Chúng luôn leo trèo trên cây, đu mình từ cành này sang cành khác, và cười đùa rôm rả. Những chú khỉ này, với bộ lông vàng óng, đôi mắt láu lỉnh và đuôi dài thoòng, đã trở thành những người bạn thân thiết của Voi Bông. Đặc biệt nhất, trong bầy khỉ này có ba chú khỉ nổi bật nhất, được Voi Bông yêu quý nhất: Khỉ Xoăn với bộ lông xoăn tít như mì tôm, Khỉ Mũm Mĩm với thân hình tròn trịa và thích ăn chuối, và Khỉ Lanh Chanh với đôi mắt tinh ranh và luôn có những trò đùa tinh quái.
+
+Một buổi sáng đẹp trời, mặt trời vừa mới ló dạng, chiếu những tia nắng ấm áp xuống khu rừng. Voi Bông đang ngáp ngắn ngủi chuẩn bị cho một ngày mới. Bỗng nhiên, từ trên ngọn cây cao nhất, Khỉ Xoăn gọi lớn: "Voi Bông ơi! Dậy chưa, dậy chưa? Chúng ta đi chơi nào!"
+
+Voi Bông dụi mắt, ngáp một cái thật to rồi chạy lon ton đến chỗ các bạn. "Chào buổi sáng, Khỉ Xoăn! Chào các bạn khỉ!" Voi Bông reo lên.
+
+Khỉ Mũm Mĩm từ trên cành cây tụt xuống, ôm lấy bụng cười khà khà: "Hôm nay chúng ta sẽ đi tìm trái xoài chín! Nghe nói ở cuối rừng có một cây xoài sai trĩu quả!"
+
+Khỉ Lanh Chanh nhảy nhót xung quanh, nháy mắt tinh ranh: "Nhưng phải cẩn thận đấy nhé, bác Hổ già có thể rình rập đấy!"
+
+Voi Bông gật gù, vẻ mặt vô cùng phấn khởi. "Không sao, chúng ta sẽ đi cùng nhau, cùng nhau bảo vệ nhau!"
+
+Thế là, cả nhóm bạn bắt đầu cuộc hành trình. Voi Bông đi phía trước, dùng cái vòi dài ngoằng để dò đường và phát hiện những cạm bẫy trên đường đi. Khỉ Xoăn thoăn thoắt leo trèo trên cây, quan sát mọi thứ xung quanh. Khỉ Mũm Mĩm cứ một lát lại đòi dừng chân nghỉ ngơi để ăn một ít lá cây. Còn Khỉ Lanh Chanh thì luôn nghĩ ra những trò đùa để cả nhóm vui vẻ, đôi khi còn chọc ghẹo Voi Bông một chút vì cái vòi dài của chú.
+
+Trên đường đi, họ gặp rất nhiều điều thú vị. Họ nhìn thấy những chú bướm xinh đẹp bay lượn trên những bông hoa, nghe tiếng hót véo von của những chú chim, và thậm chí còn gặp cả một đàn nai đang thong thả gặm cỏ.
+
+Đột nhiên, Khỉ Lanh Chanh thốt lên: "Kìa, có tiếng động lạ! Có lẽ là bác Hổ già đấy!"
+
+Cả bọn dừng lại, im lặng lắng nghe. Tiếng gầm gừ của hổ càng lúc càng gần. Voi Bông, tuy có chút sợ hãi, nhưng vẫn cố gắng giữ bình tĩnh. Chú nhớ lời cha mình đã dạy: "Luôn dũng cảm đối mặt với mọi khó khăn."
+
+Voi Bông liền nghĩ ra một kế hoạch. Chú bảo Khỉ Xoăn nhanh chóng leo lên cây cao nhất và quan sát tình hình. Khỉ Mũm Mĩm thì chạy đi tìm những trái cây có mùi thơm nhất, còn Khỉ Lanh Chanh thì giúp Voi Bông thu gom những cành cây khô.
+
+Khi bác Hổ già tiến đến, Khỉ Xoăn từ trên cao báo xuống: "Bác Hổ đang đến gần!"
+
+Voi Bông ra hiệu cho Khỉ Lanh Chanh đốt những cành cây khô mà chú đã thu thập được. Khói bốc lên nghi ngút. Đồng thời, Khỉ Mũm Mĩm nhanh chóng ném những trái cây thơm về phía bác Hổ, tạo ra một mùi hương nồng nặc. Bác Hổ, vốn rất nhạy cảm với mùi, đã bị phân tâm và bịt mũi, không thể tiếp tục đi về phía Voi Bông và các bạn.
+
+Voi Bông liền dùng vòi của mình phun nước về phía bác Hổ, tạo ra một màn sương mù. Bác Hổ già bị bất ngờ, loạng choạng lùi lại. Nhờ có khói, mùi thơm và sương mù, Voi Bông và các bạn đã tạo ra một "mê cung" khiến bác Hổ mất phương hướng và bỏ chạy.
+
+Sau khi đuổi được bác Hổ, cả bọn thở phào nhẹ nhõm. Khỉ Mũm Mĩm ôm bụng cười nắc nẻ vì buồn cười, còn Khỉ Lanh Chanh thì tán thưởng: "Tuyệt vời! Voi Bông, cậu thật là thông minh và dũng cảm!"
+
+Voi Bông cảm thấy rất vui vì đã giúp đỡ được bạn bè. Khỉ Xoăn nhảy xuống ôm chầm lấy Voi Bông, còn Khỉ Lanh Chanh thì huých vai chú: "Chúng ta là những người bạn tuyệt vời nhất!"
+
+Cả bọn tiếp tục cuộc hành trình đến cây xoài. Cuối cùng, họ cũng đến nơi. Quả xoài trên cây to, chín mọng, vàng ươm, trông thật hấp dẫn. Voi Bông dùng vòi của mình để hái những quả xoài chín rụng xuống. Khỉ Xoăn, Khỉ Mũm Mĩm và Khỉ Lanh Chanh giúp Voi Bông thu gom và chia nhau những quả xoài thơm ngon.
+
+Vừa ăn xoài, cả bọn vừa cười nói vui vẻ. Khỉ Mũm Mĩm ăn xoài một cách ngon lành, mặt mũi dính đầy nước xoài. Khỉ Lanh Chanh lại bày trò lấy vỏ xoài chọc ghẹo Voi Bông, khiến chú cười nghiêng ngả. Khỉ Xoăn thì luôn miệng khen Voi Bông là một người bạn tuyệt vời.
+
+Buổi chiều hôm đó, khi mặt trời bắt đầu lặn, Voi Bông và những người bạn khỉ chia tay nhau, hẹn ngày mai lại cùng nhau đi chơi. Voi Bông trở về với gia đình, kể lại những câu chuyện thú vị trong ngày cho bố mẹ nghe. Chú tự hào vì đã có những người bạn thật tốt, dũng cảm và vui vẻ.
+
+Từ đó, tình bạn giữa Voi Bông và những chú khỉ vui vẻ ngày càng thêm bền chặt. Họ cùng nhau trải qua những ngày tháng vui vẻ, giúp đỡ lẫn nhau và luôn biết ơn sự hiện diện của nhau trong cuộc đời. Họ hiểu rằng, tình bạn là một điều quý giá nhất, nó có thể giúp họ vượt qua mọi khó khăn và mang lại hạnh phúc cho cuộc sống. Và cứ thế, mỗi ngày ở khu rừng xanh thẳm đó lại tràn ngập tiếng cười và niềm vui của chú Voi Con Dễ Thương và những người bạn khỉ tinh nghịch của mình.
+</body>
+```

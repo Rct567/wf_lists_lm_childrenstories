@@ -1,0 +1,22 @@
+<prompt>
+Please write a timeless Amharic children's story that is at least 1000 words long.
+It must be completely written in proper Amharic (AM).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'የደን ውስጥ የሚኖሩ ሦስት ወንድማማቾች'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>am</lang_id>
+
+<title>የደን ውስጥ የሚኖሩ ሦስት ወንድማማቾች</title>
+<body>
+እያንዳንዱ የምታውቀው ማስተዋል ያለው አገር ነበረ። በዚህ አገር ላይ ብዙ የተራሮችና የተራራው ሰንጠረዥ ሲሆን ብዙ የደን እንደ ጣውላ ደን፣ ቀንዳል ደን፣ አበባ ደን፣ ጫራ ደን፣ ቦሳ ደን፣ እንዲሁም ብዙ እንደ አቆራባሽ፣ የበረሃና ማሎ ለአገሩ ሕዝብ ማስተዋልን እንደሚያስችሉ ብዙ ረጃጅም አበባዎች አሉ። በዚህ አገር ከተሞች እንደ አዲስ አበባ፣ ጅማ፣ አማራ አዊንጃራ፣ ደሴ አማራ፣ አርብሚንጭ እንዲሁም ብዙ ከተሞች ናቸው።
+
+በዚህ ከተማ ላይ ሦስት ወንድማማቾች ኖረው ስም እንደ አበበ፣ ገብረ እግዚአብሔርና ደንከን ሲባል የሚኖሩ ነበሩ። በዚህ ሦስት ወንድማማቾች እንደየትኛው ቢሆን ብዙ ተራሮችና የተራራው ሰንጠረዥ ሲሆን ብዙ የደን እንደ ጣውላ ደን፣ ቀንዳል ደን፣ አበባ ደን፣ ጫራ ደን፣ ቦሳ ደን፣ እንዲሁም ብዙ እንደ አቆራባሽ፣ የበረሃና ማሎ ለአገሩ ሕዝብ ማስተዋልን እንደሚያስችሉ ብዙ ረጃጅም አበባዎች አሉ።
+
+አበበ ለአገሩ ሕዝብ ማስተዋል እንደሚያስችል እንደአቆራባሽ፣ የበረሃና ማሎ ያስተዋልን እንደሚያስችል ረጃጅም አበባ ነበረ። ገብረ እግዚአብሔር ደግሞ በብዙ እንደ ጣውላ ደን፣ ቀንዳል ደን፣ አበባ ደን፣ ጫራ ደን፣ ቦሳ ደን፣ ከተሞች እንደ አዲስ አበባ፣ ጅማ፣ አማራ አዊንጃራ፣ ደሴ አማራ፣ አርብሚንጭ እንዲሁም ብዙ ከተሞች ላይ ማስተዋል እንደሚያስችል ረጃጅም አበባ ነበረ።
+
+ደንከን እንደየትኛው ቢሆን በብዙ እንደ ጣውላ ደን፣ ቀንዳል ደን፣ አበባ ደን፣ ጫራ ደን፣ ቦሳ ደን፣ ከተሞች እንደ አዲስ አበባ፣ ጅማ፣ አማ�

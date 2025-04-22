@@ -1,0 +1,37 @@
+<prompt>
+Please write a relatable Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Rudens Vējš un Zaļo Lapu Lūgu Noslēpumi'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lv</lang_id>
+
+<title>Rudens Vējš un Zaļo Lapu Lūgu Noslēpumi</title>
+<body>
+Rūdolfs, mazs zēns ar acīm, kas spīdēja kā rudens saullēkts, mīlēja staigāt pa savu mīļāko mežu.  Šis mežs, ar savām senajām,  īpašajām  kļavām un ozolām,  bija viņa viss.  Un rudenī, kad daba ģērbās karstās krāsās, viss mežs kļuva īpaši burvīgs.
+
+Šogad rudens ieradās neparasti agri.  Jau septembra vidū, kad vēl dienas bija siltas un saulainas,  meža lapotne sāka mainīt savas krāsas – no zaļām, tumši zaļām, līdz bronzas brūniem un  dzidri sarkaniem nokrāsojumiem. Rudens vējš,  kā mazs, bezrūpīgs spēlētājs, pūtīja, rotaļājās ar lapām un aizvedāja tās uz savu  dīvaino  ceļojumu.
+
+Rūdolfs, ar roku grozīšanu, stāvēja pie liela ozollapa, iesprostotas starp divām zaru lapotnēm.  Viņš vēroja, kā liels un dzeltenbrūns lapa, no vienas brūces krīt pār otru, veidojot unikālu, fantastisku dīķi.  Kāds burvju skats, kas nospiedās Rūdolfa sirdī, kā skaņdarbs uz karstām krāsainām piezīmēm.
+
+Viņš uzklausīja vēja čivināt un brīnījās – vai tiešām lapas izstāstīt varēja stāstu? Viņš izvirzīja roku, iztēlojās, ka tās bija burvju, spēcīgo pavadoņu. "Pastāstiet man par rudens noslēpumiem! Pastāstiet, par savu ceļojumu uz zemes!", izsaucās Rūdolfs.
+
+Un tad notikās kaut kas brīnišķīgs. Liels lapa, ar iesprostītu  saulains brīnišķīgu nokrāsu, norāpās uz Rūdolfa rokām.  Un no tās sāka izslīdēt dzidri, smaragda zili spīdīgi lasījuma ziņas.  Tie bija vārdi, kas klusībā teica par dabu, rūpīgi pasargātu mežā, savāktajām zālēm un ziediem,  mūžīgo un visvareno koku klusinātu izpratni. Tie bija vārdi, kas apgalvoja dabu.
+
+Rūdolfs izdzirdēja: "Mēs esam kārtās zaļās un dzintara sarkanā, un balta rudens krāsas.  Mēs raustām mūsu mežā un kļūstam par vēju, kas liecina mūsos skaista dārzam. Mūsu stāsts slēpjas  katrā no mums. Mēs vienmēr piederam mežam."
+
+Lapas teikts nodrošināja Rūdolfam ceļvedi par rudens meža iedzīvotājiem, un tajos rādījuma nokrāsojuma stāvējumu. Lapas stāstīja par ērgļu ligzdiņu uz vecā ozola, par zaķīša cūku pļavā un par meža garlaicību un zaļā dziedniecības ārstu izcilību, meža māmiņu gudrību un zāles spēcīgām  dziedināšanas  spējām.
+
+
+Rūdolfs apzinājās rudens vēja slepeno spēku un zaļo lapu noslēpumiem.  Viņš izjūt īpašu prieku par brīnišķīgo dabas paradumu, un viņa  sirdī atvērās skaista un harmoniska dārznieka dvēsele.
+
+Kad pēdējā lapā nokrita no koka zariņiem, Rūdolfs iepakoja atmiņas par saviem  uztrauktas meža meklējumiem un brīvību.  Viņš vēlreiz paaugstināja savu sirdi pret debesīm un novēroja mežu, saprotot rudens noslēpumu – viss beidzas, lai sāktos atkal no jauna.  Un tieši tas padara dzīvi īpaši interesantu.  Rūdolfs izdzirdēja dziļu lapas šņaucienu, ko veido pīrsings vēja un meža dziesmu un melodiju brīnumdarbs, kas norobežoja katru atjaunās spēles laika  skaņām.  Viņš izjuta  mieru un izzināšanas pilnību.
+Rūdolfam  nekas nenotika tālāk.
+Viņš devās mājās, ar acīm pilnas rudens brīnuma pilno iedvesmu un  izjustu skaistumu.  Un viņš zināja, ka šis brīnišķīgais ceļojums ar rudens vēju  uz visiem laikiem paliks saglabāts viņa sirdī un atmiņā.
+
+</body>

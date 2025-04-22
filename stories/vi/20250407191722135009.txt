@@ -1,0 +1,63 @@
+<prompt>
+Please write a simple and easy-to-follow Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Bé Bơ và Cuộc Phiêu Lưu Tìm Kiếm Mẹ Trong Rừng.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>vi</lang_id>
+
+```vi
+<title>Bé Bơ và Cuộc Phiêu Lưu Tìm Kiếm Mẹ Trong Rừng.</title>
+<body>
+Ngày xửa ngày xưa, trong một khu rừng xanh thẳm, có một chú sóc nhỏ tên là Bơ. Bơ rất đáng yêu với bộ lông màu nâu óng ả và đôi mắt đen láy. Bơ có một người mẹ sóc rất thương yêu. Hằng ngày, mẹ luôn chăm sóc, dạy dỗ Bơ những điều hay lẽ phải và kể cho Bơ nghe những câu chuyện cổ tích thú vị về khu rừng.
+
+Một buổi sáng nọ, khi mặt trời vừa ló dạng, ánh nắng len lỏi qua những tán lá xanh um, mẹ sóc bảo Bơ: “Bơ ơi, con ở nhà ngoan nhé, mẹ đi kiếm hạt dẻ. Chiều mẹ về sẽ mang cho con thật nhiều hạt dẻ ngon.”
+
+Bơ gật đầu lia lịa, đôi tai vểnh lên đầy phấn khích. Bơ thích nhất là ăn hạt dẻ mà mẹ mang về. Bơ ngoan ngoãn ở nhà, chờ mẹ. Nhưng rồi, thời gian trôi qua, mặt trời lên cao rồi lại xuống thấp, bóng tối bắt đầu bao trùm khu rừng, mà mẹ Bơ vẫn chưa về.
+
+Bơ lo lắng nhìn ra cửa tổ ấm. Bên ngoài, khu rừng trở nên lạ lẫm và đáng sợ trong bóng đêm. Tiếng gió rít qua những cành cây khô tạo ra những âm thanh ghê rợn. Bụng Bơ bắt đầu thấy đói.
+
+“Mẹ ơi… Mẹ ở đâu?” Bơ thầm thì gọi. Nỗi sợ hãi bắt đầu xâm chiếm trái tim nhỏ bé của Bơ.
+
+Quyết tâm tìm mẹ, Bơ quyết định ra khỏi tổ. Bơ bước đi thật chậm chạp, rón rén trên những cành cây, đôi mắt liên tục đảo quanh, cảnh giác với mọi thứ xung quanh.
+
+Trên đường đi, Bơ gặp một chú chim sâu nhỏ nhắn. Chú chim sâu đang cặm cụi tìm sâu trên một cành cây.
+
+“Chào chú chim sâu,” Bơ nhỏ nhẹ tiếng gọi.
+
+Chú chim sâu giật mình, ngước nhìn Bơ. “Chào sóc con. Cháu đi đâu mà lạc lõng trong rừng thế này?”
+
+Bơ ấp úng kể lại chuyện của mình. Chú chim sâu chăm chú lắng nghe, rồi xoa đầu Bơ, bảo: “Đừng lo, ta sẽ giúp cháu. Ta biết đường đến nơi có nhiều hạt dẻ nhất. Có lẽ mẹ cháu đang ở đó.”
+
+Chú chim sâu dẫn đường cho Bơ. Họ cùng nhau đi qua một con suối nhỏ, nơi những con cá nhỏ đang tung tăng bơi lội. Họ đi qua một cánh đồng hoa rực rỡ, nơi những con bướm xinh đẹp đang nô đùa.
+
+Đi một quãng đường dài, cuối cùng họ cũng đến được một khu rừng hạt dẻ. Mùi hương thơm ngát của hạt dẻ lan tỏa trong không khí. Bơ cảm thấy rất phấn khích.
+
+Khi đến nơi, Bơ nhìn thấy rất nhiều sóc đang bận rộn thu lượm hạt dẻ. Bơ đảo mắt tìm kiếm. Chợt, Bơ nhìn thấy một bóng dáng quen thuộc.
+
+“Mẹ…!” Bơ reo lên.
+
+Mẹ sóc quay lại, đôi mắt ánh lên niềm vui khi nhìn thấy Bơ. Mẹ chạy nhanh đến ôm chầm lấy Bơ.
+
+“Bơ ơi! Con đã làm mẹ lo lắng quá!” Mẹ sóc ôm chặt Bơ vào lòng. “Mẹ đã bị lạc đường khi đi tìm hạt dẻ. May mắn thay, bác Gấu đã giúp mẹ tìm thấy đường về.”
+
+Bơ rúc vào lòng mẹ, cảm nhận được sự ấm áp và an toàn. Bơ kể lại cho mẹ nghe về cuộc phiêu lưu của mình, về chú chim sâu tốt bụng đã giúp Bơ tìm đến đây.
+
+Mẹ sóc rất tự hào về sự dũng cảm của Bơ. Mẹ xoa đầu Bơ và nói: “Con trai của mẹ thật giỏi giang! Con đã biết cách tự mình vượt qua khó khăn. Mẹ rất tự hào về con.”
+
+Bơ hạnh phúc rúc vào lòng mẹ. Sau đó, mẹ và Bơ cùng nhau nhặt hạt dẻ. Hai mẹ con cùng nhau ăn hạt dẻ ngọt ngào dưới ánh trăng.
+
+Đêm đó, Bơ nằm trong lòng mẹ, lắng nghe tiếng mẹ kể chuyện cổ tích. Trong câu chuyện, Bơ là một chú sóc dũng cảm đã vượt qua mọi khó khăn để tìm được mẹ.
+
+Sáng hôm sau, Bơ thức dậy với một cảm giác thật vui vẻ. Bơ hiểu rằng, tình yêu thương của mẹ là điều quý giá nhất trên đời. Bơ hứa với mẹ sẽ luôn ngoan ngoãn và vâng lời, để mẹ luôn vui vẻ và hạnh phúc.
+
+Bơ và mẹ sóc sống hạnh phúc bên nhau trong khu rừng. Bơ lớn lên khỏe mạnh và luôn ghi nhớ cuộc phiêu lưu tìm mẹ đầy ý nghĩa của mình. Từ đó, Bơ càng thêm yêu thương và trân trọng tình mẫu tử thiêng liêng.
+
+Vào những buổi chiều, khi ánh nắng vàng dịu dàng chiếu rọi, hai mẹ con lại cùng nhau ngồi dưới gốc cây cổ thụ, mẹ kể chuyện và Bơ chăm chú lắng nghe. Bơ hiểu rằng, dù có bất cứ chuyện gì xảy ra, thì tình yêu thương của mẹ luôn ở bên, luôn là điểm tựa vững chắc cho cuộc đời của mình. Và trong thế giới của Bơ, khu rừng xanh thẳm vẫn luôn là nơi ấm áp và an toàn nhất, vì nơi đó có mẹ, người mà Bơ yêu thương nhất trên đời.
+</body>
+```

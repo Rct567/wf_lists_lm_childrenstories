@@ -1,0 +1,62 @@
+<prompt>
+Please write a simple and easy-to-follow Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'An Spéirbhean agus an Fharraige Dhubh'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>ga</lang_id>
+
+<title>An Spéirbhean agus an Fharraige Dhubh</title>
+<body>
+Bhí iníon óg amháin in Éirinn fadó. Bhí sí ina cónaí i sráidbhaile beag cois farraige. Bhí grá mór aici don fharrage agus don spéir. Bhíodh sí ag siúl cois farraige gach lá, ag breathnú na tonn agus ag éisteacht le gluaiseacht na farraige.
+
+Bhí a hainm féin Áine. Bhí sí ina cailín beag, le gruaig fhionn agus súile gorma. Bhí sí an-ghleoite agus an-chóngarach. Bhíodh sí ag rith agus ag siúl cois farraige, agus bhíodh sí ag déanamh ceol leis na tonn.
+
+Lá amháin, bhí Áine ag siúl cois farraige, nuair a chonaic sí bean a bhí ina seasamh ar an trá. Bhí an bhean seo ina bean mhór, le gruaig dhubh agus súile dorcha. Bhí sí gléasta in éadaí dubha, agus bhí sí ag breathnú amach ar an fharraige.
+
+"Dia duit," arsa Áine leis an mbean. "Cén chaoi a bhfuil tú?"
+
+"Táim go maith, a Áine," arsa an bhean. "Táim ag breathnú ar an fharraige. Tá grá mór agam don fharrage, agus táim ag déanamh cuardach ar rud éigin."
+
+"Céard atá tú, a bhean, ag déanamh cuardach air?" arsa Áine.
+
+"Táim ag déanamh cuardach ar an Spéirbhean," arsa an bhean. "Tá sí ina cónaí ar an spéir, agus tá sí an-bhreá. Tá sí ag déanamh soilse na gealaí, agus tá sí ag cur solas ar an domhan."
+
+Bhí Áine an-spreagtha leis an scéal sin. Bhí sí ag iarraidh dul chun cónaithe leis an Spéirbhean. "Cén chaoi a n-éireoidh mé chun cónaithe leis an Spéirbhean?" arsa sí leis an mbean.
+
+"Caithfidh tú dul chun na farraige duibhe," arsa an bhean. "Tá an fharraige dhubh ina áit dorcha, ach tá sí ina háit breá chomh maith. Tá na tonn agus na faoileáin ag déanamh cuideachta duit, agus tá an ghaoth ag déanamh ceol leat."
+
+Chuaigh Áine chun na farraige duibhe. Bhí sí ag siúl trí na tonn, agus bhí sí ag éisteacht le gluaiseacht na farraige. Bhí sí ag déanamh ceol leis na tonn, agus bhí sí ag rith trí na faoileáin.
+
+Nuair a bhí sí ag dul chun na farraige duibhe, chonaic sí an Spéirbhean ina seasamh ar an spéir. Bhí an Spéirbhean ina bean mhór, le gruaig bhán agus súile gile. Bhí sí gléasta in éadaí geala, agus bhí sí ag déanamh soilse na gealaí.
+
+"Dia duit, a Áine," arsa an Spéirbhean. "Cén chaoi a bhfuil tú?"
+
+"Táim go maith, a Spéirbhean," arsa Áine. "Táim ag déanamh cuardach ort. Táim ag iarraidh dul chun cónaithe leat."
+
+"Táim ag déanamh fáilte romhat, a Áine," arsa an Spéirbhean. "Táim ag déanamh cuideachta duit, agus táim ag cur solas ar an domhan. Táim ag déanamh soilse na gealaí, agus táim ag cur ceol ar an aer."
+
+Chuaigh Áine chun cónaithe leis an Spéirbhean. Bhí sí ag déanamh ceol leis na tonn, agus bhí sí ag rith trí na faoileáin. Bhí sí ag déanamh cuideachta don Spéirbhean, agus bhí sí ag cur solas ar an domhan.
+
+Bhí Áine agus an Spéirbhean ina gcáirde maithe. Bhíodh siad ag déanamh ceol le chéile, agus bhíodh siad ag cur solas ar an domhan. Bhíodh siad ag rith trí na tonn, agus bhíodh siad ag déanamh cuideachta do na faoileáin.
+
+Lá amháin, bhí Áine agus an Spéirbhean ag siúl cois farraige, nuair a chonaic siad an fharraige dhubh ina áit dorcha. Bhí na tonn agus na faoileáin ag déanamh gluaiseacht, agus bhí an ghaoth ag déanamh ceol.
+
+"Céard atá ag tarlú, a Spéirbhean?" arsa Áine.
+
+"Tá an fharraige dhubh ag déanamh gluaiseacht," arsa an Spéirbhean. "Tá na tonn agus na faoileáin ag déanamh cuideachta dúinn, agus tá an ghaoth ag déanamh ceol leat."
+
+Bhí Áine agus an Spéirbhean ag déanamh ceol leis na tonn, agus bhíodh siad ag rith trí na faoileáin. Bhíodh siad ag déanamh cuideachta do na tonn, agus bhíodh siad ag cur solas ar an domhan.
+
+Bhí Áine agus an Spéirbhean ina gcáirde maithe, agus bhíodh siad ag déanamh ceol le chéile. Bhíodh siad ag cur solas ar an domhan, agus bhíodh siad ag déanamh cuideachta do na tonn. Bhíodh siad ag rith trí na faoileáin, agus bhíodh siad ag déanamh ceol leis na tonn.
+
+Agus sin mar a tharla scéal Áine agus an Spéirbhean. Bhí siad ina gcáirde maithe, agus bhíodh siad ag déanamh ceol le chéile. Bhíodh siad ag cur solas ar an domhan, agus bhíodh siad ag déanamh cuideachta do na tonn. Bhíodh siad ag rith trí na faoileáin, agus bhíodh siad ag déanamh ceol leis na tonn.
+
+Bhí Áine agus an Spéirbhean ina gcáirde maithe, agus bhíodh siad ag déanamh ceol le chéile. Bhíodh siad ag cur solas ar an domhan, agus bhíodh siad ag déanamh cuideachta do na tonn. Bhíodh siad ag rith trí na faoileáin, agus bhíodh siad ag déanamh ceol leis na tonn.
+
+Agus sin mar a chríochnaigh scéal Áine agus an Spéirbhean. Bhí siad ina gcáirde maithe, agus bhíodh siad ag déanamh ceol le chéile. Bhíodh siad ag cur solas ar an domhan, agus bhíodh siad ag déanamh cuideachta do na tonn. Bhíodh siad ag rith trí na faoileáin, agus bhíodh siad ag déanamh ceol leis na tonn.</body>

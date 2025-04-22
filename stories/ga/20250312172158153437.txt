@@ -1,0 +1,41 @@
+<prompt>
+Please write a light-hearted Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Cathair Dhraíochta na nDaillóg agus an Taisce Caillte.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>ga</lang_id>
+
+<title>Cathair Dhraíochta na nDaillóg agus an Taisce Caillte</title>
+<body>
+Is áit iontach é an sráidbhaile beag seo, áit ina bhfuil crainn ubhchréite agus abhann scoilte ina dhiaidh.  Bhí sé ina thír choimeádaíochta do na daillóg, créatúir álainn leis na spéireanna buan ar a gcorp.  Bhí na daillóg de ghnáth ag glacadh ar an sruth scoilte ag insint scéalta, ag damhsa, agus ag canadh amhráin faoi an ghaoth.
+
+Sa bhaile beag seo bhí teaghlach daillóg eisceachtúil ar a dtugtar an teaghlach Gearóid.  Bhí Gearóid, an sean-daillóg, mar bhrón. Bhí súil mhór aige, ag éirí gorm i bhfíor-ghealadh an lae, ag súil go bhfeicfeadh sé an “taisce caillte”. Léireoidh an taisce seo a bhí i gcúl an fhláithse, í a chaill sé nuair a bhí sé an-óg, an t-achrann domhain i gcroí a chroí agus a phingineadh domhain aige le haois.
+
+Bhí a inghean, Aine, daillóg go raibh cuma greannúil air, a bhí in ann a chreidimid a thabhairt ar an lucht féachana leis na damhsaí geal a ndéanann siad iad. Aine an duine is áille ná daillóg ar an talamh. Ach bhí an t-áthas a chaitheamh ag dul amach ó Gearóid, leis an áthas sa dáilóg iomlán is mar gheall ar an taisce.
+
+Bhí a mhac, Caolán, chomh ceolchúrsaí cé go raibh a gcorp iomlán ar tí iolrach ina mhaitheas in áit mhaith ina saol féin agus chomh maith le bealach gairmiúil chun torthaí a shreabh.
+
+Bhí an taisce caillte seo i gcúl an fhláithse, ag súil le dul amach, ach nuair nach raibh an suíomh sin á shárú ag daoine ná daillóg, nár chaith siad, nuair a fhéach siad iontas agus sásaimh don chúl, ná ghearrann siad amach leis an ngiorra é féin. Agus sin a bhí ann.
+
+Ar an lá sin, bhí torann ag druidim ar an sráidbhaile beag. Bhí gaoth ag siúl isteach ag éirí go fortairde. Chomh maith leis sin bhí clochach ag spridéadh ar fhad mar a thagann dromchlaí deis agus an sruth. Léim Aine chun cabhrú leis an bhflas, leis an bpobal álainn. Faoi bhonn an sruth féin. Óna leathadh trí chaiséal sgeise mar a thaitníonn an spás an spéire.
+
+Gearóid, a bhí díreach faoi bhléar an t-eite ag breathnú ar fhad, chonaic sé fiolm de bhréagánach an taiscé go raibh saor ó uaireadóireacht, níos mó ná ceart ó am i ndiaidh imeachta. Ach é an spár a dhéanfadh sé, nach a bhfuil aistear seo á thaispeáint.
+
+Gheofar amach ó na daillóg eile i measc an bhaile beag.  Chonaic siad Aine ag obair go crua. Agus chonaic Caolán agus Gearóid an solas sa leathadh de chás idirnáisiúnta do shealladh i bhflaith, a dhéantar chun deireadh a chur le taiscé seo faoin dteagmháil a chuireann a ngrá ag teacht ar chéile.
+
+Le chéile, thug siad tús do mháistreacht speisialta ar fud na bliana seo caite. Bhí mé féin ag cabhrú leis an teanga a chruthú.
+
+Is féidir leo taiscé seo a athshocraigh agus a chleachtadh amach ag tús leath, d'fhéadfadh sé a thabhairt ar ais ag an áit iomchuí. 
+
+Nuair a bhí sé ag iarraidh, gheobhadh siad amach go raibh sé i mbun an chlais mar a bhíonn tú ag taisteal thar a thrí trí bhliain agus seacht mbliana ar an mbóthar seo caite. Tá sé iontach. Bhí sé i mbrollach saor.
+
+Agus le breith an lae, chaith Gearóid, Aine, agus Caolán an taisce caillte seo chun an taisce go raibh siad sásta ann,  agus chuir sé spéis breise sa láidir.
+
+Ó shin i leith, is mar shampla do gach teicníc na daillóg chun cabhrú i gcroí na spáis a bhaint, nach raibh ann ach áit mar áit, a dhéanann, agus an áilleacht, a bhíodh i ngrá leis. Bhí siad go mór sásta agus mar sin bhí siad.
+</body>

@@ -1,0 +1,83 @@
+<prompt>
+Please write a light-hearted Turkish children's story that is at least 1000 words long.
+It must be completely written in proper Turkish (TR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Evrenin Gizemlerini Merak Eden Çocukların Uzay Maceraları.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>tr</lang_id>
+
+```xml
+<title>Evrenin Gizemlerini Merak Eden Çocukların Uzay Maceraları.</title>
+<body>
+Bir zamanlar, yemyeşil vadilerle çevrili, masmavi suları çağıldayan bir köyde, uzayı ve evrenin gizemlerini deli gibi merak eden iki çocuk yaşarmış: Elif ve Can. Elif, zekâsı ve sorularıyla dünyayı keşfetmeye hevesli, gözleri parıl parıl parlayan bir kızdı. Can ise, uzaya olan tutkusunu maketlerle, çizimlerle ve bitmek bilmeyen hayalleriyle dışa vuran, enerjik ve meraklı bir oğlandı.
+
+Günlerden bir gün, köy meydanında toplanan tüm çocuklar, gökyüzünde beliren, tuhaf ve parlak bir ışığı hayretle izlediler. Işık, şekil değiştiriyor, bazen bir yıldıza, bazen bir topa, bazen de garip figürlere dönüşüyordu. Elif ve Can, bu gizemli ışığı ilk görenler arasındaydı ve birbirlerine heyecanla baktılar.
+
+"Can, bu ne olabilir?" diye sordu Elif, gözlerini ışık kümesinden ayırmadan.
+
+Can, çantasından hemen dürbününü çıkardı. "Bilmiyorum ama uzaylı bir gemi gibi duruyor," dedi, heyecanla. "Hadi, araştıralım!"
+
+Birlikte, köy meydanındaki diğer çocuklara seslendiler. "Arkadaşlar, gelin! Bunu araştırmamız lazım! Evrende gizemli bir şeyler oluyor!"
+
+Tüm çocuklar, Elif ve Can’ın çağrısıyla toplanmaya başladılar. Herkesin aklında aynı soru vardı: Bu gizemli ışık neydi? Nereden geliyordu?
+
+Elif, "Bence ilk olarak, bilgi toplamalıyız," dedi. "Ne gördük? Ne duyduk? Neler hissettik?"
+
+Çocuklar, gördüklerini, duyduklarını ve hissettiklerini sırayla anlatmaya başladılar. Işığın garip sesler çıkardığını, renk değiştirdiğini ve bazılarının ürperdiğini söylediler.
+
+Can, "Gökbilimi uzmanı teyzemiz Nevin’e danışmalıyız," dedi. "O, bu konularda çok bilgili."
+
+Tüm çocuklar, hep birlikte, Nevin Teyze’nin evine doğru yola koyuldular. Nevin Teyze, köyün en bilgili insanlarından biriydi ve her zaman çocuklara yardımcı olurdu.
+
+Nevin Teyze, onları kapıda güler yüzle karşıladı. "Hoş geldiniz çocuklar, hayrola? Neden bu kadar toplu geldiniz?"
+
+Elif ve Can, başlarından geçenleri anlattılar. Nevin Teyze, çocukları dinledikten sonra, "Bu çok ilginç," dedi. "Muhtemelen, bilinmeyen bir uzay cismi. Ancak, endişelenmeyin. Ben de sizinle birlikte araştıracağım."
+
+Nevin Teyze, çocuklara, uzay hakkında bilgi veren kitaplar ve teleskoplar getirdi. Birlikte, uzayın derinliklerini keşfetmeye başladılar. Gezegenleri, yıldızları, galaksileri incelediler.
+
+"Bakın çocuklar," dedi Nevin Teyze, bir yıldız haritasını göstererek. "Gördüğünüz ışık, belki de bir uzay gemisi ya da uzaylı bir varlık olabilir. Ancak, panik yapmamalıyız. Öncelikle, bilgi toplamalıyız."
+
+Çocuklar, teleskopla gökyüzünü incelemeye devam ettiler. Gördükleri ışığın hareketlerini, şekillerini ve renklerini dikkatle gözlemlediler. Notlar aldılar, çizimler yaptılar ve birbirleriyle konuştular.
+
+Birkaç gün sonra, Elif ve Can’ın aklına bir fikir geldi. "Neden bir uzay aracı yapmıyoruz?" dedi Elif.
+
+Can, gözleri parlayarak, "Harika fikir! Hem evreni daha yakından görebiliriz hem de ışığı yakalamaya çalışabiliriz!" dedi.
+
+Çocuklar, hemen işe koyuldular. Köydeki kullanılmayan eşyaları, tahta parçalarını, teneke kutuları ve kumaşları toplamaya başladılar. Bir atölye kurdular ve uzay aracı tasarlamaya başladılar.
+
+Uzay aracının gövdesini tahtalardan yaptılar, roket motorlarını teneke kutularından ve kumaşlardan. Camlarını ise, eski pencerelerden kestiler. Boyalarla uzay aracını renklendirdiler.
+
+Uzay aracı, hayallerindeki gibi olmasa da, onların sevgisi ve emeğiyle şekilleniyordu. Her bir detayı, uzaya olan hayranlıklarını yansıtıyordu.
+
+Uzay aracı tamamlandığında, tüm köy halkı toplandı. Çocuklar, uzay aracını tanıttılar ve evreni keşfetme hayallerini anlattılar.
+
+Nevin Teyze, çocuklara destek olmak için, onlara özel bir proje hazırladı. Proje, uzay aracının özelliklerini geliştirmek, yakıtını bulmak ve uzaya nasıl gidileceğini öğrenmek üzerineydi.
+
+Çocuklar, bu projeyle birlikte, daha fazla bilgi edindiler, araştırmalar yaptılar ve bilimsel deneyler gerçekleştirdiler. Yakıt olarak, köydeki en verimli bitkilerden elde edilen bir sıvıyı kullandılar. Navigasyon sistemi için, basit bir yıldız haritası hazırladılar.
+
+Ve nihayet o an geldi. Uzay aracı hazırdı ve çocuklar uzaya gitmeye hazırdı. Köy meydanında büyük bir heyecan vardı. Herkes onlara destek oluyor, cesaretlendiriyordu.
+
+Elif ve Can, uzay aracına bindiler. Diğer çocuklar, onlara uğurlar olsun dediler. Nevin Teyze, son bir nasihat verdi. "Unutmayın çocuklar, merakınız ve cesaretiniz sayesinde her şeyi başarabilirsiniz. Göklerin ötesinde sizi bekleyen mucizeleri keşfedin."
+
+Uzay aracının motorları çalıştı ve roketler ateşlendi. Çocukların kalpleri, heyecanla çarpıyordu. Uzay aracı, yükseldi ve gökyüzüne doğru süzüldü.
+
+Gökyüzünde, o gizemli ışığı buldular. Işık, uzay aracına doğru yaklaştı. Elif ve Can, şaşkınlıkla ışığın içine doğru girdiler.
+
+Işık, onları bambaşka bir dünyaya götürdü. Farklı gezegenler, rengarenk yıldızlar ve garip yaratıklarla dolu bir evrenle karşılaştılar. Uzaylı dostlarla tanıştılar, onlarla konuştular ve evrenin gizemlerini birlikte keşfettiler.
+
+Gezegen gezegen dolaştılar, farklı medeniyetlerle iletişim kurdular ve evrenin ne kadar büyük ve güzel olduğunu gördüler. Bilgi edindiler, deneyimler kazandılar ve dünya hakkında yeni şeyler öğrendiler.
+
+Macera dolu bir yolculuktan sonra, uzay aracı tekrar köye geri döndü. Elif ve Can, köy halkına, uzay maceralarını anlattılar. Yaşadıkları deneyimleri, öğrendikleri bilgileri paylaştılar.
+
+Çocuklar, uzay aracından indikten sonra, köy meydanında coşkuyla karşılandılar. Kahraman ilan edildiler ve evreni keşfetme cesaretleriyle tüm çocuklara ilham kaynağı oldular.
+
+Elif ve Can, o günden sonra, evrenin gizemlerini araştırmaya ve evreni keşfetmeye devam ettiler. Gökbilim meraklısı çocuklar, uzayın sırlarını çözmek için ellerinden gelenin en iyisini yapmaya kararlıydılar.
+
+Ve böylece, evrenin gizemlerini merak eden çocukların uzay maceraları, bir daha hiç bitmedi. Çünkü, merak etmek ve öğrenmek, dünyanın en güzel ve en heyecan verici macerasıydı. Ve bu macera, Elif ve Can’ın kalbinde, sonsuza dek devam edecekti.
+</body>
+```

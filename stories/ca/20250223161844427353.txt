@@ -1,0 +1,47 @@
+<prompt>
+Please write a uncomplicated Catalan children's story that is at least 1000 words long.
+It must be completely written in proper Catalan (CA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'El mercat de les meravelles de Girona'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>ca</lang_id>
+
+<title>El mercat de les meravelles de Girona</title>
+<body>
+El sol escalfava la ciutat de Girona, pintant les teules dels seus antics edificis amb tons d'or.  A la plaça del Mercat, el bullici era immens.  Un aroma dolç de pastissos acabats de sortir del forn, barrejat amb el perfum de les flors i les espècies exòtiques, omplia l'aire.  Era el mercat de les meravelles, un lloc únic i màgic, on tot semblava més brillant, més viu.
+
+Aquest matí, la petita Clara, amb els seus ulls brillants com les perles, i el seu cabell daurat com el blat de moro, s'acompanyava del seu avi, un home amb un barret de palla i unes mans que sempre semblen carregades d'històries. L'avi, en Joan, era el guardó del mercat, un home de mirada subtil i un saber infinit sobre cada producte.
+
+"Mira, Clara", va dir l'avi, assenyalant un estand ple de fruites exòtiques, "aquestes són les mandarines de la muntanya, que venen d'un poble perdut a les altures de la Serra de Montseny.  Tenen un sabor dolç com el mel i un aroma que et transporta a un bosc encantat."
+
+Clara, amb les mans petites, va acariciar les mandarines amb la punta dels dits.  Eren com petites bombetes grogues amb un aire misteriós.  "Són molt boniques, avi."
+
+"Si, Clara," va dir l'avi, "i no només són boniques, sinó que també són molt nutritives.  Cada mandarina amaga un secret, un petit regal que la natura ens ofereix."
+
+Més enllà de l'estand de mandarines, hi havia un altre que venia flors de colors vius.  Roses vermelles com la sang, lliris blancs com la neu i margarides grogues com el sol.  Clara va quedar encantada per la paleta de colors que oferien aquelles flors.  "Avi, em pots explicar l'origen d'aquesta flor tan bonica?" va preguntar.
+
+L'avi, en Joan, va somriure amb un encant especial.  "Aquesta flor, Clara, és el símbol de la Girona de les meravelles.  Cada espècie conté un poder secret, com la rosa, que ens aporta la passió i la bellesa, o la margarida, que porta la serenitat.  A Girona, les flors no són només bellesa; són un pont entre la terra i el cel."
+
+Seguint el seu camí, van arribar a un petit estand on una senyora gran amb unes mans llenyades de treball treballava amb una espècie de pasta de fruites.  "Mira, Clara", va dir l'avi, "aquestes són les confitures de la Vall de Camprodon.  Cada recipient és un petit tresor, ple d'un sabor únic."
+
+Clara va veure una confitura amb un aspecte especial.  Era de colors taronges i grogues, com el sol d'estiu.  "Quin sabor tindrà aquesta?" va preguntar Clara amb il·lusió.
+
+"Doncs, aquesta, Clara, és la confitura d'ametlles, amb un toc subtil de llimona.  Un gust autèntic de la nostra terra, un record que durà per sempre a la teva memòria." va explicar l'avi.
+
+Amb la mirada fixa en les confitures, Clara se sentia com si estigués dins d'un paisatge de contes de fades.  El mercat estava ple de sorpreses i descobriments.  Un altre estand oferien jocs artesanals, fet a mà amb un gran amor i dedicació.  Cada peça era una obra d'art, un testimoni de la creativitat humana.
+
+Van observar un ninot de fusta amb un aspecte especial i una mirada profunda que semblava mirar directament al cor de Clara.  "Aquest és un dimoni de l'Aigüestortes," va dir l'avi. "Una figura artesanal que ha guardat els secrets de la muntanya durant segles. Amb la seva mirada profunda, et guarda una petita sorpresa."
+
+Clara, emocionada, va mirar al dimoni. Li semblava que la figura tenia una mirada reconfortant.  Amb el dimoni a la mà, van visitar l'estand de l'artesà de les flors.  L'artesà, amb un somriure càlid, va mostrar a Clara un ram de flors de colors, una obra d'art floral.
+
+"Aquest ram, Clara, és el símbol de la Girona màgica, un regal que et transporta a un món de fantasia." va dir l'artesà.
+
+Clara, abraçant el ram, se sentia com si estigués rodejada d'un halo d'encantament.  El mercat de les meravelles de Girona era més que un lloc per comprar i vendre; era un lloc ple de contes de fades, d'històries i de misteris. Era una abraçada d'encantament.  L'avi, amb el seu saber i la seva paciència, la guià per un univers de sensacions i colors.
+
+Van deixar el mercat amb els cors plens i els esperits alegres.  Clara va carregar les seves mans amb mandarines, confitures i el dimoni de l'Aigüestortes, recordant sempre la màgica experiència que havia viscut al mercat de les meravelles de Girona.  El mercat, a partir d'aquell moment, no era només una destinació; era un record, un tresor.
+</body>

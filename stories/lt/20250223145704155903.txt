@@ -1,0 +1,46 @@
+<prompt>
+Please write a simple and easy-to-follow Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Slaptas dienoraštis, kuriame užrašytos visos dienos didžiosios paslaptys.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lt</lang_id>
+
+<title>Slaptas dienoraštis, kuriame užrašytos visos dienos didžiosios paslaptys.</title>
+<body>
+Greta, maža mergaitė su plaukais kaip rudų riešutų kekė, turėjo didelį, ryškiai mėlyną dienoraštį.  Jis nebuvo paprastas dienoraštis – tai buvo slaptas dienoraštis, kuriame Greta užrašinėjo visų dienų didžiąsias paslaptis.
+
+Vieną rytą, kai saulė tik pradėdavo dažyti dangų šviesiai rožine spalva, Greta pabudo.  Jos kambaryje, pilname saulės spindulių,  drebėjo mažas,  auksinis drugelis. Jis sukosi aplink  mažą, baltą gėlių vazą, o jo sparnai spindėjo kaip smulkūs deimantai. Greta suprato – tai pirmoji dienos paslaptis.  Ji greitai paėmė savo mėlyną dienoraštį ir pradėjo jį pildyti.
+
+„Šiandien“, parašė ji, „prabudo auksinis drugelis.  Jis sukosi aplink baltą gėlę ir spindėjo kaip deimantai.  Tai pirmoji dienos paslaptis.“
+
+Po pusryčių Greta išėjo į sodą.  Ten ji rado didelį, rudą skruzdėlių krūvelę, išrikiuotą nuo medžio kamieno iki gėlių lovos.  Skruzdėlės dirbo kaip tikros mažiukės statybos komandos, nešdamos smulkius žiemos atsargų gabalėlius. Greta stebėjo jas žavėdamasi.  Ji suprato – tai antroji dienos paslaptis.
+
+„Šiandien“, parašė ji, „skruzdėlės dirbo kaip tikros statybos komandos, nešdamos žiemos atsargas. Tai antroji dienos paslaptis.“
+
+Greta vaikščiojo sodo takais ir sutiko seną, didžiulį ąžuolą.  Ąžuolo šakose buvo įsikūręs erelis. Jis lėtai, tyliai pleveno, ir jo akys žvelgė į pasaulį.  Greta suprato – tai trečioji dienos paslaptis.
+
+„Šiandien“, parašė ji, „erelis sėdėjo ant seno ąžuolo šakos ir stebėjo pasaulį. Tai trečioji dienos paslaptis.“
+
+Greta tęsiant dieną, sutiko katytę su purus žieminiais kailiukais,  kuri žvilgčiojo į ją iš už krūmų. Ji stebėjo šį mielą, žiemiškai apsirengusį gyvūnėlį. Greta suprato – tai ketvirtoji dienos paslaptis.
+
+„Šiandien“,  parašė ji, „katytė su purus kailiukais žvilgčiojo iš už krūmų.  Tai ketvirtoji dienos paslaptis."
+
+Greta žaidė su savo draugais,  Žiūriu, jie statė bokštus iš smėlio, bėgiojo ratu ir juokėsi. Tai penktoji dienos paslaptis. Greta suvokė – draugystės džiaugsmas yra viena iš nuostabiausių paslapčių.
+
+„Šiandien“, parašė ji, „draugai statė smėlio bokštus, bėgiojo ir juokėsi. Draugystė - tai nuostabi dienos paslaptis.“
+
+
+Greta,  užrašiusi visą dienos paslaptis,  suvokdavo,  kad kiekviena diena yra pilna nuostabių paslapčių.  Jos dienoraštis tapo jos brangiausiu lobiu,  juo kruopščiai prižiūrint  įrašytas visų dienų stebuklus, kuriuos  ji atrado.
+
+Greta  suprato, kad paslaptys slepiasi visur aplinkui -  gėlėse, vėjeliuose,  skruzdėlių darbe, paukščių dainose. Jos svarbiausia užduotis buvo jas atrasti ir užrašyti.  Jos dienos tapo dar spalvingesnės ir nuostabesnės.
+
+Greta žinojo, kad jos dienoraštis  nebus vienintelis, kuriame rašomos dienos paslaptys. Kiekvienas gali atrasti savo paslaptis ir užrašyti jas  savo dienoraščiuose, kad vėliau primintų sau visus nuostabius  ir unikalius gyvenimo akimirkas.
+
+O saulė jau leisdavosi, dažydama dangų įspūdingomis spalvomis,  pranešdama, kad diena artėja prie pabaigos. Greta apkabino savo mėlyną dienoraštį, padėkojo jam už tai, kad padėjo užfiksuoti visus dienos stebuklus, ir nuėjo miegoti.  Ji jau negalėjo laukti, ką naujo paslapčių atras rytoj.
+</body>

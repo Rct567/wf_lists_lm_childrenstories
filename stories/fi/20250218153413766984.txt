@@ -1,0 +1,42 @@
+<prompt>
+Please write a creative and original Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Sinisilmäisen koiran ystävyys ja seikkailut suurkaupungissa ja kadonneen omistajan etsintä.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>fi</lang_id>
+
+<title>Sinisilmäisen koiran ystävyys ja seikkailut suurkaupungissa ja kadonneen omistajan etsintä</title>
+<body>
+Oli kerran suurella kaupungilla sinisilmäinen koira, joka oli erityinen. Sen silmät olivat niin siniset, että ne näyttivät siltä, kuin ne olisivat taivaan värisiä. Koiran nimeksi oli annettu Ahti, ja se asui ystävällisen tytön, Minnan, kansallisia talossa kaupungin laidalla.
+
+Ahti ja Minna olivat parhaita ystäviä, ja he tekivät kaikenlaisia juttuja yhdessä. He pelasivat puistossa, menivät kävelyille ja jopa auttoivat naapureitaan tarvittaessa. Ahti oli erittäin älykäs koira, ja se pystyi jopa auttamaan Minnaa tämän kotitehtävissä.
+
+Mutta yhtenä päivänä, kun Ahti ja Minna olivat menneet puistoon leikkimään, tapahtui outo asia. Minna kävi hakemassa mehua ja voileipää automaatista, ja Ahti jäi odottamaan häntä penkille. Kun Minna palasi, Ahti oli poissa. Hän etsi koiraa ympäriltä, mutta sitä ei näkynyt missään.
+
+Minnalla oli hätä. Hän tiedusteli Ahtia puistonvallalta, mutta kukaan ei ollut nähnyt koiraa. Minna päätti etsiä Ahtia yksin, ja hän alkoi kävellä kaupungin halki. Hän meni torille, kirkolle ja jopa kaupungintalolle, mutta Ahtia ei näkynyt missään.
+
+Kun ilta alkoi laskea, Minna päätti palata kotiin. Hän oli väsynyt ja hänen sydämensä oli raskas. Hän toivoi, että Ahti olisi jo kotona odottamassa häntä. Mutta kun hän saapui kotiin, Ahtia ei ollut siellä.
+
+Minnan vanhemmat yrittivät lohduttaa tytärtään, mutta Minna oli surullinen. Hän halusi Ahtin takaisin, ja hän oli valmis tekemään mitä tahansa, jotta koira löytäisi tiensä kotiin.
+
+Seuraavana päivänä Minna alkoi etsiä Ahtia uudelleen. Hän kävi kaupungin eläinpuistossa, eläinkaupassa ja jopa kaupungin kaduilla. Hän kohtasi monia oudoja ihmisiä, jotka pyysivät häneltä rahaa tai ystävyyttä, mutta Minna ei antanut periksi. Hän tiesi, että Ahti oli jossakin kaupungissa, ja hän oli päättänyt löytää sen.
+
+Kun Minna käveli kaupungin halki, hän huomasi, että kaupunki oli paljon suurempi ja monimuotoisempi kuin hän oli aiemmin ajatellut. Hän näki kauniita puistoja, vanhoja rakennuksia ja jopa joen, joka virtasi kaupungin läpi. Hän alkoi ymmärtää, että Ahti oli voinut mennä mihin tahansa, ja että etsintä olisi paljon vaikeampi kuin hän oli aluksi ajatellut.
+
+Minnan etsintä jatkui useita päiviä. Hän kävi kaupungin eri osissa, ja hän kohtasi monia erilaisia ihmisiä. Hän tapasi vanhan naisen, joka kertoi hänelle kaupungin historiasta, ja hän tapasi nuoren pojan, joka opetti hänelle uusia pelejä. Minna alkoi ymmärtää, että kaupunki oli täynnä ystävällisiä ihmisiä, jotka halusivat auttaa häntä löytämään Ahtin.
+
+Lopulta, kun Minna oli etsintänsä viimeisellä päivällä, hän kuuli outoa ääntä. Se oli Ahtin ääni, ja se tuli läheltä. Minna seurasi ääntä, ja hän löysi itsensä vanhan talon edessä. Hän avasi oven, ja siellä, talon portailta, istui Ahti.
+
+Ahti näytti hieman erilaiselta kuin ennen, mutta sen silmät olivat edelleen niin siniset kuin ennen. Minna juoksi koiran luo, ja he halaavat toisiaan. Minna kysyi Ahtilta, missä se oli ollut, ja Ahti selitti, että se oli eksynyt kaupungille ja joutunut taloon, jossa se oli asunut useita päiviä.
+
+Minnan ilo oli valtava. Hän oli löytänyt Ahtin, ja he olivat taas yhdessä. He palasivat kotiin, ja Minnan vanhemmat olivat iloisia. He lohduttivat Minnaa ja Ahtia, ja he kertoi heille, että he olivat aina turvassa kotona.
+
+Minnan ja Ahtin ystävyys oli vahvempi kuin ennen. He tiesivät, että he voivat aina luottaa toisiinsa, ja he olivat valmiit tekemään mitä tahansa, jotta he voisivat olla yhdessä. He jatkoivat elämäänsä kaupungilla, ja he kokivat monia uusia seikkailuja. Mutta he tiesivät, että heidän ystävyys oli aina ensisijainen, ja että he voivat aina luottaa toisiinsa.
+
+Niin Minna ja Ahti elivät onnellisina elämänsä loppuun, ja heidän ystävyys kasvoi vahvemaksi päivä päivältä. He tiesivät, että he olivat erityisiä, ja että heidän ystävyys oli jotain, mitä he voivat aina pitää läheisenä sydämessään.</body>

@@ -1,0 +1,45 @@
+<prompt>
+Please write a light-hearted Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Tajemný hodinář, který zastavil čas pro jedno přání'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Tajemný hodinář, který zastavil čas pro jedno přání</title>
+<body>
+V malebném městečku Podlesí, ukrytém v údolí plném rozkvetlých třešní a šumivých potoků, žil starý pán jménem pan Hodino. Byl to tajemný hodinář, jehož ruce se s grácií pohybovaly po složitých mechanismech, a jeho oči, stejně jako ty hodinky, vypovídaly příběhy o čase.  Lidé z Podlesí ho znali jako strážce času, jehož hodiny s třpytivými ciferníky se svítily zářivě a ozývalo se z nich jemné tikotání.
+
+Jednoho horkého léta, když slunce pálilo na střešní šindele a ptáci zpívali v rytmickém refrénu, se do paní Hodinovy dílny zavrtala malá holčička jménem Klára. Klára s úžasnými, modrými očima a s krásnými kudrnatými vlasy, nesla v ruce zmuchlaný lístek papíru, napsaný netradičně krásným, neohroženým psaním.
+
+"Pane Hodino," řekla Klára rozechvělým hlasem, "slyšela jsem o Vašich zázračných hodinách. Říkají, že dokáží zastavit čas."
+
+Pan Hodino položil svůj svitkový nástroj na lavici, na níž ležely kousky nádherně broušeného skla a drobné, kovové díly. Klára se zdvořile opřela o plotýnek a s úsměvem odpovídala. 
+
+"A co takové přání?" zeptal se pan Hodino laskavým hlasem. Jeho hlas byl moudrý jako tajemství pohádky.  "Vy jste to, s těmito nádhernými rukama, vyvolaly tu zvědavost?"
+
+Klára s údivem přikyvovala, jež obkroužilo paní Hodina, jako kvetoucí orchidej. Paní Hodino se pousmál, jeho tvář ozdobená límecem plným úcty. 
+
+"Věřím, že existují kouzla a neznámá království a že přání, jsou, no, zdrojem úchvatného světa." Pan Hodino pozorně četl Klářin lístek. Na něm stálo pouze jedno věta: „Chci se setkat s babičkou, i když je tak daleko." 
+
+Klářin úžasný výraz zmizel, když pochopila pravdu, že její babička odešla před měsícem daleko pryč a již nikdy už s ní Klára nemůže více být a už se jí nebude dovoleno vidět.
+
+"Samozřejmě," řekl starý hodinář laskavě, „jistě ti pomůžu. Ale tyhle hodiny zastavují čas, jen pro jeden nejdůležitější okruh zkušeností. Co kdybys si zkusila představit svou babičku?"
+
+Klára zavřela oči a snažila se si babičku živě představit. Viděla ji s usmívem, jak si hraje a má hojnou zálibu v tvořivém skladování starých šperků a nádherných knoflíků. Usilovně si je uložila do krásně tvořivých boxů, které pro sebe ušila Klára a usmívala se svými přátelskými hnědými očima. 
+
+Pak se otevřela pan Hodinová dílna. Zůstala osvětlená s nádherným osvětlením, avšak čas vnímala jinak. V klidné atmosféře s jemným tikotáním hodin Klára viděla babičku před sebou. Neobyčejně hřející zážitek ze spletitého pocitu Klára. Ucítila, že babička, byť jen obrazně, ji objala. Cítění a dotek, prožité, jakoby byly reálné, nezměnil stav a pocit štěstí. Klára objímala babička, s níž pohlídala, a sdílela radost v lázních. Obě si sdílely úchvatné pohádky a čarování s nejrůznějších míst a kultur.
+
+Vstali společně ze zdánlivých spletitostí včasnosti.  Přicházel moment, ve kterém by měla Klára naposled vidět svou babičku. Babička se usmála, Klára ji pohladila a babička ji s nehmotnou láskou pustila. Téměř bolestivý smutek zmizela s dočasným, avšak živě pocítěným, zážitkem. Vše zmizelo v rozjasněných chvílích a neobyčejném vztahu.  Pan Hodino dal hodiny do původního, běžného stavu, jakoby se nic nestalo.
+
+Klára se probudila v pan Hodinově dílně, s babičkou ztvárněnou v paměti. Oči jiskřily a srdce bubnovalo od šťastných pocitů. Babičku si teď mohla pamatovat i poté, co zmizela z tohoto světa. Bylo jí pochopitelně jasné, že to neměla trvat tak dlouho, ale radovala se, že si s babičkou mohla užít nádhernou chvíli plnou tepla a lásky.
+
+Když pan Hodino pochopil, že se jedná o trvalé a autentické uložení pocítené chvíle a štěstí pro Kláru, věděl, že pro ni zastavil čas na nejzábavnější dobu.
+
+A tak se Klára s usmívem v srdci vrátila domů. Od té doby se jí zdálo, že vždy, když si vzpomněla na svůj nádherný rozhovor s babičkou, se svět kolem ní zjasní a její duše se dotkne úžasné krásy, a to ne jen díky fascinujícím pamětím. V duši,  Kláře, se po zbytek jejího života stál hluboký vztah a síla milujících vřelé a dotek lásky, které ji plnily srdcem.
+</body>

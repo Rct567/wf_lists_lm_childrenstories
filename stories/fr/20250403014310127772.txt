@@ -1,0 +1,159 @@
+<prompt>
+Please write a dialog-based French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Un mouton qui voulait absolument apprendre à voler comme un oiseau.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```xml
+<title>Un mouton qui voulait absolument apprendre à voler comme un oiseau.</title>
+<body>
+– Bonjour, Petit Nuage ! Qu'est-ce que tu fais là, perché sur cette grosse pierre ?
+
+– Bonjour, Madame Agneau ! Je… je regarde les oiseaux. Ils sont si beaux, quand ils volent…
+
+– Oh, tu sais, voler, ce n'est pas pour les moutons, dit Madame Agneau en soupirant. C'est pour les oiseaux ! On est faits pour brouter l'herbe, nous.
+
+– Mais… mais je VEUX voler ! répondit Petit Nuage avec une pointe de colère dans sa voix.
+
+– Voler ? Mais pourquoi ? demande Madame Agneau, perplexe. Tu as de l'herbe fraîche à profusion, de l'eau claire… Qu'est-ce qu'il te faut de plus ?
+
+– Je veux voir le monde d'en haut ! Je veux voir le soleil briller sur les champs de fleurs ! Je veux… je veux être libre comme eux ! s'exclama Petit Nuage en montrant les oiseaux qui s'élançaient dans le ciel.
+
+– Oh là là, Petit Nuage… Tu as de drôles d'idées ! Bon, eh bien, si tu y tiens tant que ça, va voir Vieux Barnabé, le hibou. Il connaît tout sur le vol, lui. Il a plein d'années d'expérience !
+
+– Vieux Barnabé ? Où vit-il ?
+
+– Il habite dans le grand chêne, là-bas, au bout du champ. Mais fais attention, il n'est pas très… sociable. Il préfère être tranquille.
+
+Petit Nuage, plein d'espoir, trottina vers le grand chêne, impatient.
+
+– Toc toc !… Euh… Bonjour ?
+
+Un grand hibou, avec des yeux brillants et sages, sortit de son trou.
+
+– Qui ose déranger ma sieste ? grogna-t-il.
+
+– Bonjour, Monsieur Hibou. Je suis Petit Nuage. Madame Agneau m'a dit que vous pouviez m'aider.
+
+– Aider ? Aider à quoi ? Je suis un hibou, pas un magicien !
+
+– Je… je voudrais apprendre à voler.
+
+Vieux Barnabé, surpris, ouvrit grand ses yeux.
+
+– Un mouton… qui veut voler ? C'est la chose la plus saugrenue que j'aie entendue !
+
+– S'il vous plaît, Monsieur Hibou. J'ai toujours rêvé de voler comme les oiseaux !
+
+Vieux Barnabé réfléchit un instant, puis dit :
+
+– Bon… Puisque tu insistes. Mais ça ne va pas être facile. Premièrement, les moutons n'ont pas d'ailes.
+
+– Ah… c'est vrai, dit Petit Nuage, déçu.
+
+– Deuxièmement, le vol demande beaucoup de force et de technique. Et toi, tu es un peu… rondouillet, non ?
+
+Petit Nuage gonfla légèrement ses joues.
+
+– Je… je peux m'entraîner !
+
+– D'accord. Premièrement, il faut que tu apprennes à utiliser le vent. Va voir les moulins, là-bas, au bord de la rivière. Ils connaissent bien le vent.
+
+– Merci, Monsieur Hibou ! Je m'en vais tout de suite !
+
+Petit Nuage courut vers les moulins, avec une excitation nouvelle.
+
+– Bonjour, Messieurs les Moulins !
+
+– Bonjour, jeune mouton ! Que nous vaut ta visite ? répondirent les moulins en chœur.
+
+– Je voudrais apprendre à utiliser le vent, pour voler !
+
+Les moulins éclatèrent de rire.
+
+– Voler ! Tu veux voler, toi ? Mais tu es fait pour brouter, comme tous les autres moutons !
+
+– S'il vous plaît, aidez-moi ! Je veux tellement voler !
+
+Après un long silence, le plus ancien des moulins dit :
+
+– Bon, puisque tu es si obstiné. Le vent est capricieux. Il faut l'observer. S'il souffle fort, il faut se baisser pour ne pas être emporté. S'il est doux, il faut s'étirer. Et surtout… il faut se lancer !
+
+– Se lancer ? Mais comment ?
+
+– Saute ! Saute et laisse-toi porter ! On va t'apprendre à sentir le vent sur ta laine.
+
+Les jours suivants, Petit Nuage passa des heures auprès des moulins, apprenant à sentir le vent. Il s'entraînait à sauter, à se pencher, à s'étirer. Il apprenait à prévoir la direction du vent, à sentir sa force. C'était difficile, fatiguant, mais il ne renonçait pas.
+
+Un jour, le plus grand des moulins lui dit :
+
+– Petit Nuage, tu as beaucoup progressé. Mais le vent seul ne suffit pas. Tu as besoin d'ailes.
+
+– Des ailes… Mais je n'en ai pas ! s'exclama Petit Nuage, désespéré.
+
+– Tu peux les fabriquer ! dit une voix.
+
+C'était Vieux Barnabé, qui était venu observer son élève.
+
+– Fabriquer ? Mais comment ?
+
+– Va voir Madame Papillon. Elle connaît tout sur les ailes, et la beauté du ciel ! Elle est pleine de sagesse.
+
+Petit Nuage se mit en route, vers le jardin de Madame Papillon.
+
+– Bonjour, Madame Papillon !
+
+– Bonjour, Petit Nuage ! Que puis-je faire pour vous ? demanda Madame Papillon, avec un sourire.
+
+– Je veux voler, mais je n'ai pas d'ailes !
+
+– Ah, le vol… C'est merveilleux, n'est-ce pas ? Les ailes… elles ne servent pas seulement à voler. Elles servent aussi à la beauté, à l'émerveillement… Tu veux apprendre à les fabriquer ?
+
+– Oui ! répondit Petit Nuage avec enthousiasme.
+
+– Bien. Tu auras besoin de plumes, de légèreté et… d'un peu de magie ! Va chercher des plumes colorées auprès des oiseaux, et les pétales les plus fins des fleurs de la prairie. Quant à la légèreté… il faut que tu oublies le poids de tes soucis ! Et pour la magie… c'est dans ton cœur qu'elle réside.
+
+Petit Nuage partit en quête de plumes et de pétales. Il demanda aux oiseaux, qui lui donnèrent leurs plus belles plumes. Il cueillit les pétales les plus délicats. Il pensa à ses soucis, et il essaya de les oublier.
+
+De retour auprès de Madame Papillon, il rassembla tous les éléments. Avec l'aide de la papillon, il commença à construire ses ailes. C'était long, méticuleux. Il attachait les plumes aux pétales, essayant de créer des ailes légères, colorées et… magnifiques.
+
+Un jour, enfin, les ailes furent terminées. Elles étaient splendides ! Roses, bleues, jaunes… Un véritable arc-en-ciel sur le dos de Petit Nuage.
+
+– Elles sont magnifiques ! s'écria-t-il. Mais… est-ce que je vais réussir à voler ?
+
+– Le vent et les ailes sont prêts, dit Vieux Barnabé. Maintenant, c'est à toi de jouer. Crois en toi, Petit Nuage.
+
+Petit Nuage gravit la petite colline près du champ. Le vent soufflait doucement. Il prit une profonde inspiration, pensa à tous ses efforts, à sa joie de vivre et… il sauta !
+
+Il se sentit d'abord tomber. Mais soudain… les ailes réagirent au vent ! Il commença à planer !
+
+– Je… je vole ! s'écria Petit Nuage, émerveillé.
+
+Il volait maladroitement, il est vrai. Il s'écrasait parfois au sol. Mais il apprenait, peu à peu. Il sentait le vent sous ses ailes, il apprenait à diriger son vol. Il volait !
+
+Les autres moutons, les oiseaux, Madame Agneau, étaient là, à le regarder, surpris et émerveillés.
+
+Petit Nuage passa des heures dans le ciel. Il vit le soleil se coucher sur les champs, il vit les étoiles briller. Il était libre, enfin !
+
+Un jour, il revint vers Madame Agneau.
+
+– Maman Agneau ! Je vole !
+
+– Je vois ça, Petit Nuage. Je vois ça. Et… je suis fière de toi.
+
+– Je voulais voir le monde d'en haut ! Je voulais être libre !
+
+– Et tu l'as fait ! dit Madame Agneau, les yeux remplis de tendresse.
+
+– Et tu sais quoi ? Maintenant, j'adore aussi brouter l'herbe, et être avec vous tous ! répondit Petit Nuage avec un grand sourire.
+
+Petit Nuage avait trouvé un équilibre. Il volait quand il voulait, et il revenait toujours auprès de ses amis et de sa famille. Il avait appris que le plus important n'était pas seulement de voler, mais aussi de poursuivre ses rêves, de croire en soi, et de partager sa joie. Et, comme tous les moutons du troupeau, Petit Nuage, parfois, dormait paisiblement, en rêvant… de voler.
+</body>
+```

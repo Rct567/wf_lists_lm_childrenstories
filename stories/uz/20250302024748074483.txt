@@ -1,0 +1,39 @@
+<prompt>
+Please write a educational Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Sehrli Sham: Yo'qotilgan Orzularni Topib Beruvchi Ertak'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>uz</lang_id>
+
+<title>Sehrli Sham: Yo'qotilgan Orzularni Topib Beruvchi Ertak</title><body>  
+Bir bor ekan, bir yo'q ekan, o'rmon chekkasida joylashgan kichkina bir qishloq bo'lgan. Ushbu qishloqda turli xil odamlar yashar, lekin ularning hammasi bir narsada birdalik edi: ularning orzulari yo'qolgan edi. Qishloqdagi bolalar o'zlarining kelajak haqidagi orzularini unutgan, kattalar esa yoshligidagi orzularini yo'qotgan edi. Hatto qishloqdagi har bir uyning derazalariga qorong'i tushgan edi, chunki ularning yuragida yorug'lik yo'q edi.
+
+Bir kuni, qishloqqa g'aroyib bir chol keldi. Uning qo'lida juda noyob, porlab turgan sham bor edi. Shamning alangasi ko'k va yashil ranglarda porlar, go'yo uyqudagi yulduzlar kabi edi. Chol qishloqning maydonchasiga borib, baland ovozda dedi:  
+“Ey, qishloq aholisi! Men sizlarga Sehrli Shamni olib keldim. Bu sham sizning yo'qotilgan orzularingizni qayta topishga yordam beradi. Lekin uning sehrini faqat yuraklari toza va orzu-qadriyatlarga sodiq bo'lganlar ko'ra oladi.”
+
+Qishloq aholisi bir-birlariga qarab qo'ydi. Ularning ko'zlari shamning yorug'ligiga qadalgan edi, lekin hech kim birinchi bo'lib shamni ko'tarishga jur'at qilmadi. Nihoyat, qishloqning eng kichik qizi, Zuhra, oldinga chiqdi. Uning yuzida kichkina tabassum, ko'zlarida esa orzu porlardi.  
+“Men urinib ko'ray,” dedi Zuhra.
+
+Chol shamni Zuhraga uzatdi. Zuhra shamni ko'targan zahoti, uning alangasi yanada yorqinlashdi. Shamdan chiqqan nur Zuhrani o'rab oldi va u o'zini g'oyib bo'lgan bir dunyoda topdi. U yerda u o'zining orzusi – buyuk rassom bo'lishni ko'rdi. Uning qo'lida rangli qalqonlar, qog'ozlar va chizmalar bor edi. Zuhra o'zining orzusini topganidan juda xursand bo'ldi va shu zahoti o'zini qishloqdagi maydonchada topdi.
+
+Zuhraning orzusini topganini ko'rgach, qishloq aholisi ham shamni ko'tarishga jur'at qildi. Keyingi bo'lib, qishloqning yosh o'g'li, Farhod, oldinga chiqdi. U ham shamni ko'targanida, uning alangasi yanada kuchaydi. Farhod o'zining orzusi – o'rmonni himoya qilish va hayvonlar uchun xavfsiz joy yaratishni ko'rdi. U o'rmonning eng chuqur joylarida yashaydigan hayvonlar bilan suhbatlashdi va ularga yordam berishni va'daladi. Farhod ham orzusini topdi va qishloqqa qaytib keldi.
+
+Shundan so'ng, qishloqning har bir a'zosi shamni ko'tardi. Hammasi o'zlarining yo'qotilgan orzularini qayta topishdi. Ba'zilar o'qituvchi bo'lishni orzu qilgan edi, boshqalari esa qishloqni gullab-yashnashga yordam berishni xohlagan edi. Har bir kishi o'z orzusini topgach, qishloqning derazalarida yorug'lik paydo bo'ldi. Hatto o'rmon ham qishloqning yangi hayoti bilan nafas olardi.
+
+Lekin, hali ham bir kishi bor edi, u shamni ko'tarmagan edi. Bu qishloqning eng keksa odami – Bobo Alim edi. U o'zining yoshligidagi orzularini unutgan deb o'ylardi va hech narsaga ishonmasdi. Zuhra va Farhod Bobo Alimga yaqinlashib, unga shamni ko'tarishni taklif qildi.  
+“Bobo, har bir insonda orzu bor. Siz ham o'z orzuingizni topishingiz mumkin,” dedi Zuhra.  
+Bobo Alim bir oz o'yladi va nihoyat shamni ko'tardi. Shamning alangasi kuchli porladi va Bobo Alim o'zini yoshligida topdi. U o'sha paytda o'qishni juda yaxshi ko'rardi va katta bo'lib, dunyoning barcha kitoblarini o'qishni orzu qilgan edi. Bobo Alim o'zining orzusini topgach, yuzida katta tabassum paydo bo'ldi.  
+“Men hali ham o'qishni davom ettirishim kerak,” dedi u.
+
+Qishloq aholisi endi o'z orzularini topgan edi. Ular birgalikda ishlashni boshladilar. Zuhra rassom bo'lish uchun har kuni chizmalar chizdi, Farhod o'rmonni himoya qilish uchun daraxtlar ekdi, Bobo Alim esa qishloqdagi bolalarga o'qishni o'rgatdi. Qishloqning har bir uyi yorug'lik bilan to'ldi, chunki har bir kishi o'z orzusi uchun kurashardi.
+
+Sehrli Sham esa qishloqning maydonchasida qoldi. U har doim porlab turardi va qishloq aholisiga orzulariga erishishda yordam berardi. Shamning yorug'ligi hech qachon o'chmadi, chunki orzular hech qachon o'lmasdi.
+
+Shu tariqa, qishloq aholisi o'zlarining yo'qotilgan orzularini qayta topdi va ularga erishish uchun birgalikda ishladi. Sehrli Sham esa ularning hayotida doimiy bir yorug'lik bo'lib qoldi.  
+</body>

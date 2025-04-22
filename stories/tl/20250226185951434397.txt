@@ -1,0 +1,37 @@
+<prompt>
+Please write a silly Tagalog children's story that is at least 1000 words long.
+It must be completely written in proper Tagalog (TL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Si Ate at ang Kanyang Mga Pinakamahalagang mga Bagay'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>tl</lang_id>
+
+<title>Si Ate at ang Kanyang Mga Pinakamahalagang mga Bagay</title>
+<body>
+Si Ate Clara, isang batang babaeng may kulay-rosas na buhok at mga mata na parang dalawang maliit na bituin, ay may isang kakaibang koleksiyon. Hindi ito mga barbie dolls o mga makinang na laruan. Ang koleksiyon ni Ate Clara ay binubuo ng mga pinaka-mahalagang bagay sa kanyang buhay.
+
+Isang lumang, may bahid na larawan ng kanyang Lola, na tumatawa ng sobrang malapad, ay nasa loob ng isang lumang, mabahong kahon.  Iyon ang una niyang pinakamahalagang bagay.  Sinasabi ni Ate Clara na ang tawa ni Lola ay nakikita pa rin sa larawan, na nagpaparamdam sa kanya ng init kahit malamig ang panahon.
+
+Sa tabi ng larawan, nakalatag ang isang piraso ng  malambot, lumang tela, kulay-abo na tila nabasa ng ulan ng maraming beses.  Ito ang tela na kadalasang ginagamit niya ni Ate Clara para magpalamig.  Sa ilalim nito ay nakatago ang isang basang bato.  Ito raw ay natagpuan sa kanilang likod-bahay, na may hugis-itlog.  At ito, ayon sa Ate, ay ang pinaka-matatag na bahagi ng buong mundo.
+
+Mayroon din siyang maliit na baso ng asukal, na nasa dulo ng isang lumang, madulas na aparador, na puno ng alaala.  Para kay Ate Clara, ito ang sangkap ng kanyang pinaka-masarap na tsokolate at siyang pinakamalikot na bagay.
+
+Isa pa sa mahalagang bagay para sa kanya ay ang siyam na kulay-abo, manipis na papel.  Kadalasan ang mga papel na ito ang gumagawa ng kanyang pinaka-malikhain na bagay.  Kahit na hindi niya naaalala kung saan nakuha, malaman niya na kapag nakatititik sila, sila ay kumikilos tulad ng mga kamangha-manghang kwento.
+
+Isang  lumang, puting  bote ng sabon, na may kakaibang  aroma, ay bahagi rin ng koleksyon ni Ate Clara. Ayon sa Ate, ang bango ay sumasayaw sa paligid  ng hangin, tulad ng isang maliit na  puting  birhen. Ang bote ay madalas niyang ginagamit para maligo, kahit na minsan ay naging bapor para sa kanyang mga panaginip sa ilalim ng tubig.
+
+Ang  pinakamagandang bagay ni Ate Clara ay isang madilim na kayumanggi,  malambot na  baso,  na kasing-laki ng kanyang kamay. Ang baso na ito ang madalas niyang gagamitin kapag may gusto siyang ibuhos ng kanyang mga nararamdaman. Ito ay ang nagdadala sa kanya sa daan kung saan ang langit ay matamis,  kung saan ang mga ulap ay nagkukuwento.
+
+Minsan, pumunta siya sa kagubatan upang maghanap ng mga bato, bulaklak,  at damo. Inilipat niya ang kanyang mga mahahalagang bagay mula sa kahon, hanggang sa naging parang kuwaderno para isulat ang mga kuwento sa kagubatan.  Ang kagubatan ay naging kanyang muse dahil sinabi niya na ang mga kagubatan ay pinaka maayos na lugar.  
+
+Isang araw, isang matandang lalaki ang nakita ni Ate Clara na nagtitinda ng mga kulay na tela sa tabi ng kalsada.  Pinabayaan niya ang kanyang mahalagang mga bagay at tumuloy sa pagkuha ng makukulay na kulay, hanggang sa makakuha siya ng isang napakagandang bagay. Isang larawang tinatakan sa kahon.  Isang larawan kung saan ang mga pangarap at  mga kuwento ay magkakasama.
+
+Bumalik si Ate Clara, may mga makukulay na tela.  Sinabi niya sa lalaki na napakahalaga ng kanyang koleksyon sa kanya. Sinabi niya kung gaano kalalim ang mga bagay na para sa kanya. Sinabi rin niya ang kanyang nararamdaman tungkol sa buhay at sa kanyang mga pangarap, nang bukas sa kanya ang isang mundo ng kuwento.
+
+Si Ate Clara ay masaya sa kanyang mga mahalagang bagay. Sa halip na ang mga mamahaling regalo, pinili niyang hanapin ang kanyang kayamanan sa mga bagay na nakapaligid sa kanya, sa mga kwento at ala-ala na dinala nila.  At ang kanyang koleksyon, ay patuloy na lumalago, nagdadala sa kanyang sariling kagandahan.
+</body>

@@ -1,0 +1,255 @@
+<prompt>
+Please write a dialog-based French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Les gâteaux enchantés de la boulangère et la recette secrète de joie.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```xml
+<title>Les gâteaux enchantés de la boulangère et la recette secrète de joie.</title>
+<body>
+**Chapitre 1 : La boulangerie enchantée**
+
+*Personnages :*
+*   **Mme Étoile :** La boulangère, avec un cœur d'or et des cheveux argentés.
+*   **Sophie :** Une petite fille curieuse et gourmande.
+*   **Théo :** Le meilleur ami de Sophie, un garçon joyeux et plein d'énergie.
+
+*Lieu :* La boulangerie "Douceurs Célestes".
+
+*(Sophie et Théo entrent dans la boulangerie, leurs yeux brillants.)*
+
+**Sophie :** Waouh, Théo! C'est encore plus magique que dans mes rêves!
+
+**Théo :** Regarde tous ces gâteaux ! On dirait des étoiles !
+
+**Sophie :** Madame Étoile, bonjour !
+
+**Mme Étoile :** (Avec un sourire radieux) Bonjour, mes petits chéris ! Entrez, entrez ! Qu'est-ce qui vous amène aujourd'hui dans ma boulangerie enchantée ?
+
+**Théo :** On est venus pour... tout ! On veut tout goûter !
+
+**Mme Étoile :** (Riant doucement) Ah, l'appétit des enfants ! Ça me plaît beaucoup. Mais avant, dites-moi, quel gâteau vous fait le plus envie aujourd'hui ?
+
+**Sophie :** Hmm... Le croissant aux amandes a l'air délicieux.
+
+**Théo :** Moi, je voudrais bien un éclair au chocolat, s'il vous plaît !
+
+**Mme Étoile :** Très bon choix ! Mais vous savez, mes gâteaux ne sont pas de simples douceurs. Ils ont un petit secret...
+
+**Sophie :** Un secret ? Quoi donc ?
+
+**Mme Étoile :** Ils sont enchantés ! Chaque gâteau contient un peu de joie.
+
+**Théo :** De la joie ? Comment ça ?
+
+**Mme Étoile :** Lorsque vous les mangez, la joie se répand en vous, vous donnant envie de rire, de danser et de faire le bien.
+
+**Sophie :** C'est incroyable ! On dirait des gâteaux magiques !
+
+**Mme Étoile :** (Prenant les croissants et les éclairs) Exactement. Mais la vraie magie se trouve dans la recette... une recette très spéciale, appelée "la recette secrète de joie."
+
+**Théo :** La recette secrète ? Vous allez nous la dire ?
+
+**Mme Étoile :** Ce serait trop facile, n'est-ce pas ? Mais je peux vous donner un indice… Le premier ingrédient de la joie, c'est la gentillesse.
+
+**Sophie :** La gentillesse ? Comme... aider les autres ?
+
+**Mme Étoile :** Exactement. Maintenant, dégustez vos gâteaux enchantés et dites-moi ce que vous ressentez.
+
+*(Sophie et Théo dégustent leurs gâteaux. Leurs yeux brillent encore plus qu'avant.)*
+
+**Théo :** Oh là là ! C'est… c'est… incroyable !
+
+**Sophie :** Je me sens si heureuse ! J'ai envie de faire des câlins à tout le monde !
+
+**Mme Étoile :** (Souriant) Voyez ? La joie commence à faire son effet.
+
+**Chapitre 2 : La quête de gentillesse**
+
+*Personnages :*
+*   **Mme Étoile**
+*   **Sophie**
+*   **Théo**
+*   **Monsieur Dupont :** Un vieil homme triste.
+
+*Lieu :* La boulangerie et le parc.
+
+**Théo :** Madame Étoile, vous êtes la meilleure boulangère du monde ! On reviendra tous les jours !
+
+**Sophie :** Mais on veut apprendre la recette secrète de joie !
+
+**Mme Étoile :** Patience, mes petits gourmands. La joie ne s'apprend pas en un jour. Il faut la vivre. Et l'ingrédient principal, je vous l'ai dit, c'est la gentillesse. Sortez de la boulangerie et trouvez-en.
+
+**Théo :** Où ça, de la gentillesse ?
+
+**Mme Étoile :** Partout ! Regardez autour de vous. Vous verrez.
+
+*(Sophie et Théo sortent de la boulangerie. Ils se promènent dans le parc.)*
+
+**Sophie :** On devrait essayer d'aider quelqu'un !
+
+**Théo :** Bonne idée ! Mais qui ?
+
+*(Ils aperçoivent Monsieur Dupont assis sur un banc, le regard triste.)*
+
+**Sophie :** Regarde, Théo... il a l'air triste.
+
+**Théo :** On pourrait lui parler !
+
+*(Ils s'approchent de Monsieur Dupont.)*
+
+**Sophie :** Bonjour, monsieur. Ça va ?
+
+**Monsieur Dupont :** (Levant la tête, un peu surpris) Bonjour les enfants. Oui, ça va… comme ci comme ça.
+
+**Théo :** Vous avez l'air un peu triste. Qu'est-ce qui ne va pas ?
+
+**Monsieur Dupont :** Oh, rien d'important. Juste un peu seul aujourd'hui. Et mes fleurs ont fané.
+
+**Sophie :** On peut vous aider ! On adore les fleurs !
+
+**Théo :** Oui ! On pourrait peut-être vous en rapporter !
+
+**Monsieur Dupont :** (Souriant faiblement) Ce serait gentil. Mais je n'ai plus de jeunes arbres non plus.
+
+**Sophie :** (Lançant un regard à Théo) Attends une seconde. J’ai une idée. On peut les arroser !
+
+**Théo :** Super idée ! On a des arrosoirs à la maison !
+
+*(Ils courent chez eux, reviennent avec des arrosoirs et arrosent les plantes fanées de Monsieur Dupont. Ils parlent avec lui, lui racontent des blagues et rient ensemble. )*
+
+**Monsieur Dupont :** (Riant pour la première fois) Merci les enfants ! Vous êtes de vrais rayons de soleil ! Je me sens déjà beaucoup mieux.
+
+**Sophie :** C'est normal, monsieur ! On est là pour ça !
+
+**Théo :** Et vous devriez planter de nouvelles fleurs ! On peut vous aider à choisir les couleurs.
+
+**Monsieur Dupont :** Vous êtes adorables. Peut-être bien que je vais le faire, grâce à vous.
+
+**Chapitre 3 : Le retour à la boulangerie et l'indice**
+
+*Personnages :*
+*   **Mme Étoile**
+*   **Sophie**
+*   **Théo**
+*   **Monsieur Dupont**
+
+*Lieu :* La boulangerie.
+
+*(De retour à la boulangerie, Sophie et Théo sont tout excités.)*
+
+**Sophie :** Madame Étoile, Madame Étoile ! On a fait preuve de gentillesse !
+
+**Théo :** On a aidé Monsieur Dupont, qui était très triste. Et il a ri !
+
+**Mme Étoile :** (Les écoutant avec un grand sourire) Ah, je suis ravie ! Vous avez trouvé la gentillesse !
+
+**Sophie :** Oui ! Et il a dit qu'on était des rayons de soleil !
+
+**Théo :** C’était super de le faire rire ! On était super heureux après ça!
+
+**Mme Étoile :** Et maintenant, dites-moi… comment vous sentez-vous ?
+
+**Sophie :** On se sent… bien ! Heureux ! Comme… encore plus heureux qu’après avoir mangé un gâteau !
+
+**Théo :** On ressent comme… de la joie !
+
+**Mme Étoile :** (Prenant des croissants frais) C'est ça, mes chéris. Vous avez goûté à la véritable joie, celle que vous fabriquez vous-mêmes.
+
+**Sophie :** Mais la recette, madame ?
+
+**Mme Étoile :** (Riant) Patience… Je vous donne un autre indice. Le deuxième ingrédient de la recette est… la patience. Il faut du temps pour que la joie fleurisse complètement.
+
+**Théo :** La patience… C’est facile ça !
+
+**Sophie :** (En rigolant) C’est toi qui le dis ! Mais c’est quoi le prochain ingrédient ?
+
+**Mme Étoile :** Vous le découvrirez en temps voulu. En attendant, prenez ces croissants, ils sont fraîchement sortis du four !
+
+*(Ils mangent les croissants, se sentant encore plus joyeux.)*
+
+**Sophie :** Merci, Madame Étoile !
+
+**Théo :** On revient demain pour découvrir le prochain ingrédient!
+
+**Mme Étoile :** Avec grand plaisir, mes petits amis. Mais n'oubliez pas… la gentillesse est toujours la clé. Et la patience, elle va ensemble.
+
+*(Monsieur Dupont entre dans la boulangerie, tenant un bouquet de fleurs magnifiques.)*
+
+**Monsieur Dupont :** Madame Étoile, je voulais vous remercier… et vous offrir ces fleurs, cultivées avec l'aide de ces deux merveilles.
+
+**Mme Étoile :** (Admirant les fleurs et les regardant, tour à tour) Mais c'est magnifique ! Vous avez fait un travail admirable! La joie grandit, on dirait…
+
+*(Monsieur Dupont souris à Sophie et à Théo, qui lui renvoient son sourire avec enthousiasme. La boulangerie brille d’une lumière particulière.)*
+
+**Chapitre 4 : La danse de l'amour et le dernier secret.**
+
+*Personnages :*
+*   **Mme Étoile**
+*   **Sophie**
+*   **Théo**
+*   **Les enfants du parc**
+
+*Lieu :* Le parc et la boulangerie.
+
+*(Le lendemain, Sophie et Théo rejoignent Madame Étoile et trouvent quelques enfants qu’ils connaissent dans la boulangerie, tous animés.)*
+
+**Théo :** Madame Étoile, qu’est-ce que c’est que ça ?!
+
+**Mme Étoile :** (En souriant) Mes chéris ! Le temps de la joie a sonné !
+
+**Sophie :** Mais comment ? Quoi de neuf ?
+
+**Mme Étoile :** Le troisième ingrédient, qui révèle tout ! L’Amour !
+Vous l’avez dans le coeur.
+
+**Théo :** L’amour ?!
+
+**Mme Étoile :** En aidant les autres, en appréciant ceux que vous avez autour de vous… Vous démontrez votre amour !
+
+**(Plus tard, au parc…)**
+
+*(Les enfants rient et jouent, se tenant les mains. La musique jaillit. Ils ont fabriqué un gâteau géant et dansent en rond en l’honneur de Mme Étoile.)*
+
+**Sophie :** Je comprends tout, maintenant !
+
+**Théo :** L'amour c’est aider les autres !
+
+**Mme Étoile :** Exactement ! Mais ce n’est pas tout ! Le dernier secret se trouve dans l’appréciation du présent !
+
+**(De retour à la boulangerie…)**
+
+**Mme Étoile :** Et le dernier secret, pour tous les gâteaux enchantés, c'est l'appréciation du moment présent!
+
+**Sophie et Théo, ensemble :** Le gâteau, le soleil, vous! Tout ensemble!
+
+**Mme Étoile :** Quand vous mangez les gâteaux, pensez à savourer chaque bouchée ! Le moment est toujours parfait quand on le veut !
+
+**Théo :** Génial! Maintenant, comment faire un gâteau enchanté?!
+
+**Mme Étoile :** C'est simple! Un peu de farine, de beurre… de gentillesse, de patience et d'amour! Savourez le moment de la préparation !
+
+**Sophie :** On pourra aider à en faire ?
+
+**Mme Étoile :** Bien sûr ! Nous les préparerons ensemble ! Nous pourrons ensemble créer le plaisir ! Mais avant de commencer à fabriquer un nouveau gâteau…
+
+*(Mme Étoile prépare un dernier gâteau.)*
+
+**Mme Étoile :** Je vais vous laisser ce gâteau, en cadeau, car il vient d’un cœur… Remerciez vos amis, chéris!
+
+**Théo :** On vous aime !
+
+**Sophie :** Pour vous !
+
+*(Sophie et Théo embrassent chacun Mme Étoile, qui leur sourit, pleine de bonheur. La boulangerie est inondée de lumière et le parfum de joie et de pâtisserie. Sophie et Théo s'embrassent les amis autour d'eux, tout est enchanté. Le secret de joie se trouve ainsi répandu à tous !)*
+
+**(Fin)**
+</body>
+```

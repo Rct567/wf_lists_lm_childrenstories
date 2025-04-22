@@ -1,0 +1,99 @@
+<prompt>
+Please write a uncomplicated French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La Recherche Du Soleil Volé Le Matin'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```html
+<title>La Recherche Du Soleil Volé Le Matin</title>
+<body>
+Il était une fois, dans un petit village fleuri, un petit lapin nommé Léo. Léo avait des oreilles très longues et un nez rose qui frétillait constamment. Il aimait par-dessus tout jouer dehors, courir dans les champs de trèfles et sentir l'odeur de la rosée matinale. Mais un matin, quelque chose d'étrange s'est produit.
+
+Le soleil, ce grand disque doré qui illuminait le monde, avait disparu.
+
+Léo ouvrit ses grands yeux et resta bouche bée. Normalement, à cette heure-ci, le soleil brillait de mille feux, réchauffant sa fourrure douce. Mais aujourd'hui, il faisait sombre, froid et triste.
+
+"Oh non!" s'exclama Léo, sa petite voix tremblant. "Où est passé le soleil ?"
+
+Il sortit précipitamment de sa maison, une petite tanière sous un grand chêne. Les autres animaux du village semblaient aussi confus et inquiets. Les oiseaux ne chantaient pas, les fleurs se recroquevillaient et les papillons restaient cachés sous les feuilles.
+
+Léo décida qu'il devait absolument trouver le soleil. Il sentait qu'il était de sa responsabilité de ramener la lumière et la joie au village. Il prit son petit panier en osier et partit à l'aventure.
+
+"Bonjour, madame la chouette !" dit Léo, en apercevant la chouette perchée sur une branche. "Savez-vous où est le soleil ?"
+
+Madame la chouette, avec ses grands yeux perçants, secoua la tête. "Non, petit Léo, je ne l'ai pas vu. Mais j'ai entendu dire qu'il y avait eu des murmures de méfaits dans les collines au loin. Peut-être devriez-vous aller y jeter un coup d'œil."
+
+Léo remercia madame la chouette et se mit en route vers les collines. Il trotta, trotta et trotta. Il traversa des champs de marguerites, sauta par-dessus des ruisseaux scintillants et évita habilement les piquants des ronces.
+
+Il rencontra ensuite une famille de hérissons.
+
+"Bonjour, petits hérissons !" dit Léo. "Avez-vous vu le soleil ?"
+
+Le plus jeune hérisson, un petit garçon, répondit : "Le soleil ? Non, mais nous avons vu une ombre bizarre se faufiler dans les bois. Elle avait l'air… méchante."
+
+"Méchante ?" demanda Léo, surpris.
+
+Les hérissons acquiescèrent. "Oui, très méchante. Et elle ressemblait à une grande ombre sombre."
+
+Léo commença à sentir le cœur battre un peu plus vite. Il sentait qu'il était sur la bonne voie, que quelque chose de mystérieux et de dangereux était à l'œuvre. Il remercia les hérissons et continua son voyage vers les bois sombres.
+
+Dans les bois, il rencontra un vieux renard. Le renard, avec son pelage roux et ses yeux malins, était connu pour ses tours.
+
+"Bonjour, monsieur le renard," dit Léo avec prudence. "Avez-vous vu le soleil ?"
+
+Le renard sourit d'un air rusé. "Le soleil ? Ah, oui, je crois que je sais quelque chose à ce sujet. Mais pourquoi devrais-je vous le dire, petit lapin ?"
+
+Léo hésita un instant. Il savait que le renard était un peu espiègle, mais il sentait qu'il pouvait être une clé pour résoudre l'énigme du soleil disparu. "Je dois le trouver, monsieur le renard," dit Léo avec détermination. "Le village a besoin de lui. Sans le soleil, les fleurs se flétrissent, les oiseaux ne chantent pas et nous sommes tous tristes."
+
+Le renard réfléchit un instant, puis, avec un soupir théâtral, il dit : "Eh bien, puisque vous insistez… Je crois savoir où se trouve le soleil. Il a été volé par le grand Corbeau Noir, le plus mauvais de tous les corbeaux ! Il vit dans la grotte sombre, là-haut, sur la montagne."
+
+Léo était horrifié. Le Corbeau Noir était connu pour ses manigances et sa cupidité. Il adorait tout ce qui était précieux, et le soleil était sûrement son plus beau trésor.
+
+"Comment pouvons-nous le récupérer ?" demanda Léo, découragé.
+
+"Il vous faudra de l'ingéniosité, de la bravoure et… peut-être un peu de chance," répondit le renard. "Le Corbeau Noir est très fort et il garde bien son butin."
+
+Le renard lui donna quelques conseils : "N'ayez pas peur de vous cacher, utilisez votre intelligence, et faites attention à ses griffes acérées."
+
+Léo, le cœur battant, remercia le renard et se lança à l'assaut de la montagne, courageux et déterminé. La route était rude. Il dut escalader des rochers escarpés, traverser des sentiers glissants et éviter les arbres tombés. Mais il ne renonça jamais.
+
+Enfin, il arriva devant la grotte sombre. Une odeur de poussière et de méchanceté flottait dans l'air. Léo, tremblant légèrement, pénétra dans la grotte.
+
+À l'intérieur, c'était obscur et froid. Le Corbeau Noir, avec ses plumes noires comme l'encre et ses yeux perçants, était assis sur un grand tas d'objets brillants. Et au centre, rayonnant d'une lumière dorée, se trouvait… le soleil !
+
+Léo prit une profonde inspiration et s'avança. "Corbeau Noir," dit-il d'une voix forte, "vous n'avez pas le droit de voler le soleil !"
+
+Le Corbeau Noir gloussa. "Petit lapin, le soleil est à moi ! Il est si beau, si brillant, et je veux le garder pour moi."
+
+Léo réfléchit rapidement. Il savait qu'il ne pouvait pas vaincre le Corbeau Noir par la force. Il décida donc d'utiliser son intelligence.
+
+"Mais… savez-vous que le soleil est beaucoup plus beau quand il brille pour tout le monde ?" demanda Léo. "Il réchauffe les cœurs, fait grandir les fleurs et fait chanter les oiseaux. Sans lui, tout le monde est triste."
+
+Le Corbeau Noir fronça les sourcils. Il n'avait jamais pensé à ça. Il avait juste pensé à sa propre satisfaction.
+
+Léo continua : "Je sais que vous aimez les choses brillantes. Pourquoi ne pas garder les trésors que vous avez ici ? Mais le soleil, il doit appartenir à tout le monde. Ce n'est pas juste de le garder pour soi."
+
+Le Corbeau Noir réfléchit longuement. Il regarda le soleil, puis il regarda Léo. Finalement, il soupira. "Vous avez raison, petit lapin. C'est vrai."
+
+Le Corbeau Noir, à contrecœur, laissa tomber le soleil. Léo courut vers lui et le souleva doucement. Le soleil était chaud et agréable au toucher. Il était tout à fait merveilleux.
+
+Ensuite, Léo et le Corbeau Noir quittèrent la grotte et sortirent vers le ciel bleu.
+
+Léo ramena le soleil au village, le tenant très fort.
+
+Quand le soleil apparut, les nuages se dissipèrent, les oiseaux recommencèrent à chanter et les fleurs se déployèrent. Le village entier était rempli de joie.
+
+Léo avait accompli une grande chose. Il avait récupéré le soleil.
+
+Les habitants du village applaudirent et félicitèrent Léo pour son courage et sa gentillesse. Ils lui offrirent des carottes, des trèfles et beaucoup d'amour.
+
+Le Corbeau Noir, après avoir vu tout ça, finit par comprendre qu'il était plus heureux quand il faisait le bien pour tout le monde.
+
+Et depuis ce jour, le soleil brillait toujours au-dessus du village, et Léo, le petit lapin courageux, devint le héros du village.

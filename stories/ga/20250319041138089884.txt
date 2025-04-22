@@ -1,0 +1,71 @@
+<prompt>
+Please write a timeless Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Imreoirí Mhara, An Saothar Eireann'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>ga</lang_id>
+
+```xml
+<title>Imreoirí Mhara, An Saothar Eireann</title>
+<body>
+Bhí an ghrian ag taitneamh go geal ar bharr Shliabh na mBan, agus na tonnta ag bualadh go bog i gcoinne na trá. Ba lá foirfe é chun scéala a insint, a scéal fada, fada ó shin.
+
+I mbaile beag i gCiarraí, bhí beirt pháistí óga: Saoirse agus Ciarán. Bhí gruaig dhonn ar Saoirse agus súile glasa cosúil le féar na hÉireann, agus gruaig rua ar Chiarán agus súile gorma mar an fharraige. Bhí an fharraige ina beatha do Chiarán, agus ba bhreá léi Saoirse fite fuaite léi freisin. Bhí a dteachín beag suite ar an gcósta, áit ar chuala siad scéalta faoi imreoirí mara, daoine a chuaigh amach ar an bhfarraige i mbáid bheaga, agus a chuaigh in iomaíocht le tonnta móra, a mhacasamhail a bhaint amach agus dul i ngleic leo.
+
+Gach maidin, thiomsaigh Saoirse agus Ciarán síos go dtí an trá, ag lorg clocha breátha agus sliogáin. Ba bhreá leo an lá a chaitheamh ag súgradh le chéile, ag imirt foscadh in aghaidh na gcnoc gainimh agus ag déanamh túr bheaga leis na sliogáin.
+
+Lá amháin, agus iad ag bailiú clocha, chonaic Saoirse agus Ciarán rud éigin aisteach. Ar an ngaineamh, bhí seolta bheaga, datha le glas agus bán. Bhí siad i bhfoirm bád beag, ach gan chorp, gan íochtar, ag suí díreach ar an ngaineamh. Ba cosúil gur seolta bhí ann go bunúsach. Chuaigh siad níos gaire agus thuig siad gurbh iad na seolta a bhí á n-úsáid ag na imreoirí mara sna scéalta.
+
+“Ó, Ciaráin,” a dúirt Saoirse, a súile ag taitneamh. “Féach, is iad seo na seolta a úsáideann na himreoirí mara!”
+
+"Sea, is cinnte,” a fhreagair Ciarán. “Is dóigh liom go bhfuil rúin iontu!”
+
+Thóg siad na seolta leo abhaile, áfach, ní raibh aon rud eile i gcóngar dóibh ach na gaineamh agus na farraige. Shroich siad an teach agus chuir siad na seolta ar bhord, áfach, ní raibh an áit cheart acu, áfach, d’áit ar an tábla. D’fhéach siad ar a chéile, an dá shúil le fiosracht.
+
+An lá dár gcionn, le linn dóibh bheith ag siúl timpeall na farraige, chonaic siad fear d’aois os comhair iad, a raibh gruaig bhán agus feisteas garbh air. Bhí sé ag déanamh obair ar bád adhmaid beag.
+“Dia duit,” a dúirt Ciarán, agus Saoirse ina thoin leagtha isteach. “Cad atá á dhéanamh agat?”
+
+“Tá mé ag déanamh báid,” a fhreagair an fear. “Báid do na himreoirí mara.”
+
+“Imreoirí mara?” a dúirt Saoirse. “An duine tú a dhéanann na báid do na himreoirí mara?"
+
+D'fhéach an fear orthu le gáire. "Tá mé, go deimhin. Is mise Seán.”
+
+Tharraing Seán aníos. Bhí gach aon bád á thógáil ag Seán agus is iad na báid seo a d’úsáid na himreoirí mara san am atá caite.
+
+"Tharla mé ar na seolta seo,” a dúirt Saoirse, ag tarraingt amach na seolta bheaga. "Is eol d'éinne iad seo?"
+
+D’fhéach Seán ar na seolta, agus osna ar a aghaidh. “Sin na seolta a úsáideadh na himreoirí mara fadó. Ba cheart dóibh dul ar ais ar an bhfarraige."
+
+“Conas a oibríonn siad?” a d'fhiafraigh Ciarán.
+
+"Is obair rúnda é," a dúirt Seán go meidhreach, ag tabhairt amharc dóibh le tuiscint. "Ní mór duit creideamh a bheith agat, go bhfuil diongbháilteacht agus cruatan ann."
+
+Chuaigh Saoirse agus Ciarán ar ais abhaile, an scéal ag dul ar imirce ina gcinn. An lá dar gcionn, chruinnigh siad gach rud a bhí ag teastáil le haghaidh iascaireachta – slat iascaireachta ó Chiarán, buicéad, agus rópa ón mbábóg bheag agus iad go léir ó Saoirse. D'fhéach siad ar an bhfarraige, ag cur na seolta ina n-áit le dóchas. D'eitir na seolta, d'oscail na seolta ar fhad, agus bhí an bheirt phráite ag a gcoinníoll, sásta, ar an bhfarraige.
+
+Lean an bheirt pháiste ar aghaidh leis an imreoirí mara agus iad ag iarraidh an teist a bhaint amach ó fhoinse na dtonnta. Bhí siad ag iomrádh na farraige, ó dhea-chóir, ó amharc is ón gcúl. D'oibrigh siad go crua, ag foghlaim faoi na sruthanna, faoi na gaotha, agus faoin mbealach leis an mbád beag a stiúradh trí na tonnta móra. Tharla uaireanta go raibh faitíos orthu, go raibh an fharraige ag dul i gcéill dóibh. Ach cuimhnigh siad ar fhocail Sheáin, ansin chuir siad a mbealach a n-obair leis an bhrú agus lena gcruatan féin.
+
+Lá amháin, agus iad amuigh ar an bhfarraige, tháinig stoirm mhór aníos. D'fhás na tonnta chomh hard le cnoic, agus bhí an ghaoth ag feadánach. Ba dheacair an báda bheag a choinneáil ceart. Ach cuimhnigh Saoirse agus Ciarán ar a dtraenáil, agus ar gach rud a d'fhoghlaim siad. Thug siad a gcuid beannacht ó dhúchas ar ais don mhuir agus bhain siad deireadh leis an bhfarraige.
+Chuaigh siad sa bhealach amach trí bhá na farraige, go dtí go sroich siad talamh slán arís. Agus iad ar tí teacht i dtír, tháinig siad ar ais chun iascaire, a d'inis go mbeadh siad sásta go mór lena sárú. Bhí súile na beirte lán de lúcháir, sásta gur thug an fharraige, ach bhí a mbeatha i gcónaí léi, ag dul i léig leis na hoileáin.
+
+Nuair a tháinig siad ar ais go dtí an teachín beag, bhí Seán ag fanacht leo. Bhí an meangadh céanna air agus bhí le feiceáil acu roimhe sin.
+
+"D'éirigh go maith libh," a dúirt sé. "D'éirigh libh go maith. Ba mhór an sárú é sin."
+
+Thug Saoirse agus Ciarán anáil dhomhain. "Bhí sé deacair, ach bhí sé iontach," a dúirt Saoirse.
+
+"Thuig muid anois," a dúirt Ciarán, "go bhfuil neart mór sa chroí."
+
+"Sea," a dúirt Seán. "Is iad an creideamh, an diongbháilteacht agus an obair chrua a thugann fíorshaothar duit. Tá tú anois ina n-imreoirí mara."
+
+Ón lá sin amach, lean Saoirse agus Ciarán ag imirt na mara. Choinnigh siad an bád bheag leis na seolta glasa agus bána agus chaith siad lá ar lá ar an fharraige. Gach uair a bhí stoirm ann, cuimhnigh siad ar na ceachtanna a d'fhoghlaim siad, agus lean siad ag dul in iomaíocht leis na tonnta, iad a tharrac ar chlé agus ar dheis, iad a láimhseáil is iad a rith ar feadh mílte ar feadh uaireanta. D’foghlaim siad, bhí a dtraenáil, a dtaithí ag teacht ar a mbealach féin.
+
+Agus chuaigh a scéal ar aghaidh, cosúil leis an bhfarraige, ag dul isteach ar fud na gcéadta bliain, á inse leis na páistí go léir a dúirt leo scéalta ar nós naimhde. Agus ba ea, an scéal beag álainn sin - tá sé in úsáid fós.
+</body>
+```

@@ -1,0 +1,65 @@
+<prompt>
+Please write a emotional Portuguese (Brazil) children's story that is at least 1000 words long.
+It must be completely written in proper Portuguese (Brazil) (PT_BR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A Princesa Aurora e o Baile no Reino Encantado.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pt_br</lang_id>
+
+```xml
+<title>A Princesa Aurora e o Baile no Reino Encantado</title>
+<body>
+Era uma vez, em um reino distante, envolto em névoas cor de ametista e banhado pelo sol dourado, o Reino Encantado. Ali vivia a Princesa Aurora, cujo nome, "Aurora", refletia a beleza e a esperança que ela irradiava. Seus cabelos, como fios de ouro, dançavam ao vento e seus olhos, da cor do céu da manhã, refletiam uma alma gentil e curiosa.
+
+A princesa Aurora não era como as outras princesas. Em vez de vestidos pomposos e joias cintilantes, ela preferia as roupas simples, feitas de linho macio e cores da terra, e se deleitava em explorar os campos floridos e os bosques sussurrantes do reino. Sua maior alegria residia na companhia dos animais da floresta: esquilos travessos, coelhos saltitantes e pássaros que cantavam melodias encantadoras em seus ombros.
+
+No entanto, a alegria de Aurora carregava uma sombra. Seus pais, o Rei Augusto e a Rainha Sofia, embora a amassem profundamente, estavam consumidos pela preocupação com o futuro do reino. Eles desejavam que Aurora se casasse com um príncipe de um reino vizinho, unindo seus povos e garantindo a prosperidade para sempre. A ideia de casar, porém, enchia o coração de Aurora com uma tristeza silenciosa. Ela não queria ser apenas uma rainha; queria descobrir o seu próprio caminho, seguir os seus sonhos e encontrar a felicidade que residia em seu interior.
+
+Um dia, o Reino Encantado recebeu um convite especial: um baile de gala no palácio real. Seria uma oportunidade para conhecer príncipes de reinos próximos e, quem sabe, encontrar um noivo digno. A notícia agitou todo o reino. Costureiras trabalhavam a todo vapor, preparando vestidos deslumbrantes, e perfumistas criavam fragrâncias inebriantes. Aurora, no entanto, sentia um peso no peito. A perspectiva do baile a angustiava, pois ela sabia que ele significaria o começo de uma jornada que não lhe pertencia.
+
+"Minha querida Aurora", disse a Rainha Sofia, com ternura, ao entrar no quarto da princesa, onde ela se escondia em meio a seus livros e desenhos. "Precisamos que você esteja linda para o baile. É uma chance de fazer o bem pelo reino, de mostrar ao mundo a nossa força."
+
+Aurora olhou para sua mãe, sentindo a mágoa invadir seus olhos. "Mãe, eu sei que é importante… mas eu não quero me casar com alguém que não amo, para cumprir um dever que não é o meu."
+
+A Rainha Sofia sentou-se ao lado da filha, acariciando seus cabelos dourados. "Eu entendo, meu amor. Sei que você tem um coração puro e um espírito livre. Mas às vezes, a felicidade se encontra onde menos esperamos. E o amor... o amor pode surgir de maneiras inesperadas."
+
+Na noite do baile, o palácio resplandecia. Lustres de cristal iluminavam os salões, a música ecoava e risos enchiam o ar. Aurora, relutante, entrou na festa, vestindo um vestido simples, mas elegante, em tons de verde-esmeralda. Ela se sentia observada, cada passo pesado com a expectativa dos outros.
+
+Enquanto dançava com vários príncipes, todos educados e charmosos, mas distantes, Aurora sentia-se cada vez mais isolada. Nenhum deles parecia se importar com seus sonhos ou sua paixão pela natureza. Suas conversas giravam em torno de política, alianças e riquezas. O vazio no seu peito se expandia, e a vontade de fugir daquele ambiente se tornava quase insuportável.
+
+De repente, em meio à multidão, seus olhos encontraram os de um jovem. Ele não era um príncipe, mas um humilde jardineiro, que cuidava dos jardins do palácio. Seus olhos, da cor da terra fértil, brilhavam com gentileza e compreensão. Ele a observava de longe, com um sorriso discreto, mas cativante.
+
+Intrigada, Aurora sentiu uma forte atração por ele. Depois de um breve olhar, ela usou uma desculpa educada e se afastou de seus pretendentes. Caminhou cautelosamente para o terraço do palácio, onde encontrou o jardineiro, chamado Tomás, admirando as estrelas.
+
+"Linda noite, não acha?", disse Tomás, ao perceber a princesa.
+
+Aurora sentiu um alívio imediato. "Sim, é verdade. As estrelas parecem mais brilhantes fora daqui."
+
+Eles começaram a conversar, e a timidez inicial logo se dissipou. Tomás falava sobre a natureza, sobre o ciclo da vida e a beleza das pequenas coisas. Aurora, por sua vez, falava sobre seus sonhos, suas paixões e a solidão que sentia em meio ao luxo e à pompa.
+
+Enquanto conversavam, a princesa descobriu que Tomás possuía uma sabedoria e uma bondade que ultrapassavam as fronteiras da realeza e da riqueza. Ele a entendia, aceitava suas singularidades e celebrava seu amor pela natureza. Era diferente de todos os príncipes que havia conhecido.
+
+Nas semanas seguintes, Aurora e Tomás se encontravam secretamente no jardim do palácio. Lá, sob o luar e a sombra das árvores, construíram uma amizade que floresceu em um amor profundo e verdadeiro. Aurora nunca havia se sentido tão feliz e completa. A presença de Tomás a fazia sentir que ela podia ser ela mesma, sem máscaras nem pretensões.
+
+Um dia, o Rei Augusto descobriu os encontros de Aurora e Tomás. Irritado, ele convocou a princesa para uma audiência urgente. "Aurora, você está envergonhando o reino!", exclamou o rei, sua voz trovejando. "Um jardineiro? Você precisa se casar com um nobre! Com alguém que traga glória e prosperidade!"
+
+Aurora, apesar do medo, não se intimidou. Com o coração batendo forte, mas com a voz firme, ela respondeu: "Pai, eu não me envergonho do meu amor por Tomás. Ele pode não ser nobre, mas ele é bom, gentil e me faz feliz. E a felicidade, para mim, é a maior riqueza que existe."
+
+O rei ficou em silêncio, perplexo com a audácia da filha. A Rainha Sofia, que observava a cena, segurou a mão do marido, com os olhos marejados. Ela sabia que Aurora estava certa, que o amor verdadeiro não conhece barreiras.
+
+Depois de uma longa pausa, o Rei Augusto suspirou e, com a voz embargada, disse: "Aurora… eu te amo. Quero que você seja feliz. Se este jardineiro é capaz de te dar a felicidade que você busca… então, que seja."
+
+Com um sorriso radiante, Aurora correu para abraçar o pai. Então, juntos, pais e filha foram procurar Tomás no jardim. Lá, sob um sol brilhante, o Rei Augusto, a Rainha Sofia e a Princesa Aurora selaram o futuro do reino.
+
+Tempos depois, o Reino Encantado se preparava para um novo tipo de celebração. O casamento da Princesa Aurora e do humilde jardineiro, Tomás. A notícia se espalhou como fogo, e o reino inteiro se alegrou. Todos sabiam que o amor e a felicidade de Aurora eram mais importantes do que qualquer título ou aliança.
+
+No dia do casamento, o sol brilhou ainda mais forte, e as flores do jardim, cultivadas por Tomás, exalavam um perfume inebriante. Aurora, vestida com um vestido simples, mas resplandecente, caminhou pelo jardim até o altar, de braços dados com seu pai. Seus olhos brilhavam de felicidade, e seu sorriso irradiava para todos.
+
+A cerimônia foi simples e sincera, cheia de promessas de amor eterno. Ao final da celebração, o Rei Augusto ergueu a taça e brindou aos noivos, à felicidade e ao amor verdadeiro. E o Reino Encantado, agora sob o reinado de uma princesa que escolheu o amor em vez do dever, prosperou mais do que nunca, pois aprendera que a verdadeira riqueza reside nos corações das pessoas. A história de Aurora e Tomás se tornou uma lenda, contada por gerações, um conto sobre a importância de seguir o próprio coração e a beleza do amor que transcende todas as fronteiras.
+</body>
+```

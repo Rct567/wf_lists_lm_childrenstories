@@ -1,0 +1,35 @@
+<prompt>
+Please write a relatable Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A Pöttöm Pingvin és a Hűvös Tenger titkai.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>A Pöttöm Pingvin és a Hűvös Tenger titkai.</title>
+<body>
+A Déli-sarkon, a jéghegyek között, egy apró, pöttöm pingvin élt, akit Pipinek hívtak. Pipi nem volt olyan erős, mint a többi pingvin, szárnyai nem voltak olyan lendületesek, és úszni sem tudott olyan gyorsan.  Sokkal inkább szerette a csendes, napsütötte órákat, amikor a tengerparton a kagylókat gyűjtögette, vagy a jéghegyek árnyékában meséket szőtt a hullámokról.
+
+A többi pingvin, akik nagydarab és erős pingvinek voltak, nevetgéltek Pipin, és gyakran mondták neki, hogy "Lassú pingvin!" vagy "A szél segíthetne neked repülni!".  Pipi szívén fájt ez a gúny, és gyakran elbújt a jéghegyek mögé, hogy senki se lássa a könnyeit.
+
+Egy szeles napon, miközben a parton ült, és egy csillogó, kék kagylót forgatta a kezében, egy furcsa, mély, hűvös hang hallatszott a távolból. A hang egyre közelebb szólt, és Pipi felnézett. A horizonton, a kék tenger felett, egy hatalmas, kékes-szürke felhő, egy különös, titokzatos felhő lebegett, és a tenger felszíne is úgy tűnt, hogy forróságtól és zsongástól remeg.
+
+Pipi értette, hogy valami szokatlan történik.  A felhőből egy fényes, ezüstös sugár tört ki, és a víz felszínén apró, fényes, kék szikrák táncoltak.  Pipi alig tudta elhinni a látványt.  A szél most hirtelen elcsendesedett, és Pipi érezte a tengerből áradó hűvös szellőt.  Ez a hang, ez a látvány! Biztosan a Hűvös Tenger titkai rejtőznek itt valahol.
+
+Biztosan nem tudta, hogy mi vár rá, de valamiért magával ragadta a kíváncsiság.  A többi pingvin persze gúnyolta, de Pipi nem törődött velük.  Bátor szívvel indult a titokzatos felhő felé.  A hullámok, mint óriás, játszó pingvinek, ringatták a kis pingvint a vízre.
+
+A hűvös tenger egy olyan hely volt, amit még senki nem látott.  A víz olyan volt, mint a kristály, és a mélységben színes halak, mint a tündérek táncoltak.  A levegő tele volt a tiszta jég szagával és a virágzó tengeri növények illatával.  Pipi úszott és úszott, a víz mint egy lágy takaró ölelte körül.
+
+A víz mélyén, egy hatalmas, gyöngyházfényű kagylóban Pipi megtalálta a választ.  A kagyló belsejében régi, bonyolult betűkben íródott egy levél.  A levél elmesélte a Hűvös Tenger titokzatos történetét, arról, hogy ez a tenger nem a jég és a hideg birodalma, hanem a nyugalom és a béke szigete.  Elmondta, hogy minden pingvin különleges, és a lassúság nem gyengeség, hanem egy különleges képesség.
+
+Pipi, amikor megértette a levél üzenetét, egy új, erős érzést érez.  Felismerte, hogy a lassúsága nem egy hátrány, hanem egy erőforrás, mely lehetővé teszi számára, hogy észre vegye a szépségeket és az apró részleteket a világban.  A lassúság lehetőséget nyújt arra, hogy a szépséget és a csodákat megtalálja az életben.
+
+Pipi, a pöttöm pingvin, nem csak felfedezte a Hűvös Tenger titkait, de meg is értette, hogy a saját ereje és különlegessége rejlik a szívében.  Aznap Pipi már nem volt egyedül, hanem a titkos tengerben is megtalálta a barátját, a belső békét.
+
+Térjék vissza a világhoz, és mind a tengerben, mind a pingvinek körében megosztották a titkot, hogy a különlegesség nem a nagyságban, hanem a szeretetben és a békében rejlik.  Pipi, a lassú pingvin, már nem volt lassú, hanem a legegyedibb és legcsodálatosabb pingvin az egész világon.  A szél ismét fújni kezdett, a nap sütött, és a Hűvös Tenger titkai örökre a szívében maradtak.
+</body>

@@ -1,0 +1,39 @@
+<prompt>
+Please write a light-hearted Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Drakonėlio Gintaro ir Jo Naujų Draugų Nuotykiai'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lt</lang_id>
+
+<title>Drakonėlio Gintaro ir Jo Naujų Draugų Nuotykiai</title>
+<body>
+Ąžuolo lapuose, švelniai šnibždančiuose rytiniame vėjeli, gyveno mažas drakonėlis Gintaras. Jis nebuvo didelis, kaip legendiniai, ugnimi kvėpuojantys monstrai, o veikiau mielas, švelnus būtybėles. Jo oda spindėjo saulėje aukso spalvos švytėjimu, o vietoj ugnies iš burnytės čiulbėjo žavesingi varvekliai su šviežiomis žolelėmis.
+
+Gintaras gyveno mažame, į kalvelę įsitaisusiame urvelyje, apsuptame spalvingų gėlių ir švelnių žolynų. Vieną ryškią vasaros dieną, jį užklupo neįprastas smalsumas.  Jis pamatė, kaip šalia jo urvo ant šaknų stovi trijų spalvų šarka.  Vienos jos plunksnos buvo spalvotos tarsi saulėlydis, kitos – kaip  meduolių kepiniai, trečios – panašios į sušalusią upę.  Ši neįprasta paukštė pasaulio pėdas spaudė labai lėtai ir atidžiai, tarsi ieškodama paslaptingo ženklo. 
+
+„Labas dienelė!“, pasveikino Gintaras. Šarka pažvelgė į jį pro nepermatomus sparnus, savo akimis primenančiomis akvamariną ir pasisukusi pasakojo: „Ieškau dingovo žiedadulkių. Pasakoja, kad jos auga kažkur čia, netoliame slėnyje. Gal tu gali mane nuvesti?“
+
+Gintaras, nors ir nedrąsus,  sutiko padėti šarkai. Paėmęs ją ant nugaros, jie nusileido iš kalno.  Kelias buvo vingiuotas, pilnas egzotiškų gėlių,  ir netikėtai pasiekė atvirą pievą. Čia  žydėjo kažkokie žali žiedai, kurių niekada nebuvo matęs.  Kiekvienas žiedas buvo kaip gyvas žvaigždė ir  nešiojo mažus, kristalinius karoliukus. Tačiau nieko nebuvo ir  dingovo žiedadulkių.
+
+„Deja“, pasakė Gintaras. „Ne čia. Beviltiškai paieškojus, atsisėdo ant pievos,  ir  pamatyta šuniukas su blizgančiais juodais šunų akimis.  Jis  uodė žolę ir nepatogiai šiekšnčiojo.
+
+„Labas!“ pasveikino šuo,  įsigilindamas. „Aš esu  Rūtas, ir čia jau kurį laiką ieškau dingovo žiedadulkių. Gal mes galime bendradarbiauti?“ 
+
+„Tiek linksmiau, jei kartu!“ pritarė Gintaras.  Rūtas pasiūlė eiti į kitą slėnį,  tarp  baltų akmenų. Rūtas ir Gintaras sustojo, įsiklausę į nakties ūkius, iškart girdėdami  kukurūzų trilio, sklindančios iš toli, o iš čia, ir paukščių daina užuojaučiausi šiekšnia. Gintaras švystelėjo žaliais žvaigždžės žiedais ir pažymėjo šuniuko marškinius sidabrišku lašeliu. Galingasis Gintaras palaukę netyčia atskleidė kritinio žydėjimo stebuklą. 
+
+Tada jie pamatė jį – nuostabų, dingovo žiedadulkių kupiną augalą. Jo žiedai spinduliavo kaip saulė ir skleidė nuostabų kvapą. Gintaras iš visų jėgų nuėmęs nuo žiedo žiedadulkių, leido  jaunas ir linksmas  uždavinio sprendimas savo draugams.
+
+„Štai ji!“ pašūkavo Gintaras. Šarka ir šuo su didelėmis  sužavėjimu pamatė reginį ir pakuopė, stengėsi, kad visas jo grožis ir prašmes netrukdytų ir nepatenkintų nuoskaudos.
+
+Pildydamas pažadą, Gintaras atnešė  žiedadulkių į savo urvelį. Pasidalinę su kitais žmonėmis, visi jautėsi džiaugsmingi ir visai netrokštamybę ir prisitaikantys šviesa ir gaivus ore,  pradėdami nuostabų draugystę.  Pamatė žaislą, pripildytą visokiausių žaislų, tarpusavyje bendrauti.
+
+Grįžę į savo namus,  drakonėlis Gintaras, protingasis paukštis ir žaismingas šuniukas, drauge juokėsi iš nuotykių. Jie žinojo, kad draugystė yra stipresnė už bet kokią kalną ar dangų, ir visada reikia draugų.
+
+Jie apgyvendino urvą visai šalia trijų spalvų šarkos lizdo, kartu pramogaudami ir  augdami, apgyvendindami didelę grupę jų draugų. Pabaigę darbą, Jie galiausiai užmigdė prie žalių žvaigždžių pievų. O kai atėjo rytas, atėjo ir  vis naujų ir puikių draugų, nušvietę  aušrą netoli urvo.
+</body>

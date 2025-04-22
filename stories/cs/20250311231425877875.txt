@@ -1,0 +1,36 @@
+<prompt>
+Please write a silly Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Cesta toulavého kočky Kocourka za nalezením nového domova'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Cesta toulavého kočky Kocourka za nalezením nového domova</title>
+<body>
+Kocourek, maličký kocourek s vousy jako nitky pavučiny a očima jako dvě lesklé třešně, se cítil poněkud ztraceně.  Jeho domov, teplý kočárek s měkkým pelíškem a vonícími šňůrkami od hraček, už dávno zmizel.  Zůstala jen temná ulice plná cvrlikání cvrčků a tajemných zvuků, které Kocourkovi se zdály být hrozivými zvuky.  Kocourek se v noci často třásl strachem, když uslyšel houkání sovy nebo bouchání auta.  Byl to toulavý kocourek.
+
+Jeho cesta za nalezením nového domova začala v den, kdy uslyšel třešťující směšné hlasy lidí.  Byli to prodavači v baru u železniční stanice. Jeden z nich ho slyšel mňoukat a okamžitě se po něm začal zajímat. V tu chvíli si Kocourek myslel, že je konec. Bude konzumován!  Jelikož měl hlad a nevěděl, kam jít, odhodlal se přiblížit ke zvláštnímu skupině lidí, kteří ho sledovali.   Se strachem ve srdci a s plnými bříšky strašlivého hladu (zjevně jim nedošel zájem) si nakonec dovolí posadit se a vyhřát se na slunku.
+
+První člověk, který ho zpozoroval, byl milá paní s velkými úsměvy a křiklavou sukní, která ho s nadšením pohladila.  "Ach, jsi tak malinký a tak štíhlý!"  vydechla s nadšením.  "Co se ti stalo? Co se ti stalo?" zeptala se starostlivě. Kocourek mňoukáním odpověděl: "Hladověm...ale nejsem zlý!"
+
+Kocourek si uvědomil, že s těmito lidmi se může pochopit.  Získal si jich obdivem.  Následovala ho další skupina lidí, kteří zmateně vnímali Kocourkův úzkostný kňourání a odhodlávali se mu pomoci.  Rychle odvedli Kocourka do svého domova.
+
+Domov byl plný tepla, vůně čerstvého pečiva a občasného vrčení jiných zvířat.  Uviděl malou kočičku, která vypadala v podstatě stejně jako on, ale s mnohem větší důstojností. Ta mu ukázala svůj pelíšek. Kocourek se do pelíšku, zpočátku s rezervou, nakonec vnořil.  Ulevilo se mu, teplé místo odvrátilo jeho strach. V tu chvíli si uvědomil, že touha najít domov byla mnohem větší, než se domýšlel, mnohem více než jeho hladomor.
+
+Někdy v noci si Kocourek, zahřátý pod hřejivým kobercem, povídal s kočičkou. S plným břichem (dostala si dobroty a ochutnala pečené bramborové dušeně s třešňemi!) se cítil mnohem lépe.
+
+„Co je to tenhle pocit spokojenosti?", zeptal se jí.
+
+„Je to pocit klidu, kocourku," odpověděla kočička. „Je to pocit, že patříš někam, že tě milují.“
+
+Ráno se probudil do sluncem zalité místnosti. Paní s křiklavou sukní mu v podlaze nalila sladkou mléčnou kaši, která se mu okamžitě zalíbila.  Cítil se jako v ráji.  Přestal být jen malým, zoufalým toulavým kočkem, stal se součástí šťastné rodiny.  Poznával smysl a dovednosti svého nového života v pohodlí domova.
+
+
+A tak Kocourek, s plným bříškem a měkkým pelíškem, žil spokojený život. A věděl, že nejdůležitější je, že našel svůj domov. A že lidé, přestože občas nevysvětlitelně cvrlikali, jsou dobří a schopní milovat. A že někde v ulici se šikovným krokem a veselou grimasou, se možná tají další štěstí.  
+</body>

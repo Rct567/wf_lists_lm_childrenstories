@@ -1,0 +1,38 @@
+<prompt>
+Please write a creative and original Welsh children's story that is at least 1000 words long.
+It must be completely written in proper Welsh (CY).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Anturiaethau yr Arth a'i Ffrindiau'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>cy</lang_id>
+
+<title>Anturiaethau yr Arth a'i Ffrindiau</title>
+<body>
+Roedd yr arth, sef Arthur, yn byw mewn coedwig fawr a gerllaw afon fach. Roedd ganddo lawer o ffrindiau, gan gynnwys ci du, sef Jac, a chath wen, sef Catrin. Roeddent yn mwynhau mynd ar anturiaethau gyda'i gilydd, i chwilio am drygioni a chyffro.
+
+Un diwrnod, roedd Arthur yn eistedd dan goeden fawr, yn bwyta eirioed o ffrwythau. Daeth Jac a Catrin ato, gan ddweud, "Arthur, mae gennym ni syniad! Hawdd, a dod o hyd i'r grug fawr a ddengys ei hun yn y coedwig!" Roedd Arthur yn cytuno, a dechreuon nhw eu siôr. Roedd y grug fawr hon, sef Gwrgi, yn enwog am ei ddewrder a'i gyfrinachau.
+
+Wedi gorchymyn hir, daethon nhw i le lle roedd Gwrgi yn cysgu. Roedd yn edrych yn fawr a chryf, gyda chlustiau mawr a thrwyn hir. Arthur a'i ffrindiau roeddent yn ofni, ond roeddent hefyd yn awyddus i siarad ag ef. Felly, dechreuon nhw sgrechian a chrio, gan geisio deffro Gwrgi. Yn fuan, agorodd Gwrgi ei lygaid, a gweld Arthur a'i ffrindiau oedd yn sefyll ger ei draed.
+
+"Shwmae, bach," meddai Gwrgi, "beth yn y byd rydych chi'n ei wneud yma?" Arthur a'i ffrindiau roeddent yn cytuno i esbonio eu stori, a dechreuon nhw i ddweud eu hadarat. "Rydym ni'n chwilio am drygioni a chyffro," meddai Arthur. "Rydym ni'n hoffi mynd ar anturiaethau, i chwilio am rywbeth newydd a diddordeb."
+
+Gwrgi roedd yn gwrando, a'i wyneb oedd yn newid. Roedd yn edrych yn fyddar a chafodd ei ysbrydoli. Yna, dechreuodd siarad, "Rydych chi'n chwilio am drygioni, ond rydw i'n gwybod lle mae drygioni go iawn! Mae afon fawr, sy'n llifo tua'r môr, ac mae'n cynnwys llawer o gyffro a pheryglon! Os ydych chi'n dod â mi, gallaf i chi ddangos y ffordd!"
+
+Arthur a'i ffrindiau roeddent yn awyddus iawn, a dechreuon nhw eu taith. Gwrgi roedd yn arwain y ffordd, gan esbonio am y peryllon a'r cyffroon a oedd yn disgwyl iddyn nhw. Roedd y afon yn llifo yn gyflym, gyda dwr cryf a llawer o greigiau. Ond roedd Gwrgi yn hyddysg, a roedd yn gallu dod â hwythau i'r môr yn ddiogel.
+
+Wedi diwrnod hir o deithio, daethon nhw i'r môr. Roedd y môr yn edrych yn anhygoel, gyda dwr glas a llawer o donnau. Arthur a'i ffrindiau roeddent yn edrych ar y môr, ac roeddent yn teimlo'r cyffro a'r drygioni. Gwrgi roedd yn gwenu, gan ddweud, "Wel, bach, rydych chi wedi dod i'r môr! Mae hyn yn antur go iawn, ac mae'n addas i bob un ohonoch chi!"
+
+Roedd Arthur a'i ffrindiau yn mwynhau eu hamser ym môr, gan chwarae a nofio. Roedd y môr yn cynnwys llawer o rywogaethau, gan gynnwys pysgod, crancod, a chregyn. Roeddent yn edrych ar y creaduriaid, ac roeddent yn dysgu am eu bywyd a'u cynefin. Gwrgi roedd yn esbonio am y môr, gan ddweud, "Mae'r môr yn lle anhygoel, ac mae'n cynnwys llawer o gyffro a drygioni! Ond mae hefyd yn lle peryglus, ac mae'n rhaid i chi fod yn ofalus!"
+
+Wedi ymrithio am awr, daethon nhw i ben y môr. Roedd y pen y môr yn edrych yn anhygoel, gyda llawer o greigiau a chlogwyni. Arthur a'i ffrindiau roeddent yn edrych ar y pen y môr, ac roeddent yn teimlo'r cyffro a'r drygioni. Gwrgi roedd yn gwenu, gan ddweud, "Wel, bach, rydych chi wedi dod i ben y môr! Mae hyn yn antur go iawn, ac mae'n addas i bob un ohonoch chi!"
+
+Roedd Arthur a'i ffrindiau yn mynd yn ôl i'r coedwig, gan siarad am eu antur. Roeddent yn cytuno eu bod wedi mwynhau eu hamser ym môr, a roeddent yn hoffi eu antur gyda Gwrgi. Gwrgi roedd yn gwenu, gan ddweud, "Rydych chi wedi bod yn ffrindiau da, ac rydw i'n gobeithio y byddwch chi'n dod nôl i'r môr eto! Mae'n lle anhygoel, ac mae'n cynnwys llawer o gyffro a drygioni!"
+
+Roedd Arthur a'i ffrindiau yn mynd yn ôl i'w cartrefi, gan siarad am eu antur. Roeddent yn cytuno eu bod wedi mwynhau eu amser ym môr, a roeddent yn hoffi eu antur gyda Gwrgi. Arthur roedd yn dweud, "Rydym ni wedi cael antur go iawn! Rydw i'n gobeithio y byddwn ni'n mynd ar antur arall gyda Gwrgi eto!" Jac a Catrin roeddent yn cytuno, gan dweud, "Ie, rydw i'n gobeithio hynny hefyd! Mae Gwrgi yn ffrind da, ac mae'n gwybod lle mae drygioni go iawn!"
+
+A hyn oedd diwedd antur Arthur a'i ffrindiau ym môr. Roeddent wedi mwynhau eu amser, a roeddent yn hoffi eu antur gyda Gwrgi. Roedd Gwrgi yn ffrind da, ac roedd yn gwybod lle mae drygioni go iawn. Roedd Arthur a'i ffrindiau yn gobeithio y byddent yn mynd ar antur arall gyda Gwrgi eto, ac roeddent yn edrych ymlaen at eu next antur.</body>

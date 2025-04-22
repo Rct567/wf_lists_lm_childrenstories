@@ -1,0 +1,50 @@
+<prompt>
+Please write a relatable Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Ertaklardagi sehrgarlik dunyosiga ochilgan sirli eshikdan o'tgan bola va uning do'stlari.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>uz</lang_id>
+
+<title>Ertaklardagi sehrgarlik dunyosiga ochilgan sirli eshikdan o'tgan bola va uning do'stlari.</title><body>
+Bir kuni, Samarqandning chiroyli, gullarga burkangan mahallasi – "Guliston"da yashovchi yetti yoshli bolakay Javohir o'zining do'stlari bilan odatdagidek o'ynab yurardi. Javohirning eng yaqin do'stlari – sho'x va qiziqqon Dilshod, aqlli va mulohazali Zulfiya hamda doimo kulib yuradigan Munisa edi. Ular har kuni mahallaning kichik bog'ida to'planib, turli xil o'yinlar o'ynashardi. Ular sakrashar, qochishar, ertaklar aytishar va o'zaro qiziq voqealarni baham ko'rishardi.
+
+O'sha kuni ular "Yashirin xazina" o'yinini o'ynashga qaror qilishdi. Javohir do'stlariga xazinani qanday topish haqida aytib berdi: "Kelinglar, bog'ning chetidagi eski, qadimgi daraxtning tagiga boraylik. U yerda, tuproq ostida bizni sehrli eshik kutmoqda. Bu eshik orqali ertaklardagi sehrgarlik dunyosiga kiramiz!", dedi u katta hayajon bilan.
+
+Dilshodning ko'zlari chaqnab ketdi: "Qiziq, juda qiziq! Tezroq boraylik!", deb baqirdi u. Zulfiya esa, har doimgidek, bir oz xavotir bilan: "Javohir, ehtiyot bo'laylik, nima bo'lishini bilmaymiz-ku", dedi. Munisa esa doimgidek kulib: "Hamma joyda biz bilan bo'lsa, qo'rqishning keragi yo'q", deb ularni taskin berdi.
+
+Ular daraxtga tomon yugurishdi. Eski daraxtning tagida ular juda eski, zanglagan temir eshikni ko'rishdi. Egaiga tegsa ovoz chiqaradigan eski zanjir ham bor edi. Javohir sekinlik bilan zanjirni tortdi. G'ayritabiiy bir ovoz eshitildi va eshik sekin-asta ochila boshladi. Eshikdan yorug'lik nur sochilar, uning ichidan ajoyib hidlar kelardi.
+
+Dilshod darhol eshikdan o'tmoqchi bo'ldi, ammo Zulfiya uni to'xtatdi: "To'xta, Dilshod! Avval o'zimizni himoya qilaylik. Javohir, sen bilan olib kelgan sehrli tayoqlaringni chiqara qol!". Javohir doim o'zida ertak qahramonlari singari, oddiygina shoxchalardan yasagan "sehrli tayoqchalar"ini olib, do'stlariga berdi. "Endi, hech qanday yomonlikdan qo'rqmaymiz!", dedi u ishonch bilan.
+
+Munisa hamisha quvnoq bo'lishiga qaramasdan, bu sirli eshik ularni qo'rquv ichida ushlab turardi. Lekin do'stlari unga dalda bo'lib turardi. Bir-birlarining qo'llaridan mahkam ushlab, ular sekin-asta eshikdan o'tishdi.
+
+Ular eshikdan o'tgan zahoti o'zlarini juda boshqa bir joyda topishdi. Bu joyda hamma narsa g'ayritabiiy edi: osmon rang-barang, gullar qo'shiq aytardi, daraxtlar odamdek gaplashardi. Ular bu ajoyib dunyoda qadam tashlar ekan, hayratdan yoqalari ushalib qoldi.
+
+Ular oldinga yura boshlagach, ularga uchta yo'l ko'rindi: birinchisi - oltinga to'la yo'l, ikkinchisi - olma bilan to'la bog', uchinchisi - o'rmondan o'tadigan qo'rqinchli yo'l. Dilshod darhol oltinga to'la yo'lni tanladi: "Albatta, biz boy bo'lamiz! Kelinglar, tezroq boring!". Ammo Zulfiya bu fikrga qo'shilmadi: "Ehtimol, bu tuzoqdir. Bizga hech narsa kerak emas, yaxshisi olma bog'iga boramiz, ochlikni qondiramiz". Javohir ular bilan maslahatlashdi: "Mening fikrimcha, eng muhimi - sarguzasht, shuning uchun o'rmon yo'lidan yurganimiz ma'qul!". Munisa ham ularni qo'llab-quvvatladi va oxiri barcha o'rmon yo'lidan borishga qaror qilishdi.
+
+O'rmon ichi juda qorong'i va qo'rqinchli edi. Ularga har xil hayvonlarning ovozlari eshitilib turardi, lekin do'stlar qo'rquvga berilmaslikka harakat qilishdi. Yo'l uzoq davom etdi. Nihoyat, ular yo'l oxiriga yetib, katta bir maydonga chiqishdi. Maydonda esa, ularni ajoyib bir manzara kutib turardi: olovdan yasalgan qal'a, uni turli xil hayvonlar qo'riqlayotgan edi. Qal'aning oldida esa, bir qariya o'tirar, go'yo ularni kutib turardek edi.
+
+Qariya ularga yaqinlashdi: "Salom, bolajonlar! Men sizlarni uzoqdan kutayotgan edim. Sizlar haqiqiy do'stligingiz bilan o'tishingiz kerak bo'lgan qiyin yo'lni bosib o'tdingiz. Mening ismim – Doniyor, men bu sehrli dunyoning posboniman. Sizlarga katta topshiriq bor, agar uni bajarsangiz, bu sehrli dunyoni qutqara olasiz!".
+
+Ular Doniyorga savollar bilan murojaat qilishdi. Doniyor gapida davom etdi: "Uzoq vaqtdan beri bu sehrli dunyoga yomon sehrgar – Qora qalb hujum qilmoqda. U hamma narsani yomonlikka aylantirmoqchi. Siz Qora qalbning qal'asiga borib, uning sehrli ko'zgisini sindirishingiz kerak. Faqat shunda bu dunyo yana eski holiga qaytadi!".
+
+Javohir do'stlari bilan maslahatlashdi. Ular xavfli vazifani bajarishga qaror qilishdi. Doniyor ularga jang qilishga yordam beradigan sehrli qurol va kiyimlar berdi: Javohirga – jasorat shamshiri, Dilshodga – chaqqonlik qalqoni, Zulfiyaga – aql kamzuli va Munisaga – kulgu nuri.
+
+Ular Qora qalbning qal'asiga yo'l olishdi. Yo'lda ularni turli xil to'siqlar kutardi: olovli daryo, sirli jumboqlar, g'aroyib hayvonlar. Ammo do'stlar bir-birlariga yordam berishdi, aqllarini ishlatishdi va qiyinchiliklarni yengib o'tishdi.
+
+Nihoyat, ular Qora qalbning qal'asiga yetib kelishdi. Qal'a juda qorong'i va qo'rqinchli edi. Ichkarida esa, ularni Qora qalb kutib turardi. Uning yuzida g'aroyib, yovuz tabassum bor edi. Jang boshlandi!
+
+Javohir jasorat bilan hujum qildi, Dilshod chaqqonlik bilan harakat qildi, Zulfiya aqlini ishlatib sehrli jumboqlarni echdi, Munisa esa kulgusi bilan Qora qalbning sehrini buzishga harakat qildi. Jang juda qattiq davom etdi. Qora qalb juda kuchli edi. Ammo do'stlar taslim bo'lishmadi.
+
+Oxir-oqibat, ular Qora qalbni yengishga muvaffaq bo'lishdi. Zulfiya Qora qalbning sehrli ko'zgisini topib, uni sindirdi. Qal'ada yorug'lik paydo bo'ldi, hamma narsa o'z holiga qaytdi. Qora qalb yo'q bo'ldi.
+
+Sehrgarlik dunyosi yana gullab-yashnadi. Daraxtlar o'ziga keldi, gullar qo'shiq aytdi, hayvonlar do'stona harakat qildi. Do'stlar qal'adan chiqib, Doniyor bilan uchrashishdi. Doniyor ularga minnatdorchilik bildirdi va ularni uyga qaytarishga yordam berdi.
+
+Ular sirli eshikdan o'tib, o'zlarining "Guliston" mahallasiga qaytib kelishdi. Ular qiziqarli sarguzashtlar, do'stlikning kuchi va jasorat haqida juda ko'p narsalarni o'rgandilar. Ular endi ertaklar olamidagi eng jasur qahramonlardek edi. Ular bu voqeani umrlarining oxirigacha eslab qolishdi, va ertaklardagi sehr dunyosiga yana qaytib borishni orzu qilishdi.
+</body>

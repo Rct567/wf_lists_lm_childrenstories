@@ -1,0 +1,38 @@
+<prompt>
+Please write a uncomplicated Kongo children's story that is at least 1000 words long.
+It must be completely written in proper Kongo (KG).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>kg</lang_id>
+
+<title>Muna ye Nkingu ya Mvula</title>
+<body>
+Muna zingila ya nene, kuna mbanza ya Kintoto, kuna mwan’a nkento mosi imonananga kingila mbuma, muna dina dia Muna. Muna kazingilanga kuna nzo ya nkumbuka mosi, muna nzo ya mbote ye ya kingila.  Wau kala mwan’a nkento ya mbote, kazingilanga kuna kiese, kikwa muna nzo ndioyo ye kuna zingu.  Kansi, muna lumingu mosi, kuna nsoto.
+
+Mvula yasuka yayiaka diaka, yakatumuna madia ye nkala.  Mambu mayingila ma yabwila.  Muna lumingu yakaka, waziwidi o mambu yingila ma mpasi.
+
+Muna lumingu yayi, mvula yasuka yayibadi, yazanisa kingila ye yabadikisa ziku kia kiese kia Muna.  Muna nzo, yilanga ye mambu maluta.  Kimbisi kia yandi mpe, kimonadi mbasi kiakala, kadi nti yakala yandi mpe yawela.  Muna nsoto ya ngolo, ye nzala ya madia.
+
+Muna lumingu, Muna kalanga kuna kielo, kabenda mbanza mu songa mambu ma mbote ye mayibula ya mavule.  Nzila zawonso zasika, yikunwanga ntoto wa ntoto.  Kimbisi kina ya kunda, ye kikaya ku makala ku makanda.  Ziku, Muna yamona wo, yanwila nsunga.
+
+Kansi, muna mambu mampa, Muna kakandele kuna mpemba, kuna yandi monosi kaka kakalanga, kadi mfumu yame kaka. Yandi kalonga ngolo ye mayangi mayingi, nitu kiansuku kia mayiba. Muna nzila, Muna kasala nzayi a mfumu wandi, yandi yovoma o nsala.
+
+O nkisi akaka kayamwidi, o ngolo ye makasi mamonane mu mvoto.   Kasikila, yiyidi mu kunda. Kuyala, kayala o mfumu yame, mu kwenda mu yaya.  Nga wayimba, muna ndose, muna nkanda mpe? Wansonga muna yandi kulu, mfumu yayi mpe ka kanyongalala ko.
+
+Kasikil'e, muna luzingu lwayo, Muna kazinga ye ndoki anini. Wari muna mbanza yakaka ya ndonga ye yakudikila. Muna mbanza yayina, zola kia wonga. Kuna, kuna wari, wari o mfumu. Yari mvumbi a mfumu mu mvula.
+
+Muna konso luzolo lwayi, Muna kabanda nda nkumbu, kazaba mpasi ye nkunzi ye yulu mu zitu kia ngwizani kia kimbanda. Muna nzila kia lumbu mosi ya fwa, yakala ye kiese ya yandi ye mayibula. Yai mbwila muntu madia ya mbote muna ye kiese. Yandi yandi o yedila yo wonga ye ma.
+
+Muna yindula, yandayi, kanyongelanga o Muna yo kalanga muna mawonso, yo sala mvovo ye ngwizani muna fwa muna ziku ye nsola mu luvubu ye yandi yo kalanga muna mbuma a nswa, yandi kabanda o sambila  yimba, Muna yindula e nswa a nzenza ye  ngwizani a ngangu yaya muna nsansa za nswa  yiyibaka. Muna mawonso, yakala o mbikila ye kiese kuna lumingu luingi.
+
+Muna zangu, Muna kazaya ye ndoki  mosi, o yamba, ye nkwikizi muna nzola za nzila. O ndoki watambwila yandi o nkingu ya mvula, o nswa kia mavuba, ye ngolo za nsola yo lungisa luzolo. Muna o nkingu yo lungisa e nzola ye nswa, o nkisi wakuma.
+
+E Muna yambula e kingila.  E ntoto yasikila, ye kielo kiaka katanu kiamana  o nso ya nsoko.  Ziku  kia kiese kia Muna kiayantika o kala yo kwesa zingu kiambote mu yingila.
+
+O nkento wakandila o nkento, yandi kwandila o mwan’a nkento  wa yisila e mwisi wa nkento ye nzenza ye mambu ma mbote. Muna lusansa lwayingi lwa kiese ye ntama, wakandila mbanza ye nkutu a kielo.  Muna lumingu luingi ye zola ya luvubu muna makwata mu songa ye kielo, katikidi o nkumbu a  mwana ye kiese kia mfumu yame kia nkinsi wa ngwizani kia madiabulu a ngangu ye mawulu.  Kasikila ye yidima, Muna yibila ye mbu.
+</body>

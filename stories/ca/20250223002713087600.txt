@@ -1,0 +1,79 @@
+<prompt>
+Please write a simple and easy-to-follow Catalan children's story that is at least 1000 words long.
+It must be completely written in proper Catalan (CA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La història del petit rei valent'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>ca</lang_id>
+
+<title>La història del petit rei valent</title>
+<body>En un regne llunyà, hi havia un petit rei anomenat Leo. Era un noi molt valent i amb un gran cor. El seu pare, el rei anterior, havia mort en una batalla contra els enemics del regne, i Leo havia heretat el tron amb només deu anys.
+
+La reina mare, que era molt sàvia i justa, havia decidit quedar-se al costat del seu fill i ajudar-lo a governar el regne fins que ell fos prou gran per fer-ho sol. Però Leo no volia esperar, volia demostrar que era capaç de governar.
+
+Un dia, mentre estava assegut al tron, va rebre la visita d'un vell savi que havia viatjat des de molt lluny per parlar amb ell. El vell savi li va dir que havia sentit parlar de la seva valentia i que havia vingut per proposar-li una prova.
+
+"Si vols demostrar que ets un verdader rei", va dir el vell savi, "has de superar tres proves. La primera prova és conquerir el cor d'una noia que viu en un poble proper. La noia es diu Sofia i és coneguda per la seva bellesa i intel·ligència. Però també és coneguda per ser molt difícil de conquestar".
+
+Leo es va sentir emocionat per la prova i va decidir acceptar el repte. Va muntar a cavall i va anar cap al poble on vivia Sofia. Quan va arribar, va veure que el poble era molt petit i que tothom el coneixia. Va preguntar per Sofia i li van dir que era a la plaça del poble, jugant amb les seves amigues.
+
+Leo va anar cap a la plaça i va veure Sofia. Era molt més bella del que havia imaginat. Tenia els cabells llargs i rossos, i els ulls blaus com el cel. Va sentir-se nerviós, però va decidir acostar-s'hi.
+
+"Sofia", va dir, "em dic Leo i sóc el rei d'aquest regne. He vingut per conèixer-te i per veure si puc conquerir el teu cor".
+
+Sofia va mirar-lo amb sorpresa i va dir: "Un rei? Aquí? No m'ho crec. Què has fet per demostrar que ets un verdader rei?"
+
+Leo es va sentir desconcertat, però va recordar les paraules del vell savi. "He de demostrar que sóc valent", va pensar. I va dir: "Sofia, et proposo un repte. Si puc fer una cosa que tu consideris impossible, et casaràs amb mi?"
+
+Sofia va riure i va dir: "D'acord, rei. Però has de fer alguna cosa que realment sigui impossible. Si ho aconsegueixes, em casaré amb tu".
+
+Leo va pensar durant uns moments i va dir: "Sofia, et proposo que vagi a buscar la flor més bella del món. La flor que només creix a les muntanyes més altes i que només es pot trobar una vegada a l'any".
+
+Sofia va mirar-lo amb sorpresa i va dir: "D'acord, rei. Si pots tornar amb la flor més bella del món, em casaré amb tu".
+
+Leo va muntar a cavall i va anar cap a les muntanyes. Va cavalcar durant dies i va haver de superar molts obstacles. Va haver de creuar rius, escalar muntanyes i lluitar contra animals ferotges. Però no es va rendir. Finalment, va arribar a la cima de la muntanya més alta i va trobar la flor més bella del món.
+
+Era una flor blanca amb pètals daurats i un perfum que omplia l'aire. Leo la va agafar i va començar a tornar cap al poble. Quan va arribar, va anar cap a la plaça on estava Sofia.
+
+"Sofia", va dir, "he tornat amb la flor més bella del món. Em casaràs amb mi?"
+
+Sofia va mirar la flor i va sentir-se emocionada. "Sí, rei", va dir, "em casaré amb tu. Has demostrat que ets un verdader rei".
+
+Leo va sentir-se feliç i va prendre Sofia de la mà. Van anar cap al castell i van celebrar el seu compromís. La reina mare va estar molt contenta de veure el seu fill feliç i va donar la seva aprovació per al matrimoni.
+
+Però la història no acaba aquí. El vell savi va tornar a aparèixer i va dir a Leo que encara tenia dues proves més per superar. "La segona prova és conquerir el cor d'un home que viu en una illa deserta", va dir. "L'home es diu Marc i és conegut per la seva crueltat i la seva falta de compassió".
+
+Leo es va sentir nerviós, però va decidir acceptar el repte. Va muntar a cavall i va anar cap a la costa. Va agafar un vaixell i va navegar cap a l'illa deserta. Quan va arribar, va veure que l'illa era molt petit i que no hi havia ningú més que Marc.
+
+Marc era un home alt i gros, amb una barba llarga i una mirada cruel. "Qui ets?", va dir quan va veure Leo.
+
+"Sóc el rei Leo", va respondre, "i he vingut per conquerir el teu cor".
+
+Marc va riure i va dir: "No crec que sigui possible. Sóc un home sense cor".
+
+Leo es va sentir desconcertat, però va recordar les paraules del vell savi. "He de demostrar que sóc valent", va pensar. I va dir: "Marc, et proposo un repte. Si puc fer una cosa que tu consideris impossible, et convertiràs en el meu amic?"
+
+Marc va mirar-lo amb sorpresa i va dir: "D'acord, rei. Però has de fer alguna cosa que realment sigui impossible. Si ho aconsegueixes, et consideraré el meu amic".
+
+Leo va pensar durant uns moments i va dir: "Marc, et proposo que et curi d'una ferida que has tingut des de fa anys. Una ferida que els metges no han pogut curar".
+
+Marc va mirar-lo amb sorpresa i va dir: "D'acord, rei. Si pots curar la meva ferida, et consideraré el meu amic".
+
+Leo va fer servir les seves coneixences de medicina i va curar la ferida de Marc. Marc va sentir-se alleujat i va dir: "Gràcies, rei. Has demostrat que ets un verdader amic".
+
+Leo va sentir-se feliç i va prendre Marc de la mà. Van tornar cap al regne i van celebrar la seva amistat. La reina mare va estar molt contenta de veure el seu fill feliç i va donar la seva aprovació per a la seva amistat.
+
+Però la història no acaba aquí. El vell savi va tornar a aparèixer i va dir a Leo que encara tenia una prova més per superar. "La tercera prova és conquerir el teu propi cor", va dir. "Has de demostrar que ets capaç de perdonar i d'oblidar".
+
+Leo es va sentir nerviós, però va decidir acceptar el repte. Va pensar en les persones que l'havien fetir i va decidir perdonar-les. Va pensar en les coses que l'havien fet mal i va decidir oblidar-les.
+
+Quan va haver perdonat i oblidat, va sentir-se alleujat i feliç. El vell savi va aparèixer i va dir: "Leo, has superat les tres proves. Ets un verdader rei".
+
+La reina mare va estar molt contenta de veure el seu fill feliç i va donar la seva aprovació per al seu matrimoni amb Sofia. Van celebrar el seu casament i van viure feliços per sempre.
+
+I així, la història del petit rei valent va acabar. Leo va demostrar que era un verdader rei, capaç de conquerir el cor de les persones i de superar les proves més difícils. Va viure feliç amb Sofia

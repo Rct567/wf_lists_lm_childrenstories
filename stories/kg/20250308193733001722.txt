@@ -1,0 +1,49 @@
+<prompt>
+Please write a timeless Kongo children's story that is at least 1000 words long.
+It must be completely written in proper Kongo (KG).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Mwana wa nkento wa mvemba wa nkento, wavwanga mpasi za zola ye zina diandi dia luvuvamu.'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>kg</lang_id>
+
+```kg
+<title>Mwana wa nkento wa mvemba wa nkento, wavwanga mpasi za zola ye zina diandi dia luvuvamu.</title>
+<body>
+Mu nsi a Kongo, kuna mbanza ya Nkasa, wazala nkento mosi wa mvemba, wayela. Nkento yayi, zina diandi dia Zola, wazala mwana mosi wa nkento, wayitwila zina diandi dia Luvuvamu. Luvuvamu, mu mvu miandi mia kumi, wazala ye meso ma nene, ma mphemba nze ntoto wa bua, ye nsuki zandi zina nze muini wa matete.
+
+Luvuvamu wayenda mu nzo a nlongi, mu longuka mambu ma Kongo diau-diavo, kana nkutu e nkanda ya malongi ye nkunga mia kiyayi. Wavwanga zola kwa mambu ma zola, kansi mu n’tim’andi wa mwandu, wayoyauna kikilu. Wavwanga mpasi za zola. Ntangu awonso, wavova kwa mama andi, “Mama, nga zola i nki? Nkia diambu ditukanga yo? Nga zola divwanga mvimba?”
+
+Zola, mama andi, wamutambula, wanda luba lwa nsuka za nsuki zandi za muini. “Mwana wame, zola i mfunu wa moyo, nze muini ubetanga nkondo. Zola i ngolo, nkutu ya kukutumuna mu diambu kadi mambu ma mpasi. Zola kitukanga mu n’tim’eto, nze nuni ivukanga mu zulu, ye kadi tubakola mu kanda dieto dia bantu.”
+
+Luvuvamu wazola kuwila mambu mama mangi, kansi n’tim’andi watonda. “Mama, kansi nga una ye zola muna mpeve.” Zola wanyangana, wamvutu, “Mwana wame, zola wa mpeve, wuna ye ngolo za konso diambu. I diambu dituwokesanga, ditukutumunanga mu diambu dia fuani, ye diambu ditukwamanisanga. Kansi, zola difwete lungana kwa mambu ma kimuntu, kana nkutu mu diambu dia luzolo kwa muntu kwandi, ye mu luzolo lwa muntu mukala, ye mu luzolo lwa muntu wa mpila zawonso.”
+
+Luvuvamu wenda mu nkadilu a zola, wayenda nkatukulu mu nima a nzo andi, kuna konzo kia fita. Wafwana muntu, wazinina mpeve mia nkaka miandi. Wafwana mpi bana a nkaka, kana nkutu ana bavwanga nzenza. Wavanga mambu ma zola, wayiza nsinga mia muntu, wavova mambu ma mbote. Wavanga muna n’tim’andi.
+
+Mu kilumbu kimosi, ntumwa wa mfumu, wayiza mu mbanza. Wavwanga mpasi za tambula ye nkandu mia mfumu. Wavova, “Bantu a mbanza a Nkasa, mfumu weno wamfutila, wati, nkudikisa makasa mai. Bakesa konso muntu wakwenda kuyikwidi ye mfumu, balanda nzenza andi.”
+
+Bantu basuana, wayangala. Luvuvamu wayangala mpi. Wavova kwa mama andi, “Mama, nga tufwete kwenda ku mfumu? Muna mpasi?” Zola wamvutu, “Luvuvamu, kana nkutu twenda mu mpasi, tufwete kwenda muna ngolo za zola. Twafwete kwenda kuyikwidi.”
+
+Bantu bakwenda ku nzo a mfumu. Bakwenda ye lulendo, kansi bakwenda ye wonga. Luvuvamu, nze kwandi wankulu wayenda. Wafwana mfumu, wamona nzenza, wazala ye meso ma mphemba. Mfumu wamfutila, wati, mpasi mu meso.
+
+Luvuvamu wamona mvu. Wayenda kuna mfumu, wazamana vova, “Mfumu, nga diena diambu dia nkaka di mu dienga dia zola?” Mfumu wamvutu ye nkento, “Mwana wani, zola i diambu diambi. Zola dipwandama, diama.”
+
+Kansi, Luvuvamu katonda. Wazanisa mpeve andi, wazakana, wazolakana mfumu. Wavova, “Mfumu, zola i ngolo ya wumani. Zola i ngolo yatutu. Zola i ngolo ya luvuvamu. Nga wampenda zola mu n’tim’o?”
+
+Mambu ma Luvuvamu mazokana mfumu mu n’tim’andi. Mfumu wayenda mu nkenge, wamona, “Nkembo a Kongo, diambu dia zola divuandi kikadi. Mwana wame, Luvuvamu, wena yo zola mu n’tim’andi, diambu disonga ngolo a luvuvamu.”
+
+Mfumu watumba Luvuvamu mu n’tim’andi. Wati mambu, wamvutu mu n’kadulu, wati, “Kutukuta, kadi. Mfutika i nkulu a zolangano.” Luvuvamu wayangala. Wenda ku bantu, wavova, “Zola di ngolo a konso diambu. Zola i luvuvamu.”
+
+Ntangu yayiza, mbanza yavuluka. Mbote, Luvuvamu wayenda mu n’kumbu a zina diandi. Wayiza nsinga kia bantu awonso, wavanga mambu ma zola mu n’tim’andi. Wayenda mu lukala lwa bantu, wanda nsangu a zola ye luvuvamu.
+
+Luvuvamu wavovanga mambu ma zola muna mbanza yao, mu mbanza z’ankaka, mu Kongo dimsana dimosi. Wafwanga mu mvu miandi mia tsonga, kansi zina diandi dia zola ye luvuvamu divwanga.
+
+Bana bazikwa kwandi, bayiza kwenda muna nzo a nlongi, bawazana. Mu kuma kia lungisa mambu mai, bakala ye zola, ye bakala ye luvuvamu. Bakwenda mu mpasi ye lulendo, bakwenda nze nuni ivukanga mu zulu, ye bakwenda kuna kanda dieto dia bantu.
+
+Muna nsi a Kongo, kana nkutu lumbu, bantu bavovanga, “Zola di ngolo a konso diambu. Zola i luvuvamu.” Zola kia Luvuvamu kiakala mu n’tim’eto, ye zina diandi diozinganga mu mvula.”
+</body>
+```

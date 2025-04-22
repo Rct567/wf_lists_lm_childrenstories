@@ -1,0 +1,40 @@
+<prompt>
+Please write a relatable Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Egy cicus, aki el akart jutni a legmagasabb hegycsúcsra, hideg időben.'.
+</prompt>
+
+<model>meta-llama/llama-4-maverick:free</model>
+
+<lang_id>hu</lang_id>
+
+<title>Egy cicus, aki el akart jutni a legmagasabb hegycsúcsra, hideg időben.</title><body>Egyszer volt, hol nem volt, volt egyszer egy kicsi cica, akit Mancinak hívtak. Ez a kis cica nagyon kalandvágyó volt, és mindig arról álmodott, hogy egyszer eljut a legmagasabb hegycsúcsra. A falu szélén élt, ahol a hegyek egészen az égig nyúltak, és Manci gyakran bámulta őket, ahogy a nap sugarai megfestették a csúcsokat.
+
+Manci mindig is arra vágyott, hogy feljusson a legmagasabb hegycsúcsra, hogy onnan lássa a világot. A faluban mindenki nevetett rajta, amikor erről beszélt, hiszen Manci még egy cica volt, és senki sem gondolta komolyan, hogy képes lenne megmászni egy magas hegyet. De Manci eltökélt volt, és amikor hideg idő köszöntött be, és a hegyek hóval borított csúcsai még csábítóbbak lettek, Manci eldöntötte, hogy elindul.
+
+Kezdett készülni az útra. Először is, találnia kellett egy megfelelő kabátot. A gazdája, egy kedves öregasszony, megvarrt neki egy meleg kabátkát, amit Manci büszkén viselt. Aztán szereznie kellett egy pár erős cipőt, amiben nem fognak megfagyni a lábai a hidegben. Az öregasszony fia, egy erős és ügyes fiú, készített neki egy pár speciális csizmát, ami pont jó volt Manci lábára.
+
+Mikor minden szükséges holmija megvolt, Manci elbúcsúzott a gazdájától és a falubeliektől, és elindult a hegy felé. Ahogy egyre magasabbra mászott, a levegő egyre hidegebb lett, és Manci érezte, hogy a tüdeje kezd fájni a hidegtől. De nem állt meg, tovább kapaszkodott felfelé.
+
+Az út hosszú és fárasztó volt. Manci találkozott sok állattal, akik szintén a hegyekben éltek. Volt ott egy bölcs öreg sas, aki azt tanácsolta Mancinak, hogy legyen óvatos, mert a hegy nagyon veszélyes tud lenni. Volt ott egy barátságos nyúl, aki megkínálta Mancit egy kis répával, hogy erőt gyűjtsön az úthoz. Volt ott egy mogorva medve is, aki morogva figyelmeztette Mancit, hogy forduljon vissza, mert a hegy nem cica játéka.
+
+De Manci nem ijedt meg sem a sas tanácsától, sem a medve morgásától. Tudta, hogy az út nehéz lesz, de ő elszánt volt. Tovább mászott, és ahogy feljebb ért, a hó egyre mélyebb lett. Manci néha elmerült a hóban, de mindig sikerült kiküzdenie magát.
+
+Ahogy a nap kezdett lenyugodni, Manci egy kis barlangot talált, ahol meghúzhatta magát éjszakára. Belépett a barlangba, és ahogy körülnézett, látta, hogy a barlang tele van érdekes kövekkel és csillogó jégdarabokkal. Manci összegömbölyödött a barlang közepén, és hamarosan elaludt.
+
+Másnap reggel Manci korán kelt, és tovább folytatta az útját. A hegy egyre meredekebb lett, és Manci néha négykézláb mászott felfelé. De a kitartása végül eljutott a csúcsra. Ahogy felért, egy csodálatos látvány tárult a szeme elé: a nap éppen akkor kelt fel, és a sugarai megfestették a tájat.
+
+Manci elérte a legmagasabb hegycsúcsot, és onnan látta a világot. A látvány lélegzetelállító volt. Látta a faluját, a környező hegyeket, és a messzeségben a völgyeket. Manci érezte, hogy büszke magára, mert elérte a célját.
+
+De ahogy nézte a tájat, Manci érezte, hogy valami hiányzik. Hiányzott neki a gazdája, a falubeliek, és a barátai, akiket az úton megismert. Úgy döntött, hogy ideje visszatérni.
+
+Az út lefelé könnyebb volt, mint felfelé, de Manci azért vigyázott, hogy ne siesse el. Élvezte a látványt, és emlékezett azokra a pillanatokra, amikor majdnem feladta.
+
+Amikor Manci visszatért a faluba, mindenki meglepődött, hogy egy cica tényleg feljutott a legmagasabb hegycsúcsra. A falubeliek megünnepelték Manci sikerét, és az öregasszony büszkén ölelte magához a cicát.
+
+Manci megértette, hogy a kaland nem csak a cél elérése, hanem az út is, amit megteszünk. És bár a hegycsúcs lenyűgöző volt, Manci tudta, hogy az igazi kincs az volt, amit az úton talált: a barátság, a kitartás, és a saját képességeibe vetett hit.
+
+Ettől a naptól kezdve Manci már nem álmodozott többet a hegycsúcsról, hanem új kalandok után nézett. És bár soha nem felejtette el az első nagy kalandját, tudta, hogy mindig lesznek új csúcsok, amiket megmászhasson.</body>

@@ -1,0 +1,33 @@
+<prompt>
+Please write a educational Slovak children's story that is at least 1000 words long.
+It must be completely written in proper Slovak (SK).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Víla, ktorá rozprávala s mesiacom'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sk</lang_id>
+
+<title>Víla, ktorá rozprávala s mesiacom</title>
+<body>
+V malebnom údolí, kde sa stretávali krištáľovo čisté potoky s rozkvitnutými lúkami, žila drobná víla menom Slávka. Jej krídla, svetlohnedé ako suché lístie, sa jemne dotýkali kvetov, keď sa preháňala medzi záhradami plnými rozmanitých kvetov. Slávka nebola obyčajná víla. Mala dar rozprávať sa s mesiacom.
+
+Každý večer, keď sa zlatý kotúč mesiace vynoril nad obzorom, Slávka sa vybrala na svoju tajnú cestu.  Vychádzala z malej jaskyne, skrytej za starým dubom, ktorého koruna sa dotýkala oblakov.  Jaskyňa bola osvetlená jemným, rozprávkovým svetlom, ktoré sa prelievalo cez priehľadné kryštály visiace z jej stropu.  Slávka, s jej dlhými, svetlými vlasmi, ktoré sa vznášali ako hmla, sa potiahla po vlhkej tráve a ticho sa preplazí k potoku.
+
+Prvýkrát sa Slávka s mesiacom rozprávala o farbách západu slnka.  "Ach, mesiac," šepkala Slávka, "pozri, aké nádherné odtiene oranžovej a ružovej sa prelievajú cez oblaky!  Sú ako rozliate med."  Mesiac, tichý a tajomný, sa zdalo, že jej odpovedá svojou jemnou,  neviditeľnou svietivosťou.
+
+Ďalší večer sa Slávka spýtala na tajomstvá hviezd.  "Mesiac," pýtala sa, "čo sú tie blikajúce diamanty na oblohe? Sú to tiež rozprávkové bytosti?"  Mesiac sa vznášal nad ňou ako tajomný strážca a Slávka si v duchu predstavovala, že každá hviezda je malá, vzdialená víla, ktorá tiež rozpráva svoje tajomstvá do tmy.
+
+Slávka, s jej zvedavou mysľou, sa pýtala na všetko.  O záhadných zvieratkách, ktoré žijú v lese, o tajomstvách rastlín, o tajomných vtákoch, ktorí spievajú v noci.  Mesiac, zdanlivo tichý, odpovedal Slávke s jemným osvetlením, ktoré sa prelievalo cez jej krídla.  Rozprávali sa o živote, o prírode a o všetkých tajomstvách, ktoré sa skrývali v noci.
+
+Jedného dňa sa Slávka s mesiacom rozprávala o dôležitosti láskavosti.  "Mesiac," povedala Slávka, "som videla, ako sa malé vtáčiky starajú o svoje mláďatá.  Vidím, ako sa kvetinky otvárajú k slnku.  Je to krásne a dôležité.  Potrebujeme byť láskaví k sebe navzájom, k zvieratám a k prírode."  Mesiac sa zdalo, že sa s ňou zhoduje, a jeho svetlo sa rozžiarilo s novou silou.
+
+Slávka si uvedomila, že mesiac nie je len krásny kotúč na oblohe. Bol to strážca tajomstiev, múdry učiteľ a priateľ, ktorý jej otváral dvere k poznaniu.  Vďaka svojim rozhovorm s mesiacom, Slávka získavala stále nové poznatky o svete okolo seba.  Naučila sa o dôležitosti rešpektu k prírode, o sile láskavosti a o neprekonateľnej kráse sveta okolo nás.
+
+Slávka, víla, ktorá rozprávala s mesiacom, sa stala symbolom múdrosti a zvedavosti.  Každý, kto sa v údolí prechádzal, vedel o jej tajných rozhovoroch s mesiacom. A každý si uvedomoval, že aj v tme noci, sa skrýva bohatstvo poznania a láskavosti.
+
+A tak Slávka, víla s krídlami z lístia, pokračovala v rozprávaní s mesiacom, a v každom šepte a v každom svietiacej lúči, sa dozvedela o tajomstvách sveta a o krásach prírody.  A my, ľudia, by sme sa mali od nej učiť, aby sme rozumeli tomu, čo nás obklopuje a aby sme si vážili krásu a tajomstvá nášho sveta.
+</body>

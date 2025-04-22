@@ -1,0 +1,36 @@
+<prompt>
+Please write a silly Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'An Seanduine agus an Eagna a Rug sé leis ón Saoil.'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>ga</lang_id>
+
+<title>An Seanduine agus an Eagna a Rug sé leis ón Saoil</title><body>Bhí seanfhear ann fadó, agus bhí sé ar an duine is aisteáine a bhí riamh le feiceáil i gContae an Chláir. Bhí sé ina chónaí i dteach beag ag bun an chnoic, agus bhí gach duine sa sráidbhaile ag rá nach raibh ann ach "amadán mór." Ach ní raibh a fhios ag éinne ach ag an seanduine féin go raibh rud éigin speisialta faoi. Bhí eagna aige. Ní eagna mar a bhíonn ag daoine eile—ní raibh sé in ann cuntas a dhéanamh ná litir a scríobh—ach bhí eagna aige faoi shaol agus faoi dhaoine.
+
+Lá amháin, shocraigh an seanduine go raibh sé ag dul ar thuras mór. Chuir sé a hata breá síoda air, rug sé ar a mhaide siúil, agus dúirt sé leis féin, "Tá mé ag dul amach chun an eagna a roinnt leis an domhan mór." Ach ní raibh a fhios ag éinne céard ba bhri leis sin, mar ní raibh sé in ann a rá céard a bhí i gceist aige.
+
+Agus é ag siúl trí choill bheag, chonaic sé coinín beag bán ag rith thart. "Hé, a choinín," arsa an seanduine, "an bhfuil a fhios agat cá bhfuil an eagna le fáil?" Stop an coinín agus d'fhéach sé air. "An eagna?" arsa an coinín. "Cén sórt eagna atá uait?" "Bhuel," arsa an seanduine, "tá mé ag iarraidh eagna a roinnt le daoine, ach ní féidir liom teacht ar éinne a éisteoidh liom." Rinne an coinín gáire beag. "Tá an eagna agat cheana féin," ar sé. "Níl a fhios agat é, ach tá sé istigh ionat."
+
+Ach níor thuig an seanduine é sin. "Ach conas is féidir liom é a roinnt?" ar seisean. "Bhuel," arsa an coinín, "tá sé cosúil le scéal maith. Ní féidir leat é a roinnt mura bhfuil duine éigin le héisteacht leis." Chroith an seanduine a cheann agus lean sé air ag siúl.
+
+Tamall ina dhiaidh sin, tháinig sé ar bhean a bhí ag baint fraochán ag bun an chnoic. "Dia duit, a bhean," arsa an seanduine. "An bhfuil a fhios agat cá bhfuil an eagna le fáil?" D'fhéach an bhean air agus rinne sí gáire. "An eagna? Tá sé agat cheana féin," ar sí. "Ach ní féidir leat é a roinnt mura bhfuil tú sásta éisteacht le daoine eile freisin." Ach arís, níor thuig an seanduine é sin. "Tá mé ag iarraidh eagna a roinnt, ní ag iarraidh éisteacht!" ar seisean.
+
+Lean sé air ag siúl go dtí gur tháinig sé ar abhainn bheag. Ar bhruach na habhann, bhí cailleach agus í ag ní a cuid éadaigh. "Dia duit, a chailleach," arsa an seanduine. "An bhfuil a fhios agat cá bhfuil an eagna le fáil?" Stop an chailleach ag ní agus d'fhéach sí air. "Tá tú ag siúl thart ag lorg eagna," ar sí, "ach ní thuigeann tú go bhfuil sí agat cheana féin. Tá an eagna mar bheadh uisce san abhainn seo. Ní féidir leat í a thabhairt leat; ní féidir leat í a choinneáil. Ach is féidir leat í a úsáid nuair atá sí ag teastáil uait."
+
+Bhí an seanduine buartha anois. Ní raibh sé ag tuiscint cad a bhí na daoine ag rá leis. "Ach conas is féidir liom eagna a roinnt mura bhfuil sí agam?" ar seisean leis féin. Shocraigh sé dul abhaile agus smaoineamh ar an scéal.
+
+Nuair a shroich sé an teach beag ag bun an chnoic, shuigh sé síos agus thosaigh sé ag smaoineamh. Ansin, tháinig cuimhne air. Lá amháin fadó, bhí sé ina ghasúr óg agus bhí a sheanmháthair ina suí taobh leis ag an tine. Bhí sí ag insint scéalta dó faoi dhaoine agus faoin saol. "A Sheáin," ar sise, "tá eagna i ngach duine. Ní féidir leat í a fheiceáil, ach tá sí ann. Agus is é an rud is tábhachtaí ná í a roinnt le daoine eile."
+
+Anois, tuigeadh don seanduine cad a bhí i gceist. Bhí an eagna aige cheana féin. Ní raibh sé ag lorg rud éigin nua; bhí sé ag iarraidh an rud a bhí aige cheana féin a roinnt. Ach ní raibh sé ag éisteacht le daoine eile. Ní raibh sé ag glacadh leis an méid a bhí acu le rá.
+
+An lá dár gcionn, chuaigh sé ar ais go dtí an sráidbhaile. Chuaigh sé chuig an siopa agus thosaigh sé ag labhairt le gach duine a bhí ann. "Tá eagna agam," ar seisean, "agus tá mé ag iarraidh í a roinnt libh." Ach in ionad scéalta a insint, thosaigh sé ag éisteacht le scéalta na ndaoine eile. D'inis siad dó faoina saol, faoina gcuid trioblóidí, agus faoina gcuid sonas. Agus ansin, tuigeadh dó gurbh é sin an eagna a bhí uaidh—an eagna a thagann nuair a éisteann tú le daoine eile.
+
+Ó sin amach, bhí an seanduine ar dhuine de na daoine is cliste sa sráidbhaile. Ní raibh éinne ag glaoch "amadán" air a thuilleadh. Ina ionad sin, bhí gach duine ag dul chuige le comhairle a lorg. Agus bhí sé sásta an eagna a bhí aige a roinnt leo, mar tuigeadh dó gurbh é sin an rud ba thábhachtaí ar fad.
+
+Agus mar sin, bhí saol fada sona ag an seanduine, agus ní raibh riamh aon duine chomh cliste leis arís. Agus sin é an scéal faoin seanduine agus an eagna a rug sé leis ón saol.</body>

@@ -1,0 +1,40 @@
+<prompt>
+Please write a relatable Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'O'zga almashgan akauka va opa'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>O'zga almashgan akauka va opa</title>
+<body>
+O'rtacha bo'yli, ko'zlarining rangi qum rangiga o'xshash,  yoshligi bilan ko'nglini o'ynaqlik qoplab turgan  Dilmurod akauka bor edi. Uning opa-singlisi Gulnora esa, uning aksi edi.  Gulnora qizaloq bo'lib, kichkinagina bo'yli,  qora ko'zli,  qalbi esa har doim yumshoq,  shirin tabiatli edi.
+
+Har ikkalasi ham o'ziga xos dunyolarida yashardi. Dilmurod doimo yangi o'yinlar ixtiro qilish bilan mashg'ul bo'lardi:  yashirincha qumli o'yingohlar qurish,  toshdan uylar qurish,  qushcha o'q o'qish va daraxtlarning soyasida  o'zining xayoliy qahramonlari bilan jang qilish.  Gulnora esa  gulzorlarning o'rtada o'zini  o'zining  maxsus sehrli bog'ida  to'qimagan gullar bilan bezatadi.  U  qushcha qo'shiqlarini  eshitishni yoqtirar,  quyosh nurlarining  yo'li bo'ylab  uchib o'tadigan  qushlarni kuzatardi.
+
+
+Bir kuni,  Dilmurod  o'zining  yangi o'yinini boshladi.  U  o'rmonning  chetidan  uchta  ko'k  toshni  topdi.  U  ularni  bir-biriga  yaqin  qo'ydi  va  ularni  o'z  o'yinlari  "uchli  qal'a" deb  nomladi.  U  bu  qal'ani  o'zining  eng  muhim  qal'asi deb  hisobladi.  U  qal'ani  qo'riqlash  uchun  xayoliy  qo'riqchilar  bilan  qo'riqladi.
+
+
+Gulnora esa,  uning  qal'asini  qoyil  qoldiradigan  tasvirlar bilan  bezatib  turardi.  U  gulzorlarning  o'rtada  bo'lagini  qal'a  oldida  joylashtirdi  va  rang-barang  gullar  bilan  bezatdi.  U  qal'aning  atrofida  gullar  bilan  bog'lab  qo'ydi,  qal'ani  o'zining  sehrli  bog'i  bilan  bog'lab  qo'ydi.
+
+Bir kuni,  Gulnora  o'zining  sehrli  bog'iga  o'tirdi  va  u  uchun  sehrli  bog'  qanday  o'xshashligi  haqida  o'ylay boshladi.  U  o'zining  tabiatidan  o'zining  qalbi  bilan  taqqoslashga  qiziqardi.  U  yumshoq  va  shirin  edi.  U  o'zining  shirinligi  bilan  o'ynardi.  O'yin  paytida,  u  o'zining  maxsus  qal'asini  uch  ta  ko'k  toshdan  qo'riqlaydigan  Dilmurod akakuning  xayoliy  qal'asini  ko'rdi.
+
+
+Dilmurod o'yinining  markazida  o'tirgan  bir  ko'k  toshni  ko'rdi va  o'zi  uchun  qo'riqchilarni  yashirincha  ko'rib  chiziqlarni  ko'rdi.  U  Gulnora  bilan  o'z  qal'alarini  bilan  bog'lab  qo'yishni  xohlardi.  U  Gulnoraning  bog'ini  o'zining  qal'asiga  yaqin  qo'yishni  orzu  qilardi.
+
+Bir  kuni,  Dilmurod  o'zining  qal'asini  qo'riqlash  uchun  yangi  qo'riqchi  topdi.  U  o'zining  qal'asiga  yaqin  joylashgan  Gulnoraning  bog'iga  o'zining  qal'asining  yo'lida  bir  ko'k  toshni  o'tkazdi.  Uning  qalbi  uning  bog'iga  olib  boruvchi  yo'l  g'oyasi  bilan  yo'qaldi.
+
+
+Gulnora  esa,  Dilmurod  bilan  birgalikda  o'ynaydigan  yangi  o'yinni  ixtiro  qilish  bilan  mashg'ul  bo'ldi.  Ular  birgalikda  yangi  bog'  va  qal'a  qurish  haqida  o'ylar ekanlar,  ularning  xayoliy  dunyosi  yanada  chiroyliroq  bo'ldi.  Ular  o'z  bog'lari  va  qal'alarini  o'zaro  bog'laydigan  yangi  yo'l  topdilar.
+
+
+Bundan  keyin  Dilmurod  va  Gulnora  birga  o'ynay  boshladilar.  Dilmurod  o'zining  qal'asini  qo'riqlash  bilan  birga,  Gulnoraning  bog'ini  ham  qo'riqlay  boshladi.  Gulnora  esa,  o'zining  bog'ini  bezash  bilan  birga,  Dilmurodning  qal'asini  ham  qo'riqlay  boshladi.
+
+Shu  tarzda,  ular  o'zaro  o'zgarishlar  bilan  o'zlarini  to'ldirdi  va  o'zlarining  dunyosi  yanada  quvnoqroq  va  chiroyliroq  bo'ldi.  Bir-birlarini  tushunish  va  qo'llab-quvvatlash  bilan  ular  o'zlarining  mustaqil  dunyosiga  yangi  o'yinlar  va  tasvirlar  bilan  boyitdilar.   O'zlarini  o'zgartirish  orqali  ular  o'zlarining  yangi  dunyosiga  kirishdilar.
+</body>

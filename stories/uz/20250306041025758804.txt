@@ -1,0 +1,35 @@
+<prompt>
+Please write a silly Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Sehrli o'rmonda yashiringan qal'a va sirlar'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>uz</lang_id>
+
+<title>Sehrli o'rmonda yashiringan qal'a va sirlar</title>
+<body>Bir paytda, O'zbekistonning yashil va go'zal tog'larida, sehrli o'rmon ichida yashiringan qal'a bor edi. Ushbu qal'a juda katta va chiroyli bo'lib, uning atrofida go'zal daraxtlar, gullar va jonzotlar yashardi. Qal'aning ichida sehrli sirlar yashiringan edi, lekin hech kim bu sirlarni bilmagan.
+
+Qal'aning oldida kichkina qishloq bor edi, u yerda yaxshi va mehribon odamlar yashardi. Ular qal'aning sirlarini bilishni juda istardilar, lekin hech qachon qal'aga kirishga muvaffaq bo'lmaganlar. Qishloqning eng kichkina bolasi, o'n yoshli Xurshid, qal'aning sirlarini ochishga qaror qildi.
+
+Xurshid o'zining eng yaxshi do'stlari, Toshbek va Dilnoza bilan birga, qal'aga borishga qaror qildi. Ular ertalab ertalab, qal'aga borish uchun yo'l oldilar. Qal'aga borish uchun ular ko'p vaqtlarini sarfladilar, chunki yo'l juda qiyin va uzoq edi. Lekin ular hech qachon taslim bo'lmadilar, chunki ular qal'aning sirlarini bilishni juda istardilar.
+
+Bir necha soatdan so'ng, ular qal'aga yetib kelishdi. Qal'aning oldida katta darvoza bor edi, lekin u yopiq edi. Xurshid va uning do'stlari darvozani ochishga urindilar, lekin u ochilmadi. Xurshid o'zining aql-zakovatidan foydalanib, darvozani ochish uchun bir yo'l topdi. U darvozaning yonida joylashgan kichkina tuynukni topdi va undan foydalanib, darvozani ochdi.
+
+Qal'aga kirgach, ular go'zal va katta zallarni ko'rdilar. Zallarning devorlari go'zal naqshlar bilan bezatilgan edi. Xurshid va uning do'stlari qal'aning barcha xonalarni aylanib chiqdilar, lekin hech qachon sehrli sirlarni topmadilar. Lekin ular umidsizlikka tushmadilar, chunki ular qal'aning sirlarini topishga qaror qilgan edilar.
+
+Bir necha soatdan so'ng, ular qal'aning eng yuqori qavatiga chiqdilar. U yerda ular go'zal va katta xonani ko'rdilar. Xonaning markazida katta va go'zal taxt bor edi. Taxtning oldida kichkina stol bor edi, u yerda sehrli kitob yotardi. Xurshid sehrli kitobni ochdi va undan o'qib, qal'aning sirlarini bildi.
+
+Sehrli kitobda yozilgan edi, ki qal'a sehrli jonzotlar tomonidan qurilgan edi. Jonzotlar qal'ani sehrli sirlar bilan bezatganlar edi. Qal'aning devorlari sehrli naqshlar bilan bezatilgan edi, ular qal'ani himoya qilardi. Qal'aning ichida sehrli quduqlar bor edi, ular qal'aga zarur bo'lgan suvni ta'minlaydilar.
+
+Xurshid va uning do'stlari sehrli kitobni o'qib, qal'aning sirlarini bilishdi. Ular qal'ani aylanib chiqdilar va sehrli jonzotlarni topdilar. Jonzotlar ularni kutib oladilar va ular bilan do'st bo'lishdi. Xurshid va uning do'stlari qal'ada bir necha kun qoldilar va sehrli jonzotlardan ko'p narsalarni o'rgandilar.
+
+Bir kundan so'ng, Xurshid va uning do'stlari qal'ani tark etishga qaror qildilar. Qal'adan chiqishdan oldin, ular sehrli jonzotlarga rahmat aytib, ular bilan vidolashdilar. Sehrli jonzotlar ularni eslab qolishdi va ular bilan do'st bo'lishdi. Xurshid va uning do'stlari qishloqqa qaytib kelishdi va ular qal'aning sirlarini boshqa odamlarga aytib berdilar.
+
+Qishloqning barcha odamlari Xurshid va uning do'stlariga minnatdor bo'lishdi, chunki ular qal'aning sirlarini ochishdi. Xurshid va uning do'stlari qishloqning eng yaxshi odamlariga aylanishdi. Ular qal'aning sirlarini himoya qilishdi va ularni boshqa odamlarga aytib berishdi. Qal'a sehrli o'rmonda yashiringan holda, qishloqning odamlari uchun sehrli joy bo'lib qoldi.
+
+Xurshid va uning do'stlari qal'ada ko'p marotaba borishdi va sehrli jonzotlardan ko'p narsalarni o'rgandilar. Ular qal'aning sirlarini himoya qilishdi va ularni boshqa odamlarga aytib berishdi. Qal'a sehrli o'rmonda yashiringan holda, qishloqning odamlari uchun sehrli joy bo'lib qoldi. Va Xurshid, Toshbek va Dilnoza qishloqning eng yaxshi odamlariga aylanishdi, chunki ular qal'aning sirlarini ochishdi va ularni himoya qilishdi.</body>

@@ -1,0 +1,53 @@
+<prompt>
+Please write a timeless Spanish children's story that is at least 1000 words long.
+It must be completely written in proper Spanish (ES).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La astronauta valiente que exploró el espacio y las estrellas brillantes.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>es</lang_id>
+
+```xml
+<title>La astronauta valiente que exploró el espacio y las estrellas brillantes.</title>
+<body>
+Érase una vez, en un pequeño pueblo lleno de casas coloridas y calles empedradas, una niña llamada Elena. Elena era una niña muy especial. Soñaba con las estrellas, con los planetas y con todo el misterio del espacio. En lugar de jugar con muñecas, Elena construía cohetes con cajas de cartón, exploraba el jardín como si fuera la luna y leía libros enormes sobre astronomía.
+
+Un día, Elena recibió una carta. No era una carta cualquiera, sino una invitación oficial de la Agencia Espacial Española. ¡Habían visto su pasión y sus maquetas de cohetes! Querían ofrecerle una beca para participar en un programa de entrenamiento para futuros astronautas. Elena, con los ojos brillando como las estrellas que tanto amaba, aceptó sin dudarlo.
+
+Comenzaron meses de arduo entrenamiento. Elena, con su valentía y determinación, superó cada desafío. Aprendió a volar aviones a reacción, a sobrevivir en ambientes extremos, a controlar la gravedad cero y a entender la compleja maquinaria de una nave espacial. Los profesores quedaron impresionados por su inteligencia y su dedicación. Elena no solo era talentosa, sino que también era una excelente compañera, siempre dispuesta a ayudar a sus compañeros.
+
+Finalmente, llegó el día esperado. Elena, ya convertida en astronauta, se preparaba para su primera misión: explorar el sistema solar. Su cohete, bautizado con el nombre de "Estrella Fugaz", era una maravilla de la ingeniería, lleno de tecnología de vanguardia. Al despedirse de su familia y amigos, sintió un nudo en la garganta, pero la emoción y el entusiasmo superaron cualquier temor.
+
+El despegue fue impresionante. Elena sintió la fuerza de los motores empujándola contra su asiento. La Tierra se alejaba, volviéndose una esfera azul y verde en el inmenso vacío negro. Poco a poco, el cohete cruzó la atmósfera, dejando atrás las nubes y la lluvia, y se adentró en el espacio.
+
+Una vez en el espacio, Elena realizó su primera tarea: observar la Tierra desde una perspectiva diferente. Contempló los continentes, los océanos y las montañas, todos cubiertos por una capa atmosférica que brillaba al sol. La vista era absolutamente impresionante. La Tierra, su hogar, parecía un planeta hermoso y frágil.
+
+Luego, la "Estrella Fugaz" puso rumbo hacia la Luna. Elena y su equipo recolectaron muestras de suelo lunar, estudiaron la superficie y plantaron la bandera española. Sintió una profunda emoción al dejar su huella en la Luna, un símbolo del ingenio humano y de la exploración.
+
+Después de la Luna, la misión continuó hacia Marte, el planeta rojo. La llegada a Marte fue aún más emocionante. Elena, junto con sus compañeros, descendió a la superficie marciana utilizando un vehículo especial llamado rover. Exploraron cráteres, montañas y valles, buscando señales de vida. Aunque no encontraron seres vivos, descubrieron rastros de agua, lo cual fue un hallazgo muy importante. La experiencia en Marte fue única, ya que exploraron un planeta completamente diferente a la Tierra.
+
+La siguiente parada fue Júpiter, el gigante gaseoso. Aunque no pudieron aterrizar en Júpiter, estudiaron su atmósfera, sus tormentas y sus impresionantes anillos. La magnitud de Júpiter era abrumadora, un coloso en el inmenso espacio.
+
+A lo largo de su viaje, Elena se enfrentó a numerosos desafíos. Hubo momentos de tensión, como cuando una pequeña avería en la "Estrella Fugaz" puso en peligro su viaje. Pero Elena, con su entrenamiento y su coraje, mantuvo la calma y, junto con su equipo, solucionó el problema. Siempre recordaba las palabras de su abuela: "El miedo es como la oscuridad. La valentía es la luz que lo vence".
+
+Después de visitar Júpiter, se adentraron en el cinturón de asteroides. Navegar por esa zona fue un desafío peligroso. Elena tuvo que maniobrar con precisión para evitar colisiones con los asteroides. Se sintió asombrada por la cantidad y variedad de rocas espaciales.
+
+Mientras navegaba por el espacio, Elena miraba hacia arriba, hacia las estrellas brillantes. Le gustaba imaginar historias sobre los planetas y las constelaciones. Pensaba en las diferentes formas de vida que podrían existir en el universo.
+
+Finalmente, la "Estrella Fugaz" regresó a la Tierra. Elena, después de meses de viaje, sentía una mezcla de alegría y nostalgia. El aterrizaje fue perfecto, y al abrir la escotilla, fue recibida con una lluvia de confeti y aplausos.
+
+Elena se convirtió en una heroína nacional. Fue recibida por el rey y la reina, quienes le felicitaron por su valentía y sus logros. Se escribieron libros y películas sobre ella, inspirando a miles de niños y niñas a soñar con el espacio.
+
+Pero lo más importante para Elena no fueron los honores ni la fama, sino la experiencia de haber explorado el espacio y las estrellas. Su corazón estaba lleno de recuerdos de los planetas que había visitado, de los retos que había superado y de la inmensidad del universo que había contemplado.
+
+Elena, después de esa misión, siguió trabajando en la Agencia Espacial, pero su corazón estaba con las nuevas generaciones. Dedicó mucho tiempo a compartir sus experiencias con los niños, animándolos a estudiar, a ser curiosos y a nunca dejar de soñar. Siempre recordaba a aquellos niños, a sus ojos brillantes de admiración, y sabía que su trabajo valía la pena.
+
+La historia de Elena, la astronauta valiente, se convirtió en una leyenda. Un cuento para los niños de todas las generaciones, que enseñó a todos a perseverar, a no temerle a los desafíos y a perseguir sus sueños con la misma pasión con la que Elena perseguía las estrellas.
+
+Y así, cada noche, los niños del pueblo miraban hacia el cielo, buscando las estrellas brillantes, recordando la historia de Elena, la astronauta que nos enseñó que el universo es inmenso, pero los sueños pueden ser aún más grandes. Y colorín colorado, este cuento espacial se ha acabado. Pero las estrellas siguen ahí, esperando a que otros valientes las exploren.
+</body>
+```

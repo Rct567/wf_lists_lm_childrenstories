@@ -1,0 +1,88 @@
+<prompt>
+Please write a silly Portuguese (Brazil) children's story that is at least 1000 words long.
+It must be completely written in proper Portuguese (Brazil) (PT_BR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A Galinha Gigi e o Mistério dos Ovos Dourados que Sumiram da Granja Feliz.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pt_br</lang_id>
+
+```xml
+<title>A Galinha Gigi e o Mistério dos Ovos Dourados que Sumiram da Granja Feliz.</title>
+<body>
+Era uma vez, numa granja chamada Granja Feliz, a galinha Gigi, a mais espevitada e falante de todas. Gigi não era uma galinha qualquer. Ela tinha um topete vermelho que parecia uma cereja gigante e adorava usar óculos de sol, mesmo quando o sol estava encoberto. Ela também era conhecida por sua inteligência (e por sua mania de fazer charadas o tempo todo!).
+
+Na Granja Feliz, tudo era alegre. Os porquinhos brincavam na lama, as vacas faziam "muu" e, claro, as galinhas botavam ovos deliciosos. Só que, um dia, aconteceu uma coisa muito estranha: os ovos dourados, os mais bonitos e valiosos da granja, sumiram!
+
+A notícia correu solta pelos currais e chiqueiros. O galo Zé, com seu penacho imponente e voz estrondosa, reuniu todos os animais.
+
+– Atenção, atenção! – berrou Zé. – Os ovos dourados sumiram! Precisamos descobrir quem fez isso! A Granja Feliz está em perigo!
+
+Todos os animais começaram a falar ao mesmo tempo. A vaca Mimosa, com sua voz suave, perguntou: "Quem será o culpado?" O porquinho Chonchon, sempre com fome, exclamou: "Será que foi um bicho que come ovos?" A pata Patrícia, que adorava fofocar, logo soltou: "Ouvi dizer que a raposa da floresta estava por perto..."
+
+Gigi, com seus óculos de sol brilhando, interrompeu a cacofonia.
+
+– Calma, pessoal! Não adianta pânico! Precisamos pensar! – disse ela, ajustando os óculos. – Eu, Gigi, a galinha mais esperta da Granja Feliz, vou resolver este mistério!
+
+E assim, Gigi, a detetive galinácia, começou sua investigação. Primeiro, ela foi falar com o galo Zé, para saber o que ele tinha visto.
+
+– Zé, meu caro, onde estavam os ovos dourados quando sumiram? – perguntou Gigi, com um tom inquisitivo.
+
+– Estavam no galinheiro principal, perto do ninho da dona Gertrudes! – respondeu Zé, com uma certa apreensão.
+
+Gigi foi até o galinheiro, observando tudo com atenção. Ela examinou o chão, as palhas, os ninhos. Nada. Mas, de repente, ela viu uma pequena pena dourada no chão.
+
+– Aha! – exclamou Gigi. – Uma pista! Mas de quem é esta pena?
+
+Ela chamou a dona Gertrudes, a galinha mais velha e experiente da granja. Dona Gertrudes tinha um olhar sábio e conhecia todos os segredos da Granja Feliz.
+
+– Dona Gertrudes, você sabe de quem é esta pena dourada? – perguntou Gigi, mostrando a pena.
+
+Dona Gertrudes, com seus olhos cinzentos, olhou para a pena e respondeu:
+
+– Essa pena é do Pica-Pau. Mas por que um pica-pau estaria perto dos ovos?
+
+Gigi franziu a testa. Era uma boa pergunta. Ela precisava interrogar o Pica-Pau.
+
+Ela procurou o Pica-Pau na floresta, que ficava ao lado da granja. O Pica-Pau era um pássaro engraçado, com um topete vermelho e um bico afiado, que adorava bater nas árvores.
+
+– Pica-Pau, meu amigo, o que você estava fazendo perto do galinheiro ontem? – perguntou Gigi, com um sorriso amigável.
+
+O Pica-Pau, um pouco surpreso, respondeu:
+
+– Eu estava procurando comida! Amo encontrar bichinhos na madeira e também grãos… Por quê?
+
+– E você viu alguma coisa fora do comum? – insistiu Gigi.
+
+O Pica-Pau pensou por um momento e disse:
+
+– Bem, eu vi um rato muito esperto andando por ali... ele tinha um olhar estranho... com certeza aprontando alguma coisa!
+
+Um rato esperto?! Gigi já estava começando a entender o que havia acontecido. Ela voltou para a granja e procurou pelo rato. Finalmente, encontrou-o perto do depósito de milho, com as bochechas cheias e um brilho suspeito nos olhos.
+
+– Senhor Rato, o que o senhor estava fazendo por perto dos ovos dourados? – perguntou Gigi, encarando o rato.
+
+O rato, gordinho e esperto, tentou disfarçar, mas não conseguiu enganar Gigi. Ele começou a gaguejar.
+
+– Eu... eu... estava só... passeando... – disse ele.
+
+– Passeando com a barriga cheia de ouro?! – exclamou Gigi.
+
+O rato, envergonhado, confessou:
+
+– Eu peguei os ovos... Eu queria comê-los... mas estavam muito grandes! E brilhantes! Levei para um esconderijo no celeiro!
+
+Gigi, com um olhar triunfante, levou o rato até o celeiro. Lá, estavam os ovos dourados, intactos, brilhando no escuro.
+
+– Seu rato trapalhão! – disse Gigi. – Ovos dourados não são para comer! São para trazer alegria para a Granja Feliz!
+
+Ela chamou o galo Zé e todos os outros animais, e mostraram os ovos recuperados. O rato foi gentilmente repreendido. Os ovos foram devolvidos à Dona Gertrudes.
+
+A Granja Feliz explodiu em alegria. Todos agradeceram a Gigi, a galinha detetive, por resolver o mistério dos ovos dourados. A partir daquele dia, Gigi ficou ainda mais famosa. Ela continuou a usar seus óculos de sol, a resolver enigmas e a fazer charadas, tornando a Granja Feliz um lugar ainda mais divertido e seguro. E, claro, os ovos dourados voltaram a brilhar, trazendo alegria e fartura para todos os moradores da Granja Feliz, incluindo o rato, que, de tão envergonhado, prometeu nunca mais mexer com ovos dourados e virou fã número um da Gigi.
+Fim.
+</body>
+```

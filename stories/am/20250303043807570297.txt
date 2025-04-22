@@ -1,0 +1,24 @@
+<prompt>
+Please write a funny Amharic children's story that is at least 1000 words long.
+It must be completely written in proper Amharic (AM).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'ልጆችን በአንድ ቀን ማወቁ ይቻላል'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>am</lang_id>
+
+<title>ልጆችን በአንድ ቀን ማወቁ ይቻላል</title>
+<body>
+አብረን እንኖረና እንደ ቤተሰብ እንራቀስ የሚባል አንድ ቤተሰብ ነበረ። አባታቸው ስም አበበ እና እናታቸው ስም ማርበት ነበረ። ልጃቸው ስም አስናቀ ነበረ። አስናቀ በአንድ ቀን ብዙ ነገሮችን ማወቅ የሚያስባል ልጅ ነበረ።
+
+አስናቀ እዚህ እዚህ ይሄድ እዚህ እዚህ ይመለስ ብዙ ነገሮችን ማወቅ የሚያስባል ልጅ ነበረ። አባቱ አበበ በአንድ ቀን አስናቀን ብዙ ነገሮች ለማስተማር እንደሚያስባል ማርበትን አባት አበበ እና እናት ማርበት እንዲህ ነበሩ።
+
+አበበ፡ ማርበት አስናቀ እዚህ እዚህ ይሄድ እዚህ እዚህ ይመለስ ብዙ ነገሮችን ማወቅ የሚያስባል ልጅ ነው። እዚህ እዚህ ይሄድ እዚህ እዚህ ይመለስ ብዙ ነገሮችን ለማስተማር እንደሚያስባል አስናቀን ብዙ ነገሮች ለማስተማር እንደሚያስባል እናት ማርበትን አባት አበበ እንዲህ አሳወቀ።
+
+ማርበት፡ እንዴት አስናቀ ብዙ ነገሮችን ማወቅ የሚያስባል ልጅ ነው እና እዚህ እዚህ ይሄድ እዚህ እዚህ ይመለስ ብዙ ነገሮችን ለማስተማር እንደሚያስባል እንዴት አስናቀን ብዙ ነገሮች ለማስተማር እንደሚያስባል አባት አበበን እንዲህ ጠየቀ።
+
+አበበ፡ አስናቀ ብዙ ነገሮችን ማወቅ የሚያስባል ልጅ ነው ማርበት። እዚህ እዚህ ይሄድ እዚህ እዚህ ይመለስ ብዙ ነገሮችን ለማስተማር እንደሚያስባል እናት ማርበትን አባት አበበ እንዲህ አሳወቀ። እዚህ እዚህ ይሄድ እዚህ እዚህ ይመለስ ብዙ ነገሮችን ለማስተማር እንደሚያስባል አስናቀ ልጅ እንዴት ነው ብዙ ነገሮችን ማወቅ የሚያስባል እናት ማርበትን አባት አበበ እንዲህ ጠየቀ።

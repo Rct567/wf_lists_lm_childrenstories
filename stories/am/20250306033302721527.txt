@@ -1,0 +1,26 @@
+<prompt>
+Please write a funny Amharic children's story that is at least 1000 words long.
+It must be completely written in proper Amharic (AM).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'የውሃ ላይ የሚንሳፈፍ ትንሽ ታሪክ'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>am</lang_id>
+
+<title>የውሃ ላይ የሚንሳፈፍ ትንሽ ታሪክ</title>
+<body>
+በጥንት በአንድ አገር ላይ ትንሽ የሕይወት ክፍል ነበረ። ይህ የሕይወት ክፍል ከላይ ወረዳዎች እስከ ታላቅ ሀይቅ ድረስ የተራራ ሐይቆች ነበሩ። ከሀይቅ ወደ ውሃ እንዲገቡ የሚያስችላቸው አብያታ ነበሩ።
+
+በዚህ የሕይወት ክፍል ላይ አንድ ትንሽ እንስሳ ኖረ። እንስሳው ስም አበበ ነበረ። አበበ እንስሳው በዚህ ሕይወት ክፍል ላይ የሚኖረውን በጣም አድናለሁ ነበረ። አበበ ትንሽ ቆዳ ሲሆን እና ትንሽ ሆድ ሲኖረው በቀላሉ ሊነሳ ስለሚችል የውሃ ላይ ሊንሳፈፍ ይችል ነበረ።
+
+አበበ በዚህ ክፍል ላይ በቀላሉ ሚንሳፈፍ ስለሚችል በዚህ እንስሳዎች መካከል በጣም ዕውቅ ነበረ። የሚኖሩት አብያታዎች እና ሌሎች እንስሳዎች በቀላሉ ሊንሳፈፍ አንዳንድ ሊያዩት አበበን እና ሊጎዳቱት ስለሚሞክሩ እንስሳው ሊታደግ ነበረ።
+
+አበበ እንስሳው ለማረጋገጥ ያለበትን ቦታ ከሚኖረው ጠብ አጥቢ ለማድረግ ሲሞክረው እዚህ ክፍል ላይ ብዙ ጥቅም ሊሰራጩ ነበረ። እንስሳው በቤተሰብ አባትነት ወይም እናትነት ሲያገለግል እንስሳዎች እዚህ የሚኖሩትን እንስሳዎችን ለማስደሰት ያስችሏል።
+
+አበበ ቁሳሌን ለማጎረት እና ብዙ ጊዜ እንስሳዎችን ለማጎረት ሲሞክረው በሺህ እንስሳዎች ሊታይ ይችል ነበረ። በሌሎች እንስሳዎች ሊረብሽ እና ሊንሳፈፍ በቀላሉ አበበ እንስሳው በተራራ ሐይቅ እና በጥንት እንስሳዎች እዚህ ክፍል ላይ እንዳሉ ብዙ እንስሳዎች ያሉ ነበረ።
+
+በዚህ ክፍል ላይ በተራራማ አብያታ ላይ ብዙ ጥቅም ያለው አበበ ብቻ ነበረ። አበበ በቀላሉ ሊነሳ ስለሚችል በተራራማ አብያ

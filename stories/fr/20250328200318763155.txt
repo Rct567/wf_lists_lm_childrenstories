@@ -1,0 +1,117 @@
+<prompt>
+Please write a dialog-based French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'L'amitié précieuse entre le chien joyeux et le canard paresseux près de l'étang.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```xml
+<title>L'amitié précieuse entre le chien joyeux et le canard paresseux près de l'étang.</title>
+<body>
+— Ouah ! Ouah ! Bonjour, Plouf ! Qu'est-ce que tu fais ? demanda le chien, un adorable golden retriever nommé Max, en remuant frénétiquement la queue.
+
+Plouf, un canard dodu et nonchalant, ouvrit un œil et grommela : — Oh, bonjour, Max. Je bronze.
+
+— Bronzer ? Mais le soleil est caché derrière les nuages ! s'exclama Max, un peu perplexe.
+
+Plouf soupira, en ajustant une de ses plumes. — Ça se ressent, Max. C’est toujours bon de se préparer pour l'été. Prévenir plutôt que guérir, tu comprends ?
+
+— Heu... pas vraiment, répondit Max. Je préfère courir et jouer ! On peut jouer à rapporter la balle ? Je l'ai apportée !
+
+Max exhiba une balle de tennis mouillée qu'il avait récupérée dans l'étang.
+
+— La balle ? fit Plouf, indifférent. Je suis bien ici. Je n'ai pas envie de bouger. C'est trop fatigant.
+
+— Mais c'est amusant ! Et après, on peut piquer une tête ! Il y a plein de poissons qui nagent ! tenta Max avec enthousiasme.
+
+Plouf cligna des yeux. — Des poissons ? Ils sont bien embêtants ces poissons. Toujours à faire des ronds dans l’eau.
+
+— Ils ne sont pas embêtants ! Ils sont... intéressants ! Je les surveille quand je joue. Certains sont grands, d'autres sont tout petits… et... et ils brillent ! ajouta Max, fasciné.
+
+Plouf hésita un instant. — Brillant... ? Bon, peut-être... Mais juste un peu. Vraiment, vraiment juste un petit peu. Et tu promets que tu ne vas pas me forcer à nager trop longtemps ? Je suis vite fatigué.
+
+Max sauta de joie, faisant voler des gouttelettes d'eau. — Promis ! On ira juste un peu ! Et puis, on pourra manger des galets ! Maman m'a dit que tu aimais les galets !
+
+Plouf, gourmand comme toujours, acquiesça. — Les galets… oui. On en trouve des bons ici. Alors, d'accord. Mais je ne vais pas vite !
+
+Ils s’approchèrent doucement de l'étang. Max lança la balle, courant avec une énergie débordante. Plouf, quant à lui, se contenta de le suivre, en se dandinant maladroitement, et marmonnant : "Du calme, Max… on a toute la journée..."
+
+Soudain, un petit cri aigu retentit. Une petite souris grise, Rosalie, était tombée dans l'eau. Elle se débattait désespérément, essayant de se maintenir à la surface.
+
+Max, bondissant comme un éclair, plongea sans hésitation. Il ramena Rosalie dans sa gueule, délicatement, sans la blesser. Il la déposa sur le bord de l'étang, en la regardant avec inquiétude.
+
+Rosalie, tremblante, toussa et dit d'une voix faible : — Merci… Merci beaucoup, Max ! J'étais sûre que j'allais me noyer…
+
+Max aboya gentiment, et lui lécha la joue pour la rassurer. Plouf, quant à lui, s'était approché. Il observa la scène avec compassion.
+
+— Tiens, Rosalie, tu as l'air glacée. Reste là, au soleil.
+
+Il se pencha et prit Rosalie délicatement dans son bec. Avec beaucoup de soin, il la transporta vers un petit tas de feuilles sèches et douces, ensoleillé.
+
+— Tu es vraiment gentil, Plouf, murmura Rosalie. Et toi aussi, Max. Vous êtes les meilleurs amis du monde.
+
+— Oh ! répondit Max, confusément joyeux. C’est parce qu'on partage tout ! Et Plouf est très fort quand il veut !
+
+Plouf, tout penaud, regardait Rosalie. — Euh… bon, c’est vrai que je peux faire des efforts…
+
+Ils passèrent le reste de l’après-midi auprès de Rosalie, qui reprenait des forces. Max chassait les mouches qui l’importunaient, et Plouf lui racontait des histoires amusantes sur les poissons.
+
+Le soleil commençait à se coucher, peignant le ciel de couleurs chaudes. Rosalie, complètement rétablie, dit : — Je dois rentrer chez moi. Merci encore. Sans vous deux…
+
+— Ce n’est rien ! déclara Max en secouant sa belle fourrure dorée. C'était un plaisir !
+
+Plouf, pour la première fois de la journée, semblait tout à fait énergique. — Oui, au revoir, Rosalie. Et n'hésite pas à revenir.
+
+Rosalie leur sourit et disparut dans les hautes herbes.
+
+Max et Plouf, seuls au bord de l'étang, se regardèrent. Max agita sa queue. — C’était une bonne journée, hein, Plouf ?
+
+Plouf soupira, mais un petit sourire illumina son visage. — Oui… Très bonne. Peut-être un peu moins fatigante que prévu.
+
+— Et tu as vu comme tu as aidé Rosalie ? Tu es un héros, Plouf ! affirma Max avec fierté.
+
+Plouf roula les yeux. — Héros… c’est beaucoup dire… J’ai juste pris une souris. Mais ça fait plaisir d'aider, je dois l’admettre.
+
+Ils restèrent encore un moment, contemplant le reflet des étoiles dans l’eau sombre.
+
+— Tu sais, Max, dit Plouf après un silence. Je crois que… j'aime bien quand on est amis. Ça donne plus de sens aux galets et aux journées ensoleillées… même sans le soleil !
+
+— Moi aussi ! répondit Max. Et j'aime bien te voir bronzer, même si je ne comprends pas toujours pourquoi !
+
+— C’est un secret, Max, répondit Plouf en clignant de l'œil. Et entre amis… on partage des secrets, n’est-ce pas ?
+
+Max renifla joyeusement et alla chercher une autre balle.
+
+— On joue ? demanda-t-il.
+
+Plouf soupira à nouveau. — D’accord… mais pas trop longtemps ! Et je vais t’attendre au bord de l’eau !
+
+Max, le cœur débordant de joie, comprit. L'amitié, c’était aussi comprendre les autres, respecter leurs envies… et accepter un peu de repos, de temps en temps. Il lança la balle et se mit à courir, heureux de partager cette amitié précieuse avec son ami canard, Plouf.
+
+Plus tard, alors que le ciel s’était rempli de paillettes lumineuses, Max et Plouf étaient allongés côte à côte, sur le bord de l'étang. Max avait fini par s'endormir, la balle serrée entre ses pattes. Plouf, les yeux mi-clos, fixait le ciel.
+
+— Max… ? murmura Plouf.
+
+Max grogna et ouvrit un œil. — Hmm ?
+
+— Tu crois que les poissons brillent vraiment ?
+
+Max se redressa. — Bien sûr ! Regarde !
+
+Il pointa son nez vers l’étang, tout excité.
+
+Plouf regarda attentivement, plissa les yeux et dit, dubitatif : — Ils... ils brillent un tout petit peu... vraiment très, très peu… Mais oui, peut-être un peu… surtout quand ils font des ronds dans l’eau…
+
+Max se mit à aboyer joyeusement, tout fier. Plouf, lui, émit un petit rire, léger comme le vent.
+
+L'amitié précieuse entre le chien joyeux et le canard paresseux continua, faite de galets partagés, de jeux agités, de sauvetages inattendus et, surtout, d'un amour sincère et inconditionnel. Leurs journées, bercées par les murmures de l’eau et les rires du soleil, seraient toujours un peu plus belles, un peu plus lumineuses, grâce à l'amitié qui les unissait. Et, par une chance inouïe, ils continueraient à partager ces journées précieuses ensemble, au bord de l’étang, et ce, pendant très longtemps.
+
+Un doux silence tomba, le crépuscule étoilé baignant les deux amis.
+</body>
+```

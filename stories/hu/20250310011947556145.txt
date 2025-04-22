@@ -1,0 +1,40 @@
+<prompt>
+Please write a emotional Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A fák beszélő ágai és a suttogó szél története'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>A fák beszélő ágai és a suttogó szél története</title>
+<body>
+A patak partján, a Zöldhegy lábánál, állt egy óriási tölgyfa.  Nem volt a legmagasabb a völgyben, nem is a legvastagabb, de benne lakott a történelem, és érezte a szél minden susogását, minden madárdalt.  A tölgyfa, akit a falusiak Bátornak hívtak,  nagy, erős ágai tele voltak apró, csillogó levelekkel, amik ősszel aranysárgává és mély vörösként váltó színűvé váltak. Ősidők óta állt ott, és a levelei látták minden ifjúnak a növekedését, minden idősnek az öregedését.
+
+Egy nap,  kis szürke, huncut cica, Szürkefül, felmászott Bátor fa hatalmas, bársonyos törzsére.  A cica a földön elszalasztó kis madarat követve,  kúszott, mászott és érezte, hogy valami különös közeledik. A levegő finoman remegett, halk, titkos zörejek vették körül. A kis Szürkefül odament egy vastag ág alá és a földszintjétől a legtetejéig csodálkozva figyelt. Az ágak suttogtak, egymáshoz fordultak, mint valami titkos tanácskozás résztvevői. Nem szólt hangosan, inkább sóhajtozott és mormogtak, szélbe-szellőbe vegyültek.
+
+A cica kíváncsian hallgatta. "Nemsokára eljön a tél, – mondta egy vékony, görbült ág. – Szívfájdalmas hideg borít majd mindent." – És hogyan lehet tudni egy ilyen finom ágnál ezt? – csodálkozott a kis cica. – Hiszen a tél jöveteléről a hóval való találkozás jelzi, amikor a nap hideg fényei halványodni kezdenek. Még az is előfordulhat, hogy a nappali fénye elkésik, és egyetlen halvány fény marad.
+
+Egy másik ág, jóval erősebb, de mélyebben a fába gyökerezett, megszólalt:  "Azért tudjuk, mert érezzük a szél susogását.  Mint egy síró gyerek, amelyik a  vízhordónyi vágyaknak, és  örömkönnyekkel adja életének ajándékát. Nem kell a tél jöttét hallgatni, érezni tudjuk és érezzük".
+A levegőben keringő szél suttogott hozzájuk, s hamarosan már az egész erdő rezdült és morajlott az énekében.  „Egy életen át éltél. A szeleim megfésülték a hajodat, láttad már az ősz színeit, hogy a fák lehullanak, és a hó borítva jön.” – szelte a levegőt a szél mély, rejtett szava. "Láttad a nyár virágzását, ahogy virágot ereszt minden zug, minden üregbe".
+Szürkefül elrejtette a szent ijedés elől a fából, érezte, hogy érzelmek töltik be a fával töltött kis rejtekét, és úgy érezte, hogy a fa sírni kezd. 
+
+
+Bátor fa suttogott egy kis leveleinek a titkos édes, mély öröméről, a kis, törékeny pillanatairól. De azután újra, újra felrémlett szemei előtt a sötét,  hideg téli évszak gondolata, amitől megremegett a kis szürke cica is. A világban volt, egy olyan emberi lény világában, aki tudta mi történt.
+
+
+A szél, aki ezután szétterjedt az egész völgyön át, elmesélte, hogy a világ  érzésekbe fordul  minden fába és minden élő lénybe. "A föld anyja nem tud sírni",  szuszogta szomorúan egy kis ág a fáról. És újra, mintha Bátor fa érezne mindent, hallhatott mindent.
+
+
+ Szürkefül egy kis időre a fa szélárnyék alatt maradt, a fával suttogó hangok között, megpróbálva felfedezni, hogy ki volt az, aki azt a finom hangot kiadta. Miközben a szél halkan süvített, és a lombok susogtak, úgy tűnt, hogy a fából érkező zörejek közelebbinek tűnnek.
+
+
+És ahogyan a Nap lassan elrejtette magát a Zöldhegy mögött, úgy csendesedett el a szél is, és suttogása fokozatosan halkabb és halkabb lett. A fákon üldögélő madarak visszahúzódtak, és a csend belenyugodott a völgybe.
+
+
+Szürkefül a fa gyökerei mellett feküdt, míg fel nem ébresztette őt a reggeli napfény. Felpattant, a fához búcsúzott, megköszönve a szél suttogását, hogy az összes levél megtudta a titkát. Ígéreteket tette, hogy a tudás és érzelmek vigyázója lesz és hogy soha nem feledi a  fa suttogásait és a  suttogó szél történetét. Bátor fa pedig megmaradt az erdő szívében, tudatában minden apró részletnek és a levelek emlékének. A kis szürke cica megfogadta, hogy megtartja Bátor fával való barátkozását, soha el nem felejtve e fából érkező szeretetet.
+</body>

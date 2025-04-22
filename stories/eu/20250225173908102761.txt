@@ -1,0 +1,47 @@
+<prompt>
+Please write a simple and easy-to-follow Basque children's story that is at least 1000 words long.
+It must be completely written in proper Basque (EU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Eguraldiaren aldaketak eta klima'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>eu</lang_id>
+
+<title>Eguraldiaren aldaketak eta klima</title>
+<body>
+Aurtengo uda oso beroa izan zen.  Eguzkiak lurra lehortzen zuen, eta landareek ura eskatzen zuten.  Txomin, basoko gaztelu txiki baten ondoan bizi zen haur bat, zain zegoen ur-putzutik ura atera eta landareak ureztatzeko.  Egun batean, ordea, ur-putzua lehor zegoen.  Txominen begiradak lurra zeharkatzen zuen, eta bertan aurkitutako txiki-txikiak izugarri larritu zituen.
+
+"Zer gertatu da?" galdetu zuen Txominen ahotsa, haserre.  Sua ikusten zuen lurrazpian, zerua beti bezala hori, baina ez zegoen freskura.  Txominen ama, basoko ahizpa jakintsu bat, hurbildu zen.  "Ura, Txomin, ez da betiko.  Lurraren gorputzaren barneko ur-biltegiak agortzen ari dira.  Ur-putzua lehor geratzea ez da gertatu egun batean bakarrik.  Eguraldiaren aldaketak dira horren arrazoia".
+
+"Eguraldiaren aldaketak? Zer dira horiek?" galdetu zuen Txomin, bere begiak zabalik.
+
+"Eguraldiaren aldaketak gure planetako klimaren aldaketa dira, lurraren tenperatura eta eguraldiaren joerak aldatzen ari dira", azaldu zuen amuak.  "Hainbat gauzaren ondorioz gertatzen dira, eta horien artean, gure jarduerak dira garrantzitsuenen artean."
+
+Txomin pentsatu zuen, bere buruari galdera asko eginez.  "Zer jarduera horiek?" galdetu zuen.
+
+"Gure jardueren ondorioz, gasak atmosferan pilatzen ari dira, eta horrek lurraren tenperatura igoarazten du, ur-biltegiak agortzen direla eta, hala, eguzkiak lehortzen dituen lurrak", esan zuen amak.
+
+"Zer moduz aldatzen da eguraldia, bada?" galdetu zuen Txomin.
+
+"Beroago, hotzago, euri gehiago edo gutxiago ematen da... eta eguraldi desegokiak gertatzen dira".  "Euri gogorrak, lehorteak eta haizeak, besteak beste."
+
+"Ez dut ulertzen...", Txominen ahotsa urduri zegoen.
+
+"Imajinatu, Txomin, lurra ilunduta dagoen bezala, euri gutxiago ematen du eta ura ez da oso ondo mugitzen.  Landareak, animaliek eta guri ere, ur gehiago behar dugu eta horregatik eguraldiaren aldaketak dira garrantzitsuak gure bizitzarako", esan zuen amak.
+
+"Zertarako dira garrantzitsuak, bada?" galdetu zuen Txomin, pentsatzen.
+
+"Eguraldiaren aldaketak gure planetaren eta bertan bizi garen guztien ondoko bizitzaren eragina da.  Klima aldatzen ari da gure planetako eremuen eragina dela eta.  Beroagoa izateak hainbat gauza eragin ditzake, besteak beste, uholdeak, lehorteak, eta baso suteak.  Eta hotzagoa izateak ere, ez da berdina. Horrek ere ondorioak izan ditzake!"
+
+"Eta zer egin dezakegu?" Txomin, urduri, galdetu zuen.
+
+"Gauza asko egin ditzakegu", azaldu zuen amak.  "Lehenik eta behin, kontserbatu egin behar dugu ura.  Ureztatze eraginkorra egin behar dugu etxean eta nekazaritzan.  Elektrizitate gutxiago erabiltzen ikasi behar dugu eta eguzkiaren energia bezalako energia berriztagarriak erabiltzen ikasi behar dugu.  Ez da beti erraza, baina, gure jardunera guztiak aldatu behar ditugu eta ingurumena zaindu behar dugu.  Hainbat erakunde eta ikastaro daude, eta horri buruz gehiago ikasi ahal izateko, eta besteekin partekatu ahal izateko".
+
+Txomin ikaragarri pozik zegoen.  "Hainbat gauza egin ditzakegula ikasi dut", esan zuen.  "Laguntzen saiatuko naiz, ura kontserbatu eta ingurumena zaindu".
+
+Hurrengo egunetan, Txomin eta haren ama basoko ur-ibilbideak egin zituzten, beti uraren beharra aztertuz.  Txominen ideia eta eginbideek beste haurrei eragiten zien, eta ingurumena zaintzeko modu berriak ikasten hasi ziren.  Txominen esperientziak erakutsi zuen nola gure ekintzak planetaren egoeraren eragina izan dezakeen, eta nola eguraldiaren aldaketak eta klima guztiontzat garrantzitsuak diren.  Txomin eta beste haur guztiek eguraldiaren aldaketak zaintzeko konpromisoa hartu zuten, haien bizitza eta planetan bizi diren guztien ondoko bizitzaren alde.
+</body>

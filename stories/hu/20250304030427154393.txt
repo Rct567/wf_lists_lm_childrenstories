@@ -1,0 +1,43 @@
+<prompt>
+Please write a silly Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A kicsi kék sárkány és az elveszett csillagok kincse'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>A kicsi kék sárkány és az elveszett csillagok kincse</title><body>
+A kicsi kék sárkány,  Kékő, nem volt olyan félelmetes, mint a nagy, zöld, tüzes sárkányok.  Inkább úgy festett, mint egy óriási, kék tollal bevont,  egy kis maci pelusába bugyolált  gyapjú gombóc.  Nincsenek éles fogai, csak apró,  ropogtatni való, szőlőfürt alakú fogak.   A repüléshez pedig, helyett a tűzköpésnek,  szépen pörgött a levegőben, mint egy kék szappanbuborék.  Kékőnek nagy álma volt: megtalálni az Elveszett Csillagok kincsét.  Sok sárkány mesélt róla, csillogó hangos mormogásokkal, a régi, titkos barlangokban.
+
+Egy reggel, amikor a nap első sugarai még csak ébresztették a fák ágait, Kékő elindult a  nagy  cseresznye-hegyre, hogy meglelje a kincshez vezető utat.  Útközben találkozott egy apró,  kékfejű,  piros tollú harkálymadárral, aki éppen  csipkebogyókat csipegetett.
+–  Harkály, Harkály! – kiáltott Kékő. – Tudod, merre van a  Cseresznyés-hegy csúcsa, hol találhatnám meg az Elveszett Csillagok kincsét?
+
+
+A Harkály, aki  kedvelte a  kifejezetten intelligens kérdéseket,  megcsóválta apró fejét.
+– Nem értem  a  kérdésed!  – válaszolta a harkály,  s majd elhatározottan csóválgatta a fejét.
+– Én keresem a piros bogyókat, te pedig,  még ennél is nagyobb dolog után nyomozol?  Mondom neked, ha találsz is, a csúcsra kapaszkodni, neked  még  a széléig kellene elérned a hegyet, hogy  a csúcsra juthass! –szemrehányóan mondta, s visszatért csipkebogyózni.
+
+Kékő elszomorodott. Milyen nehéz is ez, ha a harkály sem tud segíteni.  Elgondolkodott, hogyan tudná felmászni a magasságos  Cseresznyés-hegyre.  Elképzelte, hogy nagyokat sóhajtozva, óriási tüzet  köpő  szárkányként száll a csúcsra. De  ez  esetleg  rágyújthatná a csupa csipkebogyóval szegélyezett hegyet!  
+
+Ekkor  a fák között egy  aranyos kis  szürke cickány futott el Kékő mellett.
+– Mi a baj, kis sárkány? – kérdezte a cickány.
+–  A cseresznyés-hegy csúcsára kellene jutnom, hogy megtaláljam az elveszett csillagok kincsét, de nem tudom hogyan!
+– Ó, egy kincs!  Azt könnyű!– mosolygott a cickány és a  földeken  gyorsan szaladt egyenesen a Cseresznye-hegy felé. 
+Kékő nem értette a dolgot. Azt hitte, hogy a Cickány a kincsre való rátaláláson segít. Nem értette, mire megy ki a dolog.
+–  Hogyan juthatnék fel?
+– Ne aggódj, Kékő – mondta a cickány. –  Mondom én neked! Menj velünk. A cseresznyefák alatt a nagy  lyukas fának a tövében található a Titkos  Alagút!
+- Ez a titkos alagút  a csúcsra vezető ösvény! – magyarázta gyorsan.
+
+Kékő a cickánnyal  sápadt barna nyulakkal,  zöld teknősökkel, sárga  békákkal együtt besétált a nagy, lyukas fa tövébe. És valóban ott, a föld alatt sötét, de csillogó szalagként, ott húzódott az Alagút.
+A Titkos Alagút a cseresznyefák földalatti világába vezetett, és mindenhol csillogtak, világítottak az aranyló, csillogó sziklák,  egy csillogó, csillámló fényű terem felé, ami szinte ragyogott,  s végül Kékő ott  állhatott az általa kereste  csodálatos kincseskamra előtt.
+
+Ott volt a kincs, valóban ott!  Nem volt tele drágakövekkel,  vagy aranypénzzel, hanem sok apró, csillogó csillagból álló papír. Ezeken pedig évszázadok óta megőrzött jó tanácsok voltak. Kékő boldogan köszönte meg a cickánynak, a nyulaknak, a teknősöknek és a békáknak, az útjukért és elhagyta a  Titkos Alagutat,  telve a  csodálatos tanácsokkal és nagy  szeretettel  és  jóérzéssel  a szívében.
+
+Hazafelé tartva, már repült, úgy pörgött a levegőben, mint egy kék, száguldó csillag. Mert tudta, hogy a legnagyobb kincs, nem a tárgyakban van, hanem a jó barátságban és a szeretetben! S még a hangját sem hallatta,  nem szólalt meg. Nem szörnyen és  hangosan,  hanem kedvesen, mint egy kicsi bébi-sárkány.
+És ez az igazán csodálatos.
+</body>

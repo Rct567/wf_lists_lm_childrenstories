@@ -1,0 +1,43 @@
+<prompt>
+Please write a funny Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Dideli Įvykių Pasakojimai ir Saulės Deimantėliai'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>lt</lang_id>
+
+<title>Dideli Įvykių Pasakojimai ir Saulės Deimantėliai</title>
+<body>Kadaise, šalia didelio ežero, kuriame gyveno daugybė spalvingų žuvų, buvo mažas kaimas, kur gyveno vaikai, mylintys nuotykius ir pasakas. Šis kaimas vadinosi Saulės kaimu, nes jo gyventojai visada buvo linksmi ir šilti, kaip saulės spinduliai.
+
+Vienas toks vaikas, vardu Jonas, buvo labai domijimasis apie pasaulį už kaimo ribų. Jis klaustė savo senelio, kas yra toliau, už miško, esančio už kaimo. Senelis, kuris buvo labai išmintingas, pasakodavo jam istorijas apie didelius įvykius, kurie vyko kituose kraštuose.
+
+Jonas labai mėgo šias istorijas ir norėjo patyrinėti, ar jos yra tiesos. Jis nusprendė keliauti į mišką, kad surastų atsakymus į savo klausimus. Jo tėvai, nors ir bijojo, kad Jonas gali ką nors blogo pamatyti, leido jam eiti, bet įspėjo, kad jis turėtų būti atsargus.
+
+Jonas pasikeitė savo paprastus drabužius į kelionininko aprangą, pasiėmė maisto ir gėrimo, ir išėjo į mišką. Jis žingsniavo ilgiau, nei kada nors anksčiau, ir pamatė daugybė naujų dalykų: didelius medžius, spalvingus paukščius, ir net keletą elnių, kurie šoko pro mišką.
+
+Po kelių valandų žingsniavimo, Jonas pamatė šviesą, atsispindėjusią nuo kažko, kas atrodė kaip didelis akmuo. Jis prieėjo prie akmens ir pamatė, kad tai buvo didelis, saulės formos deimantėlis, kuris spinduliuodavo šviesą visur aplinkui.
+
+Jonas buvo labai nustebintas ir pasijuto kaip jei jis atrado kažką labai svarbaus. Jis nusprendė, kad šis deimantėlis turėtų būti saugomas, ir kad jis turėtų parodyti jį savo kaimui. Jis pasiėmė deimantėlį ir pradėjo grįžti atgal į kaimą.
+
+Kai Jonas grįžo, jis sutiko keletą gyvūnų, kurie norėjo sužinoti, kas yra tas deimantėlis. Jonas pasakojavo jiems apie savo atradimą, ir gyvūnai buvo labai nustebinti. Jie nusprendė, kad jie turėtų eiti kartu su Jonu, kad parodyti deimantėlį kaimui.
+
+Kai jie artėjo prie kaimo, Jonas ir gyvūnai pamatė, kad kaimas buvo apsuptas dideliu siena, kuri buvo pastatyta per naktį. Jie nesuprato, kas tai reiškia, ir kodėl siena buvo atsiradusi čia. Jonas nusprendė, kad jis turėtų eiti pas kaimo seniūną, kad sužinoti, kas yra atsitikę.
+
+Seniūnas pasakojavo Jonui, kad siena buvo pastatyta, kad apsaugoti kaimą nuo blogų dvasių, kurios buvo matomos šalia miško. Jonas pasakojavo seniūnui apie savo atradimą, ir seniūnas buvo labai nustebintas. Jis nusprendė, kad deimantėlis turėtų būti saugomas, ir kad jis turėtų būti naudojamas, kad apsaugoti kaimą nuo blogų dvasių.
+
+Jonas ir gyvūnai buvo labai džiaugsmingi, kad jie galėjo padėti kaimui, ir kad jie atrado kažką labai svarbaus. Jie nusprendė, kad jie turėtų švęsti savo atradimą, ir kad jie turėtų pasakoti visiems apie deimantėlį.
+
+Kai jie švęsė, Jonas pamatė, kad deimantėlis buvo dar labiau spinduliuojantis, nei anksčiau. Jis suprato, kad deimantėlis buvo ne tik saulės formos akmuo, bet ir simbolis kaimo vienybės ir drąsos. Jonas buvo labai džiaugsmingas, kad jis atrado kažką tokio svarbaus, ir kad jis galėjo padėti kaimui.
+
+Nuo to laiko, Jonas buvo vadinamas Didelių Įvykių Pasakotoju, ir jo istorijos apie deimantėlį buvo pasakojamos visiems kaimo vaikams. Jonas ir gyvūnai tapo geriausiais draugais, ir jie kartu keliaudavo po mišką, ieškodami naujų nuotykių ir pasakų.
+
+Kad ir kas būtų, Jonas visada žinojo, kad jis turi saugoti deimantėlį, ir kad jis turi būti pasiruošęs padėti kaimui, kai tai bus reikalinga. Jonas buvo didelis herojus, ir jo istorijos apie deimantėlį bus pasakojamos visada, kaip simbolis drąsos ir vienybės.
+
+Jonas ir jo draugai gyveno laimingai, ir jų nuotykiai buvo visada pasakojami, kaip pavyzdys drąsai ir vienybei. Saulės kaimas buvo saugus, ir jo gyventojai visada buvo linksmi, nes jie turėjo didelį herojų, kuris saugojo juos nuo blogų dvasių.
+
+Ir taip, Jonas ir jo draugai gyveno laimingai, ir jų istorijos apie deimantėlį bus pasakojamos visada, kaip simbolis drąsos ir vienybės. Saulės kaimas buvo saugus, ir jo gyventojai visada buvo linksmi, nes jie turėjo didelį herojų, kuris saugojo juos nuo blogų dvasių.</body>

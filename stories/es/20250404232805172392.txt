@@ -1,0 +1,127 @@
+<prompt>
+Please write a dialog-based Spanish children's story that is at least 1000 words long.
+It must be completely written in proper Spanish (ES).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'El gnomo que guardaba tesoros en el bosque y protegía la naturaleza con amor.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>es</lang_id>
+
+```xml
+<title>El gnomo que guardaba tesoros en el bosque y protegía la naturaleza con amor.</title>
+<body>
+—¡Ay, qué día tan soleado! —exclamó una vocecita aguda—. ¡Perfecto para recolectar rocío de diamantes!
+
+La vocecita provenía de un pequeño gnomo llamado Pip. Pip era famoso en el bosque por sus mejillas sonrosadas, su sombrero rojo puntiagudo y su inmensa bondad. Vivía en la base de un antiguo roble, donde tenía una pequeña cueva llena de tesoros: hojas brillantes, piedras de río pulidas y, por supuesto, el codiciado rocío de diamantes, que recolectaba cada mañana de las telarañas.
+
+—Buenos días, señor Roble —saludó Pip, inclinándose ante el majestuoso árbol—. ¿Cómo amaneció hoy?
+
+—Buenos días, pequeño Pip —respondió una voz profunda y grave desde las profundidades del roble—. El sol calienta mis hojas con cariño. Hoy parece un día prometedor.
+
+Pip sonrió. El señor Roble siempre tenía palabras amables y sabias. Le encantaba hablar con él.
+
+—¿Recuerda la historia que me contó sobre las luciérnagas mágicas? —preguntó Pip, mientras caminaba con cuidado para no pisar ninguna flor—. ¡Es mi favorita!
+
+—Por supuesto, pequeño gnomo. Es importante recordar las historias de antaño. ¿Y tú, qué aventuras tienes planeadas hoy?
+
+—Voy a recolectar rocío, señor Roble, y luego voy a visitar a la señora Ardilla. Le prometí ayudarla a encontrar sus nueces perdidas.
+
+—¡Qué gran corazón tienes, Pip! —respondió el roble—. La bondad es el tesoro más valioso.
+
+Pip, animado por las palabras del roble, se adentró en el bosque. Al llegar al claro, donde la señora Ardilla solía almacenar sus provisiones, la vio moviéndose frenéticamente.
+
+—¡Ay, ay, ay! ¡Qué desastre! —exclamaba la señora Ardilla, con lágrimas en los ojos—. ¡Mis nueces, mis hermosas nueces! ¡Han desaparecido!
+
+—¡Tranquila, señora Ardilla! —dijo Pip, acercándose—. Yo la ayudaré a encontrarlas. Cuénteme, ¿dónde cree que las perdió?
+
+—Las tenía aquí, junto al árbol de las bayas rojas —respondió la señora Ardilla, señalando con su patita temblorosa—. ¡Las recolecté con tanto esfuerzo!
+
+Pip examinó el área cuidadosamente. Miró debajo de las hojas caídas, entre las raíces y alrededor del tronco del árbol.
+
+—Parece que alguien estuvo aquí, señora Ardilla —dijo Pip, señalando algunas pequeñas huellas en el suelo.
+
+—¿Huellas? ¿De quién? —preguntó la señora Ardilla, preocupada.
+
+—No estoy seguro —respondió Pip—. Pero creo que deberíamos seguir el rastro. ¡Vamos!
+
+Juntos, siguieron las huellas, adentrándose en el bosque. Las huellas llevaban a un sendero que se adentraba en la parte más profunda del bosque, un lugar que Pip conocía muy bien. Allí, vivía un gruñón oso pardo llamado Bruno, famoso por su apetito voraz.
+
+—¿Cree que fue Bruno? —preguntó la señora Ardilla, con una voz temblorosa.
+
+—Podría ser —respondió Pip—. Bruno a veces es un poco descuidado.
+
+Llegaron a la cueva de Bruno. La puerta de la cueva estaba entreabierta. Pip y la señora Ardilla se miraron, preocupados. Pip, con valentía, empujó la puerta.
+
+—¡Bruno! —llamó Pip—. ¿Estás en casa?
+
+En el interior de la cueva, vieron a Bruno, roncando profundamente, rodeado de nueces. ¡Montones de nueces!
+
+—¡Oh, no! —susurró la señora Ardilla, llevándose las manos a la boca—. ¡Son mis nueces!
+
+Pip se acercó a Bruno y le tocó el hombro suavemente.
+
+—Bruno, despierta —dijo Pip.
+
+Bruno abrió los ojos, bostezando. Miró a Pip y a la señora Ardilla, confundido.
+
+—¿Qué pasa? —preguntó Bruno, con voz somnolienta.
+
+—Son tus nueces —respondió la señora Ardilla, señalando las nueces—. ¡Me las robaste!
+
+Bruno miró a su alrededor, sorprendido. Luego, miró a la señora Ardilla, con una expresión de culpa.
+
+—¡Oh, no! —exclamó Bruno—. No me di cuenta… Tenía mucha hambre y pensé que eran mías. ¡Lo siento mucho!
+
+Pip sonrió. Conoció el gran corazón de Bruno, que a veces, solo a veces, se escondía detrás de un apetito insaciable.
+
+—No te preocupes, Bruno —dijo Pip—. Todos cometemos errores. Lo importante es aprender de ellos. ¿Por qué no ayudamos a la señora Ardilla a devolver las nueces a su lugar?
+
+Bruno asintió, sintiéndose aliviado. Juntos, Bruno, Pip y la señora Ardilla, devolvieron todas las nueces al claro. La señora Ardilla estaba tan feliz que les ofreció un delicioso festín de bayas rojas como agradecimiento.
+
+Después de ayudar a la señora Ardilla, Pip regresó a su cueva. El sol comenzaba a ponerse, pintando el cielo con hermosos colores. Se sentó en la entrada de su cueva, contemplando el atardecer y sintiendo una profunda satisfacción.
+
+—Qué gran día —susurró Pip.
+
+De repente, escuchó un pequeño llanto. Miró a su alrededor, buscando la fuente del sonido. Encontró a un pequeño petirrojo, con una ala rota, en el suelo.
+
+—¡Oh, no! —exclamó Pip, corriendo hacia el pajarito—. ¿Qué te pasó?
+
+—Me caí del nido —sollozó el petirrojo—. Y me lastimé el ala.
+
+Pip, con cuidado, tomó al petirrojo entre sus manos.
+
+—Tranquilo, pequeño. Te ayudaré —dijo Pip, con ternura—. Te llevaré a mi cueva. Allí, te cuidaré hasta que te recuperes.
+
+Llevó al petirrojo a su cueva. Preparó una cama de hojas suaves y le dio un poco de rocío de diamantes para beber. El rocío de diamantes, además de ser un tesoro valioso, tenía propiedades curativas.
+
+Durante los días siguientes, Pip cuidó al petirrojo con gran cariño. Le daba agua, le hablaba, le cantaba canciones. El petirrojo, por su parte, le devolvía el cariño, cantando hermosas melodías para Pip.
+
+Un día, después de varias semanas, Pip se dio cuenta de que el ala del petirrojo estaba completamente curada.
+
+—¡Hoy es el día! —dijo Pip, sonriendo—. ¡Puedes volar de nuevo!
+
+Llevó al petirrojo al claro. Lo colocó en el suelo.
+
+—¡Vuela, pequeño! —dijo Pip, animándolo.
+
+El petirrojo miró a Pip, piando. Luego, desplegó sus alas y, con un pequeño salto, se elevó en el cielo. Voló alto, dando vueltas, y luego se posó en el hombro de Pip.
+
+—¡Gracias, Pip! —cantó el petirrojo—. ¡Gracias por salvarme!
+
+Pip sonrió. El petirrojo revoloteó a su alrededor, cantando alegremente, y luego se unió a las otras aves del bosque.
+
+Ese día, el señor Roble preguntó a Pip:
+
+—¿Cómo te fue con el petirrojo, pequeño gnomo?
+
+—Se recuperó, señor Roble —respondió Pip, con alegría—. Y ya está volando de nuevo.
+
+—Eres un gnomo admirable, Pip —dijo el roble—. Nunca dejes de amar y cuidar de la naturaleza y sus criaturas. Eres el guardián perfecto de este bosque, y con tu bondad, haces que el bosque sea aún más hermoso.
+
+Pip se sintió feliz. La gratitud que sentía era su verdadero tesoro. Sabía que su misión, su tesoro más grande, era proteger la naturaleza, ayudar a sus amigos y vivir en armonía con el mundo que lo rodeaba. Y así, continuó viviendo en su cueva, recolectando rocío de diamantes, guardando sus tesoros y amando el bosque con todo su corazón. La paz del bosque dependía de su amor, y él, el pequeño gnomo, estaba listo para protegerla para siempre.
+</body>
+```

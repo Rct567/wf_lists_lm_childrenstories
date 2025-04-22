@@ -1,0 +1,46 @@
+<prompt>
+Please write a light-hearted Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A varjú, aki zenét hallgatott az éjszakában'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>hu</lang_id>
+
+<title>A varjú, aki zenét hallgatott az éjszakában</title><body>Egyszer volt, hol nem volt, egy kis magyar faluban élt egy különös varjú. A varjú neve Károly volt, és bár mindenki azt mondta, hogy a varjúk csak károgni tudnak, Károlyban valami más is lappangott. Ő ugyanis imádta a zenét. Nem csak hallgatni, hanem énekelni is. Persze, a többi varjú csak legyintett, ha erről beszélt, de Károlynak nem volt kedve lemondani a szenvedélyéről.
+
+Egyik éjszaka, amikor a holdfény gyöngyözött az égen, és a fák lombjai alatt mindenki aludt, Károly észrevett valami különlegeset. A faluban lakó öreg hegedűs, Bácsi János, minden éjjel kijárt a kertjébe, és a csillagok alatt játszott a hegedűjén. A hangok olyan gyönyörűek voltak, hogy Károlynak szinte megállt a szíve. Órákig ült egy magas fán, és hallgatta a zenét, amely úgy táncolt a levegőben, mintha varázslat lenne.
+
+– Mi lenne, ha én is megtanulnék énekelni? – gondolta egy este Károly, miközben a hegedű dallamai körülölelték. – Nem károgni, mint a többi varjú, hanem igazi dalokat énekelni!
+
+Másnap reggel Károly elhatározta, hogy felkeresi Bácsi Jánost. Azt remélte, hogy talán a vén hegedűs megtanítja neki a zenélés titkait. Amikor odalépett a kert kapujához, Bácsi János éppen a virágait locsolta.
+
+– Jó reggelt, Bácsi János! – szólalt meg Károly, és bár a varjúk általában nem szoktak beszélni, Károly hangja teljesen érthető volt.
+
+Bácsi János meglepődve nézett a varjúra. – Jó reggelt, Károly! Mit keresel itt ilyen korán?
+
+– Hallottam, hogy tegnap este játszottál a hegedűddel – mondta Károly, és szégyenlősen megvakarta a fejét. – Olyan szép volt a zene, hogy elhatároztam, én is megtanulok énekelni. Nem károgni, hanem igazi dalokat. Gondoltam, hátha segítenél nekem.
+
+Bácsi János mosolygott. – Hát, ez nem mindennapi kérés, de ha annyira szereted a zenét, akkor miért ne? De tudnod kell, Károly, hogy a zene nem csak hangokból áll. A zene a szívedből jön, és meg kell tanulnod érezni a ritmust, a dallamokat, és a szépséget, amely bennük rejlik.
+
+Károly bólintott. – Megpróbálom, Bácsi János. Mindent megteszek, hogy megtanuljam.
+
+Így kezdődött Károly kalandja. Minden nap találkoztak Bácsi Jánossal, aki megtanította neki a hangok titkait. Először csak egyszerű dallamokat próbáltak, de lassan Károly egyre jobban belejött. Nem volt könnyű, mert a varjúk torka nem úgy van alkotva, mint az embereké, de Károly kitartó volt. Minden este gyakorolt, amikor a többi varjú már aludt, és a holdfény volt az egyetlen társa.
+
+Egyik este, amikor már elég magabiztosnek érezte magát, Károly úgy döntött, hogy megmutatja a falunak, mire is képes. Bácsi János segítségével összeállítottak egy kis koncertet, amelyre a falu összes lakóját meghívták. A híre futott, és mindenki kíváncsi volt, vajon mit tud ez a varjú.
+
+Amikor eljött a nagy este, Károly izgatottan állt a falu közepén, ahol egy kis színpadot állítottak fel neki. Körülötte gyülekeztek a falusiak, és még a többi varjú is leszállt a fákról, hogy lássák, mi is lesz itt.
+
+Bácsi János felemelte a hegedűjét, és megszólalt az első hang. Károly mélyen lélegzett, és elkezdte énekelni. A hangja nem volt tökéletes, de olyan szívvel és szenvedéllyel énekelt, hogy a falusiak szeme könnybe lábadt. A dallamok úgy táncoltak a levegőben, mintha varázslat lenne, és mindenki azt érezte, hogy valami különleges történik.
+
+Amikor Károly befejezte, hatalmas taps tört ki. A falusiak és a varjúk egyaránt éljeneztek, és Károlynak boldogságotől csillogott a szeme. Bácsi János is mosolygott, és azt mondta:
+
+– Látod, Károly? A zene nem csak hangokból áll. A zene az, ami összeköti az embereket, és olyan szépséget teremt, amelyet soha nem felejtenek el.
+
+Károly bólintott, és együtt énekeltek még egy dallamot, amelyet a holdfény és a csillagok kísértek. Aznap éjjel a falu minden lakója úgy aludt el, hogy a zenét álmodta, és Károly pedig tudta, hogy végre megtalálta a helyét a világban.
+
+Így történt, hogy a faluban mindenki tudta: a varjúk nem csak kárognak. Egyikük zenét is hallgat az éjszakában, és azóta is boldogan énekel, amikor a hold süt, és a csillagok ragyognak.</body>

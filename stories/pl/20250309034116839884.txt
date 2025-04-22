@@ -1,0 +1,34 @@
+<prompt>
+Please write a fun and entertaining Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Niezwykły Cyrk w Lesie i Fantastyczne Występy Leśnych Zwierząt'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>pl</lang_id>
+
+<title>Niezwykły Cyrk w Lesie i Fantastyczne Występy Leśnych Zwierząt</title>
+<body>
+W głębi tajemniczego lasu, gdzie szeptane były sekrety drzew, a słońce tańczyło w koronach sosnowych, znajdował się niezwykły cyrk.  Nie był to jednak cyrk z wielkimi namiotami i głośnymi okrzykami. To był cyrk stworzony z radości i miłości do natury.  Cyrk prowadzony przez misternie skrywającego się pod grubym płaszczem lisa, pana Liska.
+
+Pan Lis, znany w całej okolicy jako mistrz animujący, posiadał niezwykłą zdolność porozumiewania się ze zwierzętami. Mogły mu oni mówić o swoich marzeniach, lękach, a nawet żartach. Dzięki temu potrafił stworzyć dla nich wspaniałe i zabawne występy.
+
+Pierwsza na scenie pojawiła się pani Zajączek, mistrzyni skoków. Jej biało-brązowe futro błyszczało w świetle słonecznym, a oczy świeciły radością. Z gracją odbijała się od kamiennej platformy, wykonywała piruety i salta, śmiesznie podskakiwała, a na końcu robiła pełny obrót w powietrzu, zostawiając za sobą mgłę białego pyłu.  Publiczność, złożona z zafascynowanych ptaków, ciekawych wiewiórek, oraz zachwyconych królików, wysoko podskakiwała i klaszcząc podskakiwała, wykrzykując zachwyty „Brawo!”, „Bis!”.
+
+Następnie wystąpił pan Jeż, mistrz kabaretu. Wychodził na scenę na wielkiej, sprytnie zdobionej, desce.  Niezwykle inteligentny i pełen energii jeż, z wielkim kunsztem grał na flecie wykonanym z połamanej bambusowej łodygi. Melodie były cudowne, pełne smutek i radości – o sielskich porankach, śmiesznych wypadkach na śliskich kamieniach i wieczornym śpiewie jaskółek. Swoją muzyką budził ogromną radość w sercach widzów.
+
+Potem wystąpiła pani Niedźwiadek, mistrzyni akrobacji. Podchodziła ona majestatycznie do specjalnie zbudowanego stosu połamanych patyków i wyszła na nich niezawodnie i precyzyjnie wykonując różnorodne akrobacje. Przez chwilę wisią bardzo wzniośle i gracja jej ruchu przykuwały uwagę wszystkich wokoło.
+
+Po występie pani Niedźwiadka, na scenie pojawił się pan Sokół, mistrz sztuki lotniczej. Z charakterystycznym wyciem latał w powietrzu, opisywał okręgi wokół drzewek i robił niezapomniane zwrotki w locie. Dzięków tym efektom widzów zapierało dech, a wszyscy na nich ze zgrozą i zachwytem patrzyli. Po wyciągnięciu z pysznego ptasiego gniazda specjalnych kryształków, wybił na nich wspaniały melodia z głębi serca. Wszyscy tam byli rozentuzjazmowani.
+
+
+I na zakończenie,  w misternie rozświetlonej scenerii, wystąpiła Pani Wiewiórka, mistrzyni opowieści. Zgodnie z zachwytem, śmieszną sylwetką i uśmiechem, opowiadała wesołe przygody wiewiórek w poszukiwaniu najlepszych kasztanów, a podtrzymywana przez szepczący wiatr otaczała opowieść magicznymi refleksjami i niepowtarzalnymi wydarzeniami. Wszyscy zgromadzeni usłuchali historii z olbrzymią radością i zaciekawieniem.
+
+Pan Lis, na zakończenie cyrkowego przedstawienia, ukazał niepowtarzalne historie wszystkich zwierząt i powiedział: "Najlepsze przedstawienie dla nas jest to, gdy jesteśmy ze sobą, razem budujemy radość i szanujemy naturę."  W powietrzu wisiała cichnąca radość. Wszystkie zwierzęta ze śpiewami i skokami pożegnały publiczność.  Cyrk w Lesie zapadł w wieczny sen.
+
+A słońce tańczyło dalej, pośród tajemniczego lasu.
+</body>

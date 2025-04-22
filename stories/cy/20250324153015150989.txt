@@ -1,0 +1,113 @@
+<prompt>
+Please write a dialog-based Welsh children's story that is at least 1000 words long.
+It must be completely written in proper Welsh (CY).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Gwallgofwch y Dyfroedd a'r Goleudy Rhofinol'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>cy</lang_id>
+
+```xml
+<title>Gwallgofwch y Dyfroedd a'r Goleudy Rhofinol</title>
+<body>
+Roedd Siôn a Sara, dau blentyn bach o Landudno, wrth eu bodd yn mynd i'r traeth. Roedd y môr bob amser yn hudolus, ond heddiw, roedd rhywbeth arbennig. Roedd y tonnau yn wallgof.
+
+"Edrych, Siôn!" meddai Sara, ei llygaid yn disgleirio. "Mae'r tonnau'n ddawnsio!"
+
+Roedd Siôn, bachgen dewr a chryf, yn edrych i fyny ar y tonnau enfawr. "Ydy, ond maen nhw'n fawr iawn! Gawn ni fynd yn ofalus, iawn?"
+
+"Wrth gwrs," atebodd Sara. "Ond edrych! Y goleudy! Mae'n sefyll fel arwr yn erbyn y storm."
+
+Roedd Goleudy Rhofinol yn sefyll ar gopa creigres serth, fel arfer yn dywyswyr llongau ar eu taith ar y môr. Heddiw, roedd yn edrych yn arbennig o gryf, gyda'r gwynt yn chwipio o'i gwmpas.
+
+Dechreuodd y ddau gerdded ar hyd y traeth, gan gadw draw oddi wrth y tonnau.
+
+"Wyt ti'n credu fod rhywun y tu mewn i'r goleudy?" gofynnodd Siôn.
+
+"Wrth gwrs!" meddai Sara. "Rhaid bod rhywun yn gweithio'n galed i'n cadw ni'n ddiogel."
+
+"Hoffwn i fod yn goleudygwr," meddai Siôn. "Sut beth ydi hi i byw mewn goleudy, ti'n meddwl?"
+
+"Rwy'n meddwl byddai'n ddiflas weithiau," atebodd Sara. "Ond rhaid bod yn gyffrous pan fo'r môr yn wallgof fel hyn!"
+
+Wrth iddynt gerdded, daethant o hyd i bethau rhyfedd ar y traeth. Llawer o gregyn môr, darnau o wydr lliw, a hyd yn oed hen esgid goch.
+
+"O, edrych!" gwaeddodd Sara. "Dyna gywarch gwallt!"
+
+"Pam byddai cywarch gwallt ar y traeth?" gofynnodd Siôn, yn codi'r eitem.
+
+"Sôn mae dwi'n gwybod," atebodd Sara. "Ond rhaid fod stori yna."
+
+"Ydych chi'n meddwl bod y goleudygwr wedi dod o hyd i rywbeth rhyfedd ar y traeth un diwrnod?" gofynnodd Siôn, gan edrych i fyny at y goleudy.
+
+"Rwy'n siŵr," atebodd Sara. "A ddylen ni godi stori?"
+
+"Ydy, os wyt ti eisiau," cytunodd Siôn.
+
+"Felly," dechreuodd Sara, "roedd goleudygwr unwaith, o'r enw Llyr. Roedd Llyr yn hoffi casglu pethau rhyfedd. Un diwrnod, tra roedd y môr fel hyn, cafodd ystafell gyfan o'r goleudy ei tharo gan don. Y pethau oedd yn y stori ddaeth i gysgod i lawr ar y traeth."
+
+"O'r naill ffordd i'r llall," atebodd Siôn, "roedd llyfr hynafol yn llawn hud, a dywedodd wrth Llyr fod tonnau gwallgo yn golygu rhywbeth pwysig."
+
+"Beth, mae'n dweud?" gofynnodd Sara.
+
+"Roedd yn dweud fod cythreuliaid o'r dyfnderoedd yn gollwng," atebodd Siôn.
+
+"A pham?" gofynnodd Sara, ei llygaid yn ehangu.
+
+"Oherwydd roedd y môr wedi cael ei ddigio. A'r cythreliaid, wrth gwrs, oedd y gwelywyr tonnau."
+
+"A beth wnaeth Llyr?" gofynnodd Sara.
+
+"Rhoddodd fowld i'w arfogi." Atebodd Siôn. "I deithio, dyna!"
+
+"Pam roedd angen i Llyr deithio?" gofynnodd Sara.
+
+"I geisio cymorth, wrth gwrs! Felly," dechreuodd Siôn. "Cynlluniodd Llyr daith ar gyfer yr ynys honno. Cynigodd ei ddewis ac fe symudodd."
+
+"A feeth!" exclamiodd Sara.
+
+"Felly roedd Llyr yn meddwl y gallai sgrifennu cyfarchiadau â phaent ar wyneb, o ganlyniad i bwrpas y cwymp, ond i hwnnw na fu hynny'n angenrheidiol. Yr adenydd gynnig ei gysylltiad i weddill y goleuddy."
+
+"Yna, rhoddodd i ffwrdd!" meddai Sara.
+
+"Yna, yn hytrach na siarad, sgrifennodd gyfres o lythyrau i'r holl ddiogolwyr, lle y soniodd am ofidiau am bob oedolyn" meddai Siôn.
+
+"A be?" meddai Sara.
+
+"Wel, fe'i gwlychwyd," meddai Siôn.
+
+"Ai dyna yw'r diwedd?" gofynnodd Sara, yn swnio ychydig yn siomedig.
+
+"Ddim eto," atebodd Siôn. "Wrth i'r môr ddechrau ei hun i setlo a bod pawb i gyd yn edrych o'i le ar unrhyw un, fe wyddys fod gan bob cyffwrdd ddim cyfyngiad, ddigon o ymdrech i gyfrannu'r arddangosfa gorfforol i un eithafol, i bob un â rhan!"
+
+"Mae hwnna'n ddrwg!" meddai Sara. "Beth am Llyr?"
+
+"Rhywbeth yn digwydd dros y cyfnod rhwng y gollyngiadau yn llanw eu ffordd, rhywbeth roedd wedi teithio i edrych iddi - cyflymodd y gwaith a rhoddodd iddi ei holl gyffyrddiadau fel bo'r cwmpas i gyd i edrych."
+
+"Felly, cyflawnwyd yr ymdrech?" gofynnodd Sara.
+
+"O ie," atebodd Siôn. "Rhywbeth felly ddigwyddodd dros yr amser dilynol a gorfforol yma."
+
+"Felly, os ydym yn cael rhywun yn canfod," atebodd Sara, "gallwn wybod y cyfeiriad, os oedd, wedi ymdrech i ysgrifennu ac aeth o amgylch i le i arddangos ei gwaith."
+
+Dechreuodd y gwynt dawelu, a'r tonnau'n gostwng. Roedd yr haul yn dechrau mynd i lawr, yn taenu'r awyr â lliwiau pinc a phorffor.
+
+"Mae'n bryd mynd adref," meddai Siôn, gan dynnu Sara yn ysgafn wrth y llaw.
+
+Wrth iddynt gerdded i fyny'r traeth, edrychodd Sara yn ôl ar y Goleudy Rhofinol. Roedd ei olau yn dechrau sgleinio.
+
+"Dwi'n meddwl y bydd Llyr yn iawn," meddai Sara.
+
+"Ydy," cytunodd Siôn. "Rwy'n credu hefyd."
+
+Yna, wrth i'r golau ymwahanu gyda'r awyr, dywedodd Siôn, "Wyt ti'n meddwl fod y goleudygwr sy'n byw yna yn casglu cregyn a dod o hyd i bethau?"
+
+"Dwi ddim yn siŵr," atebodd Sara. "Ond gall fod yn stori ddiddorol ar gyfer diwrnod arall!"
+
+Aethant adref, gyda'r gwallgofrwydd yn y dyfroedd a'r goleudy rhofinol yn aros yn eu meddyliau. Roeddent yn gwybod, fel byddai rhywbeth yn gyffrous i'w archwilio yn eu pennau, fod cyfrinachau a storïau rhyfedd i'w cael ar lan y môr, pe bai rhywun ond yn barod i'w chwilio.
+</body>
+```

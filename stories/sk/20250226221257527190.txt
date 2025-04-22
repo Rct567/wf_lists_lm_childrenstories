@@ -1,0 +1,51 @@
+<prompt>
+Please write a dialog-based Slovak children's story that is at least 1000 words long.
+It must be completely written in proper Slovak (SK).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Zázračné jablko, ktoré dokázalo liečiť všetky choroby z celého sveta.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sk</lang_id>
+
+<title>Zázračné jablko, ktoré dokázalo liečiť všetky choroby z celého sveta.</title>
+<body>
+V malej dedine, ukrytej v údolí plnom zelených kopcov a kvitnúcich lúk, žilo dievčatko menom Slávka.  Slávka nebola obyčajné dievčatko. Mala láskavé oči, ktoré videli svet plný krásy a zároveň plný trápenia.  Jedného dňa, keď sa túlila pod jabloní plnou šťavnatých jabĺk, našla jedno nezvyčajné jablko.  Svietilo slabým zlatým svetlom a z neho vychádzal zvláštny, liečivý vôňou.
+
+"Prečo toto jablko svieti tak zvláštne?" spýtala sa Slávka.  A ako keby sama jablko odpovedalo, zo zeme vytryskol jemný a tajomný hlas.
+
+"Toto jablko je zázračné," povedal hlas. "Dokáže liečiť všetky choroby z celého sveta."
+
+Slávka s prekvapením prehlásila: "Ale to je úžasné! Ale ako?"
+
+"Každý chorý, ktorý ho ochutná, bude uzdravený. Je to jablko plné sily prírody!"
+
+V tom momente sa k nim priblížili dvaja chlapci. Janko a Juraj. Obaja mali smútok v očiach.
+
+"Janko, on sa už dlho cíti zle. Chudák sa trápí s bolesťami hlavy." povedal Juraj smutne.
+
+"A ja,  zase...kašlem už týždeň. Nemôžem ani dýchať. Toľko mi je zle..." povedal Janko.
+
+Slávka im s ľútosťou pozrela do očí. Podvihla zázračné jablko a s nadšením ich povedala: "Chlapci, mám pre vás nádej! Toto jablko môže vás uzdraviť."
+
+"Naozaj?" vypýtal sa Juraj prekvapene.
+
+Slávka im ukázala lesklé zlaté jablko, rozžiarilo sa ešte silnejšie, a vlnilo sa zlatým svitom.  Janko a Juraj, plní očakávania, sa priblížili k jablku.
+
+Janko bol prvým, kto od Slávky prijal jablko. Vzal ho do rúk, s chvejúcou sa rukou. Jemne si ho oblizol, v hlase zaznelo niečo iné ako smútok a trápenie. "Doteraz som takýto šťastný nebol."
+
+A tak sa stalo. Ako zázrakom, po chvíľke Janko zmĺkol. Bol ako prebudený.  Všetky bolesti z neho ustúpili,  a zrazu bolo okolo neho cítiť pohodu a sily.
+
+Potom prišla na rad Juraj.  Jeho kašeľ už prestával a dýchať sa mu už opäť ľahko. Jeho trápenie mizlo.
+
+Slávka sa tešila, že môže pomôcť svojim novým kamarátom. Ale vtedy začul o chorom králikovi menom Pipí, v diaľkom lese. Ľudom mal králik rozkázať prijať liečenie, pretože bol v obrovských bolestiach.
+
+Slávka a chlapci sa dohodli a vydali sa na cestu, ktorá bola plná krásnej prírody.  Hľadali liečebné jablko pozdĺž lesných chodníčkov a krišťáľovo čistých potokov.   Prešli cez rieky, cez prekážky a šli aj na cestu ponad krásne kopce plné kvetín. Slávka s Jánkom a Jurajom, kráčali a kráčali a hovorili o rozličných veciach, a tak sa k nim z diaľky pridal aj mladý strom a rozprával s nimi rôzne zaujímavosti, čo im posilňovalo ich duševné aj fyzické sily. Keď to všetko bolo úžasné, a keď prišiel večer, našli miesto, kde sa usadili. Slídka rozkrájila svietiace jablko a povedala: "Náš hrdina Pipí sa môže čoskoro uzdraviť".
+
+Natiahli ruku k stromu, do hory, nad údolie. Vycítili silnú potrebu urobiť niečo pre všetkých chorých. Vyvrcholení túžbou liečiť všetkým bytostiam ich trápiace problémy, sa rozhodli pre cestujúcich do rôznych svetových kútov, aby so svojou sprievodnou skupinou vyrazili do všetkých častí sveta na ich záchranu. Precvičili sa, naučili sa nové umenia, pripravovali jedlá pre celú dedinku a pracovali a vyvíjali, aby pomohli v ich misiách.  Slídka vďaka všetkému pokorne odpočívala. Po všetkom poznávaní a pomáhaní, ktoré robila Slávka so svojimi dvoma priateľmi, odchádzala so zmyslom pre dosiahnutú dokonalosť. Všimli si Pipí a ich priatelia a spolu ho zachránili!
+
+A tak sa dievčatko Slávka a dvaja priatelia vrátili do dediny. Po celý čas prinášali uzdravenie aj iné chorým.  A zázračné jablko, ktoré dokázalo liečiť všetky choroby z celého sveta, pomohlo všetkým obyvateľom dediny a mnohým ľuďom z ďalekých krajín.
+</body>

@@ -1,0 +1,40 @@
+<prompt>
+Please write a simple and easy-to-follow Estonian children's story that is at least 1000 words long.
+It must be completely written in proper Estonian (ET).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kuidas Pääsuke Oma Laulu Tagasi Leidis'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>et</lang_id>
+
+<title>Kuidas Pääsuke Oma Laulu Tagasi Leidis</title>
+<body>
+Oli üks ilus kevadiküla, kus elasid paljud linnud. Kevadiküla oli täis ilusaid puid, kauniid lilli ja väikesi ojasid. Seal elas ka üks väike pääsuke, kelle nimi oli Päär. Päär oli väga ilus lind, kellel oli must-valge sulestik ja valge kõri. Ta elas koos oma vanematega väikses pesas, mis asus suure tamme otsas.
+
+Päär armastas laulda. Ta laulis iga päev hommikul ja õhtul. Tema laul oli nii ilus, et kõik kevadiküla elanikud kuulasid teda rõõmuga. Päär laulis kõike, mis ta nägi ja koges. Ta laulis päikesest, pilvedest, tuulest ja vihmast. Ta laulis ka oma sõpradest ja perest.
+
+Aga ühel päeval, kui Päär oli väga rõõmus, siis kaotas ta oma laulu. Ta ei teadnud, mis juhtus, aga ta suutis enam laulda. Ta proovis kogu päev, aga tema suust tuli välja ainult vaikus. Päär oli väga kurvastunud. Ta ei teadnud, mis tema laulu juhtus.
+
+Päär otsustas minna otsima abi. Ta lendas esmalt vanemate juurde, aga nemad ei teadnud, mis Päärile juhtus. Siis lendas ta sõprade juurde, aga nemadki ei teadnud, mis Päärile juhtus. Päär oli nii kurvastunud, et ta ei teadnud, mida teha.
+
+Ühel päeval, kui Päär istus tamme otsas, siis nägi ta üht vanat lindu, kes istus tamme juures. Vanal linnul oli väga targad silmad ja ta vaatas Päärile sügavalt. "Mis sinuga juhtus, Päär?" küsis vanalind. Päär rääkis vanalinnule, et ta kaotas oma laulu. Vanalind kuulas teda tähelepanelikult ja siis ütles: "Ma tean, mis sinuga juhtus, Päär. Sinu laul on sinu sees, aga sa oled seda unustanud."
+
+Päär ei mõistnud, mida vanalind tähendas. "Kuidas ma võin oma laulu tagasi leida?" küsis ta. Vanalind ütles: "Sa pead minema iseendaga rääkima. Sa pead kuulama oma südant ja meelt. Sa pead leidma, mis sinu elus on ilus ja mis sinu elus on vajalik." Päär mõtles vanalinnu sõnadele ja siis ta mõistis, mida ta tähendas.
+
+Päär otsustas minna iseendaga rääkima. Ta lendas ära kevadikülast ja läks üksi metsa. Ta istus seal ühe puu all ja hakkas kuulama oma südant ja meelt. Ta mõtles kõike, mis ta elus oli ilus ja vajalik. Ta mõtles oma vanematele, sõpradele ja perest. Ta mõtles ka päikesest, pilvedest, tuulest ja vihmast.
+
+Kui Päär istus seal, siis ta hakkas kuulma oma südant. Ta kuulis, kuidas tema süda lööb ja kuidas tema meel mõtleb. Ta kuulis, kuidas tema elu on ilus ja vajalik. Ja siis, kui ta kuulis oma südant, siis ta leidis oma laulu tagasi. Ta laulis esmalt väga vaikselt, aga siis ta laulis juba valjemini. Ta laulis kõike, mis ta nägi ja koges.
+
+Päär oli nii rõõmus, et ta leidis oma laulu tagasi. Ta lendas tagasi kevadikülla ja laulis kõigile, mis ta oli näinud ja kogenud. Kõik kevadiküla elanikud kuulasid teda rõõmuga. Päär laulis iga päev hommikul ja õhtul. Ta laulis kõike, mis ta nägi ja koges.
+
+Ja nii elas Päär edasi. Ta laulis iga päev ja ta elu oli ilus ja vajalik. Ta oli rõõmus, et ta leidis oma laulu tagasi. Ta teadis, et tema laul on tema sees ja et ta peab seda alati kuulama.
+
+Aga Päär ei unustanud vanalinnu, kes aitas talle oma laulu tagasi leida. Ta läks vanalinnu juurde ja tänas teda. Vanalind ütles: "Sa oled ise oma laulu leidnud, Päär. Ma ainult aitasin sul iseendaga rääkida." Päär mõistis, et vanalind oli õige. Ta oli ise oma laulu leidnud.
+
+Ja nii elas Päär edasi. Ta laulis iga päev ja ta elu oli ilus ja vajalik. Ta oli rõõmus, et ta leidis oma laulu tagasi. Ta teadis, et tema laul on tema sees ja et ta peab seda alati kuulama. Ja ta ei unustanud vanalinnu, kes aitas talle oma laulu tagasi leida.
+
+Lõpp.</body>

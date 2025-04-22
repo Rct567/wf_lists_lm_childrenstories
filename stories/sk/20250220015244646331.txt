@@ -1,0 +1,35 @@
+<prompt>
+Please write a creative and original Slovak children's story that is at least 1000 words long.
+It must be completely written in proper Slovak (SK).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Príbehy o statočných básnikoch noci'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sk</lang_id>
+
+<title>Príbehy o statočných básnikoch noci</title>
+<body>
+Slnko zapadlo za vrchy, a svet sa pomaly obalil do modrej, fialovej a oranžovej prikrývky.  Na lúke, kde sa rozprestierali rozprávkovo kvitnúce kvety, sa zobudili statoční básnici noci.  Nikto ich nevidel, nikto ich nepočul, kým neboli noci plné tajomstiev. Boli to nočné motýle, s krídlami, ktoré sa leskli ako zafarbené sklo, plné tajomných básní.
+
+Najstarší z nich, motýľ s menom Svietnik, mal krídla sfarbené do hnedej, posiate iskričkami hviezd.  Jeho hlas bol ako šepot vetra, plný múdrosti a povestí. Svietnik rozprával príbehy o dávnych kráľohoch hviezd a o tajných chodníkoch, ktoré vedú cez mesiac.
+
+Vedľa neho sa vznášal elegantný motýľ s menom Slnkáč.  Jeho krídla boli zlata a svetla, ktoré sa odrážali v kvapkách rosy na tráve.  Slnkáč spieval o láske, o radosti a o zbrani, ktorá sa skrýva v každej slze.  Jeho hlas bol ako hudba, ktorá sa šírila cez ticho noci.
+
+Ďalší, elegantný motýľ s názvom Mesiacik, mal krídla, ktoré sa leskli ako roztavené striebro.  Jeho hlas bol tichý ako šum šumuceho potoka, ale v ňom sa skrývala hlboká múdrosť.  Mesiacik rozprával o tajomstvách nočného neba, o príbehoch hviezd a o tom, ako sa slnko schováva za oblaky.
+
+Všetci títo statoční básnici noci mali spoločnú úlohu.  Mali vznášať sa po nočnej lúke a rozdávať tajné básne.  Básne, ktoré sa vznášali vo vzduchu ako drobné, žiariace čiastočky, sa šírili do srdcí rastlín, zvierat, aj malých, zvedavých detí, ktoré sa v noci hrali.
+
+Jedného dňa sa Svietnik vznášal nad lúkou a videl malú, zlomenú kvietku.  Kvietka bola smutná a neschopná rozkvitať.  Svietnik sa vznášal k nej a rozprával jej príbeh o odvahe.  Rozprával o statočných hrdinoch, o láske a o sile.  Na jeho krídlach sa vznášala básen o sily v srdciach.
+
+Kvietka sa počúvala a v jej malom, zlomenej srdci sa prebudil plamienok nádeje.  Začala sa pomaly rozvíjať a  znova rozkvitať v krásnej, žiarivom svetle.  Vnútri kvietky začal žiariť nádherný pocit, že ona je odvážna.
+
+Slnkáč, vnímajúc jej zmenu, sa pripojil k Svietníkovi.  Spieval pieseň o sile, o radosti a o tom, ako sa každý môže zmeniť.  Jeho pieseň znela tak pekne, že sa vznášala nad lúkou a šírila do celého sveta.
+
+Mesiacik videl, ako sa kvietka znova teší životu.  Rozprával jej o tajomstvách nočného neba, o príbehoch hviezd a o tom, ako sa každý môže stať statočným.  Jeho hlas bol ako šum potoka, ale v ňom sa skrývala hlboká múdrosť, ktorá kvetinu nabila silou.
+
+Odvtedy, každý večer, keď sa slnko schovávalo za vrchy, sa noční básnici vznášali nad lúkou.  Rozprávali svoje príbehy, rozdávali svoje básne a napĺňali svet tajomstvom a krásou.  Všetci, ktorí počuli ich básne, sa cítili silnejší a plní nádeje.  A tak sa nočná lúka stala miestom, kde sa rozvíjal život, láska a odvaha. A každá kvetinka, každý hmyz a každá nočná bytosť si niesli ich lásku vo svojich srdciach.
+</body>

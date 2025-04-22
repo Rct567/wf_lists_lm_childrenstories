@@ -1,0 +1,55 @@
+<prompt>
+Please write a simple and easy-to-follow Norwegian Nynorsk children's story that is at least 1000 words long.
+It must be completely written in proper Norwegian Nynorsk (NN).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Heimelaga troll som ikkje kunne laga brød'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>nn</lang_id>
+
+<title>Heimelaga troll som ikkje kunne laga brød</title>
+<body>
+På ein fjelltopp, høgt over dei grøne dalane, låg ein liten, truleg hytte. I hytta budde tre små troll:  Turid, som var den mest rolege, med lange, flettede hår som hengde ned til golvet;  Bjarne, den spinkle, med eit alltid smilande ansikt; og  Hilde, den minste av dei tre, med øyne som glødde som små,  runde solstein.
+
+Dei tre trollene var kjære venninner, og elska å leike saman.  Men dei hadde ein hemmeleg drøm:  Dei ville laga det beste brødet i heile skogen!  Dei hadde høyrde forteljingar om det myke,  søte brødet, med kvikklyng-smak, og tenkt seg alt det deilige de kunne lage til seg og sine nye venner.
+
+Men problemet var at dei ikkje visste korleis.  Dei hadde prøvd alt dei kunne tenke på:  å blande stein og jord, å bruke  rød løv og søte bjørnebær, å bruke det fine spinn frå edderkopper.  Men korleis enn dei blande og baka, det vart aldri godt brød.  Det vart hardt som stein, eller klebrig som leir.  Eit sørgeleg resultat, ein utrulig frustrasjon!
+
+
+Ein dag, då dei sette seg til bords,  med hender som heldt  forferdelege stykker bakt leir,  sa Turid med ein tung stemme:  «Eg er redd vi aldri klarer å lage godt brød.  Kanskje vi er rett og slett ikkje laga for å bake? »
+
+Bjarne, som alltid så det lysaste i alle ting, skudde  hodet og sa:  «Nei, Turid! Vi må ikkje gi opp!  Vi må finne ut *korleis* det går an.  Vi må finne det hemmelege oppskrifta!».
+
+Hilde, som alltid hadde latt seg inspirere av naturen, nikka energisk.  «Eg veit!  Vi må spørje  heimelaga  dyra i skogen!»  og i det ho sa dette, oppdagade dei ein liten fugl på gulvet.
+
+
+Dei samla motet sitt,  ga seg på eventyret for å finne den gjeve oppskrifta, og tok med seg heimelaga  brød-materiale,  for å hjelpe fuglen med å gjere brødmat-innlegg.  Dei vandret inn i skogen.  Og som dei hadde ventet,  var det mange kjende fjes!
+
+
+Først møtte dei  en gammel bjørnunge, med sølvskinn.  «Eg prøvde ein gang å lage brød med sopp, men det lukta bare av skogens grumme og råtte», sa han.  Etter det oppsøkte dei ein liten skogsdame med vakre blomster som øyner.  «Glem soppebruken! Bruk søte bær.», sa hun. Etterpå besøkte de en vakker  hjort.   "Lag ein deig av havre og honning," sa ho og sa med vennlig tone, "for då blir det mykt!"
+
+
+
+Dei vandret lenger og lenger gjennom skogen,  hørte historien av fugler som fladder og snute av dyrene.  Dei følgde den enkle lei som skogen ville vise. Etter lengre tid,   traff dei den kjende fabelaktige bjørn. «Den perfekte deigen for det gode brødet, er laget av bjørnebær, vann, smør og sukker!»,  sa han.  «Sjølve hemmelegheitten ligger i kjærleiken til opplegget! Kvar ein av ingrediensene, representerer ein trinn i den store eventyren.»  Og da gav han dem noen små skjeer med søte bær.  Bjørnen ga dem gode tips.  Med hvert møter dei fekk mer tips.
+
+
+
+Tilbake i hytta sin,  hadde de fått en masse  viktige opplysninger. De hadde fått gode brødoppskrifter fra dyr og planter i skogen.  Bjarne  knettet hendene i spenning og sa:  "Vi kan bruke alle disse forskjellige ingredienserne!" og Turid  lo. "Ja, vi skal prøve med denne hemmelige oppskriften. Vi har fått massevis av tips."
+
+
+Sammen tok de ut ingrediensene:  smør, honning, søte bær og  havre. Dei blande alt i en stor bolle, med kjærlighet og glede. Etter den langsomme, gode blandefasen, delte de arbeidsdelingene. Bjarne elte deigen, Hilde kastet noen små stykker i kjøkkenet, Turid målte ingrediensene nøyaktig og ordnet ingredienser perfekt!
+
+
+
+De la deigen i en varm ovn. Imellom, holdt alle oppsikt på klokken. Og et øyeblikk etter, kunne alle merke hvordan det var å ha varm ovn og bake det deilige, fantastiske, nydelige brødet.  Da de åpnet ovnen, stoppet de helt!  En mektig aroma av kjærelig kjærlighet fylte det minste rom. Et fantastikk brød i midten sto der.
+
+
+Det sto der, gyllenbrun og saftig. Det luktet søtt og nydelig. Alle tre venninner smilet.  De hadde gjort det!
+
+
+De smakte brødet sammen.  Det var mørt og varmt, med en vakker blanding av kvikklyng og andre deilige smakeskall.  Hilde hoppet til glede, Turid nikka godkjennende,  og Bjarne smilte, bredt og lykkelig.  De hadde laget det beste brødet i heile skogen. Og ikke bare det, men de hadde lært en dyrebar lekse: at å lage noe flott, krever både kunnskap og kjærlighet.  Fra da av bakte de trollene brød regelmessig. Og hver dag fylte den deilige brødsmaken den lille fjellhytta med glede.  Og enda flere troll fra skogen besøkte hytta deres!
+</body>

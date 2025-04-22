@@ -1,0 +1,45 @@
+<prompt>
+Please write a silly Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Draugystės ir meilės istorijos iš Lietuvos'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lt</lang_id>
+
+<title>Draugystės ir meilės istorijos iš Lietuvos</title>
+<body>
+Šiltą vasaros dieną, paslaptingame Lietuvos miške, gyveno mažytis, apsirengęs ryškiai geltona striuke,  Paukštelis Pipas. Jis nebuvo paprastas paukštelis. Jis turėjo ypatingą dovaną – gebėti kalbėti su gyvūnais.
+
+Vieną dieną, skrisdamas virš gėlių žydinčio pievo, Pipas pastebėjo liūdėjančią Vorą Vilką. Jo tinklas buvo netvarkingas, vabzdžių beveik nebuvo pagavęs, o pats voras vilkė pilkai rudas rūbas, ir atrodė, jog neteikia jam jokios naudos, nei džiaugsmo.
+
+"Oi, Voras Vilkas, ką tau nutiko?" paklausė Pipas, nuleidęs skrydį žemyn.
+
+"Niekada nesučiupinėsiu savo didžiausios laimės. Visada viskas ne taip, kaip svajoju!", atsiduso Voras Vilkas, išdėliojęs tinklą saulėje.
+
+"Ką tu turėtum svajoti? Kas tau teikia laimę, ko ieškai?" paklausė smalsus paukštelis Pipas.
+
+"Aš noriu sugautu Auksinio Skorpiono, kad sutaikyčiau visas spalvas savo tinklu!",  atsiliepė Vilkas, žvelgdami į kiekvieną aplinkinių augalų žiedą. "Mano svajonė - kad mano tinklas žėrėtų  visomis spalvomis kaip saulėlydis".
+
+Pipas, visada pasiruošęs nuotykiams, sukėlė ženklesnį galvojimo šuoli. "Labai gerai!", pasakė Pipas. "Tu žinai, kur gyvena Auksinis Skorpionas?  Jis gyvena aukščiausiame medžio viršūnėje, šalia nuostabiausių raudonos spalvos gėlių!"
+
+Taigi, iškart jie išlėkė. Pipas, pūsdami ir plazdami, nukreipė Vilką į kelionę.  Jie šoko ir šuoliavo, įveikdami įvairiausius kliūtis. Skrido per lauko takus ir drėkinimą pritraukiančius tvenkinį.
+
+Atsiradę Aukštame medžio viršūnėje, jie pamatė tą nuostabų reginį – raudonos gėlės.  Vos tarp raudonų žiedų, gulėjo Auksinis Skorpionas! Jo ašaros buvo aukso spalvos.
+
+"Ką tau veikia?", pasiteiravo Pipas.
+
+"Esu nusivylęs. Man reikia atsipalaiduoti ir sušilti saulutės šiluma", atsakė Skorpionas. "Savo tinkluose, tu gali tik mane apšaudyti visomis spalvomis".
+
+"Gerai!", sušuko Vilkas, labai džiaugdamasis.  Pirma, jis kruopščiai aptinkų auksinis ašarų ženklus aplink Auksinį Skorpioną. Toliau, jis lengvai panaudojo savo menininko iškalbas ir nužydinimo spalvas, kad sukurtų ne tik gražią apkabą Skorpionui, bet ir žvilgančią tinklo kompoziciją! Visa tai sujungė jaudinantį vaizdą ir apkabų.
+
+Auksinis Skorpionas, pakerėtas vaizdu ir atsipalaidavęs tarp gėlių, pajuto nuostabią harmoniją su Voru Vilku ir Pipu.
+
+Tą dieną, Voras Vilkas, kurį prieš tai apėmė liūdesys, jau jautėsi  didesniu. Jo tinklas, su Auksinio Skorpiono akcentais, subyrėjo į gražiausias spalvas – žydrą, baltą ir geltoną.
+
+Pasakojimas baigėsi laiminga ir džiaugsminga pabaiga! Visiems tris draugams - Vorui Vilkui, Auksiniam Skorpionui ir Pipui - kilo širdyse  didžiulis draugystės ir meilės jausmas. Jų nuotykiami apėmė  net plačiausią ir toliausiausiausiu Lietuvą apglėbusią žemę.
+</body>

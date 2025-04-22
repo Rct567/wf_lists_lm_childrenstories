@@ -1,0 +1,49 @@
+<prompt>
+Please write a silly Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Skarb Przyjaźni i Nieustraszona Wędrowniczka'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pl</lang_id>
+
+```xml
+<title>Skarb Przyjaźni i Nieustraszona Wędrowniczka</title>
+<body>
+Pewnego razu, w malowniczej wsi o nazwie Chichotkowo, gdzie chichoty brzmiały głośniej niż koguty o świcie, mieszkała mała dziewczynka o imieniu Zuzia. Zuzia, o włosach jak słoma i oczach błękitnych jak jezioro, była znana w całej okolicy z jednego – z nieskończonej ciekawości i jeszcze bardziej nieokiełznanej miłości do przygód. No i oczywiście z tego, że wiecznie miała brudny nos od wścibiania się w cudze sprawy i próbowania wszystkiego po trochu.
+
+Pewnego słonecznego poranka, kiedy słońce leniwie wyłaniało się zza dachu stodoły, Zuzia, jak zwykle, wyskoczyła z łóżka z energią małego dynamo. Zanim jeszcze zdążyła zjeść owsiankę (której szczerze nienawidziła, ale mama z uporem godnym lepszej sprawy jej ją serwowała), wpadła jej w oko stara, pożółkła mapa. Wisiała na ścianie w jej pokoju, podrapana przez kota Mruczka (który, swoją drogą, też lubił się wdawać w przygody). Mapa przedstawiała Chichotkowo i jego okolice, a na jej końcu, gdzieś daleko za zakrętem rzeki i poza lasem, znajdował się tajemniczy krzyżyk. Pod krzyżykiem zaś, dumnie, stało słowo "Skarb".
+
+Oczy Zuzi zabłysły. "Skarb!" krzyknęła w myślach. "Muszę go znaleźć!". Zanim ktokolwiek zdążył ją powstrzymać, Zuzia wsunęła do plecaka kilka sucharów (żeby mieć co przegryźć), lupę (żeby wszystko dokładnie oglądać), garść kamieni (bo zawsze się przydają) i oczywiście… swój ulubiony kapelusz w kształcie biedronki. Kapelusz ten, jak głosiła legenda, zapewniał nieustraszenie i powodował, że Zuzia wydawała się jeszcze bardziej śmieszna, niż była.
+
+Po cichu wyszła z domu, zostawiając za sobą zaspane Chichotkowo. Pierwszym wyzwaniem okazała się rzeka, która oddzielała wioskę od lasu. Zuzia stanęła nad brzegiem i zapatrzyła się w rwący nurt. Wtem, zobaczyła… Bobo! Bobo, mały bóbr, który mieszkał w pobliskim stawie i słynął z budowania genialnych (choć czasem chwiejnych) tam.
+
+"Bobo!" zawołała Zuzia. "Pomógłbyś mi przeprawić się na drugą stronę?".
+
+Bobo, z zaskoczeniem podnosząc swój mały, mokry pyszczek, zgodził się natychmiast. Z pomocą Zuzi i jej kamieni (które idealnie pasowały do budowania tamy) Bobo zbudował solidny most z patyków i gałęzi. Przejście przez most było nieco chwiejne, ale Zuzia, pewna swego kapelusza, przeszła dumnie, nie tracąc ani jednego suchara.
+
+Po drugiej stronie rzeki, wkroczyła do lasu. Drzewa witały ją swoimi gęstymi konarami, a ptaki śpiewały melodyjne pieśni. Zuzia, z lupą w ręku, podziwiała każdy liść, każdą mrówkę i każdego grzyba, który w tym lesie wyglądał jak domek krasnala. Zauważyła jednak coś dziwnego – ślady. Ślady były małe, okrągłe i… prowadziły w głąb lasu.
+
+Zuzia, podążając za śladami, odkryła, że należą one do… jeża Edmunda! Edmund, jeż o wyjątkowo eleganckim krawacie w grochy, był znany z tego, że uwielbiał… zguby. A co więcej, zgubił właśnie swój ulubiony guzik.
+
+"Edmundzie!" zawołała Zuzia. "Co się stało?".
+
+Edmund z płaczem pokazał jej swoją koszulę. Brakowało guzika! Zuzia, przeszukując z nim las, znalazła guzik w kształcie małej, złotej żaby. Edmund był zachwycony. W dowód wdzięczności, Edmund, znający las jak własną kieszeń, poprowadził Zuzię dalej, pokazując jej najpiękniejsze zakątki.
+
+Po długiej wędrówce dotarli do polany. Polana była magiczna! Rozświetlona promieniami słońca, a w jej środku stało potężne, stare dębowe drzewo. Na drzewie, w idealnym miejscu, siedziała… Sowa Sofija! Sofija, mądra jak cały atlas geograficzny, zawsze wiedziała, gdzie szukać rozwiązań zagadek.
+
+Zuzia, opowiedziała Sowiej Sofii o mapie i o skarbie. Sowa Sofija, z uśmiechem na twarzy, wytłumaczyła, że mapa jest starym kluczem. Nie do złota, srebra czy drogocennych kamieni. Ale do czegoś znacznie cenniejszego. Skarbem, o którym mowa, jest… przyjaźń. A droga do tego skarbu, to pokonywanie trudności i pomaganie innym.
+
+Sowa Sofija wskazała palcem na miejsce pod dębem. Zuzia i Edmund, podekscytowani, zaczęli kopać. Znaleźli… małą, drewnianą szkatułkę. W szkatułce zaś leżał zwój papieru i dwa klucze. Na zwóju, starannym pismem, widniał napis: "Skarb Przyjaźni to pomocna dłoń, dobre serce i wspólna radość!". Klucze, z kolei, prowadziły do dwóch ukrytych miejsc.
+
+Pierwszy klucz pasował do skrzynki w domu Bobo, gdzie znajdowały się narzędzia do naprawiania tam. Drugi klucz pasował do chatki jeża Edmunda, gdzie przechowywał on przepyszne owoce leśne.
+
+Zuzia, razem z Bobo i Edmundem, spędzili popołudnie na pomaganiu innym. Zbudowali nowy most, dzięki czemu mieszkańcy mogli bezpiecznie przechodzić przez rzekę. Naprawili domek jeża Edmunda, w którym, nawiasem mówiąc, zamieszkała wiewiórka Stefania, która również potrzebowała pomocy. I dzielili się pysznymi owocami z całą wioską. Zuzia zrozumiała, że skarby materialne to nic w porównaniu z radością, jaką daje pomaganie i spędzanie czasu z przyjaciółmi.
+
+Wieczorem, kiedy słońce malowało niebo w odcieniach pomarańczu i różu, Zuzia, zmęczona, ale szczęśliwa, wróciła do domu. Kapelusz w kształcie biedronki dumnie zdobił jej głowę. Kiedy mama zapytała, co dziś przeżyła, Zuzia zaśmiała się szeroko i opowiedziała o swojej przygodzie, a potem zjadła (całą!) owsiankę. Od tamtej pory, mapa ze skarbem wciąż wisiała na ścianie, ale już wiedziała, że prawdziwe skarby można znaleźć wszędzie, wystarczy tylko mieć otwarte serce, dobry humor i chęć pomagania innym. I że nawet owsianka, od czasu do czasu, może być całkiem dobra. A Bobo, Edmund i Sofija? Dołączyli do Zuzi w jej nieskończonych przygodach, stając się jej najwierniejszymi przyjaciółmi, gotowymi na każdą kolejną wyprawę po nowe przygody w Chichotkowie. Koniec.
+</body>
+```

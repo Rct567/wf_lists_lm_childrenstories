@@ -1,0 +1,63 @@
+<prompt>
+Please write a fun and entertaining French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Le concours de danse des animaux dans la forêt enchantée.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```xml
+<title>Le concours de danse des animaux dans la forêt enchantée</title>
+<body>
+Au cœur d'une forêt enchantée, où les arbres chatouillaient le ciel et où les rivières chantaient de douces mélodies, se préparait un événement extraordinaire : le grand concours de danse des animaux ! Chaque année, au moment où les feuilles se paraient de couleurs flamboyantes, les créatures de la forêt se réunissaient pour montrer leurs talents de danseurs.
+
+Cette année, l'excitation était à son comble. Des papillons aux ailes irisées s'agitaient joyeusement, les écureuils s'entraînaient secrètement sur les branches des chênes, et les oursons s'exercissaient à tournoyer autour des champignons rouges. Le juge en chef, le sage hibou Henri, aux grands yeux brillants, avait annoncé un prix exceptionnel : un sac rempli de glands dorés, le plus précieux des trésors pour tous les animaux gourmands.
+
+Parmi les participants, se trouvait une petite souris nommée Sophie. Sophie était une danseuse passionnée. Ses mouvements étaient fluides comme l'eau d'une cascade et légers comme une plume. Cependant, Sophie était également très timide. Elle avait peur de se produire devant une foule.
+
+Un jour, alors qu'elle s'entraînait en secret près d'une clairière, elle rencontra un vieux renard rusé nommé Fernand. Fernand, avec son pelage roux et ses yeux malicieux, était connu pour ses farces, mais aussi pour sa sagesse.
+
+"Tiens, petite souris, que fais-tu là ?" demanda Fernand, en souriant.
+
+Sophie, surprise, rougit légèrement. "Je... je m'entraîne pour le concours de danse", répondit-elle timidement.
+
+Fernand haussa un sourcil. "Tu es très douée ! Mais pourquoi as-tu l'air si soucieuse ?"
+
+Sophie avoua son trac. "J'ai peur. Peur de me tromper, peur d'être ridicule devant tous les animaux..."
+
+Fernand réfléchit un instant, puis il lui dit : "La danse, ma petite, c'est comme l'air que tu respires. Elle vient du cœur. Ne te soucie pas du regard des autres, danse comme si tu étais seule. Laisse la musique t'emporter."
+
+Il lui expliqua ensuite quelques astuces pour surmonter sa timidité. Il lui conseilla de fermer les yeux et de s'imaginer danser sous les étoiles, de sentir la musique traverser son corps. Il lui rappela aussi que la beauté de la danse résidait non pas dans la perfection, mais dans l'expression des émotions.
+
+Sophie, encouragée par les paroles de Fernand, s'entraîna avec encore plus d'ardeur. Elle se concentrait sur les mouvements, sur la musique, sur ses sentiments. Elle oubliait petit à petit sa peur et laissait son corps s'exprimer librement.
+
+Le jour du concours arriva enfin. La clairière était transformée en une véritable scène de spectacle. Des lampions illuminaient l'espace, des guirlandes de fleurs ornaient les arbres, et une musique entraînante se faisait entendre. Tous les animaux étaient présents, les yeux brillants d'excitation.
+
+Les premiers participants se produisirent. Les papillons virevoltaient gracieusement, les écureuils exécutaient des pirouettes surprenantes, et les oursons dansaient avec une maladroite joie. Puis, ce fut le tour de Sophie.
+
+Son cœur battait la chamade. Elle inspira profondément, ferma les yeux un instant, et se rappela les mots de Fernand. Elle se concentra sur la musique, sur le rythme. Lentement, elle commença à danser.
+
+Ses mouvements étaient d'une grâce infinie. Elle tournoyait, elle sautillait, elle glissait sur l'herbe, comme une feuille emportée par le vent. Elle exprimait sa joie, sa mélancolie, sa passion. Elle oublia complètement le public, perdue dans son propre univers.
+
+Les spectateurs, captivés, retenaient leur souffle. Le silence régnait dans la clairière, seulement ponctué par le bruit des pas de Sophie et par les douces mélodies de la musique.
+
+À la fin de sa danse, Sophie s'arrêta. Un silence profond persista un instant, puis une tonnerre d'applaudissements éclata. Tous les animaux, émerveillés, applaudissaient à tout rompre.
+
+Le juge, le hibou Henri, déclara alors : "Mes chers amis, nous avons assisté à un spectacle extraordinaire ! Sophie, avec sa danse sublime, a véritablement touché nos cœurs. Le prix du premier place est… pour Sophie !"
+
+La petite souris, stupéfaite et émue, ne pouvait plus retenir ses larmes. Elle avait réussi ! Elle avait surmonté sa peur, elle avait dansé avec son cœur, et elle avait remporté le grand prix.
+
+Fernand, assis au bord de la clairière, souriait. Il était fier de sa petite amie danseuse.
+
+Sophie reçut le sac de glands dorés, un véritable trésor. Elle remercia tous ceux qui l'avaient soutenue, et en particulier Fernand.
+
+À partir de ce jour, Sophie devint une véritable star de la forêt enchantée. Elle dansait pour le plaisir, pour la joie de partager son art, et pour rappeler à tous les animaux que la beauté se trouve dans la confiance en soi et dans l'expression des émotions.
+
+Et chaque année, lors du concours de danse, Sophie continua d'émerveiller les spectateurs avec ses mouvements gracieux et sa passion inépuisable pour la danse. La forêt enchantée, baignée de musique et d'émotions, resta à jamais un lieu de célébration et de bonheur. Les animaux continuaient de s'entraîner avec enthousiasme, sachant que la magie de la danse les attendait, une danse où l'amitié et la joie primaient sur toute autre chose, une danse pour toujours…
+</body>
+```

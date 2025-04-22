@@ -1,0 +1,38 @@
+<prompt>
+Please write a uncomplicated Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Wielka ucieczka koguta Franka z farmy'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>pl</lang_id>
+
+<title>Wielka ucieczka koguta Franka z farmy</title>
+<body>
+W jednej małej wsi, położonej wśród zielonych pól i lasów, znajdowała się farma należąca do rodziny Kowalskich. Była to farma pełna życia, gdzie żyły różne zwierzęta, takie jak kury, koguty, świnie, krowy i konie. Wśród nich mieszkał kogut o imieniu Franka, który był najbardziej charakterystycznym i odważnym kogutem na farmie.
+
+Franka był kogutem o pięknym, złotym upierzeniu i długim, czerwonym grzebieniu na głowie. Codziennie rano, o wschodzie słońca, Franka wykonywał swoją charakterystyczną pieśń, którą słyszeli wszyscy mieszkańcy wsi. Był to naprawdę wspaniały widok, kiedy Franka stał na szczycie kopca, rozkładając swoje pióra i śpiewając z całego serca.
+
+Jednak Franka nie był zadowolony z życia na farmie. Czuł, że jest przeznaczony do czegoś więcej, niż tylko do wykonywania swojej porannej pieśni i spacerowania po farmie. Pragnął przygód, nowych miejsc i nowych przyjaciół. Dlatego postanowił, że ucieknie z farmy i zobaczy, co kryje się poza jej granicami.
+
+W jedną noc, kiedy wszyscy śpieli, Franka postanowił, że to jest idealny moment, aby uciec. Wyszedł z kurzej budki i ruszył w stronę bramy farmy. Była to ciemna i burzowa noc, ale Franka nie bał się. Szedł przed siebie, aż do momentu, kiedy dotarł do bramy. Następnie, z całej siły, pchnął ją i udało mu się ją otworzyć.
+
+Gdy Franka znalezł się poza farmą, poczuł wielką wolność. Mógł iść, gdzie tylko chciał, i robić, co tylko wollte. Ruszył w stronę lasu, który znajdował się nieopodal farmy. Las był ciemny i nieznany, ale Franka nie bał się. Szedł głębiej i głębiej w las, aż do momentu, kiedy dotarł do małej polany.
+
+Na polanie znajdował się mały staw, a obok niego stał stary, mądry sęp o imieniu Zbigniew. Zbigniew patrzył na Franka i powiedział: "Cześć, młody kogucie. Co cię sprowadza do mojego lasu?" Franka wyjaśnił, że uciekł z farmy, aby zobaczyć świat i przeżyć przygody. Zbigniew słuchał uważnie i powiedział: "Rozumiem twoje pragnienia, ale las może być niebezpieczny. Musisz być ostrożny i nieufny wobec nieznanych miejsc i zwierząt".
+
+Franka posłuchał Zbigniewa i postanowił, że będzie ostrożny i nieufny. Ruszył dalej, aby zobaczyć, co kryje się w lesie. Przez cały dzień szedł, aż do momentu, kiedy dotarł do małej wioski. Wioska była pełna życia, a Franka spotkał tam wielu nowych przyjaciół, takich jak koty, psy i ptaki.
+
+W wiosce Franka spotkał także jedną małą, miłą dziewczynkę o imieniu Kasia. Kasia była bardzo ciekawa Franka i jego przygód. Pytała go o wszystko, od jego ucieczki z farmy, po jego spotkanie ze Zbigniewem. Franka opowiedział jej o wszystkim, co się działo, i Kasia słuchała z wielkim zainteresowaniem.
+
+Kasia i Franka szybko zostali przyjaciółmi i postanowili razem zwiedzać okolicę. Przez cały tydzień szli po lesie, po wsi i po polach, odkrywając nowe miejsca i spotykając nowe zwierzęta. Franka był bardzo szczęśliwy, że mógł przeżyć tak wiele przygód i spotkać tak wiele nowych przyjaciół.
+
+Jednak po tygodniu Franka zaczął tęsknić za swoją farmą i rodziną. Czuł, że jego miejsce jest na farmie, gdzie może wykonywać swoją poranną pieśń i być z innymi zwierzętami. Kasia zrozumiała Franka i powiedziała, że musi wrócić na farmę. Franka posłuchał Kasi i postanowił, że wróci na farmę.
+
+Gdy Franka wrócił na farmę, został powitany przez wszystkich zwierząt. Byli bardzo szczęśliwi, że Franka wrócił i że jest bezpieczny. Rodzina Kowalskich była także bardzo szczęśliwa, że Franka wrócił i że nic mu nie stało. Franka wrócił do swojej kurzej budki i następnego dnia rano wykonał swoją poranną pieśń, którą słyszeli wszyscy mieszkańcy wsi.
+
+Od tego dnia Franka był znany jako najodważniejszy kogut na farmie. Miał wiele przygód i spotkał wiele nowych przyjaciół, ale wiedział, że jego miejsce jest na farmie, gdzie może być z innymi zwierzętami i wykonywać swoją poranną pieśń. I tak Franka żył długo i szczęśliwie na farmie, otoczony przez swoich przyjaciół i rodzinę.</body>

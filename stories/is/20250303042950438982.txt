@@ -1,0 +1,99 @@
+<prompt>
+Please write a dialog-based Icelandic children's story that is at least 1000 words long.
+It must be completely written in proper Icelandic (IS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Tröllin sem byggðu borg úr steini'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>is</lang_id>
+
+```xml
+<title>Tröllin sem byggðu borg úr steini</title>
+<body>
+<p>Hérna er sagan um tröllin sem byggðu borg úr steini. Þetta voru ekki venjuleg tröll, þau voru vinamörg og langaði mest af öllu að búa saman í stóru, fallegu borg. Þau hétu Steinn, Klettur og Hella.</p>
+
+<p>“Ég er svo spenntur!” sagði Steinn, stærsta tröllið af þeim þremur, með djúpa, hljómandi rödd. “Ég get ekki beðið eftir að byrja að byggja borgina okkar!”</p>
+
+<p>“Já, ég líka!” svaraði Klettur, sem var örlítið minni, en jafn ákafur. “Ég er búinn að teikna fullt af plönum. Við þurfum stóra turna, breiða vegi og falleg torg.”</p>
+
+<p>Hella, minnsta tröllið, hoppaði upp og niður af spenningi. “Og blóm! Við þurfum fullt af blómum í borginni okkar! Og kannski gosbrunn með vatni!”</p>
+
+<p>“Frábær hugmynd, Hella!” sagði Steinn og brosti. “Við skulum byrja á því að finna besta staðinn fyrir borgina okkar. Hann þarf að vera stór, flatur og með nóg af steinum.”</p>
+
+<p>Þau þrjú tröllin löbbuðu saman um óbyggðirnar. Þau röltu yfir græna dali, klifruðu upp brattar brekkur og fóru yfir fossandi ár. Þau leituðu og leituðu, en fundu engan stað sem virtist vera alveg réttur.</p>
+
+<p>“Ég er að verða þreyttur,” sagði Klettur og settist niður á stóran stein. “Ég held að við séum að leita of langt.”</p>
+
+<p>Hella settist við hliðina á honum. “Ég er sammála. Kannski er best að við finnum bara stað nálægt heimili okkar.”</p>
+
+<p>Steinn hugsaði sig um. Hann vissi að hin tvö tröllin voru rétt. “Allt í lagi,” sagði hann. “Við skulum fara aftur heim og skoða nágrennið.”</p>
+
+<p>Þau sneru við og héldu heim á leið. Þegar þau voru næstum komin að heimkynnum sínum, sá Hella eitthvað sem fékk hana til að staldra við.</p>
+
+<p>“Sjáið þetta!” hrópaði hún og benti á stóran, sléttan klettahæð. “Þetta er fullkominn staður! Hann er stór, flatur og fullur af steinum!”</p>
+
+<p>Steinn og Klettur litu á klettahæðina. Hún var mjög stór og hún hafði nóg af steinum. Þau voru sammála. Þetta var fullkominn staður.</p>
+
+<p>“Þetta er frábært!” sagði Steinn. “Við skulum byrja strax!”</p>
+
+<p>Þau byrjuðu að vinna. Steinn, með sína stærð og styrk, lyfti stórum steinum og setti þá á réttan stað. Klettur, með sína nákvæmni, raðaði steinum saman og smíðaði veggi og turna. Hella, með sína gleði og áhuga, skreytti borgina með blómum og hugsaði um hvernig hún ætlaði að búa til gosbrunninn.</p>
+
+<p>“Hér er fyrsti veggurinn!” sagði Klettur, stolt. “Hann er sterkur og traustur.”</p>
+
+<p>“Og hér er fyrsti turninn!” sagði Steinn, með brosi. “Hann er svo hár að við getum séð alla leið til fjalla!”</p>
+
+<p>Hella var að planta blómum í kringum veggina. “Ég er viss um að þetta verður fallegasta borg í heimi!”</p>
+
+<p>Þau unnu dag og nótt, alltaf saman. Þau voru þreytt, en þau voru líka mjög ánægð. Þau voru að byggja borgina sína, borgina sem þau höfðu dreymt um.</p>
+
+<p>Einn daginn, þegar borgin var næstum tilbúin, sá Hella eitthvað skrítið. Það var lítill fugl, sem var fastur í þyrnirunnanum.</p>
+
+<p>“Vá!” sagði Hella. “Þessi fugl er fastur!”</p>
+
+<p>Hún hljóp að fuglinum og reyndi að losa hann. Þyrnarnir voru beittir og Hella varð að fara varlega.</p>
+
+<p>Steinn og Klettur komu hlaupandi. “Hvað er að, Hella?” spurði Steinn.</p>
+
+<p>“Fuglinn er fastur,” sagði Hella. “Við verðum að hjálpa honum!”</p>
+
+<p>Steinn og Klettur hjálpuðu Hella að losa fuglinn. Þau voru mjög varkár og eftir smá stund, losnaði fuglinn. Hann flaug upp í loftið og hvarf.</p>
+
+<p>“Þetta var gott að gera,” sagði Klettur.</p>
+
+<p>“Já,” sagði Steinn. “Við verðum alltaf að hjálpa öðrum.”</p>
+
+<p>Hella brosti. “Ég er sammála. Og nú getum við klárað borgina okkar!”</p>
+
+<p>Þau unnu áfram. Þau byggðu gosbrunninn, sem Hella hafði dreymt um. Þau gróðursettu fleiri blóm og gerðu torgið fallegt. Að lokum var borgin tilbúin.</p>
+
+<p>Þau stóðu á torginu og horfðu á borgina sína. Hún var stór, falleg og full af steinum. Hún var nákvæmlega eins og þau höfðu dreymt um.</p>
+
+<p>“Við gerðum þetta!” sagði Steinn, stolt.</p>
+
+<p>“Já, við gerðum þetta!” sagði Klettur. “Þetta er borgin okkar!”</p>
+
+<p>Hella hoppaði af gleði. “Og hún er fullkomin!”</p>
+
+<p>Þau þrjú tröllin bjuggu saman í borginni sinni, borginni úr steini. Þau voru hamingjusöm og þau voru alltaf tilbúin að hjálpa öðrum. Þau sýndu öllum að vinátta og samvinna geta gert allt mögulegt.</p>
+
+<p>Einn daginn, komu önnur tröll að borginni. Þau voru forvitin og vildu sjá borgina sem þau höfðu heyrt um.</p>
+
+<p>“Vá!” sögðu tröllin, undrandi. “Þetta er ótrúleg borg! Hvernig gerðuð þið þetta?”</p>
+
+<p>Steinn, Klettur og Hella sögðu þeim söguna um hvernig þau byggðu borgina. Þau sögðu þeim um erfiðið, gleðina og vináttuna sem þau höfðu deilt.</p>
+
+<p>“Við viljum líka búa í borginni ykkar!” sögðu hin tröllin.</p>
+
+<p>Steinn, Klettur og Hella brostu. “Auðvitað! Því fleiri, því betra!”</p>
+
+<p>Þau þrjú tröllin tóku við nýju tröllunum og saman bjuggu þau í borginni úr steini. Borgin stækkaði og varð enn fallegri. Þau lærðu að deila og hjálpast að, og þau lifðu öll hamingjusöm til æviloka.</p>
+
+<p>Og þannig varð borgin úr steini að stað þar sem vinátta og samvinna ríkti, og þar sem allir voru velkomnir.</p>
+
+<p>Endirinn.</p>
+</body>
+```

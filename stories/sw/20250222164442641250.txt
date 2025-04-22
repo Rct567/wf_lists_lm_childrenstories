@@ -1,0 +1,35 @@
+<prompt>
+Please write a educational Swahili children's story that is at least 1000 words long.
+It must be completely written in proper Swahili (SW).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Simba Aliyeokoa Mji Wa Wanyama'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sw</lang_id>
+
+<title>Simba Aliyeokoa Mji Wa Wanyama</title>
+<body>
+Simba mdogo, jina lake Fisi, alikuwa na ndoto kubwa.  Aliota kuhusu kuwa simba mkuu, shujaa, ambaye angeweza kulinda mji mzima wa wanyama.  Hata hivyo, Fisi alikuwa na tatizo kubwa – aliogopa sana.  Aliogopa kelele za upepo, aliogopa kivuli cha mti mrefu, na hata aliogopa mchwa mdogo aliyekuwa akitembea kwa fujo.
+
+Mji wa wanyama, unaoitwa Jangwa la Njano, ulikuwa na shughuli nyingi kila siku.  Ndege walikuwa wakicheza angani, tembo walikuwa wakinywea maji, na nyani walikuwa wakiwaburudisha wengine kwa vicheko vyao.  Lakini, Jangwa la Njano lilikuwa limezungukwa na msitu mrefu wa miti mirefu na yenye miiba, na nyoka wakubwa, wanaotisha, walijificha katika kichaka. Wanyama wadogo walikuwa na hofu kila siku.
+
+Mara moja, jangwani,  kuna msiba mkuu ulitokea.  Mvua kubwa ilifurika na kuharibu mashamba ya mboga mboga.  Wanyama wengi walianza kukosa chakula, na njaa ilianza kuongezeka kwa kasi. Simba wakubwa waliokuwa wakilinda mji walipuuza matatizo hayo.  Hawakujali shida ya wanyama wadogo.
+
+Fisi alihisi moyo wake ukipigwa kwa nguvu.  Aliona wanyama wenzake wakilia kwa uchungu, na machozi yakimtiririka.  Aliona kwamba hofu yake haikuwa muhimu.  Alichukua pumzi ndefu, na akapiga kelele kwa sauti kubwa iliyojawa na ujasiri.  "Mimi Fisi, nitaokoa mji wa wanyama!" alisema.
+
+Fisi, japokuwa alikuwa na hofu, aliamua kutenda. Alitembea jangwani, akizungumza na wanyama wengine. Akieleza shida hiyo na kuwaambia mipango yake ya kuokoa mji.  Aliwauliza tembo wakubwa kuwaletea maji kutoka mbali.  Aliwauliza mbweha kuwatafutia wanyama wadogo mimea ya kula.  Alifundisha nyani kupanda miti kwa haraka kupata matunda yaliyofichwa.
+
+Tembo wakubwa, kwa huruma yao, walianza kuchapa maji na kuwagawia wanyama wengine, wakisikia uchungu wa wanyama wadogo. Mbweha walikuwa wepesi kwa kutafuta mimea, wakishirikiana na Fisi. Nyani walipanda miti kwa ustadi, wakikamata matunda na kuwashirikisha wengine.
+
+Fisi aliendelea kufanya kazi kwa bidii.  Alijifunza kutumia ujuzi wake wa haraka katika kupata maji na chakula. Aliwaunganisha wanyama wote pamoja.  Alikuwa akivuta nguvu ya pamoja ya wanyama wadogo kupigana na shida.
+
+Baada ya muda mrefu, Jangwa la Njano lilianza kupona.  Mvua iliacha kunyesha, na mimea ilianza kukua.  Wanyama waliweza kupata chakula tena, na njaa ilipungua.  Wanyama wote wakamshukuru Fisi kwa ujasiri wake.
+
+Siku moja, Fisi alikaa chini, akitafakari.  Aliona kwamba shujaa si mtu aliye na nguvu kubwa, bali ni mtu aliye na moyo mkuu na aliye tayari kusaidia.  Aligundua kuwa hofu yake ilikuwa imefifia kama jua lililozama kwenye bahari.  Yeye si simba mkuu kwa nguvu, bali kwa huruma na ujasiri aliokuwa nao.  Akaona kuwa shujaa alikuwa ndani yake yeye.
+
+Fisi alikuwa simba mkuu, si kwa nguvu, bali kwa ujasiri wake na upendo wake kwa wanyama wenzake.  Jangwa la Njano lilifurahia uongozi wake mkuu na kamili.  Mji mzima wa wanyama ulipata amani, furaha, na afya.  Na Fisi, simba mdogo aliye na moyo mkuu, aliendelea kuwa shujaa, akiokoa mji wa wanyama kila siku.
+</body>

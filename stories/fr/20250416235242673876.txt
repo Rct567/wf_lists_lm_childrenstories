@@ -1,0 +1,67 @@
+<prompt>
+Please write a uncomplicated French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'L'étonnante découverte d'un trésor perdu sur une île déserte.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```html
+<title>L'étonnante découverte d'un trésor perdu sur une île déserte.</title>
+<body>
+Il était une fois, dans un pays lointain et ensoleillé, un petit garçon nommé Émile. Émile avait huit ans, les cheveux blonds comme les blés et les yeux bleus comme la mer. Il aimait jouer, rire et surtout, explorer. Sa plus grande passion était les histoires de pirates et de trésors cachés.
+
+Un jour, alors qu'Émile et sa famille étaient en vacances sur une île magnifique, une île paradisiaque bordée de sable fin et d'une eau cristalline. L'île s'appelait Île Mystérieuse, et elle tenait son nom d'une légende locale qui racontait l'existence d'un trésor perdu.
+
+Émile écoutait avidement ces histoires. Il passait des heures à lire des cartes au trésor qu'il dessinait lui-même, espérant un jour découvrir un véritable trésor.
+
+Un matin, pendant que ses parents se prélassaient au soleil, Émile, armé d'un seau et d'une petite pelle, décida de partir à l'aventure. Il voulait explorer la partie de l'île encore inexplorée par lui, là où la végétation était plus dense et où, disait-on, le mystère résidait.
+
+Il longea la plage, les pieds s'enfonçant dans le sable chaud. Les vagues caressaient doucement le rivage, murmurs d'histoires secrètes. Il croisa des coquillages aux formes étranges, des étoiles de mer multicolores, et même un petit crabe qui courut se cacher sous une pierre.
+
+Après une longue marche, Émile arriva à un endroit où les arbres étaient si touffus que les rayons du soleil peinaient à percer. Il sentait l'odeur humide de la terre et le parfum enivrant des fleurs tropicales. C'était un endroit merveilleux, plein de bruits étranges et inconnus.
+
+Il commença à chercher avec enthousiasme, explorant chaque buisson, chaque rocher. Il creusa autour des racines des arbres, espérant trouver un indice, un signe quelconque de la présence du trésor.
+
+Soudain, sa petite pelle heurta quelque chose de dur. Intrigué, Émile se mit à creuser avec plus d'ardeur. Il enleva la terre doucement, petit à petit. Et là, il apparut. Une vieille caisse en bois, presque enterrée.
+
+Le cœur battant la chamade, Émile s'empressa de dégager la caisse. Elle était lourde et recouverte de mousse et de quelques barnacles. Il essaya de l'ouvrir, mais elle était fermée par un cadenas rouillé.
+
+"Zut!" pensa Émile. Il fallait trouver un moyen de l'ouvrir. Il chercha autour de lui, espérant trouver quelque chose qui pourrait l'aider. Il trouva une pierre pointue et, avec précaution, commença à frapper sur le cadenas.
+
+Après de longues minutes d'efforts, le cadenas céda enfin. La caisse s'ouvrit avec un grincement.
+
+Émile, les yeux écarquillés, regarda à l'intérieur. Au lieu d'or et de bijoux, il trouva des objets étranges et fascinants. Il y avait des cartes, des carnets de notes reliés en cuir, une vieille boussole, et une longue-vue en laiton.
+
+Il y avait aussi un journal intime, dont les pages étaient jaunies par le temps. Émile commença à le lire avec beaucoup d'attention. Il apprenait que la caisse avait appartenu à un explorateur qui avait découvert l'île il y a des siècles.
+
+Le journal racontait les aventures extraordinaires de cet homme, ses rencontres avec les indigènes, les animaux exotiques et les merveilles naturelles de l'île. Il décrivait l'île comme un véritable paradis, rempli de beautés insoupçonnées.
+
+Émile était captivé par le récit. Il lisait les pages avec passion, imaginant l'explorateur vivre toutes ces aventures extraordinaires. Le journal était rempli de dessins détaillés de plantes, d'animaux et de paysages.
+
+Au fond de la caisse, il découvrit une petite boîte en bois. Il l'ouvrit et trouva à l'intérieur une lettre. La lettre était écrite par l'explorateur, et adressée à son héritier. Il y disait que l'île contenait plus de richesses que l'or : la beauté de la nature, l'amitié des hommes, et l'aventure elle-même.
+
+Émile réalisa que le véritable trésor n'était pas fait d'or, mais de l'histoire, des découvertes et des souvenirs laissés par cet explorateur.
+
+Il sortit de sa transe, le soleil commençant à se coucher. Il se sentait rempli de joie et de reconnaissance. Il referma la caisse, conscient du trésor qu'il venait de découvrir.
+
+Il retourna vers la plage, le journal intime serré contre lui. Ses parents, inquiets, étaient en train de l'appeler.
+
+"Émile! Où étais-tu passé?" demanda sa mère, soulagée.
+
+"J'étais à l'aventure!" répondit Émile, les yeux brillants. Il leur raconta tout ce qu'il avait découvert, l'histoire de l'explorateur, le journal, les objets étranges.
+
+Ses parents, d'abord surpris, furent ensuite émerveillés par le récit passionnant d'Émile. Ils comprirent alors qu'il avait vécu une aventure extraordinaire et qu'il avait trouvé un trésor bien plus précieux que l'or.
+
+À partir de ce jour, Émile continua d'explorer l'île, lisant le journal intime de l'explorateur et découvrant les secrets que l'île renfermait. Il apprit à aimer la nature, à observer les animaux et à respecter l'environnement.
+
+Il comprenait enfin que la vraie richesse ne se mesure pas en pièces d'or, mais en expériences vécues, en connaissances acquises et en souvenirs gravés dans son cœur. Et il savait que son aventure sur l'Île Mystérieuse avait changé sa vie pour toujours.
+
+Et ainsi, Émile, le petit garçon avide de trésors et d'aventures, continua d'explorer l'île, à la recherche de nouveaux trésors, toujours avec un cœur ouvert et curieux. Fin.
+</body>
+```

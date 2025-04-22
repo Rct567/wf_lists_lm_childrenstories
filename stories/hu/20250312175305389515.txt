@@ -1,0 +1,51 @@
+<prompt>
+Please write a light-hearted Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A beszélő fa meséi a kis kalandorokhoz: egy elfeledett kincs nyomában.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>A beszélő fa meséi a kis kalandorokhoz: egy elfeledett kincs nyomában.</title><body>
+Egyszer, egy vidám, napsütötte erdő szívében állt egy hatalmas, óriási tölgyfa.  A tölgyfa nem volt akármelyik fa.  Ő beszélő fa volt.  A levelei suttogtak a szélben, a gyökerei pedig titkokat sűrítettek a föld mélyén. A fa környékén játszottak a kis kalandorok: Barna, a bátor, vörös hajú fiú, Zsófi, a kíváncsi, zöld ruhás lány, és Pisti, a csendes, bölcs nyuszi.
+
+Egy szomorú, ködös reggelen a tölgyfa suttogni kezdett a szélnek: „Kis kalandorok, halljátok-e a szavamat?  Egy elfeledett kincs rejtekében van az erdő mélyén, és csak ti tudjátok megtalálni!”
+
+Barna felnézett a fára, szeme villogott a kalandtól. „Elfeledett kincs?  Mi az?” kérdezte izgatottan.
+
+„Egy csillogó, aranyszínű tükör,” suttogta a fa. „Tükör, melyben nem az arcunkat látjuk, hanem a jövőnk tündöklő képét. A tündérkirálynő elveszítette, amikor elrepült a vadgesztenyefára, és csak ti tudjátok visszaszerezni.”
+
+Zsófi csillogó szemekkel kérdezte: „Hogyan találjuk meg?”
+
+A tölgyfa mosolygott, a levelei zsongtak örömben: „Kövessetek a Száz Szirti Úton. A köveken láthatjátok a nyomokat, melyek a Tündérek Tója felé vezetnek. De vigyázzatok, a Csapda-szirtnél veszélyes, selymes, feketészöld kígyók ólálkodnak a mohában! És mindenképpen vigyetek magatokkal egy kis kenyeret, a NyusziPisti kedvéért, ő szereti a finom szőlős kenyeret. "
+
+A kis kalandorok izgatottan indultak útnak. A Száz Szirti Úton valóban láthatóak voltak a rejtélyes nyomok. A kövek mintha elvezették őket egy titkos ösvényre. Egyszerre elérték a Tündérek Tója partját. A tó felszíne, mint a csillogó üveg, tükrözte az égboltot.
+
+Egy csapat vízi madár repült a tó felett. Hangos csevegéssel úszkáltak a vízen, és elképesztően gyönyörűen énekeltek a nyárban. Zsófi a madarak felé kacsintott, remélve, hogy útbaigazítást kap.
+
+Útjuk során Pisti figyelmeztette őket: „Ez a szirt veszélyes, ne feledjétek el, selymes, fekete-zöld kígyók ólálkodnak a mohos növényekben. "
+
+
+Egy kicsit óvatosan haladtak tovább a selymes moha szőnyege fölött. Barna, bátor lévén, megérintett egy levelet, mely a földre hullott, és megmozdult. Egy kígyó, bár igazán szép, csillogó volt, mint egy nyári napon a kövek, megbújva mögötte állt! Barna megijedt, majdnem elesett, de Pisti és Zsófi egy pillanat alatt szétfújtak minden szarvasgomba és virág csapdájába. Így eltérítették a kígyó figyelmét! És megkönnyebbedtek.
+
+Végül megtalálták a Vadgesztenye Fáját. Óriási árnyékot vetített az ösvényre, s a levelei édesen zümmögtek. A fa tövében egy kis zsák feküdt.
+
+Bennük egy csodálatos tükör volt. Barna megfogta a tükört. Micsoda fényt tükrözött a tükröben!
+
+
+A tükörben egy gyönyörűséges kép bontakozott ki, a tündérkirálynő. Boldog mosolygása tündöklő égi tüzet árasztott, mint a nyári felhőket. Zsófi és Barna is látták, amint a királynő mosolygott, és a képet átérzették a gyönyörű tündéri világban.
+
+
+Láttak egy boldog jövőt, tele kalandokkal és jóvágású barátságokkal. Láttak egy csodálatos világot, ami mindig vár, hogy megismerjék. És tudták, hogy most már több kalandra fognak emlékezni, minden új napon megtapasztalva az örömet.  A tükör visszatükrözte őket, boldog és mosolygós. A kalandok véget értek, de a barátság, az önzetlenség, és a kalandvágy megmaradt.
+
+
+A tölgyfa örvendezett, hogy a kis kalandorok sikeresen végezték a feladatot. És egy hosszú ideje boldogan éltek, az erdőben és a környező területen. Egy sokat tapasztalt, életre szóló kalandban, melyek örökké megjegyeznek az ember emlékezetében. És ha emlékeznek erre a különleges kalandra, és mindig örömmel jut eszükbe, a csodálatos napra.
+
+
+
+</body>

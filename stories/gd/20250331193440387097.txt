@@ -1,0 +1,98 @@
+<prompt>
+Please write a dialog-based Scottish Gaelic children's story that is at least 1000 words long.
+It must be completely written in proper Scottish Gaelic (GD).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'An Sgeulachdan Dìomhair A’ Toirt nan Leanaban air Latha Sònraichte.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>gd</lang_id>
+
+<title>An Sgeulachdan Dìomhair A’ Toirt nan Leanaban air Latha Sònraichte.</title>
+<body>
+Bha dithis leanaban ann, Daibhidh agus Catrìona, a’ fuireach ann an taigh beag ciùin faisg air Loch Nis. Bha fios aig Daibhidh gum biodh e uamhasach maith le fear-coimheirsneachd aig an Loch Nis, agus bha Catrìona dìreach ag iarraidh teannachadh mhath de sùgh-craoibhe.
+
+**Daibhidh:** “Tha mi a’ smaoineachadh gum biodh e iongantach coinneachadh ris an Uilebheist Loch Nis, Catrìona!”
+
+**Catrìona:** “Uill, tha mi a’ smaoineachadh gum biodh sin inntinneach, ach tha mi tinn air sùgh-craoibhe, Daibhidh! Am faigh sinn beagan?”
+
+**Daibhidh:** “Dh’fhaodadh sinn iarraidh air a’ Ghobhainn.”
+
+**Catrìona:** “Math! Ach cò am Gobhainn?”
+
+**Daibhidh:** “Tha e na sheann duine dìomhair. Tha fios aige air tòrr.”
+
+Agus mar sin, dh’fhalbh an dithis aca sìos an rathad beag, a dh’ionnsaigh taigh a’ Ghobhainn. Bha am baile sàmhach agus an speur gorm soilleir os an cionn.
+
+**Daibhidh (a’ bualadh air an doras):** “Tapadh leat, Gobhainn, a bheil thu ann?”
+
+**Gobhainn (a’ fosgladh an dorais, sùilean gleansach):** “Daibhidh is Catrìona, cò ris a tha sinn an-diugh?”
+
+**Catrìona:** “Gobhainn, am faigh sinn sùgh-craoibhe, mas e do thoil e? Agus dh’fhaodadh Daibhidh ionnsachadh mu uilebheist Loch Nis!”
+
+**Gobhainn (a’ gàireachdainn):** “Sùgh-craoibhe? Gu dearbh. Agus mun uilebheist Loch Nis, tha sgeul dhiomhair agam dhutsa.”
+
+Thug an Gobhainn iad a-steach, far an robh cathraichean fiodha agus teallach le teine bog. Thòisich e ag innse na sgeòil, fhad ’s a bha Catrìona a’ blasad de sùgh-craoibhe bhlasda.
+
+**Gobhainn:** “Anns na làithean a dh’fhalbh, bha an Loch Nis glè dhìomhair. Cha robh fios aig duine dè bha a’ fuireach anns na doimhnean.”
+
+**Daibhidh:** “Bha! Ach cò e?”
+
+**Gobhainn:** “Sgeulachdan agus uirsgeulan ann mu bhith a’ faireachdainn rud a bu mhò, a bha a’ cumail sùil air an loch.”
+
+**Catrìona:** “Am b’e rud uamhasach a bha ann?”
+
+**Gobhainn:** “Chaidh innse gu robh e gu math mòr, leis an fhuil a’ sruthadh tro na sràidean.”
+
+**Daibhidh:** “Dè? Ciamar?”
+
+**Gobhainn:** “Ann an seann sgriobhaidhean tha sgeul mu 'Sùilean uaine mòr, a' cumail sùil, ag amharc… A’ dìon na doimhne.’”
+
+**Catrìona:** “A’ dìon? An e uilebheist math a tha ann?”
+
+**Gobhainn:** “Tha cuid ag ràdh gur e dìreach an neart na Loch aige, ga dhèanamh a’ faireachdainn ri cho doimhne an t-uisge. Chì cuid eile an Loch fhèin.”
+
+**Daibhidh:** “Wow! Agus… càite a bheil e a-nis?”
+
+**Gobhainn:** “Tha fathannan ann gu bheil e fhathast ann. Am falaichte aig a’ bhonn, a’ faireachdainn air. Chan urrainn ach an fheadhainn aig a bheil cridheachan glan fhaicinn.”
+
+**Catrìona:** “Cridheachan glan…mar sin, bidh sùgh-craoibhe ga chur suas, mar eisimpleir?”
+
+**Gobhainn (a’ gàireachdainn):** “Gu dearbh, ach tha tòrr a bharrachd na sin. Mathanas, fialachd, gràdh... na rudan sin a tha a’ cur luach air. Ach, latha sònraichte a th' ann, agus tha rudeigin a’ tachairt aig Loch Nis an-diugh.”
+
+**Daibhidh:** “Dè?”
+
+**Gobhainn:** “Is dòcha gum faic sibh an uilebheist fhèin.”
+
+Chaidh Daibhidh agus Catrìona air ais chun an loch. Bha an speur fhathast soilleir, ach thòisich an uisge a’ gluasad gu sgiobalta.
+
+**Catrìona:** “Tha mi a’ faireachdainn rudeigin…”
+
+**Daibhidh:** “Tha! Tha an t-uisge ag gluasad.”
+
+**Daibhidh (a’ coimhead dhan uisge):** “Am faic thu dad, Catrìona?”
+
+**Catrìona (a’ cumail sùil air):** “Chan eil… Ach, feitheamh!”
+
+Chunnaic iad beagan buille san uisge. An uairsin, thòisich barrachd bhuailean. Agus an uairsin… rud mòr a' tighinn am bàrr.
+
+**Daibhidh (sùilean farsaing):** “Seo e! An t-uilebheist Loch Nis!”
+
+**Catrìona (gu socair):** “Tha… e… gu math mòr.”
+
+Bha an t-uilebheist na bheathach mòr, uaine, le amhaich fhada agus sùilean mòra, donn, làn de ghàireachdainn. Cha robh e uamhasach, bha e dìreach… sàmhach.
+
+**An t-uilebheist (le guth bog):** “Fàilte.”
+
+**Daibhidh (aig beagan eagal):** “Fàilte? A bheil… thusa an Uilebheist Loch Nis?”
+
+**An t-uilebheist:** “Tha, is mise. Agus tha mi dìreach a’ coimhead air Loch Nis. Agus thu!”
+
+**Catrìona (a’ gàireachdainn):** “Cha robh sinn a’ smaoineachadh gum biodh thu cho… càirdeil.”
+
+**An t-uilebheist:** “Tha an saoghal seo làn de dh’ uamhas. Ach tha e làn de ghràdh agus sunnd cuideachd, gu dearbh. Chan eil annam ach fear airson gràdh agus Loch Nis."
+
+Chaidh Daibhidh agus Catrìona chun an uilebheist. Dh’fhosgail an t-uilebheist am beul ann an gàire. Agus nuair a bha Daibhidh agus Catrìona deiseil a chur ann an cridheachan glan, chòrd e riu beagan ùine còmhla, air latha sònraichte. Chòmhnaich iad le gàire air an aghaidhean. Agus chan fhada gus an d'fhalbh iad le creutaire sùgh-craoibhe air an làmhan, fìor-ghlan, ach cha do thill an uilebheist air ais fo na tonnan.

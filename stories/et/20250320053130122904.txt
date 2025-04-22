@@ -1,0 +1,63 @@
+<prompt>
+Please write a uncomplicated Estonian children's story that is at least 1000 words long.
+It must be completely written in proper Estonian (ET).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Varese-Vello Väga Vaprad Võistlused: Lõbusad seiklused, täis huumorit ka kõige kurbematel päevadel!'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>et</lang_id>
+
+```et
+<title>Varese-Vello Väga Vaprad Võistlused: Lõbusad seiklused, täis huumorit ka kõige kurbematel päevadel!</title>
+<body>
+Ükskord elas metsas vares nimega Vello. Vello oli väga erilise välimusega vares. Tal olid küll mustad suled nagu kõigil varestel, aga tema silmad särasid nagu kaks kullatükki. Ja Vello kõndis alati nii sirgelt, justkui oleks ta paraadil. Tema suurim kirg olid aga võistlused. Iga kord, kui metsas mõni võistlus korraldati, oli Vello kohal, valmis endast kõik andma.
+
+Ühel päeval kõlas läbi metsa kõlav kuulutus: "SUURED METSAVÕISTLUSED! Kõik vahvad metsaelanikud on oodatud osalema!" Vello silmad lõid kohe särama. See oli tema jaoks! Ta tormas kohe pealinna, kuhu võistlused toimuma pidid.
+
+Pealinnas, mis asus suure tamme all, oli juba palju sagimist. Jänku Jass harjutas kaugushüpet, orav Otto keerutas tammepuult kukerpalli ja karu Kaur maitses mesiõlut, enne kui ta pidi jõudu katsuma tõstekangiga.
+
+Vello astus julgelt platsile. Tema ees seisid aga vaprad vastased. Oli Jass, kes oli väga kiire ja osav hüppaja. Orav Otto, kes suutis puude vahel peaaegu lennata. Ja karu Kaur, kes oli kõigi metsaelanike hulgas kõige tugevam. Vello ei heitunud. Ta patsutas endale rinna peale ja ütles kõva häälega: "Mina, Varese-Vello, olen valmis!"
+
+Esimene võistlusala oli kaugushüpe. Jänku Jass hüppas pikalt ja kaugele. Tema hüpe mõõdeti kolme meetrini! Orav Otto proovis ka, kuid tema hüpe oli rohkem kukkumine kui hüpe. Karu Kaur ei viitsinud hüpata, vaid teatas, et ta "mõtleb pikalt" ja käskis endale uusi mesilasi juurde tuua, kes õlut pruuliksid. Vello võttis hoo sisse, pani oma suured tiivad tööle ja hüppas! Ta maandus kindlalt peaaegu kahe meetri kaugusel. See polnud Jassi hüppega võrreldes palju, aga Vello oli rahul. Ta ei oodanudki nii pikka hüpet.
+
+Järgmisena oli jooksuvõistlus. Jass oli siin loomulikult ees, aga Otto jooksis temaga võidu. Vello jooksis samuti, küll veidi kohmakalt, aga ta andis endast parima. Ta tiivad lehvisid rõõmsalt ja ta kargas nii palju kui suutis. Jass võitis, Otto sai teise koha, kuid Vello jõudis ka finišisse! Ta hingeldas, aga tema silmad särasid. Ta patsutas jälle endale rindkonda ja pomises: "Vapper töö, Vello!"
+
+Siis tuli kord tugevusvõistluste peale. Karu Kaur võttis kangi üles ja alla kergelt kümme korda. Seejärel astus Vello ette. Ta proovis kangi üles tõsta, aga see oli peaaegu võimatu. Kang ei liigutanud isegi sentimeetritki. Metsaelanikud itsitasid. Vello ei lasknud end sellest heidutada. Ta pingutas ja pingutas. Ta huulid värisesid, tema tiivad kõikusid, kuid lõpuks tegi ta oma kange selja õige kõveraks ja suutis selle korraks maast lahti tõsta. Seejärel laskis ta kangi maha, sest tal polnud enam jõudu. Metsaelanikud aplodeerisid talle. "Braavo Vello!" hõiskas Jass. "Sa oled sitke vares!" tunnistas Otto. Kaur vaatas Vellot aupaklikult ja pakkus talle mett, et tema jõudu taastada.
+
+Viimane võistlusala oli kõige lõbusam: õhuvõimlemine. Igaüks pidi sooritama oma kava. Jass tegi pööraseid hüppeid ja keeras kaht ringi, saades väga palju punkte. Otto tegi õhuakrobaatikat okstelt, lennates puult puule ning näitas uskumatuid õhuakrobaatilisi elemente. Kaur tahtis esineda aga tegi ühe korraliku kraapsu maas. Vello mõtles veidi ja pani oma tiivad lendu, tehes mitu keerutust ja hüppeid, keerutades nii õhus ringi. Lõpuks maandus ta pehmelt ja rõõmsalt maas, patsutas oma kõhtu ning naeratas kõigile. Metsaelanikud puhkesid plaksutamisest.
+
+Kui kõik võistlused olid läbi, kuulutas tark öökull võitjad. "Kaugushüppe võitis Jass," ütles öökull. "Jooksuvõistluse võitis samuti Jass. Tugevusvõistluse võitis Kaur ja õhuvõimlemise võitis… Vello!"
+
+Vello oli väga üllatunud. Ta ei uskunudki, et ta võis võita! Ta rõõmustas nii palju, et hakkas hüppama ja kargama. Metsaelanikud rõõmustasid temaga koos. Ta oli kõige vapram vares, kes kunagi metsas elanud!
+
+Vello sai preemiaks suure korvitäie erinevaid maitsvaid putukaid. Ja kõigil metsaelanikel oli suurepärane õhtu, sõid sööki, joonud jooke ning kõik rääkisid Vello vaprusest ja tema suurest südames.
+
+Aga ühel päeval juhtus midagi kurba. Metsa tuli suur torm ja võttis Vello pesa. Pesa oli täis kõiki tema kõige armsamaid mälestusi. Tema pisikesed harjutuse paberid, suured võistluste plaanid ning ta kallimad suled. Vello oli väga kurb. Ta lendas ringi ja otsis oma pesa, aga see oli kadunud. Ta lendas metsade kohal ja nuttis.
+
+Teised metsaelanikud märkasid Vello kurvastust. Jass, Otto ja Kaur jooksid kohe tema juurde.
+
+"Mis lahti, Vello?" küsis Jass muretult.
+
+"Mu pesa on kadunud," vastas Vello õnnetult, "ja ma olen kõik kaotanud."
+
+Kõik metsaelanikud tundsid Vello pärast kaasa. Nad teadsid, kui palju Vello pesast hoolis.
+
+"Ära muretse, Vello," ütles Kaur. "Me aitame sind!"
+
+Ja nad alustasid tööd. Jass jooksis kiiresti ringi, otsides hea pesaehitusmaterjali, Orav Otto ronid puude otsa, korjates kalleid oksi, ning Kaur, oma tugeva jõuga, hakkas neid kandma ja ehitama. Vello jäi kõrval ja vaatas. Tema südames kerkis lootus.
+
+Nad töötasid terve päeva. Jass tõi peaaegu rohkem materjali kui nad vajasid. Otto õppis kiiresti puude otsas keerulisi manöövreid tegema, et kiiresti oksi korjata. Kaur kandis raskusi ilma puhkuseta. Ja lõpuks oli uus pesa valmis! See oli suur ja tugev, tehtud parimast materjalist. Vello ei uskunud oma silmi.
+
+Ta lendas uude pesasse. See oli veelgi ilusam kui vana! Sees oli sooja ja hubast ning kõige tähtsam - ta oli taas turvaliselt kodus! Tema silmad särasid nagu enne, ehk isegi rohkem.
+
+Ta vaatas teiste metsaelanike poole ja tänas neid kõiki.
+
+"Te olete mu parimad sõbrad," ütles ta rõõmsalt.
+
+Ja seejärel korraldas Vello teiste metsaelanikute jaoks suure pidu, et tänada neid nende lahke teo eest. Ta leidis isegi vana krapsu ja kõõmasid puult maha, mida pidusöögile lisada. Nad laulsid, tantsisid ja naersid terve öö. Isegi siis, kui torm tuli, hoidsid sõbrad üksteist. Sest sõprus ongi selline, mis sind raskel ajal üleval hoiab. Vello tundis, et kuigi kurbus võib tulla, võib ta olla kindel, et tema sõbrad on tema jaoks alati olemas, olenemata sellest, mida elu talle ette seab. Ja Varese-Vello võistlused, nende vaprus ning tema teod said metsas legendaarseks ning Vello oli tõestanud, et ka kõige kurbematel päevadel võib leida õnne ja rõõmu.
+</body>
+```

@@ -1,0 +1,38 @@
+<prompt>
+Please write a simple and easy-to-follow Swahili children's story that is at least 1000 words long.
+It must be completely written in proper Swahili (SW).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kisa cha Kiboko Mwenye Furaha'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sw</lang_id>
+
+<title>Kisa cha Kiboko Mwenye Furaha</title>
+<body>
+Mwanzoni mwa msitu mkuu, mahali ambapo miti mirefu iliyoshika mawingu ilining'inia kama viingilio vya anga, aliishi kiboko mmoja aitwaye Kwanza.  Kwanza alikuwa tofauti kidogo na vibonko wenzake. Wakati wao walikuwa wakipenda kuchimba kwenye matope mazito na kujificha kwenye vivuli vya miti mirefu, Kwanza alikuwa akipenda sana tabasamu. Tabasamu lake lilikuwa pana, kama jua lenye kung'aa, likitoboa giza lolote.
+
+Siku moja, mvua kubwa ilianguka, ikileta maji mengi kwenye mto mkubwa.  Maji yaliongezeka, na mito ilianza kujaa, ikifanya barabara ndogo za miti kuwa maziwa. Vibonko wote walikimbia kwenye mabwawa makubwa, wakipata mahali pa kujificha.  Kwanza, badala ya hofu, alitabasamu kwa kupendeza. Aliona kwamba maji hakuwa na madhara, bali yalikuwa ukubwa mwingine wa dunia. Alifanya njia yake, akisugua mabwawa makubwa na madogo,  akitabasamu na kila mtu aliyekutana naye.  Vibonko wengine walijaa hofu wakicheka hasira. Walisema, "Kwanza, utachimba kwenye matope; usiruke kwenye maji haya. Itakuwa na madhara kwako!"
+
+Lakini Kwanza hakujali.  Alielezea kwa kila mtu, "Wala mimi sikubali dunia iliyojaa tu na matope. Kuna ukubwa mwingine, hata ulimwengu mwingine! Katika maji haya ya kupendeza, naona ulimwengu mpya!"
+
+Muda mrefu zaidi, alikutana na ngamia mmoja mwenye nywele za dhahabu. Ngamia alikuwa anasoma mchoro wa mapana na mwembamba katika mchanga wa kingo ya mto. Alipoiona tabasamu la Kwanza, aliulizwa, "Nini unafurahisha?"
+
+Kwanza akaelezea hadithi nzima, ya jinsi alivyoipenda mvua na jinsi alivyoona ulimwengu mpya kwenye maji yanayotiririka. Ngamia akatazama kwa muda mrefu sana, kisha akasema, "Kwanza, umeona upande mpya wa msitu mkuu; haupatikani kwa kila mmoja."
+
+Siku iliyofuatia, jua likatoka likiwa angavu, likichanganya maji mengi yaliyokuwa yamesalia. Barabara ndogo zilirudi kwenye mfumo mzuri na mkuu. Vibonko wenzake walirudi nyumbani, wakibomoa matope kuingia kwenye mapengo madogo. Walitamani upande mpya wa msitu mkuu, lakini hawakuweza kuipata.
+
+Lakini Kwanza alijifurahisha mbali, akiwatazama wanyama wengine na wanasoma matabiri yote ya majani mapya kwenye mashamba.  Mzungu mzuri alimuona Kwanza, mgonjwa mkubwa ambaye anatafuta kilio cha maisha, na alimwambia, "Njoo mimi nenda nawe". Kwanza alitabasamu; yeye alijua ni kupitia urafiki na wote walipata kilio hicho! Kisha alitazama miti mirefu ambayo imejaa maua mazuri. Kila rangi nzuri iliyotoka ilikuwa kama uchoraji wa ajabu. Kila kitu karibu naye kilikuwa nzuri, yenye rangi, na kilio.
+
+Kwanza alikutana na mjusi mchanga.  Alipatikana kwenye miti, ambako alikuwa amejificha kutoka jua linalowaka.  Mjusi akauliza, "Hiyo ni tabasamu gani unayoinukisha?"
+
+Kwanza akatazama, akitabasamu kidogo kidogo. Akaelezea jinsi maji yalivyofanya barabara ziwe maziwa makubwa na jinsi alivyona mambo mapya katika mwonekano mzuri. Mjusi akachana, akiwaona wenzake wakifanya upande huo mpya kwa wakati mmoja, na wakati huohuo walijivunia urafiki huo mpya. Kutokana na mabadiliko haya, Kwanza alivutiwa zaidi na ulimwengu mzima, na mawazo ya mtu, mawazo makubwa, na mipango mbalimbali ambayo dunia nzima inafurahisha.
+
+Vibonko wenzake, walioona mbali, wakasema: "Kwanza yeye ni waajabu, yeye amepata upande wa kupendeza mpya!" Hata hivyo, wote waliamua kukubali utofauti wa wengine. Kuanzia siku hiyo, vibonko wote, wakitabasamu kupitia tofauti zao, walionekana kwa upande mzuri katika msitu mkuu na kwingineko.
+
+
+Kwanza alikuwa amepata ufahamu mkuu na moyo wa kukubali, ambapo kila uzoefu ndio ambao huunda mtazamo mzima na usiobadilika. Alikuwa mfano wa upendo na furaha. Na msitu uliyeyukia kwake ilikuwa maono. Msitu ulikuwa umemkabidhi hadithi yake nzuri kwa dunia yote. Alikaa na akayoyemoea uzoefu, na akitoka, dunia ilikuwa ikamsubiri ili aweze kumpokea kwa upana na upya. Siku zote. Na uzoefu. Asubuhi na jioni, mbali na mipaka, na mawazo mapya yajayo. Kwanza, na furaha yake ya kweli, ilifanya wanyama wengine wote wanafurahi zaidi katika siku zake nzuri!
+</body>

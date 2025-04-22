@@ -1,0 +1,61 @@
+<prompt>
+Please write a silly Italian children's story that is at least 1000 words long.
+It must be completely written in proper Italian (IT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Il soldatino di piombo che proteggeva la cameretta dai mostri immaginari.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>it</lang_id>
+
+```xml
+<title>Il soldatino di piombo che proteggeva la cameretta dai mostri immaginari.</title><body>C'era una volta, in una cameretta tutta dipinta di un allegro giallo sole, un soldatino di piombo. Non un soldatino qualunque, no! Era un soldatino con un baffo arricciato, un cappello a punta blu zaffiro e un coraggio grande come il Colosseo! Il suo nome era Capitano Pippo, e il suo compito più importante era proteggere il bambino che abitava la cameretta, un piccolo pasticcione di nome Leo, dai mostri immaginari.
+
+Leo aveva sette anni, capelli color carota e un sorriso che scioglieva anche i ghiaccioli. Il problema era che, appena si spegneva la luce, la cameretta diventava un terreno di caccia per creature strane e un po’… appiccicose. C’erano i “Rosicchia-letti”, piccoli mostri verdi che adoravano masticare le lenzuola; i “Sussurratori-sotto-il-letto”, che raccontavano storie spaventose (soprattutto se non gli veniva data la loro razione giornaliera di calzini spaiati); e, peggio di tutti, il “Puzzolo-pantofolaio”, un essere appestato che rubava le pantofole e le riempiva di… beh, lasciamo perdere!
+
+Ogni sera, prima di andare a dormire, Leo e il Capitano Pippo avevano un rituale. Leo prendeva il suo soldatino di piombo e lo posizionava con cura sul comodino, proprio vicino al letto. Poi, con voce seria, diceva: “Capitano Pippo, siamo sotto attacco! I mostri sono in arrivo!”
+
+Il Capitano Pippo, con un colpo di tosse per farsi sentire, rispondeva: “Avanti Leo, nessun problema! Io, il valoroso Capitano Pippo, difenderò la tua cameretta! Non un mostro oserà avvicinarsi a te!”
+
+E iniziava la guardia. Il Capitano Pippo, immobile e fiero, osservava l'ombra dei mostri che si allungava sulle pareti, cercando di intimidirli con il suo sguardo di piombo. Ogni tanto, se il pericolo sembrava incombente, il Capitano Pippo gridava: “Al loro posto, mostri viscidi! Nessuno toccherà Leo!”
+
+Una notte, mentre la luna spargeva il suo argento nella cameretta, si sentirono strani rumori. Il “Rosicchia-letti” stava rosicchiando l'angolo del cuscino di Leo! Il Capitano Pippo, non potendo muoversi (era pur sempre un soldatino di piombo!), fece la sua mossa migliore: si finse invisibile.
+
+"Uhhh, sento puzza di calzino!" borbottò il Rosicchia-letti, fermandosi a rosicchiare. "Devo trovare la mia prossima vittima!"
+
+Il Capitano Pippo, con un'enorme quantità di sforzo immaginario, si spostò leggermente verso il lato del cuscino. "Uhh, un'altra puzza!" mormorò. "Sono spacciato!"
+
+E i mostri, confusi dalle nuove puzze del soldatino di piombo invisibile, si ritirarono.
+
+Un'altra notte, i “Sussurratori-sotto-il-letto” cominciarono a sussurrare storie raccapriccianti. "C'era una volta un bambino… che odiava le verdure…" sibilavano. "Ed era costretto a mangiarle tutti i giorni! Uuuuh…"
+
+Il Capitano Pippo, stavolta, decise di usare la diplomazia (o almeno, quello che per un soldatino di piombo assomigliava alla diplomazia). “Ehm, cari Sussurratori… posso chiedervi di raccontare una storia un po’… meno spaventosa? Magari una sui biscotti al cioccolato?”
+
+I “Sussurratori-sotto-il-letto”, che avevano un debole per i dolci (strano, vero?), si fermarono. Uno di loro sussurrò: "Biscotti al cioccolato? Davvero? Diciamo, un finale felice?"
+
+Il Capitano Pippo annuì, tutto serio. "Certamente! E il bambino alla fine… si mangia tutti i biscotti!"
+
+I “Sussurratori-sotto-il-letto”, incuriositi da questa piega della storia, si ritirarono.
+
+Ma la minaccia più grande era sempre il “Puzzolo-pantofolaio”. Quello, oltre a rubare le pantofole, aveva un alito così… potente, che riusciva a far piangere anche le sedie! Una notte, il Puzzolo-pantofolaio entrò di soppiatto nella cameretta. Leo dormiva beatamente, ignaro del pericolo.
+
+Il Capitano Pippo, con gli occhi puntati sul mostro puzzolente, chiamò a raccolta tutte le sue forze. Inspirò a fondo, trattenne il respiro, e poi… soffiò con tutta la forza che aveva, nella speranza di allontanare l'odore. E, per fortuna, in quella soffiata finì anche l'unico oggetto che non aveva paura dei mostri, il gatto di Leo!
+Miao!!!
+Il Puzzolo-pantofolaio, preso alla sprovvista dal miagolio improvviso e decisamente non gradevole, scappò via a zampe levate, lasciando cadere le pantofole che aveva sottratto.
+
+Leo si svegliò di soprassalto, ma non vide nulla di minaccioso. Vide invece il Capitano Pippo, ancora tutto rigido sul comodino, e le pantofole sparse sul pavimento. Rise, convinto che fosse un altro dei suoi sogni.
+“Grazie, Capitano Pippo!” disse a bassa voce, strofinandosi gli occhi.
+
+E il soldatino di piombo, immobile e silenzioso, rispose solo con la sua presenza. Sapeva che, finché era lì, nessun mostro avrebbe mai osato fare del male a Leo.
+
+Passarono i giorni, le settimane, i mesi. Leo cresceva, e con lui cresceva anche l'immaginazione. I mostri, a volte, si facevano ancora sentire, ma il Capitano Pippo era sempre lì, a vegliare. Non usava più solo la strategia, ma anche l’amicizia, il senso dell'umorismo e la logica (anche se quella di un soldatino di piombo era un po' speciale). Un giorno, Leo, ormai più grandicello, disse al Capitano Pippo: "Sai, credo che i mostri non esistano davvero."
+
+Il Capitano Pippo, fermo sulla sua postazione, annuì. "Già, credo anch'io."
+"Però," continuò Leo, "mi piaceva sapere che c'eri tu a proteggermi."
+
+Il soldatino di piombo, in silenzio, sembrò sorridere. E quel sorriso di piombo, per Leo, valeva più di mille battaglie vinte contro i mostri immaginari. Il suo lavoro non era proteggere dai mostri, ma far sentire Leo al sicuro. E quello, il Capitano Pippo, lo faceva alla perfezione. La cameretta, illuminata dalla luce della luna e piena di sogni colorati, era ancora un luogo magico, protetto da un piccolo, valoroso soldatino di piombo con un baffo arricciato, un cappello a punta blu zaffiro e un cuore, anche se di piombo, grande come il cielo. E il gatto? Beh, il gatto diventò un valoroso alleato e complice nelle battaglia con i mostri...soprattutto quelli puzzolenti! E così, tra un sospiro di sollievo e un miagolio, la storia del soldatino di piombo e di Leo continuò, fatta di avventure, risate e un'infinita, preziosa amicizia.
+E il Puzzolo-pantofolaio? Beh, se fosse tornato, sapeva già che avrebbe trovato una sorpresa...e una puzza più potente della sua!
+La cameretta del sole giallo, intanto, continuava a brillare, come la speranza di un nuovo giorno.

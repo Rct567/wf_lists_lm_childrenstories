@@ -1,0 +1,36 @@
+<prompt>
+Please write a light-hearted Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Amicitia Inter Puerum, Et Canem Fidelissimum, In Vita Simplicissima'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>la</lang_id>
+
+<title>Amicitia Inter Puerum, Et Canem Fidelissimum, In Vita Simplicissima</title><body>Olim, in parvo vico rustico, ubi colles virides caelum tangere videntur et flumen argenteum per campos serpit, habitabat puer nomine Marcus. Marcus erat puer laetus, cum capillis flavis qui in sole fulgebant et oculis caeruleis qui sicut caelum aestivum splendebant. Sed non solus erat Marcus, nam habebat amicum fidelissimum, canem nomine Rufum. Rufus erat canis magnus et hirsutus, cum pilis fuscis et cauda longa quae semper huc illuc movebatur.
+
+Marcus et Rufus omnia simul faciebant. Mane, cum sol primum ascendebat, Marcus e lecto exsiliebat et Rufus, qui iuxta eius lectum dormiebat, statim excitabatur. "Eheu, Rufus!" clamabat Marcus. "Tempus est ut ad flumen eamus!" Rufus latrabat gaudio et duo amici per vias vicinas currebant, inter arbores et per campos.
+
+Flumen erat locus eorum secretus. Aqua limpida et frigida per saxa fluens, pisces argentei qui in aqua ludebant, et aves quae in ramis arborum cantabant. Marcus et Rufus saepe ibi manebant per horas. Marcus saepe lapides in aquam iaciebat, dum Rufus in ripis currebat et latrabat ad pisces, quasi diceret, "Heus! Ludite mecum!"
+
+Una die, cum Marcus et Rufus ad flumen ambularent, aliquid novi viderunt. Sub arbore magna, ubi radices in terram profundam penetrabant, erat aliquid quod fulgebat. Marcus, curioso pectore, ad locum cucurrit et Rufus eum secutus est. "Quid est hoc?" murmuravit Marcus, dum se inclinabat ut objectum lucidum tolleret. Erat clavis aurea, parva sed pulcherrima, cum gemma caerulea in summitate.
+
+"Rufe!" exclamavit Marcus. "Haec clavis debet ad aliquid magni momenti pertinere! Forsitan thesaurum indicat!" Rufus caudam agitavit et latravit, quasi assentiretur. Marcus clavi aureae in manu tenebat et circumspiciebat, quaerens ubi thesaurus absconditus esse posset. "Fortasse sub arbore est!" dixit Marcus, et statim cum Rufo radices arboris effodere coepit.
+
+Post horas laboris, cum manus eorum sordidae essent et Rufus pilis pulvere obrutus, Marcus aliquid durum sub terra sensit. "Rufe, aliquid inveni!" clamavit. Rufus latrabat et caudam vehementius movebat. Marcus terram digitis removit et cistam ligneam, antiquam sed solidam, invenit. Cista erat parva, sed cum serratura quae clavi aureae perfecte conveniebat.
+
+Cum magna expectatione, Marcus clavem in serraturam inseruit et cistam aperuit. Intus erant... litterae. Non erat aurum, non gemmae, sed fasciculus epistularum vetustarum. Marcus, paulo deceptus, epistulas sumpsit et legit. "Carissime Marce," incepit prima epistula. "Si haec legis, significat te clavem et cistam invenisse. Hae epistulae sunt memoriae familiae nostrae, plenae fabularum et sapientiae. Thesaurus verus non est in auro, sed in historia nostra et in amore quem inter nos habemus."
+
+Marcus epistulas legens sensus mixtos habebat. Non erat thesaurus quem speraverat, sed epistulae erant plenae fabularum de avis et proavis suis, de eorum vita in hoc vico, et de amicitia inter homines et canes. Una epistula narrabat de cane nomine Ferox, qui erat avus Rufi, et qui semper cum avo Marci per agros currebat, sicut Rufus nunc cum Marco faciebat.
+
+"Rufe," dixit Marcus, dum canem fideliter intuetur. "Forsitan thesaurus non est aurum vel gemmae, sed historia nostra et amicitia nostra." Rufus, quasi intellexisset, caput in gremio Marci posuit et caudam leniter movit.
+
+Ex illo die, Marcus et Rufus saepius ad flumen ibant, non ut thesaurum quaererent, sed ut fabulas de familia sua legerent et de vita simplici gauderent. Saepe, cum sol occideret et umbrae longae in campos tenderentur, Marcus et Rufus sub arbore sedebant, cum epistulis in manu et silentio amicitiae inter eos.
+
+Et sic, in vita simplicissima, Marcus et Rufus invenerunt thesaurum verum: amicitiam et amorem qui inter eos crevit, sicut arbores in agro crescunt, radices in terra profundas mittentes et ramos ad caelum extendentes.
+
+Et si aliquando ad vicum rusticum veneris, ubi colles virides caelum tangunt et flumen argenteum per campos serpit, fortasse Marcum et Rufum sub arbore magna invenies, cum clavi aureae luce et epistulis memoriae plenis, gaudentes in vita simplicissima et amicitia fidelissima.</body>

@@ -1,0 +1,51 @@
+<prompt>
+Please write a light-hearted Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Pavasara burvība: kā ziedi atgrieza krāsas pasaulē.'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>lv</lang_id>
+
+<title>Pavasara burvība: kā ziedi atgrieza krāsas pasaulē.</title><body>
+
+Bija reiz tāda pasaule, kurā visiem viss bija pelēks. Debesis bija pelēkas, upes bija pelēkas, pat saules gaisma bija pelēka. Un visi iedzīvotāji – mazi un lieli, spārnoti un bez spārniem – arī bija pelēki. Un kāpēc? Jo neviens neatcerējās, kā izskatās krāsas.
+
+Varbūt, jūs prasīsiet, kā tas varēja notikt? Nu, tas notika tāpēc, ka bija atnākusi Ziema, un tā bija tik garlaicīga un pelēka, ka tā pilnībā izdzēsa no cilvēku atmiņas visu krāsu burvību. Neviens neatcerējās, ka zāle var būt zaļa, debesis – zilas, un saule – dzeltena. Visiem viss likās vienāds, un tāpēc pasaule bija drūma un skumja.
+
+Šajā pelēkajā pasaulē dzīvoja maza meitene vārdā Līna. Līna bija ļoti ziņkārīga un vienmēr meklēja kaut ko interesantu. Viņa katru dienu staigāja pa pelēkajiem laukiem un mēģināja atrast kaut ko, kas izskatītos savādāk. Kādu dienu, ejot gar garu, pelēku mežu, Līna ieraudzīja kaut ko neparastu. Kaut kas mirdzošs!
+
+Viņa uzmanīgi pieskrēja tuvāk un atklāja, ka tas ir maziņš, apaļš akmentiņš, un iekšā tas nedaudz spīdēja. Līna paņēma akmentiņu rokā un rūpīgi to aplūkoja. „Kas tas ir?” viņa šņukstēja. Akmentiņš pēkšņi sāka siltāk mirdzēt, un Līnai ienāca prātā doma: "Varbūt šis akmentiņš var atgriezt krāsas?"
+
+Viņa uzmanīgi ielika akmentiņu kabatā un devās atpakaļ uz savu māju, kurā bija vienkārša, pelēka istaba. Līna atvēra mazu koka kasti, kurā glabāja dažādus dārgumus – mazus čiekurus, spalvas un citus dabas brīnumus. Viņa izņēma no kastes mazu, sausu pūpoliņu un pielika to pie akmentiņa.
+
+Brīdī, kad pūpoliņš pieskārās akmentiņam, notika brīnums! Pūpoliņš sāka krāsaināk mirdzēt, līdz atklāja savu īsto, dzelteno krāsu! Līna iesaucās no pārsteiguma! Viņa nekad mūžā nebija redzējusi šādu krāsu!
+
+Pēc tam Līna paņēma mazu akmentiņu, kurš atgādināja zaļu zāli, un pieskāraties ar akmentiņu, pūpoliņš kļuva spilgti zaļš. Līna bija sajūsmā! Viņa saprata, ka akmentiņš var atgriezt krāsas!
+
+Līna steidzīgi izskrēja laukā un sāka meklēt zīmes, kas varētu parādīt citus krāsas. Viņa atrada dažādus priekšmetus – pelēku spalvu no putna, pelēku lapu no koka, un vienu pelēku akmeni. Katra no šiem priekšmetiem ar akmentiņa palīdzību atguva savu krāsu! Spalva kļuva zila, lapas kļuva sarkanas, un akmens kļuva brūns!
+
+Līna apmeklēja visus savus draugus un parādīja viņiem, kas viņai ir atklāts. Viņi bija pārsteigti un priecīgi par šo brīnumu. Un tad viņi kopīgi sāka meklēt krāsas visā pasaulē.
+
+Viņi atrada sarkanu ogu uz pelēka krūma, un ar akmentiņa palīdzību ogas kļuva spoži sarkanas. Viņi atrada zilu putnu spalvu, un tā kļuva spilgti zila. Pakāpeniski pasaule sāka atdzīvoties.
+
+Viņi atrada mazu pļaviņu, kas bija pilna ar pelēkiem ziediem. Līna un viņas draugi atcerējās, kā izskatās ziedi. Viņi izdomāja, ka krāsas var atgriezt, zīmējot. Viņi paņēma akmentiņu un pieskārās katram ziedam, un ziedi atguva savas krāsas.
+
+Pirmais zieds, pie kura viņi pieskārās, bija tulpe – tā kļuva zila. Nākamais bija margrietiņa – tā ieguva baltas ziedlapiņas ar dzeltenu vidu. Tad pienāca laiks narcisēm – tās ieguva dzeltenu krāsu. Un tā tālāk, un tā tālāk – visi ziedi uz pļavas atkal kļuva krāsaini.
+
+Un, kad visi ziedi bija ieguvuši savas krāsas, notika vēl viens brīnums. Spēcīgāka saules gaisma sāka spīdēt, un debesis sāka kļūt zilas. Upes sāka mirdzēt ar zaļu nokrāsu. Un arī paši iedzīvotāji sāka atcerēties, kā izskatās krāsas. Viņi sāka krāsot savas mājas, valkāt krāsainas drēbes un dziedāt krāsainas dziesmas.
+
+Pavasaris atnāca, un pasaule bija pilnīgi pārveidota. Ziedi ziedēja visās varavīksnes krāsās, putni dziedāja krāsainas dziesmas, un cilvēki atkal jutās priecīgi un dzīvespriecīgi. Līna bija varone, kas atgrieza krāsas pasaulē.
+
+Un kas notika ar pelēko akmentiņu? Akmentiņš kļuva par burvju akmeni, kas spēj atgādāt krāsas visu laiku. Līna to glabāja pie sevis un vienmēr bija gatava palīdzēt citiem atcerēties krāsu burvību. Pasaule atkal kļuva krāsaina, jo cilvēkiem bija atmiņas.
+
+Līdz ar pavasari, pasaule kļuva par skaistu vietu, kurā bija daudz ziedu, putnu un krāsu. Un atcerieties, ja kādreiz sirdī atkal ienāks pelēkums, atcerieties Līnas drosmi un izdomu, un atcerieties, ka krāsas vienmēr ir tepat blakus, jā tikai atliek papūlēties tās atrast un atcerēties.
+
+Un tāpēc, ja jūs kādreiz redzēsiet zilas debesis, zaļu zāli vai sarkanus ziedus, atcerieties Līnu un viņas burvju akmeni, kas atgrieza krāsas šai pasaulei. Un atcerieties, ka arī jūs varat atrast krāsu burvību savām dzīvēm. Jo atgriezt krāsas ir vienkārši – atcerēties, cik skaista ir dzīve.
+
+Un beigās, visi pasaules iedzīvotāji dzīvoja laimīgi, krāsaini un nekad vairs neaizmirsta krāsas burvību, ko pavasaris un ziedi pasaulei atnesa. Un Līna, mīlestības un krāsu vēstnese, vienmēr atradās starp viņiem, iepriecinot ikvienu ar savu radošo garu un sirds siltumu.
+</body>

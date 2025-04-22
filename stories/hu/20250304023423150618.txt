@@ -1,0 +1,31 @@
+<prompt>
+Please write a light-hearted Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A Pályázók, a szép otthonért'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>A Pályázók, a szép otthonért</title>
+<body>
+A Bútorfalva nevű faluban, ahol minden ház egy-egy különleges bútordarab volt, nagy izgalom uralkodott.  A Falujáró, a falu bölcs és elbeszélő egere, hirdetéssel indította meg a házépítési pályázatot. "Ki tud a legcsodálatosabb otthont alkotni?" – kérdezte a hangos és éles kis kürtjével.  A pályázat célja az volt, hogy az újonnan érkezett fából és vászonból készült lakosok számára biztosítsanak  a lehető legjobb otthont.
+
+A kicsi, tarka csigák, akik gyönyörű, színes festményekkel díszítettek a terepre, rögtön felkészültek.  A kis csiga,  Sünci, az ő gondosan összegyűjtött kavicsokkal  és virágokkal körberakott, miniatűr  kuckója mellett, biztos volt benne, hogy az  első díj az övé lesz.  Az apró szivacsok, akik tökéletes szőnyegeket készítettek a falusi gyékényekből, a levelekkel díszített, gyönyörű bútorokat faragtak.  Kis pöpec Pöttye,  szorgalmasnak bizonyult.
+
+Egészen más tervek születtek a kolibri szülők körében.  Gondosan megtervezett  törékeny, színezett, hálózatokat építettek a magas levegőbeli építménybe.  A kolibrik hittek a látszólag légies városokban. Ahogyan a csigák ragaszkodtak az egyetlen kuckójukhoz. A méhek dolgoztak, gyönyörű fészküket szőve a sötét faágakkal, édeskés virágporból építve.
+
+De nem csak ők.  Egy ifjú hangyás család, a Kitartó Hangyák, földalatti városképeket terveztek, amiben kis fényes,  zöld kőépítmények sorakoztak  szövetvényen.  Szerették az alapszerű dolgokat és a rendet.  Nem feledkeztek meg az apró, de létfontosságú folyókról, amik összekötötték egymással az alkotó, apró településeket.
+
+A Főbíró, aki nem más volt, mint az őszülő tarka bagoly, Bölcső, gondosan megvizsgálta minden pályázatot.  Elsőként a kis csiga, Sünci remekművét tanulmányozta. Szeretett  a természet ajándékait felhasználni, ahogy azt az egész falu ismerte.  Igen ám, de a csiga széknek a háta kissé imbolygott a kavics-egyensúly miatt. És hiányzott egy kis állandóság is. A kolibrik elegáns repülésről való színezett házai is csodálatosak voltak, ám túl kicsik voltak a többinek.   A hangyák földalatti városa viszont nem a falu, hanem a föld szívéhez tartozott. Hiába volt gyönyörű, egy olyan élethez tartozott, ami elválasztotta őket a közös, szabadtéri örömöktől.
+
+A legjobb azonban a csillogó, finoman faragott padok sorai voltak, amikhez egy vékony, piros szálból készült híd vezetett. Az épületet  Szarka, az okos szarka építette és festette ki egy élethű sárga színnel. Az áthaladható hidak lehetővé tették, hogy a padokban ülve lássák egymás közös, barátságos környezetét, ahol minden érezte az ősszes bútorház lakosait. A padok közötti területen gyönyörű virágok pompáztak,  egy kicsi, frissen megfestett fajáték-sziget csillogott. Egy kis ház formájából szórakozva szilárd és éles kert épült a középpontjába. Mindezek mellett Szarka csatlakoztatott néhány szilárd kötést, amely a tökéletes épületet biztosította. Bölcső bagoly meglátta ebben a tervben a legnagyobb összhangot, a legjobb egyensúlyt a természet és az alkotások között. A tervezésben látható volt a leggyönyörűbb, és legjobb barátság. Ez volt a legkiválóbb terv.
+
+"Nagy gratuláció Szarkának!" - kiáltották a falusi lakók örömében. A  szép,  készen álló otthont A Csillogó Város névre keresztelték. A csodálatos csillogó és gyönyörű virágokkal díszített padokon a Bútorfalva minden lakója boldogan ült és gyönyörködött, miközben éppen a maguk szövetségét és örömét élvezték.
+
+Mindenki egyetértett abban, hogy a jó tervezéshez nemcsak képzelőerőre és ügyességre, de az  ügyes munkavégzésre és a többiek iránti szeretetteljes együttműködésre is szükség van.  És, amint azt már sokszor tapasztaltuk, a legszebb ház nem mindig a legszebben díszített, hanem az, ami a legtöbb barátságot képes megmutatni a lakosoknak.
+</body>

@@ -1,0 +1,73 @@
+<prompt>
+Please write a silly Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Odwaga Krasnoludka Borysa, Który Znalazł Magiczny Klucz Do Krainy Snów.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pl</lang_id>
+
+```xml
+<title>Odwaga Krasnoludka Borysa, Który Znalazł Magiczny Klucz Do Krainy Snów.</title>
+<body>
+Dawno, dawno temu, w samym środku puszczy, która pachniała wilgocią i jagodami, mieszkał mały, pulchny krasnoludek. Nazywał się Borys, a jego największym problemem, jak twierdziły wszystkie żabki i biedronki, było to, że strasznie, ale to strasznie się bał. Bał się ciemności, bał się deszczu, bał się ptaków, a nawet własnych cieni. Miał kręcone, rudowłose włosy, spiczasty kapelusz i ogromne, niebieskie oczy, które zazwyczaj szeroko się otwierały ze strachu.
+
+Mieszkał w malutkim domku pod ogromnym, starym grzybem, którego kapelusz był tak wielki, że mógł schronić całą gromadkę leśnych skrzatów. Domek Borysa był przytulny, pełen książek i kolorowych dywanów. Mimo wszystko, Borys wolał spędzać większość czasu pod kołdrą, wtulony w swojego pluszowego niedźwiedzia o imieniu Mruczek, i czytać historie o odważnych rycerzach i dzielnych krasnoludkach.
+
+Pewnego, paskudnie deszczowego popołudnia, kiedy wiatr hulał po lesie i straszył wszystkie myszki, Borys siedział w swoim domku i popijał gorącą herbatę z malinami. Nagle, usłyszał dziwny dźwięk – "Tink! Tink! Tink!". Co to mogło być? Zaglądnął przez okno, ale wciąż nic nie widział, tylko krople deszczu rozbijające się o szybę.
+
+Z ciekawością (i lekkim strachem w sercu) wyszedł na zewnątrz. Brnąc w kałużach, w poszukiwaniu źródła dźwięku, dotarł do starego, zwalonego drzewa. I wtedy go zobaczył! Na wystającym korzeniu drzewa tkwił... klucz! Nie byle jaki klucz, ale klucz cały zrobiony ze srebra, z dziwną, migoczącą rączką w kształcie księżyca.
+
+"Tink! Tink!" - wydawał się wołać klucz.
+
+Borys, mimo swojego strachu, poczuł w sercu coś dziwnego. Coś jak… ciekawość? A może nawet… odwagę? Wyciągnął rękę i ostrożnie dotknął klucza. Był chłodny i gładki.
+
+Nagle, klucz zaczął świecić! Promienie światła otoczyły Borysa, unosząc go w górę! Krasnoludek krzyknął ze strachu, ale w tym samym momencie, całe jego otoczenie zaczęło wirować, kolory się zmieniały i… buuuum! Znalazł się w zupełnie innym miejscu.
+
+Był to ogród. Ale nie zwyczajny ogród. Ogród, w którym rosły słodkie lizaki na drzewach, czekoladowe fontanny tryskały w powietrze, a ptaki śpiewały piosenki o truskawkach. Zamiast ziemi, pod nogami Borysa rozciągała się miękka, puszysta watą cukrowa.
+
+„Gdzie ja jestem?” – szepnął Borys, z wrażenia otwierając buzię szeroko jak dziurę od odkurzacza.
+
+Nagle, zza rogu czekoladowej fontanny, wyskoczył… wielki, różowy królik z wielkimi, okrągłymi oczami. Królik uśmiechał się od ucha do ucha i trzymał w łapach ogromną marchewkę.
+
+"Witaj w Krainie Snów!" – powiedział Królik, machając marchewką. "Jestem Zenon, przewodnik po najwspanialszych snach!"
+
+Borys był tak zdziwiony, że zapomniał się bać. Rozejrzał się dookoła i zobaczył więcej niezwykłych rzeczy. Gigantyczne lizaki kołysały się na wietrze, a zamiast liści, na drzewach rosły czekoladowe żabki. W powietrzu fruwały latawce w kształcie słodkich pączków, a tęcza miała smak gumy balonowej.
+
+Zenon, zobaczywszy zmieszanie na twarzy Borysa, wyjaśnił: "Ten klucz, który trzymasz, to Magiczny Klucz do Krainy Snów. Otwiera drzwi do najwspanialszych i najdziwniejszych marzeń!"
+
+"Ale... ja się boję!" – Borys przypomniał sobie, że w sumie jednak się boi, szczególnie różowych królików.
+
+Zenon zaśmiał się, jego futerko trzęsło się z radości. "To wspaniale! To oznacza, że czeka cię naprawdę ciekawa przygoda! Bo Kraina Snów potrafi przerażać, ale przede wszystkim… uczy odwadze!”
+
+I tak, Borys wyruszył w swoją przygodę. Razem z Zenonem zwiedzali Krainę Snów. Odwiedzili Zamek Zapałek, w którym mieszkali królowie i królowe zrobione z cukierków, i przeżyli przygodę w dżungli pełnej śpiewających ananasów. Przeskoczyli przez rzekę płynącą z gorącej czekolady i wzięli udział w wyścigu na latających pączkach.
+
+W pewnym momencie, Zenon pokazał Borysowi największy lęk, jaki go dręczył – mroczny las pełen strasznych cieni. Cienie zaczęły go gonić, sycząc i strasząc go strasznymi głosami. Borys zaczął się trząść ze strachu, przypomniał sobie, jak chciałby znowu znaleźć się w swoim domku pod grzybem.
+
+„Boję się!” – krzyknął. „Nie chcę się bać!”
+
+Zenon podszedł do niego, położył łapkę na jego ramieniu i powiedział: „Strach jest normalny, Borys. Ale odwaga to siła, która pozwala go pokonać. Musisz spojrzeć swoim strachom w oczy!”
+
+Borys wziął głęboki oddech, zamknął oczy i zaczął sobie wyobrażać, jak pokonuje swoje cienie. Wyobrażał sobie, jak śmieje się głośno w ciemności, jak buduje dla cieni zabawne domki, i jak zaprasza je do wspólnej gry. Kiedy otworzył oczy, cienie nadal tam były, ale tym razem, nie były już straszne. Wyglądały... zabawnie. Zaczęły podskakiwać i tańczyć, a ich syczące głosy zmieniły się w śmiech.
+
+Borys się zaśmiał, a cienie odpowiedziały mu tym samym.
+
+"Widzisz, Borys?" – powiedział Zenon. "Odwaga to nie brak strachu, tylko decyzja, by mu się przeciwstawić.”
+
+Po długiej, pełnej przygód podróży, Borys zrozumiał, że ma w sobie ogromną odwagę, tylko wcześniej jej nie używał. Kiedy przyszedł czas, by wrócić do domu, pożegnał się z Zenonem i podziękował mu za wspaniałą podróż.
+
+Magiczny Klucz znowu zajaśniał, a Borys, śmiejąc się, przeniósł się z powrotem do swojego domku pod grzybem.
+
+Kiedy wyszedł z domku, aby sprawdzić, czy to wszystko się nie śniło, deszcz wciąż padał, ale Borys już się go nie bał. Spojrzał w niebo i powiedział: "No co, deszczu? Rób co chcesz! Ja już niczego się nie boję!"
+
+Od tego dnia, Borys stał się najodważniejszym krasnoludkiem w całej puszczy. Pomagał wszystkim zwierzętom, walczył z kłopotami i nigdy nie przestawał odkrywać świata. Często używał Magicznego Klucza, by wracać do Krainy Snów, ale już nigdy nie czuł strachu. Zawsze pamiętał, że odwaga tkwi w nim samym.
+
+A klucz? Klucz schował w szufladzie, by zawsze przypominał mu o jego wspaniałej, odważnej przygodzie. I chociaż nadal kochał pluszowego Mruczka, przestał się go wstydzić i zapraszał wszystkich swoich przyjaciół na spotkania, gdzie opowiadał im o Krainie Snów, a historie o jego przygodach powtarzano po wszech czasy, ku uciesze wszystkich mieszkańców puszczy.
+
+Koniec.
+</body>
+```

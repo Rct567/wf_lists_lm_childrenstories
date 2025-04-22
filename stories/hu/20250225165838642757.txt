@@ -1,0 +1,33 @@
+<prompt>
+Please write a timeless Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A nagy folyó titkai és legendái'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>A nagy folyó titkai és legendái</title>
+<body>
+A Dunánál, a hatalmas, kék szalagnál, amely átszeli Magyarországot, számtalan titok és legenda rejtőzik.  A parton álló öreg diófa alatt, ahol a nap minden nap sütötte a gyökereit, élt egy kisfiú, Barna. Barna nem csak a folyót figyelte, hanem hallgatta is,  melynek susogó hangja olykor meséket suttogott a fülébe.
+
+A folyó, melynek tiszta vize olykor türkizkékben csillogott, olykor mély, sötétkékben tűnt el a napfény elől, több ezer évet élt már.  Mesélt a szikláknak, az őserdőknek, a virágoknak, de a legjobban a gyerekeknek szeretett mesélni.  A gyerekek azonban nem mindig értették a folyó titkait. Hallgattak a csobogó vízre, hallgattak a szél susogására a fák között, de nem mindig hallották a folyó hangját.
+
+Egy nap, mikor a reggeli napsugarak aranylóan érkeztek a folyó fölé, Barna a parton ült, és figyelte, ahogy a víz elszalad a parton. Épp akkor pillantotta meg egy apró, zöldes-barna, csillogó, furcsa kődarabot a folyóparton.  Kíváncsian felvette a kövecskét, és azonnal érezte, hogy meleg van benne.  A kövecske egy apró, kézzel faragott kígyó feje volt.  Barna nem tudta, hogy miért, de a kő feje egyből beszélni kezdett neki.
+
+"Üdvözlégy, Barna!" - szólt a kőfej. - "Én vagyok a folyó őrzője. A Dunának számtalan titka van, amelyeket csak az őrzi meg, akinek szíve tiszta, mint a folyó vize. Te olyan vagy, mint én, Barna. Láttad a folyó arcát, hallgattad szavát, most pedig megmutatom a titkait."
+
+Barna elképedt, nem tudta, hogyan beszéljen a kőfejhez, de nagyon izgatott lett. A kőfej folytatta a mesélését: "A folyó mélyén élnek a vízi szellemek.  Azok a szellemek, akik a folyó szavát viszik a világ minden tájára.  Vannak a sziklákban rejlő szellemek, akik évezredek óta őrzik a vízi szellemek titkát.  Vannak a csobogó vízcseppek, amelyek a levegőben szállva, meséket visznek a távoli hegyekbe.  Vannak a víztündérek, akik az éjszaka árnyékában táncolnak a folyón, és akik csak a kedves szívűeknek mutatják meg magukat."
+
+Barna elgondolkodott a mesén.  Aztán elindult a folyó partján.  A napfényben csillogó víz, a fák suttogása, a madarak éneke mind-mind egy újabb történetet mesélt neki.  Meglátott egy öreg, kidőlt fát, amin sok-sok régen eltűnt vízi növények és szétlapult levelek voltak.  Aztán meglátott egy kőhajításnyi távolságra egy tavat. A tó kristálytiszta vize mint egy tükör tükrözte az eget.
+
+Barna felismerte, hogy a kőfej igaza van.  A folyó szava valóban mindenhol hallatszott.  A szél susogása, a vízcseppek csobogása, a madarak éneke, a fák suttogása, mind-mind a folyó történetének egy-egy darabkája volt.  A folyó története a folyó partján, minden évszakban és minden időben él.  A folyó titka abban rejlik, hogy mennyire figyeljük meg.
+
+Barna  rájött, hogy a folyó nem csak egy vízfolyás, hanem élő lény,  aki történeteket mesél a világnak.  A folyó titkai nem voltak titkok, csak a szívünk megnyitása várt rájuk. A Dunában élő szellemek, a víztündérek, és a folyó hangja megmutatta Barna számára a világ szépségét. Barna ezentúl mindig tisztelte a folyót, és mindig megpróbálta meghallani az üzeneteit.  
+
+A kőfej pedig, Barna szívébe zárva, ott maradt, örök emlékeztetőül a folyó titkaira és legendáira.
+</body>

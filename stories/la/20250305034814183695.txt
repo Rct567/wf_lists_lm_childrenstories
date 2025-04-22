@@ -1,0 +1,39 @@
+<prompt>
+Please write a simple and easy-to-follow Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Librum Secretum Quod Mundum Salvavit'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>la</lang_id>
+
+<title>Librum Secretum Quod Mundum Salvavit</title>
+<body>Erant in terris duae puellae, quae vocabantur Sophia et Emma. Erant amicae optimae et semper una errabant per silvam, quaerebantque res novas et mirabiles. In una die, dum per silvam ambularent, invenerunt librum vetustum et mysteriosum. Libellus erat scriptus lingua antiqua et habebat signa et symbola, quae nulli intellegere poterant.
+
+Sophia, quae erat puella curiosa et studiosa, cepit librum et coepit legere. Verba erant difficilia, sed Sophia non desistebat. Legebat et legendo intellegebat, quod libellus esset de rebus magicis et de mundi salvatione. Emma, quae erat puella credula et timida, timebat librum et eius mysteriorum. Sed Sophia eam tranquillizabat et dicebat, quod nihil periculi esset in libro.
+
+Cum Sophia legisset librum, invenit, quod mundus esset in periculo. Erat draco, qui vocabatur Malum, et qui volebat mundum destruere. Draco erat fortis et iniquus, et nullus poterat eum vincere. Sed libellus dicebat, quod esset modus, quo draco vinceretur. Modus erat, ut puellae irent ad montem, qui vocabatur Mons Sanctus, et ibi quaererent fontem solis.
+
+Sophia et Emma statim coeperunt iter suum. Iban per silvam et per montes, et semper quaerebant fontem solis. In via, invenerunt multos periculis et difficultatibus. Invenerunt flumina, quae erant profundissima, et montes, qui erant altissimi. Sed puellae non desistebant. Iban semper et semper quaerebant fontem solis.
+
+Post multos dies, puellae pervenerunt ad Montem Sanctum. Mons erat altissimus et difficillimus, sed puellae non timebant. Iban per montem et semper quaerebant fontem solis. Cum ad summum montis pervenissent, invenerunt fontem solis. Fons erat magnus et splendens, et emittebat lucem, quae erat tam clara, ut puellae vix oculos aperire possent.
+
+Sophia et Emma invenerunt, quod fons solis esset magicus. Qui bibebat ex fonte solis, capiebat virtutem et potentiam, quae esset tam magna, ut nullus posset eum vincere. Sed libellus dicebat, quod fons solis non esset pro puellis, sed pro mundo. Puellae debent fontem solis ad Malum, dracum, portare, ut ille bibat ex fonte solis et virtutem et potentiam capiat.
+
+Sophia et Emma statim coeperunt iter suum ad Malum. Iban per montes et per silvam, et semper portabant fontem solis. Cum ad Malum pervenissent, invenerunt, quod draco esset tam fortis et iniquus, ut nullus posset eum vincere. Sed puellae non timebant. Portabant fontem solis ad Malum et dicebant, ut ille biberet ex fonte solis.
+
+Malum, draco, bibit ex fonte solis et statim capiebat virtutem et potentiam. Draco, qui antea erat iniquus et fortis, nunc erat bonus et mitis. Malum, draco, dixit puellis, quod gratias eis ageret, quod eum salvassent. Draco, qui erat Malum, nunc erat bonus et amicus mundi.
+
+Sophia et Emma, postquam Malum, dracum, salvassent, redierunt ad suas domos. Puellae erant laetissimae, quod mundum salvassent. Omnes homines et animalia, qui in mundo erant, laudabant puellas, quod mundum salvassent. Sophia et Emma erant heroines et semper memorabantur, quod mundum salvassent.
+
+Libellus, qui erat scriptus lingua antiqua, nunc erat clarus et intellegibilis. Libellus dicebat, quod puellae, quae erant Sophia et Emma, essent salvatrices mundi. Libellus, qui erat vetustus et mysteriosus, nunc erat novus et clarus. Omnes homines, qui libellum legebant, intellegebant, quod puellae, quae erant Sophia et Emma, essent heroines et salvatrices mundi.
+
+Mundus, qui erat in periculo, nunc erat salvus. Draco, qui erat Malum, nunc erat bonus et amicus mundi. Sophia et Emma, quae erant puellae optimae, erant heroines et semper memorabantur, quod mundum salvassent. Libellus, qui erat vetustus et mysteriosus, nunc erat clarus et intellegibilis. Omnes homines, qui libellum legebant, intellegebant, quod puellae, quae erant Sophia et Emma, essent salvatrices mundi.
+
+In fine, Sophia et Emma vixerunt, ut viverent omnes homines. Puellae erant felices et laetae, quod mundum salvassent. Draco, qui erat Malum, nunc erat bonus et amicus mundi. Mundus, qui erat in periculo, nunc erat salvus. Libellus, qui erat vetustus et mysteriosus, nunc erat clarus et intellegibilis. Omnes homines, qui libellum legebant, intellegebant, quod puellae, quae erant Sophia et Emma, essent heroines et salvatrices mundi.
+
+Et ita, libellus, qui erat scriptus lingua antiqua, finivit. Libellus, qui erat vetustus et mysteriosus, nunc erat clarus et intellegibilis. Omnes homines, qui libellum legebant, intellegebant, quod puellae, quae erant Sophia et Emma, essent heroines et salvatrices mundi. Mundus, qui erat in periculo, nunc erat salvus. Draco, qui erat Malum, nunc erat bonus et amicus mundi. Sophia et Emma, quae erant puellae optimae, erant heroines et semper memorabantur, quod mundum salvassent.</body>

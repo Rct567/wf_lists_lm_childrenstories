@@ -1,0 +1,60 @@
+<prompt>
+Please write a relatable Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Caiseal na Ríthe agus na Draoithe'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>ga</lang_id>
+
+<title>Caiseal na Ríthe agus na Draoithe</title>
+<body>
+Bhí an ghaoth ag gníomhú go láidir ar mhaitheamh na gleannta, agus an spéir dhubh ag sruthlú le nimheanna.  Bhí aonach i dteach an rí, ach níorbh aon aonach breá é.  Bhí an rí, Rí Aonghus, i ngrá aige le ceann de na draoithe,  Draoidhinín, ach bhí an draoícht ag tabhairt ar a cuid oibre i mbóthar difriúil. Ní raibh siad ag seinm ceoil nó ag déanamh dearmaid ar an droch-aimsir.  Bhí siad ag déanamh focail, ag insint scéalta don talamh féin, ag féachaint ar bhealaí nua chun an ceann eile a chur in iúl.  Bhí aonach an tsléibhe, agus d’fhulaing siad gach rud a d’fhulaing siad mar aon.
+
+Bhí Pádraic, mac óige Rí Aonghus, ag faire ar an aonach.  Bhí sé ag iarraidh scéal a thabhairt ar a ghnáthchomhlacht, ach níorbh fhéidir leis.  Bhí sé ag iarraidh an grá a fheiceáil i súile an rí, ach bhí sé faoi thionchar an droch-aimsire.  Bhí sé ag iarraidh tuiscint a fháil ar an tsíol draoithe, ach ní raibh a fhios aige cá háit a bhí siad.
+
+Bhí sé ag faire ar Draoidhinín ag léamh an fhocail, ag tabhairt ar an talamh a chreidiúint.  Bhí sé ag faire ar an ghaoth ag cur isteach ar a cuid oibre.  Bhí sé ag faire ar na daoine ag iarraidh a gcuid comhthaobh a fheiceáil i gcónaí.
+
+“Cad is breá leat, Draoidhinín?”  a dúirt Pádraic.
+
+“Is breá liom an talamh,” a dúirt Draoidhinín, “Is breá liom an ghaoth, an spéir, agus na crainn.  Ach is breá liom an rud is breá liom ná  scéalta a insint agus iad a léamh arís agus arís eile.  Agus é sin i bhfianaise nua, a dhéanann an saol níos leithne.”
+
+“Bhuel, níl a fhios agam cad is breá leat,” a dúirt Pádraic, “Ach tá síol aige, do chorp féin.  Cad ba mhaith leat a dhéanamh ar do chuid oibre?”
+
+“Is breá liom a gcuid scéalta a scríobh,” a dúirt Draoidhinín, “Agus é sin i dteannta scéalta eile, d’fhonn iad a insint go léir.”
+
+“Cad atá ar do chroí?” a dúirt Pádraic.
+
+“Tá mé ag iarraidh an ghrá a léamh arís agus arís eile, ach níl an talamh ag léamh é seo go maith,” a dúirt Draoidhinín.
+
+“Cad ba mhaith leat a dhéanamh?”
+
+“Is breá liom an talamh a athrú.”
+
+“Cén fáth? Cad é an rud a bhfuil an talamh ag iarraidh a fheiceáil? An bhfuil aon rud ag iarraidh a bheith ann?”
+
+“Is breá liom an ghrá a thuiscint.”
+
+“Cad a chiallaíonn sé sin?” a dúirt Pádraic.
+
+“Is breá liom an droch-aimsir a léamh. Ní mór dom an aimsir a léamh, d’fhonn scéalta eile a léamh. Ní mór dom aon rud eile a léamh freisin, d’fhonn scéalta breá a scríobh.”
+
+“Ach ní hé sin an t-aon rud atá ag tarlú,” a dúirt Pádraic.
+
+“Bhuel, is breá liom an ghrá a thuiscint,” a dúirt Draoidhinín.
+
+“Cad é an ghrá a bheidh ann?” a dúirt Pádraic.
+
+“Tá an ghrá ag dul ar siúl, ag dul ar ais agus ag dul ar aghaidh amach aníos chun an spéir a léamh,” a dúirt Draoidhinín.
+
+Agus thug Draoidhinín síos ar a cuid oibre, thug Pádraic faoi deara go raibh an ghaoth ag sosadh.  Thug sé faoi deara go raibh an spéir ag tosú le radharc nua.  Thug sé faoi deara go raibh aon rud, an scéal, i bhfianaise nua.
+
+Chuaigh Pádraic ar aghaidh chuig an rí.  D’inis sé don rí faoi scéalta Draoidhinín. D’fhéach an rí ar Draoidhinín agus tugadh síos ar an grá is breá aige.  D’inis sé don rí faoi na scéalta, an chéim, agus faoi an droch-aimsir ag sosadh.  
+
+Bhí an aonach ag críochnú anois.  Bhí an tsléibhe ag síl, agus bhí an ghrá ag tosú ag cur síos ar na scéalta.  Bhí siad ag léamh na scéalta, ag insint na scéalta, agus ag féachaint ar an ghrá i gcónaí.
+Bhí aonach nua ag tosú, faoi stiúir an ghrá.
+</body>

@@ -1,0 +1,58 @@
+<prompt>
+Please write a creative and original Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Conradh na gCraitheach Dhubhshúileach'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>ga</lang_id>
+
+<title>Conradh na gCraitheach Dhubhshúileach</title>
+<body>
+Bhí oíche shamhraidh théas ar chastal ciúin i gContae an Chláir. Bhí na réaltaí ag scintilleáil thar na gcraobha cróna agus bhí an ghaoth ag séideáil go ciúin trí na coillte. I lár an chaisleáin, bhí seanfhear cróga ag déanamh a sheasamh i gcúirt an chaisleáin. Bhí a ainm ná Seán Ó Maoldhamhnaigh agus bhí sé ina cheannaire ar na craobhacha dubhshúileacha a bhí ina gcónaí sa cheantar.
+
+Ba mhór an scéal é an oíche seo, mar bhí conradh cruithneach le bualadh idir na craobhacha dubhshúileacha agus na síoga a bhí ina gcónaí i gcuid eile den cheantar. Bhí Seán Ó Maoldhamhnaigh ag súil leis an gconradh seo le fada, agus bhí sé cinnte go mbeadh sé ina chonradh mór.
+
+Agus é ag fanacht, tháinig na síoga i láthair. Bhí siad ag déanamh a mbealaigh trí na coillte, agus bhí a gcuid solas ag scintilleáil thar na gcraobha. Bhí ceannaire na síog, bean bhreá álainn darb ainm Gráinne, ag déanamh a seastáin os comhair Seán Ó Maoldhamhnaigh.
+
+"Seán Ó Maoldhamhnaigh," ar sí Gráinne, "táimid anseo chun an conradh cruithneach a dhéanamh. Táimid sásta aontú leat agus le do chraobhacha dubhshúileacha, ach táimid ag súil le haitheantas óna chéile."
+
+"Docht, a Ghráinne," ar sé Seán Ó Maoldhamhnaigh, "táim sásta aontú libh agus le do shíoga. Ach táim ag súil go mbeadh sibh ag déanamh aithris de na geallúintí a thugamar d'fháinne na gcraobhacha."
+
+"Caithfimid aontú le chéile," ar sí Gráinne, "ach táimid ag súil le caidreamh naoimh idir na craobhacha dubhshúileacha agus na síoga. Táimid ag súil le comhpháirtíocht agus le cairdeas, agus táimid ag súil le haitheantas ó cheile."
+
+Agus iad ag caint, tháinig craobhacha eile i láthair. Bhí siad ag déanamh a mbealaigh trí na coillte, agus bhí a gcuid solas ag scintilleáil thar na gcraobha. Bhí ceannaire na gcraobhacha, fear cróga darb ainm Cathal, ag déanamh a sheastáin os comhair Seán Ó Maoldhamhnaigh.
+
+"Seán Ó Maoldhamhnaigh," ar sé Cathal, "táimid anseo chun an conradh cruithneach a dhéanamh. Táimid sásta aontú leat agus le do chraobhacha dubhshúileacha, ach táimid ag súil le haitheantas ó cheile."
+
+"Táim sásta aontú libh," ar sé Seán Ó Maoldhamhnaigh, "ach táim ag súil go mbeadh sibh ag déanamh aithris de na geallúintí a thugamar d'fháinne na gcraobhacha. Táimid ag súil le comhpháirtíocht agus le cairdeas, agus táimid ag súil le haitheantas ó cheile."
+
+Agus iad ag caint, tháinig an t-ábhar don chonradh chun cinn. Bhí na craobhacha dubhshúileacha ag súil le caidreamh naoimh le na síoga, agus bhí na síoga ag súil le comhpháirtíocht le na craobhacha dubhshúileacha. Bhí an conradh cruithneach le bualadh idir na dá pháirtí, agus bhí siad ag súil le haitheantas ó cheile.
+
+Tar éis tamaill, bhí an conradh cruithneach déanta. Bhí na craobhacha dubhshúileacha agus na síoga ag aontú le chéile, agus bhí siad ag súil le comhpháirtíocht agus le cairdeas. Bhí Seán Ó Maoldhamhnaigh agus Gráinne ag déanamh a seastáin os comhair a chéile, agus bhí siad ag súil le haitheantas ó cheile.
+
+"Docht, a Ghráinne," ar sé Seán Ó Maoldhamhnaigh, "tá an conradh cruithneach déanta. Táimid ag súil le comhpháirtíocht agus le cairdeas, agus táimid ag súil le haitheantas ó cheile."
+
+"Caithfimid aontú le chéile," ar sí Gráinne, "ach táimid ag súil le caidreamh naoimh idir na craobhacha dubhshúileacha agus na síoga. Táimid ag súil le comhpháirtíocht agus le cairdeas, agus táimid ag súil le haitheantas ó ceile."
+
+Agus iad ag caint, tháinig oíche bhreá álainn ar an gcásleán. Bhí na réaltaí ag scintilleáil thar na gcraobha cróna, agus bhí an ghaoth ag séideáil go ciúin trí na coillte. Bhí Seán Ó Maoldhamhnaigh agus Gráinne ag déanamh a seastáin os comhair a chéile, agus bhí siad ag súil le haitheantas ó cheile.
+
+"Bhfuil tú sásta leis an gconradh cruithneach?" ar sí Gráinne.
+
+"Táim sásta," ar sé Seán Ó Maoldhamhnaigh. "Táimid ag súil le comhpháirtíocht agus le cairdeas, agus táimid ag súil le haitheantas ó cheile."
+
+"Bhfuil tú sásta leis an gcaidreamh naoimh idir na craobhacha dubhshúileacha agus na síoga?" ar sí Gráinne.
+
+"Táim sásta," ar sé Seán Ó Maoldhamhnaigh. "Táimid ag súil le comhpháirtíocht agus le cairdeas, agus táimid ag súil le haitheantas ó ceile."
+
+Agus iad ag caint, tháinig ceol agus rince chun cinn. Bhí na craobhacha dubhshúileacha agus na síoga ag déanamh a mbealaigh trí na coillte, agus bhí a gcuid solas ag scintilleáil thar na gcraobha. Bhí Seán Ó Maoldhamhnaaign agus Gráinne ag déanamh a seastáin os comhair a chéile, agus bhí siad ag súil le haitheantas ó cheile.
+
+Tar éis tamaill, bhí an oíche théas críochnaithe. Bhí na craobhacha dubhshúileacha agus na síoga ag déanamh a mbealaigh abhaile, agus bhí a gcuid solas ag scintilleáil thar na gcraobha. Bhí Seán Ó Maoldhamhnaigh agus Gráinne ag déanamh a seastáin os comhair a chéile, agus bhí siad ag súil le haitheantas ó cheile.
+
+"Bhfuil tú sásta leis an gconradh cruithneach?" ar sí Gráinne.
+
+"Táim sásta," ar sé Seán Ó Maoldhamhnaigh. "Táimid ag súil le

@@ -1,0 +1,32 @@
+<prompt>
+Please write a simple and easy-to-follow Swahili children's story that is at least 1000 words long.
+It must be completely written in proper Swahili (SW).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Adventures ya Tembo na Rafiki Yake Kipepeo'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sw</lang_id>
+
+<title>Adventures ya Tembo na Rafiki Yake Kipepeo</title>
+<body>
+Mara moja, katika msitu mzuri sana, kulikuwa na tembo mdogo aitwaye Tembo.  Tembo alikuwa na shingo ndefu na miguu mikubwa, na alikuwa mnyama mpole sana.  Alikuwa na ndoto kubwa ya kuzunguka msitu mzima, akiona kila kona ya uzuri wa asili. Lakini, Tembo hakuwa peke yake.  Alikuwa na rafiki yake mpole na mwepesi aitwaye Kipepeo. Kipepeo alikuwa na mabawa ya rangi nyingi na nzuri, na alikuwa msafiri mzuri sana angani.
+
+Siku moja, Tembo na Kipepeo walikubaliana kufanya safari ya kupata matunda mazuri yenye tamu yenye rangi ya zambarau yaliyokuwa maarufu sana kama “Matunda ya Upepo.”  Walisema kwamba matunda haya yalikuwa na harufu nzuri mno na yalikuwa muhimu kwa afya njema.  Safari hii ingekuwa adventure kubwa. Tembo alikuwa akipiga hatua, na Kipepeo alikuwa akiruka kwa furaha mbele yao, akionyesha njia nzuri ya kusafiri.
+
+Safari ilichukua masaa kadhaa na ilipitia njia zote za msitu mzima, ikijumuisha njia za kupanda miti mirefu. Tembo aliona nyani wakicheza na kuimba,  nyati wakipiga kelele zao zenye kutia hofu na kundi la nyumbu wakitafuta nyasi.  Kipepeo alitoa sauti zake laini za upendo akiruka juu ya miti na kupenya ndani ya maua ya ajabu ambayo Tembo alikuwa akiyapita na kutazama na kuyafurahia.
+
+Wakati mwingine, Kipepeo aliongoza Tembo kuelekea matunda ambayo yalikuwa yanapatikana kando ya vijito.  Maji ya vijito hivyo yalicheza kama vioo vya msitu mzuri sana na yalikuwa baridi mno.  Tembo alipenda kupoza na kunywa kutoka vijito vile vilivyokuwa vimejaa matone mazuri yenye upya.   Waliendelea kusafiri kwa uvumilivu, Tembo akiangaza na Kipepeo akifunua mtazamo.
+
+Walipopanda mlima mrefu, walipokea mtazamo mzuri wa msitu.  Msitu wote ulionekana kama mlima mdogo uliojaa na maua ya kila aina na vipepeo wakiruka kama mawingu.   Tembo alifurahia sana kuona dunia kutokea sehemu mpya ya utukufu. Wakati huo, Tembo na Kipepeo waligundua miti michache yenye miti mikubwa yenye uzito wa matunda yenye rangi ya zambarau.
+
+Kwa kweli, yalikuwa Matunda ya Upepo. Harufu ya matunda yalijaa hewani, ikiwa na nguvu na tamu.  Tembo alinyoosha shingo yake ndefu na akatoa majani kwa kutumia taya zake ngumu  na kumenya matunda.  Kipepeo,  akifanya vyema kama mpangaji, aliendelea  kuyeyuka kuzunguka na kupeperusha mabawa yake  chini ya matunda mengine,  akichunguza wengine.
+
+Mara moja, walikutana na dubu mdogo aliyechoka. Dubu huyo alionekana kama anaendelea na maisha ya mkazi. Waliongea, akisimulia kwamba anajitahidi kupata chakula cha kutosha, kwa upande wake aliulizwa Tembo ni nini wanafanya, ilihisi haipendezi kupendekeza kwa njia mpya.
+Kati ya mawazo yao walielewana , na kila mmoja akitambua kwamba hawasikiki kama watu wa aina moja .  Tembo, akiwa mpole na mkarimu kama kawaida, aliamua kumsaidia dubu huyo. Alimletea majani mengi na mazuri yaliyokuwa yametupwa mbali kutoka msituni. Dubu mdogo aliwashukuru kwa upendo.
+
+Waliendelea na safari yao baadae, wakiwa wamebeba kikapu kidogo kilichochaguliwa kizuri sana kilichojaa na Matunda ya Upepo, kila mmoja akitabasamu kwa furaha kubwa sana. Wakati waliporudi nyumbani kwao, Tembo na Kipepeo waliwafurahisha kila wanyama msituni. Walifurahia pamoja na kuelezea safari yao nzuri ya kupata Matunda ya Upepo, na wakafurahia pamoja kwa furaha kubwa mno.   Walijua wanyama wengine watapata fursa kubwa na furaha pia. Wakiwa wanahitaji zaidi kuwasaidia wengine kila wanapoona wengine wanateseka.   Walipenda wote washiriki katika utukufu na furaha.  Na hivyo ndipo adventure yao kubwa ya msituni ilimalizika, ikituacha tukiwa tuna furaha na hisia za urafiki mzuri mno.
+</body>

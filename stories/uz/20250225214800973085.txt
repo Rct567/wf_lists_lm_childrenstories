@@ -1,0 +1,39 @@
+<prompt>
+Please write a fun and entertaining Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Bolalar shahri va uning ajoyib aholisi'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>Bolalar shahri va uning ajoyib aholisi</title>
+<body>
+O'rta Osiyoning qalbida, yorqin qizil qum tepalarining orqasida,  Bolalar Shahri joylashgan edi.  Bu shahar faqat bolalar uchun yaratilgan edi.  U erda har bir ko'cha kulgili ranglarga bo'yalgan, har bir uyda quvonch va tabassum yashab turardi.
+
+Shaharning markazida, bulutlarga etib boradigan o'ta baland, ajoyib darakdor bir daraxt o'sgan edi.  Bu daraxtning nomi "O'ychaning Diraki" deb nomlangan, uning barglaridan quvnoq tabassumlar, gul kabi ranglar, va bejirim tuyg'ular chiqardi.
+
+Shaharda yashaydigan bolalar, turli xil bo'lsalar ham, ularning barini bir narsa birlashtirgan edi: har kimdan ham ko'proq o'rganish va quvonchni topish.  Qo'ziqorinlarga o'xshash, mayda-mayda bolalardan,  qiyofasini bir necha dunyo mamlakatlarini ko'rgan bo'lishini xayollarga soladigan katta-katta bolalargacha, barchasi Bolalar Shahrini o'zlarining mehribon uylariga aylantirishgandi.
+
+
+Shaharda o'ziga xos bolalar yashayardi. Masalan, Zafar, eng katta, eng yaxshi uy vazifasini bajarishda o'zgacha mahoratga ega bo'lgan edi. Uning qo'llari, barcha yo'llarni qabul qiladigan aql bovar qilmas qurilmalar yasashga o'rganib qolgan edi. Uyining atrofida doimo har qanday shaklda chiqishlar va g'oyalarga tushishi mumkin bo'lgan zamonaviy qurilmalar va mashinalar edi.
+
+Yana bir bolaning nomi Mehribon edi.  Uning qo'shiqlari hech kimning qalbidan yopiq qolmadi va  kuygulari daraxtlardan chiqar edi.  Qo'shiqlari barcha oyoqlarni raqsga keltirar, quvonchni kuchaytirishi va qo'shnilarni qanchalik  bahtirganligiga  ko'ngillardan bo'lmagan ko'pchilik quvonchini tezda qayta qizdirib olishiga ko'maklashardi. Mehribon shuningdek har kimning ruhiy ahvolida eng yaxshi so'zlarni va she'rlarni topishda o'zgacha qobiliyatga ega bo'lgan edi.
+
+
+Sayyora nomi bilan tanilgan, kulgili, quvonchli,  shaharni tashqaridan ko'rishi bilan mashhur bo'lgan,  bolalar xuddi ular to'plar singari tebranayotgan edi. O'zining harakatlari va yuzining ijobiy holatlari orqali Sayyora barcha qayg'ularga, muammolarga va dahshatli fikrlarga qarshilik ko'rsatgan, bolalarga butunlay  qobiliyatli ekanliklarini  tasdiqlayotgan edi.
+
+Bir kuni, o'ta baland  "O'ychaning Diraki" ni himoya qilish uchun, Bolalar Shahri o'ziga xos masalaga duch keldi. Zararli shamol Bolalar Shahrini  qumning so'nggi tepalari bilan birgalikda yo'q qilishni xohladi.  Hammasi  xursandchilik,  baxt va do'stlik  shahri quruq tuproq tepalarida va tuzlangan kumlarning ustidan qurdirishlari kerak.
+
+
+O'sha vaqtda bolalar  O'ychaning Diraki niga qanday g'amxo'rlik qilish kerakligini  tushunishdi va guruh bo'lib qum tepalarga qochib ketdi. Ular  g'alaba qozonish, bir-biriga yordam berish, jasorat, birlik va bolalarga bo'lgan sevgi  xarakterli fazilatlarning kuchi to'g'risida g'oyalar bilishgandi. Qalbi yumshoq va qat'iy  yuraklar qilib qobiliyatli ular bir-biriga ishonib qo'llarini tutdilar.
+
+Ular bir-biri bilan  "Birgalikda kuchliroqmisiz!", deya suhbatlashishgan edi. Shahar o'z xalqini himoya qilishga qaror qildi, hayotimiz bo'lgan ajoyib yodgorlikni vahiy qiladigan ko'plab qum tepalarining qudrati. Ular qo'llarning kuzatishlarining bo'lmagani qatorida  qo'shiq  kuygulari va yumshoq kuygularini yaratgan ularning mahoratlarining kuchini tashlagan edi.  G'ayratli ohanglari shamolni  tinchitadi va uni Bolalar Shahrining qudrati bilan yo'q qilishni unutdi.
+
+
+Shunday qilib, Bolalar Shahri barcha bolalar shahrlari va barcha davrlarning eng chiroyli joylari bo'lib qoldi va doimiy ravishda quvnoq tabassumlar va baxtli ijobiy holatlarda yashaydi. Ular har kimga har doim  quvonch va yuraklar o'rtasida o'zgarmaydigan  birlik tuyg'usini taqdim etadi. Shahar doimiy ravishda xalqaro tanishuvlarni o'tkazib  yashirin mahoratlar  bilan qabul qilib,  o'sha shaharga yaqin turadigan mamlakatlarning bolalaridan va yosh o'sib kelayotgan g'oyalardan  do'stliklarning yo'lini kengaytirgan  eda.   Bu yerda quvonchning qadimiy tarixi bilan to'lib-toshgan eng g'alati uy bolalarning hayotlarini muhabbat bilan ta'qib qilish va baxtga  qilingan taassurotlarni kengaytiradigan joy edi.
+</body>

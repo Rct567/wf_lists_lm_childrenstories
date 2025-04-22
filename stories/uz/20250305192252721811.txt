@@ -1,0 +1,62 @@
+<prompt>
+Please write a dialog-based Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Sehrli quticha va uning sirlari'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>uz</lang_id>
+
+<title>Sehrli quticha va uning sirlari</title><body>Quyosh nuri bilan toʻlgan kichik qishloqda yashovchi Husan ismli bola bor edi. U juda qiziquvchan va sehrga ishongan edi. Husan doimo oʻzining eng yaqin doʻstlari, Farhod va Malika bilan sehrlar haqida gaplashardi.
+
+Bir kuni, Husan oʻzining buvisining uyida qadimiy kitoblarni koʻrib, ularning ichidan sehrli quticha haqida oʻqidi. Quticha juda kichik, ammo uning ichida butun olamni oʻzgartirish kuchiga ega ekan. Husan bu qutichani topishga qaror qildi.
+
+"Farhod, Malika, men sizlarga ajoyib narsa haqida aytmoqchiman", - dedi Husan oʻz doʻstlariga. "Men sehrli quticha haqida oʻqiganman. U juda kichik, lekin uning ichida butun olamni oʻzgartirish kuchiga ega".
+
+"Va bu quticha qayerda?" - soʻradi Farhod.
+
+"Men bu haqida hali bilib boʻlmadim, lekin men uni topishga qaror qildim", - javob berdi Husan.
+
+"Bu juda qiziqarli", - dedi Malika. "Biz ham siz bilan birga boramiz".
+
+Uch doʻst sehrli qutichani topish yoʻlida safar boshladilar. Ular koʻp joylarni aylanib, koʻplab odamlarga sehrli quticha haqida soʻrashdi, lekin hech kim bu haqida bilmas edi.
+
+Bir kuni, ular qishloqning chekkasida yashovchi qariyga uchrashtilar. Qari Husanga qaradi va dedi: "Siz sehrli quticha haqida soʻrayapsiz, ha?"
+
+"Ha, biz uning haqida eshitganmiz", - javob berdi Husan.
+
+"Men bu haqida bilaman", - dedi qari. "Lekin bu quticha juda xavfli. Uni faqat sehrga ishongan va yaxshi niyatli odamlar topa oladi".
+
+"Bu quticha qayerda?" - soʻradi Farhod.
+
+"U Toshkent shahrida, qadimiy masjidda", - javob berdi qari. "Lekin sizlar uni topish uchun sinovlardan oʻtishingiz kerak".
+
+"Sinovlar?" - soʻradi Malika.
+
+"Ha, sizlarga uchta sinov beriladi. Agar siz ularni bajarasangiz, sehrli qutichani topasiz", - dedi qari.
+
+Uch doʻst Toshkent shahriga borishga qaror qildilar. Ular shahar markazida joylashgan qadimiy masjidda sehrli qutichani topish uchun sinovlardan oʻtishdi.
+
+Birinchi sinov - dono boʻlish edi. Ular turli savollarga javob berishlari kerak edi. Husan, Farhod va Malika juda dono edilar va barcha savollarga toʻgʻri javob berishdi.
+
+Ikkinchi sinov - jasur boʻlish edi. Ular qorongʻi va xavfli tunneldan oʻtishlari kerak edi. Uch doʻst jasur edilar va tunnelni muvaffaqiyatli kesib oʻtishdi.
+
+Uchinchi sinov - saxiy boʻlish edi. Ular oʻzlariga berilgan mablagʻni kamtarin odamlarga tarqatishlari kerak edi. Husan, Farhod va Malika saxiy edilar va mablagʻni kamtarin odamlarga tarqatishdi.
+
+Uch sinovni muvaffaqiyatli bajarganidan soʻng, ular sehrli qutichani topdilar. Quticha juda kichik edi, lekin uning ichida butun olamni oʻzgartirish kuchiga ega ekan.
+
+"Bu ajoyib", - dedi Husan. "Biz bu qutichani qanday ishlatamiz?"
+
+"Siz bu qutichani yaxshi ishlatishingiz kerak", - dedi qari, u ularning yoniga kelib. "Siz bu qutichani odamlarga yordam berish uchun ishlatishingiz kerak".
+
+Husan, Farhod va Malika sehrli qutichani odamlarga yordam berish uchun ishlatishdi. Ular kasal odamlarni davoladilar, ochiq odamlarga ovqat berdilar, suvsiz odamlarga suv berdilar.
+
+Odamlar sehrli quticha haqida eshitib, Husan, Farhod va Malikaga minnatdor boʻlishdi. Uch doʻst sehrli qutichani yaxshi ishlatgani uchun mukofotlandilar.
+
+Husan, Farhod va Malika sehrli qutichani topganidan soʻng, ularning hayoti butunlay oʻzgardi. Ular odamlarga yordam berishni davom ettirdilar va sehrli quticha ularning eng yaqin doʻsti boʻlib qoldi.
+
+Va shunday, sehrli quticha va uning sirlari haqidagi ertak tugadi. Lekin Husan, Farhod va Malika sehrli quticha haqida hech qachon unutmadilar. Ular bu ertakni oʻzlarining bolalari va nevaralari bilan boʻlishiardi.</body>

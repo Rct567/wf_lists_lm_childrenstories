@@ -1,0 +1,103 @@
+<prompt>
+Please write a dialog-based French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Le goûter savoureux préparé avec amour pour les enfants affamés à midi.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```xml
+<title>Le goûter savoureux préparé avec amour pour les enfants affamés à midi.</title>
+<body>
+<p>Le soleil brillait fort ce matin-là. Dans la petite maison, tout était calme, mais il y avait de l'agitation joyeuse dans le cœur de Maman Sophie. C'était samedi, et aujourd'hui, elle préparait un goûter spécial pour ses trois enfants : Léa, Tom et Hugo.</p>
+
+<p>**Maman Sophie:** (chantonnant gaiement) "Ah, le samedi ! Le jour des aventures gourmandes !"</p>
+
+<p>**Léa:** (entrant dans la cuisine, les yeux brillants) "Maman, qu'est-ce que tu prépares de bon aujourd'hui ?"</p>
+
+<p>**Maman Sophie:** (souriant) "Oh là là, ma petite Léa ! Tu as le nez fin ! Eh bien, j'ai prévu un goûter savoureux, préparé avec amour. Mais c'est une surprise !"</p>
+
+<p>**Tom:** (surgissant également) "Une surprise !? J'adore les surprises ! Y aura-t-il des chocolats, maman ?"</p>
+
+<p>**Maman Sophie:** (riant) "Des chocolats... Peut-être bien, Tom ! Mais il y aura surtout beaucoup de choses délicieuses."</p>
+
+<p>**Hugo:** (arriver en courant, ses joues rouges) "Maman ! Maman ! J'ai faim ! J'ai très faim ! On mange quand ?"</p>
+
+<p>**Maman Sophie:** "Oh, mon petit Hugo ! Ne t'inquiète pas, ça arrive ! Lave-toi les mains, et tu verras."</p>
+
+<p>Les enfants s'exécutèrent avec empressement. Léa et Tom se précipitèrent vers l'évier, tandis qu'Hugo, toujours affamé, trottinait déjà vers la table.</p>
+
+<p>**Léa:** (se frottant les mains) "Je suis prête à découvrir ce secret gourmand !"</p>
+
+<p>**Tom:** "Moi aussi ! J'espère qu'il y aura des gâteaux !"</p>
+
+<p>**Maman Sophie:** (versant de la farine dans un saladier) "Alors, tout d'abord, nous allons préparer des petits pains au chocolat... Qu'en pensez-vous ?"</p>
+
+<p>**Léa et Tom:** (en chœur, les yeux écarquillés) "OUI ! Des pains au chocolat !"</p>
+
+<p>**Hugo:** (regardant la farine) "Qu'est-ce que c'est que ça ?"</p>
+
+<p>**Maman Sophie:** "C'est de la farine, mon chéri. C'est ce qui fait grandir et qui donne de la force !"</p>
+
+<p>**Hugo:** "Ah bon ! Moi, je veux grandir ! Je veux être grand comme papa !"</p>
+
+<p>Maman Sophie souria et ajouta du sucre, du beurre et des œufs au saladier. Les enfants observaient, fascinés.</p>
+
+<p>**Tom:** "Maman, je peux aider ?"</p>
+
+<p>**Maman Sophie:** "Bien sûr, Tom ! Tu peux mélanger doucement. Léa, tu peux sortir les chocolats de l'armoire ?"</p>
+
+<p>Léa et Tom participèrent avec enthousiasme à la préparation. Hugo, un peu trop petit pour les tâches délicates, chantait joyeusement sur une chaise, les pieds balançant dans le vide.</p>
+
+<p>**Léa:** (demandant curieusement) "Maman, pourquoi on met du beurre ?"</p>
+
+<p>**Maman Sophie:** "Le beurre rend les pains au chocolat moelleux et savoureux, ma chérie. C'est l'un des secrets des bonnes pâtisseries !"</p>
+
+<p>**Tom:** "Et les œufs ? Qu'est-ce qu'ils font ?"</p>
+
+<p>**Maman Sophie:** "Les œufs donnent de la couleur, de la tenue, et ils aident à lier tous les ingrédients ensemble."</p>
+
+<p>Après avoir pétrit la pâte, Maman Sophie la laissa reposer pendant une heure. Pendant ce temps, elle prépara d'autres douceurs : des crêpes fines et dorées, parfaites pour être garnies.</p>
+
+<p>**Hugo:** (sentant l'odeur des crêpes) "Maman, ça sent trop bon !"</p>
+
+<p>**Maman Sophie:** "Les crêpes sont presque prêtes, mon chou. On pourra les manger avec de la confiture, du chocolat, ou simplement du sucre."</p>
+
+<p>Les enfants sautaient de joie. L'attente était presque insupportable !</p>
+
+<p>Une heure plus tard, les petits pains au chocolat étaient sortis du four. La maison était envahie par une odeur paradisiaque. Les crêpes étaient prêtes, joliment empilées sur une assiette.</p>
+
+<p>**Maman Sophie:** (présentant le goûter) "Voilà ! Le goûter est prêt ! Des petits pains au chocolat tout chauds, des crêpes dorées, des fruits frais... et pour finir, un peu de chocolat et de confiture pour accompagner le tout !"</p>
+
+<p>Les yeux des enfants brillèrent de bonheur. Ils s'installèrent à la table, impatients.</p>
+
+<p>**Léa:** (mordant dans son pain au chocolat) "Mmmmmmh ! C'est délicieux, maman !"</p>
+
+<p>**Tom:** (recouvert de chocolat) "Le meilleur goûter du monde !"</p>
+
+<p>**Hugo:** (dévorant sa crêpe avec enthousiasme) "Je veux en manger encore et encore !"</p>
+
+<p>**Maman Sophie:** (regardant ses enfants savourer) "Je suis heureuse que ça vous plaise. C'est encore meilleur quand c'est fait avec amour."</p>
+
+<p>Après avoir mangé à satiété, les enfants, repus et heureux, jouèrent ensemble dans le jardin. Maman Sophie, souriante, les observa. Elle savait que ce simple goûter, préparé avec tant d'amour, créerait des souvenirs précieux.</p>
+
+<p>**Léa:** (courant vers maman Sophie) "Maman, tu es la meilleure cuisinière du monde !"</p>
+
+<p>**Tom:** (s'approchant également) "Oui, maman ! Merci pour ce délicieux goûter !"</p>
+
+<p>**Hugo:** (se blottissant contre elle) "Maman, je t'aime !"</p>
+
+<p>**Maman Sophie:** (embrassant ses enfants) "Moi aussi, je vous aime, mes chéris. Et j'adore vous voir heureux."</p>
+
+<p>Le soleil déclinait lentement, projetant de longues ombres sur l'herbe. Les enfants, fatigués mais joyeux, s'apprêtaient à finir leur journée. Maman Sophie, comblée, savait que ce samedi était parfait.</p>
+
+<p>Elle rangea la cuisine, tout en chantonnant doucement. Le souvenir de ce goûter, préparé avec amour pour ses enfants affamés à midi, resterait gravé dans leurs mémoires pour toujours. C'était le plus beau des trésors.</p>
+
+<p>**Maman Sophie:** (à voix basse, mais avec beaucoup de tendresse) "Un bon repas, un sourire, de l'amour... voilà la recette du bonheur."</p>
+</body>
+```

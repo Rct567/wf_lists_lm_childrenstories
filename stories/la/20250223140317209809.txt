@@ -1,0 +1,39 @@
+<prompt>
+Please write a relatable Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'De Quinque Pueris Qui Inveniunt Arcanum'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>la</lang_id>
+
+<title>De Quinque Pueris Qui Inveniunt Arcanum</title>
+<body>Erant quinque pueri, Marcus, Lucas, Petrus, Iacobus, et Ioannes, qui in vico parvo vivebant. Hi pueri erant amici optimi et semper una ludere solebant. Die quodam, cum per silvam luderent, invenerunt viam occultam, quam numquam antea viderant. Via illa erat angusta et tenebrosa, sed pueri curiosi erant et volebant scire, quid esset in fine viae.
+
+Itaque, pueri in viam intraverunt et per eam ambulaverunt. Via ducit eos per montem altum et per vallem profundam. Pueri videbant multa animalia, quae numquam antea viderant, ut lupos, ursos, et aves magnas. Sed pueri non timebant, quia sciebant se esse amicos et se adiuvare posse.
+
+Postquam per multum tempus ambulaverunt, pueri invenerunt Arcanum, quod erat templum antiquum et mysticum. Templum illud erat constructum e lapidibus magnis et columnis altis. Pueri videbant, quod templum erat plenum picturis et symbolis, quae eos non intelligebant. Sed pueri curiosi erant et volebant scire, quid essent picturae et symbola illa.
+
+Itaque, pueri intraverunt templum et per ambulacra ambulaverunt. Videbant multa mirabilia, ut statuas antiquas et vascula pretiosa. Pueri etiam invenerunt librum, qui erat scriptus lingua antiqua. Marcus, qui erat doctus, potuit legere librum et explicare amicis suis, quid esset scriptum.
+
+Libellus erat de rege, qui olim vivebat in terra illa. Rex ille erat iustus et amicus populi sui. Sed rex habebat filiam, quae erat pulchra et docta. Filiam regis amabat iuvenis, qui erat pauper et humilis. Sed pater filiae non volebat, ut iuvenis eam duceret, quia volebat eam dare regi alteri, qui erat dives et potens.
+
+Sed filia regis et iuvenis non curabant de voluntate patris. Amabant se et volebant esse una. Itaque, fugerunt et nupserunt in secreto. Sed pater filiae iratus est et misit milites, ut eos caperent et ad se reducerent. Fugitivi autem potuerunt fugere et occultari in silva.
+
+Pueri, qui audiebant historiam, gaudebant de amore filiae regis et iuvenis. Sed Lucas, qui erat prudentis, dixit: "Amici, numquam scimus, quid sit in futuro. Fortasse rex et milites eos capient et punient." Sed Marcus, qui erat optimista, respondit: "Non timeo, amici. Amor et iustitia mihi videbantur vincere."
+
+Postquam pueri finierunt audire historiam, invenerunt Arcanum alterum, quod erat thesaurus. Thesaurus illa erat plenus auri et argenti et gemmarum. Pueri gaudebant et Mirabantur de thesauro. Sed Petrus, qui erat pius, dixit: "Amici, numquam debemus cupiditate thesauri corrumpi. Thesaurus est res transitoria et non debemus eum ponere in corde nostro."
+
+Sed Iacobus, qui erat avarus, respondit: "Cur non? Thesaurus est res, quae nos facit divites et potentes." Ioannes autem, qui erat sapiens, dixit: "Amici, Petrus dixit verum. Thesaurus non est res, quae nos facit felices. Amor et amicitia et iustitia sunt res, quae nos faciunt veramente felices."
+
+Pueri, qui audiebant verba Ioannis, intellexerunt, quid esset verum. Itaque, reliquerunt thesaurum et redierunt in vicum suum. Cum redierunt, omnes gaudebant de adventura, quam habuerant. Et a die illa, pueri semper meminerunt verborum Ioannis et vixerunt secundum ea.
+
+Sed, post multum tempus, pueri separatim vagabantur. Marcus factus est sacerdos, Lucas factus est miles, Petrus factus est mercator, Iacobus factus est iudex, et Ioannes factus est philosophus. Sed, cum essent dispersi per orbem terrarum, nunquam obliviscabantur amicitiae et adventurae, quam habuerant.
+
+Et cum essent seniores, pueri revenirent in vicum suum et recreare amicitiam. Et, cum sederent in sole, meminerunt de Arcano, quod invenerant, et de thesauro, quod reliquerant. Et gaudebant de vita, quam vixerant, et de amicitia, quam habuerant. Et sciebant, quod, quamvis essent dispersi per orbem terrarum, amicitia et memoria adventurae eorum semper manerent.
+
+Et ita, pueri, qui olim erant amici, vivebant felices et contenti, secundum verba Ioannis: "Amor et amicitia et iustitia sunt res, quae nos faciunt veramente felices." Et omnes, qui audiebant historiam, gaudebant de amicitia et adventura puerorum et sciebant, quod, si essent amici et semper essent una, possemus superare omnes difficultates et facere vita nostra felice et contenta.</body>

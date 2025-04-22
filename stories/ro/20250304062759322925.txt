@@ -1,0 +1,39 @@
+<prompt>
+Please write a educational Romanian children's story that is at least 1000 words long.
+It must be completely written in proper Romanian (RO).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Peștera ascunsă și comoara lui fantastică'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>ro</lang_id>
+
+<title>Peștera ascunsă și comoara lui fantastică</title>
+<body>
+În inima munților Carpați, într-un loc ascuns, departe de ochii curioși, se afla o peșteră misterioasă.  Nimeni nu știa cu exactitate unde se ascundea, doar bătrânii din sat, cu ochii lor înțelepți,  își aminteau legendele despre ea.  Spuneau că peștera adăpostește o comoară fantastică, o comoară care strălucea cu o lumină magică și putea îndeplini orice dorință.
+
+Micuța Ana, o fată cu ochi albaștri ca cerul de vară și părul ca spicul de grâu, asculta cu sufletul la gură povestirile bătrânilor.  Îi plăceau aventurile, îi plăceau secretele și, mai presus de toate, îi plăcea să descopere lucruri noi.  Într-o zi însorită de toamnă, când frunzele colorate dansau în vânt, Ana a decis să caute peștera ascunsă.
+
+Împreună cu prietenul ei, un câine curajos numit Rex, cu blana neagră ca noaptea și ochii ca două mărgele de jad, Ana a pornit la drum.  Au urcat pe poteci abrupte, au traversat păduri întunecate și au străbătut ape cristaline.  Rex, cu nasul său ascuțit, urmărea cu atenție fiecare urmă, fiecare sunet suspect.
+
+Drumul a fost lung și plin de obstacole.  Au întâlnit un râu furios care trebuia traversat cu ajutorul unor pietre alunecoase, au trecut printr-un desiș deasă, unde ramurile copacilor se încurcau ca niște brațe misterioase.  Dar Ana și Rex, motivați de dorința de a descoperi peștera, au continuat cu hotărâre.
+
+După ce au străbătut munți și văi, au ajuns la un loc unde pământul se deschidea într-un abis întunecat.  Acolo, în mijlocul unui cerc de pietre strălucitoare, se afla intrarea în peștera ascunsă.  O lumină misterioasă se revărsa din adâncul peșterii, atrăgându-i atenția.
+
+Cu inima bătând tare, Ana a intrat prima în peșteră, urmată de Rex.  Peștera era uimitoare!  Pereții ei erau împodobiti cu cristale strălucitoare, care sclipeau cu o lumină fermecătoare.  Formațiuni de gheață, sculptate de mâna naturii, se așezau ca niște sculpturi de o frumusețe rară.
+
+În adâncul peșterii, Ana a descoperit o cameră mare și luminoasă.  În mijlocul camerei se afla o piatră uriașă, strălucind cu o lumină albastră.  Din piatră, se revărsa o lumină orbitoare, care părea să danseze în ritmul propriu.
+
+Ana și Rex s-au apropiat cu precauție de piatră.  Pe măsură ce s-au apropiat, au simțit o energie puternică emanând din ea.  În momentul în care Ana a atins piatra, o voce blândă i-a șoptit: "Dorința ta cea mai mare este cheia spre comoară".
+
+Ana s-a gândit la tot ce dorea: să aibă o grădină plină de flori colorate, să poată ajuta animalele nevoiașe, să aibă prieteni adevărați.  Cu o inimă plină de recunoștință, ea a spus: "Doresc să împărtășesc bucuria și cunoștințele mele cu toți copiii din sat."
+
+În acel moment, piatra a început să pulseze cu o lumină mai puternică.  Din adâncul ei, a ieșit o comoară fantastică: o carte veche, plină de desene și povestiri despre natură, despre animale și despre oamenii buni.  Cartea, plină de înțelepciune, radia o lumină magică, care îi învăța pe cei care o citeau despre valoarea prieteniei și a respectului pentru natură.
+
+Ana și Rex au ieșit din peșteră, inimile lor pline de fericire și de cunoștințe noi.  Au împărtășit comoara lor cu toți copiii din sat, care au învățat lecții prețioase despre prietenie, despre respect și despre importanța cunoașterii lumii din jur.
+
+De atunci, peștera ascunsă a devenit un loc sacru pentru toți locuitorii satului.  Legendele despre ea au fost transmise din generație în generație, învățând generațiile viitoare despre importanța cunoașterii și a respectului pentru natura minunată din jurul nostru.  Și Ana, cu inima plină de bucurie, a continuat să împărtășească cunoștințele sale cu toți cei din jur, dovedind că dorința de a învăța și de a ajuta este cea mai mare comoară pe care o poate avea cineva.
+</body>

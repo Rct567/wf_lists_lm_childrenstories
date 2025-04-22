@@ -1,0 +1,44 @@
+<prompt>
+Please write a simple and easy-to-follow Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Zelta Kauls un Dzintara Brīvība'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lv</lang_id>
+
+<title>Zelta Kauls un Dzintara Brīvība</title>
+<body>
+Pilsētā, kur auga milzīgi, vecāki ozoli un dziedāja straujas upītes, dzīvoja mazs, spīdošs zīdainis – zelta kauls.  Viņš nebija parasts zelta kauls, kas paslēpts zemē.  Šis zelta kauls bija īpašs, jo tajā iemiesojās saulaina rīta gaisma un debesu ziluma dziļums.  Viņš jutās kā mazs, dzidrs kristāls, pilns ar gaismu un prieku.
+
+Viņš dzīvoja kopā ar savām māsām – zelta laipām un brāļiem – sudraba granolām. Viņi visi kopā dejoja saulrietā un dziedāja saullēkta dziesmas,  stāvot uz skaistākās ozola zaru vainagiem. Bet zelta kauls bija īpaši mīlīgs pret jūru. Katru rītu, kad vēja vēsma dziedāja smilšu dziesmas, viņš steidzās uz jūru, vēloties justies brīvāk par visām putnu spārniem.
+
+Jūra bija liela un zila kā debesis. Viņa dzelmi klāja smilšu zvaigžņu migla, un jūras vilnis rotaļājās ar gliemežvākiem un koralļiem. Tajā mājās bija daudz brīnišķīgu radījumu: čūsku zivis, kas spēja pielāgoties ūdens dzīlēs, gaiši pelēkā krāsā, un kuplās, zaļās aļģes. Zelta kauls iemīlēja čūsku zivis par viņu gudrību, kurām vienmēr bija gudrs padoms katram, un viņam patika arī pētīt aļģu gleznainos, zāļainos ornamentus.
+
+Vienu dienu, kad zelta kauls spēlējās ar čūsku zivīm, viņš ieraudzīja mazu, dzintara krāsas gabaliņu.  Tas nebija parasts dzintars.  Tas spīdēja neparasti spēcīgi,  kā maza saule. Zelta kauls, aizrāvies no tā mirdzuma, uzzināja, ka tā ir maza dzintara brīvība, kas bija ielasta ar saulē iedegtu prieku un jūras dzirkstošu gaismu.
+
+
+Dzintara brīvība stāvēja uz jūras grīdas, bet atšķirībā no visām citām, viņa centās atrast savu īsto ceļu,  savu patieso mājokli.  Viņa bija dzimusi no šīs pasaules, un  bija ieelpojusi vētrainu jūras elpu. Zelta kauls,  dzirdējis dzintara brīvības bailes un vārdus, sāka domāt, kā var palīdzēt šai mazai radījumam.
+
+
+Zelta kauls pieklauvēja pie čūsku zivju mājas. Tās pateica: “Vai tev vajag kādu palīdzību,  Zelta Kaul? Bet nezinām, kur var atrast šo mazo dzintara gabaliņu, mēs nekad nav redzējuši kaut ko tādu...” Zelta kauls pastāstīja par Dzintara brīvības bailēm, vēlēšanos atrast savu mājokli, un  tā dvēseli. Čūsku zivis bija pārsteigtas un atzīs.
+
+
+Tās apvienoja spēkus un kopā meklēja ar mieru un cieņu.  Viņi ielūkojās katrā jūras gropē un katrā smilšu krāvī, līdz tie nonāca pie maza, slēptu zāliena, kurā zieda balti jūras ziedi un zvijās ūdenszāle. Dzintara brīvība bija atrodami!
+
+
+Tie saprata, ka dzintara brīvība meklēja nevis fizisku mājvietu, bet gan iekšējo mieru un drošību.   Viņa atradusi savu vietu un sajutis sevi starp  baltajiem jūras ziediem.
+
+
+Un tad zelta kauls saprata –  katram jāmeklē savu brīvība, jāatrod savs mājoklis savā sirdī, un dzintara brīvība jāzina, ka atklātības, līdzjūtības un cerības mājoklis atrodas  dzīves jaukā mierā ar  sevi.
+
+
+Zelta kauls priecājās par Dzintara brīvības atklāsmi. Viņš saprata, ka brīvība ne vienmēr nāk ar lielu skaļumu. Tā ir maza dvēsele, tā iekšējais mierīgums un savas patiesās atrašanas pieredze. Un viņš saprata, ka lielākā brīvība ir atpazīt savu patieso ceļu.  Tas bija  brīvības stāsts  saaudzināts ar sapni un drosmi. Zelta kauls nolems kopā ar Dzintara brīvību uzkāpt pa visām jūru augstumiem.
+
+
+Un tā Zelta kauls un Dzintara brīvība devās ceļojumā apkārt jūrai,  sasalīši draugi un gūstot pieredzi kopā ar čūsku zivīm, un baltajiem ziediem.  Viņi kopā atraduši, ka brīvība nav mērķis, bet gan ceļojums ar savām māsām, brāļiem, un ar draugiem apkārt. Un tā zelta kauls un dzintara brīvība turpināja savu ceļu pasaulē, paraudzot ar jauno skatu katrā pieredzē.
+</body>

@@ -1,0 +1,67 @@
+<prompt>
+Please write a educational Bosnian children's story that is at least 1000 words long.
+It must be completely written in proper Bosnian (BS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Mali dječak i njegova ljubav prema moru i brodu kojeg je sam napravio.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>bs</lang_id>
+
+```xml
+<title>Mali dječak i njegova ljubav prema moru i brodu kojeg je sam napravio.</title>
+<body>
+U jednom malom, šarmantnom primorskom gradiću, gdje su se kuće bojale u jarkim bojama sunca i mora, živio je mali dječak po imenu Emir. Emir je imao pet godina i bio je dječak sa zlatnom kosom i očima boje ljetnog neba. Njegova najveća ljubav bio je veliki, plavi Jadran, koji je s njim dijelio svako ljeto. Svako jutro, Emir bi se probudio s mirisom slane vode u zraku i uz zvuk galebova koji su pjevali svoje jutarnje pjesme.
+
+Emir je sanjao o moru. Sanjao je o valovima koji plešu, o ribama koje skrivaju svoje šarene ljuske, i o brodovima koji plove dalekim putevima. Jednog dana, dok je šetao plažom sa svojim dedom, koji je bio vješti stolar, Emir je pronašao nešto posebno. Na obali je ležalo nekoliko komada drveta, izbrušenih i glatkih od strane morskih valova.
+
+"Dedo, vidi ovo!", uzviknuo je Emir, privlačeći dedu do drva. "Šta su ovo?"
+
+Dedo se sagnuo i pažljivo pogledao komade drveta. "Ovo, Emire, su ostaci od stare brodice. Vidiš, more sve pomalo razbije i donese na obalu."
+
+Emir je pažljivo dirao drvo. Bilo je glatko i toplo od sunca. "Mogu li ja napraviti brod, dedo?", upitao je sa sjajem u očima.
+
+Dedo se nasmiješio. "Naravno da možeš, sine. Možemo napraviti brod zajedno. Ali, prvo moramo skupiti više drveta i naći neki dobar plan."
+
+Tako je počela Emir-ova avantura. Svakog popodneva, nakon što bi završio svoje obaveze, Emir i dedo bi se zaputili na plažu. Dedo je učio Emira o vrstama drva, kako ih obraditi, kako izmjeriti i kako spojiti dijelove. Emir je bio pažljiv učenik, pun entuzijazma i želje da nauči.
+
+"Vidiš, Emire," rekao je dedo, pokazujući na drvenu dasku, "ova vrsta drveta, bor, je čvrsta i otporna na vodu. Zato se koristi za izradu brodova. Ali, pazite, treba je dobro osušiti da se ne bi iskrivila."
+
+Emir je slušao s velikom pažnjom. Osjećao je kako raste njegova ljubav prema brodu, a s njom i znanje. Naučio je razlikovati različite vrste alata: čekić, pila, brusni papir, bušilica. Dedo mu je objasnio svaku svrhu alata, naglašavajući sigurnost pri radu.
+
+Počeli su sa jednostavnim nacrtom. Dedo je nacrtao osnovni oblik broda na komadu papira, objašnjavajući kako će se dijelovi spajati i kako će se brod kretati kroz vodu. Emir je upijao svaku informaciju, crtajući svoj vlastiti brod, dodajući detalje poput malog jarbola i zastave.
+
+Rad je bio spor i zahtjevan, ali zabavan. Emir je bio strpljiv, strpljivo bruseći drvo, čekajući da ljepilo osuši. Dedo bi mu pomagao kada bi mu trebalo, ali bi ga uvijek ohrabrivao da pokuša sam.
+
+"Uradi to sam, Emire," govorio je dedo, "najvažnije je da pokušavaš. Greške su dio učenja. U redu je napraviti grešku."
+
+Jednog dana, dok su radili na jarbolu, Emir je udario čekićem u prst. Zaboljelo ga je, i krenule su mu suze.
+
+"Boli me, dedo!", jecao je.
+
+Dedo je brzo pritrčao i pažljivo pregledao prst. "Sve je u redu, Emire. Ovo se ponekad događa. Treba biti oprezan, ali se ne treba plašiti." Izvadio je iz kutije malu vrećicu s ljekovitim biljkama i stavio je na prst. "Sada će proći," rekao je blago.
+
+Emir je prestao plakati. Pomisao da neće moći nastaviti s gradnjom broda ga je užasnula. Uzeo je čekić ponovo i nastavio pažljivo raditi.
+
+Prošlo je mnogo dana, a Emir-ov brod se polako počeo nazirati. Trup broda je bio spreman, jarbol je stajao visoko, a jedro se blistavo vijorilo. Emir je bio presretan!
+
+Brod je bio obojen u jarke boje – plavu kao more i žutu kao sunce. Dedo mu je pomogao da napravi malu palubu i kormilo. Na palubu je stavio male figurice mornara i kapetana, koji su izgledali kao da su spremni za avanturu.
+
+Napokon, došao je i dan kada je brod bio spreman za spuštanje u more. Emir i dedo su odnijeli brod na obalu. Okupili su se i Emirevi drugari, svi znatiželjni da vide brod koji je Emir toliko dugo pravio.
+
+"Pazite," rekao je dedo, pažljivo stavljajući brod u vodu.
+
+Emir je zadržavao dah. Brod je plutao! Bio je savršen!
+
+Emir je skakao od sreće. Uhvatio je mali brod i gurnuo ga dalje od obale. Njegov brod je krenuo u svoju prvu avanturu! Emir i njegovi drugari su ga posmatrali, bodrili i veselili se. Brod je bio stabilan, veselo je plovio po mirnom moru.
+
+Emir je trčao uz obalu, prateći brod. Bio je ponosan na svoj rad, na svoje strpljenje i na pomoć svog dede. Shvatio je da se ništa ne može postići bez truda i upornosti. Osjećao je veliku sreću i ljubav prema moru, brodu i svom dedu.
+
+Dok je sunce zalazilo, obojavajući more u narandžastu boju, Emir je izvukao brod iz vode. Pažljivo ga je osušio i odnio kući. Njegov brod, plod njegovog rada i ljubavi, stajao je na počasnom mjestu u njegovoj sobi. Svako jutro, kad bi se probudio, pogledao bi u njega, podsjećajući se na lijepo ljeto i lekcije koje je naučio.
+
+Svakog ljeta, Emir bi opet napravio novi brod, ali onaj prvi, mali, šareni brod će uvijek ostati poseban u njegovom srcu, kao simbol djetinjstva, strpljenja i ljubavi prema moru i brodu koji je sam napravio. I uvijek će se sjećati dedinih riječi: "Uradi to sam, Emire, najvažnije je da pokušavaš."
+</body>
+```

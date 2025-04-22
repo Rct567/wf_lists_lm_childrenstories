@@ -1,0 +1,87 @@
+<prompt>
+Please write a uncomplicated Swedish children's story that is at least 1000 words long.
+It must be completely written in proper Swedish (SV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Den magiska stenen som viskade hemligheter'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>sv</lang_id>
+
+```xml
+<title>Den magiska stenen som viskade hemligheter</title>
+<body>
+En gång för länge sedan, i en liten by vid namn Solängen, bodde en liten flicka som hette Lova. Lova hade rött hår som lockade sig som små vågor och ögon lika blå som himlen en sommardag. Hon älskade att leka utomhus, springa i de gröna ängarna och klättra i de gamla ekarna som stod som vakter runt byn.
+
+Lova hade en bästa vän, en liten hund som hette Kotte. Kotte var en busig liten terrier med en fluffig svans och öron som stod rakt upp. De två var oskiljaktiga. Varje morgon, så fort solen tittade fram, sprang Lova ut för att möta Kotte, och tillsammans gav de sig ut på äventyr.
+
+En dag, när solen sken som allra starkast, bestämde sig Lova och Kotte för att utforska den gamla skogen som låg bortom byns ängar. De hade hört många spännande historier om skogen, om troll och älvor, och om djur som kunde tala. Lova hade alltid drömt om att upptäcka något magiskt.
+
+"Kom Kotte, vi ska utforska skogen!" sa Lova, och hon sprang iväg, Kotte tätt bakom sig.
+
+Skogen var mörk och mystisk. Solens strålar kämpade sig igenom de täta löven, och skapade fläckar av ljus och skugga på marken. Träden var höga och gamla, med tjocka stammar och knotiga grenar. Det luktade av mossa, jord och fuktiga löv.
+
+Lova och Kotte gick djupare och djupare in i skogen. De hoppade över små bäckar, klättrade över fallna träd och smög förbi buskar fyllda med bär. Kotte nosade ivrigt på marken, och Lova höll utkik efter något spännande.
+
+Till slut, efter att ha gått i timmar, kom de fram till en liten glänta. Mitt i gläntan stod en gammal ek, och under eken låg en stor, rund sten. Stenen var inte som någon sten Lova hade sett förut. Den var slät och glänsande, med nyanser av grönt, blått och gult. Den såg ut att lysa lite grann i solskenet.
+
+Lova kände en stark dragningskraft till stenen. Hon gick fram och satte sig bredvid den. Kotte lade sig ner vid hennes fötter och tittade upp på henne med sina stora, bruna ögon.
+
+Lova sträckte ut handen och rörde vid stenen. Den var varm och len, som om den hade legat i solen hela dagen. I samma ögonblick hörde hon en viskning. Det var som om stenen talade till henne.
+
+"Välkommen, Lova," viskade stenen. "Jag har väntat på dig."
+
+Lova blev förvånad. Hon tittade sig omkring, men det fanns ingen annan där. "Vem är det?" frågade hon försiktigt.
+
+"Det är jag, stenen," viskade stenen. "Jag kan tala med dem som har ett rent hjärta."
+
+Lova förstod ingenting, men hon var inte rädd. Hon hade alltid trott på magi, och nu verkade hon ha hittat den. "Vad heter du?" frågade hon.
+
+"Jag har inget namn," viskade stenen. "Men du kan kalla mig Hemligheten."
+
+"Hemligheten," upprepade Lova. "Vad kan du göra?"
+
+"Jag kan viska hemligheter," viskade stenen. "Jag kan visa dig saker som ingen annan ser. Jag kan berätta historier från långt, långt tillbaka."
+
+Lova var alldeles hänförd. "Kan du berätta en historia nu?" frågade hon ivrigt.
+
+"Ja," viskade Hemligheten. "Lyssna noga."
+
+Och så började Hemligheten berätta. Den berättade om älvor som dansade i månskenet, om troll som bodde i grottor under marken, och om djur som kunde tala med varandra. Den berättade om modiga riddare och vackra prinsessor, och om drakar som vaktade skatter.
+
+Lova satt tyst och lyssnade, helt uppslukad av berättelsen. Kotte låg bredvid henne och sov, men Lova visste att han också hörde, på sitt eget sätt.
+
+När Hemligheten slutade berätta, kände Lova sig som om hon hade varit med på ett stort äventyr. Hon hade sett saker som hon aldrig hade kunnat föreställa sig.
+
+"Tack," sa Lova. "Det var den vackraste berättelsen jag någonsin har hört."
+
+"Det är bara början," viskade Hemligheten. "Jag har många fler hemligheter att dela med dig."
+
+Lova och Hemligheten tillbringade resten av dagen tillsammans i gläntan. Hemligheten berättade fler historier, och Lova ställde frågor. Hon fick veta saker om världen som hon aldrig hade förstått förut. Hon lärde sig om vänskap, mod och kärlek.
+
+När solen började gå ner, insåg Lova att det var dags att gå hem. Hon kände sig ledsen över att behöva lämna Hemligheten, men hon visste att hon skulle komma tillbaka.
+
+"Jag måste gå nu," sa Lova. "Men jag kommer tillbaka imorgon."
+
+"Jag kommer att vänta på dig," viskade Hemligheten. "Och kom ihåg, Lova, hemligheter är till för att delas, men bara med dem du litar på."
+
+Lova kramade stenen, och sedan reste hon sig upp. Kotte vaknade och skakade på sig. Tillsammans gick de ut ur gläntan och tillbaka mot byn.
+
+När Lova kom hem, var hon så glad att hon hade hittat Hemligheten. Hon berättade för sina föräldrar om stenen, men hon berättade inte om hemligheterna. Hon visste att Hemligheten hade rätt, att hemligheter är bäst att dela med dem du litar på.
+
+Nästa dag, och alla dagar därefter, gick Lova till skogen för att träffa Hemligheten. De berättade historier, delade hemligheter och lärde sig av varandra. Lova blev klokare och modigare, och Kotte var alltid med henne, som hennes trogna vän.
+
+En dag, när Lova var lite äldre, berättade Hemligheten en speciell hemlighet för henne. "Du har ett rent hjärta, Lova," viskade stenen. "Du kan göra magi."
+
+Lova blev förvånad. "Kan jag verkligen det?" frågade hon.
+
+"Ja," viskade Hemligheten. "Du kan hjälpa andra, du kan göra gott i världen. Du har den kraften inom dig."
+
+Lova trodde på Hemligheten, och hon bestämde sig för att använda sin magi för att hjälpa andra. Hon hjälpte de sjuka, hon tröstade de ledsna, och hon gjorde allt hon kunde för att göra världen till en bättre plats.
+
+Och så, tack vare den magiska stenen som viskade hemligheter, blev Lova en speciell flicka, en flicka som kunde göra magi, en flicka som förändrade världen. Och Kotte, hennes bästa vän, var alltid vid hennes sida, för att dela äventyret. Och de levde lyckliga i alla sina dagar, i den lilla byn Solängen, där magin alltid fanns, gömd i en glänsande sten.
+</body>
+```

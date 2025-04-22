@@ -1,0 +1,111 @@
+<prompt>
+Please write a dialog-based Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Przygody Bociana Tadeusza, Który Przeszkadzał Niedobrym Ludziom Na Świecie.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pl</lang_id>
+
+```xml
+<title>Przygody Bociana Tadeusza, Który Przeszkadzał Niedobrym Ludziom Na Świecie.</title><body>
+– Ko, ko, ko! – zatrąbił radośnie bocian Tadeusz, wznosząc się wysoko nad zielonymi polami. Słońce świeciło mocno, a wiatr pogładzał mu biało-czarne pióra. Zawsze czuł ekscytację, szykując się do kolejnej podróży. Tego roku, zamiast do ciepłych krajów, postanowił trochę pobawić się w… sprawiedliwość!
+
+– Czego tym razem się czepisz, Tadeuszku? – zaćwierkała wesoło Małgosia, mała sikorka, która często towarzyszyła mu w jego przygodach. Miała piękne, niebieskie piórka i zawsze była ciekawa świata.
+
+– O, Małgosiu! Widzę, że w pobliskiej wiosce coś się dzieje! – odpowiedział Tadeusz, zerkając w dół. – I wcale mi się to nie podoba. Wygląda na to, że… znowu ktoś kombinuje!
+
+Wioska, leżąca u podnóża zielonych wzgórz, wydawała się spokojna z góry. Małe domki z czerwonymi dachami, ogródki pełne kwiatów, a po brukowanych ścieżkach spacerowali mieszkańcy. Ale Tadeusz widział więcej. Dostrzegał oszustwa i kłamstwa, które kryły się pod pozorami sielanki.
+
+– Widzę chciwego Jaśka, znowu oszukuje na wadze! – krzyknął Tadeusz. – Kupcy będą skrzywdzeni!
+
+– No to lecimy! – pisnęła Małgosia, podrywając się do lotu.
+
+Tadeusz szybko zniżył lot. Znalazł się nad straganem Jaśka, który sprzedawał warzywa i owoce. Jasiek, z wielkim brzuchem i złą miną, ważył jabłka dla staruszki. Tadeusz wylądował tuż obok wagi i… trzepnął mocno skrzydłem, zrzucając ją na ziemię!
+
+– Ojej! Co się stało?! – krzyknął zdziwiony Jasiek.
+
+– Nic się nie stało, panie Jaśku. Ale myślę, że powinniśmy ponownie skalibrować wagę! – odpowiedział Tadeusz, podlatując do staruszki i pocieszając ją, żeby zerknęła na sprofanowane owoce.
+
+Staruszka, pani Aniela, uśmiechnęła się wdzięcznie do bociana. Znała Tadeusza z wielu poprzednich interwencji.
+
+– Dziękuję, Tadeuszku. Wiem, że mogę na ciebie liczyć. Ten łotr znowu próbował mnie oszukać!
+
+– Mówię poważnie, to skandal! – dorzuciła Małgosia. – Jabłka powinny być tańsze!
+
+Jasiek, czerwony ze złości, zaczął krzyczeć. Ale mieszkańcy wioski, widząc całe zajście, otoczyli go i zmusili do oddania pieniędzy pani Anieli i uczciwego pomiaru jabłek.
+
+– A nie mówiłem! – zawołał z góry Tadeusz, dumnie krążąc nad wioską. – Sprawiedliwość musi być!
+
+– Ale to dopiero początek, Tadeuszku! – zawołała Małgosia, podlatując do bociana. – Słyszałam, że w gospodzie „Pod Złotą Rybką” ktoś robi przekręty!
+
+– No to lecimy! – odparł Tadeusz, składając skrzydła do szybkiego lotu.
+
+Gospoda „Pod Złotą Rybką” słynęła z pysznego jedzenia, ale i z wysokich cen. Właściciel, gruby i łysy pan Zenon, miał w zwyczaju oszukiwać na rachunkach. Właśnie, tego dnia, obcokrajowiec z bujnymi wąsami próbował zapłacić, patrząc na spiętrzone rachunki.
+
+Tadeusz i Małgosia wylądowali na parapecie okna, skąd mogli obserwować sytuację. Pan Zenon trzymał rachunek w dłoni, a obcokrajowiec z wyraźnym zdziwieniem zerkał na kwotę.
+
+– Ależ to bardzo drogo! – zawołał zrezygnowany mężczyzna.
+
+– Niestety, takie są ceny, proszę pana… – odparł chytry pan Zenon. – Mamy tutaj same rarytasy.
+
+Tadeusz poczekał kilka chwil, aż pan Zenon nie patrzył, po czym… wleciał do gospody, chwycił rachunek w dziób i poderwał się do góry.
+
+– Co się dzieje?! Gdzie uciekasz?! – wrzasnął pan Zenon.
+
+Tadeusz, z dumną miną, podleciał do obcokrajowca, upuścił rachunek obok niego i wzbił się ponownie do góry. Po drodze zabrał też kilka potraw z suto zastawionego stołu, zrzucając je wprost na głowę pana Zenona.
+
+– Ha! – zawrzeszczała Małgosia. – Zasłużyłeś na to, ty oszuście!
+
+Mężczyzna spojrzał na zrzucony rachunek i zmarszczył brwi. Oczywiście, rachunek był zdecydowanie zawyżony. Po krótkich przepychankach z właścicielem gospody i podliczeniu kosztów, pan Zenon musiał się pogodzić z tym, że to on jest oszukany, a obcokrajowiec za mniejszą kwotę może zjeść kolację.
+
+– Niech pan się nie martwi, panie… – odezwał się Tadeusz, siadając na parapecie. – Takich jak pan Zenon trzeba wystawiać do pionu.
+
+Wieść o wyczynach Tadeusza i Małgosi rozeszła się po całej okolicy. Mieszkańcy wioski darzyli bociana i sikorkę wielkim szacunkiem i wdzięcznością. Wiedzieli, że zawsze mogą na nich liczyć.
+
+Pewnego dnia, w wiosce zjawiła się zła wiedźma, Baba Jaga, ze swoimi niecielnymi planami. Chciała zatruć źródło, z którego czerpano wodę pitną, i zawładnąć okolicą.
+
+Tadeusz i Małgosia, słysząc o tym, natychmiast przystąpili do działania. Baba Jaga zamknęła się w swojej chatce, która znajdowała się na obrzeżach wioski, w środku ponurego lasu. Wiedźma, zanim wyruszyła na poszukiwania magii, miała przygotowany trucizny eliksir.
+
+– Co robimy? – zapytała zaniepokojona Małgosia.
+
+– Musimy dostać się do jej chatki! – odparł Tadeusz. – Ale ostrożnie! Wiedźma jest bardzo niebezpieczna.
+
+Po cichu wślizgnęli się do chatki. W środku panował straszny bałagan. Na stole stały pęcherzyki z różnymi, obrzydliwymi miksturami. Nagle Małgosia zauważyła fiolkę z zielonym płynem – truciznę.
+
+– Znalazłam ją! – krzyknęła.
+
+Baba Jaga właśnie wróciła do chaty.
+– Aha, goście! – wrzasnęła, jej oczy rozbłysły nienawiścią. – Nie wyjdziecie stąd żywi!
+
+Baba Jaga rzuciła zaklęcie, a w chatce pojawiły się ciemne chmury i zrobiło się ciemno. Tadeusz wpadł na pomysł. Skoczył w górę, złapał fiolkę z trucizną w dziób i… wylał zawartość na głowę Baby Jagi.
+
+Wiedźma krzyknęła z zaskoczenia i pod wpływem mikstury zamieniła się w… małą, zieloną ropuchę!
+
+– Eeee! – rozległ się jej cienki głos. – To nie tak miało być!
+
+Małgosia szybko wyniosła ropuchę z chatki i upuściła ją do stawu. Chata natychmiast przestała groźnie wyglądać. Po chwili Tadeusz, wraz z Małgosią, wyszli z lasu.
+
+Tymczasem, na ratunek wyruszyły inne zwierzęta z okolicy. Jeże, borsuki i wiewiórki pobiegły do źródła, gdzie zaczęły zbierać trującą substancję. Pomogły uratować wodę, której mieszkańcy potrzebowali do życia.
+
+– Brawo, Tadeuszku! Brawo, Małgosiu! – krzyczały z radością dzieci z wioski, widząc bohaterów na polanie. – Jesteście wspaniali!
+
+– O, niech mnie gęś udusi, jaki piękny dzień! – zaśmiał się Tadeusz.
+
+Aż do zmroku świętowali zwycięstwo nad złem. Ta przygoda nauczyła wszystkich, że nawet najmniejsze stworzenie, takie jak bocian czy sikorka, może dokonać wielkich rzeczy, walcząc ze sprawiedliwością.
+
+Kiedy zapadła noc, Tadeusz i Małgosia wrócili do swojego gniazda na dachu starego młyna.
+
+– No to co, Tadeuszku? Jak wrażenia po dzisiejszym dniu? – zapytała Małgosia, zwijając się do snu.
+
+– Dobre, Małgosiu, dobre! – ziewnął Tadeusz. – Chyba powoli wrócimy do naszych lotów do ciepłych krajów. Ale… może na wiosnę, znów pokręcimy się po okolicy? Mamy jeszcze sporo do zrobienia!
+
+– Zawsze możemy się czymś zająć, prawda? – zaśmiała się Małgosia, wtulając się w ciepłe pióra. – A teraz śpijmy dobrze, jutro czeka nas wspaniały dzień!
+
+I tak, bocian Tadeusz i sikorka Małgosia, zadowoleni ze swoich przygód, zasnęli snem sprawiedliwych. A w wiosce, choć było ciemno, ludzie czuli się bezpiecznie, wiedząc, że ich bohaterowie czuwają. Przez całą noc, Tadeusz i Małgosia we śnie widzieli uśmiechnięte twarze mieszkańców i byli dumni, że mogli im pomagać. Z nadzieją czekali na kolejny dzień, na kolejne wyzwania i na możliwość dbania o świat.
+</body>
+```

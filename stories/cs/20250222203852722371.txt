@@ -1,0 +1,51 @@
+<prompt>
+Please write a timeless Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Příběhy českých dědečků a babiček'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Příběhy českých dědečků a babiček</title>
+<body>
+Stará babička Jarmila seděla na verandě svého starobního domu v malebném městečku u Vltavy.  Slunce zapadalo za kopce a malovalo oblohu do oranžové a růžové.  Na stole před ní ležela stará, zmuchlaná kniha, plná žlutých listů a vyloupaných písmen.  Byla to kniha plná příběhů, příběhů o českých dědečcích a babiček.
+
+"No, a co se dělo dál, dědečku?" zeptala se babička Jarmila něžně, a její oči se leskly slzami, jak se ponořila do vzpomínek.  
+
+"Dál?" zasyčel dědeček Josef, sedící na křesle vedle ní, a jeho vousy se třásly jako stromy v silném větru. "Dál se stala věc, co se stává jenom u nás, v Čechách.  Byla to doba, kdy se v naší malé vesničce všichni báli šumavských lesů. Říkali, že tam žijí strašlivé bytosti a že se tam ztrácejí i lidé."
+
+"Bytosti?" zeptala se babička Jarmila, a její oči se zvědavě přimkly. "A jaké to byly bytosti?"
+
+"Byly to," začal dědeček Josef, a jeho hlas se stal tišším, "bytosti ze starých pověstí. Strašlivé lesní víly a čarodějnice. A co je horší, existovalo i strašlivé stvoření, které se jmenovalo Lesní drak."
+
+"Lesní drak?" zeptala se babička Jarmila s úžasem. "Ale dědečku, to přece není pravda."
+
+"Pravda, pravda, babičkou. Všichni si to říkali.  A to si pamatuji jak dnes! Jeden chlapík, Honza, se toulal do lesů s košem plným hub.  Bál se, ale přesto se tam šel podívat. A zničehonic... zničehonic se objevil Lesní drak. Obrovský, se šupinami jako jiskry a s očima jako uhlí."  
+
+"A co pak?" zvolala babička Jarmila s napětím.
+
+"Honza se bál, ale pak si vzpomněl na maminku a na babičku. Vzpomněl si na chléb, na vaření, na krásy naší malé vesničky.  A vzpomněl si na to, jak se v lese ukrývají houby!  Tak se k Lesnímu drakovi otočil, a s úsměvem mu řekl:  'Dobrý den, pane Lesní draku.  Vím, že hledáte houby.  Já jich mám plný košík!  Chceš s ní?"
+
+"A Lesní drak?" zeptala se babička Jarmila s otevřenými ústy.
+
+"Lesní drak byl překvapený.  Nikdy předtím se s ním nikdo nebavil tak přátelsky. A když Honza vyndal košík plný hub, uviděl Lesní drak v tom košíku nejen houby, ale i velkou, velkou lásku k životu."
+
+"A co se pak stalo?"
+
+"Lesní drak se usmál.  Ne byl strašný, ale milý.  A řekl Honzovi: 'Jsi dobrý chlap.  Uvidíš, že ne všichni v lese jsou zlí.' A pak se Honza s košíkem hub vrátil do vesničky, a všichni věděli, že i v šumavských lesích se ukrývá laskavost. Nikdy už se nikdo nebál Lesních bytostí."
+
+"Takže Lesní drak byl dobrý?" zeptala se babička Jarmila.
+
+"Ano, babičko," odpověděl dědeček Josef. "Mnohem víc, než si kdo myslel. A Honza se stal hrdinou naší vesničky. Dokázal, že i v neznámém, strašidelném světě, se dá najít laskavost a přátelství."
+
+Babička Jarmila se usmála a zavřela oči.  "Jak krásný příběh, dědečku," zašeptala.  "A takových příběhů o českých dědečcích a babiček je v této knize ještě mnoho."
+
+
+A tak seděli oba na verandě, obklopeni tichem zapadajícího slunce, a v tichu se vznášely slova starých pověstí.
+
+</body>

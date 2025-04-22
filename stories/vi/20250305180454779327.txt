@@ -1,0 +1,37 @@
+<prompt>
+Please write a silly Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Cuộc Phiêu Lưu Của Cậu Bé Và Con Rồng Lửa'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>vi</lang_id>
+
+<title>Cuộc Phiêu Lưu Của Cậu Bé Và Con Rồng Lửa</title>
+<body>
+Cậu bé Tí Hùng, với mái tóc đen nhánh như mực và đôi mắt sáng như sao, sống trong một ngôi làng nhỏ ven biển.  Tí Hùng không phải là một cậu bé bình thường.  Cậu có một trái tim dũng cảm và một trí tưởng tượng phong phú, luôn mơ mộng về những cuộc phiêu lưu kỳ diệu.
+
+Một ngày nọ, khi đang đi dạo trên bãi biển, Tí Hùng phát hiện ra một chiếc hòm gỗ cũ kỹ, nằm khuất sau những tảng đá.  Hòm gỗ to bằng cái tủ quần áo, được khắc đầy những hình vẽ kỳ lạ, rực rỡ màu sắc.  Tò mò, Tí Hùng mở hòm.  Và ngay lập tức, một tiếng nổ lách tách vang lên, kèm theo một làn khói trắng bồng bềnh.
+
+Từ trong khói, một con rồng lửa, nhỏ xíu như một chú mèo con, nhưng với đôi mắt lấp lánh như những viên ngọc, hiện ra.  Con rồng tên là Phượng, có bộ lông màu đỏ tươi, óng ánh như lửa đang cháy. Phượng có vẻ rất sợ hãi, run rẩy, và thì thào bằng một giọng nói nhỏ như tiếng chuông gió: "Tôi... tôi bị lạc rồi!"
+
+Tí Hùng, thay vì sợ hãi, lại cảm thấy thương con rồng bé nhỏ.  Cậu nhẹ nhàng đặt Phượng lên lòng bàn tay.  "Đừng lo," Tí Hùng nói bằng giọng ấm áp, "Tôi sẽ giúp cậu tìm đường về nhà."
+
+Và thế là, một cuộc phiêu lưu kỳ diệu bắt đầu.  Tí Hùng và Phượng cùng nhau rong ruổi trên lưng con voi khổng lồ, con voi được làm bằng kẹo mút.  Chúng bay qua những đám mây bông xốp, trôi trên dòng sông sữa, và vượt qua những ngọn núi kẹo cứng.
+
+Trên đường đi, họ gặp những con vật kỳ lạ.  Có con khỉ vàng, chuyên ăn bánh quy; con cá voi nói chuyện bằng tiếng Việt, thích hát những bài ca về biển cả; và cả một đàn bướm khổng lồ, có cánh bằng những tờ tiền giấy đủ màu.  Tất cả đều chào đón Tí Hùng và Phượng nồng nhiệt.
+
+Một hôm, khi đang bay trên những đám mây, Phượng đột nhiên nói: "Tôi thấy nhà của mình rồi! Nó ở trên đỉnh núi kẹo cứng, nơi có một chiếc cầu vồng màu cam!"
+
+Tí Hùng và Phượng bay vút lên đỉnh núi kẹo cứng.  Nơi đó, thật sự có một chiếc cầu vồng màu cam, rực rỡ, dẫn đến một hang động nhỏ.  Và trong hang động, là một ngôi nhà nhỏ xinh xắn, được làm bằng những viên đá quý lấp lánh. Đó chính là nhà của Phượng.
+
+Phượng nhảy xuống đất, ôm chặt lấy Tí Hùng.  "Cảm ơn cậu, Tí Hùng," Phượng nói, giọng đầy xúc động. "Cậu là người bạn tốt nhất của tôi."
+
+Tí Hùng mỉm cười.  Cậu biết rằng cuộc phiêu lưu này sẽ mãi là một kỷ niệm đẹp trong tim cậu.  Và Phượng, với trái tim nhỏ bé nhưng dũng cảm, đã trở thành người bạn thân thiết của Tí Hùng, một người bạn luôn nhắc nhở cậu về sự ấm áp của lòng nhân ái.
+
+Sau đó, mỗi khi nhìn thấy một đám mây, Tí Hùng lại nhớ về cuộc phiêu lưu tuyệt vời của mình.  Cậu luôn nhớ rằng, trên thế giới này, có rất nhiều điều kỳ diệu đang chờ đón những ai dám mơ mộng và dũng cảm khám phá.  Và đôi khi, những điều kỳ diệu ấy, lại xuất hiện trong những chiếc hòm gỗ cũ kỹ, nằm khuất sau những tảng đá ven biển.
+</body>

@@ -1,0 +1,39 @@
+<prompt>
+Please write a silly Zulu children's story that is at least 1000 words long.
+It must be completely written in proper Zulu (ZU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Umcimbi obalulekile wokuqala kwesikole lapho abafundi beqala khona ukufunda izinto ezintsha.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>zu</lang_id>
+
+<title>Umcimbi obalulekile wokuqala kwesikole lapho abafundi beqala khona ukufunda izinto ezintsha.</title>
+<body>
+Ngesikhathi solwimi olukhulu lokukhanya, lapho ilanga likhanyisa ngamandla, kwakukhona umcimbi obalulekile wokuqala kwesikole eNtshonalanga.  Abafundi abancane, bezijabulela ukukhanya, babheka ngokungabaza izinto ezintsha ezabaqhamuka khona e-classroom.  U-Lindiwe, owesifazane oqeqeshwe ngokukhethekile ukufundisa abantwana, wabacela bonke abafundi ukuba bahlanganyele emcimbini.
+
+"Ngingumfundisi olukhulu lokuqeqeshwa," kusho u-Lindiwe, "futhi ngifuna nina nonke niqale ukufunda izinto ezintsha namuhla.  Lokhu kusho ukufunda amagama esihloko nendlela yokufunda amagama."
+
+U-Lindiwe wabalaza ngokukhulu ukuqeqesha abafundi.  "Amagama esihloko!" wamemeza.  "Siyoba ngabafundi abakhulu."  Abantwana bakhala ngokungenakuthiwa.  "Isikhulu, isikhulu," baqhubeka.  Abafundi babona ama-alphabet, abekwe ngendlela ephawulekayo.  Isikhulu sakha izinhlobo ezahlukene zamakhasi.
+
+"Sikhulu, sivame ukuqala ngamagama!"  kusho uLindiwe, engoma umoya.  Ngelanga lokuqeqeshwa kwabaqeqeshi emcimbini, kwakukhona umntwana ogama lakhe lingu-Nkosi.  U-Nkosi wayengumntwana omncane owayeqinisekile ukuthi asikho isikhathi esingabakhulu kwesikole.
+
+U-Nkosi wayefuna ukuqala ngokukhulu. "Sikhulu, isikhulu," wamemeza.  "Ngifuna ukufunda amagama!"  U-Nkosi, ngesibindi, wabamba incwadi yakhe, waqala ukubhala ngesandla esikhulu.  "A, B, C," wabhala, enye igama emuva kwezinye.  U-Nkosi wayebhala ngamagama amaqiniso.
+
+"U-Nkosi, yini okwenzayo?" kubuza u-Lindiwe, ebonisa amandla ahlukile.  "Lokhu kusheshisa," waphendula u-Nkosi, ekhangele amagama amakhulu.  "Sikhulu, sivame ukufunda igama."
+
+Kwakukhona umntwana ogama lakhe lingu-Thando owayeyijabulela indawo yonke yemibala.  U-Thando wayekhathele kakhulu emcimbini, kodwa waziqeqesha.
+
+"Ngingumfundi oqeqeshwe kahle kakhulu!"  wamemeza uThando.  "Ngingumfundi oqeqeshwe kahle kakhulu!"  Wabhala igama ngokwenza konke okufanele, ngokungabaqeqeshi, ngokwenza konke okufanele.  U-Lindiwe wabona amandla ahlukehlukene ku-Thando.
+
+"U-Thando, yini okwenzayo?" kubuza u-Lindiwe, ebonisa amandla ahlukile.  "Ngiqeqeshwe kahle, ngumfundi oqeqeshwe kahle," kusho u-Thando.  "Ngibhala igama ngokwenza konke okufanele."  U-Thando wayefisa ukufunda amagama esihloko.
+
+Abantwana bakwazi ukuqeqeshwa ngendlela yabo, bejabulela umcimbi.  Ngalolu suku olukhulu, babehlala bedlala kanye no-Lindiwe.  Babehlala bedlala kanye no-Lindiwe, besekelana ngamagama.  Bekhangele okufanele kwenziwe.  Babekhangele ukwenza okufanele.
+
+Ngesikhathi umcimbi wehlela ekupheleni, abafundi babekhululekile kakhulu futhi bajabule kakhulu ngalolu suku olukhulu.  Bafunda izinto ezintsha, futhi ngeke balahlekelwe yi-knowledge.  Babekhululekile kakhulu ngezinto ezintsha eziphumelelayo.  Bavele bakwazi ukusebenzisa izinto eziphathekayo ezintsha.
+
+Ngalolu suku olukhulu, u-Lindiwe wabona umsebenzi omuhle kakhulu owenziwe yibo bonke abafundi.  Babengenakuzidela.  Babengumfundi oqeqeshwe kahle.  U-Lindiwe wathanda abafundi.  Futhi wonke umuntu walithanda lo mcimbi.  Babekhululekile kakhulu.  Isimo senhliziyo sabo sabonakala sohlelo olukhulu.  Ngalolu suku olukhulu, babengumfundi oqeqeshwe kahle.
+</body>

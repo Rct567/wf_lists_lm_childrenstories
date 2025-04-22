@@ -1,0 +1,43 @@
+<prompt>
+Please write a simple and easy-to-follow Welsh children's story that is at least 1000 words long.
+It must be completely written in proper Welsh (CY).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Yr Ysgol Feithrin yn y Wlad Fach'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cy</lang_id>
+
+<title>Yr Ysgol Feithrin yn y Wlad Fach</title>
+<body>
+Roedd y Wlad Fach yn wlad fach, yn wlad o goed bach a ffynnonau bach, a lle bydd y cŵn bach yn meddwl eu bod yn hollol enfawr. Roedd y bobl yn y Wlad Fach yn bobl fach, ac yn fwy o bobl llawen na'r bobl mawr yn y byd mawr. Roedd ganddynt gartrefi bach o bren a chwarel, a gweithiodd ganddynt yn y ffermydd bach yn y tyndra bach.
+
+Ond roedd un beth o'r Wlad Fach nad oedd mor bach ag eraill: yr Ysgol Feithrin.  Roedd yr ysgol yn adeilad mawr, a oedd yn edrych fel castell bach.  Roedd ei waliau o bren gwyn a'r to yn golau'r awyr.  Roedd y ffenestri yn edrych fel llygaid llachar, yn edrych allan ar y byd a'r bywyd sy'n cychwyn.
+
+Yn yr ysgol feithrin hon, roedd plant bach o bob cwr o'r Wlad Fach yn dod i ddysgu.  Roedd y plant yn hoff iawn o'r ysgol, ac roedd yn llawn hwyl a chwerthin.  Rhoddwyd eu canmoliant wrth iddynt ddysgu.
+
+Un diwrnod, roedd ysgolfeistr, Elen, yn cyfarfod â'r plant yng nghefn yr ysgol.  Roedd Elen yn fenyw fach gyda chalon fawr.  Roedd ganddi gwallt coch, ac roedd yn gwisgo dillad lliwgar, fel yr awyr.  Roedd hi'n hoff iawn o ddeffro'r plant, a'u gwneud yn gyffrous am ddysgu.
+
+"Rydyn ni'n mynd i'r goedwig heddiw," meddai Elen i'r plant.  "Rydyn ni'n mynd i ddysgu am natur!"
+
+Roedd y plant yn falch.  Roedd hi'n ddyddiad arbennig oherwydd yr hyn a ddysgwyd.   Roedd ganddynt ddysgu am yr anifeiliaid.  Roedd yr adar yn canu caneuon, yn ei gwneud hi'n sêr yn y lle.  Roedd y gweision bach yn fflachio eu hwyliau, ac roedd y cŵn bach yn gwyliadwriaeth.
+
+Fe wnaethon nhw ddysgu am blodau bach a gwydrau sy'n lliwio'r goedwig.  Fe wnaethon nhw ddysgu am yr hyn oedd sy'n amrywio o goed bach i goed mawr.  Roedd y plant yn darganfod creadigaethau'r natur, yn cofio pob un ohonyn nhw.
+
+Fe wnaethon nhw ddal ffynnon bach oedd yn llifo i mewn i'r afon fach.  Roedd y dŵr yn rhydd, a'r lluniau yn lliwgar.  Roedd y ffynnon bach yn llenwi'r goedwig â sŵn cyffrous a thrin.
+
+Roedd y plant yn ysgrifennu'r gwydrau fel y maent yn edrych arnynt, gan ddefnyddio eu pennau fel gwaelodau i'w cadarnhau fel y maent yn llifo.  Elen, roedd hi'n edrych arnynt â hynod o'r anrheg.
+
+Roedd y plant yn canu caneuon am y goedwig, ac roedd y caneuon yn llawn hwyl a chwerthin.  Roedden nhw'n canu'n ysgol, yn canu'n y goedwig, ac yn canu yn eu cartrefi bach.
+
+Roedd y dydd yn ddydd mawr iawn.  Fe wnaethon nhw ddysgu ac yn creu cyfaint o ddyddiad fawr. Roedd y plant yn edrych ar eu holl ddysgu, a'u hanghenion a'u dyheadau a'u gwaith yn ddyddiadau arbennig.  Roedd yntau'n dysgu ar gyfer y dyfodol yn y dyfodol. Roedd y dydd yn llawn hwyl ac yn ddiddorol.
+
+Ar ôl y dydd gwych, fe'i chyflwynodd Elen i bawb â dechreuwch, gan ddweud 'gwych'. Roedd y plant yn awyddus i ddysgu mwy am y Wlad Fach ac am yr hyn oedd o gwmpas ynyddo.  Roedd hi'n hynod o wych iddynt ddysgu mor fawr.
+
+Ac felly, yn y Wlad Fach, roedd yr ysgol feithrin yn cadw'r plant yn gyffrous, ac yn eu helpu i ddysgu a'u galluogi i fwynhau'r byd o gwmpas nhw.  Roedd y Wlad Fach yn falch o'i blant, a'u gorffennol ac yn eu dyfodol.
+
+Roedd yr ysgol feithrin yn lle o hwyl a dysgu, lle bydd y plant yn tyfu i fod yn bobl dda ac yn garedig, yn canu caneuon yn y goedwig a'u cyfarfod yn eu cartrefi.
+</body>

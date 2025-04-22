@@ -1,0 +1,71 @@
+<prompt>
+Please write a light-hearted Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Thành Phố Của Những Ước Mơ'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>vi</lang_id>
+
+```xml
+<title>Thành Phố Của Những Ước Mơ</title>
+<body>
+Một ngày nọ, tại một ngôi làng nhỏ bé nép mình bên bờ sông Hương thơ mộng, có một cô bé tên là Mai. Mai là một cô bé có đôi mắt to tròn, đen láy, luôn lấp lánh những tia hiếu kỳ. Cô thích nhất là những câu chuyện cổ tích và những giấc mơ. Cô thường trốn mẹ ra vườn sau nhà, nằm dài trên bãi cỏ xanh mướt, ngắm nhìn những đám mây trắng bồng bềnh trôi, tưởng tượng ra những điều kỳ diệu.
+
+Mai có một người bạn thân thiết là chú Sóc Nâu. Chú Sóc Nâu này không giống những chú sóc khác, chú có khả năng nói chuyện, và thích nhất là ăn hạt dẻ mà Mai hay cho. Một buổi chiều nọ, khi Mai đang ngồi dưới gốc cây đa cổ thụ, chú Sóc Nâu nhảy nhót đến gần, mắt ánh lên vẻ bí hiểm.
+
+"Mai ơi," chú Sóc Nâu nói, "tớ có một bí mật muốn kể cho cậu nghe. Tớ biết một nơi rất đặc biệt, nơi mà tất cả những ước mơ đều trở thành sự thật."
+
+Đôi mắt Mai càng mở to hơn. "Thật á? Ở đâu vậy chú Sóc Nâu?"
+
+Chú Sóc Nâu hất hàm về phía chân trời xa xăm. "Ở đằng xa kia, bên kia dãy núi, là Thành Phố Của Những Ước Mơ."
+
+"Thành Phố Của Những Ước Mơ?" Mai lẩm bẩm. Cô đã từng mơ về một nơi như vậy, nơi cô có thể gặp những nàng công chúa xinh đẹp, những chú rồng dũng mãnh, và thậm chí là bay lượn trên bầu trời.
+
+"Đúng vậy," chú Sóc Nâu gật đầu. "Và tớ biết đường đến đó. Cậu có muốn đi không?"
+
+Mai không chần chừ một giây. Cô gật đầu lia lịa. Thế là, hai người bạn cùng nhau chuẩn bị cho một cuộc hành trình phiêu lưu đầy thú vị. Họ thu thập một ít hạt dẻ, vài quả xoài chín mọng, và một chiếc ô nhỏ để che nắng.
+
+Buổi sáng hôm sau, mặt trời vừa ló dạng, Mai và chú Sóc Nâu đã khởi hành. Họ đi bộ qua những cánh đồng lúa vàng ươm, băng qua những con suối róc rách, và trèo đèo lội suối. Trên đường đi, họ gặp rất nhiều điều kỳ lạ.
+
+Họ gặp bác Vẹt Xanh, người có thể nói được mọi ngôn ngữ trên thế giới. Bác Vẹt Xanh chỉ cho họ con đường đúng.
+
+Họ gặp anh Thỏ Trắng, người có thể chạy nhanh hơn cả gió. Anh Thỏ Trắng giúp họ vượt qua một con sông lớn.
+
+Họ gặp cô Gà Mái Mơ, người có thể đẻ ra những quả trứng có đủ màu sắc. Cô Gà Mái Mơ cho họ những quả trứng đặc biệt, chúng có thể giúp họ vượt qua những thử thách.
+
+Cuộc hành trình của họ không hề dễ dàng. Họ phải đối mặt với những cơn mưa rào bất chợt, những con đường trơn trượt, và những con thú dữ. Nhưng với lòng dũng cảm và sự giúp đỡ của những người bạn mới quen, họ luôn vượt qua được mọi khó khăn.
+
+Sau nhiều ngày đêm đi bộ, cuối cùng, họ cũng nhìn thấy Thành Phố Của Những Ước Mơ. Đó là một thành phố tráng lệ, lấp lánh ánh vàng dưới ánh mặt trời. Những tòa nhà cao chọc trời được xây dựng bằng kẹo, bánh, và trái cây. Những con đường được lát bằng socola. Trên bầu trời, những chú chim cánh cụt bay lượn, và những con rồng đủ màu sắc thi nhau phun ra những tia cầu vồng.
+
+Mai và chú Sóc Nâu vô cùng ngạc nhiên và phấn khích. Họ bước vào thành phố, và lập tức được chào đón bởi những người dân thân thiện, vui vẻ.
+
+Mai ước gì có một căn nhà thật lớn, với một khu vườn đầy hoa, và một bể bơi đầy kem. Ngay lập tức, ước mơ của cô trở thành hiện thực. Cô có một ngôi nhà tuyệt đẹp như trong cổ tích.
+
+Chú Sóc Nâu ước gì có thể ăn tất cả hạt dẻ trên thế giới. Tức thì, một núi hạt dẻ khổng lồ xuất hiện trước mặt chú.
+
+Nhưng sau một thời gian sống trong Thành Phố Của Những Ước Mơ, Mai bắt đầu cảm thấy một điều gì đó không đúng. Cô có tất cả những gì cô muốn, nhưng cô cảm thấy trống rỗng. Cô không còn cảm thấy vui vẻ như trước nữa. Cô nhớ ngôi nhà của mình, khu vườn sau nhà, và cả những người bạn ở quê hương.
+
+Chú Sóc Nâu cũng cảm thấy như vậy. Chú không còn háo hức với hạt dẻ như trước. Chú nhớ những cuộc phiêu lưu, những thử thách, và tình bạn với Mai.
+
+Hai người bạn ngồi xuống, tâm sự với nhau. Họ nhận ra rằng, những điều làm nên hạnh phúc không phải là những thứ vật chất, mà là những tình cảm, những trải nghiệm, và những mối quan hệ.
+
+"Tớ muốn về nhà," Mai nói, giọng buồn bã. "Tớ nhớ mẹ, nhớ bạn bè, nhớ ngôi làng của mình."
+
+"Tớ cũng vậy," chú Sóc Nâu nói. "Tớ nhớ cậu, Mai. Tớ nhớ những chuyến phiêu lưu của chúng ta."
+
+Khi cả hai cùng nhau mong muốn rời khỏi Thành Phố Của Những Ước Mơ, một luồng ánh sáng kỳ diệu bao quanh họ. Họ tỉnh dậy trong một khu rừng quen thuộc, bên cạnh một dòng suối róc rách. Họ nhìn nhau, và cùng cười hạnh phúc.
+
+Họ trở về nhà, ôm chầm lấy mẹ, và kể cho mẹ nghe về cuộc phiêu lưu kỳ diệu của mình. Mẹ Mai nghe xong, mỉm cười và nói: "Đúng là những giấc mơ đôi khi cũng có những bài học giá trị."
+
+Mai hiểu rằng, cuộc sống không phải lúc nào cũng hoàn hảo. Đôi khi, chúng ta phải đối mặt với những khó khăn, những thử thách. Nhưng chính những điều đó mới làm cho cuộc sống trở nên ý nghĩa và đáng trân trọng.
+
+Từ đó, Mai và chú Sóc Nâu vẫn tiếp tục phiêu lưu, nhưng họ không còn tìm kiếm những giấc mơ viển vông nữa. Họ tìm kiếm những niềm vui nhỏ bé trong cuộc sống hàng ngày, trân trọng tình bạn, và yêu thương những người xung quanh. Họ biết rằng, hạnh phúc thực sự nằm ngay trong trái tim mình, và ở bên cạnh những người mình yêu thương.
+
+Và cứ như thế, câu chuyện về Thành Phố Của Những Ước Mơ trở thành một kỷ niệm đẹp đẽ, một bài học quý giá, luôn nhắc nhở Mai về giá trị của tình bạn, lòng dũng cảm, và những điều giản dị trong cuộc sống.
+</body>
+```

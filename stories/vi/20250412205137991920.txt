@@ -1,0 +1,47 @@
+<prompt>
+Please write a emotional Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Truyện cổ tích về nàng tiên cá và tình bạn dưới đáy đại dương sâu thẳm.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>vi</lang_id>
+
+```xml
+<title>Truyện cổ tích về nàng tiên cá và tình bạn dưới đáy đại dương sâu thẳm.</title>
+<body>
+Ngày xửa ngày xưa, dưới đáy đại dương xanh thẳm, nơi ánh nắng mặt trời chỉ còn là những tia le lói yếu ớt, có một vương quốc xinh đẹp mang tên Vương Quốc San Hô. Nơi đó, những nàng tiên cá với mái tóc óng ánh như ngọc trai, đuôi cá lấp lánh đủ màu sắc, sống vui vẻ và hòa thuận bên nhau. Trong số họ, nổi bật nhất là nàng tiên cá Maily, với đôi mắt xanh biếc như ngọc bích, nụ cười tươi tắn như ánh bình minh.
+
+Maily là một nàng tiên cá giàu lòng trắc ẩn và yêu thương. Nàng thích khám phá thế giới xung quanh, thích lắng nghe những câu chuyện của các loài sinh vật biển khác nhau. Mỗi ngày, Maily đều dành thời gian để bơi lội khắp Vương Quốc San Hô, trò chuyện cùng những chú cá nhỏ, những con sao biển nhiều màu sắc, và cả những rặng san hô lung linh.
+
+Một ngày nọ, khi đang rong ruổi khám phá một hang động bí ẩn, Maily nghe thấy tiếng kêu cứu yếu ớt. Nàng vội vàng bơi theo hướng phát ra âm thanh và phát hiện ra một chú rùa biển nhỏ bé đang bị mắc kẹt trong một lưới đánh cá bỏ hoang. Chú rùa nhỏ, với chiếc mai bị thương tích, đang cố gắng thoát ra nhưng vô vọng.
+
+Không một chút do dự, Maily lao đến giúp đỡ. Bằng sự khéo léo và kiên nhẫn, nàng từ từ gỡ những mắt lưới vướng víu ra khỏi mai chú rùa. Công việc rất khó khăn, những chiếc lưới sắc bén đã làm xước làn da của Maily, nhưng nàng vẫn cố gắng hết sức. Cuối cùng, chú rùa nhỏ cũng được giải thoát.
+
+Chú rùa nhỏ, tên là Khoi, vô cùng biết ơn Maily. Khoi kể rằng, trong lúc rong ruổi tìm kiếm thức ăn, chú đã vô tình vướng vào chiếc lưới đánh cá. May mắn gặp được Maily, chú đã thoát khỏi hiểm nguy. Từ đó, Maily và Khoi trở thành những người bạn thân thiết.
+
+Họ thường xuyên gặp gỡ, cùng nhau khám phá những bí ẩn dưới đáy biển. Maily kể cho Khoi nghe về những điều thú vị trên cạn, về ánh nắng mặt trời ấm áp, về những khu rừng xanh tươi. Khoi lại kể cho Maily nghe về những dòng hải lưu kỳ lạ, về những loài sinh vật biển quý hiếm. Tình bạn của họ ngày càng sâu sắc, vượt qua mọi ranh giới, mọi khác biệt.
+
+Một ngày kia, Vương Quốc San Hô bị tấn công bởi một loài sinh vật biển hung dữ, Kraken. Kraken là một loài mực khổng lồ với những xúc tu dài và mạnh mẽ, sẵn sàng nuốt chửng bất cứ thứ gì trên đường đi. Vương Quốc San Hô chìm trong hỗn loạn. Các nàng tiên cá hoảng sợ, những chú cá nhỏ hoảng loạn. Kraken tàn phá mọi thứ, phá hủy những rặng san hô tuyệt đẹp, đe dọa đến sự sống của tất cả cư dân dưới biển.
+
+Khi hay tin, Maily lập tức quyết định giúp đỡ. Nàng biết rằng một mình mình không thể đánh bại Kraken, nhưng nàng không thể khoanh tay đứng nhìn. Nàng bơi đến chỗ Khoi và kể cho bạn nghe về tình hình. Khoi, mặc dù sợ hãi, vẫn quyết định đồng hành cùng Maily.
+
+Hai người bạn cùng nhau tìm đến những vị trưởng lão thông thái của biển cả, những người có kiến thức uyên thâm về Kraken và cách đối phó với nó. Các vị trưởng lão cho biết, để đánh bại Kraken, cần phải tìm được một viên ngọc trai kỳ diệu, có khả năng làm suy yếu sức mạnh của nó. Viên ngọc trai đó nằm sâu trong hang động của một loài cá mập hung dữ, kẻ thù không đội trời chung của Vương Quốc San Hô.
+
+Maily và Khoi không hề nản lòng. Họ quyết tâm tìm kiếm viên ngọc trai. Hành trình của họ đầy gian nan và thử thách. Họ phải vượt qua những dòng hải lưu xoáy, tránh những con cá mập đói khát, đối mặt với những hiểm nguy rình rập. Nhưng tình bạn và lòng dũng cảm đã giúp họ vượt qua tất cả.
+
+Cuối cùng, sau bao nhiêu khó khăn, họ cũng tìm thấy hang động của cá mập. Maily và Khoi phải đối mặt với con cá mập hung dữ. Con cá mập tấn công điên cuồng, cố gắng nuốt chửng hai người bạn. Nhưng nhờ sự nhanh nhẹn và thông minh, Maily và Khoi đã tránh được những cú tấn công của nó.
+
+Trong lúc con cá mập mất tập trung, Maily đã nhanh chóng lẻn vào hang động và tìm thấy viên ngọc trai kỳ diệu. Viên ngọc trai phát ra ánh sáng rực rỡ, xua tan bóng tối và làm suy yếu sức mạnh của cá mập. Con cá mập hoảng sợ, bỏ chạy vào sâu trong hang động.
+
+Maily và Khoi mang viên ngọc trai trở lại Vương Quốc San Hô. Họ cùng nhau chiến đấu với Kraken. Maily sử dụng viên ngọc trai để chiếu sáng Kraken, làm cho những xúc tu của nó trở nên yếu ớt và không còn hung hãn như trước. Các nàng tiên cá và các loài sinh vật biển khác, với sự dũng cảm và quyết tâm, cùng nhau tấn công Kraken.
+
+Cuộc chiến diễn ra vô cùng ác liệt. Kraken, bị suy yếu bởi ánh sáng của viên ngọc trai và sự tấn công của cả cộng đồng biển cả, cuối cùng cũng bị đánh bại. Kraken rút lui, trốn thoát khỏi Vương Quốc San Hô.
+
+Vương Quốc San Hô được giải phóng khỏi hiểm nguy. Các cư dân biển cả vui mừng khôn xiết. Họ ca ngợi Maily và Khoi là những người hùng đã cứu vương quốc. Tình bạn của Maily và Khoi, sự dũng cảm và lòng trắc ẩn của họ đã trở thành huyền thoại, được truyền lại từ đời này sang đời khác.
+
+Từ đó, Vương Quốc San Hô lại trở lại cuộc sống yên bình và hạnh phúc. Maily và Khoi, hai người bạn thân thiết, tiếp tục khám phá thế giới dưới biển cả, cùng nhau chia sẻ những niềm vui và nỗi buồn. Tình bạn của họ, vượt qua mọi thử thách, mãi mãi là một bài học quý giá về tình yêu thương, sự dũng cảm và sự đồng hành.

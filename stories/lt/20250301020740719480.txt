@@ -1,0 +1,40 @@
+<prompt>
+Please write a simple and easy-to-follow Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Žemės ir dangaus sandėris ir stebuklai'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lt</lang_id>
+
+<title>Žemės ir dangaus sandėris ir stebuklai</title>
+<body>
+Rūko apgaubtas miškas, kurį nuolat bučiuodavo ryto saulė ir vakaro žvaigždės, slėpė paslaptingą istoriją. Jo širdyje, tarp milžiniškų ąžuolų ir švelnių beržų, gyveno maža mergaitė, vardu Eglė. Eglė buvo žavi ir linksma, su akimis, žėrinčiomis kaip rasa ant žolės. Ji svajodavo apie stebuklus, apie pasaulio paslaptis, slepiančias šį nuostabų pasaulį.
+
+Vieną saulėtą rytą, skrodamas žalių lapų gaubtą, Eglė pamatė kažką neįprasto. Senas, plikas ąžuolas, kuris tarsi žiūrintysis senolis saugojo miško tylią širdį, žydėjo neįprastais, nuostabiais gėlių debesimis.  Gėlės skleidė nepaprastą aromatą, tarsi iš debesų atsineštą, jų spalvos bėgo į visas pasaulio puses kaip įvairūs saulėlydžiai. Eglė pribėgo ir pasilenkė, kad pasigrožėtų nepaprasta grožybe.  Bet tada pajuto kažką švelnaus ir žaviai silpna prie savo rankos.  Tai buvo mažas,  sprogstantis  meškiukas su mielais rudiausiais plaukeliais.
+
+"Sveika, mažoji," tarė meškiukas, kuris buvo žavingai gražus. "Aš esu Žemės sergėtojas. Dabar žiemos gėlės atskleidžia  savo paslaptį dėl mūsų  gyvenimo, bet prieš tai - norime sandėrio."
+
+Eglė su išdidumu suspaudė kumščius: "Sandėris?  Kodėl man jį reikia pasirašyti?  Aš noriu žinoti, ką dangaus sandėlis  paruošęs man ir pasauliui?"
+
+Žemės sergėtojas palengvino jai išsišiepė: "Sandėris labai paprastas, mano mažoji: tu turi surinkti septynias paslapčių gėles, kiekvieną spalvų pasakymą, kuriuo  išryškėja stebuklas."  Tada jis nuostabiai paaiškino.
+
+Pirmoji gėlė buvo rožinė, žyminti gėrio švelnumą. Eglė su malonumu atnešė tai, prisimindama savo šypseną. Antroji gėlė buvo mėlyna, pasaulio grožio ženklą. Jos elegancija padarė Eglę labai šalta.  Trečioji, oranžinė, atstovavo drąsiai saulės šilumai.  Jos energinga galia  atvėrė kelią prie nepaprastų išminčių. Ketvirtoji, aukso, skleidė gyvenimo energijos jėgą.  Ji užpildė ją drąsa, lydima geriausio žvilgsnio. Penktoji, smaragdinė, kalbėjo apie miško slėpinius, ir jos šypsena  nuspalvino jos akis žalumo žvilgėsnu.  Šeštoji gėlė, balta, simbolizavo gryną meilę. Švelnūs debesys buvo perlaiski, paverčiant Eglę žaviomis gražiai.  Septinta, sidabrinė gėlė – simbolis viso pasaulio žavesio.  Eglės širdis plakdavo kaip paukščio sparnai dangumi.
+
+Kai Eglė surinko visas septynias gėles, Žemės sergėtojas atsiduso. Šalia jo pasirodė dangaus sergėtojas – būtybė su sparnais, švelniais kaip debesys, ir akimis kaip žvaigždės.  "Nenuostabu," jis atsiduso su išdidumu. "Tavo širdis įpynė žvilgsnius į paslaptingą žemesnius ir aukštesnius kraštus."
+
+
+"Dabar," pasakė Žemės sergėtojas, "atvyko stebuklas."
+
+Miškas sudrebėjo. Viskas aplink Eglę nušvito ryškiai žalia spalva. Išžydėjo daug paslaptingų augalų. Pasikeitė debesys.  Tarp miško medžių pasirodė įvairių formų medžiai ir lapai, pavyzdžiui, su medvilniniu kilimu. Tai buvo naujas gyvenimo sujungimo pasaulis!
+
+
+Šiuo stebuklingu momentu, Eglė suprato paslapties galybę, sandėrio magiją. Ji supranto paslaptį tarp dangaus ir žemės. Eglė nurimo ir suvokimu, iškilu virš žolės lapo. Visa aplinka pakeitė ją, ir tada ji rado džiaugsmą ir ramybę savo širdyje. Eglė suprato: kad džiaugsmui tereikia pažiūrėti pro šypseną.
+
+
+Taip, tarp rūko apgaubto miško ir beskleidžiančios šviesos, Eglė  pažinojo didžiulį sandėrį tarp Žemės ir Dangaus. O stebuklų nuotykiai dar laukė  paslėptose jos širdies kamputuose.
+</body>

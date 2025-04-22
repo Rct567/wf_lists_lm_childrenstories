@@ -1,0 +1,85 @@
+<prompt>
+Please write a uncomplicated Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Zimowe Zabawy Małych Bałwanków'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pl</lang_id>
+
+```xml
+<title>Zimowe Zabawy Małych Bałwanków</title>
+<body>
+Pewnego mroźnego poranka, gdy słońce wschodziło, rzucając różowe i złote światło na zaśnieżony las, obudziły się trzy małe bałwanki. Mieszkały w samym sercu zimowej krainy, otoczone srebrzystymi drzewami i puszystym śniegiem. Ich oczy, zrobione z czarnych węgli, błyszczały radością, a usta, z pomarańczowych marchewek, uśmiechały się szeroko.
+
+Pierwszy bałwanek, najmniejszy z nich, miał na imię Igorek. Był bardzo energiczny i zawsze gotowy do zabawy. Jego kapelusz, wykonany z szarego liścia, przekrzywiał się na bok, kiedy Igorek biegł w śniegu. Drugi bałwanek, średniego wzrostu, nazywał się Olafek. Był troszkę nieśmiały, ale bardzo serdeczny. Jego szalik, tkany przez mamę z wełny, chronił go przed zimnem. Ostatni bałwanek, największy z całej trójki, to był Gustaw. Gustaw był silny i odważny, a jego czarny kapelusz wyglądał bardzo dumnie.
+
+"Dzień dobry!" zawołał Igorek, wyskakując ze swojego śnieżnego domku. "Jest tak pięknie! Co będziemy dziś robić?"
+
+Olafek otworzył swoje czarne oczy szerzej ze zdziwienia. "Dzień dobry, Igorku! No cóż… ja myślałem o zrobieniu fortu ze śniegu…"
+
+Gustaw, stojąc obok, skinął głową. "To świetny pomysł, Olafku! Możemy zrobić największy fort w całej dolinie!"
+
+Zanim słońce w pełni wzeszło, cała trójka zabrała się do pracy. Igorek skakał z radości, tocząc duże śnieżne kule. Olafek, mimo swojej nieśmiałości, pomagał układać je w solidne mury. Gustaw, z potężnymi rękami, budował wieże fortu.
+
+Zimowy wiatr hulał między drzewami, ale bałwanki były zajęte i wcale go nie zauważały. Śpiewały wesołe piosenki o zimie, o śniegu i o zabawie. Śpiewały o ptaszkach, które uciekały przed zimnem i o wiewiórkach, które chowały orzechy pod śniegiem. Śpiewały o wszystkim, co je cieszyło.
+
+Kiedy fort był już prawie gotowy, Igorek zauważył coś w oddali. "Patrzcie!" zawołał, wskazując palcem w kierunku lasu. "Tam, w lesie, ktoś się bawi!"
+
+Cała trójka spojrzała w tamtym kierunku. Rzeczywiście, między drzewami widać było ślady. To musiały być ślady zwierząt! Ale czyich?
+
+"Może to są zające?" zapytał Olafek, zaciekawiony.
+
+"A może lisy?" odparł Gustaw, udając groźnego.
+
+"Pójdźmy zobaczyć!" krzyknął Igorek, który już chciał ruszyć w stronę lasu.
+
+"Poczekaj!" powiedział Gustaw. "Musimy być ostrożni. Las to niebezpieczne miejsce. Weźmiemy ze sobą prowiant!"
+
+Gustaw wyjął z małego koszyka kilka marchewek (bo przecież bałwanki uwielbiały marchewki!), a Olafek wziął ze sobą termos z gorącą czekoladą, którą przygotowała jego mama. Zabrał także małą, ręcznie robioną drewnianą łopatkę, gdyby trzeba było odkopać kogoś spod śniegu.
+
+Weszli do lasu ostrożnie, stawiając maleńkie stópki na puchowatym śniegu. Śnieg skrzypiał pod ich stopami. Słyszeli odgłosy ptaków, wiatr śpiewał w gałęziach drzew, a Igorek czuł zapach sosnowego lasu. W oddali zobaczyli małą polanę, a na niej… małe wiewiórki! Były ich setki! Bawiły się, skakały po gałęziach i szukały ukrytych orzechów.
+
+Bałwanki podeszły bliżej, starając się nie hałasować. Wiewiórki zauważyły ich i na moment zastygły, patrząc na nie ze zdziwieniem.
+
+"Cześć!" zawołał Igorek, machając do nich. "Możemy się z wami pobawić?"
+
+Jedna z wiewiórek, najodważniejsza, zeskoczyła z drzewa i podeszła do bałwanków. "Jasne!" powiedziała. "Witamy w naszym lesie! Lubimy, kiedy ktoś do nas zagląda!"
+
+W ten sposób bałwanki dołączyły do zabawy wiewiórek. Zjeżdżali razem na sankach ze wzgórza, rzucali się śnieżkami i szukali ukrytych orzechów. Wiewiórki pokazały im swoje ulubione miejsca w lesie, a bałwanki podzieliły się z nimi marchewkami i czekoladą.
+
+Później, kiedy słońce zaczęło zachodzić, czas było wracać. Bałwanki pożegnały się z wiewiórkami, obiecując, że przyjdą jutro na kolejne zabawy. Zadowolone, wrócili do swojego fortu.
+
+"To był wspaniały dzień!" powiedział Olafek, uśmiechając się.
+
+"Tak!" zgodził się Igorek. "Nawet nie wiedziałem, że zabawa z wiewiórkami może być tak fajna!"
+
+Gustaw skinął głową. "Musimy pamiętać, że nie jesteśmy sami na tym świecie. Są wokół nas inne stworzenia, które tak jak my, chcą się bawić i cieszyć życiem."
+
+Wrócili do swojego fortu, a wokół panowała już ciemność. Wiatr ucichł, a śnieg lśnił w świetle gwiazd. W swoim forcie bałwanki poczuły się bardzo bezpiecznie i ciepło.
+
+Przez cały tydzień, każdego dnia, bałwanki bawiły się z wiewiórkami. Budowali jeszcze większe forty, lepili bałwany z liści, tańczyli wokół choinki, którą udekorowali błyszczącymi szyszkami i czerwonymi owocami jarzębiny. Bawili się w chowanego i ścigali się na sankach. Każdego wieczoru, wracając do swoich śnieżnych domków, opowiadali sobie, co się dzisiaj wydarzyło.
+
+Pewnego dnia spadł duży śnieg. Wszystko dookoła było białe i puchowe. Igorek, Olafek i Gustaw poczuli w sercu smutek. Wiewiórki gdzieś się schowały. Wiedziały, że teraz potrzebują spokoju i schronienia, by przetrwać zimę.
+
+"Może powinniśmy zrobić coś, żeby im pomóc?" zapytał Olafek.
+
+Gustaw przytaknął. "Pamiętajmy, co robili dla nas, kiedy byliśmy razem. Zbudujmy im schronisko!"
+
+Tak też zrobili. Pracowali razem, używając śniegu, gałęzi i suchych liści, by zbudować ciepłe i bezpieczne schronisko dla wiewiórek. Znaleźli również kilka ukrytych orzechów, które wiewiórki schowały w zeszłym roku. W ten sposób zrobili im zapasy na zimę.
+
+Kiedy schronisko było gotowe, z radością patrzyli, jak wiewiórki przenoszą się do swojego nowego domu. Podziękowały bałwankom, merdając ogonkami i obiecując, że będą czekać na nich wiosną.
+
+Zima trwała dalej, ale bałwankom nie było smutno. Wiedzeli, że zrobili coś dobrego, i że ich przyjaźń z wiewiórkami przetrwa zimę. Zaczęli budować domek dla ptaków, aby te również miały schronienie. Przygotowali także karmniki i napełnili je nasionami. Cieszyli się każdym dniem zimy.
+
+Pewnego dnia, gdy słońce zaczęło świecić mocniej, a śnieg powoli się topił, bałwanki usłyszały znajomy głos. To były wiewiórki! Wyszły z lasu, podekscytowane, i pobiegły do bałwanków.
+
+"Wiosna!" krzyknęły. "Już niedługo!"
+
+Bałwanki uśmiechnęły się szeroko. Cieszyli się z powrotu wiewiórek, radośnie skakały i wirowały wokół siebie. Ich marchewkowe usta uśmiechały się najszerzej na świecie. Zaczęła się nowa pora roku, pełna słońca, kwiatów i nowych przygód, ale pamiętali o zimie, w której nauczyli się, jak ważna jest przyjaźń i wzajemna pomoc.
+</body>
+```

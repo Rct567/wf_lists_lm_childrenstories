@@ -1,0 +1,38 @@
+<prompt>
+Please write a timeless Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Merihevon ja delfiinin ystävyys ja seikkailut'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>fi</lang_id>
+
+<title>Merihevon ja delfiinin ystävyys ja seikkailut</title>
+<body>
+Kerran, kirkkaassa Suomenlahden vedessä, asui merihevonen nimeltä Veera.  Hänellä oli kauniit, pitkät, ruskeat harjat ja silmät kuin smaragdit.  Veera oli hyvin yksinäinen.  Muut merihevoset viettivät aikaansa leikkimässä koralliriuttojen suojissa, mutta Veera halusi enemmän.  Hän halusi seikkailla ja oppia uutta.
+
+Yhtenä aurinkoisena päivänä, kun Veera uiskenteli merenpohjan lähellä etsien outoja merikukkaroita, hän kuuli outoa ääntä.  Ääni kuului syvemmiltä vesiltä, ja se oli kuin laulava hymy.  Veera uiskenteli hitaasti kohti ääntä ja pian hänen edessään avautui valtaisa mustavalkoinen laaja.  Se oli delfiini, ja se oli kuin tähti. Se oli upein olento, jota Veera oli koskaan nähnyt.  Delfiini hymyili Veeralta, ja hänen kauniit hampaansa loistavat auringonvalossa.
+
+"Hei", sanoi delfiini iloisella äänellä, joka soi kuin merivedet. "Minun nimeni on Elmo. Ja sinä?"
+
+"Minä olen Veera, merihevonen", hän vastasi, hermostuen hieman delfiinin hurmaavasta olemuksesta.
+
+Elmo hymyili uudelleen.  "Olet todella kaunis.  Haluaisitko seikkailla kanssani?"
+
+Veera, jonka sydän oli täynnä uteliaisuutta, hyppäsi suostumuksella.  He alkoivat uiskella yhdessä. Elmo opetti Veeralle monia merieläinten salaisuuksia. Hän näytti hänelle, miten delfiinit kommunikoivat, miten he löytävät ruokaa ja miten he suojaavat itseään vaarallisia petoja vastaan.  Veera oppi kuuntelemaan merta, havaitsemaan pieniä merilevämme liikkeitä ja tuntemaan virtausten rytmin.
+
+Yhdessä he löysivät valtavan koralliriutan, jossa asui satoja erikoisia kaloja.  He näkivät villieläimiä, jotka uivat vedessä ja kaikenlainen ihmeellinen, aivan kuin maaginen maailma.  Elmo osoitti Veeralle värikkäitä kaloja, joilla oli kirkkaat silmät ja kuviollisia asteikkoja. Hän kertoi Veeralle, että jokainen kala oli kuin pieni taideteos.  He pelastivat kadonneen merikilpikonnan ja löysivät salaisen merenpohjan, joka oli täynnä helmiä.
+
+Yksi seikkailuksista johti heidät vaaralliselle alueelle, jossa asui vaarallinen merikobra.  Elmo, joka oli luonnon oppinut ja kokenut, ohjasi Veeralle turvallisen reitin ja varoitti kaikkia vaarallisia olentoja.
+
+Yhtenä päivänä Elmo kertoi Veeralle, että hän lähti matkalle.  Hän oli tulossa takaisin pian, mutta hän tarvitsi matkalla lisää kokemuksia. "Muista seikkailla ja löytää oman polkusi", Elmo sanoi.
+
+Veera oli surullinen, että Elmo lähti, mutta iloinen, että he olivat olleet yhdessä niin monen upean seikkailun aikana. Hän oli oppinut, että ystävyys voi kuljettaa sinua myös syvimmässä meressä ja aivan kuten Elmo oli opettanut, myös hän voi tehdä uusia ystävyyksiä.  Veera jatkoi seikkailujaan, mieleen jääneillä elämyksillä ja Elmon viisaudella.  Hän oppi, että on tärkeää olla utelias ja avoin uusille kokemuksille ja että ystävyys voi tehdä kaikista seikkailuista vieläkin kiehtovampia.  Veera muisti Elmon sanoja ja seikkaili edelleen Suomenlahdella, rikastuttaen kokemuksiaan uusilla ystävyyksillä, jotka hän löysi seikkailuillaan.
+
+
+Yhdessä heidän seikkailunsa osoittavat, että ystävyys ja yhteistyö ovat upeita voimia, jotka voivat voittaa kaikki haasteet ja avaavat oven upeimpiin seikkailuihin.  Ja niin Veera ja Elmo jatkoivat uutta seikkailuaan, mutta tämä tarina, seikkailun tarina, jatkui ja jatkui.
+</body>

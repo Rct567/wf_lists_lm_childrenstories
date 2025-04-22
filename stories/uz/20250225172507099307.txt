@@ -1,0 +1,35 @@
+<prompt>
+Please write a silly Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Qishda uyqusida qolgan va ertaklar'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>Qishda uyqusida qolgan va ertaklar</title>
+<body>
+Qishning sovuq shamoli, tongning qorli nafaslari bilan uyg'ongan qishloqda,  Kichkina, ammo qiziqarli qizaloq,  G'uncha ismli bir qiz yashagandi. G'uncha katta ko'zlari, uzun qoshlari va har doim tabassum bilan porlagan qalbiga ega edi. Lekin u boshqa bolalardan farq qilar edi.  U ertaklarni juda sevdi, har bir hikoyada o'zining kichkina dunyosini topdi.
+
+Bir kuni, qishning eng sovuq kunlaridan birida, G'uncha uyining eshigi yonida turib, qor parchalari bilan o'ynab o'tirardi.  Oq yumshoq qor,  quyosh nurlari bilan yorqinlashgan bir g'ayrioddiy go'zallikni yaratib berdi.  G'uncha, qor parchalarining yaxlitligiga hayrat bilan qaray boshladi.  U birdan qor bilan o'ynashni to'xtatib, orqa tomondagi eski,  kattaligi ko'zlarga tashlanadigan kitob javoniga qarab qo'ydi.
+
+Uning ko'zlari ko'plab o'ziga xos va nafis kitoblarga qaratildi.  Uning orasidan,  qizil rangli, qalin qopqog'i bor,  ko'p qirrali kitob ko'ziga tashlandi.  Kitobning nomini o'qib,  G'uncha hayratda qoldi.  "Uyqusida qolgan ertaklar" deb yozilgan edi.  G'uncha qo'lidan tutib, bir joyga  olib bordi va o'qishni boshladi.
+
+Kitobning birinchi sahifasidan boshlab,  o'zining qalbi va tasavvuriga boy,  hayratlanarli va qiziqarli hikoyalarni boshlagandi.  Ular bir qatorda chizmalar bilan bezatilgandi.  Ertaklarda,  sehrli hayvonlar va ajoyib,  tashrif buyurishni istagan boshqa dunyolar haqida hikoya qilingan.  G'uncha, o'qib,  o'zining aql-idrok dunyosini kengaytirib bordi.
+
+Birinchi hikoya,  "Oltin Qush va Qorong'i Tog'lar" haqida edi.  Hikoyada,  qorong'i tog'larda,  yo'qolgan bir oltin qushni qidirib topish uchun,  bir qishloqdagi qizaloq va uning do'sti,  bir qalbinga ega bo'lgan qalbaki qushni  qidirishni davom ettirdilar.  G'uncha,  bu voqealarni o'qib,  o'zining qalbida ham  qorong'i va yorqinlik o'rtasida o'ziga o'xshash bir narsani  topdi.  U qishning sovuqligiga qaramay,  o'zining ko'ngli osmoniga uzoq vaqt qarab,  qalbida ilhom izlab o'tirardi.
+
+Keyingi hikoyada,  "Samoyorning uchuvchi do'stlari" haqida gap ketardi.  Hikoyada,  samoyor,  ulduzlar bilan o'ynab,  dunyoning har bir burchagiga uchadigan,  uzoq yurishga tayyor bo'lgan do'stlar bilan birga bo'lib,  birgalikda  ko'pgina ertaklarga uchrashadilar.   G'uncha, bu ertakni o'qib, o'zining dunyosi, hayratlanarli va ilhomlantiruvchi tasavvurlar dunyosini kengaytiradi.
+
+G'uncha,  uyqusida qolgan ertaklar kitobini o'qib,  oqshom bo'ylab uyquga ketishni xohlamagandi.  U o'zi bilan birgalikda ertaklar dunyosi hayajonli va qiziqarli sarguzashtlarga to'la edi.  Bu hikoyalar,  u uchun,  dunyo haqida keng,  boy va  hayratlanarli bir g'oyani yaratib bergandi.  Qishning sovuq shamoli eshib turardi, lekin G'uncha o'zining qalbida quyosh nurlarini  his qilardi.
+
+Bir kun,  G'uncha uyqusida qolgan ertaklarni o'qishni tugatib,  to'xtatib qo'ydi. U o'zining dunyosi haqida o'ylay boshladi.  "Mendan qiziqroq hikoyalar yo'qmi?",  degan savol tug'ilgan edi.  Va u,  o'zining ichki dunyosidan,  o'zining yangi va ajoyib ertaklarini yaratishga kirishdi.  G'uncha,  qor yomg'iri,  tabiatning o'ziga xosligi va har bir kichik narsani yoqtirish bilan birga o'ziga mos bo'lgan dunyosini kengaytirib bordi.
+
+U o'zining ertaklarini yozishni boshladi va qishning sovuq kunlari ham quvonch bilan o'tdi.  G'uncha,  o'zining yosh qalbi va hayratlanarli tasavvur dunyosida,  o'zining  yangi va hayajonli ertaklarini yaratib,  o'zining dunyosida yoqimli hayotini davom ettirardi.
+
+
+</body>

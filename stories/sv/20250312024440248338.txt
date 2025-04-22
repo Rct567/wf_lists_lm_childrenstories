@@ -1,0 +1,40 @@
+<prompt>
+Please write a funny Swedish children's story that is at least 1000 words long.
+It must be completely written in proper Swedish (SV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'När den snälla vargen räddade de små kaninerna i den djupa skogen.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sv</lang_id>
+
+<title>När den snälla vargen räddade de små kaninerna i den djupa skogen.</title><body>
+Det var en gång, i en djupare skog än någon annan skog, en liten bygd med kantiga kullar och en bäck som susade som ett leende. I den här skogen bodde en stor varg, men inte vilken varg som helst. Denna varg hette Viktor och han var faktiskt väldigt snäll.  Snällare än de allra flesta människor, kunde man säga.  Viktor älskade att hjälpa till, men han hade ett lite knepigt sätt att uttrycka sin vänlighet. Det var bland annat svårt för honom att behålla en seriös min.
+
+Viktor hade lagt märke till en liten familj av kaniner som hade börjat bo djupt inne i skogen, precis vid den mystiska bergsryggen som sprack med en massa märkliga hål.  Kaninerna, särskilt den lille Kalle Kanin, var otroligt rädda för alla varelser utom sina föräldrar. De hade en svag punkt – en stor, spännande, men samtidigt förskräckligt stor grop vid skogsbrynet. Det var ett mysigt hål, som såg ut som en gammal jätte-boll med ett lock av gröna lavar. Varje kväll hoppade kaninerna ned i gropen för att sova.
+
+Problemet var bara att detta spännande hål var den enda ingången till kaninhålen. Den stackars gropen hade blivit något av en mardröm för dem under dagen. Ett gäng av riktigt skräckinjagande älg hade den för vana att vandra runt i gropens krets och skrämma dem hela dagen. I skogens alla löv viskade skrämmande älgarna spökande rykten om stora, monsterlika vargar som vaktade varje kant av skogen.
+
+
+En morgon, när Kalle låg och drömde om sockerrör och morötter, vaknade han och stötte ihop med en vänlig snäll varm hand. En liten röst viskade, "Du behöver inte vara rädd, Kalle". Det var Viktor, den snälla vargen.
+
+"Varför är du här?" frågade Kalle, med en liten stönande röst.
+
+
+Viktor log ett stort, varmt leende som gjorde att hela skogskanten vibrerade lite.  "Jag märkte hur ni var rädda för älgarna. Så jag tänkte att jag kunde hjälpa er", sa Viktor med lite osäkerhet. "Men älgar... jag är inte säker på om jag kan förhindra älgarna att komma runt här varje dag".
+
+
+Kalle började prata hur jobbigt och otäckt det var. Medan Kalle pratade höjde Viktor upp en tass, drog ett djupt andetag, och vände sig mot gropen som hade förföljt hans tankar och känslor. Med sitt överlägsna vägledande, snälla hjärta gav Viktor sig på uppdraget. Han hade lärt sig att arbeta lite smidigare genom åren, när de upptäckt hur man kan förhindra älgarna.
+
+
+Den snälla vargen satte sig ner bredvid gropen och drog upp en speciell växt från marken, en växt som kunde skrämma bort älgarna. Växten luktade konstigt och märkligt gott, som en kombination av ingefära, svavel, och väldigt mysiga små ängsblommor. 
+
+
+Han började placera växten i gropens omkrets, varenda liten del som han viskade i öronen av varje växt. Alla blommor viskade vackra och lugnande smekningar i Viktor's öron. Han stämde upp en lite sövande sång som kom ihåg från de gamla dagar när älgarna var de första kaninboende i skogen, den sortens tidiga skogshistorier som hade varit ett stilla, lugnt flöde över skogsvinden. Älgarna blev så fascinerade av de ljuvliga och mystiska sånger att de började gå framåt med sina stora horn framåt och vända på hela sin kroppsstruktur.  Dessa dansande älgar kunde vända sina tunga kroppar så långt ut i gropen, tills de var fullständigt avskräckta från kaninbottnen och blev fullständigt avskräckta att hoppa in i den läskiga gropen igen. Viktor hade förtrollat dem att för alltid lämna kaninens bostäder.  Från det ögonblicket bodde kaninerna lugnt i sin underjordiska bygd utan att längre behöva oroa sig för älgarnas spökande vändningar. Kalle och alla de andra kaninerna tackade den snälla vargen Viktor för hans vänlighet och vänlighet och löfte om evigt uppskattning. Det sägs att till denna dag sitter den vänliga vargen där och spelar melodier i trädens lugn för att få kaninerna att känna sig säkra.
+
+
+Och så levde de alla lyckligt i flera generationer, medan skogarnas mysighet fortfarande var ett tecken på varje snäll hjälte som levde djupt inne i den gröna djungeln.
+</body>

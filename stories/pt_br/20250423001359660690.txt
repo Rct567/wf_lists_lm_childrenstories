@@ -1,0 +1,60 @@
+<prompt>
+Please write a silly Portuguese (Brazil) children's story that is at least 1000 words long.
+It must be completely written in proper Portuguese (Brazil) (PT_BR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'O Cavaleiro que Lutava Bravamente para Defender o Reino.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pt_br</lang_id>
+
+```xml
+<title>O Cavaleiro que Lutava Bravamente para Defender o Reino.</title>
+<body>
+Era uma vez, num reino muito, muito distante, onde as árvores faziam cócegas nas nuvens e os rios eram de suco de laranja, um cavaleiro. Mas não era um cavaleiro qualquer. Este era o Cavaleiro Pipoca! Sim, Cavaleiro Pipoca, porque ele adorava pipoca e sua armadura brilhava tanto quanto um balde gigante de manteiga derretida.
+
+O Cavaleiro Pipoca não era o mais forte, nem o mais corajoso, mas ele tinha uma qualidade que ninguém mais tinha: uma incrível habilidade para… fazer caretas! E ele achava que isso era fundamental para defender o reino de Piripacá, o reino onde morava.
+
+A tarefa dele era proteger a princesa Jujuba, uma garota que amava doces e tinha cabelo cor de algodão doce. A princesa Jujuba, apesar de ser doce como seu nome, era muito travessa e vivia aprontando.
+
+Um dia, um dragão, chamado Dragão Tosse-Tosse, resolveu aterrorizar o reino. O Dragão Tosse-Tosse não era um dragão qualquer. Ele espirrava fogo (mas também fazia um monte de "atchim!") e tinha uma mania horrível de roubar meias sujas das pessoas.
+
+Quando o Cavaleiro Pipoca ouviu a notícia, arregalou os olhos. "Um dragão que espirra fogo e rouba meias sujas?! Isso é o cúmulo!" ele exclamou, enquanto comia uma tigela de pipoca.
+
+A princesa Jujuba, vendo a aflição do Cavaleiro Pipoca, começou a rir. "Não se preocupe, Cavaleiro Pipoca! Aposto que você pode assustar o dragão com suas caretas!"
+
+O Cavaleiro Pipoca pensou um pouco, enquanto pegava um punhado de pipoca. A princesa Jujuba tinha uma ideia! Ele sempre esquecia que sua habilidade, embora boba, era na verdade muito boa para animar as pessoas e... assustar os vilões.
+
+Então, ele pegou sua espada de brinquedo (feita de madeira e decorada com estrelinhas), montou em seu pônei chamado Amendoim (que adorava cenoura) e partiu para a aventura.
+
+Chegando na caverna do Dragão Tosse-Tosse, o Cavaleiro Pipoca engoliu em seco. A caverna era escura, fedendo a enxofre e, acredite ou não, a meias sujas! O Dragão Tosse-Tosse estava lá dentro, com sua aparência imponente, suas escamas brilhantes e um monte de meias sujas acumuladas ao seu redor.
+
+O Cavaleiro Pipoca, nervoso, mas determinado, tentou começar com um discurso heroico. "Dragão Tosse-Tosse! Em nome do reino de Piripacá, eu… eu exijo que você pare de aterrorizar a população e… devolva as meias!"
+
+O Dragão Tosse-Tosse apenas soltou uma fumaça e um “tchimm!” (juntamente com um espirro). Ele não parecia nada impressionado.
+
+"Bem, se é assim...", pensou o Cavaleiro Pipoca. E, para a surpresa do Dragão Tosse-Tosse, ele começou a fazer caretas! Primeiro, ele fez uma careta de peixe, com os olhos arregalados e a boca aberta. O Dragão Tosse-Tosse franziu a testa. Depois, ele fez uma careta de macaco, com as orelhas puxadas e os dentes à mostra. O Dragão Tosse-Tosse piscou, confuso.
+
+O Cavaleiro Pipoca continuou, fazendo caretas cada vez mais estranhas e engraçadas. Ele fez uma careta de abacaxi, de panqueca e até uma careta de... pé de bailarina! O Dragão Tosse-Tosse, sem conseguir conter-se, começou a rir! Riu tanto que quase engasgou com a fumaça.
+
+"Hahaha! Mas que palhaçada!", o Dragão Tosse-Tosse rosnou, entre soluços de tanto rir.
+
+O Cavaleiro Pipoca aproveitou a oportunidade e, com uma voz mais firme, disse: "Dragão Tosse-Tosse, se você prometer parar de roubar meias sujas e de espirrar fogo nas pessoas, eu prometo te ensinar a fazer caretas engraçadas!"
+
+O Dragão Tosse-Tosse parou de rir, pensou um pouco e depois respondeu: "Hmm… ensinar a fazer caretas engraçadas? E se eu espirrar menos fogo?". Ele realmente não gostava de espirrar fogo, era muito trabalhoso!
+
+"Combinado!", respondeu o Cavaleiro Pipoca, com um sorriso.
+
+Assim, o Dragão Tosse-Tosse parou de aterrorizar o reino. Em vez disso, ele passou a aprender caretas com o Cavaleiro Pipoca. Aprendeu a fazer caretas de dragão, caretas de princesa e até mesmo caretas de… meias sujas!
+
+E o Cavaleiro Pipoca? Ele continuou a proteger a princesa Jujuba e a fazer caretas, sempre levando um saco de pipoca consigo. Ele provou que, às vezes, a coisa mais boba pode ser a mais importante. E assim, o reino de Piripacá viveu feliz para sempre, livre de dragões roubadores de meias e cheio de gargalhadas.
+
+A princesa Jujuba, é claro, aprontava bastante, mas agora, toda vez que ela se sentia entediada, pedia ao Cavaleiro Pipoca para fazer uma careta. Era sempre a melhor diversão!
+
+E Amendoim, o pônei, ganhou uma dieta rica em pipoca e cenoura, e passou a ser o pônei mais feliz do reino! E o Dragão Tosse-Tosse… bom, ele agora tinha uma coleção de meias limpas e ensinava caretas para todas as crianças do reino, que adoravam imitá-lo!
+Fim!
+</body>
+```

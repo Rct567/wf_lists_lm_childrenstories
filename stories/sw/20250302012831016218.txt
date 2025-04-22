@@ -1,0 +1,47 @@
+<prompt>
+Please write a uncomplicated Swahili children's story that is at least 1000 words long.
+It must be completely written in proper Swahili (SW).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Nyuki wa Busara na Ufalme wa Asali'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sw</lang_id>
+
+<title>Nyuki wa Busara na Ufalme wa Asali</title>
+<body>
+Katika msitu mrefu na mzuri, kulikuwa na ufalme mdogo, mzuri uliojaa miti mirefu, maua mazuri, na mito midogo inayotiririka. Ufalme huu ulipata umaarufu duniani kote kwa asali yake yenye ladha nzuri, iliyopatikana katika nguzo nyingi za nyuki.  Moja kati ya nguzo hizi zenye asali tamu na zilizojaa busara ilikuwa na nyuki mmoja mwenye jina la Kito.
+
+
+Kito hakuwa nyuki wa kawaida. Alikuwa mwangalifu sana, msikivu, na mzoefu kuliko wenzake wengi. Hata kabla hajazaliwa, Kito alitamani kuijua fani yote ya kupata asali, na kupitia madaftari ya babu yake mzee, alijifunza sana kuhusu kazi ya kupata asali.  Alijiuliza sana kuhusu matumizi na faida ya aina zote tofauti za asali zinazozalishwa na familia ya nyuki. Alikuwa na njaa kubwa ya maarifa na alikuwa tayari kufanya kazi kwa bidii ili kutimiza ndoto zake.
+
+
+Siku moja,  kiongozi wa nyuki, Mama Ndege, alitangaza kuwa kila nyuki atapata kazi ngumu ambayo inapaswa kufanyika ifikapo asubuhi inayofuata.  Nguzo zote za nyuki zilihuzunika sana, kwa wengine kazi hiyo ilionekana ngumu na haiwezekani. Lakini Kito, akiwa mkuu katika tamaa na mipango, alichukua kazi hiyo kwa heshima kubwa na moyoni mwake alifikiria jinsi bora zaidi ya kufanya kazi hiyo.
+
+
+Kazi hiyo ilikuwa ya kusafiri kilomita nyingi kuwinda na kukusanya asali na nyuki kutoka mbali sana ya msitu. Ndege wengi waliangusha asali kutoka mbali sana kwa nguzo ya nyuki na kazi ya Kito ilijumuisha kuandika wapi nguzo za nyuki ambazo zilikuwepo, kupima umaarufu wa kila nguzo ya nyuki kulingana na ladha na saizi ya nguzo zao na kupima saizi ya mchele katika masoko ya jirani.
+
+
+Kito akatoa mpango wake wa kipekee wa kupata asali. Alipendekeza kugawanyika katika vikundi, kila kimoja kikiwa na nyuki wenye uzoefu ili kukusanya kwa utaratibu wa maeneo yenye utajiri. Pia alipendekeza kuwa wanaweza kutumia mbinu za usiri ili kukusanya asali kutoka vyanzo tofauti haraka bila kuingiliana na vikundi vya nyuki wengine. Wakati huohuo, pia alipendekeza kuwa wanaweza kufuatilia harakati zao ili wasizungumzie ubadhilifu.
+
+
+Mpango wake ulipokelewa kwa hamu na nyuki wote. Vikundi vilifanyia kazi kazi za mizinganyiko kwa pamoja. Walifanya mipango ya kuwasiliana, kushirikiana, na kuhifadhi, ili kufanikisha mpango wa Kito bila kutoroka katika kazi hiyo.   Waliamua kufikia maeneo yote ya msitu, na kila nyuki alipanda mzigo wake.
+
+
+Kito mwenye akili yake nzuri, alichagua watu wenye nguvu zaidi kwa kazi hiyo. Aliwasaidia kupanga na kufafanua madarasa tofauti ili kufanikisha mpango kwa ukamilifu. Aliangazia utaratibu muhimu wa ushirikiano. Alitambua vipimo mbalimbali vya vipengele vya msitu ili kuamua kiwango na ubora bora. Na baadae, aligawa kazi tofauti za ufuatiliaji kwa kila nyuki.  Hatimaye, Kito alisaidia kukusanya ripoti ya ubora wa asali, kupima usalama wa vyanzo mbalimbali, na kufanya makadirio kulingana na mchanganyiko unaofuata na mahitaji ya kila nguzo.
+
+
+Walifanya hivyo, wakifanya kazi kwa bidii na upendo. Waliona kuwa kazi hii ilikuwa yenye manufaa sana kwani iliwafanya wakue na kuwasaidia kuwa bora zaidi. Kwa bidii na juhudi kubwa waliofanya, waliweza kukusanya asali nyingi zaidi ya nguzo zote katika siku hiyo kuliko ilivyowahi kutokea hapo awali.  Mkusanyiko wa asali ukiwa mpya ulipewa heshima kubwa ya kufikiriwa na Mama Ndege.  Asali hiyo ilijulikana kama asali ya Busara, yenye ladha tamu zaidi.
+
+
+Mkuu mwema, akiona jinsi Kito na nyuki wengine walivyofanya kazi kwa bidii, aliamua tuzo kubwa, akifanya mkataba.  Kila nyuki alipewa sehemu ya mbegu nzuri ya asali tamu na Kito alikabidhiwa wadhifa mkuu wa ukusanyaji na ubora wa asali. Nyuki wote walifurahishwa, wakipongeza kazi nzuri ya Kito na nidhamu kubwa.
+
+
+Kutokana na kazi hiyo, Kito alitambuliwa kama mtawala mkuu na mwadilifu.  Alihakikisha kuwa ufalme wa asali uendelea kuendelea kwa kufanya kazi na nyuki wengine katika kulinda ardhi na mali ya asali.
+
+
+Kutoka hapo siku hiyo, msitu mzima ulionekana wa shukrani na upendo zaidi kwa nyuki wa Busara,  walijifunza kwamba mchanganyiko na maelewano katika kufanya kazi vizuri ilikuwa sehemu muhimu ya kufikia malengo makubwa zaidi na kupata faida kutoka kwa pamoja.  Waliona pia jinsi busara, ushirikiano, na kujitolea kunavyoweza kuleta matokeo mazuri na uboreshaji kwa jumuiya. Na hadithi ya Nyuki wa Busara iliwafanya nyuki wengine wenye changamoto katika kila sehemu ya msitu, kujifunza somo muhimu na la thamani kuhusu umuhimu wa busara, bidii na pamoja.
+</body>

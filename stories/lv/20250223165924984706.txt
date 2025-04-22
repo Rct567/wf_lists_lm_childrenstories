@@ -1,0 +1,37 @@
+<prompt>
+Please write a funny Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Ziedu fejas, kas aizsargāja dārzus un rūpējās par ziediem.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lv</lang_id>
+
+<title>Ziedu fejas, kas aizsargāja dārzus un rūpējās par ziediem</title>
+<body>
+Rūpīgi iekopta, zaļā dārza vidū, stāvēja maza, koka mājiņa. Tajā dzīvoja trīs ziedu fejas:  Pērlīte,  Saulainīte un  Smaržuliņa. Pērlīte bija maza, ar spožām acīm un garām, melnām cirtām.  Saulainīte bija gaišāka, ar zelta spārniem, kas mirdzēja kā saule. Smaržuliņa, kā pats vārds liecina, izstaroja neticami patīkamu smaržu.
+
+Katru rītu, kad saule tikko sākās celties pāri augstajiem koku galotnēm, fejas piecēlās un devās uz darbu. Viņu uzdevums bija aizsargāt dārzu no ļaunajiem dārza draudiņiem,  un, protams, rūpēties par skaistajiem ziediem.
+
+Viņu pirmais pienākums bija apmeklēt dārza ziemeļu stūri, kur aug jaunā ābele, kas bija slavena ar saviem saldo ērkšķiem. Šodien ābele bija īpaši raupja un nedraudzīga.  Pērlīte, ar savu ātro saprātu, uzreiz saprata problēmu. Ābele bija saaukstējusies!
+
+"Saulainīte, vai tu vari savākt dažas saules starus?  Tie izārstēs ābeli no saslimšanas!" Pērlīte iesaucās.
+
+Saulainīte, ar smaidu uz sejas, uzlika rokas uz ābeles zariem un ieelpoja dārza gaisu. Savus zelta spārnu  spēcīgās svārstības radīja skaidras, siltuma pilnas gaisa plūsmas. Drīz vien, ābele, maigi iesmīļoties, atguva savu skaisto, zaļo krāsu.
+
+Nākamais izaicinājums bija cīņa pret ļauno burvju, kas bija slavens ar savu spēcīgo pūļu vēju. Šis vējš ne tikai sabojāja ziedus, bet arī izraibināja dārza laukumus.  Smaržuliņa, ar savām neticami spēcīgajām smaržu spēkiem,  izsvieta dārzā  ērkšķogas smaržu, kas neļāva vējam sabojāt ziedus.  Vējš, apjucis no tik intensīvas smaržas, ātri pazuda, aizstājot to ar mierīgu gaisa plūsmu.
+
+Tā fejas  Pērlīte, Saulainīte un Smaržuliņa  katru dienu cīnījās pret dažādiem dārza draudiņiem:  ļoti prātīgo kāpuriņu, kas apēda visas lapas, neveselīgo zirnekļu, kas ietīja ziedus tīklā, un slinko cūku, kas gribēja izpūst visus dārza skaistuma ziedus.
+
+Bet šī brīnišķīgā dārza stāvoklis nebija vienīgā lieta, kas aizņēma feju uzmanību.  Viņas ievēroja, ka dārza cūciņa, Liza, bieži vien sajūtas vientuļa.  Fejas nolēma parūpēties par Lizu.  Katru vakaru, pirms aiziet gulēt, tās nospieda ziedu putekšņus uz Liizas priekšā esošās zāles, atstājot skaistu un smalku ziedu rakstu.
+
+Liza, no rīta pamostoties, bija patiesi priecīga, redzot skaistos ziedu zīmējumus. Viņa sāka justies mazliet mazāk vientuļa un priecājas, ka ir daļa no šī brīnišķīgā dārza.
+
+Tikai vienā dienā feju dārzā notika brīnums. Dārzā ieradās jauns zieds, ar nekad neredzēto krāsu.  Zieds izstaroja neiedomājami skaistu spīdumu.  Fejas nevarēja aptvert tā skaistumu.  Pērlīte to nosauca par "Mirdzošo Zvaigžņu Ziedu."  Fejas zināja, ka šis zieds ir īpašs zieds, ko daba pati radīja, lai pārējie ziedi varētu saskarties ar neiedomājami skaistu dabu.
+
+No šī brīža fejas  Pērlīte, Saulainīte un Smaržuliņa kopā ar visiem dārza iemītniekiem baudīja vēl lielāku prieku, skaistumu un mieru. Viņas bija  skaistā dārza sargs un ikviens ziediņš, kas aug, liecina par to, ka viņas bija spēcīgas, mīlošas un rūpīgas. Un tā dārza skaistums turpināja ziedēt un ziedēt.
+</body>

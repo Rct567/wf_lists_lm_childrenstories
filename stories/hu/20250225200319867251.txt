@@ -1,0 +1,47 @@
+<prompt>
+Please write a timeless Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Hófehérke és a hét törpe új kalandja a sötét erdőben éjszaka.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>hu</lang_id>
+
+<title>Hófehérke és a hét törpe új kalandja a sötét erdőben éjszaka.</title>
+<body>Aznap este, amikor a nap lenyugodott a horizonton, Hófehérke és a hét törpe újabb kalandra indultak a sötét erdőben. A törpök, akik mindig is szerették a természetet és a titkokat, régóta tervezték, hogy felfedezzék az erdő mélyét, ahol a legsötétebb és legtitokzatosabb helyek vártak rájuk.
+
+Hófehérke, aki azelőtt soha nem járt az erdőben éjszaka, izgatottan készült a kalandra. Fehér ruháját és aranyhaját gondosan rendezte, és a törpökkel együtt elindultak a sötét erdőbe. A hold fénye nem tudta áttörni a fák sűrű lombját, így a csoportnak gyertyákat kellett használnia, hogy lássanak.
+
+A csoport lassan haladt, mert a törpök mindig megálltak, hogy megcsodálják a természet szépségét. Szürke, a legidősebb törpe, megmutatta Hófehérkéknek a különféle növényeket és állatokat, amelyek az erdőben éltek. Hópehely, a legfiatalabb törpe, pedig folyamatosan kérdezgette Hófehérkét, hogy nem fél-e a sötét erdőtől.
+
+Miközben haladtak, a csoport hirtelen egy tisztásra érkezett. A holdfény itt áttört a fák között, és a csoport megpillantotta egy szépséges tavat, amelynek felszínén ezernyi csillag tükröződött. Hófehérke és a törpök megálltak, és csodálattal nézték a tavat.
+
+Ekkor egy hangot hallottak a tó felől. Egy öregasszony jött ki a tó mélyéből, és integetett a csoportnak. Hófehérke és a törpök óvatosan közeledtek az öregasszonyhoz, aki elmondta, hogy ő a tó szelleme.
+
+A tó szelleme elmesélte, hogy a tó mélyén egy titkot őriz, amelyet csak azoknak mond el, akik mernek belemenni a sötét erdőbe éjszaka. Hófehérke és a törpök kíváncsiak lettek, és kérték az öregasszonyt, hogy mondja el a titkot.
+
+A tó szelleme elmondta, hogy a tó mélyén egy kincs van elrejtve, amelyet egy gonosz varázsló rejtett el. A varázsló egy átkot is mondott a kincsre, hogy csak azok találják meg, akik a legbátrabbak és a legokosabbak.
+
+Hófehérke és a törpök elhatározták, hogy megpróbálják megtalálni a kincset. A tó szelleme adott nekik egy térképet, amelyen a kincs helye volt jelölve. A csoport elindult a térkép szerint, és hamarosan egy barlanghoz érkeztek.
+
+A barlangban sötét és hideg volt, de Hófehérke és a törpök nem féltek. Szürke és Hópehely előrementek, hogy megkeressék a kincset, míg a többiek a barlang bejáratánál maradtak.
+
+Néhány perc múlva Szürke és Hópehely visszajöttek, és elmondták, hogy megtalálták a kincset. De a kincs mellett egy sárkány is volt, amely őrizte a kincset. A sárkány azonban nem volt gonosz, hanem egy szelíd teremtmény, amely a kincset védelmezte.
+
+Hófehérke és a törpök elhatározták, hogy megpróbálják elnyerni a sárkány barátságát. Hófehérke énekelt egy szépséges dalt, amelyet a sárkány is hallott. A sárkány meghatódott a kislány énekétől, és elmondta, hogy ő is szereti a zenét.
+
+A sárkány elhatározta, hogy odaadja a kincset Hófehérkéknek, ha cserébe kapnak tőlük valami szépet. Hófehérke és a törpök gondolkodtak, és végül Hópehelynek eszébe jutott, hogy a törpöknek van egy különleges ajándékuk, amelyet a sárkánynak adhatnak.
+
+A törpök elmondásuk szerint egy különleges fát ültettek a hegyen, amelynek gyümölcse csodálatos zenét ad. A sárkány érdeklődött, és Hófehérke és a törpök elvitték őt a fához.
+
+A fa gyümölcse valóban csodálatos zenét adott, és a sárkány meg volt hatódva. A sárkány elmondta, hogy ő is szeretné, ha a fa gyümölcse mindig zenélnének, és Hófehérke és a törpök elhatározták, hogy gondoskodnak a fáról.
+
+A sárkány odaadta a kincset Hófehérkéknek, és a csoport visszaindult a tóhoz. A tó szelleme üdvözölte őket, és elmondta, hogy ők a legbátrabbak és a legokosabbak, akik valaha is jártak az erdőben.
+
+Hófehérke és a törpök visszatértek a házukba, és a kincset elrejtették. De a legnagyobb kincs, amelyet találtak, a sárkány barátsága volt. A sárkány pedig mindig emlékezett Hófehérke és a törpök bátor és okos tettére, és mindig zenélt a fa gyümölcseivel.
+
+A történetnek vége, de a kalandoknak nem. Hófehérke és a hét törpe további kalandokra indultak, és mindig emlékeztek arra, hogy a legnagyobb kincs a barátság és a szépség, amelyet a természetben találhatunk. És a sárkány mindig zenélt, hogy emlékeztesse őket arra, hogy a zene és a szépség mindig velünk van, ha merünk belemenni a sötét erdőbe éjszaka.</body>

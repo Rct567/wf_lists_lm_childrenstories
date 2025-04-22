@@ -1,0 +1,43 @@
+<prompt>
+Please write a simple and easy-to-follow Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'De Colore Qui Per Terram Errabat'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>la</lang_id>
+
+<title>De Colore Qui Per Terram Errabat</title>
+<body>Erant in terris colores diversi, qui omnes in suis locis manebant. Erat color ruber, qui in floribus rubris habitat, color caeruleus, qui in caelo et in mari invenitur, et color viridis, qui in herbis et in arboribus crescit. Sed erat unus color, qui per terram errabat, nec umquam in eodem loco manebat. Hic color vocabatur "Chromia," et nemo sciebat, unde veniret nec quo iret.
+
+Chromia erat color mutabilis, qui modo ruber, modo caeruleus, modo viridis apparere poterat. Quando in urbem veniebat, omnes eum mirabantur, quia nemo similem colore umquam viderat. Sed quando Chromia in villam veniebat, rustici eum fugiebant, quia putabant eum esse daemonem.
+
+Chromia autem non erat daemon, sed simplex color, qui per terram errabat, quia non habebat locum, ubi manere posset. Quando ad montem veniebat, Chromia se in nivem convertit, et quando ad vallem veniebat, se in flumen convertit. Sed quando ad silvam veniebat, Chromia se in folia arborum convertit, et omnes animalia silvae eum mirabantur.
+
+Quodam die, Chromia ad civitatem venit, ubi rex et regina habitabant. Rex et regina Chromiam viderunt, et statim eum vocaverunt, ut ad eos veniret. Chromia ad regem et reginam venit, et rex ei dixit: "Chromia, tu es color mutabilis, qui per terram erras. Quo vadis, et quid quaeris?"
+
+Chromia respondit: "Ego sum color, qui per terram errat, quia non habeo locum, ubi manere possem. Ego quaero locum, ubi me manere liceat, et ubi me amare possint." Rex et regina Chromiae miseriti sunt, et ei dixerunt: "Chromia, tu es color mutabilis, sed tu es etiam color pulcher. Nos te amamus, et nos te manere volimus."
+
+Rex et regina Chromiam in palatium suum duxerunt, et ei dederunt locum, ubi manere posset. Chromia in palatio regis et reginae manebat, et omnes eum amabant. Sed Chromia non poterat manere in eodem loco, quia erat color mutabilis. Quando rex et regina eum rogaverunt, ut maneret, Chromia respondit: "Ego sum color, qui per terram errat, et ego non possum manere in eodem loco. Sed ego vos amabo, et ego semper vobiscum ero."
+
+Rex et regina Chromiae crediderunt, et ei dixerunt: "Chromia, tu es color mutabilis, sed tu es etiam color fidelis. Nos te amamus, et nos te manere volimus, sed nos scimus, quod tu non potes manere in eodem loco." Chromia gaudebat, quia rex et regina eum amabant, et quia ei dederunt locum, ubi manere posset.
+
+Quodam die, Chromia ad montem venit, et se in nivem convertit. Sed quando ad vallem venit, se in flumen convertit. Quando ad silvam venit, se in folia arborum convertit, et omnes animalia silvae eum mirabantur. Sed quando ad palatium regis et reginae venit, Chromia se in colorem regium convertit, et rex et regina eum amabant.
+
+Chromia igitur per terram errabat, sed Chromia non erat solus. Omnes colores, qui in terris erant, eum amabant, et eum manere voluerunt. Sed Chromia non poterat manere in eodem loco, quia erat color mutabilis. Quando colores eum rogaverunt, ut maneret, Chromia respondit: "Ego sum color, qui per terram errat, et ego non possum manere in eodem loco. Sed ego vos amabo, et ego semper vobiscum ero."
+
+Colores Chromiae crediderunt, et ei dixerunt: "Chromia, tu es color mutabilis, sed tu es etiam color pulcher. Nos te amamus, et nos te manere volimus, sed nos scimus, quod tu non potes manere in eodem loco." Chromia gaudebat, quia colores eum amabant, et quia ei dederunt locum, ubi manere posset.
+
+Sic Chromia per terram errabat, et omnes eum amabant. Sed Chromia non erat solus, quia omnes colores, qui in terris erant, eum amabant. Et Chromia sciebat, quod erat color mutabilis, sed Chromia sciebat etiam, quod erat color pulcher, et quod omnes eum amabant.
+
+Quodam die, Chromia ad terram venit, ubi omnes colores habitabant. Omnes colores Chromiam viderunt, et statim eum amaverunt. Chromia autem non poterat manere in eodem loco, quia erat color mutabilis. Sed omnes colores ei dixerunt: "Chromia, tu es color mutabilis, sed tu es etiam color pulcher. Nos te amamus, et nos te manere volimus."
+
+Chromia respondit: "Ego sum color, qui per terram errat, et ego non possum manere in eodem loco. Sed ego vos amabo, et ego semper vobiscum ero." Omnes colores Chromiae crediderunt, et ei dixerunt: "Chromia, tu es color mutabilis, sed tu es etiam color fidelis. Nos te amamus, et nos te manere volimus, sed nos scimus, quod tu non potes manere in eodem loco."
+
+Sic Chromia per terram errabat, et omnes eum amabant. Et Chromia sciebat, quod erat color mutabilis, sed Chromia sciebat etiam, quod erat color pulcher, et quod omnes eum amabant. Et omnes colores sciebant, quod Chromia erat color mutabilis, sed omnes colores sciebant etiam, quod Chromia erat color pulcher, et quod Chromia eos amabat.
+
+Et sic Chromia per terram errabat, et omnes eum amabant, et Chromia omnes amabat. Et erat finis.</body>

@@ -1,0 +1,47 @@
+<prompt>
+Please write a simple and easy-to-follow Scottish Gaelic children's story that is at least 1000 words long.
+It must be completely written in proper Scottish Gaelic (GD).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Oidhcheannan Geala agus Na Sìthichean Sàmhach'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>gd</lang_id>
+
+<title>Oidhcheannan Geala agus Na Sìthichean Sàmhach</title>
+<body>
+Anns a’ ghaoth fhuar, air taobh a’ chnoc, bha dùthaich bheag, le craoibhean uaine agus sruth beag a’ gluasad tro na gleannta.  Bha ainm air a’ dhùthaich seo,  Dùthaich na h-Oidhcheannan Geala, agus bha iad ainmeil air feadh na cruinne airson na sìthichean sàmhach a bha a’ fuireach ann.
+
+Bha trì sìthichean beaga ann,  a bha ainmeil mar na Sìthichean Sàmhach. Bha a’ chiad sìthiche,  a bha ainmeil mar  Sìthiche Fionn, le craiceann geal coltach ri gealach agus sùilean dorcha, leithid na h-oidhche. Bha a’ chiad sìthiche, a bha ainmeil mar  Sìthiche Glas, le craiceann glas coltach ris na duilleagan de chraoibhean a’ chnoc, agus sùilean gorm mar na sruthan a’ ruith tro na gleannta. Agus bha an treas sìthiche, Sìthiche Dearg, le craiceann dearg coltach ri fàileadh a’ ghealach, agus sùilean buidhe, leithid na gréine a’ grianadh.
+
+Bha iad a’ fuireach ann an taigh beag, air taobh a’ chnoc, a bha air a dhèanamh de chraiceann craoibhean agus de fhlùraichean. Bha an taigh làn de sholas, agus bha na h-oidhcheannan geala a’ nochdadh a ghlòir.
+
+Aon oidhche, bha na sìthichean a’ cluinneadh fuaim.  Bha fuaim a’ gluasad tro na craoibhean, a’ cur dragh air na deòir. Bha e coltach ri fuaim na gaoithe, ach bha e nas làidire, nas èibhinn. Dh’fhalbh iad a-mach gu furasta, agus fhuair iad a-mach gu robh duine beag, le còta dearg agus craiceann dearg, air a dòrtadh suas. Bha e air a dòrtadh suas air cùl craobh. Bha e fo chùram na sìthichean.
+
+Bha an duine beag a’ gèilleadh gu h-ionadail, agus bha e a’ gearan gu h-ionadail. Bha e a’ cur dragh air na sìthichean. Bha iad a’ smaoineachadh, ‘Carson a tha an duine beag seo a’ dol tro na gleannta seo?’
+
+Bha Sìthiche Fionn a’ bruidhinn, “Tha e duilich dhuinn, ach chan eil e comasach dhuinn an duine beag seo a chuir air falbh. Feumaidh sinn cuideachadh leis.”
+
+Bha Sìthiche Glas a’ freagairt, “Is e an rud ceart a dhèanamh. Feumaidh sinn a chuideachadh.”
+
+Bha Sìthiche Dearg a’ bruidhinn, “Tha mi a’ faireachdainn gu bheil e an aon rud a dh’fheumas an duine beag seo.”
+
+Chuidich iad leis an duine beag agus chuir iad a’ chùram air a’ chnoc. Thug iad biadh dha, agus chuir iad a’ chùram air a’ chnoc. Thug iad biadh dha, agus chuir iad a’ chùram air a’ chnoc. Chuir iad a’ chùram air a’ chnoc. Dh’fhalbh an duine beag, a’ toirt taing don dà sìthiche.
+
+Bha na sìthichean a’ faireachdainn gu math. Bha an duine beag a’ faireachdainn nas fhallaiche.
+
+Anns an oidhche, bha na sìthichean a’ cluinneadh fuaim eile. Bha e a’ gluasad tro na craoibhean, a’ cur dragh air na deòir. Bha e coltach ri fuaim na gaoithe, ach bha e nas làidire, nas èibhinn.  Bha iad a’ cluinneadh fuaim an duine beag a’ toirt taing. Bha e a’ dol a-mach gu furasta.
+
+Bha na sìthichean a’ faireachdainn gu math. Bha iad a’ smaoineachadh gu robh iad a’ dèanamh rud math.
+
+Aig an aon àm, bha na sìthichean ag ràdh, “Tha sinn a’ faireachdainn gu bheil sinn a’ dèanamh rud math.”
+
+Aig an aon àm, bha na sìthichean ag ràdh, “Tha sinn a’ faireachdainn gu bheil sinn a’ dèanamh rud math.”
+
+Bha na sìthichean a’ faireachdainn gu math. Bha iad a’ faireachdainn gu robh iad a’ dèanamh rud math. Bha iad a’ faireachdainn gu robh iad a’ dèanamh rud math.
+
+Agus mar sin, bha na sìthichean sàmhach a’ fuireach ann an Dùthaich na h-Oidhcheannan Geala, a’ faighinn fois agus a’ cuideachadh dhaibhsan a dh’fheumadh cuideachadh, a’ toirt faireachdainn math agus sìth don t-saoghal.
+</body>

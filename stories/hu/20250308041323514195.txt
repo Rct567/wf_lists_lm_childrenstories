@@ -1,0 +1,37 @@
+<prompt>
+Please write a relatable Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A Csillogó Csillagok és a Titokzatos Szikla'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>hu</lang_id>
+
+<title>A Csillogó Csillagok és a Titokzatos Szikla</title>
+<body>Az esti égboltot elborították a csillogó csillagok, mint egy végtelen, ragyogó tenger. A kis faluban, ahol a történetünk kezdődik, az emberek már régóta csodálták ezt a természeti csodát. A falu szélén állt egy kis ház, ahol egy kisfiú, Szabi élt szüleivel. Szabi imádta az éjszakai égboltot, és mindig azon tűnődött, mi lehet a csillagok mögött.
+
+Egy este, amikor Szabi kilépett a házukból, hogy megnézze a csillagokat, észrevett valami furcsát a távolban. Egy nagy, sötét szikla emelkedett ki a földből, amelyet soha nem látott korábban. A szikla körül egy furcsa, pulzáló fény lengte körbe, amely mintha hívta volna Szabit.
+
+Szabi kíváncsisága felülkerekedett, és elindult a szikla felé. Ahogy közeledett, a fény egyre erősebb lett, és Szabi érezte, hogy valami különös dolog történik. A szikla oldalán egy kis ajtó nyílt, és egy hang szólt Szabinak: "Gyere be, kisfiú, és megtudod a titkot a csillogó csillagokról."
+
+Szabi habozott egy pillanatig, de a kíváncsisága győzött, és belépett az ajtón. A szikla belsejében egy hatalmas, üres tér volt, amelyet csillagokkal és bolygókkal díszített falak vettek körül. A tér közepén egy nagy, kristálytrónus állt, amelyen egy öreg, bölcs ember ült.
+
+Az öreg ember Szabinak mondta: "Üdvözöllek, kisfiú. Én vagyok a csillagok őre, és én fogom elmondani neked a titkot a csillogó csillagokról. A csillagok nem csak egyszerű fények az éjszakai égbolton, hanem élő, lélegző lények, amelyek a világunkat és a mindenséget egyben tartják."
+
+Szabi csodálkozott, és kérdezte: "Hogy lehet ez? Hogyan tudnak a csillagok élő lények lenni?" Az öreg ember elmosolyodott, és mondta: "A csillagok olyan lények, amelyek a szeretet és a fény energiájából élnek. Amikor az emberek szeretettel és jósággal viszonyulnak egymáshoz és a világhoz, a csillagok erősebbek lesznek, és a fényük ragyogóbb lesz."
+
+Szabi gondolkodott egy pillanatig, és kérdezte: "De mi történik, ha az emberek gonoszak és rosszindulatúak?" Az öreg ember komoly arccal mondta: "Ha az emberek gonoszak és rosszindulatúak, a csillagok fénye elhalványul, és a világunk sötétebb lesz. De ne aggódj, kisfiú, mert a csillagok mindig vannak, és mindig fogják ragyogtatni a fényüket, ha az emberek hisznek bennük és a szeretetben."
+
+Szabi megértette, és kérdezte: "Hogyan tudok én segíteni a csillagoknak?" Az öreg ember elmosolyodott, és mondta: "Te, kisfiú, fontos szerepet játszol a csillagok történetében. Amikor szeretettel és jósággal viszonyulsz a világhoz és az emberekhez, te is hozzájárulsz a csillagok fényéhez. És ha elmondod másoknak is a csillagok titkát, akkor ők is segíteni fognak a csillagoknak, és a világunk egyre szebb és fényesebb lesz."
+
+Szabi boldog volt, és ígéretet tett, hogy elmondja a csillagok titkát mindenkinek, akit csak tud. Az öreg ember bólintott, és mondta: "Tudom, kisfiú, hogy te fogod megtenni. Most menj vissza a faludba, és kezd el terjeszteni a csillagok üzenetét. És ne felejtsd el, a csillagok mindig veled lesznek, és a fényük mindig ragyogni fog."
+
+Szabi kilépett a sziklából, és visszament a falujába. Elmondta a csillagok titkát a szüleiknek, a barátainak és az egész falunak. Az emberek csodálkoztak, és elkezdték érteni a csillagok fontosságát. A falu emberei elkezdték szeretettel és jósággal viszonyulni egymáshoz és a világhoz, és a csillagok fénye egyre ragyogóbb lett.
+
+Idővel a falu az egész országban híres lett a csillagok szeretetéről és a jóságáról. Az emberek jöttek a faluba, hogy megtudják a csillagok titkát, és Szabi mindig elmondta nekik. A csillagok fénye egyre erősebb lett, és a világ egyre szebb és fényesebb lett.
+
+És Szabi, a kisfiú, aki elindult a titokzatos szikla felé, most egy nagy ember lett, aki a csillagok üzenetét terjesztette az egész világon. A csillagok mindig vele lesznek, és a fényük mindig ragyogni fog, mert Szabi megtanulta a titkot, és elmondta mindenkinek.</body>

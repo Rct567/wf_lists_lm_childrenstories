@@ -1,0 +1,59 @@
+<prompt>
+Please write a uncomplicated Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Cudowna Ucieczka Sprytnej Małej Rybki'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pl</lang_id>
+
+```xml
+<title>Cudowna Ucieczka Sprytnej Małej Rybki</title>
+<body>
+Dawno, dawno temu, w głębinach błękitnego oceanu, żyła sobie mała rybka o imieniu Zuzia. Zuzia była wyjątkowa. Była malutka, srebrzysta i miała wielkie, błyszczące oczy, które wciąż obserwowały świat dookoła. Była także bardzo, bardzo sprytna. W przeciwieństwie do swoich siostrzyczek i braciszków, którzy wesoło pluskali się wodorostach, Zuzia zawsze myślała o czymś innym. Interesowało ją wszystko – od tajemniczych jaskiń na dnie morza, po barwne korale i statki, które czasami pojawiały się na powierzchni.
+
+Zuzia mieszkała w pięknym, korolowym domu, wśród innych ryb, krabów i ośmiornic. Jej dom, tak jak i reszta osady, znajdował się blisko rozległego pola z wodorostami, które służyły jako idealne miejsce do zabawy i ukrywania się. Pewnego dnia, kiedy Zuzia bawiła się w chowanego z przyjaciółmi, zauważyła coś dziwnego. W pobliżu ich ulubionego schronienia, na dnie, lśnił duży, srebrny przedmiot. Zaintrygowana, podpłynęła bliżej.
+
+Okazało się, że to metalowy, błyszczący przedmiot z mnóstwem małych otworów – sieć rybacka! Zuzia wiedziała, co to oznacza. Słyszała od starszych ryb historie o okrutnych ludziach, którzy wyciągają ryby z oceanu. Wiedziała, że musi ostrzec wszystkich.
+
+Szybko jak błyskawica popłynęła do swoich przyjaciół, krzycząc: „Uciekajcie! Sieć! Sieć jest blisko!”
+
+Wszystkie ryby, przerażone, zaczęły panikować. Biegały w te i we wte, próbując się ukryć. Nie wiedziały, co robić. Duże ryby, jak Mola i Burek, były zbyt przestraszone, by pomyśleć o czymkolwiek sensownym. Młodsze rybki płakały. Ale Zuzia, dzięki swojemu sprytowi, nie straciła głowy.
+
+"Spokojnie!" – zawołała Zuzia, stając się nagle przywódczynią. „Musicie słuchać! Najpierw wszyscy musimy się ukryć za wielkim kamieniem, a potem... pomyślimy!”
+
+Wszystkie ryby posłuchały Zuzi. Uciekły za ogromny głaz, który stał niedaleko pola wodorostów. Stamtąd mogły obserwować co się dzieje. Niedługo potem, ujrzały nadchodzący cień – wielką sieć rybacką, powoli opadającą w dół.
+
+"Teraz!" – krzyknęła Zuzia, z determinacją w głosie. "Musimy zrobić zamieszanie! Musimy udawać, że uciekamy w różnych kierunkach. To sprawi, że sieciowcy będą zdezorientowani!"
+
+Zuzia popłynęła jako pierwsza, w przeciwnym kierunku do opadającej sieci. Potem, za jej przykładem, wszystkie rybki rozproszyły się. Małe rybki popłynęły w górę, ku powierzchni, duże w dół, w stronę dna. Niektóre ukrywały się między koralowcami, inne za skałami.
+
+Ryzykowne manewry rybek, w tym manewr Zuzi, spowodowały, że sieć przechyliła się i nie złapała ani jednej rybki. Była prawie pusta, a sieć ciągnięta z powierzchni przez ciężką pracę rybaków, poruszała się leniwie w dół.
+
+"To prawie niemożliwe!" – usłyszała Zuzia słowa rybaka. „Tam, gdzie powinny być setki ryb, nie ma nic!”
+
+Sieć ciągnięto ponownie, ale rybki, dzięki pomysłowości Zuzi, były wciąż w ukryciu. Zuzia, obserwując sieć, wpadła na kolejny genialny pomysł.
+
+"Słuchajcie!" – zawołała do przyjaciół. „Widzicie te bąbelki powietrza, które wydostają się z naszych płetw? Spróbujmy je wykorzystać!”
+
+Zuzia i inne ryby zaczęły wypuszczać dużo bąbelków. Bąbelki unosiły się do góry, na powierzchnię. Sieć przeszła przez nie, nie zatrzymując niczego, bo te bąbelki były zbyt lekkie. To jednak wprowadziło zamieszanie, gdyż rybacy pomyśleli, że powietrze wskazuje obecność ryb.
+
+Kiedy rybacy po raz trzeci próbowali złowić ryby, znowu się nie udało. Byli bardzo zdezorientowani. Ich ciężka praca była daremna. Zaczęli narzekać i rozmyślali, co poszło nie tak. Zdesperowani, zrezygnowali i wyciągnęli pustą sieć z powrotem na pokład.
+
+Wtedy, wszystkie ryby, razem, w końcu wyszły ze swoich kryjówek. Cała osada wiwatowała na cześć Zuzi.
+
+"Brawo Zuzia!" - krzyczały rybki. „Jesteś najsprytniejszą rybą na świecie!”
+
+Zuzia była bardzo dumna, ale i pokorna. „To dzięki wam wszystkim! Pracowaliśmy razem. Razem jesteśmy silniejsi!"
+
+Po ucieczce, ryby urządziły wielką ucztę. Tańczyli i śpiewali do późnej nocy. Od tego dnia, Zuzia stała się bohaterką. Nauczyła wszystkich, jak ważne jest myślenie i działanie w grupie. Zawsze, gdy pojawiło się jakieś niebezpieczeństwo, ryby słuchały Zuzi, a dzięki temu, zawsze udawało im się go uniknąć.
+
+Zuzia i jej przyjaciele długo jeszcze bawili się w koralowych domach, poznając kolejne tajemnice oceanu. Zuzia była przykładem na to, że nawet mała, sprytna rybka może dokonać wielkich rzeczy, jeśli ma odwagę myśleć i działać.
+Czasem, gdy zachodzi słońce, a błękit oceanu nabiera złotej poświaty, można zobaczyć srebrzystą rybkę, Zuzię, jak wesoło pluska się w oceanie. Do dzisiaj jej oczy błyszczą od sprytu i mądrości, a jej historia, o cudownej ucieczce, jest opowiadana z pokolenia na pokolenie w sercach i płetwach wszystkich ryb w oceanie.
+Zuzia nauczyła je, że strach nie jest rozwiązaniem. Prawdziwa odwaga to umiejętność myślenia w trudnych sytuacjach, a spryt i pomysłowość to najlepsi przyjaciele w każdej przygodzie. Koniec.
+</body>
+```

@@ -1,0 +1,35 @@
+<prompt>
+Please write a relatable Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Przygody małej piratki na Wiśle'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>pl</lang_id>
+
+<title>Przygody małej piratki na Wiśle</title>
+<body>
+Zosia, mała dziewczynka z kręconymi włosami koloru miodu i oczami jak bursztyny, siedziała na brzegu Wisły.  Słońce, ciepłe jak polskie lato, malowało złotymi promieniami fale rzeki.  Zosia nie bawiła się jednak w tradycyjne zabawy.  Nie chciała budować zamków z piasku, ani łowić rybek.  Zosia marzyła o przygodach, o skarbach ukrytych na dnie rzeki, o tajemniczych wyspach i o przyjaźni z wiślanymi stworzeniami.  Była małą piratką, a Wisła jej morzem.
+
+Miała swój własny, skromny, ale niezwykle ważny ekwipunek.  Starą, zniszczoną mapę, którą odziedziczyła po pradziadku – kapitanie Jakubie, który, jak opowiadano, pływał po Wiśle w poszukiwaniu legendarnego skarbu.  Miała też drewniany, nieco krzywy kompas, który wskazywał nie zawsze w dobrym kierunku, i szpadę, którą w rzeczywistości była starannie wyrzeźbiona łyżka do zupy, którą Zosia nazywała „Mieczem Złotej Ryby”.
+
+Dzisiaj, Zosia miała misję.  Słyszała szept wiatru, który mówił o tajemniczej wyspie, gdzie rosły drzewa z owocami świecącymi jak diamenty.  Na mapie pradziadka, w miejscu oznaczonym dziwnym symbolem, widniała właśnie taka wyspa.  Ubrała swój strój piratki:  szary, poplamiony fartuch, wysokie, drewniane buty i kapelusz, który nieco za duży był na jej głowę.  Zabrała ze sobą butelkę miodu, bo wiedziała, że w podróży potrzeba siły, i chlebowe bułeczki, które upiekła jej babcia.
+
+Wiosłując łódką zrobioną z desek, Zosia przemierzała wody Wisły.  Spotkała śmiesznego bobra, który zbudował sobie nową tamę, i leniwą żabę, która opowiadała historie o nurkujących rybach.  Słońce wędrowało po niebie, a Wisła, jak żywa istota, płynęła pod oknami Zosi.  Nagle, łódka uderzyła o coś twardego.  Zosia, z rozwianym do tyłu włosami, spojrzała na mapę.  To było ono!  Mała wyspa, otoczona zielenią i złotymi owocami, świeciła w słońcu.
+
+Zosia przypłynęła do brzegu.  Drzewa z owocami diamentami były jeszcze bardziej piękne niż na mapie.  Zosia, z wielkim entuzjazmem, zaczęła zbierać owoce.  Jednak, coś było nie tak.  Obok drzew, w cieniu, stał mały, drewniany domek.  Zosia, z ciekawością, podeszła bliżej.  Drzwi były otwarte, a w środku siedziała starsza kobieta, z długimi, siwymi włosami, i uśmiechem, który otulał jak ciepłe promienie słońca.
+
+Kobieta uśmiechnęła się do Zosi.  "Witaj, mała piratko.  Znasz drogę do serca wyspy?" zapytała.
+
+Zosia, nieco zdziwiona, pokręciła głową.
+
+"Serce wyspy nie jest wykonane z kamienia, ani z złota.  Serce wyspy to przyjaźń, dobroć i troska o wszystkich jej mieszkańcach".  Kobieta wskazała na maleńkie, kolorowe kwiaty, które rosły wokół domku.  "Te kwiaty są naszymi skarbami.  Każdy kolor opowiada historię.  Nie musisz szukać skarbów, ukrytych w ziemi.  Skarby kryją się w naszych sercach i w naszych czynach".
+
+Zosia, słuchając mądrych słów kobiety, poczuła ciepło w sercu.  Zrozumiała, że prawdziwy skarb nie jest na mapie.  Nie leży ukryty w ziemi.  Leży w dobroci, którą możemy dać innym.  Zabrała kilka kolorowych kwiatów i oddała je żabie, która siedziała na brzegu.  Żaba zaśpiewała jej piosenkę podziękowania.
+
+Zosia, z pełnym sercem, wróciła do swojej łódki.  Wiosłując z powrotem do domu, nie myślała już o skarbach.  Myślała o przyjaźni, o dobroci i o tym, że prawdziwe przygody nie muszą być pełne walki i poszukiwań.  Przygody mogą być pełne ciepła, zrozumienia i troski o innych.  Wiosła płynęły lekko, a słońce malowało złote promienie na wodzie.  Zosia wiedziała, że jej przygoda na Wiśle, była dopiero początkiem wielu innych, pełnych dobroci i miłości.
+</body>

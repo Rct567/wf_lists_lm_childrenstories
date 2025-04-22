@@ -1,0 +1,35 @@
+<prompt>
+Please write a timeless Kongo children's story that is at least 1000 words long.
+It must be completely written in proper Kongo (KG).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Bu Nzo a Bena Kongo, I Nzila ya Zola dia Nzambi.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>kg</lang_id>
+
+<title>Bu Nzo a Bena Kongo, I Nzila ya Zola dia Nzambi</title><body>
+Bu nzo a bana Kongo, kuna lwanda lukufi a kinsalukutu, kele mwana mosi kuna nkutu, o nkumbu andi Muanda.  Muanda kele mwana ya nzila, ya mpila ya nkaka, yina kele mvimba ya ntima, ya lulendo, ya ke dila nitu.  I mwana ya ntima mosi, yandi ke zola nzo andi, eka eka yandi ke zola nzo a bonso, na nzo a ntoto.  Kansi, o lulendo ke kwenda nzenza na yandi, ke simaka nsi a makaku ma ntima, mpi ke fwanisaka yandi nson, yeto ndinga yau, wuta na kinsuni.
+
+Nga, muntu mosi ya mpa, Mpangi Kabaka, yau vandaka ngunga ya luzingu, ngolo na yandi yau mosi, kuzuela-zuela yandi bu kukumina nkutu ya Muanda. Yandi yilaka etima ye nsonga, muntu ya lukumu, o yandi yibaka mbikuta mosi ya mpembe, bu ndinga ya nitu mosi.  Kabaka vutulaka ntumbu na ntima, o Muanda mosi yeto nso.  Muanda wutuka kuzola, o Kabaka, vutula ntima.
+
+
+Muanda na kumo, yandi zolaka kusumba mambu mosi. Yau kele madimi mbotika ma zunga Kongo, kileya bampusa zole ya kuzunda: mpila a lumbu ye mpi ngolo ya kinsuni.  Kana nkutu ya yandi kukumina o nkutu ya Mbangi, Mbangi kele nkento mosi ya ngolo, yandi bu mosi vandaka kunu mpenza, mpi ya nzangu yonso.  Muanda kwikilaka yandi na yina ya yandi mosi waka mu ntima, mpi ya yandi mosi ke zola na kinsuni.
+
+“Mambu yina na mono waka, Muanda,” e mpenza mpangi, mpangi Kabaka, waka etima.   “Mambu na kuminina o lumbu ma Nzambi, kansi, Muanda ke zola kuzunda kaka luzingu ya ngungu mpi ya kinsuni.” O mbuma ya bima mbonso mosi! Muanda taya nitu yonso ya bintu ya luzolo kusi, yo ngangu mpi mvimba.
+
+Mbangi, kusimisa, “Lele a nso, bana kele bantu.”  Yandi kumanisa e mvova kusimisa bu mvindu, “zika yandi ntete! Na luzingu ya bima mbonso, Muanda ke zola kuzunda bu yandi.” Yina yitadaka e ntu andi mosi, bu ludi nsongi, wudilu kaka na mpila ya yandi, ya mpila yandi ya kusimisa, mbelu. Yandi bakisaka kwikizi ye luzingu na mpila yina, yina yandi ke fula kusimisa kuzunda. Yandi vilaka ntumbu yandi ya kumenga yeto.
+
+Bu Muanda kumaka kulonguka, yandi wakaka nkanikisa. Muntu, nson ya nzo a ntoto, bakaka nsungi kusimisa.   Kumakaka mpila yina, bonso mbata kuloda bu ntete; mbona mpi nson ya bangua na ngulu-ngulu; mbona mpila ya ngolo kuzonga-zonga; mpi bonso mbata kulukana nitu. Yau vandaka mawema na lutanu ma nzangu yonso. E ntumama mosi ma muntu mbema, yandi yibaka buya mbata. Mpila yandi, bu mosi, mosi yibaka mazo.
+
+Muanda vandaka kudiyula o bu mpila ya kusunda katikisa bu nzenga ye nzo andi. “Lele a nso!” Mbangi tubaka. “Tuba bu nzala yina, na mono.”  Na yina mpila, Muanda kusadi mbata bu fuku, bu mawa yau.  Yandi yikana bu mosi ya mpila ya kuwudisa ntumama.
+
+Muanda kuyambulala.   Yandi kulula bifu, kemonisa ntozula bu lunkinutu ma wansa.  Kuna kumanisa, mpangi ya Kabaka. Yau yilaka luse, ye zola; ntima kusi, ndima, na zola.  Yandi mona nso kumba ya nzo a nkala.
+
+Kabaka wudisa, yandi taya nsoni bu bokola ya luzingu. Muanda waka ngolo bu nkutu, mbondo, bu mbonda kuwudisa zola.  O zola yina kusumbaka mwana kudibwisa ye kumita na mpembe.   Yandi kuma mwana ya ndunga, ya luzingu na wutolo ye kulongoka. Mwana yina, ya ngindu ya ngangu,  kumanisaka nkutu ya yandi.
+
+Bena Kongo, kulomba bantu ye mvwika;  ye bokola ntangu yonso bu ntu na muntu. Muanda, o mwana, yandi yala mawa.  O mwana, o nkaka! Yau lufwa bu ntete, ye bokola kuzunda. Yandi bakisaka mpila, o mpeve ya Kongo, mpila ya kuzunda. Nzambi zolaka mwana.
+</body>

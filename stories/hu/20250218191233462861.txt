@@ -1,0 +1,35 @@
+<prompt>
+Please write a creative and original Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A madár, aki nem tudott repülni, de mindenkit mosolygósra varázsolt.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>A madár, aki nem tudott repülni, de mindenkit mosolygósra varázsolt</title>
+<body>
+A Magas-hegy lábánál, egy csillogó patak partján, állt egy kis, színes házikó.  Ebben a házikóban élt egy kis madár, Piroska.  Piroska nem volt egy átlagos madár.  A tollazata olyan pompás volt, mint a naplemente színei, a csőre pedig, amivel oly szívesen csipegette a virágokat,  a holdfényben úgy ragyogott, mint egy drágakő.  Csakhogy Piroska nem tudott repülni.  A szárnyai, bár gyönyörűen színezettek voltak,  mintha ólommal lettek volna megtöltve.  A többi madár nevetve repült a magasba, míg Piroska a fűben kapálózott,  a földön, a virágok között.
+
+Egy nap, amint Piroska csipkedte a patak partján virágzó kankalinokat, megjelent egy idős, bölcs bagoly.  A bagoly, Szürke, óvatosan leszállt a közelébe.  "Miért búslakodsz, Piroska?" kérdezte mély, rekedt hangján.
+
+Piroska elszomorodottan húzta meg magát. "Nem tudok repülni, Szürke bácsi.  Minden madár a felhők között repül, én pedig itt, a földön... Nem vagyok elég jó, nem vagyok elég..."
+
+Szürke bagoly megsimogatta a fejét a hatalmas, puha szárnyával. "Piroska," mondta, "a repülés nem minden.  Nézd meg a virágokat, hallgasd meg a patak susogását.  A szépség nem a magasságban rejlik, hanem a részletekben.  Te másképp vagy szép, Piroska.  Te a mosolyok varázslója vagy."
+
+Piroska meglepődött. "Mosolyok varázslója?  De hogyan?"
+
+"Nézd meg a virágokat, amint csipkeded őket," mondta Szürke. "Nézd meg a patak vizét, ahogy csillog a napfényben.  A te mosolyod, a te szeretetteljes tekinteted, az a csodálatos, ragyogó csőröd, ez mind varázslat.  Amikor mosolyogsz, minden körülötted virágba borul.  Amikor szeretetet adsz, a szívek boldogok lesznek."
+
+Piroska elgondolkodott.  Igaza volt Szürke bagolynak.  Amikor mosolygott a virágokra, jobban ragyogtak.  Amikor a patakhoz lépett, a víz mosolyogva tükrözte vissza.  Az idős asszonyok, akik éppen a házikó közelében sütötték a kenyeret, mosolyogtak, amikor Piroska köszöntött nekik.
+
+Piroska elkezdte terjeszteni a mosolyt a kis faluban.  Énekelt, amíg a nap sütött, táncolt a mezőkön, és mindenkit mosolygósra varázsolt a kedvességével.  A szomszédos faluban élő gyerekek is megismerték Piroskát,  és a szüleikkel együtt hoztak ajándékokat a kis házikóhoz.  A kis falu egyre vidámabbá vált, a házak tetején is virágzó növények jelentek meg Piroska varázslatos mosolyainak köszönhetően.
+
+Egy nap egy hatalmas vihar tört ki.  A szél olyan erős volt, hogy a fák meghajoltak, a patak pedig tombolva folyt.  Piroska félve bújta el magát a házikójában. De a vihar nem a félelmet, hanem a szeretetet hívta életre Piroska szívében.  Táncolt a sötétben, énekelt a szélnek, és a szeretettel és mosolyokkal töltötte a levegőt.  A vihar, mintha megérezte volna a szeretetet, fokozatosan alábbhagyott.  A Nap újra feltűnt a felhők mögül, és a kis falu egy pillanatra megállt a lélegzésben, és megköszönte Piroskának az életvarázslatot.
+
+Piroska, a nem repülő madár, mindent megtett, hogy a világot egy kicsit szebbé tegye.  A kedvességével, és mosolyával, elvarázsolta mindenkit,  és bizonyította, hogy a repülés nem minden.  A szeretet, az öröm és a mosoly a legnagyobb szárnyak, amikkel bárki repülhet.
+</body>

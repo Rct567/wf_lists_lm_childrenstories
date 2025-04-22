@@ -1,0 +1,65 @@
+<prompt>
+Please write a timeless French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Les Fées Discrètes et le Secret des Roches'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>fr</lang_id>
+
+```xml
+<title>Les Fées Discrètes et le Secret des Roches</title>
+<body>
+Dans le pays enchanté de Clairval, où le soleil caressait les prairies de fleurs sauvages et où les rivières argentées chuchotaient des secrets aux roseaux, vivaient les Fées Discrètes. On les appelait ainsi car elles étaient si petites, si furtives, qu'il fallait avoir le cœur plein de magie pour les apercevoir. Elles ressemblaient à de minuscules lucioles, avec des ailes de libellule irisées et des robes faites de pétales de rose.
+
+La plus célèbre d'entre elles était Lilas. Avec ses cheveux couleur lavande et ses yeux verts comme l'émeraude, Lilas était la gardienne du Secret des Roches. Ce secret, transmis de génération en génération, était la clé de l'équilibre de Clairval. Car, depuis la nuit des temps, les roches possédaient une magie particulière : elles contenaient le murmure du vent, le chant des étoiles et le rire de la terre.
+
+Lilas vivait dans une grotte cachée au creux de la Montagne d'Aurore, une montagne majestueuse dont les sommets touchaient le ciel. Sa maison était un chef-d'œuvre de la nature : les murs étaient recouverts de cristaux étincelants, le sol tapissé de mousse moelleuse et le plafond percé de minuscules trous par lesquels filtré une lumière douce et dorée. Elle y passait ses journées à écouter les roches. Elle collait son minuscule corps contre elles, et percevait ainsi les vibrations, les souvenirs, les histoires que les pierres murmuraient.
+
+Un jour, une ombre étrange descendit sur Clairval. Le chant des oiseaux se fit plus rare, les fleurs perdirent leur éclat et les rivières semblèrent s'assombrir. Lilas sentit une inquiétude sourde monter en elle. Les roches, habituellement si bavardes, se firent silencieuses. Leur murmure s'éteignait, comme une flamme menacée par le vent.
+
+Elle rassembla les autres Fées Discrètes, celles qui vivaient cachées dans les clairières, dans les creux des arbres et au cœur des fleurs. "Mes sœurs, dit Lilas, une menace plane sur Clairval. Le Secret des Roches est en danger. Il faut que nous découvrions pourquoi et que nous agissions vite."
+
+Les Fées Discrètes, toujours discrètement, partirent à l'aventure. Elles se divisèrent en petits groupes, explorant les moindres recoins de Clairval. Certaines s'envolèrent vers la Forêt des Échos, où les arbres bruissaient de mystères. D'autres se rendirent au bord du Lac des Songes, où les nénuphars fleurissaient nuit et jour. D'autres encore s'aventurèrent dans les Jardins Oubliés, où des roses antiques déroulaient leurs pétales.
+
+Pendant des jours et des nuits, elles cherchèrent, écoutèrent, observèrent. Elles parlèrent aux animaux, aux plantes, aux rivières. Mais personne ne savait rien. L'atmosphère devenait plus pesante, l'obscurité semblait s'épaissir. La peur commençait à s'installer dans le cœur des Fées Discrètes. Devraient-elles abandonner ? Le Secret des Roches était-il réellement perdu à jamais ?
+
+Un jour, une jeune fée nommée Capucine, aux ailes couleur de soleil couchant, fit une découverte. Alors qu'elle se reposait sur une pierre plate au bord de la Rivière Argentée, elle sentit une étrange vibration. Ce n'était pas le murmure habituel de la roche, mais une pulsation faible, irrégulière, comme un cœur malade. Intriguée, elle colla son oreille à la pierre et entendit une petite voix.
+
+« Aidez-moi… Je suis seule… J'ai froid… »
+
+Capucine comprit immédiatement. Ce n'était pas le Secret des Roches qui était en danger. C'était l'une des roches elle-même ! Elle sentit une tristesse profonde la submerger. Elle courut prévenir Lilas.
+
+Lilas arriva à la Rivière Argentée, accompagnée de toutes les Fées Discrètes. Elles s'approchèrent de la roche, qui avait la taille d'un galet, et l'écoutèrent attentivement. La petite voix se fit plus faible, presque inaudible.
+
+« Une ombre… Elle m'a emprisonnée… Elle m'éloigne du soleil… Du vent… De la terre… »
+
+Lilas comprit alors que l'Ombre mystérieuse n'était pas une chose, mais un être. Un être maléfique, qui cherchait à voler la magie des roches, à les enfermer dans l'obscurité et le silence. Son plan était simple : isoler les roches de Clairval les unes des autres, en les privant de lumière et de contact.
+
+« Nous devons la retrouver, dit Lilas, et la vaincre ! »
+
+Les Fées Discrètes réfléchirent. Comment combattre une ombre ? On ne peut ni la voir, ni la toucher. Elles se souvinrent alors d'une légende. On racontait que la seule chose capable de vaincre l'ombre était la lumière de l'amour, la joie du partage et le murmure des souvenirs heureux.
+
+Elles se mirent en marche. Elles volèrent vers tous les endroits de Clairval, chantant des chansons joyeuses, racontant des histoires drôles et semant des éclats de rire. Elles rassemblèrent les enfants qui jouaient dans les prés, les animaux qui dormaient dans les bois, les plantes qui se nourrissaient de soleil. Ensemble, ils créèrent une farandole lumineuse qui se propagea à travers Clairval.
+
+Les rayons du soleil, enrichis par l'amour et la joie, revivifièrent les fleurs et firent vibrer les rivières. Les Fées Discrètes dansèrent autour des roches, leur transmettant la chaleur de leur cœur. Elles apprirent aux enfants à les toucher et les remercier pour les merveilles qu'elles contenaient.
+
+Finalement, l'Ombre, faible et affaiblie, apparut. Elle ressemblait à un nuage noir et froid, entouré d’une étrange aura de tristesse. Elle tentait de s'enfuir, mais la farandole lumineuse était trop forte. L'amour et la joie des habitants de Clairval brillaient autour d'elle et réduisaient ses pouvoirs.
+
+Lilas, au centre de la lumière, s'approcha de l'Ombre. Elle leva ses petites mains et lui dit, d'une voix douce : « Pourquoi fais-tu cela ? Pourquoi veux-tu priver Clairval de sa magie ? Pourquoi veux-tu nous faire souffrir ? »
+
+L'Ombre hésita. Sa forme changea, elle parut s'adoucir. Elle répondit alors, d'une voix faible et plaintive : « Je suis seule… J'ai peur… Je n'ai jamais connu la lumière… »
+
+Lilas eut pitié. Elle comprit que l'Ombre n'était pas méchante, mais simplement malheureuse. Elle invita l'Ombre à rejoindre la farandole. Lentement, l'Ombre se transforma. Elle se transforma en une pluie d’étincelles lumineuses, qui rejaillirent sur toutes les roches de Clairval.
+
+Les roches reprirent leur murmure, plus fort et plus vibrant que jamais. Elles racontèrent de nouvelles histoires, des histoires d'amitié, de joie, de lumière et de pardon.
+
+Clairval retrouva sa splendeur. Le chant des oiseaux retentit avec plus de vigueur, les fleurs déployèrent leurs couleurs éclatantes et les rivières dansèrent à nouveau sous le soleil.
+
+Les Fées Discrètes, victorieuses, continuèrent à veiller sur le Secret des Roches. Elles savaient désormais que la magie de Clairval résidait non seulement dans les pierres, mais aussi, et surtout, dans le cœur des êtres qui les aimaient. Elles apprirent aux enfants à protéger la lumière et se souvenaient toujours que la plus grande force résidait dans l'amour, la joie et le partage. Depuis ce jour, même les ombres, quand elles se sentent seules, savent qu’à Clairval, il y a toujours de la lumière.
+</body>
+```

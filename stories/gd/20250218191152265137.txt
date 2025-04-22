@@ -1,0 +1,32 @@
+<prompt>
+Please write a creative and original Scottish Gaelic children's story that is at least 1000 words long.
+It must be completely written in proper Scottish Gaelic (GD).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>gd</lang_id>
+
+<title>An Cailín agus an Spiorad Fionn</title>
+<body>
+Anns an gleann uaine, far an robh na craoibhean a’ fliuchdachadh air nèamh, bha cùil-sgrìobh beag, le cùil-sgrìobh aonaranach. Bha cailín òg, le làmhan fionn agus sùilean dubha, a’ fuireach an sin. Bha ainm aice, 's e 'n Eilidh a bh’ air. Bha Eilidh làn de mhionaidean sònraichte, agus bha gaol mòr aice air a h-uile creach a bha a’ gabhail a’ ghlinn seo.
+
+Bha droch làithean air an gleann gu ruige an latha sin. Bha an ghrìon a' smuaineachd gu dìreach, agus bha an èadhar a' fuireach grianach. Bha a' chruinneachadh de fhuarachadh a' spreadhadh air an talamh. Bha na craoibhean a' tiormachadh, agus bha na blàthan a' droch-shuidhe. Bha an spiorad fionn de 'n gleann, an Spiorad Fionn, a’ fàiligeadh.
+
+Bha Eilidh a’ faireachdainn an toirt a dh’ionnsaigh an gleann. Bha a h-uile creach a bha a’ gabhail a’ ghlinn a’ dèanamh na h-uile rud dhi, agus bha Eilidh air a ghoid agus air a chuideachadh. Chuir i làmh air crìoch eile de 'n gleann, far a bha fiodh àrd agus làn de mhionaidean sònraichte, ach chan robh an fhìrinn a' briseadh.
+
+Aon là, bha Eilidh a’ coiseachd thairis air na drochaidhean sgàlaichte, a’ faighinn a’ chruinneachadh a bha a’ sgoltadh an èadhar. Bha i a’ faireachdainn mar a bha a’ ghlinn ag ionnsuidh a’ cur gu lèir. Bha craoibh beag, a dh'ionnsaigh a ghlinne, a’ sguabadh gu mall, agus bha Eilidh a' tuigsinn. Bha an Spiorad Fionn air a shuidheachadh anns an craoibh.
+
+Chaidh Eilidh a’ gabhail a h-uile fàinne a bh’ aice. Bha i a’ gabhail blàthan òga, agus bha i a’ gabhail fìrinnean air a' bhlàthadh. Bha i a’ faighinn a h-uile rud a bha ann an gleann, agus bha i a’ cur ris a h-uile càil agus a h-uile gràdh. Bha i a’ cur sìos a h-uile rud, air a’ chraobh.  Bha i a’ cur an-aghaidh an t-sìth. Bha i a’ cur a h-uile fèin an sin, leis an Spiorad Fionn, gus a chuideachadh.
+
+Chaidh an Spiorad Fionn a’ faireachdainn an dàimh a bh’ ann an Eilidh. Bha gràdh agus spiorad fìrinneach aice, agus bha sìth aice, ach bha ceangal aice ris a’ ghlinn, a bha a’ faireachdainn mar a bha a’ dol. Bha an Spiorad Fionn a’ faireachdainn a h-uile rud a dh’innis Eilidh dhi.  Bha e a’ faireachdainn mar a bha an dàimh ag èirigh air ais a-rithist.
+
+Chaidh Eilidh a’ cur an-aghaidh an dìon. Chaidh i a' suidhe ann an raon na croiteach, a’ faireachdainn na h-uile rud a bha an gleann ga lìonadh. Chuir i làmh air a’ chraobh, a’ faireachdainn an t-sìth agus an t-spiorad fionn a’ cur a' ghlinn an-aghaidh a’ chruinneachadh. Chaidh an Spiorad Fionn a’ gluasad air ais, a’ cur a’ ghlinn an-aghaidh an craoibh, gu tlachd.
+
+Thòisich na blàthan a’ fàs a-rithist, agus thòisich na craoibhean a’ fàs fionn agus uaine. Thòisich an ghrìon a' sgaoileadh gu mall agus gu sònraichte. Thàinig an t-sìth air ais don gleann. Bha an Spiorad Fionn air a ghlacadh a-rithist. Bha gràdh agus spiorad fìrinneach aice. Thòisich an t-sìth agus an t-spiorad fionn a’ spreadhadh air a' ghlinn, mar a bha na blàthan agus na craoibhean a’ tighinn gu beatha.
+
+Bha Eilidh a’ faireachdainn soirbheachas an latha. Bha i a’ tuigsinn gu bheil cuidhteas ann, gu bheil gach duine ri dhol a dh'ionnsuidh. Chuir i làmh air an Spiorad Fionn, a’ faireachdainn an dàimh, an deagh-chrìoch, a dh’innis i.  Bha a’ ghlinn a’ tighinn gu beatha air ais, agus chaidh na craoibhean agus na blàthan a’ cur an t-sìth agus an t-spiorad fionn ann. Bha Eilidh a’ gluasad air ais gu h-aonar, ach bha aillse aice a bhith a’ dèanamh an rud ceart agus an rud ceart a dhèanamh airson an gleann. Bha i a’ faireachdainn a h-uile rud, agus bha a’ ghlinn làn de spiorad fìrinneach.  Bha beatha air ais ann an gleann, agus bha e math don t-saoghal.
+</body>

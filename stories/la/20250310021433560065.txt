@@ -1,0 +1,42 @@
+<prompt>
+Please write a light-hearted Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Inter Montium Altis: Puer et Amicus Canis'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>la</lang_id>
+
+<title>Inter Montium Altis: Puer et Amicus Canis</title>
+<body>
+In valle remota, inter montium altis, habitabat puer nomine Titus.  Puer erat parvus, sed fortis corde, et oculis lucidis, sicut astra noctis.  Amicus eius fidelis erat canis nomine  Lupinus, canis parvus, sed fortis et audax.  Pelles eius erant rubrae, sicut ignis vespertus, et oculi eius nigri, sicut nox profunda.
+
+Diebus multis, Titus et Lupinus per montes ludebant.  Saltabant per herbas virides et floribus decoratas.  Colligebant lapides raros et mirantur picturas montium.  Titus legeret fabulas de heroibus antiquis et saepe canit carmen.  Lupinus, audiens,  currens per montes,  quasi chorus, canem imitans, laetum erat.
+
+Una die,  Titus et Lupinus ascenderunt montem altissimum,  "Mons Aetnaeus" dicebantur, qui nube ardens operiebatur.  Ex alto montis,  spectaculum mirabile patebat.  Vallis ampla, ut mare magnum, et flores diversi colores erant dispersae in via, sicut mappa pictura.
+
+Titus, admiratione captus,  clamavit, "O Lupinus!  Quam pulchrum est!"  Lupinus, ut aetati consuetus erat,  lautus laetatusque, saltabat et circumcidebat in  circum Titus.  Intenta et curata cum audebat  in aerem saltans.
+
+Sed repente, nubes tenebrosa mons induxit.  Tempestas subito incidit.  Ventus vehemens et saxa proiecta e montibus.  Immani fragore fulgura caelum  illustrant.  Pluvia intensa ut cataracta cadit.  Titus et Lupinus, terribiles eventus, timuerunt.
+
+
+Lupinus, intuitus Titium trementem,  ad montem cursit.  Invenit foveam parvam subter saxo magno.  In  funem  tenui  demisit Titus.  Puer  foveam introit et se, in umbra  protegit.
+
+Lupinus per tenebras montis ambulavit.  Invenit florum parvum rubrum qui per aequa  tegebat terram.  Adhuc erat flans,  in medio aquae.  Advenit ad foveam  et  saltavit, admissam Titii.
+
+
+Ferreus  tempestas  post tempus dimisit.  Sol e nubibus  proiit.  Titus et Lupinus,  post tempus  sustinentes  ad eadem locum,  venire.
+
+
+Post  tempus  longa, Titus et  Lupinus   iterum per  montes  ambularunt.  Ad  ejus montem, invenerunt.  Puerus, oculis eius lucernis, dedisse  cor.
+
+
+Ambo  discesserunt   reminiscentes diei  mirandae.   Lupinus,  cum  laetitia  canis  fidelis,  securo  persequutus.   Titus  in  terra,   laetans  ad  amici  fidem.  Et  sciverunt,   quod  amicitia  fortis  fuerit, et  montibus  altis  residerit.
+
+
+Iterum, diebus  multis,   per   montes   ambularunt,  et  ludit.  Lupinus  et Titus  amice  sunt, et  in  monte  aeternum.
+</body>

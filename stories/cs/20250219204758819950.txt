@@ -1,0 +1,31 @@
+<prompt>
+Please write a creative and original Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Velká bitva mezi dobrými a zlými skřítky'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Velká bitva mezi dobrými a zlými skřítky</title>
+<body>
+V hlubokém lese, plném tajemství a šumících stromů, žili skřítci. Byli to malí stvoření s lesklými, hnědými vlasy a zářivými, zelenými očima.  V srdci lesa se rozkládala vesnice Dobrých skřítků, s dřevěnými domky, malovanými veselými barvami, a s květinami, které voněly po sladkém medu.  Obklopovala je hustá tráva, a v ní se skrývalo nespočet hmyzu.  Na opačném konci lesa se nacházela temná a tajemná vesnice Zlých skřítků, skrytá v hlubokém, tmavém údolí. Tam se skřítci tvářili s nelibostí, a v jejich očích se odrážela chmurná a zlá energie.
+
+Dobří skřítci žili v harmonii s přírodou. Každé ráno sbírali lesní plody a květiny, zpívali písně o kráse lesa a starali se o jeho zdraví.  Zlí skřítci naopak toužili po moci a chtěli si podmanit celý les.  Vytvořili si zlé kouzla a hrozné bytosti, které jim měly pomoct v jejich snaze.  Mezi nimi žil skřítek jménem Křivák,  s černými, nelidsky lesklými očima a hrozným smíchem.
+
+Jednoho krásného letního dne, když slunce svítilo jako zlato na korunách stromů, se Křivák rozhodl, že je čas na velkou bitvu.  Shromáždil své stvoření – malé, ošklivé monstra s špičatými zuby a ocelově šedými šupinami.  Jeho zlí skřítci se připravovali na dlouhý boj, plný hrozné magie.  Z jejich temné vesnice vyšly děsivé zvuky, které se linuly lesem a rozptylovaly klidnou atmosféru.
+
+Dobří skřítci, zvědaví na podivné zvuky, vyšli vstříc neznámému.  Viděli zlé skřítky a jejich strašlivé stvoření.  Zděšení a plní strachu, ale odhodlání se bránit, se dali do boje.  Malá, hnědá stvoření se s hrůzou dívala na mocné monstra, ale jejich srdce tlouklo rytmicky a bojově. V záplavě děsivých zvuků a šumění stromů se rozpoutala velká bitva.
+
+Křivák, s šíleným smíchem, rozséval zlé kouzla, ale Dobří skřítci, vedení statečným skřítkem jménem Lípa, se bránili s neohrožeností a odhodláním.  Jeden skřítek hořlavou kyticí odrazil kouzlo zpět na Křiváka.  Další rozptýlili temné oblaka kouzla.  Právě v tu chvíli se objevil malý kůň, s bílými křídly a zlatou hřívou, a s ním se objevily krásné květiny. Kůň vznášel nad bitvou a rozházel zlé kouzla.
+
+Lípa se s mečem v ruce, a s květinami v srdci, utkal s Křivákem.  Křivák se snažil skrýt za stíny a za tmavými bytostmi, ale Lípa, s laskavostí v srdci a odhodláním v očích, ho pronásledoval.  Došlo k závěrečné bitvě, v níž se setkaly síly dobra a zla.  Lípa se snažil Křiváka přemoci bez použití síly, ale Křivák byl příliš zlý a krutý.  Pak, náhle, se na obloze objevila duha.  Z duhy se sneslo velké množství dětí a přinesly se s sebou krásné světýlka.  Ty světýlka pronikly do temnoty a rozptýlily všechny zlé stíny. Křivák se cítil slabý, bez moci.  Jeho zlí skřítci se dali do útěku.
+
+Dobří skřítci, s úlevou v srdcích, oslavovali vítězství.  Následovala velká oslava, plná zpěvu, tance a sladkých pochoutek.  Lípa byl poctěn jako hrdina a všichni Dobří skřítci slíbili, že budou i nadále chránit les a jeho krásu.  Křivák, poražený a plný lítosti, zmizel do temnoty.
+
+Od té doby žili Dobří skřítci v míru a harmonii s přírodou.  Les se stal znovu plným života, a skřítci zpívali krásné písně o dobrotě, odvaze a síle dobra.  A Zlí skřítci, už nikdy více se nedopustili na zlý čin.  A tak se velká bitva mezi Dobrými a Zlými skřítky stala legendou, která se předávala z generace na generaci.
+</body>

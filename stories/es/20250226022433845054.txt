@@ -1,0 +1,42 @@
+<prompt>
+Please write a silly Spanish children's story that is at least 1500 words long.
+It must be completely written in proper Spanish (ES).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La cabaña en el bosque donde vivían animales amigables y curiosos.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>es</lang_id>
+
+<title>La cabaña en el bosque donde vivían animales amigables y curiosos.</title>
+<body>
+En un bosque mágico, bañado por el sol y salpicado de coloridas flores silvestres, se erguía una cabaña diminuta, tan pequeña que parecía una casa de muñecas.  No era una cabaña cualquiera; en ella vivían animales tan amigables y curiosos que sus risas resonaban entre los árboles.
+
+Había un erizo llamado Espinoso, famoso por sus extraordinarias historias y su habilidad para dormir en cualquier postura imaginable. Su pelo espinoso era de todos los colores del arcoíris, y parecía una pequeña bola de colores.  Cada espinas contaba una historia, una aventura, una amistad… ¡una vida completa!
+
+Cerca de Espinoso, vivía una ardilla llamada Revoloteo, con una melena de pelo rojo y una cola tan larga que le llegaba al suelo. Revoloteo coleccionaba nueces de todos los tamaños y colores, y las guardaba en un escondite secreto en su jardín personal. ¡A Revoloteo le encantaba organizar carreras de nueces! ¡Siempre perdían sus competidores!
+
+Más allá de Revoloteo, estaba un conejo llamado Saltarín. Saltarín tenía los ojos más grandes que una pelota de tenis y un sentido del humor peculiar. Era el payaso del bosque, saltando y haciendo piruetas por cualquier rincón. Y también era un apasionado coleccionista de zanahorias, lo que a veces lo convertía en un invitado poco deseado en el huerto del oso.
+
+
+Un día, la brisa traía un rumor entre las hojas. Se decía que el río se había vuelto tormentoso, las flores ya no tenían sus colores de siempre, el oso groggo del valle ya no comía nada más que fresas y las mariposas habían desaparecido por completo.
+
+"¡Esto es un desastre!" exclamó Espinoso, arqueando sus púas. Revoloteo, sin dejar de girar, comentó: "¡Qué desastre!" mientras tiraba nueces al suelo. Saltarín se agachó y, observando el horizonte, añadió: "¡Parece que el hechizo está fallando! ¡Los colores del bosque están empezando a desaparecer!
+
+Decidieron investigar. Caminaron durante horas, cruzando ríos y trepando montañas, hasta que encontraron una pequeña cueva en una zona poco frecuentada. En el interior, encontraron un espejo diminuto, como una joya pulida. En él se reflejaba el bosque, pero no el bosque colorido y juguetón que conocían.  ¡Los colores eran apagados y grises! ¡La tristeza se reflejaba en el espejo!
+
+
+"¡El espejo ha absorbido la alegría del bosque!" dijo Saltarín. Revoloteo, con su astucia y rapidez, sugirió lanzar nueces al espejo. ¡Y así lo hicieron! Las nueces rebotaron y se rompieron con gran alegría al caer en el espejo. Espinoso contó historias fascinantes y encantadoras, con el poder de un cuentista experto en hechizos, mientras Saltarín cantaba y bailaba. Revoloteo movió las nueces alrededor, usando su gran velocidad y habilidad para bailar, cada movimiento perfecto. Sus nueces parecían pintando la tristeza con nuevos colores.
+
+
+De repente, un resplandor brillante salió del espejo. Los colores volvieron al bosque, más vibrantes y alegres que nunca. El río rugiente se convirtió en un río de risas. Las flores rebosaban de belleza y los olores volvieron a ser maravillosos. Las mariposas revolotearon de nuevo sobre los prados. El oso groggo dejó de serlo y devoraba con alegría los dulces sabores. El espejo se desintegró en una nube de partículas de luz.
+
+
+Los tres amigos corrieron a casa, saltando y riendo. El bosque volvía a ser su hogar alegre. Espinoso, Revoloteo y Saltarín sabían que juntos, con la ayuda de la amistad, la creatividad y el optimismo, cualquier dificultad podía ser superada, trayendo de nuevo el color y alegría al lugar mágico que amaban.
+
+
+Y así, bajo la caricia del sol, el bosque vibrante se convirtió de nuevo en su alegre lugar de encuentro, los tres animales amiguísimos seguían jugando, sus risas mezcladas con el canto de los pájaros y el murmullo de los árboles. La cabaña en el bosque seguía siendo un lugar donde la magia de la amistad se reflejaba en todos los seres que habitaban a su alrededor.
+</body>

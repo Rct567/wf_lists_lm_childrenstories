@@ -1,0 +1,57 @@
+<prompt>
+Please write a emotional Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Vườn Rau Của Bà'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>vi</lang_id>
+
+```vi
+<title>Vườn Rau Của Bà</title>
+<body>
+Ở một làng quê nhỏ bé, nép mình bên dòng sông hiền hòa, có một ngôi nhà nhỏ với mái ngói đỏ tươi. Ngôi nhà ấy không lớn, nhưng lại chứa đựng cả một thế giới yêu thương của bà Ba và đứa cháu nội ngoan ngoãn tên là Tí. Tí năm nay lên tám tuổi, đôi mắt đen láy luôn ánh lên sự tò mò và lòng hiếu kỳ, còn bà Ba đã ngoài sáu mươi, mái tóc bạc phơ như sương, nhưng đôi tay vẫn thoăn thoắt làm việc, đôi môi luôn nở nụ cười hiền từ.
+
+Điều đặc biệt nhất ở ngôi nhà nhỏ này chính là khu vườn rau xanh mướt phía sau. Khu vườn không rộng, chỉ khoảng một trăm mét vuông, nhưng lại trồng đủ loại rau củ quả. Nào là rau muống xanh mướt, cà chua chín đỏ, dưa chuột giòn tan, rồi cả những luống hành, tỏi thơm lừng. Khu vườn này không chỉ là nơi cung cấp thức ăn cho cả nhà, mà còn là cả một thế giới chứa đựng bao nhiêu tình yêu thương và ký ức của bà Ba.
+
+Mỗi buổi sáng sớm, khi những tia nắng đầu tiên vừa len lỏi qua khe cửa, bà Ba đã thức dậy. Bà thường nhẹ nhàng đánh thức Tí dậy, hai bà cháu cùng nhau ra vườn. Bà Ba sẽ từ tốn chỉ bảo Tí cách vun xới đất, cách tưới nước, cách nhận biết sâu bệnh và cách chăm sóc từng loại rau. Tí luôn chăm chú lắng nghe bà, đôi mắt không rời khỏi những động tác tỉ mỉ của bà.
+
+"Tí ơi, con xem, cây rau muống này xanh tốt là nhờ có nước và ánh nắng đấy. Nhưng nếu có sâu, nó sẽ bị ăn hết lá ngay. Con phải nhớ, mình phải thường xuyên kiểm tra và bắt sâu cho rau nhé!" - Bà Ba nhẹ nhàng dặn dò.
+
+Tí gật đầu lia lịa, đôi tay bé nhỏ giúp bà Ba nhổ cỏ, bắt sâu. Cậu thích nhất là những lúc được cùng bà thu hoạch rau. Cà chua chín đỏ, những quả dưa chuột xanh mướt, rau muống tươi rói được bà cháu cẩn thận hái vào giỏ. Tí thích nhất là những buổi chiều, cả hai bà cháu cùng ngồi ở hiên nhà, bà Ba nhặt rau, còn Tí thì ngồi kể chuyện trường lớp, chuyện bạn bè. Tiếng cười nói rộn rã cả một góc vườn.
+
+"Bà ơi, sao rau nhà mình ngon thế ạ?" - Tí hỏi, trong khi đang nhai ngấu nghiến một miếng dưa chuột giòn tan.
+
+Bà Ba xoa đầu Tí, giọng nói đầy trìu mến: "Là vì rau nhà mình được chăm sóc bằng tình yêu thương của bà cháu mình đó con. Và quan trọng nhất, là vì con còn nhỏ đã biết giúp bà chăm sóc vườn rau."
+
+Thời gian cứ thế trôi đi. Tí lớn dần lên, cậu bắt đầu đến trường học. Buổi sáng, cậu không còn có nhiều thời gian để cùng bà ra vườn. Cậu vội vã ăn sáng rồi đạp xe đến trường. Nhưng mỗi buổi chiều, khi trở về nhà, Tí vẫn không quên ghé vào khu vườn. Cậu sẽ tự giác tưới nước cho rau, hoặc chỉ đơn giản là ngồi cạnh bà, lắng nghe những câu chuyện về quá khứ.
+
+Một ngày nọ, bà Ba bị ốm. Bà cảm thấy người mệt mỏi, ăn không ngon. Khu vườn rau, vì thế, cũng không còn được chăm sóc chu đáo như trước. Cây cối héo úa, sâu bệnh bắt đầu hoành hành. Nhìn thấy bà bị bệnh, Tí rất lo lắng. Cậu đã dành hết thời gian rảnh rỗi để chăm sóc khu vườn thay cho bà. Cậu tỉ mỉ bắt sâu, tưới nước, nhổ cỏ.
+
+Nhưng vì còn nhỏ, Tí không biết cách sử dụng thuốc trừ sâu, cũng không biết cách phòng trừ bệnh cho cây. Cây cối cứ thế tàn úa dần. Những luống rau muống ngày nào xanh tốt bây giờ chỉ còn trơ lại những cọng yếu ớt. Tí rất buồn, cậu khóc. Cậu sợ rằng khu vườn rau, vốn là biểu tượng của tình yêu thương giữa hai bà cháu, sẽ biến mất.
+
+Một buổi chiều, khi Tí đang ngồi cạnh bà, đôi mắt sưng húp vì khóc, bà Ba đã nhẹ nhàng nắm lấy tay cậu.
+
+"Tí ơi, con đừng buồn. Khu vườn rau, không phải chỉ có cây cối mới quan trọng đâu. Quan trọng nhất là tình yêu thương của con dành cho bà, và tình yêu thương mà bà dành cho con. Dù vườn rau có ra sao, thì tình cảm của chúng ta vẫn luôn ở đây, trong trái tim của mỗi người." - Bà Ba thì thào.
+
+Nghe lời bà, Tí ngước nhìn bà. Đôi mắt cậu vẫn còn đỏ hoe, nhưng ánh lên một tia sáng mới. Cậu hiểu rằng, khu vườn rau chỉ là một phần nhỏ bé trong tình yêu thương của hai bà cháu. Điều quan trọng nhất là tình cảm mà họ dành cho nhau.
+
+Mặc dù bà Ba bệnh ngày càng nặng, nhưng bà luôn cố gắng ra vườn. Bà chỉ bảo Tí cách chăm sóc rau, dù giọng nói của bà đã yếu hơn rất nhiều. Tí luôn ở bên cạnh bà, lắng nghe những lời dạy bảo cuối cùng.
+
+Một ngày nọ, khi những tia nắng vàng nhạt vừa len lỏi qua khe cửa, bà Ba đã trút hơi thở cuối cùng. Tí khóc rất nhiều. Cậu không muốn bà đi. Cậu muốn bà ở lại để cùng cậu chăm sóc khu vườn rau.
+
+Sau tang lễ, Tí trở lại với khu vườn. Khu vườn rau không còn xanh tốt như trước, nhưng trong lòng cậu, nó vẫn là cả một thế giới yêu thương. Cậu nhớ những lời bà Ba đã dạy. Cậu nhớ những kỷ niệm hai bà cháu cùng nhau vun xới, chăm sóc khu vườn. Cậu quyết tâm, sẽ tiếp tục chăm sóc khu vườn rau, để tưởng nhớ đến bà.
+
+Tí bắt đầu lại từ đầu. Cậu học cách vun xới đất, học cách tưới nước, học cách bắt sâu, và học cách sử dụng thuốc trừ sâu. Dần dần, khu vườn rau của bà Ba lại xanh tốt trở lại. Cà chua lại chín đỏ, dưa chuột lại giòn tan, rau muống lại xanh mướt.
+
+Mỗi khi thu hoạch rau, Tí lại mang vào nhà, đặt lên bàn thờ của bà Ba. Cậu nói chuyện với bà, kể cho bà nghe về những chuyện ở trường học, về những người bạn. Cậu biết, bà luôn ở bên cạnh cậu, nhìn cậu lớn lên, nhìn cậu trưởng thành.
+
+Vườn rau của bà, giờ đây không chỉ là một khu vườn. Nó là cả một ký ức, một di sản, một biểu tượng của tình yêu thương bất diệt giữa hai bà cháu. Và trong khu vườn ấy, tình yêu thương của bà Ba vẫn luôn sống mãi.
+
+Hằng ngày, Tí vẫn tiếp tục chăm sóc khu vườn. Cậu không còn đơn độc nữa. Tình yêu thương của bà đã trở thành sức mạnh, giúp cậu vượt qua mọi khó khăn. Cậu biết, dù bà Ba không còn ở bên cạnh, nhưng tình yêu thương của bà vẫn luôn hiện diện trong trái tim cậu, trong khu vườn rau, và trong từng quả cà chua chín đỏ, từng ngọn rau muống xanh mướt.
+</body>
+```

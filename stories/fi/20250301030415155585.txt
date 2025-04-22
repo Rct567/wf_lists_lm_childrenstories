@@ -1,0 +1,43 @@
+<prompt>
+Please write a simple and easy-to-follow Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Taikamirri ja sen salaiset kissanparrat'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>fi</lang_id>
+
+<title>Taikamirri ja sen salaiset kissanparrat</title>
+<body>
+Oli kerran pieni, ruskeatukkainen tyttö nimeltä Mirri.  Mirri asui kauniissa, puinen talossa, jonka ympärillä kasvoi komeita tammia ja punaisia marjapensaita. Mirri rakastoi luonnon kauneutta ja tutki sen salaisuuksia kuin pieni tutkija.  Yksi erityisen kiinnostava kohde oli pieni, salaperäinen metsä, joka piiloutui talon takana.
+
+Yhtenä auringonpaisteisena päivänä, kun Mirri leikki metsässä, hän törmäsi kiviseen ojaan.  Ojan keskellä oli kumma, hehkuvan keltainen kivi.  Se tuntui kuin kuuma hiili Mirrin kädessä, vaikka oja oli jäässä.  Kivi pulisahti hetkeksi, ja Mirri näki sen alta kauniita, hopeisia kissanparroja. Parrat leijuivat kuin lumilapioita auringon valossa.
+
+"Ihanaa!" Mirri huudahti ja otti varovasti parrat käteensä.  Ne tuntuisivat pehmeiltä, kuin villakangas. Yhtäkkiä kuului hiljainen ääni: "Varokaa, ne ovat taikamirrien kissanparroja."
+
+Mirri säikähti ja katsahti ympärilleen.  Kuusi pientä, siniverkkisiä olentoja seisoivat häntä ympäröimässä. Ne olivat taikamirriä, peittyneitä vaaleaan sumuun. "Oletteko te… te olette taikamirriä?", Mirri kysyi hätkähdellen.
+
+"Olemme, ja meidän kissanparramme antavat taidetta meille." yksi taikamirri vastasi.  "Parrat auttavat meitä rakentamaan, maalaamaan ja jopa tanssimaan valon mukana."  Toinen jatkoi, "Heikenneillä ovat salaiset voimat. Mutta vain kuusi parra, yksi kullekin taikamirrille, on todellista voimaa."
+
+Mirri tajusi, että kissanparrat olivat todella erikoisia.  Hän pyysi anteeksi ja kysyi miten taikamirriä voi auttaa.  Taikamirrit kertoivat, että tarvitaan avuntaa raivata raitaa metsien läpi ja kaivettava kaunis kukkavuori heille.
+
+"Mutta…" Mirri kysyi, "mitä tämä kaikki tarkoittaa? Miksi meidän täytyy auttaa teitä?"
+
+"Luonnon rauha on heikko tänä kesänä", yksi taikamirri selitti, "metsien metsät tarvitsevat rauhaa ja voimaa."
+
+He selittivät, että jos metsien eläimet ja kasvit menettävät tasapainoaan, myös taikamirrit kärsivät.  He tarvitsivat auttamista. Mirri ymmärsi ja suostui mielellään.
+
+Seuraavana päivänä Mirri alkoi työstämään, joka päivä enemmän ja enemmän. Yhdessä ystävien kanssa. He raivasivat polkuja metsän läpi, poisti risut ja reunusti heille radan. Yhtenä päivänä Mirri löysi pienen, piilossa olevan kukkavuoren, jossa kaikki värit olivat niin eloisina ja kirkkaita. Sen ympärillä oli paksusti kiviä, joista oli kaivettava ulos. Ystävänsä avustuksella ja metsän eläinten kanssa he raivattivat tilaa ja kaivoivat ulos kivet.
+
+Pian heidän työstään olivat heitä ympäröivät metsän eläimet iloisia.  He söivät ja leikkivät. Ja mitä enemmän Mirri auttoi, sitä vahvempia taikamirrit tunsivat olonsa.  Heidän valoaan oli enemmän. Kun kaikkia polkuja ja vuoria oli viimein valmisteltu, taikamirrit kiittivät Mirriä ja hänen ystäviään.
+
+Taikamirrit kertoivat, että he antaisivat Mirrille lahjan. He antoivat hänelle kauniin valkoisen linnun, joka näytti, että kuka auttaa heitä, auttaa luonnon rauhaa, rauhaa, jonka avulla metsän eläimet voivat taas levätä. Linnu pääsi lentämään kohti uutta päivää.
+
+Silloin Mirri ymmärtäsi, että taika ei ole pelkästään kissanparoissa. Se on luonnossa, eläimissä, kasveissa ja ihmisissä. Ja jokainen on taikaa, kun on oikea ihminen.
+
+Ja siitä päivänä eteenpäin, Mirri oli innoissaan kaikkien metsien ja luonnnon suhteen, ymmärtäen että pieni merkitys pitää mukana paljon enemmän valoa.  Hän oli ystävä, auttaja ja myös oppiminen oli oikea.  Ja taikamirrit pysyivät metsän kuusilla, varmuudella.
+</body>

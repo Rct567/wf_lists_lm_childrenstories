@@ -1,0 +1,128 @@
+<prompt>
+Please write a dialog-based Icelandic children's story that is at least 1000 words long.
+It must be completely written in proper Icelandic (IS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Lagið um álfakónginn sem bjargaði Íslandi frá hinu illa um árið.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>is</lang_id>
+
+```xml
+<title>Lagið um álfakónginn sem bjargaði Íslandi frá hinu illa um árið.</title>
+<body>
+<p>Sagan hefst í smábæ við ströndina, einn vetrardaginn kalda og dimma. Krakkarnir, Lilja og Kári, voru að leika sér í snjónum við húsforeldra sína, Jón og Anna. </p>
+
+<p>Lilja: (Hlæjandi) Kári, sjáðu! Ég er með risastóran snjókarl! </p>
+
+<p>Kári: (Hlær) Já, Lilja, þetta er stór snjókarl! En minn er stærri! Hann verður með sverð úr ís og allt! </p>
+
+<p>Jón: (Úr dyrunum) Hæ krakkar! Ertu að skemmta þér? Ekki gleyma að koma inn þegar þið farið að frjósa! </p>
+
+<p>Anna: (Á eftir honum) Já, og Jón minn, ekki gleyma að það er saga í kvöld. </p>
+
+<p>Lilja: Saga?! Hvaða saga mamma? </p>
+
+<p>Anna: Við ætlum að segja ykkur söguna um álfakónginn sem bjargaði Íslandi frá hinu illa um árið. </p>
+
+<p>Kári: Vá! Er þetta góð saga? Ég elska góðar sögur! </p>
+
+<p>Jón: Þetta er besta saga sem ég hef heyrt. Komið nú inn, við byrjum bráðum. </p>
+
+<p>Krakkarnir hlaupa spenntir inn. Í stofunni sitja þau við eldinn og Jón byrjar.</p>
+
+<p>Jón: Einu sinni var, fyrir löngu síðan, Ísland hernumið af myrkri. Nei, ekki bara myrkri eins og nóttin. Nei, það var myrkur úr illsku, illska sem át sálir fólks og breytti því í hálfdauðar skuggaverur. </p>
+
+<p>Lilja: (hrollur í rödd) Vá... hvað gerðist? </p>
+
+<p>Anna: Fólkið var hrætt. Það missti vonina. Litlu vissu þau af tilveru konungsins... álfakóngsins.</p>
+
+<p>Kári: Álfakóngs? Er hann eins og í ævintýrum? Með töfra og allt? </p>
+
+<p>Jón: Já, Kári, hann var eins og úr ævintýrum. Hann bjó í fallegum kastala djúpt inni í jökli, ósýnilegum fyrir venjulegu auga. Hann stjórnaði álfum sínum, sem voru fólk af hreinum hjörtum, ljósi og gleði. </p>
+
+<p>Anna: Álfakóngurinn frétti af illskunni sem ríkti á Íslandi. Hann vissi að ef ekkert yrði að gert, myndi hún dreifa sér og gleypa allt landið. Hann ákvað því að grípa inn í. </p>
+
+<p>Lilja: Hvernig? Hvernig gat hann bjargað okkur? </p>
+
+<p>Jón: Hann sendi álfa sína, úr öllum landshornum, út í heiminn. Þeir voru fljótandi, léttir eins og fiður og ósýnilegir. Hlutverk þeirra var að leita uppi hin hreinu hjörtu... þá sem höfðu enn von og trú. </p>
+
+<p>Kári: En hvernig gerðu þeir þetta? Hvað gerðu álfar? </p>
+
+<p>Anna: Álfar söfnuðust saman og byrjuðu að syngja. Þeir sungu söngva ljóss og gleði. Söngvana átti að ná til þeirra sem voru enn falin á bak við myrkrið. Söngvarnir vöknuðu von í hjörtum fólks og fengu það til að finna fyrir ljósinu sem leynist innra með því.</p>
+
+<p>Lilja: Og það virkaði? </p>
+
+<p>Jón: Já, Lilja, það virkaði. En myrkrið barðist á móti. Það reyndi að kæfa söngvana og drepa ljósið. En álfakóngurinn, í gegnum dýpt landsins, safnaði þeim og breytti þeim í einstakt lag, fullt af styrk. </p>
+
+<p>Kári: Þetta er spennandi! Hvað gerðist svo? </p>
+
+<p>Anna: Þegar álfakóngurinn fannst að fólk væri reiðubúið, lék hann lagið í gegnum landið. Söngurinn breiðdist út eins og bylgja, náði til allra. Hann var ljós, hiti og gleði. Hann minnti fólk á fallegu hlutina í lífinu, ástinni og voninni. </p>
+
+<p>Lilja: Hvað gerði myrkrið? </p>
+
+<p>Jón: Myrkrið stóð gegn. Það reyndi að stíga niður til sálanna sem enn voru í myrkri og bæla söngvinn. En vegna ástarinnar, gleðinnar og hamingjunnar gat myrkrið ekki lengur þolað. Það rann í burtu eins og ís í sólinni.</p>
+
+<p>Kári: Og þá var bjargað? </p>
+
+<p>Anna: Já, Kári, þá var bjargað. Álfakóngurinn og álfar hans, í gegnum ástarsöngva sína, sigruðu myrkrið. Ljósið sigraði myrkrið og Ísland frelsaðist. </p>
+
+<p>Lilja: Vá! Þetta er ótrúleg saga! En af hverju heyrir maður aldrei um hana? </p>
+
+<p>Jón: Vegna þess að álfarnir vilja ekki hræða okkur. Þeir vilja að við njótum lífsins, án ótta. Og álfakóngurinn, hann veit að þó myrkrið sé enn einhversstaðar í heiminum, getum við alltaf sigrað það með ljósi og gleði. </p>
+
+<p>Kári: Er þetta bara saga? Eða er satt? </p>
+
+<p>Anna: (Brosandi) Kannski, Kári. Kannski er þetta bara saga. Kannski er þetta raunveruleg saga. Við vitum aldrei alveg. En ef við trúum, þá erum við örugg.</p>
+
+<p>Lilja: Ég trúi! Ég ætla alltaf að trúa á álfakónginn og ljósið. </p>
+
+<p>Jón: Góð börn mín! Nú er kominn tími til að fara að sofa. Munið þetta: allir í okkar innra eru álfar, allir getum við skapað ljós. </p>
+
+<p>Anna: Já, takk fyrir að hlusta, börnin mín. Soðu sætt og dreymið vel. </p>
+
+<p>Krakkarnir fóru upp í rúm, augu þeirra glóandi af spenningi. Þau hugsuðu um álfakónginn, um álfa og ljósið sem sigraði myrkrið. </p>
+
+<p>Lilja: (í rúminu) Kári? </p>
+
+<p>Kári: (í rúminu) Já? </p>
+
+<p>Lilja: Finnurðu fyrir ljósi? </p>
+
+<p>Kári: Já! Mér líður mjög vel. </p>
+
+<p>Lilja: Ég vona að álfakóngurinn syngi okkur til svefns. </p>
+
+<p>Kári: Ég vona það líka. (Hlær) Og að snjókarlinn minn vinni á morgun! </p>
+
+<p>Og með hlátri sofnuðu börnin, full af friði og trausti, með álfakónginn og söngva hans í hjörtum sér.</p>
+
+<p> Daginn eftir, þegar þau voru aftur að leika sér úti, sá Kári að snjókarlinn hans var hruninn. Hann var í uppnámi. </p>
+
+<p>Kári: Ó nei! Snjókarlinn minn! </p>
+
+<p>Lilja: Ekki vera leiður, Kári. Við getum gert nýjan! </p>
+
+<p>Kári: (þurrka tár) Já, en þetta var svo stórt... og með ís-sverði... </p>
+
+<p>Þá, í snjónum, sá Lilja eitthvað. </p>
+
+<p>Lilja: Kári, sjáðu! </p>
+
+<p>Á litlum bletti í snjónum, var ís-sverð úr ís, fullkomið, eins og úr ævintýri. </p>
+
+<p>Kári: Vá! Hvernig… </p>
+
+<p>Lilja: Kannski... (hún blikkaði) Kannski var álfakóngurinn að hjálpa okkur. </p>
+
+<p>Kári (hlær): Já, kannski! (Hann tók upp ís-sverðið og hélt á lofti) Nú fer ég að berjast við myrkrið! </p>
+
+<p>Lilja: (Hlæjandi) Farðu varlega! Ekki gleyma söngnum!</p>
+
+<p> Og þau hlógu og léku sér, þau gættu þess að gleyma aldrei sögunni, söngvunum eða álfakónginum sem bjargaði Íslandi. Því, innra með þeim, ómaði lagið hans enn.
+</p>
+</body>
+```

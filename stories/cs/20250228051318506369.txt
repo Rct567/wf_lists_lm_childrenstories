@@ -1,0 +1,57 @@
+<prompt>
+Please write a educational Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kde skrývá slunce své paprsky v noci'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>cs</lang_id>
+
+```xml
+<title>Kde skrývá slunce své paprsky v noci</title>
+<body>
+Kdesi daleko, za modrými horami a stříbrnými řekami, žilo malé sluníčko jménem Sluníčko Zářička. Nezpívalo, netancovalo, ale za to mělo úkol nejdůležitější ze všech – po celý den svými teplými paprsky zahřívalo a rozsvěcovalo celý svět.
+
+Sluníčko Zářička bylo velmi pilné. Vstávalo s kohoutem, který ho vítal svým hlasitým „kokokodák!“, a usínalo, když se na nebi objevily hvězdy. Ale i pilné sluníčko mělo jedno velké tajemství. Děti si často kladly otázku: „Kde se sluníčko v noci schovává? A kam mizí jeho paprsky?“
+
+A tak se jednoho krásného dne, kdy Sluníčko Zářička svými zvesela se třepetajícími paprsky hladilo pole s dozrávajícím obilím a lesy plné zpívajících ptáků, rozhodlo, že na tuto otázku najde odpověď.
+
+„Potřebuji zjistit, kde trávím noc,“ zamumlalo si Sluníčko Zářička, zatímco pozorovala, jak si malá veverka schovávala oříšky do dutiny stromu. „Ale jak to dokázat?“
+
+V tu chvíli se k němu přitočil malý mráček Klučík Bouřlivec, který často sledoval dění na obloze. Byl mírně zasmušilý, protože zrovna nemohl pršet. „Co se děje, Sluníčko Zářička?“ zeptal se.
+
+„Přemýšlím, kde se skrývám v noci,“ odpovědělo Sluníčko. „A jak se stane, že moje paprsky najednou zmizí?“
+
+Klučík Bouřlivec se zamyslel. „To je velmi zajímavá otázka. Ale já ti s tím mohu pomoci! Vidím všechno, co se děje, z výšky. Promluvím s větrem, s deštěm, s hvězdami, a zjistíme to!“
+
+A tak Klučík Bouřlivec svolal velké setkání. Za pár chvil se shromáždili všichni – silný Větrný Dědulka, zvonivě se smějící Dešťová Paní, moudrá Hvězdička Světluška a dokonce i tichý Měsíc Měsíček.
+
+„Sluníčko Zářička chce vědět, kde stráví noc a kam zmizí jeho paprsky,“ řekl Klučík Bouřlivec. „Máte nějaké nápady?“
+
+První se ozval Větrný Dědulka, který byl známý svou rychlostí a zálibou v cestování: „Já sluníčko vidím! Když zapadne za obzor, tak se pomalu, ale jistě vydává na dlouhou cestu. Letí kolem celé Země! Oběhne celý svět a zase se objeví na východě.“
+
+Dešťová Paní se zasmála svým zvonivým smíchem: „A já ti mohu říci, kam se schovávají paprsky! Neztrácejí se! Jen se schovávají za tebou, Sluníčko Zářička! Když se točí Země, tak se tvé paprsky dostávají na ty části světa, kde je noc. A tehdy vidíme hvězdy a Měsíc!“
+
+Hvězdička Světluška se zaleskla: „A já hlídám ty paprsky! Schované pod peřinou noci, čekají, až se Sluníčko Zářička zase vrátí. Zvláště dávám pozor na paprsek nadšený, paprsek hravý, a paprsek zvědavý. Ti vždycky chtějí vyskočit dříve, než je čas!“
+
+Měsíc Měsíček se usmál svým tichým úsměvem: „A já jsem světlo, které je tady, když slunce spí. Odpovídám na tvé paprsky, Sluníčko Zářička, a odrážím je zpět na Zem. Právě proto svítím v noci.“
+
+Sluníčko Zářička bylo víc než nadšené. „To je úžasné! Celou noc cestuji kolem světa a paprsky se schovávají, aby mohly zase svítit! A vy, všichni, mi v tom pomáháte! Děkuji vám!“
+
+A tak Sluníčko Zářička pochopilo, že i když ho děti nevidí, je stále s nimi. I když se zdá, že paprsky zmizely, ve skutečnosti se jen připravují na další den plný zářivé radosti.
+
+Sluníčko Zářička se naučilo, že nejen viditelné věci jsou důležité, ale také to, co se děje „za oponou“. Pochopilo, že svět je tvořen mnoha různými rolemi a že každý má svou důležitou práci. Vědělo, že Větrný Dědulka, Dešťová Paní, Hvězdička Světluška a Měsíc Měsíček jsou jeho nejlepší přátelé a že společně tvoří nádherný celek.
+
+Od té doby, když Sluníčko Zářička zapadalo, už nebylo smutné. Vědělo, že ho čeká krásná cesta a že jeho paprsky se schovají, aby se mohly včas probudit a znovu zářit.
+
+A děti? Ty už také věděly, že Sluníčko Zářička nezmizí, ale cestuje a schovává paprsky. Když večer sledovaly západ slunce, usmívaly se a s úctou si říkaly: „Dobrou noc, Sluníčko Zářičko, a těšíme se na tebe zase zítra!“
+
+A tak to šlo den za dnem. Až jednou, po mnoha dalších krásných dnech a nocích, si malá Anička, která ráda pozorovala hvězdy, položila novou otázku: „A co dělá sluníčko, když je ve vesmíru zima?“
+
+Nová dobrodružství čekala na Sluníčko Zářičku a jeho přátele. Ale to už je zase jiný příběh...
+</body>
+```

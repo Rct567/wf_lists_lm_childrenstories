@@ -1,0 +1,35 @@
+<prompt>
+Please write a simple and easy-to-follow Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Mazais tīģeris, kas mācījās lidot'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>lv</lang_id>
+
+<title>Mazais tīģeris, kas mācījās lidot</title>
+<body>Reizēm, kādā zemē, kur saulriets noritēja virs zaļo mežu un zvejnieku ciematiem, dzīvoja mazs tīģeris. Viņa vārdā bija Rīdigers, un viņš bija visjaunākais bērns savā ģimenē. Rīdigers dzīvoja kopā ar savu māti un tēvu, kā arī diviem vecākajiem brāļiem, kas jau bija kļuvuši par lieliem un spēcīgiem tīģeriem.
+
+Rīdigers bija ļoti izsalkis un vēlējās kļūt par lielu un spēcīgu tīģeri, tāpat kā viņa vecākie brāļi. Viņš gribēja spēt skriet ātri, kāprieti augsti un lidot gaisā. Tomēr, kā mazs tīģeris, Rīdigers zināja, ka viņam vēl ir daudz ko mācīties, lai kļūtu par lielu un spēcīgu.
+
+Vienu dienu, kamēr Rīdigers pastaigājās mežā, viņš redzēja putnu, kas lidoja gaisā. Putns bija ļoti skaists, ar spīdīgiem spārniem un dzelteno knābi. Rīdigers bija ļoti noskaidrots un gribēja zināt, kā putns spēj lidot. Viņš piegāja putnam un sacīja: "Sveika, putns! Kā tu spēj lidot? Es gribētu arī lidot, bet es nezinu, kā."
+
+Putns atbildēja: "Lidot ir ļoti vienkārši, Rīdiger! Tev ir jāmācās kāpat uz augsto vietu, tad jāizplesti savas kājas un jāsāk lidot. Bet, Rīdiger, tev ir jāatceras, ka lidot ir grūti un tev ir jāmācās daudz, lai kļūtu par labu lidotāju."
+
+Rīdigers bija ļoti pārliecināts un sāka mācīties lidot. Viņš kāpās uz augstu koku un izplesta savas kājas. Tomēr, viņš nevarēja lidot un nokrita zemē. Rīdigers bija ļoti nožēlojies un gribēja pārstāt mācīties lidot. Bet putns, kurš bija redzējis Rīdigeru nokritušu, sacīja: "Rīdiger, nevisliecies! Lidot ir grūti, bet tu vari kļūt par labu lidotāju, ja tu turpināsi mācīties."
+
+Rīdigers atsāka mācīties lidot un katru dienu kāpās uz augstu koku un izplesta savas kājas. Tomēr, viņš joprojām nevarēja lidot un nokrita zemē. Rīdigers sāka zaudēt cerības, bet putns viņam atkārtoti teica: "Rīdiger, nevisliecies! Tu vari kļūt par labu lidotāju, ja tu turpināsi mācīties."
+
+Dienu pēc dienas Rīdigers turpināja mācīties lidot. Viņš kāpās uz augstu koku, izplesta savas kājas un sāka lidot. Sākumā viņš nokrita zemē, bet vēlāk viņš sāka lidot visaugstāk un visātrāk. Rīdigers bija ļoti priecīgs un pateicās putnam, kurš viņam bija palīdzējis mācīties lidot.
+
+Kad Rīdigers kļuva par labu lidotāju, viņš sāka lidot virs meža un ciematiem. Viņš redzēja daudz jaunu un interesantu lietu, un viņš bija ļoti priecīgs, ka viņš varēja lidot. Rīdigers kļuva par vislabāko lidotāju mežā un ciematos, un visi putni un dzīvnieki viņu cienīja.
+
+Tomēr, Rīdigers neaizmira savas mācības un turpināja mācīties jaunu lietu. Viņš mācījās kā būt drosmīgam, kā būt labsirdīgam, un kā būt draudzīgam. Rīdigers kļuva par vislabāko tīģeri mežā un ciematos, un visi dzīvnieki viņu mīlēja.
+
+Reizēm, kad Rīdigers bija jau kļuvis par lielu un spēcīgu tīģeri, viņš atgriezās savā mājā un stāstīja savai ģimenei par savām mācībām un sasniegumiem. Viņa māte un tēvs bija ļoti priecīgi, ka viņu dēls bija kļuvis par labu lidotāju un vislabāko tīģeri mežā un ciematos. Rīdigeru vecākie brāļi arī bija ļoti priecīgi, ka viņu mazais brālis bija kļuvis par lielu un spēcīgu tīģeri.
+
+Rīdigers dzīvoja ilgu un laimīgu mūžu, un viņš palika vislabākais lidotājs un vislabākais tīģeris mežā un ciematos. Viņa stāsts kļuva par leģendu, un visi dzīvnieki mežā un ciematos zināja par Rīdigeru, mazā tīģeri, kas mācījās lidot un kļuva par vislabāko tīģeri visos laikos.</body>

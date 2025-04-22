@@ -1,0 +1,72 @@
+<prompt>
+Please write a funny German children's story that is at least 1000 words long.
+It must be completely written in proper German (DE).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Anton und das Geheimnis der goldenen Federn'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>de</lang_id>
+
+<title>Anton und das Geheimnis der goldenen Federn</title><body>
+<p>Anton war kein gewöhnlicher Junge. Erstens, er liebte Käsebrötchen über alles (mit extra viel Butter!). Zweitens, seine Hose war meistens, nun ja, etwas fleckig von seinen zahlreichen Abenteuern. Und drittens, Anton konnte mit Eichhörnchen reden. Ja, wirklich! Es war ein Geheimnis, das er seit seinem fünften Geburtstag hütete. Damals hatte ihm eine winzige, sprechende Eichel geraten: "Anton, hör den Flüstern des Waldes!" Und Anton hörte. Er hörte die Vögel kichern, die Bäume stöhnen, und vor allem die frechen Kommentare der Eichhörnchen.</p>
+
+<p>Eines sonnigen Morgens, als Anton gerade dabei war, sein drittes Käsebrötchen zu verschlingen, hüpfte ein kleines, rothaariges Eichhörnchen namens Knacki auf seinen Schoß. Knacki hatte immer eine superwichtige, aber oft ziemlich verrückte Information. "Anton, Anton!", quiekte Knacki aufgeregt, "du musst kommen! Es ist... es ist... Die goldenen Federn!"</p>
+
+<p>Anton verschluckte hastig das Brötchen. Goldene Federn? Kling das nach einem guten Abenteuer! "Was ist mit den goldenen Federn, Knacki?", fragte Anton, der bereits seine fleckige Hose glattstrich (so gut er konnte).</p>
+
+<p>"Sie sind... verschwunden!", piepste Knacki fast heulend. "Aus dem Nest von Frau Eule! Und Frau Eule ist... ist... unglücklich! Und wenn Frau Eule unglücklich ist, gibt es keine Käsebrötchen für alle!"</p>
+
+<p>Das war ein Problem. Frau Eule, die weise alte Dame des Waldes, backte die besten Käsebrötchen, wenn sie gute Laune hatte. Ohne ihre Brötchen wäre das Leben für Anton und die Eichhörnchen unerträglich! "Wir müssen sie finden!", entschied Anton sofort. "Zeig mir den Weg!"</p>
+
+<p>So begann das Abenteuer. Knacki sprang auf Antons Schulter, und gemeinsam machten sie sich auf den Weg zu Frau Eules Nest. Der Weg war voller Hindernisse. Zuerst mussten sie an einer Horde gackernder Hühner vorbei, die Anton mit ihren frechen Bemerkungen über seine Hose zum Lachen brachten. Dann stolperten sie über einen schlafenden Dachs, der so laut schnarchte, dass die Blätter von den Bäumen fielen. Schließlich mussten sie einen reißenden Bach überqueren, was Anton gelang, indem er eine riesige, fliegende Nuss benutzte, die ein freundlicher Specht ihm zugeschossen hatte. "Wie ein Eichhörnchen-Lufttaxi!", rief Knacki begeistert.</p>
+
+<p>Als sie endlich am Nest von Frau Eule ankamen, saß diese tatsächlich ziemlich mürrisch auf einem Ast. Ihre Augen blitzten traurig hinter ihren Brillen. Das Nest, normalerweise voller weicher Blätter und kleiner, glitzernder Gegenstände, war fast leer.</p>
+
+<p>"Frau Eule?", begann Anton vorsichtig. "Knacki hat mir erzählt... von den goldenen Federn."</p>
+
+<p>Frau Eule seufzte tief. "Ja, Anton. Meine schönsten Federn. Gestohlen! Wer könnte so etwas tun? Und warum? Ich hatte sie doch gerade frisch gewaschen und mit Sonnenblumenöl gepflegt!" Sie klang fast so enttäuscht wie Anton, wenn seine Käsebrötchen ausgegangen waren.</p>
+
+<p>"Wir helfen Ihnen!", versprach Anton entschlossen. "Knacki und ich! Wir sind Detektive!"</p>
+
+<p>Die Suche nach den goldenen Federn gestaltete sich schwieriger als gedacht. Anton und Knacki befragten alle Waldbewohner. Der Fuchs gab vor, nichts zu wissen, während er heimlich gackerte. Der Bär brummte, dass er nur an Honig und Winterschlaf denken konnte. Sogar die Schnecken gaben zu, sich nicht erinnern zu können, wann sie die Federn zuletzt gesehen hatten, denn sie bewegten sich viel zu langsam. "Ich weiß ja nicht mal, ob ich überhaupt Augen habe!", meinte eine besonders lahme Schnecke.</p>
+
+<p>"Das ist zum Mäusemelken!", sagte Anton, der langsam verzweifelte. "Wo sollen wir nur suchen?"</p>
+
+<p>Knacki, der immer noch auf Antons Schulter saß, schnalzte mit der Zunge. "Warte mal! Ich habe etwas gesehen... ganz am Rande des Waldes... etwas Glitzerndes..."</p>
+
+<p>Also hetzten Anton und Knacki zum Rand des Waldes, wo sie eine kleine, ziemlich schäbige Hütte entdeckten. Vor der Hütte saß ein alter, zerzauster Rabe und putzte sich genüsslich das Gefieder. Und... oh nein! In seinem Gefieder blitzten goldene Federn! Genau die, die Frau Eule gehörten.</p>
+
+<p>Anton wurde rot vor Wut. "Du! Du hast die Federn gestohlen!", schimpfte er den Raben an.</p>
+
+<p>Der Rabe, der sich gerade eine Feder besonders gründlich putzte, schreckte hoch. "Wer... wer sagt denn das?", krächzte er mit piepsiger Stimme.</p>
+
+<p>"Ich!", brüllte Anton, der seine Faust ballte (trotzdem darauf achtend, dass er nicht seinen Käsebrötchen-Restfleck traf). "Und Knacki! Und... und Frau Eule!"</p>
+
+<p>Der Rabe zuckte zusammen und versteckte die Federn hinter seinem Rücken. "Na gut", murmelte er. "Ich... ich habe sie gefunden. Am Boden. Ich dachte, sie wären... schick... für mein Federkleid."</p>
+
+<p>Anton war kurz davor, den Raben zu packen. Aber dann sah er etwas. In der Ecke der Hütte stand ein winziger, trauriger Vogelkäfig. Und darin... ein einsames, graues Küken. Das Küken sah nicht sehr glücklich aus.</p>
+
+<p>Anton runzelte die Stirn. "Warum hast du das Küken hier?", fragte er den Raben, der plötzlich ganz verlegen wirkte.</p>
+
+<p>"Ähm... ich... ich wollte es... behalten...", stotterte der Rabe. "Es hat seine Eltern verloren. Aber es ist... es ist... einsam."</p>
+
+<p>Anton verstand. Der Rabe war zwar ein Dieb, aber er war auch... einsam. Und die Federn? Vielleicht waren sie nicht aus reiner Bosheit gestohlen worden, sondern um sich irgendwie... zu verschönern?</p>
+
+<p>"Weißt du, Herr Rabe", sagte Anton nach einer Weile. "Frau Eule ist eigentlich eine ganz nette Eule. Vielleicht können wir einen Handel machen."</p>
+
+<p>Der Rabe zuckte mit den Schultern. "Ein Handel?", krächzte er.</p>
+
+<p>"Ja", antwortete Anton. "Du gibst Frau Eule die Federn zurück, und Frau Eule hilft dir, ein neues Nest für dich und das Küken zu bauen. Vielleicht in der Nähe ihres Nestes? Dann kannst du oft nach dem Küken sehen, und du musst nicht mehr klauen."</p>
+
+<p>Der Rabe überlegte kurz. Dann nickte er langsam. "Okay", sagte er. "Einverstanden."</p>
+
+<p>Und so geschah es. Die goldenen Federn wurden Frau Eule zurückgegeben, und die beiden Detektive, Anton und Knacki, halfen beim Bau eines neuen Nestes. Frau Eule, glücklich über ihre Federn und die ganze Geschichte, backte zur Feier des Tages riesige Käsebrötchen für alle Waldbewohner. Der Rabe und das Küken bekamen auch ein paar Extra-Brötchen – natürlich mit Käse! Anton hatte gelernt, dass selbst ein Dieb ein gutes Herz haben konnte, und dass man manchmal auch die ungewöhnlichsten Wege gehen muss, um ein Problem zu lösen. Und Knacki, der während der ganzen Aufregung fast vergessen worden war, bekam einen extra großen Haselnuss-Snack.</p>
+
+<p>Als Anton sich auf den Heimweg machte, mit seinem Bauch voller Käsebrötchen und seinem Herzen voller Freude, hörte er Knackis Stimme in seinem Ohr. "Anton!", sagte das Eichhörnchen. "Weißt du was? Ich glaube, ich werde auch Detektiv werden!"</p>
+
+<p>Anton lachte. "Na dann, Knacki, dann können wir ja bald wieder auf Abenteuer gehen!", sagte er. Und er wusste, dass noch viele fleckige Hosen und viele Käsebrötchen in seiner Zukunft lagen. Und vielleicht... noch mehr goldene Federn.</p>
+</body>

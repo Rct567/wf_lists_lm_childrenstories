@@ -1,0 +1,72 @@
+<prompt>
+Please write a silly Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A fecske, aki elmondta, hogy hol van a fészek, ahová a kicsik visszatérnek este'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>hu</lang_id>
+
+<title>A fecske, aki elmondta, hogy hol van a fészek, ahová a kicsik visszatérnek este</title><body>
+Egyszer volt, hol nem volt, hetedhét országon is túl, a sárga holdon innen, egy pöttyös gombóc felhőn túl, élt egyszer egy pici, de annál nagyszájúbb fecske. A fecskét Sárinak hívták, és az volt a nagy titka, hogy mindig mindent tudott, legalábbis szerinte. Persze, a többiek, a többi fecske a nagy, kolóniás fészkekben, néha csak hümmögtek, és a csőrük hegyét a kis Sári felé forgatták, amikor nagy tudományáról beszélt.
+
+Egy napon, ami amúgy tök mindegy volt, hogy esős vagy napos, de legyen napos, mert az mindig jobb, Sári éppen egy nagy pók hálóját próbálta meg elkerülni (persze, a pók mindennek a sárga napocskát, ami a hálójában égette meg). Eközben valami furcsa dolog történt. Az addig oly békés fecske-társai, amint kiértek a reggeli rovar-vadászatból, a levegőbe emelkedve összevissza kezdtek vijjogani. Még a legöregebb fecske is, akinek már kicsit kopott volt a tolla és foltos a csőre, idegesen körözött.
+
+„Mi történt?” – kérdezte Sári, persze ahogy szokta, mindent azonnal tudni akart.
+
+Egy öreg, vastag szemüvegű fecske, akinek a neve Bernát volt, mert annyira nézett ki, mint egy bernáthegyi kutya, egy pillanatra a levegőben lebegve, szikrázó szemmel válaszolt: „Elveszett a fecske-fészek!”
+
+„Elveszett? De hogy?” – Sári döbbent meg. Ez a tudós fecske bizony még ezt sem tudta.
+
+Bernát sóhajtott. „Nem tudjuk. Éjszaka vihar volt, és mikor felkeltünk, egyszerűen nem volt ott, ahol mindig is volt.”
+
+„Akkor… hol vannak a kicsik?” – nyögte egy fiatal fecske anyuka, akinek a neve, persze, Mici volt. Mici éppen négy kicsit nevelgetett, akiknek mind nagy volt a pofája (ahogy a fecske mondaná).
+
+A felbolydulás addig tombolt, míg egy hirtelen ötlet Sári fejében nem kalapált. „Én tudom!” kiáltotta. Minden fecske a kis fecske felé fordult. Tudja, de hogy? Mikor mondták neki?
+
+„Én tudom, hol lehet!” – kiáltotta újra. „Tegnap este, mielőtt lefeküdtünk aludni a gombóc felhőre, arra repültem, és láttam valamit… Nagyon különleges volt!”
+
+A többi fecske nyelte a levegőt. Mit mondott? Sári látott valamit?
+
+„Nos…” – kezdett bele Sári, mint egy igazi mesélő. „Ahogy mentem arra, ahol a nagy tölgyfa van a kék virágokkal, pont ott… szóval, ott, a folyóparton, ahol a kék virágok vannak… és ahol mindig annyi szúnyogot látok…”
+
+Egy ideges, zörgő fecske, akinek a neve Balázs volt, de szörnyen rosszul repült, belekiabált: „Ne csinálj felvételt a sztoriból! Mondd meg!”
+
+„Persze, persze!” – intett Sári. „Nos, ott láttam valamit, ami úgy nézett ki, mintha… egy hatalmas… citrom! Igen, hatalmas citrom! És a fészek benne volt! A citrom belsejében, az ízletes bélben.”
+
+Minden fecske kerekre nyitotta a szemét. Egy hatalmas citromban a fészek?
+
+Bernát bólintott. „Sári, ez a… furcsa ötlet, de talán igazad van. Egy próbát megér.”
+
+És elindult a fecske-had, Sári vezetésével, a citrom felé. Persze, Sári nagyon örült ennek. Először vitt másokat valahová, nem csak maga repült el a gombóc felhőről a szúnyog-sáskát nézni.
+
+Mikor odaértek a folyóparthoz, a kék virágok közé, tényleg ott volt egy hatalmas, sárga valami. Ahogy közelebbről nézték, a sárga valami nem egy citrom volt, hanem… egy hatalmas, összecsomagolt… hordó. Egy hatalmas hordó volt, aminek az egyik oldala fel volt vágva, és ahová a fészek át volt rakva, a viharban.
+
+Mindenki sóhajtott megkönnyebbülten. Ott volt a fészek! És benne a kicsik, akik már nagyban aludtak a meleg takaró alatt, nem sárga héj, hanem puha, száraz levelek.
+
+Mici azonnal beröppent, hogy megpuszilja a kicsikét, a többi fecske pedig örömmel körözött a hordó körül.
+
+„Na látjátok?” – mondta Sári büszkén. „Én mondtam!”
+
+A többi fecske persze röhögött. És a kis fecske, amíg el nem mesélte a nagyméretű citromos történetet, egy picit hallgatott, örömmel.
+
+De aztán, mielőtt a nap lemenne, Sári hirtelen ötlettől vezérelve újból vijjogott: „Tudom, ki tette oda a hordót! Az a hatalmas, kék varangyos, aki mindig a folyóban ugrál!”
+
+A többiek ekkor már persze fütyültek Sári meséire. Elvégre, ki a csudában tenné a fészket egy hordóba? Majd rájönnek, hogy ez is csak egy hatalmas dolog a gombóc felhőről.
+
+És ahogy a nap lassan a láthatár alá süllyedt, Sári leült a szélén a hordónak, és elkészítette a kis fészekbe a kis kuckóját. És onnantól mindennap meglátogatta a fecskefészket, egy picit beszélgetve a picikkel és Micivel.
+
+Persze, volt, hogy a hordó megingott a széltől. Sőt, egyszer-kétszer egy hatalmas, szőrös macska is a közelben ólálkodott, de Sári mindig megtalálta a módját, hogy megvédje a fecskecsaládot.
+
+A fecskéknek egy szép estéjén, amint mindenki elaludt, a folyóparton Sári úgy döntött, hogy elmondja, hogy a hordót valójában az vitte oda, aki amúgy soha semmit nem mond, mert nem tud: a nagy, szőrös kutya, Bernát!
+
+A kutya épp a virágok szagolgatta, a hordóba ütközött, és onnantól ott maradt, a biztonság kedvéért. Sári mindezt a nagy pocakjában érezte, hiszen ott rejtőzött a szőrös kutya szelleme is. De persze, ezt a nagyszájú fecske sohasem mesélte el. Maradjon is titokban a gombóc felhőről. Így még izgalmasabb lesz a kis fecskék számára a kaland. De másnap reggel, mikor felkelt a nap, a kicsik szeme ragyogott, és azt kiáltották Sárinak, hogy a világon ők a legboldogabb fecskék.
+
+Sári egy mosollyal válaszolt. Ő tudta a titkot, de ezt a többi fecskének nem kellett tudnia. Elvégre ő volt a fecske, aki elmondta, hogy hol van a fészek, ahová a kicsik visszatérnek este, a hatalmas citrom belsejében.
+
+És a nap még tovább sütött. A felhőkre. És a szúnyogokra. És a hatalmas, de hatalmas szőrös kutyára. A kis fecskéket pedig várta a kaland! Várt rájuk a felhőpöttyös gombóccal!
+</body>

@@ -1,0 +1,42 @@
+<prompt>
+Please write a educational Turkish children's story that is at least 1000 words long.
+It must be completely written in proper Turkish (TR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kayıp Renkleri Arayan Küçük Ressam'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>tr</lang_id>
+
+<title>Kayıp Renkleri Arayan Küçük Ressam</title>
+<body>
+Bir zamanlar, küçük bir kasabada yaşayan küçük bir ressam vardı. Adı Emir olan bu küçük ressam, renkleri ve onları bir araya getirerek güzel eserler ortaya çıkarmayı çok seviyordu. Emir'in en büyük hayali, dünyanın en güzel resimlerini yapmaktı.
+
+Emir'in kasabasında bir gün tuhaf bir şey oldu. Renkler kaybolmaya başladı. İlk olarak mavi renk gitti, sonra kırmızı, yeşil, sarı... Emir'in resimleri de renklerini kaybetti. Artık her şey yalnızca siyah ve beyazdan oluşuyordu.
+
+Emir, renklerin nereye gittiğini merak etti ve onları aramaya karar verdi. Küçük ressam, kasabasının dışına çıktı ve renkleri bulmaya yönelik bir maceraya başladı. Yolda yürüdükçe, renklerin kaybolduğu konusunda kasaba halkının da endişeli olduğunu gördü.
+
+Emir, ilk olarak mavi rengi aramaya karar verdi. Mavi renk, gökyüzü ve denizlerin rengiydi. Emir, denize doğru yürüdü ve orada bir balıkçıyla konuştu. Balıkçı, mavi rengin bir grup kötü ruh tarafından kaçırıldığını söyledi. Bu ruhlar, renkleri kullanarak kendi dünyalarını renklendirmek istiyordu.
+
+Emir, cesaretini topladı ve kötü ruhların dünyasına gitmeye karar verdi. Orada, mavi rengi bir hücrede tutuklu buldu. Kötü ruhlar, Emir'i gördüklerinde çok kızdılar, ancak Emir onları renklerin birleştiğinde daha güzel olduğunu söyleyerek ikna etti. Kötü ruhlar, Emir'in sözlerini dinleyerek mavi rengi serbest bıraktı.
+
+Mavi renk, Emir'le birlikte kasabaya döndü ve gökyüzü tekrar mavi oldu. Ancak, diğer renkler masih kaybolmuştu. Emir, kırmızı rengi aramaya karar verdi. Kırmızı renk, güneşin ve çiçeklerin rengiydi. Emir, bir çiçek bahçesine gitti ve orada bir arı ile konuştu. Arı, kırmızı rengin bir grup hırsız tarafından çalındığını söyledi. Bu hırsızlar, renkleri kullanarak kendi mallarını renklendirmek istiyordu.
+
+Emir, cesaretini topladı ve hırsızların mağarasına gitmeye karar verdi. Orada, kırmızı rengi bir sandıkta buldu. Hırsızlar, Emir'i gördüklerinde çok kızdılar, ancak Emir onları renklerin paylaşılmasının daha güzel olduğunu söyleyerek ikna etti. Hırsızlar, Emir'in sözlerini dinleyerek kırmızı rengi serbest bıraktı.
+
+Kırmızı renk, Emir'le birlikte kasabaya döndü ve çiçekler tekrar kırmızı oldu. Ancak, diğer renkler masih kaybolmuştu. Emir, yeşil rengi aramaya karar verdi. Yeşil renk, ağaçların ve çimlerin rengiydi. Emir, bir ormana gitti ve orada bir köknar ağacı ile konuştu. Köknar ağacı, yeşil rengin bir grup çevreci tarafından alınarak koruduklarını söyledi. Ancak, yeşil renk çok güçlüydü ve onların dünyasına gitmek için bir yol bulmaları gerekiyordu.
+
+Emir, köknar ağacının yardımıyla yeşil rengin olduğu yere gitti. Orada, yeşil rengi bir odada buldu. Çevreciler, Emir'i gördüklerinde çok sevindiler ve yeşil rengi kasabaya geri getirmelerine izin verdiler.
+
+Yeşil renk, Emir'le birlikte kasabaya döndü ve ağaçlar tekrar yeşil oldu. Ancak, sarı renk masih kaybolmuştu. Emir, sarı rengi aramaya karar verdi. Sarı renk, güneş ışığının ve çiçeklerin rengiydi. Emir, bir tarlaya gitti ve orada bir çiftçi ile konuştu. Çiftçi, sarı rengin bir grup bilim insanı tarafından alınarak bir deney için kullanıldığını söyledi.
+
+Emir, cesaretini topladı ve bilim insanlarının laboratuvarına gitmeye karar verdi. Orada, sarı rengi bir deney tüpünde buldu. Bilim insanları, Emir'i gördüklerinde çok şaşırdılar ve sarı rengi kasabaya geri getirmelerine izin verdiler.
+
+Sarı renk, Emir'le birlikte kasabaya döndü ve güneş ışığı tekrar sarı oldu. Artık tüm renkler kasabaya geri dönmüştü. Emir, renkleri bulduğu için çok mutluydu ve kasaba halkı da Emir'e teşekkür etti.
+
+Emir, renklerin birleştiğinde daha güzel olduğunu öğrendi ve kasabasını renklendirmek için yeni bir proje başlattı. Kasaba halkı, Emir'in projesine katıldı ve birlikte kasabalarını renklendirdiler. Artık kasaba, dünyanın en renkli ve güzel kasabası haline gelmişti.
+
+Emir, küçük bir ressam olarak büyük bir başarı elde etti ve kasaba halkının sevgisini kazandı. Emir'in hikayesi, renklerin birleştiğinde daha güzel olduğunu ve birlikte çalışmanın gücünü gösteren bir hikayeydi. Ve Emir, toujours kasabasını renklendirmeye devam etti.</body>

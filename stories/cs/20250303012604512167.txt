@@ -1,0 +1,35 @@
+<prompt>
+Please write a emotional Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Dobrodružství vlakového průvodčího a jeho kouzelného kufru'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Dobrodružství vlakového průvodčího a jeho kouzelného kufru</title>
+<body>
+Paní průvodčí Eliška měla zvláštní práci.  Její den nezačínal v postele, ale ve vlaku.  Cestující ji viděli brzy ráno, jak usměvavá a šikovná se proplétá mezi vagóny, nabízející teplý čaj a sladké sušenky.  Ale Eliška měla tajemství. V jedné malinké kupé, ukryté v hlubinách vlaku, stála velká a tajemná dřevěná krabice. Byl to kouzelný kufr plný fantastických hraček a  snových příběhů.
+
+Jeho víko bylo zdobeno drobnými barevnými motýly, kteří se při každém otevírání zdáli vznášet nad ním.  Eliška ho nikdy neměla na výloze, vždy byl ukryt, připraven k dobrodružství.  Pro ni nebyl jen kufr, ale okno do jiných světů, plný vtipných mechanických panáčků a záhadných hraček z rozbitého a zapomenutého světa.
+
+Jednoho podzimního dne se Eliška vydala se svým vlaku na cestu přes kopce a údolí, po nezapomenutelné trase, plné ohromných a rozmanitých krás. Na své stanici se náhle objevila stará babička, s pláčem v očích a slzami stekajícími po tváři. Dárky, které si chtěla pro svou vnoučata přivézt, se v rukou rozpustily do vzduchu a zmizely. V očích babičce se ztratila veškerá radost. 
+
+Eliška,  srdce jí plné soucitu, se snažila uklidnit babičku.  Vyndala ze svého zvláštního kufru hračku: mechanickou panenku s kočičíma oušky a štíhlou postojvou. Její jemné stříbrné oči svítily a ve větrném světě si ji babicka hned zamilovala.  Světélko lásky a něhy v očku panenky se k babičce šířily a s teplým úsměvem slzy a bolest vyprchaly z jejích očí. Babička, šťastná, poprosila Elišku o něco, čeho by se jí panenka mohla zúčastnit, a s radostí v hlase souhlasila, v nádechu zájmu a vzrušení.
+
+Podél tratě se setkávali s nešťastnými lidmi, postradanými  lidmi. Panáček s kočičíma ušima se pak stal neobyčejným poslem a vynikajícím přátelem v jejich  dobrodružstvích. Eliška s ním spojovala smutné a rozrušené lidi s radostnými, uspokojenými a naplňujícími lidmi. Na jejich cestách v jejím tajemném kufru se ukrývaly stovky rozkošných a jedinečných věcí, jež s radostí rozdala a požehnala s nadšením a radostí.
+
+Ve chvíli, kdy vlak vjel do tmavých horských údolí, zaslechla Eliška tiše tlumené cvrlikání.  S kuřetím srdcem, aby našla zdroj tiché melodie, s kouzelnou hračkou v náručí se vydala na výlet z kupé. Proplétala se cestujícími vagony, kteří se ve svém světle zdáli tak spokojení a uspokojení.
+
+Slyšela cvrlikání blíže, mezi krosnami cestujících. Tam uvízla, zapomenutá panenka s kočičíma oušky. Eliška ji vzala do ruky, otřepala prach a uviděla skrytý klíč. Mluvil o cestě pro lidi na vrcholy hor a nad ní. Uskutečňovala se s ní cesta k naplnění neuskutečnitelných snů a toužení a upevnila spojení lásky v jejich srdcích.
+
+Vzhůru na hory se vyrazila. Vyšla ze vlaku a šla a šla. Věděla, že musí dojít na konec kopců, k nejvyššímu vrcholu hory. A skutečně to byla nejkrásnější cesta. Setkala se s úžasným krásným krajem. Podle cesty našla tajemnou jeskyni plnou kouzelných klenotů a poklady. Vstoupila do jeskyně a vzala si tam nejkrásnější šperk: zářivý safírový kámen, odrážející se v jejích očích a srdečném tleskání.  Safírová hvězda jí požehnala a dala jí další sílu a štěstí. S ním se vydala do vesnice a pomohla mnoha lidem. 
+
+Když se vlak vracel z cestou zpět,  na zastávce se stávalo pro ně úžasným a laskavým zjištěním. Všichni, s nimiž se setkala, ji uznali jako jejich spása a uložili je k vděčnosti. Za pomoc jim z jejich vřelého štěstí i potřeby odpouštění si. Eliška, stále s panenkou, už věděla, jaký to bylo potěšení ze spojování lidí a z upevnění cesty života, které je spojují. A v úžasném a vzájemném upevňování lidských a dobročinných hodnot proslouhly její krásné dobrodružství v srdcích všech lidí, kteří se s ní setkali.
+
+
+</body>

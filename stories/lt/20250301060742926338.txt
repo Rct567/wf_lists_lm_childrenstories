@@ -1,0 +1,35 @@
+<prompt>
+Please write a light-hearted Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Mažasis žirgelis ir jo auksiniai sparnai'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>lt</lang_id>
+
+<title>Mažasis žirgelis ir jo auksiniai sparnai</title>
+<body>Kadaise, toli šalyje, kur saulė leidžiasi į jūrą ir dangus spindi kaip tūkstančiai žvaigždžių, gyveno mažasis žirgelis. Jis buvo labai mažas, bet turėjo didelę širdį ir svajones. Žirgelis vardą Žygis, gyveno kartu su savo tėvu ir motina, kurie augino jį su meile ir rūpestingumu.
+
+Žygis buvo visada linksmas ir energingas, bet kartais jis pasijaudindavo, kad negali skristi kaip paukščiai. Jis stebėdavo, kaip paukščiai kyla į orą ir skrenda toli, ir svajodavo, kad galėtų daryti tą pat. Tėvai ir motina visada kalbėdavo, kad Žygis yra žirgelis, ir kad jam reikia būti patenkintam savo gyvenimu, bet Žygis negalėjo atsikratyti svajonės skristi.
+
+Vieną dieną, kai Žygis buvo ganėjamas lauke, jis pamatė seną, išmintingą kuliką, sėdintį ant akmenio. Kulikas žvilgė į Žygį ir tarė: "Kas tau trisdešimt, mažasis žirgelis? Kodėl tu atrodo taip liūdnas?" Žygis pasakė kulikui apie savo svajonę skristi, ir kulikas klausė: "Ar tu tikrai nori skristi? Ar tu žinai, kokie pavojai yra ore?"
+
+Žygis atsakė, kad jis nori skristi, nesukūręs apie pavojus. Kulikas piktinosi ir tarė: "Gerai, aukščiau, mažasis žirgelis. Aš duosiu tau auksinius sparnus, bet tu turi juos užsidėti pats." Žygis buvo labai džiaugsmingas ir laukė, kol kulikas duos jam auksinius sparnus.
+
+Kulikas atidarė savo sparnus ir parodyti Žygiui, kad jie yra labai gražūs, bet jie reikalauja didelės meilės ir rūpestingumo. Žygis pažadėjo, kad jis visada saugos auksinius sparnus ir juos neleis niekam pakenėti. Kulikas duos jam auksinius sparnus, ir Žygis juos užsidedavo ant nugaros.
+
+Žygis buvo labai džiaugsmingas, kai jis pajuto, kad auksiniai sparnai prigijo prie jo nugaros. Jis skrido aukštyn ir apie, jaučdamas laisvę ir linksmybę. Jis skrido virš laukų ir miškų, virš upių ir ežerų, ir visur jis matė naujas vietas ir gyvūnus.
+
+Bet Žygis netruko suprato, kad skrydis yra ne tik linksma, bet ir pavojinga. Jis pamatė erelius, kurie skrenda aukštyn ir medžioja mažus paukščius, ir jis suprato, kad jis turi būti atsargus. Jis skrido lėtai ir atidžiai, stengdamasis išvengti pavojų.
+
+Vieną dieną, kai Žygis skrendė virš miško, jis pamatė didelę ugnį, kuri degė medžius ir krūmus. Žygis suprato, kad jis turi padėti, ir jis skrido į ugnį, norėdamas gelbėti gyvūnus, kurie buvo apsupti liepsnos. Jis skrido į ugnį, naudodamas savo auksinius sparnus, ir jis gelbėjo daug gyvūnų, kurie būtų žuvę, jei jis nebūtų atėjęs.
+
+Žygis buvo labai džiaugsmingas, kad jis galėjo padėti, ir jis suprato, kad jo auksiniai sparnai buvo ne tik linksma, bet ir naudinga. Jis skrido atgal namo, jaučdamas didelę meilę ir rūpestingumą savo auksiniams sparnams, ir jis žinojo, kad jis visada saugos juos.
+
+Nuo tos dienos, Žygis buvo žinomas kaip didysis gelbėtojas, ir visi gyvūnai miške ir lauke mylėjo jį. Jis skrendė visur, gelbėdamas gyvūnus ir padėdamas tiems, kurie reikėjo pagalbos. Žygis buvo labai džiaugsmingas, kad jis galėjo padėti, ir jis suprato, kad jo auksiniai sparnai buvo jo didžiausias turtas.
+
+Ir taip Žygis skrendė visą savo gyvenimą, naudodamas savo auksinius sparnus, kad padėtų kitiems, ir jis visada buvo mylimas ir gerbiamas visų gyvūnų, kurie jo pažinojo. Jo istorija buvo pasakojama visose šalyse, ir visi vaikai svajodavo tapti tokiais pat, kaip Žygis, su auksiniais sparnais ir dideliu širdimi.</body>

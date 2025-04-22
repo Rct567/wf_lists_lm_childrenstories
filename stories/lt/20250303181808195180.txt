@@ -1,0 +1,41 @@
+<prompt>
+Please write a silly Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kas Rytoj Bus, Jei Aš Busiu'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>lt</lang_id>
+
+<title>Kas Rytoj Bus, Jei Aš Busiu</title>
+<body>Kadaise, viename mažame miestelyje, gyveno jaunas vaikinas, vardu Jonas. Jis buvo labai kurčias ir visada norėjo žinoti, kas rytoj bus, jei jis busiu. Jonui tai buvo svarbiausia, nes jis norėjo būti pasirengęs visiems galimam skirtumams.
+
+Vieną dieną, einant per miestelio aikštę, Jonas pamatė seną, išsigandusį žmogų, sėdintį ant suolo. Senis buvo apsirengęs senomis, atmangomis drabužiais, o jo veidas buvo pilnas raukšlių. Jonas priešė prie senio ir paklausė: "Kas rytoj bus, jei aš busiu?"
+
+Senis pažvelgė į Joną ir tarė: "Aha, jaunas vaikinas, tu nori žinoti, kas rytoj bus? Tai yra labai sunkus klausimas. Bet aš galiu tave pamokyti, kaip tai atrasti." Senis priešė Joną sekti jį, ir jie abu išėjo iš miestelio į laukus.
+
+Jie ėjo ilgiau nei valandą, kol pasiekė didelį, seną medį. Medis buvo labai aukštas, o jo šakos siekė dangų. Senis tarė: "Šis medis yra labai svarbus. Jis žino, kas rytoj bus, jei tu busi." Jonas pažvelgė į medį ir paklausė: "Kaip jis žino?"
+
+Senis atsakė: "Medis turi specialų galią. Jis gali matyti į ateitį. Bet kad jis pasakytų tau, kas rytoj bus, tu turi atlikti tris užduotis." Jonas sušuko: "Aš esu pasirengęs! Kokie jos?"
+
+Senis tarė: "Pirmoji užduotis yra surasti auksinę šėrį. Ji yra paslėpta kažkur šiame lauke. Antroji užduotis yra pargyti didelę, juodą katę, kuri gyvena šalia. Trečioji užduotis yra atnešti šiaurės vėjo pūtuko." Jonas pažvelgė į senį ir tarė: "Aš esu pasirengęs viskam!"
+
+Jonas pradėjo ieškoti auksinės šėrįs. Jis ieškojo visame lauke, bet negalėjo ją rasti. Jis ieškojo po akmenimis, po medžiais, bet jokioje vietoje negalėjo ją aptikti. Kai jis jau buvo nusigyvenęs, jis pamatė mažą, auksinę šėrį, paslėptą po dideliu akmeniu. Jonas šoko džiaugsmu ir paėmė šėrį.
+
+Tada Jonas pradėjo pargyti didelę, juodą katę. Katė buvo labai greita, bet Jonas buvo dar greitesnis. Jis pargynė katę visame lauke, kol galiausiai pasiekė jos namus. Katė buvo labai įsiūtusi, bet Jonas jai pasakė: "Aš tiesiog norėjau pargyti tave, kad žinotum, kas rytoj bus." Katė pažvelgė į Joną ir tarė: "Aš suprantu. Bet kad aš leisčiau tau eiti, tu turi man duoti auksinę šėrį."
+
+Jonas dujo katė auksinę šėrį, ir katė leido jam eiti. Tada Jonas pradėjo ieškoti šiaurės vėjo pūtuko. Jis ieškojo visame lauke, bet negalėjo jį rasti. Jis klausinėjo visų gyvų būtybių, bet niekas negalėjo jam pasakyti, kur yra pūtukas. Kai jis jau buvo nusigyvenęs, jis pamatė mažą, šiaurės vėjo pūtuko, paslėptą po dideliu medžiu. Jonas šoko džiaugsmu ir paėmė pūtuko.
+
+Jonas grįžo pas senį ir atnešė jam viskas, ką buvo prašyta. Senis pažvelgė į Joną ir tarė: "Tu esai labai drąsus vaikinas. Dabar aš galėsiu tau pasakyti, kas rytoj bus, jei tu busi." Senis pažvelgė į medį ir tarė: "Medis, pasakyk jam, kas rytoj bus."
+
+Medis pažvelgė į Joną ir tarė: "Rytoj bus saulėta diena. Tu esi pasirengęs viskam, kas rytoj bus. Bet atsimink, kad rytoj bus ir kiti, kurie bus nori žinoti, kas rytoj bus. Tu turi būti pasirengęs ir jiems padėti." Jonas pažvelgė į medį ir tarė: "Aš esu pasirengęs. Aš norėčiau padėti kitiems."
+
+Jonas grįžo į miestelį ir pasakė visiems, kas rytoj bus. Visi buvo labai džiaugsmingi, kad Jonas jiems pasakė, kas rytoj bus. Nuo to laiko Jonas buvo vadinamas "Rytojų Profečiumi". Jis visada buvo pasirengęs viskam, kas rytoj bus, ir visada padėjo kitiems.
+
+Kai Jonas užaugo, jis tapo labai svarbiu žmogumi miestelyje. Jis buvo pasirengęs viskam, kas rytoj bus, ir visada padėjo kitiems. Visi miestelio gyventojai mylėjo Joną, nes jis buvo labai geras ir visada padėjo kitiems.
+
+Ir taip, Jonas gyveno ilgiau nei 100 metų, ir visada buvo pasirengęs viskam, kas rytoj bus. Jis visada padėjo kitiems, ir visi miestelio gyventojai mylėjo jį. Jonas buvo tikras "Rytojų Profečius", ir jo istorija buvo pasakojama visiems, kad jie galėtų išmokti, kaip būti pasirengus viskam, kas rytoj bus.</body>

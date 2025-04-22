@@ -1,0 +1,31 @@
+<prompt>
+Please write a fun and entertaining Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A hős lovag, aki megmentette a királylányt a sötét kastély fogságából.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>A hős lovag, aki megmentette a királylányt a sötét kastély fogságából.</title>
+<body>
+A fényes, napsütötte királyságban, ahol a hegyek magasak voltak, mint a csillagok, és a folyók csillogtak, mint az ezüst, élt egy bátor lovag, akivel mindenki, kivétel nélkül, büszke volt.  A lovag neve Gyuri volt, és bár fiatal volt, szíve olyan erős volt, mint a hegyek, amelyeket minden nap a szemlélődésükben látta.  Gyuri nemcsak a kardjával, de a szívével is harcolt a gonosz ellen.
+
+Egy borús, felhős napon érkezett a királyi udvarba egy üzenet, amelyet egy reszkető futár hozott. A királylányt, a gyönyörű, napfényes Aurora-t, elrabolták a sötét kastélyból.  A Sötét Kastély, amint az mindenki tudta, nem volt egy hétköznapi hely.  A falai sötétebbek voltak, mint az éjszaka, a szobái pedig hidegebbek, mint a téli hó.  A kastélyban élő sötét szellemek nemcsak szívükben, de a kastély minden kőjében is lakoztak.  A király mélyen szomorú volt, a királynő könnyezett, a udvar pedig rémületbe esett.
+
+Gyuri, amikor meghallgatta a király szavát, tudta, hogy mit kell tennie.  A kardját felvette, lovára, a fényes Fehérréőre pattant, és útnak indult a Sötét Kastély felé.  Az út hosszú és veszélyes volt.  Gyurinak át kellett kelnie a szörnyű Sziklás-szoroson, ahol a sziklák között szörnyű szörnyek rejtőztek, akik vad üvöltéssel támadták a lovagokat.  De Gyuri bátor volt, és nem félt a szörnyek haragjától.  Kardjával, mint villám, vágott a sötét szörnyeken, és Fehérréő segítségével, a gyönyörű lóval, aki mindig hűséges volt, minden veszélyt legyőzött.
+
+A Sötét Kastély falai a távolban egyre nagyobb, rémisztőbbnek látszottak.  Gyuri tudta, hogy az igazi próba még csak most kezdődik.  A kastélykapunál egy félelmetes őr áll, a sötét démon, akivel a lovagok már sok alkalommal találkoztak.  A sötét démon hatalmas, szörnyű, gonosz hanggal üvöltött a lovagra.  Gyuri azonban nem riadt vissza, hanem kihúzta kardját, és a démonnal párbajra lépett.
+
+A csata heves és dühös volt.  Gyuri és a démon a Sötét Kastély udvarán harcoltak, mint két vadállat.  A kardok összeütköztek, a szikrák röpködtek, a föld pedig megremegett a hatalmas erejüktől.  Végül Gyuri, akinek szívében a bátorság égett, és akinek ereje nagyobb volt a démonokénál, legyőzte a sötét démonokat.  Győzelmével megnyitotta az utat a királylányhoz.
+
+A kastély belsejében Gyuri még több veszéllyel találkozott.  Át kellett haladnia a Hold nélküli folyosón, ahol a félelmetes szellemek rejtőztek, akiknek látszólag nem volt testük.  Gyuri figyelmes volt, és sikerült elkerülni a szellemek csapdáit, a sötét teremben, amelyben a szellemek és a sötét szörnyek táncoltak, a tánc pedig a halálhoz vezetett.  Végül elért egy szoba, amelyben a gyönyörű Aurora-t, a királylányt, láncok fogták.
+
+A királylány sírt, arca sápadt volt, mint a hó.  Gyuri a szíve mélyéből örült, hogy segíthet a szomorúságban.  Gyuri a kardjával szabaddá tette a királylányt, és egy pillanatra a két fiatal tekintete találkozott.  A királylány megköszönte Gyurinak a segítségét, és a lovag örömmel látta, hogy sikerült a küldetését teljesíteni.  A Sötét Kastélyban megnyíló fény, amely az eljövendő napot jelentette, Gyuri szívébe sugárzott.
+
+Gyuri és Aurora együtt tértek vissza a királyi palotába.  A király és a királynő könnyekkel köszönték Gyurit, aki egy hősként tértek vissza. A királyságban nagy ünnepség volt, és mindenki Gyuri hősiességét ünnepelte.  Gyuri pedig, bár tudta, hogy ő csak egy egyszerű lovag, mindig emlékezett arra, hogy a bátorság és a jótékony tett a legnagyobb kincs.  És a Sötét Kastélyból elhozott fény örökké felidézte az emlékét a világban.
+</body>

@@ -1,0 +1,63 @@
+<prompt>
+Please write a timeless Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'An Ceadúnas A Bhí Ag Teastáil Ón Muc Beag Don Ól'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>ga</lang_id>
+
+```xml
+<title>An Ceadúnas A Bhí Ag Teastáil Ón Muc Beag Don Ól</title>
+<body>
+Bhí muc bheag gleoite, leis an ainm Pádraigín, ina chónaí i gCnoc na gCaorach. Ba mhac léinn é de chuid na beatha, agus bhí fonn air foghlaim faoi gach rud. Bhí sé go háirithe fiosrach faoi rudaí nach raibh cead aige a dhéanamh fós, go háirithe an ól. Chuala sé an seanfhear Seán, a raibh bothánín beag aige ag bun an chnoic, ag gáire agus ag baint sásamh as a dheochanna. “Ach cad é sin, a Pádraigín?” a d’fhiafraigh sé de féin, agus é ag faire ar an tseanaois a bhain sult as a chuid beoir.
+
+Bhí a fhios ag Pádraigín nach raibh sé in aois oiriúnach do ól, ach bhí an fiosracht ag brú air. Shroich sé amach chuig a mháthair, Muire, a bhí ag spraoi leis an muiceoil eile. "A Mhamó," arsa Pádraigín, "cén fáth nach bhfaighim ól? An bhfuil sé dona?"
+
+D'fhéach Muire go ceanúil ar a mhac. "Is ea, a stór," a dúirt sí, "níl sé ceart duit ól fós. Níor cheart do leanaí ól, agus tá cúiseanna éagsúla leis sin."
+
+Ach bhí Pádraigín brúite. "Ach is cosúil go mbaineann daoine eile sult as," arsa sé, "agus ba mhaith liom fios a bheith agam cad é an chuma atá air."
+
+"Ach caithfidh tú fanacht go dtí go mbeidh tú sean go leor," a mhínigh Muire. "Tá rialacha ann. Ní bhaineann sé le do chorp amháin, ach le do chéadúnas."
+
+"Ceadúnas?" d'fhiafraigh Pádraigín. "Cad é an ceadúnas atá ag teastáil?"
+
+"Bhuel, caithfidh tú bheith in aois áirithe, ar dtús," a d’fhreagair Muire. "Agus, ina theannta sin, ní mór duit a bheith in ann na beoirí a láimhseáil. Ach ar ndóigh, ag an aois seo, tá siad ag ligean ar leataobh thú."
+
+Bhí Pádraigín suaite. Bhí sé meáite ar a bheith ina mhuc a bhainfeadh sult as an ól. Mar sin, d'fhág sé a theach ar an gcnoc, agus chuaigh sé go dtí an seanfhear Seán.
+
+"Seán," a dúirt Pádraigín, "cad é an ceadúnas atá ag teastáil don ól?"
+
+D'fhéach Seán, leathbheairbhthe le beoir, ar Pádraigín agus rinne sé gáire. "Ah, a Pádraigín, tá fiosracht agatsa! An ceadúnas... sin an rud is deacra le fáil."
+
+"Céard atá i gceist?" d'fhiafraigh Pádraigín, a bhí fiosrach anois go mór.
+
+"Ar dtús, caithfidh tú a bheith sean go leor," a mhínigh Seán. "Caithfidh tú a bheith ag aois nuair a mhaireann do chroí leis na haois."
+
+"Ach cad eile?" d'fhiafraigh Pádraigín.
+
+"Caithfidh tú a bheith freagrach," arsa Seán. "Caithfidh tú a bheith in ann aire a thabhairt duit féin, agus aire a thabhairt do na daoine eile."
+
+"Agus cad eile?"
+
+"Caithfidh tú a bheith in ann gan an iomarca a ól!" a dúirt Seán, ag gáire. "Má ólann tú an iomarca, caillfidh tú do chiall agus déanfaidh tú rudaí mícheart."
+
+Bhí Pádraigín an-díomá. Bhí sé meáite ar an ól a bhaint amach, ach bhí sé deacair ar fad é. "Ach conas is féidir liom an ceadúnas a fháil?" a d'fhiafraigh sé.
+
+"Ah, a chara," a dúirt Seán, ag gáire arís, "níl ceadúnas ann. Tá sé ag fanacht. Fásann tú suas, agus d'fhoghlaimíonn tú. Foghlaimíonn tú faoi do chorp, faoi na daoine eile, agus faoi féinriail. Ansin, tar éis an tsaoil, bíonn tú réidh don ól. Is faoin mianach sin, Pádraigín. Baineann sé le fás."
+
+"Mar sin, caithfidh mé fanacht?" arsa Pádraigín, a bhí dóchasach arís.
+
+"Is ea, a chara," a dúirt Seán, "Caithfidh tú fanacht. Agus idir an dá linn, is féidir leat foghlaim. Foghlaim faoin saol. Foghlaim faoi do chuid mothúchán. Foghlaim faoi na daoine eile. Agus ar ndóigh, is féidir leat an ól a thabhairt faoi deara ón taobh amuigh. Ansin beidh tú níos réidh nuair a thabharfaidh tú faoi."
+
+D'fhill Pádraigín abhaile, a intinn lán. Thuig sé gur phleanáil níos mó a bhí ag teastáil. Bhí sé ag foghlaim. Gach lá, d'fhéach sé ar an mbealach a mhair muiceoil eile, an chaoi a ndéileálfadh siad le trioblóidí, agus an chaoi a n-idirghníomhaídís lena chéile. Chabhraigh sé lena thuismitheoirí, d'imir sé le haona, agus d'fhoghlaim sé faoin nádúr máguaird. Thuig sé gurbh é an ól an bealach amháin le rudaí a bhaint amach.
+
+Bhí sé sásta anois, ag fanacht. Chonaic sé an seanfhear Seán ag an mBothán, agus fuair sé tuiscint níos doimhne ar na focail. Shocraigh sé a bheith foighneach, agus bheith ullamh nuair a thiocfadh a lá. Tháinig sé ar an eolas faoi, faoi a cheart. 
+
+Agus nuair a shroich sé aois d'fhoghlaim, thuig sé go raibh sé i bhfad níos mó ná an ól a theastaigh uaidh. Thuig sé luach na cairdis, na freagrachta, agus an ghrá. Bhí sé réidh leis an ól, ach ba le fuascailt, anseo agus ansúd. Mar sin, i ndeireadh na dála, bhí sé in ann an ceadúnas a bhí ag teastáil a fháil, ní ó údarás, ach ón saol féin.
+</body>
+```

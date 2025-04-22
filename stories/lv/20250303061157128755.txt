@@ -1,0 +1,37 @@
+<prompt>
+Please write a relatable Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Mazā Anna un noslēpumainā zvaigžņu grāmata'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>lv</lang_id>
+
+<title>Mazā Anna un noslēpumainā zvaigžņu grāmata</title>
+<body>Reiz bija meitene, kuras vārdā bija Anna. Viņa dzīvoja nelielā ciematā, kurā visi zināja viens otru. Mazā Anna bija ļoti izsmēlīga un vienmēr gribēja uzzināt jaunu. Viņa mīlēja lasīt grāmatas un ik dienas pēc skolas devās uz bibliotēku, lai aizīrētu jaunas grāmatas.
+
+Viņas mīļākās grāmatas bija par zvaigznēm un kosmosu. Anna bija ļoti ieinteresēta par to, kā pasaule ir radusies un kā zvaigznes kustas debesīs. Viņa bieži nokļuva savā istabā, kurā bija liels logs, un skatījās uz zvaigznēm, domājot par visu, ko viņa bija lasījusi.
+
+Vienā dienā, kad Anna bija bibliotēkā, viņa atklāja vecu, noslēpumainu grāmatu. Grāmatas vāks bija no kāda ādaina materiāla, un uz tā bija zīmētas dažas zvaigznes. Anna bija ļoti ieinteresēta un nolēma aizīrēt grāmatu. Bibliotekāre teica Annai, ka grāmata ir ļoti reta un ka tā ir bijusi slēpta daudzus gadus.
+
+Anna aiznesa grāmatu mājās un sāka to lasīt. Grāmatā bija daudz par zvaigznēm un to kustībām. Anna lasīja par to, kā zvaigznes maina savu vietu debesīs un kā tās ietekmē planētu kustības. Viņa arī lasīja par dažādiem zvaigžņu veidiem un to īpašībām.
+
+Kad Anna lasīja grāmatu, viņa sāka pamanīt, ka zvaigznes debesīs kustas pēc grāmatā aprakstītās kārtības. Viņa bija ļoti pārsteigta un sāka domāt, ka grāmata ir īsti noslēpumaina. Anna nolēma turpināt lasīt grāmatu, lai uzzinātu vēl vairāk par zvaigznēm un to noslēpumiem.
+
+Grāmatā bija arī daudz attēlu, kuri bija zīmēti ar rokām. Attēli bija ļoti skaisti un Annai patīkās ļoti. Viņa sāka zīmēt pašai, mēģinot atkārtot attēlus no grāmatas. Anna zīmēja daudz un viņas zīmējumi kļuva labāki un labāki.
+
+Kad Anna bija lasījusi visu grāmatu, viņa sāka justies ļoti noslēpumaini. Viņa bija uzzinājusi daudz jaunu par zvaigznēm un to kustībām. Anna nolēma doties uz tuvējo kalnu, lai skatītos uz zvaigznēm no augšas. Viņa uzvilka savu labāko kleitu un devās kalnā.
+
+Kalna virsotnē Anna redzēja zvaigznes, kā viņa nebija redzējusi nekad iepriekš. Zvaigznes bija ļoti skaistas un Annai patīkās ļoti. Viņa sāka justies ļoti mājīgi un nolēma atgriezties kalnā katru nakti, lai skatītos uz zvaigznēm.
+
+Anna kļuva par zvaigžņu eksperti un viņas draugi sāka viņu saukt par "zvaigžņu meiteni". Viņa bija ļoti lepna par sevi un viņas zināšanām. Anna turpināja lasīt grāmatas par zvaigznēm un viņa kļuva vēl labāka zvaigžņu eksperte.
+
+Gadu gaitā Anna kļuva par astronomi un viņa strādāja daudzās zinātniskās organizācijās. Viņa bija ļoti atzīta un viņas darbi tika publicēti daudzās zinātniskās grāmatās. Anna bija ļoti lepna par sevi un viņas sasniegumiem.
+
+Bet Anna nekad neaizmira noslēpumaino grāmatu, kura bija viņai atvērusi durvis uz zvaigžņu pasauli. Viņa turpināja lasīt grāmatu un mācīties no tās. Anna bija pārliecināta, ka grāmata bija īsti noslēpumaina un ka tā viņai bija devusi iespēju kļūt par to, kas viņa ir šobrīd.
+
+Un tā Anna dzīve bija pilna ar zvaigznēm un noslēpumiem. Viņa bija atradusi savu vietu pasaulē un viņa bija ļoti lepna par sevi. Anna bija zvaigžņu meitene un viņa turpināja skatīties uz zvaigznēm, domājot par visu, ko viņa bija uzzinājusi no noslēpumainās grāmatas.</body>

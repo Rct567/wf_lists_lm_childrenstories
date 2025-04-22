@@ -1,0 +1,152 @@
+<prompt>
+Please write a dialog-based French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La sécheresse et l'eau, un manque vital, une ressource à préserver avant tout.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```xml
+<title>La sécheresse et l'eau, un manque vital, une ressource à préserver avant tout.</title><body>
+**Chapitre 1 : Le début du mystère**
+
+*Personnages :*
+*   **Léo :** Un petit garçon curieux et énergique.
+*   **Sophie :** La meilleure amie de Léo, réfléchie et attentive.
+*   **Mamie Gisèle :** La grand-mère de Léo, une femme sage et pleine d'histoires.
+
+*(Scène : Le jardin ensoleillé de Mamie Gisèle. Le soleil brille fort. Les fleurs sont un peu fanées.)*
+
+**Léo :** Mamie Gisèle, regarde ! Mes fleurs sont toutes tristes !
+
+**Mamie Gisèle :** (Avec une voix douce) Oh, mon chéri, c'est à cause de la sécheresse. Il ne pleut plus depuis longtemps.
+
+**Sophie :** La sécheresse ? C'est quoi, ça ?
+
+**Mamie Gisèle :** C'est quand il n'y a pas assez de pluie, Sophie. La terre devient sèche et les plantes ont du mal à vivre.
+
+**Léo :** Et pourquoi il n'y a pas de pluie, Mamie ?
+
+**Mamie Gisèle :** C'est une bonne question, Léo. Parfois, c'est le vent qui emporte les nuages, parfois c'est parce que le soleil chauffe beaucoup…
+
+**Sophie :** Mais qu'est-ce qu'on peut faire ? Les plantes ont besoin d'eau !
+
+**Mamie Gisèle :** C'est vrai, ma puce. L'eau est précieuse. Sans eau, rien ne peut vivre.
+
+**Léo :** On pourrait arroser les fleurs, non ?
+
+**Mamie Gisèle :** Oui, c'est une bonne idée ! Mais il faut faire attention à ne pas gaspiller l'eau. C'est une ressource à préserver.
+
+**Chapitre 2 : La rencontre du ruisseau**
+
+*(Scène : Léo et Sophie partent en exploration près d'un petit ruisseau.)*
+
+**Léo :** Regarde, Sophie ! Un ruisseau !
+
+**Sophie :** C'est magnifique ! L'eau est si claire.
+
+**Léo :** On pourrait utiliser l'eau du ruisseau pour les fleurs de Mamie !
+
+**Sophie :** Oui, mais il faut faire attention. On ne doit pas polluer le ruisseau.
+
+**Léo :** Comment on fait, pour ne pas polluer ?
+
+**Sophie :** On ne jette rien dedans, pas de déchets, pas de produits chimiques… Il faut respecter la nature.
+
+**Léo :** Regarde, il y a des poissons !
+
+*(Ils s'approchent prudemment du ruisseau.)*
+
+**Léo :** Bonjour, petits poissons ! Vous aimez l'eau ?
+
+*(Une petite grenouille saute d'une pierre.)*
+
+**Sophie :** Waouh ! Une grenouille !
+
+**Léo :** Bonjour, Grenouille ! Est-ce que tu as soif ?
+
+*(La grenouille semble acquiescer en clignant de ses grands yeux.)*
+
+**Sophie :** On devrait aller chercher des seaux pour transporter l'eau pour les fleurs.
+
+**Léo :** Oui ! Vite !
+
+**Chapitre 3 : Le seau et le voyage de l'eau**
+
+*(Scène : De retour chez Mamie Gisèle avec les seaux remplis d'eau.)*
+
+**Léo :** Mamie ! On a trouvé de l'eau pour les fleurs !
+
+**Mamie Gisèle :** (Avec un grand sourire) Oh, c'est merveilleux ! Vous avez été chercher l'eau au ruisseau ?
+
+**Sophie :** Oui, Mamie. On a fait attention de ne rien jeter dans l'eau.
+
+**Mamie Gisèle :** C'est très bien, mes enfants. L'eau, c'est comme un trésor.
+
+**Léo :** Regarde, Mamie ! On arrose les fleurs !
+
+*(Ils arrosent délicatement les fleurs.)*
+
+**Mamie Gisèle :** (Regardant les fleurs avec tendresse) Elles vont être heureuses, maintenant.
+
+**Sophie :** On devrait essayer de récupérer l'eau de pluie, Mamie, pour les arroser quand il ne pleuvra plus.
+
+**Mamie Gisèle :** Excellente idée, Sophie ! On pourrait installer un récupérateur d'eau.
+
+**Léo :** Un récupérateur d'eau ? C'est quoi, ça ?
+
+**Mamie Gisèle :** C'est une grande cuve où on récupère l'eau de pluie qui coule du toit.
+
+**Chapitre 4 : L'importance du partage et de la conservation**
+
+*(Scène : Léo et Sophie discutent avec Mamie Gisèle dans le jardin.)*
+
+**Léo :** Mamie, pourquoi il est important de ne pas gaspiller l'eau ?
+
+**Mamie Gisèle :** Parce que l'eau est indispensable pour tous les êtres vivants. Les plantes, les animaux, et nous aussi ! Imaginez qu'il n'y ait plus d'eau...
+
+**Sophie :** On ne pourrait plus boire, se laver, arroser les plantes…
+
+**Mamie Gisèle :** Exactement. Et il y a des endroits dans le monde où l'eau est rare et précieuse. C'est très important de la préserver.
+
+**Léo :** Comment on peut faire ça ?
+
+**Mamie Gisèle :** Déjà, vous avez bien compris qu'il faut arroser les plantes avec attention, sans gaspiller. On peut aussi prendre des douches courtes, fermer le robinet quand on se brosse les dents, et réparer les fuites d'eau rapidement.
+
+**Sophie :** C'est comme partager un trésor, Mamie ?
+
+**Mamie Gisèle :** Oui, ma chérie ! C'est comme ça. Et en plus, si tout le monde fait attention, il y aura plus d'eau pour tout le monde !
+
+**Léo :** Et si on fait attention à l'eau, les poissons et les grenouilles seront heureux aussi !
+
+**Mamie Gisèle :** Absolument ! L'eau est vitale pour la planète. Et votre comportement, les amis, peut faire une grande différence.
+
+**Chapitre 5 : Un avenir plus vert**
+
+*(Scène : Quelques jours plus tard, la pluie commence à tomber légèrement. Léo et Sophie sont dehors, observant la pluie.)*
+
+**Léo :** Regarde, Sophie ! Il pleut !
+
+**Sophie :** Oui ! C'est comme un cadeau !
+
+**Léo :** On va remplir le récupérateur d'eau de Mamie !
+
+*(Ils courent à la gouttière et regardent l'eau couler dans la cuve.)*
+
+**Sophie :** L'eau de pluie est tellement précieuse.
+
+**Mamie Gisèle :** (Arrivant vers eux) Oui, mes chéris. Et vous voyez, ce sont les petits gestes qui comptent. Vous avez arrosé les fleurs, vous avez respecté le ruisseau, vous avez appris à partager l'eau…
+
+**Léo :** Et on a appris plein de choses, Mamie !
+
+**Sophie :** On va continuer à faire attention à l'eau, promis !
+
+**Mamie Gisèle :** Je suis très fière de vous deux. Et souvenez-vous, chaque goutte compte. Chaque geste pour la planète est important.
+
+*(Ils sourient, regardant la pluie tomber et rêvant d'un avenir plus vert, où l'eau abonde et où chacun en prend soin.)*
+```

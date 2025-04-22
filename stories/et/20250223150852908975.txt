@@ -1,0 +1,31 @@
+<prompt>
+Please write a emotional Estonian children's story that is at least 1000 words long.
+It must be completely written in proper Estonian (ET).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Viieteeline vapper ja tema sõbrad'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>et</lang_id>
+
+<title>Viieteeline vapper ja tema sõbrad</title>
+<body>
+Kõrgel, metsa südames, kus päike piilus läbi tihedate okstest, elas viieteeline vapper nimega Külm. Ta polnud tavaline viieteeline; tema sulgede värvus oli nii eriline, et see tundus peaaegu sädelevast öötaevast inspireeritud. Valged sulged, täpiline nagu lumehelbed, punased sulged, ere nagu loojangupäike ja sinise sulgede, sillerdavad nagu safiir, kaunistasid tema väikest keha.  Külm armastas oma värve ja tunnetas, et need eristavad teda teistest viietelistest.  Aga see teadmine ei teinud teda uhkuseks, vaid pigem andis talle sügavama mõistmise maailmast ja temast endast.
+
+Külm elas koos oma kolme sõbraga: Karu, Rebane ja Siil. Karu oli tohutu ja rahulik, oma karv oli tumepruun ja pehme nagu samet. Ta armastas lugusid jutustada ja oma südamest rahulikult naerda. Rebane oli vilgas ja kaval, tema punased karvad sädelesid päikeseloojangul nagu säravaid lehti. Ta oli hea kuulaja ja osav looja. Siil oli väike ja kiire, tema seljal oli teravate künkadega kest, mis kaitsevad teda ohtude eest.  Ta oli alati valmis abistama ja jagama oma tarkust.
+
+Ühel ilusal suvepäeval, kui päike paists kõrgel taevas ja linnud laulsid rõõmsalt, otsustas Külm oma sõpradega metsa seiklusele minna. Nad kõndisid läbi õitsevate õdede ja kuulsid sädemeid metsast. Külm lendas üle rohelise muru, nautides õhkõhu puhastust. Karu kõndis rahulikult, samuti Rebane, kes kiirustas, olles õhutusel mõelda ja näha uusi metsaõnne. Siil, oma kiire jalaga, ronitas läbi metsa varjuliste vahede.
+
+Nende matk viis neid läbi salapärase metsaosa, kus nad avastasid õnnetu, väriseva kährikukese, kes oli eksinud. Kährikukene oli pisut haavatud ja nuttis valusalt. "Mida me saame teha?" küsis Rebane murelikult. Karu muigas rahulikult ja ütles: "Muidugi saame talle aidata! Ma hoian teda soojas ja Siil suudab leida parimaid ravimtaimi."
+
+Siil, oma teadmistega ravimtaimedest, leidis metsast õrnaid ürte ja õnnelikult valmistas neist ravimit.  Külm, oma sujuvate liigutustega, suutis kährikukese hoolikalt ja õrnalt teiste sõprade juurde toimetada. Karu pakkus kährikukese sooja karva peale soojendavat turvatunde, Rebane aga lohutust oma sõbraliku suhtumisega.
+
+Varsti oli kährikukene juba palju parem ja tema silmad sädelesid tänulikkusega.  "Täname teid," ütles kährikukene värisevate häältega.  "Te olete parimad sõbrad, kes mul on." Külm, Karu, Rebane ja Siil naersid õnnelikult. Nad olid õnnelikud, et suutsid aidata ja nägid rõõmu kährikukese paranemisest.
+
+See seiklus ei olnud lihtsalt teekond kaugele metsale, vaid see oli õppetund sõprusest, abistamisest ja headusest. Külm ja tema sõbrad said aru, et maailm on täis imesid ja et koos on kõik võimalik.  Nad jätkasid oma teekonda metsas, teades, et nad on leidnud elu õppetund ja et nad on maailmale headust andnud.  Nad jätkasid sõpruse ja abistamise teed, igaüks omas moodi, nautides metsa ilu ja jagades rõõmu üksteisega. Ja just see sügav sõprus oli nende kõige kallim kinnitus.
+
+Nende seiklused metsas jätkusid ja nad kohtusid paljude metsloomadega, õppides igal sammul midagi uut ja nautides iga hetke.  Nad said aru, et sõprus ja abistamine olid metsas kõige kallimad aardeid, mis nad saaksid leida. Ja Külm teadis, et tema säravad sulged ei olnud lihtsalt tema eripära, vaid nad peegeldasid tema helget ja õrna südant.
+</body>

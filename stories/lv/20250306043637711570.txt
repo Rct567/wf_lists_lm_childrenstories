@@ -1,0 +1,53 @@
+<prompt>
+Please write a silly Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Mazā meža zvēriņi un viņu lielais piedzīvojums'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>lv</lang_id>
+
+<title>Mazā meža zvēriņi un viņu lielais piedzīvojums</title>
+<body>Reiz bija mežs, kurā dzīvoja daudzi mazie zvēriņi. Viņi visi bija dažādi: kādi mazie, kādi lieli, kādi zaļgani, kādi sarkani. Bet visi viņi bija vienādi - viņi visi mīlēja mežu un visu, kas tajā dzīvoja.
+
+Mežā dzīvoja mazs zaķis, kurš saucās Kārlis. Kārlis bija ļoti draudzīgs un visiem patika runāt ar viņu. Viņš bija arī ļoti izgudrots un vienmēr varēja atrast kādu jaunu spēli vai izgudrošanu, lai aizkustinātu savus draugus.
+
+Viens dienas Kārlis nolēma, ka viņš grib doties uz lielu piedzīvojumu. Viņš sauca savus draugus un teica: "Draugi, es gribu doties uz lielu piedzīvojumu! Vienā no meža stūriem es esmu dzirdējis, ka atrodas noslēpumainais avots. Es gribu to atrast!"
+
+Visi draugi bija ļoti interesēti un nolēma doties līdzi Kārlim. Viņi visi bija gatavi sākt savu ceļu un atrast noslēpumaino avotu.
+
+Pirmā, kas pievienojās Kārlim, bija mazā bebrs, kurš saucās Anna. Anna bija ļoti laba peldētāja un zināja visu par ūdeni un tā noslēpumiem. Viņa bija arī ļoti drosmīga un nebaidījās no neviena.
+
+Nākamā, kas pievienojās, bija liels lūsis, kurš saucās Jānis. Jānis bija ļoti spēcīgs un varēja celt lielus akmeņus un koku zarus. Viņš bija arī ļoti gudrs un zināja visu par meža dzīvniekiem un to uzvedību.
+
+Pēdējā, kas pievienojās, bija mazs putns, kurš saucās Mārtijs. Mārtijs bija ļoti ātrs un varēja lidot ļoti augsti. Viņš bija arī ļoti laba acī un varēja redzēt visu no liela attāluma.
+
+Visi draugi bija gatavi sākt savu ceļu un atrast noslēpumaino avotu. Viņi devās meža dziļumā, kur viņi sastapa daudzus citus dzīvniekus. Viņi sastapa meža ķoni, kas bija ļoti draudzīgi un piedāvāja viņiem ēst. Viņi sastapa arī meža zīdītājus, kas bija ļoti interesēti un nolēma doties līdzi viņiem.
+
+Pēc daudziem stundu gājiena viņi beidzot sasniedza noslēpumaino avotu. Tas bija ļoti skaists un noslēpumains. Avots bija aplēsts ar ziediem un kokiem, un no tā iztecās ļoti skaista upe.
+
+Visi draugi bija ļoti priecīgi, ka viņi beidzot atrada noslēpumaino avotu. Viņi visi nolēma atpūsties un baudīt avota skaistumu. Kārlis teica: "Draugi, mēs esam beidzot atraduši noslēpumaino avotu! Vai mēs tagad varēsim atpūsties un baudīt tā skaistumu?"
+
+Anna atbildēja: "Jā, mēs varēsim atpūsties un baudīt avota skaistumu. Bet mēs arī vajag atcerēties, ka mums jāatgriežas mājās. Mūsu ģimenes mūs gaida un ir baigas par mums."
+
+Jānis teica: "Jā, mēs vajag atgriezties mājās. Bet mēs arī vajag atcerēties, ka mums ir bijis ļoti liels piedzīvojums. Mēs esam atraduši noslēpumaino avotu un esam redzējuši daudzus citus dzīvniekus."
+
+Mārtijs teica: "Jā, mēs ir bijis ļoti liels piedzīvojums. Mēs esam redzējuši daudzus citus dzīvniekus un esam atraduši noslēpumaino avotu. Mēs vajag atcerēties šo piedzīvojumu un stāstīt par to mūsu ģimenēm."
+
+Visi draugi nolēma atgriezties mājās un stāstīt par savu piedzīvojumu. Viņi devās atpakaļ meža dziļumā, kur viņi sastapa daudzus citus dzīvniekus. Viņi stāstīja par savu piedzīvojumu un par noslēpumaino avotu, kas bija ļoti skaists un noslēpumains.
+
+Visi draugi beidzot atgriezās mājās, kur viņus gaidīja viņu ģimenes. Viņi stāstīja par savu piedzīvojumu un par noslēpumaino avotu, kas bija ļoti skaists un noslēpumains. Viņu ģimenes bija ļoti priecīgas, ka viņi bija drosmīgi un bija atraduši noslēpumaino avotu.
+
+Kārlis teica: "Es esmu ļoti priecīgs, ka es biju drosmīgs un esmu atraduši noslēpumaino avotu. Es zinu, ka es būšu vēlreiz drosmīgs un būšu meklēt jaunus piedzīvojumus."
+
+Anna teica: "Es esmu ļoti priecīga, ka es biju drosmīga un esmu atraduši noslēpumaino avotu. Es zinu, ka es būšu vēlreiz drosmīga un būšu meklēt jaunus piedzīvojumus."
+
+Jānis teica: "Es esmu ļoti priecīgs, ka es biju drosmīgs un esmu atraduši noslēpumaino avotu. Es zinu, ka es būšu vēlreiz drosmīgs un būšu meklēt jaunus piedzīvojumus."
+
+Mārtijs teica: "Es esmu ļoti priecīgs, ka es biju drosmīgs un esmu atraduši noslēpumaino avotu. Es zinu, ka es būšu vēlreiz drosmīgs un būšu meklēt jaunus piedzīvojumus."
+
+Visi draugi bija ļoti priecīgi, ka viņi bija drosmīgi un bija atraduši noslēpumaino avotu. Viņi zināja, ka viņi būs vēlreiz drosmīgi un būs meklēt jaunus piedzīvojumus. Un viņi visi dzīvoja laimīgi, meklējot jaunus piedzīvojumus un atklājot jaunus noslēpumus meža dziļumā.</body>

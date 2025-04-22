@@ -1,0 +1,36 @@
+<prompt>
+Please write a simple and easy-to-follow Estonian children's story that is at least 1000 words long.
+It must be completely written in proper Estonian (ET).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Tarkusest: Kuidas väike tüdruk õppis lugema kõigi raamatutest tarkusi.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>et</lang_id>
+
+<title>Tarkusest: Kuidas väike tüdruk õppis lugema kõigi raamatutest tarkusi.</title>
+<body>
+Oli kord väike tüdruk, kelle nimi oli Mari. Mari elas väikses külas, kus kõik teadsid kõiki. Mari armastas raamatuid ja lugemist, kuid ta ei osanud veel lugeda. Ta vaatas ainult piltidele ja unistas, et saaks ükskord lugeda kõiki raamatuid.
+
+Ühel päeval, kui Mari käis küla raamatukogus, kohtas ta vanatädi, kes istus laua taga ja lugemas raamatut. Vanatädi ütles Marile: "Tere, väike! Kas sa tahad õppida lugema?" Mari saatis vanatädile suure joone ja ütles: "Jah, tahaksin väga!" Vanatädi naeratas ja ütles: "Siis tule iga päev siia ja ma õpetan sulle lugema."
+
+Mari käis iga päev raamatukogus ja vanatädi õpetas talle lugema. Mari õppis kiiresti ja peagi suutis ta lugeda lihtsaid tekste. Vanatädi ütles talle: "Nüüd, kui sa oskad lugeda, tuleb sul õppida tarkusi raamatutest." Mari küsis: "Mida tähendab tarkus?" Vanatädi vastas: "Tarkus on see, kui sa saad aru, mida raamatud ütlevad, ja saad seda teadmist kasutada oma elus."
+
+Mari asus õppima tarkusi raamatutest. Ta luges raamatuid eri teemadel: loodusest, ajaloost, kunstist ja paljust muust. Ta õppis, et loodus on ilus ja huvitav, kuid ka ohtlik, kui me seda ei kaitse. Ta õppis, et ajalugu on meie minevik, kuid see mõjutab meie tulevikku. Ta õppis, et kunst on ilus ja väljendab inimese emotsioone.
+
+Ühel päeval luges Mari raamatu, mis rääkis sõbralikkusest. Raamat ütles, et sõbralikkus on see, kui me oleme head teiste suhtes ja aitame neid, kui nad vajavad abi. Mari mõtles selle üle ja ütles vanatädile: "Vanatädi, ma olen aru saanud, et sõbralikkus on tarkus. Ma tahaksin olla sõbralik ja aidata teisi." Vanatädi naeratas ja ütles: "See on väga hea, Mari! Sõbralikkus on tõesti tarkus, ja see on oluline meie elus."
+
+Mari jätkas õppimist ja luges raamatuid eri teemadel. Ta õppis, et õiglus on see, kui me koheldame kõiki inimesi võrdsete õigustega. Ta õppis, et ausus on see, kui me ütleme tõtt ja teeme seda, mida me lubame. Ta õppis, et headus on see, kui me oleme head teiste suhtes ja tegeme hea.
+
+Ühel päeval tuli küla kooli uus õpilane, kes oli väga üksik. Mari märkas, et uus õpilane on üksik ja otsustas talle sõbralik olla. Ta läks uue õpilase juurde ja ütles: "Tere! Ma olen Mari. Kas sa tahad minuga mängida?" Uus õpilane naeratas ja ütles: "Jah, tahaksin väga!" Mari ja uus õpilane said kiiresti sõpradeks ja mängisid koos.
+
+Vanatädi nägi, kuidas Mari oli sõbralik uue õpilase suhtes, ja ütles talle: "Mari, sa oled tõesti õppinud tarkusi raamatutest. Sa oled sõbralik ja head, ja see on oluline meie elus." Mari naeratas ja ütles: "Tahaksin olla alati sõbralik ja head, vanatädi."
+
+Mari jätkas õppimist ja luges raamatuid eri teemadel. Ta õppis, et meie elus on oluline olla sõbralik, aus, õiglane ja head. Ta õppis, et me peame kaitsema loodust ja ajalugu, ja me peame austama kunsti ja kultuuri. Mari sai aru, et tarkus on see, kui me saame aru, mida raamatud ütlevad, ja me saame seda teadmist kasutada oma elus.
+
+Aastaid hiljem, kui Mari oli suureks kasvanud, sai ta aru, et ta oli õppinud palju tarkusi raamatutest. Ta oli saanud sõbraliku, ausa, õiglase ja hea inimese. Ta oli saanud head sõbrad ja oli aidanud paljudel inimestel. Mari ütles vanatädile: "Vanatädi, ma olen õppinud palju tarkusi raamatutest. Ma olen saanud sõbraliku, ausa, õiglase ja hea inimese. Ma olen aidanud paljudel inimestel ja olen saanud head sõbrad." Vanatädi naeratas ja ütles: "Mari, sa oled tõesti õppinud tarkusi raamatutest. Sa oled saanud head inimese, ja see on oluline meie elus."
+
+Mari elas edasi ja jätkas õppimist. Ta luges raamatuid eri teemadel ja õppis uusi tarkusi. Ta sai aru, et elus on oluline olla sõbralik, aus, õiglane ja head. Ta sai aru, et me peame kaitsema loodust ja ajalugu, ja me peame austama kunsti ja kultuuri. Mari elas edasi ja oli alati sõbralik, aus, õiglane ja head. Ta aidas paljudel inimestel ja sai head sõbrad. Mari sai aru, et tarkus on see, kui me saame aru, mida raamatud ütlevad, ja me saame seda teadmist kasutada oma elus.</body>

@@ -1,0 +1,39 @@
+<prompt>
+Please write a creative and original Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'O kocourovi Mikulášovi, který se stal hrdinou celého města svými činy.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>O kocourovi Mikulášovi, který se stal hrdinou celého města svými činy.</title>
+<body>
+V malebném městě Šumavské Strouze, obklopeném vysokými, zelenými lesy, žil kocour Mikuláš. Ne, nebyl to obyčejný kocour. Mikuláš měl oči barvy tmavého jantaru, které se leskly neobyčejnou inteligencí, a vousy, které by se styděly i u statného vousatého muže.  Byl to kocour s duší dobrodruha a s srdcem plným laskavosti.
+
+Jednoho krásného jarního dne, když se slunce prohánělo zlatými paprsky mezi korunami stromů, se v Šumavské Strouze stalo něco nečekaného.  Na náměstí se objevil obrovský, hnědý medvěd. Jeho velké, tmavé oči sledovaly s neukojitelnou chutí každý kousek jídla, který se mu naskytl pod tlapami.  Lidé se rozutekli, křik a panika se šířily vzduchem, jako by vítr zvedal obrovské listí.  Medvěd, plný hladové síly, se už chystal napadnout jeden z malých stánků s úžasnými makovými koláčky.
+
+Mikuláš, který stál nehybně na střechě nedaleké kavárny, sledoval události s napětím.  Z jeho žlutých očí se zračila neobyčejná odvaha.  Věděl, že musí něco udělat. Nejen proto, že mu chutnaly ty koláčky, ale i proto, že viděl strach v očích lidí.  A strach byl pro Mikuláše absolutně nepřípustný.
+
+S hlubokým dechem se Mikuláš vrhl dolů, přistál s perfektním tichým přistáním na břiše a v mžiku se ocitl před medvědem. Neutekl, ale s odvahou, která ho provázela, se postavil do cesty obrovskému zvířeti.
+
+"Hej, ty hromádko srsti," zazněl Mikulášův hlas, který zněl překvapivě lidsky.  "Proč děláš takový bordel v našem krásném městě?" Medvěd se zastavil, jako by se na něj snesla obrovská mlha.  Nevěřil svým uším.  Mluvící kočka?
+
+Mikuláš se postavil na zadní tlapky a neochvějně se díval medvědovi do očí. "Tohle náměstí není tvé hřiště," řekl s plnou důstojností. "Je to náš domov a my se o něj postaráme."
+
+Medvěd, v němž se probudila pochybnost, se zvedl a s pomalým krokem se otočil.  Mikulášovi se podařilo ho odlákat pryč od koláčků, odlákat ho od strachu, který prožívali obyvatelé Šumavské Strouze.
+
+Lidé, kteří se schovávali za domy a stromy, se dívali na Mikuláše s úžasem a obdivem.  Už neviděli strach v jeho očích, ale neohroženost a sílu.
+
+Medvěd se nakonec otočil a s tichým vrzáním zmizel zpět do lesa.  Obyvatelé Šumavské Strouze vylezli ven, potřásli se z děsu a radovali se nad úžasným činem malého kocoura.
+
+Mikuláš, s hrdě vysoko vztyčenou hlavou, se vrátil na střechu kavárny.  Lidé ho oslavovali, házely mu do cesty čerstvé koláčky, a obdivovali jeho odvahu a statečnost.
+
+Od té chvíle se Mikuláš stal hrdinou Šumavské Strouze. Každé ráno, když se slunce probudilo a prozářilo město, se Mikuláš procházel náměstím s hrdostí hrdiny, a jeho jméno se traduje z generace na generaci, jako příběh o odvaze, statečnosti a neobyčejném přátelství, které spojilo kočku a lidi.
+
+A tak, kocour Mikuláš, s jeho jantarovo-hnědými očima plnými moudrosti, ukázal lidem Šumavské Strouze, že i nejméně očekávaní hrdinové mohou mít největší vliv.  A že i v nejmenších tvorech se může skrývat neobyčejná síla.
+</body>

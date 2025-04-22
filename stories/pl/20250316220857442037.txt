@@ -1,0 +1,50 @@
+<prompt>
+Please write a creative and original Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Zabawne przygody dwóch bliźniaków i ich tajny klub na strychu domu.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pl</lang_id>
+
+```xml
+<title>Zabawne przygody dwóch bliźniaków i ich tajny klub na strychu domu.</title><body>
+Dawno, dawno temu, w malowniczej wiosce u stóp zielonych wzgórz, mieszkało dwóch braci bliźniaków: Jasiek i Maciek. Byli nierozłączni, jak dwie krople wody, chociaż charaktery mieli zupełnie różne. Jasiek, to był mały wulkan energii, zawsze gotowy do zabawy i psot. Maciek, z kolei, był spokojniejszy, bardziej skryty, ale za to niezwykle pomysłowy i obdarzony bujną wyobraźnią.
+
+Ich dom, stary, drewniany budynek z czerwoną dachówką, skrywał wiele tajemnic. Największą z nich był strych. Strych, czyli zakurzone królestwo, do którego dostęp mieli tylko Jasiek i Maciek. Po wielu próbach i kombinacjach udało im się zdobyć klucz, który wisiał na haczyku w kuchni, schowany za starą, emaliowaną filiżanką.
+
+Strych był magiczny. Na półkach, pokrytych grubą warstwą kurzu, stały zapomniane przedmioty: stare książki z pozłacanymi grzbietami, pożółkłe fotografie, zabawki z dawnych lat. Pośród nich, najciekawszym miejscem była ogromna, drewniana skrzynia. To właśnie w niej bliźniacy postanowili założyć swój tajny klub.
+
+Pewnego sobotniego popołudnia, po długich przygotowaniach, klub "Świetliki" był gotowy. Nazwę wymyślił Maciek, zainspirowany blaskiem małych, świetlistych owadów, które często widywali wieczorem w ogrodzie. W skrzyni znajdowało się wszystko, czego potrzebowali: poduszki, koce, świece, mapa skarbu (którą narysował Maciek, zainspirowany historiami o piratach), zapas słodyczy i najważniejsze – tajny dziennik, do którego zapisywali wszystkie swoje przygody.
+
+Pierwszą przygodą, którą odnotowali w dzienniku, była wyprawa po „zagubione skarby” strychu. Jasiek wpadł na pomysł, żeby znaleźć w starych rupieciach jakieś cenne przedmioty. Przeszukali całą skrzynię, regały i każdy zakątek. Zamiast złota i diamentów znaleźli starą, zakurzoną lalkę z porcelanową twarzą, zepsuty zegarek kieszonkowy, z którego można było wyjmować małe, błyszczące trybiki, oraz… zestaw do pieczętowania listów! Maciek, zachwycony pieczątkami z herbami, postanowił napisać list do króla, opowiadając mu o ich tajnym klubie i poprosić o pozwolenie na polowania na smoki (bo w jego głowie smoki nadal istniały). Jasiek oczywiście się zgodził i razem przystąpili do pisania. List wyszedł dość zabawny, pełen przekręconych słów i dziwnych pomysłów.
+
+Następnego dnia, w czasie podwieczorku, postanowili zanieść list na pocztę. Po drodze wpadli na małą, zagubioną kotkę. Była cała czarna, z wielkimi, zielonymi oczami i strasznie przestraszona. Jasiek natychmiast chciał ją złapać i zabrać do domu, ale kotka uciekła do pobliskiego ogrodu. Chłopcy podążyli za nią, zostawiając list na ławce.
+
+W ogrodzie czekała na nich niespodzianka. Okazało się, że kotka miała małe kocięta ukryte w krzakach róż. Bliźniacy spędzili całe popołudnie bawiąc się z kociakami, zapominając o wszystkim innym. Dopiero kiedy słońce zaczęło zachodzić, przypomnieli sobie o liście. Pobiegli z powrotem na ławkę, ale listu już nie było! Zrobiło im się strasznie smutno. Ktoś go musiał zabrać! Co teraz?
+
+Wracając do domu, spotkali listonosza, pana Józefa. Pan Józef był bardzo miłym, starszym panem z krzaczastymi wąsami. Zapytał ich, czy to oni szukają listu do króla. Okazało się, że znalazł go w swoim wózku pocztowym, tuż po odebraniu go z ławki. Zanim wysłał list, przeczytał go i tak bardzo go rozbawił, że postanowił się z chłopcami spotkać i im go oddać.
+
+Kiedy Jasiek i Maciek odzyskali swój list, postanowili nie wysyłać go. Zamiast tego, postanowili wykorzystać pieczątki do ozdabiania rysunków. Pan Józef, wzruszony ich przygodami, podarował im w zamian za list pamiątkową, drewnianą skrzyneczkę.
+
+Pewnego deszczowego dnia, podczas kolejnego spotkania w klubie "Świetliki", Maciek zauważył, że jedna z desek w podłodze strychu jest poluzowana. Zaintrygowani, postanowili sprawdzić, co się pod nią kryje. Po usunięciu deski, znaleźli… starą, małą drewnianą skrzynię. Na skrzyni widniał wyblakły napis: "Pamięć rodu".
+
+W skrzyni znajdowały się stare listy, fotografie i kilka cennych drobiazgów: srebrny łańcuszek z wisiorkiem w kształcie serca i mała, haftowana chusteczka. Okazało się, że listy pisane były przez ich prapradziadków. Bliźniacy, zafascynowani historiami swoich przodków, spędzili całe tygodnie na czytaniu listów i oglądaniu zdjęć. Poznali wiele ciekawych historii o dawnych czasach, o ludziach, którzy żyli w ich domu przed nimi.
+
+Najbardziej fascynująca była historia o prababci Marii, która w młodości zajmowała się haftowaniem. Przez wiele dni, chłopcy próbowali naśladować prababcię i haftowali proste wzory na kawałkach materiału. Jasiek był trochę niecierpliwy, ale Maciek okazał się mieć do tego prawdziwy talent. Z pomocą książki z biblioteki, zaczął tworzyć piękne obrazki.
+
+Pewnego razu, Jasiek i Maciek wpadli na pomysł, żeby zorganizować konkurs talentów na strychu. Zaprosili swoich przyjaciół z podwórka: małą Zosię, która uwielbiała tańczyć, Tomka, który świetnie rysował i Adama, który potrafił opowiadać zabawne historie. Klub "Świetliki" zamienił się w miejsce pełne śmiechu i radości.
+
+Konkurs okazał się wielkim sukcesem. Zosia tańczyła, Tomek rysował, Adam opowiadał, a Maciek i Jasiek prezentowali swoje umiejętności haftowania i budowania konstrukcji z patyczków. Wszyscy świetnie się bawili, a na zakończenie konkursu, jury (w składzie: Jasiek i Maciek) wręczyło nagrody wszystkim uczestnikom.
+
+Przygody w klubie "Świetliki" ciągnęły się przez długie lata. Chłopcy rośli, zmieniali się, ale miłość do strychu i tajnego klubu nigdy nie zgasła. Odkrywali nowe skarby, poznawali nowe historie, a przede wszystkim, spędzali razem mnóstwo czasu, dzieląc się swoimi marzeniami i pasjami.
+
+Pewnego dnia, gdy Jasiek i Maciek byli już dorosłymi mężczyznami, wrócili do rodzinnego domu. Poszli na strych, żeby powspominać dawne czasy. Zobaczyli znajomą skrzynię, zakurzony dziennik i pamiątki, które przypominały im o ich dzieciństwie. Uśmiechnęli się do siebie, wspominając zabawne przygody, które przeżyli w swoim tajnym klubie. Przekonali się, że najcenniejszym skarbem, jaki znaleźli na strychu, była ich przyjaźń, która przetrwała próbę czasu i połączyła ich na zawsze. A tajny klub "Świetliki" na zawsze pozostał symbolem dzieciństwa, marzeń i wspólnych przygód.
+
+Ostatnia przygoda, którą odnotowali w dzienniku, była taka, że strych, choć zakurzony i zapomniany, zawsze będzie w ich sercach. Bo to właśnie tam, narodziła się ich wyjątkowa, pełna przygód i humoru więź. I nawet, jeśli już dawno opuścili swoje dziecięce królestwo, echo śmiechu i ekscytacji wciąż rozbrzmiewało w zakurzonych kątach strychu, przypominając o niezwykłych przygodach dwóch bliźniaków i ich tajnego klubu.
+</body>
+```

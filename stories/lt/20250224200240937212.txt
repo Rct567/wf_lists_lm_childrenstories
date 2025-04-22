@@ -1,0 +1,37 @@
+<prompt>
+Please write a timeless Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Vaikų kelionė į stebuklingą šalį'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lt</lang_id>
+
+<title>Vaikų kelionė į stebuklingą šalį</title>
+<body>
+Saulė švietė ryškiai, apšviesdama žalius šaltinius ir smaragdinę pievą.  Aukštos pušys, lyg milžiniški žali stulpai, siekė dangų.  Šiame nuostabiame miške gyveno trys draugai:  Auksė, smalsu ir linksma mergaitė su plaukais lyg aukso sruogos;  Mantas, protingas berniukas, kurio akys spindėjo kaip ryškūs žvaigždės; ir  Rūta, tyli mergaitė su švelniomis šypsenomis ir akimis lyg skaidriai mėlyni ežerai.
+
+Vieną gražią rytą, žaidę paslėptų daiktų žaidimą po senų medžių šaknimis, jiems į rankas pateko senas, aptrupėjęs žemėlapis.  Žemėlapis buvo padengtas sudėtingais simboliais, lyg paslapčių kalba parašytais. Auksė, visada smalsaujanti, pradėjo tyrinėti sudėtingus ženklus.  Mantas, pasitelkęs savo protingumą, bandė juos iššifruoti.  Rūta, nors ir tyli, dėmesingai stebėjo jų pastangas, jos akys žybčiojo nuo paslaptingumo.
+
+"Man atrodo, kad šis žemėlapis veda į Stebuklingą šalį!", sušuko Auksė, nusišypsojusi nuo galvos iki kojų.
+
+"Stebuklingą šalį?  Kur gi ta šalis?" paklausė Mantas, pakeldamas antakius.
+
+"Tai slypi paslėpta paslapčių ženklų kalboje, ir tai matyti tik pažiūrėjus su atidžiu ir smalsu protu." atsiliepė Rūta, su švelniu šypsenėle.
+
+Po ilgo ir kruopštaus tyrinėjimo jie suprato, kad žemėlapis rodo kelią į slėptuosius kalnus, slėptuosius miškus ir paslaptinguosius ežerus.  Jie turėjo įveikti vingiuotus takelius, peršokti upelius ir įminti galvosūkius, kad atrastų kelią į šią pasakų šalį.
+
+Pirmasis iššūkis buvo įveikti miško slėpinį.  Miškas buvo pilnas keistų gyvūnų:  elnių su auksiniais ragais, kiškių su žydinčiomis uodegomis, ir paukščių su spalvotais sparnais, kurie kalbėjo paslaptingu, melodingu balsu.  Jie turėjo įminti gyvūnų balsų užuominas, kad rastų paslėptą taką.  Mantas, atkreipęs dėmesį į paukščių kalbą, suprato, kad takas yra ten, kur danguje susipina auksiniai saulės spinduliai.
+
+Antrasis iššūkis buvo ežeras, kurio vanduo buvo skaidrus kaip krištolas.  Ežero viduryje plaukiojo žydų gėlės ir ant jų sėdėjo paslaptingi paukščiai. Jie turėjo surinkti septynias žiedlapių gėles, atspėdami paukščių melodijų užuominas.  Rūta,  pagal savo natūralų gebėjimą klausytis ir suvokti, lengvai atspėjo paukščių giesmes ir surinko žiedus.
+
+Trečias iššūkis buvo kalnai. Kalnų viršūnėje stovėjo senas akmeninis bokštas, ant kurio buvo užrašytas dar vienas užrašas. Jie turėjo surasti paslapties raktą, kuris buvo paslėptas tarp akmenų. Auksė, visada smalsu, pamatė paslėptą pėdsaką ir išskleidė paslaptį.
+
+Galiausiai, jie pasiekė Stebuklingą šalį.  Šalis buvo apsupta šviesos ir džiaugsmo.  Žalios pievos driekėsi į horizonto ribas, o ore skraidė spalvoti drugeliai. Jie sutiko daug paslaptingų būtybių: linksmus elfų, kurie dainavo stebuklingas dainas, ir protingus nykštukus, kurie mokė paslapčių.
+
+Stebuklingoje šalyje jie atrado ne tik nepaprastą grožį, bet ir nuostabų draugystės bei supratimo džiaugsmą.  Jie išmoko vertino paslaptis, atkaklumą ir tarpusavio pagalbą.  Auksė, Mantas ir Rūta sužinojo, kad pasaulio paslaptys slypi ne tik sudėtinguose ženkluose, bet ir  atvirume širdyse. Grįžę namo, jie visada prisiminė savo nuostabų nuotykį Stebuklingoje šalyje.
+</body>

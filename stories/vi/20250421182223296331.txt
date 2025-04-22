@@ -1,0 +1,61 @@
+<prompt>
+Please write a timeless Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Con Sóc Nhỏ Chăm Chỉ Chôn Hạt Dẻ Cho Mùa Đông Giá Lạnh'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>vi</lang_id>
+
+```vi
+<title>Con Sóc Nhỏ Chăm Chỉ Chôn Hạt Dẻ Cho Mùa Đông Giá Lạnh</title>
+<body>
+Ngày xưa, ở một khu rừng xanh biếc, nơi những cây cổ thụ vươn mình lên trời cao, có một chú sóc nhỏ tên là Tí. Tí có bộ lông màu nâu óng ả, đôi mắt đen láy tinh ranh và chiếc đuôi bông xù luôn vểnh lên như chiếc ăng-ten. Tí rất thích chơi đùa, leo trèo trên những cành cây cao nhất, nhưng hơn tất cả, Tí yêu thích mùa thu.
+
+Mùa thu ở khu rừng của Tí thật đẹp. Lá cây chuyển sang màu vàng, đỏ rực rỡ, nhẹ nhàng rơi rụng theo gió, tạo nên một bức tranh sống động và thơ mộng. Hương thơm của quả chín lan tỏa khắp nơi, từ quả ổi, quả hồng đến những trái mít to tướng. Đặc biệt, mùa thu còn là mùa của hạt dẻ. Những hạt dẻ tròn trịa, bóng loáng, nằm rải rác dưới gốc cây, chờ đợi ai đó nhặt lên.
+
+Mọi ngày, khi những tia nắng vàng nhạt của buổi sớm mai len lỏi qua kẽ lá, Tí đã bắt đầu công việc của mình. Không giống như những chú sóc khác chỉ mải mê rong chơi, Tí rất chăm chỉ. Cậu bé nhỏ bé nhanh nhẹn di chuyển khắp khu rừng, nhặt những hạt dẻ tươi ngon nhất. Đôi má nhỏ nhắn của Tí lúc nào cũng phúng phính vì đầy hạt dẻ.
+
+"Hôm nay, mình phải nhặt thật nhiều hạt dẻ!" – Tí tự nhủ với bản thân khi bắt đầu công việc.
+
+Tí không ăn hết số hạt dẻ mình nhặt được. Cậu biết rằng, mùa đông sắp đến, cái lạnh sẽ ùa về, tuyết sẽ rơi trắng xóa khắp khu rừng. Khi đó, chẳng còn gì để ăn ngoài những hạt dẻ dự trữ. Vì vậy, Tí bắt đầu đào những cái hố nhỏ, giấu những hạt dẻ xuống dưới đất.
+
+"Mình phải chôn những hạt dẻ này thật kỹ, để chúng không bị ai tìm thấy!" – Tí thì thầm.
+
+Cậu bé dùng đôi bàn tay nhỏ bé, cẩn thận lấp đất lại, sau đó dùng mũi để san bằng mặt đất, giấu đi dấu vết. Cậu đào những hố này ở nhiều nơi khác nhau trong rừng, dưới gốc cây, gần những tảng đá lớn, trong bụi rậm... Cứ như vậy, ngày này qua ngày khác, Tí miệt mài làm công việc chuẩn bị cho mùa đông.
+
+Những chú sóc khác thấy vậy, cười nhạo Tí.
+
+"Ê Tí, mày làm gì vậy? Nhặt nhiều hạt dẻ thế để làm gì? Ăn không hết đâu!" – một chú sóc mách lẻo lên.
+
+"Ừ, cứ ăn đi! Chơi đi! Mùa đông còn xa lắm!" – một chú sóc khác phụ họa theo.
+
+Tí chỉ cười trừ, không nói gì. Cậu biết rằng, những gì mình đang làm là quan trọng, là cần thiết cho sự sống còn của mình và những người thân yêu trong mùa đông khắc nghiệt.
+
+"Các bạn cứ chơi đi, còn tôi phải chuẩn bị cho mùa đông," Tí đáp lại một cách nhỏ nhẹ.
+
+Thời gian trôi qua thật nhanh. Mùa thu dần qua đi, nhường chỗ cho những cơn gió lạnh buốt của mùa đông. Nhiệt độ bắt đầu giảm dần. Những chiếc lá cuối cùng cũng rụng hết, trơ lại những cành cây khẳng khiu. Mặt hồ đóng băng, những con vật tìm chỗ trú ẩn ấm áp.
+
+Khi những bông tuyết đầu mùa bắt đầu rơi, phủ trắng xóa cả khu rừng, Tí bắt đầu cảm thấy sự cần thiết của những hạt dẻ mình đã chôn. Cái lạnh buốt giá khiến cậu run lên. Cậu bắt đầu hành trình đi tìm kiếm những kho báu đã cất giấu.
+
+Nhờ vào trí nhớ tốt và sự kiên trì của mình, Tí dễ dàng tìm thấy những địa điểm đã đánh dấu. Cậu đào lên những hạt dẻ tròn trịa, căng mọng, vẫn còn nguyên vẹn sau một thời gian dài nằm dưới lòng đất. Cậu ăn từng hạt dẻ một, cảm nhận được sự ngọt ngào, thơm ngon, và quan trọng hơn cả là cảm nhận được sự ấm áp lan tỏa khắp cơ thể.
+
+Những chú sóc khác, những kẻ đã từng chế nhạo Tí, giờ đây lại phải đối mặt với cảnh đói rét. Chúng đã ăn hết những gì kiếm được trong mùa thu, và giờ không còn gì để ăn trong mùa đông lạnh giá. Chúng gầy gò, yếu ớt, phải vật lộn với cái lạnh và cơn đói.
+
+Nhìn thấy cảnh tượng đó, Tí cảm thấy thương xót. Cậu không quên được những lời trêu chọc của chúng, nhưng cậu cũng không nỡ bỏ mặc bạn bè trong lúc khó khăn. Tí quyết định chia sẻ những hạt dẻ quý giá của mình với những chú sóc khác.
+
+"Các bạn đến đây! Cứ lấy hạt dẻ mà ăn nhé!" – Tí gọi với.
+
+Những chú sóc kia ban đầu ngập ngừng, xấu hổ vì những gì đã làm. Nhưng rồi, trước lòng tốt của Tí, chúng cũng mạnh dạn tiến lại gần. Chúng chia nhau những hạt dẻ, cùng nhau vượt qua mùa đông giá lạnh.
+
+Nhờ có Tí, tất cả những chú sóc đều sống sót qua mùa đông. Chúng cùng nhau chia sẻ những hạt dẻ, cùng nhau sưởi ấm trong những hang ổ nhỏ.
+
+Khi mùa xuân đến, tuyết tan chảy, cây cối đâm chồi nảy lộc, khu rừng lại trở nên xanh tươi và tràn đầy sức sống. Những chú sóc, nhờ sự chăm chỉ, lòng tốt và sự chia sẻ của Tí, đã học được một bài học quý giá. Chúng hiểu rằng, sự chăm chỉ, kiên trì và lòng tốt là những điều vô cùng quan trọng trong cuộc sống.
+
+Từ đó về sau, những chú sóc trong khu rừng đều noi gương Tí, chăm chỉ chuẩn bị thức ăn cho mùa đông. Chúng cùng nhau giúp đỡ, chia sẻ, và sống hòa thuận với nhau. Tên tuổi của Tí – chú sóc nhỏ chăm chỉ, luôn được nhắc đến như một tấm gương sáng về sự cần cù, lòng tốt và sự chia sẻ. Khu rừng vẫn luôn xanh tốt, vẫn luôn tràn ngập tiếng cười và những câu chuyện về tình bạn, về sự nỗ lực và về ý nghĩa của cuộc sống. Và cứ mỗi độ thu về, khi những hạt dẻ chín rộ, người ta lại nhớ đến câu chuyện về chú sóc nhỏ chăm chỉ, luôn luôn cố gắng vì một tương lai tốt đẹp hơn.
+</body>
+```

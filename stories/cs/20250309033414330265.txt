@@ -1,0 +1,39 @@
+<prompt>
+Please write a fun and entertaining Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Veselý pes Rony a jeho dobrodružství na farmě plné zvířátek.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Veselý pes Rony a jeho dobrodružství na farmě plné zvířátek.</title>
+<body>
+Rony, štěně s lesklými hnědými očima a kudrnatým ocasem, se probudil s radostným štěkotem. Sluníčko se probouzelo, barvilo oblohu do růžova a světleoranžova, a voněla čerstvá tráva. Dnes ho čekalo neuvěřitelné dobrodružství! Jeho nový domov, velká farma plná zvláštních zvířátek, se pro něj stala  skutečným rájem.
+
+Farma babičky Pavly byla barevným labyrintem. Kozy s bílými a hnědými rohánky si chutně olizují listy ze stromů. Slepice se se svými kuřátky probíhaly po dvorku. Ovce a kozy si poklidně užívaly sluníčko na travnatých pláních, a štěstím radostné prasátko si buší o betonovou podlahu kotce. To vše s Ronyho nejlepším kamarádem, maňákem  písničkářem se žlutými puntíky. Rony si nemohl pomoct, neustále štěkal a vrtěl ocasem z nedočkavosti.
+
+Jeho první setkání bylo s kuřátky, která se snažila shromáždit k sněku. "Ahoj malí ptáčata!" štěkl Rony a mrkal svýma očima. "Vy jste strašně roztomilí,"  kvákali kuřata zmatené.  Dva kuřátka, černobílá, si ho začali prohlížet zblízka. Rony se směle posadil. A malá kuřátka, která kvákala na všechny strany, se snažili hrát. Rony se radoval.
+
+Další na řadě bylo srocovaná kozí smečka. Ty se zhrozily, kdy se k nim  Rony přiblížil. Zalehly za obrovský třešňový strom, jen si mezi sebou bučely na zuby a vylekávaly se. "Prostě je to  Rony," si kozy prohodily tiše.   
+
+Najednou uslyšel  zajímavé popotahování. Šel směrem k píšťalky - to  se jmenovala  Fanta, hravá ovce s  nápadně modrýma očima. Zeptala se ho:" Rony, už jsi viděl kvetoucí trávu? Je plná vonných bylinek. Chceš jít s námi?"
+
+Rony okamžitě souhlasil. Podél zvlněných travních polí se proháněli Rony i Fandíček. Vychutnávali si nádherný výhled na modré nebe a zelené hory. A tam najednou spatřili rozkošnou babičku s nádherbou krabic plných sladkého koláče. "Hele," radoval se Rony. "Dobroty!"
+
+Fanta a Rony se  tajně probojovali ke stromu plnému hrnce a s úžasem  slavně štěkání poslali pozdravy a vylezli na klec aby viděli  jak se s úžasem probíhají jejich další cestičky.
+
+Cestou zpět spatřili děvče se sametovou hlavou a velké smilující oči. Rony štěkal s radostí. Byla to Anička, farmářská dívka, s krásným úsměvem, jejíhož obličeje bylo ozářeno přátelskými tvářemi.  Anička pohladila Ronyho a řekla mu: "Jsi takový veselý pes."
+
+V den se pak Rony seznámila se všemi farmářskými zvířaty: s bučivou prasničkou s jménem Pipi, s veselými kuřátky a s hlubokým svatejším kohoutem, se srovnávámi ježky a svobodomyslnými kuňaty.  
+
+Včelí královna mu s lehkým povzdechem povídala příběh, jak kvetoucí včelstvo dává med do sítí. Byl to fascinující příběh o tvrdé práci včel, ale také o vzájemné pomoci. 
+
+Každého zvířátka si Rony oblíbil, protože je každý z nich jedinečný a veselý.  A Rony, s kozy na hřbetech, pobíhal a skákál po dvoře,  neustále štěkal radostí z krásného dne a nových přátel. A v temném háji v tichu noci, když se  scházeli zvířátka  se svými přáteli,  s Ronyho a ostatních roztomilých tvorů, probíhalo setkání všech zvířátek, pro něž byl  život úžasný, nezapomenutelný, plný rozkoše.
+
+A tak Rony s přáteli prožíval úžasná dobrodružství, den co den. Každé zvířátko bylo něčím originální a nádherné.  Tohle bylo  nejkrásnější místo, které Rony kdy viděl, s přátelstvím a rozkoší plnými chvílemi s přáteli, plný smíchu, veselých štěkotů a radostí!
+</body>

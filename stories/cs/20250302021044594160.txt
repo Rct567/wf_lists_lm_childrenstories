@@ -1,0 +1,34 @@
+<prompt>
+Please write a relatable Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Ztracený poklad v srdci pražských uliček'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>cs</lang_id>
+
+<title>Ztracený poklad v srdci pražských uliček</title><body>Bylo jednou jedno malé město, které se rozkládalo kolem řeky Vltavy. Bylo to město plné tajemství, historie a úzkých uliček, které jako by vedly do jiných časů. V tom městě, v Praze, žil malý chlapec jménem Jakub. Jakub byl zvědavý a odvážný kluk, který miloval příběhy o pokladech a dobrodružstvích. Jeho dědeček mu často vyprávěl o starých časech, kdy Praha byla plná tajných skrýší a ztracených pokladů.
+
+Jednoho dne, když Jakub procházel Staroměstským náměstím, si všiml staré mapy, která ležela v rohu krámku se starožitnostmi. Mapu si koupil a hned se na ni podíval. Byla na ní zakreslena část Prahy, kterou dobře znal, ale uprostřed mapy byla značka, kterou Jakub nikdy předtím neviděl. Vypadala jako malý poklad. Jeho srdce zaplesalo. "To musí být ten ztracený poklad, o kterém dědeček vyprávěl!" pomyslel si.
+
+Jakub se rozhodl, že poklad najde. Vzal mapu a vydal se na cestu. První zastávkou byl Karlův most. Podle mapy měl pod jedním z mostních oblouků najít klíč. Jakub pečlivě prohledával každý kámen, až nakonec našel malou skulinu. Uvnitř byl skutečně malý klíč. "To je ono!" zašeptal si.
+
+Další zastávkou byla Staroměstská radnice. Podle mapy měl Jakub najít schodiště, které vedlo do podzemí. Po dlouhém hledání objevil staré dveře, které byly téměř skryté za velkým kobercem. Klíč, který našel na mostě, přesně pasoval do zámku. Dveře se otevřely a Jakub se ocitl v temné chodbě. Rozsvítil baterku a vydal se dál.
+
+Chodba byla plná pavučin a starých nápisů na stěnách. Jakub cítil, jak mu srdce buší jako o závod. "Co když tu straší?" pomyslel si, ale rychle se vzpamatoval. "Ne, já jsem přece odvážný!" řekl si a pokračoval.
+
+Po chvíli chodba skončila ve velké místnosti. Uprostřed stála stará truhla. Jakub k ní přistoupil a pokusil se ji otevřít, ale byla zamčená. Na víku truhly byl nápis: "Jen ten, kdo zná tajemství Prahy, může truhlu otevřít."
+
+Jakub si vzpomněl na všechno, co mu dědeček vyprávěl. Pamatoval si, jak mu říkal, že Praha je plná symbolů a tajemství. Rozhlédl se po místnosti a všiml si, že na stěnách jsou vyryté různé znaky. Mezi nimi byl i znak Starého Města a znak Malé Strany. Jakub si vzpomněl, že tyto dva znaky dohromady tvoří tajemství Prahy.
+
+Rychle se vrátil k truhle a zkusil na ni přiložit klíč, který našel na mostě. Klíč zapadl a truhla se otevřela. Uvnitř bylo plno starých mincí, šperků a dopisů. Jakub si uvědomil, že našel skutečný poklad.
+
+Ale co měl dělat dál? Nemohl si poklad nechat, věděl, že patří Praze. Rozhodl se tedy, že vše odnese do muzea, aby se o něj mohli postarat odborníci. Když dorazil do muzea, byl uvítán s velkým nadšením. "To je neuvěřitelné!" řekl ředitel muzea. "Tento poklad byl ztracen po staletí. Děkujeme ti, Jakube, že jsi ho našel."
+
+Jakub se cítil hrdý. I když si nemohl nechat poklad, věděl, že udělal správnou věc. A navíc, jeho dobrodružství ho naučilo, že někdy je největší poklad právě to, co se naučíme po cestě.
+
+Od toho dne se Jakub stal malým hrdinou Prahy. A každý, kdo procházel úzkými uličkami Starého Města, si možná všiml malého chlapce, který s úsměvem procházel kolem, jako by věděl, že v srdci Prahy je stále ještě mnoho tajemství, která čekají na své objevení.</body>

@@ -1,0 +1,44 @@
+<prompt>
+Please write a silly Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Ezis, kurš sapņoja par ceļojumu apkārt pasaulei un piepildīja savu sapni.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>lv</lang_id>
+
+<title>Ezis, kurš sapņoja par ceļojumu apkārt pasaulei un piepildīja savu sapni.</title>
+<body>
+Ezis, kurš sapņoja par ceļojumu apkārt pasaulei un piepildīja savu sapni, dzīvoja mazā, skaistā mežā Latvijā. Viņš bija ļoti vientuļš un gribēja redzēt visu pasaules daudzveidību. Ezis vārdā Kārlis bija lasījis daudzas grāmatas par dažādām valstīm un kultūrām, un viņam bija ļoti liels sapnis ceļot apkārt pasaulei.
+
+Kārlis sāka gatavoties savam ceļojumam, nopērkot kartes, ceļojošo somu un daudz citu nepieciešamo lietu. Viņš arī mācījās dažādas valodas, lai varētu sarunāties ar cilvēkiem, kurus satiks ceļojumā. Kārlis bija ļoti entuziastisks un gatavojās savam ceļojumam visai ilgam laikam.
+
+Beidzot, diena, kurā Kārlis varēja sākt savu ceļojumu, iestājās. Viņš devās uz ostu, kur nojaunoja kuģi, kas aiznes viņu uz pirmo ceļojuma punktu - Angliju. Kārlis bija ļoti nobīdīts, jo viņš nekad nav bijis kuģī pirms šī ceļojuma.
+
+Kad kuģis sāka kustēties, Kārlis izgāja uz kuģa tilpu un skatījās uz jūru. Viņš justās ļoti brīvs un laimīgs, jo zināja, ka viņa sapnis tiek piepildīts. Ceļojums uz Angliju ilga daudzus dienas, bet Kārlis nebija neko nervozs, jo viņam bija daudz laika lasīt grāmatas un iepazīties ar citiem kuģa pasažieriem.
+
+Beidzot, kuģis ienāca Anglijas ostā, un Kārlis devās uz krastu. Viņš bija ļoti pārsteigts, redzot daudzās dažādas ēkas un iedzīvotājus. Kārlis gāja pa ielām un pārbaudīja daudzus muzejos un pieminekļus. Viņš arī iepazinās ar daudziem cilvēkiem, kas stāstīja viņam par savu valsti un kultūru.
+
+Pēc daudziem dienām Anglijā Kārlis devās uz nākamo ceļojuma punktu - Franciju. Viņš bija ļoti gaidījums, jo zināja, ka Francija ir ļoti skaista valsts ar daudzām vēsturiskām vietas. Kārlis ceļoja ar vilcienu no Anglijas uz Franciju un skatījās uz ainavām, kas mainījās ātrām.
+
+Kad Kārlis ieradās Francijā, viņš bija ļoti pārsteigts, redzot daudzās dažādas ēkas un skulptūras. Viņš apmeklēja Eifeļa torni un Luvrą, un arī iepazinās ar daudziem franču māksliniekiem. Kārlis bija ļoti iecienījies Francijā un zināja, ka viņš atgriezīsies tur vēlreiz.
+
+Pēc daudziem dienām Francijā Kārlis devās uz nākamo ceļojuma punktu - Vāciju. Viņš bija ļoti gaidījums, jo zināja, ka Vācija ir ļoti bagāta ar vēsturi un kultūru. Kārlis ceļoja ar vilcienu no Francijas uz Vāciju un skatījās uz ainavām, kas mainījās ātrām.
+
+Kad Kārlis ieradās Vācijā, viņš bija ļoti pārsteigts, redzot daudzās dažādas pilsētas un pieminekļus. Viņš apmeklēja Berlīni un Minheni, un arī iepazinās ar daudziem vāciešu māksliniekiem. Kārlis bija ļoti iecienījies Vācijā un zināja, ka viņš atgriezīsies tur vēlreiz.
+
+Pēc daudziem dienām Vācijā Kārlis devās uz nākamo ceļojuma punktu - Itāliju. Viņš bija ļoti gaidījums, jo zināja, ka Itālija ir ļoti skaista valsts ar daudzām vēsturiskām vietas. Kārlis ceļoja ar vilcienu no Vācijas uz Itāliju un skatījās uz ainavām, kas mainījās ātrām.
+
+Kad Kārlis ieradās Itālijā, viņš bija ļoti pārsteigts, redzot daudzās dažādas pilsētas un pieminekļus. Viņš apmeklēja Romu un Florenci, un arī iepazinās ar daudziem itāliešu māksliniekiem. Kārlis bija ļoti iecienījies Itālijā un zināja, ka viņš atgriezīsies tur vēlreiz.
+
+Pēc daudziem dienām Itālijā Kārlis devās uz nākamo ceļojuma punktu - Spāniju. Viņš bija ļoti gaidījums, jo zināja, ka Spānija ir ļoti skaista valsts ar daudzām vēsturiskām vietas. Kārlis ceļoja ar vilcienu no Itālijas uz Spāniju un skatījās uz ainavām, kas mainījās ātrām.
+
+Kad Kārlis ieradās Spānijā, viņš bija ļoti pārsteigts, redzot daudzās dažādas pilsētas un pieminekļus. Viņš apmeklēja Madridi un Barselonu, un arī iepazinās ar daudziem spāņu māksliniekiem. Kārlis bija ļoti iecienījies Spānijā un zināja, ka viņš atgriezīsies tur vēlreiz.
+
+Pēc daudziem dienām Spānijā Kārlis devās atpakaļ uz Latviju. Viņš bija ļoti nobīdīts, jo zināja, ka viņa ceļojums ir beidzies. Kārlis atgriezās mājās un sāka rakstīt grāmatu par savu ceļojumu. Viņš bija ļoti laimīgs, jo zināja, ka viņa sapnis ir piepildīts.
+
+Kārlis sāka stāstīt savu ceļojuma stāstu citiem eziem un cilvēkiem, kas dzīvoja mežā. Viņi visi bija ļoti ieinter

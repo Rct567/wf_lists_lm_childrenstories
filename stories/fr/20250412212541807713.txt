@@ -1,0 +1,62 @@
+<prompt>
+Please write a light-hearted French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Le conte de fées exceptionnel : la princesse Aurore et le dragon bienveillant.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```xml
+<title>Le conte de fées exceptionnel : la princesse Aurore et le dragon bienveillant.</title>
+<body>
+Il était une fois, dans un royaume lointain, le royaume de Fleurdelune, une princesse appelée Aurore. Aurore n'était pas une princesse comme les autres. Au lieu de préférer les robes de soie et les bals somptueux, elle adorait explorer les forêts, escalader les arbres et jouer avec les petits animaux. Elle avait des cheveux blonds comme le soleil et des yeux pétillants comme les étoiles, et un rire qui remplissait l'air de joie.
+
+Un jour, alors qu'Aurore s'aventurait au plus profond de la Forêt Enchantée, elle rencontra quelque chose d'incroyable : un dragon ! Mais ce n'était pas un dragon effrayant et cracheur de feu. Ce dragon-là, appelé Étincelle, était vert émeraude, avec de grands yeux dorés et une voix douce comme le miel. Il portait une couronne de fleurs sauvages sur sa tête et adorait cueillir des baies pour les oiseaux.
+
+Aurore, loin d'être terrifiée, fut fascinée. Elle s'approcha doucement, tendit la main et lui caressa le museau. Étincelle ronronna, un son qui ressemblait au bruissement des feuilles dans le vent.
+
+"Bonjour, jeune princesse," dit Étincelle. "Je m'appelle Étincelle, et je suis le gardien de cette forêt."
+
+"Je m'appelle Aurore," répondit la princesse, émerveillée. "C'est un plaisir de vous rencontrer, Monsieur le Dragon."
+
+Ils devinrent rapidement amis. Aurore rendait visite à Étincelle presque tous les jours. Ils se promenaient dans la forêt, cueillaient des fleurs, partageaient des histoires et riaient ensemble. Aurore racontait à Étincelle les détails de la vie au château, et Étincelle lui parlait des secrets de la forêt, des chansons des oiseaux et des cachettes des petits lapins.
+
+Le roi et la reine, parents d'Aurore, étaient tout d'abord inquiets quand ils ont appris qu'elle fréquentait un dragon. Les contes de fées racontaient toujours des dragons méchants qui enlevaient les princesses. Mais Aurore insista pour leur montrer son ami, et ils furent immédiatement rassurés par la gentillesse d'Étincelle. Ils réalisèrent que ce dragon était en fait un ami précieux et un protecteur du royaume.
+
+Un jour, une mauvaise nouvelle arriva. Le méchant sorcier Grimoire, jaloux de la joie et du bonheur qui régnaient à Fleurdelune, lança une malédiction sur le royaume. Il vola les couleurs du monde. Les fleurs se flétrirent, le ciel devint gris, et les rires cessèrent.
+
+Le roi et la reine étaient désespérés. Les conseillers tremblaient de peur. Mais Aurore, courageuse et déterminée, savait qu'il fallait agir. Elle savait que Grimoire était vulnérable aux objets qui lui rappelaient la joie et la beauté.
+
+Elle alla voir Étincelle. "Étincelle, il faut nous aider ! Grimoire a volé les couleurs du monde ! "
+
+Étincelle fronça ses sourcils, inquiets. "Ce vilain sorcier ! Il est sensible à la joie. Nous devons lui montrer qu'il ne peut pas vaincre l'amour et le bonheur."
+
+Ensemble, Aurore et Étincelle élaborèrent un plan. Ils partirent à la recherche de tous les objets qui symbolisaient la joie et la beauté : des pétales de roses rouges, des chants d'oiseaux, un reflet de soleil sur l'eau, un poil de licorne et des rires d'enfants.
+
+Leur quête les mena à travers la forêt sombre, par-dessus les montagnes enneigées et dans les grottes mystérieuses. Aurore et Étincelle, unis par leur amitié et leur courage, affrontèrent les défis ensemble. Étincelle utilisait sa force pour déplacer des rochers, tandis qu'Aurore utilisait son intelligence pour résoudre des énigmes et son charme pour parler aux créatures magiques.
+
+Finalement, ils rassemblèrent tous les objets nécessaires et se dirigèrent vers le repaire de Grimoire. Le sorcier, effrayant et puissant, se tenait devant eux, son regard perçant et son sourire perfide.
+
+"Que faites-vous ici ?" demanda Grimoire, d'une voix rauque. "Vous n'avez rien à faire ici, petites créatures !"
+
+"Nous sommes venus vous rendre vos couleurs," répondit Aurore, fermement, tenant fièrement les objets collectés.
+
+Grimoire éclata de rire. "Vous ? Comment ?"
+
+Aurore tendit les objets à Étincelle, qui les gardait près de lui. "Ces objets symbolisent la joie, l'amour et la beauté. Ce sont des sentiments que vous ne possédez pas et que vous cherchez à détruire ! Regardez ! "
+
+Étincelle commença à chanter une ancienne mélodie. Il se transforma alors. De son corps apparurent d'incroyables feux d'artifice : des couleurs explosèrent, jaillirent dans l’air, éclatèrent en milles formes et lumieres. C'était magique, grandiose et émouvant. Tous les objets s’unirent à l'énergie des couleurs. Aurore s'y joignit et, tenant les objets, chantèrent et rirent. Grimoire se figea, regardant tout cela avec fascination, incapable de se défaire de ses peurs et sa jalousie, qui l'enfermaient.
+
+À son grand dam, l'amour, la joie et le rire s'échappèrent des objets, et une lumière brillante envahit la caverne sombre. Les couleurs revinrent au monde. Le ciel redevint bleu, les fleurs refleurirent, et les rires remplirent à nouveau l'air. Grimoire, vaincu par la joie, fondit en une flaque de boue, d’où un sourire fut visible.
+
+Aurore et Étincelle retournèrent à Fleurdelune en héros. Le royaume fut sauvé grâce à leur courage et leur amitié. Ils furent célébrés par tout le peuple, et les contes de fées racontèrent l'histoire de la princesse et du dragon qui, ensemble, avaient vaincu le mal.
+
+Aurore continua à jouer avec Étincelle tous les jours, et ils vécurent heureux pour toujours, protégés par l'amour et la gentillesse qui régnaient désormais sur le royaume de Fleurdelune. Et même si le dragon n'était pas exactement le gardien le plus commun des princesses, il était sans aucun doute le plus merveilleux des amis.
+La fin.
+</body>
+```

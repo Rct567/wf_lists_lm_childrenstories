@@ -1,0 +1,29 @@
+<prompt>
+Please write a emotional Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Yomg‘irli kunlarda topilgan sehr'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>Yomg‘irli kunlarda topilgan sehr</title>
+<body>
+Oqsoy qishlog‘i, tog‘larning quchog‘ida, yomg‘irli kunlar bilan mashhur edi.  Yomg‘ir, qalin bulutlar ostida, qora, yumshoq tomchilari bilan yerga tushib, o‘rmonlarni, dalalarni, uy-joylarni namlaydigan, jonlantiradigan tabiatning o‘ziga xos bir musiqasi edi.  Bu yil ham, odatdagidek, yomg‘irli kunlar davom etardi.  Ularning ko‘ngli qorong‘i, qayg‘uli bo‘lib, uyda o‘tirishdan boshqa hech qanday ish qilolmasdi.  Xayriddin ham shunday kunlardan birining qorong‘i soyalarida o‘tirgan edi.
+
+Uning ota-onasi, qishloqning eng mehribon va mehnatkash oilalaridan biri bo‘lganlar, o‘tgan qishda yuz bergan qurg‘oqchilikdan keyin uyushtirilgan yordam tadbirlarida juda ko‘p kuch sarflagandi.  O‘zlarining hamma narsalarini, hatto o‘zlarining eng qimmatbaho buyumlarini ham berishgan edi.  Ammo yordam etarli bo‘lmagan edi.  Xayriddinning yuragida qayg‘u va umidsizlik o‘rnatilgan edi.  U o‘zining eng yaqin do‘sti,  Alijonning,  qanday qilib qishloqni qutqarish mumkinligi haqida o‘ylayotganini eshitgan edi.  Alijon ham o‘zining yuragida umidsizlikni his qilardi.
+
+Yomg‘ir o‘zining yumshoq musiqasini davom ettirib,  Xayriddinning ko‘zlariga tomchilar tushirardi.  U derazadan tashqariga qarab, yomg‘ir ostida o‘sayotgan, barglarini yomg‘ir tomchilari bilan yuvayotgan daraxlarni kuzatdi.  Daraxlarning yomg‘ir ostida qanday go‘zal va kuchli ko‘rinayotganiga hayron qoldi.  Uning yuragida bir narsa o‘zgarib borardi.  U o‘ylagan edi:  "Agar daraxlar yomg‘ir ostida o‘zlarining go‘zalligini saqlab qolishlari mumkin bo‘lsa, nega biz ham o‘zlarimizning go‘zalligini saqlab qololmaylik?"
+
+Xayriddin o‘rnidan turib,  o‘zining eng sevimli kitoblaridan birini olishga qaror qildi.  U  o‘sha kitobda,  qishloqlarning qurg‘oqchilikdan keyin qanday tiklanishi haqida o‘qib,  qayg‘usini engib o‘tishga harakat qilmoqchi edi.  U kitobni ochib,  o‘qishni boshladi.  Kitobning sahifalarida u o‘z qishlog‘ining qanday go‘zal va boy tabiatga ega ekanligini,  uning qanday qadrli ekanligini ko‘rdi.  U o‘z qishlog‘i uchun,  uning kelajagi uchun  nima qilish mumkinligini o‘ylay boshladi.
+
+Kitobni o‘qib bo‘lgach,  Xayriddin  o‘zining uyidagi kichik bog‘chaga chiqdi.  Yomg‘ir hali ham tushib turardi.  U bog‘chadagi eng kichik, eng zaif  daraxtlarga qarab, ularni qanday qilib qutqarish mumkinligi haqida o‘ylay boshladi.  U o‘zining barcha kuchini to‘play boshladi.  U o‘zining  o‘ziga nisbatan  ishlatgan  har bir  yumshoq,  mehnatkash  va  tashvishlanuvchi  harakatlarini  yodga oldi.  U yomg‘ir ostida o‘sayotgan  daraxtlarni,  o‘z  qishlog‘ini  qutqarish  uchun  o‘z  kuchini  sarflagan  ota-onasini  esladi.
+
+Xayriddin  bog‘chada  o‘tirib,  yomg‘ir  tomchilari  bilan  birga  o‘z  qalbini  tozalab  ketdi.  U  o‘z  qalbida  yangi  bir  umid,  yangi  bir  sehr  topdi.  Bu  sehr  qishloqning  qaytadan  tiklanishi,  uning  go‘zalligiga  qaytishi  uchun  o‘z  kuchini  sarflagan  har  bir  odamning  mehnatini  qadrlash  edi.  Xayriddin  o‘zining  kitoblaridan  topgan  bilimlarini  qo‘llab,  o‘z  qishlog‘ida  yangi  daraxtlar  ekishga  qaror  qildi.  U  o‘zining  do‘stlari  bilan  birgalikda  ishga  kirishdi.
+
+Yomg‘ir  to‘xtab,  quyosh  chiqdi.  Xayriddin  va  uning  do‘stlari  yangi  ekilgan  daraxtlar  yonida  quvonch  bilan  o‘tirgan  edilar.  Ular  o‘zlarining  qishlog‘ini  qutqarish  uchun  qilgan  har  bir  mehnatlarini  qadrlagan  edilar.  Ular  o‘zlarining  qalblarida  topilgan  sehr  bilan  o‘z  qishlog‘ini  yana  bir  bor  tiklash  uchun  o‘zlarining  kuchlarini  sarflagan  edilar.  Oqsoy  qishlog‘i  yana  bir  bor  yashnab  turardi.  U  yana  bir  bor  go‘zal  va  quvonchli  edi.  Xayriddin  esa  o‘zining  yuragida  topilgan  sehr  bilan  o‘z  qishlog‘ini  abadiy  qutqargan  edi.
+</body>

@@ -1,0 +1,45 @@
+<prompt>
+Please write a uncomplicated Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Canticum Naturae et Arborum Sensus'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>la</lang_id>
+
+<title>Canticum Naturae et Arborum Sensus</title>
+<body>Erant in silva magna et lata multae arbores quae cantabant et loquebantur inter se. Erat una arbor nomine Quercus, quae erat sapientissima et antiquissima. Quercus habebat folia lata et frondosa, et ramus eius extendebatur usque ad caelum.
+
+Omnes arbores in silva diligebant Quercum et audiebant ei cum magna attentione. Quercus enim dicebat: "Amici mei, audite me et discite. Ego sum arbor sapientissima, et scio omnia secreta naturae." Et arbores omnes dicebant: "O Quercus, nos te diligimus et audimus tibi cum magna veneratione."
+
+Erat et alia arbor nomine Fagus, quae erat pulcherrima et gracilis. Fagus habebat folia parva et acuta, et ramus eius erat flexuosus et tortuosus. Fagus erat timidissima et verecundissima, sed Quercus eam diligebat et protegebat. Quercus dicebat: "Fagus, tu es arbor pulcherrima, et Deus te creavit ut ornamentum silvae."
+
+Erant et aliae arbores, sicut Pinus et Abies, quae erant altissimae et robustissimae. Pinus et Abies habebant folia longa et acuta, et rami eorum extendebantur usque ad montes. Pinus et Abies erant fortes et robusti, sed Quercus eis dicebat: "Amici mei, ne estis superbi et ne vos extollitis. Omnes arbores sunt aequales, et Deus creavit omnes ut partes silvae."
+
+In silva erat et rivus, qui fluerebat inter arbores. Rivus habebat aquam puram et crystalinam, et pisces et aves in eo vivebant. Quercus dicebat: "Rivus, tu es vita silvae, et omnes arbores te diligunt." Et rivus respondit: "Quercus, ego sum servus silvae, et mea aqua omnes arbores bibunt."
+
+Erat et dies festus in silva, quo omnes arbores se congregabant et cantabant. Quercus dicebat: "Amici mei, hodie est dies festus, et nos cantabimus et laudabimus Deum." Et omnes arbores cantabant et laudabant Deum, qui creavit silvam et omnes animalia.
+
+In die festo veniebant et animalia, sicut cervi et capreae, quae vivebant in silva. Cervi et capreae erant timidissimi et verecundissimi, sed Quercus eis dicebat: "Amici mei, ne timueritis, quia nos omnes sumus fratres et sorores." Et cervi et capreae se iungebant ad arbores et cantabant cum eis.
+
+Quercus dicebat: "Amici mei, silva est communio et amicitia. Omnes arbores et animalia sunt partes silvae, et Deus creavit omnes ut vivamus in pace et harmonia." Et omnes arbores et animalia dicebant: "Amen, Quercus, tu es sapientissima et antiquissima. Nos te diligimus et audimus tibi cum magna veneratione."
+
+Erant et multi aves in silva, quae cantabant et volabant inter arbores. Avium erat rex, qui vocabatur Aquila, et Aquila erat fortissimus et robustissimus. Aquila habebat alas latis et oculos acutos, et volabat usque ad caelum. Quercus dicebat: "Aquila, tu es rex avium, et Deus te creavit ut dominus caeli."
+
+Aquila respondit: "Quercus, ego sum servus Dei, et mea vita est servire silvae et omnibus animalibus." Et Quercus dicebat: "Aquila, tu es bonus et pius, et Deus te benedicat." Et Aquila volabat et cantabat, et omnes arbores et animalia laudabant eum.
+
+Erat et puer, qui vocabatur Marcus, et Marcus veniebat in silvam ut luderet et cantaret. Marcus habebat cor purum et innocentem, et Deus eum dilexit. Quercus dicebat: "Marcus, tu es puer bonus et pius, et Deus te creavit ut ornamentum silvae." Et Marcus respondit: "Quercus, ego sum servus Dei, et mea vita est amare et servire silvae et omnibus animalibus."
+
+Quercus dicebat: "Marcus, tu es sapientissimus et antiquissimus inter pueros, et Deus te benedicat." Et Marcus cantabat et laudabat Deum, qui creavit silvam et omnes animalia. Et omnes arbores et animalia laudabant Marcum, quia erat puer bonus et pius.
+
+In silva erat et nox, qua omnes arbores et animalia dormiebant. Quercus dicebat: "Amici mei, noctem habemus, et omnes debemus dormire." Et omnes arbores et animalia dormiebant, sed Quercus vigilabat et custodiebat silvam. Quercus dicebat: "Ego sum custos silvae, et mea vita est servire et protegere omnes arbores et animalia."
+
+Et sic silva erat in pace et harmonia, et omnes arbores et animalia vivebant in amore et amicitia. Quercus erat sapientissima et antiquissima, et Deus eam creavit ut mater et domina silvae. Et omnes arbores et animalia laudabant Quercum, quia erat arbor bonus et pius, et Deus eam benedixit.
+
+In fine, silva erat communio et amicitia, et omnes arbores et animalia vivebant in pace et harmonia. Quercus dicebat: "Amici mei, omnes sumus fratres et sorores, et Deus creavit omnes ut vivamus in amore et amicitia." Et omnes arbores et animalia dicebant: "Amen, Quercus, tu es sapientissima et antiquissima. Nos te diligimus et audimus tibi cum magna veneratione."
+
+Et sic silva erat in pace et harmonia, et omnes arbores et animalia vivebant in amore et amicitia. Quercus erat sapientissima et antiquissima, et Deus eam creavit ut mater et domina silvae. Et omnes arbores et animalia laudabant Quercum, quia erat arbor bonus et pius, et Deus eam benedixit. Et silva erat in pace et harmonia, et omnes arbores et animalia vivebant in amore et amicitia, usque in aeternum.</body>

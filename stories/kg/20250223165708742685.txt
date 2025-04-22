@@ -1,0 +1,39 @@
+<prompt>
+Please write a simple and easy-to-follow Kongo children's story that is at least 1000 words long.
+It must be completely written in proper Kongo (KG).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kongo Dia Kuvuka Na Mwana Wa Ntinu'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>kg</lang_id>
+
+<title>Kongo Dia Kuvuka Na Mwana Wa Ntinu</title>
+<body>
+Muna mbanza ya Kwilu, kuna nkumbu a Kongo.  Kongo i mwan’a nkento, nkumbu andi kele Mbemba.  Mbemba yandi vandaka muntu ya kiese, muntu ya zola, mpi muntu ya luta. Yandi vandaka kuzola bansadi, mpi yandi vandaka kuzola bansadi. Yandi vandaka kuzola bantu yonso, kikuma yina bantu yonso vandaka kuzola yandi.
+
+Konso kilumbu, Kongo vandaka kukwenda na mboka ya nti, na mpila ya kununga mavua ya nti.  Yandi vandaka kukwenda na ntoto ya nkulu, na kisika ya ntoto yo ke vandaka ngolo.  Yandi vandaka kutunga makalu ya nti, mpi yandi vandaka kupesa yo bima ya mbalu na mbalu.  Yandi vandaka kuzinga na kinsuni ya nti, mpi yandi vandaka kudia mambu ya nti.
+
+Konso kilumbu, Kongo vandaka kuzingila na kiese ya nene.  Kansi, kilumbu mosi, yandi waka nsangu ya mpasi.  Ntinu a Kwilu, mfumu ya mbanza, vandaka na mpasi ya nene.  Mwana na yandi, nkento ya kitoko, vandaka na maladi ya mpasi.  Maladi yango vandaka kuyimaka yandi, mpi yandi vandaka kudiyangisa.
+
+Kongo, na wonso ya mazolo na yandi, yandi bakaka nzila ya kwenda kutala mfumu ya mbanza.  Yandi vandaka kuzola kuwila yandi mpasi.  Yandi bakaka nzila, mpi yandi vandaka kuzola kuwila nkento yango mpasi. Yandi vandaka kuzola kubaka mbuma ya mboka, mpi yandi vandaka kuzola kumeka kinsuni ya mbuma.
+
+Na nzila ya nda ya nti ya nda, Kongo vandaka kutunga makalu ya nti mpi yandi vandaka kupesa yo bima ya mbalu.  Yandi vandaka kuzinga na kinsuni ya nti, mpi yandi vandaka kudia mambu ya nti. Na nsuk’a nzila, Kongo kutanaka ti nkento ya kitoko, mbisi ya madilu.  Yandi vandaka kusamba, mpi yandi vandaka kudila.
+
+Kongo kubakaka yandi na maboko, mpi yandi vandaka kuzola kulula maboko. Yandi songaka yandi, “Nkento ya kitoko, sambu na nki nge ke dila?” Nkento ya kitoko, yandi songaka Kongo, “Mono ke dila sambu mono kele na maladi ya mpasi.”
+
+Kongo songaka yandi, “Mono ke kwenda kusambila Nzambi sambu na nge.  Mono ke kwenda kununga mavua ya nti, mpi mono ke kwenda kukwenda na kisika ya ntoto yo ke vandaka ngolo.”
+
+Kongo kukwendaka na mboka ya nti, mpi yandi sambilaka Nzambi.  Yandi tubilaka Nzambi mpasi ya nkento ya kitoko.  Yandi tubilaka Nzambi, mpi yandi waka kimvwama. Yandi vandaka kuzola Nzambi, mpi Nzambi vandaka kuzola yandi.
+
+Na nima ya lusambu, Kongo kwenda na nzo ya nkento ya kitoko.  Yandi bakaka bima ya mboka, bima ya kitoko, mpi bima ya mbalu.  Yandi pesaka yo na nkento ya kitoko.  Nkento ya kitoko, yandi diaka bima ya mboka, mpi yandi diaka bima ya kitoko.
+
+Na nima ya nima, nkento ya kitoko tubilaka Kongo, “Mono kele mbote.  Mono ke waka mbote. Nge, Kongo, nge me sala mambu ya mbote sambu na mono.” Kongo, yandi waka kiese ya nene.
+
+Muna mbanza, bantu waka nsangu ya Kongo.  Bantu vandaka kutuba, “Kongo, yandi kele muntu ya mbote, muntu ya luta, mpi muntu ya zola.” Bantu yonso vandaka kuzola Kongo.
+
+Kongo landaka kuzingila na kiese, mpi yandi landaka kusala mambu ya mbote.  Yandi vandaka kuzola bantu yonso, mpi yandi vandaka kuzola kuwila bantu yonso mpasi.  Yandi vandaka muntu ya mbote, mpi bantu yonso vandaka kuzola yandi.  Konso kilumbu, Kongo vandaka kuzingila na kiese, mpi yandi vandaka kuzola kuzola bantu yonso.
+</body>

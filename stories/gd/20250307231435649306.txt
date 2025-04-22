@@ -1,0 +1,40 @@
+<prompt>
+Please write a fun and entertaining Scottish Gaelic children's story that is at least 1000 words long.
+It must be completely written in proper Scottish Gaelic (GD).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>gd</lang_id>
+
+<title>An t-Sìth a Chaidh a Dhearmad</title>
+<body>
+Tha mòran de shìth ann an dùthaich mhòr.  Sìth anns na h-àirde, sìth ann an criomagan na fiodha, sìth ann an smuaintean na speur. Ach, ann an gleann beag, air taobh a’ bhàrr mhaighdeann, bha sìth nach robh ann gu bràth.  Bha e na shìth chruaidh, sìth anns an robh iomadh smùid a’ bhlàthsach.
+
+Bha cuileag beag air a bheilinn  a’ bheinn, a’ cluich gach là a’ bhòrd chruaidh leis na càrnagan agus an cridhe fàilteach aig a’ bhlàthsgach.  Bha a’ chòmhnuidh air an cuileag, am fear beag uasal, a' faireachdainn aon rud an-còmhnaidh.  Bha e ag iarraidh sìth.  Chan ann sìth anns a' ghlinn le ghaoth, sìth nam beanntan, ach sìth a thiodhlacadh na cridhe gu buileach, aon rud sìth a thachair nuair a fhuair fear smùid a' bhaint e féin.
+
+Bha an cuileag ga lorg tro fhìor ghlinn, air feadh na gaoithe chruaidh, eadhon ann am bòrd grianach a' bhlàthsach, ach cha robh e comasach.  Ach, bha e dèidheil air na ghnìomhan a bha, a’ toirt a-steach an dà ghrian-grìodhach airson mìos làn a’ chrìochachadh le bheàrn, agus e a’ chràdh a’ ghiùlan suas gu gach crann a dh’ fhuair e.
+
+Aon là, ag èisdeachd ris a' ghrinn a' bhlàthsach, chunnaic e bean liath. Bha i àrd,  leis buill grian-grìodhach fhlòraidh anns na h-àmhan ghràdhach.  Bhi am beatha fhànais aig a' bhinn beag sa ghlinn, air feadh na cruinne.
+
+“Ciamar a tha thu,” ars esan don bhan.
+
+“Tha mi gu math,” fhreagair i, “a’ fuireach a’s faicsinneach, is mòran den t-sìth sa cho-roinn.”
+
+Chunnaic an cuileag beag ceò uisge sa ghlinn, ann am measg a' ghrian. Bha e toilichte!  "A’s mo chòmhnuidh a-nuas!" bha i ag ràdh! "Ach fòghlaim air an smuain 's e an t-sìth."
+
+“Na tha thu ag ràdh? An urrainn dhomh faighinn gu sìth?” dh'fhuirich an cuileag beag, a’ faireachdainn a bheò.
+
+“Tha, geall thu gum bi thu fànais leis na h-amas agad,” fhreagair an ban, ag atharrachadh a' chrios mhòr a bha.
+
+Gheall an cuileag beag gu cunbhalach, ag èisdeachd ris an ban fhòghlam. “Le mo spiorad!” chuir e air dòigh, agus chaidh iad a-steach do 'n a'bhinn.
+
+Aig àm nan leithid chaidh a-nuas. Thug an ban an cuileag beag tro ghleann sàrachail. Chaidh iad tro dhroch uisge, thiodhlacadh gach smùid, a ghlèidheadh, agus mar sin chuidich an ban leis an t-sìth.  Dh'èisd i le smùidan, air fad tha cànan. Bha cànan na cruinne san làimh. Chuir an t-sìth, airson an aona-shùileachan a’ fuireach a rèir cridhe.
+
+Agus ann an crìoch an t-sìthe, thug i an cuileag beag dha seòrsa dheagh chruinneach.  Bha e an seo le còmhdhail àbhaisteach a’ coiseachd tro bhàrr, le solas a’ strìd fhaicinn agus buileach-fuachd. Tha cànan na cruinne. Ach mar a thug an cuileag an t-sìth a bhuannaich e, cha robh e aon rud, bha e fhathast comasach air a mhìneachadh agus gach mìos, fhad'sa bha e gu caitheamh sa ghlinn, bhiodh an smuain ag èisdeachd leis a' ghaoth, ag aideachadh am buileach-fuachd, agus bha i a’ faireachdainn nach eil fear sam bith mar sin!
+
+Fhuair an cuileag beag eadhon an-dùthaich, aig àm a chaidh an smuain a chaidh. B’ e an t-sìth nach dearmad a bha seo. Bha tàmh an t-sìthe an-còmhnaidh an-seo agus ann am measg an t-sìthe. Bha mòran eile ann am bràithrean gaolach.
+</body>

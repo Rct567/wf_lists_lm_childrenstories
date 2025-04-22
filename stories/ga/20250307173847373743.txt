@@ -1,0 +1,83 @@
+<prompt>
+Please write a dialog-based Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>ga</lang_id>
+
+<title>Eachtraí na Leipreachán</title>
+<body>
+Bhí lá álainn samhradh ann, agus bhí na páistí ar saor ón scoil. Bhí siad ag súil go mór le haghaidh na laethanta saoire a chaitheamh amuigh faoin aer, ag imirt agus ag déanamh spraoi.
+
+"Ar mhiste leat dul amach ag siúl liom inniu?" arsa Caoimhe le a hathair.
+
+"Níl aon mhiste liom," ar seisean. "Táim réidh dul amach ag siúl leat. Cá bhfuil tú ag dul?"
+
+"Táim ag dul go dtí an choill," arsa Caoimhe. "Chonaic mé leipreachán ann ó chianaibh, agus táim ag dul chun é a fháil."
+
+"Leipreachán?" ar seisean. "Níl aon leipreachán ann. Tá tú ag bréagadh liom."
+
+"Níl mé ag bréagadh," arsa Caoimhe. "Chonaic mé é le mo shúile fhéin. Bhí sé ag déanamh potaí agus cruicíní i gcistin beag."
+
+"Bhuel, má tá tú ag dul chun an choille, bí cúramach," ar seisean. "Níl aon eolas agam faoi leipreacháin, ach táim cinnte go bhfuil siad in ann a gcuid miste a dhéanamh."
+
+D'imigh Caoimhe ag siúl go dtí an coill, agus bhí sí ag súil go mór le haghaidh an leipreacháin a fháil. Nuair a shroich sí an coill, chonaic sí an leipreachán ag déanamh potaí agus cruicíní i gcistin beag.
+
+"Céad mile fáilte!" ar seisean. "Táim ag déanamh potaí agus cruicíní anseo. Ar mhaith leat cupán tae a ól liom?"
+
+"Ba mhaith liom," arsa Caoimhe. "Táim ag ól tae le mo chara an leipreachán anseo."
+
+D'ól siad tae agus bhí siad ag caint faoi na rudaí a bhí ag tarlú sa choill. Bhí an leipreachán ag inseacht scéalta faoi na sióga agus na leipreacháin eile a bhí ina gcónaí sa choill.
+
+"An bhfuil tú ag déanamh potaí agus cruicíní do na sióga?" arsa Caoimhe.
+
+"Is ea," ar seisean. "Táim ag déanamh potaí agus cruicíní do na sióga agus do na leipreacháin eile. Tá siad ag teastáil uaim chun a gcuid bia a chur isteach."
+
+"An bhfuil tú ag déanamh aon rud eile?" arsa Caoimhe.
+
+"Táim ag déanamh ceol," ar seisean. "Táim ag casadh amhráin agus ag déanamh ceol le mo phíopaí."
+
+"Cas amhrán dom," arsa Caoimhe.
+
+D'fhág an leipreachán a photaí agus a chruicíní agus thóg sé a phíopaí. Thosaigh sé ag casadh amhrán, agus bhí Caoimhe ag déanamh damhsa leis.
+
+Bhí an t-am ag súil go maith, agus bhí Caoimhe ag déanamh spraoi leis an leipreachán. Nuair a tháinig an tráthnóna, dúirt an leipreachán le Caoimhe go raibh sé in am di dul abhaile.
+
+"Táim ag dul abhaile anois," arsa Caoimhe. "Bhí mé ag déanamh spraoi leat, agus táim ag súil go mór le haghaidh na gcúrsaí eile a dhéanamh leat."
+
+"Bhí mé ag déanamh spraoi leat freisin," ar seisean. "Táim ag súil go mór le haghaidh na gcúrsaí eile a dhéanamh leat. Slán abhaile, agus táim ag súil le do thuilleadh."
+
+D'imigh Caoimhe abhaile, agus bhí sí ag smaoineamh faoi an leipreachán agus na rudaí a bhí sé ag déanamh sa choill. Bhí sí ag súil go mór le haghaidh na gcúrsaí eile a dhéanamh leis, agus bhí sí ag déanamh pleananna le haghaidh a gcúrsaí eile.
+
+An lá ina dhiaidh, d'imigh Caoimhe ar ais go dtí an coill chun an leipreachán a fháil. Nuair a shroich sí an coill, chonaic sí an leipreachán ag déanamh potaí agus cruicíní arís.
+
+"Céad mile fáilte!" ar seisean. "Táim ag déanamh potaí agus cruicíní anseo. Ar mhaith leat cupán tae a ól liom?"
+
+"Ba mhaith liom," arsa Caoimhe. "Táim ag ól tae le mo chara an leipreachán anseo."
+
+D'ól siad tae agus bhí siad ag caint faoi na rudaí a bhí ag tarlú sa choill. Bhí an leipreachán ag inseacht scéalta faoi na sióga agus na leipreacháin eile a bhí ina gcónaí sa choill.
+
+"An bhfuil tú ag déanamh aon rud nua?" arsa Caoimhe.
+
+"Táim ag déanamh ceol nua," ar seisean. "Táim ag casadh amhráin nua agus ag déanamh ceol le mo phíopaí nua."
+
+"Cas amhrán nua dom," arsa Caoimhe.
+
+D'fhág an leipreachán a photaí agus a chruicíní agus thóg sé a phíopaí nua. Thosaigh sé ag casadh amhrán nua, agus bhí Caoimhe ag déanamh damhsa leis.
+
+Bhí an t-am ag súil go maith, agus bhí Caoimhe ag déanamh spraoi leis an leipreachán. Nuair a tháinig an tráthnóna, dúirt an leipreachán le Caoimhe go raibh sé in am di dul abhaile.
+
+"Táim ag dul abhaile anois," arsa Caoimhe. "Bhí mé ag déanamh spraoi leat, agus táim ag súil go mór le haghaidh na gcúrsaí eile a dhéanamh leat."
+
+"Bhí mé ag déanamh spraoi leat freisin," ar seisean. "Táim ag súil go mór le haghaidh na gcúrsaí eile a dhéanamh leat. Slán abhaile, agus táim ag súil le do thuilleadh."
+
+D'imigh Caoimhe abhaile, agus bhí sí ag smaoineamh faoi an leipreachán agus na rudaí a bhí sé ag déanamh sa choill. Bhí sí ag súil go mór le haghaidh na gcúrsaí eile a dhéanamh leis, agus bhí sí ag déanamh pleananna le haghaidh a gcúrsaí eile.
+
+Agus mar sin, thosaigh Caoimhe ag dul ar ais go dtí an coill gach lá chun an leipreachán a fháil. Bhí sí ag déanamh spraoi leis, agus bhí sí ag éisteacht leis ag inseacht scéalta faoi na sióga agus na leipreacháin eile. Bhí sí ag súil go mór le haghaidh na gcúrsaí eile a dhéanamh leis, agus bhí sí ag déanamh pleananna le haghaidh a gcúrsaí eile.
+
+Bhí an leipreachán ag déanamh potaí agus cruicíní, agus bhí sé ag casadh amhr

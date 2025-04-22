@@ -1,0 +1,32 @@
+<prompt>
+Please write a simple and easy-to-follow Kongo children's story that is at least 1000 words long.
+It must be completely written in proper Kongo (KG).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>kg</lang_id>
+
+<title>Nkinzi ya Nsokolo</title>
+<body>
+Nkinzi ya nsokolo, oyo kele na kimvuka ya bambwende na nse ya nti, vandaka ti zoba ya nene. Yandi vandaka kaka kudizola mpi vandaka ve kutula ntima na bankaka. Yandi vandaka kudimona ngolo kuluta bantu yonso, mpi yandi vandaka kudipesa nsambu ya kuluta.  Nkinzi vandaka kudimona bulele ya mbote,  mpe yandi vandaka kuzola kupesa bantu nseka.  Ata bana ya nkaka ke vanda ya nkenda mpe ke tula ve mwa ntima.
+
+Konso kilumbu, yandi vandaka kulutisa nsungi na yandi ya mpembe na kusolula ti bambwende ya nkaka na nse ya nti.  Kansi, nkinzi vandaka ve kuzaya sambu na nki.  Yandi vandaka kuzaba kaka nkinzi ya yandi mosi.  Mbandu, yandi vandaka kupesa nseka na nti yina vandaka kaka kukuma diaka ngolo na mvula yina. Yandi vandaka kusosa kuseka bambwende yina vandaka kusambila. Yandi vandaka kuzonga na yandi mosi, ntangu yonso mpi.  “Mono kele ya mfunu kuluta yonso. Ata bantu yonso kele mbote, kansi mono kele bulele,” yandi vandaka kutuba yo na ntima.
+
+Mokanda mosi ya ntama vandaka na nse ya nti.  Na kati ya moko mosi ya nti, yandi vandaka kumona bambwende ya nkaka me samunuka.  Beto na beto na mpasi mpi na kiese yina. Yandi ke solula ti nkudi.  Beto ta landa nkinzi ya mpila yai ti kiese ya mutindu ya nkaka, kasi ya mutindu mosi mpe.  Nkinzi kumbaka ve.
+
+Mbanza mosi ya ndele ya kigangwa vandaka kuzika yandi. Ngindi yina vandaka kukita nti.  Nkinzi me nwanina yo, yandi kumisaka yo ntu na yandi, yingila sambu yandi fweti lungisa, mpi yidimisa mpasi na yandi.  Konso ntangu yandi wakanaka yandi, ata nsungi ya yandi vandaka kaka. Yandi landaka kukuna, kansi, ata mpongi mosi vandaka ve.   Nkinzi kumaka kumona buzoba ya yandi na yandi mosi.
+
+Na kilumbu mosi, mabele kumaka kuzola kutuba sambu na bambwende. Yandi vandaka kuyala mpi kusonga bambwende mambu.   Maboko ya nti ya nzo kuvandaka kaka.  “Mono kele ve bulele,” Nkinzi vandaka kuyindula.  Na kutuba yankaka, yandi me katuka kubaka ngindu.
+
+Kilumbu yina ya bambwende kumaka kaka.  Bo landaka yandi.  Ntangu bo monaka nkinzi, bo vandaka kutuba nde, “Bwakulu ya ngolo! Toidisa yandi yo.” Nkinzi waka yandi, bo kuvandaka ti nswa na yandi, na ludimini ya bo me luta ntangu.  Ya, yandi vandaka nani.  Ya, yandi vandaka nani. Yandi vandaka kumanisa yo. Yandi vandaka kulutila ndele.
+
+Mpidina, yandi monaka kibeni, na kati ya bambwende yina yonso ya ngolo.   Nkinzi kumaka kusansa, kusala, yandi landaka kuvanda katuka.  Ntangu yandi vandaka kaka, yandi landaka kuzaba mpi kupesa ntima na yandi na bambwende. Na ndele yina, Nkinzi kubakaka  kikesa na kusambila na bambwende.   Yandi monaka bo sambu na kinsansa.  Yandi zolaka bo. Yandi vandaka ve kutula dyambu yankaka na kati. Yandi vandaka ve ya mbote kuluta bankaka. Yandi monaka beto na mutindu beto kele mpe yo salaka yo kiese na yandi.
+
+Nkinzi, bubu yai, me vanda na kimvuka ya bambwende ya nse ya nti.   Bo ke ndimaka yandi sambu na kiese, mpe na kuluta ndele, bo zolaka yandi sambu na mutindu yandi me vanda na luzingu ya mbote. Yandi vutukaka  kutuba ti bangombe. Yandi pesaka  makasi. Nkinzi vandaka ve na makasi.
+
+Bo landaka na kisalu, yandi pesaka nswa. Bo solulaka yandi, yandi vutukaka mpe sambu yandi zolaka beto.   Ntangu yandi vandaka kaka na ntangu yonso, yandi landaka  kuzaya. Bo landaka kukita.   Ya, nkinzi, yo vukaka, na muntu yina vandaka na nswa sambu na luzingu. Nkinzi ya nsokolo kumaka.
+</body>

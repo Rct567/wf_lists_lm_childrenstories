@@ -1,0 +1,89 @@
+<prompt>
+Please write a uncomplicated Spanish children's story that is at least 1000 words long.
+It must be completely written in proper Spanish (ES).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Una mofeta amigable y los amigos que conoció.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>es</lang_id>
+
+```xml
+<title>Una mofeta amigable y los amigos que conoció.</title>
+<body>
+En un bosque verde y frondoso, vivía una pequeña mofeta llamada Margarita. Margarita no era como las otras mofetas. A diferencia de sus parientes, que preferían esconderse y rociar a los intrusos, Margarita era muy amigable y curiosa. Siempre estaba lista para saludar a los demás animales del bosque, y en vez de asustar con su olor, usaba un perfume suave de flores silvestres que ella misma preparaba.
+
+Margarita vivía en una madriguera acogedora debajo de un gran roble. La madriguera estaba adornada con pequeñas flores y hojas recogidas por ella. Le encantaba pasar sus días explorando el bosque, aprendiendo sobre las plantas y animales que lo habitaban.
+
+Un hermoso día soleado, Margarita salió de su madriguera con una gran sonrisa en su cara. "¡Buenos días, mundo!" exclamó, mientras estiraba sus pequeñas patitas. Su pelaje era negro y blanco, con una franja blanca que le recorría la espalda, como una linda y elegante bufanda.
+
+Mientras caminaba, se encontró con un pequeño conejo de orejas largas, que estaba escondido debajo de un arbusto, temblando de miedo. Margarita, con su voz suave, se acercó y le preguntó: "Hola, pequeño conejo, ¿por qué estás tan asustado?"
+
+El conejo, cuyo nombre era Benito, levantó tímidamente la cabeza y respondió con voz temblorosa: "Es… es que escuché un ruido muy fuerte y… y tengo mucho miedo".
+
+Margarita se sentó a su lado y le dijo con calma: "No te preocupes, Benito. Yo soy Margarita, y no te haré daño. Dime, ¿qué es lo que te asusta tanto?"
+
+Benito explicó que había escuchado el sonido de un gran pájaro carpintero talando un árbol y pensó que era algo peligroso. Margarita le explicó que los pájaros carpinteros solo hacían eso para encontrar comida y construir sus nidos, y que no eran peligrosos en absoluto.
+
+"Mira, vamos a ver", dijo Margarita. Y juntos, se acercaron cautelosamente al árbol donde el pájaro carpintero, llamado Ricardo, estaba trabajando con ahínco. Benito, al ver al pájaro, se dio cuenta de que Margarita tenía razón, y se sintió aliviado.
+
+Ricardo, al ver a los dos amigos, detuvo su trabajo y les saludó con una sonrisa. "¡Hola, amigos! ¿Qué los trae por aquí?"
+
+Margarita, siempre amable, respondió: "Hola, Ricardo. Solo estábamos mostrando a Benito que no tenías malas intenciones, ¡y lo convencimos!"
+
+Ricardo se rió. "¡No, por supuesto que no! Solo busco mi desayuno".
+
+Desde ese día, Benito y Ricardo se hicieron muy buenos amigos. A menudo jugaban juntos, y Benito ya no sentía tanto miedo en el bosque.
+
+Unos días después, Margarita se encontró con una ardilla muy enojada llamada Sofía. Sofía estaba sentada en una rama alta de un árbol, balanceando su cola y murmurando para sí misma.
+
+Margarita subió al árbol y le preguntó a Sofía: "¿Qué pasa, Sofía? Parece que estás molesta".
+
+Sofía, con su voz chillona, respondió: "¡Es que! ¡Alguien se comió todas mis nueces! ¡Todas, todas!"
+
+Margarita, con su corazón bondadoso, preguntó: "¿Y quién crees que se las comió?"
+
+Sofía respondió: "¡No lo sé! ¡Pero estoy segura de que alguien se las robó!"
+
+Margarita pensó por un momento y luego dijo: "A lo mejor, no se las robaron. A lo mejor, se cayeron y se las comieron otros animales. Mira, vamos a buscar más nueces juntas. Quizás encontremos algunas".
+
+Sofía, aunque todavía un poco enfadada, aceptó la oferta de Margarita. Juntas, buscaron nueces por todo el bosque. Encontraron algunas que estaban en el suelo, y también encontraron otras que habían sido escondidas por otras ardillas.
+
+Sofía se dio cuenta de que Margarita tenía razón. No todas sus nueces se las habían robado, y que en el bosque había suficientes nueces para todos. Sofía, gracias a la ayuda de Margarita, entendió que debía compartir y ser más tolerante.
+
+Mientras caminaban, Margarita le propuso a Sofía: "¡Oye! ¿Por qué no juntamos todas las nueces y hacemos un gran festín para todos los animales del bosque?"
+
+Sofía, sorprendida por la idea, respondió: "¡Eso es… eso es una gran idea, Margarita!"
+
+Juntas, comenzaron a planear el festín. Invitaron a Benito, Ricardo, y a todos los demás animales del bosque: ciervos, mapaches, zorros, y hasta los erizos, que eran un poco tímidos.
+
+El día del festín, el bosque se llenó de alegría y risas. Todos los animales compartieron las nueces, los frutos silvestres y las bayas. Margarita, con su perfume de flores, hacía que el ambiente fuera aún más agradable.
+
+Durante el festín, Margarita conoció a un joven zorro llamado Fernando. Fernando era muy callado y tímido, a diferencia de sus hermanos, quienes eran más bulliciosos.
+
+Margarita se acercó a él y le preguntó: "Hola, Fernando. ¿Te estás divirtiendo?"
+
+Fernando, sorprendido por la pregunta, asintió con la cabeza. "Sí, un poco…"
+
+Margarita se sentó a su lado y le dijo: "No tienes que ser tímido. Todos somos amigos aquí".
+
+Fernando, con la confianza que le transmitió Margarita, empezó a hablar. Le contó sobre sus intereses, sobre su amor por la observación de las estrellas y su deseo de aprender sobre los misterios del universo.
+
+Margarita escuchó atentamente, mostrando un interés genuino en las palabras de Fernando. Le animó a seguir sus sueños, y le sugirió que compartiera sus conocimientos con los demás animales.
+
+Fernando, gracias a la amabilidad y al apoyo de Margarita, comenzó a salir de su timidez. Empezó a hablar más con los demás animales, y descubrió que todos estaban interesados en lo que él sabía.
+
+Con el tiempo, Fernando se convirtió en el sabio del bosque. Compartía sus conocimientos sobre las estrellas, las constelaciones, y el universo.
+
+Así, Margarita la mofeta amigable, siguió extendiendo su amistad y bondad por todo el bosque. Siempre estaba dispuesta a ayudar a los demás, a escuchar sus problemas y a hacerles sentir mejor.
+
+Aprendió de todos sus amigos, de la valentía de Benito, de la habilidad de Ricardo, de la generosidad de Sofía y de la inteligencia de Fernando.
+
+Gracias a ella, el bosque se convirtió en un lugar aún más amigable y feliz. Todos los animales se sentían seguros y queridos, y sabían que, en Margarita, siempre encontrarían una amiga.
+
+La mofeta, con su aroma de flores silvestres, y su corazón lleno de amor, demostró que la amistad, la bondad y la comprensión, son las llaves para vivir felices en cualquier lugar del mundo, ¡y en cualquier bosque! Y así, Margarita, la pequeña mofeta, vivió feliz por siempre, rodeada de sus amados amigos, en un bosque lleno de risas y alegría. Y todos los días, al salir el sol, Margarita decía con una sonrisa: "¡Buenos días, mundo!"
+</body>
+```

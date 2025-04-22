@@ -1,0 +1,49 @@
+<prompt>
+Please write a funny Serbian children's story that is at least 1000 words long.
+It must be completely written in proper Serbian (SR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Čarobni most koji je povezivao dva carstva'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sr</lang_id>
+
+<title>Čarobni most koji je povezivao dva carstva</title>
+<body>
+Petar, mali dečak sa ogromnim naočarima i kosom boje suncokreta, živeo je u malom selu na ivici carstva smeđih brda.  Njegovo selo je bilo poznato po neverovatnoj sposobnosti njegovih stanovnika da prave najukusnije burek.  Petar, međutim, nije voleo burek.  Voleo je avanture, a avanture, kako je on verovao, nisu se nalazile u hrpama prženog testa i sira.
+
+Udaljeno, preko dubokog kanjona, nalazilo se drugo carstvo – carstvo zelenih dolina i kristalno čistih reka.  Ovo carstvo su čuvali stražari sa zlatnim štitovima i ogromnim, mekim brkovima, ali se pričalo da su ti stražari zapravo ljubazni i radoznalo skloni pričama.
+
+Jednog sunčanog jutra, dok je Petar gledao u kanjon, primetio je nešto neobično.  Na samom dnu kanjona, skriven među kamenjem, stajao je most.  Nije bio od kamena, ni od drveta, već od sjajnog, prozirnog stakla.  Most se svetlucao kao hiljade malih zvezda, a kroz njega se videlo drugo carstvo.
+
+Petar je bio fasciniran.  Odmah je znao da mora da ga pređe.  Uzeo je svoj omiljeni, starinski džepni sat, koji je, kako je verovao, imao magične moći, i krenuo niz strmu stazu.
+
+Stigavši do mosta, Petar je video da se na njemu nalaze čudne, male figure.  Bile su to životinje iz oba carstva – smeđe medvedi iz brda i zeleni žabci iz dolina.  Svaka je životinja držala po jednu zvezdu.
+
+"Zdravo!", rekao je Petar, a životinje su se nasmešile, neobično zadivljujući se njegovim naočarima. "Kako mogu da pređem ovaj čarobni most?"
+
+"Da bi prešao most", odgovorila je mala žabica, "moraš da odgovoriš na tri pitanja."
+
+"Dobro", rekao je Petar, "postavljajte pitanja!"
+
+Prvo pitanje je bilo: "Šta je najslađe na svetu?"
+
+Petar je razmislio, a onda odgovorio: "Najslađe na svetu je osmeh prijatelja."
+
+Žabica se nasmešila.  Drugo pitanje je bilo: "Koja je najvažnija stvar u životu?"
+
+Petar je ponovo razmislio, a onda odgovorio: "Najvažnija stvar u životu je biti srećan."
+
+Žabica je ponovo zadovoljno kimnula.  Treće pitanje je bilo: "Šta je najveća tajna?"
+
+Petar je razmislio, a onda odgovorio: "Najveća tajna je da su sva bića na svetu povezana."
+
+Kada je Petar odgovorio na sva tri pitanja, zvezdice su se upalile i most se osvetlio još jače.  Petar je hrabro stupio na most.  Dok je hodao, videlo se da se zvezde na mostu menjaju, reflektujući lepotu i čuda oba carstva.
+
+U drugom carstvu, Petar se susreo sa kraljem, čovekom sa ogromnim, mekim brkovima.  Kralj je bio oduševljen Petrom i njegovim odgovorima.  Petar mu je ispričao o svom selu, o ukusnom bureku i o svojoj želji za avanturama.  Kralj je bio toliko dirnut Petarovim pričama, da ga je nagradio zlatnim štitom, koji je bio težak koliko i Petarove naočare.
+
+Petar se vratio u svoje selo, a priča o čarobnom mostu i Petarovim odgovorima proširila se celom zemljom.  Petar je shvatio da su avanture često skrivene u najobičnijim stvarima, a da je najveća avantura otkrivanje lepote i povezanosti svih bića na svetu.  I, naravno, da je burek i dalje ukusan, ali da se avanture ne mere količinom prženog testa i sira.
+</body>

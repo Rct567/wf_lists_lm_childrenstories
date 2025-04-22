@@ -1,0 +1,37 @@
+<prompt>
+Please write a silly Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Sirdaryo bo‘yidagi kichik qahramon'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>uz</lang_id>
+
+<title>Sirdaryo bo‘yidagi kichik qahramon</title>
+<body>Uzoq-zamonlar avval, Sirdaryo daryosining quyi oqimida, kichik bir qishloq bo‘lgan. Qishloq aholisi asosan dehqonchilik bilan shug‘ullangan. Ularning asosiy daromad manbai g‘alla, meva-sabzavot va uzum yetishtirishdan iborat edi. Qishloqda yashovchi bolalar o‘zlarining qishloq hayotini juda yoqtirar edi. Ularning sevimli mashg‘ulotlari orasida daryo bo‘yida o‘ynash, baliq tutish va qishloq atrofidagi bog‘larda sayr qilish kirar edi.
+
+Biri kuni, qishloqning chekkasida yashovchi kichik bir o‘g‘il bo‘lib, uning ismi Xurshid edi. Xurshid juda qiziqarli va sarg‘ish bolalardan edi. U doimo o‘zining eng yaqin do‘stlari bilan birga bo‘lar, ularning ismlari Rustam, Jamshid va To‘ra edi. Bu to‘rt nafar do‘st Sirdaryo daryosining quyi oqimida joylashgan kichik bir orolda o‘ynashni juda yoqtirar edi.
+
+Orolning o‘rtasida katta bir daraxt bor edi, uning shoxlari daryo suviga yetar edi. Bolalar ushbu daraxtning shoxlariga chiqib, daryo suvida o‘ynay boshlar edi. Xurshid va uning do‘stlari orolning atrofini aylanib, turli xil qiziqarli narsalar topishardi. Ular orolda yashovchi hayvonlarni, masalan, qushlar, kalamushlar va ilonlarni kuzatib, ular haqida ko‘p narsa bilib olardilar.
+
+Biri kuni, Xurshid va uning do‘stlari orolning chekkasida katta bir tosh topdilar. Tosh juda og‘ir edi, lekin ular birgalikda uni ko‘tarib, daryo suvida suzib ketishni boshladilar. Xurshid va uning do‘stlari toshning ustiga chiqib, daryo suvida sayr qila boshladilar. Ular daryo bo‘yidagi qishloqlarni, bog‘larni va dalalarni kuzatib, juda quvondilar.
+
+Tosh daryo oqimida asta-sekin harakatlanib, qishloqning quyi oqimiga yetib bordi. Xurshid va uning do‘stlari toshning ustida turib, qishloq aholisining hayratga tushganini ko‘rdilar. Qishloq aholisi toshning ustida turuvchi bolalarni ko‘rib, juda hayron bo‘ldilar. Ular bolalarga qandaydir sehrlangan toshga chiqqanini taxmin qildilar.
+
+Xurshid va uning do‘stlari toshning ustida turib, qishloq aholisiga salom berishni boshladilar. Qishloq aholisi bolalarga javoban salom berib, ularni qahramon deb e’lon qildilar. Xurshid va uning do‘stlari juda g‘ururlandilar, chunki ular qishloq aholisining sevimli bolalari bo‘lib qolgan edilar.
+
+Tosh daryo oqimida asta-sekin harakatlanib, qishloqning chekkasiga yetib bordi. Xurshid va uning do‘stlari toshning ustida turib, qishloqning chekkasida joylashgan katta bir bog‘ni ko‘rdilar. Bog‘da turli xil mevalar, masalan, olma, behi, shaftoli va uzum yetishtirilardi. Xurshid va uning do‘stlari bog‘ni ko‘rib, juda och qolganini his qildilar.
+
+Bolalar toshning ustida turib, bog‘ga yetib borishni boshladilar. Ular bog‘da turli xil mevalarni yeyishni boshladilar. Xurshid uzumni, Rustam olmani, Jamshid shaftolini, To‘ra behini eyishni boshladi. Ular bog‘da juda ozod va quvonchli vaqtni o‘tkazdilar.
+
+Biri kuni, Xurshid va uning do‘stlari bog‘da katta bir ilon topdilar. Ilon juda katta va xavfli edi, lekin bolalar uni zo‘rlik bilan ushlab, bog‘dan chiqarib yubordilar. Bog‘dagi mevalar yetishtiruvchilar bolalarga juda rahmat aytib, ularni qahramon deb e’lon qildilar.
+
+Xurshid va uning do‘stlari bog‘ni tark etib, qishloqqa qaytishni boshladilar. Ular qishloq aholisiga bog‘dagi voqealarni aytib berishni boshladilar. Qishloq aholisi bolalarga juda qiziqib, ularning qahramonligi haqida eshitib, juda g‘ururlandilar.
+
+Xurshid va uning do‘stlari qishloqqa qaytib, juda mashhur bo‘lib qolgan edilar. Ular qishloq aholisining sevimli bolalari bo‘lib qolgan edilar. Xurshid va uning do‘stlari o‘zlarining qahramonliklari haqida aytib, qishloq aholisini juda quvondirdilar.
+
+Shunday qilib, Xurshid va uning do‘stlari Sirdaryo daryosining quyi oqimida katta bir qahramonlik qilgan edilar. Ular qishloq aholisining sevimli bolalari bo‘lib qolgan edilar. Xurshid va uning do‘stlari o‘zlarining qahramonliklari haqida aytib, qishloq aholisini juda quvondirdilar. Va shunday qilib, ularning qahramonliklari haqida aytib, qishloq aholisi juda g‘ururlandi.</body>

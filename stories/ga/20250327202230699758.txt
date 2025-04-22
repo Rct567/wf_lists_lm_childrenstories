@@ -1,0 +1,76 @@
+<prompt>
+Please write a relatable Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'An Gailearaí a bhfuil an Scéal ina suí ar Chúl an Bhaile'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>ga</lang_id>
+
+```xml
+<title>An Gailearaí a bhfuil an Scéal ina suí ar Chúl an Bhaile</title>
+<body>
+Bhí Aoife ina cónaí le a muintir i mbaile beag gleoite ar imeall Chonamara. Ba bhaile lán d’fhiontar é, áit a raibh dathanna na farraige agus na gcnoc ag freastal ar gach teach. Bhí gailearaí beag ar chúl a gcuid tí, gailearaí nach raibh oscailte don phobal fós, ach gailearaí ina raibh an t-athair ag obair go dian air, ag cruthú pictiúr agus dealbha.
+
+Bhí an-chraic ag Aoife ar na healaíona. Is breá léi bheith ag tarraingt, ag péinteáil agus ag cruthú rudaí beaga as cré. Ba mhinic léi a bheith sa gharraí, ag breathnú ar na bláthanna agus ar na héin, agus ag iarraidh iad a tharraingt ar pháipéar. Ba dhuine cruthaitheach í, i gcónaí ag smaoineamh ar rudaí nua a dhéanamh.
+
+Lá amháin, agus í ag cuardach rud éigin le déanamh, chonaic Aoife doras beag adhmaid ar chúl an tí. Níor thug sí faoi deara é riamh roimhe seo. Bhí sé i bhfolach taobh thiar de dornán fraoch agus beagán craobhacha caora. Chuir sé iontas uirthi. Chuaigh sí ag baint na gcraobhacha agus na bfraochanna le haghaidh cuardach go dtí an doras.
+
+Bhí an doras dorcha agus beag, ach mhothaigh Aoife fiosracht mór. D’oscail sí an doras go cúramach. Bhí sé dorcha istigh, ach nuair a d'fhéach sí, chonaic sí seomra beag. Tharraing sí an doras ar ais agus shiúil isteach.
+
+Bhí an seomra beag ach gleoite, soilsithe ag roinnt fuinneog beag. Ar na ballaí, bhí go leor pictiúr. Ní raibh siad cosúil le haon rud a chonaic sí roimhe seo. Bhí dathanna beoga orthu, agus d'fhéadfá a fheiceáil go raibh scéal ag gach pictiúr le hinsint. Chonaic sí pictiúr de bheirt pháistí ag imirt ar an trá, pictiúr de bhean ag canadh le hata mór, agus pictiúr de shléibhte áille.
+
+Thosaigh Aoife ag siúl thart, ag breathnú ar na pictiúir go léir. Bhí an-spéise ag dul léi. Bhraith sí go raibh sí á iompar go dtí áiteanna eile, go raibh sí ag foghlaim scéalta nua, ag taisteal ar a n-intinn.
+
+Thosaigh sí ag siúl níos doimhne isteach sa seomra, nuair a chuala sí guth. “An bhfuil duine ar bith istigh?"
+
+Bhí Aoife scanraithe, agus d'fhéach sí timpeall. "Dia duit!" a dúirt sí go cúthail. "Cé atá ann?"
+
+"Is mise Seán," a dúirt guth bog. "Seo mo sheomra." Tháinig fear amach ó chúinne an tseomra, agus é ina sheasamh ansin. Bhí gruaig fhada dhubh air, agus súile geala. Bhí cuma go leor ar a chuid aghaidheanna ach d’oscail Aoife a béal.
+
+"Is mise Aoife," a dúirt sí. "Is breá liom na pictiúir!"
+
+D'aoibh Seán. "Go hiontach! Tá súil agam go mbeidh. Is mise an fear a phéinteáil iad."
+
+"An tú a rinne iad uile?" d’iarr Aoife, iontas uirthi fós.
+
+"Sea," a dúirt Seán, ag féachaint ar na pictiúir leis an dínit. "Baineann siad uilig leis an saol agus scéalta éagsúla."
+
+Chaith siad an chuid is mó den lá ag comhrá. Chuir Seán síos ar na pictiúir go léir, ag insint na scéalta a bhí taobh thiar dóibh. Dúirt sé faoi na daoine, faoi na háiteanna, agus faoi na mothúcháin. Dúirt sé faoi na dúshláin a bhí le sárú agus faoi na buanna a fuair sé.
+
+Bhí Aoife ar bís. Ba bhreá léi an chaoi a ndearna sé na pictiúir a thabhairt ar an saol. Gach uair a mhínigh sé ceann acu, mhothaigh sí go raibh sí ag taisteal arís, ag foghlaim rud éigin nua, ag fás.
+
+"Cén fáth ar dhear tú an gailearaí seo?" d'iarr Aoife ar deireadh.
+
+"Bhuel," a dúirt Seán, ag breathnú síos ar na pictiúir, "is dóigh liom go raibh mé ag iarraidh scéalta a insint. Is maith liom an chaoi a bhféadfadh pictiúir daoine a iompar go dtí áiteanna eile. Ba mhaith liom daoine a bhí in ann breathnú ar mo chuid oibre agus iad a bhraitheann go raibh siad ag déanamh beagán de a bhfuil d'intinn agam. Ach theastaigh uaim freisin áit a bheith agam inar féidir liom oibriú go sábháilte, áit a bhféadfainn mo chruthaitheacht a fhás."
+
+Chonaic Aoife an fíorspiorad ina shúile. Thuig sí. B'fhearr léi an gailearaí beag seo, ag an teach aici féin, agus an ceangal leis.
+
+Le linn an ama sin, b'éigean do Aoife a thuiscint nach raibh Seán ach ag seasamh ar an oileán. Ní raibh mórán daoine ar eolas aige. Ar feadh na bliana, níor casadh duine ar bith air sa bhaile.
+
+"Ba mhaith liom gur féidir leis na daoine eile seo breathnú ar na pictiúir," a dúirt Aoife go déiseach.
+
+"B'fhéidir lá éigin," a dúirt Seán. "B'fhéidir gur chóir go mbeimis ag tosú ag pleanáil anois!"
+
+Thosaigh Aoife agus Seán ag obair le chéile. Bhí Seán sásta, agus chuaigh sé ar aghaidh ag déanamh pictiúir. Bhí Aoife sásta le taithí a fuair sí agus bhí sí ar bís ag foghlaim uaidh. D'iarr Aoife ar a hathair má bhí cead aici cúnamh a dhéanamh.
+
+D'aontaigh a hathair láithreach. Thosaigh Aoife ag cabhrú le Seán chun an gailearaí a ullmhú le haghaidh oscailt phoiblí. D'oibrigh sí air gach lá tar éis na scoile, agus sa deireadh, le cabhair ó chairde a tuismitheoirí, d'éirigh leo gach rud a dhéanamh réidh.
+
+Lá na hoscailte, bhí an-spórt ann. Tháinig daoine ó gach cearn den bhaile, ó shean go hóg. Chuir siad iontas ar a raibh acu ar fad, agus mheall an pictiúr uathúil iad.
+
+Bhí Aoife agus Seán thar a bheith sásta. D'éirigh leis an gailearaí bheith ina phríomhspota sa bhaile. Ba mhór an obair a rinneadh, agus thuig Aoife go bhféadfadh sé an saol ar fad a athrú. Bhí daoine óga agus daoine scothaosta ag teacht isteach, go háirithe an scoil áitiúil.
+
+Nuair a chríochnaigh an lá, shuigh Aoife agus Seán le chéile ar chúl an gailearaí.
+
+"Tá sé sin iontach," a dúirt Aoife, an gháire ag scaipeadh ar a h-aghaidh.
+
+"Sea," a dúirt Seán. "Agus tá súil agam go leanfaidh sé ar aghaidh. Ba mhaith liom go n-insíonn na pictiúir a gcuid scéalta ar feadh blianta fada atá le teacht."
+
+Chuir Aoife a lámh ar a ghualainn. "Inseoidh siad, Seán. Is beag iad na scéalta atá ina suí ar chúl an bhaile."
+Agus nuair a smaoinigh Aoife ar an mbliain, thuig sí go raibh Seán ceart. Bhí na pictiúir ag insint scéalta, agus bhí a gcuid scéalta ag dul chun cinn ar feadh na gcéadta bliain atá le teacht. Bhí an gailearaí ina suí ar chúl an bhaile, ina áit draíochta áit a raibh an t-ealaín agus na scéalta i réim. Agus is cuimhin le Aoife i gcónaí an chéad lá a d’oscail sí an doras, ag lorg scéal... agus ag fáil ceann i gceart.
+</body>
+```

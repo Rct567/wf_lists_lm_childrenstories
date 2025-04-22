@@ -1,0 +1,44 @@
+<prompt>
+Please write a educational Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'De Fabulis Quae Narrantur In Nocte'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>la</lang_id>
+
+<title>De Fabulis Quae Narrantur In Nocte</title><body>Olim, in silva antiqua et mystica, ubi arbores altae ad caelum tendebant et flumina cristallina per valles murmurabant, habitabant animalia multa et varia. Inter ea erat lepus callidus nomine Lepidus, vulpes astuta nomine Vulpina, et ursus benignus nomine Ursus. Hi amici saepe congregabantur sub arbore magna, quae "Arbor Sapientiae" vocabatur, ut fabulas mirabiles narrarent. Hoc autem faciebant in nocte, cum luna plena super silvam luceret et stellae micantes caelum ornament.
+
+Una nocte, cum luna splendidissima esset et aura tepida flaret, Lepidus, Vulpina, et Ursus ad Arborem Sapientiae convenerunt. Lepidus, qui semper primus loqui amabat, sic coepit: "Amici, audite fabulam de lepore qui in luna habitat. Dicitur enim leporem illum noctibus currere per caelum, lunamque sequi ut eam custodiat. Sed aliquando, cum luna plena est, lepus descendit ad terram ut fabulas narret iis qui diligenter audiunt."
+
+Vulpina, quae fabulas novas semper quaerebat, oculos suos micantes intendit et dixit: "Narra nobis hanc fabulam, Lepidus! Volo scire quid lepus lunaris docet."
+
+Lepidus annuit et narrare coepit: "Ergo, lepus lunaris, qui appellatur Lunarius, habitabat in regione crystallina lunae. Omnes bestiae lunares eum reverebantur, quia sapientia eius magna erat. Sed Lunarius tristis erat, quia solitudinem patiebatur. Nemo enim in luna cum eo fabulas narrare volebat. Itaque, una nocte, Lunarius ad terram descendit et in silvam nostram venit. Ibi, sub hac ipsa arbore, congregavit animalia silvarum et dixit: 'Audite, amici! Fabulae sunt thesauri sapientiae. Per eas discimus de mundo, de vitiis et virtutibus, de amore et amicitia. Qui fabulas narrat, thesauros suos cum aliis communicat.'"
+
+Ursus, qui semper lentus sed sapiens erat, caput suum movit et dixit: "Verum est quod dicis, Lepidus. Fabulae nos docent et nos iuvant intellegere mundum in quo vivimus. Sed quid accidit Lunario postea?"
+
+Lepidus subridens respondit: "Postquam Lunarius fabulas narravit, animalia silvarum eum rogaverunt ut maneret. Sed Lunarius dixit: 'Non possum. Officium meum est lunam custodire. Sed promitto vobis quod, quotiescumque luna plena est, descendam ad terram et fabulas novas vobis narrabo.' Et sic fit ut, etiam hodie, Lunarius ad terram descendat et fabulas narret iis qui diligenter audiunt."
+
+Vulpina, quae semper curiosa erat, interrogavit: "Sed quomodo scimus si Lunarius vere adest? Numquam eum vidimus!"
+
+Lepidus oculos suos ad lunam direxit et dixit: "Si diligenter observatis, videtis umbram leporis in luna. Haec umbra est Lunarius, qui nos observat et nobiscum fabulas communicat."
+
+Post hanc fabulam, Vulpina, quae ingeniosa erat, suam fabulam narrare voluit. "Ego," inquit, "narrabo vobis fabulam de vulpe quae stellam capere voluit. Erant enim temporibus antiquis vulpes nomine Stella, quae stellam lucidissimam in caelo vidit et eam capere voluit. Stella credebat quod, si stellam caperet, sapientia infinita haberetur. Itaque, una nocte, Stella ad montem altissimum ascendit et ad caelum saltare conata est. Sed, quantumvis alta saltaret, stellam attingere non potuit."
+
+Ursus, qui fabulam intentus audiebat, interrogavit: "Quid accidit Stellae postea? Numquam stellam cepit?"
+
+Vulpina subridens respondit: "Non, Ursus. Stella, cum stellam capere non posset, tristis erat. Sed una avis sapiens, nomine Noctua, ad eam venit et dixit: 'Stella, stellam capere non debes. Stellae sunt in caelo ut nos illuminent et nos doceant de infinitate universi. Sapiens est qui stellis contemplandis delectatur, non qui eas possidere vult.' Stella, his verbis commota, intellexit quod sapientia non in possessione, sed in contemplatione invenitur. Et ex illo tempore, Stella stellas contemplari coepit et magna sapientia repleta est."
+
+Ursus, qui suas fabulas habebat, tandem suam fabulam narrare voluit. "Ego," inquit, "narrabo vobis fabulam de urso qui somnia sua sequebatur. Erat enim ursus nomine Somnius, qui somnia mirabilia habebat. In somnis, Somnius videbat montes aureos, flumina mellis, et silvas ubi omnes animalia in pace vivebant. Somnius somnia sua realia facere voluit, et itaque silvam suam reliquit et ad montes aureos iter fecit."
+
+Lepidus, qui fabulam audiebat, interrogavit: "Quid accidit Somnio? Num montes aureos invenit?"
+
+Ursus annuit et dixit: "Somnius multos dies ambulavit, sed montes aureos non invenit. Tandem, cum defessus esset, ad silvam revenit. Ibi, amici eum exceperunt et eum rogaverunt quid didicisset. Somnius respondit: 'Didici quod somnia nostra non semper realia fiunt, sed somnia nos inspirant ut meliores simus. Montes aureos non inveni, sed inveni amicitiam et pacem in silva nostra.' Et sic, Somnius intellexit quod vera felicitas in amicitia et pace invenitur."
+
+Postquam omnes fabulas narraverunt, luna altius in caelo lucere coepit, et animalia silvarum intellexerunt quod tempus erat ad dormiendum. Lepidus, Vulpina, et Ursus sub Arbore Sapientiae cubuerunt, somnia de fabulis mirabilium somniantes.
+
+Et sic, in silva antiqua et mystica, fabulae quae in nocte narrantur, animalia sapientiores et feliciores faciunt. Et si quandoque in silvam veneris et sub luna plena sederis, fortasse audies susurros fabularum quae in nocte narrantur.</body>

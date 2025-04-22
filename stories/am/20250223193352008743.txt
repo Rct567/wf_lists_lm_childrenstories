@@ -1,0 +1,22 @@
+<prompt>
+Please write a silly Amharic children's story that is at least 1000 words long.
+It must be completely written in proper Amharic (AM).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'አብራራ የእናቱ አስተሳሰብ ለልጃት ማስተማር'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>am</lang_id>
+
+<title>አብራራ የእናቱ አስተሳሰብ ለልጃት ማስተማር</title>
+<body>
+አብራራ አንድ በጣም ብልጭ ልጅ ነበረ። እናቱ በብሔራዊ ምስራቅ አፍሪካ የምትገኝ አገር ላይ የሚኖር ነበረ። አብራራ ለእናቱ እንደ አይን ነበረ። እናቱ ልጃቿን ለማስተማር ብዙ አስተሳሰቦችን የተራበ ነበረ። እናቱ ልጃቿን ከብዙ የእንቅስቃሴ ጠብሮች ጋር ለማስተማር እንደ አምሳል ሞኝ እና ባህል ሞኝ ለማስተማር እንዲሁም በተዘዋዋሪ እና በጥብጣባ ለማስተማር ብዙ እንቅስቃሴ ጠብሮች አስተማረ።
+
+አብራራ ለእናቱ ራሴ በብልጫነት ጠንከረና እንደ ትራራው ገንብ ሮጠ የሚበጠብጠው ሞኝ ነበረ። እናቱ እንዲህ አለች። "አብራራ ልጅ ሆይ አሁን ሞኝ ለማስተማር ጠብሮች አይተን እንሂድ።" እናቱ ልጅ አብራራን ተጋትኖ ከቤት ወጥቶ ገብተው በጣም ርቀት ላይ የሚገኙ ገንብን ሮጠ የሚበጠብጠውን ሞኝ እንዲያዩ ወሰኗ። አብራራም እንዲህ አለ። "እንትና እንትና ሞኝ ምን እየሠረበት ነው?" እናቱ እንዲህ አለች። "አብራራ ልጅ ሆይ ሞኝ በጣም አዝነኛ ነው። ሞኝ አንድ ጊዜ ለአንድ ሰው ሲጎረፍ ሶስት ሰዎች እንደ አህያ ይሞታሉ።"
+
+አብራራም እንዲህ አለ። "እንትና እንትና ሞኝ ሲጎረፍ ሶስት ሰው ስለሚሞት ማን ነው የሚገዛው?" እናቱ እንዲህ አለች። "አብራራ ልጅ ሆይ ሞኝ በባህሉ ጥብጣባ ነው የሚገዛው። ሞኝ ለብልጫነት ያለበትን ሰው ይገዛል።"
+
+አብራራም እንዲህ አለ። "እንትና እንትና ሞኝ ለብልጫነት ያለበትን ሰው ይገዛል ማን ነው የሚገዛው?" እናቱ እንዲህ አለች። "አብራራ ልጅ ሆይ ሞኝ ለብልጫነት ያለበትን ሰው አብራራ ይገዛው አሁንም ሞኝ ለማጥበብ በጣም የተራበ�

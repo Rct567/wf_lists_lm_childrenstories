@@ -1,0 +1,69 @@
+<prompt>
+Please write a funny Spanish children's story that is at least 1000 words long.
+It must be completely written in proper Spanish (ES).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'El mago que hacía trucos asombrosos para entretener a los niños curiosos.'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>es</lang_id>
+
+```xml
+<title>El mago que hacía trucos asombrosos para entretener a los niños curiosos.</title>
+<body>
+¡Hola, pequeños exploradores de la risa! Prepárense para conocer al Mago Pipo, un mago un poco… peculiar. No, no es un mago normal. ¡Este mago es un mago que tiene más pelo en la nariz que en la cabeza y que habla con un acento tan raro que a veces ni él mismo se entiende!
+
+El Mago Pipo vivía en una casita pintada con rayas de todos los colores, ¡parecía un arcoíris con fiebre! Su casa estaba llena de cosas extrañas: calcetines parlantes, un espejo que contaba chistes malos y un gato llamado Bigotes que, en vez de maullar, ¡cantaba ópera!
+
+Un día soleado, el Mago Pipo decidió que era hora de dar un espectáculo. "¡Voy a ser el mago más fabuloso del mundo!", se dijo, mientras se ponía su sombrero mágico, que parecía una mezcla entre un paraguas y un sombrero de copa.
+
+Y así, empezó a preparar sus trucos, que eran… interesantes.
+
+Primero, intentó hacer desaparecer a su calcetín favorito, un calcetín con la cara de un plátano. ¡Pero en vez de desaparecer, el calcetín lo mordió en el dedo gordo! "¡Ay, ay, ay! ¡Ese calcetín tiene más dientes que un cocodrilo!", gritó el Mago Pipo, saltando de un pie a otro.
+
+Luego, intentó convertir un limón en una tarta de fresa. Pero, en lugar de tarta, ¡obtuvo un limón gigante que rodó por toda la casa, aplastando un montón de vasos! "¡Oh, no! ¡Van a pensar que mi casa es un campo de batalla de limones!", exclamó, con una mueca de desesperación.
+
+El Mago Pipo, a pesar de sus torpezas, no se rendía. Sabía que lo más importante era hacer reír a los niños. Y, como decía su abuela: "La risa es la mejor magia".
+
+Finalmente, llegó el gran día del espectáculo. Un montón de niños curiosos se reunieron en el jardín del Mago Pipo. Había niños con gafas, niños con coletas, niños con pecas… ¡y hasta un niño con un sombrero de pizza!
+
+El Mago Pipo, con su sombrero-paraguas torcido y su acento incomprensible, subió a una pequeña tarima hecha con cajas de cartón. "¡Ah, ah, ah! ¡Bienvenidos, pequeños… eh… público! ¡Hoy, el Mago Pipo… les… les… va a sorprender!", dijo, mientras se atusaba el pelo de la nariz.
+
+El primer truco fue… ¡la levitación del gato Bigotes! El Mago Pipo agarró a Bigotes por las patas y… ¡lo lanzó al aire! Bigotes, en vez de levitar, cayó en un arbusto lleno de rosas y empezó a cantar una aria de ópera que hacía temblar las hojas. Los niños se echaron a reír a carcajadas.
+
+"¡Ejem, ejem!… ¡problemas técnicos!", dijo el Mago Pipo, intentando disimular su vergüenza. "¡Pero ahora, el truco más… más… ¡especial!: ¡La desaparición de… mi… sombrero!", anunció con entusiasmo.
+
+Se tapó con una tela grande, que parecía una sábana con agujeros. Contó hasta tres… y… ¡Puf! Cuando quitó la tela, el sombrero… ¡seguía allí!
+
+"¡Oh, no! ¡Parece que hoy mi magia no quiere colaborar!", suspiró el Mago Pipo, rascándose la cabeza.
+
+Los niños se reían más fuerte que nunca. El niño del sombrero de pizza se reía tanto que casi se le cae la pizza de la cabeza.
+
+El Mago Pipo, al ver la alegría de los niños, sintió una gran felicidad. ¡Al fin y al cabo, su magia funcionaba! Aunque no como él esperaba.
+
+Entonces, se le ocurrió una idea. "¡Ya sé! ¡Voy a hacer un truco de… adivinación!", exclamó. "Voy a adivinar… ¡qué es lo que está pensando cada uno de ustedes!".
+
+Se acercó a la niña con gafas y, con una voz misteriosa, dijo: "¡Estás pensando en… un helado de fresa con nata!". La niña abrió los ojos como platos. "¡Es verdad!", gritó.
+
+Luego, se acercó al niño de las coletas y dijo: "¡Estás pensando en… un montón de caramelos!". El niño asintió con la cabeza, emocionado.
+
+Y así, el Mago Pipo adivinó los pensamientos de todos los niños: el niño de las pecas pensaba en jugar con su perro, el niño del sombrero de pizza pensaba… ¡adivinaron! en pizza, y así sucesivamente.
+
+Los niños estaban fascinados. "¿Cómo lo haces?", preguntaron.
+
+El Mago Pipo sonrió y, con una voz enigmática, respondió: "¡Es un secreto de mago!… O, bueno, la verdad es que los conozco a todos… Y sé lo que les gusta… ¡Pero no se lo digan a nadie!".
+
+Los niños prometieron guardar el secreto y, para celebrar el éxito, el Mago Pipo sacó una caja llena de caramelos de todos los sabores y colores. ¡Los repartió entre todos, incluidos Bigotes, que interrumpió su aria para comer uno!
+
+Al final del espectáculo, los niños se despidieron del Mago Pipo, prometiendo volver pronto. El Mago Pipo, con su sombrero-paraguas torcido, su acento peculiar y su corazón lleno de alegría, se quedó en el jardín, sonriendo bajo el sol.
+
+"¡Qué día tan… mágico!", susurró a Bigotes, que, después de comer el caramelo, volvió a su aria de ópera, pero esta vez, ¡sonaba un poco más dulce!
+
+Y así, el Mago Pipo, con sus trucos raros y su magia especial, continuó haciendo reír a los niños curiosos, demostrando que la verdadera magia está en la alegría y en la amistad. Y, por supuesto, en los calcetines que muerden y los limones gigantes. Porque, al fin y al cabo, ¡la vida es más divertida cuando es un poco… ¡loca!
+
+Ycolorín colorado… ¡este cuento mágico ha terminado!
+</body>
+```

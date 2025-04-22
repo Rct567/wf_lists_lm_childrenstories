@@ -1,0 +1,59 @@
+<prompt>
+Please write a uncomplicated Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Hienot hämähäkit ja hillitsemättömän höperöhirviön ihmeellinen ystävyys'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fi</lang_id>
+
+```xml
+<title>Hienot hämähäkit ja hillitsemättömän höperöhirviön ihmeellinen ystävyys</title>
+<body>
+Olipa kerran, syvällä tuuheassa, vihreässä metsässä, missä auringonvalo tanssi lehdillä ja purot solisivat iloisesti, asui joukko hienoja hämähäkkejä. Nämä hämähäkit eivät olleet ihan tavallisia hämähäkkejä. He olivat tunnettuja hämähäkkiyhteiskunnassa taidoistaan ja kekseliäisyydestään. Heidän hämähäkkitalonsa olivat mestariteoksia, kudottuja värikkäistä seittilangoista ja koristeltu hohtavilla timanttisirpaleilla, jotka keräsivät auringonvaloa kuin pienet tähdet.
+
+Hämähäkkien nimi oli Seitikki, ja heidän johtajansa oli Viipuri, vanha ja viisas hämähäkki, jonka selässä oli hopeinen seittimerkin. Viipuri opetti nuoremmille hämähäkeille tärkeitä asioita, kuten seittien kutomisen saloja, kuinka houkutella herkullisia hyönteisiä ansaan, ja mikä tärkeintä, kuinka olla ystävällisiä ja avuliaita toisilleen.
+
+Yksi Seitikin suurimmista hämähäkkiryhmistä asui suuren tammipuun alla. Heidän ihana, kotoisa talonsa kiersi puun juurta kuin kaunis, kirjava nauha. Heillä oli omat nimet ja heillä oli aina hauskaa. Siellä asui Lumikki, pieni ja iloinen hämähäkki, joka rakasti laulamista ja värittämistä. Hänellä oli tapana laulaa iloisia lauluja, jotka kaikuivat metsässä ja saivat lehtien heilumaan tuulessa.
+
+Sitten oli Villi, suuri ja rohkea hämähäkki, joka oli mestari köysi- ja riippusiltatekniikoissa. Villi oli Seitikin turvallisuusvastaava. Hänen seittinsä olivat tunnettuja lujuudestaan, ja hän valvoi aina, että kaikki olivat turvassa.
+
+Ja sitten oli Pipari, joka rakasti leipoa ja keksiä uusia makuja. Pipari osasi tehdä parhaat kärpässienipiirakat ja hyönteisjuustot, jotka olivat Seitikin suurta herkkua. Pipari oli myös erityisen hyvä rauhoittamaan ihmisiä tai hämähäkkejä, jotka olivat huolissaan tai surullisia.
+
+Yhtenä kauniina aamuna, kun aurinko nousi ja valaisi metsän upeilla väreillään, Seitikissä tapahtui jotain outoa. He kuulivat kauhean ryminän ja jyrinän. Se kuulosti siltä kuin jättiläinen olisi astellut metsässä. Pelko levisi hämähäkkien keskuudessa, mutta Viipuri rauhoitteli heitä ja käski kaikkien pysyä kodeissaan.
+
+Ääni vain voimistui, ja lopulta koko maa tärisi. Sitten he näkivät sen: valtava, höperöhirviö! Se oli niin suuri, että sen sarvet koskettivat puunlatvoja. Se kompuroi ja törmäili puihin, jättäen jälkeensä sekasortoa. Hirviö vaikutti kovin onnettomalta.
+
+Lumikki oli utelias ja rohkaisi itseään. "Mitä me teemme?" hän kuiskasi. "Meidän täytyy auttaa sitä!" Villi ja Pipari nyökkäsivät samaan aikaan, hekin haluten auttaa.
+
+He lähtivät varovasti ulos taloistaan, ja suuntasivat kohti hirviötä. Lumikki, laulaen rohkaisevaa laulua, Villi, punomaan turvallisia siltoja, ja Pipari, valmistamaan rauhoittavia piirakoita.
+
+Kun he pääsivät lähelle, he huomasivat, että hirviö oli täysin eksyksissä ja hämmentynyt. Sen silmät olivat täynnä kyyneleitä, ja se jyräsi tuskissaan. Viipuri, vanha ja viisas, ymmärsi, että hirviö oli todennäköisesti vain peloissaan ja halusi päästä takaisin kotiinsa.
+
+Viipuri astui varovasti eteenpäin ja puhui hirviölle pehmeällä äänellä: "Moi, ystävä. Olen Viipuri. Älä pelkää, me autamme sinua."
+
+Hirviö, kuultuaan ystävälliset sanat, pysähtyi. Se katsoi alas pieniä hämähäkkejä ja pudisti päätään. "Minä olen Ruut," se sanoi. "Olen eksyksissä. Olen niin höperö."
+
+Lumikki, Villi ja Pipari tekivät parhaansa rauhoittamaan Ruut-hirviötä. Lumikki lauloi pehmeän, lohduttavan laulun, Villi punoi valtavan turvasillan, joka ohjasi Ruutia turvallisemmalle polulle, ja Pipari tarjosi herkullisia kärpässienipiirakoita, jotka hymyilyttivät hirviön.
+
+Hämähäkit, huomaten hirviön suuren koon, keksivät nerokkaan suunnitelman. He punoisivat valtavan seittikartan, johon merkittiin tunnettuja polkuja ja maamerkkejä. Villi auttoi hirviötä ylittämään vaikeita maastoja turvallisten riippusiltojen avulla. Pipari loi hyönteisjuusto-merkkimajakat, jotta Ruut pystyisi paremmin suuntaamaan oikeaan suuntaan. Lumikki, omalla laulullaan, kantoi kannustusta ja hymyä mukanaan, kunnes he saivat suuren hirviön taas oikealle tielle.
+
+Ruut kertoi heille, että hän oli eksynyt etsiessään parhaita lehtirusakoita. Hän ei osannut lukea karttoja eikä suunnistaa, ja siksi hän oli päätynyt syvälle tuntemattomaan metsään.
+
+Hämähäkit opettivat Ruutille metsän saloja, ja heistä tuli hyviä ystäviä. He viettivät paljon aikaa yhdessä, pelaillen piilosta, leikkien seittikeinuilla ja nauttien yhdessä herkullisista hyönteispiirakoista. Ruut puolestaan auttoi hämähäkkejä korjaamaan talojaan, kaivamaan juoksuhautoja ja rakentamaan jopa uusia riippusiltoja.
+
+Yhdessä he tekivät jättiläismäisiä lehtiä, jotka kattoivat kokonaisen kylän. Ruut, jonka aiempi höperyys tuntui nyt vain ihastuttavana, teki uusia ystäviä ja metsästä tuli yhtä yhtenäisempi paikka.
+
+Viimein koitti päivä, jona Ruut löysi tiensä takaisin kotiin, lehtirusakoiden luokse. Hänen sydämensä oli täynnä iloa ja kiitollisuutta uusille ystävilleen.
+
+"Minä en koskaan unohda teitä," hän sanoi hämähäkeille, "teidän ystävyytenne ja avuliaisuutenne ovat muuttaneet elämäni."
+
+Hämähäkit hyvästelivät Ruutin lämmöllä ja lupasivat tavata häntä aina uudestaan. Lumikki, Villi ja Pipari tiesivät, että heidän ystävyytensä oli ainutlaatuinen ja heidän sydämensä täyttyi ilosta. He olivat opettaneet hirviötä, mutta vielä enemmän, he olivat oppineet jotain itsestään: ystävyys ylittää kaiken, jopa höperyys.
+
+He palasivat taloihinsa, täynnä uutta iloa ja tietäen, että he olivat tehneet oikean teon. Ja jokainen hämähäkki Seitikissä, vanhin ja nuorin, tiesi, että ystävyys ja avuliaisuus olivat suurimmat aarteet, mitä heillä koskaan voisi olla. He jatkoivat elämäänsä, rakentaen hämähäkkitaloja ja keittiön keksejä, mutta muistaen aina tuota ihmeellistä tarinaa, joka todisti, että ystävyys voi syntyä kaikkialla, jopa hillitsemättömän höperöhirviön ja hienojen hämähäkkien välillä.
+</body>
+```

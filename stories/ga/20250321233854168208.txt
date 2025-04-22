@@ -1,0 +1,66 @@
+<prompt>
+Please write a timeless Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Sa Róisín Bhéasach: Scéalta na nGráinne'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>ga</lang_id>
+
+```xml
+<title>Sa Róisín Bhéasach: Scéalta na nGráinne</title>
+<body>
+Bhíodh Róisín beag ina cónaí i gcroílár Chontae Mhaigh Eo, i dteachín beag bán le díon tuí, in aice le gleann glas fíorálainn. Bhí gruaig rua, bhinn aici, súile gorma ag taitneamh cosúil le lochán sa ghrian. Ba chailín chomh béasach agus chomh cineálta is a bheadh ann. Bhí meas ag gach duine uirthi, ó na daoine fásta sa sráidbhaile go dtí na hainmhithe beaga a bhí ag baint a gcroí.
+
+Bhí teachín na Róisín lán le leabhair agus scéalta. B'aoibhinn léi bheith ag léamh, ach b’fhearr léi fós éisteacht leis na scéalta a d'inseodh a seanmháthair, Gráinne. Bhí Gráinne, bean ard, lúthchleasach, a bhí ag caitheamh gúnaí fada dorcha le coirtíní ceannais, agus scéalaí den scoth. Bhí na scéalta aici ó shin aimsir a máthar féin, agus sular cuireadh an chéad phláta béile ar an tábla ag muintir na háite.
+
+Lá amháin, agus an ghrian ag spalpadh go bog ar an ngleann, shuigh Róisín le Gráinne ar bhinn clochach os cionn an tí. Bhí leabhar mór, clúdaithe le leathar aici ina lámha, agus bhí súile na Róisín ag déanamh iontais ar a seanmháthair.
+
+“Gráinne, a stór,” a dúirt Róisín, “cén fáth go bhfuil tú i gcónaí ag insint scéalta na nGráinne?”
+
+Thóg Gráinne an leabhar agus d’oscail sí é. Ba mhór an ionadh do Róisín go raibh sé lán le pictiúirí de bhanríona, de ríthe, agus de laochra le hairm ar lasadh.
+
+“Féach, Róisín, a stóirín,” a dúirt Gráinne go socair, “is é an leabhar seo, an ‘Leabhar Mór Gráinne’, an áit ina gcónaíonn gach scéal faoi na Gráinne. Ní duine amháin a bhí ann riamh, ach na céadta Gráinne. Gach ceann acu ina bean láidir, cróga, le croí mór agus intleacht shuntasach. Tá gach uile scéal ó na hamanna i bhfad ó shin sa leabhar seo.”
+
+“Ach cén fáth go gcuirtear na scéalta síos?” d'fhiafraigh Róisín, ag súil anois go mór leis na freagraí.
+
+“Fágann na scéalta seo an ceart dúinn ar gach uile chineál. Inseoidh siad duit faoi chumhacht na bhfocal, agus tá siad ann chun tú a mhúineadh. Deir siad linn gan a bheith eagla roimh na dúshláin, agus cuimhnigh ar dhílis-ghrá, ar chroítheacht agus ar fhéin-chomhrá. Agus tá siad ann chun na Gráinne nua a spreagadh!”
+
+Thosaigh Gráinne ag insint an chéad scéal. “Bhí Gráinne, an chéad cheann, ina cónaí i ndún mór álainn ar bharr cnoic. Bhí sí ina banphrionsa álainn, ach ba bhean fheargach í a hathair, an rí. Ní raibh sé sásta riamh le rud ar bith, agus d'éirigh sé chomh deacair le cur in iúl di cé chomh hálainn is a bhí sí, ná cé chomh cróga agus a bhí sí. Lá amháin, chuir an rí orduithe chun an dúin a chosaint. Tháinig dragan mór isteach leis na milliúin d'arm a chur leis an gCathair."
+
+Bhí Róisín ag éisteacht go géar. “Ach cad a rinne Gráinne?”
+
+“Bhuel,” a dúirt Gráinne go séimh, “bhuail Gráinne síos i ngach cloch dá taca. Thug sí an míthrácht a fuair a h-athair dóibh, ag scairteadh amach os cionn a dromchla. Chabhraigh sí leis na saighdiúirí leis an dragan, agus faoi dheireadh, shroich sí an bheithrach, sheas os a chomhair, agus chuaigh i ngleic leis é!”
+
+Bhí súile na Róisín ar fad ag lonrú. “Cad a tharla ina dhiaidh sin?”
+
+“Rinne Gráinne trodaíocht an-mhór leis an dragan, ag úsáid a claíomh is gach neart dá corp. Ba í an bhean ba chrústa i ngach tír na hÉireann. Ar deireadh, chaill an dragan é féin agus thug sé an oiread sin clú is meas, agus ba mhian léi fáil réidh le rítheacht féin, ach chuaigh sé in easaontas faoi leabhar. Ach thóg Gráinne an claíomh agus chuir sé cloch le cloch lena dhún mór féin!"
+
+Ar aghaidh leis an scéal eile. “Agus ansin, bhí Gráinne eile ann a bhí ina banfhile mór. Bhí sí ag taisteal ó áit go háit, ag scríobh dánta faoi áilleacht an domhain agus faoi ghrá na ndaoine. D'fhoilsigh sí dánta ag na críoch, áit a dtáinig na leabhair beaga seo."
+
+“Ba léir go raibh Gráinne eile ann a fuair í féin i dtrioblóid.” “Go fírinneach. D'fhoilsigh sí a n-intleacht in Éirinn agus bhí sí go mór in úsáid. Bhí deabhóid aici chun na focail a chur i gcuimhne, agus thóg sí leathanaigh ag déanamh scéalta nua. Ar deireadh, tháinig fear óg, deas ar a láthair. Dúirt an fear go mbainfí saoi d'eachtra Gráinne. Ach ba scéal é seo gur réitigh a dearcadh an saol!”
+
+D'fhan Róisín ina tost ar feadh tamaill. “Gráinne, an bhféadfainn bheith mar cheann de na Gráinne sin?”
+
+Phós Gráinne úsc i measc a lámha. “Róisín, mo chroí, tá an cumas agat! Tá an béasacht agat, an cineáltas, agus an intinn ghéar. Baineann tú, cheana féin, le scéal Gráinne. Ní thógfaidh sé ach le bheith cróga, le bheith dílis, agus an grá do na focail, mar ba bhreá leat!”
+
+Bhí a súile ag lonrú de diongbháilteacht anois. “Inseoidh tú an scéal, ansin, nó scríobhfaidh mé mo scéal féin.”
+
+Thug Gráinne aoibh gháire mór do Róisín, ag cur lámh ar a gualainn. “Is leatsa, Róisín, na scéalta go léir. Tosóidh tú féin a mbealach, agus inseoidh tú na scéalta do na glúine a thiocfaidh ina dhiaidh.”
+
+Tháinig an tráthnóna ar deireadh, agus an ghrian ag dul faoi. Sheas Róisín agus Gráinne, ag faire ar an ngrian ag dul faoi os cionn an ghleanna glas. Chuala Róisín an oiread scéalta le Gráinne, agus bhí go leor ann nach bhfeicfeadh i gcaitheamh a beatha ar fad. Thosaigh sí ag smaoineamh ar an am i bhfad ó shin. B’fhéidir go mbeadh a scéal féin le hinsint aici lá éigin.
+Nuair a fuair siad sa bhaile arís, d'oscail Gráinne an Leabhar Mór Gráinne arís, agus mhothaigh Róisín go raibh cumhacht ag dul trína corp. Thosaigh sí ag scríobh, agus bhí focail aici ag teacht óna croí, agus d'inis sí go raibh scéal le déanamh, agus scéal ar a laghad atá déanta aici. Bhí scéalta an leabhair seo, ach go dtí sin ní raibh fianaise ná deimhniú ag baint le haon rud acu, ach a croítheacht féin. Agus sin mar a fuair an leabhar gráinne guth agus lámha, i dteaghlach saibhir i stair agus a chuid.
+Ar a cheann féin.
+Chríochnaigh sí ag scríobh go mall, ó shin, ó laoch go laoch, ó rí go bandia. Dúirt sí go raibh roinnt álainn. Tháinig lá.
+Is deireadh anois don lá.
+
+Lá i ngach lá ina dhiaidh sin, shuíodh Róisín leis an leabhar seo. Scríobhadh agus mheall sí a scéalta féin, ag tabhairt aghaidheanna nua leis na carachtair is fearr léi. Chuir sí scéalta nua faoin leabhar, iad á roinnt le leanaí agus le daoine eile a thuigeann go mbíonn sí anois ina scéal. B'eochair í i lámha Gráinne.
+
+Agus sin mar a mhair an scéal. Agus gach lá, agus d'fhan scéalta na nGráinne beo.
+Chríochnaigh.
+</body>
+```

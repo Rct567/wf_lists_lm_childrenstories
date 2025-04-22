@@ -1,0 +1,58 @@
+<prompt>
+Please write a simple and easy-to-follow Slovak children's story that is at least 1000 words long.
+It must be completely written in proper Slovak (SK).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Úžasný svet podmorského mesta a tajomstvá priezračného mora'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>sk</lang_id>
+
+```xml
+<title>Úžasný svet podmorského mesta a tajomstvá priezračného mora</title>
+<body>
+Bolo raz jedno krásne a pokojné mesto, ukryté hlboko pod hladinou azúrového mora. Volalo sa Perlička a jeho domčeky boli postavené z trblietavých perál a korálov. Po uliciach sa prechádzali usmievavé rybičky, morské koníky a dokonca aj pár múdrych, hovoriacich delfínov. V Perličke žila malá, zvedavá morská panna menom Zlatka. Zlatka mala dlhé, zlatisté vlasy, ktoré sa vlnili v rytme morských prúdov, a chvost, ktorý sa leskol všetkými farbami dúhy.
+
+Zlatka milovala dobrodružstvá. Každý deň objavovala nové a vzrušujúce veci. Prehľadávala ružové korálové záhrady, hrala sa s veselými korytnačkami a pozorovala hviezdice, ktoré sa po piesočnatom dne tancovali ako baletky. Ale zo všetkého najradšej počúvala rozprávania starého morského slimáka, profesora Sličana. Profesor Sličan mal dlhý, stočený slimáčí domček, na ktorom boli nakreslené mapy všetkých oceánov sveta. Bol veľmi múdry a poznal všetky tajomstvá mora.
+
+Jedného dňa, keď Zlatka navštívila profesora Sličana, jej povedal: „Zlatka, moja milá, počula som šepot vetra… alebo skôr šepot vĺn. Hovorí sa, že v hlbokom, tmavom mori, za hranicami nášho známeho sveta, existuje tajomstvo. Niečo úžasné a dôležité, čo sa týka celého mora.“
+
+Zlatka sa zachvela vzrušením. „Čo to je, profesor? Čo je to za tajomstvo?“
+
+Profesor Sličan sa tajomne usmial. „To sa dozvieš iba ty, Zlatka. Ale cesta tam bude dlhá a nebezpečná. Musíš prejsť cez Zúrivý Prúd, kde je voda divoká a rozbúrená, potom cez Temný Les Rias, kde žijú strašidelné úhory, a nakoniec cez Záhadnú Zátoku, kde na teba budú číhať všakovaké morské príšery.“
+
+Zlatka sa nezľakla. „Nebojím sa! Pôjdem! Pomôžeš mi sa pripraviť?“
+
+Profesor Sličan sa zaradoval. „Iste, moja zlatá. Prvý, čo potrebuješ, je tvoja odvaha a zvedavosť. Druhá vec, potrebuješ Spoločného Hviezdneho Koňa, ten ťa prenesie ponad nebezpečenstvá. A posledná, musíš nájsť Perlové Srdce, ktoré chráni všetkých morských tvorov.“
+
+Zlatka súhlasila so všetkým. Profesor jej dal malú, svietiacu mapu s označenou cestou. Potom sa rozlúčila s priateľmi a vydala sa na svoju cestu. V ruke držala lesklú mapu a v srdci zvedavosť a odhodlanie.
+
+Najprv musela nájsť Spoločného Hviezdneho Koňa. Preplávala dlhú cestu, kým ho našla. Bol to krásny morský koník, ktorý sa leskol ako hviezda. „Vitaj, Zlatka! Čakala som ťa,“ povedal Hviezdny kôň milým hlasom. „Nastúp si a poďme!“
+
+Hviezdny kôň bol veľmi rýchly. S ľahkosťou preplával Zúrivým Prúdom. Voda tu bola naozaj rozbúrená, vlny sa búchali o seba a prúd bol taký silný, že by ťahal všetko dolu. Ale Hviezdny kôň s prehľadom plával proti prúdu a Zlatka sa ho pevne držala. Keď prešli Zúrivým Prúdom, Zlatka si vydýchla s úľavou.
+
+Potom prišli k Temnému Lesu Rias. Bol to hrozný pohľad. Vysoké, tmavé riasy sa vlnili a v nich sa skrývali strašidelné úhory s ostrými zubami. „Drž sa ma tesne,“ povedal Hviezdny kôň. Plávali veľmi opatrne a obozretne, aby sa úhory na neho nedočiahli. Zlatka sa bála, ale snažila sa byť statočná. Napokon sa im podarilo preplávať aj týmto strašidelným lesom.
+
+Napokon prišli k Záhadnej Zátoke. Bola plná najrôznejších morských príšer. Boli tam obrovské chobotnice s dlhými chapadlami, strašidelné ryby s ostrými zubami a obrovský, zvodný Sirén. Siréna ich lákala svojim krásnym spevom, ale Zlatka vedela, že jej nesmie veriť. „Neboj sa,“ povedal Hviezdny kôň. „Zameraj sa na cieľ a nepozeraj sa na nič iné.“
+
+Zlatka si zakryla uši a zavrela oči, sústredila sa len na cieľ – nájdenie Perlového Srdca. Hviezdny kôň sa s plnou silou vydal vpred. Plávali rýchlo a obratne, vyhýbajúc sa chapadlám chobotníc a zubom ryby. Siréna sa ich pokúšala oklamať, ale oni boli odhodlaní. Nakoniec sa dostali cez Záhadnú Zátoku.
+
+Za Zátokou, v jaskyni, uvidela Zlatka na zlatom podstavci trblietavé Perlové Srdce. Zľahka sa vznášalo a vyžarovalo krásne, teplé svetlo. Keď sa Zlatka priblížila, Perlové Srdce sa začalo jasne rozžiariť a prehovorilo: „Zlatka, hľadala si ma. Viem, prečo si sem prišla. Udržiavam pokoj a harmóniu v mori. Ale cítim, že čoskoro príde nebezpečenstvo. Zlo, ktoré chce zničiť našu radosť a mier. Odovzdám ti svoju moc. Použi ju na ochranu svojich priateľov a domova.“
+
+Zlatka siahla po Perlovom Srdci a cítila obrovskú silu prúdiť jej telom. Srdce jej dalo odvahu, silu a vhľad. Zrazu začula vzdychy a plač. Otočila sa a videla, ako temná hmota prenikla do mora a chytala Perličku. Morské príšery sa ukázali a začali útočiť na Zlatkine mesto.
+
+Zlatka, plná odvahy, zakričala: „Nebojte sa! Som tu! Chráňte seba a Perličku!“ V tej chvíli si uvedomila, že Perlové Srdce sa zmenilo na nádherný, svetelný kryštál, ktorý sa jej rozžiaril v ruke. Nasadla na Hviezdneho koňa a rýchlo sa vrátila do Perličky.
+
+Srdce kryštálu vyžarovalo silné, magické svetlo, ktoré zahnalo tmavé oblaky. Kryštál sa otáčal a svetlo vyžarovalo na všetky strany. Zlatka ukázala kryštál na príšery. Tie sa hneď rozutekali preč. Potom, Zlatka ukázala na tmavé mračno, ktoré sa usadilo nad mestom, a to sa okamžite rozpustilo.
+Mesto sa začalo prebúdzať. Rybičky opäť začali plávať, delfíny sa hrali a profesor Sličan radostne sledoval všetko z diaľky. Mesto bolo oslobodené. Zlatka a Hviezdny kôň prelietli okolo každého domu a každý obyvateľ jej hovoril: „Ďakujeme, Zlatka! Zachránila si nás!“
+
+Počas bitky sa kryštál v Zlatkinej ruke začal stávať silnejší. Zlatka zistila, že rozumie jazyku všetkých morských tvorov, že dokáže volať vlny a používať svoju vôľu na odkláňanie nebezpečenstiev. Zlatka používala novonadobudnutú silu na vytvorenie ochrannej bubliny okolo celého mesta, vďaka čomu bolo Perlička a jeho obyvatelia navždy v bezpečí.
+
+Nakoniec sa všetky príšery ukryli. Perličku aj Zlatku slávili a obyvatelia priznali jej titul „Hrdinka priezračného mora“. Zlatka navždy zostala hrdinkou podmorského sveta. Odvtedy strážila svoje mesto, chránila ho pred zlom a pomáhala všetkým, ktorí potrebovali pomoc. Zlatka navždy zostane s priateľmi, no naďalej sa rada plaví do tajuplného hlbokého mora a chráni svet.
+
+A Zlatka, od tej doby, nikdy neprestala veriť v silu dobrodružstva, odvahy a lásky. Každý deň, keď sa zobudila, vedela, že jej srdce je naplnené teplom a radosťou, pretože vedela, že urobila svet lepším miestom, aj v tom najhlbšom mori. A hviezdny kôň ju vždy na konci dňa čakával s úsmevom, pripravený na nové dobrodružstvá. A tým sa aj skončil príbeh o odvážnej morskej panne, o úžasnom svete podmorského mesta a o tajomstvách priezračného mora.
+</body>
+```

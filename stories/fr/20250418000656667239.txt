@@ -1,0 +1,55 @@
+<prompt>
+Please write a fun and entertaining French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'L'Heureux Retour du Chien Chasseur de Boules'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```xml
+<title>L'Heureux Retour du Chien Chasseur de Boules</title>
+<body>
+Il était une fois, dans un petit village charmant au cœur de la France, un chien extraordinaire. Son nom était Gustave, et Gustave n'était pas un chien ordinaire. Il était un chien chasseur de boules, un champion même ! Gustave avait une fourrure marron et blanche, des yeux brillants comme des billes, et une passion dévorante : chasser les boules. Que ce soit des balles de tennis, des ballons de football, ou même de simples boules de papier froissé, Gustave les traquait avec une détermination inégalée.
+
+Gustave vivait avec une petite fille nommée Sophie. Sophie avait sept ans, des tresses rousses et un sourire contagieux. Elle et Gustave étaient les meilleurs amis du monde. Ils passaient leurs journées à jouer dans le jardin, à explorer la forêt voisine, et à inventer des jeux toujours plus fous avec les boules de Gustave.
+
+Un matin, alors qu'ils jouaient dans le parc, une chose terrible arriva. Sophie avait lancé une balle de tennis d'un geste trop vif, et la balle, emportée par le vent, roula vers la grande route. Avant que Sophie puisse réagir, Gustave, dans son élan de chasseur, s'était précipité après la balle... et avait disparu !
+
+Sophie, le cœur brisé, cherchait Gustave partout. Elle interrogea les voisins, afficha des avis avec sa photo et promit une récompense – sa collection de coquillages – à quiconque retrouverait son cher Gustave. Les jours passèrent, puis les semaines. Sophie perdait espoir. Le jardin était moins joyeux, les jeux moins amusants. Sans Gustave, les boules étaient devenues tristes et inertes.
+
+Dans le village, tout le monde connaissait l'histoire de Gustave, le chien chasseur de boules disparu. Les boulangers mettaient des croquettes en plus devant leur porte au cas où il repasserait. Les enfants du village dessinaient Gustave sur les trottoirs, en espérant que son image lui ferait signe. La déception était palpable.
+
+Pendant ce temps, de l'autre côté du pays, dans une ville animée, Gustave vivait une aventure totalement inattendue. Après avoir traversé la route, il s'était retrouvé coincé dans un camion de déménagement. Le camion, sans qu'il ne puisse rien y faire, avait pris la direction de la capitale, Paris !
+
+Arrivé à Paris, Gustave fut stupéfait par le bruit, les voitures et les immeubles géants. Il était complètement perdu et effrayé. Heureusement, un jeune garçon, prénommé Louis, aperçut Gustave, seul et l'air affolé. Louis, un garçon au cœur tendre et amoureux des animaux, le prit chez lui.
+
+Louis et sa famille furent immédiatement charmés par Gustave. Ils lui donnèrent à manger, lui offrirent un endroit confortable pour dormir, et même lui achetèrent une nouvelle balle de tennis. Mais Gustave ne pouvait pas oublier Sophie. Il chérissait la nouvelle balle, certes, mais il manquait terriblement les jeux dans le jardin, les explorations dans la forêt et les caresses de sa petite maîtresse. Il était triste, et Louis le sentait.
+
+Louis, remarquant l'affection de Gustave pour la balle, devint curieux. Un jour, alors qu'il jouait avec Gustave dans le parc du Luxembourg, il demanda à son père : "Papa, est-ce qu'on pourrait faire chercher le chien sur internet ? On pourrait essayer de trouver sa famille ! Il semble qu'il a déjà une famille !"
+
+Le père de Louis, un homme ingénieux, accepta. Il prit une photo de Gustave, la posta sur un site web pour animaux perdus et décrivit la particularité du chien : "Chien chasseur de boules, très joueur, répond au nom de Gustave."
+
+Quelques jours plus tard, alors que Sophie et ses parents, toujours résolus, continuaient à coller des avis dans les villages voisins, un ami de la famille, Pierre, reçut un appel. Il avait trouvé une annonce sur internet concernant un chien qui correspondait à la description de Gustave !
+
+Pierre téléphona à Sophie, la gorge serrée par l'émotion. Il avait repéré l'annonce, et avait pris contact avec Louis. Il fallait à tout prix qu'elle confirme, il était presque sûr, mais prudent. Sophie, fébrile, donna tous les détails sur les taches de Gustave, sur sa façon particulière d'attraper les boules. Il n'y avait plus aucun doute, c'était bien lui !
+
+Le voyage vers Paris fut une éternité. Sophie, accompagnée de ses parents, était remplie d'excitation et d'appréhension. Qu'allait dire Gustave ? Se souviendrait-il d'elle ? Allait-il être heureux de la revoir ?
+
+À leur arrivée à Paris, ils se dirigèrent vers l'appartement de Louis. La porte s'ouvrit, et devant eux se tenait Louis, tenant Gustave par la laisse. Le cœur de Sophie fit un bond. Gustave, reconnaissant l'odeur familière et la voix joyeuse de sa maîtresse, aboya de joie et tenta de se précipiter.
+
+« Gustave ! » cria Sophie, et se jeta à genoux pour le câliner. Les larmes de bonheur coulèrent sur ses joues. Gustave se lécha le visage, remuant la queue frénétiquement. Il avait retrouvé sa famille !
+
+Après les présentations et les remerciements sincères à Louis et sa famille, le voyage retour vers le petit village français commença. Dans la voiture, Gustave était collé à Sophie, la tête sur ses genoux, ronronnant de contentement.
+
+De retour au village, ce fut une explosion de joie. Les voisins étaient ravis, les enfants hurlaient de bonheur, et les boulangers lui offrirent un gros os délicieux. Le jardin redevint aussitôt le terrain de jeu préféré de Gustave.
+
+Sophie et Gustave reprirent leurs jeux, leurs explorations et leurs parties de chasse aux boules. La balle de tennis de Paris était désormais son précieux souvenir de l'aventure. Et Gustave, le chien chasseur de boules, savait une chose avec certitude : rien ne remplace l'amour et l'amitié, et le bonheur de retrouver ceux qu'on aime.
+
+À partir de ce jour, ils firent encore plus attention sur la route. Mais leur complicité était plus forte que jamais. Gustave, après son aventure parisienne, était encore plus fidèle, plus joyeux et encore plus motivé dans sa chasse aux boules. Et Sophie, elle, avait appris la valeur de l'espoir et la puissance des liens qui unissent les êtres vivants. Et ils vécurent heureux, à jamais, à chasser les boules dans le jardin de leur maison ensoleillée.
+</body>
+```

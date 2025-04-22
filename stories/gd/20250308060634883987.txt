@@ -1,0 +1,45 @@
+<prompt>
+Please write a silly Scottish Gaelic children's story that is at least 1000 words long.
+It must be completely written in proper Scottish Gaelic (GD).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Turasachd ioma-dathte nan dealain-dè tro ghàrradh an t-samhraidh draoidheil.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>gd</lang_id>
+
+<title>Turasachd ioma-dathte nan dealain-dè tro ghàrradh an t-samhraidh draoidheil</title>
+<body> 
+Bha e 'na latha samhraidh dreag, agus bha an t-sìde a' dol a dh'fhàs nas bhuidhe. Bha na h-eòin a' dol a dh'fhàgail nan craobhan, agus bha na blàthachan a' dol a dh'fhàs nas fhasa. Bha a' ghrein a' dol a dh'fhàs nas làidir, agus bha an t-sìde a' dol a dh'fhàs nas teth. 
+
+Bha nighean beag, ainmichte Màiri, a' dol a dh'fhàgail a' bhaile, airson turas a dhèanamh tro ghàrradh an t-samhraidh draoidheil. Bha i bhuidhe, agus bha a' chridhe a' dol a dh'fhàs nas motha. Bha i a' dol a dh'fhàgail a' bhaile, airson turas a dhèanamh tro ghàrradh an t-samhraidh draoidheil, far an robh na dealain-dè a' dol a dh'fhàs nas motha. 
+
+Nuair a bha Màiri a' dol tro ghàrradh an t-samhraidh draoidheil, chunnaic i na dealain-dè a' dol a dh'fhàs nas motha. Bha iad a' dol a dh'fhàgail nan craobhan, agus bha iad a' dol a dh'fhàs nas fhasa. Bha iad a' dol a dh'fhàs nas làidir, agus bha iad a' dol a dh'fhàs nas teth. 
+
+Chunnaic Màiri na dealain-dè a' dol a dh'fhàs nas motha, agus bha i bhuidhe. Bha i a' dol a dh'fhàgail a' bhaile, airson turas a dhèanamh tro ghàrradh an t-samhraidh draoidheil, far an robh na dealain-dè a' dol a dh'fhàs nas motha. Bha i a' dol a dh'fhàgail a' bhaile, airson turas a dhèanamh tro ghàrradh an t-samhraidh draoidheil, far an robh na dealain-dè a' dol a dh'fhàs nas motha. 
+
+Bha Màiri a' dol tro ghàrradh an t-samhraidh draoidheil, nuair a chunnaic i fear, ainmichte Aonghas, a' dol a dh'fhàgail nan craobhan. Bha e bhuidhe, agus bha a' chridhe a' dol a dh'fhàs nas motha. Bha e a' dol a dh'fhàgail nan craobhan, airson turas a dhèanamh tro ghàrradh an t-samhraidh draoidheil, far an robh na dealain-dè a' dol a dh'fhàs nas motha. 
+
+" Halò, a Mhàiri," ars Aonghas, "ciamar a tha thu an-diugh?" 
+"Tha mi gu math, tapaig," ars Màiri, "ach tha mi a' dol a dh'fhàgail a' bhaile, airson turas a dhèanamh tro ghàrradh an t-samhraidh draoidheil." 
+"Tha mi cuideachd," ars Aonghas, "tha mi a' dol a dh'fhàgail nan craobhan, airson turas a dhèanamh tro ghàrradh an t-samhraidh draoidheil." 
+
+Bha Màiri agus Aonghas a' dol tro ghàrradh an t-samhraidh draoidheil, nuair a chunnaic iad na dealain-dè a' dol a dh'fhàs nas motha. Bha iad a' dol a dh'fhàgail nan craobhan, agus bha iad a' dol a dh'fhàs nas fhasa. Bha iad a' dol a dh'fhàs nas làidir, agus bha iad a' dol a dh'fhàs nas teth. 
+
+Chunnaic Màiri agus Aonghas na dealain-dè a' dol a dh'fhàs nas motha, agus bha iad bhuidhe. Bha iad a' dol a dh'fhàgail a' bhaile, airson turas a dhèanamh tro ghàrradh an t-samhraidh draoidheil, far an robh na dealain-dè a' dol a dh'fhàs nas motha. Bha iad a' dol a dh'fhàgail a' bhaile, airson turas a dhèanamh tro ghàrradh an t-samhraidh draoidheil, far an robh na dealain-dè a' dol a dh'fhàs nas motha. 
+
+Bha Màiri agus Aonghas a' dol tro ghàrradh an t-samhraidh draoidheil, nuair a chunnaic iad bean, ainmichte Mòrag, a' dol a dh'fhàgail nan craobhan. Bha i bhuidhe, agus bha a' chridhe a' dol a dh'fhàs nas motha. Bha i a' dol a dh'fhàgail nan craobhan, airson turas a dhèanamh tro ghàrradh an t-samhraidh draoidheil, far an robh na dealain-dè a' dol a dh'fhàs nas motha. 
+
+" Halò, a Mhàiri, a Aonghas," ars Mòrag, "ciamar a tha sibh an-diugh?" 
+"Tha sinn gu math, tapaig," ars Màiri, "ach tha sinn a' dol a dh'fhàgail a' bhaile, airson turas a dhèanamh tro ghàrradh an t-samhraidh draoidheil." 
+"Tha mi cuideachd," ars Aonghas, "tha mi a' dol a dh'fhàgail nan craobhan, airson turas a dhèanamh tro ghàrradh an t-samhraidh draoidheil." 
+"Tha mi a' dol a dh'fhàgail nan craobhan," ars Mòrag, "airson turas a dhèanamh tro ghàrradh an t-samhraidh draoidheil, far an robh na dealain-dè a' dol a dh'fhàs nas motha." 
+
+Bha Màiri, Aonghas, agus Mòrag a' dol tro ghàrradh an t-samhraidh draoidheil, nuair a chunnaic iad na dealain-dè a' dol a dh'fhàs nas motha. Bha iad a' dol a dh'fhàgail nan craobhan, agus bha iad a' dol a dh'fhàs nas fhasa. Bha iad a' dol a dh'fhàs nas làidir, agus bha iad a' dol a dh'fhàs nas teth. 
+
+Chunnaic Màiri, Aonghas, agus Mòrag na dealain-dè a' dol a dh'fhàs nas motha, agus bha iad bhuidhe. Bha iad a' dol a dh'fhàgail a' bhaile, airson turas a dhèanamh tro ghàrradh an t-samhraidh draoidheil, far an robh na dealain-dè a' dol a dh'fhàs nas motha. Bha iad a' dol a dh'fhàgail a' bhaile, airson turas a dhèanamh tro ghàrradh an t-samhraidh draoidheil, far an robh na dealain-dè a' dol a dh'fhàs nas motha. 
+
+Bha Màiri, Aonghas, agus Mòrag a' dol tro ghàrradh an t-samhraidh draoidheil, nuair a chunnaic iad am fear, ainmichte Iain, a' dol a dh'fhàgail nan craobhan. Bha e bhuidhe, agus bha a' chridhe a' dol a dh'fh

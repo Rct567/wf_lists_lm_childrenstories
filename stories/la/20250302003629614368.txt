@@ -1,0 +1,45 @@
+<prompt>
+Please write a uncomplicated Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Arbor Antiqua et Clamores Nocturni'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>la</lang_id>
+
+<title>Arbor Antiqua et Clamores Nocturni</title><body>
+Per silvam umbrosa, prope flumen serenissimum, stabat arbor antiqua.  Aetas eius erat ingens, rami eius usque ad caelum se extendebant, et folia eius, viridis et lucida, umbram magnam pro corona sua patebant.  Hanc arborem, qui nomen habebat Arbor Magna, amabant omnes animalia silvae.
+
+Inter animalia, erat pullus parvus, nomine Pipilo.  Pipilo erat passerculus, pennis albis et flavis, et voce dulci.  Amabat Pipilo cantare matutinis horis, et voces eius per silvam resonabant, gaudium omnibus animalibus afferentes.  Sed noctu, clamores aliqui in tenebris audiebantur, sonitus mysteriosos, qui cor Pipili timore complebant.
+
+"Quid sunt hi clamores, Mater?" quaerebat Pipilo, oculis suis magnis ad matrem suam, avem rubrum, speculabatur.  "Noctibus, frequentes voces in tenebris audimus, qui corda nostra terrerent."
+
+"Fili mi," respondebat mater, "haec est natura.  Multae res, quae latent oculos nostros, noctu silvas nostras occupant.  Sunt voces animae arborum, vel murmura ventorum per foliis;  et voces, si cavemus, nullum timorem inferre possunt, sed potius secretum et mysterium revelant."
+
+Pipilo autem, timoris plenum, adhuc dubitabat.  Clamores tenebrarum crebrius et terribiles sonabant nocte post noctem.  Unum noctis inter pluviae crepitus, vocibus maximis ad clamores respondit sonitus magnitudinis terrificas.  Pipilo, terribilis timore, in ramos arboris magnis se recepit.  Ad terrorem maximum, corruit in terra, quasi dextra manus potentis eius corruit.
+
+"Quid fit? Quid factum est?" Pipilo clamabat, in timorem maximus exanimatissimus.
+
+Per silvam tenebram, spectrorum et tenebrarum horror in terra surrexit. Et erat in medio ejus figurae ingens, quasi ad umbra se extendebant,  cum ore vastum et oculis lucentis terribili,  de tenebris in luce surrexisse, silentium incredibile generantes. Hoc erat Sylvans, custodes silvae, figura tenebrosa et mystrios, et magna potentia.
+
+
+At Sylvans non erat malus.  Et non timendum erat. Ille era solum custos naturae et mysterium silvae. "Tace," murmurat vox eius, sonitus profundis et potentia. "Ne timeas."
+
+"Quid in terra vis est," Pipilo obstitit, ex voce horrore confusus.
+
+"Ego sum Sylvans," incepit voce gravis, "Custodio huius silvae. Clamores quos audis non sunt malae naturae; sunt vox arboris antiqua.  Natura est mysterium, noctuque est tempus arcanorum et revelationis."
+
+"Sed clamores ita terrifici sunt," clamavit Pipilo, vocem timoris adhuc retentam.
+
+"Arbor antiqua, ante saecula natus, sentit mutares atmosphaeras," dixit Sylvans. "Et clamores sunt lamenta et sonitus mutationum,  tumultuum qui per silvam trahuntur, quae crescit natura silentium vocum in mysterium noctis."
+
+Pipilo, audiens narrationem, concussio tremor abstulit.  Nunc, clamores  ab inmenso arboris antiqua non ita terrifici viderunt.  Erant gemitus vita, gemitus evolutionis, gemitus naturae infinitae.
+
+Cumque sol orturus esset, Silvanus discessit, cum in aura restitit ultima: "Adhortaminis tuos de Naturae, Pipilo, et mysteria eius in amore et respectum persequentur;  per te omnia natura aderit."
+
+A die illo, Pipilo non amplius clamores noctis timuit.  Comprehendebat voces silentii arborum, et intellexit intima naturae silvam.  Amabat, in vita, cantare Pipilo et loqui ad arborem antiquam, inter sonitum naturae acutiores exsonantia;  et animae Silvani custodita sunt cor in eternum.
+</body>

@@ -1,0 +1,86 @@
+<prompt>
+Please write a simple and easy-to-follow Welsh children's story that is at least 1000 words long.
+It must be completely written in proper Welsh (CY).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Stori'r Môr a'r Morlo: Anturiaeth, Cyfeillgarwch, a'r Dyfroedd Glas.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>cy</lang_id>
+
+```xml
+<title>Stori'r Môr a'r Morlo: Anturiaeth, Cyfeillgarwch, a'r Dyfroedd Glas.</title><body>
+Roedd unwaith fachgen bach o'r enw Steffan. Roedd Steffan yn byw mewn tŷ bach, clyd ar lan y môr yng Nghymru. Roedd y tŷ yn edrych allan dros ddyfroedd glas y môr, lle’r oedd y tonnau'n chwarae a’r gwynt yn canu. Bob dydd, byddai Steffan yn rhedeg i lawr i'r traeth, ei wyneb yn llawn disgwyliad a'i galon yn llawn llawenydd.
+
+Un diwrnod braf, tra roedd Steffan yn casglu cregyn gleision, sylwodd ar rhywbeth rhyfedd. Roedd rhywbeth yn symud yn y dŵr, yn llechu ychydig i ffwrdd o'r lan. Wrth iddo edrych yn fwy manwl, gwelodd bod yn forlo, un bach iawn, gyda llygaid tywyll, crwn ac un trwyn bach, gwlyb. Roedd y morlo yn edrych yn ofnus ac yn unig.
+
+"Helo!" galwodd Steffan, gan osod ei fasged o gregyn i lawr yn ofalus. "Ydych chi'n iawn?"
+
+Edrychodd y morlo i fyny, ei lygaid yn ehangu. Roedd yn edrych fel pe bai'n crio. Gwichianodd yn wan, fel petai'n ceisio siarad.
+
+Aeth Steffan yn nes. "Peidiwch â phoeni," meddai'n feddal. "Dw i'n ceisio eich helpu chi."
+
+Rhoddodd ei law allan yn araf, gan ddangos nad oedd ganddo unrhyw fwriad drwg. Aeth y morlo yn nes ato, ei drwyn yn cyffwrdd â bys Steffan. Teimlodd Steffan rhywfaint o ryddhad ar ei wyneb bach, fel pe bai’n gweld cymar yn y byd hwn.
+
+O'r eiliad honno ymlaen, daeth Steffan a'r morlo yn ffrindiau gorau. Rhoddodd Steffan yr enw "Môr" i'r morlo, oherwydd roedd yn byw yn y môr ac yn cael ei fodolaeth o'r môr. Byddai Steffan yn treulio pob diwrnod yn chwarae gyda Môr. Byddent yn chwarae helfa gudd, yn nofio yn y dŵr oer (ond yn hytrach yn fwynach), ac yn rhannu eu gwerthfawrogiad am y môr.
+
+Byddai Steffan yn siarad wrth Môr am ei ddiwrnod. Byddai’n dweud wrtho am yr ysgol, am ei ffrindiau, ac am ei freuddwydion. Byddai Môr yn gwrando’n ddyfal, ei lygaid yn canu'n gyffrous pan oedd Steffan yn siarad.
+
+Un diwrnod, dywedodd Steffan wrth Môr am antur newydd. Roedd ganddo gynllun i archwilio ogof ynys fach, anghysbell.
+
+"Hoffech chi ddod gyda mi?" gofynnodd Steffan, ei lygaid yn llawn disgwyliad.
+
+Gwguodd Môr. Edrychai fel pe bai’n amheus, ac efallai’n ofni. Ond ar ôl ychydig o feddwl, cyfarthodd mewn ffordd fel pe bai’n dweud ie.
+
+Fel y dymunwyd gan Môr, roedd yr ynysoedd yn llawn bywyd, gyda phlant a chreaduriaid gwych. Ond, cyn mynd ar daith, bu'n rhaid iddynt baratoi. Cymerodd Steffan barcs bach ar gyfer y fordaith a llong.
+
+Ar y bore nesaf, paratôdd Steffan a Môr ar gyfer eu hantur. Gwisgodd Steffan siaced gwrth-ddŵr ac esgidiau glaw, ac roedd gan Môr ddyfnder yn y dŵr. Gyda'i gilydd, dechreuasant ar y daith.
+
+Lleolwyd yr ogof ar yr ynys bellaf, yr un fwyaf anodd i'w cyrraedd. Roedd y dŵr yn anghyfforddus, ond roedd y cwch yn cadw hanner llawn o ddŵr, felly roedd yn rhaid iddynt fod yn ofalus. Ar ôl cyfnod hir o deithio, fe gyrhaeddasant yn olaf.
+
+Roedd y golygfeydd ar y môr yn wych, a gofynnodd Steffan, "Môr, a fyddi di ddim yn dioddef?"
+
+Erbyn i Môr sefyll, roedd golwg ofnus ar ei wyneb. Ond dilynodd Steffan ymhellach i mewn i'r ogof.
+
+Roedd tu mewn i'r ogof yn dywyll ac yn frawychus. Roedd yn llaith, ac yn arogli fel halen a phridd. Roedd llawer o gerrig ar y llawr, a’r goleuadau'n rhy fawr. Cerddodd Steffan yn ofalus, Môr wrth ei ochr. Roedd y naill yn ofalus ac roedd y llall yn teimlo'n sicr.
+
+Wrth iddynt gerdded yn ddyfnach, clywodd Steffan swn rhyfedd. Swn gwgu, cryf iawn. "Sut mae hwn?" gofynnodd.
+
+Daeth yn amlwg bod y swn yn dod o ddyfnder yr ogof. Aeth y ddau i edrych. Yn sydyn, gwelodd Steffan beth oedd yn achosi’r swn. Roedd creigres fawr, braf, fawr iawn!
+
+"O, brenin y morlo!" sgrechiodd.
+
+Roedd y creigres yn llawn siom. Cwyd y creigres o fwynder, ei lygaid yn llawn dagrau.
+
+"Fy nghennad ydw i," meddai. "Rydw i'n chwilio am un o fy mhlant. Fe gollodd e ar ei antur. Mae wedi bod ar goll ers wythnos. Dw i mor bryderus!"
+
+Edrychodd Steffan a Môr ar ei gilydd. Roedd yn rhaid iddynt helpu.
+
+"Peidiwch â phoeni," meddai Steffan. "Dw i'n meddwl y gallwn ni eich helpu chi i ddod o hyd i'ch plentyn."
+
+Aeth Steffan a Môr ar y chwiliad. Edrychon nhw yn mhob twll ac agoriad yn yr ogof, gan alw enw’r morlo coll. "Bach Môr!" galwodd Steffan.
+
+Erbyn iddynt fod yn barod i roi'r gorau iddi, clywodd Steffan swn wan. Swn anadlu, gan ddweud, "Helo?"
+
+Dilynasant y swn ac fe ddaethon nhw i ganfod morlo bach, ifanc yn ogystal ag yn unig, yn guddio y tu ôl i garreg. Roedd ei lygaid yn tywyll a'i drwyn yn drwsiog.
+
+"Bach Môr!" galwodd y creigres, ei lais yn llawn rhyddhad. "Ydw i wedi gwerthfawrogi eich bywyd!"
+
+Rhedodd y creigres drosodd at ei blentyn, ei gyfarch a'i gofleidio'n dynn. Edrychodd i fyny at Steffan a Môr, ei lygaid yn llawn diolch.
+
+"Diolch i chi," meddai’r creigres, ei lais yn crynu. "Rydych chi'n dda iawn, yn hynod iawn."
+
+Ar ôl aduno â'u teuluoedd, dychwelodd Steffan a Môr i'r lan. Roedd yn hyfryd. Cyn eu gadael, dywedodd Steffan:
+
+"Unwaith i chi gyd-ddewis yr holl bŵer, ar ddiwedd y dydd byddi di'n teimlo'n dda."
+
+"Ydy," atebodd Môr, ei lygaid yn llewyrchu gyda llawenydd.
+
+Ar ôl yr antur, daeth Steffan a Môr hyd yn oed yn fwy o ffrindiau. Gwylltasant eu sgyrsiau ar hyd y lan, gan ddathru eu bond sy'n tyfu. Deallasant fod y cyfeillgarwch, dewrder, a helpu eraill yn golygu llawer mwy nag unrhyw gyfoeth neu antur arall.
+
+Felly, bob tro y byddwch chi'n gweld y môr, cofiwch stori Steffan a Môr. Cofiwch y cyfeillgarwch rhyngddynt, yr antur a'r boddhad o helpu eraill. Ac o bryd i'w gilydd, efallai, gallech chi glywed gwichian wan Môr, yn galw o'r dŵr glas.
+</body>
+```

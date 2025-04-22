@@ -1,0 +1,36 @@
+<prompt>
+Please write a relatable Slovak children's story that is at least 1000 words long.
+It must be completely written in proper Slovak (SK).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Zázračný prsten, ktorý menil farby podľa nálady'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sk</lang_id>
+
+<title>Zázračný prsten, ktorý menil farby podľa nálady</title>
+<body>
+Slnko žiarilo na oblohe ako šťastný chlapec, čo sa tešil z leta.  Vo vrecku starého,  trochu popraskaného koženého opasku, ktorý patriel babke Anke, sa skrýval  zázračný prsteň.  Nebola to obyčajná ozdoba, ale prsteň, ktorý menil svoju farbu podľa nálady toho, kto ho nosil.
+
+Malý Juraj, chlapec s kučeravými vlasmi farby tmavého medu a očami ako rozprávové jazierko, sa do prsteňa zamiloval hneď na prvý pohľad.  Nebol to zvyčajný deň.  Juraj sa prechádzal po dedine.  Voňal ovocie zo záhrad a počul spev sýkorky v korunách stromov.  Slniečko sa maškrtne usadilo na jeho líci. Bolo to krásne a rozprávkovo plné dní. Na svojej ceste narazil na babku Anku sediacou pri jej obľúbenej hruške a čítajúcou starú, starú knihu.  
+
+„Babka Anka,“ spýtal sa Juraj, „čím je zvláštny ten prsteň?“
+Babka prikývla, pohladila svojho vnuka po hlave, s uspokojením pohľadom na jeho nadšený výraz.
+"Tento prsteň, drahý Juraj," povedala, a pohľad jej zjemnel,"mení farbu. Záleží od toho, ako sa cíti ten, čo ho nosí.  Keď ste veselý, prsteň sa rozsvieti ako letný deň. Keď ste smutný, prsteň sa zmení na temnú, ale tichú modrú.  Záleží na vás, akú farbu a pocit s ním prežijete."
+
+Juraj očarane vzal prsteň. Prvý deň, strávený hrami so svojimi priateľmi, urobil z prsteňa šťastnú žltú farbu, plnú slnečnej energie. Pri hraní futbalu a pobehu po lúkach sa prsteň leskol závideniahodnou farbou. Juraj sa cítil nadšení ako rozprávkový hrdina.
+Nasledujúci deň, keď sa vrátil z hry, bola celá dedinčan zvedavá ako bol Juraj náladový a aká farba mu zaplávala prsteň.  Pri počítaní ovčích oviec, ktorých na pasenie dohliadol so svojím otcom, si všimol svojho znepokojeného prsteňa, ktorý bol sťahujúcej, smútočnej, fialovej farby. Videl smútok v očiach starých otcovcovch kraviac, a ich ticho ho znepokojilo.
+
+Vždy, keď bol Juraj rozladený alebo znepokojený, prsteň nadobudol sťahujúcu, tichú farbu, ako nebo tesne pred búrkou. A ak bolo Jurajovo srdce plné lásky a úcty, premenil sa prsteň na žiarivú rubínovú farbu, vďaka ktorej vyžarovalo z Juraja niečo čarovného a radostného.
+
+Jedného dňa, počas oslavy slávnosti, sa prsteň premenil na krásnu, žiarivú farbu  badyanskej kvetiny. Juraj s radosťou skríkol od radosti, keď ho všetkých priateľov, rodinu, a aj neznámych rozžiarila radosť. Zažili momenty krásnych prejavov úprimnej radosti. 
+
+Keď však Juraj chytal strach a jeho prsteň zbledol do neúprosnej čiernej, Babka Anka mu podala ruku a povedala: „Smútok je časť života, môj drahý. Neskrývaj svoj strach a boj, preži to, a potom, v pokoji, zistíš, že tvoj prsteň sa bude opäť hrať farbami radosti.“
+
+Juraj pochopil, že prsteň nie je len ozdoba. Je to zrkadlo jeho duše, jeho pocitov a emócií. Pochopiť a akceptovať všetky pocity – či sú šťastné alebo smutné – bol dôležitejším darom ako každá farba prsteňa.  Odvtedy sa naučil rozpoznávať svoje pocity a čeliť im s odvahou a láskavosťou. Práve táto naučená odvaha urobili z Juraja muža, ktorý vedel ako sa správne správať v každej situácií.
+
+Juraj sa naučil, že nie je potrebné skryť svoje emócie,  a že v každom postoji sa skrýva aj príležitosť pre rast. Prsteň sa stal symbolom jeho rastu, symbolom vďačnosti k jeho babke a symbolom sebapoznania, vďaka ktorému sa stal hrdinou svojho života. A každý deň si spomínal na slová svojej babky, pretože vedel, že prsteň ho vždy usmerňuje na správnu cestu a vždy ho prinúti rozpoznať dôležitosť sebapoznania.
+</body>

@@ -1,0 +1,57 @@
+<prompt>
+Please write a light-hearted French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La construction d'une cabane secrète dans l'arbre où l'on jouait tous ensemble.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```xml
+<title>La construction d'une cabane secrète dans l'arbre où l'on jouait tous ensemble.</title>
+<body>
+Il était une fois, dans un village pittoresque bordé de champs de tournesols et de vergers débordants de pommes rouges, trois amis inséparables : Sophie, la petite fille aux couettes rousses et aux yeux pétillants ; Théo, le garçon espiègle aux cheveux blonds comme les blés mûrs ; et Léa, la douce et curieuse, toujours prête à observer les petites merveilles de la nature. Ils partageaient une passion commune : l'aventure.
+
+Leur terrain de jeu favori était un grand chêne majestueux, surnommé le "Gardien du Village". Ses branches énormes, fortes et noueuses, s'étendaient comme des bras protecteurs, offrant de multiples cachettes et des points d'observation parfaits. C'était là, à l'ombre de ses feuilles bruissantes, qu'ils se retrouvaient chaque après-midi, après l'école.
+
+Un beau jour de printemps, alors que les fleurs sauvages illuminaient les prairies de leurs couleurs éclatantes, Sophie, Théo et Léa eurent une idée brillante. "Et si... et si on construisait une cabane secrète dans le grand chêne ?" proposa Sophie, les yeux brillants de malice.
+
+Théo, toujours prêt pour une nouvelle aventure, bondit de joie. "Génial ! Une cabane secrète ! On pourra y cacher nos trésors, planifier nos expéditions et raconter des histoires effrayantes !"
+
+Léa, bien qu'un peu plus réservée, acquiesça avec un sourire. "Oui, ce serait merveilleux. Mais comment allons-nous faire ? Nous aurons besoin de beaucoup de matériel..."
+
+L'excitation gagna tous les trois. Aussitôt, ils se mirent à planifier leur entreprise. Ils dessinaient des plans sur des feuilles de papier, imaginaient la taille et la forme de leur cabane, et listaient les outils nécessaires.
+
+"Il nous faudra du bois," annonça Théo, en montrant son dessin approximatif. "Des planches, des clous, un marteau... et peut-être une scie, si on trouve le courage de l'utiliser !"
+
+Sophie réfléchit un instant. "Nous pourrions demander de l'aide à Papa Jean, il est très bricoleur et il a toujours des outils à prêter."
+
+Léa ajouta, en pointant vers le fond du jardin : "Et pour les murs, pourquoi pas utiliser des branches et des feuilles, pour qu'elle soit bien cachée ?"
+
+Ils coururent aussitôt chez Papa Jean, le voisin toujours souriant avec sa salopette bleue et ses mains pleines de sciure de bois. Après avoir écouté attentivement leur projet, Papa Jean sourit et accepta de les aider. "C'est une excellente idée ! Je vous aiderai volontiers. La construction d'une cabane est une aventure magnifique."
+
+Les jours suivants furent consacrés à la préparation. Papa Jean leur expliqua les bases de la construction, comment manier le marteau avec précaution et scier le bois sans se blesser. Sophie, Théo et Léa, attentifs et appliqués, écoutaient ses conseils avec grande attention.
+
+Le week-end, le travail commença. Ils se réunirent autour du grand chêne. Papa Jean leur fournit les planches et les outils. Sophie, forte de son sens de l'organisation, devint la "chef de projet". Théo, toujours débordant d'énergie, se chargea du transport des planches et des clous. Léa, avec sa douceur et son soin, s'occupa de ramasser les branches et les feuilles nécessaires à la construction des murs.
+
+Les premiers jours furent une véritable épreuve. Leurs petits doigts étaient souvent couverts de petites bosses, leurs vêtements maculés de sciure et de poussière. Mais leur détermination et leur joie étaient inébranlables. Les rires fusaient à chaque maladresse, les encouragements se multipliaient à chaque réussite.
+
+Papa Jean les aidait à clouer les planches, à solidifier la structure et à assurer la sécurité de la cabane. Il leur racontait des histoires passionnantes, des contes de lutins et de trésors cachés, tout en leur montrant les techniques de construction.
+
+Au fur et à mesure que les jours passaient, la cabane prenait forme. Les planches se transformaient en murs, le toit se dessinait, et les enfants ressentaient une immense fierté. Ils décorent la cabane avec des fanions colorés qu’ils ont fabriqué, des dessins et des petites trouvailles ramassées lors de leurs jeux.
+
+Enfin, après plusieurs week-ends de dur labeur et de fous rires, la cabane fut terminée. Elle était magnifique, avec des fenêtres qui offraient une vue imprenable sur le village, une porte discrète et un intérieur chaleureux et accueillant.
+
+Le jour de l'inauguration, tous les enfants du village furent invités. La cabane devint rapidement le lieu de rassemblement favori des petits et des grands. Ils y jouaient, y lisaient, y racontaient des histoires et partageaient des secrets.
+
+Sophie, Théo et Léa furent les héros du jour. Ils avaient réussi à créer un lieu magique, un espace où l'imagination pouvait s'envoler et où l'amitié était célébrée.
+
+Ils promirent de toujours prendre soin de la cabane, de la maintenir en bon état et d'y revenir chaque jour pour partager de nouvelles aventures. La cabane secrète, construite avec amour et patience, devint le symbole de leur amitié et de leur complicité, un lieu où l'on jouait toujours ensemble, à l'ombre du grand chêne. Et tous les soirs, avant de s'endormir, ils se souvenaient des bons moments passés, des éclats de rire partagés et des rêves construits ensemble, là-haut, dans leur cabane secrète.
+
+Les années passèrent, les enfants grandirent. Mais la cabane resta, témoignage de leur enfance, un lieu précieux et intemporel. Et même adultes, ils continuaient à s'y rendre de temps en temps, pour se souvenir des jours heureux, des moments de partage et de l'aventure inoubliable de la construction de leur cabane secrète dans l'arbre où ils avaient joué tous ensemble. Et à chaque visite, ils se rappelaient les paroles de Papa Jean : "L'amitié, c'est comme une cabane, elle se construit avec de la patience, de l'amour et beaucoup de rires." Et ainsi, l'histoire de leur cabane secrète continua d'être racontée, transmise de génération en génération, dans le village paisible et entouré de champs de tournesols et de vergers débordants de fruits.
+</body>
+```

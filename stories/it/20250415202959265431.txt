@@ -1,0 +1,39 @@
+<prompt>
+Please write a funny Italian children's story that is at least 1000 words long.
+It must be completely written in proper Italian (IT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Il gatto avventuroso che visitò tutti i monumenti e le città d'Italia.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>it</lang_id>
+
+```html
+<title>Il gatto avventuroso che visitò tutti i monumenti e le città d'Italia.</title>
+<body>
+Un giorno, in una casetta colorata nel cuore di Roma, viveva un gatto di nome Michelangelo. Ma non era un Michelangelo qualunque. No, no. Questo Michelangelo era un gatto con un'insaziabile sete di avventura e un amore smisurato per la pasta al ragù. Il suo pelo era striato di un marrone dorato che ricordava la crosta del pane fresco, e i suoi occhi, verdi come le olive ascolane, brillavano di una costante curiosità.
+
+Michelangelo non era soddisfatto di dormire sui cuscini del divano o di rincorrere le farfalle in giardino. Lui sognava l'Italia! Voleva vedere la Torre di Pisa, mangiare il gelato a Firenze, ascoltare i gondolieri a Venezia e forse, con un pizzico di fortuna, rubare una polpetta al sugo dalla tavola di un romano affamato.
+
+La sua avventura iniziò un lunedì mattina. Mentre il suo umano, un signore anziano di nome Enzo, dormiva beato, Michelangelo scivolò fuori dalla finestra, la coda alta come una bandiera. Aveva una mappa piegata nascosta sotto la collare, rubata di soppiatto dal cassetto di Enzo. "Roma è bella, ma io ho bisogno di vedere l'Italia!" miagolò a se stesso, con voce squillante.
+
+La prima tappa fu Pisa. Michelangelo, dopo un viaggio rocambolesco nascosto in un vagone merci, si ritrovò ai piedi della famosa torre. La guardò con occhi sgranati, un piccolo punto marrone contro l'enorme monumento. Cercò di scalare la torre, con la speranza di ammirare il panorama, ma si arrese dopo pochi tentativi. "È troppo ripida!" sospirò, e decise di ripiegare su qualcosa di più... goloso. Incontrò una coppia di turisti che mangiavano un gelato, e, con un balzo felino, si appropriò di un cono. Era un gelato al pistacchio, una vera delizia!
+
+Dopo Pisa, fu la volta di Firenze. Michelangelo si perse tra le strette viuzze, ammirando la bellezza del Duomo e il Ponte Vecchio. Trovò un negozietto che vendeva oggetti d'arte, e, fingendosi un'opera d'arte, si accomodò su uno sgabello di velluto. "Miao!" fece, pensando di sembrare misterioso e affascinante. Il proprietario, un uomo con una barba lunga e una parlantina veloce, non capì subito il trucco e cercò di venderlo a un turista giapponese! Michelangelo saltò via subito dopo questa disavventura, dirigendosi verso una trattoria, dove riuscì a convincere il cameriere a dargli un pezzo di bistecca alla fiorentina. Era tenera e succosa, il suo palato felino non avrebbe mai potuto essere più contento!
+
+Il viaggio di Michelangelo proseguì verso Venezia. Si imbarcò su una gondola, fingendosi un nobiluomo felino. Il gondoliere, un uomo burbero con un cappello di paglia, non si accorse subito del trucco. Michelangelo si godette il giro, cantando (o meglio, miagolando) a squarciagola una versione felina di "O Sole Mio". I turisti, affascinati dalla sua stravaganza, lo riempirono di complimenti e di croccantini. Si tuffò in laguna per tentare di catturare un pesce, ma desistette subito, dopo averne inghiottito un sorso di acqua salata.
+
+Poi fu il turno di Napoli, dove Michelangelo imparò a dire "guagliò" e si appassionò alla pizza Margherita. Partecipò a una gara di mangiatori di pizza, ma fu squalificato per aver nascosto alcune fette sotto la pelliccia (era goloso, cosa ci potevate fare?). Conobbe anche un gruppo di gatti di strada che lo accolsero come un re. Insieme, organizzarono una serenata sotto la finestra di una signora che preparava delle ottime lasagne. Ottennero quello che volevano.
+
+Il viaggio di Michelangelo fu un susseguirsi di avventure. Visitò la Fontana di Trevi a Roma, dove rubò una moneta per esprimere il desiderio di un'altra ciotola di pasta al ragù. Scalò il Colosseo, imitando i gladiatori (finì per cadere rovinosamente). Si perse tra i vicoli di Milano, chiedendo informazioni ad una picciona parlante che amava il formaggio. Si ritrovò anche in Sicilia, dove assaggiò i cannoli e cercò di convincere un vulcano inattivo a eruttare cioccolato.
+
+Ma la sua avventura non fu solo divertimento e cibo. Michelangelo fece anche delle scoperte importanti. Capì che l'Italia non era fatta solo di monumenti e piatti prelibati, ma anche di persone. Incontrò bambini che gli davano carezze, vecchiette che lo imbottivano di croccantini e signori burberi che, sotto la corazza, nascondevano un cuore tenero. Capì che la cosa più importante non era il cibo o il viaggio, ma l'amicizia e il divertimento.
+
+Dopo mesi di viaggio, Michelangelo, stanco ma felice, decise di tornare a Roma. Entrò nella sua casa di soppiatto, proprio come era uscito. Enzo si svegliò e, vedendo il suo gatto, sorrise. "Michelangelo, dove sei stato?" chiese, con tono divertito. Michelangelo miagolò e corse verso la sua ciotola, che per fortuna era piena di pasta al ragù.
+
+Da quel giorno, Michelangelo divenne una leggenda. Tutti conoscevano la storia del gatto avventuroso che aveva visitato l'Italia. E se qualche volta vedete un gatto marrone striato, con gli occhi verdi, che passeggia per le strade della vostra città, potrebbe essere proprio lui. Magari, se siete fortunati, vi chiederà anche una polpetta al ragù! E se ve lo chiede, non esitate, dategliela! Perché, dopotutto, Michelangelo si merita ogni singola polpetta dopo tutte le sue avventure! E se capitate a Venezia, ascoltate attentamente il gondoliere, potrebbe intonare la sua personale versione di "O Sole Mio"!
+</body>
+```

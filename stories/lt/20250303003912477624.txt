@@ -1,0 +1,43 @@
+<prompt>
+Please write a relatable Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Mažojo kūoko didieji nuotykiai miške'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lt</lang_id>
+
+<title>Mažojo kūoko didieji nuotykiai miške</title>
+<body>
+Barnabas, mažytis, rudas kūokas su didele, smalsios akies,  skrido pirmą kartą savo gyvenime per tankų Lietuvos mišką. Jo sparnai, nors ir jauni, virpėjo nuo susijaudinimo. Motina, protinga ir patyrusi, vis dar skrido šalia, apgaubdama jį šiltu, motinišku sparnų šešėliu.
+
+„Klausykis, Barnabai, miškas – tai visų stebuklų namas. Čia slypi ne tik gražios gėlės, bet ir paslaptingų būtybių, kurių niekada nematėme, istorijos“, – kalbėjo ji, jos balsas garsėjo švelniu, raminančiu žavesiu.  
+
+Barnabas žvelgė į žalumos ir šešėlių persiklojančias sienas.  Staiga, pasislėpęs po milžinišku, plikomis šakomis besiplečiančiu ąžuolu, įsišnibždėjo švelnus balsas: „Sveikas, mažasis.  Ar turi gerą nosį?“
+
+Barnabas sustingo.  Skraidydamas aukštai tarp medžių, nepastebėjo mažytės,  kūdikių pelėdų dydžio būtybės, kuri slėpėsi po ąžuolu.  Vos atrodė, kad ji susigriebė šiek tiek žemiau, įspūdis buvo, kad jis slypi net patyriausiam žvėreliui.
+
+„Aš... Esu Barnabas. O jūs?“,  ištarė kūokas, stengdamasis neužpūsti sparnų ir būti nepastebėtas.
+
+"Aš – Rasa," atsakė balsas, apimantis švelnių, rausvų žvakių skleidžiamą žvilgsnį. "O koks jūsų tikslas miške, kūokas?"
+
+Barnabas, niekada nebijęs pasidalinti savo paslaptimis su kitais, atskleidė, kad siekia išvysti visus miško grožius ir stebuklus.  Rasa nusišypsojo šypsena, kaip saulė spindulys tarp debesų.
+
+"Šauniai, Barnabai", – pasakė ji. „Eime, parodysiu kelionės kryptį". Rasa sukėlė žvakių blyksnio spindulius, ir nuvesė jį link žavingos upės. Upės krante augo įvairiausios žolės. Barnabas nustebo, sužavėtas jos įvairove. Vienas mažytis, žydras pumpuras, pasislėpęs tarp augalijos, skelbė gražiausią, magišką muziką, sužadinančią džiaugsmo spindulį jo širdyje.
+
+Toliau, kelyje per tankmę, pasirodė didžiulės, rausvai pilkos  grybų grupės. Kai Barnabas priartėjo, vieno grybo viršuje pamatė  mažą, balta drabužėliu aprėdę, medžių nykštukų šeimynėlę. Jie sušoko linksmą šokį ir šūktelėjo šūkio, kad ne visi žino miško istorijas.
+
+„Ei, mažasis paukštelis, mes esame grybų karaliai. Atvykstantys turistai mes visi esame garbinami. Ar tu girdėjai legendas, paslaptis?", klausia juos atkakliau Barnabas.
+
+Nykstės papasakojo pasakas, kurios atskleisdavo gražiausius mitų pasakojimus apie mišką ir jo gyvūnus. Pavyzdžiui, legendas apie žaliaplaukius elniukus, kurie plaukė švelnaus debesuoto oro upe. Šį pasakojimą papasakojo Rasa ir pasakiškų nykštukų grupė. 
+
+Visą dieną Barnabas keliauja su Rasa, sužino daugybę paslapčių, sutikęs miško būtybes: nuo smalsių meškų iki ramių  pelėdų. Jis mokosi pasigrožėti ne tik ryškiausiu dangų grožiu, bet ir  žaliu miško kilimu ir švelnių gėlių dažais. 
+
+Vakare, nuo pavargusio skrydžio, skliaudai palydėjo Barnabą atgal į namus. Jo sparnai, nors pavargę, buvo pilni džiaugsmo. Jis turėjo naują draugę, žinojo daugybę istorijų, ir sužinojo kaip svarbu klausyti, ir padalyti istorijas su paslaptingu pasaulį supantį mišku. Nuo tos dienos Barnabas niekada nepriekaištavo miškam, bet priėmė jį kaip savo paslaptingo žaliu namais. Jis visada saugojo Rasa ir sužavėtą šiek tiek jo miško išmintimi. Jis sugrįžo į namus su pilnu širdžiu.
+\
+Sužinojo ir apmąstė savo gyvenimo prasmę ir gyvenimą, suradęs ramybės, džiaugsmo ir žinių, kur jų laukia miško širdyje.
+</body>

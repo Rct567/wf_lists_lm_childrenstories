@@ -1,0 +1,50 @@
+<prompt>
+Please write a funny Kongo children's story that is at least 1000 words long.
+It must be completely written in proper Kongo (KG).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>kg</lang_id>
+
+<title>Ngeyi ya Mbotelela ya Nsunga</title><body>
+Ngeyi ya Mbotelela ya Nsunga
+
+Muna nsunga mosi, kuna mbanza ya Nsunga-Nsunga, kuzingilanga mwana mosi ya mbuta, o nkumbu andi ikele Mbelele. Mbelele wayangalelanga madia mingi, kansi wayangalelanga ve kulungisa bisalu yandi.  Wazingilanga kaka muna kinsalukisa ya madia, ndilu ya nsunga, ye ngolo ya kimfumu ya mama yandi.
+
+Mosi ya lumingu, mama ya Mbelele, o nkumbu andi ikele Nsunga-Nsunga, wabakisa diambu dia mpasi.  Mbelele wayangalelanga kaka ndilu ya nsunga ye ngolo ya kimfumu yandi.  Wabakisa wo vo, Mbelele wabakisa ve ntendula ya nsunga. Wafimpa vo, Mbelele wabakisa ve ntendula ya bisalu yandi.
+
+"Mbelele," Nsunga-Nsunga wavova, "nkwenda nkwenda kuna nzo ya Mboma, o nkumbu andi ikele nlongi mosi ya mayele.  Nkwenda kulomba yandi vo kalonga Mbelele ntendula ya bisalu."
+
+Mbelele watungisa matadi ye ntu andi.  "Nkwenda kuna nzo ya Mboma?  Kana nkwenda kuna nzo ya Mboma, ngina vo ngibuka madia ma nsunga?"
+
+Nsunga-Nsunga wandi vo, "Wavova yo ntete.  Kansi, ngeye omona vo, madia ma nsunga ke ma vonda ve.  Kulungisa bisalu yandi ikele ndilu ya nsunga.  Omo, ngeye omona vo, nsunga ke ikele kaka madia ve.  Ikele mpe ntendula ya bisalu ye ngolo ya moyo."
+
+Mbelele wabakisa diambu.  Wabaka ntima wayenda kuna nzo ya Mboma.
+
+Kuna nzo ya Mboma, Mbelele wandi vo, "Mboma, ngeye omona vo, mama ame wantuma vo ngiyenda kulomba ngeye vo, kalonga mono ntendula ya bisalu."
+
+Mboma, o nkumbu andi ikele nlongi ya mayele, wandi vo, "O mona vo, Mbelele, ngeye omona vo, bisalu ke ikele kaka ve.  Ikele ntendula ya moyo ye ngolo ya mvimba."
+
+Mboma wabaka Mbelele kuna nzo andi, wabaka yandi kuna nzo andi.  Wabonga nsunga mosi.  "Tala nsunga wau," Mboma wavova. "Nsunga wau, wakala kuna nsunga mosi.  Wabaka nsunga mosi.  Wazingila muna nsunga mosi.  Wavova yo nsunga mosi."
+
+Mbelele wandi vo, "Kansi, omona vo, ngeye omona vo, nsunga wau, wabaka nsunga mosi.  Ke wabaka ve nsunga zole."
+
+Mboma wandi vo, "Mbelele, nsunga ke ikele kaka ve, ikele mpe ntendula ya ndilu.  Nsunga mosi ke ikele ve ndilu.  Ikele mpe ntendula ya ndilu ya nsunga.  Ikele ntendula ya ndilu, ye moko, ye ntima."
+
+Mbelele wavova, "Nga, ngina vo, ngibuka madia ma nsunga?"
+
+Mboma wandi vo, "Ediadi ke ikele ngolo ya nsunga ve. Ikele mpe ntendula ya moyo ye ngolo ya moyo.  Omona vo, nsunga wau, wakala kuna nsunga mosi.  Wabaka nsunga mosi.  Wazingila muna nsunga mosi.  Wavova yo nsunga mosi.  Kansi, nsunga ke ikele kaka ve, ikele mpe ntendula ya ndilu.  Ikele ntendula ya ndilu ya nsunga.  Ikele ntendula ya ndilu, ye moko, ye ntima."
+
+Mbelele wabakisa ntendula ya bisalu.  Wabakisa vo, bisalu ikele ndilu ya moyo.  Wabakisa vo, bisalu ikele ntendula ya moyo ye ngolo ya moyo.
+
+Muna nsunga yankaka, Mbelele wabaka bisalu yandi.  Wabakisa vo, bisalu ke ikele kaka ve, ikele mpe ntendula ya moyo ye ngolo ya moyo.  Wazingila muna kiese ye mutu ye nsunga.  Wabaka ntima wayenda kulungisa bisalu yandi.
+
+Muna nsunga yankaka, Mbelele wabonga nsunga mosi.  Wabaka nsunga mosi.  Wazingila muna nsunga mosi.  Wavova yo nsunga mosi.  Wabakisa vo, nsunga ke ikele kaka ve, ikele mpe ntendula ya ndilu ya nsunga.  Ikele ntendula ya ndilu, ye moko, ye ntima.  Mbelele wabakisa vo, bisalu ikele ndilu ya moyo.
+
+Muna nsunga yankaka, Mbelele wabonga nsunga zole.  Wabaka nsunga zole.  Wazingila muna nsunga zole.  Wavova yo nsunga zole.  Wabakisa vo, nsunga ke ikele kaka ve, ikele mpe ntendula ya ndilu ya nsunga.  Ikele ntendula ya ndilu, ye moko, ye ntima.  Mbelele wabakisa vo, bisalu ikele ndilu ya moyo.
+Mbelele wakala nsunga ya kiese.
+</body>

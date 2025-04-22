@@ -1,0 +1,35 @@
+<prompt>
+Please write a uncomplicated Albanian children's story that is at least 1000 words long.
+It must be completely written in proper Albanian (SQ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Përkjetësimi i Dreqit të Vogël nga Shkodra'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sq</lang_id>
+
+<title>Përkjetësimi i Dreqit të Vogël nga Shkodra</title>
+<body>
+Në zemër të Shkodrës, në një shtëpi të vogël me çati të kuqe që shikonte drejt malësive, jetonte një dreq i vogël.  Emri i tij ishte Djallushi, dhe, ndryshe nga vëllezërit e tij të tjerë që kalonin ditët duke shkaktuar telashe, Djallushi kishte një zemër të butë.  Ai preferonte të shikonte zogjtë duke kënduar, të lëvizte lule nëpër fushë dhe të ndihmonte njerëzit në fshehtësi.
+
+Nëna e tij, një dreqeshë e madhe dhe e shqetësuar, e mësonte çdo ditë rëndësinë e punës dhe të shërbimit të vërtetë.  "Djallushi," e mësonte ajo, "nuk duhet të jetosh vetëm për të shkaktuar telashe.  Duhet të ndihmosh dhe të dashurosh."  Por Djallushi, me sytë e tij të vegjël dhe të shndritshëm, dukej sikur nuk e kuptonte.
+
+Një ditë, ndërsa Djallushi po luante në fushën e gjelbërt pranë shtëpisë së tij, pa një fëmijë të vogël që qante fort.  Fëmija, i veshur me një fustan të bardhë, dukej i humbur dhe i frikësuar.  Djallushi, i cili nuk kishte parë kurrë një fëmijë të qanë, u shqetësua shumë.  Ai u afrua me kujdes dhe e pyeti fëmijën: "Çfarë të ka ndodhur, vogëlush?"
+
+Fëmija, me zë të qetë, i tha: "Jam humbur.  Gjithë familja ime është larguar. Nuk e di ku të shkoj."  Djallushi, me zemrën e tij të butë, vendosi të ndihmonte.  Ai e gjeti një rrugë që i çoi në një fshat të afërt.  Fëmija, i lumtur që nuk ishte më i vetëm, e ndiqte Djallushin me hapa të shpejtë.  Ata arritën në një shtëpi të ngrohtë ku jetohej me gjallëri.
+
+Në shtëpi, një grua e mirë dhe një burrë i butë i pritën fëmijën dhe e përqafuan fort.  Fëmija tregoi se ishte humbur në një treg të madh, dhe ata e kishin gjetur.  Nëna dhe babai e falenderuan Djallushin për ndihmën e tij.  Djallushi, i lumtur që kishte ndihmuar një fëmijë, ndjeu një gëzim të madh në zemër.
+
+Nga ajo ditë e tutje, Djallushi filloi të shërbejë gjithmonë me dashuri dhe kujdes.  Ai ndihmonte njerëzit të gjejnë rrugën e tyre, i ndihmonte të humburve dhe i mbronin ata që kishin nevojë për mbrojtje.  Ai shpërndante gëzim e lumturi në çdo vend që shkonte.
+
+Nëna e tij, e befasuar dhe e kënaqur, e kuptoi se Djallushi kishte një zemër të ndryshme nga dreqët e tjerë.  Ajo e falënderonte perëndinë për sjelljen e tij të bukur dhe e deklaronte atë një dreq të jashtëzakonshëm.
+
+Një natë, ndërsa Djallushi po fliste me yjet në qiell, e dëgjoi një zë të butë dhe të ëmbël. "Djallushi," tha zëri. "Zemra jote e mirë është përkjetësuar. Ti nuk do të jesh më i njëjti."
+
+Djallushi, i habitur dhe i ngazëllyer, pa një dritë të ndritshme që shndërronte fytyrën e tij.  Ai kishte ndryshuar.  Ai nuk ishte më një dreq i vogël.  Ai ishte një engjëll i vogël, i cili fluturonte nëpër qiell.  Djallushi ishte përkjetësuar nga zemra e tij e mirë dhe kishte arritur një lumturi të përjetshme.
+
+Nga ajo ditë, Djallushi u bë një simbol i dashurisë dhe i ndihmës në Shkodër.  Kur kishte nevojë, njerëzit e kujtonin atë.  Ata dinin se në zemra të mira të fshehura në këndet e botës, mund të gjenden engjëj.  Dhe, kështu, Djallushi i vogël i Shkodrës, u përkjetësua në histori, si një shembull i përkjetësimit të dashurisë dhe të shërbimit të sinqertë.
+</body>

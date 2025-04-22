@@ -1,0 +1,22 @@
+<prompt>
+Please write a funny Amharic children's story that is at least 1000 words long.
+It must be completely written in proper Amharic (AM).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'ሕይወቴ ሆይ እና እንቅስቃሎን የሕይወቴ ጠብ'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>am</lang_id>
+
+<title>ሕይወቴ ሆይ እና እንቅስቃሎን የሕይወቴ ጠብ</title>
+<body>
+ሕይወቴ ሆይ እና እንቅስቃሎን የሕይወቴ ጠብ አዲስ አስተያት ነበረ። እኔ ስንት ጊዜ ሆይ እንዳለሁ አላውቅም። ሆይ ሆይ እንዳለሁ የእናት ሆይ እና አብረው እንጂ የሚከተለኝ አላውቅም። አንድ ቀን እናት ከሰንበቴ አስታወስና አደረጃት እንደሆነኝ እንደነበረ አስታወስኳለሁ። ሆይ ገንብ ሆኖ ነበረኝ ከጥቂት ጊዜ በኋላ አብራራሁ። እኔ እንደሆንኩ አውቀው እናት ሆኖኝ ሆይ ሆይ እንዳለሁ አስታወስና ወደ ውሃ አዳራሽ አስወጣሁ።
+
+ከዚያም ሆይ ሆይ እንዳለሁ በእናት እጅ ላይ ሆኖ እንጂ ራሴን ባደረግኩ አላውቅም። እናት ብዙ ብዙ ጊዜ ከእንቅስቃሴ ጋር ነበረችና ወደ ምንም አባይ በረዳን አይቻለሁም። ሆይ ሆይ እንዳለሁ ከቤት ውጪ ጣራ ሊያንስ አስባለሁ። ጣራ በደረጃ ላይ ተቀምጦ የትኛውን አባይ እንደምጣራው እያየሁ የእናቱን ጣራ አዩኩ። ምንም ሳንበዝብ ሆይ ጣራዬ በቀረበኝ በእናት ጣራ ላይ አየሁ።
+
+ሆይ ገንብ ሆኖ ነበረ ሆይ ብዙ ሆኖ ነበረ እናት ስንት ድረስ ሆይ ገንብ እንዳለሁ አልተረዳሁም። እኔ የእናት ሆይ ሆይ እንዳለሁ አውቀው ሰማሁ እያለ አብራራሁ። ሆይ ሆይ እንዳለሁ እናት ሆኖ እንጂ የሚከተለኝ አላውቅም። እናት ጣራ ያዘች ሆይ እንዳለሁ ገንብ ሆኖ ነበረኝ ወደ ውሃ አዳራሽ አስወጣሁ።
+
+ከዚያም እናት ጣራ ወደ ከበበ አዳራሽ ሄደን ከበበ እናት ሆይ ሆይ እንዳለሁ እያለ አየሁ። ሆይ ሆይ እንዳለሁ እናት ከበበ ያዘች እና ወደ ከበበ አዳራሽ በረዳን አይቻለሁም። እናት ብዙ ብዙ ጊዜ ከእንቅስቃሴ ጋር ነበረችና እኔ ገንብ ሆኖ ነበረ ሆይ ሆይ እንዳለሁ ከቤ

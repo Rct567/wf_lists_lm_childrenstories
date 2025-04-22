@@ -1,0 +1,35 @@
+<prompt>
+Please write a educational Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Užmirštos knygos ir jų gyvos istorijos'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>lt</lang_id>
+
+<title>Užmirštos knygos ir jų gyvos istorijos</title>
+<body>Kadaise, mažame miestelyje, buvo labai sena ir graži biblioteka. Ši biblioteka buvo prieš daugelį metų pastatyta kaip didelis rūmas su aukštais langais ir mediniais baldais. Joje buvo saugoma daugybė knygų, kurios atskleidė pasaulio istoriją, mokslo pasiekimus ir įvairias kultūras. Tačiau, laikui bėgant, biblioteka buvo apleista, ir jos knygos pradėjo dūstiti ant lentynų.
+
+Viena dieną, jaunas vaikinas vardu Jonas atėjo į šią biblioteką. Jis buvo labai smalsus ir norėjo sužinoti daugiau apie pasaulį. Įėjus į biblioteką, jis pamatė, kad visos knygos yra senos ir užmirštos. Tačiau, kai jis pradėjo juos skaitti, knygos pradėjo gyventi. Jos pradėjo kalbėti ir pasakoti istorijas apie tai, ką jos buvo matę ir patyrę.
+
+Pirmoji knyga, kurią Jonas atidarė, buvo apie Lietuvos istoriją. Knyga pasakojusi apie Lietuvos kunigaikščius ir karalius, apie didžiuosius mūšius ir laimėjimus. Jonas buvo labai įžvalgus ir norėjo sužinoti daugiau apie savo tautą. Knyga jam pasakojusi apie Mindaugą, Gediminą ir kitus garsius Lietuvos valdovus.
+
+Kitą dieną, Jonas grįžo į biblioteką ir atidarė kitą knygą. Ši knyga buvo apie mokslą ir pasaulio pažinimą. Joje buvo rašyta apie žvaigždes, planetas ir visatą. Jonas buvo labai įdomijamas ir norėjo sužinoti daugiau apie visatą. Knyga jam pasakojusi apie Saulę, Žemę ir kitas planetas, apie juos orbitas ir judėjimą.
+
+Taip Jonas praleido keletą dienų, skaitė knygas ir sužinojo daugiau apie pasaulį. Jis sužinojo apie įvairias kultūras, istorijas ir mokslo pasiekimus. Knygos jam pasakojusi apie skirtingus žmones, jų tradicijas ir papročius. Jonas buvo labai dėkingas knygoms, kad jos jam atskleidė pasaulio paslaptis.
+
+Viena diena, Jonas atėjo į biblioteką ir pamatė, kad visos knygos yra sugriuvusios ant lentynų. Jis buvo labai liūdnas, kad knygos niekada nebebūtų jo draugėmis. Tačiau, kai jis pradėjo jas rinkti, knygos vėl pradėjo gyventi. Jos pradėjo kalbėti ir pasakoti istorijas apie tai, ką jos buvo matę ir patyrę.
+
+Jonas suprato, kad knygos niekada nebus užmirštos, jei jos bus skaitomos ir mėgamos. Jis pradėjo skaitti knygas vis labiau ir daugiau, ir knygos jam pasakojusi apie viską, ką jis norėjo sužinoti. Jonas buvo labai laimingas, kad knygos vėl buvo jo draugėmis, ir jis žinojo, kad jos niekada nebus užmirštos.
+
+Laikui bėgant, Jonas tapo labai išsilavinusiu jaunuoliu. Jis sužinojo daugiau apie pasaulį, istoriją, mokslą ir kultūras. Jis buvo labai dėkingas knygoms, kad jos jam atskleidė pasaulio paslaptis. Jonas suprato, kad knygos yra ne tik popieriaus puslapiai, bet ir gyvos istorijos, kurios gali mokyti ir ugdymai.
+
+Jonas niekada neabejojo, kad knygos yra jo geriausios draugės. Jis visada jas skaitė ir mėgavosi jomis. Jonas buvo labai laimingas, kad knygos buvo jo gyvenime, ir jis žinojo, kad jos niekada nebus užmirštos. Užmirštos knygos ir jų gyvos istorijos buvo jo patirtis, kuri jam parodė, kad knygos yra ne tik senos ir užmirštos, bet ir gyvos ir aktualios.
+
+Jonas tapo rašytoju ir pradėjo rašyti savo knygas. Jis rašė apie istoriją, mokslą, kultūras ir viską, ką jis sužinojo iš knygų. Jonas buvo labai sėkmingas rašytojas, ir jo knygos buvo skaitomos visame pasaulyje. Jis buvo labai dėkingas knygoms, kad jos jam atskleidė pasaulio paslaptis, ir jis žinojo, kad jos niekada nebus užmirštos.
+
+Taip Jonas gyveno ir rašė, ir jo knygos buvo jo palikimas. Jis buvo labai laimingas, kad knygos buvo jo gyvenime, ir jis žinojo, kad jos niekada nebus užmirštos. Užmirštos knygos ir jų gyvos istorijos buvo jo patirtis, kuri jam parodė, kad knygos yra ne tik senos ir užmirštos, bet ir gyvos ir aktualios. Jonas visada bus dėkingas knygoms, kad jos jam atskleidė pasaulio paslaptis, ir jis žinojo, kad jos niekada nebus užmirštos.</body>

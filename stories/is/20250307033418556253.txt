@@ -1,0 +1,36 @@
+<prompt>
+Please write a simple and easy-to-follow Icelandic children's story that is at least 1000 words long.
+It must be completely written in proper Icelandic (IS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Leikurinn með ljósmyndum og ljómandi ljós'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>is</lang_id>
+
+<title>Leikurinn með ljósmyndum og ljómandi ljós</title>
+<body>
+Í litlu bænum Reykjavík, þar sem norðurljósin dansa á himni, bjó litla stelpan sem hét Sóley. Sóley var ástfangin af ljósmyndun og tók alltaf myndir af fjölskyldu sinni og vinum. Hún átti sérstakan kassa sem hún kallaði "myndakassann" og geymdi þar allar myndirnar sem hún tók.
+
+Einn dag, þegar Sóley var að leika sinn í garðinum, fann hún gamlan, glætanlegan kassa sem hafði verið grafinn undir jörðu í mörg ár. Hún opnaði kassann og fann inni fjölda gamallra ljósmynda, sem voru tekin af fólki sem hún þekkti ekki. Sóley varð áhugasamur og ákvað að finna út hverir þessir menn voru og hvað þeir voru að gera á myndunum.
+
+Sóley sótti til bókasafnsins og bað um aðstoð frá bókavörðunum. Þeir hjálpuðu henni að finna út að myndirnar voru tekin af öðrum íbúum Reykjavíkur, sem höfðu lifað í bænum fyrir mörgum árum. Sóley varð enn áhugasamari og ákvað að ferðast aftur í tímann og kynnast þessum mönnum.
+
+Sóley fann sér leið til að ferðast aftur í tímann, með hjálp frá vinum sínum, sem voru áhugasamir af vísindum og tæknilegum framförum. Þeir smíðuðu sérstakan vélmúl, sem hún kallaði "tímavélinn", og með honum gat hún ferðast aftur í tímann og kynnast þessum mönnum.
+
+Sóley ferðaðist aftur í tímann og komst til ársins 1950, þegar Reykjavík var enn lítið samfélag. Hún kynntist mönnum sem höfðu tekið myndirnar og hlustaði á sögur þeirra um líf sitt í bænum. Sóley varð áhugasamur af lífi þeirra og ákvað að dátta með þeim og læra meira um líf sitt í bænum.
+
+Einn dag, þegar Sóley var að dátta með mönnum, sá hún ljómandi ljós á himninum. Hún spurði mönnunum hvað það væri og þeir sögðu henni að það væri norðurljósin, sem voru sérstakt náttúrufyrirbæri sem bara sást á norðurslóðum. Sóley varð áhugasamur af norðurljósinum og ákvað að taka myndir af þeim.
+
+Sóley tók fjölda mynda af norðurljósinum og sýndi þeim mönnum sem hún kynntist. Þeir voru alla áhrifnir af myndunum og þakkuðu Sóley fyrir að hafa tekið þær. Sóley varð enn áhugasamari af norðurljósinum og ákvað að læra meira um þau.
+
+Sóley ferðaðist aftur til síns eigin tíma og hlaut þar víða lof fyrir myndir sínar af norðurljósinum. Hún varð þekkt sem ein af bestu ljósmyndarunum í Reykjavík og fór á ferðir um allan heim til að taka myndir af norðurljósinum.
+
+Á endanum, þegar Sóley var orðin gamla konan, sat hún í garðinum sínum og horfði á myndirnar sem hún hafði tekið af norðurljósinum. Hún þakkaði mönnum sem hún kynntist í fortíðinni fyrir að hafa látið hana kynnast norðurljósinum og taka myndir af þeim. Sóley varð áhugasamur af lífi sínu og ákvað að skrifa bók um ævi sína og myndirnar sem hún hafði tekið.
+
+Sóley skrifaði bókina og gaf henni titilinn "Leikurinn með ljósmyndum og ljómandi ljós". Bókin varð víða þekkt og lesin af fjölmörgum. Sóley varð þekkt sem ein af bestu ljósmyndarunum og rithöfundum í Reykjavík og fór á ferðir um allan heim til að taka myndir af norðurljósinum og segja sögu sína.
+
+Í dag, þegar norðurljósin dansa á himni, eru myndir Sóleyar enn í minningu okkar og eru lesin og séð af fjölmörgum. Sóley er enn þekkt sem ein af bestu ljósmyndarunum og rithöfundum í Reykjavík og er minnst af fjölmörgum sem ein af áhrifamestu konunum í sögu borgarinnar.</body>

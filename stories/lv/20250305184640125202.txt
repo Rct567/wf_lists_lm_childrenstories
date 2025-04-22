@@ -1,0 +1,43 @@
+<prompt>
+Please write a fun and entertaining Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Meža elfa, kas glāba ziema nolaistu sauli'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lv</lang_id>
+
+<title>Meža elfa, kas glāba ziema nolaistu sauli</title>
+<body>
+Meža sirds bija maza elfa, saukta par Zīlīti.  Viņas mati bija gaiši kā pavasara zāles, acis – zilas kā debesis pēc lietus, un kleita – zaļa kā meža vainags. Zīlīte dzīvoja blīvā egļu mežā, zem vecām, spožām priedēm, kur gaismas stari spēlējās ar zaļajām lapām, un putnu dziesmas radīja skaistu harmoniju.
+
+Bet šogad ziema bija īpaši skarba.  Saule, it kā nobijusies, bija paslēpusies aiz bieziem mākoņiem, un mežā valdīja pelēka, auksti dūcoša klusums.  Ziedi bija iemiris zem sniega segas, un pat putni bija aizlidojuši uz siltākiem krasiem.  Zīlīte, skatoties uz tukšo debesu, juta dziļu skumju.  Viņa zināja, ka bez saules mežs nevarēs atdzīvoties.
+
+Viņa devās ceļojumā.  Pirmā, kas viņu satika, bija vecā priede, kuras zari bija apņemti ar sniega cepurēm. "Vecā priede," Zīlīte jautāja, "kāpēc saule ir paslēpusies?"
+
+"Ziemas karaliene ir aizrauta ar spēli," priede čukstēja, "un viņa ir saslēgusi sauli savā ledus pilī.  Tikai drosmīgākais un labsirdīgākais varēs to atbrīvot."
+
+Zīlīte, nevilcinoties, devās tālāk.  Viņa satika lapsu, kuras kažoks bija izšūts ar sniega zvaigznēm.  Lapsa stāstīja par meža burvju, kas dzīvoja zem zemes, un par viņa spēju atdzīvināt visu apkārt.
+
+"Bet burvis ir aizmidzis," lapsa čukstēja, "un tikai dziedāšanas spēks var viņu pamodināt."
+
+Zīlīte devās uz meža dziļumiem.  Viņa dzirdēja putnu dziedāšanas skaņu, kas atbalsojās pa visu mežu.  Viņa dziedāja kopā ar putniem, un viņas balss bija tik skaista, ka pat sniega kristāli dejoja.  Viņa dziedāja par pavasara ziediem, par putnu čivināšanu un par meža mieru.  Dziedājot, viņa sajuta, ka kaut kas mazs un silts pārvietojas zem viņas kājām.
+
+Viņa nolaidās un ieraudzīja mazu, aizmidzis burvi.  Viņa dziedāja vēl skaļāk, un burvis pamodās.  Viņš bija pārsteigts par Zīlītes skaisto balsi un drosmi.
+
+"Kas tevi ved meža dziļumos?" burvis jautāja.
+
+"Es meklēju saules atgriešanos," Zīlīte atbildēja. "Ziemas karaliene ir saslēgusi to savā ledus pilī."
+
+Burvis, piepildīts ar labsirdību, izvilka no savas kabatas mazu, spīdīgu akmeni.  "Šis akmens," viņš paskaidroja, "spēj pārvarēt pat ziemas karalienes spēku.  Bet tu vari to izmantot tikai tad, ja mežs ir vienots un labsirdīgs."
+
+Zīlīte saprata.  Viņa atgriezās pie meža iemītniekiem.  Viņa dziedāja par vienotību, par mīlestību un par labvēlību.  Lapsa un priede, putni un dzīvnieki visi apvienojās dziedāšanā.  Viņu kopīgais dziedājums sasniedza debesis, un pat ziemas karaliene juta meža vienotības spēku.
+
+Kad mežā valdīja harmonija, Zīlīte devās uz ziemas karalienes ledus pili.  Viņa tur nolika burvju akmeni.  Akmens spīdēja un spīdēja, un ziemas karaliene, kas bija pārsteigta par meža vienotību, atbrīvoja saules starus.
+
+Saule atkal spīdēja, un mežā valdīja skaista pavasara gaisma.  Zīlīte, meža sirds, bija glābusi ziemu nolaistu saules.  Un mežā atkal valdīja prieka un dzīvības dziesma.
+</body>

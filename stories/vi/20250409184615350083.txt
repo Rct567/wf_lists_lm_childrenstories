@@ -1,0 +1,90 @@
+<prompt>
+Please write a silly Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Bí Ẩn Của Đảo Ngọc và Kho Báu Vô Giá.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>vi</lang_id>
+
+```vi
+<title>Bí Ẩn Của Đảo Ngọc và Kho Báu Vô Giá</title><body>
+Ngày xửa ngày xưa, ở một vùng biển xanh biếc, nơi ánh mặt trời nhảy nhót trên mặt nước, có một hòn đảo nhỏ hình trái xoài, tên là Đảo Ngọc. Trên đảo, cuộc sống diễn ra thật là vui nhộn và...khó tin. Đặc biệt nhất là ở cái làng xóm mà ai cũng có tên bắt đầu bằng chữ "Bờm", ví dụ như Bờm Ba Lăng Nhăng, Bờm Bép Xép, Bờm Bùng Binh... và Bờm Bé bỏng.
+
+Bờm Bé bỏng, nhân vật chính của chúng ta, không giống ai. Bờm không thích ăn cơm với cá, Bờm không thích ngủ trưa, và đặc biệt, Bờm luôn muốn tìm ra những điều bí ẩn, nhất là những bí mật của Đảo Ngọc.
+
+Một ngày nọ, khi Bờm Bé bỏng đang lang thang dọc bờ biển, nhặt những vỏ ốc có hình thù kỳ quặc, bỗng nhiên, một con vẹt màu tím huỳnh quang, to bằng cả cái mũ, bay đến và đậu lên vai Bờm. Con vẹt, với bộ lông sặc sỡ và cặp mắt lém lỉnh, cất tiếng nói.
+
+"Chào bạn nhỏ! Ta là Vẹt Xì Tố, người bảo vệ của kho báu vô giá!"
+
+Bờm Bé bỏng tròn mắt ngạc nhiên. "Kho báu? Vô giá? Ở đâu ạ?"
+
+Vẹt Xì Tố vỗ cánh, lông bay phấp phới. "Ở sâu trong hang động của Rồng Sâu Biển, tất nhiên!"
+
+Bờm Bé bỏng không hề sợ hãi. Bờm đã từng nghe kể về Rồng Sâu Biển, một sinh vật to lớn, được cho là đã ngủ say dưới đáy biển cả ngàn năm. Nhưng Bờm không hề tin vào những lời đồn đại đó.
+
+"Tôi đi tìm với bạn được không?" Bờm hỏi, mắt long lanh.
+
+Vẹt Xì Tố gật đầu. "Chắc chắn rồi! Nhưng hãy nhớ, kho báu không phải là vàng bạc châu báu thông thường. Nó là... trí tưởng tượng!"
+
+Thế là, hai người bạn bất đắc dĩ bắt đầu cuộc hành trình tìm kiếm kho báu.
+
+Đầu tiên, họ cần phải đến hang động của Rồng Sâu Biển. Hang động này được cho là nằm ở phía sau Đồi Xoài Khổng Lồ, nơi mà quả xoài to nhất thế giới mọc lên, lớn đến nỗi người ta có thể chui vào ăn trưa thoải mái.
+
+Đến Đồi Xoài Khổng Lồ, Bờm Bé bỏng và Vẹt Xì Tố phải vượt qua rất nhiều thử thách. Đầu tiên là Vượt Qua Hồ Bánh Xèo. Hồ này đầy ắp bánh xèo chiên giòn, thơm phức, với nhân tôm thịt đầy đặn. Bờm, vốn là một người kén ăn, nhưng lại cực kỳ thích bánh xèo, đã không kiềm chế được. Bờm nhào xuống hồ, ăn ngấu nghiến, quên cả đường đi. Vẹt Xì Tố phải ra sức gọi, "Bờm! Bờm! Tập trung! Kho báu, kho báu!" Cuối cùng, Bờm cũng phải miễn cưỡng rời khỏi hồ bánh xèo, bụng no căng như quả bóng.
+
+Tiếp theo, họ phải đối mặt với Cây Cơm Dừa Biết Nói. Cây này có khả năng trò chuyện và luôn đưa ra những câu đố hóc búa.
+
+"Ta là ai? Buổi sáng thì thức, buổi trưa thì ngủ, buổi chiều thì đi làm về. Nói ta nghe!" Cây Cơm Dừa hỏi.
+
+Bờm Bé bỏng nhăn mặt suy nghĩ. Vẹt Xì Tố bắt đầu cáu kỉnh.
+
+"Mau lên Bờm! Thời gian là vàng bạc!"
+
+Cuối cùng, sau khi suy nghĩ một lúc, Bờm Bé bỏng reo lên: "Là mặt trời ạ!"
+
+Cây Cơm Dừa cười ồ. "Chính xác! Ngươi thông minh đấy! Vậy thì... hãy tiếp tục hành trình!"
+
+Sau khi vượt qua Cây Cơm Dừa Biết Nói, hai người đến trước cửa hang động của Rồng Sâu Biển. Hang động tối tăm và lạnh lẽo. Vẹt Xì Tố dẫn đường bằng cách chiếu sáng bằng bộ lông của mình.
+
+"Cẩn thận nhé, Rồng Sâu Biển có thể vẫn còn thức!" Vẹt Xì Tố thì thầm.
+
+Bên trong hang động, họ gặp phải một con cua khổng lồ, tên là Cua Tào Tháo. Cua Tào Tháo chắn đường, giơ hai càng lên đe dọa.
+
+"Ai đến đây? Tránh đường ngay!" Cua Tào Tháo quát.
+
+Bờm Bé bỏng và Vẹt Xì Tố không hề sợ hãi. Bờm chợt nảy ra một ý tưởng. Bờm móc từ túi ra một cái kẹo mút to tướng, đưa cho Cua Tào Tháo.
+
+"Xin mời, Cua Tào Tháo! Đây là kẹo mút vị xoài, rất ngon đấy!"
+
+Cua Tào Tháo tròn mắt nhìn chiếc kẹo, rồi chần chừ một lúc. Cuối cùng, vì không cưỡng lại được sức hấp dẫn của kẹo mút, Cua Tào Tháo đành nhường đường.
+
+Sau khi đi qua Cua Tào Tháo, Bờm và Vẹt Xì Tố tiến sâu hơn vào trong hang. Cuối cùng, họ đến một căn phòng rộng lớn. Và... không có Rồng Sâu Biển nào cả! Chỉ có một đống sách, những bức tranh vẽ nguệch ngoạc, và những món đồ chơi cũ kỹ.
+
+Vẹt Xì Tố cất tiếng. "Đây là kho báu... Trí tưởng tượng!"
+
+Bờm Bé bỏng ngơ ngác. "Trí tưởng tượng? Nhưng..."
+
+"Đúng vậy! Kho báu không phải là thứ có thể sờ nắm. Nó là những gì ẩn chứa trong tâm trí. Là sự sáng tạo, là những giấc mơ, là niềm vui của tuổi thơ!" Vẹt Xì Tố giải thích.
+
+Bờm Bé bỏng bắt đầu hiểu ra. Bờm nhìn vào những món đồ chơi, những bức tranh, những cuốn sách... Bờm hình dung ra những câu chuyện, những nhân vật, những cuộc phiêu lưu. Bờm thấy trong đó niềm vui, sự hào hứng, và cả những ước mơ.
+
+Bờm cười thật tươi. Bờm đã hiểu kho báu vô giá là gì.
+
+"Chúng ta phải chia sẻ kho báu này cho mọi người!" Bờm reo lên.
+
+Thế là, Bờm Bé bỏng và Vẹt Xì Tố mang "kho báu" của mình ra khỏi hang động. Họ cùng nhau tổ chức các buổi kể chuyện, vẽ tranh, và chơi những trò chơi sáng tạo với tất cả mọi người trên Đảo Ngọc. Họ đã tạo ra những câu chuyện mới lạ, những bức tranh đầy màu sắc, và những trò chơi thú vị.
+
+Dần dần, cả Đảo Ngọc tràn ngập tiếng cười và sự sáng tạo. Mọi người không còn chỉ biết đến việc đi bắt cá và hái dừa. Họ bắt đầu mơ mộng, tưởng tượng, và tìm thấy niềm vui trong những điều tưởng chừng như nhỏ bé.
+
+Bờm Bé bỏng, từ một đứa trẻ thích khám phá những điều bí ẩn, đã trở thành một người mang đến niềm vui và sự sáng tạo cho cả cộng đồng. Bờm đã chứng minh rằng, kho báu thực sự không nằm ở đâu xa, mà nằm ngay trong tâm trí của mỗi người.
+
+Và từ đó, Đảo Ngọc trở nên sống động hơn bao giờ hết, một hòn đảo ngập tràn trí tưởng tượng và tình yêu thương, nơi mọi người đều biết rằng, kho báu vô giá nhất là trí tưởng tượng và những điều kỳ diệu của tuổi thơ. Và, thỉnh thoảng, Vẹt Xì Tố vẫn xuất hiện, kể những câu chuyện vui nhộn cho Bờm và tất cả mọi người. Cuộc sống ở Đảo Ngọc, như vậy, cứ thế mà trôi đi, tràn ngập tiếng cười và niềm hạnh phúc.
+
+Và, quan trọng hơn, họ đã hiểu được rằng, "Bờm" không chỉ là một cái tên, mà còn là biểu tượng của sự hồn nhiên, tinh nghịch, và luôn sẵn sàng khám phá những điều mới mẻ. Câu chuyện về Đảo Ngọc và Kho Báu Vô Giá, cứ thế mà truyền lại, từ đời này sang đời khác, như một lời nhắc nhở về giá trị của trí tưởng tượng và tình yêu thương.
+</body>
+```

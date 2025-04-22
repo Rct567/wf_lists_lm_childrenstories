@@ -1,0 +1,45 @@
+<prompt>
+Please write a simple and easy-to-follow French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Les Explorateurs du Pays des Couleurs Perdues'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>fr</lang_id>
+
+<title>Les Explorateurs du Pays des Couleurs Perdues</title>
+<body>
+Le soleil se levait sur le Pays des Couleurs Perdues, un pays autrefois vibrant de mille teintes éclatantes.  Mais une étrange nuit, une malédiction avait enveloppé le royaume, volé les couleurs de ses fleurs, de ses rivières, et des yeux même de ses habitants.  Désormais, tout était gris, monotone, et triste.
+
+Dans une petite cabane au bord d'une rivière assombrie, vivaient deux jeunes explorateurs,  Zoé et Max. Zoé, aux cheveux roux comme le feu, avait un regard perçant et une soif inextinguible d'aventure. Max, avec sa nature tranquille et ses mains expertes pour les mécanismes, était une source inépuisable d'idées ingénieuses.
+
+Ils avaient entendu parler de la malédiction et de son impact désastreux.  Ils savaient qu'ils devaient partir à la recherche d'un moyen de restaurer les couleurs enchantées du pays.  Armés d'une petite carte ancienne et déchirée, d'un précieux compas et d'un sac à dos rempli de vivres, ils se préparèrent à l'aventure.
+
+«  Le Pays des Couleurs Perdues, ça doit être comme un grand dessin, un tableau où quelqu'un a volé tous les crayons ! », murmura Zoé, en admirant, avec difficulté, la carte poussiéreuse.
+
+«  Exactement ! Et nous devons trouver l'endroit où le magicien des couleurs a disparu, le réparer », ajouta Max, en remontant les manches de sa chemise et en s’assurant que son petit inventaire de gadgets fonctionnait parfaitement.
+
+Leur premier jour fut un dédale de chemins étroits et de forêts denses, traversés de bois sans couleur, comme peints d’une peinture d’un gris glacial.  Ils rencontrèrent une faune déroutante : un hibou sans plumes qui tournoyait au-dessus d’un ruisseau sans reflets, un renard invisible se frayant un chemin dans la végétation fantomatique.
+
+Un jour, se cachant dans une caverne, ils trouvèrent un vieux livre écrit à la main. Il contenait une légende obscure. Un secret ancestral qui parle d’un lac mystique, caché au centre d’une vallée cachée au cœur des montagnes.  La légende précisait que ce lac était la source de la couleur, un endroit qui avait l’énergie pour raviver le pays ensorcelé.
+
+« Le Lac des Couleurs, comme dans le livre ! Nous devons y aller ! » hurla Zoé, les yeux brillants d’espoir.
+
+Max acquiesça en souriant. "Avec mes petits mécanismes et mon savoir-faire, nous allons trouver la meilleure voie, trouver un moyen de résoudre le problème".
+
+Le périple fut difficile. Ils escaladèrent des montagnes escarpées et traversèrent des déserts où le sable gris semblait avoir absorbé toute lumière. La faim, la soif et l’épuisement les minèrent, mais la détermination les maintenait en vie.
+
+Finalement, après de nombreuses semaines de voyage, ils arrivèrent dans une vallée profonde et sombre.  Au fond de la vallée, se trouvait un lac d’un gris étrangement pur. Mais le mystère du lac gardait intact sa nature et ses couleurs cachées. Il attendait les explorateurs courageux pour révèler son secret, comme une boîte-surprise encore à ouvrir.
+
+Au centre du lac, brillait une petite lumière dorée. Ils s'approchèrent avec précaution. Ils constatèrent qu'il s'agissait d'une petite plante aquatique émettant une douce lueur,  une fleur miraculeuse de couleur dorée, semblable à une lueur sur le ciel dans un rêve. Zoé la ramassa délicatement et remarqua une petite inscription dorée qui disait « la lumière pour raviver la couleur »  en lettres cristallines.
+
+Ils découvrirent que pour libérer la magie des couleurs, ils devaient répandre les particules dorées de la fleur magique.  Avec leur nouveau précieux cadeau et leurs mains fines, Zoé et Max dispersèrent la poussière dorée le long des rivières. La plante dorée scintilla encore plus fort avant de doucement mourir.
+
+Alors, le miracle se déroula ! Une lueur se répercuta sur l'horizon. Puis petit à petit les fleurs retrouvèrent leurs couleurs éclatantes, les rivières brièvement reflétèrent leurs couleurs vibrantes et les habitants récupérèrent leur éclatant sourire.  Tout s'illuminait avec la force de cette incroyable plante. La vie revint au Pays des Couleurs Perdues.
+
+L'histoire, racontée sous une magnifique lueur de la nouvelle journée dans leur cabane sur le bord de la rivière retrouvée et rafraîchie, se termine ainsi : Les explorateurs ne furent plus seulement reconnus dans le pays ; ils devinrent des figures emblématiques, qui témoignaient de l'immense valeur de l'espoir et de la capacité des amis de faire le bien ensemble. Ils étaient devenues les gardien du Pays des Couleurs Perdues.
+</body>

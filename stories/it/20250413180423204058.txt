@@ -1,0 +1,65 @@
+<prompt>
+Please write a silly Italian children's story that is at least 1000 words long.
+It must be completely written in proper Italian (IT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'L'emozione di un primo amore che sboccia come un fiore in un giardino segreto.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>it</lang_id>
+
+```xml
+<title>L'emozione di un primo amore che sboccia come un fiore in un giardino segreto.</title><body>
+C'era una volta, in un paese bizzarro e variopinto chiamato “Maccheronia”, una ragazzina di nome Carlotta. Carlotta non era una ragazzina qualunque; aveva i capelli color spaghetti al pomodoro, occhi che luccicavano come olive nere e un sorriso che sembrava un pezzo di pizza appena sfornata. Amava il gelato al gorgonzola (un segreto!), ballare il tip tap indossando le scarpe del nonno (enormi!) e soprattutto, adorava le avventure.
+
+Un giorno, mentre saltellava allegramente per il suo quartiere, sbattendo le palpebre al sole che sembrava una mozzarella filante, Carlotta inciampò su una mattonella decisamente anormale. Era più grande delle altre, decorata con strani simboli e, al centro, una minuscola serratura. “Mmmh…” pensò Carlotta, incuriosita, “cosa mai sarà?”
+
+Iniziò a cercare freneticamente una chiave. Controllò sotto i vasi di basilico, dentro il calzino puzzolente del gatto Ciccio (che era, per la cronaca, un gatto molto goloso di lasagne), e persino nella tasca della sua giacca di velluto a coste a forma di raviolo. Niente.
+
+Proprio quando stava per arrendersi, scorse qualcosa di minuscolo e argentato appeso al collare del suo cane, Prosciutto, un bassotto salsiccia estremamente vanitoso. Prosciutto, come suggerisce il nome, amava il prosciutto crudo sopra ogni cosa. E indovinate un po'? La chiave era a forma di un mini-panino al prosciutto!
+
+Con la chiave in mano, Carlotta tornò alla mattonella misteriosa. Inserì la chiave nella serratura, la girò con un “clic!”, e… puff! La mattonella si aprì rivelando un buco nero, nerissimo, profondo come un pozzo di ragù.
+
+“Accidenti!” esclamò Carlotta, fissando il buco. “Sembra un ingresso segreto per il paese delle polpette volanti!”
+
+Prese un grande respiro e… si buttò dentro.
+
+Dopo una caduta libera che sembrava non finire mai (e che le fece venire voglia di spaghetti aglio, olio e peperoncino, per digerire meglio!), Carlotta atterrò morbidamente su un letto di… coriandoli! Si guardò intorno e si ritrovò in un giardino straordinario, illuminato da lucciole che sembravano piccole sfere di mozzarella fritte. Alberi di cannoli si ergevano verso il cielo, gocciolando crema pasticcera, e cespugli di tiramisù profumavano l’aria.
+
+Ma la cosa più straordinaria di tutte era un ragazzino.
+
+Seduto sotto un albero di pizza, con un cappello a forma di mortadella e una maglietta decorata con tutti i tipi di pasta immaginabili, il ragazzo stava suonando l’ukulele con una dolcezza che faceva sciogliere il burro. I suoi capelli erano di un castano dorato, come il parmigiano grattugiato, e i suoi occhi brillavano come i pomodorini al sole.
+
+Carlotta rimase incantata. Non aveva mai visto un ragazzo così… appetitoso.
+
+“Ciao!” disse il ragazzino, sorridendo. “Mi chiamo Guido. Benvenuta nel Giardino Segreto dei Sapori!”
+
+“C-ciao!” rispose Carlotta, arrossendo come un pomodoro maturo. “Io sono Carlotta. Questo posto… è… wow!”
+
+Guido scoppiò a ridere, una risata che sembrava il rumore delle conchiglie sulla spiaggia. “Lo so! È un posto speciale, creato con amore e un pizzico di magia. Questo è il mio rifugio. Io ci vengo per pensare, per suonare, e soprattutto, per trovare l’ispirazione per nuove ricette.”
+
+Carlotta si sedette accanto a lui, timidamente. Cominciarono a chiacchierare, parlando di gusti preferiti (a Guido piacevano le lasagne, ovviamente), di animali domestici (Prosciutto fu improvvisamente geloso) e di sogni. Carlotta scoprì che a Guido piaceva anche ballare il tip tap (ma non indossava scarpe del nonno!), e che amava inventare canzoni stravaganti.
+
+Mentre il sole, trasformato in una grande arancia succosa, iniziava a tramontare, Guido prese un pennello e iniziò a dipingere sulla corteccia dell’albero di pizza.
+
+“Cosa stai facendo?” chiese Carlotta, curiosa.
+
+“Sto scrivendo una canzone per te,” rispose Guido, senza smettere di dipingere. “Sull’amore, sui ravioli, sulla magia… e sul gelato al gorgonzola, anche se non dovresti dirlo a nessuno!”
+
+Carlotta, sorpresa e felicissima, sentì il cuore batterle forte come un tamburello. Per la prima volta, capì cosa significava quella strana sensazione, quel pizzico di magia che la faceva sentire… speciale. Era l’amore.
+
+La canzone di Guido parlava di due anime affamate di avventure, di sapori che si fondono come gli ingredienti di una pizza, e di un giardino segreto dove tutto è possibile. Parlava anche, incredibilmente, del suo amore per il gelato al gorgonzola. Carlotta lo fissò negli occhi, sentendosi come se stesse fluttuando su una nuvola di panna montata.
+
+La giornata trascorse troppo velocemente. Quando le lucciole iniziarono a cantare le ninne nanne, Guido le disse: “È ora che tu vada, Carlotta. Ma promettimi che tornerai. Il Giardino Segreto ha bisogno di te.”
+
+Carlotta, con le guance rosse come pomodori San Marzano, annuì. Guido la accompagnò fino alla mattonella magica. Si diedero la mano (fu un momento epico!) e Carlotta, dopo un tenero abbraccio fatto di sorrisi e imbarazzo, tornò indietro attraverso il buco nero.
+
+Riemerse in strada, dove tutto sembrava… diverso. Il sole non era più una mozzarella filante, ma una grande palla gialla, ma comunque splendente. La mattonella, che ora sembrava una normale mattonella, le sorrise con discrezione. Carlotta sapeva di aver vissuto un’avventura indimenticabile.
+
+Ritornò a casa, la testa piena di canzoni, di profumo di tiramisù e di un dolce amore per il ragazzo che amava le lasagne, il tip tap e il gelato al gorgonzola quanto lei.
+
+Il giorno dopo, tornò al Giardino Segreto. E quello fu solo l’inizio di una storia d’amore fatta di avventure, di ricette bizzarre e di un affetto che cresceva giorno dopo giorno, proprio come i fiori nel giardino segreto. E, come promesso, tornò e tornò e tornò.
+E vissero felici e… golosi per sempre. Fine.

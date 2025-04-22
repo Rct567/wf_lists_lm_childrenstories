@@ -1,0 +1,29 @@
+<prompt>
+Please write a creative and original Catalan children's story that is at least 1000 words long.
+It must be completely written in proper Catalan (CA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La recerca del tresor perdut a les illes Balears'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>ca</lang_id>
+
+<title>La recerca del tresor perdut a les Illes Balears</title>
+<body>
+En Marc, un noi de cabells rossos i ulls blaus com el mar Mediterrani, tenia un somni: trobar un tresor perdut a les Illes Balears.  No pas qualsevol tresor, sinó el Tresor de la Sirena Esmeralda, un llegat que segons les antigues llegendes, contenia el secret de les onades i la melodia més bella del món.  Marc, amb la seva brúixola de fusta i el mapa antic tacat d'oliva i blau, es preparava per a l'aventura.
+
+El seu viatge començà a Mallorca, a la vora de la platja de Formentor.  Allà, un vell pescador amb ulls brillants com el mar de les Canàries, li donà un consell preuat: "El tresor no es troba en un lloc únic, sinó en el cor de les Illes.  Busca la bellesa, l'amistat i la curiositat, i el tresor es revelarà davant tu".  Marc, amb el cor ple d'il·lusió i una motxilla carregada de galetes i de llibres, es dirigí cap a Menorca.
+
+A Menorca, trobà un grup de nens jugant a la platja de Macarella.  Ells, amb les seves rialles i els seus somriures, li explicaren els secrets de les coves i les llegendes dels gegants que hi habitaven.  Marc, fascinat per la seva innocència i la seva alegria, aprenent d'ells la importància del treball en equip.  Junts, aprenent a navegar entre les roques, descobreixen una petja oculta, un petit cargol de colors vius.  El cargol, un símbol de la vida i l'esperança, li donà una pista:  "Segueix el camí de les aus".
+
+Marc seguí el vol dels ocells vers Ibiza.  Allà,  a la vora de la platja de Talamanca, conegué una noia de cabells negres com la nit i ulls com el cel de l'estiu.  Ella, que coneixia la bellesa de les Balears a fons, li regalà una flors de les Illes, un petit gerani amb un aroma subtil.  "La bellesa et guia, Marc", li disse. "Aquesta flor porta la clau d'un altre secret".  Marc, comprenent la importància d'obrir els seus ulls a la naturalesa, se n'adonà que la naturalesa tenia tots els secrets.
+
+L'aroma de la flor li recordà els perfums de les flors de la costa de Formentera.  A Formentera, Marc trobà un antic fariner que li explicava sobre les llegendes marines i l'amor al mar.  El fariner, tot observant el mar, li revelà un altre secret: "El Tresor no és or ni diamants, sinó el que està ben arrelat a la terra, a les nostres emocions".  Una llum s'encenia en el seu cor.  En aquell moment, comprenia que la recerca no era de materials, sinó de la bellesa de les Illes.
+
+A través de les seves experiències, Marc va descobrir que la bellesa de les Illes Balears es trobava en les persones i els llocs. Aquestes experiències li donaren una visió clara, una visió ampla i profunda. Aquest viatge havia convertit la seva recerca en un viatge de descobriment personal.  Les Illes Balears no només eren una destinació geogràfica, sinó una experiència per al seu creixement.
+
+Finalment, amb els seus nous amics, Marc tornà a la platja on tot havia començat.  No trobaren or ni gemmes, sinó un gran sentiment de satisfacció i un amor per les Illes Balears.  El Tresor de la Sirena Esmeralda, en realitat, era la bellesa de les Illes, els seus habitants i la seva cultura.  Marc es va adonar que el tresor més valuós que podia trobar era la joia de l'amistat, l'aventura i l'amor per l'entorn.  I això,  era un tresor incomprable.
+</body>

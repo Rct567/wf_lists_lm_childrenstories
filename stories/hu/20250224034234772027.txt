@@ -1,0 +1,37 @@
+<prompt>
+Please write a uncomplicated Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A rejtélyes sziget, ahol kincset talált egy bátor kislány a tengerben.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>hu</lang_id>
+
+<title>A rejtélyes sziget, ahol kincset talált egy bátor kislány a tengerben.</title>
+<body>Aznap, amikor a nyár vértételére a tengerparti városba utazott a kis Luca, nem is sejtette, hogy egy életre szóló kalandba fog keveredni. A szülőkkel megérkezve a szállásukra, Luca azonnal kiszaladt a tengerhez, hogy meglessék a hullámokat. A napfényes parton rengeteg emberrel találkozott, de ő egyedül szeretett volna lenni, hogy élvezhesse a saját társaságát.
+
+Ahogy sétált a parton, észrevett egy kis szigetet, ami nem messze volt a parttól. A szigetet sűrű erdő borította, és Luca kíváncsi lett, vajon mi lehet a sziget titka. A szülők figyelmeztették, hogy ne menjen egyedül a szigetre, de Luca nem hallgatott rájuk. Úgy döntött, hogy másnap reggel első dolga lesz, hogy felnyerít a szigetre, és felfedezze annak titkait.
+
+Másnap reggel, amikor a szülők még aludtak, Luca csendben kiosont a szállásukról, és elindult a sziget felé. Az idő szép volt, a tenger nyugodt, és a napfény kellemes melegséget adott. Ahogy közeledett a szigethez, Luca észrevette, hogy a szigetet nemcsak erdő borítja, hanem sziklás partszakaszok is vannak. A sziklákon könnyen fel lehetett mászni, és Luca hamarosan a sziget belsejében találta magát.
+
+Az erdő sűrű volt, de Luca nem félt. Ő egy bátor kislány volt, aki szerette a természetet és a kalandokat. Ahogy haladt az erdőben, észrevette, hogy a fák szépen karbantartottak, és az erdő talaja tiszta volt. Luca sejtette, hogy a szigeten valaki lakhat, de nem látott senkit. Ahogy továbbment, egy tisztásra érkezett, ahol egy szép kis tó volt. A tóban halak úszkáltak, és Luca látott egy kis csónakot is, amely a tó partján állt.
+
+Luca nem tudott ellenállni a csónaknak, és úgy döntött, hogy beszáll és evezni kezd. A tó vize csendes volt, és Luca könnyen evezt. Ahogy a tó közepére ért, észrevette, hogy a tó alján valami fénylik. Luca kíváncsi lett, és úgy döntött, hogy megpróbálja megvizsgálni a fénylő tárgyat. Belement a vízbe, és leúszott a tó aljára.
+
+A tó alján egy láda volt, amelyet Luca felnyitott. A ládában rengeteg arany és drágakő volt, és egy levelet is talált, amelyben az állt, hogy a sziget azoké, akik bátrak és mernek álmodni. Luca nem értette a levelet, de sejtette, hogy a sziget valami különleges hely lehet. Ahogy visszaemelt a csónakba, észrevette, hogy a szigeten valaki van.
+
+A szigeten egy idős ember állt, aki mosolygott Lucának. Az idős ember elmondta, hogy ő a sziget őre, és hogy a sziget azoké, akik bátrak és mernek álmodni. Elmondta, hogy a szigetnek rengeteg titka van, és hogy Luca, mint bátor kislány, méltó arra, hogy megismerje a sziget titkait. Az idős ember elkezdte mesélni a sziget történetét, és Luca figyelmesen hallgatta.
+
+A sziget története az volt, hogy egykoron a sziget egy gazdag és hatalmas királyé volt, aki szerette a természetet és a kalandokat. A király rengeteg kincset gyűjtött össze, és eldöntötte, hogy a szigeten fogja elrejteni. A király meghalt, de a sziget továbbra is az ő titkait őrizte. Az idős ember elmondta, hogy most ő az, aki a sziget titkait őrzi, és hogy Luca, mint bátor kislány, most már a sziget részese.
+
+Luca boldog volt, és hálás az idős embernek, hogy megismertette vele a sziget titkait. Az idős ember elmondta, hogy mostantól Luca a sziget egyik őre lesz, és hogy együtt fognak vigyázni a szigetre. Luca hazament a szülőkhöz, és elmondta nekik az egész történetet. A szülők csodálkoztak, de boldogok voltak, hogy Luca megtalálta a szigetet és annak titkait.
+
+Aznap éjszaka Luca álmodott a szigetről és annak titkairól. Az álomban látta, hogy a sziget rengeteg csodát rejt, és hogy ő lesz az, aki azokat felfedezi. Másnap reggel Luca visszament a szigetre, és az idős emberrel együtt elkezdte felfedezni a sziget titkait. A szigeten rengeteg csoda volt, és Luca boldog volt, hogy ő lehetett az egyik őre.
+
+A történet itt nem ér véget, mert Luca és az idős ember továbbra is felfedezték a sziget titkait, és együtt vigyáztak a szigetre. A sziget továbbra is azoké volt, akik bátrak és mernek álmodni, és Luca boldog volt, hogy ő is részese lehetett ennek a csodálatos kalandnak. Ahogy a nyár véget ért, Luca visszament a szülőkkel a városba, de tudta, hogy a sziget mindig is az ő szívében lesz, és hogy ő mindig is vágyik visszatérni oda.
+
+És így Luca története befejeződött, de a sziget titkai továbbra is rejtve maradtak, arra várva, hogy valaki újra felfedezze őket. A tenger továbbra is csobogott, a sziget továbbra is állt, és a sziget titkai továbbra is vártak arra, hogy valaki újra felfedezze őket.</body>

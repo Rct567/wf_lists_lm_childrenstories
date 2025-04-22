@@ -1,0 +1,61 @@
+<prompt>
+Please write a timeless Swedish children's story that is at least 1000 words long.
+It must be completely written in proper Swedish (SV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Äventyret med den förtrollade kulan'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>sv</lang_id>
+
+```xml
+<title>Äventyret med den förtrollade kulan</title>
+<body>
+Det var en gång i Sverige, i en liten by vid namn Solbacken, där husen var målade i ljusa färger och taken täckta av röda takpannor. I utkanten av byn låg en stor, grönskande skog, full av susande träd och porlande bäckar. Här bodde en liten flicka som hette Astrid. Astrid var en glad och äventyrlig flicka med flätor så gyllene som solens strålar och ögon lika blå som himlen.
+
+Astrid älskade att leka i skogen. Hon klättrade i träd, byggde kojor och fantiserade om riddare och drakar. Men hennes allra största önskan var att hitta något alldeles speciellt, något magiskt.
+
+En vacker vårdag, när solen sken och fåglarna sjöng sina glada sånger, bestämde sig Astrid för att utforska den djupaste delen av skogen. Hon packade en korg med smörgåsar, äpplen och en flaska med saft, och gav sig iväg. Medan hon vandrade djupare in i skogen hörde hon plötsligt ett litet, sorgset ljud.
+
+"Hjälp... hjälp..." viskade det.
+
+Astrid följde ljudet och hittade till slut en liten glänta där en gammal ek stod. Vid ekens rötter satt en liten, gnistrande kula. Den var inte större än Astrids lillfinger, men den glödde med ett svagt, skimrande ljus.
+
+"Hej lilla kula," sa Astrid försiktigt. "Vad är det som händer?"
+
+Kulans ljus flimrade och en liten röst, nästan som en viskning, svarade: "Jag är fångad... förtrollad."
+
+Astrid blev mycket nyfiken. "Fångad? Hur då?"
+
+"Jag är en förtrollad kula," svarade kulan. "En ond trollkarl förvandlade mig och gömde mig här. Enda sättet för mig att bli fri är om någon med ett rent hjärta finner mig och utför en god gärning."
+
+Astrids hjärta bultade. En förtrollad kula! Det var precis det hon alltid hade drömt om. "Jag ska hjälpa dig," sa hon bestämt. "Vad behöver jag göra?"
+
+"Du måste utföra en god gärning," upprepade kulan. "En som är helt osjälvisk. När den är gjord kommer förtrollningen att brytas och jag kan återvända till mitt rätta jag."
+
+Astrid tänkte länge. Vad kunde hon göra? Hon letade efter svåra uppdrag, enorma utmaningar, men insåg snabbt att sanningen låg i det enkla.
+
+Hon fortsatte sin vandring djupare in i skogen och stötte till en liten pojke som grät vid en bäck. Pojken hette Nils och hade tappat sin favoritkanin, en liten, vit kanin med långa öron.
+
+Astrids hjärta fylldes av medkänsla. Hon förstod hur ledsen Nils var. Utan att tveka satte Astrid sig ner och började hjälpa Nils leta efter kaninen. De letade under buskar, bakom stenar och i de höga gräset. Till slut, efter en timmes letande, hittade de lilla kaninen gömd under en stor gran. Nils ansikte lyste upp av glädje. Han kramade kaninen hårt och tackade Astrid oändligt många gånger.
+
+När Astrid återvände till den gnistrande kulan, kände hon sig nöjd. Hon hade hjälpt någon annan, utan att tänka på sig själv. Hon höll kulan i sin hand och berättade om vad som hade hänt. Medan hon pratade, började kulans ljus lysa starkare och starkare. Plötsligt, med en liten gnista, förvandlades kulan till en vacker, liten fågel. Fågeln hade fjädrar i alla regnbågens färger och ögon som glittrade som stjärnor.
+
+"Tack, Astrid," sjöng fågeln med en mjuk, melodisk röst. "Du har befriat mig. Jag var en älva, och trollkarlen förvandlade mig till en kula på grund av min glada sång. Du är en äkta hjältinna."
+
+Fågeln flög några varv runt Astrid och landade sedan på hennes axel. "Jag måste nu återvända till mitt land. Men vi kommer aldrig att glömma varandra, Astrid. Du bär ett gott hjärta."
+
+Sedan flög älvan upp mot himlen och försvann bland molnen. Astrid stod kvar i gläntan, tårarna rann nedför hennes kinder. Hon var glad, även om det var sorgligt att ta farväl.
+
+När Astrid återvände till Solbacken var himlen fylld med vackra färger. Solen sjönk långsamt ned bakom träden och målade himlen i guld och purpur. Hon berättade om sitt äventyr för sina föräldrar, som lyssnade fascinerat. De trodde på Astrids berättelse, för de visste att deras dotter hade ett hjärta fyllt av vänlighet och mod.
+
+Från den dagen fortsatte Astrid att vara en hjälpsam och god flicka. Hon hjälpte till i hemmet, lekte med sina vänner och fortsatte att utforska skogen. Hon visste att även om hon kanske aldrig mer skulle träffa den förtrollade älvan, hade hon lärt sig något mycket viktigt. Hon hade lärt sig att den största magin finns i de enkla handlingarna av vänlighet och omtanke.
+
+Och varje gång hon hörde en fågelsång, visste hon att älvan från den förtrollade kulan fortfarande mindes henne. Älvans minne levde kvar, precis som Astrids goda hjärta och äventyrliga anda. Och så, i Solbacken, fortsatte livet, fyllt av glädje, äventyr och minnet av den förtrollade kulan.
+
+Astrid växte upp och blev en klok och omtyckt kvinna. Hennes vackra flätor förblev gyllene, och hennes ögon lika blå som himlen. Hon berättade ofta för sina barnbarn om äventyret i skogen, om den förtrollade kulan och om vikten av att alltid vara snäll mot andra. Och så levde sagan vidare, från generation till generation. Och varje gång någon berättade om Astrids modiga handling, glittrade älvans minne lite ljusare i stjärnorna.
+</body>
+```

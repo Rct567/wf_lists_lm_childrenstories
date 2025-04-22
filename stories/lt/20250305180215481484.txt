@@ -1,0 +1,45 @@
+<prompt>
+Please write a silly Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Miško Elfai Ir Jų Slapti Keliai'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lt</lang_id>
+
+<title>Miško Elfai Ir Jų Slapti Keliai</title>
+<body>
+Šalia gražaus, žaliuojančio miško, kur saulės spinduliai šokinėjo tarp medžių viršūnių, gyveno linksmi miško elfai. Jie buvo mažyčiai, su blizgančiomis, žalių ir aukso spalvų akimis, ir mielais, šypsenais apšviestais veidais.  Elfai mylėjo žaidimus ir nuotykius, o labiausiai – slėpynes.
+
+Labiausiai išsiskyrė mažylė elfė, vardu Žiedė. Ji turėjo neįprastai ilgus, šviesiai rudos spalvos plaukus, kurie švelniai šniokšdavo, kai ji bėgiojo.  Žiedė nebuvo tokia greita kaip kiti elfai, bet ji turėjo neįtikėtiną gebėjimą atrasti paslėptus, slapčiausius miško takelius.
+
+Vieną saulėtą rytą, kai paukščiai giedojo linksmas dainas, elfai nusprendė žaisti slėpynes.  Visi išsibarstė po mišką, pasislėpdami už storų medžių kamienų, po krūmais ir po žydinčiais gėlių kilimais. Žiedė, kaip visada, ieškojo neįprastų vietų.  Ji įžvelgė mažą, išgraužtą skruzdėlių kalną, ir nusprendė pasislėpti jo viduje.
+
+Kitų elfų juokas aidėjo po mišką. Jie šaukė, ieškodami vieni kitų, bet Žiedės nebuvo. Ji slapta šypsojosi, pasislėpusi skruzdėlių kalne.  Staiga, iš po medžio iššoko didelis, rudai rudas lokys.  Jo akys žvilgčiojo, o nosis šnervino.  Elfai, žaidžiantys slėpynes, išsigando ir išbėgo.
+
+Žiedė, pasislėpusi skruzdėlių kalne, nejaudinosi.  Ji žinojo, kad lokys yra draugiškas.  Ji prisiminė, kaip jis kartą jai padėjo rasti pamestą grybą.  Žiedė tyliai išlindo iš kalno.  Lokys, pamatęs mažą elfę, tik šiek tiek pasilenkė.
+
+„Sveika, Žiedė! Ko ieškai miške?“ – paklausė lokys, ramiu, švelniu balsu.
+
+„Aš žaidžiu slėpynes, ir ieškau kitų elfų“, – atsakė Žiedė.
+
+Lokys nusišypsojo, parodydamas savo baltus dantis. „Slėpynes žaidžia visi miško gyventojai.  Ar noriu su tavimi pažaisti?“
+
+Žiedė pasidžiaugė.  Lokys buvo toks didelis ir galingas, bet su juo buvo saugu. Jie kartu ieškojo kitų elfų.  Jie aplankė paslaptingą upelį, kur vanduo šniokštė per akmenis, ir didžiulį, seną ąžuolą, kurio šakos siekė debesis.
+
+Staiga, Žiedė pamatė kitus elfus.  Jie buvo pasislėpę už didelės, pūkuotos pušies, jų veiduose švytėjo džiaugsmas ir stebėjimai.  Žiedė ir lokys priėjo prie jų.  Elfai sušuko iš džiaugsmo, matydami Žiedę ir lokį.
+
+„Jūs buvote toli!“, – šaukė vienas elfų.
+
+„Mes ieškojome paslėptų takelių“, – atsakė Žiedė.  „Ir mes radome daugybę paslapčių!“
+
+Lokys, šiek tiek pakėlęs galvą, nusišypsojo.  „Miške yra daugybė paslapčių, o svarbiausia – draugystė, kuri padeda jas atrasti“.
+
+Nuo tos dienos, Žiedė ir lokys tapo geriausiais draugais.  Jie kartu tyrinėjo mišką, ieškodami paslapčių ir nuotykių.  Žiedė mokė lokį apie miško elfus, o lokys mokė Žiedę apie miško gyvūnų kalbas.
+
+Kiekvienas miško gyventojas, nuo mažiausio vabzdžio iki didžiausio medžio, buvo dalis šio stebuklingo pasaulio.  Žiedė supranto, kad svarbiausia yra ne greitis, o atradimo džiaugsmas.  O miško elfai, žinodami, kad miškas yra pilnas paslapčių ir draugystės, toliau žaidė savo slėpynes ir nuotykius.
+</body>

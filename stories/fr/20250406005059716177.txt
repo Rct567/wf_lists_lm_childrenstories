@@ -1,0 +1,71 @@
+<prompt>
+Please write a relatable French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La Rencontre d'un petit garçon avec un alien venu d'ailleurs.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```xml
+<title>La Rencontre d'un petit garçon avec un alien venu d'ailleurs.</title>
+<body>
+Il était une fois, dans une petite ville charmante bordée de collines verdoyantes, un petit garçon nommé Léo. Léo avait sept ans, des cheveux blonds en bataille et des yeux rieurs qui pétillaient de curiosité. Il adorait explorer, grimper aux arbres, collectionner les cailloux brillants et rêver de voyages extraordinaires. Sa plus grande passion, c'était les étoiles. Chaque soir, avant de s'endormir, il fixait le ciel étoilé par sa fenêtre, se demandant s'il existait d'autres mondes, d'autres vies, au-delà de la Terre.
+
+Un soir d'été particulièrement chaud et étoilé, Léo, incapable de dormir, se glissa hors de son lit et sortit dans le jardin. La lune, ronde et lumineuse, éclairait la pelouse comme en plein jour. Il s'assit sous le grand chêne, son arbre préféré, et observa les constellations. Tout à coup, une lumière vive zébra le ciel, laissant une traînée scintillante. "Oh là là !" s'exclama Léo, émerveillé. "Une étoile filante ! Je dois faire un vœu !"
+
+Il ferma les yeux, croisa les doigts et souffla : "Je voudrais rencontrer un ami venu d'ailleurs, de l'espace, de loin…" Il rouvrit les yeux, l'excitation le gagnant. Le vœu semblait avoir été exaucé, car la lumière, au lieu de disparaître, se rapprochait, zigzaguant dans le ciel. Puis, "Boum !" Un bruit sourd, suivi d'un choc léger. Léo, sursauta.
+
+Intrigué et un peu effrayé, il se leva et se dirigea prudemment vers le bruit, longeant la haie de rosiers. Il aperçut une étrange forme lumineuse au pied du vieux pommier. En s'approchant, son cœur battait la chamade. Ce qu'il vit l'étonna encore plus. Ce n'était ni une voiture, ni un avion, mais une sorte de petit vaisseau spatial, d'un rose vif et chatoyant. La porte s'ouvrit lentement, crépitant légèrement.
+
+Un être sortit du vaisseau. Il n'était pas grand, à peu près de la taille de Léo, et avait une peau d'un bleu pâle. Ses grands yeux, d'un vert émeraude, étaient brillants et curieux. Il portait une combinaison argentée qui brillait dans la lumière de la lune. Au lieu de cheveux, il avait de petites antennes sur le dessus de la tête, qui vibraient légèrement.
+
+Léo resta bouche bée, incapable de dire un mot. L'alien, comme il le comprit plus tard, tendit une petite main, dont les doigts étaient longs et fins.
+
+"Bonjour," dit l'alien d'une voix cristalline, mais avec un léger accent étranger. "Je m'appelle Zorp. Et toi ?"
+
+Léo, finalement, retrouva le fil de sa langue. "Je m'appelle Léo," répondit-il, sa voix tremblant un peu.
+
+"C'est un plaisir, Léo," dit Zorp avec un sourire amical. "Je viens de la planète Zorgon. Et je suis un peu… perdu."
+
+Léo, oubliant toute peur, s'approcha de Zorp. "Perdu ? Mais comment ? Qu'est-ce que c'est que ça, votre vaisseau ?"
+
+"Mon vaisseau… il est en panne," expliqua Zorp, en soupirant. "Et je ne sais pas trop comment le réparer. J'ai besoin d'aide."
+
+Léo, ravi de pouvoir aider, proposa : "Je peux vous aider ! Je suis plutôt bon pour bricoler. On peut demander à mon papa, il est très doué !"
+
+Zorp accepta avec empressement. Les deux nouveaux amis, liés par une extraordinaire rencontre, passèrent le reste de la nuit à explorer le jardin. Léo expliqua à Zorp comment on appelait les arbres, les fleurs, les insectes. Zorp, de son côté, lui raconta les merveilles de Zorgon : des arbres aux fruits multicolores, des rivières de lumière et des animaux volants qui ressemblaient à des dragons.
+
+Le lendemain matin, après que Léo ait rapidement avalé son petit-déjeuner, ils se dirigèrent vers l'atelier de son père. Le papa de Léo, un homme gentil et souriant, écouta attentivement l'histoire incroyable de son fils. D'abord sceptique, il fut convaincu lorsqu'il vit le vaisseau spatial et Zorp.
+
+"Bien sûr, on va vous aider," dit-il en souriant à Zorp. "C'est une aventure extraordinaire !"
+
+Pendant plusieurs jours, Léo, son père et Zorp travaillèrent ensemble sur le vaisseau. Ils utilisèrent des outils étranges, empruntés à l'arsenal de Zorp, pour réparer les circuits électriques et remplacer des pièces endommagées. Léo était aux anges. Il apprenait des choses incroyables sur la technologie et le fonctionnement des engins spatiaux. Il se sentait intelligent et utile. Il tissa une amitié sincère avec Zorp, partageant des rires, des secrets et des moments de grande complicité.
+
+Pendant ce temps, Zorp découvrait la culture terrestre, goûtant aux glaces, riant aux blagues de Léo et apprenant à apprécier le chocolat. Ils jouèrent au foot dans le jardin, racontèrent des histoires au coin du feu et observèrent les étoiles ensemble. Ils se promirent qu’ils se reverraient un jour.
+
+Enfin, le jour du départ arriva. Le vaisseau, réparé, brillait à nouveau comme neuf. Zorp, prêt à rentrer chez lui, semblait triste.
+
+"Merci beaucoup, Léo, Monsieur," dit Zorp, les yeux brillants. "Sans vous, je serais toujours perdu."
+
+Léo sentit une boule se former dans sa gorge. Il serra Zorp dans ses bras. "On va te manquer ?" demanda-t-il, la voix tremblante.
+
+"Énormément," répondit Zorp. "Mais je n'oublierai jamais notre amitié."
+
+Le papa de Léo souleva Zorp et se dirigea vers son vaisseau. Ils serrèrent la main de Léo. "Merci pour l'aide, Zorp," dit le papa de Léo avec un grand sourire.
+
+Zorp monta à bord, tournant la tête pour saluer ses nouveaux amis. Il leur fit un signe de la main et appuya sur un bouton. Les réacteurs du vaisseau sifflèrent, et la petite machine se mit à flotter lentement au dessus du sol. Puis, avec un grand fracas lumineux, le vaisseau s'envola vers le ciel. Léo et son père regardèrent avec émotion le point brillant s'éloigner, jusqu'à ce qu'il ne devienne qu'une étoile parmi les étoiles.
+
+Léo, les larmes aux yeux, se retourna vers son père. "Il va me manquer, papa…"
+
+Son père lui sourit et lui prit la main. "Je sais, mon chéri. Mais vous vous reverrez peut-être un jour. Et vous aurez toujours le souvenir de cette incroyable aventure. Et tu peux raconter ton aventure à tous tes amis, sans oublier de dire que même un alien sait apprécier le chocolat !"
+
+Léo sourit à son tour. Il avait appris beaucoup de choses de Zorp : l'importance de l'amitié, la curiosité, le courage, et la beauté des mondes inconnus. Il savait que le monde était vaste et plein de surprises, et que les rêves pouvaient devenir réalité.
+
+Chaque soir, Léo continuait de regarder les étoiles par sa fenêtre. Il savait que quelque part, sur Zorgon, Zorp le regardait aussi, avec le même regard curieux, le même cœur rempli d'amitié. Et, qui sait, peut-être qu'un jour, Léo voyagerait à son tour…vers un monde venu d’ailleurs. Fin.
+</body>
+```

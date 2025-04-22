@@ -1,0 +1,31 @@
+<prompt>
+Please write a silly Slovak children's story that is at least 1000 words long.
+It must be completely written in proper Slovak (SK).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Mladý hrdina a jeho cestu za slobodou'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sk</lang_id>
+
+<title>Mladý hrdina a jeho cestu za slobodou</title>
+<body>
+Malý Juraj, s vlasmi ako hnedé pradičky a očami ako modré jazierka, nebol nijaký bežný chlapec.  Nehral sa s autíčkami ani s bábikami.  Juraj sníval o dobrodružstvách, o svobodných vtákoch, ktorí lietajú vysoko nad oblakmi, a o podivných bytostiach žijúcich v tajomných lesoch.  Jeho dedina, malá a útulná dedinka s názvom Slniečko, bola preňho dvorením, no duša jeho túžila po väčšom, po slobode.
+
+Jedného rána, keď slnko maľovalo oblohu v oranžových a ružových odtieňoch, objavil Juraj starú, zvetranú knihu schovanú za starým dubom.  Kniha bola plná zvláštnych symbolov, starých slovenských slov a rozprávok o hrdinoch, ktorí zdolali drakov a záchranili kráľovstvá.  Juraj, s dychom zatajeným, začal čítať. A v tom okamihu sa mu zjavilo svetlo.  Svetlo, ktoré ho viedlo za neznámym horizontom.
+
+Kniha hovorila o Kvetinovom kráľovstve, mieste, kde kvitli kvety všetkých farieb a kde žili šikovní, no zároveň roztomilí chrobáčiky.  Tieto chrobáčiky, s krídlami ako farebné motýle, sa však ocitli v zajatí zlého čarodejníka, ktorý ich nútil pracovať na jeho temných záhradách, aby zozbieral kvetinové šťavy a použil ich na výrobu čarovného elixíru.  Chrobáčiky sa snažili oslobodiť, no ich úsilie bolo márne.
+
+Juraj, po prečítaní knihy, mal v srdci jasný zámer. Musel ísť do Kvetinového kráľovstva a oslobodiť chrobáčiky!  Zbalil si malú tašku s chlebom, medom, zopár orieškov a samozrejme, tajomnú knihu. Vzal si na cestu aj svoju vernú mačku, Murču, ktorá ho sprevádzala s pohľadom plným záujmu.
+
+Cesta do Kvetinového kráľovstva bola dlhá a náročná.  Prekonali rozsiahly les, kde sa skrývali roztomilé, ale záludné ježkovia, prešli cez riečku, kde ho hľadali žabky so zlými úmyslami, a vyliečili boľavé nohy Murče pri liečivých prameňoch v skalách. Juraj, s Murčou na chrbte, sa snažil nájsť cestu k ich oslobodeniu.
+
+V Kvetinovom kráľovstve sa stretli s množstvom prekážok.  Museli prejsť cez záhrade plné bodavých trní a vyhýbať sa čarodejníckym pavúkom, ktorí plížili po stonkách a lákali chrobáčiky do svojich sieťok.  Juraj, s odvahou, ktorú v ňom vzbudzovala kniha, zmiernil pády s Murčou a vďaka svojim znalostiam o bylinách z knihy, odplašil otravné muchy.
+
+Nakoniec sa dostali do čarodejníkovej temnej záhrady.  Čarodejník, s tvárou plnou hnevu, videl Juraja a hneď ho chcel zadržať.  Juraj, s Murčou na bok, sa však nebál.  Vzal knihu do rúk a čítal čarovné slová.  Kniha zapísala múdre slová a čarovala proti čarodejníkovi.  Na pomoc prišiel aj celý roj chrobáčikov, ktorí sa spojili, aby odrazili čarodejnícke kúzla.  Chrobáčiky, s krištáľovo čistými krídlami, naplnili záhradu znovuzrodením.
+
+Čarodejník, porazený sily dobra, sa rozplynul do prachu a Kvetinové kráľovstvo bolo slobodné.  Juraj, hrdina, a Murča, verný priateľ, boli oslavovaní chrobáčikmi a kvetmi.  Juraj sa vrátil do Slniečka, s novým pohľadom na svet a s novými skúsenosťami.  Malý chlapec sa stal mladým hrdinom, a cesta za slobodou ho naučila, že dôležité nie je iba byť silný, ale aj dobrý a múdry.  A tak sa Juraj stal hrdinom svojho srdca, a každý večer pred spaním, si rozprával príbeh o Kvetinovom kráľovstve a svojej ceste za slobodou, Murča ho pozorne počúvala.
+</body>

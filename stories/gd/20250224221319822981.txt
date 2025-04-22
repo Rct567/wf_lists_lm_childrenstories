@@ -1,0 +1,47 @@
+<prompt>
+Please write a relatable Scottish Gaelic children's story that is at least 1000 words long.
+It must be completely written in proper Scottish Gaelic (GD).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Na h-Èiteanan a tha a' Cruinneachadh nan Cuileanan'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>gd</lang_id>
+
+<title>Na h-Èiteanan a tha a' Cruinneachadh nan Cuileanan</title>
+<body>
+A dh'fhalbh na gàidhealaich bheaga, a' cluich gu lèir, air a' chnoc a bh'ann an taigh-chaileag.  Bha na gàidhealaich sin,  Caitlín agus Fionnlagh,  a' cur làmhan ris an aon uisge-beatha, agus bha gàire agus sgaoilteachd san àile.  Bha a' ghràdh fada-seachd air an àile, a' cur a' ghràdh gu lèir anns na fàinneachan air a' chnoc.
+
+Bha làimheach agus gàireach Fionnlagh, a' smaoineachadh air cluichean eile.  "Caitlín," thuirt e, "cuimhnich thu air na cuileanan beaga air an rathad?"
+
+“Tha,” fhreagair Caitlín, a' cur làmh ris na h-uisge-beatha fhada. “Bha mi a’ faicinn iad anns a' ghàrradh. Bha iad a’ tuiteam anns a' ghlùin agus a’ ruith mar na h-àiteanan a' cruinneachadh a-mach às an àilleachd.”
+
+Bha na cuileanan beaga, beagan ghealach le sùilean dubha, a' cur a' ghràidh gu lèir air a' chnoc.  Bha iad a’ ruith timcheall anns a' ghàrradh, a' faicinn na h-uile buidheann, a’ faicinn na h-uile radharc breagha, a’ faicinn na dealbhan a tha ann an cruinneachadh nan cuileanan beaga.
+
+"Tha iad a' coimhead cho beag agus cho dìomhain," thuirt Fionnlagh, “Tha sinn airson na h-èiteanan a dhèanamh, a chuideachadh iad.”
+
+"Tha mi ag ràdh," thuirt Caitlín. "Feumaidh sinn an cuideachadh.  Faodaidh sinn cuid de na h-uighean a thoirt dhaibh.  Tha na h-èiteanan sin a’ cruinneachadh nan cuileanan beaga."
+
+Rinn iad a' bheag a bh'aca de choinntinn agus bha iad a' sabaid airson a h-uile àite, a' coimhead airson na h-èiteanan.  Ach, an dèidh cuid de chuairtean fhada, bha iad airson faighinn a-mach dè an rathad a bha iad a’ leantainn.
+
+Chunnaic iad beagan èiteanan beaga, a' coimhead dìomhain, a' ruith timcheall a' chnoc. Bha iad a' coimhead cuingealaichte agus a' coimhead air an rathad.
+
+"Choimhead na h-èiteanan!" thug Fionnlagh gàire.
+
+Bha na h-èiteanan sin a' coimhead gu math agus a' coimhead airson àiteachan agus a' gluasad gu slaodach. Cha robh mòran de làimheachd anns na cluichean aca.
+
+Bha na cuileanan beaga gu lèir a' tuiteam às a' chnoc.  Bha iad a' coimhead cho dìomhain, cho beag, cho mì-chinnte. Bha na cuileanan a' coimhead air na h-èiteanan beaga a' ruith air an talamh.
+
+Bha Caitlín agus Fionnlagh a’ coimhead gu faiceallach air na cuileanan beaga a' ruith air an rathad agus air na h-èiteanan beaga, a' ruith timcheall nan cuileanan. Chuir iad na h-uighean gu faiceallach air an talamh aig a' mheadhan.
+
+"Seo na h-uighean," thuirt Fionnlagh, "Tha mi a’ smaoineachadh gum faiceadh na cuileanan beaga iad."
+
+Agus mar sin, thug iad na h-uighean do na cuileanan.  Bha na cuileanan sin cho tàmailteach, agus bha a’ ghràdh gu lèir aca air a’ chnoc ann an amannan. Bha na cuileanan a' bìdeadh anns na h-uighean.  Bha na h-èiteanan agam, agus bha gàire agus sgaoilteachd san àile.
+
+Bha na cuileanan beaga a’ ruith, a’ cluich, agus a’ fàileadh nan gnèithean.  Bha na h-èiteanan a' coimhead air an rathad.  Bha iad a' coimhead air an àilleachd agus iad a' cruinneachadh nan cuileanan.  Bha iad a' coimhead air a’ chnoc, a’ coimhead air na cuileanan beaga, agus a’ cruinneachadh a’ ghràidh gu lèir, a’ faicinn a’ bheatha ann an amannan.
+
+Aig an ìre sin, b’ urrainn do na gàidhealaich bheaga, Caitlín agus Fionnlagh, a bhith toilichte.  Rinn iad rudeigin math.  Bha na cuileanan a’ fàileadh anns a’ ghràdh agus na h-èiteanan a' coimhead air a' chnoc.  Bha na cuileanan air an èitean a thoirt dhomh, agus thug na h-èiteanan dhaibh na h-uighean. Tha iad uile cho sàbhailte agus cho toilichte. Bha a’ ghràdh gu lèir air a’ chnoc.  Bha Caitlín agus Fionnlagh ag aideachadh air na cuileanan beaga, agus mar sin, bha iad uile a’ fàileadh sa ghràdh. Bha iad uile a’ coimhead air a’ chnoc.
+</body>

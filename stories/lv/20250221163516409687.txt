@@ -1,0 +1,33 @@
+<prompt>
+Please write a creative and original Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Trīs sivēntiņu jaunais mājoklis un kā viņi cīnījās ar vētru.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>lv</lang_id>
+
+<title>Trīs sivēntiņu jaunais mājoklis un kā viņi cīnījās ar vētru</title>
+<body>Reiz sen senos laikos, mazā, skaistā Latvijas ciematā, dzīvoja trīs sivēntiņi - Viļums, Jānis un Mārtiņš. Viņi bija vislabākās draugus un kopā ar saviem vecākiem dzīvoja mazā, koka mājā ciemata malā. Tomēr, kā jau visi zinām, sivēntiņi aug un izaug, un drīz vien viņiem vajadzēja jauns mājoklis, kur varētu dzīvot patstāvīgi.
+
+Tāpēc viņi nolēma celt savu jauno mājokli. Viļums, kuram patika būvniecība, Jānis, kuram patika mežs un koks, un Mārtiņš, kuram patika dārzkopība, kopā strādāja, lai celtu savu jauno mājokli. Tie bija smieklieni un darba pilni dieni, bet beigās viņi bija gatavi savu jauno mājokli atīstīt.
+
+Jaunais mājoklis bija skaists un ērtīgs, ar lielu dārzu, kur Mārtiņš varēja audzēt savus kaimiņus, un mazām istabām, kur katrs no viņiem varēja iekārtot savu patīermoju. Viļums iekārtoja savu būvniecības darbnīcu, Jānis iekārtoja savu meža koka darbnīcu, un Mārtiņš iekārtoja savu dārzkopības darbnīcu.
+
+Tomēr, drīz pēc tam, kad viņi bija pārcēlušies uz savu jauno mājokli, ciemats tika piemērots lielai vētram. Vētra bija ļoti spēcīga un sāka izpostīt ciemata ēkas un koku. Trīs sivēntiņi zināja, ka viņiem ir jācīnās ar vētru, lai saglabātu savu jauno mājokli.
+
+Viļums, Jānis un Mārtiņš strādāja kopā, lai nostiprinātu savu mājokli un dārzu. Viņi nostiprināja jumtu, noslēdza logus un durvis, un sagatavoja savus dārza kokus, lai tie neaizkļūtu vētras spēkā. Bet vētra bija ļoti stipra un sāka izpostīt mājokli.
+
+Viņi zināja, ka viņiem ir jāatīstas dažas jaunas idejas, lai cīnītos ar vētru. Tāpēc Viļums, kuram patika būvniecība, ierosināja uzcelt aizsargmūri ap savu mājokli, lai aizsargātos no vētras spēka. Jānis, kuram patika mežs un koks, ierosināja iziet mežā un noskaldīt koku zarus, lai tie neaizkļūtu vētras spēkā. Un Mārtiņš, kuram patika dārzkopība, ierosināja nosūknēt smiltis un akmens, lai nostiprinātu savu dārzu.
+
+Trīs sivēntiņi strādāja kopā, lai īstenotu savas idejas. Viņi uzceļa aizsargmūri ap savu mājokli, noskaldīja koku zarus un nosūknēja smiltis un akmens. Un, pēc ilgas un smagas darba, viņi bija gatavi cīnīties ar vētru.
+
+Vētra turpinājās, bet trīs sivēntiņu mājoklis un dārzs bija drošībā. Aizsargmūris aizsargāja mājokli no vētras spēka, noskaldītie koku zari neaizkļūja vētras spēkā, un nosūknētie smiltis un akmens nostiprināja dārzu. Trīs sivēntiņi bija ļoti laimīgi un pateicīgi, ka viņi bija spējuši cīnīties ar vētru un saglabāt savu jauno mājokli.
+
+Pēc vētras beigām, ciemats atgriezās normālajā dzīvē. Trīs sivēntiņi atjaunoja savu mājokli un dārzu, un turpināja dzīvot savā jaunajā mājoklī. Viņi bija ļoti laimīgi un pateicīgi, ka viņi bija spējuši cīnīties ar vētru un saglabāt savu jauno mājokli. Un viņi zināja, ka viņi vienmēr būs spējīgi cīnīties ar jebkādiem štormiem, ja vien viņi strādās kopā un atbalsta viens otru.
+
+Trīs sivēntiņu stāsts par to, kā viņi cīnījās ar vētru, kļuva par leģendu ciemā. Un visi ciemata iedzīvotāji zināja, ka trīs sivēntiņi - Viļums, Jānis un Mārtiņš - bija brīnišķīgi draugi, kas vienmēr bija gatavi cīnīties ar jebkādiem štormiem un saglabāt savu mājokli un dārzu. Un viņi dzīvoja laimīgi visu mūžu, cīnoties ar vētrām un saglabājot savu jauno mājokli.</body>

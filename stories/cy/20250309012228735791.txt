@@ -1,0 +1,51 @@
+<prompt>
+Please write a timeless Welsh children's story that is at least 1000 words long.
+It must be completely written in proper Welsh (CY).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Y Llygoden yn y Llyfr: Anturiaethau mewn Byd o Straeon Annisgwyl.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>cy</lang_id>
+
+<title>Y Llygoden yn y Llyfr: Anturiaethau mewn Byd o Straeon Annisgwyl</title>
+<body>Roedd llygoden fach, o'r enw Llew, yn byw mewn llyfrgell fawr a oedd yn perthyn i'r Brenin. Roedd y llyfrgell yn llawn o lyfrau hynod a straeon am wledydd pell, ac roedd Llew yn caru darllen am anturiaethau'r cymeriadau yn y straeon hyn.
+
+Un diwrnod, wrth i Llew fynd drwy'r silffoedd, daeth o hyd i lyfr hynod. Roedd y lyfr yn edrych fel petai wedi ei wneud o bren, ac roedd y clawr yn cael ei addurno â chynffonau aur. Llew oedd yn chwilfrydig iawn, a phenderfynodd agor y lyfr i weld beth oedd ynddo.
+
+Wrth i Llew agor y lyfr, sylweddodd fod y dudalen gyntaf yn llawn o geiriau a oedd yn edrych fel petai wedi eu hysgrifennu mewn iaith anhysbys. Ond wrth i Llew fynd yn ddyfnach i mewn i'r lyfr, dechreuodd y geiriau i newid, a daethant i fod yn iaith Gymraeg. Roedd y straeon yn y lyfr yn hynod, ac roedd Llew yn caru darllen am anturiaethau'r cymeriadau.
+
+Yn y straeon, roedd cymeriad o'r enw Gwyn, a roedd yn fachgen ifanc oedd yn byw mewn pentref bach yn y mynyddoedd. Roedd Gwyn yn caru mynd ar anturiaethau, ac roedd yn hoff iawn o chwilio am drysor. Un diwrnod, daeth Gwyn o hyd i fap a oedd yn arwain at drysor, ac roedd yn penderfynol i'w chwilio.
+
+Gwyn a dechreuodd ei daith, a theithiodd trwy'r mynyddoedd a'r coedwigoedd. Daeth o hyd i lawer o anifeiliaid, megis ceirw a moch, ac roedd yn hoff iawn o'u gweld. Ond roedd Gwyn hefyd yn wyrdroedig, ac roedd yn ofni'r tywyllwch. Felly, penderfynodd aros mewn ogof bach am y nos, ac roedd yn gwylltio am y bore.
+
+Yn y bore, dechreuodd Gwyn ei daith eto, a theithiodd trwy'r mynyddoedd a'r coedwigoedd. Daeth o hyd i afon, ac roedd yn rhaid iddo groesi. Gwyn oedd yn ofni'r dŵr, ond roedd yn gwylltio am y drysor. Felly, penderfynodd croesi'r afon, a theithiodd i'r llan.
+
+Yn y llan, daeth Gwyn o hyd i gastell, ac roedd yn edrych fel petai wedi ei wneud o gerrig. Roedd y castell yn perthyn i'r Brenin, ac roedd Gwyn yn chwilfrydig iawn. Penderfynodd mynd i mewn i'r castell, ac roedd yn edrych am y drysor.
+
+Yn y castell, daeth Gwyn o hyd i lawer o bethau hynod, megis arfau a dillad. Roedd yn hoff iawn o'r pethau hyn, ac roedd yn caru eu gweld. Ond roedd Gwyn hefyd yn chwilfrydig, ac roedd yn ofni'r Brenin. Felly, penderfynodd mynd i weld y Brenin, ac roedd yn gwylltio am y drysor.
+
+Yn y neuadd, daeth Gwyn o hyd i'r Brenin, ac roedd yn edrych fel petai wedi ei wneud o aur. Roedd y Brenin yn hoff iawn o Gwyn, ac roedd yn caru ei stori. Penderfynodd roi'r drysor i Gwyn, ac roedd yn gwylltio am ei daith.
+
+Gwyn a dychwelodd i'w bentref, ac roedd yn hoff iawn o'r drysor. Roedd yn caru ei gweld, ac roedd yn chwilfrydig iawn. Penderfynodd mynd ar anturiaethau eraill, ac roedd yn gwylltio am y dyfodol.
+
+Llew oedd yn caru straeon am Gwyn, ac roedd yn chwilfrydig iawn. Penderfynodd darllen mwy am anturiaethau Gwyn, ac roedd yn gwylltio am y straeon. Wrth i Llew fynd yn ddyfnach i mewn i'r lyfr, daeth o hyd i straeon eraill am Gwyn, ac roedd yn caru eu darllen.
+
+Yn y straeon, roedd Gwyn yn mynd ar anturiaethau eraill, ac roedd yn chwilfrydig iawn. Daeth o hyd i lawer o bethau hynod, megis anifeiliaid a phethau bach. Roedd yn hoff iawn o'r pethau hyn, ac roedd yn caru eu gweld. Ond roedd Gwyn hefyd yn wyrdroedig, ac roedd yn ofni'r tywyllwch. Felly, penderfynodd aros mewn ogof bach am y nos, ac roedd yn gwylltio am y bore.
+
+Yn y bore, dechreuodd Gwyn ei daith eto, a theithiodd trwy'r mynyddoedd a'r coedwigoedd. Daeth o hyd i afon, ac roedd yn rhaid iddo croesi. Gwyn oedd yn ofni'r dŵr, ond roedd yn gwylltio am y drysor. Felly, penderfynodd croesi'r afon, a theithiodd i'r llan.
+
+Yn y llan, daeth Gwyn o hyd i gastell, ac roedd yn edrych fel petai wedi ei wneud o gerrig. Roedd y castell yn perthyn i'r Brenin, ac roedd Gwyn yn chwilfrydig iawn. Penderfynodd mynd i mewn i'r castell, ac roedd yn edrych am y drysor.
+
+Yn y castell, daeth Gwyn o hyd i lawer o bethau hynod, megis arfau a dillad. Roedd yn hoff iawn o'r pethau hyn, ac roedd yn caru eu gweld. Ond roedd Gwyn hefyd yn chwilfrydig, ac roedd yn ofni'r Brenin. Felly, penderfynodd mynd i weld y Brenin, ac roedd yn gwylltio am y drysor.
+
+Yn y neuadd, daeth Gwyn o hyd i'r Brenin, ac roedd yn edrych fel petai wedi ei wneud o aur. Roedd y Brenin yn hoff iawn o Gwyn, ac roedd yn caru ei stori. Penderfynodd roi'r drysor i Gwyn, ac roedd yn gwylltio am ei daith.
+
+Gwyn a dychwelodd i'w bentref, ac roedd yn hoff iawn o'r drysor. Roedd yn caru ei gweld, ac roedd yn chwilfrydig iawn. Penderfynodd mynd ar anturiaethau eraill, ac roedd yn gwylltio am y dyfodol.
+
+Llew oedd yn caru straeon am Gwyn, ac roedd yn chwilfrydig iawn. Penderfynodd darllen mwy am anturiaethau Gwyn, ac roedd yn gwylltio am y straeon. Wrth i Llew fynd yn ddyfnach i mewn i'r lyfr, daeth o hyd i straeon eraill am Gwyn, ac roedd yn caru eu darllen.
+
+Yn y straeon, roedd Gwyn yn mynd ar anturiaethau eraill, ac roedd yn chwilfrydig iawn. Daeth o hyd i lawer o bethau hynod, megis anifeiliaid a phethau bach. Roedd yn hoff iawn o'r pethau hyn, ac roedd yn car

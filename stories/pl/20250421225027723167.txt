@@ -1,0 +1,59 @@
+<prompt>
+Please write a emotional Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Przygody Mądrego Bobra, Budującego Wielką Tamę nad Rzeką.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pl</lang_id>
+
+```xml
+<title>Przygody Mądrego Bobra, Budującego Wielką Tamę nad Rzeką.</title>
+<body>
+Dawno, dawno temu, w samym sercu malowniczej Doliny Słonecznej, gdzie rzeka Bystra wiła się jak srebrna wstążka, mieszkał młody bóbr o imieniu Kajtek. Kajtek nie był zwyczajnym bobrem. Owszem, uwielbiał pływać, żuć drewno i budować domy, ale miał w sobie coś więcej - mądrość. Wiedział, że życie w Dolinie jest kruche, a przyszłość zależna od ochrony jej zasobów. Dlatego marzył o zbudowaniu tamy, potężnej i pięknej, która ochroni dolinę przed suszą i powodzią.
+
+Mimo swojego zapału, Kajtek był jeszcze młody i nie miał wielkiego doświadczenia. Inne bobry, starsze i bardziej doświadczone, patrzyły na jego plany z pobłażaniem. "Zbyt ambitne, Kajtku! Za duże wyzwanie!" – mówiły. "Lepiej skup się na mniejszych sprawach. Naucz się dobrze gryźć drewno i budować solidny dom!"
+
+Ale Kajtek nie zrażał się. Każdego dnia obserwował rzekę, uczył się jej nurtu, obserwował zachowanie drzew, które mogłyby być materiałem budowlanym. Zaprzyjaźnił się z mądrym starym dębem, który rósł nad brzegiem. Dąb, choć nieruchomy, był świadkiem wielu przemian i opowiadał Kajtkowi historie o dawnych czasach, o surowych zimach i gorących latach, o powodziach i suszach.
+
+"Mądrość tkwi w uważności, Kajtku" – szeptał dąb, kołysząc gałęziami. "Zauważaj szczegóły, słuchaj rzeki, ucz się od natury. Ona jest najlepszym nauczycielem."
+
+Kajtek posłuchał rady dębu. Uczył się rozpoznawać gatunki drzew, poznawał właściwości różnych rodzajów drewna. Wiedział, które są twarde i mocne, a które giętkie i elastyczne. Obserwował ptaki budujące gniazda, ucząc się technik splatania gałązek i mocowania ich do podłoża. Zrozumiał, że każda gałązka, każdy kamień, każda cząstka ziemi ma swoje znaczenie w budowie.
+
+Z czasem, Kajtek zaczął budować małe zapory. Testował różne metody, eksperymentował z kątami nachylenia, obserwował, jak woda przepływa, jak reaguje na zmiany w budowli. Uczył się na błędach. Nie poddawał się, nawet gdy małe tamy pękały i woda przelewała się z impetem.
+
+Pewnego dnia, w Dolinie pojawiły się kłopoty. Deszcze ustały, rzeka zaczęła wysychać. Woda stawała się mętna, a ryby miały trudności z oddychaniem. Mieszkańcy doliny, od wiewiórek po zające, martwili się o przyszłość.
+
+Wtedy Kajtek wystąpił przed całą społecznością. "Moi drodzy!" – zawołał donośnym głosem. "Nadszedł czas, byśmy zbudowali wielką tamę! Damę, która przechowa wodę na trudne czasy i ochroni nas przed suszą!"
+
+Inne bobry popatrzyły po sobie, zaskoczone. Przez chwilę zapanowała cisza, a potem starszy bóbr, ojciec Kajtka, wystąpił naprzód. "Kajtku, synu, wiemy, że ciężko pracowałeś. Jesteś dzielny i uparty. Ale to zadanie wydaje się niemożliwe..."
+
+Kajtek uśmiechnął się. "Wiem, że będzie trudno, ale jestem pewien, że damy radę, jeśli połączymy siły. Mam plan, a wspólnie możemy go zrealizować!"
+
+I tak rozpoczęła się wielka budowa. Kajtek przedstawił swój plan, który był efektem wielu miesięcy obserwacji i eksperymentów. Najpierw trzeba było wybrać odpowiednie miejsce, tam gdzie rzeka zwężała się i miała mocne brzegi. Potem należało ściąć odpowiednie drzewa, starannie je obrobując i transportując do budowy. Potem wbijano mocne pale w dno rzeki, a pomiędzy nie wplatano gałęzie, kamienie i glinę, uszczelniając całość.
+
+Praca była ciężka. Bobry gryzły drewno, transportowały gałęzie, nosiły kamienie. Inne zwierzęta, widząc zaangażowanie bobrów, również zaczęły pomagać. Wiewiórki zbierały orzechy, które można było wykorzystać jako pożywienie dla budowniczych. Zające przynosiły kamienie. Ptaki przynosiły pióra i puch, które miały uszczelniać szczeliny. Nawet leniwy niedźwiedź, widząc zapał Kajtka, wziął się do roboty, pomagając przenosić największe pnie drzew.
+
+Kajtek, mimo młodego wieku, okazał się świetnym liderem. Motywował innych, dzielił zadania, dbał o to, żeby wszyscy czuli się ważni i potrzebni. Mówił im o celu, o tym, że budują przyszłość Doliny.
+
+Praca trwała długo, ale duch wspólnoty dodawał sił. Nocą, przy świetle księżyca, bobry śpiewały piosenki, opowiadając o swojej odwadze i determinacji. Czuły się zjednoczone, dumni z tego, co robią.
+
+Po wielu miesiącach, tama stanęła dumnie w poprzek rzeki Bystrej. Była potężna i piękna, a jej budowa była dowodem na to, że marzenia mogą się spełniać, jeśli pracuje się ciężko i wierzy w siebie.
+
+Woda zaczęła się gromadzić w zbiorniku za tamą, tworząc jezioro, które odbijało słońce. Rzeka Bystra znów miała swój rytm, a woda w niej stała się czysta i pełna życia. Ryby wróciły, a drzewa nad brzegiem znów zaczęły kwitnąć.
+
+Kajtek został bohaterem Doliny Słonecznej. Jego mądrość i determinacja zainspirowały wszystkich do ciężkiej pracy i troski o środowisko. Inne bobry zrozumiały, że wiek nie jest przeszkodą, jeśli ma się wizję i chce się zmieniać świat.
+
+Z czasem, Kajtek nauczył się jeszcze wielu rzeczy. Nauczył się dbać o tamę, naprawiać ją, gdy wymagała naprawy. Nauczył się kontrolować poziom wody, tak by chronić zarówno dolinę, jak i rzekę poniżej tamy. Zrozumiał, że budowa tamy to dopiero początek, a ochrona środowiska to ciągły proces.
+
+Pewnego dnia, nadeszła kolejna surowa zima. Deszcze i topniejący śnieg spowodowały gwałtowne wezbranie rzeki. Woda podniosła się do samego szczytu tamy. Inne bobry zmartwiły się, ale Kajtek był spokojny. Zaufał swojej wiedzy, swojemu doświadczeniu i solidności tamy.
+
+Tama wytrzymała! Dzięki jej sile, Dolina Słoneczna została ochroniona przed powodzią. Kajtek uświadomił sobie, że jego praca ma ogromne znaczenie, a mądrość to nie tylko wiedza, ale także odwaga, troska i umiejętność słuchania innych.
+
+Od tego czasu, Kajtek był wzorem do naśladowania dla młodych bobrów. Uczył ich nie tylko, jak budować tamy, ale także, jak dbać o środowisko, jak być odważnym i jak wierzyć w siebie. A Dolina Słoneczna, dzięki mądrości i wytrwałości młodego bobra, stała się jeszcze piękniejsza i bezpieczniejsza, miejscem, gdzie życie kwitło w harmonii z naturą. I tak, dzięki Kajtkowi, Dolina Słoneczna rozkwitała przez długie lata, będąc przykładem harmonijnego współistnienia natury i ludzkich starań. I chociaż lata mijały, pamięć o młodym bobrze, który zbudował wielką tamę, nigdy nie wygasła. Jego historia była opowiadana z pokolenia na pokolenie, jako przypomnienie o potędze mądrości, odwadze i współpracy.
+</body>
+```

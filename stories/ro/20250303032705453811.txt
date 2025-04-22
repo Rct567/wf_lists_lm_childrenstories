@@ -1,0 +1,37 @@
+<prompt>
+Please write a light-hearted Romanian children's story that is at least 1000 words long.
+It must be completely written in proper Romanian (RO).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Regatul Secret al Broaștelor Dansatoare'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>ro</lang_id>
+
+<title>Regatul Secret al Broaștelor Dansatoare</title>
+<body>
+În inima unui lac strălucitor, ascuns printre stufărișuri parfumate și flori de nufăr delicate, exista un regat secret. Nu era un regat construit din piatră și turnuri înalte, ci un regat al broaștelor.  Nu broaște obișnuite, ci broaște dansatoare!
+
+Printre ele domnea Mica, o broască verde ca smaraldul, cu ochii mari și strălucitori, ca niște perle albastre. Mica, o broască deosebit de talentată, iubea muzica și dansul mai mult decât orice altceva. Fiecare dimineață, la răsăritul soarelui, se aduna o mulțime de broaște, mari și mici, din toate colțurile lacului, pentru a asculta și a participa la spectacolul ei unic.
+
+Ziua începea cu o piesă de clarinet interpretată de o broască numită Clarinet, cu o voce dulce și un clarinet minunat realizat din tulpina unui stuf. Apoi, dansul începea.
+
+Prima a dansat Liliana, o broască elegantă cu picioare lungi și o rochiță din flori de păpădie.  Mișcările ei erau grațioase, asemenea fluturilor în zbor, dansând cu eleganță și fermitate.  Urma  George, un broască voios și agil, dansând cu pasiuni rapide ca fluturașii prin iarba înaltă, făcând rotiri și saltari energice, făcând o salată de frunze de nufăr cu un farfuricel din scoică.
+
+Broaștele dansează cu pasiune si talent: iar unele, cu picioarele lungi și subțiri, dansau ca niște balerini profesioniști, în timp ce altele, mici și rotunde, executau pași grațiosi și agili, ca niște păsări în zbor.   Unele își combinau mișcările într-un dans complex, cu diferite forme și ritmuri, învățând în fiecare zi.
+
+Fiecare dans era o poveste în sine:  un dans al fluturilor, un dans al pădurii, un dans al soarelui ce-și petrecea timpul vesel printre ele, dansând cu razele sale călduroase!  Uneori, broaștele dansează la lună plină. Lumina ei minunată le face ochii să strălucească,  transformatându-le într-o oaspete frumoasă printre altele.  Toate acestea le dau frumusețe de nedescris.
+
+Într-o zi, însă, norii se adunară peste lac și furtuna se apropia.  Ploaia veni la întâlnire cu un ton zgomotos. Toate broaștele se adunară, îngrijorate, sub un imens trunchi de copac. Mica le explica că vor sta acolo și că, oricum ar fi furtuna, vor rezista! Vor cânta, vor dansa și se vor distra împreună până la apus.
+
+Furtuna se dezlănțui.  Viscolul bătea la ușa caselor lor, cerul era plin de fulgere și tunete!  Broaștele, însă, dansară sub copac, îmbrățișându-se pentru căldură și sprijin.   Dansau un dans al puterii și al perseverenței, dansând mai mult, mult mai mult decât în zilele clare.  Ritmul și bucuria lor străpungea furtuna. Ploaia le biciuia corpurile, dar zâmbetul, veselia și bucuria răzbeau.
+
+Când furtuna s-a domolit, soarele străluci, învăluit într-un curcubeu sclipitor. Broaștele ieșiră de sub copac, cu lacrimi de bucurie.  Toate fuseseră martori ale curajozității lor și erau atât de încântate.
+
+De atunci,  Regatul Secret al Broaștelor Dansatoare a devenit și mai faimos.  Broaștele, mai fericite decât oricând, continuau să cânte și să danseze, demonstrând lumii întregi că bucuria și armonia pot exista pretutindeni, chiar și în cel mai modest, minunat, si  surprinzator regat secret.  Spectacolele lor încântau nu doar animalele, dar şi oamenii curioşi de pe marginea lacului.  Nimeni nu le putea ignora, sau neglija dansul lor!
+
+Chiar și astăzi, zvonuri despre regatul misterios al broaștelor dansatoare se aud în jurul lacului, făcând oamenii sa se întrebe dacă e adevărat și să dorească să viziteze vreodată locul! Și, cine știe... poate cineva va descoperi, într-o zi, ușa magică și misterioasă care duce spre regatul secret!
+</body>

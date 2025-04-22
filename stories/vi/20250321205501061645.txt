@@ -1,0 +1,76 @@
+<prompt>
+Please write a silly Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Bé Uyên và trò chơi cùng búp bê.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>vi</lang_id>
+
+```xml
+<title>Bé Uyên và trò chơi cùng búp bê.</title><body>
+Ngày xửa ngày xưa, ở một ngôi nhà nhỏ xinh xắn, nơi có những chiếc đèn lồng rực rỡ treo trước hiên, có một cô bé tên là Uyên. Uyên có đôi mắt to tròn, mái tóc đen nhánh như nhung và nụ cười tươi rói. Uyên yêu thích nhất là chơi với những con búp bê của mình. Mỗi con búp bê lại mang một cái tên thật đặc biệt và một tính cách riêng biệt trong trí tưởng tượng phong phú của Uyên.
+
+Con búp bê đầu tiên của Uyên tên là Mít-tờ Bột. Mít-tờ Bột có vẻ ngoài hết sức… bột! Đúng vậy, thân hình của Mít-tờ Bột mềm mại như bánh bột nếp, màu trắng ngà như những áng mây trôi lững lờ trên bầu trời. Mít-tờ Bột luôn mang vẻ mặt ngơ ngác, miệng hé mở như muốn ăn… bánh bột. Uyên thích nhất là cho Mít-tờ Bột ăn “bánh bột ảo” làm từ trí tưởng tượng của mình.
+
+Con búp bê thứ hai là Cô Ba Tôm. Cô Ba Tôm có làn da hồng hào, đôi mắt sáng lấp lánh như hai hạt cườm đỏ. Cái tên Cô Ba Tôm là do Uyên đặt, vì cô bé nghĩ Cô Ba Tôm giống hệt một con tôm hùm bé bỏng, vừa kiêu sa vừa dễ thương. Cô Ba Tôm rất thích mặc những bộ váy lộng lẫy, thích đi dự tiệc và đặc biệt, thích kể chuyện cười, mặc dù đôi khi chuyện cười của cô… không ai hiểu.
+
+Con búp bê cuối cùng là Anh Hai Gióng. Anh Hai Gióng có thân hình cao lớn (ít nhất là theo tiêu chuẩn của búp bê), tóc rối bù như tổ quạ, và lúc nào cũng đeo một chiếc kính râm đen. Anh Hai Gióng là một anh chàng rất mạnh mẽ và dũng cảm. Uyên tưởng tượng Anh Hai Gióng là một siêu anh hùng, có thể bay lượn trên không trung, giải cứu thế giới khỏi những con rồng phun lửa và những kẻ xấu xa.
+
+Một buổi sáng nọ, ánh nắng vàng ươm len lỏi qua khung cửa sổ, đánh thức Uyên dậy. Cô bé dụi mắt, ngáp một cái thật to rồi tung chăn ra khỏi giường. Hôm nay là một ngày thật đặc biệt, vì Uyên quyết định tổ chức một trò chơi thật lớn với các bạn búp bê của mình.
+
+"Mít-tờ Bột ơi, Cô Ba Tôm ơi, Anh Hai Gióng ơi!" Uyên gọi lớn, giọng nói đầy hưng phấn. "Chúng mình cùng nhau đi phiêu lưu nào!"
+
+Mít-tờ Bột vẫn ngơ ngác như mọi khi, nhưng dường như đôi mắt “bột” của cậu đã sáng lên một chút. Cô Ba Tôm nhanh nhảu đáp lời: "Tuyệt vời! Nhưng chúng ta sẽ đi đâu, Uyên ơi?" Còn Anh Hai Gióng thì gật gù, chỉnh lại chiếc kính râm một cách đầy bí ẩn.
+
+Uyên cười khúc khích: "Chúng ta sẽ đi khám phá Vùng Đất Kẹo Ngọt! Ở đó có rất nhiều kẹo dẻo hình gấu, socola hình ếch, và cả… hồ nước ngọt làm từ nước ngọt có ga!"
+
+Nghe đến Vùng Đất Kẹo Ngọt, cả ba búp bê đều vô cùng phấn khích. Uyên chuẩn bị thật nhiều thứ cho cuộc hành trình. Đầu tiên, cô lấy ra một chiếc giỏ xách màu hồng, bên trong đựng đầy những “thức ăn” ảo dành cho các búp bê, gồm những chiếc lá xanh làm "bánh sandwich", những cành hoa làm "bắp rang bơ", và cả một hòn đá cuội nhỏ xíu được Uyên gọi là “bánh kem dâu tây”.
+
+Tiếp theo, Uyên chọn một chiếc “xe ô tô” bằng… chậu nhựa của mẹ. Cô bé đặt Mít-tờ Bột, Cô Ba Tôm và Anh Hai Gióng vào trong xe, rồi tự mình lái xe đi đến Vùng Đất Kẹo Ngọt. Tất nhiên, để chiếc xe di chuyển được, Uyên phải dùng hết sức bình sinh của mình để kéo lê chiếc chậu nhựa trên sàn nhà.
+
+"Vù vù vù! Chúng ta đang đi trên đường cao tốc!" Uyên giả vờ hét lên, miệng cười toe toét. Cô bé còn không quên tạo ra những tiếng “bíp bíp” giả để làm thêm không khí.
+
+Cuộc hành trình đến Vùng Đất Kẹo Ngọt gặp phải một vài “khó khăn” nhỏ. Đầu tiên, chiếc xe ô tô (tức cái chậu nhựa) bị mắc kẹt dưới gầm bàn. Uyên phải mất một lúc lâu mới lôi được nó ra. Tiếp theo, Mít-tờ Bột liên tục hỏi “Khi nào thì đến nơi?”, và Cô Ba Tôm thì khóc lóc vì “xe” đi quá xóc, khiến chiếc váy lộng lẫy của cô bị nhàu. Anh Hai Gióng thì vẫn im lặng, nhưng Uyên biết chắc chắn anh chàng đang suy nghĩ xem sẽ phải dùng siêu năng lực gì để giúp đỡ đồng đội của mình.
+
+Cuối cùng, sau một hồi nỗ lực không ngừng, Uyên cũng "lái xe" đến được Vùng Đất Kẹo Ngọt. Uyên mở nắp chiếc giỏ xách, và bắt đầu “cho” các bạn búp bê ăn. Mít-tờ Bột ăn hết veo những chiếc lá xanh, Cô Ba Tôm lại khéo léo “gặm” cành hoa như đang thưởng thức món bắp rang bơ thượng hạng, còn Anh Hai Gióng thì ung dung “ăn” viên “bánh kem dâu tây” bằng… cách nhìn chằm chằm vào nó.
+
+Bất ngờ, một cơn “mưa” từ trên trời ập xuống. Thì ra, Uyên vô tình làm đổ cốc nước, khiến cả "Vùng Đất Kẹo Ngọt" trở nên ướt sũng. Uyên hốt hoảng lấy khăn giấy lau khô cho các bạn búp bê.
+
+"Chúng ta phải tìm chỗ trú mưa thôi!" Uyên kêu lên, mắt nhìn quanh.
+
+Cô bé quyết định dùng một chiếc hộp giấy to làm “nhà”. Uyên đặt Mít-tờ Bột, Cô Ba Tôm và Anh Hai Gióng vào trong hộp, rồi lấy thêm vài chiếc khăn giấy trải xuống làm "chăn". Trong khi chờ mưa tạnh, Uyên bắt đầu kể chuyện cười cho Cô Ba Tôm, làm mặt hề cho Mít-tờ Bột, và bày ra trò chơi siêu nhân cho Anh Hai Gióng.
+
+"Anh Hai Gióng ơi, hãy dùng siêu năng lực của anh để… thổi bay những đám mây mưa đi!" Uyên hào hứng nói.
+
+Anh Hai Gióng liền “ra sức” thổi, mặt đỏ bừng, miệng phồng ra như muốn nổ tung. Tất nhiên, những đám mây mưa vẫn ở nguyên vị trí, nhưng Uyên và các búp bê vẫn cười ồ lên vì trò chơi này.
+
+Sau một hồi lâu, mưa cũng tạnh. Ánh nắng lại chiếu rọi vào Vùng Đất Kẹo Ngọt. Uyên mở cửa "nhà", đưa các bạn búp bê ra ngoài.
+
+"Chúng ta hãy cùng nhau đi khám phá Vùng Đất Kẹo Ngọt tiếp thôi!" Uyên vui vẻ nói.
+
+Cô bé lại đặt các búp bê vào trong chiếc chậu nhựa, và bắt đầu kéo xe đi. Lần này, Uyên quyết định “lái xe” đi vòng quanh căn phòng. Cô bé cho các búp bê “thăm quan” hết ngóc ngách này đến ngóc ngách khác.
+
+"Đây là đồi Socola, kia là sông Nước Ngọt, còn kia là… rừng kẹo dẻo!" Uyên vừa chỉ tay vừa kể chuyện một cách say sưa.
+
+Đột nhiên, Uyên dừng lại. Cô bé nhìn thấy một “khu vườn” bí ẩn sau cánh cửa tủ quần áo. Uyên quyết định mở cánh cửa ra để khám phá.
+
+Bên trong cánh cửa tủ, không có gì ngoài… những bộ quần áo của mẹ. Nhưng trong mắt Uyên, đó là một khu vườn bí mật, nơi có những bông hoa lấp lánh, những con bướm đủ màu sắc, và cả những… con rồng đang ngủ say.
+
+"Anh Hai Gióng ơi, hãy đánh thức những con rồng dậy đi!" Uyên thì thầm.
+
+Anh Hai Gióng lập tức “tỉnh dậy”. Anh chàng “xông” vào “khu vườn”, “đấu tay đôi” với những con rồng. Cô Ba Tôm thì cổ vũ bằng những tràng cười giòn tan. Mít-tờ Bột vẫn ngơ ngác, nhưng dường như cậu đang tận hưởng không khí vui vẻ xung quanh.
+
+Trò chơi của Uyên cứ thế tiếp diễn. Cô bé khám phá ra những điều mới mẻ trong chính ngôi nhà của mình, và chia sẻ những niềm vui với các bạn búp bê.
+
+Khi mặt trời ngả bóng, Uyên mệt nhoài nhưng vô cùng hạnh phúc. Cô bé ôm các bạn búp bê vào lòng, thủ thỉ:
+
+"Các bạn ơi, hôm nay chúng mình đã có một ngày thật tuyệt vời. Ngày mai chúng ta sẽ cùng nhau đi phiêu lưu tiếp nhé!"
+
+Uyên đặt các búp bê lên giường, rồi tự mình leo lên nằm cạnh. Cô bé nhắm mắt lại, và mỉm cười. Trong giấc mơ của Uyên, Vùng Đất Kẹo Ngọt vẫn tiếp tục mở rộng, với những điều kỳ diệu luôn chờ đón cô và những người bạn búp bê.
+</body>
+```

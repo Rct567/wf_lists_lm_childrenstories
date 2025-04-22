@@ -1,0 +1,38 @@
+<prompt>
+Please write a simple and easy-to-follow Slovenian children's story that is at least 1000 words long.
+It must be completely written in proper Slovenian (SL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Otroški pevci in njihov velik uspeh'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>sl</lang_id>
+
+<title>Otroški pevci in njihov velik uspeh</title><body>  
+V majhni vasici sredi gozda je živela skupina otrok, ki so imeli eno veliko strast – petje. Vsak večer, ko je sonce zahajalo za hribe, so se zbrali na travniku ob potoku in peli pesmi, ki so jih naučili od starih, od mame ali pa so si jih sami izmislili. Njihovi glasovi so se mešali s šumenjem vode in šepetanjem vetra, kar je ustvarjalo čarobno vzdušje.
+
+Enega dne je vas obiskal potujoči glasbenik, ki je slišal otroški pevce. Bil je tako navdušen nad njihovim petjem, da jih je povabil na veliki tekmovanje otroških pevcev v glavnem mestu. Otroci so bili navdušeni, a tudi malo prestrašeni. Nikoli še niso nastopali pred toliko ljudmi.
+
+"Kako bomo to naredili?" je vprašala mala Ana, ki je imela najvišji glas med njimi. "Ne poznamo toliko pesmi, da bi lahko nastopali na takem velikem prizorišču."
+
+"Ne skrbite," je rekel glasbenik. "Imate še cel mesec časa, da se pripravite. Naučili se boste nove pesmi in postali še boljši."
+
+Otroci so se odločili, da bodo vsak dan vadili. Zbrali so se v šolski učilnici, kjer je učiteljica Marta, ki je tudi ljubiteljica glasbe, ponudila, da jih bo učila. Naučila jih je novih pesmi, ki so bile polne življenja in radosti. Vsak otrok je imel svoj del v pesmih – nekateri so peli glavne melodije, drugi so dodajali harmonije, nekateri pa so celo igrali na tamburine in trobente.
+
+Ko se je dan tekmovanja približal, so otroci postajali vse bolj nervozni. "Kaj, če se zmotimo?" je vprašal Tim, ki je bil vedno najbolj skrben. "Kaj, če nas ljudje ne bodo razumeli?"
+
+"Ne bojte se," jih je tolažila učiteljica Marta. "Pomembno je, da se zabavate in da vaša radost zasije skozi pesem. Ljudje bodo občutili vašo ljubezen do glasbe, in to je najpomembnejše."
+
+Na dan tekmovanja so otroci vstopili v veliko dvorano, ki je bila polna ljudi. Bilo je toliko svetlob in barv, da so se počutili kot v pravljici. Ko so stopili na oder, so si globoko zavdihnili in začeli peti. Njihovi glasovi so bili tako čisti in polni čustev, da je vsa dvorana utihnila. Ljudje so poslušali z odprtimi usti in se nasmihali, ko so otroci zapeli pesem o soncu, ki se smeji na travniku.
+
+Ko so končali, je nastala tišina, ki se je zdela večna. Potem pa je dvorana eksplodirala v aplavz. Otroci so se spogledali in se nasmehnili. Vedeli so, da so naredili nekaj posebnega.
+
+Na koncu tekmovanja so sodniki razglasili zmagovalce. Ko so slišali svoje ime, so otroci skočili v zrak od veselja. Dobili so veliko plaketo in škatlo sladkarij, a najbolj pomembno je bilo to, da so se naučili, da je moč v skupnosti in v ljubezni do glasbe.
+
+Ko so se vrnili v vas, so jih vsi čakali z velikim pozdravom. Vaščani so pripravili veliko zabavo v njihovo čast, kjer so otroci znova zapeli svoje pesmi. Tisto noč so vsi spali s sladkimi sanjami, polnimi glasbe in smeha.
+
+In tako so otroški pevci iz majhne vasi postali znani po vsem kraju. Njihova zgodba je navdihnila še druge otroke, da so začeli peti in deliti svojo radost z svetom. In vsi so vedeli, da je njihov uspeh prišel ne le zaradi njihovih glasov, ampak tudi zaradi njihovega srca, ki je bilo polno ljubezni in strasti do glasbe.  
+</body>

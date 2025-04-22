@@ -1,0 +1,45 @@
+<prompt>
+Please write a simple and easy-to-follow Turkish children's story that is at least 1000 words long.
+It must be completely written in proper Turkish (TR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Canavarların Şehrinde Gizli Dünyanın İzleri'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>tr</lang_id>
+
+```xml
+<title>Canavarların Şehrinde Gizli Dünyanın İzleri</title>
+<body>
+<p>Bir zamanlar, sihirli bir diyarda, Canavarlar Şehri adında kocaman, renkli bir şehir varmış. Bu şehirde, her çeşit sevimli ve biraz da korkutucu canavar yaşarmış. Gözleri kocaman, tüyleri rengarenk, kuyrukları kıvrık, dişleri minik ya da sivri, ama hepsi de birbirinden farklı ve özelmiş. Şehrin ortasında, göğe yükselen bir tepe üzerinde, eski bir saray bulunuyormuş. Bu sarayın etrafında, devasa ağaçlar, ışıl ışıl parıldayan çiçekler ve minik nehirler varmış. </p>
+
+<p>Canavarlar Şehri’nin en meraklı canavarı, Küçük Mırnav’dı. Mırnav, mor tüylü, sarı gözlü ve küçük bir kedi gibi miyavlayan bir canavardı. Mırnav, bütün gün şehirde dolaşır, farklı maceralar ararmış. Onun en büyük hayali, Canavarlar Şehri’nin derinliklerinde gizli olan, efsanelere konu olmuş gizli dünyayı bulmaktı. Bu gizli dünyanın varlığı, sadece en eski canavar masallarında geçermiş.</p>
+
+<p>Bir gün, Mırnav yine şehrin sokaklarında koşuştururken, eski bir kitapçıda, tozlu rafların arasında parlak bir cilt görmüş. Kitaba yaklaştığında, üzerindeki garip sembolleri fark etmiş. Semboller, Mırnav’ın içini garip bir heyecanla doldurmuş. Kitabı açtığında, sayfalarından gizemli kokular yükselmiş. Kitabın sayfalarında, Canavarlar Şehri’nin haritası ve gizli dünyaya giden ipuçları varmış. Mırnav, bu fırsatı kaçıramazdı!</p>
+
+<p>Kitapta yazanlara göre, gizli dünya, eski sarayın altında gizliymiş. Ama saraya giden yol, oldukça tehlikeliymiş. Geçilmesi gereken labirentler, aşılması gereken engeller ve çözülmesi gereken bilmeceler varmış. Mırnav, cesaretini toplamış ve gizli dünyaya giden maceraya atılmaya karar vermiş. </p>
+
+<p>İlk olarak, sarayın etrafındaki devasa ağaçların yanından geçmesi gerekiyordu. Ağaçların gövdelerinde, eski canavar sembolleri kazılıydı. Kitaptaki ipuçlarına göre, sembollerin doğru sırayla okunması gerekiyordu. Mırnav, dikkatlice sembolleri incelemiş, kitabındaki bilgilerle karşılaştırmış ve doğru sırayı bulmuş. Sembolleri okuduğunda, ağaçların kökleri arasında gizli bir geçit açılmış. </p>
+
+<p>Geçitten aşağıya inen Mırnav, karanlık ve nemli bir labirente gelmiş. Labirentin duvarları, parlak yeşil ışıklarla parlıyordu. Duvarlarda, farklı canavar resimleri ve bilmeceler varmış. Mırnav, bilmeceleri çözerek labirentte ilerlemiş. Bir bilmecede, “Benim bir ağzım var ama konuşamam, bir yatağım var ama uyuyamam” yazıyormuş. Mırnav, biraz düşündükten sonra bunun bir nehir olduğunu anlamış. Diğer bir bilmecede ise, “Gündüzleri ağlar, geceleri uçar” yazıyormuş. Bu da bir buluttu. Mırnav, bilmeceleri çözdükçe labirentin daha derinlerine inmiş.</p>
+
+<p>Labirentin sonunda, büyük bir kapı bulmuş. Kapının üzerinde, garip bir kilit varmış. Kilidi açmak için, üç farklı anahtar gerekiyormuş. İlk anahtar, şehirdeki en bilge canavar olan Bay Bilge’nin yanında bulunuyormuş. Mırnav, Bay Bilge’yi bulmak için şehrin en yüksek tepesine tırmanmış. Bay Bilge, gri tüylü, kocaman gözlü bir baykuştu. Mırnav, Bay Bilge’ye amacını anlatmış ve anahtarı istemiş. Bay Bilge, Mırnav’ın cesaretine hayran kalmış ve anahtarı ona vermiş. </p>
+
+<p>İkinci anahtar, şehrin en hızlı canavarı olan Bayan Rüzgar’ın yanındaymış. Bayan Rüzgar, pembe tüylü ve kanatları olan bir kuştu. Mırnav, Bayan Rüzgar’ı bulmak için şehrin etrafında koşuşturmuş ve sonunda onu bulmuş. Bayan Rüzgar’dan anahtarı istemiş. Bayan Rüzgar, Mırnav’ın hızına hayran kalmış ve anahtarı ona vermiş. </p>
+
+<p>Üçüncü ve son anahtar, şehrin en güçlü canavarı olan Bay Taşyürek’teymiş. Bay Taşyürek, taş gibi sert, kocaman bir canavardı. Mırnav, Bay Taşyürek’i bulmak için şehrin en uzak noktasına gitmiş. Bay Taşyürek’ten anahtarı istemiş. Bay Taşyürek, Mırnav’ın cesaretine ve azmine hayran kalmış ve anahtarı ona vermiş. </p>
+
+<p>Mırnav, üç anahtarı kilide takmış ve kapı açılmış. Kapının ardında, ışıltılı bir geçit belirmiş. Geçitten geçen Mırnav, kendini bambaşka bir dünyada bulmuş. Bu dünya, Canavarlar Şehri’nin gizli dünyasıydı! Her yer rengarenk, her şey canlıydı. Ağaçlar, gökkuşağı renklerinde parlıyor, çiçekler şarkı söylüyor, nehirler melodiler çıkarıyordu. </p>
+
+<p>Gizli dünyada, Mırnav birçok farklı canavar türüyle karşılaşmış. Hepsi de mutlu ve huzurluymuş. Bu dünyada, canavarlar sihirli yeteneklerini geliştiriyor, oyunlar oynuyor ve birlikte yaşıyorlarmış. Mırnav, bu dünyaya hayran kalmış. Gizli dünyada birçok macera yaşamış. Farklı canavarlarla tanışmış, sihirli oyunlar oynamış ve birçok gizemi çözmüş. </p>
+
+<p>Bir gün, Mırnav gizli dünyadan Canavarlar Şehri’ne geri dönmeye karar vermiş. Çünkü ailesini ve arkadaşlarını özlemişti. Gizli dünyadan ayrılmadan önce, gizli dünyanın koruyucusu olan Yaşlı Bilge Canavar, Mırnav’a özel bir hediye vermiş. Bu hediye, Mırnav’ın istediği zaman gizli dünyaya geri dönebilmesini sağlayacak sihirli bir bileklikmiş. </p>
+
+<p>Mırnav, Canavarlar Şehri’ne geri döndüğünde, yaşadığı maceraları arkadaşlarına anlatmış. Arkadaşları da Mırnav gibi gizli dünyayı merak etmişler. Mırnav, onlara gizli dünyayı nasıl bulduklarını anlatmış ve onlarla birlikte tekrar gizli dünyaya gitmeye karar vermiş. Böylece, Canavarlar Şehri’nde gizli dünyanın izleri keşfedilmiş ve herkes bu sihirli dünyanın bir parçası olmuş. </p>
+
+<p>Mırnav ve arkadaşları, artık her zaman gizli dünyaya gidip gelebiliyorlardı. Gizli dünyada yeni maceralar yaşıyor, yeni arkadaşlıklar kuruyor ve sihirli dünyayı keşfetmeye devam ediyorlardı. Canavarlar Şehri ve gizli dünya arasındaki bağ hiç kopmadı. Ve bu macera, küçük Mırnav’ın cesareti sayesinde sonsuza kadar devam etti.</p>
+</body>
+```

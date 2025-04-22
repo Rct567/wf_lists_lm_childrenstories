@@ -1,0 +1,47 @@
+<prompt>
+Please write a uncomplicated Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Cesta odvážného myšáka Cipíska za ztraceným sýrem a novým domovem'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Cesta odvážného myšáka Cipíska za ztraceným sýrem a novým domovem</title>
+<body>
+Cipíšek, malý myšák s lesklými, černými očima a tlapkami jako hebké bavlněné ponožky, žil v malé, útulné díře pod starým dubem.  Jeho denní rutina se skládala z hledání zrníček, sbírání kousků sušenek a z potěšení z pohledu na světlo filtrující se skrz listí.  Ale Cipíšek nebyl obyčejný myšák.  Byl odvážný.  A právě tato odvaha se stala klíčem k jeho dobrodružství.
+
+Jednoho rána, když se Cipíšek proplétal mezi kořeny stromů, objevil neuvěřitelnou věc – obrovský, žlutý sýr!  Tento sýr, větší než Cipíškova hlavička, voněl tak lákavě, že se mu zatočila hlava.  Byl to ten nejlepší sýr, jaký kdy Cipíšek ochutnal.  A co víc, byl to sýr, který Cipíšek snil o získání už dlouho.  Cipíšek, s srdcem plným radosti a hladem, se pustil do práce.
+
+S velkou pečlivostí se proplétal bludišti kořenů a úzkých chodbiček, dokud nedosáhl úžasné jeskyně.  Vnitřek byl osvětlen záhadným zářením a plný tajemných zvuků.  Cipíšek se cítil malý a zranitelný, ale jeho odvaha ho tlačila vpřed.  V jeskyni našel úkryt za velkým kamenem, na kterém spočinul.  Cipíšek se zastavil a poslouchal divné zvuky, které zněly ze všech stran.  Hlasy šeptali záhadné věty, které Cipíšek nechápal.
+
+Najednou se otevřely dveře.  Z tmy vyšel velký, černý kočka s jménem Mňauš.  Mňauš měl krásný, tmavooký pohled, které Cipíšek nemohl ignorovat.  Srdce mu bušilo rychleji, ale Cipíšek si vzpomněl na svou odvahu.
+
+"Dobře," řekl Cipíšek tiše.  "Vy jste Mňauš?"
+
+"Ano," odpověděl Mňauš.  "A vy jste?"
+
+"Jsem Cipíšek," odpověděl myšák.  "A hledám ztracený sýr."
+
+"Ztracený sýr?"  Mňauš se zamyslel.  "Slyšel jsem o něm.  Je to kouzelný sýr, který dokáže splnit jedno přání."
+
+"To je úžasné!"  zvolal Cipíšek.
+
+"Ale," řekl Mňauš, "musíš ho najít sám.  Jen s pomocí tvých vlastních schopností."
+
+Cipíšek se zamyslel.  Mňauš byl pravdivý.  Musí se sám vypořádat s úkoly, které mu život postaví do cesty.  Cipíšek se s odhodláním ve srdci vydal na cestu.  Cesta vedla přes lesní cesty a přes malé vodní prameny.  Cipíšek potkal mnoho zvířat –  zvídavé veverky, tiché sovy, a i zábavné králíčky.  Každý mu řekl něco o ztraceném sýru a o tom, co hledá.
+
+Cipíšek se naučil, že odvaha není jen o tom, že se nenechá zastavit strachem, ale i o tom, že se dokáže podělit se o radosti s ostatními.  Od králíčka se dozvěděl, kde je nejlepší místo na hledání.  Od sovy se dozvěděl, co se skrývá za lesními stromy.  Sdílel s nimi své úkoly a oni mu pomohli na jeho cestě.
+
+Nakonec Cipíšek došel k údolí, kde rostly lesklé, zelené trávy.  A tam, na okraji údolí, se leskl ten zlatý sýr.  Cipíšek se radoval, a s velkou opatrností sýr zvedl.
+
+"Teď, když jsem našel ztracený sýr," řekl Cipíšek.  "Co si přání?"
+
+Zamyslel se.  Chtěl bezpečný a útulný domov pro sebe a své přátele.
+
+A tak Cipíšek použil kouzelný sýr a postavil si nový domov.  Byl to útulný domeček s malou zahradou a vším, co si srdce mohlo přát.  Cipíšek se stal hrdým vůdcem a vedl ostatní myšáky na cestu k novým dobrodružstvím.  A od té doby žili myšáci šťastně a spokojeně, s odvážným Cipíškem vedoucím cestu.
+</body>

@@ -1,0 +1,45 @@
+<prompt>
+Please write a silly French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'L'Ane Bavard et son Voyage autour du Monde.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+<title>L'Ane Bavard et son Voyage autour du Monde</title>
+<body>
+Il était une fois, dans un petit village pittoresque de la France, un âne nommé Anatole. Anatole n'était pas un âne comme les autres. Certes, il avait de longues oreilles, une crinière touffue et un grognement rauque, mais ce qui le distinguait le plus était sa bavardise légendaire. Anatole parlait, parlait, parlait – à tout le monde, tout le temps, de tout et de rien. Aux poules, aux vaches, aux fermiers, au vent, aux arbres... personne n'était à l'abri de ses interminables monologues.
+
+Un beau matin ensoleillé, tandis qu'Anatole broutait de l'herbe juteuse près de la rivière, une idée folle lui traversa l'esprit. "Je vais faire le tour du monde!" cria-t-il, effrayant un groupe d'oies qui s'envolèrent en battant des ailes. "Voyager! Voir des contrées lointaines! Rencontrer des créatures exotiques! Raconter mes aventures à tous!"
+
+Le projet d'Anatole enthousiasma plus que tout. Il commença aussitôt à préparer son voyage. Il emballa ses affaires dans une vieille sacoche en cuir : un chapeau ridicule orné d'une plume de paon, un harmonica légèrement rouillé, une loupe pour observer les insectes, une gourde remplie d'eau fraîche, et, bien sûr, un carnet et un crayon pour immortaliser ses récits.
+
+Le lendemain, après avoir fait ses adieux, remplis d'exclamations et de recommandations, à toutes les créatures du village (y compris au potager, qui, selon lui, semblait bien silencieux ces derniers temps), Anatole partit à l'aventure.
+
+Son premier arrêt fut la ville de Paris. "Paris! La ville des lumières, de la mode, et... de la gastronomie!" s'exclama Anatole en gambadant joyeusement sur les pavés. Il visita la Tour Eiffel (après avoir discuté avec un groupe de pigeons philosophes de l'absurdité du temps), flâna le long de la Seine (où il critiqua les coques des bateaux-mouches, manquant selon lui de fantaisie), et se perdit dans les petites rues pavées de Montmartre, bavardant avec des artistes, des mimes, et même une statue vivante.
+
+Après Paris, direction le sud ! Anatole, profitant d'un covoiturage impromptant sur le plateau d'une camionnette remplie de melons, se retrouva sur la côte méditerranéenne. Là, il découvrit les plages ensoleillées, les eaux turquoise et les glaces délicieuses. Il parla avec les mouettes, les crabes (qui étaient très mécontents des remarques d'Anatole sur leur lenteur) et les touristes, qui étaient alternativement fascinés et agacés par ses histoires incessantes.
+
+Le voyage d'Anatole le mena ensuite en Italie. "Mamma Mia! Quelle beauté!" s'écria-t-il, ébahis devant les monuments grandioses de Rome. Il visita le Colisée (où il fit des commentaires bruyants sur les spectacles d'antan, déplorant le manque de variété), la fontaine de Trevi (où il lança une pièce en demandant "Plus d'histoires intéressantes!"), et dégusta des pizzas (qu'il jugea excellentes, après une analyse minutieuse des ingrédients).
+
+Il traversa ensuite l'Égypte, où il monta à dos de chameau dans le désert (après avoir engagé de longues discussions avec le chamelier sur les mérites de la musique folklorique). Il visita les pyramides (qu'il qualifia de "monumentales, certes, mais un peu symétriques, non?"), et découvrit les mystères des hiéroglyphes, qu'il interpréta avec une créativité débordante.
+
+L'Asie fut la prochaine étape. En Chine, il participa à un concours de calligraphie (et perdit lamentablement, bien qu'il prétendît que c'était à cause de la piètre qualité du papier). Au Japon, il s'initia à l'art du haïku (et composa des poèmes absurdes sur les carottes). En Inde, il rencontra des éléphants, avec qui il partagea ses aventures (et qui, curieusement, semblèrent s'intéresser beaucoup à son histoire).
+
+Pendant ce voyage, Anatole, grâce à ses qualités innées, se fit plein d’amis à chaque coin de rue. Il partageait les plats qu'il trouvait, s'aidait aux voyageurs en difficulté, et se rendait toujours disponible, même pour un simple bavardage. Il aidait une fillette perdue au Caire, trouvait une solution créative pour faire marcher le marchand de glace de Venise, traduisait à sa manière des instructions en japonais pour une vieille dame suisse, et utilisait les morceaux de chocolat fondus récupérés de la plage pour créer un petit œuvre d’art. Ses amis rencontrés tout au long du voyage, en apprenant l’annonce de son retour, avaient organisé un grand rassemblement de tous ses compagnons de voyage pour l'accueillir.
+
+De retour en France, Anatole était un peu changé. Ses oreilles étaient couvertes de souvenirs : il s'était brûlé les oreilles dans une friture de la gastronomie chinoise, avait pris froid en Arctique et s'était abîmé un peu en traversant l’Amazone. Son chapeau, usé jusqu'à la corde, et sa sacoche, encore plus défraîchie, portaient les marques indélébiles de ses aventures extraordinaires. Il retrouva ses amis du village et se jeta dans leurs bras avec enthousiasme. Il leur raconta, pendant des jours et des nuits, toutes ses péripéties, avec force détails et moult exagérations.
+
+Un soir, après avoir fini de raconter l'épisode du poulpe parlant qu'il avait rencontré en Australie (un récit qui prit, selon ses dires, trois jours à raconter), il soupira et dit : "Voyager est merveilleux, mais rentrer chez soi, c'est encore mieux."
+
+Et malgré toute la richesse de ses voyages, malgré la fascination qu'il exerçait sur certains, son désir d'embrasser les gens qu'il aime et qui le comprennent ne l'avait jamais quitté. Il trouva que tout était devenu fade une fois revenu à la terre ferme, mais ce n’était pas grave, car tout son village était là.
+
+Depuis ce jour, Anatole, l'âne bavard, ne voyagea plus beaucoup. Il resta au village, entouré de ses amis, racontant ses aventures passées, à qui voulait l'entendre. Il continuait à parler, bien sûr, car c'était dans sa nature. Mais, à chaque histoire, il glissait une petite note d'affection et d'appréciation pour le simple fait d'être chez lui, là, avec ceux qu'il aimait. Et au fond, c'était cela, son véritable trésor.
+
+Fin.
+</body>

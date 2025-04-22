@@ -1,0 +1,74 @@
+<prompt>
+Please write a timeless Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'O ptáčkovi, který si splnil sen o hudbě'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>cs</lang_id>
+
+```cs
+<title>O ptáčkovi, který si splnil sen o hudbě</title><body>
+Kdesi v hlubokých, starých českých lesích, kde slunce prosvítalo skrz husté koruny stromů a kde potůčky zpívaly své tiché písně, žil malý, modro-zlatý ptáček jménem Slavíček. Byl to ptáček jako každý jiný, měl peříčka, zobáček a nožičky, ale v jeho srdci se ukrývalo něco výjimečného – touha po hudbě.
+
+Slavíček miloval zvuky lesa. Rád poslouchal šumění listí ve větru, bubnování deště na stromech, a dokonce i křupání suchých větviček pod nohama lesních zvířat. Ale nejvíc ze všeho toužil po tom, aby sám mohl tvořit hudbu. Sledoval velké, staré sovy, které v noci houkaly své melodie, a učil se od nich tónům. Pozoroval i včelky, které bzučely kolem květin, a snažil se napodobit jejich jemné vibrace.
+
+Každé ráno, když slunce začalo malovat les zlatými barvami, sedával Slavíček na nejvyšší větvi dubu a zkoušel zpívat. Jeho první pokusy byly spíše nesmělé cvrlikání a pištění, ale s každým dnem se jeho hlas stával silnějším a jeho melodie složitější. Zpíval o slunci, o dešti, o stromech a o všem, co viděl a cítil. Jeho píseň byla plná radosti, smutku, naděje a lásky.
+
+Ostatní ptáčci v lese se na něj dívali s úžasem. Většina z nich zpívala jednoduché, opakující se melodie, ale Slavíčkova píseň byla vždy nová a překvapivá. Někteří ho obdivovali, jiní mu záviděli, ale všichni se shodli na tom, že jeho hlas je kouzelný.
+
+Jednoho dne, když Slavíček zpíval svou nejkrásnější píseň, uslyšel ho starý, moudrý jelen, který se procházel lesem. Jelen se zastavil pod dubem a poslouchal. Jeho oči se leskly a na tváři se mu objevil jemný úsměv.
+
+"Mladý ptáčku," promluvil jelen hlubokým hlasem, "tvá píseň je nádherná. Máš v sobě dar, který je vzácný a cenný."
+
+Slavíček se zahanbil a sklonil hlavu. "Děkuji, pane jelene," odpověděl tiše. "Jen se snažím zpívat tak, jak cítím."
+
+"A to je to nejdůležitější," řekl jelen. "Ale víš, že tvá píseň by mohla být ještě krásnější? Zkus do ní zapojit i zvuky lesa. Zkus napodobit šumění listí, bubnování deště, bzučení včel. Zkus spojit všechny zvuky do jedné harmonie."
+
+Slavíček se zamyslel nad jelenovými slovy. Nikdy ho to nenapadlo. Vždy se soustředil jen na svůj vlastní hlas.
+
+"Zkusím to, pane jelene," slíbil Slavíček.
+
+A tak se Slavíček pustil do práce. Začal pozorovat zvuky lesa ještě pozorněji než dřív. Naučil se napodobovat šumění listí, bubnování deště, bzučení včel, dokonce i tiché praskání ohně v táboráku. Zkoušel kombinovat tyto zvuky s vlastním zpěvem.
+
+Ze začátku to nebylo snadné. Zvuky lesa byly složité a těžko napodobitelné. Ale Slavíček se nevzdával. Trpělivě zkoušel a zkoušel, až se mu to nakonec podařilo. Jeho písně se staly ještě bohatšími a krásnějšími.
+
+Jednou, když zpíval svou novou píseň, uslyšel ho starý, moudrý medvěd, který žil v jeskyni nedaleko. Medvěd se probudil ze zimního spánku a vyšel ven, aby zjistil, co se děje.
+
+"Co to slyším?" zamručel medvěd. "To je nejkrásnější píseň, jakou jsem kdy slyšel!"
+
+Slavíček byl šťastný. Jeho píseň se líbila i medvědovi!
+
+Medvěd ho poprosil, aby mu píseň zazpíval ještě jednou. A pak ještě jednou. A pak ještě mnohokrát. Medvěd si lehl na zem a poslouchal s zavřenýma očima, jako by se vracel do dob, kdy byl ještě mlád.
+
+"Mladý ptáčku," řekl medvěd, když Slavíček dokončil píseň, "tvá hudba je darem pro celý les. Musíš ji sdílet se všemi."
+
+Slavíček se zaradoval. "Jak to mám udělat, pane medvěde?" zeptal se.
+
+"Musíš jít do světa," odpověděl medvěd. "Musíš cestovat a zpívat všem, které potkáš. Musíš sdílet svou hudbu a šířit radost."
+
+Slavíček se trochu zalekl. Nikdy předtím neopustil svůj les. Ale touha po hudbě byla silnější než strach.
+
+"Dobře, pane medvěde," řekl Slavíček. "Udělám to."
+
+A tak se Slavíček rozloučil se svými přáteli v lese a vydal se na cestu. Cestoval po horách, údolích, lesích a řekách. Zpíval pro lidi, zvířata a dokonce i pro stromy. Jeho píseň byla plná radosti, smutku, naděje a lásky.
+
+Kdekoliv se objevil, lidé a zvířata se zastavili a poslouchali. Jeho hudba je dokázala rozveselit, utěšit a inspirovat. Slavíček se stal slavným. Jeho píseň se šířila jako lesní požár.
+
+Jednoho dne, když Slavíček zpíval na náměstí v jednom velkém městě, uslyšel ho starý, slepý hudebník. Hudebník seděl na lavičce a hrál na housle. Jeho hudba byla krásná, ale smutná.
+
+Slavíček se zastavil a poslouchal. Pak se odvážil a začal zpívat. Jeho píseň se spojila s hudbou starého hudebníka. Spolu vytvořili nádhernou harmonii.
+
+Starý hudebník se usmál. "Mladý ptáčku," řekl, "tvoje hudba mi vrátila radost do života. Děkuji ti."
+
+Slavíček se usmál také. Byl šťastný, že mohl pomoci.
+
+Od té doby se Slavíček a starý hudebník stali přáteli. Spolu cestovali po světě a hráli hudbu pro všechny. Slavíček zpíval a starý hudebník hrál na housle. Společně tvořili hudbu, která byla plná krásy a lásky.
+
+A tak si Slavíček splnil svůj sen o hudbě. Stal se slavným a šťastným. A jeho píseň žije dodnes v srdcích lidí po celém světě. A pokaždé, když uslyšíte zpěv ptáka, vzpomeňte si na malého Slavíčka, který se nebál snít a který se nevzdal svého snu. A pamatujte si, že i vy můžete dosáhnout čehokoliv, pokud máte dost odvahy a vytrvalosti. A pokud máte v srdci hudbu.
+</body>
+```

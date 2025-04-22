@@ -1,0 +1,49 @@
+<prompt>
+Please write a simple and easy-to-follow Swahili children's story that is at least 1000 words long.
+It must be completely written in proper Swahili (SW).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Tatizo La Kufikiri Kwa Busara'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sw</lang_id>
+
+<title>Tatizo La Kufikiri Kwa Busara</title>
+<body>
+Mimi ni Tembo mdogo, jina langu ni Tembo.  Nilikuwa na ndoto kubwa ya kuwa Tembo mkubwa na mwenye heshima.  Nilitembea kwa bidii katika msitu mzima, nikiwa na malengo makubwa ya kichwani mwangu. Niliona Tembo wakubwa na wenye nguvu, wakisonga vyema msituni na nilihisi huzuni kidogo;  kwamba mimi bado nilikuwa mdogo na sikuwa nawafaa.
+
+Siku moja, nilikutana na Kifaru mkubwa, jina lake Kifaru, ambaye alikuwa amekonda kidogo, akipumua kwa nguvu.  "Jambo, Tembo," akasema Kifaru. "Ukoje wewe?"
+
+"Mimi… mimi hujaribu kufanya kazi zote, Kifaru," nikasema kwa sauti ndogo. "Nataka kuwa Tembo mzuri."
+
+"Kweli?" akauliza Kifaru, akipiga chafya ndefu.  "Hiyo haitakuja peke yako, unajua?  Inategemea pia kufikiri kwa busara."
+
+Nilibaki nimeduwaa. "Kufikiri kwa busara? Hiyo ni nini?"
+
+"Ni jambo la muhimu sana," Kifaru alisema, akipiga chafya tena, "Ni kuhusu kufanya maamuzi mazuri. Unapaswa kufikiria kabla ya kufanya kitu, angalia upande mwingine kabla ya kuanza safari ndefu."
+
+Nikasikiliza kwa makini. "Unamaanisha vipi?" nikauliza.
+
+"Fikiria hivi," akasema Kifaru.  "Unataka kupata ndizi zilizo juu ya mti mkubwa? Utajitahidi kupanda mti mrefu hata kama huwezi kufikia?  Au, ungeweza kupata mti mwingine wa chini kidogo ili ukapata ndizi hizo? Au unataka kuwa Tembo mkubwa? Je, wewe umeanza kufanya maamuzi mazuri na yenye busara ili kupata jambo lolote unalotaka?"
+
+Nilifikiria kwa muda.  Kweli, nilikuwa nimejitahidi sana kuchukua miti mingine yote yaliyopigwa upande mmoja ili kupanda kwenye mti wa juu zaidi. "Nilijaribu," nikasema kwa sauti.
+
+"Hiyo haiko sawa, Tembo. Unahitaji ufanisi.  Fikiri kabla ya kutenda. Jaribu kupata njia mbadala." Kifaru akatulia, akifikiria kwa muda. "Mengi yanahitaji njia nyingi mbadala za kufikiri. Sio lazima kupigana na mlima ukipofikiri kuna njia zingine."
+
+"Samahani, Kifaru," nikasema, nikijisikia aibu.  "Sijui nilikuwa nikienda wapi. Sijui nilikuwa nikiwaza nini!"
+
+"Hilo ndilo tatizo lako," Kifaru aliniambia. "Unajaribu kupanda mti mkubwa bila kupanga vizuri. Unahitaji kupata suluhisho ndogo ndogo, lakini muhimu ili kufika kule ulikopangiwa. Siku zote fikiria kwa busara, na kisha unaona njia gani bora."
+
+Kifaru akapendekeza wazo mbadala. "Unaweza kufika mbali zaidi. Anza kwa kitu rahisi, kama kupata majani machache. Anza kwa kufanya vizuri, kisha ungojea nafasi yako na ukate tamaa."
+
+Nilijifikiria tena. Niliona tofauti. Nilianza kupata majani mengi katikati ya miti. Hilo niliweza. Nilihisi kama nilitoka katikati ya mawazo. Nilikuwa katika nafasi yangu ya kupumzika.  Kila siku, nilianza kufanya vitu vidogo.  Nikapata mbinu tofauti za kufikiria kwa busara.  Nilifanya mazoezi kuangalia mazingira yangu, kujua nini kinachowezekana, na kufikiri njia za kufikia ndoto zangu.
+
+Nilipoanza kufanya mazoezi haya, niligundua kwamba kuwa na akili ilikuwa kama kujifunza baiskeli. Ilikuja hatua kwa hatua, kupitia mambo madogo madogo hadi nikaanza kufurahia sana akili.  Nilisaidia kupunguza mawazo yangu na nilitulia zaidi.
+
+Sasa, Mimi ni Tembo mdogo, lakini mimi hufikiria kwa busara. Mimi huchagua mbinu mbadala kwa ujuzi na ninaenda kufuata malengo yangu. Ninajifunza kutoka kwa Kifaru.  Nimejifunza kutokuwepo kukasirika kwa hali na mawazo mengine. Mimi hutambua upande mwingine na kufanya uchaguzi bora zaidi. Mimi najua tatizo la kufikiri kwa busara linajifunza mbali.  Ninapofanya hivyo, uzoefu wangu unakuwa mzuri.
+
+Na wewe, mtoto mdogo, jifunze kufikiria kwa busara. Ufahamu mbinu nzuri za ufahamu ili kujifunza kupitia mbinu nyingine na njia nyingine.  Utafikia malengo yako kwa nguvu zote za ufahamu mkuu.  Usiogope kufanya makosa; kila kosa ni darasa. Kila darasa, unakuwa mkubwa.
+</body>

@@ -1,0 +1,39 @@
+<prompt>
+Please write a silly Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Smėlio Pilies Paslaptys: Ką smėlio pilis slepia savo sienose'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>lt</lang_id>
+
+<title>Smėlio Pilies Paslaptys: Ką smėlio pilis slepia savo sienose</title>
+<body>Kadaise, šalia didelio jūros kranto, buvo mažas kaimas, kur gyveno daugybė vaikų, mylinčių smėlį ir jūrą. Jie visą laiką leisdavo smėlio pylimuose, statydami įvairias smėlio pilies, kurių forma ir dydis priklausydavo tik nuo jų fantazijos.
+
+Vienas iš tų vaikų, mažas berniukas vardu Jonas, buvo ypač įgudęs smėlio pilių statytojas. Jis galėdavo pastatyti net ir pats sudėtingiausias pilies, su bokštais, sienomis ir net fontanais. Jo kaimynai visada stebėdavosi, kaip jis tai daro, ir Jonas visada juokaudavo, kad turi ypatingą smėlio pilių statytojo talentą.
+
+Vieną dieną, Jonas nusprendė pastatyti didžiausią ir gražiausią smėlio pilį, kokią jis kada nors matė. Jis parinko patogiausią vietą smėlio pylime, suko rankas ir pradėjo statyti. Smėlis buvo minkštas ir lengvas, ir Jonas galėjo lengvai jį formuoti į norimas formas.
+
+Kai Jonas dirbo, jis pastebėjo, kad smėlis atrodo keistai. Jis buvo šviesesnis nei įprasta, ir Jonas galvojavo, ar tai dėl saulės, kuri šviečia tiesiai į smėlį. Bet kai jis pradėjo statyti, smėlis pradėjo keistai elgtis. Jis buvo kaip gyvas, ir Jonas galėjo jausti, kaip jis juda po jo rankomis.
+
+Jonas buvo nustebintas, bet jis nesustojo. Jis tęsė statyti, ir smėlis tęsė keistai elgtis. Kai Jonas užbaigė pilį, jis atrodė kaip tikras šedevras. Pilies sienos buvo aukštos ir storos, o bokštais buvo apjuosti spinduliuojančiais auksiniais karūnais.
+
+Kai Jonas atsisukė, kad pažiūrėtų į savo kūrinį, jis pamatė, kad pilies durys atsidarė. Jonas buvo nustebintas ir nežinojo, ką daryti. Jis pajuto, kad kažkas jį kviečia į pilį, ir jis nusprendė įeiti.
+
+ Viduje, Jonas pamatė, kad pilyje yra daugybė keistų dalykų. Buvo auksiniai šaukšteliai, brangakmeniai, ir net magiškas kristalas, kuris spinduliuojo šviesą. Jonas buvo visiškai nustebintas ir nežinojo, ką daryti.
+
+Tada, iš niekur, pasirodė senas žmogus, kuris buvo apsirengęs kaip karalius. Jis pasisveikino su Jonu ir pasakė, kad jis yra smėlio pilies valdovas. Jonas buvo nustebintas ir paklausė, kaip tai galima, kad smėlio pilis turi valdovą.
+
+Senas žmogus pasakė, kad smėlio pilis yra magiškas vietas, kurioje gyvena daugybė keistų būtybių. Jis pasakė, kad Jonas yra išrinktas, kad jis atidarytų pilį ir paleistų laisvą visas keistas būtybes, kurios gyveno viduje.
+
+Jonas buvo nustebintas ir nežinojo, ką daryti. Bet senas žmogus pasakė, kad jis turi pasirinkti, ar jis nori būti smėlio pilies valdovu, ar jis nori grįžti atgal į savo kaimą. Jonas galvojavo ilgiau, ir galiausiai nusprendė, kad jis nori būti smėlio pilies valdovu.
+
+Senas žmogus pasveikino Joną ir pasakė, kad jis yra naujas smėlio pilies valdovas. Jonas buvo labai džiaugiasi ir nusprendė, kad jis visada bus teisingas valdovas. Jis pradėjo valdyti pilį, ir visas keistas būtybės, kurios gyveno viduje, pradėjo jam paklusti.
+
+Jonas valdė pilį ilgiau, ir jis tapo visų laikų didžiausiu smėlio pilies valdovu. Jis buvo mylimas visų keistų būtybių, ir jis visada buvo teisingas. Ir kai jis seno, jis perleido valdžią savo sūnui, ir smėlio pilis buvo saugoma visada.
+
+Ir taip, smėlio pilis liko stovėti, ir visas keistas būtybės, kurios gyveno viduje, buvo laisvos. Jonas buvo didis valdovas, ir jo istorija buvo pasakojama visų laikų, kaip pirmasis smėlio pilies valdovas. Ir kai kada, kai jūra buvo ramus, galėjai girdėti keistų būtybių balsus, kurios dainuodavo apie Joną, didįjį smėlio pilies valdovą.</body>

@@ -1,0 +1,45 @@
+<prompt>
+Please write a simple and easy-to-follow Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>ga</lang_id>
+
+<title>Scéal na Leipreachán</title>
+<body>
+Bhí leipreachán beag in Éirinn, agus bhí sé ina chónaí i gcró na háite. Bhí sé ag déanamh stocaí órga, agus bhí sé ag cur iad i gciste mór. Bhí an leipreachán an-shásta lena chuid stocaí, agus bhí sé ag déanamh ceol agus ag damhsa go minic.
+
+Lá amháin, tháinig buachaill óg chuig an gcró, agus chonaic sé an leipreachán ag déanamh a chuid stocaí. Bhí an buachaill an-ghleoite, agus d'iarr sé ar an leipreachán cead teacht isteach. D'fhreagair an leipreachán, "Tá cead agat teacht isteach, ach ná déan aon dochar dom nó do mo chuid stocaí."
+
+Tháinig an buachaill isteach, agus chonaic sé an chiste mór lán stocaí órga. Bhí sé an-tógtha leis, agus d'iarr sé ar an leipreachán cead tóchtadh stoc amháin. D'fhreagair an leipreachán, "Tá cead agat tóchtadh stoc amháin, ach ná déan aon dochar don stoc nó don chiste."
+
+Thóg an buachaill stoc amháin, agus bhí sé an-shásta leis. Ach nuair a bhí sé ag dul amach, thit an stoc as a láimh, agus chuaigh sé isteach sa chiste. Bhí an leipreachán an-fhéar, agus d'iarr sé ar an buachaill an stoc a thabhairt ar ais. Ach bhí an buachaill an-ghleoite, agus níor thug sé an stoc ar ais.
+
+Ansin, tháinig an leipreachán chuig an buachaill, agus dúirt sé, "Táim ag iarraidh an stoc a fháil ar ais, agus táim ag déanamh geallúint duit. Má thabharfaidh tú an stoc ar ais, tabharfaidh mé dhuit stoc eile, agus beidh sí níos mó ná an stoc a thóg tú." Bhí an buachaill an-tógtha leis an gceann scríbe, agus thug sé an stoc ar ais don leipreachán.
+
+Fuair an buachaill stoc nua, agus bhí sé an-shásta leis. Ach nuair a bhí sé ag dul amach, casadh sé le cailín beag, agus d'fhreagair sí, "Táim ag iarraidh stoc órga, agus táim ag déanamh geallúint duit. Má thabharfaidh tú stoc dom, tabharfaidh mé dhuit rud éigin speisialta." Bhí an buachaill an-ghleoite, agus níor thug sé an stoc di.
+
+Ansin, tháinig an cailín chuig an leipreachán, agus d'fhreagair sí, "Táim ag iarraidh stoc órga, agus táim ag déanamh geallúint don leipreachán. Má thabharfaidh sé stoc dom, tabharfaidh mé dhó rud éigin speisialta." D'fhreagair an leipreachán, "Táim ag déanamh stocaí órga, agus táim ag cur iad i gciste mór. Ach táim ag iarraidh rud éigin speisialta, agus má thabharfaidh tú é dom, tabharfaidh mé dhuit stoc órga."
+
+D'fhreagair an cailín, "Táim ag déanamh ceol, agus táim ag canadh amhráin. Má thabharfaidh mé ceol dom, tabharfaidh mé dhuit amhrán speisialta." Bhí an leipreachán an-tógtha leis, agus thug sé stoc órga don chailín.
+
+Fuair an cailín stoc nua, agus bhí sí an-shásta léi. Ach nuair a bhí sí ag dul amach, casadh sí le buachaill eile, agus d'fhreagair sé, "Táim ag iarraidh stoc órga, agus táim ag déanamh geallúint duit. Má thabharfaidh tú stoc dom, tabharfaidh mé dhuit rud éigin speisialta." Bhí an cailín an-ghleoite, agus níor thug sí an stoc di.
+
+Ansin, tháinig an buachaill chuig an leipreachán, agus d'fhreagair sé, "Táim ag iarraidh stoc órga, agus táim ag déanamh geallúint don leipreachán. Má thabharfaidh sé stoc dom, tabharfaidh mé dhó rud éigin speisialta." D'fhreagair an leipreachán, "Táim ag déanamh stocaí órga, agus táim ag cur iad i gciste mór. Ach táim ag iarraidh rud éigin speisialta, agus má thabharfaidh tú é dom, tabharfaidh mé dhuit stoc órga."
+
+D'fhreagair an buachaill, "Táim ag déanamh damhsa, agus táim ag rince go maith. Má thabharfaidh mé damhsa dom, tabharfaidh mé dhuit damhsa speisialta." Bhí an leipreachán an-tógtha leis, agus thug sé stoc órga don bhuachaill.
+
+Fuair an buachaill stoc nua, agus bhí sé an-shásta léi. Ach nuair a bhí sé ag dul amach, casadh sé le cailín eile, agus d'fhreagair sí, "Táim ag iarraidh stoc órga, agus táim ag déanamh geallúint duit. Má thabharfaidh tú stoc dom, tabharfaidh mé dhuit rud éigin speisialta." Bhí an buachaill an-ghleoite, agus níor thug sé an stoc di.
+
+Ansin, tháinig an cailín chuig an leipreachán, agus d'fhreagair sí, "Táim ag iarraidh stoc órga, agus táim ag déanamh geallúint don leipreachán. Má thabharfaidh sé stoc dom, tabharfaidh mé dhó rud éigin speisialta." D'fhreagair an leipreachán, "Táim ag déanamh stocaí órga, agus táim ag cur iad i gciste mór. Ach táim ag iarraidh rud éigin speisialta, agus má thabharfaidh tú é dom, tabharfaidh mé dhuit stoc órga."
+
+D'fhreagair an cailín, "Táim ag déanamh scéalta, agus táim ag insint scéalta maith. Má thabharfaidh mé scéal dom, tabharfaidh mé dhuit scéal speisialta." Bhí an leipreachán an-tógtha leis, agus thug sé stoc órga don chailín.
+
+Fuair an cailín stoc nua, agus bhí sí an-shásta léi. Ach nuair a bhí sí ag dul amach, casadh sí le buachaill eile, agus d'fhreagair sé, "Táim ag iarraidh stoc órga, agus táim ag déanamh geallúint duit. Má thabharfaidh tú stoc dom, tabharfaidh mé dhuit rud éigin speisialta." Bhí an cailín an-ghleoite, agus níor thug sí an stoc di.
+
+Ansin, tháinig an buachaill chuig an leipreachán, agus d'fhreagair sé, "Táim ag iarraidh stoc órga, agus táim ag déanamh geallúint don leipreachán. Má thabharfaidh sé stoc dom, tabharfaidh mé dh

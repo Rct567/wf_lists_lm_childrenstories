@@ -1,0 +1,54 @@
+<prompt>
+Please write a creative and original Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Malá víla která zachránila město'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>cs</lang_id>
+
+```cs
+<title>Malá víla která zachránila město</title><body>
+Kdesi v srdci Čech, tam, kde se řeka Vltava líně vinula krajinou, leželo město, kterému se říkalo Zlatá Louka. Ne proto, že by bylo celé ze zlata, ale proto, že jej obklopovaly rozlehlé louky, které se v letním slunci třpytily jako zlato. V tomto městě žili lidé, kteří měli rádi zpěv ptáků, vůni lipových květů a hlavně – milovali své město.
+
+Ale jednoho dne se nad Zlatou Loukou zatáhla temná mračna. Ne ta dešťová, ale mračna smutku a tmy. Příčinou byl mocný a lakomý čaroděj, lord Zlomysl, který se rozhodl, že Zlatou Louku ovládne a změní ji v šedý, bezradostný pustý kraj. Za prvé, chtěl, aby se všichni obyvatelé stali jeho otroky, a za druhé, toužil po tajemném krystalu, který ležel skrytý pod radnicí a chránil město před zlými silami.
+
+V Zlaté Louce, na okraji lesa, žila malá víla, jménem Květuška. Byla malinká, s křídly jako motýlí a vlasy jako lesní mech. Květuška byla veselá a dobrosrdečná, a milovala všechny tvory v lese i ve městě. Když si všimla, jak se nad Zlatou Loukou stahují temné mračna, věděla, že se musí něco stát.
+
+Květuška se vydala do města. Letěla nad domy, kolem náměstí a dohlédla až k radnici, kde lord Zlomysl se svými temnými pomocníky, skřety, už začal kroužit kolem vstupu do podzemí. Viděla, jak skřeti kopou a hledají tajemný krystal, a srdce se jí sevřelo strachem. Musela jednat!
+
+Nejdříve se rozhodla varovat obyvatele. Letěla nad náměstím a začala zvonivým hláskem zpívat: "Pozor, pozor, zlé síly se blíží, Zlatá Louko, braň se, než tě zničí!" Lidé, kteří byli zpočátku zmateni, se začali zastavovat a naslouchat. Květuška jim vyprávěla o lordu Zlomyslovi a o nebezpečí, které hrozí. Někteří se smáli a nevěřili jí, ale většina se začala bát.
+
+Potom se Květuška rozhodla navštívit starého moudrého kováře, pana Kováře. Byl to silný muž s vousy jako šedá vlna a očima plnýma zkušeností. Pan Kovář byl také znalec zbraní a věděl, jak bojovat proti zlu.
+
+Květuška mu vyprávěla o lordu Zlomyslovi a o jeho plánu. Pan Kovář jí pozorně naslouchal a pak řekl: "Malá vílo, máš pravdu. Musíme se bránit. Ale ne silou, ale chytrostí a odvahou."
+
+Pan Kovář Květušce dal malý, ale velmi silný zvoneček. "Tento zvonek," řekl, "má kouzelnou moc. Dokáže odehnat zlo a posílit dobrou vůli. Zazvoň, až to bude nejvíc potřeba."
+
+Květuška vzala zvonek a letěla zpět k radnici. Lord Zlomysl a jeho skřeti byli stále tam, a už se jim skoro podařilo dostat se do podzemí. Květuška se skryla za jedním z květináčů a pozorovala je.
+
+Když lord Zlomysl vyslovil kouzelné slovo, kterým chtěl zneškodnit ochranu krystalu, Květuška se odvážila. Vyběhla z úkrytu a začala zvonit na zvoneček. Zvonek vydával nádherný, čistý tón, který se rozléhal po celém náměstí. Lord Zlomysl se zarazil a skřeti se začali kroutit a kňučet. Kouzlo lorda Zlomysla se rozpadlo a skřeti začali ustupovat.
+
+Květuška zvonila dál a zvonek svítil a zářil. Z jeho zvuku se začaly šířit barvy a vůně. Šedá a temná nálada, která se rozprostírala nad Zlatou Loukou, se začala zmenšovat a mizet.
+
+Lidé, kteří se předtím báli, se začali scházet na náměstí. Děti přinášely květiny, muži začali zpívat a ženy tancovaly. Všichni cítili naději, která se šířila ze zvonečku a z Květušky.
+
+Lord Zlomysl, rozzuřený a bezmocný, se pokusil zaútočit na Květušku. Ale v tu chvíli se na náměstí objevil pan Kovář. Vzal do ruky obrovské kladivo a zakřičel: "Lord Zlomysle, odejdi z našeho města! Už nejsi vítán!"
+
+Pan Kovář nebyl sám. Přidali se k němu všichni obyvatelé Zlaté Louky. Vzali do rukou, co měli po ruce - košťata, lopaty, dokonce i květináče - a postavili se lordu Zlomyslovi a jeho skřetům.
+
+Lord Zlomysl, zděšený odvahou a jednotou obyvatel Zlaté Louky, se otočil a prchl. Skřeti, kteří už neměli sílu, se rozutekli za ním.
+
+Květuška, unavená, ale šťastná, přiletěla k panu Kováři. "Je to za námi," řekla. "Zlatá Louka je zachráněna."
+
+Pan Kovář se usmál a řekl: "Ano, malá vílo, zachránila jsi nás. Ukázala jsi nám, že i malý tvor s velkou odvahou může dokázat velké věci."
+
+Květuška se rozzářila štěstím. Celé město se radovalo. Louky se opět třpytily zlatem a ptáci zpívali veseleji než kdy jindy.
+
+A od té doby žila Květuška v Zlaté Louce jako hrdinka. Pomáhala lidem a chránila město před případným nebezpečím. Zvonek, který dostala od pana Kováře, byl uložen na radnici a byl symbolem odvahy a naděje pro všechny obyvatele. A Zlatá Louka? Ta žila šťastným a klidným životem, plným radosti a krásy, a všichni si pamatovali malou vílu, která zachránila jejich město.
+</body>
+```

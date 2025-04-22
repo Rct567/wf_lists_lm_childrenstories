@@ -1,0 +1,53 @@
+<prompt>
+Please write a educational Icelandic children's story that is at least 1000 words long.
+It must be completely written in proper Icelandic (IS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Strákurinn sem fann töfrabók og lærði að lesa hugsanir annarra barna.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>is</lang_id>
+
+```xml
+<title>Strákurinn sem fann töfrabók og lærði að lesa hugsanir annarra barna.</title>
+<body>
+<p>Einu sinni var strákur að nafni Finnur. Hann bjó í litlu húsi við rætur Esjunnar, nálægt Reykjavík. Finnur var hugmyndaríkur og spenntur strákur, en honum fannst stundum erfitt að eiga vini. Hann var dálítið feiminn og vissi ekki alltaf hvernig hann átti að tala við önnur börn. Hann eyddi því oft tímanum sínum einn, að leika sér í bakgarðinum eða lesa bækur.</p>
+
+<p>Einn daginn, þegar Finnur var að leika sér í skóginum, sem var rétt við húsið hans, rak hann augun í eitthvað furðulegt. Undir stóru, gömlu tré, sem hann hafði aldrei tekið eftir áður, lá kassi úr gömlu viði. Kassin var rykugur og skítugur, en hann virtist einhvern veginn... töfrandi.</p>
+
+<p>Finnur, fullur forvitni, ýtti lokinu upp. Innan í kassanum lá bók. Hún var stór og þykk, bundin í dökkbláu leðri, og á forsíðunni stóð skrifað með gullnu letri: "Bók hugsananna". Finnur hikaði. Hann hafði aldrei heyrt um neitt þessu líkt. Hann tók bókina upp og fletti varlega í gegnum síðurnar. Þær voru allar auðar, nema ein.</p>
+
+<p>Á þeirri síðu stóð, með sömu gullnu stöfum og á forsíðunni: "Til að byrja, hugsaðu um eitt barn sem þú vilt skilja betur. Lokaðu augunum og einbeittu þér. Þá mun bókin opinbera þér hugsanir þess barns."</p>
+
+<p>Finnur var agndofa. Þetta hljómaði ótrúlega! Hann velti fyrir sér hverju hann ætti að hugsa um. Svo sá hann, ekki langt frá sér, litla stúlku, Siggu, sem hann þekkti úr skólanum. Sigga var alltaf með fallega litaða föt og virtist alltaf vera að hlæja. Finnur langaði að vita hvað hún hugsaði. Hann fór með bókina í leynistað sinn, bak við stórt birkitré. Hann settist á grasið, lokaði augunum og hugsaði um Siggu.</p>
+
+<p>Þegar Finnur einbeitti sér, fann hann fyrir furðulegri tilfinningu. Síðan sem hann hafði flett upp á, átti hann aftur fyrir framan sig og byrjaði að fyllast af litlum textabútum. Í bókinni stóðu setningar eins og: "Ég elska þennan nýja kjól!", "Ég vona að mamma komi bráðum" og "Mig langar að leika við Finn".</p>
+
+<p>Finnur opnaði augun, hissa. Hann hafði séð hugsanir Siggu! Hann var fullur af undrun. Þetta var ótrúlegt. Hann fór varlega nálægt Siggu, sem var að leika sér með smástein í grasinu.</p>
+
+<p>"Hæ, Sigga," sagði Finnur, varlega. Sigga lyfti upp augunum, svolítið undrandi. "Hæ, Finnur," svaraði hún, "hvað ertu að gera?"</p>
+
+<p>"Ég var bara... að hugsa um þig," sagði Finnur, ætlandi ekki að segja henni um bókina. "Hvað ertu að gera?"</p>
+
+<p>"Ég er að bíða eftir mömmu," svaraði Sigga. "Hún sagði að hún kæmi með ís." Þá kom glampi í augu hennar. "Og ég var að vona að hún keypti nýja blýanta." Finnur, sem hafði nýlega lesið hugsanir hennar, vissi þetta þegar. Honum varð áhugasamari við hana og hún við hann.</p>
+
+<p>Finnur fór að nota bókina til að læra meira um önnur börn. Hann fylgdist með hugsunum þeirra og þannig gat hann skilið betur hvernig þau höfðu það. Hann fann fljótlega að börnin voru ekki alltaf viss um hvað þau vildu eða af hverju þau voru í uppnámi. Hann fann einnig að þau þráðu öll að vera skiljanleg. Því oft vissi hann betur hvað átti að segja og hvernig á að hegða sér. Áður hafði hann haft áhyggjur af því hvernig börn tækju honum en nú gat hann haft í huga hvað þau hugsuðu. Eitt sem hann gerði var að hjálpa öðrum börnum sem áttu erfitt. Hann byrjaði til dæmis að leika sér við eina stelpu sem hét Hrafnhildur sem hafði verið einangruð.</p>
+
+<p>Einn daginn, var Finnur í skólanum. Í kennslustund fann hann fyrir mikilli eirðarleysi frá öðrum. Barn hafði týnt uppáhalds pennanum sínum, annað var með í maganum og þriðja barn saknaði mömmu sinnar. Kennarinn virtist ekki taka eftir þessu. Finnur fannst honum langaði að hjálpa, en vissi ekki hvernig. Svo, í hugsunum hans, kom hugmynd. Hann mundi bókina.</p>
+
+<p>Þegar kennari var að ræða eitthvað, leit Finnur niður í bókina. Á síðunni sem hann hafði áður séð hugsanir Siggu, birtust hugsanir nemendanna. Hann sá hugsanir Jóhönnu, sem átti penna, "Ég verð að finna pennann minn!" Hann sá hugsanir Guðjóns sem var með illt í maganum, "Mig langar að fara heim." Og hann sá hugsanir Lilju sem saknaði mömmu, "Ég vil bara að mamma mín sé hér."</p>
+
+<p>Finnur lyfti upp hendi. "Ég held að Jóhanna hafi týnt pennanum sínum, Guðjón sé með magaverk og Lilja sé að sakna mömmu sinnar," sagði hann.</p>
+
+<p>Kennarinn, undrandi, sneri sér að börnunum. Jóhanna greip í veskið sitt, Guðjón greip um magann sinn og Lilja byrjaði að tárast. Kennarinn spurði þau hvað væri að. Finnur vissi að þetta var rétt leið. Kennarinn hjálpaði Jóhönnu að leita að penna sínum, Guðjóni að fá eitthvað fyrir magann og hringdi í mömmu Lilju, svo hún gat talað við hana í síma.</p>
+
+<p>Finnur var ánægður. Hann hafði hjálpað fólki. Eftir þennan atburð, notaði Finnur bókina meira og meira, til að skilja fólk betur. Hann lærði að hugsa um hvernig það átti hugsa um, hvað það ætti að segja og gera. Hann fékk alltaf eina setningu fyrir daginn úr bókinni sem varð að ávísun sinni. Hann notaði bókina ekki lengur bara til að skilja önnur börn, heldur einnig til að hjálpa. Hann fór að gera eins og bókinn sagði.</p>
+
+<p>Einn daginn, ákvað Finnur að finna út meira um bókina. Hann fletti í gegnum hana og fann loksins síðu sem var eftir alla hina. Þar stóð: "Þessi bók er gjöf. Hún er ætluð þeim sem kunna að meta aðra og vilja gera heiminn betri. Notið visku ykkar til að leiðbeina, lækna og skilja." Finnur fann að hugsa um þessi orð var mikilvægara en nokkurntíman áður.</p>
+
+<p>Á hverjum degi átti Finnur fleiri vini. Hann var enn feiminn stundum, en hann vissi að hann gæti alltaf skilið hugsanir annarra og hjálpað þeim. Hann vissi að besta leiðin til að eignast vini var að vera góður og tillitsamur, og að hlusta á það sem hinir höfðu að segja - jafnvel þegar þau sögðu ekkert. Þótt Finnur hafi aldrei sagt neinum um bókina, var hún hans leynilega gjöf, hans vinur í erfiðleikum, og verkfærið hans til að gera heiminn aðeins betri stað, ein hugsun í einu. Og þannig endaði ævintýrið með bókinni hans. </p>
+</body>
+```

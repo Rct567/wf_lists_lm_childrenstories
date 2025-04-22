@@ -1,0 +1,45 @@
+<prompt>
+Please write a fun and entertaining Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Sankarillinen haukkuja ja hämähäkkejä syksyllä'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>fi</lang_id>
+
+<title>Sankarillinen haukkuja ja hämähäkkejä syksyllä</title>
+<body>
+Syksy oli saapunut Kekkilän metsään.  Lehdet virtasivat keltaisina ja ruskeina puroina, maalaten maan upeilla väreillä.  Pieni, ruskeanpunainen haukku nimeltä Pekka asui vanhan tammen juurella.  Pekka ei ollut mikään tavallinen haukku. Hänellä oli sankarillisia unelmia sydämessä ja isoja, upeita haukkumuksia mieleen.
+
+Yhtenä syyspäivänä, kun aurinko paistoi lämmöllisesti ja tuuli leikkisästi kuiskasi lehtien läpi, Pekka huomasi hämähäkin.  Hämmästyttävä, valkoinen hämähäkki oli verkkojaan laimeina, hopeanvärisinä raitoina kuusen oksalla.  Pekka oli aina ajatellut, että hämähäkit ovat vaarallisia ja peloittavia.  Muttei tämä.  Tämä hämähäkki, jonka nimi oli Silkkis, oli kuin upean kuudenväristä hopealla, erottuen aivan tavallisen lehtien seasta.
+
+"Hyvää päivää, hämähäkki!" Pekka haukkoi varovaisesti.  Hän tunsi sydämessään pelkoa, mutta se oli hämähäkin kaunis silmien sädehtivä katse, joka teki hänestä rohkeampi.
+
+Silkkis kumarsi päänsä hiukan, näyttäen, että se kuuli Pekaan. "Hyvää päivää", sanoi Silkkis korkealla, viheltävällä äänellä.  Ääni oli niin mystinen, niin kaunis.
+
+"Kuulitko, kuinka metsä naureskeli?" Pekka ihmetteli.  Hän oli usein kuullut metsäpukun, kuivia lehtiä, leikkistä tuulta ja eläinten hiljaa luontoa, mutta tätä päivä se tuntui entistä suuremmalta ja tunteikkaalta.
+
+"Metsä naurua on kauniimpi", sanoi Silkkis, "mutta on ääni myös surun ääniä, sekä luonnon valittavia viheliäisiä ääniä."  Hän kietoa pitkiä varsiaan rauhallisesti ja tarkasti yllä olevaa oksaa ympäröi verkkoa.  Pekka ajatteli, että hän kuuli jotain lisää metsässä.
+
+"Onko täällä muita kuin me kaksi?" Pekka kysyi.
+
+"On", vastasi Silkkis, "siellä kuun alle metsässä ovat nuoret petolinnut. On pieni varpuslintu ja myös sinisiä taivaan pillilintoja."  Hän kietoi varren verkkoa täydellisen kiertäen.  Hänen kieppuva liike oli nopea ja viehättävä.
+
+"Mutta mihin he ovat menneet? Missä he piilot? Mitä he tekevät, kuinkas olla?" Pekka kysyi.
+
+"He ovat piilossa kuun alla, leikkiviin ja pelokkaisiin, peittovaan sinisten taivaan värissä taivaalla", sanoi Silkkis.
+
+Pian yllä leikittelevät pillilinnut alkoivat paljastaa sinisiä sävyjä, suurta metsää.  Pekaan oli mahtava ja uskomaton tunne kuinka kuulen äänet yhdessä, kaikkia yhdessä metsässä ja tuhansista linnuista, jotka saapuivat tänne syksyn lämmittämän kuolleet ja sinisen värin taivaalla.
+
+Pekka ja Silkkis keskustelivat metsän elämän mysteereistä koko päivän.  Pekka oppi hämähäkin verkkojen rakentamisesta,  heikkojen ja kauniiden kiemuroiden taiteesta.  Silkkis kuuli Pekaan tarinoita haukkutyypin arkipäiväisestä metsässä, ja yhteinen kokemus veti heitä lähelle.
+
+Iltuna, kun auringon säteet loivat kauniin, hopeanvärin metsän, Silkkis kiitti Pekkaa hänen uteliaisuudestaan ja ystävällisyydestään.  "Metsä on täynnä kiehtovia salaisuuksia, jos vain kuuntelette ja olette uteliaita", hän sanoi.
+
+Pekka puolestaan kiitti Silkkistä hänen verkkojaan, kiehtovaan kauneudesta ja hiljaista, erinomaista luonnon tunnetta.
+
+Sittemmin Pekka ei pelännyt hämähäkkejä enään.  Hän ymmärsi, että hämähäkitkin ovat olennainen osa Kekkilän metsän kiehtovaa luonnonhistoriaa, ja jokainen elävä on kauniin, mielenkiintoisen ja tärkeän.   Ja vaikka Pekka ei pystynyt ymmärtämään kaikkia luonnon salaisuuksia, niin hän oppi kuunnellen kaikkea, miten jokainen eläin toimii luontoa hyödyntäen ymmärrys kasvoi yhä enemmän.  Sittemmin Pekka tunsi itsensä aivan erikoiseksi luonnonosaksi.  Pekka ja Silkkis pysyivät hyvillä kavereilla ja ja tekivät yhdessä monta seikkailua.
+</body>

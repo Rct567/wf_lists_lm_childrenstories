@@ -1,0 +1,83 @@
+<prompt>
+Please write a timeless Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Süni Sári, a kedves sün, és a téli álomra való felkészülés gondjai'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>hu</lang_id>
+
+```html
+<title>Süni Sári, a kedves sün, és a téli álomra való felkészülés gondjai</title>
+<body>
+Egyszer volt, hol nem volt, hetedhét országon is túl, egy sűrű, zöld erdő mélyén, ahol a nyári nap sugarai táncot jártak a lombkoronákon, élt Süni Sári, a legkedvesebb sünike a világon. Apró mancsai voltak, szemei feketék, mint a cseresznye magvak, és hátát ezernyi apró, szúrós tüske borította, melyek azonban csak a rosszfiúkat ijesztgették. Sári szíve, az aranyszíve, tele volt szeretettel, és mindig segített a bajba jutott erdei lakókon.
+
+A nyár vége felé jártak a napok. A levelek sárgultak, pirosodtak, barnultak, és ahogy a szél fújt, táncolva hullottak le a fákról. Sári érezte a levegőben a változást, a tél közeledtét. A tél, az a hosszú, hideg időszak, amikor az erdő elalszik, a fák kopárak lesznek, a földet hó borítja, és az ételek is bekeményednek. A szünik, a téli álomra készültek, és Sári is rohamosan igyekezett.
+
+De Sárinak komoly gondjai voltak. Nem volt még elég zsírtartaléka, hogy átvészelje a hosszú hónapokat. A szülei már régen elmondták neki, hogy a tél végén, amikor felébrednek, a tüsikéiknek, a csípőjüknek, a kis testüknek sok-sok energiára lesz szüksége, hogy újra életre keljenek. Ehhez pedig sokat kellett enniük, hogy zsírt rakjanak le. Sári viszont, a játékos, kíváncsi természetével, gyakran elfelejtkezett a táplálkozásról. Inkább a kalandok vitték magukkal.
+
+Egyik délután, amint a levelek közt bujkált, találkozott Cinke Cinkával, a kis, kék tollú cinegével. Cinka szomorúan ült egy ágon.
+
+– Mi a baj, Cinka? – kérdezte Sári aggódva.
+
+– Ó, Sári! – sóhajtott a cinke. – Nem találok elég magot. A napok rövidek, a vadmacskák lesben állnak, és én egyre csak fogyok. Nem tudom, hogyan fogom kibírni a telet!
+
+Sári megsimogatta Cinka tollal. Cinka szomorúan ült egy ágon.
+
+– Ne aggódj, Cinka! Én segítek! – mondta Sári határozottan. – Tudok egy helyet, ahol sok a mogyorófa. Tele vannak mogyoróval.
+
+Sári elvitte Cinkát a mogyorófákhoz. Cinka alig győzte szedegetni a finom mogyorókat.
+
+– Köszönöm, Sári! – csivogott boldogan a cinke. – Te vagy a legjobb barátom!
+
+Sári azonban, miközben Cinkát segítette, eszébe jutott, hogy neki is ennie kellene. De a mogyorók annyira finoman néztek ki, hogy nem tudott ellenállni a kísértésnek, és elkezdett ő is nassolni. Annyira belemerült a mogyorózásba, hogy csak estére jutott eszébe, hogy ő is gyűjtsön.
+
+Másnap találkozott Nyuszi Nándival, aki szintén szomorú volt.
+
+– Mi történt, Nyuszi? – kérdezte Sári.
+
+– Nem tudok elég répát gyűjteni a télre! – nyafogott Nándi. – A föld már kemény, nehéz kifúrni a földből a répákat.
+
+Sári ismét segített. Sárinak erős mancsa volt, a tüskéivel óvatosan forgatta a földet, és a répák előkerültek. Nándi hálásan ette a finom répákat. Sári is evett egy kicsit, de már túl sok idő telt el, mire eszébe jutott, hogy gyűjtsön.
+
+Napok teltek el, Sári pedig egyre többet segített másoknak, de magának egyre kevesebbet. Érezte, hogy a hasa nem kerekedik úgy, mint a többi szünéé. Mikor naplemente volt, Sári mindig elindult, kereste a táplálékot, de már egyre kevesebbet talált belőle. A természet aludt, a napok lerövidültek, a hideg erősödött.
+
+Egyszer, egy hideg reggelen, Sári találkozott a vén, bölcs Bagoly Balázzsal. Balázs a legöregebb lakója volt az erdőnek, és mindent tudott.
+
+– Szervusz, Sári! Látom, aggódsz – szólalt meg Balázs. – Mi a baj?
+
+Sári elmondta a gondjait. Elpanaszkodta, hogy nem gyűjtött elég ennivalót, nem lett elég zsírtartaléka.
+
+Balázs komolyan hallgatta, majd megszólalt:
+
+– Sári, te egy kedves, segítőkész sünike vagy. Mindig másokért dolgozol, és elfeledkezel magadról. De most, itt az idő, hogy a magad érdekeit is szem előtt tartsd. A legnagyobb hősök sem tudnak másokon segíteni, ha ők maguk sincsenek jól.
+
+– De mit tegyek most, Balázs bácsi? – kérdezte Sári remegő hangon. – Már késő! Hideg van, nem találok ennivalót!
+
+– Még nem késő! – mondta Balázs. – Figyelj! Először is keress egy meleg, védett helyet a teleléshez. Ha nincsen, segítek neked találni egyet. Másodszor, koncentrálj az evésre, s ami a legfontosabb: higgy magadban! Meg tudod csinálni!
+
+Sári hallgatott a bagoly tanácsára. Megkereste a legmelegebb helyet az erdőben, egy száraz levéltengernél, egy vastag fatörzs mellett. Itt a szél sem tudott fújni.
+
+Sári elhatározta, hogy minden erejével próbálkozik. Tudta, hogy ez lesz az utolsó esélye. Napokon át kimerészkedett. Bár a tél már a kapuján volt, még talált itt-ott egy-egy lehullott almát, egy kis makkot, esetleg egy-két utolsó gilisztát is, ahogy a hideg földön fagyos szünettel végigfutott. Anélkül ette meg, hogy habozott volna; nem a játék, nem a barátok, hanem az evés volt a fontossági lista első helyén.
+
+Aztán eljött a nagy nap: Sári érezte, hogy a teste elfáradt, a szeme lecsukódik. Elment a meleg, védett helyére, és belebújt a száraz levelek közé. Szundikált, evett. Mindent megtett, amire képes volt.
+
+És hirtelen minden elcsendesült. Sári elaludt, mélyen, a téli álom mélyén. Kicsit reméltem, hogy elég táplálék gyűlt össze hozzá.
+
+A tél elmúlt. Amikor az első napsugarak felmelegítették az erdőt, Sári kinyitotta a szemeit. Érezte, hogy a teste nehéz, de élettel teli. Körülnézett, és látta, hogy a fák rügyeznek, a hó elolvadt, a levegő illatos.
+
+Felkelt a levelek közül, kinyújtóztatta a mancsait és a kis testét, majd kiment az erdőbe. Sári boldog volt! A szíve tele volt hálával. Minden napra eszébe jutott, mi történt, és ettől fogva mindig figyelt arra, hogy magáról is gondoskodjon.
+
+Sári másnap elment meglátogatni Cinkátés Nándit. Cinka vidáman csivogott az ágon, Nándi pedig boldogan rágcsálta a friss füvet.
+Minden rendben volt, a téli álom véget ért. Sári ismét a kedves, segítőkész sünike lett, aki mindig készen állt segíteni.
+
+És így kezdődött el a szürkület leánya, a kora nyár virágzása, és ettől a naptól fogva a boldogság uralta Sári életét.
+Azon a napon szép, nagy mogyorót talált. Ekkor megértette, hogy nem csak másokat kell óvnia, hanem önmagát is. Sári tovább élte a boldog életét, amíg a sors meg nem adta neki a következőt.
+És mint minden nagyméretű esemény, ez is egy szép, tanulságos történet.
+A mese véget ért.
+</body>
+```

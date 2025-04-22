@@ -1,0 +1,47 @@
+<prompt>
+Please write a educational Slovak children's story that is at least 1000 words long.
+It must be completely written in proper Slovak (SK).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Snehová vločka, ktorá padala z neba a chcela spoznať všetkých ľudí.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>sk</lang_id>
+
+```xml
+<title>Snehová vločka, ktorá padala z neba a chcela spoznať všetkých ľudí.</title>
+<body>
+Bola raz jedna malinká snehová vločka. Nebola ako ostatné vločky, ktoré sa len tak bezmyšlienkovito vznášali vzduchom a padali na zem. Táto snehová vločka, nazvime ju Vločka, mala veľké srdce a ešte väčšiu túžbu. Chcela spoznať všetkých ľudí na svete.
+
+Vločka sa narodila vysoko v oblakoch, kde ju stvoril mrazivý vánok a tancujúce kryštáliky vody. Všetky ostatné vločky boli rovnako krásne, so zložitými geometrickými tvarmi, ale Vločka bola výnimočná svojou zvedavosťou. Hneď ako sa objavila, začala sa vypytovať: „Kam padáme? Čo je dole? A kto sú tí ľudia?“
+
+Starší, skúsenejší snehový kryštál, ktorý mal na sebe už stovky zím, jej odpovedal: „Padáme dole na zem. Dole žijú ľudia. Sú to zvláštne tvory, ktoré sa tešia z našej krásy, ale niekedy nás aj nenávidia, pretože im je zima.“
+
+Vločka sa zamračila. „Prečo by nás mali nenávidieť? Veď prinášame krásu a zábavu! Prečo by im malo byť zima?“
+
+Starší kryštál pokrútil svojimi špicatými ramenami. „To sú komplikované veci, malá Vločka. Ľudia sú zložití. Treba ich spoznať, aby si ich pochopila.“
+
+Vločka sa rozhodla. „Chcem ich spoznať! Chcem vidieť, ako žijú, ako sa smejú, ako sa hrajú, aj ako sa hnevajú.“
+
+A tak sa Vločka začala jemne vznášať smerom dole, nie len tak hocikde, ale snažila sa dostať na miesta, kde vedela, že žijú ľudia. Občas sa jej podarilo vidieť len strechy domov, občas zamrznuté okná a v nich tlmené svetlo. No túžila po oveľa viac.
+
+Jej putovanie začalo na severe. Prvá, ktorú stretla, bol malý chlapček menom Peter. Peter stál s červeným nosom a zvesenými ušami pri okne a sťažoval sa mame, že sa mu nechce ísť von. Vločka sa zľahka dotkla okna a na chvíľu sa zachytila na skle. Videla, ako Peter zamračený vykročil von, oblečený v hrubej zimnej bunde, s čiapkou na hlave a s rukavicami. Keď Vločka spadla, Peter ju uvidel a prekvapene zvolal: „Aha! Prvá snehová vločka tohto roku!“ a s úsmevom na tvári sa s ňou hral. Petrove prekvapenie a radosť naplnili Vločku šťastím. Po prvýkrát pocítila, aké to je, keď prinášate radosť.
+
+Ďalej sa vznášala nad lesom, kde sa stretla s lesníkom, ktorý práve prikrmoval zvieratá. Lesník bol zamračený a rozprával sa so sebou: „Zase bude poriadna zima. Zver sa bude trápiť.“ Vločka dopadla na jeho kabát a cítila, ako sa jej zmocňuje ľútosť. Zrejme takto vyzerá tá „nenávisť“, o ktorej hovoril starý kryštál, keď mali ľudia strach z chladu. Avšak, keď videla ako lesník trpezlivo sypal zrno pre srnky a iné zvieratká, pochopila, že strach a starostlivosť k sebe patria, že človek, hoci sa niekedy sťažuje na zimu, vie sa zároveň starať o tých slabších.
+
+Potom putovala nad mestom. Videla deti, ktoré sa s guľou smiali a hodili snehovú guľu. Vločka dopadla na nos veselého dievčatka a s detským smiechom ju zamietla. Ďalej vletela do cukrárne a pozorovala, ako sa predavačka usmieva a balí perníky. Vločka sa vznášala nad trhom, kde ľudia nakupovali vianočné stromčeky a darčeky, a v ich očiach videla radosť a teplo, napriek zime. Videla starých ľudí, ako sa vracali z kostola a tíško debatovali. Každý jeden z nich mal v tvári iný výraz.
+
+Vločka si uvedomila, že ľudia sú skutočne rôznorodí. Sú aj smutní, aj veselí, niekedy zmätení, inokedy odvážni. Zistila, že „nenávisť“ zo zimy, ako to hovoril starý kryštál, neexistuje. Len strach, radosť, smútok a najmä… nádej.
+
+Keď už bola unavená z dlhej cesty, začala sa približovať k dedinke na úpätí hôr. Cítila, ako jej sily slabnú. Pomaly, ale isto klesala, až sa zachytila na okne malého domčeka, kde videla lampu a v jej tieni dievčatko, ktoré sedelo pri knihe. Dievčatko sa volalo Zuzanka a Vločka si myslela, že je to najkrajšie meno, aké kedy počula. Zuzanka zložila knihu, pozrela sa von a s úžasom zvolala: „Aké krásne sneží!“ Vločka sa pomaly rozplývala, ale predtým, než zmizla, ešte stihla v myšlienkach povedať Zuzanke: „Ďakujem…“ za všetku radosť, ktorú pocítila.
+
+Vločka sa spojila s ďalšími kryštálikmi a vytvorili jeden veľký, mäkký chumáč snehu. Zapadala celú dedinku, a tá pod bielou perinou vyzerala ešte krajšie. Cítila, ako jej sily dochádzajú. A predsa, tesne predtým, ako definitívne zmizla, pocítila zvláštnu vec – pocit naplnenia. Spoznala ľudí, spoznala ich city, ich radosť, ich smútok. Zistila, že život nie je len čierny alebo biely, ale že je ako jej samotné padanie, pestrofarebné, plné dobrodružstiev a neočakávaných zážitkov.
+
+Keď už nebola, ale jej stopa zostala. Prebudila ju a podnietila iné vločky, aby sa tiež spustili k zemi. Každá z nich, tak ako ona, chcela spoznať ľudí. A tak sa to stávalo z roka na rok. Sneh padal, ľudia sa radovali, snežili sa a celý svet bol krásny.
+
+A Zuzanka, aj keď nevedela, že tá malá snehová vločka, ktorá sa rozplývala na jej okne, si tak veľmi želala spoznať ju a všetkých ľudí, pri každom snežení pozerala s očami plnými nádeje do neba a s úsmevom hovorila: „Vitajte, snehové vločky! Som tak rada, že ste zase tu!“ A v tej chvíli pocítila niečo z tajomného posolstva Vločky: pocit spojenia, hlbokej lásky a nekonečnej radosti zo života, ktorá sa rozplýva v snehu ako malý, trblietavý zázrak. A tak sa kruh uzatvoril a snehová nádhera a túžba po objavovaní pokračovala ďalej.
+</body>
+```

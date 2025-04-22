@@ -1,0 +1,131 @@
+<prompt>
+Please write a dialog-based Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A rendőr, aki segített a bajbajutottaknak minden nap.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>hu</lang_id>
+
+```xml
+<title>A rendőr, aki segített a bajbajutottaknak minden nap.</title>
+<body>
+– Jó napot, Bandi! – köszöntötte kedvesen a hatalmas termetű, kék egyenruhás rendőr, Rendes úr. – Mit csinálsz ilyen korán?
+
+– Jó napot, Rendes bácsi! – válaszolta Bandi, a hatéves kisfiú, aki a házuk előtt, a homokozóban babrált a homokkal. – A kastélyomat építem! Királyt meg királynőt szeretnék lakni.
+
+Rendes úr mosolygott. – Nahát! Mesélj csak! Milyen lesz ez a kastély?
+
+– Ó, nagyon szép! – mondta Bandi, szeme ragyogott. – Lesznek benne tornyok, kémények, nagy ablakok, meg egy hatalmas udvar, ahol kutyákkal és cicákkal játszhatnak a király és a királynő!
+
+– Fantasztikus! És mi van a királyoddal és a királynőddel? – kérdezte Rendes úr.
+
+– A király jó, a királynő is jó! – mondta Bandi. – Mindenkihez kedvesek. Megvédenek mindenkit a sárkánytól, ha jön.
+
+– Micsoda? Sárkányok? – kérdezte Rendes úr nevetve.
+
+– Persze! – felelte komolyan Bandi. – Egy sötét erdőben lakik, és ki akarja rabolni a kincset! De a király és a királynő meg fogják védeni!
+
+Rendes úr elgondolkodott. – Értem… És te mit csinálsz? Te is a királyság része vagy?
+
+– Én a király udvari bolondja vagyok! – válaszolta Bandi, a homokot rendezgetve. – Én viccelek, és vidámmá teszem a királyt és a királynőt!
+
+– Ó, micsoda fontos feladat! – mondta Rendes úr. – És tudsz-e egy jó viccet most rögtön?
+
+Bandi gondolkodott egy kicsit. – Tudom! Mi az, ami akkor piros, ha felmegy, és piros, ha lejön?
+
+– Hmm… nem tudom. Mi? – kérdezte Rendes úr.
+
+– A piróslámpa a hegyen! – kiáltotta Bandi, majd kacagni kezdett.
+
+Rendes úr szintén nevetett. – Nagyon jó! Nagyon vicces!
+
+Ekkor egy sírás hangja hallatszott a közeli parkból. Rendes úr azonnal felkapta a fejét.
+
+– Bandi, nézzük meg, mi a baj! – mondta.
+
+Odaszaladtak a parkba, ahol egy kislány ült a padon, és hangosan sírt.
+
+– Mi történt, kicsikém? – kérdezte Rendes úr, lehajolva hozzá.
+
+A kislány felsóhajtott. – Eltévedtem… Nem találom anyukámat…
+
+Rendes úr megsimogatta a kislány fejét. – Nyugodj meg, kislány. Nem fogunk hagyni téged. Hogy hívnak?
+
+– Sári vagyok… – suttogta a kislány.
+
+– Sárika, most szépen mondd el, mit látsz, mióta eltévedtél. – kérdezte kedvesen Rendes úr.
+
+Sári felnézett a könnyeiből. – Láttam egy nagy szökőkutat, a madarak ettek, és egy jégkrémes bódét.
+
+Rendes úr megfogta a kislány kezét. – Jöjj, Sárika. Először a madarakat nézzük meg, hol ettek. – A madarak etetésére sétáltak, miközben Rendes úr kérdezgette Sárkát, hogy mit látott még. Miután megtalálták a helyet, ahol a madarak ettek, már tudták, hogy merre menjenek. A lány elmondta, hogy látott egy kék biciklit, ami pont ott volt a parkban.
+
+Hamarosan a jégkrémes bódéhoz értek. Ott volt az a kék bicikli is, és Sári anyukája éppen a jégkrémeket rendezte.
+
+– Anya! – kiáltotta Sári, és a nyakába borult anyukájának.
+
+Az anyuka megkönnyebbülten ölelgette a kislányát. – Jaj, Sári, hol voltál? Nagyon megijedtem! Köszönöm, uram! – fordult Rendes úrhoz, aki mosolyogva állt a háttérben.
+
+– Semmi gond. A rendőrök azért vannak, hogy segítsenek. – mondta Rendes úr. – Örülök, hogy minden rendben van.
+
+Sári anyukája megköszönte még egyszer a segítséget, majd elbúcsúztak.
+
+Bandi és Rendes úr visszamentek a homokozóhoz.
+
+– Na látod, Bandi! – mondta Rendes úr. – Egy királyságban is lehetnek bajok, és a rendőrök a királyság védelmezői is!
+
+– Én is segíthetnék! – jelentette ki Bandi. – Én tudok a királynővel és a királlyal viccelni!
+
+– Tökéletes! – nevetett Rendes úr. – Most pedig segítesz nekem rendet tartani. Tudod, sok helyen van szükség a segítségre!
+
+Egy nap, ahogy Bandi éppen a homokozóban építgette a kastélyát, egy idős néni érkezett hozzájuk. Zsóka néninek hívták, és a kezében egy kicsi, csupasz kismacska volt, akit talált.
+
+– Segítséget szeretnék kérni… – kezdte Zsóka néni. – Találtam egy árva cicát… Nem tudom, hova vigyem, mit tegyek…
+
+Bandi a kismacskára pillantott, majd Rendes úrra, aki a közelükben állt.
+
+– Rendes bácsi! – kiáltotta. – Segítsünk a cicának!
+
+Rendes úr odament a nénihez. – Ne aggódjon, néni. Van egy kis ismerősöm, aki nagyon szereti az állatokat. Mondja, mit tudunk tenni?
+
+Bandi sietett Rendes úr mellé.
+
+– Én is szeretném! – kiáltotta.
+
+Rendes úr mosolyogva megérintette Bandi vállát. – Rendben, Bandi. Te is segítesz. Megnézzük, hogy van-e hely a menhelyen, vagy feladjuk a hirdetést.
+
+Aznap Rendes úr elintézte, hogy a kismacskát a helyi menhelyen fogadják. Bandi pedig elkísérte őket. Látta, hogy Zsóka néni milyen boldog, hogy biztonságban tudja a cicát, a menhelyi gondozók pedig boldogan fogadták a kicsit.
+
+Máskor a piacon segítettek egy néninek, aki a szatyrát nem tudta cipelni, vagy egy kutyának keresték a gazdáját, aki elkóborolt. Rendes úr sosem utasította el a segítséget, és mindig megtalálta a módját, hogy a bajbajutottaknak segítsen. Bandi pedig boldogan vett részt a mentőakciókban, a szép szavaitól mindeki egyformán mosolygott.
+
+Egy délután, amikor a homokozóban játszott, Bandi a kastélyát éppen kiegészítette egy börtönnel a sárkány számára. Ekkor megszólalt a mobilja.
+
+– Rendes bácsi? Mi a baj? – kérdezte Bandi, miután felvette a telefont.
+
+– Bandi, jöjjön a parkba! Valaki kiesett a hintából, és megsérült! – hallotta a rendőr hangját.
+
+Bandi azonnal a parkba sietett. Ott látta Rendes urat, amint a hintánál áll, és egy kisfiút vizsgál.
+
+– Mi történt? – kérdezte Bandi.
+
+– Sajnálom, de nem is figyelmünket, – suttogta a rendőr. – a kisfiú leesett a hintáról. Jön a mentő, most csak türelemmel, és vigyázunk rá!
+
+Bandi a helyére rohant, a kisfiúnak vigasztalóan mosolygott, de Rendes úr mindössze ennyit mondott a sérült gyerekeknek, de annyira nyugtatóan hatott mindenkire. Mire megérkezett a mentő, a kisfiú megnyugodott, a könnyeit már nem látni, a barátai az oldalán vártak.
+
+Bandi segített, ahogy tudott: a fiú mellett maradt, viccelődött vele, amíg a mentők megérkeztek.
+
+Később, amikor a mentő elvitte a kisfiút, Rendes úr odajött Bandihoz.
+
+– Nagyon ügyes voltál, Bandi! – mondta. – Sokat segítettél a kisfiúnak!
+
+– Igazán? – kérdezte Bandi, ragyogó szemekkel. – Én is rendőr lehetek egyszer?
+
+Rendes úr megfogta a kezét. – Ha jó ember leszel, Bandi, ha segítőkész, mint most, bármi lehetsz! A legfontosabb, hogy mindig segíts a bajbajutottaknak.
+
+Bandi ekkor megint a homokozó felé vette az irányt. Gondolt a kisfiúra, a sárkányra, Sárira, Zsók nénire és a kis cicára. Már pontosan tudta, mit fog tenni. Ezentúl is a király udvari bolondja marad, de mellette a legnagyobb rendőrök nyomdokaiba lép. És ha ő is jó lesz, segíteni fog a királyságnak a sárkányok elleni harcban, meg persze mindenkinek, aki bajba jut. És egy nap, ha nagy lesz, talán ő is rendőr lesz, olyan, mint Rendes úr, aki segített a bajbajutottaknak minden nap.
+</body>
+```

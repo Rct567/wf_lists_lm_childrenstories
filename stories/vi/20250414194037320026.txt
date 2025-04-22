@@ -1,0 +1,101 @@
+<prompt>
+Please write a silly Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Bí Mật Ngôi Nhà Cổ Tích và Ba Chú Mèo Con Ham Chơi Khám Phá.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>vi</lang_id>
+
+```vi
+<title>Bí Mật Ngôi Nhà Cổ Tích và Ba Chú Mèo Con Ham Chơi Khám Phá.</title>
+<body>
+Ngày xửa ngày xưa, tại một làng quê yên bình của Việt Nam, nơi những cánh đồng lúa xanh mướt ôm ấp những ngôi nhà nhỏ nhắn mái ngói đỏ tươi, có một ngôi nhà cổ tích đặc biệt. Ngôi nhà này không giống bất kỳ ngôi nhà nào khác. Nó có mái nhà làm bằng bánh tráng, tường được ốp bằng kẹo dẻo đủ màu sắc, và cửa ra vào là một chiếc bánh pía khổng lồ. Ngôi nhà cổ tích này được bảo vệ bởi ba chú mèo con tinh nghịch: Mướp, Meo và Mun.
+
+Mướp là chú mèo béo tốt nhất, với bộ lông vàng ươm như mật ong. Anh chàng thích nhất là ăn và ngủ. Meo, cô mèo với bộ lông đen nhánh như màn đêm, lại rất thông minh và tò mò. Còn Mun, chú mèo nhỏ nhắn với bộ lông tam thể, lại là người lạc quan nhất, luôn tràn đầy năng lượng.
+
+Ba chú mèo sống hạnh phúc bên nhau trong ngôi nhà cổ tích. Ban ngày, họ thường rong ruổi khắp làng, chơi đùa với lũ trẻ, rượt đuổi bướm và khám phá những điều thú vị. Nhưng đêm đến, một điều bí ẩn xảy ra. Căn nhà cổ tích bỗng nhiên sáng rực ánh sáng kỳ diệu, và một thế giới diệu kỳ hiện ra.
+
+Một buổi chiều nọ, khi mặt trời dần khuất sau rặng tre, ba chú mèo đang ngồi trên mái nhà bánh tráng, nhấm nháp những chiếc kẹo dẻo hình trái tim, thì bỗng nghe thấy tiếng thì thầm khe khẽ.
+
+"Hôm nay...hôm nay..." Tiếng thì thầm phát ra từ đâu đó, nghe như tiếng gió.
+
+"Tiếng gì thế?" Mun hỏi, vểnh tai.
+
+"Tớ cũng không biết." Meo trả lời, nhăn mặt.
+
+"Có lẽ là gió thôi." Mướp nói, miệng vẫn còn ngậm chiếc kẹo dẻo.
+
+Nhưng tiếng thì thầm ngày càng rõ hơn, kéo theo những âm thanh kỳ lạ khác, như tiếng nhạc chuông reo và tiếng cười khúc khích. Ba chú mèo nhìn nhau đầy vẻ tò mò. Quyết định khám phá bí mật, chúng nhẹ nhàng trượt xuống khỏi mái nhà.
+
+Họ tiến vào bên trong ngôi nhà bánh pía. Cánh cửa bánh pía thơm phức tự động mở ra, đón chào ba chú mèo vào một thế giới hoàn toàn khác biệt. Trong ngôi nhà, ánh sáng phát ra từ những chiếc kẹo dẻo treo lơ lửng, tạo nên một khung cảnh lung linh huyền ảo.
+
+"Oaaaa!" Mun thốt lên, mắt mở to.
+
+"Tuyệt vời!" Meo kêu lên, ánh mắt đầy sự phấn khích.
+
+"Nhưng...mình đói bụng rồi." Mướp càu nhàu, bụng kêu ọt ọt.
+
+Đột nhiên, một giọng nói ngọt ngào vang lên. "Chào mừng đến với Vương quốc Kẹo Ngọt!"
+
+Ba chú mèo giật mình quay lại. Trước mặt họ, một cô tiên nhỏ nhắn, với đôi cánh lung linh làm từ những chiếc bánh quy, đang đứng mỉm cười. Cô tiên mặc một chiếc váy làm từ kẹo bông, tóc tết bím bằng kẹo dẻo.
+
+"Tôi là Tiên Kẹo Ngọt. Tôi là người bảo vệ cho vương quốc này. Tôi đã nghe thấy tiếng các bạn, và tôi biết các bạn muốn khám phá." Tiên Kẹo Ngọt nói.
+
+"Thật sao?" Mun hỏi, vui mừng. "Chúng tôi rất muốn khám phá!"
+
+"Nhưng..." Mướp nói, ngập ngừng. "Trước tiên, liệu chúng ta có thể ăn một chút gì đó được không? Tớ đói quá."
+
+Tiên Kẹo Ngọt cười khúc khích. "Tất nhiên rồi! Hãy theo tôi."
+
+Tiên Kẹo Ngọt dẫn ba chú mèo đến một căn phòng đầy ắp những món ăn ngon lành. Có những chiếc bánh quy hình mặt trăng, những cây kẹo mút khổng lồ, những đĩa bánh su kem ngọt lịm, và cả một hồ sô cô la nóng hổi.
+
+"Mời các bạn dùng bữa." Tiên Kẹo Ngọt nói.
+
+Ba chú mèo không chần chừ, lao vào ăn như chưa từng được ăn. Mướp ăn ngấu nghiến, Meo tập trung quan sát cách thức làm bánh, còn Mun thì chạy nhảy khắp nơi, khám phá những món ăn mới lạ.
+
+Sau khi đã no bụng, Tiên Kẹo Ngọt bắt đầu kể cho ba chú mèo về Vương quốc Kẹo Ngọt. Vương quốc này được tạo ra từ những giấc mơ đẹp, nơi mọi thứ đều ngọt ngào và kỳ diệu. Nhưng vương quốc cũng đang gặp nguy hiểm. Một phù thủy độc ác tên là Mứt Chua đang tìm cách đánh cắp những giấc mơ ngọt ngào để biến vương quốc thành một nơi tăm tối và chua chát.
+
+"Chúng tôi cần sự giúp đỡ của các bạn." Tiên Kẹo Ngọt nói, giọng đầy lo lắng. "Các bạn có thể giúp chúng tôi đánh bại Mứt Chua không?"
+
+Ba chú mèo nhìn nhau, rồi Mun nhanh chóng trả lời. "Tất nhiên rồi! Chúng tôi luôn sẵn sàng giúp đỡ!"
+
+Meo gật đầu tán thành. "Chúng tôi sẽ sử dụng sự thông minh của mình để tìm ra cách."
+
+Mướp, mặc dù vẫn còn buồn ngủ, nhưng cũng gật đầu đồng ý. "Nhưng...chúng ta sẽ được ăn bánh sau khi đánh bại phù thủy chứ?"
+
+Tiên Kẹo Ngọt bật cười. "Được chứ! Sau khi đánh bại Mứt Chua, các bạn sẽ có thể ăn tất cả những gì mình muốn!"
+
+Thế là, cuộc hành trình giải cứu Vương quốc Kẹo Ngọt của ba chú mèo bắt đầu. Họ được trang bị những vũ khí đặc biệt: Mướp với sức mạnh ăn khỏe phi thường, Meo với trí thông minh sắc bén và Mun với sự nhanh nhẹn và lạc quan.
+
+Họ bắt đầu hành trình bằng việc đi qua một khu rừng kẹo dẻo, nơi họ phải cẩn thận tránh xa những con sâu kẹo tham lam. Meo đã sử dụng sự thông minh của mình để tìm ra một con đường an toàn, trong khi Mướp, với bản tính tham ăn, lại không ngừng cố gắng ăn trộm những chiếc kẹo dẻo ngon lành. Mun thì nhảy nhót tung tăng, cổ vũ đồng đội.
+
+Tiếp theo, họ phải vượt qua một dòng sông sô cô la nóng hổi. Meo nghĩ ra cách làm một chiếc bè từ những chiếc bánh quy khổng lồ. Mướp thì tỏ ra thích thú với việc được bơi trong sô cô la, còn Mun thì liên tục nhảy xuống sông, tắm táp và nghịch ngợm.
+
+Cuối cùng, họ đến được lâu đài Mứt Chua. Lâu đài được xây bằng những viên kẹo mút chua loét, bao quanh là những chiếc bẫy ngọt ngào.
+
+"Chúng ta phải cẩn thận." Meo cảnh báo.
+
+"Mình đói bụng rồi." Mướp than vãn.
+
+"Đừng lo, mình sẽ nghĩ cách." Mun nói, cười tươi.
+
+Meo đã dùng trí thông minh của mình để vô hiệu hóa các bẫy, trong khi Mướp dùng sức mạnh ăn khỏe của mình để phá vỡ những chướng ngại vật. Mun thì lợi dụng sự nhanh nhẹn của mình để đánh lạc hướng đám lính kẹo chua, giúp cho hai bạn kia hoàn thành nhiệm vụ.
+
+Cuối cùng, họ đối mặt với Mứt Chua. Phù thủy độc ác đã sử dụng phép thuật của mình để tạo ra một cơn bão chua cay.
+
+"Ta sẽ biến Vương quốc Kẹo Ngọt thành Vương quốc Chua Chát!" Mứt Chua gào lên.
+
+Nhưng ba chú mèo không hề sợ hãi. Mướp nuốt chửng một lượng lớn kẹo mút chua, khiến hắn trở nên mạnh mẽ hơn. Meo sử dụng trí thông minh để tìm ra điểm yếu của Mứt Chua. Mun thì dùng sự lạc quan và những trò đùa của mình để làm suy yếu tinh thần của phù thủy.
+
+Cuối cùng, nhờ sự kết hợp hoàn hảo của sức mạnh, trí thông minh và sự lạc quan, ba chú mèo đã đánh bại Mứt Chua. Phù thủy tan biến thành một đống mứt chua, còn Vương quốc Kẹo Ngọt trở lại vẻ đẹp và sự ngọt ngào vốn có.
+
+Tiên Kẹo Ngọt vô cùng biết ơn. Cô đã thưởng cho ba chú mèo những chiếc bánh ngon nhất và cho phép họ ở lại vương quốc bao lâu tùy thích.
+
+Ba chú mèo trở thành những người hùng của Vương quốc Kẹo Ngọt. Họ sống hạnh phúc mãi mãi trong ngôi nhà cổ tích của mình, khám phá những điều kỳ diệu của vương quốc mỗi đêm. Mướp vẫn tiếp tục ăn, Meo vẫn tiếp tục tìm tòi, và Mun thì vẫn mãi lạc quan, mang lại tiếng cười cho tất cả mọi người. Và mỗi khi đêm xuống, tiếng cười nói và niềm vui của ba chú mèo lại vang vọng trong ngôi nhà cổ tích, kể cho chúng ta về một thế giới diệu kỳ mà nơi đó, tình bạn và sự dũng cảm luôn chiến thắng. Và thế là, câu chuyện về ba chú mèo ham chơi khám phá vương quốc kẹo ngọt vẫn còn được kể mãi cho đến tận ngày nay.
+</body>
+```

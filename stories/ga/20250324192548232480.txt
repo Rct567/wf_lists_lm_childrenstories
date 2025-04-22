@@ -1,0 +1,56 @@
+<prompt>
+Please write a creative and original Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Éisc aisteach agus na ceoltóirí Cluiche'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>ga</lang_id>
+
+```xml
+<title>Éisc aisteach agus na ceoltóirí Cluiche</title>
+<body>
+Bhí tráth ann, in Éirinn na h-aoise, cois cósta ghlan i gContae Chorcaí. Bhí sráidbhaile beag gleoite, Cill an Óir, ina gcónaí i measc na ngasóg a bhí ina gcónaí ann. Bhí teachíní beaga daite ar na haillte, boladh na mara san aer, agus fuaim an tsrutha ar an gcúrsa ar fad. Ba áit shona í Cill an Óir, agus ba mhinic a bhí an tsibhialta shónta faoi lúcháir agus faoi ghrá.
+
+Sa sráidbhaile, bhí ceathrar leanaí ann a bhí an-fheiceálach. B’iad Áine, Cormac, Saoirse, agus Fionn. B’fhearr leo go léir ceol ná aon rud eile. Ba mhór acu an tsainchruinniú ina raibh siad ag bualadh na n-uirlisí, iad ag déanamh seinm deas, sínte ag bualadh ar ghiotár, feadóg stáin, bosca ceoil, agus fidil. Bhí siad ar fad aibí, agus ba mhinic a fuair siad deis bheith ag seinm i gcaitheamh na hoíche ar fud an sráidbhaile. Thosaigh siad féin ag déanamh dóchas, ag mealladh daoine as gach uile áit le teacht chun iad a chloisteáil.
+
+Lá amháin, agus iad ag foghlaim sa charr arís, shroich siad cuid de shean-fhear, Seamus, a bhí ina gcónaí i dteach beag gar don gcósta. Bhaist Seamus agus é ag breathnú ar na páistí ag imirt ceoil. "Ceol deas," ar seisean. "Ach tá rud éigin ann...rud éigin difriúil atá á iarraidh ag an bhfarraige."
+
+D’fhéach na páistí ar a chéile. Cad a bhí á rá ag Seamus? Níor thuig siad an rud sin “difriúil” ar fad. "Cad atá tú a rá?" d'fhiafraigh Áine, an t-amhránaí beag diongbháilte.
+
+"Bhuel," a dúirt Seamus, "tá scéal ann faoi éisc aisteacha, i bhfarraige na h-Éireann. Éisc a bhfuil cluasa acu a fhreagraíonn don cheol."
+
+Na páistí ar fad ag iarraidh smaoineamh ar na focail. “Éisc le cluasa?” Dúirt Cormac, an ghiotáraí cróga, le hiontas. “Is dóigh liom nach bhfaca mé éisc le cluasa cheana!”
+
+Chríochnaigh Seamus an scéal. “Deirtear gur féidir leis na héisc seo go gcuirfidh siad ceol ar feadh tréimhse fhada. Nuair a imríonn tú do cheol i gceart, is féidir leo amhráin chomh maith."
+
+Agus chuaigh na páistí aistrigh ina súile, ar an gcúrsa a bhí aird a dhíriú ag amharc ar na fuaimeanna. Seo an áit a raibh an scéal le dul.
+
+An lá dár gcionn, shroich na páistí an cósta leis a n-uirlisí. Chuir siad tús le roghnú cuid de cheol. Níor chuimhin leo an cheist i mbéal Seamus. Thosaigh Fionn ar an bhfidil, ag seinm go bog, an tsraith tosaigh le haghaidh an amhráin 'Cuach Mo Chroí'. B'éigean dóibh a chuid féin den eolas a choinneáil. Chuaigh Saoirse isteach le fónamh beag, áilleacht agus cumhacht ag imirt a cuid féin, an bhearna ag déanamh dírigh. Ansin, shín Cormac amach le giotár ar na lámha, an ceol ag dul faoi leithleacha, ach leis an athrú. D'éirigh Áine suas le bosca ceoil, ag tosú ag canadh leis an mbealach.
+
+Bhí sé ar fad le haghaidh fuaime, ag imirt go cúramach. Ba dhóigh leis na páistí gur chuma leo ach a bheith sásta, iad go léir ag tabhairt an rud a chothaíonn é. Ar feadh cúpla nóiméad, sheinn siad ar feadh tréimhse ghearr, gan toradh. Ach ansin... chuala siad é.
+
+Ón bhfarraige, chuala siad fuaimeanna aisteacha. Níor léim an ghaoth as nó na tonnta ag tuile isteach, ach ag éirí go mall ó thuas, le teocht ar an meon. Thosaigh fuaimeanna mearbhailteacha agus ag crith timpeall orthu. Bhí na páistí ag coinneáil an chéill is fearr a bhí acu. Choinnigh siad iad i ngleic leo ar feadh tréimhse ghearr. Tháinig siad i dtír, agus éisc áiteacha á dtaghdáil.
+
+Bhí na héisc aisteacha ann. Níor léigh siad le haghaidh na haoise. Bhí siad beagán mór, leis na craicinn go léir go bheadh sé aithne a chur orthu. B’fhéidir beagáinín breac-dathach, ag breathnú mar a d'fhreastalaigh siad leis an ghrian agus an solas ag síneadh tríothu. Ach bhí siad ann go léir, agus éisc le cluasa ag féachaint orthu.
+
+Bhreathnaigh na héisc. Bhreathnaigh na páistí orthu. Ní raibh aon teagmháil, ach thosaigh Áine, le glór chomh fíochmhar. Lean siad léi, amhráin deas, cosúil leis an rud ar fad a bheadh orthu. Agus sheinn siad go léir le chéile.
+
+Agus iad ag foghlaim, chuir na héisc a gcuid féin leis an gcóras ceoil. Gach a bhfuil ann ag imirt. Ar an gceart is gaire, ag cruthú mealltachta, ag cruthú píosa ceoil deas agus uathúil. Bhí gach comhbhaireas go soiléir, idir na héisc agus na páistí.
+
+Le haghaidh amanna fada, sheinn siad le chéile. D'athraigh siad le haghaidh amhráin, leis na héisc ag canadh agus na páistí ag freastal ar an rud. D’athraigh siad le haghaidh go leor fuaimeanna, ag imirt, ag súgradh le scéalta nua. Bheadh sé dodhéanta an scéal ar fad a rá, leis an bhforógra á athrú ag amháin, agus álainn á imirt ag na páistí.
+
+Nuair a chuaigh an ghrian faoi, bhí orthu an seinm a stopadh. Bhí brón ortha, ach chinn siad gurbh fhéidir dóibh teacht ar ais arís arís. Nuair a chuaigh siad siar chuig Cill an Óir, bhí siad go léir ag cuimhneamh ar a bhfuil sa seisiún seo, cé chomh maith a chuaigh sé ar fad. Bhí siad ann, na ceoltóirí cluiche, agus anois bhí cara ó chúl ar ais ag cruthú rudaí go hiontach, chun a saol a dhéanamh níos soiléire.
+
+D’fhill na páistí go dtí an chósta gach lá. Tháinig siad, gan teipeanna, agus thosaigh siad ag canadh leis na héisc, ag gabháil dóibh. Le himeacht aimsire, bhí áthas ar na héisc.
+
+Tharla a n-ainm go léir faoi chois an tseana-fhir, agus bhí an tsaoirse ag léiriú ag imirt cheoil le chéile, ag cruthú amhráin nua agus ag roinnt leo, a thimpeall is faoi uain. Thug siad a gcruthú faoi dheifir dóibh. Agus fuair na héisc, nó na "Ceoltóirí Cluiche" mar a thugtar orthu anois, an tsaoil chéanna a mhealladh an mhaith agus an áilleacht.
+Chríochnaigh siad ar fad ag foghlaim a chéile, a gcomhshaol, agus d'fhan an scéal seo beo i gcúrsa Cill an Óir go deo. Is minic a labhraítear faoin gceol cois cladaigh fós, agus ní bhíonn ach éisteacht ghlan ann. Is minic a chuimhnítear ar cheoltóirí cluiche agus ar a n-eispéireas ar fad. Agus deir daoine gur féidir leat iad a chloisteáil uaireanta fós, ag seinm na hamhráin áille ar an bhfarraige.
+
+Agus chuige sin, bíodh beannacht agat ar na héisc aisteacha agus na ceoltóirí cluiche, a d’fhág leá a n-amhráin sa farraige, agus a chuir ceol go croí na gceoltóirí beaga go léir.
+</body>
+```

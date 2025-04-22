@@ -1,0 +1,31 @@
+<prompt>
+Please write a fun and entertaining Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Malý rytíř z Čech a jeho dobrodružství'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Malý rytíř z Čech a jeho dobrodružství</title>
+<body>
+<p>V malebné vesničce na úpatí Šumavy žil malý rytíř jménem Jakub. Nebyl to žádný velký rytíř s mohutnou zbrojí a hromobitným mečem. Jakub byl malý, s kudrnatými vlasy barvy slámy a očima jako dva lesklé kamínky.  Jeho štít byl vyroben z krásně zdobeného dřevěného talíře a jeho meč byl obyčejný kuchyňský nůž s křivým hrotem, který dědeček nazýval "Štěstíčko".</p>
+
+<p>Jakub toužil po dobrodružství. Slyšel o dracích, kteří hlídali poklady v hlubokých jeskyních, o čarodějnicích s kouzelnými bylinami a o tajemstvích, která se skrývala za lesními stromy.  Každý den se snažil najít alespoň malou stopu po těchto dobrodružstvích.  Jednoho krásného jarního dne, když sbíral divoké květiny na okraji lesa, narazil na starou, rozpadající se knihu. Na její popraskaných stránkách se mu zjevil nápis psaný tajemným jazykem. Jakub, i přes jeho malou výšku, dokázal rozluštit podivné symboly.  Kniha hovořila o pokladu skrytém v tajemné jeskyni, která se nacházela na vrcholu nejvyšší hory v Čechách.  A tak se Jakub rozhodl, že po poklad vyrazí!</p>
+
+<p>Sbalil si malou bramborovou polévku, několik sušenek a Štěstíčko, a vydal se na cestu.  Les byl plný tajemství a ticha.  Setkal se s malým jezevcem, který mu pomohl najít cestu přes hustý lesní porost. Potkal i roztomilé srnky, které ho provázely po kopcích, a v lese slyšel zpěv ptáků, kteří sdíleli své písně o dobrodružstvích, která se skrývala v srdci Šumavy.</p>
+
+<p>Cesta byla dlouhá a náročná. Jakub se musel plazit pod větvěmi rozvětvených stromů, přeskakovat přes kamenité potoky a překonávat strmé kopce.  Občas si stěžoval na bolesti v nožkách, ale jeho touha po pokladu ho držela v chodu.  Večery trávil pod krásně zářící hvězdnou oblohou a poslouchal příběhy nočního lesa.  Až v jeden den, po mnoha dnech a nocích, došel na vrchol nejvyšší hory. Tam před ním se otevřela tajemná jeskyně, jejíž vstup byl schovaný v hustém porostu.</p>
+
+<p>Jakub se s úžasem díval na úchvatnou jeskyni, která se leskla tajemnými záblesky.  Vstoupil do jejího nitra a po cestě se setkal s nejrůznějšími překážkami.  Musel se proplétat mezi stalaktity a stalagmity, překonávat kluzké kamenné schody a vyhýbat se hladovým netopýrům.  Všude se vznášel zápach divokých bylin a tajemných vůní.</p>
+
+<p>Nakonec dorazil k velkému pokladovému hrnci, plnému lesklých drahých kamenů a zlaťáků.  Jakub si však uvědomil, že poklad není jen o drahokamu a zlatě.  V knize zjistil, že poklad je o poznání sebe sama, o síle přátelství a o ocenění krásy přírody.  S úsměvem si vzal pár malých drahokamů a dal zbytek pokladu zpátky do hrnce.  Rozhodl se, že jeskyni opustí a už nikdy se ho nebude snažit opětovně najít.</p>
+
+<p>Jakub se vrátil do své vesnice, kde ho vítali s radostí.  Už nikdy nehledal poklady v jeskyních, ale hledal je v srdcích lidí, v krásách přírody a v tajemstvích lidských duší.  Přátelé ho oceňovali, protože se stal nejlepším rytířem z Čech, ne proto, že měl zbroj, ale proto, že měl štěstíčko, které mu pomáhalo na cestě.</p>
+
+<p>Jakub se stal moudrým a láskavým rytířem, který vždy pomáhal ostatním a šířil štěstí. Jeho příběh se stal legendou v celé Šumavě a děti si ho pamatovaly jako Malého rytíře z Čech, který se nezaměřil na materiální bohatství, ale na duchovní dobrodružství. A tak se Jakub stal symbolem odvahy, laskavosti a moudrosti, a jeho příběh se stal inspirací pro mnoho dětí v Čechách.</p>
+</body>

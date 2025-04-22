@@ -1,0 +1,127 @@
+<prompt>
+Please write a dialog-based Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Bé Ngọc và Bí Mật Của Chiếc Rương Kho Báu.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>vi</lang_id>
+
+```xml
+<title>Bé Ngọc và Bí Mật Của Chiếc Rương Kho Báu.</title>
+<body>
+"Mẹ ơi! Mẹ ơi!" Tiếng Ngọc gọi lớn, lon ton chạy vào nhà, hai má ửng hồng.
+
+"Gì vậy Ngọc ơi? Sao mà hớn hở thế?" Mẹ Ngọc đang nhặt rau trong bếp, nhìn con gái bằng ánh mắt trìu mến.
+
+"Hôm nay cô giáo kể chuyện hay lắm mẹ ạ! Chuyện về một chiếc rương kho báu." Ngọc nhảy cẫng lên, đôi mắt long lanh.
+
+"Ồ, rương kho báu à? Thế trong rương có gì?" Mẹ cười, vỗ nhẹ lên đầu con.
+
+"Trong đó có vàng bạc, kim cương, và... và cả một bí mật nữa!" Ngọc hào hứng kể. "Cô bảo muốn tìm được rương, phải vượt qua nhiều thử thách."
+
+"Thử thách ư? Nghe hấp dẫn đấy. Thế con có muốn đi tìm rương kho báu không?" Mẹ hỏi, giọng đùa vui.
+
+Ngọc gật đầu lia lịa. "Dạ có ạ! Nhưng con không biết bắt đầu từ đâu."
+
+"Hay là mình thử tìm kho báu trong nhà mình xem sao? Ai biết được, có khi nó ở ngay đây!" Mẹ gợi ý.
+
+"Tuyệt vời!" Ngọc reo lên. "Mình tìm ở đâu trước mẹ?"
+
+"Mình tìm ở những nơi con thích nhất đi. Chẳng hạn như, phòng của con xem sao." Mẹ đề xuất.
+
+Ngọc chạy tót lên lầu, theo sau là mẹ. Phòng Ngọc được trang trí đầy màu sắc với những bức tranh ngộ nghĩnh, gấu bông và sách truyện.
+
+"Mình tìm ở đâu đây?" Ngọc hỏi, vừa đảo mắt nhìn quanh phòng.
+
+"Mình tìm từ từ thôi. Trước tiên, mình xem xét những nơi mình thường để đồ nhé. Ví dụ, tủ sách xem sao." Mẹ nói.
+
+Hai mẹ con bắt đầu lục tung tủ sách. Ngọc lôi từng cuốn sách ra, mẹ giúp bé lau bụi và sắp xếp lại.
+
+"Không có gì hết mẹ ơi." Ngọc thở dài.
+
+"Chưa xong mà. Mình cứ từ từ thôi. Tiếp theo, mình xem dưới gầm giường đi." Mẹ bảo.
+
+Ngọc và mẹ cùng nhau kéo chiếc giường lên. Bên dưới, bụi bặm phủ đầy, nhưng tuyệt nhiên không có chiếc rương nào.
+
+"Chán quá!" Ngọc chán nản. "Mình tìm ở đâu nữa bây giờ?"
+
+"Đừng nản lòng chứ. Mình tìm trong tủ quần áo của con xem sao." Mẹ động viên.
+
+Ngọc mở tung tủ quần áo. Quần áo xếp ngay ngắn, giày dép được cất gọn gàng.
+
+"Cũng không có luôn mẹ ơi." Ngọc càng lúc càng thất vọng.
+
+"Chà, đúng là kho báu rất biết cách trốn đấy. Nhưng không sao, mình cứ tiếp tục. Giờ mình thử tìm trong nhà bếp xem, nơi có nhiều đồ ăn ngon xem sao?" Mẹ cười.
+
+"Nhà bếp?" Ngọc ngạc nhiên.
+
+"Đúng rồi. Ai biết được, có khi kho báu lại thích ở gần đồ ăn ngon chứ." Mẹ nói.
+
+Ngọc và mẹ vào bếp. Ngọc bắt đầu lục tung các ngăn tủ. Mẹ thì giúp Ngọc tìm kiếm cẩn thận.
+
+"Không có gì hết." Ngọc thở dài một lần nữa.
+
+"Mình thử xem trong tủ lạnh xem sao." Mẹ đề nghị.
+
+Ngọc mở tủ lạnh, bên trong có rất nhiều rau củ quả, thức ăn được bảo quản cẩn thận.
+
+"Không có luôn mẹ ơi." Ngọc nói, giọng đã hơi xuống.
+
+"Thôi nào, mình chưa bỏ cuộc. Mình còn nhiều chỗ để tìm lắm. Giờ mình tìm ở ngoài vườn đi." Mẹ gợi ý.
+
+Hai mẹ con ra vườn. Vườn nhà Ngọc trồng rất nhiều hoa và rau xanh.
+
+"Mình tìm ở đâu trước đây?" Ngọc hỏi.
+
+"Mình tìm ở khu vực chơi của con đi. Chắc chắn con hay để đồ ở đó lắm." Mẹ nói.
+
+Ngọc chạy đến khu vực chơi, nơi có xích đu, cầu trượt và nhà gỗ nhỏ.
+
+"Mình tìm dưới cầu trượt xem sao." Mẹ nói.
+
+Ngọc và mẹ cùng nhau kiểm tra dưới cầu trượt, nhưng không có gì.
+
+"Mình tìm trong nhà gỗ xem." Mẹ tiếp tục.
+
+Ngọc mở cửa nhà gỗ, bên trong có nhiều đồ chơi.
+
+"A! Mẹ ơi, con tìm thấy gì này!" Ngọc reo lên, tay cầm một tờ giấy cũ.
+
+"Gì vậy con?" Mẹ lại gần.
+
+"Là một bức tranh, và… và có chữ viết nữa." Ngọc nói.
+
+Mẹ nhìn vào bức tranh. Đó là hình một chiếc rương kho báu, và bên dưới có một dòng chữ: "Muốn tìm được kho báu, hãy tìm ở nơi tình yêu ngự trị."
+
+"Tình yêu ư?" Ngọc ngơ ngác. "Ở đâu là nơi tình yêu ngự trị hả mẹ?"
+
+Mẹ nhìn con gái, mỉm cười. "Theo con thì sao?"
+
+Ngọc suy nghĩ một lúc. "Con… con nghĩ… là ở trong gia đình mình ạ."
+
+"Chính xác!" Mẹ ôm Ngọc vào lòng. "Tình yêu thương trong gia đình là kho báu vô giá nhất."
+
+"Nhưng… chiếc rương kho báu đâu ạ?" Ngọc hỏi.
+
+"Chiếc rương kho báu đã ở đây rồi, con yêu ạ. Đó là ngôi nhà của mình, là những người mình yêu thương." Mẹ nói.
+
+"Vậy… không có vàng bạc, kim cương ạ?" Ngọc có vẻ hơi thất vọng.
+
+"Có chứ! Kho báu còn nhiều thứ hơn thế. Đó là sức khỏe của con, là những ngày con được vui cười, là sự quan tâm chăm sóc của ba mẹ." Mẹ giải thích. "Vàng bạc, kim cương chỉ là những thứ phù phiếm thôi. Điều quan trọng nhất là tình yêu thương."
+
+Ngọc gật đầu, hiểu ra vấn đề.
+
+"Thế giờ mình tìm cái gì ạ?" Ngọc hỏi.
+
+"Mình tìm… một ngày thật vui vẻ bên nhau nào!" Mẹ cười tươi. "Mình sẽ làm món bánh pizza ngon nhất cho con, con có thích không?"
+
+"Tuyệt vời!" Ngọc reo lên. "Con thích lắm ạ! Mình đi làm bánh pizza thôi mẹ ơi!"
+
+Thế là hai mẹ con cùng nhau vào bếp, chuẩn bị nguyên liệu và làm bánh pizza. Tiếng cười nói rộn rã, căn bếp tràn ngập hương thơm của bánh nướng và tình yêu thương.
+
+Buổi chiều, cả gia đình Ngọc cùng nhau thưởng thức chiếc bánh pizza do hai mẹ con làm. Bé Ngọc cười tươi rói, hạnh phúc vì đã tìm thấy "kho báu" thật sự của mình. Chiếc rương kho báu bí ẩn kia, cuối cùng cũng được khám phá, ẩn chứa trong tình yêu thương gia đình, trong những điều bình dị mà vô giá. Và bé Ngọc hiểu rằng, kho báu không chỉ là vật chất, mà là những giá trị tinh thần, là tình cảm, là niềm vui, là tất cả những gì tạo nên cuộc sống hạnh phúc.

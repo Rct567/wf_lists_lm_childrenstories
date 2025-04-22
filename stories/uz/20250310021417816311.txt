@@ -1,0 +1,58 @@
+<prompt>
+Please write a light-hearted Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'To'g'ri yo'l va Uy hayvonlari bilan sayohatlar'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>To'g'ri yo'l va Uy hayvonlari bilan sayohatlar</title>
+<body>
+O'rta Osiyo, go'zal tog'lari, chirkin daryolari bilan, xalqaro yo'l bo'ylab qishloqlarga olib boradigan yo'l bor edi.  Bu yo'l, odamlarni, mushuklarni, itlarni va hattoki filarni ham o'z ichiga olgan, keng va to'q ranglarga boy edi. Lekin bir kun bu yo'lda, haqiqiy sayohat chiqquncha, o'ziga xos to'g'ri yo'lni topish kerak edi.
+
+
+Kichkina Xayrulla, oq quyon, daraxt ildizlarining boshlarida g'umbirak o'yinlari o'ynab o'tirardi.  Uni bir kunda, eshkilga o'xshash va to'g'ri, kulrang tukli it qiziqtirdi. "Ey, Xayrulla, nima qilyapsan?", deb so'radi it, oyoqlarini bir oz silkitgan holda.
+
+
+"Men to'g'ri yo'lni izlayapman," dedi Xayrulla, boshini ko'targancha.  "Qayerga qadar boradigan ekan, bu yo'l?", deb so'radi u hayron qilib. Itning ko'zlari, uning savoliga javob sifatida, qorong'u tog'lar o'rtasida yonib turdi.  "Bu yo'l, seni eng go'zal o'tloqlarga, eng yaxshi o'rmonlarga va hattoki bulutlar ustiga olib borib, hamma narsaning ortiga yetkazadigan bir joyga borib olib boradi", deb javob berdi it.
+
+
+"Afsuski, bu yo'lda hali men nima qilish kerakligini tushunmadim," dedi Xayrulla, yuzini izlash qilgan holda. U o'ylab qoldi va boshini chayqatib yubordi.
+
+
+Keyin, ularning orqasida, oq qo'y borligini payqashdi. Qizil rangli  oyoqlari bilan to'kib turgan go'zal hayvon. Qo'y o'zlarining kichik qandayligi va qandayligini his qilardi va qiynoqni ham yashira olmasdi. "Salom, qayerga bormoqdalar", dedi qo'y, ovozini bir oz baland qilib.
+
+
+"Biz to'g'ri yo'lni topishni istaymiz", deb javob berdi Xayrulla, quloqlarini silkitgan holda.
+
+
+"Unda biz bilan ketishingiz mumkin," dedi qo'y va yurishni boshladi. Bir so'z aytmasa ham, hamma uni tushundi. Oq quyon, kulrang it va qizil qo'y, ularni quvonch bilan orqa tomondan to'plagan xursandchilik osmonida to'planib yo'l olishni boshladilar.
+
+
+Birgalikda yo'lga chiqishgan sayyohlarni tog'larning boshi ostida, yashil gulzorlarni, yosh daraxtlar va baland tog'lar orasida boqilgandan keyin juda chiroyli yo'l olishdi.  Ularning oldiga ko'tarilgan har bir joydan, quvonch olamiga tushadigan qumloq bo'lib, dunyoni yoritdi.
+
+
+Xayrulla qiziqishlarining yo'lini to'xtatib, hamma narsaning tabiatini tushunib yetdi. Qo'ylar juda yaxshi o'tloqlarni topishgan va itni daraxt soyalari ostida uyquga botirgan edi.
+
+
+Yozning har bir kunida uzoq yo'llarni bosib o'tishgandek,  ulkan  va ajoyib dunyoga kelishgan edi.  Ular daryolardan, ko'llaridan va o'tloqlaridan o'tib, ko'rishgan ko'rinishlar bilan quvonib, turli tabiatga singib ketishdi.  Kechayu kunduz qushlar bilan yo'l tutganliklari borayotgan yo'llari borligini ko'rishgandek ko'rinib turardi.
+
+
+
+Qo'ylarning eng yaxshi joylarini tanib bo'lib,  har tomonlarni o'rganish uchun vaqt vaqt o'tar edi. O'tloqlar ularga tinchlik berganidan beri ular hamma narsadan mamnun edi. Har bir oyoqdagi yumshoq o't va gullarning har biri ular uchun hech qachon unutilmaydigan xotiraga aylandi.
+
+
+Bir kun Xayrulla to'g'ri yo'l bo'lishini ko'rdi. Bir qator bir-biriga bog'lab turgan daraxtlar orqasida, juda uzoqdan porlayotgan narsaga qarasa, u bir ko'rikni uchratdi. Bu ulkan, go'zal uy hayvonlari bilan sayohat joyi bo'lgan, ularning har birining o'z xususiyati va yoshi bor edi. U erda otlar, ayiqlar, buvilar, shovqinlar - har bir hayvon.
+
+
+
+Ular xursandchilik tuyg'ularini boshqalar bilan baham ko'rishgandan xursand bo'lishdi, baxt oqimi ularga chuqur to'ldi va har bir yurak birlashdi. Ushbu do'stona joylarda hamma uy hayvonlari do'st bo'lishdi.  Bajarilgan maqsad, ularning birga harakatlarini yaratgan sabab edi. Hammasi qanday qilib yashaganliklari bilan birgalikda sayohatga juda  bo'lgan.
+
+
+ Xayrulla shuni angladiki, to'g'ri yo'l faqat harakat qilish bilan emas, balki qalbingda hamma narsalarga xursandchilik va mehr bilan emas. Yo'l, ularda va o'zlaridan iboratdir. Shundan keyin hamma qalbidan sayohatiga shunday sodiq bo'lgan va birga hamma uy hayvonlari bilan sharaf va sharaf qozongan edi.
+</body>

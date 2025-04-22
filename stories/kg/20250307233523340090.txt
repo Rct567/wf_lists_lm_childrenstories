@@ -1,0 +1,46 @@
+<prompt>
+Please write a timeless Kongo children's story that is at least 1000 words long.
+It must be completely written in proper Kongo (KG).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>kg</lang_id>
+
+<title>Ntu Mboma ya Kimbangu</title>
+<body>
+Ntu mboma ya Kimbangu, mwana ya mvimba, yaunda yina yalangalala na yimbula ya muambu a Kimpese.  Kimbangu, ye mbisi ya mubende, yatangala ye malembe malembe, ndungu ya ntoto ye yimba ya madiamba yikuma mfulu na ntu y’andi.  Ngangu zandi zatanga muna vunda ya mpimbila, mambu, ye nzila ya mayela ya mbanga ya ngumba ya makuta.
+
+Mosi mu lumbu, Kimbangu yakutana ye mbisi yankaka, mpombo yitangilwanga Malula.  Malula wakituka na mpasi ya wisa yo wutina.  Nkatu ya ntoto yadila, o ziku ya ntima yankaka ya mbongo ya wela muna mbote z’andi.  O ntoto wakuma nlefu ye vanga ya vonda.
+
+Kimbangu, ye ntima ya zola muna ntima, yakimona ye vunda ya mpasi za Malula.  Yakeba ntangu. Yakuba ye malembe-malembe.  Yakubanza, yakuba-ye, yakuba-ye, malembe malembe, yandi mosi.
+
+"Malula," yozoloka Kimbangu, "o nkia mpasi ovovanga?"
+
+Malula, yandiluka ye nsala ya vuna na mata ya madilu, yavova.
+
+"Mbwela zaya zaba nkini. Mpasi yavioka muna ndolola. Wisa zimeyanga na yila."
+
+"Kala o wela, Malula," Kimbangu yavova. "Mambu mebaka mpasi zandi. Yamba betiambuka ya muntu. Ye muntu ya vumbana yimani.
+
+Yakubanza-ye ye mawu yandandi.  Etu-ye e ntoti na makutu yandandi, na yila yandi, Kimbangu yatukisa mawu na nzila. Kimbangu, ye ngangu yambi yakisumba mpamba, yafidika Malula ye ziku,  na ndambu zandi. Yakuwa, yasangana  ye mbumba, yafika Malula kuna nzila y’ayaku.
+
+Kimbangu yakatula mbuma ya mufumbila zivana yila.  Ye nkatu yamuimba na ntoto, yakuba ye ngongo, ye mabele. Kimbangu yakuyimbidi nto zila, mbuma, ye nsangu zitaza.
+
+Kimbangu yakafumba mabele ye yavandwisa mabele. Yakasakesa Malula na madia ma mbundu ye mankandi ma mwansa. Malula wakumona nzila yayingi muna mawanga.
+
+Mu ngelezi, ye nsunga yamuka, Malula wayokolelwa wutini a mfu.
+
+“Ndolongo a ntu.” Kimbangu yandika.
+
+Malula, ye ngolo ye lukumu, yandibula muna ndumbu za madia ma nsala. Ndzoka zakumona malembe malembe. Malula wawandila nkini, e yimpila yamutunzuka  mu nzila ya ndolola.
+
+Yakuba ye malembe-malembe.  Yakuba-ye ye kisi mu kisi. Yatokisula ntu mvimba na nima ya maledi andi, na nima za mpasi. Malula wabona ye witula nzila yansadisanga.
+
+Ntu mboma ya Kimbangu yalandakana na wuta ya nzila yankaka ya mayela, vavanga ya nkaka ya makanda.  Mu lumbu yankaka, ye ntangwa yankaka, yamona ye nkumba.  Yalangalala na yiso ye ntoto.  Yamona ntangwa muna mawanga. Yalangalala na  nsaka, mfunu a lumbu.  Kimbangu yafinama ye luzingu, mpimbo za mabaku-ye ye mayela mayimpila. Ntu mboma a ndolola yavikilwa ye ngungu ya lukumu.  Kimbangu yatukula wela na vula muna yimbwa- ye zingu ye ndolola ya malula ya ntete.
+
+
+</body>

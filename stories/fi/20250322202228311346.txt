@@ -1,0 +1,75 @@
+<prompt>
+Please write a timeless Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Taikurin hattusta löytynyt puhuva pupu ja sen uskomattomat seikkailut lumisessa metsässä.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fi</lang_id>
+
+```xml
+<title>Taikurin hattusta löytynyt puhuva pupu ja sen uskomattomat seikkailut lumisessa metsässä.</title><body>Olipa kerran, kauan sitten, taianomaisessa metsässä, pieni, pörröinen pupu nimeltä Lumikki. Lumikki ei ollut aivan tavallinen pupu. Ensinnäkin, hän osasi puhua. Toiseksi, hän oli asunut suurta taikurin hattua sisällä.
+
+Tämä taikurin hattu, joka oli aina hieman vinossa ja täynnä höyheniä ja kimalletta, seisoi pienen, harmaan mökin ullakolla. Mökissä asui vanha, parrakas taikuri nimeltä Aatos. Aatos oli ystävällinen, vaikkakin hieman hajamielinen. Hän usein unohti mihin oli asettanut taikasauvansa, ja etsi sen sitten tuntikausia, mumisten itsekseen.
+
+Lumikki oli viihtynyt taikurin hatussa erinomaisesti. Hattu oli pehmeä ja lämmin, ja siellä oli aina maukkaita porkkananpaloja ja apilanlehtiä tarjolla. Lumikki oli oppinut taikurin jutustelusta ja lukenut ääneen taikakirjoja, jotka Aatos oli unohtanut hattunsa viereen. Lumikki tunsi itsensä melkein yhtä viisaaksi kuin Aatos itse, ainakin niin viisaaksi kuin pupu voi olla.
+
+Eräänä kylmänä, lumisena aamuna Aatos etsi taikasauvaansa. Hän käänsi ullakon ympäri, nosti mattoja ja kolusi laatikot. Lopulta hän huokaisi ja päätti katsoa hattustaan, onko se siellä. Kun Aatos nosti hattunsa, Lumikki, nukuttuaan pehmeällä höyhenkasan päällä, virkosi ja venytteli.
+
+"Huomenta, Aatos!" Lumikki sanoi iloisesti.
+
+Aatos hyppäsi säikähdyksestä. Hän katsoi pupua, sitten hattua, sitten taas pupua. Hän ei ollut koskaan kuullutkaan puhuvista pupuista. "M-mitä?" hän stammasi.
+
+"Minä olen Lumikki, ja asun sinun hatussasi," pupu vastasi kärsivällisesti. "Olen etsinyt sitä taikasauvaa, oletko nähnyt sitä?"
+
+Aatos oli täysin sanaton. Hän istui lattialle ja tuijotti pupua. Lumikki päätti, että tämä oli hyvä hetki aloittaa. Hän hyppäsi Aatoksen olkapäälle ja alkoi selittää: "En ole mikään tavallinen pupu. Olen oppinut sinun ansiostasi paljon taikuudesta. Olen jopa kokeillut pari taikaa itse."
+
+Aatos palautui hiljalleen järkiinsä. "Taikaa? Oletko todella tehnyt taikoja?" hän kysyi ihmeissään.
+
+"Toki!" Lumikki vastasi. "Esimerkiksi, voin saada tämän ullakon näyttämään keväiseltä niityltä, hetkessä!" Lumikki sulki silmänsä, ja viittoi tassullaan. Yhtäkkiä, ullakolla alkoi tuoksua koivuilta ja nurmikolta. Aurinko paistoi ikkunasta, ja katossa olevasta reiästä lennähti sisään perhonen.
+
+Aatos hämmästyi niin kovasti, että hän tiputti taikasauvansa lattialle, jonnekin lumen alle. "Uskomatonta!" hän huudahti. "Sinä olet todellinen taikapupu!"
+
+Niinpä Aatoksen ja Lumikin suuri seikkailu alkoi. Aatos päätti ottaa Lumikin mukaansa. He päättivät lähteä seikkailemaan lumiseen metsään. "Olen aina halunnut löytää taikaomenapuun, joka kukkiikin keskellä talvea!" Aatos sanoi innokkaasti.
+
+He valmistautuivat matkaan. Aatos puki lämpimän takin ja villahousut, sekä tietenkin, pipon. Lumikki kietoi pienen, pörröisen turkkinsa ympärille paksun, punaisen villahuivin, jonka Aatos oli antanut hänelle. He lähtivät ovesta ulos, metsään.
+
+Lumisessa metsässä oli kaunista, mutta myös hieman pelottavaa. Tuuli ujelsi puiden latvoissa, ja lumi narisi jalkojen alla. Lumikki oli ihmeissään. Hän oli asunut niin kauan hatussa, että tämä oli hänen ensimmäinen varsinainen seikkailunsa.
+
+He kulkivat pitkään, ja Lumikki ohjasi heitä. Hänen taikatiedollaan he löysivät reitin yli syvän kurun, ja ovelasti väistivät metsähiiren pesän. Lopulta, he tulivat aukealle. Keskellä aukeaa seisoi lumihuntuinen, koristeellinen omenapuu. Sen oksilla kimmelsi lumikiteitä.
+
+"Tässä se on!" Aatos huusi iloissaan. "Taikainen omenapuu!"
+
+Lumikki hyppäsi alas Aatoksen olkapäältä ja alkoi tutkia puuta. Hän huomasi, että lumen alla oli pieni luukku. "Katsokaa!" Lumikki huudahti. "Täällä on luukku! Luulen että se johtaa puun juurella sijaitsevaan piiloon!"
+
+Aatos oli innoissaan. Hän avasi luukun, ja he laskeutuivat alas pieneen, lämpimään huoneeseen. Huone oli valaistu hämärästi kynttilöillä, ja sen keskellä seisoi pieni pöytä. Pöydällä lepäsi kirkkaanpunainen omena. Se oli aivan kuin unesta.
+
+"Omena!" Aatos huudahti. "Taikaomena!"
+
+Juuri kun Aatos oli aikeissa tarttua omenaan, ovi avautui ja sisään astui pieni, harmaa hiiri. Hiirellä oli silmillään silmälasit ja se kantoi olkapäällään kirjaa.
+
+"Tervetuloa, ystävät," hiiri sanoi ystävällisesti. "Minä olen Niilo. Olen tämän puun vartija."
+
+"Vartija?" Aatos kysyi hämmästyneenä.
+
+"Totta kai," Niilo vastasi. "Taikuuden vaaliminen on minun tehtäväni. Ja te olette löytäneet taikaomenan, mikä on suuri kunnia!"
+
+Niilo kertoi, että taikaomena antoi syöjälleen yhden toiveen, mutta toive piti olla hyvä ja toisten onnea tuova. Aatos ja Lumikki katsoivat toisiaan.
+
+"Mitä te haluatte toivoa?" Niilo kysyi ystävällisesti.
+
+Aatos katsoi Lumikkia ja ymmärsi heti. "Toivon, että meillä on aina mukava paikka, jossa voimme asua ja, että meillä on toisemme." Lumikki hymyili ja pudisti päätään hyväksyvästi.
+
+Omena hohti hetken kirkkaanpunaisena ja katosi sitten pois. Sitten heidät yllätti kaunis valo, joka täytti koko huoneen. Kun valo sammui, Aatos ja Lumikki huomasivat, että he olivat taas ulkona aukealla. Omenapuu kukkui upeasti.
+
+He palasivat takaisin mökkiin. Ollessaan matkalla, Aatos totesi: "Mitä hienoa päivä! Voin varmaan pitää sinut hatussani, jos haluat, mutta et saa muuttaa enää muualle. Lumikki!"
+
+"Toki," vastasi Lumikki hymyillen. "Mutta olen oppinut tästäkin seikkailusta ja tiedän, että seikkailuja on monia. En malta odottaa!"
+
+Ja niin, Aatos ja Lumikki jatkoivat elämäänsä, ja seikkailivat yhdessä taianomaisessa metsässä, sydämissään loputtoman ystävyyden riemu. Ja tästä, rakkaat lapset, opimme, että ystävyys, kekseliäisyys ja hyväsydämisyys ovat suurimpia taikoja mitä maailmasta löytyy!
+</body>
+```

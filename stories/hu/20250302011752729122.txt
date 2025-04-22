@@ -1,0 +1,31 @@
+<prompt>
+Please write a timeless Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A Kék Ló, Aki Beszélni Tudott'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>A Kék Ló, Aki Beszélni Tudott</title>
+<body>
+A békés, napsütötte faluban, ahol a háztetők virágos kertként pompáztak, élt egy furcsa, kék színű ló. Nem volt ő a szokásos barna, vagy fekete lovuk közül, hanem egy fényes, mélykék, szinte az égbolttal versengő szőrű állat volt. Nevezték is így: Kék Lónak.  A Kék Ló azonban nem csupán egy szép látvány volt, hanem egy szokatlan tulajdonsággal is rendelkezett: beszélt.
+
+A falu lakói, a vidám gyerekektől kezdve a bölcs öregemberekig, mind tudták, hogy Kék Ló egy különleges lény. A reggeli tejesvödör visszacsapása során is hallották halk, mély, szinte a füvek susogásához hasonló hangját. Este, mikor a csillagok kezdtek megjelenni az égen, a Kék Ló gyakran mesélt a falusiaknak az égbolton utazva látott csodás történetekről, a távoli országokról, a nagy szélességi körökről és szorosokról.
+
+Egy napon, amikor a nap a legfényesebben ragyogott, és a falu minden lakója el volt foglalva a napi teendőivel, a falu szélén elhalt egy gyönyörű, virágos fa. A falevelek mind leestek, a virágok elfonnyadtak, és a fa csak üresen, elhagyatottan állt. A falu lakói szomorúak voltak, hiszen ez a fa generációk óta ott állt, árnyékot nyújtott a forró napokon, és szeretet volt a mindennapjaikban.
+
+A Kék Ló, látva a falusiak szomorúságát, odament a leszáradó fához. Nem sírt, nem morgott. Halk, megértő hangon megszólalt: „A fának nincsenek többé erői, gyermekeim. Megöregedtek a gyökerei, a levelei kiszáradtak. De nem kell szomorkodni. Újra virágba fog borulni.  S hogy miként, megmutatom nektek!"
+
+A Kék Ló maga mögé nézett, megcsodálta a környéket, és csendesen felszólt a csendes, mélyhangú hangjával. A falusiak értetlenül nézték, hogyan fogja feléleszteni a gyökeres fává változó növényt. A Kék Ló azt mondta: „Minden ember, minden növény, mindennek van maga a szépsége, ereje és meghatározottsága, azonban ha az elveszik, nem szabad kétségbeesni." Majd halkan elmesélte a régebbi generációk történeteit arról a nagyszerű emberi energiáról és a fa mélységéről. A mese végén, a falu fiatalai magukhoz vettek egy tőrt. Ezzel levágták az összes halott ágát.
+
+Mindenki egy-egy kisebb és nagyobb földterületet kapott. Oda gyűjtöttek maguknak  virágokat, különféle fűszeres növényeket és magokat. Ezek a tengernyi összegyüjtött magvak segítették az embereknek, hogy megműveljék a földterületeket. A gyönyörű virágzással, ami követte ezt a nagyszerű munkát, újra virágba borultak a házak és az udvarok, újra ragyogtak a színek, újra megteltek a gyümölcsfák, a szőlők és zöldségek gyümölcsekkel. Egy kis gyepben a fiatalosabb lányok és fiúk virágfüzért, vagy egyéb ajándékokat készítettek. Ez a virágfüzér segítségével közelebb kerültek a boldogabb napokhoz, emlékeztettek a boldogabb, nagyobb csodákra. És mindenki látta, hogyan éled újra a fa.
+
+És a Kék Ló folytatta a mesélését a szélben. A kisfalusiak szépen kiültek a gyepre, mely már tele volt újabb gyümölcsökkel és zöldségekkel.  Egy élénk szivárvány kíséretében látványosan elhaladtak mellettük, elrepültek a messzeségbe. A csillagok, felhők, a fényes, gyönyörű felhőképek az ég színezésének gazdagságával élesítették minden egyes szót. A gyerekek szorgalmasan figyelték minden mozdulatot. Minden étel, virág és szín megmaradt és meghatározó volt a boldog, nyugodt napokhoz, emlékeztetőül a nagy felhők és esőzések által nyújtott szépségre.  Újra virágba borult a fa. Új életet kezdett a virágok között. A falu ismét gyönyörű és boldog lett.
+
+Kék Ló elhallgatott. A falusiak pedig mosolyogva nézték az égre, mely tele volt az ezernyi különlegesen formált felhővel, az újrateremtett fával. A nap nyugodott, a csillagok ragyogtak, és mind tudták, hogy a szeretet és a gondoskodás mindig győzedelmeskedik a szomorúság felett.  A Kék Ló pedig, mintha a varázslat folytatódna, tovább mesélt a  távoli csillagok és felhők titkairól, és a virágzó világnak örömében.
+</body>

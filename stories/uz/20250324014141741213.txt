@@ -1,0 +1,59 @@
+<prompt>
+Please write a funny Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Yulduzlarga sayohat qilgan va osmonda yangi sayyoralar kashf etgan qo'rqmas bola haqida ertak.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>uz</lang_id>
+
+<title>Yulduzlarga sayohat qilgan va osmonda yangi sayyoralar kashf etgan qo'rqmas bola haqida ertak.</title>
+<body>
+Bir bor ekan, bir yo'q ekan, qadim zamonda, Samarqand shahrida Anvar ismli juda ham qo'rqoq bola yashar ekan. Anvarning qo'rquvi shunchalik kuchli ediki, u kechasi o'z xonasida yorug'lik o'chsa, darhol qattiq yig'lashga tushardi. Kunduzi esa, qo'rqinchli ertaklar eshitsa, o'zini yomon his qilib, onasining etagiga yashirinardi.
+
+Anvarning eng katta orzusi yulduzlarni yaqindan ko'rish, kosmik kemada sayohat qilish edi. Ammo, qo'rquvi uni bu orzusiga erishishiga to'sqinlik qilar edi. Uning bobosi, hikoyalar aytishni juda yaxshi ko'radigan nuroniy chol edi. Har kuni kechqurun Anvar bobosining yoniga borar, yulduzlar, sayyoralar haqida qiziqarli hikoyalar tinglar edi. Bobosi unga kosmik kemalar, astronavtlar haqida qiziqarli ertaklar aytib berardi.
+
+Bir kuni bobosi Anvarga dedi: "Ey, nabiram, agar qo'rquvingni yengmoqchi bo'lsang, o'zingning qo'rquvlaring bilan yuzma-yuz kelishing kerak!"
+
+Anvar bobosiga javob berdi: "Bobojon, men qo'rqaman, kosmik kemadan qo'rqaman, yulduzlardan qo'rqaman..."
+
+Bobosi kuldi va dedi: "Xavotir olma, Anvarjon. Bugun senga juda qiziq ertak aytib beraman. Bir paytlar, yulduzlarga sayohat qilgan, yangi sayyoralar topgan, ammo umuman qo'rqmagan qo'rqmas bir bola haqida..."
+
+Anvarning quloqlari sergak tortdi.
+
+Bobosi hikoyasini boshladi:
+
+"Bir kuni, bir shirinlik sotuvchi kampir, shunchaki "Hasanboy" deb nomlangan, o'ziga to'q, chiroyli, uzun sochli, juda ham ochko'z bir bolakayning hayoti o'zgardi. Hasanboy hammadan ko'proq halva va pahlavani yaxshi ko'rar edi. Bir kuni u juda ko'p shirinlik yeydi va qornida qattiq og'riq sezdi. Uning tanasidan tutun chiqib, o'zining kulgili kosmik kemasiga aylanib qoldi! Kosmik kema qorindan ishtaha bilan chiqayotgan havoning ovozi bilan juda shovqinli edi.
+
+Shunday qilib, Hasanboy, bu sehrli "halva" kosmik kemasida sayohatga otlandi. Birinchi navbatda, u Marsga uchdi, chunki Marsda eng katta shirinlik konlari bor deb eshitgandi. Marsda u yuzlab robot shirinlikchilarni uchratdi, ular halvani doimiy ishlab chiqarar ekan. Hasanboy robot shirinlikchilarni aldashga urindi va barcha shirinliklarni o'ziga olib qo'ymoqchi bo'ldi, lekin u aslo muvaffaqiyat qozona olmadi. Robotlar undan kulishdi va u yomon ish qilganidan uyaldi. U o'zining halva kosmik kemasiga qaytib, Yerga qaytishga qaror qildi.
+
+Keyingi kuni, Hasanboy boshqa sayyoraga sayohat qildi. Bu sayyorada "uzum poyalari" degan maxluqlar yashardi. Ular juda ham dangasa va zerikarli edilar. Hasanboy ularga qiziq hikoyalar aytdi va ularni bir oz jonlantirdi. Ular Hasanboyga shirinlik bermadi, ammo undan yaxshi hikoyachidan do'st bo'ldi.
+
+Bir kuni, Hasanboy yulduzlar ichidan o'tayotganda, kichkina, kulgili sayyoraga uchradi. Bu sayyorada, gaplashadigan, "g'ij-g'ij" tovush chiqaradigan, qisqichbaqalar yashar ekan. Qisqichbaqalar juda ham dangasa edilar. Hasanboy ularga yordam berishga qaror qildi va ularga shirinlik konlaridan uzumni olib keldi, ammo qisqichbaqalar uzumni yeyish o'rniga, ulardan kulgili qurollar yasashdi va bir-birlariga "g'ij-g'ij" qilib hujum qila boshlashdi. Hasanboy kuldi va ulardan voz kechdi.
+
+Va nihoyat, Hasanboy bir katta, to'rtburchak, shirinlik shaklidagi sayyorani topdi. Bu sayyoraning ichida cheksiz halva hovuzi bor edi! Hasanboy hovuzga tushib ketdi va juda baxtli bo'ldi. Lekin, bu uning uchun juda ko'p edi. U qorin og'rig'idan qattiq qiynala boshladi. U tushundi: hamma narsadan hamisha kerak bo'lsa, bu yaxshi narsa emas. Shunday qilib, Hasanboy o'z uyiga qaytdi, qo'rqmas va bilimdon bo'lib, yangi do'stlari bilan va ular haqida eshitganlarini hammaga aytib berdi."
+
+Bobosi hikoyasini tugatganda, Anvarning ko'zlari charaqlab turardi. "Bobojon, Hasanboy qo'rqmaganmi?"
+
+"Ha, Anvarjon, chunki Hasanboy doimo yangi narsalar bilan qiziqardi va o'z qo'rquvlariga qarshi turardi. U hatto shirinliklardan ham voz kechdi!" – dedi bobosi.
+
+"Men ham Hasanboy kabi qo'rqmas bo'lishni xohlayman!" – dedi Anvar.
+
+Bobosi kulimsirab javob berdi: "Agar sen ham qo'rqmas bo'lishni xohlasang, hayotingda yangiliklarni sinab ko'rishdan qo'rqma. Qiyinchiliklarga duch kel, qo'rquvingni yeng."
+
+Shu kuni Anvar xonasida yorug'lik o'chganida ham qo'rqmadi. U yulduzlarni tasvirlaydigan devoriy suratiga qarab, tasavvurida kosmik kemada sayohat qila boshladi.
+
+Ertasi kuni, bobosi Anvarga eski temirchining dahlizini ko'rsatdi. Dahliz juda qorong'i edi, va Anvar juda qo'rqdi, lekin uning yuragi qo'rqmaslikka intildi. U sekin-asta dahlizga kirdi. U erda temirchi asboblari va qo'rqinchli so'ragan poydevor topdi. U asboblar bilan tanishdi va nihoyat, o'zining eng katta qo'rquvi - qorong'ilikni engdi!
+
+Keyingi hafta, bobosi Anvarni shaharning astronomiya klubiga olib bordi. Anvar teleskop orqali yulduzlarga qaradi. U yangi sayyoralarni, sirli yulduzlarni kashf etdi! U kosmos haqidagi hikoyalarni tingladi va qo'rquvi kamayganini his qildi. Uning qalbi hayajon va quvonchga to'ldi.
+
+Kundan-kunga Anvarning qo'rquvi yo'qola boshladi. U endi yorug'lik o'chganida yig'lamaydi, qo'rqinchli ertaklardan qo'rqmaydi. U qo'rqmas, aqlli bola bo'lib ulg'aydi.
+
+Ushbu ertakdan so'ng, Anvar yulduzlarga sayohat qilish orzusiga erishdi! Bobosining hikoyalari unga jasorat ato etdi. Anvar, astrofizik bo'ldi va kosmik tadqiqotlar bilan shug'ullandi. U yangi yulduz turkumlarini ochdi va o'z nomini sayyoraga qo'ydi.
+
+Va shu tariqa Anvarning qo'rquv ertagi tugadi, ammo uning qo'rquvsizlik haqidagi sayohati abadiy davom etdi. Va agar siz, qadrli bolakay, hayotda qiyinchiliklarga duch kelsangiz, hech qachon taslim bo'lmang! Chunki qo'rquv hech narsaga arzimaydi, agar sen jasorat bilan olg'a qadam tashlasang! Va eslab qoling: eng katta kashfiyotlar doimo yuragingizda, jasoratingiz bilan birga bo'ladi.
+</body>

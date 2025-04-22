@@ -1,0 +1,91 @@
+<prompt>
+Please write a relatable Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Raudonkepurės ir vilkų pasakojimas šaltoje žiemos miškuose'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>lt</lang_id>
+
+```xml
+<title>Raudonkepurės ir vilkų pasakojimas šaltoje žiemos miškuose</title>
+<body>
+<p>Seniai, seniai, toli toli, žiemą, šaltą kaip ledas, lietuvių miškuose, gyveno mergaitė, vardu Raudonkepurė. Jos vardas toks buvo todėl, kad visada dėvėdavo raudoną kepuraitę, kurią pati megzdavo iš mamos siūlų. Ji buvo labai guvi, smalsi ir mėgstantis vaikščioti po mišką.</p>
+
+<p>Šaltis tądien buvo toks stiprus, kad net medžiai traškėjo. Sniego buvo prikritę iki kelių, o sniegas blizgėjo saulėje kaip milijonai deimantų. Raudonkepurė ruošėsi į svečius pas savo močiutę, kuri gyveno miško gilumoje. Močiutė neseniai susirgo ir Raudonkepurė nešė jai pyragų ir karšto šokolado.</p>
+
+<p>"Mama, aš einu pas močiutę!" - šaukė Raudonkepurė, apsivilkdama šiltą paltą ir apsiaudama kailinukais. Jos mama apkabino ją ir tarė: "Būk atsargi, dukrele. Žiemą miške daug pavojų. Nepasiklysk ir nešnekėk su nepažįstamaisiais."</p>
+
+<p>Raudonkepurė paėmė pintinę su pyragais ir šokoladu ir patraukė miško keliuku. Jos žandai raudonavo nuo šalčio, o nosytė buvo vos šiek tiek paraudusi. Ji džiaugėsi, kad einan tave pas močiutę, nors ir šaltis buvo toks baisus.</p>
+
+<p>Ėjo Raudonkepurė keliu, grožėdamasi žiemos grožiu. Šakos buvo apsnigtos, sniegas krito tyliai ir ramiai. Ji sutiko ežiuką, apklostytą sniegu, kuris miegojo žiemos miegu. Pamatė paukštelius, skraidančius tarp medžių ir ieškančius maisto.</p>
+
+<p>Ir štai, kelyje jai pasirodė... vilkas! Jis buvo didelis, pilkas ir jo akys švietė lyg žibintai tamsoje. Raudonkepurė išsigando, bet vilkas nusišypsojo (bent jau atrodė, kad šypsosi). "Labas, mergaite," - pasakė vilkas giliu balsu. "Kur tu eini?"</p>
+
+<p>Raudonkepurė, nors ir truputį išsigandusi, atsakė: "Aš einu pas savo močiutę, ji serga."</p>
+
+<p>"O, gaila, kad serga. Ar turi ką nors jai nunešti?" - paklausė vilkas.</p>
+
+<p>"Aš nešu jai pyragų ir karšto šokolado." - atsakė Raudonkepurė ir pakėlė pintinę.</p>
+
+<p>Vilkas apsimete, kad pagalvoja. "Žinai ką? Miške labai gražu. Gal tu galėtum nuskinti jai gražių gėlių?"</p>
+
+<p>Raudonkepurė, kadangi buvo gera mergaitė ir norėjo padaryti močiutei gera, pamanė, kad tai puiki idėja. Ji atsisuko ir pradėjo ieškoti gėlių. "Gerai, aš taip ir padarysiu!" - sušuko ji.</p>
+
+<p>O vilkas, pasinaudojęs proga, nubėgo pas močiutę, kuri gyveno namelyje ant kalnelio. Jis atbėgo greičiau nei Raudonkepurė ir įbėgo į namus. Pasibeldė į duris ir prabilo močiutės balsu: "Atidaryk, anūke, aš atėjau."</p>
+
+<p>Močiutė, gulėdama lovoje, išgirdo garsą. Ji buvo truputį įsibaiminusi, bet manė, kad tai galbūt Raudonkepurė. "Eikš! Aš vargstu!"</p>
+
+<p>Vilkas įbėgo į namus ir… nuryjo močiutę. Tada apsivilko močiutės naktinius marškinius, užsimovė naktinę kepurę ir atsigulė į lovą, laukdamas Raudonkepurės.</p>
+
+<p>Netrukus atėjo Raudonkepurė. Ji rankose nešė didelę puokštę gėlių ir buvo labai laiminga, kad rado pačias gražiausias. Pasibeldė į duris. "Močiute, aš atėjau!" - sušuko ji.</p>
+
+<p>"Eikš, anūke," – pasakė vilkas keistu balsu, apsimetęs močiute.</p>
+
+<p>Raudonkepurė įėjo į namus. Jai pasirodė, kad kambaryje tamsu ir netvarkinga. Ji priėjo prie lovos, kur gulėjo vilkas, apsimeta močiute.</p>
+
+<p>"Močiute, kodėl tu taip blogai atrodai?" - paklausė Raudonkepurė. "Kokia tu keista!"</p>
+
+<p>"Atsigulk šalia manęs, anūkėle." - atsakė vilkas keistu balsu. "Matau tave blogai!"</p>
+
+<p>Raudonkepurė nustebo, bet vis dėlto atsigulė šalia. Ir pradėjo klausinėti:</p>
+
+<p>"Močiute, kodėl tavo akys tokios didelės?"</p>
+
+<p>"Kad geriau matyčiau tave, anūkėle!"</p>
+
+<p>"Močiute, kodėl tavo ausys tokios didelės?"</p>
+
+<p>"Kad geriau girdėčiau tave, anūkėle!"</p>
+
+<p>"Močiute, kodėl tavo rankos tokios didelės?"</p>
+
+<p>"Kad geriau apglėbčiau tave, anūkėle!"</p>
+
+<p>"Močiute, kodėl tavo burna tokia didelė?"</p>
+
+<p>"Kad… suryčiau tave!" – sušuko vilkas ir… nuryjo Raudonkepurę!</p>
+
+<p>Vilkas buvo labai alkanas ir pilvas buvo pilnas. Jis užsidarė lovoje ir užmigo. Miške pasigirdo gilus jo knarkimas. Tuo metu, mišku žingsniavo medžiotojas, kuris puikiai pažino miško takus ir visas jo gyvūniją.</p>
+
+<p>Medžiotojas praėjo pro močiutės namus. Išgirdęs knarkimą, jis įėjo į namus. Ir ką jis pamato? Didelį, miegantį vilką! Jis suprato, kad kažkas negerai.</p>
+
+<p>Medžiotojas paėmė didelį peilį ir… papjovė vilko pilvą. Iš pilvo išlipo močiutė ir Raudonkepurė! Jos abi buvo gyvos ir sveikos.</p>
+
+<p>„Ačiū tau, gerasis medžiotojau!" - pasakė močiutė.</p>
+
+<p>"Mes būsime tau labai dėkingos," - pridūrė Raudonkepurė.</p>
+
+<p>Medžiotojas pasakė: "Aš esu tik džiaugiuosi galėdamas jums padėti. O vilką teks paimti ir užpildyti akmenimis." Jis paimė akmenis ir prigrūdo vilko pilvą.</p>
+
+<p>Kai vilkas pabudo, jis buvo labai sunkus ir negalėjo pajudėti. Tada medžiotojas išmetė vilką į ežerą. Vilkas neturėjo šansų išsigelbėti.</p>
+
+<p>Nuo to laiko Raudonkepurė visada klausydavo savo mamos ir nekalbėdavo su nepažįstamaisiais. Ji dažnai lankydavo močiutę, kuri jaučiasi puikiai. O miške visi buvo laimingi, kad vilkas dingo.</p>
+
+<p>Raudonkepurė ir močiutė iki šiol valgo pyragus ir geria šokoladą kartu, atsimindamos tą baisią dieną šaltajame žiemos miške, ir dėkoja gerajam medžiotojui už jų išgelbėjimą. Jie visada primena, kad būtina būti atsargiems ir niekada nepasitikėti nepažįstamaisiais, ypač tais, kurie atrodo mieli, bet iš tikrųjų yra blogi.</p>
+</body>
+```

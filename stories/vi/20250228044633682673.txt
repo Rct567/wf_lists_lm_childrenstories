@@ -1,0 +1,60 @@
+<prompt>
+Please write a uncomplicated Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'CGFloat Truyện Cổ Tích Cho Trẻ Em Việt'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>vi</lang_id>
+
+```vi
+<title>Chuyện Cổ Tích Cho Trẻ Em Việt</title><body>
+Ngày xửa ngày xưa, ở một làng quê thanh bình, nơi có những cánh đồng lúa xanh mướt và dòng sông hiền hòa uốn lượn, có một cô bé tên là Mai. Mai là một cô bé rất ngoan ngoãn, hiếu thảo và luôn tươi cười. Em có mái tóc đen nhánh, đôi mắt to tròn và nụ cười rạng rỡ như ánh mặt trời. Mai sống cùng với bà nội hiền từ trong một ngôi nhà nhỏ, mái ngói đỏ tươi.
+
+Bà nội của Mai rất giỏi kể chuyện cổ tích. Mỗi tối, sau khi Mai đã ăn cơm xong và giúp bà dọn dẹp nhà cửa, bà lại kể cho Mai nghe những câu chuyện về những nàng công chúa xinh đẹp, những chàng hoàng tử dũng cảm, những con vật thông minh và những bài học về lòng tốt, sự trung thực và tình yêu thương. Mai rất thích nghe bà kể chuyện. Em thường ngồi cạnh bà, lắng nghe chăm chú, đôi mắt long lanh ánh lên vẻ thích thú và say mê.
+
+Trong làng của Mai, có một khu rừng rậm rạp, bí ẩn. Người lớn thường dặn trẻ con không được vào rừng chơi vì sợ có những điều nguy hiểm. Tuy nhiên, khu rừng luôn là một điều hấp dẫn đối với Mai. Em thường đứng từ xa nhìn vào, tưởng tượng ra biết bao điều kỳ diệu đang ẩn chứa bên trong.
+
+Một hôm, khi đang đi hái rau giúp bà, Mai vô tình lạc vào khu rừng. Em mải mê nhìn những bông hoa dại đủ màu sắc đang khoe sắc dưới ánh nắng ban mai, nên đã đi sâu vào rừng mà không để ý. Khi nhận ra mình đã đi quá xa, Mai bắt đầu cảm thấy lo lắng. Em cố gắng tìm đường quay lại, nhưng rừng cây lại giống nhau quá, khiến em càng thêm bối rối.
+
+"Bà ơi... Mẹ ơi..." Mai gọi, nước mắt bắt đầu chực trào.
+
+Đúng lúc đó, em nghe thấy tiếng kêu yếu ớt. "Cứu... cứu tôi với..."
+
+Mai lần theo tiếng kêu và thấy một chú chim nhỏ bị thương, cánh bị gãy. Chú chim có bộ lông xanh biếc rất đẹp. Mai nhẹ nhàng nhặt chú chim lên, xoa dịu.
+
+"Cháu sẽ giúp chú," Mai thì thầm.
+
+Mai cẩn thận mang chú chim về nhà. Bà nội thấy Mai mang một chú chim bị thương về, liền bảo Mai lấy bông băng và thuốc để băng bó cho chim. Mai rất cẩn thận làm theo lời bà. Em nhẹ nhàng băng bó cánh chim bị gãy, rồi đặt chú chim vào một chiếc lồng nhỏ, âu yếm chăm sóc.
+
+Ngày nào Mai cũng chăm sóc chú chim. Em cho chim ăn những hạt thóc non và nước sạch. Em kể cho chim nghe những câu chuyện cổ tích của bà, hát cho chim nghe những bài hát ru êm dịu. Chú chim dần dần hồi phục. Cánh của chú chim không còn đau nữa và chú chim bắt đầu vỗ cánh.
+
+Một buổi sáng, khi Mai đang cho chim ăn, chú chim đột nhiên cất tiếng nói. "Cảm ơn cháu, Mai. Cháu đã cứu mạng sống của ta."
+
+Mai giật mình kinh ngạc. Em nhìn chú chim bằng đôi mắt tròn xoe. "Chú... chú biết nói sao?"
+
+"Ta là một vị thần chim. Vì bị một kẻ xấu làm hại nên ta đã bị thương. Cháu đã giúp ta. Để báo đáp tấm lòng của cháu, ta sẽ ban cho cháu một điều ước," chú chim nói.
+
+Mai ngập ngừng một lúc, rồi nói: "Cháu ước... cháu ước bà nội cháu luôn được khỏe mạnh và sống lâu trăm tuổi ạ."
+
+Chú chim mỉm cười. "Điều ước của cháu thật đẹp. Ta sẽ giúp bà nội cháu luôn khỏe mạnh và hạnh phúc."
+
+Nói xong, chú chim biến mất, để lại sau lưng một luồng ánh sáng chói lòa. Mai nhìn quanh, không thấy chú chim đâu nữa. Em chạy vội vào nhà, muốn kể cho bà nội nghe những gì đã xảy ra.
+
+Vào nhà, Mai thấy bà nội đang tươi cười, nấu ăn trong bếp. Bà nội nói: "Mai của bà ngoan quá. Bà cảm thấy khỏe hơn rất nhiều rồi đấy."
+
+Mai ôm chầm lấy bà nội. Em kể cho bà nghe về chú chim thần, về điều ước và về sự biến mất của chú chim. Bà nội lắng nghe Mai kể, rồi mỉm cười hiền từ. "Chắc chắn là chú chim đã giúp bà khỏe mạnh hơn rồi. Bà rất tự hào về cháu, Mai của bà."
+
+Từ đó, bà nội của Mai sống rất khỏe mạnh. Bà vẫn kể chuyện cổ tích cho Mai nghe mỗi tối, và Mai vẫn luôn là một cô bé ngoan ngoãn, hiếu thảo. Em luôn nhớ về chú chim thần và luôn cố gắng làm những việc tốt để xứng đáng với lòng tốt mà chú chim đã dành cho em.
+
+Một hôm, khi Mai đã lớn hơn một chút, em lại vào khu rừng. Em không còn sợ hãi nữa, mà cảm thấy rất gần gũi với khu rừng. Em mang theo một túi hạt giống hoa dại và gieo những hạt giống đó xuống đất. Em mong rằng khu rừng sẽ ngày càng đẹp hơn, để những ai lạc bước vào đây cũng sẽ cảm thấy bình yên và hạnh phúc.
+
+Mai tiếp tục sống một cuộc đời bình dị, nhưng hạnh phúc. Em luôn nhớ về bài học từ chú chim thần về lòng tốt, sự giúp đỡ và tình yêu thương. Em biết rằng, những điều tốt đẹp sẽ luôn được đền đáp, và rằng, chỉ cần tấm lòng chân thành, chúng ta có thể tạo ra những điều kỳ diệu trong cuộc sống.
+
+Và cứ như thế, câu chuyện về Mai và chú chim thần đã trở thành một bài học quý giá, được truyền lại từ đời này sang đời khác, cho tất cả trẻ em Việt Nam. Câu chuyện nhắc nhở các em về lòng nhân ái, sự dũng cảm và tình yêu thương, những giá trị vĩnh cửu của cuộc sống.
+</body>
+```

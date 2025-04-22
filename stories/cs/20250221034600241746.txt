@@ -1,0 +1,38 @@
+<prompt>
+Please write a creative and original Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Neobyčejný příběh o nelítostném drakovi a statečném rytíři'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Neobyčejný příběh o nelítostném drakovi a statečném rytíři</title>
+<body>
+V království Zelených Luhů, kde se lesy rozkládaly jako zelený koberec a potoky zpívaly melodie do západu slunce, žil drak jménem Šišatý.  Nebyl to žádný obyčejný drak. Šišatý, přes svůj strašlivě vypadající vzhled a plamenem dýchající hněv, byl v srdci… smutný.  Jeho hněv se rodil z osamělosti a z touhy po něčem, co nemohl pojmenovat.  Jeho šupiny, místo obvyklé škály hnědých a zelených barev, se měnily s jeho náladou – od temně fialové při hněvu až po jemnou růžovou v chvilkách melancholie.
+
+V tomto království žil také rytíř Petr, statečný a odvážný, ale i trochu plachý a plný nejasných snů.  Lidé ho nazývali Petr Širokosvět.  Neměl zdaleka takovou slávu jako dračí zabijáci, ale jeho srdce bylo plné touhy po dobrodružství a po objevování.
+
+Jednoho letního dne, když Petr sbíral divoké květiny pro svou sestru Lenku, zaslechl děsivý řev.  Drak Šišatý, zjevně v hněvu, ničil úrodné pole a spaloval krásné stromy.  Lidé křičeli a prchali do bezpečí. Petr, ačkoli se třásl strachy, se zastavil.  Cítil, že v tomto srdci chaosu se skrývá něco více, než jen hněv.
+
+Přiblížil se k drakovi a s úctou, ač s bázní, se zeptal: "Pane draku Šišatý, proč ničíte naši zemi?"
+
+Šišatý, i když jeho oči hořely jako ohniště, odpověděl tlumeným hlasem: "Protože jsem smutný! Protože jsem osamělý!  Chtěl bych, abych měl kamaráda, ale nikdy ho nenajdu. Lidé se mě bojí. Nejsou klidní a laskaví jako stromy a květiny."
+
+Petr, s pohledem plným soucitu, odpověděl: "Smutek není něco, co se dá zničit plameny. Možná najdeme způsob, jak vám pomoci."
+
+A tak začalo neobyčejné přátelství.  Petr, ačkoli se bála strašlivé síly Šišatého, se snažil porozumět jeho smutku.  Každé ráno nosili k drakovi květiny, o které se pečlivě staral.  Petr vyprávěl drakovi o lidech, o jejich radovánkách a zklamáních.  A Šišatý, naopak, vyprávěl o starověkých pohádkách a o tajemství lesa.
+
+Společně objevovali krásné i těžké věci o světě.  Šišatý se naučil, že strach a hněv jsou jen obranné mechanismy, a Petr, že i v srdcích hněvu a zlého je skrytá bolest a touha po něčem více.  Šišatý, k překvapení všech, se konečně naučil ovládat svůj plamenný hněv a Širokosvět si uvědomil, že i v samotném srdci draka existuje krásná duše.
+
+Jednoho dne, když se v krajině objevil nový, úrodný strom, Šišatý se zeptal Petra: "Myslíš, že se můžu stát součástí tohoto světa, i když jsem drak?"
+
+Petr, s úsměvem, odpověděl: "Samozřejmě.  Tvé srdce, ať už je plné hněvu nebo smutku, je součástí tohoto světa."  A v tu chvíli se Šišatý zasmál.  To nebyl jen zvuk plamene, ale tichý, upřímný smích, který vyhnal z lesa všechnu bolest.  V té chvíli se Šišatý už nezdál tak strašlivý, ale naopak, vznešený.
+
+A tak se stal Šišatý strážcem Zelených Luhů, ačkoli občas zvedal svůj hněv, ale vždy jen, když to bylo potřeba.  A Petr Širokosvět, s drakem v srdci, kráčel po zemi a šířil radost a lásku.  A Zelené Luhy se staly místem, kde draci a rytíři žili v harmonii, kde smutek se dal přemoci něhou a kde láska zvítězila nad strachem.
+
+</body>

@@ -1,0 +1,64 @@
+<prompt>
+Please write a silly Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Sehrli Qalqon va Jangchi Bolalar'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>uz</lang_id>
+
+<title>Sehrli Qalqon va Jangchi Bolalar</title><body>  
+Bir bor ekan, bir yoq ekan, O’zbekistonning go’zal tog’li hududida kichkina bir qishloq bor ekan. Bu qishloqda turli xil odamlar yashar, lekin eng qiziqarlisi, qishloqning chekkasida joylashgan uyda yashovchi uchta jangchi bola edi. Ular Ali, Vali va G’ani edi. Ular doimo bir-birlari bilan o’ynashardi, lekin ularning o’yinlari oddiy o’yinlar emas edi. Ular o’zlarini qahramon deb bilishardi va qishloqni turli xil xavflardan himoya qilishni orzu qilishardi.  
+
+Bir kuni, ular qishloqning chekkasidagi qadimgi daraxt ostida o’tirishib, ertak aytishayotgan edilar. To’satdan, ularning oldiga bir mo’yna kiygan qariya paydo bo’ldi. Qariya ularga qarab kuldi va dedi: “Ey, jasur bolalar! Sizlarni qidiryapman. Qishloqning oldida katta xavf bor. Lekin buni yengish uchun sizga sehrli qalqon kerak bo’ladi.”  
+
+Ali, Vali va G’ani bir-birlariga qarashdi. “Sehrli qalqonmi? U qayerda?” deb so’radi Ali.  
+
+Qariya yana kuldi va dedi: “Sehrli qalqon shu tog’ning eng baland cho’qqisida. Lekin u yerga borish oson emas. Yo’lda ko’plab to’siqlar va jodugarlar sizni kutib olishadi. Agar siz jasur va aqlli bo’lsangiz, sehrli qalqonni topib, qishloqni qutqarishingiz mumkin.”  
+
+Uchala bola birdan o’zlarini qahramon his qilishdi. “Biz buni bajaramiz!” deb qichqirdi Vali. “Qishloqni xavfdan qutqaramiz!”  
+
+Qariya ularga yo’l ko’rsatish uchun xarita berdi va ular yo’lga chiqishdi. Birinchi to’siq ularning oldiga katta, qorong’u o’rmon edi. O’rmonda g’alati tovushlar eshitilar, daraxtlar orasidan nimalar harakatlanayotgandek tuyulardi.  
+
+“Bu yerda qo’rqishga vaqt yo’q,” dedi G’ani jasurona. “Keling, birga boramiz!”  
+
+Ular o’rmon ichiga kirishdi. To’satdan, ularning oldiga katta, yashil rangli ilon chiqdi. Ilon ularga qarab shivirladi: “Kimdir mening o’rmonimdan o’tmoqchi bo’lyapti? Agar mening savolimga to’g’ri javob berolsangiz, yo’lingizni davom ettirishingiz mumkin. Aks holda, bu yerda qolishingiz kerak!”  
+
+Ali oldinga chiqdi va dedi: “Savolingizni bering!”  
+
+Ilon savol berdi: “Dunyodagi eng kuchli nima?”  
+
+Uchala bola bir-birlariga qarashdi. Vali o’ylab, javob berdi: “Do’stlik! Do’stlik eng kuchli narsa!”  
+
+Ilon kuldi va yo’lini ochdi: “To’g’ri javob! Yo’lingizni davom ettiring, jasur bolalar!”  
+
+Ular o’rmondan chiqib, ikkinchi to’siqni ko’rdilar: katta, olovli daryo. Daryoning narigi tomonida sehrli qalqon ko’rinardi. Lekin daryoni kesib o’tishning iloji yo’q edi.  
+
+“Nima qilamiz?” deb so’radi Ali.  
+
+To’satdan, ularning oldiga kichkina qizil baliq chiqdi. Baliq ularga dedi: “Agar siz menga qo’shiq aytib bersangiz, men sizga daryoni kesib o’tishga yordam beraman.”  
+
+Uchala bola birga qo’shiq aytishdi:  
+“Sehrli qalqon, biz keldik,  
+Qishloqni xavfdan qutqaramiz!  
+Daryoni kesib o’tamiz,  
+Jasur bo’lib yashaymiz!”  
+
+Baliq ularning qo’shig’idan mamnun bo’ldi va daryoda ko’prik paydo bo’ldi. Ular daryoni kesib o’tishdi va sehrli qalqonni oldilar.  
+
+Lekin, sehrli qalqonni olgach, ularning oldiga katta jodugar paydo bo’ldi. Jodugar ularga qichqirdi: “Sehrli qalqonni menga berin! U meniki!”  
+
+G’ani oldinga chiqdi va dedi: “Yo’q! Bu qalqon qishloqni xavfdan qutqarish uchun kerak!”  
+
+Jodugar ularga hujum qildi, lekin sehrli qalqon ularni himoya qildi. Nihoyat, jodugarning sehrlari ishlamadi va u mag’lub bo’ldi.  
+
+Uchala bola sehrli qalqonni olib, qishloqqa qaytishdi. Qariya ularni kutib oldi va ularga minnatdorchilik bildirdi. “Sizlar haqiqiy qahramonlarsiz!” dedi u.  
+
+Shundan so’ng, qishloqda tinchlik o’rnatildi va Ali, Vali va G’ani har doim sehrli qalqon bilan qishloqni himoya qilishdi. Ular bir-birlari bilan do’stlik va jasorat haqida ko’p ertaklar aytishardi va ularning sarguzashtlari butun qishloqda mashhur bo’ldi.  
+
+Va ular baxtli hayot kechirishdi.  
+</body>

@@ -1,0 +1,36 @@
+<prompt>
+Please write a timeless Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'O'zbekiston bo'ylab sehrli poyezd sayohati'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>O'zbekiston bo'ylab sehrli poyezd sayohati</title>
+<body>
+O'zbekistonning keng, go'zal tog'lari va vodiylari, chirpindi-chaplaindi qishloqlari va tarixiy shaharlari, havosi va go'zalligida nafas olishga undaydigan ulkan va muqaddas bir mamlakat.  Farhod, Dilnoza va ularning sherigi, quvnoq va qiziquvchan mushukcha, Qumush, bugun, o'zbekiston bo'ylab noyob sehrli poyezd sayohatiga yo'l olishdi.
+
+Poezd, oltin rangdagi, boshida "Sehrli Poyezd" degan yozuv yozilgan ajoyib lokomotivi bilan shishadan qilingan katta oynalar bilan bezatilgan edi.  Uning ichidagi joylar gul-yashil ranglarga to'lgan va go'zal xalq hunarmandchiligi naqshlari bilan bezatilgan. Poyezd chiqayotganda, hamma zavq bilan yugurib borishdi.
+
+"Biz Samarqandga boramiz!", deb jilmayib dedi Farhod.  "Tarixiy tarix bilan to'lgan ajoyib joy."  Dilnoza boshini egib, Qumushning yumshoq yungiga yumshoq qovurib oldi. Qumush, xohish bilan ushlagan uzun-qo'llari va dumining uchini silkitib, zavq bilan yo'lni kuzatib bordi.  Ushbu safarning barcha narsasi Qumushga zavq baxsh etdi.
+
+Birinchi to'xtash joyi Xiva edi.  Tarixiy xonalar va turkiy arxitektura bilan boy bezatilgan  joylarda ular nafaqat  "Xiva eskirgan qayg'ularidan" ba'zi bir eslatmalarni boshdan kechirishdi, balki "Xiva go'zal san'atlarining tarixiy merosidan" ham zavq olishdi. Poyezd  hayotga to'ygan ulkan va yovuz to'planma bo'lgan shaharda boqishdi.
+
+Ikkinchi to'xtash joyi Buxoro edi.  Yangi boshlariga  dengizdan  boshqa butun boshqa boylik va yangi ba'zilar bo'lgan narsa edi. Ularning go'zalligi juda ajoyib va ulug'vor edimi.  Bu ulug'vorlik ularga shunday quvvat  berdi.  Buxoro masjidi va ulkan ulug'vor shaharga hayrat bilan nazar tashladilar.  Bu joy ham boy madaniy va san'at merosiga  ega ekanligi ularni  hayratda qoldirdi.
+
+
+Keyingi tashrifi Qo'qon edi.  Qal'alar, manzarali bog'lar va muqaddas manzaralar ulkan quvvat va mehrga to'lib qolgan xalqqa hamroh bo'ldi. Ular  Qo'qon va Buxoro masjidi darvozalaridan o'tgan joylarda haqoratlar va dahshatni to'kib tashlashlari haqida  eski  ham o'rganishdi.
+
+To'rtinchi to'xtash joyi  Toshkent edi, mamlakatning  sarhin va diqqatga sazovor joylari. Tashkent - boy san'at va madaniyat merosi, go'zal va ajoyib me'moriy  asarlari va  yangiliklar va o'qishlar uchun barcha yangi tajribalari bilan juda jozibali  edik.  Kechalarda, ulug'vor darvozalar ichida yugurib ketayotganda, ular  Toshkentning barcha ajoyib xonalarini boshdan kechirishdi.
+
+O'zbekiston poyezdi to'xtash vaqtida, barcha befarq qolmadi.   Ular tog'larda go'zal joylarda ketayotganda  sehrli poyezd, uzoq hududlar va shaharlarning tarixlarini,  madaniyatlarini va  uyg'onish hayotini bayon etuvchi o'quv materialini tashlab ketdi.   Sayohatchilar aqlni, jasorat va o'zbekistonning barcha  go'zalliklarini saqlab qolishlarini  his  qilishgan.  Qumush  eshakning yonida  yumshoq  uquviga yotish va sayohatga to'la joylar bilan hayratda qoldi.
+
+Shunday qilib,  sehrli poyezd  safarining  oxirini, hammaga  qadar qal'a qoyalari va ulkan  xushbichimlikka to'la yurtdan  tushish bilan  tugatdi.
+
+Ular  yana  o'zlari hayoti davomida  taassurot va ta'rif qilishlariga ishonishgan yagona qanotli bo'yoqlardan birining bir qismi edilar. Farhod, Dilnoza va Qumush o'zbekistonning har bir burchagida tarixning ulug'vor hikoyalarini  bayon etuvchi o'quv  materialiga hamroh bo'lganlarini  kuzatishdi va his qilishdi.  Ushbu ajoyib safardan  o'zlari yodlagan yurak va hisoblardan biri - "Biz bu yerda edik" bo'ldi. Ular ushbu ko'ngil  ochar sayohat  haqida hech qachon  unutilmaydigan yodlashganlari bilan, ularni abadiy bayon etdilar.
+</body>

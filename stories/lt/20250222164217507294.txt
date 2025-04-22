@@ -1,0 +1,39 @@
+<prompt>
+Please write a simple Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Didžiojo miesto ir jo paslaptys'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lt</lang_id>
+
+<title>Didžiojo miesto ir jo paslaptys</title>
+<body>
+Saulė šildė ryškiai oranžiniais spinduliais didžiojo miesto stogus.  Ant senojo, mediniais langais puošto namų, stogo sėdėjo mažas, pilkas paukštelis –  Žvirblis. Jo vardas buvo  Skrydis. Skrydis stebėjosi, kaip šurmuliuoja gatvės.  Automobiliai, lyg metaliniai žvėrys,  skubėjo į visus galimus kryptis.  Žmonės,  lyg spalvotos spalvinimo knygelės piešiniai,  skubėjo savo reikalais.  Skrydis,  nedidelis ir niekam nepastebimas, jautėsi visiškai mažas ir nepastebėtas.
+
+Tačiau šį rytą buvo neįprasta.  Gatvių šurmulys sustojo.  Visi žmonės apsižvalgė, o automobiliai tyliai sustingo.  Skrydis pakilo aukštyn ir nuostabiai išvys jo priežastis.  Didžiojo miesto centre stovėjo milžiniškas, ryškiai baltas,  tarsi iš šviesos iškaltas bokštas.  Jo viršūnėje švytėjo ryški, žydra šviesa.  Skrydis buvo girdėjęs legendas apie šį bokštą.  Sakoma, kad jis saugo didžiausią miesto paslaptį.
+
+Skrydis sukosi ratus virš bokšto, klausydamasis tylaus susijaudinimo, kuris sklido iš miesto gyventojų.  Žmonės kalbėjosi tarpusavyje, bet Skrydis negalėjo suprasti žodžių.  Jie kalbėjosi apie šviesą, švytintį bokšto viršūnėje.  Jie kalbėjo apie kažką, kas užburiančiai sklido iš bokšto.
+
+Skrydis nusileido ant bokšto sienos.  Jis buvo lygus ir šaltas.  Skrydis pajuto kažką neįprasto.  Vėjas, paprastai žaidžiantis su plunksnomis, šį kartą buvo tylus.  Kaip ir visų žmonių balsai.  Skrydis bandė prisiminti visus girdėtus žodžius, bet jie buvo tarsi debesys, ištirpę ore.
+
+Staiga, iš bokšto vidaus pasigirdo melodingas skambėjimas.  Tai nebuvo muzika, bet kažkas panašaus į žodžius, bet nekalbą.  Skrydis išsigando ir nedelsdamas pakilo aukštyn.
+
+"Kas tai?" jis suskubo pasiskųsti senam, protingam ėriukui, gyvenusiam didelėje, žalių medžių apsuptoje aikštėje.
+
+"Tai paslaptis, Skrydis," atsakė ėriukas.  "Tai paslaptis, kurią bokštas saugo jau nuo senų senovės.  Legenda sako, kad jis saugo didžiausios miesto paslapties atrakinimo raktą.  Tai šviesa, Skrydis!  Ji atneša vilties, ramina liūdesį, šildo širdį ir suteikia galimybių, kurių niekas negalėjo įsivaizduoti."
+
+Skrydis niekada nebuvo girdėjęs apie tokią galios šviesą.  Jis suvokė, kad ši šviesa atneš ne tik džiaugsmą, bet ir naujus iššūkius.  Ir naujas galimybes.
+
+Skrydis toliau stebėjo žmones.  Jie vis dar buvo sužavėti bokšto šviesa.  Jie bandė suprasti jo paslaptis.  Skrydis suvokė, kad šviesa nėra tik švytėjimas.  Tai tikras ryšys.  Ryšys tarp žmonių ir kažko didesnio, nei jie patys.
+
+Po ilgo stebėjimo,  Skrydis suprato.  Paslaptis nebuvo raktas, slepiamas bokšte.  Paslaptis slypėjo žmonių širdyse.  Žmonių, kurie ieškojo atsakymų ir siekė rasti prasmę savo gyvenimams.  Paslaptis buvo gebėjimas matyti šviesą ne tik akimis, bet ir širdimi.
+
+Šviesa pamažu pradėjo blėsti.  Bokštas  atsirado tylaus šviesos ore.  Žmonių šurmulys grįžo į gatves.  Automobiliai vėl skubėjo.  Skrydis, tarsi mažas, pilkas debesėlis, nusileido ant senojo medinio namo stogo.  Jo širdyje liko nepaprastas jausmas.  Jis suprato, kad didžiojo miesto paslaptis slypi ne bokšte, o kiekvieno žmogaus širdyje.
+
+Ir Skrydis, mažasis pilkas paukštelis,  žinojo, kad šioje didžiojo miesto istorijoje, kurioje jis gyvena, jam ir visiems kitiems yra  visada vieta. Ir visada galimybė atrasti neįsivaizduojamas tiesas, apie paslaptis, kurias slepia ne tik dideli bokštai, bet ir kiekvienas mūsų vidus.
+</body>

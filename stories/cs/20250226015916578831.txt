@@ -1,0 +1,54 @@
+<prompt>
+Please write a relatable Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Ztracený deník skřítka: Děti, co rozluštily tajemství deníku a našly poklad.'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>cs</lang_id>
+
+<title>Ztracený deník skřítka: Děti, co rozluštily tajemství deníku a našly poklad</title><body>V malé vesnici pod horami, kde slunce každé ráno líbalo špičky stromů a řeka tiše šuměla mezi kameny, žili dva kamarádi – Eliška a Honza. Byli to nerozluční přátelé, kteří trávili každý den objevováním okolního světa. Jednoho dne, když procházeli lesem za vesnicí, narazili na něco nečekaného.
+
+„Hele, Honzo, co to je?“ zeptala se Eliška, když si všimla starého, zaprášeného deníku ležícího pod kořeny velkého dubu.
+
+Honza se sklonil a zvedl ho. Deník byl malý, vázaný v kožené vazbě, a na obalu měl vyrytý symbol – malou postavičku skřítka s kloboukem. „To vypadá jako starý deník,“ řekl Honza a opatrně otevřel první stránku.
+
+Uvnitř byly popsané stránky plné podivných znaků a obrázků. Některé stránky byly pokreslené mapami, další plné záhadných poznámek. „To je ale podivné,“ zamumlala Eliška. „Vypadá to, jako by to psal nějaký skřítek.“
+
+„Skřítek?“ Honza se zasmál. „To snad ne. Skřítci neexistují!“
+
+„Ale kdo jiný by mohl psát tak malým písmem a kreslit takové malé mapy?“ namítla Eliška. „Musíme to rozluštit!“
+
+A tak začalo jejich velké dobrodružství. Každý den po škole seděli spolu u starého dubu a snažili se rozluštit záhady deníku. Postupně zjistili, že deník patřil skřítkovi jménem Šimón, který žil v lese před mnoha lety. Šimón byl strážcem pokladu, který ukryl hluboko v lese, aby ho nikdy nikdo nenašel. Ale jedna věc byla jasná – Šimón chtěl, aby někdo jeho poklad našel, a proto zanechal v deníku stopy.
+
+„Podívej,“ řekl Honza jedné odpoledne, když ukazoval na jednu z map. „Tady je zakreslený tenhle velký kámen u řeky. Myslím, že bychom tam měli jít.“
+
+Eliška přikývla a oba se vydali k řece. Když dorazili k velkému kameni, všimli si, že na něm je vyrytý stejný symbol jako na obalu deníku – skřítek s kloboukem. „Tady musí být něco důležitého,“ řekla Eliška a začala kámen prozkoumávat.
+
+Najednou Honza zavolal: „Hele, tady je nějaká díra!“ Ukázal na malý otvor v kameni, který byl téměř neviditelný. Eliška tam strčila prst a cítila, jak se něco pohnulo. S lehkým cvaknutím se část kamene oddělila a odhalila malou schránku.
+
+Uvnitř byla další mapa, tentokrát s podrobným popisem cesty k pokladu. „To je ono!“ vykřikl Honza. „Poklad musí být někde tady v lese!“
+
+S novou mapou v ruce se děti vydaly na cestu. Cesta byla plná překážek – museli přejít přes padlý strom, proplést se hustým křovím a dokonce přejít přes malý potok. Ale nakonec dorazili na místo, které mapa označovala. Bylo to malé návrší, obklopené vysokými stromy.
+
+„Podle mapy by tu měl být vchod do podzemí,“ řekla Eliška a začala hledat. Najednou Honza zakopl o kořen a upadl. Když se zvedal, všiml si, že země pod ním je trochu propadlá. „Tady!“ zvolal a začal odhrabávat listí a zem. Pod ním se objevil malý vchod do tunelu.
+
+Eliška a Honza se na sebe podívali a bez váhání se vydali dovnitř. Tunel byl tmavý a vlhký, ale děti měly baterku, kterou si přinesly. Postupovali pomalu a opatrně, dokud se před nimi neotevřela velká jeskyně. Uprostřed jeskyně stála malá truhla, ozdobená stejnými symboly jako deník.
+
+„To je ono!“ zašeptala Eliška. Honza otevřel truhlu a oba vydechli úžasem. Uvnitř byly lesklé kameny, staré mince a dokonce i malá zlatá soška skřítka.
+
+„To je poklad skřítka Šimóna,“ řekl Honza. „Ale co s ním uděláme?“
+
+Eliška se zamyslela. „Myslím, že bychom ho měli nechat tady. Šimón ho ukryl, aby ho nikdo nenašel, ale přesto chtěl, aby někdo jeho tajemství objevil. Možná bychom měli jen vzít pár mincí na památku a zbytek nechat tady.“
+
+Honza souhlasil a oba si vzali pár mincí. Pak truhlu zavřeli a vydali se zpět na povrch. Když vyšli z tunelu, slunce už zapadalo a les se nořil do tmy. Ale děti se cítily šťastné. Objevily tajemství starého deníku a našly poklad, který patřil skřítkovi.
+
+„Myslím, že Šimón by byl na nás pyšný,“ řekla Eliška, když se vraceli do vesnice.
+
+„Ano,“ souhlasil Honza. „A teď máme svůj vlastní příběh, který můžeme vyprávět.“
+
+A tak se stalo, že Eliška a Honza nejenže našli poklad, ale také objevili kouzlo přátelství a dobrodružství. A když později vyprávěli svůj příběh ostatním dětem v okolí, nikdo nevěděl, jestli je to pravda, nebo jen pohádka. Ale jedno bylo jisté – tajemství lesa a skřítka Šimóna bude navždy žít v jejich srdcích.</body>

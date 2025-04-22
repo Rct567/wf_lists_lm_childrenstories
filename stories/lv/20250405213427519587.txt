@@ -1,0 +1,77 @@
+<prompt>
+Please write a light-hearted Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Dūmu Stāsti un Uguns Brīnumi'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>lv</lang_id>
+
+```xml
+<title>Dūmu Stāsti un Uguns Brīnumi</title>
+<body>
+<p>Reiz kādā burvīgā pilsētiņā, kas atradās netālu no liela, zila ezera, dzīvoja maza meitene vārdā Līza. Līzas mati bija kā rudzu vāles, spīdīgi un gaiši, un viņas acis bija kā divas zaļas odziņas. Viņa mīlēja skriet pa pļavām, lasīt pienenes un, pats galvenais, klausīties stāstus.</p>
+
+<p>Līzas vectēvs, vārdā Juris, bija ļoti īpašs vīrs. Viņa ūsas bija garas un baltas kā sniegs, bet viņa sirds bija silta kā saules staru kūlis. Vectēvs Juris zināja neskaitāmi daudz stāstu. Viņš zināja stāstus par varoņiem un drakoniem, par burvju mežiem un zemūdens valstībām. Bet vissvarīgākie bija stāsti par uguni un dūmiem.</p>
+
+<p>Vienu jauku saulainu dienu, kad Līza sēdēja vectēva Juriņa klēpī zem lielā ozola, vectēvs teica: “Līziņ, šodien es tev pastāstīšu stāstu par dūmiem. Zini, dūmi ir ļoti gudri. Viņi ceļo pa debesīm un redz daudz ko.”</p>
+
+<p>Līza ieplēta acis. “Tiešām, vectēv?”</p>
+
+<p>“Tiešām! Iedomājies, Līziņ, dūmi var redzēt to, ko mēs nevaram. Viņi redz, kā vējš spēlējas ar lapām, kā putni lido uz dienvidiem, un kā bērni smejas, spēlējoties pļavā. Dūmi ir stāstnieki, Līziņ, un viņi glabā sevī visu pasaules zināšanas.”</p>
+
+<p>Vectēvs atklepojās un sāka stāstīt:</p>
+
+<p>“Reiz sen, sen atpakaļ, kad pasaulē vēl valdīja ne tik daudz saules, bet gan ļoti daudz lietus, dzīvoja dūmu zēns vārdā Dūmiņš. Dūmiņš bija pavisam maziņš, bet ļoti ziņkārīgs. Viņš gribēja zināt visu par pasauli.</p>
+
+<p>Katru rītu Dūmiņš kāpa augstu debesīs, lai skatītos uz zemi. Viņš vēroja, kā putni ceļ savas ligzdas, kā ziedi uzzied, un kā cilvēki strādā savās mājās un laukos. Bet visvairāk viņam patika vērot uguni.”</p>
+
+<p>Līza iesaucās: “Ugunis!”</p>
+
+<p>Vectēvs pasmaidīja. “Jā, Līziņ, uguns. Uguns ir vēl viens brīnišķīgs varonis šajā stāstā. Uguns ir silta un spilgta, tā dod gaismu un siltumu, bet var arī būt bīstama. Bet par to vēlāk.”</p>
+
+<p>“Dūmiņš bieži vien apmeklēja uguni, jo uguns vienmēr stāstīja interesantus stāstus. Uguns zināja par zvaigznēm un planētām, par vēsturi un nākotni. Un Dūmiņš uzmanīgi klausījās.”</p>
+
+<p>“Vienu dienu uguns teica Dūmiņam: ‘Dūmiņ, tu esi ļoti ziņkārīgs. Bet tev jāatceras, ka tu esi dūmi. Un dūmiem ir savas īpašības. Tev jāprot būt plānam un vieglam, lai vari ceļot pa pasauli un redzēt visu.’</p>
+
+<p>Dūmiņš apdomāja Uguns vārdus. Viņš bija nedaudz skumīgs, jo gribēja būt tikpat spilgts kā uguns. Bet viņš saprata, ka uguns ir cita veida brīnums. Uguns nevar ceļot tālu, tā vienmēr paliek tur, kur viņa deg. Dūmi var doties jebkur.”</p>
+
+<p>“Tā Dūmiņš sāka mācīties ceļot. Viņš vēja palīdzību pacēlās arvien augstāk debesīs. Viņš vēroja, kā vējš pūš pāri ezeriem un mežiem. Viņš redzēja, kā bērni spēlējās ar krāsainiem pūķiem. Viņš redzēja visu.”</p>
+
+<p>Līza dziļi nopūtās. “Tas ir tik skaisti, vectēv!”</p>
+
+<p>Vectēvs paglaudīja Līzai galvu. “Un tas vēl nav viss, Līziņ. Ir vēl viens brīnums – uguns brīnumi. Uguns mīl spēlēties, un viņas spēles ir ļoti, ļoti interesantas.”</p>
+
+<p>“Reiz Dūmiņš satika citu uguni, mazliet vecāku un gudrāku par to uguni, ko viņš bija iepazinis pirms tam. Šī uguns bija pavisam mierīga, bet viņas liesmas spēlējās. Reizēm tās izskatījās pēc maziem dzīvniekiem, reizēm pēc pasaku varoņiem, reizēm pēc ziediem.”</p>
+
+<p>“Šī uguns iemācīja Dūmiņam, kāpēc uguns ir svarīga. Uguns ne tikai dod gaismu un siltumu, bet arī var palīdzēt gatavot ēdienu, sildīt mājas un pat atvairīt briesmas. Uguns ir jāciena, bet jāprot ar to apieties uzmanīgi.”</p>
+
+<p>Līza savilka uzacis. “Briesmas? Kādas briesmas, vectēv?”</p>
+
+<p>“Jā, Līziņ. Uguns var būt bīstama, ja to neievēro. Ja uguns ir par lielu, tā var sadedzināt visu. Tāpēc ir ļoti svarīgi ar uguni apieties ar prātu un cieņu.”</p>
+
+<p>Vectēvs paskatījās debesīs. “Dūmiņš iemācījās daudz ko no uguns. Viņš iemācījās par pasaules skaistumu un briesmām. Viņš iemācījās par draudzību un uzticību. Un viņš iemācījās par sevi. Dūmiņš saprata, ka viņš ir svarīgs, jo viņš var redzēt un stāstīt.”</p>
+
+<p>Vectēvs pamāja ar galvu. “Un tad pienāca laiks, kad Dūmiņš atkal devās ceļojumā. Viņš gribēja dalīties savās zināšanās ar citiem. Viņš gribēja stāstīt par to, ko redzējis.”</p>
+
+<p>Līza piecēlās kājās. “Vai viņš stāstīja cilvēkiem?”</p>
+
+<p>Vectēvs pasmaidīja. “Protams, Līziņ. Dūmiņš stāstīja visiem, kas vēlējās klausīties. Viņš ceļoja no viena ciema uz otru, no vienas mājas uz otru. Viņš stāstīja par ziediem, par putniem, par bērniem un par visu pārējo, ko viņš bija redzējis.”</p>
+
+<p>“Un vienmēr, kad Dūmiņš stāstīja savus stāstus, viņš atcerējās Uguni. Viņš atcerējās Uguns padomu būt plānam un vieglam, lai varētu ceļot. Viņš atcerējās uguns gaismu un siltumu, un atcerējās, cik svarīgi ir ar uguni apieties pareizi.”</p>
+
+<p>Vectēvs noslēdza stāstu ar siltu smaidu. “Un tāpēc, Līziņ, atceries, ka dūmi ir stāstnieki, un uguns ir brīnums. Un abi kopā veido brīnišķīgu pasauli, kuru mēs varam izzināt.”</p>
+
+<p>Līza cieši apskāva vectēvu. “Paldies, vectēv! Tas bija vislabākais stāsts, kādu esmu dzirdējusi.”</p>
+
+<p>Un tā Līza ik vakaru sagaidīja ar nepacietību, lai vectēvs viņai pastāstītu jaunus stāstus par dūmiem un uguni, par pasauli un tās brīnumiem. Viņa zināja, ka katrs stāsts ir kā mazs zelta grauds, ko viņa glabās savā sirdī.</p>
+
+<p>Un, kad Līza izauga liela, viņa pati stāstīja saviem bērniem par Dūmiņu un Uguni, par pasauli, kas bija pilna brīnumiem, kurus varēja redzēt, ja vien zināja, kā klausīties un vērot. Un viņas bērni, gluži tāpat kā Līza, klausījās ar atvērtām sirdīm un gaišām acīm.</p>
+
+<p>Un tā stāsti par Dūmiem un Uguni turpinājās, jo dūmi vienmēr ceļo un stāsta, un uguns vienmēr spēlējas un rada brīnumus.</p>
+</body>
+```

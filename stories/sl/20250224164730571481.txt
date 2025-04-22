@@ -1,0 +1,33 @@
+<prompt>
+Please write a simple and easy-to-follow Slovenian children's story that is at least 1000 words long.
+It must be completely written in proper Slovenian (SL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Prigode mlade raziskovalke v Amazoniji'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sl</lang_id>
+
+<title>Prigode mlade raziskovalke v Amazoniji</title>
+<body>
+Zlata, dekle z iskricama v očeh in zvezdnato nočjo v srcu, je bila navdušena nad naravo.  Že od malih nog se je z veseljem prepustila čarom gozdov, dreves, ki so se dotikala oblakov, in divjim živalim, ki so živele v njih.  Vse, kar je slišala o Amazoniji, je bila magija. O divjih rekah, ki so se vijugale skozi goščave, o drevesih, ki so se dotikala neba, in o pticah, ki so prepevale pesmi, ki jih je znalo razumeti samo srce.  Njena mama, raziskovalka, ki je preživela leta v gozdu, ji je povedala o neznanih bitjih in o skrivnostih, ki jih skriva ta čudež narave.
+
+Zlata je sanjala o Amazoniji. Sanjala je o tem, da bo odkrila nove rastline, spoznala nove živali in preživela pod streho gozda, polnega skrivnosti.  Ko je dopolnila deset let, je mama dosegla dogovor.  Zlata se bo podala v Amazonijo, toda le z njo, s svojim starejšim bratom, ki je bil strokovnjak za živali.  Njen brat, Luka, je bil sramežljiv, a pameten in zvest, in v gozdu bosta potrebovala oboje.
+
+Njihova pot je bila dolga in polna izzivov.  Prečkali so oceane, obiskali gozdove z neverjetno pestrostjo in se srečevali z domačini, ki so jim odprli vrata svojega sveta.  Pripravili so se na dogodivščine, ki so jih čakale v džungli.
+
+Prvi dan v Amazoniji je bil vroč in vlažen.  Sonce je peklo, muhe so krile okoli njih, in gozd je bil nepregleden.  Zlata se je prepustila gozdu, ki je bil vresničen, zelen in voden s tisoči majhnimi rečmi.  V zraku je visela skrivnost.  Medtem ko je Luka opazoval ptice, se je Zlata začudila nad neverjetnimi rastlinami.  Našla je rožo z nebeško modrimi cvetovi, ki so se premikali, kot bi se smejale.  Luka jo je prepoznal, to je bila gozdna lepotica, ki jo poznajo le redki.
+
+Drugi dan so se podali na reko.  Reka Amazonka je bila ogromna in mogočna.  Zlata in Luka sta se v čolnu počutili majhna v tej velikani.  Med plovbo so videli kajmana, ki se je sončil na bregu.  Zlata je bila presenečena, Luka pa je razložil, da so to zelo umirjeni velikani, ki se običajno hranijo z ribami.  Srečali so tudi čudovite ribe z bleščečimi luskami in ptice z barvnimi perjem.  Zlata je v dnevniku beležila vse, kar sta videla.
+
+Tretji dan sta se odpravila v globine gozda.  Žalostna tišina je bila prekinjena le z zvoki ptic in žuželk.  Pot je bila zapletena, a Zlata in Luka sta se vztrajno prebijala skozi gozd.  Našli so majhen preliv, ki je bil napolnjen z čudovitimi metulji.  Zlata se je z njimi igrala, dokler niso odleteli in pustili za seboj le vonj po medu.  Znala se je počutiti blizu narave, kot da bi bila del nje.
+
+V enem od gozdnih prelivov sta naletela na čudovite, a nenavadne rastline.  Luka je prepoznaval, da gre za zdravilo, ki pomaga pri zdravljenju.  Zlata je bila navdušena, ko je videla, kako rastlina sveti v temi, kot da bi se v njej skrivali majhni svetlobni žarki.  Potem se je znašla pred velikim drevesom.  Na njem je bil majhen, čudovit in ptič, ki je bil skrit v debelini drevesa.  Ptič je imel raznobarvno perje in se mu je Zlata takoj zaljubila.  Lukina previdnost je bila najvišja.  V vsem tem divjem in čudovitem gozdu je bil še vedno človeški element in obstoj.  Ko je Luka prišel, so se ptiči znova skrili v drevo.
+
+Zlata in Luka sta se vrnila v svoje taborišče.  Zlata je bila vesela, da je lahko zabeležila vse, kar je videla in doživela.  Opazila je, da se je gozd spreminjal z vsakim novim dnem.  Spoznala je, da je Amazonija veliko več kot le drevesa, živali in reke.  Je čustvo, duša in zgodba.  Skrivnosti, ki jih je skriva, so neprecenljive.
+
+Končno, ko so dnevi postajali daljši, je bil čas za odhod.  S polnimi srci, polnimi novih spoznanj, so se vrnili domov.  Zlata je v svojem dnevniku napisala o njihovih dogodivščinah,  slike so bile polne čarobnih čustev, izkušenj in ljubezni do narave.  Luka je bil ponosen na svojo mlajšo sestro.  Skupno so se naučili veliko o Amazoniji, a še bolj o sami sebi.  Prijateljstvo je bila največja odkritja v teh čudovitih dneh v Amazoniji.  Zlata se je obljubila, da se bo še vedno vračala v Amazonijo in obljubila, da bo širila znanje in spoštovanje do tega čudovitega naravnega bisera.
+</body>

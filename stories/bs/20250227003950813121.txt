@@ -1,0 +1,39 @@
+<prompt>
+Please write a funny Bosnian children's story that is at least 1000 words long.
+It must be completely written in proper Bosnian (BS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Magična knjiga tajni i čarolija'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>bs</lang_id>
+
+<title>Magična knjiga tajni i čarolija</title>
+<body>
+Petar, mali dječak s kosom boje suncokreta i očima kao dvije biserne kuglice, živio je u malom selu ispunjenom šumom i cvjetovima.  Petar je bio čudak – nije se zanimao za fudbal, nije skupljao leptire, nego je cijelo vrijeme čitao.  Čitao je sve što je mogao pronaći –  priče o zmajevima, o princezama, o životinjama koje govore.  Jednog sunčanog jutra, u prodavnici knjiga stare tetke Marije, naišao je na knjigu – sjajno plavu, prekrivenu zlatnim slovima.
+
+„Magična knjiga tajni i čarolija“, pisalo je na koricama. Petar je odmah znao da mora imati ovu knjigu.  Tetka Marija, poznata po svojim čudnim pričama i smiješnim šala-ma, progovorila je tiho, „Ova knjiga nije baš obično čudo, mali. Ona ima tajne koju čuvaju vještice i patuljci, a ponekad će te čak i iznenaditi.“  Petar je uzeo knjiku u ruke, i osjetio laganu toplinu što je izlazila iz korica.  "Doći ćeš u dodir sa zaboravljenim čarolijama!", promislio je Petar.
+
+Ponesen uzbuđenjem, Petar je potrčao kući sa knjigom u rukama. Otvorio je knjigu i na prvoj stranici pročitao: "Da biste otključali tajne ove knjige, potrebna su vam tri stvari – cvjetni prah iz cvijeta crvene ruže, kapljica rose od jutra i pjesma bube žutice."  Petar je nabavio cvjetni prah iz obližnjeg cvijeta, ali kada je krenuo skupljati kapljice rose s lista trave,  prekinuo ga je nevjerojatno glasan zvuk.
+
+Bio je to glas  velikog, plosnatog kornjača po imenu Krtole koji je vikao na cijelo selo, „Zar ne vidite da je ovo vrijeme za skupljanje šumskih šljiva?! Šumske šljive su ovogodišnji najukusniji plod, a ja se pripremam za  moj slavni šljivo-jabukasti kolač.“ Petar je, naravno, shvatio da je od Krtole  nije čuti pjesme.
+
+S velikim razočaranjem, Petar je stao skupljati rose,  osvijestivši da  će morati obići selo u potrazi za pjesmom žućkaste bube. Njegovi novi problemi se pokazali još tešima.  U selu su susreli seljanka Zorka. Zorka, poznata po svom divlje, smelošću pristupila Petru, a onda ispričala smiješnu priču o bubi žućici, od koje je pjesmu Petar uspio nagovoriti od susreta i šefa trgovaca šećerom.
+
+
+Nakon nekog vremena, Petar je ipak pronašao bucmastu bubu žućicu, koja mu je zapjevala veselu pjesmu, ali je to bila zapravo pjesma o njenoj nevolji pri skupljanju sokova. Ovakva pjesma, nije odgovarala tajnama, Petar se još malo zbunio, pa je pogledao svoju staru prijateljicu Mišu i pitala je kako dalje.
+
+
+ Miša, poznata po svojim iznenađujućim i razboritim pametni, pojasnila je Petru da se pjesma mora pronaći među brojnim bujicama zvukova koji se miješaju i pretaču u okolici. 
+
+
+Nastavivši svoju potragu, Petar je na kraju došao u šumu, gdje je našao najljepšu bubu žućicu, koja mu je ispekla pjesmu koja je odgovarala njegovoj pretrazi, za njegovu potragu i sve njegove uznemirene misli. U toj pjesmi se čuvalo sve što je činio Petar od samog početka svog putovanja.
+
+
+Sva tri sastojka su se sada složila – cvjetni prah, kapljica rose i pjesma bube žućice.  Petar je složio sve što je sakupio u knjigu. Knjiga je  blistala, širila je zvuke, a oko Petra je nastala svetlost.
+
+U toj svjetlosti, Petar je shvatio da čarolija nije bila samo u knjizi. Bila je u njegovoj odlučnosti, u njegovoj radoznalosti i njegovom velikom srcu.   Knjiga je samo otključala put do tajni koje su bile unutar njega samog. Od tog dana, Petar je više nikada nije trebao poseban dodatak čarobne knjizi, jer je znao da su najljepše priče uvijek unutar.
+</body>

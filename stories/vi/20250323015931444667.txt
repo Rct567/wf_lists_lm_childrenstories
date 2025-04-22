@@ -1,0 +1,72 @@
+<prompt>
+Please write a relatable Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Những Biến Cố Li kì Của Người Bạn Cùng Đường'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>vi</lang_id>
+
+```xml
+<title>Những Biến Cố Li kì Của Người Bạn Cùng Đường</title><body>
+<p>Ngày xửa ngày xưa, ở một ngôi làng nhỏ ven sông Cửu Long hiền hòa, có một cậu bé tên là Tôm. Tôm là một cậu bé hiếu động, thích khám phá mọi thứ xung quanh. Mái tóc đen nhánh của cậu luôn bù xù như tổ quạ, đôi mắt sáng ngời tò mò, và nụ cười luôn nở rộ trên môi.</p>
+
+<p>Nhà Tôm gần bến phà. Cậu thường hay ra bến phà chơi, nhìn những chiếc thuyền lớn nhỏ tấp nập, những con người từ khắp nơi đến rồi đi. Cậu thích nghe những câu chuyện mà người ta kể lại, những điều mới lạ, những vùng đất xa xôi. Ước mơ của Tôm là một ngày nào đó, cậu sẽ được đi thật xa, khám phá những điều kỳ diệu mà cậu chỉ được nghe kể.</p>
+
+<p>Một buổi sáng nọ, khi Tôm đang mải mê nhìn chiếc thuyền của bác Ba Thức chuẩn bị ra khơi, cậu thấy một điều khác thường. Có một chú bé, trông bằng tuổi Tôm, đang ngồi nép mình dưới gốc cây bàng cổ thụ, vẻ mặt buồn rầu, tay ôm khư khư một con búp bê bằng vải.</p>
+
+<p>"Chào bạn!" Tôm chủ động bắt chuyện. "Bạn làm gì ở đây vậy?"</p>
+
+<p>Chú bé giật mình ngẩng đầu lên, đôi mắt xanh biếc ngập nước. Cậu ta có vẻ ngoài rất khác so với những đứa trẻ ở làng Tôm. Tóc vàng hoe, da trắng, và giọng nói nhỏ nhẹ, lạ tai.</p>
+
+<p>"Chào... chào bạn," chú bé đáp lại bằng giọng lơ lớ tiếng Việt. "Mình... mình bị lạc."</p>
+
+<p>"Lạc?" Tôm ngạc nhiên. "Bạn lạc ở đây sao? Bạn đến từ đâu?"</p>
+
+<p>"Mình... mình tên là Peter. Mình đến từ... một nơi rất xa." Peter ngập ngừng trả lời, đôi mắt lại rơm rớm.</p>
+
+<p>Tôm cảm thấy thương Peter vô cùng. Cậu kéo Peter về nhà, giới thiệu với ba má. Ba má Tôm là những người rất tốt bụng, họ đón tiếp Peter bằng tất cả sự nhiệt tình. Họ cho Peter ăn cơm, cho Peter ngủ ở căn gác nhỏ mà Tôm thường dùng để đọc sách và vẽ tranh.</p>
+
+<p>Trong những ngày ở nhà Tôm, Peter kể cho Tôm nghe về quê hương của mình, một đất nước có tuyết trắng xóa vào mùa đông, những tòa nhà cao chọc trời và những món ăn lạ miệng. Peter cũng kể về việc cậu và ba mẹ đi du lịch, và rồi, trong một lần đến Việt Nam, cậu bị lạc trong một khu chợ đông đúc. Ba mẹ Peter vẫn đang tìm kiếm cậu.</p>
+
+<p>Tôm và Peter nhanh chóng trở thành đôi bạn thân thiết. Tôm dạy Peter nói tiếng Việt, giới thiệu cho Peter những trò chơi dân gian, những món ăn ngon lành của quê hương. Peter kể cho Tôm nghe những câu chuyện cổ tích, những bài hát của xứ sở xa xôi. Cả hai cùng nhau vẽ tranh, cùng nhau khám phá những bí mật của ngôi làng.</p>
+
+<p>Một buổi chiều nọ, khi Tôm và Peter đang ngồi bên bờ sông, bỗng nhiên, con búp bê vải của Peter phát ra ánh sáng kỳ lạ. Ánh sáng ngày càng mạnh, bao trùm lấy hai cậu bé. Tôm và Peter choáng váng, rồi ngất đi.</p>
+
+<p>Khi tỉnh dậy, Tôm và Peter thấy mình đang đứng trong một khu rừng rậm rạp, cây cối um tùm, ánh sáng mờ ảo. Không còn bờ sông, không còn ngôi nhà quen thuộc, không còn tiếng cười nói của bạn bè. Chỉ có tiếng chim hót, tiếng côn trùng kêu rỉ và sự im lặng đến rợn người.</p>
+
+<p>"Mình... mình đang ở đâu vậy?" Peter run rẩy hỏi.</p>
+
+<p>"Mình không biết," Tôm đáp. "Nhưng mình nghĩ... chắc là con búp bê của bạn có liên quan đến việc này."</p>
+
+<p>Hai cậu bé bắt đầu cuộc hành trình khám phá khu rừng kỳ bí. Họ đi sâu vào trong, vượt qua những con suối trong vắt, những ngọn đồi xanh thẳm, gặp gỡ những loài vật lạ lùng. Họ gặp một con sóc tinh ranh, một chú chim biết nói, và một cụ rùa cổ kính, người mà theo lời cụ thì đã sống ở khu rừng này hàng trăm năm.</p>
+
+<p>Cụ Rùa kể cho Tôm và Peter nghe về một lời nguyền cổ xưa, rằng cứ sau mỗi một trăm năm, sẽ có hai đứa trẻ, một người từ phương Đông và một người từ phương Tây, bị lạc vào khu rừng. Muốn trở về, hai đứa trẻ phải tìm thấy ba viên ngọc ẩn chứa trong ba thử thách khác nhau. Ba viên ngọc sẽ giúp hai đứa trẻ tìm được đường về.</p>
+
+<p>Cụ Rùa giao cho Tôm và Peter một bản đồ cổ, chỉ dẫn đến nơi cất giữ ba viên ngọc. Cụ cũng dặn dò hai cậu bé phải thật cẩn thận, vì khu rừng này không chỉ có những điều kỳ diệu, mà còn có những thế lực đen tối đang chờ đợi.</p>
+
+<p>Tôm và Peter lên đường thực hiện nhiệm vụ. Thử thách đầu tiên là vượt qua cây cầu rung lắc bắc ngang qua một vực thẳm sâu hun hút. Hai cậu bé phải cùng nhau hợp sức, tin tưởng lẫn nhau, thì mới có thể đi qua an toàn. Với sự giúp đỡ của Peter, vốn dĩ rất can đảm, Tôm cũng chiến thắng nỗi sợ hãi của mình và vượt qua cây cầu thành công.</p>
+
+<p>Thử thách thứ hai là giải đố một câu đố hóc búa của một người khổng lồ thân thiện. Câu đố liên quan đến lịch sử và văn hóa của cả hai đất nước, đòi hỏi Tôm và Peter phải vận dụng kiến thức đã học và sự hiểu biết về nhau. Sau một hồi suy nghĩ, hai cậu bé đã tìm ra đáp án và nhận được viên ngọc thứ hai.</p>
+
+<p>Thử thách cuối cùng là đánh bại một con quái vật hung ác, canh giữ viên ngọc cuối cùng. Con quái vật có sức mạnh phi thường, có thể tạo ra những cơn gió lốc, những trận mưa đá. Tôm và Peter phải sử dụng trí thông minh, lòng dũng cảm và sự đoàn kết để chiến đấu.</p>
+
+<p>Peter nhớ lại những bài học về võ thuật mà cậu được học ở quê nhà. Tôm thì vận dụng những hiểu biết về địa hình, về thời tiết để lên kế hoạch tác chiến. Hai cậu bé cùng nhau phối hợp, Peter tấn công trực diện, Tôm tìm cách đánh lạc hướng và tạo ra cơ hội. Cuối cùng, họ đã đánh bại được con quái vật, lấy được viên ngọc cuối cùng.</p>
+
+<p>Khi ba viên ngọc được kết hợp lại, một luồng sáng chói lòa bao trùm lấy Tôm và Peter. Cả hai cảm thấy như có một sức mạnh kỳ lạ đang chảy trong người. Và rồi, họ tỉnh dậy.</p>
+
+<p>Tôm và Peter thấy mình đang ở trên bãi cỏ gần nhà Tôm. Mặt trời đã lặn, ánh trăng rằm dịu nhẹ soi sáng khu vườn. Con búp bê vải của Peter nằm yên bên cạnh.</p>
+
+<p>"Mình... mình đã trở lại!" Peter reo lên, ôm chầm lấy Tôm.</p>
+
+<p>Một lát sau, ba mẹ Peter chạy đến, ôm chầm lấy cậu con trai sau bao ngày xa cách. Họ đã tìm kiếm Peter khắp nơi, và thật may mắn, cuối cùng họ đã tìm thấy cậu. Ba mẹ Peter rất biết ơn Tôm và ba má cậu đã giúp đỡ.</p>
+
+<p>Trước khi Peter rời đi, hai cậu bé hứa sẽ giữ liên lạc, sẽ kể cho nhau nghe những câu chuyện về cuộc sống của mỗi người. Peter tặng Tôm một bức tranh về quê hương của cậu, và Tôm tặng Peter một chiếc nón lá Việt Nam.</p>
+
+<p>Từ ngày Peter rời đi, Tôm vẫn ra bến phà, vẫn ngắm nhìn những con thuyền. Nhưng giờ đây, trong tâm hồn cậu có thêm một niềm tin. Cậu tin rằng, thế giới này rộng lớn và kỳ diệu, và những điều bất ngờ sẽ luôn xảy ra. Cậu sẽ tiếp tục khám phá, tiếp tục mơ ước, và cậu biết rằng, tình bạn sẽ luôn là ngọn lửa ấm áp soi đường cho cậu trên mỗi bước đi.</p>
+</body>
+```

@@ -1,0 +1,42 @@
+<prompt>
+Please write a silly Romanian children's story that is at least 1000 words long.
+It must be completely written in proper Romanian (RO).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Mulan: Curajul și Onoarea Fiecărei Fetițe, de Oriunde din Lume'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>ro</lang_id>
+
+<title>Mulan: Curajul și Onoarea Fiecărei Fetițe, de Oriunde din Lume</title>
+<body>
+Mulan, o fetiță cu părul negru ca noaptea și ochii strălucitori ca două stele, trăia într-un sat cochet din Munții Apuseni. Nu era o fată ca celelalte. În timp ce fetele își petreceau timpul țesând covoare colorate și cântând cântece populare, Mulan prefera să se aventureze prin păduri dese, urmărindu-l pe vânt prin valea râului, căutând în fiecare zi o nouă aventură.  Îi plăceau legendele străvechi ale strămoșilor săi, povestiri despre viteji și eroine ce curajau generațiile.
+
+Într-o zi însorită de vară, în timp ce se juca pe malul pârâului, Mulan a auzit un strigăt disperat.  Era un miel pierdut, zdrobit sub o creangă grea. Fără să stea pe gânduri, Mulan a sărit peste rădăcinile groase și a ajutat mielul mic, îi clătinând din greutăți, până ce a reușit să-l elibereze. Mielul, micuț și mișcător, a început să-l lingă pe obrazul ei ca o mulțumire pentru actul ei curajos.
+
+Știrea actului ei eroic s-a răspândit ca o foc-foc.  În satul din munți, a ajuns vestea că fetița asta cu inima mare nu-și temeapă niciodată misiunile. Într-o noapte fără lună, regele, cunoscut pentru curajul și vitejia lui, dar mai ales pentru obiceiul lui de a asculta poveștile tinerilor, s-a oprit să o asculte pe Mulan. Ea a povestit despre căutarea ei, aventurile și cum le-a întâlnit și le-a înfruntat.
+
+Între timp, o temută armată de șobolani, cu șefii lor răi și șobolani mari de înfruntare, invadase Țara Soricelului și amenințau satul din Munții Apuseni.Șobolanii erau cunoscuți pentru că nu se temeau de nimic, că au fost cei care au aruncat umbrele peste munți pentru totdeauna.
+
+Regele, mișcat de povestirea curajoasă a lui Mulan, i-a propus o misiune supremă: să aducă o floare miraculoasă, Floarea Iepurelui, de pe dealurile îndepărtate. Se spune că aroma florii puteea să alunge umbrele întunericului și să adune lumina asupra satului și să-i învingă pe șobolani.  Mulți au încercat, dar nimeni nu se întorsese vreodată, căci era riscant. Era imposibil să atingi înfloarea și să te întorci la viață.
+
+
+Mulan, cu ochii sclipind de curaj, a răspuns fără ezitare.  Ea îşi punea nădejdea în puterea dragostei, care, se spune, va învinge orice. Era hotărâtă să demonstreze că curajul nu aparținea doar bărbaților.
+
+
+Cu o geantă umplută cu hrană, o armă din lemn și, surprinzator, cu o minunată pâslă de învingător, s-a aventurat pe dealurile abrupte. Calea ei era plină de pericole, iar unii dintre ei credeau că-i părea să fie o eroină. Ea avea să aducă pacea peste întunericul de-asupra lor.
+A întâlnit vulpi viclene, urși leni,  și  pasăre-fluturașii  înaripați ce încerca să i se atace. La fiecare obstacol în cale, curajul și priceperea ei au străbătut barierele adversităților. În unele ocazii, ea se simțea complet pierdută în mijlocul pădurilor întunecate, dar perseverența ei nu avea limite. A cântat, dansat și chiar a negociat cu animalele salbatice să-i deschidă calea în  măreția strălucitorului vârf al dealurilor.
+
+
+Ajunsă la vârful dealurilor, a găsit Floarea Iepurelui.  Era o floare incredibil de frumoasă, care exuda o strălucire aurie și mirosul ei era divin, dulce și cald ca dragostea.
+
+
+Însă, șobolanii, aflând despre aventura lui Mulan, o ambuscau într-o pajiște împădurită. Lupta a fost acerbă, dar curajul ei a fost mai puternic decât mânie.  Mulți, văzând-o pe această fetiță mică și cu un curaj de-o viață,  au decis să se alăture ei, lăsându-şi șeful și unii dintre ei  fără o direcție sau îndrumarea unei strategii pentru luptă.  A strâns Floarea Iepurelui și a dat drumul mirosului ei parfumat, cu putere supremă, într-o lume. A luptat pentru binele comun al oamenilor din întregul munți, al animalelor și al plantelor din întreaga lume. A reușit!  Lupta a fost îndelungată și uneori chinuitoare,  dar la sfârșit, s-a întors victorioasă în sat.
+
+
+
+Șobolanii,  înfricându-se de puterea extraordinară a florii, s-au retras, lăsând satul din nou liniștit.  Satul s-a bucurat de victoria ei. Toată lumea a aplaudat, căci curajul lui Mulan a asigurat pacea și ordinea mult timp de-acum încolo. Mulan, cu mâna ei mică dar cu inimă mare, a devenit un simbol al speranței, un exemplu de curaj și onoare pentru toate fetițele din lume, dovedind tuturor că  abilități sunt peste toate, atâta timp cât ne ținem cu  inimile noastre.  Nu contează din ce colț de lume vei veni; curajul, înțelepciunea,  și onoarea vor face tot ce e necesar pentru noi.
+</body>

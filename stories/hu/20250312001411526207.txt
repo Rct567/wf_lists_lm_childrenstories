@@ -1,0 +1,28 @@
+<prompt>
+Please write a relatable Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A szélcsengők dala és a hangos felhők'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>A szélcsengők dala és a hangos felhők</title><body>
+Pistike, egy aprócska, fürge fiú, aki szőke haja szinte összeért a vállával, imádta a nyári napokat.  A kertjükben, a hatalmas, őszibarackfa alatt, szélcsengők csillogtak, mintha apró, aranyszínű madarak röpködnének az ágak között.  Minden reggel, amikor a szél megsimogatta a leveleket, a szélcsengők csilingeltek, egy örökké változó, dalos játékot játszva.
+
+Pistike mindig leült a fa alá, és hallgatta a zenéjüket. A szélcsengők dala megnyugtató volt, mint egy édes, halk dallam.  Volt azonban egy rejtély. Néha a felhők, hatalmas, sötét gomolyagok, hangosan morgolódtak a kéken. Nem énekeltek, hanem bömböltek, dübörögtek, olyan hangosan, hogy elnyelték a szélcsengők dalát.  Pistike szíve mindig összeszorult, ha a hangos felhők elémorgolódtak, mert a csend, a békesség megszakadt.
+
+Egy nap, a felhők különösen hangosak voltak.  A szélcsengők csillogó csilingelése eltűnt, elsöpörték a dühös szélviharok. Pistike szíve keserű lett, mint a csípős uborka.  Gyorsan a hatalmas őszibarackfa tövébe szaladt, és a földön, fűben, egy nagyméretű fáról leesett, tönkrement őszibarackot talált.  Észrevette, hogy a barackból a belsejében egy piciny, félig betemetett csoda nőtt. A csoda egy piciny, fénytörő kristályszál volt, csillogott a fénytörések között és az éteri szélbe karikázott.
+
+Nem tudta, mi a csoda, de kíváncsian megemelte.  A kristály szikrázott a kezében, és  a fiú egy rejtett erőt érzett, egy halk sugallatot, ami olyan volt, mint egy halk csilingelés. Hirtelen megszűnt a morgolódó zaj. A hangos felhők kitisztultak, és finom, ezüst színben tündököltek a tiszta égbolton.  A felhők elkezdték a csendes leülepedésüket.  A szél csitult, és a szélcsengők újra felcsendültek.  Finom, lágy,  örvendetes ének.
+
+Pistike értette, hogy mit tett a kis kristály.  A kristály adta a szélcsengők dalához a hangos felhők számára is a csendes visszhangját.  Ez volt a békesség kulcsa.
+
+Ettől fogva, amikor a felhők dühös morgolódása elszörnyítette, Pistike megkeresett egy hasonló őszibarackot a kertben, és  keresett a barack magjában egy új kristályt. Megmutatta mindenkinek a csillogó kristályt, hogy a hangos felhők  és a csendes szélcsengők dalát egyensúlyba hozhassák.
+
+És minden nyáron, az őszibarackfa alatt, szélcsengők csilingeltek, és a felhők csendben úsztak, miközben a gyermekek mind tanultak erről a titokzatos kapcsolattól.  A kis kristályok, a szélcsengők dala és a hangos felhők dallamában találtak egy örökös harmóniát, mely Pistike szívét mindig boldogsággal töltötte el.
+</body>

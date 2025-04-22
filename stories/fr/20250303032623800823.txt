@@ -1,0 +1,37 @@
+<prompt>
+Please write a relatable French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La Petite Fille Qui Sauva les Étoiles Filantes'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>fr</lang_id>
+
+<title>La Petite Fille Qui Sauva les Étoiles Filantes</title>
+<body>
+Dans un petit village perché au sommet d'une colline verdoyante, habitait une fillette nommée Célia.  Célia n'était pas comme les autres enfants du village.  Tandis qu'ils jouaient au ballon dans la rue ou aux jeux de société, Célia aimait observer le ciel.  Elle passait des heures à contempler les étoiles, imaginant des histoires en les reliant les unes aux autres.  Elle adorait particulièrement les étoiles filantes, ces petites traînées lumineuses qui s'évanouissaient si vite.  Elle croyait qu'elles portaient des souhaits, des messages secrets du ciel.
+
+Un soir, Célia regardait le ciel lorsqu'elle vit quelque chose d'étrange.  Les étoiles filantes, au lieu de scintiller et de disparaître, se trouvaient figées dans l'air, comme des aiguilles de lumière gelées.  Le ciel était sombre, comme s'il retenait son souffle.  Plus d'étoiles filantes ne traversaient le ciel nocturne.  Elle entendit un léger murmure, un souffle léger provenant des arbres autour de sa maison.  Une voix douce, comme le murmure d'un ruisseau, dit : "Les étoiles filantes ont peur."
+
+"Peur ?" pensa Célia, surprise. "Mais pourquoi ?"  Elle se rapprocha des arbres, son petit cœur battant. Elle les caressait de la main en cherchant des réponses. "Dites-moi ce qui s'est passé !"  Elle sentit un léger frôlement à travers le bois, les branches s'agitant et se répondant.  Alors un petit personnage, d'une beauté insaisissable, émergea de la brume. C'était une fée, plus petite qu'une fleur de pissenlit, avec des ailes irisées scintillantes et de grands yeux brillants comme les diamants.
+
+La fée lui expliqua, d'une voix douce et musicale : "Un sorcier malveillant, caché dans les profondeurs du bois, a jeté un sort sur les étoiles filantes. Il les a enchantées et les a figées, car il voulait garder pour lui tous les souhaits et les rêves que le ciel offrait aux enfants."
+
+"Mais comment pouvons-nous les libérer?" demanda Célia, les yeux grands ouverts.  La fée haussa les épaules, semblant plus inquiète qu'impliquée.
+
+"Le sorcier a caché un trésor au cœur même des bois, un objet d'une lumière extraordinaire," murmura la fée, "l'Étincelle Cosmique.  Seul un cœur pur, un enfant plein de compassion, peut le trouver et briser le sortilège."
+
+Célia, ne sachant plus que faire, courut dans sa maison. Elle revint, munie d'une bougie soigneusement préparée, d'une douce odeur de cire qui se répandit autour d'elle comme une douce protection. Puis elle se dirigea vers la forêt profonde et mystérieuse, les branches entremêlées se transformant en une symphonie obscure. Les branches des arbres étaient hautes, impossibles à surmonter.
+
+Elle s'aventura au cœur des bois sombres, les ombres dansaient autour d'elle. La nuit était profonde et sans étoiles filantes. Elle parcourut tous les sentiers secrets et découvrit un étang recouvert de mystère et d’échos d’eau. La magie y était intense. Elle continua sa quête jusqu’à une petite clairière illuminée d'une lumière éthérée. C'était là !
+
+Elle vit un éclat de lumière, aussi pur et lumineux que l'aube.  C'était l'Étincelle Cosmique, enveloppée dans un nuage de poudre d'étoiles filantes.  Le sortilège n'a pas tenu devant Célia. Avec la sagesse dans son cœur, elle ramassa l'Étincelle et la porta au cœur même des bois.
+
+Aussitôt, un éclair parcourut les arbres et une voix puissante jaillit de la forêt. Le sortilège fut brisé, les étoiles filantes recommencèrent à scintiller, dessinant des traînées lumineuses à travers le ciel nocturne. Un immense cri de joie parcourut les bois.
+
+Célia, malgré sa petite taille, sentait un grand contentement. Elle retourna dans le village, un sourire aux lèvres. Elle avait sauvé les étoiles filantes ! Le village entier s'est réjoui, car les étoiles filantes remplissaient le ciel une fois de plus. La nuit suivante,  une infinité d'étoiles filantes s'élancèrent, répondant à chaque désir dans chaque âme d'enfant.  Le cœur pur et la compassion de Célia avait restauré la magie dans la nuit. De cette nuit mémorable est né le symbole de l'espoir dans le cœur des habitants du village.
+</body>

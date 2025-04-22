@@ -1,0 +1,33 @@
+<prompt>
+Please write a silly Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Quyoshli O'rmonda Yurgan Qizaloq va Sehrli G'or'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>Quyoshli O'rmonda Yurgan Qizaloq va Sehrli G'or</title>
+<body>
+Quyoshli o'rmonning chuqurligida, gulzorlarning o'rtasida,  quyosh nurlari bilan o'ralgan,  bir qizaloq yashagan.  Ismi Gulchehra edi.  Uning qoshlari,  qo'ylar singari,  qora,  ko'zlari esa,  to'q ko'k osmondek porlab turardi.  Gulchehra juda chiroyli,  juda ham quvnoq qizaloq edi.  Har kuni u o'rmonni o'ynashga,  sayr qilishga,  gulzorlarni  hidlashga  yugurardi.
+
+Bir kuni,  Gulchehra  o'rmonning eng chuqur qismiga,  hech kimning  o'tmagan  joyiga  yo'l oldi.  Uning qalbida  sehrli  g'or  haqidagi  afsona  bor edi.  Afsanada  g'orda  o'ziga  xohlagan  narsani  beradigan  sehrli  tosh  borligi aytiladi.  Gulchehra  o'ziga  yumshoq  to'qima  va  quyosh  rangli  paypoq  xohladi.
+
+Yo'l  uzoq  va  qiyin  edi.  O'rmon  qalin  daraxtlar  bilan  to'lib  toshgan  edi.  Oyoq osti  quruq  barglar  bilan  qoplangan  edi.  Gulchehra  yo'ldan  adashmaslik  uchun  o'rmon  hayvonlari  bilan  gaplashdi.  Bir  quyon  uni  daraxtning  orqasiga  olib  bordi,  bir  qush  esa  to'g'ri  yo'lni  ko'rsatdi.  Gulchehra  har  bir  hayvon  bilan  do'st  bo'lib  ketdi.  U  ularga  quvnoq  kulgusi  bilan  o'ziga  xush  kelgan  qo'shiqlar  aytib  berardi.
+
+Uzoq  sayr  qilgandan  keyin,  Gulchehra  qayin  tog'ning  o'rtasida  sehrli  g'orni  ko'rdi.  Uning  kirish  qismi  yashil  yashil  o'simliklar  bilan  o'ralgan  edi.  G'or  sichqon  singari  qorong'i  va  sirli  ko'rinardi.  Gulchehra  o'zining  qo'llarini  to'q  qilib  g'orning  kirish  qismiga  olib  bordi.
+
+G'orning  ichida  har  qanday  rangda  yoritib  turardi.  Gulchehra  o'zini  yorug'lik  o'rtasida  his  qildi.  U  oldinga  qadam  qo'ygan  har  bir  qadamda  quvnoq  oyoq  shovqini  eshitinardi.  Uzoq  yo'lni  yurishdan  keyin,  u  g'orning  o'rtasida  sehrli  toshni  ko'rdi.  U  toshga  qarab  yugurdi.  Uning  yuzida  tabassum  paydo  bo'ldi.
+
+Gulchehra  toshga  qarab  o'z  xohishini  aytdi:  "Men  yumshoq  to'qima  va  quyosh  rangli  paypoq  xohlayman".  U  toshni  o'pdi.  Va  tosh  yumshoq  to'qima  va  quyosh  rangli  paypoq  bilan  uning  oldida  paydo  bo'ldi.  Gulchehra  sehrli  toshga  minnatdorchilik  bildirdi.  U  o'zining  yangi  kiyimlarini  kiydi  va  quvonchdan  xursand  bo'ldi.
+
+Gulchehra  o'rmonga  qaytib  ketdi.  U  o'rmon  hayvonlari  bilan  o'yin-kulgiga  o'tkazdi,  ular  bilan  qo'shiq  aytdi.  O'rmon  hayvonlari  Gulchehra  bilan  birga  o'ynashga  quvonishdi.  Ular  uning  yangi  paypoqlari  bilan  o'ynashga  xursand  bo'lishdi.  Gulchehra  o'rmon  hayvonlariga  yumshoq  to'qimani  ham  berdi.  Ular  ham  quvonch  bilan  o'z  kiyimlarini  kiydilar.
+
+Gulchehra  o'rmon  hayvonlari  bilan  birga  o'ynashda  davom  etdi.  U  o'rmon  hayvonlari  bilan  do'st  bo'lganligi  uchun  va  sehrli  g'or  bilan  tanishganligi  uchun  bundan  ham  baxtli  edi.  U  har  bir  hayvon  bilan  do'stlik  bilan  o'ynadi.  Bu  o'rmon  gulzorlari  bilan  bir  qadar  o'ziga  xos  va  sehrli  o'rmon  edi.
+
+Gulchehra  o'rmon  hayvonlari  bilan  o'yin-kulgidan  keyin  uyiga  qaytdi.  U  o'zining  yangi  paypoqlari  va  yumshoq  to'qimasini  o'z  bilan  birga  olib  ketdi.  U  har  doim  o'rmonga  qaytishni  orzu  qilardi.  U  o'rmon  hayvonlari  bilan  do'st  bo'lishni  xohladi.  U  sehrli  g'orga  yana  borishni  orzu  qildi.
+</body>

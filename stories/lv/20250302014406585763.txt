@@ -1,0 +1,45 @@
+<prompt>
+Please write a educational Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Sunīša Rika un kaķa Miras draudzība, kas pārvarēja visus šķēršļus.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lv</lang_id>
+
+<title>Sunīša Rika un kaķa Miras draudzība, kas pārvarēja visus šķēršļus.</title>
+<body>
+Rīgas centrā, starp krāsainām mājām un trokšņainām ielām, dzīvoja sunītis Rika.  Viņš bija mazs, gaiši brūnā krāsā, ar lielu asti, kas vienmēr rotaļīgi vicinājās.  Rikam ļoti patika rotaļāties un skraidīt pa parkiem, apburto mežmalām un smaržot visu apkārtni. Viņš bija tik enerģisks un drosmīgs, ka bieži pārbrauca ielas, neatskatoties.
+
+Tāpat centrā dzīvoja kaķītis Mira. Viņa bija mazliet slinkāka nekā Rika, ar kažoku, tik gaiši pelēku kā krējuma burbuļi, un acīm, kas spoži mirdzēja kā zvaigznes.  Mirai patika sēdēt uz balkona, novērot pasaules virpuļus un uzmanīties no visiem citiem dzīvniekiem. Viņa bieži iekāpās kokos, meklējot skaistākus skatu punktus. Abiem dzīvniekiem bija sava rutīna un intereses, kas ne vienmēr saskanēja.
+
+Kādu saulainu vasaras dienu Rika, iedvesmojoties no savas mērķtiecības, uzņēmās uzdevumu atrast visgaršīgāko gaismu meža dziļumos.  Rika zināja, ka tuvākajā mežmalā aug ļoti vērtīgi āboliņš, kas dāvā īpaši sulīgu garšu.  Viņš skraidīja pa dārzkopības ceļiem, priecājoties par katru dzeltenu lapkoku, kas norādīja ceļu.  Bet, kad Rika jau iedomājās augļu garšu, parādījās Mira.
+
+Mira, ar izsmeinošu paceltu acs toni, vēroja Rikas ceļojumu.  "Kur tu dodaties?" viņa uzdeva jautājumu ar savdabīgu kņodu savā balsī.
+
+Rika, neaizdomājoties par šādu apjautājumu, teica: "Es iet atrast meža ābolus."
+
+"Meža āboli? Bet cik daudz tevi tādu vilināja?" Miru interesēja ābolu paradumi, ja tie šajā mežā aug. Viņa apmierināti uzbrāzās kokos.
+
+Rika apstādinājās, apbrīnojot Miru.  "Tu dodaties man līdzi? Bet kāpēc?" Rika jautāja.
+
+Mira atbildēja: "Man ir savas atbildes, manas idejas par ābolīšu meklējumiem. Tieši šodien varētu tikt ievākti daudz garšīgu ābolīšu. Pievienosimies un iedvesmojoties."
+
+Un tā sākās negaidīta draudzība. Rika, neizprašanā par Miru, un Mira ar sapratni par Riku, turpināja ceļojumu. Rika vadīja ceļā, meklējot augļu kokus, un Mira uzmanīgi skatījās apkārt, pievēršot uzmanību detaļām un mežā iestrādātajiem maģiskajiem takiem.  Rika atklāja Miru par savdabīgu pētnieci, bet Mira pārliecinājās, ka Rika ir izcils ceļvedis ar drosmi.
+
+Viņi sadūšojušies, kopā pārvarēja upītes, ietīvušies ar meža smaržu un sastapās ar dažādiem dzīvniekiem – laipniem zirņiem, kur nu redz – rūpīgām vāverēm. Tieši tajā pašā laikā viņi ievēroja, ka āboliņš aug daudz vēlāk un augļu koks slēpās meža dziļumos, aizmirsts no pasaules.
+
+Apgūstot visvairāk no vienas izsmeinošā pētījuma dienas, abi apbrīnoja drosmīgos pļavu žirņus.  Viņi apsprieda jautājumu par ābolīšu koksnējo dabu un satikšanās idejām. Un kāpņu priekšgalā bija koks, kas pilnībā apmētāts ar skaistiem āboliņiem. Abiem uzmundrināja un piepildīja ar patiesu interesi un prieku.
+
+Atgriežoties, Rika apstādināja un brīnījās: "Paskaties, Mira, cik fantastiski āboliņi! Bet šīs smaržas!" Rika apstākļiem nebija tik viegli ar visu kopā, bet Mira atcerējās apstādināt savu entuziazmu, apjautājoties katru niansi. "Tie ir lieliski, Rika," Mira bija piekrītoša.
+
+Un tā Rika un Mira, divu pasaules redzējumu un temperamentu iemiesojums, saprata, ka draudzība spēj pārvarēt visus šķēršļus.  Viņi kopīgi baudīja tikko savāktās gaismas meža ābolus, kas radīja patīkamas gaumes pieredzes, apliecinot, ka draudzība patiesi ir stipra.
+
+No tā brīža Mira un Rika nekad vairs neatradās bezgalīgos ceļojumos atsevišķi. Viņi bieži tikās parkā, lai dalītos ar jaunām atklāsmēm, neiztaujām par saviem ceļiem un dalītos izrādīto jaunu un neiedomājami drosmīgo ideju ideālu pieredzi, kurām šajā gadījumā nav skaidras vai definējamas robežas.
+
+Un tā, Rikas un Miras draudzība turpināja ziedēt, bagātinot abi dzīves pieredzi.
+</body>

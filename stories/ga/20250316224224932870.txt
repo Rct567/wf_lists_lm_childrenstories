@@ -1,0 +1,65 @@
+<prompt>
+Please write a simple and easy-to-follow Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Tiontaigh ar an mbealach cuimsitheach is mó'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>ga</lang_id>
+
+```xml
+<title>Tiontaigh ar an mbealach cuimsitheach is mó</title>
+<body>
+Bhí Máire ina cailín beag gleoite a chónaigh i sráidbhaile beag i gContae Chiarraí. Bhí a cuid gruaige chomh dearg leis na bláthanna a d'fhás ar fud na mbailte fearainn, agus bhí a súile chomh gorm leis an spéir ar lá grianmhar. Bhí an-spéis ag Máire sna rudaí ar fad a bhaineann leis an dúlra. Chaith sí a chuid laethanta ag rith faoin tuath, ag bailiú clocha agus féirín, agus ag féachaint ar na héiníní beaga ag eitilt sna crainn.
+
+Lá amháin, agus í ag siúl síos an bóthar chuig an gcladach, chonaic Máire rud a chuir ionadh uirthi. Bhí bóithrín beag aisteach, clúdaithe le caonach glas, ag fágáil an bhóthair mhóir. Bhí comhartha adhmaid ann freisin, agus bhí focail greanta air i sean-Ghaeilge. Ní raibh Máire in ann na focail a léamh, ach bhí a fhios aici go raibh rud éigin draíochta ag fanacht leis an té a ghlac leis an mbóithrín seo.
+
+Chuaigh Máire isteach ar an mbóithrín. Chuaigh sé tríd an bhforaois tiubh, áit a raibh na crainn chomh ard agus chomh scáthach gur bhlocaigh siad an ghrian. Chuala sí fuaim na n-éan, an ghleic, ag canadh go sásta sna brainsí. Chonaic sí fianna ag léim trasna an bhóthair ar shiúl uaithi. Bhí an bhforaois ciúin agus síochánta, agus bhraith Máire go raibh sí ar bhealach ar domhan eile.
+
+Tar éis siúl fada, shroich Máire dún beag, le teach beag adhmaid agus tobar cloiche. Chuaigh sí chuig an doras agus bhuail sí. Go tobann, d'oscail an doras, agus bhí seanbhean ina seasamh ann. Bhí a cuid gruaige chomh bán leis an sneachta, agus bhí a súile chomh geal le réaltaí. Bhí úll dearg mór aici ina lámh.
+
+“Fáilte go dtí mo theach, a leanbh,” a dúirt an tseanbhean. “Is mise Nóra. Is mise an caomhnóir ar an mbealach seo. Agus tá a fhios agam go raibh tú ag leanúint na dtásc. Seo úll duit.” Thairg sí an t-úll do Mháire.
+
+Ghlac Máire leis an úll, agus thosaigh sí ag cur ceisteanna. “Cad é an bealach seo, Nóra?” d’iarr sí.
+
+“Is é seo an bealach cuimsitheach is mó,” a dúirt Nóra. “Is é seo an bealach chuig eolas, chun grá, agus chuig sonas.”
+
+“An bhfuil sé fada?” d’fhiafraigh Máire.
+
+“Tá sé chomh fada agus atá tú sásta a ghlacadh,” a dúirt Nóra. “Caithfidh tú do chroí a leanúint. Caithfidh tú d'intinn a oscailt. Caithfidh tú a bheith cróga. Ansin beidh tú ábalta an bealach seo a aimsiú go foirfe.”
+
+Chroch Máire a smuainte. Thuig sí go raibh an bhean seo ag múineadh léi faoin saol féin, nach bhféadfaí gach rud a thabhairt. Bhí ort oibriú dó. D'ith sí an t-úll, a bhí milis agus súthaí, agus d’fhreagair sí an tseanbhean: “Conas a thosaím?”
+
+“Caithfidh tú do bhealach féin a dhéanamh,” a dúirt Nóra. “Caithfidh tú an bóithrín seo a úsáid chun dul isteach go domhain isteach in do chroí agus smaointe féin. Is féidir leat an t-eolas a aimsiú ar an mbealach seo, ach ní féidir le haon duine eile é a thabhairt duit. Mar sin, déan amach. Ná bíodh eagla ort!”
+
+“Mhothaím faoi láthair go bhfuil go leor fadhbanna ann," a dúirt Máire. “Caithfidh mé roinnt bealaí a ghlacadh. Agus deirim é seo ó mo chroí – tá eagla orm."
+
+“Is gnáthrud é eagla,” a dúirt Nóra go bog. “Caithfidh tú glacadh leis an eagla agus a fheiceáil gur cuid de tú é. Is féidir eagla a bheith ina mhúinteoir, agus cabhrú leat fás níos láidre. Caithfidh tú an eagla a bheith agat agus leanúint ar aghaidh, mar is ar an mbealach sin a thabharfaidh tú fianaise gur fearr leat an rath a fháil. Agus cuimhnigh i gcónaí: níl tú i d’aonar.”
+
+Chlaon Máire. “Go raibh maith agat, Nóra,” a dúirt sí. “Cuimhneoidh mé air sin.”
+
+Shocraigh Máire ar an bealach a leanúint ar aghaidh. D’fhág sí teach Nóra agus lean sí ar aghaidh síos an bóithrín. Thosaigh an bóithrín ag dul suas go dtí sliabh ard. Bhí sé deacair ag Máire siúl. Bhí sí tuirseach, ach níor stop sí. Cuimhnigh sí ar fhocail Nóra. “Caithfidh tú a bheith cróga.”
+
+Le linn an turais, fuair Máire ar an mbóithrín gach cineál rudaí. Fuair sí cloch álainn, le gach dath den tuar ceatha, a d’ardaigh a meon. Chonaic sí bláth beag, ag fás as scoilteadh sa chloch, rud a thug dóchas di. Chuala sí canadh an ghaoth trí na crainn, ag meabhrú di go raibh sí ceangailte le gach rud.
+
+Sroich sí barr an tsléibhe sa deireadh. Anois bhí an radharc álainn os a comhair. D'fhéadfadh sí féachaint ar fud an tír-raoin ar fad, le bailte beaga ag lonrú faoi solas na gréine. Chonaic sí an cladach chomh fada uaidh, le dathanna a bhí chomh bríomhar leis an bhforaois, le spéir dhonn, ghlas, bhuí, dearg agus gorm. Thuig sí, i ndáiríre, go raibh an áilleacht timpeall uirthi i gcónaí.
+
+Agus í ag breathnú síos, chonaic Máire scáthán. Níorbh é scáthán réadach é. Bhí sé déanta as soilsiú. Bhí an scáthán ina léiriú di féin. Chonaic sí an bhean óg, an páiste, ag rith sa ghrian, ag tógáil clocha, ag féachaint ar éin. Chonaic sí an méid atá sa domhan léi – grá, rath, eagla, amhras – agus cuimhnigh sí ar cad a dúirt Nóra.
+
+D'fhás sí níos láidre, agus tháinig soiléireacht ina smaointe. Ní raibh eagla uirthi a thuilleadh. Thuig sí go raibh an bealach chuimsitheach is mó ag baint leis an mbealach a dhéanaimid, agus cad a chuireann muid in ár gcroíthe agus inár n-intinn.
+
+Tar éis tamaill, fuair Máire a bealach ar ais síos an sliabh, an bóithrín ar ais chuig an sráidbhaile, agus ar ais chuig a teach féin. Bhí a fhios aici go mbeadh a saol difriúil feasta. Bhí sé líonta le tuiscint nua. Chonaic sí áilleacht i ngach rud timpeall uirthi. Bhí sí buíoch as an mbealach cuimsitheach is mó.
+
+Bhí Máire ar ais ina baile féin. Chuaigh sí ar ais ag bualadh leis na héiníní, na clocha a bhailiú, agus an saol a chaitheamh go maith. Thosaigh sí ag roinnt a gcuid aithne agus a cuid eolais le daoine eile. Rinne sí iarracht gach duine a mheabhrú faoin áilleacht a bhí ag gach rud ar fud an domhain, ach faoi gach duine acu freisin.
+
+Ansin, lá amháin, nuair a bhí sí ag siúl síos an bóthar arís, chonaic sí leanbh beag, agus fuair sí an bóithrín beag aisteach, clúdaithe le caonach glas. Thuig sí go bhféadfadh sé sin bheith ag fágáil an bóthair mhóir, díreach cosúil leis an méid a bhí le feiceáil aici roimhe seo. Bhí comhartha adhmaid ann freisin, le focail i sean-Ghaeilge air.
+
+D'fhéach sí ar an leanbh agus dúirt sí, “Ar mhaith leat bealach a ghlacadh, ag iarraidh cuimhne a dhéanamh?”
+D’aontaigh an leanbh go h-aoibhinn. Chuaigh Máire leis an leanbh ar feadh an bhealaigh go teach Nóra. Agus bhí a fhios aici, fad is a bheas daoine le goile don bhealach cuimsitheach is mó, go mbeidh siad ann i gcónaí.
+Agus leis sin, d’fhág Máire an teach agus chuaigh sé ar aghaidh leis an saol ar bhealach iomlán nua.
+
+Thit an oíche anois. Ach bhí na réaltaí, mar a deirtear, fós ag lonrú go bríomhar ar spéir dorcha.

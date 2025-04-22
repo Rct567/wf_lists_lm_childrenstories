@@ -1,0 +1,61 @@
+<prompt>
+Please write a silly Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Eläinten talvi: miten eläimet selviävät lumesta ja pakkasesta.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fi</lang_id>
+
+<title>Eläinten talvi: miten eläimet selviävät lumesta ja pakkasesta.</title>
+<body>
+Olipa kerran, aivan Kaukana, Kaukana Pohjoisessa, lumisten kuusimetsien ja jäisten järvien keskellä, kylä nimeltä Pöljäkylä. Pöljäkylässä asui monenlaisia eläimiä, ja joka vuosi, kun talvi saapui, alkoi oikea tohina. Tänä vuonna talvi oli erityisen kylmä, ja lumi peitti maan paksuina kerroksina. Eläimillä oli suuri kysymys: miten ihmeessä he selviäisivät tästä lumimyrskystä ja paukkupakkasesta?
+
+Ensimmäinen, joka alkoi miettiä tätä pulmaa, oli Herra Pupu, pitkäkorvainen ja vikkelä. Herra Pupu rakasti porkkanoita enemmän kuin mitään muuta maailmassa. Ja talvella, porkkanat olivat tiukassa! "Hömm, hömm," puputti Herra Pupu viiksiään, "Porkkanat piilossa, pakkanen paukkuu. Mitäs nyt teemme?"
+
+Pupu päätti lähteä konsultaatioon. Ensimmäinen paikka, johon hän suuntasi, oli Rouva Kettu, punaturkkinen ja viisas. "Rouva Kettu, Rouva Kettu," huusi Pupu metsän läpi, "Miten selvitä talvesta, kun on niin kylmä ja porkkanat kateissa?"
+
+Rouva Kettu ilmestyi nopeasti esiin. "No, Herra Pupu," murahti Rouva Kettu hieman unenpökerryneenä, "Totta kai! Sinä kaivaat lumessa tunneleita ja löydät porkkanoita. Minä nukun luolassani, syön paksun rasvavarastoni ja unelmoin kesästä."
+
+"Tunneleita? Ja porkkanoita?" Pupu ihmetteli. "Mutta miten minä tiedän, missä ne porkkanat ovat?"
+
+"Kyllä sinä sen tiedät," hymyili Kettu salaperäisesti. "Pupun nenällä on ihmeellinen haju!"
+
+Herra Pupu päätti kokeilla. Hän alkoi kaivaa lumihankeen tunnelia, ja yllätys, yllätys! Pieni porkkana vilahti lumesta. Hän söi sen ja alkoi kaivaa lisää. Ja niin Herra Pupu selvisi ensimmäisestä pakkaspäivästä, ahmien porkkanoita ja nauraen talven metkuille.
+
+Seuraavaksi Herra Pupu suuntasi karhun luokse. Herra Karhu, suurikokoinen ja turkiltaan tumma, nukkui yleensä koko talven yli. "Herra Karhu, Herra Karhu!" Pupu huusi. "Oletko jo valmis nukkumaan?"
+
+Karhu venytteli ja murahdi. "Aivan kohta, Herra Pupu. Tänä vuonna ajattelin nukkua erityisen pitkään, koska niin kylmä on. Sinäkin kannattaisi nukkua, niin et joudu palelemaan!"
+
+"Mutta porkkanat..." Pupu muistutti, samalla kun hän itse ahmi juuri löytämäänsä porkkanaa.
+
+Karhu ähisi ja mumisi: "En ole kiinnostunut porkkanoista! Minä aion nukkua niin sikeästi, että unohdan koko talven." Ja niin Herra Karhu kääntyi kyljelleen ja kuorsasi.
+
+Herra Pupu vieraili myös Rouva Oravan luona, joka juoksi ympäriinsä kuin tuuliviiri. "Orava, Orava," Pupu huusi. "Miten selviät talvesta?"
+
+"Pähkinöillä!" Orava vastasi terävästi, kiiruhtaen pesäänsä. "Minulla on varastot täynnä pähkinöitä. Sieltä minä kaivan esiin sen, mitä tarvitsen." Ja sitten Orava hävisi pesäänsä, päästämättä ääntäkään.
+
+Pupu huomasi, että kaikilla eläimillä oli omat konstinsa selviytyä talvesta. Kyyhkyt kerääntyivät ryhmiksi ja puhalsivat toisiaan lämpimäksi, peurat vaihtoivat talviturkkinsa paksumpaan ja pörröisempään, ja metsän jänikset vaihtoivat väriä, suojaväriksi.
+
+Eräänä erityisen kylmänä yönä, kun pakkanen nipisteli jopa puita, Pöljäkylän eläimet kokoontuivat yhteen. Kaikki eläimet, ketut, karhut, oravat, jänikset, puput, siilit ja hirvet. He kerääntyivät suurimman kuusen alle, luoden itselleen eräänlaisen yhteisön. Siellä he jakoivat kokemuksiaan, neuvoja ja joskus jopa ruokaakin.
+
+"Minä tiedän, että on kylmä," sanoi Pupu, "Mutta meidän pitää auttaa toisiamme. Ehkä me voimme kaivaa tunneleita lumihankeen, niin löydämme enemmän porkkanoita kaikille."
+
+Kettu nyökkäsi. "Hyvä idea, Herra Pupu. Minä opetan teille, miten saalistaa pieniä hiiriä, jotta kaikki saavat mahansa täyteen."
+
+Karhu kuunteli korvat höröllä, vaikkei ollutkaan kiinnostunut hiiristä tai porkkanoista. "Minä voin suojata teitä," karhu ähisi. "Jos minä olen hereillä, olen valmis kaikkien puolesta."
+
+Ja niin, yhdessä, eläimet alkoivat selviytyä talvesta. Pupu johdatti joukon kaivamaan tunneleita, ja kaikki löysivät paitsi porkkanoita, myös herkullisia juuria, marjoja ja sieniä. Kettu opetti saalistamaan ja hiirulauma hiipui vähiin. Karhu huolehti siitä, että sudenpennut eivät päässeet yllättämään ketään. Oravat ja jänikset juoksivat puiden välistä, keräen pähkinöitä ja kuivia lehtiä pesiinsä. Kyyhkyt ja peurat lämmittelivät toisiaan pakkasesta piittaamatta.
+
+Jonkun aikaa kuluttua, kun aurinko alkoi näyttäytyä useammin ja päivät pitenivät, Pupu huomasi jotain hauskaa. Kaikki eläimet, jopa karhu, alkoivat olla onnellisia. He olivat selvinneet talvesta yhdessä. He olivat oppineet arvostamaan toisiaan, auttamaan toisiaan, ja olemaan ystäviä, jotka ovat jakamassa samaa tilaa.
+
+Pöljäkylä ei ollut enää pelkästään paikka, jossa eläimet asuivat. Se oli yhteisö. Yhteisö, joka selviytyi yhdessä, jakoi ruoan, naurun ja tarinat toisilleen. Talvi ei ollutkaan enää pelottava, vaan haastava seikkailu.
+
+Eräänä kauniina kevätaamuna, kun lumi alkoi sulaa, Herra Pupu istui niityllä syöden porkkanaa, ja ajatteli miten mukavaa eläimet olivat oppineet olemaan toisilleen. Hänen korvansa heiluivat, kun tuuli toi mukanaan kesän tuoksun. Karhu heräsi talviuniltaan ja venytteli isosti. Ketut nauroivat peleilleen. Oravat kaivoivat pähkinöitä. Ja kaikki olivat onnellisia.
+
+Ja silloin, Pupu ymmärsi jotain hyvin tärkeää. Talvi oli kyllä kova, mutta yhdessä selviytyä on parasta. Lopulta kaikki on hyvä, kun päässä on porkkana, ystäviä, ja lämpöä sydämessä! Loppu.
+</body>

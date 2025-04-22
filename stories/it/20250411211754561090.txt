@@ -1,0 +1,69 @@
+<prompt>
+Please write a uncomplicated Italian children's story that is at least 1000 words long.
+It must be completely written in proper Italian (IT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La Storia di Pinocchio: Un Bambino di Legno con un Sogno.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>it</lang_id>
+
+```xml
+<title>La Storia di Pinocchio: Un Bambino di Legno con un Sogno</title><body>
+
+C'era una volta, in un piccolo villaggio italiano, un vecchio falegname di nome Geppetto. Geppetto era un uomo gentile e solitario, con una barba lunga e bianca e un cuore d'oro. Il suo più grande desiderio era avere un figlio, qualcuno con cui condividere le sue serate e a cui raccontare storie.
+
+Un giorno, Geppetto decise di scolpire un burattino di legno. Lavorò con amore e pazienza, intagliando ogni dettaglio con cura. Quando il burattino fu pronto, era incredibilmente realistico, con un sorriso birichino e occhi scintillanti. Geppetto, guardandolo, sentì una gioia immensa.
+
+"Sarai il mio bambino!" esclamò Geppetto. "Ti chiamerò Pinocchio!"
+
+Quella notte, mentre Geppetto dormiva, una Fata Turchina apparve nella stanza. Vedendo il desiderio sincero di Geppetto, la Fata Turchina decise di esaudire il suo desiderio. Infuse vita nel burattino di legno.
+
+"Pinocchio, sarai un bambino vero!" disse la Fata. "Ma per diventare un bambino vero, dovrai dimostrare di essere coraggioso, sincero e generoso. Ricorda, ogni volta che dirai una bugia, il tuo naso crescerà!"
+
+Al mattino, Geppetto si svegliò e non riusciva a credere ai suoi occhi. Pinocchio, il suo burattino di legno, si muoveva, parlava e rideva! Geppetto era al settimo cielo.
+
+"Pinocchio, figlio mio!" gridò Geppetto, abbracciandolo forte. "Ora dovrai andare a scuola, per imparare tante cose!"
+
+Così, Pinocchio, con una giacca nuova e un abbecedario sotto il braccio, si avviò verso la scuola. Lungo la strada, però, incontrò il Gatto e la Volpe, due personaggi loschi e disonesti.
+
+"Dove vai, bel Pinocchio?" chiese il Gatto, con voce melliflua.
+
+"Vado a scuola," rispose Pinocchio.
+
+"A scuola? Che spreco di tempo!" esclamò la Volpe. "Noi ti porteremo nel Paese dei Balocchi, dove non si studia e ci si diverte sempre!"
+
+Il Gatto e la Volpe convinsero Pinocchio a seguirli. Pinocchio, attratto dalla promessa di divertimento, dimenticò la scuola e il consiglio di Geppetto. Si unì a loro e partirono.
+
+Arrivati al Paese dei Balocchi, Pinocchio passò giorni e giorni a giocare e a divertirsi, senza pensare alle conseguenze. Ma un giorno, le sue orecchie cominciarono a crescere, trasformandosi in orecchie d'asino! E poi, giorno dopo giorno, anche lui iniziò a trasformarsi in un asino.
+
+Disperato, Pinocchio capì di aver sbagliato. Il suo naso, che ormai aveva subito diverse trasformazioni dovute alle sue bugie, sembrava voler esplodere! Il Gatto e la Volpe, vedendolo trasformato in un asino, lo vendettero a un domatore di circo.
+
+Nel circo, Pinocchio asino fu costretto a esibirsi. Durante uno spettacolo, cadde e si ruppe una zampa. Il domatore, furioso, decise di gettarlo in mare.
+
+Nel mare, Pinocchio venne ingoiato da un enorme pescecane. All'interno della pancia del pescecane, però, trovò Geppetto! Geppetto, che era andato alla ricerca di Pinocchio, era stato inghiottito dal pescecane.
+
+Pinocchio e Geppetto vissero nella pancia del pescecane per un po' di tempo, nutrendosi di quello che trovavano. Pinocchio, spinto dalla fame e dalla voglia di libertà, escogitò un piano.
+
+"Papà," disse Pinocchio, "soffieremo con forza per farci cacciare dal pescecane!"
+
+Pinocchio e Geppetto soffiarono con tutta la loro forza. Il pescecane, disturbato, starnutì così forte da farli uscire dalla sua pancia. Nuotarono verso la riva, e Pinocchio aiutò Geppetto a mettersi in salvo.
+
+Dopo questa terribile avventura, Pinocchio e Geppetto tornarono a casa, stanchi, affamati, ma soprattutto felici di essere di nuovo insieme. Pinocchio, pentito di tutto quello che aveva fatto, decise di cambiare vita. Iniziò a lavorare sodo, aiutando Geppetto e andando a scuola regolarmente.
+
+Un giorno, mentre lavorava, Pinocchio si ammalò gravemente. Era molto debole e non riusciva a fare nulla. Geppetto, con il cuore straziato, vegliò su di lui notte e giorno, prendendosi cura di lui con amore.
+
+La Fata Turchina, sapendo del buon comportamento di Pinocchio e del suo sincero pentimento, decise di fare l'ultimo gesto di gentilezza. Apparve nella sua stanza e disse: "Pinocchio, vedo il tuo buon cuore e il tuo impegno. Hai dimostrato di essere coraggioso, sincero e generoso."
+
+E come per magia, Pinocchio si trasformò in un bambino vero!
+
+Pinocchio si svegliò e, guardando il suo corpo, si rese conto di essere fatto di carne e ossa, non più di legno. Geppetto era così felice che piangeva di gioia.
+
+Da quel giorno, Pinocchio visse felice e contento con Geppetto, diventando un bravo figlio. Andava a scuola, aiutava il suo papà e non diceva più bugie. Ricordava sempre le lezioni che aveva imparato: l'importanza dell'onestà, del coraggio e della generosità.
+
+La loro casa era sempre piena di allegria e felicità, e Pinocchio capì che l'amore della famiglia era il tesoro più grande del mondo. E così, il bambino di legno che sognava di diventare vero, alla fine, realizzò il suo sogno, grazie al suo cuore buono e al suo amore per Geppetto. E vissero felici e contenti, per sempre.
+</body>
+```

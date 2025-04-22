@@ -1,0 +1,55 @@
+<prompt>
+Please write a timeless Italian children's story that is at least 1000 words long.
+It must be completely written in proper Italian (IT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'L'Amore della Coccinella per le Rose'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>it</lang_id>
+
+```xml
+<title>L'Amore della Coccinella per le Rose</title>
+<body>
+C'era una volta, in un giardino incantato sulle pendici di un vulcano dormiente, una coccinella chiamata Chiara. Chiara non era una coccinella qualunque; le sue ali avevano un rosso così intenso, vibrante, che sembrava contenessero i colori di un tramonto estivo. E i suoi puntini neri, invece di essere semplici macchie, erano piccoli misteri, come finestre su mondi sconosciuti.
+
+Il giardino era la sua casa, un luogo di meraviglie senza fine. Qui, fiori di ogni colore sbocciavano in un'esplosione di profumi: rose rosse come la sua livrea, rose gialle come il sole che le scaldava, rose bianche come la luna che le illuminava di notte. Chiara amava tutte le rose, ma aveva un amore speciale per quelle rosse, le più coraggiose, le più appariscenti.
+
+Ogni mattina, appena i primi raggi del sole filtravano tra le foglie, Chiara si posava su una delle rose rosse. Si muoveva con delicatezza tra i petali, come una ballerina sulla scena. Infilava le sue zampine sottili tra le spine, cercando con pazienza i piccoli insetti che amavano nutrirsi della loro bellezza. Era una guardiana, una protettrice, e le rose lo sapevano. Sentivano il suo tocco leggero, il suo sguardo attento, e si sentivano al sicuro.
+
+Un giorno, una tempesta terribile si abbatté sul giardino. Il vento ululava furiosamente, strappando via petali e foglie. La pioggia, battente e incessante, inondò il terreno. Le rose, fragili e indifese, tremavano sotto la violenza della natura. Chiara, aggrappata a un robusto stelo, lottava per restare in piedi. Le sue ali, solitamente leggere, erano quasi schiacciate dalla forza del vento.
+
+Le rose, bagnate e spaventate, sussurravano il loro terrore al vento. Una delle rose più grandi, la più bella, la più amata da Chiara, la Rosa Regina, sembrava sul punto di cedere. Le sue spine, un tempo orgogliose, erano piegate. I suoi petali, prima così vellutati, erano laceri.
+
+"Non ce la faccio," sussurrò la Rosa Regina, la sua voce soffiata dal vento. "Sto per spezzarmi."
+
+Chiara, sentendo il grido di disperazione della sua amata rosa, decise di agire. Volò, nonostante la tempesta, verso la Rosa Regina. Con tutte le sue forze, si posò sul fiore, riparando con le sue ali le sue preziose foglie. Non poteva bloccare la pioggia, non poteva fermare il vento, ma poteva offrire il suo corpo, la sua presenza.
+
+"Resisti, Rosa Regina," disse Chiara, la sua voce quasi inudibile tra i ruggiti della tempesta. "Io sono qui, con te. Non ti lascerò."
+
+E così restò, immobile, mentre la tempesta infuriava. Sentiva la pioggia gelida bagnarle le ali, sentiva il vento spingerla, sentiva la fatica invaderla. Ma non si mosse. Non poteva, non voleva abbandonare la sua amata rosa.
+
+La tempesta durò a lungo, sembrava non dover finire mai. Ma, alla fine, con il sopraggiungere della sera, si placò. Il vento si calmò, la pioggia diminuì fino a cessare. Un silenzio surreale calò sul giardino.
+
+Chiara, esausta, ma ancora attaccata alla Rosa Regina, aprì lentamente le ali. Il cielo, finalmente libero dalle nuvole, rivelò una miriade di stelle scintillanti. Il giardino era distrutto. Foglie strappate, fiori spezzati, rami spogli. Sembrava un cimitero di petali.
+
+Ma, miracolosamente, la Rosa Regina era ancora in piedi. Certo, era danneggiata, ferita. Ma era viva. E, guardando la piccola coccinella, si sentì invasa da un profondo sentimento di gratitudine.
+
+Chiara, con le ultime forze che le rimanevano, si arrampicò delicatamente sulla Rosa Regina. Si posizionò sul suo petto, proprio sopra al centro del fiore.
+
+"Sei sopravvissuta," sussurrò Chiara, con la voce tremante.
+
+"Sì," rispose la Rosa Regina, "grazie a te, piccola coccinella. Grazie al tuo amore."
+
+Da quel giorno, il loro legame divenne ancora più forte. Chiara restava sempre al fianco della Rosa Regina, curandola con attenzione, proteggendola dagli insetti dannosi, coccolandola con il suo affetto. Le altre rose, testimoni del loro amore, fiorivano ancora più belle, in segno di rispetto e ammirazione.
+
+Gli anni passarono. Il vulcano continuava a dormire. Il giardino si riprese, lentamente, con pazienza. Nuovi fiori sbocciarono, nuovi profumi si diffusero. Ma l'amore tra Chiara e la Rosa Regina rimase immutato, un faro di luce in un mondo di bellezza.
+
+E quando Chiara, un giorno, sentì la vecchiaia sopraggiungere, si accoccolò per l'ultima volta tra i petali della Rosa Regina. La Rosa Regina, consapevole del momento, chinò la sua testa verso la coccinella, sussurrando: "Il tuo amore vivrà per sempre, piccola Chiara. Il tuo amore vivrà in ogni petalo, in ogni foglia, in ogni spina."
+
+Così fu. E da allora, nel giardino incantato sulle pendici del vulcano dormiente, si racconta la storia d'amore tra la coccinella Chiara e la Rosa Regina. Una storia che insegna il valore dell'amore, della dedizione, del sacrificio, e di come, a volte, il gesto più piccolo può fare la più grande delle differenze. E, quando il vento soffia tra le rose rosse, ancora oggi, si può sentire il sussurro della coccinella, un eterno canto d'amore.
+</body>
+```

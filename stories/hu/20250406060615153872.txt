@@ -1,0 +1,42 @@
+<prompt>
+Please write a relatable Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A sellő, aki a tengerben élt, és csodás énekével vonzotta a tengerészeket olykor.'.
+</prompt>
+
+<model>meta-llama/llama-4-maverick:free</model>
+
+<lang_id>hu</lang_id>
+
+<title>A sellő, aki a tengerben élt, és csodás énekével vonzotta a tengerészeket olykor.</title>
+<body>
+Egyszer volt, hol nem volt, volt egyszer egy nagy, kék tenger, amelynek hullámai örökké mozogtak, és titkokat susogtak egymásnak. Ebben a tengerben élt egy sellő, akinek a hangja olyan édes volt, mint a méz, és olyan csábító, mint a nyári szellő. A neve Sziréna volt, és a tenger mélyén lakott egy barlangban, amelyet korallok és tengeri virágok díszítettek.
+
+Sziréna imádta a zenét, és minden nap órákon keresztül énekelt. Hangja betöltötte a tengert, és vonzotta a tengerészeket, akik hajóikon távolról hallották énekét. A férfiak elbűvölve voltak Sziréna hangjától, és gyakran eltévedtek a tenger végtelen útjain, miközben követték a hangot, amely olyan szépen hívogatta őket.
+
+A tengerészek mesélték egymásnak Sziréna történetét, és sokan kíváncsiak voltak a lányra, aki ilyen csodálatos hanggal rendelkezett. Azt mondták, hogy Sziréna nemcsak szép, de jószívű is, és hogy éneke nemcsak a tengerészeket vonzza, de a halakat is, amelyek körülötte úsztak, mintha táncolnának a dallamra.
+
+Egy napon egy fiatal tengerész, név szerint László, hajója fedélzetén állt, és a végtelen tengert bámulta. László tapasztalt vitorlás volt, de még sosem hallott olyan szépen énekelni, mint Sziréna. Amikor először hallotta a lány hangját, azonnal megigézve érezte magát. Nem tudott szabadulni a hangtól, amely mintha egyenesen a szívéig hatolt volna.
+
+László több napon keresztül követte Sziréna énekét, és ahogy egyre közelebb került a barlanghoz, ahol a lány lakott, annál inkább érezte, hogy valami mágikus történik körülötte. Végül egy este, amikor a nap a tengerbe süllyedt, László megpillantotta Szirénát. A lány a barlang előtt ült, és énekelt. László elbűvölve nézte, ahogy Sziréna hangja táncol a hullámokon.
+
+Sziréna észrevette Lászlót, és elhallgatott. A tengerész közelebb ment a barlanghoz, és bemutatkozott. Sziréna mosolygott, és meghívta Lászlót a barlangba. Bementek, és Sziréna megmutatta a tenger alatti világot. László lenyűgözve nézte a színes halakat és a korallokat, amelyek a barlangot díszítették.
+
+László és Sziréna beszélgettek, és a tengerész megtudta, hogy a lány nem csak énekelni szeret, de szeret segíteni is az embereknek. Sziréna elmondta, hogy gyakran figyelmezteti a tengerészeket a közelgő viharokra, és segít nekik eligazodni a tenger végtelen útjain.
+
+László meghatódott Sziréna jószívűségétől, és érezte, hogy megszerette a lányt. De tudta, hogy ő egy tengerész, és Sziréna egy sellő, akik más-más világban élnek. László elhatározta, hogy visszatér a hajójára, és folytatja útját, de ígéretet tett Szirénának, hogy mindig vigyázni fog rá, és soha nem felejti el az énekét.
+
+Sziréna mosolygott, és megköszönte Lászlónak, hogy meghallgatta az énekét. László elindult vissza a hajójához, de mielőtt elment volna, Sziréna még egyszer énekelni kezdett. Hangja követte Lászlót, ahogy távolodott a barlangtól, és a tengerész érezte, hogy a lány éneke örökre vele marad.
+
+László hajója tovább vitorlázott a tengeren, de a tengerész gyakran visszagondolt Szirénára és az énekére. Tudta, hogy soha nem felejti el a lányt, aki megváltoztatta az életét. És amikor nehéz időket élt át, László behunyta a szemét, és hallotta Sziréna énekét, amely erőt adott neki a folytatáshoz.
+
+Sziréna pedig a barlangjában maradt, és továbbra is énekelt a tengerészeknek, akik hajóikon elhaladtak a barlang mellett. És amikor László hajója újra megjelent a láthatáron, Sziréna énekelni kezdett, és a tengerész mosolygott, tudva, hogy a lány még mindig vigyáz rá.
+
+Így élt Sziréna és László két különböző világban, de az ének, amely összekötötte őket, örökké élt. És a tengerészek, akik hallották Sziréna énekét, mesélték egymásnak a történetét, és átadták gyermekeiknek és unokáiknak is, hogy soha ne felejtsék el a sellőt, aki a tenger mélyén lakott, és csodálatos hangjával vonzotta a tengerészeket.
+
+Ahogy múltak az évek, Sziréna és László története legenda lett, de a lány éneke továbbra is hallatszott a tengeren. És amikor a tengerészek nehéz időket éltek át, Sziréna énekelt nekik, és erőt adott nekik a folytatáshoz. László pedig, amikor csak tehette, visszatért a tengerhez, hogy meghallgassa Sziréna énekét, és újraélje a pillanatokat, amelyeket együtt töltöttek.
+
+És így, Sziréna éneke örökké élt, és a tengerészek szíveiben maradt, mint egy emlék, amely soha nem halványul el. Mert Sziréna nem csak egy sellő volt, hanem egy szimbólum is, amely az emberi szív legmélyebb vágyait és álmait képviselte. És az ének, amely összekötötte őt és Lászlót, örökké zengett a tenger végtelen hullámain.</body>

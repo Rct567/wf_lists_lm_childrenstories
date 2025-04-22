@@ -1,0 +1,53 @@
+<prompt>
+Please write a dialog-based Icelandic children's story that is at least 1000 words long.
+It must be completely written in proper Icelandic (IS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Litlu ljósin í skóginum sem dansaðu með stjörnurnar'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>is</lang_id>
+
+<title>Litlu ljósin í skóginum sem dansaðu með stjörnurnar</title>
+<body>
+<p>Í djúpu, þykkum skógi, þar sem tré stóðu eins og risar með höfuðin upp á himininn, bjuggu litlu ljós. Þau voru ekki ljós frá eldi eða ljósperlum, heldur ljós frá smáum, glitrandi blómunum sem vöxuðu á sérstöku, fallegu trénu. Þessi blóm voru eins og litlir, dansandi stjörnur.</p>
+
+<p>„Ég er svo spennt!“ sagði litla blóm, sem hét Ljóslaug, með bláan blómkerta. „Það virðist eins og stjörnurnar séu að kalla á okkur í nótt.“</p>
+
+<p>„Já, ég er líka spennt,“ sagði blóm með rauðan blómkerta, sem hét Rauðblóm. „En hvernig getum við dansað með þeim? Við erum bara blóm.“</p>
+
+<p>„Það er auðvelt,“ sagði Ljóslaug. „Við erum ljós, og ljós getur flutt sig. Við getum dansað með þeim í huganum.“</p>
+
+<p>„En hvernig? Ég skil ekki,“ sagði Rauðblóm, með augun stórar og undrandi.</p>
+
+<p>„Það er auðvelt,“ sagði Ljóslaug. „Við opnum blómkerta okkar, og þá verða við eins og litlar stjörnur.  Þá getum við dansað með þeim.“</p>
+
+<p>Rauðblóm opnaði blómkerta sinn og varð eins og litla, rauð stjarna. Ljóslaug opnaði blómkerta sinn, og blátt ljós sprakk út frá henni.  Þau fóru að dansa í huganum, með stjörnunum sem dansuðu á himininn yfir þeim. Þau dansuðu með stjörnunum, með tunglinu og með öllum himinhverfum.</p>
+
+<p>„Þetta er svo fallegt,“ sagði Rauðblóm. „Þetta er eins og draumur.“</p>
+
+<p>„Já,“ sagði Ljóslaug. „Við erum líka stjörnur, þó að við séum hér á jörðinni.“</p>
+
+<p>Þeir dansuðu í langan tíma, litlu blómin og stjörnurnar.  Þau dansuðu með stjörnuskífunum, með tunglinu sem dansaði með sínum skugga, og með skýjum sem dansuðu með vindinum.  Þau dansuðu með öllum dýrum skógarins, sem voru að hlusta á dansinn í þeirra hugum.</p>
+
+<p>„Ég er svo þreytt,“ sagði Rauðblóm. „En ég er svo glað.“</p>
+
+<p>„Ég líka,“ sagði Ljóslaug. „En við verðum að koma aftur til skógarins.  Það er svo fallegt hérna.“</p>
+
+<p>Þau lokuðu blómkerfum sínum og voru aftur blóm. En þau höfðu dansað með stjörnunum, og þær minningar fylgdu þeim í gegnum alla nóttina. Þau vissu að það var möguleiki á að dansa með stjörnunum á hverri nótt, eftir því sem þau opnuðu blómkerta sína.</p>
+
+<p>Einn daginn komu stórir, gráir fuglar til skógarins. Þeir söngu söngva sem voru eins og stjörnur.  Þeir söngust um dansinn sem blómin höfðu dansað með stjörnunum.</p>
+
+<p>„Þið dansaðið með stjörnunum?“ spurði einn fuglinn.</p>
+
+<p>„Já,“ sögðu Ljóslaug og Rauðblóm. „Og það var fallegt.“</p>
+
+<p>„Við munum segja öðrum fuglum um þetta,“ sagði annar fuglinn. „Það er mikilvægt að vita að það er möguleiki á að dansa með stjörnunum.“</p>
+
+<p>Og þannig, frá þessum degi, dansuðu litlu ljósin í skóginum með stjörnunum á hverri nótt.  Þau dansuðu með himinhverfum og skýjum og öllum dýrum skógarins.  Þau dansuðu með tunglinu, og með stjörnunum sem voru eins og glitrandi litla blóm.</p>
+
+<p>Og þannig bjuggu þau í skóginum, litlu ljósin, sem dansuðu með stjörnunum, og minntu alla að það er möguleiki á að finna fallegheit í hverri nótt.</p>
+</body>

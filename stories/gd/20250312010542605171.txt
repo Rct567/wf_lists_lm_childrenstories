@@ -1,0 +1,49 @@
+<prompt>
+Please write a educational Scottish Gaelic children's story that is at least 1000 words long.
+It must be completely written in proper Scottish Gaelic (GD).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'An t-Sìthchuid a Chaidh a Chur air falbh'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>gd</lang_id>
+
+<title>An t-Sìthchuid a Chaidh a Chur air falbh</title>
+<body>
+Anns an earrach shonaidh, air taobh a’ bheinn uaine, bha baile beag. Bha craobhan làidir, a’ dol suas gu nèamh, ann am meadhan an dorais.  Bha an t-sìthchuid, a b’ ainmeil le bith-ghlanachd a’ choille, a’ fuireach ann an craobh làidir, sgàthach. Bha na sgiobain eadar a chraobhan an làn a’ bruadar.
+
+Bha an t-sìthchuid a’ dol amach gach latha gu an fhearann, a’ faicinn caitheamhan na h-ainmean beaga, agus a’ coimhead air na glasan a’ fàs.  Bha gaol aice air an gach àiteachd an t-sìth an sin. Bha i fìor, èisdeachail agus làn a’ mhineachd.
+
+Ach, air latha sgith, thug fear aonag, a bha a’ coimhead air an t-sìth a’ fàileadh le mòr-thuigse, gàire air ais don t-sìthchuid.   Bha an duine a’ fuireach ann an talla beag a-muigh, fadalta bhon dòigh mòr a’ choille, aig aon de na suidheachaidhean as cruaidh.  Dh'fhalbh an t-sìth, bha fearga ag innse dha, a bha an duine sin an dòigh an àite shìth a dh’ fhalbh an-aghaidh, an dòigh aige an t-sìth a dhéanamh ann an an ceann uaine.
+
+"Gu dearbh," thuirt an t-sìthchuid,  "Chan eil an aon gàire air bhog an sin ach gàire an-aghaidh."   Bha i fo chrith, nuair a dh'fhuair i a mach, nuair a rinn i an gàire dha-fheachdainn.  "Tha tòrr smaoineachadh ann an cruinneachd gach smaoineachadh." Bha e duilich dha gu arainn a’ duine.  Dh'innis i gu a rainn na tiodhlacan is fhathast an aon gàire a thugadh gu mòr-smaointeachadh.  "Mura bi fios agad mu shìth, thionndaidh a h-uile gach gàire gu arainn sgoinneil."
+
+Rinn an t-sìthchuid còir a ghràidh don duine arainn agus chuir a bualadh gu a dhà lùbh uaine, mar bhuaidh air gàire na gnìomhaicheachd.   Bha gach coise a' ceangail leis na craobhan aige agus a’ cluich leo, sòn. Chuir e an uain an toiseach fìor mhearachd.  Aon chùis sgaoil e, agus chuir i fhad-seachaint an-aghaidh an duine. 
+
+
+Bha tigh fadalach eile annta bhon choille, ach a bha aig an sòn an t-sìth gu tur dòigh a tha obann gu crìoch a bha air an t-sìthchuid gu deiseil fhad an aghaidh an uain seo.  Bha fearg air chruinne an gnìomhachadh air caitheamh an-aghaidh na h-àite uaine gu tur.
+
+Bha na h-udhagan beaga agam an saoghal, ach fhad’ s a thachair e, b’ e gàire agus fearg a bha iad an uaireachd seo.  Agus fhad's a bha an uain anns an t-sìthchuid, bha iad nan deidh an gàire a’ seinn aon eadar, ag aideachadh gàire don t-sìth, agus bha iad a’ gabhail uinneagan nan còmhradh aice gu tur, ag ainmeachadh gàire agus uimead agus mòr-smaointeachd an ceann-smachda.
+
+Dh'iarr an t-sìthchuid, agus, a’ bruadar leis an t-suain, thug i an duine arainn a chaidh a chuir ann an creach ann am meadhan an fhoille. Chuir an duine an t-sìthchuid dha agus thug i gaire air an taobh uaine dha gu arainn iòr agus an ceann-chùis an crodhachd air bhog.  Dh’ fhalbh an sàrachadh, bha fios aig a’ chreiche gu cinnteach gu robh an t-sìth an saoghal a-mach gu cruinne a chaidh a chuir suas ri làimh uine.  Fìor shìth!
+
+
+Chaidh an t-sìthchuid fadalach dha a thàinig gu sgoinneil na h-uaine agus gu lèir gu tàmh.
+
+
+Fhuair an duine arainn aithne gun deach creacha a ghearradh aig na creacha, air an duine a bha deiseil airson gnìomhachadh a ghearradh dha.  Rinn an t-sìthchuid còir leithid uine, a’ taisbeanadh àite.   An rud as iomhaigh ann an saoghal nach d'fhuillean i dìochuimhne.
+
+An uair sin, rinn a h-uile gnìomhachas na coinneach.  Bha àm iomchaidh, airson gnìomhachas na nàire. Chuir na smaoineachadh air na duilgheadasan a’ ruighinn air an uinnean aghaidh le gàire aige, a tha gu dearbh iomlan a’ lorg gach eadar-ghnìomhachd airson fhìreanachadh fhathast.
+
+
+Ach, is ann gu dearbh gu robh am baile sin air an cumadh air a h-àrd-bheinn, bha creideamh gun fhìrinn aghaidh a-mach le gach suidheachadh iomlan. Bha làn leòin ann a chaidh an togail bho bhuaidh eadhon na cuinne.  Chàinig eadar-fhoighidinn don sgòth beag, a bha gu soilleir aon chleachdadh agus creideamh nan saoghal iomlan, ann am mìltean mìltean de lùb nan deach gu ceann iad.
+
+
+
+Bha an baile beag, sìos air an cùrsa uaine.
+
+
+Is ann le fìor shìth, is gu math sònraichte a thòisich an saoghal a-mach gu gach duilleag.

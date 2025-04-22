@@ -1,0 +1,38 @@
+<prompt>
+Please write a light-hearted Welsh children's story that is at least 1000 words long.
+It must be completely written in proper Welsh (CY).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Yr Wythnos Hud gyda'r Tŷ sy'n Symud'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>cy</lang_id>
+
+<title>Yr Wythnos Hud gyda'r Tŷ sy'n Symud</title>
+<body>
+Roedd y tywydd yn wych ar ddiwrnod cyntaf yr wythnos, ac roedd y plant yn debyg iawn o fod yn llawen. Roedd eu hathro, Mrs Evans, wedi cynllunio wythnos hud i'w holl ddysgwyr. Byddent yn mynd ar daith i'r wlad, i weld tŷ sy'n symud. Roedd y plant yn siomedig iawn, gan nad oeddent wedi clywed am dŷ sy'n symud o'r blaen.
+
+Cafodd y plant ei chynnal i'r fws, a dechreuodd y daith. Roedd y fws yn mynd trwy'r wlad, a roedd y plant yn edrych allan o'r ffenestri, i weld y golygfeydd hardd. Roedd y tywydd yn wych, a roedd y haul yn shinin. Roedd y plant yn canu, a roeddent yn chwarae gemau.
+
+Wedi ambell iawr, cyrhaeddodd y fws y lle cyntaf. Roedd y plant yn mynd i weld castell hynafol, a oedd wedi cael ei adeiladu yn y 12fed ganrif. Roedd y castell yn fawr, a roedd ganddo waliau uchel. Roedd y plant yn mynd i mewn, a roeddent yn edrych o gwmpas. Roedd y castell yn llawn o hanes, a roedd y plant yn dysgu am y bobl a oedd wedi byw yno.
+
+Wedi hynny, aeth y plant i'r tŷ sy'n symud. Roedd y tŷ yn edrych fel tŷ arferol, ond roedd yn symud. Roedd y plant yn siomedig iawn, gan nad oeddent wedi disgwyl i weld tŷ sy'n symud. Roedd y tŷ yn mynd o gwmpas, a roedd y plant yn cael eu cario gyda fo. Roeddent yn edrych allan o'r ffenestri, a roeddent yn gweld y golygfeydd hardd.
+
+Roedd y tŷ yn mynd i'r mynyddoedd, a roedd y plant yn edrych i fyny at y mynyddoedd. Roedd y mynyddoedd yn uchel, a roedd y plant yn ofni. Ond roedd y tŷ yn mynd yn ofalus, a roedd y plant yn teimlo'n ddiogel. Roeddent yn edrych o gwmpas, a roeddent yn gweld y golygfeydd hardd.
+
+Wedi hynny, aeth y plant i'r glaswellt, a roeddent yn chwarae gemau. Roedd y glaswellt yn wyrdd, a roedd y plant yn edrych fel milwyr. Roeddent yn chwarae gemau o ryfel, a roeddent yn llawen. Roedd y tywydd yn wych, a roedd y haul yn shinin.
+
+Ar ddiwrnod nesaf, aeth y plant i'r traeth, a roeddent yn chwarae ar y tywod. Roedd y tywod yn wyn, a roedd y plant yn edrych fel môr-ladron. Roeddent yn chwarae gemau o guddio, a roeddent yn llawen. Roedd y tywydd yn wych, a roedd y haul yn shinin.
+
+Ar ddiwrnod olaf yr wythnos, aeth y plant i'r amgueddfa, a roeddent yn edrych o gwmpas. Roedd y amgueddfa yn llawn o hanes, a roedd y plant yn dysgu am y bobl a oedd wedi byw yno. Roeddent yn edrych o gwmpas, a roeddent yn gweld y golygfeydd hardd.
+
+Wedi hynny, aeth y plant i'r fws, a dechreuodd y daith yn ôl. Roedd y plant yn llawen, a roeddent yn siarad am eu anturiaethau. Roeddent yn dweud am y castell, y tŷ sy'n symud, y glaswellt, y traeth, a'r amgueddfa. Roeddent yn llawen, a roeddent yn teimlo'n hapus.
+
+Cyrhaeddodd y fws y ysgol, a daeth y plant allan. Roeddent yn edrych fel plant hapus, a roeddent yn siarad am eu anturiaethau. Roedd Mrs Evans yn aros amdanyn, a roedd hi'n clywed am eu anturiaethau. Roedd hi'n llawen, a roedd hi'n teimlo'n hapus.
+
+Roedd yr wythnos hud gyda'r tŷ sy'n symud wedi dod i ben, ond roedd y plant yn cofio am eu anturiaethau. Roeddent yn siarad am y castell, y tŷ sy'n symud, y glaswellt, y traeth, a'r amgueddfa. Roeddent yn llawen, a roeddent yn teimlo'n hapus. A'u hoff antur oedd y tŷ sy'n symud, a roeddent yn dweud am fo hyd at y diwedd.
+
+A hynny oedd diwedd yr wythnos hud gyda'r tŷ sy'n symud. Roedd y plant yn cofio am eu anturiaethau, a roeddent yn siarad amdanyn hyd at y diwedd. Roedd y tŷ sy'n symud wedi dod i ben, ond roedd y plant yn cofio am fo hyd at y diwedd.</body>

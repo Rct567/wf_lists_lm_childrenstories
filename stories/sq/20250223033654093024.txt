@@ -1,0 +1,43 @@
+<prompt>
+Please write a timeless Albanian children's story that is at least 1000 words long.
+It must be completely written in proper Albanian (SQ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Vajza që Fliste me Kafshët dhe Gjuha e Atave e Fshehtësisë.'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>sq</lang_id>
+
+```html
+<title>Vajza që Fliste me Kafshët dhe Gjuha e Atave e Fshehtësisë.</title>
+<body>
+Njëherë e një kohë, në një fshat të vogël malor në zemër të Shqipërisë, jetonte një vajzë e re e quajtur Arjeta. Arjeta nuk ishte si fëmijët e tjerë. Ajo kishte një sekret të mrekullueshëm: ajo mund të fliste me kafshët. Jo vetëm me ato të shtëpisë, si qentë e macet, por edhe me zogjtë nëpër degët e pemëve, me dhelprat e egra që endeshin nëpër pyje, madje dhe me ujqërit që ulërinin në largësi gjatë netëve me hënë.
+
+Fshati i Arjetës, i quajtur Zjarri i Lartë, ishte i rrethuar nga male të larta, të mbuluara nga pyje të dendura dhe kullota të gjera. Familja e saj kishte një kasolle të vogël, me një kopsht plot me lule të ndryshme dhe një stan me dele e dhi. Arjeta kalonte shumicën e kohës së saj jashtë, duke luajtur me kafshët dhe duke mësuar gjuhën e tyre të fshehtë. Ajo e kuptonte cicërimën e zogjve, lehjen e qenve, mjaullimën e maceve, dhe madje edhe gërhitjen e bletëve në lule.
+
+Një ditë pranvere, ndërsa Arjeta ishte duke u ulur nën një pemë molle të lulëzuar, ajo dëgjoi një zë të vogël e të dobët. "Ndihmë... ndihmë..." thërriste zëri. Arjeta shikoi rreth e rrotull, por nuk pa asgjë. "Kush është atje?" pyeti ajo, duke përdorur gjuhën e kafshëve.
+
+Nga një vrimë e vogël në trungun e pemës, doli një zog i vogël, një harabel. Krahët e tij ishin të thyer dhe ai dukej shumë i frikësuar. "Unë jam Guri," tha harabeli me zërin e tij të vogël. "Kam rënë nga foleja dhe krahët e mi janë thyer. Nuk mund të fluturoj më."
+
+Arjeta, me zemër të madhe e të butë, mori me kujdes Gurin dhe e çoi në shtëpi. Ajo i lidhi krahët e tij me një fashë të butë dhe e ushqeu me grimca të vogla. Për ditë të tëra, Arjeta u kujdes për Gurin, duke i folur dhe duke i dhënë dashuri. Guri, nga ana tjetër, i tregonte Arjetës sekretet e pyllit, duke i treguar për vendet ku lulëzonin lule të rralla dhe për burimet ujore të fshehta.
+
+Një ditë, ndërsa Arjeta ishte duke u kujdesur për Gurin, ajo dëgjoi një zhurmë të çuditshme që vinte nga pylli. Zhurma po afrohej. Ajo dërgoi Guri të shihte se çfarë po ndodhte. Pas pak kohësh, Guri u kthye i tmerruar. "Ka njerëz," cicëroi ai. "Ata po vijnë për të rrëzuar pemët dhe për të shkatërruar pyllin!"
+
+Arjeta u trondit. Pylli ishte zemra e Zjarrit të Lartë, vendi ku të gjithë jetonin në harmoni. Ajo nuk mund ta lejonte që të shkatërrohej. Ajo vendosi të bënte diçka.
+
+Ajo bashkoi të gjitha kafshët e fshatit: qentë, macet, delet, dhitë, edhe bletët. Ajo u shpjegoi atyre rrezikun që po afrohej dhe u kërkoi ndihmë. Kafshët, të bindura nga dashuria e Arjetës dhe e shqetësuara për fatin e pyllit, u zotuan ta ndihmonin.
+
+Qentë do të ruanin hyrjen e fshatit, duke lajmëruar çdo të huaj. Macet do të spiunonin për lëvizjet e njerëzve nëpër pyll. Delja dhe dhitë do të bënin pengesa në rrugë. Bletët, me thumba të tyre, do të mbronin pemët.
+
+Kur njerëzit arritën në kufijtë e pyllit, qentë i paralajmëruan me lehje të fuqishme. Macet spiunuan dhe raportuan për çdo lëvizje. Delja dhe dhitë bllokuan rrugët, duke i detyruar njerëzit të ndalen. Dhe bletët, kur njerëzit u përpoqën të afroheshin në pemët, i sulmuan me thumba.
+
+Njerëzit, të befasuar dhe të frikësuar nga reagimi i kafshëve, u tunduan. Ata nuk kishin pritur një rezistencë të tillë. Pasi diskutuan për ca kohë, ata vendosën se nuk ia vlente të vazhdonin me shkatërrimin e pyllit. Ata u larguan, duke premtuar që nuk do të ktheheshin më.
+
+Arjeta, e lumtur që kishte shpëtuar pyllin, u kthye në shtëpi. Ajo përqafoi Gurin, i cili tanimë ishte shëruar dhe mund të fluturonte përsëri. Ajo kuptoi se ajo nuk ishte vetëm një vajzë që fliste me kafshët, por ishte edhe një mbrojtëse e tyre, një mbrojtëse e natyrës.
+
+Që atëherë, Arjeta u bë një hero i fshatit. Ajo vazhdoi të fliste me kafshët, duke i mësuar shumë për botën dhe duke i mbrojtur nga çdo rrezik. Dhe pylli i Zjarrit të Lartë, falë dashurisë dhe guximit të Arjetës, mbeti i bukur dhe i gjallë për shumë vite me radhë, një dëshmi e fuqisë së miqësisë mes njerëzve dhe kafshëve, dhe e gjuhës së fshehtë të natyrës. Ata të gjithë jetuan të lumtur deri në fund të ditëve të tyre, në zemrën e pyllit të bukur dhe të mbrojtur. Kështu, Arjeta na mësoi se kur ka dashuri dhe vullnet, gjithçka është e mundur, dhe se gjuha e kafshëve është një thesar i vërtetë që duhet vlerësuar dhe ruajtur.
+</body>
+```

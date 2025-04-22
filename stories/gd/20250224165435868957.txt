@@ -1,0 +1,59 @@
+<prompt>
+Please write a silly Scottish Gaelic children's story that is at least 1000 words long.
+It must be completely written in proper Scottish Gaelic (GD).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Sgeulachd Dhùmhail mu Dheidhinn a' Chlach a Bha a' Bruidhinn air a' Mhonadh.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>gd</lang_id>
+
+<title>Sgeulachd Dhùmhail mu Dheidhinn a' Chlach a Bha a' Bruidhinn air a' Mhonadh</title>
+<body>
+Aon latha, air a' mhonadh mhòr is bòidheach, bha craoibhean a' craobhadh, is eòin a' canntadh, is ghaoith a' fhuireach. Ach cha robh aon rud ann an a' ghluasad seo uile ach aon chlach beag, geal, is cridheil. Bha an chlach seo, leithid a' chlach a bha air a' mhòr-mhonadh, a' bruidhinn.
+
+Bha am beul aice, is bha guth aice.  Cha robh e na bheul mòr, ach bha e gu leòr airson bruidhinn agus dha-rìribh a bha i a' bruidhinn.  Bha i a' bruidhinn ri gach uile nì a bha a' dol timcheall air; na craobhan, na ghaoith, na h-eòin. Agus uaireannan, bha i a' bruidhinn ri coinneachain. Bha i a' bruidhinn air na bha i a' faicinn agus a' faireachdainn, a bha an-còmhnaidh ga dhèanamh a' cruinneachadh de thachartasan.
+
+Bha fear-teine ann an a' mhonadh, a bha ainmeachadh Iain, a bha a' coiseachd timcheall air na craobhan.  A' coimhead mun cuairt, chunnaic e an chlach a bha a' bruidhinn. D'fhalbh e a steach.  Chuir e ceist air an chlach.
+
+"Cò thu?"
+
+"Is mise, an chlach. Tha mi a' bruidhinn," arsa an chlach.
+
+"Bruidhinn air na tha thu a' faicinn," arsa Iain.
+
+"Tha mi a' faicinn craobhan a' fàs," a' bruidhinn an chlach. "Tha mi a' faicinn eòin a' canntadh. Tha mi a' faireachdainn ghaoith a' siubhal air mo chùl.  Tha mi a' faireachdainn a' chridheachd a tha a' dol troimhe. Tha mi a' faireachdainn an uile choireachd a tha an seo."
+
+"Tha sin uamhasach," arsa Iain. "Ach an urrainn dhut bruidhinn air rudeigin eile?"
+
+"Tha," arsa an chlach. "Tha mi a' faireachdainn do shùilean agad a' coimhead orm."
+
+"Tha sin ceart," arsa Iain.  "Tha mi a' coimhead ort, a' chlach."
+
+"Tha mi a' faicinn do chridhe a tha a' coimhead orm cuideachd," arsa an chlach.  "Tha mi a' faicinn an deòir a tha a' dol a-steach do do shùilean mar a tha thu a' coimhead orm."
+
+Cha robh Iain a' faighinn guth mar a bha a' chlach a' bruidhinn. Bha e a' faireachdainn nach robh i airson a bhith a' bruidhinn air rud sam bith eile. Bha e a' faireachdainn a bha i a' bruidhinn mu chàch.
+
+Aon latha, bha duine eile a' dol troimh a' mhonadh. Bha an duine seo ainmeachadh Màiri.  Chuir i ceist air an chlach.
+
+"Cò thu?"
+
+"Is mise an chlach. Tha mi a' bruidhinn," arsa an chlach.
+
+"Bruidhinn air na tha thu a' faireachdainn," arsa Màiri.
+
+"Tha mi a' faireachdainn an uile anam a tha a' dol troimhe," arsa an chlach. "Tha mi a' faireachdainn an t-sùileachd a tha a' dol troimhe."
+
+"Mar a bha thu a' bruidhinn ri Iain," arsa Màiri.
+
+"Tha," arsa an chlach.  "Tha mi a' faireachdainn d'anam a' coimhead orm cuideachd."
+
+Bha Màiri ag èisteachd leis na bha an chlach a' bruidhinn. Bha i ag aideachadh ri gach facal a bha i a' bruidhinn. Agus cha robh i ag iarraidh a bhith a' bruidhinn ris an chlach a-rithist.
+
+Bha an chlach a' bruidhinn ri gach duine a bha a' dol troimh a' mhonadh.  Bha i a' bruidhinn mu dheidhinn an uile choireachd agus an uile chridheachd. Agus gu dearbh, rinn i na thachair anns a' mhonadh seo. Agus tha i a' fuireach anns a' mhonadh gu h-aon.  Tha i a' faireachdainn an uile choireachd, agus a' faireachdainn gach cuid a tha a' dol troimhe.
+
+Bha an chlach seo a' bruidhinn air a' mhonadh, agus bha i ag aideachadh ri gach duine a dh'fhalbh troimhe.  Ach b'e an chlach seo uile a bha i.
+</body>

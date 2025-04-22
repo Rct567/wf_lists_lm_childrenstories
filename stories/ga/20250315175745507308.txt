@@ -1,0 +1,70 @@
+<prompt>
+Please write a fun and entertaining Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Léirmheas Lochlann na gCruinneacha Craolta'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>ga</lang_id>
+
+```xml
+<title>Léirmheas Lochlann na gCruinneacha Craolta</title>
+<body>
+Bhíodh Aoife ina cailín beag lán le spraoi a bhí ina cónaí i dteachín beag gleoite, péinteáilte glas, ar imeall Lochlán na gCruinneacha Craolta. Ní raibh sé chomh lochlannach agus a fuaimeodh sé, áfach. Loch beag beannaithe ab ea é, lán le héisc órga gleoite agus fásra glasa. Thaitin an dúlra go mór le Aoife, agus chaith sí a cuid ama ar fad ag imirt leis na hainmhithe agus ag iniúchadh an tírdhreacha mórthimpeall.
+
+Lá amháin, agus í ag spaisteoireacht leis an loch, chonaic sí rud éigin nach bhfaca sí roimhe riamh. Ar bharr cloiche mór, cosúil le ceann ollmhór cáise, bhí píosa páipéir ann. Chuir sé an-suim inti, agus rith sí ar a laghad chuige. D'ardaigh sí an páipéar agus d'oscail sí go cúramach é. Ba chuma le litreacha beaga, lúbacha a scríobhadh i bhFoirceadal na hÉireann a bhí ann, le peann luaidhe caite le snáth bán. Ní raibh sé i láthair i gceart agus é curtha síos ag lámh gan cleachtadh.
+
+"Ó, céard atá ann seo?" a dúirt Aoife léi féin. D'fhéach sí go dlúth ar an bpríosúinín d'fhocail. D'fhoghlaim sí na litreacha go léir le mionfheiceáil a rinne sí sa mbliain seo, agus léigh sí amach go han-chúramach é:
+
+"Do gach duine ag Lochlán na gCruinneacha Craolta,
+Táimid ag tabhairt cuairte. Tá rúndiamhair ag an loch a bhaineann le dath an tráthnóna, agus ní mór dúinn eolas a fháil air. Beidh méadú ar spraoi agus ar phlé ar fud an tsaoil. Eiseanna go léir ó na daoine sa Bhinn-Chnoc."
+
+Chuir sé seo an-mhór iontas ar Aoife. Céard a d'fheicfeadh sí? Cén bhinn-chnoc? Bhí a fhios aici nach raibh aon chnocanna an-ard timpeall an locháin, ach cheap sí go bhféadfadh an litir a bheith ag tabhairt faoi chnoc i bhfad i gcéin. Bhí sé sin ar fad chomh corraitheach! D'fhill sí abhaile, sáite inti ag smaoineamh ar an rúndiamhair agus cé hiad na daoine a scríobh an litir.
+
+Bhí Máire, an cat beag, ag súil léi ar an mbealach. Bhí Máire ina cara mór ag Aoife, agus chuaigh siad ar roinnt eachtraí le chéile. Ní raibh Aoife in ann a bheith ina tost, agus d'inis sí don chait go léir faoin litir, faoin rúndiamhair, agus faoin mbinn-chnoc.
+
+"Meow?" arsa Máire, ag caint i gcatúr ar an dtuairim a bheith aici. Bhí a fhios aici go raibh spraoi le teacht.
+
+"Is dóigh liom go mbeimid ar eachtra!" arsa Aoife, le gáire.
+
+Chuir siad rudaí réidh láithreach le haghaidh an lae amárach. B’éigean do Aoife lóin bheaga, tuáillí, agus cótaí báistí a chur le chéile, díreach ar eagla na heagla. Bhí a fhios aici gur chóir di a bheith ullamh d’aon rud! Dúirt sí le Máire, "Cuirfimid in iúl do gach ainmhí sa loch gur cheart dóibh a bheith ag fanacht amárach mar is dóigh liom go bhfaighidh mé cuid mhaith de shásamh ón mbealach isteach sa réimse."
+
+Agus mar sin, is amhlaidh a chuaigh sé. An lá dár gcionn, dhúisigh Aoife go luath, lán le lúcháir. Chaith sí bróga taistil aici agus thosaigh sí ag siúl. Bhí Máire ag rith leo. Bhí sé ag tógáil amach faoin loch nuair a bhuail sí le Seán, an luch beag beannaithe.
+
+"Á, Dia duit, Seán!" a dúirt Aoife. "An bhfuil tú ar an bhfios?"
+
+"Fios, cad is gá dom a bheith i bhfios?" d'fhreagair Seán go deifreach.
+
+"Beidh muid ag dul ar eachtra! Fuair mé litir, agus baineann sí le rúndiamhair!" a dúirt Aoife, lán le spleodar.
+
+"Rúndiamhair!" a dúirt Seán, agus na súile aige ag splancadh. "An féidir liom dul leat?"
+
+"Ar ndóigh!" a dúirt Aoife. "An n-imigh tusa i mo chuid, Máire? Ach is féidir leat go léir bheith ar mire!"
+
+Agus mar sin, thosaigh an bheirt ar an gcosán, le Máire ag déanamh comharthaí gach am. Agus iad ag dul ó loch go loch, chas siad le Cairtín, an sionnach meabhrach, agus Eibhlín, an dobharchú. Rinneadh miongháire agus iad uile. Thóg sé fada iad ag taisteal, ach ba bhreá leo é.
+
+Bhris an lá, ag tosú le scéalaíocht. Tá go leor rudaí fíorshumhacha sa lá. Agus bhí na hainmhithe seo go léir le chéile, chonaic Aoife an tír-raon a mbeadh siad ar aghaidh. D’oscail sí amach síochánta do thaobh leith le binn-chnoc mór amháin. Thosaigh siad ag druidim isteach go dlúth, aird acu ar an mbinn. Chonaic Aoife pictiúr den scéalaíocht iontach agus chinn sé. Shroich siad barr an chnoic, agus ní raibh siad ag súil leis an méid a bhfaca siad.
+
+Agus go tobann, tháinig an spiorad ar fad níos airde: Chonaic siad cathair rúnda, clúdaigh sé le gach dath agus d’áitíonn a dhoirteadh. Ba í seo Binn-Chnoc, gan dabht! Bhí tithe beaga ildaite ann, le bratacha ar crochadh ag séideadh sa ghaoth, agus na céadta de na hainmhithe ar fad, a bhuail siad riamh. Bhí lúcháir ar a mbeatha. D'éalaigh fear caointe ó na gach cuid díobh!
+
+D'eagraigh na hainmhithe go léir ar mhaithe lena mbeatha féin a bheith sa lá. Chonaic Aoife, Máire, Seán, Cairtín agus Eibhlín go díreach ar cheannaireacht de bhun a gcinn. Bhí siad ag éisteacht le ceol suthain agus d’imigh siad go fada. Chuir sí na céadta ceist ar na cinnirí faoin litir agus faoin dath rúnda. Mhínigh siad go raibh an dath ag cailliúint a datha féin gach oíche, agus dá mbainfeadh an solas é, bhí tuirse ar fud an domhain. Ach ní raibh siad in ann é a shocrú.
+
+"B'fhéidir," a dúirt Cairtín go hionraic, "gur gá dúinn rud éigin nua a chur leis, is cosúil."
+
+D'fhan an ghrian ag dul síos, agus mar thoradh air sin rinne sé dath. Nuair a fuair Aoife amach faoin mbeatha nua bhí an leagan fíor agus spraoi seo ag síneadh ar ais chuig an binn-chnoc. Shíl sí go mba cheart dóibh breathnú. "An dtuigeann duine ar bith go gcaillfidh siad é an lá eile?" a d'fhiafraigh sí.
+
+Bhreathnaigh siad ar fad le chéile. D’fhéach siad ar an spéir ag athrú datha, agus thosaigh dathanna nua ag teacht chun cinn. Bhí dathanna dearga, oráisteacha, bána agus buí ann. Is cinnte go mbeidh meas agus meas acu go léir ar an áilleacht a chuir Aoife in iúl agus gur leosan an ceol! Bhí Aoife lán le háthas.
+
+Go tobann, d'ardaigh scairt láidir, baineann éigeas, os ard go fuaime. D’fhág siad gach eilimint, ó sheachtain na coinní ó mhadra agus ó mháthair. Ba iad na deich dathanna go léir, agus tháinig dathanna nua chun cinn. D'imigh siad síos go dtí na deora, ach stop na haitheanta agus iad uile le léamh amach go fírinneach agus chun athchóiriú. Bhí siad an-áthasach agus bhí lúcháir ag Aoife agus Máire, Seán, Cairtín, agus Eibhlín, nuair a thuig siad go raibh deis acu an loch agus na rudaí seo a thaispeáint don domhan.
+
+Thosaigh Aoife agus a cairde ar scéim a chur i bhfeidhm chun na dathanna a athnuachan go léir ar fud an domhain. D'úsáid siad a gcumas speisialta go léir agus chomhoibrigh siad chun go mbeadh an loch agus an bin-chnoc go hiontach i ndiaidh a gcuid is fearr. Mar sin thosaigh an t-eachtra i gcéim nua.
+
+Mhéadaigh an spraoi arís agus arís eile, d'fhan gach dath ina bheatha, bhí an domhan ar fad sásta agus álainn. Bhí deireadh sona ag Aoife agus a cairde go léir. Thosaigh siad ag déanamh deochanna beaga ceoil mar gheall ar rudaí an lae. D’fhág Aoife leis an gcuid seo sa loch arís. Thug Aoife an scéala do gach duine ar gach loch go bhfanfadh dathanna ag spraoi an tsaoil, ag dul ar aghaidh chun cluichí agus damhsa. D’fhill siad abhaile, a gcroíthe lán le lúcháir, ar thaitin a n-eachtra le cairde, chun bualadh leis an tráthnóna.
+
+Is fada ó shin é, ach sa lá atá inniu ann, ag Lochlán na gCruinneacha Craolta, feictear fós an scáthán den tráthnóna beoga sin. Agus ar laethanta áirithe, nuair a bhíonn an ghrian ag dul faoi, cloistear focail Aoife ag bualadh tríd an aer, ag cur i gcuimhne do gach duine cé chomh tábhachtach is atá dathanna, ceol, agus cairdeas sa saol seo.
+</body>
+```

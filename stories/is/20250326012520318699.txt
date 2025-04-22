@@ -1,0 +1,48 @@
+<prompt>
+Please write a educational Icelandic children's story that is at least 1000 words long.
+It must be completely written in proper Icelandic (IS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Einstök útsýn og einlæg eyja á önnur ölvunarævi'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>is</lang_id>
+
+```xml
+<title>Einstök útsýn og einlæg eyja á önnur ölvunarævi</title>
+<body>
+Einu sinni var lítil stúlka að nafni Ása. Ása bjó á stóru bóndabæ í sveitinni, rétt fyrir utan litla þorpið Vík í Mýrdal. Hún var fjögurra ára gömul, með rauðhærða fléttu og augu á litinn eins og heiðblátt vatn. Ása elskaði sveitina sína. Hún elskaði að hlaupa um engin, leika sér við lambaféð, og fylgjast með fuglunum í loftinu.
+
+Einn fallegur sumardagur, þegar sólin skein skært á himni og vindurinn lék um grasið, ákvað Ása að fara í rannsóknarleiðangur. Hún pakkaði í litla rauða bakpokann sinn smábrauði, epli og vatnsbrúsa. Hún hafði fengið nýja kortið af landinu frá afa sínum, stórum og traustum manni sem var sjómaður. Kortið var fullt af litríkum teikningum af fjöllum, vötnum og ásum. Ása kynnti sér kortið vandlega og valdi sér áfangastað: Dyrhólaey.
+
+"Ég ætla að fara í Dyrhólaey!" sagði Ása við mömmu sína. "Ég vil sjá fuglana."
+
+Mamma Ásu kinkaði kolli og benti henni á leiðina. "Þú þarft að labba út fyrir bæinn, á leiðinni til austurs. Þegar þú kemur að ströndinni skaltu fylgja henni til vesturs, og þá sérðu eyjuna. Gættu þín á klettunum og passaðu þig á veðrinu."
+
+Ása kveðir mömmu sína og hóf gönguna. Hún fylgdi leiðinni sem mamma hennar hafði bent henni á. Fyrst labbaði hún um grasið, síðan um malarveg. Hún sá kindur beitast, hesta hlaupa um og geitur klatra upp klettana. Vindurinn blés á kinnarnar hennar, en hún var óhrædd. Hún söng litla söng um sauðkind og blóm, hamingjusamur í gönguferðinni sinni.
+
+Þegar Ása kom að ströndinni, stóð hún á sandinum og horfði yfir hafið. Þar sá hún stóra eyju, eins og risastórt kastala úr klettum. Hún þekkti eyjuna strax af kortinu - Dyrhólaey!
+
+Hún fylgdi ströndinni vestur eins og mamma hennar hafði sagt henni. Á leiðinni sá hún fjörur af sjávargrösum, steina í öllum mögulegum stærðum og gerðum, og marga litla krabba. Hún þurfti að klifra yfir steina og fara varlega, en hún varð aldrei þreytt.
+
+Að lokum, eftir langa og skemmtilega göngu, kom Ása að stórri klettamyndun, sem hún skildi vera byrjun Dyrhólaeyjar. Klettar buðu henni velkomin með gljúfrum, giljum og ótal af holum. Hún sá þar páfagauka fljúga um, háværir og litríkir. Hún tók andköf af undrun yfir fjölbreytileika fuglanna.
+
+Ása fann lítinn og þægilegan stað á klettinum og settist niður til að njóta útsýnisins. Hún tók upp smábrauðið sitt og át það hægt. Síðan tók hún upp eplið sitt og beit í það. Sætu safinn rann niður kinnarnar á henni. Hún horfði á hafið, og sá stór skip sigla fjær. Hún fylgdist með fuglunum fljúga um, hlaupa áfram, og fleygja sér í flugið.
+
+Í bakpokanum sínum fann Ása litla blokk og blýant. Hún byrjaði að teikna það sem hún sá. Hún teiknaði páfagauka, kletta, hafið, og himininn. Hún málaði stóra sól í horninu. Hún fann fyrir einlægni og hamingju í hjarta sínu.
+
+Eftir langa stund á Dyrhólaeyju, átti Ása að fara heim. Hún vissi að henni yrði saknað heima hjá sér. Hún sagði sig að leiðarenda í kortið sitt og byrjaði gönguna aftur. Leiðin heim leið sama leið og hún hafði komið. Hún sá landslag með nýjum augum, rík af reynslu.
+
+Þegar Ása kom heim, var mamma hennar að bíða eftir henni.
+
+"Varstu dugleg?" spurði mamma hennar.
+
+Ása hló og sýndi mömmu sinni teikninguna. Mamma Ásu strauk henni um höfuðið og sagði: "Þú ert hetja!"
+
+Ása brosti og vissi að hún hafði átt frábæran dag. Hún hafði upplifað einstaka útsýn og dýrkeypt innlit á Dyrhólaey. Og hún vissi, að þó að hún væri lítil, þá væri hún stór í hjarta sér, og alltaf tilbúin í nýtt ævintýri á sínum ágætum dögum. Hún sá ekki eftir einni sekúndu af deginum, því allar þær tilfinningar og hamingja sem hún upplifði geymdist í huga hennar eins og silfur sem enginn gat stolið. Þess vegna hélt hún áfram að skoða umhverfið sitt og lærði ýmislegt um heiminn. Hún vissi að eina leiðin til að lifa væri að leika sér, kanna, og þroskast í gegnum ólík reynslu.
+Og hún hélt áfram að teikna og deila dásamlegri sögu sinni við fólk og hlæja við hvert eina skref.
+</body>
+```

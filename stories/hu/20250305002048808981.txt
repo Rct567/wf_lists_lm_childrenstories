@@ -1,0 +1,45 @@
+<prompt>
+Please write a silly Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A Bátor Nyuszi és a Mély Erdő Rejtélyei'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>A Bátor Nyuszi és a Mély Erdő Rejtélyei</title>
+<body>
+Kicsi, fehér bundájú nyuszi, Pipi, éppen egy finom sárgarépa leszedésével volt elfoglalva a Mély Erdőben. A napsütötte réten, zöldellő fűszálak között keresgélt, amikor egy különös, halk nyikorgás érte el füleit.  A hang a  mély erdőt borító sűrű, örökzöld fenyők között, a csöndes patakparton szűrte át magát.  Pipi kíváncsi lett, hiszen ilyen furcsa zajt még soha nem hallott.
+
+Szélesre tátotta apró füleit és belemászott a  sűrűségbe, óvatosan, hogy ne rúgjon fel egyetlen, apró virágot sem.  A hang egyre közelebb és közelebb szólt, mintha egy kis, fából faragott kenguru ugrabugrált volna a földön.  Végül Pipi eljutott a patak partjára. Ott, egy kidőlt fa tövében, egy apró, aranyos kenguru üldögélt, és a  földön billegő virágcsokrot rángatta.
+
+"Mit keresel itt, kis kenguru?" kérdezte Pipi. A kenguru felnézett és csodálkozva pislogott rá. Nagyon furcsa volt, hogy egy nyuszi így köszön hozzá.  A kenguru neve Cukor volt, és  beszélt, bár a hangja néha inkább hasonlított egy fütyülő hangszeré.
+
+"Segítség!" nyögte Cukor. "Ez a furcsa virág csokor…  elfogja a  napfényt! Elvesztem az erejét és nem tudok tovább ugrani. Nagyon gyorsan kell találnom a Napfény-Virágokat, amelyek meggyógyítanak."
+
+Pipi nagyon sajnálta Cukort, aki nyilvánvalóan szomorú volt.  Őszintén hiszek a barátságban gondolta, ezért nagyon jólesett neki hogy segítsen.  Pipi ismert pár varázslós helyet a Mély Erdőben. Elhatározta, hogy segít.
+
+"Ne aggódj, Cukor!" mondta határozottan Pipi. "Én megtalálom neked a Napfény-Virágokat! Tudom, hol rejtőznek!"  Elindultak együtt. A kenguru ugrált, Pipi meg vezetve ügyelt, hogy  ne lépjen semmire amit nem láthat. Pipi végig a patak partján haladt és végül egy kis kanyargó, sűrű bokorhoz értek, ahol különös fényességben gyűlt meg a Nap.
+
+A Napfény-Virágok ott sziporkáztak, arany és rózsaszín színűek, mint egy apró kis csillogó palota. Pipi és Cukor megörültek!
+
+Csakhogy a virágok köré, sárkánypókok szövődtek és a szövedékek rengeteg csapdába vonultak. Pipi és Cukor jól láttak, bár néha kicsit távolodtak.
+
+"Nem tudunk átjutni!" nyögte Cukor.
+
+"Ne aggódj,  van megoldás!" mondta Pipi, és kigondolta. A napfény-virágokat nézte. Avirágokban megérintették a szivárvány minden színét.
+
+Pipi nagyon ügyesen  a réten gyűjtötte  egyesült varázslatokat,  melyek elütöttek minden pókhálótól. Cukor nagy élvezettel és nagyon gyorsan, ugrált  mindegyikről. Azonban, az ugrándozásban a szivárványos ködfátylatól meg zavarodott  a látása. De Pipi jó szótárban megtanulta ezt,  megpróbálta  neki elmagyarázni, miközben szorgalmasan  gyújtotta varázslatokat és cseppeket. A végére, Cukor tisztábban látott!
+
+Pipi a kis csokron elhelyezett virágokkal gyógyító karikát varázsolt, melyek rásimultak Cukorra, felváltva kék, sárga, zöld, piros és lila színárnyalatokkal.
+
+Az égbolton szivárvány tűnt fel.  Pipi a fények játékát nézte, mely megnyugtatott minden kedélyt. Cukor visszanyerte a gyorsaságát, a láthatatlan lábai már érezték az élet élvezetét.
+
+A kidőlt fatörzs mellett a két kis barát összeült és örültek az újdonságszerű napnak. Sokfelé ugrabugrált a réten a kenguru. Elkápráztató és csodálatos látványt nyújtott. Pihenés nélkül!  Nagy nap volt a két baráti szív számára.
+
+Pipi visszatért a megszokott nyuszi élethez,  tudva hogy bátor szívvel és baráti tettekkel sok rejtőzködő dolog megfejthető a Mély Erdőben. Még gyakrabban járt oda a mély erdőkbe, mindig tudott új barátját szerezni a világban, akikkal örömteli és vidám utazásaiban örökre összekapcsolódhattak.
+</body>

@@ -1,0 +1,45 @@
+<prompt>
+Please write a uncomplicated Catalan children's story that is at least 1000 words long.
+It must be completely written in proper Catalan (CA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La fada que va perdre la seva ombra al mar'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>ca</lang_id>
+
+<title>La fada que va perdre la seva ombra al mar</title>
+<body>La fada que va perdre la seva ombra al mar era una història que es contava als infants de les petites poblacions costaneres de Catalunya. La gent deia que, en un racó remot de la costa, hi havia una fada que vivia en una cova amagada darrere d'una cascada de plata. Aquesta fada era coneguda per la seva bellesa i la seva capacitat per comunicar-se amb els animals del mar.
+
+La fada es deia Lluna i era molt estimada pels peixos i les aus marines que vivien a la costa. Cada dia, Lluna sortia de la seva cova i anava a caminar per la platja, on jugava amb els infants que hi anaven a passar el dia. La seva ombra, que era molt fosca i llarga, l'acompanyava sempre i semblava tenir vida pròpia.
+
+Un dia, mentre Lluna estava jugant amb els infants, una forta tempesta es va aixecar al mar. El vent va començar a bufar amb molta força i les onades van començar a crescer. Lluna, que no estava acostumada a les tempestes, es va espantar i va córrer cap a la seva cova per amagar-se. Però, en la confusió, la seva ombra es va separar d'ella i va ser emportada pel vent i les onades.
+
+Lluna va buscar la seva ombra per tot arreu, però no la va poder trobar. Sense la seva ombra, es va sentir molt sola i trista. Els infants que havien jugat amb ella aquell dia van intentar consolar-la, però res no podia fer que Lluna es sentís millor.
+
+Els dies seguits, Lluna va sortir a buscar la seva ombra, però no la va poder trobar. Va preguntar als peixos i les aus marines si havien vist la seva ombra, però cap d'ells no l'havia vista. Lluna es va sentir cada vegada més trista i sola, i va començar a perdre l'esperança de tornar a veure la seva ombra.
+
+Un dia, mentre Lluna estava asseguda a la platja, plorant, un vell peix anomenat Oriol es va acostar a ella. Oriol havia viscut al mar durant molts anys i coneixia tots els seus secrets. Li va dir a Lluna que sabia on era la seva ombra i que l'hi portaria si ella volia.
+
+Lluna es va alegrar molt en sentir això i va acceptar l'oferta d'Oriol. El vell peix la va portar fins al fons del mar, on hi havia un món màgic ple de criatures estranyes i meravelloses. Allà, Lluna va veure la seva ombra, que estava presonera d'un grup de petites criatures que es deien els "ombres viatgeres".
+
+Els ombres viatgeres eren unes criatures molt estranyes que vivien al fons del mar i es dedicaven a capturar les ombres de les persones que vivien a la costa. Les ombres viatgeres creien que les ombres eren les claus per conèixer els secrets del cor humà i les volien totes per a elles mateixes.
+
+Lluna va intentar convèncer els ombres viatgeres perquè li tornessin la seva ombra, però ells no volien escoltar-la. Van dir que només li tornarien la seva ombra si ella podia respondre a tres preguntes que ells li farien. Si responia correctament, la seva ombra seria seva un altre cop, però si fallava, l'ombra seria seva per sempre.
+
+Lluna va acceptar el repte i els ombres viatgeres li van fer la primera pregunta: "Què és el que els humans més estimen del món?" Lluna va pensar molt abans de respondre i finalment va dir: "El que els humans més estimen del món és l'amor". Els ombres viatgeres van quedar molt sorpresos per la resposta de Lluna, perquè no s'esperaven que una fada pogués saber tant sobre els humans.
+
+La segona pregunta va ser: "Què és el que els humans més temen del món?" Lluna va pensar un altre cop abans de respondre i va dir: "El que els humans més temen del món és la solitud". Els ombres viatgeres van quedar encara més sorpresos per la resposta de Lluna, perquè no entenien com una fada podia saber tant sobre les emocions humanes.
+
+La tercera pregunta va ser: "Què és el que els humans més desitgen del món?" Lluna va pensar molt abans de respondre i finalment va dir: "El que els humans més desitgen del món és la felicitat". Els ombres viatgeres van quedar molt impressionats per la resposta de Lluna, perquè no s'esperaven que una fada pogués saber tant sobre els desitjos humans.
+
+Els ombres viatgeres van quedar tan impressionats per les respostes de Lluna que van decidir tornar-li la seva ombra. Lluna es va alegrar molt en recuperar la seva ombra i va tornar a la seva cova, on va ser rebuda com una heroïna pels peixos i les aus marines.
+
+Des d'aquell dia, Lluna va ser coneguda com la fada més sàvia de la costa i els humans van començar a anar a visitar-la per demanar-li consell. Lluna sempre estava disposada a ajudar-los i els va ensenyar moltes coses sobre l'amor, la solitud i la felicitat. I la seva ombra, que ja no es separava d'ella, va continuar sent el seu millor amic i company.
+
+Anys més tard, quan Lluna ja era una fada vella, va decidir escriure un llibre sobre les seves aventures i les coses que havia après sobre els humans. El llibre es va titular "La fada que va perdre la seva ombra al mar" i va ser un èxit entre els humans, que el van llegir i rellegir moltes vegades.
+
+I així, la història de Lluna va viure per sempre, com a recordatori de la importància de l'amor, la solitud i la felicitat en la vida dels humans. I la fada Lluna, amb la seva ombra al costat, va continuar vivint a la seva cova, rodejada pels peixos i les aus marines que l'estimaven, i va seguir sent la fada més sàvia de la costa.</body>

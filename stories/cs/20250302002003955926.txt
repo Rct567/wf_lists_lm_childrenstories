@@ -1,0 +1,37 @@
+<prompt>
+Please write a simple and easy-to-follow Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Mladý hrdina a jeho skvělá dobrodružství'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>cs</lang_id>
+
+<title>Mladý hrdina a jeho skvělá dobrodružství</title><body>  
+Byl jednou jeden malý chlapec jménem Tomáš. Bydlel v malé vesnici obklopené hustými lesy a vysokými horami. Tomáš byl zvědavý a odvážný, a proto se mu ve vesnici přezdívalo „Mladý hrdina“. Rád prozkoumával okolí a vymýšlel si různé příběhy o tom, jak zachraňuje svět. Jeho nejlepší kamarádkou byla malá liška jménem Růža, kterou jednou našel jako opuštěné mládě a od té doby byli nerozluční.  
+
+Jednoho rána se Tomáš probudil a rozhodl se, že tentokrát vyrazí na opravdové dobrodružství. „Růžo,“ řekl, zatímco si oblékal svůj starý kabát a nasazoval čepici, „dneska objevíme něco úžasného!“ Liška zavrtěla ocasem a radostně štěkla.  
+
+Vyrazili směrem k lesu, kde Tomáš zahlédl starou mapu, která mu spadla z nebe – nebo alespoň tak to vypadalo. „Co to je?“ zeptal se a sebral ji ze země. Na mapě byly nakresleny klikaté cesty, řeky, hory a uprostřed velký červený křížek. „To musí být poklad!“ vykřikl Tomáš. Růža skákala kolem něj a štěkala radostí.  
+
+„Musíme ho najít!“ rozhodl Tomáš a vydali se na cestu. První překážkou byla hluboká řeka. „Jak přejdeme na druhou stranu?“ zamyslel se Tomáš. Růža se rozeběhla k malému stromu a začala na něj škrábat. Tomáš si všiml, že na stromě je přivázaná lana a starý vor. „Skvělé!“ zvolal. Společně vor spustili na vodu a přepluli řeku.  
+
+Cesta pokračovala hustým lesem. Stromy byly tak vysoké, že skoro neprosvítalo slunce. Tomáš si připadal jako v pohádce. Najednou uslyšeli podivné zvuky. „Co to je?“ šeptal Tomáš. Z křoví vyskočil velký medvěd. Růža se schovala za Tomáše, ale Tomáš zůstal klidný. Vzpomněl si, jak mu jeho dědeček říkal, že medvědi jsou plaší. Pomalu vytáhl z batohu kus chleba a hodil ho medvědovi. Medvěd chleba sebral a s přátelským zamručením odešel.  
+
+„To bylo blízko,“ řekl Tomáš, když si oddechl. Pokračovali dál a brzy dorazili k úpatí vysoké hory. Na mapě bylo napsáno, že poklad je na jejím vrcholu. „Musíme vylézt nahoru,“ řekl Tomáš. Cesta byla strmá a plná kamenů, ale Tomáš a Růža byli odhodlaní. Po několika hodinách byli skoro nahoře. Najednou se však země pod nimi začala třást.  
+
+„Co se děje?“ vykřikl Tomáš. Z kamenné stěny před nimi se vynořil obří drak. Měl zelené šupiny a oči jako oheň. „Kdo si troufá vstoupit na mé území?“ zahřímal drak. Tomáš se bál, ale věděl, že musí být statečný. „Jsme Tomáš a Růža,“ řekl pevným hlasem. „Hledáme poklad, abychom mohli pomoct naší vesnici.“  
+
+Drak se na ně chvíli díval a pak se rozesmál. „Jste odvážní,“ řekl. „Ale poklad není pro každého. Musíte splnit tři úkoly.“ Tomáš přikývl. „Jdeme na to!“  
+
+První úkol byl najít zlaté jablko na stromě uprostřed trnů. Tomáš se nebál a proplazil se trním, zatímco Růža ho povzbuzovala. Druhý úkol byl přejít přes úzký most bez podívání se dolů. Tomáš zavřel oči a soustředil se na krok za krokem. Třetí úkol byl nejtěžší – musel odpovědět na hádanku: „Co je větší než hora, lehčí než peříčko a nikdy se to neztratí?“ Tomáš přemýšlel a pak řekl: „To je stín!“  
+
+Drak se usmál. „Správně. Získali jste poklad.“ Vedl je do jeskyně plné zlata a drahokamů. Tomáš si ale vzal jen malou truhličku s léčivými bylinami a kouzelnými kamínky. „Tohle pomůže naší vesnici,“ řekl. Drak mu dal požehnání a oni se vydali na cestu domů.  
+
+Když se vrátili do vesnice, všichni byli šťastní. Tomáš použil byliny k léčení nemocných a kouzelnými kamínky oživil vyschlou studnu. Od té doby byl Tomáš opravdovým hrdinou a Růža jeho věrnou společnicí. A když se večer dívali na hvězdy, věděli, že jejich dobrodružství teprve začíná.  
+
+Konec.</body>

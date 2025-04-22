@@ -1,0 +1,62 @@
+<prompt>
+Please write a light-hearted Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Dívka, která mluvila s květinami a rozuměla jejich tajemstvím.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>cs</lang_id>
+
+```xml
+<title>Dívka, která mluvila s květinami a rozuměla jejich tajemstvím.</title><body>
+Kdesi v srdci zeleného kraje, kde kopce objímaly údolí plná květin, žila malá dívka jménem Květinka. Ne, to nebylo jen tak obyčejné jméno, Květinka byla zvláštní. Mluvila s květinami. A květiny, ty jí odpovídaly. Ne slovy, jak je známe my, ale jemnými šelesty listů, tichým zpěvem včel, které se v nich usazovaly, a proměnami jejich barev.
+
+Květinka měla dlouhé, blonďaté vlasy, které voněly po slunci a medu, a oči barvy jarního nebe. Žila v malém, dřevěném domečku na kraji louky plné divokých květin. Jejími nejlepšími přáteli byli kromě květin také starý, moudrý dub a zvědavý, usměvavý zajíc, který se jmenoval Hopík.
+
+Každé ráno, hned po východu slunce, Květinka vybíhala ven, bosá, do rosy. Její první kroky vedly k největší louce, kde se rozprostírala paleta barev. Nejdříve pozdravila sedmikrásky, které se radostně kývaly ve větru. "Dobré ráno, krásky!" řekla Květinka. A sedmikrásky, ty jí odpověděly – jejich bílé okvětní lístky se jemně otevřely a zavřely, jako by se usmívaly.
+
+Potom se zastavila u růží, které se pyšnily svou krásou. "Jak se vám dnes daří, madam Růže?" zeptala se Květinka. Růže se zarděly ještě více a jedna z nich, nejkrásnější a nejvoňavější, odpověděla jemným šuměním: "Slunce nám svědčí, milá Květinko. A tvá návštěva také!"
+
+Nejraději měla Květinka však povídat si s tulipány. Byly to barevné děti louky, plné energie a hravosti. "Už jste viděly tu novou včelku?" ptávala se jich. Tulipány se rozvibrovaly a každý z nich vyprávěl Květince o včelce, která přilétla a chvíli si u nich poskakovala.
+
+Jednoho dne přišla na louku smutná nálada. Sluníčko svítilo jako obvykle, ptáčci zpívali své písničky, ale květiny, ty se tvářily nějak zvadle. Sedmikrásky se nepohupovaly, růže se schovávaly do svých poupat a tulipány vypadaly, jako by ztratily barvu.
+
+Květinka se znepokojila. "Co se děje, moji milí?" ptala se s obavami. Dub, který ji vždy poslouchal, jen zachroustal svými starými větvemi. Hopík, který ji vždy následoval, se díval smutně do země.
+
+Po chvíli ticha se ozval jemný šepot. Byl to hlas modrého zvonku. "My… My nemáme dost vody," řekl zvonek tichým hláskem. "Už dlouho nepršelo a my máme žízeň."
+
+Květinka se zarazila. To se dalo čekat! Přes léto bylo vždy sucho. Vyběhla rychle do domku a přinesla velkou konvičku. "Hned vám pomůžu," slíbila. Ale konvička nestačila. Potřebovali by mnohem víc vody, aby se cítili dobře.
+
+Květinka se zamyslela. Co teď? Dub ji sice dokázal utěšit svými slovy, ale pomoc od něj nečekala. Musela vymyslet něco sama.
+
+"Vím!" vykřikla Květinka najednou. Hopík na ni vytřeštil oči. Vypadalo to, že Květinka opravdu ví. "Zavolám vítr! Vítr je silný a ten by mohl přivolat mraky!"
+
+Hopík pochybovačně poškrábal za uchem, ale Květinka se nedala. Zalezla za velký kámen a začala zpívat. Ne zpívala obyčejnou písničku, zpívala píseň větru. Píseň, kterou se naučila od květin. Zpívala o síle a moci větru, o mracích a dešti.
+
+Její hlas se nesl nad loukou a šířil se do okolí. Nejprve se rozeznělo slabé foukání, potom začal vítr zesilovat. Stromy se začaly kývat, květiny se mírně klaněly.
+
+A pak to přišlo! Na nebi se začaly objevovat mraky. Nejprve jen malé, bílé obláčky, které se rychle spojily do tmavých šedých shluků. Vítr začal foukat silněji a ozvalo se první hřmění.
+
+Květinka se radovala. Hopík poskakoval kolem ní a štěkala radostí.
+
+A pak to začalo. Kapky deště se snesly na zem. Nejprve opatrně, potom stále silněji. Louka se začala napájet. Květiny se nadechly a začaly znovu zářit.
+
+Květinka stála uprostřed deště a smála se. Cítila se šťastná, protože pomohla svým přátelům. Sedmikrásky se rozsvítily jako malé hvězdičky, růže se začaly rozevírat a tulipány se třpytily barvami.
+
+Dešť trval jen chvilku, ale udělal zázraky. Když přestalo pršet, slunce opět vykouklo zpoza mraků a louka se rozzářila ještě více, než dřív.
+
+Květinka si sedla na zem a podívala se na květiny. Sedmikrásky jí šeptaly: "Děkujeme ti, Květinko." Růže jí šeptaly: "Děkujeme, zachránila jsi nás." Tulipány jí pak zatancovaly tanec radosti.
+
+Hopík si sedl vedle Květinky a olízal ji tvář. Zíral na louku plnou barev a Květinka si uvědomila, že svět je krásný a že největší štěstí je v tom, když můžeš pomáhat těm, které máš rád.
+
+Od té doby Květinka s květinami hovořila ještě častěji. Naučila se od nich nová tajemství, jak pečovat o louku, jak pomáhat rostlinám růst a jak se starat o přírodu.
+
+Když byla Květinka velká, vyrostlo kolem jejího domku mnoho krásných zahrad, které navštěvovali lidé z dalekých krajů. Ne všichni věřili, že Květinka mluví s květinami, ale všichni cítili, že jsou obklopeni zvláštní magií. Všichni se usmívali a cítili se šťastně. Protože i když ne všichni rozuměli jazyku květin, všichni rozuměli jazyku Květinky – jazyku lásky a péče.
+
+A Květinka, ta si až do pozdního věku užívala společnosti svých květin a učila další generace dětí, jak s nimi hovořit a jak rozumět jejich tajemstvím. A to byl konec a vlastně i začátek dalšího, krásného příběhu, příběhu o dívce, která dokázala dělat svět krásnější. A nejen to – dokázala ho učinit i srozumitelnějším a mnohem šťastnějším.
+</body>
+```

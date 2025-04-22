@@ -1,0 +1,70 @@
+<prompt>
+Please write a simple and easy-to-follow Swedish children's story that is at least 1000 words long.
+It must be completely written in proper Swedish (SV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Flickan som kunde prata med djuren och lösa deras hemligheter.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>sv</lang_id>
+
+```xml
+<title>Flickan som kunde prata med djuren och lösa deras hemligheter.</title><body>
+<p>I en liten stuga, alldeles intill en stor, grön skog, bodde en flicka som hette Lova. Lova var inte som andra barn. Hon hade en alldeles speciell gåva: hon kunde prata med djuren. Ja, du läste rätt! Lova kunde höra vad ekorren gnällde om, vad fåglarna sjöng om och vad räven viskade i natten.</p>
+
+<p>Hennes bästa vän var en liten, sprallig hundvalp som hette Kalle. Kalle hade brunt hår och ett hjärta av guld. Varje morgon, så fort solen kikat fram över trädtopparna, sprang Lova ut i skogen med Kalle tätt i hälarna.</p>
+
+<p>"God morgon, Kalle!" sa Lova glatt, och Kalle viftade glatt på svansen. "Idag ska vi höra vad djuren har att berätta."</p>
+
+<p>Först mötte de en liten kanin som satt och gnagde på en maskros. "Hej lilla kanin! Vad är det som försiggår?" frågade Lova, med ett leende. Kaninen, vars öron spetsades, svarade med en lite orolig röst: "Det är... jag har tappat bort min favoritmorot! Jag vet inte var den är!"</p>
+
+<p>"Ojdå, vilken otur!" sa Lova. "Oroa dig inte, vi hjälper dig att leta!" Hon vände sig mot Kalle. "Kalle, kan du känna lukten av moroten?"</p>
+
+<p>Kalle, som var en mästare på att spåra, drog in djupa andetag i luften och började nosa. Han sprang iväg, med Lova hack i häl. De följde en doft som ledde dem genom buskar och över små stenar. Efter en stund, hittade de moroten, gömd under ett löv. Kaninen blev överlycklig och tackade dem många gånger.</p>
+
+<p>När de fortsatte in i skogen hörde de ett klagande läte från ett gammalt, knöligt träd. "Vem är det?" undrade Lova, och gick närmare.</p>
+
+<p>Där satt en liten ekorre, med ögon fulla av tårar. "Vad är det som hänt?" frågade Lova varsamt. Ekorren snyftade. "Jag… jag har tappat bort min bästa nöt. Det var en sån fin hasselnöt! Och vintern kommer snart..."</p>
+
+<p>Lova förstod genast att det var bråttom. "Kalle, måste vi leta!" beordrade hon, och Kalle hoppade genast upp och var redo att hjälpa. De letade och letade, och till slut, efter en lång stund, hittade de hasselnöten, gömd under en rot. Ekorren jublade, tackade och började genast gräva ner den säkert. "Tack, snälla Lova! Ni är mina räddare!" pep ekorren.</p>
+
+<p>Vidare in i skogen mötte de en stor, gammal uggla som satt högt uppe på en gren. Ugglan såg mycket bekymrad ut. "God morgon, Uggla," sa Lova försiktigt. "Vad är det som bekymrar dig?"</p>
+
+<p>"Jag… jag har tappat bort mina glasögon," svarade ugglan med en djup röst. "Utan dem kan jag inte läsa, och jag behöver läsa om månens faser. Jag vill veta när vintern kommer."</p>
+
+<p>Lova och Kalle började leta försiktigt runt trädets fot. Efter en stunds letande, hittade Kalle något glänsande under ett löv: ugglans glasögon! Ugglan blev så glad att hon nästan trillade ner från grenen. Hon tackade Lova och Kalle, och sa att hon skulle berätta en spännande historia om månen för dem någon dag.</p>
+
+<p>En bit bort såg de en liten rävunge som satt och såg ledsen ut vid en bäck. "Hej lilla rävunge, vad är det?" frågade Lova snällt. Rävungen svarade med en pipig röst: "Jag är hungrig. Mamma är borta och jag vet inte hur jag ska få tag på mat."</p>
+
+<p>Lova kände direkt att hon behövde hjälpa till. "Oroa dig inte, jag ska hjälpa dig!" Hon vände sig mot Kalle. "Kalle, kan du spåra lukten av fisk?" Kalle, som älskade att vara en hjälte, nickade ivrigt och började spåra längs bäcken.</p>
+
+<p>De följde lukten en bra bit och hittade en liten bäck med massor av fisk. Lova visste att hon inte kunde fiska själv, men hon kom ihåg att hennes pappa hade visat henne hur man gjorde en liten fälla. De hittade några pinnar och grenar och byggde en enkel fälla. De placerade fällan i bäcken, och efter en stund, hade de fångat några små fiskar. Lova gav fiskarna till rävungen, som åt dem med god aptit. "Tack! Du är den bästa!" sa rävungen lyckligt.</p>
+
+<p>När dagen började gå mot sitt slut, satt Lova och Kalle på en stor sten. De hade hjälpt så många djur den dagen! De hade löst små problem, hittat borttappade saker och sett till att alla var nöjda och glada. </p>
+
+<p>"Kalle," sa Lova, medan hon klappade hunden på huvudet, "jag älskar att hjälpa djuren. Jag önskar att alla förstod dem lika bra som vi gör."</p>
+
+<p>Plötsligt hörde de ett litet viskande ljud. "Hallå? Är det någon där?"</p>
+
+<p>De tittade runt omkring sig. Till slut såg de en liten skalbagge som satt på stenen. "Vad är det, lilla skalbagge?" frågade Lova.</p>
+
+<p>"Jag... jag vill bara tacka er," sa skalbaggen med en liten röst. "Jag hörde allt ni gjorde för alla djuren idag. Det var fantastiskt! Jag är ledsen att jag inte kan göra något tillbaka."</p>
+
+<p>Lova log. "Det är ingen fara. Att veta att vi har hjälpt är belöningen."</p>
+
+<p>Skalbaggen fortsatte: "Jag är väldigt liten, men jag vet mycket om hemligheter. Jag hör saker. Jag vet hur världen fungerar. Om du behöver hjälp, säg bara till."</p>
+
+<p>Lova kände ett hopp i sitt hjärta. Hon hade inte bara förmågan att prata med djuren, hon hade nu en allierad. "Tack, lilla skalbagge. Det är snällt av dig. Nu vet jag att jag aldrig är ensam."</p>
+
+<p>Solen började gå ner. Himmel var full av vackra färger. Lova och Kalle började gå tillbaka till stugan. Kalle studsade av glädje, medan Lova funderade på alla de hemligheter som hon skulle hjälpa till att avslöja. Hon visste att hennes gåva var speciell, och att hon hade en viktig roll att spela i världen, en roll som skulle fortsätta, varje dag, för att göra världen till en bättre plats för alla djur.</p>
+
+<p>När de kom hem, berättade Lova för sin mamma och pappa om alla äventyr. De lyssnade intresserat och tyckte det var fantastiskt att Lova kunde prata med djuren. De visste att deras dotter var speciell och att hon skulle göra underbara saker i livet.</p>
+
+<p>Lova somnade den kvällen med ett leende på läpparna, med Kalle snarkande vid hennes fot. Hon visste att hon hade många fler hemligheter att lösa och många fler djur att hjälpa. Och varje morgon, när solen gick upp, skulle hon och Kalle vara redo för ett nytt äventyr i den stora, gröna skogen.</p>
+
+<p>Och skalbaggen? Ja, den satt kvar på stenen, redo att viska om alla hemligheter i världen, och vänta på att Lova skulle behöva dess hjälp.</p>
+</body>
+```

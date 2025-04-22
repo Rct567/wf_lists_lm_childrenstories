@@ -1,0 +1,76 @@
+<prompt>
+Please write a simple and easy-to-follow Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Wakacyjna wyprawa dzieci i poszukiwanie ukrytego skarbu piratów.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pl</lang_id>
+
+```xml
+<title>Wakacyjna wyprawa dzieci i poszukiwanie ukrytego skarbu piratów.</title>
+<body>
+Dawno, dawno temu, w małej, słonecznej wiosce nad samym morzem, mieszkali trzej przyjaciele: Zosia, Jaś i Ania. Dzieci uwielbiały wakacje. Dla nich to była pora nieustannych przygód, gier na plaży i oczywiście... poszukiwania skarbów!
+
+Zosia była bardzo energiczna i pełna pomysłów. Jasiek, trochę nieśmiały, ale bardzo pomocny, znał wszystkie tajemnice okolicy. A Ania, najmłodsza z trójki, miała niesamowity dar obserwacji i zawsze zauważała coś, czego inni nie dostrzegali.
+
+Pewnego słonecznego poranka, siedząc na piaszczystym brzegu, Zosia znalazła starą, zniszczoną butelkę. „Patrzcie!” zawołała podekscytowana. „Co tu mamy?”
+
+Jasiek i Ania podbiegli do niej. Zosia ostrożnie wyciągnęła z butelki zwinięty pergamin. Rozłożyła go delikatnie, a na nim, pięknym, charakterystycznym pismem, widniała mapa!
+
+„To mapa!” krzyknął Jasiek z zachwytem.
+
+„Wygląda na starą mapę skarbów!” dodała Ania, z szeroko otwartymi oczami.
+
+Mapa prowadziła do ukrytego skarbu piratów! Zaznaczony był na niej tajemniczy las, stara latarnia morska i ukryta grota. Cała trójka nie mogła uwierzyć w swoje szczęście. Rozpoczęła się gorączkowa dyskusja. Gdzie jest ten las? Jak dostać się do latarni? Co czeka ich w grocie?
+
+„Zacznijmy od lasu!” zaproponowała Zosia. „Tam musi być jakiś punkt orientacyjny, żeby dalej znaleźć drogę.”
+
+Zgodnie z mapą, las znajdował się na północ od wioski. Zapakowali plecaki. Wzięli ze sobą prowiant: kanapki z serem, jabłka, soczki owocowe i oczywiście wodę. Zabrali także lupę, kompas i linę, na wszelki wypadek.
+
+Ruszyli w drogę. Po godzinie marszu, dotarli do wejścia do lasu. Las był gęsty i tajemniczy. Drzewa sięgały wysoko w górę, a promienie słoneczne tylko nieśmiało przedzierały się przez korony. Wszędzie panował półmrok.
+
+„Musimy uważać na znaki!” powiedziała Ania, która jako pierwsza zauważyła coś dziwnego. Na jednym z drzew, ktoś namalował strzałkę, prowadzącą w głąb lasu. Zosia sprawdziła mapę. Strzałka zgadzała się z kierunkiem wskazanym na pergaminie!
+
+Szli dalej, podążając za strzałkami. Czasami musieli pokonywać powalone pnie drzew, przechodzić przez strumyki, a raz nawet wspiąć się na małe wzniesienie. Po drodze, Jasiek zauważył ślady w błocie. „Wyglądają na ślady zwierząt!” powiedział z przejęciem. „Może jakieś lisy albo sarny?”
+
+Po kilku godzinach wędrówki, dotarli do polany. Na środku stało stare, spróchniałe drzewo, a na nim… kolejna strzałka! Prowadziła do niewielkiej jaskini.
+
+„Wygląda na to, że to kolejna wskazówka!” stwierdziła Zosia.
+
+Weszli do jaskini. Było ciemno i chłodno. Po chwili, Ania, która jako pierwsza weszła do środka, krzyknęła: „Znalazłam coś!”
+
+Na ścianie jaskini widniał wyryty znak. To był… kompas! Kierunek kompasu wskazywał dokładnie drogę do starej latarni morskiej, która znajdowała się na wysokim klifie, niedaleko morza.
+
+Wysoki, skalisty brzeg wyłonił się zza drzew. Szli teraz brzegiem morza, podziwiając fale rozbijające się o skały. Po chwili zobaczyli latarnię morską. Stała dumnie, górując nad wszystkim.
+
+Latarnia była stara i nieco zniszczona, ale wciąż robiła niesamowite wrażenie. Zosia odszukała na mapie szczegółowe oznaczenie. Znak na mapie wskazywał, że szukać mają w pobliżu latarni, konkretnie… u podnóża latarni, ukryty za dużym głazem.
+
+Kiedy dotarli na miejsce, zaczęli szukać kamienia. Jasiek nagle krzyknął: „Znalazłem!” Odsunęli kamień, a pod nim… kolejny zwinięty pergamin! Zosia rozwinęła go ostrożnie. Na nim było narysowane… morze!
+
+„Grota!” zawołała Ania. „Musimy znaleźć grotę!”
+
+Według mapy, grota znajdowała się w pobliżu małej zatoczki, oddalonej kilka minut drogi od latarni. Dotarli do zatoczki. Woda była krystalicznie czysta. Znalezienie groty okazało się łatwiejsze niż myśleli. Była dobrze ukryta, za skalistym urwiskiem. Wejście do niej było zaciemnione i wąskie.
+
+Po wejściu do groty, Jasiek zaświecił latarką. W jaskini było wilgotno i czuć było zapach soli. Na ścianie wisiały stare sieci rybackie. Po chwili, Zosia krzyknęła: „Patrzcie!” W jednym z zakamarków, pod starą skrzynią, znaleźli… skrzynię!
+
+Skrzynia była ciężka i pokryta rdzą. Zosia, Jasiek i Ania z trudem ją otworzyli. W środku znaleźli… monety! Złote monety! Stare, błyszczące, pirackie monety! Byli w szoku. To był prawdziwy skarb!
+
+„To niewiarygodne!” krzyknął Jasiek.
+
+„Udało się!” dodała Ania, skacząc z radości.
+
+„Teraz musimy się podzielić!” powiedziała Zosia, choć w sercu wiedziała, że prawdziwym skarbem jest ich przyjaźń.
+
+Postanowili zabrać monety do wioski. Ale najpierw, postanowili wrócić do latarni i wyznaczyć nowe miejsce, gdzie skarb zostanie ukryty, dopóki nie znajdą odpowiedniego rozwiązania co z nim zrobić. Obiecali sobie, że będą dzielić się tym co znaleźli i nie pozwolą aby bogactwo zniszczyło ich przyjaźń.
+
+Następnego dnia, w wiosce, Zosia, Jasiek i Ania opowiedzieli wszystkim o swojej przygodzie. Dzieci z wioski były zachwycone. Cała wioska była podekscytowana. Razem podjęli decyzję: część skarbu przeznaczą na naprawę latarni morskiej, żeby służyła wszystkim mieszkańcom i podróżnym. A część przeznaczą na wspólne wycieczki i zabawy.
+
+Dla Zosi, Jasia i Ani najważniejsze było to, że razem przeżyli niesamowitą przygodę, znaleźli skarb, ale przede wszystkim… udowodnili sobie, że przyjaźń jest cenniejsza niż złoto.
+Od tego dnia, byli najsłynniejszymi poszukiwaczami skarbów w całej wiosce. I mimo że później znajdowali jeszcze wiele ciekawych rzeczy, żaden skarb nie był tak cenny, jak wspólne wspomnienia i radość, którą razem przeżywali. A wakacje? Dla nich zawsze były pełne przygód i magii. Koniec.
+</body>
+```

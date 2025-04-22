@@ -1,0 +1,24 @@
+<prompt>
+Please write a educational Amharic children's story that is at least 1000 words long.
+It must be completely written in proper Amharic (AM).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'የአይን ስሜት የሌለው አራዊት'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>am</lang_id>
+
+<title>የአይን ስሜት የሌለው አራዊት</title>
+<body>
+አይን ስሜት የሌለው አራዊት በተለየ ጎሣ ላይ ኖረ። አራዊት ስሜት እንደሌለው እንዲህ ሆነ። አራዊት በታዋቂ አራዊት ቤት ላይ የተራውጬ ልጅ ነበረ። በእናቱ እጅ እየተፈለቀ እየተንቀሳቀሰ ነበረ። ነገ ጎረቤቶች እንደ አራዊት ተወላጆ ልጅ የማይጠበቅ ነበር። እየኖረ በእናቱ ቤት ከጎረቤቶች ማይተን የሚቀራቀር ነበር።
+
+አራዊት ከአይን ስሜት ነጭ ሆኖ ነበረ። ያኔ ቀን አራዊት በጎረቤቱ ቤት ተጫወተ። ጎረቤት እየከተለው አራዊትን ሲነግረው አሌንበረረ። አራዊት ጎረቤቱን ለማየት ሞከረ። ምክንያቱን የለም እጅግ ጥቂት እየተወሳ እየተንቀሳቀሰ በረጅም ጊዜ ማቆየት አለበት። የአራዊት ጎረቤት ሌሎችን አራዊትን በማየት ከቤቱ ወጥቶ ሄደ።
+
+አራዊት የራሱን ስሜት አይን ማየት ስለማትቻለው ታይቶ ቀረ። በአንድ ቀን አራዊት ከቤቱ ወጥቶ ሄደ። ብዙ ጊዜ በራሱ የሚመክረው ነበረ። በጣም ደስ የሚለብሰው ተወላጅ ልጅ ነበረ። ጎረቤቱ ሲታየው ግን ማይጠበቅ ነበረ። ከቤቱ ወጥቶ ብዙ ወደ ሌላ ምድር ሄደ።
+
+ብዙ ፍለጋ ምድር ተራራ ማረፊያ ላይ ሄደ። ባሕረ ማረግ ተንቀሳቀሰ። ጣም ደስታን ስሜትን አይቶ ምንም የማይመክረው ነበር። በዚህ በጣም ደስ የሚለብሰው እየሄደ ወደ ባሕረ ማረግ ላይ በረጅም ጊዜ እያለ የአይን ስሜት ሌላ አራዊት ስለሚታየው ቀራቸው። የአይን ስሜት ያለው አራዊትን ማየት እጅግ ጥቂት ብሎ እየጠበቀ ነበረ።
+
+ከዚህ በኋላ ማረግ ላይ ብዙ አራዊት ስለሚታየው ወደ ራሱ አንድ ምድር ገብቶ በረጅም ጊዜ ተቀመጸ። ጣም ብሉ ፈለቀ። ራሱን ማየት እንዲችል አስቦ ነበረ

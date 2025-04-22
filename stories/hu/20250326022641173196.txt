@@ -1,0 +1,57 @@
+<prompt>
+Please write a uncomplicated Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A Napsugarak Vidám Kalandjai'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>hu</lang_id>
+
+```html
+<title>A Napsugarak Vidám Kalandjai</title>
+<body>
+<p>Egyszer volt, hol nem volt, volt egyszer egy hatalmas, kék ég. Ezen az égen élt egy kedves, mosolygós napocska, és ő volt a legvidámabb napocska a világon. Minden reggel felkelt, hogy a Földet melengesse és megörvendeztesse. A napocska fénye ragyogó, sárga sugarakból állt, melyeket a világ különböző pontjaira küldött. És ezek a napsugarak nem csak egyszerű fények voltak; tele voltak örömmel, nevetéssel és izgalommal!</p>
+
+<p>A napocska minden reggel elkészítette a sugarait, és vidám szavakkal köszöntötte őket. “Jó reggelt, kedves napsugarak! Ma is tele van a világ felfedezésre váró kalandokkal! Készen álltok?”</p>
+
+<p>És persze, hogy készen álltak! Minden napsugár izgatottan várt a napra, hogy elindulhasson a kalandokra. Volt egy okos napsugár, akinek a neve Okoska volt. Okoska mindig új dolgokat akart megtudni. Volt egy játékos napsugár, aki mindenkivel viccelődni szeretett, ő a Kacagó volt. Aztán volt egy bátorságos napsugár, akinek a neve Bátor volt, és semmitől sem félt. És persze ott volt a legfiatalabb napsugár, Pici, aki még csak most ismerkedett a világgal, de tele volt kíváncsisággal.</p>
+
+<p>A napocska minden reggel elküldte a napsugarakat, hogy betöltsék a világot fénnyel és örömmel. Egyik nap Okoska a messzi hegyekbe ment. Ott megvizsgálta a sziklákat, a fákat, és rengeteg kérdést tett fel a madaraknak és a pillangóknak. “Miért repültök ilyen magasan?”, kérdezte. “Milyen a szél ereje?”, kérdezgette. A madarak és a pillangók szívesen válaszoltak neki, és Okoska egyre több mindent megtudott.</p>
+
+<p>Közben Kacagó egy vidám kis faluba ment. Ott találkozott egy kisfiúval, akinek szomorú volt az arca. Kacagó a nap sugarából tréfát csinált, a kisfiú orrára rajzolt egy kacskaringós bajuszt, és a fiú hirtelen nevetésben tört ki. A kacagás ragyogott a falu felett, mint a napsugár fénye. Kacagó rengeteg tréfát csinált még, amíg a fiú meg nem gyógyult a szomorúságtól.</p>
+
+<p>Bátor egy hatalmas erdőbe ment. Az erdő sötét és ijesztő volt, de Bátor nem félt. Megkereste a legmélyebb pontot, ahol nem jutott be a napfény. Ott talált egy öreg, magányos fát. Bátor fénnyel megvilágította a fát, és a fa hirtelen elkezdett érezni. Érezte a melegséget, és egy kis napsugár segített neki. Az öreg fa elkezdett beszélni Bátorral, és a bátor napsugár a fa barátja lett.</p>
+
+<p>Pici, a legfiatalabb napsugár egy virágoskertbe ment. Még nem tudott sok mindent a világról, de kíváncsi volt mindenre. Megnézte a virágokat, ahogy a napfényben szépültek. Egy pillangó odarepült hozzá, és elkezdtek együtt játszani. Pici követte a pillangót, és egyre közelebb került a virágokhoz. Megismerte a pillangókat, a méheket és minden kis bogarat. A kert megtelt vidámsággal.</p>
+
+<p>Amikor a nap lement, a napsugarak visszatértek a napocskához. Mindegyikük tele volt izgalmas történetekkel és tapasztalatokkal. Okoska elmesélte a hegyekben szerzett tapasztalatait, Kacagó a tréfáit, Bátor a bátorságát, Pici pedig a kert kalandjait.</p>
+
+<p>A napocska meghallgatta a sugarait, és büszke volt rájuk. “Nagyon ügyesek voltatok, napsugarak! Minden nap új kalandokat hoztatok a világba! Jövőre is készüljetek a kalandokra!”</p>
+
+<p>Másnap a napsugarak újra útra keltek. Okoska a folyókat és a tavakat vizsgálta meg. Kacagó a gyerekekkel játszott a parkban. Bátor a nagymamák szívébe vitt meleget, és Pici új virágokat látogatott meg. Mindegyikük betöltötte a világot fénnyel és örömmel.</p>
+
+<p>És így teltek a napok. A napsugarak mindig új kalandokat éltek át. Tanultak, nevettek, bátrak voltak, és megismerték a világot. A napocska mindig várta őket, és büszke volt a kis barátaira. A világ egyre ragyogóbb lett a napsugarak vidám kalandjai miatt.</p>
+
+<p>Egy nap, amikor Okoska visszatért a napocskához, furcsa dolgot fedezett fel. “Napocska, valami hiányzik! A Föld kicsit szürkének tűnik…” A napocska elgondolkodott. Igaz, hogy valami elveszett. “Tudom!” mondta hirtelen. “Elveszett a mosoly! Mindenhol hiányzik az öröm, és a szeretet!”</p>
+
+<p>A napsugarak elgondolkodtak. Mi tévők legyenek? Hirtelen Kacagó felkiáltott: “Én tudom! El kell mennünk az emberekhez, és meg kell őket nevettetnünk! A kacagás visszahozza a mosolyt!”</p>
+
+<p>És így tették. Kacagó minden emberhez odament, viccelődött velük, rajzolt vicces dolgokat, és megnevettette őket. A kacagás visszatért az emberek szívébe, és a szürkeség lassan eltűnt. Bátor felkereste azokat, akiknek a szívében szomorúság lakozott. Megvigasztalta őket, adott nekik reményt, és bátorított. A félelem eltűnt, a bátorság visszatért, és a világ egyre színesebb lett.</p>
+
+<p>Okoska tanította az embereket a világ szépségére, a természethez való viszonyukra. Azt is megmutatta, hogy mindannyian egyek vagyunk, és egy napfénybe tartozunk. Pici a kicsikhez ment, mesélt nekik a napról, a sugarakról, és játszott velük. Minden gyermeket betöltött szeretettel, boldogsággal, és az emberek emlékeztek arra, mit is jelent örülni az életnek.</p>
+
+<p>A világ visszanyerte régi fényét, a mosoly visszatért az emberek arcára, a szeretet ismét mindennapi dolog lett. A napsugarak kitartóan dolgoztak, soha nem adták fel. És ahogy teltek a napok, a napsugarak rájöttek valamire: a legfontosabb dolog a világon a szeretet. A szeretet mindent gyógyít, a szeretet mindent szépít, a szeretet hozza a világba a fényt.</p>
+
+<p>És így a napsugarak tovább élték vidám kalandjaikat, örömmel töltve meg a világot, segítve az embereket, hogy megtalálják a szeretetet és a boldogságot. A napocska pedig mosolyogva nézte őket, büszke volt a napsugaraira, a vidám kalandoraira.</p>
+
+<p>A nap sugarai soha nem szűntek meg, mindig készen álltak, hogy új kalandokba keveredjenek, örömet hozzanak a világba. A Földön egyre több és több mosolygó arc tűnt fel, és minden reggel, amikor a nap felkelt, a napsugarak vidáman kiáltották:</p>
+
+<p>“Indulunk kalandra! Kalandra mindenkinek! A szeretet mindent megold!”</p>
+
+<p>És a napsugarak szívük mélyén tudták, hogy ez az igazság, a kaland sosem ér véget, a világ mindig vár rájuk, tele új dolgokkal, és ők sosem szűnnek meg a legjobb napsugarak lenni!</p>
+</body>
+```

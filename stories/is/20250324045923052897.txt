@@ -1,0 +1,60 @@
+<prompt>
+Please write a timeless Icelandic children's story that is at least 1000 words long.
+It must be completely written in proper Icelandic (IS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Um dýrin í skóginum sem héldu stórt leikrit á hverju sumri og vetri.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>is</lang_id>
+
+```xml
+<title>Um dýrin í skóginum sem héldu stórt leikrit á hverju sumri og vetri.</title><body>
+Hér var einu sinni skógur stór og mikill. Í honum bjuggu öll kyn dýra, stór og smá, fjölbreytt og furðuleg. Þau deildu með sér skóginum í sátt og samlyndi, nema hvað eitt sinn á ári, eða tvísýnt, því að þeir héldu upp á árstíðirnar, sumar og vetur. Þá skipulögðu þau stórt leikrit. Þetta var hefð sem hafði verið við líði í óralangan tíma, síðan afi afa afa Úlfsins hafði fyrst byrjað á þessu öllu saman.
+
+Á sumrin var leikritið leikið í björtu sólarljósi á stóru engi, sem var fullt af villiblómum. Þar sem bjórnar dansuðu, refir hlustuðu og íkornar hlógu. Á veturna var leikritið sýnt inni í stóra birkitrésskála, sem var þakin snjó og ís, þar sem vindurinn hvíslaði sögur í gegnum gluggann.
+
+Á hverju ári var nýtt leikrit. Sum leikrit fjölluðu um stórkostleg ævintýri, um dreka, prinsessur og töframenn. Önnur leikrit sögðu frá einfaldara lífi dýranna, um hvernig þau fundu mat, eða hvernig þau lærðu að vinna saman. En eitt var alltaf sameiginlegt: allir dýrin lögðu hart að sér, frá stærsta birni til minnsta mús, til að sýningin yrði sem best.
+
+Þetta ár átti leikritið að heita "Undir hulinni tunglið". Sagan fjallaði um ungan úlf, Húgó, sem var öðruvísi en hinir. Hann elskaði ljóð og hlakkaði til að lesa stjörnurnar. Úlfurinn Húgó hataði að veiða og freistaðist aldrei til að grípa á harðakornum kjöti. Hann ólst upp í skóginum með hvatningarhjálp annara dýra, sem vissu um hæfileika hans.
+
+Húgó átti að vera aðalpersónan. Og fyrir honum var valið yndislegt dýr, refurinn Ragna, að vera hans besti vinur. Ragna var kát og greind. Hún var ein af þessum dýrum sem kunnu alla sögu.
+
+Undir leikstjórn úlfsins Jónasar, elsta og vitrasta úlfsins í skóginum, fóru æfingar af stað. Jónas hafði þau skilyrði að búa yfir mikilli reynslu. Hann þekkti öll dýrin í skóginum, hvert einasta hjarta. Hann sá hvaða hæfileika hvert og eitt hafði, hvernig þau gátu bætt sýninguna.
+
+Fyrst var vandinn með refinn Ragna, sem var á móti því að vera vinur Húgó. "Hann er of stórbrosið, alltof vitlaus," muldraði Ragna þegar hún æfði á svæðinu. En Jónas sagði rólega, "Ragna, vinátta er mikilvæg, og þú ert besta dýrið sem þú gætir fengið til að fylgja þér í gegnum ferðina."
+
+Með þessu vissi Ragna að hún myndi gera allt sitt besta, til að gera Húgó glaðan. Þau voru eins og bestu vinir, byrjuðu að þekkjast, aðeins betur með hverjum deginum sem leið.
+
+Þegar æfingarnar gengu vel, þóttu öllum dýrunum gaman af. Björninn Bjarni var góður í að syngja. Íkorninn Kári var snillingur í dansi. Og músavinirnir í meiri mæli tilfinningaríkar og í stakk til að leika í tilfinningaþrungum senum.
+
+Það voru nokkrir erfiðleikar á leiðinni. Stundum gleymdi Húgó línunum sínum, Ragna öskraði of mikið, Bjarni brosti ekki nóg, Kári datt á trýnið. En Jónas útskýrði fyrir þeim hvað þau þyrftu að gera og hvernig þau gætu gert þetta allt saman betur.
+
+Daginn sem leikritið var frumsýnt, var loftið fullt af spennu. Enginn gat beðið. Börn á öllum aldri voru byrjuð að ganga að sýningarsvæðinu. Áhorfendapallar voru settir upp og dýrin settu sig inn í stóru svæðið.
+
+Húgó var stressaður, en þegar hann steig á sviðið og sá öll andlitin, gleymdi hann öllum ótta. Hann las ljóð um stjörnurnar, og kærleikurinn, og vináttuna. Ragna dansaði, söng, og bauð. Bjarni sýndi styrk, og hugrekki. Kári sýndi húmor.
+
+Það gekk mjög vel! Áhorfendur hlógu, grétu og hrópuðu. Það var algjörlega ljóst að öllum hafði fundist gaman af leikritinu.
+
+Að lokinni sýningu fengu dýrin hrós, kökukrems kökur og rauðberjasulta. Þau kastaðu skógarmjölva í loftið, í staðinn fyrir blóm. Húgó og Ragna kysstust, á milli þess að kalla inn fleiri persónur á sviðið. Og þau sungu saman stórsöng í kór: "Í skóginum, undir hulinni tunglið, er vinátta, kærleikur, og samkennd!".
+
+Árin liðu, leikritin héldu áfram, og dýrin héldu áfram að læra af hvoru öðru. Þau sáu, að saman voru þau sterkari, klárari og ánægðari. Leikritin voruð samkenndarspeglar þess besta í þeim, þegar þau töluðu út.
+
+Svo einn daginn varð leikritinu breytt að eilífu. Stór vindur fór í gegnum skóginn og stóð allan daginn.
+
+En enginn var hræddur, því allir vissu eitt: hvernig átti að gera leikrit, frá og með deginum í dag!
+
+En vindurinn hélt áfram, blés með afli. Húsgögn, tré og fólk misstu öll sín svæði, misstu öll sín heimili.
+
+Jónas var að velta hinu illa fyrir sér, hvernig skyldi nú standa á, að leikritinu, hvort leikritið myndi geta haldið áfram eða ei. Jónas leitaði í allar áttir. Allt í einu sá hann undarlegt.
+
+Nokkrir refir og birnir hlupu allir saman. Í öllum hvatvísinni voru allir dýrin byrjuð að gera áætlanir og voru sammála um að þetta yrði besta sýningin hingað til. Þau hlupu í burtu til annara hluta skógsins og höfðu fundið skjól frá vindi, ný heimili fyrir alla, hvort sem um var að ræða tré, kofa eða brúður úr snjó.
+
+Að endingu þakkaði Jónas fyrir, og hann skrifaði nýtt leikrit um hvernig vináttan, samkenndin og ástin gæti sigrað jafnvel sterkasta storminn. Og leikritið gekk meira og minna jafn vel og hin síðustu, og síðan þá, hafa dýrin haldið áfram að sýna leikrit, eða þangað til skógurinn gæti ekki rúmað fleiri sýningar.
+
+En alltaf, enn þann dag í dag, í skóginum sem enginn veit hvar er staðsettur, er það sagt: „Ef þú hlustar vel, þá geturðu heyrt hljóð af undirbúningi næsta leikritins, fjarri. Og ef þú horfir vel, gætir þú séð leikdýrin, enn á leiðinni heim!“
+</body>
+```

@@ -1,0 +1,29 @@
+<prompt>
+Please write a creative and original Estonian children's story that is at least 1000 words long.
+It must be completely written in proper Estonian (ET).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Koolis toimuvad üllatused ja seiklused'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>et</lang_id>
+
+<title>Koolis toimuvad üllatused ja seiklused</title>
+<body>
+Kaarel oli väga eriline õpilane.  Mitte et ta oleks geniaalne matemaatik või imeline luuletaja, vaid seetõttu, et tal oli imeline võime näha asju, mida teised ei märganud.  Näiteks nägi ta klassiruumis kõndimise ajal õpetaja proua Käärikese varjatud naeratust või teadis, et  tuule peitsis end tugeva tuuliku taga vaid selleks, et mängida peidetud mängu.  Teised õpilased pidasid teda veidi veidriks, aga Kaarel ei lasknud see häirida. Tema maailm oli täis imesid, ja ta oli õppinud neid imeid avastama.
+
+Ühel päeval, kui klassis õpiti Eesti loodust, ütles Kaarel: "Ma näen, et metsa taga peitub võluvõimsusega kividest ja lillede purustatud varjustest tehtud linn."  Klass naeratas, aga õpetaja proua Käärikese silmad särasid. "Kaarel," ütles ta, "oled sa igal ajal leidnud midagi uut ja põnevat, aga räägi meile siis, kuidas sa tead, et see linn on seal."
+
+Kaarel selgitas: "Ma näen, kuidas metsavaimud lendavad üle selle linna, kuidas päikesekiired maalivad sellele värvilisi pilte ja kuidas väikesed jõekivid laulavad laule."  Ta joonistas klaasplaadile metsalindude ja väikeste loomalikeste kujutisi, selgitades, kuidas ta seda linna tunneb.  Klass oli hingestatud. Nad ei olnud varem mõelnud loodusele nii detailirikkalt.
+
+Pärast tundi otsustas Kaarel minna metsa ja otsida imelist linna.  Ta võttis kaasas oma lemmikmänguasja – väikese puust metsaelaniku nimega Tamm.  Tee oli pikk ja mägine, aga Kaarel ei väsinud.  Ta kuulis, kuidas metsas tuul sosistab saladusi ja nägi, kuidas päikeselised kiired mängivad roheliste lehtedega.  Ta märkas, et isegi kividel on oma lugu ja et iga lillel on oma eriline ilu.
+
+Lõpuks, mäe tipul, leidis ta selle.  See oli väike, kividest ja lillede varjustest ehitatud linn.  See oli isegi kaunim, kui Kaarel oli ette kujutanud.  Selles elasid väikesed metsaelanikud, kes tantsisid ja laulsid.  Tamm hüpples rõõmust Kaareli käes.  Nad veetsid seal terve päeva, kuulates lindude laule ja nautides looduse ilu.
+
+Aga õhtu lähenes ja Kaarel tundis, et on aeg naasta.  Ta oli õppinud, et loodus ei ole mitte ainult ilus, vaid ka täis saladusi ja imesid.  Ta tänas metsaelanikke ja lubas neile, et ta tuleb jälle.  Teel koju nägi ta, et ka õpetaja proua Käärikese naeratus oli täis rõõmu.
+
+Järgmisel päeval tulid Kaareli klassi teadlased, et uurida õpilastega Eesti loodust.  Nad olid kuulnud Kaareli jutust imelistest linnast ja olid üllatunud Kaareli täpsest ja sügavast arusaamast looduse peenest maailmast. Nad kutsusid Kaareli kaasa metsa oma uurimisretkele.  Kaarel oli õnnelik, et ta oli leidnud oma imesid täis maailma.  Ja nii, iga päev, avastas ta uusi saladusi, uusi imesid ning oma erilist võimet näha asju, mida teised ei märganud.  Looduses olevad saladused olid ikka veel ees, oodates edasisi avastajaid.
+</body>

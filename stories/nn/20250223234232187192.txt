@@ -1,0 +1,44 @@
+<prompt>
+Please write a light-hearted Norwegian Nynorsk children's story that is at least 1000 words long.
+It must be completely written in proper Norwegian Nynorsk (NN).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Mysterieet om dei forsvunne søtsakene og den mistenkte kråka.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>nn</lang_id>
+
+<title>Mysterieet om dei forsvunne søtsakene og den mistenkte kråka</title>
+<body>
+I den vesle bygda Løvdal, der solen skinte varmt om sommaren og snøen lå dypt om vinteren, budde ei gjeng med ungar som elskte søtsaker. Dei hadde alltid ein eller annan lagring av godteri og andre søtsaker i lønnsjene sine, og dei gjorde alt for å halde dei trygge og utilgjengelege for andre.
+
+Ein av desse ungane var ein gut som heitte Olav. Han var ein smart og oppfinnsom gut som alltid fann på nye måtar å løse problem på. Olav hadde ein stor samling av søtsaker i sin lønnsj, og han passa godt på dei. Men ein dag, når han skulle ta seg ein søtsak, oppdaga han at dei var borte! Alle søtsakene hans var forsvunne, og han visste ikkje kven som kunne ha teke dei.
+
+Olav var særs lei seg og bestemte seg for å finne ut kven som hadde teke søtsakene hans. Han spurde dei andre ungane i bygda om dei hadde sett noko, men ingen av dei visste noko. Olav bestemte seg då for å starte ei etterforsking for å finne den skyldige.
+
+Første staden han besøkte varurret til den gamle mannen i bygda. Den gamle mannen var kjend for å vere særs vis og hadde alltid ei eller anna lagring av mat og drikke i huset sitt. Olav spurde den gamle mannen om han visste noko om dei forsvunne søtsakene, men han nekta for å kenne til noko.
+
+Deretter gjekk Olav til butikken i bygda, der dei solde alle slags varer, òg søtsaker. Han spurde butikkjenta om ho visste noky om dei forsvunne søtsakene, men ho sa at ho ikkje hadde sett noko mistenkeleg.
+
+Olav var no	parent	på veg til å gi opp, men så såg han ein kråke som flaug over bygda. Kråka var kjend for å vere ein dypt tyv, og Olav tenkte seg at han kanskje kunne vere den skyldige. Han bestemte seg for å følgje etter kråka og se om han kunne finne ut om han hadde teke søtsakene.
+
+Kråka flaug til ein stor tre i utkanten av bygda, og Olav følgde etter. Når han nådde treet, såg han at kråka hadde ein heil håve med søtsaker i reiret sitt! Olav var sikker på at han no hadde funne den skyldige, og han bestemte seg for å konfrontere kråka.
+
+"Kråke, du er ein tyv!" ropte Olav. "Du har teke alle søtsakene mine!"
+
+Kråka såg på Olav med sine onde auge og sa: "Eg har ikkje teke nokon søtsaker. Eg har berre funne dei her i skogen."
+
+Olav var ikkje sikker på om han skulle tru kråka eller ikkje, men han bestemte seg for å gi han ei sjanse. Han fyra kråka og sa at han skulle få halde søtsakene hvis han kunne løse ein oppgåve. Kråka samtykte, og Olav gav han oppgåva å finne den verkelege tyven.
+
+Kråka var ikkje lenge om å finne den verkelege tyven. Han flaug tilbake til Olav og sa: "Eg har funne tyven! Det er ei mus som har teket alle søtsakene dine!"
+
+Olav var overraska og takka kråka for hjelpen. Saman gjekk dei til musehòlet og fann musa som hadde teke søtsakene. Musa hadde lagt dei i ein stor skattkiste under jorda, og Olav var overraska over kor mykje musa hadde samla.
+
+Olav takka kråka og musa for å ha løst mysteriet, og han bestemte seg for å dele søtsakene sine med dei andre ungane i bygda. Frå den dagen av var Olav, kråka og musa beste vener, og dei hadde alltid mykje moro saman.
+
+Kråka hadde lært Olav at ein ikkje alltid skal dømme folk ut ifrå hvordan dei ser ut, og Olav hadde lært kråka at ein kan alltid finne venner i uventede stader. Musa hadde lært dei at ein kan alltid samarbeide og dele med andre, og dei tre vennene hadde lært bygda at mysterier alltid kan løysast med lite hjelp og mykje vennskap.
+
+Slik levde Olav, kråka og musa lykkelige og hadde alltid mykje moro saman, og dei tre vennene vart aldri gløymde i bygda Løvdal.</body>

@@ -1,0 +1,35 @@
+<prompt>
+Please write a emotional Swedish children's story that is at least 1000 words long.
+It must be completely written in proper Swedish (SV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Detektiverna som löste mysteriet i den svenska staden'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sv</lang_id>
+
+<title>Detektiverna som löste mysteriet i den svenska staden</title>
+<body>
+Solen skimrade på takpannorna i den lilla svenska staden, Säby.  Små, vita hus med röda dörrar låg tätt intill varandra, knutna samman av smala gränder.  Det var en lugn stad, känd för sin vänliga befolkning och sina härliga, blomsterrika parker. Men den lugna idyllen hade fått en spricka.
+
+I en liten, gulmålad stuga bodde två unga detektiver,  Elisabet och  Johan.  Elisabet med sina stora, bruna ögon och lockar som en mörkbrun kråka, och Johan med sin alltid leende mun och ögon som glittrade av nyfikenhet. De älskade att lösa mysterier, och Säby var full av dem.
+
+Det började med en saknad.  Fru Karlsson, ägare till den berömda konditoriet "Sockertoppen", hade försvunnit.  Hennes katter,  Musse och  Putte, låg stilla på den tomma disken, blickar som frågetecken.  Klockan tickade på, den fina marmorgåvan som hon hade fått av sin farmor hade försvunnit.  Var hade hon tagit vägen?
+
+Elisabet och Johan samlade ihop sina anteckningsböcker och sina uppmärksamma ögon. De började med att intervjua grannarna.  Fru Nilsson, en dam med en varm röst och ett stort hjärta, berättade om fru Karlssons vänliga, men ibland konstiga sätt att handla. Herr Andersson, en gammal man med en lång, vit skäggstubbe, viskade om ett möte som fru Karlsson hade haft med en okänd person tidigare under dagen.  Var och en av de små berättelserna, som bitar av en pusselbild, gav detektiverna nya ledtrådar.
+
+De besökte blomsteraffären där fru Karlsson hade köpt en bukett med vita rosor. De läste blomsteraffärens dagbok, en ständigt växande berättelse. De följde spåren, de små detaljerna. De gick genom staden, deras små fötter spårade upp en väg genom den dolda berättelsen.  De gick på gatorna och upptäckte ett mönster. De följde de små märken, som bitar av en pussel, och i varje bit, en ny mening.
+
+De följde spåren till en liten, avskild skog bakom staden.  Där, under ett gammalt ekar, fann de en dold kista.  Inuti fann de fru Karlsson, som hade blivit överväldigad av ett brev.  Hon hade gått vilse i sin egen värld av känslor. Brevet, skrivet i vackra, men sorgliga ord, innehöll nyckeln till gåtan.
+
+Brevet berättade om en gammal vän, en vän som hon trodde hade försvunnit, men hon hade inte förstått.  Vännen hade bara befunnit sig på en annan plats. Vännen, hade fru Karlsson insett, var hon själv. Hon hade levt ett liv fyllt av så många känslor, så många tankar, som hon aldrig hade haft tid att förlika med sig själv.
+
+Elisabet och Johan hade förstått att det inte var ett fysiskt mysterium, utan ett känslomässigt. Fru Karlsson hade, genom känslornas stormstirra, förlorat sig själv.  Hon hade letat efter sig själv, i en uppriktig kamp.
+
+De återvände till den lilla stugan, sina hjärtan fyllda av glädje och förståelse.  De ringde på hos fru Karlsson.  Hon öppnade dörren, med en stor, varm leende.  Hon berättade om sitt brev, om sitt försvinnande och om hennes upptäckt.  En stor, varm leende hade spritt sig över hennes ansikte.  Hon var glad.
+
+Nu stod de redo att skriva nästa sida i sitt äventyr.  De visste att världen var full av mysterier, och att de, detektiverna i Säby, alltid skulle vara redo att lösa dem.  Staden Säby var en liten stad, men den var fylld av värme och storhet, och det var i den värmen, bland människorna, att de upptäckte att det största mysteriet, var sig själv.
+</body>

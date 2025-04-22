@@ -1,0 +1,65 @@
+<prompt>
+Please write a dialog-based Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Do'stlikni qadrlash orqali mo'jizalar yaratgan bolalar haqidagi hikoya.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>uz</lang_id>
+
+<title>Do'stlikni qadrlash orqali mo'jizalar yaratgan bolalar haqidagi hikoya.</title><body>
+— Salom, Boburjon! Nima qilyapsan? — dedi Dilnoza, bog'da o'tirgan Boburni ko'rib.
+
+— Salom, Dilnoza! Daraxt tagida o'tirdim, shunchaki, dam olayapman. Bugun juda issiq, — javob berdi Bobur. Uning yuzidan tashvish sezilib turardi.
+
+— Nega xavotirlanyapsan? Nimadir bo'ldimi? — so'radi Dilnoza, Boburning yoniga o'tirar ekan.
+
+— Ha, bo'ldi. Bu yilgi festivalga tayyorgarlik ko'rish juda qiyin bo'lyapti. Bizning guruhimiz uchun yangi spektakl sahnalashtirishimiz kerak, lekin g'oya topa olmayapmiz. Qanday qilib qiziqarli narsa o'ylashni bilmayapman. Hammaning boshi qotgan, — dedi Bobur.
+
+Dilnoza bir oz o'ylab turdi. — O'ylashimcha, bizga birgalikda ishlasak yaxshiroq bo'ladi. Sen nima deb o'ylaysan? — dedi u.
+
+— Bu yaxshi fikr! — Boburning yuzida tabassum paydo bo'ldi. — Lekin qanday g'oya topamiz?
+
+— Keling, bir joyga yig'ilaylik va turli fikrlarni muhokama qilaylik. Hamma o'z g'oyasini aytsin. Keyin esa eng yaxshisini tanlab olamiz, — taklif qildi Dilnoza.
+
+— Juda zo'r! Ajoyib fikr! — dedi Bobur xursand bo'lib. — Hozir shunda qolgan bolalarga aytaman.
+
+Shu kuniyoq ular qolgan do'stlarini, Alining, Sevaraning va Sanjarning chaqirib, Dilnozalarning uyida yig'ilishdi.
+
+— Xo'sh, kimda qanday g'oya bor? — so'radi Dilnoza.
+
+Ali birinchi bo'lib gap boshladi: — Men ertaklar olamiga sayohat haqida spektakl qo'yishni taklif qilaman. Qiziqarli bo'lishi mumkin!
+
+— Yaxshi g'oya, lekin unchalik yangi emas, — dedi Sevara. — Men esa, do'stlik haqida, bir-birlariga yordam berish haqida spektakl qo'ymoqchiman.
+
+— Do'stlik haqidagi spektakl yaxshi, ammo uni qanday qilib qiziqarli qilib yaratamiz? — deb so'radi Sanjar. — Buni tasavvur qilish qiyin.
+
+Bobur o'ylab turdi. — Biz mo'jizaviy o'rmonda sarguzashtlar haqida spektakl yaratishimiz mumkin. U yerda do'stlik va yordam berishning kuchi namoyish etiladi. O'rmonda turli xil qahramonlar bo'ladi, ular do'stlikni qadrlash orqali muammolarni hal qilishadi.
+
+— Ajoyib! — dedi Dilnoza. — Bu juda yaxshi g'oya! Uning ichida do'stlik ham, sarguzasht ham bor. Lekin qahramonlar kimlar bo'ladi?
+
+— Biz turli xil hayvonlarni qahramon qilamiz. Masalan, dono boyo'g'li, mehribon ayiq, jasur tulki va uddaburon quyon, — taklif qildi Ali.
+
+— Zo'r! Har bir hayvonning o'z xususiyati bo'ladi va ular bir-biriga yordam berib muammolarni hal qilishadi, — dedi Sevara. — Ammo, muammo nima bo'ladi?
+
+— Keling, qishloqni qutqaramiz! O'rmonga yovuz sehrgar kelib, uning barcha mevalari va sabzavotlarini quritib tashlaydi, o'rmon hayvonlari esa och qolishadi. Qahramonlar sehrgarga qarshi kurashadi va qishloqni qutqaradi! — dedi Sanjar.
+
+— Bu juda zo'r! — deb hayqirdi Dilnoza. — Hamma narsa joyida. Endi, sahna ko'rinishlari va liboslar haqida o'ylashimiz kerak.
+
+Ular kun bo'yi spektakl ustida ishlashdi. Sahna ko'rinishlarini chizishdi, hayvonlarning liboslarini tayyorlashdi. Bobur sehrgar rolini o'ynashga rozi bo'ldi, chunki u yovuz qahramonlarni o'ynashni yaxshi ko'rardi.
+
+Festival kuni keldi. Bog' maydonida sahnani yaratishdi va hamma joylariga joylashdilar. Odamlar kelib tomosha qilish uchun o'rin egallashdi. Bobur juda hayajonlanayotgandi.
+
+Parda ochildi. Sahnada o'rmonning go'zal manzarasini ko'rishdi. Dastlabki sahnalarda, hayvonlar o'z hayotlaridan mamnun, birgalikda o'ynashayotgani ko'rsatildi. Lekin, keyin sehrgar paydo bo'ldi va uning yovuz niyatlari namoyon bo'ldi. U barcha o'simliklarni quritib tashladi va hayvonlar och qoldi.
+
+Hayvonlar dono boyo'g'lining maslahati bilan, muammoni hal qilish yo'llarini izlay boshladilar. Ayiq kuchli edi, tulki uddaburon, quyon tezkor. Ular sehrgar bilan kurashish uchun birga ishlashga qaror qilishdi. Ular do'stlikni qadrlashni unutmadilar, bir-biriga yordam berishdi va bir-birini qo'llab-quvvatladilar.
+
+Bobur (sehrgar) qahramonlarga qarshi kurashdi, lekin qahramonlar birgalikda g'alaba qozondi. Ular sehrgarning sehrini sindirishga muvaffaq bo'lishdi va o'rmon yana yashillikka burkandi, mevalar gulladi, hayvonlar xursand bo'lishdi.
+
+Spektakl yakunlandi. Tomoshabinlar hayqiriqlar bilan qahramonlarni olqishladi. Bolalar do'stlikning kuchini, yordam berishning ahamiyatini, bir-biriga ishonchning zarurligini ko'rsatdilar.
+
+Dilnoza, Bobur, Ali, Sevara va Sanjar sahnaga chiqib, bosh egdilar. Ular o'z kuchlarini birlashtirganlari, bir-birlariga yordam berganlari va do'stlikni qadrlaganlari uchun mo'jiza yaratdilar. Festivalning eng yaxshi spektakli deb e'lon qilindi. Bolalar g'urur va baxtga to'lib, bir-birlarini quchoqlashdi. Ular uchun bu katta g'alaba edi, chunki ular do'stlik orqali har qanday qiyinchilikni yengish mumkinligini bilib oldilar. Do'stlik haqiqiy mo'jizalar yarata oladi!

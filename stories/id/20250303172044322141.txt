@@ -1,0 +1,50 @@
+<prompt>
+Please write a relatable Indonesian children's story that is at least 1000 words long.
+It must be completely written in proper Indonesian (ID).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>id</lang_id>
+
+<title>Si Kucing dan Rahasia Kebun Raya</title>
+<body>
+Si Kucing, seekor kucing berwarna hitam pekat dengan mata hijau yang bersinar, tinggal di pinggiran Kebun Raya.  Ia bukan kucing biasa. Si Kucing memiliki kemampuan untuk berkomunikasi dengan bunga-bunga dan serangga. Ia tahu rahasia tersembunyi di balik kelopak mawar merah, bisikan angin di antara dedaunan, dan getar sayap kupu-kupu yang melintas di langit Kebun Raya.
+
+Suatu pagi yang cerah, Si Kucing sedang menikmati sinar matahari pagi di atas rerumputan hijau. Ia mencium aroma wangi bunga melati yang sedang mekar dengan indah.  Namun, hari itu terasa berbeda. Udara terasa lebih berat, dan seekor burung kenari kecil bernyanyi dengan suara yang lesu.
+
+"Ada apa ini?" gumam Si Kucing, menghampiri sekelompok burung kenari yang berkumpul di dahan pohon mangga.
+
+"Taman kita sedang sakit," kata burung kenari tertua, suaranya serak. "Bunganya layu, daun-daun berguguran, dan serangga-serangga menghilang. Kami tidak tahu apa penyebabnya."
+
+Si Kucing, tak mau menunggu lebih lama, mendekati bunga mawar merah yang paling indah di taman itu.  Dia mencium aroma bunga yang sudah memudar. "Kamu tertekan, bunga?" tanya Si Kucing dengan suara lembut.
+
+Bunga itu, seolah membalas, menggoyang sedikit kelopaknya.
+
+"Tidak ada cukup air," bisik bunga itu.
+
+Si Kucing bergegas ke sumber air di dekat situ. Airnya sangat keruh.  Ternyata ada sebuah selang yang tersumbat oleh akar tanaman eceng gondok.  Dengan gerakan lincah, Si Kucing membersihkan selang itu.
+
+"Terima kasih," desis bunga itu.
+
+Selanjutnya, Si Kucing mencari tahu ke mana serangga-serangga pergi. Dia menemukan semut-semut kecil di balik semak-semak sedang mengangkat sesuatu yang sangat kecil – biji tanaman kecil yang mereka rasuki untuk membuat rumah mereka.
+
+"Mereka butuh lebih banyak makanan," pikir Si Kucing.  Si Kucing menemukan sebuah wadah pupuk kompos yang kosong dan membawanya ke sebuah tumpukan ranting kering di dekat taman. Dengan sangat semangat, ia membuat tumpukan kayu kering.
+
+Kemudian, Si Kucing mencium bau busuk dari sebuah tempat sampah yang terletak di belakang taman.  Sampah-sampah busuk itu mencemari air di dekat tempat itu. Dengan hati-hati, Si Kucing menemukan seekor ular kecil yang bersembunyi di tempat gelap, terlihat lelah dan sakit.  Di tubuhnya terlihat luka karena terkena sampah.
+
+"Kau terluka," bisik Si Kucing.  Si Kucing membawa seekor burung kenari kedekatnya untuk memberi semangat kepada ular kecil tersebut. Kemudian Si Kucing menanyakan dengan suara yang lembut tentang kejadian yang dialaminya. 
+
+Si Kucing segera mengambil air bersih dan membersihkan luka pada ular itu, sementara burung kenari bernyanyi untuk menenangkan makhluk mungil itu.  Ular itu berbisik, "Air, itu yang dibutuhkan taman untuk menyembuhkan lukanya," sambil menunjuk kearah akar-akar tanaman.
+
+Si Kucing menyadari bahwa tempat sampah harus disingkirkan agar air tidak tercemar dan membawa ular tersebut ke sebuah tempat terpencil untuk menyembuhkan dirinya sendiri. Setelah itu Si Kucing memeriksa kembali selang, menemukan batu besar yang menghalangi aliran air, dan dengan kekuatannya, mengangkat batu tersebut hingga aliran air terhubung kembali.
+
+
+Keesokan harinya, Kebun Raya terbangun kembali.  Bunga-bunga mekar dengan indah, daun-daun tampak lebih segar, dan serangga-serangga berdengung kembali.  Burung kenari bernyanyi dengan suara ceria. Si Kucing duduk di tengah kebun, memandang keindahan taman yang kembali hidup. Ia tahu bahwa kebahagiaannya terletak pada membantunya dan tidak pernah sendirian.
+
+
+Dengan kasih sayangnya, Si Kucing merawat kebun raya.  Ia membuat sebuah jadwal penyiraman, membuang sampah, dan memastikan keseimbangan ekosistem di kebun.  Si Kucing adalah pahlawan tak terlihat, dan dengan kecerdikannya, ia telah membangkitkan semangat taman.  Kini, Si Kucing dan Kebun Raya menjalani hidup bersama penuh kebahagiaan, diikat oleh ikatan persahabatan yang kuat.
+</body>

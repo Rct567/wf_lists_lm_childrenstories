@@ -1,0 +1,33 @@
+<prompt>
+Please write a creative and original Slovak children's story that is at least 1000 words long.
+It must be completely written in proper Slovak (SK).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Veľká cena za odvahu a statočnosť'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sk</lang_id>
+
+<title>Veľká cena za odvahu a statočnosť</title>
+<body>
+Slnko sa žiarivo usmievalo na rozprávkový les, plný šumivých potokov a farebných kvetov. V srdci lesa, pod majestátnym dubom, stála stará chatrč, kde žila múdra sova menom Sofi. Sofi nebola obyčajná sova. Mala neskutočne krásny hlas, ktorý dokázal oživiť aj najsmutnejšie srdce, a v srdci niesla obrovskú múdrosť, ktorá sa striedala s neobyčajnou odvahou.
+
+Každý rok v deň letného slnovratu sa v lese konala Veľká cena za odvahu a statočnosť.  Zvieratá z celého lesa sa pripravovali na náročné súťaže, ktoré skúšali ich silu, odvahu a múdrosť. Všetci túžili vyhrať túto prestížnu cenu, ktorá bola vyrobená z lesklého kameňa sýtej zelenej farby a bola symbolickým darom pre tie najstatečnejšie duše.
+
+Tento rok sa na súťaži zúčastnil aj malý zajac menom Pip. Pip bol roztomilý, ale bojazlivý.  Dlho sa premýšľal, či sa vôbec zapojí.  Jeho stará mama, múdra zajacica s bielymi fúzikmi, mu povedala: "Pip, odvaha nie je o tom, že nie si bojazlivý, ale o tom, že sa s tým bojazlivosťou vyrovnáš. Každý z nás má svoj tieň, Pip.  Dôležité je, či sa nebojíš vstúpiť do svetla."
+
+Pip sa nad tým zamyslel a nakoniec sa rozhodol.  Po prvej súťaži, kde zvieratá museli prejsť cez divoký, nepokojnú húštinu, v ktorej krikali sovy a prelietavali neznáme dravce, Pip zistil, že je to pre neho príliš náročné.  Jeho srdcičko sa zovrelo zúfaly.  Sova Sofi však sedela na vetve dubu a nezávisle pozorovala jeho boj.
+
+Keď Pip zostal v úzkosti, Sofi sa s jemným zvukom priblížila a povedala tichým hlasom: "Pip, vidím tvoju bojazlivosť, ale vnímam aj tvoju túžbu.  Odvaha nie je o tom, prekonať všetky prekážky, ale o tom, prekonať samého seba." Pip sa naňho pozrel a zistil, že Sofi má pravdu.  V duchu si pomyslel, že keď sa na neho pozrie, tak sa jeho bojazlivosť stáva menšou.
+
+Potom nasledovala súťaž v plnení úloh, ktoré vyžadovali múdrosť. Pip videl, ako sa iné zvieratá snažia a robia chyby.  No zrazu videl slniečko, ktoré svietilo na lesnú cestičku a zacítil vôňu lesných kvetov. Pip sa sústredil a zosilnil svoju zvedavosť.  Prišiel na to, že rozumné odpovede sa niekedy skrývajú v najmenších veciach.
+
+Nakoniec, v poslednej súťaži, zvieratá museli zachrániť zraneného medvedíka.  Pip sa, s odvahou v srdci,  ponáhľal, zdalo sa mu to najdôležitejšou cestou v jeho živote.  Pomáhal medvedíkovi a hoci sa mu zdalo, že to nedokáže, tak predsa len dokázal. Vďaka jeho odhodlaniu sa medvedík uzdravil.
+
+A tak, v deň letného slnovratu, stál Pip pred Sofi, hrdý na svoju statočnosť.  Povedala mu: "Pip, tvoje srdce je plné odvahy a statočnosti, a to je najcennejšia vec, ktorú môžeš mať."  Vtedy Sofi priložila lesklý zelený kameň na Pipove plece a povedala: "Víťazom Veľkej ceny za odvahu a statočnosť je Pip."
+
+Celý les oslavoval. Pip, ktorý bol kedysi bojazlivý zajac, teraz stál hrdý a šťastný.  Rozlúčili sa a od tej doby, bol známy pre celých les ako Pip – odvážny zajac, ktorý dokázal, že odvaha sa rodí z prijatia svojich nedostatkov a z túžby po pomoci druhým.  A tak sa Pip stal symbolom odvahy pre celý les, a jeho meno sa zapísalo do kroník lesa ako významný deň.
+</body>

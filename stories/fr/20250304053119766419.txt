@@ -1,0 +1,47 @@
+<prompt>
+Please write a relatable French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Le Mystère du Chocolat qui Disparaît la Nuit'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>fr</lang_id>
+
+<title>Le Mystère du Chocolat qui Disparaît la Nuit</title>
+<body>Il était une fois, dans une petite ville française, un mystère qui intrigait tous les habitants, en particulier les enfants. Le mystère en question concernait un chocolatier qui vendait les plus délicieux chocolats de la région. Chaque nuit, sans exception, une partie de son stock de chocolats disparaissait. Le chocolatier, M. Dupont, était perplexe et ne savait pas quoi faire pour résoudre ce mystère.
+
+Les enfants de la ville, curieux de nature, décidaient de se lancer dans l'enquête pour élucider ce mystère. Ils formaient un groupe d'amis inséparables, composé de Léa, Thomas, Matthieu et Sophie. Ensemble, ils décidèrent de surveiller la boutique de M. Dupont la nuit pour essayer de découvrir ce qui se passait.
+
+La première nuit, ils se cachèrent derrière un grand arbre situé en face de la boutique. Ils attendirent patiemment, les yeux fixés sur la porte de la boutique, mais rien ne se passa. Ils pensèrent que peut-être le mystère se produisait plus tard dans la nuit, alors ils décidèrent de revenir le lendemain.
+
+Le lendemain soir, ils retournèrent à leur poste d'observation, déterminés à résoudre le mystère. Cette fois-ci, ils virent une silhouette sombre qui se faufilait dans la boutique. Les enfants se regardèrent, excités et un peu effrayés. Qui pouvait bien être cette personne ?
+
+Ils décidèrent de suivre la silhouette pour essayer de découvrir son identité. Ils la suivirent à distance, en prenant soin de ne pas être vus. La silhouette les mena à travers les rues de la ville, jusqu'à une petite maison située à la périphérie.
+
+Les enfants se cachèrent derrière un buisson pour observer la maison. La silhouette entra dans la maison et referma la porte derrière elle. Les enfants attendirent patiemment, essayant de deviner ce qui se passait à l'intérieur.
+
+Soudain, ils entendirent des bruits de pas qui venaient de l'intérieur de la maison. La porte s'ouvrit et la silhouette ressortit, cette fois-ci avec un grand sac à dos. Les enfants reconnurent le sac à dos, c'était le même que celui que portait M. Dupont pour livrer ses chocolats.
+
+Ils décidèrent de suivre la silhouette une fois de plus, pour essayer de découvrir où elle allait. La silhouette les mena à travers la campagne, jusqu'à une grande ferme située à quelques kilomètres de la ville. Les enfants se cachèrent derrière un mur pour observer la ferme.
+
+La silhouette entra dans la ferme et referma la porte derrière elle. Les enfants attendirent patiemment, essayant de deviner ce qui se passait à l'intérieur. Soudain, ils entendirent des bruits de rires et de musique qui venaient de l'intérieur de la ferme.
+
+Les enfants se regardèrent, perplexes. Qu'est-ce que cela signifiait ? Pourquoi la silhouette allait-elle à la ferme avec des chocolats ? Ils décidèrent de rentrer à la ville et de réfléchir à ce qu'ils avaient vu.
+
+Le lendemain, ils retournèrent à la boutique de M. Dupont pour lui raconter ce qu'ils avaient découvert. M. Dupont les écouta attentivement, un grand sourire sur le visage. Lorsqu'ils eurent terminé, il leur expliqua que la silhouette sombre était en réalité son propre frère, qui avait ouvert une école de danse à la ferme.
+
+Chaque nuit, il prenait des chocolats à la boutique pour les offrir aux enfants qui venaient prendre des cours de danse. Les chocolats étaient un moyen de les récompenser pour leur travail acharné et leur passion pour la danse. M. Dupont était fier de son frère et de l'école de danse qu'il avait créée.
+
+Les enfants furent ravis de découvrir la vérité behind le mystère. Ils décidèrent de rendre visite à l'école de danse pour rencontrer les enfants qui prenaient des cours. Lorsqu'ils arrivèrent à la ferme, ils furent accueillis chaleureusement par M. Dupont et son frère.
+
+Ils assistèrent à un cours de danse et furent impressionnés par la passion et l'énergie des enfants. Ils comprirent que les chocolats n'étaient pas seulement un moyen de récompenser les enfants, mais également un moyen de les motiver à poursuivre leurs passions.
+
+Les enfants retournèrent à la ville, heureux d'avoir résolu le mystère et d'avoir découvert l'histoire de l'école de danse. Ils racontèrent à tous leurs amis ce qu'ils avaient découvert et encouragèrent les autres à rendre visite à l'école de danse.
+
+À partir de ce jour, l'école de danse devint un lieu de rencontre pour les enfants de la ville. Ils allaient à la ferme pour prendre des cours de danse et pour partager des moments de joie et de bonheur. Les chocolats de M. Dupont devinrent un symbole de la passion et de la créativité qui animaient les enfants de la ville.
+
+Et ainsi, le mystère du chocolat qui disparaissait la nuit fut résolu, mais il laissa place à une histoire encore plus belle et plus significative. Les enfants de la ville apprirent que parfois, les mystères les plus intrigants cachent des histoires de passion, de créativité et de joie. Et ils retinrent que les chocolats, même s'ils sont délicieux, peuvent également être un moyen de partager des moments de bonheur et de connexion avec les autres.</body>

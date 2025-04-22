@@ -1,0 +1,66 @@
+<prompt>
+Please write a silly Welsh children's story that is at least 1000 words long.
+It must be completely written in proper Welsh (CY).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Y Ffarm Fawr a'r Anifeiliaid Cynddeig'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>cy</lang_id>
+
+<title>Y Ffarm Fawr a'r Anifeiliaid Cynddeig</title><body>
+Roedd unwaith, ym Mhowys, ffarm enfawr. Nid ffarm gyffredin oedd hi, na! Ffarm Fawr oedd hi, gyda llawer o goed, llawer o gaeau, a llawer o anifeiliaid. Ond nid anifeiliaid cyffredin chwaith! Roedd yr anifeiliaid yma yn... yn... yn gynddeig!
+
+Un o'r anifeiliaid cynddeigaf oedd Dafydd y Ddafad. Roedd Dafydd yn ddafad wen, ond roedd ganddo wallt hir, blewog, fel gwallt dyn. Ac roedd Dafydd yn hoffi canu! Nid canu'r gân "Baa, Baa, Defaid Duon" chwaith. Roedd Dafydd yn hoffi canu caneuon opera! Roedd yn sefyll ar ben y clogwyn, gyda'i geg ar agor, a'i lais yn llenwi'r dyffryn. "O sole mio!" byddai'n sgrechian, a'r gwartheg i gyd yn rhedeg am eu bywydau.
+
+Yna roedd Mari y Mochyn. Mari oedd yn hoffi chwarae pêl-droed. Nid pêl-droed gyda'i goesau, na! Roedd Mari yn defnyddio ei thrwyn! Byddai'n rhedeg ar hyd a lled y cae, yn gwthio'r bêl gyda'i thrwyn, ac yn sgorio gôl ar ôl gôl. Byddai'r cywion i gyd yn ebychu, "Bravo, Mari!" a byddai'r ceffylau yn chwerthin yn uchel.
+
+Ac yna, roedd Siôn y Ceiliog. Roedd Siôn yn ceiliog mawr, coch, ond roedd ganddo un peth arbennig: roedd yn siarad Cymraeg! Bob bore, byddai'n codi'n gynnar, yn mynd i ben y tŷ, ac yn galw, "Bore da, bawb! Sut mae'r tywydd?" Byddai'r anifeiliaid i gyd yn ateb, "Da iawn, Siôn!" ac roedd y dydd yn dechrau'n dda.
+
+Un diwrnod, daeth rhywbeth rhyfedd i'r ffarm. Daeth... peiriant! Peiriant mawr, sgleiniog, gyda llawer o fotymau a goleuadau. Roedd y peiriant yn perthyn i Mr. Jones, y ffermwr. Roedd Mr. Jones yn dweud, "Dyma'r peiriant mwyaf newydd, mae'n gallu gwneud popeth! Bydd yn gwneud y fferm yn haws!"
+
+Roedd yr anifeiliaid yn edrych ar y peiriant gyda syndod. "Beth yw hwn?" gofynnodd Dafydd y Ddafad. "Ydy e'n gallu canu opera?"
+
+"Na," atebodd Mr. Jones. "Ond mae'n gallu torri gwair, bwydo'r anifeiliaid, a hyd yn oed olchi'r llestri!"
+
+Roedd Mari y Mochyn yn chwyddo ei thrwyn. "Dwi'n hoffi golchi'r llestri!" meddai. "Mae'n hwyl!"
+
+Roedd Siôn y Ceiliog yn crychu ei aeliau. "Ond beth am y boreau? Pwy fydd yn dweud 'Bore da'?"
+
+Dechreuodd Mr. Jones ddefnyddio'r peiriant i wneud y gwaith ar y fferm. Roedd y peiriant yn torri'r gwair, yn bwydo'r anifeiliaid, ac yn golchi'r llestri. Roedd popeth yn mynd yn gyflymach, yn haws, ac yn fwy effeithlon. Ond roedd rhywbeth ar goll.
+
+Roedd Dafydd y Ddafad yn teimlo'n drist. Doedd neb yn gwrando ar ei ganu opera. Roedd y gwartheg i gyd yn cael eu bwydo gan y peiriant, ac doedden nhw ddim yn poeni am y canu.
+
+Roedd Mari y Mochyn yn teimlo'n ddiflas. Doedd neb yn chwarae pêl-droed gyda hi. Roedd y peiriant yn gwneud y gwaith i gyd, ac roedd hi'n eistedd ar ei phen ei hun.
+
+Roedd Siôn y Ceiliog yn teimlo'n unig. Doedd neb yn ateb ei gyfarchiad boreol. Roedd y peiriant yn codi'r anifeiliaid i gyd, ac roedd y fferm yn dawel.
+
+Un diwrnod, stopiodd y peiriant. Dim mwy o dorri gwair, dim mwy o fwydo, dim mwy o olchi llestri. Roedd Mr. Jones yn cael trafferth. "Mae'r peiriant wedi torri!" llefodd. "Rhaid i mi ei drwsio!"
+
+Edrychodd Dafydd, Mari, a Siôn ar ei gilydd. "Efallai," meddai Dafydd, "y gallwn ni helpu."
+
+Aeth Dafydd i ben y clogwyn. "O sole mio!" sgrechiodd, a dechreuodd y gwartheg i gyd redeg.
+
+Aeth Mari i'r cae. "Rhaid i ni chwarae pêl-droed!" meddai, a dechreuodd wthio'r bêl gyda'i thrwyn.
+
+Aeth Siôn i ben y tŷ. "Bore da, bawb!" galwodd, a dechreuodd yr anifeiliaid i gyd ateb.
+
+Gweithiodd yr anifeiliaid gyda'i gilydd. Gwnaeth Dafydd y gwair i gyd, chwaraeodd Mari pêl-droed i'r anifeiliaid, a dywedodd Siôn 'Bore da' i bawb. Roedd y fferm yn fyw eto!
+
+Roedd Mr. Jones yn edrych ar yr anifeiliaid gyda syndod. "Rydych chi'n gwneud gwaith y peiriant!" meddai.
+
+"Ydym," atebodd Dafydd. "Ond rydym yn gwneud mwy na hynny. Rydym yn gwneud y fferm yn hwyl!"
+
+"Ydym," atebodd Mari. "Rydym yn gwneud y fferm yn gyfeillgar!"
+
+"Ydym," atebodd Siôn. "Rydym yn gwneud y fferm yn Gymraeg!"
+
+Deallodd Mr. Jones. Roedd y peiriant yn dda, ond nid oedd yn gallu gwneud yr hyn oedd yn wirioneddol bwysig. Roedd yr anifeiliaid cynddeig yn gwneud y fferm yn arbennig.
+
+Trwsiodd Mr. Jones y peiriant. Ond ni ddefnyddiodd ef cymaint ag o'r blaen. Gadawodd i Dafydd ganu, i Mari chwarae, ac i Siôn siarad. Gwnaeth y peiriant y gwaith caled, a gwnaeth yr anifeiliaid y gwaith hwyliog.
+
+Ac felly, parhaodd y Ffarm Fawr i fod yn lle arbennig. Roedd y peiriant yn gwneud ei waith, ond roedd yr anifeiliaid cynddeig yn gwneud y fferm yn lle i fod. Ac bob bore, byddai Siôn y Ceiliog yn galw, "Bore da, bawb! Sut mae'r tywydd?" ac roedd y dydd yn dechrau'n dda, yn wirioneddol dda.
+</body>

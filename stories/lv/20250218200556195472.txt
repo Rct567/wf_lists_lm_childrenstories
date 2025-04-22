@@ -1,0 +1,47 @@
+<prompt>
+Please write a creative and original Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Divi brāļi un viena māsa'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lv</lang_id>
+
+<title>Divi brāļi un viena māsa</title>
+<body>
+Rīgas ielās, starp krāšņajām ēkām un rosīgajiem cilvēkiem, dzīvoja divi brāļi un viena māsa.  Jānis, vecākais brālis, bija kā mazs, brūns lācēns –  vienmēr mierīgs un ar lielu interesi par apkārt notiekošo.  Pēteris, jaunākais brālis, bija kā mazs, zaļš putniņš –  enerģisks un nemitīgi kustīgs, ar nebeidzamu spēju atrast jaunas rotaļas.  Un tad bija Laura, skaistā māsa, ar acīm kā zilām pavasara debesīm, kas raudzījās uz pasauli ar dziļu sapratni.
+
+Viņi dzīvoja mazā, mājīgā dzīvoklī, kas bija pilns ar mīlestību un smiekliem.  Katru dienu, kad Jānis atgriezās no skolas, viņš atrada Pēteri rotaļājamies ar kādu jaunu izdomu, un Laura sēdēja pie loga, lasot grāmatu, kas pilna ar piedzīvojumiem un noslēpumiem.  Viņu māmiņa, ar rokām kā zelta lapām, gatavoja gardus ēdienus, un tētis, ar smaidu kā saule, lasīja viņiem pasakas vakaros.
+
+Bet vienu dienu, kaut kas neparasts notika.  Rīgas debesis, kas parasti bija zilas un skaidras kā kristāls, ieplīsa mākoņos, un pilsēta ietērpa melna drānā.  Lietus lejās kā no ūdens krāna, un pilsētas ielas bija pārklātas ar dīvainu, spīdošu plēvi.  Bērni skraidīja pa ielām, un šņākšana un kliegšana bija dzirdama no katras mutes.
+
+"Kas notiek?" jautāja Jānis,  skatoties no loga uz nemieru pilsētā.
+
+"Es nezinu," atbildēja Laura,  ar nemiera pilnu balsi.
+
+Pēteris, pārspīlēti satraukts, kliedza: "Mēs esam nonākuši burvju zemē!"
+
+Tad Jānis, ar savu mierīgo prātu, izdomāja: "Iet meklēt atbildes!"
+
+Viņi uzsāka ceļojumu.  Viņi iet cauri dīvainai, miglainas pilsētas ekai, meklējot ceļu uz gaišāku vietu.  Viņi satikušies ar dīvainām radībām – putniem ar zivju galvām un zivīm ar putnu spārniem.  Viņi iepazījuši zaļus, bālganus zvērus un dzirdējuši skaņas, kas atgādināja nezināmas valodas.
+
+Viņi iet cauri meža, kur koki bija no zelta un ziedi izgatavoti no kristāla.  Viņi redzēja upi, kas plūda atpakaļ uz leju un ūdens bija kā spožs, spīdošs dārgakmens.
+
+Beidzot, viņi atrada vecāku, gudru čūsku.  Čūska, ar acīm kā spoži stari, stāvēja uz kalna virsotnes, skatoties uz pasauli.
+
+"Kas ir noticis ar mūsu pasauli?" jautāja Jānis, ar bailes un interesi savā balsī.
+
+"Jūs esat nonākuši spoguļu pasaulē," mierīgi atbildēja čūska. "Spoguļu pasaulē, kur viss ir pārvērsts par savu pretējo. Lietus ir kā spoguļa attēls, kas spoguļo sauli un debesis.  Lai atgrieztos mājās, jūs varat atbrīvot pasauli, kas ir noņēmusi apziņu un iet mierā, ar sauli un zvaigznēm."
+
+"Kā?" jautāja Laura.
+
+"Katrs no jums atklājot savu spēku, savas iekšējās domas un spējas. Jānis, tava mierīgā sirds var atgriezties atpakaļ mieru debesīs, Pēteris, tava nemierīga dvēsele var atgriezties atpakaļ savā mājā, un Laura, ar savām zilajām debesīm, var atklāt ceļu uz spoguļu pasaules atbrīvošanu."
+
+Un tā,  brāļi un māsa, izmantojot savas īpašības, atbrīvoja pasauli no spoguļu pasaules dzesuma, noņemot apziņas plēvi, kas slēpa pasauli.  Lietus pārvērtās par sauli, migla pazuda, un atkal parādījās zilas debesis.  Pilsēta atkal kļuva mājīga un skaista.
+
+Viņi atgriezās savā mājās, apskauti ar ģimenes locekļiem un priecīgi, ka bija pieveikuši spoguļu pasaules noslēpumus.  No tā dienas viņi saprata, ka katrs no viņiem ir unikāls un svarīgs, un ka kopā viņi var pieveikt jebko.  Un tā viņi turpināja dzīvot, katrs savā veidā, atklājot jaunas iespējas un piedzīvojot pasauli.
+</body>

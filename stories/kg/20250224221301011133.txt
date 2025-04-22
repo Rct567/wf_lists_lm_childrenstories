@@ -1,0 +1,59 @@
+<prompt>
+Please write a dialog-based Kongo children's story that is at least 1000 words long.
+It must be completely written in proper Kongo (KG).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Ku Nsuka Ku Mfumu Ya Ngulu'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>kg</lang_id>
+
+<title>Ku Nsuka Ku Mfumu Ya Ngulu</title>
+<body>
+Ntinu Mfumu Nkosi, yandi mosi, wa vandaka na nzo ya nene mpi ya kitoko. Yandi vandaka na ngulu ya nene, ya kitoko, ya mbote, zina na yo kele Mbuta. Mbuta vandaka na mawa mingi mpi yandi vandaka kuzola bantu mingi.
+
+"Mbuta," Mfumu Nkosi tubilaka, "nki mutindu nge ke mona?"
+
+"Mfumu," Mbuta tubilaka, "mono ke mona bima ya mbote. Mono ke mona bana ya nzo yai ya kitoko, bonso ngulu ya mbote."
+
+"Mbuta," Mfumu Nkosi tubilaka diaka, "kuenda na mbuta ya nzo yai mpi kutuba na bo nde: 'Nzo yai ya kitoko kele na mawa, mpi mono ke wa nde bana ya nzo yai ke wa."
+
+Mbuta yulaka, "Nki mutindu mono fwete tuba na bo?"
+
+Mfumu Nkosi tubilaka, "Tuba nde, 'Nzo yai ya kitoko, ke na mawa mingi, mpi bana ya nzo yai ke wa nde nzo yai kele na mawa.'"
+
+Mbuta kwendaka na nzo yonso, mpi yandi tubilaka bonso Mfumu Nkosi tubilaka.
+
+"Nzo yai ya kitoko, ke na mawa mingi, mpi bana ya nzo yai ke wa nde nzo yai kele na mawa," Mbuta tubilaka.
+
+Bana ya nzo yina, bo yonso, kuvandaka na mawa. Bo vandaka kudiwa nde bo kele na mawa mingi. Bo yonso vandaka kuzola Mbuta, sambu yandi vandaka na mawa mingi.
+
+"Mbuta, nge kele na nki mawa?" Bana yonso yulaka.
+
+"Mono ke mona bima ya mbote, kansi mono ke mona bantu ya nzo yai ya kitoko ke na mawa mingi. Mono ke wa nde bana ya nzo yai ke wa nde nzo yai kele na mawa," Mbuta tubilaka.
+
+"Inki mutindu beto lenda sala sambu na kuvanda na mawa diaka ve?"  Mosi ya bana yonso yulaka.
+
+"Beto fwete vanda na kiese mpi beto fwete vanda na luzingu ya mbote. Beto fwete sala bisalu ya mbote, mpi beto fwete vanda na ntima ya kitoko. Beto fwete wa nde nzo yai kele na kiese," Mbuta tubilaka.
+
+Bana yonso lombaka Mfumu Nkosi sambu yandi pesa bo bisalu ya mbote.
+
+"Mfumu," Bana tubilaka, "pesa beto bisalu ya mbote, beto ke wa nde nzo yai ke na mawa mingi."
+
+"Mwisa, bana," Mfumu Nkosi tubilaka, "mono ta pesa beno bisalu ya mbote. Beno lenda sala bisalu ya kudiyangisa, bisalu ya kudiyangisa na nzo yai ya kitoko."
+
+Bana kwendaka kutuba na mbuta nde, "Mfumu Nkosi me pesa beto bisalu ya mbote. Beto lenda sala bisalu ya kudiyangisa, bisalu ya kudiyangisa na nzo yai ya kitoko. Beto ta wa nde nzo yai ya kitoko kele na kiese."
+
+Bana kusala bisalu ya mbote, mpi bo yonso vandaka na kiese. Bo vandaka na nzo ya kitoko. Nzo ya Mfumu Nkosi vandaka na kiese.
+
+"Mbuta," Mfumu Nkosi tubilaka, "nki mutindu nge ke mona?"
+
+"Mfumu," Mbuta tubilaka, "mono ke mona bima ya mbote. Mono ke mona bana ya nzo yai ya kitoko, bonso ngulu ya mbote, mpi mono ke mona nde bo kele na kiese. Nzo yai me luta na mawa mpi me luta na nsuka."
+
+"Nsuka ya mbote," Mfumu Nkosi tubilaka. "Nsuka ya mbote."
+
+Mbuta vandaka na kiese. Bana vandaka na kiese. Nzo ya Mfumu Nkosi vandaka na kiese.  Bima ya mbote, bo yonso, vandaka na kiese.  Nsuka ya Mfumu ya Ngulu vandaka mbote.
+</body>

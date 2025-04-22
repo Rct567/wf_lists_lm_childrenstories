@@ -1,0 +1,35 @@
+<prompt>
+Please write a emotional Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Chuyến Phiêu Lưu Của Chú Ếch Con Đến Thành Phố'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>vi</lang_id>
+
+<title>Chuyến Phiêu Lưu Của Chú Ếch Con Đến Thành Phố</title>
+<body>
+Cậu ếch con tên là Tí, có đôi mắt tròn đen lóng lánh như hai viên ngọc. Tí sống trong một cái ao nhỏ, yên bình nằm giữa những cánh đồng lúa xanh mướt.  Những ngày tháng của Tí trôi qua êm đềm với tiếng ve kêu râm ran, tiếng chim hót líu lo và những cơn gió nhẹ nhàng lướt qua mặt nước. Tí thích nhất là được ngắm những bông hoa sen nở rộ, màu hồng phấn lung linh dưới ánh nắng mặt trời.  Nhưng Tí luôn cảm thấy một chút gì đó… thiếu vắng.  Những câu chuyện về thành phố xa xôi, với những tòa nhà cao tầng và những con đường tấp nập, luôn làm Tí mơ mộng.
+
+Một buổi chiều, khi mặt trời bắt đầu lặn, nhuộm cả bầu trời thành màu đỏ cam rực rỡ, Tí nghe thấy tiếng nói chuyện của những con ếch khác. Họ đang bàn tán về một con đường dài, một con đường dẫn đến thành phố sôi động, nơi có những chiếc cầu vồng đầy màu sắc và những con đường lát đá hoa cương.  Những câu chuyện ấy như một lời mời gọi, thôi thúc Tí muốn được khám phá thế giới bên ngoài.
+
+Tí quyết định lên đường.  Chuyến đi của Tí không hề dễ dàng.  Con đường dài ngoằn ngoèo, đầy chông gai.  Tí phải vượt qua những con suối cuồn cuộn, những cánh đồng rộng mênh mông và những cánh rừng rậm rạp.  Dọc đường, Tí gặp rất nhiều khó khăn.  Có những lúc, Tí cảm thấy mệt mỏi, muốn quay trở về cái ao nhỏ quen thuộc.  Nhưng hình ảnh thành phố, với những tòa nhà cao tầng và những con đường tấp nập, vẫn thôi thúc Tí bước tiếp.
+
+Một hôm, Tí lạc đường.  Tí bơ vơ giữa một mê cung của những con đường không lối thoát.  Tí khóc, nước mắt rơi xuống như những hạt mưa nhỏ.  Tí nhớ đến mẹ, nhớ đến những người bạn thân thiết trong ao.  Tí nhớ đến những bông hoa sen, đến tiếng ve kêu và đến cả mùi thơm của lúa chín.  Lúc đó, Tí chợt nhớ đến lời mẹ dạy: "Dù gặp khó khăn đến đâu, con cũng đừng bao giờ từ bỏ."
+
+Tí hít một hơi thật sâu, lấy lại can đảm và tiếp tục tìm đường.  Và rồi, may mắn thay, Tí nhìn thấy một con đường nhỏ dẫn đến một con suối.  Dọc theo con suối, Tí gặp một chú rùa già, mắt sáng ngời kinh nghiệm.  Chú rùa nghe Tí kể về hành trình của mình và khuyên Tí hãy kiên trì.  Chú rùa cho Tí một chiếc lá sen nhỏ, nói rằng chiếc lá sẽ giúp Tí tìm được đường về.  Tí cảm thấy ấm lòng khi được sự giúp đỡ của chú rùa.
+
+Cuối cùng, sau bao nhiêu gian nan, Tí cũng đến được thành phố.  Thành phố thật náo nhiệt, tấp nập người qua lại.  Tí ngỡ ngàng trước những tòa nhà cao tầng, những con đường rộng lớn và những chiếc ô tô chạy vun vút.  Nhưng Tí không hề cảm thấy hào nhoáng hay xa lạ.  Tí thấy một chút gì đó… quen thuộc trong những âm thanh, trong những mùi hương của thành phố.
+
+Tuy nhiên, Tí không tìm thấy những chiếc cầu vồng đầy màu sắc như những gì mình đã nghe kể. Tí cũng không tìm thấy những con đường lát đá hoa cương.  Thành phố không phải như những gì Tí tưởng tượng.  Tí cảm thấy một chút thất vọng.  Tí nhớ đến cái ao nhỏ yên bình, đến những người bạn thân thiết, đến những bông hoa sen…
+
+Trong lúc buồn bã, Tí gặp một người đàn ông đang vẽ tranh.  Người đàn ông nhìn thấy sự buồn bã trên khuôn mặt của Tí và hỏi: "Con đang buồn về điều gì?"  Tí kể cho người đàn ông nghe về hành trình của mình và về sự thất vọng của mình.  Người đàn ông mỉm cười và nói: "Thành phố không phải là những gì con tưởng tượng.  Thành phố là sự kết hợp của nhiều điều khác nhau, nhiều câu chuyện khác nhau.  Mỗi người đều có một câu chuyện riêng, và mỗi câu chuyện đều là một phần của thành phố."
+
+Tí chợt hiểu ra.  Thành phố không phải là một điểm đến, mà là một hành trình.  Tí không cần những chiếc cầu vồng đầy màu sắc hay những con đường lát đá hoa cương.  Tí đã tìm thấy những điều quý giá hơn: sự kiên trì, sự lạc quan và sự hiểu biết về thế giới bên ngoài.
+
+Tí quyết định ở lại thành phố một thời gian.  Tí học hỏi, khám phá và làm quen với cuộc sống ở đây.  Tí nhận ra rằng, dù ở bất cứ đâu, thì tình bạn, sự quan tâm và sự kiên trì sẽ giúp Tí vượt qua mọi thử thách.  Và rồi, một ngày đẹp trời, Tí quay về cái ao nhỏ của mình, với một trái tim đầy kỉ niệm và với một tâm hồn giàu có hơn.  Tí đã không chỉ khám phá thành phố, mà còn khám phá chính mình.
+</body>

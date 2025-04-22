@@ -1,0 +1,73 @@
+<prompt>
+Please write a funny Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Những Trò Chơi Hài Hước Của Lũ Chuột Nhí Nhảnh'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>vi</lang_id>
+
+```xml
+<title>Những Trò Chơi Hài Hước Của Lũ Chuột Nhí Nhảnh</title>
+<body>
+Ở một ngôi làng nhỏ, nép mình bên dòng sông Cầu thơ mộng, có một gia đình chuột nhắt vô cùng đặc biệt. Không giống như những người họ hàng rụt rè, thích ẩn mình trong bóng tối, lũ chuột nhắt này lại vô cùng tinh nghịch, thích khám phá và luôn tìm tòi những trò chơi oái ăm. Bố của chúng, bác Tí Hon, là một chú chuột già với bộ râu dài, luôn than phiền về sự hiếu động của đàn con. Mẹ của chúng, cô Tý Nhanh, lại là một bà mẹ hiền lành, luôn ủng hộ sự sáng tạo của các con, chỉ cần chúng không gây rắc rối quá lớn.
+
+Đàn chuột nhắt này gồm có năm anh em, mỗi đứa một tính cách, một sở thích. Anh cả là Tí Mập, tuy mập mạp nhưng lại rất nhanh nhẹn và thích trêu chọc em út. Chị hai là Tý Xinh, cô nàng điệu đà, thích làm đẹp và hay mơ mộng. Anh ba là Tí Lười, cậu ta thích ăn, thích ngủ và đặc biệt thích bắt chước những gì người khác làm. Chị tư là Tý Ranh, cô bé thông minh, luôn nghĩ ra những trò chơi độc đáo. Và cuối cùng là Tí Tũn, cậu em út tinh nghịch, thích khám phá mọi thứ xung quanh.
+
+Một buổi sáng đẹp trời, khi ánh nắng vàng rực rỡ chiếu vào khu vườn sau nhà, cả lũ chuột nhắt tụ tập dưới gốc cây xoài cổ thụ, bắt đầu lên kế hoạch cho một ngày vui chơi.
+
+"Hôm nay chúng ta chơi gì bây giờ nhỉ?" - Tí Xinh hỏi, tay vừa vuốt nhẹ bộ râu trắng muốt của mình.
+
+"Em nghĩ chúng ta nên tổ chức một cuộc thi ăn phở! Ai ăn nhanh nhất sẽ là người chiến thắng!" - Tí Lười đề xuất, mắt sáng rỡ vì tưởng tượng đến những tô phở thơm ngon.
+
+"Không, không, nhàm chán quá!" - Tí Ranh phản đối, lắc đầu lia lịa. "Em nghĩ chúng ta nên thi nhau sáng tạo một bài hát! Bài hát nào hay nhất sẽ được nhận giải thưởng là một miếng bánh phô mai!"
+
+"Ý kiến hay đấy!" - Cả đám đồng thanh.
+
+Thế là cuộc thi sáng tạo âm nhạc bắt đầu. Tí Mập, vì muốn nhanh chóng giành chiến thắng, quyết định bắt chước tiếng mèo kêu để làm thành một bài hát. Tuy nhiên, vì anh chàng quá vụng về, tiếng kêu của anh nghe chẳng khác gì tiếng rên rỉ của một người bị đau bụng.
+
+Tí Xinh thì cố gắng tạo ra một bản tình ca bằng cách hát về tình yêu của mình với một bông hoa hồng. Bài hát của cô bé ngọt ngào và du dương, nhưng lại bị vấp váp bởi những từ láy lặp đi lặp lại.
+
+Tí Lười, sau khi ăn hết một tô phở bò bí mật, liền nằm dài dưới gốc cây và ngáy khò khè. Cậu ta quên bẵng cả cuộc thi.
+
+Tí Ranh thì thông minh hơn cả. Cô bé đã dùng tiếng kêu của các loài chim để làm nên một bài hát về khu vườn. Bài hát của cô bé vừa vui nhộn, lại vừa giàu cảm xúc.
+
+Riêng Tí Tũn, cậu em út nhỏ nhắn, lại tìm thấy một cái trống tự chế từ một vỏ quả dừa. Cậu bé vừa đánh trống vừa hát một bài hát về những con côn trùng.
+
+Kết quả cuối cùng, Tí Ranh giành chiến thắng với bài hát về khu vườn, còn Tí Lười được nhận giải đặc biệt vì… đã làm bài hát buồn ngủ nhất!
+
+Nhưng niềm vui của lũ chuột nhắt chưa dừng lại ở đó. Sau khi kết thúc cuộc thi âm nhạc, Tí Ranh lại nghĩ ra một trò chơi mới, đó là "cuộc thi tài năng". Mỗi thành viên trong gia đình chuột sẽ phải thể hiện một tài năng đặc biệt của mình.
+
+Tí Mập, mặc dù không hát hay nhưng lại có tài leo trèo rất giỏi. Anh ta đã nhanh chóng trèo lên ngọn cây xoài, hái xuống một quả xoài to bự, khiến cả nhà phải tròn mắt kinh ngạc.
+
+Tí Xinh, với vẻ ngoài xinh đẹp, đã biểu diễn một màn múa bụng duyên dáng với những chiếc lá me xanh làm đạo cụ.
+
+Tí Lười, mặc dù lười biếng nhưng lại có thể… ngủ rất say. Anh ta đã nằm ngủ trên một chiếc võng được làm từ lá cây và ngáy vang cả khu vườn.
+
+Tí Ranh thể hiện tài năng kể chuyện. Cô bé đã kể một câu chuyện về một chú sâu bướm biến thành bướm, khiến cả nhà say mê lắng nghe.
+
+Riêng Tí Tũn, với sự tinh nghịch của mình, lại có thể chui vào một chiếc ống tre và nhả ra những tiếng kêu kỳ lạ, khiến mọi người bật cười sảng khoái.
+
+Ngày hôm đó, cả lũ chuột nhắt đã có một ngày vui chơi quên cả thời gian. Tiếng cười nói vang vọng khắp khu vườn. Dù có những trò chơi thất bại, nhưng tình yêu thương và sự gắn kết giữa các thành viên trong gia đình chuột vẫn luôn là điều quan trọng nhất.
+
+Buổi tối, khi ánh trăng lung linh chiếu sáng, lũ chuột nhắt quây quần bên nhau, chia sẻ những câu chuyện hài hước về những trò chơi đã diễn ra. Bác Tí Hon, dù có than phiền về sự nghịch ngợm của con cháu, nhưng trong lòng lại vô cùng tự hào về tình yêu thương và sự đoàn kết của gia đình. Cô Tý Nhanh thì luôn tươi cười nhìn lũ trẻ vui chơi, biết rằng, những kỷ niệm này sẽ là những khoảnh khắc đáng nhớ nhất trong cuộc đời của chúng.
+
+Một hôm khác, Tí Mập lại bày trò. Anh ta muốn thử tài… làm ảo thuật! Anh chàng lấy một chiếc khăn tay, vò nát nó, rồi dùng giọng nói trầm ấm, "Biến! Biến! Biến!". Nhưng chiếc khăn tay vẫn y nguyên. Tí Mập thử đi thử lại hàng chục lần, nhưng vẫn không thành công. Cả lũ chuột nhắt được một trận cười no bụng.
+
+Đến lượt Tí Xinh. Cô nàng muốn làm một chiếc bánh gato thật to để đãi cả nhà. Cô bé tỉ mẩn trộn bột, đánh trứng, nướng bánh. Nhưng sau khi bánh ra lò, thay vì một chiếc bánh gato đẹp đẽ, lại là một chiếc bánh… méo mó và cháy đen ở một số chỗ! Tuy nhiên, tất cả đều ăn rất ngon miệng, đặc biệt là phần bị cháy, vì nó tạo ra một hương vị đặc biệt!
+
+Tí Lười, sau khi ăn hết một tô mì tôm, quyết định làm một tác phẩm điêu khắc bằng mì tôm! Anh ta tỉ mỉ tạo hình, nhưng cuối cùng, tác phẩm của anh chàng lại trông giống như một đống mì tôm rối bời!
+
+Tí Ranh, với sự thông minh của mình, đã nghĩ ra một trò chơi mang tên "Truy tìm kho báu". Cô bé đã giấu những viên kẹo socola khắp khu vườn và đưa ra những manh mối để cả nhà tìm kiếm. Kết quả, cả nhà đã có một buổi chiều náo nhiệt đi tìm kẹo.
+
+Còn Tí Tũn thì thích khám phá những điều mới lạ. Cậu bé đã phát hiện ra một tổ kiến. Tò mò, cậu bé đã chọc vào tổ kiến bằng một chiếc que. Kết quả là cả đàn kiến tràn ra, đuổi theo cậu bé chạy vòng quanh khu vườn!
+
+Những trò chơi của lũ chuột nhắt cứ thế diễn ra liên tục, mỗi ngày một trò, mỗi trò một sự bất ngờ. Dù đôi khi có những trò chơi thất bại, những kết quả dở khóc dở cười, nhưng quan trọng nhất vẫn là tình yêu thương và tiếng cười luôn hiện diện trong ngôi nhà nhỏ bé của gia đình chuột nhắt.
+
+Và thế là, lũ chuột nhắt cứ lớn lên, mỗi ngày một trưởng thành hơn, nhưng vẫn giữ mãi trong tim những kỷ niệm về những trò chơi hài hước, nghịch ngợm, đầy màu sắc của tuổi thơ. Câu chuyện về chúng vẫn còn được kể mãi, như một bài ca về tình yêu thương, sự đoàn kết và tinh thần lạc quan, yêu đời của một gia đình chuột nhắt nhí nhảnh.
+</body>
+```

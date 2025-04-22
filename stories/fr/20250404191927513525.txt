@@ -1,0 +1,123 @@
+<prompt>
+Please write a dialog-based French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La Clé Perdue et l'Ouverture vers un Royaume Merveilleux.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```xml
+<title>La Clé Perdue et l'Ouverture vers un Royaume Merveilleux.</title>
+<body>
+— Oh là là ! Où est-elle passée ? C’est incroyable !
+
+Une petite voix aiguë, celle de Sophie, résonnait dans le grenier poussiéreux. Elle cherchait désespérément.
+
+— Quoi, Sophie ? Qu'est-ce que tu cherches ? demanda son frère aîné, Thomas, qui était venu la rejoindre, curieux.
+
+— La clé ! Ma clé magique ! Je ne la trouve plus ! Elle doit être ici, je l'ai vue hier… expliqua Sophie, les larmes aux yeux.
+
+— La clé magique ? Tu plaisantes ? dit Thomas, amusé. Ça n’existe pas, ça. Qu’est-ce que c’est que cette clé, d’ailleurs ?
+
+— C’est la clé qui ouvre le coffre ! Et dans le coffre, il y a… il y a tout ce qu’on peut imaginer ! répondit Sophie, mystérieuse. Ma grand-mère me l'a donnée avant de partir, et elle m'a dit qu'elle ouvrait les portes vers l'imaginaire...
+
+— Le coffre de ta grand-mère ? Tu parles du vieux coffre en bois qu'on n'a jamais réussi à ouvrir ? ajouta Thomas, les yeux qui brillaient un peu. J'avais oublié ce coffre...
+
+Sophie hocha la tête, confirmant. Elle avait hérité ce coffre et cette clé de sa grand-mère bien-aimée, et elle n'avait jamais osé utiliser la clé, par crainte de gâcher quelque chose. Maintenant, le mystère l’appelait.
+
+— Tu l’as bien cherchée ? demande Thomas, jetant un regard circulaire dans le grenier.
+
+— Partout ! Sous les boîtes, derrière les vieux meubles… C'est pourtant là que je l'ai mise, la veille. Sur ce coussin en velours rouge.
+
+Thomas l'aida à chercher. Ils soulevèrent des cartons remplis de vieux jouets, balayèrent la poussière qui flottait dans l'air, et explorèrent tous les recoins.
+
+— Rien, toujours rien… soupira Sophie, découragée.
+
+Soudain, Thomas aperçut quelque chose de brillant sous une pile de vieux journaux. Il se pencha et l’attrapa.
+
+— Tiens, Sophie ! Regarde ! s'exclama-t-il, montrant une petite clé dorée, ornée de motifs étranges.
+
+Le cœur de Sophie fit un bond. C'était elle ! La clé magique !
+
+— Oh, Thomas ! Tu l'as trouvée ! Merci, merci beaucoup ! s'écria Sophie, rayonnante de joie.
+
+Ils retournèrent en courant dans la chambre de Sophie, où le coffre en bois était resté depuis l'héritage. Le coffre était orné de sculptures et de petites ferrures. La serrure, rouillée par le temps, semblait n'attendre que cette clé.
+
+Sophie inséra la clé dans la serrure. Elle tourna doucement… et un petit "clic" retentit. La serrure s'ouvrit !
+
+Le couvercle grinça quand ils l'ouvrirent lentement. Ils s'attendaient peut-être à trouver des jouets anciens ou des trésors familiaux. Mais à l'intérieur... il n'y avait que de la lumière ! Une lumière chaude et dorée, qui les enveloppa.
+
+— Wouah… dit Thomas, ébahi. Qu’est-ce que c’est que ça ?
+
+Sophie hésita un instant, puis elle tendit la main vers la lumière.
+
+— Je… je crois que c'est l'ouverture...vers le royaume ! dit-elle, un peu tremblante.
+
+Elle se pencha et pénétra dans la lumière. Thomas, rempli de curiosité, suivit sa sœur.
+
+Ils se retrouvèrent soudain dans un endroit incroyablement différent du grenier poussiéreux. Ils étaient dans une forêt enchantée, baignée de lumière. Des arbres aux feuilles argentées bruissaient dans le vent, et des fleurs aux couleurs éclatantes s’épanouissaient tout autour d’eux.
+
+— Oh, c'est… merveilleux ! s’étonna Sophie.
+
+— Incroyable ! s'écria Thomas.
+
+Un petit chemin pavé de pierres précieuses scintillait devant eux. Ils décidèrent de le suivre.
+
+Alors qu'ils avançaient, ils croisèrent des créatures étranges et fascinantes : de petits lutins espiègles jouant avec des papillons aux ailes multicolores, des fées scintillantes dansant autour des fontaines, et même un dragon amical, qui leur souriait.
+
+— Bonjour ! Bienvenue à Lumina ! cria une voix cristalline.
+
+Une jeune fille, aux longs cheveux blonds et aux yeux bleus, s’approcha d’eux. Elle portait une robe de soie légère et avait des ailes transparentes dans le dos.
+
+— Je suis Lila, la gardienne de ce royaume. Je suis ravie de vous accueillir ! Vous avez ouvert le portail, ce qui veut dire que vous êtes les bienvenus ! dit Lila avec un sourire radieux.
+
+— Lumina… C’est un nom magnifique ! dit Sophie, fascinée.
+
+— Merci. C’est le royaume de la joie, de la créativité et de l’imagination. Ici, tout est possible ! explique Lila.
+
+— Mais… où sont tous les habitants ? demanda Thomas, remarquant que tout semblait paisible.
+
+— En ce moment, ils sont au grand Festival ! répondit Lila. Venez avec moi, je vous y emmène !
+
+Lila les guida à travers la forêt enchantée, jusqu'à une immense clairière. Des centaines de créatures merveilleuses étaient rassemblées, dansant et chantant autour d'un immense lac scintillant.
+
+Sophie et Thomas assistèrent à un spectacle extraordinaire : des fées exécutaient des acrobaties aériennes, des gnomes jouaient de la musique avec des pierres précieuses, et des animaux fantastiques défilaient dans une parade grandiose.
+
+— C’est le plus beau festival que j’aie jamais vu ! s’exclama Sophie.
+
+Thomas, émerveillé, acquiesça.
+
+Pendant le festival, ils rencontrèrent beaucoup de créatures, partagèrent des rires et goûtèrent à des plats extraordinaires : des gâteaux faits de nuages, des boissons pétillantes aux couleurs de l’arc-en-ciel. Ils découvrirent des jeux magiques, des énigmes fascinantes et des histoires merveilleuses.
+
+Au fur et à mesure de leur exploration, ils commencèrent à comprendre que Lumina n’était pas juste un endroit. C’était un reflet de l’imagination humaine, un endroit où tout était possible, tant qu’on osait rêver.
+
+Soudain, ils entendirent un léger craquement. Sophie se souvint alors…
+
+— Le coffre ! Nous sommes dans le coffre ! On ne peut pas y rester indéfiniment ! dit Sophie, un peu inquiète.
+
+Lila sourit.
+
+— Ne vous inquiétez pas. Vous pouvez toujours revenir. La clé, c’est aussi la clé du retour. Si vous le souhaitez.
+
+Après un long moment, à l’apogée du Festival, ils décidèrent qu’il était temps de rentrer. Ils se dirent au revoir aux habitants de Lumina, promettant de revenir.
+
+Lila les conduisit au bord du lac scintillant et, là, dans la lumière dorée, elle ouvrit le portail vers le monde réel.
+
+— Au revoir, mes amis ! Revenez quand vous voudrez ! cria Lila.
+
+Sophie et Thomas pénétrèrent à nouveau dans la lumière, et revinrent dans le grenier. Le coffre était ouvert, la clé toujours dans la serrure, et la pièce baignait dans une lumière du soir, maintenant.
+
+Ils refermèrent le coffre. Un regard complice s’échangea entre eux.
+
+— Alors, c’était vrai ! s'étonna Thomas.
+
+— Oui ! C’était… magique ! répondit Sophie.
+
+Ils descendirent du grenier. Ils avaient découvert un secret, et une promesse. La clé du royaume magique attendait leur prochain voyage. Ils savaient qu’ils étaient capables d’imaginer, d’oser, et de rêver à nouveau.
+
+Depuis ce jour, Sophie et Thomas gardèrent le secret du coffre. Mais de temps en temps, quand l’envie leur en prenait, ils ouvraient la porte sur l’imagination. Et dans le monde réel, un peu de Lumina continuait à vivre en eux.

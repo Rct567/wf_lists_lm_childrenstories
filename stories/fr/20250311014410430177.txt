@@ -1,0 +1,37 @@
+<prompt>
+Please write a relatable French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Les Amis Inséparables et le Grand Carnaval'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>fr</lang_id>
+
+<title>Les Amis Inséparables et le Grand Carnaval</title>
+<body>Il était une fois, dans une petite ville pittoresque de France, il y avait trois amis inséparables : Léa, Matthieu et Sophie. Ils étaient tous les trois âgés de 10 ans et vivaient dans la même rue. Ils partageaient tout, depuis leurs secrets les plus intimes jusqu'à leurs jeux préférés. Leur amitié était si forte qu'ils semblaient être des frères et sœurs.
+
+Les trois amis aimaient beaucoup explorer leur ville et découvrir de nouvelles choses. Ils connaissaient tous les recoins de la ville, depuis le parc où ils allaient jouer au football jusqu'à la pâtisserie où ils allaient manger des croissants chauds. Mais il y avait une chose qui les excitait particulièrement : le Grand Carnaval qui allait avoir lieu dans quelques semaines.
+
+Le Grand Carnaval était un événement important dans la ville, où les gens se déguisaient en costumes colorés et défilaient dans les rues. Les trois amis avaient déjà participé au carnaval l'année précédente, mais cette année, ils voulaient faire quelque chose de spécial. Ils voulaient créer leurs propres costumes et participer au concours de déguisements.
+
+Léa, qui était une excellente couturière, avait déjà commencé à travailler sur ses idées de costumes. Elle avait dessiné des croquis de différentes créatures, depuis des dragons jusqu'à des fées. Matthieu, qui était un grand fan de science-fiction, voulait se déguiser en astronaute, tandis que Sophie, qui aimait les animaux, voulait se déguiser en dauphin.
+
+Les trois amis se réunirent chez Léa pour discuter de leurs idées et commencer à travailler sur leurs costumes. Ils passèrent l'après-midi à couper, à coudre et à coller des morceaux de tissu et de papier pour créer leurs créations. Léa travaillait sur un costume de fée, avec des ailes en papier mâché et une couronne en fleurs artificielles. Matthieu construisait un costume d'astronaute, avec un casque en carton et des bouteilles en plastique pour simuler des réservoirs d'oxygène. Sophie, quant à elle, créait un costume de dauphin, avec une queue en carton et des nageoires en tissu.
+
+Au fil des jours, les trois amis continuèrent à travailler sur leurs costumes, en les perfectionnant et en les rendant de plus en plus réalistes. Ils étaient si excités de participer au concours de déguisements qu'ils pouvaient à peine dormir la nuit. Enfin, le jour du Grand Carnaval arriva, et les trois amis se réunirent devant la mairie, où allait avoir lieu le concours.
+
+La rue était remplie de gens déguisés en costumes colorés, depuis des clowns jusqu'à des pirates. Les trois amis se sentaient un peu nerveux, mais ils étaient déterminés à gagner le concours. Ils défilèrent dans les rues, en agitant leurs bras et en criant de joie. Le public les acclamait et les photographes les prenaient en photo.
+
+Finalement, le moment de la remise des prix arriva. Le maire de la ville monta sur scène et commença à annoncer les gagnants. Les trois amis retinrent leur souffle mientras que le maire lisait les noms des gagnants. Et puis, il arriva à la catégorie des moins de 12 ans. Le maire sourit et dit : "Et le premier prix de la catégorie des moins de 12 ans est attribué à... Léa, Matthieu et Sophie, les trois amis inséparables !
+
+Les trois amis poussèrent des cris de joie et se jetèrent dans les bras les uns des autres. Ils étaient tellement heureux d'avoir gagné le concours. Ils reçurent un trophée en forme de carnaval et des fleurs, et ils furent photographiés avec le maire et les autres gagnants.
+
+Après la remise des prix, les trois amis allèrent célébrer leur victoire à la pâtisserie. Ils mangèrent des croissants chauds et des glaces, et ils parlèrent de leur aventure. Ils étaient tellement fiers de ce qu'ils avaient accompli, et ils savaient que leur amitié était la clé de leur succès.
+
+Les trois amis inséparables continuèrent à explorer leur ville et à découvrir de nouvelles choses. Ils participèrent à d'autres concours et événements, et ils restèrent toujours les meilleurs amis du monde. Et chaque année, ils se réunissaient pour le Grand Carnaval, où ils défilaient dans les rues et célébraient leur amitié.
+
+Ainsi, l'histoire des trois amis inséparables et du Grand Carnaval se termina sur une note de joie et d'amitié. Les trois amis avaient appris que l'amitié était la plus grande récompense de toutes, et qu'ensemble, ils pouvaient accomplir tout ce qu'ils voulaient. Et ils vécurent heureux pour toujours, entourés de leur ville, de leurs familles et de leur amitié.</body>

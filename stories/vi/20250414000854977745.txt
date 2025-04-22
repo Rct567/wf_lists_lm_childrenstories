@@ -1,0 +1,77 @@
+<prompt>
+Please write a uncomplicated Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Con Gà Mái Mơ'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>vi</lang_id>
+
+```xml
+<title>Con Gà Mái Mơ</title>
+<body>
+Ngày xửa ngày xưa, trong một khu vườn nhỏ xinh xắn, có một con gà mái tên là Mơ. Mơ không giống những con gà mái khác. Mơ có bộ lông màu nâu óng ả như mật ong, mào gà đỏ tươi như hoa phượng nở rộ vào mùa hè. Điều đặc biệt nhất ở Mơ là đôi mắt của Mơ. Đôi mắt của Mơ to tròn, xanh biếc như bầu trời sau cơn mưa, luôn ánh lên vẻ tò mò và thích khám phá.
+
+Mơ sống trong một cái chuồng gà nhỏ, cùng với một bầy gà mái khác và một chú gà trống oai vệ. Buổi sáng, khi ông mặt trời thức giấc, Mơ và các bạn gà lại bắt đầu một ngày mới. Tiếng gáy của gà trống vang vọng khắp khu vườn, đánh thức mọi vật. Mơ háo hức nhảy ra khỏi chuồng, bắt đầu tìm kiếm thức ăn.
+
+Khu vườn của Mơ thật tuyệt vời. Có những bụi cây xanh tốt, những luống rau xanh mướt, và cả một vườn hoa đầy màu sắc. Mơ thích nhất là khám phá khu vườn này. Mơ chăm chỉ đi tìm những hạt thóc rơi vãi, những con sâu béo mập, và những hạt đậu thơm ngon.
+
+Một ngày nọ, khi đang mải mê tìm kiếm thức ăn dưới gốc cây mít, Mơ nghe thấy tiếng sột soạt. Mơ ngẩng đầu lên nhìn. Gần đó, một con thỏ trắng muốt đang gặm cỏ. Con thỏ có đôi tai dài, đôi mắt hồng, và cái đuôi nhỏ xíu xiu.
+
+Mơ tò mò đến gần con thỏ. "Chào bạn," Mơ cất tiếng gọi. "Bạn là ai vậy?"
+
+Con thỏ giật mình, ngẩng đầu lên nhìn Mơ. "Chào bạn," thỏ nhỏ đáp. "Tôi là Thỏ Trắng. Còn bạn?"
+
+"Tôi là Mơ," Mơ giới thiệu. "Tôi là một con gà mái."
+
+"Chào mừng bạn đến với khu vườn của chúng tôi," Thỏ Trắng nói. "Tôi thường ở đây để gặm cỏ và chơi đùa."
+
+"Khu vườn này thật đẹp," Mơ trầm trồ. "Tôi cũng rất thích khám phá khu vườn."
+
+Thỏ Trắng và Mơ bắt đầu trò chuyện. Họ kể cho nhau nghe về những điều mình thích. Thỏ Trắng thích ăn cà rốt và nhảy nhót, còn Mơ thích tìm kiếm thức ăn và khám phá những điều mới lạ. Hai bạn nhanh chóng trở thành bạn bè.
+
+Hàng ngày, Mơ và Thỏ Trắng cùng nhau đi dạo trong khu vườn. Họ cùng nhau tìm kiếm thức ăn, cùng nhau chơi đùa. Mơ kể cho Thỏ Trắng nghe về những hạt thóc ngon lành, những con sâu béo mập, và những hạt đậu thơm ngon. Thỏ Trắng lại kể cho Mơ nghe về những luống cà rốt ngọt lịm, những bông hoa rực rỡ, và những buổi chiều êm đềm.
+
+Một hôm, khi đang đi dạo, Mơ và Thỏ Trắng nhìn thấy một cái hang nhỏ dưới gốc cây cổ thụ. "Chúng ta có nên vào đó không?" Thỏ Trắng hỏi.
+
+"Tớ cũng không biết," Mơ đáp. "Nhưng tớ rất tò mò."
+
+Hai bạn quyết định cùng nhau vào hang. Hang tối om, nhưng Mơ và Thỏ Trắng không hề sợ hãi. Họ nắm tay nhau đi vào, cẩn thận từng bước.
+
+Đi sâu vào trong hang, họ nhìn thấy một căn phòng nhỏ. Trong phòng có rất nhiều thứ hay ho. Có những chiếc bình gốm nhỏ xinh, những hạt cườm lấp lánh, và cả một chiếc hộp gỗ cổ.
+
+"Wow," Mơ thốt lên. "Thật là tuyệt vời!"
+
+"Tớ chưa từng thấy thứ gì như thế này," Thỏ Trắng nói.
+
+Họ bắt đầu khám phá căn phòng. Mơ xem xét những chiếc bình gốm, Thỏ Trắng nghịch ngợm những hạt cườm. Bỗng nhiên, Mơ phát hiện ra chiếc hộp gỗ. Mơ cố gắng mở chiếc hộp, nhưng không được.
+
+"Để tớ giúp bạn," Thỏ Trắng nói. Thỏ Trắng dùng sức, cố gắng mở chiếc hộp. Cuối cùng, chiếc hộp cũng bật mở.
+
+Bên trong chiếc hộp là một tấm bản đồ cũ. Tấm bản đồ vẽ lại khu vườn của họ, nhưng có cả những khu vực mà họ chưa từng biết đến. Trên bản đồ còn đánh dấu một địa điểm đặc biệt.
+
+"Nhìn xem," Mơ reo lên. "Chắc chắn đây là một kho báu!"
+
+"Chúng ta phải đi tìm kho báu này," Thỏ Trắng hào hứng nói.
+
+Thế là, Mơ và Thỏ Trắng quyết định lên đường tìm kho báu. Họ theo dấu trên bản đồ, đi qua những con đường nhỏ, những bụi cây rậm rạp, và những khu vực mà họ chưa từng đặt chân đến.
+
+Trong hành trình tìm kiếm kho báu, họ gặp gỡ nhiều người bạn mới. Họ gặp một chú sóc tinh nghịch, một bác chim sẻ hiền lành, và cả một cô bướm xinh đẹp. Tất cả đều giúp đỡ họ trong cuộc hành trình.
+
+Sau nhiều ngày gian nan, Mơ và Thỏ Trắng cuối cùng cũng tìm thấy địa điểm được đánh dấu trên bản đồ. Đó là một ngọn đồi nhỏ, có rất nhiều hoa dại nở rộ.
+
+Tại đỉnh đồi, họ nhìn thấy một cái cây cổ thụ. Dưới gốc cây, có một chiếc rương nhỏ. Mơ và Thỏ Trắng mở rương ra.
+
+Bên trong rương, không phải là vàng bạc châu báu, mà là một quyển sách cổ. Quyển sách kể về lịch sử của khu vườn và những câu chuyện về tình bạn, sự dũng cảm và lòng tốt.
+
+Mơ và Thỏ Trắng đọc quyển sách, say sưa trong từng câu chữ. Họ nhận ra rằng, kho báu thực sự không phải là vàng bạc, mà là những trải nghiệm, những người bạn, và những bài học quý giá.
+
+Từ ngày đó, Mơ và Thỏ Trắng càng thêm gắn bó với nhau. Họ cùng nhau chia sẻ những câu chuyện, cùng nhau khám phá khu vườn. Tình bạn của họ ngày càng bền chặt, như cây cổ thụ dưới gốc đồi, nơi cất giữ "kho báu" vô giá.
+
+Mơ, với đôi mắt xanh biếc luôn sáng ngời, vẫn tiếp tục khám phá thế giới xung quanh. Cô bé gà mái nhỏ nhắn, mang trong mình trái tim nhân hậu và tấm lòng dũng cảm, đã để lại những dấu ấn tốt đẹp trong lòng mọi người.
+</body>
+```

@@ -1,0 +1,75 @@
+<prompt>
+Please write a creative and original Croatian children's story that is at least 1000 words long.
+It must be completely written in proper Croatian (HR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Đaci čarobne škole za mladegorithme'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>hr</lang_id>
+
+```html
+<title>Đaci čarobne škole za mladegorithme</title>
+<body>
+U srcu Dalmacije, skriven među starim maslinama i mirisnim lavandom, nalazila se čarobna škola. Ne bilo kakva škola, već škola za mladegorithme! Zvala se "Škola Svjetla i Zvuka" i u njoj su se djeca, zvana "koderi", učila kako stvoriti čaroliju iz ničega, pomoću brojeva, slova i, naravno, malo magije.
+
+Na čelu škole stajao je mudri profesor Sova, s naočalama debelih okvira i bradom koja je izgledala kao gnijezdo za male vrapce. Njegov pomoćnik, veseli Zeko, skakutao je hodnicima pomažući đacima i organizirajući zabavne natjecanja u kodiranju.
+
+Ove godine, u školu su upisali četvero novih đaka: Luna, djevojčica s kosom boje sunca i velikim, znatiželjnim očima; Marin, dječak s vječnim osmijehom i ljubavlju prema igricama; Ana, tiha i promišljena djevojčica koja je uvijek nosila sa sobom notes pun ideja; i Petar, nestašni dječak koji je više volio avanture nego lekcije.
+
+Prvog dana škole, profesor Sova ih je dočekao u velikoj, okrugloj učionici, obasjanoj svjetlom koje je dolazilo kroz prozore u obliku zvijezda.
+
+"Dobrodošli, dragi koderi!" rekao je profesor Sova. "U ovoj školi, naučit ćete kako pretvoriti svoje ideje u stvarnost, kako stvoriti svjetove izvan vaših snova. Naučit ćete jezik budućnosti – jezik algoritama!"
+
+Prva lekcija bila je o osnovama. Profesor Sova je objasnio što su to algoritmi – niz koraka koji rješavaju neki problem. Koristio je primjer pravljenja sendviča. "Prvo, uzmemo kruh. Drugo, namažemo ga maslacem. Treće, stavimo šunku i sir. Četvrto, stavimo drugi kruh. I voila! Imamo sendvič!"
+
+Luna, puna entuzijazma, pitala je: "A što ako želimo sendvič s rajčicom?"
+
+"Odlično pitanje, Luna!" odgovorio je profesor. "Moramo dodati još jedan korak u naš algoritam: prije šunke i sira, stavljamo kriške rajčice."
+
+Marin je bio oduševljen. "Mogu li ja napraviti algoritam za dobivanje visokog rezultata u igrici?"
+
+"Naravno, Marine!" nasmiješio se profesor Sova. "Sve se može kodirati!"
+
+Ana je zapisivala sve u svoj notes, pažljivo bilježeći svaki korak. Petar je, međutim, počeo zijevati. "Profesore, je li ovo sve? Zar nećemo raditi ništa zabavno?"
+
+"Strpljenja, Petre!" rekao je profesor Sova. "Zabava tek počinje! Sutra ćemo početi raditi na našim prvim čarobnim programima."
+
+Sljedećeg dana, profesor Sova je predstavio đacima "Kreativni Koditelj", čarobni program koji je omogućavao stvaranje slika, glazbe i priča pomoću jednostavnih naredbi.
+
+Luna je odmah počela crtati sunce sa šarenim zrakama. Marin je stvarao glazbu koristeći "Kreativni Koditelj" kao čarobni instrument. Ana je pisala zanimljivu priču o zmaju koji je volio čokoladu. Petar je, u početku, bio pomalo izgubljen, ali profesor Zeko mu je pomogao da stvori leteći tepih koji je mogao putovati kroz vrijeme.
+
+Tijekom tjedana, đaci su napredovali. Naučili su stvarati složenije programe, rješavati logičke zagonetke i surađivati jedni s drugima. Luna je postala majstorica vizualnih efekata, Marin je skladao prekrasne melodije, Ana je napisala niz uzbudljivih avanturističkih priča, a Petar je razvio nevjerojatnu sposobnost za rješavanje problema.
+
+Došao je dan velikog natjecanja. Đaci su trebali stvoriti čarobni program koji će pomoći selu Vala, koje se nalazilo nedaleko od škole. Selo je bilo u problemima – suša je uništila usjeve i ljudi su bili u nevolji.
+
+"Vaš zadatak je osmisliti program koji će pomoći selu Vala," objasnio je profesor Sova. "Pokušajte koristiti sve što ste naučili. Budite kreativni, budite pametni, budite čarobni!"
+
+Luna je predložila program koji bi naslikao oblake na nebu i izazvao kišu. Marin je htio stvoriti glazbu koja bi umirila ljude i podigla im raspoloženje. Ana je predložila program koji bi ispričao priču o hrabrosti i nadi. Petar je smislio plan da stvori robota koji bi pronašao podzemne izvore vode.
+
+Đaci su se podijelili u timove. Luna i Marin su zajedno radili na programu za kišu i glazbu. Ana i Petar su radili na robotu i priči.
+
+Tjednima su radili neumorno. Ponekad su se svađali, ponekad bi se smijali, ali uvijek su se trudili dati sve od sebe.
+
+Konačno, došao je dan prezentacije. Svi stanovnici sela Vala okupili su se u školskom dvorištu. Luna i Marin su pokazali svoj program. Na nebu su se pojavili prekrasni oblaci i nježno je počela padati kiša, popraćena umirujućom glazbom.
+
+Ana i Petar su predstavili robota "Voda", koji je krenuo u potragu za vodom. Robot je pronašao podzemni izvor i voda je potekla u selo. Ana je zatim ispričala svoju priču, koja je ulila nadu u srca ljudi.
+
+Selo Vala je bilo spašeno! Đaci su bili heroji. Profesor Sova i Zeko bili su ponosni na svoje đake.
+
+Nakon natjecanja, profesor Sova je okupio đake. "Vidjeli ste kako vaša znanja mogu promijeniti svijet," rekao je. "Nikada nemojte prestati učiti, eksperimentirati i sanjati. Jer, djeca, vi ste budućnost. Vi ste mladegorithmi!"
+
+Đaci su se nasmiješili. Znali su da ih čeka još mnogo avantura u školi za mladegorithme. Znali su da će, s malo magije i puno truda, moći stvoriti nevjerojatne stvari. I znali su da su prijateljstvo i suradnja najvažniji sastojci za uspjeh.
+
+Petar je, gledajući u nebo, rekao: "Mislim da ću sljedeći put pokušati napraviti program koji će nas odvesti na izlet na Mjesec!"
+
+Luna je klimnula glavom. "Odlična ideja, Petre! Možemo zajedno raditi na tome. Ja ću nacrtati svemirski brod!"
+
+Marin je već počeo skladati pjesmu o putovanju na Mjesec. Ana je zapisivala ideje u svoj notes.
+
+I tako, avantura se nastavljala. U školi za mladegorithme, čarolija nikada nije prestajala. Jer, u srcima ovih mladih kodera, budućnost je bila svijetla i puna mogućnosti.
+</body>
+```

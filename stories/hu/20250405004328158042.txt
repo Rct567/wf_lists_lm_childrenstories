@@ -1,0 +1,92 @@
+<prompt>
+Please write a dialog-based Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Gábor, a fiú, és a kalóz-kincskereső térkép, amit kincsesládára cserélt.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>hu</lang_id>
+
+```html
+<title>Gábor, a fiú, és a kalóz-kincskereső térkép, amit kincsesládára cserélt.</title>
+<body>
+- Anyaaa! Hol van a kalapácsom? – kiáltott Gábor, a kis fiú, a konyhából, ahol egy hatalmas kartondobozzal birkózott.
+- A polcon, a szerszámosládában, Gáborkám! Mit csinálsz ott? – kérdezte anyukája, aki éppen zsemléket sütött.
+- Kincsesládát! Egy igazi kincsesládát akarok csinálni! – jelentette ki Gábor, büszkén.
+- Ó, de jó ötlet! Hova teszed a kincsedet? – érdeklődött mosolyogva anya.
+- Még nincs kincsem! De majd lesz! – válaszolta Gábor, kezében a kalapáccsal.
+
+Kicsit később, Gábor már a szobájában ügyködött. A kartondobozból szépen kirajzolta a láda formáját. A polcról levette a régi tempera festékeket, és nekilátott festeni. Vörös lett, majd arany, mintha igazi aranyból készült volna. De valami hiányzott.
+
+- Apuuu! Hol találtál régen egy kalóz-térképet? – kiáltott Gábor apukájához, aki a nappaliban újságot olvasott.
+- Kalóz-térképet? Hmm… Talán a padláson van még valahol. De miért kérdezed? – válaszolt apa.
+- Kincsesláda van készülőben, és egy térkép tökéletes lenne! – magyarázta Gábor, lelkesen.
+
+Apu kiment a padlásra, és néhány perc múlva visszatért egy tekercs papírral.
+
+- Tessék, Gábor! Ez lehet, hogy tetszeni fog! – nyújtotta át a papírt a fiának.
+Gábor kibontotta a tekercset. Egy régi, kopottas papír volt, tele rejtélyes jelekkel és furcsa rajzokkal.
+
+- Wáóóó! Ez egy igazi kalóz-térkép! – lelkendezett Gábor, a szemét tágra nyitva. – Szuper! Köszönöm, apu!
+- Szívesen, kincsem! Vigyázz rá! – mondta apa, és visszament olvasni.
+
+Gábor óvatosan kiterítette a térképet az asztalra. Aztán a térképet nézte, és közben a ládát. Mivel nem tudott sokat a térképek olvasásáról, nagyon sokáig nézte, ahogy a titkos jelek próbálták valami nyomra juttatni.
+
+- Anya, segítenél? – könyörgött végül anyukájának, aki már zsemlékkel a kezében lépett a szobájába.
+- Persze, kincsem. Mi ez a szép térkép? – kérdezte anya.
+- Kincsesláda, és most kalóztérképem is van! De nem értem… Hol van a kincs? – panaszkodott Gábor.
+
+Anya óvatosan megvizsgálta a térképet. Kereszt, X betűk, egy sziget rajza…
+
+- Nézd csak, Gábor! Úgy tűnik, a kincs egy szigeten van elásva. – magyarázta anya. – Itt, a kereszt a helyet jelöli. El kell mennünk a kertbe, hogy megkeressük a szigetet…
+- A kert? De az nem egy sziget! – mondta Gábor, zavartan.
+- Persze, de a térképet Te alkothatod meg, a kertet Te változtathatod szigetté, ha szeretnéd! – mosolygott anya.
+- Jóóó! – kiáltotta Gábor, és rohant a kertbe.
+
+Együtt elmentek a kertbe. Gábor, a térképet a kezében tartva, próbálta beazonosítani a jelöléseket a kert valóságával. Végül eldöntötte, hogy a nagymama régi homokozóját fogja szigetté átalakítani. Anyuval a homokozóba a térképen szereplő fát (a cseresznyefát), a kőhidat (a kis sziklát), és a „kinézési pontot” is beillesztették. A kert közepén, a homokozóba ültettek egy pálmafát, amit egy bottal helyettesítettek, de a legfontosabb a kalóz lobogója volt, melyet egy kis botra erősítettek.
+
+- Nézd, Gábor! Ott van egy X a homokozóban. Ez lehet a kincs helye! – mondta anya, és közben egy kis ásót vett elő a fészerből.
+Gábor elkaparta a homokot. De ahelyett, hogy aranypénzt talált volna, egy régi kavicsot talált, rajta furcsa vonalak.
+
+- Egy kavics? Ez a kincs? – csalódottan kérdezte Gábor.
+- De hát ez egy nagyon szép kavics! Egy igaz kincs! A kalózok valószínűleg nem adtak egy aranykincset. – válaszolt mosolyogva anya. – Ez valami emléket jelent. Valamit, amit magukkal vihettek, mert számukra értékes volt. Mi pedig beleképzelhetjük, hogy mire is használhatták.
+- Hm… – motyogta Gábor, de lassan belátta anyja igazát.
+
+Aztán hirtelen felragyogott az arca.
+
+- Anya! Megvan! Ez a kavics nem a kincs, hanem az a hely, ahol a kincsesláda rejtezett a földbe! Aztán a kavicsok arra voltak jók, hogy emlékeztesse a kalózokat a kincsesláda pontos helyére!
+- Ügyes vagy, Gábor! – bólintott anya.
+
+Gábor addig ügyködött, míg be nem állította a ládát a homokozóba, befedve azt. És már nem csak egy „kalózos homokozó szigete” lett.
+
+- Szuper! De mibe tegyem a kavicsot, és egy csomó más kincset is szeretnék találni! – örvendezett.
+- Hmm… Talán ez a térkép nem csak egy térkép, hanem egy terv a kincsek megtalálásához is! – mondta anya. – Mondj egy titkot a füledbe, amire gondolsz. Megpróbálunk valami másfajta „kincset” találni.
+Gábor odahajolt anyukájához, és suttogott valamit. Anya pedig kitalált egy újabb játékszabályt. Az összes szép virágot felsorolta Gábornak a kertben. Gábor leült a földre, és lerajzolta a kincsesláda köré a színes virágokat, és elkezdte kifesteni a papíron.
+
+Később, miután megszáradt a festék, Gábor leült a padlóra a térképpel és a kincsesládával, és elkezdett rajzolgatni bele. Egyszercsak nagyot kiáltott.
+
+- Apa! Anya! A homokozóba fogok pakolni! És akkor még rajzolok valami más kincses kincses ládákat is a homokozó köré! Megpróbálom felkutatni a kertben!
+- Ez egy remek ötlet! – mondta apa. – El fogok ásni egy igazi kincset! Aranyat, gyémántot, csokoládét!
+- Apuka, tényleg? – kiáltotta Gábor, és nagyot nevetett. – Na persze! Csak a rajzaidat ne felejtsd a földbe!
+- Rendben, rendben! – mondta apa, és mosolyogva, de egyben büszkén belenézett Gáborba, és kiment, hogy valódi kincset keressen.
+- Kicsit sok láda van… – gondolta Gábor, miközben a rajzokat nézegette. – Inkább felrajzolok sok, nagyon sok dolgot, hogy mindig legyenek kincseim, ha a ládában nincs is semmi!
+
+Anya közben feltálalta a zsemléket, amiket közösen ettek meg.
+
+Gábor boldogan játszott tovább a homokozójában, immár sokféle rajzzal a kincsesláda körül, és a „kincsek” egyre szaporodtak a ládájában. Előbb kavicsot festett, majd apró gyöngyöket. Aztán levágott faágakat. Mindent összegyűjtött a kertből, amit szépnek talált, és a ládájában tartotta. Ahogy telt az idő, Gábor egyre többet rajzolt, egyre többet keresett, és egyre boldogabb lett. Megértette, hogy a legfontosabb kincs nem az arany, hanem a képzelet, a barátok és a család, akikkel együtt kalandozhat, miközben valójában saját, egyéni kincseit alkotja, melyeket soha nem cserélne el semmi másra.
+
+Este, mikor Gábor az ágyában feküdt, apu odament hozzá.
+
+- Na, milyen volt a kincskeresés, kis kalóz? – kérdezte.
+- Szuper volt! Igazából még nem találtam a kincset. Vagyis… de! – nevetett Gábor. – Találtam sok kis kincset a kertben! A kavicsok a legszebbek! Most már értem! A térkép nemcsak kincsekhez vezet, hanem ötleteket is ad! És azt is tudom, hogy nem egy kalóz-térkép, hanem a rajzaim a legjobbak, ami a ládába mennek, ha a homokozóim a szigeteim! És ami a legjobb, hogy a ládám nem a kincsekért, hanem értük van! Ezért döntöttem, hogy inkább nem adom oda másnak!
+- Büszke vagyok rád, kincsem! – suttogta apu, megpuszilva Gábor homlokát.
+- Szuper! Tudom, hogy milyen is az igazi kincskeresés: együtt lenni veletek, megképzelni a kincseket, és közösen alkotni, amíg elkészül egy valaki kincsesládája! – válaszolta Gábor, mielőtt elaludt volna.
+
+Másnap reggel, amikor felébredt, a ládája a régi, arany színében pompázott. Gábor mosolyogva nézett rá. Bár eredetileg kalóz-kincset keresett, mégis egy valóságosabb, személyre szabott „kincsesládát” kapott, ami számára sokkal többet ért az aranynál.
+A kincskereső térkép, amit kincsesládára cserélt, a legértékesebb ajándék lett a kis fiú számára. A láda azonban nem maradt magában… Mert mindennap újabb kincsek kerültek bele!
+</body>
+```

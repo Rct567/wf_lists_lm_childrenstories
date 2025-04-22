@@ -1,0 +1,39 @@
+<prompt>
+Please write a simple and easy-to-follow Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Noyob Iste'dod: Musiqani Eshtradigan Qalblardagi Kuch'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>Noyob Iste'dod: Musiqani Eshtradigan Qalblardagi Kuch</title>
+<body>
+Shaharning chekkasida, tog'larning soyasida joylashgan kichik bir qishloqda,  Yulduz deb nomlangan bir qiz yashagan. Yulduz odatdagidek qiz emas edi. Uning qalbida maxsus bir iste'dod yashiringan edi – u musiqani eshita olardi.  Lekin, bu musiqa odamlarning quloqlari bilan eshitiladigan musiqa emas edi. Bu,  qalbingizdagi eng sirli ovozlar,  tabiatning eng nozik ohanglari,  hatto shamolning susurrasi va daraxt barglarining shovqinida ham yashiringan musiqa edi.
+
+Har kuni Yulduz ertalab tongning nurli ovozlarini,  quyoshning uyg'ongan ohanglarini eshitadi.  Kechqurun esa,  yulduzlarning jimjit qo'shig'ini,  oyning sokin notalarini tinglardi.  Uning qalbi shu musiqalar bilan to'lib-toshgan edi, lekin hech kim buni tushuna olmasdi.
+
+Qishloqdagi bolalar Yulduz bilan o'ynashni yoqtirishmasdi. Ularning fikricha, Yulduz g'alati va tushunmovchan edi.  Ularning kulgilarida va o'yinlarida Yulduzning eshitishi mumkin bo'lgan musiqa yo'q edi.  Yulduz yolg'iz o'zini,  uning qalbidagi sirli musiqalar olamida topdi.  Uning eng yaqin do'sti faqatgina  to'g'ri qoralangan  qora va oq notalar varaqalari edi.
+
+Bir kuni, qishloq markazida yirik musiqa festivali bo'lib o'tishi e'lon qilindi.  Barcha qishloq a'zolari bu bayramga qatnashishni istardi.  Yulduz ham musiqa hayoti,  qalbidagi musiqa haqida o'ylay boshladi.  Bu musiqa festivalida qatnashadimi, yoki qalbi bilan o'zi bilan birga bo'ladimi?
+
+U o'zini juda xavotirga solgan edi.  U hali ham o'zining iste'dodini hech kimga ko'rsatmagan edi.  Qalbidagi musiqa uni ko'proq o'ylanish va tashvishga solardi.  Qalbidagi musiqa juda jim va hatto o'ziga ham sirli tuyulardi.
+
+Bu kunlarda Yulduz qishloqdagi  har bir qushning qo'shig'ini, har bir daraxtning ovozini,  har bir shamol esganida eshitiladigan qo'shiqni eshitishga harakat qildi.  Uning qalbi har bir ovozni eshitib, ularning eng nozik ohanglarini  tushunishni istardi.
+
+Kechqurun,  Yulduz  yulduzlar ostida o'tirib,  uning qalbidagi musiqani tingladi.  Bu musiqa qisqa va uyg'ongan edi.  U, o'ziga ma'lum  musiqiy kalit topishga  harakat qilardi.  U o'zining iste'dodini, o'z qalbiga ma'lum bir ohang qo'shib,  qalbidagi ovozlarni o'rganishni istardi.
+
+Festival kuni keldi.  Yulduz,  qalbida qo'rquv va umid bilan, qishloqdagi maydonga tushdi.  Barcha qishloq a'zolari to'planib, musiqalarni tinglashni kutayotgan edilar.  Bu erda musiqachilarning turli to'plamlari, bir-birlarini qo'llab-quvvatlaydigan qo'shiqlari o'ynayotgan edi.
+
+Yulduz qalbi o'ziga ma'lum notalarni eshitdi.  Uning qalbi  yashil va  qora ranglarning notalarini  eshitib,  ularning qo'shig'ini o'ynadi.  Yulduz qalbining musiqasini o'zining qo'shig'iga o'zgartirdi va qalbidagi nozik ohanglar bilan qo'shiq aytdi.
+
+Uning qo'shig'i  hammani hushidan ozdirdi.  Uning qalbidagi musiqa shamolga aylandi,  daraxt barglarining qo'shig'iga,  har bir ovozning uyg'ongan ohanglariga aylandi.  Qishloqdagi har bir inson Yulduzning qalbidagi musiqani eshitdi.
+
+Ular hamma musiqaga o'z qalblaridan qo'shiq qo'shishni boshladilar.  Yulduzning iste'dodini  eshitib, ular uni qalbi bilan ham ko'rmaganlardan emasligini tushunishdi.
+
+O'sha kuni, Yulduz shunchaki qiz emas edi.  U, qalbidagi musiqani eshitib,  qalbidagi kuchni boshqalarga ko'rsatgan  qiz edi.  Uning qalbidagi musiqa,  har bir kishiga,  musiqani qalblaridan eshitishingiz mumkinligini eslatdi.  Yulduzning iste'dodi,  qishloqdagi hamma insonning qalbida  musiqani qo'zg'atgan edi.  Bu qishloq o'sha kundan boshlab,  musiqaga to'la  va ko'proq  yaxshi  bir joy bo'ldi.
+</body>

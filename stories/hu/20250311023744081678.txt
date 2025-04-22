@@ -1,0 +1,35 @@
+<prompt>
+Please write a light-hearted Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A Hősies Lovag, aki megmentette a királykisasszonyt a sárkánytól, egy napon.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>hu</lang_id>
+
+<title>A Hősies Lovag, aki megmentette a királykisasszonyt a sárkánytól, egy napon.</title>
+<body>Aznap, amikor a nap felkelt a keleti égbolton, egy kis faluban, amelyet szépséges erdők és zöldellő mezők vettek körül, egy hősies lovag ébredt fel ágyából. A lovag neve László volt, és ő volt a legbátrabb és legerősebb lovag az egész országban. László mindig is arról álmodott, hogy hőstetteket hajtson végre, és megmentse a szükséget szenvedőket.
+
+Miközben László felkelt és felöltözött, észrevette, hogy a falu népe izgatottan suttogott egymás között. A lovag odalépett egy öregemberhez, aki a falu véne volt, és megkérdezte tőle, mi történik. Az öregember elmondta Lászlónak, hogy a királykisasszonyt, aki a szomszédos királyságban élt, egy gonosz sárkány rabolta el. A sárkány a királykisasszonyt a saját barlangjába hurcolta, és senki sem merte megközelíteni, mert a sárkány túl erős és túl veszélyes volt.
+
+László azonnal elhatározta, hogy megmenti a királykisasszonyt. Felült a lovára, és elindult a sárkány barlangja felé. Ahogy lovagolt, találkozott sok emberrel, akik mindannyian féltek a sárkánytól, és nem mertek vele szembenézni. László azonban nem félt, mert tudta, hogy ő a legszívósabb és legbátrabb lovag az egész országban.
+
+Végre, miután sok órán keresztül lovagolt, László megérkezett a sárkány barlangjához. A barlang bejárata hatalmas és sötét volt, és László hallotta a sárkány dühös morgását, amint belépett a barlangba. A lovag nem félt, hanem továbbment, míg végül elérte a barlang mélyén lévő nagy termet, ahol a sárkány tartózkodott.
+
+A sárkány hatalmas és félelmetes volt, és László látta, hogy a királykisasszonyt egy nagy ketrecben tartja fogva. A sárkány észrevette Lászlót, és dühösen felmordult. László azonban nem ijedt meg, hanem kihúzta a kardját, és a sárkány felé indult.
+
+A sárkány és László között hatalmas csata kezdődött. A sárkány tüzet okádott, és László kardjával védekezett. A lovag ügyesen lavírozott a sárkány lángjaiban, és mindig Bermuda került a csapások elől. Végül, miután sokáig küzdöttek, László sikerült megsebeznie a sárkányt, és az elterült a földön.
+
+Miután a sárkány legyőzött lett, László odalépett a királykisasszony ketrecéhez, és kinyitotta az ajtót. A királykisasszony kiszabadult, és Lászlónak hálásan megköszönte a megmentését. László és a királykisasszony együtt elhagyták a barlangot, és visszatértek a királyságba.
+
+A király és a királyné, amikor látták, hogy a királykisasszony visszatért, nagyon boldogok lettek, és Lászlónak hálásan megköszönték a megmentését. A király és a királyné Lászlót hősnek kiáltották ki, és nagy ünnepséget rendeztek a tiszteletére.
+
+László az ünnepségen részt vett, és a királykisasszonnyal együtt táncolt. A királykisasszony szemébe nézett, és látta, hogy ő is szerelmes belé. László és a királykisasszony egymásba szerettek, és a király és a királyné beleegyezett, hogy összeházasodjanak.
+
+László és a királykisasszony boldogok lettek, és együtt éltek, míg meg nem haltak. A falu népe mindig is emlékezett László hősiességére, és a lovagot a legnagyszerűbb hősnek tartották. A történetet generációról generációra mesélték, és a gyermekek mindig is csodálták László bátor és nemes lelkét.
+
+És így, László története egy példakép lett az összes gyermek számára, akik arról álmodtak, hogy egyszer hősök lesznek, és megmentik a világot a gonosztól. A történet azt is megmutatta, hogy a bátorság, a szívósság és a nemes lelkület mindig is győzedelmeskedik a gonosz felett, és hogy a szeretet és a hűség mindig is diadalmaskodik.</body>

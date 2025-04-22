@@ -1,0 +1,61 @@
+<prompt>
+Please write a fun and entertaining Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A nagy hógolyó csata és a téli mókák boldog órái.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>hu</lang_id>
+
+```xml
+<title>A nagy hógolyó csata és a téli mókák boldog órái.</title>
+<body>
+Mesélnek a fenyőfák a Kárpátok ölében, suttognak a hófehér szálak a szélben, hogy régen volt egy tél, amikor a mókusok is fütyültek örömükben. Akkor élt egy kisfiú, neve: Balázs, kinek szeme a havas mezőkhöz hasonlatos volt, a hajában a napsütés tükröződött, és a mosolya olyan ragyogó volt, mint a karácsonyfa díszei.
+
+Balázs a nagymamájával élt a falu szélén, egy kis, sárga házban, melynek kéményéből finom illat szállt ki nap mint nap: kakaó, sült alma és a friss pékáruk illata. A nagymama egy igazi tündér volt, hosszú, szőke hajjal, melyet mindig kontyba fogott, és szívét, mely a gyerekekért dobogott, mintha egy óriási mézeskalács szívet hordott volna a mellkasában.
+
+A tél beköszöntével a falu fehér köntöst öltött. A hegyek hópelyhekkel díszített koronát kaptak, a fák ágai is gyöngyházszínűvé váltak. Balázs nap mint nap az ablakban ült, várva, hogy végre a kertbe szaladhasson, hógolyót gyúrjon és csússzon a dombon.
+
+Egy nap a nagymama azt mondta: "Balázskám, nézz ki! Ma ismét olyan gyönyörű hó esik! Menj csak ki, élvezd a téli vidámságokat, amíg süt a nap, és ne felejtsd el felvenni a sapkát és a kesztyűt!"
+
+Balázs a nagymama szavaira már-már szökött a kapuhoz. Végre, gondolta, kint játszhat a hógolyókkal! Gyorsan felöltözött, és rohant ki a hófödte kertbe.
+
+A kertben a kis Zsófi és a nagy Benedek már a hógolyózás nagy mesterei voltak. Zsófi pici volt, de a hógolyói tökéletes kerekek voltak, Benedek pedig magas, erős, a hógolyói pedig akkora, mint egy dinnye.
+
+- Szia, Balázs! – kiáltott Zsófi. – Készülj, indul a csata!
+
+- Én is itt vagyok! – mondta Benedek nevetve, hatalmas hógolyója már készen állt a támadásra.
+
+A nagy hógolyó csata megkezdődött. A gyerekek bukdácsoltak, kiabáltak, kacagtak a hidegben. Balázs a kis Zsófi mellé állt, a két kis barát egymást támogatta a hóviharból kibukkanó óriási Benedekkel szemben. Benedek ügyesen, célzott, dobott. A hógolyók szálltak, süvítettek a levegőben, mindenki ruhája vastagon hó borult, csak a mosolyuk nem hervadt.
+
+A hógolyó csata közepette Balázs észrevett egy apró manócsaládot a közeli lucfenyő tövében. A manók apró, piros ruhát viseltek, hegyes sapkát, és egy kis fagyöngy koszorú is volt a fejükön. Nyüzsögtek, dolgoztak, mintha valami titkos dolgot készülnének.
+
+- Nézd! – suttogta Balázs Zsófinak. – Manók!
+
+Zsófi szeme elkerekedett. – Tényleg! De mit csinálnak?
+
+A gyerekek a hógolyózást félbehagyták, és közelebb osonkáltak a manókhoz. Látták, hogy a manók pici, ünnepi süteményeket sütnek egy apró kemencében, ami egy mohafészek volt.
+
+- Gyerekek, figyeljetek! – hallotta Benedek hangját. Ő is a manókhoz lépett. – Ők a karácsonyi manók! Segítenek a télapónak a finomságok elkészítésében.
+
+A gyerekek odasiettek. A manók meglátták őket, és kicsit megijedtek. Az egyik, a leghosszabb orrú, szelíden megszólalt: "Ne féljetek, nem bántunk. Ti is a barátaink lehettek, ha segítetek."
+
+Balázs, Zsófi és Benedek egy pillanat alatt elfelejtették a hógolyó csatát, és a manókhoz siettek. A manók nagy örömmel fogadták a segítséget. A gyerekek apró díszeket készítettek a süteményekre, fahéjat szórtak rá, a manók pedig a titkos recept alapján sürgölődtek.
+
+A manók különös, csillogó varázslatot csempésztek a süteményekbe. Mindegyikbe egy-egy pici karácsonyi jókívánságot rejtettek. A manók végül a gyerekeknek is adtak egy-egy apró süteményt, egy csillogó szemüveggel kísérve, mely csak a szeretetben, a mosolyban és a vidámságban segítette az embert.
+
+Amikor beesteledett, és a manók elbúcsúztak a gyerekektől, Balázs, Zsófi és Benedek megették a süteményeiket. Balázs kívánsága az volt, hogy a nagymama sokáig egészséges maradjon. Zsófi azt kívánta, hogy mindig barátok maradjanak. Benedek pedig azt, hogy a hó soha ne olvasson el.
+
+A gyerekek a nagy hógolyó csata és a manókkal való foglalatosság után a nagymamához rohantak. Meséltek a karácsonyi manókról, a varázslatos süteményekről és a jókívánságokról. A nagymama fülig ért a mosolya. Tudta, hogy a gyerekei szívében a szeretet éppoly hatalmas, mint a hógolyók, melyekkel a hóban játszottak.
+
+Este, amikor már csend honolt a házban, és Balázs az ablakban ült, csillagos égre tekintett. Látott egy villogó fényecskét, mely mintha integetett volna neki. Elmosolyodott. Tudta, hogy a manók küldték a jelzést.
+
+Másnap reggelre a falu újabb hóköntöst kapott, és a gyerekek ismét kimentek a kertbe. A nagy hógolyó csata folytatódott, de most már valami más is volt a levegőben: a karácsonyi varázs, a barátság és a sok-sok mosoly. És a manók? Ők, a titokzatos kis lények, továbbra is segítették a karácsony varázsát, apró léptekkel, süteményekkel, jókívánságokkal, ahogyan csak ők tudták. És persze egy pici hógolyó csatáért is.
+
+A téli mókák boldog órái tovább folytatódtak a falu szélén, Balázséknál, és a nagymama sütötte finomságok illata messzire szállt, örömet csempészve a szívekbe, mint a legszebb karácsonyi ének. És a történetből tanulság, hogy a szeretet és a barátság mindennél értékesebb kincs.
+</body>
+```

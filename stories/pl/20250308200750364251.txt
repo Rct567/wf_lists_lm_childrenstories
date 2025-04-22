@@ -1,0 +1,44 @@
+<prompt>
+Please write a light-hearted Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kto Ukradł Słońce? Detektywistyczna Przygoda dla Małych Odkrywców.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>pl</lang_id>
+
+<title>Kto Ukradł Słońce? Detektywistyczna Przygoda dla Małych Odkrywców.</title>
+<body>
+W małej wiosce, położonej w sercu Polski, wybuchła sensacja. Słońce, które codziennie świeciło nad wioską, zniknęło. Mieszkańcy byli zdezorientowani i nie wiedzieli, co się stało. Dzieciaki z wioski postanowiły rozwiązać tę zagadkę i zostać detektywami.
+
+Pierwszym detektywem została mała Kasia, która miała wyobraźnię i odwagę. Kasia zebrała swoich najlepszych przyjaciół: Jasia, Marcina i Olgę. Razem postanowili wyjaśnić tajemnicę zniknięcia słońca.
+
+Początkowo myśleli, że to może być jakiś żart, ale gdy spojrzały na niebo, zobaczyły, że naprawdę słońca nie ma. Zaczęły pytać mieszkańców wioski, czy widzieli coś niezwykłego, ale nikt nic nie wiedział.
+
+Kasia miała pomysł, aby sprawdzić, czy ktoś nie zrobił żartu i nie zakrył słońca jakimś ogromnym parasolem. Poszli do lasu i zaczęli szukać. Gdy szli, natknęli się na starego mężczyznę, który siedział na ławce i patrzył na niebo.
+
+"Czy pan wie, co się stało z słońcem?" - zapytała Kasia.
+
+Stary mężczyzna spojrzał na dzieci i powiedział: "Nie wiem, co się stało z słońcem, ale mogę powiedzieć, że widziałem dziwnego ptaka, który przyleciał do wioski wczoraj wieczorem. Miał ogromne skrzydła i srebrne pióra. Może on wie coś o zniknięciu słońca?"
+
+Dzieciaki spojrzały na siebie i postanowiły odnaleźć tego ptaka. Szukali go po całym lesie, aż w końcu znaleźli go siedzącego na wysokiej sosnie. Ptak spojrzał na nich i powiedział: "Czy możecie mi powiedzieć, czego chcecie? Nie mam czasu na gadanie."
+
+Kasia powiedziała: "Szukamy słońca, które zniknęło z nieba. Czy pan wie coś o tym?"
+
+Ptak spojrzał na niebo i powiedział: "Och, tak! Słońce! To ja je wziąłem. Chciałem mieć je dla siebie, aby móc latać w ciągu dnia i nie bać się ciemności."
+
+Dzieciaki byli zaskoczone. "Dlaczego pan to zrobił?" - zapytał Jasio.
+
+Ptak powiedział: "Bo ja jestem ptakiem nocy i nie lubię słońca. Lecz teraz widzę, że było ono potrzebne wam i całej wiosce. Mogę je oddać, ale musicie mi obiecać, że będziecie mnie chronić przed złymi ludźmi, którzy chcą mnie zabić."
+
+Dzieciaki obiecały ptakowi, że będą go chronić i poprosiły go, aby oddał słońce. Ptak kiwnął głową i wypuścił słońce z powrotem na niebo. Wioska znów była pełna światła i ciepła.
+
+Mieszkańcy wioski byli wdzięczni dzieciakom za rozwiązanie zagadki i uratowanie słońca. Dzieciaki zostały uhonorowane jako detektywi roku i otrzymały specjalne nagrody.
+
+Od tego dnia ptak stał się ich przyjacielem i pomagał im w rozwiązywaniu innych zagadek. Dzieciaki nauczyły się, że nawet najtrudniejsze problemy można rozwiązać, gdy się współpracuje i jest się odważnym.
+
+I tak żyli długo i szczęśliwie, a słońce świeciło nad wioską każdego dnia. Koniec.</body>

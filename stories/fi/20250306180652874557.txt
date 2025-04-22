@@ -1,0 +1,78 @@
+<prompt>
+Please write a dialog-based Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Taikamyrsky ja sen lumoavat liekit'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>fi</lang_id>
+
+<title>Taikamyrsky ja sen lumoavat liekit</title>
+<body>
+Oli kerran kaukaisessa maassa, jossa asui kaksi ystävystä, Mikko ja Emilia. He olivat aina olleet läheisiä, ja heidän ystävyytensä oli vahvempi kuin mikään muu. Eräänä päivänä, kun he olivat kävelemässä metsässä, he kuulivat outoa melua. Se kuulosti kuin joku olisi huutanut heidän nimeään.
+
+"Mikko! Emilia!" ääni kutsui.
+
+He kääntyivät ympäri ja näkivät vanhan naisen seisovan heidän edessään. Nainen oli pukeutunut pitkään, harmaaseen viittaan, ja hänen hiuksensa olivat valkoiset ja pitkät.
+
+"Kuka olet?" Mikko kysyi.
+
+"Olen Akka, vanha metsännoita", nainen vastasi. "Olen kutsunut teidät tänne, koska tarvitsen apuanne."
+
+"Mihin tarvitset apuamme?" Emilia kysyi.
+
+"Taikamyrsky on tulossa", Akka sanoi. "Se on voimakas myrsky, joka voi tuhota koko maamme. Mutta minulla on suunnitelma, jolla voimme estää sen."
+
+"Mikä suunnitelma on?" Mikko kysyi.
+
+"Meidän on löydettävä taikamyrskyn keskipiste", Akka vastasi. "Siellä on liekki, joka pitää myrskyn voimaa hallussa. Jos me pystymme sammuttamaan liekin, myrsky häviää."
+
+He lähtivät Akkan johdolla etsimään taikamyrskyn keskipistettä. He kävelivät pitkin metsää, ylittivät joen ja kiipesivät ylös vuorelle. Matka oli pitkä ja vaativa, mutta he eivät antaneet periksi.
+
+Lopulta he saapuivat taikamyrskyn keskipisteeseen. Siellä he näkivät valtavan liekin, joka poltti voimakkaasti. Liekin ympärillä oli rengas, joka kiilti kuin kulta.
+
+"Mikä se rengas on?" Emilia kysyi.
+
+"Se on taikarengas", Akka vastasi. "Se pitää liekin voimaa hallussa. Jos me pystymme tuhoamaan renkaan, liekki sammuu."
+
+He yrittivät tuhota renkaan, mutta se oli liian vahva. He löivät sitä kivillä, mutta se ei murtunut. He yrittivät polttaa sen, mutta se ei palanut.
+
+"Mikä meidän pitäisi tehdä?" Mikko kysyi.
+
+"Meidän on löydettävä taikasana", Akka sanoi. "Se on sana, joka voi tuhota renkaan. Mutta sana on salattu, ja meidän on löydettävä se itse."
+
+He alkoivat etsiä taikasanaa. He etsivät metsästä, joesta ja vuorelta, mutta he eivät löytäneet mitään. He olivat jo menettäneet toivonsa, kun Emilia muisti vanhan tarinan, jonka hänen isoäitinsä oli kertonut hänelle.
+
+"Minä muistan tarinan, jossa taikasana on salattu runossa", Emilia sanoi.
+
+"Mitä runo on?" Akka kysyi.
+
+"Runo on:
+
+Taikamyrsky, voimakas ja vahva
+Pitää maamme hallussa
+Liekki polttaa, rengas kiiltää
+Mutta taikasana voi tuhota
+
+Sana on salattu, mutta se on
+Löydettävissä, jos etsii oikein
+Se on sana, joka voi muuttaa
+Maailman, ja tehdä sen uudeksi
+
+"Mikä sana on?" Mikko kysyi.
+
+"Minä tiedän", Emilia sanoi. "Sana on 'rakkaus'."
+
+He lausui sanan 'rakkaus' ja taikarengas murtui. Liekki sammui, ja taikamyrsky hävisi. Maansa oli pelastettu, ja Mikko ja Emilia olivat sankareita.
+
+He palasivat kotiin, ja heidän ystävyytensä oli vahvempi kuin koskaan. He tiesivät, että he voivat aina luottaa toisiinsa, ja että heidän ystävyytensä oli voimakkaampi kuin mikään muu.
+
+Ja niin he elivät onnellisina, ja heidän ystävyytensä kasvoi vain vahvemmmaksi. He tiesivät, että he olivat osa jotain suurempaa, ja että heidän ystävyytensä oli avain siihen.
+
+Kun he vanhenivat, he kertoivat tarinaa taikamyrskystä ja sen lumoavista liekeistä. He kertoivat, miten he olivat pelastaneet maansa, ja miten heidän ystävyytensä oli ollut avain onnistumiseen.
+
+Ja niin tarina taikamyrskystä ja sen lumoavista liekeistä eli edelleen, ja se kertoi, miten ystävyydestä ja rakkaudesta voi syntyä suuria asioita.</body>

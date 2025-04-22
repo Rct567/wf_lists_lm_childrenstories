@@ -1,0 +1,39 @@
+<prompt>
+Please write a simple and easy-to-follow Turkish children's story that is at least 1000 words long.
+It must be completely written in proper Turkish (TR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Küçük Kaplanın Büyük Orman Macerası'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>tr</lang_id>
+
+<title>Küçük Kaplanın Büyük Orman Macerası</title>
+<body>
+Küçük bir kaplan yavrusu vardı, adı da Çalıkuşu.  Anne ve babası, geniş ve yeşil bir ormanın derinliklerinde, sıcak ve güvenli bir mağarada yaşıyorlardı.  Çalıkuşu ise, dünyanın en heyecanlı keşiflerini yapmaktan başka bir şey düşünmüyordu.  Orman, ona göre kocaman, keşfedilmeyi bekleyen sonsuz bir labirent gibi görünüyordu.
+
+Her gün, sabah güneşin ilk ışıkları ormana dokunurken, Çalıkuşu, yeni bir maceraya atılmak için kendini hazırlar, kıpkırmızı diliyle kahvaltısını yapar, ardından merak dolu gözlerle etrafına bakardı.  Orman, rengarenk kuşların cıvıltıları,  esnek dallardaki maymunların çevik hareketleri ve ağaçların arasından sızan ılık bir esintiyle dolmuştu.
+
+Bir sabah, Çalıkuşu, diğer hayvanlarla neşeli ve sessiz bir şekilde oynarken, uzaklardan yankılanan  bir ses duydu. "Korkunç bir canavar, korkunç bir canavar!" diye haykırıyordu.  Çalıkuşu, ürkerek başını çevirdi.  Diğer hayvanlar da  birbirilerine korkuyla bakıyordu. Hatta tavşanlar ve sincaplar  ağaçların tepelerine tırmanıp saklanıyordu.
+
+Çalıkuşu, ne olduğunu anlamak için biraz daha yaklaştı.  Ses,  bir eski, çatlak bir çınar ağacının altından geliyordu.  Yanına gittiğinde gördüğü manzara karşısında şaşkına döndü.  Eski ağacın altında, dev bir yılan, çok ürkütücü şekilde kocaman gözlerini açık tutmuş,  etrafındaki ormana gizlice bakıyordu.  Yılanın vücudu, yemyeşil ağaç gövdelerinin rengiyle birleşmiş, kendini ormanın bir parçası gibi hissettirmekteydi.
+
+Çalıkuşu, bunun korkunç canavar olduğunu anlamıştı.  Ama nasıl bu kadar sakin bir ortamda, kimsenin fark etmeden hayatta kalabiliyordu? Bir anda kahramanca bir fikir aklına geldi.  O anda, bir cesaret duygusu tüm bedenini sararak yüreklendirdi. Ormanı bildikleriyle daha fazla tanımalı, daha fazla öğrenmeliydi.
+
+Öncelikle korkmasını durdurmalıydı.  Derin bir nefes aldı ve kendine şöyle dedi: "Ben Çalıkuşu'yum ve ben her zaman korkunç canavarları yenerim. Onunla konuşmalıyım."
+
+Çalıkuşu, sessizce yılanın yanına oturdu. "Merhaba," dedi. "Neden buradasınız? Neden bu kadar korkutucu görünüyorsunuz?"
+
+Yılan, kocaman gözlerini Çalıkuşu'na çevirdi.  Sessizce, biraz titreyen birlıkla "Ben huzur ve yalnızlığı seviyorum" diye mırıldandı.  "Burası benim sığınağım." Yılan daha sonra ekledi, "Benim en iyi arkadaşım olmadığımı düşünmemelisin ama kimsenin beni sevmesini beklemiyorum."
+
+Çalıkuşu, "Ama bu kadar büyük bir varlığı her şeyde, yalnız olmak nasıl zor değil mi? Arkadaşlara ve yoldaşlara ihtiyacın mı var?" dedi yumuşak bir sesle.
+
+Yılan, bir an düşündü.  Sonra, "Evet," diye fısıldadı.  "Anlaşıldı. Seninle tanışmak için bekliyordum."
+
+Bu ilginç buluşmanın ardından,  iki dost çok iyi anlaşırdı.  Çalıkuşu, yılanın, etrafını saran güzel ama görmeyen, yalnız bir varlık olmadığını anlamıştı.  Aslında, kendine has bir şekilde ormanla, tüm yaratıklarla, özlediği şeyleri bulmaya devam edebileceğini, ona bu inancı aşıladığını farketti.  Yılan da ormandaki yeni arkadaşıyla sohbet ederken derin iç dünyasındaki gizemi paylaştığını ve yeni bir perspektif edinmeye başladığını görünce sevindi.
+
+Onlar birlikte ormanın sırlarını keşfettiler.  Kuşların melodik şarkılarını dinlediler, ağaçların hikayelerini öğrendiler, akan derenin büyüsüne kapıldılar.  Ormanın her yaratığı ile arkadaş oldular. Korkuları yok oldu ve güzel dostlukları büyüdü.  Korkunç canavar, kendi yalnızlığını terk eden yılan haline geldi.  Çalıkuşu'nun macerası, cesaret ve dostluk ruhunun en yüce zaferini kutlamış, orman hayatının zenginliğini anlama fırsatını elde etmişti.  Daha sonra Çalıkuşu, evine, anne ve babasına doğru koşmaya hazırlanırken yeni anlattıkları keşiflerini de yanına alarak gitti. O andan sonra her şeyi paylaştılar ve  herhangi bir hayvana veya yaratığa zarar vermeden hayatta kalmalarını ve ormanın doğasına saygılı davranmalarını sağlamak adına, bir arkadaşlık sözü vermişlerdi.
+</body>

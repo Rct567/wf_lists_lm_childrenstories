@@ -1,0 +1,38 @@
+<prompt>
+Please write a relatable Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A Fáradhatatlan Hangyák és a Szorgalmas Csigák'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>A Fáradhatatlan Hangyák és a Szorgalmas Csigák</title>
+<body>
+A patakparton, a napsütötte, zöld fűben, éltek a fáradhatatlan hangyák és a szorgalmas csigák.  A hangyák a legkisebb, apró, barna szorgos dolgok voltak a földön.  Minden nap hajnalban, amikor még a nap csak aranyló foltokat festett az égre, a hangyák munkába álltak.  Magas fűszálak között, bokrok tövében, és minden föld alatti kis résben keresgélt, cipelt, pakolt. Szántották a földet apró lábaikkal,  vitték magukkal a fűszálakat és a magokat.  Minden hangya a maga apró munkáját végezte, és közben mindig halkan zümmögtek egymásnak.
+
+A szorgalmas csigák azonban lassabbak voltak.  Piros, narancssárga, és szürke csíkokat viseltek magukon, és a legnagyobb örömükben lassú, de határozott csúszással vándoroltak a fű között.  Nárciszvirágok mellett, pirosló málnaszőlő bozótjai alatt és köveken vándoroltak, hagyva maga után szép, kis csúszó nyomokat.  Mindig egymással beszélgettek és látszólag soha nem siettek sehova.   
+
+Egy napon a patakparton csodálatos, nagyméretű virágcsomó tört fel a földből.   Aranybarna, fényes virágokból álltak össze.  Szagosak voltak, a ropogós, csodálatos illatuk megcsodálták mindkét faj tagjait.  A hangyák azonnal tudták, hogy ez a tökéletes élelmiszer, amely segít nekik az egész téli időszakra.  De a szorgalmas csigák egy kicsit zavarban voltak, hiszen az első virágokból csak néhány kis darab volt a földi részen, melyik elég volt az első részük megragadására. 
+
+– Gyorsabban kell gyűjtenünk! – sürgette az egyik, kisebb barna hangya, és máris megindultak, mint kis mozgó traktorok.  Egy-egy darabból hozták haza a virágokat és elkezdtek szorgalmasan tárolni őket.  A csigák azonban nem voltak meggyőződve arról, hogy ők is részt akarnak venni ebben az akcióban. A csigahajtók lassan, de szorgalmasan kúsztak és megtették az első megtett szakaszt a nagy virágmező felé. 
+
+– Nem kell sietni! – nyögte egy idősebb, vörös csíkú csiga. – Meg tudjuk várni, amíg a virágok kifejlődnek, akkor nagyobb adagban tudjuk elvinni őket.
+
+De a hangyák már rég felpakolták a virágzó részből a legtöbb szirmot, amit a földbe rejtettek el a téli éhség ellen.  Nagy részét a csigáknak semmi sem mutatott már be a csigákhoz való áthelyezéshez.  És hiába, amíg megpróbálták elérni a nagy területet a gyorsabbaktól, a virágzó részek elkezdenek visszahúzódni.
+
+A hangyák a többnapos nehéz munkájukkal a számos megőrzött rész virágait már egy nagy hegyre tárolták a fűben, készen a télre.  Megfordultak, felálltak és visszamentek. Miközben távoztak, felfedeztek egy furcsaságot. A szorgalmas csigák továbbra is ott csúsztak. Látszólag nem értették meg mi történt. 
+
+– Miért hagytuk őket ott? – gondolkodott egy fiatal hangya. – Ha együtt dolgozunk, akkor még többet gyűjthettünk volna.
+
+Az idősebb hangyák megrázták a fejük és közölték:
+– A virágok már alig maradtak. Ha meg akarjuk gyűjteni az összeset, muszáj gyorsabban dolgozni.
+
+
+Azonnal egyetértettek és együtt elkezdtek dolgozni a szorgalmas csigákkal.  Közösen vitték a virágdarabokat és töltötték meg a tároló üregeket.  Mindig együtt vándoroltak. A csigák lenyűgözték a szorgalmukkal, de a gyors munkában nem voltak képesek megtartani a versenyt a hangyákkal.  Így együtt a csigák segítették a hangyákat összegyűjteni a többi szirmot és elraktározzák azokat.
+A hangyák és a csigák, bár különbözőek voltak, megértették, hogy a kölcsönös együttműködés többet eredményez, mint a verseny. És együttesen a fáradhatatlan hangyák és a szorgalmas csigák, egymást segítve megmenekítették magukat a tél nagy gondjától, biztosítva ezzel mindkét fajlagos jólét és boldogságát.
+</body>

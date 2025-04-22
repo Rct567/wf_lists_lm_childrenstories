@@ -1,0 +1,39 @@
+<prompt>
+Please write a simple and easy-to-follow Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Jak Smok Bazyli Nauczył się Grać na Gitarze i Został Muzykiem.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>pl</lang_id>
+
+<title>Jak Smok Bazyli Nauczył się Grać na Gitarze i Został Muzykiem.</title>
+<body>
+W krainie pełnej zielonych łąk i błękitnego nieba, gdzie góry sięgały chmur, mieszkał smok Bazyli. Nie był to typowy smok, który tylko wdychał ogień i siał spustoszenie. Bazyli, choć miał potężne skrzydła i ogon jak płonąca pochodnia, miał serce pełne muzycznej tęsknoty.  Uwielbiał słuchać śpiewu ptaków, szum wiatru w koronach drzew i odgłosy strumyka płynącego przez dolinę. Ale nic nie poruszało go tak głęboko, jak dźwięk muzyki.
+
+Pewnego słonecznego ranka, spacerując po górskich zboczach, natknął się na małego, przygarbionego chłopca, który siedział przy strumieniu, przygrywając sobie na starej, podniskanej gitarze. Dźwięki, choć nierówne i nieśmiałe, poruszały coś w sercu smoka.  Bazyli, zaskoczony, podniósł się, a jego ciężkie kroki zasypały ścieżkę drobnym pyłem. Chłopiec, przestraszony, podniósł wzrok.  Jego oczy zaświeciły w przerażeniu, a dłonie zdrętwiały. Smok nigdy dotąd nie widział takiego dziwnego stworzenia, takiego jak on. 
+
+"Co ty robisz?" – zagrzmiał Bazyli swoim głębokim głosem, który mógł zburzyć góry.  Chłopiec, z trudem powstrzymując płacz, pokiwał głową. "Gram na gitarze" – wyszeptał cicho. "Nazywam się Janek."
+
+Smok Bazyli, zaskoczony tak nieoczekiwaną reakcją chłopca, pomyślał: "Gra na gitarze? Interesujące."
+
+Janek, widząc, że smok nie wygląda groźnie, zaczął opowiadać o swojej pasji, o tym, jak uczył się grać na gitarze, o każdym dźwięku, który go poruszał.  Bazyli słuchał z zaciekawieniem, czując coraz większą sympatię do tego skromnego chłopca. To było zupełnie nowe doświadczenie dla smoka – słyszeć tak dużo emocji i zaangażowania w czymś tak... prostym.
+
+"Ja też lubię dźwięki" – powiedział cicho smok.
+
+Janek szeroko otworzył oczy.  "Ależ ty jesteś dziwny smok!"
+
+Smok Bazyli uśmiechnął się, uśmiech tak potężny, że drżała ziemia. Był to pierwszy taki uśmiech, jakiego do tej pory doświadczył, a wywołało go coś zupełnie innego niż ogień czy groźba.  "Czy mógłbym spróbować?" zapytał.
+
+Janek, zaskoczony, ale i ciekawy, podał smokowi gitarę.  Bazyli zajął miejsce, o wiele większy od podestu w stosunku do gitary, położył ciężką łapę na gryfie i zaczął próbować. Jego pierwsze próby były żałosne. Struny brzęczały boleśnie, wydając dźwięki przypominające gniewny grzmot.  Ale smok był cierpliwy i uprzejmy, tak jak nauczył go Janek w ich poprzednich rozmowach.  Dźwięk ten, podobny do wiatru słychać wszędzie, został wkrótce zastąpiony w jego głowie pięknym, cudownym dźwiękiem, który wydał się emanować z wewnątrz.
+
+Stopniowo, z każdą próbą, muzyka smoka stawała się bardziej płynna, bardziej zmysłowa.  Janek obserwował go z coraz większą ciekawością, a serce mu podskakiwało z radości.  Smok miał coś w sobie, wyjątkowego talentu, który mógł przekroczyć każdą barierę i ograniczenie. 
+
+Dni mijali. Bazyli i Janek spędzali wiele godzin na wspólnym graniu. Smok poznawał sztukę gry, a chłopiec - wyjątkowy temperament i potencjał smoka. Nauczyli się od siebie nawzajem. Smok uczył się cierpliwości, wytrwałości, i tego, że każdy dźwięk, nawet najbardziej dziwny, może być piękny, jeśli gra się z miłością. A Janek dowiedział się, że przyjaźń może łączyć nawet smoki i ludzi.
+
+W końcu nadszedł dzień, kiedy smok Bazyli grał tak pięknie, że wszyscy w okolicy zaczęli słuchać. Wiele osób zebrało się, by posłuchać, z dumą w sercach. Był to wyjątkowy dźwięk, który wzniecał serce w tak cudowny sposób.  Od tamtej pory smok Bazyli znany był już jako słynny Smok-Muzyk. Jego muzyka docierała wszędzie, otulała w ciepło serc i ożywiała dusze, dając ludziom nadzieję na lepsze jutro.  A Janek, jego przyjaciel, był dumny, że był częścią jego historii. I tak w tej magicznej krainie smok i chłopiec kontynuowali swoją niezwykłą muzyczną podróż, pokazując wszystkim, że przyjaźń i miłość do muzyki mogą pokonać każdą odległość i różnicę.
+</body>

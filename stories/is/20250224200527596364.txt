@@ -1,0 +1,37 @@
+<prompt>
+Please write a uncomplicated Icelandic children's story that is at least 1000 words long.
+It must be completely written in proper Icelandic (IS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Segðir og sagnir af dýrum og fuglum'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>is</lang_id>
+
+<title>Segðir og sagnir af dýrum og fuglum</title>
+<body>
+Hrafninn, Hákon, var ekki eins góður flugmaður og aðrir hrafnar í skóginum. Hann var heldur óvenju stórtækur, með fjólublátt fjöður um hnakka og svo dökkgræna á öðrum hluta. Það var ekki alveg venjulegt hjá hrafnum í skóginum.  Hann þráði að vera eins og hinir, að fljúga hátt og hraðar, en hann gat það ekki.  Hann var alltaf að bíða eftir að sjá hvernig hinir hrafnar fljúgu, að fylgjast með þeim frá greinunum, og þá fljúga hann, og fljúga, og fljúga. En hann lenti alltaf í tré.  Það var mjög leiðinlegt.
+
+Ein daginn sá Hákon, hrafninn, fjölbreyttur hópur af dýrum og fuglum á brautinni, að halda til fundar.  Hann, stórtækur og fjólubláaður, leyndi sér í bak trjágrein.  Þar sá hann fjölbreytt fjöldamörk dýra;  hríðin, litla, þægilega Hrísla;  hörðan, háalættan hróa;  völundir og vefðir vöðvar af vöðvukörkum;  og svo fjölmargir fjöldarfuglar, frá litlu, skærri sverfum upp til stórfjölmargra sænska.  Aðalatriðið var hins vegar,  hinn langa, slæma skjöldur, sem var að tala um eitt og sér.
+
+Skjöldurinn, sem var með stórt, skært horn á höfði sér, taldi langar, flóknar sagnir um fjöld af dýrum og fuglum.  Hann sagði frá dýrlegum dæmigerðum  þar sem kóngshöfðingi var ekki aðeins mikill maður, heldur einnig mikill samvinnufuglur.  Hann sagði að þeir hjálpuðu hver öðrum, að taka á vandamálum saman, að vernda hver annan.  Það hreyfði Hákon, hrafninn, til að heyra þetta.
+
+Hríslan, litla, þægilega, sagði hljóðlega, „Ég er alltaf að hjálpa öðrum. Ég þarf að leita að matinn minn, en ég hjálpa öðrum hríslum og öðrum dýrum með skráningu þeirra.  Ég er alltaf að koma í veg fyrir að þeir verði í vandræðum.“
+
+Hróinn, háalættinn, sagði með djúpum rödd, „Ég held áfram í minni leið, ég virði og met mitt eigin rými og vernda það.“
+
+Völundir og vöðvarnir vöðvuðu saman, og sagðir frá samvinnu sinni við að vernda trén þeirra fyrir skemmdum og íbúðum.
+
+Það var áhugavert fyrir Hákon, hrafninn, að heyra hvað þau dýr og fuglar höfðu að segja.  Hann hugsaði um að hann gæti hjálpað öðrum á sinn hátt, að hann gæti hjálpað einhvern daginn.
+
+Skjöldurinn, með sinni stóru horn, sagði, „Hver einstaklingur, hver fuglur, hvert dýr, er mikilvægt.  Samvinna og umhyggja fyrir öðrum gerir okkur sterkari sem hóp.  Þú getur verið einstakur, og samt hjálpa öðrum."
+
+Hákon, hrafninn, hugsaði um þetta, og minnkaði aðeins þegar hann var að fljúga.  Hann reiddi sig og flýtti sér að verða betri flugmaður.  Hann hefði getað flúið hærra og hraðar, eins og aðrir hrafnar, eins og aðrir fuglar.  Hann hefði getað verið mikilvægur fyrir hópinn, að hjálpa þeim að vera sterkari og betur.
+
+Skjöldurinn lagði til að Hákon, hrafninn, myndi æfa sig í skóginum.  Hákon æfði sig dag eftir annan, í gegnum hverja grein, hverja klett, með miklum ástríðu. Hann lærði frá öðrum fuglum, frá hinum einstaka dýrum.
+
+Í lokinn, á einum góðum morgni, fljúga Hákon, hrafninn, hátt og hraðar en nokkur sinnum áður.  Hann lenti ekki í trjánum.  Hann fór hægt, og hægt, svo hægt að hann var næstum við skylið.  Þar með sýndi hann öllum að með því að æfa og með því að vera í góðu samvinnu við aðra, gætu jafnvel minnsti fugl og stórtækur hrafn fengið að nýta sig að fullu.  Hann var nú aðeins eins góður flugmaður og hinir hrafnar í skóginum, og svo, með dýrlegum hæfileika, hjálpaðist hann við öðrum, eins og hann hafði lært á fundinum.  Og þar með var Hákon ekki lengur bara Hákon. Hann var Hákon, hrafninn, sem samvinnuði við aðra.
+</body>

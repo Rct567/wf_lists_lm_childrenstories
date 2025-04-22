@@ -1,0 +1,37 @@
+<prompt>
+Please write a fun and entertaining Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Mały dinozaur, który chciał być aktorem'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>pl</lang_id>
+
+<title>Mały dinozaur, który chciał być aktorem</title>
+<body>
+W zielonym, bujnym lesie, gdzie słońce przebijało się przez gęstą koronę drzew, żył mały dinozaur o imieniu Dinozaurek.  Nie był duży, ani groźny jak jego starsi kuzyni. Był malutki, z długim, zwiewnym ogonkiem, który ciągle się zaplątywał w krzaki, i ogromnymi, brązowymi oczami, które błyszczały od wielkiej ciekawości.  Dinozaurek był bowiem marzycielem, a jego największym marzeniem było bycie aktorem.
+
+Wszyscy w lesie śmiali się z jego marzeń.  Wilki z przepastnego wąwozu mówiły, że aktorstwo to bzdury, że prawdziwy dinozaur powinien polować na pyszne owady, a nie udawać kogoś innego.  Sosny szeptały między sobą, że jego dźwięki „aa” i „ohoho” brzmią jak szarpnięcia wichru, a nie jak pełne pasji słowa.  Nawet małe muchówki śmiały się z jego kreacji i syczały przekornie między jego liściastymi stopami.
+
+Ale Dinozaurek nie poddawał się.  Codziennie, kiedy słońce budziło się ze snu, Dinozaurek ćwiczył swoje talenty aktorskie. Imitował skoki konika polnego, poruszał się z gracją żab, udawał, że śpi na wysokim drzewie, a potem budził się w szoku.  Oczywiście, najczęściej kończyło się to tym, że zaplątywał się w jakieś rośliny, spadał z gałęzi lub wprost w strumień.  Ale Dinozaurek nie zniechęcał się.  Wręcz przeciwnie, każdy nowy błąd stawał się dla niego lekcją, kolejnym krokiem w kierunku spełnienia jego aktorskiego snu.
+
+Pewnego słonecznego dnia, do lasu przybył nowy gość. Była to podróżująca menażeria – wielka ciężarówka z pstrymi, ekscytującymi napisami. Wszyscy mieszkańcy lasu zgromadzili się w pobliżu.  Dinozaurek też podszedł, chowając się za pniem starej dębiny.  W środku ciężarówki słychać było głośne piski, warknięcia,  oraz śmiech ludzi, a w pewnym momencie głośny, dźwięczny głos wzmógł się nad inne odgłosy. To był głos trenera teatrzyku, pana Borysa! Z głośnika wyszła niesamowita melodia – i wszyscy zdumieni znieruchomeli.  Dinozaurek wiedział! Wiedział, że to jego szansa!
+
+Nagle Dinozaurek zrobił się odważny.  Wyskoczył z za drzewa. Pan Borys złapał go spojrzeniem i zauważył te wielkie brązowe oczy.
+
+„Hej mały przygodo, czymś cię interesuje? Jaki masz talent?”- spytał pan Borys.
+
+Dinozaurek, nie mogąc się powstrzymać, zaszczekał „Auuu!”, a potem wykonał kilka błyskawicznych,  dyskretnych i wcale nie groźnych skoków wokół.
+
+Pan Borys zaśmiał się radośnie. „Przemiły! Masz w sobie dużo uroku, a ta twoja chęć bycia aktorem… niesamowita! Przecież twoje małe skoki wyglądają tak zabawnie!  Dołączysz do nas do spektaklu!"
+
+Dinozaurek był nadzwyczaj szczęśliwy!  Całego dnia ćwiczył skoki, tańczył z leśnymi zwierzakami i przyglądał się jak mistrzowsko pan Borys trenował małe króliki i liski.  Ostatecznie, doszli do punktu krytycznego - spektaklu dla gości!  Pan Borys ustawił na wielkim lesistym obszarze wspaniałą scenę.
+
+Dzień przedstawienia nadszedł.  Słońce świeciło jasno, a tłumy ludzi zgromadziły się wokół sceny. Dinozaurek, w pięknym, różowym stroju, stał z zachwytem czekając na swoją kolej. Na scenie grały instrumenty, ludzie wokół się śmiali, a Dinozaurek wykonał swój numer – wspaniałe skoki, skoki, aż do samych, jasno-szarych chmur! Słuchacze z wielkim aplauzem nagradzali dinozaury!
+
+Dinozaurek grał aż do zmroku, śmiał się z radości, czuł ciepło na sercu i na swojej głowie czuł nade wszystko  głosy zachwyconej publiczności.  Od tamtej pory Dinozaurek był najpopularniejszym aktorem w lesie, dowodząc wszystkim, że nawet najmniejsze stworzenie może spełnić swoje marzenia, jeśli tylko będzie odważne, ciężko pracować i kochać aktorstwo. I tak, Dinozaurek, mały dinozaur, który chciał być aktorem, został w końcu mistrzem aktorskiego snu, i radośnie zaplanował swoje następne przygody!
+</body>

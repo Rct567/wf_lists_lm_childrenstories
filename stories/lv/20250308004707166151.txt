@@ -1,0 +1,72 @@
+<prompt>
+Please write a dialog-based Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Dzīves prieki un bērnības atmiņas'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>lv</lang_id>
+
+<title>Dzīves prieki un bērnības atmiņas</title>
+<body>
+Viens skaists vasaras diena, saulaina un siltaina, bija pusdienlaiks mazā ciematā, kurā dzīvoja četri draugi - Roberts, Laura, Kārlis un Anete. Viņi visi bija apmēram desmit gadus veci un mācījās vienā un tai pašā skolā. Pēc pusdienām viņi nolēma doties uz mežu, jo gribēja izbaudīt brīvu laiku un baudīt dabas skaistumu.
+
+"Es gribu iet uz mežu un meklēt sēnes!" teica Roberts, kurš bija visu laiku interesējies par dabu un vēlējās kļūt par mežzinātnieku.
+
+"Es arī gribu iet!" piebiedrojās Laura, kura bija mīlējusi meža gājienus un dabas pētījumus.
+
+"Es esmu gatavs!" teica Kārlis, kurš bija sportisks un mīlēja aktīvās atpūtas veidus.
+
+"Un es?" pieprasīja Anete, kura bija visai mazākumā un baidījās, ka viņi aizies bez viņas.
+
+"Tu varēsi iet ar mums!" teica Roberts, kurš bija visu laiku atbalstījis un aizstāvējis savus draugus.
+
+Tādējādi četri draugi devās uz mežu, kur viņi pavadīja visu dienu, meklējot sēnes, pētījot dabu un baudījot brīvo laiku. Viņi atrada daudz sēņu, tai skaitā arī dažas retas un dārgas sugas, un noskaidroja, ka mežs ir pilns ar noslēpumiem un skaistumiem.
+
+Pēc ilgas dienas mežā draugi atgriezās ciematā, kur viņi sastapa savus vecākus un stāstīja viņiem par savām piedzīvojumiem. Viņi bija visi ļoti priecīgi un laimīgi, jo bija baudījuši dabu un savu draudzību.
+
+"Nākamreiz mēs vēlās doties uz jūru!" teica Laura, kura bija mīlējusi jūras ainavas un vēlējās redzēt valsts daudzveidīgo dabu.
+
+"Es arī gribu iet uz jūru!" piebiedrojās Kārlis, kurš bija sportisks un mīlēja ūdens sporta veidus.
+
+"Es esmu gatavs!" teica Roberts, kurš bija visu laiku interesējies par dabu un vēlējās izbaudīt visu, ko valsts var piedāvāt.
+
+"Un es?" pieprasīja Anete, kura bija visai mazākumā un baidījās, ka viņi aizies bez viņas.
+
+"Tu varēsi iet ar mums!" teica Roberts, kurš bija visu laiku atbalstījis un aizstāvējis savus draugus.
+
+Tādējādi četri draugi nolēma doties uz jūru nākamajā brīvdienā, kur viņi plānoja pavadīt dienu, baudījot jūras ainavas, ūdens sporta veidus un savu draudzību. Viņi bija visi ļoti priecīgi un laimīgi, jo zināja, ka viņi var baudīt dabu un savu draudzību.
+
+Pēc dažām dienām četri draugi devās uz jūru, kur viņi pavadīja visu dienu, baudījot jūras ainavas, ūdens sporta veidus un savu draudzību. Viņi noskaidroja, ka jūra ir pilns ar noslēpumiem un skaistumiem, un ka dabas skaistums ir visur, kur viņi skatās.
+
+"Es mīlestu jūru!" teica Laura, kura bija mīlējusi jūras ainavas un vēlējās atgriezties tur vēlreiz.
+
+"Es arī mīlestu jūru!" piebiedrojās Kārlis, kurš bija sportisks un mīlēja ūdens sporta veidus.
+
+"Es esmu ļoti priecīgs, ka esmu šeit!" teica Roberts, kurš bija visu laiku interesējies par dabu un vēlējās izbaudīt visu, ko valsts var piedāvāt.
+
+"Un es?" pieprasīja Anete, kura bija visai mazākumā un baidījās, ka viņi aizies bez viņas.
+
+"Tu esi mūsu draugs, un tu vienmēr vari būt ar mums!" teica Roberts, kurš bija visu laiku atbalstījis un aizstāvējis savus draugus.
+
+Tādējādi četri draugi pavadīja visu dienu uz jūras krastā, baudījot dabu un savu draudzību. Viņi bija visi ļoti priecīgi un laimīgi, jo zināja, ka viņi var baudīt dabu un savu draudzību, un ka viņi ir viens otram ļoti svarīgi.
+
+Pēc dažām dienām četri draugi atgriezās ciematā, kur viņi sastapa savus vecākus un stāstīja viņiem par savām piedzīvojumiem. Viņi bija visi ļoti priecīgi un laimīgi, jo bija baudījuši dabu un savu draudzību.
+
+"Es gribu atgriezties uz jūras krastā!" teica Laura, kura bija mīlējusi jūras ainavas un vēlējās atgriezties tur vēlreiz.
+
+"Es arī gribu atgriezties uz jūras krastā!" piebiedrojās Kārlis, kurš bija sportisks un mīlēja ūdens sporta veidus.
+
+"Es esmu gatavs atgriezties uz jūras krastā!" teica Roberts, kurš bija visu laiku interesējies par dabu un vēlējās izbaudīt visu, ko valsts var piedāvāt.
+
+"Un es?" pieprasīja Anete, kura bija visai mazākumā un baidījās, ka viņi aizies bez viņas.
+
+"Tu vari būt ar mums, un mēs visi kopā atgriezīsimies uz jūras krastā!" teica Roberts, kurš bija visu laiku atbalstījis un aizstāvējis savus draugus.
+
+Tādējādi četri draugi nolēma atgriezties uz jūras krastā nākamajā brīvdienā, kur viņi plānoja pavadīt dienu, baudījot jūras ainavas, ūdens sporta veidus un savu draudzību. Viņi bija visi ļoti priecīgi un laimīgi, jo zināja, ka viņi var baudīt dabu un savu draudzību, un ka viņi ir viens otram ļoti svarīgi.
+
+Un tā četri draugi turpināja baudīt savu bērnību, pētījot dabu, izbaudījot brīvo laiku un savu draudzību

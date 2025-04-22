@@ -1,0 +1,59 @@
+<prompt>
+Please write a uncomplicated Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Na hÉiníní Óga agus an Dúil Mhór'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>ga</lang_id>
+
+```xml
+<title>Na hÉiníní Óga agus an Dúil Mhór</title><body>
+Bhí lá breá grianmhar ann i nGleann na gCraobh. Bhí an ghrian ag taitneamh go geal ar na crainn arda agus ar na bláthanna beaga daite. Bhí sé ina lá foirfe le haghaidh eachtraíochta. Bhí triúr éiníní an-óg, beag bídeach, ina gcónaí i nead beag, cleiteach i gcrann darach mór.
+Ba iad Fionn, Ailbhe, agus Caoimhe na hainmneacha a bhí orthu. Bhí súile móra, dubha acu, agus gobáin bheaga bhuí. Bhí siad breá sásta ina nead, ag fanacht leis an máthair-éan, Máire, chun bia a thabhairt dóibh.
+"Tá ocras orm!" a dúirt Fionn, an t-éanín ba shuntasaí acu.
+"Mise freisin," a dúirt Ailbhe, ag preabadh ar a chosa beaga.
+"Agus mé féin," a dúirt Caoimhe go bog, ag síneadh a sciathán beaga.
+
+D'eitil Máire, a máthair, amach go luath ar maidin, ag cuardach feithidí agus síolta. Bhí sí ar ais go tapa leis an mbia, ach sa lá seo, bhí sí tar éis moilliú beagáinín.
+"Tá brón orm, mo pháistí," arsa Máire, agus í ag tabhairt bia dóibh. "Bhí mé ag iarraidh an oiread bia agus is féidir a fháil daoibh, mar go bhfaca mé rud a d'fhéadfadh a bheith ina dhúshlán."
+"Cad é, Mamaí?" a d'fhiafraigh Caoimhe, a bhéal ag oscailt le haghaidh bia.
+"Dúil mhór," arsa Máire go tobann. "Seo rud olc agus tá sé ag druidim linn."
+"An bhfuil sé ag iarraidh ithe linn?" a d'fhiafraigh Fionn, a shúile ag cur imní.
+"Níl," a dúirt Máire. "Ach tá sé ag iarraidh scrios a dhéanamh ar gach rud."
+"Cad is féidir linn a dhéanamh?" a d'fhiafraigh Ailbhe, ag teacht níos gaire dá máthair.
+"Caithfimid meas a bheith againn ar an dúlra agus cabhrú leis," a dúirt Máire dá bpáistí go cúramach. "Ní mór dúinn a bheith cróga. Caithfimid ullmhú don rud atá le teacht."
+
+Chuir an dúil mhór go leor eagla ar na h-éiníní, ach lean siad na treoracha a thug a máthair dóibh. Lá i ndiaidh lae, mhúin Máire dóibh conas a bheith láidir agus cúramach. Mhúin sí dóibh faoi na crainn mhóra, na bláthanna boga, agus an sruthán gleoite. Mhúin sí dóibh freisin faoi conas aire a thabhairt dá chéile, agus conas cabhrú le hainmhithe eile.
+"Cuimhnigí," a dúirt sí leo, "tá an dúlra go léir nasctha le chéile. Má chabhraíonn muid le chéile, is féidir linn gach rud a shárú."
+
+Lá amáin, bhí an dúil mhór le feiceáil. Bhí sé cosúil leis an fhuinneamh dorcha, ag scaipadh trasna an ghleanna. D'fhás na crainn ag lagú, thit na bláthanna, agus thosaigh an sruthán ag triomú. Bhí eagla ar na h-éiníní. Fuair siad amach gur scriosach a bhí sé.
+Thosaigh Fionn, Ailbhe, agus Caoimhe ag léiriú an méid a d'fhoghlaim siad óna máthair. Eitil siad ar fud an ghleanna, ag iarraidh cabhrú le gach rud a bhí ag fulaingt.
+D'iarr Fionn ar na héin eile cabhrú. "Caithfimid eitilt go tapa chun síolta a iompar ar fud na háite," a d'fhoghlaim sé ó mháthair. Chomh maith leis sin, thug siad séideadh dóibh féin san aer chun an teas agus an deannach a chosc. D'eitil siad go léir, le chéile, agus scaip siad síolta nua thar fud na háite.
+Chuir Ailbhe, ag úsáid a ghoibíní beaga, an t-uisce ón sruthán cráite ar ais go dtí na bláthanna. "Ní ligfimid don dúil mhór iad a mharú!" a dúirt sí. Bhí sí ag obair go crua, ag iompar braon beag uisce ag gach am.
+Chuir Caoimhe a cuid ama ag cuidiú leis na hainmhithe eile. Bhog sí cloch mór chun cré a chruthú do na péisteanna chun fanacht fionnuar. Thug sí foscadh do na mamaigh bheaga faoi na craobhacha.
+"Ná bíodh eagla oraibh," a dúirt Caoimhe leo. "Beidh gach rud go maith."
+Chonaic Máire a cuid páistí ag obair le chéile. Bhí sí an-bhródúil astu.
+"Tá tú ag déanamh go han-mhaith, mo pháistí," a dúirt sí. "Tá sibh ag troid i gcoinne na héagóra.
+"Níorbh éasca é, a Mamaí," a dúirt Fionn. "Ach ní féidir linn ligean don dúil mhór an áit seo a scrios."
+"Sea," a dúirt Ailbhe. "Caithfimid iarracht a dhéanamh go dtí an deireadh."
+"Agus is é sin an rud atáim ag iarraidh a dhéanamh," a dúirt Caoimhe.
+
+Ar feadh laethanta, d'oibrigh na h-éiníní go crua. Chabhraigh siad léir na hainmhithe eile. Chabhraigh na hainmhithe eile leo. Thosaigh an ghrian ag taitneamh beagáinín níos gile. Thosaigh na crainn ag fás arís. Thosaigh na h- bláthanna ag bláthú arís.
+Chonaic an dúil mhór seo. Thosaigh sé ag lagú. Bhí sé tar éis a thuiscint nach raibh sé in ann an dúlra a shárú, nuair a bhí sé aontaithe. Chuir an dúil mhór eagla ar na h-éiníní ar dtús, ach anois bhí a fhios acu go mbeadh siad sábháilte.
+Chuaigh an dúil mhór ar shiúl, agus d'éirigh an ghleann arís slán.
+D'eitil Fionn, Ailbhe, agus Caoimhe ar ais go dtí a nead, tuirseach ach sásta.
+"D'éirigh linn!" a dúirt Fionn.
+"Is féidir linn gach rud a dhéanamh, le chéile," a dúirt Ailbhe.
+"Táimid an-láidir," a dúirt Caoimhe.
+Chuireadar fáilte mhór roimh Máire, agus iad ag glacadh leis an bhia a thug sí leo ar ais.
+"Tá bród orm as mo pháistí," arsa Máire, ag barróg dóibh go léir le a sciatháin. "D'éirigh libh."
+Bhí gach rud ar ais ina ghnáth-áit sa ghleann. Bhí sé níos áille ná riamh.
+Ón lá sin ar aghaidh, d'fhan na h-éiníní ar an gcláirín agus lean siad ag cur meas ar an dúlra. Bhí a fhios acu, má d'oibrigh siad le chéile, go bhféadfadh siad aghaidh a thabhairt ar aon dúshlán. D'fhoghlaim siad go raibh grá, cúram, agus obair chrua i gcónaí níos láidre ná an dubh.
+Agus ó shin i leith, tá siad ina samplaí do na héiníní óga eile, a mhúineann freisin dóibh gur féidir leis an gcomhoibriú, an meas, agus an cúram a bheith an-láidir. Bhi siad ina siombal ar son na dúluara, agus shroich teachtaireacht an dóchais go dtí an ghleann ar fad.
+Agus anois, is féidir leis an ngleann a bheith síochánta go deo.
+```

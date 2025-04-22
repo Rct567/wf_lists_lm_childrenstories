@@ -1,0 +1,38 @@
+<prompt>
+Please write a simple and easy-to-follow Norwegian Nynorsk children's story that is at least 1000 words long.
+It must be completely written in proper Norwegian Nynorsk (NN).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Om katten som kunne snakke og som redda dronninga frå ein vond trolldom.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>nn</lang_id>
+
+<title>Om katten som kunne snakke og som redda dronninga frå ein vond trolldom</title><body>
+Ein gong, langt borte i eit land dekt av glitrande blå fjell og lysegrøn skog, budde ein dronning som het Ingrid. Ho var kjend for sitt vakre smil og sin vennlege natur. Men no var alt forandra. Ein vond trolldom hadde ramma dronning Ingrid, og ho sov djupt i eit søvnrike, med auge som speida utover som stjernar i himmelen, men sjalden opp.
+
+I slottet budde det ein liten katt som heitte Snorre. Han hadde auge som to små, blå perler og ein lang, silkelett hale. Snorre var ingen vanleg katt. Han kunne snakke!  Og ikkje berre snakke med folk, men også med fuglar, fisk og til og med med vindkast. Han høyrde stadig dei stille skogens ord.
+
+Ein dag, då sola skin gullgulen gjennom dei store vindauga, fortelte Snorre til dronning Ingrids lojale hovmester, Per, om korleis dronninga låg i sitt dybdesøvn, utan spor av lys eller liv. «Dronninga er ramma av ei vond trolldom,» sa Snorre til hovmesteren. «Berre ein magisk stein, som lysegrøn som ein nylakt sommarskog, kan bryte trolldomen!»
+
+Per, ein mann med stor kjærleik for dronninga og det gode, slo seg i lag med Snorre. Dei tok farvel med dronninga i eit stillestilte øyeblikk. «Eg skal finne denne steinen, Snorre,» sa hovmesteren. «Vi skal finne henne og løysa denne trolldomen.»
+
+Saman beviste Snorre og hovmester Per langferda på skogen, til den ville sjøen, og til de høge fjella.  Snorre, med sin evne til å snakke med dyra, fann ut kor steinen var. Dei møtte store, vennlege bjørnar med lunelege blikk og snakket med ein vakker ørn som klippte gjennom skya.
+
+«Sjokoladen! Sjå, ein stor sjokolade!," sa Snorre med gleda til eit lite barn som fant godteri. Dei så fleire rare og magiske ting. Dei møtte mykje dyreliv,  men ikkje meir skremmande enn nokre dyr. Dyra blei glade av dei.  Dei var ein venleg gjeng, uansett kva dyr. De forstod Snorres ord. Det var så enkelt. 
+
+Snorre forstod korleis dei små tinga var viktige for den store kjærleiken. Og det hjelpte dei.
+
+Etter mange dagars og natters vandring fann Per til slutt den lysegrøne steinen. Steinen stråla av magisk energi, som om ein liten sol hadde funne veg inn i fjella.
+
+Han tok den kjærkomne magiske steinen og løp raskt tilbake til slottet.  Snorre fulgte tett på baken av Per, meir spennande og lykkeleg enn nokon gang.
+
+Med steinen i hendene, fortalte Per til dronning Ingrid om kva som hadde hendt. Han sette den strålande, magiske steinen på dronning Ingrids bryst. Straks, som om ein magisk ånd brøt seg løs, vakna dronning Ingrid frå den lange søvnen, og oppvakninga spredde lyse gløder i den store salen.
+
+Smilet kom tilbake til dronning Ingrids ansikt, vakrare enn nokon gong. Trolldomen var borte. Dronning Ingrid tok Per i armane, og takka Snorre og alle dei andre som hadde hjelpt henne. «Tak for din modige innsats!» sa ho.
+
+Snorre blei høg, men var alltid trygg på vennskapen mellom dei som var snille. Og med dronning Ingrid som ein god herskar igjen, levde de glade og i fred.  Snorre blei alle dyr og folk sin venn, alltid. Han levde i skogen for å minne alle om å ta godt vare på naturen. Snorre var ein magisk katt med et hjerte fullt av vennlegheit og kunnskap, og han lærte alle de andre å kjenne denne verdifulle naturen og lytte til den vakre lyden av vinden som suste gjennom trea.  Og alle visste kor viktig det var. Og alle blei lykkelege.
+</body>

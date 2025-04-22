@@ -1,0 +1,41 @@
+<prompt>
+Please write a relatable Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Nữ Hoàng Bướm Và Kẻ Nham Hiểm'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>vi</lang_id>
+
+<title>Nữ Hoàng Bướm Và Kẻ Nham Hiểm</title>
+<body>
+Năm ngoái, trong khu vườn bí mật phía sau nhà bà ngoại, có một khu rừng bướm rực rỡ.  Những bông hoa mẫu đơn đỏ rực, hoa sen hồng mềm mại, cùng hàng trăm loài hoa khác khoe sắc. Trong đó, nổi bật nhất là bầy bướm đủ màu sắc. Và giữa muôn ngàn sắc màu ấy là Nữ Hoàng Bướm, một con bướm phượng hoàng lung linh, cánh vàng óng ánh như những tia nắng mặt trời.
+
+Nữ Hoàng Bướm không chỉ đẹp mà còn rất thông minh và dũng cảm.  Cô cai quản khu vườn bướm bằng sự công bằng và lòng tốt. Bướm nhỏ luôn kính trọng, theo lệnh của Nữ Hoàng và cùng nhau làm cho khu vườn thêm sinh động và vui vẻ.  Họ say sưa múa lượn giữa những cánh đồng hoa, tận hưởng hương thơm của mùa hè.  Nữ Hoàng thường kể những câu chuyện thần thoại cho các bướm nhỏ nghe, về nguồn gốc của các loài hoa và những vị thần bảo vệ khu vườn.
+
+Nhưng một ngày, một kẻ nham hiểm tên là Sâu Đen xuất hiện.  Sâu Đen không chỉ to lớn và dữ tợn, nó còn có trái tim đầy tham vọng và lòng ghen tị.  Thấy vẻ đẹp rực rỡ của khu vườn bướm và quyền uy của Nữ Hoàng, Sâu Đen đố kị và lên kế hoạch tàn phá.  Nó len lỏi giữa các cành cây, rỉ tai vào tai những bướm nhỏ, nói rằng Nữ Hoàng quá tham lam, luôn muốn chiếm đoạt vẻ đẹp của tất cả bướm khác.
+
+Sâu Đen gieo rắc nghi ngờ, nói những lời dối trá và làm cho các bướm nhỏ hoang mang, phân tâm. Nhiều con bướm trẻ, chưa trưởng thành, nghe theo lời nói dối của Sâu Đen và bắt đầu nghi ngờ Nữ Hoàng.  Họ lo lắng và suy nghĩ, bắt đầu xa lánh Nữ Hoàng, tìm kiếm những người bạn mới.  Điều này khiến Nữ Hoàng đau lòng và băn khoăn, không biết làm sao để vực dậy tinh thần đoàn kết của bầy bướm.
+
+Một trong những bướm nhỏ nhất, tên là Bé Bông, cũng bị Sâu Đen lừa gạt. Bé Bông ban đầu rất thích thú với câu chuyện của Nữ Hoàng. Nhưng những lời nói của Sâu Đen đã khiến Bé Bông nghi ngờ những lời dạy dỗ tốt đẹp của Nữ Hoàng. Bé Bông bắt đầu cảm thấy cô đơn, muốn tự do bay lượn theo ý mình.
+
+Một hôm, Sâu Đen cướp đi tất cả những bông hoa đẹp nhất của khu vườn, để lại cho bầy bướm những đóa hoa héo úa và xơ xác.  Sâu Đen che khuất mặt trời, làm cho cả khu vườn chìm trong bóng tối.  Bướm nhỏ hoang mang và sợ hãi, không biết phải làm sao để bảo vệ khu vườn của mình.
+
+Nữ Hoàng Bướm, sau nhiều ngày trăn trở, hiểu được mưu đồ của Sâu Đen.  Cô hiểu rằng, sự đoàn kết là chìa khóa để vượt qua khó khăn. Cô quyết định triệu tập một cuộc họp khẩn cấp với tất cả bướm nhỏ, và Bé Bông.
+
+Trong buổi họp, Nữ Hoàng Bướm đã không trách cứ mà tha thiết chia sẻ câu chuyện của mình, nói về tình yêu và trách nhiệm đối với khu vườn.  Cô nhắc lại giá trị của sự hợp tác và đoàn kết, khẳng định rằng mọi con bướm đều là một phần không thể thiếu của khu vườn, và cùng nhau, họ có thể vượt qua bất kỳ khó khăn nào.
+
+Cô kể lại những kỉ niệm đẹp đẽ, cùng các bướm nhỏ, về những kỷ niệm, niềm vui và bài học quý giá của khu rừng bướm. Cuối cùng, những lời chân thành của Nữ Hoàng, và sự chứng kiến trực tiếp hành vi nham hiểm của Sâu Đen, đã làm lung lay lòng nghi ngờ của bướm nhỏ.
+
+Bé Bông, cùng với tất cả các bướm nhỏ, nhận ra rằng Nữ Hoàng Bướm luôn đúng. Cùng nhau, họ tìm đến các loài chim, các loài côn trùng khác để tìm hiểu về sự thật về âm mưu của Sâu Đen. Những sinh vật đó cũng được Sâu Đen nói dối.
+
+Những loài sinh vật trong rừng, và nhất là những sinh vật bé nhỏ trong vườn đã hiểu và đoàn kết cùng nhau.  Họ dùng sự dũng cảm và trí thông minh để đối phó với âm mưu của Sâu Đen.  Họ giúp nhau, hướng dẫn Bé Bông cách tìm lại những bông hoa tươi mới, cùng nhau tạo nên một khu vườn rực rỡ.
+
+Cuối cùng, Sâu Đen bị đánh bại. Nó chạy trốn khỏi khu vườn bướm, và sự thật về sự nham hiểm của nó được tiết lộ. Khu vườn bướm được giải cứu và thêm rạng rỡ.  Nữ Hoàng Bướm và các bướm nhỏ đoàn kết hơn bao giờ hết, và Bé Bông hiểu rằng, tình bạn và lòng trung thành quý giá hơn bất cứ sự cám dỗ nào. Từ đó, trong khu vườn bướm, luôn vang lên những tiếng chim hót, tiếng nói chuyện thân thiết và tiếng múa lượn vui vẻ của những con bướm.
+
+
+</body>

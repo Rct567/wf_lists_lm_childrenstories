@@ -1,0 +1,35 @@
+<prompt>
+Please write a emotional Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Slēpes un sniegavīri ziemā'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lv</lang_id>
+
+<title>Slēpes un sniegavīri ziemā</title>
+<body>
+Ziema bija klājusi pasauli ar baltu segu.  Sniegs čīkstēja zem kājām, un gaiss bija tik auksts, ka elpa tūlīt sasala sīkās ledus zvaigznītēs.  Mazā Elīza, ar sarkanu šalli ap kaklu un sarkani iekrāsotiem vaigiem, priecīgi izlēca no mājas.  Sniegs iekrāsoja viņas zābaciņus baltā krāsā un viņas prieku vēl vairāk palielināja skats uz apkārtni – liels, balts pasaule, kas bija gatava brīnumaino rotaļām.
+
+Elīze, nēsājot siltus džemperīšus un biezus, zilu cepurīti, nevarēja slēpt savu prieka pilno sirdi.  Viņas acīs dzirkstīja prieks.  Brīvā dabā, kur ziema pavisam nesen bija nokrāsojusi visu koku zarus ar baltu krāsu, bija gaidāmi jauni piedzīvojumi.  Viņas draugs, Jānis, jau gaidīja pie pagalma vārtiem.  Jānis, ar savu nelielo, bet jaudīgo, smaidīgo sniegavīru, gaidīja viņas uzlūkojumu, lai kopā izveidotu vēl vienu, neaizmirstamu ziemas dienu.
+
+"Elīze, paskaties, ko esmu izveidojis!" Jānis sauca, rādot uz savu gleznaino sniegavīru, ar mazu, no zariem izgatavotu cepuri uz galvas.  Sniegavīrs bija perfekti izveidots, ar īsu, bet jaudīgu smaidu uz acīm.  Elīzes sirds uzreiz piepildījās ar mīlestību pret Jāni un viņa radošumu.
+
+"Vai Tu vari nokrāsot sniegavīram acu zīmuļus?" Elīze jautāja, ar izbrīnu un prieku savā balsī.
+
+"Protams," Jānis atbildēja, izvelkot savu jaunāko acu zīmuļa krāsu komplektu, kas iekrita tieši ziemā.  Elīze smaidīja un, apskatīdama savu draugu, saprata, ka ziemas prieku var baudīt kopā ar draugiem.  Jānis ļoti uzmanīgi uzkrāsoja sniegavīram acis, un tad izveidoja mutes līnijas.  Sniegavīrs bija tik skaists, ka Elīze vēlreiz priecīgi izsaucās.
+
+Viņi spēlēja slēpotājus, slēpojot pa sniega kalniem, kas izveidojās no vecām, nopietnām, ziemā iekrāsotajām lapām.  Viņi radoši izveidoja mājas no sniega un rāpojoša sniega, kas bija brīnumains, ziemas pasaka.  Elīze un Jānis izveidoja sniegavīru karavīru armiju ar mazām ledus cepurēm un ledus ieročiem.  Viņi izveidoja pat sniega dāvanu, kas bija tik liela, ka varēja ielīmēt nelielas, ziemas zvaigznes.
+
+Bet pēkšņi, debesis iekrāsojās pelēcā krāsā.  Vējš vējš kļuva stiprāks un sākās sals.  Apkārtējie koki šūpojas uz priekšu un atpakaļ, un Elīzes sirdī parādījās rūpes par draugu.  Viņas acis raudāja, jo ziemas brīvības sajūta pēkšņi pazuda.
+
+"Jānis, jāiet mājās," Elīze čukstēja, vērojot, kā sniegavīri kļūst baltāki un maigi izkusuši.
+
+Jānis, ar smaidu uz lūpām, piekrita.  Viņi atgriežoties mājās, Elīze izjuta nožēlu par šādiem ziemas brīnumaino izkusšanu, un nelielu, bet tik patīkamu skumju sajūtu.
+
+Kad viņi bija mājās, Jānis izauga no drauga, un Elīze saprata, ka draugi ir tie, kas ir pie jums katrā ziemā un vasarā.  Viņa uzlika sniega gabaliņu uz Jāņa rokas, un tas izkusis un atstājis pēdas.  Viņa saprata, ka šie brīnišķīgie ziemas piedzīvojumi, kaut gan tie ir īslaicīgi, paliek atmiņā.  Un ziemas brīvības sajūta, kas tikko bija izzudusi, bija atgriezusies.  Viņi gan saprata, ka ziemas brīvības sajūta nav tālu no mājām, bet kopā ar draugiem.
+</body>

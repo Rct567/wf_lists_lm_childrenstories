@@ -1,0 +1,48 @@
+<prompt>
+Please write a fun and entertaining Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Czarodziejskie LINEARne zauroczenie młodych serc'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>pl</lang_id>
+
+<title>Czarodziejskie LINEARne zauroczenie młodych serc</title>
+<body>
+W małym miasteczku, położonym nad brzegami pięknego jeziora, mieszkała grupa młodych przyjaciół, którzy uwielbiali się bawić i odkrywać nowe rzeczy. Miasteczko nazywało się Liniowo, a jego mieszkańcy byli znani ze swojej miłości do matematyki i nauk ścisłych.
+
+Głównymi bohaterami naszej historii są: Alicja, Jakub, Michał, Emilia i Julia. Każdy z nich miał swoje ulubione zajęcia i zainteresowania, ale wszyscy łączyła ich pasja do odkrywania tajemnic matematyki.
+
+Pewnego dnia, podczas pobytu w szkole, nauczyciel matematyki, pan Kowalski, opowiedział im o tajemniczym królestwie, w którym mieszkały liczby i figury geometryczne. Królestwo to nazywało się Linearowo, a jego mieszkańcy byli w stanie kontrolować wszelkie zjawiska związane z liniowością.
+
+Dzieci były tak zafascynowane tą opowieścią, że postanowiły wybrać się do Linearowo, aby samemu odkryć jego tajemnice. Pan Kowalski, widząc ich zainteresowanie, postanowił im pomóc i dał im specjalną mapę, która miała ich prowadzić przez królestwo.
+
+Wyruszyli więc w drogę, przechodząc przez piękne lasy i pola, aż w końcu dotarli do bram królestwa. Bramy były strzeżone przez dwóch strażników, którzy sprawdzali, czy przybysze są godni wejścia do królestwa. Strażnicy podali im serię matematycznych zadań, które dzieci musiały rozwiązać, aby udowodnić swoją wiedzę i umiejętności.
+
+Pierwsze zadanie brzmiało: "Jaka jest równanie prostej, która przechodzi przez punkty (2,3) i (4,5)?". Alicja, która była najlepsza w klasie z matematyki, szybko rozwiązała zadanie i podała odpowiedź: "y = 2x - 1". Strażnicy byli zadowoleni z jej odpowiedzi i pozwolili dzieciom wejść do królestwa.
+
+Gdy weszli do Linearowo, zobaczyli piękne miasto, w którym wszystkie budynki i ulice były proste i symetryczne. Spotkali tam króla królestwa, który przedstawił się jako Król Linear. Król Linear powiedział im, że jest bardzo zadowolony z ich wizyty i życzy im, aby odkryli tajemnice jego królestwa.
+
+Dzieci przeszły przez miasto, podziwiając piękną architekturę i ucząc się o różnych zjawiskach związanych z liniowością. Zobaczyli, jak liczby i figury geometryczne łączą się ze sobą, tworząc piękne i harmonijne struktury.
+
+Wkrótce spotkali się z mieszkańcami królestwa, którzy byli bardzo przyjaźni i chętni do pomocy. Poznali Wektora, który był specjalistą od wektorów i macierzy. Wektor nauczył ich, jak można używać wektorów do opisu ruchu i sił w różnych kierunkach.
+
+Następnie spotkali się z Panią Współczynnikiem, która była ekspertem od współczynników kierunkowych. Pani Współczynnik nauczyła ich, jak można używać współczynników kierunkowych do opisu nachylenia i kierunku linii.
+
+Dzieci uczyły się bardzo dużo i były coraz bardziej zafascynowane królestwem. Król Linear zobaczył ich zainteresowanie i postanowił im dać specjalne zadanie. Zadanie brzmiało: "Znajdź równanie linii, która przechodzi przez punkt (1,2) i jest równoległa do punktu (3,4)".
+
+Dzieci pracowały razem, używając swojej wiedzy i umiejętności, aby rozwiązać zadanie. Po kilku minutach pracy, Jakub podał odpowiedź: "y = 2x - 1". Król Linear był bardzo zadowolony z ich odpowiedzi i nagrodził ich specjalnymi nagrodami.
+
+Dzieci były bardzo szczęśliwe i zadowolone z ich wizyty w Linearowo. Król Linear powiedział im, że zawsze są mile widziani w jego królestwie i że może oni kiedyś wrócą, aby odkryć nowe tajemnice.
+
+Gdy wrócili do Liniowa, dzieci opowiedziały swoim rodzicom i nauczycielom o swojej wizycie w Linearowo. Wszyscy byli bardzo zainteresowani ich opowieściami i prosili ich, aby opowiedziały więcej o królestwie.
+
+Dzieci stały się lokalnymi bohaterami, a ich opowieści o Linearowo zostały opublikowane w lokalnej gazecie. Pan Kowalski był bardzo zadowolony z ich postępów i powiedział im, że jest dumny z nich.
+
+Od tego dnia, dzieci stały się jeszcze bardziej zainteresowane matematyką i naukami ścisłymi. Uczono się coraz więcej i odkrywały nowe tajemnice. A Król Linear i jego królestwo zostali w ich pamięci jako symbol piękna i harmonii matematyki.
+
+I tak, dzieci żyły dalej, ucząc się i odkrywając nowe rzeczy, a ich miłość do matematyki i nauk ścisłych rosła z każdym dniem. A Linearowo pozostało w ich sercach jako magiczne królestwo, w którym liczby i figury geometryczne łączą się ze sobą, tworząc piękne i harmonijne struktury.</body>

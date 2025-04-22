@@ -1,0 +1,35 @@
+<prompt>
+Please write a silly Spanish children's story that is at least 1000 words long.
+It must be completely written in proper Spanish (ES).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La rana saltarina que compuso una canción para despertar a la primavera dormida.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>es</lang_id>
+
+<title>La rana saltarina que compuso una canción para despertar a la primavera dormida.</title>
+<body>
+En un pequeño estanque, rodeado de flores amarillas marchitas y árboles desnudos, vivía una rana llamada Pip. Pip no era una rana cualquiera.  Era una rana saltarina, con un apetito voraz por las moscas y una pasión aún mayor por la música.  Sus saltos, en lugar de ser simples movimientos, eran danzas extravagantes, acompañadas de chillidos y silbidos que hacían vibrar las hojas secas.
+
+El invierno había sido despiadado.  La primavera, la bella y juguetona estación, parecía haberse dormido para siempre, envuelta en un edredón de nieve y hielo.  Las flores, antes alegres y coloridas, se habían marchitado, escondiéndose bajo un manto blanco.  Los pájaros, antes llenos de cantos alegres, se habían marchado a tierras cálidas.  Y Pip, con su corazón de rana, sentía una profunda tristeza.  ¿Cómo despertar a la Primavera de su letargo?
+
+Un día, mientras Pip saltaba entre los juncos, con un chillido tan agudo que hizo temblar una hoja seca, encontró una pluma dorada.  La pluma brillaba con un resplandor suave, casi como un sol miniatura.  Con delicadeza, Pip la recogió.  ¡Qué sorpresa!  La pluma, al tocar su pequeña mano, comenzó a cantar una melodía suave y armoniosa.  Era una canción de esperanza, una canción de despertar.
+
+Pip, con sus ojos brillantes de emoción, comprendió que había encontrado la clave.  La pluma era una varita mágica, una melodía esperanzadora que podría despertar a la primavera.  De inmediato, Pip comenzó a practicar, imitando la música que la pluma le ofrecía.  Sus saltos se volvieron aún más extravagantes, sus chillidos y silbidos se transformaron en notas musicales.  Creó melodías alegres, llenas de esperanza y de un toque de locura.  Compuso una canción para despertar la primavera.
+
+La primera nota de su canción rebotó en las hojas secas, revoloteó por entre los árboles desnudos y llegó hasta la pluma dorada que, con un resplandor más intenso, comenzó a bailar.  La segunda nota hizo vibrar los cristales de hielo, y el hielo comenzó a crujir.  La tercera nota se mezcló con el viento frío, y éste comenzó a susurrar historias de calor y sol.
+
+A medida que Pip cantaba, la melodía se volvía más fuerte y más alegre.  Sus notas eran como pequeños rayos de sol que derretían el hielo.  Las flores marchitas, al escuchar la música, comenzaron a estirar sus tallos, buscando la luz.  Los primeros rayos de sol, tímida y esperanzadamente, comenzaron a asomarse.  Los pájaros, al escuchar la música, empezaron a volar de vuelta.  Se acercaba el regreso de la primavera.
+
+El estanque, antes silencioso y sombrío, resonó con la alegría de la música de Pip.  Las ranas y los sapos, despertados por la melodía, comenzaron a cantar sus propias canciones de alegría.  Un pequeño conejo, que se había escondido del frío, salió a deleitarse con la música.  Incluso las piedras del estanque parecían bailar al ritmo de la melodía.
+
+La canción de Pip era mágica.  Despertaba no solo la primavera, sino también la alegría en los corazones de todos los seres vivos.  Con cada nota, la oscuridad se desvanecía, y la luz comenzaba a brillar más intensamente.  El cielo, antes gris y sombrío, se volvía azul, y los primeros colores de la primavera pintaron el paisaje.
+
+Pip, sintiéndose profundamente satisfecho, continuó cantando.  Su canción se convirtió en un himno a la esperanza, al despertar, a la vida.  Y mientras las flores rebosaban de color, los árboles se llenaban de hojas tiernas y los pájaros cantaban en coro, Pip, la rana saltarina, se convirtió en un símbolo de la primavera renacida.
+
+Y así, gracias a una rana saltarina y a una pluma dorada, la primavera volvió a la vida, trayendo consigo un tesoro de colores, sonidos y alegrías.  Y Pip, con una sonrisa enorme, siguió saltando, cantando, y despertando el mundo con su música única.  La pluma dorada, agradecida por su misión cumplida, se unió a las demás flores, para seguir bailando y destellando en el nuevo amanecer.
+</body>

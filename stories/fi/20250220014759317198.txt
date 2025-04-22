@@ -1,0 +1,35 @@
+<prompt>
+Please write a creative and original Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Unien maailma ja sieltä tulevat'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>fi</lang_id>
+
+<title>Unien maailma ja sieltä tulevat</title>
+<body>
+Pikkuneiti Elina oli aivan tavallinen tyttö, paitsi että hän unelmoi aivan poikkeuksellisia unia.  Hänen untensa eivät olleet pelkkiä seikkailuja puistossa tai leikeistä kavereiden kanssa, vaan ne kuljettivat hänet toiseen maailmaan – Unien maailmaan.  Siellä asui ihmeellisiä olentoja ja paikkoja, joista herätessään Elina tunsi aina syvää nostalgista iloa.
+
+Yhtenä syksynä, kun lehdet muuttuivat kauniiksi ruskeaksi ja oranssiksi, Elinalla oli erityisen intensiivinen uni.  Hän löysi itsensä pehmeän, lumisen metsän reunalta.  Puut olivat koristellut itsensä upeaan valkoiseen joulukoristeluun, ja tuulen viuhtoessa tuntui kuin jokainen lumihippu olisi pieni, kirkas tähti.  Tällä kertaa Unien maailma oli erilainen.  Se oli aivan kuin uuden vuoden aattona, mutta lumimyrsky oli vallannut sen jo.
+
+Matkallaan Elina törmäsi ihastuttaviin olentoihin.  Ensimmäisenä oli Pikku-Lumiukko, joka oli noin kymmenen senttiä korkea ja koko ruumiinsa oli vaaleaa lunta. Pikku-Lumiukko nosti käden ylös ja pyysi Elinaa mukaan lumipallonheittoon. Elina nautti lumipallojen lennosta ja upeasta tuulesta.
+
+Sitten Elina tapasi Vihreän Kääpiön, jonka hiukset olivat kuin sammalen vihreät suonet ja silmät kirkkaan vihreät.  Kääpiö kertoi Elinalle tarinaa metsän salaisuuksista, miten puut puhuvat tuulen mukana ja miten kukat kuuntelevat yötaivasta. Kääpiö näytti Elinalle pienen, hohtavan kukan, joka oli kuin Unien maailman sydän.
+
+Matka jatkui ja Elina löysi itsensä kirkkaan sinisen lampi-suojelun, jossa uivat valkoiset ankat ja lintuja, joiden höyhenet loistivat kuin auringonkukka.  Näiden lintu- ja ankkapeikkojen äänet loivat harmonisen kuoron, joka kuului niin kauniisti, että Elina unohti hengittää hetkeksi.
+
+Kääpiö kertoi, että Unien maailmaan johtaa vain yksi tie, ja se on sisäisen rauhan polku.  "Vain ne, joilla on avoin sydän ja mielikuvitus, voivat ylittää sen rajat", hän sanoi. Elina ymmärtäisi tämän myöhemmin.
+
+Yhtäkkiä Elina tunsi tutun tunteen –  tunnin unet, jotka loppuivat.  Hän heräsi omaan huoneeseensa, jossa aurinko paistoi ikkunasta.  Hän oli edelleen Elina, mutta hänellä oli uusi tietoisuus.  Hän tiesi, että Unien maailma ei ole vain uni, vaan se on osa meitä kaikkia.  Se on paikka, jossa mielikuvitus lentää ja sydän kuuntelee.
+
+Tämän jälkeen Elina alkoi nähdä uniensa maailmaa eri tavalla.  Hän ei enää pelkästään seikkaillut, vaan hän kuunteli.  Hän kuunteli puiden ääniä, lumen hiljaista kaatosadetta ja lintujen lauluja.  Hän ymmärsi, että Unien maailma oli hänen sisällään, ja se löytyi kaikista elävistä olennoista.
+
+Yhtenä päivänä Elina istui metsän reunalla, katsellen auringonlaskua.  Hänellä oli syksyinen vaatetus ja varjoissa tuntui, kuin metsä olisi peittänyt itsensä yötaivaaseen.  Hän tajusi, että Unien maailma ei ole paikkaa, jonne voi mennä.  Se on tunne, jota voi kokea kaikkialla ja milloin tahansa.  Se on hiljainen ääni sisällä, joka kutsuu meitä kuuntelemaan.
+
+Ja Elina tiesi, että hän ei ollut ainoa, joka voisi nähdä Unien maailmaa.  Se on meissä jokaisessa, jos vain autamme mielikuvituksemme lentämään ja sydämemme kuuntelemaan. Se on salaisuus, joka herää unessa ja valvoo meitä aina.
+</body>

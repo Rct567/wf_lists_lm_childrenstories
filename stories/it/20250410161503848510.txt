@@ -1,0 +1,83 @@
+<prompt>
+Please write a uncomplicated Italian children's story that is at least 1000 words long.
+It must be completely written in proper Italian (IT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La pioggia e le gocce che danzano'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>it</lang_id>
+
+```html
+<title>La pioggia e le gocce che danzano</title>
+<body>
+Era una mattina di primavera, a Villa Fiorita. Il sole, un grande occhio giallo, illuminava i prati verdi e i fiori colorati. Ma improvvisamente, il cielo si fece grigio, grigio come un orso stanco. I bambini, che giocavano a rincorrersi tra i tulipani rossi e gialli, corsero a rifugiarsi sotto il grande albero di fico.
+
+"Uh, la pioggia!" esclamò Sofia, una bambina con i capelli color del sole e gli occhi azzurri come il mare.
+
+"Che noia!" si lamentò Marco, un ragazzino con le guance rosse e i capelli neri come il carbone.
+
+La pioggia, intanto, aveva cominciato a cadere. Prima timidamente, come delle dita sottili che pizzicavano le foglie. Poi, sempre più forte, trasformandosi in un tamburo che picchiava sui tetti delle case e sulle strade di pietra.
+
+"Guardate!" gridò Giovanni, un bambino con un cappello rosso e le lentiggini sul naso. "Le gocce di pioggia stanno ballando!"
+
+E in effetti, era proprio così. Le gocce di pioggia, una volta toccata terra, rimbalzavano, saltavano e si muovevano in mille direzioni diverse. Alcune rotolavano giù per le foglie lucenti, altre disegnavano piccoli cerchi nell'acqua delle pozzanghere.
+
+Sofia, Marco e Giovanni corsero fuori dall'albero di fico, incuriositi dallo spettacolo. Non avevano mai visto la pioggia danzare in quel modo.
+
+"Sono bellissime!" disse Sofia, con un sorriso. "Sembrano tanti piccoli diamanti che brillano!"
+
+"Sembrano piccoli soldati che marciano!" esclamò Marco, con un tono avventuroso.
+
+Giovanni, invece, pensò a qualcos'altro. "Chissà dove vanno queste gocce? Forse vanno a trovare i pesci nel fiume? O forse vanno a innaffiare le radici degli alberi?"
+
+Mentre i bambini osservavano la pioggia danzare, si accorsero di un piccolo fungo, nascosto sotto una foglia di fico. Era un fungo marrone, con un cappello tondo e un gambo sottile.
+
+"Guarda! Il fungo!" gridò Giovanni.
+
+Il fungo era molto felice. La pioggia lo innaffiava, rendendolo più grande e più forte.
+
+"Ciao fungo!" lo salutarono i bambini.
+
+Il fungo sembrò rispondere, muovendo leggermente il suo cappello.
+
+La pioggia continuò a cadere. I bambini si divertivano un mondo a correre tra le pozzanghere, a saltare e a schizzare acqua. Le loro scarpe, i pantaloni, le magliette… tutto era bagnato, ma loro non si accorgevano del freddo. Erano troppo impegnati a giocare con la pioggia.
+
+Ad un certo punto, Sofia notò una cosa strana. "Guardate!" chiamò, indicando un piccolo laghetto che si era formato nel prato. "Ci sono tante piccole bolle! Sembrano delle perle!"
+
+Anche Marco e Giovanni corsero a vedere. Le bolle brillavano e fluttuavano sulla superficie dell'acqua. Alcune scoppiavano, creando dei piccoli cerchi sull'acqua, altre continuavano a salire, salire, fino a sparire nell'aria.
+
+"Che cos'è?" chiese Marco, curioso.
+
+"Sono le bolle di sapone della pioggia!" rispose Sofia, ricordandosi di una lezione a scuola. "Quando la pioggia cade, mescola l'aria e crea queste bolle."
+
+I bambini provarono a toccarle, ma le bolle scoppiavano subito. Rimasero lì a guardare, incantati.
+
+Improvvisamente, la pioggia smise di cadere. Il sole tornò a splendere, più luminoso di prima. Un arco-iris, con i suoi sette colori, apparve nel cielo, come un ponte magico.
+
+"Wow!" esclamarono i bambini, guardando l'arco-iris.
+
+L'aria era profumata di terra bagnata e di fiori. Gli uccellini ricominciarono a cantare.
+
+"La pioggia se n'è andata!" disse Giovanni.
+
+"E ha lasciato un sacco di divertimento!" aggiunse Marco, con un sorriso.
+
+Sofia annuì. "È stata la pioggia più bella che abbia mai visto!"
+
+I bambini tornarono a casa, con i vestiti bagnati e le scarpe sporche di fango, ma con il cuore pieno di gioia. Avevano imparato che la pioggia non è sempre una noia. A volte, la pioggia è una danza, un gioco, una magia.
+
+Dopo essersi cambiati, Sofia, Marco e Giovanni tornarono nel prato. Cercarono le pozzanghere, i funghi e le foglie lucenti. Volevano rivivere la magia della pioggia.
+
+"Spero che torni presto a danzare!" disse Sofia, con gli occhi che brillavano ancora per l'emozione.
+
+"Anch'io!" rispose Marco. "Ma questa volta, porterò anche io il mio cappello rosso, per salutare la pioggia!"
+
+Giovanni sorrise. "E io porterò un barattolo, per catturare le bolle di sapone della pioggia!"
+
+Da quel giorno, i bambini di Villa Fiorita non ebbero più paura della pioggia. Ogni volta che il cielo si faceva grigio, aspettavano con ansia il momento in cui le gocce avrebbero cominciato a danzare. Sapevano che la pioggia portava con sé la magia, la gioia e tante nuove avventure. Sapevano che, anche nelle giornate più cupe, c'era sempre qualcosa di bello da scoprire, qualcosa di divertente da fare, qualcosa di magico da vivere. E ogni volta che vedevano la pioggia cadere, ricordavano la lezione del piccolo fungo, il fungo felice che amava la pioggia e che cresceva più forte grazie all'acqua che danzava. E da quel giorno, ogni bambino di Villa Fiorita aspettò con ansia la prossima danza della pioggia, perché sapevano che, ogni volta, avrebbero imparato qualcosa di nuovo e si sarebbero divertiti un mondo. E magari, avrebbero anche incontrato un fungo speciale! La vita, dopotutto, era come la pioggia: imprevedibile, meravigliosa e piena di sorprese.
+</body>
+```

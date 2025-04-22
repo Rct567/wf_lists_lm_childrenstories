@@ -1,0 +1,93 @@
+<prompt>
+Please write a dialog-based Portuguese (Brazil) children's story that is at least 1000 words long.
+It must be completely written in proper Portuguese (Brazil) (PT_BR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'O Cachorro que Ensinou a Cidade Inteira a Sorrir de Novo'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>pt_br</lang_id>
+
+```xml
+<title>O Cachorro que Ensinou a Cidade Inteira a Sorrir de Novo</title>
+<body>
+Era uma vez, na cidade de Alegria, uma cidade que, ironicamente, não estava mais tão alegre assim. As pessoas andavam com a testa franzida, os ombros curvados e raramente um sorriso iluminava seus rostos. A Dona Zilda, dona da padaria, reclamava que ninguém mais comprava seus pães doces, porque ninguém tinha tempo para saboreá-los. O Seu Joaquim, o sapateiro, lamentava que as crianças não corriam mais pela rua, gastando seus sapatos. Até mesmo o sol parecia menos brilhante, encoberto por uma névoa de tristeza.
+
+Um dia, chegou à cidade um cachorro. Um cachorro diferente, com um pelo dourado que brilhava ao sol e olhos que pareciam duas pedras de âmbar. Ele se chamava Sol. Sol não tinha dono, mas tinha um coração enorme e uma energia contagiante.
+
+Sol, assim que chegou, começou a explorar a cidade. Ele corria pelas ruas, abanando o rabo freneticamente, latindo para as pombas e cumprimentando as pessoas com um leve toque no nariz.
+
+A primeira pessoa que Sol encontrou foi a Dona Zilda, na porta da padaria.
+
+— Au au! — latiu Sol, balançando o rabo.
+
+Dona Zilda, surpresa, olhou para baixo e viu o cachorro. Ela suspirou, pegando um pedaço de pão amanhecido.
+
+— Ah, olá, cachorrinho. Está com fome? — perguntou, com a voz cansada.
+
+Sol, sem hesitar, aceitou o pão e comeu com satisfação. Depois, olhou para Dona Zilda e latiu novamente, como se dissesse "obrigado".
+
+— Sabe, cachorrinho, antigamente essa padaria vivia cheia. Agora, ninguém mais tem tempo para as coisas boas da vida… — Dona Zilda desabafou, enxugando uma lágrima.
+
+Sol, entendendo a tristeza da mulher, começou a pular e a rodopiar ao seu redor, tentando animá-la. Ele latia, corria, e até tentou pegar a saia da Dona Zilda com a boca, puxando-a gentilmente.
+
+Dona Zilda, vendo a alegria do cachorro, não conseguiu evitar um sorriso. Um sorriso pequeno, mas um sorriso.
+
+— Ah, seu danado! — ela disse, rindo.
+
+Sol latiu de felicidade e, naquele momento, Dona Zilda sentiu uma pontada de esperança. Ela pegou um pão doce fresquinho e ofereceu para Sol.
+
+— Para você, meu amigo. E para me lembrar que ainda existem motivos para sorrir.
+
+Sol comeu o pão com gosto e, depois, continuou sua jornada pela cidade.
+
+Mais adiante, Sol encontrou o Seu Joaquim, sentado em sua banqueta, com as mãos no rosto.
+
+— Au au! — latiu Sol, aproximando-se.
+
+Seu Joaquim levantou a cabeça, assustado.
+
+— Sai, cachorro! Não quero incomodação! — disse, com a voz rouca.
+
+Sol, mesmo assim, se aproximou e esfregou a cabeça nas pernas do Seu Joaquim.
+
+— O que você quer, hein? — perguntou o sapateiro, menos irritado.
+
+Sol latiu e começou a correr em círculos, como se estivesse brincando.
+
+Seu Joaquim, vendo a animação do cachorro, soltou um risinho.
+
+— Ah, você quer brincar? Mas eu não tenho mais idade para isso… — lamentou.
+
+Sol, não se importando com a idade do Seu Joaquim, continuou a correr e a latir, convidando-o para a brincadeira. Depois de um tempo, a curiosidade e a vontade de se sentir vivo falaram mais alto. Seu Joaquim, com um sorriso hesitante, levantou-se e começou a correr atrás de Sol.
+
+Eles brincaram por um bom tempo, rindo e se divertindo, até que Seu Joaquim se sentiu cansado.
+
+— Já chega, cachorrinho! Estou morto! — disse, ofegante.
+
+Sol, percebendo o cansaço do amigo, deitou-se ao seu lado, com a cabeça no colo do Seu Joaquim.
+
+— Obrigado, cachorrinho. Você me fez lembrar de como é bom se divertir. — disse o sapateiro, acariciando a cabeça de Sol.
+
+A notícia daquele cachorro alegre se espalhou pela cidade. As crianças, que antes ficavam em casa, começaram a sair para brincar com Sol. Os adultos, vendo a alegria das crianças e a energia do cachorro, começaram a se juntar à brincadeira.
+
+Sol ensinou a todos a importância de um sorriso, de um abraço, de um momento de felicidade. Ele ensinou que, mesmo nos dias mais cinzentos, sempre há um raio de sol esperando para brilhar.
+
+A Dona Zilda, inspirada por Sol, começou a fazer pães doces mais bonitos e saborosos, decorados com desenhos e mensagens de alegria. As crianças, com seus pais, faziam fila na padaria para comprar os pães, ansiosas para saborear a felicidade em cada mordida.
+
+O Seu Joaquim, revigorado, começou a consertar sapatos com mais entusiasmo, criando modelos coloridos e divertidos. As crianças voltaram a correr pelas ruas, gastando seus sapatos e enchendo a cidade de risos.
+
+Até mesmo o sol, vendo a alegria que Sol espalhava, começou a brilhar com mais intensidade.
+
+Um dia, Sol desapareceu. A cidade toda ficou triste. As crianças procuraram por ele em todos os lugares, mas não o encontraram.
+
+A Dona Zilda, o Seu Joaquim e todas as pessoas da cidade sentiram a falta daquele cachorro especial. Eles sentiram falta do seu sorriso, da sua energia, da sua capacidade de transformar a tristeza em alegria.
+
+Mas, mesmo sem a presença física de Sol, a cidade de Alegria nunca mais foi a mesma. As pessoas aprenderam a sorrir novamente. Elas aprenderam a valorizar os momentos de felicidade e a compartilhar a alegria com os outros.
+
+E, todas as vezes que um raio de sol brilhava forte, ou que uma criança dava uma gargalhada, ou que alguém sentia uma pontada de felicidade no coração, eles sabiam que Sol estava lá, presente em cada sorriso, em cada gesto de carinho, em cada momento de alegria.
+
+Sol, o cachorro que ensinou a cidade inteira a sorrir de novo, tinha cumprido sua missão. E, mesmo que não estivesse mais presente fisicamente, seu legado de alegria e esperança continuaria vivo para sempre na cidade de Alegria.

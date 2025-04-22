@@ -1,0 +1,33 @@
+<prompt>
+Please write a creative and original Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Wyprawa Dzieci do Krainy Cudów'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>pl</lang_id>
+
+<title>Wyprawa Dzieci do Krainy Cudów</title>
+<body>
+W zacisznym, urokliwym miasteczku, gdzie domki kryły się między zielonymi wzgórzami, mieszkały trzy przyjaciółki: Zosia,  aniołkowa dziewczynka o kręconych włosach koloru miodu, Kuba, chłopiec o oczach jak głębokie jezioro, i Basia, zgrabna dziewczynka, której uśmiech rozjaśniał cały świat.  Pewnego słonecznego poranka, podczas gdy mrówki pracowały pilnie, a ptaki śpiewały wesołe piosenki, odkryły one tajemniczy, świecący kamień ukryty w starym dębie.  Kamień, emanujący ciepłym, złotymi blaskiem, wydawał delikatny dźwięk, jakby wzywał je do podróży.
+
+Zosia, pełna ciekawości, dotknęła kamienia.  Nagle, pod jej stopami rozstąpiła się ziemia, odsłaniając schody z polerowanego, zielonego kamienia, sięgające ku błękitnemu niebu.  Kuba, zawsze skory do przygód, chwycił za rękę Zosię i Basie, a one, pełne ekscytacji, ruszyły w nieznane.
+
+Schody wiły się, wznosząc je coraz wyżej, aż na ich szczycie ukazał się przepiękny widok.  Przed nimi rozciągała się Krainą Cudów – bajeczna kraina, pełna kolorowych kwiatów, których płatki mieniły się w tęczowych barwach, a drzewa rosły z korzeniami wykonanymi z cukierków.  W powietrzu wisiały chmury z waty cukrowej, a rzeki płynęły z mleka i miodu.
+
+W Krainie Cudów panował wyjątkowy spokój i harmonia.  Ptaszki śpiewały melodie, które rozpływały się w powietrzu, a strumienie szumiały, opowiadając bajki.  Spotkali oni również niesamowite stworzenia:  małego jeżyka, który umiał grać na flecie z liścia,  krasnoludki o złotych włosach, które tkały chmury z kolorowych niutek,  i wróżkę o skrzydłach z tęczy, która prowadziła taneczne pokazy dla kwiatów.
+
+Zosia zauważyła, że w sercu Krainy Cudów stała stara chata z dachu pokrytego szmaragdowym trawą.  Drzwi były otwarte i słyszeli oni ciche, mądrze słowa dobiegające z środka.  Wsłuchując się w nie, zrozumieli, że chata ta jest źródłem cudownego spokoju w Krainie Cudów. W środku chaty spotkali starą wróżkę, która wyjaśniła im, że Krainą Cudów rządzi miłość, przyjaźń i dobroć.
+
+Kuba, zawsze chętny do pomocy, zauważył, że niektóre kwiaty w Krainie Cudów zaczynają więdnąć.  Basia, zawsze pełna empatii, zauważyła, że niektóre stworzenia nie mają wystarczająco dużo pożywienia.  Zosia, pamiętając o naukach wróżki, zaproponowała, że będą pomagać.  Zaczęli oni zbierać spadające płatki kwiatów, aby je odtworzyć, a także zbierać nektar dla stworzeń.  Zrobili wszystko co w ich mocy, aby przywrócić radość i piękno do Krainy Cudów.
+
+Ich praca przyniosła cudowne rezultaty.  Kwiaty odżyły, ptaszki śpiewały jeszcze weselsze piosenki, a strumienie szumiały radośnie, opowiadając bajki o ich dobroci.  Stworzenia były wdzięczne za ich pomoc, a Krainą Cudów napełniła się radość i harmonia.
+
+Wraz z zachodem słońca, kiedy niebo pomalowało się w barwach różu i złota, schody z zielonego kamienia znów pojawiły się pod ich stopami.  Smutne były, że muszą opuścić Krainę Cudów, ale wiedzieli, że będą się o nią troszczyć.  Pamiętali o lekcjach, które w niej otrzymali, o znaczeniu przyjaźni, dobroci i miłości.
+
+Gdy wrócili do swojego miasteczka, świecący kamień zniknął, a na jego miejscu rosła piękna róża o niepowtarzalnym aromacie.  Od tego dnia, Zosia, Kuba i Basia pamiętali o Krainy Cudów i o lekcjach, które w niej otrzymali.  Zrozumiały, że cudów można doświadczać nie tylko w odległych krainach, ale również w codziennym życiu, kiedy pokazują miłość, przyjaźń i dobroć.
+</body>

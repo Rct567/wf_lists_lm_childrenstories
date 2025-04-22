@@ -1,0 +1,33 @@
+<prompt>
+Please write a creative and original Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A Mecsek hegyei közt élő varázslatos lények'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>A Mecsek hegyei közt élő varázslatos lények</title>
+<body>
+A Mecsek hegyei, melyek sötétkék-zöld árnyalatokkal borítják a dél-magyarországi tájat, rejtőzködő titkokkal teli földdarab.  Nemcsak a szőlőhegyek és a gazdag természet rejtenek titkokat, hanem a hegyek magasságában is élnek különleges lények, akik a varázslatos erdőkkel és a kristálytiszta forrásokkal ápolt, egyedi világot alkotnak.  Ők a Mecsek-tündérek, akiket csak a legfigyelmesebb szemek és a legtisztább szívek láthatnak.
+
+Egyik ilyen tündér, Zsófi volt a legfiatalabb a társaságban.  Gyönyörű, könnyűszárnyú lény volt,  szőke haja a napfényben aranyló,  szemében pedig a Mecsek hegyek  mélykék árnyalata csillogott.  A többi tündér, mint például a bölcs és tapasztalt Éva, vagy a vidám és játékos Barna, már évszázadok óta éltek a hegyekben, és ismerték minden zugának és minden kristályforrásának titkait. Zsófi azonban még csak most tanulgatott, és gyakran tévedt el a csodálatos erdőben, ami a Mecsek szívében terült el.
+
+Egy nap, a napfényes tavaszi délelőttön, Zsófi eltévedt. A szokatlanul fényes sárga virágok, melyek a Mecsekben ritkán láthatók, elcsábították, és egyre mélyebbre vezetett a sűrű erdőben. Eltévedt a többi Mecsek-tündértől, és a nagy, titokzatos erdő mélyén találta magát. A levegő itt különleges volt, tele a fenyők illatos gyantájával és a friss, tiszta hegyi levegővel.
+
+A fákon furcsa, lángoló fényű, zöldes-kékes fények vibráltak. Zsófi megijedt, de egy hang, mely a hegyek mélyéből szólt, megnyugtatta. "Ne félj, kis tündér! A Mecsek minden titka itt rejtőzik. De csak azokat ismerheti meg, akik tisztelik a természetet."  A hang Éváé volt.
+
+"Éva néni!" - kiáltott fel Zsófi, és könnyek gyűltek a szemébe.  Éva megjelent a sűrű lomb között, mosolyogva. "Mit keresel, Zsófi? Mit látnak a szemeid?"
+
+"Eltévedtem, Éva néni. És annyira szép dolgok vannak itt.  Ezek a fények, ezek a virágok...nem láttam még ilyet."
+
+Éva elmagyarázta Zsófinak, hogy a fények a Mecsek-hegyek mélyén élő, fényt teremtő szellemek, és hogy a furcsa virágok különleges gyógyító tulajdonságokkal rendelkeznek. "A Mecsek gyógyító erejét őrzi.  A virágok segítenek meggyógyítani a fájdalmakat, és a fényt teremtő szellemek pedig segítenek megtanulni, hogyan kell a természettel harmonikusan élni."
+
+Éva elvezette Zsófit egy kristálytiszta forráshoz, mely a hegyek szívében bujkált. A forrás vizében Zsófi meglátta saját képét, de nemcsak a sajátját, hanem a környező erdő és a hegyek csillogó szépségét is.  Látta a Mecsek-tündérek játékos mosolyát, és Éva néni bölcs tekintetét.  Ekkor értette meg, hogy nem a hegyek szépsége, hanem a harmonikus kapcsolat a természettel a legnagyobb kincs.
+
+Zsófi megértette a hegyek titkait. Megtanult tisztelettel bánni a természettel, és a fényteremtő szellemek segítettek neki megtalálni az utat vissza a társaihoz.  Az erdőben tovább éltek a varázslatos lények, akik a Mecsek hegyei közt örökké őrizték a természet titkait.  Zsófi pedig, aki a legfiatalabb tündér volt, megtanult a hegyekben élni, és a Mecsek-tündérek része lett, örök hűséggel és tisztelettel a természet iránt.
+</body>

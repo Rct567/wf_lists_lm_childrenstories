@@ -1,0 +1,34 @@
+<prompt>
+Please write a creative and original Serbian children's story that is at least 1000 words long.
+It must be completely written in proper Serbian (SR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Veliki srce hercegovačkog čoveka'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>sr</lang_id>
+
+<title>Veliki srce hercegovačkog čoveka</title>
+<body>
+U malom hercegovačkom selu, zabeleženom među visokim planinama i bujnim šumama, živeo je čovek po imenu Božo. Božo je bio poznat u celom selu po svom velikom srcu i dobroti koju je delio sa svima koji su mu dolazili u susret. Njegova kuća, skromna i udobna, bila je uvek otvorena za goste, a njegova žena, Ana, spremala je uvijek nešto ukusno za one koji su dolazili u posetu.
+
+Božo je bio lovac po struci i strastima. Volio je šume i planine, i znao je svaku stazu i svaki kutak svog hercegovačkog zavičaja. Često bi odlazio u lovine, ne samo radi mesa za porodicu, već i radi same avanture i prijateljstva sa drugim lovcima. Međutim, Božo nije bio kao ostali lovci. On nije lovio samo radi sporta ili hrane, već je u tome video način da pomože svom selu i da zaštiti prirodu koju je voleo.
+
+Jedne zime, velika nezgoda je zadesila selo. Jak snežni nanos je blokiran put, a ljudi su počeli da gladuju jer nije bilo moguće dopremiti hranu. U tom trenutku, Božo se odlučio da dejstvuje. Uz pomoć svojih lovačkih pasa i saonice, krenuo je u pustu noć da bi probio put do najbližeg grada i doveo hranu selu.
+
+Put je bio težak, a snežni nanosi su bili toliko visoki da su skoro dosezali do kolena. Božo je morao da se probija kroz duboki sneg, a njegovi psi su mu bili velika podrška, tragajući put kroz maglu. Kako je išao, Božo je čuo šum u šumi. Prvo je mislio da je to samo zver, ali onda je čuo glas. Glas je govorio o nekom ko je izgubio put i umire od hladnoće.
+
+Božo je odmah promenio kurs i krenuo u traženje glasa. Nakon kratkog vremena, našao je mali, izmrzli dječak, koji je plutao u snegu. Dječak se zvao Marko, i on je bio iz susednog sela, koji je pokušao da stigne do bolnice u gradu, jer mu je bila bolesna majka. Božo je uvideo stanje i znao da mora da spasi dječaka. Bez razmišljanja, uzeo je Marka u naručje i krenuo nazad prema selu.
+
+Ana, Božova žena, je bila iznenađena kada je videla svog muža sa izmrzlim dječakom u naručju. Ona je odmah pozvala susede da pomognu, i za kratko vreme, dječak je bio topli i siguran u Božovoj kući. Božo je potom krenuo ponovo u svoju misiju da doveze hranu selu, ali ovaj put sa još većom odgovornošću, jer je znao da ima još jednu dušu za koju se brine.
+
+Nekoliko dana kasnije, Božo se vratio sa hranom i pomogao selu da preživi tešku zimu. Marko, koji je bio kod Boža i Ane, brzo se oporavio i postao je kao član porodice. Kada je vreme postalo toplije, Marko se vratio u svoje selo, ali nije zaboravio hercegovačkog čoveka sa velikim srcem koji mu je spasao život.
+
+Godine su prolazile, a Božo je nastavio da živi u skladu sa prirodom i ljudima svog sela. Postao je legendom među seljanima, koji su ga zvali "čovek sa zlatnim srcem". Njegova dobrota i požrtvovanost za druge su bile inspiracija za sve koji su ga znali. Iako je Božo otišao iz života, njegova para se nastavila da živi kroz generacije, a njegova kuća je i dalje bila mesto gde se decksaju priče o velikom srcu hercegovačkog čoveka.
+
+Marko, koji je odrastao i postao doktor, nikad nije zaboravio Boža i njegovu dobrotu. On je svoj život posvetio pomoći ljudima, i često bi dolazio u hercegovačko selo da bi pomogao seljanima i održavao uspomenu na čoveka koji mu je spasao život. I tako, priča o Božu i njegovom velikom srcu živi dalje, kao simbol dobrote, požrtvovanosti i snage ljudske volje u najtežim trenucima.
+
+U današnje vreme, kada se ljudi pitate šta je tajna srećnog i ispunjenog života, oni koji znaju priču o Božu kažu da je to jedino veliko srce, spremno da dijeli ljubav, pomoć i podršku svima koji su u potrebi. I tako, hercegovački čovek sa velikim srcem živi dalje, kao nezaobilazni deo srca svakog koji je čuo njegovu priču, i kao podsjetnik da, bez obzira na sve teškoće, uvek postoje ljudi koji će se boriti za dobro i koji će širiti ljubav idobrotu svugde oko sebe.</body>

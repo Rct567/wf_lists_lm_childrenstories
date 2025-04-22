@@ -1,0 +1,41 @@
+<prompt>
+Please write a simple and easy-to-follow Serbian children's story that is at least 1000 words long.
+It must be completely written in proper Serbian (SR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Mali lav koji je voleo da pleše u travi'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sr</lang_id>
+
+<title>Mali lav koji je voleo da pleše u travi</title>
+<body>
+U davna vremena, u prostranoj savani, živeo je mali lav po imenu Leo.  Leo nije bio kao ostali lavovi.  Nije ga zanimala lova, ni strašna snaga. Leo je voleo da pleše.
+
+Njegova je majka, snažna i ponosna lavica, bila je zbunjena.  "Leo, zašto ne loviš kao ostali lavovi? Zašto se igraš u travi?" pitala bi ga.
+
+"Mama," odgovarao bi Leo, "trava je tako lepa!  Sunce se igra u njenim talasima, a vetar šapuće predivne pesme.  Želim da ih osetim, da ih podelim sa svim biljkama i životinjama."
+
+Leo bi se spustio na meku travu i počeo da pleše.  Njegove su šape lagano klizile po travi, a telo se savijalo u ritmu nežnih vetrova.  Njegova kosa, zlatno-žuta, talasala se kao da je prožeta sunčevim zracima.  Ponekad bi se pridružile i druge životinje.  Žirafe bi polako kretale svojim dugim vratom, a zečevi bi preskakali u ritmu njegovog plesa.
+
+Jednog sunčanog jutra, dok je Leo plešao u travi, primetio je da je nešto drugačije.  Trava se nije čula kao obično.  Bila je tiha i tužna.  Žirafe su bile manje živahne, a zečevi su se sakrili u svoje rupe.  Leo je osetio nešto neobično u vazduhu.  Bio je to osećaj tuge i usamljenosti.
+
+"Šta se dešava?" zapitao se Leo.  Prišao je blizu jednom starom drvetu, i čuo je tihi šapat.  "Suša je stigla", šapnuo je vetar. "Sve se suši i umire."
+
+Leo je bio tužan.  Shvatio je da njegova radost nije dovoljna da zaustavi sušu.  "Šta mogu da uradim?" zapitao se.
+
+Odlučio je da se obrati svim životinjama.  Počeo je da pleše u centru savane.  Njegov ples nije bio samo za zabavu.  Bio je to ples molbe, ples nadanja.  Žirafe su se pridružile, njihovi vrhovi se savijali u ritmu, zečevi su preskakali brže, a i ostale životinje su se pridružile.  Osećaj tuge se polako pretvarao u nadu.
+
+"Moramo zajedno da se borimo protiv suše", rekao je Leo.  "Treba da donesemo vodu."
+
+Žirafe su se potrudile da dođu do udaljenih vrela.  Zečevi su pronalazili kapljice vode i nosili ih do drugih životinja.  Leo je, sa svojom nežnom energijom, plesao i pevao pesme koje su bile punjene nadom.  Uvek je imao osećaj da je tu snaga.
+
+Danima su se životinje trudile.  Leo je plesao i pevao.  Njegov ples je bio kao sunčeva svetlost, a njegove pesme kao nežni vetar.  Iako je suša bila jaka, životinje su se borile zajedno.
+
+Na kraju, pojavio se oblak.  Kiša je pala.  Trava je počela da se zeleni.  Životinje su se radujale.  Leo je plesao od sreće.  Njegov ples nije bio samo za zabavu.  Bio je to ples zahvalnosti, ples zajedništva, ples mira.
+
+Od tada, Leo je i dalje plesao u travi, ali sada je njegov ples bio još posebniji.  Bio je to ples zajedništva, ples sa svim životinjama, ples za budućnost.  Bio je to ples koji je pokazao da čak i mali lav može da promeni svet.  I svi su se slažili da je Leo bio poseban lav.  Bio je lav koji je voleo da pleše u travi, ali i lav koji je voleo da pomaže.
+</body>

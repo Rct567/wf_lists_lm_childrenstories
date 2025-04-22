@@ -1,0 +1,34 @@
+<prompt>
+Please write a uncomplicated Esperanto children's story that is at least 1000 words long.
+It must be completely written in proper Esperanto (EO).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Se la Bestoj Parolus Nian Lingvon, Kiaj Rakontoj Ili Rakontus?'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>eo</lang_id>
+
+<title>Se la Bestoj Parolus Nian Lingvon, Kiaj Rakontoj Ili Rakontus?</title>
+<body>
+En bela arbaro, kie la suno ludis per la folioj kaj la vento kantantaj melodiojn tra la arboj, vivis malgranda muso nomata Mikaelo. Mikaelo ne estis simpla muso; li havis grandan deziron kompreni la mondon ĉirkaŭ li.  Li pasigis siajn tagojn observante la birdojn, la bestojn kaj la arbarojn, kaj li ĉiam demandis sin, kiaj rakontoj ili rakontus, se ili parolus la lingvon de la homoj.
+
+Unun tagon, Mikaelo renkontis grandan, malmolan cignon, kiu ploris pro malgranda, trankvila lago.  "Kial vi ploras, bela cigno?" demandis Mikaelo. La cigno, kies nomo estis Celeste, respondis per dolĉa voĉo, plenigita de nostalgio: "Miaj gepatroj kaj mi ĉiam vivis en granda lago.  Sed hodiaŭ, alvenis homoj kaj konstruis grandan barilon ĉirkaŭ la lago.  Ni ne plu povas flugi liberige kaj ni ne plu povas trovi sufiĉe da fiŝoj. Mi sentas mi perdis miajn radikojn."
+
+Mikaelo, kun plena koro, sentis grandan simpation por Celeste. Li rapide kuras al la arbaro kaj trovis la plej grandan, plej aĝan arbo, kies nomo estis Profesia.  Profesia, senfoliaj, kun siaj dikaj branĉoj, estis la plej saĝa arbo en la arbaro.  "Profesia, helpu min!"  Mikaelo kriis. "Celeste ploras pro la homoj kaj la nova barilo ĉirkaŭ la lago."
+
+Profesia, kun siaj grandaj, malnovaj folioj, respondis per profunda voĉo: "Mikaelo, ni devas helpi Celeste.  La homoj, eble, ne konscias pri siaj agoj.  Ni devas trovi manieron informi ilin pri la problemoj de Celeste."
+
+Mikaelo kaj Profesia diskutis kaj pensis kune.  Fine, ili decidis skribi leteron al la homoj.  Mikaelo, kun siaj akraj ungegoj, skribis la leteron en la plej pura sablo kaj Profesia, kun siaj elstaraj radikoj, pentris belegajn bildojn de la lago, de la cigno kaj de la homoj kiuj konstruis la barilon.
+
+La letero estis montrita al ĉiu besto en la arbaro, ĉiu de ili donis siajn proprajn konsiliojn. La cervo, nomata  Cerbusto, sugis ke ili aldonu informojn pri la neceso de la lago por la ekologia sistemo kaj la bestoj kiuj vivas tie, la urso, nomata Ursa, aldonis informojn pri la neceso de la lago por la naturo.  Fine, ili sukcesis skribi la plej belan kaj plej informan leteron iam.
+
+Post longa kaj malfacila vojaĝo, Mikaelo portis la leteron al la homoj kiuj konstruis la barilon.  La homoj, kiuj legas la leteron, estis koncernitaj kaj kompatemaj.  Ili decidis demoli la barilon kaj rekrei la ekosistemon.  Celeste, bonega cigno, fariĝis tute feliĉa kaj flugis ĉirkaŭ la lago kun granda ĝojo kaj dankeco.  La lago pluvivis kaj la arbaro restis sana.
+
+Unun tagon, dum Mikaelo observis la arbaron kaj la bestojn, li aŭdis la plej belan kanton.  La birdoj ĉirkaŭis lin kaj kantis kun ĝojo kaj dankemo. Mikaelo sciis, ke la ĉiuj bestoj, per siaj propraj voĉoj, ĉiam povas rakonti rakontojn plenigitaj de esperi kaj amo.  Li sciis ankaŭ, ke se la bestoj parolus nian lingvon, ili rakontus rakontojn plenigitaj de kompato, de respekto, kaj de la profunda amo al la naturo.
+
+
+La arbaro estis plena de ĝojo kaj la bestoj, ĉiuj kune, dancis kaj kantis.  Ili ĉiu estis feliĉaj, ke ili sukcesis savi la lagon kaj montri al la homoj, ke ili ankaŭ devas esti respektante kaj kompataj al la naturo.  Mikaelo, plena de feliĉo, sciis, ke lia vojaĝo estis valora, kaj ke la bestoj, se ili parolus nian lingvon, rakontus rakontojn plenigitaj de la profundo de la natura mondo.
+</body>

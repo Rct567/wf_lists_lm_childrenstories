@@ -1,0 +1,51 @@
+<prompt>
+Please write a relatable Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Tìm Kiếm Kho Báu Bị Mất Tích Ở Hòn Đảo Hoang'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>vi</lang_id>
+
+```vi
+<title>Tìm Kiếm Kho Báu Bị Mất Tích Ở Hòn Đảo Hoang</title>
+<body>
+Ngày xửa ngày xưa, tại một làng chài nhỏ bé ven biển miền Trung Việt Nam, có một cô bé tên là Mai. Mai có mái tóc đen nhánh như tơ, đôi mắt sáng long lanh như sao và nụ cười luôn nở trên môi. Cô bé rất yêu thích những câu chuyện về cướp biển, kho báu và những cuộc phiêu lưu kỳ thú.
+
+Gia đình Mai làm nghề chài lưới. Cha của Mai, một ngư dân tài ba, thường kể cho cô bé nghe những câu chuyện về biển cả, về những con cá heo thông minh, những rặng san hô rực rỡ và cả những truyền thuyết về kho báu bị thất lạc. Một trong những câu chuyện mà Mai thích nhất là về kho báu của thuyền trưởng Vàng, một tên cướp biển khét tiếng đã từng hoành hành trên vùng biển này. Người ta kể rằng, thuyền trưởng Vàng đã cất giấu kho báu của mình trên một hòn đảo hoang bí ẩn, và nó vẫn còn nằm yên ở đó, chờ đợi người tìm thấy.
+
+Một ngày nọ, trong khi đang giúp cha dọn dẹp lưới, Mai nhặt được một mẩu giấy cũ kỹ. Mẩu giấy đã ngả màu vàng úa, nét chữ viết tay nguệch ngoạc, nhưng Mai nhận ra ngay đây là một phần của bản đồ kho báu! Tim cô bé đập thình thịch. Bản đồ vẽ hình một hòn đảo, có đánh dấu vị trí được cho là nơi cất giấu kho báu. Phía dưới là dòng chữ viết vội: "Tìm đến đảo hoang, nơi con chim biển ngủ yên, kho báu sẽ thuộc về ngươi."
+
+Mai nhanh chóng mang bản đồ cho cha xem. Cha cô bé, dù đã trải qua bao nhiêu sóng gió biển cả, cũng ngạc nhiên trước sự trùng hợp này. Ông nhớ lại những câu chuyện về kho báu thuyền trưởng Vàng, và linh cảm mách bảo rằng, đây có thể là sự thật. Ông và Mai cùng nhau nghiên cứu bản đồ, và quyết định lên đường tìm kiếm kho báu.
+
+Ngày hôm sau, khi mặt trời vừa ló dạng, Mai và cha đã lên thuyền. Họ chuẩn bị đầy đủ lương thực, nước uống và một số dụng cụ cần thiết cho chuyến đi. Cha cô lái thuyền, còn Mai giữ bản đồ trong tay, mắt không rời khỏi đường đi.
+
+Sau nhiều giờ vượt biển, cuối cùng, họ cũng nhìn thấy hòn đảo hoang mà bản đồ chỉ ra. Hòn đảo nhỏ, được bao quanh bởi những bãi cát trắng mịn và những vách đá dựng đứng. Trên đỉnh đảo, những cây cọ cao vút đung đưa trong gió.
+
+Khi thuyền cập bến, Mai và cha bắt đầu cuộc hành trình khám phá. Họ đi theo những chỉ dẫn trên bản đồ. Đầu tiên, họ tìm thấy một tảng đá lớn, nơi trên bản đồ có hình một con chim biển đang ngủ. Bên cạnh tảng đá, họ phát hiện ra một lối đi nhỏ, dẫn vào sâu trong lòng đảo.
+
+Lối đi ngày càng trở nên tối tăm và ẩm ướt. Mai, dù có chút sợ hãi, vẫn cố gắng bước đi, luôn nắm chặt tay cha. Họ phải vượt qua những bụi rậm rạp, trèo qua những tảng đá lớn và băng qua những con suối nhỏ.
+
+Cuối cùng, họ đến một hang động. Trong hang động, Mai và cha thấy có ánh sáng nhấp nháy yếu ớt. Họ tiến lại gần và phát hiện ra một đống lửa đang cháy âm ỉ. Bên cạnh đống lửa, có một chiếc rương gỗ lớn. Tim Mai lại đập mạnh. Đây chắc chắn là nơi cất giấu kho báu!
+
+Mai và cha cẩn thận mở chiếc rương ra. Bên trong, không có vàng bạc châu báu lấp lánh như trong tưởng tượng của Mai. Thay vào đó, là những quyển sách cổ xưa, những bản đồ về các vùng biển khác nhau và một vài món đồ nhỏ bằng gốm sứ.
+
+Mai hơi thất vọng. Cô bé mong đợi tìm thấy những đồng tiền vàng lấp lánh, những viên kim cương rực rỡ. Nhưng cha cô lại rất vui mừng. Ông giải thích với Mai rằng, những quyển sách và bản đồ này còn quý giá hơn vàng bạc châu báu. Chúng chứa đựng tri thức về lịch sử, về biển cả, và về những nền văn minh khác nhau. Ông còn nói rằng, những món đồ gốm sứ nhỏ nhắn này có thể là di vật quý giá của những nền văn minh đã bị lãng quên.
+
+Mai bắt đầu hiểu ra. Kho báu không nhất thiết phải là những thứ lấp lánh. Kho báu có thể là tri thức, là những giá trị tinh thần, là những kỷ niệm đẹp. Cô bé nhìn cha, ánh mắt tràn đầy sự ngưỡng mộ. Cha cô là người luôn coi trọng tri thức và yêu thích khám phá.
+
+Họ cùng nhau mang những "kho báu" ra khỏi hang động. Trên đường trở về, Mai và cha nói chuyện vui vẻ. Họ chia sẻ những điều đã khám phá được trong chuyến đi, và lên kế hoạch cho những cuộc phiêu lưu khác trong tương lai.
+
+Khi thuyền cập bến, cả làng chài đã chờ đợi họ. Mai và cha kể lại câu chuyện về hành trình tìm kiếm kho báu. Mọi người đều ngưỡng mộ sự kiên trì và lòng dũng cảm của Mai và cha cô.
+
+Từ đó, Mai càng thêm yêu thích việc đọc sách, tìm hiểu lịch sử và khám phá thế giới xung quanh. Cô bé hiểu rằng, kho báu thực sự nằm trong sự hiểu biết và những trải nghiệm mà cô có được. Cô luôn trân trọng những món quà mà cuộc sống đã ban tặng, và luôn giữ trong tim những kỷ niệm đẹp về chuyến phiêu lưu ở hòn đảo hoang, nơi cô bé đã tìm thấy kho báu đích thực của cuộc đời mình.
+
+Và câu chuyện về Mai, về kho báu không phải là vàng bạc, đã trở thành một bài học quý giá cho tất cả mọi người trong làng chài, nhắc nhở họ rằng, giá trị thực sự của cuộc sống không nằm ở sự giàu sang, mà ở những điều giản dị, những kỷ niệm và những người yêu thương bên cạnh.
+
+Mai lớn lên, trở thành một người phụ nữ thông minh, nhân hậu và có trái tim rộng mở. Cô luôn nhớ về hòn đảo hoang và kho báu của thuyền trưởng Vàng, một kho báu đã thay đổi cuộc đời cô và dạy cô những bài học quý giá về cuộc sống. Và câu chuyện về cô bé tìm kiếm kho báu vẫn được kể lại trong làng chài, từ đời này sang đời khác, như một lời nhắc nhở về ý nghĩa thực sự của kho báu.
+</body>
+```

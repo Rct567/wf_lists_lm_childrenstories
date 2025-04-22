@@ -1,0 +1,37 @@
+<prompt>
+Please write a light-hearted Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Bogár Béla és a titkos kert rejtélye'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>hu</lang_id>
+
+<title>Bogár Béla és a titkos kert rejtélye</title>
+<body>Aznap, amikor Bogár Béla véletlenül rátalált a titkos kertre, teljesen megváltozott az élete. Már régóta élt a kis faluban, ahol mindenki ismerte egymást, és ahol a legnagyobb izgalom az volt, hogy ki tudott a legtöbb szilvát enni egy ülésben. De Béla más volt, mint a többiek. Ő mindig keresett valami újat, valami izgalmasat, valami titkot, amit meg lehetett fejteni. És ezen a napon, amikor a falu széle felé sétált, észrevett egy kis ösvényt, amelyet még soha nem látott.
+
+Az ösvény keskeny volt és kanyargós, és Béla nem tudta, hova vezet. De ő nem az a típus volt, aki megáll egy kis titok előtt. Így elindult az ösvényen, és hamarosan egy gyönyörű, zöldellő kertben találta magát. A kert tele volt virágokkal, fákkal és bokrokkal, és egy kis tó is volt a közepén. Béla soha nem látott ilyen szépet, és azonnal tudta, hogy ez a titkos kert, amelyről mindig is álmodott.
+
+De amikor jobban körülnézett, észrevett valami furát. A kertben mindenhol voltak kis jelzések, amelyek mintha egy titkos nyelven íródtak volna. Béla kíváncsi volt, és elhatározta, hogy megfejti a rejtélyt. Így nekiállt, és elkezdte tanulmányozni a jelzéseket. Hamarosan rájött, hogy a jelzések valójában egy térkép részei, amely a kert mélyére vezet.
+
+Béla izgatottan követte a térképet, és hamarosan egy kis ajtóhoz érkezett, amelyet korábban nem látott. Az ajtó zárva volt, de Béla megtalálta a kulcsot, amely egy kis fa tövében volt elrejtve. Amikor kinyitotta az ajtót, egy kis szobába lépett be, amely tele volt könyvekkel és iratokkal. A szoba közepén egy nagy asztal állt, és az asztalon egy kis láda volt, amelyet Béla nem tudott kinyitni.
+
+De ő nem adta fel. Elhatározta, hogy megfejti a láda titkát, és elkezdte tanulmányozni az asztalon lévő iratokat. Hamarosan rájött, hogy az iratok valójában egy verseskönyv részei, amelyekben a láda kulcsa volt elrejtve. Béla izgatottan olvasta a verseket, és hamarosan megtalálta a kulcsot, amely egy kis szóban volt elrejtve.
+
+Amikor kinyitotta a ládát, egy kis levelet talált benne, amelyen ez állt: "Kedves Béla, gratulálok, hogy megfejtetted a titkos kert rejtélyét. Most, hogy itt vagy, szeretném, ha segítenél nekem valamiben. A kertben van egy kis probléma, amelyet nem tudok megoldani. A tóban él egy kis hal, amelyik nem tud kimenni a partra. Szeretném, ha segítenél neki, hogy kimenne a partra, és újra boldog legyen."
+
+Béla szíve megtelt szeretettel, és elhatározta, hogy segít a halnak. Így elindult a tóhoz, és hamarosan megtalálta a kis halat, amelyik a vízben úszkált. De amikor jobban megnézte, észrevett valami furát. A hal nem tudott kimenni a partra, mert a tóban volt egy kis sziget, amely elzárta az utat.
+
+Béla gondolkodott egy kicsit, és hamarosan rájött, hogy mit kell tennie. Elkezdte ásni a szigetet, és hamarosan sikerült elmozdítania. A hal kimenni tudott a partra, és Béla látta, ahogy boldogan úszik a vízben. A kertben mindenhol virágok nyíltak, és a fák zöldellni kezdtek. Béla tudta, hogy megoldotta a problémat, és a kert újra boldog lett.
+
+Amikor visszament a szobába, egy kis ajándékot talált az asztalon, amelyen ez állt: "Köszönöm, Béla, hogy segítettél a halnak. Most, hogy a kert boldog lett, szeretném, ha itt maradnál, és megírnád a titkos kert történetét. Így az emberek tudni fogják, hogy a kertben mindig van valami titok, amit meg lehet fejteni."
+
+Béla szíve megtelt boldogsággal, és elhatározta, hogy megírja a titkos kert történetét. Így leült az asztalhoz, és elkezdte írni a történetet. Ahogy írt, a kertben mindenhol virágok nyíltak, és a fák zöldellni kezdtek. A tóban a hal úszkált, és Béla látta, ahogy boldogan él a kertben.
+
+Végül, amikor befejezte a történetet, Béla kilépett a kertből, és visszament a faluba. De ő nem volt ugyanaz a Béla, aki korábban volt. Most ő volt a titkos kert őre, és mindig készen állt, hogy segítsen a kertben élő állatoknak. És amikor az emberek megkérdezték tőle, hogy mi történt a titkos kertben, ő csak mosolygott, és azt mondta: "Az a titkos kert rejtélye, amelyet csak azok tudnak megfejteni, akik hisznek a csodákban."
+
+Így Béla tovább élt a faluban, de mindig a titkos kertben élő állatokat segítette, és mindig készen állt, hogy megfejtse a kert újabb titkait. És a kertben mindenhol virágok nyíltak, és a fák zöldellni kezdtek, mert Béla volt a titkos kert őre, aki mindig vigyázott rá, hogy a kert boldog legyen.</body>

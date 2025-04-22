@@ -1,0 +1,37 @@
+<prompt>
+Please write a silly Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Vējš Pār Mežu un Dziedošās Vētras'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>lv</lang_id>
+
+<title>Vējš Pār Mežu un Dziedošās Vētras</title>
+<body>Reiz sen senos laikos, tālu, tālu prom no mūsu pilsētas, bija viens brīnums ar mežu, kurā dzīvoja daudz īpašu būtņu. Šis mežs bija pilns ar skaistiem kokiem, zīlītiem avotiem un dzīvības pilnām dzīvniekiem. Bet viens no visiem interesantākajiem šī meža iemītniekiem bija vējš, kurš šeit dzīvoja kopš paša sākuma.
+
+Vējš bija ļoti draudzīgs un vienmēr gāja pa savu ceļu, līdz brīdim, kad vienā dienā mežā ienāca jauns iemītnieks - maza, bet ļoti spēcīga vētra. Vētra bija dzimusi tālu, tālu prom no šī meža un bija ceļojusi garām daudziem citiem mežiem, līdz beidzot nonāca šeit.
+
+Sākumā vējš bija ļoti izbrāzīts par jauno vētru un domāja, ka viņa būs konkurente. Bet vētra bija ļoti mīlīga un saka: "Es neesmu šeit, lai kādus konkurētu, bet gan lai mūsu mežu padarītu vēl skaistāku un daudzveidīgāku." Vējš klausījās vētras un sāka domāt, ka varbūt viņa ir laba draudzene.
+
+Abi sāka strādāt kopā, lai mežu padarītu vēl labāku. Vējš sāka pūst vēl stiprāk, bet vētra sāka dziedāt skaistākās dziesmas. Meža iemītnieki bija ļoti priecīgi par šo jauno sadarbību un sāka dziedāt kopā ar vētru. Mežs kļuva par vienu no skaistākajiem mežiem visā zemē.
+
+Bet vienā dienā mežā notika liela bēda. Lielais ugunsgrēks sākās un sāka apdraudēt meža iemītnieku mājas. Vējš un vētra zināja, ka viņiem ir jādarbojas ātri, lai glābtu mežu. Vējš sāka pūst vēl stiprāk, bet vētra sāka dziedāt vēl skaistākās dziesmas. Meža iemītnieki palīdzēja vējam un vētrai, lai ugunsgrēku apturētu.
+
+Pēc ilgas cīņas ugunsgrēks tika apturēts un mežs tika glābts. Meža iemītnieki bija ļoti pateicīgi vējam un vētrai par to, ka viņi bija glābuši viņu mājas. Vējš un vētra bija ļoti priecīgi, ka viņi varēja palīdzēt.
+
+No šīs dienas vējš un vētra kļuva par labākajiem draugiem. Viņi turpināja strādāt kopā, lai mežu padarītu vēl labāku. Mežs kļuva par vienu no vispopulārākajiem mežiem visā zemē un tūristi no visiem rajoniem nāca, lai redzētu šo skaisto mežu.
+
+Vēl viena diena, kad vējš un vētra bija klāt, viens no meža iemītniekiem, mazs zēns, aizgāja mežā. Zēns bija ļoti izbrāzīts un aizgāja tālu no mājas. Vējš un vētra redzēja zēnu un zināja, ka viņam ir jāpalīdz. Vējš sāka pūst vēl stiprāk, bet vētra sāka dziedāt vēl skaistākās dziesmas, lai zēns atgrieztos mājās.
+
+Pēc ilgas meklēšanas zēns tika atrasts un atgriezās mājās. Zēna vecāki bija ļoti pateicīgi vējam un vētrai par to, ka viņi bija palīdzējuši viņu dēlam. Vējš un vētra bija ļoti priecīgi, ka viņi varēja palīdzēt.
+
+Šo stāstu par vēju un vētru var mācīt, ka kopīga darba un draudzības var panākt daudz labāku nekā viens pats. Vējš un vētra kļuva par labākajiem draugiem un turpināja strādāt kopā, lai mežu padarītu vēl labāku. Mežs kļuva par vienu no vispopulārākajiem mežiem visā zemē un tūristi no visiem rajoniem nāca, lai redzētu šo skaisto mežu.
+
+Vēl šodien vējš un vētra strādā kopā, lai mežu padarītu vēl labāku. Meža iemītnieki ir ļoti priecīgi par šo sadarbību un dzied kopā ar vētru. Vējš un vētra ir kļuvuši par simbolu draudzības un kopīga darba Latvijā. Viņi ir piemērs tam, ka ar kopīgu darbu un draudzību var panākt daudz labāku nekā viens pats.
+
+Un tā vējš un vētra turpina savu darbu, lai mežu padarītu vēl labāku. Viņi ir labākie draugi un strādā kopā, lai mežs būtu skaistākais visā zemē. Meža iemītnieki ir ļoti priecīgi par šo sadarbību un dzied kopā ar vētru. Vējš un vētra ir kļuvuši par sīrdi Latvijas mežiem un turpina savu darbu, lai meži būtu skaistākie visā zemē.</body>

@@ -1,0 +1,38 @@
+<prompt>
+Please write a silly Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Az elveszett város és a kincs'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>Az elveszett város és a kincs</title>
+<body>
+Kis Barna, egy vidám, gömbölyded kisfiú, aki imádta a kalandokat, és mindig talált valamilyen furcsa, régi térképet a padláson, úgy döntött, hogy felfedezi a híres, legendás Elveszett Várost.  A nagyapja, aki egy bölcs, de kissé bolondos öregúr volt, elmesélte neki a legendát a  Csodálatos Kincsről, ami az Elveszett Város mélyén rejtőzött. A kincs egy hatalmas, ragyogó Smaragd-szív volt, melynek ereje képes volt feloldani minden bánatot és megadni minden kívánságot.
+
+
+Barna egy régi, kopott térképet talált a padláson, ami tele volt furcsa jelekkel és szimbólumokkal. A nagyapja segített neki megfejteni a rejtvényeket, és együtt rajzolgattak, míg Barna térképet nem rajzolt, a térképen minden pont olyan volt, mint amilyennek a nagyapja elmondta. A térkép szerint az Elveszett Város az ország legmélyebb erdejében, a  Sárkányhegy lábánál rejtőzött, melynek csúcsát hatalmas, tündöklő sziklák övezték.
+
+
+Barna felkészült a kalandra.  Összepakolt egy hatalmas, zöld táskát, tele különleges finomságokkal: mézeskalács-szív alakú süteményekkel, amelyek úgy néztek ki, mint egy édességboltból való szivárványos cukorkák, és szendvicsekkel, melyeken kis, sárga-kígyó alakú sajt szeletek voltak.  Nem feledkezett meg a legjobb barátjáról sem, egy kicsi, szürke nyulakról, akinek a neve Nyuszi volt. Nyuszi remekül tudott a föld alatt bújócskázni és  a legcsodálatosabb finomságokat is előcsalta a föld alól.
+
+
+Az út a Sárkányhegyhez hosszú és nehéz volt.  Barna és Nyuszi átugrották a patakokat, átmásztak a bozótokon, és megkerülték a csúszós, zöld köveket.  A Sárkányhegy  csúcsán egy sziklafal emelkedett, tele furcsa rajzokkal és feliratokkal. Barna elolvasta őket, de a feliratokat alig értette. Szerencsére Nyuszi megértette a szikla rajzolt szavait, és a lábával tologatva a sziklákat egy titkos ajtó nyílt meg.
+
+
+A titkos ajtón túl egy titokzatos alagút húzódott. Az alagút falai zöldes-kék fényben ragyogtak, és egy csodálatos zenét hallattak, melynek dallamai a szélben szálltak.  Barna és Nyuszi végigment az alagúton, míg végül egy hatalmas, ragyogó barlangba érkeztek.
+
+
+A barlangban egy hatalmas, tiszta, kristálytiszta tavacska csillogott. A tó közepén pedig egy ragyogó smaragdzöld szív lebegett.  A szív szinte sugárzott a fényben, és kellemes meleg érzést adományozott.  Barna, miközben a szív felé nyúlt, érezte, hogy minden fáradtsága elmúlik, és egy különleges, jó érzés öleli körül.
+
+
+Hirtelen azonban egy félelmetes, hatalmas szürke sárkány jelent meg a barlangban. A sárkány hatalmas szeme villogott, és rettenetesen fújt.  Barna megijedt, de Nyuszi bátran előlépett, és egy finom, sárga répa-szendvicset nyomott a sárkány orra elé. A sárkány, aki éppen ebédelni készült, megnyalta a répa-szendvicset, és elaludt.
+
+
+Barna, kissé remegve, megfogta a ragyogó Smaragd-szívet.  A szív meleg sugara átsugárzott rajta, és minden fájdalma elmúlt, helyette egy jó érzés, öröm, és béke ölelte körül.  Barna és Nyuszi visszatért a világba, vigyázva, hogy a nagyapját is meglátogassák. A Smaragd-szív segítségével Barna minden nap jó cselekedeteket végzett, és a boldogságát osztotta meg másokkal.  A kincs valóban varázslatos volt, és Barna soha nem feledte a kalandot az Elveszett Városban.
+</body>

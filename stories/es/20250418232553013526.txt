@@ -1,0 +1,53 @@
+<prompt>
+Please write a light-hearted Spanish children's story that is at least 1000 words long.
+It must be completely written in proper Spanish (ES).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Un mapache astuto y la búsqueda de tesoros perdidos.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>es</lang_id>
+
+```xml
+<title>Un mapache astuto y la búsqueda de tesoros perdidos.</title>
+<body>
+En un bosque verde y frondoso, donde los rayos del sol danzaban a través de las hojas, vivía un mapache muy especial llamado Ricardo. Ricardo no era como los otros mapaches, que se preocupaban por buscar comida en los botes de basura. Él tenía una pasión: la aventura y la búsqueda de tesoros. Siempre llevaba consigo un sombrero viejo y remendado, una linterna chirriante y un mapa arrugado, encontrado, según él, en el estómago de un pez gigante.
+
+Un día, mientras exploraba el tronco hueco de un viejo roble, Ricardo descubrió un mensaje secreto. Estaba escrito en una pequeña hoja de papel amarillenta. Con su pequeña nariz curiosa, Ricardo leyó el mensaje con atención:
+
+"Para aquel que posea corazón valiente y ojos astutos, el tesoro de la risa aguarda en la cascada que susurra secretos al sol. Busca la piedra redonda, el reflejo brillante, y el camino te será revelado."
+
+¡Un tesoro! Los ojos de Ricardo brillaron como estrellas en la noche. Inmediatamente, comenzó a prepararse para la aventura. Ajustó su sombrero, revisó su linterna y, por supuesto, examinó el mapa. El mapa era una mezcla extraña de garabatos y líneas onduladas, pero Ricardo, con su mente aventurera, creía que era perfectamente legible.
+
+Su primer paso era encontrar la cascada. Sabía que la cascada era un lugar mágico, un lugar donde el agua cantaba y las aves se bañaban en el rocío de la mañana. Con la brújula oxidada en mano, se adentró en el bosque, guiado por el sonido del agua y su entusiasmo desbordante.
+
+El camino no era fácil. Tuvo que cruzar un río resbaladizo, trepar por rocas cubiertas de musgo y sortear las ramas espinosas de los rosales silvestres. Encontró un caracol parlanchín que le dio direcciones equivocadas a cambio de una hojita de lechuga, y se cruzó con una ardilla charlatana que intentó venderle nueces podridas. Pero Ricardo, con su espíritu indomable, siguió adelante.
+
+Después de horas de caminata, escuchó el sonido de la cascada. ¡Al fin! La cascada era realmente mágica, tal como decían. El agua caía con fuerza, creando un arcoíris de colores bajo el sol. Ricardo buscó la piedra redonda, el reflejo brillante. Observó atentamente, y de repente, lo vio: una pequeña piedra, lisa y brillante, reflejaba la luz del sol de manera peculiar. La recogió y, al darle la vuelta, vio una inscripción: "Sigue el canto de la libélula azul."
+
+Ricardo miró a su alrededor. ¿Dónde estaba la libélula azul? Buscó por todas partes, entre las flores silvestres y los juncos. De repente, la vio. Una libélula azul, con alas transparentes y un brillo iridiscente, danzaba cerca de él. Ricardo, fascinado, decidió seguirla. La libélula voló entre los árboles, liderando el camino hacia un sendero oculto.
+
+El sendero era estrecho y oscuro, pero Ricardo, con su linterna chirriante, no se amedrentó. Caminó y caminó hasta que el sendero se ensanchó y llegó a un claro. ¡Y allí estaba! En el centro del claro, había un cofre del tesoro, brillante y reluciente.
+
+Ricardo, con el corazón latiendo con fuerza, abrió el cofre. ¡No podía creer lo que vio! El cofre no contenía oro, ni diamantes, ni joyas preciosas. En su lugar, estaba lleno de... risas. ¡Sí, risas! Cientos de pequeños papelitos enrollados, cada uno con una broma o un chiste diferente.
+
+Ricardo no pudo evitar reírse. El "tesoro de la risa" era el regalo más valioso que podía imaginar. Se sentó en el claro, rodeado de las risas, y leyó cada chiste, cada broma. Rió hasta que le dolieron las mejillas y las lágrimas le nublaron los ojos.
+
+De repente, sintió una presencia. Se giró y vio a una niña, de cabello rubio y ojos brillantes, observándolo desde la sombra de un árbol. La niña, llamada Sofía, había seguido la aventura de Ricardo desde la distancia.
+
+"¿Qué es esto, Ricardo?" preguntó Sofía, señalando el cofre.
+
+"¡El tesoro de la risa!" respondió Ricardo, sonriendo de oreja a oreja. "El mapa nos condujo a la risa, la mayor riqueza de todas".
+
+Sofía se acercó tímidamente y tomó un papelito. Leyó el chiste y, por primera vez en mucho tiempo, comenzó a reír.
+
+"¡Es increíble!" dijo Sofía, limpiando una lágrima. "Hace mucho que no me reía tanto".
+
+Ricardo y Sofía pasaron la tarde juntos, leyendo chistes y riendo sin parar. Descubrieron que la risa compartida era mucho más valiosa que cualquier tesoro material.
+
+Desde ese día, Ricardo y Sofía se convirtieron en los mejores amigos. Juntos exploraban el bosque, buscando nuevos tesoros de la alegría. Compartían chistes, jugaban y se reían, demostrando que la mayor aventura de la vida es la amistad y la capacidad de reír. Y, aunque Ricardo seguía siendo un mapache astuto y aventurero, aprendió que el verdadero tesoro siempre estará en el corazón, y en la risa compartida con aquellos que amamos. La cascada, ahora conocida como la "cascada de la risa", se convirtió en su lugar favorito, un recordatorio constante de que la felicidad es el tesoro más preciado, y que, a veces, la mejor aventura es reír a carcajadas con un amigo. Y así, el mapache astuto, con su sombrero remendado y su corazón lleno de alegría, continuó explorando el mundo, siempre buscando el próximo tesoro, sabiendo que, sin importar lo que encontrara, lo más importante siempre sería la risa.
+</body>
+```

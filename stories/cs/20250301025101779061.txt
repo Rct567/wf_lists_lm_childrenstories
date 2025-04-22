@@ -1,0 +1,46 @@
+<prompt>
+Please write a silly Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Dobrodružství malého draka, který se bál létat'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Dobrodružství malého draka, který se bál létat</title><body>
+Karel byl malý drak.  Nebyl zrovna malý, měl tak metr a půl od hlavy až k ocasu, ale pro draka, který měl plné zuby létání,  byl malý jako mravenec.  Ostatní draci v jeskyni v Hořících horách létali s úžasnou lehkostí, jako by se propadali oblakem deště. Karel ale cítil v břiše těžký kámen a v krku kouli strachu, když si jen představil vznícení svých dračích křídel.
+
+Jeho maminka, Drahomíra, dračí kráska se stříbrnými šupinami, se ho snažila povzbudit. "Kaarle, dračí srdečko! Létání je radost, je to volnost!  Viděl jsi, jak se klouže Sám Sněžný, ten král hor?"
+
+Karel si vzpomněl na Sám Sněžného, majestátního draka s bílými šupinami,  který se pohyboval po obloze s takovou grácií, že to vypadalo, jako by se snažil zlehka sňat oblaky.  Karel se zadíval nahoru a uviděl mraky, které se nad ním pohybovaly s úžasnou lehkostí a všiml si větru. Viděl ho v lístkách stromů a jeho nelehký dech ve svých duhovitých šupinách.
+
+"Ale maminko," pronesl Karel, "Já se bojím!"
+
+"Strachu se zbavíme odvahou a tréninkem, malý můj!"  Drahomíra se s úsměvem dotkla Karlova nosu.
+
+Takže se Karel snažil každý den.  Cvičil s peříčky, která sbíral podél potoka.  Houpal se na větvičkách, i když v hlavě stále duněl strach a krk se mu dusil strachem. Cvičil se soustředit na pocit vzduchu a horkého dračího dechu a to mu pomáhalo zvládnout lehkost. Ale přesto se bála a strach mu  neubýval.
+
+Jednoho dne se v údolí zjevil ohromný oštěp.  Byl vyroben z ohně a svítil tak jasně, až Karel až z nosu zlehka šlo slyšet hromobití. Dračí starci se zaťali zuby. Karel slyšel moudré dračí rady, přemýšlel o nich.  Skrýval se v jeskyni a přemýšlel.  Přemýšlel o síle svých předků a o ohňových dýcháních, na která se měli draci, hrdinové minulosti,  způsobem věku, se hrdostně zamyslet. Zanedlouho přišel k odvaze.
+
+A z věže vysoké jeskyně prohlédl celé údolí. Dnes už mu stačila síla mysli a duše.
+
+"Tohle bysme mohli opravit!" prohlásila maminka Drahomíra, která se dohodila se Sám Sněžným, král hor, s draky ze severu a jihu, se starým drakem s jizvami.  Museli bránit  oštěp, který hrozil  celému království před zničením.
+
+Karel nevěřil vlastním očím. Sám se přilepil k ohnivému oštěpu, se sílou mysli a hrdostí, s odhodláním! To ho nutí k odvaze.
+
+S hrůzou se ale i s nadšením Karel odhodlal odrazit oštěp, který klesal na cestu ke křišťálovým vodopádům.
+
+Ve vší tichosti zvedl k oštěpu svou špičatou hlavu, do hlavy se mu hnalo horké kouřivo, šplhalo hoře a hory.  Přemýšlel nad způsobem, jak oštěp zkrotit.
+
+Karel, malý drak,  všechno překoná, jen aby ochránil království draků před ohnivými oštěpy!
+
+Pomalu, se všemi silami dračí síly, zvedl své křídla a s výkřikem úcty k drakům  s úsměvem odrazil oštěp.  Oštěp  odletěl daleko, do zapadajícího slunce, a nechal v duši každého dračího srdce  sílu a pokoru.
+
+Karel, odhodlán a zkušený, kroužil nad údolím, svá křídla, plná horkého síly, šplhala k nebeským vrcholům a vířivá atmosféra se tvořila kolem. V očích mu zářilo štěstí a slast z odvážnosti a z vůně vzpírání dračí krve v hrdém rytmu. Karel s pevnou vůlí a moudrou sílou odvážného mysli a hrdinského srdce zvěčnil  své jméno v paměti  generace draků.  A už se nikdy nebál létat.
+
+Na celé Hořících horách se zavrtěl ohromný tanec. A všichni věděli, že  dnes se objevil nový hrdina – malý drak, který se nebál létat.
+</body>

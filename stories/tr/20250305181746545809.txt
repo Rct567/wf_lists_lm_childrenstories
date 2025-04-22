@@ -1,0 +1,39 @@
+<prompt>
+Please write a simple and easy-to-follow Turkish children's story that is at least 1000 words long.
+It must be completely written in proper Turkish (TR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Yıldızların Dilini Öğrenen Küçük Astronot'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>tr</lang_id>
+
+<title>Yıldızların Dilini Öğrenen Küçük Astronot</title>
+<body>
+Küçük Ayşe, gözlerindeki kocaman yıldızlar gibi parlayan, meraklı bir kızdı.  Her gece,  yumuşak yatağında uzanır, gökyüzüne bakardı.  Sayısız yıldız, sanki ona sesleniyor gibiydi.  Ama Ayşe, o gizemli parıltıların dilini anlayamıyordu.
+
+Bir gün, Ayşe'nin babası, evlerindeki eski bir bavulu açtı.  İçinden, tozlu ve eski bir kitap çıktı.  Kitabın kapağında,  "Yıldızların Sırları" yazıyordu.  Ayşe, merakla kitabın sayfalarını çevirmeye başladı.  Resimler, haritalar ve tuhaf sembollerle doluydu.  Ayşe, yıldızların dilini öğrenmenin bir yolunun bu kitapta saklı olduğunu hissediyordu.
+
+Kitapta,  yıldızların farklı renklerinin farklı anlamlar taşıdığı yazıyordu.  Mavi yıldızlar,  uzaktaki arkadaşları; sarı yıldızlar,  sıcak aileleri; kırmızı yıldızlar,  cesaretli kahramanları temsil ediyordu.  Ayşe,  her bir yıldızı dikkatlice inceleyerek,  onların hikayelerini öğrenmeye başladı.  
+
+Bir gece, Ayşe,  gökyüzünde parlayan bir yıldızın,  kendisine doğru bir mesaj gönderdiğini hissetti.  Yıldız,  sanki ona "Gel,  bizimle konuş" diyordu.  Ayşe,  merakla kitabındaki sembolleri inceledi.  Semboller,  yıldızlara doğru bir yol çiziyordu.
+
+Yol,  Ayşe'nin evinin dışındaki bahçeden başlıyordu.  Bahçede,  esrarengiz bir şekilde parlayan bir taş vardı.  Ayşe,  taşı eline aldı.  Taş,  sıcak ve yumuşak hissettiriyordu.  Kitaptaki çizimlere göre,  bu taş,  yıldızlara giden ilk adımdı.
+
+Taşı elinde tutarken,  Ayşe,  bir anda kendisini,  yıldızlar arasında uçan bir uzay mekiğinde buldu.  Mekik,  parlayan yıldızlara doğru hızla ilerliyordu.  Gökyüzü,  sonsuz bir renk denizine dönüşmüştü.  Ayşe,  yıldızların arasından geçerken,  onların seslerini duyabiliyordu.  Sanki yıldızlar,  ona şarkılar söylüyordu.
+
+Ayşe,  uzay mekiğinde,  birkaç farklı yıldızla konuştu.  Bir mavi yıldız,  kendisine uzayın derinliklerindeki gizemli hikayelerden bahsetti.  Sarı bir yıldız,  sıcak ve dost canlısıydı;  kırmızı bir yıldız ise,  ayrıntılı ve cesur bir yolculuk hikayesi anlattı.
+
+Ayşe,  yıldızların dilini yavaş yavaş öğrenmeye başlamıştı.  Onların seslerini,  parıltılarını ve anlamlarını çözüyordu.  Yıldızlar,  ona  evrenin sırlarını,  uzayın enginliğindeki güzellikleri anlatıyordu.
+
+Bir gün,  Ayşe,  gökyüzünde çok özel bir yıldız buldu.  Bu yıldız,  çok farklı parlıyordu ve diğer yıldızlardan daha büyük görünüyordu.  Kitabında bu yıldızın,  "Evrenin Kalbi" olduğunu yazıyordu.  Ayşe,  bu yıldıza doğru uçtu.
+
+Evrenin Kalbi,  Ayşe'ye,  evrenin nasıl oluştuğunu,  yıldızların nasıl doğduğunu ve öldüğünü anlattı.  Ayşe,  bu bilgileri,  düşüncelerinde sakladı.  Evrenin Kalbi,  Ayşe'ye,  yıldızların her birinin birer hikayeye sahip olduğunu,  her birinin birer özelliğini taşıdığını söyledi.  Ayşe,  yıldızlara olan hayranlığını ve saygısını daha da artırdı.
+
+Ayşe,  yıldızların dilini öğrenmenin,  onların hikayelerini duymanın ne kadar güzel olduğunu anladı.  Yıldızlar,  onu dünyanın ötesine götürmüş,  evrenin gizemlerini açığa çıkarmıştı.  Ayşe,  yıldızların dilini öğrenmenin,  tek başına değil,  birlikte yolculuk yapmanın ne kadar harika olduğunu keşfetmişti.
+
+Ayşe,  uzay mekiğinde evine geri döndü.  Yıldızlarla konuşmanın verdiği mutluluk,  yüzünde bir gülümseme bıraktı.  O günden sonra,  Ayşe her gece gökyüzüne baktığında,  yıldızların dilini anlıyordu.  Onlar,  ona farklı hikayeler anlatıyorlardı ve o,  onları dinleyerek,  evrenin sırlarını keşfetmeye devam ediyordu.
+</body>

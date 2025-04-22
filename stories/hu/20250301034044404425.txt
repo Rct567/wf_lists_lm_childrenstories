@@ -1,0 +1,47 @@
+<prompt>
+Please write a relatable Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Az eltűnt holdfény rejtélyes nyomai'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>Az eltűnt holdfény rejtélyes nyomai</title><body>
+A kertünkben, ahol a sárga napsütés örökké táncolt a diófák lombozata között, hirtelen sötét lett. Nem, nem jött el az éj, hanem mintha egy hatalmas, láthatatlan kéz elhúzta volna a holdfényt az égről.  Bálint, a nyolcéves fiúcska,  csodálkozva bámult az égre.  A szokásos, ragyogó holdfény helyett csak szürke, elmosódott foltok úsztak a sötétben.
+
+Anyukája, kitűnő sütőnő, éppen a kertben, a hatalmas cseresznyefa alatt készítette a finom mákos rétest, melynek illata betöltötte az egész kertet. A csendet csak a méhek zümmögése és a levelek susogása zavarta.
+
+"Anyu, hol van a hold? " – kérdezte Bálint, a hangja kicsit reszketett, a sötétség kicsit megfélemlítette.
+
+"Biztos csak elbújt, kisfiam," válaszolta az anyukája mosolyogva, "jó lesz néha egy kis rejtély is, nem gondolod? Holnap biztos megint itt lesz, a ragyogó holdfény."
+
+De a holdfény nem tért vissza a következő napon, sem a harmadikon. A kerti játék is érdektelenné vált.  Bálint a ház ablakaiból, és a kertben, a legnagyobb diófa alatt leskelődve, a holdat kereste a sötét égen.  Miért tűnt el?
+
+Apukája, aki  asztalos volt, egy különleges mesterséges holdat épített,  ez ezüstös és kerek volt, mint a valódi hold, melynek a fényével minden ragyogóvá válhatott a kertben, a földön is. Sajnálta Bálint lehangolt kedvét és örömét meg akarta teremtani a kertben ismét. 
+
+Így keresték a rejtélyes holdfény nyomait Bálinttal együtt, szorgalmasan, és a fáradhatatlan kutyájukkal, Borisz segítségével.
+
+Először a szomszéd kertjébe néztek. Ott a holdfény pompázott. Felkérték a szomszédot a kedvességükért és egymás közti szeretetért. Beszélgettek arról, hogyan találhatnák meg a holdfényt ismét. A szomszédok jó szándékúan adtak hasznos tippet, mely segített  a rejtély felderítésében.
+
+A második feltételezés egy különleges növény, mely a csillagokat fogta be az égben és elrejtette azokat. Bálint és anyja ezt megfigyelték az ég alatt és a fákban. 
+
+Ezt az utat a következő lépések vezették: A csillagok az égben helyezkedtek el a csillagképekben, így a növények is követik az ég alakját. Mintha a fák mozognának,  minden egyes éjszakával. 
+
+Bálint felfedezte, hogy minden virág a kertjükben megmozdult, követve a nap, a hold és a csillagok járását.  Elképzelte, mintha minden virág kicsiny hold lenne, mely éjszakánként sziporkázna az égből.
+
+Így megtaláltuk a választ! A növényekben megtaláltuk a fényforrást.
+
+Az esti szürkületben, Bálint a hatalmas diófa alá ült. A fák levelei zizegtek, mint apró, varázsló hangszerek.  Meglepetésszerűen felfedezte, hogy a fák, és a növények ragyognak kicsiny fényforrásokkal éjszakánként.
+A kicsi fénysugarak szétszóródtak mindenfelé a kertben, és ez létrehozott egy újszerű holdfényt. Mindenfelé, észrevette az egyre nagyobb világító fénysugár.  Hirtelen az ég felett, a sötétségbe egy pompás és tiszta fény jelent meg: az eltűnt holdfény visszatért! 
+
+
+Szépen ragyogó, és lassan a színek megváltoztak a kertben és megtelt gyönyörű színes fényekkel.
+
+
+Boldogan a holdfénybe tekintve, Bálint megértette, hogy a fények nem a holdból jönnek. A szeretet, a barátság, a szorgalom és a  gondviselés mind-mind fények, amik életeredet adnak mindenkinek. És ezt meghaladva, még a növényekben is megtalálhatjuk ezt a ragyogó fénnyel teli holdfényt!
+</body>

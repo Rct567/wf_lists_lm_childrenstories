@@ -1,0 +1,37 @@
+<prompt>
+Please write a creative and original Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Malý ryt říř z české vesnice'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Malý rytíř z české vesnice</title>
+<body>
+Jindřich, malý chlapec s kudrnatými vlasy barvy slámy a očima jako modré jezírko, žil v české vesnici s názvem Šípková.  Vesnice byla plná starých, chudých domků, mezi nimiž se proplétaly úzké uličky, a voněly po čerstvě upečeném chlebu a divokých bylinkách. Jindřich, i když byl malý, byl statečný a plný snů.  Snilo se mu o velkých dobrodružstvích, o rytířských turnajích a o tom, že jednou zachrání království před zlým drakem.
+
+Jeho maminka, s jemnými prsty a úsměvem, který hovořil o nekonečné lásce, mu často vyprávěla pohádky o hrdinských rytířích a kouzelných princeznách. Jindřich si je pilně pamatoval a v duchu si představoval, jak se s mečem v ruce brání zlým čarodějnicím.
+
+Jednoho rána, když se slunce prohánělo zlatými paprsky přes šípkovou louku, se Jindřich probudil s novým plánem.  Rozhodl se, že se stane rytířem.  Samozřejmě, ne takovým, který má zbroji a koně, ale rytířem šípkové vesnice.  Jeho rytířský plášť byl starý, šedivý kabát, který mu babička ušila.  Jeho štít byl dřevěný talíř s vyrytou hvězdou.  Jeho meč? No, to byl obyčejný, zahnutý nůž na krájení chleba, zvěčněný na věky.
+
+Jindřich se vydal na svou první rytířskou misi.  Slyšel, že na kopci nad vesnicí se ztratil starý, potrhlý pes, jménem Štěpán.  Štěpán byl pro všechny v Šípkové milovaný mazlíček, a tak Jindřich, rytíř Šípkové, se vydal na cestu.
+
+Kopec byl strmý a plný kamenů.  Jindřich se ploužil nahoru, jeho malá nožičky se snažily udržet krok s neúnavnou silou kopce.  Srázl se s kozími houfami, překonal strmé sjezdy a proplétal se mezi houští.  Cesta ho naučila trpělivosti a odvaze.  
+
+Na vrcholku kopce se Jindřich ocitl v krásném, ale opuštěném lese.  Všude bylo ticho, přerušované jen zpěvem ptáků.  Pak uviděl Štěpána! Pes se snažil vydolovat starou kost z hlubokého jámy, ale nedařilo se mu to.  Jindřich se k němu šinul a s úsměvem mu pomohl.  Štěpán ho štěkal a lízal mu ruce vděčnosti.
+
+Jindřich se s Štěpánem vrátil dolů do vesnice, kde ho všichni zdravili a chválili.  Malý rytíř, s úsměvem a štěňatům podobným štěněcím štěkotem, byl pro Šípkovou hrdina.
+
+Od té doby se Jindřich stal rytířem v srdcích všech Šípkových obyvatel.  Nebojoval s draky ani s čarodějnicemi, ale bojoval s malými problémy, které den co den přicházely do vesnice.  Bojoval s prázdnými žaludky, s nespravedlností a s úzkostmi všech obyvatel.  Jeho štít byl vždy připraven, ať už s ním šel do lesa hledat divné bylinky, opravovat mosty nebo pomáhat starým lidem.
+
+Jednoho dne, když se Jindřich vracel z lesa, spatřil u potoka malou holčičku, která plakala, protože se jí ztratila hračka.  Jindřich, s úsměvem a srdcem plným soucitu, se ji zeptal na to, co se jí stalo.  Holčička mu vyprávěla o ztraceném medvídku.  Jindřich, rytíř Šípkové, se s ní vydal na dobrodružnou cestu.  Hledali spolu, a po mnoha hodinách, jež se zdály věky, se medvídku podařilo najít.  Holčička se smála radostí a objala Jindřicha.
+
+Malý rytíř byl hrdina v srdcích nejen všech Šípkových obyvatel, ale také v srdcích všech dětí v celé vesnici.  Nikdy nehledal slávu, ale spokojenost v srdcích jiných.  Jeho rytířství nebylo v okovech zlata a zbraní, ale v laskavosti, v dobrotě a v pomoci druhým. A to bylo nejdůležitější.  
+
+Jindřich žil šťastně v Šípkové, a jeho příběhy se předávaly z generace na generaci.  A když se večer schovávali v postelích, děti v Šípkové slyšely příběhy o malém rytíři, který se stal symbolem odvahy, dobroty a nesobeckosti, jenž žil v jejich srdcích a byl pro ně světlem v noci.
+</body>

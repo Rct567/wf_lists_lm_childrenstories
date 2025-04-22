@@ -1,0 +1,32 @@
+<prompt>
+Please write a uncomplicated Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Luonnon Lapset Ja Heidän Seikkailunsa'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>fi</lang_id>
+
+<title>Luonnon Lapset Ja Heidän Seikkailunsa</title>
+<body>
+Sylvi, pehmeä karvainen kettupoika, asui lumiseen metsään piilotetussa onkessa. Hänen äitinsä, Viivi, oli viisas ja varovainen, ja hänen isänsä, Urho, oli vahva ja nopea.  Sylvi oli nuori, mutta utelias. Hän halusi tietää, mitä kaikkea metsässä piilee.  Yksi aamu, kun auringon säteet värjäsivät lumimaiseman kullanvärisiksi, Sylvi lähti yksin seikkailulle.
+
+Ensimmäiseksi Sylvi törmäsi linnunpönttöön, josta kuului utelias piippauksen.  Pöntössä asui pieni sinisorsa, jolla oli keltainen nokka ja tumma häntä. "Hei!", huudahti Sylvi.  Sinisorsa hämähti ja kääntyi hännällään toisen suunnan. "Onko täällä mukava?", kysyi Sylvi. Sinisorsa kurkisti Sylvissä.  "Mutta...en ymmärrä sua." Se sanoi surullista ääntä.  "Ymmärrätkö sua?" kysyi Sylvi. "Ymmärrän. En vain ymmärrä, mikä tämä metsä on." Vastaus jännitti Sylvissä uuden ajatuksen, kun hän huudahti, "Tämä on minun metsäni, mutta sinä olet yksi sen osa".
+
+Seuraavaksi Sylvi kohtaa poron, jonka hirvennaama oli hieman karhea. Poron nimi oli Tupu. Se oli vanha porokoira, jonka villa oli harmaa, kuten vanha kivinen vuori.  "Hyvää päivää!", sanoi Sylvi.  Tupu viipyi Sylvin vieressä.  Tupu oli syömässä luontomakua.  "Missä on parasta ravintoa?" kysyi Sylvi. Tupu katsoi Sylvissä syvällisesti, ja sanoi: "Sinä näytät uteliaalta ja luotaavalta, missä minä nautin ruokastani". "Mitä on sinun ruokakulttuurissasi?" Kysyi Sylvi.  "Minä pidän erinomaisesta lehdestä." Poron silmät loistivat.  "Lehdestä?", kysyi Sylvi. "Oletko aina nämä vaivaa?  Kuule," poron lehti nauroi ja sanoi. "Onpa mahtava paikka saada ruokaa! Se näyttää meiltä paremmalta, kun on niin lähellä!"
+
+
+Sylvi jatkoyksi uutta seikkailua.  Polun varrella kasvoi valtavia ja outoja kasveja, niiden varret loistivat monin värein. Yhdestä kukasta nousi ylös pieni, kiharapartainen kuoriainen. Se oli kirkkaanpunainen ja kauniin kiillon ja tuoksujen kanssa. "Moi!", sanoi Sylvi. "Miten sinä pysyt siellä?" kysyi Sylvi. Kuoriainen hyrrähti iloisesti, kuin onnelliset ääninäyte ja sanoi: "Olen täällä onnellinen, se antaa minulle voimaa ja luontaisia ​​lahjoja." "Tyyppi, niin mukava! Olen Sylvi ja olen metsän lapsi!" Kysyi Sylvi iloisesti. "Ilolla tapaat, minä olen Kirppu."
+
+Sylvi, Kirppu, sinisorsa ja Tupu jatkoivat yhdessä matkaansa, yhä enemmän löytöjä ja utelias seikkailun loisteita. Sylvi oppi, että metsässä ei ollut vain peikkoja ja vaarallisia eläimiä, vaan myös kauniita ja ystävällisiä olentoja.  Hän ymmärsi, kuinka kaikki luonnon elementit ovat keskenään sidoksissa ja yhteydessä.  He kaikki pitivät luonnostaan ​​lähentyessään kaikkia toisiaan ja yhteistyötä seikkailussaan.
+
+Palatessaan Sylvi löysi kotikonnut ja isänsä, ja nautti maukkaasta ruoasta äitinsä kanssa, oli lämmin tunteellaan seikkailuun.  Tuntui kuin kaikki eläimet ympärillä oli mukana seikkailuun ja tunsivat sen samalla lailla kuin itsekin.  Sylvi jatkoi monien eläinten tapaamista tulevaisuudessa ja oppi arvostamaan metsän monimuotoisuutta ja yhteyksiä.  Hänen matkansa oli vain yksi pieni osake luonnon laajasta seikkailusta ja tutkimuksesta, jota metsän sisällä tapahtuu.
+
+
+Hän oli metsän lapsi, yhtä osa luonnon kiehtovaa iloa, kuten kaikki metsässä eläimet.
+
+</body>

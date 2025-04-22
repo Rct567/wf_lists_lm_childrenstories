@@ -1,0 +1,50 @@
+<prompt>
+Please write a funny Danish children's story that is at least 1000 words long.
+It must be completely written in proper Danish (DA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Katten og musen der blev bedste venner for evigt og altid.'.
+</prompt>
+
+<model>meta-llama/llama-4-maverick:free</model>
+
+<lang_id>da</lang_id>
+
+<title>Katten og musen der blev bedste venner for evigt og altid.</title><body>I den lille by Ærtholm, hvor huse var små og haverne var store, boede en kat og en mus, der skulle komme til at dele en af de mest usædvanlige venskaber i hele Danmark. Katten hed Max, og han var en flot, sort kat med en skinnende pels og øjne så grønne som havet på en klar sommerdag. Musen hed Mikkel, og han var lille og brun med en hale, der var længere end hans krop.
+
+Max og Mikkel boede i samme kvarter, men de havde aldrig rigtig mødt hinanden før den dag, hvor deres liv skulle ændres for altid. Max var på jagt efter en musefrokost i fru Jensens køkken, hvor der duftede dejligt af nybagt rugbrød. Mikkel var på vej ud for at hente en ost til sin mors fødselsdag.
+
+Da Max fik øje på Mikkel, var han lige ved at få et chok. Han havde aldrig set en mus så tæt på før, og han var ikke helt sikker på, hvad han skulle gøre. Mikkel var lige så overrasket og begyndte straks at løbe væk. Men Max var for hurtig, og han fangede Mikkel i en lille, hyggelig krog under køkkenbordet.
+
+I stedet for at spise Mikkel, så Max på ham og sagde: "Du er ikke særlig god til at løbe væk, hva'?" Mikkel stod stille og stirrede på Max med sine små, runde øjne og sagde: "Nej, jeg var distraheret af den dejlige duft af rugbrød." Max lo og sagde: "Ja, fru Jensen er en god kok. Vil du med ud og se, om vi kan finde noget til dig at tage med til din mor?"
+
+Mikkel tøvede lidt, men så nikkede han. Max satte Mikkel på sin ryg, og sammen gik de ud i køkkenet. Max viste Mikkel, hvor ostestykkerne lå, og de valgte sammen en lækker ost til Mikkels mor.
+
+På vej tilbage til Mikkels lille hule under jorden, fortalte Max Mikkel, at han ikke havde lyst til at være en jæger mere. Mikkel spurgte ham, hvorfor ikke, og Max svarede: "Fordi jeg gerne vil have en ven, og jeg synes, du ville være en perfekt ven." Mikkel smilede og sagde: "Jeg synes også, du ville være en god ven. Men mine venner siger, at katte er farlige."
+
+Max tænkte lidt og sagde så: "Ja, jeg kan godt forstå det. Men jeg lover dig, at jeg ikke vil gøre dig noget. Jeg vil bare være din ven." Mikkel så på Max og mente, at han så ærlig ud, så han sagde ja.
+
+Fra den dag af blev Max og Mikkel bedste venner. De brugte deres dage på at udforske Ærtholm, gå på eventyr og hjælpe hinanden. Max viste Mikkel, hvordan man kunne jage sommerfugle uden at fange dem, og Mikkel lærte Max, hvordan man kunne finde de bedste hindbær i haven.
+
+En dag, da de var på vej gennem byen, mødte de en gammel kone, der sad på en bænk og græd. Hun fortalte dem, at hun havde mistet sin kattet, Luna, som havde været væk i flere dage. Max og Mikkel så på hinanden og besluttede sig for at hjælpe hende med at finde Luna.
+
+De ledte overalt – i haverne, under buskene og selv i det gamle, forladte hus på bakken. Til sidst fandt de Luna i en lille kiste i det gamle hus. Hun var låst inde, men Max brugte sine skarpe kløer til at åbne låsen.
+
+Den gamle kone var overvældet af taknemmelighed og gav Max og Mikkel en stor kasse med lækkerier som tak. På vej hjem diskuterede Max og Mikkel, hvad de skulle gøre med belønningen. Max foreslog, at de skulle dele det ligeligt mellem dem, men Mikkel havde en bedre ide.
+
+"Vi skal holde en fest for hele byen!" udbrød han. "Vi kan invitere alle vores venner og have masser af mad og drikke." Max syntes, det var en strålende ide, og sammen gik de i gang med at planlægge den største fest, Ærtholm nogensinde havde set.
+
+De tilbragte flere dage med at gøre klar – de lavede plakater, sendte invitationer ud og forberedte masser af lækker mad. Endelig var dagen kommet, og byen var fyldt med stemning. Der var flag på alle huse, og bordene bugnede af mad.
+
+Festen var en stor succes. Alle var samlet på byens torv, og der var musik, dans og latter. Max og Mikkel holdt hver deres tale – Max takkede for hjælpen fra alle borgerne i Ærtholm, og Mikkel takkede for, at de havde været så gode venner.
+
+Efter festen havde Max og Mikkel fået så meget opmærksomhed, at de blev kendt som byens to store venner. Folk i Ærtholm fortalte hinanden historien om katten og musen, der blev bedste venner, og hvordan de sammen havde hjulpet den gamle kone.
+
+Årene gik, og Max og Mikkel blev ved med at være tætte venner. De fik flere og flere eventyr sammen, og deres venskab blev stærkere og stærkere. Engang, da de sad på en bænk og så solen gå ned, sagde Max til Mikkel: "Du ved, jeg er glad for, at vi mødte hinanden den dag."
+
+Mikkel nikkede ivrigt og svarede: "Ja, jeg er også glad. Jeg ville ikke have haft det nær så sjovt uden dig." Max smilede og tilføjede: "Og jeg ville ikke have haft så mange gode oplevelser uden dig."
+
+Sådan blev Max og Mikkel ved med at være de bedste venner, og deres historie fortsatte med at blive fortalt og genfortalt i Ærtholm i generationer fremover.
+
+Menneskene i Ærtholm så op til Max og Mikkel som et eksempel på, at selv to af de mest forskellige væsner kunne blive nære venner, hvis de bare havde modet til at se ud over deres forskelligheder. Og Max og Mikkel levede lykkeligt til deres dages ende, som de bedste venner for evigt og altid.</body>

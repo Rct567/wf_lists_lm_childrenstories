@@ -1,0 +1,45 @@
+<prompt>
+Please write a fun and entertaining Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Az orvos, aki meggyógyította a betegeket a kórházban.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>hu</lang_id>
+
+```html
+<title>Az orvos, aki meggyógyította a betegeket a kórházban.</title>
+<body>
+Egyszer volt, hol nem volt, volt egyszer egy hatalmas, vidám kórház. Ez a kórház a Vidám Völgy szívében helyezkedett el, egy csendes, zöld domb tetején, ahonnan pompás kilátás nyílt az egész völgyre. Ebben a kórházban dolgozott Dr. Mosolyka, egy olyan orvos, akinek a neve nem véletlenül volt Mosolyka. Az ő mosolya a legbetegebbek szívét is megnyugtatta, és minden reggel vidámságot hozott a kórház folyosóira.
+
+Dr. Mosolyka szerette a munkáját, de egy kicsit furcsa módszerei voltak. Ő nem csak gyógyszereket adott, hanem sokat beszélgetett a betegekkel, meséket mesélt nekik, és minden reggel dalra fakadt, amint betette a lábát a kórház ajtaján. Persze, a gyógyszerek is fontosak voltak, de Dr. Mosolyka úgy gondolta, a vidámság a legjobb orvosság.
+
+A kórházban sokféle beteg feküdt. Volt egy kislány, Zsófi, aki annyira sírt, hogy még a macskája, Mici, is vigasztalta. Zsófinak fájt a hasa, és egyetlen vágya volt: a játék. Aztán volt Pista bácsi, a szomszéd hentes, akinek nagyon fájt a térde, és legszívesebben a kedvenc kolbászait vitte volna magával a kórházba, ha lehetett volna. De a legkülönlegesebb beteg egy beszélő mókus, Csibi volt, aki egy fán lakott a kórház kertjében, és a fáradhatatlan módon szurkálta Dr. Mosolykát, amiért kicsit kövér.
+
+Egy szép napon, Dr. Mosolyka bement a kórházba, ahogy mindig, mosolyogva és énekelve. "Jó reggelt, jó reggelt, Vidám Völgy betegei! Ma minden rendben lesz, mint a karikacsont!" – dalolta, és megvakarta a szakállát, amint a folyosón sétált. Zsófi a szobájában gubbasztott, Mici mellett, aki a feje alá nyomta a mancsát, hogy ne lássa Zsófi szomorú arcát.
+
+Dr. Mosolyka belépett a szobába, és ahogy meglátta a kis Zsófit, azonnal felragyogott. "Na, Zsófika, mi a baj? Hol fáj?" – kérdezte kedvesen, és leült az ágy szélére. Zsófi csak annyit suttogott: "Fáj a hasam."
+
+"Akkor mesélek neked egy mesét! Volt egyszer egy kisfiú, aki mindig a legfinomabb csokoládét akarta megenni, ami a világon kapható volt, de végül a hasa fájt tőle, mert nem akarta betartani a szabályt, hogy megálljon. És te most biztos nem vagy ilyen, igaz?" - kérdezte, miközben megsimogatta Zsófi haját. Zsófi bólintott, és hirtelen elmosolyodott. Dr. Mosolyka meséje mindig megnevettette. Aztán egy kicsit masszírozta a hasát, és adott neki egy finom, gyógynövényekből készült teát. Nem telt bele sok idő, és Zsófi mosolyogva felült.
+
+Pista bácsi, a szomszéd hentes szobájába is benézett. "Pista bácsi, mi újság? Nem aggódunk, ma kicsit könnyebben fogunk sétálni!" – mondta Dr. Mosolyka vidáman. Pista bácsi panaszkodott a fájó térdére. Dr. Mosolyka elmesélte neki egy oroszlán történetét, akinek a lábában apró szálka volt, és a királylány türelemmel kiszedte. Közben bekente a térdét egy balzsammal, majd javasolta a könnyű tornát, és egy kis pihenést a délután. Pista bácsi hirtelen nem is érezte annyira a fájdalmát.
+
+A mókus, Csibi pedig a fáron ült a kertben, és Dr. Mosolykára szólt. "Na, doktor úr, ma is eszel a kelkáposztából, vagy most is a nagy, csokoládés tortán fogsz tobzódni?" Dr. Mosolyka felkuncogott. "Ne szurkálj, Csibi! Tudod, hogy imádom a salátát, és majd elmesélek egy történetet a szép gesztenyékről, ahogy megsütöttek a sütőben!" Dr. Mosolyka leült a fa tövébe, és elkezdte mesélni Csibinek a kalandokról, amiket a gesztenyék átéltek. Csibi figyelmesen hallgatta, közben pedig egy kicsit irigykedve nézte a dr. Mosolyka szakállát.
+
+A nap folyamán Dr. Mosolyka mindenkit meglátogatott. Vicces történeteket mesélt, megmutatta a nagyméretű orvosi könyveit (aminek a vastagsága meghaladta Pista bácsi hasának szélességét), sőt a szobákba festett, színes rajzokat is bemutatta. A kórház egyre vidámabb lett, a betegek mosolyogtak, és a fájdalom kezdett eltűnni.
+
+Zsófi elkezdett játszani a macskájával. Pista bácsi már tudott sétálni a folyosón. Csibi pedig sokat nevetett a vicces történeteken. Aznap este, a naplementében Dr. Mosolyka énekelve búcsúzott el a betegektől. "Aludjatok szépen, jó éjt! A gyógyulás útján már el is indultatok!"
+
+És valóban. A következő napokban a betegek egyre jobban lettek. Zsófi a barátaival játszott, Pista bácsi visszament a hentesüzletébe, a mókus pedig megtanult viccelődni, de sosem sértően Dr. Mosolykával.
+
+A kórház, a Vidám Völgy kórháza, tele volt vidámsággal és gyógyulással. A legjobb orvos, Dr. Mosolyka, nemcsak a testeket, hanem a lelkeket is meggyógyította. Sokat beszélt a szívnek, hogy soha ne veszítsék el a derűt, és egy kis mosollyal a fájdalmat is leküzdjék.
+
+Dr. Mosolyka rájött, hogy a legfontosabb orvosság nem csak a gyógyszer, hanem a szeretet, a vidámság és a jókedv. A Vidám Völgy lakói hálásak voltak neki.
+
+És így telt el nap, mint nap a vidám kórházban, ahol mindenki boldog volt. Ha valaki mégis betegen került oda, akkor nem sok idő múlva ismét vidáman távozott. Mert ott volt Dr. Mosolyka, a vidám orvos, aki mindenkinek megmutatta, hogy a mosoly mindig a legjobb orvosság.
+</body>
+```

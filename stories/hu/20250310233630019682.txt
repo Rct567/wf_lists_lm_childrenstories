@@ -1,0 +1,41 @@
+<prompt>
+Please write a simple and easy-to-follow Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A drágakő folyó és az aranyhalak tánca'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>hu</lang_id>
+
+<title>A drágakő folyó és az aranyhalak tánca</title>
+<body>Aznap, amikor a nap felkelt a hegyek mögött, egy kis lány, Luca, felébredt a szobájában. Kinyitotta az ablakot, és mélyen beszívta a friss levegőt. A szellő finom illatot hozott, amely a közeli erdőből jött. Luca szerette az erdőt, mert tele volt titkokkal és csodákkal.
+
+Luca gyorsan felöltözött, és lement a konyhába, ahol az anyja már reggelit készített. Az asztalon finom péksütemények és gyümölcsök voltak. Luca leült, és az anyja megkérdezte, mit szeretne csinálni aznap. Luca gondolkodott egy pillanatig, majd azt mondta, hogy szeretne sétálni az erdőben.
+
+Az anyja bólintott, és adott Lucának egy kis kosarat, amelyben szendvics, gyümölcs és egy palack víz volt. Luca elindult az erdőbe, és hamarosan elérte a folyót, amelynek partján szép virágok és fű nőtt. A folyóban aranyhalak úszkáltak, és Luca szerette őket nézni.
+
+Ahogy sétált a folyóparton, Luca észrevett egy szép drágakövet, amely a fűben feküdt. Felvette a követ, és megnézte. A kő szép színű volt, és Luca úgy gondolta, hogy ez a kő valami különlegeset jelent. Hirtelen hallotta, hogy a folyóban valami mozog. Odanézett, és látta, hogy az aranyhalak táncolni kezdtek.
+
+A halak körbe-körbe úszkáltak, és Luca látta, hogy mindegyik halon egy-egy kis drágakő van. A halak táncoltak, és a drágakövek csillogtak a napfényben. Luca csodálkozott, és nem értette, mi történik. Ekkor egy hang szólt hozzá, és azt mondta, hogy a drágakövek varázserőt tartalmaznak.
+
+A hang elmondta Lucának, hogy a folyóban élő aranyhalak őrzik a drágaköveket, és ha valaki megtalálja az egyik követ, akkor részt vehet a halak táncában. Luca nem hitte el, de a hang megismételte, hogy ez igaz. Luca úgy gondolta, hogy ez egy szép álom, de a hang azt mondta, hogy ez a valóság.
+
+Luca megfogta a drágakövet, és a halak odúszkáltak hozzá. A halak körbevették Lucát, és elkezdték tanítani a táncot. Luca megtanulta a táncot, és hamarosan ő is táncolt a halakkal. A drágakövek csillogtak, és a folyóban varázslatos hangok hallatszottak.
+
+Ahogy a nap lemúlt, Luca visszament a házba, és elmesélte az anyjának, mi történt. Az anyja mosolygott, és azt mondta, hogy ő is hallott a drágakövekről és az aranyhalak táncáról. Luca kérdezte, hogy miért nem mondta el neki korábban, de az anyja azt válaszolta, hogy Lucának magának kellett megtalálnia a drágakövet és részt vennie a táncban.
+
+Másnap Luca visszament a folyóhoz, és látta, hogy a halak újra táncolnak. Ő is csatlakozott hozzájuk, és együtt táncoltak a naplementéig. Ahogy a napok teltek, Luca mindennap visszament a folyóhoz, és táncolt az aranyhalakkal. A drágakövek varázserőt adtak neki, és Luca érezte, hogy egyre erősebb és boldogabb lesz.
+
+Egy napon, amikor Luca a folyóparton sétált, észrevett egy öregembert, aki a fűben ült. Az öregember nézte Lucát, és mosolygott. Luca odament hozzá, és kérdezte, hogy mit csinál ott. Az öregember elmondta, hogy ő a folyó őre, és azért jött, hogy megköszönje Lucának, hogy részt vett az aranyhalak táncában.
+
+Az öregember elmondta, hogy a folyóban élő halak és a drágakövek együtt tartják fenn a természet egyensúlyát, és Luca részvétele a táncban segített abban, hogy a természet továbbra is szép és egészséges maradjon. Luca boldog volt, és megköszönte az öregembernek, hogy elmondta neki a titkot.
+
+Aznap este, amikor Luca hazaért, elmesélte az anyjának, hogy mit mondott az öregember. Az anyja bólintott, és azt mondta, hogy ő is tudta, hogy a folyó és a drágakövek fontosak a természet számára. Luca kérdezte, hogy mi lesz, ha ő nem lesz ott, hogy részt vegyen a táncban, de az anyja azt válaszolta, hogy a természet mindig talál majd valakit, aki segít abban, hogy az egyensúly fennmaradjon.
+
+Luca továbbra is részt vett az aranyhalak táncában, és a drágakövek varázserőt adtak neki. Ahogy a hónapok teltek, Luca érezte, hogy egyre erősebb és boldogabb lesz. A folyó és a drágakövek titkait megosztotta az anyjával és a barátaival, és mindannyian csodálták a természet szépségét és varázsát.
+
+És így Luca tovább élt, és mindennap részt vett az aranyhalak táncában, hogy segítsen abban, hogy a természet továbbra is szép és egészséges maradjon. A drágakövek varázserőt adtak neki, és Luca boldog volt, mert tudta, hogy ő is része a természet csodáinak.</body>

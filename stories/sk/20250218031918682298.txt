@@ -1,0 +1,99 @@
+<prompt>
+Please write a creative and original Slovak children's story that is at least 1000 words long.
+It must be completely written in proper Slovak (SK).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Ako sa stratila hviezda a pomohli ju nájsť zvedavé deti z dediny.'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>sk</lang_id>
+
+```xml
+<title>Ako sa stratila hviezda a pomohli ju nájsť zvedavé deti z dediny.</title>
+<body>
+Bolo to v malej, pokojnej dedinke, schovanej v objatí zelených kopcov Slovenska, kde žili deti plné zvedavosti a dobrodružstva. Volali sa Zuzka, Maťko a Anička. Zuzka mala oči ako dve iskričky a vlasy, ktoré pripomínali zlaté slnko. Maťko bol silný ako medveď a jeho smiech znel ako zvonenie kostolných zvonov. Anička, najmladšia z nich, mala kučeravé vlasy a vždy so sebou nosila malého plyšového medvedíka.
+
+Jednej noci, keď sa deti hrali na záhrade, si všimli niečo zvláštne. Obloha, ktorá bývala posiata tisíckami hviezd, bola akási prázdna. Chýbala jedna. Veľká, žiariaca hviezda, ktorú deti volali "Majka", pretože sa vždy objavovala ako prvá, keď sa stmievalo.
+
+"Kde je Majka?" spýtala sa Zuzka so strachom v hlase.
+
+Maťko sa zamračil. "Neviem. Ale niečo sa muselo stať."
+
+Anička sa prikulila k svojmu medvedíkovi a podišla bližšie k starému, hrubému dubu, ktorý stál na kraji záhrady. "Možno spadla," šepkala.
+
+Deti sa rozhodli, že hľadajú Majku. Obliekli si bundy, zobrali baterky a vydali sa na cestu. Ich prvé kroky viedli k miestnemu potôčiku, ktorý sa kľukato vinul cez dedinu.
+
+"Majka by sa mohla stratiť v potoku," povedal Maťko. Pešo prešli celý potôčik, ale hviezdu nenašli.
+
+Potom sa vybrali do lesa, ktorý sa rozprestieral za dedinou. Stromy boli vysoké a tmavé, ale deti sa nebáli. Zuzka svietila baterkou a Maťko dával pozor na všetko nebezpečné. Anička držala medvedíka silno v ruke a sem-tam si povzdychla.
+
+Prešli popri huňatých smrekoch, popri čarovných bukoch a dokonca aj popri tajomných hraboch. Volali Majku, ale nikto im neodpovedal. Len sovy húkali a vietor šuchotal v konároch.
+
+Naraz, keď už boli unavení a sklamaní, si Zuzka všimla niečo zvláštne. Na zemi, pod jedným zo stromov, ležalo niečo trblietavé. Keď sa priblížili, zistili, že to boli malé, strieborné pierka.
+
+"To musia byť pierka anjela," zamrmlala Anička.
+
+Maťko sa pozrel na pierka s údivom. "Možno Majka spadla a anjel ju zobral."
+
+Deti sa rozhodli nasledovať cestu, ktorú naznačovali pierka. Pierka ich viedli ďalej do lesa, až k malej, opustenej chatke. Dvere boli pootvorené.
+
+"Vlezme dovnútra," navrhla Zuzka s odhodlaním.
+
+Maťko prikývol a Anička sa pevne chytila svojho medvedíka. Keď vošli do chatky, zistili, že je plná rôznych nástrojov a zvláštnych vecí. Na stole ležala kniha s obrázkami hviezd a planét. V rohu stála stará, drevená truhlica.
+
+"Pozrite!" zvolala Zuzka. "Tu je mapa hviezdnej oblohy!"
+
+Deti si mapu pozorne prezreli. Zistili, že chatka musela patriť starému astronómovi, ktorý študoval hviezdy. Na mape chýbala len jedna hviezda – Majka!
+
+"Možno tu nájdeme nejaké stopy," povedal Maťko.
+
+Začali prehľadávať chatku. Zuzka hľadala v knihách, Maťko skúmal nástroje a Anička sa pozrela do truhlice. V truhlici našla starý list. Bol napísaný rukou astronóma a hovoril o zvláštnej hviezde, ktorá mala schopnosť cestovať medzi svetmi.
+
+"Čítajte!" požiadala Anička.
+
+Zuzka prečítala list: "Majka, hviezda svetla, má schopnosť navštevovať iné svety. Musí sa vrátiť do správnej polohy, aby udržala rovnováhu vesmíru. Ak zmizne, nastane tma."
+
+Deti si uvedomili, že Majka nepadla, ale odcestovala do iného sveta!
+
+"Ale ako ju dostaneme späť?" spýtala sa Anička, zúfalo.
+
+V tom okamihu si Maťko všimol na stole malý, strieborný kľúč. "Pozrite! Použijeme tento kľúč!"
+
+Maťko vložil kľúč do malej, striebornej skrinky, ktorá stála vedľa stola. Keď ju otvoril, objavil sa v nej malý, trblietavý portál.
+
+"Tadiaľto!" zvolala Zuzka.
+
+Deti sa odvážne rozhodli prejsť portálom. Keď vstúpili, ocitli sa v inom svete. Bol to svet plný farieb a zvláštnych tvorov. Stretli lietajúce ryby, rozprávajúce stromy a dokonca aj usmievajúcich sa kamene.
+
+Nakoniec, po dlhom hľadaní, uvideli Majku. Bola uväznená v klietke z kryštálov, obklopená tmavými tieňmi.
+
+"Majka!" zvolala Zuzka.
+
+Tieň, ktorý stál pri klietke, sa zasmial. "Aké smiešne deti. Chcete ju zachrániť?"
+
+"Áno!" odpovedali deti jednomyseľne.
+
+Maťko sa postavil pred tieň a povedal: "Musíme ju vrátiť domov. Patrí na oblohu."
+
+Tieň sa zasmial ešte hlasnejšie. "Nikdy! Majka mi dáva moc. Bez nej by som bol nič."
+
+Zuzka si spomenula na list astronóma. "Majka musí byť vo svojej pôvodnej polohe, aby udržala rovnováhu."
+
+Anička, so slzami v očiach, si spomenula na svojho medvedíka. "Poďme, medvedík. Spolu to zvládneme." A začala spievať uspávanku, ktorú jej mamka spievala každý večer pred spaním.
+
+Keď Anička spievala, tieň začal slabnúť. Svetlo Majky začalo žiariť silnejšie. Zrazu, ako mávnutím čarovného prútika, sa klietka rozpadla a Majka sa vzniesla do vzduchu.
+
+Tieň zmizol.
+
+"Ďakujeme vám, deti," povedala Majka. "Zachránili ste ma."
+
+Deti sa objali a boli veľmi šťastné.
+
+Majka ich vzala späť do portálu a vrátili sa do chatky. Keď vyšli z chatky, už sa rozvidnievalo. Všetci sa pozreli na oblohu. A tam, nad dedinou, žiarila Majka, jasnejšia ako kedykoľvek predtým.
+
+Deti sa vrátili domov, unavení, ale spokojní. Vedeli, že urobili niečo úžasné. Odvtedy boli deti ešte bližšie a ich dobrodružstvá sa nikdy neskončili. Každý večer, keď sa pozerali na hviezdy, si pripomínali, ako zachránili Majku a ako ich zvedavosť, odvaha a priateľstvo im pomohli prekonať všetky prekážky. A vedeli, že aj tá najmenšia hviezda, ako je Aničkin plyšový medvedík, môže urobiť veľký rozdiel.
+</body>
+```

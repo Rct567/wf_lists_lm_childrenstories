@@ -1,0 +1,54 @@
+<prompt>
+Please write a silly Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Tuhkimo- ja käärmetytön kummitusjuhlat'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>fi</lang_id>
+
+<title>Tuhkimo- ja käärmetytön kummitusjuhlat</title>
+<body>
+
+Kerran kauan sitten, hämäläisen metsän reunalla, pienessä, punaiseksi maalatussa mökissä, asuivat Tuhkimo ja Käärmetyttö.  Tuhkimo oli kaunis ja hyväsydäminen, vaikka hänen äitinsä olikin kova ja ahne. Käärmetyttö oli sen sijaan vihreä, hohtavista suomista loistava, ja hänellä oli hieno ja mutainen pallo, josta sutaisti aivan ihania käärmeherkkuja.
+
+He olivat molemmat kuulleet kuuluisasta kummitusjuhlista, jotka pidettiin hämärässä metsän syvemmällä. Juhliin oli kutsuttu kaikki eläimet, hyönteiset ja jopa pienet, huonot hiiret. Juhlat olivat kuulemma yhtä mahtavia kuin punaisen omenan maku ja paljon upeampia kuin käärmeherkkupallo.
+
+"Minä haluan sinne!" huudahti Tuhkimo. Hän raapusi kippurassa olevaa tukkaansa.
+
+"Tottakai, minäkin!", murisi Käärmetyttö,  suomeltasansa leimahtaen ja liukuen mökin lattian läpi.
+
+"Muttet pääse ilman kutsua,  ja se saadaan vain auringonlaskun jälkeen." sanoi äiti, jonka suussa oli täynnä pahaa lihalautaa ja vihreää porkkanaa.
+
+Kun aurinko laski, ja hämärästi syttyivät punaisen metsän syövereissä valtavat liekit, Tuhkimo ja Käärmetyttö ryhtyivät matkalle. Metsän tie oli vaikea, ja siinä piiloutuivat ahtaat muurahaishaukat, hirviöt joista oli vain hajanaisia  iluilua sekä hurja peto.
+
+Tuhkimo, jonka saappaat olivat yhtäkkiä olleet kaksikin numeroa suurempia, kompasti toistuvasti ja yrittää välttää suot ja loimulohkeita, samoin Käärmetyttö, joka joutui jatkuvasti sopeutumaan juhlallisten kutsunsa salaperäiselle ja täysin tarpeettomille, muttei mikään erityinen.
+
+Loppujen lopuksi, juuri kun hämärän siivet levittivät varjostaan pimeitä metsiä, he löysivät juhlat.  Se oli ihanampi kuin kukaan oli voinut kuvitella!
+
+Kimalteleva koivikko muodosti tanssilavaa, jossa kummitteli  kotiäidit.  Perhoset valaistukoina.  Kulloisissa kukinnoissa tanssivat pienet hiiret, laulujen säestäminä. Käärmeet kiipesivät tansseissa samoiluuden kyynelmäisen vihreäksi puusta, ja he kaikki oli yllättäen aivan ihania ja sulavia ja kaikkien ystävystyksen ikuinen toivon symboli.
+
+Kaikkien juhlinnassa oli mukana jotain, mistä se kaikki yllätti: auringon aamutaivas paloi punertavaksi, jotain ihanan herkullisen näköistä.
+
+"Moi, Tuhkimo ja Käärmetyttö!", kuului iloinen ääni.
+
+Se oli Metsän kuningatar, aivan yhtä loistava kuin hänen vaatteensa.
+
+"Olette kyllä katsomisen arvoisia, ihmeelliset ihmiset," sanoi kuningatar, suustaan suhistaen hämähäkinverkkoidolla.
+
+Kuningatar esitti Tuhkimolle upean ja maagisen suolaisen leivän ja Käärmetytölle herkullisen sienimönjämökin.
+
+"Tänä päivänä kaikki ovat kauniita!", iloitsi Tuhkimo, syödessään. "Ne ihanat!" kuiskautti Käärmetyttö.
+
+He tanssittivat yönsä yötä myöten, heidän jalat hyppivät vauhdilla, heidän hymynsä loistoi taivaan taivaalla kuin tähtijoukko ja syleilyä kuin yötä. Auringonnousu totesi jo ystävyydestä ja lohdutuksesta, eikä tällainen yö ollut niin pahaa, ja he tunsivat syviä ystävyyksiä.
+
+Pian aamu alkoi hautautua ja ihmeet hälvenivät. Tuhkimo ja Käärmetyttö tekivät tietonsa etäisyydestä ja hurjasta tarinasta.  Käärmet alkoivat leikittää käyränä kuollun metsän pohjalla ja hämähäkit sulkeutuivat tyytyväisinä pitkiin etäisyyksiin.  Pääsemästä ei tarvitsekaan olla kiireisiä, he nauroivat syventymässä yhä enemmän, kuin että oli todella hauskaa elää ja nähdä kaikki upeat seikat, jotka tässä elämän iloissa tarjoavat niin paljon kaunis onnellisia ja loistavia juhlan seikkailuja!
+
+Kun Tuhkimo ja Käärmetyttö saapuivat takaisin mökkiinsä, ne olivat  yhtä kauniita, kuin silloin kun he oli löytäneet kummitusjuhlat.
+
+He olivat oppineet, että vaikka omat kotimme on upeita ja täynnä lämpöä, niin  maagisia, outoja ja upeita juttuja voi löytyä metsän hämärästä, vaikka ne kaikki voivat jo tuoda mukanaan sen ja paljon muuta ihmeellistä ja erinomaista ja paljon, paljon enemmän loistoa. Ja ehkä, aivan ehkä, he tapasivat toisiaan juhlapäivän kummitusjuhlia toistamiseen ja aina.
+</body>

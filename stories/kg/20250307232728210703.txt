@@ -1,0 +1,37 @@
+<prompt>
+Please write a timeless Kongo children's story that is at least 1000 words long.
+It must be completely written in proper Kongo (KG).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>kg</lang_id>
+
+<title>Nkinzi ya Nene, ye nkaka ya Mbote</title><body>
+Nkinzi ya nene, ye nkaka ya mbote, ikele na mvula mingi.  Mbuta ya bambuta, na mpila yonso ya kuvutula ntete.  Nkaka yina kele, na mutindu yonso ya mpenza, nkaka ya kinsantu.  Na kinsoko ya mboka ya Mfulu, na nti ya mbele, mpi na kielo ya ngonda, yandi ke tula nzila ya mfunu sambu na kuvanda ngolo.
+
+Muana ya keti mwana mosi, mfumu, na zina ya Makasi, vandaka na kinsoko yina.  Mbuta yonso na Mfulu zabaka Makasi.  Ya nkaka ya nson ya bana ya mvimba vandaka na yandi, ye mpila ya kuvanda ngolo, ya kukuka na ngolo, yina yandi waka na yina yandi mono. 
+
+Kansi, Makasi vandaka mwana ya mpongi ya mawete. Yandi vandaka kufunga nzo mpi kudi-kulula na mawa, na kisalu mingi ya nkaka. Yandi ke monaka bana ya nkaka ya nkinzi, ya nene, ya ke tula nzila ya ngolo na mikanda na yo, ye yandi kezolaka kuvanda bonso bo, kansi nsoni yina vandaka mbindo sambu na yandi.
+
+Mosi ya bilumbu, nkaka ya Mbote kutwadisa nkinzi na yina ya na mvula. Yandi kukota na kinsoko ya Mfulu, na mpila ya mawa ya kuzabisa konso muntu.  Nkinzi ya nene, ntu ya nti yonso ya mbuta, yina kesadilaka luzingu, yina yantikaka kutambula na nsi ya nti ya mbele. Yandi songaka, "Bana ya Mfulu, bubu yai beto ta tunga kimvuka mosi ya nene ya mawete. Ya mbote ya mutindu yonso ta vanda yina na beto."
+
+Bana ya Mfulu kukutuvika, kubonga na mbalu. Makasi mpi ke tula kisika sambu na yandi, kansi yandi vandaka ti bantiti na yandi mosi. Yandi zolaka mpi, yandi vandaka na mpasi sambu na yandi mpongi, ti kikese ya ngolo.
+
+Ntangu ya mpongi, Nkaka ya Mbote ya kuwuka, kubonga sambu na kubenda bana, yo vukaka, kansi mwana ya mvula na yandi. Yandi yantikaka kusongisa yandi mpila ya kulonga luzingu, kukunga ndinga na yandi mpi, ya kuyeba muntu.  Makasi yulaka, "Inki beto ta sala sambu na kuvanda mbala mosi?"
+
+Nkaka ya Mbote, na ntangu ya nkaka, yilaka luzingu na muntu ya beto. Yandi pesaka yandi luzingu ya mvwilu, yilaka luzingu na yandi sambu na kuvanda ti yandi. Nkinzi, yina ya luzingu ya mbote, yina ya ke zabisa mambu, ke salaka luzingu ya mbote sambu na bana, sambu na mpila ya makasi. Yandi tunga ve mpila yina na mawete, kansi na ngolo ya kuzaba yina, kuwila, ti kuyamba luzingu.
+
+Makasi zabaka ya nkaka ya Mbote vandaka kupesaka yandi kisalu. Yandi ke tunga luzingu na yandi, ve sambu na kuba yandi muntu ya mpongi, kansi sambu na kunata luzingu ti kikalulu na yo ya mbote.  Yandi kubaka nkinzi ya nene, kusonga, kunata, kumvukisa. Kubula yina, ti nkaka, yandi kutulama ti bana ya Mfulu ya nkaka. Yandi vandaka mbuta ya ngolo ya muntu, muntu ya luzingu.
+
+Sambu na mpila, yandi kubaka ngolo yina yandi vandaka kaka kulungisa. Nkinzi ya nene ti ya ntete ke landa lutwadisu yina, mpila yina ya luzingu ya mbote, muntu na muntu.  Beto fwete landa ntendula yai sambu beto kuyamba mawa ya beto mpi ngolo na beto ya kuvanda.
+
+
+Makasi, ntangu na nima, kukoma muntu ya kuzabisa luzingu. Yandi vandaka luzingu ya kulonga, luzingu ya ngolo, mpi nsi-kunda ya luzingu, nkutu na kati ya bantu ya Mfulu, ye na nkutu ya bana yonso ya kinsoko.  Na luzingu na yandi, yandi monisaka luzingu ya nene.
+
+
+Na mpila yina, beto ke zabaka, sambu luzingu kele luzingu ya mbote sambu na bantu yonso, yonso ya beto yonso kele.  Nkinzi ya nene, ye nkaka ya mbote, bo zolaka luzingu.
+</body>

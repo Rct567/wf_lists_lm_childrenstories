@@ -1,0 +1,40 @@
+<prompt>
+Please write a simple and easy-to-follow Swahili children's story that is at least 1000 words long.
+It must be completely written in proper Swahili (SW).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Mwana Mwanamke Aliyeokoa Nchi Yake Kutokana Na Mafuriko'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sw</lang_id>
+
+<title>Mwana Mwanamke Aliyeokoa Nchi Yake Kutokana Na Mafuriko</title><body>
+Mara moja, katika nchi yenye milima mirefu na mito mingi, kuliishi msichana mdogo aitwaye Asha. Asha alikuwa na moyo mwema na macho makubwa yenye kung'aa kama nyota. Alipenda sana maumbile na kila kitu kilicho katika nchi yake nzuri, ya kijani kibichi.
+
+Kila siku, Asha alitumia muda wake mwingi akitembea kando ya mto mkubwa unaoitwa Mto wa Uhai. Aliona samaki wakipita chini ya maji, ndege wakiruka juu ya miti mikubwa na wanyama wakicheza kwenye nyasi.  Alipenda kusikiliza sauti ya maji yakitiririka na kelele za wanyama wakicheza.  Moja ya mambo aliyoyapenda zaidi ilikuwa kuona jinsi maumbile yalivyokuwa yakibadilika kila siku.
+
+Hata hivyo, mwaka ule ulikuwa tofauti. Mvua zilianza kunyesha kwa siku nyingi mfululizo.  Mito ilianza kujaa na maji yalizidi kuongezeka.  Watu walianza kuwa na hofu kubwa.  Wanyama walikimbia kutoka kwenye makao yao, wakitafuta mahali salama.  Mto wa Uhai ulizidi kukua, ukajaza mabonde na kupita mipaka yake.  Kila kitu kilikaribia kuzama ndani ya maji.
+
+Asha, alipoona hofu ikienea katika nchi yao, alihisi moyo wake ukitoka kwenda kwa wasiwasi.  Alichukua kofia yake, ndoo, na mkoba wake mdogo na akaanza safari ndefu kwenda juu ya mlima mrefu zaidi, akatafuta njia ya kuokoa watu na wanyama.
+
+Alitembea kwa muda mrefu sana, akipitia misitu minene na maporomoko ya maji makubwa.  Mara kwa mara, alikutana na watu wakiomba msaada. Walisema kuwa maji yalianza kujaa na walikuwa na hofu kubwa ya kupoteza nyumba zao, mashamba, na familia zao.  Asha aliwatia moyo na kuwambia kwamba hakuna kitu kitakachotokea bila jibu.
+
+Juu ya mlima, Asha aligundua shimo kubwa ambalo lilikuwa limefunikwa na maji.  Alielewa mara moja kuwa shimo hilo lilikuwa chanzo cha mafuriko makubwa.  Bila kusita, aliingia ndani ya shimo hilo.  Alitembea mpaka alipoona jiwe kubwa lililokuwa limefunga shimo hilo.
+
+Lakini, jiwe hilo lilikuwa kubwa mno kwa Asha kulifikisha upande mwingine.  Aliona wanyama wakipita na kuomba msaada, lakini wote walikwenda kuokoa familia zao.  Asha aliwaza kwa muda mrefu.  Aliona mzee mmoja aliyekuwa akipanda mlima, akibeba ndoo nyingi za maji.  Alimfuata na kumwambia yote.
+
+Mzee huyo alimpa Asha kitu cha ajabu:  kisu kidogo, chenye ncha kali lakini bila meno.  Kisu hicho kilikuwa na nguvu ya ajabu.  Asha alielewa kuwa mzee huyo alikuwa akimwambia njia ya kuokoa nchi yao.
+
+Kwa umakini na nguvu zote alizokuwa nazo, Asha alikata shimo kubwa katika jiwe lile kubwa.  Maji yakatoka kwa kasi na hatimaye, mafuriko yakatoweka.  Nchi yote ilianza kupata utulivu tena.
+
+Kila mtu alimwona Asha akirudi akiwa amebeba watu wengi na wanyama.  Wote walimshukuru kwa ujasiri na ukarimu wake.  Walimpongeza Asha kwa kuwa mwokozi wao.  Asha alifurahi sana kuona jinsi nchi yao ilivyokuwa salama tena.
+
+Kutoka siku hiyo, Asha alijulikana kama "Mwanamke Mwenye Moti" aliyeokoa nchi kutokana na maafa.  Alitumia muda wake wote akisaidia watu na wanyama. Alifurahia kuona jinsi nchi yao ilivyokuwa na furaha tena.
+
+Kila siku, watu waliwaambia Asha hadithi yake.  Walimwona kama shujaa wao na walimwona kama mfano wa matumaini na ujasiri.  Asha aliendelea kuwa mfano wa mtoto mzuri aliyekuwa tayari kuokoa wengine na alikuwa mwalimu mkuu kwa watoto wote wa nchi hiyo.  Na kila siku, mto wa Uhai uliendelea kutiririka kwa amani, ukijaribu kusaidia watu wa nchi na wanyama.
+
+Mwaka uliofuata, wakati mvua nyingine zilianza, watu walimkumbuka Asha.  Walijua kwamba katika kila shida, mtu mzuri, mwerevu na mwenye moyo mkuu alikuwa tayari kuwafariji na kuwasaidia.  Na Asha alikua mfano wa upendo na utulivu kwa wote.
+</body>

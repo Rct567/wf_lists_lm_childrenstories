@@ -1,0 +1,37 @@
+<prompt>
+Please write a silly Romanian children's story that is at least 1000 words long.
+It must be completely written in proper Romanian (RO).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Comoara Fermecată: Povestea Despre Prietenie și Curaj.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>ro</lang_id>
+
+<title>Comoara Fermecată: Povestea Despre Prietenie și Curaj.</title>
+<body>
+În satul Micuța, unde copacii vorbeau în șoapte, iar râul râdea cu glasuri de clopoței, locuia un băiat numit Mircea. Mircea era un băiat cu ochi albaștri ca cerul de vară și păr ca spicul de grâu.  Dar, cel mai important lucru despre Mircea era că avea un suflet plin de curiozitate și o inimă plină de prietenie.
+
+Într-o zi însorită, explorând pădurea de lângă sat, Mircea a descoperit o piatră ciudată, strălucitoare, roșie ca focul. Pe piatră, era gravat un mesaj ciudat, scris într-o limbă pe care Mircea nu o cunoștea.  Între timp, o fetiță plină de energie, cu părul negru ca noaptea, pe nume Ana, se juca prin flori colorate în grădina bunicii ei. Ana era cunoscută pentru că vorbea cu animalele, lucru pe care Mircea îl admira.
+
+Curiozitatea i-a pus Mircea pe gânduri.  A început să caute informații despre piatra ciudată, întrebat pe bunicul lui, pe ciobanul satului, chiar și pe bătrâna Ileana, cunoscută pentru puterile ei de a înțelege limbajul păsărilor.  Nimeni nu a reușit să descifreze mesajul din piatră, dar toți i-au spus că piatra ascunde o comoară fermecată.  O comoară care promitea bogății, dar care avea și un secret: era protejată de un monstru cu o mie de ochi, care veghea asupra ei.
+
+Ana, aflând despre aventură, a sărit din grădină, zâmbind.  "Hai, Mircea!" a strigat ea, "Să mergem să o descoperim!"
+
+Cu inima plină de curaj și cu o geantă plină de biscuiți de casă, pregătiți de bunica Anei, Mircea și Ana au pornit la drum.  Drumul a fost lung și plin de obstacole. Au traversat un pod suspendat peste un râu care murmura poezii, au trecut peste dealuri acoperite cu flori multicolore, și au evitat o turmă de oi care se aventurau prin drumuri neîngrijite.
+
+Momondiul, un monstru cu o mie de ochi strălucitori, era așezat pe vârful unui munte. Ochii lui scânteiau ca niște stele, iar respirația lui era ca un uragan.  Mircea și Ana s-au uitat unul la altul, și au simțit că trebuie să fie curajoși.
+
+"Nu-ți fie teamă, Mircea!" a spus Ana, strângându-și brațele. "Vom învinge!"
+
+A fost atunci când au dat dovadă de prietenie. Mircea a folosit toate biscuiții pentru a construi o grămadă mare de biscuiți, într-o formă ciudată, care părea un fel de fort. Ana, cu puterile ei de a vorbi cu animalele, a convins o gașcă de ciori să-i distragă atenția lui Momondiul, zburând deasupra capului lui și făcând mult zgomot.
+
+Momondiul, derutat de biscuiții ciudați și de gălăgia cirioarilor, s-a uitat în jur, cu cei o mie de ochi.  A încercat să-i urmărească, dar biscuiții ciudați de forma ciudată au făcut-o să se împiedice. Mircea și Ana au profitat de ocazie pentru a se strecura pe lângă el și a intra într-o peșteră secretă.
+
+În peșteră, au găsit comoara. Nu era aur sau pietre prețioase, ci un copac fermecat, care dădea fructe care aduceau bucurie și sănătate tuturor. Copacul îi zâmbea plin de lumină.  Amândoi au înțeles că adevărata comoară era prietenia lor și curajul lor de a depăși orice obstacol.
+
+Împreună, Mircea și Ana au împărtășit fructele fermecate cu toți locuitorii din Micuța. Bucuria și sănătatea au cuprins satul, iar Mircea și Ana au devenit eroi pentru totdeauna.  Și piatra ciudată a rămas un simbol al prieteniei și al curajului, strălucind la soare, în mijlocul satului Micuța.
+</body>

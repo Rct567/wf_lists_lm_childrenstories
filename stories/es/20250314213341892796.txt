@@ -1,0 +1,59 @@
+<prompt>
+Please write a uncomplicated Spanish children's story that is at least 1000 words long.
+It must be completely written in proper Spanish (ES).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'El cumpleaños sorpresa y el pastel con todos los sabores más extraordinarios.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>es</lang_id>
+
+```xml
+<title>El cumpleaños sorpresa y el pastel con todos los sabores más extraordinarios.</title>
+<body>
+En un pequeño pueblo, donde las casas eran de colores brillantes y las calles empedradas siempre estaban llenas de risas, vivía una niña llamada Sofía. Sofía tenía siete años y su cabello era como hilos de oro, siempre despeinado después de jugar en el parque. Sus ojos, grandes y azules como el cielo de verano, brillaban con curiosidad y alegría. A Sofía le encantaban los animales, especialmente los gatos, y siempre tenía un gato persa esponjoso llamado Copito, que la seguía a todas partes.
+
+Se acercaba el cumpleaños de Sofía, y su mamá, una mujer amable con un corazón enorme, planeaba una fiesta sorpresa. Mami, como la llamaba Sofía, amaba sorprender a su hija. Sabía que Sofía soñaba con una fiesta llena de amigos, juegos y, sobre todo, un pastel espectacular.
+
+Unas semanas antes, mami empezó a susurrar con el papá de Sofía, un hombre alto y con una barba que parecía hecha de algodón de azúcar. Hablaban en voz baja, con miradas secretas y risas nerviosas, mientras Sofía jugaba con Copito en el jardín. Sofía, aunque pequeña, notaba estas miradas y susurros. Pensaba: "¿Qué estarán tramando mis papás?".
+
+Un día, mami le dijo a Sofía: "Cariño, vamos a visitar a la abuela. Hace mucho que no la vemos". Sofía saltó de alegría. La abuela vivía en una casa muy especial, llena de libros antiguos y con un jardín lleno de flores. A Sofía le encantaba ir a visitarla y escuchar sus historias.
+
+Pero el viaje a casa de la abuela era solo una distracción. En realidad, la mami y el papi de Sofía estaban organizando la fiesta en secreto. Llamaron a todos los amigos de Sofía, compraron globos de todos los colores del arcoíris y prepararon una larga lista de juegos divertidos. Lo más importante, estaban preparando el pastel.
+
+El pastel sería la estrella de la fiesta. No sería un pastel cualquiera. Mami había contactado a la repostera más famosa del pueblo, la señora Margarita, conocida por sus creaciones mágicas. La señora Margarita prometió un pastel especial, un pastel con todos los sabores más extraordinarios.
+
+El día del cumpleaños llegó, y Sofía, junto con sus papás, se dirigió a la casa de la abuela. El camino fue largo, pero Sofía disfrutó mirando el paisaje, cantando canciones con mami y jugando con Copito. Al llegar, la abuela la recibió con un abrazo enorme y le ofreció un zumo de naranja.
+
+"¿Quieres ayudarme a regar las flores, mi amor?", preguntó la abuela. Sofía aceptó encantada. Mientras regaban las flores, la abuela le contaba historias de su infancia, historias llenas de magia y aventura.
+
+Mientras tanto, en la casa de Sofía, todo estaba listo. Los amigos ya habían llegado, la casa estaba decorada con globos y serpentinas, y la mesa estaba preparada para el banquete. La señora Margarita llegó con el pastel. Era una obra de arte: un pastel de tres pisos, cada uno de un color diferente. Tenía fresas brillantes, caramelos coloridos, chocolate derretido y frutas exóticas que Sofía nunca había visto. Olía delicioso.
+
+Después de un rato, mami le dijo a Sofía: "Cariño, tenemos que irnos, ya es un poco tarde". Sofía, un poco triste, se despidió de la abuela y se montó en el coche. De camino a casa, mami le tapó los ojos a Sofía con las manos.
+
+"¿A dónde vamos, mami?", preguntó Sofía, llena de curiosidad. "Ya lo verás, cariño", respondió mami con una sonrisa.
+
+Cuando llegaron a la casa, mami quitó las manos de los ojos de Sofía y… ¡sorpresa!
+
+"¡Feliz cumpleaños, Sofía!", gritaron todos los amigos, saltando de sus escondites. Sofía no podía creer lo que veía. La casa estaba llena de gente, globos y risas. En el centro de la habitación, sobre una mesa decorada, estaba el pastel más increíble que jamás había visto.
+
+Sofía corrió a abrazar a mami y a papi. Estaba tan feliz que no sabía qué hacer. Los amigos de Sofía la rodearon, y comenzaron a jugar y a reír. Había juegos de mesa, música, y una piñata llena de caramelos. Sofía se lo estaba pasando de maravilla.
+
+Finalmente, llegó el momento de soplar las velas y de comer el pastel. Sofía, con una gran sonrisa en la cara, se acercó al pastel. Sus amigos cantaron "Cumpleaños feliz" con todas sus fuerzas. Sofía cerró los ojos, pidió un deseo y sopló las velas.
+
+El pastel era increíble. Cada bocado era una explosión de sabor. El primer piso, el de color rosa, sabía a fresas frescas y a nata. El segundo, el de color amarillo, tenía sabor a limón y a miel. El último piso, el de color azul, sabía a arándanos y a vainilla. Cada uno era diferente, cada uno era especial. Sofía probó un poco de cada sabor y se quedó boquiabierta.
+
+Todos disfrutaron del pastel, y la fiesta continuó hasta la noche. Sofía bailó, jugó y rió hasta que se sintió muy cansada. Al final de la fiesta, cuando todos los amigos se despidieron, mami y papi la abrazaron con mucho cariño.
+
+"¿Te gustó la fiesta, Sofía?", preguntó mami.
+
+"¡Fue el mejor cumpleaños del mundo!", respondió Sofía, con los ojos llenos de felicidad. "Y el pastel… ¡el pastel fue mágico!".
+
+Esa noche, antes de dormir, Sofía le dio las buenas noches a Copito, lo abrazó y le contó todo lo que había pasado en su fiesta. Soñó con globos de colores, juegos divertidos y, sobre todo, con el pastel con todos los sabores más extraordinarios.
+
+Y así, Sofía durmió, feliz y agradecida, sabiendo que tenía la mejor familia, los mejores amigos y un mundo lleno de aventuras por descubrir. Y cada vez que recordaba su cumpleaños, una sonrisa iluminaba su rostro, recordándole la magia y el amor que había vivido ese día tan especial. La magia del pastel, la alegría de la fiesta, y el cariño de todos sus seres queridos. Un cumpleaños sorpresa que Sofía recordaría siempre, como un dulce y delicioso sueño.
+</body>
+```

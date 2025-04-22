@@ -1,0 +1,107 @@
+<prompt>
+Please write a dialog-based Zulu children's story that is at least 1000 words long.
+It must be completely written in proper Zulu (ZU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Ukuthola Umnotho Ozuzisa Onke Amaqembu Esintu Sase-Afrika.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>zu</lang_id>
+
+```xml
+<title>Ukuthola Umnotho Ozuzisa Onke Amaqembu Esintu Sase-Afrika.</title>
+<body>
+UDLADLA: Sawubona, Mzwandile! Ngikubone lapha ngaphansi komthunzi womthombo. Kwenzakalani?
+
+MZWANDILE: Yebo, Dladla! Sawubona! Ngilinde nje. Ngilinde uKhanya. Ukhona lapha ukuzo.
+
+UDLADLA: UKhanya? Ngiyamazi kahle uKhanya. Ufuna ukwenzani lapha?
+
+MZWANDILE: Uthe sinephrojekthi ebalulekile esizoxoxa ngayo. Iphrojekthi engathinta wonke amaqembu esintu ase-Afrika.
+
+UDLADLA: (ezwakalisa intshisekelo) Ngiyafuna ukuzwa! Yini lena emayelana nokuthuthukisa wonke umuntu?
+
+MZWANDILE: Angazi ngqo, kodwa ngizwa ukuthi ihlobene nomnotho, ukuthi singakwazi ukuthuthukisa izindlela zokwenza imali ezizosiza wonke umuntu.
+
+UDLADLA: Hmm, ngiyayithanda leyo. Ngiyayithanda kakhulu ngoba ngithanda ukusiza abantu. Ubani onganayo leyo ndaba enhliziyweni?
+
+MZWANDILE: Ngisho nami. Njengoba ngibheka ngalo, ngicabanga ukuthi wonke umuntu uyasidinga ukwazi ukuzisiza. Ukukwazi ukusebenza kanzima nokuveza imali.
+
+(Khanya ufika)
+
+KHANYA: Sanibonani! Ngiyaxolisa ukuthi ngihambisa kancane. Bengibamba iqhaza ekomitini.
+
+UDLADLA & MZWANDILE: (bephindaphinda) Sawubona, Khanya! Asinandaba, sizamile nje ukugcina isikhathi lapha.
+
+KHANYA: Ngiyabonga! Manje, sengathi senizwa ngokuhlangana kwethu?
+
+MZWANDILE: Yebo, uDladla noKhanya sesiyaxoxa ngakho konke. Siyakushisekela ukuzwa ukuthi yini osizela yona.
+
+KHANYA: Kuhle kakhulu. Ngizothi nje ngokusheshisa ukuthi, sibheka izindlela zokuthola umnotho ozuzisa wonke amaqembu esintu e-Afrika. Kufanele ukuthi siqale ukwazi ukwenza ngathi sizithathele phezulu.
+
+UDLADLA: (ezingqondweni) Izindlela zokwenza umnotho? Okusho ukuthi kufanele sikwazi ukukhulisa ukuziphilisa kwethu? Ukutshala nokuthengisa?
+
+KHANYA: Nqoo! Kuhle ukuthi ukuzama ukuhlola. Kuningi esingakwenza ngakho konke esinako.
+
+MZWANDILE: Ngaphezulu, ngicabanga ukuthi kufanele sibheke ekhaya. Singasebenzisa izinsizakusebenza esinazo emiphakathini yethu, okungaba izinto ezingase zibe nomthelela omuhle emnothweni.
+
+KHANYA: Ngqo! Cabanga ngomhlaba wethu ovundile, amasiko ethu amahle, nolwazi lwethu lwendabuko. Singalenza lelo lonke libe yizinsiza zomcebo.
+
+UDLADLA: (ezochaza ngokuqonda) Ngokuqondile! Masihlole izindawo ngazinye. Umhlaba wethu unganika ukudla okuningi futhi sithole imali ngayo, siqale ngisho namabhizinisi amancane ngokuthengisa lezo zimvuno ezifana nokudla.
+
+KHANYA: Kuhle! Sibukele nokuthuthukiswa kwezivakashi ezinakekela amasiko ethu nezindawo zethu zemvelo ezihle. Amabhizinisi ancane athuthuka, imisebenzi iyadaleka.
+
+MZWANDILE: Kanti futhi, okubalulekile, singenza imikhiqizo ngokusebenzisa ulwazi lwethu lwendabuko. Okufana nezindlela zokwenza umuthi nezobuciko obuhle.
+
+UDLADLA: (ezingqondweni) Sinezandla zethu! Uma sisebenza ndawonye singakha okukhulu ngakho.
+
+KHANYA: Yebo, ngalelo lungelo singabavulela amathuba amakhulu emhlabeni. Kodwa okudinga ukwenza iqembu eliqinile elizimisele ukusebenzisana nokukhuthazana.
+
+MZWANDILE: Ngivumelana nawe ngokugcwele. Imizamo yeqembu ingenza umehluko omkhulu. Kufanele sifunde ezinye izilimi, siqonde ezinye izamasiko.
+
+UDLADLA: Ngokuqinisekile! Ukufunda kwamanye amasiko kuzosisiza siqonde ukuthi abanye abantu basebenza kanjani.
+
+KHANYA: Manje ke, masibeke izinyathelo eziqondile. Okokuqala, kufanele siqoke abaholi abaqeqeshiwe emiphakathini yethu abangazwela futhi bangaxoxa nalabo abaphatha izimali zikahulumeni.
+
+MZWANDILE: Impela! Kudingeka abantu abakhuthele abakwaziyo ukuxoxa ngokuqinile.
+
+UDLADLA: Okwesibili, sidinga ukwakha izinhlelo zokufundisa, sifunde futhi silungiselele. Sidinga ukuqeqesha abantu ukuba bazi ukuthi izinhlelo ze-inthanethi zisebenza kanjani. Ukuthi bangathola kanjani ulwazi.
+
+KHANYA: Ngaleyo ndlela sizoba nabasebenzi abaqeqeshiwe futhi abadlula zonke izinselelo. Okwesithathu, kudingeka ukuthi sibe nokuxhumana phakathi kwemiphakathi ehlukene.
+
+MZWANDILE: Kumele sinxhumane, sifundane, sisizane. Abantu abaphila eNigra, abahlala e-Afrika eseningizimu, abaphila eNtshonalanga Africa bonke kufanele babe ndawonye ukuthuthukisa amaqembu ethu.
+
+UDLADLA: Yebo! Futhi okwesine, sidinga izimali. Sidinga ukuqoqa izimali, sibasize ukuthola imali emabhankini, nasemithonjeni yezezimali eyaziwayo.
+
+KHANYA: Nqubo. Kufanele sihlakaniphe ngendlela esiqoqa ngayo izimali ukuze imiphakathi ingasithathuli. Okuhle kakhulu singathola ukwesekwa abantu bakweminye imingcele yezwe, ukwesekwa amazwe omhlaba wonke.
+
+MZWANDILE: Kungaba ngcono! Kudingeka ukuba sibelane ngolwazi oluphathelene ngemnotho ezinzile. Sithuthukise amasayithi lapho wonke umuntu ozwelayo angasungula khona imiqondo emisha ngaphandle kokukhathala.
+
+UDLADLA: Ngiyezwa ukuthi singenza kanjani zonke lezi zinto. Ngivumela ukuthi leyo yindlela esingasiza ngayo i-Afrika. Ngiyathanda!
+
+KHANYA: Angifuni ukuthula. Siyakudinga ukusebenzisana ndawonye. Ngizibone nginamandla ngendlela esinayo ngayo ekunikezeleni kule projekthi.
+
+MZWANDILE: Kodwa akufanele sikhohlwe ukwenza iqembu eliholwa abantu base-Afrika. Izinhlelo zethu kufanele zibe nezindawana lapho kungaba khona nokuthuthukisa amaqembu ethu nokwenza ukuthi abanye abantu babe yingxenye yawo.
+
+UDLADLA: Kuhle lokho. Futhi masikhumbule, okudinga ukwenza kakhulu ukusebenzisana kwethu. Ukuthi sibe nobunye, ukuze sibone ukuthi singaphumelela.
+
+KHANYA: Ngiyavuma, uma sihlala ngakunye, siphumelela kakhulu. Ukulungiselela ukuba nomthelela omkhulu emiphakathini yethu nasemhlabeni wonke.
+
+MZWANDILE: Ngithuthuka. Sibaningi abantu abafana nathi abafuna ukuthuthuka. Masiqhubeke nokusebenza kanzima, ngokwethembeka nangokuqinile!
+
+UDLADLA: Mina ngezwa ukuthi manje yisikhathi sokuba sivule izihloko zethu. Sivule imiqondo yethu ngesikhathi esifanele, futhi sibheke i-Afrika entsha, i-Afrika enempilo futhi enamandla!
+
+KHANYA: (ebona ekujabuleni) Vele! Silungele. Ukwazi ukuhlangana lapha ukwenza ukuthi kungcono!
+
+MZWANDILE: Sengiqonda ukuthi ukuze sibe yiphrojekthi enkulu, kufanele sizimisele ekusebenzeni, ekuthatheni isinqumo sokuthi kwenzeke. Ngisangulungele ukusebenza nawe ngalomsebenzi omuhle.
+
+UDLADLA: (ezwakala ejabulile) Ngivela ngokuswela kwami ​​! Lokhu kungumsebenzi esiwenza ndawonye! Sibambisana. Silungele!
+
+KHANYA: (ebona) Sihlanganyela ngamandla ukwenza lo msebenzi, silungele ukwenza izinguquko eziphatha umhlaba we-Afrika, sibonise ukuthi ama-Africans angaqopha kanjani imvelo kanye nomnotho wethu.
+
+(Bobathathu bahamba, bethatheka emqondweni wabo, beqiniseka ukuthi banolwazi lokwenza umehluko omkhulu.)
+</body>
+```

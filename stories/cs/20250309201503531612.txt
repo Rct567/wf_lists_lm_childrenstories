@@ -1,0 +1,50 @@
+<prompt>
+Please write a simple and easy-to-follow Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Ztracená panenka a její hledání rodiny v obrovském městě.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>cs</lang_id>
+
+<title>Ztracená panenka a její hledání rodiny v obrovském městě.</title>
+<body>
+Byla jednou jedna malá panenka jménem Anička. Byla to krásná a milá panenka s modrýma očima a dlouhými, zlatými vlasy. Anička měla ráda svou rodinu a přátelé, ale jednoho dne se ztratila v obrovském městě.
+
+Anička byla na procházce se svou mámou v parku, když náhle ucítila silný vítr, který ji odnesl od své mámy. Anička se dívala kolem sebe, ale neviděla svou mámu nikde. Byla sama a ztracená v obrovském městě.
+
+Anička začala plakat a volat o pomoc, ale nikdo ji neslyšel. Byla příliš malá a nikdo si jí nevšímal. Anička se rozhodla, že musí najít svou rodinu, a tak začala chodit ulicemi města.
+
+Šla ulicí za ulicí, ale všechny vypadaly stejně. Anička neviděla žádné známé tváře a nikdo ji neznal. Byla zoufalá a unavená, ale nechtěla se vzdát. Věděla, že musí najít svou rodinu.
+
+Po několika hodinách chůze Anička uviděla velký obchod s hračkami. Vstoupila do obchodu a viděla mnoho krásných hraček, ale nikdo ji neznal. Anička se rozhodla, že musí pokračovat v hledání.
+
+Šla dále ulicemi města a uviděla mnoho zajímavých věcí. Viděla velké auta, které jezdily po silnicích, a mnoho lidí, kteří šli po chodnících. Anička se dívala na všechny tyto věci, ale nevěděla, kam má jít.
+
+Náhle uviděla malou kavárnu. Vstoupila do kavárny a viděla mnoho lidí, kteří pili kávu a jedli zákusky. Anička se rozhodla, že musí požádat o pomoc. Šla k jedné paní, která seděla u stolu, a řekla: "Prosím, paní, jsem ztracená. Nemůžete mi pomoci najít mou rodinu?"
+
+Paní se na Aničku podívala a řekla: "Ano, samozřejmě, že ti pomůžu. Jak se jmenuje tvá rodina?" Anička řekla: "Jmenují se Novákové." Paní řekla: "Novákové? To je dobré jméno. Já znám jednoho pána, který se jmenuje Novák. Možná je to tvůj otec."
+
+Anička se velmi zaradovala. "Prosím, paní, kde mohu najít tohoto pána?" Paní řekla: "Můžete jít na náměstí a zeptat se lidí, zda znají pana Nováka." Anička se rozhodla, že musí jít na náměstí.
+
+Šla na náměstí a viděla mnoho lidí, kteří šli po chodnících. Anička se rozhodla, že musí zeptat se lidí, zda znají pana Nováka. Šla k jednomu pánovi, který seděl na lavičce, a řekla: "Prosím, pane, znáte pana Nováka?" Pán se na Aničku podíval a řekl: "Ano, znám pana Nováka. Je to můj kamarád. Můžu ti říct, kde bydlí."
+
+Anička se velmi zaradovala. "Prosím, pane, kde bydlí pan Novák?" Pán řekl: "Bydlí v ulici Červené armády. Můžete jít tam a zeptat se lidí, zda znají pana Nováka." Anička se rozhodla, že musí jít do ulice Červené armády.
+
+Šla do ulice Červené armády a viděla mnoho domů. Anička se rozhodla, že musí zeptat se lidí, zda znají pana Nováka. Šla k jednomu domu a zazvonila na zvonek. Otevřela jí paní, která se na Aničku podívala a řekla: "Ano, znám pana Nováka. Je to můj manžel. Co chceš?"
+
+Anička se velmi zaradovala. "Jsem jeho dcera," řekla. "Jsem ztracená a nemohu najít svou rodinu." Paní se na Aničku podívala a řekla: "Ano, jsi naše dcera. My tě hledáme všude. Pojď dál, Aničko."
+
+Anička vstoupila do domu a viděla svého otce a matku, kteří ji objali a říkali: "Aničko, jsme tak rádi, že tě našli. My tě tolik hledáme." Anička se velmi zaradovala a řekla: "Já také jsem ráda, že jsem našla svou rodinu."
+
+Rodina Novákových se sehrnula a Anička byla opět s nimi. Byla šťastná a spokojená. Věděla, že nikdy nebude sama a ztracená, protože má svou rodinu, která ji miluje a stará se o ni.
+
+A tak Anička žila šťastně se svou rodinou a nikdy nezapomněla na své dobrodružství v obrovském městě. Věděla, že musí vždy být opatrná a nikdy se neoddělovat od své rodiny. Ale také věděla, že pokud se někdy ztratí, bude vždy moci najít pomoc a vrátit se ke své rodině.
+
+Anička se naučila mnoho věcí ze svého dobrodružství. Naučila se, že musí vždy být statečná a neverbovat se. Naučila se, že musí vždy hledat pomoc, pokud ji potřebuje. A naučila se, že rodina je ta nejcennější věc na světě.
+
+A tak Anička žila šťastně a spokojeně se svou rodinou a nikdy nezapomněla na své dobrodružství v obrovském městě. Byla malou, ale statečnou panenkou, která našla svou rodinu a naučila se mnoho důležitých věcí o životě.</body>

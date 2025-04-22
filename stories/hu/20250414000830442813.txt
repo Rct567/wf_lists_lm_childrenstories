@@ -1,0 +1,61 @@
+<prompt>
+Please write a silly Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Márkó, a mókus, és a nagy kaland, ami megváltoztatta az életét.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>hu</lang_id>
+
+```html
+<title>Márkó, a mókus, és a nagy kaland, ami megváltoztatta az életét.</title>
+<body>
+<p>Márkó, a kis mókus, egy igazán szőrös, vöröske valaki volt. Szülei, a Mama Mókus és a Papa Mókus, persze azt mondták, hogy a legszebb mókus a világon, de Márkó azért tudta, hogy kicsit... kuszás. A szőre mindig össze-vissza állt, a farkát sosem tudta szépen tartani, és imádott mindenhova beletúrni az orrával. Emiatt gyakran meg is kapta a "tüskéshátú mókus" becenevet a többi mókustól.</p>
+
+<p>Egy szép őszi reggelen, amikor a levelek pirosan és sárgán pompáztak, Márkó nagyon unatkozott. Mama Mókus éppen mogyorót pucolt, Papa Mókus pedig a fa tetejéről nézte a világot. Márkó hosszan nyögött. "Unatkozom!" – kiáltotta.</p>
+
+<p>Mama Mókus megvakarta a feje tetejét, ahogyan csak egy mókus tudja. "Mit szólnál egy kis kalandhoz, Márkó? Menj el a Réti Répaországba! Azt hallottam, ott a legnagyobb répa a világon!"</p>
+
+<p>Márkó szeme felcsillant. "Répaország! Hurrá! Mehetnék?"</p>
+
+<p>"Persze, csak ne felejtsd el a mókustáskádat, a kis kalapácsodat a mogyorótöréshez, és vigyázz magadra!" – figyelmeztette Papa Mókus.</p>
+
+<p>Márkó már rohant is a kis mókustáskájához. Gyorsan belepakolt néhány finom, apró dióval teli zacskót, a kedvenc piros kalapját, aminek egyetlen nagy gombja volt a közepén, és természetesen a kis kalapácsát. Márkó úgy gondolta, a kalapács jól jön, ha valaki betámadja a répáit. Márkó képzeletben már hatalmas répa harcosokkal küzdött.</p>
+
+<p>A Réti Répaországba vezető út nem volt egyszerű. Először is, át kellett kelni a Kő-kanyarú patakon. Márkó nagyon félt a víztől, de szerencsére talált egy nagy levelet, amit csónaknak használt. Az első útja kicsit sikertelen volt, mert belefordult a patakba, de a második már jobban sikerült. Épségben partra szállt.</p>
+
+<p>Aztán át kellett szaladnia a Szedett-vedett szőlőskertjén. A szőlőskertben azonban egy éhes róka, Rókó, lapult, aki szerette a mókusokat. Rókó kigondolta, hogy Márkót elfogja. Márkó azonban meglátva Rókót, hatalmasat ugrott, és a feje tetején lévő gombbal beakasztotta magát egy szőlőfürthöz. Rókó nagyon megijedt, és ahelyett, hogy a mókust kapta volna el, leejtett egy szőlőfürtöt, amire a szőlőlevél csapkodva megijesztette őt. Így Márkó sértetlenül úszta meg a veszélyt.</p>
+
+<p>Márkó továbbvándorolt, mígnem egy sűrű erdőbe ért. Az erdő tele volt különös dolgokkal. Látta, amint egy nyúl éppen sapkát vasal, a vaddisznók tangóznak, és egy bagoly divatbemutatót tart, a tollazatával. Végre megérkezett a Réti Répaország szélére.</p>
+
+<p>Röpködött a szíve! Itt egy hatalmas, zöld répafejekkel büszkélkedő mezőt látott. De sehol sem találta a "világ legnagyobb répáját". Megkérdezett egy pocakot, a pocok pedig megmutatta, hogy hol keresse a répa óriást.</p>
+
+<p>"Menj el a Feketefenyő-domb lábánál a napraforgómező végéig. Ott fogod megtalálni!" – mondta a pocok.</p>
+
+<p>Márkó elindult a napraforgómező felé. Az út hosszú volt, a nap meleg. Egyszer csak megállt. Valami hangzott, mintha valaki sírna. Márkó óvatosan közeledett a hang felé. Egy nagy napraforgó tövében egy kicsi, zöld béka ült, és keservesen sírt.</p>
+
+<p>"Mi a baj?" – kérdezte Márkó óvatosan.</p>
+
+<p>A béka felnézett a zöld, szomorú szemével. "Elveszítettem a napraforgóbimbókat. Minden évben nekem kell vigyáznom rájuk, mert varázserejük van, de most elvesztettem őket!"</p>
+
+<p>Márkó leült a béka mellé. "Ne sírj! Segítek megkeresni!"</p>
+
+<p>Elkezdték együtt keresni a napraforgóbimbókat. Márkó, a kis mókus, a legapróbb dolgokat is észrevette. Keresgéltek, átvizsgálták a földet, a leveleket. Végül Márkó észrevett valamit. Egy apró, kerek napraforgómag a földben. Márkó ásni kezdett, a kicsi kalapácsával. Ásott, ásott, ásott, mígnem egy csomó fényes napraforgóbimbó bukkant elő a föld alól! Kiderült, hogy egy hatalmas mókus odavitte a bimbókat, és elültette. A mókus a mókusszeméből készült varázskövekkel bírta a napraforgóbimbókat, így az meggyógyult és rengeteg apró napraforgó szét is gurult.</p>
+
+<p>A béka nagyon örült. "Köszönöm, mókus! Te megmentetted a napraforgó bimbóimat!"</p>
+
+<p>A béka ajándékba adott Márkónak egy napraforgó bimbót. Márkó a kezében tartotta, a kicsi, napfényes bimbót. Lenyűgözve figyelte a napsugarakat.</p>
+
+<p>A napraforgóbimbó hatalmas kalandokat jelentett. Miközben Márkó tovább ment a napraforgómező szélén, hatalmas répa harcosokkal küzdött a képzeletében, melyekről kiderült, hogy valójában szép napraforgók. Márkó egyre boldogabb lett. Észrevette a levelek csillogását, a levegő friss illatát. Ez nem volt szőrös, kuszás mókus. Ez egy nagyszerű mókus volt, akinek van egy csodás, aranyszínű varázsbimbója.</p>
+
+<p>Végre megtalálta a világ legnagyobb répáját is! Egy óriási répa állt a napraforgómező végén, ragyogó répa fejekkel. De amikor a répa óriást meglátta, a kis mókus rájött, hogy nem is a répa nagysága a fontos. Hanem az a kaland, amit közben átélt. A nagyság csak a részlet, nem a lényeg. Aztán rájött, hogy nem is annyira fontos a szőrzete sem. Érezte, hogy ő egy kedves, bátor, vidám mókus, és ez sokkal többet jelent, mint egy szép farok, vagy egy makulátlan szőrzet.</p>
+
+<p>Márkó boldogan visszament haza a családjához. Mesélt a kalandjáról. A Mama Mókus és a Papa Mókus büszkén hallgatták a történetét, és kényelmesen belepihentek a kalandba. Most Márkó nemcsak egy "tüskéshátú mókus", hanem a "bátor Márkó", a napraforgó bimbók megmentője lett. Mindenki nagyon büszke volt rá, és ő most már önmagát is sokkal jobban szerette.</p>
+
+<p>És Márkó? Nos, Márkó sosem felejtette el a Réti Répaországot, a békát, a napraforgót. De a legfontosabb, amit megtanult, az az volt, hogy egy igazi kaland nem a céltól függ, hanem attól, hogy hogyan élsz meg közben mindent. És Márkó boldogan élt, és még több kalandot talált az életében. Ő már nem csak a kuszás mókus volt. Ő Márkó volt, a nagyszerű, bátor, és a legjobb mókus a világon. </p>
+</body>
+```

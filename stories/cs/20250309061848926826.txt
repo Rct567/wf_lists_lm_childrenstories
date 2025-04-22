@@ -1,0 +1,82 @@
+<prompt>
+Please write a dialog-based Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'O čarodějovi, co se bál kouzel a musel zachránit celý svět před zlem.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>cs</lang_id>
+
+<title>O čarodějovi, co se bál kouzel a musel zachránit celý svět před zlem.</title>
+<body>
+Byl jednou jeden čaroděj, který se jmenoval Čertík. Čertík byl velmi zvláštní čaroděj, protože se bál kouzel. Ano, čtete správně, čaroděj, který se bál kouzel! Všichni ostatní čarodějové se snažili naučit se nové a nové kouzla, aby mohli být co nejsilnější, ale Čertík se raději vyhýbal všem kouzlům.
+
+Jednou se Čertík rozhodl, že půjde do lesa, aby si udělal procházku a zapomněl na své strachy. Když šel lesem, potkal jednoho moudrého starce, který seděl na rozložitém kmeni stromu.
+
+"Dobrý den, mladý čaroději," řekl stařec. "Co tě přivádí do našeho lesa?"
+
+"Dobrý den," odpověděl Čertík. "Jsem čaroděj, ale bohužel se bál kouzel. Chtěl jsem si jen udělat procházku a zapomnět na své strachy."
+
+Stařec se podíval na Čertíka s údivem. "Čaroděj, který se bál kouzel? To je opravdu zvláštní. Ale neboj se, mladý čaroději, protože tvůj strach může být také tvou největší silou."
+
+Čertík se zeptal: "Jak to myslíte? Jak může můj strach být mou silou?"
+
+Stařec odpověděl: "Tvůj strach tě nutí být opatrný a přemýšlet o svých činech. To je něco, co mnoho jiných čarodějů postrádá. Oni jsou příliš sebevědomí a často používají své kouzla bez přemýšlení o následcích."
+
+Čertík se zamyslel nad stařecovými slovy. Možná měl pravdu. Možná jeho strach nebyl slabostí, ale silou.
+
+Vtom se ozvalo hlasité zahřmění a les se začal temnit. Stařec se podíval na Čertíka a řekl: "Mladý čaroději, zdá se, že se něco děje. Něco zlého se blíží a bude potřeba tvé pomoci, aby to bylo zastaveno."
+
+Čertík se zeptal: "Co se děje? Co je to zlé, co se blíží?"
+
+Stařec odpověděl: "Je to temný čaroděj, který se jmenuje Malakar. On je velmi silný a chce ovládnout celý svět. Musíš ho zastavit, Čertíku."
+
+Čertík se cítil velmi nejistý. Jak mohl zastavit tak silného čaroděje, když se jeho vlastních kouzel bál? Ale stařec mu řekl: "Neboj se, mladý čaroději. Tvůj strach tě bude chránit. Použij své znalosti a své přemýšlení, aby jsi porazil Malakara."
+
+Čertík se zeptal: "Ale jak mám Malakara porazit? Nemám žádné kouzla, která bych mohl použít."
+
+Stařec odpověděl: "Nemusíš používat kouzla, aby jsi porazil Malakara. Musíš použít své znalosti a své přemýšlení. Malakar je silný, ale také je velmi sebevědomý. To je jeho slabost. Musíš najít způsob, jak ho překvapit a porazit ho bez použití kouzel."
+
+Čertík se rozhodl, že bude bojovat proti Malakarovi. Šel do svého domu a začal přemýšlet o tom, jak ho porazit. Četl knihy, hledal informace a přemýšlel o Malakarových slabostech.
+
+Po několika dnech se Čertík cítil připravený. Šel do lesa, kde se setkal se stařecem.
+
+"Jsem připravený," řekl Čertík. "Vím, jak porazit Malakara."
+
+Stařec se usmál. "To je skvělé, mladý čaroději. Jdi a poraz Malakara. Svět potřebuje tvou pomoc."
+
+Čertík šel do Malakarova hradu, který byl ukrytý hluboko v lese. Když vstoupil do hradu, viděl Malakara, který stál uprostřed velké síně.
+
+"Ah, Čertíku," řekl Malakar. "Jsem rád, že jsi přišel. Budu tě porazit a ovládnout celý svět."
+
+Čertík se nebál. Věděl, že má plán, který ho porazí. "Malakare," řekl. "Jsi velmi silný, ale také jsi velmi sebevědomý. To je tvá slabost."
+
+Malakar se usmál. "Co tím myslíš? Jak může být moje sebevědomí mou slabostí?"
+
+Čertík odpověděl: "Tvůj strach z porážky je menší než tvůj strach z toho, že nebudeš moci ovládnout celý svět. To je tvá největší slabost. A já vím, jak tě porazit."
+
+Malakar se začal smát. "To je absurdní. Jak můžeš mě porazit, když jsi tak slabý?"
+
+Čertík se usmál. "Nejsi tak silný, jak si myslíš. Tvůj strach z porážky je větší než tvůj strach z toho, že nebudeš moci ovládnout celý svět. A já vím, jak tě porazit."
+
+Čertík začal mluvit a Malakar se začal smát. Ale Čertík pokračoval v mluvení a Malakar se začal cítit nejistě. Čertík mu říkal: "Ty jsi čaroděj, který se bojí porážky. Ty jsi čaroděj, který se bojí toho, že nebudeš moci ovládnout celý svět."
+
+Malakar se začal cítit velmi nejistě. Čertík mu říkal pravdu. Malakar se začal bát porážky a to ho dělalo slabším. Čertík pokračoval v mluvení a Malakar se stal ještě slabším.
+
+Nakonec Malakar padl na kolena a řekl: "Jsem poražen. Ty jsi mě porazil, Čertíku."
+
+Čertík se usmál. "Nejsi poražen, Malakare. Jsi pouze poražen svým vlastním strachem. Ty jsi čaroděj, který se bojí porážky a to je tvá největší slabost."
+
+Malakar se zvedl a řekl: "Děkuji ti, Čertíku. Děkuji ti za to, že jsi mě porazil. Budu se snažit být lepším čarodějem a nebudu se bát porážky."
+
+Čertík se usmál. "To je skvělé, Malakare. Svět potřebuje čaroděje, který není sebevědomý a který se nebojí porážky."
+
+Čertík a Malakar se stali přáteli a společně bojovali proti zlu. Čertík se naučil, že jeho strach nebyl slabostí, ale silou. A Malakar se naučil, že jeho sebevědomí nebylo silou, ale slabostí.
+
+Oba čarodějové se stali lepšími a svět se stal lepším místem. Čertík a Malakar se stali legendami a jejich příběh se vyprávěl po celém světě.
+
+A tak se stalo, že čaroděj, který se bál kouzel, zachránil celý svět před zlem. Čertík se stal hrdinou a jeho strach se stal jeho největší silou.</body>

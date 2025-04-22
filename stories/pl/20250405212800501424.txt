@@ -1,0 +1,55 @@
+<prompt>
+Please write a relatable Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Historia Kota, Który Miał Niezwykły Dar Rozmawiania z Ptakami.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pl</lang_id>
+
+```xml
+<title>Historia Kota, Który Miał Niezwykły Dar Rozmawiania z Ptakami.</title>
+<body>
+Dawno, dawno temu, w malutkim miasteczku, gdzie domy miały kolorowe dachy i okna ozdobione pelargoniami, mieszkał kot. Nie był to zwyczajny kot. Owszem, był czarny jak noc, z dużymi, zielonymi oczami, które błyszczały w słońcu, i z puszystym ogonem, który z wdziękiem nosił. Nazywał się Mruczek, i w przeciwieństwie do innych kotów, miał niezwykły dar. Potrafił rozmawiać z ptakami.
+
+Mruczek od małego słyszał ich trele, ćwierkanie i śpiewy. Początkowo wydawało mu się to tylko szumem, dźwiękami natury, ale z czasem, zauważył pewien wzór. Ptaki miały swoje rytmy, swoje historie, swoje radości i smutki. A Mruczek, z wrodzoną kocią ciekawością, chciał je zrozumieć.
+
+Przez długie miesiące Mruczek obserwował ptaki. Siedział godzinami pod kwitnącą jabłonią, wpatrując się w sikorki, rudziki i kosy. Uczył się ich mowy ciała – sposobu, w jaki trzepotały skrzydłami, w jaki przechylały główki, w jaki patrzyły. Potem, zaczął wydawać dźwięki. Miał swój specyficzny język – pomrukując, mrucząc, a czasem wydając wysokie, piszczące dźwięki, które w dziwny sposób przypominały ptasie ćwierkanie.
+
+I wtedy się stało. Pewnego słonecznego poranka, gdy Mruczek wylegiwał się na ciepłym parapecie, usłyszał znajome ćwierkanie. „Cześć, Mruczku!” – zaćwierkała mała wróbelka o imieniu Zosia.
+
+Mruczek zaniemówił z wrażenia. Od razu wstał, nadstawił uszy i zapytał: „Czy… czy ty do mnie mówisz?”
+
+Zosia zaśmiała się ptasim śmiechem. „Oczywiście! Słyszałyśmy, jak próbujesz z nami gadać. W końcu zrozumiałeś, jak to robić!”
+
+Od tamtej pory, Mruczek i ptaki stali się najlepszymi przyjaciółmi. Mruczek dowiadywał się o wszystkim, co działo się w miasteczku – gdzie w ogrodzie zakwitły najpiękniejsze róże, gdzie chłopiec zgubił piłkę, a gdzie w oknie pani Zosi wisi nowa firanka. Ptaki z kolei dowiadywały się o kocich sprawach – o ulubionej misce z mlekiem, o przesympatycznych myszach, które czasem odwiedzały spiżarnię, i o tym, jak trudno jest się oprzeć kłębowi wełny.
+
+Zimą, gdy śnieg okrywał miasteczko białym puchem, Mruczek pomagał ptakom przetrwać. Dostarczał im okruchy chleba, które cichcem wykradał z kuchni, a czasem dzielił się z nimi resztkami wędliny. Zosia i jej ptasi przyjaciele z kolei informowali Mruczka o tym, gdzie można znaleźć najcieplejsze miejsce do schronienia się przed mrozem. Razem, przetrwali najtrudniejsze zimowe dni.
+
+Pewnego razu, do miasteczka przybył pan Malarz, który zamyślił namalować obraz "Miasteczko w Ptasim Świetle". Chciał uchwycić radość, kolor i ruch, jaki dają ptaki. Zauważył Mruczka, siedzącego na gałęzi starego dębu, w otoczeniu śpiewających ptaków. Fascynacja tym widokiem zrodziła się natychmiast. Zaczął szkicować i notować obserwacje, zaintrygowany niezwykłym towarzystwem kota.
+
+Pan Malarz próbował namalować Mruczka i ptaki na kilka sposobów, ale żaden obraz nie oddawał w pełni ich niezwykłej relacji. Obrazy były ładne, ale brakowało im czegoś istotnego - ciepła, wzajemnego zrozumienia, tajemnicy. Poczuł frustrację, ponieważ nie potrafił uchwycić tej magii, którą widział na własne oczy.
+
+Mruczek zauważył smutek pana Malarza. Z troski w głosie, podszedł do niego, mrucząc cicho i ocierając się o jego nogi. Ptaki, wyczuwając smutek przyjaciela, zaczęły ćwierkać i śpiewać, jakby chciały pocieszyć pana Malarza. Zauważył wtedy, że to co łączy Mruczka i ptaki, to właśnie ta rozmowa, te drobne gesty, wspólne radości i smutki, których tak bardzo pragnął ująć na płótnie.
+
+Pan Malarz popatrzył na Mruczka, a potem na otaczające go ptaki. Uśmiechnął się. Zrozumiał, że nie chodzi o doskonałe odwzorowanie, ale o przekazanie uczuć. Zamknął oczy i wyobraził sobie ten moment, kiedy Mruczek, wśród śpiewających ptaków, dzieli się z nimi swoimi przemyśleniami. Zaczął malować z sercem, dodając na płótnie ciepłe odcienie słońca i blask radości w ptasich oczach.
+
+Kiedy obraz był gotowy, pan Malarz wystawił go na rynku. Nazwał go „Przyjaciele Serca”. Ludzie z miasteczka zachwycili się obrazem. Podobało im się, jak pan Malarz ujął w nim radość, piękno i głęboką więź. Wszyscy doceniali, że to co najważniejsze, jest niewidoczne, ale obecne w każdym detalu.
+
+I wtedy, pewnego dnia, podczas wystawy, podeszła do niego mała dziewczynka, Marysia. Spojrzała na obraz i zapytała: „Panie Malarzu, czy to prawda, że kot potrafi rozmawiać z ptakami?”
+
+Pan Malarz uśmiechnął się tajemniczo i odpowiedział: „Możliwe. Czasami wystarczy tylko otworzyć serce i wsłuchać się w świat.”
+
+Marysia patrzyła na obraz z błyszczącymi oczami. Postanowiła, że spróbuje tak jak Mruczek. I chociaż nie potrafiła rozmawiać z ptakami w ten sam sposób, co Mruczek, zaczęła obserwować ptaki. Słuchała ich śpiewu, patrzyła, jak budują gniazda, jak karmią swoje młode. I czuła, że rozumie ich świat.
+
+Mruczek, dowiedziawszy się o tym, poczuł dumę. Wiedział, że jego niezwykły dar przyniósł radość nie tylko jemu i jego ptasim przyjaciołom, ale również innym mieszkańcom miasteczka. Widział, że miłość i zrozumienie mogą połączyć ludzi i zwierzęta, a nawet najmniejsze stworzenia w piękną, harmonijną całość.
+
+A co z panem Malarzem? Sprzedał swój obraz i podróżował po świecie, malując kolejne wspaniałe dzieła, które zawsze nawiązywały do piękna natury i harmonii. Często myślał o Mruczku i ptakach z miasteczka.
+
+A Mruczek? Mruczek wciąż mieszkał w tym samym miasteczku, w otoczeniu swoich ptasich przyjaciół. Codziennie wsłuchiwał się w ich śpiew, dzielił się z nimi okruchami chleba i opowiadał o tym, co widział w miasteczku. I mimo upływu czasu, jego niezwykły dar nie stracił nic ze swej magii. Bo prawdziwa magia, jak wiedział Mruczek, kryje się w przyjaźni, w miłości i w umiejętności wsłuchiwania się w świat, który nas otacza.
+</body>
+```

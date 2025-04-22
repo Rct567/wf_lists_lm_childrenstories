@@ -1,0 +1,38 @@
+<prompt>
+Please write a educational Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Sirli tog'lar bilan to'ldirilgan sayohatlar'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>Sirli tog'lar bilan to'ldirilgan sayohatlar</title><body>
+O'rta Osiyoning go'zal tog'lari orasida,  keng, yashil vodiylar bilan o'ralgan,  biror sirli tog' bor edi. Bu tog'ning nomi  "Cho'qqilar To'g'oni" edi. Bu tog'ning tepasida hech qachon quyosh nuri tegmish emas edi. Chunki, tog'ning cho'qqisida har doim zich bulutlar osilgan bo'lardi.  Yigitcha Ulug'bek bu sirli tog'ni doimo qiziqish bilan kuzatgandi. U lug'atlarda va kitoblarda o'qigan hikoyalar, tarixiy yozuvlar orqali bu tog'ning qadimgi davrlardan beri sirlarni o'z ichiga olganini bilardi.
+
+Ulug'bek,  ertalabning nurli salomiga  o'xshash toza  quyosh nurlarida bo'yalgan vodiydagi  qo'ylar bilan qo'shilishgan  oq va sariq qushlar baland, sariq gullarga qarshi uchib ketgan edi. Ulug'bek, o'zi bilan  yozuv  qog'ozi va qalam olib, tog'ga qarab yurdi.
+
+Toylar qatnashayotganda, Ulug'bek bir  oyoqlarini suvdan pastga ko'tarib, biron  sirli joyni  izlashda  ko'rgan ko'prikni ko'rdi.  U qorong'i  tosh  ko'prikqa  qadam bosdi va  unidan  daraxt  shoxlariga  yopishib  o'ziga  ozg'in  nur  uzatib  oldi.
+
+Ko'prik biron go'zal jonga  o'tkazib  qo'yildi  va  uning  orqa  tomonda olovni  o'z ichiga oladigan go'zal dalalar va keng daralar  paydo  bo'ldi.  Ulug'bek bu go'zal  sayohatni  qalam  va qog'ozda aks ettirib borar edi.
+
+Uning  oldi va  uning yoniga  engil  shabada  ushlab turgan daraxtlar orasida ovozlarni ovozli  shamollar bor edi. Ulug'bek ushbu sirli ovozlarni eshitib turardi va  quvnoq bir  his bilan ko'zlaridan yorqin  yorug'lik  aylanib  bordi.
+
+Bir necha  kecha-kunduz  sayohat qilganidan  keyin, Ulug'bek cho'qqilar  to'g'oniga yetib  keldi. Bulutlar  orqasida  harorat haroratini  yutgan qandaydir  sirli narsa yashirinib turgan edi.
+
+Ulug'bek bulutlar orqasiga  kirib bordi va uning qoyadagi ko'rinishi  kuchli  nurga  o'xshardi. Qumlar o'rnini to'ldirib  ko'rgazmalar, g'oyalari, hikoyalari va odamlarning kecha-kunduz hayoti paydo bo'ldi.  U ko'p vaqtlarda ular orqali yozgan va ko'pchilikni qiziqtirib,  so'zlari va rasmlari yozuvda ko'p vaqtdan keyin  o'zgargan edi.
+
+Tog'ning tizmalarida har xil shakllardagi toshlar bor edi. O'sha toshlardan qanday g'alati qurilish g'oyasi haqida Ulug'bek ko'rgan rasmlarda Ulug'bek yozilgan edi. Tog'  va tog' qoyalarida Ulug'bek g'oyalarining katta miqdori  bor edi. Ular kichkina qoyalardan  va boshqa  tabiat  obyektlaridan  olingan  masallarga  o'xshar edi.
+
+Ulug'bek o'zining kitobidan rasmlarni ko'chirdi. Ko'proq rasmlar va qoyalar ko'p  yozuv va kitoblardan olingan edi va ular juda ham g'alati va  sirli bo'lib qoldi.  Bu  rasmlar va yozuvlar bir vaqtning o'zida qiziqarli va qo'rqinchli bo'ldi.  Ulug'bek o'zining xotirasiga  boshqalar  uchun  yaxshi yo'l topadimi, deb o'yladi.
+
+O'zining  yo'li  orqali  toylarni  ko'rib chiqqandan  keyin, Ulug'bek tosh qoyada juda  ko'p  uchib  qochib  yurishni   anglab   etdi.  Toylar  butun  oy, ko'prikni  kesib,  yuqoridan  tushishgandi. Ular tog'ning tizmasida  juda  ko'p tosh qoyada  qolishgan  va ko'zlarini yozgan   ko'chirma    o'zgartirilgan rasmlari bilan ko'rsatib chiqqan edi.
+
+Ulug'bek,  toylar  uchun  yulduzlar  bilan   yuraklarni ko'rsatadigan yoki  boshqa  yozuv   g'oyasiga  o'xshash tosh yozuvni ko'rdi.  Bu juda ajoyib   go'zal   va    hamda    aql  va  mahorat   orqali   o'zbekning  muhim  tarixiy qiziqarli  o'rnaklari  bilan to'ldirilgan  rasm bo'lgandi. Ulug'bek  bu  rasmlarni o'z  kitobiga    qo'shib  olib,   yuragini  o'zlashtirgan  qo'shildi.
+
+Cho'qqilar To'g'oni  haqiqatan ham sirli edi. Bu tog' tarixning, afsonalarning, g'oyalarning va   odamlar   yuraklari bilan   kecha   va kunduzni to'ldirilgan sirli manba  bo'lgan  qor-mard   tosh  kabi. Ulug'bek tog'lar bilan  bo'lgan   sayohatini   o'z   yozuvlari   va   rasmlari   bilan    yaxshiladi.    U  bu tog'ni    albatta,   aytmoqchi  bo'lganidan, qanday go'zal va o'ziga xos bo'lsa.
+</body>

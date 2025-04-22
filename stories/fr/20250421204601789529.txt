@@ -1,0 +1,90 @@
+<prompt>
+Please write a light-hearted French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'L'enquête captivante des détectives pour retrouver le trésor perdu.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```xml
+<title>L'enquête captivante des détectives pour retrouver le trésor perdu.</title>
+<body>
+Il était une fois, dans le charmant village de Fleurville, une paire de détectives très spéciaux : Sophie et Léo. Sophie était petite, rousse avec des couettes en bataille, et possédait un sens de l'observation hors du commun. Léo, quant à lui, était un grand garçon, blond et maladroit, mais doté d'une intuition infaillible. Ensemble, ils formaient l'équipe parfaite pour résoudre les mystères de Fleurville.
+
+Un beau matin, alors que le soleil brillait et que les oiseaux chantaient, une nouvelle énigme arriva à leurs pieds, ou plutôt, devant leur porte. Monsieur Dupont, le boulanger du village, était désespéré. "Mon trésor ! Mon trésor a disparu !" sanglotait-il, essuyant ses larmes avec son tablier fariné.
+
+Sophie et Léo se regardèrent, les yeux brillants d'excitation. Un trésor perdu ! L'occasion rêvée de mettre leurs talents de détectives à l'épreuve.
+
+"Ne vous inquiétez pas, Monsieur Dupont," dit Sophie avec assurance. "Nous allons retrouver votre trésor !"
+
+Ils se rendirent à la boulangerie, le cœur battant la chamade. Monsieur Dupont leur expliqua : le trésor, une collection de vieilles pièces de monnaie en or, était gardé dans un coffre-fort, caché sous le comptoir. La nuit dernière, le coffre-fort avait été forcé et le trésor avait disparu.
+
+Sophie commença son enquête. Elle observa attentivement les lieux, notant chaque détail. Elle examina la serrure forcée, la poussière sur le sol, et les empreintes de pas. Léo, pendant ce temps, interrogeait les témoins : Madame Martin, la dame qui promène toujours son chien devant la boulangerie, et Monsieur Dubois, le facteur du village.
+
+"Madame Martin, avez-vous vu quelque chose de suspect hier soir ?" demanda Léo.
+
+"Hé bien, oui," répondit Madame Martin, reniflant. "J'ai vu un chat errant qui rôdait près de la boulangerie. Un chat noir, avec les yeux verts... Il avait l'air très méchant !"
+
+"Un chat errant ?" réfléchit Sophie. "C'est possible, mais peu probable... Léo, demandez à Monsieur Dubois s'il a remarqué quelque chose."
+
+Monsieur Dubois, avec sa moustache fournie, secoua la tête. "Rien de spécial. Juste une journée ordinaire de livraison."
+
+Sophie et Léo retournèrent à la boulangerie. Sophie examina à nouveau la scène du crime. Elle remarqua quelque chose qu'elle n'avait pas vu auparavant : une petite trace de farine sur le comptoir, juste à côté de la serrure forcée.
+
+"Léo, venez voir ça !" s'exclama-t-elle.
+
+Léo s'approcha et regarda la trace de farine. "De la farine ? Mais... pourquoi ?"
+
+Sophie réfléchit un instant. "Peut-être... peut-être que le voleur était quelqu'un qui travaille avec de la farine ! Monsieur Dupont lui-même, peut-être ?"
+
+Ils interrogèrent à nouveau Monsieur Dupont. Il jura qu'il était innocent, qu'il adorait ses pièces et ne les aurait jamais volées.
+
+Sophie, sentant qu'il y avait autre chose, observa de plus près le comptoir. Elle aperçut une petite tâche de beurre, légèrement collante, juste en dessous de la trace de farine.
+
+"Ah ha !" s'écria-t-elle. "Le voleur a utilisé de la farine et du beurre ! Et... je crois savoir où il peut se cacher !"
+
+Elle se dirigea vivement vers la fenêtre de la boulangerie et regarda en dehors. Devant la porte, un petit enfant jouait joyeusement. Elle aperçut sur le trottoir, devant le magasin, une boule de pâte à tarte.
+
+"Léo, allons-y !" ordonna-t-elle.
+
+Ils suivirent le trottoir, et Sophie remarqua qu'il y avait d'autres boules de pâtes à tartes le long du trottoir, à certains endroits, les petites boules disparaissaient !
+
+Ils suivirent la série de boules de pâtes. Finalement, après dix minutes de recherche, ils arrivèrent devant un vieux bâtiment où il y avait des travaux de rénovation. Sophie sentit une odeur familière… d'amandes grillées. Et par une fenêtre ouverte au rez-de-chaussée, ils entendirent des chuchotements.
+
+Ils s'approchèrent discrètement. Ils pouvaient entendre la conversation.
+
+"On se partage les pièces, n'est-ce pas ?" Une voix, jeune, tremblait légèrement.
+"Bien sûr, petit-fils," répondit une voix grave, que Sophie et Léo reconnurent avec surprise. C'était la voix de Madame Leblanc, la pâtissière du village.
+"Mais... j'ai fait attention à ne rien faire... tout était propre," une petite voix.
+"T'inquiète pas ! Ce sont les seuls à avoir un plan !" répondait Madame Leblanc.
+
+Sophie et Léo échangèrent un regard étonné. Madame Leblanc ! Et qui était ce petit-fils ? Ils jetèrent un coup d'œil à l'intérieur et virent Madame Leblanc, en train de compter les pièces d'or, avec un jeune garçon, sûrement son petit-fils, à ses côtés, regardant l’ensemble. Ils se souriaient, avec un air malicieux.
+
+Sans hésiter, Sophie et Léo entrèrent dans la pièce.
+
+"Madame Leblanc !" s'écria Sophie. "Nous savons tout !"
+
+Madame Leblanc et son petit-fils sursautèrent. Les joues de Madame Leblanc devinrent rouges de honte. Le petit garçon, lui, avait les yeux remplis de larmes.
+
+"Comment... comment avez-vous su ?" balbutia Madame Leblanc.
+
+"La farine, le beurre, la trace de pas, les boules de pâte à tarte… et le bruit," expliqua Sophie. "Et... Monsieur Dupont, c'est vrai que vous vendez de très bonnes tartes aux amandes ! Il faut les copier pour que cela fonctionne !"
+
+Madame Leblanc soupira. Elle avoua qu'elle avait eu besoin d'argent pour aider son petit-fils. Elle avait donc volé les pièces et comptait s'enfuir avec le trésor. Elle était désolée pour ce qu'elle avait fait et expliqua que le petit garçon n'était pour rien dans cela.
+
+Léo, avec sa grande générosité, se tourna vers Monsieur Dupont. "Monsieur Dupont, je pense que Madame Leblanc est désolée, et on va la punir. Peut-être pourriez-vous faire preuve de compréhension, surtout envers ce garçon. Elle aura besoin d'aide."
+
+Monsieur Dupont, un homme au grand cœur, réfléchit un instant. Il était triste pour l'infraction. Mais, reconnaissant les intentions du garçon, il ne put que sourire. "Bien sûr, oui. La justice sera rendue. Et peut-être même que je lui offrirai une part de tarte aux amandes…"
+
+Il récupéra son trésor et remercia chaleureusement Sophie et Léo. Madame Leblanc, très embarrassée, promit de rembourser le vol dès qu'elle le pourrait et embrassa chaleureusement son petit-fils.
+
+Le mystère du trésor perdu était résolu !
+
+De retour chez eux, Sophie et Léo, toujours enchantés, célébrèrent leur succès avec un grand bol de glace au chocolat, un délice qu'ils méritaient amplement. Et, pour toujours, ils continuèrent à résoudre les mystères de Fleurville, devenant les détectives les plus célèbres de tout le village.
+</body>
+```

@@ -1,0 +1,36 @@
+<prompt>
+Please write a silly Bosnian children's story that is at least 1000 words long.
+It must be completely written in proper Bosnian (BS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Čudnovati svijet igračaka i njihova ludila'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>bs</lang_id>
+
+<title>Čudnovati svijet igračaka i njihova ludila</title>
+<body>
+U malom, prašnjavom sanduku, skrivenom ispod stare komode u kući male Ane, živio je čudnovati svijet igračaka.  Nisu bili kao druge igračke. Nisu imali prava lica, niti su imali priču koju su svi znali. Bilo ih je različitih oblika i boja, a svaka je igračka imala svoju, ponekad čudnu, priču.
+
+Tamo je bio Mali Šumski Medo, previše stidljiv da bi progovorio, koji je hodao na zadnjim nogama i pričao samo šapatom.  Svi su ga drugi nazivali „tihi medo“. Imao je veliki problem, stalno bi mu se izgleda sušilo drvo od koga je napravljen. Morao bi stalno biti obložen debelim slojem meda, inače bi popucavao.  Njegova mala smeđa srčana obloga od slatkog meda bila je često u izobilju oko njegovih igračkih prijatelja, ali ga nisu previše obasipavali zbog ovog pitanja.
+
+Pored njega, živjela je ogromna lutka, Dora, s očima poput crnih dugmadi.  Ona je, u stvari, imala posebnu ljubav prema stvarima koje bi svi drugi u svijetu igračaka nazivali „čudnošću“. Zanimljivi su joj bili šljokicama i crvljima. Pričala je svijetu igračaka svoje smiješne avanture. Također bi nosila različite haljine iznenađujućih boja, sa svakolikim brojem šljokica koje bi je čudile i nasmijavale.
+
+U uglu sanduka, među prašinom i kartonskim kutijama, skrivao se Drveni Konjic.  On je imao posebnu strast prema vožnji. Nije znao kako funkcioniraju motori i bicikli, ali je vjerovao da može upravljati konjima kao vojnikom na konju.  Jednog dana je našao malu sličicu kralja i rekao si sam – ja ću to biti.
+
+U svom čudnovatom svijetu, igračke su živjele svoje dane puni smijeha, ali i briga.  Jednom, u toku dugog letnjeg popodneva, došlo je do oluje. Kiša se slijevala na kuću. Drvene igračke su se bojali da će popucati.  Tihi medvjed je počeo jecati od straha, s vremena na vrijeme padao bi u trans. Dora, s očima široko otvorenima i punim interesovanja i ljubopitljivosti, upitala se je li kiša neka slatka stvar koja se spušta dolje iz oblaka.  Konj je uzviknuo da želi da bude kralj koji će na sebe uzeti njen bijes.
+
+
+Ali onda, Anina majka ušla je u sobu. Igračke su se skrile iza svih vrsta predmeta, od odjeće, knjiga, i ostalih stvari u sanduku, kao da žele nestati. Anina majka je, vidjevši te nesretne situacije, otišla, ali se nije odvajala od toga šta se dešava. Vjerovala je da je sve pod kontrolom. Dok je odlazila, naslonila se na prazan stol pored kuće, otvorila je okno, pustila neke zvukove da čuju i pogledala je u pravcu koji je vjerojatno oslikavao.
+
+
+Ane se iznenada vratilo nasmiješno, donijela je novu loptu za igračke, izrazito ružičaste i velike kao sunce. Lopta je, nasreću, dobro odbijala od strane sanduka. Igračke su pogledale jednu drugu i sa puno entuzijazma krenule na loptu i njene igre. Tako su i proveli sljedeći dan pun smijeha i zabave.
+
+
+Svaki dan u svijetu igračaka je bio ispunjen novim i ludim doživljajima. Mali šumski medvjed se malo ohrabrio, svakog dana je malo bio manje stidljiv, pa se smijao jače.  Dora je i dalje tražila nove stvari kojima se čuditi, a konj je konačno uspio doći do svog konja. Učili su jedno od drugog, igrali i zajedno odraštali, svake je njihove avanture davala nešto malo radosti i životne snage i puno doživljaja u tom ludu svijetu igračaka.
+
+Tako je i svijet igračaka, unatoč čudnosti i ludila, postojao s radošću, ljubavlju, radoznalosti i ljepotom svakog člana u malom sanduku, gdje su svi dijelili i zajedno slavili život!
+</body>

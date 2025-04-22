@@ -1,0 +1,35 @@
+<prompt>
+Please write a silly Basque children's story that is at least 1000 words long.
+It must be completely written in proper Basque (EU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Eguzkiaren Zortzi Izarren Istorioak'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>eu</lang_id>
+
+<title>Eguzkiaren Zortzi Izarren Istorioak</title>
+<body>
+Eguzki-errege handi eta distiratsua, zeru urdin handiaren gainean esertzen zen, bere zortzi izarrerekin dantzatzen.  Izar horiek ez ziren izar arruntak;  horiek  Eguzki-erregeari laguntzeko sortu ziren, mundu guztian argia eta beroa zabaltzen.  Lehenengoa, Izaro Izpiritua; bigarrena, Izaro Hotza; hirugarrena, Izaro Lurra; laugarrena, Izaro Haizea; bosgarrena, Izaro Itsaso; seigarrena, Izaro Mendia; zazpigarrena, Izaro Negua; eta zortgarrena, Izaro Udala.
+
+Baina egun batean, Izaro Udala, okerra eta zakarra, hasi zen hasperen haserretzen.  Ez zitzaion gustatzen egunez egun lana egitea.  Izar gainontzekoak zintzilikatzen ziren zeruan dantzatzen, izpi distiratsuak botatzen, baina Izaro Udala, bere eginkizuna ez zen bete, zeruan txorrota ezkutatzen zen; beti gau eta gauez bakarrik eguzkitan lurratzen zen eta batzuetan ez zeukan izarren forma propioa ere.  
+
+"Txarreta nauzu!" oihu egin zuen Izaro Udala eguzki-erregeri, haserretuta.  "Ez dut gure lana nahi!  Guztiok berdin egin behar dugu".
+
+Eguzki-erreak, ederretik, bere buruain atzarri eta haizea aurrean etorri zitzaion. “Zergatik gaudela gau honek haizea du?”, galdetu zion, bere izpiekin laster.  
+
+"Zure eginkizunei aurre eginez eta zeruaren argia sustatzen, zeruko haizea ardura izan dezake".  Hori jakinda, Izaro Udalak bere burua onartu eta lana egitera joan zen, munduari berotzea eta argiztatzea.
+
+Izaro Udala haserretuta zegoenean, Izaro Hotza izar txiki bat,  berok, aitzakirik gabe haize beroaren izendatutako argi-tutu txikia eraso eta argia ezabatzeko bidean gelditu zen. Eta, haren eguzkiaren izpiekin eta izarren zintzilikarekin eta egur freskoekin, izpiritu handiak zortzigarren izpira hartzen zuen.  
+
+Izar gainerakoak kezkatzen hasi ziren.   Izaro Izpirituak, izar gorenak eta ederrena, esan zuen: "Ez ahaztu zertarako sortu ginen: mundua argiztatzeko eta berotzeko."  Eta, guztiak  baina guztiak  gurutzeatu ziren, bata bestearen eta izpiek dantzan zituzten eguzkiaren izpiekin  zintzilikatzen  zerutik.
+
+Izaro Izpiritua, argi handienetik, argi txikiak piztu zituen.  Bereziki, izpiekin zizkaltzen dituzten izpirituak berreskuratu eta zuzentzeko.  Izaro Lurra, ezti txiki batekin, izarrera botatu zen lurra gogortzen, beti bezala. Izaro Haizea, astinaldi handiekin, gainezka eta indar indarra aurrean zihartzen. Izaro Itsaso, eta olatuen hotsarek erakusteko itsasoko izpiritua zeruko argituko lurraldetan eta harrizko zintziliketa gainetik. Izaro Mendi,  gailurrerantz zintzilikatzen zen, hark izarren eguna eskaini. Izaro Negua, aldiz, izotz arnasa eskaintzen zuen  hots gutxiagorekin izpi horiak zuntz zenbateko ardura handiaz.
+
+Orduan, Izaro Udala, argiaz ainguratuta, gogoratu zuen zein garrantzitsua zela lan gure artea izatea eta nola behar zitekeen berotu mundua eta zizkaltzea izarren arauak, zortzi izar bezala dantzatzen eguzkitan zeru argietan eta  zeruaren garbian  baina hori lortzeko argirik gabe ixten eta betikoki bizi behar.
+
+Eta hark bere eginbidea argitaratuko zuela esan zuenez, ordutik aurrera egunez eta gauez lana egin zuen, eguzki-erregeren osagai gisa mundua argiztatzeko eta berotzeko.  Izarrak dantzatzen jarraitzen zuten, baina orain, sinfonia harmoniatsu batean,  Izar Udalaren lanaren zorrotasun berriak argiztatuta. Eta zeruaz  argiagoago eta zale gehiago bezala zintzilikatzen. Mundu guztia eguzki-errege eta haren zortzi izarreren ohorez piztu zen.
+</body>

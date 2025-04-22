@@ -1,0 +1,47 @@
+<prompt>
+Please write a creative and original Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Az éjszakai állatok titkos társasága'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>Az éjszakai állatok titkos társasága</title>
+<body>
+A patak partján, a csillogó Hold fényében, állt egy titokzatos kis kunyhó. Nem volt hétköznapi ház, hanem egy csillogó, sötétkék, varázslófüvekkel teli kis kunyhó. Ebben a kunyhóban lakott a titkos Éjszakai Állatok Társasága.  
+
+A társaság tagjai: a furfangos róka, Róka Réka, a bölcs bagoly, Bagoly Béla, a gyors nyúl, Nyúl Niki, és a csendes, titokzatos mókus, Mókus Miklós. Mindegyiküknek megvolt a maga szerepe, a maga egyedi képessége. Réka volt a csapat agya, Béla a szószólója, Niki a gyorsaság megtestesítője, Miklós pedig a csendes bölcsesség képviselője.
+
+Egy éjjel, amikor a Hold a legfényesebb volt, és a csillagok milliói ragyogtak a sötét égbolton, a társaság fontos ülésre gyűlt össze.  A patak partján, az apró, csillogó köveken ültek, és a kunyhó falát beborító csillogó varázslófüvek finoman susogtak a szélben.
+
+"Kedves társaim!" szólalt meg Bagoly Béla, mély, bariton hangján. "Ma fontos hírt kell közölnünk. Egy új fenyegetés kúszik a sötétbe, egy titokzatos, láthatatlan árnyék, amely veszélyezteti a világunkat."
+
+Róka Réka felkapta a fejét. "Mi ez a veszély? Hogyan láthatatlan?" kérdezte, szemei csillogtak a kíváncsiságtól.
+
+"Az éjjel-nappal járó fénylények, a Napfény-vadászok" felelte Bagoly Béla. "A napfényben élnek és halnak, és a holdfényben válnak valóssággá.  Elnyelnek minden élő dolgot, ami a napfénybe kerül. A napfény szorítása megsemmisíti a sötétben élőket, a világunkat és a csillagok fényét."
+
+Nyúl Niki megborzongott. "Mit tehetünk ellene?" kérdezte, a füle hegyei remegtek.
+
+"A Hold fényét kell erősíteni!" jelentette ki Mókus Miklós. "A sötétben élők fényét kell megerősítenünk, hogy ellensúlyozzuk a Napfény-vadászok hatalmát."
+
+"De hogyan?" kérdezte Réka. "Hogyan erősítsük meg a Hold fényét?"
+
+"Meg kell találnunk az elveszett Holdkövet!" felelte Béla. "A Holdkő a Hold fényének kulcsa, és csak az képes megtalálni, aki valódi hősiesség birtokában van."
+
+A társaság örömmel fogadta a feladatot. Tudták, hogy csak közösen képesek megtalálni az elveszett Holdkövet, és legyőzni a Napfény-vadászokat. Elkezdték a kutatást, a varázslófüves kunyhóból kiindulva, a patak mentén, a csillagok alatt.  
+
+Róka Réka megérezte a szélben a Holdkő varázslatos erejét, a bagoly bölcsességét használva, Niki gyorsaságával feltérképezték a sötét erdőt. Mókus Miklós, a csendes bölcsességével, hallgatta a fák suttogását, a patak susogását, és a csillagok halk zongorázását.
+
+Egy hosszú, sötét éjszakán át kutattak. A holdfényes út vezetése során számos titokzatos állat és titokzatos hely született. Sok szörnyű lényt elkerültek, és sok kalandos találkozásuk volt.
+
+Végül, egy mély barlangban, a csillagok fényében, megtalálták az elveszett Holdkövet. A Holdkő meleg fényével csillogott, a Hold fényének varázslatos erejét sugározta.
+
+Mikor visszatértek a kunyhóhoz, a Holdfény fényesebben ragyogott. A Napfény-vadászok ereje csökkent.  A társaság meggyőződött róla, hogy a Holdkő visszatérésével megerősítették a sötétben élők fényét. A titokzatos árnyék elenyészett.
+
+A patak partján, a csillogó Hold fényében, az Éjszakai Állatok Társasága örült a győzelmének. Tudták, hogy a világuk biztonságban van, és a csillagok ragyogó fényével tovább ragyoghatnak. A Holdkő a kunyhóban pihent,  biztosítva a sötét világ fényének fennmaradását.
+</body>

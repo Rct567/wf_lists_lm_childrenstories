@@ -1,0 +1,48 @@
+<prompt>
+Please write a relatable Portuguese (Brazil) children's story that is at least 1000 words long.
+It must be completely written in proper Portuguese (Brazil) (PT_BR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>pt_br</lang_id>
+
+<title>O Segredo da Rua das Borboletas</title>
+<body>
+A Rua das Borboletas, como o próprio nome sugere, era um lugar mágico. Casas coloridas, como as asas de borboletas, ladeavam a calçada.  Árvores carregadas de flores perfumadas, que pareciam sorrir ao vento, davam um toque especial ao bairro.  E, em meio a essa beleza toda, morava a pequena Maria, com seus cabelos pretos como a noite e olhos castanhos que brilhavam como duas estrelas.
+
+Maria adorava a Rua das Borboletas, mas havia um segredo que a intrigava.  Todos os dias, ao anoitecer, um som estranho ecoava pelas ruas.  Um sussurro suave, como se as próprias casas estivessem conversando.  Ela ouvia, curiosa, escondida atrás de uma árvore, mas jamais conseguia entender o que elas diziam.
+
+As outras crianças da rua, mais velhas, riam de Maria.  "Ela está ouvindo as casas sussurrarem", diziam, com um tom de deboche.  Maria, porém, não se importava.  Ela achava que as casas tinham segredos, histórias guardadas em cada tijolo e cada janela.
+
+Um dia, enquanto caminhava pela rua, Maria avistou uma casa diferente das outras.  Era uma casa de madeira, pintada de um tom de azul tão profundo que parecia o céu noturno.  A porta estava entreaberta, e um aroma delicioso de pão quente emanava de dentro.  Curiosa, Maria se aproximou.
+
+Ao espiar pela fresta da porta, viu uma velhinha com um avental bordado com flores.  Ela estava sentada à mesa, seus dedos ágeis trabalhando em um pãozinho, que parecia se transformar em uma obra de arte.  Maria nunca tinha visto nada igual.
+
+"Olá", sussurrou Maria, com receio.
+
+A velhinha olhou para ela, seus olhos brilhando como o brilho de uma joia.  "Olá, pequena Maria", respondeu, com uma voz doce como mel. "Você ouve os sussurros?"
+
+Maria assentiu, corando.
+
+"As casas falam, sim", disse a velhinha.  "Cada tijolo, cada janela, cada porta guarda uma história.  Mas para ouvi-las, é preciso ter um coração aberto e um espírito curioso."
+
+A velhinha sorriu e convidou Maria para entrar.  Dentro da casa, o cheiro de pão quente se misturava com o aroma de flores secas.  Em cada canto, havia objetos antigos, carregados de histórias.  Livros envelhecidos, brinquedos de madeira, fotos desbotadas.
+
+"Cada objeto tem uma história", explicou a velhinha.  "E cada história é um sussurro.  Você precisa aprender a ouvir."
+
+Maria observou atentamente.  A velhinha pegou um pequeno livro de capa marrom, cheio de desenhos antigos.  "Este livro conta a história da Rua das Borboletas", disse.  "Antes de ser uma rua de casas, era um jardim de borboletas, cheio de cores e alegria.  Cada casa guarda um pedaço dessa memória."
+
+Maria folheou o livro, seus olhos absorvendo cada detalhe.  Imagens de borboletas, flores e crianças brincando enchiam as páginas.  Ela percebeu que os sussurros das casas não eram palavras, mas lembranças, emoções, sonhos.
+
+"As casas contam histórias de amor, tristeza, alegria, e esperança", disse a velhinha.  "E você, Maria, precisa aprender a ouvi-las."
+
+A partir daquele dia, Maria passou a ouvir os sussurros com outros ouvidos.  Ela não só ouvia as casas, como também as árvores, os pássaros e o vento.  Ela aprendeu a ver o mundo com olhos mais atentos, a perceber os detalhes, a sentir as emoções por trás de cada objeto, cada gesto, cada sorriso.
+
+A Rua das Borboletas, antes apenas um lugar bonito, tornou-se um livro aberto para Maria.  Cada casa, cada árvore, cada pedacinho de calçada tinha uma história para contar.  E Maria, com seu coração aberto e seu espírito curioso, aprendeu a desvendar os segredos que ela escondiam.
+
+E assim, a pequena Maria, com seus cabelos pretos e olhos brilhantes, tornou-se a guardiã dos sussurros da Rua das Borboletas, a contadora de histórias de um lugar mágico, onde até as casas tinham segredos para revelar.
+</body>

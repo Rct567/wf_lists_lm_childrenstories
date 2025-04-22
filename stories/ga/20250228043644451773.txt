@@ -1,0 +1,50 @@
+<prompt>
+Please write a silly Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'An Bóithrín Fada go dtí Tír na nIontas'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>ga</lang_id>
+
+<title>An Bóithrín Fada go dtí Tír na nIontas</title>
+<body>
+Ba bhóithrín fada é a bhí ag síneadh trí na sléibhte agus trí na gleannta, ag dul ó thuaidh go dtí deisceart na hÉireann. Bhí sé cosúil le bóithrín eile ar bith, ach bhí rún éigin faoi. Bhí daoine á dhícheall a chur, ag déanamh iarrachtaí dul tríd, ach ní raibh aon duine in ann é a dhéanamh.
+
+Lá amháin, tháinig buachaill óg darbh ainm Seosamh go dtí an bóithrín. Bhí sé ag taisteal óna bhaile dúchais chun cuairt a thabhairt ar a uncail a bhí ina chónaí i gcathair mhór. Nuair a chonaic sé an bóithrín, thóg sé a aghaidh ar an mbóithrín agus thosaigh sé ag siúl.
+
+Agus é ag siúl, tháinig sé trasna ar chara a bhí ina chónaí sa cheantar, a bhí ainmnithe Fionn. "Céard atá tú a dhéanamh?" arsa Fionn. "Táim ag dul go dtí an chathair mhór," arsa Seosamh. "Táim ag cuairt a thabhairt ar mo uncail." "Táim ag dul leat," arsa Fionn.
+
+Thosaigh siad ag siúl trí na sléibhte agus trí na gleannta. Bhí an lá ag dul chuig an tráthnóna, agus bhí an ghaoth ag séideadh láidir. Chuala siad fuaim éigin, ach ní raibh siad in ann a fháil amach céard é. "Cad é an fuaim sin?" arsa Seosamh. "Níl a fhios agam," arsa Fionn.
+
+Agus iad ag dul ar aghaidh, tháinig siad trasna ar loch mór. Bhí eitleán beag ag eitilt thar an loch, agus bhí daoine ag déanamh iarrachtaí é a ghabháil. "Céard atá ag dul don eitleán?" arsa Seosamh. "Tá daoine ag déanamh iarrachtaí é a ghabháil," arsa Fionn.
+
+Thosaigh siad ag siúl ar bharr an locha, agus chonaic siad duine beag ag snámh sa loch. "Céard atá tú a dhéanamh?" arsa Seosamh. "Táim ag snámh," arsa an duine beag. "Táim ag déanamh iarrachtaí an eitleán a ghabháil." "Cén chaoi a bhfuil tú ag déanamh é?" arsa Fionn. "Táim ag úsáid mo lámha agus mo chos," arsa an duine beag.
+
+Thosaigh siad ag siúl ar aghaidh, agus chonaic siad daoine ag déanamh iarrachtaí an bóithrín a dhéanamh. Bhí siad ag cur cloch agus ag déanamh iarrachtaí an bóithrín a dhéanamh. "Céard atá ag dul don bóithrín?" arsa Seosamh. "Tá daoine ag déanamh iarrachtaí an bóithrín a dhéanamh," arsa Fionn.
+
+Agus iad ag dul ar aghaidh, tháinig siad trasna ar chaisleán mór. Bhí daoine ag déanamh iarrachtaí an chaisleán a ghabháil. "Céard atá ag dul don chaisleán?" arsa Seosamh. "Tá daoine ag déanamh iarrachtaí an chaisleán a ghabháil," arsa Fionn.
+
+Thosaigh siad ag siúl trí na caisleán, agus chonaic siad rí agus banríon ag déanamh iarrachtaí an chaisleán a chosaint. "Céard atá ag dul don chaisleán?" arsa Seosamh. "Tá daoine ag déanamh iarrachtaí an chaisleán a ghabháil," arsa an rí. "Táim ag déanamh iarrachtaí an chaisleán a chosaint," arsa an banríon.
+
+Agus iad ag dul ar aghaidh, tháinig siad trasna ar oileán beag. Bhí daoine ag déanamh iarrachtaí an oileán a ghabháil. "Céard atá ag dul don oileán?" arsa Seosamh. "Tá daoine ag déanamh iarrachtaí an oileán a ghabháil," arsa Fionn.
+
+Thosaigh siad ag siúl trí na hoileán, agus chonaic siad duine mór ag déanamh iarrachtaí an oileán a chosaint. "Céard atá tú a dhéanamh?" arsa Seosamh. "Táim ag déanamh iarrachtaí an oileán a chosaint," arsa an duine mór. "Táim ag déanamh iarrachtaí na daoine a chosaint atá ag déanamh iarrachtaí an oileán a ghabháil."
+
+Agus iad ag dul ar aghaidh, tháinig siad trasna ar abhainn mhór. Bhí daoine ag déanamh iarrachtaí an abhainn a thrasnú. "Céard atá ag dul don abhainn?" arsa Seosamh. "Tá daoine ag déanamh iarrachtaí an abhainn a thrasnú," arsa Fionn.
+
+Thosaigh siad ag siúl ar bharr an abhainn, agus chonaic siad bád beag ag dul thar an abhainn. "Céard atá ag dul don bhád?" arsa Seosamh. "Tá daoine ag déanamh iarrachtaí an abhainn a thrasnú," arsa Fionn.
+
+Agus iad ag dul ar aghaidh, tháinig siad trasna ar forest mór. Bhí daoine ag déanamh iarrachtaí an forest a thrasnú. "Céard atá ag dul don forest?" arsa Seosamh. "Tá daoine ag déanamh iarrachtaí an forest a thrasnú," arsa Fionn.
+
+Thosaigh siad ag siúl trí na forest, agus chonaic siad duine beag ag déanamh iarrachtaí an forest a thrasnú. "Céard atá tú a dhéanamh?" arsa Seosamh. "Táim ag déanamh iarrachtaí an forest a thrasnú," arsa an duine beag. "Táim ag déanamh iarrachtaí na daoine a chosaint atá ag déanamh iarrachtaí an forest a thrasnú."
+
+Agus iad ag dul ar aghaidh, tháinig siad trasna ar sliabh mór. Bhí daoine ag déanamh iarrachtaí an sliabh a dhreapadh. "Céard atá ag dul don sliabh?" arsa Seosamh. "Tá daoine ag déanamh iarrachtaí an sliabh a dhreapadh," arsa Fionn.
+
+Thosaigh siad ag siúl trí na sliabh, agus chonaic siad duine mór ag déanamh iarrachtaí an sliabh a dhreapadh. "Céard atá tú a dhéanamh?" arsa Seosamh. "Táim ag déanamh iarrachtaí an sliabh a dhreapadh," arsa an duine mór. "Táim ag déanamh iarrachtaí na daoine a chosaint atá ag déanamh iarrachtaí an sliabh a dhreapadh."
+
+Agus iad ag dul ar aghaidh, th

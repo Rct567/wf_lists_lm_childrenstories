@@ -1,0 +1,93 @@
+<prompt>
+Please write a simple and easy-to-follow German children's story that is at least 1000 words long.
+It must be completely written in proper German (DE).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Ein Piratenschiff und die Schatzsuche nach dem verlorenen Glück.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>de</lang_id>
+
+```xml
+<title>Ein Piratenschiff und die Schatzsuche nach dem verlorenen Glück.</title>
+<body>
+<p>Es war einmal ein kleines Mädchen namens Lilli. Lilli hatte wunderschöne, blonde Locken, die wie Sonnenstrahlen in der Sonne glänzten. Sie wohnte in einem kleinen, bunten Haus direkt am Meer. Ihr größter Wunsch war es, einmal ein echtes Piratenschiff zu sehen. Sie liebte Geschichten von mutigen Seefahrern, verborgenen Schätzen und abenteuerlichen Reisen.</p>
+
+<p>Eines Tages, als Lilli am Strand spielte, entdeckte sie etwas ganz Besonderes. Am Horizont, als ob sie vom Meer geboren wäre, tauchte ein Schiff auf! Es war ein großes, wunderschönes Schiff mit schwarzen Segeln, die sich im Wind blähten. Auf dem Bug stand in goldenen Buchstaben: „Die Seeschwalbe“. Und tatsächlich, als es näher kam, erkannte Lilli, dass es ein Piratenschiff war!</p>
+
+<p>Mit großen Augen starrte Lilli das Schiff an. Sie sah, wie es langsam näherkam und schließlich in einer kleinen Bucht vor Anker ging. Mutig, aber auch ein wenig ängstlich, beschloss sie, sich dem Schiff zu nähern. Sie rannte so schnell sie konnte über den Sand, ihre Füße hinterließen winzige Abdrücke im weichen Boden. </p>
+
+<p>Als sie endlich am Ufer ankam, wo das Schiff lag, traute sie ihren Augen kaum. Ein großer, bärtiger Pirat mit einer Augenklappe stand am Bug. Er trug einen zerzausten Hut und hatte einen Papagei auf der Schulter. Der Papagei, der übrigens Paul hieß, zwitscherte fröhlich. "Ahoi, kleines Mädchen!", brummte der Pirat mit einer rauen Stimme. "Wer bist denn du und was treibst du hier?"</p>
+
+<p>Lilli, immer noch etwas eingeschüchtert, antwortete: "Ich heiße Lilli und ich wollte schon immer ein echtes Piratenschiff sehen!"</p>
+
+<p>Der Pirat lachte. Es war ein lautes, kräftiges Lachen. "Na, dann komm an Bord, Kleines! Ich bin Kapitän Rotschopf und das hier ist mein Schiff, die Seeschwalbe." Er winkte Lilli zu. "Komm, komm! Steig an Bord!"</p>
+
+<p>Mit einem breiten Grinsen im Gesicht kletterte Lilli über die Gangway und betrat das Piratenschiff. Es war noch viel spannender, als sie es sich vorgestellt hatte! Überall waren Seile, Kanonen, und Schatzkisten. Die Decks knarrten unter ihren Füßen. Der Geruch von Salz, Holz und Abenteuer erfüllte die Luft.</p>
+
+<p>"Wir sind gerade auf Schatzsuche!", erklärte Kapitän Rotschopf. "Wir suchen nach dem verlorenen Glück. Ein Schatz, der viel wertvoller ist als Gold oder Juwelen."</p>
+
+<p>"Was ist das denn für ein Schatz?", fragte Lilli neugierig.</p>
+
+<p>"Das ist eine gute Frage, kleines Mädchen", sagte der Kapitän. "Das weiß man erst, wenn man ihn gefunden hat! Aber dieser Schatz, das verlorene Glück, ist ein Schatz, der uns allen Glück bringen kann. Er soll Freude und Frieden in unsere Herzen bringen."</p>
+
+<p>Kapitän Rotschopf erzählte Lilli von der Legende des verlorenen Glücks. Es hieß, dass es in Form eines goldenen Kompasses irgendwo auf einer Insel versteckt sei. Der Kompass würde nicht den Weg zum Gold zeigen, sondern den Weg zum Glück. Auf jeder Station, auf jeder Aufgabe, die man erledigen musste, würde man ein Stück vom Glück finden.</p>
+
+<p>"Willst du mit uns suchen?", fragte der Kapitän.</p>
+
+<p>Lilli nickte begeistert. "Ja! Ja, unbedingt!"</p>
+
+<p>Und so begann Lillis großes Abenteuer auf der Seeschwalbe. Sie segelten hinaus aufs Meer. Paul, der Papagei, flatterte über ihnen und rief: "Ahoi! Auf zum Glück!"</p>
+
+<p>Die Reise war voller Herausforderungen. Zuerst mussten sie eine Seekarte entziffern. Dann mussten sie einem Strum ausweichen, der das Schiff fast versenkt hätte. Und sie begegneten anderen Piraten, die es auch auf das verlorene Glück abgesehen hatten.</p>
+
+<p>Als sie die Insel endlich erreichten, auf der sich der Schatz befinden sollte, war Lilli sehr aufgeregt. Die Insel war dicht bewachsen und es gab viele gefährliche Tiere.</p>
+
+<p>"Gut, meine kleinen Freunde," sagte Kapitän Rotschopf, als sie auf der Insel ankerten. "Hier ist der Ort, wo wir den Kompass suchen sollen. Aufgepasst! Lasst die Augen offen und helft einander. Wir werden alle zusammen nach dem verlorenen Glück suchen."</p>
+
+<p>Zuerst fanden sie einen Hinweis, der in einem Baumstamm versteckt war. Auf dem Hinweis stand: "Folgt dem Pfad des singenden Flusses."</p>
+
+<p>Also folgten Lilli und die Piraten dem Pfad entlang eines wunderschönen Flusses. Das Wasser plätscherte fröhlich vor sich hin, und Vögel sangen in den Bäumen. Nach einer Weile erreichten sie eine kleine Höhle.</p>
+
+<p>In der Höhle fanden sie eine weitere Nachricht. "Findet den Hüter der Weisheit und fragt ihn nach dem Weg."</p>
+
+<p>Also suchten sie nach dem Hüter der Weisheit. Nach langer Suche fanden sie einen alten, weisen Affen, der auf einem Felsen saß. Der Affe, der übrigens Professor Klug hieß, lächelte sie an.</p>
+
+<p>"Ihr sucht nach dem verlorenen Glück?", fragte der Affe.</p>
+
+<p>"Ja!", antwortete Lilli.</p>
+
+<p>"Dann müsst ihr euch beweisen", sagte Professor Klug. "Helft dem Wald! Sammelt das Müll auf, den der Sturm hier gelassen hat."</p>
+
+<p>Ohne zu zögern, begannen Lilli und die Piraten den Müll aufzusammeln. Sie reinigten den Wald von Müll. Sie arbeiteten hart und sie halfen einander. Der Wald wurde wieder sauber und schön. Professor Klug war sehr beeindruckt.</p>
+
+<p>"Nun gut", sagte der Affe. "Der Weg ist frei! Der Kompass liegt versteckt unter dem alten Baum der Freundschaft."</p>
+
+<p>Also gingen sie zum Baum der Freundschaft und suchten. Tatsächlich, unter dem Baum, unter vielen Wurzeln, entdeckten sie den goldenen Kompass! Er strahlte in der Sonne. Er sah genauso aus, wie sie ihn sich vorgestellt hatten.</p>
+
+<p>Kapitän Rotschopf hob den Kompass vorsichtig auf. "Wir haben es geschafft! Wir haben das verlorene Glück gefunden!"</p>
+
+<p>Aber als er den Kompass in die Hand nahm, passierte etwas Unerwartetes. Er begann zu leuchten und zog Lilli zu sich.</p>
+
+<p>"Der Kompass... er reagiert auf dich!", sagte der Kapitän erstaunt.</p>
+
+<p>Der Kompass führte Lilli an eine Stelle, wo eine kleine Schatzkiste versteckt war. In der Schatzkiste fanden sie... eine Zeichnung von sich selbst, wie sie lachte und mit den Piraten spielte. Ein Liedtext und ein Gedicht über Freundschaft, Mut und Abenteuer. Dazu ein paar Schokoladenmünzen und eine kleine Feder, die aussah, wie die von Paul, dem Papagei. </p>
+
+<p>Lilli verstand nun, was das verlorene Glück war. Es war nicht nur ein Schatz, es war die gemeinsame Reise, die Freundschaft und die Freude, die sie erlebt hatten. Es war die Liebe, die sie füreinander empfanden.</p>
+
+<p>Die Piraten freuten sich über Lillis Fund. Sie merkten nun, dass es nicht nur darum ging, einen Schatz zu finden, sondern auch darum, gute Menschen zu sein, Spaß zu haben und zusammenzuhalten.</p>
+
+<p>Sie kehrten zur Seeschwalbe zurück und feierten den Fund. Sie sangen Lieder, aßen Kekse und erzählten sich Geschichten. Lilli fühlte sich glücklich und geborgen. Sie hatte eine Familie gefunden. Jeder an Bord fühlte sich verbunden und fröhlich.  Der Kompass funktionierte für sie alle.</p>
+
+<p>Am nächsten Morgen verabschiedete sich Lilli von Kapitän Rotschopf und seinen Piraten. Sie versprach, sie bald wieder zu besuchen. Kapitän Rotschopf drückte sie fest. Paul, der Papagei, zwitscherte: "Komm bald wieder, kleines Mädchen!"</p>
+
+<p>Lilli rannte zurück zu ihrem Haus am Meer, ihre Locken flatterten im Wind. Sie hatte ein unvergessliches Abenteuer erlebt. Sie hatte das verlorene Glück gefunden, und das war viel wertvoller als Gold und Juwelen.</p>
+
+<p>Abends, als die Sonne langsam unterging und das Meer in wunderschönen Farben leuchtete, saß Lilli am Strand und dachte an ihre Reise. Sie wusste jetzt, dass das verlorene Glück in jedem von uns steckt. Man musste nur danach suchen.</p>
+
+<p>Von diesem Tag an hatte Lilli viele Abenteuer. Sie verbrachte oft Zeit auf der Seeschwalbe und lernte viel von Kapitän Rotschopf und seinen Piraten. Und sie wusste immer, wo sie ihr verlorenes Glück finden konnte: in den Herzen ihrer Freunde, in den Abenteuern des Lebens und in dem Wissen, dass Freundschaft und Liebe die größten Schätze sind, die es gibt.</p>
+</body>
+```

@@ -1,0 +1,73 @@
+<prompt>
+Please write a dialog-based Scottish Gaelic children's story that is at least 1000 words long.
+It must be completely written in proper Scottish Gaelic (GD).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Bàtaichean air an Eilean Sgitheanach'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>gd</lang_id>
+
+<title>Bàtaichean air an Eilean Sgitheanach</title>
+<body>
+Aon latha, air an eilean sgitheanach, bha trì pàistean a' cluich. Bha Iona, a nighean òg le sùilean dorcha, a' seinn ceòl a' cleachdadh claidheamh le gainmheach. Bha Finn, leanabh le gruaidhean dubha, a' togail caisteal de chlach-mòr. Agus bha Iain, le a chuid gruaidhean gorm, a' ruith timcheall air an eilean, a' coimhead air an t-sruth.
+
+"Tha e a' coimhead mar gum biodh bàtaichean ann an sruth," thuirt Iona.
+
+"Tha, is e sin iad, a Iona," fhreagair Iain. "Tha iad a' coimhead mar gum biodh iad a' sleamhnachadh air an uisge."
+
+"A bheil thu ag ràdh gum faodadh sinn iad a lorg?" chuir Finn a chùis air.
+
+"A dh'aithghearr," fhreagair Iain.
+
+Dh'fhalbh iad gu lèir gu h-ìosal, far an robh an t-sruth. Bha na sruthan a' gaoil, agus bha na craobhan agus na duilleagan a' seinn am measg na gaoithe. Bha e coltach ri ceòl air a chluich le nàdar fhèin.
+
+"Feuch, tha bàta beag ann," thuirt Iona. Bha an bàta beag de ghràinneachd òir, a' sgaoileadh solas ann an solas na gréine.
+
+"Tha e breagha," thuirt Iain.
+
+"Ciamar as urrainn dhuinn faighinn ris?" chuir Finn a chùis air.
+
+"Faodaidh sinn a ghluasad le claidheamh," fhreagair Iona, agus ghlac i a claidheamh.
+
+"Ach chan eil e furasta," thuirt Iain, "tha an uisge a' gluasad."
+
+"Tha," fhreagair Finn. "Agus tha e coltach gum biodh e àrd."
+
+Dh'fhalbh Iain gu lèir chun uisge.  Bha na bàtaichean beaga a' sleamhnachadh, a' gluasad leis a' ghealach.  Bha iad a' coimhead mar gum biodh iad a' seinn a' ghràidh.
+
+"A bheil thu ag ràdh gum feum sinn a chùisneachadh?" thuirt Iona, agus chaidh i gu faiceallach chun uisge.
+
+"Is e sin a tha an urra dhuinn," thuirt Iain.  "Ach, chan urrainn dhuinn faighinn ris mura biodh sinn ag obair còmhla."
+
+Dh'fhalbh Finn gu lèir, agus thog e clach mòr.  Chuir e i chun an uisge, agus b'e sin a chùisneachadh an t-sruth.  Ghluais iad gu faiceallach, air uachdar an uisge.
+
+"Feuch, tha sinn air bàta a lorg!" thuirt Iona.
+
+"Ach, chan eil sinn a' faicinn a h-uile bàta," thuirt Iain.
+
+"Tha iad air chall," thuirt Finn.
+
+"Mar sin, feumaidh sinn iad a lorg," thuirt Iona.
+
+Fhuair iad ceàrn eile den t-sruth, agus chunnaic iad bàta beag eile, a' gaoil leis a' ghaoith. Bha e de dhàimh òir agus uaine.  Bha e coltach ri cùisneachd.  Chuir iad a ghluasad, agus dh'fhalbh iad ris an ceòl.
+
+"Tha e breagha," thuirt Iona.  "Tha sinn a' faicinn barrachd bàtaichean."
+
+Chuir iad a ghluasad, agus chunnaic iad bàtaichean eile, gach fear le dath eadar-dhealaichte. Bha cuid dhiubh de ghràinneachd, agus bha cuid dhiubh de ghluasad. Chuir iad a' sleamhnachadh air an t-sruth, air an eilean, agus air na creagan.
+
+"Tha a h-uile bàta air an eilean Sgitheanach," thuirt Iain.
+
+"Tha iad a' seinn a' ghràidh," thuirt Finn.
+
+"Tha sinn a' cluinntinn an t-sruth agus an gaoith," thuirt Iona.
+
+Dh'fhalbh iad timcheall air na bàtaichean, a' seinn agus a' cluich, a' coimhead mar gum biodh iad a' coimhead air na bàtaichean. Bha iad a' seinn ceòl nan bàtaichean.
+
+Bha e coltach ri draoidheachd. Tha sinn a' seinn an t-sruth leis a' ghaoith.
+
+Agus mar sin, chluich iad air an eilean Sgitheanach gu h-àrd, a' coimhead air na bàtaichean a bha a' sleamhnachadh leis a' ghràidh.
+</body>

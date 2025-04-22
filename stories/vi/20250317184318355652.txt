@@ -1,0 +1,67 @@
+<prompt>
+Please write a simple and easy-to-follow Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Vua Cá Mập Bé Và Cộng Đồng Con Cá Yêu Kiều'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>vi</lang_id>
+
+```xml
+<title>Vua Cá Mập Bé Và Cộng Đồng Con Cá Yêu Kiều</title>
+<body>
+Ngày xửa ngày xưa, ở một vùng biển xanh thẳm, nơi những rạn san hô rực rỡ ôm ấp biết bao sinh vật biển, có một chú cá mập bé bỏng tên là Tôm. Tôm không giống những con cá mập khác. Thay vì thích những trò nghịch ngợm, thích ăn những con cá nhỏ hơn, Tôm lại thích khám phá và kết bạn. Tôm có một bộ răng nhỏ xinh, không hề sắc nhọn như các chú cá mập lớn, và đôi mắt to tròn luôn ánh lên vẻ tò mò.
+
+Tôm sống trong một gia đình cá mập rất lớn, nhưng trái tim của chú lại hướng về những người bạn khác. Mỗi ngày, Tôm đều lén trốn ra khỏi hang ổ để đến với khu vườn san hô. Ở đó, chú gặp gỡ những con cá nhiều màu sắc, những chú sao biển lấp lánh và cả những rặng san hô đủ hình dáng.
+
+Trong cộng đồng cá ở rạn san hô, có một nàng cá rất xinh đẹp tên là Linh. Linh là một cô cá óng ánh với chiếc đuôi dài duyên dáng và bộ vây rực rỡ. Cô là niềm tự hào của cộng đồng cá yêu kiều, luôn được mọi người yêu mến bởi tính tình dịu dàng, tốt bụng và luôn sẵn lòng giúp đỡ người khác.
+
+Tuy nhiên, các con cá khác trong vùng lại sợ Tôm, vì chúng nghĩ Tôm là một loài cá mập đáng sợ. Mỗi khi Tôm đến gần, chúng đều hoảng sợ bỏ chạy, trốn vào trong những rặng san hô. Tôm buồn bã lắm. Chú chỉ muốn chơi cùng, muốn được chia sẻ những điều thú vị mà chú khám phá được.
+
+Một ngày nọ, khi Tôm đang lang thang gần rặng san hô, chú nghe thấy tiếng kêu cứu thảm thiết. "Cứu tôi với! Cứu tôi với!". Tôm vội vàng bơi đến. Thì ra, Linh, cô cá xinh đẹp, đã bị mắc kẹt trong một lưới đánh cá bỏ hoang. Cái lưới rất chắc chắn và Linh đang cố gắng vùng vẫy để thoát ra.
+
+Những con cá khác nhìn thấy vậy, chúng sợ hãi trốn biệt. Chúng nghĩ rằng, cá mập sẽ chẳng bao giờ cứu giúp ai. Nhưng Tôm thì khác. Chú không hề do dự. Ngay lập tức, Tôm bơi đến gần Linh.
+
+"Đừng sợ, tôi sẽ giúp cô!" - Tôm nói. Giọng nói của chú dịu dàng, khác hẳn với những gì các con cá khác tưởng tượng về một con cá mập.
+
+Linh nhìn Tôm, trong ánh mắt của cô vẫn còn vẻ sợ hãi. "Nhưng... nhưng anh là cá mập..." - Linh run giọng.
+
+"Tôi không giống những con cá mập khác. Tôi sẽ giúp cô." - Tôm khẳng định.
+
+Tôm cố gắng dùng hàm răng nhỏ của mình để gặm đứt những sợi lưới. Ban đầu, Tôm gặp rất nhiều khó khăn. Sợi lưới rất dai, răng của chú lại quá nhỏ. Nhưng Tôm không bỏ cuộc. Chú cố gắng hết sức mình. Chú cắn, chú gặm, chú xoay người.
+
+Thời gian trôi qua, từng sợi lưới một dần bị đứt. Mồ hôi (là nước biển) chảy ròng ròng trên người Tôm. Cuối cùng, sau rất nhiều nỗ lực, Tôm đã gặm đứt được sợi lưới cuối cùng. Linh được tự do.
+
+Linh vui mừng khôn xiết. Cô bơi đến ôm chầm lấy Tôm. "Cảm ơn anh rất nhiều, cá mập Tôm!" - Linh nói. "Anh đã cứu tôi!"
+
+Tôm cảm thấy vui sướng vô cùng. Chú đã cứu được một người bạn. Chú đã chứng minh được rằng cá mập không phải lúc nào cũng đáng sợ.
+
+Tiếng ồn ào, tiếng hò reo bắt đầu vang lên. Những con cá khác đã dám ló đầu ra khỏi nơi ẩn nấp. Chúng chứng kiến tất cả những gì Tôm đã làm. Chúng ngạc nhiên, rồi dần dần thay đổi thái độ.
+
+"Tôm đã cứu Linh!"
+"Tôm là một con cá mập tốt bụng!"
+"Chúng ta đã hiểu lầm Tôm rồi!"
+
+Các con cá bắt đầu vây quanh Tôm và Linh. Chúng cùng nhau cảm ơn Tôm. Chúng xin lỗi vì đã hiểu lầm Tôm trong suốt thời gian qua. Tôm vui mừng đón nhận những lời xin lỗi và tình cảm của mọi người.
+
+Từ hôm đó, Tôm được mọi người trong cộng đồng cá yêu kiều chào đón. Chú trở thành một phần của rạn san hô, một người bạn đáng tin cậy và luôn sẵn lòng giúp đỡ. Chú và Linh trở thành đôi bạn thân thiết. Họ cùng nhau khám phá biển cả, chia sẻ những điều thú vị và luôn giúp đỡ những người bạn khác.
+
+Một ngày nọ, một cơn bão lớn ập đến. Gió thổi mạnh, sóng biển dâng cao. Rạn san hô bị ảnh hưởng nghiêm trọng. Những rặng san hô bị gãy, những con cá nhỏ bị cuốn trôi. Cộng đồng cá hoảng loạn.
+
+Tôm và Linh cùng nhau kêu gọi mọi người giữ bình tĩnh. Tôm dùng sức mạnh của mình, hướng dẫn các con cá nhỏ đến nơi an toàn. Chú dùng thân mình bảo vệ những rặng san hô còn lại. Linh thì giúp đỡ những con cá bị thương.
+
+Sau nhiều giờ chiến đấu với cơn bão, cuối cùng biển cả cũng trở lại bình yên. Nhưng rạn san hô đã bị tàn phá nặng nề. Nhiều con cá bị thương, nhà cửa của chúng bị phá hủy.
+
+Tôm và Linh cùng nhau lên kế hoạch giúp đỡ mọi người. Tôm kêu gọi những con cá mập lớn hơn đến giúp đỡ. Những con cá mập, lúc đầu còn do dự, nhưng trước tấm lòng của Tôm, chúng cũng đồng ý. Chúng cùng nhau sửa chữa những rặng san hô bị gãy, xây dựng lại nhà cửa cho các con cá nhỏ. Linh thì giúp đỡ chăm sóc những con cá bị thương.
+
+Cả cộng đồng cá cùng nhau làm việc, ngày đêm. Nhờ sự giúp đỡ của Tôm, Linh và sự đoàn kết của tất cả mọi người, rạn san hô dần dần hồi phục. Những rặng san hô mới mọc lên, những con cá vui vẻ bơi lội.
+
+Từ câu chuyện này, Tôm được mọi người gọi là "Vua Cá Mập Bé". Chú không phải là vua vì quyền lực, mà vì lòng dũng cảm, sự tốt bụng và tình yêu thương mà chú dành cho mọi người. Chú đã chứng minh cho tất cả thấy rằng, dù có hình dáng như thế nào, quan trọng nhất vẫn là tấm lòng và sự tử tế.
+
+Cộng đồng con cá yêu kiều, nhờ có Tôm, đã trở thành một cộng đồng đoàn kết, yêu thương và luôn sẵn sàng giúp đỡ lẫn nhau. Tình bạn, sự sẻ chia và lòng tốt đã giúp họ vượt qua mọi khó khăn, xây dựng một cuộc sống hạnh phúc và bình yên dưới đáy đại dương xanh thẳm. Và câu chuyện về Vua Cá Mập Bé Tôm vẫn được kể mãi, như một bài học về tình bạn, sự dũng cảm và lòng nhân ái cho các thế hệ cá sau này.
+</body>
+```

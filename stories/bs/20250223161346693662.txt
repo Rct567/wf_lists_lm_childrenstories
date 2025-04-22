@@ -1,0 +1,45 @@
+<prompt>
+Please write a funny Bosnian children's story that is at least 1000 words long.
+It must be completely written in proper Bosnian (BS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Magični vrt sa nedajućim cvijećem'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>bs</lang_id>
+
+<title>Magični vrt sa nedajućim cvijećem</title>
+<body>
+Petar, mali dječak sa kosom boje suncokreta i očima koje su sjale kao dva bisera, živio je u malom selu ispod planine Tresnje.  Njegova kuća se nalazila tik pored magičnog vrta, vrta punog cvijeća koje je odbijalo da se pokori.
+
+Cvijeće u tom vrtu nije bilo obično.  Ruže su se bunile protiv rezanja, tratinčice su se skrivale iza kamenja kao da ih je strah od prskanja vodom, a ljiljani su se prepirali o tome ko je najljepši, uvijek zaboravljajući na to kako bi trebali mirisati.  Niko nije znao zašto je cvijeće tako nedajuće, ali svi su se slagali da je to baš čudno.  A Petar je bio strašno znatiželjan.
+
+Jednog sunčanog jutra, Petar se, noseći svoju malenu košaru punu pčelinjeg meda, uputio prema magičnom vrtu.  Želio je vidjeti kako je cvijeće danas.  Kada je stigao, čuo je glasne prepirke.  "Ja sam najljepši!", vrištala je ruža sa najvećim cvjetovima. "Ne, ja!", odgovorila je ruža sa najmirisnijim cvjetovima.  Tratinčice su se sakrivale iza kamenja, šapćući među sobom.
+
+Petar je polako prišao.  Cvijeće je, videći ga, stalo sa svađama.  Poznali su ga kao dječaka koji je sa njima govorio na najljepšem jeziku, jeziku ljubavi i pažnje.  On je, naime, bio jedini koji je razumio njihove šapate i šuštanja.
+
+"Dobro jutro, draga cvijeće", rekao je Petar, nježno. "Kako ste danas?"
+
+Ruže su se sramežljivo pomaknule, dok su tratinčice i ljiljani polako pokazali svoje lijepe glavice.  Petar je izvukao svoj medo i podijelio ga među cvijeće.
+
+"Hvala, Petar", rekao je cvijet sa najljepšim lišćem.  "Vaš medo nas čini sretnima."
+
+"Šta je, zapravo, razlog vašoj nedaji?", upitao je Petar.
+
+Ljiljan, najviši u vrtu, je odgovorio, "Mi smo jednostavno umorni od toga što nismo baš kao što bi trebali biti.  Uvijek se borimo da udovoljimo očekivanjima."
+
+"Ali Petar, svi ste predivni na svoj način", kazao je Petar.  "Vaša ljepota leži u vašoj raznolikosti.  Nedajanje je samo odraz vaše slobode."
+
+Cvijeće je razmišljalo, a zatim je jedna ruža rekla: "Možda imaš pravo, Petar.  Možda bi trebalo da budemo slobodniji."
+
+Od tog dana, cvijeće u magičnom vrtu nije prestajalo da se prepira, ali to je bila drugačija vrsta prepirke.  Sad su se prepirali o tome ko je najljepši način, ko je najsretniji, ko najbolje miriše... ali sa osjećajem zadovoljstva i prijateljstva.  A Petar je bio sretan, jer je cvijeće konačno pronašlo mir u svojoj različitosti.
+
+Jednog dana, došao je stari seljak sa svojim malim unučićima.  Gledali su, oduševljeni, cvijeće koje je, napokon, raslo u svojoj punoj ljepoti.  Unučić je pitao Petra šta je napravio.  Petar je pokazao na cvijeće i rekao: "Naučili smo da je ljepota u raznolikosti, a ne u tome da se svi slažemo."
+
+Od tada, Petar je postao poznat kao dječak koji je naučio cvijeće. Iako je u vrtu i dalje cvjetalo nedajuće cvijeće, to je sada bio vrt radosti i prijateljstva, pun ljepote i raznolikosti.
+
+A mali Petar? On je nastavio da posećuje vrt svaki dan, šapćući predivne stvari svakom cvijeću.  Jer on je znao da je ljepota u tome da se prihvatite onakvima kakvi jeste, a ne kako bi trebali biti.
+</body>

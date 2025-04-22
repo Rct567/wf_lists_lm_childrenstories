@@ -1,0 +1,61 @@
+<prompt>
+Please write a silly Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Mrówka i Jej Długi Marsz'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pl</lang_id>
+
+```xml
+<title>Mrówka i Jej Długi Marsz</title>
+<body>
+Pewnego pięknego, słonecznego poranka, kiedy rosół w garnkach polskich mam wrzał w najlepsze, mała mrówka o imieniu Antek (a właściwie Mrówka Antek, bo tak ją wszyscy wołali) obudziła się w swoim maleńkim, podziemnym mieszkaniu. Nie była to zwykła mrówka, Antek. Antek uwielbiał przygody, choć wcale nie był silny. Ba! Potrafił podnieść zaledwie okruch chleba.
+
+„Dziś wyruszę na wyprawę!” – pomyślał Antek, zadowolony i pełen werwy, tupiąc malutkimi nóżkami. Wyjście z mrowiska zajęło mu całe wieki, czyli jakieś trzy minuty. Drżąc z emocji, mrówka Antek wyjrzał na świat. Ach, jaki piękny! Połyskujące rosą źdźbła trawy, mrugające do niego kwiaty i potężny dąb, który wydawał się sięgać samego nieba.
+
+„Dokąd pójdę?” – zastanowił się Antek. Zamiast szukać pożywienia, bo o tym myślały zwykłe mrówki, Antek chciał czegoś... niezwykłego! „Pójdę do krainy truskawek! Słyszałem, że tam rosną najsłodsze na świecie!”
+
+I tak oto ruszył w długi marsz. Jego pierwsze kroki skierowane były ku ogromnej kałuży. Antek, wciąż nie potrafiąc dobrze pływać (bo i jak mrówka miała się nauczyć pływać?), spojrzał na nią z powagą. „Przejdę!” – postanowił. Powoli, z trudem, przeskakiwał z jednej kropli do drugiej, cały czas obawiając się zamoczenia. Zajęło mu to dłuższą chwilę, aż w końcu dotarł na drugi brzeg. Był mokry i trochę zmęczony, ale szczęśliwy, że dał radę.
+
+Następnie czekało go wejście na kamień. Był to ogromny głaz, o jakiego nawet największy siłacz by się obawiał. Antek wspiął się na niego, wspierając się małymi nóżkami, pomagając sobie wąsami i od czasu do czasu, wydając ciche: „Ups! Ufff! Hejże!”. Dotarcie na szczyt kamienia było jak zdobycie szczytu Mount Everestu dla mrówki. Na szczycie kamienia zobaczył wspaniały widok: pole maków, których czerwone płatki falowały na wietrze. „Ależ pięknie!” – westchnął Antek.
+
+Szedł dalej, w kierunku, który mu się wydawał właściwy. Droga prowadziła przez las. Antek podziwiał potężne dęby, w których mieszkali mądrzy staruszkowie dzięcioły. Uważnie obserwował pająki budujące swoje skomplikowane sieci, przypominające mu skomplikowane zadania z matematyki. Przechodził obok wiewiórek zbierających orzechy, które śmiesznie przewracały się na ziemi, a Antek nie mógł się powstrzymać od śmiechu.
+
+Po wielu godzinach marszu, Antek poczuł się bardzo głodny. Jego mały brzuszek zaczął głośno burczeć. "Może czas na małą przerwę na lunch?" - pomyślał, zerkając na małą, samotną, pachnącą truskawkę, która rosła obok ścieżki. Zamiast truskawki, na jego drodze pojawiła się żaba o imieniu Królewicz Żabuś, która, z niezrozumiałych dla Antka powodów, miała na sobie koronę.
+
+„Witaj, mała mrówko!” – zagadał Królewicz Żabuś. Głos miał bardzo głęboki, jakby pochodził z głębin jeziora. „Dokąd tak wędrujesz?”
+
+„Szukam krainy truskawek!” – odpowiedział Antek, dumny ze swojego celu.
+
+Królewicz Żabuś zamyślił się na chwilę, a potem, wskazując łapą na pobliską polankę, powiedział: „Hmm...kraina truskawek… To bardzo daleko, ale tam, na końcu polany, rosną przepyszne truskawki. I wiesz co? Może spróbujesz? Zapraszam!”
+
+Antek bardzo ucieszył się z zaproszenia. Ruszył w stronę polany, nie przejmując się zmęczeniem. Polana okazała się duża i pełna przeszkód. Antek musiał pokonać kolejne trudności: przeszkody w postaci konwalii, poślizgnął się na ślimaku, ale na szczęście nie zrobił sobie krzywdy.
+
+W końcu dotarł do końca polany i… O, radości! Zobaczył ogromne pole truskawek! Były piękne, czerwone i pachniały tak obłędnie, że Antek poczuł się jak w raju. Zjadł trzy ogromne truskawki (które i tak były za duże dla niego) i poczuł się najszczęśliwszą mrówką na świecie. Po sycącym posiłku położył się na miękkiej trawie i spojrzał w górę. Słońce zachodziło, malując niebo w piękne kolory: pomarańczowe, różowe i fioletowe.
+
+„Wow!” – wyszeptał Antek. „Ten dzień był niesamowity!”
+
+Kiedy robiło się coraz ciemniej, Antek postanowił wracać do domu. Marsz powrotny był tak samo długi, jak ten pierwszy, ale tym razem Antek nie czuł zmęczenia. Myślał o przygodach, które go spotkały, o Królewiczu Żabisiu, o truskawkach…
+
+Podczas drogi powrotnej natknął się na zmartwioną biedronkę.
+
+„Co się stało?” – zapytał Antek, chociaż już wiedział, że coś jest nie tak.
+
+„Zgubiłam swoje plamki!” – jęknęła biedronka. „Potrzebne są mi do szkoły! Bez nich nikt mnie nie pozna!”
+
+Antek pomyślał chwilę. Był tylko małą mrówką, ale miał wielkie serce.
+
+„Spokojnie!” – powiedział. „Spróbujemy Ci pomóc!”
+
+Razem poszli w poszukiwaniu plamek. Przeszukiwali całą drogę, aż w końcu, pod dużą gruszką, znaleźli je wszystkie! Biedronka ucieszyła się bardzo i dziękowała Antkowi, dając mu w zamian listek truskawki.
+
+Dotarł do mrowiska bardzo późno. Rodzice Antka byli bardzo zmartwieni, że tak długo go nie było. Opowiedział im o swojej przygodzie, o kałuży, o kamieniu, o truskawkach i o biedronce. Rodzice wysłuchali go z uśmiechem na twarzy, dumni ze swojego dzielnego synka.
+
+Nazajutrz Antek obudził się i… znowu wyruszył na przygodę! Ale tym razem chciał iść do krainy malin! Znalazł je po dwóch godzinach. Tak się zakończyła przygoda Antka, mrówki, która kochała przygody. Od tej pory każdego dnia wymyślał nowe wyprawy, przekonując się, że nawet najmniejsza mrówka może przeżyć największą przygodę.
+</body>
+```

@@ -1,0 +1,38 @@
+<prompt>
+Please write a uncomplicated Somali children's story that is at least 1000 words long.
+It must be completely written in proper Somali (SO).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Sheekada Qorraxda iyo Qorrax-yaraha'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>so</lang_id>
+
+<title>Sheekada Qorraxda iyo Qorrax-yaraha</title>
+<body>
+Waxaa jira dabayl ay ku nool yihiin labo qof, mid ka mid ah waxay ahayn qorrax, qofkii kalena waxa uu ahaa qorrax-yaraha. Qorraxda waxay ugu magac dartay Qor, waxaana ugu magac dartay qorrax-yaraha Yar. 
+
+Qor iyo Yar waxay ahaayeen la tashaya, waxayna wada shaqeeyeen si ay u hagaan dhulka iyo xayawaanka. Qor waxay ku shaqeynayeen dhinaca qorraxda, waxayna uga darayeen dhulka iyo xayawaanka caafimaad iyo nafaqo. Yar waxay ku shaqeynayeen dhinaca qorrax-yaraha, waxayna uga darayeen dhulka iyo xayawaanka duurjoog iyo barwaaqo.
+
+Waxaa jira maalmo, markii Qor iyo Yar ay wada shaqeyeen, dhulka iyo xayawaanka ayaa ugu guddoon inay ka heli karaan nafaqada iyo caafimaadka. Laakiin, waxaa jira maalmo, markii Qor iyo Yar ay isku khilaafayeen, dhulka iyo xayawaanka ayaa ugu guddoon inay ka heli karaan duurjoog iyo barwaaqo.
+
+Maalin waxaa yimid qof, waxa uu ahaa gees, geeska waxa uu ugu magac dartay Geelo. Geelo waxay ahaayeen gees caafimaad badan, waxa uu ahaa gees nafaqeysan. Geelo waxay ku soo wada duulay qorraxda iyo qorrax-yaraha, si uu uga ogaado waxa ay ku shaqeyaan.
+
+Qor iyo Yar waxay ku soo dhaweeyeen Geelo, waxayna kuugu sheekeeyeen sheekooyinka ay ku shaqeyaan. Qor waxay ku sheekeeyeen Geelo, "Waxaan ku shaqeynaya dhinaca qorraxda, waxaan uga darayaa dhulka iyo xayawaanka caafimaad iyo nafaqo." Yar waxay ku sheekeeyeen Geelo, "Waxaan ku shaqeynaya dhinaca qorrax-yaraha, waxaan uga darayaa dhulka iyo xayawaanka duurjoog iyo barwaaqo."
+
+Geelo waxay ahaayeen gees caafimaad badan, waxa uu ahaa gees nafaqeysan, waxa uu ku guddoon inuu u ogaado waxa Qor iyo Yar ay ku shaqeyaan. Geelo waxay ku yidhi Qor iyo Yar, "Waxaan ku guddoon inaan u ogaado waxa ay ku shaqeyaan, waxaan ku guddoon inaan uga caafimaado dhulka iyo xayawaanka."
+
+Qor iyo Yar waxay ku guddoon inay u ogaadaan Geelo, waxayna kuugu sheekeeyeen sheekooyinka ay ku shaqeyaan. Qor waxay ku sheekeeyeen Geelo, "Waxaan ku shaqeynaya dhinaca qorraxda, waxaan uga darayaa dhulka iyo xayawaanka caafimaad iyo nafaqo, waxaana ugu guddoon inay ka heli karaan nafaqada iyo caafimaadka markii aan wada shaqeyno Yar." Yar waxay ku sheekeeyeen Geelo, "Waxaan ku shaqeynaya dhinaca qorrax-yaraha, waxaan uga darayaa dhulka iyo xayawaanka duurjoog iyo barwaaqo, waxaana ugu guddoon inay ka heli karaan duurjoog iyo barwaaqo markii aan wada shaqeyno Qor."
+
+Geelo waxay ahaayeen gees caafimaad badan, waxa uu ahaa gees nafaqeysan, waxa uu ku guddoon inuu u ogaado waxa Qor iyo Yar ay ku shaqeyaan. Geelo waxay ku yidhi Qor iyo Yar, "Waxaan ku guddoon inaan u ogaado waxa ay ku shaqeyaan, waxaan ku guddoon inaan uga caafimaado dhulka iyo xayawaanka, waxaana ugu guddoon inay ka heli karaan nafaqada iyo caafimaadka markii aan wada shaqeyno."
+
+Qor iyo Yar waxay ku guddoon inay u ogaadaan Geelo, waxayna kuugu sheekeeyeen sheekooyinka ay ku shaqeyaan. Qor waxay ku sheekeeyeen Geelo, "Waxaan ku shaqeynaya dhinaca qorraxda, waxaan uga darayaa dhulka iyo xayawaanka caafimaad iyo nafaqo, waxaana ugu guddoon inay ka heli karaan nafaqada iyo caafimaadka markii aan wada shaqeyno Yar, waxaana ugu guddoon inay ka heli karaan duurjoog iyo barwaaqo markii aan isku khilaafno Yar." Yar waxay ku sheekeeyeen Geelo, "Waxaan ku shaqeynaya dhinaca qorrax-yaraha, waxaan uga darayaa dhulka iyo xayawaanka duurjoog iyo barwaaqo, waxaana ugu guddoon inay ka heli karaan duurjoog iyo barwaaqo markii aan wada shaqeyno Qor, waxaana ugu guddoon inay ka heli karaan nafaqada iyo caafimaadka markii aan isku khilaafno Qor."
+
+Geelo waxay ahaayeen gees caafimaad badan, waxa uu ahaa gees nafaqeysan, waxa uu ku guddoon inuu u ogaado waxa Qor iyo Yar ay ku shaqeyaan. Geelo waxay ku yidhi Qor iyo Yar, "Waxaan ku guddoon inaan u ogaado waxa ay ku shaqeyaan, waxaan ku guddoon inaan uga caafimaado dhulka iyo xayawaanka, waxaana ugu guddoon inay ka heli karaan nafaqada iyo caafimaadka markii aan wada shaqeyno, waxaana ugu guddoon inay ka heli karaan duurjoog iyo barwaaqo markii aan isku khilaafno."
+
+Qor iyo Yar waxay ku guddoon inay u ogaadaan Geelo, waxayna kuugu sheekeeyeen sheekooyinka ay ku shaqeyaan. Qor waxay ku sheekeeyeen Geelo, "Waxaan ku shaqeynaya dhinaca qorraxda, waxaan uga darayaa dhulka iyo xayawaanka caafimaad iyo nafaqo, waxaana ugu guddoon inay ka heli karaan nafaqada iyo caafimaadka markii aan wada shaqeyno Yar, waxaana ugu guddoon inay ka heli karaan duurjoog iyo barwaaqo markii aan isku khilaafno Yar, waxaana ugu guddoon inay ka heli karaan nafaqada iyo caafimaadka markii aan wada shaqeyno Geelo." Yar waxay ku sheekeeyeen Geelo, "Waxaan ku shaqeynaya dhinaca qorrax-yaraha, waxaan uga darayaa dhulka iyo xayawaanka duurjoog iyo barwaaqo, waxaana ugu guddoon inay ka heli karaan duurjoog iyo barwaaqo markii aan wada shaqeyno Qor, waxaana ugu guddoon inay ka heli karaan nafaqada iyo caafimaadka markii aan isku khilaafno Qor, waxaana ugu guddoon inay ka heli karaan duurjoog iyo barwaaqo markii aan wada shaqeyno Geelo."
+
+Geelo waxay ahaayeen gees caafimaad badan, waxa uu ahaa gees nafaqeysan, waxa uu ku gudd

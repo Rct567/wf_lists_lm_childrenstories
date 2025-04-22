@@ -1,0 +1,94 @@
+<prompt>
+Please write a dialog-based Esperanto children's story that is at least 1000 words long.
+It must be completely written in proper Esperanto (EO).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La Kvar Kantoj de la Tero kaj la Danco de la Kverkaro'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>eo</lang_id>
+
+<title>La Kvar Kantoj de la Tero kaj la Danco de la Kverkaro</title><body>
+En la verda valo de Esperanto, kie rivereto ridetis al la suno, loĝis du amikoj: Zora, la urseto kun bluaj okuloj, kaj Luko, la leporo kun longaj oreloj kaj rideta nazo. Ili amis ludi kune, esplori la arbaron, kaj aŭskulti la mirindajn rakontojn de Avo Kverko, la plej saĝa arbo en la tuta valo.
+
+Unu belan matenon, dum la suno pentris la ĉielon per oro kaj rozkoloro, Zora kaj Luko trovis sin sub la branĉoj de Avo Kverko.
+
+"Saluton, Avo Kverko!" kriis Luko, saltante ĝoje.
+
+"Saluton, miaj amikoj," respondis Avo Kverko, lia voĉo profundiĝanta kiel la vento en la folioj. "Kion vi faras ĉi tie?"
+
+"Ni venis por aŭdi rakonton!" diris Zora, sidante sur mola herbo.
+
+"Ho, tre bone," respondis Avo Kverko. "Hodiaŭ, mi rakontos al vi pri la Kvar Kantoj de la Tero kaj la Danco de la Kverkaro."
+
+La okuloj de Zora kaj Luko larĝiĝis de ekscito.
+
+"Kio estas la Kvar Kantoj de la Tero?" demandis Luko.
+
+"La Kvar Kantoj estas kiel la koro de la tero," klarigis Avo Kverko. "Ili estas la kantoj de la Printempo, la Somero, la Aŭtuno, kaj la Vintro. Ĉiu kanto havas sian propran melodion kaj signifon."
+
+"Rakontu al ni pri la Printempa Kanto!" kriis Zora.
+
+Avo Kverko komencis rakonti: "La Printempa Kanto estas la kanto de nova komenco. Ĝi flugas sur la milda vento, kiu vekas la teron el sia dormo. Ĝi estas la kanto de la unuaj floroj, kiuj malfermas siajn petalojn al la suno, kaj la kanto de la birdoj, kiuj revenas el la sudo. Ĝi estas la kanto de espero kaj ĝojo."
+
+"Kiel sonas tiu kanto?" demandis Luko, perplekse.
+
+"Vi povas aŭdi ĝin," respondis Avo Kverko, "se vi atentas. Ĝi estas la sonoro de la gutoj de pluvo falantaj sur la folioj, la zumado de la abeloj en la floroj, la kanto de la ranoj en la lageto. Ĝi estas la ritmo de la vivo, denove vekiĝanta."
+
+Zora fermis siajn okulojn kaj provis aŭskulti. Ŝi koncentriĝis pri la sono de la rivereto, kiu fluis apud ili. Ŝi imagis la florojn malfermantajn siajn petalojn kaj la birdojn kantantajn alte en la ĉielo. "Mi aŭdas ĝin!" ŝi diris mallaŭte. "Ĝi estas bela!"
+
+Post nelonga paŭzo, Avo Kverko daŭrigis: "Post la Printempo venas la Somero. Ĝia kanto estas la kanto de varmeco kaj abundo. La suno brilas pli forte, la tero estas pli verda, kaj la fruktoj pleniĝas per suko. La Somera Kanto estas la kanto de la longaj tagoj, la senfinaj ludoj, kaj la dolĉa aromo de maturaj beroj."
+
+"Ĉu la Somera Kanto estas pli laŭta ol la Printempa Kanto?" demandis Luko.
+
+"Jes," respondis Avo Kverko. "Ĝi estas pli plena, pli fortika. Ĝi estas la zumado de la insektoj, la kraketo de la branĉoj sub la varma vento, kaj la rideto de la sunfloro, kiu turnas sin al la suno la tutan tagon. Ĝi estas la kanto de la vivo atinganta sian pinton."
+
+Luko imagis sin en la suno, manĝante bongustan rubusaron. Li sentis la varmon sur sia haŭto kaj aŭdis la zumadon de la abeloj.
+
+"Kaj poste?" demandis Zora, ankoraŭ fascinita per la rakonto.
+
+"Post la Somero venas la Aŭtuno," diris Avo Kverko. "Ĝia kanto estas melankolia, sed ankaŭ tre bela. Ĝi estas la kanto de la ŝanĝo, de la folioj ŝanĝantaj koloron, de la vento blovanta tra la arbaro, kolektanta semojn por la venonta printempo. Ĝi estas la kanto de la rikolto kaj la preparo por la vintro."
+
+"Mi ŝatas la kolorojn de la aŭtuno!" ekkriis Zora. "Ruĝa, flava, oranĝa…"
+
+"Jes," respondis Avo Kverko. "La Aŭtuna Kanto estas la kanto de la beleco en la foriro. Ĝi estas la pepo de la birdoj preparantaj por migrado, la susuro de la folioj falantaj sur la teron, la odoro de fumantaj fajroj en la kamparaj domoj. Ĝi estas la kanto de la ciklo de la vivo."
+
+Luko imagis sin saltanta tra la koloraj folioj, kolektante glanojn por esti konservataj por la vintro.
+
+"Kaj finfine, venas la Vintro," daŭrigis Avo Kverko. "Ĝia kanto estas kvieta kaj trankvila. Ĝi estas la kanto de la dormo, de la neĝo falanta sur la teron, de la blanka kovrilo, kiu protektas la semojn sube. Ĝi estas la kanto de la ripozo kaj la promeso de la venonta Printempo."
+
+"Ĉu la Vintra Kanto estas silenta?" demandis Zora.
+
+"Ne tute," respondis Avo Kverko. "Vi povas aŭdi ĝin se vi atentas. Ĝi estas la ŝuŝado de la neĝo, la silento de la arbaro, la spirado de la tero sub la neĝo. Ĝi estas la kanto de la atendo, la promeso de nova vivo. Ĝi estas la kanto de paco kaj trankvilo."
+
+Luko fermis siajn okulojn kaj imagis la neĝon falantan, la arbaron dormantan, kaj li mem, varme en sia kabano, atendante la revenon de la suno.
+
+"Kaj kio estas la Danco de la Kverkaro?" demandis Zora, post longa paŭzo.
+
+Avo Kverko ridetis. "La Danco de la Kverkaro estas la danco de la arboj, kiuj vivas en ĉi tiu arbaro. Ĉiu arbo havas sian propran movon, sian propran manieron danci kun la vento. Ĝi estas la kanto de la arboj, ilia movado laŭ la ritmo de la Kvar Kantoj de la Tero."
+
+"Kiel ni povas vidi la Dancon de la Kverkaro?" demandis Luko.
+
+"Vi vidas ĝin ĉiufoje, kiam vi vidas la arbojn moviĝantajn kun la vento," klarigis Avo Kverko. "En la Printempo, ili dancas kun nova vivo, svingante siajn branĉojn kaj foliojn en saluto al la suno. En la Somero, ili dancas kun forto kaj graco, forte rezistante al la vento. En la Aŭtuno, ili dancas malrapide, liberigante siajn foliojn, preparante sin por la vintro. En la Vintro, kvankam ŝajne senmova, ili dancas kviete, retenante sin, atendante la revenon de la suno sed daŭre kantante la venton, per la blankaj linioj sur iliaj branĉoj."
+
+Zora kaj Luko ekrigardis la arbojn ĉirkaŭ ili. Ili rimarkis, ke eĉ en la senventa tago, la branĉoj ŝajnis moviĝi iomete, kiel ili balanciĝis kaj susuris.
+
+"Kaj ĉu ni dancas kun ili?" demandis Zora, per la okuloj pleniĝantaj de ludemo.
+
+Avo Kverko ridis grandan ridon. "Jes, miaj amikoj, vi ankaŭ dancas. Vi dancas kun la vento, vi dancas kun la sezonoj, vi dancas kun la vivo!"
+
+Kaj tiam, Avo Kverko fermis siajn okulojn kaj komencis kanti malrapidan, milde balancantan melodion. Li ŝajnis moviĝi iomete, kvazaŭ eĉ li mem dancus. Zora kaj Luko rigardis unu la alian, kaj poste ili komencis danci kune, svingante siajn brakojn kaj saltetante sur la herbo. Ili imitis la movojn de la arboj, sentante la kanton de la Kvar Kantoj de la Tero resonante en la aero. Ili dancis kaj dancis, ĝis la sunsubiro pentris la ĉielon per oranĝaj kaj violaj nuancoj.
+
+Kiam la nokto venis, kaj la steloj komencis brili, ili dankis Avo Kverkon pro la rakonto.
+
+"Dankon, Avo Kverko," diris Luko kun granda rideto. "Nun ni pli bone komprenas la mondon ĉirkaŭ ni."
+
+"Jes," diris Zora. "Ni neniam forgesos la Kvar Kantojn kaj la Dancon de la Kverkaro."
+
+Avo Kverko rigardis ilin kun amo. "Vi povas reveni ĉiun fojon kiam vi volas aŭdi la kantojn kaj partopreni la dancon. Memoru, la kanto kaj danco ĉiam estas tie, atendante vin. Nur aŭskultu la venton, rigardu la arbojn, kaj sentu la ritmon de la vivo. Ĝis revido, miaj amikoj."
+
+Zora kaj Luko adiaŭis Avo Kverkon kaj revenis al siaj hejmoj, siaj koroj plenigitaj de ĝojo kaj la sonoj de la Kvar Kantoj. Ili sciis, ke ili neniam plu rigardos la mondon same, ĉar ili nun konis la sekretajn kantojn kaj la magian dancon de la Tero. Kaj ili sciis, ke ili dancos kun la arboj dum la resto de sia vivo.
+</body>

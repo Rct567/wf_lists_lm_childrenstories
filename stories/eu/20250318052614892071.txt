@@ -1,0 +1,55 @@
+<prompt>
+Please write a emotional Basque children's story that is at least 1000 words long.
+It must be completely written in proper Basque (EU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Animaliak Zaintzen, Baserriko Umetxoen Lagun Onenak Izanez'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>eu</lang_id>
+
+```xml
+<title>Animaliak Zaintzen, Baserriko Umetxoen Lagun Onenak Izanez</title><body>
+
+Egun batean, eguzkiaren argitan, Izaro eta Oier, bi anai-arreba txikiak, baserriko patioan jolasten ari ziren. Txakurrak, lagun zintzoa, buztana astinduz zebilen inguruan. Izarok sei urte zituen, ile beltz eta begi urdinekin, eta Oierrek lau, ile horixka eta irribarre zabalarekin. Biak ala biak maitagarriak ziren, baserriko bizitzarekin liluratuta.
+
+Baserria handia zen, eta animalia asko bizi ziren bertan: behiak, oiloak, txerriak, ahuntzak... Animalia guztiak haien lagunak ziren, eta haiek, berriz, animalien zaindari txikiak. Goizeko lehen izpietan, amamak esnatzen zituen.
+
+—Izaro, Oier, jaiki! Animaliei janaria emateko garaia da! —esan ohi zuen amamak, ahots goxoarekin.
+
+Eta bi haurrak, oheatik salto eginez, korrika joaten ziren sutarako prest. Oiloei artatxikiak ematen zizkieten, behiak belarrez elikatzen zituzten, eta txerriei mahai gaineko hondarrak. Animalia bakoitzak bere nortasuna zuen, eta umeek hori ondo zekiten.
+
+Behia, Blanca, oso gozoa zen, beti laztantzekoa. Oiloak, Lumak eta Txoria, aldiz, barregarriak ziren, buztanetik dantzan hasten zirenean. Txerri, Pipak, lokatzetan gustura egoten zen. Ahuntza, Mutila, bihurria zen, eta sarritan, baratzean sartzen zen barazkiak jateko.
+
+Egun batean, Oier, negarrez iritsi zen etxera.
+
+—Zer gertatu zaizu, Oier? —galdetu zion Izarok, kezkatuta.
+
+—Mutilak... Mutilak gaixorik dago! Ez du jan nahi, ezta uretara gerturatzen... —esan zuen Oierrek, malkoak begietatik.
+
+Bi haurrak, berehala, ahuntzaren bueltan joan ziren. Mutila etzanda zegoen, ahul, eta ez zuen arrenak jaten. Izarok eta Oierrek, beraien onena egin zuten. Mutilari ura ekarri zioten, berak bakarrik zegoen lekuan. Arratsean, amama deitu zuten.
+
+Amamak, kezkarekin, ahuntzari begiratu zion. Gero, erraztasunez esan zuen:
+
+—Umetxoak, Mutilak agian, bere janaria gustuko ez duena jan du. Baina ez kezkatu. Uste dut berreskuratu egingo dela. Garrantzitsuena da zaintzea, eta maitasunez tratatzea.
+
+Hurrengo egunetan, Izarok eta Oierrek Mutila zaindu zuten, egun eta gau. Mutilari berari gustatzen zitzaizkion janariak eman zizkioten, ura ematen zioten orduro. Kantak kantatzen zizkioten, eta bere burua laztantzen zioten, ondo egon zedin.
+
+Denbora pasa ahala, Mutila pixkanaka indarra hartzen hasi zen. Arrastaka gerturatzen zen haurren ondoan. Egun batean, zutik jarri zen, eta bere burua laztantzeko eskatu zien. Izarok eta Oierrek, pozik, Mutilari besarkada eman zioten.
+
+—Ikusi, Oier! Mutila hobeto dago! —esan zuen Izarok, irribarrez.
+
+—Bai, Izaro! Zoragarria da! —erantzun zuen Oierrek, barre algaraka.
+
+Denbora pasa zen, eta Mutila osatu egin zen. Berriz ere korrika hasten zen baratzean, eta barazkiak jaten. Izarok eta Oierrek, zoriontsu, beraien lagunari irribarre egin zioten. Ikasi zuten animalien maitasuna, zainketa eta atxikimenduak, munduko gauzarik baliotsuenak direla.
+
+Udazkenean, hostoak erortzen zirenean, baserrian jaialdi bat antolatu zuten. Animaliak, dantzan, jolasean eta janaria jaten egon ziren. Izaro eta Oier, Mutilaren ondoan eseri ziren, eta elkarri begiratzen zioten. Denak pozik ziren, animalien eta umeen arteko lotura sakona ikusten.
+
+Egun horretatik aurrera, Izarok eta Oierrek, inoiz baino gehiago maite zituzten animaliak. Beraien bizitzan zehar, baserriko balioak ikasiz: errespetua, elkartasuna, maitasuna eta ardura. Baserria, haien paradisu txikia zen, eta animaliak, beti egongo ziren haien ondoan, lagun onenak izanez.
+
+Eta, horrela, igarotzen zituzten egunak Izarok eta Oierrek, animaliak zaintzen, beraien onena emanez. Baserriko haurrak izanik, pozik eta zoriontsu, natura eta animaliekin batera bizi izan ziren, egunero. Haurrak, beti gogoan izango dute animaliak zaintzeko lezio hori, beti izan zuten lezio handiena.
+</body>
+```

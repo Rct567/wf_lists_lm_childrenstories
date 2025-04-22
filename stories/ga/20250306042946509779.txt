@@ -1,0 +1,80 @@
+<prompt>
+Please write a silly Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'An Túr Draíochta agus na Laochra Óga'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>ga</lang_id>
+
+<title>An Túr Draíochta agus na Laochra Óga</title>
+<body>
+Ba mhór an t-áthas a bhí ar na páistí i sráidbhaile beag i gContae na Mí nuair a chonaic siad an túr draíochta ar an sliabh. Bhí an túr seo suite ar an sliabh is airde sa cheantar, agus bhí sé clúdaithe le scamaill ghlasa. Bhí na páistí ag súil leis an lá seo le fada, agus bhí siad réidh chun dul ar thuras go dtí an túr.
+
+Bhí ceathrar páiste ann: Áine, a bhí sé bliana déag d'aois, agus a deartháir, Cian, a bhí deich mbliana d'aois. Bhí a gcara, Oisín, a bhí aon bhliain déag d'aois, agus a chara eile, Saoirse, a bhí naoi mbliana d'aois. Bhí siad ar fad ag súil leis an turas seo, agus bhí siad réidh chun dul ar an aistear.
+
+Nuair a tháinig siad go dtí an túr, chonaic siad go raibh sé clúdaithe le fuinseog agus le bláthanna. Bhí an túr seo an-álainn, agus bhí na páistí ag súil leis an lá seo le fada. Bhí siad ag dul isteach sa túr, agus chonaic siad go raibh sé lán le seomraí agus le hataí. Bhí na páistí ag súil leis an turas seo, agus bhí siad réidh chun dul ar an aistear.
+
+Bhí siad ag dul suas an staighre, agus chonaic siad go raibh seomra mór ann. Bhí an seomra seo lán le leabhair agus le páipéar. Bhí na páistí ag súil leis an lá seo, agus bhí siad réidh chun dul ar an aistear. Bhí siad ag dul isteach sa seomra, agus chonaic siad go raibh fear ann. Bhí an fear seo ina shuí ar cathaoir, agus bhí sé ag léamh leabhar.
+
+"Dia duit," arsa an fear. "Céard a tháinig sibh go dtí an túr seo?"
+
+"Bhuail muid isteach chun an túr a fheiscint," arsa Áine.
+
+"Bhfuil sibh ag súil leis an turas seo?" arsa an fear.
+
+"Tá," arsa Cian. "Tá muid ag súil leis an lá seo le fada."
+
+"Bhfuil sibh réidh chun dul ar an aistear?" arsa an fear.
+
+"Tá," arsa Oisín. "Tá muid réidh chun dul ar an turas."
+
+"Bhfuil sibh ag súil leis an lá seo?" arsa an fear.
+
+"Tá," arsa Saoirse. "Tá muid ag súil leis an turas."
+
+Bhí an fear ag smaoineamh faoi na páistí, agus bhí sé ag déanamh plean. Bhí sé ag smaoineamh faoi conas a chabhróidh sé na páistí. Bhí sé ag déanamh plean chun iad a thabhairt ar an turas.
+
+"Tacóidh mé libh," arsa an fear. "Tacóidh mé libh ar an turas. Beidh mé ag déanamh plean chun iad a thabhairt ar an turas."
+
+Bhí na páistí ag déanamh féin-deartha, agus bhí siad ag súil leis an turas. Bhí siad ag dul leis an bhfear, agus bhí siad ag déanamh plean chun dul ar an turas. Bhí siad ag súil leis an lá seo, agus bhí siad réidh chun dul ar an aistear.
+
+Bhí siad ag dul trasna an tsliabh, agus chonaic siad go raibh loch ann. Bhí an loch seo an-álainn, agus bhí na páistí ag súil leis an turas. Bhí siad ag dul go dtí an loch, agus chonaic siad go raibh bád ann. Bhí an bád seo an-álainn, agus bhí na páistí ag súil leis an turas.
+
+"Tacóidh mé libh," arsa an fear. "Tacóidh mé libh ar an loch. Beidh mé ag déanamh plean chun iad a thabhairt ar an loch."
+
+Bhí na páistí ag déanamh féin-deartha, agus bhí siad ag súil leis an turas. Bhí siad ag dul leis an bhfear, agus bhí siad ag déanamh plean chun dul ar an loch. Bhí siad ag súil leis an lá seo, agus bhí siad réidh chun dul ar an aistear.
+
+Bhí siad ag dul ar an loch, agus chonaic siad go raibh oileán ann. Bhí an oileán seo an-álainn, agus bhí na páistí ag súil leis an turas. Bhí siad ag dul go dtí an oileán, agus chonaic siad go raibh caisleán ann. Bhí an caisleán seo an-álainn, agus bhí na páistí ag súil leis an turas.
+
+"Tacóidh mé libh," arsa an fear. "Tacóidh mé libh ar an oileán. Beidh mé ag déanamh plean chun iad a thabhairt ar an oileán."
+
+Bhí na páistí ag déanamh féin-deartha, agus bhí siad ag súil leis an turas. Bhí siad ag dul leis an bhfear, agus bhí siad ag déanamh plean chun dul ar an oileán. Bhí siad ag súil leis an lá seo, agus bhí siad réidh chun dul ar an aistear.
+
+Bhí siad ag dul isteach sa chaisleán, agus chonaic siad go raibh seomra mór ann. Bhí an seomra seo lán le leabhair agus le páipéar. Bhí na páistí ag súil leis an turas, agus bhí siad réidh chun dul ar an aistear. Bhí siad ag dul isteach sa seomra, agus chonaic siad go raibh bean ann. Bhí an bhean seo ina shuí ar cathaoir, agus bhí sí ag léamh leabhar.
+
+"Dia duit," arsa an bhean. "Céard a tháinig sibh go dtí an oileán seo?"
+
+"Bhuail muid isteach chun an oileán a fheiscint," arsa Áine.
+
+"Bhfuil sibh ag súil leis an turas seo?" arsa an bhean.
+
+"Tá," arsa Cian. "Tá muid ag súil leis an lá seo le fada."
+
+"Bhfuil sibh réidh chun dul ar an aistear?" arsa an bhean.
+
+"Tá," arsa Oisín. "Tá muid réidh chun dul ar an turas."
+
+"Bhfuil sibh ag súil leis an lá seo?" arsa an bhean.
+
+"Tá," arsa Saoirse. "Tá muid ag súil leis an turas."
+
+Bhí an bhean ag smaoineamh faoi na páistí, agus bhí sí ag déanamh plean. Bhí sí ag smaoineamh faoi conas a chabhróidh sí na páistí. Bhí sí ag déanamh plean chun iad a thabhairt ar an turas.
+
+"Tacóidh mé libh," arsa an bhean. "Tacóidh mé libh ar an turas. Beidh mé ag déanamh plean chun iad a thabhairt ar an turas."
+
+Bhí na páistí ag

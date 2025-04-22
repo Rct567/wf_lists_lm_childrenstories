@@ -1,0 +1,35 @@
+<prompt>
+Please write a educational Slovak children's story that is at least 1000 words long.
+It must be completely written in proper Slovak (SK).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Hrdinské činy malého rytieraNouve'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sk</lang_id>
+
+<title>Hrdinské činy malého rytiera Nouve</title>
+<body>
+V malej dedinke pod majestátnym vrchom Bukovník žil malý, ale odvážny rytier menom Nouve. Nebolo v ňom ani kúsok strachu, len neuhasiteľná túžba po dobrodružstve a ochrane slabších.  Jeho zbroj, síce vyrobená z obyčajného dreva a kože, leskla sa od odhodlania a jeho srdce bijúce rytmom statočnosti.  Nouve nemal kráľovský rod, ani bohaté dedičstvo, mal však niečo oveľa cennejšie – láskavé srdce a túžbu pomáhať.
+
+Jedného slnečného rána, keď sa kvety na poliach rozprestierali v nádhernej kvetinovej mozaike a včielky spievali svoje melodické piesne, sa Nouve dozvedel o nešťastí v susednej dedine.  Poľnohospodári tam utrpeli veľkú smršť a ich úroda bola zničenie.  Chleba, hlavná potrava dediny, bol v ohrození.  Nouveho srdce sa naplnilo smútkom a zároveň silnou túžbou pomôcť.  Bez váhania nasadol na svojho verného koňa, malé, ale statočné drevené zvieratko, ktoré nazýval „Dubák“.
+
+Cesta vedla cez hustý les, kde sa skrývali tajomné stromy a tajuplné stvorenia.  Nouve prekonával strmé kopce a preliezal husté kríky.  Dubák, verný spoločník, sa mu zdalo, že kráča v tichosti a s dôverou.  Nouve zbadal roztrúsené sady, kde sa lúka predtým rozprestierala v zelenom obraze.  Dedina bola opustená a smútok prenikol všetkými uličkami.
+
+Po dlhých hodinách putovania konečne Nouve dorazil do zničenej dediny.  Videl desivý pohľad - zrúcaniny domov, poľnohospodárske nástroje roztrúsené po zemi a smutné tváre obyvateľov.  Jeho srdce sa naplnilo súcitovnosťou.  S úctou sa priblížil k starému poľnohospodárovi, ktorého oči boli plné bolesti.  „Pane,“ spýtal sa Nouve, „čo sa stalo?"
+
+Starý muž vysvetlil, že smršť spôsobila obrovské škody, zničila všetko, čo pestovali celé roky s námahou.  Nouve mu sľúbil, že im pomôže.  Rozhodol sa, že využije svoje vedomosti a zručnosti, ktoré získal od svojho múdreho dedka.  Všetci obyvatelia dediny sa zhromaždili okolo neho, plní nádeje.
+
+Nouve, s pomocou Dubáka, začal zbierať roztrúsené nástroje.  S veľkou presnosťou a jemnosťou ich opravoval.  Pomáhal starším s ich prácou, a mladším ukázal, ako môžu pomôcť.  Používal svoju múdrosť a vedomosti, a všetci sa spoločne s ním snažili pomôcť.  Svojou odhodlanosťou a láskavosťou inšpiroval každého, aby prekonal smútok a prijal pomocnú ruku.
+
+Nasledujúce dni boli plné práce a námahy.  Nouve a obyvatelia dediny spoločne zasadili semená, starali sa o pôdu a preorávali pôdu.  Aj Dubák im pomáhal, ako sa dalo.  Nouve ich povzbudzoval, aby verili v seba a v silu spoločenstva.  Každý mal svoju úlohu, a v tom spočívala sila.
+
+Kým všetci pracovali, Nouve sa dozvedel o potrebe zodpovednosti a úcty k prírode.  Pochopil, že príroda je dôležitá a je potrebné ju chrániť.  S touto novou múdrosťou pomohol opraviť poškodené kanály a zavlažovanie, aby sa zabránilo opätovným škodám.
+
+Po týždni tvrdej práce, pod Nouveho vedením, sa dedina postupne premenila.  Kvety opäť vyklíčili zo zeme, a úroda rástla, krásna a silná.  Obyvatelia dediny sa stretli a odovzdali Nouvemu dar z vďaky.  Nebol to drahý dar, bol to dar plný lásky a úcty.
+
+Nouve sa usmieval.  Jeho srdce bolo plné radosti a súcitu.  Nezáležalo mu na chvále, ale na pomoci.  Videl, že šťastie nie je len v kráľovstve, ale v práci a spoločenstve.  A s novým poznaním sa Nouve vrátil do svojej dedinky, pod majestátny vrch Bukovník, s vedomím, že urobil to najdôležitejšie, čo sa dalo urobiť – zachránil živobytie a priniesol nádej.  A stal sa hrdinom nie pre kráľovstvo, ale pre celú dedinu.
+</body>

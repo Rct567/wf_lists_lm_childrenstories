@@ -1,0 +1,49 @@
+<prompt>
+Please write a silly Spanish children's story that is at least 1000 words long.
+It must be completely written in proper Spanish (ES).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La hormiga que quería ser artista y pintaba con hojas y pétalos.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>es</lang_id>
+
+```xml
+<title>La hormiga que quería ser artista y pintaba con hojas y pétalos.</title>
+<body>
+<p>En el corazón del Valle de las Chicharras, donde el sol bailaba sobre las flores y las abejas zumbaban melodías alegres, vivía una hormiga muy especial llamada Anita. Pero Anita no era una hormiga cualquiera; ella tenía un sueño grandioso: ser artista. No le interesaba transportar migas de pan ni construir elaborados hormigueros. No, no, no. Anita quería pintar. ¡Y vaya que era un secreto a voces entre las margaritas y los escarabajos!</p>
+
+<p>El hormiguero de Anita, una intrincada red de túneles y habitaciones bajo la sombra de un roble gigante, estaba lleno de "museos" improvisados. En lugar de piedras preciosas o artefactos antiguos, Anita guardaba su tesoro: hojas de diferentes colores y pétalos de flores de todas las formas y tamaños. ¡Era una colección digna de la envidia de cualquier rey hormiga!</p>
+
+<p>Un buen día, Anita decidió que era hora de mostrar su talento al mundo. Preparó sus herramientas (pequeños pinceles hechos de pelos de oruga y espátulas de pétalos) y se dispuso a buscar su "lienzo". Primero pensó en una roca grande, pero era demasiado…¡rocosa! Luego consideró la corteza de un árbol, pero era demasiado…¡rugosa! Finalmente, con una sonrisa que iluminó sus ojitos compuestos, encontró el lugar perfecto: la hoja de un enorme girasol, ¡tan amarilla y lisa como una tela de seda!</p>
+
+<p>La obra maestra de Anita, que se llamó "El Sol bailando con las Flores", comenzó con un amarillo vibrante, el color del propio girasol. Utilizando los pétalos amarillos, machacados y mezclados con un poco de rocío de la mañana, pintó un sol sonriente. Luego, con hojas verdes y azules, hizo un césped ondulado y un cielo despejado. Las flores, cada una pintada con los colores vibrantes de sus pétalos reales (rojos, morados, rosas), se alzaban bailando alegremente alrededor del sol.</p>
+
+<p>Pero, ay, la pintura de Anita era delicada y efímera. El viento juguetón del valle soplaba y las hojas y los pétalos, por muy pegajosos que fueran con el rocío, amenazaban con volar. La hormiga artista, con un suspiro, ideó una solución ingeniosa: ¡una capa de "pegamento" hecho con savia de acacia y miel de abeja! Era pegajoso, brillante y mantenía la pintura firmemente en su lugar.</p>
+
+<p>Durante días, Anita trabajó incansablemente. Alrededor del Valle de las Chicharras, la noticia se extendió como una chispa. Los animales, grandes y pequeños, curiosos y asombrados, comenzaron a visitar el "estudio" de Anita. Un saltamontes con gafas de sol admiraba los detalles, un caracol contemplaba los colores con una lentitud digna de un filósofo y una mariquita (¡aficionada al arte!) le dio a Anita su primera crítica, aprobando con alegría la obra y llamándola “absolutamente espectacular!”.</p>
+
+<p>El zumbido de las abejas se convirtió en música de fondo mientras Anita pintaba. Las libélulas danzaban alrededor del girasol, fascinadas por la magia del arte. La mariposa monarca, con sus alas color naranja y negro, ofrecía consejos sobre la composición. Hasta el señor Búho, el sabio del valle, bajó de su árbol, moviendo la cabeza y parpadeando ante tal despliegue de creatividad.</p>
+
+<p>Anita, con su corazón latiendo de alegría, continuó pintando. Creó retratos de sus amigos insectos (una oruga con sombrero de copa, un escarabajo futbolista y un saltamontes violinista), paisajes del valle y abstracciones llenas de colores inesperados. Cada pintura era una celebración de la vida y de la belleza que la rodeaba.</p>
+
+<p>Pero, como suele suceder, llegó un problema inesperado. Un día, el Sol, sintiéndose un poco celoso de su propio retrato, envió un fuerte rayo de calor sobre el girasol. La pintura de Anita, aunque protegida por la savia y la miel, comenzó a marchitarse. ¡Los pétalos se secaban, las hojas se arrugaban, y el sol sonriente parecía estar perdiendo su brillo!</p>
+
+<p>Anita se sintió desesperada. ¡Todo su trabajo, toda su pasión, a punto de desvanecerse! Corrió hacia el pozo más cercano y llenó un pequeño caparazón de agua, pero era inútil, la superficie del girasol era demasiado grande para el agua de una concha. Se sentó en la base del girasol y comenzó a llorar, lágrimas pequeñas como gotas de rocío.</p>
+
+<p>De repente, un coro de voces la sacó de su tristeza. Todos los animales del valle se habían reunido. La mariquita, la oruga, el saltamontes, el caracol, todos ellos, mirando a Anita con los ojos llenos de cariño y determinación. “No te preocupes, Anita”, dijo la mariquita. “Encontraremos una solución”.</p>
+
+<p>Y así, con la ayuda de todos sus amigos, Anita encontró una forma de salvar su arte. Las abejas trajeron miel extra, el rocío de la mañana fue recolectado en pequeñas gotas y se extendió sobre la pintura para revivir los colores, y los animales del valle se turnaban para soplar suavemente sobre la pintura, creando una brisa refrescante que mantenía a raya el calor del sol. Fue un trabajo de equipo, una sinfonía de esfuerzo colectivo.</p>
+
+<p>Con mucho trabajo, la pintura de Anita resistió al Sol y pudo ser admirada durante muchas semanas, hasta que las estaciones cambiaron. Sin embargo, la verdadera obra de arte no fue el retrato del Sol bailando con las flores, sino el ejemplo de la comunidad del Valle de las Chicharras. La dedicación, el cariño y la capacidad de la hormiga para unir a los demás para perseguir su sueño. La pasión de Anita había inspirado a todos a ver el mundo con ojos nuevos, con los colores brillantes de una paleta artística.</p>
+
+<p>Finalmente, la lluvia cayó y borró, inevitablemente, la pintura del girasol. Pero Anita no se entristeció. Sabía que el arte no era sólo sobre la obra en sí, sino sobre el proceso, sobre la alegría de crear, y sobre la felicidad que había compartido con todos sus amigos. Recogió algunos de los pétalos y hojas que aún conservaban su color y los guardó en su "museo".</p>
+
+<p>A partir de ese día, Anita continuó pintando. Utilizó cada nueva hoja, cada nuevo pétalo, cada rayo de sol, para contar una historia. Siguió pintando y creando, no solo para ella, sino para todos, para celebrar la vida y la amistad, y para recordarnos que la belleza está en todas partes, esperando ser descubierta… como los colores brillantes de una hoja en otoño o el suave toque de un pétalo de rosa.</p>
+
+<p>Y aunque sus pinturas pudieran ser efímeras, desapareciendo con el viento o la lluvia, el legado de Anita, la hormiga artista, perduraría para siempre en el corazón del Valle de las Chicharras. Y así, la historia de la hormiga que quería ser artista y pintaba con hojas y pétalos se convirtió en una leyenda, contada una y otra vez, de generación en generación de insectos. ¡Una leyenda que demostraba que cualquier sueño es posible si se pone el corazón en ello, y si se tienen buenos amigos a tu lado!</p>
+</body>
+```

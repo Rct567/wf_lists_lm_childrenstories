@@ -1,0 +1,31 @@
+<prompt>
+Please write a relatable Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Vita Et Mors Glacis Qui Amorem Invenit'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>la</lang_id>
+
+<title>Vita Et Mors Glacis Qui Amorem Invenit</title>
+<body>
+Glacis, puer tener et laetus, in villa rustica habitabat.  Ager erat magnus, et arboribus frondosis plenus.  Vallis amoena, flumine claro circumdata, domum Glacis ambibat.  Glacis, cum aliis pueris, saepe per agros luderet, aves canentes observare et flores pulchros admiraretur.  Sed Glacis erat solitarius, et cor eius, quamvis laetum, aliquid desiderabat.  Non erat amicus, qui cum eo luderet, neque puella, cuius amore cor eius flagraret.
+
+Quotidie, Glacis ad fluvium ambulabat, et ibi, sub umbra arborum, libros legeret.  Libros de fabulis et de vita animalium, cum imaginibus mirabilibus, habebat.  Cum legeret, Glacis se in alias terras et alias historias imaginabatur.  Aliquando, cum sole calido et cœlo caeruleo, fabulas de heros et de pugnis magnis legere solebat.  Imagines pugnae in mente eius formabantur, et sentire solebat vim et gloriam in his pugnis.  Sed, quamvis Glacis magnas virtutes in fabulis videret, in vita cotidiana nihil simile sentiebat.
+
+Una die, dum per vallem ambularet, Glacis mulierem pulchram vidit.  Puella erat, cum crinibus aureis et oculis caeruleis.  Veste candidissima vestiebatur, et flores in crinibus gerebat.  Glacis, statim, amore percussus est.  Nomina puellae inquirens, didicit nomen eius esse Flora.  Flora, peritus in arte medicinae, erat filia medici celeberrimi in villa.  Glacis, timens rejectionem, prope puellam stare non audebat.  Cor eius palpitabat.
+
+Die post diem, Glacis puellam per vallem observabat.  Observabat quomodo flores colligeret, quomodo aquam de fonte hauriret, et quomodo cum aliis pueris ridebat.  Anima eius a desiderio Florae repleta erat.  Sensus eius in se ipso crescere videbat.  Glacis, cum amore in corde suo, incipit se ad Florae vitam adaptare.  Discere coepit de plantis medicinalibus et de medicinis.
+
+In tempore, Glacis et Flora amicitiam fecerunt.  Per horas, Glacis Florae de fabulis et de vita sua loquebatur.  Flora, cum intellegeret Glacis esse puerem ingeniose et studiosum, amorem eius recipere coepit.  Fecerunt indies iucundiores, cum in agris luderent et de vita et de amore loquerentur.  Glacis, iam non solitarius, cor eius gaudio repletum erat.
+
+Sed, una nocte, mala nuntiata sunt.  Morbus pestilens per villam vagabatur.  Flora, cum arte sua medicinae, ad singulos aegros curandos ire coepit.  Dies et noctes laborabat, sed, quamvis opera eius esset mirabilis, non omnes salvare potuit.  Glacis, videns amorem et diligentiam Florae, statim ad auxilium ire voluit.  Cum Flora, per agros ambulabat et aegros curavit.
+
+Tunc, glaciem subito adfecit.  Infirmus factus est, et cum tempore, morbus gravius adfectus est.  Glacis, videns mores bonos et amorem Florae, intellexit morbi eius similitudinem et naturam.  Glacis, cum amore in corde, in vita sua, in animo suo, in amore suo.  Glacis, cum Flora per valetudinem ambulabat, non solum aegros curavit, sed etiam animas eorum consolavit.
+
+In finem, Glacis morbo victus est.  Flora, cum dolore profundo, Glacis ad sepulturam deducit.  Glacis, in sepultura positus, non solum vita terrena perdit.  Anima Glacis in coelum surrexit, et cum aliis pulchris animis coniugebat.  Et ibi, in coelo, Glacis et Flora in aeternum coniuncti erant.  Et Glacis, quamvis in vita sua mortuus sit, in corde Florae semper vivebat, et per aetatem, aeternus.
+</body>

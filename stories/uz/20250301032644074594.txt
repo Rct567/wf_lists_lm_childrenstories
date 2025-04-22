@@ -1,0 +1,59 @@
+<prompt>
+Please write a dialog-based Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Bolalar uchun sehrli kitob dunyosi'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>Bolalar uchun sehrli kitob dunyosi</title>
+<body>
+O'rta maktabning yangi o'quvchisi,  10 yoshli  Olimjon,  yangi darslar va o'qituvchilar bilan tanishishga shoshilmay qoldi.  Uning  ko'ziga yangi kutubxonada  sehrli,  o'ziga tortadigan  kitob ko'rindi.  Qalin, ko'k qopqoqdagi kitob "Sehrli Kitob Dunyosi" deb yozilgan edi.
+
+Olimjon:  "O'ziga shunchalik o'ziga tortadigan kitob  qanday bo'lishi mumkin ekan?" deb o'yladi. U kitobga egilib, uning qalin sahifalarini  o'qishni boshlashdan oldin,  qopqoqning o'ziga  o'ylab topilgan o'ziga xos, yashil rangli tasvirlar  bor ekanini  payqab qoldi.
+
+O'qituvchi:  "Olimjon, nega siz shunday kitobni tanlayapsiz?"
+
+Olimjon:  "Bilmayman,  xozirgina uni ko'rdim, va u menga shunchalik jozibali ko'ringanki,... "
+
+O'qituvchi:  "Agar u qiziqarli bo'lsa, unga e'tibor qarating. Bu kitob siz uchun o'tmishdagi davrlarga safar tashlaydigan bir kirish darvozasi bo'lishi mumkin."
+
+Olimjon,  kitobni olib, sahifalariga qaytarib sovg'alashtirdi va bir lahzada u ko'zda o'chirmadi.  Kitobga solib kiritilgan juda chiroyli bir yashil rangga ega sehrli qog'ozlar  yorug'likdagi yaxlit suratlarni ochdi.  Olimjon  ko'z o'ngida  yodda  tutishdan  voz kechmagan bir qorong'u va qaysar joyga kirmadi va yoqimsiz  vahiyga qarang,  kutilmagan joyda butun dunyo vaqtining mohiyatini  ko'rish qiziq tuyuldi! U o'ziga o'xshagan o'tmishdagi odamlarni ko'rdi,  ular hayratda qolishdi.  Ko'zlarini yumshib, o'tmishga  qaytib qarang va xayollarda bir oz turishni istaydigan o'tmishdagi odamlarning hayratlanarli qarashlari  ularga  ko'z o'ngida  ko'pgina suratlarni yaratib berishdi.  Bir odam uni tutib oldi!
+
+
+Olimjon:  "Bu nima?"
+
+Sehrli  Kitob Dunyosi:  "Men  tarixning sehrli kitobi va sizga o'tmishni tanib olishingizni istayman!"
+
+Olimjon: "Bilmadim, menga u qanday  bo'lib qoladi.  Qanday kitob o'tmishga olib borishim mumkin?"
+
+Sehrli  Kitob Dunyosi: "Birlamchi maqsad tarixning har bir davrida yaxshi va yomon narsalarni his etish! Qiziqarli va ajoyib dunyoga tayyorlanishingiz kerak. Tarix o'tmishdagi odamlarning harakatlarini aniqlaydi. Tarixga chuqur nazar soling! Shunday qilib,  biz hozirgi  davrni  tutib qo'yamiz! Xavfsizlik uchun juda ko'p savollar  bilan.  Endi siz eski  xabarlardan   muhim dalillarni olishingiz mumkin! Shu yo'l bilan davrlar bo'yicha tushunishni ko'paytirasiz.
+
+
+Olimjon  kitobni ko'rib, boshining ustini ochgan  shakl va qattiq narsalarda  bir lahzaga qolib ketdi.  Xayolini oshirish uchun qalbidagi  tashvish hissi  uyg'ongan ekan,  tashvish ko'rib turibdiki,   Olimjon  ushbu  qisqa  davrdan keyin tarixning barcha  asrlari va voqealaridan o'tkazilishini anglaganida,  qattiq haqiqatga  cho'kib qolishdi.
+
+
+U uzoq zamonlar davomida  sehrli dunyoga kiradi va barcha o'tmish  voqealarini  yashadi va ularning fikrlari  bilan birlashdi. U o'zini turli  madaniyatlar,  uyushmalar va odamlar orasida  topdi va ularning tajribasi bilan to'la ko'rilgan har qanday qiyin vazifa uchun juda tez tayyorgarlik oldi!  Uni tarixdagi  barcha insoniyatchiliklar uchun hayotiy holatga  keltirildi.
+
+
+Olimjon:  "Bu kitob menga o'tmishni  to'g'rilash, undan foydalanish  imkoniyatini beradi! Shunday ekan men kitobning o'ng  yonlaridagi  qo'lqoplar bilan tushunarligim  uchun shu  qo'llarni tushunishga va ishlatishga yordam beradigan narsalarni istayman. "
+
+Sehrli  Kitob Dunyosi:  "Albatta, qalbingni kuchaytirishning va bu dunyoga moslashish uchun   boshqa madaniyatlarni o'rganishda yordam beradigan biror narsa bilan  sizni yordamlashtiramiz! Men  kabi boshqa  sehrli  qo'lqoplarda  ko'proq   yangi dunyolarni topishingizga yordam berishga intilaman. "
+
+
+Uning  yashil ko'zlari  tashvishga  tushdi va uning  kitobi bilan o'tmishda o'tish uchun ajoyib  ko'zlar bilan  bog'lanib qoldi va  Olimjon o'zini yangi boshqa birlashishga va kengashga boshqalarni  qamrab olgan holda tutib turishga majburlashga tayyorgarlik ko'rdi.
+
+Olimjon:  "Men  o'zim uchun ko'p yangi  o'rganish uchun yodga olish  yoki hayratga solish  imkoniga  ega bo'ldim! Sehrli  Kitob Dunyosi menga juda yaxshi o'tkazishga yordam berdi!"
+
+Sehrli  Kitob Dunyosi: "Bundan ham muhimi, bu voqealarni sizning hissiyotlaringizga asoslangan holda tanib oling va o'tmishning to'g'ri yo'nalishini tushunib  oling va bir vaqtning o'zida o'rganishda davom eting! O'tmish  boshqalarga yordam berishda bizning xotiralarimizda yashashi uchun shubhasiz qo'shimcha hissiyotlarni taklif qiladi. "
+
+Olimjon, tarixga o'ziga xos va tushuntirishli qarashni ochgan Kitob Dunyosiga  minnatdorlik hissi bilan bu sehrli qisqa qaytishni boshdan kechirdi!
+
+
+Olimjon darslariga ko'proq  qiziqish bildirdi va uning  kitobdagi tarix safari uning aql va dunyoqarashi  olishida bebaho  qatnashishini angladi!
+</body>

@@ -1,0 +1,96 @@
+<prompt>
+Please write a dialog-based Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'An Grá agus an Ghealach: Eachtraí Chroíthe Beaga ag Faire na Réaltaí.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>ga</lang_id>
+
+<title>An Grá agus an Ghealach: Eachtraí Chroíthe Beaga ag Faire na Réaltaí.</title>
+<body>
+Bhí oíche dhochreidte ann, oíche a raibh an ghaoth ag séideadh go ciúin trí na crainn, agus an ghrian ag dul faoi na sléibhte. Bhí grúpa beag paistí ina gcónaí i sráidbhaile beag, agus bhí siad ag déanamh pleananna don oíche. Bhí Aisling, an paiste is sine, ag smaoineamh ar eachtra nua don ghrúpa.
+
+"Aon eagraíocht?" arsa Aisling leis an ghrúpa.
+
+"Bhfuil aon smaoineamh agat, Aisling?" arsa Caoimhe, an paiste is óige.
+
+"Tá, táim ag smaoineamh ar dhul amach faoin réaltach, ag faire na réaltaí," arsa Aisling.
+
+"Sin ceol!" arsa Fiachra, an paiste buachaillí. "Táim réidh dul i ngleic leis an eachtra sin."
+
+Chuaigh an ghrúpa amach faoin réaltach, agus bhí siad ag faire na réaltaí a bhí ag solas na hoíche. Bhí an ghaoth ag séideadh go ciúin, agus bhí an t-átmaisféar ag cur leis an eachtra.
+
+"An bhfuil aon scéalta agaibh faoin ghealach?" arsa Aisling leis an ghrúpa.
+
+"Tá scéalta agam faoin ghealach," arsa Caoimhe. "Inseoidh mé scéal faoin ghealach don ghrúpa."
+
+"Abair, Caoimhe," arsa Fiachra.
+
+"Ar cheann de na hoícheanta, bhí bean óg ina cónaí i sráidbhaile beag," arsa Caoimhe. "Bhí sí ag faire na gealaí, agus bhí sí ag smaoineamh ar an saol. Bhí sí ag déanamh pleananna don saol, agus bhí sí ag súil leis an todhchaí."
+
+"Cén chaoi a raibh sí ag faire na gealaí?" arsa Aisling.
+
+"Bhí sí ag faire na gealaí trí shúil na hoíche," arsa Caoimhe. "Bhí sí ag déanamh iarracht chun an ghaoth a chloisteáil, agus bhí sí ag súil leis an gcuid eile den saol."
+
+"Agus conas a raibh sí ag déanamh pleananna don saol?" arsa Fiachra.
+
+"Bhí sí ag déanamh pleananna trí chroíthe beaga a chur i bhfeidhm," arsa Caoimhe. "Bhí sí ag súil leis an gcuid eile den saol, agus bhí sí ag déanamh iarracht chun an saol a dhéanamh níos fearr."
+
+Bhí an ghrúpa ag éisteacht le scéal Caoimhe, agus bhí siad ag smaoineamh ar an saol. Bhí siad ag déanamh pleananna don saol, agus bhí siad ag súil leis an todhchaí.
+
+"An bhfuil aon eile agaibh?" arsa Aisling leis an ghrúpa.
+
+"Tá scéalta agam faoin ghealach," arsa Fiachra. "Inseoidh mé scéal faoin ghealach don ghrúpa."
+
+"Abair, Fiachra," arsa Caoimhe.
+
+"Ar cheann de na hoícheanta, bhí fear óg ina cónaí i sráidbhaile beag," arsa Fiachra. "Bhí sé ag faire na gealaí, agus bhí sé ag smaoineamh ar an saol. Bhí sé ag déanamh pleananna don saol, agus bhí sé ag súil leis an todhchaí."
+
+"Cén chaoi a raibh sé ag faire na gealaí?" arsa Aisling.
+
+"Bhí sé ag faire na gealaí trí shúil na hoíche," arsa Fiachra. "Bhí sé ag déanamh iarracht chun an ghaoth a chloisteáil, agus bhí sé ag súil leis an gcuid eile den saol."
+
+"Agus conas a raibh sé ag déanamh pleananna don saol?" arsa Caoimhe.
+
+"Bhí sé ag déanamh pleananna trí chroíthe beaga a chur i bhfeidhm," arsa Fiachra. "Bhí sé ag súil leis an gcuid eile den saol, agus bhí sé ag déanamh iarracht chun an saol a dhéanamh níos fearr."
+
+Bhí an ghrúpa ag éisteacht le scéal Fiachra, agus bhí siad ag smaoineamh ar an saol. Bhí siad ag déanamh pleananna don saol, agus bhí siad ag súil leis an todhchaí.
+
+"An bhfuil aon eile agaibh?" arsa Aisling leis an ghrúpa.
+
+"Tá scéalta agam faoin ghealach," arsa Caoimhe. "Inseoidh mé scéal faoin ghealach don ghrúpa."
+
+"Abair, Caoimhe," arsa Fiachra.
+
+"Ar cheann de na hoícheanta, bhí bean óg ina cónaí i sráidbhaile beag," arsa Caoimhe. "Bhí sí ag faire na gealaí, agus bhí sí ag smaoineamh ar an saol. Bhí sí ag déanamh pleananna don saol, agus bhí sí ag súil leis an todhchaí."
+
+"Cén chaoi a raibh sí ag faire na gealaí?" arsa Aisling.
+
+"Bhí sí ag faire na gealaí trí shúil na hoíche," arsa Caoimhe. "Bhí sí ag déanamh iarracht chun an ghaoth a chloisteáil, agus bhí sí ag súil leis an gcuid eile den saol."
+
+"Agus conas a raibh sí ag déanamh pleananna don saol?" arsa Fiachra.
+
+"Bhí sí ag déanamh pleananna trí chroíthe beaga a chur i bhfeidhm," arsa Caoimhe. "Bhí sí ag súil leis an gcuid eile den saol, agus bhí sí ag déanamh iarracht chun an saol a dhéanamh níos fearr."
+
+Bhí an ghrúpa ag éisteacht le scéal Caoimhe, agus bhí siad ag smaoineamh ar an saol. Bhí siad ag déanamh pleananna don saol, agus bhí siad ag súil leis an todhchaí.
+
+"An bhfuil aon eile agaibh?" arsa Aisling leis an ghrúpa.
+
+"Tá scéalta agam faoin ghealach," arsa Fiachra. "Inseoidh mé scéal faoin ghealach don ghrúpa."
+
+"Abair, Fiachra," arsa Caoimhe.
+
+"Ar cheann de na hoícheanta, bhí fear óg ina cónaí i sráidbhaile beag," arsa Fiachra. "Bhí sé ag faire na gealaí, agus bhí sé ag smaoineamh ar an saol. Bhí sé ag déanamh pleananna don saol, agus bhí sé ag súil leis an todhchaí."
+
+"Cén chaoi a raibh sé ag faire na gealaí?" arsa Aisling.
+
+"Bhí sé ag faire na gealaí trí shúil na hoíche," arsa Fiachra. "Bhí sé ag déanamh iarracht chun an ghaoth a chloisteáil, agus bhí sé ag súil leis an gcuid eile den saol."
+
+"Agus conas a raibh sé ag déanamh pleananna don saol?" arsa Caoimhe.
+
+"Bhí sé ag déanamh pleananna trí chroíthe beaga a chur i bhfeidhm

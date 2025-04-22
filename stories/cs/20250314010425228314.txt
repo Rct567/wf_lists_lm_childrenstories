@@ -1,0 +1,49 @@
+<prompt>
+Please write a silly Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Dračí vajíčko a přátelé z lesního houští'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Dračí vajíčko a přátelé z lesního houští</title>
+<body>
+<p>V kouzelném lese plném šumících stromů a vonících květin žila malá, ale velice odvážná liška jménem Liška Šídlo.  Liška Šídlo nebyla jako ostatní lišky. Zatímco ostatní lišky chytávaly žížaly a lovily mouchy, Šídlo toužila po dobrodružství, a to tak velkém, že sahalo až do nebeských výšin.</p>
+
+<p>Jednoho slunečného rána, když Šídlo prozkoumávala temné kouty lesního houští, narazila na cosi neuvěřitelného.  Leželo tam obrovské, lesklé vajíčko, o velikosti malého koryta.  Jeho skořicová skořepina se leskla jako drahokam a ze žlutého středu se snědlivě prosvítaly růžové proužky.</p>
+
+<p>"To se mi snad zdá!" vydechla Liška Šídlo a tiskla nos k chladnému povrchu vajíčka.   "Něco takového jsem nikdy neviděla!" Vždycky, když Liška Šídlo narazila na něco zajímavého, snažila se to dát do souvislostí se svou představivostí a přicházela tak s bizarními myšlenkami a hypotézami.</p>
+
+<p>Najednou ji z houští vystrašeně podrmolil malý, huňatý zajíček s ušima jako vějíře a dlouhým noskem. "Je to dračí vajíčko!" zahučel strachem. "Slyšel jsem, že z vajec líhnou se strašní, plačící draci s ohnivým dechem!"</p>
+
+<p>"Ach, tak se toho bojíš?" zeptala se Liška Šídlo s pobavením, což Zajíček se strachem s třepetavými ušima pohlédl, zda se jí to nelíbí.  "Mě by zajímalo, co z něj vyleze." </p>
+
+<p>A tak, vedeni zvědavostí a lehkým zneužitím hrůzy zajíce, se k vajíčku přidali další obyvatelé lesního houští.  Byl tam srnčí kůzle jménem Krtík s ohromně obrovskou zvědavostí, která se s každou myšlenkou v jeho hlavě zvětšovala. A taky, potřeba se postrašit v případě potřeby s obávanými zprávami. Poté tam byl štěněte lišky jménem Kvítek,  vždy s postrachem o to více v očích, o které to vyprávěla její sestra.</p>
+
+<p>"Asi by to nemělo nic špatného, ne?" rozhlásila si šikovně srnčí Krtík a se strachem do otázky přidala.  "Představ si, co by mohlo dojít z toho vajíčka. To by asi nebyla žádná tragédie?"</p>
+
+<p>"Myslím, že se jen zalekne, až ho uvidí!" ozval se s nejspíše nechápavým úsměvem Zajíček. "Možná je jenom malý. Ale nejspíš se vykoukne ohromné monstrum s velkým plným úsměvem." </p>
+
+<p>Liška Šídlo pokrčila nosem a všichni se snažili nezařvat v očekávání příštího úkazu. </p>
+
+<p>"Nerad bych to riskoval!" řekla a otočila se. "Nevím, co bych z toho vycoumal, ale moc bych se ho nebál! Dělať by to ale nepomohlo," pomyslel si.</p>
+
+<p> "Tak co?" povídá liška. "Uvidíme co se z toho vyklube?" Společně se otočili a začali se tichounko kroutit a hrát si a tak dokola. Dokud nepřišla noc. </p>
+
+<p>Najednou, když už všichni s únavou omdleli v blízkosti hřejivého hnízda a s přicházejícím měsícem plnili se lesy tajemnými šumy, z vajíčka slyšeli tichý, rozechvělý pískot.  S hrůzou se zvedli a čekali.   Vysoký zvonící zvuk se ozýval s tichým tónu a stále klesajícím hlasem, který vyprávěl zkušenosti celého světa, který byl za chvíli všude a na nic.</p>
+
+<p>A z vajíčka se s povzbuzujícím úsměvem vykoukla krásná, zlatá myš. </p>
+
+<p>"Ahoj!"  řekla, jakmile si s úsměvem utěšila oči z vajíčka. "Já jsem Zlata." Zlata podlézla pod nohama Zvířátek, kteří na ni bez slova sledovali. Mžourala očima a čekala. </p>
+
+<p>Zvířátka v houští se do sebe objímali a dokola a dokola objímali a objímali a zpívali písničky. Všichni šťastni, že se nic hrozného nestalo a naopak nastal hezký konec jejich úsměvu.</p>
+
+<p>A od té chvíle se Liška Šídlo, Zajíček, Krtík a Kvítek stali nejlepšími přáteli, vždy připraveni na dobrodružství a s úsměvem si vzájemně pomáhali.  A Zlata, zlatá myš, se stala jejich nejdůležitější moudrou mluvčí s nekonečným dobrodružstvím plnou myslí.</p>
+
+<p>Konec.</p>
+</body>

@@ -1,0 +1,67 @@
+<prompt>
+Please write a uncomplicated Portuguese (Brazil) children's story that is at least 1000 words long.
+It must be completely written in proper Portuguese (Brazil) (PT_BR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A Agenda Mágica e as Anotações que Conduzem a Aventuras Surpreendentes por Aí.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pt_br</lang_id>
+
+```xml
+<title>A Agenda Mágica e as Anotações que Conduzem a Aventuras Surpreendentes por Aí.</title>
+<body>
+Era uma vez, numa cidadezinha charmosa chamada Vila Alegria, uma menina chamada Sofia. Sofia tinha oito anos e adorava aventuras. Ela vivia com seus pais e um cachorrinho esperto chamado Pipoca.
+
+Sofia era uma menina curiosa, sempre pronta para explorar coisas novas. Ela gostava de ler livros, brincar no parque e, principalmente, de sonhar. Um dia, enquanto arrumava o sótão da avó, Sofia encontrou uma agenda antiga, encadernada em couro vermelho, com uma fivela dourada. A agenda parecia especial, cheia de poeira e com as páginas amareladas pelo tempo.
+
+Curiosa, Sofia abriu a agenda. As primeiras páginas estavam em branco, mas depois, em letras miúdas e elegantes, havia algumas anotações. A primeira dizia: "Para encontrar o tesouro escondido, siga o canto do pássaro azul no jardim da Dona Aurora." A segunda, "A chave para a floresta encantada está sob a pedra mais velha do rio."
+
+Sofia ficou fascinada. Ela acreditava em magia e em tesouros, e agora, com essa agenda misteriosa, sentia que sua vida estava prestes a mudar. Ela desceu as escadas correndo e foi direto para o jardim da Dona Aurora, uma senhora simpática que morava na casa ao lado.
+
+Chegando lá, Sofia observou o jardim com atenção. As flores eram coloridas e o ar cheirava a jasmim. Ela procurou pelo pássaro azul, mas não o encontrou. De repente, ouviu um canto melodioso vindo de uma árvore frondosa. E lá estava ele, um pequeno pássaro azul, cantando alegremente.
+
+Sofia se aproximou, encantada. O pássaro voou para um galho próximo e continuou cantando. Ela seguiu o canto, que a levou até um velho balanço de madeira. Debaixo do balanço, enterrada na terra, ela encontrou uma pequena caixa de madeira.
+
+Animada, Sofia abriu a caixa. Dentro, havia um colar com uma pedra azul brilhante e um bilhete: "Parabéns, você encontrou o primeiro passo. A próxima aventura te espera na cachoeira do Salto da Felicidade."
+
+Sofia correu para casa, radiante de felicidade. Ela mostrou o colar para os pais e contou sobre a agenda mágica. Eles ficaram surpresos, mas incentivaram Sofia a seguir em frente. Pipoca, o cachorrinho, latiu animado, como se também estivesse ansioso pela aventura.
+
+No dia seguinte, Sofia pegou a agenda e rumou para a cachoeira do Salto da Felicidade, que ficava nos arredores da cidade. Ela sabia que a viagem seria longa, então preparou uma mochila com lanche e água. Pipoca, claro, foi junto, abanando o rabo freneticamente.
+
+Chegando à cachoeira, Sofia leu a próxima anotação da agenda: "Encontre a pedra que chora, e a resposta se revelará." Ela começou a procurar. A cachoeira era linda, a água cristalina caía com força, formando um véu de espuma. Ela caminhou pelas pedras escorregadias, olhando em todos os lugares. De repente, viu uma pedra com pequenas gotas de água escorrendo. Parecia que a pedra estava chorando.
+
+Sofia tocou na pedra e sentiu uma energia estranha. Ao lado da pedra, ela encontrou outro bilhete, este mais longo: "A floresta escura guarda um segredo. Siga o caminho da sombra do sol poente para encontrar o mapa da floresta encantada."
+
+A aventura estava ficando cada vez mais emocionante! Sofia e Pipoca partiram para a floresta escura, que ficava próxima à cachoeira. Era um lugar misterioso, com árvores altas e sombras profundas. Sofia procurou a sombra do sol poente, que indicava o caminho certo.
+
+Caminharam por um tempo, até que encontraram um tronco de árvore caído, com um mapa desenhado em sua superfície. Era um mapa da floresta encantada, com trilhas, rios e até mesmo desenhos de animais mágicos. O mapa indicava a localização de uma árvore antiga, a Árvore da Sabedoria.
+
+Sofia e Pipoca seguiram o mapa. A floresta era cheia de sons estranhos, mas Sofia não sentia medo. Ela sabia que, com a agenda mágica, estava protegida. No final da trilha, encontraram a Árvore da Sabedoria, uma árvore enorme e imponente, com galhos retorcidos e folhas brilhantes.
+
+Na base da árvore, havia outro bilhete: "Para a aventura final, encontre a pena voadora."
+
+Sofia ficou curiosa. Pena voadora? Onde ela estaria? De repente, uma pena branca, leve como uma pluma, começou a voar ao seu redor. Ela tentou pegá-la, e a pena a guiava por entre as árvores.
+
+A pena a levou para uma clareira escondida, onde havia uma pequena cabana. Na porta da cabana, estava um novo bilhete, o último da agenda: "O tesouro final está dentro da cabana. Mas você deve ser gentil e compartilhar a riqueza."
+
+Sofia abriu a porta da cabana. Lá dentro, não havia ouro ou joias. Havia uma estante cheia de livros, de todos os tipos e tamanhos. No centro da sala, havia uma mesa com uma carta. Sofia pegou a carta e leu:
+
+"Querida Sofia,
+
+Esta agenda é mágica porque desperta a curiosidade, a coragem e a bondade. O verdadeiro tesouro não é material, mas sim o conhecimento e a capacidade de ajudar os outros. Compartilhe este conhecimento com o mundo, e a magia continuará.
+
+Com carinho,
+
+A pessoa que te admira."
+
+Sofia entendeu tudo. A agenda mágica não era sobre encontrar tesouros, mas sobre viver aventuras e aprender coisas novas. Ela sentiu uma felicidade imensa. Ela agora sabia que o conhecimento, a amizade e a gentileza eram os maiores tesouros que alguém pode ter.
+
+Ela saiu da cabana e voltou para a Vila Alegria, com Pipoca pulando ao seu lado. Ela contou tudo para seus pais e para Dona Aurora. Ela prometeu continuar suas aventuras, lendo livros, explorando o mundo e ajudando as pessoas.
+
+Sofia usou a agenda para escrever suas próprias anotações, planejando novas aventuras, aprendendo coisas novas e espalhando alegria por onde passava. E assim, a agenda mágica, que começou com mistério, tornou-se o livro da felicidade e da aventura, mostrando a todos que a vida, com seus desafios e descobertas, era a maior magia de todas. E, com um sorriso no rosto, Sofia sabia que suas aventuras estavam apenas começando. E Pipoca, fiel escudeiro, lateu, concordando com a menina aventureira. A agenda mágica e as anotações que conduziam a aventuras surpreendentes por aí, haviam transformado a vida de Sofia e a de todos ao seu redor, tornando-a mais colorida e especial. Fim.
+</body>
+```

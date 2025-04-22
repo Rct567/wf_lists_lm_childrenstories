@@ -1,0 +1,56 @@
+<prompt>
+Please write a dialog-based Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Az aranyhajú lány és a tündérek'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>Az aranyhajú lány és a tündérek</title>
+<body>
+
+Régen, egy csillogó, zöld erdő mélyén élt egy kislány, akinek haja olyan fényes volt, mint az arany.  Aranyhájúnknak hívták.  A kislány minden nap játszott a patak partján, gyönyörű virágokat szedve és énekelve a madarakkal.  Egy nap, miközben egy különleges, gyönyörű kék virágot keresett, egy furcsa, kis zöld kunyhót talált a fának támaszkodva.
+
+"Ki van itt?" kérdezte Aranyhájúnk csodálkozva.
+
+A kunyhó ajtaja kinyílt, és egy csillogó, tündöklő tündér lépett ki.  A tündér tiszta fehér ruhát viselt, szárnyai pedig, mintha apró kristályokból lettek volna, csillogtak.
+
+"Üdvözöllek, Aranyhájúnk!" mondta a tündér. "Én vagyok a Csillagportündér. Jöttem, hogy segítsd a barátaimat, akik bajba kerültek."
+
+"Bajba kerültek?" kérdezte Aranyhájúnk meglepetten. "Mit tehetek értük?"
+
+"A rossz varázslónő, Szomorú Szépség elrabolta a virágaikat, és bezárta őket egy titkos barlangba, a Hegyek Szeme alatt."
+
+"El kell mennem hozzájuk!" kiáltotta Aranyhájúnk.  "Hogy találom meg a Hegyek Szeme-t?"
+
+"A varjú-madár vezéreljen téged!" mondta Csillagportündér. "A reggeli fényben délre repül.  Kövesd az ösvényét, és eljut majd a titkos barlanghoz."
+
+Aranyhájúnk köszönetét mondta Csillagportündérnek, és megindult az útra.  A nap felkelt, a varjú-madár repülni kezdett a magasba, és Aranyhájúnk követte az ösvényét, figyelve a madár repülését, az ég szineit. A vidék egyre meredekebb lett, és egyre többet látott a tájból, mint egy festményből.  Végül, egy sötét barlang szája nyílt meg a sziklákból, mintha egy oroszlán szájából szakadt ki. Ott pihent meg a varjú.
+
+"Itt van!" mondta Aranyhájúnk, és bemászott a barlang sötét, vizes folyosóiba.  A barlang mélyén fényt látott - fényesen virító, különböző színű virágokat. A levegő tele volt furcsa illatokkal, és olyan csodálatos színek között mozgott, amit még soha nem látott. A hangos üvöltések elcsendesültek a barlang mélyén, a csend elhalványította a rossz érzéseket.
+
+"Aranyhájúnk!" sikoltott fel egy hang. "Szabadíts meg minket innen!"
+
+A hang egy apró, gyönyörű lila tündér hangja volt.  Körülötte sok más, csendes virág tündér húzódott meg a virágokban, amelyek még megpróbáltak szép lenni.
+
+"Mi történt veletek?" kérdezte Aranyhájúnk.
+
+"Szomorú Szépség varázsolt minket ide!" válaszolta a lila tündér. "És megtiltotta, hogy bárki meglátogasson bennünket!"
+
+"Nem hagylak titeket itt!" mondta határozottan Aranyhájúnk.  Gyűjteni kezdte a virágkrémet, melyet a varázslónő hagyott az őrzés alatt, s amelyről megértette, hogy képes megnyitni a titokzatos zárkákat. Ezután egy gyors mozdulattal elkezdett szétverni minden szikla falat a barlang körül.
+
+Érezte, hogy Szomorú Szépség feljebb és feljebb megy. Még erősebben küzdött Aranyhájúnk a barlang körül. Lassan, de biztosan, a környezet elkezdte romlani a föld alatt.  Végül, a barlang földre hullott, és Szomorú Szépség távolodni kezdett.  Szabadon állhattak Aranyhájúnk körül a szépséges tündérek!
+
+Aranyhájúnk és a virág-tündérek együtt táncoltak és nevettek, a csodálatos barlang újra kellemessé vált számukra.  Aranyhájúnk örömteli szívvel tért vissza az erdőbe.
+
+Csillagportündér várta, és megdicsérte Aranyhájúnk bátorságát.  Aranyhájúnk és a virágtündérek ezentúl örökre barátként éltek egymás mellett a ragyogó, zöld erdőben, s vigyáztak egymásra.
+A híre elterjedt a varázslónőről és az aranyhajú lányt arról, hogy jóvátette a hibáit és újra megmutatta a virágokat és a világ örök örömeit.
+
+
+
+</body>

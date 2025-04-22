@@ -1,0 +1,35 @@
+<prompt>
+Please write a timeless Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>uz</lang_id>
+
+<title>Bola va uning sarguzashtlari</title><body>Uzoq-zamonlar davomida, Farg'ona vodiysida kichkina qishloq bo'lib, unda Bola ismli yosh o'g'il yashardi. Bola juda qiziquvchan va sarguzashtlarga chanqoq edilar. U doimiy ravishda o'z qishlog'ining chegaralaridan tashqariga chiqishni va yangi joylarni ko'rishni istardilar.
+
+Bir kuni, Bola o'zining eng yaqin do'stlari, Qodir va Dilnoza bilan gaplashayotgan edilar. Ular qishloqning chekkasida, katta dara bo'ylab o'tayotgan eski yo'lni ko'rdilar. Bola yo'l haqida so'radi, Qodir unga yo'lni eslab, u juda xavfli ekanligini aytdi. Yo'l juda tepa-qirrali bo'lib, ko'p odamlar u yo'ldan o'tib, yo'q bo'lib ketishgan, dedi Qodir.
+
+Bola bu gaplardan qo'rqib ketmadi, balki uning qiziqishi yanada ortdi. U do'stlariga yo'lni ko'rishga borishni taklif qildi. Qodir va Dilnoza dastlab rozi bo'lmadilar, lekin Bola ularni ishontirib, yo'lga chiqishdi.
+
+Yo'l juda qiyin edi, Bola va uning do'stlari bir necha marotaba to'xtashga majbur bo'ldilar. Lekin ular yo'ldan qaytishmadi, chunki Bola ularni davom etishga undardi. Bir necha soatlik sayohatdan so'ng, ular katta tog'ning etagiga yetib bordilar.
+
+Tog' juda baland edi, Bola va uning do'stlari uning cho'qqisiga chiqishga qaror qildilar. Yo'l juda xavfli edi, lekin ular davom etdilar. Bir necha marotaba ular qulab tushish arafasida edilar, lekin Bola ularni ushlab turdi.
+
+Nihoyat, ular tog' cho'qqisiga yetib bordilar. U yerda ular ajoyib manzara ko'rdilar. Farg'ona vodiysining butun ko'rinishi ularning oldilarida ochilgan edi. Bola va uning do'stlari juda xursand bo'ldilar, chunki ular hech qachon bunday go'zallikni ko'rmagan edilar.
+
+Tog' cho'qqisida, ular kichkina guvoh uchratdilar. U yerda ular qadimiy yozuvlarni topdilar. Yozuvlarda Farg'ona vodiysining tarixi haqida gap borardi. Bola va uning do'stlari yozuvlarni o'qib, vodiysining qadimiy aholisi haqida bilib oldilar.
+
+Bola va uning do'stlari tog' cho'qqisida bir necha soat qoldilar. Ular vodiysining go'zalligini ko'rib, tarixi haqida o'qidilar. So'ngra ular qishloqlariga qaytishga qaror qildilar. Yo'l orqaga qaytishda ham xavfli edi, lekin ular endi tajribali edilar.
+
+Qishloqqa qaytgach, Bola va uning do'stlari o'zlarining sarguzashtlari haqida gapirib, boshqalarga yo'lni ko'rishga taklif qildilar. Lekin Qodir va Dilnoza yo'lni xavfli deb hisoblab, boshqalarni ogohlantirdilar.
+
+Bola yo'q bo'lib ketish xavfi haqida o'ylamadi, chunki u o'zining qiziqishi va sarguzashtlarga chanqoqligini boshqalarga namuna qilib ko'rsatmoqchi edilar. Shu tariqa, Bola va uning do'stlari Farg'ona vodiysida mashhur bo'lib, ularning sarguzashtlari haqida hamma gapirardi.
+
+Yillar o'tdi, Bola katta bo'lib, o'z qishlog'ida ulkan odamga aylandi. U o'zining sarguzashtlari haqida eslab, yoshligida qilgan ishlari haqida qayg'urardi. Lekin u hali ham o'zining qiziquvchanligini yo'qotmagan edi, chunki u hali ham yangi joylarni ko'rishni va sarguzashtlarga chanqoq edilar.
+
+Shu tariqa, Bola o'zining umrini sarguzashtlar va yangi joylarni ko'rishda o'tkazdi. U o'zining qishlog'ida ulkan odamga aylandi, lekin uning qalbi hali ham yosh edilar, chunki u hali ham sarguzashtlarga chanqoq edilar. Va shu tariqa, Bola o'zining umrini xursandlik va sarguzashtlar bilan o'tkazdi.</body>

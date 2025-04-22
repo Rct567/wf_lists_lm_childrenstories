@@ -1,0 +1,88 @@
+<prompt>
+Please write a educational Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'An Chúigí Mhíorúilteach agus na Fathaigh Fásta'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>ga</lang_id>
+
+<title>An Chúigí Mhíorúilteach agus na Fathaigh Fásta</title><body>Bhí cónaí ar Chormac, buachaill óg cróga, i sráidbhaile beag i gContae na Gaillimhe. Bhí sé naoi mbliana d’aois agus bhí grá mór aige d’eachtraí agus d’fhantaisí. Bhí sé i gcónaí ag súil le rud éigin nua a fhoghlaim nó le scéal nua a chloisteáil. Lá amháin, nuair a bhí sé ag siúl tríd an gcoill lasmuigh den sráidbhaile, thug sé faoi deara rud aisteach – doras beag adhmaid ag oscailt isteach i gcrann mór darach.
+
+Bhí Cormac fiosrach mar ghnáth agus ní raibh sé in ann an doras a sheachaint. Shuigh sé síos ar a dhá glúin agus bhreathnaigh sé isteach tríd an doras. Bhí solas bog ag lonrú taobh istigh, agus chuala sé ceol binn ag teacht ó áit éigin i bhfad i gcéin. “Tá sé seo suimiúil,” arsa Cormac leis féin, agus sháigh sé a cheann isteach.
+
+Go tobann, thit sé isteach sa doras agus tháinig sé ar a bheatha i saol iontach, áit a raibh gach rud níos mó ná mar a bhí sé riamh. Bhí na crainn chomh hard le sléibhte, na bláthanna chomh mór le tithe, agus na héin ag canadh go hard os cionn a chinn. Ach ní raibh sé ag féachaint ar an áit i bhfad nuair a chuala sé torann trom ag teacht i dtreo air.
+
+“Cé atá ann?” arsa guth mór borb. Chas Cormac timpeall agus chonaic sé fathach ollmhór ag seasamh os a chomhair. Bhí sé chomh hard le caisleán, agus a chuid gruaige mar a bheadh coirce ag fás trí thalamh. Bhí sé ag féachaint síos ar Chormac le súile móra gorma.
+
+“Tá brón orm!” arsa Cormac go tapa, agus é ag iarraidh a bheith cineálta. “Ní raibh mé ag iarraidh cur isteach ort.”
+
+Rinne an fathach gáire mór. “Ná bíodh imní ort, a bhuachaill bhig,” ar seisean. “Tá fáilte romhat i dtír na nGig. Ach tá sé tábhachtach go dtuigeann tú na rialacha anseo.”
+
+“Na rialacha?” arsa Cormac, agus é ag déanamh iontais.
+
+“Sea,” arsa an fathach. “Tá cúig mhíorúilt sa tír seo, agus tá cúig fathach fásta ina gcónaí anseo freisin. Caithfidh tú na míorúiltí a fhoghlaim agus a úsáid chun dul abhaile arís.”
+
+Bhí Cormac fiosrach faoi na míorúiltí agus na fathaigh. “Cé hiad na míorúiltí?” ar seisean.
+
+“An chéad mhíorúilt,” arsa an fathach, “is í an chaint. Tá cumhacht ag baint le gach focal a labhraíonn tú. Mar sin, bí cúramach leis na focail a úsáideann tú.”
+
+“An dara míorúilt,” ar seisean, “is í an chuimhne. Ná déan dearmad ar na scéalta agus na heachtraí a tharlaíonn duit. Tá siad tábhachtach.”
+
+“An tríú míorúilt,” arsa an fathach ag leanúint air, “is í an ghrá. Tugann sé neart duit le dul trí aon trioblóid.”
+
+“An ceathrú míorúilt,” ar seisean, “is í an fhiosracht. Tugann sé léargas duit ar an saol mór thart timpeall ort.”
+
+“Agus an cúigiú míorúilt,” arsa an fathach ag críochnú, “is í an misneach. Tá sé tábhachtach go mbeidh misneach agat le dul ar aghaidh, fiú nuair atá eagla ort.”
+
+Bhí Cormac ag smaoineamh ar na míorúiltí nuair a chuala sé torann eile. Bhí fathach eile ag teacht i dtreo na háite. Bhí sé níos lú ná an chéad fhathach, ach bhí sé chomh láidir le bullán.
+
+“Cé hé seo?” arsa an dara fathach, agus é ag stánadh ar Chormac.
+
+“Is é Cormac é,” arsa an chéad fhathach. “Tá sé ag foghlaim faoinar gcúigí mhíorúilteacha.”
+
+“Ah, tá sé go maith,” arsa an dara fathach. “Ach tá sé tábhachtach go dtuigeann sé freisin go bhfuil cúigí dúshlán againn anseo freisin. Caithfidh sé iad a shárú chun dul abhaile.”
+
+“Cé hiad na dúshláin?” arsa Cormac, agus é ag iarraidh a bheith cróga.
+
+“An chéad dúshlán,” arsa an dara fathach, “is í an eagla. Caithfidh tú dul trí scáth na heagla chun teacht ar an gcéad mhíorúilt.”
+
+“An dara dúshlán,” ar seisean, “is é an amhras. Ní mór duit é a shárú chun an dara míorúilt a fháil.”
+
+“An tríú dúshlán,” arsa an fathach, “is é an ghruaim. Caithfidh tú teacht slán as an ngruaim chun an tríú míorúilt a aimsigh.”
+
+“An ceathrú dúshlán,” ar seisean, “is é an t-uaigneas. Ní mór duit é a shárú chun teacht ar an gceathrú míorúilt.”
+
+“Agus an cúigiú dúshlán,” arsa an fathach ag críochnú, “is é an t-éadóchas. Caithfidh tú éirí as an éadóchas chun an cúigiú míorúilt a fháil.”
+
+Bhí Cormac ag smaoineamh ar na dúshláin nuair a thosaigh an chéad fhathach ag caint arís. “Tá sé in am duit tosú,” ar seisean. “Tá an chéad dúshlán romhat.”
+
+Chuaigh Cormac ar aghaidh go cróga. Bhí sé ag siúl tríd an gcoill mhór nuair a chonaic sé scáth ollmhór ag teacht i dtreo air. Bhí sé ag éirí níos dorcha agus níos dorcha, agus bhí eagla ag teacht ar Chormac. Ach ansin, chuimhnigh sé ar an gcéad mhíorúilt – an chaint. Labhair sé amach go láidir.
+
+“Ní bheidh eagla orm!” ar seisean. “Tá mé láidir agus tá mé cróga!”
+
+Go tobann, scairt an scáth agus imigh sé ar shiúl. Bhí an chéad dúshlán sárú aige.
+
+Lean Cormac air agus tháinig sé ar an dara dúshlán – an t-amhras. Bhí sé ag smaoineamh ar a chuid féin agus ar an méid a bhí le déanamh aige. Ach ansin, chuimhnigh sé ar an dara míorúilt – an chuimhne. Bhí sé ag cuimhneamh ar na scéalta a d’inis a sheanmháthair dó, agus thug sé misneach dó féin.
+
+“Tá mé in ann é seo a dhéanamh,” ar seisean, agus sháraigh sé an dara dúshlán.
+
+Lean sé ar aghaidh go dtí an tríú dúshlán – an ghruaim. Bhí sé ag éirí tuirseach agus bhí sé ag smaoineamh ar an mbailtigh abhaile. Ach ansin, chuimhnigh sé ar an tríú míorúilt – an grá. Bhí sé ag cuimhneamh ar a mhuintir agus ar a chairde, agus thug sé neart dó féin.
+
+“Tá grá agam dóibh siúd atá ag fanacht liom,” ar seisean, agus sháraigh sé an tríú dúshlán.
+
+Lean sé air go dtí an ceathrú dúshlán – an t-uaigneas. Bhí sé ina aonar agus bhí sé ag mothú uaigneach. Ach ansin, chuimhnigh sé ar an gceathrú míorúilt – an fhiosracht. Bhí sé ag féachaint ar an saol thart timpeall air agus ag foghlaim faoi na rudaí nua a bhí ann.
+
+“Nílim uaigneach,” ar seisean. “Táim ag foghlaim agus ag fáil níos láidre.”
+
+Faoi dheireadh, tháinig sé ar an gcúigiú dúshlán – an t-éadóchas. Bhí sé ag smaoineamh ar an méid a bhí le déanamh fós agus bhí sé ag éirí éadóchasach. Ach ansin, chuimhnigh sé ar an gcúigiú míorúilt – an misneach.
+
+“Tá mé cróga,” ar seisean. “Tá mé in ann é seo a dhéanamh.”
+
+Go tobann, bhí sé ar ais sa choill taobh amuigh den sráidbhaile. Bhí sé ar ais sa bhaile, agus bhí na míorúiltí agus na dúshláin caite aige. Ach bhí rud amháin fós le déanamh aige – an scéal a insint do na daoine eile.
+
+Agus mar sin, d’inis Cormac an scéal dóibh siúd a bhí ag éisteacht leis. Agus ó shin i leith, ní raibh eagla ar Chormac roimh aon rud. Bhí a fhios aige go raibh na cúigí mhíorúilteacha agus na cúigí dúshlán ann chun é a neartú.</body>

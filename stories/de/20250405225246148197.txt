@@ -1,0 +1,61 @@
+<prompt>
+Please write a emotional German children's story that is at least 1000 words long.
+It must be completely written in proper German (DE).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Der Drache, der seine Freunde beschützte und stets treu blieb.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>de</lang_id>
+
+```xml
+<title>Der Drache, der seine Freunde beschützte und stets treu blieb.</title>
+<body>
+In einem tiefen, grünen Wald, wo die Sonnenstrahlen durch die Blätter tanzten und kleine Bäche murmelten, lebte ein Drache. Doch dieser Drache, Ignaz, war anders. Er war nicht furchteinflößend, wie man es von Drachen erwarten würde. Nein, Ignaz hatte leuchtend grüne Schuppen, die wie Smaragde schimmerten, und seine Augen waren so sanft und golden wie Honig. Sein Feueratem war weniger zerstörerisch, sondern eher ein warmer Hauch, der Blumen zum Blühen brachte.
+
+Ignaz liebte den Wald und all seine Bewohner. Er teilte seine Höhle mit Eichhörnchen, die Nüsse in seinen Kammern versteckten, und er beschützte die kleinen Waldvögel vor den kalten Winterstürmen. Seine engsten Freunde waren Clara, ein scheues Reh mit einem weißen Fleck auf der Stirn, und Barnaby, ein alter, weiser Dachs mit einer Brille.
+
+Clara und Barnaby wussten, dass Ignaz' Herz so groß war wie seine Flügel. Er war immer da, wenn sie ihn brauchten. Ob es darum ging, einen verlorenen Hasenjungen zu finden, oder einen Baum umzustoßen, um eine Sonne zum Blühen zu bringen, Ignaz half stets mit Freude und ohne zu zögern.
+
+Eines Tages, als die Blätter sich bereits in leuchtenden Herbstfarben färbten, brach eine dunkle Zeit über den Wald herein. Ein hartherziger Jäger, bekannt als der Knochenbrecher, kam in den Wald, auf der Suche nach seltenen Tieren für seine Trophäensammlung. Der Knochenbrecher war grausam und rücksichtslos. Er achtete nicht auf das Leben und erfreute sich an dem Leid anderer.
+
+Die Nachricht vom Knochenbrecher verbreitete sich wie ein Lauffeuer im Wald. Die Tiere versteckten sich, zitternd vor Angst. Clara und Barnaby waren entsetzt. Sie wussten, dass der Knochenbrecher eine Gefahr für alle war, aber vor allem für sie, die so verletzlich waren.
+
+"Ignaz," sagte Clara, ihre Stimme bebend, "wir müssen etwas tun!"
+
+Barnaby nickte zustimmend. "Der Knochenbrecher wird alles zerstören, was uns lieb ist."
+
+Ignaz, hörte ihren Angst und Trauer. Seine Augen verengten sich vor Entschlossenheit. Er brummte tief aus seiner Brust, ein Geräusch, das sowohl Stärke als auch Mitgefühl enthielt. "Fürchtet euch nicht, meine Freunde. Ich werde euch beschützen."
+
+Und so begann Ignaz, den Wald zu bewachen. Er patrouillierte unermüdlich, seine Schuppen glänzten in der Sonne, seine Flügel schlugen majestätisch durch die Luft. Er hielt Ausschau nach dem Knochenbrecher, bereit, ihn zu stoppen, bevor er Schaden anrichten konnte.
+
+Zuerst versteckte Ignaz die empfindlichsten Tiere. Er platzierte sie in seiner Höhle, sicher vor den Augen des Knochenbrechers. Er sorgte für ihre Verpflegung, und teilte ihnen seine letzte Nuss und Wurzeln. Er ermahnte sie mit freundlicher Stimme: „Seid leise, meine Freunde, und versteckt euch gut. Der Jäger wird früher oder später müde werden und sich verzogen.“
+
+Doch der Knochenbrecher war hartnäckig. Er schlich durch den Wald, suchte nach Beute und versuchte, Ignaz zu überlisten. Er lockte die Tiere mit Fallen, tarnte sich und gab sich als Freund aus.
+
+Eines Tages entdeckte der Knochenbrecher Clara, die sich an einem Bachlauf erfrischte. Er schlich sich an sie heran, bereit, sie mit seinem Netz zu fangen. Doch Ignaz, der stets aufmerksam war, sah alles. Er stürzte sich mit einem mächtigen Brüllen auf den Jäger. Sein warmer Atem umhüllte den Knochenbrecher, und er verlor die Kraft.
+
+Der Knochenbrecher stolperte zurück, verängstigt von Ignaz' Erscheinung und Wut. Doch er ließ nicht locker. Er warf sein Netz nach Clara, aber Ignaz schoss dazwischen und fing das Netz mit seinen Zähnen auf. Der Jäger fluchte und versuchte, Ignaz zu verletzen, aber seine Versuche scheiterten.
+
+Mit einem kräftigen Ruck zerriss Ignaz das Netz, ließ den Jäger seine Wut zu spüren bekommen. Er knurrte tief und tief und sagte in dröhnender Stimme: "Verlass den Wald! Verlasse die Heimat meiner Freunde, oder du wirst die Konsequenzen spüren!"
+
+Der Knochenbrecher, eingeschüchtert von Ignaz' Stärke und Entschlossenheit, floh. Er rannte so schnell er konnte, ohne jemals wiederzukehren.
+
+Die Nachricht von Ignaz' Tapferkeit verbreitete sich im ganzen Wald. Die Tiere jubelten und feierten ihren Retter. Clara und Barnaby rannten zu Ignaz, ihre Herzen voller Dankbarkeit und Liebe.
+
+"Du bist unser Held, Ignaz!" rief Clara, Tränen der Freude in den Augen.
+
+"Du hast uns gerettet, Ignaz. Du bist unser bester Freund," sagte Barnaby, seine Stimme war nun auch gefüllt mit Tränen.
+
+Ignaz lächelte. Seine grünen Schuppen funkelten im Sonnenlicht, und seine goldenen Augen strahlten vor Glück. "Ich bin froh, dass ich euch helfen konnte. Ihr seid meine Freunde, und ich werde euch immer beschützen."
+
+Von diesem Tag an lebten die Tiere des Waldes in Frieden und Sicherheit. Ignaz war immer zur Stelle, bereit, seine Freunde zu verteidigen. Er teilte seine Höhle, seinen wärmenden Atem und seine grenzenlose Freundschaft. Clara und Barnaby blieben seine engsten Vertrauten, und gemeinsam erlebten sie viele weitere Abenteuer.
+
+Der Winter kam und ging, der Frühling kehrte zurück, und der Kreislauf des Lebens setzte sich im Wald fort. Aber eines war immer gleich: Ignaz' Treue. Er blieb stets seinen Freunden verbunden, verteidigte sie mit Mut und Stärke und ließ sie niemals im Stich. Seine Freundschaft war ein Leuchtfeuer der Hoffnung und des Vertrauens, ein Beweis dafür, dass wahre Freundschaft stärker ist als alle Dunkelheit, die über uns kommen kann.
+
+So lebte Ignaz, der Drache, im Herzen des Waldes, ein Freund, Beschützer und treuer Begleiter für alle. Seine Geschichte wurde von Generation zu Generation weitergegeben, als eine Erinnerung daran, dass Freundschaft und Treue die mächtigsten Kräfte der Welt sind. Und tief in ihrem Herzen wussten alle, dass Ignaz, der Drache, sie stets beschützen würde, bis zum Ende der Zeit.
+</body>
+```

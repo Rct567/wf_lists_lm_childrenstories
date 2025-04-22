@@ -1,0 +1,67 @@
+<prompt>
+Please write a relatable Galician children's story that is at least 1000 words long.
+It must be completely written in proper Galician (GL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A aventura do pirata Barbanegra e o seu papagaio falador, Coco.'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>gl</lang_id>
+
+```xml
+<title>A aventura do pirata Barbanegra e o seu papagaio falador, Coco.</title>
+<body>
+Nunha vila pequeniña, acubillada entre as verdes montañas e o mar bravío da Galiza, vivía un pirata moi peculiar: Barbanegra. Non, non era un pirata calquera. Este Barbanegra, a pesar do seu nome ameazante e a súa barba longa e negra coma a noite, era un home amable, risoño e, sobre todo, un amante dos animais. A súa casa, unha humilde cabana de madeira cun tellado de palla, estaba sempre chea de bichos: cans farellos, gatos xoguetóns e, por suposto, o seu inseparable compañeiro, o papagaio Coco.
+
+Coco, cunhas plumas multicolores que recordaban as cores do solpor sobre o mar, era máis que un simple papagaio. Era un animal falador, case un membro máis da familia. Sabía repetir palabras e frases, e mesmo adoitaba facer comentarios sarcásticos que facían rir a Barbanegra a gargalladas. "¡Ola, Barbanegra! ¿Xa preparaches o almorzo con sardiñas e empanada?", exclamaba Coco cada mañá, mentres se balanceaba na súa percha de madeira.
+
+Un día, mentres Barbanegra estaba a limpar a súa vella carabela, "A Gaivota Viaxeira", Coco, sentado no seu ombro, anunciou cun ton moi serio: "Barbanegra, Barbanegra, teño un presentimento! ¡Necesitamos unha aventura!".
+
+Barbanegra soltou unha risa sonora. "Unha aventura, Coco? ¿E que aventura podería querer un pirata xubilado como eu?". Levaba anos sen navegar, dedicado a coidar do seu xardín e a pescar no río.
+
+"Non importa, Barbanegra! As aventuras atópanse soas!", replicou Coco, batendo as súas ás con entusiasmo. "O vento está a soprar forte, a carabela está preparada, e eu… eu teño un mapa!".
+
+Barbanegra arqueou unha cela. "¿Un mapa? ¿Ti tes un mapa, Coco?".
+
+Coco inclinou a cabeza e, con moito traballo, sacou unha pequena peza de papel do interior dunha caixa de madeira. Era un mapa debuxado con carbón, con trazos infantís e imprecisos.
+
+"Atopeino na praia, enterrado na area. Semella un mapa do tesouro!", explicou Coco, orgulloso.
+
+Barbanegra estudou o mapa con coidado. É certo que os debuxos eran un pouco confusos: un sol sorrinte, un peixe enorme, unha montaña con forma de queixo e unha cruz marcada cunha ‘X’. "Non teño moi claro onde nos leva isto, Coco", admitiu Barbanegra, "pero a curiosidade pode ser máis forte que a miña… preguiña!".
+
+E así, sen moito pensalo, Barbanegra e Coco embarcáronse na Gaivota Viaxeira. O vento encheu as velas e a carabela deslizouse sobre as ondas. A aventura comezara!
+
+Seguiron o mapa. Primeiro, navegaron cara ao sur, onde o sol sorría coma no debuxo. Despois, atoparon un peixe inmenso (unha balea, para ser precisos) que parecía saído do mapa. Coco non paraba de repetir: "¡É el, é el, o peixe do mapa!".
+
+A viaxe non foi fácil. Houbo tempestades que fixeron bailar á carabela coma unha folla ao vento. Tiveron que loitar contra o mar, reparar as velas rotas e, para a súa sorpresa, incluso cruzar unha néboa espesa que parecía estar viva. Coco, a pesar do medo, daba ánimos a Barbanegra. "¡Ánimo, capitán! ¡Somos piratas! ¡Os piratas non se afogan nas néboas!".
+
+Tras moitos días de navegación, chegaron á misteriosa montaña con forma de queixo, tal e como indicaba o mapa. Aterraron nunha pequena praia, e comezaron a subir pola montaña. O camiño era empinado e pedregoso. Barbanegra, coa súa idade, cansábase moito, pero Coco animábao constantemente. "¡Ata arriba, capitán! ¡O tesouro espéranos!".
+
+Chegaron á cima da montaña, e alí, na mesma crista, estaba a “X” marcada no mapa. Comezaron a cavar, coa axuda dunha pa que Barbanegra gardaba na carabela. Cavaron e cavaron, e o medo á decepción foi crecendo. Quizais o mapa fose falso, ou quizais…
+
+De súpeto, a pa topou con algo duro. Cavaron con máis coidado e, coa axuda da luz do sol que comezaba a caer, descubriron un cofre de madeira, decorado con sereas e golfiños.
+
+O corazón de Barbanegra bateu con forza. Coa axuda de Coco, que grazas ao seu bico logrou axudar na apertura, abriron o cofre. En vez de moedas de ouro e xoias preciosas, o cofre estaba cheo ata arriba con… pedras de río!
+
+Barbanegra quedou abraiado. "¿Pedras de río? ¿Este era o tesouro?", exclamou, un pouco decepcionado.
+
+Coco, nun principio, tamén parecía desanimado. Pero, despois de observar as pedras máis detidamente, exclamou: "¡Non, Barbanegra! ¡Mira ben! ¡Son pedras moi especiais!".
+
+Barbanegra analizou as pedras. Eran de diferentes formas, cores e tamaños. Algunhas eran lisas e brillantes, outras rugosas e con curiosas vetas.
+
+"Son pedras que conteñen historias, Barbanegra", explicou Coco. "Cada pedra é un pequeno tesouro. Lembra os ríos, as montañas e as aventuras que viviran!".
+
+Barbanegra comprendeu o que Coco quería dicir. O verdadeiro tesouro non estaba no ouro, senón na viaxe, na experiencia e na amizade que compartían.
+
+Recolleron as pedras, enchendo o cofre unha vez máis. Regresaron á carabela e iniciaron o camiño de volta a casa. A viaxe de volta foi tranquila e relaxante. Barbanegra e Coco falaban sobre a aventura, sobre as tempestades, sobre o peixe inmenso, e sobre as pedras de río.
+
+Cando chegaron á súa vila, Barbanegra sentiu máis feliz que nunca. Estivera fóra durante moito tempo e botara de menos o seu fogar.
+
+En lugar de gardar as pedras no cofre, Barbanegra decidiu construír un pequeno xardín con elas. Colocou cada pedra con coidado, creando unha pequena representación dos lugares que visitaran. Cada día, sentábase no xardín, contemplando as pedras, lembrando a aventura e agradecendo a Coco por ser o seu compañeiro.
+
+Aínda que non atoparon moedas de ouro, Barbanegra e Coco tiñan un tesouro moito máis valioso: a memoria da súa aventura, a forza da súa amizade e a certeza de que, xuntos, podían afrontar calquera desafío. E así, Barbanegra, o pirata amable, e o seu papagaio falador, Coco, viviron felices e tranquilos, esperando con ansia a seguinte aventura, quizais un pouco menos emocionante, pero igualmente valiosa. E de vez en cando, Coco aínda dicía: "Barbanegra, Barbanegra… ¿preparaches a empanada?".
+</body>
+```

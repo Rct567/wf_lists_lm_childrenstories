@@ -1,0 +1,66 @@
+<prompt>
+Please write a dialog-based Welsh children's story that is at least 1000 words long.
+It must be completely written in proper Welsh (CY).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Bachgen bychan yn ddigybl am wynt'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>cy</lang_id>
+
+```xml
+<title>Bachgen bychan yn ddigybl am wynt</title>
+<body>
+“Bore da, Mali!” meddai Ifan, gan dynnu ei blu o'i wyneb. Roedd y gwynt yn chwythu'n ddig, gan godi'r llwch a throi'r coed yn wyllt.
+“Bore da, Ifan,” atebodd Mali, ei gwallt yn dawnsio yn y gwynt. “Wyt ti'n mynd i chwarae heddiw?”
+“Wel, roeddwn i'n gobeithio. Ond mae 'na wynt braf, ynte?” holodd Ifan, gan grychu ei dalcen bach.
+“Yn braf? Ifan, mae'n ddigon cryf i godi ceffylau!” chwerthinodd Mali.
+“Dydi o ddim yn deg,” grachodd Ifan, gan ddŵr ei droed ar y ddaear. “Rwy'n casáu gwynt. Mae bob amser yn mynd i mewn i fy llygaid ac yn chwythu fy nysgl…”
+“Dy ddisgl?” gofynnodd Mali, gan edrych arno'n amheus.
+“Ydy, fy nysgl,” ailadroddodd Ifan, gan ddifrad. Roedd bob amser yn anodd iddo ddweud y gair "disgl" yn gywir.
+“Wel, beth am i ni chwarae y tu mewn heddiw?” awgrymodd Mali, gan geisio bod yn ddeallgar.
+“Na!” sgrechodd Ifan yn sydyn. “Rwy eisiau bod allan. Rwy eisiau chwarae gyda fy char.”
+“Ond… efallai bydd y gwynt yn ei chwythu i ffwrdd?” meddai Mali.
+“Ni fydd! Rwy'n mynd i'w gadw'n dda,” addawodd Ifan. “Dewch, Mali!”
+Cydsyniodd Mali, gan wybod na fyddai Ifan yn rhoi'r gorau iddi mor hawdd. Aethon nhw allan i'r awyr agored. Roedd y gwynt yn chwythu'n galed iawn.
+“Gweler, Mali! Mae'n ofnadwy!” gwaeddodd Ifan, ei lygaid yn ddyfrllyd. Ceisiodd ddod o hyd i le tawelach, ond roedd y gwynt ym mhobman.
+“Ewch i'r goeden fawr honno, Ifan!” awgrymodd Mali, gan ddangos i'r goeden derw enfawr oedd yn sefyll ar gornel y cae. “Efallai bydd hi'n rhoi rhywfaint o gysgod i chi.”
+Rhedegodd Ifan i'r goeden, gan glynu wrthi fel bod y gwynt yn pasio heibio iddo. Gyda'i gilydd, llwyddon nhw i ddal ei gar.
+“Dyma fo!” gwaeddodd Ifan yn llawen, ei wyneb wedi'i oleuo gan wên. “Rydw i wedi ei gael!”
+Eisteddodd Ifan i lawr a dechreu chwarae gyda'i gar. Roedd yn ceisio ei yrru ar hyd y ddaear, ond roedd y gwynt bob amser yn ei chwythu i ffwrdd.
+“Mae'n anodd iawn!” difaruodd Ifan. “Ni allaf ei gadw ar y ddaear.”
+“Wyt ti eisiau i mi dy helpu?” gofynnodd Mali.
+“Ydw, os gwelwch yn dda,” atebodd Ifan, gan edrych i fyny arni.
+Gofynnodd Mali i Ifan, gan ddal y gar yn braf.
+“Gadewch i ni geisio ei gadw rhag mynd heibio,” meddai Mali.
+Dechreuodd Ifan a Mali chwarae gyda'i gar gyda'i gilydd. Roedd Mali yn ddal y car a Ifan yn ei yrru. Fe wnaethon nhw bwyso'n gadarn ar y ddaear i gadw'r cerbyd rhag mynd i ffwrdd. Roedd yn anodd iawn oherwydd y gwynt cryf.
+“Mae'n dal i fod yn anodd,” meddai Ifan, ond roedd wedi dechrau chwerthin.
+“Rydyn ni'n llwyddo i chwarae!” atebodd Mali, gan chwerthin hefyd.
+Ar ôl amser hir, roedd y ddau blentyn yn flinedig.
+“Faint am stopio am ychydig?” gofynnodd Mali, ei llaw yn dal y car.
+“Ydw,” cytunodd Ifan, ac roedd yn edrych ychydig yn wahanol.
+“Rwy'n dal i fod yn colli am y gwynt,” dywedodd Ifan. “Ond… mae'n well pan rydyn ni'n chwarae gyda'n gilydd.”
+“Ydy,” atebodd Mali. “Mae bob amser yn well pan rydyn ni'n chwarae gyda'n gilydd.”
+Eisteddon nhw'n dawel am ychydig, yn edrych ar y coed yn siglo yn y gwynt.
+“Wyt ti'n gwybod beth?” meddai Ifan yn sydyn. “Mae'r gwynt yn edrych yn dda heddiw.”
+Edrychodd Mali arno'n synnu.
+“Really?” gofynnodd Mali.
+“Ydy,” atebodd Ifan. “Mae'n symud y coed yn dawnsio. Mae'n gwneud i'r awyr edrych yn fawr iawn.”
+“Rydych chi'n iawn,” atebodd Mali. “Mae'n debyg fod y gwynt yn… ychydig yn hwyl.”
+Chwerthinodd Ifan. “Weithiau, efallai.”
+Am y gorffennol, roedd ifan yn ddrwg am hynny. Ond ar hyn o bryd, roedd yn falch o fod allan yn y gwynt gyda Mali.
+“A ddylen ni adeiladu castell tywod, i’r ysgol?” gofynnodd Mali.
+“Ydy! Ond… fe fydd y gwynt yn ei chwythu i ffwrdd!” meddai Ifan, gwasgu ei lygaid.
+“Efallai,” atebodd Mali, “Ond gallwn adeiladu rhywbeth braf iawn rydyn ni’n gallu mwynhau.”
+“Iawn,” atebodd Ifan, gan wenu.
+Aeth y ddau o'r plant i fwyta brecwast ac i baratoi ar gyfer y diwrnod.
+“Efallai y byddi'n hoffi’r gwynt rhywbryd, Ifan,” meddai Mali.
+“Efallai,” atebodd Ifan.
+“Gawn ni weld.”
+Felly, dyna sut y dechreuodd Ifan ei ddiwrnod, ynghyd â phrotest yn erbyn y gwynt, ac yna daeth â rhywfaint o le nes ymlaen pan adawodd Ifan ei chasineb ar gyfer y gwynt.
+Y diwedd.
+</body>
+```

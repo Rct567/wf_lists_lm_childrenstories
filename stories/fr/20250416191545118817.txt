@@ -1,0 +1,68 @@
+<prompt>
+Please write a relatable French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Le Corbeau et le Renard, une Leçon de Morale Étonnante.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```xml
+<title>Le Corbeau et le Renard, une Leçon de Morale Étonnante.</title>
+<body>
+Dans une forêt profonde, bordée d'arbres aux feuilles bruissantes et baignée de soleil filtré, vivait un corbeau nommé Edmond. Edmond n'était pas un corbeau ordinaire; il était excessivement vaniteux et passait la plupart de son temps à admirer son reflet dans les flaques d'eau ou à lisser ses plumes noires et brillantes. Un beau matin, alors qu'Edmond se pavanait sur une branche robuste d'un grand chêne, il découvrit, à sa grande surprise, un délicieux morceau de fromage. Le fromage, d'un jaune doré et fondant à souhait, semblait avoir été abandonné par un pique-nique maladroit.
+
+Edmond, ravi de cette trouvaille inattendue, saisit fermement le fromage dans son bec. Il commença immédiatement à songer à l'endroit parfait pour le déguster, un lieu sûr où il ne serait pas dérangé. Juste à ce moment-là, un renard rusé, avec un pelage roux et des yeux brillants, passa sous l'arbre. Le renard, qui s'appelait Barnaby, était bien connu dans la forêt pour son intelligence et son penchant pour les tours sournois. Il avait repéré le fromage et avait déjà élaboré un plan pour se le procurer.
+
+Barnaby leva les yeux vers Edmond et, avec un ton mielleux, commença à flatter le corbeau. "Oh, quel magnifique corbeau ! Quelle élégance, quelle prestance ! Vos plumes sont d'un noir profond et brillant, comme la nuit étoilée. Je n'ai jamais vu un corbeau aussi majestueux," déclara Barnaby, sa voix résonnant d'une fausse admiration.
+
+Edmond, complètement pris au piège des compliments, se redressa fièrement, oubliant presque le fromage dans son enthousiasme. Il se gonfla d'orgueil et lança un regard satisfait vers le renard en contrebas. "Merci beaucoup, cher renard. Je suis heureux que vous appréciez ma beauté," répondit Edmond, sa voix un peu rouillée, due à sa gourmandise pour le fromage qui alourdissait son bec.
+
+Barnaby, souriant intérieurement, continua ses louanges. "Et votre voix ! Je suis sûr que votre chant est aussi magnifique que votre apparence. Je rêve d'entendre le doux mélodie qui sort de votre gosier. Veuillez chanter une chanson pour moi, s'il vous plaît ! Ce serait un honneur inestimable."
+
+Edmond, complètement aveuglé par la vanité, sentit son cœur bondir de fierté. Il se dit qu'il devait montrer au renard à quel point son chant était magnifique. Il oublia complètement le fromage et se prépara à chanter.
+
+Il ouvrit le bec pour émettre son chant légendaire... mais à ce moment précis, le fromage, privé de tout maintien, tomba droit dans la gueule ouverte de Barnaby. Le renard, rapide comme l'éclair, l'attrapa avec une satisfaction gourmande.
+
+Barnaby, les joues pleines, rit doucement. "Merci beaucoup, cher Edmond, pour ce délicieux cadeau," dit-il avec un clin d'œil malicieux. "Je dois avouer que votre chant est… particulier. Mais ce fromage était excellent !" Et sur ces mots, il s'éloigna, disparaissant rapidement dans les sous-bois.
+
+Edmond, déconfit et penaud, réalisa alors l'ampleur de sa bêtise. Il avait été dupé, floué, parce qu'il avait laissé la vanité l'emporter. Il était furieux contre lui-même, contre Barnaby, contre le destin qui lui avait joué un si mauvais tour.
+
+Après un moment d'abattement, Edmond se sentit une goutte d'eau fraîche ruisseler le long de sa plume. Il reprit ses esprits. Se lamenter ne servait à rien, il devait tirer une leçon de cette mésaventure. Il décida qu'il était temps de changer.
+
+Il descendit de l'arbre et, cette fois, il ne chercha pas à admirer son reflet dans les flaques. Au lieu de cela, il observa les autres animaux de la forêt. Il vit l'écureuil, diligemment occupé à ramasser des noisettes pour l'hiver, l'écoutant parler d'être efficace et discret, la marmotte, dormant tranquillement sous terre, l'observant toujours avec méfiance et sagesse.
+
+Edmond décida qu'il devait s'inspirer d'eux. Il arrêta de se vanter, apprit à écouter les autres et à réfléchir avant d'agir. Il fit preuve d'une humilité et d'un apprentissage de nouvelles compétences. Il essaya de construire son propre nid plus solide. Il améliora son habileté à chercher de la nourriture et devint un compagnon beaucoup plus agréable pour les autres habitants de la forêt.
+
+Quelques semaines plus tard, Edmond était perché sur la même branche de chêne, lorsqu'il aperçut à nouveau Barnaby, le renard. Barnaby semblait, une fois de plus, chercher quelque chose dans les environs, ses yeux brillants sillonnant les alentours.
+
+Cette fois-ci, au lieu d'être pris au dépourvu par les paroles doucereuses de Barnaby, Edmond eut une idée. Alors que le renard commençait sa flatterie habituelle, Edmond le coupa court.
+
+"Cher Barnaby," dit-il d'une voix calme et ferme. "Je suis enchanté de vous revoir. Mais je vous prie de ne pas perdre votre temps avec les compliments. J'ai appris ma leçon, et je sais que les paroles peuvent parfois être trompeuses."
+
+Barnaby, surpris, s'arrêta net. Il n'avait pas anticipé une telle réponse. Il renifla. "Ah, je vois... Vous avez changé, cher Edmond. C'est dommage," dit-il, sa déception palpable.
+
+Edmond sourit, un sourire qui reflétait une sagesse nouvelle. "Il est toujours bon de changer pour le meilleur, Barnaby. Mais, en réalité, il y a une chose que vous ne savez peut-être pas. J'ai planté quelques graines, au lieu de me vanter de ce que j'avais."
+
+Il indiqua une zone non loin avec son bec.
+
+Barnaby se força à s'intéresser. "Des graines ? Quel genre de graines ?" demanda-t-il avec prudence.
+
+"Des graines de groseilles, monsieur Barnaby." répliqua Edmond d'une voix douce.
+
+Barnaby regarda fixement l'endroit, semblant à la fois surpris et frustré. Il voyait quelques arbustes, certes, mais pas encore de groseilles.
+
+Edmond expliqua alors la petite supercherie qu'il avait imaginée. « Je sais que vous aimez le fromage, cher Barnaby. Mais j’aime aussi les groseilles. Je me suis donc dit, « Pourquoi ne pas utiliser vos paroles pour obtenir ce que je désire ? » et j’ai pris la leçon du fromage et des groseilles. Puis j'ai planté ces graines, et désormais, pour obtenir les groseilles, vous devrez attendre et rester patient, pas vous ruer immédiatement. "
+
+Barnaby fut déconcerté. Il sentit qu'il avait été encore une fois surpassé, mais cette fois, par la ruse et l'intelligence, et non par la naïveté.
+
+Il secoua la tête, et après un bref moment d'hésitation, il adressa un léger signe de tête en guise de respect. Puis, sans rien dire de plus, il fit volte-face et disparut, non plus sous bois, mais parmi les herbes.
+
+Edmond se sentit bien. Il n'avait plus besoin des compliments, de l'orgueil et de la vanité. Il avait appris la patience, la discrétion et surtout, il avait compris l'importance d'apprendre de ses erreurs.
+
+Le temps passa, et les arbustes plantés par Edmond se transformèrent en buissons chargés de groseilles rouges et juteuses. Edmond, transformé, récoltait les fruits de son labeur avec fierté. Et Barnaby, lui, apprit à respecter, d'une toute autre manière, l'habileté d'Edmond le corbeau.
+La morale de cette histoire est simple : la vanité est un piège, mais la ruse, associée à la patience et l'intelligence, peut apporter de grandes récompenses. Et que, parfois, même d'une leçon amère, on peut tirer les fruits de la sagesse.

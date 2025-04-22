@@ -1,0 +1,77 @@
+<prompt>
+Please write a uncomplicated Italian children's story that is at least 1000 words long.
+It must be completely written in proper Italian (IT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Il cowboy coraggioso e la sua lotta per difendere il suo villaggio nel Far West.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>it</lang_id>
+
+```xml
+<title>Il cowboy coraggioso e la sua lotta per difendere il suo villaggio nel Far West.</title><body>
+Nel cuore del selvaggio West, in un piccolo villaggio chiamato "Poggio Fiorito", viveva un cowboy di nome Marco. Marco era un ragazzo coraggioso, con gli occhi blu come il cielo e un cappello sempre ben saldo sulla testa. Amava il suo villaggio, i suoi amici e soprattutto il suo cavallo, Fulmine, un destriero nero come la notte.
+
+Poggio Fiorito era un villaggio tranquillo, famoso per i suoi campi di girasoli dorati e le sue casette di legno. Ma la tranquillità era minacciata. Un uomo malvagio, chiamato "Barba Nera", voleva impossessarsi del villaggio e delle sue terre. Barba Nera era un bandito spietato, con una barba lunga e nera che gli copriva metà del volto e con il cuore duro come la pietra.
+
+Un giorno, mentre Marco e Fulmine galoppavano attraverso la prateria, videro una nuvola di polvere in lontananza. "Che succede?" si chiese Marco, guardando attentamente. La nuvola si avvicinava rapidamente e presto capirono che era un gruppo di uomini a cavallo, con cappelli neri e armi scintillanti.
+
+"Sono i banditi di Barba Nera!" esclamò Marco, stringendo le redini di Fulmine.
+
+Fulmine nitrì, come se capisse la gravità della situazione. Marco sapeva di dover agire in fretta per proteggere il suo villaggio. Tornò a Poggio Fiorito a cavallo e gridò per le strade: "Allarme! I banditi di Barba Nera stanno arrivando!"
+
+I cittadini, spaventati, corsero a prepararsi. I più coraggiosi presero le armi, mentre le donne e i bambini si rifugiavano nelle loro case. Marco, con il suo coraggio, era la guida di tutti.
+
+"Dobbiamo difendere il nostro villaggio!" gridò Marco, "Non permetteremo a Barba Nera di rubarci le nostre case e le nostre terre!"
+
+I banditi arrivarono, galoppando a gran velocità, urlando e sparando. Marco, con Fulmine al suo fianco, si lanciò all'attacco.
+
+"Fuori dal nostro villaggio!" urlò Marco, mentre Fulmine galoppava tra i banditi, sgommando e scalciando.
+
+Marco era abile con la pistola e con il lazo. Con precisione, colpiva i banditi, facendoli cadere da cavallo o legandoli. Fulmine, agile e veloce, evitava i colpi e contribuiva a scompigliare le file dei nemici.
+
+La lotta era dura, ma Marco e gli abitanti di Poggio Fiorito non si arresero. Le pistole sparavano, il fumo riempiva l'aria, e il rumore dei cavalli e degli spari rimbombava per le strade.
+
+Una delle persone che aiutava Marco nella battaglia era una ragazzina di nome Sofia. Sofia era molto brava a lanciare pietre e, posizionata dietro a un grande mucchio di fieno, riuscì a far cadere molti banditi, che barcollavano e urlavano dal dolore.
+
+Tra i banditi c'era anche un uomo enorme, con una mascella quadrata e il braccio muscoloso. Costui faceva cadere tutti quelli che provavano a difendere Poggio Fiorito.
+"Toglietevi dai piedi!" urlava l'uomo enorme, tirando un colpo di pistola per disorientare gli abitanti di Poggio Fiorito.
+
+Anche Marco fu messo in difficoltà. Barba Nera, vedendo il suo coraggio, decise di affrontarlo direttamente. I due si trovarono faccia a faccia, con le pistole puntate.
+
+"Arrenditi, ragazzo!" ringhiò Barba Nera, con gli occhi che brillavano di rabbia. "Non hai alcuna possibilità contro di me!"
+
+"Non mi arrenderò mai!" rispose Marco, con voce ferma. "Io difenderò il mio villaggio!"
+
+I due si batterono, con Marco che si muoveva abilmente, schivando i colpi di Barba Nera. Alla fine, con un colpo preciso, Marco riuscì a disarmare il bandito.
+
+"Il mio villaggio è più forte di te!" disse Marco, con voce sicura.
+
+Barba Nera, umiliato e sconfitto, cercò di fuggire, ma Fulmine, obbediente agli ordini di Marco, lo inseguì. Con un rapido movimento, Fulmine spinse via Barba Nera, facendolo cadere nella polvere.
+
+A quel punto, la maggior parte dei banditi, spaventati dalla sconfitta del loro capo, fuggirono, lasciando solo quelli catturati.
+
+Il villaggio di Poggio Fiorito era salvo! Gli abitanti esultarono, festeggiando la vittoria. Marco, acclamato come un eroe, venne circondato dai suoi amici e dalla sua famiglia. Sofia gli portò una bottiglia di acqua fresca, dalla quale bevve avidamente.
+
+"Grazie, Marco! Ci hai salvati!" gridarono tutti.
+
+Marco sorrise, felice di aver difeso il suo villaggio. Sapeva che aveva dovuto usare coraggio e astuzia per superare Barba Nera e i suoi banditi. E sapeva che aveva la fortuna di avere dei buoni amici e di vivere in un posto che amava.
+
+Il sole tramontava sul selvaggio West, dipingendo il cielo di arancione e rosso. Marco, seduto sulla veranda della sua casa, accarezzava il collo di Fulmine, ringraziando il suo fedele cavallo per l'aiuto prezioso che gli aveva dato.
+
+La sera, a Poggio Fiorito, fu organizzata una grande festa. C'erano balli, canti e risate. Tutti ringraziarono Marco e Sofia per il loro coraggio.
+
+Dopo la festa, Marco e Fulmine, stanchi ma felici, tornarono nella loro casa. Marco si affacciò alla finestra, guardando le stelle brillare nel cielo notturno.
+
+"Ce l'abbiamo fatta, Fulmine!" disse Marco, accarezzando il cavallo. "Abbiamo difeso Poggio Fiorito."
+
+Fulmine nitrì dolcemente, come per approvare.
+
+Marco sapeva che la vita nel West era piena di pericoli, ma era determinato a proteggere il suo villaggio e a continuare a vivere libero e coraggioso. Sapeva, soprattutto, che l'amicizia e il coraggio erano le armi più potenti che potesse avere.
+
+Così, Marco e Fulmine si addormentarono, pronti per affrontare un nuovo giorno nel selvaggio West, sempre pronti a proteggere Poggio Fiorito e a combattere per la giustizia e per la libertà. E da quel giorno, il villaggio visse in pace, sapendo che aveva un eroe coraggioso che lo avrebbe sempre protetto. Il ricordo della battaglia contro Barba Nera rimase vivo per sempre a Poggio Fiorito, un esempio del coraggio e della lealtà dei suoi abitanti, uniti sotto la guida del cowboy coraggioso e del suo fidato destriero Fulmine. Fine.
+</body>
+```

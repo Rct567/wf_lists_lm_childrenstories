@@ -1,0 +1,59 @@
+<prompt>
+Please write a emotional Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Saol Slán, Saibhríochta Sláinte'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>ga</lang_id>
+
+```xml
+<title>Saol Slán, Saibhríochta Sláinte</title>
+<body>
+Bhí an aimsir ag cur báistí go trom, go tiubh, mar a dhéanann sí go minic in Éirinn. Suas i Sléibhte Chill Mhantáin, bhí teachín beag ag seasamh in aice le sruthán beag, sruthán a rith síos an sliabh go dtí an fharraige. Sa teachín beag seo, bhí beirt ina gcónaí: Seán, buachaill óg le gruaig rua agus súile glasa, agus a sheanmháthair, Máire. Bhí Máire, le haois na mblianta ag léim léi, ach fós féin láidir agus lán le grá.
+
+Bhí an teachín lán le scéalta. Scéalta faoin am a bhí Seán beag, scéalta faoin athair a bhí imithe, scéalta faoin áit ina gcónaí siad, agus scéalta faoin draíocht a bhí le fáil sa dúlra mórthimpeall. Gach oíche, agus an tine mhór ag lasadh sa teallach, shuífeadh Seán ar a cosa, agus thosódh Máire ag insint scéil.
+
+"Seán, a stór," a déarfadh Máire, "tá scéal agam duit inniu faoi fhear beag a d’aimsigh cloiche beag draíochta."
+
+"Inis dom, a Mháire!" a déarfadh Seán, a shúile ag taitneamh leis an spraoi.
+
+Agus insíodh Máire an scéal. Bhí a cuid scéalta lán le rudaí iontacha - sióga, fir mhóra, locha doimhne agus foraoisí dorcha. Ba chuid lárnach dá saol iad na scéalta seo, ag líonadh a laethanta le sult agus le iontas.
+
+Ach, bhí a saol ag dul i dtosach ar athrú. Bhí Máire ag éirí níos laige. D'fheicfeadh Seán, go tobann, níos mó ag caitheamh uirthi, an dath ag éirí liath ina súile, an guth ag bogadh beagán gach lá. Bhí eagla ag teacht air. Ní raibh sé ag iarraidh go dtiocfadh deireadh leis na scéalta. Ní raibh sé ag iarraidh deireadh a chur le h-aon lá de a saol le Máire.
+
+Lá amháin, nuair a bhí an báisteach fós ag titim, bhí Máire i gcodladh ina cathaoir. D’fhan Seán ina tost ar feadh uaire, ag breathnú uirthi, a chroí lán le himní. Ansin, go tobann, osclaíodh súile Mháire.
+
+“Seán, a ghrá,” a dúirt sí, a guth beagán lag. “Tar anseo, a leanbh.”
+
+Shiúil Seán anuas chuici, a lámha ag crith. Shuigh sé ar an mbunscáileán aici, ag coinneáil a láimhe.
+
+“Táim… ag dul ar shiúl, a Seán,” a dúirt sí, a súile ag breathnú air le grá. “Ach níl tú le bheith brónach. Tá neart áilleachta ar fáil sa saol, agus caithfidh tú féachaint air, é a fheiceáil go léir."
+
+D’fhéach Seán ar a haghaidh, ansin ar an tine, ansin ar an mbáisteach ag titim lasmuigh. Thuig sé go raibh sí ceart, go raibh an saol lán d'áilleacht. Ach ag an nóiméad seo, ní raibh ann ach an dorchadas agus an brón.
+
+"Ná bí buartha," a dúirt Máire. "Tá mo chroí leat i gcónaí. Nuair a bhreacfaidh tú ar maidin, féach isteach i do chroí féin. Faigh an áilleacht a bhfuil mé tar éis a roinnt leat. Ní chuirfear deireadh le mo chuid scéalta riamh.”
+
+Thit deora síos aghaidh Mháire. Ag an bpointe sin, tháinig sé féin ag sreabhadh go saor, ag rith síos a leiceanna cosúil leis an sruthán bheag a rith síos an sliabh.
+
+"Máire," ghlaoigh Seán.
+
+Chroith Máire a ceann. "Ná bí brónach," a dúirt sí arís. “Cuimhnigh, Seán, saol slán, saibhríochta sláinte. Saol atá lán le grá, le scéalta, agus leis na chuimhneacháin. Agus beidh mé leat i gcónaí.”
+
+Dúirt Máire ansin focal eile, ar bhealach beagán difriúil, go ceart, agus chonaic Seán, agus é i dteagmháil le a láimh, an solas ar fad ag fágáil a súile, mar a théann an ghrian síos ag tráthnóna. Bhí sé fágtha anois leis féin, i lár an teachín, le fuinneog taobh amuigh a bhí ag rith le huisce agus lena chroí féin lán le brón.
+
+Chaith Seán an lá ar fad le h-aghaidh an tí, agus bhí sé mar sin ar feadh i bhfad. Chuaigh sé chuig an áit is mó a raibh grá aige le Máire. Sheas sé ansin, ag féachaint síos ar an sruthán. Bhí an sruthán fós ag rith, ag tabhairt ar aghaidh leis síos an sliabh, ach bhí sé difriúil. Chaill sé a áilleacht. Chaith Seán a chuid oícheanta ag machnamh, ag smaoineamh ar na scéalta a d'inis Máire, agus ag cuimhneamh ar a gáire.
+
+An chéad lá eile, bhris sé deora ar fad go deimhin, sheas sé i lár an teachín. D’éirigh an ghrian, agus bhí sé níos measa ná sin. Chonaic sé lá eile go breá. D’fhéach sé amach as an fhuinneog, ag breathnú ar an dúlra ar fad, ar na sléibhte, ar an bhfarraige, ar an nglas féir. Agus thuig sé go raibh Máire ceart. Bhí an saol lán le áilleacht, agus bhí sé in ann é a fheiceáil. Chonaic sé é i ngach rud.
+
+Thosaigh Seán ag bailiú rudaí – clochín álainn, péacadh beag ó chrann, cleite ón éan. D'úsáid sé na rudaí sin chun a sheomra féin a mhaisiú, agus le gach rud a chuir sé isteach sa teach, bhí sé ag meabhrú ar shean scéal a d'inis Máire. Ar ais ansin thosaigh sé ag insint na scéalta a d’inis a sheanmháthair dó, dó féin, ar dtús, ach ansin do na cnoic, agus don aer, agus faoi dheireadh do na páistí ón sráidbhaile, agus na focail á rá aige le bheocht, agus le sult, chomh maith agus a bhí ag Máire féin.
+
+Thóg sé na scéalta sin go dtí go raibh sé sean. Agus fiú ansin, nuair a bhí a chuid gruaige bán agus a chuid lámh ar an seanbhealach, bhí sé fós ag féachaint ar an domhan le h-áilleacht. Bhí cuimhní cinn aige ar a sheanmháthair, ach freisin, ag an am céanna, bhí scéalta nua le insint aige, scéalta dá shaol féin. Thug sé grá dóibh, d’fhoghlaim sé a ndearcadh agus a gcumas féin, bhí Seán ina laoch. Bhí an teachín fós ina sheasamh ag an sruthán, fós ag scaipeadh scéalta agus ag tabhairt beatha dóibh siúd a raibh toil agus fonn na gcúrsaí a leanúint.
+
+Agus nuair a d'imigh Seán, is beag brón a bhí ann. Ní raibh an brón ann. Óir chuir sé beatha ar aghaidh go h-iontach agus chuimhnigh gach duine air ar feadh a saoil. Ba saol slán, saibhríochta sláinte, a bhí aige. Bhí sé saor agus faoi shaoirse. Agus i measc na gaoithe ag crith sa tráthnóna, ag tabhairt an eolais uile seo chuig iadsan a bhí fós ann, ag tabhairt na teagaisc a mhúin Máire dó ar feadh a shaoil: caithfear an áilleacht agus an grá sa saol a fheiceáil, a bheith ina gcónaí dóibh agus a ndearnadh sin, gan dearmad. Agus má bhíonn, is féidir an bheatha go léir a thabhairt.
+</body>
+```

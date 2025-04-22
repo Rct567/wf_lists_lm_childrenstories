@@ -1,0 +1,33 @@
+<prompt>
+Please write a simple and easy-to-follow Slovak children's story that is at least 1000 words long.
+It must be completely written in proper Slovak (SK).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Škola umelcov a jej absolventi'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sk</lang_id>
+
+<title>Škola umelcov a jej absolventi</title>
+<body>
+Raz, v malebnom mestečku, kde sa lúky zelenali a potoky šumili, stála zvláštna škola.  Bola to Škola umelcov, miesto plné fantázie, farieb a neuveriteľných nápadov.  Do školy chodili deti rôznych vekov, s rôznymi záujmami a s rôznymi darmi.  Niektoré mali dar maľovať, iné skladali piesne, ďalšie vyrezávali sochy z dreva a iné tvořili z hliny.
+
+Malá Anička, s očami plnými zvedavosti a ručičkami plnými nádeje, prišla do školy už ako malá.  Milovala maľovať a jej obrázky boli plné slniečok, veselých vtáčikov a rozkvitnutých kvetov.  Na hodinách maľby sa učila miešať farby, vytvárať odtiene a vyjadrovať svoje myšlienky prostredníctvom farieb.  Svojimi obrazmi dokázala preniesť na plátno celý svet okolo seba.
+
+Pavol, chlapec s vlnitými hnedými vlasmi, mal dar hudby.  Už od malička sa hral na rôzne hudobné nástroje a jeho srdce spievalo nielen v jeho srdci, ale i v hudobných tónoch.  Na hodinách hudby sa učil hrať na klavíri, husliach a na gitarách, a jeho hudba sa vznášala ako krídla vtákov.  Jeho skladby boli plné radosti, smútku, lásky a nadšenia.
+
+Lenka, s očami ako tmavé jazierka, mala dar vyrezávať.  Z kusov dreva s úžasnou zručnosťou vytvára krásne sochy zvierat, vtákov a rozprávkových postavičiek.  Dokázala do každého detailu vkladať svoju predstavivosť a jej diela sa zdali byť živými.  Na hodinách výtvarného umenia sa učila pracovať s drevom, rezať nožom a formovať sochy do požadovaného tvaru.
+
+Počas štyroch rokov učenia sa, každý deň trávili čas v krásnych triedach.  V triedach plných farieb a inšpirácie, s knihami plnými krásnych rozprávok a s nápadmi, ktoré sa vznášali v vzduchu, sa učili o živote, o umení a o sebe samých.
+
+Keď prišiel deň absolventského koncertu, atmosféra v škole bola plná očakávania a radosti.  Absolventi stáli s hrdosťou, pripravení predstaviť svoje práce.  Anička predstavila svoje maľby, slnká a kvety, ktoré z nich svietili.  Pavol zahral skladbu, ktorá spievala o láske a nádeji.  A Lenka predstavila svoje sochy, zvieratá a vtáky, ktoré sa zdali byť živé.
+
+Všetci, ktorí prišli na koncert, boli ohromení talentom absolventov.  Všetci pochvaľovali ich zručnosti a ich odhodlanie.  Anička začala vytvárať svoju vlastnú sériu obrázkov o prírode, Pavol komponoval hudbu pre rozhlas a Lenka začala vytvárať sochy pre miestne múzeum.
+
+Z Školy umelcov vyšli títo šikovní absolventi a z nich sa stali významní umelci.  Anička maľovala krásne obrazy, Pavol komponoval hudbu a Lenka vyrezávala neuveriteľné sochy, ktoré sa preniesli cez celé mesto.  Každý z nich našiel svoju cestu a slávu v umení.
+
+Škola umelcov sa stala inšpiráciou pre mnoho ďalších detí, ktoré snívali o tom, že aj oni sa stanú umelcami.  A tak sa v meste rozvíjal nový svet umenia a krásy, vďaka deťom, ktoré sa naučili kreativite a fantázii v Škole umelcov.  Škola umelcov pokračovala v živote aj po absolvovaní, inšpirovala a podporovala ďalšie generácie uchádzačov o krásne umenie.  A tak sa Škola umelcov stala legendou, o ktorej sa rozprávali generácie.
+</body>

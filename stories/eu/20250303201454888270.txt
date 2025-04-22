@@ -1,0 +1,49 @@
+<prompt>
+Please write a uncomplicated Basque children's story that is at least 1000 words long.
+It must be completely written in proper Basque (EU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Animalien hizkuntza eta komunikazioa'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>eu</lang_id>
+
+<title>Animalien hizkuntza eta komunikazioa</title>
+<body>Aizkorako basoan, animalia asko bizi ziren. Hauen artean, hartz handi bat, otso azkar bat, katamotz iletsu bat, txoria kantari bat eta sagu azkar bat zeuden. Animalia guztiak adiskideak ziren eta asko jolasten ziren elkarrekin.
+
+Baina, animalia guztiek ez zuten berdina ulertzen. Hartzak, adibidez, oso poliki hitz egiten zuen, eta otsoak, oso azkar. Katamotzek, ileak leuntzen zituen bitartean, ez zuen asko hitz egiten. Txoriak, kantatzen zuen bitartean, asko hitz egiten zuen. Saguak, oso azkar hitz egiten zuen eta asko galdezten zuen.
+
+Animalia guztiek komunikatzeko modu desberdinak zituzten. Hartzak, soinu handiak egiten zituen, otsoak, ulurrak botatzen zituen, katamotzek, musuak ematen zituen, txoriak, kantatzen zuen eta saguak, isekak egiten zituen.
+
+Batez beste, animalia guztiek elkarrekin hitz egiten zuten eta ulertzen zuten. Baina, batzuetan, ez zuten ulertzen eta haserre egiten zuten. Hartzak, haserre zenean, oso gogor hitz egiten zuen eta otsoak, oso azkar korritzen zuen. Katamotzek, haserre zenean, ileak zorrotz jartzen zituen eta txoriak, kantatzen uzten zuen. Saguak, haserre zenean, oso azkar korritzen zuen eta isekak egiten zituen.
+
+Baina, animalia guztiek jakiten zuten komunikazioa oso garrantzitsua zela. Beraz, animalia guztiek saiatzen ziren elkarrekin ondo komunikatzea. Hartzak, poliki hitz egiten zuen eta otsoak, azkar hitz egiten zuen, baina biak ulertzen zuten. Katamotzek, ileak leuntzen zituen bitartean, hitz egiten zuen eta txoriak, kantatzen zuen bitartean, hitz egiten zuen. Saguak, azkar hitz egiten zuen eta asko galdezten zuen, baina animalia guztiek ulertzen zuten.
+
+Egun batean, basoan, ekaitz handi bat hasi zen. Animalia guztiek beldur ziren eta ez zuten zer egin behar. Hartzak, soinu handiak egiten zituen, otsoak, ulurrak botatzen zituen, katamotzek, musuak ematen zituen, txoriak, kantatzen zuen eta saguak, isekak egiten zituen.
+
+Baina, animalia guztiek jakiten zuten elkarrekin komunikatzea oso garrantzitsua zela. Beraz, animalia guztiek saiatzen ziren elkarrekin ondo komunikatzea. Hartzak, poliki hitz egiten zuen eta otsoak, azkar hitz egiten zuen, baina biak ulertzen zuten. Katamotzek, ileak leuntzen zituen bitartean, hitz egiten zuen eta txoriak, kantatzen zuen bitartean, hitz egiten zuen. Saguak, azkar hitz egiten zuen eta asko galdezten zuen, baina animalia guztiek ulertzen zuten.
+
+Animalia guztiek elkarrekin komunikatzen ziren bitartean, ekaitza amaitzen hasi zen. Eguzkia ateratzen hasi zen eta animalia guztiek alai ziren. Hartzak, soinu handiak egiten zituen, otsoak, ulurrak botatzen zituen, katamotzek, musuak ematen zituen, txoriak, kantatzen zuen eta saguak, isekak egiten zituen.
+
+Animalia guztiek jakiten zuten komunikazioa oso garrantzitsua zela eta elkarrekin ondo komunikatzea oso garrantzitsua zela. Beraz, animalia guztiek saiatzen ziren elkarrekin ondo komunikatzea eta elkarrekin jolasten ziren.
+
+Egun batzuk geroago, basoan, festa handi bat egin zuten. Animalia guztiek elkarrekin jolasten ziren eta komunikatzen ziren. Hartzak, poliki hitz egiten zuen eta otsoak, azkar hitz egiten zuen, baina biak ulertzen zuten. Katamotzek, ileak leuntzen zituen bitartean, hitz egiten zuen eta txoriak, kantatzen zuen bitartean, hitz egiten zuen. Saguak, azkar hitz egiten zuen eta asko galdezten zuen, baina animalia guztiek ulertzen zuten.
+
+Festan, animalia guztiek elkarrekin dantzatzen ziren eta kantatzen zuten. Hartzak, soinu handiak egiten zituen, otsoak, ulurrak botatzen zituen, katamotzek, musuak ematen zituen, txoriak, kantatzen zuen eta saguak, isekak egiten zituen.
+
+Animalia guztiek jakiten zuten komunikazioa oso garrantzitsua zela eta elkarrekin ondo komunikatzea oso garrantzitsua zela. Beraz, animalia guztiek saiatzen ziren elkarrekin ondo komunikatzea eta elkarrekin jolasten ziren.
+
+Eta horrela, animalia guztiek elkarrekin bizitzen jarraitzen zuten, komunikatzen ziren eta jolasten ziren. Hartzak, otsoak, katamotzek, txoriak eta saguak, denak adiskideak ziren eta elkarrekin ondo komunikatzen ziren.
+
+Urte batzuk geroago, basoan, animalia berri bat agertu zen. Lehoi handi bat zen eta oso indartsua zen. Lehoiak, animalia guztiei mehatxu egin zuen eta basotik irtetea eskatu zuen.
+
+Baina, animalia guztiek jakiten zuten elkarrekin komunikatzea oso garrantzitsua zela. Beraz, animalia guztiek saiatzen ziren elkarrekin ondo komunikatzea. Hartzak, poliki hitz egiten zuen eta otsoak, azkar hitz egiten zuen, baina biak ulertzen zuten. Katamotzek, ileak leuntzen zituen bitartean, hitz egiten zuen eta txoriak, kantatzen zuen bitartean, hitz egiten zuen. Saguak, azkar hitz egiten zuen eta asko galdezten zuen, baina animalia guztiek ulertzen zuten.
+
+Animalia guztiek elkarrekin komunikatzen ziren bitartean, lehoiak haserre zegoen eta mehatxuak egiten zituen. Baina, animalia guztiek jakiten zuten elkarrekin ondo komunikatzea oso garrantzitsua zela. Beraz, animalia guztiek saiatzen ziren elkarrekin ondo komunikatzea eta lehoiari barkamena eskatzen zioten.
+
+Lehoiak, haserre zegoen arren, animalia guztien hitzak entzun zituen eta ulertu zituen. Lehoiak, barkamena eman zuen eta animalia guztiekin adiskidetu zen. Eta horrela, animalia guztiek elkarrekin bizitzen jarraitzen zuten, komunikatzen ziren eta jolasten ziren. Hartzak, otsoak, katamotzek, txoriak, saguak eta lehoiak, denak adiskideak ziren eta elkarrekin ondo komunikatzen ziren.
+
+Eta horrela, istorioa amaitzen da. Animalia guztiek jakiten zuten komunikazioa oso garrantzitsua zela eta elkarrekin ondo komunikatzea oso garrantzitsua zela. Beraz,

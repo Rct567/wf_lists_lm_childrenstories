@@ -1,0 +1,31 @@
+<prompt>
+Please write a educational Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Zaļā Dārzā Dziedošais Dēls un Saulainas Dziesmas'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lv</lang_id>
+
+<title>Zaļā Dārzā Dziedošais Dēls un Saulainas Dziesmas</title>
+<body>
+Zaļā dārza vidū, zem lielas, krāšņas ozolkoka, stāvēja mazs, zaļš mājiņa.  Tajā dzīvoja Dēls, ar smalkām, zeltainām cirtām un acīm, kas spīdēja kā saulainas dienas.  Dēls nebija parasts dēls. Viņš mīlēja dziedāt. Viņa balss bija tik skaista un tīra kā rīta rasa, un viņa dziesmas tik gaišas un priecīgas kā saulains debesu ziloņputns. Bet ne tikai dārza putniņi atzina Dēla dziedāšanu; viņi visur klusās pļavās, uz sarkaniem plūmēm un zelta rudens lapām.
+
+Katru rītu, kad saules stari sāka dzirdināt lapas un ziedus, Dēls aizbrauca uz savu dziesmu ceļu. Viņa ceļš vedināja cauri puķu jūrai, kur baltas margrietiņas klusi spīdēja, un oranži, dzelteni un sarkani ziedi dejoja pavājinātu deju, gaidot saulainas dienas.  Viņš dziesmāja par lielo, zaļo koku, par dziedīgiem upes straumēm, par mazajiem vabolīšiem un straujajiem čakstītājiem. Katra dziesma bija par jaunu piedzīvojumu, par dārza burvju.
+
+Vienu skaistu saulainu dienu Dēls sastāja ar vecāku, gudru zirņu dāmu.  Viņas balss bija smagi, dziļi un pilna ar gaismas nokrāsu. Viņai bija izaugušas acis, kas spīdēja kā saullēkts pļavās, kur zeme tikko sākusi mosties. Zirņu dāma pastāstīja Dēlam par augiem un dārza noslēpumi. Par to, kā katram augam ir sava skaņa, savas dziedāšanas, kas ir saderīgas ar dabu, par auga dziesmām.
+
+"Dārza augi ir jāklausās, dārza balss ir jāsaprot.  Katram augum ir dziedināšanas spēja", teica Zirņu dāma. "Katrs no mums, lapas un ziedi, augi un putni, dziesmās veido sakrāmus, dziedās dārza harmoniju."  Dēls aizdomājās.  Viņam bija ievērības vērts un aizraujoši saprast, ka katrā ziedā slēpjas skaņām.
+
+No šīs dienas Dēls pavadīja mazliet ilgāku laiku dārzā, nevis vienīgi uz dziesmu ceļiem. Viņš sākās saprast katru zāliņu un koku balsī. Dzirdot ātri augošo vīnogulāju šalkošanu, dzirdami zemes kustību.  Viņš dzirdēja krūmāju balsis, ar smalku, ziedainu, brīvu šūpolēm skaņām, savijas ar zaļās koku dziedinājumiem. Viņam ietvēra jaunas dārzā dziesmas, jo viņš sāka just dārza sirdi un visu tās noslēpumu.
+
+Vēlāk, lielos notikumos un svētku brīžos, dārzs sastājās kluss. Visa daba dejoja harmonijā, skaņā.  Zieds klusa dziesmā uzteica zaļās dārza brīnumus. Dārzs sākās lēnām kustēties, it kā elpot.  Dēla balsis bija vērā ņemtas, pievērsta dziesmu harmonija starp dabām. Viņš dziedāja,  ka dārzs bija kā dzīvs rāmis, kas sargā un dziedina ar savu unikālo skaistumu un skaņām.  Viņa dziesmas, kas balstījās uz dārza gaismai, bija neticami maigas, līdz ar to spēj iekustēt pat akmeņus.
+
+Bija diena, kad dārza mala klājās pūkas balta rasa.  Vecais ābeļkoks spīdēja un zvaigžņota nakts rāpoja cauri baltajām pūkām.  Dēls, uzsēžoties uz vētraina lapas, uzklausīja dārza dziļo kluso balsi.  Tā nebij uzdziedāšanas no zemes dziļumiem. Viņš dziedāja dārzu ar to līdzās visai dabas dziesmu sērēm, ar dziļākām intonācijām, kas iekustīja dārza augsnes dvēseles. Un visa dārza dziesmas apvienojās vienā, lielā dziedājumā.  Skatītāji priecīgi izsaucās.  Bija skaists mirklis, kurā dziedāšanas saplūda kopā kā viena dvēsele, vienots harmonisks brīnums.
+
+Un tā katru dienu Dēls pavadīja, dziedot un klausot zaļo dārzu.  Katrs augs, katrs lapiņa, katrs putniņš bija viņa skaistuma un harmonijas vēstnese.  Viņa dziesmas kļuva arvien skaistākas, bagātākas, līdz tās savijās vienā skaņā - saulaino dziesmu skaņā, ko dārzs sūtīja uz debesīm. Un viss dārzā dziedāja vienu dziesmu ar Dēlu,  pateicoties visam labam pasaulē, pateicību skaņai, priekam, un skaistumam.
+</body>

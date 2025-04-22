@@ -1,0 +1,36 @@
+<prompt>
+Please write a educational Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kechqurun o'zining uyini topadigan it'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>Kechqurun o'zining uyini topadigan it</title>
+<body>
+Bir paytlar,  qishloqda,  yorqin qizil rangdagi,  ko'zlari kulrang  yosh  it bor edi.  Uning nomi Kechqurun edi.  Kechqurun juda o'ynoq va baquvvat edi.  U ertalabdan kechgacha qishloq bo'ylab yugurardi,  o'ynab,  quyoshli dalalarda  eshik o'z-o'zidan eshlandi.
+
+Bir kun, Kechqurun uyushgan o'yinlarini tark etdi va butunlay o'zining bo'shligida bo'ldi.  Odatda do'stlari bilan o'ynab turgan maydonchalar, uning uchun tanish bo'lmagan qorong'i o'rmonlar va tog'larga aylandi.  Quyosh botay boshladi va  keng osmon qizil va pushti  ranglarga to'ldi.  Kechqurun juda charchagan edi, lekin u qo'rqar va yolg'izligiga juda uzoqlashib ketdi.  Kechqurun ko'zi qorong'ida  kuchli  qoylar orasida yo'l topishni unutgan edi.
+
+Uning ovqat qornidan to'q edi. Lekin u och emas,  balki juda yolg'iz edi. U qisqa muddat qoyalar yonida bir kichkina o'ynay boshladi, lekin uzoqroq yuraverib  yo'qolgan uyidan juda xafa bo'ldi.  Kechqurun qancha harakat qilsa ham,  yovvoyi hayvonlarning gumbirlashini eshitib,  ko'zlarini yig'itdi.
+
+U ko'zlarini berkitib yolg'izgina yolg'iz o'ynagan ko'rinishga qarab  qalbida tashvish paydo bo'ldi.  "Bu qanday ahvol?!" deb o'yladi u.  "Uy qaerda? Qishloq o'zimga qo'ng'iroq qiling, lekin uyga hech qanday qiziqish yo'q."
+
+Hali juda osmon zulmatga tushib qolishdan oldin  Kechqurun yana bir  yugurdi. U uyning tozaligi  hamda  me'morlari  oradan  ko'p  o'tib ketganiga ham qiziqdi va  u yo'qligida  yaxshi  yugurganini his qildi.   Uyga qancha  yaqinlashayotgani haqida o'ylab turishi juda oson va eng yaxshi ish ekan.   Bu uning uchun qo'ng'iroqni  dala bo'ylab  yoqishi kerak deganidir.  U kichik va qulay joyga juda ko'p ishlagan bo'lsa kerak edi,  yo'lda yengil esa endi uyida.
+
+Uning qorong'i qalbi yonidan  tutuq  tovon  qila olgan ko'zlarining so'zi bir oz o'ziga qaytdi va  uyning odatiy hidini eshitdi.   Yomon va yomon emas edi, bu oddiy quyon tovoq va odatdagi quvonch bilan  to'yishdi.   Kechqurun yengil  tovonlari bilan darvozaning so'zini urdi va katta  burundagi quvonch  darhol uning  yo'lga quvonganini bildi.
+
+"Kechqurun! Kechqurun!" - derak bilan to'ygani  qo'ng'iroqidan aylanardi. U darhol ochildi va uyda oila  xotirjamlik va farovonlik  uydaga   qattiq sig'ib kecha oldi.
+
+Onasi va otasi  ustida harakat qilganiga qanchalik sevindi va shundan ko'ra yanada ham yaxshi quvonch paydo bo'ldi. "Seni yo'qotib qo'ydik, Kechqurun!" deb darhol gumbirladi ona. Uning yo'qligini ko'rish uchun katta  ajratilish bilan  qorong'iligining yo'qligi  ajoyib narsa edi, hech bo'lmasa, unga o'z joyiga qaytarish kerak.
+
+Kechqurun o'zining quchog'ini darhol qalqidi va  kichik tanlangan  otasi qo'lini yuvarladi. O'zini  uyga etaklashtirish juda yaxshi  edi,  chunki  uyda do'stlar, taom va  yaxshi va quvnoq dam olish imkoniyati bor edi.   Oila birlashib   keng va quvnoq  taomdan yutqazib, bir-biriga o'xshab turishga harakat qildi.  Kechqurun esa butunlay uyining bir qismi sifatida his qildi.  Undan keyin hech qachon boshqa yo'ldan yo'qolmadi.
+U o'z uyiga qo'ng'iroq qilishni va hech qachon uyiga yo'qotmaslik uchun bir yo'ldan ko'ra ko'proq qila olardi. Bu  ham  har qanday to'ydagi   muhim   bir narsalardir.
+
+
+</body>

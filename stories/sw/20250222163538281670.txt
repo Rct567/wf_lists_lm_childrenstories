@@ -1,0 +1,41 @@
+<prompt>
+Please write a simple Swahili children's story that is at least 1000 words long.
+It must be completely written in proper Swahili (SW).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Ndege Mrembo Ambaye Alijua Nyimbo Zote Tamu za Dunia.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sw</lang_id>
+
+<title>Ndege Mrembo Ambaye Alijua Nyimbo Zote Tamu za Dunia</title>
+<body>
+Mara moja, katika msitu mrefu na wenye miti mirefu, ilikuwepo nyumba ya miti ya ajabu.  Ndani yake, aliishi ndege mrembo aliyeitwa  Jamila.  Jamila alikuwa na manyoya meupe kama theluji, na macho meusi kama lulu.  Alifanana sana na malaika aliyeshuka duniani.
+
+Jamila hakuwa ndege wa kawaida.  Alikuwa na uweza wa kushangaza wa kuimba nyimbo zote tamu duniani. Nyimbo za ndege wengine, nyimbo za wanyama, nyimbo za mito na nyimbo za bahari; yote alijua na kuyasimulia vizuri.  Aliimba nyimbo za asubuhi, nyimbo za jioni, nyimbo za mvua na nyimbo za jua kali.  Nyimbo zake zilijaa furaha na upendo, zikimfanya kila aliyekusikiliza awe na furaha na amani.
+
+Siku moja, wakati jua lilipochomoza kwa rangi ya machungwa na nyekundu, Jamila aliamua kuimba nyimbo yake maarufu zaidi- nyimbo ya shukrani kwa dunia nzima.  Alichukua nafasi yake juu ya mti mrefu, na kwa sauti yake iliyokamilika, akaanza kuimba.
+
+Nyimbo zake zilielea juu kama mawingu, zikizunguka juu ya miti na vichaka.  Wanyama wa msitu walisimama wakiwa wameburudika wakiitazama Jamila akipiga nyimbo zake.  Kila mmoja alikuwa akielea kwa amani na furaha.  Mbuzi waliburudika kwa sauti nzuri,  na twiga walikunyanyua vichwa vyao juu, wakipenda kupata pumzi ya nyimbo nzuri.  Mbwa mwitu wakaacha kuwinda na waka sikiliza kubadilika kwa hisia zao. Hata wadudu walipiga makofi kwa sauti ndogo, wakisikia wimbo huo uliojaa upendo.
+
+Kati ya wanyama wengi waliokuwa wamekusanyika, alikuwepo simba jasiri, jina lake  Nafasi.  Nafasi alikuwa amekuwa kimya siku nyingi, moyo wake ulikuwa mzito.  Alikuwa amepoteza kiburi chake, na sauti yake ya kawaida ilibadilishwa na huzuni.  Hata hivyo, wakati aliposikia sauti ya Jamila, moyo wake ukanyanyuka tena.
+
+Nyimbo ya Jamila ilipenya moyo wake, ikipiga kiini cha huzuni na kuchochea upya matumaini ndani yake.  Nafasi alijifunza kutoka katika nyimbo za Jamila, jinsi ya kupata furaha na upendo tena.  Alielewa kuwa hata katika nyakati ngumu, kuna upendo na matumaini.
+
+Nyimbo za Jamila zilifikia kila kona ya msitu, zikileta furaha na amani.  Ulimwengu ulijazwa na muziki mzuri.  Ndege wengine walipiga makofi na kishindo.  Wanyama wote walimshukuru Jamila kwa kutoa upendo kupitia nyimbo zake.
+
+Jamila aliendelea kuimba, na nyimbo zake zilieneza furaha na upendo kwa kila kona ya msitu. Alifanya msitu kuwa mahali pazuri na amani.  Wanyama wote walimpongeza kwa nyimbo zake.
+
+Lakini, siku moja, mvua kubwa ilifika.  Msitu wote ulivutiwa na sauti ya mvua.  Jamila aliendelea kuimba, lakini sauti yake ilikuwa inakaribia kutoweka katika mvua kubwa.
+
+Walakini, wanyama walimzunguka, wakiimba nyimbo zao, wakionyesha kwamba walipendana na nyimbo zake.  Nyimbo zao zilichanganyika na nyimbo za Jamila, na kuunda wimbo mmoja mkuu.
+
+Jamila aliendelea kuimba, na mvua ikapita.  Jua lilianguka tena, na msitu mzima ukajaa na upendo.  Wanyama na ndege walitoka wakiwa wamejaa furaha na shukrani.
+
+Kutoka siku hiyo, Jamila akawa maarufu katika msitu mzima. Nyimbo zake hazikuwa tu nyimbo za furaha, lakini pia nyimbo za urafiki, utunzaji, na upendo. Nyimbo zake ziliwatia moyo wanyama, zikawatia moyo  na kuwafanya waweze kushinda changamoto zao.
+
+Jamila aliendelea kuimba nyimbo zake za upendo na furaha, akifanya msitu kuwa mahali pazuri pa wanyama wote. Na msitu ukajaa kwa upendo na amani, kila siku.
+</body>

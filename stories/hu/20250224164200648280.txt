@@ -1,0 +1,43 @@
+<prompt>
+Please write a creative and original Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A két testvér és a varázslatos utazás'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>A két testvér és a varázslatos utazás</title>
+<body>
+Barna és Zsófi, két eleven, fürge gyermek, élénk fantáziával, mindig keresték a kalandot.  A falusi házuk kertjében, egy hatalmas, rég elfelejtett almafa árnyékában, rejtőzött egy titokzatos, zöld könyv.  A borítóján különös, ismeretlen jelek és csillogó, zöld betűk díszelegtek.  Barna, a bátor és kíváncsi testvér, azonnal meg akarta érinteni.
+
+"Nézd, Zsófi! - kiáltott fel, ujjait a könyv felett óvatosan végighúzva. - Úgy érzem, ez a könyv varázslatos!"
+
+Zsófi, a nyugodtabb, de mégis kalandvágyó testvér, óvatosan megfogta Barna kezét.  "Valóban különös! - suttogta. - Vajon mi van benne?"
+
+A könyv borítója alatt egy ismeretlen nyelvű szöveg terült el, amelyet sem Barna, sem Zsófi nem értett. De mégis vonzó volt a szöveg, mintha egy rejtélyes ének lenne, amelyet a szél suttogott.  Elhatározták, hogy megpróbálják megfejteni a titokzatos üzenetet.
+
+Egy hosszú délutánon át próbálkoztak.  Kutattak régi könyvekben, kérdezgették a falusi öregeket, sőt, egy titkos, eldugott falusi kertben, az almafa gyökerei alatt találták meg a kulcsot. Egy apró, zöld köveket imitáló, de valójában varázslatos, fémből készült kulcsot.  A kulcsot a könyvbe helyezve, a könyv lassan elkezdte forogni, és a lapok olyan gyorsan változtak, mintha egy csodálatos film lenne.
+
+A lapokon egy képet láttak, amelyen egy varázslatos vonat állt, amelynek kerekei ragyogóan csillogtak, és füstje nem fekete, hanem zöld színű volt.  A vonat ablakában egy ismerős arc mosolygott, az öreg Barna nagybátyjaé.
+
+"Nagypapa!" kiáltott fel Barna, szemei ragyogtak a felismeréstől. "Ő a titok kulcsa!"
+
+A könyv oldalain egy újabb szöveg jelent meg, ezúttal már érthető volt. A szöveg elmagyarázta, hogy a zöld vonat a Varázsvölgybe viszi őket.  A Varázsvölgyben élő varázslók és titokzatos lények egy különleges, varázslatos ajándékot adnak nekik a varázslatos utazásért.
+
+A zöld vonat sziszegett, füstje zöld színű felhőkbe csapott fel, és a gyerekek pillanatok alatt a levegőben úsztak.  A táj a szemük előtt változott.  A falusi házak elhaladtak, majd dús erdők, csillogó folyók és fényes hegyek váltották fel őket.  A vonat végül egy hatalmas, zöld erdőbe érkezett, ahol a levegő illatozott az ismeretlen virágok illatától.
+
+A vonat egy kis, varázslatos állomáson állt meg.  A peronon furcsa, szárnyas lények és varázslatos állatok sétálgattak.  Egy kedves, nagy szemű varázsló köszöntötte őket.  Megmutatta nekik az ajándékot, amelyet a varázsvölgyi varázslók készítettek számukra – egy varázslatos térképet, amellyel bármely álomszép helyet megtalálhatnak.
+
+A térképen varázslatos jelek és szimbólumok voltak, amelyek segítettek nekik navigálni az álmok és vágyak tengerében.  A varázsló elmagyarázta, hogy a térkép egy kulcs a fantázia világához.  Barna és Zsófi izgatottan fogták a varázslatos térképet, és megígérték, hogy gondosan vigyáznak rá.
+
+A varázsló mosolygott, és egy utolsó tanácsot adott nekik.  "A varázslat ereje a szeretetben és a barátságban rejlik. Legyetek mindig őszinték és bátrak. És mindig emlékezzetek arra, hogy a legszebb álmok a legnagyobb kalandokhoz vezetnek."
+
+Barna és Zsófi visszaszállták a zöld vonatra, a varázslatos térképpel a kezükben. A vonat elindult, és a gyerekek újabb és újabb kalandokra vágytak,  tudván, hogy a világ tele van még felfedezni váró titkokkal.
+
+A vonat a távolba eltűnt, a Varázsvölgyben pedig csend ereszkedett,  de Barna és Zsófi emlékezetében örökre megmaradt a varázslatos utazás, és az ajándék, amelyet a varázslók adtak nekik:  a varázslatos térkép, amely segít nekik megtalálni a fantázia világát.
+</body>

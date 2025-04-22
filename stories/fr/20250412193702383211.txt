@@ -1,0 +1,73 @@
+<prompt>
+Please write a emotional French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Les Copains dans le Monde du Cirque'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```xml
+<title>Les Copains dans le Monde du Cirque</title>
+<body>
+Il était une fois, dans un petit village ensoleillé de la France, une troupe de cirque extraordinaire : "Les Étoiles Éblouissantes". Parmi eux, il y avait trois amis inséparables : Théo, le clown joyeux au cœur tendre, Léa, l'acrobate audacieuse avec des couettes rouges vives, et Hugo, le magicien rêveur qui savait charmer tout le monde avec ses tours.
+
+Théo était un clown un peu différent. Au lieu de faire rire à tout prix, il préférait apporter du réconfort. Ses grimaces étaient souvent tristes, cachant une immense solitude. Il portait toujours une fleur séchée dans sa poche, un souvenir de sa grand-mère qui lui avait appris l'art du rire, mais qui était partie bien trop tôt.
+
+Léa était l'âme de l'équipe. Toujours souriante, toujours prête à relever un défi, elle s'élançait avec grâce dans les airs, un sourire radieux illuminant son visage. Ses numéros d'acrobatie étaient spectaculaires, mais ce qui comptait le plus pour elle, c'était de voler comme un oiseau et de sentir le vent dans ses cheveux.
+
+Hugo, lui, était le plus réservé des trois. Il passait des heures à étudier des livres de magie, à peaufiner ses illusions, à rêver de merveilles. Ses tours étaient toujours surprenants, mais son plus grand tour de magie était peut-être de faire croire à tout le monde qu'il allait bien, alors qu'il se sentait souvent dépassé par ses propres peurs.
+
+Un jour, le cirque reçut une lettre. C'était une invitation à se produire dans la plus grande ville du pays, Paris ! La troupe entière était aux anges. C'était une occasion en or de se faire connaître, de briller sous les feux de la rampe.
+
+Le voyage en train fut une aventure en soi. Théo était silencieux, absorbé dans ses pensées, caressant sa fleur séchée. Léa, elle, chantait à tue-tête, inventant des chansons sur le voyage. Hugo, lui, semblait absent, perdu dans ses préparatifs magiques.
+
+Une fois arrivés à Paris, la magie opéra. La ville était un enchantement : les lumières scintillantes, les monuments majestueux, l'agitation constante… Tout était nouveau, excitant, mais aussi un peu effrayant pour nos trois amis.
+
+Les répétitions commencèrent. La pression était énorme. Le public de Paris était exigeant. Théo, habituellement si drôle, avait du mal à faire rire. Son cœur était lourd. Il pensait sans cesse à sa grand-mère. Léa, malgré son optimisme, sentait le poids de la responsabilité. Un faux pas, et tout pouvait basculer. Hugo, terrifié par l'ampleur de la scène, commençait à bégayer. Il craignait de tout gâcher.
+
+Un soir, après une répétition particulièrement difficile, ils se retrouvèrent tous les trois seuls, assis sur les marches de la scène vide. Le silence était pesant.
+
+"Je n'y arriverai jamais," murmura Théo, les larmes aux yeux. "Je suis trop triste. Je ne peux pas faire rire les gens."
+
+Léa, d'un geste tendre, posa sa main sur celle de Théo. "Ne dis pas ça. Tu es le clown le plus gentil que je connaisse. Tu as juste besoin de retrouver ton sourire."
+
+Hugo, timidement, ajouta : "Tu sais, moi aussi, j'ai peur. J'ai peur de rater mes tours, de décevoir les gens. Mais…" Il hésita un instant, puis continua. "Mais on est ensemble. On s'aide. On est une équipe."
+
+À ces mots, un petit sourire se dessina sur le visage de Théo. Il comprit. Il n'était pas seul. Ils étaient tous les trois dans le même bateau.
+
+Léa eut une idée. "Pourquoi on ne ferait pas quelque chose de différent ? Quelque chose… d'émouvant ?"
+
+Ils travaillèrent d'arrache-pied. Théo, inspiré par ses sentiments, créa un numéro de clown où il racontait l'histoire de sa grand-mère, l'histoire de l'amour et du deuil. Léa, avec ses talents d'acrobate, imagina des figures aériennes qui symbolisaient l'espoir et la légèreté. Hugo, lui, incorpora des effets spéciaux qui mettaient en valeur l'émotion du moment, jouant sur la lumière et la musique.
+
+Le soir de la première, l'excitation était à son comble. Les coulisses bruissaient. Les cœurs battaient à tout rompre. Théo, avant d'entrer en scène, sentit une main se poser sur son épaule. C'était Léa.
+
+"Tu vas briller," dit-elle, les yeux brillants. "On va briller ensemble."
+
+Hugo, de son côté, lui lança un sourire rassurant. "Fais-nous confiance."
+
+Et puis, le rideau se leva.
+
+Théo apparut sur scène, son cœur serré. Il commença son numéro avec une lenteur mesurée, les mots s'échappant de sa bouche avec une émotion palpable. Il raconta l'histoire de sa grand-mère, avec ses joies et ses peines. Le public, d'abord surpris par cette approche inhabituelle, fut rapidement captivé. Les rires se mêlèrent aux larmes. On sentait une profonde empathie dans l'air.
+
+Ensuite, vint le tour de Léa. Ses mouvements aériens étaient d'une beauté envoûtante, exprimant la fragilité et la force de l'espoir. Elle dansait comme si elle touchait les étoiles, incarnant la libération des chaînes.
+
+Hugo, avec ses illusions, créa un spectacle visuel qui amplifiait l'émotion de chaque numéro. Il fit apparaître des papillons lumineux, des étoiles scintillantes, des paysages oniriques, créant une atmosphère de rêve.
+
+À la fin du spectacle, le public était debout, applaudissant à tout rompre. Les larmes coulaient sur les joues, mais c'était des larmes de joie et d'émotion.
+
+Théo, Léa et Hugo se regardèrent, les yeux brillants. Ils avaient réussi. Ils avaient trouvé le chemin de leur cœur.
+
+Les critiques furent dithyrambiques. Le cirque "Les Étoiles Éblouissantes" devint une légende.
+
+Mais pour Théo, Léa et Hugo, le plus important n'était pas la gloire, mais l'amitié qui les liait. Ils avaient surmonté leurs peurs ensemble. Ils avaient appris à se soutenir. Ils avaient découvert que même dans le monde merveilleux du cirque, le plus grand des tours de magie, c'était l'amour et le soutien mutuel.
+
+De retour dans leur petit village, ils racontèrent leurs aventures à tous les enfants. Ils leur apprirent que la peur est normale, que l'amitié est précieuse, et que la joie la plus sincère vient du cœur.
+
+Et chaque soir, avant de s'endormir, Théo, Léa et Hugo regardaient les étoiles dans le ciel, se souvenant du grand cirque de Paris, de l'odeur du pop-corn, des rires et des larmes. Et ils savaient que tant qu'ils seraient ensemble, ils pourraient surmonter toutes les épreuves. Leur amitié, comme les étoiles, brillait à jamais. La fleur séchée de Théo, les couettes rouges de Léa, et le sourire rêveur de Hugo, devinrent des symboles d'espoir, d'amour et d'une amitié indéfectible. Et ainsi, les copains dans le monde du cirque continuèrent leur voyage, apportant de la joie et de l'émerveillement partout où ils allaient. Fin.
+</body>
+```

@@ -1,0 +1,43 @@
+<prompt>
+Please write a educational Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Az elvarázsolt tükör titka, és a bátorság próbája a tükörországban.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>hu</lang_id>
+
+<title>Az elvarázsolt tükör titka, és a bátorság próbája a tükörországban.</title>
+<body>Az elvarázsolt tükör titka, és a bátorság próbája a tükörországban. Ez a történet egy kis faluban játszódik, ahol egy csodálatos és titokzatos tükör volt elrejtve. A tükör olyan volt, mint egy varázslatos kapu, amely a tükörországba vezetett.
+
+A faluban éltek két kisgyermek, Szabi és Luca. Ők mindig kíváncsiak voltak, és szerettek volna mindent megtudni a világról. Egy napon, amikor a falu szélén sétáltak, rájuk találtak egy régi, poros boltra. A bolt ajtaja zárva volt, de a gyerekek kíváncsisága nem hagyta, hogy elménjenek. Kinyitották az ajtót, és beléptek a boltba.
+
+A bolt belseje sötét és poros volt. A gyerekek lassan léptek be, és körbenéztek. A bolt tele volt régi holmikkal, de egy dolog ragadta meg a figyelmüket: egy gyönyörű, antik tükör. A tükör kerete aranyból készült, és a felszíne olyan tiszta volt, mint a víz.
+
+Szabi és Luca odaléptek a tükörhöz, és belenéztek. De nem látták a saját arcukat. Ehelyett egy csodálatos tájat láttak, amely tele volt színes virágokkal és fákkal. A gyerekek csodálkoztak, és nem értették, mi történik.
+
+Ekkor egy hang megszólalt a tükörből. "Üdvözöllek, Szabi és Luca! Én a tükör szelleme vagyok. Azt akarom, hogy segítsetek nekem. A tükörországban egy gonosz varázsló él, aki ellopja a lakosok boldogságát. Nekem szükségem van a segítségetekre, hogy visszanyerjük a boldogságot."
+
+A gyerekek meglepődtek, de nem féltek. "Mi segítünk neked!" - mondták. A tükör szelleme elmosolyodott, és azt mondta: "Akkor kezdjük el a kalandot! De figyelmeztetlek benneteket, a varázsló nagyon gonosz, és a tükörország tele van veszélyekkel."
+
+Szabi és Luca bátran beléptek a tükörbe, és a tükörországba kerültek. A táj szép volt, de a gyerekek hamarosan észrevették, hogy valami nincs rendben. A virágok színtelenek voltak, a fák pedig szárazak és barnák. A lakosok is szomorúak voltak, és nem mosolyogtak.
+
+A gyerekek elindultak, hogy megtalálják a varázslót. Útközben találkoztak egy bölcs öregemberrel, aki elmondta nekik, hogy a varázsló egy erődben lakik, amelyet sárkányok őriznek. "De ne féljetek!" - mondta az öregember. "A bátorság és a szív ereje legyőzi a gonoszt."
+
+Szabi és Luca továbbmentek, és hamarosan elérték az erődöt. A sárkányok nagyok és félelmetesek voltak, de a gyerekek nem hátráltak meg. "Mi nem félünk tőletek!" - mondták, és bátran beléptek az erődbe.
+
+A varázsló egy nagy teremben ült, és gonoszul mosolygott. "Üdvözöllek, Szabi és Luca! Én vagyok a varázsló, és én loptam el a boldogságot a tükörországban. De most ti sem fogtok elmenni innen!"
+
+A gyerekek nem féltek, és szembe szálltak a varázslóval. "Mi visszanyerjük a boldogságot!" - mondták. A varázsló nevetett, és varázsolni kezdett. De Szabi és Luca nem adták fel. Ők is varázsolni kezdtek, és a szív erejük legyőzte a varázsló gonosz varázslatát.
+
+A varázsló elvesztette a hatalmát, és a boldogság visszatért a tükörországba. A lakosok mosolyogtak, a virágok színesek lettek, és a fák zöldek és erősek. A gyerekek diadalt arattak, és a tükör szelleme elmosolyodott.
+
+"Köszönöm nektek, Szabi és Luca! Ti visszanyertétek a boldogságot a tükörországban. Most visszatérhettek a saját világotokba, de ne felejtsétek el a tükörországot és a barátaitokat!"
+
+Szabi és Luca visszatértek a saját világukba, de soha nem felejtették el a tükörországot és a kalandjukat. Ők megtanulták, hogy a bátorság és a szív erősebb, mint a gonosz, és hogy a barátság és a segítségnyújtás fontosabb, mint bármi más.
+
+A történet vége.</body>

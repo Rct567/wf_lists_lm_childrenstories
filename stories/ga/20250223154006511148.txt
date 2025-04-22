@@ -1,0 +1,46 @@
+<prompt>
+Please write a light-hearted Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Conas a bhFuair Cúchulainn a Chuid Comhachta'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>ga</lang_id>
+
+<title>Conas a bhFuair Cúchulainn a Chuid Comhachta</title>
+<body>
+Bhí lá amháin i gcroílár na hÉireann, nuair a tháinig buachaill óg darbh ainm Setanta chun cónaithe i dtír Uí Néill. Bhí sé ina fhear óg lacánach agus láidir, agus bhí a chroí lán de dhílseacht agus de mhisíneach. Ach bhí aon rud amháin atá ag teastáil uaidh - comhacht. 
+
+Bhí Setanta ag éisteacht scéalta faoi na laochra ó dhúchas, agus bhí sé agiarraidh a chuid comhachta a fháil. Chuaigh sé chun na máistir mhóra, Fergus mac Róich, chun cabhair a iarraidh. D'fhreagair Fergus: "Táim sásta cabhair a thabhairt duit, a Shetanta, ach caithfimid dul ar thóir an scéil is mó sa tír, an scéil a thabharfaidh duit do chuid comhachta."
+
+Thóg siad a gcuid aghaidh ar thóir na sléibhte, ag déanamh a mbealach trí ghleanna agus trí chnoic. Fuair siad iad féin ag bun shráidbhaile beag, agus d'fhreagair Fergus: "Táimid sásta dul isteach sa shráidbhaile, ach táim ag rá leat, a Shetanta, táimid ag dul isteach i dteach an scéil is mó sa tír." 
+
+D'fhreagair Setanta: "Táim réidh, a Fhearguis, táim sásta dul isteach sa teach." Chuaigh siad isteach sa teach, agus d'fhreagair an scéalaí: "Céad mile fáilte, a Fhearguis agus a Shetanta. Táim ag déanamh scéalta ó dhúchas, agus táim ag iarraidh inseacht scéalta duit." 
+
+D'fhreagair Fergus: "Táim sásta éisteacht le do scéil, a scéalaí, ach táim ag rá leat, táimid ag iarraidh scéal a fháil a thabharfaidh comhacht dár gcara, Setanta." D'fhreagair an scéalaí: "Tá scéal amháin agam a thabharfaidh comhacht duit, a Shetanta. Scéal an Chú Sí, an chéad chéile a thug comhacht do na laochra ó dhúchas." 
+
+D'fhreagair Setanta: "Inis dom scéal an Chú Sí, a scéalaí." D'fhreagair an scéalaí: "Bhí lá amháin, nuair a tháinig Cú Sí chun cónaithe i dtír Uí Néill. Bhí sé ina chapall mór agus láinear, agus bhí a chroí lán de dhílseacht agus de mhisíneach. Ach bhí aon rud amháin atá ag teastáil uaidh - comhacht." 
+
+Bhí an Cú Sí ag éisteacht scéalta faoi na laochra ó dhúchas, agus bhí sé agiarraidh a chuid comhachta a fháil. Chuaigh sé chun na máistir mhóra, Fionn mac Cumhaill, chun cabhair a iarraidh. D'fhreagair Fionn: "Táim sásta cabhair a thabhairt duit, a Chú Sí, ach caithfimid dul ar thóir an scéil is mó sa tír, an scéil a thabharfaidh duit do chuid comhachta." 
+
+Thóg siad a gcuid aghaidh ar thóir na sléibhte, ag déanamh a mbealach trí ghleanna agus trí chnoic. Fuair siad iad féin ag bun shráidbhaile beag, agus d'fhreagair Fionn: "Táimid sásta dul isteach sa shráidbhaile, ach táim ag rá leat, a Chú Sí, táimid ag dul isteach i dteach an scéil is mó sa tír." 
+
+D'fhreagair an Cú Sí: "Táim réidh, a Fhionn, táim sásta dul isteach sa teach." Chuaigh siad isteach sa teach, agus d'fhreagair an scéalaí: "Céad mile fáilte, a Fhionn agus a Chú Sí. Táim ag déanamh scéalta ó dhúchas, agus táim ag iarraidh inseacht scéalta duit." 
+
+D'fhreagair Fionn: "Táim sásta éisteacht le do scéil, a scéalaí, ach táim ag rá leat, táimid ag iarraidh scéal a fháil a thabharfaidh comhacht dár gcara, an Cú Sí." D'fhreagair an scéalaí: "Tá scéal amháin agam a thabharfaidh comhacht duit, a Chú Sí. Scéal an loin, an chéad chíor a thug comhacht do na laochra ó dhúchas." 
+
+D'fhreagair an Cú Sí: "Inis dom scéal an loin, a scéalaí." D'fhreagair an scéalaí: "Bhí lá amháin, nuair a tháinig loin chun cónaithe i dtír Uí Néill. Bhí sé ina chapall bheag agus láinear, agus bhí a chroí lán de dhílseacht agus de mhisíneach. Ach bhí aon rud amháin atá ag teastáil uaidh - comhacht." 
+
+Bhí an loin ag éisteacht scéalta faoi na laochra ó dhúchas, agus bhí sé agiarraidh a chuid comhachta a fháil. Chuaigh sé chun na máistir mhóra, Conchúr mac Néss, chun cabhair a iarraidh. D'fhreagair Conchúr: "Táim sásta cabhair a thabhairt duit, a loin, ach caithfimid dul ar thóir an scéil is mó sa tír, an scéil a thabharfaidh duit do chuid comhachta." 
+
+Thóg siad a gcuid aghaidh ar thóir na sléibhte, ag déanamh a mbealach trí ghleanna agus trí chnoic. Fuair siad iad féin ag bun shráidbhaile beag, agus d'fhreagair Conchúr: "Táimid sásta dul isteach sa shráidbhaile, ach táim ag rá leat, a loin, táimid ag dul isteach i dteach an scéil is mó sa tír." 
+
+D'fhreagair an loin: "Táim réidh, a Chonchúr, táim sásta dul isteach sa teach." Chuaigh siad isteach sa teach, agus d'fhreagair an scéalaí: "Céad mile fáilte, a Chonchúr agus a loin. Táim ag déanamh scéalta ó dhúchas, agus táim ag iarraidh inseacht scéalta duit." 
+
+D'fhreagair Conchúr: "Táim sásta éisteacht le do scéil, a scéalaí, ach táim ag rá leat, táimid ag iarraidh scéal a fháil a thabharfaidh comhacht dár gcara, an loin." D'fhreagair an scéalaí: "Tá scéal amháin agam a thabharfaidh comhacht duit, a loin. Scéal an chathaoir, an chéad chathair a thug comhacht do na laochra ó dhúchas." 
+
+D'fhreagair an loin: "Inis dom scéal an chathaoir, a scéalaí." D'fhreagair an scéalaí: "Bhí lá amháin, nuair a tháinig cathaoir chun cónaithe i dtír U

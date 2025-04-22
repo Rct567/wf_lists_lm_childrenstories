@@ -1,0 +1,54 @@
+<prompt>
+Please write a dialog-based Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Bogáncs, a Bogár, aki Felfedezte a Világot'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>Bogáncs, a Bogár, aki Felfedezte a Világot</title>
+<body>
+Bogáncs, egy apró, fekete bogár, élénk zöld fűszálakon élt a kertben.  Nagyon szerette a kertjét, a virágokat, a fűszálakat, és persze a rengeteg finom virágport.  De Bogáncs titkon vágyott valami többet.  Vágyott a világ felfedezésére.
+
+–  Anyu, Apu – szólt halkan egy reggel Bogáncs.  – Szeretnék kirándulni!
+
+Az anyja, egy idős, bölcs bogár, felnézett a virágra, ahova rakott.  –  Bogáncs, drágám, a világ hatalmas, veszélyes is lehet.  Sok szomorú bogár van, aki a kalandok helyett elveszett az útban.  Nem vagy még elég erős ehhez.
+
+– De anyu! – mondta Bogáncs.  – Szeretném látni a szivárvány színfoltjait a szomszédos réten! Hallani a zümmögésükön túl a hangokat! És milyen édes illatok lehetnének más növényeknél!
+
+A nagyapja, egy vénebb, tapasztaltabb bogár, aki egész életében utazott, óvatosan biccentett. – A kíváncsiság jó, Bogáncs, de óvatosság nélkül veszélyes.  Beszéljünk a csodálatos úttervekről, de előbb menjünk és beszélgessünk a tapasztalt rokonokról, és gyűjtsük össze az okos tanácsokat, akik megértették a nagy világ veszélyeiről.
+
+Bogáncs,  a szívükben rejlő nagy álmok kísérte, elment a bölcs Hangyák királyához.  – Felséges uralkodó – kérdezte remegő hangon, – szeretném megismerni a világot!
+
+– Kirándulásod előkészítése egy fontos feladat – mondta a Hangyák királya.  – Először a navigációs készségedet kell megismerkedni a térkép és a tájoló használatával. Mérj fel mindent, nézd meg pontosan a világ területeit és az útjukat, amelyeket szeretnél megtenni!  Tanulj meg az úton segíteni és vigyázni egymásra.
+
+Bogáncs lelkesen nekiállt a tanulásra.  Tanult repülni, hogyan navigáljon az égben, és hogyan használja a napot és a holdat iránytűként. A Hangyák királya megtanította az ismeretlen területekről. Megmutatta Bogáncsnak, hol rejtőznek a veszélyes repülőhelyek és a szélviharos vándorok.
+
+Újra hazatért a kertbe.  Kiválasztott egy erős, ragyogó piros cseresznyét, és a szárnyait megfeszítve felszállt.  Érezte a szél hűvös fuvallatát az arcán, és nézte, ahogy a világ aprólékosan felnő a szeme előtt.
+
+Egy édes, mézillatú, távoli réten landolt.  A virágok gyönyörűen csillogtak a napsütésben. A nap felkavarta a mézes illatát.
+
+– Szia – szólt egy barna pillangó.  –  Egy ilyen apró bogár. Honnan jöttél?
+
+– Én Bogáncs vagyok – mondta –, és a világ felfedezése volt a célom.
+
+A pillangó elmesélte a rét történetét és megmutatta neki a titkos, szivárványszínű útvonalakat.
+
+Megtalálta a hangyák birodalmát,  amely  szigorú rend szerint épült. A hangyák bemutatták Bogáncsnak a föld alatti folyosókat, a föld alatti táplálékkészletet, és a hatékony kommunikációt.
+
+Bogáncs egy tiszta, patakban is járt, ahol a vízcseppek a zöldellő kőket simogatták, gyönyörű édes zenét hallgatva, és ismerte a vízi világ szépségeit, beleértve az apró vízi élőlényeket és a felhők táncait.
+
+Egy sivatagi síkságon keresztül ment át, ahol csak  kis fűszálakon talált frissességet. A sivatag szélén éppolyan szép, mint a virágos rét, ha tudjuk figyelni.
+
+Végül visszatért a kertjébe.  Sok minden volt.  Sok minden más. Nem hiányoztak a virágok és a régi barátja, a füves rét.  Látta, hogy a világ sok színe, hangja és illata, jó és gonosz, meglepő.  Végül megértette a nagyapja és az anyja bölcsességét.  
+
+Megtalálta a titkot – az utazásokban az apróságban rejlett.
+
+
+Mindenkiről volt szó a világon, a tiszta vizről, a szél hűvös fuvallatáról, az erdei gyönyörű zenéjétől kezdve, a nagy sivatagokig, és sok titkos, apró hangja van minden részben.  Bogáncs megtanult értékelni az otthonát is.  A zöld fűszálak is szebbek voltak, a kert és a kertje is egy csodálatos csoda. És bár elutazott, a legjobb hely a földön mindig a házában volt, tele családtagokkal.  Bogáncs boldogan ugrált a kertben, tudva, hogy a világ hatalmas és csodálatos, és ő is benne van.
+</body>

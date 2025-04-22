@@ -1,0 +1,41 @@
+<prompt>
+Please write a funny Estonian children's story that is at least 1000 words long.
+It must be completely written in proper Estonian (ET).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Siil Simoni ja tema seiklus: kuidas ta korjas õunu.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>et</lang_id>
+
+<title>Siil Simoni ja tema seiklus: kuidas ta korjas õunu</title>
+<body>
+Siil Simoni elas üksinda väikses metsas, kus kasvasid kõrged puud ja uhked lilled. Ta oli väga üksik ja otsis alati uusi sõpru, kellega jagada oma mõtteid ja seiklusi. Ühel päeval, kui ta jalutas metsa teel, kohtas ta väikest mara, kelle nimi oli Märten.
+
+Märten oli väga nutikas ja oskas palju asju. Ta õpetas Siil Simonile, kuidas tehakse õunaid ja kuidas neid korjatakse. Siil Simon oli väga huvitatud ja palus Märtenit õpetama talle kõiki õunakorjamise saladusi.
+
+Märten võttis Siil Simoni õunaaeda, kus kasvasid kõige ilusamad ja mahlakamad õunad. Ta näitas talle, kuidas tuleb õunu kaasa hakata ja kuidas neid tuleb koguda. Siil Simon oli väga tähelepanelik ja õppis kiiresti. Ta korjas õunu ühe käega ja hoidis teisega Märteni käsikäes.
+
+Kui nad olid õunad korjanud, läksid nad Märteni koju, kus nad õunu süüa hakkasid. Siil Simon oli väga rahul ja ütles: "See on kõige mahlakam õun, mida ma elus olen süüdnud!" Märten naeratas ja ütles: "Ma ütlesin sulle, et need on kõige paremad õunad kogu metsas!"
+
+Siil Simon ja Märten said kiiresti sõpradeks ja veetsid koos palju aega. Nad käisid metsas jalutamas, mängisid mänge ja rääkisid lugusid. Siil Simon oli väga õnnelik, et ta leidis endale sõbrad ja sai jagada oma elu Märteniga.
+
+Ühel päeval, kui nad jalutasid metsa teel, kohtasid nad suure ja väleda hunti. Hunt oli näljane ja otsis toitu. Siil Simon ja Märten olid väga hirmul, aga siis mõtlesid nad välja plaani. Märten võttis õuna taskust ja viskas hunti poole. Hunt hammustas õuna ja oli kohe rahul. Ta ei olnud enam näljane ja läks ära.
+
+Siil Simon ja Märten olid väga rõõmsad, et nad hunti rahuldamiseks õnnestusid. Nad naeratasid ja ütlesid: "Me pärisime! Me hoidume huntide eest!" Märten ütles: "Ma ütlesin sulle, et õunad on kõige parem abi, kui on vaja huntidest jagu saada!"
+
+Siil Simon ja Märten jätkasid oma teekonda ja läksid täna veel pikemale jalutusele. Nad rääkisid ja naeratasid, ning Siil Simon mõtles, et ta on leidnud endale parima sõbra kogu metsas.
+
+Kui päev hakkas loojuma, läksid nad tagasi koju. Siil Simon tänas Märtenit õppimise eest ja lubas, et homme ta tuleb uuesti õunakorjama. Märten naeratas ja ütles: "Ma ootan sind homme juba!" Siil Simon läks koju, kus ta magama heitis ja unes nägi, kuidas ta homme uuesti õunu korjab.
+
+Järgmisel päeval läks Siil Simon juba varakult Märteni juurde. Nad läksid õunaaeda ja korjasid õunu veel rohkem kui eile. Siil Simon oli väga osavaks saanud ja korjas õunu kiiresti ja hoolikalt. Märten ütles: "Sa oled õunakorjaja kuningas!" Siil Simon naeratas ja ütles: "Ma olen õppinud kõige paremalt õpetajalt!"
+
+Siil Simon ja Märten veetsid veel palju päevi koos, korjates õunu ja naerdes. Nad said ikka lähedasemaks ja lähedasemaks, ning Siil Simon teadis, et ta leidis endale sõbra, keda ta elu lõpuni armastab.
+
+Lõpuks otsustas Siil Simon, et ta tahab Märtenile kingituseks midagi erilist teha. Ta läks metsa ja otsis Märteni lemmiklilli, mis oli väga haruldane ja ilus. Ta leidis selle lõpuks ja tõi selle Märtenile kingituseks. Märten oli väga rõõmus ja ütles: "See on kõige ilusam kingitus, mida ma elus olen saanud!"
+
+Siil Simon ja Märten elasid edasi õnnelikult ja korjasid õunu koos, ning nad teadsid, et nende sõprus kestab elu lõpuni. Ja kui sa lugesid seda lugu, siis tead sa, et Siil Simon ja Märten on ikka veel koos ja korjavad õunu metsas, naerdes ja rääkides.
+</body>

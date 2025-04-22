@@ -1,0 +1,69 @@
+<prompt>
+Please write a dialog-based Welsh children's story that is at least 1000 words long.
+It must be completely written in proper Welsh (CY).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Tŷ, Môr, Llon, Cymru, Dathlu, y Gymru hyfryd, yng Ngogledd Cymru iawn.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>cy</lang_id>
+
+<title>Tŷ, Môr, Llon, Cymru, Dathlu, y Gymru hyfryd, yng Ngogledd Cymru iawn.</title>
+<body>
+Roedd hi'n ddiwrnod heulog, diwrnod perffaith i fod allan. Swn yr adar yn canu, a'r môr yn swnio'n ysgafn ar y traeth. Yn y tŷ bach, lliwgar, wrth ymyl y môr, roedd dau gymeriad ifanc yn paratoi ar gyfer diwrnod arbennig.
+
+“Bore da, Mari!” meddai Ifan, gyda gwên fawr ar ei wyneb. “Ydych chi'n barod i ddathlu?”
+
+Edrychodd Mari arno, ei gwallt yn chwifio yn y gwynt. “Bore da, Ifan! Wrth gwrs! Rydw i wedi bod yn aros y diwrnod hwn ers wythnosau! Ble dylen ni ddechrau?”
+
+Roedd Mari ac Ifan yn gefeilliaid, yn byw mewn tŷ bach hyfryd yng Ngogledd Cymru. Roedd eu tŷ yn eistedd ar ben clogwyn, gydag olygfeydd ysblennydd o'r môr. Roedd eu tad, yn bysgotwr, a'u mam, yn gweu dillad lliwgar i'r dref gyfan. Heddiw, roedd yn ddiwrnod pen-blwydd eu tad, ac roedd ganddyn nhw gynlluniau mawr.
+
+“Wel, yn gyntaf,” meddai Ifan, “mae'n rhaid i ni fynd i gasglu blodau ar gyfer y bwrdd. Yna, rydw i eisiau gwneud rhai balŵns.”
+
+“Ardderchog!” atebodd Mari. “Dwi'n meddwl y dylid i ni wneud teisen hefyd! Rhaid i ni ofyn i Nain am y rysáit gorau.”
+
+“Teisen pen-blwydd! Syniad da iawn, Mari!” cytunodd Ifan.
+
+Cyrhaeddodd Mari a Ifan at hen dŷ Nain ar gerrig mân, a galwant ar y drws. Ar ôl ychydig, agorodd Nain y drws, gydag wyneb llawen.
+
+“Bore da, fy mhlant annwyl!” meddai Nain. “Beth sy'n dod â chi mor gynnar heddiw?”
+
+“Bore da, Nain!” atebodd Mari ac Ifan mewn undod. “Rydym ni eisiau gofyn i chi am rysáit teisen pen-blwydd i Dad. A allwch chi ein helpu?”
+
+“Wrth gwrs, wrth gwrs!” meddai Nain, gyda gwên eang. “Dilynwch fi i’r gegin. Mae gennym ni bethau i'w bobi!”
+
+Yn y gegin, edrychodd Nain i mewn i'r llyfr rysáit hen a difyr. Rhoddwyd yr holl gynhwysion allan a dechreuon nhw bobi. Chwipio'r wyau, cymysgu'r siwgr a'r blawd. A phan oedd y teisen yn y popty, fe aethon nhw i gasglu blodau ar gyfer y bwrdd.
+
+“Dwi'n meddwl bod y rhain yn berffaith!” meddai Ifan, yn dewis rhosynnau coch a melyn.
+
+“Ydy, yn hyfryd! A nawr, fe fydd y balŵns!” atebodd Mari, yn mynd yn ôl i’r tŷ i'w chwyddo.
+
+Chwythodd Mari a Ifan y balŵns. Roeddent yn lliwgar, a siâp gwahanol. Roeddent yn hongian hanner ffordd i'r to, i addurno'r tŷ yn llawn.
+
+Ar ôl i'r teisen gael ei gwneud, fe addurnon nhw hi gyda hufen, eirin a cherubau bach. Wrth gwrs, gyda'r cannwyll pen-blwydd fawr yn y canol.
+
+Yn fuan, roedd y tŷ wedi'i addurno'n llawn. Yr holl baratoadau wedi'u gwneud, ac roeddent yn aros am Dad i ddod adref o'i bysgota.
+
+“Ydych chi'n nerfus?” gofynnodd Mari.
+
+“Ydw!” atebodd Ifan, gyda gwên fach. “Mae'n rhaid i ni guddio! Bydd Dad yn dod yn fuan.”
+
+Cuddiodd y plant y tu ôl i'r soffa. Clywsant gamau Dad yn agosáu, a chyda'r gwahoddiad o "Hapus Pen-blwydd, Tad!" naid allan, yn llawn llawenydd.
+
+“O fy Nuw! Beth sydd hyn?” meddai Tad, wedi ei synnu'n llwyr.
+
+“Surprise!” gwaeddodd Mari ac Ifan.
+
+Gwelodd Tad y blodau ar y bwrdd, y balŵns yn hongian, ac, wrth gwrs, y deisen enfawr, gyda'i enw arni.
+
+“Mari, Ifan, dwi mor ddiolchgar!” meddai Tad, gan gofleidio ei blant.
+
+Bwytasant deisen, canu caneuon, a chwerthin fel bod yn ôl-a-blaen o'u difyrrwch. Eisteddasant y tu allan, gan wylio'r môr, ac roedd hi'n ddathliad bythgofiadwy.
+
+Y diwrnod hwnnw, yn eu tŷ bach, wrth ymyl y môr, darganfu Mari ac Ifan bod cariad a hapusrwydd yn lledaenu'n ysblennydd, yng nghymuned Cymru annwyl. Yn y tywyllwch a'r golau, roedd Cymru’n gartref, yn gyfle i ddathlu'r byd, yng Ngogledd Cymru, lle'r oedd popeth yn bosibl.
+Roedd y ddau blant yn gwybod, eu bod nhw yn gysylltiedig â Cymru hyfryd am byth. Ac roedden nhw’n llawn balchder. A phob dydd, roedd hi'n diwrnod pen-blwydd i ddathlu.
+Y diwedd.
+</body>

@@ -1,0 +1,30 @@
+<prompt>
+Please write a silly Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Lāču karnevāls un lietus ziedu karaļvalsts'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lv</lang_id>
+
+<title>Lāču karnevāls un lietus ziedu karaļvalsts</title><body>
+Reiz, tālajā Lielajā Mežā, kur koki sasniedza debesis, un upes dziedāja klusā melodiju, norisinājās visbrīnišķīgākais karnevāls. Tas bija Lāču karnevāls!  Lāči, ar savām dzelzs spēcīgajām kājām un mīlīgajām, pat nedaudz muciņainajām sejām, bija sagatavojuši vislabāko ballīti.
+
+Lācis Miķelis, vissvarīgākais lāču karalis, bija pārliecinājies, ka viss notiek pēc kārtības.  Viņš bija pasūtījis slavenāko meža šefpavāru – lapsu Jānīti – pagatavot brīnišķīgāko medus kūku.  Kūka bija tik augsta, ka tā sasniedza vairākus koku zarus. Lapsa Jānīte, ar saviem niecīgajiem, bet veiklajiem ķepām, ar sīku priecīgu smieklu pavadībā, gatavoja kūku visu nakti, dziedot dziesmas par medus un karnevāliem.
+
+Lācis Ilmārs, karalistes futbola zvaigzne, bija gatavojis milzīgu futbola bumbu no koka un lakricas. Bumba bija tik liela, ka ap to varēja dejot visi lāči, kurus bija pievilinājis karnevāla priecīgais smarža.  Lācis Kaspars, ģimenes slavenais meistars, ar savām spēcīgajām ķepām bija izveidojis tik sarežģītu lāču rotaļlietu labirintu no zaru un priežu čiekuriem, ka neviens nespēja tikt cauri tam visā karnevāla laikā.
+
+Bet, negaidīti, visapkārt Lielajam Mežam sāka plūst lietus. Ne parastu lietus, bet gan krāsainu lietus, kas izkrāsoja debesis ar zilo, dzelteno, sarkanu un zaļo. Un tad no šī krāsainā lietus sāka ziedēt lietus ziedi. Ziedi bija dažādu formu un krāsu. Kā rozes, bet spoži dzeltenas. Kā puķes, bet lielas kā bļodas. Ziedi dzirkstīja zem lietus un dziedāja skaistas dziesmas.
+
+Lāču karnevāls apstājās. Lācis Miķelis nezināja, ko darīt. Viņa svarīgais karnevāls bija jāpārtrauc, lai saglabātu lietus ziedu skaistumu. Pēkšņi, Lācis Ilmārs ieteica apvienot divas pasaules. Lietus ziedu skaistumu un lāču smieklu jūru. 
+
+Lācis Kaspars atveda savas glezniecības piederumus, un visi lāči uzsāka gleznot krāsainus lietus ziedus uz koka, kā arī ziedu, lietus un debesu skaistumu. Izrādījās, lietus ziedi visvairāk patika brūnā krāsu lāču tumšajai kažokādai!  Lapsa Jānīte ar saviem zaļajiem krāsojumiem padarīja medus kūku par vēl smalkāku un krāsaināku. Un lāču futbola bumbu pārklāja ar ziedu zīmējumiem un krāsām.
+
+Visa lāču draudzība vienojoties ielāgoja karnevālu zemē, pie lietus ziediem.  Ziedi dejoja un dziesmāja savā krāsainā, brīnišķīgajā ballītē ar lietus zvaigžņu mirkļiem! Visi vienojoties dziedāja kopīgu dziesmu, kas lika skaņām atskanēt visā Lielajā Mežā! Lācis Miķelis, šajā nepatikšanu laikā, nonāca sapratnē. Un saprata, ka lietus ziedi un lāču karnevāls var būt viena, kopīga, skaista pasaule.
+
+Un tā, zem dzeltenā, rozā un zilas debesīm, karnevāls turpinājās visu dienu. Lāči un lietus ziedi dejāja kopā, spēlējās un dziedāja.  Viss noslēdzās ar lielisku šefpavāra lapsas Jānītes gatavoto medus kūkas sadali visiem, kur katrā gabaliņā tika iespiestas skaista lietus ziedu attēlošana.  Visi meža iemītnieki bija neizmērāmi priecīgi.  Lielā Meža brīnumi bija saglabājušies, un pat negaidītā lieta bija paspēlējusi lāčiem labu apziņas stundas. No šīs dienas tā dzeltenais un brīnišķīgais lietus ziedu skaistums Lielā Mežā nozīmēja vienu no svarīgākajiem karnevāliem.  Tāpat lāči no jauna iepazinās ar dažādām dabu un ar krāsām un sajūtami mainīja savu sapratni!
+</body>

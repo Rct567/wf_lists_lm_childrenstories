@@ -1,0 +1,79 @@
+<prompt>
+Please write a funny French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Le Trésor Perdu de la Vallée des Papillons'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```xml
+<title>Le Trésor Perdu de la Vallée des Papillons</title>
+<body>
+Dans un village pittoresque au cœur de la France, où les croissants croustillaient et le fromage sentait fort bon, vivait un petit garçon nommé Jean-Pierre. Jean-Pierre n'était pas un garçon comme les autres. Il adorait les énigmes, les aventures et surtout, les papillons. Chaque été, il partait explorer la Vallée des Papillons, un endroit magique où des centaines de créatures ailées aux couleurs chatoyantes dansaient dans l'air.
+
+Un jour, alors qu'il explorait les recoins les plus secrets de la vallée, Jean-Pierre fit une découverte extraordinaire. Derrière une cascade pétillante, cachée dans une grotte sombre, il trouva une vieille carte, à moitié mangée par les souris. La carte représentait la Vallée des Papillons, mais elle était ornée de symboles étranges et d'une croix indiquant un "Trésor Perdu".
+
+« Un trésor ! » s'exclama Jean-Pierre, les yeux brillants. « Je dois le trouver ! »
+
+Il fallait bien sûr qu'il partage cette découverte avec sa meilleure amie, Sophie. Sophie était une fille curieuse et futée, qui aimait les puzzles et qui savait déchiffrer les hiéroglyphes, enfin, presque.
+
+Jean-Pierre et Sophie, armés d'une loupe, d'un carnet, d'un crayon et de deux sandwichs au jambon-beurre (essentiels pour toute bonne aventure française), retournèrent à la grotte. Ils passèrent des heures à étudier la carte.
+
+« Regarde, Sophie ! » s'écria Jean-Pierre. « Il y a un papillon rouge avec une moustache ! »
+
+« Euh, Jean-Pierre, je crois que c'est juste un dessin… » répondit Sophie en fronçant les sourcils. « Concentrons-nous sur les symboles. »
+
+Après moult réflexions, ils déchiffrèrent le premier indice : "Suivez le sentier où les escargots bavent avec élégance".
+
+« Les escargots ? » demanda Jean-Pierre, perplexe. « Pourquoi des escargots ? »
+
+Sophie, toujours pratique, répondit : « Parce que c'est écrit sur la carte, Jean-Pierre ! Allez, cherchons ! »
+
+Ils suivirent un sentier sinueux, les yeux rivés au sol. Finalement, ils trouvèrent le sentier idéal, jonché de petites traces argentées. Les escargots, à l'œuvre !
+
+Le sentier des escargots les mena à un vieux chêne majestueux. Sur l'arbre, une seconde énigme était gravée : "Sous le regard du hibou bavard, cherchez la fleur qui rit sans trêve".
+
+« Le hibou bavard ! » s'écria Jean-Pierre. « Je sais ! C'est Monsieur Hibou, qui vit dans le grenier de Madame Dubois ! »
+
+Madame Dubois, une vieille dame qui aimait collectionner les chapeaux excentriques, était bien connue pour son hibou empaillé qui, selon la rumeur, parlait aux oiseaux.
+
+Ils coururent chez Madame Dubois. Ils grimpèrent prudemment dans le grenier poussiéreux, en évitant les toiles d'araignées. Monsieur Hibou, posé sur une étagère, les fixait de ses yeux ronds et brillants.
+
+Sous le hibou, accrochée à une poutre, se trouvait une rose en plastique, ridiculement souriante. En dessous, une note. La note disait : " Là où l'eau danse avec légèreté, le trésor attend votre clarté."
+
+« L'eau qui danse ! » s'exclama Sophie. « Ça doit être la fontaine au pied du village ! »
+
+De retour dans la Vallée, ils se dirigèrent vers la fontaine, un endroit toujours joyeux où les enfants se rassemblaient pour jouer. Ils regardèrent attentivement. Rien. Ils cherchèrent partout. Toujours rien.
+
+Jean-Pierre, désespéré, donna un coup de pied maladroit dans l'eau. Soudain, une petite pierre, d'apparence banale, se détacha du fond. Ils la soulevèrent avec excitation. Dessous, il y avait une boîte en bois. Le trésor !
+
+Ils ouvrirent la boîte. Dedans, il y avait... un morceau de fromage, un peu vert, une loupe toute neuve et une lettre.
+
+« Oh, non… » soupira Jean-Pierre.
+
+Sophie lut la lettre à haute voix : « Chers jeunes aventuriers, votre quête est accomplie. Le vrai trésor, c'est l'amitié et le plaisir d'explorer. Ce fromage est pour vous remercier de votre persévérance. Profitez-en ! P.S. : Ne vous inquiétez pas, il n'est pas si vert que ça. » Signé : Le Vieux Papillon.
+
+Jean-Pierre et Sophie se regardèrent, perplexes. Ils éclatèrent de rire. Le trésor n'était pas aussi spectaculaire qu'ils l'avaient imaginé, mais l'aventure avait été incroyable !
+
+« Après tout », dit Sophie, « le fromage, c'est délicieux ! »
+
+Et Jean-Pierre ajouta : « Et j'ai vraiment besoin d'une nouvelle loupe ! »
+
+Ils s'installèrent sur un rocher, grignotèrent le fromage (qui, à leur grande surprise, n'était pas si vert) et contemplèrent le coucher du soleil sur la Vallée des Papillons. Ils rirent en se remémorant toutes les péripéties, des escargots baveux à Monsieur Hibou.
+
+Soudain, ils entendirent un bruit. *Tssst...* Un papillon, le plus grand et le plus coloré qu'ils aient jamais vu, atterrit sur l'épaule de Jean-Pierre. Il avait une moustache !
+
+« Bonjour, jeunes gens », dit le papillon d'une voix grave, tout à fait humaine. « Je suis le Vieux Papillon. Et vous avez bien trouvé mon petit trésor. Je suis ravi de votre courage et de votre sens de l'humour. Le vrai trésor est bien sûr l'aventure et l'amitié, comme je vous l'ai écrit. Mais… » Il sortit de ses poches… deux magnifiques crèmes glacées ! Chocolat pour Jean-Pierre et fraise pour Sophie.
+
+« Et maintenant », dit le Vieux Papillon avec un clin d'œil, « place au dessert ! »
+
+Jean-Pierre et Sophie, ravis, acceptèrent. Ils savourèrent leurs crèmes glacées, admirant le ballet incessant des papillons autour d'eux. Ils étaient heureux, comblés. Le Trésor Perdu de la Vallée des Papillons, finalement, n'était pas tant le fromage, la loupe ou la lettre, mais le souvenir inoubliable de cette aventure.
+
+Le lendemain, ils retournèrent dans la Vallée, toujours avides de nouvelles découvertes et d'aventures. Ils avaient même baptisé le papillon moustachu : M. Moustache Papillon, pour rendre hommage à ce fantastique trésor. Et bien sûr, ils continuèrent à explorer la Vallée des Papillons, sachant que le véritable trésor était toujours là, à portée de main : l'émerveillement de la nature, l'amitié et le plaisir de rire ensemble. Et peut-être, qui sait, découvriraient-ils un jour un vrai trésor… rempli de chocolat !
+</body>
+```

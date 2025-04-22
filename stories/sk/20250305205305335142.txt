@@ -1,0 +1,39 @@
+<prompt>
+Please write a uncomplicated Slovak children's story that is at least 1000 words long.
+It must be completely written in proper Slovak (SK).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Morská panna a jej skryté mesto pod vlnami'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sk</lang_id>
+
+<title>Morská panna a jej skryté mesto pod vlnami</title>
+<body>
+Malá morská panna, s vlasmi ako morské riasy a očami ako modré perly, sa volala Perla.  Žila v nádhernom, tajnom meste pod vlnami, meste, ktoré sa lesklo a žiarili v ňom tisíce drobných, žiariacich kamienkov.  Mesto sa volalo Aquatica a bolo plné tajomných chodníkov, ktoré sa vinuli medzi koralmi a úžasnými morskými rastlinami.
+
+Perla milovala svoju domovinu.  Milovala šum vĺn, ktoré spievali jej lullaby a ticho, ktoré sa vynorilo z hlbiny mora.  Každý deň sa prechádzala po koralových chodníkoch, objavovala nové a nové zákutia.  Stretávala morské koníky, ktoré sa vznášali ako drobní tanečníci, a krásne morské ryby, sfarbené do všetkých farieb dúhy.  Dnes však mala Perla pocit, že niečo chýba.  Niečo sa zdalo... rozbité.
+
+Aquatica, zvyčajne plné života a veselého šumu, bolo neobvykle tiché.  Morské koníky sa skrývali, ryby sa schovávali a Perla sama cítila nepokoj v bruchu.  Prechádzala sa po známych koralových chodníkoch a všimla si, že mnoho kamienkov, ktoré kedysi žiarili, teraz boli tmavé a matné.  Zdálo sa, že z Aquatici odišla radosť.
+
+Perla sa rozhodla vydať sa na výpravu.  Chcela zistiť, čo sa stalo s jej krásnym mestom.  Nasadla na svojho verného morského koníka, malého, ale silného stvora s kožou ako lesklý smaragd.  Preplávala cez hlboké údolia a cez úzke prielivy, až kým sa nedostala k temnému útesu, ktorý sa týčil do neba.
+
+Tam, medzi skalami, objavila zmätenú skupinu morských tvorov.  Boli to morské panny, morské koníky a ryby, všetky s plačlivými očami.  Boli zúfalí, stratili sa v temnom oceánskom labyrinte, a zjavne stratili cestu domov.
+
+„Čo sa stalo?“ spýtala sa Perla tichým hlasom, ktorý sa vynoril z morskej hlbiny.
+
+Stará morská panna, s vlasmi ako striebro a očami ako tmavomodré hviezdy, sa jej priblížila.  „Zlé morské príšery ukradli naše svetlo,“ povedala. „Ukradli kamienky, ktoré dávali Aquatice jeho krásu a radosť.“
+
+Perla sa zdvihla a zhlboka sa nadýchla.  „Nikdy to nenechám tak,“ povedala odhodlane.  „Musíme ich nájsť a vrátiť späť naše svetlo!“
+
+Spoločne, morské panny, morské koníky a ryby, sa vydali na cestu za zlodeji.  Preplávali cez tmavú, hlbokú vodu, prekonávali prekážky a nebezpečenstvá, ktoré sa im vynorili z hlbín mora.  Stretli sa s príšerami, ktoré žili v temných jaskyniach, ale Perla a jej priatelia sa nikdy nevzdali.  Ich odhodlanie bolo silnejšie ako strach.
+
+Nakoniec, po dlhej a náročnej ceste, našli zlodejov.  Boli to zlé morské príšery, ktoré sa živia svetlom a radosťou.  Boli zlé a zlé, ale Perla a jej priatelia neboli strachliví.  Spoločne, s odvahou v srdciach, bojovali proti príšerám.  Bojovali s ich strašnými pazúrmi a zuby, a nakoniec ich porazili.
+
+Vrátili kamienky do Aquatici.  Akonáhle sa kamienky vrátili na svoje miesto, Aquatica sa opäť leskla a žiarila.  Morské koníky sa opäť vznášali, ryby sa opäť preháňali a perla sa opäť usmievala.  Perla sa vrátila do Aquatici a všetky morské stvorenia sa opäť tešili.  Všetko bolo opäť v poriadku.
+
+Odvtedy sa Perla stala hrdinkou Aquatici.  A každý deň, keď sa prechádzala po svojich koralových chodníkoch, si spomenula na túto nádhernú výpravu a na silu priateľstva a odhodlania.  A Aquatica, plné radosti a svetla, sa rozžiarilo v hlbinách mora.
+</body>

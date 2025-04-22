@@ -1,0 +1,64 @@
+<prompt>
+Please write a simple and easy-to-follow Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Ertakdagi Daraxtning Afsonasi: Vaqt Sizga G'amxo'rlik Qiladi.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>uz</lang_id>
+
+```uz
+<title>Ertakdagi Daraxtning Afsonasi: Vaqt Sizga G'amxo'rlik Qiladi.</title><body>
+Bir zamonlar, juda uzoq-uzoq o'lkalarda, gullar bilan bezatilgan yam-yashil o'rmonda kichkina qizcha yashardi. Uning ismi Dilnoza edi. Dilnoza juda mehribon, quvnoq va o'yinqaroq qizcha edi. U har kuni erta tongda uyg'onib, o'rmonda sayr qilar, gullarni hidlar, qushlarning sayrashini tinglar va kechqurun onasiga qiziqarli ertaklar aytib berardi.
+
+O'rmon o'rtasida, katta-katta daraxtlar orasida, afsonaviy bir daraxt bor edi. U daraxt nafaqat juda katta va baland edi, balki uning barglari kumushday yaltirardi va mevasi sirli edi. Qizig'i shundaki, bu daraxt vaqt bilan gaplashish qobiliyatiga ega edi. Ertaklarda aytilishicha, bu daraxt vaqtning o'zi edi va u hamma narsaga g'amxo'rlik qilardi.
+
+Dilnoza bu daraxt haqidagi ertaklarni onasidan ko'p eshitgan. Onasi unga: "Qizim, bu daraxt oddiy daraxt emas. Uning yordami bilan sen hayotingda hech qachon yolg'iz qolmaydi va har qanday qiyinchilikni yengishing mumkin", derdi. Dilnoza bu gaplarga qattiq ishondi va bir kuni o'rmonga, afsonaviy daraxtni izlashga qaror qildi.
+
+U bir kuni ertalab erta uyg'onib, kichkina savatchasini olib o'rmonga yo'l oldi. Uning yuragi hayajondan gupurardi. U o'rmonda sayr qilar, turli xil hayvonlarni ko'rar, gulzorlardan o'tar edi. Qushlar unga sayrashardi, qo'rqoq quyonlar unga salom berishardi, hasharotlar unga qiziqish bilan qarashardi. U yo'lda tez-tez dam olar, dam olganida onasining o'rgatgan qo'shiqlarini kuylardi.
+
+Uzoq yurdi, ammo afsonaviy daraxtni topa olmadi. Kichkina Dilnoza charchadi va afsuslandi. U yig'lay boshladi, ko'z yoshlari yonoqlaridan oqardi. "Nega men bu daraxtni topa olmayapman?" deb o'ylardi u. "Balki bu ertak yolg'onchidir?"
+
+Dilnoza yig'lab turganida, uning oldida o'ta keksa bir kampir paydo bo'ldi. Kampirning yuzida minglab ajinlar, ko'zlarida esa donolik porlar edi. Kampir Dilnozaga mehr bilan qaradi va dedi: "Qizalog'im, nega yig'layapsan?"
+
+Dilnoza kampirga o'z hikoyasini aytib berdi. Kampir uni diqqat bilan tingladi, so'ng unga dedi: "Qizim, sening yuraging toza va yaxshi. Sen bu daraxtni topishga loyiqsan. Lekin afsonaviy daraxtga boradigan yo'l juda uzoq va murakkab. Sen o'zingning sabr-toqatingni, mehringni va yaxshilikni ishlatishing kerak bo'ladi."
+
+Kampir Dilnozaga maslahat berdi: "Oldinga bor, eng katta toshga yetganingda to'xta va daraxtga nisbatan yuragingdagi eng yaxshi niyatlaringni ayt".
+
+Dilnoza minnatdorchilik bildirdi va yo'lga tushdi. U kampirning aytgan so'zlariga amal qildi. U yana yo'l yurdi. Ko'plab toshlar va to'siqlar o'tdi. Nihoyat, eng katta toshga yetdi. Tosh juda katta va qo'rqinchli edi. Dilnoza bir oz hayajonlandi. Lekin kampirning so'zlarini eslab, yuragida to'plangan ezgu niyatlarini aytishga qaror qildi.
+
+"Ey, afsonaviy daraxt! Men sizni topishni orzu qilaman. Men hech qachon yolg'iz bo'lmaslikni, har doim mehribon bo'lishni va yaxshilik qilishni istayman. Men doim sizning g'amxo'rligingizni his etishni istayman!"
+
+Dilnoza niyatlarini aytgandan so'ng, atrof yorishdi. Uning yonida katta-katta, kumush rangli barglari bilan yaltiragan, mevasi esa oltinday tovlanib turgan afsonaviy daraxt paydo bo'ldi. Dilnoza hayratdan qotib qoldi. Daraxt unga mehribonlik bilan qaradi va ovoz chiqardi: "Salom, Dilnoza. Men seni kutayotgan edim."
+
+Dilnoza daraxtga yaqinlashdi. Daraxt unga dedi: "Mening mevalarim sehrli. Agar sen ularni yesang, vaqt bilan gaplasha olasan. Vaqt esa senga yordam beradi, har qanday vaziyatda seni himoya qiladi va senga dono maslahatlar beradi."
+
+Dilnoza daraxtdan bir meva oldi. Meva juda shirali va mazali edi. U uni yeb qo'ydi. Birdaniga uning qalbi iliq nurlandi. U vaqtning o'zi bilan gaplasha boshladi.
+
+"Vaqt, nega bizga muammolar kerak? Nega hayot shunchalik murakkab?" - deb so'radi Dilnoza.
+
+Vaqt unga javob berdi: "Qizim, hayot sinovlardan iborat. Muammolar bizni kuchliroq qiladi, bizga sabr-toqat va yaxshilik qilishni o'rgatadi. Qiyinchiliklarsiz, hech narsaning qadrini bilmaysan."
+
+Dilnoza bu so'zlardan ilhomlandi. U daraxt bilan ko'p gaplashdi. U unga o'zining orzulari, qo'rquvlari va umidlarini aytdi. Vaqt unga har qanday savoliga javob berdi, maslahat berdi va yordam berdi.
+
+Dilnoza uzoq vaqt afsonaviy daraxt bilan suhbatlashdi. Vaqt sekin o'tayotgani kabi tuyulardi, lekin juda qiziqarli edi. U o'zini baxtli his etdi. Vaqtning g'amxo'rligi uni quvvatlantirdi.
+
+Kech tushdi. Dilnoza onasiga qaytish vaqti kelganini his qildi. U daraxtga xayrlashdi va onasiga ertakni aytib berishga va'da berdi.
+
+Daraxt unga dedi: "Dilnoza, sen unutma, men har doim sening qalbida bo'laman. Sen menga murojaat qilishing mumkin, men har doim senga yordam berishga tayyorman. Vaqt senga g'amxo'rlik qiladi."
+
+Dilnoza o'rmondan quvonch bilan chiqdi. Uning yuragi minnatdorchilik bilan to'lgan edi. Uning hayotida yangi davr boshlandi.
+
+U uyiga qaytib keldi va onasiga afsonaviy daraxt haqidagi hamma narsani gapirib berdi. Onasi uni tingladi va xursand bo'ldi. Dilnoza uxlab qoldi va juda yaxshi tushlar ko'rdi. Tushida afsonaviy daraxt uni har doim himoya qilayotganini ko'rdi.
+
+Ertadan boshlab, Dilnoza har kuni o'rmonga sayrga chiqdi. U gullarga suv quydi, hayvonlarga g'amxo'rlik qildi, daraxt bilan suhbatlashdi. U sabr-toqatni, yaxshilikni va muhabbatni o'rgandi. U endi hech qachon yolg'iz emas edi, chunki vaqt unga doimo g'amxo'rlik qilardi.
+
+Kunlar, oylar o'tdi. Dilnoza katta bo'ldi, ammo uning qalbida doimo afsonaviy daraxtga bo'lgan mehr va ishonch saqlanib qoldi. U hayotda har doim yaxshi inson bo'lib qoldi, har doim boshqalarga yordam berdi va dunyoni yaxshiroq qilishga harakat qildi. U vaqtning dono maslahatlari bilan yashadi va hayotining har bir lahzasidan bahramand bo'ldi.
+
+Shu bilan ertak tugadi. Ammo uning afsonasi doim qalbimizda yashaydi. Chunki vaqt bizga har doim g'amxo'rlik qiladi, faqat biz uning ovozini eshitishimiz kerak.
+</body>
+```

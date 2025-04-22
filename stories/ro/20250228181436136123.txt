@@ -1,0 +1,40 @@
+<prompt>
+Please write a simple and easy-to-follow Romanian children's story that is at least 1000 words long.
+It must be completely written in proper Romanian (RO).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Lumea secretă din spatele oglinzii fermecate'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>ro</lang_id>
+
+<title>Lumea secretă din spatele oglinzii fermecate</title><body>A fost odată ca niciodată, într-un sat mic și pitoresc, o fetiță curioasă pe nume Elena. Elena locuia într-o căsuță drăguță, cu un grădinar plin de flori și un pom mare de măr care umbrea curtea. Dar cel mai fascinant lucru din casa ei era o oglindă fermecată, care atârna pe peretele din camera ei. Această oglindă nu era ca celelalte. Ea avea un cadru vechi, sculptat cu flori și spirale, iar sticla părea să strălucească cu o lumină proprie.
+
+Într-o zi, când Elena se uita lung în oglindă, observă ceva ciudat. În loc să-și vadă propria reflexie, văzu un peisaj minunat: păduri verzi, râuri care curgeau lin și nori albi ca spuma. Curiozitatea ei a crescut, iar Elena a întins mâna și a atins oglinda. Deodată, oglinda a început să strălucească puternic, iar fetița a fost trasă înăuntru.
+
+Când și-a deschis ochii, Elena s-a trezit într-o lume complet nouă. Cerul era de un albastru strălucitor, iar aerul mirosea a flori proaspete. În fața ei se întindea o pădure magică, plină de copaci înalți și de animale vorbitoare. Un iepure alb, cu o haină mică și o pălărie neagră, a sărit din tufișuri și a spus: „Bună, Elena! Te așteptam!”
+
+Elena a rămas cu gura căscată. „Unde sunt? Cum mă cunoști?” a întrebat ea.
+
+„Ești în Lumea Oglindii,” a răspuns iepurele, zâmbind. „Aici, totul este posibil. Suntem fermecați să te întâmpinăm și să-ți arătăm acest loc minunat.”
+
+Elena a fost încântată. A urmat iepurele pe potecile pădurii, unde a întâlnit alte creaturi magice: un urs prietenos care cânta la chitară, o vulpe care țesea covoare colorate și un porumbel care zbura purtând scrisori de dragoste. Fiecare dintre ei i-a povestit despre magia din Lumea Oglindii și despre cum fiecare obiect din această lume are o poveste specială.
+
+După ce a explorat pădurea, Elena a ajuns la un râu argintiu care curgea printre dealuri. Pe malul râului, a văzut o bătrână zână, cu aripi strălucitoare și o toiag de cristal. Zâna a zâmbit și a spus: „Bine ai venit, Elena. Știu că ai multe întrebări.”
+
+„Da,” a răspuns Elena. „Cum este posibil să existe o astfel de lume? Și de ce am fost adusă aici?”
+
+Zâna a râs ușor. „Această lume există pentru cei care cred în magie și au inimile deschise. Ești aici pentru că ai un suflet curat și o dorință puternică de a explora. Lumea Oglindii este un loc unde visele devin realitate.”
+
+Elena a simțit o căldură în piept. „Pot să rămân aici pentru totdeauna?” a întrebat ea.
+
+Zâna a clătinat din cap. „Nu, dragă. Lumea ta are nevoie de tine. Dar poți să vizitezi Lumea Oglindii ori de câte ori dorești, atâta timp cât crezi în magie.”
+
+Înainte de a pleca, zâna i-a dăruit Elenei un mic cristal strălucitor. „Acest cristal îți va aminti întotdeauna de noi și de aventurile tale aici. Îl poți folosi pentru a reveni oricând.”
+
+Elena a mulțumit și a luat cristalul. Când s-a întors acasă, a găsit oglinda fermecată exact ca înainte, dar acum știa că spatele ei ascundea o lume magică. De atunci, Elena a vizitat Lumea Oglindii de multe ori, aducând cu ea povești și amintiri frumoase.
+
+Și astfel, fetița curioasă a învățat că magia există cu adevărat, atâta timp cât crezi în ea și ai inima deschisă la minuni.</body>

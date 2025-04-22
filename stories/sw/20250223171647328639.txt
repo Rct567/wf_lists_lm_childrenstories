@@ -1,0 +1,41 @@
+<prompt>
+Please write a simple and easy-to-follow Swahili children's story that is at least 1000 words long.
+It must be completely written in proper Swahili (SW).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Jogoo Mwenye Ukarimu: Jinsi Alivyoshiriki Chakula Chake na Jirani.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sw</lang_id>
+
+<title>Jogoo Mwenye Ukarimu: Jinsi Alivyoshiriki Chakula Chake na Jirani</title>
+<body>
+Kulikuwa na jogoo mmoja jasiri na mrembo aliyeitwa Barnaba.  Aliishi katika shamba lenye maua mazuri na miti mirefu.  Barnaby alikuwa na tabia nzuri, alikuwa mkarimu, na alipendwa sana na ndege wengine wote katika shamba hilo.
+
+Siku moja, jua liliangaza shambani, likipasha dunia joto.  Barnaby alikuwa ameamka mapema sana na tayari alikuwa amepata kiamsha kinywa chake kizuri, mbegu za mtama zenye harufu nzuri.  Alikula kwa furaha, akishukuru kwa riziki aliyokuwa nayo.  Akiwa amekolea mbegu hizo, Barnaba aliona mchwa mmoja mbichi, aliyeitwa Frida, akipambana sana kupata mbegu kidogo ya mtama iliyoanguka chini ya mti.
+
+Frida alionekana kuchoka na mwenye njaa sana.  Macho yake yalikuwa makubwa na mekundu, na mwili wake ulidhoofika. Barnaba alimtazama Frida kwa huruma. Moyo wake ulijaa huruma kwa mchwa huyo.  Alifikiria, "Mimi nina wingi wa mbegu, lakini huyu mchwa hajaweza kupata hata moja.  Lazima nimsaidie."
+
+Bila kusita, Barnaba aliruka chini na kutoa mbegu kubwa mbili za mtama kutoka kwa mdomo wake.  Alizipatia Frida.  Frida alipokea mbegu hizo kwa furaha kubwa, akimtazama Barnaba kwa shukrani.  Alinyoosha mwili wake na kula mbegu hizo kwa haraka, akijaza tumbo lake.
+
+Frida alikuwa na shukrani kubwa kwa Barnaba. Alisema kwa sauti nyembamba, "Asante, Jogoo Barnaba, kwa ukarimu wako. Wewe ni jogoo mwema sana."
+
+Barnaby alifurahi kuona furaha ya Frida.  Alikuwa akipenda kuwa mkarimu na kusaidia wengine. Aliona kwamba furaha ya kuwasaidia wengine ilikuwa kubwa zaidi kuliko kula peke yake.
+
+Wakati huo huo, katika sehemu nyingine ya shamba, mbwa mwitu mmoja mjanja, aliyeitwa Zawadi, alikuwa akitafuta chakula.  Alikuwa na njaa kali, na tumbo lake lilikuwa linapiga kelele. Aliona mchwa mwingine mdogo, aliyeitwa Mwana-mchwa, akipigana kupata mbegu.
+
+Zawadi alisema kwa sauti ya kebehi, "Wewe mchwa mbichi, mbegu hizo zote ni zangu.  Mimi ndiye mkuu hapa!"  Zawadi alikuwa mwovu na hakuwa na huruma.  Hakujali hali ya mchwa mwingine.
+
+Mwana-mchwa aliogopa sana na akaanza kulia.  Hakuweza kupata mbegu moja ya kutosheleza njaa yake.
+
+Hatimaye, Barnaba akaruka juu na kuona Zawadi akipora mbegu zilizoanguka.  Barnaby aliona uovu wake na alikasirika. Alipiga kelele kwa sauti kali, "Zawadi, acha tabia zako mbaya! Ukarimu si kama wewe. Unahitaji kuheshimu wengine!"
+
+Zawadi alishtuka na kujifunika macho.  Hakuwahi kusikia jogoo akinena hivyo kwa ujasiri.  Zawadi, kwa aibu na hofu, alikimbia mbali na shamba. Aliacha mbegu hizo na akaondoka haraka.
+
+Barnaby alirudi kwa Frida na kumpa mbegu zaidi.  Walifurahi kwa pamoja, wakishukuru kwa msaada wa jogoo mkarimu.  Ndege wengine walishuhudia tukio hili na wakampongeza Barnaba kwa ukarimu wake.  Wote walikuwa na furaha kubwa kuona jogoo anayefikiria wengine.
+
+Kutoka siku hiyo, Barnaba alijulikana kama jogoo mkarimu.  Aliendelea kusaidia wanyama wengine wote katika shamba, wakijua kuwa kutoa na kushiriki ni njia ya kufurahia maisha kwa utimilifu.  Wanyama walimheshimu na kumfuata kwa mfano mwema.  Na shamba lote lilikuwa na amani, upendo na furaha, shukrani kwa moyo mwema wa jogoo Barnaba.
+</body>

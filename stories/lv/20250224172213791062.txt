@@ -1,0 +1,31 @@
+<prompt>
+Please write a light-hearted Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Trīs Mēnešu Jaunais Pārsteigums'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lv</lang_id>
+
+<title>Trīs Mēnešu Jaunais Pārsteigums</title>
+<body>
+Rīgas centrā, skaistā, vecā ēkā, dzīvoja trīs mazi melnie kaķēni –  Jānis, Māra un Roberts.  Viņi bija trīs mēneši veci un vēl pilnībā neizpratējuši pasaules sarežģītības, tikai priecājās par ikdienas mazajiem piedzīvojumiem.  Katru rītu, tiklīdz saule pamodināja pilsētas miegu, kaķēni ielauzās savā atklātā balkona paradīzē.  Balkons, kas bija apaudzis ar bagātīgu vijolēm un pelargonijām, bija viņu spēļu laukums,  savu noslēpumaino pasauli.
+
+Jānis, visdrosmīgākais no trim, bija kaķēns, kam patīka izaicinājumi.  Viņš mēģināja uzkāpt uz visaugstākajām pelargonijām,  cenšoties sasniegt debesis.  Māra, ar savu smalkumu un neparasto graciozitāti, dejoja starp vijolēm, savas baltās kažokādas spalvu plūsmā.  Roberts, vismierīgākais no trim, izbaudīja sauli, sildīdamies uz silta akmens, medīdams kādas nemanāmas radības savā iztēles pasaulē.
+
+Viņi pavadīja savas dienas, spēlējot un izpētot.  Izpētīja balkona stūrus, ielauzās katrā ēkas spraugā,  izbaudīja nelielos, bet vērtīgos atklājumus.  Bet vienu īpašu dienu, kad saule spīdēja īpaši silti un debesīs dedzināja krāsaini mākoņi, kaķēni saskatīja ko jaunu.  Uz balkona zeltīta dēļa atradās neliela, balta kastīte.
+
+Jānis, nešaubīdamies, ielauzās pie kastītes.  Viņš viegli pacēla vāku un atklāja… nevis gaidīto ēdienu vai rotaļlietu, bet gan spilgtu, oranžu lodīti.  Lodīte izskatījās tik interesanta, tik neierasta, tik… neparasta, ka kaķēni, savstarpēji apspriežoties, nolēma to rūpīgi izpētīt.  Viņi ielauzās lodītes virsmā, pavērojot tās krāsu maiņu un spīdīgumu.  Māra, ar savu smalkumu, novietoja lodīti uz sava deguna, izelpojot siltumu virs lodītes un vērojot, kā tā pārvēršas par jaunu, neparastu krāsu.  Roberts, ar izcila uzticību, ievietoja lodīti savā mutē, izbaudīdams to neparasto konsistenci.
+
+Tad  notika kaut kas neiedomājams.  Lodīte sāka spīdēt vēl spilgtāk.  No tās izeja mazs, dzeltenīgs, zaļo spārnu putniņš!  Putniņš skraidīja un dziedāja, priecājās par savu brīvību.  Kaķēni, satriekti un priecīgi, vēroja šo brīnišķīgo brīdi.
+
+Putniņš bija tik mazs, ka varēja ietilpt Māras plaukstā.  Tas meklēja ēdienu un iekrita Jāņa siltajā, maiga rokā.  Viņi to sauca par Spīdīti.
+
+No tā brīža Spīdītis bija viņu neaizvietojams draugs.  Spīdītis dziedāja viņiem dziesmas par zvaigznēm un debesīm,  stāstīja stāstus par sauli un mēnesi.  Viņi kopā rotaļājās, spēlējāmies uz balkona, izzināja apkārtni.  Jānis iemācījās pacietību,  Māra atklāja neparastus spēkus,  Roberts gan iemācījās izrādīt mīlestību un rūpes pret mazo putniņu.
+
+Ikdienas mazie piedzīvojumi kļuva vēl interesantāki ar Spīdīti.  Viņi kopā atklāja pilsētas noslēpumus un priecājās par katru jaunās dienas uzleci. Spīdītis, nelielais dzeltenīgais, zaļspārnu putniņš, bija kā mazs zelta pavediens, kas savienoja viņus ar pasauli.  Un tā, skaistajā Rīgas ēkā, uz balkona, kas bija apaudzis ar vijolēm un pelargonijām, dzīvoja trīs kaķēni un mazs putniņš, kas bija iemācījuši viņiem, ka pat vismazākās dāvanas var nest vislielākos pārsteigumus.
+</body>

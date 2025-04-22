@@ -1,0 +1,69 @@
+<prompt>
+Please write a emotional Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kto ukradł śliwki z Ogrodu Staruszka?'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pl</lang_id>
+
+```xml
+<title>Kto ukradł śliwki z Ogrodu Staruszka?</title>
+<body>
+Za siedmioma górami, za siedmioma rzekami, a może po prostu za zakrętem drogi, gdzie kończyła się wieś, stał mały, drewniany domek. W domku tym, w otoczeniu pięknie kwitnącego ogrodu, mieszkał staruszek. Nazywał się Antoni i wszyscy, nawet najmłodsi, mówili na niego "Dziadziu Antoni". Dziadziu Antoni miał w swoim ogrodzie wszystko: kolorowe tulipany, pachnące róże, dorodne jabłonie i krzaki pełne soczystych, fioletowych śliwek. To właśnie te śliwki były jego największym skarbem. Z każdego roku, kiedy śliwki dojrzewały, Dziadziu Antoni robił pyszne powidła, którymi obdarowywał całą wieś.
+
+Pewnego pięknego, słonecznego poranka, Dziadziu Antoni obudził się z dobrym humorem. Wypił ciepłą herbatę z miodem, po czym wziął swoją laskę i poszedł do ogrodu. Z uśmiechem na twarzy podszedł do śliwek, gotów zerwać kilka, żeby sprawdzić, czy już są wystarczająco dojrzałe. Ale gdy spojrzał w górę, jego uśmiech zniknął. Gałęzie, na których wczoraj wisiało mnóstwo fioletowych owoców, były puste! Zamiast soczystych śliwek, pozostały jedynie liście i gałązki.
+
+"Co się stało?" – pomyślał zmartwiony Dziadziu Antoni. "Kto ukradł moje śliwki?".
+
+Początkowo był bardzo zły. Spojrzał w lewo, spojrzał w prawo, rozglądał się uważnie po ogrodzie. Wszędzie panował spokój, a słońce grzało tak samo, jak zawsze. Nic nie wskazywało na złodzieja. Serce staruszka zabiło szybciej z żalu. Powidła ze śliwek to była przecież jego radość, prezent dla innych. Rozważał, czy ktoś z wioski mógłby się tak zachować. Jednak Dziadziu Antoni był zbyt dobrym człowiekiem, żeby od razu oskarżać.
+
+Usiadł na drewnianej ławeczce pod jabłonią i głęboko westchnął. Czuł się zmęczony i przygnębiony. Myślał, że być może to po prostu smutny koniec lata i jego śliwek. Patrzył w niebo, widząc szybujące chmury, jakby próbując w nich znaleźć odpowiedź. Po chwili poczuł, że w jego kieszeni coś się poruszyło. Wyjął z niej mały, zakrwawiony plasterek, który zwykł nosić na wypadek, gdyby skaleczył się w ogrodzie. Uśmiechnął się smutno. Tak, rok się kończył, a z nim jego nadzieje na powidła.
+
+Nagle, w zamyśleniu, Dziadziu Antoni usłyszał ciche szmery. Spojrzał w stronę śliw, zza krzaków wyłoniło się coś... maleńkiego. Był to mały, przerażony zajączek. Jego uszy sterczały do góry, a w pyszczku trzymał… zieloną, niedojrzałą śliwkę. Zajączek patrzył na Dziadzia Antoniego dużymi, błyszczącymi oczami, jakby błagając o wybaczenie.
+
+Dziadziu Antoni uniósł brew. Zajączek, przestraszony, odruchowo upuścił śliwkę na ziemię.
+
+"Cóż to? Co ty tu robisz, mały urwisie?" – zapytał Dziadziu Antoni, a w jego głosie dało się wyczuć ciekawość i zaskoczenie, a nie gniew.
+
+Zajączek, niepewnie, podczołgał się bliżej. Wyglądał na bardzo osłabionego. Po chwili, z trudem, podniósł główkę i wyjąkał cichutko: "Jestem... jestem chory... i... bardzo głodny..."
+
+Dziadziu Antoni uważnie przyjrzał się zajączkowi. Zobaczył, że jego sierść była zmierzwiona, a oczka błyszczały ze zmęczenia. Zauważył też małą ranę na jego łapce. Poczuł ogromną litość. Zapomniał o skradzionych śliwkach.
+
+"Chory? I głodny? Chodź tutaj, maleństwo." – powiedział łagodnie. Pochylił się i delikatnie wziął zajączka na ręce.
+
+Zaniósł zajączka do swojego domku. Ostrożnie ułożył go na miękkim poduszce. Przyniósł miseczkę świeżej wody i postawił obok. Zrobił maść z ziół rosnących w jego ogrodzie i delikatnie posmarował nią ranę zajączka. Potem poszedł do spiżarni i przyniósł trochę siana i marchewkę. Zajączek z apetytem zjadł wszystko, co mu Dziadziu Antoni podał.
+
+Przez kilka dni Dziadziu Antoni troskliwie opiekował się zajączkiem. Umył mu rankę, podawał smaczne jedzenie i czuwał nad nim. Mały zajączek powoli wracał do zdrowia. Dziadziu Antoni nauczył się nawet nazywać go Szarusiem, bo jego futerko miało szary odcień.
+
+Pewnego dnia, kiedy Szaruś był już prawie zupełnie zdrowy, Dziadziu Antoni zabrał go z powrotem do ogrodu.
+
+"Szaruś, musimy pogadać o tych śliwkach..." – powiedział Dziadziu Antoni, wskazując na puste drzewa.
+
+Szaruś spojrzał na niego ze skruchą w oczach. Wiedział, że zawiódł zaufanie Dziadzia Antoniego.
+
+"Wybacz mi, Dziadziu Antoni... Byłem tak głodny i chory, że nie mogłem się powstrzymać... Zjadłem prawie wszystkie śliwki..." – powiedział cicho.
+
+Dziadziu Antoni uśmiechnął się serdecznie. "Wiem, Szaruś. I nie gniewam się na ciebie. Najważniejsze jest twoje zdrowie. Ale wiesz, że musimy pomyśleć o innych rzeczach? Na przykład o powidłach."
+
+Szaruś spojrzał na Dziadzia Antoniego z zaskoczeniem. "Powidła? Ale... nie ma śliwek..."
+
+Dziadziu Antoni poklepał go po główce. "To prawda. Ale mam pewien pomysł. Mam w spiżarni jeszcze trochę jabłek, trochę gruszek i kilka słoików miodu. Może zrobimy coś pysznego z tego?".
+
+Szaruś rozpromienił się. "Tak! Chętnie pomogę!".
+
+Przez cały dzień Dziadziu Antoni i Szaruś pracowali razem w kuchni. Dziadziu Antoni obierał jabłka i gruszki, a Szaruś, dzięki swojej zwinności, zrywał zioła potrzebne do przyprawienia konfitur. Razem mieszali, gotowali, smakowali. Atmosfera była wspaniała.
+
+Następnego dnia Dziadziu Antoni zrobił wielki słoik pysznych konfitur jabłkowo-gruszkowych. A potem zrobił jeszcze jeden, i jeszcze jeden. Rozdał je wszystkim mieszkańcom wsi. Każdy, kto dostał słoik, był zachwycony smakiem i troską Dziadzia Antoniego.
+
+Dziadziu Antoni, mimo że nie miał w tym roku śliwek, był szczęśliwy. Odnalazł nowego przyjaciela, którego nauczył troski i pomagania innym. Zrozumiał, że czasem najważniejsze rzeczy w życiu są inne, niż to, co posiadamy. Szaruś, nauczył się zaufania, a Dziadziu Antoni przekonał się, że nawet stratę można obrócić w coś dobrego.
+
+Przez całą zimę Szaruś mieszkał u Dziadzia Antoniego. Pomagał mu w codziennych obowiązkach, uczył się pilnować ogrodu, a w chwilach wolnych razem czytali książki i słuchali opowieści. Wiosną, kiedy słońce zaczęło mocniej grzać i znowu zaczęły kwitnąć kwiaty, Szaruś wrócił do swojego życia na łonie natury, obiecując, że będzie regularnie odwiedzać swojego przyjaciela.
+
+Od tamtej pory, co roku, kiedy dojrzewały śliwki, Szaruś pomagał Dziadziowi Antoniemu zbierać owoce. Już nie po to, żeby je zjadać w tajemnicy, ale po to, żeby razem zrobić jeszcze więcej pysznych powideł dla całej wsi. Dziadziu Antoni i Szaruś, dzięki temu wydarzeniu, stali się najlepszymi przyjaciółmi na świecie, a ich ogrody były pełne radości i wzajemnego wsparcia. I tak już zostało do dziś, za siedmioma górami, za siedmioma rzekami… a może tuż obok nas.
+</body>
+```

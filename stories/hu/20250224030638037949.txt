@@ -1,0 +1,37 @@
+<prompt>
+Please write a fun and entertaining Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Az Álom És A Valóság Között'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>hu</lang_id>
+
+<title>Az Álom És A Valóság Között</title>
+<body>Az Álom És A Valóság Között egy különleges történet, amelyben a főhős, egy fiatal lány, az álom és a valóság közötti határokat feszegeti. A neve Szofi, és ő egy átlagos, de rendkívül kíváncsi gyermek, aki mindig az ismeretlen után kutat.
+
+Szofi egy kis faluban élt, ahol az emberek még mindig hitték a mágia létezésében. A falu szélén, egy nagy, öreg ház állt, amelyről azt beszélték, hogy az álom és a valóság határán helyezkedik el. Sokan próbálták már meglátogatni a házat, de senki sem tért vissza soha.
+
+Egy napon, Szofi úgy döntött, hogy ő is elmegy a házhoz, hogy felderítse a titkot. Ahogy közeledett a házhoz, érezte, hogy a levegő egyre sűrűbb lesz, és a fények egyre halványabbak. Amikor odaért a bejáratig, egy hang szólt hozzá, amelyet nem látott senki: "Szofi, te bátor vagy, de készen állsz arra, amit itt találsz?"
+
+Szofi bólintott, és a hang válaszolt: "Akkor lépj be, és meglásd, mi vár rád." A lány belépett a házba, és egy hatalmas csarnokban találta magát, amely tele volt bizarr és csodálatos dolgokkal. Látott repülő szőnyegeket, beszélő állatokat és még egy sárkányt is, aki a sarokban aludt.
+
+Ahogy Szofi továbbment, találkozott egy öreg-asszonnyal, aki egy széken ült, és egy könyvet olvasott. Az asszony felnézett, és Szofira mosolygott: "Üdvözöllek, kislányom. Én vagyok az álom őrzője. Itt, ebben a házban, az álom és a valóság közötti határok elmosódnak. Amit itt látsz, az mindig is volt, de soha nem volt látható."
+
+Szofi csodálkozott, és az asszony folytatta: "Az álom olyan, mint egy ajtó, amely a lehetőségek világába vezet. De vigyázz, mert az álom és a valóság közötti határ vékony, és ha nem vagyok óvatos, elveszhetsz benne." Szofi bólintott, és az asszony adott neki egy kis kulcsot: "Ez a kulcs az álom ajtajának a kulcsa. Használd bölcsen, és soha ne felejtsd el, hogy a valóság mindig is ott van, ahol az álom véget ér."
+
+Szofi elvette a kulcsot, és továbbment a házban. Ahogy haladt, találkozott különböző emberekkel, akik mind az álomvilágban éltek. Voltak, akik repültek, mások, akik alakot váltottak, és olyanok is, akik a jövőbe láttak. Szofi csodálkozott, és az emberek mesélték neki a történeteiket.
+
+De ahogy Szofi továbbment, érezte, hogy a valóság határa egyre közelebb kerül. A ház sötétebb és sötétebb lett, és a fények egyre halványabbak. Szofi tudta, hogy itt az ideje, hogy elhagyja a házat, de az álom őrzője szavai visszhangzottak a fejében: "Vigyázz, mert az álom és a valóság közötti határ vékony."
+
+Ahogy Szofi kilépett a házból, érezte, hogy a valóság visszatér. A levegő tisztább lett, a fények erősebbek, és a hangok újra hallhatók. Szofi visszanézett a házra, és látta, hogy az nagy és öreg, de most már nem volt olyan misztikus.
+
+Szofi visszatért a faluba, és elmesélte az embereknek, amit tapasztalt. Az emberek csodálkoztak, és Szofi rádöbbent, hogy ő most már más, mint azelőtt. Az álom és a valóság közötti határokat feszegette, és most már tudta, hogy a valóság mindig is ott van, ahol az álom véget ér.
+
+De Szofi nem felejtette el az álom őrzőjének szavait, és mindig vigyázott, hogy az álom és a valóság közötti határ ne legyen túl vékony. És ha valaha is elveszett volna az álomvilágban, mindig emlékezett volna arra, hogy a valóság mindig is ott van, ahol az álom véget ér.
+
+Így ért véget Szofi kalandja az álom és a valóság között. De a történet nem ér véget itt, mert Szofi mindig is készen állt arra, hogy újra felfedezze az álom és a valóság közötti határokat, és hogy megtalálja a titkot, amely az álom és a valóság közötti világban rejtőzik.</body>

@@ -1,0 +1,37 @@
+<prompt>
+Please write a relatable Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Balto lauvu dzimšana un mīlestības pasaules krāšņums'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lv</lang_id>
+
+<title>Balto lauvu dzimšana un mīlestības pasaules krāšņums</title>
+<body>
+Pavasara vēja baltas, maigās pūtes rotaļājās ar zemes virsmu, apziedot ar dzelteniem un ceriņziliem ziedu klājumiem.  Latvijas meža sirds, klusa un noslēpumaina, šajā brīdī bija pilna ar gaidīšanas elpu.  Mežmalā, mazs, mājīgs alnis, saukts par Rūdolfu, izstaigāja apkārtni, meklējot savus mīļākos garšaugus,  bet šī diena atšķīrās no citām.  Viņa degunā ieķērās neparasta smarža, salda un neparasti spēcīga – smarža pēc svaiga piena un svaigas rudzu maizes.
+
+Rūdolfam sekoja maza,  bāli pelēkā lauva – Lilīte. Viņas acu krāsa atgādināja skaistākā  rudens  ziedu krāsas,  bet matu krāsa… tas bija kaut kas īpašs! Viņa mati bija tik balti, ka tiem varēja  izskatīties caur spēcīga saules staru. Citi meža iemītnieki Lilīti sauca par  Sniegpulkstenīti, un viņas bailīgais noslēpumains izskats pievilka gan uzslavas, gan bažas. Viņas acīs spīdēja visām mežonīgākām izjūtām.
+
+"Kas notiek ar tevi, mīļā?" Rūdolfam nobijās par Lilīti, bet meža burvīga klusuma dēļ varēja tikai klusēt, un  justīja  mīlestību. 
+
+Lilīte klusībā paklausīja.  Viņai, tiešām, nebija gaidīts tas mīlīgs izskats.  Māmiņa bija brūna kā iebirsta koksne, tētis – brūns kā rudens lapa, bet viņa... viņa atšķīrās no visiem!
+
+Sākās atbildes meklēšana. Viņas sirds čakarāties ar jautājumiem. Cik viņai tuva bija Rūdolfam? Vai viņa bija tāda, kas pati bija izveidota īpaši Rūdolfam,  lai gan viņu vairs neatceras? Bet viss, kas apņēma viņu – tikai bailes no apkārtnes... no citiem.
+
+"Esi drosmīga, meitā," čukstēja Rūdolfas balss, un viņš sēdēja mierīgi zem ozolkoka, mežonīgi skaisti spīdot sauli.
+
+Lilīte nojauta, ka šis atklājums viņai  daudz pastāstīs. Tieši tad uz skatuves parādījās Ūdriņš – gudrais un izveicīgais meža iemītnieks, kurš savas dziļās zināšanas slēpa smieklīgās mucas.  Ūdriņš ar saviem mirdzošajiem acīm Lilītei paskaidroja: "Tavs baltums, maziņā, nāk no tavām izjūtām. Jūtu tīrības, mīlestības, un tas ir tavs sargātājs.  Mūsu pasaulē katrs baltums ir īpaša spēka izpausme."  
+
+Lilītes sirdī ienāca mierinājums. Tātad, tās bija viņas iekšējās vērtības, kas izpaudās šādā veidā. Lilīte beidzot saprata, ka viņai nav nepieciešams slēpties, ka viņa var būt tieši tāda, kāda ir. Rūdolfas mīlestība dāsni sildīja Lilīti, lai gan šai mazajā sniegpulkstenītē apņēma ne tikai dāsnu un svēto mīlestību, bet arī bažas,  jo tas, ka apkārtnes iemītnieki nevēlējās tikt pieņemti… bet gan baidījās no apkārtējās pasaules. Viņai bija iekšēja skaistuma spēks!
+
+Dienas ritēja. Lilīte iemācījās spēlēt ar saviem baltajiem matiem, kā saule spēlējas ar ziediem, bet mežā klāja lielas spalvas. Viņa izstaigāja pa meža takām, un katru dzīvnieciņu iespaidoja viņas klātbūtne. Ar katru dienu Lilīte jutās pārliecinātāka par sevi. Viņas sniegpulkstenītes acis izstaroja mīlestību, un mežā valdošā gaisotne pārņēma klusumu. Meža iemītnieki iemācījās cienīt Lilītes īpašības. Un tad viens pēcpusdienas brīdis Rūdolfs un Lilīte spēlēja kopā. Viņi atklāja jaunu mīlestības veidu – tādu, ko nebija gaidījis neviens citš. Rūdolfam un Lilītei bija jauna draudzība.  Un pasaule ap viņiem kļuva skaistāka, jo mīlestības, cerības un dziļu saikņu pilnīga.
+
+Lai gan mežā vēlāka pavasara rītausma palika bez atbildēm,  un daudz apziņas gaidīja uz saviem laikiem, šī balto lauvu dzimšana,  un mīlestības pasaules krāšņums radīja spēju nevienam neko ļaunāku nedarīt.  Ikviens no meža iemītniekiem to varēja saprast,  atgūstot gaismu, ar ko bija zaudēts…
+
+Tieši tajā mirklī Lilīte saprata, ka baltums nebija kaut kas jāslēpj, bet gan kaut kas unikāls. Balto lauvu pasaka turpināja, atstājot atmiņas un cerību par mieru un savstarpēju sapratni.
+</body>

@@ -1,0 +1,69 @@
+<prompt>
+Please write a timeless Portuguese (Portugal) children's story that is at least 1000 words long.
+It must be completely written in proper Portuguese (Portugal) (PT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A Ovelha Fofa Que Cantava Canções de Ninar Para Dormir.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pt</lang_id>
+
+```xml
+<title>A Ovelha Fofa Que Cantava Canções de Ninar Para Dormir.</title>
+<body>
+Era uma vez, num verde prado banhado pelo sol dourado da manhã, uma ovelha. Mas não era uma ovelha qualquer. Esta chamava-se Fofa, e como o nome indica, era incrivelmente macia e fofa, com um casaco de lã tão branco como a neve. Mas o que a tornava verdadeiramente especial era a sua voz: Fofa cantava canções de embalar que faziam até o vento sussurrar para a acalmar.
+
+Todos os dias, ao pôr do sol, Fofa subia a uma pequena colina, o seu ponto de vista preferido. De lá, podia ver todo o vale, com as casas de telhado vermelho, as árvores altas e as pequenas ribeiras a serpentear como fitas de prata. E, enquanto o céu pintava-se com tons de laranja, rosa e roxo, Fofa começava a cantar.
+
+A sua voz, suave e melodiosa, espalhava-se pelo ar, embalando todos os seres vivos da floresta. Os coelhos paravam de roer cenouras, os pássaros adormeciam nos seus ninhos, e até as raposas mais astutas sentavam-se e ouviam, esquecendo-se das suas pilhas.
+
+Um dia, a Fofa começou a notar algo estranho. O Sol, o velho amigo, estava triste. Os seus raios já não brilhavam com a mesma intensidade, e o seu calor diminuía a cada dia. O Sol costumava rir com as brincadeiras da Fofa, mas agora, permanecia calado e apagado.
+
+Fofa ficou muito preocupada. Ela adorava o Sol. Ele aquecia a sua lã, dava luz ao mundo e ajudava as plantas a crescer. Decidiu, então, fazer algo para animá-lo. Subiu a colina mais cedo que o costume e esperou pelo momento mágico do pôr do sol. Quando o Sol, hesitante, começou a baixar, Fofa começou a cantar a sua canção mais doce.
+
+"Dorme, Sol, descansa um pouco,
+as estrelas tecem o seu brocado.
+O dia finda, a noite chega,
+e um novo sol voltará, radiante."
+
+Enquanto cantava, Fofa notou uma pequena lágrima a escorrer da face do Sol. Ela ficou comovida. Continuou a cantar, adicionando novas estrofes à sua canção.
+
+"Se estás cansado, meu amigo dourado,
+a lua te embalará com carinho.
+Sonha com os campos floridos,
+e com as tardes cheias de vinho."
+
+A voz de Fofa, pura e sincera, parecia perfurar as nuvens. E, lentamente, o Sol começou a reagir. Os seus raios voltaram a brilhar, ainda que timidamente, e um leve sorriso apareceu no seu rosto. Fofa sentiu uma alegria imensa, percebendo o poder das suas canções de embalar.
+
+No dia seguinte, a tristeza do Sol persistia, mas Fofa não desistiu. Ela cantou ainda com mais força, inventando novas melodias e rimas para o alegrar. Ela cantou sobre as maravilhas do mundo, sobre a beleza das flores, sobre a alegria dos amigos e sobre a esperança que reside em cada novo amanhecer.
+
+"No jardim, a rosa se abre,
+mostrando a sua cor garrida.
+O beija-flor voa, liba o néctar,
+e a vida celebra, em cada batida."
+
+Aos poucos, a melodia da canção de Fofa começou a fazer efeito. O Sol, ouvindo-a todas as noites, foi recuperando a sua força e a sua alegria. Os seus raios tornaram-se mais brilhantes, e o seu calor voltou a aquecer o prado.
+
+O boi Mário, que vivia perto da colina, era um grande ouvinte das canções de Fofa. Um dia, decidiu que também ele queria fazer algo para ajudar. Reunindo todos os animais da quinta – as galinhas, os patos, os porcos – o boi Mário explicou a situação.
+
+"A Fofa está a fazer o seu melhor para alegrar o Sol, mas todos nós podemos ajudar," disse o boi, com a sua voz grave. "Precisamos espalhar alegria por todo o lado!"
+
+E assim, os animais começaram a trabalhar em conjunto. As galinhas ciscaram e encontraram sementes de girassol, os patos colheram frutos silvestres e os porcos desenterraram trufas deliciosas. O boi Mário, com a sua força, ajudou a transportar tudo para um grande cesto, que foi colocado no alto da colina, perto de Fofa.
+
+À noite, quando Fofa subiu para cantar, viu o cesto repleto de presentes. Ficou emocionada com o gesto dos seus amigos. Sentiu que não estava sozinha e que todos estavam a torcer por ela e pelo Sol.
+
+"Que alegria!" cantou Fofa, dedicando uma nova estrofe a todos os animais da quinta.
+
+"A amizade brilha, uma chama que aquece,
+a união nos dá força e coragem.
+Unidos, superamos qualquer revés,
+e festejamos a vida, em plena viagem."
+
+O Sol, vendo aquele cenário de partilha e amor, não resistiu e soltou um largo sorriso. Os seus raios brilhavam como nunca antes, aquecendo o mundo com uma luz exuberante.
+
+A partir desse dia, a tristeza do Sol desapareceu por completo. Fofa continuou a cantar as suas canções de embalar, e a cada noite, juntava-se uma multidão de animais para a ouvir e desfrutar da magia daquele momento. As canções da ovelha Fofa, a ovelha fofa que cantava canções de ninar, ficaram famosas em todo o vale, transmitindo alegria, esperança e a beleza de um coração generoso. E todos viviam felizes, sabendo que a bondade e a amizade são as maiores forças do mundo. E Fofa, com o seu casaco de lã macia e a sua voz doce, continuou a espalhar a sua magia, noite após noite, garantindo que todos os habitantes do prado tivessem um sono tranquilo e abençoado. E assim termina a história de uma ovelha fofa, que, com o dom da música, iluminou o mundo.
+</body>
+```

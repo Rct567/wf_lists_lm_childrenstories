@@ -1,0 +1,41 @@
+<prompt>
+Please write a simple and easy-to-follow Slovak children's story that is at least 1000 words long.
+It must be completely written in proper Slovak (SK).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Malé city a ich veľkéarmacy'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sk</lang_id>
+
+<title>Malé city a ich veľké armacy</title>
+<body>
+V malej dedinečku, ukrytej v údolí plnom zelených lúk a lesov, žili tri malé city.  Boli to city z hračiek – vyrobené z dreva a sfarbené živými farbami.  Prvý bol City svieži a zelený, s vysokými vežami, ktoré sa zdvihli k modrej oblohe ako skvostné drevené ihlice.  Druhý bol City ružový, s roztomilými domčekmi, ktoré vyzerali ako sladké koláčiky na perníku.  A tretí, City modrý, bol známy pre svoje štíhle mosty, ktoré sa krútili a krížili cez rieku, ktorá v ňom tekla.
+
+Každý z týchto troch malých cietí mal svojho tajomného obyvateľa.  V zelenom City žil svieži, zelený slimák menom Slniečko.  V ružovom City žila roztomilá, ružová včielka menom Rózinka.  A v modrom City žila šikovná, modro-strieborná rybička menom Iskrička.
+
+Slniečko, Rózinka a Iskrička boli najlepší priatelia. Každý deň sa stretávali pri rieke, ktorá pretekala medzi ich citmi a rozprávali si o svojich zážitkoch.  Slniečko rozprávalo o svojich dobrodružstvách po zelených lúkach, Rózinka o chutných kvapkách nektáru a Iskrička o tajných tuneloch v modrej rieke.
+
+Jedného slnečného rána, sa Slniečko, Rózinka a Iskrička prechádzali po cestičkách.  Zrazu sa na horizonte objavil oblak, ktorý sa rýchlo zväčšoval a s ním sa zhoršoval aj vietor.  Po cestičkách začali lietať listy, a z neba sa sľudovali prvé kvapky dažďa.
+
+"Zdá sa, že sa blíži búrka!" zvolala Rózinka.
+
+"Musíme sa schovať!" povedal Iskrička.  
+
+Slniečko, Rózinka a Iskrička sa rýchlo ukryli v najbližších krytách.  Slniečko sa schovalo pod veľkým stromom, Rózinka sa ukryla v úkryte pod zeleným domom, a Iskrička sa schovala v chladnom tuneli pod modrým mostom.
+
+Búrka sa rozpútala s hromovým rachotom.  Vietor fúkal ako divoký zviera a dážď lial ako z vedra.  Slniečko cítilo, ako ho chladný vietor zmáča a hojdá.  Rózinka sa triasla od chladu a bála sa, že by mohla stratiť cestičku.  Iskrička sa cítila neistá, prekvapená náhlym zmenením nálady.
+
+Prešli hodiny.  Vietor utichol, dážď prestával a slnečné lúče sa predierali cez mračná.  Slniečko, Rózinka a Iskrička vylezli zo svojich úkrytov.  Prekvapilo ich, že okolo seba videli krásne dúhu, ktorá sa tiahla cez oblohu ako farebný oblúk.
+
+"Ach, aká krásna dúha!" zvolala Rózinka.
+
+"Je to ako farebný most medzi nebom a zemou!" povedal Iskrička.
+
+"Dnes sme zažili niečo úžasné," povedal Slniečko.  "Búrka nám ukázala, že aj keď sa veci zdajú ťažké, vždy sa znova objavia pekné veci."
+
+Odvtedy sa Slniečko, Rózinka a Iskrička často stretávali pri rieke a rozprávali si o svojich zážitkoch.  Ale najviac si vážili svoje priateľstvo a spoločné dobrodružstvo v čase búrky.  Vedeli, že priatelia sú dôležití a že v každej búrke sa skrýva krásna dúha. A tak žili v malých cití, plní radosti, slnka a priateľstva, a čakali na ďalšie dobrodružstvá, ktoré ich čakali za okrajom ich rozprávkového sveta.
+</body>

@@ -1,0 +1,39 @@
+<prompt>
+Please write a fun and entertaining Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Oqshom bulutlari orasidagi sirlar'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>Oqshom bulutlari orasidagi sirlar</title>
+<body>
+Oybek, to'q ko'k rangli ko'ylak kiygan, kichkina, ammo juda qiziquvchan bir bola edi.  Har kuni u oqshom bulutlari orasida yashirin sirlar qidirardi.  Uning katta ko'zlari bulutlarning o'zgaruvchan shakllariga, g'alati ranglariga qiziqib qolardi.  Uning yuragi bulutlarga yashirin olam borligini aytardi.
+
+Bir kuni, Oybek oqshom bulutlari orasida ayniqsa g'alati bir shaklni ko'rdi.  Uning shakli ulkan, qora qushga o'xshardi.  Qushning qanotlari bulutlar orasida o'zaro o'ralib, bir-biriga tegib, go'yo bir-biriga so'zlar aytayotgandek tuyulardi.  Oybek o'zining kichkina oyoqlari bilan bulutlarga yaqinlashdi, bulutlarning yumshoq, ammo sirli nafasini his qildi.  Uning yuragi tez-tez urardi. Bu qush qanday sirlarni o'z ichida saqlaydi?
+
+Oybek qushga yaqinlashgan sari, u qushning shakli yanada aniqroq ko'rinardi.  Bu shunchaki qora qush emas edi.  Uning qanotlarida oltin rangli chiziqlar bor edi va ko'zlari juda porlab turardi.  Qushning oyoqlari esa yoqimli, oq rangli chiziqlar bilan bezatilgan edi.  Oybek qushning go'zalligiga hayratda qoldi.
+
+"Salom!"  Oybek qushga yumshoq ovoz bilan dedi.  Qushning ko'zlari Oybekka qarab, uning yuziga tabassum solgandek tuyuldi.  Qushning ovozini eshitish mumkin emas edi, lekin Oybek o'zining yuragi bilan qushning so'zlarini anglab oldi.  "Sen kimsan?" deb so'radi Oybek.
+
+"Men Bulutlarning Sirli Qushiman," dedi qush.  "Men bulutlar orasida yashirin hikoyalarni o'zim bilan olib yuraman va ularni ko'p odamlarga yetkazishni xohlayman."
+
+"Hikoyalarni?"  Oybek hayratda qoldi.  "Qanday hikoyalar?"
+
+"Har bir bulutning o'z hikoyasi bor," dedi Bulutlarning Sirli Qushi.  "Ba'zi bulutlar bolalik haqida hikoya qiladi, ba'zilari esa sevgi haqida.  Ba'zilari qayg'u haqida, ba'zilari esa quvonch haqida.  Men ularning barcha hikoyalarini yig'ib, ularni quyoshga etkazishni xohlayman."
+
+Oybek hayratda qoldi va qushning hikoyalariga qiziqdi.  U qush bilan bulutlar orasida sayr qildi va bulutlarning har birining orqasida yashiringan hikoyalarni tingladi.  Ularning orasida birinchi sevgi haqida hikoya qiluvchi bulut, qishki sovuq haqida hikoya qiluvchi bulut va baxtli bola haqida hikoya qiluvchi bulut bor edi.  Har bir bulutning o'ziga xos go'zalligi va sirli hikoyasi bor edi.
+
+Oybek qush bilan birga quyosh botgan sari ko'proq hikoyalarni eshitdi.  Bulutlarning sirli hikoyalari uning yuragiga chuqur kirib bordi.  U endi bulutlarni faqat shakllar emas, balki jonli hikoyalar, yashirin his-tuyg'ularning tashuvchilari deb bilardi.
+
+"Rahmat," dedi Oybek Sirli Qushga.  "Men endi bulutlarning sirlarini tushunaman."
+
+"Bu sizning yuragingizning ishi," dedi Sirli Qush.  "Bulutlar orasidagi sirlarni har bir inson o'zi topishi kerak."
+
+Oybek bulutlar orasidan uzoqlashdi.  Uning yuragida bulutlarning sirli hikoyalari va Sirli Qushning so'zlari saqlanib qoldi.  U endi har bir bulutga qarab, unda yashirin hikoyalarni ko'rardi.  Ularning har birida o'ziga xos go'zallik va ma'no bor edi.  Oybek bulutlar bilan do'st bo'ldi va u har kuni ular orasida yashirin sirlarni qidirishni davom ettirdi.  U oqshom bulutlari orasidagi sirlarni topishga quvonchli edi.
+</body>

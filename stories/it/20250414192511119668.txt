@@ -1,0 +1,53 @@
+<prompt>
+Please write a emotional Italian children's story that is at least 1000 words long.
+It must be completely written in proper Italian (IT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'L'Oca Bianca e il Viaggio Straordinario'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>it</lang_id>
+
+```xml
+<title>L'Oca Bianca e il Viaggio Straordinario</title>
+<body>
+Era una volta, in un angolo verde e lussureggiante della Toscana, un'oca bianca, il cui nome era Bianca. Bianca non era un'oca come tutte le altre. Mentre le sue sorelle e i suoi fratelli preferivano pascolare tranquilli nell'erba umida e nuotare pigramente nello stagno, Bianca sognava viaggi, avventure e terre lontane. Il suo cuore di piuma, di un bianco candido come la neve, batteva al ritmo delle melodie del vento, che le sussurrava storie di luoghi inesplorati.
+
+Viveva con la sua famiglia in una piccola fattoria, la Fattoria del Sole. Qui, le giornate scorrevano monotone: la colazione, il pascolo, il riposo pomeridiano sotto il sole cocente, e infine, il ritorno nel pollaio al tramonto. Bianca amava la sua famiglia, ma sentiva un'irrequietezza dentro di sé, un desiderio ardente di qualcosa di più. Osservava le rondini, libere di volare ovunque, e il suo cuore soffriva.
+
+Un giorno, mentre tutti dormivano beatamente, Bianca si svegliò. La luna, grande e rotonda come una perla, illuminava il pollaio. Un'idea balenò nella sua mente. "Devo partire," si disse. "Devo scoprire il mondo."
+
+Con il cuore in gola, uscì di nascosto dal pollaio. La frescura della notte le accarezzò le piume. Lasciò indietro la fattoria, la sua casa, la sua famiglia. Sapeva che sarebbe stato difficile, ma la voglia di avventura era troppo forte.
+
+Il suo viaggio cominciò seguendo un fiume serpeggiante. Volò sopra campi dorati di grano, vigneti rigogliosi e cipressi alti come soldati. Durante il giorno, si fermava per riposare nei pressi di piccoli laghi, dove si nutriva di alghe e piccoli pesci. La notte, cercava riparo sotto gli alberi, cullata dal canto dei grilli e dal suono delle rane.
+
+Il viaggio era pieno di sfide. Una volta, una volpe astuta cercò di catturarla. Bianca, con l'astuzia e la prontezza di riflessi, riuscì a scappare, volando più velocemente di quanto avesse mai fatto prima. Un'altra volta, una tempesta violenta la costrinse a rifugiarsi in una grotta oscura, tremando di paura. Ma ogni prova superata la rendeva più forte, più determinata.
+
+Durante il suo cammino, Bianca incontrò molti amici. Conobbe il signor Gufo, un saggio vecchio uccello con grandi occhi gialli, che le raccontò storie di popoli lontani e la orientò lungo il suo viaggio. Incontrò anche un gruppo di passerotti allegri e canterini, che le offrirono la loro compagnia e le mostrarono i sentieri nascosti.
+
+Un giorno, arrivò in una città vibrante e colorata, Firenze. Si sentì piccola e smarrita in mezzo a così tanta gente, ai palazzi imponenti e ai rumori assordanti. Ma fu anche affascinata dalla bellezza di Firenze. Ammirò il Ponte Vecchio, le statue del David e gli affreschi nelle chiese.
+
+Mentre sorvolava l'Arno, scorse un bambino che piangeva seduto su una panchina. Si avvicinò, mossa dalla compassione. Il bambino si chiamava Marco e aveva perso il suo aquilone. Bianca, con il suo linguaggio incomprensibile, provò a consolarlo. Si posò vicino a lui e, con delicati colpi di becco, cercò di fargli capire che tutto sarebbe andato bene.
+
+Marco, stupito, la guardò negli occhi. Sentiva la tristezza svanire. Prese un piccolo rametto e lo porse a Bianca. "Grazie," sussurrò. "Mi hai consolato."
+
+Bianca sentì un calore nel suo cuore. Per la prima volta, capì che l'avventura non significava solo viaggiare, ma anche condividere, aiutare, essere gentile.
+
+Continuò il suo viaggio, imparando sempre cose nuove. Visitò le città costiere, dove si incantò ad ammirare il mare azzurro. Assaporò il sapore salato delle onde e ascoltò il canto dei gabbiani. Attraversò montagne innevate, dove sentì il freddo pungente e ammirò panorami mozzafiato.
+
+Un giorno, il suo viaggio la riportò nei dintorni della Fattoria del Sole. Avvicinandosi, sentì il richiamo delle altre oche. Il suo cuore batteva forte. Non sapeva come sarebbe stata accolta. Aveva paura di aver deluso la sua famiglia.
+
+Atterrò vicino allo stagno. Le altre oche, vedendola, rimasero immobili, con gli occhi sgranati. Poi, la madre di Bianca, con un verso delicato, si avvicinò e la avvolse con le sue ali. I suoi fratelli e le sue sorelle la circondarono, emettendo versi di gioia.
+
+Bianca capì che, nonostante la sua avventura, l'amore della sua famiglia era rimasto immutato. Le sue avventure le avevano cambiato, l'avevano resa più saggia, più forte, ma l'affetto per i suoi cari non era mai svanito.
+
+Raccontò alla sua famiglia delle sue avventure, dei suoi amici, delle città che aveva visitato. Ascoltarono con stupore, affascinati dalle sue storie.
+
+Da quel giorno, Bianca non smise mai di volare. Continuò a fare piccoli viaggi, esplorando i dintorni e condividendo le sue storie con tutti. Ma, ogni sera, tornava al pollaio, tra le braccia amorevoli della sua famiglia.
+
+E così, l'oca bianca, l'esploratrice straordinaria, visse felice per sempre, ricordando che il vero viaggio è quello del cuore, e che l'amore della famiglia è il più grande tesoro di tutti. La sua leggenda divenne un esempio per tutte le oche della Toscana, ricordando loro che, anche se i sogni ci portano lontano, è sempre importante tornare a casa, dove l'amore aspetta, eterno e immutabile. E il vento, ancora oggi, sussurra nelle piume di Bianca, ricordando il suo viaggio e le lezioni preziose che ha imparato.
+</body>
+```

@@ -1,0 +1,40 @@
+<prompt>
+Please write a simple and easy-to-follow Romansh children's story that is at least 1000 words long.
+It must be completely written in proper Romansh (RM).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>rm</lang_id>
+
+<title>La raiba da la muntogna</title>
+<body>
+Era in ina dumengia d'avant primavera, cuant ils sils eran anc da temp in l'air e las furmis eran sco de cussì fin.  A la basa da la muntogna, en in prag lund, viveva ina chatta pitschna, cuant raiba e furtuada, che s'apelava Luna.  Luna era ina chatta da furma grisa, cun ils ocs sco da dui peds d'azzur e in muntaglion da pel, sco s'ella avesse portà ina pitschna capa da nuvola.
+
+A cussì ella aveva anc na scola na fatga, perquai la savais nagin muntagn ma dils cumpagnons da furma grisa.  Ela s'immaginava che las muntognas parlesssin in in lingatge secret, che la furma grisa era ina furma speziala, insigna per servir a las muntognas.  Ina matina, dumonda Luna a sia mamma, "Mamma, perquei ch'è a la muntogna, per quei ch'è ina sclerata, svela?"  La mamma ha respuns in silenz. "Las muntognas sa cunnuschen e vegnan in l'un in l'auter."
+
+Quella dumengia, Luna decidit da far ina esplorazion.  Ella suivet ina trasa che se traversava in tra il vasts lund. Las rozes eren fresch e umids, e quel sentis in perfum fraig che n'els'a anc mai sentida.  Luna sentis ins a scussì in'inquietut da sa's sentiv in muntaun insin ma a la fin.  Ella è arriva en in pràt fin, e li las pents eran cuand radisch; il surt era anc in svelte.  Ina musica fresca.  Ella n'el'a anc mai sentida in musica ina scussì, quantas las chanas erent en muntagna.
+
+Ella ha mirat a la fin da la val, li da la pinten las furmis, scussì a la survescuera; un fluss s'elà sveltas in, ina musica; la vita surveschida da la natura e che tschun da la muntogna.  Surtutt da la pinten las furmis era per quei il sol.  C'era en una rozzat che n'ha scussì ina còssa surveschida.
+
+Lì, en la raditta da ina pedra, ha scuntrà ina pitschna laiba. Era ina laiba sco de la furma pischna sco il pràt. Quella aveva ocs neri e cussì lumins, e il capell gris en la furma.  La laiba l'ha mirada sco cuant svelta.  "Tu ses ina chatta!" ha dit la laiba. "Sa's in senn pertei, ma pervei in inscuvuda e in tschà da la muntogna".
+
+Luna era surpressa.  La laiba parlava. Ella ha fatg da dumonda ina lunga dumonda a la laiba.  "E quai tschientas è?" ha dumonda Luna. La laiba ha ris. "È ina musica svela in cun la vita e la muntogna. Sveltas ella a in cun noschi lund. Vint era la natura da muntogna. En il surt a l'alba."
+
+
+"Tschientas ha pertucà la natura?", ha dumonda Luna cun stupa. La laiba ha spiegà che la natura n'è mai ferma e svelta in cunsì, e che i dà ina cuntinuazion ina. La vita era in flux cuntinu.  Las plunas che fluttavan, la muntogna che respirava. La vida erava ina cuntinuazion cun natura; en il surt la cuntinuazion era anc svelta. La natura cun muntogna.
+
+"Ella n'è anc pertei?", ha dumonda Luna. "A la vita a la natura. La natura tschientas cun la vida?" La laiba ha respondu, "La muntogna è in organisma vivant.  Ella pensa, ella sent, ella crèsch. Las plantas parlan tra deras, las rocas scrìvan storias. Per quei, la natura tschientas cum la vida. Las muntognas, per il c'è da la muntogna a la surveschida, è pertei.
+
+Luna, che havia in'imazinaziones grandas, ha inizià a sentir la muntogna d'ina maniera daversa. Ella ha sentì in musica ins, ella ha vegnì che la muntogna aveva in in anima che la s'animà a la surveschida a la vida.
+
+
+Da quel diegn enavanti, Luna sa'ha cumportà in ina maneira differenta. Ella sa's cuntina de caminà en la muntogna e de scuntrà novas personas. E las chattas, sco la vita e la natura. Las plunas da l'alba.  En ina manera che n'el'ha anc mai vista. Ella è diventà ina chatta cumprendì, sapients, perspicace, ch'ella aveva d'imparità, la muntogna.
+
+La chatta ha encuntrà ils sils, l'albarèg, e cun quei ella sa's cunscentì.  Ella s'apreviant al c'era. El'avìd pervei dils chattas. La chatta pitschna cum Luna.  E vegnì de la surveschida la cuntinuazion, e in cum Luna. La vita da la natura. A la muntogna da la laiba. Ella è tornà a casa cunt' ina furma nov.
+
+La muntogna l'ha insegnà la pazienza, la curiosità, la meraviglia, e la bellezza da la vita.  La muntogna l'ha insegnà a viver cun la natura. Luna, cuntinuescha ina nova vieg d'i aprendà ina nouva maniera d'aver l'empatia cum la natura. Sco ina chatta cumpleta.
+</body>

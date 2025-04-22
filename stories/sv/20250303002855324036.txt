@@ -1,0 +1,42 @@
+<prompt>
+Please write a fun and entertaining Swedish children's story that is at least 1000 words long.
+It must be completely written in proper Swedish (SV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'När katten Gustav lärde sig prata med fåglar'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sv</lang_id>
+
+<title>När katten Gustav lärde sig prata med fåglar</title>
+<body>
+Gustav var en liten, mjuk grå katt med blå ögon som glittrade som små smaragder. Han bodde i en gammal, gul byggnad i utkanten av byn, tillsammans med sin människa, en vänlig kvinna som hette Elsa. Gustav älskade att sitta på fönstret och titta på fåglarna som flög fram och tillbaka över den gröna ängen. Han undrade alltid vad de pratade om, de små, färgglada varelserna.
+
+En varm sommardag satt Gustav, som vanligt, på fönstret. Han tittade på en flock små, svarta sparvar som hoppade och flaxade med sina vingar.  Han hade hört Elsa säga "fågelspråk" ibland, så han tänkte att kanske det fanns ett sätt att förstå vad fåglarna sa.
+
+Plötsligt såg han en liten blåmes som satt på en gren precis bredvid. Den blinkade med sitt fina blå ögon och började kvittra på ett särskilt sätt. Gustav lyssnade noga, och han märkte att det inte bara var små pippande ljud, utan snarare små, små ord som flög fram.
+
+Han tänkte "Om jag bara kunde förstå!" Han försökte kopiera blåmesens ljud, men det lät bara som en liten, förvirrad kissemis. Han fick lite ont i öronen.
+
+"Vad är det du vill ha, Gustav?" frågade Elsa, som kom fram till fönstret med en skål full av färgglada fågelkorn.  Gustav, som alltid kunde kommunicera med blickar, sträckte på sig, lät öronen hänga och ville visa att han var ledsen men utan att förstå det ordentligt själv.  
+
+Elsa leende förklarade om vikten av att förstå det levande omkring oss, förklarade att man inte behöver ha språkkunskaper för att bli vänner och fortsatte att förbereda kornen.
+
+"Kanske finns det ett annat sätt att prata med dem," tänkte Gustav.  Han bestämde sig för att lära sig fågelspråk på egen hand. Han började studera fåglarna noga. Han lärde sig att storspoven sa "skål" när den åt, att pilfåglarna sa "piskpisk" när de jagade, att sparvarna sade "hopp, hopp" när de flög runt.  Han märkte att det inte alltid var ljuden, utan också kroppsspråket och hur de flyttade på sig och vilka delar av dagtid de verkade uppskatta mer.
+
+Dagarna gick. Gustav satt på fönstret och lyssnade, tittade, och observerade. Han märkte att fåglarna kommunicerade mycket genom sitt kroppsspråk – hur de böjde sina huvud, hur de fladdrade sina vingar, hur de rörde sina näbbar mot födan.
+
+En dag flög en flock storkar över himlen. Gustav såg hur de pratade – inte med ljud, utan med långsamma, snabba nypningar med sina långa halsar, när de talade om för andra om farorna av snabba ekorrar som högg ner kvistarna i höstråket. De långsamma gungande flygerna sådde frön av lugn över ängen. Gustav fascinerades.
+
+Efter många observationer, och efter många fel, hittade Gustav det som verkade vara nyckeln: rytmen.  Han kunde märka mönster i fåglarna. Små hopp och små flax, korta pippande och snabba kvitterningar. Det var som en liten melodi.
+
+En dag satt en liten, gulsparv och kvittrade olyckligt. Gustav märkte att den var ensam. Han hade sett en uggla fånga fågelungar och visste att denna fågel var väldigt rädd. Med ett försök, som påminde om hans mänskliga husbo och människans handsignaler, gav Gustav ut en speciell serie av flaxningar.  En ström av signaler, vars mening och uppbyggnad, till och med Gustav förstod efter hans många dagar och kvällar på fönstret.
+
+Sparven verkade förstå.  Den fladdrade sina små vingar tacksamt och flög iväg till en grupp med vänner och de pratade med varandra som om ingenting hade hänt.
+
+Gustav log. Han hade lärt sig att prata med fåglarna! Från den dagen, blev han deras vän och gav den råd som det var värt att lära sig för alla fåglar: Försiktighet, vänlighet och tålamod. Han fortsatte sitt intresse med att förhålla sig till fåglarna och han lärde sig alltid något nytt.  Gustav, katten, och fåglarna i ängen hade hittat ett unikt sätt att kommunicera, en oumbärlig och stark och tillitsfull gemenskap. Och hela byn sjöng om Gustav och fåglarnas enastående och märkvärdiga vänskap.
+
+</body>

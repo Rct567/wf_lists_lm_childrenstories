@@ -1,0 +1,47 @@
+<prompt>
+Please write a funny Serbian children's story that is at least 1000 words long.
+It must be completely written in proper Serbian (SR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Veliki Otkač i Tajna Vremenske Mašine'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sr</lang_id>
+
+<title>Veliki Otkač i Tajna Vremenske Mašine</title>
+<body>
+Petar, mali dečak sa ogromnim naočarima i još većim maštama, živeo je u malom selu podno planine Tara.  Njegova soba je bila pravi mali muzej neobičnih stvari: razbijenih igračaka, zalepljenih leptirića, i čudnih kamenčića koje je skupljao po šumi. Petar je bio poznati "Veliki otkač", iako ga je to zvalo više uznemirujućim nego pohvalnim.
+
+Jednog sunčanog jutra, dok je pregledavao svoj najnoviji "arheološki" nalaz – staru, hrđavu kutiju –  shvatio je da je kutija zapravo vrata. Vrlo mala vrata. U njih su se čudno smeštale samo Petrove ruke.
+
+"Ovo je to!"  viknuo je Petar, a iskoči mu iz džepa jedan sitan, smeđi miš.  Miš je imao čudno zafrkanto lice i nosio je malu, crvenu kapicu.
+
+"Dobro jutro, Veliki Otkač!" reče miš. "Ja sam Štrumf.  Pretpostavljam da ti je potrebna pomoć da otvoriš...  pa, ovu vrata vremena?"
+
+Petar je bio zbunjen. "Vrata vremena? Šta to znači?"
+
+"Znači, da će te vrata odvesti u prošlost ili budućnost.  Ali paziti moraš, Veliki Otkač, vremenske mašine su vrlo hirovite."
+
+Štrumf je otvorio vrata, i Petar je ugledao svetlost koja je treptala poput zvezda.  Uronio je u nešto što je ličilo na divan, zeleni tunel.  Pratio je zvukove koji su se čuli iz tunela -  škripanje, zvonjenje, šištanje -  sve dok nije stigao do prostorije ispunjene neobičnim predmetima.
+
+Bilo je to selo iz davnih vremena.  Drveni stolovi i stolice, ljudi u čudnim odelima, i čudne životinje.   Petar je video jednog čoveka sa dugom bradom koji je pravio čudne, šarene kolače.  Štrumf je šapnuo: "To je naš najveći pekar, gospodin Pećina! On zna tajnu vremenske mašine."
+
+Gospodin Pećina je bio prijatno iznenađen kada je video malog dečaka sa velikim naočarima.  "Pa, mali čoveče, šta te dovodi u moje doba?"  upita gospodin Pećina.
+
+Petar je objasnio da želi da otkrije tajnu vremenske mašine.
+
+Gospodin Pećina je nasmejao.  "Tajna vremenske mašine? Ah, mali čoveče, tajna vremenske mašine je jednostavna:  uvek moraš biti ljubazan i pažljiv.  Nemoj remetiti tok vremena."
+
+"A kako to?" pita Petar.
+
+"Pa,  morate biti srećni što ste deo svog doba, jer ako počnete da menjate prošlost, stvorili biste ogromnu kašu!"
+
+Ispričao je Petru priču o jednom dečaku koji je hteo da promeni rezultat fudbalske utakmice, ali je time poremetio ceo tok vremena, i umesto fudbalskog meča, našao se u borbi dinosaurusa.
+
+Petar se nasmejao, i sa gospodinom Pečinom, i Štrumfom, je uživao u kolačima, dok su razgovarali o lepoti i važnosti prihvatanja sadašnjeg trenutka.
+
+Posle tog putovanja, Petar je shvatio da najveća tajna vremenske mašine nije u samoj mašini, već u ljubaznosti i prihvatanju svakog trenutka.  Vratio se u svoje vreme, nošen novim znanjem, i sa novim pogledom na svet.  Od tada, nije bio samo "Veliki Otkač", već i veliki prijatelj, vredan čovek i brižni čuvar vremena.
+</body>

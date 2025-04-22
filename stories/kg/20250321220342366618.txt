@@ -1,0 +1,51 @@
+<prompt>
+Please write a timeless Kongo children's story that is at least 1000 words long.
+It must be completely written in proper Kongo (KG).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Ntuntu ya Mbuma, Ebonga ya Mavangu, ye Mabundu ya Mayanga'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>kg</lang_id>
+
+```kg
+<title>Ntuntu ya Mbuma, Ebonga ya Mavangu, ye Mabundu ya Mayanga</title>
+<body>
+Mu ntoto ya Kongo, kuna mu nzadi ya Kongo, kuna mbanza ya Lubumbashi, kwadi di vuela mwana mosi nkento, bayanda zina Ntuntu ya Mbuma. Ntuntu ya Mbuma kwadi mwana mbote, walongoka, ye wanlenga lusansu lwa bankaka. Vata diandi di kwadi di tuka mu ngunda ya minlunda, kuna kwadi di di kunda misombo mingi ye mimama miakasi.
+
+Ntuntu ya Mbuma kwadi zola kulanda maza ma nzadi, kudi bonga kadi fula matitu. Nkutu mvu wa bua, kwadi di zunga muna mbala za nzadi, kutanga mavuna ya maza ye kulanda mfumo za mbote, mina mwa mvuka miza mu nzadi.
+
+Vanga kiokio, ku mbandu ya ntoto kwadi di tunga nzo mosi ya mbuta mosi ya nkaka zina Ebonga ya Mavangu. Ebonga ya Mavangu kwadi muntu wa ngolo, wazola vanga mambu ma vula. Wamvuanga nzo andi ye mwana mandi ya mavanga ma lusoni ye mambu ma ngolo. Ebonga ya Mavangu kwadi zola bana ba mpevo, kansi wabanzanga mosi ko. Wabangiza nkutu, lusambu lwa mbote luna mu ntoto.
+
+Lumbu kimosi, buna ntangu Ntuntu ya Mbuma kamene kulanda nzadi, watungana Mbula ya Mavangu. Ebonga ya Mavangu wamondina: “Ntuntu ya Mbuma, kizi vanga mu mbanza yayi. Ngeye, uzi mpembe nkama!”
+
+Ntuntu ya Mbuma wandimina ti na matima: “A mbuta, ki di vanga ko, konso mambu. Ami zolela maza, mi nzadi.”
+
+Ebonga ya Mavangu wandimina: “Kana ge, uzi wanda di sadila lumba di mina? Kuzi vanga mbimbi ya misumu yaya.”
+
+Ntuntu ya Mbuma wadi bonga malongi ma Mbula ya Mavangu. Wayala di lunga kulanda mbongo mu nzadi, konso mbutu wa nzadi wankunda. Wayala kulanda mfumo za mbote, ye kunlonguka mambu ma lukunda.
+
+Mbuaka lumbu, Ebonga ya Mavangu wayantika kunona ntima muna Ntuntu ya Mbuma. Wamvonda muna kulanda lumba ye vangulu andi lwa mbote. Wamwena ti Ntuntu ya Mbuma, wansi fwana kwizi tunga buambu bua ndedi, ye wana zi tunga lusangu mu mbanza.
+
+Ebonga ya Mavangu walenda Ntuntu ya Mbuma: “Ntuntu ya Mbuma, ngeye wani vanda mbimbi. Kudi vanga mambu mayingi mayeni kwenda, kansi mfunu kimosi. Nga wa tunga yikatu ya mbimbi? Mu lumbu mosi uzi tunga mabundu ya mayanga mu vumuna!”
+
+Ntuntu ya Mbuma watiwanga. Wavomba ku nzila ya mabundu ya mayanga. Wayenda mu vula ya bana ya kumbi. Walonga bana kwiti kwenda, kwiti kulonga, kwiti kusala. Wabonga bana mu nzila ya mbote ye mu nzila ya mavangu ma luzolo.
+
+Wakala kwenda kwanda, wakanikana ti bakulu, bosi wabangila bana: “Tusala makunda ma nzadi mu yibana mbongo ye kulanda mavangu. Nso! Kuzi bana ba bana yikatu ya mvula. Kuzi bana, kuvianga yimbi ya muntu yimosi, mbele konso buambu.”
+
+Ntuntu ya Mbuma wasadila yingi, watungisa mabundu ya mayanga. Bana balonguka kusala ye kulunga, kuzi mbongo mpevo, kudi konda malaka ye mfunu wa kuzanga bafuta, bosi bangu. Mambundu mabua ku kwenda yika ntama, nso, kundi kwenda ya lusumu.
+
+Ebonga ya Mavangu wadia mu tonta. Wasungila mbaka, watiwanga ku mavangu Ntuntu ya Mbuma. Wanda ba ba muntu mbote, wavomana kulanda lusumu mu mbanza. Kansi, Ntuntu ya Mbuma kwadi zola mbeni andi.
+Wenda kumuntu yandi, wandimina: “Ebonga ya Mavangu, nzola wa kuandi. Wanga ba muntu wa mbote.”
+
+Ebonga ya Mavangu wateka kuzola mu ntima. Wabanga ku mbimbi, yambi muntu wa mbimbi, wabonga nzila ya lusansu mu mbote. Wazola bana, walonguka kuzola nkenge. Wavangila lusumu, wandunga malenda, kundi vangila mavangu ma mbote.
+
+Mvuala wa miaka wenda, mbanza yi wanga nzila yi. Mabundu ya Mayanga, tona ya Ntuntu ya Mbuma, wanga mu bisalu muna mbote, ku mfumu yafimba nima mbandu ya ntoto. Banlonguka kusala ye kudi vangila mawonso mavanga, bosi bafwana, wazi, ngolo. Lusangu lu Ntuntu ya Mbuma, nangu bu masi bu vutuka muna mio ya muntu yimosi mosi.
+
+Nate kuna nkutu, konso mosi wazola nsi wa ntima, wasonga, kundi longula muna matitimi mazi wa nzila ya ntama ya lusansu ya muntu. Lu vangu, mu mpia yimbi, mbanza ye ntoto wanda kuna ntoto.
+Nzola ya mbote yala, mbamaba yo!
+</body>
+```

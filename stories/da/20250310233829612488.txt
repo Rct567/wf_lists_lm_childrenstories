@@ -1,0 +1,75 @@
+<prompt>
+Please write a emotional Danish children's story that is at least 1000 words long.
+It must be completely written in proper Danish (DA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'En eventyrsfuld tur gennem den gyldne ørken til guldland'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>da</lang_id>
+
+```xml
+<title>En eventyrsfuld tur gennem den gyldne ørken til guldland</title>
+<body>
+Engang, langt borte, hvor himlen mødte ørkensandet i en uendelig gyldenfavet horisont, boede Lille Sofie. Sofie var en pige med et hjerte så blidt som en sommerfugls vinge og øjne så klare som de dybeste blå søer. Hun boede i en lille lerhytte ved kanten af den mægtige Gyldne Ørken, sammen med sin gamle bedstefar, Farfar Niels. Farfar Niels var en mand med et langt, hvidt skæg, der gemte på utallige historier om stjernerne, vinden og de hemmeligheder, der lå begravet under sandet.
+
+Sofies mor og far var forsvundet for mange år siden, da de drog ud for at finde det sagnomspundne Guldland. Guldland, fortalte man, var et sted fyldt med endeløse skatte, gyldne bjerge og floder af flydende honning. Men ingen, der havde forsøgt at finde Guldland, var nogensinde vendt tilbage.
+
+En dag, da solen brændte ned over ørkensandet, og varmen dansede over tagene på de små, støvede hytter, sad Sofie og Farfar Niels uden for deres hus. De drak lunken kamelmelk og lyttede til vindens hvisken gennem de tørre buske.
+
+"Farfar," spurgte Sofie, med sin lille stemme, "Hvor er Guldland mon? Tror du, mor og far fandt det?"
+
+Farfar Niels kiggede ud over den uendelige ørken, hans øjne formørkede af minder. "Guldland er et mytisk sted, lille Sofie," sagde han blidt. "Måske findes det. Måske er det bare en drøm. Men én ting er sikker: Vejen dertil er lang og farlig."
+
+Sofie rystede på hovedet. "Jeg tror på det. Jeg tror, mor og far er derude og venter på os."
+
+En gnist af beslutsomhed lyste i Sofies øjne. Hun havde arvet sin mors eventyrlyst og sin fars vilje. Hun vidste, at hun måtte prøve at finde dem.
+
+Den nat, mens Farfar Niels sov tungt, pakkede Sofie en lille rygsæk. Hun fyldte den med tørret frugt, et lille vandfylt skind, et tæppe og et kort, som hendes mor havde efterladt – et sløret, krusede kort, der angiveligt viste vejen gennem ørkenen. Hun efterlod et brev til Farfar Niels, et brev fyldt med kærlighed og et løfte om at vende tilbage.
+
+Tidligt næste morgen, da de første solstråler farvede ørkenen lyserød, listede Sofie ud af hytten. Med hjertet hamrende i brystet, satte hun kurs mod den gyldne horisont.
+
+Rejsen gennem den Gyldne Ørken var hård. Solen brændte, der var ingen skygge, og sandet blev varmere og varmere for hver time. Sofie gik og gik, hendes fødder ømme og trætte. Hun sang små sange for sig selv, sange som Farfar Niels havde lært hende om stjerner og eventyr, for at holde modet oppe.
+
+Efter et par dage mødte hun en gammel kamel, der var forladt af sine ejere. Kamelen, som Sofie kaldte “Guldfar” på grund af dens gyldne pels, blev hendes følgesvend. Guldfar var stærk og vedholdende, og han bar Sofie og hendes rygsæk.
+
+De stødte på mange farer. De krydsede klitbjerge, hvor vinden piskede sandet i deres ansigter. De undgik snigende slanger og sultne ørkeneråd. De oplevede sandstorme, der nærmest opslugte dem, og sult og tørst, der pressede dem til det yderste.
+
+En dag, da de var på vej til at give op, faldt de over en lille oase. Her, blandt palmetræerne og det kolde vand, fandt de en gruppe nomader. Nomaderne var venlige og gav Sofie og Guldfar mad og vand. De fortalte hende om Guldland, om de sagn, der blev fortalt fra generation til generation. De gav hende også nogle nye råd og oplysninger om kortet.
+
+"Vær forsigtig," sagde en gammel kvinde med dybe rynker. "Du skal følge den snoede kløft, der fører til det gamle tempel. Templet er porten til Guldland."
+
+Med fornyet mod fortsatte Sofie og Guldfar deres rejse. De fandt den snoede kløft, og de fulgte den i mange dage. Kløften var mørk og skræmmende, men Sofie vidste, at hun var på rette spor.
+
+Til sidst nåede de frem til det gamle tempel. Det var et storslået bygningsværk, lavet af gyldne sten, der glødede i sollyset. Foran templet stod en stor, gylden dør.
+
+Sofie tog et dybt åndedræt og skubbede døren op.
+
+Bag døren var der ikke guld eller skatte. Der var heller ingen floder af honning. I stedet stod der et gyldent spejl. Spejlet reflekterede Sofies eget ansigt.
+
+Da Sofie så ind i spejlet, så hun ikke bare sig selv. Hun så sin mors smil, sin fars styrke og Farfar Niels’ kærlighed. Hun så alt det, hun elskede og savnede.
+
+Pludselig forstod hun. Guldland var ikke et sted. Guldland var inde i hende selv. Det var kærligheden, modet og håbet, der havde drevet hende på hendes rejse.
+
+Mens tårerne løb ned ad hendes kinder, hørte hun en hvisken. Det var hendes mors stemme. "Du fandt det, Sofie. Du fandt dit guld."
+
+Sofie vendte sig om, og hun så sine forældre stående bag hende. De var ikke spøgelser eller ånder. De var levende og sunde.
+
+"Vi kom aldrig ind i Guldland, lille Sofie," sagde hendes far. "Men vi fandt noget vigtigere: kærlighed og troen på hinanden."
+
+De omfavnede hende.
+
+De trådte ud af templet. Sofie vendte sig om og kiggede tilbage på den gyldne dør. Den blinkede til hende. Derefter vendte hun sig mod den gyldne ørken, som hun havde rejst igennem for at komme her.
+
+Sammen drog de tilbage gennem ørkenen. Undervejs fortalte de hinanden historier, lo og græd af glæde. Guldfar var med dem hele vejen, nu mere end nogensinde en del af familien.
+
+Da de nåede tilbage til Farfar Niels, var han ude foran hytten. Hans ansigt var tynget af bekymring, men da han så Sofie, hendes mor og far, sprang et lys ind i hans blå øjne.
+
+Familien var samlet igen. De havde fundet deres egen skat. De havde fundet hinanden.
+
+De levede lykkeligt til deres dages ende i den lille lerhytte ved kanten af den Gyldne Ørken. De fortalte historier om den eventyrsfulde rejse, om den lange tur, der havde bragt dem hjem. Og selv om Guldland ikke var, hvad de havde forestillet sig, fandt lille Sofie ud af, at den virkelige skat var meget mere værdifuld. Den skat, vi alle leder efter, er kærlighedens guld, et guld der aldrig falmer, men bliver ved med at lyse.
+</body>
+```

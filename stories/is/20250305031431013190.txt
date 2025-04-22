@@ -1,0 +1,43 @@
+<prompt>
+Please write a timeless Icelandic children's story that is at least 1000 words long.
+It must be completely written in proper Icelandic (IS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Hesturinn sem talaði við stjörnurnar'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>is</lang_id>
+
+<title>Hesturinn sem talaði við stjörnurnar</title>
+<body>Í einu litlu þorpi í þéttu fjallalandi Íslands, þar sem norðurljós dansaði á himni nóttina langa, bjó litla hestur að nafni Stjarna. Stjarna var ekki eins og aðrir hestar, því hún átti eina sérstaka gáfu: hún gat talað við stjörnurnar. 
+
+Stjarna var född í stormýraræktun á vorþingi, og frá fyrsta degi hennar hafði hún sérstaka tengsl við himininn. Hún elskaði að horfa upp á stjörnurnar á nóttunum og hlusta á þeirra söng. Stjörnurnar söngu henni sögur af ferðum sínum um alheiminn, af dýrum og dýrðum sem þær höfðu séð, og af hinum ótrúlegu verum sem þær höfðu kynnst. 
+
+Stjarna varð fljótt vinsæl meðal bæjarbúa, því hún gat sagt þeim frá þessum sögum og ferðum sem stjörnurnar höfðu boðið henni. Börn þorpsins elskaði að heyra Stjörnu segja frá ævintýrum stjarnanna, og þau sátu oft undir stjörnuhimni nóttina langa og hlustu á hennar sögur. 
+
+Ein nótt, þegar nóttin var sérlega þétt og stjörnurnar blikuðu bjart, kallaði Stjarna upp á stjörnurnar og bað þær að segja henni nýja sögu. Stjörnurnar hlustuðu á hennar beiðni og sögðu henni frá ferð sinni til miðbaugsjarðar, þar sem sólin skín í alla daga og nóttina langa. 
+
+Stjarna varð svo fangað af sögunni að hún ákvað að fara í ferð til miðbaugsjarðar, til að sjá sólina skína og kynnast þeim ótrúlegu verum sem stjörnurnar höfðu sagt henni frá. Hún sagði bæjarbúum fararsælu og fór af stað, ein og ánægð, í leiðangur sinn. 
+
+Ferðin var löng og erfitt, en Stjarna var ótrúlega sterk og ákaflega þolinmóð. Hún fór yfir fjöll og dali, áfram og aftur, og gekk um óbyggða sléttur og skóga. Á ferð sinni kynntist hún mörgum dýrum, sumir voru venjulegir og aðrir ótrúlegir, og hún lærði að tala við þá og að hlusta á þeirra sögur. 
+
+Einn dag, eftir langa og erfitta ferð, kom Stjarna að strönd miðbaugsjarðar. Sólin skín í alla daga og nóttina langa, og Stjarna varð svo fangað af henni að hún gleymdi alla ógurðina og erfittin sem hún hafði þolað á ferð sinni. Hún horfði upp á sólina og hlustaði á hennar söng, og sólin söng henni sögur af ferðum sínum um alheiminn, af dýrum og dýrðum sem hún hafði séð, og af hinum ótrúlegu verum sem hún hafði kynnst. 
+
+Stjarna varð svo fangað af sögum sólarinnar að hún ákvað að dvelja á miðbaugsjarði og að læra meira um hana og hennar ferðir. Hún kynntist mörgum dýrum sem bjuggu á miðbaugsjarði, sumir voru venjulegir og aðrir ótrúlegir, og hún lærði að tala við þá og að hlusta á þeirra sögur. 
+
+Ein dag, þegar Stjarna var að ganga um ströndina, sá hún litla hval sem flæddi í sjónum. Hvalurinn var ótrúlega fagur og Stjarna varð svo fangað af honum að hún ákvað að kynna sér hann betur. Hún gekk að hvalinum og talaði við hann, og hvalurinn söng henni sögur af ferðum sínum um hafið, af dýrum og dýrðum sem hann hafði séð, og af hinum ótrúlegu verum sem hann hafði kynnst. 
+
+Stjarna varð svo fangað af sögum hvalinns að hún ákvað að fara í ferð með honum um hafið. Hún gekk upp á baki hvalinns og hvalurinn fór af stað, áfram og aftur, um hafið. Á ferð sinni sá hún mörgum dýrum, sumir voru venjulegir og aðrir ótrúlegir, og hún lærði að tala við þá og að hlusta á þeirra sögur. 
+
+Einn dag, eftir langa og erfitta ferð, kom Stjarna og hvalurinn að strönd eyju sem var þekkt fyrir sína fegurð og dýrð. Eyjan var full af blómum og trjám, og Stjarna varð svo fangað af henni að hún gleymdi alla ógurðina og erfittin sem hún hafði þolað á ferð sinni. Hún horfði upp á eyjuna og hlustaði á hennar söng, og eyjan söng henni sögur af ferðum sínum um alheiminn, af dýrum og dýrðum sem hún hafði séð, og af hinum ótrúlegu verum sem hún hafði kynnst. 
+
+Stjarna varð svo fangað af sögum eyjunnar að hún ákvað að dvelja á eyjunni og að læra meira um hana og hennar ferðir. Hún kynntist mörgum dýrum sem bjuggu á eyjunni, sumir voru venjulegir og aðrir ótrúlegir, og hún lærði að tala við þá og að hlusta á þeirra sögur. 
+
+Ein dag, þegar Stjarna var að ganga um eyjuna, sá hún litla fugl sem flæddi í lofti. Fuglinn var ótrúlega fagur og Stjarna varð svo fangað af honum að hún ákvað að kynna sér hann betur. Hún gekk að fuglinum og talaði við hann, og fuglinn söng henni sögur af ferðum sínum um loftið, af dýrum og dýrðum sem hann hafði séð, og af hinum ótrúlegu verum sem hann hafði kynnst. 
+
+Stjarna varð svo fangað af sögum fuglsins að hún ákvað að fara í ferð með honum um loftið. Hún gekk upp á baki fuglsins og fuglinn fór af stað, áfram og aftur, um loftið. Á ferð sinni sá hún mörgum dýrum, sumir voru venjulegir og aðrir ótrúlegir, og hún lærði að tala við þá og að hlusta á þeirra sögur. 
+
+Einn dag, eftir langa og erfitta ferð, kom Stjarna og fug

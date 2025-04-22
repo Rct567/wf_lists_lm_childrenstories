@@ -1,0 +1,57 @@
+<prompt>
+Please write a dialog-based Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Vecais pagasts un tās noslēpumi'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lv</lang_id>
+
+<title>Vecais pagasts un tās noslēpumi</title>
+<body>
+Līva un Miķelis, divi draugi ar acīm, kas spēja redzēt vairāk nekā citi, devās ceļojumā uz veco pagastu.  Pagasts, kas klusēja aizaudzis ar dzinumiem un stāvošiem kokiem, dvesmoja noslēpumu.  Vēja šalcēja caur veciem, nokaltušiem koku zariem, un vecas mājas skatījās uz viņiem ar tukšām logiem.
+
+"Vai tu domā, ka tur dzīvo kāds?" jautāja Līva, rāpojot gar vecām akmens mūriem.
+
+"Varbūt gan gari,"  atbildēja Miķelis, cenšoties atrast kādu ieeju ēkā. "Gari, kas stāsta stāstus par pagasta pagātni."
+
+Viņi atraduši vecu, nokaltušu ceļu, kas vijās cauri pagastam. Ceļa malā stāvēja vecā, nokaltuša krūme, un uz tās stāvēja vecā, dzeltinātā koka zīme.  Uz tās bija rakstīts: "Ziedu iela".  Līva un Miķelis aizdomīgi paskatījās viens uz otru.
+
+"Ziedu iela?" Līva izteica.  "Vai tiešām?"
+
+"Nu, skatīsimies," Miķelis atbildēja, uzsākot ceļu pa šauru ceļu.
+
+Ceļš veda cauri meža biezokņiem, kur gaismas starus bloķēja augsti koki.  Ziedu iela bija daudz klusāka nekā viņi gaidīja.  Nekas nečīkstēja, nekur neaizcērtās durvis.
+
+Pēkšņi, starp divām milzīgām priedēm, tie ieraudzīja mazu, nokaltušu mājiņu.  Uz tās loga bija uzrakstīts: "Noslēpums".
+
+"Noslēpums!" izsaucās Miķelis. "Mums ir jāzina, ko tas slēpj."
+
+Līva un Miķelis piesardzīgi tuvojās mājiņai.  Durvis bija vaļā, un no iekšpuses nāca neliela gaismas strūkla.
+
+"Vai tur ir kāds?" Līva čukstēja.
+
+Miķelis uzmanīgi atvēra durvis.  Iekšā bija tumši un putekļaini.  Gaismas strūkla nāca no koka galda, kas stāvēja istabas vidū.  Uz galda stāvēja veca, bronzas krāsas ziedu vāze.  Ziedi vāzē bija nevis no šī pasaules – tie bija spīdīgi, dārgakmeņiem līdzīgi.
+
+"Vai šie ziedi..." Miķelis sāka, bet nepabeidza teikumu.
+
+Līva uzlika roku uz vāzes.  Pēkšņi vāze sāka mirdzēt.  No tās izlēca maza, spīdīga putniņa, kas bija skaistāks, nekā jebkurš cits putniņš, ko viņi bija jebkad redzējuši.  Putniņa spārni bija spoži zili, un tā knābis – purpursarkans.
+
+"Šis ir Ziedu garu putniņš," čukstēja putniņš. "Viņi sargā noslēpumu."
+
+"Noslēpums?" pārjautāja Miķelis.
+
+"Jā," putniņš atbildēja. "Pagastam ir noslēpumi, kas nav paredzēti parastajām acīm.  Tie ir jāatrod nevis ar prātu, bet ar sirdi."
+
+Putniņš aizlidoja caur logiem, un vāze apklusa.  Līva un Miķelis saprata.  Noslēpums nebija kaut kas materiāls, bet gan sentimentāls.
+
+Līva un Miķelis devās atpakaļ uz savu ceļu.  Pagasts viņiem vairs nešķita tik noslēpumains.  Viņi zināja, ka noslēpums slēpās nevis priekšmetā, bet gan pagasta dvēselē.
+
+Viņi zināja, ka vecais pagasts slēpa daudz vairāk, nekā vienkārši vecas mājas un kokus.  Pagasts bija pilns ar stāstiem, kas gaidīja, lai tos atklātu.  Līva un Miķelis zināja, ka viņi vēl daudzreiz atgriezīsies pagastā, lai atklātu vēl vairāk noslēpumu.
+
+Viņi devās atpakaļ mājās ar sirds apmierinājumu.  Viņi bija atklājuši pagasta noslēpumu.  Noslēpums slēpās nevis priekšmetā, bet gan pagasta dvēselē.
+</body>

@@ -1,0 +1,37 @@
+<prompt>
+Please write a timeless Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Velká válka tří statečných rytířů v Čechách'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Velká válka tří statečných rytířů v Čechách</title>
+<body>
+Bylo jednou v krásných Čechách, plných zelených luk a modrých hor, tři stateční rytíři.  Jmenovali se Ryšavý, Černý a Zelený. Ryšavý, s vlasy jako plameny, byl rytířem s velkým srdcem a ještě větším nadšením pro dobrodružství. Černý, s vlasy a brnění temně šedé, jako noc, byl mistr meče a ochránce spravedlnosti. A Zelený, s vlasy zelenými jako jarní tráva, byl nesmírně moudrý a měl dar vyřešit i ty nejzáludnější hádanky.
+
+Společně se vydávali na mnoho úžasných cest, plných překvapení. Jednoho slunného dne se dozvěděli o zlé čarodějnici, která se uchýlila do tajemného hradu na vrcholu nejvyšší hory, Špičáku.  Čarodějnici se říkalo Drahomíra a proslíla se nebezpečnými kletbami a tajemnými kouzly. Údajně si přála ukrást Slunce a Měsíc, aby noc trvala věčně a celý svět zanořila do věčného ticha a temnoty.
+
+"Musíme jí zastavit!" vykřikl Ryšavý, jeho oči plné neúnavné odvahy. "Její moc je příliš nebezpečná pro naše krásné Čechy!"
+
+"A jak ji zastavíme, Ryšavý?" zeptal se Černý, jeho oko skrz lesklé brnění sledovalo nebesa, plné nádherných mračen.
+
+Zelený, který si vždycky nejdřív všimnul nejjemnějších detailů, zpozorněl. "Její hrad je chráněn kouzly," řekl tiše. "Vytvořila kolem něho záludnou síť kouzel, kterou lze proniknout jen za pomoci nejzralějšího jabloňového květu. A tento květ roste na zaslíbené louce, na samotném srdci temného lesa."
+
+Tak se tři rytíři vydali na nebezpečnou pouť do temného lesa. Cesta jim nebyla lehká. Potkali zlomy slézů a hněvlivá draka se svítivým ocasem, vlkodlaka s duší zlé, který se toužil skrýt. Díky jejich nezdolné statečnosti, Zeleného múdrosti, Černého odvaze a Ryšavého neochvějného nadšení jim se však nakonec podařilo překonat všechna tato nebezpečí.
+
+Na zaslíbené louce objevili krásnou, zralou jabloň, jejíž květy se svíjely jako svíčky, rozptylující světelné a vznášející se vůně. Ryšavý ji nasbíral, jeho paže a ruce dýchající poctivou silou.
+
+Ale Drahomíra s kouzelnou hůlkou v ruce čekala uvnitř hradu, čekala na cizinec.  Černý se statečně postavil mezi hradními brány, a Ryšavý se s Zeleným s opatrností probíjeli k srdci čarodějnické tvrze.
+
+Drahomíra zaútočila nebezpečnými kouzly. Její šípy kouzel vypálily z temného hradu s děsivým výkřikem. Černý rytíř s neohroženou odvahou odrazil kouzla s lesklým štítem, Zelený však pozoroval magické vzorce a hledal osudné slabší místo v Drahomíriných mocných kletech.  Ryšavý jim s velkým srdcem v tom pomáhal, bojující hrdinsky.
+
+Nakonec Zelený objevil slabší místo v Drahomíriných kouzlech, právě v chvilce, kdy se ji z hněvu měnila v malou šarlatovou pavučinavou myš.  V té chvíli Černý vítězně proseknutý kouzelným mečem přenesl štíp.
+
+A tak Drahomíra ztratila svou sílu a kletby zmizely. Slunce i Měsíc zazářily a rozprostřely světlo po celém kraji.  Tři stateční rytíři, Ryšavý, Černý i Zelený, se vrátili do Čech. Lid vděčný a uctívající, se radovali z hrdinského vítězství a triumfu. Čarodějnice, navzdory své zlomyslnosti, je navždy naplnila s požehnáním a úctu, se smíšením štěstí a smutek a uznáním. Vždyť i zlí, když s moudrostí čelili, mohli dát světlo, tak jasně, jako ty nejmoudřejší činy.
+</body>

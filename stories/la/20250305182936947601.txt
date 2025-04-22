@@ -1,0 +1,43 @@
+<prompt>
+Please write a simple and easy-to-follow Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'De Ove Quae Lanam Auream Habebat'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>la</lang_id>
+
+<title>De Ove Quae Lanam Auream Habebat</title>
+<body>
+In agro vasto, prope flumen nitidum, erat ovis nomine Aurelia.  Non erat ovis similis aliis ovium gregis.  Lana eius, protinus, non erat alba vel grisea, sed aurea, ut sol meridianus.  Splendebat in sole, fulgens et mirabilis.  Omnes oves gregis, cum viderent lanam Aureliae, mirari solebant.  "Quam pulchra lana est!"  clamabant, "Quam mirabilis ovis!"
+
+Aurelia, ovis modesta, non se gloriabatur.  Amabat ludere cum aliis ovium, et herbas deliciosas in prato pascere.  Sed lana eius aurea, semper erat nota.  Pastor, vir senex et bonus,  diligebat Aureliam supra alias oves.  Saepissime, Aureliam in brachiis suis tollebat, ut eam spectaret.  "Ovis aurea," murmurabat, "quanta pulchritudo!"
+
+Unum diem, ventus fortis ex alto monte venit.  Turbavit nubes in caelum, et tempestas terribilis in agro apparuit.  Oves timuerunt, et se in silvam occultaverunt.  Pastor, timens pro ovium salute, in silvam persequi coepit.  In medio silvae, invenit Aureliam, qui solus, in arbore magna, se absconderat.
+
+"Aurelia," dixit pastor, "cur in silvam te abscondere voluisti?  Tempestas terribilis est."
+
+Aurelia, tremens, respondit, "Pastor, timeo.  Lana mea aurea, in tempestatibus, nimis splendens est.  Timeo ne oculus aliorum hominum, vel bestiarum,  me videat et me rapere velit."
+
+Pastor, cum risu, dixit, "Aurelia, lana tua aurea, non est causa timoris.  Est causa gaudii.  Est pulchritudo, et pulchritudo semper protegitur."
+
+Pastor, cum Aurelia in brachiis suis, per silvam ad villam rediit.  In villa,  mulier pulchra, nomine Lucretia,  Aureliam vidit.  Mirabatur lanam auream, et dixit, "Quam ovis pulchra!  Lana eius, aurea ut sol, me ad ornatum meum decorabit."
+
+Lucretia, cum pastor, Aureliam ad domum sua duxit.  In domo, Aurelia in tecto pulchro posita est.  Lana eius aurea, in lumine, fulgebat.  Lucretia, cum forcipe et filo, coepit lanam auream filare.
+
+Diebus aliquot, Lucretia lanam auream texuit, et vestimenta pulchra creavit.  Vestimenta, aurea ut sol, in tota villa celebrata sunt.  Omnes homines, mulieres, et pueri, mirabantur pulchritudinem vestimentorum.  
+
+Unum diem, regina villae, mulier fortis et sapientissima, Aureliam vidit.  Mirabatur lanam eius auream, et dixit, "Quam ovis pulchra!  Lana eius, aurea ut sol, ad vestimenta mea decorabit."
+
+Regina, cum Lucretia, Aureliam ad domum suam duxit.  In domo regali, Aurelia in tecto pulcherrimo posita est.  Lana eius aurea, in lumine, fulgebat.  Regina, cum forcipe et filo, coepit lanam auream filare.
+
+Regina, cum arte sua, creavit vestimenta pulcherrima.  Vestimenta, aurea ut sol, in tota urbe celebrata sunt.  Omnes homines, mulieres, et pueri, mirabantur pulchritudinem vestimentorum.  Regina, cum gratiis, Aureliam in agro suo reliquit, ut in pace et tranquillitate viveret.
+
+Aurelia, cum gratiis, in agro suo, cum ovium gregibus, vivere coepit.  Lana eius aurea, in sole, fulgebat, et oves similes, cum mirabantur,  dicerent, "Quam pulchra ovis!"  Et sic, ovis aurea, in agro suo, in pace et tranquillitate, vixit.  Lana eius aurea, semper fuit nota, et semper fuit causa gaudii.
+
+Et sic, finem fabulae nostrae,  de ovis nomine Aurelia, qui lanam auream habebat.
+</body>

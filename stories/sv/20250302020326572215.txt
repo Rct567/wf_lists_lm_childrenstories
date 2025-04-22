@@ -1,0 +1,43 @@
+<prompt>
+Please write a silly Swedish children's story that is at least 1000 words long.
+It must be completely written in proper Swedish (SV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'En hund som kunde hitta förlorade minnen'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sv</lang_id>
+
+<title>En hund som kunde hitta förlorade minnen</title>
+<body>
+På en liten ö, mitt i en glittrande sjö, bodde en liten, fluffig hund vid namn Pip. Pip var ingen vanlig hund. Hon hade en magisk förmåga: att hitta förlorade minnen.  Inte de stora, dramatiska minnena, utan de små, vardagliga, som hade försvunnit i dimman av glömska.  Som exempelvis lukten av färska rabarberkakor, eller hur det kändes att leka med sin älskade docka, Elsa.
+
+En solig morgon, när Pip satt och smekte sin favoritkudde, som luktade precis som hennes bortgångna matte, hörde hon ett klagande ljud. Det kom från den lilla fiskestaden, som låg inbäddad i en dal.  En grupp barn lekte längs stranden, men deras skratt verkade tomma, som de små skalen som spolades upp av vågorna. Någon hade förlorat något viktigt.
+
+Pip skakade på huvudet och lipade. Hon kände att det här var en uppgift för henne. Hon sprang genom det frodiga gräset, som doftade av blommor och nyklippt gräsmatta, mot den lilla fiskestaden. Där mötte hon en liten flicka med stora, ledsna ögon, vid namn Ella.  Hon höll i en liten trädocka med en trasig arm, vars färg började att blekna.
+
+"Min Elsa," suckade Ella, hennes röst så ledsen som en trasig fiol.  "Jag har tappat minnena av henne."
+
+Pip skällde lugnande.  "Oroa dig inte, liten Ella," sa hon. "Jag är Pip, och jag är experten på att hitta minnen."
+
+Ella trodde inte på Pip, men såg ledsen ut.  Hon ledde Pip till ett litet, ödsligt rum i sin stuga. Rummet hade tidigare bubblat av spännande leksaker och färgstarka dekorationer.  Men nu var det tomt och tyst.  Alla spår av glädjen verkade ha försvunnit.
+
+Pip sniffade runt i rummet.  Hennes näsborrar rörde sig hastigt, som små, söta flygplan.  Hon lutade huvudet och ställde sina små nosar mot en förnämlig lakritsflaska och sedan mot golvet. Snart, genom de spårade minnena, luktade hon brödet. Det kände igen henne direkt. En doft som hon kände igen direkt och det var doften av Ella's favoritkakor.
+
+"Det finns spår," viskade Pip.  "Lukten av mammas fina rabarberkakor!  Och här, där du satte din docka, finns ett minne!" Hon grävde med frambenen i dammet. Hon skakade försiktigt fram en liten träbit.
+
+Ella böjde sig ner för att hämta den. Träbiten luktade precis som Elsas hårnålar.  Och det viskade ljudet när hon plockade fram bitarna av trä var som en signal. En röst viskade försiktigt i hennes öron. Och den sa att Elsa var stark, att Elsa var hennes favorit. En tårdroppe rullade ned för Elsas kind. "Elsas hårnålar", sa hon med ett skratt. "Mamma använde en träbit som sådan!"
+
+Snart började bilderna och dofterna från Elsas liv, som hon hade tappat bort, dyka upp i Ellas sinne.  Hur hon lekte med henne. Hur hon hade förlorat en hårnål och hittat den igen. En liten låda dök upp där även ett hjärta dök upp. En låda med hårnålar. Ella upptäckte sin docka. Den hade blivit repade och såg ledsen ut. Men det värsta som Ella hade upplevt med dockan var minnet som hennes hjärta värkte efter.
+
+Minnet om Elsas säng med honungsfärgat duntäcke och blommiga tapeter.   Doften av honung, varm brödsmulor och de härliga, hemlagada kakorna dök upp i hennes minne.
+
+Pip, full av glädje och med sina fina pannor i luften, skällde fram.  "Dina minnen är tillbaka, Ella!"
+
+Ella sprang om Pip och kramade henne.  Hennes leenden hade åter kommit. Hennes ögon glödde nu med ett värde som bara ett äkta vänligt leende kunde ge.  Skratten fyllde nu stranden med sin magi och fyllde luften med sin härliga, ljusa energi.  Skratten gjorde henne ledsen men det som hennes mamma alltid hade sagt till henne återstod. Du är stor, och stor till sin styrka och hjärta och kärlek till sin mamma.
+
+Och från den dagen levde Ella och Pip på ön i glädje och vänskap. Och om du någonsin är ledsen för att du har tappat din glädje och ditt hopp, då vet du att det finns en hund, Pip, som kan hitta de saknade minnena av ditt fina liv.
+</body>

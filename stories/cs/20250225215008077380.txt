@@ -1,0 +1,33 @@
+<prompt>
+Please write a uncomplicated Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Malý Pejsek Azor a Jeho Velké Hledání Nejlepšího Páníčka Na Světě.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Malý Pejsek Azor a Jeho Velké Hledání Nejlepšího Páníčka Na Světě</title>
+<body>
+V malebné vesničce pod strmými kopci žil malý pejsek jménem Azor. Nebyl to žádný obyčejný pejsek.  Měl hnědé oči, jako hluboké jezírko, a srst sametové, jako by ji plela sama víla.  Jeho nos byl špičatý a vnímavý,  a čich tak silný, že cítil vůni kaštanového cukru i přes vysoký kopec. Azor se však necítil šťastný.  Přestože si užíval pošťuchování s ostatními pejsky na návsi a žral s chutí vděčné kostičky, jeho srdce toužilo po něčem víc.  Toužil po tom, aby se stal nejlepším psím kamarádem. Toužil po tom najít svého dokonalého pána.
+
+Jednoho slunečného rána, když Azor proháněl motýla v trávě, uviděl sejmout se z velkého auta rodina se třemi dětmi.  Bylo to cosi jako sněhová vichřice!  Svítily tam maminky a tatínci, z nichž jeden nosil batoh plný svačin. A pak tři děti, tak úžasné, s hravě se měnícími úsměvy. Tvář každé z dětí vyzařovala něčím jiným – radostí, nadšením, ale i úzkostí. Azor si je pečlivě prohlédl.  A pak... cítil něco víc. Cítil  spojení. A on si okamžitě zamiloval nejmladší dívku.
+
+Malá holčička s  krouživými vrkoči se usmála,  její úsměv doslova zářící. Bylo jí asi 6 let a měla na tváři vzácné rysy. Azor si stál blízko a kroužil kolem,  nadzvedoval ocásek. Přátelsky štěkl. A takový pejsek  s plně se vyvinutým povahou - to se prostě s  malou holčičkou s úsměvem s nebe - musí vynést!
+
+Holčička, s jménem Eliška, k Azorovi přiskočila.  "Ach, jaký krásný pejsek!" zvolala.   Její  oči záříly a zdálo se, že z ní sálá neutuchající energie.  Věděla, že Azor je víc než jen pes.  Věděla, že Azor je úžasný a neporovnatelný.
+
+"Mám vás s sebou," zavolala tatínkovi a s úsměvem zdvihla pejska na ruce. Azor se s nadšením přitisknul k holčičce, jeho srst  sála štěstím. A s nimi odjeli k jejich novým domovu, z nichž se Azor těšil na každý další den s nebezpečným úsměvem.
+
+Azor teď  již nebyl jenom ulicí, procházel s malou panenkou zahrady plné vůní kvetoucích růží a slasti květů a  jídlem, a s chutě s jídlem. Chodil na procházky v úžasných lesích, hrající se  s ostatními dětmi na hřištích plných legrace a slunce. Každý den  byl nový objev - novým objevem byl nový zážitek.  Vnímal každý vůní, každý zvuk a  v srdci Azora znělo zpěv bezkonkurenční, nádherné harmonie.
+
+Jednoho deštivého dne, když se v koutech stodoly hráli s balónem, se Eliška zvedla a  podívala se Azorovi do očí.  "Azore," prozněla tiše, "ty jsi  nejlepší pes na světě!" Azor ji ochotně obejal s úsměvem a snažil se dát docela přesnou zprávu. To byla  nejlepší odpověď, která by se dala požadovat.
+
+A Azor byl šťastný.  Byl šťastný,  protože našel Elišku,  svou dokonalou paní, s níž  prožil  nejúžasnější dobrodružství. Byli  nezaměnitelní nejlepší přátelé na celém světě, Azor i Eliška, s láskou v srdcích a úsměvem v duších. Byli si nejmilejší s každým výstředním krokem.
+
+A tak v malebné vesničce, pod strmými kopci,  poblíž lesa s tisíci zvuky a tónů,  žil malý pejsek Azor. Pejsek,  který  vlastně nikdy neměl být sám, ale na svět přijal jen s malým pejsem. Žil krásný a s výsměchem. A s tím to nejlepšího příběhu si se vzácnými a laskavými paměťmi vždy spojil.
+</body>

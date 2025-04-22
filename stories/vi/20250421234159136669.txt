@@ -1,0 +1,51 @@
+<prompt>
+Please write a fun and entertaining Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Chú Dê Con Ham Ăn và Bài Học Về Tính Chăm Chỉ Học Hành'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>vi</lang_id>
+
+```xml
+<title>Chú Dê Con Ham Ăn và Bài Học Về Tính Chăm Chỉ Học Hành</title>
+<body>
+Ngày xửa ngày xưa, ở một vùng quê yên bình, có một chú dê con tên là Tí. Tí không giống những chú dê khác. Chú thích ăn hơn bất cứ điều gì trên đời. Cả ngày, Tí chỉ nghĩ đến thức ăn. Cỏ xanh tươi ngon, lá non mọng nước, trái cây ngọt ngào... Tất cả đều lọt vào tầm ngắm của chú.
+
+Chú dê mẹ, một người hiền lành và luôn tận tụy, thường xuyên nhắc nhở Tí: "Ăn uống vừa phải thôi con ạ. Con cần học hành để lớn lên khôn ngoan, biết làm nhiều việc có ích."
+
+Nhưng Tí nào có nghe. Chú chỉ ậm ừ cho xong chuyện, rồi lại lao ra đồng cỏ tìm kiếm thức ăn. Buổi sáng, khi các bạn dê con khác đang chăm chỉ học tập cùng thầy giáo Cò, Tí đã lẻn trốn đi, tìm đến một vườn táo trĩu quả. Những quả táo đỏ mọng, thơm phức khiến Tí không thể cưỡng lại được. Chú ăn một quả, rồi hai quả, ba quả... đến khi cái bụng căng tròn như quả bóng.
+
+Đến trưa, khi các bạn dê con đang cùng nhau học cách phân biệt các loại cây, Tí lại trốn học để tìm đến một bụi tre non xanh mướt. Chú say sưa nhấm nháp những ngọn măng tre ngọt lịm, bỏ ngoài tai mọi lời dạy bảo của thầy cô.
+
+Buổi chiều, trong khi bạn bè tập trung để luyện tập các bài hát và câu chuyện, Tí đã mò đến một khu vườn dưa hấu. Những quả dưa hấu to tròn, xanh mướt mắt, quả nào quả nấy ngọt lừ khiến Tí không tài nào kiềm chế được. Chú ăn thỏa thích, đến mức không còn chỗ nào trong bụng để chứa thêm nữa.
+
+Cứ thế, ngày nào Tí cũng chỉ nghĩ đến chuyện ăn. Chú trở nên béo tròn, ì ạch, không còn nhanh nhẹn như trước nữa. Chú cũng không biết chữ, không biết hát, không biết kể chuyện. Khi bạn bè hỏi thăm về những bài học ở trường, Tí chỉ biết lắc đầu ngơ ngác. Chú cảm thấy buồn bã và cô đơn.
+
+Một hôm, có một trận bão lớn ập đến. Gió thổi mạnh, mưa rơi xối xả. Ngôi nhà của Tí bị tốc mái, những người dân trong làng phải tìm nơi trú ẩn. Thầy giáo Cò cùng các bạn dê con nhanh chóng giúp đỡ những người gặp khó khăn. Các bạn cùng nhau tìm kiếm thức ăn dự trữ, che chắn cho những người yếu thế, và kể chuyện cho nhau nghe để quên đi nỗi sợ hãi.
+
+Tí, với cái bụng no căng và sự thiếu hiểu biết, không thể làm gì để giúp đỡ mọi người. Chú chỉ biết đứng một chỗ, run rẩy vì lạnh và đói. Chú cảm thấy hối hận vì những ngày tháng chỉ mải mê ăn uống mà không chịu học hành. Chú ước gì mình có thể giúp đỡ bạn bè, có thể góp sức để mọi người vượt qua khó khăn này.
+
+Sau khi bão tan, làng xóm bắt đầu sửa sang lại nhà cửa. Thầy giáo Cò tổ chức các buổi sinh hoạt chung, dạy các bạn cách xây dựng lại nhà, trồng trọt lại rau màu, và củng cố tinh thần. Nhờ vào kiến thức và sự chuẩn bị từ trước, các bạn dê con đã giúp đỡ mọi người một cách hiệu quả. Họ phân công nhau làm việc, mỗi người một việc, cùng nhau vượt qua khó khăn.
+
+Tí đứng nhìn, cảm thấy xấu hổ vô cùng. Chú nhận ra rằng, việc chỉ biết ăn uống mà không học hành là một sai lầm lớn. Chú đến gặp thầy giáo Cò, cúi đầu xin lỗi vì những lỗi lầm trước đây.
+
+"Thầy ơi," Tí nói, giọng run run, "con đã sai rồi. Con chỉ mải ăn mà không chịu học hành. Giờ con mới hiểu được tầm quan trọng của việc học tập. Con xin thầy cho con một cơ hội được sửa sai."
+
+Thầy giáo Cò mỉm cười hiền từ, xoa đầu Tí: "Con biết lỗi là tốt. Không bao giờ là quá muộn để bắt đầu lại. Hãy bắt đầu học tập từ bây giờ, và con sẽ thấy cuộc sống có ý nghĩa hơn rất nhiều."
+
+Tí mừng rỡ, gật đầu lia lịa. Từ đó, Tí bắt đầu thay đổi. Chú đến trường học chăm chỉ hơn, chịu khó lắng nghe thầy cô giảng bài. Chú tập trung vào học chữ, học hát, và học cách giúp đỡ mọi người. Chú ăn uống điều độ hơn, không còn ăn quá nhiều như trước nữa.
+
+Dần dần, Tí bắt đầu tiến bộ. Chú biết đọc, biết viết, biết hát những bài hát vui nhộn. Chú trở nên nhanh nhẹn và thông minh hơn. Chú giúp đỡ bạn bè trong học tập, giúp đỡ mẹ trong việc nhà. Chú tham gia vào các hoạt động chung của làng, trở thành một thành viên có ích của cộng đồng.
+
+Một ngày nọ, Tí cùng các bạn đến thăm một bà cụ sống neo đơn. Bà cụ rất vui khi thấy các bạn đến. Tí đã kể cho bà nghe một câu chuyện cổ tích, cả làng cùng nhau hát những bài hát vui nhộn. Bà cụ cảm thấy rất hạnh phúc.
+
+Chú dê mẹ nhìn thấy sự thay đổi của Tí, vô cùng mừng rỡ và tự hào. Chú đã nhận ra rằng, ngoài thức ăn ngon, còn có nhiều điều thú vị và ý nghĩa hơn trong cuộc sống. Và tất cả những điều đó đều đến từ việc học hành và chăm chỉ.
+
+Từ đó, câu chuyện về chú dê con ham ăn Tí trở thành bài học quý giá cho tất cả các bạn nhỏ trong làng. Ai nấy đều hiểu rằng, học hành là quan trọng, giúp chúng ta trưởng thành, thông minh, và có thể đóng góp vào sự phát triển của cộng đồng. Cuộc sống của Tí, từ một chú dê chỉ biết ăn, đã trở thành một câu chuyện đầy ý nghĩa, lan tỏa niềm vui và tinh thần tích cực đến mọi người. Và từ đó, chú Tí sống một cuộc đời thật hạnh phúc, không chỉ vì thức ăn ngon mà còn vì những điều tốt đẹp mà chú đã học được và mang lại cho cuộc sống.
+</body>
+```

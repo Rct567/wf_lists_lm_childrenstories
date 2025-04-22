@@ -1,0 +1,51 @@
+<prompt>
+Please write a light-hearted Spanish children's story that is at least 1000 words long.
+It must be completely written in proper Spanish (ES).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'El camaleón que encontró su lugar, mostrando la importancia de la aceptación sincera.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>es</lang_id>
+
+```xml
+<title>El camaleón que encontró su lugar, mostrando la importancia de la aceptación sincera.</title>
+<body>
+Había una vez, en lo profundo de una selva exuberante y llena de colores, un camaleón llamado Caco. Caco era un camaleón muy especial, no porque fuera más grande, más rápido o más listo que los demás, sino porque tenía un problema: ¡no podía cambiar de color! Bueno, sí podía, pero lo hacía de maneras muy… impredecibles. A veces se ponía de un rojo furioso sin ninguna razón, otras veces se volvía azul cielo cuando nadie le había preguntado nada, y en ocasiones, el pobre Caco amanecía de un color verde fosforescente que asustaba hasta a las mariposas.
+
+Los otros camaleones de la selva, expertos en camuflaje, se reían de él. “¡Mira a Caco, el arcoíris andante!” le gritaban, burlándose de su torpeza. “¡Deberías quedarte quieto, Caco, no vaya a ser que espantes a los bichos!” Y Caco, con su corazón de camaleón lleno de tristeza, se escondía detrás de las hojas más grandes, intentando pasar desapercibido.
+
+Un día, Caco estaba más deprimido que nunca. Se había pintado (sin querer) de un amarillo chillón y los monos se reían a carcajadas de él. “¡Eres como un plátano parlante!” le decía uno, mientras otro se tiraba al suelo de la risa. Caco, sintiéndose la criatura más inútil del mundo, corrió a refugiarse bajo la sombra de un gran árbol de mango.
+
+Allí, entre las raíces retorcidas y el suave aroma de la fruta madura, conoció a una sabia tortuga llamada Tita. Tita era una tortuga muy vieja, con una caparazón llena de grietas y arrugas, que conocía todos los secretos de la selva.
+
+Caco, con lágrimas en los ojos, le contó a Tita sus penas. “No puedo camuflajearme, todos se burlan de mí… No sirvo para nada”, sollozó.
+
+Tita, con su voz suave y melodiosa, escuchó pacientemente. Cuando Caco terminó de hablar, la tortuga se tomó un largo respiro y dijo: “Querido Caco, la vida es un jardín lleno de flores de todos los colores, y cada una de ellas es especial a su manera. Tú eres como una flor exótica, con colores inesperados, que aunque diferente, es hermosa y única. El problema, Caco, no es que no cambies de color… el problema es que te preocupa lo que piensen los demás”.
+
+Caco parpadeó, confundido. “¿Pero, qué puedo hacer? ¿Cómo puedo ser aceptado?”
+
+Tita sonrió. “La aceptación, Caco, empieza por la aceptación propia. Aprende a amar tus colores, a entenderlos. En lugar de esconderte, explóralos. Descubre qué emociones y situaciones hacen que te pintes de cada color.”
+
+Con las sabias palabras de Tita resonando en su corazón, Caco decidió probar. Empezó a observar cuidadosamente sus colores. Se dio cuenta de que el rojo furioso aparecía cuando se sentía frustrado o enfadado, el azul cielo, cuando estaba feliz y despreocupado, y el verde fosforescente… bueno, ese todavía no lo entendía muy bien.
+
+Un día, mientras exploraba una zona pantanosa, Caco se topó con un grupo de ranas que estaban en pánico. Un enorme cocodrilo se acercaba sigilosamente, y las ranas, con sus cuerpos verdes, eran presas fáciles. Caco, al ver el peligro, sintió una oleada de adrenalina… ¡y se puso de un color naranja brillante!
+
+El cocodrilo, sorprendido por ese extraño color, se detuvo en seco. Nunca había visto un animal naranja en la selva. Dudó un momento, confuso, y luego, sin entender qué sucedía, se alejó lentamente, buscando presas más fáciles.
+
+Las ranas, aliviadas, saltaron y rodearon a Caco, agradecidas por su valentía. “¡Gracias, amigo camaleón naranja! ¡Nos has salvado la vida!” exclamaron.
+
+Caco, con su color naranja vibrante, se sintió por primera vez orgulloso de sí mismo. Se dio cuenta de que sus colores, aunque diferentes, podían ser útiles. A partir de ese día, Caco, el camaleón que no podía controlar sus colores, se convirtió en el héroe de la selva.
+
+Cuando se sentía enfadado, los animales sabían que debían darle su espacio; cuando estaba feliz, la selva se llenaba de alegría; y cuando se ponía de un color que nadie entendía, los demás aprendieron a simplemente observar, a sentir curiosidad en vez de burlas.
+
+Caco y Tita se hicieron muy buenos amigos. Caco aprendió a escuchar los consejos de Tita, a entender sus colores y a utilizarlos en beneficio de todos. Un día, Tita, sintiendo que su tiempo en la tierra llegaba a su fin, le dijo a Caco: “La verdadera belleza, Caco, no está en la uniformidad, sino en la diversidad. Tú, con tus colores únicos, has enseñado a la selva la importancia de la aceptación y el valor de la individualidad”.
+
+Caco, con lágrimas de tristeza y gratitud, prometió seguir el ejemplo de Tita. Prometió enseñar a los demás que la verdadera valentía no está en ser igual a los demás, sino en ser fiel a uno mismo.
+
+Y así, Caco, el camaleón que no podía camuflajearse, se convirtió en el camaleón más querido y respetado de la selva. Su arcoíris impredecible se convirtió en símbolo de esperanza y alegría, recordándoles a todos que la aceptación, la amabilidad y la celebración de la individualidad son los verdaderos tesoros de la vida. Y, aunque de vez en cuando se volvía verde fosforescente (¡nadie entendía ese color!), todos en la selva sabían que en ese momento, Caco estaba pensando en algo… ¡muy interesante!
+</body>
+```

@@ -1,0 +1,49 @@
+<prompt>
+Please write a uncomplicated Spanish children's story that is at least 1000 words long.
+It must be completely written in proper Spanish (ES).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La escuela de los animales y sus divertidas lecciones diarias.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>es</lang_id>
+
+```xml
+<title>La escuela de los animales y sus divertidas lecciones diarias.</title>
+<body>
+En un valle verde y soleado, rodeado de montañas imponentes y un río cristalino, se encontraba la Escuela de los Animales. Era una escuela muy especial, donde cada animalito aprendía cosas nuevas y divertidas cada día. La escuela tenía un gran árbol de mango como techo y las paredes estaban pintadas con colores brillantes y alegres.
+
+La directora de la escuela era Doña Leona, una leona sabia y bondadosa, con una melena dorada que brillaba al sol. A ella le encantaba enseñar a los niños y siempre tenía una sonrisa en su rostro.
+
+Entre los estudiantes, había muchos animalitos curiosos y juguetones. Estaba Mateo, el mono travieso, siempre saltando de rama en rama; Sofía, la jirafa alta y elegante, que le gustaba observar las nubes; Tomás, el tigre con sus rayas llamativas y un gran corazón; Lila, la lagartija pequeña y veloz, que exploraba cada rincón; y Pedro, el perezoso, siempre tranquilo y observador. También asistían otros animalitos como el oso Bernardo, el conejo Ramiro, el elefante Emilio y la ardilla Anita.
+
+Cada día, la escuela comenzaba con una canción. Todos los animales se reunían bajo el gran árbol de mango y cantaban una melodía alegre y rítmica. Cantaban sobre el sol, las flores, los amigos y la importancia de ser buenos. Después de la canción, Doña Leona anunciaba las lecciones del día.
+
+La primera lección era Matemáticas. Mateo, siempre inquieto, intentaba contar las hojas del árbol de mango, pero nunca lograba concentrarse. Sofía, con su cuello largo, contaba las nubes en el cielo, aprendiendo sobre formas y números. Tomás, con su astucia, resolvía problemas de sumas y restas con agilidad. Lila, con su rapidez, podía resolver los ejercicios más rápido que nadie. Pedro, con su paciencia, se concentraba en cada problema y aprendía con calma. El oso Bernardo contaba los peces del río, Ramiro contara las zanahorias, y Emilio, usando piedras pequeñas, aprendía a dividir. Anita, por otro lado, usaba nueces para aprender a multiplicar.
+
+Un día, Doña Leona propuso un desafío especial en matemáticas. Debían calcular cuántas frutas se podían cosechar en el huerto escolar. Cada animalito aportó sus conocimientos y trabajaron juntos. Mateo, aunque distraído, logró estimar el número de mangos. Sofía, usando su altura, midió la distancia entre los árboles frutales. Tomás, con su agudeza, calculó la cantidad de plátanos. Lila, observando el tamaño de los frutos, dedujo cuántas manzanas cabrían en una cesta. Pedro, con calma, calculó el tiempo que tardarían en recoger las frutas. Gracias al trabajo en equipo, lograron estimar la cantidad de fruta con bastante precisión.
+
+Después de Matemáticas, venía la hora de Ciencias Naturales. En esta lección, aprendían sobre el mundo que los rodeaba. Un día, Doña Leona les enseñó sobre las diferentes plantas y animales del bosque. Mateo aprendió sobre los árboles y cómo trepar por ellos. Sofía aprendió sobre las hojas y cómo el sol les daba energía. Tomás aprendió sobre los depredadores y cómo protegerse. Lila aprendió sobre los insectos y sus metamorfosis. Pedro aprendió sobre la vida lenta y la importancia de la paciencia. Bernardo estudió las bayas y las hierbas, Ramiro aprendió sobre las verduras, y Emilio estudió las características de los diferentes animales de la sabana. Anita, por su parte, observaba el comportamiento de las ardillas y los diferentes tipos de nueces que comían.
+
+Doña Leona los llevó a explorar el bosque, donde observaron las mariposas volando, las hormigas trabajando y los pájaros cantando. Mateo, con su curiosidad, intentaba atrapar las mariposas, pero se escapaban volando. Sofía observaba la altura de los árboles y el color de las hojas. Tomás aprendió a distinguir las huellas de los animales en el barro. Lila descubrió diferentes tipos de rocas y las estudió minuciosamente. Pedro, con su calma, observaba la naturaleza y aprendía sobre el ciclo de la vida. Bernardo identificaba las plantas comestibles, Ramiro descubría las zanahorias silvestres, y Emilio aprendía a reconocer los sonidos de la selva. Anita, recolectaba diferentes tipos de hojas y aprendía sobre sus formas y texturas.
+
+Luego del recreo, llegaba la clase de Educación Física. ¡Esta era la favorita de muchos! Doña Leona les enseñaba diferentes ejercicios y juegos. Mateo era el rey de los saltos, compitiendo con Ramiro a ver quién podía saltar más lejos. Sofía practicaba yoga y aprendía a mantener el equilibrio. Tomás jugaba a la persecución, demostrando su velocidad y agilidad. Lila era la más rápida en las carreras y los juegos de agilidad. Pedro participaba con calma y disfrutaba de los juegos que requerían menos esfuerzo. Bernardo era fuerte y jugaba con los demás a lanzar troncos, Emilio corría con los demás y se divertía con los juegos en equipo. Anita, con su destreza, corría y subía por las ramas de los árboles con gran facilidad.
+
+Un día, Doña Leona organizó una competencia de habilidades. Había una carrera de obstáculos, un concurso de salto de altura y una competencia de equilibrio. Mateo, con su agilidad, ganó la carrera de obstáculos. Sofía, con su altura, ganó el salto de altura. Lila, con su equilibrio, ganó la competencia de equilibrio. Todos se divertieron y aprendieron a respetar las habilidades de cada uno.
+
+Finalmente, después de Educación Física, venía la clase de Arte. Doña Leona les enseñaba a dibujar, pintar y crear manualidades. Mateo dibujaba plátanos y monos trepando árboles. Sofía pintaba el cielo azul y las nubes blancas. Tomás pintaba su retrato y mostraba sus llamativas rayas. Lila hacía esculturas con arcilla y pintaba lagartijas. Pedro pintaba escenas de la selva y disfrutaba de los colores. Bernardo creaba cuadros con bayas, Ramiro hacía coronas con zanahorias, y Emilio usaba su trompa para pintar grandes cuadros. Anita dibujaba ardillas recogiendo nueces y pintaba los paisajes del bosque con sus colores preferidos.
+
+Un día, Doña Leona propuso crear un mural para decorar la escuela. Cada animalito aportó su creatividad. Mateo dibujó árboles y monos. Sofía pintó el cielo y las nubes. Tomás pintó animales salvajes. Lila dibujó plantas y flores. Pedro pintó un río y un perezoso. Todos trabajaron juntos, combinando sus talentos, y el resultado fue un mural colorido y lleno de vida que decoró la escuela.
+
+Al final del día, después de todas las lecciones y juegos, Doña Leona se reunía con todos los animalitos y les recordaba la importancia de ser buenos amigos, de ayudarse mutuamente y de respetar a los demás.
+
+Un día, la escuela organizó una fiesta para celebrar el final del curso. Todos los animalitos prepararon algo especial. Mateo preparó un delicioso ponche de frutas. Sofía decoró la escuela con flores y guirnaldas. Tomás organizó juegos de persecución. Lila preparó una exhibición de arte con sus mejores obras. Pedro se encargó de la música y los juegos relajantes. Bernardo preparó un festín de bayas y frutas silvestres, Ramiro ofreció una mesa de zanahorias y verduras, y Emilio decoró la fiesta con grandes flores y hojas. Anita recolectó nueces para los invitados y ayudó a organizar los juegos.
+
+La fiesta fue un gran éxito. Hubo risas, bailes, juegos y mucha alegría. Todos los animalitos se divirtieron y celebraron sus logros. Doña Leona, feliz, observaba a sus alumnos y pensaba en lo orgullosa que estaba de ellos.
+
+Así, en la Escuela de los Animales, cada día era una nueva aventura, una nueva lección y una oportunidad para crecer y aprender. Y así, la escuela seguía siendo un lugar lleno de felicidad, donde la amistad y el aprendizaje eran los mejores tesoros. Cada día, los animalitos aprendían que, a pesar de ser diferentes, todos eran importantes y que, juntos, podían lograr grandes cosas. Y, lo más importante, aprendían a disfrutar cada momento, a reír y a ser felices, en esa escuela llena de amor y alegría, en medio del valle verde y soleado.
+</body>
+```

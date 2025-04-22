@@ -1,0 +1,63 @@
+<prompt>
+Please write a timeless Italian children's story that is at least 1000 words long.
+It must be completely written in proper Italian (IT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'L'importanza di condividere e aiutare gli altri che sono meno fortunati.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>it</lang_id>
+
+```xml
+<title>L'importanza di condividere e aiutare gli altri che sono meno fortunati.</title><body>
+
+C'era una volta, in un pittoresco villaggio incastonato tra le colline della Toscana, un bambino di nome Marco. Marco era un ragazzo vivace, con capelli castani e occhi brillanti come le stelle. Amava giocare a calcio, esplorare i boschi e soprattutto, adorava mangiare la pizza, la sua preferita! Ogni sabato, il suo papà lo portava nella migliore pizzeria del paese, "La Stella".
+
+Un giorno, mentre camminava per le strade del villaggio, Marco notò qualcosa di insolito. Un gruppo di bambini, con vestiti sgualciti e visi tristi, stava seduto vicino alla piazza, accanto alla fontana. Non giocavano, non ridevano, non mangiavano. Erano diversi da lui e dai suoi amici, che avevano sempre qualcosa da mangiare, bei vestiti e giocattoli nuovi.
+
+Curioso, Marco si avvicinò timidamente a loro. “Ciao,” disse con voce incerta. “Come mai siete qui?”
+
+I bambini lo guardarono con occhi scuri. Una bambina, con lunghi capelli neri e un vestito rattoppato, si fece avanti. “Non abbiamo nulla,” rispose, con un filo di voce. “Non abbiamo cibo, non abbiamo una casa calda, e nessuno ci aiuta.”
+
+Il cuore di Marco si strinse. Lui aveva così tanto, e loro, apparentemente, niente. Tornò di corsa a casa, il pensiero di quei bambini non lo abbandonava. Raccontò tutto ai suoi genitori.
+
+Il suo papà, un uomo saggio e gentile, lo ascoltò attentamente. "Capisco, Marco," disse. "È importante aiutare gli altri che sono meno fortunati di noi. C'è sempre bisogno di condividere e di dare una mano."
+
+La sua mamma, una donna premurosa e affettuosa, aggiunse: "La felicità non sta solo nell'avere, ma anche nel dare. Essere generosi rende il cuore più leggero."
+
+Quel pomeriggio, Marco, con l'aiuto dei suoi genitori, preparò una grande scatola piena di cose. Dentro c’erano panini farciti con prosciutto e formaggio, frutta fresca, biscotti, un bel giocattolo e alcuni dei suoi vestiti che non usava più. La sera, dopo aver cenato con la sua deliziosa pizza, si diresse di nuovo alla piazza.
+
+I bambini erano ancora lì. Marco, con il cuore in gola, porse loro la scatola. "Ecco," disse, "ho portato qualcosa per voi."
+
+Gli occhi dei bambini si illuminarono di gioia. Iniziarono a dividersi il cibo, a giocare con il giocattolo e a provare i vestiti. La bambina dai capelli neri corse verso Marco e lo abbracciò. “Grazie,” sussurrò. “Grazie mille.”
+
+Quel giorno, Marco scoprì una nuova felicità, una felicità che superava di gran lunga quella che provava mangiando la sua pizza preferita. Vedere la gioia nei volti di quei bambini lo rese immensamente felice.
+
+Nei giorni successivi, Marco continuò a condividere ciò che aveva con i bambini. Li aiutava a fare i compiti, a giocare e a trovare modi per rendere più piacevole la loro giornata. Insieme, organizzarono piccoli lavori per guadagnare un po’ di soldi, come pulire le strade del villaggio e raccogliere la frutta caduta dagli alberi.
+
+Il gruppo di bambini, grazie all'aiuto di Marco e della sua famiglia, cominciò a sentirsi parte integrante della comunità. Il loro aspetto migliorò, i loro vestiti furono rammendati e spesso qualcuno donava loro un piatto caldo. Non erano più soli.
+
+Un giorno, il sindaco del villaggio, venuto a conoscenza della generosità di Marco, organizzò una festa per tutti i bambini. Ci furono giochi, musica, e naturalmente, tanta pizza! Anche i bambini meno fortunati parteciparono con gioia. Ridevano, ballavano e si divertivano come tutti gli altri.
+
+Marco, in quella giornata, si sentì particolarmente fiero di sé stesso e della sua famiglia. Capì che condividere e aiutare gli altri rendeva la vita più bella e significativa. Aveva scoperto il vero significato dell’amicizia, della generosità e della solidarietà.
+
+Con il passare del tempo, il piccolo gruppo di bambini si espanse. Sempre più persone nel villaggio, ispirate dall'esempio di Marco, iniziarono a condividere le loro risorse e il loro tempo. Il panettiere del villaggio offriva pane fresco ogni mattina, la sarta aggiustava i vestiti, la signora che vendeva frutta e verdura donava regolarmente dei cesti.
+
+Il villaggio, un tempo diviso da indifferenza, si trasformò in una comunità unita dalla generosità e dalla compassione. La piazza, prima teatro di tristezza, divenne un luogo di gioia e di speranza. I bambini meno fortunati, grazie alla gentilezza di Marco e degli altri, trovarono un posto sicuro, una famiglia e la possibilità di un futuro migliore.
+
+Un giorno, mentre Marco e i suoi amici giocavano a calcio nel prato, il papà di Marco lo chiamò. "Marco," disse, con un sorriso, "vieni qui. C'è una sorpresa per te."
+
+Marco corse verso il padre. Vide che il sindaco stava consegnando una targa di riconoscimento a suo padre, sua madre e a lui. Sopra c'era scritto: "A Marco, per aver insegnato a tutti noi l'importanza della condivisione e dell'aiuto reciproco."
+
+Marco si sentì gonfio di orgoglio. Non aveva fatto tutto questo per ricevere un premio, ma perché sentiva che era la cosa giusta da fare.
+
+Da quel giorno, la storia di Marco e dei bambini del villaggio divenne una leggenda, tramandata di generazione in generazione. Ogni volta che qualcuno aveva bisogno di aiuto, i cittadini si ricordavano di Marco e della sua generosità. Sapevano che, uniti, potevano superare qualsiasi difficoltà.
+
+La pizzeria "La Stella", nel frattempo, divenne un punto di ritrovo per tutti, un simbolo di amicizia e di comunità. La pizza, naturalmente, continuava a essere deliziosa, ma ora, ogni volta che veniva preparata, si aggiungeva un ingrediente segreto: l'amore.
+
+E così, nel cuore della Toscana, tra colline verdi e cielo blu, il piccolo Marco, con il suo cuore d'oro e la sua passione per la pizza, aveva insegnato al mondo intero l'importanza di condividere e di aiutare gli altri, perché la vera ricchezza sta nell'avere un cuore generoso e la forza di dare. La sua storia continua a ispirare, ricordando a tutti che la felicità non si trova solo in quello che si possiede, ma soprattutto in quello che si condivide. E nel profumo della pizza, nell’amore per il prossimo, e in ogni gesto di gentilezza, si trova l'essenza di una vita degna di essere vissuta. E tutti vissero felici e contenti.
+</body>
+```

@@ -1,0 +1,52 @@
+<prompt>
+Please write a silly Romanian children's story that is at least 1000 words long.
+It must be completely written in proper Romanian (RO).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Grupul de Prieteni și Insula Pierdută'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>ro</lang_id>
+
+<title>Grupul de Prieteni și Insula Pierdută</title><body>
+Era odată, demult, într-un orășel vesel, numit Glumești, un grup de prieteni neobișnuiți. Aveau fiecare câte o trăsătură ciudată, dar se înțelegeau de minune.
+
+Primul era Ionel, un băiat cu părul portocaliu ca o mandarine coapte și care râdea la orice, chiar și la pietre. Al doilea era Maria, o fetiță cu ochelari rotunzi, care vorbea cu animalele și înțelegea limbajul lor secret, adesea traducând în șoaptă ce ciripesc păsările sau ce motăie pisicile. Apoi era Gogu, un băiat gras, pasionat de mâncare, care putea ghici orice gust cu ochii închiși și care plângea cu lacrimi de... limonadă, indiferent de emoție. Și, nu în ultimul rând, era Floarea, o fetiță cu ochi mari și albaștri, care putea zbura… dar numai prin coșul de fum.
+
+Într-o zi, pe când se jucau în parcul din Glumești, au găsit o hartă veche, mototolită și plină de pete de cerneală. Hartă era ascunsă într-o cutie de carton, abandonată sub un copac bătrân. Ionel, cu râsul său molipsitor, era sigur că va fi o comoară. Maria, cu auzul ei fin, auzea cum șoptesc frunzele, spunând că harta duce spre o aventură. Gogu, simțind mirosul hârtiei vechi, visa deja la gustul unor prăjituri găsite pe insula misterioasă. Iar Floarea, cu inima bătând repede, spera să găsească un horn suficient de lat ca să poată zbura direct pe insulă.
+
+Au desfășurat cu grijă harta. Era greu de citit, dar, după multă trudă, au descoperit că indică o insulă pierdută, numită "Insula Ciudățeniilor". Pe hartă erau desenați copaci cu fructe vorbitoare, râuri de ciocolată și munți din vată de zahăr. Au decis imediat că trebuie să meargă acolo!
+
+Problema era cum. Nu aveau nici corabie, nici vapor. Ionel a propus să facă o barcă dintr-un pepene verde uriaș. Maria a vorbit cu un stol de pescăruși, rugându-i să-i ajute. Gogu s-a gândit să facă provizii de mâncare - "pentru drum" - umplând o valiză întreagă cu cornuri cu ciocolată și bomboane. Floarea, evident, s-a concentrat pe găsirea celui mai apropiat coș de fum.
+
+După câteva zile de pregătiri, au pornit la drum. Pepenele verde al lui Ionel era cam instabil, dar Maria a convins pescărușii să îl tragă ușor, prinzându-se de aripile lor. Gogu, cu valiza lui plină de dulciuri, își mânca din provizii pe parcursul drumului, plângând de emoție, dar cu lacrimi de limonadă. Floarea, zburând prin coșurile de fum, le indica direcția.
+
+Călătoria a fost plină de peripeții. Au întâlnit un grup de delfini care cântau la acordeon, un crab cu ochelari de soare care le oferea lecții de dans și o balenă enormă, care le-a oferit ceai fierbinte (din vaporii ei de respirație).
+
+În cele din urmă, după multe zile și nopți, au zărit insula, deși nu era exact cum se așteptau. În loc de munți de vată de zahăr, erau dealuri verzi, acoperite cu pomi fructiferi. Râurile de ciocolată păreau mai mult niște izvoare limpezi și cristaline, care nu curgeau, ci murmurau melodii magice.
+
+Au debarcat pe insulă. Primul lucru pe care l-au văzut a fost un copac uriaș, cu mere care râdeau. Ionel, auzind râsul merelor, a început să râdă și el, într-un hohot asurzitor. Maria a vorbit cu merele, aflând că râdeau de vechile glume. Gogu, ispitit de mirosul fructelor, a gustat din ele și a exclamat: "Au gust de caramel sărat!". Floarea, nerăbdătoare să exploreze, a vrut să zboare, dar, surpriză!, nu era coș de fum pe insulă, așa că a trebuit să meargă pe jos, spre dezamăgirea ei.
+
+Au pornit să exploreze insula. Au întâlnit animale ciudate: girafe care pictau cu picioarele, maimuțe care cântau la pian, broaște țestoase care jucau șah. Au descoperit o casă făcută din turtă dulce, cu acoperiș de bezea și hornuri de acadele. Gogu, cu ochii sclipitori, a început să mănânce din casă, bucată cu bucată. Maria a vorbit cu casa, aflând că era construită special pentru oameni pofticioși.
+
+Seara, s-au adunat în jurul unui foc făcut din bețe de chibrituri magice, care scânteiau cu lumini colorate. Au mâncat mere care râdeau, au băut apă din râurile de ciocolată - deși nu a fost la fel de bun ca ciocola, Gogu a zis - și au ascultat povești spuse de copacii vorbitori.
+
+Au petrecut mai multe zile pe Insula Ciudățeniilor, bucurându-se de fiecare moment. Au învățat să danseze cu girafele, să cânte la pian cu maimuțele și să joace șah cu broaștele țestoase.
+
+Dar, într-o zi, harta a început să strălucească. Maria a descifrat mesajul: "Aventura s-a terminat, acasă trebuie să vă întoarceți!". Au înțeles că timpul lor pe insulă se apropia de sfârșit.
+
+Cu inima grea, au pornit să-și ia rămas bun de la prieteni din Insula Ciudățeniilor. Au promis că vor reveni! Floarea a fost puțin dezamăgită că nu a putut zbura prin coșuri de fum, dar se obișnuise cu mersul pe jos și, de fapt, îi plăcea să descopere insula pe picioarele ei.
+
+Apoi, a apărut o nouă problemă: cum să se întoarcă acasă? Pepenele lui Ionel se stricase complet. Pescărușii erau obosiți. Gogu mâncase toată mâncarea.
+
+Dintr-o dată, copacii au început să scoată sclipiri colorate. Au format un pod de lumină, un curcubeu solid, care se întindea până la Glumești. Pescărușii i-au împins pe copii pe acest pod magic.
+
+Au traversat curcubeul, zâmbind și fluturând spre Insula Ciudățeniilor. Când au ajuns în Glumești, totul părea la fel, dar ei fuseseră schimbați pentru totdeauna.
+
+S-au întors acasă, cu amintiri minunate și cu promisiunea de a se revedea curând. Ionel, acum, râdea de tot, dar era un râs mai profund, mai plin de înțelegere. Maria înțelegea și mai bine limbajul animalelor. Gogu, cu zâmbetul său dulce, își amintea de gusturile incredibile ale insulei. Iar Floarea, chiar dacă încă nu putea zbura prin coșuri (nu existau coșuri de fum pe insulă), a învățat ce înseamnă prietenia adevărată și aventura.
+
+Și, astfel, aventurile grupului de prieteni din Glumești au continuat, mai ciudate și mai amuzante ca niciodată, căci știau că, oriunde ar merge, magia era întotdeauna alături de ei. Până la urmă, asta înseamnă o prietenie adevărată, nu-i așa?
+</body>

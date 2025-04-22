@@ -1,0 +1,46 @@
+<prompt>
+Please write a educational Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Yovuz Jinni Qal'alari va Sehrli Dushmonlar'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>uz</lang_id>
+
+<title>Yovuz Jinni Qal'alari va Sehrli Dushmonlar</title><body>
+Bir zamonda, olis-olis yurtda, O‘zbekiston degan go‘zal bir diyorda, bolakay Javohir yashardi. Javohir juda ham zukko va mehnatkash bola edi. U matematika fanini juda yaxshi ko‘rardi va sonlar bilan o‘ynashni xush ko‘rardi. Uning ota-onasi ham uni qo‘llab-quvvatlashar, unga turli-tuman masalalarni yechishga yordam berishardi.
+
+Ammo, bu yurtda yovuz Jinni ham yashardi. Uning nomi Qora Qaldirg‘och edi. Qora Qaldirg‘och qorong‘ilikni yaxshi ko‘radi, mehnatkash bolalarni yoqtirmasdi. U bolalarning quvonchini o‘g‘irlashni va ularni g‘amga botirishni istardi. Uning qal’alari qorong‘u o‘rmonlarning ichida joylashgan bo‘lib, har bir qal’ada turli xil sehrli dushmonlar uni qo‘riqlashardi.
+
+Bir kuni, Javohir bog‘da sayr qilib yurganida, katta bir kitobni topib oldi. Kitobning muqovasida “Sehrli masalalar” deb yozilgan edi. Kitobni ochdi va ichida juda qiziq masalalar yozilganini ko‘rdi. Har bir masalaning yechimi uni Qora Qaldirg‘ochning qal’alariga yaqinlashtirardi.
+
+Birinchi masalada shunday deb yozilgan edi: "Agar siz birinchi qavatda 3 ta olma, ikkinchi qavatda 5 ta olma va uchinchi qavatda 7 ta olma topsangiz, jami nechta olma bo‘ladi?" Javohir bosh qotirib o‘tirmadi. Tezda hisobladi: 3+5+7=15. Javohir masalani yechdi va uning oldida kichkina eshik ochildi. Eshikdan o‘tib, u birinchi qal’aga yetib bordi.
+
+Birinchi qal’ada unga Qora Qaldirg‘ochning birinchi dushmani – Raqamchi qo‘rqinchli odam kutib oldi. Raqamchining tana a’zolari har xil sonlardan iborat edi. U Javohirga qarab dedi: "Agar meni yenga olsang, seni keyingi qadamga qo‘yaman!" Raqamchi unga murakkab bir masala berdi: "Menda 10 ta baliq bor edi. 3 tasini mushuk yeb qo‘ydi, 2 tasini it yeb qo‘ydi. Qancha baliq qoldi?" Javohir bu masalani ham tezda yechdi: 10-3-2=5. Raqamchi g‘azablandi va qorong‘u tutun ichida g‘oyib bo‘ldi. Javohir esa ikkinchi masalaga yetib keldi.
+
+Ikkinchi masala shunday edi: "Agar siz 20 ta qalamni 4 ta bolaga teng taqsimlasangiz, har bir bolaga nechta qalam tegadi?" Javohirning fikrlash qobiliyati ajoyib edi. U darrov hisoblab, 20/4=5 ekanini topdi. U masalani yechdi va ikkinchi eshik ochildi. U ikkinchi qal’aga yetib bordi.
+
+Ikkinchi qal’ada uni Geometchi, g‘aroyib shakllardan iborat bo‘lgan odam kutib oldi. Uning boshi uchburchak, qo‘llari kvadrat, oyoqlari esa doira edi. Geometchi Javohirga masal berdi: "Agar siz kvadratning perimetrini topmoqchi bo‘lsangiz, uning tomoni 4 sm bo‘lsa, nima qilishingiz kerak?" Javohir javob berdi: "Kvadratning perimetrini topish uchun uning tomonini to‘rtga ko‘paytirish kerak. Demak, 4 sm * 4 = 16 sm." Geometchi hayratda qoldi va g‘oyib bo‘ldi. Uchinchi masalaga navbat keldi.
+
+Uchinchi masala: "Agar siz bir soatda 60 km tezlik bilan harakatlanadigan mashinada 3 soat yursangiz, qancha masofani bosib o‘tasiz?" Javohir bu masalani ham juda tez yechdi. U tezlikni vaqtga ko‘paytirdi: 60 km/soat * 3 soat = 180 km. Uchinchi eshik ochildi va u uchinchi qal’aga kirdi.
+
+Uchinchi qal’ada unga Oddiyjon, faqat oddiy sonlardan iborat bo‘lgan odam kutib oldi. U Javohirga dedi: "Agar sen oddiy son nima ekanini bilmasang, meni yenga olmaysan!" Javohir bilardi, oddiy sonlar faqat birga va o‘ziga bo‘linadigan sonlardir. U Oddiyjonga dedi: "Masalan, 2, 3, 5, 7, 11 kabi sonlar oddiy hisoblanadi." Oddiyjon juda hayron qoldi. U o‘zining qobiliyatisiz g‘oyib bo‘ldi. Javohir keyingi masalaga qadam tashladi.
+
+To‘rtinchi masala: "Agar sizda 12 ta konfet bo‘lsa va siz ularni uch bolaga teng taqsimlamoqchi bo‘lsangiz, har bir bolaga nechta konfet tegadi?" Javohir yana tezda hisobladi: 12/3=4. U masalani yechdi va to‘rtinchi eshik ochildi. Javohir oxirgi, to‘rtinchi qal’aga yetib bordi.
+
+To‘rtinchi qal’ada uni Amalchi, to‘rt amalni yaxshi biladigan odam kutib oldi. Amalchining qo‘llari qo‘shish, ayirish, ko‘paytirish va bo‘lish belgilaridan iborat edi. Amalchi Javohirga dedi: "Agar siz to‘rt amalni yaxshi bilmasangiz, Qora Qaldirg‘ochni yenga olmaysiz!" Amalchi unga qiyin masala berdi: "Agar siz 10+5*2-4/2 qanday yechiladi?" Javohir juda sinchkovlik bilan masalani yechdi. U avval ko‘paytirish va bo‘lish amallarini bajardi, so‘ngra qo‘shish va ayirishni: 10+10-2=18. Amalchi g‘azablandi va g‘oyib bo‘ldi.
+
+Endi Javohir Qora Qaldirg‘ochning qasriga yetib keldi. Qasrning o‘rtasida, katta, qorong‘u xonada Qora Qaldirg‘och o‘tirardi. U Javohirga dedi: "Seni yenga olaman deb o‘ylaysanmi? Men juda kuchli sehrgarman!" Javohir qo‘rqmadi. U Qora Qaldirg‘ochga qaradi va dedi: "Men matematika va mantiqning kuchi bilan seni yengaman!"
+
+Qora Qaldirg‘och yana bir masala berdi: "Agar sizda 2 ta soat bor bo‘lsa va birinchisi soatiga 5 daqiqa ortda qolsa, ikkinchisi soatiga 3 daqiqa oldinga ketsa, bir kundan keyin ular orasidagi farq qancha bo‘ladi?" Javohir darrov hisobladi: bir kunda 24 soat bor, shuning uchun 5 * 24 = 120 daqiqa ortda, va 3 * 24 = 72 daqiqa oldinda. Umuman farq 120 + 72 = 192 daqiqa, ya’ni 3 soat 12 daqiqa. Javohir javob berdi. Qora Qaldirg‘ochning kuchi susay boshladi.
+
+Keyingi masala shunday edi: "Agar sizda 60 ta meva bor bo‘lsa, ularning 1/3 qismini olmaga, 1/4 qismini nokka, qolgan qismini esa olchaga ajratsangiz, qancha olcha bo‘ladi?" Javohir yana tezda hisobladi. 60/3 = 20 olma, 60/4 = 15 nok, jami 20 + 15 = 35 meva. Qolgan mevalar 60 - 35 = 25 olcha. Javohir javob berdi. Qora Qaldirg‘och yana zaiflashdi.
+
+Oxirgi masala: "Agar siz ikki sonning yig‘indisi 10 ga teng bo‘lsa va ularning ko‘paytmasi 21 ga teng bo‘lsa, bu sonlar qaysilar?" Javohir bosh qotirib o‘tirmadi, oson yo‘lini topdi. 7 + 3 = 10, va 7 * 3 = 21. Javohir masalani yechdi. Shu zahoti Qora Qaldirg‘ochning qal’asi yorqin nurga to‘ldi. Qora Qaldirg‘ochning sehrli kuchlari yo‘qoldi, u kichkina qorong‘u patga aylandi va g‘oyib bo‘ldi. Javohir qutqardi.
+
+Javohir qahramon bo‘ldi. Qal’alar vayron bo‘ldi, qorong‘ulik yo‘qoldi, butun yurtga nur tarqaldi. Barcha bolalar matematika va o‘qishga intildi. Ular masalalarni yechishni va bilim olishni juda yaxshi ko‘rishdi. Javohir esa kitobini olib, uyiga qaytdi. U tushundi: bilim va mehnat bilan har qanday yovuzlikni yengish mumkin! U yashab, yaxshi amallar qilishni davom etdi. Yurtda tinchlik va osoyishtalik hukm surdi. Va hamisha matematika va bilim yorug‘ligida davom etdi.
+</body>

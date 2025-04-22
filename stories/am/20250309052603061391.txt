@@ -1,0 +1,22 @@
+<prompt>
+Please write a silly Amharic children's story that is at least 1000 words long.
+It must be completely written in proper Amharic (AM).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'የቀበሮ ልጅ እና የቀንድ እንስሳት ጉዞ'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>am</lang_id>
+
+<title>የቀበሮ ልጅ እና የቀንድ እንስሳት ጉዞ</title>
+<body>
+እንደ ብዙ ጊዜ አንድ ቀበሮ ልጅ ነበረ። ስምን አለም እንደሚባል የቀበሮ ልጅ ስም ነበረው። እናቱ እንደ ብዙ እንስሳት ነበረች። እናቱ ስም አለም ነበረ። አለም እና ስምን አለም እንደ ብዙ እንስሳት ኖሩ። አለም እና ስምን አለም በአንድ ቤት ኖሩ። ቤታቸው በአንድ ወንዝ ጫፍ ነበረ። ወንዙ ስም ወንዝ ነበረ። ወንዝ በአንድ አደባባይ ነበረ። አደባባዩ ስም አደባባይ ነበረ። አደባባዩ በአንድ ተራራ ጫፍ ነበረ። ተራራው ስም ተራራ ነበረ።
+
+አለም እና ስምን አለም በአንድ ቀን እንደ ብዙ እንስሳት ኖሩ። ስምን አለም አለምን ጠየቀ። "እናት አለም እንዴት ነው?" አለም ስምን አለምን መለሰ። "ልጄ ስምን አለም እንዴት ነው?" ስምን አለም አለምን መለሰ። "እናት አለም እንዴት ነው?" አለም ስምን አለምን መለሰ። "ልጄ ስምን አለም እንዴት ነው? እኔ ለአንተ እንዴት ነው?" ስምን አለም አለምን መለሰ። "እናት አለም እኔ ለአንተ እንዴት ነው?"
+
+አለም እና ስምን አለም በአንድ ቀን እንደ ብዙ እንስሳት ኖሩ። ስምን አለም አለምን ጠየቀ። "እናት አለም ምንድን ነው እንዴት ነው?" አለም ስምን አለምን መለሰ። "ልጄ ስምን አለም ምንድን ነው እንዴት ነው? እኔ ለአንተ ምንድን ነው እንዴት ነው?" ስምን አለም አለምን መለሰ። "እናት አለም ምንድን ነው እኔ ለአንተ ምንድን ነው?"
+
+አለም እና ስምን አለም በአንድ ቀን እንደ ብዙ እንስሳት ኖሩ። ስምን አለም አለምን ጠየቀ። "እናት አለም ምንድን ነው እንዴት ነው? እኔ ለአንተ ምንድን ነው እንዴት ነው?" አለም ስምን አለምን መለሰ። "ልጄ ስምን አለም ምንድን ነው እንዴት

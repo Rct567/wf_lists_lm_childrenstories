@@ -1,0 +1,37 @@
+<prompt>
+Please write a educational Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Tog' Cho'qqisida: Jasoratlarning Ko'rinishi va Sirlari'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>uz</lang_id>
+
+<title>Tog' Cho'qqisida: Jasoratlarning Ko'rinishi va Sirlari</title>
+<body>Uzoq-uzoq vaqtlar avval, O'zbekistonning tog'li hududlaridan birida kichkina bir qishloq bo'lib, u yerda bir guruh bolalar yashar edi. Ular o'zlarining yaqin atroflaridagi tabiat go'zalligini va sirli joylarni bilishga juda qiziqar edi. Ularning orasida eng jasur va qiziquvchan bolalardan biri Husan edi. U doim o'zining eng yaxshi do'stlari - Ali, Dilorom va Jamshid bilan birga tog' cho'qqilarini ko'zlab chiqardi.
+
+Bir kun, ular o'zlarining eng katta sarguzashtlaridan birini boshlashga qaror qilishdi. Ular qishloqdan uzoqda, tog' cho'qqisida joylashgan sirli guvohga borishni rejalashtirishdi. Guvoh haqida ko'p ishlar eshitilgan, ammo hech kim u yerga borib qaytmagan edi. Husan va uning do'stlari bu sirni ochishga qaror qilishdi.
+
+Erta tongda, ular o'zlarining sayohatlariga chiqishdi. Tog' yo'llari qiyin va loyqa edi, ammo ular taslim bo'lishmadi. Ularning yelkasida katta sumkalar bor edi, unda ularning uchun kerakli narsalar: suv, non, meva va boshqa ozuqalar bor edi. Tog'ning balandligi ortib borar ekan, havo soviydi, lekin ular qat'iy qarorli edilar.
+
+Kun o'tar ekan, ular ko'p marotaba tohtashdi, dam olishdi va o'zlarining atroflarini kuzatishdi. Tog'ning yuqori qismida ular turli xil hayvonlarni uchratishdi: tog' echkilarini, qoplonlarni va turli xil qushlarni. Har bir uchrashuv ularni yanada qiziqardi va ularni o'z maqsadlariga yaqinlashtirardi.
+
+Kechqurun, ular guvohga yetib borishdi. Guvoh juda katta va baland edi, uning atrofi sirli o'rmon bilan o'ralgan edi. Husan va uning do'stlari guvohning oldiga borib, u yerda katta tosh plitalar bor ekanini ko'rdilar. Ular bu toshlarning ustida turli xil belgilarni topdilar, ular qadimiy tilida yozilgan edi.
+
+Dilorom, ularning ichidan eng bilimli qizi, bu belgilar haqida bilimi bor edi. U ularni o'qidi va Husan va boshqalarga tarjima qildi. Belgilar tog'ning sirini ochib berdi. Ular bilib, bu tog' qadimda muqaddas joy bo'lgan, unda qadimiy odamlar ibodat qilishgan va tabiatga sig'inishgan.
+
+Husan va uning do'stlari bu sirni ochgani uchun juda faxrlanishdi. Ular qishloqqa qaytib, o'zlarining kashfiyotlari haqida boshqalarga aytishdi. Qishloq aholisi ularning jasoratiga hayran bo'lishdi va ularni qahramonlar deb atashdi.
+
+O'shandan so'ng, Husan va uning do'stlari qishloqning eng mashhur bolalari bo'lishdi. Ular o'zlarining sarguzashtlari haqida hikoya qilishdi va boshqalarga ilhom berishdi. Ularning kashfiyoti qishloq aholisini tog'lar sirini ochishga undadi va qishloq aholisi o'zlarining atroflarini yaxshiroq bilishdi.
+
+Husan va uning do'stlari keyingi yillar davomida ko'p sarguzashtlar qilishdi, ammo guvohdagi kashfiyot ularning eng buyuk jasorati bo'lib qoldi. Ular o'zlarining bolalikdagi sarguzashtlari haqida eslaganida, ularning yuraklari tobora kengayib, ularning ruhlari tobora yorug'lashdi.
+
+Va shunday bo'ldi, Husan va uning do'stlari o'zlarining kashfiyotlari va sarguzashtlari orqali qishloq aholisini birlashtirishdi va ularning atroflarini yaxshiroq bilishdi. Ular o'zlarining jasorati va qat'iyatliligini namuna qilib, boshqalarga ham sarguzashtlarga chiqishga va yangi kashfiyotlar qilishga ilhom berishdi.
+
+Yillar o'tdi, Husan va uning do'stlari katta bo'lishdi, boshqa joylarga ketishdi, lekin ular o'zlarining bolalikdagi sarguzashtlari haqida hech qachon unutmadilar. Ular o'zlarining kashfiyotlari va sarguzashtlari haqida hikoya qilishdi va boshqalarga ilhom berishdi. Va shunday bo'ldi, ularning hikoyalari avlodlardan avlodlarga o'tdi va qishloq aholisi ularning jasorati va qat'iyatliligini hech qachon unutmadilar.
+
+Qishloq aholisi Husan va uning do'stlarining kashfiyotlari haqida eslaganida, ularning yuraklari tobora kengayib, ularning ruhlari tobora yorug'lashdi. Ular o'zlarining atroflarini yaxshiroq bilishdi va ularning atrofidagi dunyoni yaxshiroq tushunishdi. Va shunday bo'ldi, Husan va uning do'stlari o'zlarining kashfiyotlari va sarguzashtlari orqali qishloq aholisini abadiy birlashtirdilar.</body>

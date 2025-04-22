@@ -1,0 +1,39 @@
+<prompt>
+Please write a uncomplicated Estonian children's story that is at least 1000 words long.
+It must be completely written in proper Estonian (ET).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Saladused ja SEQ seikluslikud küllad'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>et</lang_id>
+
+<title>Saladused ja SEQ seikluslikud küllad</title>
+<body>
+Kaarel oli väike küülik, kellel olid hiilgavad roosad kõrvad ja õrnad, valgekarvalised käpad. Ta elas SEQ-seiklusliku küla serval, kus kõik majade katused olid erinevat värvi ja kõik teed viisid lummavate seiklustega täis paikadesse. Kaarel armastas oma küla ja oli põnevusega täis, kuuldes lugu, et küla pealtvaatajate seas oli imelised saladused peidus.
+
+Ühel päeval, kui Kaarel sööstsid kauni päikesepaistelise muru peal, kuulis ta kahvatuid, hammustatud sõnu, mis lendasid õhku. "Saladused… SEQ… peidus… teel…" ütles vaikne hääl.  Kaarel tõstis kohe oma peenet pea ja märkas kõrbes rändavat väikest oravat, kellel oli karv nagu kuld.  Orvab oli üsna kurb ja silmad olid täis leina.
+
+"Mida sa otsid?" küsis Kaarel, oma häälega lausa vilistavalt.
+
+"Ma otsim, mida hävitav torm on viinud, ja seda hävitava jõu järjekorra." Vastas orav kurvalt. "Seal on iidsed saladused, mis on seotud SEQ-seiklusliku külaga. Ma kuulnud, et need saladused on kuhjunud kahtlusele mõeldud koju, kreeklaste häärberisse."
+
+Kaarel tundis pealtvaatajatest sügavamat empaatiat. Ta otsustas aidata, ka kui ise ta seda ei näginud.
+
+"Ma aidan sind!" hüüdis ta. Ja ilma kahtlust, Kaarel jujatas orava poole, nad tormasid ja ronisid mägedesse, täis põõsaid, mis kõlavad justkui muinasjutulised olid. Kui nad ronimised viimaks olid lõpule saanud, läbisid nad pimeduse ja nägid enne oma silmade ees - koju, mis oli lausa hämmastav ja uskumatult ilus.
+
+"See peab olema see koht!" ütles orav ja puudutas kreeka stiilis treppide ja vihmavarjutest kroonitud ja kivisest ehitusest.
+
+Nüüd astus Kaarel ettevaatlikult ette, et uurida. Kivid olid kohastatud nii kaua aega, et nägid lihtsalt looduse liikumist, nagu olid neile sünnijärgsed. Seal sees asus hiiglaslik raamat, mille leheküljed olid kaetud kummaliste sümbolitega, mis pisaradesse segunesid Kaareli silmadesse. Orrav õhutas: "Just sellesse kohtadesse on nad maasse istutatud."
+
+Raamatus olevad saladused kõnelesid SEQ seikluslikest külgetõmbejõududest, kummalistest loodustest ja pealtvaatajatest, millelt meenutab teadmist igavesti. Kaarel uuris lehti, ta silmitses pühendunult igat detailini, pannes sümbolid ja kaardistamine. Tema suur tarkus hakkas aeglaselt kaardil valgele nägu lööma, järjepidevalt ehitades üles iga detail.
+
+Kaarel ja orav koos kirjutasid salajase päeva ja öö salapärased kohad ja iidsed traditsioonid üles; nad püüdsid määrata järjekorra SEQ-seiklusliku küla salajasest käibest. See olid tühjaks muutnud saladuste lehed, mis oli vajanud suurt vaimset rõõmu ja olemuslikku järjepidevust. See leidmine, ja kahe küüliku ustav abijõud, andis uusi jõude SEQ-seikluslikku külla ja õpetas neile uusi seikluslikke viise.
+
+Orrav läks oma järgmistele seiklustele ja järeldusele, ja Kaarel läks oma tegevuste juurde. SEQ küla täitis kaunist laulu ja koksutas kahe toore seikluse ja põnevuse täitumise täist jõulupüha.
+
+Kaarel ja orav suundusid tagasi oma elavate küladele ja kaubad käivitati, rongi teedetest rabelevate, elavate rääkimise ja looduse käimise eest täis. Jätkati nende tegusi ning salaseiklust oli edaspidi tunda. Ja järelikult ei pea neid küsimusi ennast taga kiitma! Nende südametest leitud tarkus ja saladused läbistasid igaviku!
+</body>

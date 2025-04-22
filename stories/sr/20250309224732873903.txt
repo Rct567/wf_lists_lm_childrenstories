@@ -1,0 +1,35 @@
+<prompt>
+Please write a simple and easy-to-follow Serbian children's story that is at least 1000 words long.
+It must be completely written in proper Serbian (SR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Dječaci i devojčice iz zemlje slatkiša'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sr</lang_id>
+
+<title>Dječaci i devojčice iz zemlje slatkiša</title>
+<body>
+Živeli su jednom, u dalekoj zemlji, među oblacima predivnih, šarenih bombona, dječaci i devojčice iz zemlje Slatkiša.  Njihova kućica nisu bile od cigle ili kamena, već od najukusnijih, najprivlačnijih kolačića!  Krov im je bio prekriven šarenim, slatkim čokoladama, a prozori su blistali kao kristalni bomboni.
+
+Mali Miša, sa kovrdžavom kosom boje karamele, voleo je da skuplja kristalne čaure od slatkih oraščića.  Svake zore, on bi istrčao iz svog kolačića doma, sa šarenom torbom i osmehom do ušiju, spremnim za novo otkriće.  I pored svoje čokolade kose, Miša je bio veoma pametan i pažljiv.  Nikada nije jeo bombon bez da ga prethodno prouči i otkrije njegovu tajnu.  Verujte da je u slatkim čokoladama video pravu priču o odvažnim čudovištima slatkih zvezda i o njihovim divnim avanturama.
+
+Lena, devojčica sa plavim očima kao veštački kristalni bomboni, bila je uvek okružena mješavinom ukusnih začina i ruževih bombonijera.  Lena je imala izuzetan osećaj za čari i leptuhovih krila; svaka novina i svaka slatka kapija vode je do nove anegdote.  Od ranog jutra ona bi pravila izuzetne slatkiše sa cvećem, ukrasnim kolačima koji su ispunjavali celu kuću.  Kada bi se Miša vraćao sa šetnje, pronalazio bi Lenine remek-dela, oslikane bojama zvezdane prašine i posipane srebrnom glazurom.
+
+Jednog sunčanog dana, dok je Miša istraživao čarobnu šumu od kokosa i čokoladnih listova, naišao je na zapanjujuće slatko čudovište.  Čudovište je imalo telo od karanfila i oči od ljubičastih bombonija, a iz vazduha su se letele cvećke. Njegove priče bile su neverovatne, a oči od bombona sijale su od divnog svetlosti.
+
+Miša ga je pažljivo ispitao i saznao da je to Žan, čudovište koje se skriva u gustinama kokosa i jagoda.  Čudovište je objasnilo da u zemlji slatkiša postoji legenda o nestalom prekrasnom bombonu. Legenda govori o tome kako je jedan divan, prefinjen bombona, napravljen od ukusnih jagoda i voštane čokoladne magle, misteriozno nestao.   Mnogi su pokušali da ga nađu, ali nisu uspeli.  Žan je rekao Miši da se plaši da će nestali bombona uništiti celokupnu ravnotežu zemlje slatkiša.
+
+Miša i Lena, čuvši za Žanovu zabrinutost, odlučili su da potraže nestali bombona.  Krenuli su u avanturu, prelazeći preko reka od rastopljenog čokolade, penjući se po drveću od dragulja i vožnje biciklima od slatkog krema.  U svakom mesecu bili su znatiželjni da saznaju tajnu nestalog bombona.
+
+Kroz istraživanja, nailazili su na mnoštvo drugih slatkih stvorenja. Sreli su ptičicu koja peva pesme od kristalnih bombona, zečeva iz gustiša od kokosovog mleka i čudesne gušteri koji su razumeli jezik čokolade.
+
+Pratile su ih njihove male lutke od bombona, koje bi šišljale, šaputale tajne i činile da njihovo putovanje bude još zabavnije.  Putovali su na duge staze, prelazeći hiljadu šarenih zvezdica, na svakom putovanju idući dalje u traženju tajni.
+
+Na kraju, posle dugog i uzbudljivog putovanja,  Miša i Lena su pronašli nestali bombona.  Bio je skriven na vrhu čudesne, raspoznajljive slatke cvetne bašte, sjajeći se i ispunjavajući sve oko sebe fantastičnim čarima.  U tom trenutku se ispunilo nekoliko želja i stvari su se promenile za sto i jedan razlog.  Kada je čudovište Žan video nestali bombona, opet je počeo da emituje sve čarobne svetlosne zrake.   Sve oko njih je cvetalo u živopisan raspored i mirisalo je kao milion cvjetova i bombona.
+
+Obradovani Žan, vratio je radosno balans u zemlju slatkiša, i Miša i Lena, kao odvažni i pametni istraživači, postali su veliki heroji.   Onda je sve, što se dalje dešavalo,  ispunjeno mirisom sreće i slatkoće.   I od tog dana, zemlja slatkiša je blistala svetlijom, kao uvek i  i ispunila se muzikom čestitki i osmeha.
+</body>

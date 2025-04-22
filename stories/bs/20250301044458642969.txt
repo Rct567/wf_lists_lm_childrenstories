@@ -1,0 +1,35 @@
+<prompt>
+Please write a funny Bosnian children's story that is at least 1000 words long.
+It must be completely written in proper Bosnian (BS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Mala sova koja je učila ljude smijati se'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>bs</lang_id>
+
+<title>Mala sova koja je učila ljude smijati se</title>
+<body>
+Mala sova, Pepeljuga, nije bila kao ostale sove.  Dok su njene sestre i braća tiho lebdjeli noćnim nebom, šapatom međusobno razmjenjivali tajne, Pepeljuga je voljela smijeh.  Njena mala, okrupljena glava često bi se trzala od smijeha, čak i kad je samo promatrala oblake koji su plutali poput vunastih pahuljica.  Njene sestre su joj zbog toga šaputale iza leđa – "smiješna Pepeljuga," "budala sova," – ali ona ih nije slušala.  Ona je osjećala radost u svakom smiješku, svakom cvrčkovom cvrčkanju, svakom laganom povjetarcu.
+
+Pepeljuga je, po svom iskustvu, odlučila da su ljudi previše ozbiljni.  Ljudi su, izgledalo je, bili zaokupljeni brojevima na svojim ekranima, brigama o novcu, i pitanjem hoće li sutra biti sunce. Nikada nisu zvučali zabavno.  Njen smijeh, dubok i mek kao zvjezdano nebo, izniknuo bi noću nad mjesečevim sjajem.
+
+Odlučila je, uz poticaj i hrabrost u srcu (i u perju, naravno!), naučiti ljude smijati se.  Prvog dana, ispod gustih grana stabla lijeske, ispričala je priču o mišu koji je pokušavao sletjeti na cvijet koristeći štrapac od krastavca. Ljudi su je čudno gledali.  Neki su ih čak počeli zvati “smeće od životinja!” ili “glupe lešinare.”
+
+Pepeljuga se nije obeshrabrila.  Druge noći, nacrtala je ogromnu sliku smiješnog kornjaša koji nosi šešir od luka na ogromnom krovu crkvenog tornja.  Ljudi su se skupljali, gledajući njezine ilustracije, a onda – opet – samo malo namrštili. “Glupost!”, rekao je jedan stari čovjek, trznuvši obrvu.
+
+"A možda glupost i jest smijeh?", pomislila je Pepeljuga. "Treba pronaći pravi način."  Na to je uzela najljepši svjetlucavi kamen s obronka planine, izbrusala ga s ogromnom, malom brzinom i stavila na svaki smiješan i originalni nacrt.
+
+Tako je započela svoju dušu avanturu.  Nacrtala je zbunjenog slona koji nosi kante, zečeve koji su igrali fudbal, i konja koji igra klavir – s velikim osmijehom. Ljudi su počeli nehotice da se smiju. Nije im se odmah sviđao crni crtež, ali crvene tačke se počele širiti preko cijelog crteža. Počele su male zvučati, pa sve snažnije, sve jasnije. Uskoro se uokolo Pepeljgu okupljalo sve više ljudi, koji su s njom pričali, koji su joj razmijenjivali viceve.  Počeli su da se smiju, jer Pepeljuga se zaista trudila, uvijek.
+
+Jedan dan, mali dječak je nacrtao smiješnu sliku sjevnula koji svira gitare na nebesima. Smijeh se proširiio kroz selo.  Starija žena se nasmijala tako da su joj se oči zacaklile poput dragulja. Mladi čovjek, koji je već cijeli život žalio za propuštenim šansom, našao je humor u svojim iskustvima. Ljudi su, odjednom, postajali prepunijim smijeha i nade.
+
+Ali,  Pepeljuga nije odustajala. Upozorila je ljude, ispričavala joj se, objašnjavala, da im pomogne. Učenici škole su crtali smiješne životinje koje trče, igraju i jedu smiješnu hranu. Pripremala je svakakve zabave: lutkarske predstave u selu su iznenada počele primati nagrade! Pepeljuga se počela izražavati i kroz glazbu.
+
+Njen smijeh se rasprostirao po cijelom svijetu, prepun zvijezda, radosti i obilja, dok se svijet, s uzbuđenjem, počeo smijati.  Njene sove sestre se, oduševljene i zbunjene ovom novootkrivenom snagom smijeha, pridružile.
+
+Tako je mala sova Pepeljuga učila ljude da smijeh nije glupost, već magija koja ih spaja, čini ih otpornijima i sretnijima. Naučila ih je cijeniti čak i gluposti u životu.   Sve je postalo vedrije, veselije i ljepše – prekriveno cvijećem i smijehom.
+</body>

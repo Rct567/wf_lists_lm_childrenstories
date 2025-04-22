@@ -1,0 +1,59 @@
+<prompt>
+Please write a simple and easy-to-follow Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Šípková růženka a její krásné snění'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>cs</lang_id>
+
+```xml
+<title>Šípková růženka a její krásné snění</title>
+<body>
+Bylo jednou jedno království, kde žili hodný král a hodná královna. Měli velké království, spoustu poddaných a všechny druhy pokladů, ale byli velmi smutní. Chtěli mít dítě, malé děťátko, se kterým by sdíleli radost. Každý den se modlili k nebesům, aby jim darovaly miminko. A jednoho dne se jejich přání splnilo. Královna otěhotněla!
+
+Celé království se radovalo a očekávalo narození princezny. Když se princezna konečně narodila, byla krásná jako sluníčko. Její kadeře byly zlaté jako pšenice a oči modré jako nebe. Dostala jméno Růženka, podle krásné růže.
+
+Král a královna uspořádali velkou oslavu narození. Pozvali všechny, které znali, včetně dvanácti hodných víl, aby Růžence požehnaly. Víly měly dát Růžence dary štěstí, krásy, moudrosti a radosti.
+
+První víla se sklonila nad kolébkou a řekla: "Růženko, přeji ti, aby jsi byla nejkrásnější dívka na světě!"
+
+Druhá víla povídala: "Růženko, přeji ti, aby jsi měla dobré srdce a laskavý úsměv!"
+
+Třetí víla se usmála a pravila: "Růženko, přeji ti, aby jsi byla moudrá a bystrá!"
+
+Čtvrtá víla dodala: "Růženko, přeji ti, aby jsi byla vždy šťastná!"
+
+A tak pokračovaly všechny víly, dávajíc Růžence krásné dary. Poslední, dvanáctá víla, se chystala darovat svůj dar, když se z ničeho nic objevila zlá čarodějnice, která vpadla do sálu. Zapomněli ji pozvat, protože žila daleko v temném lese a byla známá svou zlobou.
+
+Zlá čarodějnice, rozzuřená, že ji vynechali, se strašně zasmála a pravila: "Váš dar pro ni bude, že až jí bude patnáct let, píchne se o vřeteno a zemře!"
+
+Všichni se zděsili. Král a královna byli zdrceni.
+
+Štěstí ale nemohlo opustit Růženku. Ještě ne darovala svůj dar dvanáctá víla. Ta se sice nemohla vrátit zlý dar, ale mohla jej zmírnit. Povídala: "Nebude umírat, ale usne hlubokým spánkem na sto let!"
+
+Král se strašně polekal. Zpráva o kletbě se rozšířila královstvím. Ihned nařídil, aby se z království odstranila všechna vřetena, aby se Růženka nikdy nemohla zranit. Všechna vřetena byla pečlivě zamknuta a střežena.
+
+Růženka rostla a dospívala, aniž by se cokoli stalo. Byla krásná, chytrá a milá. Měla ráda procházky po zahradě a hrála si s dětmi. Jednoho dne, když jí bylo patnáct let, se Růženka procházela sama po hradě. Objevila tajnou věž, kterou nikdo neznal. Šla nahoru po schodech a ve věži uviděla starou, osamělou stařenku, která si seděla a přádla na vřetenu.
+
+"Co to děláš, babičko?" zeptala se Růženka.
+
+"Předu," odpověděla stařenka. Růženka, která nikdy předtím vřeteno neviděla, se ho zvědavě dotkla. Hned se píchla do prstu a v tu ránu usnula.
+
+V celém království nastal hluboký spánek. Všechno usnulo: král a královna, služebníci, koně v stáji, ptáci na stromech. I čas se zastavil. Kolem hradu začal růst vysoký živý plot z trnitých keřů. Až byl tak hustý, že zakryl celý hrad. Nikdo se k hradu nemohl dostat.
+
+Uplynulo sto let. A jednoho dne přijel statečný princ. Slyšel o krásné spící princezně a chtěl ji probudit. Probojoval se trnitým keřem, který před sto lety obklopil hrad, a dostal se až k Růžence. Vešel do komnaty, kde spala Růženka, a s úctou ji políbil.
+
+Růženka se probudila! Její oči se otevřely a podívala se na prince. V ten samý okamžik se probudilo i celé království. Všichni se probudili z dlouhého spánku a nevěděli, co se stalo.
+I král a královna se probudili a velmi se radovali, když viděli Růženku živou a zdravou.
+
+Princ a Růženka se do sebe zamilovali. Hned se zasnoubili a s velkou slávou se vzali.Žili spolu šťastně až do smrti.
+A celá země slavila a veselila se.
+Princ a princezna vládli spravedlivě a všichni je milovali. A Růženka už nikdy nepomyslela na vřeteno, ale snila o lásce, štěstí a spravedlnosti.
+Konec.
+</body>
+```

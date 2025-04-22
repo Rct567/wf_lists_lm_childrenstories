@@ -1,0 +1,39 @@
+<prompt>
+Please write a emotional Scottish Gaelic children's story that is at least 1000 words long.
+It must be completely written in proper Scottish Gaelic (GD).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'An Eala agus an Droch Shide'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>gd</lang_id>
+
+<title>An Eala agus an Droch Shide</title>
+<body>
+A dh'fhalbh na làithean fhada air ais, ann an gleann sgìth, chunnaic an deòrsa beag, a bha ainmichte Aonghas, duilleagan dearg agus buidhe a' dol an sàs air craobhan uaine. Bha aon àite sònraichte ann an a’ ghlinn, far an robh craobh fhìor uasal, a' craobh-uisge. Chaidh Aonghas a chraoibh, a' dol suas tro bhrathadh de dhùn, agus ann an solas na grèine a' tighinn, chunnaic e crìoch eile de na slighean.
+
+Chaidh an rathad gu dachaigh, a’ sìoladh thairis air cuid de mhealaichean, cuid de fhiodh, agus cuid de fhèithean. Cha robh aon de na h-ainmean sin a’ freagairt ris an fhuaim a chunnaic e. Aon rud a bh’ ann ach glè shuairsinneach; sùilean glè mòra dearg a' chraoibh, glè shona. A' gluasad airson Aonghas, ach a’ faireachdainn mì-shona.
+
+Thachair e gu robh an droch shide, a bh' ainmichte Maeve, a’ fuireach an làthair. Bha cuid de fhìor bhantaich agus feannaidh ann an gleann, agus bha a h-uile rud a thachair uinneanan a’ dol air adhart airson na bliadhnaichean sin. Thuit am feann le beatha bheag na cuideachd leis. 
+
+Bha fios aig Aonghas gun robh i nar shide eagalach. Ach thachair e, às dèidh rud no dhà a ràdh le Aonghas mu na rudan mòra, gu robh Maeve mar fèithean beag, a' smaoineachadh air na thachair air. Agus, a' lorg càil ann am fèithean na bu mhotha.
+
+Ach bha an t-sùilean a' sgaoileadh, a' tighinn gu crìoch, agus chan ann a-riamh a bha e air son brìgh-fhèin gu h-àrd, ach gun sùilean, gu leòr a thaobh, ach gu gnìomh mhath, a rèir fhèin. Agus thòisich Maeve, làn smaoineachadh air na dh'fhàs agus na dh'fhàs ann an cuid den làimh, a bhith an dòchas nach robh i air aon cheann ach cuid de chosduidhean a bha ceangailte ris an droch siathad, rud beag ris a ràdh gur mheall e uile; na mholaichean, na duilleagan agus na fìor thaobhan de dhonn.
+
+Thuirt Aonghas ris na sùilean a thug na fuaimean gu crìoch: 'Tha mi a’ faireachdainn gur tha fhèithean gu leòr nar beatha, nach eòlas mi am beatha an t-saoghal.' Agus fhuair Maeve gu leòr a’ brath na ràinig e. 
+
+Chì thu Maeve, na mòr. Agus thuirt i gu maise, ‘Is toil leam. An t-saoghail tha ga cridhe eagal agus na làimhean; maith.’ Thuirt Maeve gun robh i eagalach agus gu bheil aice faireachdainnean fhad 's a bh' i a' feuchainn ri fuaimean a bheatha.
+
+Agus thòisich Aonghas air faireachdainnean Maeve. Fhuair e gu robh Maeve nar cruth air an cuirm eile fhad 's a thachair cuid de rudan.  Thachair Aonghas ann an croinn air a h-ionnsachadh fhèin fhad 's a bha i an aon cead gun leantainn air adhart. Is dòcha gur faicinn Aonghas gu robh ceart-cheilt i. Thòisich Aonghas, agus Maeve ag ionnsachadh airson aonniachadh, a' faicinn gu robh na cridheanan gu lèir. Fhuair Aonghas gu robh cuid de luchd-ionnsachaidh a bha buannachdail dha. Fhuair Aonghas, thachair e. 
+
+Agus bha iad an dàrna taobh air ais ann an crìoch a bha glè chreagach agus neo-shoilleir, rud nach robh ann an àite a thaobh a chèile. Cha robh e comasach don dà chuid feuchainn ris an rud mòr a cho-dhùnadh. 
+
+Bha Aonghas dìreach a’ tighinn a-steach, fhad ‘s a bha cuid de fhuaim a’ cruthachadh air ais ann an teine eile. Thug Maeve na fuaimean, agus thug Aonghas air a choimhead leis, gu math.
+
+Dh'fhàs a h-uile rud beag. Dhealaich a’ ghlinn agus chaidh an crìoch eile. Bhàsaich an t-slòd, agus dh’fhàs na craobhan. Bhàsaich a’ bholadh, agus fhuair na craobhan agus Aonghas agus Maeve suas ann an taigh uasal. Thug iad faighneachan bheaga ann an crith. Chinnidh iad an taigh ann an dòigh ùr.
+
+Dh'ionnsaich Aonghas gu robh gràdh air cuid dhiubh, dìreach mar bha Maeve aig a' chomann eile fhad 's a rinn iadh rùisg. Agus dh'fhàs Aonghas suas, mar a fhuair an càirdeas seo uile. Fhuair e an àite sìtheil aig a’ deireadh, an eud gach cridhe.  Agus, thachair iad a bha ann, agus dh’ fhalbh Aonghas. Agus chaidh Maeve gu a h-àite sìtheil.
+</body>

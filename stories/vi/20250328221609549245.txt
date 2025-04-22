@@ -1,0 +1,138 @@
+<prompt>
+Please write a dialog-based Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Truyền Thuyết Về Cây Khế Đơm Hoa Vàng Rực Rỡ Cả Một Vùng Quê'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>vi</lang_id>
+
+```xml
+<title>Truyền Thuyết Về Cây Khế Đơm Hoa Vàng Rực Rỡ Cả Một Vùng Quê</title><body>
+— Ba ơi, kể con nghe chuyện cổ tích đi! — bé Na líu lo đòi hỏi, mắt long lanh.
+
+— Ừ, được thôi con gái. Hôm nay ba kể con nghe câu chuyện về cây khế vàng, đẹp lắm đấy! — Ba Hùng cười hiền, xoa đầu Na.
+
+— Dạ! Chuyện này có gì hay ạ?
+
+— Chuyện hay lắm. Ngày xửa ngày xưa, ở một vùng quê thanh bình nọ, có một gia đình nọ sinh sống. Gia đình có hai anh em, tính tình hoàn toàn khác nhau. Người anh, tính tham lam, ích kỷ, còn người em thì hiền lành, chất phác.
+
+— Vậy rồi sao ba? — Na nôn nóng hỏi.
+
+— Rồi một ngày kia, cha mẹ của hai anh em qua đời, để lại cho họ một ngôi nhà nhỏ và một vườn cây trái. Người anh đã chiếm hết tất cả mọi thứ, đuổi em trai ra khỏi nhà.
+
+— Hức… tội nghiệp em trai! — Na mếu máo.
+
+— Ừ, thương lắm. Người em, buồn bã, ra đi. Anh ta chỉ còn lại chiếc áo rách và một cây khế nhỏ trồng trước nhà. Cây khế ấy chẳng mấy chốc mà lớn lên, cành lá sum suê, nhưng chỉ có một mình em trai chăm sóc thôi.
+
+— Rồi sao ạ? Rồi sao ạ? — Na sốt ruột.
+
+— Rồi đến mùa khế chín, cây khế trĩu quả, quả nào quả nấy vàng rực rỡ. Một ngày nọ, có một con chim phượng hoàng đến ăn khế.
+
+— Chim phượng hoàng á? — Na ngạc nhiên.
+
+— Ừ, chim phượng hoàng. Nó rất đẹp, lông vũ rực rỡ như lửa. Ngày nào nó cũng đến ăn khế. Người em thấy thế buồn lắm, nhưng chẳng biết làm gì.
+
+— Em trai có buồn không ba?
+
+— Có chứ con. Nhưng anh ta lại rất tốt bụng. Anh ta nói với chim phượng hoàng: "Chim ơi, chim cứ ăn khế thoải mái, nhưng nhà tôi nghèo quá, chim có thể trả tôi cái gì được không?"
+
+— Chim nói gì ba? — Na ngóng chờ.
+
+— Chim phượng hoàng gật đầu, bảo: "Ăn một quả, trả cục vàng. Ăn một quả, trả cục vàng."
+
+— Ồ! Thế thì hay quá! — Na reo lên.
+
+— Đúng là hay. Từ đó, ngày nào chim phượng hoàng cũng đến ăn khế. Người em thu được rất nhiều vàng bạc, trở nên giàu có.
+
+— Người anh biết chuyện, có đến xin không ba? — Na đoán.
+
+— Đúng rồi. Người anh thấy em trai giàu có liền đến nhà, hỏi chuyện. Người em thật thà kể lại tất cả mọi chuyện.
+
+— Chắc anh trai tham lam muốn thế chứ gì?
+
+— Chính xác. Người anh, vốn đã tham lam, thấy em trai giàu có liền nghĩ cách chiếm lấy cây khế và nhờ chim phượng hoàng mang vàng về.
+
+— Vậy rồi sao?
+
+— Người anh lập tức đổi nhà với em trai để được ở gần cây khế. Đến khi khế chín, anh ta cũng chờ chim phượng hoàng đến ăn.
+
+— Chim phượng hoàng có đến không ba?
+
+— Có chứ. Chim vẫn đến ăn khế. Nhưng người anh, thay vì đối xử tốt như em trai, lại la mắng và đòi chim phượng hoàng chở vàng.
+
+— Chim có chở không?
+
+— Có. Chim chở anh ta đi. Nhưng vì quá tham lam, người anh chất vàng quá nhiều vào người, khi chim bay đến giữa biển thì người anh rơi xuống và chết.
+
+— Hức… Anh trai ác quá! — Na bực mình.
+
+— Đúng là vậy. Tham lam không mang lại điều tốt đẹp gì. Từ đó, người em giàu có dùng số vàng kiếm được để giúp đỡ mọi người, xây dựng nhà cửa, trường học, làm cho cả vùng quê trở nên giàu đẹp.
+
+— Thế còn cây khế thì sao ba?
+
+— Cây khế vẫn nở hoa, ra quả. Nhưng đặc biệt hơn, hoa của cây khế không chỉ có màu trắng như bình thường, mà còn có màu vàng rực rỡ, sáng cả một vùng quê. Người ta bảo, đó là màu vàng mà chim phượng hoàng mang đến, tượng trưng cho sự giàu có, lòng tốt và những điều tốt đẹp.
+
+— Con thích chuyện này quá! — Na cười tươi, đôi mắt lấp lánh.
+
+— Ba cũng thích. Câu chuyện này nhắc nhở chúng ta phải sống thật thà, tốt bụng và không tham lam.
+
+— Vậy sau này, con sẽ thật thà và tốt bụng ạ!
+
+— Giỏi lắm con gái. À, ba kể tiếp cho con nghe nhé, cây khế vàng đó không chỉ đẹp mà còn có nhiều điều kỳ diệu khác nữa.
+
+— Dạ, ba kể tiếp đi!
+
+— Kể từ khi cây khế trở nên nổi tiếng, có rất nhiều người đến xin lá khế về nấu nước uống để chữa bệnh.
+
+— Thật ạ?
+
+— Ừ, những người ốm yếu chỉ cần uống nước lá khế vàng thôi là khỏi bệnh ngay.
+
+— Tuyệt vời!
+
+— Không những thế, vào những ngày rằm, hoa khế còn tỏa ra một mùi hương thơm ngát, lan tỏa khắp vùng. Ai ngửi thấy hương thơm ấy cũng cảm thấy lòng mình thanh thản, an yên.
+
+— Con muốn ngửi thấy mùi hương đó quá!
+
+— Ba tin là một ngày nào đó con sẽ có cơ hội. À, câu chuyện về cây khế vàng còn được truyền lại từ đời này sang đời khác.
+
+— Vì sao ạ?
+
+— Vì nó là bài học về đạo đức, về lòng tốt và sự công bằng. Nó cho thấy sự khác biệt giữa tính tham lam và sự hào phóng, giữa cái thiện và cái ác.
+
+— Con hiểu rồi. Chuyện này hay lắm ba ơi!
+
+— Con có thích tự tay trồng một cây khế không? Để khi nào cây lớn, con sẽ được ngắm hoa vàng rực rỡ, hít hà hương thơm ngát và giúp đỡ mọi người giống như người em trong câu chuyện.
+
+— Dạ có ạ! Con thích lắm! Con sẽ trồng thật nhiều khế, cả một vườn khế luôn!
+
+— Ha ha, được đó con gái. Chúng ta sẽ cùng nhau trồng một vườn khế vàng.
+
+— Ba ơi, ba có còn gì nữa không? — Na vẫn chưa hết hứng thú.
+
+— À, ba còn nhớ, người ta còn kể rằng, dưới gốc cây khế vàng, có một dòng suối nhỏ, nước suối trong vắt, có thể nhìn thấy đáy. Ai uống nước suối này sẽ thông minh hơn, học giỏi hơn.
+
+— Oa! Con muốn uống nước suối đó! — Na phấn khích.
+
+— Vậy thì con phải ngoan ngoãn, chăm chỉ học tập, và luôn luôn sống tốt, như vậy con mới có được những điều tốt đẹp nhất.
+
+— Dạ, con biết rồi ba. Con sẽ ngoan và học giỏi ạ!
+
+— Giỏi lắm. Rồi, câu chuyện về cây khế vàng đến đây là hết rồi đó. Giờ thì đi ngủ thôi con gái nhé. Ngày mai ba con mình sẽ cùng nhau ra vườn, xem những cây khế nhà mình xem sao, biết đâu có phép màu thì sao!
+
+— Dạ! Con yêu ba!
+
+— Ba cũng yêu con! — Ba Hùng hôn nhẹ lên trán Na, rồi cùng cô bé đi vào giấc ngủ, lòng đầy hy vọng và niềm tin về một ngày mai tươi đẹp, nơi những điều tốt lành luôn được ươm mầm và đơm hoa kết trái. Giấc ngủ của Na, chắc hẳn, cũng đầy ắp những hình ảnh về cây khế vàng, chim phượng hoàng và những điều kỳ diệu của cuộc sống. Và trong sâu thẳm, câu chuyện về cây khế vàng đã gieo vào lòng cô bé một hạt giống của lòng nhân ái, sự lương thiện, hứa hẹn sẽ trổ bông rực rỡ suốt cuộc đời.
+
+— Ba ơi, kể con nghe một chuyện nữa được không?
+
+— (Tiếng ngáp dài của Ba) Thôi nào Na, hôm nay đủ rồi, để ngày mai nhé!
+
+— Dạ... Vâng... — Na, tuy hơi tiếc, nhưng vẫn ngoan ngoãn nhắm mắt.
+</body>
+```

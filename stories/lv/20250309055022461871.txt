@@ -1,0 +1,35 @@
+<prompt>
+Please write a light-hearted Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Drosīgā zaķa pasaku ceļojums'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>lv</lang_id>
+
+<title>Drosīgā zaķa pasaku ceļojums</title>
+<body>Reiz sen senos laikos, mazā, skaistā Latvijas ciematā, dzīvoja drosīgs zaķis ar nosaukumu Kārlis. Kārlis bija ļoti izglītots un viņam patika lasīt grāmatas par dažādiem dzīvniekiem, kuri dzīvoja mežā. Viņš bija ļoti pieklājīgs un mīlēja visus dzīvniekus, kas dzīvoja apkārtnē.
+
+Vienu dienu, Kārlim ienāca ideja doties ceļojumā pa mežu, lai iepazītos ar dažādiem dzīvniekiem, kuri tur dzīvoja. Viņš sāka gatavoties ceļojumam, iepakojot sev maizi, sieru un dažādus augļus. Pēc tam viņš devās uz mežu, kur sāka ceļot pa dzelzceļa līniju, kas veda dziļi mežā.
+
+Kārlim patika skatīties apkārtējo ainavu, kurā redzēja dažādus koku, krūmu un ziedu. Viņš sāka justies ļoti brīvs un laimīgs, jo varēja doties uz ceļojumu pa mežu. Pēc dažām stundām gājiena, Kārlis ieraudzīja nelielu pili, kas atradās meža vidū. Viņš nolēma tuvāk pamest pili un iegūt informāciju par to.
+
+Kad Kārlis tuvāk piegāja pilij, viņš redzēja, ka tā bija ļoti skaista un labi saglabāta. Pili apdzīvoja dažādi dzīvnieki, kas Kārli sagaidīja ar atvērtām armiem. Viņi bija ļoti draudzīgi un aicināja Kārli iekštelpā. Kārlis iekļuva pilī un redzēja, ka tā bija pilna ar dažādiem interesiem un skaistiem priekšmetiem.
+
+Pilī Kārlis iepazīstinājās ar dažādiem dzīvniekiem, kas tur dzīvoja. Viņi bija ļoti atvērti un stāstīja Kārlim par savu dzīvi un pieredzējumiem. Kārlis uzzināja, ka pilī dzīvoja ļoti daudz dzīvnieku, kas bija atnākuši no dažādām vietām. Viņi visi bija ļoti draudzīgi un sadarbojās, lai izveidotu skaistu un harmonisku dzīvi.
+
+Pēc dažām dienām, Kārlis nolēma turpināt savu ceļojumu pa mežu. Viņš pateicās dzīvniekiem par to, ka viņi viņu uzņēma un aizveda uz ceļa turpinājumu. Kārlis devās tālāk pa mežu, kur satika dažādus dzīvniekus, kas viņam stāstīja par savu dzīvi un pieredzējumiem.
+
+Vienu dienu, Kārlim ienāca ideja apmeklēt Latvijas galvaspilsētu Rīgu. Viņš bija dzirdējis, ka Rīga bija ļoti skaista pilsēta ar daudziem interesiem un skaistiem priekšmetiem. Kārlis nolēma doties uz Rīgu, lai iepazītos ar pilsētu un tās iedzīvotājiem.
+
+Kad Kārlis ieradās Rīgā, viņš bija ļoti pārsteigts par pilsētas skaistumu un daudzveidību. Viņš redzēja daudzus skaistus ēku, parkus un dārzus, kā arī iepazīstinājās ar daudziem cilvēkiem, kas dzīvoja pilsētā. Kārlis uzzināja, ka Rīga bija ļoti sena pilsēta ar bagātīgu vēsturi un kultūru.
+
+Pēc dažām dienām Rīgā, Kārlis nolēma atgriezties savā ciematā. Viņš bija ļoti pārliecināts par to, ka viņa ceļojums bija ļoti veiksmīgs un ka viņš bija ieguvis daudz jaunu pieredzējumu un zināšanu. Kārlis atgriezās savā ciematā, kur viņu sagaidīja visi viņa draugi un kaimiņi.
+
+Kārlis stāstīja saviem draugiem un kaimiņiem par savu ceļojumu un pieredzējumiem. Viņi visi bija ļoti interesēti un uzzināja daudz jaunu par meža dzīvniekiem un Rīgas pilsētu. Kārlis bija ļoti laimīgs, jo varēja dalīties savās pieredzēs ar citiem un palīdzēt viņiem iegūt jaunu zināšanu.
+
+Tādējādi Kārlis beidza savu ceļojumu pa mežu un Rīgu, bet viņa pieredzējumi un zināšanas palika viņam uz mūžu. Kārlis turpināja dzīvot savā ciematā, bet viņa ceļojums bija atstājis viņam dziļu iespaidu un palīdzēja viņam kļūt par vēl labāku un gudrāku zaķi.</body>

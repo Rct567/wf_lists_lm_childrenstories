@@ -1,0 +1,33 @@
+<prompt>
+Please write a creative and original Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Cesta mladého hrdiny do zemí snů'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Cesta mladého hrdiny do zemí snů</title><body>
+Malý Ondřej, s vlasy jako tmavý les a očima jako hluboké studánky, žil v malebné vesničce pod vrcholem hory Šumavy.  Nebyl to žádný obyčejný chlapec.  Ondřej snil ne o princezně a rytířích, ale o tajemných zemích snů, které se prý skrývaly za lesem za lesem a za horou za horou.  Každou noc se mu zdály obrazy neznámých světů –  země zvonícího písku, lesa z ocelových listů a řeky z tekutého světla.  A on toužil je vidět na vlastní oči.
+
+Jednoho slunečného rána, když se probudil se snem ještě čerstvým na duši, narazil na starého, dřevorubce jménem Štěpán. Štěpán, jehož oči měly barvu vyhaslého ohně, držel v ruce starý, dřevěný kompas. "Chceš, Ondřeji, objevovat země snů?" zeptal se s chraptivým hlasem. "Kompas ti ukáže cestu."
+
+Ondřej, jehož srdce bušilo jako bubínek v rytmu jeho touhy, souhlasil bez váhání. Štěpán mu podal kompas a vylíčil tajemství, která se skrývala v jeho středu. "Je to kompas snů, Ondřeji," řekl. "Jeho ručička se otáčí podle tvé duše, podle tvého snu.  Ukáže ti cestu, ale jenom pokud budeš ctít pravidla snů.  Buď laskavý, buď odvážný a buď ochotný obětovat."
+
+Tak začala Ondřejova pouť.  První zemí snů byla Země zvonícího písku.  Písek se tu třpytil jako tisíce drobných hvězd a s každým krokem se ozýval tichý, melodický zvon.  Ondřej s úctou kráčel a snažil se zachovávat ticho, aby nerušil harmonii země.  Potkal tam tvory podobné motýlům, ale s křídly z čistého světla, kteří mu zpívali písně o štěstí a štědrosti.  Poté se ocitl v lese z ocelových listů. Listy šustíly, a to nejen zvukem větru, ale i tichem, které mezi nimi znělo. Stromy s kovovými listy se zdály chladné, ale Ondřej cítil hlubokou krásu jejich tajemství. Zde musel překonat strach a napodobovat ticho stromů.
+
+Dalších cestou, Ondřej procházel zemí mračných slz, zemí věčného soumraku.  Zde se potkal s tvory smutku, kteří potřebovali jeho laskavost.  Ondřej jim pomáhal s úklidem zamlžených obrazů a rozptýlil mlhy smutku.  Až se konečně ocitl u řeky z tekutého světla.  Tekutina se hýbala s neskutečnou ladností a s každou vlnou se měnil její nádech.  Ondřej cítil úžas a úctu k tomuto neznámému světu.  A tam, na břehu řeky, stál starý Strom Vědomí, jehož kořeny sahaly hluboko do Země snů.  Strom mu šeptal o síle jeho snů a prozradil mu, že cesta k nejvzdálenějším zemím není o vnějších dobrodružstvích, ale o poznání sebe sama.
+
+Ondřej si uvědomil, že nejdůležitější je být laskavý k sobě i k ostatním.  Uvědomil si, že každé místo, každý tvor, každá emoce má svůj význam.  Jeho srdce se naplnilo novou moudrostí a objevil novou cestu.
+
+Vrátil se do své vesnice a Štěpán mu pogratuloval. "Byl jsi odvážný, Ondřeji, a dokázal jsi překonat své obavy," řekl Štěpán. "Cesta do zemí snů je cestou k sobě samému."
+
+Ondřej už nikdy nebyl obyčejný chlapec.  Uvědomil si, že sny nejsou jen snová cesta, ale dary a učení.  A tak začal svůj život žít s otevřeným srdcem, s láskou a s radostí v očích.  Jeho cesta do zemí snů se stala jeho cestou životem.
+
+
+A tak se stalo, že i ostatní obyvatelé vesnice se začali dívat na svět s novým nadhledem, inspirovaní Ondřejovým příběhem.  Objevily se první výpravy, aby prozkoumali krásy a tajemství, jež se skrývají za horizontem. A ve vesnici pod vrcholem hory Šumavy se šířila pověst o mladém hrdinovi, který objevil země snů, a s ní i cestou k poznání sebe sama.
+</body>

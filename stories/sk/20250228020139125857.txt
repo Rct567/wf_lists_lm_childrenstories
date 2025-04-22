@@ -1,0 +1,24 @@
+<prompt>
+Please write a relatable Slovak children's story that is at least 1000 words long.
+It must be completely written in proper Slovak (SK).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Malí zatrpknutí lesní príšerky hľadajú domov'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>sk</lang_id>
+
+<title>Malí zatrpknutí lesní príšerky hľadajú domov</title><body>V hlbokom, tajomným lese, kde slnko sotva prenikalo cez husté koruny stromov, žili malé lesné príšerky. Neboli to obyčajné príšerky, ktoré by desili deti v rozprávkach. Títo boli malí, chlpatí a trochu zatrpknutí. Volali sa Škriatok, Čmýra a Hrčko. Ich život v lese nebol jednoduchý, pretože nikto ich nechcel prijať za svojich.
+
+Jedného dňa, keď sa Škriatok prechádzal po lese, počul rozhovor dvoch veveričiek. „Počuli ste už o tom novom dome na okraji lesa? Hovorí sa, že je tam teplo a útulno,“ povedala jedna veverička. Škriatok sa zastavil a zamyslel. „Nový dom? To by mohlo byť riešenie pre nás!“ povedal si v duchu a rýchlo sa vrátil k Čmýre a Hrčkovi.
+
+„Počujte, našiel som niečo, čo by nás mohlo zaujímať,“ začal Škriatok. „Na okraji lesa je nový dom. Možno by sme tam mohli nájsť nový domov.“ Čmýra a Hrčko sa na seba pozreli. „Ale kto by nás tam prijal? Všetci nás považujú za príšerky,“ povedala Čmýra smutne. „Musíme to aspoň vyskúšať,“ naliehal Škriatok.
+
+A tak sa traja malí zatrpknutí priatelia vydali na cestu k novému domu. Cesta bola dlhá a únavná, ale nevzdali sa. Keď dorazili na okraj lesa, uvideli krásny drevený domček obklopený záhradkou. Z okien sa linula teplá svetlo a cítiť bolo vôňu čerstvo upečeného koláča.
+
+„Tu to je,“ šepol Škriatok. „Poďme dnu.“ Zaklopali na dvere a čakali. Po chvíli im otvorila milá pani s úsmevom na tvári. „Dobrý deň, deti. Čo vás sem privádza?“ spýtala sa. Škriatok, Čmýra a Hrčko sa na seba pozreli. „Hľadáme nový dom. Môžeme tu zostať?“ spýtal sa Škriatok.
+
+Pani sa na nich pozrela a usmiala sa. „Samozrejme, že môžete. Každý potrebuje miesto, kde môže byť sám sebou.“ A tak našli malí zatrpknutí lesní príšerky svoj nový dom, kde ich prijali takých, akí boli. A odvtedy žili šťastne a spokojne v teplom a útulnom domčeku na okraji lesa.</body>

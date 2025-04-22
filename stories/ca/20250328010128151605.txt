@@ -1,0 +1,95 @@
+<prompt>
+Please write a dialog-based Catalan children's story that is at least 1000 words long.
+It must be completely written in proper Catalan (CA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'L'Ella Cantava Amb Un Raig Del Sol'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>ca</lang_id>
+
+```xml
+<title>L'Ella Cantava Amb Un Raig Del Sol</title>
+<body>
+—Ella! Ella! On ets? —va cridar la mare, l'Anna.
+—Aquí! A dalt del roure! —va respondre una veu petita, alegre.
+L'Anna va aixecar el cap i va veure la seva filla, l'Ella, asseguda a una branca gruixuda del roure més alt del jardí. El sol de la tarda li enlluernava els cabells daurats.
+
+—Per què sempre a dalt? —va preguntar l'Anna, rient. —Ja està gairebé fosc. Vine a sopar!
+—Un moment, mamà! Estic parlant amb el sol! —va contestar l'Ella, sense deixar de somriure.
+L'Anna, que ja coneixia les excentricitats de la seva filla, va decidir esperar a sota l'arbre. L'Ella tenia una imaginació prodigiosa, i per ella, el jardí estava ple de criatures màgiques i amics invisibles.
+
+De sobte, va sentir una melodia suau. Era la veu de l'Ella, neta i clara, cantant una cançó que no havia sentit mai abans.
+—(CANÇÓ) Raig de sol, daurat amic,
+         Ets la llum que dóna vida,
+         Portes alegria al meu pit,
+         I em fas somiar de seguida.
+         Quan t'abaixes cap a l'oest,
+         Et prometo, bon raig clar,
+         Un altre dia ens veurem,
+         En aquest jardí particular!
+
+L'Anna, meravellada, va pujar per sota el roure per escoltar la cançó millor.
+—Què cantes, Ella? És preciosa!
+L'Ella va saltar de la branca amb un salt lleuger i va córrer cap a la seva mare.
+—Estava parlant amb un raig de sol! I hem escrit una cançó junts!
+L'Anna va abraçar la filla, acariciant-li els cabells.
+—Un raig de sol?
+—Sí! El que entrava per entre les fulles. Em va dir que volia saber què pensava.
+—I tu, què li vas dir?
+—Li vaig explicar com de feliç sóc aquí, al jardí. Que m'agrada jugar amb els cucs de llum, i veure les formigues treballant. Que espero que el sol sempre sigui així de brillant.
+L'Anna va somriure.
+—I ell què t'ha dit?
+—Que li agrada el meu somriure! Que li encanta sentir-me cantar. I que sempre estarà allà per escalfar-me.
+
+En aquell moment, la iaia, la Joana, va aparèixer a la porta de casa.
+—Nenes, a sopar! La sopa ja està a punt.
+L'Ella va agafar la mà de la seva mare i, junts, van anar cap a la casa. Però abans de travessar la porta, l'Ella va girar-se cap al cel.
+—Adéu, sol! Ens veiem demà! —va cridar.
+
+Les setmanes van passar, i l'Ella seguia parlant amb el sol cada dia. El sol li explicava històries de mons llunyans i l'Ella li cantava noves cançons. De vegades, la seva amiga, la Lluna, s'unía a les converses nocturnes.
+
+Un dia, la mare de l'Ella va estar malalta. Va tenir molta febre i no podia sortir del llit. L'Ella estava molt preocupada.
+—Mare, et trobes bé? —va preguntar, amb la veu plena d'angoixa.
+L'Anna va intentar somriure, però li costava.
+—Una mica cansada, estimada. Però estaré bé.
+L'Ella va anar corrent cap al jardí. Va buscar un racó de sol entre els arbres i hi va parlar.
+—Sol, ajuda a la mamà a millorar. Si us plau. Fes que se senti bé una altra vegada. Prometo cantar les meves cançons més boniques si ho fas.
+Aquest dia, l'Ella no va cantar. Va estar plorant en silenci.
+L'endemà, la mare encara no es trobava millor. L'Ella va tornar a parlar amb el sol, amb més fervor.
+—Si us plau, sol, ajuda'm! Vull que la mamà sigui feliç! Necesito que ens tornem a riure juntes, jugant al jardí.
+Aquesta vegada, l'Ella va intentar cantar. Va cantar una cançó antiga, la primera que havia escrit amb el sol. Però la veu tremolava i les llàgrimes li van interrompre la cançó.
+
+Aquella tarda, quan ja semblava que la desesperació començava a emmotllar-se a casa, la mare de l'Ella, miraculosament, va començar a millorar.
+Al cap de pocs dies, estava prou bé per baixar al jardí. L'Ella, emocionada, va córrer a abraçar-la.
+—Mamà! Estàs millor! —va exclamar, rient i plorant alhora.
+L'Anna la va abraçar fortíssim.
+—Sí, estimada. Molt millor.
+L'Ella va agafar la mà de la seva mare i, juntes, van anar cap al roure. Van seure a sota l'arbre i l'Ella, amb la veu clara i brillant com el sol del matí, va començar a cantar.
+
+—(CANÇÓ) Sol daurat, ets la llum,
+         Que dóna vida i valor.
+         Has curat la meva mamà,
+         Ara riu i sent amor.
+         T'agraïm amb tot el cor,
+         Per aquesta meravella.
+         Per haver-nos mostrat
+         La força d'una estrella!
+
+El sol, tot i no ser visible en aquell moment, semblava brillar amb més intensitat. L'Anna i l'Ella van romandre assegudes, abraçades, gaudint del silenci i de la pau del jardí, i sabent, amb una certesa infinita, que la màgia sempre existeix, sobretot quan hi ha amor. Des de aquell dia, cada vegada que el sol brillava, l'Ella seguia cantant i la seva mare l'acompanyava amb un somriure. Perquè, al cap i a la fi, l'amor i l'alegria són els millors raigs de sol. I la cançó continuava, per sempre, ressonant en el jardí, unint-les en un ball etern de llum i vida.
+
+Més tard, al cap d'un temps, la iaia Joana, que tenia un cor enorme i una comprensió única, també es va adonar de la comunicació entre l'Ella i el sol. Un dia, mentre l'Ella estava cantant sota el roure, la iaia es va acostar.
+
+—És meravellós sentir-te, Ella. Tens un do especial.
+L'Ella va somriure tímidament.
+—El sol m'escolta, iaia. I jo l'escolto a ell.
+La iaia Joana es va asseure al costat de l'Ella, admirant el cel.
+—Saps què, estimada? Potser tots necessitem un raig de sol per parlar. Ja sigui visible o no, potser tots necessitem una llum, un amig, per explicar-nos.
+L'Ella la va mirar amb ulls brillants.
+—Tens raó, iaia! I per cantar les nostres cançons més boniques.
+L'Anna, observant l'escena, va sentir una onada de tendresa. La seva filla, amb el seu cor pur i la seva imaginació, havia ensenyat a tota la família una lliçó important sobre la força de l'amor, la creativitat i la capacitat de trobar la màgia en el món que ens envolta. I el jardí, il·luminat pel sol i ple de rialles, es va convertir en un espai sagrat, on l'Ella sempre podria cantar amb el raig del sol. El mateix raig de sol, daurat i càlid, que ara ballava a la part de darrere de l'orella de l'Ella, com un secret que compartien.
+</body>
+```

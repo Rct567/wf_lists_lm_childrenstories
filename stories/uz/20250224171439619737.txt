@@ -1,0 +1,48 @@
+<prompt>
+Please write a silly Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Bu kunimda bo'lgan chiroyli va ajoyib hodisalar'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>Bu kunimda bo'lgan chiroyli va ajoyib hodisalar</title>
+<body>
+O'sha kuni, quyosh tonggi nurlarini osmonga tarqatganida, Kamoliddin deb nomlangan bir kichkina bolaning hayotini o'zgartirib yuboradigan ajoyib voqealar boshlandi. Kamoliddin qishloqning eng qiziqarli bolalari orasida edi, u doimo yangi o'yinlar o'ylab topardi va o'zining xayoliy dunyosida yashayardi.  Uning kiyimlari har doim bir oz qop-qora bo'lib, bu esa uning o'yinlari va orzularining qorong'u va sirli ekanligini ko'rsatardi.
+
+Bugun esa, uning kiyimlari odatdagidek qora emasdi. Uning kiyimlari, g'alati tarzda, ko'k rangli va oq chiziqlar bilan bezatilgan edi. Kamoliddin buning sababini bilmasdi, lekin u o'zining yangi kiyimiga o'ta xursand edi. U tezda uyidan chiqib, o'zining eng yaqin do'sti,  befarq va doimo kulguga munosib bo'lgan  Xushnudbek bilan uchrashishga shoshildi.
+
+Xushnudbek, o'zining katta, yumaloq ko'zlari bilan, Kamoliddinga qarab, kuldi. "Kamoliddin, sen bugun qanday chiroyli ko'rinasanksin!" dedi u, o'zining xushbichim yuzlarini yaxshilab ko'rib chiqib.
+
+"Ha, men ham shunday deb o'ylayman," dedi Kamoliddin,  quvonchdan yuzini yoritib. "Lekin men bugun qandaydir ajib hodisalarni kutib turibman".
+
+Ular qishloqning eng go'zal bog'iga yo'l olishdi. Bog'ning o'rtasida ulkan, yashil daraxt bor edi. Daraxtning ustida esa, ular uchun biror g'alati va chiroyli hayvon yashaydi, deb eshitgan bir qushlar uyasi bor edi.  
+
+Ular, daraxtning yoniga borib, uning qanday qilib bir-biriga o'xshamaydigan, qizg'ish, sariq va ko'k ranglar bilan bezatilgan g'alati qush uyasiga qarab qolishdi. 
+
+"Qarang," dedi Kamoliddin. "Uning rangi, shunchaki ajablanarli".
+
+"Ha," dedi Xushnudbek. "Bu qushlar, albatta, bizga g'alati va chiroyli voqealarni aytib berish uchun kelgandir."
+
+
+Birdan daraxtning ustidagi qushlar uyi oshirdi va kichkina bir  kamolotga yetmagan qo'ychi tushib keldi. Uning kiyimlari bir zumda Kamoliddinning ko'k va oq kiyimlariga o'xshardi.  Qo'ychi o'zining qo'ylarini bog'dan olib chiqib ketmoqchi bo'libdi va Kamoliddin bilan Xushnudbekga yumshoq va chiroyli qarab, "Sizlar bu bog'ni qanday ko'ryapsizlar?" deb so'radi.
+
+"Biz bu yerda hech qachon ko'rmaganimizdek chiroyli hodisalarni ko'rayapmiz", dedi Xushnudbek.
+
+Qo'ychi ularga  gulzarning eng go'zal qismini ko'rsatish va ularga o'zining g'alati va ajoyib hikoyasini aytib berish uchun qishloqdan ajralib ketganligini aytdi. Ular  aytilgan hikoyadan hayratda qolishgandi. Uning hikoyasida sehrli qo'ylar va jonzotlar haqida hikoyalar bor edi, ularning hech biri haqida bolalar hech qachon eshitmagan edilar. 
+
+Qo'ychi ularning o'yini bo'yicha, har bir hayvonning o'ziga xos ma'nosining borligini, har bir o'simlikning o'z hikoyasini aytib berishi mumkinligini  va butun dunyo sir va ajoyib hodisalar bilan to'ldirilganligini aytdi.  Ular shu qadar sehrlanib ketdilarki,  voqealarni  yozib olish uchun  qog'oz va qalam olishlarini ham unutdilar.
+
+Qo'ychi bir oz vaqt ular bilan suhbat qilib, so'ngra o'zining qo'ylarini bog'dan olib ketdi va bir oz vaqt ularning yonida qoldi. Keyin esa, u boshlariga qizil shlyapa va so'ngra  orqa tomonlari  to'q ko'k bilan bezatilgan  yashil rangli kiyimni  qo'yib, o'z yo'lida davom etdi.
+
+Kamoliddin va Xushnudbek bir-birlariga qarashdi. Ular  shu sehrli kundan qanchalik  hayratda va ta'sirlanganliklarini  anglashardi.
+
+Ular qaytib uy yo'lini ushlab olishdi. Ular bu sehrli  bog'dagi hodisalar haqida uzoq vaqt gaplashishardi, lekin ularning  qalblarida  ajablanarli  va  g'alati  hislar  qolgandi.
+
+Bu,  shubhasiz,  Kamoliddinning  eng  ajoyib  kunlari  orasida  edi.  Bundan keyin  har  bir  kundan  qayta  yangi  va  ajoyib  hodisalar  kutishdi.
+</body>

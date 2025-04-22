@@ -1,0 +1,62 @@
+<prompt>
+Please write a educational Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'O ježkovi, který nosil klobouk z listí'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>cs</lang_id>
+
+<title>O ježkovi, který nosil klobouk z listí</title><body>
+Kdesi v hlubokém, zeleném lese, kde sluneční paprsky pronikaly skrz koruny stromů a tančily na mechu, žil malý ježeček jménem Jaromír. Jaromír nebyl jako ostatní ježci. Měl totiž zvláštní zálibu – nosil na hlavě klobouk. A ne ledajaký klobouk! Klobouk z listí.
+
+Jeho klobouk byl krásně sestaven z různých druhů listů. Někdy to byl klobouk z jasně zelených listů břízy, jiný den z tmavě červených listů dubu, nebo dokonce ze žlutých listů topolu. Záleželo na ročním období, větru a náladě. Jaromír s pečlivostí sbíral ty nejkrásnější listy a pak je s pomocí malých větviček a pavučiných vláken spojoval do dokonalého klobouku.
+
+Jednoho podzimního rána, když slunce teprve stoupalo nad horizont, se Jaromír probudil a zjistil, že jeho klobouk je pryč! Byl zděšený. Kde se mohl jeho klobouk ztratit? Bez klobouku se cítil nahý, zranitelný, jako by ztratil část sebe sama.
+
+Vyšel ze svého doupěte a rozhlédl se po lese. Všude kolem leželo listí různých barev a tvarů, ale jeho klobouk nikde. Byl tak ztracený a smutný, že se mu po tvářičkách skutálely slzy.
+
+“Co se stalo, Jaromíre?” ozval se jemný hlas. Byl to starý moudrý krtek, který žil nedaleko. Měl na sobě brýle a vždycky se rád dozvídal o všem, co se v lese děje.
+
+Jaromír se rozplakal ještě víc a vysvětlil krtečkovi, co se stalo. “Ztratil jsem svůj klobouk, pane Krtečku! Klobouk z listí! A teď nevím, co si počnu!”
+
+Krtek si ho s úsměvem poslechl a pak řekl: “Neboj se, Jaromíre. Ztratit věci se může každému. Ale co takhle si najít nového? Podzim je plný nádherných listů!”
+
+Jaromír se na krtečka podíval a v jeho očích se zaleskla jiskřička naděje. “Opravdu?” zeptal se.
+
+“Samozřejmě! Pojď se mnou,” odpověděl krtek a vydal se s Jaromírem na cestu po lese.
+
+Procházeli se lesem a krtek ukazoval Jaromírovi různé druhy stromů a listů. “Podívej se, Jaromíre, tady je javor. Jeho listy jsou tvé oblíbené, s pěti cípy, že?”
+
+Jaromír se podíval na lesklé, červené listy javoru a usmál se. “Ano, pane Krtečku, ty jsou krásné!”
+
+Pak došli k dubu. “A tady je dub,” pokračoval krtek. “Jeho listy jsou tvrdé a hnědé, ale taky krásné, nemyslíš?”
+
+Jaromír si vzal jeden dubový list do ruky a zkoumal ho. Byl tak hrubý a pevný, že by z něj mohl být skvělý klobouk. “Ano, pane Krtečku, máte pravdu. Každý list je jedinečný.”
+
+Pokračovali v cestě a naučili se, že existuje mnoho dalších stromů a listů: jasany s pilovitými listy, lípy se srdcovitými listy, a dokonce i jeřáby s listy složenými z mnoha menších lístků. Krtek Jaromírovi vyprávěl o tom, jak se listy mění na podzim, jak se barví do krásných odstínů žluté, oranžové, červené a hnědé, a proč spadají ze stromů.
+
+“Stromy se na zimu připravují,” vysvětloval krtek. “Schovávají si sílu do kořenů a nechávají listy, aby se mohly rozložit a vrátit živiny zpět do země. A na jaře, když bude teplo, stromy zase porostou novými, svěžími listy.”
+
+Jaromír pozorně poslouchal, a když si to uvědomil, začal chápat důležitost koloběhu přírody.
+
+Cestou zpět domů Jaromír posbíral spoustu listů. Nakonec měl tolik listů, že si mohl vybrat ty nejvhodnější na nový klobouk. S krtečkovou pomocí a s novými znalostmi, které získal, začal pracovat.
+
+Tentokrát si vybral kombinaci listů javoru, dubu a břízy. Věděl, že chce, aby byl jeho klobouk pestrý a odolný. Pečlivě je poskládal, přičemž se inspiroval krtečkovými radami. Použil pavučiny a jemné větvičky, aby listy pevně držely pohromadě.
+
+Strávil celý den prací. Večer, když slunce zapadalo za stromy a proměňovalo les v temný, tichý svět, byl klobouk hotov. Byl ještě krásnější než ten předchozí! Byl silný, barevný a jedinečný.
+
+Když si ho nasadil na hlavu, usmál se od ucha k uchu. Cítil se zase celý.
+
+“Děkuji ti, pane Krtečku,” řekl Jaromír. “Díky tobě už se nebojím toho, že bych ztratil klobouk. Vím, že si můžu vždycky udělat nový.”
+
+Krtek se usmál. “To je dobře, Jaromíre. Nejdůležitější je, že rozumíš přírodě a její kráse. A pamatuj si, že každá ztráta může být novým začátkem.”
+
+Jaromír se vrátil do svého doupěte a ulehl do měkkého listí. Před spaním se ještě naposledy podíval na svůj nový klobouk. Uvědomil si, že jeho klobouk z listí není jen ozdoba. Je to spojení s lesem, s ročními obdobími, s moudrostí přírody. Je to připomínka toho, že i po ztrátě může přijít něco nového a krásného.
+
+A tak Jaromír usnul s hlubokým pocitem vděčnosti a radosti. Od té doby si dával pozor na svůj klobouk z listí, ale věděl, že i kdyby ho znovu ztratil, vždycky si může najít nové listy a vytvořit si nový klobouk. A tak, každé ráno, když vycházel ze svého doupěte, se usmíval na slunce, na stromy a na své věrné listy, které mu tvořily neobyčejný klobouk. A v srdci mu hrála malá melodie štěstí , kterou zpíval každý list, když zatančil ve větru, vždycky připomínal krásu a proměnlivost světa kolem něj.
+</body>

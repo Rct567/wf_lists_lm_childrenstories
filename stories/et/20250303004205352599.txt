@@ -1,0 +1,38 @@
+<prompt>
+Please write a light-hearted Estonian children's story that is at least 1000 words long.
+It must be completely written in proper Estonian (ET).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Unenägude maailm ja selle valitsejad'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>et</lang_id>
+
+<title>Unenägude maailm ja selle valitsejad</title>
+<body>
+Kord oli maal, kus päike ei tõusnud ja kuu ei loojunud. See oli unenägude maailm, kus kõik oli imeline ja imelik.  Selles ilusas, kuid veidras maailmas elasid Unenägude Kuningriigi valitsejad – magusa unenäo printsess Lumi ja rumala unenäo prints Karl.
+
+Printsess Lumi oli sama armas kui lumivalge küla. Ta kandis alati hõbedaseid riideid, mis helkitsid õrnastes unenägude värvides. Tema süda oli täis headust ja õrnust, just nagu pehme, sametine tekike. Ta armastas linde, kes laulsid ilusaid meloodiaid, ja künlaid, mis kiirgasid magusaid lõhnu. Ta suutis tekitada värvikirevaid ja lõbusaid unenägusid, kus lapsed võisid lennata tähel ja loomad rääkida inimkeeles.
+
+Prints Karl oli aga hoopis teistsugune. Ta riietus alati värvikirevasse ja näiliselt rumalasse riietusesse. Tal olid kummalise kujuga kübarad ja varrukates tohutu kogus värvilist nööpnõeldi. Tema unenäod olid kummalisi ja eriliselt lahedaid - ühe hetkega saanuks keegi lennata kõrgele, hõljuda pilvedes ja järgmise hetkega teineteisega kahtluses - sest isegi täiskasvanud saanuksid unenägudes lastega juba täpselt sama värskustundega suhelda.
+
+Kõik nende rahva liikmed - nii loomad kui ka inimesed -  võisid vaheldumisi kuuluda kummaline-rumalate, ilusate unenägude maailmadesse.
+
+Ühel päeval saabus unenägude kuningriiki kohutav uudis. Kurja ja närvilise Unenägude nõid, tuuldes käisavõtja, oli hakanud rüüstama unenägusid.  Ta võttis need ilusad unenäod, peenetes tünnides oma iha täitma ja peitis oma varitsusse.  Ilm hakkas tumenema ja udulistes silmades valitses hirmutav ja kohutav koleduse õhtusöök. Laste naerud vaikisid ja päikeselised pärgad kaotasid helke värvi. 
+
+Printsess Lumi ja prints Karl mõistsid, et unenägude vargus takistab ilusaid unehetki ning neile ja nende rahvale ei antud linnult ühtegi unenägu. Need imelised lood, mis valgustasid magavaid hinge, olid kadumas, just nagu lumesadu kord aastas. Mõlemad, erinevate karude ja valgetepüüdjate seas, kiirustasid kiiresti rongi järele - ainus vahend, mis vedas neid selle kohutava häda leevendamiseks. 
+
+Nad otsisid nõida ja leidis oma südamliku otsinguga suure metsa sügavamatesse kurgustesse. Sealseil suhtlejatel oli nii võimsust kui ka salavõimet.
+
+Nõia lossi juures avanes terve väravad, mis valmistasid kiiret jalgsi käiguteekonda ja nende sümbolid olid keerulisemad kui mistahes täiskasvanu loodud maapildid. Seega arvatakse, et kõikjal on sümbolid ja unenäod, kuigi need paistavad ainult erinevatest käsikirjadest ja ebaharilikest peeglitest.
+
+Nõida oli võimulistesse käekirju kirjutanud peenematel seadmetel. Tema nägi neid seadmeid kui vabaduse ühendustega. Tema eesmärk oli, et need loomad kohtuksid maailma iluga. Siiski oleks selleks olnud vaja ainulaadset kohtumist – kohtumist ühel erilisi sündmusi ja kõikevaidavaid nägemusi ja mõtteid kuulava sündmusega.
+ 
+Printsess Lumi, kelle hääl oli nii soe kui suvepäike, laulis lummavat laulu. Prints Karl, kes oli kuulus oma lõbusate unenägude pärast, mängis õrneid meloodiaid. Nende muusika valgustas pimedust, peletades tagasi kurja vaimu.  Nõid, keda ei olnud harjunud nii armsate lauludega, sulges oma unenägusid ja viskas neid täiesti laiali.
+
+Sellega on unenägude maailm päästetud. Magusa unenäo printsess Lumi ja rumala unenäo prints Karl, olles kaitsnud maailma ja selle kõigi armsate magavate laste ilusaid unenägusid, kutsusid kõik need uuesti luua. Nende unenägude maastikud olid täis magusaid lõhnu, linde, tähistaeva ja värskust.
+Igaveseks valitsesid nad Unenägude maailmas, kinnitades igal unehetkel headust ja ilu.
+</body>

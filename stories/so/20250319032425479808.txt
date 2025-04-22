@@ -1,0 +1,72 @@
+<prompt>
+Please write a light-hearted Somali children's story that is at least 1000 words long.
+It must be completely written in proper Somali (SO).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Dhool Qosolka Reer Miyiga Iyo Sida Ay U Dhisaan Xidhiidhka Bulshada.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>so</lang_id>
+
+```xml
+<title>Dhool Qosolka Reer Miyiga Iyo Sida Ay U Dhisaan Xidhiidhka Bulshada.</title><body>
+Maalin cadceed leh, oo dhinaca miyiga Soomaaliya ku taalay, waxa jiray tuulo aad u qurux badan oo la yidhaa ‘Himilay’. Guryaha tuuladu waxay ahaayeen kuwo dhoobo ah oo lagu rinjiyeeyey midabyo dhalaalaya, sida casaan, buluug, iyo cagaar. Waxaa jira geedo waawayn oo hooska bixiya oo hareeraha tuulada ka soo jeeda. Dadka tuuladaas degganaa waxay ahaayeen kuwo farxad badan, oo aad ugu faraxsan noloshada.
+
+Caa’isha waxay ahayd gabar yar oo jirta siddeed sano jir. Waxay ahayd gabadh aad u qurux badan, leh timo madow oo goglan iyo indho waaweyn oo dhalaalaya. Waxay jeclaan jirtay inay xidhato dhar midabyo kala duwan leh, oo leh qurxinno fara badan. Waxay caan ku ahayd dhoola-cadeynta aan ka joogsan ee wajigeeda ku taalla. Caa’isha, waxay aad u jeclaa inay saaxiibadeeda la ciyaarto. Waxay saaxiibadeeda la ciyaari jirtay ciyaaro kala duwan sida 'kubada cagta', 'fardaha caruurta', iyo 'gacmaha iyo cagaha'.
+
+Cismaan wuxuu ahaa wiil yar oo aad u xun oo jirta toban sano jir. Wuxuu aad ugu fiicnaa isaga oo xoolaha daajinaayey, iyo xataa marka uu dhirta isaga oo gacanta ku haysta badiyaayey. Ismaaciil wuxuu jeclaa inuu dhexdiisa la wareego oo la sheekeysto cid walba oo uu arko. Wuxuu jeclaa inuu sheekooyin ka sheekeeyo geesiyaasha iyo xiddigaha. Wuxuu waliba aad u jeclaa inuu hadal macaan u sheego qof walba.
+
+Maalin maalmaha ka mid ah, xilli roobaadka oo jawiga uu roob badan ka da'aayey, Caa'isha, Cismaan, iyo saaxiibadooda waxay isugu yimaadeen meel hooska ka buuxa oo ku taala geed weyn oo ku yaal badhtamaha tuulada. Wuxuu xilligaas ahaa mid ka mid ah waqtiyada ugu fiican ee ay ku qaataan isku imaatinka.
+
+"Maanta, waxaan sameynaynaa wax gaar ah!" ayuu yidhi Caa'isha iyadoo dhoola-caddaynaysa, "Waxaan ciyaareynaa ciyaar dhisanaysa xidhiidhka bulshada!"
+
+"Waa maxay ciyaartaas?" ayuu weydiiyay Cismaan, isaga oo indhaha u kala qaaday, oo waxa aan fahmin.
+
+"Waxaan midba midka kale u sheegaynaa sheeko, oo sheekadu waa inay xambaarsan tahay cashar ku saabsan sida loo qiimeeyo bulshada iyo cid walba!" ayuu yidhi Caa'isha. "Waxaan dooran doonaa hal qof oo sheekada bilaabaya, kadibna mid kasta oo kale ayaa sii wadi doona, anagoo u raaceyno sida ay noogu muuqato oo aan aaminsanahay in nolosha u dhacdo!"
+
+Dhammaan carruurtii ayaa aad ugu faraxsan arrintan. Sidii oo ahayd fikir weyn. Waa hagaag, midba midka kale way u dhagaysanayaan oo waa wey siinayaan fikirradooda.
+
+Ugu horrayn, Ismaaciil ayaa bilaabay inuu sheego sheekada. "Waxaa jirtay mar waxa loogu yeedho ‘Geel farxi ah’. Geelkan wuxuu ahaa mid faraxsan, wuxuuna jeclaa inuu caawiyo dadka kale. Waxaa jiray maalin ay arkay geelka oo ay arkay qoys ku socda meel u dhow god weyn oo ay biyuhu ka buuxaan. Qoysku waxay aad ugu adkaadeen iney xawaaraha dhamaan yihiin ee geedahaas, aadna bay u baahnaayeen. Geelkii, wuxuu isla markiiba soo ag maray qoyska. Wuxuu weydiiyay, 'Waxaan caawin karaa?'. Qoyskii aad bay ugu farxeen weydiintaas. Geelkiina wuxuu awood u yeelanayey inuu qoyska qaado oo meel ammaan ah geeyo." Ismaaciil markuu dhamaystay ayuu fiiriyey dhammaan saaxiibadiisa.
+
+Caa'isha way qososhay oo tidhi, "Waxaan dhisaa geel aad u wanaagsan, Ismaaciil! Sheekadaadu waxay baraysaa in caawinta kuwa kale ay naga dhigto dadka ugu fiican".
+
+Marka xiga, waxa ay sheekada wada wadday Caa'isha. "Maalin ka mid ah, ayaa waxaa dhacday in 'Nin caqli badan' uu helay dhagax weyn oo dhalaalaya. Dhagaxaas aad buu u qurux badnaa. Ninkii waxa uu gartay in uu dhagaxu aad ugu qurux badan yahay kuwa kale ee ku nool agagaarka. Ninkii ayaa go'aansaday in uu wadaago quruxda dhagaxaas oo uu dhigaa badhtanka tuulada oo dhan si dadku u arkaan. Dadku aad bay ugu farxeen inay dhagaxa arkaan oo quruxdiisa la arkaan. Waxay go'aansadeen inay midowdaan oo ay xoolahooda, gurigooda iyo qalabkooda wadaagaan si ay noloshooda u hagaajiyaan.”
+
+"Waawayn tahay, Caa'isha!" ayuu yidhi Cismaan, "waxaan maqlay in haddii dadku wax wadaagaan, wax kasta oo ay haystaan ay badanayaan".
+
+Ugu dambayntii, Cismaan ayaa ku sii daray sheekada. "Waxaan lahaa saaxiib aan aad isku fahmi jirnay oo loo yaqaano ‘Noolashiyo’. Noolashiyo waxa ay jeceshahay inay hesho macluumaadka uga fiican oo looga qori karo ama lagaga sheegi karo buug ama dhagax, taasoo ahayd waxyaabo uu jeclaa inuu ka aqriyo ee ku saabsan sheekooyin ku saabsan dadkii hore. Wuxuu ogaaday in ay dhacday wax aan wax ka ogeyn. Waxa uu u baahday inuu ogaado sida uu waxaas u dhacay iyo waxa ka dhacay. Markaa, wuxuu weydiiyay kuwa ku hareereysan oo qoraalkooda soo akhristay. Dadku waxay u wada sheegeen, ka dibna ay arkeen dhagax leh qoraalo badan oo u gaar ah kuwaasi. Noolashiyo wuxuu aad uga farxay sida dadka ay isku qeybsan jireen aqoonta oo ay ahayd wax uu jeclaa!"
+
+Caruurta kale way qosleen, maxaa yeelay waxay ogaayeen in Cismaan uu aad ugu dhow yahay xoolaha daaqsinta.
+
+"Waxaan si weyn u qadarinayaa sida aad dadka isku gargaaraan!" ayuu yidhi Caa'isha.
+
+Caruurta waxay sii wadeen sheekooyinkooda, waxaanay la sheekaysan jireen waqti dheer, waxaana looga sheekayn jiray caadooyin kala duwan, khuraafaad iyo wixii ugu xiisa badnaa ee dadka oo dhan, ka soo yeeri jiray. Mar kasta oo ay sheeko dhammeeyaan, carruurtu waxay isla garan jireen sida ay uga muhiimsan tahay in loo ixtiraamo midba midka kale, in la wadaago farxadda, iyo in loo dul qaato cid walba. Waxay bartay qiimaha wada shaqaynta, iyo muhiimadda ay leedahay in bulshada la isku xiro.
+
+Maalin maalmaha ka mid ah, waxaa soo ifbaxay arrin wayn oo ka dhacday tuulada. Roob xoogan oo aad u daran ayaa tuulada ku dhacay. Roobabku waxay soo wada baabi’iyeen guryihii iyo geedihiba, taasoo keentay baqdin aad u daran. Dadkii tuuladu way walwalsanaayeen oo waxay maqleen cid dhawaaqa iyagoo raba inay wax helaan oo ay sameeyaan, waxaanay ahaayeen kuwo aan waligood soo arag mid la mid ah.
+
+Caa'isha, Cismaan, iyo saaxiibadoodu si dhakhso ah ayay wax uga ogaadeen. Waxay ku dhaqmeen waxyaabihii ay barteen xilliyadii ay ciyaarayeen. Way isku urureen.
+
+"Waxaan u baahanahay inaan is caawinno" ayuu yidhi Caa'isha, "Waxaan dhisanaa guryo cusub, waana wada shaqayn doonaa si aad u dhakhso badan".
+
+"Haa!" ayuu yidhi Cismaan, "Anaga xitaa waxaan ka qaadi karnaa waxyaabaha guryaha laga soo sameeyo si dhaqso ah".
+
+Dhammaan carruurtu way ogolaadeen. Waxay dadka weyn u qeybiyeen kooxo. Midkoob oo u dhaqdhaqaaqi doona inuu dhismayaasha oo dhami uu isku hagaajiyo, kan kalena waa mid ay iska kaashadaan.
+
+Caa'isha iyo saaxiibadeed ayaa ka caawiyey inay soo ururiyaan alaabta oo ay guryaha dhisayaa. Cismaan iyo wiilasha kale waxay shaqeynayeen iney meel sahlan oo ammaan ah u dhisaan xoolaha iyo wixii la mid ah. Ismaaciil wuxuu qoysaska siiyey waraaqo ay ku sameeyaan alaabta. Dadku way wada shaqeeyeen, oo ay dhammaantood ku dhex shaqeynayeen isku mid. Dhool-qosolku wejiyadooda uma dhaqaajin, taasoo ula jeeda in ay shaqadaan aad u wanaagsan tahay.
+
+Waxay wada shaqeeyeen muddo dheer, laakiin si deg deg ah ayay dib u soo celiyeen tuuladoodii. Waxay guryahooda ka dhiseen meel aammin ah, guryo dhoobo leh oo midabyo dhalaalaya. Roobabku waxay burburiyeen qaar badan oo ka mid ah guryahooda, laakiin way awoodeen inay wada dhistaan guryo ka xoog badan kuwii hore.
+
+Markii shaqadu dhammaatay, tuuladii way faraxday. Dadku aad ayay ugu farxeen sida ay isaga caawiyeen dhibaatooyinka. Wuxuu arkay dhoola-caddeynta wajiyada caruurta, wuxuu arkay midowga ka muuqda farxada dadka.
+
+Caa'isha waxay soo ururisay saaxiibadeeda. "Waad aragteen!" ayay tidhi, "Haddii aan isku xirno, wax walba waan awoodnaa".
+
+"Haa, Caa'isha," ayuu yidhi Cismaan, "Waxaan barannay in jacaylku ka dhigi karo wax kasta oo suurtagal ah".
+
+Saaxiibadii dhamaantood way luxeen madaxyooda oo ay wada oggolaadeen. Tuulada Himiilaay waxay u noqotay mid xoog badan oo isu dhaw, taasi oo ay sabab u ahayd jacaylkooda bulsho. Waxay ku ogaadeen sheekooyinkooda dhisan ee xidhiidhka bulshada inay ugu qiimo badan yihiin dadka. Iyaga oo ku xusuusta casharradii ay barteen, waxay had iyo jeer isla wehel ahaayeen, oo waxay dhisayeen mustaqbal ifaya.
+
+Tan iyo maalintaas, carruurtu way sii wadi jireen sheekooyinka iyaga u dhexeeya, iyaga oo sii adkeynaya xiriirka, xitaa waxay sameeyeen dhinacyo aad u badan oo tuulada. Waxay caawiyeen dadka oo dhan, waxay isla wadaageen xidhiidhka dadka oo dhan, dhool-qosolna weligood wajigooda ma ka tegayn. Waxay ahayd sida qoys weyn oo is jecel, oo ay shaqsi ahaan loo qiimeeyo oo wax loo qabanayo. Tuulada Himiilaay waxay u noqotay meel dhalaalaya, oo nabad iyo jacayl ka buuxaan, iyada oo ay ugu mahad-celinayaan caruurtooda qalbiga ah.
+</body>
+```

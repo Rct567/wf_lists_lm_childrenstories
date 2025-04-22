@@ -1,0 +1,74 @@
+<prompt>
+Please write a timeless Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Jak malá Klára objevila mluvící stromy v začarovaném lese.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>cs</lang_id>
+
+```xml
+<title>Jak malá Klára objevila mluvící stromy v začarovaném lese.</title><body>
+V jednom malém, poklidném údolíčku, kde slunce svítilo nejjasněji a potůčky si vesele bublaly, žila malá holčička jménem Klára. Klára měla oči jako nebe po bouřce a vlasy zlaté jako pšenice v žatvu. Byla plná radosti a zvědavosti, a její srdce toužilo po dobrodružstvích. Bydlela se svými rodiči v útulné chaloupce na kraji lesa, a právě ten les byl předmětem mnoha vyprávění. Říkalo se mu Začarovaný les.
+
+Začarovaný les byl obestřen tajemstvím. Staří lidé vyprávěli o stromech, které uměly mluvit, o vílách, které se skrývaly v listoví, a o zvláštních tvorech, které se objevovaly jen za úplňku. Rodiče Kláry ji vždy varovali, aby do lesa nechodila. „Je nebezpečný, Kláro,“ říkali. „Skrývá v sobě nečekané nástrahy.“
+
+Ale Klára, s duší objevitele, nemohla odolat pokušení. Toužila poznat tajemství, které les ukrýval. Každý den, když slunce vycházelo, zírala na zelenou hradbu stromů a představovala si, co se asi uvnitř děje.
+
+Jednoho slunečného rána, když její rodiče odešli na trh do nedaleké vesnice, rozhodla se Klára riskovat. Vzala si s sebou svůj oblíbený červený pláštík, košík s jablky a odvážný úsměv. Opatrně se vytratila z chaloupky a zamířila k lesu. Její srdce bušilo jako malý bubínek.
+
+Brána do lesa nebyla ničím zvláštní. Byl to pouze starý dub, jehož větve se klenuly jako zvědavé ruce. Klára prošla pod jeho mohutnými kořeny a vstoupila do stínu. Zpočátku bylo ticho, jen šumění listí ve větru. Ale pak, když se zanořila hlouběji, uslyšela…šeptání.
+
+„Dobré ráno, holčičko,“ ozval se hluboký hlas. Klára se leknutím otočila. Byl to dub, který stál nejblíže. Jeho kůra vypadala jako vrásčitá tvář starého mudrce.
+
+„Vy… vy mluvíte?“ zeptala se Klára, překvapením takřka bez hlasu.
+
+Dub se zasmál, jeho hlas zněl jako vítr, který se prohání korunami stromů. „Samozřejmě, že mluvíme. Kdo jiný by s tebou měl mluvit? A proč si vlastně myslíš, že se nám říká Začarovaný les?“
+
+Klára se trochu uklidnila. „Moje maminka a tatínek mi říkali, že je to nebezpečné tu chodit…“
+
+„Nebezpečné? Záleží na tom, jak se chováš,“ odvětil dub. „Jestli jsi milá a laskavá, pak se ti u nás nic nestane. Naopak. Pomůžeme ti.“
+
+Klára se osmělila. „Já jsem moc ráda, že vás můžu poznat. Moc ráda bych věděla víc o vašem lese.“
+
+„Zavolej mi Dědo Dub,“ řekl strom s úsměvem v hlase. „A pojď dál. Potřebuji si s tebou pohovořit o něčem důležitém.“
+
+Klára s nadšením následovala Dědu Duba. Postupovala dále lesem, kde stromy začaly ožívat, zdravit ji a vyprávět jí příběhy. Byli mezi nimi Stará Lípa, která pamatovala dávné bitvy, mladý Břízek, plný rozpustilosti, a Moudrá Borovice, která znala všechny tajemství hor. Každý strom měl svůj vlastní příběh, svou vlastní moudrost.
+
+Stromy jí pověděly o kouzlu lesa, o jeho ochraně před zlými silami a o zvláštní úloze, která na ně jednou čeká. Vyprávěly o strážcích, kteří se skrývali v jeho hloubi a chránili jej před lidmi, kteří chtěli les zničit. Klára jim naslouchala s otevřenými ústy, fascinovaná světem, o kterém se jí dosud jen zdálo.
+
+Procházela se lesem a užasle sledovala víly tančící v paprscích slunce, obdivovala pestrobarevné houby a sledovala zvířata, která se odvážila přiblížit. Les byl plný života, plný krásy.
+
+Avšak, jak se den chýlil ke svému konci, Dědo Dub ji svolal zpět. „Kláro,“ řekl hlubokým hlasem, „musíme ti něco povědět. Naše kouzlo je v ohrožení. Zlá čarodějnice chce zničit náš les a ukrást jeho kouzlo.“
+
+Klára se vylekala. „A co můžeme dělat?“
+
+„Pouze ty nám můžeš pomoci,“ odpověděla Stará Lípa. „Jsi čisté srdce. Musíš nalézt Kámen Moudrosti, který je ukrytý v srdci lesa. Ten kámen má moc zastavit čarodějnici.“
+
+„Ale kde mám ten kámen hledat?“ ptala se Klára, plná obav.
+
+„To už musíš zjistit sama,“ řekl Břízek. „Musíš následovat srdce a věřit si. Kámen tě povede.“
+
+Klára, navzdory svému strachu, přikývla. Věděla, že musí jednat. Nejen kvůli lesu, ale i kvůli sobě, aby ukázala odvahu. Rozloučila se se stromy a s novým odhodláním se vydala na cestu.
+
+Les se najednou změnil. Již nebyl tak veselý. Ve stínu se objevovaly nejasné tvary a ozývaly se tiché, zlověstné zvuky. Klára musela překonat spoustu překážek. Pomocí stromečku s plody třešní překonala zrádný potůček, kde hrozilo, že ji zlá vodní víla vtáhne do své říše. S pomocí lišáka, který jí radil v obtížných chvílích, se probojovala přes bludiště šípkových keřů. Neustále se musela chránit před černými havraňími, kteří sledovali každý její krok.
+
+Srdce ji vedlo stále hlouběji do lesa. Všude kolem cítila napětí, temnotu.
+
+Po dlouhé cestě, když už se zdálo, že je zcela vyčerpaná, dorazila na samotné srdce lesa – k prastarému jezírku. Klára se sklonila k vodě a v odraze spatřila nečekanou věc. Nikoli její tvář, ale malý, zářící kámen. Kámen Moudrosti.
+
+Opatrně jej z vody vyndala a vzala jej do ruky. Jeho teplo ji zalilo a Klára pocítila ohromnou sílu. V tu chvíli se před ní zjevila zlá čarodějnice, její oči zářily nenávistí.
+
+„Odevzdej mi kámen, děvče!“ zahučela čarodějnice.
+
+Klára se nezalekla. Zvedla Kámen Moudrosti a s odhodláním v hlase řekla: „Nikdy!“
+
+Slovo vypustila silnou vlnu energie, která zahalila čarodějnici a navždy ji zahnala z lesa. Temnota zmizela, a les se opět rozzářil. Stromy zazářily radostí, víly začaly tančit ještě radostněji.
+
+Klára se vrátila ke Dědu Dubovi, který se na ni hrdě usmíval. Za její odvahu a dobrotu se Začarovaný les vzkřísil. Z Kláry se stala strážkyně lesa. Vždy, když ji stromy potřebovaly, byla tam. A ona věděla, že její dobrodružství nikdy nekončí. A s každým dalším dobrodružstvím v lese poznávala víc o sobě a o moci dobra. A od té doby se Klára už nikdy nebála vstoupit do Začarovaného lesa, protože věděla, že má přátele, na které se může spolehnout, a s kterými se může dělit o to nejcennější – moudrost, odvahu a přátelství. A to je důvod, proč je příběh o Kláře a mluvících stromech stále vyprávěn, den po dni, rok po roce, v útulných chaloupkách v malebném údolíčku, kde slunce svítí nejjasněji.
+</body>
+```

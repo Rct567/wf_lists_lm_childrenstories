@@ -1,0 +1,109 @@
+<prompt>
+Please write a dialog-based Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kichkina bolaning sevgan o'yinchoqlari bilan bo'lgan do'stlik haqidagi hikoya.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>uz</lang_id>
+
+```uz
+<title>Kichkina bolaning sevgan o'yinchoqlari bilan bo'lgan do'stlik haqidagi hikoya.</title><body>
+— Assalomu alaykum, dadajon! — dedi Alisher, ertalab uyg'onib. Uning ko'zlari hayratga to'la edi, chunki quyosh nurida o'yinchoqlari xuddi jilmayayotgandek ko'rinardi.
+
+— Vaalaykum assalom, jonim bolam! Xayrli tong! Bugun yana bir qiziqarli kun boshlanmoqda! — deb javob berdi dadasi kulib.
+
+Alisher o'rnidan turib, derazaga yugurdi. Uning xonasida ko'plab o'yinchoqlari bor edi: qizil mashina, yumshoq ayiq, mitti robot, rang-barang kubiklar va boshqalar. Ular Alisher uchun juda qadrli edi.
+
+— Dadajon, bugun biz bog'chaga boramizmi? — so'radi Alisher.
+
+— Ha, bolam, boramiz. Lekin avval sen o'yinchoqlaring bilan salomlashib qo'y. Ular ham seni sog'inishgan bo'lishlari kerak! — dedi dadasi.
+
+Alisher yugurib o'yinchoqlariga yaqinlashdi.
+
+— Salom, mashinajon! Qanday yuring? Bugun biz siz bilan qiziqarli sarguzashtlar o'ynaymiz! — dedi u qizil mashinaga.
+
+— Bip-bip! Men tayyorman! Keling, darhol sarguzashtga kirishamiz! — deb javob berdi qizil mashina, Alisherning tasavvurida.
+
+— Salom, ayiqcha! Yaxshimisiz? Sizni quchoqlash juda yoqimli! — dedi Alisher yumshoq ayiqchani quchoqlab.
+
+— Mmm, men juda yaxshiman. Faqat sen bilan o'ynashni juda sog'indim! — dedi ayiqchani ovozi, Alisherning qulog'ida.
+
+— Robob, salom! Qanday kun? Bugun sizni tuzatamiz! — dedi Alisher robotga. Uning qo'lidan kichik qalamchasi bilan "buzilgan joyini" chizdi.
+
+— Bip-bip! Men yaxshiman! Tuzatish uchun juda minnatdorman, bolakay! — dedi robotning ovozi.
+
+Keyin u kubiklarga yuzlandi.
+
+— Kubiklar, salom! Bugun biz sizlardan baland qal'a quramiz! — dedi u kubiklariga.
+
+— Biz tayyormiz! Keling, darhol boshlaymiz! — deb javob berdi kubiklar, Alisherning aqlida.
+
+— Xo'sh, o'yinchoqlar, sizlar bilan o'ynashga tayyorman! — dedi Alisher quvonch bilan.
+
+Ular birga o'ynay boshladilar. Mashina polida "yugurdi", ayiqcha Alisher bilan quchoqlashdi va robot "buzilgan" joyini tuzatdi. Kubiklardan esa baland qal'a qurildi.
+
+— Alisher, nonushta qilish vaqti keldi! — dedi dadasi.
+
+— Mayli, dadajon. Ammo biz o'yinni tugatmaymiz, axir? — so'radi Alisher.
+
+— Yo'q, albatta. Siz nonushtadan keyin yana o'ynashingiz mumkin. O'yinchoqlar kutishadi, — dedi dadasi.
+
+Nonushta qilingandan so'ng, ular bog'chaga yo'l olishdi.
+
+Bog'chada Alisher boshqa bolalar bilan o'ynadi, lekin u o'yinchoqlarini ham sog'indi.
+
+— Salom, o'yinchoqlar! Sizni juda sog'indim! — dedi u uyga kelgach.
+
+U yana o'yinchoqlariga qaradi va ularning har biri bilan gaplashdi.
+
+— Mashinajon, sizni bugun olib o'ynata olmadim. Lekin ertaga siz bilan uzoq sayohatga chiqamiz! — dedi u qizil mashinaga.
+
+— Bip-bip! Men tayyorman, bolakay! Ertaga siz bilan yana qiziqarli sarguzashtlar kutaman! — dedi mashina.
+
+— Ayiqcha, bugun sizni juda siqib quchoqlashim kerak! — dedi Alisher ayiqchaga.
+
+— Mmm, juda ajoyib! Sen meni quchoqlaganingda, o'zimni xavfsiz his qilaman, — dedi ayiqcha.
+
+— Robob, bugun siz juda zo'r bo'ldingiz! — dedi Alisher robotga.
+
+— Bip-bip! Men har doim sizga yordam berishga tayyorman, bolakay! — dedi robot.
+
+— Kubiklar, ertaga sizlardan juda katta qal'a quramiz! — dedi Alisher kubiklarga.
+
+— Biz tayyormiz! Ertani intizorlik bilan kutamiz! — dedi kubiklar.
+
+Ular yana o'ynay boshladilar. Bu safar ular birgalikda uydan sayohat qilishdi: mashina gulli bog'dan o'tdi, ayiqcha Alisher bilan birga sayr qildi, robot esa yo'ldagi barcha narsalarni himoya qildi, kubiklardan esa ulkan uy qurildi.
+
+Kechqurun Alisher uyquga ketishdan oldin yana o'yinchoqlari bilan xayrlashdi.
+
+— Xayr, mashinajon! Ertagacha!
+
+— Bip-bip! Xayr, bolakay! Shirin tushlar!
+
+— Xayr, ayiqcha! Shirin tushlar!
+
+— Mmm, siz bilan shirin tushlar ko'raman!
+
+— Xayr, robob! Ertagacha!
+
+— Bip-bip! Sizga ham shirin tushlar!
+
+— Xayr, kubiklar! Ertagacha!
+
+— Xayr, bolakay! Tezroq uxlashga yotib, biz siz bilan ertaga yangi o'yinlarni kutamiz!
+
+Alisher yuzida tabassum bilan uxlab qoldi, chunki u o'yinchoqlarining do'stligi qanchalik muhim ekanligini bilar edi. Ular unga quvonch va dalda bag'ishladilar. Ular uning uchun doimo yonida edi, hatto uxlab yotganida ham.
+Ular shunchaki o'yinchoq emas edi, ular uning eng yaqin do'stlari edi.
+
+Ertasi kuni Alisher uyg'onib yana o'yinchoqlari bilan quvonch bilan salomlashdi. Va hayot davom etdi, o'yinlar va sarguzashtlar bilan to'la, chunki kichkina bola va uning sevgan o'yinchoqlari bir-birlariga juda bog'liq edilar. Ular har kuni birga o'ynab, do'stliklariga qadr berishni davom etardilar.
+Har bir yangi kun - yangi imkoniyatlar, yangi o'yinlar va o'yinchoqlar bilan do'stlashish imkoniyati edi. Ular baxtli edilar, chunki ular birga edilar. Va bu do'stlik abadiy davom etdi...
+Alisherning yuragida o'yinchoqlariga bo'lgan cheksiz sevgi abadiy yashardi.
+Ular uning hayotining bir qismi edi. Ular uning do'stlari edi. Ular uni baxtli qildilar.
+Va bu baxt hech qachon tugamadi.
+</body>
+```

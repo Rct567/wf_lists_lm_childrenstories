@@ -1,0 +1,52 @@
+<prompt>
+Please write a educational Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Zázračná kniha, co vyprávěla dobrodružství, která se stala skutečností.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>cs</lang_id>
+
+```xml
+<title>Zázračná kniha, co vyprávěla dobrodružství, která se stala skutečností.</title><body>
+V jedné malé české vesničce, schované mezi zelenými kopci a třpytivými rybníky, žila malá holčička jménem Anička. Anička měla ráda dobrodružství, ale ve vesnici se jich moc nedělo. I když bylo okolí překrásné, s loukami plnými květin, lesy plnými ptáků a potůčky, v nichž se zrcadlila modrá obloha, toužila Anička po něčem víc.
+
+Její nejoblíbenější místo byla stará půda u babičky. Tam, mezi prachem a starými krabicemi, se nacházely poklady. Šaty po prababičce, vybledlé fotografie a... ohromná, tlustá kniha v kožené vazbě. Byla těžká a tlustá, s tajemnými zámky na zapínání. Na deskách knihy nebylo nic napsáno, ale Aničku fascinovala.
+
+Jednoho deštivého odpoledne, když si Anička hrála na půdě, se odvážila knihu otevřít. Potřebovala klíč, ale po chvilce zkoumání zjistila, že zámky nejsou vůbec zavřené, jen pevně drží desky. Opatrně knihu otevřela. Uvnitř byly stránky, které vypadaly, jako by byly napsány inkoustem, co svítil jemným, zlatým světlem. První strana nesla nadpis: "Cesta do kouzelného lesa."
+
+Anička začala číst a slova jako mávnutím kouzelného proutku ožívala. Vyprávělo se o malém chlapci, který se vydal do hlubokého lesa hledat ztraceného pejska. Popisovalo se, jak chlapec překonal divokou řeku pomocí starého mostu a jak se setkal s moudrou sovou, která mu pomohla najít správnou cestu. Anička se cítila, jako by se tam ocitla s ním.
+
+Najednou, když dočetla stránku, pocítila silné nutkání se projít do lesa, co byl hned za vesnicí. Cesta, kterou chlapec v knize popsal, ji zvala. Vydala se ven a nevěřila svým očím. Cesta, o které četla, se před ní skutečně objevila! Divoká řeka, starý most, který se teď jevil jako bezpečný a pevný. A pak, nedaleko od něj, na větvi starého dubu seděla sova. Byla krásná, s hnědým peřím a velkými, zlatými oči. Anička si uvědomila, že je to stejná sova, jako byla v knize.
+
+"Dobrý den, sovo," pozdravila Anička s úctou.
+
+Sova tiše zaševelila křídly a moudře se na ni podívala. "Hledáš něco, dítě?" zazněl hlas, jemný jako větřík.
+
+Anička jí vyprávěla o knize a dobrodružství, které v ní četla. Sova jí poradila, jak pokračovat, a Anička se vydala dál. Potkala i malého chlapce, který hledal svého pejska! S velkým úsilím ho nakonec našli a pejsek byl nesmírně šťastný.
+
+Když se Anička vrátila domů, byla nadšená. Okamžitě běžela na půdu a otevřela knihu znovu. Tentokrát se na další stránce objevilo nové dobrodružství: "Putování za ztraceným pokladem v hluboké jeskyni."
+
+Tentokrát to bylo o dívence, která s mapou v ruce a pochodní v ruce sestupovala do tajuplné jeskyně. V jeskyni se nacházelo spoustu překážek, strašidelné zvuky a netopýři. Nakonec však dívka našla poklad: truhlu plnou starých knih. Anička, unesená příběhem, se i tentokrát vydala na cestu.
+
+Tentokrát šla do nedalekého kopce, kde se údajně nacházela stará jeskyně. Bála se, ale zároveň byla nesmírně zvědavá. Po chvíli hledání našla vchod do jeskyně. Jeskyně byla tmavá, vlhká a strašidelná, ale Anička se statečně vydala dovnitř. S pomocí baterky, kterou si vzala od babičky, se orientovala v temnotě. Narazila na netopýry, slyšela podivné zvuky, ale nevzdávala se. Po chvíli našla poklad! Byla to truhla plná starých knih. Anička si jich několik vzala a s radostí se vrátila zpět domů.
+
+Po každém dobrodružství se kniha sama otevřela na nové stránce. Jednou Anička zachraňovala ztraceného kotě v bažině, jindy pomáhala ptáčkovi, co vypadl z hnízda, nebo hledala staré recepty na skvělé koláče pro babičku.
+
+Kniha vždycky věděla, jaká dobrodružství Anička potřebuje, aby byla šťastná a spokojená. Ale co se dělo po jejím splnění? Po každém dobrodružství si Anička v knize zapsala, co prožila, jaké dojmy měla, a naučila se něco nového. Na prázdnou stránku si nakreslila obrázek a přidala malý popisek. Byly to vlastně i její deníky. A to nejdůležitější: ty zázračné příběhy ji učily, jak důležité je být statečný, pomáhat druhým a objevovat svět kolem sebe.
+
+Anička pochopila, že skutečná dobrodružství nejsou jen v knihách, ale i v životě. Že i v obyčejné vesnici se dají prožít úžasné věci, pokud se člověk odváží dívat se kolem sebe a hledat je. A kniha? Zůstala její věrným průvodcem, který jí pokaždé ukázal cestu k novým zážitkům.
+
+Postupně se dobrodružství z knihy stávala náročnější, zkoušela Aniččinu statečnost a vynalézavost. Musela se orientovat v mapách, řešit hádanky a učit se poznávat rostliny a zvířata. Zažívala i malé problémy, ale díky zkušenostem z knihy vždycky našla řešení. Jednou dokonce zachraňovala vesnici před velkým požárem. Vzpomněla si na rady z knihy a zorganizovala pomoc pro ostatní, takže všichni nakonec byli v bezpečí.
+
+Časem se o kouzelné knize dozvěděly i další děti z vesnice. Anička je brala s sebou na svá dobrodružství. Společně se učili, objevovali svět a tvořili krásné vzpomínky.
+
+A tak žila Anička šťastně, obklopená svými kamarády, dobrodružstvími a tou zázračnou knihou, která ji učila, jak žít plnohodnotný a krásný život. A každý den si uvědomovala, že i když dobrodružství mohou začít na stránkách staré knihy, ta nejlepší a nejpravdivější dobrodružství se odehrávají v reálném světě, stačí se jen rozhlédnout kolem sebe a otevřít své srdce.
+
+Konec.
+</body>
+```

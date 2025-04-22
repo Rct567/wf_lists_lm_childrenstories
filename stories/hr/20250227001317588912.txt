@@ -1,0 +1,40 @@
+<prompt>
+Please write a silly Croatian children's story that is at least 1000 words long.
+It must be completely written in proper Croatian (HR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Veliki rat između dobra i zla'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hr</lang_id>
+
+<title>Veliki rat između dobra i zla</title>
+<body>
+U malom selu Šareni Potoci, gdje su se suncokreti natjecali u visini, a cvrčci u pjesmi, živio je mali miš s velikim nosom, ime mu je bilo Pipi. Pipi nije bio samo mali, bio je i neobično sramežljiv.  Kad bi susreo mačku, zaledio bi se kao kipić od šećera.
+
+No, u Šarenim Potocima nije sve bilo idilično. Na brdu, iza starog hrasta, živio je Zmaj Goran, zlokoban zmaj s vatrenim dahom i još zlokobnijim raspoloženjem. Goran je mrzio sve što je lijepo i veselo, a posebno suncokrete, jer njihovi žuti cvjetovi nisu odgovarali njegovoj tmurnoj duši. Planirao je potpuno uništiti Šarene Potoke, prekriti ih vulkanskoburmetim prahom i uzgajati samo crne, grmljavinske gljive!
+
+Pipi je čuo Zmaj Goranovu zlokobnu zavjeru iz čudotvorne mačkove šape, zvane Klara. Ona, preko tisuću mačkove dlake, s njom bi čitava sela čula tiho hujanje zlog plana.  
+
+“Što ćemo? – zapitao se Pipi.  – Ja ne znam letiti, niti znam boriti se u borbama s vatrenim dahom! Nisam ni hrabar!”
+
+Upravo je u tom trenutku u selu prolazila stara baka Maša, poznata po svom šarolikom, šarenim vrećama puna divnih začina. Ona je smirivala i liječila ne samo ljude nego i cijele priče! Pipi je pobjegao u baku, dršćući od straha.
+
+“Bako Mašo, Zmaj Goran namjerava uništiti Šarene Potoke!” izgovorio je Pipi, gubići pogled na svoje mali nožice.
+
+“Ah, mali heroje – rekla je baka Maša – ne bojte se! Zlo će se uvijek pobijediti dobrom. A ti imaš veliku snagu, ali i veliko srce! Na svakoj ruži, u svakom cvijetku, u svakom smiješku imaš moć borbe! Pozovi sve građane Šarenih Potoka! Danas, više od ikad, dobro je najveće!”
+
+I tako se dogodilo!  Svi su Šareni Potočani – zec Martin, vjeverica Vesna, žaba Josip, čak i cvrčci – došli su na obilježavanje borbe dobra i zla.  Pripremili su najslađe i najsloženije kolače i sladoled, zvuke svirali su najbolji svirači Šarenih Potoka, koji su plesali najviše iz svih suta. Na glavnom trgu, postao je živa pozornica prepun boje i energije.
+
+Zmaj Goran, vidjevši takav žurku, ljutito se iskašljao iz svog vulkanske brda. Mislio je da će njegova mračna snaga uplašiti stanovnike Šarenih Potoka. Ali, što je Goran ne znao jest da su cvjetni mirisi Šarenih Potoka tako jaki da bi zbunili i najgrublju mračnost!
+
+"Eto, gledajte me!", vikao je Zmaj Goran iz brda. "Samo jedna sićušna iskra mog bijesa može uništiti sve!"
+
+U tom trenutku, Pipi, koji se uvijek sakrio iza bake Maše, izvadio je veliku i sjajnu sliku sunca. Bila je to slika sunca u cvatu! Iz slikovne ploče sunca se prosula deseci divnih malih zraka koje su sve oko sebe obojile u najsjajnije boje i zrake svjetla!  Koliko se sliku često prepoznavanje zbog svog divnog žutića! I to se je odvijalo svjetlu. Kako se slika i dalje svjetlucala, tako su se sve more cvijeća raspršila iznova i sve oko njih obojili sunčano žuti cvijet! I tako je od sjaja i sjaja isprepletenih boja sunčeve slike obasjala sve oko sebe sjajnim sunčanim svjetlom.
+
+Goran, koji je bio naviknut na tamne i hladne stvari, bio je upečatljivo šokiran.  Osjetio je silinu te vatre u cvijeću! Neobični žari sve boje pobijedila je njegovu zloupravljajuće energije. Njegova srca su se pomirala i shvaćalo je pobjeda, a ljubav svjetskih ljudi i neke druge prelijepe svjetske stvari.
+Iz tog dana je Goran prestao biti zli zmaj.  Postao je šareni i simpatični Goran, zaljubljenik u sunce i u ljepotu.  U Šarenim Potocima, život se nastavio veselo, a Pipi, zahvaljujući svojoj sramežljivosti i hrabroj odluci, postao je simbol za svako dobro srce u tom smiješnom i prelijepom selu. I s ljubavlju i radošću je podizao i zbog njegovog pohoda kroz divlju slobodu sve boje Šarenih Potoka!
+</body>

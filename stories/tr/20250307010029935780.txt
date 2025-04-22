@@ -1,0 +1,53 @@
+<prompt>
+Please write a silly Turkish children's story that is at least 1000 words long.
+It must be completely written in proper Turkish (TR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Gökyüzünden Düşen Yıldızın Dileği'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>tr</lang_id>
+
+```xml
+<title>Gökyüzünden Düşen Yıldızın Dileği</title>
+<body>
+Bir zamanlar, masmavi gökyüzünde, pamuk şekerine benzeyen bulutların arasında, pırıl pırıl parlayan bir yıldız yaşarmış. Bu yıldızın adı Parıltı'ymış ve dünyanın en eğlenceli, en şakacı yıldızıymış. Parıltı, diğer yıldızlarla saklambaç oynamayı, Ay dedeyle ninni söylemeyi ve Güneş amcayla kahkahalar atmayı çok severmiş. Ama Parıltı'nın en sevdiği şey, gökyüzünden aşağı, yeryüzüne bakmakmış. Orada, minik çocuklar koşuşturuyor, renkli balonlarla oynuyor, dondurma yiyorlarmış. Parıltı, onların hayatına bir şekilde dahil olmak için can atarmış.
+
+Bir gün, Parıltı gökyüzünde oyun oynarken, yanlışlıkla bir kayada takılmış ve "Oof!" diye bağırmış. Küt diye aşağı doğru düşmeye başlamış! Önce korkmuş, sonra heyecanlanmış. "Acaba yeryüzünde neler var?" diye merak etmiş. Hızla düşerken gördüğü her şey, ona bir masal gibi gelmiş. Ağaçlar devasa yeşil fırçalar gibi, nehirler gümüş kurdeleler gibi, evler ise rengarenk oyuncak kutuları gibiymiş.
+
+Nihayet, yumuşacık bir çayıra düşmüş. "Pof!" diye bir ses çıkmış ve Parıltı'nın ışığı biraz sönmüş. Etrafına bakmış, şaşkınlıktan gözleri faltaşı gibi açılmış. Her yer rengarenk çiçeklerle doluymuş, kelebekler dans ediyor, arılar vızıldayarak bal topluyormuş.
+
+Parıltı, küçük bir kedi yavrusu gibi etrafında dolanmaya başlamış. Yavaşça kalkmış ve ilk iş olarak dilek dilemiş. "Keşke bir çocuğun arkadaşı olabilseydim!" diye geçirmiş içinden. Dudaklarından minik bir kıvılcım çıkmış ve dileği anında gerçekleşmiş! Parıltı, aniden küçülmüş ve küçük, pembe bir oyuncak ayıcığa dönüşmüş.
+
+O sırada, çayırda piknik yapan minik bir kız çocuğu, Zeynep, Parıltı'nın ayıcık halini görmüş. Gözleri parlamış ve "Anne, bakın ne kadar tatlı bir ayıcık!" diye bağırmış. Annesi gülümsemiş ve "Gel bakalım, onu alalım Zeynep'cim," demiş.
+
+Zeynep, ayıcığı kucağına almış ve "Sen benim yeni arkadaşım olacaksın! Senin adın da Parıltı olsun mu?" diye sormuş. Oyuncak ayıcık Parıltı, tabii ki "Evet!" diye bağıramamış ama kalbinden sevinçle zıplamış.
+
+Zeynep, Parıltı'yı evine götürmüş ve onu odasına koymuş. Birlikte oyunlar oynamışlar, kitap okumuşlar, yemek yemişler (tabii ki Parıltı ayıcık olduğu için yemek yiyememiş ama Zeynep ona yemek yediriyormuş gibi yapmış). Zeynep, Parıltı'ya her şeyini anlatmış; okulunu, arkadaşlarını, hatta en sevdiği dondurmanın çilekli olduğunu bile.
+
+Bir gün, Zeynep'in canı çok sıkılmış. Hava yağmurluymuş ve dışarı çıkamamış. Parıltı'ya, "Ne yapalım şimdi?" diye sormuş üzgün bir sesle.
+
+Oyuncak ayıcık Parıltı'nın aklına bir fikir gelmiş. Zeynep'in en sevdiği masal kitabını raftan indirmesini işaret etmiş burnunu oynatarak. Zeynep anlamış ve kitabı almış. Parıltı, Zeynep'in yanında oturmuş ve kitabı dinlemiş. Zeynep, masalı okurken kahkahalar atmış, heyecanlanmış ve sonunda uyumuş. Parıltı, Zeynep'i izlemiş ve onun mutluluğuyla sevinmiş.
+
+Günler, haftalar, aylar geçmiş. Zeynep ve Parıltı birbirinden hiç ayrılmamışlar. Birlikte büyümüşler, birlikte hayaller kurmuşlar. Ama bir gün, Parıltı'nın içindeki o parlaklık azalmaya başlamış. Çünkü bir yıldızın yeryüzünde kalması, gökyüzünde parlamamasına neden olurmuş.
+
+Zeynep, Parıltı'nın renginin solduğunu fark etmiş. "Parıltı, sana ne oluyor?" diye sormuş endişeyle.
+
+Oyuncak ayıcık Parıltı, Zeynep'e her şeyi anlatmak istemiş ama konuşamamış. Gözlerinden minik ışıklar süzülmüş.
+
+Zeynep, Parıltı'nın ne demek istediğini anlamış gibi olmuş. Onu kucağına almış, yatağının penceresine oturmuş. "Hadi, gökyüzüne bakalım, Parıltı," demiş.
+
+Gökyüzüne baktıklarında, Parıltı'nın gökyüzündeki gerçek yıldız kardeşleri, onlara doğru parlamış. Parıltı'nın içindeki son ışık kıvılcımı parlamış, ayıcık birden bire havaya yükselmeye başlamış. Gözyaşlarıyla karışık bir gülümsemeyle Zeynep, "Güle güle, Parıltı. Seni hiç unutmayacağım!" demiş.
+
+Parıltı, gökyüzüne yükselmiş ve eski parlaklığına kavuşmuş. Diğer yıldızlarla birlikte dans etmiş, kahkahalar atmış. Artık tekrar gökyüzünde parlıyormuş, ama kalbi hep Zeynep'teymiş.
+
+Zeynep, her gece gökyüzüne bakmış ve Parıltı'yı aramış. En parlak yıldızın, onun sevgili arkadaşı Parıltı olduğunu bilerek uyumuş. Ve Parıltı, her gece Zeynep'e parlak ışıklarıyla göz kırpmış.
+
+Bir gün, Zeynep büyümüş, kocaman bir kız olmuş. Ama oyuncak ayıcık Parıltı'yı hiç unutmamış. Onu sakladığı sandıktan çıkarmış, gözyaşlarıyla öpmüş ve "Sen benim en güzel anılarımın parçasısın, Parıltı," demiş.
+
+Ve o günden sonra, Zeynep her zaman gökyüzüne bakmış, yıldızlara gülümsemiş ve "İyi ki varsın Parıltı," demiş. Çünkü Parıltı, gökyüzünden düşen bir yıldızın dileğiyle, onun kalbinde sonsuza dek yaşamış. Ve o yıldızın hikayesi, kuşaktan kuşağa anlatılmış, dünyadaki tüm çocuklara umut ve sevgi vermiş. Kim bilir, belki de siz de gökyüzüne baktığınızda, Parıltı'nın ışıltısını hissedersiniz.
+</body>
+```

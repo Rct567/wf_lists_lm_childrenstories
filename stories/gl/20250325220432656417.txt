@@ -1,0 +1,57 @@
+<prompt>
+Please write a emotional Galician children's story that is at least 1000 words long.
+It must be completely written in proper Galician (GL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Como o galo aprendeu a pescar na costa'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>gl</lang_id>
+
+```xml
+<title>Como o galo aprendeu a pescar na costa</title>
+<body>
+Nun recuncho verde e salpicado polo vento, xusto onde a terra galega bica o mar bravío, vivía un galo chamado Xaquín. Xaquín, a diferenza dos seus compañeiros, non tiña interese ningún polas galiñas nin polos grans de millo. O seu corazón palpitaba ao son das ondas, e os seus ollos, azuis coma o ceo de verán, miraban sempre cara ao horizonte.
+
+Cada día, cando o sol douraba as pedras da costa, Xaquín abandonaba o galiñeiro e dirixíase cara á praia. Sentaba nunha rocha alta, cunha vista privilexiada do océano, e pasaba horas e horas a observar. Observaba as gaivotas que planaban con elegancia, os golfiños que xogaban entre as ondas, e, sobre todo, aos pescadores que lanzaban as súas redes con destreza.
+
+A Xaquín fascináballe a paciencia dos pescadores, a súa conexión co mar, e o tesouro brillante que sacaban das profundidades. El tamén quería pescar, non para comer, senón para sentir esa mesma conexión co océano, para formar parte dese mundo azul e misterioso que tanto o atraía.
+
+Os outros animais da granxa burlábanse del. “Que fai ese galo na praia?”, dicían as galiñas, rindo a gargalladas. “Non ves que non tes mans para suxeitar unha cana de pescar?”, piaban os pitos. Pero Xaquín non lles facía caso. Sabía que o seu corazón dicíalle que era posible, que el podía aprender a pescar.
+
+Un día, coa axuda dun vello mariñeiro chamado Manuel, Xaquín comezou o seu adestramento. Manuel, que vivía nunha pequena casa con vistas ao mar, e que tiña un barba branca coma a escuma das ondas, aceptou ensinar a Xaquín os segredos da pesca.
+
+“Non é doado, rapaz”, advertiu Manuel cun sorriso nas súas engurradas fazulas. “A paciencia é a clave, e o respecto ao mar, tamén.”
+
+Xaquín, cos ollos brillantes, escoitaba con atención. Manuel ensinoulle a distinguir as diferentes especies de peixes, a identificar as zonas máis propicias para a pesca, e a manipular a cana e o fío con habilidade.
+
+As primeiras semanas foron frustrantes. Xaquín intentaba e intentaba, pero os peixes escapábanse sempre do anzol. A frustración era grande, pero a determinación de Xaquín era maior. Non se rendía nunca. Volvía á praia cada día, soportando o sol, o vento e as burlas dos demais.
+
+Unha mañá, cando o sol comezaba a xurdir do mar, Xaquín sentiu un tirón forte na cana. O fío estirábase con forza, e Xaquín, tremendo de emoción, loitou contra o peixe con todas as súas forzas. Despois dunha longa batalla, conseguiu subir á superficie un pequeno robaliza, un peixe prateado que brillaba baixo a luz do sol.
+
+A emoción foi indescriptible. A sensación de ter conquistado o mar, de formar parte del, encheulle o corazón de alegría. Volveu á granxa orgulloso do seu logro, e amosoulle o peixe a todos os animais. Os seus compañeiros quedaron abraiados. As galiñas, desta vez, quedaron caladas.
+
+A partir dese día, Xaquín converteuse nun pescador. Todos os días, antes de que o sol se escoñecese, Xaquín ía á costa e lanzaba a súa cana. Co paso do tempo, foise facendo máis experto, e as súas capturas eran cada vez máis abundantes. Compartía o seu peixe con Manuel, e ás veces, con algúns dos seus compañeiros da granxa, pero a maioría das veces, devolvíaos ao mar, porque o que realmente quería era a conexión co mar, a experiencia de pescar, a amizade coa auga salgada.
+
+Un día de inverno, unha forte tormenta abateuse sobre a costa galega. As ondas eran xigantescas, e o vento rugía con forza. Xaquín, preocupado pola seguridade de Manuel, que vivía só na súa casa á beira do mar, decidiu ir buscar axuda.
+
+Correu a través do vento e da choiva, pedindo axuda aos veciños. Os mariñeiros, impresionados pola valentía do galo, reuníronse e foron a rescatar a Manuel.
+
+A partir de entón, Xaquín converteuse nun heroe local. A súa coraxe e a súa conexión co mar foron recoñecidas por todos. As galiñas e os pitos, xa non se burlaban, senón que o admiraban. E o propio mar, parecía responder ao galo, brindándolle cada día unha beleza indescriptible.
+
+Unha tarde, mentres Xaquín estaba sentado na súa rocha favorita, observando o sol poñéndose no horizonte, Manuel achegouse a el.
+
+“Xaquín, meu rapaz”, dixo Manuel cun sorriso, “es máis galego ca moitos que levan o nome”.
+
+Xaquín, abriu os ollos. “Como, Manuel?”
+
+Manuel respondeu: “Galego non é só quen nace na terra, senón quen sente a terra dentro. E ti, meu rapaz, sentes o mar dentro do teu corazón.”
+
+Xaquín sorriu. Sabía que Manuel tiña razón. A súa paixón polo mar, a súa paciencia, a súa valentía e o seu corazón, facíano, verdadeiramente, galego. E aínda que era un galo, nese recuncho da costa galega, era máis que iso: era un pescador, un amigo do mar, un heroe.
+
+E así, cada día, Xaquín volveu á costa, non só para pescar, senón para celebrar a beleza do mar, para aprender dos seus segredos, e para sentir a súa conexión coa terra que o viu nacer, unha terra que o abrazaba, coma as ondas ao final da xornada, no longo e incansable abrazo.
+</body>
+```

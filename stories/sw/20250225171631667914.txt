@@ -1,0 +1,38 @@
+<prompt>
+Please write a funny Swahili children's story that is at least 1000 words long.
+It must be completely written in proper Swahili (SW).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Maendeleo ya Fikra na Ustadi wa Kufikiri'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sw</lang_id>
+
+<title>Maendeleo ya Fikra na Ustadi wa Kufikiri</title><body>
+Mara moja, katika kijiji kidogo cha Mlima Kilimanjaro, kuliishi simba mdogo jina lake  Simba-Furaha. Simba-Furaha hakuwa kama simba wengine wa kijiji. Wakati wenzake walikuwa wakipiga kelele na kurarua nyasi, Simba-Furaha alikuwa anapenda kucheza na mawazo yake.  Alipenda kujenga majumba ya mchanga, kutengeneza hadithi za ajabu, na kufikiri jinsi ya kufanya mambo yawe rahisi.
+
+Siku moja,  Simba-Furaha aliona nyuki wengi wakipambana kubeba asali kwenye mtungi mkubwa. Nyuki hao walikuwa wakipiga kelele na kupanda na kushuka, wakikosa mbinu ya kubeba mzigo huo mzito.  Simba-Furaha aliona haya na akafikiri, "Hawa nyuki wanapambana sana. Je, kuna njia rahisi ya kubeba asali?"
+
+Akaanza kufikiri. Alifikiria jinsi watu wanavyoweza kubeba mzigo. Alifikiria magari, magari ya kubeba mizigo.  Aligundua kwamba mtu mzuri wa kubeba mizigo huzingatia mizigo ili iweze kubeba kwa urahisi.  Akapanda mti mrefu karibu na nyuki hao na kuangalia.
+
+Simba-Furaha aliona kwamba nyuki hao walikuwa wakipiga kelele na kupoteza muda mwingi wakipanda na kushuka na asali hiyo nzito. Akafikiri, "Je, kama nyuki hao wangeweza kutoa asali kidogo kidogo?"  Alijua kwamba asali kidogo kidogo ingekuwa rahisi kubeba.
+
+Alipiga kelele kubwa, "Nyuki, Nyuki! Sikieni!" Nyuki hao wote walimtazama. Simba-Furaha akawaambia kwa sauti ya upole na ya busara, "Nimeona mbinu nzuri ya kubeba asali yenu. Mnaweza kugawanya asali katika vipande vidogo vidogo na kubeba kila kipande kwa upande mmoja."
+
+Nyuki mmoja alijibu kwa sauti ndogo,  "Lakini, Simba-Furaha, si rahisi kufanya hivi!"
+
+Simba-Furaha akacheka. "Mimi nawaambia, nyinyi ni nyuki wenye nguvu. Gawanyeni asali vipande vidogo vidogo. Mtaona kama nyinyi mnaweza kushika vipande vidogo vidogo na kubeba kwa urahisi zaidi!"
+
+Nyuki wengine wakashangaa, lakini wengine wakazungumza na kutafakari. Waligawanya asali vipande vidogo kidogo. Waliweza kubeba vipande hivyo vidogo na kuruka kwa urahisi.  Waliweza kubeba asali zao kwa urahisi zaidi kuliko kabla.
+
+Nyuki wote wakafurahi sana. Walimshukuru Simba-Furaha kwa hekima yake. Simba-Furaha alifurahi mno kuona kwamba mawazo yake yalikuwa ya manufaa.  Alifikiri kwamba, "Kama mimi ninaweza kutatua tatizo la nyuki, nitaweza pia kutatua matatizo mengine mengi."
+
+Siku hizo, Simba-Furaha alisafiri mbali mbali akipata matatizo ya watu na kuyafanyia kazi kwa akili yake.  Alikutana na mbweha aliyekuwa akipambana na mlima mrefu wa viazi. Simba-Furaha alimuambia mbweha kuhusu kugawanya mzigo. Mbweha akamshukuru sana Simba-Furaha.
+
+Pia alikutana na panya aliyekuwa akipambana na kubeba nafaka kwa matatizo. Alikwenda kwa wakulima kuombea mbinu nzuri ya kuhifadhi nafaka. Simba-Furaha alishauri kuwa wahifadhi nafaka mahali salama na kuandaa nafaka vizuri.
+
+Simba-Furaha aliendelea kutatua matatizo mbalimbali kwa akili yake. Akawa mfano wa akili timamu katika kijiji cha Mlima Kilimanjaro.  Alionyesha kwamba kufikiri kwa umakini na ubunifu ni muhimu sana kwa kutatua matatizo na kuendeleza jamii.  Siku zote anakumbuka kuwa mawazo yake, ustadi wa kufikiri, na bidii ndio silaha muhimu zaidi kwa maendeleo.
+</body>

@@ -1,0 +1,43 @@
+<prompt>
+Please write a uncomplicated Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kto ukradł słońce z nieba w środku dnia?'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>pl</lang_id>
+
+<title>Kto ukradł słońce z nieba w środku dnia?</title>
+<body>
+Mały, rudowłosy chłopiec o imieniu Bartek, mieszkał w małym, kolorowym domku na skraju lasu.  Bartek uwielbiał obserwować niebo.  Każdego ranka, gdy budził się, pierwsze, co robił, to patrzył w górę, by zobaczyć, jak słońce maluje niebo w barwy pomarańczowe i różowe.  W południe, gdy słońce było wysoko na niebie, świeciło tak jasno, że Bartek mógł czytać książkę na zewnątrz, bez potrzeby używania latarki.  Dziś jednak, w środku dnia, słońce zniknęło.
+
+Niebo było szare, jakby ktoś wylał na nie kubek popiołu.  Chmury wisiały ciężko, a wiatr szeptał smutne piosenki wśród drzew.  Bartek, z książką w dłoni, spojrzał na niebo z niedowierzaniem.  Gdzie jest słońce?  Zrobiło się tak dziwnie, tak zimno.  Ptaki przestały śpiewać.  Nawet mrówki, zwykle tak pracowite, poruszały się powoli, jakby też czuły smutek.
+
+Bartek postanowił zbadać sprawę.  Wziął swoją ulubioną, drewnianą łódkę i ruszył na poszukiwania.  Płynął wzdłuż strumienia, który wiódł do lasu.  Spotkał wiewiórkę, która złapała go za ogon i powiedziała: "Słońce ukradł Złoty Wilk!  Ukrył je w swojej jaskini na szczycie góry Gwiaździstej.  Tylko ty, Bartek, możesz je odzyskać."
+
+Bartek, choć trochę przestraszony, nie dał za wygraną.  Złoty Wilk to legenda, opowiadana przez starszych.  Mówiono, że ma złote futro i potrafi rozmawiać z gwiazdami.  Bartek, pamiętając o opowieściach, włożył łódkę na plecy i ruszył w górę stromych gór.
+
+Droga była długa i trudna.  Bartek pokonywał kamienie, przekraczał strumienie i wspinał się po stromych zboczach.  Spotkał małego, przestraszonego jeżyka, który pokazał mu drogę do jaskini.  Wreszcie, po wielu godzinach, dotarł na szczyt góry Gwiaździstej.
+
+Przed nim była jaskinia, oświetlona złocistym blaskiem, który przebijał się przez szczeliny skalne.  Bartek, pełen odwagi, wszedł do środka.  Wewnątrz jaskini, na ogromnym łożu z kwiatów, siedział Złoty Wilk.  Miał złote futro, tak lśniące, że oślepiało.  W jednej łapie trzymał słońce, które wyglądało jak wielki, złoty klejnot.
+
+"Dlaczego ukradłeś słońce?" zapytał Bartek, głosem pełnym zdziwienia.
+
+Złoty Wilk spojrzał na Bartka, a w jego oczach błyszczały gwiazdy.  "Słońce było zbyt jasne, zbyt gorące dla mojego serca.  Chciałem pokazać innym, że świat może być piękny również w cieniu."
+
+Bartek pomyślał przez chwilę.  "Ale przecież świat jest piękny w słońcu.  Świat jest piękny w każdym kolorze, w każdym odcieniu."
+
+Złoty Wilk spojrzał na niego uważnie.  "Masz rację," powiedział cicho.  "Słońce jest ważne, ale świat potrzebuje też cienia.  Potrzebuje spokoju."
+
+Bartek uśmiechnął się.  "Chcę, żeby słońce wróciło na niebo."
+
+Złoty Wilk podał Bartekowi słońce.  "Weź je, Bartek.  Ale pamiętaj, słońce i cień są równie ważne."
+
+Bartek, z ogromną ostrożnością, wziął słońce i wyniósł je z jaskini.  Gdy tylko słońce dotknęło nieba, światło wypełniło wszystko wokół.  Ptaki zaczęły śpiewać, mrówki znów zaczęły pracować, a Bartek poczuł ciepło na twarzy.
+
+Bartek wrócił do domu, uśmiechając się.  Zrozumiał, że piękno świata polega na równowadze, na słońcu i cieniu, na radości i spokoju.  Od tamtej pory, Bartek zawsze pamiętał o tym, że świat potrzebuje zarówno słońca, jak i cienia, i że każdy ma swoją własną rolę do odegrania w tym pięknym, złożonym świecie.  A Złoty Wilk?  Bartek spotkał go jeszcze wiele razy, zawsze w momentach, gdy świat potrzebował odrobiny spokoju i cienia.
+</body>

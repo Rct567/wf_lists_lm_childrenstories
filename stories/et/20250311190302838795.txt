@@ -1,0 +1,65 @@
+<prompt>
+Please write a silly Estonian children's story that is at least 1000 words long.
+It must be completely written in proper Estonian (ET).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Salapärased Metsanõiad ja Saatuslik Suur Sammas'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>et</lang_id>
+
+```et
+<title>Salapärased Metsanõiad ja Saatuslik Suur Sammas</title><body>
+Ühel päris sügaval, kuskil Eesti metsade südames, elasid metsanõiad. Mitte sellised vanad, kortsus näoga ja kühmus seljaga nõiad, nagu sa neid raamatutest tead, vaid hoopis teistsugused. Need metsanõiad olid karvaste jalgadega, kannapikkuste juustega ja armastasid kanda hiigelsuuri, kirjusid sokke. Ja nad naersid kogu aeg! Nad naersid hommikust õhtuni, naersid päikese, vihma ja isegi lehtede langemise üle.
+
+Nende peamiseks tegevuseks, peale naeru, oli segamini ajamine. Jah, sa kuulsid õigesti! Nad ajasid asju meelega segamini. Nad vahetasid öö päeva vastu, pandi kuklalõuna kookide sisse ja sokkidele vorsti peale. See oli nende lõbu! Ja loomulikult teadsid nad kõiki metsaradu ja -salajasi.
+
+Nende peamine elupaik oli üks suur, õõnes puu, mille sees nad elasid nagu tillukesed majakesed. Ja peaaegu iga maja juures oli üks tohutult suur, kirju sammas. Üks sammas oli roosa täppidega, teine kollaste triipudega, kolmas siniste tähtedega – nad olid tõeliselt värvilised ja imelikud.
+
+Kõige tormilisem metsanõid oli Leena. Ta oli alati valmis seikluseks, armastas kõiki segamini ajada ja naeris kõige valjemalt. Tema lemmikvärv oli roheline ja ta kannatas alati ühe imelise, rohelise, karvase looma, nimega Krõbekoor. Krõbekoor oli nagu hiigelsuur karvane konn, kellel oli väga suur keel ja kes oskas süüa kõike, mis ette jäi.
+
+Teine metsanõid, kes tihtipeale Leenaga koos tegutses, oli Matilda. Matilda oli veidi rahulikuma loomuga, kuid mitte vähem segiajav. Tema lemmikvärv oli lilla ja ta armastas tantsida. Ta tantsis igal hommikul, kui päike hakkas tõusma, ja kutsus kõiki metsaloomi endaga tantsima – ka neid loomakesi, kes muidu kõige rohkem kartsid metsanõidu.
+
+Ühel päeval, kui päike paistis eriti eredalt ja Krõbekoor sõi parasjagu metsmarju, otsustasid Leena ja Matilda korraldada midagi eriti hullu.
+
+"Hmm," mõtles Leena, keerates üht rohelist sokki. "Mis siis, kui me vahetaksime ära kõikide tohutute sammaste juured?"
+
+Matilda peatus tantsus, ta silmad särasid. "See oleks suurepärane!" hüüdis ta. "Saame segadust juurde ja võib-olla leiavad loomad oma kodudele uued kohad!"
+
+Nii nad alustasidki. Nad võtsid kaasa suure mõõdulindi, kühvli ja hunniku kirjusid pliisid. Nad mõõtsid iga samba kõrguse, värvi ja eripära hoolega üles. Siis nad kaevasid iga samba juure alt välja ja vahetasid need ringi. Rohelise täppidega samba juur läks kollaste triipudega samba kohale, siniste tähtedega samba juur aga roosa täpipommiga samba juurde.
+
+Nad töötasid terve päeva, naerdes ja kilgates. Krõbekoor aitas neid kaevamisel ja sõi ära kõik ussid, mis nad leidsid. Kui päike hakkas loojuma, olid nad lõpuks valmis. Nad vaatasid oma tööd ja naersid veel kord kõvasti.
+
+"Nüüd jääme ootama," ütles Matilda, "et näha, mis juhtub!"
+
+Järgmisel hommikul, kui päike tõusis ja metsalinnud laulsid, oli metsas suur segadus. Kõik oli teisiti! Roosa täpipomm, mis varem seisis metsavahel, seisis nüüd järve ääres. Kollaste triipudega sammas oli aga sattunud keset metsaradu. Siniste tähtedega sammas seisis teiste sammaste taga peidus.
+
+Metsloomad, kes varem elasid sammaste ümbruses, olid segaduses. Oravad ei teadnud enam, kuhu oma tammetõrud peita. Siilid eksisid oma kodudesse. Hundid ulgusid kurbusel, sest nende metsarad olid nüüd teistsugused.
+
+Leena ja Matilda vaatasid seda segadust pealt, naerdes kõvasti. "Oh, see on suurepärane!" hüüdis Leena. "Meie plaan õnnestus!"
+
+Kuid siis märkasid nad midagi. Üks tohutult suur sammas, mille juures nad olid kaevanud, seisis nüüd viltu. See roosa täpipommiga sammas, mille juured olid nüüd kellegi teise juurde kolinud, oli sattunud kummalisse kohta. See hakkas kõikuma ja kõikuma ja… Pauk! Sammas kukkus maha.
+
+"Oi, ei!" hüüdis Matilda. "Me ei tohtinuks seda teha!"
+
+Leena peatus naerust. "Me peaksime selle parandama!" ütles ta. "Me peame selle tagasi püsti saama!"
+
+Nii nad jooksisidki sinna, kus sammas oli maha kukkunud. See oli suur töö. Nad proovisid seda üles tõsta ise, aga see oli liiga raske. Nad kutsusid appi Krõbekoori, aga ka temal oli selle liiga raske. Nad kutsusid appi kõik metsaloomad – oravad, siilid, hundid, isegi metskitsed.
+
+Koos tõstsid nad sammast tundi. Nad tõmbasid, lükkasid, surusid ja pingutasid. Lõpuks, kui päike hakkas jälle loojuma, suutsid nad samba tagasi püsti saada. Nad istutasid juured tagasi ja kaevasid maa ümber samba kinni.
+
+"Me õppisime midagi väga olulist," ütles Leena, pühkides higi otsaette.
+
+"Jah," vastas Matilda. "Segiajamine võib lõbus olla, aga meie tegevusel võivad olla ka tagajärjed."
+
+Nad vaatasid sammast, kukkusid naerdes maha ja leidsid selle, et nad võivad ka koos töötada ja asju parandada. Krõbekoor sõi selle õhtu peenemaid murakaid ja usse, mis olid langenud ja väsinud.
+
+Ja sellest õppetunnist said metsanõiad targemaks. Nad ajasid ikkagi asju segamini, kuid alati ettevaatusega ja hoolides loomadest. Nad teadsid, et kõik, mis nad teevad, mõjutab metsa ja kõiki selle elanikke. Ja kui mõni asi viltu läks, siis nad leidsid selle alati parandamiseks koos.
+Ja nii naersid nad metsas, teades, et alati on tähtis olla hea ja abivalmis.
+
+Ja sammas? See seisis seal uhkelt, roosade täppidega, meenutades kõigile seda saatuslikku suur sammast ja õppetundi, mida kõik sealsed metsanõiad ja loomad said.
+Ja elu metsas läks edasi.
+```

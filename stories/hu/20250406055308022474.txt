@@ -1,0 +1,58 @@
+<prompt>
+Please write a timeless Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A pici medve kalandja, amint megtalálta a mézet a tavaszi napon.'.
+</prompt>
+
+<model>meta-llama/llama-4-maverick:free</model>
+
+<lang_id>hu</lang_id>
+
+<title>A pici medve kalandja, amint megtalálta a mézet a tavaszi napon.</title>
+<body>
+Egyszer volt, hol nem volt, volt egyszer egy pici medve, aki az erdő közepén élt egy szép nagy családi barlangban. A medve család szeretett együtt lenni, és mindig mindent megosztottak egymással. A pici medve nagyon szerette hallgatni a szülei történeteit a régi kalandjaikról, amikor még ők is kicsik voltak. 
+
+Egy nap, amikor a tavaszi nap sugarai szépen melegítették a földet, a pici medve úgy döntött, hogy elmegy felfedezni az erdőt. A barlang bejáratánál állva nézte, ahogy a fűszálak kibújnak a földből, és a madarak énekelnek a fákon. A szellő finoman fújta a fák leveleit, ami nagyon megnyugtató volt. 
+
+Ameddig a szeme ellátott, mindenhol élet volt és energia. A pici medve izgatottan gondolt arra, hogy vajon milyen kalandokat tartogat számára ez a gyönyörű nap. Belélegezte a friss levegőt, és elindult felfedezni az erdőt.
+
+Először egy virágokkal teli tisztásra tévedt, ahol a méhek és a pillangók játszottak a színes virágok között. A pici medve nagyon szerette a virágokat, ezért megállt egy pillanatra, hogy megszagolja őket. Ahogy ott állt, érezte, hogy valami finom illat terjeng a levegőben. 
+
+A szagot követve elindult, és hamarosan egy nagy, öreg tölgyfa alá ért. A fa törzsén volt egy kis lyuk, amiből az illat jött. A pici medve kíváncsian dugta be az orrát a lyukon, és érezte, hogy valami nagyon finom dolog van odabent. 
+
+Egyszer csak meghallotta egy hangot, amely azt mondta: "Üdvözöllek, pici medve! Mit keresel itt?" A pici medve meglepődött, de aztán meglátott egy méhecskét, aki a lyukból integetett neki. 
+
+"Én mézet keresek!" - felelte a pici medve. "Az illata olyan finom, hogy nem tudtam megállni, hogy ne jöjjek ide." A méhecske nevetett és azt mondta: "Nos, akkor jó helyen jársz, mert itt van méz bőséggel. De előbb meg kell oldanod egy kis feladatot, hogy bebocsáttassál."
+
+A pici medve kíváncsian kérdezte: "Mi a feladat?" A méhecske így szólt: "Az erdőben van egy forrás, amelynek vize varázslatos. Ha idehozol egy kulacsot ebből a vízből, akkor megajándékozunk egy kevés mézzel."
+
+A pici medve gondolkodott egy pillanatig, aztán elindult megkeresni a forrást. Az erdő különböző részein kérdezősködött, és végül egy kedves mókus megmutatta neki az utat. 
+
+Amikor a forráshoz ért, látta, hogy a vize kristálytiszta és szép csilingelő hangot ad, ahogy a köveken csordogál. Megtöltötte a kulacsát a varázslatos vízzel, és elindult vissza a tölgyfa felé.
+
+Amikor visszaért, a méhecske megdicsérte: "Szép munka, pici medve! Most megkapod a mézet, amit kerestél." A méhecske adott neki egy teli mézescsuprot, amit a pici medve nagyon boldogan fogadott.
+
+Ahogy sétált vissza a barlangjához, a nap sugarai még mindig melegítették a földet. A pici medve úgy érezte, hogy ez a nap különleges volt. Nemcsak azért, mert talált egy kis mézet, hanem azért is, mert kalandokat élt át és új barátokat szerzett.
+
+Amikor hazaért, a családja megörült neki, és kíváncsiak voltak a történetére. A pici medve elmesélte, hogyan találta meg a mézet, és hogyan oldotta meg a méhecske feladatát. A szülei büszkén néztek rá, és azt mondták: "Nagyon ügyes vagy, pici medve! Mi mindig is tudtuk, hogy te egy különleges medve vagy."
+
+A család együtt ette meg a mézet, és élvezték az ízét. A pici medve rájött, hogy a kalandok és az új tapasztalatok még édesebbé teszik az életet.
+
+Ettől a naptól kezdve a pici medve gyakran elment felfedezni az erdőt, és mindig talált valami újat és izgalmasat. Tudta, hogy az erdőben mindig van valami meglepetés, és ő készen állt arra, hogy megtalálja.
+
+A szülei mindig arra tanították, hogy az élet tele van kalandokkal és lehetőségekkel, és hogy soha ne féljen elindulni és felfedezni. A pici medve pedig mindig emlékezett erre, és soha nem felejtette el a tavaszi napot, amikor megtalálta a mézet az erdőben.
+
+Ahogy múltak az évek, a pici medve egyre nagyobb és erősebb lett, de soha nem felejtette el a gyökereit és a családját. Mindig visszajárt a tölgyfa alá, hogy meglátogassa a méhecskéket, és megossza velük a saját történeteit. 
+
+A méhecske pedig mindig örömmel fogadta, és mesélt neki az újabb és újabb kalandokról, amelyek a méhek világában történtek. A pici medve így tanulta meg, hogy az élet egy nagy kaland, amelyben mindig van valami új felfedezni való.
+
+És ha egyszer arra jársz, te is megtalálhatod a tölgyfát és a méhecskéket, akik még mindig ott élnek, és mesélnek a régi kalandokról. Csak kövesd az illatot, és hallgasd a méhek zsongását, és biztosan megtalálod az utat a tölgyfa alá.
+
+Ott majd várnak rád a méhek és a történetek, és te is részese lehetsz ennek a csodálatos kalandnak, amely a pici medvével kezdődött, és soha nem ér véget. Mert az erdőben mindig van valami új felfedezni való, és a kalandok soha nem fejeződnek be.
+
+A tavaszi nap sugarai lenyugodtak, de a történetek és a kalandok soha nem hunynak ki. A pici medve története pedig egy örök emlék maradt, amelyben a bátorság, a kíváncsiság és a barátság győzedelmeskedik.
+
+Így él a pici medve története tovább, és így fogja Önt is elkísérni a nagy kalandok világába, ahol mindig van valami új felfedezni való.</body>

@@ -1,0 +1,54 @@
+<prompt>
+Please write a creative and original Slovenian children's story that is at least 1000 words long.
+It must be completely written in proper Slovenian (SL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Skrivnostni otok in samotna lučica'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>sl</lang_id>
+
+```sl
+<title>Skrivnostni otok in samotna lučica</title>
+<body>
+Nekoč davno, daleč od vrveža velikih mest in hrupnih trgov, je v modrem morju ležal čaroben otok. Otok, znan kot Otok spominov, je bil poln bujnih zelenih dreves, skritih jam in kristalno čistih potočkov. Toda najbolj posebna stvar na tem otoku ni bila ne zelenje ne skrite jame, temveč samotna lučica, ki je stala na skalnati obali, kot tiha varuhinja.
+
+Lučica, imenovana Luna, je bila stara in mogočna. Njen svetlobni žarek, podoben srebrni nitki, je plesal po morju, vodil ladje in opozarjal mornarje na nevarnosti. A zadnje čase je Luna postala žalostna. Njen žarek je bil vse manj živ, njen zvonec vse tišji. Otok, nekoč poln veselih glasov, se je zdel tih in osamljen.
+
+Nekega jutra, ko je sonce barvalo nebo v odtenkih zlate in rožnate, se je na otoku zgodilo nekaj čudnega. Iz morskih globin se je dvignil mali, bleščeč val. Na vrhu tega vala je sedela deklica, imenovana Ema. Ema je imela lase barve pšeničnih polj in oči, globoke kot morje. V roki je držala starodavni kompas, ki je kazal naravnost proti Luni.
+
+Ema je pristala na obali in se, očarana, odpravila proti lučici. Ko je stopila bližje, je začutila žalost Luni v njeni svetlobi. "Draga Luna, zakaj si tako žalostna?" jo je vprašala Ema.
+
+Luna, ki je na otoku preživela že mnogo let, je s tišino odgovarjala. Zdi se, da so si vse druge svetilnike zapomnili kot dobrodelne in so bili poimenovani po njih. Tokrat pa je to bilo v glavnem žalovanje in ni mogla ugotoviti, zakaj je tako žalostna. Samo svetloba v njej se je izgubljala, dan za dnem. Ni več videla ladij, ni slišala mornarjevih pesmi.
+
+"Ne razumem," je rekla Ema, "vendar ti želim pomagati." Ema je prebrskala svoj majhen nahrbtnik in izvlekla staro, usnjeno knjigo. "Slišala sem za skrivnost otoka spominov. Pravijo, da se v globinah otoka skriva zaklad, ki oživlja stvari."
+
+Tako se je začela Emina avantura. Skupaj z Luno se je odpravila v notranjost otoka. Pot jih je vodila skozi goste gozdove, preko vijugastih potokov in mimo skrivnostnih jam. Ema je sledila zemljevidu, ki ga je našla v knjigi, in Luna jih je z bledi svetlobi usmerjala skozi temo.
+
+Na poti so srečali marsikaj zanimivega. Pogovarjali so se z gozdnimi škratki, ki so jim povedali zgodbe o starem otoku. Srečali so strašljivega pajka, ki je čuval skrivno jamo. Ampak Ema ni pozabila na svoje prijazne namene in nikoli ni spustila kompasa.
+
+Pajek jih je poskušal prestrašiti, vendar je Ema rekla: "Pajek, ne bojimo se tebe. Iskamo zaklad, ki bo pomagal našemu prijatelju." Pajek, presenečen nad Emino pogumnostjo, jih je varno vodil skozi mračno jamo.
+
+Ko so se prebili skozi jamo, so prispeli do starodavnega templja. V templju je bil kamen, okrašen s čudovitimi motivi. Kamen je sijal in utripal. "To je srce otoka," je rekla Luna. "V tem kamnu je vsa moč in spomini."
+
+Ema je z roko nežno potegnila kamen in nenadoma se je soba napolnila z bleščečo svetlobo. Slika iz starih dni se je odrazila v Emini glavi. Videla je ladje, ki so prihajale in odhajale. Slišala je smeh otrok in pesmi mornarjev. Občutila je ljubezen in hvaležnost, ki jo je otok dajal vsem. Spoznala je, da je Luna pozabila, kako zelo jo imajo radi vsi.
+
+Z ognjem v srcu se je Ema vrnila do Lune. Ob tem se je Luni svetloba spet obnovila, njen žarek je zablestel in njena luč se je zasvetila s polno močjo.
+
+"Luna, razumem," je rekla Ema. "Spoznala sem, da si pozabila, koliko ljudem pomeniš. Včasih so ti ljudje pozabili pokazati svojo ljubezen, vendar te še vedno imajo radi!"
+
+Luna je bila šokirana in jo je na lepem razumela. Njeno srce je ponovno zaživelo in posvetilo s polnim sijajem.
+
+Sreča je preplavila Otok spominov. Vesela in obnovljena Luna je še naprej čuvala otok. Vsak večer je njen žarek plesal po morju, s pesmijo hvaležnosti, mornarjem. In Ema se je vrnila domov, njeno srce polno radosti.
+
+Od tistega dne naprej se je vsak otrok, ki je obiskal Otok spominov, učil o pomenu prijateljstva, ljubezni in spomina. Znali so razumeti, da nikoli ne smemo pozabiti ljudi, ki nam dajejo svetlobo in usmeritev.
+
+Lunin svetlobni žarek je včasih zamežikal kot opomin, naj nikoli ne pozabimo na ljudi, ki jih imamo radi. In zgodba o skriti zakladu na otoku, in o deklice, ki je našla način, da ponovno zaživi najbolj samotno in nezasluženo svetišče v morju.
+
+Zadnji trenutek pa se je Luna še obrnila k Emi in zašepetala: "Zapomni si, Ema: resnični zaklad se skriva v tvojem srcu. Želim ti svetle zvezde in močan duh."
+In tako je zgodba o Skrivnostnem otoku in samotni lučici postala legenda, ki so jo pripovedovali otrokom iz roda v rod. Otok spominov je ostal skrit, vendar se je z ljubeznijo in prijaznostjo ohranil živ.
+</body>
+```

@@ -1,0 +1,59 @@
+<prompt>
+Please write a emotional Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'O Dzielnej Dziewczynce i Czarodziejskim Drzewie Jabłoni.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pl</lang_id>
+
+```xml
+<title>O Dzielnej Dziewczynce i Czarodziejskim Drzewie Jabłoni</title>
+<body>
+Dawno, dawno temu, w malutkiej, uroczej wiosce, położonej u stóp majestatycznych Karpat, żyła mała dziewczynka o imieniu Zosia. Zosia miała zaledwie siedem lat, ale w jej serduszku kryło się ogromne pokłady odwagi i miłości. Jej oczy, niczym dwa małe, błyszczące szafiry, spoglądały na świat z ciekawością i nadzieją.
+
+Życie w wiosce było spokojne, lecz pewnego roku nadeszła straszliwa susza. Słońce prażyło niemiłosiernie, a deszcz przestał padać. Rzeki wysychały, a pola pękały z pragnienia. Plony usychały na pniu, a zwierzęta głodowały. Wioska pogrążała się w smutku i strachu. Ludzie szukali ratunku, ale nic nie pomagało. Modlitwy do niebios wydawały się pozostawać bez odpowiedzi.
+
+Jedyną nadzieją mieszkańców wioski było stare, czarodziejskie drzewo jabłoni, rosnące na skraju lasu. To drzewo, jak głosiła legenda, obdarzone było magiczną mocą. Jego owoce mogły uzdrawiać i przynosić szczęście. Nikt jednak nie potrafił dotrzeć do jabłoni. Strzegł jej bowiem groźny, zimny wiatr, który potrafił zamrażać serca i dłonie. Wiatr ten zsyłał również ogromne burze piaskowe, które zatarłyby wszelkie ślady śmiałków próbujących zbliżyć się do drzewa.
+
+Wszyscy dorośli z wioski próbowali, ale żaden z nich nie zdołał przedostać się do magicznego drzewa. Zima ich przemroziła, a burza piaskowa obróciła ich próby w niwecz. Byli zbyt słabi, zbyt przestraszeni. Tylko Zosia, mała dziewczynka o odważnym sercu, wierzyła, że może pomóc. Widziała smutek w oczach swoich rodziców, słyszała lament sąsiadów. Wiedziała, że musi spróbować.
+
+Pewnego ranka, gdy słońce paliło już niemiłosiernie, Zosia po cichu wymknęła się z domu. Wzięła ze sobą małą, drewnianą miseczkę i garść okruszków chleba, które babcia zrobiła dzień wcześniej. „Muszę to zrobić” - szepnęła sama do siebie, zaciskając mocno piąstki. Wiedziała, że czeka ją trudna przeprawa, ale wiara w lepsze jutro dawała jej siłę.
+
+Przedzierając się przez wyschnięte pola, Zosia dotarła do lasu. Powietrze było parne i duszne. Ptaki umilkły, a nawet drzewa zdawały się schylać głowy ze smutku. Kiedy Zosia zbliżyła się do miejsca, gdzie rosło magiczne drzewo, poczuła nagły podmuch lodowatego wiatru. To był on – groźny wiatr, który strzegł jabłoni.
+
+Wiatr szarpał jej ubranie, próbował zsunąć z głowy kapelusik. Zosia jednak mocno trzymała się gruntu. Zamknęła oczy i zaczęła myśleć o dobrych rzeczach, o uśmiechach bliskich, o śpiewie ptaków wiosną. Przypomniała sobie słowa babci: „Strach ma wielkie oczy, Zosiu, ale odwaga ma serce jak dzwon.”
+
+Wiatr wył coraz mocniej, próbował przestraszyć Zosię, ale ona tylko mocniej zaciskała powieki i powtarzała w myślach modlitwę. Powtarzała ją tak długo, aż poczuła, że jej serce wypełnia się spokojem. Wtedy, otworzyła oczy i spojrzała na wiatr. Zobaczyła wtedy coś niespodziewanego – zamiast potwornego wichru zobaczyła zmęczonego, smutnego duszka. Duszka, który po prostu chciał się bawić.
+
+„Czego tu szukasz, dziewczynko?” – zapytał wiatr, jego głos brzmiał jak szelest liści.
+
+„Przyszłam po pomoc dla mojej wioski” – odpowiedziała Zosia, nie zważając na zimno. „U nas jest straszna susza, wszyscy są smutni. Słyszałam o magicznym drzewie jabłoni i jego owocach. Czy mógłbyś mnie do niego dopuścić?”
+
+Wiatr westchnął ciężko. „Nie mogę. Zostałem tu, aby strzec jabłoni. Muszę bronić jej przed każdym, kto chciałby zrobić jej krzywdę.”
+
+„Ale ja nie chcę zrobić jej krzywdy!” – zawołała Zosia. „Chcę tylko wziąć trochę jabłek, żeby pomóc ludziom.”
+
+Wiatr spojrzał na nią z ciekawością. Zauważył w jej oczach szczerość i dobro. Wyczuł jej troskę o innych. Przez chwilę milczał, a potem powiedział: „Dobrze, ale tylko na chwilę. Będziesz musiała mi obiecać, że weźmiesz tylko tyle owoców, ile naprawdę potrzebujecie.”
+
+Zosia ucieszyła się ogromnie. „Obiecuję!” – krzyknęła, aż głos zadrżał jej ze wzruszenia.
+
+Wiatr zwolnił swój podmuch, a Zosia podeszła do drzewa jabłoni. Było piękne, o grubym pniu i rozłożystych gałęziach, na których błyszczały czerwone, soczyste jabłka. Zerwała kilka owoców, napełniła nimi swoją drewnianą miseczkę, po czym obdarzyła każdy z owoców małą, dziecięcą miłością, myśląc o wszystkich, którzy na nie czekają. Były w niej wszystkie smutki wioski. Myślała też o swoich rodzicach, babci i dziadku. Serce Zosi było pełne radości, gdy wróciła się do wioski.
+
+W drodze powrotnej do domu Zosia spotkała spragnione zwierzęta. Wiedziała, że muszą pić, ale owoców zostało tak niewiele. Zosia jednak się nie zawahała. Podała zwierzętom po kawałku jabłka. Zwierzęta jadły z wdzięcznością, a w ich oczach pojawiła się nadzieja. Widziała również cierpiące rośliny. Część z zebranych owoców Zosia zakopała pod ich korzeniami.
+
+Kiedy Zosia dotarła do wioski, mieszkańcy osłupieli. Nie mogli uwierzyć własnym oczom. Zosia, mała dziewczynka, przyniosła owoce z magicznego drzewa! Natychmiast ruszyli jej pomóc. Najpierw zjedli owoce i posmakowali w nich uldze. Smak jabłek był niesamowity – słodki, orzeźwiający i pełen życia. Początkowo zjadano je w skupieniu, aż jeden z mieszkańców głośno krzyknął: „Słyszycie? Pada!”
+
+I rzeczywiście, z nieba zaczęły spadać pierwsze krople deszczu. Z początku małe i nieśmiałe, ale z każdą chwilą coraz bardziej obfite. Wioska wypełniła się radością. Ludzie tańczyli, śpiewali i dziękowali Zosi. Susza minęła, rzeki się napełniły, a pola znów zazieleniły. Zwierzęta ożyły, a ptaki wróciły do swoich gniazd.
+
+Jabłka z czarodziejskiego drzewa wyleczyły ludzi z chorób i napełniły ich serca szczęściem. Zosia została bohaterką wioski. Mimo wszystko nie przechwalała się swoimi osiągnięciami. Pozostała taką samą skromną i kochającą dziewczynką. Zawsze znajdowała czas, by pomagać innym, niezależnie od tego, jak mała była jej pomoc.
+
+Od tamtej pory, co roku, gdy przychodziła pora zbiorów, Zosia udawała się do magicznego drzewa po jabłka. Zawsze brała ich tyle, ile było potrzeba, i dzieliła się nimi z innymi. A wiatr, który strzegł jabłoni, stał się jej najlepszym przyjacielem. Wspólnie pilnowali wioski i dbali o to, by radość i szczęście nigdy z niej nie ustały.
+
+Zosia wyrosła na mądrą i szlachetną kobietę, która zawsze pamiętała o tym, by być dobrym człowiekiem i pomagać innym. Czarodziejskie drzewo jabłoni wciąż rosło, dając owoce pełne magii i nadziei. A historia o dzielnej dziewczynce, która pokonała groźny wiatr i uratowała swoją wioskę, była opowiadana z pokolenia na pokolenie, przypominając wszystkim, że nawet najmniejsze serce może dokonać wielkich rzeczy, gdy wypełnione jest odwagą i miłością. A w sercu Zosi zawsze pozostawała wdzięczność za to, że mogła pomóc swoim bliskim. Koniec.
+</body>
+```

@@ -1,0 +1,62 @@
+<prompt>
+Please write a uncomplicated Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Shamolning esayotgan yulduzlari va so'zma-so'z hikoyalar'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>Shamolning esayotgan yulduzlari va so'zma-so'z hikoyalar</title>
+<body>
+Bir paytlar, tog'larning tepasida,  ko'k osmonning chuqurliklarida,  kichkina bir qishloq joylashgan edi.  Qishloqning nomini Gulxan deb atashardi.  Gulxan qishlog'ida har kuni  xushbūy gullar hidini  hammasi sezardi.  Quyosh nurlari yerni isitgan va gullar o'zining go'zalliklarini ko'rsatardi.  Lekin, shu go'zal qishloqda,  qorong'u tunlar paytida,  bir katta sir yashiringan edi.
+
+
+Shamol o'zining uzoq sayohatlarida, bulutlar orqasidan uzoq yerlarga uchib ketadigan bo'lar edi.  U, qishloqning har bir gulini,  har bir daraxtini ko'rardi va ularga  tinchlik va  sevgini  olib ketadigan bo'lar edi. Lekin  Shamol, biror narsaga juda uqtirardi: Gulxan qishlog'ida bironta ham  yulduz bo'lmasdi.  Hammasi, uzoq yillar davomida  shamoldan yashiringan  kichik, tinch yulduz edi.  Shamol, yulduzlar haqidagi afsonalarni eshitib ulg'aydi va qanday yulduzlarni  topib,  qanday qilish kerakligini bilishni juda orzu qilardi.
+
+
+U kunlarning birida, gulxan qishlog'idagi barcha a'zolardan  yosh qiz,  Gulchehra yashagandi. U  sehrli qiz edi,  har qanday sehrli gullardan  kichik chiroqlarni yasaardi va  qorong'u tunlarda  uchlarini gulxan uyini  nurlantiradigan bo'lardi.  Gulchehra, oddiy gulxondagi uyni yaratmasdi, u butun qishlog'ini sehrlaydigan  go'zal  ustoni edi.
+
+
+Shamol,  Gulchehra bilan uchrashishiga sabab bo'ldi. Bir kechqurun,  ulduzlar yo'qolib, tunda qorong'u qoplaganda, u Gulchehra yonida  to'xtab qoldi.  Shamol  qisqa,  g'azablangan hushtakni  chqardi  va  gulxondagi  gul chehraga bu narsani  eshittirdi.
+
+
+“Gulchehra,” dedi Shamol,  “nega  yulduzlarni ko'rmayapmiz?  Hech qanday yulduzsiz kechalar – bu dunyoni juda  g'arib ko'rsatadi.”
+
+
+Gulchehra  sokinlab javob berdi, “Shamol, har kimning o'z sirlarining borligini bilasiz, balki ular ham yulduzdir!”
+
+
+U erdan bir ko'pgina so'zlar birgalikda paydo bo'ldi.  Shamolning fikrlashi haqiqatan ham  ta'sirchan edi.  Agar yulduzlar  gulxan  ko'zga tashlanayotganda  yashirin bo'lsa, ularga ko'z  qisqicha qilish kerak edi.
+
+
+“Faqat ularning yashirinishidan qanday qo'llar bilan qila olaman? –  dedi Shamol hayronlik bilan.  U  savollarni   va hayronlikni ham qo'ydi va Gulchehra   savollarga qo'ydi.  Shu paytda  gullar,  eshigdan pastga burilganini ko'rdi.”  Yana bu ko'rinishdan hayajon paydo qilmas edi, balki hech qachon  siz  qismlarini  ko'rishga ulgurmassiz."
+
+
+Gulchehra bir oz g'amgin ko'rinib qoldi va  quyoshga yulduzlardan g'amgin  fikrlanganlari aylandi.  Keyin  ustunda  qo'shilib, u tushuntirdi:
+
+
+“Shamol,  sehrli qilish juda  o'zgartirish bo'lib chiqadi, bu shunchaki  ko'zni qidiruvini yo'qotadi,  siz haqiqatni oching.”
+
+
+Bu, Shamolni biror maqsad bilan  uyg'ondi va  Gulchehra  unga butun qishloq va butun  kosmosdan hikoya qildi.  Shuning uchun, Shamol yulduzlardan  taniydigan yuz  o'zini ko'rsatib qo'ydi.
+
+
+Keyin u quyoshga  ikki oyg'a bo'lib, quyosh nurini o'zining nurlanishiga yo'naltirdi.  Yana bir  vaqtni  ko'zladi va Gulchehra   tushuntirishdan qo'rqib qoldi va boshqalar ko'ziga yaqinlashtirishni aytib, ularda birlashishi  kerak degan bo'lishi  o'zgartirilishiga  ishona olmadi.
+
+
+Shunda hamma ko'rmadi.
+
+
+Shamol,  yulduzlar va Gulchehra  bir-biriga qo'shilish uchun  dunyoda  boshqa  sehrlarga  qanday  qo'l qo'shishini  tushundilar.
+
+
+Ular qishloqni o'ralab kelib, har bir uyni nuriga quyib, uylarga kirib,  ularni sehrli gullar bilan qopladi, yosh yulduzlar va oylar yashirinib ketdi, hamma sehrlangan gulxanlarda joy oldi.  Tunda yana  gulxan  ko'rinishi paydo bo'ldi, hamma yulduzlardan tushunib, hammani shunday sezardi, va yulduzlardan qo'shilishni his qilardi.
+
+Bundan keyin, Gulxan qishlog'ida hech qachon qorong'u bo'lmagan edi. Har bir kechqurun yulduzlar ko'z ko'zdan paydo bo'lib, Gulxan qishlog'ida  albatta  yonar edi.
+ Shamol va Gulchehra esa har qanday  uyning tomida yulduzlar  yona  tashkil etilishida sehrlaydi, ko'rib turadi  va  yulduzlar birlashadi.
+</body>

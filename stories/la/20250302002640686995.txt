@@ -1,0 +1,52 @@
+<prompt>
+Please write a simple and easy-to-follow Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Lumen Lunae et Secretum Luporum'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>la</lang_id>
+
+<title>Lumen Lunae et Secretum Luporum</title>
+<body>
+Fera silva tenebrosa erat, plena arboribus altis et sonitus animalium diversorum.  In medio silvae, in caverna profunda, familia luporum vivebat.  Lupus senior,  Bartholomeus,  vigilanter custodiebat familiam suam.  Lupus junior,  Lucus,  curiosus et audax,  semper quaerebat novas res.
+
+Una nocte, cum lumen lunae silvam argenteum efficiebat, Lucus egressus est de caverna.  Volens scire secretum silvae tenebrosae, per loca diversa perambulavit.  Arboribus magnis et floribus pulchris obviam venit.  Sonitus aquae fluentis per silvam audiebat,  et in herbae vibrantes,  murices viridi  videbat.
+
+"Mirum est!"  clamavit Lucus.  "Quid celat silva haec?"
+
+Subito, sonitus fortis silentiam percussit.  Unus luporum,  junior quam Lucus,  e silentio apparuit.  Fervebat celeritate incredibilis et oculis flavis et  moribus sollicitae,   fuit qui nuntius est,  inopinato.  "Lupus tertius,  Rufus,  ad te appropinquare  pergere," inquit iuvenis lupus.
+
+"Lupus tertius?  Ubi est?" quaesivit Lucus.
+
+"Ad flumen argenteum," respondit lupus.  "Est ille, qui secretis mirabilibus abundat."
+
+Persequutus est Lucus lupum iuvenem per silvam umbrosa,  per campos gramineos,  et ad flumen pervenit, quo dederat indicium  lupus junior.
+
+In ripa fluminis,  inter petras,  lupus magnus, Rufus,  sedebat.  Visus ejus fulgurans erat,  et pellicula sua erat griseo,  color  lunae nocturnus.  "Scias,  Lucus," inquit Rufus,  "secreta sylvae sunt multa et  incognita.  Ego solus  custodiens illorum."
+
+Lucus, audax, quaesivit, "Quid  secreta?  Mitte mihi."
+
+"Lumen Lunae," respondit Rufus, "custodiebat mysteria arborum et fontium, in petris et herbis," et Rufus narrabat, "secreta  de natura, de animalium mysteriis,  et  omnes mirabilibus nostris terrarum."
+
+Rufus exposivit mirabilia innumerabilia qui in oculis et pectore tenebat.  Narrabat de volatilibus pulchris  qui canebant in caelo nocte. Narrabat de aquarum subterraneorum  et fontium profundiorum. Et dicebat, "Lupus non sunt sola creaturae quae vitam habuerunt;  alia sunt;  inveni  ea in  persequendum et invenienda!"  Aperiens fenestras oculorum  Lucus,  Rufus ostendebat mirabiles creaturas fabulosa, tales ut aves mirabiles, quae volaverunt caeli in aere nocturnis, adducens  exemplaria in sua mente Lucum.
+
+"Mirum est!" iterum dixit Lucus.  "Est tam multa."
+
+"Verum est, Lucus," respondit Rufus, "mundus plenus est mirabilibus.  Sed non sunt haec omnia nobis aperta."  Apage!   Rufus indicavit Lucum,  "Fieri poterit."
+
+Ad audiendum  plura et explorandum secretis sylvae  accurrens  Lucus in silvam rediit.  Discebat quomodo natura ardesceret.  Intellegebat quomodo   animae sint vincula et quomodo luna influat in animae animae.
+
+Post multam peragenda, Lucus ad familiam suam pervenit.  Expositis mirabilibus quibus studuit Rufus narravit. Familiam  excitaverunt mirabilia!
+
+
+"Sed", dixit Lupus senior Bartholomeus, "memorandum est non omnia esse conspicua nobis; aliquid oportet  sapientiam nostram esse."
+
+Cumque  Lucus   novas   cogniciones   in   memoria   reponeret  ,  nocturnus  omnium  amicitiae  inter  ea  coniuncti.  Persequuti  persequimur  magnam,  contemplationem  mirificam.
+
+Sic   Lumen   Lunae,   et   secreta   Luporum,  stillaverunt  per  terram,  et  lucem  in  nocte  afferentes,   sic  comprobavit.
+</body>

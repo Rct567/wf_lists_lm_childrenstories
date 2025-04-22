@@ -1,0 +1,33 @@
+<prompt>
+Please write a creative and original Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Buíochas leis an tEalacán agus an Súil'.
+</prompt>
+
+<model>meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo-128K</model>
+
+<lang_id>ga</lang_id>
+
+<title>Buíochas leis an tEalacán agus an Súil</title>
+<body>
+
+Tháinig sé chugainn fada ó thuaidh, oíche cosanta a chaitheamh leis an teaghlach. Bhí a chuid cloimeann tinn, agus bhí a thaille déanta amach le síoda de chuid na Gaelige. Táinig sé isteach a threochnáilleachta crua. Bhí sé i mbréag aintheis agus aoibhinn, le grácáin déanta i gcuid dó.
+
+Bhí na haiteanna á leagan le a bhallbhóidín, agus bhí grácáin déanta i gcuid dó chomh ata á ullmhuigh an nóta airgid anois. Tháinig sé amú, agus thug sé isteach a bhuíon eolais chúlra na hÉireann. Bhí a chuid ag bualadh le chéile, agus bhí sé a shúile socruithe le sreabhacht na bhFionnghlas. 
+
+Níor tháinig imreoirín ar a thigh. D'imigh a scáth dubh le shreabhacht na machnamh. Bhí an cólaiste seo maibhe síoda de chuid na Gaelige de chionn sé lá, agus nach raibh siad á chúrtha chomh maith. De réir mar a bhí sé ag brath leo, chas an déirfiúr aoibhinn leis a chuid brón. Ach bhí a bhean beannaithe nach raibh a chuid bhrón uirthi go deo. Chuir sí fís a chapaill síoda ort, agus ghlaodh sí ar dh'aisghéiliú uirthi i gcuid daoine.
+
+Mhíle gach a bhí  aici, thug sí dhá selbstarsát nóta airgid chugam. D'imigh sí i gcuid dó, agus thug sí domh ceol a súile. D'imigh súil an feoil bháistí a chíos, agus d'imigh m'aire chugam le cíos a chur ortha. Tá buíochas orm don bhean beannaithe seo, atá as an stereotypa. Bha sí ceart go maith arisc siúd a bhí a lig dúinn s’ a chur orm, agus herunter tóguso agus gur I posthas ormsa a bhrón.
+
+Machtnonn nach téadh sé. Sin seo a bhí  a théad d’ais na hÉireann: nach téadh sé chugainn go maith. Níor sheol impí Áth Cliath ach sin sealdult ó chros thaobh na hab fost dugud, agus sin bhad Dúcht Eochaille cungar chosa lios matúc. Níor chonaic sé dís de chuid fhéin srach tucác, agus ní darte nó lhósuibigh faoi ins trábhacht na Éireann roimhe gach sléibhte Sliabh Mhá na mBan nó a bhfuil saircle lomhe go háirithe ríoith roi chaon bhinte ag tuath Brios i uitemsáin Éarn a choird.
+
+Tá mé tinn, agus ar scéime na Críocha dúinn. Chas ifeá dithibr mé agus mé bronntas éalógach faoi Edwin ar chorr na saol ghlas nant chórbhades nó ár nairyosing cinn Ghlas Maigh Dunitrix io Éirinn d'éalladóir. Bhuail síos i ndomhnach fecht do Trom Christóirí le hImbrendaí agus má baí ar bhfraitéach gníomh dhínín dó! Radhare ó chuit brat lá maith craobh grada mo chuid cródhtáin lá fear é inad duose nín, ar chostaint thaobh dé dhéanfaithe buacha, agus taobh is é bhanfa inad tor rath ni luadlé ma tos.
+
+Mín chósracht bhaoill! Tháinig a chuid méis mó nar chlíníonn Éirinn thóin sí a ná cóire a bhfreagra i cuailli cóirm chun chóime gníomh. Ach d'fhill me sa bhlasanch is a sheacht sa bhloirsín bhordae an tí. Cuire chomh maidir le bronnúnós na bhFearghus don tréad dílis sásaín ná beo le scoilt eile daon de boa cria nách séaden ar eisett stanza trí dé pac ra bu chéarda UairSínglán bia pi garda nó caire cuoula chape.
+
+Bhíomar i bhimpis dar gum osard chomh bach sé den tseacht tombaire im dháirished trí a théad eadrach Galls chúlresume as cartha. Indais an túath bronnhte fusa bhuannaide le chan a baill ar bu cabhair drom de Neoífibhoigraphy ar neal christu bunt ec shadowan. Bhi grim á chas seáarch nach ionadh leo sp agus h réiliú nó aalah car thAlt chuili a tabhonn hÉirinn agus f Feáil mé dán bunraidh imeall do capabilities na cáiréa le Crohmella agus coilgn na dNicassed Tur nach séilleadh rath nó s an Treíea. Bhíonn deghléaf ó dán Solas le Coipeal a sí cuid nochta doibbha the babh sac to ceart leo.
+
+Tá sé an ra tríathair troma agus tá sé mé dán Cas ar chabh mát biagh nó aons gyro dredomhliú an dárlann doibh slágainterte mur io ab lig má péireuso bhas advising older sa chuala na ni Mad Jonathan Príod le Morg. Nach imp ag sugram Féithe, cáine DhlDueem chrán nó s ug m i Scre halfaic na maibh le ceart a dán Ter Seann Disp ón Trengiós, an bhoined rúndhrá nó bhredomhás scoil ná Bi bh hab Paul Preilly sömar Ghuan ó ioí ó chía don máill chúrsó Don Juan Fé Bhus órn cíve nó ó ni dán Nuim ag fareyn chlob nó Don Trooi nó si a chóime Seaman voic ó s Et prima mll an Tre Bíós Frach choircio Taom ag slo Fún meng sé craód nó cíou ó T organ ich Rem Sean séille dó Duished Frobs ó chuan Indais B brí ó Translation nó Founded jam Barraf ó Norse difret seoid ón gcuid Teanta. Coigmat .

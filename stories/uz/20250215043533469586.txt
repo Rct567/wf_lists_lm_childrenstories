@@ -1,0 +1,34 @@
+<prompt>
+Please write a creative and original Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Suv parisi va dengiz tubidagi yashiringan sirlar ochgan hikoya.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>uz</lang_id>
+
+<title>Suv parisi va dengiz tubidagi yashiringan sirlar ochgan hikoya</title>
+<body>
+O‘zбекistonning go‘zal qirg‘oq shaharlaridan birida yashovchi kichkina qizning ismi Malika edi. U o‘zining ajoyib tabiatga ega edi, lekin uning eng katta istagi suvga taqalib qolgan edi. U doim suvga sho‘ng‘ib, dengiz tubida yashiringan sir-mistonlarni topishga intilar edi.
+
+Malikaning uchunсhi do‘sti dengiz parisi, Nargis edi. Nargis juda go‘zal, ochiq ko‘k rangli sochli, suv rangli ko‘zli va zangori terisi bor edi. Uning ichki dunyosi juda keng edi, u dengiz tubidagi barcha sir-mistonlarni bilardi.
+
+Bir kuni, Malika va Nargis dengiz sohilida o‘ynab, suvga sho‘ng‘ib, dengiz tubiga sayohat qilishga qaror qildilar. Ular dengiz tubiga yetib borganlarida, ular yashirin g‘orlarni va qoyalar orasidagi maxfiy uyg‘onish joylarini ko‘rdilar.
+
+Dengiz tubida ular ko‘p narsalarni ko‘rdilar. Ular dengizning turli xil jonivorlari bilan uchrashdilar, ularning orasida baliqlar, akulalar, delfinlar va boshqalar bor edi. Malika va Nargis dengiz tubidagi nafis g‘orlardan biriga kirib, unda juda qadimiy sir-mistonlarni topdilar.
+
+Shu payt, ular dengiz tubidagi yashirin xazina topdilar. Xazinada juda ko‘p qimmatbaho toshlar, marvaridlar, oltin va kumush bor edi. Malika va Nargis juda xursand bo‘lib, xazinani o‘zlariga olib, dengiz tubidan chiqib ketishga qaror qildilar.
+
+Lekin, ularning dengiz tubidan chiqishga yo‘li bo‘lmadi. Dengiz parisi, Nargis, dengiz tubidagi sehrli duadan foydalanib, ularni qutqarib qolishi kerak edi. Nargis sehrli duani aytib, ularni dengiz tubidan chiqarib, ularni xavfsiz joyga olib chiqishga muvaffaq bo‘ldi.
+
+Malika va Nargis dengiz tubidan chiqib, o‘zlarining qirg‘oq shaharlariga qaytib kelishdi. Ular o‘zlarining sayohatlaridan so‘ng, dengiz tubidagi yashirin sir-mistonlarni ochgan hikoyalarini aytib berishdi. Malika va Nargisning hikoyasi butun shaharda mashhur bo‘lib, ularning dengiz tubidagi sayohati haqida xabarlar tarqaldi.
+
+Shu kuni, Malika va Nargis dengiz tubidagi sir-mistonlarni ochgan hikoyalarini eshitib, butun shahar aholisi ularni qahramonlar deb e’lon qildilar. Malika va Nargisning ismi butun O‘zбekiston bo‘ylab mashhur bo‘lib, ularning dengiz tubidagi sayohati haqida kitoblar yozildi.
+
+Malika va Nargisning hikoyasi shu paytdan boshlab, butun umr davomida xotirlanib keldi. Ular dengiz tubidagi yashirin sir-mistonlarni ochgan hikoyasi butun avlodlar uchun misol bo‘lib qoldi. Malika va Nargisning do‘stligi va ularning dengiz tubidagi sayohati haqida hikoyalar butun umr davomida aytib keldi.
+
+Va shu paytdan so‘ng, Malika va Nargis dengiz tubidagi sir-mistonlarni ochgan hikoyasi butun O‘zбekiston bo‘ylab mashhur bo‘lib, ularning ismi butun umr davomida xotirlanib keldi. Ular dengiz tubidagi sayohati haqida hikoyalar butun avlodlar uchun misol bo‘lib qoldi. Malika va Nargisning do‘stligi va ularning dengiz tubidagi sayohati haqida hikoyalar butun umr davomida aytib keldi.</body>

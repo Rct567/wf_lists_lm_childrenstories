@@ -1,0 +1,57 @@
+<prompt>
+Please write a timeless Spanish children's story that is at least 1000 words long.
+It must be completely written in proper Spanish (ES).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La ciguña paciente y el cuidado de sus polluelos lindos.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>es</lang_id>
+
+```xml
+<title>La ciguña paciente y el cuidado de sus polluelos lindos.</title>
+<body>
+En lo alto de un campanario antiguo, en el corazón de un pequeño pueblo español, vivía una ciguña llamada Valentina. Valentina era una ciguña con un plumaje blanco y negro impecable, un pico largo y afilado, y unos ojos negros que brillaban con inteligencia y bondad. Su hogar era un gran nido construido con ramitas, barro y hierbas, meticulosamente organizado en la cima de la torre.
+
+Cada primavera, la llegada de Valentina al campanario era señal de alegría para los habitantes del pueblo. Los niños la observaban con fascinación, esperando ansiosamente la llegada de sus polluelos. Y este año no fue diferente. Después de un largo viaje desde tierras lejanas, Valentina regresó a su nido y, al poco tiempo, puso cuatro hermosos huevos.
+
+La tarea de cuidar de los huevos era primordial. Valentina, paciente y dedicada, se sentaba sobre ellos día y noche, protegiéndolos del sol abrasador y de las tormentas. Con frecuencia, el viento rugía alrededor del campanario, y la lluvia azotaba con fuerza el nido, pero Valentina permanecía firme, sin moverse, cubriendo con sus alas los preciosos huevos.
+
+El sol comenzó a calentar con más fuerza, y la primavera se convirtió en verano. Los huevos, tras muchas semanas, empezaron a mostrar signos de vida. Pequeños golpes desde adentro indicaban que algo maravilloso estaba a punto de suceder. Finalmente, un día, uno de los huevos se rompió, y un pequeño polluelo, cubierto de un suave plumaje blanco, salió a la luz. Era un polluelo muy hambriento, y Valentina, llena de alegría, se apresuró a alimentarlo.
+
+Uno tras otro, los otros huevos se rompieron, y pronto el nido se llenó con cuatro polluelos alegres y hambrientos. Valentina tenía ahora una tarea aún más exigente: alimentar y cuidar de sus pequeños. Dedicaba sus mañanas y tardes a buscar comida para sus polluelos. Volaba sobre los campos y prados, capturando ranas, peces pequeños y insectos, que luego regurgitaba en los picos abiertos de sus hijos.
+
+Los polluelos, a medida que crecían, se volvían más curiosos y traviesos. Intentaban salir del nido, a veces tambaleándose peligrosamente al borde. Valentina, con su instinto maternal a flor de piel, los vigilaba constantemente. Con suaves empujones de su pico, los mantenía dentro del nido, protegiéndolos de cualquier peligro.
+
+Cada día, los polluelos crecían y se fortalecían. Su plumaje blanco y suave comenzaba a oscurecerse con motas negras, igual que el de su madre. Sus patitas, antes débiles y temblorosas, se volvieron fuertes y firmes, preparadas para caminar y, con el tiempo, para volar.
+
+Valentina les enseñó a pescar en los ríos, a buscar insectos en los campos, y a prepararse para el largo viaje que algún día harían. Les enseñó a reconocer los sonidos del viento, las señales del sol y a temer las tormentas. Cada lección era una experiencia que los prepararía para la vida.
+
+Un día, uno de los polluelos, el más osado y aventurero, llamado Nico, intentó dar su primer vuelo. Se paró al borde del nido, agitó sus alas torpemente y, sin pensarlo mucho, saltó. Nico cayó con un ruido sordo sobre el tejado de una casa vecina. Valentina, preocupada, voló rápidamente hacia él, y con suaves golpecitos y ánimos, lo animó a intentar de nuevo.
+
+Nico, aunque un poco asustado, intentó volar nuevamente. Esta vez, movió sus alas con más fuerza y persistencia. Poco a poco, ganó altura, logrando volar alrededor del campanario. El orgullo de Valentina era inmenso. Los otros polluelos, viendo el éxito de su hermano, comenzaron a practicar con más dedicación.
+
+Durante semanas, los polluelos practicaron y practicaron, hasta que finalmente, los cuatro dominaron el arte de volar. Volaban juntos, formando elegantes círculos sobre el pueblo, jugando entre las nubes y sintiendo la libertad en sus alas.
+
+Sin embargo, el tiempo avanzaba rápidamente, y el otoño se acercaba. Los días se volvían más cortos, el clima más frío, y los polluelos sabían que era hora de prepararse para su viaje. Valentina, con el corazón dividido entre el orgullo y la tristeza, les enseñó todo lo necesario para la migración. Les enseñó a volar largas distancias, a reconocer las señales del cielo y a encontrar refugio en lugares desconocidos.
+
+Un día, Valentina reunió a sus polluelos en el nido. El sol se estaba poniendo, tiñendo el cielo de tonos rojizos y anaranjados. “Mis queridos hijos”, dijo con voz suave y firme, “ha llegado el momento de partir. Recuerden todo lo que les he enseñado. Sean valientes, sean cuidadosos y, sobre todo, cuídense el uno al otro.”
+
+Los polluelos escucharon atentamente las palabras de su madre. Sus corazones palpitaban con una mezcla de emoción y temor. Sabían que sería una larga y dura travesía, pero estaban preparados. Con la sabiduría de su madre y la fuerza de su amor, no temían el futuro.
+
+Y así, con Valentina al frente, la familia de cigüeñas emprendió su viaje hacia tierras cálidas. Volaron juntos sobre campos dorados, ríos serpenteantes y montañas imponentes. Durante el viaje, Valentina los guio y protegió, recordándoles los valores de la unión, la perseverancia y la prudencia.
+
+Después de un largo viaje, llegaron a un lugar cálido y soleado. Un lugar donde encontrarían comida en abundancia, y donde podrían descansar y recuperar fuerzas. Pero, el otoño es largo, y la naturaleza los llamaba de nuevo, invitándolos a regresar a casa.
+
+Un año después, cuando la primavera volvió a adornar el pequeño pueblo español, Valentina sintió la llamada en su interior. Un presentimiento le decía que era hora de regresar a su hogar, el campanario, y aunque estaba triste de dejar su hogar de invierno, sabía que también encontraría alegría.
+
+Al llegar al campanario, Valentina fue recibida por una sorpresa maravillosa. Sobre el nido, sus polluelos, ya adultos, la esperaban ansiosos. Cada uno había traído consigo a sus propias parejas, y una nueva generación de cigüeñas hermosas y felices había nacido. El nido de Valentina se volvió una reunión familiar, lleno de graznidos alegres y batir de alas.
+
+Valentina, al ver a sus hijos y a sus nietos, sintió una profunda emoción. Comprendió que su arduo trabajo, su paciencia y su amor incondicional habían dado frutos increíbles. Comprendió que el amor de una madre es un tesoro que trasciende el tiempo y la distancia.
+
+Y así, cada primavera, la ciguña paciente, Valentina, regresaba a su hogar, el campanario del pueblo, junto con su gran familia. Continuaba cuidando de ellos, transmitiendo su sabiduría y enseñándoles el valor de la vida, el respeto por la naturaleza y la importancia de la unión familiar. Y en el corazón de aquel pequeño pueblo español, el sonido de sus alas y el graznido alegre de las cigüeñas se convertía en la sinfonía de una primavera eterna. La historia de Valentina y sus polluelos, recordada y contada de generación en generación, demostraba que el amor y el cuidado de una madre son la semilla de la felicidad y el bienestar. Y el cielo, sobre aquel campanario, siempre se llenaba de promesas brillantes con la llegada de las cigüeñas.
+</body>
+```

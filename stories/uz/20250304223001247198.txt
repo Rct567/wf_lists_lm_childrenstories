@@ -1,0 +1,39 @@
+<prompt>
+Please write a uncomplicated Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Xayolot qutisidan chiqqan sirlar'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>Xayolot qutisidan chiqqan sirlar</title>
+<body>
+O'rta Osiyo qishloqlaridan birining tinchlikda, quyosh nurining qizig'ida, bir bolam bor edi.  Nomlari, Shohrux. Shohrux kichik yoshida, lekin yuragida kattalarcha orzular va hayot sirlarini ochish uchun chidamli qalbi bor edi.  Uning o'yinchoqlar orasida, yashil rangli, bezakli, o'ziga xos chiroyli, miniatyurali quti bor edi.  Qutiga "Xayolot qutisi" deb yozilgan edi, va Shohrux har kuni uni ochib, ichidagi go'zal va g'ayrioddiy narsalarni ko'rib hayratga tushadigan edi.  O'sha qutida, u hech qachon ko'rmagan hayvonlarning tasvirlari, yulduzlar osmonining sirli rasmlari va u hech qachon tush ko'rmagan ajoyib davlatlarning qiziqarli rasmlari bor edi.
+
+Bir kuni, Shohrux Xayolot qutisini o'zi odatdagidek ochdi.  Bu safar qutidan chiqib kelgan narsa, butunlay farq qilar edi.  Yorqin ranglar o'rniga, quti ichida qora rang ustunlik qilgan edi.  Uning ichida hech qachon ko'rmagan, sirli, baxtsiz yuzlar, tushkun ko'zlar va cheksiz, ajralmas sarg'ishlik bor edi.  Shohrux hayratga tushdi.  U ko'rgan odamlar quti ichidan o'ta aqlli tuyuldi. Ular har birini ko'rib, bir-birlarining ichidagi tushkunlikni anglaydi va ular har bir joyda o'zi bilan ko'rib turgan g'alati kayfiyatini ko'rar edi.
+
+"Nima bo'lyapti?"-deb so'radi Shohrux qattiq ovoz bilan. Qutidagi qora ruhdan bittasi u tomonga qarab g'alati ovoz bilan o'girilib aytishdi, "Olam aqli hech kimning ichidan chidab bo'lmas harakatlanishni o'lchagan bir muncha yo'q edi."
+
+"Ammo nima bo'ldi?", Shohrux hayrat bilan dedi, "Qutulmayapmanmi, nega u har bir joyda bor?".
+
+"Dunyo qorong'i hayotlar va xarob bo'layotgan hislar bilan to'lib borib, butunlay his-tuyg'ulardan butunlay yiroq bo'lib qoladi," - dedi yuzlaridan bittasi, Shohruxga qaytarib. Shohrux ularning nutqlarida hech narsa ko'rmadi va bu so'zlar quti ichida qolgan boshqa yuzlar tomonidan takrorlandi, lekin unda hech kimni ko'rar edi.
+
+"Sizlar qaysilardir?"-deb so'radi Shohrux hayrat bilan,"menni qora ko'zga yoki tushkunlikka aylantirmaysizlar, men shu qorong'ida yo'q qilib yuborishning imkoni yo'q".
+
+"Bizlarning ishimiz - bu butun olamda bo'layotgan yomonlikni qidirish va olamga tegishli xalqaro muammo qanday ekanini his qilish,"-dedi qutidagi bitta yuz.  "Bizlar ko'ngil va hayotlarimizga kirgan sarg'ishlikni o'rganmoqchimi?" -deyishdi boshqalari.
+
+Shohrux bir oz qattiq hissiyotlar va tushkunliklar ichidan qutulgan edi. U qora ruhning yuzlariga bir oz yaramasligiga hayron bo'ldi va hayratga tushgan odamdan farq qilardi, lekin narsalar ichidagi qudratga to'ladi. U hayot va quvonchning muhim ekanini bila boshladi va u aqliyatsizligi uchun qo'rquv his qilar edi.  "Qanday qilib bu holatni engishingiz mumkin?"-deb so'radi u.
+
+Qutidagi ruh vaqtlari o'zaro kelishuvda aytishdi: "Eng muhim narsa - mehr va yaxshilikdir. Har bir ishni ishtiyoq va ahamiyatga egalik bilan qila olasiz. Va yaxshilik har bir kishining qalbida mavjud bo'ladi. Sizning tushkunliklarga va sarg'ishligingizga chiday olasiz, ayniqsa boshqa odamlarga mehrli ko'rinishi mumkin bo'ladi".
+
+Shohrux, ko'p vaqt o'ylab o'tirgandan keyin, Xayolot qutisi o'z ko'rinishini o'zgartirib, yashil rangga aylanishini,  rasmlarda g'alaba va qahramonlar, boshqa quvonch va ijobiy taassurotlar paydo bo'lishini angladi.  Shohrux qalbini hammaga mehri bilan yoritishga va uning yo'naltirilishi bilan bu hayotga, orzu va olam quvonchlariga to'la ko'rinishi mumkin edi.
+
+Shohrux keyin boshqa odamlar va uyushganlikda yaxshilikni qilish yo'li bilan xabar tarqatishga kirishdi. Va har kuni butun olam bir-birining hayotlariga qiziqish bilan to'ldi va tinchlik va hayotdagi go'zallikni birlashtirdi. Odamlar bir-biri bilan ehtiyotkorlik bilan ko'rishga kirishdi. Ushbu voqealar Shohruxning Xayolot qutisidagi sirlarni tushunishiga olib keldi,  qalb va his-tuyg'ularga g'alaba qozonish uchun bir vaqtning o'zida hayotning ko'plab jihatlari bor edi.
+
+
+</body>

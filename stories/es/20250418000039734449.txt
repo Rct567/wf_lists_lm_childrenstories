@@ -1,0 +1,57 @@
+<prompt>
+Please write a educational Spanish children's story that is at least 1000 words long.
+It must be completely written in proper Spanish (ES).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La sombra misteriosa que acompañaba al niño en todas sus aventuras locas.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>es</lang_id>
+
+```xml
+<title>La sombra misteriosa que acompañaba al niño en todas sus aventuras locas.</title>
+<body>
+<p>Había una vez, en un pequeño pueblo pintoresco llamado Villa Alegre, un niño llamado Mateo. Mateo era un niño muy especial. Tenía un cabello rizado color sol, ojos grandes y curiosos como dos aceitunas, y una sonrisa que podía iluminar hasta el día más nublado. Lo más peculiar de Mateo, sin embargo, era su sombra. No una sombra ordinaria, no. La sombra de Mateo, a la cual llamaba “Sombrita”, era…bueno, un poco traviesa. A veces parecía querer ir en direcciones opuestas a Mateo, otras veces se estiraba y se convertía en formas divertidas, y otras, ¡incluso parecía reírse!</p>
+
+<p>Cada mañana, al salir el sol, Sombrita se despertaba y se unía a Mateo para la aventura del día. “¡Buenos días, Sombrita!”, Mateo siempre saludaba, con una gran sonrisa. Sombrita, por su parte, respondía moviéndose un poquito, como si hiciera un guiño. Y así comenzaban sus aventuras, aventuras llenas de risas, descubrimientos y, sobre todo, mucho aprendizaje.</p>
+
+<p>Un día soleado, Mateo y Sombrita decidieron ir a la granja de Doña Emilia. Doña Emilia era una señora muy amable que tenía muchos animales. Mateo, al llegar a la granja, corrió hacia el gallinero. "¡Hola, gallinas!", gritó, mientras Sombrita se alargaba intentando, inútilmente, alcanzar a una de las gallinas que picoteaba semillas. Doña Emilia se acercó a Mateo, sonriendo. "¿Qué te trae por aquí, Mateo?", preguntó.</p>
+
+<p>"¡Quiero aprender sobre los animales!", respondió Mateo, con entusiasmo. Doña Emilia, siempre dispuesta a enseñar, asintió. "¡Perfecto! Empecemos por los animales de la granja. ¿Sabes cuáles son?", preguntó Doña Emilia. Mateo, mirando a su alrededor, comenzó a señalar.</p>
+
+<p>“¡Sí! Veo una gallina, un cerdo… ¡y un caballo!”, exclamó. Doña Emilia sonrió y, tomando un cuaderno, le dijo a Mateo: “Hoy, Mateo, aprenderemos los nombres de algunos animales y, más importante, sus sonidos. ¿Estás listo?”. Mateo asintió con la cabeza, sus ojos brillando. Y Sombrita, al ver la emoción de Mateo, bailaba en el suelo, moviéndose de un lado a otro.</p>
+
+<p>Doña Emilia comenzó a enseñarle a Mateo los sonidos de los animales. "La gallina, Mateo, ¿cómo hace la gallina?", preguntó. Mateo pensó por un momento y luego respondió: “¡Cocorocó!”, intentando imitar el sonido de la gallina. Sombrita se estiró, pareciendo hacer “cocorocó” también. Doña Emilia se rió. “¡Muy bien! La gallina dice: “Cocorocó”. Y ¿el cerdo, cómo hace el cerdo?”, preguntó.</p>
+
+<p>Mateo hizo una mueca y luego soltó un “¡Oinc, oinc!” muy divertido. Sombrita, esta vez, se retorció en el suelo imitando el sonido, haciendo reír a Mateo. Doña Emilia escribió en su cuaderno: "Gallina: cocorocó. Cerdo: oinc, oinc".</p>
+
+<p>Luego, Doña Emilia le enseñó a Mateo cómo hace el perro: “¡Guau, guau!”, a la vaca: “¡Muuu!”, y al gato: “¡Miau!”. Mateo, con entusiasmo, intentaba imitar todos los sonidos, y Sombrita, siempre presente, imitaba a Mateo, creando sombras graciosas. Aprendieron que el perro guardián ladra, la vaca produce leche y el gato es muy bueno cazando ratones.</p>
+
+<p>Después de la granja, y siguiendo a Sombrita por los caminos de Villa Alegre, Mateo se dirigió al río, a orillas del cual crecían árboles frutales. El sol brillaba con intensidad, proyectando la sombra de Mateo, fiel compañera, en el suelo arenoso. Allí, se encontró con su amigo Juan. Juan era un niño con una pasión inmensa por los números y las matemáticas.</p>
+
+<p>"¡Hola, Juan!", gritó Mateo, saludando a su amigo. "Hola, Mateo! ¿Qué tal?", respondió Juan. "¡Bien! Doña Emilia me enseñó los sonidos de los animales. ¡Y ahora quiero aprender sobre las frutas!", respondió Mateo, con una gran sonrisa. Sombrita parecía asentir con su contoneo.</p>
+
+<p>"¡Perfecto!", dijo Juan. "Vamos a mi huerto. Te enseñaré sobre algunas frutas y a contarlas”. Juan guio a Mateo a su pequeño huerto, donde crecían manzanos, naranjos, perales y un parral de uvas. “Mira, Mateo”, dijo Juan, señalando un manzano lleno de manzanas rojas. “¿Ves estas manzanas? Vamos a contarlas”.</p>
+
+<p>Juan, con una sonrisa, recogió una manzana y le preguntó a Mateo: “¿Qué ves?”. Mateo, observando la manzana, respondió: “Una manzana”. Juan escribió un "1" en la tierra con un palito. “¡Correcto! Ahora, Mateo, tomemos otra manzana”. Juan agarró otra manzana. “¿Ahora cuántas manzanas hay?”. Mateo contó: “¡Dos manzanas!”. Juan escribió un "2". Sombrita, mientras tanto, se convirtió en una forma que recordaba al número 2, estirándose y encogiéndose.</p>
+
+<p>Así, Juan y Mateo continuaron contando las manzanas, las naranjas, las peras y las uvas. Aprendieron a contar hasta diez. Juan le explicaba a Mateo que cada número representaba una cantidad y que los números eran importantes para todo, desde saber cuántos dulces tienes hasta saber cuánto dinero necesitas para comprar algo. Aprendieron que 3 más 2 son 5, y que las matemáticas eran como un juego. Mateo se divertía mucho, y Sombrita, al ver la fascinación de Mateo por los números, parecía bailar de alegría en el suelo.</p>
+
+<p>Después de aprender a contar y aprender sobre los animales, Mateo y Sombrita continuaron sus aventuras por Villa Alegre. Un día, decidieron visitar a la bibliotecaria, Doña Sofía. Doña Sofía era una mujer sabia y amable, que amaba los libros más que nada en el mundo. Mateo, al entrar en la biblioteca, se sintió fascinado. Había libros de todos los tamaños y colores, cubriendo las estanterías hasta el techo.</p>
+
+<p>“¡Hola, Doña Sofía!”, saludó Mateo. “Hola, Mateo. ¿Qué te trae por aquí hoy?”, preguntó Doña Sofía, con una sonrisa. “¡Quiero aprender a leer!”, respondió Mateo, con determinación. “¡Excelente elección! Leer es una de las aventuras más maravillosas”, respondió Doña Sofía, emocionada. Sombrita, al escuchar las palabras de Doña Sofía, pareció tomar la forma de un libro abierto, estirándose y temblando un poco.</p>
+
+<p>Doña Sofía comenzó a enseñarle las letras a Mateo. Le explicó que cada letra tiene un nombre y un sonido, y que las letras juntas forman palabras. Comenzaron con las vocales: A, E, I, O, U. Mateo repetía los sonidos, y Doña Sofía escribía las letras en una pizarra. Le enseñó la letra “A” y, para que fuera más fácil, le mostró una manzana. "Manzana empieza con A", decía Doña Sofía.</p>
+
+<p>Mateo aprendió que la letra "E" era como el eco, "I" como un insecto, "O" como un ojo y "U" como una uva. Practicaron la letra "M" de mesa, la "S" de sol y la "P" de perro. Mateo, con paciencia y entusiasmo, se esforzaba por aprender cada letra y su sonido. Sombrita, observando la dedicación de Mateo, parecía bailar en el suelo con cada letra nueva que aprendía, como si celebrara cada logro.</p>
+
+<p>Doña Sofía, sabiendo la curiosidad de Mateo, también le enseñó palabras sencillas y frases cortas. Aprendieron a leer: "El sol brilla", "La casa es grande", "El perro come". Mateo, emocionado, practicaba y practicaba, y cada día se sentía más cerca de lograr su objetivo de leer libros enteros. Sombrita, al oír las nuevas palabras, vibraba de emoción. Las aventuras de Mateo en Villa Alegre y su crecimiento educativo continuaron.</p>
+
+<p>Un día, Mateo y Sombrita decidieron celebrar todas las cosas que habían aprendido hasta ese momento. Organizaron una pequeña fiesta en el parque. Invitaron a todos sus amigos: Juan, Doña Emilia y Doña Sofía. Decoraron el parque con globos y serpentinas de colores. Juan trajo números y Mateo pintó animales. Doña Emilia horneó galletas en forma de animales, y Doña Sofía le dio a Mateo un libro nuevo.</p>
+
+<p>Mateo, con orgullo, leyó una frase del libro, y todos los presentes aplaudieron. Después de la fiesta, y ya cuando el sol se ocultaba, Mateo y Sombrita, tomados de la mano (o más bien, Mateo llevando a Sombrita consigo, pues al anochecer su sombra se fundía con la oscuridad), regresaron a casa, sabiendo que cada día aprenderían algo nuevo. Y mientras Mateo se dormía, Sombrita se quedaba a su lado, lista para una nueva aventura al día siguiente. Porque en Villa Alegre, la curiosidad, el aprendizaje y una sombra traviesa eran la combinación perfecta para un sinfín de aventuras locas, siempre unidas por la amistad y el saber.</p>
+</body>
+```

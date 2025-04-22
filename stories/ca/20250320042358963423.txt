@@ -1,0 +1,67 @@
+<prompt>
+Please write a light-hearted Catalan children's story that is at least 1000 words long.
+It must be completely written in proper Catalan (CA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'El ruc que volia tenir un gran amic amb qui caminar per tot el món.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>ca</lang_id>
+
+```xml
+<title>El ruc que volia tenir un gran amic amb qui caminar per tot el món.</title>
+<body>
+En Roget era un ruc petit, però amb un cor gegant. Tenia unes orelles llargues que li queien a banda i banda, una cua que movia constantment, i uns ulls negres i brillants que reflectien la llum del sol com si fossin dos miralls. El Roget vivia en una masia a les afores de Barcelona, envoltat de camps verds, ametllers florits i el cant alegre dels ocells. Però, malgrat la bellesa del seu entorn i la companyia de la seva mare, una burra amable i juganera, el Roget sentia que li faltava alguna cosa. Li faltava un amic. Un amic de veritat, amb qui pogués compartir les seves aventures, els seus somnis i, sobretot, amb qui pogués caminar per tot el món.
+
+Cada dia, el Roget somiava despert. Imaginava com seria caminar per les muntanyes altíssimes, descobrir platges de sorra daurada on les ones cantaven cançons secretes, i travessar boscos frondosos plens de misteris i de criatures màgiques. En aquests somnis, sempre hi havia algú al seu costat: el seu amic. Un amic valent, lleial i amb ganes d’explorar.
+
+Un bon dia, mentre pasturava tranquil·lament, va sentir un soroll estrany provinent del bosc que hi havia al costat de la masia. Curiosíssim, el Roget va decidir investigar. Amb el cor bategant a mil per hora, es va apropar cautelosament al bosc, les orelles ben dretes per poder captar qualsevol so. Entre els arbres, va veure una cosa que li va treure l’alè: un elefant! Però no un elefant qualsevol, no senyor! Aquest elefant era petit, de color gris plom, amb unes orelles enormes que li penjaven, com les del Roget, i una trompa llarga i juganera que es movia amunt i avall. L'elefant semblava espantat i estava amagat darrere d'un arbre gros.
+
+"Hola!", va dir el Roget, amb una veu tremolosa.
+
+L'elefant va sortir del seu amagatall amb sorpresa, i va mirar el ruc amb els seus ulls grans i tristos.
+
+"Qui ets tu?", va preguntar l'elefant, amb una veu prima i tremolosa.
+
+"Sóc en Roget, un ruc. I tu, com et dius?"
+
+"Em dic Eliel", va respondre l'elefant. "Sóc… sóc nou aquí."
+
+Eliel havia vingut de molt lluny, d'un país ple de selva i de rius gegants. S’havia perdut de la seva família i estava sol, i molt espantat. En Roget, en veure la tristor als ulls de l’Eliel, va sentir un impuls de voler ajudar-lo.
+
+"No t’amoïnis, Eliel!", va dir el Roget amb una veu plena de confiança. "Jo t’ajudaré! Ara ets el meu amic i mai et deixaré sol. Vine, et portaré a casa meva, la meva mare t'acollirà de seguida!"
+
+I així va ser com el Roget i l’Eliel es van fer amics. En primer lloc, la mare del Roget es va quedar una mica sorpresa quan va veure un elefant al seu menjador, però, en comprovar la tristesa a la mirada de l'Eliel i la bondat del seu fill, el va acollir sense cap problema. L’Eliel es va instal·lar a la masia, i el Roget i ell van començar a passar tots els dies junts, fent de tot. Van jugar al joc de l’amagar-se als camps, es van banyar al rierol fresc i, a les nits, estirats sota les estrelles, es contaven històries fantàstiques sobre viatges i aventures. L’Eliel era molt bo construint coses amb la seva trompa, i el Roget coneixia tots els racons del bosc i tenia un olfacte extraordinari per descobrir les baies més dolces.
+
+Un dia, mentre jugaven prop d’un antic mapa que el pare del Roget tenia a l'àtic, Eliel va preguntar al Roget: "Escolta, Roget, tu encara vols caminar pel món?".
+
+En Roget va parar de córrer i va mirar l’Eliel. “Molt! Aquesta és la cosa que més vull al món! Però... com ho farem? Tu ets un elefant i jo un ruc petit… no crec que poguem viatjar gaire lluny."
+
+Eliel va somriure amb confiança. "T’equivoques, amic meu. Tenim un mapa! I jo he sentit a dir que hi ha un vaixell enorme a la costa que vol fer la volta al món. Podem provar d’anar-hi, potser ens poden dur!"
+
+Els ulls del Roget es van il·luminar. ¡Un viatge! ¡Una aventura! No s'ho podia creure. En aquell mateix instant, els dos amics van decidir que emprendrien el viatge. Van començar a preparar-se per a l’aventura. Van empacar un petit bagul amb provisions: unes quantes pomes vermelles i sucoses, formatge de la masia, i aigua fresca per beure durant el viatge. També van agafar una manta per abrigar-se a les nits, i el mapa que Eliel havia descobert. La mare del Roget, plorava de felicitat, sabent que el seu fill estava complint el seu somni. Li va donar una abraçada forta i els va desitjar molta sort.
+
+Al matí següent, amb el sol naixent pintant el cel amb colors càlids, els dos amics es van acomiadar de la masia i van començar a caminar cap a la costa. El camí era llarg i, de vegades, difícil. Van travessar boscos densos, van escalar petits turons i van seguir rius serpentejants. Però, en tot moment, el Roget i l'Eliel es van animar mútuament. El Roget feia riure l’Eliel amb les seves bromes i l’Eliel, amb la seva trompa, ajudava a desbrossar el camí i a carregar el bagul.
+
+Després de dies de camí, finalment, van arribar a la costa. La vista era espectacular. Davant seu, s’estenia el mar blau infinit, i al fons, a la platja, van veure un vaixell imponent, amb les veles inflades pel vent. Amb l'esperança als ulls, es van acostar a la nau.
+
+El capità del vaixell, un home gran amb una barba blanca i un somriure amable, els va rebre amb simpatia. Li van explicar la seva història i li van demanar si podien embarcar-se amb ell. Al principi, el capità es va sorprendre al veure un elefant i un ruc junts, però, després d’escoltar la història, i veure la intensitat de l’amistat entre ells, va acceptar encantat.
+
+"Pujau a bord, amics meus!", va dir el capità. "Estic segur que sereu uns bons mariners! I el meu vaixell necessita companyia alegre."
+
+I així, en Roget i l’Eliel van començar la seva gran aventura. Durant el viatge, van veure paisatges meravellosos: illes paradisíaques amb palmeres i aus de colors exòtics, muntanyes nevades on les aigües baixaven formant cascades, i mars plens de criatures marines. Van aprendre a orientar-se amb les estrelles, a identificar els peixos i a suportar les tempestes. El Roget, amb les seves orelles, estava sempre alerta i informava dels possibles perills. L'Eliel utilitzava la seva trompa per a treballs pesats i també ajudava a les persones que tenien dificultats. Junts van aprendre que, amb esforç, col·laboració i bona companyia, no hi havia res impossible.
+
+En una de les seves parades, van arribar a una terra plena de fruites desconegudes i de boscos encantats. Durant l’exploració, van trobar una cova fosca. El Roget, sempre curiós, volia entrar-hi. L'Eliel, sempre previsor, va insistir en dur una torxa. A dins, van descobrir una petita sala on hi havia un tresor. Però no eren joies ni or el que custodiava aquella cambra. A dins, hi havia una llum preciosa que tenia el poder de complir els desitjos. L’Eliel, generós, li va dir al Roget que podia demanar el que volgués.
+
+En Roget, sense dubtar-ho, va tancar els ulls i va demanar: "Desitjo que la meva amistat amb l’Eliel duri per sempre, i que puguem continuar viatjant per tot el món junts".
+
+La llum, en escoltar les paraules d’en Roget, va brillar encara més intensament. La màgia del tresor es va complir.
+
+El viatge va durar molt de temps, però els dos amics van ser feliços en tot moment. Van conèixer gent de tot el món, van tastar menjars exòtics i van compartir moltes rialles. Al final del viatge, el vaixell va tornar a la costa catalana. El Roget i l'Eliel, havent après tantes coses i havent viscut tantes aventures, van decidir quedar-se junts per sempre més. Van construir una caseta a prop de la masia, des d’on podien recordar els seus viatges, i van passar el temps explicant-se contes, jugant i gaudint de la vida.
+
+I així, en Roget, el ruc petit que volia tenir un gran amic amb qui caminar per tot el món, va complir el seu somni. I amb l’Eliel al seu costat, va descobrir que l’amistat, la lleialtat i la capacitat de compartir moments feliços, eren el tresor més gran que es pot trobar a la vida, molt per sobre de qualsevol mapa o cova plena de llums. I cada nit, abans d’anar a dormir, el Roget mirava la lluna brillant i pensava en totes les aventures que encara li quedaven per viure, sempre amb el seu gran amic, l'Eliel, al seu costat.
+</body>
+```

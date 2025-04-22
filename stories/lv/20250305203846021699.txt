@@ -1,0 +1,39 @@
+<prompt>
+Please write a timeless Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Mazais vilcieniņš, kas atklāja noslēpumainu tuneli'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lv</lang_id>
+
+<title>Mazais vilcieniņš, kas atklāja noslēpumainu tuneli</title>
+<body>
+Rīgas dzelzceļa līnijā, starp zaļajām pļavām un augstajiem priežu mežiem, dzīvoja mazs, sarkanā krāsā gleznots vilcieniņš. Viņa vārds bija Rumbulis, un viņš bija tik mazs, ka varēja ietilpt pat mazākajā dārziņā.  Rumbulis mīlēja braukāt un skatīties apkārt. Katru dienu viņš brauca pa savu maršrutu, vedot līdzi smieklīgus kravu vagonus un priecīgus pasažierus.
+
+Bet Rumbulis nebija parasts vilcieniņš. Viņam bija neparasti lielas acis, kas spēja redzēt tālu aiz horizonta, un sirds, kas bija pilna ar piedzīvojumu slāpēm.  Ikdienā, braucot garām senam, klusam mežam, Rumbulis pamanīja neparastu, tumšu caurumu zemē.  Tas bija mazs, apbūris, un no tā izstaroja noslēpumainu gaismu.
+
+“Kas tas ir?” Rumbulis jautāja savam draugam, lokomotīvei, kuru sauca par Gāzi.
+
+Gāze, ar savu dziļo un mierīgo dūkoņu, atbildēja: “Tas ir noslēpumainais tunelis, Rumbulis.  Leģendas stāsta, ka tas ved uz pasauli, kas pilna ar brīnumiem.”
+
+Rumbulis, kurš jau no mazotnes bija dzirdējis leģendas par noslēpumainajām zemes iedobēm, nevarēja apstāties.  Viņš bija pilns ar nepacietību.  “Gāze, lūdzu, mēs ejam!”
+
+Gāze, saprotot Rumbulīša dedzīgo interesi, piekrita.  Viņi lēnām, uzmanīgi, sāka braukt uz tuneļa pusi.  Ap tuneli bija biezs, tumšs mežs, un no tā iznāca dīvaini, šņācoši skaņi.
+
+Tunelis bija dziļš un tumšs.  Rumbulis un Gāze iebrauca tajā, un apkārt viss kļuva kluss.  Gaisma izgaisa, un vienīgā gaisma bija maza, zvaigžņota gaisma, kas izstaroja no tuneļa sienām.  Rumbulis un Gāze brauca un brauca, un tunelis nebeidzās.
+
+Pēkšņi, viņi iebrauca citā pasaulē.  Šī pasaule bija pilna ar dīvainiem augiem un ziediem, ko Rumbulis nekad nebija redzējis.  Debess bija zila un gaiša, un drosmīgi putni lidinājās pa gaisu.  Šeit dzīvoja mazi, smieklīgi radījumi ar spārniem un spīdīgām acīm.  Tie priecājās par Rumbulīša un Gāzes ierašanos, un apsveica viņus ar mūziku un dziedāšanu.
+
+Rumbulis un Gāze brauca pa šo brīnišķīgo pasauli, apbrīnojot dabu un tikšanās ar dažādiem radījumiem.  Viņi redzēja lielus, zilos ziedus, kas spīdēja kā dārgakmeņi, un dzirdēja skaistus putnu dziesmu.  Viņi tikās ar mazu, smaidīgu ērgļu ģimeni, kas apbrīnoja vilcieniņus ar savām spīdīgajām acīm.
+
+Bet šī pasaule nebija bez briesmām.  Viņi sastapās ar ļaunajiem, tumšajiem ēnu draugiem, kas gribēja aptumstīt šo pasauli.  Rumbulis, ar savu drosmi un Gāzes spēku, cīnījās ar ēnu draugiem, un atvairīja tos ar skaļām dūkoņām un vilciena troksni.
+
+Pēc garas un aizraujošas ceļojuma, Rumbulis un Gāze atklāja tuneļa galu.  Tas veda atpakaļ uz parasto pasauli, garām zaļajām pļavām un augstajiem priežu mežiem.  Rumbulis un Gāze bija tik priecīgi, ka atkal bija mājās.
+
+Atgriežoties, Rumbulis stāstīja visiem par savu noslēpumainā tuneļa ceļojumu.  Viss dzelzceļa līnijas pasažieri bija aizrāvušies ar viņa stāstu un jautāja vēl un vēl.  No tā brīža Rumbulis bija visiem pazīstams kā drosmīgais vilcieniņš, kurš atklāja noslēpumainu tuneli.  Un katru dienu, braucot pa maršrutu, Rumbulis atcerējās savu piedzīvojumu un neparasto pasauli, ko viņš bija atklājis.  Un tā, mazais vilcieniņš turpināja braukt, vedot pasažierus un atklājot jaunus piedzīvojumus.
+</body>

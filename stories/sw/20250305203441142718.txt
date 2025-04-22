@@ -1,0 +1,45 @@
+<prompt>
+Please write a simple and easy-to-follow Swahili children's story that is at least 1000 words long.
+It must be completely written in proper Swahili (SW).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Juma na Safari Yake ya Kupata Mchezo wa Kwanza'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sw</lang_id>
+
+<title>Juma na Safari Yake ya Kupata Mchezo wa Kwanza</title>
+<body>
+Juma alikuwa mvulana mdogo mwenye macho makubwa meusi na tabasamu pana.  Aliishi katika kijiji kidogo, katikati ya miti mirefu na maua mazuri.  Juma alikuwa na ndoto moja kubwa: kupata mchezo wake wa kwanza.  Watoto wengine katika kijiji walikuwa na magari ya mbao, na wanasesere, lakini Juma hakuwa na chochote.
+
+Siku moja, mama yake alimwambia, "Juma, leo unafanya kazi ya muhimu sana.  Unaenda sokoni na kuniuza mboga zangu.  Kumbuka, unahitaji kuuza mboga zote ili upate pesa za kununua mchezo."
+
+Juma alifurahi sana.  Alichukua kikapu kidogo na mboga mbalimbali, kama vile nyanya nyekundu, pilipili zambarau, na matango yenye rangi ya kijani kibichi.  Alivaa nguo zake nzuri zaidi na akatoka kwenda sokoni.
+
+Sokoni ilikuwa na shughuli nyingi.  Wauzaji walikuwa wakipiga kelele, wakitafuta wateja.  Wateja walikuwa wakitafuta mboga za bei nzuri.  Juma aliweka kikapu chake chini na kuanza kuuza mboga zake.
+
+"Nyanya tamu, nyanya tamu!" alisema Juma kwa sauti ya chini.  "Pilipili zambarau, tamu sana!"  Alizunguka sokoni akiuza mboga zake.  Wateja walikuwa wakimtazama, lakini wengi waliendelea na shughuli zao.
+
+Juma alikuwa na wasiwasi sana.  Alikuwa na woga kwamba hawezi kuuza mboga zote.  Alichukua pumzi ndefu na akasimama mbele ya mgeni mmoja.  Mgeni huyo alikuwa mzee mmoja mwenye tabasamu lapole.
+
+"Mboga zako zinaonekana nzuri sana, mvulana," alisema mzee huyo. "Je, una bei gani?"
+
+"Nyanya ni shilingi tano kwa kilo moja, na pilipili ni shilingi tatu kwa kilo moja," alijibu Juma.
+
+Mzee huyo alitabasamu na kununua kilo moja ya nyanya na pilipili.  Juma alifurahi sana.  Aliendelea kuuza mboga zake kwa watu wengine sokoni.  Alipata wateja wengi zaidi, na akaanza kuona kwamba mboga zake zote zilikuwa zinauzwa.
+
+Juma alifurahi sana.  Alipata pesa nyingi zaidi kuliko alivyotarajia.  Alikuwa na pesa za kutosha kununua mchezo.  Alikimbia kuelekea dukani ambapo aliona mchezo mzuri wa magari.  Alichagua gari nyekundu ndogo, yenye magurudumu makubwa.
+
+Juma alifurahi sana.  Alikimbia nyumbani, akimwambia mama yake habari njema.  Mama yake alifurahi sana.  Juma alikuwa amepata mchezo wake wa kwanza.
+
+Alicheza na gari lake jipya kwa furaha.  Alikimbia na kuendesha gari lake katika bustani.  Alicheza na marafiki zake, wakicheka na kufurahi.  Alijua kuwa siku zijazo zilikuwa na furaha nyingi.
+
+Juma alijifunza somo muhimu sana siku hiyo.  Alijifunza kuwa kazi ngumu na uvumilivu vilikuwa muhimu ili kufikia malengo yake.  Alijifunza kuwa uaminifu na bidii vilikuwa muhimu ili kupata kile alichokitaka.  Na muhimu zaidi, alijifunza thamani ya pesa na nguvu ya kuuza.
+
+Juma aliendelea kuuza mboga sokoni kila siku, na alijifunza mambo mengi zaidi.  Alikuwa mvulana mwema na mwenye bidii.  Alifurahia kuuza mboga na kuona wateja wake wakipata mema.
+
+Juma aliendelea kucheza na gari lake jipya.  Alikuwa na furaha sana.  Alikuwa na marafiki wengi, na walicheza pamoja kwa furaha.  Juma alikuwa mvulana mwenye furaha na mwenye furaha katika kijiji hicho.  Na kila siku, Juma alikuwa na furaha zaidi na zaidi.
+</body>

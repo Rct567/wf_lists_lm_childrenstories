@@ -1,0 +1,45 @@
+<prompt>
+Please write a educational Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Mažojo Meškiuko Kelionė, Ieškant Geriausios Vieta Jo Žiemos Miego.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>lt</lang_id>
+
+<title>Mažojo Meškiuko Kelionė, Ieškant Geriausios Vieta Jo Žiemos Miego</title>
+<body>Mažasis Meškiukas gyveno didžiame miške, kur augo aukšti medžiai, teka giedri upeliai ir gyvena daugybė įvairių gyvūnų. Jis buvo labai draugiškas ir visada laukė naujų pažintų. Tačiau, kai pradėjo šalti ir sniegti, Mažasis Meškiukas pradėjo galvoti apie savo žiemos miegą. Jis žinojo, kad reikia rasti saugią ir šiltą vietą, kur galėtų miegoti visą žiemą.
+
+Vieną dieną, Mažasis Meškiukas nusprendė pasikonsultuoti su savo geriausiu draugu, Senuoju Egle. Senasis Eglė buvo labai išmanus ir turėjo daug patirties. Jis gyveno miške jau daugelį metų ir žinojo viską apie geriausias vietas žiemos miegui. Mažasis Meškiukas nuėjo pas Senąjį Eglę ir papasakojo apie savo problemą.
+
+"Labas, Senasis Eglė", - pasveikino Mažasis Meškiukas. "Aš ieškau geriausios vietos savo žiemos miegui. Žinai kažką apie tai?"
+
+Senasis Eglė priešinguoju klausimu paklausė: "Ar tu žinai, kas yra svarbiausia žiemos miegui?"
+
+Mažasis Meškiukas pagalvojo ir atsakė: "Manau, kad svarbiausia yra šiluma ir saugumas."
+
+"Taip, taip", - patvirtino Senasis Eglė. "Šiluma ir saugumas yra labai svarbūs. Bet yra dar viena svarbi dalyka - tylėjimas. Žiemos miegas reikalauja tylos ir ramybės."
+
+Mažasis Meškiukas klausė toliau: "Ar žinai kažką apie geriausias vietas, kurios yra šiltos, saugios ir tyles?"
+
+Senasis Eglė smulkiai apieškojo mišką ir atsakė: "Žinau vieną vietą, kuri yra labai šilta ir saugi. Tai yra seno ąžuolo duobė. Ji yra uždara ir saugi, o šiluma čia yra visada. Bet reikia būti atsargiam, nes duobė yra giliai miške ir reikia ilgai eiti, kad ten patekti."
+
+Mažasis Meškiukas nusprendė vykti į seno ąžuolo duobę. Jis pasikeitė su Senuoju Egle ir išėjo į kelionę. Kelias buvo ilgas ir sudėtingas, bet Mažasis Meškiukas nebuvo bijotas. Jis žinojo, kad reikia rasti geriausią vietą savo žiemos miegui.
+
+Po kelių valandų einant, Mažasis Meškiukas pasiekė seno ąžuolo duobę. Ji buvo dar gražesnė, nei jis buvo įsivaizdavęs. Duobė buvo šilta, saugi ir tyles. Mažasis Meškiukas žinojo, kad čia jis galės miegoti visą žiemą.
+
+Tačiau, kai jis buvo apie įsėsti, jį pastojo kitas gyvūnas - Mažoji Pelėda. Ji buvo labai smagi ir draugiška. "Labas, Mažasis Meškiukas", - pasveikino ji. "Ką tu čia darai?"
+
+Mažasis Meškiukas papasakojo apie savo kelionę ir apie seno ąžuolo duobę. Mažoji Pelėda klausė su domėjimu ir atsakė: "Aš taip pat ieškau vietos savo žiemos miegui. Ar galėčiau čia pasilikti su tavo?"
+
+Mažasis Meškiukas buvo labai geras ir leido Mažajai Pelėdai pasilikti. Jie abu įsėdo duobėje ir pradėjo miegoti. Žiemos miegas buvo ilgas ir ramus. Mažasis Meškiukas ir Mažoji Pelėda miegojo visą žiemą, kol pavasarį nepradėjo šilti.
+
+Kai pavasaris atėjo, Mažasis Meškiukas ir Mažoji Pelėda atsikėlė ir išėjo iš duobės. Jie buvo labai laimingi, kad jie rado geriausią vietą savo žiemos miegui. Mažasis Meškiukas padėkojo Mažajai Pelėdai, kad ji pasilikusi su juo, o Mažoji Pelėda padėkojo Mažajam Meškiukui, kad jis leidęs jai pasilikti.
+
+Jie abu nusprendė kartu eiti į mišką ir pasveikinti kitus gyvūnus, kad jie atsikėlė iš žiemos miego. Mažasis Meškiukas ir Mažoji Pelėda buvo labai gerais draugais ir visada kartu eidavo į keliones. Jie žinojo, kad draugystė yra labai svarbi, ir kad ji gali padėti įveikti bet kokią problemą.
+
+Taip Mažasis Meškiukas ir Mažoji Pelėda gyveno miške, visada kartu eidami į keliones ir visada padėdami vienas kitam. Jie buvo labai laimingi, kad jie rado geriausią vietą savo žiemos miegui, ir kad jie turėjo vienas kitą. Ir jie gyveno ilgiausiai, visada būdami gerais draugais ir visada kartu eidami į keliones.</body>

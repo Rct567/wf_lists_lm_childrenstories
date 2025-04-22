@@ -1,0 +1,41 @@
+<prompt>
+Please write a relatable Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Mały kruk, który marzył o lataniu do księżyca'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>pl</lang_id>
+
+<title>Mały kruk, który marzył o lataniu do księżyca</title>
+<body>
+Kruk o imieniu Kubuś był najmniejszym krukiem w całym lesie.  Nie był tak imponująco czarny jak jego bracia i siostry, a jego pióra miały delikatny, szarawy odcień.  Inne kruki śmiały się z niego, nazywając go "Szaraczkiem".  Kubuś czuł się samotny i przygnębiony.  Marzył o wielkich, ekscytujących przygodach, ale czuł, że jego małe ciało i szare pióra skazują go na nudne życie.
+
+Codziennie, podczas gdy inne kruki goniły za robakami i szukali smacznych owoców, Kubuś siedział na gałęzi, obserwując.  Obserwował, jak orły wznoszą się wysoko w niebo, jak sójki zwinnie przeskakują z drzewa na drzewo, i jak sowy ślizgają się cichutko w mroku.  I w każdym locie, w każdym przelocie, Kubuś widział swój własny, nieosiągalny cel – księżyc.
+
+Marzył o lataniu do księżyca.  Marzył o tym, by zobaczyć, jak wyglądają gwiazdy z bliska.  Marzył o tym, by poznać tajemnice skrywane w ciemnościach kosmosu.  Ale jak mały, szary kruk mógłby to zrobić?  Inni kruki wyśmiewali się z jego marzeń, mówiąc, że są one niemożliwe.  "Księżyc jest zbyt daleko," mówili. "Jesteś zbyt mały." "Twoje pióra są zbyt szare."
+
+Jednego dnia, podczas gdy Kubuś siedział na gałęzi, obserwując zachód słońca, spotkał małą, szarą myszkę o imieniu Zosia.  Zosia, choć mała, była pełna odwagi i ciekawości.  Słuchała z uwagą, jak Kubuś opowiadał o swoim marzeniu o locie na księżyc.
+
+"To piękne marzenie, Kubuś," powiedziała Zosia. "Ale jak to zrobić?"
+
+Kubuś westchnął.  "Nie wiem," odpowiedział. "Jestem za mały i za szary.  Moje pióra nie są wystarczająco mocne, żeby mnie unieść."
+
+Zosia spojrzała na niego uważnie. "Może nie jesteś wystarczająco silny, aby latać samodzielnie, Kubuś.  Ale może są inne sposoby?"
+
+Zosia przypomniała sobie o starym, zniszczonym, drewnianym skrzydle, które leżało na skraju lasu.  Było to skrzydło od starego, porzuconego latawca.  "Może z tym skrzydłem," powiedziała Zosia.
+
+Kubuś był sceptyczny, ale pomysł wydał mu się warty spróbowania.  Razem, Kubuś i Zosia, z wielkim trudem, przetransportowali skrzydło do swojego gniazda.  Przez wiele długich dni, Kubuś i Zosia pracowali nad tym, jak wykorzystać skrzydło.  Kubuś, używając swoich małych, sprytnych dziobków, naprawiał i usprawniał skrzydła, a Zosia, z pomocą innych małych zwierząt, znalazła lekkie, ale wytrzymałe materiały, aby je uzupełnić.
+
+W końcu, po wielu trudnych dniach, Kubuś miał gotowe skrzydła.  Były one nie tylko lekkie, ale też niesamowicie wytrzymałe.  Były one stworzone z myślą o nim i jego małych skrzydłach.  Kubuś, z wielkim entuzjazmem, przymocował skrzydła do swojego grzbietu.
+
+Teraz, z nowymi skrzydłami, Kubuś poczuł w sobie nową siłę.  Zrobił wielki skok i wyruszył w powietrze.  Zaczęło się to jako mały, niepewny lot, ale Kubuś, z pomocą skrzydeł, stopniowo zyskiwał na wysokości.  Leciał coraz wyżej i wyżej, aż wreszcie dotarł do księżyca.
+
+Kubuś był zachwycony!  Księżyc był jeszcze piękniejszy z bliska.  Widział kratery, góry i doliny, które wydawały się być wykonane z srebra i złota.  Spotkał tam innych małych, ciekawych stworzeń, którzy również marzyli o przygodach.
+
+Po długiej podróży, Kubuś, czując się zmęczony, ale szczęśliwy, powrócił na Ziemię.  Gdy wrócił do lasu, inne kruki były zaskoczone i podziwiały jego odwagę i spryt.  Teraz, Kubuś nie był już tylko "Szaraczkiem".  Był Kubusiem, odważnym krukiem, który latał do księżyca.  I od tej pory, Kubuś i Zosia byli przyjaciółmi na całe życie, zawsze wspierającymi się w swoich marzeniach.
+</body>

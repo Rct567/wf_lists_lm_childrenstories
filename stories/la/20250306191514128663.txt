@@ -1,0 +1,43 @@
+<prompt>
+Please write a simple and easy-to-follow Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Per Aquas Profundas et Ad Astra'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>la</lang_id>
+
+<title>Per Aquas Profundas et Ad Astra</title>
+<body>Erant in insula quaedam, ubi pueri et puellae ludabant in sole. Insula erat parva, sed pulchra, et omnes qui ibi vivebant, gaudebant vita sua. Puer quidam, nomine Marcus, erat curiosus et amabat explorare. Ille semper quaerebat nova loca et res, et numquam fatiguebat.
+
+Die quodam, Marcus ad litus insulae ivit, ubi vidit navem magnam et pulchram. Nautae in nave erant, et Marcus vidit eos parare se ad navigandum. Ille accessit ad nautas et dixit: "Quo itis?" Nautae responderunt: "Ibimus per aquas profundas, ad insulas novas et ignotas." Marcus dixit: "O, quaero venire vobiscum!" Nautae riserunt et dixerunt: "Puer es, et non potes navigare cum nobis." Sed Marcus non destitit, et rogavit nautas ut eum ducerent.
+
+Nautae, qui Marcellus et Lucius vocabantur, erant viri boni et misericordes. Viderunt Marcum et dixerunt: "Bene, puer, veni nobiscum, sed cave, quia navigare per aquas profundas est periculosum." Marcus gaudebat et dixit: "Gratias ago, domini!" Nautae dixerunt: "Non sumus domini, sed amici. Navigabimus simul, et pericula simul sustinebimus."
+
+Navis solvit ancoram et ivit in mare. Marcus videbat insulam suam, quae semper minuebatur, et sentiebat se esse in novo mundo. Nautae monstrabant ei res novas, ut stellas et planetas, et Marcus quaerebat scire omnia. Ille videbat pisces et alia animalia in aqua, et gaudebat valde.
+
+Post dies aliquot, navis venit ad insulam novam. Insula erat magna et montuosa, et Marcus videbat montes altos et valles profundas. Nautae dixerunt: "Haec insula vocatur Montosa, et est locus periculosus." Marcus dixit: "Non timeo, quia sumus simul." Nautae riserunt et dixerunt: "Bene, puer, navigabimus per insulam, et videbimus res novas."
+
+In insula, Marcus et nautae videbant res mirabiles. Ille videbat aves coloratas et flores pulchros, et gaudebat valde. Nautae monstrabant ei fontes et flumina, et Marcus bibebat aquam frescam. Ille sentiebat se esse in paradiso, et non volebat discedere.
+
+Sed post dies aliquot, nautae dixerunt: "Tempus est discedere, quia navigare per aquas profundas est periculosum." Marcus dixit: "Non volo discedere, quia amo insulam." Nautae dixerunt: "Puer, debes venire nobiscum, quia sumus amici." Marcus gaudebat et dixit: "Bene, veniam vobiscum."
+
+Navis solvit ancoram et ivit in mare. Marcus videbat insulam Montosam, quae semper minuebatur, et sentiebat se esse in novo itinere. Nautae monstrabant ei res novas, ut nebulae et stellae, et Marcus quaerebat scire omnia. Ille videbat lunam et solem, et gaudebat valde.
+
+Post dies aliquot, navis venit ad locum novum. Locus erat in caelo, et Marcus videbat stellas et planetas. Nautae dixerunt: "Haec est astra, et est locus mirabilis." Marcus dixit: "O, quaero scire omnia de astris!" Nautae riserunt et dixerunt: "Bene, puer, sciemus omnia de astris."
+
+In astris, Marcus et nautae videbant res mirabiles. Ille videbat stellas et planetas, et gaudebat valde. Nautae monstrabant ei vias et orbitas, et Marcus quaerebat scire omnia. Ille sentiebat se esse in mundo novo, et non volebat discedere.
+
+Sed post dies aliquot, nautae dixerunt: "Tempus est discedere, quia navigare per astra est periculosum." Marcus dixit: "Non volo discedere, quia amo astra." Nautae dixerunt: "Puer, debes venire nobiscum, quia sumus amici." Marcus gaudebat et dixit: "Bene, veniam vobiscum."
+
+Navis solvit ancoram et ivit in mare. Marcus videbat astra, quae semper minuebatur, et sentiebat se esse in novo itinere. Nautae monstrabant ei res novas, ut montes et valles, et Marcus quaerebat scire omnia. Ille videbat insulas et continentia, et gaudebat valde.
+
+Post dies aliquot, navis venit ad insulam suam. Insula erat parva et pulchra, et Marcus videbat amicos suos, qui gaudebant valde. Marcus dixit: "Salvete, amici! Veni ab astris et per aquas profundas." Amici dixerunt: "Gaudeamus, Marcus! Quaerebamus te." Marcus dixit: "Veni cum nautis, Marcellus et Lucius, et vidimus res mirabiles."
+
+Amici quaerebant scire omnia de itinere Marcum. Marcus narravit omnia, et amici gaudebant valde. Ille dixit: "Vidi stellas et planetas, et navigavi per astra. Vidi insulas et continentia, et navigavi per aquas profundas." Amici dixerunt: "O, Marcus, tu es puer mirabilis!" Marcus dixit: "Non sum mirabilis, sed sumus amici, et navigabimus simul."
+
+Et sic, Marcus et nautae, Marcellus et Lucius, navigabant per aquas profundas et per astra, et videbant res mirabiles. Ille gaudebat valde, et sentiebat se esse in mundo novo. Et Marcus sciebat, quia navigare per aquas profundas et per astra, est periculosum, sed cum amicis, est mirabilis.</body>

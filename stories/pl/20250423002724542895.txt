@@ -1,0 +1,54 @@
+<prompt>
+Please write a silly Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Przygody Oliwki w Szkole Magii, jej Niesamowite Lekcje i Sukcesy'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pl</lang_id>
+
+```xml
+<title>Przygody Oliwki w Szkole Magii, jej Niesamowite Lekcje i Sukcesy</title><body>
+Pewnego razu, w samym sercu Polski, w wiosce zwanej Królików, mieszkała mała dziewczynka o imieniu Oliwka. Oliwka miała rude włosy, zielone oczy, które lśniły jak szmaragdy, i niespożyty apetyt na przygody. Jej największym marzeniem było nauczenie się magii. Pewnego dnia, siedząc pod wielkim, kwitnącym bzem, Oliwka otrzymała tajemniczy list. Koperta była fioletowa, a pismo na niej – dziwaczne, kręcone i błyszczące. Oliwka, z przejęciem, otworzyła list.
+
+"Szanowna Oliwko,
+
+Serdecznie zapraszamy Cię do Szkoły Magii 'Sowa'. Twoja moc tkwi w sercu, a magia czeka, by ją odkryć. Pakuj walizki, czeka Cię niesamowita przygoda!
+
+Z serdecznymi pozdrowieniami,
+
+Dyrekcja Szkoły Magii 'Sowa'"
+
+Oliwka aż podskoczyła z radości! Zanim zdążyła poinformować rodziców, przed domem pojawiła się fioletowa sowa, która uprzejmie poczekała, aż Oliwka spakuje najpotrzebniejsze rzeczy: magiczną różdżkę w kształcie marchewki (bo uwielbiała marchewki!), kilka ulubionych czapeczek (żeby dobrze się w nich czuła) i słoik ogórków kiszonych (bo bez ogórków to nie byłaby ona!). Sowa, nazwana przez Oliwkę Profesor Piórkiem, pomogła jej w drodze do magicznej szkoły.
+
+Szkoła Magii 'Sowa' mieściła się w starym, opuszczonym zamku, który wyglądał bardziej na gigantyczny piernikowy domek, ale po zmroku lśnił magicznym blaskiem. W środku czekało na nią mnóstwo niespodzianek: chodzące schody, śpiewające lustra i krasnoludki grające w warcaby.
+
+Pierwszy dzień w szkole był pełen emocji. Oliwka poznała swoich nowych kolegów: Jasia, który potrafił zamieniać wszystko w galaretkę, i Zosię, której specjalnością było wywoływanie deszczu… z cukierków! Profesor Zakręcony, nauczyciel eliksirów, miał zielony nos i zawsze zapominał składników, przez co jego mikstury były… cóż, dość dziwne. Profesor Ćwir, specjalista od zaklęć, mówił rymami i zawsze z radością odwracał się do góry nogami.
+
+Pierwsza lekcja – eliksiry. Profesor Zakręcony z entuzjazmem przedstawił Oliwce zadanie: "Uwarzcie eliksir Płomiennej Szczęki! Potrzebujemy łzy smoka, skrzydełko motyla i… yyy… może odrobinę papryki?" Oliwka, choć trochę przestraszona, odważyła się użyć swojej magii. Postanowiła jednak zmienić nieco przepis. Zamiast łzy smoka, dodała szczyptę pieprzu cayenne (bo była pewna, że wtedy eliksir będzie bardziej „smoczy”), skrzydełko motyla zastąpiła suszonym listkiem bazylii (bo bazylia pięknie pachniała), a paprykę… no cóż, papryka została. Efekt? Eliksir nie wybuchł, tylko zaczął… głośno śpiewać operowym głosem! Profesor Zakręcony był zachwycony!
+
+Następna lekcja – zaklęcia. Profesor Ćwir, zawieszony do góry nogami, z wesołym uśmiechem powiedział: "Zaklęcie pierwsze, by zmienić żabę, potrzebujesz słowa ‘Abracadabra’ i mocną chęć." Oliwka skupiła się i spróbowała zamienić stare krzesło w… olbrzymią babeczkę z kremem! Niestety, krzesło zmieniło się tylko w… małą, zieloną żabę, która zaczęła skakać po całej klasie. Profesor Ćwir poklepał ją po plecach i powiedział: "Bardzo dobrze, droga Oliwko! Najważniejsza jest próba!"
+
+Dzień się kończył. Na kolacji podano magiczny bigos, który zmieniał smak w zależności od nastroju jedzącego. Oliwce smakował jak domowe pierogi z serem, Jasiowi – jak galaretka owocowa, a Zosi – jak płatki śniadaniowe z kolorowymi dodatkami. Po kolacji, zmęczona, ale szczęśliwa, Oliwka wróciła do swojego pokoju. W oknie zobaczyła, że Profesor Piórko krąży na księżycem. „Miłej nocy, Oliwko!” – zaćwierkał.
+
+Kolejne dni w szkole były jeszcze bardziej szalone. Oliwka uczyła się latać na miotłach (często wpadała do komina), rozmawiać ze zwierzętami (szczególnie zaprzyjaźniła się z mówiącym psem o imieniu Czekoladka) i robić magiczne sztuczki (najlepiej wychodziły jej zamienianie liści w motyle). Zaprzyjaźniła się też z bibliotekarzem, Panem Książką, który miał brodę z papieru i okulary z ołówków. Pan Książka uwielbiał opowiadać historie, a Oliwka z uwagą słuchała o przeróżnych stworzeniach i czarach.
+
+Pewnego dnia, podczas lekcji historii magii, profesor dowiedział się o wielkiej przepowiedni. Groziło Królestwu Bajek straszne niebezpieczeństwo! Zły Czarodziej Ropuch, zazdrosny o radość i szczęście mieszkańców, zamierzał ukraść im uśmiechy. Mieszkańcy Królestwa Bajek nie umieli się już śmiać, wszyscy byli smutni, a słońce świeciło ze złością. Tylko… tylko magia czystego serca mogła pokonać Czarodzieja Ropucha. I tylko ktoś o magicznej mocy ukrytej w… słoiku ogórków kiszonych…
+
+Oliwka, słysząc to, aż podskoczyła! Przecież to o niej! Po lekcji, razem z Jasiem i Zosią, udała się do Pana Książki po magiczną radę. Bibliotekarz podarował im starą księgę zaklęć i powiedział: "Pamiętajcie, magia to nie tylko słowa, ale i dobroć, odwaga i przyjaźń."
+
+Nadeszła sobota. Uczniowie, gotowi na zadanie, wyruszyli do Królestwa Bajek. Czekał tam na nich straszny widok: smutne wróżki, zniechęceni krasnoludki i gniewne smoki. Czarodziej Ropuch, zły i otyły, stał na najwyższej wieży i śmiał się z całych sił.
+
+Oliwka, zdeterminowana, podeszła do Czarodzieja. Z całej siły krzyknęła: "Przestań! Oddaj uśmiechy!" Ropuch zarechotał. Wtedy Oliwka przypomniała sobie o ogórkach. Wyjęła słoik, odkręciła go i… wyrzuciła jednego ogórka w kierunku Ropucha! Ogórek, lądując tuż obok niego, zamienił się w… wielką, zieloną żabę (co było efektem nieudanego zaklęcia Oliwki). Żaba, ku zaskoczeniu wszystkich, podskoczyła do Czarodzieja i… połknęła go! Czarodziej zniknął, a uśmiechy wróciły na twarze wszystkich mieszkańców.
+
+Po tych wydarzeniach wszystko wróciło do normy. Królestwo Bajek znów wypełniło się śmiechem, a Oliwka została bohaterką. Otrzymała medal "Za odwagę i dobre serce", a wszyscy mieszkańcy urządzili na jej cześć wielką ucztę. Zadowolona wróciła do Szkoły Magii.
+
+Od tej pory Oliwka, Jasio i Zosia, stali się najlepszymi przyjaciółmi. Wspólnie trenowali magię, wciąż przeżywając niesamowite przygody. Jasio często eksperymentował z galaretkami, Zosia zamawiała coraz bardziej fantastyczne deszcze, a Oliwka wciąż szukała nowych magicznych składników. I, oczywiście, wciąż nosiła ze sobą słoik ogórków kiszonych. Bo nigdy nie wiadomo, kiedy mogą się przydać!
+
+Szkoła Magii "Sowa" kontynuowała swoją działalność, dając dzieciom możliwość rozwijania magicznych talentów. Profesor Zakręcony wciąż tworzył dziwaczne eliksiry (jednak niektóre z nich stawały się coraz bardziej użyteczne). Profesor Ćwir wciąż odwracał się do góry nogami, a Profesor Piórko regularnie odwiedzał Oliwkę, aby razem obserwować księżyc. A Oliwka, każdego dnia, z uśmiechem na twarzy, udowadniała, że magia jest w każdym z nas. I, przede wszystkim, że czasem warto mieć ze sobą ogórki kiszone! Koniec!
+</body>
+```

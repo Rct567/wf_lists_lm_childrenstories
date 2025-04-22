@@ -1,0 +1,52 @@
+<prompt>
+Please write a timeless Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Qorong'u tunning sirlari va sayyora sayohatlari'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>uz</lang_id>
+
+```uz
+<title>Qorong'u tunning sirlari va sayyora sayohatlari</title><body>
+Bir zamonlar, juda-juda uzoqlarda, Ozod ismli kichkina bola yashar edi. Ozodning ko'zlari osmon rangida, sochlari esa quyosh nuridek sarg'ish edi. U juda qiziquvchan va tadqiqotchi bola edi. Qorong'u tunlar boshlanganda, u o'zining derazasidan osmonga termulishni juda yaxshi ko'rardi. Yulduzlarni sanar, ularning sirli nurida o'zini go'yo o'zga sayyoralarda his etardi.
+
+Ozodning bu qiziqishi otasi bilan bo'lgan bir voqea bilan boshlangan edi. Bir kuni otasi unga eski, chalkash so'zlar bilan yozilgan, ammo juda qiziqarli bir kitob olib keldi. Kitobda sayyoralar, yulduzlar va boshqa galaktikalar haqida yozilgan edi. Ozod bu kitobni ikki ko'zi bilan yozib, har bir so'zini tushunishga harakat qildi. Otasi unga kitobni o'qishga yordam berdi, yulduzlarning nomlarini aytib berdi, ularning joylashuvi haqida gapirib berdi. Ular birgalikda teleskop yasashdi va qorong'u tunda osmonga qarashdi.
+
+Bir kuni, kechasi, Ozod juda qattiq uxlayotgan edi. To'satdan u hayratga soluvchi bir tovush eshitdi. Uning derazasi asta-sekin ochildi va ichkariga nur tushdi. U ko'zlarini ochdi va qarasa, derazasida g'alati bir shaxs turardi. Uning kiyimlari yulduzlar bilan bezatilgan, ko'zlari esa qorong'u tunda yorug'lik taratardi.
+
+"Assalomu alaykum, Ozod!" dedi u. "Men Yulduzlar sayyorasidan keldim. Mening ismim Mirzachol."
+
+Ozod hayron bo'lib qoldi. "Assalomu alaykum! Siz… siz kim bo'lasiz?"
+
+"Men osmon sirlarini saqlovchi bir odamman. Sen juda ham qiziquvchan bo'lganing uchun, men seni o'z sayyoramga taklif qilmoqchiman. Agar xohlasang, sen bilan sayohat qilamiz!"
+
+Ozodning yuragi hayajondan to'xtab qolay dedi. U orzu qilgan, istagan narsasi amalga oshmoqchi edi. "Albatta, men siz bilan boraman!" dedi u qattiq ovozda.
+
+Mirzachol unga qo'lini uzatdi va Ozod uning qo'lidan tutdi. Bir zumda ular osmonga ko'tarilishdi. Ozod pastga qarab, o'z uyini, shaharni, butun dunyoni ko'rdi. Dunyo kichkina, gulli qog'ozga o'xshardi.
+
+Bir necha daqiqadan so'ng, ular Yulduzlar sayyorasiga yetib kelishdi. Bu sayyora juda chiroyli edi. Unda rang-barang o'rmonlar, qo'shiq aytuvchi gullar, yaltirab turgan daryolar bor edi. Havosi juda toza va yoqimli edi. Mirzachol uni sayyoraga tanishtirib, har bir joyini ko'rsatdi.
+
+Ular Sayyorada sayr qilishar ekan, Ozod Mirzacholdan juda ko'p narsalarni so'radi. Yulduzlar haqida, qora tuynuklar haqida, boshqa sayyoralardagi hayot haqida. Mirzachol unga hamma narsani tushuntirib berdi. Ular birgalikda yulduzlarni o'rganishdi, ularning tuzilishini ko'rdilar, kosmik kemalarda uchishdi. Ozod o'zining ilmiy bilimlarini yanada chuqurroq o'rgandi.
+
+Bir kuni, Mirzachol Ozodni boshqa sayyoraga – suv sayyorasiga olib bordi. Bu yerda suv hamma joyda edi. Odamlar suv ostida yashar, suvda suzar va suvdan foydalanishardi. Ozod suv sayyarasida baliqlar bilan suzdi, ekzotik dengiz o'simliklarini ko'rdi.
+
+Keyin ular olov sayyorasiga yo'l olishdi. Bu sayyorada hamma joyda olov bor edi. Insonlar olov bilan yashar, olovdan foydalanar va olov bilan o'yinlar o'ynashardi. Bu sayyora juda issiq edi, lekin Ozod bu yerga ham o'rganib ketdi.
+
+Ular kosmik kemada sayohat qilishar ekan, Ozod har bir sayyora haqida juda ko'p ma'lumot oldi. Ular sayyoralarni o'rganishdi, ularning tabiati, hayvonot olami, odamlarining turmush tarzini o'zlashtirdilar.
+
+Ozod bu sayohatdan juda bahramand bo'ldi. U o'zining bilimlarini boyitdi, yangi do'stlar orttirdi va eng muhimi - yangi dunyolarni ochdi.
+
+Vaqt o'tib boraverdi. Bir kuni, Mirzachol Ozodga dedi: "Ozod, sen uyingga qaytishing kerak. Ammo esingda bo'lsin, sening qalbida yulduzlar siri abadiy qoladi. Sen doim osmonga qara, yulduzlarni kuzat, sababi sen ularning do'stisan."
+
+Ozod juda xafa bo'ldi. U Mirzacholni juda yaxshi ko'rib qolgan edi, uning bilan hech qachon xayrlashishni istamasdi. Lekin u tushundi, uyga qaytish kerak. U Mirzachol bilan xayrlashdi, quchdi va unga rahmat aytdi. Mirzachol unga yana qo'lini uzatdi va bir zumda Ozod o'z uyida, o'z to'shagida paydo bo'ldi.
+
+U uyg'ondi. Derazadan quyosh nuri tushardi. U darhol esida qolgan sayohatini esladi. U o'rnidan turdi, derazaga bordi va osmonga qaradi. Yulduzlar hali ham u yerda edilar, ular uni kutayotgandek edilar. U yana teleskopini oldi va osmonga qaradi. U Mirzacholning so'zlarini esladi: "Sen doim osmonga qara, yulduzlarni kuzat, sababi sen ularning do'stisan."
+
+Ozod doim osmonga qaradi, yulduzlarni o'rgandi, yangi bilimlar oldi. Endi u nafaqat kichkina bola edi, u olim bo'ldi. U doim sayohatni esladi, u bilan bo'lgan barcha sirlarni va o'zining do'stlarini esladi. Bu sayohat uning hayotini butunlay o'zgartirdi. U endi qorong'u tundan qo'rqmasdi, aksincha, u qorong'u tunni, yulduzlarni va sayyoralarni yaxshi ko'rardi. U bilardi, osmondagi sirlar abadiy va cheksizdir. Va kelajakda u, albatta, bu sirlarni ochishga erishadi. Chunki u qiziquvchan, izlanuvchan va maqsadga intiluvchan Ozod edi.
+</body>
+```

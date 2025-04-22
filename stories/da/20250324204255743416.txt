@@ -1,0 +1,79 @@
+<prompt>
+Please write a fun and entertaining Danish children's story that is at least 1000 words long.
+It must be completely written in proper Danish (DA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Uglens vise råd til alle børn der har brug for hjælp.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>da</lang_id>
+
+```xml
+<title>Uglens vise råd til alle børn der har brug for hjælp.</title>
+<body>
+Det var en solrig dag i den lille danske landsby, Solby. Fuglene sang, vinden legede i træerne, og børnene hoppede og sprang på legepladsen. Men ikke alle børn var lige glade. Lille Sofie, med sine røde fletninger og fregner på næsen, sad alene på en bænk. Hun så trist ud.
+
+Hendes kat, Findus, var forsvundet. Findus var ikke bare en kat; han var Sofies bedste ven. De lavede alt sammen – byggede huler i haven, læste bøger i solen og delte hemmeligheder i skumringen. Nu var Findus væk, og Sofie følte sig helt alene.
+
+Lidt længere væk sad lille Peter, der var kendt for sine krøllede lokker og sit altid smilende ansigt. Men i dag var hans smil vendt. Han havde tabt en vigtig fodboldkamp. Hans hold havde tabt til de større børn fra nabobyen, og Peter følte sig skuffet og trist. Han var sikker på, at han havde spillet dårligt.
+
+Pludselig lød en dyb, hvislende stemme: "Hvem der ser så bedrøvede ud?"
+
+Både Sofie og Peter kiggede op. I et gammelt egetræ, med vidtstrakte grene, sad en ugle. Hun havde store, gule øjne og fjer i alle nuancer af brun. Det var Oline, byens kloge ugle. Alle børn i Solby kendte Oline og vidste, at hun altid havde et godt råd parat.
+
+"Det er mig," sagde Sofie, hendes stemme var hæs. "Jeg har mistet min kat."
+
+"Og mig," tilføjede Peter med et suk. "Jeg har tabt en fodboldkamp."
+
+Oline nikkede langsomt. "Jeg forstår. Det er skuffende at miste noget, man holder af, og at opleve nederlag. Men husk, mine kære børn, i livets rejse vil der være både medvind og modvind. Det er vigtigt at vide, hvordan man navigerer i begge dele."
+
+Hun pustede let på sine fjer og fortsatte: "Først og fremmest, Sofie, skal du huske, at håb er som en lille flamme i mørket. Glem aldrig at tænde det lys. Du må ikke opgive håbet om at finde Findus. Gå ud og led efter ham. Spørg alle du møder, hæng plakater op. Ring til dyreinternatet. Lad ikke fortvivlelsen overvinde dig."
+
+Sofie tørrede en tåre væk. "Men hvordan ved jeg, hvor jeg skal lede?"
+
+Oline lukkede øjnene et øjeblik, som om hun tænkte dybt. "Tænk som en kat. Hvor ville Findus være, hvis han blev væk? Hvor gik I hen sammen? Kig i haver, under buske, ved garager. Og vigtigst af alt, kald hans navn. Sig det højt, med håb i din stemme. Katte har en fantastisk hørelse."
+
+Derefter vendte Oline sig mod Peter. "Peter, nederlag er aldrig sjove, men de er livets lektier. I tabte kampen, men betyder det, at du ikke har lært noget? Det betyder måske, at du skal træne mere, øve dine færdigheder og lære af dine fejl."
+
+Peter så ned på sine sko. "Jeg føler bare, at jeg svigtede mit hold."
+
+Oline sagde venligt: "Enhver fodboldspiller svigter engang imellem, det er en del af spillet. Men en sand vinder er den, der rejser sig igen, lærer af nederlaget og bliver stærkere. Tænk på, hvad du kan gøre bedre næste gang. Snak med dine venner om kampen. Undersøg, hvad der gik galt, og brug det som et springbræt til at forbedre dig."
+
+"Men det er så svært," sagde Peter.
+
+"Sandt, det kan være hårdt," svarede Oline. "Men husk på, at du ikke er alene. Tal med dine forældre, dine trænere, dine venner. Støtte fra andre kan gøre en stor forskel. Og husk, Peter, at fodbold handler ikke kun om at vinde. Det handler om at have det sjovt, at være en del af et hold, og at vokse som person."
+
+Oline blinkede med sine store øjne. "Derudover er der nogle vigtige råd, der gælder for alle børn, som står overfor en udfordring. Først og fremmest: Vær modig. Turd at tage det første skridt, uanset hvor svært det virker. Frygt er som en stor skygge, der kan formørke alt. Vær ikke bange for at fejle. Fejl er en del af læringsprocessen. Fra dem kan du lære mere, end fra sejre."
+
+Hun tog en dyb indånding og fortsatte: "For det andet: Vær venlig. Vær venlig mod dig selv, og vær venlig mod andre. En venlig gestus kan lysne nogens dag, og det kan også hjælpe dig med at føle dig bedre tilpas. Og husk, at hjælpe andre kan gøre dig lykkeligere."
+
+Oline skiftede position på grenen og tilføjede: "For det tredje: Vær tålmodig. Ting tager tid. Hverken Findus kommer tilbage lige med det samme, og I bliver heller ikke fodboldmestre fra den ene dag til den anden. Tingene sker ikke altid lige med det samme, men det betyder ikke, at det ikke kommer til at ske. Tro på processen."
+
+"For det fjerde: Vær nysgerrig. Stil spørgsmål. Søg efter svar. Verden er fuld af spændende ting, der venter på at blive opdaget. Lad ikke tvivlen bremse dig fra at udforske dine interesser. Undersøg verden omkring dig, læs bøger, spørg dem, du kender. Lær alt det, du kan."
+
+"Og for det femte: Husk at lege. Leg er vigtig for glæden. Husk at grine. Brug tiden på at gøre de ting, som du kan lide. Findus og Peter er jo stadig glade, selvom tingene ser svære ud. Leg er balsam for sjælen, der hjælper dig med at finde styrke og tænke mere positivt."
+
+Oline strakte sine vinger ud, som om hun ville vise et sidste punkt. "Og endelig, vær taknemmelig. Vær taknemmelig for alt det gode i dit liv, de mennesker, der holder af dig, de oplevelser, du har. Taknemmelighed kan hjælpe dig med at fokusere på det positive, selv i de svære tider."
+
+Både Sofie og Peter lyttede opmærksomt til uglens ord. De følte sig straks mere modige og håbefulde.
+
+Sofie rejste sig op og sagde: "Jeg vil lede efter Findus nu. Jeg vil spørge alle, og jeg vil aldrig give op!"
+
+Peter rettede sin ryg og sagde: "Jeg vil træne hårdere, og jeg vil være en bedre holdspiller. Jeg vil lære af mine fejl!"
+
+Oline smilede varmt. "Fantastisk! Husk mine ord, mine kære børn. Og husk: I er stærkere, end I tror. Gå nu ud og vis verden, hvad I kan."
+
+Sofie og Peter takkede Oline og skyndte sig væk. Sofie løb hjem for at lave plakater med et billede af Findus og kontaktinformation, og Peter løb til fodboldbanen for at øve sig på sine skud og sin boldkontrol.
+
+Uglens vise råd bredte sig som en løbeild i Solby. Børnene fortalte hinanden om Olines ord, og mange begyndte at tænke over, hvordan de kunne bruge rådene i deres eget liv. Flere børn begyndte at melde sig frivilligt til at hjælpe Sofie med at lede efter Findus. Der var fællesskab, en enorm hjælpende ånd og positivitet i Solby.
+
+Et par dage senere, mens Sofie var ude at hænge plakater, hørte hun et svagt mjau. Hun fulgte lyden, og bag en stor container ved bagerbutikken så hun... Findus! Han var snavset og lidt forskræmt, men heldigvis uskadet. Sofie løb hen til ham, krammede ham tæt og græd af glæde. Senere samme dag fandt Peter ud af, at han faktisk havde gjort en stor forskel i kampen, men ingen af dem havde bemærket det på dagen. Hans træning var også blevet bedre.
+
+Senere den dag samledes børnene fra Solby på legepladsen for at fejre Findus’ hjemkomst. De spillede fodbold, klatrede i træerne, og lo. Sofie og Peter følte sig glade og taknemmelige. De havde lært en vigtig lektie: Med mod, venlighed, tålmodighed, nysgerrighed, leg og taknemmelighed kan man overvinde alle udfordringer.
+
+Oline sad på sin gren og smilede. Hun vidste, at Solby ville være et endnu bedre sted at bo, fordi børnene havde lært at huske hendes råd. Hun vidste også, at hun ville være klar til at hjælpe, hvis nogen skulle have brug for hende igen. For sådan er det at være en vis ugle, der elsker børnene i Solby og er klar til at hjælpe, når som helst, der er brug for det. Og fra den dag blev Olines vise råd husket af alle i Solby, og de brugte dem flittigt, lige fra Findus’ eventyr og fodboldkampe, til alle de andre udfordringer, der mødte dem i deres liv. Og verden blev bare en lille smule bedre hver dag.
+</body>
+```

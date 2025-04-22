@@ -1,0 +1,48 @@
+<prompt>
+Please write a silly Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'An Rún agus an Ghrá: Ag Tnúth le Féachaint arís.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>ga</lang_id>
+
+<title>An Rún agus an Ghrá: Ag Tnúth le Féachaint arís.</title>
+<body>
+Bhí lá álainn i ndeisceart na hÉireann, agus an ghrian ag scoilteadh na gcloch. Bhí páiste beag darbh ainm Áine, a raibh grá mór aici don nádúr agus don saol. Bhí sí ag siúl trí pháirc na háite, ag breathnú ar na bláthanna agus ag éisteacht leis an gcuid ceolmhar a bhí ag na héin.
+
+Agus í ag siúl, chonaic Áine rúnachán beag ag teacht ina treo. Bhí an rúnachán ag caitheamh cóta déanach agus hata beag, agus bhí sé ag iompar mála beag. Chuir Áine ceist air, "Táim ag tnúth le féachaint ort, a rúnacháin. Cén chaoi a bhfuil tú?"
+
+Dúirt an rúnachán, "Táim ag dul ar thuras, a Áine. Táim ag dul go dtí an chathair mhór chun cuairt a thabhairt ar an rí. Táim ag iompar bronntanas beag dó, agus táim ag tnúth le bualadh leis."
+
+Bhí Áine ag déanamh comhghairdis leis an rúnachán, agus d'fhiafraigh sí, "Cén bronntanas atá tú ag iompar don rí?" Dúirt an rúnachán, "Táim ag iompar píosa beag de chuid d'fhíon úr ón gcuid is fearr den tír. Táim ag tnúth le go mbeadh an rí sásta leis."
+
+Chuir Áine ceist eile air, "Conas a bhfuil tú ag dul go dtí an chathair mhór?" Dúirt an rúnachán, "Táim ag dul ar an mbóthar mór, agus táim ag tnúth le go mbeadh an turas seo caol agus sábhá. Táim ag iompar mála beag le haghaidh mo chuid bia agus deoch."
+
+Bhí Áine ag déanamh comhghairdis leis an rúnachán, agus d'fhiafraigh sí, "An bhfuil tú ag dul i ngleic le haon bhac nó deacracht ar an turas?" Dúirt an rúnachán, "Táim ag tnúth le go mbeadh an turas seo réidh agus sábhá, ach táim ag déanamh comhghairdis leis an gcuid is fearr den tír. Táim ag tnúth le go mbeadh an rí sásta liom."
+
+Agus Áine ag caint leis an rúnachán, chonaic sí fear beag ag teacht ina treo. Bhí an fear beag ag caitheamh cóta déanach agus hata beag, agus bhí sé ag iompar mála beag. Chuir Áine ceist air, "Táim ag tnúth le féachaint ort, a fhir. Cén chaoi a bhfuil tú?"
+
+Dúirt an fear beag, "Táim ag dul ar thuras, a Áine. Táim ag dul go dtí an chathair mhór chun cuairt a thabhairt ar an rí. Táim ag iompar bronntanas beag dó, agus táim ag tnúth le bualadh leis." Bhí Áine ag déanamh comhghairdis leis an bhfear beag, agus d'fhiafraigh sí, "Cén bronntanas atá tú ag iompar don rí?"
+
+Dúirt an fear beag, "Táim ag iompar píosa beag de chuid d'fhíon úr ón gcuid is fearr den tír. Táim ag tnúth le go mbeadh an rí sásta leis." Chuir Áine ceist eile air, "Conas a bhfuil tú ag dul go dtí an chathair mhór?" Dúirt an fear beag, "Táim ag dul ar an mbóthar mór, agus táim ag tnúth le go mbeadh an turas seo caol agus sábhá. Táim ag iompar mála beag le haghaidh mo chuid bia agus deoch."
+
+Bhí Áine ag déanamh comhghairdis leis an bhfear beag, agus d'fhiafraigh sí, "An bhfuil tú ag dul i ngleic le haon bhac nó deacracht ar an turas?" Dúirt an fear beag, "Táim ag tnúth le go mbeadh an turas seo réidh agus sábhá, ach táim ag déanamh comhghairdis leis an gcuid is fearr den tír. Táim ag tnúth le go mbeadh an rí sásta liom."
+
+Agus Áine ag caint leis an bhfear beag, chonaic sí bean beag ag teacht ina treo. Bhí an bhean beag ag caitheamh cóta déanach agus hata beag, agus bhí sí ag iompar mála beag. Chuir Áine ceist uirthi, "Táim ag tnúth le féachaint ort, a bhean. Cén chaoi a bhfuil tú?"
+
+Dúirt an bhean beag, "Táim ag dul ar thuras, a Áine. Táim ag dul go dtí an chathair mhór chun cuairt a thabhairt ar an rí. Táim ag iompar bronntanas beag dó, agus táim ag tnúth le bualadh leis." Bhí Áine ag déanamh comhghairdis leis an mbean beag, agus d'fhiafraigh sí, "Cén bronntanas atá tú ag iompar don rí?"
+
+Dúirt an bhean beag, "Táim ag iompar píosa beag de chuid d'fhíon úr ón gcuid is fearr den tír. Táim ag tnúth le go mbeadh an rí sásta leis." Chuir Áine ceist eile uirthi, "Conas a bhfuil tú ag dul go dtí an chathair mhór?" Dúirt an bhean beag, "Táim ag dul ar an mbóthar mór, agus táim ag tnúth le go mbeadh an turas seo caol agus sábhá. Táim ag iompar mála beag le haghaidh mo chuid bia agus deoch."
+
+Bhí Áine ag déanamh comhghairdis leis an mbean beag, agus d'fhiafraigh sí, "An bhfuil tú ag dul i ngleic le haon bhac nó deacracht ar an turas?" Dúirt an bhean beag, "Táim ag tnúth le go mbeadh an turas seo réidh agus sábhá, ach táim ag déanamh comhghairdis leis an gcuid is fearr den tír. Táim ag tnúth le go mbeadh an rí sásta liom."
+
+Agus Áine ag caint leis an mbean beag, chonaic sí páiste beag ag teacht ina treo. Bhí an páiste beag ag caitheamh cóta déanach agus hata beag, agus bhí sé ag iompar mála beag. Chuir Áine ceist air, "Táim ag tnúth le féachaint ort, a pháiste. Cén chaoi a bhfuil tú?"
+
+Dúirt an páiste beag, "Táim ag dul ar thuras, a Áine. Táim ag dul go dtí an chathair mhór chun cuairt a thabhairt ar an rí. Táim ag iompar bronntanas beag dó, agus táim ag tnúth le bualadh leis." Bhí Áine ag déanamh comhghairdis leis an bpáiste beag, agus d'fhiafraigh sí, "Cén bronntanas atá tú ag iompar don rí?"
+
+Dúirt an páiste beag, "Táim ag iompar pí

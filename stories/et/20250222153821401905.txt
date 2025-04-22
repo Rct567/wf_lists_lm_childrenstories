@@ -1,0 +1,32 @@
+<prompt>
+Please write a creative and original Estonian children's story that is at least 1000 words long.
+It must be completely written in proper Estonian (ET).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Salajased saiakujud ja nende salakaval'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>et</lang_id>
+
+<title>Salajased saiakujud ja nende salakaval</title>
+<body>
+Järve ääres, vanas kuusemetsas, seisis väike küla nimega Saareküla. Küla oli tuntud oma maitsvate saiakujude poolest, mis olid nii ilusad kui maitsevõimsad. Need ei olnud tavalised saiakesed, vaid salajased saiakujud, kellel oli igaühel oma isikupära ja saladus.
+
+Kõige uhkem saiakujust oli Kivisahver, tugevate ja ilusate ribadega. Ta oli alati esirinnas küla pidustustel, oma imelisteks koorekääridega ja karamellpruuniks küpsetatud vormiga.  Kivisahver oli uhke oma tugevate külgvõrede üle, mis pidid taluma suurimagi tuuleiire.  Aga Kivisahverile kuulus veel üks saladus, mis oli peidetud tema kuldse krõmpsuse alt: ta oli imeliste aroomide magusa teadja, ja saiakeste kütmistesse segas ta salaja oma magusat vürtsitsemiseni.
+
+Teine saiakujust oli Piparkook, väike ja ümar, punase ja pruuni värviga, nagu peenike piparkoogiküpsis. Ta oli tuntud oma sooja ja pehme tekstuuri poolest, mis sulas suus nagu suviõhtu magus jahedus.  Piparkook armastas küla lastega mängida ja neile linde näidata, sest ta teadis iga linnu laulu ja lennutee. Kõige salajasem aga oli see, et Piparkook oli maagiline saiakujust, kes võis igaveseks magusaks muutuda, kui talle soovitud sõna öeldi.
+
+Ning siis oli veel Rõõmus Rõigas, suur ja ilus saiakujust, punase ja kollasena kaunistatud. Ta kandis endas suurt rõõmu ja positiivsust. Rõõmus Rõigas nautis oma kuuma küpsetusprotsessi, ja temas sees oli suur võime jagada rõõmu kõigile ümber.  Ta oli parim külaline,  kes teadis igaühe sisemist rõõmu ja pakkus igaühele sobivaid sõnu ja head meelt.
+
+Aga ühel päeval jõudis külasse salakaval: külm ja ebameeldiv talvine tuul hakkas raputama küla ja saiakujusid.  Kõik saiakujud kargasid kokku, et üheskoos vastu pidada.  Kivisahver tugevdas oma koorekääridega küla katuste kinnitamist.  Piparkook aga kiirustas küla laste juurde, et neile süüa ja soojust pakkuda, ja Rõõmus Rõigas üritas küla katta oma sooja ja rõõmsate positiivsete tunnete vartega.
+
+Kuid salakaval oli tugev.  Ta tõi endaga kaasa ebasoovitava külma ja hävingu,  ja saiakujud tundsid, et nende salakaval hakkab neid purustama.  Nad said aru, et ainult ühise tööga ja salakavala mõistmisega saavad nad oma kodupinnale tagasi.  
+
+Kivisahver leidis oma vastupidavusest jõudu, ja tema koorekääridega tugevdus küla. Piparkook katsus iga lapse kätt ja jagas sooja sõna, ja Rõõmus Rõigas näitas oma rõõmu kõigile, kes seda vajasid.  Nende salakavala eesmärk oli pahatahtliku varjamine, aga saiakujud teadsid, et nende ühisvõime ületas salakavala.
+
+Lõpuks, päikeseloojangu ajal, kui külm hakkas taanduma, saiakujud tegi üheks suureks ühistegevuseks.  Nad sulasid kokku nii tugevateks ja terveteks kui enne, ja nende salakaval lagunes.  Saareküla saiakujud ja nende salakaval on muutunud legendiks, mis räägib ühisest pingutusest, rõõmust ja armastusest.  Saareküla saiaksest sai seega kindel ja koduselt soe.
+Nüüd saate aru, et magusad saavad tugevateks ja õiglaseks, kui nad ühiselt seisavad oma kodupaigaga.
+</body>

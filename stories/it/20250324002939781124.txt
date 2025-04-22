@@ -1,0 +1,57 @@
+<prompt>
+Please write a light-hearted Italian children's story that is at least 1000 words long.
+It must be completely written in proper Italian (IT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La Storia della Rana che Imparò a Volare'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>it</lang_id>
+
+```xml
+<title>La Storia della Rana che Imparò a Volare</title>
+<body>
+C'era una volta, in un piccolo stagno nascosto tra i monti Appennini, una rana di nome Roberto. Roberto non era una rana come tutte le altre. Certo, amava saltare, mangiare mosche e gracidare sotto la luna piena, ma aveva un sogno... un sogno grande, enorme: voleva volare!
+
+Tutte le altre rane dello stagno, le sorelle Ada, Emilia, e Bruno, si facevano grasse risate ogni volta che Roberto esprimeva il suo desiderio. "Volare, Roberto? Ma sei matto! Le rane non volano!" gridavano, scuotendo i loro pancini verde smeraldo.
+
+Roberto, però, non si scoraggiava. Ogni giorno, guardava gli uccelli che solcavano il cielo azzurro sopra lo stagno. Le rondini, con le loro ali sottili e veloci, le tortore, con il loro volo elegante e tranquillo, persino i gabbiani, che a volte si perdevano sopra i monti, richiamati forse dal profumo del mare lontano. Roberto le ammirava tutte, e si chiedeva come fosse possibile.
+
+Un giorno, mentre si crogiolava su una foglia di ninfea, Roberto ebbe un'idea. "Forse, se imparo a saltare più in alto, riesco a restare in aria più a lungo!" esclamò, entusiasta. Le altre rane scoppiarono a ridere ancora più forte, ma Roberto non se ne curò. Iniziò ad allenarsi.
+
+Saltava e risaltava. Saltava dalle foglie di ninfea a quelle più lontane, provando a rimanere in aria il più a lungo possibile. All'inizio, cadeva sempre a capofitto nell'acqua, suscitando le risate delle sue sorelle. Ma Roberto era testardo. Ripeteva l'esercizio all'infinito, giorno dopo giorno.
+
+Un giorno, mentre saltava con tutte le sue forze verso una foglia di ninfea particolarmente distante, sentì una strana sensazione. Un soffio leggero sotto le sue zampette. Riuscì a restare in aria per un istante più lungo, abbastanza per guardare la foglia dall'alto, per un breve, glorioso momento.
+
+"Ho quasi... ho quasi volato!" esclamò, strillando di gioia. Le altre rane, sorprese, smisero di ridere. Bruno, il fratello più robusto, si avvicinò per guardarlo meglio. "Be', Roberto, forse non proprio volare, ma... hai saltato più in alto del solito!" disse, con un tono di voce più cauto.
+
+Roberto non si diede per vinto. Continuò ad allenarsi con più impegno di prima. Iniziò a studiare il volo degli uccelli. Osservava come muovevano le ali, come si muovevano nell'aria. Cercava di imitarli, saltando e facendo piccoli movimenti con le braccia.
+
+Le sue sorelle, vedendo la sua determinazione, iniziarono a sostenerlo. Ada suggerì di fare esercizi di stretching per allungare i muscoli delle zampe. Emilia preparò delle mosche più grandi, così Roberto avrebbe avuto più energia. Bruno, con la sua forza, lo aiutava a saltare, spingendolo con le sue robuste zampe.
+
+Passarono le settimane, e la situazione nello stagno cambiò. Roberto non era più visto come un pazzo sognatore, ma come un'ispirazione. Le altre rane, guardando i suoi progressi, cominciarono a credere che, forse, anche loro potevano fare qualcosa di straordinario.
+
+Un giorno, durante uno dei suoi allenamenti, Roberto saltò con una forza incredibile. Il suo corpo si sollevò nell'aria, più in alto di quanto avesse mai fatto prima. Per un attimo, restò sospeso, senza cadere. Poi, per un miracolo, si ritrovò a planare per un breve tratto.
+
+"Ce l'ho fatta!" urlò Roberto, esultando. "Sono quasi... sto volando!"
+
+La notizia del "volo" di Roberto si sparse velocemente nello stagno. Tutte le rane si riunirono sulla riva per assistere al suo prossimo tentativo. Roberto, con il cuore in gola, si preparò per il salto.
+
+Prese un bel respiro, si concentrò, e saltò. Questa volta, la magia avvenne. Il vento si infilò sotto il suo corpo, e lo portò in alto. Roberto, stupito, non riusciva a credere ai suoi occhi. Volava!
+
+Le altre rane urlarono di gioia. Saltarono, gracidarono, applaudirono. Ada, Emilia e Bruno erano così orgogliosi del loro amico.
+
+Roberto planava sopra lo stagno, sentendo la libertà del vento tra le zampette. Guardò dall'alto le sue sorelle, lo stagno, le ninfee, le libellule che danzavano nell'aria. Era un momento indimenticabile.
+
+Non era un volo perfetto, certo. Non volava come le rondini o i gabbiani. Saltava, planava, e poi... tornava a terra. Ma per lui, era sufficiente. Aveva dimostrato a tutti, e soprattutto a se stesso, che i sogni possono diventare realtà, basta crederci e impegnarsi.
+
+Da quel giorno, Roberto diventò una leggenda nello stagno. I bambini-rana lo guardavano con ammirazione e volevano imparare a volare come lui. Roberto, con pazienza, insegnava loro a saltare, a sognare, a non arrendersi mai.
+
+E anche se le rane non volarono mai come gli uccelli, Roberto aveva insegnato loro una lezione importante: che la cosa più importante non è tanto raggiungere il cielo, ma avere il coraggio di provarci. E, chissà, forse, un giorno, anche loro avrebbero scoperto la magia del volo.
+
+La storia di Roberto, la rana che imparò a volare, fu raccontata di generazione in generazione, per ricordare a tutti i piccoli abitanti dello stagno che i sogni, per quanto impossibili possano sembrare, sono sempre possibili. Basta avere fede, lavorare sodo e non arrendersi mai. E, soprattutto, avere degli amici che ti sostengono, come Ada, Emilia e Bruno.
+</body>
+```

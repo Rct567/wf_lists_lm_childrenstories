@@ -1,0 +1,61 @@
+<prompt>
+Please write a uncomplicated Italian children's story that is at least 1000 words long.
+It must be completely written in proper Italian (IT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Il guardiano del faro e le luci che guidano le navi nella tempesta.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>it</lang_id>
+
+```html
+<title>Il guardiano del faro e le luci che guidano le navi nella tempesta.</title>
+<body>
+C'era una volta, in un piccolo paese di pescatori chiamato Porto Azzurro, un faro altissimo e bianco come la neve. Questo faro, chiamato "Faro Stella Marina", era l'orgoglio del villaggio e la guida per tutte le navi che si avvicinavano alla costa. Il guardiano del faro, un uomo gentile e con una lunga barba bianca come le onde, si chiamava Nonno Antonio.
+
+Nonno Antonio aveva una vita semplice ma piena di significato. Ogni sera, al tramonto, saliva i lunghi scalini a chiocciola del faro, centosettantatré gradini che lo portavano fino alla lanterna. Lì, con cura e precisione, accendeva le lampade, quelle speciali luci potenti che avrebbero brillato nella notte, avvisando le navi del pericolo e indicando loro la via sicura verso il porto.
+
+Il suo lavoro era importante, soprattutto quando c'era la tempesta. Il mare si infuriava, le onde si alzavano minacciose, e le navi, piccole come giocattoli, si trovavano in balia degli elementi. In quei momenti, la luce del Faro Stella Marina era l'unica speranza, un faro di luce nella notte più oscura.
+
+Un giorno, mentre il sole calava sul mare, dipingendolo di arancione e rosa, Nonno Antonio salì gli scalini del faro come al solito. Sentiva nell'aria un sentore di tempesta, un vento leggero che prometteva guai. Arrivato in cima, mentre accendeva le lampade, notò che il cielo si era fatto scuro, coperto di nuvole grigie e pesanti.
+
+"Sarà una brutta notte, stasera," mormorò, sistemando la lente gigante che amplificava la luce delle lampade. Sapeva che in quelle notti le navi avevano più bisogno della sua luce.
+
+Improvvisamente, il vento si scatenò. Urlò, ululò, sferzando contro le vetrate del faro. La pioggia cominciò a cadere, fitta e gelida. Il mare, come un mostro infuriato, si gonfiò e si scontrò contro la costa, ruggendo. Nonno Antonio, con la sua calma e la sua esperienza, osservava la tempesta attraverso il vetro, rassicurato dalla solida costruzione del suo amato faro.
+
+“Ora, luci, dovete fare il vostro dovere!” sussurrò alle lampade. E le luci, fedeli e brillanti, iniziarono a illuminare la tempesta, inviando i loro raggi attraverso le onde impetuose.
+
+In basso, a Porto Azzurro, nel piccolo porto, la gente guardava con apprensione. I pescatori erano tornati a terra e le loro barche erano ancorate saldamente, ma tutti pensavano alle navi in mare aperto. Tutti sapevano che l'unico aiuto per quelle navi era la luce del Faro Stella Marina.
+
+Tra le onde, una piccola nave mercante, la “Stella del Mare”, lottava disperatamente. Il capitano, un uomo coraggioso di nome Marco, scrutava l'oscurità, cercando una guida. Il vento era terribile, la pioggia fitta, e la nave si muoveva su e giù come un giocattolo.
+
+“Dobbiamo trovare il faro!” gridò al suo equipaggio. “Dobbiamo raggiungere Porto Azzurro!”
+
+Improvvisamente, in mezzo al buio, una luce brillante apparve. Era la luce del Faro Stella Marina! Il capitano Marco sorrise. Quella luce era la salvezza, la promessa di sicurezza.
+
+“Avanti tutti!” gridò. “Seguite la luce!”
+
+E la nave, guidata dalla luce del faro, lentamente, ma costantemente, si diresse verso il porto. Le onde la spingevano, il vento la frustava, ma la luce del faro era la sua guida.
+
+Nonno Antonio, dall'alto del faro, osservava la “Stella del Mare” lottare contro la tempesta. Vedeva la luce della sua lampada guidare la nave. Sentiva una grande soddisfazione nel cuore. Sapeva che il suo lavoro era importante, che le sue luci stavano salvando vite.
+
+La notte passò, terribile e infinita. La tempesta continuò a infuriare per ore. Ma alla fine, come sempre, il sole cominciò a sorgere, spuntando tra le nuvole. Il vento si placò, la pioggia smise, e il mare si calmò.
+
+La “Stella del Mare” entrò nel porto di Porto Azzurro, sana e salva. I marinai scesero dalla nave, stanchi ma felici. Ringraziarono il cielo per essere sopravvissuti alla tempesta.
+
+Quel giorno, il capitano Marco e il suo equipaggio salirono sul Faro Stella Marina per ringraziare Nonno Antonio.
+
+“Grazie, Nonno Antonio!” disse il capitano Marco. “Senza la tua luce, non saremmo sopravvissuti. Hai salvato le nostre vite!”
+
+Nonno Antonio sorrise. “Sono felice di aver fatto il mio dovere,” rispose. “Il mio compito è guidare le navi, e le mie luci lo fanno.”
+
+Da quel giorno, il Faro Stella Marina fu celebrato ancora di più. I bambini di Porto Azzurro amavano Nonno Antonio e salivano spesso sul faro per sentirsi raccontare le storie di mare. Sapevano che Nonno Antonio era un eroe, il guardiano del faro, colui che con le sue luci brillanti, proteggeva le navi nella tempesta.
+
+E Nonno Antonio, ogni sera, continuò a salire i centosettantatré scalini, accendendo le sue luci, illuminando il cammino per le navi in difficoltà. Sapeva che il suo lavoro era più di un semplice compito; era una missione, un impegno per la sicurezza e per la speranza, un faro di luce nella notte, un simbolo di sicurezza per tutti i marinai del mondo.
+
+E ogni volta che la tempesta infuriava, le luci del Faro Stella Marina brillavano più forti che mai, perché Nonno Antonio sapeva che le sue luci guidavano le navi, le proteggevano, le portavano a casa.
+</body>
+```

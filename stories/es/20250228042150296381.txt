@@ -1,0 +1,54 @@
+<prompt>
+Please write a simple and easy-to-follow Spanish children's story that is at least 1000 words long.
+It must be completely written in proper Spanish (ES).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'El actor que representaba diferentes personajes y hacía reír al público presente.'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>es</lang_id>
+
+```xml
+<title>El actor que representaba diferentes personajes y hacía reír al público presente.</title><body>
+Érase una vez, en un pequeño pueblo llamado Risópolis, un actor muy especial llamado Don Silvestre. Don Silvestre no era un actor cualquiera; él era un maestro del disfraz y de la imitación. Podía convertirse en un rey majestuoso, un ratón diminuto, una bruja malvada o un cocodrilo gruñón, todo en cuestión de minutos. Y no solo eso, ¡hacía reír a carcajadas a todo el público presente!
+
+Risópolis era famoso por sus festivales anuales, y el evento más esperado era siempre la actuación de Don Silvestre. La plaza del pueblo se llenaba de gente, familias enteras, niños correteando y ancianos riendo. Todos esperaban ansiosamente ver qué personaje interpretaría ese año Don Silvestre y, sobre todo, cuántas veces los haría reír.
+
+Un día, mientras Don Silvestre preparaba su gran actuación anual, recibió una carta misteriosa. La carta estaba decorada con purpurina dorada y tenía un sello de un gato sonriente. Dentro, la letra elegante decía: "Querido Don Silvestre, este año, el Gran Mago Zafiro ha lanzado un hechizo. Ya no se permite la risa en Risópolis. Si la gente sonríe, se convertirá en un vegetal. Demuestra tu poder. ¡Deshace el hechizo o Risópolis se convertirá en un huerto!".
+
+Don Silvestre se quedó de piedra. ¡Convertir a la gente en vegetales! Eso era terrible. No podía permitirlo. Pero, ¿cómo deshacer un hechizo tan poderoso? Tenía que ser creativo. Tenía que ser… Don Silvestre.
+
+La noticia del hechizo se extendió rápidamente por Risópolis. La gente estaba asustada. Las sonrisas desaparecieron de sus rostros. Los niños jugaban en silencio, y los ancianos caminaban con una tristeza visible. La plaza, antes llena de vida y risas, ahora estaba silenciosa y sombría.
+
+Don Silvestre, a pesar de su preocupación, decidió que debía actuar. Tenía que seguir con el festival, aunque fuera diferente. Con la ayuda de su fiel ayudante, un pequeño mono llamado Coco, comenzó la preparación.
+
+El día del festival llegó. La plaza estaba atestada, pero la atmósfera era tensa. La gente miraba a Don Silvestre con expectación, pero también con miedo. ¿Podría él realmente hacer algo?
+
+Don Silvestre subió al escenario, con una gran sonrisa en su rostro, una sonrisa que intentaba transmitir valentía y esperanza. Coco, vestido con una pequeña chaqueta y un sombrero de copa, se sentó a su lado.
+
+"Buenas tardes, amigos de Risópolis", dijo Don Silvestre con una voz llena de entusiasmo. "Hoy, a pesar de los desafíos, vamos a celebrar la alegría, la imaginación y, sobre todo, la amistad. Y, ¿sabéis qué? ¡Yo tengo preparada una sorpresa!"
+
+Comenzó su actuación imitando a un anciano con una barba blanca y una voz temblorosa. Contó chistes sobre cómo olvida dónde deja sus gafas y sobre cómo la sopa siempre está demasiado caliente. Al principio, el público se mantuvo serio. La amenaza del hechizo era demasiado fuerte. Pero el espectáculo de Don Silvestre era tan bueno, tan lleno de detalles y gracia, que una pequeña sonrisa comenzó a asomarse en los labios de un niño.
+
+Don Silvestre continuó. Cambió rápidamente de personaje, convirtiéndose en un perro juguetón que perseguía su propia cola. Hizo ruidos graciosos y movimientos exagerados. Otro niño, entonces una niña, soltaron una risita ahogada. La tensión en la plaza comenzó a disminuir.
+
+El siguiente personaje fue una cocinera torpe que intentaba preparar un pastel, pero terminaba volcando harina por todas partes y haciendo un desastre en la cocina. El público, al verla tropezar y caer, pero siempre con una gran sonrisa, reaccionó con sorpresa. Después de mucho esfuerzo por contenerse, una mujer mayor soltó una carcajada. Luego otra. Y otra.
+
+Don Silvestre sintió que el hechizo comenzaba a romperse. Estaba funcionando. La gente, olvidándose del peligro por un instante, se estaba dejando llevar por la alegría y la risa.
+
+El clímax de la actuación llegó cuando Don Silvestre se transformó en el Gran Mago Zafiro. El actor se puso una larga túnica morada y un sombrero puntiagudo. Con una voz profunda y misteriosa, comenzó a hablar del hechizo, pero, en lugar de asustar, lo convirtió en algo ridículo. Describió cómo los vegetales no eran tan malos. Incluso cantó una canción sobre las ventajas de ser una zanahoria: "Soy una zanahoria, naranja y crujiente, llena de vitaminas, súper resistente. ¡No me pueden comer los bichos, soy la más valiente!".
+
+La gente, al escuchar la canción absurda y al ver a Don Silvestre imitar los movimientos de una zanahoria bailarina, comenzó a reír a carcajadas. Incluso el pequeño Coco no pudo evitar reír, contagiando su alegría al público. El sonido de las risas llenó la plaza, rompiendo el hechizo del Gran Mago Zafiro.
+
+Una luz brillante envolvió la plaza. Los rostros tristes se transformaron en rostros felices. ¡El hechizo se había roto! La gente se abrazaba, bailaba y reía sin parar. Risópolis, de nuevo, era un lugar lleno de alegría.
+
+El Gran Mago Zafiro, que realmente nunca existió, sino que era una creación de la imaginación de Don Silvestre para ayudar a romper el hechizo, desapareció. Las risas se multiplicaron.
+
+Después del espectáculo, Don Silvestre y Coco volvieron a su casa, cansados pero felices. La gente de Risópolis, agradecida, les enviaba flores y regalos por su valentía y su ingenio.
+
+Don Silvestre, sentado en su silla favorita, con Coco durmiendo en su regazo, sonrió. Sabía que, con su talento y su capacidad para hacer reír, podría superar cualquier desafío. Y así, Don Silvestre, el actor que representaba diferentes personajes y hacía reír al público presente, se convirtió en el héroe de Risópolis, recordado por siempre como el hombre que salvó la risa en el pueblo, todo gracias a su creatividad y a su capacidad de usar el humor incluso en los momentos más difíciles. Y vivieron felices para siempre, compartiendo risas y celebrando la alegría de la vida.
+</body>
+```

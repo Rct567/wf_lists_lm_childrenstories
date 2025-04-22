@@ -1,0 +1,55 @@
+<prompt>
+Please write a original dialog-based Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Mažojo Ežero ir jo Užtukiai'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lt</lang_id>
+
+<title>Mažojo Ežero ir jo Užtukiai</title>
+<body>
+Aušros šviesa švelniai glostė mažąjį ežerą, kurio pavadinimas buvo Ramūtis.  Jis nebuvo didelis, tik tiek, kad tilptų jame plaukioti mažas medinis laivelis.  Ramūtis gyveno miško apsuptyje, po senomis pušimis, kurių spygliai kvepėjo medumi ir paslaptimis.
+
+"Labas rytas, Ramūti!" – pasigirdo linksmas balsas.  Iš už medžių išlindo Mažasis Šarkutė, mažas, juodas paukštelis su blizgančiomis akimis.
+
+"Labas rytas, Šarkute", atsakė Ramūtis, tyliai ošdamas savo vandenyse.  Jis buvo labai draugiškas ežeras, mėgstantis pasakojimus ir linksmybes.
+
+"Ar šiandien turėsime naujų nuotykių?" – paklausė Šarkutė, pakylėdamas šviesias sparnus.
+
+"O taip!  Šiandien pasirodė nauji užtukiai!", atsakė Ramūtis, nedrąsiai virpindamas savo vandenis.
+
+"Užtukiai? Kokie jie?" – su smalsumu klausia Šarkutė, sėdėdamas ant medžio šakos.
+
+"Šiandien pasirodė trys nauji užtukiai," atsakė Ramūtis. "Pirmasis – tai paslaptingas, pilkas akmuo, kuris atsirado ežero viduryje. Antrasis – tai graži, žydra gėlė, išdygusi ant kranto. Trečiasis – tai paslaptingas, švelnus šniokštimas, girdimas iš miško gilumos."
+
+"Įdomu!" – ištarė Šarkutė. "Pirmiausia turime apžiūrėti akmenį. Jis atrodo keistai paslaptingas!"
+
+Šarkutė, plaukdamas aplink akmenį, pastebėjo įrašytą žodį. "Užrašas! O kaip jis atrodė?" – su smalsumu paklausė Ramūtis.
+
+"Jis parašytas senovine kalba, lyg iš pasakų! Sunku suprasti, bet žodis atrodo pažįstamas... Tikrai, tai "TIKĖJIMAS"!" – ištarė Šarkutė.
+
+"Tikėjimas?" – nuostabos pilnu balsu paklausė Ramūtis. "Koks tai įdomus užtukis!"
+
+Šarkutė skrido prie žydros gėlės. "Ji skleidžia nuostabų kvapą! Kiekvieną žiedlapį apgaubia švelnus aromatas!"
+
+"Ar žinai, kas tai?" – paklausė Ramūtis.
+
+"Atrodo, tai  "Vilties žiedas"!"  – atsakė Šarkutė,  patikrinęs žydinčios gėlės išvaizdą.  "Gražus užtukis!"
+
+Paskui Šarkutė išskrido į mišką ieškoti švelnaus šniokštimo. Jis keliaudamas sutiko Mažąją meškutę, kuri nustebo išgirdęs šį garsą.
+
+"O, kodėl tas miškas šniokščia taip keistai?" – su baime paklausė meškutė.
+
+"Tai trečiasis užtukis! Jis vadinasi "Džiaugsmo garsas"! Jis išleidžia muziką iš miško gilumos. Tai nuostabu!" – atsakė Šarkutė.
+
+Meškutė, apimta džiaugsmo, sutiko prisijungti prie nuotykių.  Jie kartu tyrinėjo ežerą, ieškodami dar daugiau paslapčių ir užtukių. Šarkutė, Ramūtis ir Mažoji meškutė atrado, kad tikėjimas, viltis ir džiaugsmas yra gražiausi ir svarbiausi užtukiai.
+
+Su kiekvienu nauju atradimų ir draugiškų pokalbių, ežeras ėmė žybėti vis ryškiau.  Paslaptingoji diena visiems trijoms draugams suteikė nuostabų priminimą – tikėjimas, viltis ir džiaugsmas gali padaryti gyvenimą gražų ir pilną nuostabių atradimo.
+
+Ramūtis, Šarkutė ir Mažoji meškutė pravedė dieną pasimėgaujant nuostabiais atradimais, džiaugdamiesi nauja draugyste ir išmokdami vertingų pamokų apie pasaulio grožį.   Jie suprato, kad net mažiausiam ežerui gali būti didelis vaidmuo.  Dienos šviesa prašoko ir danguje pasirodė švelnūs žvaigždžių atspindžiai.  Šarkutė, atsisveikinęs su kitais, išskrido namo, o Ramūtis ir Meškutė ramiai nusiramė prieš miegą.
+</body>

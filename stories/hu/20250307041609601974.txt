@@ -1,0 +1,35 @@
+<prompt>
+Please write a relatable Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A Rejtélyes Tündérkert és a Bujdosó Virágok'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>hu</lang_id>
+
+<title>A Rejtélyes Tündérkert és a Bujdosó Virágok</title>
+<body>Az eső áztatta, zöldellő erdő mélyén, ahol a fák olyan magasak voltak, hogy az égig értek, és a madarak édes dalokat énekeltek, egy különleges hely feküdt elrejtve. Ez a hely a Rejtélyes Tündérkert volt, ahol a virágok nem csak szépek és illatosak voltak, hanem varázserővel is rendelkeztek. A kertben egy kis tündér, Szilvia élt, aki a virágok gondozója és védelmezője volt.
+
+Szilvia hosszú, aranyos haját mindig szabadon hordta, és szemei olyan kéknek látszottak, mint a nyári égbolt. A tündérkertben töltött mindennapjait a virágok ápolásával, és azzal, hogy megvédje őket a kertet fenyegető veszélyektől. A kertben rengeteg virág élt, mindegyiknek megvolt a maga egyedi varázserővel. Voltak virágok, amelyek gyógyítani tudtak, mások, amelyek az álmokat szépítették, és olyanok is, amelyek a szerelmet erősítették.
+
+Egy napon, amikor Szilvia a virágokat gondozta, észrevett valami szokatlant. Néhány virág, amelyek mindig is a kertben éltek, most eltűntek. Szilvia aggódott, mert tudta, hogy a virágok nélkül a kert varázsa is eltűnhet. Elindult, hogy megkeresse a bujdosó virágokat, és visszahozza őket a kertbe.
+
+Az erdőn keresztül vándorolva, Szilvia találkozott egy bölcs öreg szarvassal, aki az erdő lakóinak vezetője volt. A szarvas elmondta Szilviának, hogy a bujdosó virágokat egy gonosz varázsló rabolta el, aki a virágok varázserőit akarta felhasználni a saját céljaira. A varázsló egy sötét és rideg várban élt, amely az erdő szélén állt.
+
+Szilvia elhatározta, hogy visszahozza a bujdosó virágokat, és megakadályozza, hogy a varázsló felhasználja őket. A szarvas segített neki, és együtt elindultak a vár felé. Amikor odaértek, Szilvia látta, hogy a vár körül egy mély és széles árok húzódik, amelyet nem lehetett átkelni. De a szarvas nem adta fel, és egy varázslatos hidat teremtett, amelyen átkelhettek.
+
+A várban Szilvia és a szarvas találkoztak a varázslóval, aki egy nagy és sötét teremben ült. A varázsló elmondta, hogy a bujdosó virágokat fogva tartja, és nem engedi őket szabadon, amíg Szilvia és a szarvas nem teljesítik a feltételeit. A varázsló három feladatot adott nekik: meg kellett találniuk egy tiszta vizű forrást, amely az erdő mélyén rejtőzött, egy csokor szépséges rózsát, amely a legszebb rózsa volt az erdőben, és egy könyvet, amely a varázsló titkait tartalmazta.
+
+Szilvia és a szarvas elindultak, hogy teljesítsék a feladatokat. Az erdőn keresztül vándorolva, találkoztak egy csapatnyi tündérrel, akik segítettek nekik. A tündérek elvezették őket a tiszta vizű forráshoz, ahol Szilvia és a szarvas megmerítették a kezüket, és érezték a forrás varázserőit. Aztán a tündérek segítettek nekik megtalálni a legszebb rózsát az erdőben, amelyet Szilvia és a szarvas csokorba kötöttek.
+
+A harmadik feladat volt a legnehezebb, mert a varázsló titkait tartalmazó könyv egy láthatatlan szekrényben rejtőzött, amelyet csak varázserővel lehetett kinyitni. De Szilvia és a szarvas nem adták fel, és a tündérek segítségével sikerült kinyitniuk a szekrényt, és megszerezniük a könyvet.
+
+Amikor visszatértek a várba, a varázsló látta, hogy Szilvia és a szarvas teljesítették a feladatokat, és engedte szabadon a bujdosó virágokat. A virágok visszatértek a Rejtélyes Tündérkertbe, és a kert varázsa ismét erősödött. Szilvia és a szarvas hősként tértek vissza a kertbe, és a virágok megköszönték nekik a segítséget.
+
+A Rejtélyes Tündérkert ismét virágzott, és Szilvia továbbra is gondozta a virágokat, és védelmezte őket a kertet fenyegető veszélyektől. A szarvas és a tündérek barátok maradtak, és gyakran látogatták Szilviát a kertben. És a varázsló, aki megtanulta a leckét, soha többé nem próbálta felhasználni a virágok varázserőit a saját céljaira.
+
+Így élt Szilvia és a Rejtélyes Tündérkert, tele varázserővel és szépséggel, és a virágok továbbra is virágzottak, és az erdő lakói boldogok voltak. A történet vége.</body>

@@ -1,0 +1,43 @@
+<prompt>
+Please write a silly Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Žaliasis Drakonas ir Jo Stebuklingas Atsiradimas'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lt</lang_id>
+
+<title>Žaliasis Drakonas ir Jo Stebuklingas Atsiradimas</title>
+<body>
+Saulė šypsojosi, šildydama ryškias žalias pievas.  Mažame kaimelyje, tarp senų ąžuolų ir kvapnių gėlių, gyveno berniukas Jonas. Jonas nebuvo kaip kiti berniukai. Jis mėgo ne žaidimus su kamuoliu, o stebėti debesis ir klausinėti medžių apie pasaulio paslaptis.
+
+Vieną gražią rytą, kai Jonas sėdėjo ant šlaito, stebėdamas kaip bitės šoka aplink žiedus, jis pamatė kažką neįprasto. Žalios spalvos, lyg iš pačios gamtos, šviesos debesis sukosi ore, ir iš jo, tarsi iš žalių žiedų, išdygo mažas, žalias drakonas.  Drakonas buvo toks mažas, kad tilpo Jono delne. Jo žalia oda blizgėjo kaip smaragdas, o akys degė kaip dvi žvaigždės.
+
+"Labas, mažasis drakonėli", tyliai pasakė Jonas.
+
+Drakonas, kuris, pasirodo, mokėjo kalbėti sklandžiai ir šiek tiek su lietuvišku akcentu, atsakė: "Sveikas, žmogau! Aš esu Žaliasis Drakonas, ir mano vardas yra Zaras.  O tu... kaip vadiniesi?"
+
+"Jonas", atsakė berniukas.
+
+"Jonas", pakartojo Zaras, įdėmiai žiūrėdamas į Joną. "Tu labai ypatingas žmogus. Tu esi vienas iš tų, kurie gali pamatyti mano stebuklingą atsiradimo būdą."
+
+Zaras paaiškino, kad jis atsiranda tik žmonėms, kurie yra atviri gamtai ir jos paslaptims.  Jis pasakojo, kad kiekvienas žiedas, kiekviena gėlė, kiekvienas medis yra stebuklingos energijos šaltinis, ir kad šios energijos susipynus, atsiranda jis, Žaliasis Drakonas.
+
+"Bet kodėl tu esi žalias?" paklausė Jonas.
+
+"Nes žalia spalva yra gyvybės ir augimo spalva," paaiškino Zaras. "Ji simbolizuoja gamtos jėgą ir jos amžiną grožį."
+
+Jie praleido visą dieną kartu. Zaras pasakojo Jonas pasakas apie senovės medžius, kurie žinojo pasaulio istoriją, ir apie upes, kurios dainavo naktimis.  Jie ieškojo paslėptų žiedų, kurie skleidė stebuklingą kvapą, ir stebėjo kaip šviesos drugeliai šokinėja tarp žolelių.  Zaras netgi parodė Jonui, kaip pasigaminti žiedų iš gėlių, kurios skleidė ypatingą aromatą, ir kaip sukurti mažus, švytinčius debesėlius iš vandens.
+
+Vakare, kai saulė pradėjo leistis, dažydami dangų rožiniais ir geltonais atspalviais, Zaras pasakė: "Dabar laikas man grįžti į savo žaliąją šviesą. Bet žinok, Jonas, mūsų draugystė niekada nesibaigs. Kiekvieną kartą, kai pamatysi žalią spalvą, prisimink mane."
+
+Ir, tarsi išnykęs į žalią oro debesį, Zaras išnyko. Jonas liko vienas ant kalvos, širdyje pilnas džiaugsmo ir nuostabos. Jis žinojo, kad jis sutiko ypatingą būtybę, ir kad gamta yra pilna stebuklų, kuriuos reikia tik pamatyti.
+
+Nuo tos dienos Jonas dar labiau mylėjo gamtą. Jis pradėjo domėtis vaistažolėmis ir jų savybėmis, tyrinėjo medžių lapų formas ir stebėjo paukščių skrydžius.  Jis suprato, kad stebuklai slypi ne toli, o kiekviename žiedlapio šepetėlyje, kiekvieno lašo vandenyje ir kiekviename žaliame lape.
+
+Ir nors Zaras niekada daugiau neatsirado, Jonas žinojo, kad jo žaliasis drakonas visada bus jo širdyje, primindamas, kad pasaulis yra pilnas paslapčių ir stebuklų, laukiančių, kad būtų atrasti.  Jis žinojo, kad kiekvienas žmogus gali atrasti savo stebuklingą atsiradimo būdą, jei tik atvers savo širdį ir akis gamtos grožiui.
+</body>

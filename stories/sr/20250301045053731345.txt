@@ -1,0 +1,30 @@
+<prompt>
+Please write a educational Serbian children's story that is at least 1000 words long.
+It must be completely written in proper Serbian (SR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Čarobna flauta koja je probudila zaspalu planinu'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sr</lang_id>
+
+<title>Čarobna flauta koja je probudila zaspalu planinu</title><body>
+U srcu Srbije, među zelenim pašnjacima i visokim planinama, nalazila se zaspava planina.  Nije bila mrtva, ali je u dubokom snu ležala, tiha i bez daha.  Biljke su bile izbledele, životinje utihnule, a čak i mali potočić koji se niz planinu spuštao, tekao je sporo, kao da ga je i sam san obuzeo.  Zvala se planina Tara, i ljudi su pričali o njenom lepoti, ali sada je lepota bila prekrivena velom sna.
+
+Mali Marko,  pametan dečak sa očima poput nebeskih oblaka, živeo je na obroncima Tare.  On nije bio samo dečak koji je voleo da se igra, već i  dečak koji je voleo da sluša priče o prirodi,  dečak koji je slušao šapat vetra i razgovor ptica.   Svaki dan bi on lutao šumama Tare, i sakupljao razne dragulje: sjajne kamenčiće,  veličanstvene  suve listove, čak i  divne kapi rose koje bi se zalijepile za travku.
+
+Jednog sunčanog jutra, dok je tragao za specijalnim suhim listom koji bi stavio u svoj album,  Marko je naišao na drevnu šupljinu u steni.  U njoj je stajala stara, starinska flauta, ukrašena čudnim simbolima, blistavim i svetlucavim. Nikada pre nije video sličnu flautu, nijedan instrument sa tako divnom i neobičnom energijom. Flauta je kao da je sama zračila toplom, pozitivnom energijom, punom života i ljubavi.
+
+Osećajući je neodoljivu privlačnost, Marko je pažljivo uhvatio flautu u ruke. I odmah je osjetio prijatno širenje u duši, osjetio nešto magično i uzbudljivo.   Nisam siguran koliko je vremena prošlo, ali Marko je počeo da svira.  Melody flaute nije bila melodična uobičajenim smislu,  nije imala poznate motive,  nego je, izgledalo je,  govorila o prirodi,  govorao je o biljkama,  o životinjama i lepoti planine Tare.
+
+Kada je završio sviranje,  Marko je odmah primetio kako se u šumi nešto počinje mijenjati.  Najpre su se probudili  žuborenje potoka. Počelo je da brže teče, s nežnim šumom koja se kroz šumu nosila.  Listovi su se širili kao da žele da ih zagrli sunčevo zlato.  Cvjetovi su se otvarali, puni svežeg životnog soka,  kroz svetlu luku svojih mirisa. I, iznenada, pogledao je u okolni planinski deo -   video je,  razveseljene kretnje životinja!   Lav je odahnula od naporne igre skrivača sa svojom divom. Vuk je lizao zalogaj koji mu je ostao na usnama od svojih skokova na drveće,  a zečići su zajedno zabiberili divlji mrak.
+
+Odjednom, čitava planina je probudila iz svog dugog sna. Biljke su postale zelenije i punije. Životinje su postale vedrije i bučnije.  U zraku se osjećalo žuborenje novih života,  puni zvuk koji je ispunio dušu harmoničnim pesmom.    Marko je bio  sretan jer je spasio planinu, svojim darom, svojim veštim i srčanoumešanim sviranjem, neprestanim muzičkim dodirima.
+
+Imao je osećaj da su se životinje na planini,  veoma osećale prijateljski, osmešeno i srećno prema Markovim talentima! I sve planine su ga s poštovanjem zvale - "čarobni muzikaš."
+Od tada je Tara ponovo postala sjajna, zaboravljajući se prethodno u svom smirenom snovima, punom životne snage i radosnog uzbuđenja. I dok je Marko nastavio svoj život na obroncima Tare, nikada nije prestao da čuva i svira, tako da bi na planini vladala lepota, ljubav i svaki život, kroz lepe melodije.
+Marko je postao zaštitnik Tare i svirao je čarobnu flautu sve dok nije odraslo u muzičkog maestra, osmejući se samom životu! I na dan svog prvog nastupa, predao je svu tu lepu priču u svetlost. Zvuk njegove flaute i danas širi se po planinama, probuđujući druge planine iz njihovog sna, jer je njihova muzika vešto pobudila njihove umne  mozgove.
+</body>

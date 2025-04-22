@@ -1,0 +1,49 @@
+<prompt>
+Please write a timeless Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A Holdfényben Táncoló Tündérek Meséi'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>hu</lang_id>
+
+```html
+<title>A Holdfényben Táncoló Tündérek Meséi</title>
+<body>
+<p>Egyszer volt, hol nem volt, élt egy kis falu, a neve Virágosliget. A falucska olyan volt, mint egy képeslap: színes házikók, zsenge zöld legelők, és egy kristálytiszta patak, mely keresztül kanyargott rajta. De Virágosliget nem csak a szépségéről volt híres, hanem a titokzatos holdfényről is, ami minden éjjel betöltötte a völgyet. Ebben a holdfényben táncoltak a tündérek. </p>
+
+<p>A tündérek kicsik voltak, szárnyaik szivárvány színűek, ruhájuk rózsaszín és kék virágokból készült. A vezérük a tündérkirálynő volt, a neve Holdvirág. Holdvirág hosszú, ezüst haja volt, és szeme olyan ragyogó, mint a legfényesebb csillag. Ő vigyázott a tündérekre, és tanította őket a varázslás rejtelmeire.</p>
+
+<p>Egyszer, egy forró nyári délután, a tündérek a patak partján játszottak. Egy kis fiú, a neve Benedek, épp arra barangolt. Benedek kíváncsi volt, és szerette a természetet. Meglátta a tündéreket, ahogy ugrálnak és kacagnak, szárnyaik csillognak a napfényben. Elbűvölve nézte őket. A tündérek észrevették Benedeket, és hirtelen megálltak a játékban.</p>
+
+<p>Holdvirág, a királynő, odarepült Benedekhez. "Ki vagy te, kisgyerek?" - kérdezte, hangja olyan volt, mint a csengő hangja. Benedek megijedt, de a kíváncsisága erősebb volt. "Én Benedek vagyok," - suttogta. "Csak néztelek titeket."</p>
+
+<p>"Tündérföldön jársz," - mondta Holdvirág. "De ez egy titkos hely. Emberek nem láthatnak minket." Benedek szomorú arccal nézett le a földre. "Nagyon sajnálom, nem akartalak megzavarni titeket."</p>
+
+<p>Holdvirág megenyhült. Látta a fiú szívének tisztaságát. "Én megbízom benned, Benedek. A szívedben nincs rossz szándék. De ígérd meg, hogy senkinek el nem árulod, amit láttál."</p>
+
+<p>"Ígérem!" - mondta Benedek, szeme felragyogott.</p>
+
+<p>Holdvirág elmosolyodott. "Akkor gyere velünk. Megmutatjuk neked a tündérek világát." És ezzel a szárnyaival a levegőbe emelkedett, és a többi tündérrel együtt Benedeket is felkapta, aki hamarosan a tündérek vállain utazott.</p>
+
+<p>Elrepültek a falu fölé, föl a hegyek közé, ahol a tündérek varázslatos otthona, a Holdfény-erdő volt. A fák olyan magasak voltak, hogy ágaikkal a csillagokat karcolgatták, a levelek ezüstös fényben ragyogtak. A patakok aranyszínű vízzel folytak, és a virágok édes illata lengedezett a levegőben.</p>
+
+<p>Benedek csodálattal nézte a tájat. A tündérek elvitték a kristálypalotájába, ahol a tündérkirálynő lakott. A palota falai átlátszó jégből készültek, a padlót szivárványos drágakövek borították, és mindenhol gyönyörű virágok nyíltak. A tündérek megkínálták Benedeket mézédes gyümölcsökkel és csillogó italokkal, amelyek a legfinomabb ízeket idézték fel. Mesélték neki a tündérek varázslatos történeteit, a Hold hűvös mosolyáról, a csillagok rejtélyéről, és a szivárványok születéséről.</p>
+
+<p>Éjszaka, amikor a Hold felkelt, a tündérek elkezdték a táncot. Benedek a kristálypalota erkélyéről nézte őket. A holdfény bevilágította a Holdfény-erdőt, és a tündérek szárnyaikkal a levegőben táncoltak, mint a csillogó pelyhek. Színes ruháik és szárnyaik ragyogtak a fényben, és a zene, amit hallott, olyan volt, mint a legjobb álom. Zenéjük édes volt, mint a méz, és a szívében a boldogság érzését keltette.</p>
+
+<p>A tündérek tánca a hold járásához kötődött. A tündérek a dalokban énekükkel a Természetet kérték boldogulásvá, a békét a világnak. Bene-dek érezte a tündérek jóságát. Az éjszaka a tündérekkel csoda volt, és a szíve örömmel telt el.</p>
+
+<p>A nap ismét felkelt, a tündérek elköszöntek Benedektől. Holdvirág megkérte, hogy vigyázzon a tündérek titkára, és mindig tisztelje a természetet, és őrizzék meg a szép emléket a szívükben. "A holdfény mindig velünk marad, és mi is mindig veled." - mondta Holdvirág. "Soha ne felejts el minket."</p>
+
+<p>A tündérek visszavitték Benedeket Virágosliget szélére. Benedek megígérte, hogy sose felejti el őket. Elbúcsúzott a tündérektől, és visszament a faluba. A nap ettől a naptól kezdve más lett. Mindig, amikor a hold felkelt, Benedek a holdfényre nézett, és emlékezett Holdvirágra és a többi tündérre. Tudta, hogy ők most is táncolnak, és vigyáznak a világra. </p>
+
+<p>Benedek a tündérek titkát soha nem árulta el senkinek. Élt, ahogy a tündérek tanították. Szerette a természetet, a virágokat, a fák árnyékát és a madarak énekét. A szíve mindig jó volt, és mindig segített másokon. Benedek felnőtt, de a tündérek emléke mindig megmaradt a szívében. Gyermekei, unokái is hallották a történetet a holdfényben táncoló tündérekről, és a mese örökre beleivódott a családjuk emlékezetébe, a holdfény szeretetével.</p>
+
+<p>És a holdfényben a tündérek mind a mai napig táncolnak, vigyáznak a Virágosligetre, és várják, hogy a szív tiszta legyen, és csoda történjen. A szeretet és a jóság fénye soha nem vész el. A holdfény sosem hagyja el a világot, és a tündérek sosem felejtik el Benedeket sem, mert a lélek soha nem hal meg.</p>
+</body>
+```

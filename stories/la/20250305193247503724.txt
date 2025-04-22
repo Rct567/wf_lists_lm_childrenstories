@@ -1,0 +1,37 @@
+<prompt>
+Please write a simple and easy-to-follow Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Lacus Profundus et Monstrum Amicum'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>la</lang_id>
+
+<title>Lacus Profundus et Monstrum Amicum</title>
+<body>Erant in lacu profundissimo, qui in montibus altissimis situs erat, pisciculi multorum generum. Inter eos erat pisciculus nomine Lucius, qui curiosissimus et audacissimus inter omnes erat. Lucius semper volebat scire, quid esset in fundo lacus, et quae essent secreta, quae lacus tenebat.
+
+Die quadam, cum Lucius in aqua nataret, vidit monstrum grande et terribile, quod in fundo lacus habitabat. Monstrum habebat oculos magnos et luminescentes, et squamas, quae ut gemmae brillabant. Lucius, cum esset valde territus, fugere volebat, sed monstrum eum retinuit et dixit: "Noli, Luci, fugere, quia non sum hostis tuus, sed amicus."
+
+Lucius, cum esset miratus, respondit: "Quomodo potes esse amicus meus, cum sis monstrum terribile?" Monstrum ridens dixit: "Ego sum monstrum, sed non sum malum. Ego sum custos lacus et omnium, qui in eo habitant. Ego protego pisciculos et plantas, et certior, quod lacus sit locus tutus et pacificus."
+
+Lucius, cum esset valde delectatus, dixit: "Gratias tibi, monstrum amice, quia me docuisti, quod non omnia, quae videntur terribilia, sunt mala." Monstrum respondit: "Memor esto, Luci, quod in vita non omnia sunt, quae videntur. Saepe, quae videntur minima et debilia, sunt maxima et potentia. Et saepe, quae videntur terribilia, sunt amica et benevola."
+
+Diebus sequentibus, Lucius et monstrum amicum, cui nomen erat Marcellus, multa faciebant. Natabant in lacu, et explorabant secreta, quae lacus tenebat. Lucius didicit, quod Marcellus non solum erat monstrum, sed etiam erat sapiens et prudens. Marcellus docebat Lucium, quomodo vivere in harmonia cum natura, et quomodo protegere lacum et omnes, qui in eo habitabant.
+
+Interim, in lacu erat problema grande. Pisciculi non habebant satis cibum, et plantae non crescebant, quia aqua erat polluta. Lucius et Marcellus sciebant, quod debent aliquid facere, ut lacum salvarent. Marcellus dixit: "Luci, debemus invenire fontem pollutionis et eum eliminare." Lucius respondit: "Sed quomodo possumus invenire fontem, cum lacus sit tantus?"
+
+Marcellus dixit: "Non est necessarium, ut totum lacum exploramus. Debemus quaerere indicia et signa, quae nos ducant ad fontem pollutionis." Lucius et Marcellus quaerebant indicia et signa, et post multos dies, invenerunt fontem pollutionis. Erat fabrika, quae in montibus sita erat, et quae effundebat substantias noxias in lacum.
+
+Lucius et Marcellus sciebant, quod debent aliquid facere, ut fabrikam aperiant et eam compellent, ut pollutionem desinat. Sed fabrika erat valde potens, et dominus eius non volebat audire Marcellum et Lucium. Marcellus tunc dixit: "Luci, debemus invenire aliud modum, ut fabrikam compellamus." Lucius respondit: "Sed quomodo possumus, cum fabrika sit tantum potens?"
+
+Marcellus dixit: "Non est necessarium, ut nosmet ipsi facimus omnia. Debemus quaerere auxilium ab aliis, qui nobiscum volunt lacum salvare." Lucius et Marcellus quaerebant auxilium ab aliis pisciculis et plantis, et post multos dies, invenerunt multos, qui volebant eos adiuvare. Omnes simul fecerunt petitionem ad dominum fabrikae, ut pollutionem desinat.
+
+Dominus fabrikae, cum esset valde movitus, petisionem accepit et pollutionem desinit. Lacus coepit purificari, et pisciculi et plantae coeperunt crescere. Lucius et Marcellus erant valde gaudii, quia lacum salvaverant. Marcellus dixit: "Luci, vidisti, quod non omnia sunt, quae videntur. Vidisti, quod etiam minima et debilia potest facere magnam rem, cum voluntas et auxilium ab aliis sint."
+
+Lucius respondit: "Gratias tibi, Marcelli, quia me docuisti, quod vita est plena secretorum et mirabilium. Et gratias tibi, quia me ostendisti, quod amicitia et auxilium ab aliis potest facere magnam rem." Marcellus ridens dixit: "Memor esto, Luci, quod amicitia et auxilium ab aliis sunt omnia, quae necessaria sunt, ut vita sit felix et pacifica."
+
+Et sic, Lucius et Marcellus remanserunt amici, et lacus remansit locus tutus et pacificus, ubi omnes, qui in eo habitabant, vivebant in harmonia cum natura. Et Lucius semper memorabat, quod Marcellus dixit: "Non omnia sunt, quae videntur. Saepe, quae videntur minima et debilia, sunt maxima et potentia. Et saepe, quae videntur terribilia, sunt amica et benevola." Et Lucius vivebat felix et pacificus, in lacu profundissimo, cum Marcelli amico et omnibus, qui in eo habitabant.</body>

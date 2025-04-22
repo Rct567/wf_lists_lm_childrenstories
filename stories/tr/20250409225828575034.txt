@@ -1,0 +1,69 @@
+<prompt>
+Please write a funny Turkish children's story that is at least 1000 words long.
+It must be completely written in proper Turkish (TR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Sınıfta Öğretmen ve Öğrencilerin Birlikte Öğrendiği Yeni Bilgiler'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>tr</lang_id>
+
+```xml
+<title>Sınıfta Öğretmen ve Öğrencilerin Birlikte Öğrendiği Yeni Bilgiler</title>
+<body>
+Ormanın derinliklerinde, minik sincapların, tombul tavşanların ve uzun boylu zürafaların yaşadığı bir okul vardı. Bu okulda, Bayan Papatya adında neşeli bir öğretmen ders veriyordu. Bayan Papatya, sadece harfleri ve sayıları öğretmekle kalmıyor, aynı zamanda öğrencilerine dünyayı keşfetmeleri için ilham veriyordu.
+
+Bu sınıfın en yaramaz öğrencisi, sürekli zıp zıp zıplayan ve ağzından bir saniye laf düşmeyen Çıtçıt adında bir sincaptı. Çıtçıt, her zaman yeni bir şey öğrenmek için sabırsızlanırdı ama ders sırasında da uslu durmakta zorlanırdı. Diğer öğrenciler de birbirinden farklı özelliklere sahipti. Örneğin, Bilge Bilgehan adında, gözlük takan ve kitap okumayı seven bir tavşan vardı. Bir de uzun boynuyla her şeyi görebilen Zürafa Zeynep vardı, ki o da her konuyu dikkatle dinler ve her zaman soru sormaya hazırlıklı olurdu.
+
+Bir gün, Bayan Papatya öğrencilerine heyecan verici bir duyuru yaptı: "Sevgili çocuklar, bugün hep birlikte yepyeni bilgiler öğreneceğiz! Bugün konumuz 'Meyveler ve Özellikleri'! Bakalım hangi meyveleri tanıyoruz ve onlar hakkında neler biliyoruz?"
+
+Çıtçıt hemen elini kaldırdı ve "Öğretmenim, öğretmenim! Ben elmayı çok severim! Kırmızıdır, suludur ve... ve..." cümlesini tamamlamadan, arkadaşı Bilgehan onu düzeltti: "Çıtçıt, elmanın sadece kırmızı olmadığını unutma! Yeşil ve sarı elmalar da vardır ve hepsi de lezzetlidir!"
+
+Zürafa Zeynep, uzun boynu sayesinde tüm sınıfı ve masayı görebiliyordu. "Öğretmenim, ben de çileği severim! Üzerinde minik tohumları olan, kırmızı ve tatlı bir meyvedir," dedi.
+
+Bayan Papatya gülümsedi ve "Harika çocuklar! Meyveler hakkında birçok şey biliyorsunuz. Peki ya muz? Muzun nerede yetiştiğini biliyor musunuz?" diye sordu.
+
+Çıtçıt yine yerinde duramadı ve "Muz! Muz! Onu marketten alıyoruz öğretmenim!" diye bağırdı.
+
+Bilgehan gülerek, "Çıtçıt, haklısın marketten alıyoruz ama muz tropikal iklimlerde yetişir. Örneğin, Türkiye'de Anamur gibi yerlerde de muz yetiştirilir," diye yanıtladı.
+
+Zeynep de ekledi: "Ve muzların kabukları, maymunların en sevdiği şeylerden biridir!"
+
+Bayan Papatya bu bilgileri tahtaya yazdı ve devam etti: "Şimdi de portakal hakkında konuşalım. Portakalın C vitamini deposu olduğunu ve bağışıklık sistemimizi güçlendirdiğini biliyor musunuz?"
+
+Çıtçıt bu kez de "Öğretmenim, portakal suyunu çok severim!" diye atıldı. Ama bu sefer Bayan Papatya ona sadece gülümsedi ve dersine devam etti.
+
+"Peki ya üzüm? Üzümün birçok çeşidi olduğunu, yeşil, siyah ve mor renklerde olabildiğini biliyor musunuz?" diye sordu Bayan Papatya.
+
+Bilgehan, hemen cevap verdi: "Evet öğretmenim! Üzümden pekmez ve pestil de yapılır!"
+
+Zeynep ise "Ve kurutulmuş üzümler, yani kuru üzüm de çok lezzetlidir," diye ekledi.
+
+Derse devam ederken, Bayan Papatya, öğrencilere farklı meyvelerin nerelerde yetiştiklerini ve nasıl tüketildiklerini anlatmaya devam etti. Hangi meyvelerin salatalarda kullanıldığını, hangi meyvelerin pastalarda ve tatlılarda kullanıldığını anlattı.
+
+Çıtçıt, bir ara yerinden fırladı ve "Öğretmenim, öğretmenim! Ben en çok meyveli kekleri severim!" diye bağırdı.
+
+Bayan Papatya güldü ve "Çıtçıt, haklısın! Meyvelerle yapılan kekler çok lezzetli olur. Hatta, yarın okul bahçesinde meyveli bir piknik yapalım mı? Hem meyveleri tanırız hem de eğleniriz," dedi.
+
+Sınıftaki tüm öğrenciler bu fikre bayıldılar! Ertesi gün için heyecanla planlar yapmaya başladılar.
+
+Ertesi gün, okul bahçesi rengarenk meyvelerle doluydu. Öğrenciler, yanlarında getirdikleri meyveleri arkadaşlarıyla paylaştılar. Elmalar, armutlar, muzlar, üzümler, çilekler, karpuzlar... Hepsi birbirinden güzel ve lezzetliydi.
+
+Çıtçıt, etrafta zıplarken bir anda durdu ve "Öğretmenim, öğretmenim! Ben artık meyveleri daha iyi tanıyorum! Elmanın sadece kırmızı olmadığını, muzun nerelerde yetiştiğini, portakalın C vitamini deposu olduğunu ve üzümden pekmez yapıldığını biliyorum!" dedi.
+
+Bilgehan gülümsedi ve "Çıtçıt, sen de bir şeyler öğrendin demek!" dedi.
+
+Zeynep de "Evet Çıtçıt, sen de bizimle birlikte öğrendin!" diye onayladı.
+
+Bayan Papatya, öğrencilerine gururla baktı. "Çocuklar, bugün hep birlikte harika bilgiler öğrendik ve çok eğlendik. Unutmayın, öğrenmek hiç bitmeyen bir maceradır. Her gün yeni bir şeyler keşfedebiliriz!"
+
+Piknik devam ederken, öğrenciler meyvelerle ilgili yeni şeyler öğrenmeye devam ettiler. Karpuzun çekirdeklerinin neden yutulmaması gerektiğini, ananasın nasıl büyüdüğünü ve kivi'nin nerelerde yetiştiğini konuştular. Hatta, meyvelerden resimler bile yaptılar.
+
+Günün sonunda, herkes mutluydu. Çıtçıt, enerjisiyle ve merakıyla, diğer öğrencileri de motive etmişti. Bilgehan, öğrendiklerini daha iyi anlamış ve derinleştirmişti. Zeynep ise, her zamanki gibi meraklı sorularıyla herkesin öğrenmesine yardımcı olmuştu.
+
+Ve Bayan Papatya, öğrencilerinin ne kadar büyüdüğünü ve geliştiğini görmekten mutluydu. O gün, sınıf sadece meyveleri değil, birlikte öğrenmenin, paylaşmanın ve yeni şeyler keşfetmenin keyfini de tatmıştı. Ormanın minik sakinleri, okulda öğrenmenin ve eğlenmenin ne kadar harika olduğunu bir kez daha anladılar.
+</body>
+```

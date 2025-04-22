@@ -1,0 +1,43 @@
+<prompt>
+Please write a uncomplicated Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Draugystės Žiedas ir Meilės Pasaka'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lt</lang_id>
+
+<title>Draugystės Žiedas ir Meilės Pasaka</title>
+<body>
+Saulė švietė ryškiai,  pašildydama mažą kaimą, įsikūrusį prie žalios upės vingio.  Šiame kaime gyveno dvi sesės –  Aušra ir Rūta. Aušra buvo rami ir pastebanti, o Rūta – linksma ir smalsu. Jos abu  turėjo didelį sodą, pilną įvairių spalvų gėlių.  Rūta mėgo rinkti gėles ir jas surišti į ryškius puokštes, o Aušra mėgdavo stebėti, kaip saulės spinduliai žaidžia gėlių žiedlapiuose.
+
+Vieną ryškią vasaros dieną,  Rūta, rinkdama gėles, aptiko mažučio, aukso spalvos žiedo.  Jis buvo toks gražus ir subtilus, kad atrodė, tarsi iš pačių saulės spindulių suformuotas.  Žiedas švytėjo švelniu šviesos žvilgsniu. Rūta jį atsargiai paėmė ir suprato, kad šis žiedas yra kažkas ypatingo. Ji jį pavadino Draugystės Žiedu.
+
+"Šis žiedas saugo didelę paslaptį, Aušra", sušuko Rūta, parodė ji Aušrai nuostabų žiedą.
+
+Aušra,  pasižvalgius į nuostabų auksinį žiedą, pasakė: "Koks gražus!  Bet ar jis gali pasakyti mums kokia didelė pasaka ir meilės istorija slypi už jo?"
+
+Rūta, suširdus širdžiai, atsakė: "Žinoma, kad gali!  Mums reikia tik pažiūrėti giliau! Šis žiedas, galbūt, gali atskleisti kažką nuostabaus, nors ir nežinomo..."
+
+Jos pradėjo eiti po savo sodą.  Apie kiekvieną gėlę, kiekvieną medį, kiekvieną žolyną, jos kalbėjosi.  Jų žodžiai skambėjo tarsi tylos pasakojimų, žadinančių įsivaizdavimą. Jie suprato, kad Draugystės Žiedas nėra paprastas žiedas – jis yra raktas į paslaptis.
+
+Rūta, apkabindama žiedą ir šypsodamasi,  pasakė Aušrai: "Šis žiedas mums padovanos nuostabų pažinimą ir nuotykius, jei sugebėsime išklausyti jį".
+
+Jos atsisėdo ant žolės po senu ąžuolu ir pradėjo svarstyti.  Jie įsivaizdavo, kad žiedas šnabžda pasakas, pasakoja apie senovinius medžius ir gyvūnus, kurie gyveno prieš tūkstantmečius.  Jie vaizdavosi, kaip žiedas atskleidžia pasaulio paslaptis, ir kartu jos išgyveno daug nuotykių, sutelkdamos savo galimybes ir smalsumą.
+
+Aušra, klausydama Rūtos,  atrado savo vidinį pasaulį ir galimybes.  Rūta, įkvėpta Aušros, sugebėjo išgirsti tylų gėlių šnabždesį.
+
+Jos sužinojo, kad upės vingis buvo buvęs paslaptingas šaltinis, iš kurio gimdavo pasakos ir legendos.  Jie išgirdo paukščių dainas, kurios kalbėjo apie meilę ir draugystę.  Jie suprato, kad kiekviena gėlė buvo pasakojimas, o kiekvienas lapas – eilėraštis.
+
+Šią dieną, kai saulė nusileido, nupiešdama nuostabias spalvas danguje, Aušra ir Rūta suprato, kad Draugystės Žiedas nėra tiesiog žiedas.  Jis yra simbolis, kuris jungia širdis, kuris suartina draugystę ir padeda atrasti  meilės pasakas.
+
+Taip prasidėjo jų nuostabios kelionės po savo sodą. Jos sužinojo apie pasakų pasaulio grožį ir paslaptis, suvokdamos, jog meilė yra nuostabus jausmas.
+
+Jos kartu augo ir tapo ne tik seserimis, bet ir draugėmis, sujungtomis bendro įsitikinimo ir meilės grožiu. Jos suprato, kad kiekvienas žiedas yra pasaka, ir kad kiekviena pasaka slypi mumyse pačiuose.
+
+Rūta ir Aušra, laikydamos Draugystės Žiedą, suprato, jog pasaulis yra pilnas nuostabių pasakų, o jos jau turi pasitikėjimą ir meilę, kurios padės keliauti į savo nuostabų gyvenimo kelionę.  Jos žinojo, kad draugystė ir meilė yra raktai, atveriantys visus pasaulio slėpinius.
+</body>

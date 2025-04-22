@@ -1,0 +1,33 @@
+<prompt>
+Please write a funny Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Opowieści o wyjątkowych zwierzętach i ich przyjaźni'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>pl</lang_id>
+
+<title>Opowieści o wyjątkowych zwierzętach i ich przyjaźni</title>
+<body>
+W malutkim, zapomnianym przez świat miasteczku, gdzie domki wyglądały jak ułożone z kolorowych cegiełek, żyły wyjątkowe zwierzęta. Nie były to zwyczajne koty, psy czy chomiki.  Były to zwierzęta z niezwykłymi talentami i przygodowymi duszami.  Był tam  Szymon, lis z niesamowitą zdolnością do śpiewania operowych arii. Jego głos, donośny i wysoki, rozbrzmiewał po całym miasteczku, budząc zachwyt, a czasami i lekki niepokój u lokalnych mieszkańców.  A obok Szymona mieszkała Zosia –  myszka z niezwykłym talentem do gotowania. Jej pyszne, choć drobne, ciasta i zapiekaneczki z ptasim mlekiem roznosiły się po całych okolicach.  I oczywiście był jeszcze Bartek, niedźwiedź, który uwielbiał malować, a jego obrazy, pełne niepohamowanej fantazji, zdobiły ściany domów w miasteczku.
+
+Pewnego słonecznego popołudnia, Szymon, Zosia i Bartek spotkali się na łące, pełnej pachnących kwiatów i śpiewających ptaków.  Szymon, podnosząc do góry głowę, zaczął śpiewać "Carmen".  Głos jego roznosił się po całej dolinie, a pszczoły, zachwycone,  tanecznym ruchem latały wokół głowy lisa.  Zosia, z koszykiem pełnym pysznych ciasteczek, uśmiechnęła się, patrząc na rozbawione zwierzęta.  Nagle, z krzaków wyłonił się Bartek, niosąc w łapkach kolorowe farbki i pędzel.  „A co dzisiaj maluję?” – zapytał, wzruszając swoimi kudłatymi brwiami.
+
+„Maluj coś o naszej przyjaźni!” – krzyknęła Zosia, śmiejąc się.
+
+Bartek, rozpromieniony, zaczął malować.  Na tle błękitnego nieba narysował Szymona, wznoszącego się w powietrzu, aby śpiewać w niebie, Zosię w otoczeniu koszyka, pełnego pysznych ciasteczek, i siebie, siedzącego na kocu,  obok kolorowych farb, w otoczeniu malowniczego krajobrazu.  Wiele godzin spędzili na tym zajęciu, a gdy słońce zaczęło chylić się ku zachodowi, ich dzieło było gotowe.  Był to obraz pełen barw i radosnych emocji, przedstawiający ich niezwykłą przyjaźń.
+
+Następnego dnia, szymonowi, zosi i bartkowi, przyjaciele i mieszkańcy miasteczka zaczęli zachwycać się obrazem.  Szymon rozpoczął swoje recital, zaśpiewując arie z obrazu, Zosia serwowała ciasteczka, a Bartek cieszył się z aprobaty ze strony miasteczka, które w jego obrazach widziało swoje historie.  Szymon, Zosia i Bartek, niezmordowani artyści, byli dumni ze swojego wspólnego dzieła, i wiedzieli, że w tym miasteczku przyjaźń była najpiękniejszym cudem z wszystkich.
+
+Jednak pewnego razu,  w miasteczku pojawił się niezwykły gość –  Wilk, który zachwycał się wszystkim, co wiązało się z pięknem.  Wilk, zazdrosny o ich przyjaźń, o ich wyjątkowe talenty, zaczął rozsiewać plotki, że Szymon śpiewa zbyt głośno, Zosia gotuje za dużo ciasteczek, a Bartka obrazy są zbyt... niedźwiedzie.
+
+Mieszkańcy miasteczka, zafascynowani opowieściami wilka, zaczęli kwestionować talenty zwierząt.  Szymon przestał śpiewać, Zosia przestała gotować, a Bartek przestał malować.  Miasteczko, kiedyś pełne radości, stało się ciche i smutne.
+
+Gdy zwierzęta uświadomiły sobie, co się stało,  zjednoczyły siły.  Szymon, Zosia i Bartek wspólnie wyszli na rynek, żeby przeciwstawić się kłamstwom wilka.  Szymon zaczął śpiewać najpiękniejszą melodię, jaką znał, a jego głos, przenikliwy i pełen miłości, rozwiał wszystkie wątpliwości. Zosia zaparzyła pyszną herbatę i podzieliła się nią z mieszkańcami, dowodząc, że  smaczne ciastka i zapiekaneczki z ptasim mlekiem nie są grzechem, a Bartek, pokazał wszystkim swoje obrazy, pokazując, że fantazja i piękno są częścią tego miasteczka.
+
+Mieszkańcy miasteczka, naocznie przekonani o prawdzie, zrozumieli, że przyjaźń i wyjątkowość to skarb, który należy chronić.  Wilk, upokorzony i zawstydzony, zniknął bez śladu.  Szymon, Zosia i Bartek, razem z mieszkańcami, ponownie zaczęli celebrować swoją wyjątkową przyjaźń i ich talenty, a miasteczko znów zaświeciło pełnią barw.  Od tego dnia, miasteczko stało się jeszcze bardziej wyjątkowe, bo dowiedziało się, że właśnie  w różnorodności i przyjaźni leży prawdziwe piękno.
+</body>

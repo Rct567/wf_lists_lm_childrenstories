@@ -1,0 +1,127 @@
+<prompt>
+Please write a dialog-based Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Bé Tôm Học Cách Đối Mặt Với Những Khó Khăn Trong Cuộc Sống.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>vi</lang_id>
+
+```xml
+<title>Bé Tôm Học Cách Đối Mặt Với Những Khó Khăn Trong Cuộc Sống</title>
+<body>
+— “Mẹ ơi!” Bé Tôm chạy lon ton vào nhà, mặt mày nhăn nhó. “Con không muốn đi học nữa! Bạn Bi cứ chọc con, nói con xấu!”
+
+Mẹ Tôm đang bận rộn trong bếp, nghe tiếng con liền quay lại. Chị lau tay vào tạp dề, dịu dàng nhìn con.
+
+— “Sao vậy Tôm? Lại chuyện gì thế con?”
+
+— “Bạn Bi bảo con giống con sâu!” Tôm phụng phịu, đôi mắt long lanh nước. “Con không thích điều đó chút nào!”
+
+Mẹ Tôm đến gần, ôm Tôm vào lòng.
+
+— “Con sâu cũng có ích lợi của nó chứ, Tôm. Nó giúp cải tạo đất, làm thức ăn cho chim chóc. Chuyện quan trọng không phải là người khác nói gì, mà là con cảm thấy thế nào về bản thân mình.”
+
+— “Nhưng con không thích! Con muốn đẹp trai, giống anh Gió…”
+
+— “Mỗi người có một vẻ đẹp riêng, Tôm ạ. Con có đôi mắt sáng, nụ cười tươi, lại rất ngoan ngoãn. Đó là vẻ đẹp của con.” Mẹ Tôm xoa đầu con. “Bạn Bi chọc con, là vì bạn chưa hiểu hết về con. Con thử nói chuyện với bạn xem sao.”
+
+— “Nói gì ạ?” Tôm ngước mắt lên.
+
+— “Con có thể nói ‘Tớ không thích cậu chọc tớ như thế. Tớ không xấu, tớ là Tôm!’”
+
+— “Con…con không biết nữa.” Tôm ấp úng.
+
+— “Được rồi, mẹ sẽ giúp con.” Mẹ Tôm cười hiền. “Ngày mai, mẹ sẽ chuẩn bị bữa ăn thật ngon cho con mang đi. Con hãy chia sẻ với bạn Bi xem sao.”
+
+— “Thật ạ?” Mắt Tôm sáng rỡ.
+
+Ngày hôm sau, trên đường đến trường, Tôm mang theo hộp cơm mẹ chuẩn bị.
+
+— “Tôm ơi!” Tiếng Bi gọi từ xa.
+
+Tôm khẽ rụt vai, nhưng rồi nhớ lại lời mẹ dặn. Em bước đến, đưa hộp cơm cho Bi.
+
+— “Bi ơi, cậu ăn cơm cùng tớ nhé? Mẹ tớ nấu ngon lắm.”
+
+Bi nhìn hộp cơm, rồi ngước lên nhìn Tôm, vẻ mặt ngạc nhiên.
+
+— “Thật hả? Cảm ơn cậu!”
+
+Hai bạn cùng nhau ăn cơm. Trong lúc ăn, Bi nói:
+
+— “Cơm ngon thật! Tớ xin lỗi vì đã chọc cậu. Tại vì tớ… ghen tị với cậu một chút.”
+
+— “Ghen tị?” Tôm ngơ ngác.
+
+— “Ừ. Cậu được mẹ chăm sóc chu đáo, lại học giỏi. Tớ thì… mẹ tớ bận lắm, ít khi chơi với tớ.” Bi cúi gằm mặt xuống.
+
+Tôm ngẫm nghĩ một lát rồi đáp:
+
+— “Tớ thấy vui vì có mẹ. Nhưng tớ cũng thèm được chơi bóng đá với cậu như anh Gió. Chắc chắn tớ sẽ thích thú hơn nếu có thể chơi cùng cậu!”
+
+Bi ngẩng đầu lên, ánh mắt lấp lánh.
+
+— “Vậy chiều nay mình cùng nhau chơi bóng đi!”
+
+Từ hôm đó, Tôm và Bi trở thành bạn thân. Tôm học được cách đối mặt với những lời chọc ghẹo bằng sự tự tin và lòng tốt. Em hiểu rằng, không phải ai cũng hiểu mình ngay lập tức, nhưng bằng sự kiên nhẫn và sẻ chia, mọi chuyện đều có thể giải quyết.
+
+Một ngày nọ, trường Tôm tổ chức cuộc thi vẽ tranh. Tôm rất muốn tham gia, nhưng lại lo lắng.
+
+— “Mẹ ơi, con sợ không vẽ đẹp bằng các bạn khác…” Tôm thì thào.
+
+— “Con cứ cố gắng hết sức mình, Tôm ạ. Quan trọng là con thể hiện được suy nghĩ và cảm xúc của mình vào bức tranh.”
+
+— “Nhưng nếu con thua thì sao?”
+
+— “Thua hay thắng không quan trọng bằng việc con đã dũng cảm đối mặt với thử thách. Nếu con thua, con có thể rút ra bài học và cố gắng hơn vào lần sau.” Mẹ Tôm động viên.
+
+Tôm hít một hơi thật sâu, rồi bắt đầu vẽ. Em vẽ một bức tranh về khu vườn nhà mình, với những bông hoa rực rỡ và những chú chim hót líu lo.
+
+Sau khi nộp tranh, Tôm hồi hộp chờ đợi kết quả. Kết quả là… em không đoạt giải.
+
+Tôm buồn bã, mắt lại rơm rớm.
+
+— “Mẹ ơi, con thua rồi…”
+
+Mẹ Tôm ôm con vào lòng.
+
+— “Không sao đâu, Tôm. Mẹ thấy tranh của con rất đẹp. Con đã cố gắng hết mình rồi.”
+
+— “Nhưng… con muốn được giải.” Tôm khóc thút thít.
+
+— “Mẹ hiểu. Nhưng cuộc sống không phải lúc nào cũng như ý mình. Con học được gì từ cuộc thi này?”
+
+Tôm suy nghĩ một lát.
+
+— “Con…con thấy bạn nào vẽ cũng giỏi, nhất là bạn Hoa. Con… con muốn vẽ đẹp được như bạn Hoa…”
+
+— “Đúng vậy. Con đã nhận ra điểm cần cải thiện. Hãy nhìn vào những bức tranh đạt giải, học hỏi những điều hay từ họ. Đừng nản lòng, Tôm. Hãy coi đây là một bài học và tiếp tục cố gắng.”
+
+Tôm gật đầu. Em hiểu rằng, thất bại không phải là kết thúc, mà là một bước ngoặt để trưởng thành.
+
+Một ngày khác, trường Tôm thông báo về việc tổ chức buổi diễn văn nghệ. Tôm được chọn vào đội múa. Nhưng lại gặp một vấn đề khác…
+
+— “Mẹ ơi, con không thuộc bài múa! Con cứ quên động tác!” Tôm lo lắng.
+
+— “Con cứ tập trung vào luyện tập, rồi mọi thứ sẽ ổn thôi.” Mẹ Tôm khuyến khích.
+
+Tôm bắt đầu luyện tập chăm chỉ. Em tập trước gương, rồi tập cùng bạn bè. Ban đầu, em còn ngượng ngùng, nhưng dần dần, em tự tin hơn.
+
+Trong quá trình luyện tập, Tôm gặp rất nhiều khó khăn. Em bị vấp ngã, quên động tác, bị các bạn chê cười. Nhưng em không bỏ cuộc. Em nhớ lại lời mẹ dặn: “Không được nản lòng!”
+
+Đêm diễn văn nghệ đã đến. Tôm hồi hộp đến mức tim đập thình thịch. Khi đến lượt đội múa của em, Tôm run rẩy bước ra sân khấu.
+
+Em cố gắng tập trung vào từng động tác. Mặc dù vẫn có lúc vấp váp, nhưng em vẫn hoàn thành buổi diễn một cách tốt đẹp.
+
+Sau buổi diễn, Tôm thở phào nhẹ nhõm.
+
+— “Mẹ ơi, con đã làm được!”
+
+— “Tuyệt vời lắm, Tôm! Con đã vượt qua nỗi sợ hãi của mình và hoàn thành rất tốt.” Mẹ Tôm ôm con.
+
+Tôm hiểu rằng, những khó khăn trong cuộc sống là điều không thể tránh khỏi. Nhưng bằng sự kiên trì, lòng dũng cảm, và sự giúp đỡ của những người thân yêu, em có thể vượt qua mọi thử thách và trưởng thành hơn mỗi ngày. Em nhận ra, niềm vui lớn nhất không phải là chiến thắng, mà là được thử thách và học hỏi. Em biết rằng, con đường phía trước còn rất dài, nhưng em đã có những hành trang quý báu: sự tự tin, lòng tốt, và khả năng đối mặt với khó khăn.

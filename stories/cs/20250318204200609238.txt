@@ -1,0 +1,67 @@
+<prompt>
+Please write a simple and easy-to-follow Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Létající sasanka a tance světýlkující duší'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>cs</lang_id>
+
+```cs
+<title>Létající sasanka a tance světýlkující duší</title>
+<body>
+V jednom malém údolíčku, kde se sluníčko usmívalo po celý den, žila malá sasanka. Nebyla to však jen tak ledajaká sasanka. Tahle sasanka, jménem Anička, uměla létat! Neuměla to hned od začátku, samozřejmě. Zpočátku byla jako všechny ostatní sasanky – rostla na zelené louce, kolébala se ve větru a ráda pozorovala, jak si mravenci pilně pracují.
+
+Ale Anička snila o dobrodružstvích. Sledovala, jak ptáci létají nad údolím, a přála si, aby se i ona mohla dostat tak vysoko, aby viděla svět z ptačí perspektivy. Jednoho krásného rána, když se probudila do slunečního svitu, ucítila v sobě něco zvláštního. Chtělo se jí nahoru! Zavřela své jemné, bílé okvětní lístky, zhluboka se nadechla a... poprvé se zlehka nadzvedla nad zem.
+
+„Jupí!“ vykřikla radostí, i když jen v duchu. Anička se zvedla ještě výš, a pak ještě výš! Objevila se na obloze jako malá bílá tečka. Po prvotním úžasu se začala učit létat. Trochu se motala, padala dolů a zase se zvedala. Občas se srazila s mrakem, jindy se zamotala do pavučiny. Ale Anička se nevzdávala. Každý den trénovala a zkoušela nové triky.
+
+Brzy už uměla ladně tančit v proudech vzduchu. Létala nad údolím, sledovala řeku, jak se klikatí mezi kopci, a obdivovala strakaté krávy, které se spokojeně pásly na loukách. Potkala spoustu nových kamarádů. Byl tam třeba veselý čmelák Ferdinand, který byl pořád celý zaprášený pylem, a zvědavá veverka Žofie, která s Aničkou ráda závodila mezi stromy.
+
+Jednoho večera, když slunce zapadalo za hory a malovalo oblohu krásnými barvami, Anička cítila, že je v jejím životě něco důležitého, co ještě nepoznala. Cítila, že je tu nějaké tajemství, které čeká na odhalení. Vznášela se nad údolím a dívala se na svět, který se pomalu nořil do tmy. Tu se najednou začalo dít něco zvláštního. Z lesa začala vylétat malá světýlka.
+
+Nebyla to obyčejná světýlka. Měly různou barvu – zelenou, modrou, žlutou, červenou. Anička už je dříve občas viděla, jak tančí nad květy, ale tentokrát se jich shromáždilo mnohem víc. Poletovaly okolo ní a jakoby ji zvaly, aby se k nim připojila.
+
+Anička se bála. Nikdy předtím neviděla tolik světýlek najednou. Ale zároveň cítila zvědavost a touhu poznat něco nového. Jemně se přiblížila k nejbližšímu světýlku. To světýlko bylo modré a vibrovalo jemným světlem.
+
+„Kdo jste?“ zeptala se Anička tiše.
+
+Světýlko se jemně zalesklo. „Jsme duše lesa. A tančíme tance radosti a světla.“
+
+„Tanec světla?“ zeptala se Anička překvapeně. „To zní… krásně.“
+
+„Přidej se k nám,“ pozvalo ji další světýlko, tentokrát žluté, které tančilo kolem modrého. „Tance jsou pro všechny, kdo mají v srdci radost a odvahu.“
+
+Anička se nadechla a rozhodla se. Bála se, ale zároveň věděla, že tohle je to tajemství, které hledala. Jemně se roztočila a začala tančit s dušemi. Zprvu se styděla, ale pak se nechala unášet hudbou a pohybem světýlek. Tanec byl krásný! Světýlka tvořila úžasné obrazce na noční obloze. Otáčela se, prolétávala mezi sebou a tvořila složité spirály.
+
+Anička cítila, jak se její srdce raduje. Zapomněla na strach a začala se soustředit jen na pohyb a hudbu. Světýlka zpívala tichou, melodickou píseň, kterou Anička slyšela ve svém srdci. Byla to píseň o lásce, štěstí a o kráse světa.
+
+Tanec trval celou noc. Anička se cítila unavená, ale zároveň plná energie. Když se ráno probudilo slunce a světýlka se začala schovávat zpět do lesa, Anička cítila, že je proměněná. Už nebyla jen malá létající sasanka. Byla součástí něčeho většího.
+
+Rozloučila se s dušemi, slíbila, že se zase vrátí, a pomalu se snesla zpět do údolí. Sedla si na svou oblíbenou loučku, zavřela oči a vzpomínala na tanec. Ucítila, jak se v ní rozšiřuje teplo a radost. Pochopila, že tanec světýlkujících duší nebyl jen o pohybu a světle. Byl o nalezení štěstí uvnitř sebe a o spojení s ostatními.
+
+Od té doby se Anička pravidelně vracela do lesa a tančila s dušemi. Učila se nové tance a objevovala nové barvy. Učila se rozumět řeči lesa a rozumět jeho tajemstvím. Stala se spojnicí mezi světem lidí a světem duší. Pomáhala ostatním rostlinám a zvířatům, které se cítily smutné nebo osamělé.
+
+Věděla, že každý má v sobě světýlko, jen je třeba najít odvahu a nechat ho rozzářit. A ona, malá létající sasanka, jim v tom pomáhala. Povzbuzovala je, sdílela s nimi radost a ukazovala jim, jak krásný a barevný je svět.
+
+Jednou se jí Ferdinand, zvědavý čmelák, zeptal: „Aničko, jak to děláš? Jak to, že jsi pořád tak šťastná?“
+
+Anička se usmála. „Tajemství je jednoduché, Ferdinande. Musíš tančit!“
+
+„Tančit?“ divil se čmelák.
+
+„Ano, tančit,“ odpověděla Anička. „Tancovat s radostí, tancovat se světlem a tancovat se světem. Najdi si svůj tanec, Ferdinande. I ty máš v sobě světýlko, které chce tančit.“
+
+Ferdinand si chvíli promnul nohy, pak se zhluboka nadechl a začal se motat nad květy. Trochu se mu to nedařilo, ale snažil se ze všech sil. Anička ho povzbuzovala.
+
+„Takhle! Ano! Ukaž jim svůj tanec, Ferdinande!“
+
+A tak, pod dohledem Aničky, se učil Ferdinand tančit. I on objevil radost v pohybu a začal se cítit šťastněji. Postupně začali tancovat i ostatní obyvatelé údolí – veverka Žofie si vymyslela akrobatický tanec na stromech, mravenci se spojili do taneční skupiny, a i krávy začaly tancovat na louce!
+
+Anička s úsměvem sledovala, jak se její údolí proměňuje v místo radosti a tance. A věděla, že její cesta létající sasanky ještě zdaleka nekončí. Její poslání bylo prosté: sdílet světlo a radost a naučit všechny, že i ten nejmenší květina může létat a tančit s dušemi. A tak Anička létala nad údolím, tancovala se světýlky a šířila radost po celém světě. A každý večer, když slunce zapadalo, čekala na své přátele, aby s nimi mohla tančit v tancích světýlkujících duší. Protože věděla, že tanec je nejlepší způsob, jak ukázat světu, že láska a štěstí jsou v nás a kolem nás. A tak příběh Aničky, létající sasanky, pokračuje dodnes, protože tanec nikdy nekončí.
+</body>
+```

@@ -1,0 +1,37 @@
+<prompt>
+Please write a timeless Turkish children's story that is at least 1000 words long.
+It must be completely written in proper Turkish (TR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Baharın Kokusuyla Uyanan Vezirlerin Sırrı'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>tr</lang_id>
+
+<title>Baharın Kokusuyla Uyanan Vezirlerin Sırrı</title>
+<body>
+Eski, ışıl ışıl bir şehrin kalbinde, yüksek surlarla çevrili, yeşil bahçeleriyle ünlü bir saray vardı.  Sarayın etrafındaki bahçeler, baharın ilk nefesleriyle uyanır uyanmaz, bin bir çeşit çiçek açar, eşsiz bir güzellik ortaya koyardı. Her bahar, sarayın en önemli ve en yaşlı vezirleri, bu eşsiz kokuların arasında gizlenmiş bir sır ararlardı.  Bu yıl da aynıydı.  Baharın kokusu, şehre ilk umutlu soluğunu verdiği an, vezirler, kokuların gizlediği sırları çözmek için sarayın gizli bahçesine doğru yola çıktılar.
+
+Vezirlerden en yaşlısı, ihtiyar ama hâlâ keskin bir zekâya sahip olan Sadık Paşa, diğer vezirleri arkasından takip ederken, buruşuk elleriyle ince bir şekilde koku almaya çalıştı.  Hava, narin gül kokuları ve narin limon çiçeği kokuları ile doluydu.  Havada hafifçe gezen menekşe ve şakayık kokuları ise, ormanın derinliklerindeki serinliği çağrıştırıyordu. Sadık Paşa, diğer vezirler birer birer kokuyu incelerken, kendi iç sesiyle konuştu: "Acaba, bu yılki sırrın şifresi bu güzellikte mi gizli?"
+
+İkinci en yaşlı vezir, Akın Bey, kokuları her zaman mantığa dayandırıyordu.  Bahçenin farklı köşelerine gitti ve her bitkinin kokusunu dikkatle not aldı.  Sarayın eski bir el kitabına baktığında, farklı çiçeklerin bahar mevsiminde ortaya koydukları kokuları ve bunların hangi özelliklere sahip olduklarını gördü.  Bu bilgilerden hareketle kokuları haritalandırdı ve sayısız ölçüm yaparak bunların birbiriyle olan ilişkisini ortaya çıkardı.  "Demek ki, sır sayısal ilişkilerde gizli!" diye düşündü.
+
+Üçüncü vezir, Zehra Hanım ise, her zaman doğayla uyum içinde yaşardı.  Koku alma duyusunu kullanmak yerine, doğanın genel hareketlerini izliyordu.  Kuşların nasıl cıvıldadıklarını, rüzgarın nasıl esiş biçiminden, bahçenin kendisindeki değişimlere doğru bir ilişki kurdu.  Çiçeklerin nasıl açıp nasıl kıvrıldıklarını inceliyordu ve çiçeklerden gelen özlü kokuların şehre duygu, ses ve titreşimlerle ulaştığını fark etti.  Baharın can verdiği doğanın tüm güzelliğini hissettiğinde, sırın kalbinde değil, ruhta saklı olduğunu fark etti.
+
+Vezirler gün boyu bahçenin farklı köşelerinde araştırıp durdular.  Her bitkinin kokusunu, her hayvanın sesini, her rüzgar esintisiyle ortaya çıkan değişimleri ayrı ayrı incelediklerinde, içlerinde farklı bir dinginlik ve huzur hissettiler. Gün batımıyla birlikte, toplanıp çevredeki masalara yerleştiler. O gün öğrendiklerini bir bir konuştular.
+
+Sadık Paşa, her kokuyu farklı bir sayıya çevirerek haritalandırdığı bilgilerden hareketle, en olası bağlantıyı çıkarmış ve "Bu yılki sır, kokuların aritmetik oranlarını kullanarak, baharı açan evrenin kodlarında gizli..." dedi.
+
+Akın Bey, sayısal bağlantıları haritalandırdıktan sonra," Her kokunun evrene eşsiz bir mesajı var ve bu mesajların bir araya gelmesinden baharın ritmi çıkıyor." şeklinde görüş belirtti.
+
+Zehra Hanım ise daha mistik bir gözlemde bulundu," Bahar, doğanın ruhu, duygularımızın uyumsuz tonları ile hayat buluyor. Doğayı içimizde barındırdıkça, bahar ruhu tüm güzelliğini hissedebiliyor."
+
+Ulaştıkları sonuçları daha derinlemesine anlamak isteyen üç vezir, birbirlerinin bulgularını derinlemesine incelemeye başladılar. Birkaç gün, günün her saatinde bahçelerde yürüdüler, koku alma ve duyu organları aracılığıyla doğayı okumaya çalıştılar. Nihayetinde; kokuların kombinasyonunun şehre yayılan bir müzikle aynı olduğunu keşfettiler.
+
+Saraydaki her bitkinin evrene bir titreşim, bir ses gönderdiğini fark ettiler. Tüm titreşimleri inceleyerek, baharın güzelliğinin ardındaki evrensel melodiyi ortaya çıkardılar.  Her bir bitkinin, tüm ruhları uyandıran, iç huzuru çağrıştıran ve şehirde canlanan bir müzik yaratıp, onu yücelten bir sesle şarkı söylediği sonucuna vardılar.
+
+Vezirler, baharın sırlarını keşfettikleri bu günlerden sonra, bu anı sonsuza dek hatırlayacaklar ve şehri baharın güzellikleriyle dolu tutacak şekilde kararlar alacaklar. Çünkü onların farkında oldukları bu sır, dünyanın tüm canlıları için güzelliği anlatan bir müzik parçasıydı. Ve  önemli olan bu sırrı koruyarak daha huzurlu bir gelecek inşa etmekti.
+</body>

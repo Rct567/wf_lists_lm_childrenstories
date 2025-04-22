@@ -1,0 +1,107 @@
+<prompt>
+Please write a dialog-based Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Qal'aning sirli yo'llari va jasur shahzodalarning qiyinchiliklari haqida ertak.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>uz</lang_id>
+
+```xml
+<title>Qal'aning sirli yo'llari va jasur shahzodalarning qiyinchiliklari haqida ertak.</title>
+<body>
+— Salom, Azizjon! Salom, Gulnora! — dedi Shohruh, ikki do‘stini qo‘lida tutgan xaritalarni silkita boshlab. — Mana, bizning sarguzashtimiz boshlanadi!
+
+— Salom, Shohruh! — javob berdi Gulnora, ko‘zlarini hayajon bilan pirpiratib. — Qal'aning sirli yo‘llari haqidagi ertakni o‘qib, juda qiziqib qoldim. Qachon jo‘naymiz?
+
+— Ertaga ertalab! — dedi Azizjon, jiddiy ohangda. — Shoh xazinani topishga yordam berishimiz kerak, esingizda bo‘lsin. Qal'a xarobalari xavfli joylar bilan to‘la bo‘lishi mumkin.
+
+— Xavfmi? Qanaqa xavf? — so‘radi Gulnora, bir oz qo‘rquv bilan.
+
+— Har xil jonzotlar, tuzoqlar va qiyin jumboqlar, — dedi Shohruh, uning qo‘rqib ketganini sezib, — lekin qo‘rqmang, biz birgamiz! Axir biz jasur shahzodalarimiz-ku!
+
+— To‘g‘ri, — dedi Azizjon, qo‘lini do‘stlarining yelkasiga qo‘yib. — Qani, hozir xaritalarimizni ko‘rib chiqaylik. Qal'aga qanday yo‘l bilan boramiz, nimalarga e’tibor berish kerak?
+
+Uchchalasi birga xaritaga tikildi. Xarita qadimiy pergamentga chizilgan bo‘lib, sirli belgilar, turli xil yo‘llar va belgilanmagan joylar bilan to‘ldirilgan edi.
+
+— Birinchi bo‘lib, Biz daryodan o‘tishimiz kerak, — dedi Shohruh, xaritani ko‘rsatib. — Keyin esa, qorong‘i o‘rmondan o‘tamiz.
+
+— Daryo qanday bo‘ladi ekan? — so‘radi Gulnora.
+
+— Xaritada aytilishicha, juda chuqur va tez oqadigan, — javob berdi Azizjon. — Ehtiyot bo‘lish kerak.
+
+— Undan keyin qorong‘i o‘rmonmi? Qanaqangi o‘rmon ekan u? — so‘radi Gulnora, yana hayajonlanib.
+
+— U yerda sehrli hayvonlar, g‘alati daraxtlar va sirli o‘simliklar bo‘lishi mumkin, — dedi Shohruh, uning qiziqishini ko‘rib, jilmayib. — Lekin qo‘rqmang, bizning ota-bobolarimizning qilichi va sehrli qopqog‘imiz bor-ku!
+
+Ertasi kuni ertalab, uch shahzoda qal’aga yo‘l olishdi. Ularning orqasida, quyosh chiqayotgan edi.
+
+— Xo‘sh, birinchi sinov: daryo, — dedi Shohruh, qirg‘oqqa yetib kelganlarida.
+
+Daryo haqiqatan ham juda keng va tez oqar edi. Ularning qarshisida, keng oqim yovvoyi kuch bilan oqardi.
+
+— Bizga nima yordam beradi? — so‘radi Gulnora, havotir bilan.
+
+— O‘sha sehrli daraxtdan yasilgan loglar, — dedi Azizjon, sumkasidan uzun, mustahkam yog‘ochlardan yasalgan loglarni chiqarib. — Biz shulardan foydalanib daryodan o‘tishimiz kerak.
+
+Ular yog‘ochlarni birma-bir suvga tashlashdi va ularni birlashtirib ko‘prik qildilar. Lekin oqim juda kuchli edi.
+
+— Tezroq! — dedi Shohruh, ko‘prikni ushlab. — Oqim bizni olib ketmasidan!
+
+Uchchalasi qattiq harakat qildi, ko‘prikni ushlab, tezlik bilan o‘tib olishga harakat qilishdi. Bir zumda daryodan o‘tib olishdi, lekin juda charchashdi.
+
+— Zo‘r, — dedi Gulnora, yiqilib qolishdan oldin. — Endi qorong‘i o‘rmon...
+
+Uchchovlari dam olib, keyin qorong‘i o‘rmonga kirishdi. Daraxtlar juda baland, shoxlari osmonda chirmashgan edi. Quyoshning nurlari ularni ko‘zlari tushishiga xalaqit berib, yo‘llar qorong‘i edi.
+
+— Juda qorong‘u! — dedi Gulnora.
+
+— Hozir, — dedi Shohruh, sumkasidan kichik bir yaltiroq toshni chiqarib. — Ushbu tosh sehrli nur chiqaradi.
+
+Tosh nur sochib, atrofni yoritdi. Ular yo‘lda davom etishdi.
+
+Uzoq yurganlaridan keyin, ular yo‘lida juda g‘alati daraxtga duch kelishdi. Daraxtning shoxlarida yaltiroq mevasi osilib turardi.
+
+— Bu mevalar juda chiroyli ko‘rinadi, — dedi Gulnora.
+
+— Ehtiyot bo‘ling, — dedi Azizjon. — Xaritada bu mevalar sehrli bo‘lishi mumkinligi aytilgan. Ularni yemang!
+
+Lekin Shohruh mevalardan birini olib, titib ko‘rdi. Meva juda shirali va yoqimli hidli edi. U chidab tura olmadi va mevani yeydi.
+
+— Hmm, juda mazali! — dedi Shohruh, ko‘zlarini yumib.
+
+Lekin shu zahoti Shohruh o‘zgara boshladi. Uning qo‘llari shoxlarga, oyoqlari ildizlarga aylanib, u daraxtga aylanib qoldi!
+
+— Shohruh! — qichqirdi Gulnora, qo‘rquvdan.
+
+— Shohruuh! Nima bo‘ldi senga? — so‘radi Azizjon.
+
+Daraxtga aylangan Shohruh hech narsa demasdi, faqat barglari bilan shivirlar edi.
+
+— Endi nima qilamiz? — so‘radi Gulnora, yig‘lab.
+
+— Bilmayman, — dedi Azizjon, o‘zini juda aybdor his qilib. — Biz bu ahvoldan qutulish yo‘lini topishimiz kerak! Xaritaga qaraylik.
+
+Ular xaritani ochishdi va yo‘llarni qidira boshlashdi. Xaritada, daraxtdan uzoq bo‘lmagan joyda sehrli buloq borligi ko‘rsatilgan edi.
+
+— Buloq! Ehtimol, bu Shohruxni asl holiga qaytarishi mumkin! — dedi Azizjon, umid bilan.
+
+Ular zudlik bilan buloqqa yo‘l olishdi. Yo‘lda ular xavfli hayvonlarga, turli xil to‘siqlarga duch kelishdi, lekin ular jasorat bilan ulardan o‘tishdi.
+
+Nihoyat ular buloqqa yetib kelishdi. Buloqning suvi shaffof edi va nur sochardi. Azizjon buloqdan suv oldi va Shohruhning daraxtiga sepdi.
+
+Bir zumda, Shohruhning shoxlari yo‘qoldi, ildizlari oyoqlarga, qo‘llariga aylandi. U yana odam bo‘lib qoldi!
+
+— Men…men nima bo‘ldi? — so‘radi Shohruh, hayron bo‘lib.
+
+— Mevalarni yeding, sen daraxtga aylanding! Lekin biz seni qutqardik, — dedi Gulnora, quvonch bilan quchoqlab.
+
+— Rahmat, do‘stlar! — dedi Shohruh, ularga tabassum bilan qaradi.
+
+Ular qal'aga borish uchun yo'llariga davom etishdi. Keyin esa, sirli qasrdagi qiyinchiliklardan muvaffaqiyatli o‘tishdi. So‘ng oxirgi to‘siq — juda qiyin jumboqqa duch kelishdi. Ularga javob topish uchun ko‘p vaqt kerak bo‘ldi, ammo ular muvaffaqiyatli yechim topishdi va xazinani topishga muvaffaq bo‘lishdi. Ularni qanday hayajonli sarguzashtlar kutmoqda, qarang!
+</body>
+```

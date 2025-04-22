@@ -1,0 +1,69 @@
+<prompt>
+Please write a simple and easy-to-follow Italian children's story that is at least 1000 words long.
+It must be completely written in proper Italian (IT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Il Faraone Egiziano e i Segreti Svelati della Piramide Misteriosa'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>it</lang_id>
+
+```html
+<title>Il Faraone Egiziano e i Segreti Svelati della Piramide Misteriosa</title>
+<body>
+C'era una volta, in un'epoca lontana, un faraone di nome Tutankhamon, un sovrano giovane e pieno di curiosità. Tutankhamon, pur vivendo in un palazzo splendente e circondato da tesori, aveva un desiderio segreto: scoprire i misteri nascosti nella grande piramide che si ergeva maestosa nel deserto egiziano.
+
+Un giorno, mentre passeggiava nei giardini del suo palazzo, Tutankhamon incontrò un vecchio saggio di nome Imhotep, un uomo con una lunga barba bianca e gli occhi brillanti come stelle. Imhotep era conosciuto per la sua conoscenza dell'antico Egitto e per la sua capacità di decifrare i geroglifici.
+
+"Oh, grande faraone," disse Imhotep, inchinandosi. "Sento che il tuo cuore è inquieto. Cosa turba il tuo sonno?"
+
+Tutankhamon sorrise tristemente. "Saggio Imhotep, sono affascinato dai segreti della piramide. Si dice che contenga tesori inestimabili e antichi misteri, ma nessuno sembra sapere come entrare e cosa trovare."
+
+Imhotep sorrise, con una luce negli occhi. "Il faraone ha un cuore coraggioso e una mente curiosa. Io conosco un modo per accedere alla piramide, ma il percorso è pieno di prove e enigmi."
+
+Tutankhamon era entusiasta. "Sono pronto! Dimmi cosa devo fare, saggio Imhotep."
+
+Imhotep spiegò che per entrare nella piramide, Tutankhamon doveva risolvere tre enigmi, ciascuno legato a una delle antiche divinità egizie. Il primo enigma era dedicato a Ra, il dio del sole, e richiedeva di trovare il "Cuore del Sole", un amuleto d'oro nascosto nel deserto.
+
+Tutankhamon, senza esitare, convocò i suoi fidati guardie e organizzò una spedizione. Cavalcarono sui cammelli attraverso le dune di sabbia dorata, sotto il caldo sole cocente. Dopo giorni di ricerca, finalmente, individuarono una piccola oasi nascosta. In cima a una palma alta, scintillava il Cuore del Sole. Le guardie, con l'aiuto di una scimmietta agile e furba, riuscirono a recuperare l'amuleto.
+
+Tornarono al palazzo, orgogliosi del loro successo. Tutankhamon mostrò l'amuleto a Imhotep, che sorrise e lo incoraggiò per il passo successivo.
+
+Il secondo enigma era dedicato a Osiride, il dio della fertilità e della vita dopo la morte. Per risolvere questo enigma, Tutankhamon doveva trovare il "Fiore dell'Eternità", un fiore magico che sbocciava solo una volta ogni cento anni in un'oasi nascosta nel deserto.
+
+Questa volta, Tutankhamon decise di avventurarsi da solo, per dimostrare la sua audacia. Indossò una tunica leggera e prese con sé una scorta d'acqua. Dopo aver camminato per giorni, il faraone, sfinito e assetato, era quasi pronto a rinunciare. Ma proprio quando stava per arrendersi, avvistò una minuscola oasi, nascosta tra le rocce. Lì, in mezzo a piante lussureggianti, sbocciava un unico, bellissimo fiore viola. Era il Fiore dell'Eternità! Tutankhamon raccolse delicatamente il fiore e tornò al palazzo, il cuore pieno di gioia e gratitudine.
+
+Il terzo e ultimo enigma era dedicato a Iside, la dea della magia e della protezione. Per risolverlo, Tutankhamon doveva trovare la "Chiave della Piramide", un antico oggetto di potere custodito da un enigma.
+
+Imhotep gli rivelò che la Chiave si trovava all'interno di una stanza segreta, protetta da un indovinello inciso su un obelisco di pietra. Il testo diceva: "Sono senza voce, ma posso parlare. Sono senza corpo, ma posso mostrare. Chi sono?"
+
+Tutankhamon rifletté attentamente sull'enigma. Ci pensò per giorni, leggendo libri antichi e consultando i saggi della sua corte. Finalmente, la risposta gli apparve chiara: "Lo specchio!"
+
+Con l'aiuto di una squadra di esperti, Tutankhamon individuò la stanza segreta, nascosta dietro un falso muro nel tempio. All'interno, trovò un grande specchio di bronzo, ornato con intarsi d'oro e gemme preziose. Dietro lo specchio, scoprirono la Chiave della Piramide, un piccolo pendente a forma di occhio, intagliato in giada verde.
+
+Con le tre prove completate, Tutankhamon, accompagnato da Imhotep e dalle sue guardie, si recò alla piramide. Utilizzando la Chiave della Piramide, aprirono l'entrata segreta, un passaggio nascosto tra le grandi pietre.
+
+Entrarono nella piramide, in un mondo di mistero e meraviglia. Camminarono attraverso stretti corridoi, illuminati dalle fioche luci delle torce. I muri erano ricoperti di geroglifici colorati, che raccontavano storie di faraoni e dei.
+
+Raggiunsero la camera sepolcrale, dove sarcofagi dorati brillavano nella penombra. Al centro della stanza, c'era una grande sala, e nel centro c'era un sarcofago di pietra, ricoperto di geroglifici.
+
+"Questa è la tomba del faraone," spiegò Imhotep. "Ma all'interno c'è anche un tesoro, un segreto custodito da secoli."
+
+Con cautela, aprirono il sarcofago. All'interno, non c'era solo la mummia del faraone, ma anche oggetti di straordinaria bellezza: gioielli scintillanti, statue d'oro e vasi preziosi. Ma il tesoro più grande era nascosto in una pergamena antica, avvolta in seta pregiata.
+
+Tutankhamon lesse la pergamena con attenzione. Rivelava i segreti dell'arte egizia, della scienza e della medicina. Conteneva conoscenze incredibili, come le tecniche per la costruzione di piramidi e le cure per le malattie.
+
+"Questo è più prezioso di qualsiasi oro," disse Tutankhamon, ammirando la pergamena. "La conoscenza è il tesoro più grande."
+
+Da quel giorno, Tutankhamon governò l'Egitto con saggezza, usando la conoscenza scoperta nella piramide per il bene del suo popolo. Fece costruire scuole, biblioteche e ospedali, e il suo regno divenne un esempio di prosperità e conoscenza.
+
+La piramide, dopo la sua esplorazione, divenne un luogo di studio, aperto a saggi e studiosi di tutto il mondo. E il faraone Tutankhamon, il giovane sovrano curioso, fu ricordato non solo per il suo regno d'oro, ma anche per la sua sete di conoscenza e per aver svelato i segreti della piramide misteriosa.
+
+E così, la storia del faraone Tutankhamon e dei segreti della piramide rimase nel cuore di tutti, un racconto di avventura, coraggio e della sete di conoscenza, tramandato di generazione in generazione. La piramide, un tempo un mistero, ora era un simbolo di saggezza e illuminazione, grazie al coraggio di un giovane faraone.
+
+E vissero tutti felici e contenti, o almeno, i cittadini dell'Antico Egitto vissero più prosperi e più saggi.
+</body>
+```

@@ -1,0 +1,29 @@
+<prompt>
+Please write a fun and entertaining Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'To'rt aka-uka va ularning sarguzashtlari'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>To'rt aka-uka va ularning sarguzashtlari</title>
+<body>
+To'rt aka-uka –  Bobur, Farhod, Jamshid va Zafar –  bir-biridan ko'p farq qilmasalar ham, har biri o'ziga xos xususiyatlarga ega edilar. Bobur eng katta aka edi, va u juda aqlli va o'ychan edi. Farhod esa, tezkor va bezovtalanuvchan edi.  Jamshid esa, juda mehribon va halol edi, har doim yaxshilik qilishni istardi. Zafar esa, eng kichkinasi bo'lib, har qanday yangilikni  qiziqish bilan kuzatib borardi.  Ularning uyida, qoraqarag'ay daraxtining yonida, shoshilib o'tkaziladigan,  kuygan qora non bilan mazali tovuq go'shti yeyiladigan  oilaviy ovqatlar, har doim  ularning qalblarini quvontirib turardi.
+
+Bir kuni, ularning otasi ularga bir narsa borligini aytdi.  Ularga  uzoq tog'larda o'sadigan, afsonaviy "Dunyoyiq qoraqarag'ay" deb nomlanadigan daraxt borligini aytdi.  Bu daraxtning barglari,  juda ko'p foydali  va davolaydigan xossalarga ega edi.  Ular otasining ko'zlarida shunchalik ko'p umid ko'rdilarki, shu qadar ishtiyoq bilan  qo'llarini  qo'shib,   yangi sarguzashtlarga chiqishga tayyorgarlik ko'rdilar.  Otasi ularga  yulduzlarning yorqinligi  bilan  yo'nalish ko'rsatadigan,  yuqori tog'larga  ko'tarila oladigan,  qudratli  toqqa chiqishga o'xshash qor qoplamali to'rtta otni berdi.
+
+Sayohat boshlandi.  Bobur, o'ychan  va  ijodiylik bilan yo'nalishni belgilashni o'z zimmasiga oldi. Farhod esa,  o'zining  tezkorligi bilan yo'lda ularga  juda ko'p yangiliklarni topishga yordam berdi.  Jamshid, har doim barchaga yordam berishni istab, ularning orqasidan  qudratli va yaxshi niyat bilan ergashdi.  Zafar esa,  har doim  qiziqarli  va yangi narsalarni kuzatib bordi.  Ularning yo'lida  baland tog'lar bor edi, shamol qattiq urardi va  qor to'siqlari paydo bo'ldi, lekin  ular do'stlik bilan  har bir qiyinchilikdan o'tdilar.
+
+Bir kuni, ular juda baland va  qor bilan qoplangan tog'da  tushdi.  Ular  uyquga botdilar va uyg'onganlari safarlari davomida,  "Dunyoyiq qoraqarag'ay" daraxtining  yonida  o'zlari  to'xtab turganini  payqadilar.  Daraxtning soyasi ularni  quchoqlab turar edi.  Ular o'zlarining ko'p mehnati va do'stliklari  bilan  boshdan kechirgan  yangi  sarguzashtni  o'zlarining  ko'ngillari bilan  qabul qildilar.
+
+Daraxtning barglari juda ko'p foydali  xuddi   otalarining gaplariga o'xshab,  shifobaxsh edi.  Ular  barglarni to'plab,  qaytib ketishga kirishdilar.  Yo'lda ular juda ko'p foydali narsalarni ko'rdilar.  Ular  qudratli  toqqa chiqishga o'xshash otlar bilan  tomonlariga  shoshilib  qaytdilar.  Ular  uyga  quvonch bilan  qaytib ketishdi.
+
+Uyga  qaytganda, ular o'zlarining  otalariga  "Dunyoyiq qoraqarag'ay"  daraxtining  barglarini  berishdi.  Ota,  ularning  sarguzashtlarini   eshitib,  ularning  qalblarini  qo'llab-quvvatlashgan  uchun  kattalarcha  taqdirlaydi  va  o'zlarining  qo'llaridan  o'pdi.  Oila  birgalikda,  daraxtning  shifobaxsh barglaridan tayyorlangan  mazali  oziqlanish  bilan  quvnoq va  baxtli bir  ovqat  tashkil qildi.
+
+Bobur, Farhod, Jamshid va Zafar, har doim  o'z  sarguzashtlarini  eslab,  o'zlarining do'stliklarini  hamisha  qadrladilar.  Ular  bilishdi  ki,  sarguzashtlar  ular  bilan  birgalikda  bir  oq  yulduzni  yo'qotadi  va  ko'proq  baxt  keltiradi.  Do'stlik va  yaxshilik ularning  har bir qadamini  yoritdi,  ularning  o'zlarining  yo'llarida  dunyoni  qidirib  topdi.
+</body>

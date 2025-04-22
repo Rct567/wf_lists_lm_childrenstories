@@ -1,0 +1,51 @@
+<prompt>
+Please write a silly Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Ilveksen Illallisjuhla: Juhlatunnelma Ja Unohtumattomat Yllätysvieraat.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fi</lang_id>
+
+```xml
+<title>Ilveksen Illallisjuhla: Juhlatunnelma Ja Unohtumattomat Yllätysvieraat.</title>
+<body>
+Kerran, kauan sitten, suuressa ja vehreässä metsässä, asui ilves nimeltä Ilpo. Ilpo oli oikein mainio ilves – sellainen, joka piti juhlista, huumorista ja ennen kaikkea hyvästä ruoasta. Ja mikä parasta, Ilpo oli päättänyt järjestää illallisjuhlan, kaikkien aikojen suurimman ja hauskimman illallisjuhlan!
+
+Ensimmäinen asia, mikä Ilpon piti hoitaa, oli kutsujen lähettäminen. Hän istui tukevalla männyn juurella, otti esiin suurikokoisen, itse tehtyyn hirvensorkkaan kiinnitetyn höyhenkynän ja alkoi rustata kutsuja. "Rakas Karhu, olet tervetullut illallisjuhlaani, jossa on tarjolla herkullisia herkkuja ja paljon naurua! Ilpo." Sitten hän lähetti kutsun Oravaiselle, Jänikselle, Kettu Kustaa Kärppäselle ja jopa jöröilevälle Metsäpeuralle, joka harvoin suostui mihinkään sosiaaliseen tapahtumaan. Jokainen kutsu oli koristeltu värikkäillä kivillä ja pienillä höyhenillä, jotka Ilpo oli kerännyt lentäviltä ystäviltään.
+
+Seuraavaksi Ilpon piti päättää ruokalista. Hänellä oli mielessään mahtava menu: alkupaloina maukkaita marjoja ja sieniä, pääruokana paahdettua lohta, joka oli pyydetty aamunkoitteessa salaisesta järvestä, ja jälkiruoaksi mehevää hunajakakkua, joka oli koristeltu marjoilla ja kermavaahdolla – eli paremminkin "vaahtokermalla" – jota hän aina kutsui "pilvikermaksi".
+
+Ilpo kävi läpi koko metsän keräämässä parhaat raaka-aineet. Hän pyysi Oravaiselta keräämään marjoja, Jänikseltä etsimään herkullisimmat sienet ja Ketulta etsimään salaisen järven, jossa lohi asusteli. Metsäpeura, vastoin kaikkia odotuksia, tarjoutui avuksi ja toi mukanaan suurimmat ja makeimmat marjat, mitä Ilpo oli koskaan nähnyt. Hänellä oli sydämessään pieni pehmeä kohta illan juhlaa varten.
+
+Illallispöytä, joka oli katettu suurikokoiselle tasaiselle kivelle, oli todella näyttävä. Ilpo oli koristellut sen lehvillä, kukilla ja loistavilla hämähäkinseittien nauhoilla, jotka hän oli löytänyt aamuiselta retkeltä. Kivet olivat kiillotettuja ja heijastivat auringonvaloa, luoden juhlavan tunnelman. Hän asetteli kullatut maljat ja syömävälineet huolellisesti paikoilleen – jokaista vierasta varten yksi ja samalla varmisti, että niitä oli helposti saatavilla, mikäli joku halusi "testata" niitä hieman ennenaikaisesti.
+
+Kun ilta alkoi lähestyä, alkoivat vieraat saapua. Ensimmäisenä saapui Karhu, jonka maha korisi odotuksesta. Hän oli koristautunut kaulassaan olevalla nauhalla, jonka Ilpo oli hänelle antanut. Sitten saapuivat Oravainen ja Jänis, ja viimeisenä Kettu ja Metsäpeura. Jokainen toivotti Ilvolle hyvät illanjatkot ja ihaili juhlatunnelmaa.
+
+Illallisjuhlat alkoivat. Ensin nautittiin alkupaloja – värikkäitä marjoja, sieniä ja muita herkkuja. Karhu ahmisi niitä innokkaasti, kun taas Jänis oli hieman arka niiden suhteen ja kokeili niitä varovaisesti. Oravainen, ilman pientä väliä, söi niin monta marjaa kuin pystyi, ja Kettu ihmetteli yllättyneenä muiden herkkujen mieltämistä. Metsäpeura vain hymyili tyytyväisenä.
+
+Pääruoka, paahdettu lohi, oli seuraava vaihe. Ilpo kantoi suuren vadin herkullista kalaa pöytään ja jakoi sitä kaikille. Jopa Jänis, joka ei yleensä pitänyt kalasta, maistoi sitä ja piti sitä erittäin maukkaana! Karhu söi lohen kokonaisena – yhtenä suupalana, tai ainakin siltä näytti! Kettu Kustaa Kärppänen ihmetteli, missä kalat olivat tehneet matkansa järvestä kyseiselle vadille, ja piti asiaa varsin suurena mysteerinä.
+
+Ja sitten… jessus, jälkiruoka! Hunajakakku, joka oli koristeltu marjoilla ja pilvikermalla, toi kaikki yhteen! Jokainen vieraista otti omaa osaa kakkua, ja melkein kaikki söivät sen kerralla! Karhu sai kakusta tahmatassut, Oravainen, päänsä, Jänis ja Metsäpeura vain kiittelivät ja nauroivat.
+
+Yhtäkkiä juhlan aikana kuultiin kova pamaus! Ja sitten… oho! Taivaalla välähti valoja, ja pudotus! Kaikki katselivat hämmästyneinä taivaalle. Ilpo tiesi, että hänen ystävänsä, Viisas Pöllö, oli ilmoittanut yllätysvieraiden saapumisesta. Sieltä pudottuivat… muutama kymmenen… SARVIKÄRSPÄNEN.
+
+"SARVIKÄRSPÄSET? Mutta mitä ihmettä he tekevät täällä?", Ilpo kysyi hämmästyneenä.
+
+Viisas Pöllö, joka laskeutui juuri hänen vierelleen, virkkoi: "No, rakas Ilpo, minä ajattelin, että illallisjuhlastasi puuttuisi jotain…" Hän hymyili salaperäisesti.
+
+Sarvikärpäset, nähtyään kakkunsa ja muut herkkunsa, innostuivat ja alkoivat juhlia, pyörimään ja tanssimaan – aivan kuin se oli osa tanssijoiden tanssia, jota Ilpo ei koskaan ollutkaan ajatellut. Ja he keksivät omituisia leikkejä ja ilonpitoja, jotka vetivät mukaan kaikkia – jopa metsäpeura, joka ei yleensä koskaan osallistunut juhliin, alkoi loikkia ja hypellä villisti! Kettu, Oravainen, Jänis ja Karhu liittyivät ilonpitoon. Jopa Ilpo nauroi niin kovaa, että hänen mahansa taisi hieman kipeytyä.
+
+Juhlat jatkuivat pitkälle yöhön. Tarinoita kerrottiin, laulettiin hassuja lauluja, ja naureskeltiin hulluimmille asioille. Juhlaa ei lopetettu ennen kuin viimeinen sarvikärpänen lähti ja aurinko alkoi nousemaan idästä.
+
+Aamun koittaessa, kun kaikki olivat jo uupuneita ja väsyneitä, mutta silti onnellisia, Ilpo istui uudestaan kivelle. Hän tarkasteli ympäristöään ja hymyili leveästi. Hän huokaisi syvään ja ajatteli. Se oli ollut täydellinen ilta. Ystävät, hyvää ruokaa ja sarvikärpäsiä.
+
+Ilpo ajatteli kaikkea. Vaikka yllätysvieraat olivatkin hieman… odottamattomia, he toivat juhliin aivan uudenlaista hauskuutta. Ja juuri se oli kaiken A ja O: pitää hauskaa, ystävien kanssa, hyvällä ruoalla. Hän tiesi, että tätä illallista ei koskaan unohdettaisi.
+
+Ja Ilpo, iloinen ilves, päätti, että seuraavana vuonna hän järjestäisi vieläkin suuremman ja hauskemman juhlan. Hän ei vain vielä tiennyt, mitä yllätyksiä tuleva vuosi toisi tullessaan, mutta hän tiesi, että ne olisivat varmasti mielettömiä ja nauruntäyteisiä. Ehkä hän jopa kutsuisi sarvikärpäsiä uudestaan! Lopuksi hän hymyili. Ja asettui nukkumaan aurinkoiseen aamuun. Kukaan ei uskonut sen olevan totta, mikäli sattuisi näkemään, kuinka hiljaa ja levollisesti hän hengitti... ja hymyili unen ja valveen rajamailla. Lopulta hän nukahti rauhallisesti, iloisena ja tyytyväisenä siitä, että hänellä oli niin hyviä ystäviä. Juhla oli ollut täydellinen. Ja hänellä oli varmasti upeita unia!
+</body>
+```

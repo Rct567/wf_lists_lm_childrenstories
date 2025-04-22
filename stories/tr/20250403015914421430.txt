@@ -1,0 +1,65 @@
+<prompt>
+Please write a dialog-based Turkish children's story that is at least 1000 words long.
+It must be completely written in proper Turkish (TR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kahraman Çocuklar ve Karanlıkta Büyüyen Ağaçlar'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>tr</lang_id>
+
+```xml
+<title>Kahraman Çocuklar ve Karanlıkta Büyüyen Ağaçlar</title>
+<body>
+<p>Minik Ece ve cesur Can, köyün en iyi arkadaşlarıydı. İkisi de güneş doğar doğmaz uyanır, gün boyu köyün sokaklarında koştururlardı. Ece'nin kıpkırmızı saçları rüzgarda dans ederken, Can'ın güler yüzü tüm kasabaya neşe saçardı. Ama bu güzel günler, köyün kalbi sayılan, karanlık ormanın içindeki büyülü ağaçlar solmaya başladığında gölgelendi.</p>
+
+<p>Bir sabah, Ece ve Can, her zamanki gibi oyun oynamak için köy meydanında buluştu. Ancak köy meydanı her zamanki gibi değildi. Etrafta bir hüzün havası vardı. İnsanların yüzleri asılmış, sohbetler kesilmişti. Ece, merakla annesine yaklaştı.</p>
+
+<p>"Anneciğim, neden herkes bu kadar üzgün?" diye sordu Ece.</p>
+
+<p>Annesi gözyaşlarını silerek, "Canım kızım, büyülü ağaçlarımız hastalandı. Yaprakları sararıyor, meyveleri kurumaya başladı. Köyümüzü koruyan o güzel ağaçlar, yavaş yavaş ölüyor," dedi.</p>
+
+<p>Can, annesinin sözlerini duyunca, "Olur mu öyle şey? Büyülü ağaçlar ölemez! Onları kurtarmalıyız!" dedi.</p>
+
+<p>Ece de Can'ı destekledi, "Evet, haklısın! Biz bir şeyler yapmalıyız! Köyümüzü kurtarmak zorundayız!"</p>
+
+<p>İki arkadaş, hemen bir plan yapmaya karar verdi. İlk olarak, köyün en yaşlı bilgini, Dede Ali'ye gittiler. Dede Ali, uzun beyaz sakalı ve bilge gözleriyle, köyün en eski sırlarını bilirdi.</p>
+
+<p>"Dede Ali," dedi Can, "Büyülü ağaçlar hasta. Onları kurtarmak için ne yapabiliriz?"</p>
+
+<p>Dede Ali, ağır adımlarla onlara yaklaştı ve gülümsedi. "Sevgili çocuklarım, ağaçları kurtarmak için bir kehanet var. Ama bu kehaneti gerçekleştirmek kolay olmayacak. Karanlık ormana gitmeniz ve karanlıkta parlayan tohumları bulmanız gerekiyor," dedi.</p>
+
+<p>"Karanlıkta parlayan tohumlar mı?" diye sordu Ece, şaşkınlıkla.</p>
+
+<p>Dede Ali, "Evet. Bu tohumlar, büyülü ağaçların yeniden canlanmasını sağlayacak tek şey. Ancak karanlık orman tehlikeli. Yaratıklar ve tuzaklarla dolu," diye açıkladı.</p>
+
+<p>Can, korkmadan, "Biz cesuruz! Gideriz!" dedi.</p>
+
+<p>Ece de arkadaşına destek oldu. "Evet, biz başarabiliriz! Köyümüzü kurtaracağız!"</p>
+
+<p>Bunun üzerine, Dede Ali, onlara kehanet hakkında bilgi verdi. Kehanete göre, karanlık ormanda üç zorluğun üstesinden gelmeleri gerekiyordu. İlk olarak, Yalanlar Köprüsü'nden geçmeleri gerekecekti. İkinci olarak, Suskunluk Mağarası'nda sessiz kalmaları gerekecekti. Ve son olarak, Gölge Ejderhası ile savaşmaları gerekecekti. Dede Ali, onlara bu zorluklarda yardımcı olmaları için büyülü bir fener ve bir de koruyucu tılsım verdi.</p>
+
+<p>Hazırlıklarını tamamlayan Ece ve Can, ertesi gün karanlık ormana doğru yola koyuldu. Ormanın girişi kasvetli ve ürkütücüydü. Ağaçlar, kalın dallarıyla gökyüzünü kapatıyor, güneş ışığının içeri girmesini engelliyordu. Kuş sesleri kesilmiş, sessizlik ürkütücü bir hal almıştı.</p>
+
+<p>İlk zorluk, Yalanlar Köprüsü'ydü. Köprü, çok dar ve dengesizdi. Etrafında ise derin bir uçurum vardı. Köprüde yalan söyleyenler, uçuruma düşecekti. Can, köprünün başında durdu ve "Dikkatli olmalıyız. Yalan söylemek yok," dedi.</p>
+
+<p>Ece başını salladı, "Kesinlikle. Yalan söylersek başarısız oluruz."</p>
+
+<p>Birlikte köprüye adım attılar. Köprü sarsılıyordu ve rüzgar sert esiyordu. Ece ve Can, zorlukla ilerliyordu. Bir an, Can tökezledi. "Düşeceğim!" diye bağırdı.</p>
+
+<p>Ece hemen onu tuttu, "Sakin ol! Bana güven. Başarabiliriz!"</p>
+
+<p>İkisi de birbirlerine destek olarak, yalan söylemeden, köprüyü geçmeyi başardı.</p>
+
+<p>İkinci zorluk, Suskunluk Mağarası'ydı. Mağara, karanlık ve sessizdi. İçeride konuşanlar, lanetlenecekti ve yolunu kaybedecekti. Ece ve Can, sessizce mağaraya girdi. Duvarlar, soğuk ve nemliydi. Kulaklarını saran sessizlik, ürkütücüydü. İçeride hiçbir ses duymadan, birbirlerine işaret ederek ilerlemeye başladılar. Karanlıkta kaybolmamak için birbirlerine yakından tutundular. Uzun bir yürüyüşün ardından, mağaradan çıkmayı başardılar.</p>
+
+<p>Son zorluk, Gölge Ejderhası ile savaştı. Ejderha, devasa boyutlarda ve simsiyah tüylerle kaplıydı. Gözlerinden ateşler saçıyordu. Can, tılsımı eline aldı ve ejderhaya doğru bağırdı, "Dur! Köyümüze zarar veremezsin!"</p>
+
+<p>Ejderha, öfkeyle kükredi ve ateş püskürttü. Ece, büyülü feneri yakarak, ejderhanın gözlerini kamaştırdı. Bu sayede, Can ejderhaya yaklaştı ve tılsımı ejderhanın kalbine sapladı. Ejderha, acıyla inledi ve yere yığıldı.</p>
+
+<p>Ejderhayı yendikten sonra, Ece ve Can, kehanette bahsedilen karanlıkta parlayan tohumları buldu. Tohumlar, küçük, parıldayan tanelerdi. Hemen köye geri döndüler. Köye geldiklerinde, tüm köylüler onları sevinçle karşıladı. Ağaçların etrafında toplandılar ve tohumları toprağa ektiler. Kısa bir süre sonra, tohumlar filizlendi ve büyülü ağaçlar yeniden canlanmaya başladı. Yaprakları yeşerdi, meyveleri kızardı. Köy, eski neşesine kavuştu. Ece ve Can, kahraman olarak köy halkının kalplerinde taht kurmuştu. O günden sonra, köyde her zaman neşe ve mutluluk hakimdi. Ece ve Can, büyülü ağaçların gölgesinde, dostluklarının ve cesaretlerinin simgesi olarak, hayatlarına mutlu bir şekilde devam etti.</p>
+</body>
+```

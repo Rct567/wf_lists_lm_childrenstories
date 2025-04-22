@@ -1,0 +1,39 @@
+<prompt>
+Please write a silly Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A Tündérek Titkos Szövetsége és a Sötét Erő'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>A Tündérek Titkos Szövetsége és a Sötét Erő</title>
+<body>
+Kis, csillogó, zöld tó partján, ahol a nádas susogott, és a virágok édes illata terjengett, élt egy vidám tündérnép.  A tündérek, akik apró, csillogó szárnyakkal repkedtek, és virágokból fonták a ruháikat,  egy titkos szövetséget alkottak.  A szövetség célja volt a világ megóvása a Sötét Erőtől, mely egyre nagyobb hatalomra tett szert a szomszédos, sötét erdőben.
+
+A szövetség vezetője, a bölcs és tapasztalt Aranyhaj, egy ragyogó, aranyszínű hajú tündér volt.  Aranyhaj mindig bölcs tanácsokkal látta el a társait, és mindig a legjobbat kereste minden helyzetben.  A szövetség másik fontos tagja volt a vidám és játékos Zöldszem, akinek zöld szemei csillogtak, mint a gyöngyök. Zöldszem volt a leggyorsabb és legfürgébb a tündérek között, mindig a legnehezebb feladatokkal bízták meg.  És persze ott volt a bölcs és megfontolt Kékvirág, akinek a kék virágból font ruhája mindig tökéletesen illett hozzá. Kékvirág mindig a legpontosabb számításokat végezte, és a legbonyolultabb problémák megoldója volt.
+
+Egy nap, amikor a nap aranyló sugarai átszűrték a nádason, egy furcsa zúgás hallatszott a sötét erdő felől. A zúgás egyre erősödött, és a tündérek megértették, hogy a Sötét Erő közeledik.  Aranyhaj azonnal összehívta a szövetség tagjait.
+
+"A Sötét Erő elhatalmasodik! - mondta, hangja rezgett a félelemtől és a határozottságtól. -  Meg kell állítanunk!"
+
+Zöldszem, a fürge tündér, azonnal felugrott. "Ne féljetek, vezetőnk! Én majd felderítem a sötét erdő titkait!"  És el is indult, szárnyai villogtak a levegőben.
+
+Kékvirág, a bölcs tündér, elővette a csillagporral írt naplóját, és elkezdte a Sötét Erő erejének és terjedésének elemzését.  "A Sötét Erő egyre nagyobb erejű, de a gyökerei még nem teljesen megerősödtek. Meg kell találnunk a gyenge pontját!"
+
+Aranyhaj felnézett a sötét erdő felé.  "Zöldszem, mit találtál?"
+
+Zöldszem visszatért, és elmondta, hogy a Sötét Erő egy hatalmas, fekete szőlővel borított sziklában lakozik. A szőlő minden érintése sötétséggel töltötte meg a környezetét.
+
+"A szőlő a Sötét Erő tápláléka. Ha megállítjuk a táplálékát, megállíthatjuk a Sötét Erő terjedését!" - mondta Kékvirág.
+
+Ezután megkezdődött a tündérek küzdelme. Zöldszem megtalálta a szőlő gyökereit, és a gyökerek felszínre hozásához szükséges varázslatokat alkalmazta.  Kékvirág pedig a szőlő gyökereinek gyengeségeit elemezte, és Aranyhaj a leghatékonyabb gyógyító varázslatokat alkalmazta a sérült tündérek gyógyítására.
+
+Hosszas küzdelem után, mikor a nap már kezdett lemenni, Zöldszem sikerrel megtalálta a szőlő gyökereinek gyenge pontját. Kékvirág pedig megalkotta a varázslatot, amely elpusztította a szőlő gyökereit. A fekete szőlő elszáradt, a Sötét Erő pedig gyengült.
+
+A tündérek ünnepeltek.  A szövetség győzelmet aratott a Sötét Erő felett. A tündérkirályság békéje biztosítva volt. A kis, csillogó, zöld tó partján, ahol a nádas susogott, és a virágok édes illata terjengett, újra béke és harmónia uralkodott.  És a tündérek tudták, hogy a szövetségük örökké élni fog, hiszen a világ megóvása a közös feladatuk.
+</body>

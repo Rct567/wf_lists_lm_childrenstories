@@ -1,0 +1,42 @@
+<prompt>
+Please write a silly Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Pieni lintu ja suuri muuttomatka: matka uusille seikkailuiden poluille.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>fi</lang_id>
+
+<title>Pieni lintu ja suuri muuttomatka: matka uusille seikkailuiden poluille.</title>
+<body>
+Olipa kerran pieni lintu nimeltä Pikku. Pikku asui kauniissa metsässä, joka oli täynnä puuta, kukkia ja eläimiä. Hänellä oli kauniit siniset siivet ja kirkkaat mustat silmät. Pikku rakasti lentää ja tutkia metsää, ja hän oli aina valmis uusiin seikkailuihin.
+
+Eräänä päivänä Pikku kuuli vanhemmiltaan, että heidän perheensä piti muuttaa etelään talven tuloon. Pikku oli aluksi surullinen, koska hän ei halunnut jättää kotimaataan ja ystäviään. Mutta vanhemmat selittivät hänelle, että muutto oli tarpeen, jotta he voivat selviytyä talvesta ja löytää uusia ravinnonlähteitä.
+
+Pikku päätti olla urhea ja auttaa perhettään valmistautumaan muuttoon. Hän alkoi kerätä ruokaa ja vettä, ja hän opetteli vanhemmiltaan miten navigoida ja löytää oikean reitin etelään. Muuton päivä saapui, ja Pikku lähti perheensä kanssa matkalle.
+
+He lentävät yli kauniiden maisemien, joissa oli järviä, jokia ja vuoria. Pikku näki monia uusia asioita, ja hän oli aina utelias ja innostunut. Hän tapasi monia uusia eläimiä, kuten hirviä, karhuja ja jäniksiä. Hän oppi heidän kielensä ja tapasi heidän ystäviään.
+
+Eräänä päivänä, kun he olivat lentämässä yli suuren järven, Pikku näki kauniin saaren. Saari oli täynnä palmupuita, hiekkarantaa ja kristallinkirkasta vettä. Pikku oli heti rakastunut saareen, ja hän pyysi vanhempiaan laskeutumaan sinne lepäämään.
+
+Vanhemmat suostuivat, ja he laskeutuivat saaren rannalle. Pikku alkoi tutkia saarta, ja hän löysi monia uusia asioita, kuten helmiä, koralleja ja merikilpikonnien pesiä. Hän tapasi myös saaren asukkaat, jotka olivat ystävällisiä ja avoimia lintuja.
+
+Pikku viihtyi saarella hyvin, ja hän ei halunnut jättää sitä. Mutta vanhemmat muistuttivat hänelle, että heidän piti jatkaa matkaa etelään. Pikku oli aluksi surullinen, mutta hän tiesi, että hänellä oli edessään uusia seikkailuja ja kokemuksia.
+
+He jatkoivat matkaa, ja Pikku löysi uusia ystäviä ja uusia paikkoja. Hän oppi uusia taitoja, kuten miten rakentaa pesän ja miten etsiä ruokaa. Hän myös oppi miten selviytyä vaaroista, kuten petoeläimistä ja myrkyllisistä kasveista.
+
+Lopulta, kun talvi alkoi tulla, Pikku ja hänen perheensä saapuivat etelään. He löysivät kauniin ja lämpimän paikan, jossa he voivat asua talven ajan. Pikku oli onnellinen, koska hän tiesi, että hän oli löytänyt uuden kodin ja uudet ystävät.
+
+Kun talvi alkoi hellittää, Pikku ja hänen perheensä alkoivat suunnitella paluuta kotiin. Pikku oli aluksi surullinen, koska hän ei halunnut jättää uutta kotiaan ja ystäviään. Mutta hän tiesi, että hänellä oli edessään uusia seikkailuja ja kokemuksia.
+
+He lähtivät paluumatkalle, ja Pikku löysi uusia paikkoja ja uusia ystäviä. Hän oppi uusia taitoja, kuten miten lentää korkealla ja miten navigoida ilman apuvälineitä. Hän myös oppi miten selviytyä erilaisista sääolosuhteista, kuten tuulista ja sateista.
+
+Lopulta, kun kevät alkoi tulla, Pikku ja hänen perheensä saapuivat kotiin. Pikku oli onnellinen, koska hän tiesi, että hän oli löytänyt uuden kodin ja uudet ystävät. Hän myös tiesi, että hänellä oli edelleen uusia seikkailuja ja kokemuksia edessään.
+
+Pikku otti vanhempiaan kiinni ja kiitti heitä kaikista uusista kokemuksista ja ystävistä, jotka hän oli saanut. Vanhemmat olivat ylpeitä Pikusta, koska hän oli osoittanut itsensä rohkeaksi ja urheaksi. He tiesivät, että Pikku oli valmis kohtaamaan uusia haasteita ja seikkailuja, ja he olivat varmoja, että hän menestyisi elämässä.
+
+Ja niin, Pikku jatkoi elämäänsä metsässä, aina valmis uusiin seikkailuihin ja kokemuksiin. Hän lensi yli puuston, tutki uusia paikkoja ja tapasi uusia ystäviä. Hän oli onnellinen ja tyytyväinen, koska hän tiesi, että hänellä oli edessään koko elämä täynnä uusia seikkailuja ja kokemuksia.</body>

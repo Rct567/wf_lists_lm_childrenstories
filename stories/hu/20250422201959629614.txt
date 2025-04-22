@@ -1,0 +1,61 @@
+<prompt>
+Please write a uncomplicated Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kiskutya Csoki, aki megtalálta a boldogságot az új gazdijával azonnal.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>hu</lang_id>
+
+<title>Kiskutya Csoki, aki megtalálta a boldogságot az új gazdijával azonnal.</title><body>
+Volt egyszer egy kis kutyus, akit Csokinak hívtak. Csoki egy aprócska, barna színű kölyök volt, hosszú fülekkel és egy hatalmas, fekete orral. Mindig csillogó szemei voltak, amik folyamatosan a világot kémlelték, készen a kalandra. Csoki egy menhelyen élt, a többi kutyussal együtt, de ő nagyon vágyott egy meleg otthonra, egy szerető családra.
+
+A menhelyen dolgozók mind nagyon szerették Csokit. Megmosták, etették, játszottak vele. De a menhely sosem volt igazi otthon. Csoki néha szomorúnak érezte magát, különösen esténként, amikor a többiek már a kutyaházakban szunyókáltak. Ő akkor a nagy ablakhoz ült, és nézte a csillagokat, azt képzelve, hogy valahol létezik egy hely, ahol szeretni fogják, ahol boldog lehet.
+
+Egy napon egy kislány és az anyukája érkeztek a menhelyre. A kislány neve Zsófi volt, és ragyogó, barna szemei voltak, pont olyanok, mint Csoki szemei, csak nagyobbak. Zsófi ugrált és kiabált örömében, miközben végigjárta a kennelt, kíváncsian nézve az összes kutyát.
+
+- Anya, nézd! Milyen sok kutyus! - kiáltotta Zsófi.
+
+Az anyuka mosolyogva felelt: - Igen, Zsófi, mind nagyon szeretnének egy jó otthont.
+
+Zsófi a kenneltől kennelhez ment, végignézte a kutyákat. Voltak nagyok, kicsik, fehérek, barnák, feketék. Volt egy pöttöm tacskó, egy göndörödött uszkár, és egy hatalmas bernáthegyi is. De egyetlen kutya sem ragadta meg a figyelmét. Egészen addig, amíg meg nem látta Csokit.
+
+Csoki, a kis barna kölyök éppen a kennel sarkában ülve, nagy szemekkel figyelte a látogatókat. Amikor Zsófi megállt a kennelnél, Csoki óvatosan felkelt, és odaérdeklődött a rácshoz. Zsófi lenézett rá, és abban a pillanatban, mintha valami varázslat történt volna, a tekintetük összeért.
+
+- Anya, őt akarom! Őt vigyük haza! - kiáltotta Zsófi izgatottan.
+
+Az anyuka megnézte Csokit. Ő is el volt varázsolva. Látta Csoki csillogó szemeiben a szeretetet, a vágyat, a reményt. Megkérdezte a menhely gondozóját, aki mosolyogva bólogatott.
+
+- Csoki egy nagyon kedves kutyus. Nagyon szomorú, hogy senki nem választotta még. De megérdemli a szeretetet.
+
+Zsófi szaladt a gondozóhoz, hogy kikérje a papírokat, és már tervezte is, hogyan fog kinézni Csoki élete az új otthonában. Gondolta, hogy milyen jó lesz a kutyának a kertben futkározni, labdázni, vagy csak a szobában dorombolni mellette, amikor ő mesét olvas.
+
+Amikor megkapta a papírokat, és végre Csoki Zsófié lett, hatalmas öröm vette el a két ember szívét. Zsófi átölelte Csokit, aki hirtelen felizgult, és hatalmasat csóvált a farkával. Már csak egy perc kellett a boldogsághoz. Egy picit félénken nyüszített, de Zsófi hangja hamar megnyugtatta.
+
+- Gyere, Csoki! Menjünk haza! - mondta Zsófi, és Csoki azonnal tudta, hogy most már ő is egy család része.
+
+A hazaút izgalmas volt. Csoki a kislány ölében ült a kocsiban, és a világot kémlelte, miközben Zsófi mesélt neki a házukról, a kertről, a macskájáról, akivel majd meg kell ismerkednie.
+
+Amikor megérkeztek, Csokit körbevette egy új világ. A kert teli volt zöld füvekkel, színes virágokkal. A ház meleg volt és barátságos. Zsófi apukája is nagyon örült Csokinak, megsimogatta a fejét, és azt mondta, hogy mostantól a család tagja.
+
+Csoki, miután megszokta az új környezetet, hamar alkalmazkodott. Zsófi mellé bújt, amikor ő játszott, és követte a házban, ahová csak tudta. Sokat sétáltak a kertben, játszottak a labdával. Este együtt vacsoráztak. Zsófi gondoskodott arról, hogy mindig legyen vizük, ennivalójuk. 
+
+Csoki a lehető leggyorsabban megtanulta a nevét. A kutyus hirtelen, meglátta, hogy létezik egy boldog világ. A családi kötelék már az első nap megpecsételődött. Ahogy telt az idő, egyre jobban kötődött a kislányhoz, és egyre jobban megszerette az új családját. Sokat tanultak, sokat fejlődtek együtt. Zsófi tanította Csokit a trükkökre, Csoki pedig Zsófit a feltétel nélküli szeretere.
+
+Csoki boldogan feküdt Zsófi lábánál a kandalló előtt, Zsófi pedig olvasott. A kutya szívét átjárta a melegség és a béke. A sötét, rideg napok, amikor a menhelyen magányosan álmodott egy otthonról, most csak egy távoli emlékké váltak.
+
+Zsófi megtanulta a felelősségvállalást, hogy hogyan kell gondoskodni egy kutyáról. Reggelente Csoki ébresztette a kislányt, hogy ki tudjanak menni a kertbe játszani. Este együtt mentek aludni, Csoki mindig Zsófi ágya szélére kuporodott.
+
+A családi kirándulások örömmel töltötték meg a kiskutya szívét. Csoki már imádta az autókat is. A kertben hatalmas fára fel tudott ugrani, ahol büszkén figyelt, mint a "kutyakirály".
+
+Telt-múlt az idő, és Csoki egyre jobban beleilleszkedett a családba. Szeretett sétálni az anyukával, amikor elmentek a piacra, de a kedvence a Zsófival közös kutyaséták voltak a közeli parkban. Mindig őrülten ugrott, rohant a zöld füvön, élvezve a szabadságot. A fája mellé a naplementét figyelve szomorúvá vált a kis kiskutya, amikor belegondolt, hogy mit jelenthet neki ez a nagy, színes világ. A naplemente ragyogó fénye sokszor könnyet csalt a szemébe, annyira nagy hálát érzett a sorsa iránt.
+
+Csoki nem felejtette el a menhelyes kutyusokat. Minden héten ellátogattak Zsófival, vitt nekik finom falatokat, játékokat. Csoki így segített a többi kutyának is, remélve, hogy ők is megtalálják egyszer a saját boldogságukat.
+
+Egyszer Zsófi a kertben játszott Csokival, és megkérdezte: - Csoki, boldog vagy?
+
+Csoki felemelte a fejét, nagy szemeiben ragyogó boldogsággal. Megcsóválta a farkát, és a lehető leggyorsabban odaszaladt Zsófihoz, aki azonnal megölelte. A kutyus válaszolt a szívével, minden szőrszálával, minden mozdulatával. Igen, Csoki boldog volt. Boldogabb, mint valaha. Végre megtalálta a családját, az igazi otthonát, a boldogságát, Zsófi által. Azonnal.

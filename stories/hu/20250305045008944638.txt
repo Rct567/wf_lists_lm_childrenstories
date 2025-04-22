@@ -1,0 +1,41 @@
+<prompt>
+Please write a emotional Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Hogyan került a holdra a hólabda?'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>hu</lang_id>
+
+<title>Hogyan került a holdra a hólabda?</title>
+<body>Az egyik télen, amikor a hó hullott az égből, mint a cukor, és a fák fehérbe öltöztek, egy kis faluban élt egy fiúcska, akinek a neve Máté volt. Máté imádta a telet, a hólabdázást, a szánkózást és a meleg teát, amit anyukája készített neki.
+
+Egy napon, amikor Máté az erdőben játszott, talált egy hólabdát, amelyet valaki ottfelejtett. A hólabda olyan szép volt, hogy Máté nem tudta otthagyni. Úgy döntött, hogy hazaviszi és megmutatja anyukájának.
+
+Amikor hazaért, anyukája megkérdezte: "Máté, honnan van ez a hólabda?" Máté elmesélte, hogy az erdőben találta. Anyukája mosolygott és azt mondta: "Ez egy varázslatos hólabda. Hallottam, hogy a holdon is van egy hólabda, amelyet a holdlakók használnak játékra."
+
+Máté csodálkozott és kérdezte: "Hogyan kerülhet a holdra egy hólabda?" Anyukája elmosolyodott és azt mondta: "Az a történet, amit most elmesélek neked, egy ősi legenda. Régen, amikor a világ még fiatal volt, a holdlakók szerették a játékot és a szórakozást. Egy napon, egy holdlakó fiúcska, akinek a neve Laci volt, elhatározta, hogy elkészít egy hólabdát, amelyet a holdon használhatnak.
+
+Laci összegyűjtötte a legjobb anyagokat és elkezdte készíteni a hólabdát. Amikor elkészült, a holdlakók csodálkoztak, mert olyan szép volt, hogy az egész holdat bevilágította. A holdlakók elhatározták, hogy a hólabdát a holdra viszik, hogy ott használhassák.
+
+De hogyan jutottak el a holdra? A holdlakók nem tudták, hogyan lehetne a hólabdát a holdra vinni. Ekkor egy öreg holdlakó, aki bölcs és okos volt, elmondta, hogy van egy mód, amivel a hólabda a holdra kerülhet. Azt mondta, hogy a hólabdát el kell vinni a legmagasabb hegyre, ahonnan a holdat lehet látni, és ott el kell engedni.
+
+A holdlakók elvitték a hólabdát a legmagasabb hegyre és elengedték. A hólabda repült, repült, amíg el nem tűnt a szemük elől. A holdlakók visszamentek a holdra és vártak. Vártak, amíg a hólabda meg nem érkezett.
+
+És egy napon, a holdlakók meglátták a hólabdát, amint a hold felé repült. A hólabda landolt a hold felszínén és a holdlakók örömmel játszottak vele. Azóta a hólabda a holdon van és a holdlakók mindig játszanak vele.
+
+Máté csodálkozott és kérdezte: "Anyuka, igaz ez a történet?" Anyukája elmosolyodott és azt mondta: "Az igazság az, hogy a holdon valóban van egy hólabda, de hogyan került oda, az már senki sem tudja. De az biztos, hogy a hólabda varázslatos és mindig boldogságot hoz azoknak, akiknek van."
+
+Máté boldog volt, mert megtudta a hólabda történetét és azóta mindig játszott a hólabdával, amit az erdőben talált. És amikor felnőtt, elmesélte a gyermekeinek a hólabda történetét, hogy ők is megtudják, hogyan került a holdra a hólabda.
+
+A tél elmúlt, de Máté soha nem felejtette el a hólabda történetét. És amikor az éjszakai égboltot nézte, mindig látta a holdat és a hólabdát, amint a holdlakók játszanak vele. És Máté tudta, hogy a hólabda mindig boldogságot hoz azoknak, akik hisznek a varázslatban.
+
+Évek teltek el, és Máté gyermekei felnőttek. De a hólabda történetét soha nem felejtették el. És amikor ők is gyermekeket szültek, elmesélték nekik a hólabda történetét, hogy ők is megtudják, hogyan került a holdra a hólabda.
+
+Így a hólabda története generációról generációra szállt, és mindig boldogságot hozott azoknak, akik hallották. És a holdon a hólabda mindig ott volt, a holdlakók játszottak vele, és a Földön az emberek emlékeztek a varázslatos hólabdára, amely a holdra került.
+
+A történet vége, de a hólabda varázsa soha nem ér véget. Mert a hólabda mindig ott van, a holdon, és mindig boldogságot hoz azoknak, akik hisznek a varázslatban. És Máté, a kis fiúcska, aki a hólabdát megtalálta, mindig emlékezett a történetre, és a hólabda varázslatára, amely az életét megváltoztatta.</body>

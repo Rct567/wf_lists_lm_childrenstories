@@ -1,0 +1,80 @@
+<prompt>
+Please write a simple and easy-to-follow Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Pienen punatulkun suuri seikkailu lumisessa talvimetsässä.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fi</lang_id>
+
+```xml
+<title>Pienen punatulkun suuri seikkailu lumisessa talvimetsässä.</title><body>
+Olipa kerran pieni, punainen lintu. Se oli punatulkku, ja sen höyhenet kiilsivät kuin pienet, rubiininpunaiset helmet. Punatulkku asui yhdessä monien muiden lintujen kanssa suuressa, vanhassa kuusimetsässä. Talvi oli tullut, ja metsä oli muuttunut valkoiseksi satumaaksi. Jokainen puu, jokainen oksa, oli peittynyt paksun lumipeitteen alle.
+
+Pieni punatulkku oli nuori ja utelias. Se rakasti seikkailuja ja uusia asioita. Mutta tänä talvena oli jotain poikkeuksellista. Lumimyrsky oli tehnyt metsästä vieläkin mystisemmän ja tuntemattomamman. Ruokaa oli vaikea löytää, ja monet vanhat linnut olivat jääneet piiloon kolojen ja pesien suojaan.
+
+”Äiti, minä lähden”, punatulkku sanoi äidilleen eräänä aamuna. Äiti punatulkku, jonka höyhenet olivat hieman haalistuneet, katsoi lastaan huolestuneena.
+
+”Minne sinä olet menossa, pikkuinen?” hän kysyi pehmeästi.
+
+”Metsään! Minä aion tutkia tätä ihanaa, lumista maailmaa! Kuulen, että jossain on maukkaita marjoja, ja minun täytyy löytää ne!”, punatulkku vastasi silmät loistaen.
+
+Äiti punatulkku huokaisi. Hän tiesi, että nuoresta punatulkusta oli tullut aivan liian rohkea. ”Ole varovainen, rakas. Metsä on kylmä ja vaarallinen. Pidä silmälläsi petoja ja pysy lähellä muita lintuja.”
+
+”Minä pidän!” punatulkku vastasi ja päätti lentää matkaan. Hän pudisti itsensä puhtaaksi lumesta ja ponnahti ilmaan. Lento tuntui aluksi vaivattomalta. Hän lehahti puiden latvojen yli, ohittaen valkoisia lumihuippuja ja paksuja oksia, jotka notkuivat lumen alla.
+
+Ensimmäisenä punatulkku tapasi pienen oravan, jonka turkki oli talven takia harmaa ja pörröinen. Orava kipitti puuta pitkin etsien tammenterhoja.
+
+”Hei, punatulkku!”, orava huudahti puusta. ”Minne sinä olet matkalla näin lumisena päivänä?”
+
+”Minä etsin maukkaita marjoja! Tiedätkö, missä niitä voisi olla?” punatulkku vastasi innoissaan.
+
+Orava pudisti päätään. ”Enpä tiedä marjoista. Minä tiedän vain tammenterhot. Lumimyrsky piilottaa kaiken, on vaikea löytää mitään.”
+
+Punatulkku kiitti oravaa ja jatkoi matkaa. Hän lenteli pitkin ja poikin, ja hänen punaiset höyhenensä erottuivat kauniisti valkoista taustaa vasten. Välillä hän istahti lumisille oksille levähtämään ja ihailemaan maisemaa. Metsä oli todella kaunis, vaikka se olikin kylmä.
+
+Jonkin ajan kuluttua punatulkku kuuli ääntä. Se oli hieman hento, kuin kitinä. Hän lensi äänen suuntaan ja löysi pienen, pelokkaan peipposen, joka oli loukussa lumen alle pudonneiden oksien alla. Peipposen siipi näytti olevan kipeä.
+
+”Auta minua!”, peipponen sanoi hätääntyneenä. ”Olen juuttunut tänne.”
+
+Pieni punatulkku ei epäröinyt hetkeäkään. Hän oli pieni, mutta rohkea. Hän alkoi nokkia oksia ja yrittää saada niitä siirtymään pois peipposen päältä. Se oli kovaa työtä, mutta punatulkku ei luovuttanut. Hän nokki, nokki ja nokki, kunnes viimein sai siirrettyä tarpeeksi oksia pois tieltä.
+
+Peipponen pääsi vapaaksi, mutta sen siipi oli selvästi loukkaantunut. Punatulkku huolestui. ”Sinun täytyy saada apua”, hän sanoi.
+
+Peipponen nyökkäsi. ”Mutta en voi lentää.”
+
+”Minä autan sinua”, punatulkku päätti. Hän ehdotti, että he etsisivät yhdessä lämpimän paikan, ehkä jonkun piilopaikan, jossa peipponen voisi toipua.
+
+He yhdessä lentelivät eteenpäin, punatulkku lentäen eteen ja peipponen yrittäen pitää vauhtia mukana, vammautuneella siivellään. Lopulta he löysivät vanhan, onttoontuneen puun, jonka sisällä oli suojaisaa ja suhteellisen lämmintä. He asettuivat sinne.
+
+Punatulkku alkoi etsiä ruokaa molemmille. Hän löysi muutaman kuivuneen marjan, jotka hän vei peipposelle. Peipponen kiitti häntä, ja he söivät marjat yhdessä.
+
+Päivä pimeni ja metsä muuttui entistäkin kylmemmäksi. Lumi alkoi jälleen sataa. Punatulkku ja peipponen olivat onnekkaita löytäessään suojapaikan. He kömpivät tiiviisti toisiinsa, lämmittääkseen toisiaan.
+
+Seuraavana päivänä, kun aurinko nousi, punatulkku ja peipponen olivat nälkäisiä, mutta peipposen siipi tuntui hieman paremmalta. Punatulkku päätti lähteä etsimään ruokaa, ja peipponen jäi lepäämään.
+
+Punatulkku lensi kauas. Hän etsi oksien välistä, lumen alta, ja lopulta hän löysi pienen paikan, jossa oli jäljellä muutamia orapihlajan marjoja. Hän keräsi niitä niin paljon kuin vain pystyi ja palasi takaisin peipposen luokse.
+
+He söivät marjat ja peipponen alkoi tuntua jo paremmalta. Punatulkku ja peipponen viettivät monta päivää yhdessä ontossa puussa, punatulkku hoitaen peipposta ja etsien heille ruokaa. Heistä tuli ystäviä. Punatulkku kertoi peipposelle seikkailuistaan, ja peipponen kertoi punatulkulle lauluistaan ja lentotaidoistaan.
+
+Lopulta, kun kevät alkoi jo hieman tuntua, peipposen siipi parani. Yhtenä päivänä, peipponen yritti lentää. Se onnistui! Peipponen lensi pienen matkan, sitten palasi takaisin punatulkun luokse.
+
+”Olen valmis lähtemään!”, peipponen sanoi iloisena. ”Kiitos kaikesta, punatulkku!”
+
+”Ole varovainen!”, punatulkku vastasi. ”Pidä itsestäsi huolta.”
+
+He hyvästelivät toisensa ja peipponen lensi pois. Punatulkku katsoi perään, tunteakseen olonsa hieman surulliseksi, mutta samalla ylpeäksi ja iloiseksi. Hän oli tehnyt jotain hyvää, ja hänellä oli nyt ystävä.
+
+Pian sen jälkeen, kun peipponen oli lähtenyt, lumi alkoi sulaa. Aurinko paistoi kirkkaammin, ja metsä heräsi hiljalleen talviunestaan. Punatulkku lensi takaisin kotiinsa, kertomaan äidilleen seikkailustaan.
+
+Äiti punatulkku oli huolissaan, mutta hän myös tunsi ylpeyttä pojastaan. Punatulkku kertoi kaikesta: lumimyrskystä, oravasta, peipposesta, marjoista ja ystävyydestä.
+
+”Sinä olet rohkea ja hyväsydäminen”, äiti sanoi, hymyillen poikaansa. ”Minä olen niin ylpeä sinusta.”
+
+Pieni punatulkku oli tyytyväinen. Hän ei ollut vain nähnyt maailmaa, vaan hän oli myös auttanut ja ystävystynyt. Hänen suuri seikkailunsa lumisessa talvimetsässä oli päättynyt, mutta hän tiesi, että uusia seikkailuja odottaisi jo nurkan takana. Ja ennen kaikkea, hän muisti, kuinka tärkeää on pitää huolta toisista, varsinkin silloin, kun elämä on vaikeaa. Ja siitä punatulkku tiesi, että elämä on täynnä ihmeitä, kunhan vain uskaltaa lähteä etsimään niitä.
+</body>
+```

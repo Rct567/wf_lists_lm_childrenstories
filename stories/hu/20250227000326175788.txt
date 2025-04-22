@@ -1,0 +1,40 @@
+<prompt>
+Please write a light-hearted Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Süni Samu és a Furcsa Gombák a Titkos Sétaúton az Erdőben'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>Süni Samu és a Furcsa Gombák a Titkos Sétaúton az Erdőben</title>
+<body>
+Süni Samu, egy apró, barna süni, imádta az erdő titkos sétaútjait.  Nem azokat, amiket a turisták ismert, jól kitaposott ösvényeken járnak, hanem a rejtett, zegzugos, mohában és levélben burkolt, csak a legügyesebb állatok által megtalálható utakat.  Egyik napsütötte őszi napon, miközben a szokásos délelőtti sétáját végezte, egy különleges látvány fogadta.
+
+A sétaút egy keskeny, szinte láthatatlan ösvényhez vezetett, amelynek oldalán egy furcsa színű gombák sorakoztak.  Nem a megszokott vörös, sárga vagy barna gombák voltak ezek, hanem mindenféle színekben pompáztak: kékek, lilák, narancsosak, zöldek és sávokban minden szín egymás mellé rendeződött.  Egy-egy gomba tetején apró, csillogó kövek ültek, mintha valaki gyémánttal szórótta volna őket oda.
+
+"Micsoda különös gombák!" – mormogta Samu,  orrmozgása és pici füleit mozgatva a friss levegőt a szájával szíva.  Örömmel kapart a talpával a fűben és a gombák köré,  megdöbbenve azon, mennyire simák voltak azok.
+
+Odalépett egykék színű gomba elé, és finoman megérintve a kalapját, meglepődve tapasztalta, hogy lágy és rugalmas a textúra, s nem tömör. A gomba csúcsán lévő csillogó kő, megvillanván a napfényben, mintha egy aprócska tükör lenne. Samu követte a szeme előtt táncoló tükörképét, míg  egy énekhang nem harsogott bele a fehéres fülébe: "Ki te vagy, pici barát?"
+
+Samu megijedt.  Honnan jöhet ez a hang? A magasban elhaló lombok közt egy gyönyörű zöld sas szálldogált felettük. A madár feltűnés nélkül nézett rá, szemét nem támasztotta alá semmi fenyegetés.  A csillogó szemében pedig nem a ragadozóéra volt az alak. 
+"Én Süni Samu vagyok," válaszolta bizonytalanul Samu, majd rájött, hogy a sas egyfajta varázslatos lény, olyan mintha ébresztőn ácsingóznék.
+
+A sas kinyitotta csodálatos zöld csőrét, és meghajolt: "Én Gombamániusz vagyok. Az erdő gombáinak lelke." Majd  elmosolyodott egy kicsiny, barátságos mosollyal, és továbbra is egyenesen a kis sünre mosolygott, miközben elmosódott a hang és kiderült, hogy egy erdei gombasorompót húz a földbe, mely egy újabban kinyílt szentély, egy titkos kapu felé irányítva Samut.
+
+"Ezekre a gombákra figyelned kell" – mondta a sas hangja. "Hordozzák az erdő titkait." A hang kissé távolodó volt, majd elenyészett.
+
+Samu, teljesen döbbenten és értetlenül, megrángatta a sün-haját, és szomorúan vette szemügyre a gombákat.  Miközben jártak tovább, több gombát is találtak. Egy lilával a következő kép, az  volt: a gomba kalapjába karikák sorjáztak, míg egy szalag vége átmászott a soromon, majd a gomba szárából kicsattant.  Míg ez történt, felügyelte a varázslatos színátmeneteket.
+
+Mindegyik gomba valami más történetet mesélt az erdőből, egy apró hang születt ki a gombák közepéből, mely arról mesélt, hogyan táplálkozik, él, és miként terjeszkedik. Némelyik beszélgetett arról, hogyan szerezték színüket a felhőktől, más gombák hangszórót kapott a tetejére. 
+
+Elég volt már. Az érzelmeket feszegető fáradtságtól a sötét föld felé vetődtek.
+
+S ahogy végigment a titkos ösvényen, egy különösen hatalmas, óriási narancssárga gomba előtt találta magát, mely a hegy tetején állt, tetején egy nagy arany kő. A gomba kalapja felnyílt, és egy fantasztikus látvány tárult Samu szeme elé. Az erdő összes titka és emléke ott vibrált a térben, és a gombák sűrűjét nézőszemévé változtatta.  Csodálkozott és szent tiszteletet érzett, miközben az erdő minden része beleolvadt a színekben pompázó gomba világába.
+
+Aztán csend lett. A hatalmas narancssárga gomba megint becsukódott, az erdő felett a csönd megint uralkodott, és egy elhaló szelíd  sas hangja bújt ki az erdőből.  Samu örült, hogy éppen akkor ért ide, és azóta  minden nap megkereste ezeket a varázslatos gombákat. Megtanult hallgatni az erdő hangjára és átélni az erdő mindenkori hangulatát, amelytől elragadtatva mindig felemelte a fejét, ahogy újabb gombák meséje fogadta.
+</body>

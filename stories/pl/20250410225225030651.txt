@@ -1,0 +1,63 @@
+<prompt>
+Please write a educational Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Historia Małego Muchomorka, Który Marzył o Zostaniu Grzybem.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pl</lang_id>
+
+```xml
+<title>Historia Małego Muchomorka, Który Marzył o Zostaniu Grzybem.</title>
+<body>
+Dawno, dawno temu, w samym sercu zaczarowanego lasu, żył sobie mały Muchomorek. Nie był zwyczajnym Muchomorkiem. Inne Muchomorki, te starsze i bardziej doświadczone, spędzały swoje dni na rozkoszowaniu się rosą i wchłanianiu słonecznych promieni. Mały Muchomorek jednak miał jedno, bardzo nietypowe marzenie. Chciał zostać… prawdziwym grzybem!
+
+Wszystkie inne grzyby w lesie, od dostojnych Borowików po wesołe Kurki, były dla niego niezwykle fascynujące. Podziwiał ich różnorodne kształty, kolory i sposoby życia. Obserwował, jak dzielnie rosną, jak pomagają drzewom, a przede wszystkim, jak wspaniale smakują, przynajmniej tak mówili wszyscy, którzy je zbierali.
+
+"Dlaczego muszę być Muchomorkiem?" - pytał czasem, zanosząc się w cichym westchnieniu. "Przecież jestem taki… czerwony z białymi kropkami! I nikt mnie nie chce jeść. Chciałbym być czymś innym!"
+
+Jego rodzice, dwa stateczne Muchomory, patrzyli na niego z czułością, choć ze zrozumieniem było trudniej. "Mój synku" - mówił tata Muchomorek, przeczesując delikatnie swoim kapeluszem rosę. "Jesteś Muchomorkiem, bo taki urodziłeś się. Każdy grzyb ma swoje zadanie w lesie."
+
+Mama Muchomorek, słynna w okolicy ze swoich pysznych, choć trujących, spor, dodawała: "Twoje zadanie jest ważne. Chronisz drzewa przed niektórymi szkodnikami. Jesteś ważny!"
+
+Mały Muchomorek jednak wciąż marzył. Pewnego dnia, kiedy słońce rozlewało się złotym światłem po lesie, postanowił zrobić coś, co przybliży go do realizacji swojego marzenia. Postanowił poszukać mądrości u najstarszego grzyba w lesie – Mędrca Borowika.
+
+Borowik, z okazałym brązowym kapeluszem i grubym, solidnym trzonem, był znany ze swojej mądrości. Słynął z tego, że potrafił odpowiadać na trudne pytania i znał wszystkie sekrety lasu.
+
+Mały Muchomorek długo szukał Mędrca Borowika, przeczesując zarośla, omijając kałuże i ostrożnie omiatając po drodze napotkane ślimaki. W końcu, po wielu trudach, odnalazł go pod ogromnym dębem.
+
+"Dzień dobry, Mędrcu Borowiku" – zaczął nieśmiało Muchomorek.
+
+Borowik uniósł swój kapelusz, spoglądając z góry na małego gościa. "Witaj, mały Muchomorku. Czego szukasz?"
+
+Mały Muchomorek opowiedział Borowikowi o swoim marzeniu. O tym, że chciałby być innym grzybem, o tym, jak bardzo pragnie być pożyteczny i lubiany. Opowiadał o zazdrości do Borowików i Kurek.
+
+Mędrzec Borowik uważnie wysłuchał. Po chwili namysłu, powiedział: "Wiele myślisz o tym, jak inni widzą grzyby. Ale czy pomyślałeś o tym, jaką wartość ma to, że jesteś właśnie Muchomorkiem?"
+
+Mały Muchomorek zamyślił się. Rzeczywiście, nigdy się nad tym nie zastanawiał.
+
+"Popatrz" – ciągnął Borowik. "Jesteś piękny. Twój czerwony kapelusz z białymi kropkami ostrzega zwierzęta, że jesteś niejadalny, ale w ten sposób chronisz siebie i innych grzybów przed zadeptaniem. Chronisz inne grzyby, dając im czas na wyrośnięcie i wydanie zarodników."
+
+Borowik wskazał na okoliczne grzyby. "Każdy grzyb ma swoją rolę. Borowiki dostarczają pokarmu zwierzętom, kurki są przysmakiem dla ludzi, a Muchomorki… cóż, są ważnym elementem ekosystemu, pomagają w rozkładzie martwej materii organicznej i dbają o równowagę w lesie. Ponadto, w odpowiednich dawkach, niektóre Muchomory mają właściwości lecznicze, a w bajkach bywasz bohaterem…"
+
+"Ale… nikt mnie nie lubi!" – jęknął Muchomorek.
+
+"To nie do końca prawda" – uśmiechnął się Borowik. "Wiewiórki zbierają cię czasem, by pomóc w roznoszeniu zarodników. Ślimaki podziwiają twoją urodę. A przede wszystkim… wiesz, że nie wszyscy muszą cię lubić, żebyś był wartościowy?"
+
+Muchomorek zamilkł. Zaczynało do niego docierać to, co mówił Borowik.
+
+"Wszystko, co masz zrobić, to być najlepszym Muchomorkiem, jakim możesz być" – ciągnął Borowik. "Dbaj o swoje otoczenie, chroń inne grzyby, roś zdrowo i wydaj zarodniki. To właśnie czyni cię prawdziwym grzybem."
+
+Mały Muchomorek spędził jeszcze trochę czasu z Mędrcem Borowikiem, zadając mu pytania o las i jego mieszkańców. Dowiedział się, jak ważne są korzenie drzew, jak zwierzęta wpływają na rozwój lasu, i dlaczego równowaga w przyrodzie jest tak istotna. Zrozumiał, że nie musi się zmieniać, żeby być ważnym i potrzebnym.
+
+Wracał do domu, czując się zupełnie inaczej niż wcześniej. Jego marzenie o byciu innym grzybem nadal gdzieś tam tkwiło, ale teraz miało inny wymiar. Zrozumiał, że ważniejsze jest to, co robi, niż to, jak wygląda.
+
+Od tamtej pory, Mały Muchomorek stał się przykładnym Muchomorkiem. Dbał o swoją urodę, pilnując, by jego kapelusz był zawsze błyszczący, a białe kropki idealnie rozmieszczone. Zaprzyjaźnił się z innymi grzybami, pomagał młodym Borowikom rosnąć i uczył się od starszych Kurek, jak roznosić swoje zarodniki po lesie. Z radością patrzył, jak jego rodzice byli dumni z jego przemiany.
+
+Wiosną, kiedy las budził się do życia, Mały Muchomorek poczuł w sobie siłę i radość, jaką wcześniej nie znał. Wiedział, że jest ważnym elementem tego wspaniałego świata, w którym żył. Zrozumiał, że bycie Muchomorkiem to nie tylko rola w ekosystemie, to również jego własny, wyjątkowy sposób bycia. I choć nadal marzył o spotkaniach z innymi grzybami, to wiedział, że jego marzenie o zostaniu „prawdziwym grzybem” właśnie się spełniło. Właśnie tak… jako Muchomorek.
+</body>
+```

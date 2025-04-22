@@ -1,0 +1,39 @@
+<prompt>
+Please write a relatable Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Jak si myška Mína postavila dům z měsíčního světla'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Jak si myška Mína postavila dům z měsíčního světla</title>
+<body>
+Myška Mína žila v malé, chudé díře pod kořenem starého dubu.  Bylo jí teprve sedm týdnů a měla už strašnou touhu po vlastním domečku.  Všichni ostatní myši žili v útulných norách, plných zásob semínek a sušených obilí.  Mína viděla, jak s uspokojením přenášejí skladištní zásoby, a její srdíčko jí hučelo.  A ona? Ona měla jen malý, vlhký otvor a pocit stále hladového bříška.
+
+Jednoho deštivého podzimního odpoledne, když se kapky z oblohy řítily do trávy jako malé, šílené jezírka, se Mína dívala na zářivě svítící měsíc. Měsíc, jako velký, zářící kotouč na temné obloze, ji uchvátil.  Myslela si, že by bylo úžasné, kdyby mohla postavit dům, který by byl osvětlený měsíčním světlem, jako zářící perla na tmavém poli.
+
+Zavřela oči a pomyslela si: „Chci si postavit dům z měsíčního světla!  Bude krásný, s průhlednými stěnami, abych mohla vidět hvězdy a slyšet šumění lesa.  A co nejdůležitější – bude plný semínek!"
+
+Rozhodla se, že zkusí své štěstí.  Vybrala si nejjasnější část měsíce a představila si ho jako základ svého domu. S obdivuhodnou odvahou a nadějí v srdci začala shromažďovat materiál.
+
+S myšlenkou, že měsíční světlo bude stavební materiál, se vydala do ticha noci.  Našla velké, okrouhlé lístky, rozptýlené pod stromy, a odvážně se do nich pustila. Pak se sebrala odvaha a se smělými tahy myší tlapky vzala malé, zářící kapky rosy.  Kapky rosy jí poskytly to správné světlo a zářící materiál.
+
+Když viděla, že vše má připravené, rozsvítila se v ní touha a vzala lístky a kapky rosy a s úžasem v očích se pustila do díla.  Postupně se kousek po kousku stavěl malý, úžasný domček ze měsíčního světla.  Jeho stěny, ze sbírky drobných, zářících kapiček rosy, se třpytily jako krystaly a jeho stropy se měnily do malých zářících tvarů, s jemnými detaily vyobrazující hvězdné oblohy.  Mína byla nadšená!  
+
+A pak, při stavění, ji potkal nejnáročnější úkol. V srdci domu měla umístit krásné, okrouhlé kameníček. Bylo to těžké, protože musel být precizně umístěn, aby mohl odrážet měsíční světlo do všeho okolí. Ale Mína pracovala s houževnatostí a šikovností a po dlouhé noci se jí povedlo dostatečně mnoho těchto malých kameníček shromaždit a uspořádat.
+
+Pak, když se nad domkem zhroutila chladná noc, s chutí si do něj seskočila. Byl to úžasný pocit!  V domě, ze měsíčního světla, se jí na samé myšlenky na domov a krása noci, líbilo stále víc a víc!
+
+Měla pocit tepla, a zároveň slyšela tichý šumění lesa, které jí slibovalo spoustu jídla. Povzdechla si a spokojeně se zahalila do útlých měsíčních paprsků.  Měsíc svítil, hvězdy blikajíce, les šuměl, a myška Mína, v krásném domě z měsíčního světla, se cítila bezpečně a spokojeně. 
+
+Na jaře, když se země probudila k životu a příroda vykvetla nádhernými květy, se z domu objevily první slunéční paprsky. Myška Mína si uvědomila, že její domov z měsíčního světla je dokonalým místem k obdivování všech krasů přírody. A nezapomněla na všechny ty šíleně tvrdé zážitky, na ni, na dětství.
+
+Ale věděla, že měsíční světlo není jen pro krásný domov, ale pro hlubší poslání. Myška Mína ztratila strach a zvětšila své naděje a odhodlání se i nadále stavit sny a snahy, z nichž z něčeho malého a neznatelného se může stát ohromující zázrak.
+
+
+</body>

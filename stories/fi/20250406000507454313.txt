@@ -1,0 +1,51 @@
+<prompt>
+Please write a silly Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Oman itsen löytäminen, jonka avulla lapset löysivät vahvuutensa joka päivä yhä uudestaan.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fi</lang_id>
+
+<title>Oman itsen löytäminen, jonka avulla lapset löysivät vahvuutensa joka päivä yhä uudestaan.</title>
+<body>
+Olipa kerran, kaukana suuren metsän reunalla, pieni, värikäs kylä nimeltä Piipero. Piiperossa asui paljon lapsia, jokaisella omintakeinen luonne ja outo harrastus. Olivat siellä Maija, joka rakasti pieruhuumoria (aina oli hauska pieru!), Topi, joka keräsi kivien salaisuuksia ja Iida, joka osasi puhua lintujen kanssa. Ja sitten oli tietysti Otso, kylän ainoa karhu-poika, joka pelkäsi pimeää ja jolla oli päässä punainen pipo.
+
+Eräänä päivänä, kun aurinko paistoi kirkkaasti ja lumpeet kukkivat lammessa, Piiperon lapset olivat kerääntyneet kylän torille. Torilla seisoi vanha, viisas hirvi, Herra Hirvinen. Herra Hirvisellä oli isot, hohtavat silmät ja paksut sarvet, ja hän tunsi kaikki Piiperon lapset kuin omat taskunsa.
+
+"Lapsukaiset", Herra Hirvinen aloitti jykevästi, "olen nähnyt, että teillä on paljon potentiaalia. Mutta välillä te ette usko itseenne. Teidän täytyy löytää oma itsenne, jotta voitte olla parhaita versioita itsestänne!"
+
+Lapset katsoivat toisiaan hämmästyneinä. "Oma itsemme?" kysyi Maija, ja nauroi samalla hilpeästi kuvitellessaan itseään, jonka päästä kuulluisi vain pieruja.
+
+"Juuri niin", Herra Hirvinen nyökkäsi. "Jokaisella teistä on jotain ainutlaatuista, jotain erityistä. Ja sen teidän pitää löytää!"
+
+Ja niin alkoi Piiperon lasten suuri itsen etsimisen matka.
+
+Maija, pieruhuumorin mestari, päätti lähteä tutkimaan kylän kaikkia paikkoja, joissa pieru saattaisi kuulua. Hän löysi kellarissa paksun seinän, jonka takana pieru kaikui erityisen hauskasti. Hän piirsi seinälle hassuja naamioita ja pierumalleja. Topi puolestaan, kivien keräilijä, päätti keskittyä kivien salaisuuksiin. Hänellä oli valtava kokoelma kiviä, joita hän päivittäin tuijotti ja puhui niille. Hän kuunteli, ja joskus, harvoin, kivi tuntui kuiskivan jotain. Iidan kanssa linnut tuntuivat puhuvan jo melkoista jorinaa ja hänet nähtiin usein lintuparvien keskellä keskustelemassa siivellisistä ystävistään. Hän oppi ymmärtämään niiden laulut ja sävelmät, tunnistamaan niitten hädät ja ilot.
+
+Otso, pelkuri karhunpoika, päätti lähteä kohtaamaan pimeyttä. Hän otti mukaansa punaisen piponsa, sillä sen hän uskoi antavan rohkeutta. Ensimmäisenä iltana hän yritti kurkistaa varjoihin, mutta kiljui niin kovaa, että koko kylä kuuli. Mutta seuraavana päivänä hän yritti uudelleen. Ja taas uudelleen.
+
+Ensimmäinen etappi Otso matkalla oli tietenkin kylän hautausmaa. Paikka, jossa kaikki varjot tuntuivat kerrannuistuvan. Karkottamalla pelkoaan Otso päätti tutkia aluetta yhdellä yöllä. Hän päätti jättää piponsa pois. Ihmetyksekseen huomasi, ettei pelännytkään enää niin paljon! Tämän jälkeen alkoi tuntua jo melkein mukavalta, kun hän kuunteli pelottomasti kuolemaa uhkuvia korppeja. Pienen itsensä kanssa Otso kierteli haudoilla ja ihmetteli vanhojen ihmisten muistoja. Kokeillessaan Otso sai vahvan luonteen, jota hän ei osannut edes odottaa.
+
+Kului viikkoja. Maija oppi kehittämään pieruhuumorista taidetta, pitämällä pieru-esityksiä kyläläisille, jotka nauroivat hersyvästi. Topi sai selville, että kivet olivatkin viestinlähettäjiä. Ja Iida ymmärsi, että linnut eivät vain laula, vaan kertovat tarinoita, jotka piti kuunnella tarkasti. Hän alkoi kirjoittaa muistiin lintujen kertomuksia, luoden uudenlaisen, siivekkään kirjallisuudenlajin.
+
+Otso puolestaan, käytyään hautausmaalla useasti, oppi hallitsemaan pelkonsa. Hänestä tuli jopa rohkea. Pimeys ei enää pelottanut, vaan se tuntui jännittävältä. Hänen punainen piponsa alkoi maistua tielle, eikä se enää koskaan pysynyt päässä.
+
+Herra Hirvinen seurasi lasten edistystä ylpeänä. Eräänä päivänä hän kutsui heidät kaikki takaisin torille.
+
+"Olen iloinen", Herra Hirvinen sanoi hymyillen, "että olette löytäneet itsenne. Olette kaikki niin ainutlaatuisia."
+
+"Mutta miten löydämme itsessämme vielä enemmän?" kysyi Topi, kivien kanssa puhuva poika.
+
+"Se on yksinkertaista", Herra Hirvinen vastasi. "Jatkuvasti. Jokainen päivä on uusi mahdollisuus oppia jotain uutta itsestään. Kokeilkaa, tehkää virheitä, ja ennen kaikkea, uskokaa itseenne. Muistakaa, vahvuutenne on sisällänne. Se ei tule ulkoapäin. Se löytyy sieltä mistä löydätte sen."
+
+Lapset katsoivat toisiaan, ymmärtäen viisaan hirven sanat.
+
+Ja niin, Piiperon lapset jatkoivat matkaansa, löytäen joka päivä uusia asioita itsestään. Maija kehitti uusia pieruhuumorin muotoja, Topi tutki kivien syvempiä salaisuuksia ja päätti kirjoittaa kirjan kivien salaisuuksista. Iida alkoi tehdä lintujen kanssa teatteria, esittäen lintujen tarinoita ja Otso, rohkea karhunpoika, alkoi tutkia metsän pimeitä paikkoja, ja tovereineen ottivat yhteyttä erillaisiin olennoihin.
+
+Ja tietysti, aina kun joku tunsi itsensä vähän alakuloiseksi, Maija laukaisi iloisen pierun, joka sai kaikki nauramaan, aina, ja se taas oli tärkeä osa lapsien vahvuuden uudelleen löytämistä. Lopulta Piiperon lapset ymmärsivät, että elämä onkin kuin pieru – joskus äänekästä ja hauskaa, joskus hiljaista ja mystistä, mutta aina oma itsensä, ja aina matkalla johonkin. Ja aina, joka päivä uudestaan, he löysivät uusia vahvuuksia, kukin omalla tavallaan, ja se oli Piiperossa kaikkein tärkeintä. Sillä itsen löytäminen on jatkuvaa oppimista, ja jokainen päivä oli uusi mahdollisuus oppia ja kasvaa. Ja sehän on hauskaa! Niinpä lapset elivät Piiperossa pitkään ja onnellisina, löytäen itsensä yhä uudestaan ja uudestaan. Loppu.
+</body>

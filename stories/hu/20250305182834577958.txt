@@ -1,0 +1,39 @@
+<prompt>
+Please write a emotional Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Az aranyhajú lány és a titokzatos erdő szelleme'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>Az aranyhajú lány és a titokzatos erdő szelleme</title>
+<body>
+A patak csillogó vizében tükröződött a napfény, és a zöld lombok között táncolt a szél.  Kis Anna, aranyló hajával, mintha a napsugarakból lett volna formálva, a titokzatos erdő szélére indult.  A nagymamája mesélt neki a szellemről, aki az erdő mélyén lakik, és őrzi a legrejtélyesebb titkokat.  Anna, kíváncsi természetű lévén, elhatározta, hogy megtalálja.
+
+Az erdő mélyén a fák magasra nyúltak, mintha az égbe kapaszkodnának.  A levegő párás volt, és a földön furcsa, ismeretlen illatok szálltak.  Anna szíve dobogása egyre gyorsult, ahogy a hangok egyre furcsábbá váltak.  A madarak éneke egyre harsányabb, a szél susogása egyre fenyegetőbb zúgásba fordult.  A napsugár már alig ért le a földszintre, csak a fák sűrű lombja között szűrődött át egy-egy halvány fényfolt.
+
+Egyszer csak egy furcsa fény villant fel a fák között.  Anna, megragadva a kezét, elindult felé.  A fény egy kis, eldugott tisztásra vezetett, ahol egy hatalmas, ősi fa állt.  A fa törzsén furcsa, aranyló jelek voltak, mintha valaki mesés betűkkel írta volna rá őket.  És ott, a fa alatt, egy gyönyörű, aranyló hajjal ellátott lány ült.  A lány szemei, mint az éjszakai égbolt, mély és titokzatosak voltak.
+
+Anna megállt, lélegzete elakadt.  A lány nem mozdult, csak nézett Anna felé, a tekintete mélyén egy végtelen történet tükröződött.  Anna, akinek a szíve a gyengédségtől telt meg, megközelítette a lányt.  "Ki vagy te?" kérdezte halkan Anna, a hangja alig hallatszó volt a susogó levelek között.
+
+A lány egy halk sóhajjal válaszolt: "Én vagyok az erdő szelleme, a titkok őrzője.  Sok éve lakom itt, és figyelem az erdő minden mozgását."
+
+"De… miért vagy itt?" kérdezte Anna.
+
+"Azért, hogy megvédje a titkokat, és hogy emlékeztesse az embereket a természet szépségére."  A lány szemei egyre szomorúbbá váltak.  "De a világ egyre kevesebbet figyel a természetre, és a szívek egyre keményebbek."
+
+Anna megrendült.  Érezte, hogy a lány szavai mélyen megérintik a szívét.  "Hogyan segíthetek?" kérdezte, szíve tele szeretettel és együttérzéssel.
+
+"A szeretettel.  A természettel való kapcsolatunkat kell visszahoznunk.  A szeretet az egyetlen erő, ami képes megváltoztatni a világot." A lány arca ragyogott, és a hajszálai mintha aranyló fényben úsztak volna.
+
+Anna megértette.  Az erdő szelleme nem egy fenyegető lény volt, hanem egy gyengéd szellem, aki segíteni akart.  Anna elhatározta, hogy ő is megpróbál majd többet tenni a természetért.  Aztán az erdő szelleme elmondta Annának a titokzatos erdő történetét, a fák és a patakok életét, a madarak énekét.  Anna hallgatta, a szíve tele volt csodálattal és szeretettel.
+
+A nap lassan lebukott, és az erdő árnyékokba borult.  Anna tudta, hogy el kell mennie, de a lány szelleme és a titkokkal teli erdő örökre megmaradtak a szívében.  Anna hazafelé menet, a patak mentén sétált, és a víz csillogása tükrözte a szívében lévő szeretetet.  Az erdő szellemének szavai és a titokzatos erdő látványa emlékeztetőül szolgáltak számára, hogy a természet megőrzése és a szeretet a világ megváltoztatásának kulcsa.  És Anna tudta, hogy ő is meg fogja tenni a részét.
+
+Anna elmesélte a történetet a nagymamájának, aki mosolyogva hallgatta unokája szavait.  És ezután Anna minden nap, amikor csak tehette, az erdőbe ment, hogy megossza a szeretetét a természettel.  És az erdő szelleme, tudta, hogy Anna, az aranyhajú lány, örökre a szívében fogja őt hordozni.
+</body>

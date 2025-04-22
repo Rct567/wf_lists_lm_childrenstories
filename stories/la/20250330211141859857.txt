@@ -1,0 +1,111 @@
+<prompt>
+Please write a dialog-based Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Canis Fideli, Qui Dominum Suum Periculoso itinere Servavit'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>la</lang_id>
+
+<title>Canis Fideli, Qui Dominum Suum Periculoso itinere Servavit</title>
+<body>
+**Magister et Canis**
+
+**Marcus:** (Ridens, cum cane) “Ave, Fido! Quam magnus canis es! Videsne villam nostram? Illa domus mea est, et tua quoque est, mi amice.”
+
+**Fido:** (Cauda movens) “Vau! Vau!”
+
+**Marcus:** “Esne esuriens? Eamus ad culinam, et tibi cibum dabo. Sed post cibum, ad silvam ibimus. Puto te silvam amare, cur non?”
+
+**Fido:** (Saliens et gaudens) “Vau! Vau!”
+
+**Marcus:** (Ad matrem) “Mater, mane me expectas! Eamus ad silvam!”
+
+**Mater:** “Marcus care, esne paratus? Fer tecum lagenam aquae et panem! Et cave feras!”
+
+**Marcus:** “Sane, mater! Fido, adsum!”
+
+**Iter ad Silvam**
+
+**Marcus:** (In silvam ingrediens) “O, quam pulchra est silva! Arbores altae sunt, aves cantant, et sol lucet. Estne tibi placitum, Fido?”
+
+**Fido:** (Ludos faciendum) “Vau! Vau! Arf! Grr!”
+
+**Marcus:** “Modo in viam reclinamus. Noli currere nimis longe.”
+
+**(Post horam ambulandi)**
+
+**Marcus:** “Quam longe iam ambulavimus! Quid spectamus, Fido? Vide, flumen! Volo aquam bibere.”
+
+**Fido:** (Olfaciens et tressiliens) “Arf! Grrr! Cave!”
+
+**Marcus:** “Quid est? Cur iratus es? Non video periculum…”
+
+**(Postquam ad ripam fluminis descendit, magnum lapidem videt, qui motum facit, et rugitum audit)**
+
+**Marcus:** (Timidus) “Leo! Leo est!”
+
+**Fido:** (Ingenti impetu leonem adoritur) “Vau! Grrr! Arf! Grrr!”
+
+**Leo:** (Rugitus horribilis) “Grrr!”
+
+**Marcus:** (Clamans) “Fido, revoca te! Cave leonem!”
+
+**Fido:** (Leoni morbo oppugnato) “Arf! Arf! Grrr!”
+
+**(Pugna brevis, sed periculosa est. Leo gravem vulnerationem Fido infertur, sed canis perseverat, leonem ab Marco defendens)**
+
+**Marcus:** (Pugnantem spectans) “Fido! Te defendo! Clamam, curro et auxiliem!”
+
+**(Marcus lapidem invenit et in leonem iactat. Leo attonitus fugit.)**
+
+**Marcus:** (Cursitans ad Fido) “Fido! Mi amice! Quid fecisti? Videris saucius!”
+
+**Fido:** (Languens et anhelans) “Vau… Vau…”
+
+**Marcus:** (Fleens, tunicam ruptam adhibens vulneribus medendum) “Oh, Fido! Ego te ad domum portabo. Tunc medicum vocabimus.”
+
+**Reditus et Cura**
+
+**Marcus:** (Ad patrem reversus) “Pater, pater! Fido vulneratus est! Leo eum in silva adgressus est. Cito!”
+
+**Pater:** (Celeriter accurrens) “Quid! Ubi est? O, infelicem! Celeriter in domum feramus eum!”
+
+**(In domo, Fido curatur. Medicus vulnera claudis et vulnerationes mundat.)**
+
+**Medicus:** “Bonus canis est iste. Non erit difficile eum curare. Sed aliquid temporis opus est ut convalescat.”
+
+**Marcus:** (Fido amplectens) “Per te, Fido, vivus sumus! Tu fortis et fidelis es!”
+
+**Fido:** (Cauda lentissime movens) “Vau…”
+
+**(Post aliquot diebus)**
+
+**Marcus:** “Fido, convalescesne?”
+
+**Fido:** (Ludentem saliens) “Vau! Arf! Iam valeo! Lude mecum!”
+
+**Marcus:** (Ridens) “Bene est! Ite, eamus in hortum!”
+
+**Amicitia et Gratia**
+
+**Marcus:** (In horto, pila iacens) “Fido, cape pilam!”
+
+**Fido:** (Celeriter currens et pilam capiens) “Vau!”
+
+**Marcus:** “Bene! Magnus canis! Nonne felix sumus, Fido?”
+
+**Fido:** (Caput inclinans, latus Marci frictat) “Vau!”
+
+**Marcus:** “Tibi ago gratias, mi amice. Per vitam fidus eris.”
+
+**Fido:** (Movens) “Vau!”
+
+**(Multis annis post, Marcus et Fido, amici et ad eamrem fideles manserunt. Marcus semper Fido memoriam honorabat, quia canis eius, dominum periculo salvavit, verum amicitiam, et fortitudinem demonstrabat.)**
+
+**Finis**
+</body>

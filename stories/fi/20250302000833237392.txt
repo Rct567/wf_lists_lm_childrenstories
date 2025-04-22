@@ -1,0 +1,45 @@
+<prompt>
+Please write a light-hearted Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Viisi Pientä Koiraa ja Heidän Valtavan Seikkailu'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>fi</lang_id>
+
+<title>Viisi Pientä Koiraa ja Heidän Valtavan Seikkailu</title>
+<body>
+Kerran, ihan pienessä metsässä, joka oli täynnä rapsuttelevaa lehvästöä ja kimaltelevia puroja, asuivat viisi pientä koiraa.  Oli Pipsa, herkullisen tummanruskea, kuin maukkaat marjat; Reksu, valkoinen kuin lumen peittämä talvipuu;  Ville, harmaa kuin kivivirta;  Aamu, keltainen kuin aurinkoinen iltapäivä; ja Lumi, hopea kuin kuun sirpaleet.  He olivat ystävystyneet metsän keskuudessa ja rakastavat seikkailua.
+
+Yhtenä aamuna, kun aurinko valaisi metsää pehmeällä valolla, Pipsa löysi kauniin sinisen kukkamaljan. Siinä se seisoi, niin täynnä väriä, kuin ihanan pehmeä piristys. Reksu, aina vilkas, haukkoi iloisesti ja juoksi kiivaasti maljaa kohti. Ville kuiskasi, ettei saisi häiritä kaunista luontoa, ja Aamu huomasi miten pehmeästi Lumi leikkii lumen sirpaleiden kanssa.
+
+"Mitä se on?" kysyi Reksu uteliaana.
+
+"Se on taikasukka!" kuiskasi Pipsa innoissaan. "Se kertoo meille valtavan seikkailun!"
+
+Malja alkoi hohtaa, ja sieltä soi pieni, kaunis melodia. Melodia kutsui heitä mukaan seikkailuun. "Mihin?" he ihmettelivät, seikkailu alkoi kuulostaa houkuttelevalta.
+
+"Meidän on mentävä Upean Leijonan luokse!" sanoi Pipsa innostuneena. "Siellä on tarinaa, jonka täytyy kuulla!"
+
+Koirat lähtivät liikkeelle.  He matkustivat kirkkaan punaisen pähkinän alla, ohittivat kivikulman, ja hypähtelivät yli pienten vesien. Heitä seurasi pieni, metsässä juoksenteleva lumimarja. Se on yhtä aavistuksen upealta, kuin aurinkoiset vuodet. Heidän tie vei heidät kohti kukkuloita, joilla kasvoi jättimäisiä hernekasveja. Joka herne oli yhtä kookas, kuin maailman suurin koira.
+
+
+He saapuivat lopulta Upean Leijonan luokse.  Leijona oli valtava ja kaunis, aivan kuin kultaisen valon keräys. Hän oli erikoislaatuinen, sillä hänen otsallaan loistivat miljoonia tähtiä, jotka välähtivät joka puolelta, kuin maailmanlaajuinen juhannus. Leijona kuunteli koirien kertoman tarinan  sulle, niin kiihkeästi, kuin kauniin lumivyöry.
+
+Leijona kertoi koirien taikasukkasta tarinan. Taikasukka oli salaisuus metsän sydämessä ja se sisälsi metsän kaikista salaisuuksista parhaat. Se opetti kuinka eläinten äänet yhdessä kuulostavat niin kauniilta.
+
+
+Leijonan tarina koukutti kaikki koirat. He ymmärsivät kuinka kaunis metsä on, miten tärkeitä kukin eläimet on ja kuinka ihmeellinen maailma on, vaikka niitä näkyy pienistä osasta. Tarina oli niin pitkä ja niin kaunis, että aurinko laskesi taivaalle.
+
+Pipsa kiitti Upeata Leijonaa ja hänen ihmeellistä tarinaansa. Yhteistyö, jonka metsässä he kaikki yhdessä näyttävät, on ihmeellistä. Yhdessä kaikki eläimet tekevät ihmeellisestä metsästä, ainutlaatuisen!
+
+"Seikkailunsa oli päättymässä, koirat haukkivat viidakossa, valmiina ottamaan muistia metsän täyteen."
+
+Ja niin koirat lähtivät taas kotimatkalle, heidän sydämissään täynnä valtavan seikkailun muistoja. He huomasivat, että maailmassa on vielä enemmän, kuka niitä haluaa etsiä! He tiesivät että Upeassa Leijonassa he olivat ystävyyttä luonneen. Heidän kaunis ja vilkas tarinansa päättyi niiden valtavissa kokemuksissa.
+
+He tiesivät, että joskus pienilläkin koirilla oli aivan valtavia ja kauniita seikkailuja metsässä, täynnä ystäviä ja yhdessä oppimaa.  Ja että seikkailujen seuraaminen  saatiin niin monelta kannalta. Koirien sydämet oltiin onnellisia sen ajatuksen jälkeen!
+</body>

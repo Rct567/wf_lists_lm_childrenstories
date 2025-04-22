@@ -1,0 +1,31 @@
+<prompt>
+Please write a funny Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'České tradice a zvyky na svatbu'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>České tradice a zvyky na svatbu</title>
+<body>
+Paní Šárka a pan Petr, dva mladí a neuvěřitelně roztomilí lidé, se konečně rozhodli pro velkou událost – svatbu!  Připravovali se s nadšením a humorem, ačkoliv jim pár českých tradic trošku pletlo hlavu.  Byla to totiž svatba s mnoha neočekávanými zvraty, a co se dělo, to se ani slovy nedalo popsat.
+
+Šárka, dcera paní starostky ze Skřivánčího údolí, se vždycky chovala s pantoflem na noze, a to se bohužel odrazilo i na plánování svatby. Petr, obchodník s koňmi, byl nečekaně nápaditý a vtipem by mohl oslnit i samotnou královnu. Jenže jejich svatba měla být dle moudrého lidu, ne jako každá jiná.  Takhle se vše odehrávalo.
+
+Nejprve přišla slavnostní fáze - výběr svátkové úvazy pro svatební vůz.  Petr, naštěstí se svými koňmi s tolika ozdobami, si myslel, že "to co má" pro svatbu postačuje, a Šárka s hrůzou zjišťovala, že do svatebních tradic se zapracoval vtipné číslo! Vůz byl ozdoben tak originálně, až by se za ním schovával i sám kníže! Klobouky ze slaměných hrnků, svíčky z kořene hlíny a celé to nádivadlo na vrcholu vozu bylo jako malovaný sen z divadla s velkou dávkou chaosu. Hosté s údivem ujížděli, jak úchvatně originálně vypadá svatba dvou šašků z neznámých stran!
+
+Pak přišel čas na svatební dort. Šárka si přála tradiční český štrúdl, ale Petr si přál netradiční čokoládový dort v tvaru koně, protože s koňmi se prostě narodil a miluje!  Svatební cukrářka, paní Horáková, se nemohla rozhodnout, které z divů vytvořit. Nakonec udělala kompromis,  a vylezla z ní kombinace štrúdelu s čokoládovým koněm nahoře - krásně podivný kompromis vylepšený obřím srdíčkem.
+
+Pak přišel řád – souboj o hod do šperku – tradiční svatební zvyk. Petr, nevinně zamilujíc, hodil na štěstí a s perfektním výkřikem pocítil smetánově bílou perleť ve vzduchu, a štěstím se ho začal chytat jakoby byl z jiného světa!  To s krásou pocty na roztomilé kráse, ale neobvyklosti! Pohodlivěji se oblékl, s neotřelým vstupem, kde se ho všichni dívali a obdivovali jak to dělal! Hosté se smáli a nadšeně aplaudovali Peterově pohotovosti a s kladným pocitem vyrazili dovnitř pro výzdobu místnosti.
+
+Nejdůležitější částí svatební ceremonie, ovšem, byly  tradiční tance, kde se Petr zkusil naučit tance valčík se svými nejlepšími přáteli.  To by se dala shrnout v příhodě. Jedna neobyčejná osoba v návodu se dostal k jediné, neuvěřitelné otázce! A ptá se: "Můžeš jít valčíkem s dívkou, která s ním nese židličku?!"  Zasmál se a odpověděl s nadšením - "samozřejmě"! A tak se to stalo, v tanci to proběhlo až překvapivě skvěle - a valčíkem se zatančil Petr v nádherném šarmu a nadšených emocích se vkusu! 
+
+A pak přišel výrok, který změnil vše na svatbě.  Šárka z výkřiku vyslovila, že se z ní stala nejvíce romantická paní, jaká se kdy ve Skřivánčím údolí objevila!   Všichni hosté si na to vzpomněli a udělali z toho poznámku na trvání, se smíchem i emocemi. 
+
+Svatba byla smíchy a překvapeními nabitá, plná zvláštních tradic a ještě zvláštnějších zvyklostí, a nakonec dokázala, že i nečekané vtipy se propletou s láskou, i když s úsměvem od hostí i milovaných!  Paní Šárka a pan Petr si svou jedinečnou svatbu navždy uchovali v paměti jako výjimečný a nezapomenutelný den plný radosti, smíchu a úžasných překvapení.
+</body>

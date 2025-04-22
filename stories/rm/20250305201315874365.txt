@@ -1,0 +1,37 @@
+<prompt>
+Please write a light-hearted Romansh children's story that is at least 1000 words long.
+It must be completely written in proper Romansh (RM).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La historia dal giat cun il cor da leun'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>rm</lang_id>
+
+<title>La historia dal giat cun il cor da leun</title>
+<body>
+En in paesin grond e bell, en la Val Müstair, veviva in giat ch'era diferent da tut ils alters.  Sa chiamava  Gion.  Gion era in giat gris, cun ils uos da color brun-scura e in cor... ben, in cor da leun.  Per quel motiv, el era un pauc diferent.  Ils alters giats eran tranquils e amavan la siesta a la radis da las pedras.  Gion, el aveva sempre in'energia incredibla, un'energia che l'impulsava a esplorar ils camins impervi da la muntogna.
+
+Un di, mentre che la nebbia s'apartava e la lunna illuminava ils pics da la muntogna, Gion è partit en in'avventura.  El aveva sentit in sussurro, in sussurro che l'invitava a trovar la "Fontana da la Saviesa".  La legenda dis che quella fontana, nascosta en in vallon secret, era in'oracola che pudava responder a tut las dumondas.  Gion, cun il cor batent e ils uos brillants, è partit.
+
+El ha traversat in bosc magisch, ovun in'ombra misteriosa.  Las aves cantavan cants straners, e las flurs avevan un parfum inimaginavel.  Gion ha incontrat in'erma, una creatura cun la testa da capra e ils corns da cervo.  L'erma l'ha guardat cun in'espresion misteriosa e l'ha dumandat: «E che cherches tu, picchel giat?»
+
+«Cherco la Fontana da la Saviesa», ha respondì Gion, cun la voce ferma.
+
+«La Saviesa è a l'intern da te», ha dit l'erma, e l'ha guardat cun in'espresion misteriosa.  «Per trovarla, devi superar il miedu e la dubit.»
+
+Gion ha continuà il so viagch, traversant in pont da petra, tremant sco in foglia al vent.  El ha sentit la paura, in'ombra scura che l'ha cercada da blocar.  Ma Gion, cun il so cor da leun, ha superà il miedu.  El ha continuà, cun la determinacion da in eroi.
+
+El ha traversat un prat vast, inundat da flurs da tut ils colors.  En il medius da quels flurs, el ha incontrat in'avifauna, in'uccel cun las pennes da color arcobalen.  L'avifauna l'ha guardat cun in'espresion profunda e l'ha dit: «La Saviesa è la capacitat da vegnir a termini cun la vita, cun tut las soas dificultads.»
+
+Gion ha continuà il so viagch, sempre cun la speranza e la determinacion.  El ha traversat un lac, dovun il refless da la lunna danzava en l'acqua.  El ha sentit la dubit, una voce che sussurrava: «Perchè far tant sforz?  La Fontana da la Saviesa, ella po vegnir inmaginaria.»  Ma Gion, cun la forza dal so cor, ha ignorà quella voce.
+
+E finalmain, en la fin dal vallon, en in'ombra magica, el ha vist la Fontana da la Saviesa.  Era in'acqua cristallina, che risplendava a la lunna.  En l'acqua, el ha vist la soa propria figura, ma in forma da leun, cun la forza e la dignitat.
+
+Gion ha beiv da quella fontana.  E en quel moment, el ha capì.  La Saviesa na era betg in'oracola, betg in'informazion esterna.  La Saviesa era la soa capacitat da vegnir a termini cun la soa propria natura, cun tut las soas forzas e las soas debolezzeis.  El ha capì che il so cor da leun era betg un defect, ma una forza.
+
+Gion è torna a la soa casa, cun la saviesa en il cor.  El era il giat cun il cor da leun, ma era anca in giat cun la saviesa da la vita.  E da quel di inavant, el ha visch ils alters giats cun in'altra perspectiva, cun in'altra comprension.  El ha capì che tut ils giats, sco tut las creaturas, avevan in cor da leun, in'energia da viagch e la capacitat da trovar la soa saviesa en il cors da la vita.
+</body>

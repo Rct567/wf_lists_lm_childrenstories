@@ -1,0 +1,33 @@
+<prompt>
+Please write a uncomplicated Estonian children's story that is at least 1000 words long.
+It must be completely written in proper Estonian (ET).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Meremehe majakas ja selle elu'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>et</lang_id>
+
+<title>Meremehe majakas ja selle elu</title>
+<body>
+Kuiva mere ääres, mägede vahel, seisis pisike, aga kindla näoga majakas. Tema nimi oli Merike, ja ta oli ehitanud see merimees  Jaan. Jaan oli vanamees, kellel oli terve elu läbi olnud meri tema lähedal. Ta armastas merd nii nagu lapsed armastavad kommi ja koerad luud. Ta armastas meresõitu ja tuulte kõristamist, lainetest ja lainetest üles tõusmist. Ta ei kartnud õhtu tuisku ega hommiku kündavat tuult. Ta oli meresõidu kingitus, samuti  nagu meresõitjad talle andsid lootust ja tugevust.
+
+Merike oli väike, valge majakas, keda nähti kaugemaltgi meresõidu ajal. Tema valged seinad peegeldavad päikesevalgust ja pakuvad valgust tuiskude hämaras, mis aitavad meremeestel  läbi tuule käia ja ohuta ookeani  minna. Tema kõrval tuul ja meri tantsivad ja muudavad oma tuju. Kui oli päikesepaisteline ja soe päev, siis kiitis meri  Merikest ja lainesid, pannes need majakese ümber piruettides ja pööretes. Kui oli aga pime ja külm, siis vilistasid ja uljusid tuuled ja meresõiduga ookeani merilained ja merike hakkas keerlema ja peksma. Ja siiski läks ta kindlalt ja usaldusväärselt üles ja kummardus alla. Merike tundis ja armastas iga hetke merel.
+
+Ühel sügisel, kui lehed olid muutnud maad värvideks, nagu maalikunstnik oli üle uudse linana peetanud, ilmus tuiskude tõusnud Merikese kõrvale mees. Tema nimi oli Tõnis. Ta oli meresõitja, kellel olid valged, nagu lumi, käed. Tema mehed on olnud kõike alates õõtsuvate maapinnastest kuni  kaaluvate mägini. Tõnis oli tuntud oma  uute seikluste järele ja valdade vastasega. Tõnis oli nagu öeldud meresõitja. Tema riided on valged. Mees võis vees uppuda. Merike peegeldab ta külmunud nägu, pakkudes kuulsaid  lõhnaaineid merendusajal. Ta astus üles Merikese juurde ja avas ukse, mille ta tegi  natuke vaiksemalt. Tal oli kõrges pimeduses öö.
+
+Sellel õhtul pakkus tuiskude tõus tõelise tormi, kui oli vihma, tuule ja laineid. Laevad hüppasid ja vajusid mere kippumiste  sees, nagu nad oleksid kalakesi käsuga prantsuse kuningannale. Ookean ulgusega ja lõuendas. Meremehed olid ääreni segatud hirmu ja ärevusega, aga Merike paistsid. Tema silmis pimestav valge oli päike. Tõnis oli meresõidu ajal olnud kõige uhkem.
+
+
+Tema laev kannatas mere vaesusesse ja teiste laevadega ühinedes nad pidasid ookeani vastuse. Ka Merike hoidis kinni kõige kaugemate valgustitega. Ta süttis, süttis tugevasti. Merimehed nägid  Merikest üle merele. Ja nähes seda kauget valgust, said nad jõudu, lootust ja julgust. Nad olid teadlikud, et Merike on tugev valge kindlus. Merikesevalgus kallutas lainetest rütmikalt ja pakkus mehelegi  uute elujõudude valgust. Nende laev läbis kurnava tormi.
+
+Pärast seda olid need meresõitjad suured Merikese austajad. Tormiga üksteise taha pööramites nad teadsid, et nad teevad oma otsused. Nad hakkasid Merikele luuletusi kirjutama, kirjutades kõiki tormilisi meresõidupäevi ja meresõidu ohu  lood. Nii kasvas Merike kuulsus ja õitsev.  Lõpuks kõrvutas  Tõnis ise oma kirjaliku luule Merikese  luuletusega, tehes nad kõik oma meresõiduklassi  kangelased. Nad ütlevad, et iga meresõitja võis lugeda luuletuste sisus  ja näha sellest Merike.
+
+Sealt peale elas Merike ja Tõnis elu rikkust ja rõõmu.  Kõik lähedalasuvad meresõitjad tunnustasid Merikest kui  jumalat ja andsid talle kiituse  nutikuse ja ustavuse eest. See annab tugevust ja lootust igale meresõitjale meres. Merike oli kallis kinnitus  ja valgus nende rasketel tormipäevadel ja kui merelaevad nägid Merikele, tundsid nad end kaitstud. Nad kiitsid Jaani ja tema suurepärasele Merikele pühendunud töö eest.  Tormised ööd ja rahulikud päevad on need Merike andnud meresõitjatele  soovitud rõõmuga.
+
+
+Lapsed naudivad  ja räägivad Merikest ka täna.  Meremehed on tänada Merike pärast  kõike oma saatuse eest, mistõttu ta paistab igavesti mere kohal  pilgutamise ja valgustamine koidul. Nii nägid Jaan ja Merike kogu oma elu kaudu  kuidas meri oli tema jaoks palju enamat kui lihtsalt vesi ja kalad. Nad tundsid armastust  looduse vastu ja kõigi selliste, kes elavad. Meremehed võisid näha ja mäletada seda, et  Merikese lugu ja meresõitjad on alati olnud koos.
+</body>

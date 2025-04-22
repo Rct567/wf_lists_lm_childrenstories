@@ -1,0 +1,59 @@
+<prompt>
+Please write a simple and easy-to-follow Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'O Princovi, Který Se Nechtěl Vzdat Zlaté Koruny.'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>cs</lang_id>
+
+<title>O Princovi, Který Se Nechtěl Vzdat Zlaté Koruny</title><body>  
+Byl jednou jeden malý princ, který se jmenoval Vojtěch. Žil v překrásném království obklopeném zelenými lesy a modrými jezery. Jeho otec, král, byl moudrý a milovaný vládce, a jeho matka, královna, byla známá svou laskavostí a štědrostí. Vojtěch měl vše, co si mohl přát: hrady plné pokladů, služebníky, kteří ho obsluhovali, a spoustu přátel, se kterými si mohl hrát. Ale ze všeho nejvíce miloval svou zlatou korunu. Byla to koruna, kterou mu jeho otec daroval, když mu bylo pět let. Byla vyrobena z nejčistšího zlata a zdobily ji drahokamy všech barev. Vojtěch ji nosil každý den a nikdy se s ní nechtěl rozloučit.  
+
+„Vojtěchu,“ řekla mu jednoho dne jeho matka, „musíš si uvědomit, že koruna není to nejdůležitější na světě. Důležitější je, co máš tady.“ Poklepala si na srdce.  
+
+Ale Vojtěch jen zakroutil hlavou. „Ne, mami, koruna je moje největší poklad. Nikdy bych se jí nevzdal!“  
+
+Královna se usmála, ale v očích jí bylo vidět znepokojení. Věděla, že její syn musí ještě hodně pochopit.  
+
+Jednoho dne se v království objevil starý muž. Měl dlouhý bílý vous a oči, které zářily jako hvězdy. Přišel do hradu a požádal o audienci u krále.  
+
+„Pane,“ řekl starý muž, „přináším vám zprávu. Vaše království je v nebezpečí. Pokud princ Vojtěch neodevzdá svou zlatou korunu, království upadne do temnoty.“  
+
+Král se zamračil. „Co to říkáš? Proč by měl můj syn odevzdat svou korunu? Je to jeho nejcennější poklad.“  
+
+Starý muž pokynul hlavou. „Pravá hodnota nespočívá v materiálních věcech, ale v lásce a obětavosti. Pokud princ nepochopí tuto pravdu, království bude ztraceno.“  
+
+Král se zamyslel a pak přikývl. „Dobře. Řeknu mu to.“  
+
+Když král předal zprávu Vojtěchovi, princ se rozzlobil. „Nikdy! Nikdy se nevzdám své koruny!“  
+
+Král se pokusil syna přesvědčit, ale Vojtěch byl neoblomný. Odmítl poslechnout.  
+
+Ten večer se Vojtěch vydal na procházku do lesa. Chtěl se trochu uklidnit. Když procházel mezi stromy, náhle uslyšel slabý pláč. Šel za zvukem a našel malou holčičku, která seděla na pařezu a držela v rukou rozbitou panenku.  
+
+„Proč pláčeš?“ zeptal se Vojtěch.  
+
+Holčička vzhlédla. „Moje panenka je rozbitá. Byla to jediná hračka, kterou jsem měla. Teď už nemám nic.“  
+
+Vojtěch se zamyslel. Vytáhl z kapsy malý zlatý prsten a podal ho holčičce. „Tady, vezmi si tohle. Můžeš si koupit novou panenku.“  
+
+Holčička se usmála a poděkovala. Vojtěch cítil, jak mu v srdci něco puklo. Poprvé v životě pochopil, jaké to je, dát někomu něco cenného.  
+
+Když se vrátil do hradu, starý muž na něj čekal. „Viděl jsem, co jsi udělal,“ řekl. „Ale to nestačí. Musíš se vzdát své koruny, aby bylo království zachráněno.“  
+
+Vojtěch se zamyslel. Vzpomněl si na pláč holčičky a na to, jak dobrý pocit měl, když jí pomohl. Nakonec přikývl. „Dobře. Vzdám se jí.“  
+
+Se slzami v očích sundal zlatou korunu z hlavy a podal ji starému muži. V tu chvíli se celé království rozzářilo. Lesy zazelenaly ještě více, jezera se třpytila jako diamanty a lidé se začali smát a radovat.  
+
+Starý muž se usmál. „Nyní jsi pochopil, Vojtěchu. Pravá hodnota nespočívá v tom, co máš, ale v tom, co dáváš.“  
+
+Od toho dne se Vojtěch změnil. Už nebyl sobecký a pyšný. Místo toho se stal laskavým a štědrým princem, který pomáhal všem, koho potkal. A i když už neměl svou zlatou korunu, cítil se šťastnější než kdy předtím.  
+
+A tak žili šťastně až do smrti. A království zůstalo plné lásky a světla, protože princ se naučil, že největší poklad je to, co nosíme v srdci.  
+
+Konec.</body>

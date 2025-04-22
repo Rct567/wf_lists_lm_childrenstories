@@ -1,0 +1,41 @@
+<prompt>
+Please write a creative and original Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A farkasok, akik megvédték az erdőt minden nap.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>hu</lang_id>
+
+```html
+<title>A farkasok, akik megvédték az erdőt minden nap.</title>
+<body>
+Egy messzi-messzi, zöldellő dombokkal és susogó fákkel teli erdő mélyén élt egy farkascsalád. Nem voltak ők akármilyen farkasok; ők voltak a Meseerdő Védelmezői. A feladatuk egyszerű, mégis nagyszerű volt: megvédeni az erdőt minden nap a gonosztól, a bajtól, és mindentől, ami árthatott az erdei lakóknak.
+
+Az apa farkas, Bátor, óriási és sötét szőrű volt, szemei szikrázóan okosak, mintha az egész erdő titkait őriznék. Az anya farkas, Bölcske, fehér szőrrel és lágy tekintettel rendelkezett, ami megnyugtatta a legijedősebb erdei kis állatokat is. Három kölyökük volt: a legkisebb, Kicsi Huszár, aki folyton rohant és kalandvágyott; a középső, Kincses, aki szeretett a fák lombkoronájában kuporogni, és megfigyelni az apró csodákat; és a legidősebb, Tündér, aki a család feje lett, szép és okos, mindenkire vigyázott.
+
+Reggelente, amikor a nap sugarai megfestették az erdőt arannyal, a farkascsalád egy különleges rituálét végzett. Bátor elmondott egy mesét az erdő történetéből, miközben a kölykök körbeülték. Kicsi Huszár szórakozottan ugrált, Kincses egy helyben ült, Tündér pedig figyelt, szívott egy nagy levegőt, és minden szót magába szívott. Miután a történet véget ért, a farkasok útra keltek. Bátor vezette a csapatot, Bölcske követte őket, majd a kölykök sorakoztak.
+
+Első körükben a madarak védelme volt a feladatuk. Egy szélvihar fenyegetett az erdőbe, amely a fészkeket elsöpörhette. Bátor utasította Tündért, hogy keresse meg a gyengébb fészkeket, Kincses a magasba szökött, hogy figyelemmel kísérje a vihart, Kicsi Huszár pedig összegyűjtötte a száraz ágakat, hogy megerősítsék a fészkeket. Bölcske szelíd öleléssel óvta a kismadarakat a félelemtől. A farkasok gyorsan és ügyesen dolgoztak, így mire a szél elkezdett süvíteni, minden madár biztonságban volt.
+
+Egy másik nap a Mókus makkjaival adódtak problémák. A makkokat egy rosszindulatú fekete madár, Kormos, próbálta ellopni, aki szerette a bosszúságot. Kicsi Huszár azonnal felfedezte a veszélyt, és jelezett a többieknek. Tündér, okosságát bevetve, a makkokat egy rejtekhelyre vezette, Kincses a fák tetejéről figyelte Kormost, hogy nem próbálkozik-e újra. Bátor és Bölcske hangos ugatással kergették el a fekete madarat, akinek nem sikerült zsákmányt szereznie.
+
+Egyszer egy szürke róka, Rókusz, próbált becsapni a családra. Rókusz úgy tett, mintha segítene, de valójában az erdő legjobb bogyóit akarta ellopni. Bölcske észrevette Rókusz csalárdságát, és finoman, de határozottan elmondta neki, hogy a jóindulat nem a kapzsiságon múlik. Bátor pedig figyelmeztette a kis állatokat, hogy vigyázzanak a csalókkal. Rókusz végül szégyenkezve távozott, és soha többé nem tért vissza.
+
+Az évszakok változtak, ahogy a farkasok védelmezték az erdőt. A hó hullása közben segítettek a nyulaknak meleg helyet találni, tavasszal megóvták a virágokat a taposástól, nyáron itatták az állatokat, az esőzés közben, ősszel pedig összegyűjtötték a lehullott leveleket a sünseregnek. Minden napjuk más volt, de a céljuk mindig ugyanaz maradt: a Meseerdő békéjének megőrzése.
+
+Egy hideg téli estén, mikor a hold ezüstként ragyogott az égen, a farkascsalád meglepődött. A levegőben furcsa rezgés érződött. Kicsi Huszár ugatni kezdett, Tündér azonnal megérezte a bajt. Egy hatalmas, fekete köd közeledett az erdőhöz, és a köd sötétsége mindent el akart pusztítani.
+
+Bátor tudta, hogy ez a pillanat, amitől tartottak, de erre készültek a legjobban. Gyülekezett a család, és Bölcske a legbátrabb hősök is megfáztak.
+
+Bátor felszólított mindenkit, az erdőlakók, és mondta "mostantól közösen harcolunk, amíg a nap fel nem kel, ez az erdő nem rohadhat meg. Hallatszott a fütty a szélben.
+A farkasok az élen vonultak, és megmutatták erejüket. A farkasok, kölykök mindenki! Az erdő lakói köröttük, a köd megpróbálta elborítani az erdőt. Tündér hangosan vezényelt, míg Kincses, ügyesen, a ködöt apró részekre osztotta. Kicsi Huszár rohant, megpróbálta megzavarni a sötétséget, míg Bölcske a fáradt állatoknak adott erőt. A farkasok éles hangon üvöltöttek, miközben küzdöttek a sötétséggel. A félelmet, a bajt.
+
+Együttes erejükkel a farkasok napfelkeltéig küzdöttek. És a nap felkelt. Az a nap egy aranyos fénysugár, a köd visszahátrált, és felolvadt, mint a hó. A sötétség eltűnt, a Meseerdő pedig újra napfényes volt. A kis állatok hálájuk jeleként énekelték az erdő dalát, és a farkasok hírnevét terjesztették.
+
+Minden nap, miután a farkasok megvédték az erdőt, összegyűltek egy öreg tölgyfa alatt. Bátor mesélt egy új történetet, Bölcske vigyorgott, a kölykök nevettek. Tudták, hogy a jövő kihívásokkal teli lesz, de mindegyik nap készen álltak rá. Hiszen ők voltak a Meseerdő Védelmezői, és a védelmet sosem adták fel.
+A Farkasok, akik megvédték az erdőt minden nap. Mindig is és örökké.

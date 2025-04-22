@@ -1,0 +1,43 @@
+<prompt>
+Please write a timeless Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Septiņas dienas līdz brīvdienām'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lv</lang_id>
+
+<title>Septiņas dienas līdz brīvdienām</title>
+<body>
+Mazā Anete bija ļoti veikla meitene. Viņas acis spīdēja kā dienas saule, un viņas smieklus varēja dzirdēt pat ārpus mājas, kad viņa spēlējas ar saviem draugiem – Maiku un Rūtu. Taču nedēļas vidū, kad garās darba dienas tuvojās un pārtraukumi starp tām likās tik īsi, Anete sāka justies nedaudz nomākta.
+
+"Patiesībā, mammu," viņa jautāja, ieturot elpu un skatīdamās mammai acīs, "vai katra diena patiešām ir vienāda?"
+
+Mamma, mierīgi cepot sviestmaizes, pasmaidīja.  "Protams, dēliņa, katra diena ir unikāla.  Vai tu neesi pamanījusi, ka pat dienas gaisma, lai arī tā ceļo pa vienādiem ceļiem debesīs, katru reizi apgaismo visu mazliet citādāk? Un tas ir tik skaisti!"
+
+Anete nopietni klusēja un paklausīgi apēda savus sviestmaizes. Viņa novēroja, kā viņas mamma sarunājas ar tēvu pa tālruni. Viņuprāt, katra diena noteikti bija pavisam cita, tomēr tā bija tāda pati nedēļas daļa –  dienā līdz brīvdienām.
+
+Pirmdien Anete devās uz skolu, nesot mugursomā krāsainas zīmuļkrāsas un stāstus, kas gaidīja uz papīra. Pēkšņi viss kļuva svarīgāks – cik tāls ir ceļš uz skolu, cik ilgas stundas viņai būs jāuzmanās klasē, cik garš būs darbs mājās.
+
+Otrdien, Anete mācījās par ģeometriju, pēkšņi kļūstot pārliecināta, ka trijstūri var pārtap par milzīgiem ērgļiem, lidojošiem augstu debesīs. Trešdien, jautājums par dārza kopšanu iedvesmoja jaunākos sapņus par saulainu vasaru un gardu ķiršiem.
+
+Ceturtdien, viņas priecīgā nodarbošanās ar mākslas darbu kļuva par kaut ko vairāk, nekā vienkārša spēle.  Šķita, ka Anete varētu krāsot visu pasauli ar jaunu un spīdošu gaismu.
+
+Piektdien Anete jau jutu kaut kādu nelielu trauksmi, nemiera smaržu, jo nākamās septiņas stundas neslēpa nevis spēli, bet darba dienu priekšā. Anete vēroja sienas pulksteni.  Lai gan laiks vēl nav pierādījis to, viņai sāka šķist, ka tie nebeidzami darbi ir tikai pagarināts brīdi līdz gaidītajai brīvdienai.
+
+
+Pēc tam ieradās sestdiena.  Anete jutās brīvā. Viņa iet uz parku. Ziedi smaržoja pavasara brīvību. Viņa izkāpa. Skats bija pārsteidzošs. Ķirškoku ziedi krāsoja debesis, saule smēķēja, lai arī mākoņi aizklāja debesis. Katra mirklis bija spēcīga sajūta, nekad vēl tā nebija tik pilnīgi iekļāvusies brīvā dvēselē.
+
+Svētdiena nāca kā mierpilna daba. Anete sarunājas ar veco dārznieku. Viņa jautā, kāpēc ziedi smaržo. Viņš pasaka: "Katram ziedam ir savs stāsts, savu smalku mūziku. Dabas dvēseles dzied."  Anete, ieturot elpu, noklausās šādu stāstu.
+
+
+Tik daudz dienu līdz nākamajām septiņām dienām. Kaut kādā neaptveramā veidā tas kļuva svarīgāks, nekā tikai jāpagaida brīvdienas. Tas bija tāds mazs maģisks ceļojums no nedēļas vidus līdz pašām brīvdienām. Katra diena pati par sevi kļuva par brīvdienām.  Anete sāka skatīties uz katru jaunu dienu, nevis kā parastām dienas atgādinājumiem par laika skaitīšanu. Tā bija jauna spēle un skaisti atmiņu vākšanas laiki.
+
+
+
+Vienkārši katra diena bija īpaša ar visu saviem pārsteigumiem un iespaidiem, nevis "septiņas dienas līdz brīvdienām". Anete saprata, ka katra diena pati par sevi jau ir brīvdiena. Tas atkarīgs tikai no dvēseles stāvokļa.
+</body>

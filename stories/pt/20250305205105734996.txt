@@ -1,0 +1,50 @@
+<prompt>
+Please write a silly Portuguese (Portugal) children's story that is at least 1000 words long.
+It must be completely written in proper Portuguese (Portugal) (PT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>pt</lang_id>
+
+<title>A Aventura do Zé Pequeno e do Pão-de-Queijo Gigante</title>
+<body>
+O Zé Pequeno, um rapazinho com olhos tão brilhantes como as bolinhas de gude e um cabelo encaracolado como um cacho de uvas, vivia numa aldeia pequenina, perto de um bosque encantador.  A aldeia era tão pequena que, quando o sol se punha, parecia que o céu inteiro descia para a aldeia e pintava as casas com cores de aquarela. Zé Pequeno adorava explorar o bosque, cheio de árvores frondosas e sons estranhos.
+
+Um dia, enquanto explorava um caminho sinuoso, Zé Pequeno deparou-se com algo inacreditável.  Era um pão-de-queijo! Mas não era qualquer pão-de-queijo. Era um pão-de-queijo gigante, maior do que uma casa!  O pão-de-queijo, dourado e reluzente, parecia estar a sorrir.  Zé Pequeno ficou pasmo.  Nunca tinha visto nada igual.
+
+"Olá!", sussurrou Zé Pequeno, com a voz tão fina como um sino.
+
+O pão-de-queijo gigante balançou ligeiramente. "Olá, Zé Pequeno!  Vim de uma terra muito distante, onde os pão-de-queijos dançam ao ritmo das estrelas e falam em rima!", respondeu o pão-de-queijo, num tom de voz aveludado como o de uma velha avó.
+
+Zé Pequeno, espantado, não conseguia acreditar no que ouvia.  Um pão-de-queijo que falava!  "Mas... como é que um pão-de-queijo fala?", perguntou, com os olhos arregalados.
+
+"Bem, Zé Pequeno", respondeu o pão-de-queijo, "eu sou um pão-de-queijo especial.  Sou o Pão-de-Queijo Gigante, guardião dos sonhos da aldeia.  E hoje, preciso da tua ajuda!"
+
+"A minha ajuda?  Para quê?", perguntou Zé Pequeno, com um ar de curiosidade.
+
+"A bruxa Malícia, que vive nas profundezas do bosque, roubou os sonhos da aldeia!", explicou o Pão-de-Queijo Gigante. "Os sonhos são como as estrelas da noite, e sem eles, a aldeia vai ficar mergulhada em escuridão e tristeza.  Só tu, Zé Pequeno, com o teu coração cheio de alegria, podes ajudá-la a recuperá-los!"
+
+Zé Pequeno, sem hesitar, respondeu com um sorriso largo. "Claro que posso ajudar!  Vamos lá!"
+
+Juntos, Zé Pequeno e o Pão-de-Queijo Gigante partiram em busca da bruxa Malícia.  O caminho era cheio de obstáculos: um rio de mel que quase os afogou, um bosque de árvores que cantavam canções assustadoras e uma montanha de amendoins que quase os engoliu.  Mas Zé Pequeno, com a sua coragem e o seu espírito aventureiro, superou todos os desafios.
+
+Finalmente, chegaram à caverna da bruxa Malícia.  A caverna era escura e fria, cheia de teias de aranha e feitiços esquisitos.  A bruxa Malícia, com um nariz comprido e olhos vermelhos, estava a rir maliciosamente, enquanto observava os sonhos presos em garrafas.
+
+"Que audácia a tua, Zé Pequeno!" exclamou a bruxa. "Que pretendes fazer com os meus sonhos?"
+
+"Queremos os sonhos de volta para a aldeia!", respondeu Zé Pequeno, com a voz firme.
+
+A bruxa Malícia riu ainda mais alto. "Os sonhos são meus! Não os vais recuperar!"
+
+Mas o Pão-de-Queijo Gigante, com um enorme suspiro, disse: "Zé Pequeno, lembra-te do que é importante na vida.  A bondade e a amizade vencem tudo!"
+
+Zé Pequeno, inspirado pelas palavras do pão-de-queijo, sorriu e disse: "A bondade é mais forte que qualquer feitiço!"
+
+Ele ofereceu à bruxa Malícia um pedaço de pão-de-queijo, o mais delicioso que já tinha provado.  A bruxa, que nunca tinha experimentado um pão-de-queijo tão bom, ficou tão contente que esqueceu todos os seus feitiços e devolveu os sonhos à aldeia.
+
+A aldeia, iluminada pela luz dos sonhos, ficou mais feliz do que nunca.  Zé Pequeno e o Pão-de-Queijo Gigante foram aclamados heróis.  E a partir daquele dia, a aldeia sempre se lembrou do corajoso Zé Pequeno e do seu amigo incrivelmente fantástico, o Pão-de-Queijo Gigante.  E todos os dias, depois do pôr do sol, os sonhos da aldeia dançavam ao ritmo das estrelas, com o Pão-de-Queijo Gigante a cantar canções de alegria.
+</body>

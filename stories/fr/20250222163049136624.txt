@@ -1,0 +1,51 @@
+<prompt>
+Please write a funny French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Les Secrets de la Maison Hantée'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>fr</lang_id>
+
+<title>Les Secrets de la Maison Hantée</title>
+<body>
+Le vent sifflait à travers les vieilles planches du toit de la Maison Hantée, un bâtiment aussi sombre que le cœur d'un corbeau.  Personne n'osait s'approcher, à cause des histoires terrifiantes racontées par les villageois. On disait que des fantômes malicieux y rôdaient, que les murs étaient couverts d'épouvantables dessins et que des cris glaçants résonnaient la nuit.  Mais  trois enfants,  un petit garçon nommé  Pierre, une fille espiègle nommée  Sophie, et un garçon grand et mince nommé  Maxime,  n'avaient pas peur.  Ils étaient curieux, très curieux.
+
+Pierre, avec ses cheveux roux bouclés, avait un cœur aussi grand que le ciel d'été. Sophie, aux yeux pétillants comme des émeraudes, était une experte en déduction.  Maxime, quant à lui, avait une imagination aussi vaste que la forêt derrière la maison, une imagination capable de transformer les rochers en dragons et les feuilles en princesses.
+
+Un après-midi ensoleillé, alors que les cloches de l'église sonnaient pour l'heure du goûter, les trois intrépides explorateurs se sont glissés dans la cour de la Maison Hantée.  Ils étaient armés de leurs plus grands courage, leurs sacs à dos remplis de biscuits et de petits jouets.
+
+La porte, rouillée et grinçante, a cédé sous leur poussée. L'intérieur était plongé dans une obscurité profonde, mais leurs lanternes éclairaient la pièce, révélant des couloirs labyrinthiques qui semblaient se déformer avec chaque pas.
+
+«  C'est effrayant ! » dit Sophie, mais son intonation était plus une exclamation qu'une véritable peur.
+
+«  N'ayez crainte, mes braves explorateurs ! » dit Pierre avec un sourire intrépide.
+
+Ils ont exploré le premier couloir. Il y avait une vieille armoire en bois qui grinçait lorsqu'ils la touchaient.  A l'intérieur, pas de fantômes terrifiants, mais un tas de vieux livres poussiéreux.  Sophie, avec sa capacité à déchiffrer les énigmes, a trouvé un vieux livre intitulé "Les Secrets de la Maison Hantée".  Le livre, écrit en un français ancien et un peu bizarre, décrivait les mystères de la demeure.
+
+«  Il y a un trésor caché ! » s'est exclamé Maxime, les yeux brillants d'excitation.
+
+«  Où est-il caché ? » a demandé Pierre, impatient.
+
+Le livre leur a indiqué qu'il fallait résoudre un énigme pour trouver le trésor.  L'énigme disait :  «  Trouvez l'ombre qui danse au cœur de la nuit. »
+
+Pierre, observant attentivement, a remarqué une petite tache de lumière qui dansait à travers une fissure près du plafond.  Ils ont suivi la lumière jusqu'à une chambre secrète.  A l'intérieur, il y avait une petite horloge antique, qui tiquetaient d'une façon particulière.
+
+Ils ont regardé l'horloge pendant quelques minutes.  Puis, avec un cliquetis, l'horloge s'est ouverte.  Un petit coffre-fort est apparu, contenant des pièces d'or et des bonbons.
+
+«  Un trésor ! » s'est écrié Maxime.
+
+«  Mais qu'est-ce qu'on y fait avec autant de bonbons? » s'est demandée Sophie.
+
+«  On va les partager avec les enfants du village ! » proposa Pierre.
+
+Ils ont partagé le trésor avec tous les enfants du village.  La Maison Hantée, autrefois source d'histoires effrayantes, est devenue un lieu de partage et de joie.  Les villageois ont compris que la maison n'était pas hantée, mais qu'elle gardait les secrets d'une générosité inattendue et d'une amitié profonde.
+
+Les trois enfants ont réalisé que les peurs et les mystères sont souvent plus amusants à découvrir qu'à éviter.  Ils ont ri et se sont promis de continuer à explorer le monde avec leurs cœurs ouverts et leurs esprits curieux.
+
+Depuis ce jour, la Maison Hantée est devenue leur lieu secret, un endroit où ils partageaient leurs rêves et leurs espoirs. Et ils ont toujours gardé les secrets de la maison avec eux, secrets de courage, de curiosité, et d'amitié.
+</body>

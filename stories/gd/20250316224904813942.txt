@@ -1,0 +1,65 @@
+<prompt>
+Please write a light-hearted Scottish Gaelic children's story that is at least 1000 words long.
+It must be completely written in proper Scottish Gaelic (GD).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Na Gnìomhan is na Smùidhean is a’ Chaisleach Sheòl'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>gd</lang_id>
+
+<title>Na Gnìomhan is na Smùidhean is a’ Chaisleach Sheòl</title>
+<body>
+Bha uair ann, fad ùine mhòir, ann an gleann àlainn fo sgàil beanntan àrda, baile beag air an robh Cnoc-an-Òir. B’ e àite làn spòrs is gàire a bh’ ann, far an robh a h-uile duine eòlach air a chèile, agus far an robh na clann a’ còrdadh riutha gu mòr a’ cluich air feadh nan raointean uaine.
+
+Ann am meadhan a’ bhaile bhig bha caisteal beag grinn, ris an canadh iad a’ Chaisleach Sheòl. Cha robh a’ Chaisleach Sheòl idir cho mòr ris na caistealan mòra a chì thu anns na leabhraichean eachdraidh, ach bha i fhathast na h-àite sònraichte. Bha tùir bheaga oirre, dorsan cumhang, agus craobh-ubhal mòr, brèagha a’ fàs sa ghàrradh. B’ e seo an t-àite far an robh na gnìomhan beaga a’ fuireach.
+
+Bha na gnìomhan nam beathaichean beaga, leathann, flùrach. Bha dath eadar-dhealaichte aig gach gnìomh. Bha Gilleasbuig, an gnìomh as motha, dearg mar ròs. Bha Catrìona, le a falt buidhe mar ghrian, uaine mar feur. Bha Eòin, beag is snog, gorm mar na speuran. Agus bha Mairi, le a dathan dearga agus orains, coltach ri teine beag. B’ e na gnìomhan na gnìomhan-cridhe aig a’ Chaisteil Sheòl, an luchd-còmhnaidh is spòrsail a’ bhaile.
+
+Ach a h-uile beagan sheachdainnean, thàinig rud neo-àbhaisteach gu Cnoc-an-Òir. Thàinig na smùidhean. B’ e smùidhean iad sin – rudan mì-thoilichte, dubha, smùideach, a rinn a h-uile càil a’ faireachdainn dona. Dh’fhaodadh na smùidhean a bhith air an adhbharachadh le diofar rudan – bochdainn dhaoine, gun ghàire, no dìreach dìth spòrs. Nuair a thigeadh na smùidhean, bhiodh a h-uile duine a’ faireachdainn brònach, agus bhiodh a h-uile gàire a’ falbh.
+
+Aon latha, bha Gilleasbuig a’ coimhead a-mach às an uinneag. “Tha na smùidhean a’ tighinn,” thuirt e, a ghuth a’ crith. “Tha mi ga fhaicinn, tha iad dorcha agus mì-thoilichte!”
+
+Chuala Catrìona a chridhe. “Oh, nach eil e uamhasach!” ghlaodh i. “Dè bu chòir dhuinn a dhèanamh?”
+
+Rinn Eòin stad beag. “Feumaidh sinn rudeigin a dhèanamh,” ars’ esan. “Feumaidh sinn stad a chuir air na smùidhean."
+
+Sheall Màiri mun cuairt. “Ach ciamar?” dh’fhaighnich i. “Tha iad cho dorcha, cho làidir.”
+
+Thòisich na gnìomhan a’ beachdachadh. Bhiodh iad air dèiligeadh ris na smùidhean roimhe seo. Thug iad còmhla an spòrs is an aoibhneis aca gus an ruaig, ach bhiodh an gnìomh seo a’ caitheamh an lùth. Bha iad airson dòigh nas fheàrr a lorg.
+
+“Tha fios agam,” thuirt Gilleasbuig gu h-obann. “Nach bu chòir dhuinn sgrùdadh a dhèanamh air na smùidhean fhèin? Is dòcha gun tuig sinn iad, gum faigh sinn dòigh air am bacadh.”
+
+Chuir a’ bhuidheann fàilte air a’ bheachd. Co-dhiù, nam biodh na smùidhean air am faicinn bho chian, bhiodh e nas miosa. Rinn iad plana. Bhiodh Eòin a’ dol a-mach an toiseach, leis gu robh e cho beag ’s gun robh e a’ dol a-mach gun fhiosta. Chuidicheadh Màiri gus na smùidhean a lorg, leis a’ choltas gu soilleir aice. Bheireadh Gilleasbuig agus Catrìona cuideachadh ma bha feum air.
+
+Le cridheachan leum, dh’fhalbh Eòin. Bha e sàmhach ann am meadhan nan smùidhean. Ghabh e ri dath dubh agus faireachdainn dorcha. An dèidh dha cuairt-dànachd a dhèanamh anns na smùidhean, thill Eòin agus thuirt e, “Tha na smùidhean cho brònach oir chan eil daoine a’ gàireachdainn.”
+
+"Gàireachdainn," thuirt Mairi. "Tha e sìmplidh, ach bha sinn an-còmhnaidh dìreach a’ cleachdadh spòrs. Chan e àm fìor a th’ ann!”
+
+“Feumaidh sinn daoine a dhèanamh toilichte," arsa Catrìona, "gus an urrainn dhuinn casg a chuir air na smùidhean!"
+
+Thog na gnìomhan an còmhraidh a dh’ ionnsaigh mar a b’ urrainn dhaibh seo a dhèanamh. Dh’fhaodadh iad na h-aon dòighean a chleachdadh an-còmhnaidh.
+
+Chuir na gnìomhan air dòigh planadh ùr. Bha fios aca gum biodh e obair chruaidh, ach bha fios aca cuideachd gum bu chòir dhaibh feuchainn.
+
+Anns an ath sheachdain, chaidh na gnìomhan ag obair mar sgioba. B’ e Mairi, le a deàrrsain dath-teine, a bu ghairme a rinn eisimpleir. Dhèanadh i measgachadh dhe dhanns is de sheinn ann am meadhan a’ bhaile. Dhèanadh daoine gàire.
+
+Bhiodh Catrìona, leis a’ ghuth ciùin aice, a’ feadaireachd dhàin air feadh nan raointean. Bha sgeulachdan sònraichte aig Gilleasbuig airson gach leanabh. Bha Eòin, le a chomasan dìreach a bhith an sin, a’ dèanamh deagh thiodhlac dha na daoine. Bha e coltach gur e spòrs an-còmhnaidh.
+
+Bha iad ag obair gu cruaidh, ach bha e tòrr nas spòrsaile na bha iad a’ smaoineachadh. Bha gàire ann an àiteachan ris nach robh dùil, le daoine a bha gan tuiteam còmhla riutha airson spòrs. Gach latha a thòisich daoine a’ gàireachdainn a-rithist, bha na smùidhean a’ tionndadh nas fhann. B’ e iongnadh a bh’ ann dha na gnìomhan gu dearbh cho èifeachdach ’s a bha seo!
+
+Anns an t-saoghal sin, bha an uile càil a’ fàs nas fheàrr a-rithist. Agus aon mhadainn, nuair a choimhead Gilleasbuig a-mach às an uinneag, thuirt e, “Tha na smùidhean air falbh!"
+
+Choisich na gnìomhan a-mach a’ coimhead airson fhianais. Cha robh gin ann! Bha na speuran gorm, bha an talamh uaine, agus bha gàire air gach aodann. Bha na daoine uile a’ gàireachdainn agus a’ cluich, agus bha an aimsir air leth.
+
+Bho latha sin, thàinig na gnìomhan a-rithist airson tadhal air a h-uile àite. Gach uair, sheall iad orra ciamar a thug iad air daoine gàireachdainn agus spòrs a bhith aca. Mar sin, nam biodh na smùidhean a’ tighinn air ais, bhiodh fios aca dè a dhèanadh iad.
+Chuir iad sùil air a chèile agus thug iad gaol agus tòrr gàireachdainn dha chèile. Mar sin, chaill na smùidhean a’ bhuaidh aca. Chaidh na gnìomhan a thoirt còmhla anns a’ Chaisleach Sheòl. Agus, thug iad orra cuimhneachadh: ma bha duine a’ gabhail an spòrs agus an aoibhneis aca, bhiodh iad an-còmhnaidh a’ soirbheachadh!
+Agus bho sin a-mach, bha Cnoc-an-Òir làn gàire agus spòrs, agus cha do thill na smùidhean gu bràth.
+Bha a’ Chaisleach Sheòl làn gnìomhan.
+Agus bha na gnìomhan, a-rithist, sàbhailte is toilichte.
+Thòisich iad uile a’ gàireachdainn, agus mar a’ chuilthinn as fheàrr, bhiodh an gàireacjainn aca a’ sgaoileadh mar theine tro mhòine.
+Mar sin, ann am baile Cnoc-an-Òir, fuirich an aoibhneas is an spòrs. Agus is e sin deireadh na sgeòil.
+</body>

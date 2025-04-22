@@ -1,0 +1,41 @@
+<prompt>
+Please write a simple and easy-to-follow Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'O chytrém ježkovi a jeho kamarádech z lesa'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>O chytrém ježkovi a jeho kamarádech z lesa</title>
+<body>
+V temném a tajemném lese, plném šumícího listí a vonících květů, žil malý ježek jménem Ježek. Byl to chytrý ježek, s malými, zvědavými očima a stále plný záhadných plánů.  Jeho malý domeček byl ukryt pod kořenem staré duby, kde se proplétaly světýlka světlušek a slyšet bylo cvrlikání tajemných nočních tvorů.
+
+Ježek se s radostí procházel lesem a pozoroval své přátele.  Byla tam Liška, s krásným, červeným kožíškem a okouzlujícím smíchem. Chodila za líbeznou vůní hub a hladové housenky.  Pak tam byl Zajíc, s dlouhými ušima, skrývající se v trávě a s neuvěřitelnou schopností skákat přes keře s divokou rychlostí.  A nakonec Veverka, rychlá jako vítr, se skokem od větve k větvi sbírala lusky a žaludy do svého bohatého zásobníku.
+
+Jednoho horkého letního dne, když slunce svítilo jako tisíce zlatých mincí, si Ježek všiml, že na okraj lesa se blíží dav zvědavých a tichých zvířat. Zdálo se, že něco hledají a jejich oči byly plné vzrušení. "Co se děje?", zeptal se Ježek Lišky, která právě žvýkala krásně vonící bobule.
+
+"Hm, na lesní cestu, tam za vysokým skalním útesem, se přehnala velká bouře," odpověděla Liška a zmáčkla oko. "Ponořila strom v rybníku pod bahno a všechno okolo je zaplavené vodou!"
+
+Zajíc, který s ušima šálil po zemi, se ozval, "Hluboké vodní jamy nám odřízly od suchavých luk a zásob! Ještě, že si pamatujeme na Ježekovy rady."
+
+Ježek se na okamžik zamyslel.  Usmál se s rozumným výrazem. "Nebojme se!" řekl odhodlaně. "Najdeme způsob, jak dostat potravu k nám! Použijeme lesní inteligenci!"
+
+Ježek si z hlíny vytáhl malou misku. "Musíme zorganizovat pomoc," řekl.  Veverka, s rychlostí větru, vzlétla na nejvyšší strom a s velkými větrem vlajejícími lístky se podívala kolem dokola a uviděla na rovině několik uschnutých kmenů. "Všechny, co jsme sbalili po starém ohni, jsou nejlepší volba!" zaječela v radostné vřavě. "Mohly by se hodit!".
+
+Liška šikovně štědla kořínky s odříznutými koncemi podél cestičky dolů ke vodní díře, s pevnou a pevnější dlažbou. Liška, vědící že kořínky se dají snadno proplétat do bahna, s obratností a odvahou přisoudila k sobě všechny kořeny po okolí s úžasem.
+
+
+"Vyrobíme provizorní most!" Ježek vykřikl, "Každý z nás bude pomáhat. Najdeme a neseme suchá kola po lesních cestičkách, s nimiž je možné sbalit. Postavíme cestu z kol, po které dosednou zvířata s únavou v zadku!"
+
+Veverka, s trhavými pohyby skákala mezi stromy a sháněla suchá kola, s úžasem sbírala, co najde, z kmenů rozbitých stromy.  Zajíc, s rychlostí blesku, posbíral kousky dřeva. Liška, s rozkoší v očích, štědla kořínky, zatímco Ježek vedl a organizoval všechny kamarády. Všichni, v jednom tónu práce a energie, v součinnosti s celou lesní sílou, se dali do práce!
+
+
+Když se slunce sklonilo k obzoru a les se ozýval všudypřítomným zpěvem, bylo hotovo!  Cestička vedoucí ke skalnímu útesu, s elegantní a trvalou stabilitou, se skládala z vlnění.  Ježek se chvěje radostí, viděl, že cesta je plně povalená a propletená a má skvělý vzhled. "Všechno je hotovo! Jsme zachráněni!" zvolal s hrdinstvím a pocítil radost v celém srdci.
+
+Zvířata, plná vděku, po krátkém odpočinku a s chutí se probojovala k lesním místem a užili si lahodné zeleniny a lesní jídla, bohatá v zásobě s chutnou lesní mlékem. Ježek je prohlásil za hrdiny!  S radostným srdcem se zvířata vracela zpět na suchá louka a les. A tak, i nadále, když bude čas, ježková moudrost sloužila k výměně znalostí a zásob s jeho milovanými přáteli! A lesní život byl znovu s veselím a prosperitou.
+</body>

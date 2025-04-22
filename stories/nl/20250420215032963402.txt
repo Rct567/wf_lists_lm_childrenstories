@@ -1,0 +1,58 @@
+<prompt>
+Please write a timeless Dutch children's story that is at least 1000 words long.
+It must be completely written in proper Dutch (NL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>nl</lang_id>
+
+```xml
+<title>De Avonturen van Kleine Saar en de Fluitende Tulpen</title>
+<body>
+In het hart van Nederland, daar waar de wind molens laat draaien en de dijken het water tegenhouden, woonde een klein meisje genaamd Saar. Haar haren waren zo goudgeel als de narcissen in het voorjaar en haar ogen zo blauw als de diepste zee. Saar woonde in een klein, rood huisje met witte gordijnen, gelegen aan de rand van een kleurrijke tulpenveld.
+
+Elke ochtend, zodra de zon opkwam en de dauw op de bloembladen glinsterde, rende Saar naar buiten. Ze had één grote passie: de tulpen. Niet de gewone, saaie tulpen, nee, Saar hield van de meest bijzondere soorten, de roze, de gele, de rode, de paarse en de oranje tulpen. Maar er was één speciale soort die haar aandacht het meest trok: de Fluitende Tulpen.
+
+De Fluitende Tulpen waren anders dan alle andere tulpen in het veld. Ze hadden niet alleen prachtige kleuren en elegante vormen, maar ze konden ook fluiten! Zachtjes, als de wind door de bladeren speelde, of helder, als een merel in de ochtend. Niemand wist waarom deze tulpen konden fluiten, maar het was een mysterie dat Saar keer op keer probeerde te ontrafelen.
+
+Op een zonnige dag, terwijl de tulpen volop in bloei stonden, ging Saar op onderzoek uit. Ze hurkte neer tussen de lange stengels en fluisterde zachtjes tegen de felgekleurde bloemen: “Fluitende Tulpen, waarom fluiten jullie?”
+
+Een kleine, rode tulp bewoog zijn bloemblaadjes zachtjes. "Wij fluiten," fluisterde de tulp met een piepende stem, "om vreugde te verspreiden."
+
+Saar’s ogen werden groot. "Vreugde?" vroeg ze. "Maar waarom?"
+
+“De wind brengt ons verhalen en de zon geeft ons warmte," antwoordde een gele tulp. "En wij geven de wereld terug wat het ons geeft: schoonheid en geluk.”
+
+Saar begreep het. Ze had zich nooit gerealiseerd dat de tulpen zo'n diep doel hadden. Ze zat de hele dag bij de tulpen en luisterde naar hun melodieuze fluiten. Ze leerde de verschillende melodieën herkennen. De fluit van de rode tulp was vurig en opwindend, de fluit van de gele tulp was zacht en troostend, de fluit van de paarse tulp was mysterieus en geheimzinnig.
+
+Terwijl de dagen verstreken, raakte Saar bevriend met de Fluitende Tulpen. Ze vertelde hen al haar geheimen en de tulpen luisterden aandachtig, hun delicate bloemblaadjes zachtjes wiegend in de wind. Ze deelde haar koekjes met ze en ze sprak met ze over de wolken en de vogels.
+
+Op een avond, toen de maan hoog aan de hemel stond, gebeurde er iets bijzonders. Een groep duistere wolken schoof over de tulpenvelden. De wind begon te huilen en de fluiten van de tulpen klonken somber. Saar zag dat de tulpen zich angstig voelden.
+
+"Wat is er aan de hand?" vroeg ze bezorgd.
+
+Een grote, oranje tulp zuchtte. "Er komt een storm," fluisterde hij. "En de storm brengt soms... verdriet."
+
+Saar begreep wat de tulp bedoelde. Ze herinnerde zich de verhalen die haar oma over de grote watersnoodrampen had verteld. Ze wist dat de storm een gevaar kon zijn voor het land.
+
+"We moeten iets doen," zei Saar vastberaden. "We kunnen niet toekijken hoe de storm het geluk weghaalt."
+
+Ze wist dat ze hulp nodig had. Ze rende snel naar huis en haalde haar fluit, een klein houten instrument dat ze van haar opa had gekregen. Ze keerde terug naar de tulpenvelden en plaatste zich in het midden van de storm. Ze nam diep adem en begon te fluiten.
+
+Ze fluitte een lied van moed, een lied van hoop, een lied van vreugde. Haar fluitspel was niet zo perfect als het gefluit van de tulpen, maar het zat vol liefde en vastberadenheid.
+
+Toen Saar fluitte, voegden de Fluitende Tulpen zich bij haar. Samen fluiten ze de meest prachtige melodieën. Het was een symfonie van kleuren en klanken, een krachtige uitbarsting van geluk die zich boven het geraas van de wind verhief.
+
+De wind, verbijsterd door de samenzang, leek even te aarzelen. De wolken bewogen zich langzaam weg, verdreven door de harmonie. Langzaam verdween de storm en kwam de maan weer tevoorschijn.
+
+Toen de zon opkwam, was de lucht weer blauw en de tulpen stonden weer fier rechtop. De tulpen bloeiden nog helderder dan voorheen. Saar realiseerde zich dat ze, samen met de Fluitende Tulpen, iets bijzonders had gedaan. Ze had het verdriet verdreven en vreugde teruggebracht.
+
+Vanaf die dag fluitten de Fluitende Tulpen nog luider en helderder dan ooit tevoren. Ze werden het symbool van hoop en vreugde in het dorp. Kinderen en volwassenen kwamen van heinde en verre om naar hun fluitconcert te luisteren.
+
+Saar, de kleine vriendin van de Fluitende Tulpen, wist dat ze iets belangrijks had geleerd: zelfs in de donkerste tijden kan muziek, moed en vriendelijke herinneringen, een verschil maken. En zo, elke dag, rende Saar naar de tulpenvelden, luisterend naar de betoverende melodieën, wetende dat ze, samen met de tulpen, de wereld een beetje mooier maakte, één fluittoon per keer. En elke lente, wanneer de tulpen weer in bloei stonden, speelde Saar een vrolijk liedje met haar houten fluit, ter herinnering aan de dag dat ze samen de storm versloegen en de vreugde terugbrachten. En dat, zo vertellen de oude vrouwen in het dorp, is nog steeds zo. De Fluitende Tulpen en Saar, een tijdloos verhaal dat de generaties doorgaat, fluisterend in de wind, bloeiend in het hart van Nederland.
+</body>
+```

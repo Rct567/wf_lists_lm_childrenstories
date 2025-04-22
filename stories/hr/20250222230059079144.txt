@@ -1,0 +1,35 @@
+<prompt>
+Please write a light-hearted Croatian children's story that is at least 1000 words long.
+It must be completely written in proper Croatian (HR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Svečana ceremonija zakletve mladih vitezova'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hr</lang_id>
+
+<title>Svečana ceremonija zakletve mladih vitezova</title>
+<body>
+U malom selu Podbrežje, okruženom zelenim bregovima i plavim nebom, održavala se svečana ceremonija zakletve mladih vitezova.  Sunce je sijailo, ptice su pjevale, a miris cvijeća se širio po vazduhu, stvarajući predivnu atmosferu.  Svi stanovnici sela, od najstarijih do najmlađih, okupili su se na veliko trgu, nestrpljivo iščekujući početak ceremonije.
+
+Na vrhu trga, ispod starog hrasta čiji su se korovi vijorili u vjetru poput viteških zastava, stajao je Gospodin Biser, mudri i dobri čuvar sela.  Oko njega su bili svi vitez-učitelji, spremni ispitati buduće viteze u njihovoj hrabrosti, poštenju i vještini.
+
+Među gomilom su se vidjele vesele i nemirne glave djece – budućih vitezova.  Najstariji među njima, Petar, nosio je prekrasni, plavi kaput, sa zlatnim šavovima, dok su se ostali, Luka, Marija, Ana i Marko, trudili održati ozbiljan, ali i ponešto nervozan izraz lica.  Svi su oni uživali u pažnji i očekivanju, ali i malo straha od ovog važnog trenutka.
+
+Gospodin Biser je podigao ruku, i tišina je pala na trg.  "Dragi stanovnici Podbrežja, dragi mladi vitezovi," započeo je. "Danas je dan poseban.  Dan kada ćete položiti zakletvu i postati vitezovi.  Zakletva koju ćete izgovoriti nije samo riječ, već i obećanje. Obraćamo se vama, mladi vitezovi, s nadom i vjerom da ćete održavati red, pravdu i dobrotu u našem selu."
+
+Luka je, prvi među njima, pristupio Gospodinu Biseru.  "Zaklinjem se!", rekao je glasno i odlučno.  "Da ću uvijek biti hrabar, pošten i vjeran! Da ću pomagati drugima i štititi slabije. Da ću uvijek težiti pravdi i dobroti!"
+
+Marija je, s blistavim očima, slijedila njegov primjer.  "Zaklinjem se!", izgovorila je, glasom punim odlučnosti.  "Da ću uvijek biti strpljiva, dobronamjerna i ljubazna. Da ću pomagati drugima i štititi slabe. Da ću uvijek težiti pravdi i dobroti."
+
+Petar je slegnuo ramenima, nasmiješio se i rekao: "Zaklinjem se! Da ću uvijek biti odlučan, snažan i hrabar! Da ću uvijek biti spreman pomoći onima koji su u nevolji. Da ću uvijek težiti pravdi i dobroti!"
+
+Ana i Marko su također položili zakletvu, svaki na svoj način, ali svi s istim žarom i odlučnošću.  Gospodin Biser je, zadovoljan njihovim odgovorima, pogledao u nebo, i rekao: "Mladi vitezovi, vaša zakletva je sada i službeno potvrđena.  Od danas ste čuvari našeg sela, njegovi branitelji i prijatelji.  Neka vas pratit dobrota i hrabrost, i neka vam bude u pomoć snaga pravde."
+
+Nakon svečanog završetka ceremonije, svi su se okupili da proslave.  Bili su toliko sretni što su postali vitezovi da su se smijali i igrali.  Jedući kolače i piti sok, dijelili su svoje iskustva i snove.  Mladi vitezovi su se međusobno pomagali, i svi su se slagali da će držati svoju riječ, a njihova zajednica će biti jača od ikad.  
+
+U tom trenutku, ispod starog hrasta, rođena je nova tradicija. Tradicija hrabrosti, poštenja i dobrote.  Mladi vitezovi su znali da će ih njihova zakletva voditi kroz život, i da će uvijek biti spremni da štite svoje selo, i da će uvijek biti prijatelji jedni drugima.  A Podbrežje je, okruženo lijepom prirodom, od tog dana postalo još ljepše i sigurnije, zahvaljujući mladim vitezovima, koji su pokazali čvrstu odlučnost i ljubav.
+</body>

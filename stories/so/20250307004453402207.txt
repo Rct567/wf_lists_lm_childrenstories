@@ -1,0 +1,51 @@
+<prompt>
+Please write a dialog-based Somali children's story that is at least 1000 words long.
+It must be completely written in proper Somali (SO).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Sheekooyinka Dunida iyo Wadada Qalbiga'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>so</lang_id>
+
+```html
+<title>Sheekooyinka Dunida iyo Wadada Qalbiga</title>
+<body>
+"Aabe, Aabe!" ayuu yidhi Faarax oo aad u faraxsan, isagoo gidaarkii aqalka ku dheggan meesha uu joogay, gacmaha kor u qaaday.
+
+"Haa, Faaraxey, maxaa dhacay inaadeer?" ayuu yidhi Aabe Maxamed, oo fadhiyey geeska qolka, isagoo akhrinaya kitaabkiisa. Qorraxdu waxay siinaysay qorraxda quraarad yar oo dhalaalaysa.
+
+"Waxaan maanta dhagaystay sheeko aad u qurux badan dugsiga!" ayuu yidhi Faarax, indhihiisu way ifayeen. "Macallimaddu waxay noo sheegtay sheeko ku saabsan waddo dahsoon oo wanaag ku jirta."
+
+"Sheeko ku saabsan waddo?" ayuu aabe ku jawaabay, isagoo dhoolla caddaynaya. "Haa, sheekooyinka dunida waa kuwo badan oo xiisa leh. Noo sheeg waxa aad maqashay."
+
+Faarax ayaa dhoolla caddeeyey, oo wuxuu meel iska dhigay farxadii uu qabay. Wuxuu dib u xusuustay sheekadii macallimaddii. "Macallimaddu waxay noo sheegtay... in ay jirtay waddo aan la arki karin, waddo gudaha qalbiyada dadka ku jirta. Waxaa waddooyinkaas ka buuxa wanaag, naxariis, iyo jacayl. Waxay ahayd in qof walba raadsado wadada qalbiyadiisa."
+
+Aabe Maxamed ayaa madaxa ruxay, "Haa, Faarax, sheekadaa waa run. Wadada qalbigu waa wadada ugu muhiimsan ee aad noloshaada ku mari karto. Waa wadada ku haga ilaa farxad iyo nabad."
+
+Faarax ayaa xiiso la istaagay. "Sidee loo helaa wadadaas Aabe? Ma u baahanahay khariidad mise wax kale oo gaar ah oo aan u baahanahay si aan u helo?"
+
+Aabe ayaa qoslay. "Maya, Faarax. Ma u baahnid khariidad ama qalab gaar ah. Waxaad u baahan tahay kaliya qalbi furan oo doonaya inuu wanaagsanaado. Wadada qalbiga way fududahay laakiin way adag tahay mararka qaarkood!"
+
+"Sidee ayay u fududahay oo ay u adagtahay?" ayuu Faarax weydiiyey, wajigiisa yaab iyo xiiso u dhexeeyeen.
+
+"Wadada qalbiga waa fududahay sababtoo ah wax walba oo aad u baahan tahay wey ku jiraan gudahaaga. Waa inaad noqotaa mid naxariis leh, oo aad ka caawiso dadka kale, oo aad runta sheegto, oo aad dadka u fiican tahay. Ma jiraan waxyaabo adag oo shaqadaas laga qabto." Ayuu aabe u sharaxay.
+
+"Laakiin sidee ayay u adagtahay?" ayuu Faarax madaxiisa xoqay.
+
+"Way adagtahay maxaa yeelay mararka qaarkood waxay noqon kartaa mid adag in aad dadka u fiicnaato. Mararka qaarkood, waxaad rabtaa inaad xanaaqdo ama aad hinaafto ama aad cid kale iska ilaaliso. Laakiin wadada qalbiga waxa ay naftaada uga baahan tahay in aad dagaalanto dareenkaas xun, oo aad doorato in aad wanaagsanaato."
+
+"Oh," ayuu Faarax yidhi, isagoo aad u fikiraya. "Waxaan fahmay. Sidaa darteed, waa in aan isku dayaa in aan wanaagsanaado mar walba, xitaa markii ay adag tahay."
+
+"Sax," ayuu Aabe Maxamed ku raacay. "Markaad isku daydo in aad wadada qalbiga mar walba raacdo, waxaad dareemi doontaa farxad iyo nabad qoto dheer. Waxaad samayn doontaa dad wanaagsan iyo qoyskaaga iyo bulshadaada isku mid ah."
+
+"Immisa sheeko oo kale oo ku saabsan wadada qalbiga oo jira?" ayuu Faarax weydiiyey.
+
+Aabe Maxamed ayaa qoslay. "Waxaa jira sheekooyin badan. Sheekooyinka qaarkood waxay sheegaan in wadada qalbiga ay tahay buur dheer oo qof walba uu fuulo. Sheekooyin kale waxay sheegaan in ay tahay webi weyn oo qof walba uu dhex maro. Laakiin dhamaan sheekooyinka wadanku waa isku mid, waddada qalbiga waxa ku jira gacmahaaga."
+
+“Sheekada aan dhowaan maqalnay waxay ahayd in wadada qalbiga ay tahay beerta. Waa in aad si joogto ah u daryeesho, oo aad ka saarto cawska xun. Waxayna u baahan tahay shaqo badan, laakiin haddii aad dadaasho, beertu waxay noqon doontaa mid qurux badan oo farxad leh." Faarax ayaa tusaale u soo qaatay.
+
+"Taasi waa sheeko aad u fiican." ayuu Aabe Maxamed ku qoslay. "Beertu waxay tahay waddo sahlan oo wadada qalbiga ah. Waa inaad biyo u shubtaa, oo aad bacarimistaa, oo aad daryeeshaa.

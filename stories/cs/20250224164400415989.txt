@@ -1,0 +1,35 @@
+<prompt>
+Please write a creative and original Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Živý betlém v českých vánočních věžích'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Živý betlém v českých vánočních věžích</title>
+<body>
+Anička a Honzík, dva sourozenci s očima plnými nadšení, se s úsměvem dívali na sněhovou vločku, která se pomalu snášela na jejich kožené rukavice.  Vánoční čas v českých horách byl plný kouzla a oni se těšili na nedělní návštěvu dědečka a babičky.  Ten rok, ovšem, bylo něco zvláštního v ovzduší, něco magického, co se jen těžko dalo vysvětlit.
+
+Dědeček, starý a moudrý muž s vousy jako propletená česká borovicová koruna, jim vysvětloval: „Letos, mé drahé děti, se chystá živý betlém v českých vánočních věžích.  Anjelská zpráva se šíří po horách a chystá se zázrak.  Nejen figurky, ale i živí lidé, zvířata a předměty se stanou součástí betlémské scény.“
+
+Anička a Honzík se dívali na dědečka s otevřenými ústy.  Živý betlém?  To znělo neuvěřitelně.  Představili si pastýře s hnědými berany, Marii s Ježíškem, Josefa s dílem ovocných stromů.  Ale živý?
+
+V neděli ráno, když se probudili, svítily na střešní krytiny českých chalup paprsky slunce.  Před domem se už shromažďovali lidé, jejich tváře zdobily úsměvy, z jejich rukou se linuly vůně vánočního pečiva.  Na prostranství před chalupou se tvořila ohromná betlémská scéna.  Tam stály velké kůly, z nichž vyrůstaly malé kopce, kopce z betlémské slámy a ozdobných kovových hvězd.
+
+Byla tam Maria, krásná dívka s jemnými rty a očima plnými lásky, a Josef, pevný muž s rukama plnými trpělivosti.  Ježíšek, miminko, ležel v jeslích a jeho tvářička se svíjela v klidném spánku.  Pastýři s jejich berany a ovce se pasely na louce.  Moudrý král, oblečený v krásných šatech, přinášel dary.  Ale co neobyčejné?
+
+Z kůlu po levé straně betlémského prostranství se ozval jemný zvuk.  Hnědý osel, jehož hlava se třásla od vděčnosti, se přiblížil Marii a Josefovi.  Osel, který byl oděn v krásném, zlatě pleteném pláště a jehož hřbet byl zdoben nádhernými, zvoníky zdobenými kožemi, nesl na hřbetu starou, ale krásnou, staročeskou dřevěnou krabici.  V krabici se skrýval dárkový košíček.
+
+Na kůlu naproti betlémské scéně se objevil malý, hnědý pes.  Byl to věrný přítel pastýřů, jehož jméno bylo Fík.  Fík se usmíval.  On přinesl malou, ozdobenou, dřevěnou hračku – malou repliku hračkářské postavy.
+
+Byli všichni v úžasu.  Anička a Honzík, s ústy otevřenými v úžasu, se koukali na zázrak.  Bylo to všechno tak krásné, tak živé!  A s každou chvílí to bylo víc a víc úžasné.  Všichni si uvědomovali, že vánoční kouzlo v českých vánočních věžích bylo skutečné.
+
+Bylo zřejmé, že nebeské bytosti, andělé a další tvory, je navštívili a přinesli s sebou dar.  Andělé, ozáření jiskrami světla, zpívali písně, jejich hlasy se mísily s vánočně provoněným vzduchem.  Všichni se navzájem obejmali a radovali z krásy Vánočních dnů.
+
+Když se slunce skrývalo za vrcholky hor, na tvářích lidí zanechalo stopu tepla.  Dědeček jim řekl, že živý betlém se stane každoročním zvykem.  A tak se stalo, že v českých vánočních věžích se každý rok objevil živý betlém, zázrak, který přinesl radost a naději do srdcí všech.  A Anička s Honzíkem si to pamatovali na věky, zázrak plný lásky a zázraků.  Bylo to vánoční kouzlo, které se proměnilo v úžasnou realitu.
+</body>

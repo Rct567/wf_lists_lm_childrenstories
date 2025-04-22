@@ -1,0 +1,31 @@
+<prompt>
+Please write a timeless Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A játékok titkos élete éjszaka a gyerekek szobájában, egy szép éjszakán.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>A játékok titkos élete éjszaka a gyerekek szobájában, egy szép éjszakán</title>
+<body>
+A Barna házában, a zöld ablakokkal és a piros ajtóval, lakott egy kislány, Eszter, és egy kisfiú, Bence.  A gyerekszobájukat, melyet a napsütötte délutánok rózsaszínre festettek, virágmintás függönyök övezték.  A szobában állt egy hatalmas, tarka színű ágy, tele puha plüssállatokkal, amelyek éjszakánként a falak árnyékában táncoltak.  És voltak játékok.  Sok-sok játék.  Babák, autósok, kis lovak, építőkockák, és a kedvencük, egy régi, fából faragott vitéz.
+
+Egy szép éjszakán, amikor a hold ragyogott az égen, és a csillagok táncoltak a sötétben, a játékok ébredezni kezdtek.  A plüssmedve, Barna bácsi, a falon függő csillár lassan forgó fényében kinyitotta szemeit.  "Jó éjszakát, gyerekek!" – suttogta a szőrméből, és megsimogatta a közelben alvó bárányka puha szőrét.  A kis lovak pedig, ahogyan a fénybe kerültek, egymásnak morogták a titkaikat: "Ma éjszaka kalandozás lesz a réten!"
+
+A régi, fából faragott vitéz, Miklós, megfeszítette a kardját.  A kard éles volt, a csillár fényében ragyogott. "Ma éjszaka védeni fogom a szobát a sötét szörnyek ellen!" – dörmögte magában. A babák, akik mindig csendesek voltak, most halk susogással beszélgettek egymás között. "Hova megyünk ma?" – kérdezte a piros ruhájú Babett.  "Talán a varázslatos erdőbe, ahol a mesék élnek!" – válaszolta a rózsaszín ruhás Lili.
+
+Bence és Eszter játékai egymáshoz térdeltek, és összefogták a kezüket.  A kis autósok gurultak a padlón, mint kis, fényes bogarak.  Egy nagy, zöld teherautó, a "Szörnyűs" egy nagy, zöld teherautó, közeledett feléjük.  "Vigyázzatok, gyerekek!" – mondta a teherautó. "A sötét szörnyek meg akarnak támadni!"  A játékok megdermedtek.
+
+Az építőkockák egy összetett tornyot építettek.  Egy nagy, sárga kocka volt a tetején. "Ez lesz a várunk!" – kiáltotta a kis kockák közül egy.  "Védjük meg a gyerekeket!" – válaszolt egy másik. És ekkor megjelent a szoba sarkában egy sötét, szőrös árnyék.  Félénken járt, és titokzatos hangokat hallatott.  A játékok összeszorították a szemüket.
+
+Miklós, a vitéz, előre lépett, kardja élesen villogott a sötétben.  Barna bácsi, a medve, megmorogta, és elterjesztette a védelmező szőrméjét.  A kis lovak pedig, fénnyel a szemükben, megnyargaltak a szobában.  A babák suttogva tanácskoztak, és a teherautó, a "Szörnyűs", keményen megindult, hogy védekezzen az árnyék ellen.
+
+A sötét szörnyek, meglátva a játékok bátorítását, egy kicsit hátráltak.  A szobában hangos, boldog zene csendült fel.  A játékok táncoltak, ugráltak, és nevettek.  Bence és Eszter játékai együtt védték a szobát, és a sötét szörnyek, akik meglepődtek a bátor játékoktól, elmentek.
+
+Amikor a nap felkelt a keleti égen, a játékok elaludtak.  Kimerülten, de boldogan,  és tele élményekkel.  A gyerekek felébredtek, és mosolyogva néztek körül.  Nem láttak semmit.  Csak a szobájuk, a szeretet és a játékok édes, csendes illatát. És tudták, hogy a játékok titkos élete éjszaka folytatódott, és minden szép éjszakán új kalandok vártak rájuk.
+</body>

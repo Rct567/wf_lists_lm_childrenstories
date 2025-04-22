@@ -1,0 +1,75 @@
+<prompt>
+Please write a timeless Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Marko, Kettu ja Kadonneet Värityskuvat'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fi</lang_id>
+
+```fi
+<title>Marko, Kettu ja Kadonneet Värityskuvat</title>
+<body>
+Olipa kerran pieni poika nimeltä Marko. Marko asui punaisessa talossa, jonka katolla kukkui oranssi kukka. Talon ympärillä levittäytyi metsä, täynnä korkeita kuusia ja salaperäisiä kiviä. Markon suurimmat aarteet olivat hänen värikynänsä ja värityskirjansa, joissa oli kuvia kaikista mahdollisista eläimistä, lohikäärmeistä ja avaruusolennoista.
+
+Eräänä päivänä, kun aurinko paistoi kirkkaasti ja linnut lauloivat, Marko päätti värittää uuden kuvan. Se esitti isoa, pörröistä karhua, joka seisoi marjapuskan äärellä. Marko otti esiin värikynänsä, punaisen karhun turkkiin, ruskean marjoihin ja vihreän lehtiin. Mutta kauhistuksekseen, kun hän avasi värityskirjansa, kaikki kuvat olivat kadonneet! Tyhjät sivut tuijottivat takaisin Markoa.
+
+Markon sydän hypähti kurkussa. "Voi ei!" hän huudahti. "Miten näin voi tapahtua?" Hän käänteli kirjaa edestakaisin, mutta ei auttanut. Värityskuvat olivat kuin savuna ilmaan haihtuneet.
+
+Marko ryntäsi äitinsä luokse, silmät täynnä kyyneleitä. Äiti silitti poikansa päätä ja kysyi lempeästi: "Mikä on hätänä, kultaseni?"
+
+"Värityskuvani! Ne ovat kadonneet!" Marko itki. "En tiedä minne ne katosivat!"
+
+Äiti hymyili. "Älä huoli, Marko. Me löydämme ne. Mennään ulos etsimään, ehkä joku on piilottanut ne leikkimielisesti."
+
+Niin he lähtivät etsimään. He katsoivat sohvan alle, kirjahyllyyn, pöydän päälle, mutta missään ei ollut jälkeäkään kadonneista kuvista.
+
+Päätettyään olla löytämättä niitä talosta, he päättivät mennä metsään, talonsa takana. Marko ja äiti astelivat puita ja pensaita. Äiti etsi katseellaan metsän värikkyyttä, Marko kaivasi kuivuneita lehtiä ja puiden alla asuvien sammalten välistä.
+
+Yhtäkkiä Marko näki jotain epätavallista. Yhden suuren tammen juurella, pensaan varjossa, istui kettu. Ketun turkki oli kirkkaanpunainen ja sen silmät kiilsivät kuin kullanpalaset. Kettu oli nuori, ehkä poikanen, ja se tuijotti Markoa uteliaana. Ketun vieressä maassa, puoleksi piilossa lehtien alla, oli kasa papereita.
+
+"Äiti, katso!" Marko kuiskasi. "Tuolla on kettu ja... värityskuvia!"
+
+Äiti käveli varovasti lähemmäs. Kettu ei liikkunut, se vain tarkkaili heitä. Äiti kyykistyi varovasti ja otti yhden paperin käteensä. Se oli Markon värityskirjasta ja se esitti oravaa, jonka Marko oli tarkoittanut värittää ruskeaksi.
+
+"Totta, nämä ovat sinun kuviasi, Marko!" äiti sanoi hymyillen. "Mutta mitä ihmettä kettu tekee niiden kanssa?"
+
+Marko lähestyi varovasti kettua ja sanoi pehmeällä äänellä: "Hei kettu, miksi sinulla on minun värityskuviani?"
+
+Kettu nosti päätään ja vastaasi hiljaisella, melkein inhimillisellä äänellä: "Minä... minä olen maalari. Tai no, minä yritän olla."
+
+"Maalari?" Marko kysyi hämmästyneenä.
+
+"Kyllä," kettu vastasi. "Haluan oppia värittämään, kuten sinä teet. Ja kuulin tarinoita siitä, että olet niin hyvä värittäjä."
+
+"Mutta... miksi varastit kuvat?" Marko kysyi hiljaa.
+
+Kettu katsoi maahan ja vastasi: "En minä varastanut. Hain ne. Ajattelin, että jos katson, miten värität, niin voisin itsekin oppia."
+
+Marko hymyili. "Ei se ole varastamista, jos kysyt ensin!" hän sanoi. "Olisi ollut paljon helpompaa pyytää."
+
+Kettu nyökkäsi ujosti. "Anteeksi. En vain osannut. Olen vasta harjoittelemassa."
+
+Marko istui ketun viereen. "Minä voin opettaa sinua! Otetaan värikynät ja värjätään yhdessä!"
+
+Niinpä Marko ja kettu alkoivat yhdessä värittää. Marko näytti, miten värejä sekoitetaan, miten värejä kerrostetaan ja miten varjostus tehdään. Kettu oli hyvin innokas oppilas ja hänen punaisista kynsistään ja viiksistään tuli sotkuisia väreistä, mutta hän oppi nopeasti. Yhdessä he värittivät karhun, oravan, jopa avaruusolennot.
+
+Äiti seisoi vieressä ja nauroi iloisesti. Hän otti valokuvia ja toivotti molemmille hyvää värittämistä.
+
+Auringon laskiessa, värit levisivät iltaan ja valaisivat metsän kauniilla kultaisilla sävyillä, oli aika lähteä. Markon värikirja oli taas täynnä ja kettu oli oppinut paljon.
+
+"Kiitos, Marko," kettu sanoi. "Minulla oli hauskaa."
+
+"Ole hyvä," Marko vastasi hymyillen. "Tule huomenna taas! Me voimme värittää lisää!"
+
+Kettu lähti juoksemaan kohti metsän syvyyksiä, katsomaan olkapäänsä yli Markoon vielä kerran. Marko heilutti käsiään ja tunsi lämpimän tunteen sydämessään.
+
+Seuraavana päivänä, kettu palasi. Ja sitten seuraavana ja seuraavana... He värittivät yhdessä joka päivä. Kettu oppi yhä paremmaksi ja Marko oppi ymmärtämään, että ystävyys jaettuna tekee kaikesta vieläkin hauskempaa.
+
+Ja niin, Markon värikirjat eivät enää koskaan kadonneet. Sen sijaan ne olivat aina valmiina värittäväksi jaettavaksi, täynnä värejä ja ystävyyttä. Joka aamu aurinko paistoi kirkkaammin ja linnut lauloivat iloisemmin, sillä he tiesivät, että metsässä, punaisen talon lähellä, kaksi ystävää - poika ja kettu - tekivät maailmasta hieman värikkäämmän. Heistä tuli parhaat ystävät ja heidän salaisuus oli se, että kadonneet värityskuvat olivatkin aloittaneet kaiken. Ja kaiken sen jälkeen he elivät onnellisesti, värit silmissään, koko loppuelämänsä.
+</body>
+```

@@ -1,0 +1,49 @@
+<prompt>
+Please write a uncomplicated Norwegian Nynorsk children's story that is at least 1000 words long.
+It must be completely written in proper Norwegian Nynorsk (NN).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Korleis ein liten fisk redda heile havet'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>nn</lang_id>
+
+<title>Korleis ein liten fisk redda heile havet</title>
+<body>
+Ein liten, gul fisk med store, blå auge svømde i det blå havet. Han heitte Finn, og han var ein veldig nysgjerrig fisk. Han likte å utforske korallrevene og finne nye, spennande plassar.  Han svømde forbi fargerike fiskar i alle slag av former og fargar, og han lurte på korleis dei kunne vere så glade.  Ein dag, medan Finn utforska ein ny del av korallrevene, fann han noko som gjorde han skrekkslagen.
+
+Det var eit stort, mørkt skugge som dekte over havet.  Det lukta vondt, som råtten fisk og øyde blomstrar.  Finn svømde nærmar, og han såg at skuggen var eit stort, svart skum som spreidde seg ut frå ei gammal skipsvrak.  Skummet var som eit giftig teppe som dekte over korallrevene.  Alle dei vakre fargane var borte, erstatta av eit grått, kjedelig syn.
+
+Finn kjente ei kald frykt i magen.  Han hadde aldri sett noko så skummelt før.  Han svømde raskt til overflata og såg opp til himmelen.  Han såg at fuglane var borte, og at sola var dekt av et mørkt skydekke.  Det var som om heile verda var i ferd med å bli mørk.
+
+Han svømde til ein stor, gammal sjøstjerne som låg fastklemt i skummet.  Han spurte: «Sjøstjerne, kva er dette som skjer?»
+
+Sjøstjerne, som hadde mange armar med mykje erfaring, svarte med ein svak, knapt merkbar stemme: «Det er skum frå skipsvraket. Det forgifter vannet, og det dreper alt liv i havet.»
+
+«Men kva kan eg gjere?» spurte Finn.  Han var liten og svak, og han kjente seg overvelda av det store problemet.
+
+«Du er liten, Finn, men du har ein sterk vilje.  Du må finne den gamle sjømannen, han som er skjult i vraket.  Han må vite at skummet er farleg.»
+
+Finn kjente at han måtte handle. Han svømde mot skipsvraket, gjennom den vonde luften og forbi skummet.  Han svømde og svømde, og han kjente at han blei svakere og svakere.  Men han tenkte på dei andre fiskarane, på korallrevene, på heile havet.  Han måtte finne den gamle sjømannen.
+
+Etter ein lang stund fann han han.  Den gamle sjømannen låg i ein liten hytte under dekk.  Han såg ut som om han sov, men han var ikkje i ro.  Han var svak og blek.  Finn svømde fram til han og spurte: «Er du den gamle sjømannen?»
+
+«Ja, det er eg.  Men eg veit ikkje kva eg skal gjere.  Det vonde skummet sprer seg, og det dreper alt.»
+
+«Eg må hjelpe deg,» sa Finn. «Eg må finne ut korleis vi kan stoppe skummet.»
+
+Han spurte sjømannen om han visste kva som kunne stoppe det giftige skummet.  Sjømannen sa at han hadde hørt om ei gammal, hemmeleg urt som kunne stoppe forureininga.  Han sa at urten var skjult på ei øy som låg langt ute i havet.
+
+Finn visste at han måtte finne urten.  Han svømde så fort han kunne, gjennom skummet og forbi skipsvraket.  Han svømde og svømde, og han kjente at han var sliten, men han gjekk aldri lei.  Han kjente at han måtte hjelpe.
+
+Etter fleire dagar og kveldar, fann han endeleg øya.  Der, på den vakre øya, fann han den gamle urten.  Han tok vare på den og svømde tilbake mot skipsvraket.
+
+Han svømde raskt tilbake til skipsvraket, og han gav urten til sjømannen.  Sjømannen la urten i vannet.  Og mirakuløst nok, begynte skummet å forsvinne.  Fargane kom tilbake til korallrevene, og sola kom fram.  Fuglane kom tilbake til himmelen.
+
+Alle fiskarane var glade.  Dei dansa og svømde rundt Finn.  Dei takka han for at han hadde redda heile havet.  Finn var stolt, men han var også letta.  Han hadde ikkje gjort det aleine.  Han hadde fått hjelp frå sjøstjerna og sjømannen.
+
+Og så, svømde Finn vidare.  Han utforska nye korallrev, men denne dagen, denne dagen med det vonde skummet, var det ein dag han aldri ville gløyme.  Han visste at han hadde gjort noko viktig, og at han var ein modig liten fisk.  Han visste at det var viktig å hjelpe kvarandre.  Og så, svømde han vidare, med håp og glede i hjertet.
+</body>

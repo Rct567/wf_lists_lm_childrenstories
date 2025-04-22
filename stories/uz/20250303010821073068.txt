@@ -1,0 +1,49 @@
+<prompt>
+Please write a relatable Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Qizil uy quyoshda Billur qushlar'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>Qizil uy quyoshda Billur qushlar</title>
+<body>
+To'q qizil, quyosh nurlarini o'ziga tortib turgan, kichkina bir uy bor edi.  Uning derazalari yorqin billur kabi porlab turardi.  Uylar qatorida o'stirilgan, yashil barglari qoracha  shoxlaridan  ochilib chiqqan eman daraxtining soyasi ostida joylashgan edi.  Bu uyda, uning yaxshi tabiatli va baxtli egasidan, Xurshidxon deb nomlangan yosh,  qiz bola yashab turardi.
+
+Xurshidxonning  o'ziga xos bir hobbis bor edi.  U qushlarni juda sevadi va hatto, ular bilan gaplasha olishini o'ylab, har kunlari bog'da  qo'shni uylar va uylar orasidagi toza katta bog'lar orasidagi yo'laklarda va yo'laklar ostida uchardi. Har qanday qush bilan suhbatlashish orzusida edi va tabiatning chiroyli o'ziga xos xususiyatlariga bo'lgan ehtiromiga sazovor bo'lish uchun doimo ochiq qalbga ega bo'ldi. Xurshidxon, har bir chirpish va ovozning ma'nosi bilan qat'iy qiziqardi, va ularning go'zallikdagi yoki ularning o'ziga xos xatti-harakatlaridagi sehrlarni ko'rib chiqishga harakat qildi. Ularni chuqur kuzatib borardi.
+
+Har bir tongda, qiz qizil uydan chiqib, bog'ga yugurishga shoshilgan edi.  U qush qanotlarini qimirlatishi bilan, bir vaqtning o'zida yuragi bir kechada bir vaqtning o'zida ko'plab tabiat quvonchlari bilan yaxshi bo'lar edi. Ko'pincha uyning darvozasiga yonma-yon turgan so'l, qush xattot, rangli rangdagi oq tukli  kabi tushunarsiz bir parcha yoriqlar o'yining qorong'i ostida ham tovushini ko'tarib, go'yo, ular ko'rinadigan hech qanday muammolar bo'lmas edi.
+
+Bir kuni, Xurshidxon bog'ning chekkasida o'zini  uzoq vaqtini sarflab, boshqasidan yashiringan holda bir gap aytayotgan  odatdagidek bir qushni ko'rdi.  U shu qadar chiroyli  bo'lib chiqdi, u Xurshidxonning joniga ko'tarilib ketishga olib bordi.  Bu qush boshqalaridan bir oz farq qilardi, uni qoplagan xiralikdan boshqa chiqarishdi; Uning patlari billur singari porlab turardi, quyosh nuri ularga yumshoq ko'zlar  bilan porlashini ko'rib, unda baxtning va maqbul sokinlikning ko'plab hissi bor edi.  Bu  qush Billur Qush edi.
+
+Qush Xurshidxonni o'ziga jalb qilgan bo'lib, uning atrofiga qoqilib tushgan ediku. U har biriga bir bo'lak olamni bosib olganidan va doimo hech qanday tushuntirish bo'lmagan joyni qidirganini bildi.
+
+"Salom",- dedi Xurshidxon bir chetga  aylanib turingan holda, "Sen juda chiroyli qushsan!"
+
+"Men Billur qushman,"- dedi qush ozgina yoqimli tovush bilan,- "Mening patlarim quyoshdagi eng toza billurlar kabi  porlaydi."
+
+Xurshidxon sokin holda,- dedi, "Bu dunyoda ko'p odamlar sizni ko'rmoqchi va tabiatning  a'lochalaridan baxtlanmoqchi." Uning bir tomondan yana qilgan so'zlari bor edi; bu ko'plar bilan birlashish va hech qachon hech kimning  xayollarida ko'rmaydigan joyni tashish uchun to'g'ri. U xonadondan va dunyoning qalbiga sotib olishni xohladi; lekin Xurshidxonning bu xaridor bo'lmasligi tufayli uni qanotlari bilan  suhbat bilan qopladi. 
+
+"Nega sen ko'proq hammaga bo'lganlarni bilishni xohlamaysiz? - so'radi Xurshidxon. U Billur qushning yashil ko'ziga qarash bilan qo'shni butun ko'z bilan bir qator tuyg'ularni yaratdi; ular u bilan xursand bo'lmoqchi va har birida u bilan bo'lgan munosabatlarga bezovtalanadigan ko'z  bilan bir narsalarni anglatganini bilib oldi."
+"Chunki men quyosh nurlari  bilan qoplangan holda o'zimning boqimga yaqin bo'lgan quvonchning ichida yashamoqchiman va faqat o'z joniga qo'ymaydigan odamlar meni tushuna oladi, chunki meni hammadan farq qiladi", dedi Billur Qush.
+
+"Bu dunyoda juda ko'p go'zalliklar bor, bu juda ko'p  yashirin narsalar, "-deb kulib yubordi Xurshidxon." Sizga baxt topishga,  haёт davomida ko'proq qurshamoqchiman. "
+
+
+Kundalik suhbatdan so'ng,  Xurshidxon, Billur Qush uni bir chekkada turingan yaxshi yulduzlardan  yaxshi to'plashini ko'rdi va tashqarida hamma  yoqni, bu dunyoga oqimining aylanishlarida eng to'g'ri yo'l izlab qaytarib boqdi. Xurshidxonning tabiatiga bo'lgan qiziqishi chuqurlashib bordi; Xurshidxon butun dunyo uchun ko'rinishga ega va unga qiziqishni anglash bilan shu yoq va shu tarafni anglashdi.
+
+
+Keyinchalik, Billur Qush har kuni Xurshidxon bilan bog'da uchrardi va  Xurshidxon ham birgalikda o'tirgan va tabiatdagi  sirlar haqida suhbatib o'tirganlarini ko'proq va ko'proq boshqa qushlarga, hatto boshqa hayvonlarga ham hamroh bo'lar edi. Ularning do'stligi oradan ancha o'tgan sayin tobora mustahkamlashardi. Xurshidxon Billur Qush bilan o'tkazgan  vaqti, hatto,  tabiatdagi uyg'unlik  va  ajoyib  sezgiga bezovtalandi; u xatti-harakatlarda  sehrni  payqaganlarning o'yinchalik hayratlangan edi va buning ko'pligi Xurshidxonning yuragida saqlangan edi.
+
+Kunning bir kunida, Xurshidxon uyga qaytayotganida  o'zi bilan birga  Billur Qushni boshqa bir qush bilan birga ko'rdi; hech qachon hech qachon tanishimadi.  Uning ko'ngli  qayg'uli edi va boshqa  kutilmagan hislar bilan bog'langan holda. Xurshidxon  shu  so'zni eslab qoldi, shu vaqt ichida tabiat biror maqsadni va o'z tabiatiga to'g'ri ko'rishning ba'zi yo'llarini izlamoqda va juda ham katta o'lchamdagi g'ayrioddiy odamlarni boshdan kechirganligida e'tiborli bo'lishiga  ishongan edi.
+Bundan tashqari, uning bu yillar davomida bo'lgan  xayolini tushuntirmasdan, uning yillar davomida ham bo'lgan xatolari va to'liq dunyo ko'rinishlaridan ajralmasligi sababli; bu, hatto, har kimning hayotida bo'lishiga bog'liq bo'lib, shu maqsadlarga erishishlarini hisobga olmadi.
+
+Billur qush bilan uning do'stligi,  dunyoning go'zalligidan zavq olish va butun qalb bilan  hayotni boshdan kechirishning mazmuniga xizmat qildi.
+
+
+</body>

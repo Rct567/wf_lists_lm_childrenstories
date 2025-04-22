@@ -1,0 +1,45 @@
+<prompt>
+Please write a educational Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Sehrli o'rmondagi sirli yangi do'st'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>Sehrli o'rmondagi sirli yangi do'st</title>
+<body>
+Farhodning yuragi quvonchdan uchirdi. Bugun u o'z uyidan bir oz uzoqroqda, sehrli o'rmonga borishga qaror qildi.  O'rmonning kirishida, eski, yoriq-yoriq bo'lgan daraxtning ostida, bir dona to'q sariq gullarga ega gulzor bor edi. Gullar shunchaki chiroyli emas edi, balki ularning har biri  yashil rangli,  kichik qanotlari bor bir-biriga o'xshash  parda-qanotli  kapalaklar bilan bezatilgan edi.  Farhodning ko'zlari ulardan ajralmasdi. 
+
+Uning yuragida hayajon uyg'ondi.  Bu o'rmon haqida  buyuk ajdodlari  va uning  bobosi  va onasi  hadislar aytib bergan edi.  Ular aytishicha,  sehrli o'rmonda  sizni  uzoq  vaqtlar davomida  quvonch bilan hayratlantiradigan  sehrli  do'st topishingiz  mumkin edi.
+
+Farhod o'rmonning  ichkarisiga  kirib bordi.  Uning  oldida  har qanday rangda, shaklda va o'lchamda  daraxtlar  o'rmonli  bo'lgan  katta joylar  kengayib  bordi.  Havo  nafis  hidi  bilan to'ldi,  qush qo'shiqlari  va  shabada  o'rmonning  ichidan  chiqarib  yubordi.
+
+U  o'rmon  ichiga  chuqurroq  kirib  borar ekan,  bir  daraxtning  ostida  o'tirgan  kichik  va  to'q  qora  rangli  bo'yin  bo'ldi.  Uning  ko'zlari  to'q  ko'k  ranglarga  ega  edi.  "Salom,  Farhod!"  deydi  uning  o'zi  bilan  gaplashgandan.
+
+Farhod  hayratga  tushdi.  U  hayvon  bilan  uchrashganiga  ishonolmadi. "Siz...  siz  gapirish  bilasizmi?"  deb  so'radi  u.
+
+"Albatta,"  deb  javob  berdi  qora  bo'yin. "Mening  ismim  Qoraqu.  Va  men  sehrli  o'rmonning  sirlarini  biluvchiman."
+
+"Sehrli o'rmonda  qanday sirlar bor?"  deb  so'radi  Farhod.
+
+"Oh,  bu  o'rmon  keng  va  chuqur  sirlarga  ega!  Har  bir  daraxt,  har  bir  gullar  va  har  bir  kapalak  o'z  siriga  ega.  Ammo,  eng  muhimi,  ushbu  o'rmonda  sizni  haqiqiy  do'stlikning  sehrini  kashf  qilishga  yordam beradigan  do'st  topishingiz  mumkin."
+
+Farhod  Qoraquga  ishonib  qoldi.  Ular  o'rmon  orqali  sayr  qilishdi.  Qoraqu  Farhodga  o'rmon  hayvonlari  haqida,  gullar  haqida,  qushlar  qo'shiqlari  haqida  va  har  bir  o'simlik  haqida  aytib  berdi.
+
+Ular  o'rmonning  eng  orqa  qismida  bir  daraxtning  ostida  kichik  yashil  kapalak  uchiradi.  Kapalak  har  qanday  rangda  va  o'lchamda  bo'lgan  to'q  sariq  gullarga  o'xshaydi.  Farhod  hech  qachon  shunday  chiroyli  kapalakni  ko'rmagan  edi.  Kapalak  Qoraqu  bilan  gaplashdi.
+
+"Uning  ismini  Nusrat  deb  ataylik,"  deydi  Qoraqu.  "U  sehrli  kapalaklar  o'rtasida  eng  sehrli  hisoblanadi."
+
+Farhod  Nusratga  qoyil  qoldi.  U  Nusrat  bilan  o'yinlar  o'ynadi.  U  ular  o'rmon  orqali  sayr  qilishdi  va  sehrli  o'rmon  haqida  ko'p  narsalarni  o'rganishdi.
+
+Ular  birga  ko'p  vaqt  o'tkazishdi.  Farhod  Qoraqu  va  Nusrat  bilan  uchrashishidan  xursand  bo'ldi.  Ularning  do'stligi  sehrli  o'rmonda  yangi  bir  kunning  boshlanishi  uchun  bir  quvonch  qildi.
+
+Farhod  bu  do'stlar  bilan  uchrashishi  uning  hayotini  butunlay  o'zgartirganiga  ishondi.  U  o'rmonni  va  u  haqida  barcha  sirlarni  o'rganishni  xohladi.
+
+Farhod  o'rmondan  chiqib  ketganida,  uning  yuragi  quvonchdan  to'lib  toshdi.  U  sehrli  o'rmonda  yangi  do'stlarini  topa  olishidan  va  u  bilan  bo'lgan  uchrashuvlar  haqida  uyda  oilam  bilan  baham  ko'rishingi  bilan  xursand  bo'ldi.
+</body>

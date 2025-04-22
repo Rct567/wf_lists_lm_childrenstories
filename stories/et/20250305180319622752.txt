@@ -1,0 +1,35 @@
+<prompt>
+Please write a fun and entertaining Estonian children's story that is at least 1000 words long.
+It must be completely written in proper Estonian (ET).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kuidas käkid õppisid tantsima tähtedega'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>et</lang_id>
+
+<title>Kuidas käkid õppisid tantsima tähtedega</title>
+<body>
+Käkid elasid väikeses, värvikirevas metsas, kus kõlasid alati lindelaulud ja tuule sosin. Nad polnud tavalised käkid; neil olid säravad, läikivad tiivad, mis peegeldasid päikesevalgust nagu väikesed peegelkivid. Iga käk oli eriline, oma värvide ja lauludega, kuid kõigil neil oli üks ühine soov: õppida tantsima tähtedega.
+
+Käkid olid kuulnud legendi, et kui õnnestub tantseda tähtedega, avanevad taevasse salajased väravad, mis viivad imelisse tähtede maale.  Nad unistasid sädelevatest tähtede paraadidest ja kosmiliste laulude meloodiatest.  Nemad, kes olid harjunud metsa muusika ja tuule rahulikule liikumisele, soovisid tunda kosmilist tantsu, mis toimus tuhandete tähtede seas.
+
+Aga kuidas õppida tantsima tähtedega?  Käkid küsisid oma tarkalt vanaema käelt, kes elas kõrgel mäetipul, kus päike esimesena tõusis ja viimase päikesekiirena loojus.  Vanaema käk, kellel oli tiivad nagu vanad, kuldsed lehed,  naeratas pehmelt.  "Tähtedega tantsimine ei ole lihtne," ütles ta. "See nõuab kannatlikkust, harjutamist ja loomulikult, suurt armastust tähtede vastu."
+
+Käkid hakkasid koheselt harjutama. Nad jälgisid päikeseloojangut, kui punased ja oranžid värvid värvisid taevast. Nad kuulasid tuule heli, mis tundus nagu tähtede sosin.  Nad õppisid tundma iga tähe kuju ja valgust, iga tähe erilist lugu.  Nad vaatasid kuud, mis peegeldas taevasse oma valgust ja õppisid tundma erinevaid faase.
+
+Esimene samm oli tähtede jälgimine.  Käkid rühmitusid metsa lagedale, sirutasid oma tiivad ja jälgisid tähtede liikumist.  Nad märkasid, kuidas tähed liikusid ühest kohast teise, kuidas nad kord näisid suuremad ja kord väiksemad.  Nad jälgisid tähtede kulgemist öö taevas ja õppisid tundma nende rütmi.
+
+Teine samm oli tähtede rütmide tundmine.  Käkid hakkasid harjutama aeglaseid, voolavaid liigutusi, mis imiteerisid tähtede kulgemist.  Nad liikusid vaikselt metsas, oma tiivad kergelt lainetledes, jäljendades tähtede rahulikku liikumist.  Nad teadsid, et tähtede tantsimine ei ole kiire, vaid rahulik ja täis armastust.
+
+Kolmas samm oli tähtede valgustunde tundmine.  Käkid õppisid tundma iga tähe erinevat valgust, iga tähe erilist soojust ja värvi.  Nad õppisid tundma tähtede vaikus, mis oli täis kosmilist energiat.  Nad märkasid, kuidas tähed säravad erinevas valguses, olgu see siis päikesevalgus, kuuvalgus või tähevalgus.
+
+Käkid tantsivad tähtedega,  nende tiivad kerkisid ja laskusid nagu tuulelehed, nende laulud kõlasid nagu kosmilised meloodiad.  Nad ei tantsi mitte ainult tähtedega, vaid ka metsaga, tuulega ja kõigi loodusnähtustega.  Nad õppisid, et tähtede tantsimine on ühendus kosmose ja looduse vahel.
+
+Ühel ööl, kui tähed särasid eriti eredalt, avastasid käkid salajase värava taevas.  Värav oli valmistatud sädelevatest tähedest ja see avanes käkidele, kes olid nii kannatlikud ja pühendunud.  Käkid lendasid läbi värava, suundudes imelisse tähtede maale.  Seal nad kohtusid teiste tähtede tantsudega, kuulsid kosmiliseid laule ja nautisid imelisi tähtede paraade.
+
+Käkid, kes olid õppinud tantsima tähtedega, naasisid metsa, nende tiivad olid täis uut teadmist ja sära.  Nad jagasid oma teadmisi teiste käkidega, õpetades neile tähtede tantsimise kunsti.  Metsas kõlasid uued laulud, mis ühendasid metsa muusikat ja kosmose meloodiaid.  Ja nii elasid käkid oma elu, tantsijad tähtede seas, omades igaveseid tähtede paraade.
+</body>

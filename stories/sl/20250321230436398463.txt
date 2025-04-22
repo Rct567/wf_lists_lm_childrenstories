@@ -1,0 +1,68 @@
+<prompt>
+Please write a uncomplicated Slovenian children's story that is at least 1000 words long.
+It must be completely written in proper Slovenian (SL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Mala pevka in čarobna planinska roža'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>sl</lang_id>
+
+```sl
+<title>Mala pevka in čarobna planinska roža</title>
+<body>
+Nekoč, daleč v visokih, zelenih slovenskih gorah, je živela deklica po imenu Iza. Iza je bila znana po dveh stvareh: po svojem čudovitem glasu in po svoji neustavljivi ljubezni do gora. Vsako jutro, ko je sonce posijalo nad vršaci, se je Iza zbudila z nasmehom na obrazu in pesmijo na ustnicah. Njena hiša je stala na robu majhne vasice, ki se je prilegala strmemu pobočju. Iz njene okrogle lesene hiše je lahko videla najvišji vrh Snežnika, pokrit z belim sneženim pokrovom skoraj vse leto.
+
+Iza je rada hodila po gorskih poteh, odkrivala skrivne kotičke in nabirala rože. Najraje je imela divje rože, ki so rasle na kamnitih pobočjih in se borile za sončno svetlobo. Posebej pri srcu ji je bila čarobna planinska roža, o kateri so govorile stare legende. Pravili so, da ta roža raste le na najvišjih vrhovih in da ima moč izpolnjevati želje. A nihče je še ni videl, vsaj ne v zadnjih sto letih.
+
+Iza je vsak dan vadila petje. Njen glas je bil jasen in zvonljiv, kot zvonovi v cerkvi v dolini. Petje je slišala tudi stara mati Marija, ki je živela v najstarejši hiši v vasi. Marija je bila modra ženska, ki je poznala vse gorske zgodbe in je imela v srcu čarobno radost do življenja. Pogosto je Izo poslušala pri petju in ji nato pripovedovala zgodbe o gorah, o zmaji in o dobrih vilah.
+
+Nekega dne je Iza stopila k Mariji in ji rekla: "Babica Marija, rada bi našla čarobno planinsko rožo. Vem, da obstaja, nekje visoko gorah. Rada bi si zaželela eno posebno željo."
+
+Marija se je nasmehnila in rekla: "Draga Iza, pot do čarobne rože ni lahka. Potrebuješ pogum, potrpljenje in čisto srce. In morda boš srečala prijatelje na poti."
+
+"Seveda," je odgovorila Iza odločno. "Imam pogum in potrpljenje. In srce imam res čisto!"
+
+Marija je vzela v roke Izo in ji dala mali srebrn obesek v obliki gorske rože. "To ti bo v pomoč. Ko začutiš strah ali negotovost, se ga dotakni in pomislili na gorsko lepoto."
+
+Iza je poslušala nasvete stare mame in se še isti dan odpravila na pot. Spakirala je ruzak z malo hrane, vode in s svojo najljubšo plišasto ovčko, ki jo je dobila od svojih staršev za rojstni dan. Sonce je sijalo, veter je pihal, in Iza je začela hoditi navzgor. Najprej je šla po poznanih poteh, skozi gozd, kjer so visoka drevesa šumela v vetru, in mimo divjih potokov, ki so se razlivalli po skalovju. Pela je svoje najljubše pesmi, da bi pregnala strah.
+
+Po nekaj urah hoje je prišla do strmejšega dela poti. Morala se je oprijeti korenin in kamnov, da se je vzpela višje. Začela je čutiti utrujenost, toda pomislila je na srebrn obesek, se ga dotaknila in se spomnila na Marijine besede. Zbrala je moči in šla naprej.
+
+Na poti je srečala majhno veveričko, ki je imela poškodovano tačko. Veverica je poskušala priti do svojih oreščkov, a ji ni uspelo. Iza jo je previdno dvignila in ji z rjuce trgala liste, da je spretno povoila tačko. Ko je veverica čutila, da je ranica zavita, je zvedro skočila z drevesa in odšla na varno. Iza se je nasmehnila in si mislila, da je naredila dobro delo.
+
+Nato je zagledala staro, poškodovano kočo, v kateri je bilo prijetno vlažno in ohlajeno. Pred kočo je sedel star pastir, ki je imel dolge bele brke in prijazne oči. Izgledal je zelo žalosten.
+
+"Živjo," je rekla Iza. "Zakaj si tako žalosten?"
+
+Pastir je odgovoril: "Moja ovca, Zvezda, se je izgubila. Pot je odtavala v strmino, in ne vem, kje je."
+
+Iza je pomislila na pastirja in na ovčko. Pot je bila nevarna, in žival je sama, bi ji lahko grozilo še več nevarnosti. Brez razmišljanja se je odločila, da pomaga.
+
+"Pojdiva jo iskat," je rekla Iza.
+
+Skupaj sta se odpravila navzgor. Iza je pazila na pastirja, da se ne bi spotaknil, in mu pela pesmi, da bi mu dala pogum. Ko sta prišla na strmejši del, se je pastir utrudil.
+
+Iza mu je dala malo vode in mu dejala: "Sedaj jaz grem naprej, ti pa počivaj tukaj. Bodi miren, našli jo bomo."
+
+Iza je šla naprej. Klicala je ovčko in ji pela njeno najljubšo pesem. Po nekaj urah iskanja je zaslišala mehko blejanje. Tekla je proti zvoku in jo zagledala. Ovčka Zvezda je stala ujeta med dvema velikima kamnoma. Iza jo je hitro rešila in jo nato pripeljala nazaj k pastirju.
+
+Pastir je bil zelo vesel in hvaležen. V znak zahvale ji je dal košček suhega kruha in jo povabil, naj prespi v njegovi koči. Zvečer sta jedla, se pogovarjala in poslušala zvoke noči. Iza je zaspala trdno, srečna in zadovoljna, da je nekomu pomagala.
+
+Naslednje jutro, ko se je zbudila, je zagledala pred kočo cvetočo čarobno rožo. Bila je čudovita, z nežnimi belimi listi in z vonjem, ki ji je napolnil srce z veseljem. Roža je žarela in z njo so zažarele tudi Izin obrazi in očki. Pastir se je nasmehnil in rekel: "To je darilo za tvoje čisto srce in tvojo pomoč."
+
+Iza se je dotaknila rože in zaželela: "Želim, da se vse moje želje uresničijo, in želim, da vsi ljudje spoznajo lepoto gora."
+
+V trenutku se je zgodila čarovnija. Iza je vedela, da je njena želja uresničena. Vrnila se je v vas. Ko je prišla domov, jo je pričakala babica Marija.
+
+"Si jo našla?" je vprašala Marija z nasmehom.
+
+"Da, babica, našla sem jo. In naučila sem se veliko pomembnejših stvari, kot sem si mislila. Čarobna roža je resnično obstajala."
+
+Iza je nadaljevala s petjem in svoje čudovite pesmi delila s svetom. In vsakič, ko je pela, so se ljudje počutili srečne in pomirjene, in spoznali so, kako pomembno je skrbeti za druge in ohranjati naravo.
+Konec.
+</body>
+```

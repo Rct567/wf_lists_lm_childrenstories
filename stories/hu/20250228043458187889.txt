@@ -1,0 +1,81 @@
+<prompt>
+Please write a silly Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A Kalózkapitányok Kincseinek Rejtélye a tengeren'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>hu</lang_id>
+
+<title>A Kalózkapitányok Kincseinek Rejtélye a tengeren</title><body>
+Egyszer volt, hol nem volt, a tengeren túl, ahol a nap mindig mosolygott, élt egy kis falucska, Pöttyösfalu. Pöttyösfalu lakói mind pöttyös ruhákat viseltek, még a kutyáik és a macskáik is. Itt élt egy kisfiú, Pisti, aki imádta a kalózokat. Pisti kalóznak képzelte magát egész nap, kalóz-sapka a fején, fa-kard a kezében, és egy hatalmas papír-térkép a zsebében, ami persze tele volt pöttyökkel.
+
+Pistinek volt egy legjobb barátja, Zsófi, aki egy nagydarab, zöld hajú lány volt, aki szívesen segített Pistinek kalóz-ügyekben. Zsófi a hajókat javította, és különleges kalóz-kardokat készített, amik vicces hangokat adtak, mint például "piff-puff" vagy "szív-csü-csü".
+
+Egy nap, miközben Pisti a tengerparton kalóz-dalt fütyült, és éppen a "Hajrá, kalózok!" című versikét szavalta, hirtelen egy üvegpalack sodródott a partra. Pisti azonnal odarohant, felkapta az üveget, és izgatottan kereste benne a papírt.
+
+– Zsófi, gyere gyorsan! – kiáltotta.
+
+Zsófi rohant, a kezében egy hatalmas ragasztóval, amivel a hajót javítgatta.
+
+Az üvegben egy összehajtogatott papírlap volt, tele rejtélyes jelekkel és furcsa szavakkal.
+
+– Ez egy kincses térkép! – kiáltotta Pisti szikrázó szemekkel. – Vajon melyik kalózkapitány rejthette el a kincsét?
+
+Zsófi megvizsgálta a térképet. – Hmm, érdekes... Tele van pöttyökkel, mint a te térképed! Gondolom, ez a kalózkapitány is szerette a pöttyöket. De kik ezek a kalózok? És hol van a kincs?
+
+A térképen több nevet is találtak: Kapitány Zsemlemorzsa, Kapitány Kacagányos, és Kapitány Hordógömb. A kincses térkép elején egy nagy nyelvtörő is szerepelt: "Zsemlemorzsának zsemlemorzsája, Kacagányosnak kacagánya, Hordógömbnek hordógömbje." De egyetlen nyom sem utalt arra, hogy hol lehet a kincs.
+
+Pisti és Zsófi azonnal készen álltak a kalandokra. Zsófi megjavította a kis fakajakot, amit Pisti talált a tengerparton, és felpakoltak a kalózkajakba néhány fontos dolgot: egy hatalmas adag zsemlét, egy kincsesláda-formájú szendvicstartót, egy bőröndnyi pöttyös ruhát, egy halom vicces könyvet, és persze a kalóz-kardokat.
+
+Elindultak a tengerre, a kincses térképükkel a kezükben. Ahogy eveztek, Pisti hangosan énekelte kedvenc kalóz-dalát: "Föl a vitorlát, szelet fogjunk, a kincset megkeressük, ha nem vigyázunk, a cápák bekapnak!"
+
+Ahogy egyre távolabb jutottak, megpillantottak egy kicsi szigetet, melyet vastagon beborítottak a pöttyös fák! – Zsófi, nézd! Ott egy pöttyös sziget! Talán ott van valami? – kiáltotta Pisti.
+
+Partra szálltak, és elkezdték kutatni a szigetet. Mindenütt pöttyök voltak! A fák törzsein, a leveleken, még a köveken is. Egy kis ösvényen haladtak, ami egy barlanghoz vezetett.
+
+A barlang bejáratánál egy tábla állt, amire ez volt írva: "Kapitány Zsemlemorzsa rejtekhelye."
+
+Beléptek a barlangba, ami tele volt zsemleszínű porral. A falon egy hatalmas, zsemlemorzsából készült portré lógott! Egy asztalon pedig egy hatalmas zsemle volt.
+
+– Zsemlét enni, kincset keresni, ez kell nekünk! – mondta Pisti.
+
+Megnéztek a zsemlét, de nem találtak benne semmit, csak egy kis cetlit: "A Kacagányoshoz forduljatok, ha a kincset meg akarjátok..."
+
+Pisti és Zsófi azonnal visszaszálltak a kajakjukba, és elindultak tovább. A térképükön megkerestek egy másik szigetet, ahol mindig nagy kacagás hallatszott. A szigeten kacagányos ruhák lógtak a fákon, és mindenki hangosan nevetett.
+
+Találtak egy nagy sátort, a bejáratánál egy táblával: "Kapitány Kacagányos vigyorgó háza."
+
+Beléptek a sátorba, ahol egy nagydarab kalóz ült egy hatalmas székben, a kacagányát a fején, és hangosan nevetett.
+
+– Ki vagyatok ti, és mit akartok? – kérdezte Kacagányos kapitány gurgulázva a nevetéstől.
+
+– Kincset keresünk! – kiáltotta Pisti bátran.
+
+Kacagányos kapitány tovább nevetett. – Nos, a kincs nem itt van. De ha meg tudjátok mondani a nyerő viccet, akkor elárulom nektek, hol találjátok a nyomokat.
+
+Pisti és Zsófi elmondtak egy halom viccet, Pisti persze zsemlét evett közben. Kacagányos kapitány mindegyiken hangosan nevetett, de egyikkel sem volt elégedett. Végül Zsófi a következőt találta ki: "Mi a különbség egy elefánt és egy szappan között? Az elefánt nem fürdik a homokban!"
+
+Kacagányos kapitány felnevetett, mint még soha. – Na, ez jó volt! A kincs nyomai a Hordógömb szigetén találhatók. A kincset a legmagasabb ponton keressétek! De vigyázzatok a hordógömbökkel!
+
+Pisti és Zsófi ismét felpattantak a kajakba, és elindultak a következő szigetre, amiről rengeteg zörgést hallottak.
+
+A szigetre érve rengeteg hordóval találkoztak. Mindenütt hordók voltak, különböző méretben és színben. A sziget csúcsán láttak egy hatalmas hordót.
+
+A szigeten a hordógömbök gurultak mindenhova, amint megjelentek. Pisti és Zsófi ügyesen kerülgették őket, és felmásztak a sziget csúcsára. Ott találtak egy fémkeretet, amibe beilleszthették a térképet.
+
+– De hiszen ez egy puzzle! – kiáltott Zsófi.
+
+Beillesztették a térképüket, és a keret kinyílt. Egy kis lyuk jelent meg a hordó tetején. Zsófi odaállt, és a lyukba belenézett.
+
+– Most jön a meglepetés – mondta, majd nyitva tartotta az ajkát. Pisti a zsebéből előkapott egy hatalmas zsemlét, és a lyukba dobta.
+
+A zsemle beleesett egy nagy kosárba, ami a hordó belsejébe rejtett hatalmas kincsét. A kosár tele volt arannyal, gyémántokkal, és persze, hatalmas mennyiségű pöttyös cukorkával.
+
+Pisti és Zsófi kincset találtak! Nagyon örültek, mindketten. A kincset a kajakjukba pakolták, főleg a cukorkákat, amiket a kalandjuk során ettek. Visszaeveztek Pöttyösfaluba, ahol nagy ünnepséget rendeztek.
+
+A kincset a falunak adták, hogy mindenki boldog legyen. A kalózkapitányok kincseinek rejtélye megoldódott, és Pisti és Zsófi örökre a legbátrabb kalózok maradtak. A kincses térképet pedig egy Pöttyösfaluban lévő múzeumban helyezték ki, hogy mindenki megtekinthesse, aki szeretné. Pisti és Zsófi soha nem felejtették el, hogy a pöttyös ruhákban a kalandozás a legszebb dolog.

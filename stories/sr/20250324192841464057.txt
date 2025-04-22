@@ -1,0 +1,67 @@
+<prompt>
+Please write a relatable Serbian children's story that is at least 1000 words long.
+It must be completely written in proper Serbian (SR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Srećni životinje i ljubavi u čarobnoj šumi'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>sr</lang_id>
+
+```sr
+<title>Srećni životinje i ljubavi u čarobnoj šumi</title><body>
+
+U dubokoj, zelenoj šumi, gde su sunčevi zraci plesali kroz lišće, nalazilo se čarobno mesto. Ta šuma nije bila samo mesto za drveće i cveće; bila je dom mnogih srećnih životinja. Svaka životinja imala je svoju jedinstvenu priču, svoju malu kućicu i veliko srce puno ljubavi.
+
+Tu je živeo lisac Lazar, sa svojim zlatnim krznom i veselim očima. Lazar je voleo da se igra skrivača sa vetrom i da lovi najslađe jagode koje su rasle na ivici šume. Uvek je bio nasmejan, jer je verovao da je smeh najbolji lek za sve.
+
+Blizu Lazarove jazbine živela je ježica Jelena, sa svojim oštrim bodljama i mekim srcem. Jelena je bila veoma vredna i uvek je pomagala drugima. Pravila je ukusne kolače od šumskih plodova i sa zadovoljstvom ih delila sa prijateljima.
+
+U starom hrastu, koji je stajao na sredini šume, živele su dve veverice, Vanja i Sima. Vanja je bila brza i okretna, a Sima pametan i razuman. Zajedno su sakupljali lešnike i žireve, i čuvali ih za zimu.
+
+U blizini potoka, gde su ribe veselo plivale, živela je roda Radojka. Radojka je bila elegantna i ponosna, sa dugim nogama i prelepim perjem. Volela je da posmatra kako sunce izlazi i zalazi, i da čuje kako potok šapuće tajne šume.
+
+Jednog dana, dok je Lazar trčao kroz šumu, primetio je da se Jelena ne oseća dobro. Bleda i tužna, sedela je pored svoje kućice, držeći se za stomak.
+
+"Jelena, šta ti se dogodilo?" upitao je Lazar zabrinuto.
+
+"Ne znam, Lazaru," odgovorila je Jelena. "Odjednom sam osetila jaku bol u stomaku i nisam više mogla da pravim kolače."
+
+Lazar je odmah pomislio da je potrebna pomoć. Brzo je otrčao do hrasta, gde su Vanja i Sima skakutali po granama.
+
+"Vanja, Sima, Jelena nije dobro! Moramo da joj pomognemo!" uzviknuo je Lazar.
+
+Veverice su odmah sišle sa drveta. Vanja je bila veoma brza, pa je otrčala do rode Radojke. "Radojka, Jelena je bolesna! Možeš li da dođeš?"
+
+Radojka je, čim je čula za Jelenu, brzo krenula ka njenoj kućici. Kad su svi stigli kod Jelene, videli su da je njeno stanje ozbiljno.
+
+"Moramo je odvesti kod mudre sove Sofije," rekla je Radojka. Sofija je živela na vrhu najviše planine u šumi i bila je poznata po svojoj mudrosti i lekovitim travama.
+
+Lazar, Vanja, Sima i Radojka su se organizovali. Lazar je bio najbrži, pa je trčao ispred da obaveštava životinje o njihovom dolasku. Vanja i Sima su pomogle da se Jelena bezbedno transportuje. Radojka je lebdela iznad njih, pazeći da ne zakorače na opasna mesta.
+
+Put do Sofijinog stana bio je dug i težak. Morali su da pređu preko brzih potoka, penju se uz strme staze i prođu kroz guste šikare. Ali, ljubav i briga za Jelenu dale su im snagu da nastave.
+
+Kada su stigli do vrha planine, videli su Sofijinog dom, drvo sa velikom dupljom, okruženo lekovitim biljkama. Sofija je bila mudra sova, sa velikim, žutim očima.
+
+"Šta vas dovodi u moje skrovito utočište?" upitala je Sofija blagim glasom.
+
+Objasnili su joj šta se dogodilo Jeleni. Sofija je pažljivo pregledala Jelenu, i posle kratkog razmišljanja, rekla:
+
+"Jelena je pojela pokvarene bobice. One izazivaju bol u stomaku."
+
+Sofija je uzela nekoliko listova i bobica sa obližnjih biljaka, i napravila napitak. "Ovaj napitak će ti pomoći, Jelena. Popij ga, i osećaćeš se bolje."
+
+Jelena je poslušala, i ubrzo je osetila olakšanje. Bol je nestala, i ponovo se osećala snažno.
+
+"Hvala vam svima!" rekla je Jelena, sa suzama radosnicama u očima. "Nikada neću zaboraviti vašu pomoć."
+
+Vratili su se u šumu, srećni i zahvalni. Od tada, prijateljstvo između njih postalo je još jače. Svake godine, slavili su dan kada su pomogli Jeleni. Pripremali su kolače, igrali igre i zajedno uživali u lepotama šume.
+
+Lazar, Jelena, Vanja, Sima i Radojka nastavili su da žive srećno u čarobnoj šumi. Uvek su bili tu jedni za druge, u dobrim i lošim vremenima. Pokazivali su ljubav i brigu, i znali da je to najvažnije blago na svetu. Njihova priča pokazala je da, kada se pomaže drugima, sreća postaje još veća.
+
+A u čarobnoj šumi, ljubav i prijateljstvo uvek su vladali. I svako dete koje bi kročilo u tu šumu, moglo je osetiti tu magiju i naučiti važnost ljubavi i brige za druge.
+</body>
+```

@@ -1,0 +1,103 @@
+<prompt>
+Please write a dialog-based Spanish children's story that is at least 1000 words long.
+It must be completely written in proper Spanish (ES).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'El Encantador Bosque de los Sueños de los Héroes'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>es</lang_id>
+
+```xml
+<title>El Encantador Bosque de los Sueños de los Héroes</title>
+<body>
+<p>En un reino bañado por la luz dorada, vivía una niña llamada Sofía. Sofía no era una niña cualquiera; tenía una imaginación desbordante y un corazón valiente. Le encantaba leer cuentos de héroes y soñar con aventuras épicas.</p>
+
+<p>Un día, mientras exploraba el jardín de su abuela, Sofía encontró una puerta pequeña, escondida tras un rosal. La puerta brillaba con una luz suave y misteriosa. Curiosa, Sofía la abrió.</p>
+
+<p>“¡Hola!” dijo una voz suave. Sofía se asustó un poco y dio un paso atrás. Delante de ella, flotando en el aire, había una pequeña hada, con alas brillantes y un vestido hecho de pétalos de flores.</p>
+
+<p>“No te asustes, pequeña. Me llamo Luna. Soy la guardiana del Bosque de los Sueños de los Héroes”, dijo el hada, sonriendo.</p>
+
+<p>“¿El Bosque de los Sueños de los Héroes?”, preguntó Sofía, fascinada. “¿Qué es eso?”</p>
+
+<p>“Es un lugar mágico donde los sueños de los valientes se hacen realidad. Ven, te mostraré”, respondió Luna, extendiendo su mano.</p>
+
+<p>Sofía, olvidándose de cualquier miedo, tomó la mano de Luna. Inmediatamente, se sintió flotando en el aire. Cruzaron la puerta y entraron en un bosque lleno de árboles altísimos, cuyas hojas brillaban con todos los colores del arcoíris. Flores de todos los tamaños y formas adornaban el suelo, y en el aire, flotaban pequeñas luces danzantes.</p>
+
+<p>“¡Es…es increíble!” exclamó Sofía, con los ojos brillando de emoción.</p>
+
+<p>“Bienvenida al bosque”, dijo Luna. “Aquí, los héroes pueden vivir sus sueños más audaces. ¿Qué tipo de héroe te gustaría ser, Sofía?”</p>
+
+<p>Sofía pensó por un momento. Le encantaba leer sobre caballeros valientes, princesas audaces y magos poderosos. “Me gustaría… ser una valiente exploradora, ¡y descubrir un tesoro escondido!” respondió Sofía.</p>
+
+<p>“¡Perfecto!” exclamó Luna. “Entonces, comencemos la aventura. Sígueme.”</p>
+
+<p>Caminaron por el bosque, y Luna le explicaba a Sofía que el bosque se adaptaba a los sueños de cada héroe. A medida que caminaban, el paisaje comenzó a cambiar. Los árboles se transformaron en imponentes montañas, y el suelo se convirtió en arena dorada. Pronto, se encontraron frente a un mapa antiguo, dibujado en una roca brillante.</p>
+
+<p>“Este es el mapa del tesoro”, dijo Luna. “Pero, como toda buena aventura, tendremos que superar algunos desafíos.”</p>
+
+<p>En el mapa, Sofía pudo distinguir diferentes lugares: el Río de las Sombras, la Cueva de los Murciélagos Risueños y el Jardín de las Flores Habladoras. </p>
+
+<p>“Primero, debemos cruzar el Río de las Sombras”, dijo Luna. “Pero ten cuidado, sus aguas están llenas de ilusiones.”</p>
+
+<p>Caminaron hacia el río. Las aguas eran oscuras y turbias. Sofía dudó un momento, pero recordando su deseo de ser valiente, se adentró en el río. De repente, comenzaron a aparecer imágenes en el agua: monstruos horribles, caminos sin salida y sombras amenazantes. </p>
+
+<p>“No te dejes engañar por las ilusiones, Sofía. Enfócate en tu objetivo”, le aconsejó Luna. </p>
+
+<p>Sofía cerró los ojos por un momento, respiró hondo y recordó el tesoro que la esperaba. Al abrir los ojos, las ilusiones desaparecieron. Sofía vio un camino seguro y firme. Cruzó el río sin problemas.</p>
+
+<p>“¡Lo lograste!” exclamó Luna, sonriendo. “Ahora, a la Cueva de los Murciélagos Risueños.”</p>
+
+<p>La cueva estaba oscura y olía a húmedo. Cuando entraron, docenas de murciélagos salieron volando, pero en lugar de gritar o atacar, comenzaron a reír a carcajadas. </p>
+
+<p>“Estos murciélagos son juguetones”, dijo Luna. “Solo tienes que hacerles reír.”</p>
+
+<p>Sofía pensó un momento. Le gustaba mucho hacer reír a sus amigos. Empezó a contar chistes, pero ninguno parecía funcionar. Estaba a punto de rendirse, cuando se le ocurrió una idea. Recordó una historia divertida que su abuela siempre le contaba, y la imitó. </p>
+
+<p>Al instante, los murciélagos comenzaron a reír, con más fuerza que antes.  Se retorcían en el aire, soltando carcajadas contagiosas. Sofía se rió también, feliz de haber logrado su cometido.</p>
+
+<p>“¡Buen trabajo, Sofía! Ahora, el Jardín de las Flores Habladoras”, dijo Luna.</p>
+
+<p>El jardín era un lugar mágico, lleno de flores de todos los colores, formas y tamaños. Cada flor tenía una voz diferente y cantaba hermosas melodías. Pero había un problema: las flores no querían dejar pasar a Sofía.</p>
+
+<p>“¿Qué quieren?”, preguntó Sofía.</p>
+
+<p>“Quieren saber si eres digna de encontrar el tesoro”, respondió Luna. “Tendrás que responder a sus preguntas.”</p>
+
+<p>Una tras otra, las flores comenzaron a hacer preguntas a Sofía. Le preguntaron sobre sus sueños, sus miedos y lo que la hacía feliz. Sofía respondió con sinceridad, contando sus experiencias y sus deseos. </p>
+
+<p>Finalmente, la flor más grande, con pétalos dorados, dijo: “Hemos escuchado tu corazón, Sofía. Eres amable, valiente y tienes un espíritu puro. Eres digna de encontrar el tesoro.”</p>
+
+<p>La flor se abrió, revelando un camino secreto que conducía al corazón del jardín.</p>
+
+<p>Sofía y Luna siguieron el camino hasta que llegaron a una cueva escondida. En el centro de la cueva, brillaba un cofre del tesoro.</p>
+
+<p>Sofía se acercó al cofre, emocionada. Cuando lo abrió, en lugar de joyas o monedas de oro, encontró un espejo mágico.</p>
+
+<p>“¿Un espejo?”, preguntó Sofía, un poco desilusionada. “¿Dónde está el tesoro?”</p>
+
+<p>“El tesoro es mucho más valioso que cualquier joya, Sofía”, dijo Luna, sonriendo. “Mírate en el espejo.”</p>
+
+<p>Sofía miró en el espejo y, en lugar de ver su reflejo, vio a una valiente exploradora, llena de confianza y alegría. Se vio a sí misma superando desafíos, ayudando a otros y disfrutando de la aventura. Comprendió que el verdadero tesoro era su propia valentía, su bondad y su capacidad para soñar.</p>
+
+<p>“El tesoro eres tú, Sofía”, dijo Luna. “Has encontrado el coraje y la fuerza que llevas dentro. Y ese es el mayor tesoro de todos.”</p>
+
+<p>Sofía sonrió, con lágrimas de emoción en los ojos. Había aprendido mucho en ese día. Había aprendido que la valentía no significa no tener miedo, sino superarlo, y que el verdadero valor reside en el corazón. </p>
+
+<p>“¿Y ahora qué?”, preguntó Sofía.</p>
+
+<p>“Ahora, regresamos al mundo real”, respondió Luna. “Pero el Bosque de los Sueños de los Héroes siempre estará esperando por ti, para nuevas aventuras y nuevos sueños.”</p>
+
+<p>Luna y Sofía regresaron a la puerta. Sofía le dio un abrazo a Luna, agradecida por la maravillosa experiencia.</p>
+
+<p>“Recuerda, Sofía, el poder de la imaginación es infinito. Usa tu valentía y tu bondad, y siempre serás una heroína.”</p>
+
+<p>Sofía, con una sonrisa, cruzó la puerta y regresó al jardín de su abuela. La puerta brilló una última vez y luego desapareció.</p>
+
+<p>Sofía regresó a su casa, con el corazón lleno de alegría y el alma rebosante de esperanza. A partir de ese día, cada vez que veía un rosal, recordaba su aventura en el Bosque de los Sueños de los Héroes, y sabía que, dentro de ella, vivía una verdadera heroína, lista para enfrentar cualquier desafío. Y, cada noche, antes de dormir, soñaba con nuevas aventuras, con nuevos mundos y con la magia del bosque que siempre estaría en su corazón.</p>
+</body>
+```

@@ -1,0 +1,77 @@
+<prompt>
+Please write a funny Spanish children's story that is at least 1000 words long.
+It must be completely written in proper Spanish (ES).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'El submarino amarillo que exploró las profundidades del mar oscuro y azul.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>es</lang_id>
+
+```xml
+<title>El submarino amarillo que exploró las profundidades del mar oscuro y azul.</title>
+<body>
+Érase una vez, en el fondo, fondo, fondo del mar azul y oscuro, un submarino muy especial. No era un submarino cualquiera. Era, ni más ni menos, que el Submarino Amarillo. ¡Sí, sí, como el de la canción, pero en verdad! Y era un submarino… ¡con personalidad! Tenía una sonrisa pintada en la proa, dos ojos saltones que parpadeaban a menudo y una voz que chirriaba un poco cuando hablaba.
+
+El Submarino Amarillo, que se llamaba oficialmente "Amarillito" (pero a él le gustaba más "Flotador"), vivía aventuras épicas. Exploraba las profundidades, donde los peces eran fluorescentes, las algas bailaban al son de las corrientes marinas y los tesoros hundidos susurraban secretos antiguos.
+
+Flotador tenía una tripulación peculiar. El capitán era una gamba jubilada, Don Cangrejo Crustáceo, con un bigote de algas que le llegaba hasta la barbilla. Su primer oficial era una medusa llamada Jelly, siempre un poco despistada y con la costumbre de cambiar de color según su estado de ánimo (¡rojo cuando se enfadaba, verde cuando comía algas y azul… bueno, azul siempre estaba!). Y el mecánico jefe era un pulpo llamado Otto, conocido por sus ocho brazos torpes y su increíble capacidad para arreglar cualquier cosa (¡incluso el sistema de ventilación, que siempre tenía problemas!).
+
+Un día, mientras Flotador y su tripulación se preparaban para una nueva expedición, Don Cangrejo Crustáceo, con voz de caracola, anunció: “¡Atención, tripulación! Tenemos una misión muy importante. Se rumorea que en la Fosa de las Marianas… ¡se ha perdido el calcetín mágico de Neptuno!”
+
+Jelly, que en ese momento estaba rosa chicle, exclamó: “¡Oh, no! ¿El calcetín que hacía llover dulces de caramelo?”
+
+Don Cangrejo Crustáceo asintió solemnemente. “Ese mismo. Y sin ese calcetín, el reino submarino corre peligro de… ¡sequía de caramelos!”
+
+Otto, intentando meterse en un tubo con una llave inglesa en cada brazo, murmuró: “¿Sequía de caramelos? ¡Eso sí que es un problema serio!”
+
+Flotador, emocionado, hizo sonar su bocina, que emitía un peculiar “¡Piiiiiii! ¡A la aventura!”
+
+Así, comenzó la expedición hacia la Fosa de las Marianas. El viaje fue… interesante, por decirlo suavemente.
+
+Jelly, distraída, confundía las boyas de señalización con gelatinas gigantes y se las comía a mordiscos. “¡Mmm, fresa!”, decía con la boca llena.
+
+Otto, con sus ocho brazos, intentaba preparar un bocadillo de calamares, pero terminaba untando todo el submarino con tinta negra. “¡Ups! ¡Perdón!”, decía, siempre con una sonrisa de inocencia.
+
+Y Don Cangrejo Crustáceo, con su bigote enmarañado, intentaba mantener el rumbo, gritando instrucciones confusas: “¡Todo a babor… digo, estribor… no, espera, ¡a popa!… ¡Ay, me mareo!”.
+
+Flotador, por su parte, intentaba navegar con la gracia de un patito mareado. Chirriaba y gemía, chocando con rocas y dando tumbos por el mar.
+
+Llegaron a la Fosa de las Marianas, un lugar oscuro y misterioso. El sol apenas lograba filtrarse hasta allí, y el agua era tan fría que incluso los peces más valientes temblaban.
+
+“¡Aquí está!”, gritó de pronto Jelly, que había divisado algo brillante en el fondo. Estaba temblando de color amarillo mostaza.
+
+Descendieron lentamente. Al acercarse, vieron que lo que brillaba era… ¡un calcetín! Un calcetín gigante, cubierto de algas y lleno de burbujas.
+
+Don Cangrejo Crustáceo, con gran dificultad, usó su pinza gigante para agarrarlo. ¡Era el calcetín de Neptuno!
+
+En ese momento, salió de las profundidades un gran calamar gigante, con ojos del tamaño de platos y una expresión hambrienta. “¡MIAUUUUUUUUU!”, rugió el calamar. “¡Mi calcetín! ¡Me lo robaron!”
+
+Resultó que el calcetín mágico de Neptuno no solo hacía llover caramelos, sino que también era el calcetín favorito de… ¡un calamar gigante con mal genio!
+
+Jelly, en un ataque de valentía (y tal vez porque estaba un poco verde de envidia), se interpuso entre el calamar y el Submarino Amarillo. “¡Alto ahí, señor calamar! ¡Devuélvanos la calma!”, dijo con voz temblorosa. “¡O sea… el calcetín! ¡Lo necesitamos para los caramelos!”
+
+El calamar, al ver a la pequeña medusa, se echó a reír. Su risa era un sonido profundo y resonante, como el rugido de un volcán submarino. “¡Ja, ja, ja! ¿En serio? ¿Caramelos? ¡Mejor! Pero primero… ¡DEVOLVEDME EL CALCETÍN!”
+
+Otto, aprovechando su agilidad (y un poco de suerte), le lanzó al calamar un bote lleno de tinta negra. El calamar, al ser cubierto por el chorro de tinta, comenzó a reírse, como nunca lo había hecho, la tinta le hacía cosquillas.
+
+Entonces, Don Cangrejo Crustáceo tuvo una idea. Con su voz de caracola, propuso: “¡Ofrecemos un trato! ¡Te devolvemos el calcetín, a cambio de… una gran fiesta de calamares rebozados!”.
+
+El calamar gigante, que en realidad era un gran amante de la comida, aceptó la propuesta al instante. Su cara se iluminó con alegría y entusiasmo. “¡Me gusta la idea! ¡Y muchos, muchos postres!”
+
+Y así, se hizo la paz. Le devolvieron el calcetín al calamar, que feliz, volvió a las profundidades. A cambio, el calamar les proporcionó todos los calamares rebozados que el equipo pudiera comer, acompañados de montañas de postres submarinos. ¡Una fiesta inolvidable!
+
+Flotador y su tripulación regresaron al reino submarino, con el corazón lleno de alegría y la barriga llena de calamares rebozados.
+
+Al día siguiente, cuando comenzó la “lluvia de caramelos”, el reino entero estalló en júbilo. ¡El calcetín mágico había salvado el día!
+
+Flotador, sonriendo de oreja a oreja, dijo: “¡Piiiiii! ¡Otra misión cumplida!”.
+
+Don Cangrejo Crustáceo se ajustó el bigote de algas. Jelly cambió su color a arcoíris, feliz y Otto seguía tratando de limpiar la tinta del submarino y las galletas pegadas en la computadora de navegación, murmurando, mientras se lo comía “¡A comer calamares… otra vez!”.
+
+Y así, el Submarino Amarillo, con su tripulación de lo más peculiar, continuó surcando los mares oscuros y azules, viviendo aventuras increíbles y llenando de risas el fondo del océano. Y por supuesto, cada vez que se acababan los caramelos… ¡a buscar el calcetín! Pero esa, es otra historia… por ahora.
+</body>
+```

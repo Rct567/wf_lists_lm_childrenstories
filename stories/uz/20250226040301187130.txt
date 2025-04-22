@@ -1,0 +1,47 @@
+<prompt>
+Please write a educational Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Qushlar shahri va uning go'zal aholisi'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>uz</lang_id>
+
+<title>Qushlar shahri va uning go'zal aholisi</title><body>
+Bir kuni quyosh nurida yaltirab turgan, osmonga bo'y cho'zgan ulkan daraxtlar bilan o'ralgan, juda chiroyli bir shahar bor edi. Bu shahar Qushlar Shahri deb nomlangan edi. Shaharda turli xil qushlar yashar edi – mayin patli bulbullar, baland ovozli qarg'alar, rang-barang to'tiqushlar va osmonda suzuvchi lochinlar… Har bir qushning o'z uyi, o'z vazifasi va o'z hayoti bor edi.
+
+Shaharning boshqaruvchisi Dono Boyqush edi. U juda donishmand, adolatli va hamma qushlarga g'amxo'rlik qiladigan qush edi. Har kuni ertalab, quyosh chiqishi bilan Boyqush shaharning markaziy maydonida to'planadigan qushlarga nasihatlar qilar, ularning ishlari bilan qiziqardi.
+
+Shaharning eng muhim joylaridan biri – bilim uyi edi. Bu yerda yosh qushlar o'qir, yozar va o'z bilimlarini oshirar edilar. Ular geografiya, tarix, matematika kabi fanlarni o'rganishar, shuningdek, shaharning qoidalari va an'analari bilan tanishar edilar. O'qituvchilar orasida ayniqsa, mohir sayroqi bulbulcha – Zilola mashhur edi. Zilola darslarni juda qiziqarli o'tar, bolalarni she'r yozishga, musiqa tinglashga va yaxshi xulq-atvorga o'rgatar edi.
+
+Bir kuni, Qushlar Shahri hayotida juda katta o'zgarishlar yuz berdi. Qish keldi, havo sovib ketdi, oziq-ovqat kamayib qoldi. Ko'p qushlar qattiq sovuqdan qo'rqa boshladi. Dono Boyqush butun qushlarni yig'ib, ularga bir maslahat berdi: "Qo'rqmanglar, do'stlar! Biz har doimgidek, bir-birimizga yordam berishimiz kerak. Kuchlarni birlashtiramiz va qishni osonlik bilan yengamiz!".
+
+Boyqushning maslahatidan so'ng, qushlar quyidagicha ish boshladi:
+*   **Oziq-ovqat yig'ish:** Qarg'alar va lochinlar mas'ul bo'lib, oziq-ovqat izlash uchun uzoq joylarga uchib ketishdi. Bulbullar va to'tiqushlar esa, daraxtlar orasidan qolgan mevalarni, urug'larni yig'ib, omborxonalarga olib kelishdi.
+
+*   **Uy-joy qurish:** Qattiq sovuqdan saqlanish uchun, qushlar o'z uylarini issiqroq qilishga harakat qilishdi. Yassi daraxtlarlarning yashillaridan, yumshoq patlardan va boshqa materiallardan foydalanib, inlarini yanada qalinroq qilib qurishdi.
+
+*   **Hammaga yordam:** Kichikroq va zaifroq qushlarga katta qushlar yordam berishdi. Ular kichkintoylarni issiq uylarda saqlab, ovqat bilan ta'minlashdi.
+
+*   **Qiziqarli mashg'ulotlar:**  Zilola o'qituvchi bolalarni uyda saqlab qoldi. U yangi she'rlar, bolalar qo'shiqlari va ertaklar o'rgatdi. Bolalar bir-birlari bilan o'ynadi, rasm chizishdi va quvnoq suhbatlar qurdilar. Bunday mashg'ulotlar qushlarning kayfiyatini ko'tarib, ularni qish qiyinchiliklariga chidamli qildi.
+
+Bir kuni, qor yog'a boshladi. Shahar oq libos kiygandek bo'lib qoldi. Qushlarning ko'ngli cho'kib, qayg'uga botayozgandi. Ammo Dono Boyqush ularni qo'llab-quvvatladi: "Esingizda bo'lsin, qish – bu vaqtinchalik! Bahor keladi, quyosh yana bizga kulib boqadi. Bir-birimizga yordam berib, sabr-toqat bilan yashaylik!".
+
+Qarg'alar, lochinlar juda ko'p qor yog'ayotganiga qaramay, oziq-ovqat izlashda davom etishdi. Ular tunda ham uchishardi, oziq-ovqat topish uchun harakat qilishardi.. Bulbullar va to'tiqushlar esa, uylarda dam olishdi, ziyofatlarni uyushtirishdi va qo'shiqlar kuylashdi.
+
+Qishning eng sovuq kunlaridan biri keldi. Qushlarning ahvoli og'irlashdi. Ularning ba'zilari kasal bo'lib qolishdi. Lekin Dono Boyqush hech kimni yolg'iz qoldirmadi. U har bir qushga g'amxo'rlik qildi. Undan tashqari, davolovchi qushlar guruhi tuzildi, ular kasal qushlarga yordam berishdi.
+
+Nihoyat, uzoq kutilgan bahor keldi. Qushlar shahri yana yashillikka burkandi. Quyosh nurida qor erib, gullar ochildi. Qushlar yana o'zlarining odatdagi hayotiga qaytishdi.
+
+Zilola bolalarga bahor haqida she'rlar aytdi. Ularni sayrga olib chiqdi, yangi gullarni ko'rsatdi, daryoning shovqinini tingladi. Bolalar quyoshga, issiq havoga va bahorning go'zalligiga quvonishdi.
+
+Qushlar yana bir bor birlashib, qishni yengib, bir-birlariga yordam berishganidan faxrlanishdi. Dono Boyqush esa, bu voqeadan juda xursand bo'ldi. U qushlarga shunday dedi: "Aziz do'stlarim, qish bizga sabr, birlik va mehr-oqibatning qanchalik muhimligini ko'rsatdi. Endi biz har qanday qiyinchilikni yenga olamiz!".
+
+Shu tariqa, Qushlar Shahri o'zining go'zal hayotini davom ettirdi. Qushlar o'qidi, o'rgandi, ish qildi, bir-birlariga yordam berdi va doimo birga bo'lishdi. Ular nafaqat go'zal shahar qurishdi, balki do'stlik, sabr, mehr va birlikning qanchalik muhimligini ham bilib olishdi!
+
+Har doim, osmonda qushlar uchib yurib, Qushlar Shahri haqidagi ertakni eslatib turardi: Agar siz bir-biringizga yordam bersangiz, har qanday qiyinchilikni yenga olasiz.
+</body>

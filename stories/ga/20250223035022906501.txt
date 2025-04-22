@@ -1,0 +1,77 @@
+<prompt>
+Please write a funny Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Grá na nÓganach don Cheol'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>ga</lang_id>
+
+```xml
+<title>Grá na nÓganach don Cheol</title>
+<body>
+Bhíodh triúr páistí beaga, Aoife, Pádraig, agus Seán, ina gcónaí i sráidbhaile beag gleoite darbh ainm Baile na gCloch. Bhí Baile na gCloch suite ar bharr cnoic ghlais, agus bhí sé lán de thithe beaga bána le dathanna geala ar na doirse. Bhíodh saol álainn acu, ach bhí rud amháin ann a bhí go mór ag cur isteach orthu: ní raibh ceol ar bith sa sráidbhaile!
+
+Bhí Aoife ina cailínín beag le gruaig rua dhóite agus súile glasa. Ba bhreá léi damhsa agus bhí sí i gcónaí ag iarraidh rith go dtí an teachín ar an taobh le ceol. Bhí Pádraig ina bhuachaillín beag le gruaig dhubh agus súile gorma. Ba bhreá leis na hamhráin, ach ní raibh sé in ann ach ton fada amháin a chanadh. Agus bhí Seán ina bhuachaillín beag le gruaig donn agus súile donn. Ba bhreá leis na hionstraimí ceoil, ach ní raibh aige ach feadóg bheag adhmaid a d'fhéadfadh sé a shéideadh.
+
+“Tá sé chomh brónach gan ceol!” a dúirt Aoife, lá amháin, agus iad ag suí ar bhalla cloiche ag faire ar na caoirigh ag innilt. “Níl ann ach an ghaoth ag séideadh agus na héin ag canadh. Níl aon rithim, ná aon spraoi!”
+
+“Tá sé fíor,” a d’fhreagair Pádraig, ag iarraidh canadh arís, ach tháinig an ton fada amháin amach arís. “Ba mhaith liom amhrán a bheith againn, ach níl mé in ann é a chruthú.”
+
+“Agus níl ach an fheadóg seo agam,” a dúirt Seán, ag breathnú ar a chuid feadóige. “B'fhéidir go bhféadfaimis rud a dhéanamh le chéile?”
+
+Thosaigh na páistí ag smaoineamh. Bhí siad ag iarraidh ceol a chruthú do Bhaile na gCloch, rud a chuirfeadh áthas ar gach duine. Tar éis roinnt machnaimh, tháinig Aoife le smaoineamh.
+
+“Tá a fhios agam! Tá sean-ghiotár ag an tseanbhean síos an bóthar!” a dúirt sí. “Cloisim í ag seinm uaireanta, ach ní thagann sí amach i bhfad.”
+
+“An bhféadfaimis é a iarraidh?” a d’fhiafraigh Pádraig.
+
+“Is fiú triail a bhaint as!” a dhearbhaigh Seán.
+
+Mar sin, chuaigh na páistí go teach na seanbhean, Bean Uí Mháille. Bhí an teachín cluthar agus d'fheicfeá bláthanna gormacha sna fuinneoga. Bhuaileadar ar an doras. D'oscail Bean Uí Mháille an doras, agus bhí aoibh gháire ar a haghaidh. Bhí gruaig bhán uirthi agus bhí sí beagán tuirseach, ach bhí sí an-chairdiúil.
+
+“Cad is mian libh, a pháistí?” a d'fhiafraigh sí.
+
+“A Bhean Uí Mháille,” a dúirt Aoife, “an bhfuil an giotár agat fós? An bhféadfaimis é a úsáid chun ceol a dhéanamh do Bhaile na gCloch?”
+
+D'fhéach Bean Uí Mháille ar na páistí le hiontas. “Ceol, a deir sibh? Níl mé ag seinm an giotár le blianta.” Thóg sí an giotár ón mballa. Bhí sé beagán dusty, ach fós taibhseach. D'fhéach sí ar na páistí agus aoibh gháire ar a haghaidh. “Tá sé ar intinn agam é a dhíol! Ach... tabharfaidh mé é ar iasacht daoibh. Ach beidh sibh cúramach leis.”
+
+Bhí an-áthas ar na páistí. Thug siad buíochas le Bean Uí Mháille agus rith siad ar ais go dtí an teach.
+
+Thosaigh siad ag obair láithreach. Chinn Aoife an giotár a sheinm. D'fhoghlaim sí roinnt cordaí bunúsacha, cé gur thóg sé tamall fada uirthi. Chuir Pádraig aithne ar amhrán a bhí simplí go leor dó a chanadh. Agus shéid Seán a fheadóg, ag iarraidh rithim a chur leis an cheol.
+
+An chéad lá, nuair a bhí siad ag cleachtadh, bhuail capall le dromchla an tí. Thosaigh an capall ag damhsa le rithim na feadóige agus an ghiotáir. D'athraigh na páistí a gcuid amhrán agus rinne siad amhrán faoi chapaill agus damhsa.
+
+Bhí an giotár, an fheadóg, agus an t-amhrán measctha le chéile. D'éirigh leis na páistí ceol nua a chruthú. Cé nach raibh sé foirfe, bhí sé lán de spraoi agus d'fhuinneamh. Thosaigh siad ag cleachtadh gach lá. D'fhoghlaim Aoife cordaí nua, agus bhí Pádraig ag canadh níos fearr. Thosaigh Seán ag foghlaim conas an fheadóg a úsáid chun ceol a dhéanamh.
+
+Ar deireadh, bhí siad réidh chun ceol a dhéanamh do Bhaile na gCloch. Chuir siad amach fógraí ar fud an bhaile, ag rá go mbeadh ceol acu sa bparc ar an Satharn.
+
+Nuair a tháinig an Satharn, bhí an-sceitimíní ar na páistí. Bhí gach duine sa sráidbhaile ag teacht go dtí an pháirc. Bhí Bean Uí Mháille ann, ag aoibh gháire orthu. Bhí cairde agus gaolta na bpáistí ann, agus fiú na caoirigh a bhí ag innilt ar an gcnoic.
+
+Thosaigh Aoife ag seinm an ghiotáir, agus thosaigh Pádraig ag canadh. Shéid Seán an fheadóg. Bhí an ceol beagán garbh, ach bhí sé lán de ghrá agus de spraoi. Thosaigh daoine ag damhsa, ag gáire, agus ag canadh leis. Bhí an áthas ar gach duine.
+
+Agus ar deireadh, bhí ceol ag Baile na gCloch.
+
+D'imir siad roinnt amhrán. D'imir siad amhráin faoi na caoirigh, faoi na clocha, agus faoin spéir. D'imir siad amhrán nua a scríobh siad faoi Bhaile na gCloch. D'fhan siad amuigh ann go dtí gur thit an oíche, agus bhí an spéir lán le réaltaí.
+
+“Bhí sé sin iontach!” a dúirt Bean Uí Mháille, ag teacht chucu. “Bhí sé iontach go deo.”
+
+“Go raibh maith agat, a Bhean Uí Mháille,” a dúirt Aoife. “Ní bheadh sé seo ar fad againn gan tú.”
+
+“Is mise an té a bhí buíoch as,” a dúirt Bean Uí Mháille. “Tá an ceol seo ag cur aoibhneas ar mo chroí.”
+
+Thug na páistí an giotár ar ais do Bhean Uí Mháille an lá dár gcionn. Chuir sí iad a bheith cinnte go bhféadfadh siad é a úsáid arís am ar bith. Lean na páistí ag seinm ceoil gach lá. Thosaigh siad ag foghlaim hionstraimí nua. D'fhoghlaim Aoife an veidhlín, d'fhoghlaim Pádraig an dordveidhlín, agus cheannaigh Seán dhá dhruma bheaga.
+
+Thosaigh daoine eile sa sráidbhaile ag obair leo. Thosaigh buachaillí óga agus cailíní óga ag damhsa le ceol na bpáistí. Thosaigh daoine ag canadh leis. Thosaigh Baile na gCloch ag dul i ndiaidh an cheoil.
+
+Tháinig an óige le chéile le gach seans. I ngach teach, bhí ceol ag dul ar aghaidh. Bhí daoine ag canadh, ag seinm hionstraimí, agus ag damhsa. Bhí gach duine sásta.
+
+Agus ó shin, bhí ceol i mBaile na gCloch i gcónaí. Agus bhí na páistí beaga, Aoife, Pádraig, agus Seán, ina gcónaí go sásta, ag seinm ceoil agus ag scaipeadh áthais ar fud an bhaile. D'fhan siad cairde go deo, agus cuimhnigh siad gcónaí ar an lá nuair a chuir siad ceol ar fáil do Bhaile na gCloch.
+
+Bhí Baile na gCloch lán le fuaim an cheoil, gáire na bpáistí, agus grá do gach duine. Agus mar sin, bhí an sráidbhaile beag ar bharr an chnoic ghlais ar an áit is sona ar domhan.
+</body>
+```

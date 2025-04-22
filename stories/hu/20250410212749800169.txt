@@ -1,0 +1,49 @@
+<prompt>
+Please write a light-hearted Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Egy varázslatos pillangó, aki mindig segített a bajba jutott gyerekeknek.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>hu</lang_id>
+
+<title>Egy varázslatos pillangó, aki mindig segített a bajba jutott gyerekeknek.</title>
+<body>
+Egyszer volt, hol nem volt, volt egyszer egy hatalmas, zöld rét, tele virágokkal. Ebben a réten élt egy kis, zömök falu, Kiskerti. Kiskerti lakói mind nagyon szerették a rétet, a zöld füvet, a színes virágokat, és különösen egy valamit: a varázslatos pillangót.
+
+Ez a pillangó, akinek neve Fényár volt, sosem volt hétköznapi pillangó. Szárnyai olyan színesek voltak, mint a szivárvány, és ha a napfény rásütött, szinte ragyogtak. De a legkülönlegesebb tulajdonsága az volt, hogy mindig tudta, hol van egy gyerek bajban. Ha egy kislány elvesztette a kedvenc plüssmackóját, ha egy kisfiú beleesett a tóba, vagy ha egy nagyszívű kutyus elkóborolt, Fényár mindig ott termett, hogy segítsen.
+
+Fényár nem tudott beszélni, de a pillangók nyelvén csodálatosan tudott kommunikálni. Ez a nyelv nem szavakból állt, hanem a szárnyak rezgéséből, a napfény tükröződéséből, és a finom, illatos porból, amit a szárnyai lehullattak. A gyerekek hamar megértették ezt a nyelvet, és mindig tudták, mit akar Fényár.
+
+Egy nap, Kiskertiben, a kis Maja szaladgált a réten, nagy kalapja a fején. Ő volt a legkíváncsibb kislány a faluban. Mindenbe belenyúlt, mindenre felmászott, és minden kérdésére tudni akarta a választ. De most, éppen valami szomorú dolog történt: Maja elveszítette a kedvenc lepkéjét, Züzüt. Züzü, a lepkeként viselkedő sárga-fekete csíkos csillag, Maja leghűségesebb társa volt.
+
+Maja könnyeit törölgette, ahogy kereste Züzüt a fűben. "Züzü! Hol vagy?" - sírta. Hirtelen, ott termett Fényár. Lassan körbe-körbe repült Maja feje körül, a szárnyai gyorsan rezegtek, mintha valami nagyon fontosat akarna mondani. Maja már ismerte Fényár jelzéseit. Tudta, hogy most segítséget kap.
+
+Fényár, miután körbe-körbe repült, egy bizonyos irányba repült el, és Maja követte. Ahogy a rét szélére értek, Fényár egy hatalmas tölgyfa felé vette az irányt. Maja a fa alá ért, és a lombkoronába pillantott. Ott, a magasban, a tölgyfa egyik ágán megpillantotta Züzüt! A napfény úgy szóródott a csillagra, hogy a csillag ragyogott! Egy kis sárgarigó, aki szerette a csillogást, elragadta Züzüt.
+
+Maja egyből rohant a tölgyfához. Próbált felmászni, de túl magas volt. Újra elsírta magát. Fényár ekkor le szállt Maja vállára, szárnyaival óvatosan paskolta a lábát. Maja megértette. Azt mondta, hogy a pillangó tudja a megoldást.
+
+Fényár elrepült a falu kovácsához, Pistibácsihoz. Pistibácsi nagyon ügyes volt, mindent meg tudott javítani. Pár perc múlva Fényár visszarepült, Pistibácsi egy kis létrával a kezében követte. Pistibácsi óvatosan oda tette a létrát a fához, és Maja boldogan felmászott, a sárgarigó sietve menekült, Maja pedig megfogta Züzüt!
+
+Maja annyira örült, hogy megölelte Züzüt, és megköszönte Fényárnak. "Köszönöm, Fényár! Te vagy a legjobb!" - kiáltotta. Fényár elszállt, szárnyai a napfényben csillogtak.
+
+Egy másik alkalommal a kis Gergő sétált a réten, hatalmas fagylalttal a kezében. Ő nagyon szerette a fagylaltot, de sajnos, Gergő nem volt túl ügyes. A fagylaltjának csak a fele ért be a szájába, a többi foltokban a pólóján, vagy éppen a földön landolt.
+
+Gergő éppen nagy pofával nyalt bele a fagylaltba, amikor egy hirtelen széllökés következtében a fagylalt kicsúszott a kezéből, és a rét közepébe esett, messzire tőle. Gergő szomorúan nézte, ahogy a fagylalt elfolyik a fűben. Most sírt volna, de tudta, hogy anyukája tanította: soha nem szabad sírni, mert nem szép.
+
+Hirtelen ott termett Fényár. Körbe-körbe repült Gergő körül, mintha azt akarná mondani: "Ne aggódj!" Gergő azonnal megnyugodott. Fényár elrepült a falu pékségéhez, a finomabbnál-finomabb kalácsokat sütő Julikához. Julika a legkedvesebb néni volt Kiskertiben, mindenkinek adott valamit. Fényár a keze körül zsongott a pékségnél, a szárnyával "mutogatott". Julika megértette.
+
+Pár perc múlva Julika előhozott egy nagy, friss kalácsot, és elindult Gergő felé. Amikor odaért a gyerekhez, adott neki egy nagy szelet kalácsot. "Ez a te fagylaltod pótlása, édesem!" - mondta Julika. Gergő felragyogott, megköszönte, és falni kezdte a kalácsot. A kalács annyira finom volt, hogy a fagylaltra már nem is gondolt!
+
+Fényár ott maradt, szárnyait rezgette. Julikára nézett, és utána Gergőre. Egy pillanatra mindketten látták a pillangó szemében a hálát, a kedvességet, és a szeretetet. Aztán Fényár elrepült, és Gergő megint boldog volt.
+
+És így volt ez minden nap Kiskertiben. Ha egy gyerek bajba jutott, Fényár mindig ott termett, hogy segítsen. Megmutatta a megoldást, a barátok, a falu lakóit összefogta. Nem számított, hogy a baj kicsi vagy nagy, Fényár mindig megtalálta a módját, hogy segítsen.
+
+A Kiskerti gyerekek megtanulták, hogy soha nem szabad kétségbe esni, mert Fényár mindig ott van, hogy segítsen. De nemcsak ennyit tanultak: megtanulták, hogy a segítőkészség a legfontosabb erény. Megtanulták, hogy mindenki megérdemli a segítséget, és hogy a boldogság nagyrészt a jócselekedetekből fakad.
+
+És Fényár, a varázslatos pillangó, boldogan repült tovább a réten, napról napra, szárnyai a napfényben ragyogtak, és soha nem fáradt bele abba, hogy a bajba jutott gyerekeknek segítsen. Ő volt a rétek varázslatos őrzője, a kicsik védelmezője, és a barátság jelképe, a nagyszívű pillangó, aki örökké a gyerekek szívében élt, a kiskerti rét virágai között. A pillangó örökre a réten maradt, segítve, szeretve, mosolyt csalva a gyerekek arcára, emlékezve mindenkire a jóságra és a segítőkészségre, mely a legnagyobb varázserő.
+</body>

@@ -1,0 +1,41 @@
+<prompt>
+Please write a timeless Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Jak mały kruk nauczył się śpiewać w deszczu'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>pl</lang_id>
+
+<title>Jak mały kruk nauczył się śpiewać w deszczu</title>
+<body>
+W malutkim, gęsto porośniętym lesie, gdzie pachniała wilgocią ściółka i śpiewały tajemnicze ptaki, mieszkał mały kruk o imieniu Kordek. Kordek nie był jak inni kruki. Nie interesowały go lśniące kawałki metalu ani soczyste jagody.  Kordek uwielbiał deszcz.
+
+Kiedy inne ptaki chowały się przed kapryśnymi kroplami, Kordek rozkładał skrzydła i tańczył w strugach deszczu.  Błyszczące krople tańczyły na jego czarnym pióropuszu, a wiatr, jakby witał go, szumiał w koronach drzew.  Kordek czuł się wtedy tak lekki, jak puszysty puch.
+
+Inni kruki śmiali się z niego.  „Kordek, szalony kruku!”, krzyczeli,  „Co ty robisz? Przecież deszcz jest zimny i mokry!”  Kordek tylko uśmiechał się, bo czuł, że w tym deszczu kryje się coś szczególnego.
+
+Pewnego dnia, gdy srogi wiatr szarpał drzewami, a deszcz walił jak z cebra, Kordek usłyszał dziwny dźwięk.  Był to melodyjny śpiew, który dobiegał z głębi lasu.  Kordek, zapominając o swoim tańcu, podążył za dźwiękiem.  Dopiero gdy dotarł do niewielkiego, ukrytego strumienia, zrozumiał, skąd dochodzi śpiew.
+
+Przy strumieniu rosła ogromna, stara brzoza.  Na jej gałęziach wisiały krople wody, które w rytmie deszczu grały na niebie.  A śpiewała je mała, żółta sikorka.  Jej piosenka była pełna radości i wdzięczności za każdy kropelkę wody, za każde szumienie wiatru.
+
+Kordek nigdy nie słyszał takiej muzyki.  Była tak pełna życia i ciepła, że wzruszyła go do głębi.  Patrzył na sikorkę, która poruszała skrzydełkami, a jej drobne piosenki przebijały się przez szum deszczu.
+
+„Czy ty zawsze tak śpiewasz w deszczu?” zapytał Kordek, choć wiedział, że sikorka go nie zrozumie.
+
+Sikorka tylko zaśpiewała jeszcze piękniejszą piosenkę, a jej głos wydawał się jeszcze bardziej radosny.  Kordek słuchał, słuchał i słuchał, aż poczuł, jak w jego sercu rodzi się muzyka.
+
+Wtedy, w tym deszczowym koncercie, Kordek zrozumiał.  Deszcz nie był jedynie zimnem i mokrą nawałnicą, ale źródłem dźwięków, źródłem muzyki.  To w nim, w tym szumie, w tym tańcu kropel, kryła się magia.
+
+Od tego dnia Kordek zaczął śpiewać.  Nie tak jak inne kruki, które wydawały tylko gardłowe odgłosy.  Kordek śpiewał piosenki deszczu.  Śpiewał o błyszczących kroplach, o szumie wiatru, o wdzięczności za każde uderzenie wody.  Śpiewał o radości, o życiu, o magii ukrytej w zwykłych rzeczach.
+
+I choć inne kruki nadal śmiały się z niego, Kordek nie przestawał śpiewać.  Przyciągał do siebie innych ptaków, a jego piosenki rozbrzmiewały w całym lesie.  Dzięcioły, sowy, bociany – wszyscy chętnie słuchały jego śpiewu, bo w nim czuli radość i magię.
+
+Kordek nauczył się, że piękno można znaleźć w każdym deszczu, w każdej kropli wody, w każdym szumie wiatru.  Nauczył się, że muzyka kryje się w każdym dźwięku, a radość w każdej chwili.  I tak, mały kruk, który uwielbiał deszcz, stał się królem śpiewu w deszczowych dniach.
+
+A jego piosenki, pełne wdzięczności i radości, rozbrzmiewały w lesie przez długie, długie lata, przypominając wszystkim, że nawet w najgorszej burzy, można znaleźć piękno i magię.
+</body>

@@ -1,0 +1,53 @@
+<prompt>
+Please write a silly Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Qadimiy manzillar va ularning sirlari'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>uz</lang_id>
+
+<title>Qadimiy manzillar va ularning sirlari</title>
+<body>Bizning ertakimiz Qadimiy Shahar deb ataladigan joyda boshlanadi. U yerda ko'p labirintlar, sirlar va g'aroyib narsalar bor edi. Shahar markazida katta daraxt o'sgan, uning nomi “Hikmat daraxti” edi. Hikmat daraxti shahar aholisini turli xil sirlar va g'aroyibotlarga olib kelardi.
+
+Shaharda yashovchi bolaaning ismi Xurshid edi. U juda qiziquvchan va sarg'ish bola edi. Xurshid har doim yangi narsalarni o'rganishni va shahar sirlarini ochishni xohlardi. U Hikmat daraxtiga juda qiziqardi, chunki u daraxt atrofidagi hamma narsa g'aroyib va sirli edi.
+
+Bir kuni Xurshid maktabdan qaytayotganda, u Hikmat daraxtiga yaqinlashdi. Daraxt oldida juda katta tosh bor edi, uning ustida “Qadimiy manzillar va ularning sirlari” deb yozilgan edi. Xurshid bu yozuvni ko'rib, qiziqib ketdi. U toshning oldiga borib, unga qo'lini qo'ydi. Tosh birdan harakatlandi va yer ochilib ketdi.
+
+Xurshid ochilgan yer ostiga tushdi. U yerda juda katta zinapoya bor edi, u zinapoya ostida joylashgan xonaga olib borardi. Xurshid zinapoyani bosib, ostidagi xonaga kirdi. Xona juda katta edi, unda ko'p turli xil narsalar bor edi. Xurshid xonada sayr qilib, turli xil narsalarni ko'rib, ular haqida o'yladi.
+
+Xonada bir katta kitob bor edi, uning nomi “Qadimiy manzillar va ularning sirlari” edi. Xurshid kitobni ochib, uni o'qishni boshladi. Kitobda Qadimiy Shahar haqida, uning sirlari va g'aroyibotlari haqida yozilgan edi. Xurshid kitobni o'qib, Qadimiy Shahar haqida ko'p narsa bilib oldi.
+
+Kitobda yozilganidek, Qadimiy Shahar juda qadimiy shahar edi, u yerda ko'p turli xil sirlar va g'aroyibotlar bor edi. Shahar aholisi juda xushmuomala va mehribon edi, ular hamma narsaga qiziqardi. Xurshid kitobni o'qib, Qadimiy Shahar aholisi haqida ko'p narsa bilib oldi.
+
+Xurshid kitobni o'qib tugatgach, xonada sayr qilib, turli xil narsalarni ko'rdi. U xonada bir katta xarsang bor edi, uning ustida juda katta sirlar yozilgan edi. Xurshid xarsangni ko'rib, unga qiziqib ketdi. U xarsangga yaqinlashib, unga qo'lini qo'ydi.
+
+Xarsang birdan harakatlandi va sirlar ochilib ketdi. Xurshid sirlarni ko'rib, juda hayratda qoldi. Sirlar Qadimiy Shahar haqida edi, uning aholisi haqida edi. Xurshid sirlarni o'qib, Qadimiy Shahar haqida ko'p narsa bilib oldi.
+
+Xurshid xonada sayr qilib, turli xil narsalarni ko'rib, ular haqida o'yladi. U xonada bir katta deraza bor edi, uning orqali Qadimiy Shahar ko'rib turardi. Xurshid derazaga yaqinlashib, Qadimiy Shaharni ko'rib, juda hayratda qoldi.
+
+Qadimiy Shahar juda katta va g'aroyib shahar edi, unda ko'p turli xil narsalar bor edi. Xurshid Qadimiy Shaharni ko'rib, juda qiziqib ketdi. U Qadimiy Shahar haqida ko'p narsa bilib, uning sirlarini ochishni xohlardi.
+
+Xurshid xonada sayr qilib, turli xil narsalarni ko'rib, ular haqida o'yladi. U xonada bir katta eshik bor edi, u eshik Qadimiy Shaharga olib borardi. Xurshid eshikni ochib, Qadimiy Shaharga chiqdi.
+
+Qadimiy Shahar juda katta va g'aroyib shahar edi, unda ko'p turli xil narsalar bor edi. Xurshid Qadimiy Shaharni ko'rib, juda hayratda qoldi. U Qadimiy Shahar haqida ko'p narsa bilib, uning sirlarini ochishni xohlardi.
+
+Xurshid Qadimiy Shaharda sayr qilib, turli xil narsalarni ko'rib, ular haqida o'yladi. U Qadimiy Shaharda bir katta maydon bor edi, unda ko'p turli xil narsalar bor edi. Xurshid maydonda sayr qilib, turli xil narsalarni ko'rib, ular haqida o'yladi.
+
+Maydonda bir katta haykal bor edi, uning nomi “Hikmat haykali” edi. Xurshid haykalni ko'rib, juda qiziqib ketdi. U haykalga yaqinlashib, unga qo'lini qo'ydi. Haykal birdan harakatlandi va Hikmat daraxtining sirlari ochilib ketdi.
+
+Xurshid Hikmat daraxtining sirlarini ko'rib, juda hayratda qoldi. Sirlar Qadimiy Shahar haqida edi, uning aholisi haqida edi. Xurshid sirlarni o'qib, Qadimiy Shahar haqida ko'p narsa bilib oldi.
+
+Xurshid Qadimiy Shaharda sayr qilib, turli xil narsalarni ko'rib, ular haqida o'yladi. U Qadimiy Shaharda bir katta kutubxona bor edi, unda ko'p turli xil kitoblar bor edi. Xurshid kutubxonaga borib, kitoblar o'qishni boshladi.
+
+Kitoblar Qadimiy Shahar haqida edi, uning sirlari va g'aroyibotlari haqida edi. Xurshid kitoblar o'qib, Qadimiy Shahar haqida ko'p narsa bilib oldi. U kitoblar o'qib, Qadimiy Shaharning sirlarini ochishni xohlardi.
+
+Xurshid Qadimiy Shaharda sayr qilib, turli xil narsalarni ko'rib, ular haqida o'yladi. U Qadimiy Shaharda bir katta bog' bor edi, unda ko'p turli xil gullar bor edi. Xurshid bog'ga borib, gullarni ko'rib, juda hayratda qoldi.
+
+Bog'da bir katta favvora bor edi, uning nomi “Hikmat favvorasi” edi. Xurshid favvorani ko'rib, juda qiziqib ketdi. U favvoraga yaqinlashib, unga qo'lini qo'ydi. Favvora birdan harakatlandi va Hikmat daraxtining sirlari ochilib ketdi.
+
+Xurshid Hikmat daraxtining sirlarini ko'rib, juda hayratda qoldi. Sirlar Qadimiy Shahar haqida edi, uning aholisi haqida edi. Xurshid sirlarni o'qib, Qadimiy Shahar haqida ko'p narsa bilib oldi.

@@ -1,0 +1,42 @@
+<prompt>
+Please write a creative and original Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Šventinis medis ir jo gydytojai'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lt</lang_id>
+
+<title>Šventinis medis ir jo gydytojai</title>
+<body>
+Šalies gilumoje, tarp žalių kalvų ir krištolo skaidrumo upių, stovėjo didžiulis, senas eglučių medis. Jis buvo vadinamas Šventiniu medžiu, nes kiekvienais metais žiemą jo šakos būdavo apšviestos šimtais žvaigždžių formos žibintų. Šie žibintai, pagaminti iš įmantrių stiklų ir dažyti visomis vaivorykštės spalvomis, švytėdavo taip ryškiai, kad apšviesdavo visą aplinkinį mišką.
+
+Šventinis medis buvo ne tik gražus, bet ir geras. Jis globojo visus miško gyvūnus, rūpinosi jų sveikata ir gerove. Bet šiemet kažkas buvo ne taip. Medžio šakos pradėjo nykti, o žibintai silpnėjo. Jis jautėsi silpnas, skausmas jį apėmė tarsi šaltas rūkas.
+
+Šis nerimą keliantis pokytis nebuvo pastebėtas iš karto.  Paukščiai dainavo vis dar energingai, o miško gyvūnai šokinėjo ir žaidė, nežinodami, kad pavojus tyko. Tačiau Šventinio medžio širdis – jo šaknys – jau jautė mirties artėjimą.
+
+Pirmiausia prie medžio atėjo rūpestingas lokys, vardu Brukas. Jis, visada geras miško gydytojas, apžiūrėjo medžio šakas, paliepė paukščiams  skubėti į  šviesos šaltinį, norėdami ieškoti gydymo.
+
+„Aš jaučiu, kad tavo širdžiai trūksta šilumos, o tavo šakos liūdi dėl vienatvės“, – sako Brukas.
+
+Paukščiai, išgirdę šią žinią, pakilo į dangų, skrisdami prie tolimojo kalno, kuriame žinojo, kad auga magiški žoliniai augalai, galintys išgydyti bet kokį skausmą.
+
+Po kelių valandų atėjo gudrus voverė, vardu Snieguolė. Ji apžiūrėjo medžio žibintus ir supranta, kad jų šviesa silpsta.  „Žibintai alina save, ieškodami energijos“, – pasakė Snieguolė. Ji nuėjo į savo gilias žinynus, kuriuose buvo paslėptos senovės pasakos.
+
+"Šviesai reikia maisto, o maistas - medžių sėklų! Sudedant šias sėklas į žibintų vidų, jie atgaus savo spindesį", – sušuko Snieguolė.
+
+Kitame miško pakraštyje gyveno išmintingas vilkas, vardu Rumplis. Jis buvo ne tik miško saugotojas, bet ir žinių saugotojas. Vilkas jautė, kad šis pokytis yra susijęs su miško balansavimu. Jis atrado, kad žibintų spalvos yra tiesiog atvaizdai miško gyvūnų dvasių, o silpstanti spalva rodo jų susilpnėjimą.
+
+„Norėdami atkurti žibintų spindesį, turime atkurti ir miško gyvūnų energiją“, – pareiškė Rumplis.  Jis pasiūlė kiekvienam gyvūnui įnešti šiek tiek savo energijos į žibintus, dainuodami savo giesmes.
+
+Paukščiai dainavo džiaugsmo giesmes, Snieguolė nešė sėklas į žibintus, o Brukas šildė medį savo rūpesčiu. Visi, kartu su Rumplis, dainavo gyvūnų giesmes, suteikdami žibintams  gyvybę, energiją ir spalvas.
+
+Šventinis medis, jausdamas meilę ir pagalbą, pradėjo atgaivėti. Jo šakos atgavo žalią spalvą, o žibintai, prisipildę gyvybės, vėl švytėjo ryškiai, apšviesdami visą aplinkinį mišką. Paukščiai dainavo dar linksmiau, o miško gyvūnai šokinėjo ir žaidė dar geriau. Šventinis medis buvo atgaivintas,  ir visas miškas šventė šį stebuklą.
+
+
+Kiekvienais metais žiemą Šventinis medis vėl skleidė savo šviesą ir šilumą, o visi miško gyventojai padėkodavo gydytojams už jų rūpestį ir išmintį. Jie suprato, kad tik dirbant kartu galima išsaugoti ir atkurti grožį.
+</body>

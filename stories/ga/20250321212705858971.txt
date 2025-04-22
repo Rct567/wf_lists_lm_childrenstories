@@ -1,0 +1,78 @@
+<prompt>
+Please write a simple and easy-to-follow Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A' Clogáin sa Cíos-Rí Scéalta Íosta'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>ga</lang_id>
+
+```xml
+<title>A' Clogáin sa Cíos-Rí Scéalta Íosta</title>
+<body>
+Bhí uair ann, i bhfad ó shin, i nDún Chaoin, Contae Chiarraí, cónaí ar chlann bheag cliste. Bhí Maolra, an páiste ba shine, ina bhuachaill ocht mbliana d’aois. Bhí bean bheag bheoga aige darbh ainm Eimear, cúig bliana d’aois. Agus bhí a máthair, Sorcha, agus a n-athair, Fionn, a bhí chomh glic le coinín.
+
+Ba mhaith leo a bheith ag foghlaim rudaí nua i gcónaí. Thaitin scéalta le Maolra go mór. D'fhéadfadh sé bheith ina shuí ar feadh uaireanta ag éisteacht le scéalta ó a sheanathair nó óna múinteoir. Ba bhreá le hEimear amhráin a chanadh agus damhsa a dhéanamh. Bhí clós mór acu ina raibh gairdín mór le bláthanna dathúla. Thaitin sé le Sorcha bácáil, agus bhí an teach líonta i gcónaí le cumhráin aráin úr. Bhí Fionn ag obair mar iascaire, agus sheol sé amach gach lá go dtí an fharraige chun iasc a ghabháil.
+
+Lá amháin, agus iad ag ithe bricfeasta, dúirt Fionn: "Tá fadhb againn. Tá orainn an cíos a íoc leis an rí an tseachtain seo chugainn, agus níl go leor airgid againn."
+
+D'fhéach Maolra agus Eimear ar a chéile. Níor thuig siad i gcónaí an chaoi a n-oibríonn airgead, ach thuig siad go raibh sé tábhachtach. D'fhéach Sorcha ar Fionn le héadóchas. Bhí a fhios aici go raibh Fionn ag obair chomh crua agus a d’fhéadfadh sé.
+
+"Cad is féidir linn a dhéanamh?" a d’fhiafraigh Eimear.
+
+"Nílim cinnte," a dúirt Fionn. "Caithfimid smaoineamh ar rud éigin."
+
+Chaith siad an lá ag smaoineamh. Chuaigh Maolra agus Eimear ag súgradh sa ghairdín. Tháinig Maolra ar smaoineamh.
+
+"Féach, Eimear!" a dúirt sé. "Tá na clogáin seo lán le gaineamh álainn ó thrá na farraige. D'fhéadfaimis iad a dhíol!"
+
+D'fhéach Eimear ar na clogáin bheaga. Bhí siad dathúil agus beag. Bhí cuid acu buí, cuid acu dearg, agus cuid acu glas.
+
+"B'fhéidir go n-oibreodh sé!" a dúirt Eimear.
+
+Rinne siad cúpla clogán, agus chabhraigh siad lena máthair, Sorcha, chun cuid den ghaineamh a ní chun é a dhéanamh níos áille. Ansin, thosaigh siad ag pleanáil an dóigh a ndíolfadh siad na clogáin.
+
+"B'fhéidir go bhféadfaimis margadh a dhéanamh ar an bpríomhshráid," a mhol Maolra. "Thabharfadh go leor daoine iad."
+
+Mar sin, d'iarr siad ar a n-athair cabhrú leo. Rinne Fionn clár beag do na clogáin. Thug siad na clogáin go léir leo.
+
+"Clogáin álainn! Gaineamh ó thrá na farraige!" a ghlaoigh Maolra.
+
+D'fhéach Eimear ar na daoine ag siúl thar bráid. Bhí siad náirithe beagán. Ach bhí siad ag iarraidh cabhrú lena dtuismitheoirí.
+
+"Clogáin! Ceannaigh clogáin!" a ghlaoigh sí go bog.
+
+Tháinig daoine, agus thosaigh siad ag ceannach na gclogán. Chuidigh sé go mór go raibh an clogáin daite agus go raibh cuma álainn orthu. Fuair siad a lán díobh. Ar dtús, thug siad na clogáin dóibh siúd a raibh páistí acu agus ansin bhronn siad iad ar gach duine. Ba bhreá leo iad mar cuimhneachán ar an áit álainn ina raibh cónaí orthu. Bhí sé éasca dóibh iad a dhíol.
+
+Thosaigh daoine eile ag teacht chun na clogáin a cheannach. Cheannaigh siad na clogáin le cur ar an mantelpiece, nó leis na páistí. Bhí go leor daoine ag teacht. Cheannaigh gach duine clogán nó dhó.
+
+Tar éis cúpla uair an chloig, bhí an airgead go léir ag Maolra agus Eimear, agus d’fhéach siad ar a chéile.
+
+"D'oibrigh sé!" a dúirt Maolra le gáire mór.
+
+"D’oibrigh sé!" a dúirt Eimear freisin, agus í ag preabadh suas.
+
+Thug siad an t-airgead go dtí a n-athair agus a máthair. Bhí a súile líonta le deora de ghuí agus buíochais.
+
+"Go raibh maith agaibh, a chlann," a dúirt Fionn. "Shábháil sibh sinn."
+
+Chuaigh Fionn go dtí an cíos-rí agus d'íoc sé an cíos go léir. D’fhéadfadh an chlann ar fad análú arís. Bhí an rí chomh sásta gur thug sé go leor óir dóibh.
+
+Bhí siad an-sásta faoin lá sin. Chabhraigh gach duine lena chéile. Ba mhaith leo an obair a dhéanamh. Shocraigh siad filleadh chuig an trá arís agus níos mó clogán a bhailiú. Bhí go leor gaineamh fágtha ann.
+
+An lá dar gcionn, chinn siad clogáin eile a dhéanamh. Bhí a fhios acu anois go raibh an-suim ag daoine sna clogáin seo. D'fhéadfadh sé bheith an-rathúil. Chabhraigh siad ar fad lena chéile, ag bailiú na gclogán, ag nigh an ghaineamh, agus ag déanamh na gclogán álainn.
+Bhí an t-ádh leo ar feadh míonna. Thosaigh daoine ó shráideanna eile agus ó shráidbhailte eile ag teacht go Dún Chaoin chun na clogáin álainn seo a cheannach.
+
+Chonaic an rí é seo ar fad, agus chinn sé gur chóir dó rud a dhéanamh. Chonaic sé an toilteanas, an obair chrua agus an grá sa teaghlach. B'iontach an méid a rinne siad. Thaitin an t-iompar agus an díograis seo leis. Mar sin, thug sé chuig a phálais iad. Thug sé lón mór dóibh. Agus d'iarr sé ar an teaghlach cloí leis agus teacht isteach gach lá chun na clogáin a dhíol ag an bPálás. Ar an gcaoi sin, fuair sé clogáin dó féin agus do gach duine sa chúirt. Thug sé aitheantas dóibh go léir.
+
+Bhí an-áthas ar an gclann. Bhí a fhios acu anois go bhféadfadh siad fanacht i nDún Chaoin go deo. Ba áit iontach í. Bhí meas ag gach duine ar an gcinnteacht agus ar an gcomhar a léirigh an chlann.
+
+Go deireadh a shaoil, mhair siad i rathúnas. Fuair siad cairde agus thaitin saol mór leis an teaghlach. D’fhan siad le chéile i gcónaí, ag obair le chéile agus ag tacú lena chéile, cosúil leis na clogáin bheaga a d’éirigh chomh rathúil. Ó shin i leith, b'eachtra í seo a thaitin leis an rí agus go gcloisimid anois.
+
+Bhí siad an-sásta. Faraor, ní dhearna siad dearmad go deo ar an lá a chabhraigh siad le chéile chun an cíos a íoc leis an rí. Ba mhaith leo a gcéilí a mheabhrú gach lá.
+
+Ba é seo an scéal beag faoi na clogáin sa Cíos-Rí, scéal faoi chlann a fuair bealach chun a gcíos a íoc le beagán smaoinimh, obair chrua, agus go leor grá. Agus bhí siad an-sásta.

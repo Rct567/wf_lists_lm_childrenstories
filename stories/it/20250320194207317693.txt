@@ -1,0 +1,75 @@
+<prompt>
+Please write a dialog-based Italian children's story that is at least 1000 words long.
+It must be completely written in proper Italian (IT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Il Fiume dei Pesci Colorati'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>it</lang_id>
+
+```xml
+<title>Il Fiume dei Pesci Colorati</title>
+<body>
+<p>– Mamma, possiamo andare al fiume oggi? – chiese Sofia, saltellando davanti alla sua mamma.</p>
+<p>– Al fiume? Ma è un po’ lontano, tesoro. Ci sono molti alberi da superare e un sentiero lungo, lungo – rispose la mamma, accarezzando i capelli biondi di Sofia.</p>
+<p>– Per favore, mamma! Ho sentito dire che al fiume vivono pesci colorati! Non li ho mai visti!</p>
+<p>La mamma sorrise. – Pesci colorati, eh? Chi te l’ha detto?</p>
+<p>– Giacomo! Lui ci è andato con suo nonno e ha detto che sono bellissimi, di tutti i colori dell’arcobaleno! Blu come il cielo, rossi come le fragole… – Sofia parlava a raffica, con gli occhi che brillavano di eccitazione.</p>
+<p>La mamma ci pensò su un attimo. – Va bene, Sofia. Ma dobbiamo portare lo zaino con le provviste, un cappello per il sole e le scarpe giuste per camminare.</p>
+<p>– Evviva! Grazie, mamma! – Sofia urlò di gioia e corse a preparare il suo zainetto.</p>
+<p>Così, dopo un'ora di preparativi, Sofia e la mamma, con lo zaino pieno di panini, frutta e acqua fresca, si avviarono verso il fiume.</p>
+<p>– Siamo quasi arrivate, tesoro. Vedi quel grande albero laggiù? – disse la mamma, indicando un albero maestoso con la sua chioma verde.</p>
+<p>– Sì! – rispose Sofia, correndo avanti. – Wow, è enorme!</p>
+<p>Dopo aver camminato per un po', finalmente arrivarono al fiume. Era un fiume tranquillo, con l'acqua cristallina e il suono dolce dello scorrere dell'acqua.</p>
+<p>– Wow… – sussurrò Sofia, ammirando la bellezza del fiume. – È bellissimo!</p>
+<p>– Ti piace, tesoro? – chiese la mamma, sorridendo.</p>
+<p>– Sì, tantissimo! E i pesci? Dove sono?</p>
+<p>Si sedettero sulla riva del fiume e, dopo un momento, Sofia gridò: – Mamma, guarda! Ce n'è uno!</p>
+<p>Un piccolo pesce argentato guizzò nell'acqua. – Non è colorato, questo… – disse Sofia, un po' delusa.</p>
+<p>– Aspetta un po', Sofia. Vedrai, arriveranno anche i pesci colorati – rispose la mamma.</p>
+<p>Continuarono a guardare attentamente l'acqua. Dopo un po', apparve un pesce arancione, poi uno giallo, e poi, finalmente, un pesce azzurro. Sofia scattò in piedi, incredula.</p>
+<p>– Sono bellissimi! – esclamò.</p>
+<p>– Te l’avevo detto – sorrise la mamma. – Ma fanno fatica a farsi vedere, sai? Sono un po' timidi.</p>
+<p>A quel punto, un signore anziano, con una barba lunga e bianca, si avvicinò a loro. Portava con sé una canna da pesca e sembrava molto contento.</p>
+<p>– Buongiorno, signorina! – disse il signore, rivolgendosi a Sofia. – Buongiorno anche a lei, signora!</p>
+<p>– Buongiorno! – risposero la mamma e Sofia in coro.</p>
+<p>– Siete qui per vedere i pesci colorati? – chiese il signore con un sorriso.</p>
+<p>– Sì! – rispose Sofia con entusiasmo. – Sono bellissimi!</p>
+<p>– Lo sono, davvero. Sono i guardiani del fiume. Si dice che portino fortuna a chi li guarda con amore – disse il signore, guardando l'acqua.</p>
+<p>– Davvero? – chiese Sofia, sorpresa.</p>
+<p>– Sì, signorina. Ma è importante rispettare il fiume e non inquinare l'acqua. Solo così i pesci colorati saranno sempre felici di mostrarvi la loro bellezza – spiegò il signore.</p>
+<p>– Non inquiniamo mai! – rispose Sofia, con orgoglio. – Raccogliamo sempre i nostri rifiuti!</p>
+<p>Il signore sorrise. – Bravissima! Questo mi rende molto felice.</p>
+<p>Sofia e la mamma rimasero al fiume per tutta la giornata. Mangiarono i panini, giocarono con le pietre e, soprattutto, ammirarono i pesci colorati che, di tanto in tanto, facevano capolino nell'acqua cristallina.</p>
+<p>Verso sera, la mamma disse: – È ora di tornare a casa, tesoro. Sta per fare buio.</p>
+<p>– Un’altra mezz’oretta, mamma, per favore? – supplicò Sofia.</p>
+<p>– Va bene, ma solo un po' – acconsentì la mamma.</p>
+<p>Mentre guardavano il fiume per l'ultima volta, il signore anziano si avvicinò a loro.</p>
+<p>– Signorina, le piaceva il fiume? – chiese.</p>
+<p>– Sì! Tantissimo! – rispose Sofia con un sorriso. – I pesci colorati sono meravigliosi!</p>
+<p>– Sono contento. Torni spesso a trovarli, allora. Ma ricorda sempre di rispettare il fiume – disse il signore, strizzando l'occhio.</p>
+<p>– Certo che sì! – promise Sofia.</p>
+<p>– Tenete. – Il signore porse a Sofia una piccola pietra lucente, colorata come un arcobaleno.</p>
+<p>– Wow! Grazie! – Sofia prese la pietra, emozionata. – È bellissima!</p>
+<p>– È un piccolo dono dei pesci colorati. Ogni volta che la guarderai, ricorda il fiume e la sua bellezza – disse il signore, sorridendo.</p>
+<p>Poi il signore si allontanò, scomparendo tra gli alberi, come un personaggio di una favola. Sofia e la mamma si guardarono negli occhi, sorprese.</p>
+<p>– Chi era, mamma? – chiese Sofia.</p>
+<p>– Non lo so, tesoro… ma penso che fosse un amico speciale del fiume – rispose la mamma, un po’ misteriosa.</p>
+<p>Presero il sentiero per tornare a casa, tenendosi per mano. Sofia teneva stretta la pietra colorata nel palmo della mano.</p>
+<p>– Mamma, sono stata benissimo oggi – disse Sofia, con un grande sorriso.</p>
+<p>– Sono contenta, tesoro. Anche io sono stata benissimo – rispose la mamma.</p>
+<p>Durante il tragitto di ritorno, Sofia immaginò i pesci colorati che nuotavano nel fiume, custoditi dal misterioso signore. Sapeva che avrebbe sempre ricordato quella giornata e la magia del fiume.</p>
+<p>Quando arrivarono a casa, Sofia corse a mettere la pietra sul suo comodino, accanto al letto. Quella notte, mentre si addormentava, sognò di nuotare nel fiume, circondata da pesci colorati, e sorrise.
+– Mamma? – chiamò Sofia, qualche giorno dopo, mentre facevano merenda.</p>
+<p>– Dimmi, tesoro – rispose la mamma, versando il latte in un bicchiere.</p>
+<p>– Posso andare di nuovo al fiume? Voglio vedere se i pesci colorati ci sono ancora – chiese Sofia, con gli occhi che brillavano.</p>
+<p>– Certo, tesoro. Quando vuoi – rispose la mamma, sorridendo. – Ma questa volta, forse possiamo invitare anche Giacomo. Così può vedere con i suoi occhi i pesci colorati di cui ti ha parlato.</p>
+<p>– Sì! Ottima idea, mamma! – esclamò Sofia, saltando di gioia. – Così gli mostro la pietra che mi hanno dato!</p>
+<p>E così, il fiume dei pesci colorati continuò a portare gioia e magia nella vita di Sofia, diventando un posto speciale che condivideva con i suoi amici e la sua mamma, un luogo dove la natura e la fantasia si fondevano in un'esperienza indimenticabile.
+</p>
+</body>
+```

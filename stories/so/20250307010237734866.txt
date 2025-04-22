@@ -1,0 +1,94 @@
+<prompt>
+Please write a simple and easy-to-follow Somali children's story that is at least 1000 words long.
+It must be completely written in proper Somali (SO).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Carruurta iyo Xikmadaha Qadiimiga ah ee Dhaqanka'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>so</lang_id>
+
+<title>Carruurta iyo Xikmadaha Qadiimiga ah ee Dhaqanka</title><body>
+Maalin maalmaha ka mid ah, oo ku yaal tuulo qurux badan oo ku taalla Soomaaliya, ayaa waxaa ku noolaa saddex carruur ah oo la kala oran jiray Faadumo, Axmed, iyo Khaliif. Carruurtani waxay ahaayeen kuwo aad u xiiseeya hiddaha iyo dhaqanka Soomaaliyeed. Waxay aad u jeclaa sheekooyinka waawayn oo ku saabsan geesiyaashii hore, gabayadii, iyo xikmadaha qadiimiga ah.
+
+Faadumo waxay ahayd gabar aad u adag oo caqli badan. Waxay aad u jeclaa in ay wax akhrido oo ay wax barato. Axmed wuxuu ahaa wiil aad u firfircoon oo xiiso badan. Wuxuu jeclaa inuu ka qayb qaato cayaaraha iyo wax walba oo farxad leh. Khaliif, isagu wuxuu ahaa wiil deggan, fakar badan, oo had iyo jeer aammin u ahaa dadka kale. Wuxuu aad u jeclaa inuu dhegeysto dadka waaweyn isagoo ka qaadanaya xikmadahooda.
+
+Maalin maalmaha ka mid ah, intii ay ciyaarayeen duurka agagaarkiisa, ayaa waxay heleen oday waayeel ah oo hooska geed weyn ku fadhiisiyay. Odaygan wuxuu xirnaa dharka dhaqanka Soomaaliyeed, wuxuuna sidoo kale haystay ul dheer oo uu ku tiirsanaa.
+
+"Salaan," ayuu yiri Faadumo, isagoo odayga u gacan haadinaya.
+
+"Nabadgelyo!" ayuu ugu jawaabay odaygii, isagoo dhoola cadeeynaya. "Waxaan ahay Cabdi, waana u aqaan dhammaan sheekooyinka ugu xiisaha badan ee dhaqankeena."
+
+Carruurtu way is eegeen, indhahoodu waxay ka muujiyeen farxad iyo xiiso weyn. "Runtii?" ayuu yiri Axmed isagoo aad u yaaban. "Ma naga sheegi kartaa mid ka mid ah sheekooyinkaas?"
+
+"Haa dabcan," ayuu yiri Cabdi, "Laakiin ka hor intaanan bilaabin, waxaan doonayaa inaan idin baro xikmad." Wuxuu eegay saddexda carruur oo ku yiri, "Xikmaddu waa laf dhabarta dhaqanka. Waa waxa na siinaya hagidda, waxa na bara nolosha iyo sida aan ula noolaano dadka kale."
+
+Khaliif wuxuu weydiiyay, "Oday, xikmaddu ma sidaasi ma muhiimbaa?"
+
+"Maya, aad ayay muhiim u tahay," ayuu Cabdi ugu jawaabay. "Waxay kaa caawineysaa inaad noqoto qof wanaagsan, inaad sameyso go'aamo wanaagsan, iyo inaad noloshaada ku noolaato si farxad leh."
+
+Cabdi wuxuu sii watay, "Waxaan idin bari doonaa dhowr xikmadood oo muhiim ah oo laga dhex helo dhaqanka Soomaaliyeed ee qadiimiga ah."
+
+Wuxuu ugu horreeyn bilaabay xikmadda ugu horreysa: "Iskaashiga waa muhiim." Wuxuu yiri, "Soomaaliya, waxaan u baahanahay inaan wada shaqeyno si aan u xoojino bulshadeena. Iskaashi la'aanta, waxba ma gaari karno." Wuxuu sii watay, "Eeg beesha ariga. Haddii mid ka mid ah u dhaco oo uu halista la kulmo, kuwa kale waa u gurmanayaan midba midka kale."
+
+Axmed wuxuu weydiiyay, "Sideen u muujinaa iskaashi, oday?"
+
+"Markaad ka caawiso dadka kale iyadoo aanad wax badan ka filanin, marka aad caawiso deriskaaga, marka aad qeybiso waxaad haysato," ayuu u sheegay Cabdi. "Waxaan qeybsannaa cuntada, biyaha, iyo daryeelka. Taas ayaa sababta aan ugu noolahay ama aan ugu wanaagsanahay."
+
+Markii xigta, Cabdi wuxuu u sheegay xikmadda labaad: "Dabka waa in la ilaaliyo." Wuxuu yiri, "Dhaqankeenii hore, dabku wuxuu ahaa wax aad muhiim u ah. Wuxuu na siiyay diirimaad, iftiin, iyo cunto. Dabku wuxuu calaamad u ahaa nolol iyo wax soo saar. Laakiin dabka waa in la xajiyaa."
+
+"Sidee baa dabka loo xajiyaa, oday?" ayuu weydiiyay Faadumo.
+
+"Adigoo daryeela waxa aad haysato," ayuu yiri Cabdi. "Waxay la macno tahay in aad daryeesho qoyskaaga, beeshaada, deegaankaaga. Waa inaad daryeeshaa wax walba oo qiimo leh, waliba dhaqankaaga. Haddii aad dhaqankaaga oofiso, waxaad ilaalin doontaa dabkaas."
+
+Cabdi markii xigay wuxuu ku sheegay xikmadda saddexaad: "Akhlaaqda waa sida dhismiga." Wuxuu yiri, "Akhlaaqda wanaagsan waa aasaaska bulshada xooggan. Haddii aynu leenahay akhlaaq, waxaan ixtiraami doonaa midba midka kale, waxaan noqon doonnaa xaq, waxaan u dhaqmi doonnaa si daacad ah."
+
+"Maxay yihiin iskuulo wanaagsan, Cabdi?" ayuu weydiiyay Khaliif.
+
+"Waa run, daacadnimo, ixtiraam, naxariis," ayuu u sheegay Cabdi. "Waa inaad had iyo jeer xaq u noqotaa dadka kale, xitaa haddii ay adkaato. Waa inaad daacad u ahaadaan ereyadaada iyo ficiladaada. Waa inaad ixtiraamtaa dadka waaweyn iyo kuwa yarba. Waa inaad naxariis la noqotaa kuwa kale, xitaa kuwa aanad garaneyn."
+
+Carruurtu way dhageysteen xikmadaha Cabdi si aad ah. Waxay u arkeen kuwo aad u xiiso badan oo macno badan leh. Waxay xiiso u qabeen sheekooyinka iyo xikmadaha, oo ay doonayeen inay wax badan ka bartaan dhaqankooda.
+
+"Hadda waa waqtigii sheekada," ayuu yiri Cabdi isagoo dhoola cadeynaya. Wuxuu fadhiistay, carruurtuna waxay hareerahiisa iska dhigeen.
+
+Cabdi wuxuu bilaabay sheeko ku saabsan geesi Soomaaliyeed oo lagu magacaabi jiray Maxamed Cabdulle Xasan, oo sidoo kale loo yaqaan Sayid Maxamed. Wuxuu ahaa geesi ka soo horjeeday gumeysigii Ingiriiska ee Soomaaliya. Wuxuu ahaa nin aad u geesi ah, oo aad u go'aansaday inuu xoreeyo dadkiisa. Cabdi wuxuu sheegay sida Sayid Maxamed uu u dagaalamay muddo dheer oo uu u guuleystay inuu Ingiriiska ka hor istaago dhulkiisa.
+
+"Sayid Maxamed wuxuu ahaa tusaale ah geesinimo iyo daacadnimo," ayuu yiri Cabdi. "Wuxuu mar walba u dagaalami jiray dadkiisa, wax walba oo qiimo leh oo u haysto."
+
+Carruurtu aad bay u xiiseeyeen sheekada Sayid Maxamed. Waxay ku noqotay mid lagu kalsoonaan karo geesinimo. Waxay ahaayeen kuwo aad u qanacsan inay arkaan sida ay ugu dadaaleen dhaqankooda, una sheegeen sheekooyin ku saabsan geesiyaal Soomaaliyeed.
+
+Kadib, Cabdi wuxuu sheegay sheeko ku saabsan gabar yar oo lagu magacaabo Amina oo ku noolayd tuulo Soomaaliyeed. Amina waxay aad u jeclaa inay wax akhriso oo wax barato. Laakiin tuulada gudaheeda, ma jirin wax dugsi ah. Amina, taas oo aan ka niyad jabin, waxay bilowday in ay u tagto odayaasha bulshada oo ay dhageysato oo uu si qoto dheer uga wax barato. Amina ayaa ku dhawaaqday dhaqankeeda, oo ku qanacday xikmada dhaqankeeda.
+
+Amina, oo gabadh yar ahaydan, ayaa ugu dambeyntii noqotay macalimad. Waxay ka furtay dugsi tuulada, halkaas oo ay carruurta kale baraysay akhris iyo qoraal. Amina wuxuu noqday mid aad looga yaqaan Soomaaliya.
+
+"Amina waxay muujineysaa muhiimadda waxbarashada," ayuu yiri Cabdi. "Waxbarashadu waa furaha horumarka. Waa inaan waligeen isku daynaa inaan wax barano."
+
+Carruurtu aad bay gabadhaas u jeclaadeen. Waxay ku faraxsanaayeen inay arkaan sida ay muhiimka u tahay waxbarashadu.
+
+Cabdi wuxuu sii waday sheekooyin badan. Wuxuu ka sheekeeyey sheekooyin ku saabsan gabayo qadiimi ah, oo ku saabsan xoolaha Soomaaliyeed, iyo sheekooyin ku saabsan noloshii tuulada hore. Saddexda carruur waxay dhagaysan jireen maalin kasta si ay wax uga bartaan dhaqankooda.
+
+Maalintii dambe, cabdi wuxuu ku yiri carruurta, "Waxaan idin baray xikmadaha qadiimiga ah iyo sheekooyin badan. Laakiin waxaan idin weydiinayaa in aad had iyo jeer xusuusataan waxa aad bartay."
+
+Faadumo wuxuu yiri, "Waxaan xasuusan doonnaa xikmadahaaga iyo sheekooyinkaaga oo dhan, oday."
+
+Axmed wuxuu yiri, "Waxaan isku dayi doonaa inaan ku noolaano nolosheena maalin kasta."
+
+Khaliif wuxuu yiri, "Waxaan waligeen ixtiraami doonaa dhaqankeena."
+
+Cabdi wuxuu dhoola cadeeyay oo yidhi, "Taasi waa waxa aan doonayo inaan maqlo." wuxuu sii watay, "U fiirso, dhaqanku waa hanti qiimo leh. Waa waxa na sameeya, hadda."
+
+Carruurtu waxay sii wadaan in ay booqdaan Cabdi maalin kasta. Waxay dhageysteen sheekooyinkiisa, xikmadahiisa, oo waxay waydiiyeen su'aalo badan oo ku saabsan dhaqankooda. Waxay barteen in ay qiimeeyaan dhaqanka Soomaaliyeed, oo ay rabaan in ay sii wadaan.
+
+Maalintii ugu dambeysay, ka hor inta uusan Cabdi safriinin, wuxuu u sheegay carruurtu, "Waxaan wax badan idin baray. Waxaan ka filayaa inaad sii wadaan xikmadaha qadiimiga ah ee dhaqanka."
+
+Carruurtu waxay balan qaadeen in ay had iyo jeer ilaalin doonaan xikmadaha iyo xeerarka ay ka barteen Cabdi.
+
+Cabdi wuxuu dhoola cadeeyay. "Waxaan garanayaa inaad hubaal u sameysaan. Waxaad tahay carruur fiican xanbaarsan, mustaqbalkiisuna waa dhalaalayaa." Wuxuuna yiri, "Xikmaddu ma dhintaan; dhaxal ahaan waa la gudbiyey."
+
+Cabdi wuxuu ku guuleystey wadada, saddexdii carruurina way is eegeen isagoo ay indhahoodu ka muuqanayso farxad. Waxay ogaadeen in ay ka muhiimsan tahay in la dhagaysto dadka waawayn iyo in la ilaaliyo dhaqankooda. Waxay ogaadeen sida ay u qiimo iyo macno badan u leedahay in la qeybiyo, isla markaana la ixtiraamo xiriirka bulshada ee dadkoo dhan.
+
+Faadumo, Axmed, iyo Khaliif waxay sii wadeen noloshoodii oo ay qaateen xikmadaha qadiimiga ah ee dhaqanka. Waxay noqdeen dad ballaaran, oo ku guuleysta wixii aay rabaan in ay nololooda ku gaaraan. Waxay ogaadeen in dhaqanku yahay hantida ugu weyn ee ay haystaan, aadna uga sii fiican yihiin si ay u ilaaliyaan oo ay u gudbiyaan jiilka xiga. Waxay si wacan u noolaadeen, iyagoo faraxsan, nool, oo la qorsheeyay. Gabayo iyo sheekooyin lagu daabacay quluubtooda weligood.
+</body>

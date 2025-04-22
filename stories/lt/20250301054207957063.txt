@@ -1,0 +1,31 @@
+<prompt>
+Please write a funny Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Gintaro upės pasaka apie laimę'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>lt</lang_id>
+
+<title>Gintaro upės pasaka apie laimę</title>
+<body>Kadaise, šalia Gintaro upės, gyveno mažas berniukas vardu Jonas. Jis buvo labai smalsus ir visada norėjo sužinoti, kas yra laimė ir kaip ją galima rasti. Jo tėvai ir seneliai visada sakydavo, kad laimė yra tai, ką žmogus jaučia širdyje, bet Jonas norėjo žinoti daugiau.
+
+Vieną dieną, Jonas nusprendė pasiekti Gintaro upės šaltinį, kur, kaip sakė legenda, gyveno upės dvasia, turinti visų atsakymų. Jis pakeliui pasitarė su savo geriausiu draugu, šunimi vardu Šarikas, ir kartu jie išsikėlės į kelionę. 
+
+Jie ėjo per miškus, kur augo didžiuliai medžiai, per pievas, kur žydėjo spalvingi gėlės, ir per kalvas, kur vyrai kasa smaragdus. Visur, kur jie ėjo, Jonas ir Šarikas sutikdavo įvairiausius gyvūnus: paukščius, beždžiones, net vilką ir meškę. Jonas visada klaustė, ar jie žino, kas yra laimė, bet visi gyvūnai atsakydavo, kad laimė yra skirtinga kiekvienam.
+
+Po kelių dienų kelionės, Jonas ir Šarikas galiausiai pasiekė Gintaro upės šaltinį. Ten jie rado gražų, švytintį fontaną, iš kurio tekėjo kristalaiškas vanduo. Prie fontano sėdėjo sena moteris, apsirengusi baltu apsiaustu, su auksiniu vainiku ant galvos. Jonas supyko, kad tai turėtų būti upės dvasia, ir jai paklausė apie laimę.
+
+Upės dvasia atsakė: "Laimė yra kaip vanduo šiame fontane. Ji visada juda, bet visada graži. Ji gali būti skirtinga kiekvienam, bet visada yra pasiekiama, jei tik nori ją ieškoti." Jonas paklausė, kaip ją galima rasti, ir upės dvasia atsakė: "Laimę galima rasti, kai darai ką nors, kas tau patinka, ir kai esi su žmonėmis, kuriuos myli."
+
+Jonas buvo patenkintas atsakymu, bet jis norėjo žinoti daugiau. Jis paklausė upės dvasios, ar ji gali parodyti jam, kaip laimė atrodo. Upės dvasia pasišypsojo ir pasiūlė Jonui sekti ją. Ji pavogė Jonas ir Šariką per visą upę, parodydama jiems visus upės gyvūnus: žuvų, vandens roplių, net ir delfinus.
+
+Jonas buvo visiškai sužavėtas. Jis niekada nesutikęs tokių daug gyvūnų vienoje vietoje. Upės dvasia jam pasakė, kad visi šie gyvūnai yra laimingi, nes jie gyvena upėje ir turi viską, ko jiems reikia. Jonas suprato, kad laimė yra ne kas nors, ko galima siekti, bet kas nors, ko galima pajusti.
+
+Jonas ir Šarikas grįžo namo, bet jie niekada nepamiršo upės dvasios mokymo. Jonas pradėjo daryti daugiau ką nors, kas jam patinka, ir jis pradėjo leisti daugiau laiko su savo šeima ir draugais. Jis suprato, kad laimė yra ne kas nors, ko galima rasti, bet kas nors, ko galima kurti.
+
+Ir taip, Jonas ir Šarikas gyveno laimingai, ir jie visada atsiminė upės dvasios mokymo. Jie suprato, kad laimė yra visur, ir kad ji gali būti rasta, jei tik nori ją ieškoti. Ir jie visada prisiminė, kad laimė yra kaip vanduo Gintaro upėje - ji visada juda, bet visada graži.</body>

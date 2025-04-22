@@ -1,0 +1,41 @@
+<prompt>
+Please write a creative and original Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Pupu-Ponin ja karhu-Kallen ystävyys: matka läpi metsän ja seikkailujen.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>fi</lang_id>
+
+<title>Pupu-Ponin ja karhu-Kallen ystävyys: matka läpi metsän ja seikkailujen.</title>
+<body>
+Pupu-poni, vilkkaasti liikkuva ja tummanruskea, asui metsän reunalla. Hänen nahkansa hohti auringonpaisteessa kuin kosteassa savessa leikitty sametti.  Hän rakastoi juosta ja leikkiä, mutta usein hän tunsi itsensä yksinäiseksi, vaikka metsä pullisteli äänimaailmoista. Linnut lauloivat, purot virtasivat ja tuulen viheltely kuului puiden latvoissa, mutta Pupulle puuttui leikkiseura.
+
+Yksi aamu, kun Pupu-poni laiduntoi herkullisia metsäyrttejä, hän kuuli äänen. Se oli matala ja syvä, kuin metsän itseään henkäisevä ääni.  Hän katsoi ympärilleen, mutta ei nähnyt ketään. Ääni toistui, ja tällä kertaa hän havaitsi liikehdintää pensaiden väleissä. Sieltä askelsi ulos karhu-Kalle.
+
+Kalle oli harmaa, kuin hämärän metsän sydän. Hänellä oli suuret, ystävälliset silmät ja pehmeä, vellusmainen turkki.  Hänen tassut olivat kuin kuuman kivinpalan käämiä.  Kalle katsoi Pupua levollisen uteliaasti.  Pupu-poni pelästyi hetkeksi, mutta Kauru-Kallen ilme oli niin lempeä, että pelko väistyi ja korvautui uteliaisuudella.
+
+"Moi", Pupu-poni heitti äänen ulos, hätkähtäneenä.
+
+"Moi", vastasi Kalle, hänen ääni samettinainen. "Olen Kalle. Olen karhu."
+
+"Olen Pupu", vastasi poni. "Olen poni."
+
+He alkoivat keskustella ja Pupu huomasi, että Kalle oli yllättävänkin mukava seura.  Heidän keskustelunsa kiersi kaikkea metsän eläinten maailmasta ja siitä, kuinka vaikeaa oli olla yksineläjä.  He oppivat toisistaan. Kalle kertoi pupulle metsän myyttejä ja Pupu kertoi ponien tarinoita.
+
+He päättivät tehdä yhdessä seikkailun.  Pupu-poni oli tietoinen metsästä, sen polkuista ja siemenistä. Kalle oli tietoinen metsän eläimistä ja sen salaisuuksista. He lähtivät matkaan yhdessä, Pupu-poni veti Kallea pitkin matkaa, sekä pitkin kapeita polkuja että yli sankojen.
+
+Heille tuotiin eteen vaikeuksia. Heidän oli pakko ylittää syvä puro, ja Kalle apinasi Pupun selkään, jotta he voisivat ylittää sen. He kohtasivat ahneen hirven, joka yritti varastaa Pupun parhaimman omenan, mutta Kallen voimasta riitti voittamaan kilpailijan.  He pelastivat myös kadonneen kotkanpoikanen, joka oli eksynyt myrskyyn.
+
+Heidän matkansa vei heidät läpi metsän salaperäisten kuusenmetsien ja syvien laaksojen. He näkivät metsän pehmeät kukat ja syvän ruskean maan. He kohtasivat ystävällisiä metsän eläimiä, jotka kiitollisena auttoivat heitä. Heidän matkansa oli täynnä iloisia kohtaamisia ja yllätyksiä.
+
+Yhtenä päivänä he saapuivat kauniiseen, kirkkaaseen lammen rannalle.  Siellä, pehmeän vihreiden nurmien keskeltä, kasvoi valtava, kirkkaanpunainen marja. Marja oli niin herkullinen, että se oli kuin aurinkoinen aamu. Pupu-poni ja Karhu-Kalle istuivat alas ja nauttivat marjoista rauhallisena.
+
+Heidän matkansa yhdessä oli täynnä leikkien ja seikkailuun.  He olivat ystäviä, ja ystävyys oli kuin pehmeä metsätuuli, joka pyyhkäisi heidän ympärilleen.  He oppivat, että ystävyys oli seikkailujen parhaiten ohjaava voima. He palasivat metsään, ymmärtäen, että ystävyys on lahja, jota voitiin löytää kaikkialta, olipa se sitten hyvän metsän eläimen sydämessä tai tummanpunaiselle marjalle, jota on helppo löytää.
+
+Heille oli jäänyt kokemus, että heidän matkansa ei ollut vain yksittäisiä seikkailuja, vaan koko metsän elämän historia, ja se kaikui heidän sydämissään.  Pupu ja Kalle olivat onnellisia. He olivat ystäviä, ja se oli tarpeeksi.
+</body>

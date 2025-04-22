@@ -1,0 +1,35 @@
+<prompt>
+Please write a silly Bosnian children's story that is at least 1000 words long.
+It must be completely written in proper Bosnian (BS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Pustolovine malog čarobnjaka iz sela Lukomir'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>bs</lang_id>
+
+<title>Pustolovine malog čarobnjaka iz sela Lukomir</title>
+<body>
+Petar, mali čarobnjak iz sela Lukomir, nije bio običan dječak.  Njegovu kolibu, skromnu i drvenu, često su posjećivali razni neobični životinjski prijatelji – lisice sa šarenim šalom, zečevi s naočalama, i medvjedi s ogromnim knjigama pjesama. Petar je imao i jednu posebnu mačku, Mimi, koja je, kao i on, posjedovala izuzetne moći. Mogla je pretvoriti mrvu hljeba u čudesnu tortu, a svaki kašalj pretvoriti u lijepu pjesmu.
+
+Seoska kafana "Crveni medvjed" bila je glavno društveno okupljalište sela Lukomir. Tu su se okupljali svi seljani, svaki sa svojom priču i glasnom šalom. Jedan dan, dok su seljani žvakali slatkiše i pili čaj, začuo se krik.
+
+"Nevolja!" povikao je dedo Jovan, starac sa brkovima poput pahuljice. "Crveni medvjed izgubio je svoj čarobni štapić!"
+
+Crveni medvjed, drveni medvjed koji je vodio kafanu, bio je poznati čarobnjak.  U svojoj čarobnoj štapiću čuvao je sve smiješne šale sela, posebno čarobni recept za sladoled od jagoda koji je s posebnim umijećem izvlačio iz svakog kupusa.
+
+Petar je odmah znao šta mora uraditi. Uz Mimi, brzo je krenuo na istraživanje šume. Šuma je bila gusta i tajanstvena, puno čudnih zvukova i mirisa.  Na grani je vidio pauka sa zlatnim naočarima, a ispod velikog drveta skrivale su se patke koje su čavrljale u ritmu bubnjeva napravljenih od šišarki.
+
+Tražeći štapić, naišao je na mravinjak gigantskih razmjera.  Na njemu je sjedio veliki mrav, odjeven u ogrtač od trave i rukavice od svilene svilke. "Potreban vam je štapić?", promuklo je upitao mrav. "Mora se proći kroz sedam čarobnih dvorana!", kazao je.  Prva dvorana bila je od šećera, drugo od masti. Tamo, skriveni među hrpama suhih listova, pronašli su dva prekrasna magarca, obučena u crvene kapute. Oni su imali skriveni ključ.
+
+
+Nakon još nekoliko avantura u kojima je pomoć dolazio od neobičnih stvorenja – žaba, guštera, a i škorpiona- izumovajući za svako dobro djelo svakako nagrade, našli su se pred sedmom dvoranom. Bila je izgrađena od slatkiša. Kada su otvorili vrata, našli su Crvenog medvjeda.  U ruci je držao ogromnu, vrlo predivnu igračku lutku, koja se ponašala kao štapić. Bila je to jedinstvena igračka od šipka, lijepog izgleda, i osjećaj u njezinim očima. Bio je presretan kad ga je vidio!
+
+Petar i Mimi su se vratili u selo sa divnom štapićem. Crveni medvjed je odmah ispekao nevjerojatnu tortu od jagoda. Celo selo je bilo srećno. Svi su se nasmijali i podijelili kolačiće, plesali i pjevali. U kafani je vladao potpuni užitak. Petar je, pokrivajući svoj izgled, bio ponosan što je pomogao selu i prijateljima, a naročito je uživao u pohvalama.  Bio je to divan dan za selo Lukomir.  Sve su radnje išle u pravom ritmu.
+
+
+Neki kažu da je Petar još uvijek tu, u selima Lukomir, gdje se i dalje, na divne, maštovitih događanja, druže sa čudnim i slatkim stvorenjima. U kafani su se, ispred njega, sa prijateljima, družili i još mnogo divnih životinja koje su u selu doživjele mnogo srećnih i interesantnih trenutaka, što je bio sjajan dan.
+</body>

@@ -1,0 +1,53 @@
+<prompt>
+Please write a timeless Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Ertaklar bog'ida gullagan sehrli gullar va ularning sirli qo'shiqlarini tinglash.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>uz</lang_id>
+
+```xml
+<title>Ertaklar bog'ida gullagan sehrli gullar va ularning sirli qo'shiqlarini tinglash.</title>
+<body>
+Ertaklar bog'i juda uzoq, baland tog'lar va ko'k daryolar ortida joylashgan edi. Uning nomi behuda emas edi, chunki bu bog'da barcha ertaklar tirik edi. Yemishi tilla olma bo'lgan olma daraxti, shirin suvlardan bahra oluvchi quduq, gapiruvchi hayvonlar va sehrli gullar... Albatta, sehrli gullar eng go'zali edi. Ular turli-tuman ranglarda, yulduzdek porlab, kun bo'yi o'zlariga xos, sirli qo'shiqlarini kuylardi.
+
+Bu bog'da Gulnor ismli kichkina bir qizcha yashar edi. Uning onasi unga ko'p ertaklar aytib bergan, lekin u ertaklar bog'ini o'z ko'zlari bilan ko'rishni orzu qilardi. Uning yuragi toza va mehribon edi, shuning uchun ham u har doim hayvonlarga, qushlarga va hatto hasharotlarga ham yordam berishga intilardi.
+
+Bir kuni Gulnor o'rmonda sayr qilib yurganida, kichkina, xira nur taratuvchi, yarador bir olmaxonga duch keldi. Uning oyog'i singan edi. Gulnor darhol unga yordam berishga qaror qildi. U o'zining paxtali ko'ylagining bir qismini yirtib, olmaxonning oyog'ini bog'lab qo'ydi. Olmaxon unga minnatdorchilik bildirdi va qandaydir sehrli qo'shiqni shivirladi, keyin esa tuman ichiga g'oyib bo'ldi.
+
+“Ertaklar bog'iga boradigan yo'lni bilasanmi?” deb so'radi Gulnor olmaxondan.
+
+Uning javobi shunday bo'ldi: "Sehrli qo'shiqqa quloq sol, qizaloq. U seni yetaklaydi.”
+
+Shu paytdan boshlab, Gulnor kundalik ishlari bilan band bo'lgan, lekin har kuni, tun bo'yi u olmaxonning sirli qo'shig'ini eslab, uni takrorlashga harakat qilardi. Uning onasi uni ko'rganida, uning yuragida shirin, g'aroyib bir tuyg'u uyg'ongani ko'rindi.
+
+Bir kuni ertalab, Gulnor oynaga qarab turganda, uning sochlari o'z-o'zidan jilvalana boshladi. Uning ko'zlari yorqinroq porladi va uning qalbida o'sha sehrli qo'shiq yangradi. U eshitgan eng yoqimli ohanglar, unga ertaklar bog'ini ko'rishga va'da berayotgandek edi.
+
+Gulnor dadillik bilan uyidan chiqdi va tumanli o'rmonga qarab yo'l oldi. O'rmon qorong'i va qo'rqinchli edi, lekin uning yuragida shirin bir umid bor edi. U yo'lda qo'rqdi, lekin oldinga intildi, o'sha sirli qo'shiq uni boshqarayotgandek edi. U to'g'ri yurishga harakat qildi, tikanli butalarga va qorong'i daraxtlarga ahamiyat bermay, ertaklar bog'iga qarab bordi.
+
+U anchagina yurganidan so'ng, oldida katta bir daraxtni ko'rdi. Daraxtning shoxlaridan sehrli nur sochilib turardi. Gulnor shoshilinch o'sha daraxtga qarab yurdi va unga yetib borganida, daraxtning tagida bir nechta eshik ochilganini ko'rdi. Har bir eshik boshqa dunyoga ochilardek edi.
+
+Uning yuragi hayajondan urib, ichiga kirdi. Ular uni sehrli gullarga to'la bog'ga olib chiqdi! Gullar har xil ranglarda edi: qizil, sariq, ko'k, binafsha, oq va hatto oltin ranglarda. Ular yulduzdek yaltirardi va har biri o'ziga xos sirli qo'shiqni kuylardi.
+
+Gulnor bog'da yurdi, gullarning go'zalligidan hayratga tushdi. Ular bilan suhbatlashdi va har bir gulning ertagini tingladi. Qizil atirgullar sevgi haqida qo'shiq kuylardi, sariq gullar do'stlik haqida, ko'k gullar orzu haqida, binafsha gullar sadoqat haqida, oq gullar tozalik haqida va oltin gullar ertaklar haqida qo'shiq aytardi.
+
+U ularning qo'shiqlarini tingladi va yuragiga quvonch to'ldi. Gulnorga barcha ertaklar ro'yobga chiqqandek tuyuldi. U juda baxtiyor edi. U hech qachon o'zini bu qadar baxtli his qilmagan edi.
+
+Gulnor gullar orasida o'tirdi va uzoq vaqt davomida ularning qo'shiqlarini tingladi. Ular unga ertakning qahramoni bo'lishga yordam berdi, mehribon bo'lishga o'rgatdi, sadoqatni anglatdi, tozalikni his qildi va sevgi haqida o'yladi. Gulnor gullar qo'shig'idan hayratga tushdi. U gullarga: "Sizlar juda chiroylimsizlar! Va sizlarning qo'shiqlar barchani hayratga soladi!" dedi.
+
+U yerda uzoq vaqt qoldi, lekin hech qachon zerikmadi. U gullarning ertaklarini tinglashni davom ettirdi va har bir gul o'zining eng go'zal ertagini aytib berdi.
+
+Va bir kuni, u uyga qaytish vaqti kelganini his qildi. Sehrli gullar unga bu yo'lda yordam berishga vada berdi. Gulnor ularni quchoqladi va ular bilan xayrlashdi. Har bir gul unga qo'shiqlarini eslab qolishi va bu qo'shiqlar uning qalbidan hech qachon ketmasligini aytdi.
+
+Gulnor ertaklar bog'idan chiqqanida, o'rmon qorong'i edi, lekin uning yuragida sehrli gullarning nurini olib yurardi. U endi qo'rqmadi, chunki uning qalbidagi qo'shiqlar uni himoya qildi.
+
+U uyiga qaytib keldi va onasiga ertaklar bog'ida bo'lgan hamma narsani aytdi. Onasi uni quchoqladi va uning yuragida bu voqea uchun o'rin borligini aytdi.
+
+Va shu kundan boshlab, Gulnor yosh bolalarga o'z ertaklarini, gullar qo'shiqlarini va ertaklar bog'ini o'rgata boshladi. U ertaklar bog'ining sehrini dunyoga yoydi. Va uning ertaklari har doim tinchlik, yaxshilik va muhabbatga to'la bo'ldi, chunki Gulnor ertaklar bog'idagi sehrli gullardan olgan bilimi uning hayotini butunlay o'zgartirgan edi. U barcha odamlarga doimo yordam berdi va qalbiga mehr ulashdi. Va Gulnorning ertaklari hali ham yashab kelmoqda.
+</body>
+```

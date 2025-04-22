@@ -1,0 +1,46 @@
+<prompt>
+Please write a light-hearted Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Muurahaisen ahkerat päivät ja suuri projekti: matka työn tekoon.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>fi</lang_id>
+
+<title>Muurahaisen ahkerat päivät ja suuri projekti: matka työn tekoon</title>
+<body>
+Oli kerran kylä, jossa asui pieni, ahkera muurahainen nimeltä Mikko. Mikko asui kylän laidalla olevassa pienen talossa, jossa hänellä oli kaikki mitä tarvitsi: vuodevaatteet, ruokailuvälineet ja pieni puutarha, jossa hän kasvatti oman ruokansa.
+
+Mikko oli tunnettu kylässä, koska hän oli aina valmis auttamaan muita. Hän auttoi vanhuksia kaupassa, rakensi pieniä taloja orpoille eläimille ja jopa opetti nuoremmille muurahaisille, miten kasvattaa omat ruoat.
+
+Kerran, kun Mikko oli ulkona työskentelemässä, hän kuuli kylän pormestarin puhuvan suuresta projektista. Pormestari halusi rakentaa uuden, suuren puiston kylään, jossa olisi leikkipuistoja, urheilukenttiä ja jopa uima-allas. Mikko kuuli, että pormestari etsii ahkeraa muurahaisen apulaista, joka auttaisi projektin toteuttamisessa.
+
+Mikko oli innoissaan. Hän tiesi, että hän oli juuri muurahainen, joka pormestari etsi. Hän lähti heti pormestarin luo ja esittäytyi. Pormestari oli iloinen, kun hän näki Mikon ja kertoi hänelle, mitä projektissa pitäisi tehdä.
+
+Ensimmäinen tehtävä oli suunnitella puiston alue. Mikko lähti työskentelemään ja piirsi kartan puistosta. Hän mietti, mitä kaikkea puistossa pitäisi olla, ja miten se voisi olla kyläläisten mieleen. Hän piirsi leikkipuiston, jossa olisi kaikenlaisia leikkivälineitä, urheilukentän, jossa voisi pelata jalkapalloa ja jopa uima-altaan, jossa voisi uida kesällä.
+
+Kun Mikko oli valmis suunnitelman kanssa, hän lähti pormestarin luo näyttämään sitä. Pormestari oli todella tyytyväinen suunnitelmaan ja antoi Mikolle seuraavan tehtävän: etsiä työntekijöitä puiston rakentamiseen.
+
+Mikko lähti etsimään työntekijöitä. Hän meni kylän laidalle ja etsi muurahaisia, jotka olisivat valmiit auttamaan. Hän löysi joukon ahkeraa muurahaisia, jotka olivat valmiit työskentelemään puiston rakentamisessa.
+
+Yhdessä he alkoivat työskennellä. Mikko johti ryhmää ja antoi ohjeita, mitä pitäisi tehdä. He rakensivat leikkipuiston, urheilukentän ja jopa uima-altaan. Mikko varmisti, että kaikki oli tehty oikein ja että puisto olisi turvallinen kyläläisille.
+
+Kun puisto oli valmis, kyläläiset olivat todella iloisia. He kiittivät Mikkoa ja hänen työryhmää heidän ansiokkaasta työstään. Pormestari antoi Mikolle palkinnon, joka oli kylän suurin palkinto.
+
+Mikko oli hyvin onnellinen. Hän tiesi, että hän oli auttanut kylää ja tehnyt jotain hyvää. Hän jatkoi työskentelemistä kylässä, auttaen muita ja teki kylästä entistä paremman paikan.
+
+Kun kesä tuli, Mikko ja hänen ystävänsä menivät uima-altaalle uimaan. He nauttivat kesäpäivästä ja uimisesta. Mikko tiesi, että hän oli tehnyt oikean päätöksen, kun hän liittyi puiston rakentamiseen.
+
+Muurahaisen ahkerat päivät ja suuri projekti: matka työn tekoon oli ollut menestyksekäs. Mikko oli osoittanut, että ahkeruus ja yhteistyö voivat luoda jotain upeaa. Hän jatkoi elämäänsä kylässä, aina valmis auttamaan muita ja tekemään kylästä entistä paremman paikan.
+
+Kyläläiset muistivat Mikkoa ja hänen työnsä. He kertoivat tarinaa siitä, miten ahkera muurahainen auttoi kylää ja loi upean puiston. Tarina kulki kylästä kylään, ja pian kaikki tunsivat Mikon ja hänen ansiokkaan työnsä.
+
+Mikko oli todella tyytyväinen elämäänsä. Hän tiesi, että hän oli tehnyt jotain hyvää, ja että hän oli auttanut kylää. Hän jatkoi työskentelemistä, aina valmis auttamaan muita ja tekemään kylästä entistä paremman paikan.
+
+Ja niin Mikon tarina jatkui. Hän eli pitkän ja onnellisen elämän, aina muistuttaen kyläläisille, että ahkeruus ja yhteistyö voivat luoda jotain upeaa. Hän oli esimerkki siitä, mitä voi saavuttaa, kun työskentelee yhdessä ja tekee parhaansa.
+
+Mikon tarina on edelleen kylän tarina, jota kerrotaan lapsille ja nuorille. Se on tarina, joka opettaa, että työ ja yhteistyö voivat luoda jotain upeaa, ja että ahkeruus on avain menestykseen. Ja Mikko, ahkera muurahainen, on edelleen esimerkki siitä, mitä voi saavuttaa, kun työskentelee yhdessä ja tekee parhaansa.</body>

@@ -1,0 +1,33 @@
+<prompt>
+Please write a simple and easy-to-follow Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Putování malého broučka Tonda za dobrodružstvím a novými kamarády'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Putování malého broučka Tonda za dobrodružstvím a novými kamarády</title>
+<body>
+Malý brouček Tonda žil v krásném, zeleném lese.  Jeho domeček, vytesaný z kousku hnilé dřeva, se nacházel pod velkým dubem, u něhož se rozléhaly sladké melodie cvrlikání ptáčků.  Tonda byl malý, ale odvážný brouček s lesklými, černými krovkami a s párky tenkých, oranžových nožiček.  Miloval prozkoumávat okolí a v jeho srdíčku se vždycky vlnilo nadšení pro dobrodružství.
+
+Jednoho slunného rána, když se slunce prokousalo korunami stromů a osvítilo mlhavý les, se Tondovi zjevila nová, neprozkoumaná cesta.  Vedla přes široký, kamenitý chodník, po kterém se vinula úzká, zelená stezka.  Jeho anténky se rozvířily a v Tondovi se probudil hluboký pocit zvědavosti.  "Musím to vidět!" pomyslel si a s pevnou vůlí se vydal na cestu.
+
+První překážkou byl strmý kopec.  Tonda se s námahou a s velkým úsilím plahočil nahoru, jeho nožičky se zachytávaly o malé kamínky a kořínky stromů.  Zatímco se s každým krokem zvedal výše, viděl stále větší a větší kusy úchvatné krajiny.  Na vrcholku ho uvítala úžasná panoramatická vyhlídka.  Před ním se rozprostíralo široké údolí, plné kvetoucích luk a tekoucí říčky, která se leskla jako drahokam.
+
+Tonda se s úžasem díval na úžasnou krásu.  V dálce zahlédl skupinku broučků, kteří se bavili a hráli si s kousky listí.  "Ahoj!" zvolal Tonda.  Broučci se otočili a s překvapením se dívali na malého broučka, který se k nim s úsměvem blížil.  Byli to Šárka, Frantík a Jirka, a všichni tři ho s nadšením uvítali.  Tonda se s nimi s radostí spojil a společně se vydali na průzkum údolí.
+
+Šárka, chytrá a ostražitá broučice, znala všechny skryté chodbičky a tajné cestičky údolí.  Frantík, robustní a silný brouk, s pevnou vůlí a vytrvalostí, jim pomohl překonat různé překážky.  A Jirka, s jeho výborným smyslem pro humor a veselou náladou, jim dodával energii a radost.
+
+Spolu prozkoumali údolí.  Nalezli krásné, lesklé kamínky, o které se báli, že je ztratí, a s úžasem zkoumali zvláštní tvary a barvičky květin.  S radostí objevili sladké a šťavnaté plody, a jejich malé bříška se plnila chutí a štěstím.  Po cestě setkali i čtveřici mravenců, kteří se snažili nést těžký kousek dřeva.  Společně ho s ním odnesli a mravenci jim poděkovali s vděčností.
+
+Když se slunce pomalu skrývalo za obzorem, broučci se vrátili k Tondovi do jeho domečku.  Bylo to úžasné dobrodružství.  Tonda se cítil šťastný a vděčný za to, že se mohl setkat s novými kamarády.  Společně si vyprávěli o svých dobrodružstvích a radovali se z krásných okamžiků, které prožili.  Společně prožili úžasný den plný zábavy a nových zážitků.  Přislíbili si, že se znovu setkají.
+
+Následující dny a týdny se Tonda a jeho noví kamarádi často setkávali.  Společně prozkoumali celé údolí, pomáhali si a učili se od sebe.  Tonda se naučil od Šárky, jak pozorně sledovat okolní svět.  Naučil se od Frantíka, jak překonat překážky a zachovat si pevnost.  A od Jirky se dozvěděl, jak důležité je radovat se ze života a s úsměvem vzít vše, co život přináší.  Tonda si uvědomil, že i malý brouček může zažít velká dobrodružství a získat cenné kamarády, když se nebojí vstoupit do neznámého.
+
+A tak, malý brouček Tonda, s novými zkušenostmi a věrnými kamarády, žil v lese šťastně a pln nadšení pro dobrodružství, vždycky připravený objevovat svět kolem sebe a plnit ho radostí.
+</body>

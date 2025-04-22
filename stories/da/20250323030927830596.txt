@@ -1,0 +1,49 @@
+<prompt>
+Please write a educational Danish children's story that is at least 1000 words long.
+It must be completely written in proper Danish (DA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Hendes Hjemmebassede Hest og Hele Verden'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>da</lang_id>
+
+```xml
+<title>Hendes Hjemmebassede Hest og Hele Verden</title>
+<body>
+<p>Der var engang en lille pige, der hed Astrid. Astrid boede på en gård langt ude på landet i Danmark. Gården var fyldt med alle mulige dyr – høns, køer, katte, hunde og så naturligvis heste. Astrid elskede heste mere end noget andet i hele verden.</p>
+
+<p>Hun havde sin helt egen hest, en smuk fjordhest, som hun havde navngivet Solskin. Solskin var gyldenbrun med en sort man og hale, og hendes øjne var store og blide. Solskin var Astrids bedste ven.</p>
+
+<p>Hver dag, lige efter hun havde spist sin morgenmad med rugbrød og ost (det var hendes yndlingsmad!), gik Astrid ud i stalden. Hun tog Solskins grime på og striglede hende omhyggeligt med en strigle, så hendes pels skinnede som solens stråler. Derefter rensede hun hovene med en hovrenser. “Godmorgen, Solskin!” plejede Astrid at sige med et smil, mens hun strøg Solskins bløde mule.</p>
+
+<p>På gården var der masser af plads til at ride. Astrid kunne galopere over markerne, springe over små hække og udforske skovens mange stier. Hun kendte hver en lille blomst og hvert et fuglekvidder i skoven. Hun vidste, hvor der voksede de sødeste jordbær og de bedste hindbær. Hun elskede at ride med Solskin, for så følte hun sig fri som en fugl.</p>
+
+<p>En dag, mens Astrid og Solskin var på tur i skoven, hørte de en mærkelig lyd. Det var en dyb brummen, som kom nærmere og nærmere. Astrid stoppede Solskin. “Hvad er det?” spurgte Astrid. Solskin rejste ørerne og snusede i luften.</p>
+
+<p>Rundt om et hjørne dukkede der en stor traktor op. Den var virkelig stor, med kæmpe hjul og en masse redskaber bagpå. Manden, der kørte traktoren, vinkede venligt til Astrid og Solskin. "Godmorgen! Jeg er Peter, og jeg er her for at pløje marken," sagde han. "Hvad laver du og din hest?"</p>
+
+<p>Astrid fortalte Peter om sine rideoplevelser og hvor meget hun holdt af Solskin. Peter lyttede tålmodigt. Han forklarede, hvordan han brugte traktoren til at hjælpe med landbruget, hvordan den pløjede jorden, så den var klar til at så korn og andre afgrøder. Astrid var fascineret. Hun havde aldrig rigtig tænkt over, hvordan maden, hun spiste, blev dyrket.</p>
+
+<p>Peter viste Astrid og Solskin rundt på marken. Han forklarede, hvordan man sår korn, og hvordan man plejer planterne, indtil de er klar til at blive høstet. Han viste dem en stor maskine, som blev brugt til at høste kornet, en mejetærsker. Astrid lærte om vigtigheden af landbrug og om alle de hårde arbejdstimer, der ligger bag det mad, vi spiser. Hun var overrasket over, hvor mange ting man skulle tænke på! Peter fortalte hende om forskellige afgrøder – hvede, rug, byg, raps og majs. Hun vidste allerede noget om havre, da det ofte blev brugt til at fodre Solskin.</p>
+
+<p>Astrid og Solskin besøgte Peter og traktoren flere gange. De hjalp med at samle sten fra marken. De så, hvordan Peter brugte en sprøjte til at beskytte afgrøderne mod skadedyr (og Peter understregede vigtigheden af at bruge sprøjtemidler forsigtigt og miljøbevidst!). Peter fortalte Astrid om de forskellige årstider, og hvordan arbejdet i marken ændrede sig alt efter årstiden. Han fortalte om forår, sommer, efterår og vinter. Hver årstid havde sine egne udfordringer og sine egne smukke sider.</p>
+
+<p>Da sommeren nærmede sig sin slutning, og høsten var i fuld gang, viste Peter Astrid, hvordan man pressede halmballer. De kæmpestore baller blev brugt til at fodre køerne og til at gøre stalden hyggelig for heste om vinteren. Astrid og Solskin nød at være med til alt arbejdet, og Astrid lærte så meget!</p>
+
+<p>En dag, da Astrid sad på Solskin, mens Peter var i gang med sit arbejde, fik hun en idé. “Peter,” sagde hun, “kunne jeg ikke hjælpe dig endnu mere? Jeg er jo god til at passe på Solskin. Måske kan jeg lære at passe på afgrøderne også?”</p>
+
+<p>Peter tænkte sig om. “Det er en god idé, Astrid! Du kunne hjælpe med at holde øje med, om der er ukrudt eller skadedyr i marken. Du kan måske hjælpe mig med at passe på afgrøderne og passe på vores land.” Astrid hoppede op og ned af begejstring. Fra den dag af blev Astrid og Solskin landmændenes hjælpere.</p>
+
+<p>Astrid lærte også om vigtigheden af at passe på naturen. Hun hørte om, hvor vigtigt det er at beskytte bierne, fordi de hjælper med at bestøve planterne. Peter fortalte hende om jordens kredsløb og om at genbruge affald. De plantede træer og blomster for at hjælpe med at beskytte miljøet.</p>
+
+<p>Vinteren kom, og marken blev dækket af sne. Astrid og Solskin red stadig ture, men nu var de iklædt varmt tøj. Astrid hjalp også til i stalden og gav Solskin ekstra lækkerier og varme.</p>
+
+<p>Gennem alle disse oplevelser voksede Astrids kærlighed til både Solskin og til verden omkring hende. Hun forstod nu, at alt hænger sammen – dyrene, planterne, traktorerne, menneskerne og hele naturen. Hun indså, hvor vigtigt det er at arbejde hårdt, at lære og at passe på det, vi har.</p>
+
+<p>En dag, da foråret var på vej, og solen skinnede varmt, stod Astrid på marken med Solskin ved siden af sig. Hun kiggede ud over de spirende grønne planter og det smukke landskab. Astrid smilede. Hun var lykkelig. Hun havde sin hjemmebassede hest og hele verden at udforske. Hun vidste, at med Solskin ved sin side og med hjælp fra Peter, ville hun lære endnu mere, og hun ville passe godt på det hele. Og Astrid og Solskin, de red lykkeligt videre ud i verden, klar til nye eventyr, nye venskaber og nye lærdomme, mens de altid husker, hvor vigtigt det er at være venlige, at være flittige og at passe på naturen, for det er det, der giver os mad på bordet og glæde i hjertet.</p>
+</body>
+```

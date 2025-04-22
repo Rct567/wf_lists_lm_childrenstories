@@ -1,0 +1,29 @@
+<prompt>
+Please write a emotional Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kalėdinis stebuklas: kaip išpildyti tris Kalėdų senelio norus.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lt</lang_id>
+
+<title>Kalėdinis stebuklas: kaip išpildyti tris Kalėdų senelio norus.</title>
+<body>
+Mažame, pasakiškajame miestelyje, kur kiekvienas namas buvo puoštas šviesiomis žvakėmis ir kvapnia eglės šakelėmis, gyveno miela mergaitė, vardu Ona. Ona buvo žinoma ne tik savo šypsena, bet ir nesavanaudišku gerumu.  Jos širdis buvo kupina meilės, o akys – pilnos svajonių.
+
+Šiemet Kalėdos Onui atrodė ypatingai liūdnos.  Jos senelis, kuris visuomet buvo jos patikimiausias draugas, buvo labai sergantis.  Jis gulėjo lovoje, silpnas ir tyliai kvėpuodamas.  Ona jautėsi bejėgė, norėjo padėti, bet nežinojo kaip.  Tą vakarą, pakabindama žaislus ant eglutės, ji susapnavo Kalėdų senelį. Jis jai nusišypsojo ir švelniu balsu tarė: „Ona, mano brangioji, tu turi išpildyti tris mano norus, ir tai padės tau sugrąžinti gyvybės žiburėlį tavo seneliui.“
+
+Ona pabudo su širdžiai veriančiu noru išpildyti Kalėdų senelio norus.  Pirmasis noras buvo pasodinti medį senelio kieme.  Ona žinojo, kad senelis myli gamtą, kad jo kieme stovi senas, nudžiūvęs medis, o jis labai ilgisi žalios žalumos.  Su dideliu entuziazmu ir tėvų pagalba, ji išsirinko gražų eglių medelį. Kartu su tėvais Ona iškasė duobę, apkabino medį ir su didžiule meile pasodino jį į žemę.  Senelis, pamatęs naują medelį, vos neapkabino Onos.  Jo akys užsidegė džiaugsmo liepsna.
+
+Antrasis Kalėdų senelio noras buvo atnešti seneliui geriausių dainų.  Ona suvokė, kad senelis myli muziką, tačiau jo sveikata neleidžia jam klausytis koncertų.  Nusprendusi įtikti seneliui, Ona per visą miestą ieškojo muzikantų, kurie galėtų groti atlaidų salėje.  Radusi muzikantų grupę, Ona paprašė jų padėti, papasakojusi apie senelio norą ir meiles muzikai.  Muziekininkai atsakė į jos prašymą, ir nuostabūs garsai sklido per senelio kambarį.  Senelio veide pasirodė neįtikėtina ramybė, jis  ramiai grojo su muzika širdimi ir siela.
+
+Trečiasis Kalėdų senelio noras buvo pats sunkiausias.  Jis norėjo, kad Ona padėtų jam pamatyti žvaigždžių dangų.  Senelis, dėl ligos, negalėjo vaikščioti ir pamatyti ištiesto dangaus.  Ona,  išnaudodama savo kūrybiškumą, išvežė senelį į savo sodą. Ji išsirinko gražiausius žvaigždėto dangaus paveikslėlius ir suderino juos su gražiais medžiais.  Senelio akys užsidegė stebuklo šviesa.  Jis jaučia saulės šviesą, žvaigždžių šilumą, ir ramybę, kuria kalbėjo jo širdis.
+
+Kalėdiniai vakarai pasirodė dar šiltesni, o šeimos širdies pilnos džiaugsmo.  Ona suprato, kad didžiausias stebuklas yra ne dovanos, o meilė ir nesavanaudiškas gerumas. Ji suprato, kad maži žingsniai gali sukurti didelius stebuklus.  Senelio sveikata stipriai pagerėjo, o jo šypsena vėl pasirodė ryški ir šviesi.
+
+Ona, su džiaugsmu ir viltimi širdyje, išpildė Kalėdų senelio norus, ir tai tapo jos didžiausiu Kalėdinio stebuklo įrodymu.  Tuo metu ji suprato, kad dovanodamas gerumą, Ona ne tik išpildo norus, bet ir pati patiria nesuskaičiuojamą džiaugsmą ir laimę.  Kalėdinis stebuklas įvyko, ir Ona ne tik išgydė senelį, bet ir išgydė savo sielą.
+</body>

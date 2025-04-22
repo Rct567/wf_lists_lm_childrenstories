@@ -1,0 +1,59 @@
+<prompt>
+Please write a uncomplicated Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Bolalar bilan bog'liq qiziqarli ertaklar'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>uz</lang_id>
+
+<title>Bolalar bilan bog'liq qiziqarli ertaklar</title>
+<body>Bizning ertaklar dunyomizda ko'plab qiziqarli va ma'nayli ertaklar bor. Ushbu ertaklar orqali bolalar o'zlariga kerakli bo'lgan axloqiy va ma'naviy qadriyatlarni o'rganishlari mumkin. 
+
+Bir paytda, bir kichkina qishloqda yashovchi ikki do'st, Farhod va Jamshid, ertaklar aytishni juda yoqtirardilar. Ular o'zlarining sevimli ertaklari orasida kichkina malika haqidagi ertakni eshitishni juda yoqtirardilar. 
+
+Bir kuni, ular o'zlarining sevimli ertakchilaridan biriga borib, unga o'zlariga kichkina malika haqidagi ertakni aytishni so'radilar. Ertakchi ertakni boshladi: 
+
+"Kichkina malika juda go'zal va aqlli edi. U o'zining sevimli iti, qor malika bilan birga yashardi. Malika va uning iti kichkina qishloqda yashovchi odamlarga juda yordam berardilar. Ular qishloqdagi bolalarga kitob o'qishni o'rgatardilar, qariyalarga yordam berardilar, kasal odamlarga g'amxo'rlik qilardilar. 
+
+Bir kuni, kichkina qishloqda juda katta qurg'oqchilik bo'lib, odamlar suvsiz qolishdi. Malika o'zining iti bilan birga qishloqdagi odamlarga yordam berish uchun chiqdi. Ular qishloqdagi barcha odamlarni yig'di va ular bilan birga suv izlab chiqdilar. 
+
+Ular bir kunda, bir katta daryoga yetib bordilar. Daryo juda katta va chuqur edi. Malika o'zining iti bilan birga daryodan suv olib, qishloqdagi odamlarga olib bordilar. Qishloqdagi odamlar malika va uning itiga juda rahmat aytishdi. 
+
+Shu tariqa, malika va uning iti qishloqdagi odamlarga juda yordam berishdi. Ular qishloqdagi bolalarga kitob o'qishni o'rgatishda davom etdilar, qariyalarga yordam berishda davom etdilar, kasal odamlarga g'amxo'rlik qilishda davom etdilar. 
+
+Malika va uning iti qishloqdagi odamlarning sevimlisli bo'lib qolishdi. Ular o'zlarining yaxshi ishlari bilan qishloqdagi odamlarning qalblarida abadiy qolishdi." 
+
+Ertakchining ertakni aytishi tugagach, Farhod va Jamshid unga juda rahmat aytishdi. Ular o'zlarining sevimli ertakchilariga yana bir ertak aytishni so'radilar. Ertakchi yana bir ertakni boshladi: 
+
+"Bir paytda, bir katta shaharda yashovchi bir kichkina o'g'il, Rustam, ertaklar aytishni juda yoqtirardi. U o'zining sevimli ertaklari orasida kichkina ajdaho haqidagi ertakni eshitishni juda yoqtirardi. 
+
+Bir kuni, Rustam o'zining sevimli ertakchilaridan biriga borib, unga o'ziga kichkina ajdaho haqidagi ertakni aytishni so'radi. Ertakchi ertakni boshladi: 
+
+"Kichkina ajdaho juda katta va kuchli edi. U o'zining sevimli uchi, oq ajdaho bilan birga yashardi. Ajdaho va uning uchi katta shahardagi odamlarga juda yordam berardilar. Ular shahardagi bolalarga kitob o'qishni o'rgatardilar, qariyalarga yordam berardilar, kasal odamlarga g'amxo'rlik qilardilar. 
+
+Bir kuni, katta shaharda juda katta zilzila bo'lib, odamlar uy-joyidan mahrum bo'lishdi. Ajdaho o'zining uchi bilan birga shahardagi odamlarga yordam berish uchun chiqdi. Ular shahardagi barcha odamlarni yig'di va ular bilan birga yangi uy-joy qurishdi. 
+
+Ular bir kunda, bir katta maydonga yetib bordilar. Maydon juda katta va keng edi. Ajdaho o'zining uchi bilan birga maydonda yangi uy-joy qurishdi. Shahardagi odamlar ajdahoga juda rahmat aytishdi. 
+
+Shu tariqa, ajdaho va uning uchi shahardagi odamlarga juda yordam berishdi. Ular shahardagi bolalarga kitob o'qishni o'rgatishda davom etdilar, qariyalarga yordam berishda davom etdilar, kasal odamlarga g'amxo'rlik qilishda davom etdilar. 
+
+Ajdaho va uning uchi shahardagi odamlarning sevimlisli bo'lib qolishdi. Ular o'zlarining yaxshi ishlari bilan shahardagi odamlarning qalblarida abadiy qolishdi." 
+
+Ertakchining ertakni aytishi tugagach, Farhod va Jamshid unga juda rahmat aytishdi. Ular o'zlarining sevimli ertakchilariga yana bir ertak aytishni so'radilar. Ertakchi yana bir ertakni boshladi: 
+
+"Bir paytda, bir kichkina qishloqda yashovchi bir kichkina qiz, Vasilat, ertaklar aytishni juda yoqtirardi. U o'zining sevimli ertaklari orasida kichkina malika haqidagi ertakni eshitishni juda yoqtirardi. 
+
+Bir kuni, Vasilat o'zining sevimli ertakchilaridan biriga borib, unga o'ziga kichkina malika haqidagi ertakni aytishni so'radi. Ertakchi ertakni boshladi: 
+
+"Kichkina malika juda go'zal va aqlli edi. U o'zining sevimli iti, qor malika bilan birga yashardi. Malika va uning iti kichkina qishloqda yashovchi odamlarga juda yordam berardilar. Ular qishloqdagi bolalarga kitob o'qishni o'rgatardilar, qariyalarga yordam berardilar, kasal odamlarga g'amxo'rlik qilardilar. 
+
+Bir kuni, kichkina qishloqda juda katta qurg'oqchilik bo'lib, odamlar suvsiz qolishdi. Malika o'zining iti bilan birga qishloqdagi odamlarga yordam berish uchun chiqdi. Ular qishloqdagi barcha odamlarni yig'di va ular bilan birga suv izlab chiqdilar. 
+
+Ular bir kunda, bir katta daryoga yetib bordilar. Daryo juda katta va chuqur edi. Malika o'zining iti bilan birga daryodan suv olib, qishloqdagi odamlarga olib bordilar. Qishloqdagi odamlar malika va uning itiga juda rahmat aytishdi. 
+
+Shu tariqa, malika va uning iti qishloqdagi odamlarga juda yordam berishdi. Ular qishloqdagi bolalarga kitob o'qishni o'rgatishda davom etdilar, qariyalarga yordam ber

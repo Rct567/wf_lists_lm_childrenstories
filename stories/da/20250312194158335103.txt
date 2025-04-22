@@ -1,0 +1,38 @@
+<prompt>
+Please write a silly Danish children's story that is at least 1000 words long.
+It must be completely written in proper Danish (DA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Katten, der sang om stjernerne og kloge heste'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>da</lang_id>
+
+<title>Katten, der sang om stjernerne og kloge heste</title>
+<body>
+Lille, grønne Pippin var en kat, der ikke var som de andre. De andre katte i den lille landsby, Gammelgård, jagede mus og sov i sola.  Pippin, derimod, sang om stjernerne.  Hans stemme var ikke en skøn, blød purr, men en skramlen af små, glitrende, himmelske toner.  Han sang om stjerneklare nætter, om stjernestøv på vinduer, og om hvordan de små stjerner snakkede med hinanden.
+
+En dag, mens Pippin var i fuld gang med at synge for den store, gamle ege, der stod som vagt ved den lille landsbybæk, hørte han en urolig brummen. Det var ikke en almindelig hest.  Det var et sort hestevæsen, der bar en stor, bronzefarvet bjælke på ryggen. Det lignede en kolossal, træt myre.  Hesten, som hed Hektor, var fanget på en græsmark og kæmpede vildt med den enorme bjælke, der syntes uforligelig tung at bære.  Pippin sprang ned fra træet og snusede sig forsigtigt frem.  
+
+"Hvad sker der?" spurgte Pippin, i en stemme der skranglede som et gammelt, glitrende skatteglas.
+
+Hektor brummede op til himlen, som en stor, sort, støjende klokke.  "Denne bjælke," sagde han på et stumt brumme-sprog, "den skal til den høje fjeldsknude, for at lave en bro til de fantastiske kornmarker! Jeg må bare ikke... blive fanget af mørke skyer... jeg kan høre den skrækkelige stormsmusik."
+
+Pippin, der altid søgte nye eventyr, lod sig ikke skræmme af Hektor's skrækkelige brummen. "Jeg kan hjælpe dig!" udbryder Pippin.
+
+"Du, en lille kat?" Hektor brumme med mistillid. "Kan du overhovedet bære noget vægt overhovedet? Du er vel et støjende spændstigt lys i verden."
+
+"Jeg er ikke bare en lille kat, jeg er en musikalsk kat," sagde Pippin med en snigende glimt i øjnene. "Og jeg har styr på rytmer, både de muntre og de søde. Jeg vil være dit lyse hjerte under din mørke himmel". Pippin kastede et smukt blik op på stjernerne, og for at overbevise Hektor begyndte Pippin at synge.  Han sang om mod og håb, om kraft og om kærligheden til musik og til stjerner. Hans små, glitrende toner virkede som en usynlig kærlig musikalsk kraft, der lettede bjælken på Hektors ryg. Hektor, stædig som en stor murstensvæg, reagerede usædvanligt på den ustyrlige musikalske bølge. Hektor brummede i harmoni med sangen.
+
+Gradvist bevægede Hektor sig hen imod den høje fjeldsknude. Pippin synge, om solen, om storme og om natten, samtidig med han gav Hektor rytme og takt i sine små synger. Pippin mærkede Hektors taknemmelighed, ved hans syngende skridt, når bjælken blev lettet fra hans trættelse.  Det tog et stykke tid, men med Pippins smukt fortryllende, glitrende musikalske energi, lykkedes det Hektor at føre bjælken til toppen af fjeldet.
+
+På toppen af fjeldet, opdagede Hektor, at bjælken var en magisk bro, og da den endelig blev sat på plads, voksede de sprudlende kornmarker til himlen. De sprudlende, fine grønne og gulne kornmarker udspredte et smukt udsigt til den omliggende skov. Alle skovfolk kunne i dag beundre kornet.
+
+Efter de lyse toner ebbede ud i en smuk stille klang. Bekendte sig Hektor til Pippin.  "Tak for din musikalske vejledning. Foruden alt, var det mest fantastiske... det var... den smukt fortryllende, glitrende musik", brummede Hektor i begejstring.  Pippin spragled, med en skramlen i hans hals, i en mærkbar glæde, over Hektor’s anerkenden.
+
+
+Pippin fortsatte med at synge, både for de kloge heste og for stjernerne.  Og alle i Gammelgård var glade for at have en kat, der ikke bare var en kat, men en fantastisk musikalsk og fortryllende skat! Fra da af var Pippin den smukt berømte, fortryllende sangkat. Han skabte den sjælen af en musikalsk sang for katte, i alle de farverige og fantastiske land.
+</body>

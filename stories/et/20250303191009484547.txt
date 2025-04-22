@@ -1,0 +1,41 @@
+<prompt>
+Please write a timeless Estonian children's story that is at least 1000 words long.
+It must be completely written in proper Estonian (ET).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Mina, Mu Koer Ja Suured Seiklused Metsas'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>et</lang_id>
+
+<title>Mina, Mu Koer Ja Suured Seiklused Metsas</title>
+<body>Minu nimi on Mari, ja mul on üks ilus koer, kelle nimi on Mustikas. Me elame väikses külas, mis asub sügava metsa servas. Mets on meile nagu teine kodu, sest me käime seal sageli jalutamas ja avastamas uusi kohti.
+
+Ühel päeval, kui ilm oli eriti ilus, otsustasime Mustikaga minna metsa suurele seiklusele. Me võtsime kaasa korvi, kuhu me panime vett, leiba ja muid toite, et oleksime valmis kõigeks, mis ees ootab. Mustikas oli väga üllatunud, kui ta nägi, et me võtame korvi kaasa, aga ta ei teadnud, et see on vajalik, et me saaksime päeva läbi elada.
+
+Kui me jõudsime metsa, siis nägime, et seal on palju eri tüüpi taimi ja elukaid. Me nägime lindu, kes laulsid ilusalt, ja me nägime ka putukaid, kes lendasid ümber meie pead. Mustikas üritas neid putukaid jälitada, aga need olid liiga kiired tema jaoks.
+
+Me käisime edasi, ja pärast mõnda aega jõudsime järve kaldale. Järv oli väga ilus, ja me nägime seal palju kalu, kes ujusid vees. Mustikas tahtis neid kalu jälitada, aga ma keelasin tal, sest ma teadsin, et see on ohtlik. Me otsustasime istuda järve kaldale ja vaadata, kuidas kalad ujuvad.
+
+Pärast mõnda aega otsustasime me edasi minna. Me läksime mööda järve kallast, ja pärast mõnda aega jõudsime kohta, kus oli väga ilus vaade. Me nägime seal palju eri tüüpi taimi ja elukaid, ja me nägime ka kõrgeid mägesid, mis olid kaugel eemal. Mustikas ja mina istusime seal mõnda aega, ja me vaatasime, kuidas ilm muutub.
+
+Kui päev hakkas lõppema, otsustasime me tagasi minna. Me võtsime korvi ja läksime mööda järve kallast tagasi. Mustikas oli väga väsinud, aga ma olid rahul, sest ma teadsin, et me olime koos ja me olime turvalised.
+
+Kui me jõudsime koju, siis ootis meid ema, kes oli valmis meile sünnipäevakooki. Mustikas ja mina olime väga üllatunud, sest me ei teadnud, et see on sünnipäev. Me istusime laua taha, ja me sõime kooki, ja me joime teed. Mustikas sai ka erilise kooki, mis oli temale mõeldud.
+
+Pärast sünnipäevakooki otsustasime me minna magama. Mustikas läks oma kohta, ja mina läksin oma voodisse. Me olime väga rahul, sest me olime koos ja me olime turvalised. Me teadsime, et meil on üks teine, ja see oli kõige tähtsam.
+
+Järgmisel päeval otsustasime me minna uuele seiklusele. Me läksime mööda metsa, ja me otsisime uusi kohti, kus me saaksime avastada. Me leidsime ühe ilusa lähe, kus me saaksime joogida, ja me leidsime ka ühe ilusa põõsa, kus me saaksime istuda. Mustikas ja mina istusime seal mõnda aega, ja me vaatasime, kuidas ilm muutub.
+
+Pärast mõnda aega otsustasime me edasi minna. Me läksime mööda metsa, ja me otsisime uusi kohti, kus me saaksime avastada. Me leidsime ühe ilusa jõe, kus me saaksime ujuda, ja me leidsime ka ühe ilusa männi, kus me saaksime varju leida. Mustikas ja mina ujusime jões, ja me leidsime varju männi all. Me olime väga rahul, sest me olime koos ja me olime turvalised.
+
+Pärast mõnda aega otsustasime me tagasi minna. Me võtsime korvi, ja me läksime mööda metsa tagasi. Mustikas oli väga väsinud, aga ma olid rahul, sest ma teadsin, et me olime koos ja me olime turvalised. Me teadsime, et meil on üks teine, ja see oli kõige tähtsam.
+
+Kui me jõudsime koju, siis ootis meid ema, kes oli valmis meile õhtusööki. Mustikas ja mina olime väga üllatunud, sest me ei teadnud, et see on õhtusöök. Me istusime laua taha, ja me sõime õhtusööki, ja me joime teed. Mustikas sai ka erilise õhtusöögi, mis oli temale mõeldud.
+
+Pärast õhtusööki otsustasime me minna magama. Mustikas läks oma kohta, ja mina läksin oma voodisse. Me olime väga rahul, sest me olime koos ja me olime turvalised. Me teadsime, et meil on üks teine, ja see oli kõige tähtsam.
+
+Nii elasime me Mustikaga koos, ja me olime väga rahul. Me teadsime, et meil on üks teine, ja see oli kõige tähtsam. Me käisime sageli metsas, ja me avastasime uusi kohti. Me olime koos, ja me olime turvalised. Ja see oli kõige tähtsam.</body>

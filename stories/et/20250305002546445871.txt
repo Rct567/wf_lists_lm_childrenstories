@@ -1,0 +1,52 @@
+<prompt>
+Please write a simple and easy-to-follow Estonian children's story that is at least 1000 words long.
+It must be completely written in proper Estonian (ET).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kuidas Eedi koerast sai superkangelane'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>et</lang_id>
+
+<title>Kuidas Eedi koerast sai superkangelane</title>
+<body>
+Eedi elas väikeses, värvikirevas külakeses, mis asus roheliste mägede ja särava jõe vahel. Eedi oli tavaline tüdruk, kellel oli üks asi tavalisest erinev – tema lojaalne ja väga armas, aga pisut laisk koer, nimega Kukk.
+
+Kukk ei olnud kõige kiirem koer ja tema napsamine oli vahel üsna segadusttekitav. Ta armastas pikki uinakuid ja päikesepaistelist murul lamamist ning seetõttu oli temaga jalutuskäik sageli pigem võistlus kui nauditav ettevõtmine.  Eedi aga armastas oma Kuki kõigest südamest ja oli valmis teda alati armastusväärsete silmadega heidutama.
+
+Ühel päikesepaistelisel suvepäeval käis Eedi koos Kuki ja teiste lastega küla kõrval asuvasse salapärasesse metsa. Seal oli suur ja hirmutav puu, mida kutsuti Kuninga Puuks.  Legend rääkis, et Kuninga Puu peidab endas salapäraseid taimi ja varju, mis annavad jõudu ja osavust.
+
+"Vaatame Kuninga Puu juurde!" karjus Eedi teiste lastega. Kukk, nii nagu alati, kiirustas tagant, tema pikad karvad paisates ettepoole ja tekitades veelgi rohkem jama.
+
+Mets oli täis salapäraseid helisid.  Liised vitisid läbi tiheda rohu, ja metslinnud laulsid oma võluvaid laule. Kukk haukus entusiastlikult, nii et ümbruskond kajastas tema meeleolulist haukumist. Eedi läks Kuninga Puu juurde, tundes kogu selle iidse saladuse atmosfääri oma nahal.
+
+"Mul on hea tunne," ütles Eedi vaikselt.  Nad hakkasid ringi vaatama ja leidis ebatavalise välimusega õitseva lilled.  Nad olid sinised ja valged, õrn-värvilise rohelise värvi kõrval. Keskel oli sädelev valge süda. Eedi nägi kuidas valge värvi sädeleb päikese käes ja tajus sellest erilist jõudu.
+
+"Kas sa näed neid lilli?" küsis Eedi Kuki käest. Kukk, näib olevat järsku muutunud.  Tema laisk naeratus muutus erguvaks tähelepanu pööramise väljendiks.
+
+"Aha!" haukus Kukk, ja viskas käppa ettevaatavalt valgete õitsemise peale.
+
+Kohe järsku, Kuninga Puu okstelt kõlas kummaline müts. Oli kuulda lähenevad samme ja jõudsalt kõnelda, "Kes siin on?!"
+
+Lähenemas oli Kuninga Puu ise, suure tohutu kätega, peenikese ja pika karvaga, õhetades kergelt teineteisele.  Ta oli hiiglaslikult suur, pikk ja koheva juustega ning väga hiilgavate silmadega.
+
+"Meile ütles legende, et see lillede varjend on jõu ja osavuse allikas"  ütles Eedi vaikselt.
+
+Kuninga Puu vilkus ja läks naerdes lilli vaatama.  Seejärel astus lähemale õrnadele lehtedele. Ja just seal puu küljes kõlas õrn laul, millel oli imeline hääl. Puu oli oma jõu ja võimeid anda nendele lilledele ja teistele, mis edasi teistele lehedte annaksid. Ta ütles et Eedi ja tema koer on juba seda jõudu leidnud ja teisedki inimesed võivad teisel pool ka neid tuju leida ja anda, selleks pidi neil olema avatud silm ja süda.
+
+Kukk tundis ootamatut energiat.  Tema lihased koordineerusid, tal oli uskumatu pehmus ja vältamisvõime.  Eedi oli kõige rohkem üllatunud.
+
+Kukk oli ülikiire ja tohutu kerge. Ta hüppas ja põrus iga puu vastu.  Järsku suudab ta hüpata nii kõrgele, et Eedi oli lihtsalt imestunud. Kuninga Puu hammustas Kuku kõrval jalga ja nad mõlemad hüppasid järgmises puu otsa. Nad suutsid õhku jääda nii pikaks ajaks kui ise soovisid.
+
+
+"Vaadake, Kukk saab lendama!" hüüdis Eedi teiste laste ja külaelanikele rõõmsalt. Kõik oli jahmunud, kui nägid kuidas Eedi koer läbib puu õla läbi ja tahtlikult tõmbas ta ennast veelgi ettepoole ja tekitades ülisuure lendamisliikumise. Kõik olid üllatunud Kuki uutest võimetest ja nad tundsid kiirust ja osavust.
+
+Kuninga Puu kinnitas et Kukk oli saanud jõudu salapärastest lilletest ja on nüüd superkangelane, nimega "Lendav Kukk". Kõik külaelanikud kummardasid tema peale.
+
+Eedi ja Kukk elatud õnnelikult ülejäänud elu superkangelasena. Nad seiklesid läbi metsa, päästnud inimesi ohust ja aidates kõigil. Nad olid tõesed superkangelased ja kogu küla kiitnud ja imetlevad Kuku suurust. Küla inimesed arvasid, et see oli tore sündmus ja see oli õnnistus nende ja küla heade laste jaoks.
+
+Alates sellest päevast oli küla muutunud eriliseks. Inimesed tundsid end kindlana, tundes, et ükskõik, mis hädaohtu oleks, lendav Kukk on alati seal, et nad aitaksid neid raskustega ja võitlusega.  Ja Eedi, et tema koer on midagi suuremat kui lihtsalt koer. Tema on tema usaldusväärne ja suurepärane superkangelane.
+</body>

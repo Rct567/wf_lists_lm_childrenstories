@@ -1,0 +1,77 @@
+<prompt>
+Please write a dialog-based Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Oyning yulduzlar bilan suhbatlari'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>uz</lang_id>
+
+```uz
+<title>Oyning yulduzlar bilan suhbatlari</title>
+<body>
+— Assalomu alaykum, yulduzlar! – dedi Oy, osmonda nur sochib.
+
+— Va alaykum assalom, Oy opa! – javob berdi yulduzlarning eng yorqinrog'i, uchqunlab. – Xush kelibsiz! Bugun nima xabarlar bilan keldingiz?
+
+— Xabarlar ko'p, – dedi Oy, ovozida hayrat bilan. – Ammo eng qiziqarli xabar – yer aholisi bilan bog'liq. Bilasizlar-a, ularning hayoti bizdan qanchalik farq qiladi?
+
+— Ha, biz ularni kuzatib turamiz, – dedi boshqa bir yulduz, jimirlab. – Ular kichkina olamda yashaydilar. O'yinchoqlari bor, oilalari bor.
+
+— To'g'ri, – dedi Oy, bir oz xafa bo'lib. – Ammo ular juda ham shirin. Hozir yozgi ta'til, bolalar o'rmonda sayr qilyapti, o'yinlar o'ynayapti, daryoda suzishyapti...
+
+— Va o'qiyapti, kitob o'qiyapti, – dedi yana bir yulduz, mehribonlik bilan. – Ularning bilim olishga ishtiyoqi juda baland.
+
+— Bilaman, bilaman, – dedi Oy, boshini qimirlatib. – Ularning qiziqishlari cheksiz. Kecha biri osmonda yulduzlarni topishga harakat qildi. U menga qarab, yulduzlar haqida hikoya o'qidi. Uning nomi Dilnoza ekan.
+
+— Dilnoza? – hayron bo'ldi yulduzlar. – Qanday qiziqarli ism!
+
+— Ha, – dedi Oy. – Dilnoza juda aqlli qiz. U ota-onasi bilan daryo bo'yida dam olyapti. U yerda she'rlar aytib, gullar terib, rasmlar chizayotgan ekan.
+
+— Biz ularning rasmlarini ko'rishni istardik! – dedi yulduz.
+
+— Men ham! – dedi Oy. – Kecha men uning o'qigan kitoblarini kuzatib turdim. Ularning kitoblari qanday go'zal... Rasmlar bilan to'la. Ular hayotni ranglar bilan ifodalashga harakat qilishadi.
+
+— Balki, bizga ham rang berar, – dedi boshqa bir yulduz, achchiqlanib. – Biz ham qiziqarliroq ko'rinishimiz kerak.
+
+— Siz juda chiroyli, – dedi Oy, ularni tinchlantirishga harakat qilib. – Sizning har biri o'ziga xos. Har biringiz nur bilan to'lasiz. Vaqt o'tguncha, siz ranglarni ham qabul qilishingiz mumkin. Bilasizlar-ku, hayot doim o'zgarib turadi.
+
+— Balki siz haqsiz, Oy opa, – dedi eng yorqin yulduz. – Lekin bu yerda hamma narsa sovuq va sokin. Faqat nurlar, xolos. Biz his qilishni xohlaymiz.
+
+— His qilish... – takrorladi Oy. – Bu juda murakkab masala. Lekin sizning ham his tuyg'ularingiz bor. Siz menga qarab sevinasizlar, men sizga qarab quvonaman. Biz bir-birimizga doim g'amxo'rlik qilamiz.
+
+— Biz sizni yaxshi ko'ramiz, Oy opa! – dedi barcha yulduzlar bir ovozdan.
+
+— Men ham sizlarni yaxshi ko'raman, aziz yulduzlar! – dedi Oy, mehr bilan. – Sizlar osmonning bezagisiz. Sizlar zulmatda yorug'lik uchqunidir.
+
+— Ammo yerda quyosh bor, – dedi kichkina bir yulduz, xafa bo'lib. – U bizdan ko'ra yorqinroq.
+
+— Quyosh – kunduzning hukmdori, – dedi Oy. – Siz esa tunning malikalari. Har kimning o'z o'rni bor. Ular birgalikda butun olamni yaratishadi. Quyoshning nuri bilan sizning nur paydo bo'ladi.
+
+— Hamma narsa shu qadar murakkab... – dedi yana bir yulduz.
+
+— Olam juda murakkab, – dedi Oy. – Ammo juda ham go'zal. Har bir narsa o'z joyida vaqti-soati bilan. Endi men ketishim kerak. Menga yerdagi odamlar bilan gaplashish kerak.
+
+— Xayr, Oy opa! – dedi yulduzlar. – Bizni unutib qo'ymang!
+
+— Sizlar hech qachon esimdan chiqmaydi, – dedi Oy. – Sizlar osmondagi do'stlarimsiz.
+
+Oy asta-sekin ufqqa tusha boshladi. Yulduzlar esa jimirlab, bir-birlariga gapirishni boshlashdi.
+
+— Dilnozani eshitinglar! – dedi eng yorqin yulduz. – U qanday qiziq qiz!
+
+— Ha, uni kelgusi kecha yana ko'rishimiz kerak, – dedi yana bir yulduz.
+
+— Balki biz unga nurimizni yo'llarimiz, – dedi kichkina yulduz.
+
+— Yo'q, nur berishga ruxsat yo'q, – dedi eng yorqin yulduz. – Biz shunchaki uni kuzatib turamiz va uni baxtli bo'lishini kuzatamiz. Uning hayotini ko'ramiz, qiziqishini qo'llab quvvatlaymiz.
+
+Ular shunday suhbatlashdilar. Yulduzlar kechani o'z go'zalligi bilan to'ldirdi. Oy esa Dilnozaning hayotini kuzatish uchun pastga tushdi. U Dilnozaning qanchalik sevinchli ekanligini, kitob o'qiyotganini, ota-onasi bilan quvonayotganini ko'rdi. U yulduzlar bilan bo'lgan suhbatni esladi va Dilnozaga nurini uzatdi. Oylik nurlari Dilnozaning kitobiga tushdi, uni yana ham yorqin qildi. Dilnoza kitob o'qishni davom etdi va Oyning hikoyalarini o'qidi.
+
+Oy uzoq vaqt Dilnozaning uyiga qaradi va yulduzlarga qaytib ketdi. Ular unga Dilnozaning hikoyalarini aytib berdi. Barcha yulduzlar xursand bo'lishdi. Va tun davom etdi, yulduzlar jimirladi, Oy nur sochdi va bolalar shirin tushlar ko'rdilar. Va keyin quyosh chiqdi, kunduz keldi va hamma yana yangi kun boshlashdi.
+</body>
+```

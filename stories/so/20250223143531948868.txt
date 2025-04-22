@@ -1,0 +1,45 @@
+<prompt>
+Please write a light-hearted Somali children's story that is at least 1000 words long.
+It must be completely written in proper Somali (SO).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Heesaha Qosolka Badnaa ee Caruurta oo ka Hadiyay Deegaankooda.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>so</lang_id>
+
+<title>Heesaha Qosolka Badnaa ee Caruurta oo ka Hadiyay Deegaankooda.</title>
+<body>
+Waxaa jiray tuulo yar oo ku taal xeebaha quruxda badan ee Soomaaliya.  Tuulada waxaa ku noolaa caruur badan oo farxad badan, kuwaas oo jeclaa inay ciyaaraan oo ay heesaan.  Maalin maalmaha ka mid ah, waxaa dhacday shir.  Caruurtu waxay isugu yimaadeen meel furan oo qurux badan, oo ay ku yaaleen geedyo badan oo laamo cagaaran leh.
+
+Caruurta waxay ahaayeen kuwo aad u faraxsan, iyagoo wataan qalabka ciyaarta, iyagoo qosolku ka soo buuxayo afkoodii.  Waxaa jiray Cabdi, oo ahaa wiil yar oo leh qosol aad u qurux badan, iyo Xaliima, gabar yar oo leh heeso aad u macaan.  Waxay la socdeen qaar badan oo kale oo caruur ah, oo iyaguna ka buuxsanaya tamar iyo farxad.
+
+"Waanu dhigeynaa hees cusub!" ayuu yiri Cabdi isagoo qosol aad u weyn oo xamaasad leh.
+
+"Hees qosol leh oo caruurtu ay aad u jeclaan doonaan," ayey tiri Xaliima iyadoo ku soo dhawaatay.
+
+Caruurta oo dhami waxay madaxooda u taageen dhinaca Cabdi iyo Xaliima, isagoo si weyn uga faraxsanaa fikirkooda cusub.
+
+"Sidee ayuu heesaha u noqonayaa?" ayay weydiisay gabar yar oo la yiraahdo Samira oo leh indhaha u soo buuxay  heer iyo farxad.
+
+"Waxaanu ku bilaabeynaa qosol," ayuu yiri Cabdi, "Qosol aad u badan, qosol ka buuxsanaya wadnaha."
+
+"Kadibna waxaanu ku daraynaa heeso ku saabsan ciyaarta, kuwii ay caruurtu jecel yihiin," ayey tiri Xaliima.
+
+Waxay bilaabeen inay heesaan, codadkooda aad u macaan oo ka soo buuxaya geedaha iyo daaqadaha.  Waxay ku heesayeen ku saabsan xayawaanka ay jecelyihiin, kuwii ay la ciyaaraan, iyo kuwii ay arkayeen tuulada.  Waxay ku heesayeen ku saabsan qorraxda, iyo quruxda cirka, iyo ku saabsan badda iyo geedaha. Waxay ku heesayeen ku saabsan waddooyinka iyo quruxda tuulada.  Waxay ku heesayeen ku saabsan mucjisooyinka uu abuuray Ilaahay.
+
+Cabdi iyo Xaliima waxay ku heesayeen waxyaabo badan oo ay arkeen. Waxay ku heesayeen ku saabsan xoolaha aadka u quruxda badan ee tuulada, iyo kuwii ay arkeen beeraha. Waxay ku heesayeen ku saabsan miraha iyo khudradda ay jecelyihiin.  Waxay ku heesayeen ku saabsan saaxiibada ay la ciyaaraan.
+
+Heesahan waxay ka buuxeen qosol iyo farxad.  Waxay ahayd hees qurux badan oo ka buuxday sheeko iyo halyaal.
+
+Sidii heesaha ay sii soconayeen, caruurtu waxay bilaabeen inay wada qoslaan, iyagoo dhaqdhaqaaqaya oo ku raaxeystay dhawaqa codkooda.  Qosolka iyo heesaha waxay soo jiideen dadka kale oo ku hareeraysan, iyagoo si dhaqso leh u soo wada noqday.  Dadkuna waxay bilaabeen inay soo laabtaan si ay u maqlaan heeso quruxda badan ee caruurtu ay sameynayaan.
+
+Waxa ay lahaayeen sawiro qosol badan oo ku saabsan heesaha, oo ay ku sawireen dhulka iyo dhagaxyada, waxaana lahaa sawiro loogu talagalay inay caruurtu ku sawirto, iyagoo raaxeynaya heeso macaan.  Qaar baa heesaa, qaar baa ku qoslayaa, qaar baa ku raaxeynaya dhaqdhaqaaqa.
+
+Inta ay heesaha sii soconayeen, waxa ay isu keenay caruurta si ay u wada ciyaaraan oo ay u wada raaxeystaan heeso iyo qosol.  Waxa ay ku soo dhawaayeen wadnahooda oo dhan, iyagoo wada raaxeystay heesahan.  Xataa dadka waaweyni waxa ay ku soo laabteen si ay u maqlaan heeso quruxda badan.
+
+Markii ay heesaha dhammaysteen, qosolka waxa uu ka buuxay tuulada oo dhan.  Waxa ay ahayd maalin aad u qurux badan, oo ka buuxday farxad iyo raaxo.  Waxa ay dhamaantood ku heshiiyeen in heesahaasi ay noqdaan heeso ku laalaada qalbiyada caruurta ee tuulada.
+</body>

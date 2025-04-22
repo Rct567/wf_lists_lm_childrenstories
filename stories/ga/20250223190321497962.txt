@@ -1,0 +1,44 @@
+<prompt>
+Please write a funny Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Rith na Spéire sa Tír na nÓg'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>ga</lang_id>
+
+<title>Rith na Spéire sa Tír na nÓg</title>
+<body>
+Bhí láสมhar ann i nTír na nÓg, agus bhí an ghaoth ag séideadh go láidir. Bhí na scamaill ag teannadh ar an spéir, agus bhí an ghrian ag déanamh a dícheall chun solas a chur ar an tír. Bhí daoine óg ag siúl timpeall, ag déanamh a gcuid imeartha, agus ag bualadh le chéile.
+
+I measc na ndaoine óg, bhí buachaill óg darbh ainm Cian. Bhí Cian ina bhuachaill maorga, le gruaig fhada dhearg agus súile glasa. Bhí sé ina chaoineadh go maith, agus bhí sé ina bhfuinneogach go leor. Bhí Cian ag déanamh a chuid imeartha le a chairde, agus bhí sé ag bualadh le haoibhneas.
+
+Ach ansin, tharla rud éigin a bhí ná raibh Cian ag súil leis. Tháinig sceach ó neamh, agus thit sé ar an talamh. Bhí an sceach ina dhath órga, agus bhí sé ina chroch seoil. Chuaigh Cian a dhó, agus bhí sé ag breathnú ar an sceach. Bhí sé ag smaoineamh conas a d'fhéadfaí an sceach a usaid.
+
+Agus é ag smaoineamh, tháinig duine eile chuige. Bhí an duine ina fhear óg, le gruaig chorr agus súile gorma. Bhí sé ina chaoineadh go maith, agus bhí sé ina bhfuinneogach go leor. "Cé tusa?" arsa Cian. "Is mise Finn," arsa an fear óg. "Táim ag teacht ó thar lear. Chuala mé faoin sceach seo, agus tháinig mé chun é a fheiscint."
+
+Bhí Cian ag smaoineamh faoin sceach, agus bhí sé ag déanamh a chuid pleananna. "Táim ag smaoineamh ar rith a dhéanamh sa spéir," arsa sé le Finn. "Táim ag iarraidh an sceach a usaid chun rith a dhéanamh. An bhfuil tú ag iarraidh teacht liom?" Arsa Finn, "Táim réidh. Táim ag iarraidh an sceach a fheiscint, agus táim ag iarraidh rith a dhéanamh sa spéir."
+
+Chuaigh Cian agus Finn a dhó, agus thóg siad an sceach. Bhí siad ag siúl timpeall, ag déanamh a gcuid pleananna. Bhí siad ag smaoineamh conas an sceach a usaid, agus conas rith a dhéanamh sa spéir. Bhí siad ag déanamh a gcuid imeartha, agus bhí siad ag bualadh le chéile.
+
+Ach ansin, tharla rud éigin eile a bhí ná raibh Cian ag súil leis. Tháinig duine eile chuige, agus bhí sé ina mhaighdean óg. Bhí sí ina mhaighdean álainn, le gruaig fhada buí agus súile glasa. Bhí sí ina chaoineadh go maith, agus bhí sí ina bhfuinneogach go leor. "Cé tusa?" arsa Cian. "Is mise Niamh," arsa an mhaighdean óg. "Táim ag teacht ó thar lear. Chuala mé faoin sceach seo, agus tháinig mé chun é a fheiscint."
+
+Bhí Cian ag smaoineamh faoin sceach, agus bhí sé ag déanamh a chuid pleananna. "Táim ag smaoineamh ar rith a dhéanamh sa spéir," arsa sé le Niamh. "Táim ag iarraidh an sceach a usaid chun rith a dhéanamh. An bhfuil tú ag iarraidh teacht liom?" Arsa Niamh, "Táim réidh. Táim ag iarraidh an sceach a fheiscint, agus táim ag iarraidh rith a dhéanamh sa spéir."
+
+Chuaigh Cian, Finn, agus Niamh a dhó, agus thóg siad an sceach. Bhí siad ag siúl timpeall, ag déanamh a gcuid pleananna. Bhí siad ag smaoineamh conas an sceach a usaid, agus conas rith a dhéanamh sa spéir. Bhí siad ag déanamh a gcuid imeartha, agus bhí siad ag bualadh le chéile.
+
+Ach ansin, tharla rud éigin eile a bhí ná raibh Cian ag súil leis. Tháinig duine eile chuige, agus bhí sé ina fhear sean. Bhí sé ina fhear caol, le gruaig chorr agus súile gorma. Bhí sé ina chaoineadh go maith, agus bhí sé ina bhfuinneogach go leor. "Cé tusa?" arsa Cian. "Is mise Cormac," arsa an fear sean. "Táim ag teacht ó thar lear. Chuala mé faoin sceach seo, agus tháinig mé chun é a fheiscint."
+
+Bhí Cian ag smaoineamh faoin sceach, agus bhí sé ag déanamh a chuid pleananna. "Táim ag smaoineamh ar rith a dhéanamh sa spéir," arsa sé le Cormac. "Táim ag iarraidh an sceach a usaid chun rith a dhéanamh. An bhfuil tú ag iarraidh teacht liom?" Arsa Cormac, "Táim réidh. Táim ag iarraidh an sceach a fheiscint, agus táim ag iarraidh rith a dhéanamh sa spéir."
+
+Chuaigh Cian, Finn, Niamh, agus Cormac a dhó, agus thóg siad an sceach. Bhí siad ag siúl timpeall, ag déanamh a gcuid pleananna. Bhí siad ag smaoineamh conas an sceach a usaid, agus conas rith a dhéanamh sa spéir. Bhí siad ag déanamh a gcuid imeartha, agus bhí siad ag bualadh le chéile.
+
+Agus é ag déanamh a chuid pleananna, tháinig Cian ar smaoineamh. "Caithfimid an sceach a chur ar an talamh," arsa sé. "Caithfimid é a chur ina sheasamh, agus caithfimid é a úsáid chun rith a dhéanamh sa spéir." Bhí Finn, Niamh, agus Cormac ag déanamh a gcuid pleananna, agus bhí siad ag smaoineamh conas an sceach a usaid.
+
+Chuaigh siad a dhó, agus chuir siad an sceach ar an talamh. Chuir siad é ina sheasamh, agus thóg siad é. Bhí siad ag déanamh a gcuid imeartha, agus bhí siad ag bualadh le chéile. Agus é ag déanamh a chuid pleananna, tháinig Cian ar smaoineamh eile. "Caithfimid an sceach a chur ag rith," arsa sé. "Caithfimid é a chur ag gluaiseacht, agus caithfimid é a úsáid chun rith a dhéanamh sa spéir."
+
+Bhí Finn, Niamh, agus Cormac ag déanamh a gcuid pleananna, agus bhí siad ag smaoineamh conas an sceach a usaid. Chuaigh siad a dhó, agus chuir siad an sceach ag rith. Chuir siad é ag gluaiseacht,

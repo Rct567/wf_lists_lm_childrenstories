@@ -1,0 +1,50 @@
+<prompt>
+Please write a relatable Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A játékos szellemek élete, nagy boldogságok a nagyméretű szívünkben mindig.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>hu</lang_id>
+
+<title>A játékos szellemek élete, nagy boldogságok a nagyméretű szívünkben mindig.</title><body>
+Meséljünk egy varázslatos országról, Magyarországról, azon belül is egy apró faluról, Szelídligetről. Szelídliget híres volt a csodálatos tavirózsa-mezőiről, a susogó tölgyfáiról, és a legfontosabb, a játékos szellemeiről. Ezek a szellemek nem ijesztgettek, nem kísértettek. Ők csak játszani szerettek, a legfurcsább módon.
+
+A legfőbb játékmester, a szellemek nagy vezére, Barnabás volt. Barnabás egy kedves, kövérke szellem volt, sárga, napsütéses fürtös hajjal és egy hatalmas, vidám mosollyal. Mindig egy rozoga, de kényelmes, horgolt hintában ült, a tölgyek legmagasabb ágán. onnan irányította a játékokat, kiabálva a szabályokat, és nevetett, ha valami vicces történt.
+
+A szellemek szép számmal gyülekeztek Szelídligeten. Volt köztük Ilonka, a pufók, szivárványszínű ruhában pompázó szellem, aki szeretett a leggyorsabban szaladni a tókörön. Kázmér, a nagyszakállú, vörös hajú szellem, aki imádott verseket szavalni a Holdnak. Zsófi, a mindig kék színben tündöklő szellem, aki remekül tudott bújócskázni, soha nem lehetett megtalálni. És persze, ott volt Gyula, a legfiatalabb szellem, akinek folyton ki kellett találnia valami rosszalkodást.
+
+Egy napon Barnabás hírül adta: “Játéknap van! Ma egy új játékkal fogunk játszani: az „Elveszett kincsek keresése”!”
+
+A szellemek ujjongva szaladtak össze Barnabás hintájához.
+
+– Mit kell keresnünk? – kérdezte Ilonka izgatottan.
+
+– Én a nagymamámtól hallottam kincsek rejtekéről! – kiabálta Kázmér.
+
+– Nem árulom el! – nevetett Barnabás, hatalmas hasát cirógatva. – A kincsek Szelídliget különböző helyein vannak elrejtve. Mindegyik egy aprócska darabka a Boldogságkulcsból. Akinek sikerül mindet megtalálnia, az a Boldogságkulccsal bármit elérhet, amit csak szeretne!
+
+A szellemek izgatottan vágtak neki a keresésnek.
+
+Ilonka azonnal a tókörhöz rohant, hiszen ő volt a leggyorsabb. Futott, ahogy a lábában bírta erő, de a kincset nem találta. Csak egy mosolygó békát pillantott meg, aki kedvesen nézett rá. Ilonka a békának elmondta, mennyire szeretne boldog lenni. A béka egy furcsa kőhöz vezette, melyen egy apró, csillogó ékszer pihent: a Boldogságkulcs első darabja. Ilonka fülig érő szájjal vette fel, boldogság töltötte el a lelkét.
+
+Kázmér a susogó tölgyekhez indult, hiszen szeretett a fák közt járni. Verset is szavalt nekik, a levelek pedig halk sóhajtással köszönték őt. A tölgyek alatt azonban nem lelt semmit, csak egy csipogó cinege hívta fel a figyelmét. A cinege Kázmért egy rejtett ösvényhez vezette, melyen a napsugarak szőtték aranyló mintát. Az ösvény végén, egy hatalmas, bölcs bagoly állt. A bagoly, hallva Kázmér vágyát a boldogságra, elmondta neki: a Boldogságkulcs második darabja egy aprócska levél belsejében rejlik, melyet Kázmér megszáradt ajkára helyezett. Kázmér meglepetten tette a levélkét a zsebébe, érezve, hogy a szívében újfajta melegség honol.
+
+Zsófi a rétekre sietett, hiszen tudta, milyen jól tud elrejtőzni. Bújt a magas fűbe, a színes virágok közé. Órákon át kereste a kincset, de nem talált semmit. A nap lassan lenyugodni készült, Zsófi kicsit elszomorodott. Egy apró, suttogó patakhoz ért, ahol egy törékeny szitakötő jelent meg előtte. A szitakötő a vízben tükröződve egy kerek kövecskét mutatott. Zsófi közelebb hajolt és meglátta a kövecske alján a Boldogságkulcs harmadik darabkáját. Mosolyogva vette fel a kövecskét, melyben ragyogott a naplemente színe.
+
+Gyula, mint mindig, most is rosszalkodásra készült. Ellopta Barnabás hintóját, a folyóba dobta a tavirózsákat, de kincset nem talált. Egy sokat látott teknősbéka beszélt hozzá, hogy ha a boldogságot keresi, akkor a jó cselekedetek az igazi kincs. Gyula gondolkodni kezdett. Aztán látta, hogy Ilonka, Kázmér és Zsófi, egymással versengve sem hagyták a másikat segíteni. A segítséget soha nem tagadták meg. Elhatározta, hogy ő is jót tesz. Éppen arra járt egy megviselt kislány, aki elveszítette a kedvenc plüssnyusziját. Gyula, miután sikertelenül próbálta felkutatni a nyuszit, a falusiakhoz fordult segítségért. Ők szívesen adták kölcsön a régi, elfeledett játékokat, amitől a kislány mosolya ragyogott fel, mikor végül Gyulával együtt eljutott a nagymamájához. És, mikor odaértek, a Boldogságkulcs negyedik, utolsó darabja ragyogott a kislány koszorúján.
+
+Gyula szomorúan tért vissza Barnabáshoz, aki meleg, napos ölelésben fogadta, mosolyogva.
+
+Mikor az est leszállott, a szellemek visszatértek Barnabás hintájához. Mind a négyen, teljes Boldogságkulcs darabokkal. Mindannyian nagyon boldognak érezték magukat. A Boldogságkulcs nem varázsolta szebbé a világot, mint remélték. Mindannyian rájöttek: a Boldogság a lelkében lakozik, a szeretetben, a jóságban és a másokért tett cselekedetekben.
+
+Barnabás hatalmasat nevetett.
+
+– Láttátok? Nem volt elég, hogy elrejtettem a kincset. Mindenkinek meg kellett éreznie, mi a boldogság igazi esszenciája! Ezért nagyméretű a szívünkben a boldogság! – mondta Barnabás, miközben a szellemek a csillagfényben táncoltak, soha nem feledve ezt a csodálatos napot.
+
+És így teltek a szellemek napjai Szelídligeten, a játéknaptól játéknapig, a nagy boldogság örömében. Hiszen tudták, hogy a legnagyobb kincs nem a megtalált tárgyakban rejlik, hanem a szívükben, és a szeretetben, amit adnak és kapnak egymástól. Ezért volt Szelídliget mindig egy varázslatos hely, ahol a nevetés soha nem hallgatott el, és a boldogság minden nap virágzott.
+</body>

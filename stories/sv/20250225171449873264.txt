@@ -1,0 +1,53 @@
+<prompt>
+Please write a silly Swedish children's story that is at least 1000 words long.
+It must be completely written in proper Swedish (SV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Om elefanten som inte kunde minnas var han lagt sin snabel.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sv</lang_id>
+
+<title>Om elefanten som inte kunde minnas var han lagt sin snabel</title>
+<body>
+En liten elefant, Pip, var inte precis som de andra elefanterna i den stora, gröna djungeln.  Han hade ett av de största problemen man kan tänka sig: han kunde inte minnas var han hade lagt sin snabel.
+
+Varje morgon, när solen började måla den gröna djungeln i gyllene färger, vaknade Pip och tittade på sina fyra kraftiga ben.  "Var är min snabel?" mumlade han, medan han skrapade sig på huvudet med en stor, fluffig öronlapp.
+
+Det första problemet uppstod alltid vid frukosten.  Alla andra elefanter sträckte ut sina snablar och började nosa efter de saftiga bananerna.  Men Pip!  Pip letar i buskarna, under palmerna, på flodbanken.  Han letar överallt – förutom där hans snabel faktiskt låg.  En gång hittade han den fastklämd under en stor, blomstrande hibiskus, en annan gång hängande över en myrstack.  Han fann den till och med i en myrstack!  Det smakade inte alls gott.
+
+En dag, när Pip letade efter sin snabel, snubblade han över en liten, guldfärgad fågel som sjöng en så himla lustig sång. "Hej, liten fågel!" ropade Pip. "Kan du hjälpa mig att hitta min snabel?"
+
+"Visst!" svarade fågeln och flög upp i luften.  "Jag känner till alla gömställen i djungeln!"
+
+"Men jag vet inte *hur* du vet alla gömställen," sa Pip, "Hur kan en liten fågel veta så mycket?"
+
+"Det är en hemlighet," svarade fågeln och fladdrade med sina vingar. "Men jag kan hjälpa dig att hitta din snabel."
+
+De flög tillsammans genom djungeln.  Fågeln flög högt, medan Pip flög under ett moln av fjärilar.
+
+De kom till en stor, gammal baobab-träd. "Här under!" viskade fågeln.  Pip böjde sig ner, och där, djupt i skuggan, låg snabeln.  Men... den var inte Pip's! Den var jättestor och blå, med en lång, gul stjärt.  Det var en helt annan elefant!
+
+"Oj," sa Pip. "Det här är inte min snabel."
+
+"Tyvärr, liten elefant," sa fågeln.  "Jag tycks ha flygt fel väg."
+
+Pip blev ledsen.  Han hade hoppats på att få tillbaka sin snabel. Nu kände han sig lite ensam och förvirrad.
+
+"Men... det finns ju en annan snabel, en annan färg!" sa fågeln, glatt.  "Låt oss leka!"
+
+Pip hade aldrig sett en så stor, blå snabel och bestämde sig för att prova den.  Han sträckte på sig och nosade runt.  Den luktade gott.  Bananer, citroner och något annat gott!  Han tyckte att den blå snabeln var jättekul att leka med!
+
+De lekte i djungeln tills solen började gå ner.  Pip och den blå snabeln sprang och lekte bland träden.  De kastade grenar och blommor.
+
+Nästa morgon vaknade Pip. "Var är min snabel?" undrade han.  Till sin förvåning fann han den precis där han hade lämnat den, fastklämd under en blomma.  Den var precis som vanligt, och han kände igen den genast.
+
+"Jag hittade min snabel!" ropade Pip glad och började leka med sina andra vänner.
+
+Sedan dess, varje morgon, när Pip vaknade, visste han exakt var han hade lagt sin snabel.  Han hade lärt sig en viktig läxa. Inte bara att man kan hitta saker på nya platser, men också att man kan leka och lära sig nya saker med hjälp av andra.  Och ibland kan man till och med ha jättekul med en annan elefanters snabel. Och att det är viktigt att aldrig ge upp, oavsett hur svårt problemet är.
+
+Och den lilla guldfärgade fågeln? Den fortsatte att flyga runt i djungeln, full av nya och spännande äventyr.  Och vem vet, kanske såg den till och med Pip igen någonstans där ute i det gröna.
+</body>

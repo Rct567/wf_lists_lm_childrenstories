@@ -1,0 +1,44 @@
+<prompt>
+Please write a light-hearted Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Ztracená hvězdička Andulka a její cesta zpátky na noční oblohu.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>cs</lang_id>
+
+<title>Ztracená hvězdička Andulka a její cesta zpátky na noční oblohu</title>
+<body>
+V malé vesničce na okraji lesa, kde se slunce každé ráno probouzí a večer ukládá ke spánku, žila malá hvězdička jménem Andulka. Andulka byla jednou z mnoha hvězd, které každou noc osvěcovaly noční oblohu a přinášely radost všem, kdo je pozorovali. Byla to malá, ale velmi zářivá hvězdička, která měla ráda všechno, co se týkalo vesmíru a jeho tajemství.
+
+Jedné noci, když Andulka tančila po obloze se svými hvězdnými přáteli, náhle pocítila silný vítr, který ji odnesl daleko od její skupiny. Andulka se cítila ztracená a sama, protože neměla žádnou představu, kde je a jak se vrátit zpět na své místo na obloze. Vítr ji nesl přes lesy, řeky a města, až nakonec skončila v malém zahradě za domem v Praze.
+
+Andulka byla šokovaná, když viděla, že se nachází uprostřed města, daleko od své noční oblohy. Cítila se jako malý, ztracený ptáček, který nemůže najít cestu zpět k svému hnízdu. Ale Andulka nebyla hvězdička, která by se snadno vzdávala. Rozhodla se, že musí najít cestu zpět na oblohu, a tak začala svou cestu.
+
+První, koho potkala, byla malá holčička jménem Sofie, která žila v domě se zahradou, kde Andulka skončila. Sofie byla velmi zvědavá a milá holčička, která měla ráda všechno, co se týkalo přírody a vesmíru. Když viděla Andulku, byla velmi překvapená a začala se ptát, kdo je její nová návštěvnice.
+
+"Kdo jsi?" zeptala se Sofie Andulky.
+
+"Já jsem Andulka, malá hvězdička z noční oblohy," odpověděla Andulka. "Byla jsem odnesena větrem a teď jsem ztracená. Musím najít cestu zpět na oblohu."
+
+Sofie byla velmi ochotná pomoci Andulce. Společně začaly procházet ulicemi Prahy, hledajíce cestu, která by Andulku vrátila zpět na oblohu. Procházely kolem Karlova mostu, Národního muzea a dalších známých míst, ale žádná z nich neměla tušení, jak Andulku vrátit zpět na její místo.
+
+Během své cesty potkaly mnoho zajímavých lidí a zvířat, kteří jim chtěli pomoci. Potkaly malého pejska jménem Max, který je doprovázel na části jejich cesty, a také starého muže, který jim dal rady, jak najít cestu zpět na oblohu.
+
+Andulka a Sofie pokračovaly v své cestě, i když to nebylo vždy snadné. Musely překonávat mnoho překážek, jako například špinavé ulice, hlučné auta a zlé lidi. Ale Andulka nebyla hvězdička, která by se snadno vzdávala, a Sofie byla velmi statečná holčička.
+
+Jednoho dne, když procházely kolem Vltavy, potkaly malou loďku, která plula po řece. Andulka měla nápad, že by loďka mohla být klíčem k jejich úspěchu. Poprosily therefore loďkáře, aby je vezl na svou loďku a odvezl je na místo, kde by Andulku mohla vrátit zpět na oblohu.
+
+Lodníkář, který se jmenoval Jiří, byl velmi ochotný pomoci Andulce a Sofii. Odvezl je na místo, kde se řeka Vltava setkává s oblohou, a tam Andulka viděla svou šanci. S pomocí Jiřího a Sofie se Andulka podařilo vystoupat na vrchol vysoké skály, odkud mohla vidět celou Prahu a noční oblohu.
+
+Andulka byla velmi šťastná, když viděla svou noční oblohu a své hvězdné přátele, kteří na ni čekali. S pomocí Jiřího a Sofie se jí podařilo vyskočit z vrcholu skály a vrátit se zpět na své místo na obloze.
+
+Sofie a Jiří byli velmi šťastní, že mohli Andulce pomoci, a Andulka jim poděkovala za jejich pomoc. Andulka se opět stala součástí noční oblohy a svými zářivými paprsky osvěcovala Prahu a všechny, kdo ji pozorovali.
+
+Od té doby, kdy se Andulka vrátila zpět na oblohu, se stala velmi známou hvězdičkou v Praze. Lidé z celého města chodili ven, aby ji pozorovali a vzpomínali na její cestu zpátky na oblohu. A Andulka, malá hvězdička, která byla jednou ztracena, se stala symbolem odvahy a statečnosti pro všechny, kdo ji znali.
+
+A tak Andulka pokračovala v svém záření, osvěcovala noční oblohu a přinášela radost všem, kdo ji pozorovali. A Sofie a Jiří, kteří jí pomáhali na její cestě, se stali jejími blízkými přáteli a vždy vzpomínali na jejich společnou cestu, která je spojila navždy.</body>

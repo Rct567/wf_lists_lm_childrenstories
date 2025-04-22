@@ -1,0 +1,33 @@
+<prompt>
+Please write a silly Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kis Szellő és a nyári szél'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>Kis Szellő és a nyári szél</title>
+<body>
+Kis Szellő, egy apró, vidám szél volt, aki a legnagyobb nyári melegben is örömmel játszott a mezőn.  Sötétkék, fodros kendőjét a napsugár aranyló fényei játszották, és mindig csillogott benne a szél a legszebb, tiszta kék színben.  A falu szélén, egy hatalmas, virágzó tölgyfa alatt lakott, ahova gyakran bekukkantottak a méhek, és a pillangók táncoltak körülötte.
+
+Kis Szellő imádta a nyári szagot: a virágok édes illatát, a frissen kaszált fű fűszeres aromáját, és a forró földből felszálló, nedves talaj szagát. De néha, a nap legmelegebb óráiban, amikor a madarak is elfáradtak és a levelek nyugodtan integettek a levegőben, egy furcsa érzés fogta el.  Egy nagy, dühös szél, a Nyári Szél, morogva és zúgva vonult át a tájon.
+
+A Nyári Szél vörös, fátyolszerű felhőket húzott maga után, amelyekből mindenféle, szikrázó, forró szikra pattant.  A mezőn átfújta a virágokat, a fű szárait úgy hajlította, mintha csak vékony, zöld pálcákat rángatna.  Kis Szellő, aki a tölgyfa alatt bújócskázt a pillangókkal, rettegve figyelte a Nyári Szél dühös táncát.
+
+„Ó, de rettenetes!” suttogta a legkisebb pillangó, akinek szárnyai szinte égtek a forróságtól. „Lehet, hogy a Nyári Szél elpusztít mindent, ami szép!”
+
+Kis Szellő szíve összeszorult. Tudta, hogy a Nyári Szél pusztító ereje veszélyes, és mindenki retteg előle.  De ő is szeretett játszani, és nem tudta elviselni, hogy a világ olyan szomorú és kietlen legyen.
+
+Egy nap, a Nyári Szél különösen erős volt.  A tölgyfa ágai is remegtek a zúgás erejétől, és a Kis Szellő mindinkább félénk lett.  Hirtelen azonban észrevette, hogy a Nyári Szél útját egy furcsa, kis patak szeli át. A patak, bár kicsi, mégis megingathatatlanul folyt a mezőn, a forró nap ellenére hűvös és élénk volt.  A víz csordogált, és apró csobogásokkal szórakoztatta a levegőt.
+
+Kis Szellő úgy döntött, hogy megpróbálja.  Elindult a patak felé, és a apró szélcsomókból egyre nagyobb, egyre erősebb szél lett.  A szél segített a virágoknak meghajolni a patak felé, hogy inni tudjanak.  Segített a forró levegőt hűvösebbé változtatni, és a Nyári Szél elkezdett gyengülni, amint a mező egyre nedvesebb lett.
+
+Kis Szellő és a patak, együttműködve, megfordították a Nyári Szél irányát.  A vörös felhők elszálltak, a szikrák elhalványultak, és a Nyári Szél, megnyugodva, lassan elhalványult a távolban. A mező megnyugodott, a virágok felélénkültek, és a pillangók újra táncoltak a levegőben.
+
+Kis Szellő büszkén intett a patak felé. A patak pedig, mosolyogva, folyt tovább, élénken és hűvösen.  Aztán Kis Szellő elmondta a történetét a Nyári Szélnek, és elmagyarázta, hogy a szeretet és a segítség a legerősebb fegyverek. A Nyári Szél meghallgatta, és megígérte, hogy a jövőben figyelmesebben fogja használni erejét.  A mezőn béke honolt, és mindenki örült a kis szél és a patak közös munkájának.  A tölgyfa alatt pedig, a virágok és a pillangók megmondták Kis Szellőnek, hogy a legnagyobb hőmérséklettől is gyönyörű napra válhat a világ, ha szeretettel és együttműködéssel cselekszünk.
+</body>

@@ -1,0 +1,45 @@
+<prompt>
+Please write a educational Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Jak si víly poradily s neposedným větrem'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>cs</lang_id>
+
+<title>Jak si víly poradily s neposedným větrem</title>
+<body>
+Bylo to krásné jaro v malé vesničce na okraji lesa. Slunce svítilo, ptáci zpívali a děti hrály venku. Ale najednou se něco změnilo. Vítr, který byl dříve mírný a příjemný, začal být neposedný a silný. Foukal tak, že stromy se chvěly, dveře se otvíraly a zavíraly samy od sebe a děti měly problémy zůstat na nohách.
+
+Vesničané se snažili najít způsob, jak se s tímto neposedným větrem vypořádat. Někteří stavěli vysoké ploty, aby vítr nezničil jejich ),
+ale ty byly často strženy silným větrem. Jiní se snažili uvázat dveře a okna, aby je vítr nevyfoukl, ale to také nebylo příliš účinné.
+
+Mezitím, v lese, žily víly. Tyto malé, kouzelné bytosti měly moc ovládat přírodu a udržovat rovnováhu ve světě. Když víly slyšely o problémech vesnice, rozhodly se, že jim pomohou.
+
+Víly se sešly v grandiální radě, aby diskutovaly o tom, jak pomoci vesničánům. Jedna víla, jménem Lída, navrhla, že by měly vytvořit kouzelnou bariéru, která by vítr zastavila. Další víla, jménem Věra, navrhla, že by měly použít své kouzelné síly, aby vítr uklidnily.
+
+Ale nejmladší víla, jménem Soňa, měla jiný nápad. Navrhla, že by měly jít do vesnice a promluvit si s lidmi. "Možná," řekla, "vítr není příčinou problému, ale spíše symptom. Možná je něco, co lidi dělají, co způsobuje vítr."
+
+Víly se rozhodly, že Soňin nápad je dobrý, a tak se vydaly do vesnice. Když tam dorazily, viděly, že lidé jsou velmi znepokojení a frustrovaní. Víly se jich ptaly, co se děje, a lidé jim vysvětlili, jak vítr ničí jejich domy a zahrady.
+
+Soňa se zeptala, zda lidé dělají něco, co by mohlo způsobovat vítr. Lidé se na sebe podívali a jeden z nich řekl: "No, vlastně ano. Nedávno jsme začali kácet stromy v lese, aby jsme měli více místa pro naše domy a zahrady."
+
+Víly si vyměnily znepokojené pohledy. Kácení stromů bylo příčinou problému. Stromy pomáhaly udržovat rovnováhu ve světě a jejich absence umožňovala vítru, aby se stal silnějším.
+
+Víly se rozhodly, že musí něco udělat, aby tomu zabránily. Navrhly lidem, aby přestali kácet stromy a místo toho je začali sázet. Lidé byli最初 skeptičtí, ale víly je ujistily, že to bude mít pozitivní efekt.
+
+A tak, lidé začali sázet stromy. Víly jim pomáhaly a učí je, jak se o stromy starat. Postupem času, vítr začal slábnout a vesnice se stala opět klidným a mírným místem.
+
+Lidé byli velmi vděční vílám za jejich pomoc a začali je uctívat jako ochránkyně přírody. Víly se staly součástí vesnické komunity a pomáhaly lidem udržovat rovnováhu ve světě.
+
+Soňa, nejmladší víla, se stala hrdinkou vesnice. Její nápad jít do vesnice a promluvit si s lidmi byl klíčový k řešení problému. Lidé ji nazývali "vílou moudrosti" a žádali ji o radu ve všech záležitostech.
+
+A tak, vesnice a les žily v harmonii, díky vílám a jejich kouzelným silám. Vítr se stal opět mírným a příjemným a lidé žili šťastně a klidně. Víly pokračovaly ve své práci, udržovaly rovnováhu ve světě a učí lidi, jak se o přírodu starat.
+
+Mnoho let poté, když Soňa zestárla, se stala moudrou a zkušenou vílou. Lidé ji stále žádali o radu a ona jim vždy pomáhala. Jednou, když seděla na jedné z větví stromu, kterého pomáhala zasadit, řekla: "Vítr není nic jiného než symptom problému. Je důležité najít příčinu a řešit ji. A vždy je důležité mluvit s lidmi a slyšet jejich názory."
+
+A tak, příběh o vílách a neposedném větru se stal legendou, která se předávala z generace na generaci. Lidé si vždy pamatovali, že víly jsou ochránkyně přírody a že je důležité udržovat rovnováhu ve světě. A Soňa, víla moudrosti, zůstala symbolem moudrosti a odhodlání.</body>

@@ -1,0 +1,31 @@
+<prompt>
+Please write a uncomplicated Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Zaķēna Pētera un viņa draugu neparastais piedzīvojums lielajā purvā.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lv</lang_id>
+
+<title>Zaķēna Pētera un viņa draugu neparastais piedzīvojums lielajā purvā.</title>
+<body>
+Zaķēns Pēteris bija ļoti ziņkārīgs zaķēns.  Viņam patīka pētīt apkārtni, un viņš nekad nebaidījās no jaunām lietām. Viņš dzīvoja skaistā mežmalā, kur auga sulīgi zaļi dārzeņi un dziedāja čaklas putnu balsis.  Pētera mīļākā vieta bija lielais purvs, kas atradās nedaudz tālāk aiz meža.  Tur, starp biezajiem niedru biezokņiem un smaragdzilās ūdens spoguļiem, dzīvoja neparastas radības.
+
+Viens no Pētera labākajiem draugiem bija varenā bruņurupucīte, kura vārdā bija Ruta.  Ruta ar savu lēnām, bet stabilu gaitu bija drosmīgāka, nekā izskatījās.  Otra draudzene bija lēkājoša varde ar smalku, zaļām plankām pārklātu ādu – Žanīna. Žanīna prata labāk nekā jebkurš cits mežā noķert nemanāmus un nelietus gaidītas lašus. Un protams, arī Pēterim bija draugs lapsa - Čūka. Pēc dabas, Čūka bija mierīga un patīkama.
+
+Kādu saulainu vasaras dienu, Pēteris, Ruta, Žanīna un Čūka sapulcējās pie purva malas.  Viņi vēlējās izpētīt purvā esošo ziedošo lotosu dārzu. Šis dārzs bija slavens ar saviem neparastajiem,  lielajiem, gaiši rozā ziediem. Purva dziļumā dzīvoja arī noslēpumainais ūdens vārds. Par to visu stāstīja  vecais koka koks ar apburoši caurspīdīgām lapām, ko pēteris pazina. Pētera draugi, tāpat kā pats, bija aizrauti ar purvu un tajā esošo pasauli.
+
+Ceļš līdz lotosu dārzam bija sarežģīts un interesants. Viņiem nācās pārvarēt augošo biezokni, kur iekodās spēcīgi zirnekļu tīkli. Pēc tam bija jāuzrāpjas nelieliem pauguriem, un, lai varētu turpināt ceļu, jāizlaiž biezas zarātas lianas. Žanīna ar veiklām lēcieniem pārvarēja visus šķēršļus, savukārt Pēteris, ar sava ātrā palīdzību spēja atkratīties no visām neparastajām mušām. Rutā atkal bija skaista pastaiga, bet tā tik ļoti ātri kā Žanīna nekad, tāpat Čūka līdzi vienmēr uzturēja visu draugu grupu drošībā.
+
+Beidzot tie sasniedza skaisto dārzu, kas bija pārklāts ar košām krāsām.  Lotosu ziedi starojās spožos purva saules staros, apžilbinot savus viesus ar savu maigumu.  Bet, kad Pēteris, Ruta un Žanīna skatījās cieņpilnā dārzu apskatīšanā, Čūka pēkšņi izsauca visus bēga dabu. Pēkšņi no dziļumiem iesniedza kādas nemierīgas balsis un izaicināja visus tur esošos radības. Draugi ātri apskatījās apkārt. Draugi bija pārsteigti – liela melna ēna pārklāja lotosu dārzu un turp virzījās milzīga ūdensčūska.
+
+Pēkšņi ūdensčūska atklājās savās pilnajās briesmās. Ūdensčūska sāka izvirzīt bīstamus plēksnes ar skābēm uz priekšu. Čūka skaļi izsaucās, uzstādot draugiem šausminošu robežu. Žanīna, bez atpūtas, iemetajas pret ēnotajām ūdens masas. Tikmēr Pēteris un Ruta ar visām rokām un kājām darbojās uz ēnas robežām, atlaižot mieru. Čūka ar savu gudro un stratēģisko aizsardzību palīdzēja saglabāt visām dalībniekiem savas drošības robežas.
+
+Kamēr draugi cīnījās ar draudiem, ūdens vārds ieradās savās pilnajās iekārtojumās.  Ar savu spēcīgo enerģiju ūdens vārds noņēma visas milzu ūdensčūskas. Žanīna, Pēteris un Ruta saprata, ka ir svarīgi cīnīties par to, ko mīl un aizstāvēt sevi un savus mīļos. Viņi sadarbībā cīnījās pret briesmām, kas draudēja  draudīgākais no ienaidniekiem. 
+
+Tā beigās draugi atkal atguva mieru purva ielokā, un skaidrajā dabā atradās jauks miers. Viņi uzzināja, ka kopīga cīņa un sadarbība ir labākā ieroču cīņā. No tā brīža, katru dienu, Pēteris un viņa draugi gāja izbaudīt dabas brīnumus purvā. Purvā esošā zināšanas iezīmējās kā neatvairāms apliecinājums par to, kā draugi var cīnīties un pārvarēt visus šķēršļus kopīgi.
+</body>

@@ -1,0 +1,35 @@
+<prompt>
+Please write a relatable Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Wielka, niezwykła wyprawa przez góry i lasy'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>pl</lang_id>
+
+<title>Wielka, niezwykła wyprawa przez góry i lasy</title>
+<body>
+Ola, z brązowymi, warkoczkami oczyma i sercem pełnym ciekawości, mieszkała w małym, drewnianym domku na skraju lasu.  Każdego dnia, gdy słońce budziło się nad wzgórzami, Ola marzyła o przygodach. Marzyła o wędrówkach po malowniczych górach, o szumie liści w koronach wiekowych drzew i o szukaniu skarbu ukrytego w gęstwinie lasu.  Dlatego, gdy przypadkiem natknęła się na tajemniczą mapę,  jej serce zabiło szybciej. Mapa, wykonana z pożółkłego pergaminu, przedstawiała labirynt wzgórz, wcinających się w błękit nieba i zagadkowe szlaki, prowadzące w głąb tajemniczych lasów.
+
+Ola, bez wahania, spakowała swój mały plecak.  Wzięła ulubionego pluszowego misia, Bartka, kanapkę z dżemem i butelkę świeżej wody.  Pożegnała się z mamą i tatą, obiecując, że wróci przed zachodem słońca.  Chłopaki z sąsiedztwa, Tomek i Wojtek, zaintrygowani opowieściami Oli, zdecydowali się na przygodę. Wraz z nimi wyruszyły na wędrówkę!
+
+Pierwszy odcinek drogi był łatwy i przyjemny.  Wybrali wąską ścieżynę wiodącą przez słoneczne łąki.  Słychać było cichutkie ćwierkanie ptaków i szum drzew. W słońcu blaskami migotały kolorowe motyle, a  wśród kwiatów kryły się malutkie, ale barwne ważki.
+
+Szlak szybko wiodł ich na grzbiety górskie. Wtedy do akcji wkroczył mrok i wiatr. Chłód zdawał się przebijać do kości, a deszcz zdawał się tańczyć z żywiołami. Zmęczenie dawało się we znaki, ale śmiech Oli, Tomka i Wojtka przełamywał opór przyrody.
+
+Wyprawa przez górskie przełęcze była trudniejsza, niż się wydawało.  Ścieżka stawała się coraz bardziej strome, a kamienie pod nogami były śliskie i nierówne.  Nagle, Ola spostrzegła coś dziwnego.  W cieniu wysoko pod górą błyszczał coś srebrnego. Z zainteresowaniem ruszyli w kierunku srebrnego obiektu.
+
+Obiekt okazał się dziwną, starożytną szkatułką. Jej pokrywa była ozdobiona misternymi ornamentami. Dzieci podekscytowane szukaniem odpowiedzi otwarły ją z wielką ostrożnością.  Wewnątrz znalazły nie skarbu w złocie, a urokliwe, szlachetnie pachnące kamienie.  Były tak piękne, jakby światło słoneczne w nich zamieszkało. Dzieci z ulgą położyły kamienie z powrotem do schowka.
+
+Ciągła wędrówka doprowadziła ich w końcu do gęstego lasu. Drzewa, gęsto ułożone jak warstwy szkatuły, tworzyły zaciemnioną kopułę. Słońce w tym zakątku lasu ledwie przebijało się między konarami, tworząc dziwne cienie. Szlak był teraz ledwo widoczny.  To było  niebezpieczeństwo, lecz z  niepowtarzalnym, romantycznym klimatem. Dzieci poruszali się uważnie, słysząc szum liści i śpiew dziwnych stworzeń.
+
+W głębi lasu, pomiędzy starymi, potężnymi drzewami, Ola dostrzegła jasno oświetloną polanę. Stała tam kaplica otoczona kwiecistymi  drzewami.  Księga, położona na stole pod zadaszeniem, okazywała się kolekcją opowiadań, wierszy i przesłań pozostawionych przez poprzedników, napisane językiem który znały jedynie dziwnie szeleszczące drzewa.  Niespodzianki były wciąż!
+
+W środku kaplicy znaleźli niezwykły przedmiot. Był to niewielki instrument, skrzypce, o kształtach niezwykle urokliwych. Dzieci podjęły próbę ich odegrania, lecz instrument wygenerował wspaniałą muzykę pełną przepięknych, starannie zaprogramowanych nuta, lecz co więcej -  był w stanie odgrywać muzykę przywodzącą na myśl wybrane słowa!  Instrument zdawał się rozumieć ich pragnienie i doznawać podzielonej emocji.
+
+Nadeszła pora powrotu. Ola, Tomek i Wojtek, niesiemyc w sercu cenne wspomnienia, powoli odchodzili.  W  zmierzchu odkryli drogę, jaka wiódł do domu, z zachwytem okazując wrażliwość i szacunek dla natury. Ich przygoda zakończyła się wspaniałym zachodem słońca. W myślach ułozyli, jaki śpiew ma odezwać się podczas  powrotu do domu. Dziś wieczorem, przy ognisku z uśmiechem, przytuleni z ojcami i matkami, będą rozmyślać nad tymi, które przeszli wspólnie.
+</body>

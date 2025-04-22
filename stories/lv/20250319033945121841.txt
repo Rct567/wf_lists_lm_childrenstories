@@ -1,0 +1,58 @@
+<prompt>
+Please write a uncomplicated Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Pērļu Atrašana un Draudzībā Pilns Jūra'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>lv</lang_id>
+
+```xml
+<title>Pērļu Atrašana un Draudzībā Pilns Jūra</title><body>
+Vienā gleznainā Latvijas jūrmalā, kur smiltis mirdzēja kā zelts saules staros, dzīvoja mazā, ziņkārīgā meitene vārdā Līza. Līzai bija brūni mati kā rieksti un spožas, zilas acis kā jūra vasaras dienā. Viņai ļoti patika pavadīt dienas pludmalē, vācot gliemežvākus, būvējot smilšu pilis un, protams, vērojot jūru.
+
+Kādā spožā rītā, kad saule vēl tikai sāka kāpt debesīs, Līza pamodās ar īpašu sajūtu. Viņa jutās, ka šodiena būs atšķirīga. Ātri vien uzvilkusi savu iecienīto zilo kleitu, Līza paķēra grozu un metās uz pludmali. Jūra bija mierīga un klusa, tikai nedaudz čukstēja par savām noslēpumiem.
+
+Atskrējusi līdz jūrai, Līza sāka rūpīgi skatīties apkārt. Viņas acis pētīja katru gliemežvāku, katru akmeni, katru smilšu graudiņu. Viņa cerēja atrast kaut ko īpašu. Līza atcerējās, ka viņas vectēvs stāstīja pasakas par jūras pērlēm, kuras paslēptas dziļi jūrā un atrodas tikai tiem, kam ir patiess sirds gaišums.
+
+Šodien Līza bija apņēmības pilna. Viņa zināja, ka viņai ir mīloša un laipna sirds. Viņa sāka staigāt gar jūras malu, uzmanīgi veroties ūdenī. Pēkšņi viņas skatiens apstājās pie kaut kā spīdoša, kas atradās seklā ūdenī. Līza ātri ieskrēja ūdenī un piecēla priekšmetu. Tā bija mirdzoša, balta pērle! Tā spīdēja kā mazs saules gabaliņš.
+
+Līza acis mirdzēja no prieka. Viņa nekad nebija domājusi, ka atradīs pērli! Turpinādama savas pastaigas, Līza atrada vēl vienu pērli, un tad vēl vienu, un vēl vienu. Drīz viņas grozs bija pilns ar skaistām, mirdzošām pērlēm.
+
+Kamēr Līza priecīgi vāca pērles, viņa pamanīja, ka jūrā kaut kas notiek. Tur, tālumā, viņa ieraudzīja lielu kuģi, kas izskatījās, it kā būtu ciešanu stāvoklī. Kuģis šķita slīkstam, un no tā paverās cilvēku saucieni pēc palīdzības. Līzas sirds sastinga. Viņa nekavējoties zināja, kas viņai jādara.
+
+Viņa steidzīgi atstāja savu pērļu grozu smiltīs un skrēja atpakaļ uz māju. Skrienot, Līza kliedza: "Palīgā! Palīgā! Kuģis slīkst!" Viņa bija mazākā cilvēka izmēros, bet viņas balss bija pilna ar satraukumu un vēlmi palīdzēt.
+
+Daudzi cilvēki, kas atradās pludmalē, izdzirdēja Līzas saucienus un steidzās skatīties, kas notiek. Vecāki, kas spēlējās ar bērniem, atstāja savas spēles, un pludmalē atpūšošies cilvēki skatījās jūrā ar bažām.
+
+Viens no pludmalē esošajiem vīriem, kas bija pieredzējis jūrnieks, saprata, ka kuģim ir problēmas. Viņš ātri uzsāka glābšanas operāciju. Cits vīrietis steidzīgi skrēja uz zvejnieku ostu, lai palīdzību. Zvejnieki nekavējoties sarunājās un palīdzēja visiem, ko varēja, lai nokļūtu kuģim tuvāk.
+
+Kad glābšanas komandas sasniedza kuģi, Līza atgriezās pludmalē un noraudzījās. Viņa lūdzās, lai visi kuģa iemītnieki būtu drošībā. Pēc ilga un saspringta laika, visas cilvēku tika nogādātas drošībā pludmalē. Visi tika izglābti.
+
+Kad glābšanas operācija bija pabeigta, Līza piegāja pie izglābtajiem jūrniekiem. Jūrnieki bija izbiedēti, bet pateicīgi. Viens no viņiem, vecāks vīrs ar baltu bārdu, atcerējās, ka bija redzējis mazo meiteni, kas brīdināja cilvēkus par briesmām. Viņš piegāja pie Līzas, nometās ceļos un apskāva viņu. "Tu esi īsts varonis, mazā meitene!" viņš sacīja ar balss lūzumiem. "Paldies, ka izglābi mūs visus!"
+
+Līzas sirds atkal piepildījās ar prieku. Ne vien atrada dārgumus, bet tagad izglāba cilvēkus. Viņa nebija par to domājusi, meklējot pērles, taču zināja, ka viņas rīcība bija pareiza.
+
+Pēc šī notikuma, kad visi bija drošībā un nomierināti, Līza atgriezās vietā, kur bija atstājusi savu pērļu grozu. Viņas pērles joprojām mirdzēja, taču šoreiz viņas nebija vairs tikai dārgumi. Tās bija apliecinājums viņas labestībai un drosmei.
+
+Atnāca vakars, un saule sāka rietēt, krāsojot jūru un debesis oranžā un sārtā krāsā. Līza sēdēja smiltīs un vēroja saulrietu. Jūra čukstēja viņai atkal, bet šoreiz tā šķita vēl draudzīgāka. Viņa saprata, ka īstie dārgumi nav tikai pērles, bet gan draudzība, drosme un laipnība.
+
+Nākamajā rītā, kad Līza atkal devās uz pludmali, viņa vairs nevāca pērles. Tā vietā, viņa spēlējās ar bērniem, kas bija izglābti no kuģa. Viņa stāstīja viņiem pasakas par jūru un par to, kāpēc ir svarīgi būt draudzīgiem un palīdzēt citiem.
+
+Ar katru dienu Līza kļuva arvien populārāka jūrmalā. Cilvēki atcerējās viņas drosmi un labestību. Viņa kļuva par simbolu visiem, kas zināja, ka patiess skaistums un vērtība slēpjas sirdī.
+
+Tajā vasarā, Līza pavadīja daudz laika ar saviem jaunajiem draugiem. Viņi spēlēja spēles, būvēja smilšu pilis, peldējās un vēlreiz atrada dārgumu - skaistu koraļļu kaklarotu, un arī turēja to atmiņai. Līza zināja, ka jūrai ir daudz noslēpumu un skaistumu, taču viņas visvērtīgākais dārgums bija draugi un mīlestība. Un visi šajā draudzīgajā jūrā bija droši.
+
+Vienu dienu, kad Līza ar saviem draugiem spēlējās pie jūras, pie viņiem pienāca vecais jūrnieks, kuru Līza bija izglābusi. Viņš teica: "Līza, tu esi īpaša meitene. Tev ir drosme un laipnība, kādu nav daudziem. Es vēlos tev parādīt vienu īpašu vietu."
+
+Viņš aizveda Līzu un viņas draugus uz kādu attālu pludmales daļu, kur atradās kāda maza ala. Jūrnieks pastāstīja, ka šajā alā dzīvo burvīgs jūras zirgs, kas ir jūras sargs un vēro visas jūras būtnes.
+
+Ieejot alā, Līza un viņas draugi ieraudzīja to! Jūras zirgs bija mirdzošs un mīļš. Viņš sarunājās ar Līzu, un teica, ka Līzas sirds gaišums un rīcība bija atstājis paliekošu iespaidu uz viņu un visu jūru. Jūras zirgs pateicās Līzai par viņas palīdzību un draudzību. Viņš dāvāja Līzai un viņas draugiem katram pa vienam gliemežvākam, kas bija piepildīts ar mīlestību. Viņi zina, ka to glabās kā īpašu un lielu dārgumu.
+
+No šī brīža Līzas un viņas draugu draudzība kļuva vēl spēcīgāka. Viņi apmeklēja jūras zirgu regulāri un dalījās savā laimē un jautrībā ar visiem jūras dzīvniekiem. Jūra kļuva vēl priecīgāka, jo tajā valdīja labestība un draudzība. Un Līza bija laimīga, jo viņa zināja, ka patiesais dārgums slēpjas draudzībā un mīlestībā.
+</body>
+```

@@ -1,0 +1,72 @@
+<prompt>
+Please write a dialog-based Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'An tSean-Bhean agus na hÉanlaithe Fhiáine'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>ga</lang_id>
+
+<title>An tSean-Bhean agus na hÉanlaithe Fhiáine</title>
+<body>
+Bhí sean-bhean ina cónaí i gcroílár na tuaithe. Bhí sí ina cónaí i dteach beag, agus ba ghairid don bhóthar mór é. Bhí sí an-chóngarach don bhóthar, agus bhíodh sí ag féachaint amach an fhuinneog go minic, ag déanamh deifir ar na daoine a bhíodh ag dul thar bráid.
+
+"Tabhair dom scéal," a deir an sean-bhean leis an gcailín beag a bhí ina cónaí léi. "Táim ag dul a chodladh, agus táim ag iarraidh scéal a chloisteáil."
+
+"Ceistigh mé faoi scéal ar bith," a deir an gcailín beag. "Táim réidh chun scéal a insint duit."
+
+"Insíonn tú scéal faoi na hÉanlaithe Fhiáine," a deir an sean-bhean. "Táim ag iarraidh eolas a fháil faoi na héanlaithigh sin."
+
+"Bhíodh na hÉanlaithe Fhiáine ina gcónaí i ngarráin na coille," a deir an gcailín beag. "Bhíodh siad ag ithe bláthanna agus síolta, agus bhíodh siad ag déanamh ceoil bhreá."
+
+"Céard a chonaic tú nuair a chuirtí chuig an gcoill?" a deir an sean-bhean.
+
+"Chonaic mé na hÉanlaithe Fhiáine ag eitilt ó chrann go crann," a deir an gcailín beag. "Bhíodh siad ag canadh amhráin bhreátha, agus bhíodh siad ag déanamh rinceanna beaga."
+
+"Cén chaoi a raibh na hÉanlaithe Fhiáine ag déanamh a gcuid ceoil?" a deir an sean-bhean.
+
+"Bhíodh siad ag bualadh a gcuid sciathán le chéile, agus bhíodh siad ag déanamh fuaimeanna áiféanta," a deir an gcailín beag. "Bhíodh siad ag canadh amhráin faoi na bláthanna agus na síolta a bhíodh siad ag ithe."
+
+"An raibh aon cheann de na hÉanlaithe Fhiáine ag déanamh ceoil duit?" a deir an sean-bhean.
+
+"Bhí ceann amháin acu ag déanamh ceoil dom," a deir an gcailín beag. "Bhí sí ag canadh amhráin faoi na bláthanna a bhí sí ag ithe, agus bhí sí ag déanamh fuaimeanna áiféanta le a sciathán."
+
+"Céard a dúirt an t-Éanlath Fiáin leat?" a deir an sean-bhean.
+
+"Dúirt sí liom go raibh sí ag déanamh ceoil dom mar gur thaitin mé léi," a deir an gcailín beag. "Dúirt sí liom go raibh sí ag iarraidh mé a chur in áit mháith, agus go raibh sí ag déanamh ceoil dom chun mé a chur ag smaoineamh ar na bláthanna agus na síolta a bhí sí ag ithe."
+
+"An bhfuil tú ag iarraidh dul chuig an gcoill arís chun na hÉanlaithe Fhiáine a fheiscint?" a deir an sean-bhean.
+
+"Táim ag iarraidh dul chuig an gcoill arís," a deir an gcailín beag. "Táim ag iarraidh na hÉanlaithe Fhiáine a fheiscint, agus táim ag iarraidh ceol a chloisteáil uathu."
+
+"Rachaidh mé leat chuig an gcoill," a deir an sean-bhean. "Táim ag iarraidh na hÉanlaithe Fhiáine a fheiscint, agus táim ag iarraidh ceol a chloisteáil uathu."
+
+Chuaigh an sean-bhean agus an gcailín beag chuig an gcoill, agus chonaic siad na hÉanlaithe Fhiáine ag eitilt ó chrann go crann. Bhíodh siad ag canadh amhráin bhreátha, agus bhíodh siad ag déanamh rinceanna beaga.
+
+"Tabhair dom ceol," a deir an sean-bhean leis na hÉanlaithe Fhiáine. "Táim ag iarraidh dul a chodladh, agus táim ag iarraidh ceol a chloisteáil uait."
+
+"Bhuel, táim réidh chun ceol a dhéanamh duit," a deir ceann de na hÉanlaithe Fhiáine. "Táim ag déanamh ceoil faoi na bláthanna agus na síolta a bhíomar ag ithe."
+
+Thosaigh na hÉanlaithe Fhiáine ag canadh amhráin bhreátha, agus bhíodh siad ag déanamh fuaimeanna áiféanta le a sciathán. Bhí an sean-bhean agus an gcailín beag ag éisteacht leis an gceol, agus bhíodh siad ag smaoineamh ar na bláthanna agus na síolta a bhí na hÉanlaithe Fhiáine ag ithe.
+
+"Ceol áiféantach atá ann," a deir an sean-bhean. "Táim ag iarraidh é a chloisteáil arís."
+
+"Táim réidh chun ceol a dhéanamh duit arís," a deir ceann de na hÉanlaithe Fhiáine. "Táim ag déanamh ceoil faoi na bláthanna agus na síolta a bhíomar ag ithe."
+
+Thosaigh na hÉanlaithe Fhiáine ag canadh amhráin bhreátha arís, agus bhíodh siad ag déanamh fuaimeanna áiféanta le a sciathán. Bhí an sean-bhean agus an gcailín beag ag éisteacht leis an gceol, agus bhíodh siad ag smaoineamh ar na bláthanna agus na síolta a bhí na hÉanlaithe Fhiáine ag ithe.
+
+Bhí an sean-bhean agus an gcailín beag ag déanamh deifir ar na hÉanlaithe Fhiáine, agus bhíodh siad ag iarraidh ceol a chloisteáil uathu arís. Ach bhí na hÉanlaithe Fhiáine ag dul abhaile, agus bhíodh siad ag déanamh slán leis an sean-bhean agus an gcailín beag.
+
+"Slán abhaile," a deir an sean-bhean leis na hÉanlaithe Fhiáine. "Táim ag iarraidh ceol a chloisteáil uait arís."
+
+"Slán abhaile," a deir ceann de na hÉanlaithe Fhiáine. "Táim ag déanamh ceoil duit arís, ach táim ag dul abhaile anois."
+
+D'fhág na hÉanlaithe Fhiáine an coill, agus d'fhág siad an sean-bhean agus an gcailín beag ina ndiaidh. Bhí an sean-bhean agus an gcailín beag ag smaoineamh ar na hÉanlaithe Fhiáine, agus bhíodh siad ag iarraidh ceol a chloisteáil uathu arís.
+
+"Rachaidh mé chuig an gcoill arís," a deir an gcailín beag. "Táim ag iarraidh na hÉanlaithe Fhiáine a fheiscint, agus táim ag iarraidh ceol a chloisteáil uathu."
+
+"Rachaidh mé leat chuig

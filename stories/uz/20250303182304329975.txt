@@ -1,0 +1,43 @@
+<prompt>
+Please write a light-hearted Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Tabiatda yashayotgan ajib va g'arib hayvonlar'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>uz</lang_id>
+
+<title>Tabiatda yashayotgan ajib va g'arib hayvonlar</title>
+<body>Bizning atrofimizda ko'p turli xil hayvonlar yashaydi. Ulardan ba'zilari bizga ma'lum, ba'zilari esa hali ham noma'lum. Bugun sizlarga tabiatda yashayotgan ajib va g'arib hayvonlardan hikoya qilamiz.
+
+Daryo bo'yida yashovchi bolalar ko'pincha suvda yashovchi hayvonlarni ko'rishadi. Ularning orasida eng qiziqi - suv iloni. Suv iloni juda tez harakat qiladi va suvdan chiqqanda, uni ko'rgan bolalar qo'rqib ketishadi. Lekin suv iloni odamga zarar yetkazmaydi. U faqat baliq va qisqichbaqalarni ovlaydi.
+
+Bir kuni, daryo bo'yida yashovchi bola suv ilonini ko'rdi. U juda qo'rqib ketdi va uyiga qochib bordi. Otasiga suv ilonini ko'rganini aytib berdi. Otasi uni tinchlantirdi va suv ilonining odamga zarar yetkazmaydiganini aytdi. Bola qo'rqib ketmaslik uchun otasining maslahatiga quloq solib, suv ilonini yana ko'rishga qaror qildi.
+
+Ertasi kuni, bola daryo bo'yiga bordi va suv ilonini yana ko'rdi. Bu safar u qo'rqib ketmasdan, suv iloniga qaradi. Suv iloni unga qaradi va harakat qilmadi. Bola suv iloniga yaqinlashib, uni yaqindan ko'rdi. Suv iloni juda katta va uzun edi. Bola uning uzunligini o'lchashga qaror qildi. U suv ilonini o'lchadi va uzunligini 5 metr ekanligini ko'rdi.
+
+Bola suv iloniga yaqinlashib, unga suhbatlashishga qaror qildi. U suv ilonidan uning ismi nima ekanligini so'radi. Suv iloni uning ismi "Suvchi" ekanligini aytdi. Bola Suvchiga uning oilasi haqida so'radi. Suvchi uning oilasining juda katta ekanligini aytdi. Ular daryoning barcha qismlarida yashashadi.
+
+Bola Suvchiga uning sevimli ov qiladigan joyi qaysi ekanligini so'radi. Suvchi uning sevimli joyi daryoning quyilish joyi ekanligini aytdi. U yerda baliq va qisqichbaqalar juda ko'p bo'lib, u yerda ov qilish juda oson ekanligini aytdi.
+
+Bola Suvchiga uning eng sevimli narsasi nima ekanligini so'radi. Suvchi uning eng sevimli narsasi suv ekanligini aytdi. U suvda yashashni va suvda harakat qilishni juda yoqtirardi. Bola Suvchiga suvdan tashqari boshqa narsalarni yoqtiradimi deb so'radi. Suvchi uning boshqa narsalarni yoqtirishini aytdi. U quyosh nurini, havo harakatini va tabiatning barcha go'zalligini yoqtirardi.
+
+Bola Suvchiga tabiat haqida so'radi. Suvchi tabiatning juda go'zal ekanligini aytdi. U tabiatda yashovchi barcha hayvonlarni yoqtirardi. U ularning barchasini o'z oilasi deb bilardi. Bola Suvchiga odamlar tabiatga qanday munosabatda bo'lishlari kerakligi haqida so'radi. Suvchi odamlar tabiatga hurmat bilan munosabatda bo'lishlari kerakligini aytdi. Ular tabiatni saqlashlari va unga zarar yetkazmasliklari kerakligini aytdi.
+
+Bola Suvchiga tabiatdagi boshqa hayvonlar haqida so'radi. Suvchi tabiatda yashovchi boshqa hayvonlardan hikoya qildi. U tog'da yashovchi arslon haqida gapirdi. Arslon juda kuchli va jasur edi. U tog'da yashovchi barcha hayvonlarga qarshi turardi. Suvchi daryoda yashovchi baliq haqida gapirdi. Baliq juda tez harakat qilardi va suvdan chiqqanda, uni ko'rgan odamlar qo'rqib ketishardi.
+
+Bola Suvchiga o'rmonda yashovchi hayvonlar haqida so'radi. Suvchi o'rmonda yashovchi hayvonlardan hikoya qildi. U o'rmonda yashovchi maymun haqida gapirdi. Maymun juda chapqin va tez edi. U daraxtlardan daraxtlarga sakrab, o'rmonni aylanib chiquardi. Suvchi o'rmonda yashovchi tulkilar haqida gapirdi. Tulkilar juda tez harakat qilardi va o'rmonda yashovchi barcha hayvonlarga qarshi turishardi.
+
+Bola Suvchiga cho'lda yashovchi hayvonlar haqida so'radi. Suvchi cho'lda yashovchi hayvonlardan hikoya qildi. U cho'lda yashovchi ot haqida gapirdi. Ot juda kuchli va tez edi. U cho'lda yashovchi barcha hayvonlarga qarshi turardi. Suvchi cho'lda yashovchi ilon haqida gapirdi. Ilon juda zaif va sekin edi. U cho'lda yashovchi barcha hayvonlardan qo'rqardi.
+
+Bola Suvchiga dengizda yashovchi hayvonlar haqida so'radi. Suvchi dengizda yashovchi hayvonlardan hikoya qildi. U dengizda yashovchi kit haqida gapirdi. Kit juda katta va kuchli edi. U dengizda yashovchi barcha hayvonlarga qarshi turardi. Suvchi dengizda yashovchi baliq haqida gapirdi. Baliq juda tez harakat qilardi va dengizdan chiqqanda, uni ko'rgan odamlar qo'rqib ketishardi.
+
+Bola Suvchiga havoda uchuvchi hayvonlar haqida so'radi. Suvchi havoda uchuvchi hayvonlardan hikoya qildi. U havoda uchuvchi qush haqida gapirdi. Qush juda tez uchardi va havoda yashovchi barcha hayvonlarga qarshi turardi. Suvchi havoda uchuvchi kapalak haqida gapirdi. Kapalak juda chiroyli va rangin edi. U havoda yashovchi barcha hayvonlarni yoqtirardi.
+
+Bola Suvchiga yer ostida yashovchi hayvonlar haqida so'radi. Suvchi yer ostida yashovchi hayvonlardan hikoya qildi. U yer ostida yashovchi kalamush haqida gapirdi. Kalamush juda kichik va zaif edi. U yer ostida yashovchi barcha hayvonlardan qo'rqardi. Suvchi yer ostida yashovchi sichqon haqida gapirdi. Sichqon juda tez harakat qilardi va yer ostida yashovchi barcha hayvonlarga qarshi turardi.
+
+Bola Suvchiga tabiatda yashovchi boshqa ajib va g'arib hayvonlar haqida so'radi. Suvchi tabiatda yashovchi boshqa hayvonlardan hikoya qildi. U tog'da yashovchi qoplon haqida gapirdi. Qoplon juda kuchli va jasur edi. U tog'da yashovchi barcha hayvonlarga qarshi turardi. Suvchi daryoda y

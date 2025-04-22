@@ -1,0 +1,63 @@
+<prompt>
+Please write a educational Galician children's story that is at least 1000 words long.
+It must be completely written in proper Galician (GL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'O faro que alumaba o camiño dos navegantes e contaba historias de mares e aventuras.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>gl</lang_id>
+
+```xml
+<title>O faro que alumaba o camiño dos navegantes e contaba historias de mares e aventuras.</title>
+<body>
+Nunha costa bravía, onde o Atlántico berraba con forza contra as rochas, erguíase altivo e orgulloso un faro. Non era un faro calquera; este faro, chamado Estrela do Mar, tiña unha particularidade especial: era quen de falar e de contar historias. As súas luces, alén de guiar aos navegantes nas noites escuras, eran os ollos dun contador de relatos, observando o vai e vén dos barcos, as gaivotas que voaban, e os homes e mulleres que traballaban no mar.
+
+O faro Estrela do Mar era antigo, con séculos de historias gravadas na súa pedra. A súa linterna, con lentes xigantes, iluminaba con forza, lanzando un facho luminoso que podía verse a moitas millas de distancia. Dentro da torre, a roda dentada que facía xirar a luz emitía un suave clic-clic, como un corazón latexando, un ritmo constante que marcaba o tempo e axudaba a navegar seguros.
+
+Un día, unha nena chamada Sabela, cunha melena rubia coma a area da praia e uns ollos azuis coma o mar, achegouse ao faro. Sempre escoitara falar das historias que o faro contara, contadas polos seus avós, mariñeiros de longa data. Sabela quería descubrir a maxia por si mesma.
+
+A nena, temerosa pero emocionada, subiu as esgaliñas de pedra, pasando por corredores estreitos e escuros. Sentía o cheiro a salitre, a madeira antiga, e a promesa de segredos por revelar. Cando chegou ao cumio, á sala da linterna, encontrou ao gardián do faro, un home vello de longa barba branca e ollos sabios coma as ondas do mar.
+
+- "Bo día, Sabela," dixo o gardián cun sorriso amigable. "Vexo que viñeches a escoitar as historias do faro."
+
+- "Si, por favor," respondeu Sabela, case sen respirar. "Os meus avós sempre contan as historias que o faro conta."
+
+O gardián guiñoulle un ollo e, coa axuda dunha chave dourada, abriu unha pequena porta de madeira que daba acceso ao corazón do faro. Alí, entre máquinas e engranaxes, o faro comezou a falar, con voz grave e profunda, semellante ao ruxido das ondas.
+
+- "Benvida, Sabela," dixo o faro. "Son a Estrela do Mar, e son o gardián das historias deste mar bravo. Hoxe, vouche contar a historia de Lope, o intrépido mariñeiro."
+
+A luz do faro brillou con máis intensidade e, coma se dunha película se tratase, as paredes da sala mostraron imaxes:
+
+"Lope era un mariñeiro audaz, con ollos que reflectían a inmensidade do mar. Vivía nunha pequena vila de pescadores, e o seu soño era navegar ata o fin do mundo, descubrir novos lugares e enfrontarse a grandes aventuras. Un día, partiu co seu barco, 'A Gaivota Prateada', rumbo ao descoñecido.
+
+Navegaron días e noites, pasando por tormentas e mares en calma. Lope e a súa tripulación enfrontáronse a monstros mariños, a illas cheas de tesouros e a seres máxicos. Unha vez, nunha noite escura e treboenta, foron atacados por piratas cruéis, que querían roubarlles o barco. Pero Lope, coa súa valentía e intelixencia, loitou con forza e, xunto cos seus compañeiros, lograron vencer aos piratas e salvalos do perigo.
+
+Noutra ocasión, atoparon unha illa paradisíaca, con árbores cheos de froitas descoñecidas e paxaros de cores vivas. Alí, vivían en harmonía coa natureza, aprendendo os segredos do universo. Aprenderon sobre a importancia de respectar a terra e o mar, de ser amigos dos animais e de valorar a vida en todas as súas formas.
+
+Pero, a viaxe máis importante de Lope foi a busca dun tesouro escondido, un mapa antigo que conducía a unha illa secreta, chea de riquezas e coñecemento. Seguiron o mapa, pasando por perigosos arrecifes e por fortes ventos. Finalmente, tras moito esforzo, chegaron á illa e atoparon o tesouro: unha caixa chea de libros, mapas e pergamiños antigos. Descubriron que o verdadeiro tesouro era o coñecemento, a sabedoría e a experiencia de viaxar e aprender."
+
+A luz do faro diminuíu, e as imaxes desapareceron. Sabela escoitara a historia con emoción, e miraba ao faro con ollos brillantes.
+
+- "E que pasou despois?" preguntou Sabela, ansiosa por coñecer o final.
+
+- "Lope, volveu á súa vila e contouno todo. Usou o coñecemento que gañou para axudar aos demais e para ensinar aos máis pequenos a importancia da valentía, da amizade e do respecto pola natureza." respondeu o faro, coa súa voz profunda. "E o máis importante, transmitiu o amor polo mar e pola aventura."
+
+- "Que historia tan fermosa!" exclamou Sabela. "Quero ser coma Lope."
+
+O faro sorriu con intensidade.
+
+- "O mar ten moitas historias máis por contar, Sabela. Hai historias de sereas, de illas encantadas, de monstros mariños, de heroes e de traidores. Historias de amor, de perdas, de superación e de esperanza. Cada noite, mentres alumeo o camiño dos navegantes, cóntoos todas elas."
+
+O gardián do faro, mentres tanto, observaba con orgullo a nena. Sabía que estaba a presenciar un momento máxico, un momento que cambiaría a vida de Sabela para sempre.
+
+- "Se queres, Sabela, podes vir cada noite e escoitar as historias que o faro conta. Aprenderás moitas cousas, e descubrirás que o mundo é moito máis grande e marabilloso do que imaxinas."
+
+Sabela aceptou, prometendo volver cada día. Desde aquel día, a vida de Sabela cambiou por completo. Cada noite, subía ao faro e escoitaba as historias que o faro contabas. Aprendeu sobre a importancia da valentía, da amizade, da honradez e do respecto polo medio ambiente. Descubriu a paixón pola lectura e pola historia. Comezou a escribir os seus propios contos, inspirados nas historias do faro, e os seus pais, orgullosos, animárona sempre.
+
+A Estrela do Mar e Sabela tornáronse grandes amigos. O faro, coa súa luz cálida e constante, guiaba non só aos navegantes, senón tamén a Sabela, indicándolle o camiño da sabedoría, da felicidade e da realización persoal. A nena creceu e converteuse nunha escritora famosa, que viaxou polo mundo contando historias inspiradas nas aventuras de Lope e nas outras historias que aprendera no faro. E cada vez que se acercaba a costa da súa vila, sempre se volvía para ver a luz do faro, o recordo da súa infancia, o contador de historias que sempre a inspiraría a escribir, a imaxinar e a navegar pola inmensidade da vida. E así, o faro Estrela do Mar continuou alumeando o camiño dos navegantes e contanto historias de mares e aventuras, lembrando para sempre a Sabela e a súa paixón pola maxia do coñecemento.
+</body>
+```

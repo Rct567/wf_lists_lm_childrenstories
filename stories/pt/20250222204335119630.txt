@@ -1,0 +1,29 @@
+<prompt>
+Please write a silly Portuguese (Portugal) children's story that is at least 1000 words long.
+It must be completely written in proper Portuguese (Portugal) (PT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'O Mercado de Sonhos de Faro'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>pt</lang_id>
+
+<title>O Mercado de Sonhos de Faro</title>
+<body>
+O Mercado de Sonhos de Faro era um lugar mágico, escondido atrás de uma enorme figueira centenária, com raízes que abraçavam a terra como braços amigos.  Não se podia chegar lá de carro, nem de autocarro, nem de comboio.  Só se podia chegar a pé, e com muita paciência, seguindo o cheiro a pastelaria recém-assada e a sonhos coloridos.
+
+A entrada era um arco de flores vibrantes, que mudavam de cor ao longo do dia, um espectáculo que encantava as crianças e os adultos que por ali se aventuravam.  Do lado esquerdo, encontrava-se o stand de Sonhos de Chocolate, onde os sonhos eram feitos de chocolate amargo, chocolate com leite e até de chocolate branco, cada um com um sabor único e com a promessa de aventuras fascinantes.  Do lado direito, o stand de Sonhos de Flores, um lugar perfumado onde as crianças podiam criar os seus próprios sonhos a partir de pétalas de rosas, jacintos e violetas, todas elas com cores fantásticas e aromas que prometiam mundos sonhadores e cheios de poesia.
+
+No meio do mercado, erguia-se um balcão especial, o Balcão dos Sonhos Personalizados.  Lá, um velho vendedor, o Sr. António, um homem com um nariz comprido e um sorriso enorme, criava sonhos sob medida.  Com um simples olhar para a criança, o Sr. António adivinhava o desejo mais profundo e tecia um sonho a partir de fios de algodão colorido, de miçangas brilhantes e de pedaços de papel colorido.  Uma menina, a Sofia, com os olhos cheios de brilho, queria um sonho onde voasse por cima das montanhas de Faro, observando os golfinhos a dançar nas águas azuis. O Sr. António, com a agilidade de um mágico, fez-lhe um sonho de algodão, azul turquesa, com miçangas de prata que representavam os golfinhos, e um papel dourado que representava as montanhas.  O sonho era perfeito!
+
+Numa das bancas, a D. Maria, com mãos delicadas e olhos sábios, vendia sonhos em forma de pastéis de nata.  Cada pastel era uma experiência única, um aroma delicioso, uma viagem a um mundo de sabores e cores.  Um rapaz, o João, queria um sonho de pastel de nata recheado de aventuras em que ele era o capitão de um navio pirata, navegando pelos mares sem fim, à procura de tesouros escondidos.  D. Maria, com uma risada amiga, criou-lhe um pastel de nata com cobertura de açúcar colorido que se transformava em mapas do tesouro quando o pastel de nata era comido.
+
+Mas o Mercado de Sonhos de Faro tinha mais do que doces e sonhos coloridos.  Havia também o stand do Sr. Bernardo, o fabricante de bonecos de madeira, que esculpia bonecos que eram capazes de realizar qualquer sonho. Uma menina, a Inês, queria um boneco que lhe ajudasse a falar com os animais.  O Sr. Bernardo, com o seu cinzel e a sua paciência infinita, criou-lhe um boneco de madeira com um ar misterioso e um olhar penetrante, capaz de tornar os seus desejos realidade.
+
+À medida que o sol se punha, pintando o céu com tons de laranja e rosa, o Mercado de Sonhos de Faro tornava-se ainda mais encantador.  As luzes de velas acendiam-se, transformando o mercado num jardim mágico, cheio de sombras e segredos.  As crianças, com os seus sonhos coloridos, caminhavam de mãos dadas, os seus rostos iluminados pela alegria.  Os adultos, com os olhos cheios de admiração, recordavam os sonhos da sua infância, e os seus próprios sonhos, guardados no fundo da alma.
+
+E à medida que a noite caía, o Mercado de Sonhos de Faro fechava as suas portas, mas os sonhos que ali foram criados, continuavam a voar pelos céus de Faro, trazendo alegria e esperança a todos. O Mercado de Sonhos existia apenas nas mentes imaginativas das crianças, mas o poder da imaginação, como um raio de sol, iluminava os seus corações, e as suas histórias, que se repetiam de geração em geração, faziam o Mercado de Sonhos de Faro um lugar mágico e inesquecível.
+</body>

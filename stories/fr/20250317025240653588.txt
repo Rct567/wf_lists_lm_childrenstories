@@ -1,0 +1,76 @@
+<prompt>
+Please write a simple and easy-to-follow French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'L'Île Mystérieuse des Enfants et les Trésors Cachés'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```xml
+<title>L'Île Mystérieuse des Enfants et les Trésors Cachés</title><body>
+Il était une fois, dans une mer turquoise et scintillante, une île appelée "Île Joyeuse". L'Île Joyeuse était un endroit spécial, car elle était habitée uniquement par des enfants ! Il n'y avait ni parents, ni grands-parents, juste des enfants de tous les âges, qui vivaient ensemble, jouaient ensemble et apprenaient ensemble.
+
+Chaque matin, le soleil brillait sur les plages de sable blanc. Les enfants se réveillaient dans leurs petites maisons colorées, construites avec des coquillages, des fleurs et des morceaux de bois flotté. Ils se précipitaient ensuite sur la plage pour commencer leur journée.
+
+Parmi tous ces enfants, il y avait trois amis inséparables : Zoé, une petite fille avec des cheveux blonds ensoleillés et des yeux pétillants ; Léo, un garçon courageux et aventureux avec des cheveux bruns et un sourire espiègle ; et Mia, une fille curieuse et intelligente, avec des tresses noires et de grandes lunettes.
+
+Un beau matin, alors qu'ils construisaient un château de sable gigantesque, Zoé trouva une petite bouteille en verre, à moitié enfouie dans le sable. Intriguée, elle l'ouvrit avec précaution. À l'intérieur, il y avait un petit parchemin enroulé.
+
+"Qu'est-ce que c'est ?" demanda Léo, les yeux brillants d'excitation.
+
+Mia, toujours la plus réfléchie, pris le parchemin et l'étudia attentivement. "C'est une carte !" s'écria-t-elle. "Regardez, il y a une croix marquée sur un endroit inconnu de l'île."
+
+La carte montrait un chemin qui serpentait à travers la jungle épaisse, passait devant une cascade tumultueuse et finissait près d'une grotte sombre. Les trois amis sentirent l'aventure les appeler. Sans hésitation, ils décidèrent de partir à la recherche du trésor caché.
+
+Ils préparèrent leur équipement : des gourdes remplies d'eau fraîche, des sandwiches pour le déjeuner, une petite lampe de poche, et une boussole. Ils partirent à l'aube, le soleil levant illuminant leur chemin.
+
+La jungle était luxuriante et pleine de vie. Des singes espiègles se balançaient d'arbre en arbre, des oiseaux aux couleurs vives chantaient des mélodies joyeuses, et des papillons magnifiques dansaient dans l'air. Zoé, Léo et Mia avançaient avec prudence, suivant attentivement la carte.
+
+Ils rencontrèrent de nombreux obstacles sur leur chemin. Ils durent traverser une rivière rugissante, en utilisant des rochers comme tremplins. Léo, le plus courageux, guida ses amis. "Allez, on peut le faire !" encourageait-il. Ils grimpèrent sur des collines escarpées, glissèrent sur des rochers mous, et esquivèrent les branches basses des arbres.
+
+Plus tard, ils atteignirent la cascade, dont l'eau tombait avec fracas dans un bassin en contrebas. C'était magnifique ! Ils prirent une courte pause pour se rafraîchir et manger leurs sandwiches.
+
+"On approche du but !" dit Mia, en pointant la carte. "La grotte est juste là-bas."
+
+Ils repartirent, le cœur battant d'impatience. Après une longue marche, ils arrivèrent devant l'entrée de la grotte. Elle était sombre et mystérieuse. L'air était frais et humide, et ils sentaient une odeur étrange et excitante.
+
+Léo alluma la lampe de poche et ils entrèrent prudemment. L'intérieur de la grotte était impressionnant. Des stalactites pendaient du plafond comme des dents de géant, et des stalagmites se dressaient sur le sol. L'endroit était rempli de reflets brillants des cristaux.
+
+Ils suivirent le chemin indiqué sur la carte, qui les mena au fond de la grotte. Là, dans une niche rocheuse, ils trouvèrent… un coffre au trésor !
+
+Le coffre était en bois précieux, orné de décorations dorées et d'un cadenas rouillé. Léo essaya de l'ouvrir, mais il était trop solide. "Pas de panique !" dit Mia, sortant de son sac un petit outil multifonction. "J'ai toujours un peu de quoi aider."
+
+Elle manipula avec soin l'outil, fit sauter le cadenas, et finalement, le coffre s'ouvrit avec un grincement. Le cœur battant, les enfants regardèrent à l'intérieur.
+
+Ils s'attendaient peut-être à des pièces d'or, des bijoux scintillants ou des pierres précieuses. Mais ce qu'ils trouvèrent fut bien plus précieux que de l'or : une pile de vieux livres, un ensemble de crayons de couleur, des feuilles de papier vierges, et des petits instruments de musique !
+
+"Ce n'est pas de l'or, mais c'est fantastique !" s'exclama Zoé, les yeux brillants.
+
+Léo, un peu déçu au début, comprit la signification du trésor. "C'est un trésor d'idées et de créativité !" dit-il, souriant.
+
+Mia était la plus heureuse. Elle adorait lire et écrire. "Nous pourrons écrire nos propres histoires, peindre des tableaux magnifiques, et composer de la musique ! Nous allons créer des choses incroyables !"
+
+Ils rapportèrent le trésor à l'Île Joyeuse. Ensemble, tous les enfants de l'île découvrirent le plaisir de la lecture, de l'écriture, de la peinture et de la musique. Ils apprirent à jouer des instruments, à inventer des chansons, à raconter des histoires incroyables, et à dessiner des tableaux magnifiques. L'île se transforma en un lieu encore plus joyeux, rempli de rires, de créativité et de bonheur.
+
+Zoé, Léo et Mia étaient fiers d'avoir trouvé le trésor caché, mais ils comprirent que le véritable trésor résidait dans l'amitié, l'imagination et la joie de créer. Chaque jour, ils inventaient de nouvelles aventures, écrivaient des histoires passionnantes et peignaient des paysages merveilleux.
+
+Un soir, alors que le soleil se couchait, colorant le ciel de nuances orangées et roses, les trois amis étaient assis sur la plage, contemplant l'océan.
+
+"L'Île Joyeuse est le plus beau des trésors," dit Zoé, en souriant.
+
+"Oui, et notre amitié est le trésor le plus précieux de tous," ajouta Léo.
+
+Mia hocha la tête, les yeux remplis de bonheur. "Grâce à nous, l'Île Joyeuse est devenue un endroit encore plus spécial, un lieu où l'imagination n'a pas de limites."
+
+Ils continuèrent de vivre sur l'Île Joyeuse, explorant, créant, apprenant et s'amusant ensemble. Ils savaient que de nouvelles aventures les attendaient toujours, et que leur amitié leur permettrait de surmonter tous les défis. L'Île Mystérieuse, qui était maintenant l'Île Joyeuse, restait pour toujours un symbole de la puissance de l'amitié et de la créativité. Et de temps en temps, lorsqu'un nouvel enfant arrivait sur l'île, ils partageaient l'histoire du trésor caché et de l'aventure extraordinaire qui l'avait révélé. Et ainsi, l'histoire de l'Île Joyeuse se transmettait de génération en génération, rappelant à tous les enfants l'importance de l'amitié, de la créativité et de la joie de vivre.
+
+Et ils vécurent heureux pour toujours sur l'Île Joyeuse.
+
+La fin.
+</body>
+```

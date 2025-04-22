@@ -1,0 +1,49 @@
+<prompt>
+Please write a simple and easy-to-follow Basque children's story that is at least 1000 words long.
+It must be completely written in proper Basque (EU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Iparraldeko izeiak eta haien ipuin'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>eu</lang_id>
+
+<title>Iparraldeko izeiak eta haien ipuin</title>
+<body>Iparraldeko izeiak eta haien ipuin aspaldian hasi zen, ilunpean eta isiltasunean, non bizi ziren izei txikiak. Izei hauek oso txikiak ziren, baita oso ausartak ere. Euren bizitza osoa basoan igarotzen zuten, zuhaitzak eta landareak ikertzen eta haien arteko sekretuak bilatzen.
+
+Izei txikien artean, batek nabarmentzen zen, hura zen Kepa. Kepa oso lotsati eta bakar-bakarrekoa zen, baina baita oso jakintsu ere. Eta gau batean, Kepak zer ikusi zuen! Ilargi betearen argitan, basoan zehar mugitzen zen izei baten itzala. Itzala oso handia zen, eta Kepak pentsatu zuen izaki handi bat zela, basoan bizi zena.
+
+Kepa hurbildu zen itzalaren ondotik, eta ikusi zuen izei handi bat zela, ile zuria eta begi urdinak zituena. Izei handiak Kepari dei egin zion, eta esan zion: "Kepa, zu bakarrik ikusi nauzu. Zurekin hitz egin nahi dut". Kepak beldurra zuen, baina hurbildu zen izei handiaren ondotik.
+
+Izei handiak esan zion: "Kepa, ni naiz Iparraldeko izeien aita. Zu aurkitu nauzu, eta zurekin hitz egin nahi dut. Iparraldeko izei guztiak, zu bezalakoak gara, txikiak eta ausartak. Baina gaur egun, zailtasun handiak ditugu. Basoa arriskuan dago, eta guk ezer ez badugu egiten, basoa desagertuko da".
+
+Kepak adbide eman zion, eta esan zion: "Ni ez naiz inork, baina nirekin egin dezakezu. zer egin behar dugu?" Izei handiak esan zion: "Zu eta zure lagunak, basoan zehar ibili behar zarete, eta basoaren sekretuak bilatu behar zituzte. Basoak zurekin hitz eginen du, eta zuri esaten dizu zer egin behar duzu".
+
+Kepak esan zion: "Ados, nire lagunekin ibiliko naiz, eta basoaren sekretuak bilatuko ditut". Izei handiak esan zion: "Zu ausarta zara, Kepa. Zu eta zure lagunak, basoaren salbatzaileak izango zarete". Kepak esan zion: "Ni ez naiz bakarrik, nire lagunak ere baditut. Guztiok elkarrekin ibiliko gara, eta basoa salbatuko dugu".
+
+Hurrengo egunean, Kepak dei egin zion bere lagunei, eta esan zien: "Lagunak, iparraldeko izeien aita aurkitu dut, eta esan dit basoan zehar ibiltzeko eta basoaren sekretuak bilatzeko". Lagunek adbide eman zioten, eta basoan zehar hasi ziren ibiltzen.
+
+Ibilbidean zehar, izei txikiak hainbat gauza ikusi zituzten. Ikusi zituzten zuhaitzak, landareak, eta animaliak. Baina ez zituzten ikusi basoaren sekretuak. Kepak esan zion bere buruari: "Non daude sekretuak? Ez ditugu ikusi". Baina bere lagunetako batek esan zion: "Kepa, sekretuak ezkutuan daude. Bilatu behar ditugu".
+
+Kepak esan zion: "Zergatik ezkutuan daude? Zergatik ez ditugu ikusi?" Lagunetako batek esan zion: "Sekretuak ez dituzte inork ikusi nahi. Sekretuak bakarrik ikusten ditu zu, Kepa". Kepak esan zion: "Ni bakarrik? Zergatik ni?" Lagunetako batek esan zion: "Zu ausarta zara, Kepa. Zu bakarrik ikusten duzu basoaren bihotza".
+
+Kepak pentsatu zuen, eta esan zion bere buruari: "Basoaren bihotza? Zein da basoaren bihotza?" Baina bere lagunetako batek esan zion: "Basoaren bihotza zuhaitz handia da, basoaren erdian dagoena". Kepak esan zion: "Zuhaitz handia? Zein da zuhaitz handia?"
+
+Lagunetako batek esan zion: "Zuhaitz handia da basoaren erdian dagoena. Zuhaitz handiak begiak ditu, eta basoaren sekretuak ikusten ditu". Kepak esan zion: "Begiak? Zein da zuhaitz handiaren begiak?" Lagunetako batek esan zion: "Zuhaitz handiaren begiak ilargiaren argia dira. Ilargiaren argiak basoaren sekretuak ikusten ditu".
+
+Kepak pentsatu zuen, eta esan zion bere buruari: "Ilargiaren argia? Zein da ilargiaren argia?" Baina bere lagunetako batek esan zion: "Ilargiaren argia da gauaren argia. Gauaren argiak basoaren sekretuak ikusten ditu". Kepak esan zion: "Gauaren argia? Zein da gauaren argia?"
+
+Lagunetako batek esan zion: "Gauaren argia da izarrak. Izarrak basoaren sekretuak ikusten ditu". Kepak esan zion: "Izarrak? Zein da izarrek?" Lagunetako batek esan zion: "Izarrak daude zeruan. Zeruan daude basoaren sekretuak". Kepak esan zion: "Zeruan? Zein da zerua?"
+
+Lagunetako batek esan zion: "Zerua da goian dagoena. Goian dago basoaren bihotza". Kepak esan zion: "Goian? Zein da goian?" Lagunetako batek esan zion: "Goian daude mendiak. Mendiak basoaren sekretuak ikusten ditu". Kepak esan zion: "Mendiak? Zein da mendiak?"
+
+Lagunetako batek esan zion: "Mendiak daude kanpoan. Kanpoan daude basoaren sekretuak". Kepak esan zion: "Kanpoan? Zein da kanpoan?" Lagunetako batek esan zion: "Kanpoan daude itsasoak. Itsasoak basoaren sekretuak ikusten ditu". Kepak esan zion: "Itsasoak? Zein da itsasoak?"
+
+Lagunetako batek esan zion: "Itsasoak daude urrun. Urrun daude basoaren sekretuak". Kepak esan zion: "Urrun? Zein da urrun?" Lagunetako batek esan zion: "Urrun daude basoaren mugak. Basoaren mugak basoaren sekretuak ikusten ditu". Kepak esan zion: "Basoaren mugak? Zein da basoaren mugak?"
+
+Lagunetako batek esan zion: "Basoaren mugak daude inguruan. Inguruan daude basoaren sekretuak". Kepak esan zion: "Inguruan? Zein da inguruan?" Lagunetako batek esan zion: "Inguruan daude zuhaitzak. Zuhaitzak basoaren sekretuak ikusten ditu". Kepak esan zion: "Zuhaitzak? Zein da zuhaitzak?"
+
+Lagunet

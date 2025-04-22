@@ -1,0 +1,54 @@
+<prompt>
+Please write a educational Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Czarodziejskie Książki i Czytelnicze Opowieści'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pl</lang_id>
+
+```xml
+<title>Czarodziejskie Książki i Czytelnicze Opowieści</title><body>
+Dawno, dawno temu, w sercu pachnącej lipami wioski o nazwie Słoneczne Polany, mieszkała mała dziewczynka o imieniu Zosia. Zosia uwielbiała czytać. Jej pokój, mały jak domek dla lalek, zawsze pełen był książek. Od grubych, oprawionych w skórę tomów po cienkie, z pozaginanymi rogami, każda książka kryła w sobie niezwykłą przygodę.
+
+Pewnego słonecznego popołudnia, kiedy promienie słońca wlewały się przez okno, Zosia grzebała w biblioteczce. Jej palce sunęły po grzbietach książek, aż w końcu natrafiły na coś zupełnie wyjątkowego. Była to stara, zniszczona książka, oprawiona w wytartą, granatową okładkę, ozdobioną złotymi literami, które układały się w tajemniczy tytuł: "Czarodziejskie Księgi".
+
+Zosia ostrożnie wyjęła książkę. Jej kartki były żółte i kruche, jakby ktoś je często dotykał. Kiedy tylko otworzyła książkę, poczuła lekki powiew wiatru, który wniósł do pokoju zapach jaśminu i... czekolady! Na pierwszej stronie widniał obraz małej dziewczynki, bardzo podobnej do Zosi, stojącej przed wysoką, drewnianą bramą. Pod obrazkiem widniał krótki napis: "Wejdź i odkryj!".
+
+Zosia, zaintrygowana, przetarła oczy i zaczęła czytać. Nagle, strona zaczęła świecić, a obrazek na niej ożył! Dziewczynka z obrazka uśmiechnęła się do Zosi i zaprosiła ją do wejścia przez bramę. Zosia, choć trochę przestraszona, postanowiła zaryzykować. Kiedy spojrzała na książkę ponownie, poczuła, jakby jej pokój zaczął wirować.
+
+W mgnieniu oka, Zosia znalazła się przed tą samą drewnianą bramą, co dziewczynka z obrazka. Z otwartymi ustami, spojrzała wokoło. Zamiast znanego jej pokoju, otaczał ją przepiękny ogród, pełen kwitnących kwiatów o niesamowitych kolorach. W powietrzu unosił się zapach dojrzałych owoców i słodkich perfum.
+
+Za bramą czekała na nią dziewczynka z obrazka, która przedstawiła się jako Elżbieta, opiekunka Magicznej Biblioteki. "Witamy w Czytelniczym Królestwie!" – powiedziała Elżbieta z uśmiechem. "To tutaj, w Magicznej Bibliotece, książki nie tylko opowiadają historie, ale również je ożywiają!"
+
+Elżbieta wytłumaczyła Zosi, że "Czarodziejskie Księgi" to wyjątkowe książki, które zabierają czytelników do świata, w którym rozgrywa się historia. Mogą stać się postaciami, zwiedzać miejsca, poznawać bohaterów i przeżywać przygody razem z nimi. Ale ostrzegła Zosię, że należy bardzo uważać, gdyż każda decyzja podjęta w książkowym świecie, może mieć wpływ na całą historię.
+
+Pierwszą księgą, do której zaprosiła Elżbieta Zosię, była "Przygody Kota w Butach". Zosia i Elżbieta znalazły się w barwnej wiosce, pełnej ruchliwych kotów, w której Zosia zamieniła się w młodą dziewczynę, która ma uratować kota, którego król zamknął w wieży. Zosia musiała rozwiązywać zagadki, używać sprytu i pomysłowości. Dowiedziała się, jak ważna jest przyjaźń i lojalność. Razem z bohaterami z książki przechytrzyła złego króla, uwolniła kota i doprowadziła do szczęśliwego zakończenia.
+
+Kolejną księgą, którą otworzyły, były "Niezwykłe Wyprawy Sindbada Żeglarza". Tym razem Zosia i Elżbieta, jako dzielne towarzyszki Sindbada, przemierzały morza i oceany, spotykając potwory morskie, mierząc się z burzami i odkrywając tajemnicze wyspy. Przeżyły strach, ale i niezwykłe emocje, nauczyły się odwagi i determinacji w obliczu trudności. Przez długą podróż dowiedziały się o egzotyce dalekich krajów, o gwiazdozbiorach i nawigacji.
+
+Pewnego dnia, Zosia i Elżbieta znalazły w bibliotece księgę zatytułowaną "Sekret Kwiatowej Doliny". Tym razem przeniosły się do magicznej doliny, gdzie kwiaty mówiły i śpiewały. Niestety, zła czarownica rzuciła klątwę na dolinę, sprawiając, że kwiaty zaczęły więdnąć. Zosia i Elżbieta, aby uratować kwiatową dolinę, musiały odnaleźć ukryty klejnot. Czekała je pełna niebezpieczeństw wędrówka, podczas której poznawały zasady botaniki, dowiadywały się, jak ważne jest dbanie o naturę i poznawały tajniki tworzenia eliksirów. Wspólnie znalazły klejnot, rozproszyły klątwę, i kwiatowa dolina odzyskała dawne piękno.
+
+Każda z książek, do których trafiały Zosia i Elżbieta, była inną przygodą, inną lekcją. Razem walczyły ze smokami, poszukiwały skarbów, poznawały królewskie dwory i zwykłe wioski. Nauczyły się historii, geografii, biologii i wielu innych przedmiotów. Najważniejsze jednak, nauczyły się, jak ważne jest czytanie, jak książki otwierają oczy na świat, uczą wrażliwości i wyobraźni.
+
+Wraz z upływem czasu, Zosia stawała się coraz bardziej pewna siebie i odważna. Zyskała również dar rozpoznawania nieprawdziwych opowieści, rozróżniania dobra od zła, a to za sprawą niezwykłych książek. Z każdą kolejną przygodą, Zosia i Elżbieta umacniały swoją przyjaźń, stając się nieodłącznymi towarzyszkami.
+
+Pewnego wieczoru, gdy Zosia i Elżbieta przeglądały nową książkę, poczuły nagle mocny powiew wiatru. Biblioteka zaczęła się trząść. "To nie jest normalne!" – krzyknęła Elżbieta. Ze strachu książka zaczęła świecić jasnym światłem. Na stronach pojawiały się czarne plamy.
+
+"Ktoś próbuje zniszczyć Magiczne Królestwo!" - powiedział głos, który rozbrzmiał w ich głowach.
+
+Zosia i Elżbieta wiedziały, że muszą działać. Wiedziały, że zagrożenie może się pojawić tylko w prawdziwym świecie. Ktoś chciał zabrać moc książek. Przeniosły się do świata realnego. Sprawcą okazał się nieuczciwy bibliotekarz, który chciał zniszczyć Magiczne Królestwo, by wzbogacić się na wyjątkowych książkach. Bibliotekarz wierzył, że to on powinien mieć kontrolę nad Magią Książek.
+
+Zosia i Elżbieta musiały stanąć do walki z bibliotekarzem, udowadniając, że prawdziwą magią jest wiedza, przyjaźń i dobroć. Walczyły słowem, opowieścią, wykorzystując wszystko, czego nauczyły się podczas swoich przygód. W końcu przekonały bibliotekarza, że to, co robi, jest złe. Zrozumiał swój błąd i obiecał naprawić wyrządzone szkody.
+
+Po uratowaniu Magicznego Królestwa Zosia wróciła do swojego pokoju. Wróciła, jako mądrzejsza, silniejsza i bardziej pewna siebie osoba. "Czarodziejskie Księgi" nadal czekały na nią w biblioteczce. Zosia wiedziała, że każda z nich to kolejna niesamowita przygoda, kolejna podróż do świata pełnego wyobraźni.
+
+Od tego dnia Zosia dzieliła się swoimi przygodami z innymi dziećmi. Zorganizowała klub czytelniczy, gdzie razem z przyjaciółmi odkrywali nowe historie. Uczyła dzieci, jak ważne jest czytanie, jak rozwija wyobraźnię i wzbogaca życie. Wierzyła, że magia książek jest w każdym z nas, trzeba tylko otworzyć odpowiednią książkę i pozwolić się ponieść fantazji.
+
+I tak, historia małej Zosi i jej "Czarodziejskich Ksiąg" stała się legendą w Słonecznych Polanach. Mówi się, że w każdą księżycową noc można usłyszeć szelest kartek i poczuć zapach jaśminu i czekolady, a w powietrzu unosi się cichy głos Zosi, opowiadającej o swoich czytelniczych przygodach, zachęcając wszystkie dzieci do odkrywania tajemnic ukrytych w książkach. A wszystko to zaczęło się od starej, granatowej książki z złotymi literami: "Czarodziejskie Księgi".
+</body>
+```

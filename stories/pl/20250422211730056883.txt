@@ -1,0 +1,68 @@
+<prompt>
+Please write a silly Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Jak Kot Bonifacy Odkrył Wakacje'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pl</lang_id>
+
+```xml
+<title>Jak Kot Bonifacy Odkrył Wakacje</title>
+<body>
+Pewnego razu, w malutkim, kolorowym miasteczku o nazwie Babeczki, mieszkał niezwykły kot. Nazywał się Bonifacy, i choć był puszysty, szary jak mgła o poranku i miał błyszczące, zielone oczy, to wcale nie był zwyczajny. Bonifacy miał problem. Miał… nudę. A przynajmniej tak mu się wydawało. Codziennie wstawał, przeciągał się leniwie na pluszowym fotelu w kształcie ogromnej truskawki, potem zjadał miseczkę kremowego jogurtu, a następnie… no właśnie, co potem? Polowanie na myszy wbrew pozorom nie wchodziło w grę – myszy w Babeczkach były przeważnie zrobione z marcepanu i wcale nie chciały się dać złapać.
+
+Bonifacy tęsknił za czymś. Za przygodą, za ekscytacją, za… wakacjami! Ale cóż to takiego te wakacje? Słyszał o nich od Pana Franciszka, który miał w Babeczkach cukiernię i uwielbiał opowiadać historie, często nie do końca prawdziwe. Pan Franciszek mówił o słońcu, ciepłym piasku, wielkich, kolorowych parasolach i lodach o smakach tak niesamowitych, że sam Bonifacy z przejęciem słuchał, mrucząc pod nosem.
+
+Pewnego upalnego dnia, Bonifacy, siedząc na parapecie okna i wzdychając głęboko, ujrzał coś niezwykłego. Pani Zofia, sąsiadka, która miała królika o imieniu Fryderyk, przygotowywała się do czegoś. Królik Fryderyk, znany z tego, że uwielbiał zakładać okulary przeciwsłoneczne i czytać gazety, nerwowo skakał w kółko wokół Pani Zofii. Pani Zofia natomiast pakowała ogromną walizkę, z której wystawały różowe gumowce, zielony kapelusz z pomponem i… banan!
+
+Bonifacy, zaciekawiony, podreptał ostrożnie w kierunku drzwi. Przeskoczył przez próg, obok doniczki z bazylią (której zapach uwielbiał, ale udawał, że nie) i zgrabnie wślizgnął się do ogrodu. Usiadł w cieniu kwitnącej malwy i obserwował poczynania Pani Zofii.
+
+- No, Fryderyku, jesteś gotów na najwspanialsze wakacje pod słońcem? - powiedziała Pani Zofia, głaszcząc królika po miękkich uszach.
+
+Bonifacy zamruczał. „Wakacje… To musi być coś naprawdę wyjątkowego!”
+
+Nagle, Fryderyk, z wyrazem zdecydowania na pyszczku, wyrwał się Pani Zofii i pobiegł w kierunku starej, drewnianiej skrzyni, która stała zapomniana w kącie ogrodu. Fryderyk, pchając skrzynię z wszystkich sił, a raczej ze wszystkich króliczych sił, przewrócił ją. Z wnętrza wyskoczyła… mapa! Mapa dziwna, bo narysowana na pergaminie i pełna tajemniczych symboli.
+
+Bonifacy, który już zdążył podbiec, aby zbadać sprawę, spojrzał na mapę z zainteresowaniem. „Ciekawe… gdzie to prowadzi?” - pomyślał.
+
+Pani Zofia, widząc ten nagły zwrot akcji, zmartwiła się. – Fryderyku, co ty wyprawiasz? Mamy się spakować i jechać!
+
+Jednak Fryderyk był nieugięty. Skakał wokół mapy, piszcząc i wskazując łapką na pewne miejsce, które wyglądało jak… plaża!
+
+Bonifacy, kierując się ciekawością, a może chęcią dołączenia do przygody, wskoczył na walizkę Pani Zofii i schował się w niej dyskretnie, przykrywając się zielonym kapeluszem z pomponem.
+
+- No dobra, Fryderyku, skoro tak chcesz… - powiedziała Pani Zofia, podnosząc mapę i wkładając ją do torby podróżnej. – Ale najpierw… pączki!
+
+W tym momencie Bonifacy, w głębi walizki, wzdrygnął się. Pączki? Cóż to miało być? To był dla niego prawdziwy dylemat. Kochal jogurt, ale… Pączki! Zdecydowanie coś z nimi trzeba było zrobić.
+
+Cała trójka (Bonifacy ukryty w walizce, Pani Zofia i Fryderyk) udała się do cukierni Pana Franciszka. Pan Franciszek, jak to miał w zwyczaju, radośnie rozkwitł na widok gości i od razu zaoferował im najświeższe pączki z konfiturą malinową. Bonifacy, czując zapach unoszący się z cukierni, poczuł burczenie w brzuchu i jeszcze bardziej zintensyfikował swoje postanowienie dołączenia do przygody.
+
+Po zjedzeniu pączków (które Bonifacy przegapił, bo ukrywał się w walizce), Pani Zofia, Fryderyk i tymczasowy pasażer na gapę, czyli Bonifacy, wsiedli do pociągu. Pociąg trzasnął kołami i ruszył w stronę przygody. Bonifacy, schowany w walizce, przez szpary w pokrywie, obserwował, jak zmienia się krajobraz. Miasteczko Babeczki znikało za oknem, a zastępowały je zielone łąki, kolorowe pola i błękitne niebo.
+
+Po długiej podróży, pociąg zatrzymał się na stacji, która wyglądała jak… plaża! Piasek, słońce, parasole, a nawet… lody! Bonifacy wyskoczył z walizki (wytrzymując gniewny wzrok Pani Zofii i zaskoczenie Fryderyka) i… oszalał!
+
+To były wakacje! Tak, dokładnie takie, o jakich marzył!
+
+Pani Zofia, widząc minę Bonifacego, uśmiechnęła się. – No cóż, Bonifacy, najwyraźniej dołączyłeś do nas na wakacje.
+
+Fryderyk, zaprzyjaźniony już z Bonifacym (mimo początkowej konsternacji), podał mu okulary przeciwsłoneczne. Bonifacy założył je z gracją i ruszył w kierunku lodziarni.
+
+- Lody waniliowe dla kota, z bitą śmietaną i posypką! - zawołał Bonifacy, wskazując na lodziarza, który miał uśmiech szeroki jak morze.
+
+I tak rozpoczęły się najwspanialsze wakacje kota Bonifacego. Całe dnie spędzał na plaży, opalając się (na ile kot może się opalać), budując zamki z piasku (z pomocą Fryderyka), pływając w płytkiej wodzie i oczywiście… jedząc lody. Przez cały tydzień przeżywał niesamowite przygody. Spotkał mewy, które były bardzo rozmowne, kraby, które uciekały przed nim w popłochu, i odkrył, że w piasku kryją się muszelki, które świetnie nadają się do dekorowania jego pluszowego fotela.
+
+Wieczorami, po dniu pełnym wrażeń, wracali do pensjonatu, gdzie Pani Zofia czytała im bajki, a Fryderyk grał na swoim małym ukulele. Bonifacy, wtulony w miękkie poduszki, słuchał i mruczał z zadowolenia, wdzięczny za to, że odważył się na przygodę.
+
+Pewnego dnia, tuż przed powrotem do Babeczek, Bonifacy zauważył, że na niebie pojawił się kolorowy balon. Był on wypełniony powietrzem i wyglądał niezwykle zachęcająco. Nagle wziął sprawy w swoje ręce. Chwycił za nogę Fryderyka i z błyskiem w oku podbiegł do balonu, a następnie zaczął z całej siły skakać próbując dostać się do środka. Fryderyk, oszołomiony i spanikowany krzyczał: "Zostaw mnie w spokoju, to jest niebezpieczne!" Bonifacy jednak był nieugięty i zaczął obwijać Fryderyka sznurami od balonu, a po chwili i siebie. Pani Zofia próbowała ich zatrzymać, ale było już za późno.
+
+Balon wzniósł się w powietrze, a Bonifacy i Fryderyk pomachali na pożegnanie Pani Zofii, która machała do nich, po raz pierwszy od dawna w swoim życiu mając prawdziwe powody do uśmiechu.
+
+Lot balonem był niesamowity. Podziwiali z góry całą plażę, morze, mewy, i wszystko co związane było z ich wymarzonymi wakacjami. Lody na górze smakowały jeszcze lepiej, a muszelki zbierane w piasku stały się ich najcenniejszym skarbem.
+Bonifacy, wietrzny jak nigdy, zrozumiał, że wakacje to nie tylko słońce i lody, ale przede wszystkim przygoda, nowe doświadczenia i przyjaźń. A co najważniejsze – odkrył, że nuda to tylko stan umysłu, który zawsze można pokonać, sięgając po przygodę. I właśnie wtedy, kiedy balon powoli wracał do miasteczka Babeczki, Bonifacy poczuł… kolejną nudę! Ale tym razem uśmiechnął się. Wiedział bowiem, że w każdej chwili może wyruszyć na kolejną przygodę. Wystarczyło tylko poszukać… i uwierzyć! Koniec.
+</body>
+```

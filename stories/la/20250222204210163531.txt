@@ -1,0 +1,53 @@
+<prompt>
+Please write a simple and easy-to-follow Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'De Amore Inter Fratrem Et Sororem'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>la</lang_id>
+
+<title>De Amore Inter Fratrem Et Sororem</title>
+<body>
+In villa rustica, in medio agrorum florentium, habitabat frater et soror,  Aulus et Lucretia.  Aulus, puer robustus et hilaris, amabat ludos et venationem. Lucretia, puella delicata et serena,  delectabatur floribus et canticis.  Dicebant omnes in villa eos esse geminos, non solum in corpore, sed etiam in animo.
+
+Aulus, cum sol oriri inciperet, surrexit et in agros se contulit, insequens cervos et lepores per campos luxuriantes.  Cum sagitta in manu teneret,  vidit silvam densa et umbrosa, ubi aves cantu dulci resonabant.  Intulit se in silvam, et ibi floribus mirabilis coloris, quas nunquam antea viderat, delectavit oculos.
+
+Interea, Lucretia, in horto florentissimo,  floribus pulchris et odoratis operam dabat.  Colligebat rosas rubras, violas caeruleas, et lilia alba, delectans oculos suos et animam.  Sonabant in aurem eius melodiae dulcissimae, voces avium et susurrus venti per folia arborum.  Inveniens rosam auream, in medio horti,  exclamavit, "Quam pulchra!"
+
+Aulus, qui in silvam profundiorem se contulerat, audiit vocem Lucretiae.  Curiosus, in hortos pervenit.  Invenit sororem suam, circumdatam floribus, oculis radiantibus.  "Quid agis, Lucretia?" interrogavit.
+
+Lucretia, respiciens ad fratrem suum, dixit, "Miror te hic invenire!  Inveni rosam auream, pulchram et mirabilem."
+
+Aulus, admiratus pulchritudinem rosae, respondit, "Etiam ego vidi pulchritudines in silvis.  Quomodo te sentis?"
+
+"Gaudeo," dixit Lucretia, "in hac vita pacifica et plena amoenitate.  Tu quid sentis?"
+
+Aulus, risu hilaris, respondit, "Et ego gaudeo.  Est vita pulchra, cum soror mea."
+
+"Et ego tecum," dixit Lucretia, "frater meus carissime."
+
+In tempore, tempore meridiano,  ambos adolescentes satiati labore et gaudio,  sedebant sub umbra arboris magna.  Aulus narravit fabulam de cervo celerissimo, quem in silva viderat.  Lucretia delectavit aures auditoris suo carmine, in quo descripsit colores et figuras in horto.
+
+"Quam pulcra sunt verba tua," ait Aulus, "et quam dulcis sonus vocis tuae."
+
+"Et tua, Aule," dixit Lucretia, "verba plena sunt fortitudine et acumen."
+
+Diebus sequentibus, Aulus et Lucretia in agris et in hortis vagabantur,  cum amicitia perfecta, in qua mutua admiratio crescere videbatur.  Aulus, in admiratione sororis suae,  inceperat frui eius ingenio et eloquentia, cum Lucretia fraternum robur et virtutem admiraretur.  
+
+Inveniebant in silvis animalia,  in hortis flores, in caelo aves et nubes.  Erant in communione, in amore.  Aulus incolebat silvam et Lucretia hortos.  Amici inter se, et amantes.
+
+Una die, in medio horti, Aulus invenit arbos, cui fructus aurei pendebant.  "Quam pulchra!" exclamavit.  Lucretia, audiens voces suae fraternae, accurrens ad eum, dixit, "Quam mirabilia sunt omnia!"
+
+"Sed," inquit Aulus, "quid si isti fructus pro te essent?"
+
+"Pro me?" interrogaverunt oculis lacrymosis.
+
+Aulus, cogitans, dixit, "Si haec pro te essent, melior est vita melior."
+
+Et sic,  amicitia et amor eorum,  in villa rustica florentis,  inter fratrem et sororem,  aeternum manebant.
+</body>

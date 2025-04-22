@@ -1,0 +1,42 @@
+<prompt>
+Please write a creative and original Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Magické příběhy z malé vísky dětství'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Magické příběhy z malé vísky dětství</title>
+<body>
+Jaro se proplétalo zelenými vlnami přes pole, kde se proháněli malí, zvědaví broučci.  V srdci této zelené krajiny se skrývala malebná vesnička, Vesnice Dětství.  Byla to vesnice plná tajemství, plná smíchu, plná neobyčejných příběhů.  A právě tam, v útulném domku s červenou střechou, žila malá holčička jménem Lenka.
+
+Lenka milovala procházky.  Každý den, když se slunce probouzelo s úsměvem, vyrazila do lesa za svým kamarádem, zajímavým a trochu šibalským medvídkem Brumláčem.  Brumláč, s hnědou srstí a s velkýma, laskavýma očima, se často skrýval za starými duby, a Lenka, s košíkem plným sladkých jahod a květin, ho hledala s velkým nadšením.
+
+Jednoho slunného dopoledne, když Lenka sbírala divoké fialky, narazila na starou, kamennou studnu.  Byla zakrytá šedivým kamenem, ale Lenka, s neobyčejným odhodláním,  se ho snažila odsunout.  Kameny se s těžkým rachotem pohnuli a objevila se studnička plná zářivé, modré vody.  Voda se třpytila jako tisíce malých diamantů.
+
+"Ahoj," zašeptala Lenka.  "Co se skrýváš v tvých hloubkách?"
+
+V tu chvíli se z hlubin studně ozval tichý, tajemný hlas: "Příběhy, Lenko.  Magické příběhy, které čekají na ty, kdo ví, jak je najít."
+
+Lenka se v očích zaleskla radostí.  "Řekni mi jeden!"
+
+"Dobře," ozval se hlas.  "Příběh o ptáčku, který se ztratil."
+
+A tak, ve chvíli, kdy se Lenka naklonila nad studnu, se objevil malý, modrozelený ptáček.  Jeho křídla byla plná peří, ale jedno z nich bylo zlomené a zraněné.  Ptáček se cítil ztracený a osamělý.
+
+Lenka se s laskavostí a laskavostí ptáčka ujala.  Věděla, že ptáčka musí pomoct.  Odnesla ho do svého domečku a s láskou a trpělivostí pečovala o jeho zlomené křídlo.  Každý den ho krmila sladkým nektarovem a zpívala mu ukolébavky.
+
+Když se slunce skrývalo za horami, ptáček se s krásnou laskavostí a radostí vrátil do svého krásného lesa.  Dozvěděla se, že je to zázračný ptáče, a má jméno  Modřín.  Modřín poděkoval Lence za její laskavost a řekl jí: "Věděl jsem, že najdu laskavou duši, která mi pomůže."
+
+A tak se to stalo!  Lenka, dívka s velkým srdcem a zvědavostí, objevila tajnou sílu laskavosti.  Od té chvíle se v Vesnici Dětství rozléhaly další a další magické příběhy, které se objevovaly na základě Lenčiny laskavosti.  Příběhy o sluníčkách, která se snažila rozsvětit v temných oblacích, příběhy o proudech, které se proplétaly přes květy.  Každý příběh byl jedinečný a magický, a všichni se vztahovali k Lenčiným skutkům laskavosti.
+
+Brumláč se stále skrýval za duby, ale nyní věděl, že Lenka je více než jen kamarádka.  Je to zachránce, je to kouzelnice, je to dívka s magickým srdcem, která dokázala vnímat a dělat dobro.
+
+A tak v Vesnici Dětství, kde se stromy skláněly k zemi a kde se lesy smály v rytmu větru, se Lenka stala symbolem laskavosti a dobroty.  Její příběh se stal součástí magických příběhů, které se přenášely z generace na generaci, a nadále vzbuzovaly naději a radost ve všech srdcích.
+A když slunce zapadlo, a první hvězdy se rozzářily na obloze, Lenka věděla jednu věc:  že magie existuje, ale je v nás, v každém z nás.
+</body>

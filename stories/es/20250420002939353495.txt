@@ -1,0 +1,73 @@
+<prompt>
+Please write a uncomplicated Spanish children's story that is at least 1000 words long.
+It must be completely written in proper Spanish (ES).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Una liebre vanidosa y una tortuga que ganó con su perseverancia.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>es</lang_id>
+
+```xml
+<title>Una liebre vanidosa y una tortuga que ganó con su perseverancia.</title>
+<body>
+En un bosque verde y frondoso, donde los árboles altos tocaban el cielo y los ríos cristalinos cantaban suaves melodías, vivían muchos animales. Entre ellos, destacaban una liebre muy vanidosa y una tortuga lenta pero sabia. La liebre, con su pelaje suave y orejas largas, era conocida por su velocidad y presumía constantemente de ser el animal más rápido del bosque. La tortuga, por otro lado, con su caparazón duro y patas cortas, era conocida por su lentitud y su paciencia.
+
+Un día soleado, mientras la liebre se pavoneaba frente a los demás animales, la tortuga se acercó con una sonrisa amable.
+
+—¡Hola, señorita Liebre!—dijo la tortuga, con su voz tranquila.
+
+La liebre, con una mueca de superioridad, respondió: —¡Oh, hola, tortuga! ¿Qué necesitas? Seguro que vienes a admirar mi velocidad.
+
+La tortuga asintió. —Es verdad que eres muy veloz, pero… ¿por qué no organizamos una carrera? Para demostrar quién es verdaderamente el más rápido.
+
+La liebre soltó una carcajada. —¡Ja, ja, ja! ¿Una carrera? ¿Conmigo? ¡Eso es ridículo! Ganaré en un abrir y cerrar de ojos.
+
+La tortuga, sin inmutarse, respondió: —No subestimes a nadie. La perseverancia y la constancia también son importantes. Si me das la oportunidad, te demostraré que a veces, la lentitud gana a la velocidad.
+
+La liebre, motivada por su vanidad y por la certeza de su victoria, aceptó el desafío. —¡Acepto! Mañana al amanecer, en el claro del bosque, la carrera comenzará. ¡Y verás quién es el más rápido!
+
+Al día siguiente, al amanecer, muchos animales se reunieron en el claro del bosque para presenciar la carrera. La liebre, confiada y llena de energía, se estiró y se preparó para correr. La tortuga, con calma, se colocó en la línea de salida.
+
+—¡A sus marcas, listos, ya!—gritó el zorro, que actuaría como juez de la carrera.
+
+La liebre, en un instante, salió disparada como un rayo, dejando atrás a la tortuga. Los espectadores exclamaron asombrados ante la velocidad de la liebre, que desapareció rápidamente de la vista. La tortuga, por otro lado, comenzó a caminar lentamente, un paso a la vez, con determinación y sin prisa.
+
+La liebre, sintiéndose segura de su victoria, corrió sin parar hasta llegar a la mitad del recorrido. Al mirar hacia atrás y no ver a la tortuga por ninguna parte, se sintió aburrida y decidió tomarse un descanso.
+
+—¡Ya he ganado!—pensó la liebre—. No tiene sentido que corra sin parar. Me voy a echar una siesta debajo de este árbol y cuando despierte, cruzaré la línea de meta.
+
+La liebre se tumbó a la sombra del árbol, se sintió cansada por su larga carrera y se quedó profundamente dormida.
+
+Mientras tanto, la tortuga continuaba caminando, paso a paso, sin detenerse. El sol comenzó a calentar, y el camino se hizo largo. Pero la tortuga no se rindió. Recordaba las palabras que le había dicho a la liebre, sobre la importancia de la perseverancia. Sabía que tenía que seguir adelante, aunque fuera lentamente.
+
+Después de un rato, la liebre se despertó. Miró el sol y se dio cuenta de que había dormido mucho tiempo. —¡Oh, no!—exclamó, saltando de repente—. ¡Tengo que ganar la carrera!
+
+La liebre corrió con todas sus fuerzas. Al llegar a la meta, vio una escena que le heló la sangre. La tortuga, con su paso lento pero constante, ¡ya había cruzado la línea de meta! Todos los animales presentes vitorearon a la tortuga, sorprendidos y encantados por su victoria.
+
+La liebre, avergonzada y decepcionada, se dio cuenta de su error. Su vanidad y su confianza excesiva la habían llevado a perder la carrera. La tortuga, con una sonrisa amable, se acercó a la liebre.
+
+—Ves, señorita Liebre, la velocidad no siempre lo es todo. La perseverancia y la constancia pueden llevarte a lograr lo que te propones, incluso si eres lento.—dijo la tortuga.
+
+La liebre, apenada, asintió. —Tienes razón, tortuga. He aprendido una gran lección hoy. No volveré a subestimar a nadie y valoraré la importancia de la perseverancia.
+
+A partir de ese día, la liebre y la tortuga se hicieron muy buenas amigas. La liebre, con su nueva actitud, aprendió a respetar a los demás y a ser más humilde. La tortuga, por su parte, siguió siendo un ejemplo de perseverancia y demostró que la lentitud no era un obstáculo, sino una virtud.
+
+El bosque celebró la victoria de la tortuga, y desde entonces, la historia de la liebre y la tortuga se convirtió en una leyenda, un recordatorio para todos los animales, y para los niños del bosque, de que la perseverancia, la humildad y el esfuerzo constante son las claves del éxito.
+
+Los días continuaron pasando, y la liebre, arrepentida de su vanidad, empezó a utilizar su velocidad para ayudar a los demás. Ayudaba a buscar comida para los animales mayores, alertaba al bosque de peligros inminentes y participaba en juegos y actividades con los demás animales.
+
+La tortuga, por su parte, seguía siendo un ejemplo de paciencia y bondad. A menudo, guiaba a los animales más pequeños por el bosque, enseñándoles sobre las plantas, los árboles y los ríos. Compartía sus conocimientos con todos y les animaba a nunca rendirse ante las dificultades.
+
+Un día, el bosque fue amenazado por un gran incendio. Las llamas se extendían rápidamente, y muchos animales estaban en peligro. La liebre, recordando su velocidad, corrió para alertar a los demás. Utilizó toda su energía para guiar a los animales hasta un lugar seguro.
+
+La tortuga, a pesar de su lentitud, también participó. Con calma, y paso a paso, ayudó a los animales más pequeños a escapar, asegurándose de que nadie se quedara atrás.
+
+Gracias al trabajo en equipo, la valentía y la ayuda de todos los animales, incluyendo la liebre y la tortuga, el fuego fue extinguido y el bosque fue salvado. Los animales se unieron, felices y agradecidos. La liebre y la tortuga fueron aclamados como héroes, demostrando que la amistad y la colaboración pueden superar cualquier obstáculo.
+
+Desde ese día, la liebre y la tortuga se convirtieron en verdaderos símbolos del bosque, representando la importancia de la humildad, la perseverancia, la valentía y la amistad. Su historia se transmitió de generación en generación, recordándoles a todos que, independientemente de sus diferencias, el trabajo en equipo y la constancia son claves para alcanzar el éxito y construir un mundo mejor. Y así, en el corazón del bosque, la liebre vanidosa y la tortuga que ganó con su perseverancia vivieron felices para siempre, demostrando que la verdadera grandeza reside en el corazón y en la capacidad de superación.
+</body>
+```

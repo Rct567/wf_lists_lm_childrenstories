@@ -1,0 +1,35 @@
+<prompt>
+Please write a creative and original Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Dzūkijos Miško Gyvūnų ir Žmonių Draugystė'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>lt</lang_id>
+
+<title>Dzūkijos Miško Gyvūnų ir Žmonių Draugystė</title>
+<body>Dzūkijos miške, kur šaltiniai šildo ir upės teka, gyveno daugybė gyvūnų. Čia buvo miško šeimininkai - vilkai, kurie saugojo mišką nuo blogų žmonių. Tačiau šį kartą į mišką atvėjo nauji gyventojai - žmonės. Jie čia apsigyveno ir pradėjo kirsti medžius, statyti namus ir uraniumi miško gyvūnus.
+
+Miško gyvūnai buvo labai susirūpinę, kad žmonės gali jiems pakenkti. Vilkai, kurie buvo miško šeimininkai, nusprendė susitikti su žmonėmis ir pasikalbėti apie jų apsigyvenimą miške. Jie pasikalbėjo su savo draugais - meškomis, lokiais, kiškių šeima ir kitais gyvūnais. Visi jie nusprendė, kad reikia bendradarbiauti su žmonėmis ir juos mokyti, kaip gyventi miške taip, kad neišnaikintų jo.
+
+Vilkų lyderis, sūnus, kuriois vardas buvo Vilkas, nusprendė eiti pas žmones ir jiems pasakyti apie miško gyvūnų pageidavimus. Jis pasišėjo į kaimą, kur gyveno žmonės, ir ten susitiko su kaimo vyresniuoju, kurio vardas buvo Jonas. Jonas buvo geras žmogus, kuris rūpinosi miško gyvūnais ir norėjo juos saugoti.
+
+Vilkas pasakė Jonui apie miško gyvūnų pageidavimus ir paprašė, kad jis kalbėtų su žmonėmis apie tai, kad reikia saugoti mišką. Jonas pasižadėjo, kad jis padės Vilkui ir miško gyvūnams, ir kartu jie nusprendė surengti susitikimą su visais kaimo gyventojais.
+
+Susitikime dalyvavo visi kaimo gyventojai, ir Jonas pasakė jiems apie miško gyvūnų pageidavimus. Jis pasakė, kad miškas yra visų, ir kad reikia jį saugoti. Žmonės pradėjo kalbėti apie tai, kad reikia kurti mišką taip, kad neišnaikintų jo, ir kad reikia saugoti visus gyvūnus, kurie čia gyvena.
+
+Po susitikimo žmonės pradėjo bendradarbiauti su miško gyvūnais. Jie kartu statė namus, kurie buvo saugūs gyvūnams, ir kūrė takus, kuriais gyvūnai galėjo eiti. Miško gyvūnai buvo labai džiaugsmingi, kad žmonės norėjo jiems padėti, ir jie pradėjo kalbėti apie tai, kad reikia kurti draugystę tarp žmonių ir gyvūnų.
+
+Kadangi laikas einant, miško gyvūnai ir žmonės tapo labai gerais draugais. Jie kartu rengdavo šventes, kuriose dainuodavo ir šokdavo. Miško gyvūnai mokė žmones apie miško paslaptis, ir žmonės mokė gyvūnus apie savo kultūrą.
+
+Vilkas ir Jonas tapo labai gerais draugais, kurie kartu keliavo po mišką ir tyrė jo paslaptis. Jie rado naujas vietas, kur galėjo gyventi gyvūnai, ir jie kūrė saugius takus, kuriais gyvūnai galėjo eiti.
+
+Tačiau kartais atvykdavo blogi žmonės, kurie norėjo pakenkti miškui ir jo gyventojams. Bet Vilkas, Jonas ir kiti miško gyvūnai bei žmonės kartu saugojo mišką nuo tokių žmonių. Jie parodydavo jiems, kad miškas yra visų, ir kad reikia jį saugoti.
+
+Laikui po laiko Dzūkijos miškas tapo vienu iš saugiausių vietų Lietuvoje. Čia gyveno daugybė gyvūnų, ir žmonės juos saugojo. Vilkas ir Jonas tapo legендiniiais draugais, kurie parodydavo, kad draugystė tarp žmonių ir gyvūnų yra įmanoma.
+
+Ir šią dieną Dzūkijos miške gyvena daugybė gyvūnų, kurie yra saugomi žmonių. Vilkas ir Jonas vis dar yra draugai, kurie kartu keliauja po mišką ir saugo jį nuo blogų žmonių. Jų istorija yra pavyzdys visiems, kad draugystė tarp žmonių ir gyvūnų yra įmanoma, ir kad reikia saugoti visus gyvūnus, kurie gyvena miške.</body>

@@ -1,0 +1,60 @@
+<prompt>
+Please write a uncomplicated Italian children's story that is at least 1000 words long.
+It must be completely written in proper Italian (IT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Un prato fiorito dove le farfalle ballavano e le api raccoglievano il miele dorato.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>it</lang_id>
+
+```xml
+<title>Un prato fiorito dove le farfalle ballavano e le api raccoglievano il miele dorato.</title><body>
+Nel cuore delle dolci colline toscane, dove il sole baciava la terra e il vento sussurrava segreti tra gli alberi, si trovava un prato. Non un prato qualunque, no, questo era speciale. Era un prato fiorito, un mare di colori dove i petali danzavano nella brezza e i profumi si mescolavano in un'armonia inebriante.
+
+Ogni mattina, quando il sole spuntava all'orizzonte, illuminando di rosa e oro le cime degli alberi, il prato si svegliava con una nuova magia. Fiori di ogni forma e colore si aprivano, mostrando i loro volti al sole: papaveri rossi come rubini, margherite bianche come la neve, girasoli gialli come l'oro e viole viola come l'inchiostro. E, tra questi fiori, succedeva qualcosa di meraviglioso.
+
+Le farfalle, creature delicate e leggiadre, iniziavano il loro ballo mattutino. Farfalle di ogni tipo, dalle più piccole, blu come il cielo, alle più grandi, con ali decorate con disegni intricati, si alzavano in volo. Volevano sopra i fiori, volteggiando nell'aria, come piccoli frammenti di arcobaleno. Le ali battevano a ritmo della musica del vento, creando una melodia silenziosa ma potente. Si inseguivano, si sfioravano, danzando una danza antica, un rito di gioia e felicità.
+
+Tra i fiori, c'erano anche le api. Piccole e laboriose, le api volavano instancabilmente da un fiore all'altro. Le loro zampe pelose si caricavano di polline, un tesoro dorato che poi avrebbero portato ai loro alveari. Le api, con il loro ronzio costante, erano come piccole orchestre al lavoro, suonando la loro melodia produttiva mentre raccoglievano il nettare dai fiori. Quel nettare, un liquido dolce e profumato, sarebbe diventato il miele dorato, un dono prezioso della natura.
+
+Nel prato fiorito viveva una bambina di nome Sofia. Sofia amava il prato più di ogni altra cosa al mondo. Ogni giorno, non appena il sole iniziava a scaldare la terra, correva al prato, saltellando felice. Indossava sempre un vestito leggero e colorato, come se anche lei volesse essere parte della festa di fiori e farfalle.
+
+Sofia aveva una piccola coperta di tela a quadretti, che stendeva sempre sotto un grande albero di melo, all'ombra. Lì, seduta, osservava le farfalle danzare e le api raccogliere il miele. Ascoltava il dolce sussurro del vento, il ronzio delle api, il fruscio delle foglie. Era un mondo di pace e serenità.
+
+Un giorno, mentre Sofia era seduta sulla sua coperta, notò una farfalla diversa dalle altre. Era una farfalla molto grande, con le ali di un colore rosso acceso, con macchie nere come velluto. Sembrava stanca, e non ballava come le altre farfalle. Si posò delicatamente su un fiore di papavero, le ali abbassate, quasi senza forza.
+
+Sofia, con il suo cuore gentile, sentì subito compassione per la farfalla. Si avvicinò lentamente, con passi silenziosi, per non spaventarla. “Ciao, piccola farfalla,” disse Sofia con una voce dolce e gentile. “Cosa ti succede? Sembra che tu sia stanca.”
+
+La farfalla, con un leggero tremito, aprì gli occhi. “Sono stanca, bambina,” rispose la farfalla con una voce flebile. “Ho volato molto lontano e non ho più le forze per tornare a casa. E ho anche fame.”
+
+Sofia capì subito la situazione. Con molta attenzione, raccolse qualche goccia di nettare da un fiore vicino e lo offrì alla farfalla. La farfalla bevve avidamente il nettare. Sofia, poi, prese una pesca matura dalla sua borsa e ne offrì una piccola fetta alla farfalla. La farfalla, con la sua proboscide, si nutriva lentamente della frutta succosa.
+
+Mentre la farfalla mangiava, Sofia le accarezzava delicatamente le ali. Le sussurrava parole di conforto e speranza. Sentiva il calore del sole sulla sua pelle, il profumo dei fiori, e la gratitudine della farfalla.
+
+Dopo aver mangiato, la farfalla si sentì un po' meglio. Le sue ali sembravano meno pesanti. “Grazie, bambina,” disse la farfalla con gratitudine. “Mi hai salvata.”
+
+Sofia sorrise. “Sono contenta di averti aiutata,” rispose Sofia. “Dove vivi? Posso accompagnarti?”
+
+La farfalla spiegò che viveva in una valle lontana, oltre le montagne. Era un viaggio lungo e pericoloso. Sofia, però, non si spaventò. Decise subito di aiutare la farfalla a tornare a casa.
+
+Prese un piccolo ramo di legno e lo sistemò con cura sulla sua spalla. Invitò la farfalla a salire. La farfalla, con un ultimo saluto al prato fiorito, si posò delicatamente sul ramo.
+
+Sofia camminò per ore, attraverso sentieri nascosti e prati sconosciuti, parlando sempre con la farfalla per tenerla compagnia. Superarono ruscelli gorgoglianti, salirono pendii scoscesi, attraversarono boschi ombrosi. Durante il viaggio, Sofia insegnò alla farfalla i nomi dei fiori, il suono del vento, i segreti della natura.
+
+Finalmente, dopo un lungo viaggio, arrivarono alla valle. La valle era un luogo meraviglioso, un'esplosione di colori e profumi. Alberi altissimi, fiumi cristallini, cascate ruggenti, e un prato fiorito ancora più grande di quello dove Sofia viveva.
+
+La farfalla, con gli occhi lucidi di gioia, salutò Sofia. “Grazie, bambina,” disse. “Mi hai portato a casa. Non ti dimenticherò mai. Sei la mia amica.”
+
+La farfalla, poi, si alzò in volo, con ali rinate e piene di energia. Si unì alle altre farfalle, danzando e volteggiando nell'aria. Sofia la guardò allontanarsi, con un sorriso nel cuore.
+
+Sofia, stanca ma felice, tornò a casa, portando con sé il ricordo di un'avventura speciale. Sapeva che, anche se la farfalla era lontana, la loro amicizia sarebbe durata per sempre.
+
+Tornò al suo prato fiorito, salutando le farfalle e le api. Stese la sua coperta sotto l'albero di melo, si sedette e osservò il mondo. Il sole splendeva come sempre, il vento sussurrava segreti, i fiori danzavano e le api raccoglievano il miele dorato.
+
+Sofia capì che, anche se a volte le cose possono sembrare difficili, c'è sempre una soluzione. Con gentilezza, coraggio e amore, si può fare la differenza nel mondo. E ricordò le parole che le aveva detto la farfalla: “Non dimenticherò mai la tua gentilezza. Sei la mia amica, per sempre.” E da quel giorno, ogni volta che vedeva una farfalla, sapeva che nel loro ballo silenzioso, c'era un ricordo speciale di amicizia. Sapeva che il prato fiorito, con le sue farfalle danzanti e le sue api laboriose, era il posto più bello del mondo, e che la sua vita era un'avventura meravigliosa.
+</body>
+```

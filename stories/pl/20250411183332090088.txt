@@ -1,0 +1,61 @@
+<prompt>
+Please write a relatable Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Sekretne Przyjaźnie Miedzy Zwierzętami i ich Wzajemna Pomoc w Lesie'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pl</lang_id>
+
+```xml
+<title>Sekretne Przyjaźnie Miedzy Zwierzętami i ich Wzajemna Pomoc w Lesie</title>
+<body>
+Było sobie pewnego razu w głębokim, zielonym lesie. Ten las nie był zwyczajnym lasem. Był pełen tajemnic, magicznych ścieżek i niezwykłych przyjaźni. Wśród wysokich sosen, bujnych dębów i krętych jarów, mieszkali różni przyjaciele, zwierzęta o bardzo zróżnicowanych charakterach, które łączyła jedna ważna cecha: gotowość do pomocy.
+
+Na skraju lasu, w małej, przytulnej norce, mieszkała wiewiórka Zuzia. Zuzia była mała, rudowłosa i zawsze pełna energii. Jej oczy błyszczały ciekawością, a ogon, niczym czerwona strzała, trzepotał z ekscytacji. Zuzia kochała zbierać orzechy laskowe i żołędzie, ale jeszcze bardziej uwielbiała pomagać innym.
+
+Pewnego jesiennego dnia, gdy liście zaczynały złocić i spadać z drzew, Zuzia zauważyła smutną sowę Hanię. Hania, z wielkimi, mądrymi oczami, zazwyczaj siedziała na najwyższej gałęzi dębu, obserwując las. Tym razem, Hania wyglądała na zmartwioną.
+
+– Co się stało, Haniu? – zapytała Zuzia, podbiegając do niej.
+
+Hania westchnęła głęboko. – Straciłam mój najpiękniejszy pióro, to, które pomaga mi widzieć w ciemności. Bez niego, trudno mi będzie polować – odpowiedziała smutno.
+
+Zuzia od razu zaoferowała pomoc. – Pomogę ci go znaleźć! Przeszukam cały las! – krzyknęła podekscytowana.
+
+Hania uśmiechnęła się słabo. – To byłoby wspaniale, Zuziu. Dziękuję ci.
+
+I tak zaczęła się ich wspólna przygoda. Zuzia, z prędkością błyskawicy, zaczęła przeczesywać leśne runo. Wskakiwała na pieńki, zaglądała pod kamienie, a nawet węszyła w pęknięciach drzew. Mimo to, nigdzie nie mogła znaleźć pióra.
+
+W tym samym czasie, niedaleko od nich, mieszkał szary zając, Jasiek. Jasiek był trochę nieśmiały, ale miał wielkie serce i potrafił być bardzo odważny, zwłaszcza gdy chodziło o przyjaciół. Zuzia często prosiła go o pomoc, bo Jasiek był doskonałym biegaczem i widział wszystko z daleka.
+
+Gdy usłyszał wołanie Zuzi i dowiedział się o zgubionym piórze Hani, Jasiek od razu postanowił pomóc. – Szukajcie w pobliżu rzeki! – krzyknął do Zuzi. – Pióra często wpadają do wody i płyną z nurtem!
+
+Zuzia i Hania ruszyły w stronę rzeki. Tam, na brzegu, zobaczyły coś błyszczącego w słońcu. Okazało się, że to było zgubione pióro Hani! Zuzia zeskoczyła na brzeg i ostrożnie podniosła pióro, podając je sowi.
+
+Hania, wdzięczna i uradowana, wzbiła się w powietrze i krążyła nad nimi. – Dziękuję wam bardzo! Bez was, nigdy bym go nie znalazła! Jesteście wspaniałymi przyjaciółmi! – zawołała.
+
+Zadowoleni z udanej akcji, cała trójka zaczęła rozmawiać i planować, jak pomóc innym zwierzętom w lesie. Postanowili założyć Klub Pomocy Leśnej, gdzie każdy, kto potrzebował pomocy, mógł się do nich zgłosić.
+
+Wkrótce wieść o ich klubie rozniosła się po całym lesie. Do klubu dołączyło wiele innych zwierząt, takich jak lis, Witek, który potrafił rozpoznawać trujące rośliny, borsuk, Bolek, który znał najlepsze ścieżki i kryjówki, oraz wesoła sarenka, Magda, która uwielbiała pocieszać smutnych.
+
+Pewnego zimowego dnia, gdy las spowijał gruby śnieg, mały jeż, Ignacy, znalazł się w poważnych tarapatach. Zima zaskoczyła go wcześniej niż zwykle, i nie zdążył zgromadzić wystarczającej ilości pożywienia na zimowy sen. Ignacy był głodny i zmarznięty.
+
+Z pomocą przyszła cała drużyna. Wiewiórka Zuzia, z pomocą Witka, znalazła kryjówkę pełną zapasów orzechów laskowych i żołędzi. Jasiek pobiegł do pobliskiej wioski i poprosił o pomoc rolnika, który zostawił dla niego trochę warzyw. Bolek znalazł dla Ignacego ciepłe i bezpieczne schronienie. Magda przez cały czas pocieszała go i dodawała otuchy.
+
+Dzięki wspólnym wysiłkom, Ignacy przetrwał zimę. Kiedy wiosna nadeszła i śnieg stopniał, Ignacy wyszedł ze swojej kryjówki, zdrowy i silny. Był niesamowicie wdzięczny swoim przyjaciołom.
+
+Kolejnego razu, gdy wichura zerwała gniazdo bociana, Lecha, Zuzia, Jasiek, Hania i reszta gangu błyskawicznie przystąpili do działania. Witek pokazał im, które gałęzie są najlepsze, Bolek znał idealną lokalizację, w której można było ustawić nowe gniazdo, a Jasiek poprosił o pomoc swoich krewnych. Razem, wszyscy razem odbudowali gniazdo bocianów, a Lech mógł znów poczuć się bezpiecznie.
+
+Ich dobre uczynki sprawiły, że las stawał się coraz piękniejszy i bezpieczniejszy. Zwierzęta nauczyły się szanować siebie nawzajem i pomagać sobie w każdej sytuacji. Zuzia, Jasiek, Hania, Witek, Bolek, Magda i wszyscy ich przyjaciele z Klubu Pomocy Leśnej udowodnili, że prawdziwa przyjaźń i wzajemna pomoc są najcenniejszymi skarbami w lesie.
+
+Pewnego dnia, Zuzia, siedząc na gałęzi dębu razem z Hanią, spojrzała na piękny las. – Wiesz, Haniu – powiedziała – to niesamowite, jak wiele możemy zrobić razem.
+
+Hania przytaknęła. – Tak, Zuziu. To wspaniałe, że mamy siebie i że możemy na siebie liczyć. A wiesz co? To wszystko zaczęło się od zgubionego pióra.
+
+Zuzia zaśmiała się. – Tak, zgadza się! I teraz, cały czas pomagamy innym, tak jak kiedyś pomogliśmy tobie.
+
+A potem, patrząc na wschód słońca, obydwie wiedziały, że ich przyjaźń będzie trwała wiecznie, a las będzie zawsze pełen radości i szczęścia dzięki ich wspólnym działaniom i niesamowitej mocy przyjaźni. Las nadal tętnił życiem i był wspaniałym domem dla wielu zwierząt. I tak, dzień po dniu, rok po roku, zwierzęta z Klubu Pomocy Leśnej, pomagały sobie nawzajem, tworząc niezwykły i przyjazny ekosystem. Ich przyjaźń była jak najjaśniejsza gwiazda na nocnym niebie, prowadząca innych i pokazująca, że każdy z nas może uczynić świat lepszym, po prostu pomagając innym.

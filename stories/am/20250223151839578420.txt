@@ -1,0 +1,24 @@
+<prompt>
+Please write a silly Amharic children's story that is at least 1000 words long.
+It must be completely written in proper Amharic (AM).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'ሴት እና እንቅስቃሴ ያለው ገረድ'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>am</lang_id>
+
+<title>ሴት እና እንቅስቃሴ ያለው ገረድ</title>
+<body>
+ሴት እና እንቅስቃሴ ያለው ገረድ በአንድ አገር የኖረ ሴት ነበረ። ሴት ስም ማሪያም ነበረ። ማሪያም በጣም አዝናናና ሴት ነበረ። ማሪያም በገረዶቿ ጎን ትንኳን ነበረ። ገረዶቿ ስም የለው ነበረ። ገረዶቿ በጣም ለንቅስቃሴ ያለው ገረድ ነበረ።
+
+ማሪያም እና ገረዶቿ በአንድ ቀን ወደ ከተማ እየሄዱ ነበር። ከተማ ላይ ብዙ ሰው ነበረ። ማሪያም እና ገረዶቿ በሰው መካከል እየሄዱ ነበር። ገረዶቿ ከሰው ዘንድ ሊበረታ ጀመረ። ማሪያም ገረዶቿን አይቶ ስትንኳን ነበረ። ገረዶቿ ወደ ማሪያም ተመለሰ። ማሪያም ገረዶቿን እንዳያስታውስ አደረገች።
+
+ማሪያም እና ገረዶቿ ከተማ እየሄዱ ነበር። ከተማ ላይ ብዙ ቤቶች ነበሩ። ማሪያም እና ገረዶቿ በቤቶች መካከል እየሄዱ ነበር። ገረዶቿ ከቤቶች ዘንድ ሊበረታ ጀመረ። ማሪያም ገረዶቿን አይቶ ስትንኳን ነበረ። ገረዶቿ ወደ ማሪያም ተመለሰ። ማሪያም ገረዶቿን እንዳያስታውስ አደረገች።
+
+ማሪያም እና ገረዶቿ በአንድ ቤት ፊት ላይ ቆመው ነበር። ቤቱ ብዙ ገንብ ነበረ። ገረዶቿ የቤቱን ገንብ አይቶ ደስ አለ። ማሪያም ገረዶቿን አይቶ ስትንኳን ነበረ። ገረዶቿ ከቤቱ ገንብ ዘንድ ሊበረታ ጀመረ። ማሪያም ገረዶቿን አይቶ ስትንኳን ነበረ። ገረዶቿ ወደ ማሪያም ተመለሰ። ማሪያም ገረዶቿን እንዳያስታውስ አደረገች።
+
+ማሪያም እና ገረዶቿ በአንድ ምንጭ ፊት ላይ ቆመው ነበር። ምንጩ ብዙ ውሃ ነበረ። ገረዶቿ የምንጩን ውሃ አይቶ ደስ አለ። ማሪያም ገረዶቿን አይቶ ስትንኳን ነበረ። ገረዶቿ ከምንጩ ውሃ ዘንድ ሊበረታ ጀመረ። ማሪያም ገረዶቿን አ

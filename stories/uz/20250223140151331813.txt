@@ -1,0 +1,35 @@
+<prompt>
+Please write a educational Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'O'zbekistonning go'zal tabiatini himoya qilamiz'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>O'zbekistonning go'zal tabiatini himoya qilamiz</title>
+<body>
+O'zbekiston – go'zallik va boyliklarga to'la ulkan yurt.  Tog'larning baland cho'qqilari, ko'llarning sayiq suvlari, qumli cho'llarning beqiyos manzaralari,  o'rmonlarning yashil to'lqinlari – barchasi bizning vatani- O'zbekistonning o'ziga xos chiroyli qiyofasini aks ettiradi.  Bu tabiat boyliklari nafaqat bizning ko'zimizni quvontiradi, balki bizning hayotimizda muhim ahamiyatga ega.  Ular bizga havo nafas olish, suv ichish, oziq-ovqat olish va dam olish uchun zarur resurslarni taqdim etadi.
+
+Bir kuni, quyoshning porlab turgan kunida,  Yoshnoza ismli kichik qiz tog'larga sayohatga chiqdi. Uning qo'lida rang-barang gullar to'plagan kichik savati bor edi.  Yoshnoza tog'larning go'zalligiga, sayoz ko'llarning yaltirab turgan suvlari va yashil o'tloqlarning go'zal ranglariga hayron bo'lib qoldi.  O'rmonning soyasida o'ziga xos, jarangdor qushlarning qo'shiqlarini tinglayotganida, u ko'pgina qushlarning o'z uyini yo'qotib qolishidan xavotirga tushdi.
+
+Yoshnoza ko'pgina quritilgan daryolar va qulab tushayotgan daraxtlarni ko'rdi.  Bu manzaralar uning yuragini og'ritdi.  Uning qalbida tabiatga g'amxo'rlik qilish istagi paydo bo'ldi.  U o'z uyiga qaytib, onasi va otasiga bu qayg'uli ko'rinish haqida hikoya qildi.
+
+"Onajon, otajon", dedi Yoshnoza, "bizning go'zal tog'larimiz, daryolarimiz va o'rmonlarimiz halokat yoqasida. Biz ularni himoya qilmasak, kelajakda ularning go'zalligidan mahrum bo'lamiz."
+
+Ota-onalari Yoshnoza so'zlarini diqqat bilan tingladi va qizining fikrlariga qo'shildi.  Ular yosh qizning g'amxo'rligi va aqlini yaxshi ko'rdilar.  Yoshnoza ular bilan birga o'z qishlog'idagi boshqa oilalarni ham o'z tabiatga g'amxo'rlik qilishga undadi.
+
+Birgalikda ular tabiatimizni himoya qilish bo'yicha bir nechta qarorlar qabul qildilar.  Birinchidan, ular o'rmonni qo'riqlash uchun ko'proq daraxtlar ekishga qaror qilishdi.  Ikkinchidan, ular suvni tejashga intilib, suvni tejash va suvni ifloslantirishning oldini olishga qaror qilishdi.  Uchinchidan, ular chiqindilarni to'g'ri tashlash va tabiatimizni himoya qilish uchun hamma imkoniyatlardan foydalanishga va'da berishdi.
+
+Qishloqda hamma qatnashdi.  Bolalar daraxtlar ekishdi, o'rmonlarni tozalashdi va tabiatni himoya qilish bo'yicha plakatlar chizishdi.  Kattalar suvni tejashga yordam berishdi,  ifloslanishning oldini olish uchun harakat qilishdi va chiqindilarni to'g'ri tashlashni ta'minlashdi.
+
+Yoshnoza va uning do'stlari, o'sha kunlarda ko'pgina ajoyib daraxtlar ekishdi.  Ularning har bir ekkan daraxtlari kelajak avlodlarga yashil to'lqinlarni taqdim etadi va ularning go'zalligini barpo etadi.
+
+Yoshnoza o'z qishlog'ida har bir kishini tabiatga g'amxo'rlik qilishga undadi.  Uning harakatlariga boshqa qishloqlar ham qo'shildi.  Ularning hamkorligi natijasida O'zbekistonning go'zal tabiatini saqlash bo'yicha katta yutuqlarga erishildi.  Suv havzalari toza va toza, o'rmonlar yashil to'lqinlar bilan yashnab turardi,  qushlar yana ham ko'proq  jarohatlanmagan joylarida qo'shiq aytishardi.
+
+Yoshnoza va uning hamkasblari tomonidan qilingan harakatlar nafaqat ularning qishlog'ini, balki butun O'zbekistonni ham quvontirdi.  Ular tabiatimizni himoya qilish uchun birgalikda harakat qilishning ahamiyatini namoyish etdilar.  Bizning go'zal tabiatimiz butun dunyo uchun bir o'ziga xos ahamiyatga ega.  Ular bizga havo nafas olish, suv ichish, oziq-ovqat olish, go'zallikdan bahramand bo'lish va dam olish uchun zarur resurslarni taqdim etadi.  Biz ularni himoya qilishimiz va o'z tabiatimizni kelajak avlodlarga berishimiz lozim.  Shu bois, O'zbekistonning go'zal tabiatini himoya qilish har birimizning mas'uliyatimizdir.  Yoshnoza kabi yosh avlod, o'zining hurmatli g'amxo'rligi bilan, bizning vatani-O'zbekistonning go'zal tabiatini saqlashda qatnashadi.
+</body>

@@ -1,0 +1,66 @@
+<prompt>
+Please write a uncomplicated Kongo children's story that is at least 1000 words long.
+It must be completely written in proper Kongo (KG).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>kg</lang_id>
+
+```html
+<title>Nkeni wa Ndelela ya Mboka</title>
+<body>
+Nkeni, muana nkento ya mvu iya, yandi vandaka ti zulu ya ngolo mpi ya ndongisila. Yandi vandaka kusala na ntoto na bo ya mpembe, kisika ya bambuta ti bana ya bo vandaka kuzinga.  Nkeni vandaka kuzola nzo ya bampangi na yandi, kaka ntangu yandi vandaka kuzola na ntima na yandi, mpangi na yandi, Mboka.
+
+
+Mboka, muana bakala ya mvu tanu, vandaka na mbele mpi yilama. Yandi vandaka kuyela, mpi kuyala, mpi kudila mbelu ya ngolo ya makasi. Yandi vandaka ntima ya ngolo. Ata mbele ti ngolo ya kinsuni na yandi vandaka kukonda mazi, zulu ya mvimba vandaka kufunga yandi ntangu yandi vandaka kudiyangisa, kufunga yandi na mawa. 
+
+
+Na nima ya lusala ya ngolo, luzingu vandaka kunata bampangi zole na nsuk'a nsi, kisika ya nzo ya bituti ya bantu ya nkaka.  Nzo ya nsi nkento ya nene vandaka kutwadisa  nzila ya kusala na ntoto ya mpembe.  Mboka ti Nkeni vandaka kukwenda nkatu ya nsi, kusala bakala, nkento.
+
+
+"Bantu ya nsi," Mboka vandaka kutuba, "ta zabisa beto luzingu ya kusala bakala, nkento. Bo ta songa beto mutindu ya kusala bima ya mpembe ti ya madia."
+
+
+"Ee, Mboka," Nkeni vandaka kutuba, "kanu kudibwisa. Kanu kundima nzila ya bo me songa beto. Kanu kuzwa ngolo ya kusala bakala, nkento."
+
+
+Bo vandaka kuzaya kisalu ya ntima na yandi, mbote, mpi luzingu ya ngolo na nima. Nima, luzingu ya bo vandaka kukwenda nkento mpi bakala na bo, nsuka ya ntoto vandaka kutuba.  Ata yandi vandaka kaka nkento, Nkeni vandaka kubaka konso luzingu, mpi kuzaba konso nzila.  Yandi vandaka ndola na luzingu, mpangi, mpi zina. 
+
+
+Bo vandaka kufunga nsi ya ntoto, yina vandaka na bima yonso ya nti mpi ya matadi, bituti ya ndongisila, mpembe, yonso ti ya zulu. Bo vandaka kutuba ntangu yandi vandaka kufinga yandi,  "O,  Nkeni! O,  Mboka! Ya bo vandaka kutulama ntetentete mpi kuwula mayele, zulu ya zulu, yina bovandaka kuminaka mbote ti bampangi na yandi.
+
+
+Ntangu bo vandaka kubaka matu yonso ya ndongisila yina, bo vandaka kundima ndongisila,  bo vandaka kuzaba ntoto.  Mbala na mbala, Nkeni ti Mboka vandaka kumona mpi kundu.  Ata bo vandaka kutala mpi kundimina ntangu, mbala na mbala bo vandaka kundimisa beto luzingu.  Nkeni ti Mboka vandaka kusala, ata mbala na mbala, na kusala mpi na kupesa luzingu.  Bo vandaka kuwula ndongisila mpi kunata.
+
+
+Mbala mosi, bo waka ngyufyufwa ya mpembe ti ntama ya ngolo. Yandi vandaka mbwa yina vandaka kuzodila bima na zulu ya bo. Bo zabaka yandi mbote, bo zabaka nzo, yina vandaka kusalama ti bima yonso na yandi na nzila.
+
+
+“Mbeba,” Nkeni vandaka kutuba, “wena ya ngolo. Zaya nzila na nge ya mpembe. Zaya, nzila yina ke ndongisila."
+
+
+“Eee, muto mpembe ya ngolo,” Mboka vandaka kusunda beto. “Ya ngolo.”
+
+
+Mbwa yango kuzabaka nzila ya ndongisila. Yandi vandaka kunungisa bampangi zole. Bo vandaka kuzaya, bo vandaka kunungisa.
+
+
+Bo vandaka kuyela mbote na luzingu ya ndongisila, bo vandaka kunungisa mbote, mbote. Luzingu vandaka kumema bo mbote.  Luzingu ya kubaka mpi kulomba luzingu, vandaka mpasi.  Bo vandaka kununga, ata mpi kununga na nti.
+
+
+Mboka vandaka kubaka ngolo ya kuzala ngolo,  mpi Nkeni vandaka kubaka ngolo ya kubakisa nzola ya bantu yina vandaka kupesa luzingu.  Luzingu na bo yina vandaka kusalama mbote na luzingu ya bo yonso.
+
+
+Na nsuka ya lufimfu ya mpembe ya luzingu, bo waka nsolo ya ndongisila, nsolo ya kinsuni yonso yina vandaka kumonisa beto luzingu ya bantu ya nkaka.  Mboka mpi Nkeni vandaka kupesa konso konso, na konso konso, na nsi ya ntoto.
+
+
+Nkeni ti Mboka, na nsi ya mbwaki mpi na nsapi na bo, bo vandaka kusala luzingu mbote, na ntangu mpi luzingu, konso konso luzingu, luzingu mbote yonso.  Luzingu ya beto yonso ya bampangi yina luzingu bo yonso na yandi, yonso, yandi ya yonso.
+
+
+Bampangi yonso ya nsi vandaka kutuba bo vandaka kaka mbote. Na madima na yandi, bampangi ya yandi, vandaka kuzitisa luzingu ya bo yonso.
+</body>
+```

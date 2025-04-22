@@ -1,0 +1,65 @@
+<prompt>
+Please write a dialog-based Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kā es uzzināju par brīvību'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>lv</lang_id>
+
+<title>Kā es uzzināju par brīvību</title><body>  
+Vienā mazā ciematā, kur saule spīdēja spoži un vējš šalcēja caur koku lapām, dzīvoja mazs zēns vārdā Jānis. Viņš bija zinātkārs un vienmēr gribēja uzzināt ko jaunu. Viņa labākā draudzene bija vecā un gudrā ozola, kas stāvēja viņa pagalmā. Ozols bija dzīvojis simtiem gadu un zināja daudz stāstu par dzīvi, brīvību un drosmi.  
+
+Vienu rītu Jānis piegāja pie ozola un jautāja:  
+"Ozol, vai tu man varētu pastāstīt, kas ir brīvība? Es esmu daudz dzirdējis par to, bet nekad neesmu sapratis, ko tā īsti nozīmē."  
+
+Ozols šūpoja savus zarus un atbildēja ar dziļu, rāmi balsi:  
+"Brīvība, mazais Jāni, ir kaut kas ļoti īpašs. Tā ir iespēja būt pats par sevi, izvēlēties savu ceļu un justies droši. Bet lai to saprastu, tev ir jāpiedzīvo stāsts. Vai tu esi gatavs klausīties?"  
+
+Jānis pamāja ar galvu un apsēdās zem ozola zariem. Ozols sāka stāstīt:  
+
+"Senos laikos, kad mūsu zeme vēl bija pilna ar burvībām un noslēpumiem, dzīvoja putns vārdā Zilais. Viņš bija lielisks lidotājs un dziedātājs, bet viņš bija ieslodzīts zelta būrī, ko turēja ļauns burvis. Zilais gribēja būt brīvs, bet nezināja, kā to izdarīt.  
+
+Vienu dienu pie burvja pils ieradās mazs puika vārdā Pēteris. Viņš bija drosmīgs un gudrs, un viņam bija liela sirds. Pēteris dzirdēja Zilā dziesmu un saprata, ka šis putns ir īpašs. Viņš nolēma palīdzēt Zilajam atgūt brīvību.  
+
+Pēteris piegāja pie burvja un teica:  
+'Kāpēc tu tur šo skaisto putnu būrī? Viņš ir radīts, lai lidotu pa brīvo debesi un dziedātu savu dziesmu visiem, kas to dzird.'  
+
+Burvis nopūtās un atbildēja:  
+'Es zinu, ka viņš ir brīvs pēc savas būtības, bet es baidos, ka, ja viņš būs brīvs, es zaudēšu savu spēku. Viņš ir mana lielākā burvība.'  
+
+Pēteris domāja un teica:  
+'Bet vai tu nevari saprast, ka patiesā burvība ir brīvībā? Ja tu atlaidīsi Zilā, viņš varbūt atgriezīsies, jo viņš būs pateicīgs par to, ko tu esi darījis.'  
+
+Burvis ilgi klusēja, bet tad viņš atvēra būra durvis. Zilais izlidoja un pacēlās augstu debesīs. Viņš dziedāja skaistu dziesmu, kas aizskanēja visā zemē. Un tad, lūk, Zilais atgriezās un nolidoja burvim uz pleca.  
+
+'Paldies,' teica Zilais. 'Tu man atdevī brīvību, un tagad es esmu brīvs izvēlēties atgriezties.'  
+
+Burvis saprata, ka brīvība nav kaut kas, ko var noturēt, bet gan kaut kas, ko var dalīt. Un no tās dienas viņš kļuva labāks un gudrāks cilvēks."  
+
+Ozols apklusa, un Jānis domāja par stāstu.  
+"Tas ir skaisti," viņš beidzot teica. "Bet kā es varu saprast brīvību savā dzīvē?"  
+
+Ozols smaidīja:  
+"Brīvība sākas tavā sirdī, Jāni. Tā ir iespēja izvēlēties būt labs, pat ja citi to nedara. Tā ir spēja būt uzticīgs pats sev un saviem sapņiem. Vai tu esi brīvs, ja kāds tevi aizliedz kaut ko darīt? Vai tu esi brīvs, ja tu pats sevi ierobežo ar bailēm vai šaubām?"  
+
+Jānis domāja un tad teica:  
+"Es domāju, ka brīvība nozīmē būt drošs un justies labi ar sevi. Ja es esmu labs un rīkojos ar sirdsapziņu, tad esmu brīvs, pat ja man ir noteikumi vai ierobežojumi."  
+
+Ozols pamāja ar zariem:  
+"Tieši tā, Jāni. Brīvība nav tikai ārēja lieta. Tā ir iekšēja spēks, kas ļauj tev būt pats par sevi. Un atceries, brīvība ir arī atbildība. Ja tu esi brīvs, tu esi atbildīgs par savu izvēli un par to, kā tā ietekmē citus."  
+
+Jānis piecēlās un pateicās ozolam:  
+"Paldies, ka tu man palīdzēji saprast. Es tagad zinu, ka brīvība ir mana lielākā vērtība, un es to vērtēšu visu savu dzīvi."  
+
+Ozols šūpojās vējā, it kā smaidītu:  
+"Tas ir viss, ko man tev jāpasaka, mazais draugs. Tagad ej un dzīvo savu brīvo dzīvi ar atvērtu sirdi un gudru prātu."  
+
+Jānis aizgāja, sajūsmā no jaunās izpratnes. Viņš zināja, ka brīvība nav tikai spārni, kas nes tevi pa debesīm, bet arī sirds, kas vada tevi pa dzīvi.  
+
+Un tā Jānis uzzināja par brīvību.  
+</body>

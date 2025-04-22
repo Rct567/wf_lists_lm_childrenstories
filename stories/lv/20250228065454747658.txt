@@ -1,0 +1,79 @@
+<prompt>
+Please write a simple and easy-to-follow Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Žaku un viņa draugu piedzīvojumiņi mežā'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>lv</lang_id>
+
+<title>Žaku un viņa draugu piedzīvojumiņi mežā</title>
+<body>Reizēm, mežā, kur aug daudz koku, dzīvoja mazs zaķis Žaks. Viņš bija ļoti draudzīgs un mīlēja visus dzīvus radījumus, kas dzīvoja mežā. Žaks dzīvoja mājiņā, ko viņš bija cēlis no koka zariem un lapām. Mājiņa bija ļoti sīka, bet Žakam tā bija ļoti mīļa.
+
+Žaks bija ļoti izglītotais zaķis un zināja daudz par mežu un tā iemītniekiem. Viņš varēja stāstīt par daudziem dzīvniekiem, kas dzīvoja mežā, un par to, kā tie dzīvoja. Žaks bija ļoti labs stāstnieks un viņa stāstus mēģināja klausīties visi meža iemītnieki.
+
+Vienā dienā, Žaks gāja mežā un satika savu draugu, meža strazdu Streiku. Streiks bija ļoti skaists putns ar spīdīgiem spalvām un skaistu dziesmu. Viņš bija ļoti labs dziedātājs un viņa dziesmas bija ļoti populāras mežā.
+
+"Sveika, Žaks!" sauc Streiks. "Kā tev iet?"
+
+"Labdienu, Streiks!" atbild Žaks. "Man iet ļoti labi. Es gāju mežā un redzēju daudz jaunu lietu."
+
+"Kādas lietas?" jautā Streiks.
+
+"Es redzēju jaunu avotiņu, kurā var dzert ūdeni," stāsta Žaks. "Es redzēju arī jaunu pļavu, kurā var spēlēties. Un es redzēju arī jaunu koku, kurā var uzkāpt."
+
+"Vai tu gribi doties uz avotiņu?" jautā Streiks.
+
+"Jā, es gribu," atbild Žaks. "Es gribu dzert ūdeni no avotiņa."
+
+Abi draugi devās uz avotiņu. Ceļā viņi satika vēl daudzus meža iemītnieku, kuri viņus saudzīgi sagaidīja. Viņi satika meža zīdi, kas bija ļoti labs būvētājs un bija cēlis daudz māju mežā. Viņi satika arī meža lāci, kas bija ļoti labs medus gavējs un bija sagatāvis daudz medus meža iemītniekiem.
+
+Pēc ilga ceļa, viņi beidzot sasniedza avotiņu. Avotiņš bija ļoti skaists un tā ūdens bija ļoti saldūdens. Žaks un Streiks dzēra ūdeni no avotiņa un bija ļoti patīkami.
+
+Pēc tam, viņi devās uz pļavu, kurā var spēlēties. Pļava bija ļoti liela un tajā varēja spēlēties daudz dažādu spēļu. Žaks un Streiks spēlējās lāciņu un bija ļoti priecīgi.
+
+Pēc spēlēšanās, viņi devās uz koku, kurā var uzkāpt. Koks bija ļoti augsts un no tā virsotnes varēja redzēt visu mežu. Žaks un Streiks uzkāpa koka virsotnē un bija ļoti pārsteigti.
+
+"No šejienes var redzēt visu mežu," sacīja Žaks.
+
+"Jā, šeit ir ļoti skaisti," atbildēja Streiks.
+
+Abi draugi palika koka virsotnē ilgu laiku un skatījās mežā. Viņi redzēja daudz jaunu lietu un bija ļoti priecīgi.
+
+Pēc ilga laika, viņi nolēma atgriezties mājās. Ceļā atpakaļ, viņi satika vēl daudzus meža iemītnieku, kuri viņus saudzīgi sagaidīja. Viņi bija ļoti patīkami un pateicās visiem meža iemītniekiem par labo dienu.
+
+Beidzot, viņi atgriezās mājās un bija ļoti priecīgi. Žaks un Streiks bija ļoti draudzīgi un viņi zināja, ka viņi būs draugi visu mūžu.
+
+Nākamajā dienā, Žaks un Streiks gāja mežā un satika savu draugu, meža trusi Trusku. Truska bija ļoti labs rāvējs un bija sagatāvis daudz barības meža iemītniekiem.
+
+"Sveika, Žaks! Sveika, Streiks!" sauc Truska. "Kā jums iet?"
+
+"Labdienu, Truska!" atbild Žaks. "Mums iet ļoti labi. Mēs gājām mežā un redzējām daudz jaunu lietu."
+
+"Kādas lietas?" jautā Truska.
+
+"Mēs redzējām jaunu avotiņu, kurā var dzert ūdeni," stāsta Žaks. "Mēs redzējām arī jaunu pļavu, kurā var spēlēties. Un mēs redzējām arī jaunu koku, kurā var uzkāpt."
+
+"Vai jums gribas doties uz avotiņu?" jautā Truska.
+
+"Jā, mums gribas," atbild Žaks. "Mēs gribam dzert ūdeni no avotiņa."
+
+Trīs draugi devās uz avotiņu. Ceļā viņi satika vēl daudzus meža iemītnieku, kuri viņus saudzīgi sagaidīja. Viņi bija ļoti patīkami un pateicās visiem meža iemītniekiem par labo dienu.
+
+Pēc ilga ceļa, viņi beidzot sasniedza avotiņu. Avotiņš bija ļoti skaists un tā ūdens bija ļoti saldūdens. Žaks, Streiks un Truska dzēra ūdeni no avotiņa un bija ļoti patīkami.
+
+Pēc tam, viņi devās uz pļavu, kurā var spēlēties. Pļava bija ļoti liela un tajā varēja spēlēties daudz dažādu spēļu. Žaks, Streiks un Truska spēlējās lāciņu un bija ļoti priecīgi.
+
+Pēc spēlēšanās, viņi devās uz koku, kurā var uzkāpt. Koks bija ļoti augsts un no tā virsotnes varēja redzēt visu mežu. Žaks, Streiks un Truska uzkāpa koka virsotnē un bija ļoti pārsteigti.
+
+"No šejienes var redzēt visu mežu," sacīja Žaks.
+
+"Jā, šeit ir ļoti skaisti," atbildēja Streiks.
+
+"Es gribu redzēt vēl daudz lietu," sacīja Truska.
+
+Abi draugi pal

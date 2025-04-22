@@ -1,0 +1,72 @@
+<prompt>
+Please write a silly Italian children's story that is at least 1000 words long.
+It must be completely written in proper Italian (IT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La scimmia Cecilia e i giochi divertenti tra gli alberi della giungla.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>it</lang_id>
+
+```xml
+<title>La scimmia Cecilia e i giochi divertenti tra gli alberi della giungla.</title><body>
+C'era una volta, in una giungla rigogliosa e verdissima, una scimmietta di nome Cecilia. Cecilia era una scimmia speciale. Non amava solo mangiare banane (anche se le adorava!), ma preferiva inventare giochi pazzi e divertenti per sé e per i suoi amici. Aveva un pelo arancione acceso come il tramonto, occhietti vispi e un sorriso che faceva brillare anche il sole più nuvoloso.
+
+La giungla in cui viveva Cecilia era un vero e proprio parco giochi naturale. Alberi altissimi con liane robuste, cespugli fioriti di mille colori, ruscelli freschi e limpido. Era il luogo perfetto per le avventure di Cecilia e dei suoi amici.
+
+Tra i suoi migliori amici c'erano Bruno, un orso bruno con un debole per il miele (che, ovviamente, Cecilia cercava sempre di rubare), e Ginevra, una giraffa alta e snella con un collo che sembrava un albero di Natale, sempre decorato con fiori esotici.
+
+Un lunedì mattina, mentre il sole timidamente spuntava sopra le cime degli alberi, Cecilia ebbe un'idea. "Amici miei!", gridò Cecilia, appesa a una liana che ondeggiava pericolosamente, "Oggi si gioca a 'Cerca il tesoro dei sapori'!".
+
+Bruno, con la bocca ancora sporca di miele rubato al nido di un'ape dispettosa, rispose: "Il tesoro... che c'è di tesoro?"
+
+"Ovviamente", spiegò Cecilia con un ampio sorriso, "ci sarà un tesoro gustosissimo nascosto da qualche parte nella giungla. Indovinate un po'? Sono i frutti più rari e prelibati che possiamo trovare!".
+
+Ginevra, mentre allungava il suo lungo collo per raggiungere una foglia succosa, aggiunse: "Che idea fantastica! Ma come facciamo a trovare il tesoro?"
+
+Cecilia saltò giù dalla liana con un balzo acrobatico e tirò fuori dalla sua tasca (una tasca magica che sembrava contenere sempre qualcosa di inaspettato) una mappa disegnata con il succo di frutti rossi. "Ho preparato una mappa!", esclamò trionfante. "Seguiremo le indicazioni, supereremo gli ostacoli e troveremo il tesoro più delizioso del mondo!".
+
+La mappa, in realtà, era un po' sghemba e piena di scarabocchi, ma Cecilia era convinta che fosse perfetta. La prima tappa era indicata con un disegno di un ananas che rotolava su una roccia. "Dobbiamo andare al fiume!" gridò Cecilia, "Lì, l'ananas ci aspetta!".
+
+I tre amici si misero subito in cammino. Attraversarono cespugli spinosi, saltarono sopra tronchi caduti e costeggiarono il fiume chiacchierando allegramente. Bruno, ogni tanto, si fermava a leccare le pietre, sperando di trovare ancora qualche goccia di miele dimenticata. Ginevra, invece, teneva d'occhio le cime degli alberi, per individuare eventuali gustose foglie.
+
+Arrivarono al fiume. Lì, effettivamente, trovarono un ananas. Peccato che l'ananas fosse gigantesco, e completamente intatto! "Ma come facciamo a prenderlo?", si chiese Bruno, che non vedeva l'ora di assaggiare il dolce frutto.
+
+Cecilia ci pensò su un attimo, poi saltò in aria e, con un'agilità sorprendente, afferrò una liana e si dondolò verso l'ananas. Con un calcio ben assestato, fece rotolare l'ananas giù per una piccola collina. Raggiunsero il punto di atterraggio e lo mangiarono in un battibaleno. Delizioso!
+
+La tappa successiva della mappa portava a una cascata. "Dobbiamo andare alla cascata!", ripeté Cecilia. Il disegno questa volta rappresentava una banana che nuotava felice.
+
+Durante il tragitto verso la cascata, si imbatterono in un gruppo di scimmie urlatrici che stavano litigando per una noce di cocco. Cecilia, con la sua diplomazia innata, risolse la disputa proponendo un gioco: un tiro alla fune con la noce di cocco al centro. Il gruppo si divertì un mondo e alla fine, si scambiarono la noce di cocco in segno di amicizia.
+
+Arrivarono finalmente alla cascata. Il rumore dell'acqua che cadeva era assordante e le goccioline rinfrescavano l'aria. Lì, vicino a un laghetto cristallino, trovarono un mucchio di banane fresche. Erano così tante che Bruno pensò seriamente di scoppiare!
+
+"Ed ora, l'ultima tappa!", annunciò Cecilia, entusiasta. Il disegno sulla mappa mostrava una mela luccicante sotto a un albero altissimo.
+
+Si avventurarono nella parte più nascosta della giungla, seguendo un sentiero tortuoso. Si imbatterono in un pavone vanitoso, in un cagnolino dispettoso che si divertiva a fare scherzi e in una vecchia tartaruga saggia, che indicò loro la strada giusta.
+
+Dopo un'ora di cammino, arrivarono finalmente all'albero indicato. E lì, appesa a un ramo, videro una mela rossa, lucente, bellissima.
+
+"Ce l'abbiamo fatta!", gridò Cecilia, felice. Ma quando cercarono di prendere la mela, si accorsero che era troppo in alto.
+
+Bruno provò ad arrampicarsi, ma era troppo goffo. Ginevra allungò il collo, ma non riusciva a raggiungerla.
+
+Allora, Cecilia ebbe un'altra idea. "Costruiremo una torre!" esclamò.
+
+Si misero subito al lavoro. Bruno si posizionò con le spalle al tronco dell'albero, Ginevra si mise in piedi su Bruno (cosa che le provocò un certo scompiglio) e Cecilia saltò sulla testa di Ginevra. Da lì, finalmente, riuscì a prendere la mela!
+
+Ma non appena la prese, la mela cadde a terra, rotolando giù dalla collina. Scese rapidamente lungo un pendio e andò a sbattere contro una roccia. La mela si ruppe, rivelando... un cuore di caramella!
+
+"Un cuore di caramella?", esclamò Bruno, deluso. "Ma non è un tesoro!", si lamentò.
+
+Cecilia sorrise. "Ma certo che lo è!", rispose. "Questo non è un tesoro di cibo, ma un tesoro di amicizia. Abbiamo riso, abbiamo giocato, abbiamo superato gli ostacoli insieme. Questo è il tesoro più prezioso di tutti!".
+
+I tre amici si guardarono e capirono che Cecilia aveva ragione. Si sedettero sull'erba, circondati dalla bellezza della giungla, e si divisero il cuore di caramella, assaporando ogni singolo boccone.
+
+La giornata era finita, ma le avventure di Cecilia e dei suoi amici sarebbero continuate. Perché, come diceva sempre Cecilia, la vera felicità si trova nell'amicizia, nel gioco e nel divertimento, indipendentemente da cosa si trovi alla fine del "tesoro". E, naturalmente, nel mangiare banane e miele! La giungla, dopotutto, era piena di sorprese!
+
+Il giorno dopo, Cecilia, Bruno e Ginevra, decidono di giocare a "Chi indovina più frutti". Bruno ha continuato a mangiare miele, Ginevra ha dovuto allungare ancora di più il suo collo e Cecilia, ancora piena di energia, corse in giro inventando nuovi giochi. Ma questa è un'altra storia.
+</body>
+```

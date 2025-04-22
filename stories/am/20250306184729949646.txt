@@ -1,0 +1,22 @@
+<prompt>
+Please write a silly Amharic children's story that is at least 1000 words long.
+It must be completely written in proper Amharic (AM).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'የማይታወቅ ዋናጅ እና የአስማት ቁልፍ'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>am</lang_id>
+
+<title>የማይታወቅ ዋናጅ እና የአስማት ቁልፍ</title>
+<body>
+እድሜህ ምን ነበረ? እንደምንስ ብሎ አንድ ቀን አንድ ሕፃን በአዲስ አበባ ከተማ ላይ ተሻጋሪነት እየተደረገለት ነበር። ስምን አራት አመት ልጅ በሆነበት ወቅት እናቱ ለቤት ሥራ ሲሄድ ሌላ ቦታ ላይ ሄደች። ታዲያ አብራራ ሆኖ በራሱ ቤት ላይ ቆየ። አብራራ ሆኖ ቆየው በራዲዮ ላይ የተለጠፈውን ፕሮግራም እያንበበ ነበር። በራዲዮ ላይ የተለጠፈው ፕሮግራም በረዥም አገር ላይ የሚኖረው የማይታወቅ ዋናጅ ወደ አዲስ አበባ ከተማ እንደሚመጣ ነበር።
+
+የማይታወቅ ዋናጅ በምድረ በዳ ላይ በሚኖረው ሕዝብ ላይ በጣም አስተዋፅዖ ነበር። ሕዝቡ ከማይታወቅ ዋናጅ ወደ አዲስ አበባ ከተማ እንዳለፈ በረዥም አገር እንደሚመጣ ሲሰማ በጣም ፈራራ። ማይታወቅ ዋናጅ ከረዥም አገር እንዳለፈ አዲስ አበባ ከተማ ላይ ምንም እንኳን አይጠበቅም ነበር። ሕዝቡ በእንቅስቃሴ ላይ ነበር። ማይታወቅ ዋናጅ ምን ሊሆን ይችላል? ማይታወቅ ዋናጅ ሕዝቡን ሊያስገድድ ይችላልን? ማይታወቅ ዋናጅ ሕዝቡን ሊያስቆጣ ይችላልን?
+
+ማይታወቅ ዋናጅ ከረዥም አገር እንዳለፈ አዲስ አበባ ከተማ ላይ ምንም እንኳን አይጠበቅም ነበር። ሕዝቡ በእንቅስቃሴ ላይ ነበር። ማይታወቅ ዋናጅ ምን ሊሆን ይችላል? ማይታወቅ ዋናጅ ሕዝቡን ሊያስገድድ ይችላልን? ማይታወቅ ዋናጅ ሕዝቡን ሊያስቆጣ ይችላልን? ሕዝቡ በአዲስ አበባ ከተማ ላይ በጣም ፈራራ። ማይታወቅ ዋናጅ ከረዥም አገር እንዳለፈ አዲስ አበባ ከተማ ላይ ምንም እንኳን አይጠበቅም ነበር።
+
+ማይታወቅ ዋናጅ ከረዥም አገር እንዳለፈ አዲስ አበባ ከተማ ላይ ም�

@@ -1,0 +1,85 @@
+<prompt>
+Please write a simple and easy-to-follow Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Farkas Frici, a magányos farkaskölyök, és a barátság megtalálása a vadonban'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>hu</lang_id>
+
+```html
+<title>Farkas Frici, a magányos farkaskölyök, és a barátság megtalálása a vadonban</title>
+<body>
+Farkas Frici egy kis, szürke farkaskölyök volt. Kicsi korában elveszítette a szüleit, és azóta magányosan élt a hatalmas, zöld erdő szélén. Reggelente korán kelt, kinyújtózkodott, és kilépett a barlangjából, ami egy öreg tölgyfa gyökerei között bújt meg. Végigsétált a harmatos füvön, a nap sugarai simogatták a bundáját.
+
+Frici egyedül evett, egyedül játszott. Néha hallotta a többi farkas hangját a távolból, a hosszan nyújtott, fülsüketítő üvöltéseket, de sosem merészkedett a közelükbe. Félénk volt, és azt gondolta, hogy ő nem elég erős ahhoz, hogy közéjük tartozzon. Az erdő tele volt veszéllyel, a nagymacskák, a medvék és a vadászok leselkedtek a sűrűben. Frici próbált ügyeskedni, és rejtőzni, de a szíve mélyén vágyott a társaságra.
+
+Egy szép napon, amikor a lombkoronák már színesbe borultak, és a levelek hullottak, Frici egy furcsa hangra lett figyelmes. Csipegett-zizgett valami a bozótban. Óvatosan közelített, orrocskáját hegyezve. Egy aprócska, zsemleszínű nyúl gubbasztott a száraz levelek között, remegve. Egy kicsi mancsát maga alá szorította, és nyüszített.
+
+Frici először megrémült. A nyúl a préda volt. De a nyúl szemei tele voltak félelemmel, és ez valami furcsát váltott ki a kis farkasban. Ő is érezte a félelmet, a magányt. Leült, és bizonytalanul odament.
+
+- Mit csinálsz ott? - kérdezte halkan, reszkető hangon.
+
+A nyúl megemelkedett, és felpillantott Fricire. Látta a farkaskölyök szemében a kérdést, de nem a vadászat szándékát.
+
+- Elesettem - nyöszögte a nyuszi -, és megsérült a lábam. Nem tudok hazamenni.
+
+Frici közelebb ment. A mancs tényleg furcsán állt.
+
+- Megmutatnád? - kérdezte.
+
+A nyuszi megbízott a farkas hangjában, és odanyújtotta a lábát. Frici óvatosan megnézte. Valószínűleg kitört a csont.
+
+- Segítek neked - mondta Frici határozottan.
+
+A farkasok vadak hírében állnak, a nyulak félnek tőlük, de ebben a helyzetben Frici más volt. Először is elhatározta, hogy biztonságos helyet talál a nyúlnak. Óvatosan felkapta a kis nyuszit, a pici test a nagy bundában kicsit elveszett, és a közelben talált egy védett kis barlangot. Letette a nyulat, aztán a patakhoz szaladt, nedves mohát hozott, és betakarta vele a nyúl lábát.
+
+A nyúl neve Nyuszi Panna volt. Sokat beszélgettek, amíg Frici a gyógymódot alkalmazta. Panna elmesélte a családjáról, a nagyszüleiről, a kis testvéreiről. Frici is elmondta a magányos életét. Ők ketten a természet törvényei ellenére a barátságukhoz ragaszkodtak.
+
+Frici naponta hozott Pannának vizet és gyümölcsöket a közeli fákról. Próbált a kismacskák és a szarvasok közelébe sem menni, mert tisztában volt vele, hogy mindkét faj veszélyes a barátjára. Éjszakánként a kis farkas a barlang bejáratában őrizett, és vigyázott a sérült barátjára. Napok teltek el, Panna mancsja hegesedett, és a fájdalom is enyhült.
+
+Egyik nap Panna már tudott lábra állni, bár sántikált. Együtt sétáltak a napfényben, Panna kapaszkodott Frici bundájába. Aztán eljött a búcsú ideje. Panna kinézett a fészkére, és sok kis nyulat látott ugrálni, játszani. A családja várt rá.
+
+- Köszönöm, Frici - mondta Panna a könnyeit törölgetve. - Te mentetted meg az életem, és te mutattad meg, hogy mi az igazi barátság.
+
+Frici lehunyta a szemét. Félénkség helyett most már a hálát érezte.
+
+- Sajnálom, hogy menned kell, Panna - mondta. - De örülök, hogy újra a családodnál lehetsz. És nem kell a vadászoktól sem félned, mert én megvédlek!
+
+Panna odafordult, felnézett Fricire. Megsimogatta a pici nyuszipofijával a farkaskölyök arcát. Aztán gyorsan elszaladt, ahogy egy nyúlnak tennie kell.
+
+Frici egy ideig nézte a távolodó nyulat, majd visszasétált a barlangjához. Most már nem érezte a magányt. A barátság melegsége betöltötte a szívét. Tudta, hogy nem maradt egyedül. És tudta, hogy mostantól, ha a hangja is halk, ismeri az erősséget, amit a szeretet jelent.
+
+Amikor Panna meggyógyult, rendszeresen látogatta Fricit. Az erdőben sokkal vidámabb lett az élet. Frici néha találkozott a többi farkaskölyökkel is. A barátsága Pannával megnyitotta a szívét. Többé már nem félt a társaságtól. Elmondta a kalandjait, Panna megmentéséről mesélt. És egyszer csak, a többi farkas is közelebb jött hozzá, és egyre többször játszottak együtt. Frici végre igazi barátokra lelt a fajtársai között.
+
+Egy napon, amint a levelek hulltak a fákról, Frici éppen a játszó társaitól indult haza. Már késő volt, és sötétedett. Hirtelen furcsa szagot érzett, egy szagot, amire a farkasok a legélesebben emlékeznek: tűz szagát. Felnézett, és látta, hogy a hegyoldalon lángok emelkednek az ég felé. A tűz gyorsan terjedt, és veszélyeztette a környezetét.
+
+Frici tudta, hogy a vadállatok a lángok elől menekülni fognak. Nem sok ideje volt. Gyorsan a barlangjához szaladt. Amint odaért, a bozótban látta Pannát.
+
+- Panna, menekülnünk kell! - kiáltotta Frici.
+
+- Tudom, hallom a szélről - felelte Panna szomorúan. - Gyerekek jöttek ki segíteni.
+
+- Gyerekek? - kérdezte Frici.
+
+- Igen, emberek, akik vigyáznak az erdőre. Hozzak is vizet? - mondta Panna.
+
+- Sietned kell! – biztatta Frici. - Vigyázz magadra!
+
+Panna, akinek kis mancsai korábban is bizonyítottak bátorságot, rohant a folyó felé, és igyekezett vizet cipelni, amit a kezeivel tudott megfogni. Frici pedig sietett a társaihoz. Először is a legfiatalabbakat vezették el a veszélyes területről. Amikor már biztonságos helyen voltak, a többi farkas, az erősebbek, egy sorba álltak. A füttyögő, morajló tűz felé nyomultak, és ott vártak, figyelve, és őrizve az erdőt.
+
+Az emberek is nagyon keményen dolgoztak. Kaptak a fák koronájába, és földet szállítottak a sűrűhöz, hogy leállítsák a lángokat. Vízszállítókkal locsolták a tüzet, és egyre csökkent a lángok ereje.
+
+Frici és a barátai is részt vettek az mentésben. Az erdő sok kis állatát eljuttatták a biztonságba, elterelték a veszély elől a nagymacskákat és a medvéket.
+
+Amikor a tűz végül elaludt, és csak a füst szállt a levegőben, mindenki fáradtan, de boldogan fújtatta ki a levegőt. Az erdő megmenekült. A fáknak ugyan megsérültek a kérgei, a talaj is elszenesedett, de a levegő tiszta maradt. A vadon állatai a biztonságban voltak.
+
+Frici mellé osonva megérkezett Panna. A farkas megpuszilta, megszeretgette a nyuszit, és azt suttogta a fülébe, hogy ez volt a legfontosabb dolguk. Frici érezte a szívében a köszönetet, amiért ott volt a barátja.
+
+Az erdő újjászületett. Az elpusztított területeken új fák nőttek. A virágok és a füvek egyre színesebbek lettek. És Frici, a magányos farkaskölyök, aki egykor félénken rejtőzött, most már a farkascsoport vezetője volt, tele barátokkal, tele szeretettel. Mindennap Pannával játszottak, nevettek. Megtanulta, hogy az igazi erő a bátorságban, a barátságban és a gondoskodásban rejlik. A történetét elmesélte az ifjabb kölykökének, megmutatva, hogy hogyan talált barátokat, hogy sosem kell feladni a hitét, és sosem szabad egyedül hagyni a szeretteidet.
+</body>
+```

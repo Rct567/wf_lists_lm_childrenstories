@@ -1,0 +1,71 @@
+<prompt>
+Please write a uncomplicated Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Chú Khỉ Con Và Khu Rừng Đầy Tiếng Cười'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>vi</lang_id>
+
+```vi
+<title>Chú Khỉ Con Và Khu Rừng Đầy Tiếng Cười</title>
+<body>
+Ngày xửa ngày xưa, trong một khu rừng xanh thẳm, nơi có những cây cổ thụ cao vút chạm đến tận mây trời, sống một chú khỉ con tinh nghịch tên là Tí. Tí có bộ lông màu nâu óng ả, đôi mắt to tròn, đen láy luôn lấp lánh niềm vui và một cái đuôi dài thoăn thoắt giúp chú di chuyển thoăn thoắt trên những cành cây.
+
+Khu rừng của Tí không chỉ xanh tươi mà còn tràn ngập tiếng cười. Tiếng cười của những chú chim hót líu lo, tiếng cười khúc khích của những chú sóc tinh ranh, và cả tiếng cười giòn tan của dòng suối nhỏ róc rách chảy qua. Tí rất yêu khu rừng của mình, nơi chú có thể thoải mái nô đùa, khám phá và kết bạn với biết bao nhiêu loài vật khác nhau.
+
+Một buổi sáng nọ, khi ánh nắng vàng dịu nhẹ len lỏi qua những tán lá, Tí thức dậy với một cảm giác thật háo hức. Hôm nay là ngày đặc biệt, ngày mà cả khu rừng sẽ tổ chức một buổi tiệc lớn để chào đón mùa xuân. Tí nhanh nhẹn nhảy xuống khỏi tổ ấm trên cây cao, vươn vai, hít một hơi thật sâu không khí trong lành của buổi sớm mai.
+
+"Chào buổi sáng, các bạn!" Tí reo lên, giọng nói trong trẻo vang vọng khắp khu rừng.
+
+Những chú chim, đang đậu trên cành, đồng loạt cất tiếng hót chào Tí. Những chú sóc, đang bận rộn tìm kiếm hạt dẻ, cũng ngẩng đầu lên nhìn Tí với ánh mắt thân thiện.
+
+Tí nhanh chóng bắt đầu chuẩn bị cho buổi tiệc. Chú giúp các bạn sóc thu thập những hạt dẻ ngon nhất, giúp các bạn chim trang trí những cành cây bằng những bông hoa rực rỡ sắc màu. Chú còn giúp các bạn thỏ mang những củ cà rốt ngọt lịm đến để làm món ăn tráng miệng.
+
+Trong lúc đang giúp đỡ mọi người, Tí chợt nghe thấy một tiếng khóc thút thít. Chú tò mò đi theo hướng phát ra tiếng khóc và thấy một chú ếch con đang ngồi nép mình dưới gốc cây, nước mắt lưng tròng.
+
+"Chào bạn Ếch con," Tí nhẹ nhàng lên tiếng. "Bạn có chuyện gì buồn vậy?"
+
+Chú ếch con ngước nhìn Tí, giọng nghẹn ngào: "Mình... mình bị lạc đường. Mình không biết đường về nhà."
+
+Tí nhìn chú ếch con tội nghiệp với vẻ mặt lo lắng. Chú biết rằng trong khu rừng rộng lớn này, việc bị lạc đường là một điều rất đáng sợ, đặc biệt là đối với một chú ếch con bé nhỏ như vậy.
+
+"Đừng lo lắng, bạn Ếch con," Tí nói, giọng nói đầy sự an ủi. "Mình sẽ giúp bạn tìm đường về nhà."
+
+Tí hỏi chú ếch con về ngôi nhà của bạn. Chú ếch con kể rằng nhà của chú ở gần một hồ nước trong xanh, nơi có rất nhiều hoa sen nở rộ.
+
+Tí suy nghĩ một lát rồi nói: "Mình biết rồi! Mình sẽ dẫn bạn đến hồ nước đó."
+
+Tí cẩn thận bế chú ếch con lên lưng, rồi bắt đầu hành trình tìm đường về nhà. Chú khỉ con nhanh nhẹn leo trèo trên những cành cây, vượt qua những con suối nhỏ, và băng qua những bụi rậm. Chú luôn cẩn thận quan sát xung quanh, cố gắng tìm ra những dấu hiệu để định hướng.
+
+Trên đường đi, Tí và chú ếch con gặp rất nhiều khó khăn. Họ gặp phải những con đường đầy gai góc, những con suối chảy xiết, và cả những loài vật xa lạ. Nhưng Tí không hề nản lòng. Chú luôn cố gắng hết sức để bảo vệ và động viên chú ếch con.
+
+"Cố lên bạn Ếch con!" Tí nói khi cả hai phải vượt qua một con suối lớn. "Sắp đến nơi rồi!"
+
+Cuối cùng, sau một hành trình dài và đầy thử thách, Tí và chú ếch con cũng đến được hồ nước trong xanh. Chú ếch con vui mừng reo lên: "Mình về đến nhà rồi! Cảm ơn bạn Tí rất nhiều!"
+
+Chú ếch con nhảy xuống khỏi lưng Tí, chạy về phía ngôi nhà của mình. Tí nhìn theo, lòng tràn ngập niềm vui. Chú cảm thấy rất hạnh phúc vì đã giúp đỡ được bạn mình.
+
+Khi Tí quay trở lại khu rừng, buổi tiệc mùa xuân đã bắt đầu. Mọi người đang vui vẻ nhảy múa, ca hát và thưởng thức những món ăn ngon. Tí được mọi người chào đón nồng nhiệt.
+
+"Tí, bạn đã đi đâu vậy?" Một chú sóc hỏi.
+
+"Mình đã giúp một bạn ếch con tìm đường về nhà," Tí vui vẻ trả lời.
+
+Mọi người đều khen ngợi Tí vì lòng tốt và sự dũng cảm của chú. Tí cảm thấy rất tự hào.
+
+Trong suốt buổi tiệc, Tí đã kể cho mọi người nghe về cuộc hành trình của mình. Mọi người đều lắng nghe chăm chú và thích thú. Tiếng cười và niềm vui lại một lần nữa lan tỏa khắp khu rừng.
+
+Buổi tiệc mùa xuân diễn ra thật vui vẻ và ấm áp. Mọi người cùng nhau chia sẻ những món ăn ngon, hát những bài hát vui nhộn và nhảy múa dưới ánh nắng vàng tươi. Tí cảm thấy khu rừng của mình thật tuyệt vời, nơi có những người bạn tốt bụng và luôn sẵn sàng giúp đỡ lẫn nhau.
+
+Sau buổi tiệc, khi ánh trăng đã lên cao, Tí trở về tổ ấm của mình. Chú nằm xuống, nhắm mắt lại và nghĩ về những điều đã xảy ra trong ngày hôm nay. Chú cảm thấy thật hạnh phúc và tự hào vì đã làm được một việc tốt.
+
+Tí biết rằng, trong cuộc sống, việc giúp đỡ người khác là một điều rất quan trọng. Nó không chỉ mang lại niềm vui cho người khác mà còn mang lại niềm vui cho chính bản thân mình. Chú hứa với lòng mình sẽ luôn là một chú khỉ con tốt bụng, luôn sẵn sàng giúp đỡ mọi người và luôn giữ cho khu rừng của mình tràn ngập tiếng cười.
+
+Và từ đó, chú khỉ con Tí tiếp tục sống trong khu rừng đầy tiếng cười, luôn vui vẻ, tốt bụng và luôn sẵn sàng giúp đỡ bạn bè. Khu rừng của Tí ngày càng trở nên tươi đẹp và hạnh phúc hơn nhờ có sự đóng góp của chú. Chú khỉ con Tí đã trở thành một biểu tượng của lòng tốt và sự sẻ chia trong khu rừng. Câu chuyện về chú được kể đi kể lại, trở thành một bài học quý giá cho tất cả mọi người. Và cứ như thế, khu rừng vẫn mãi mãi tràn ngập tiếng cười, tiếng cười của tình bạn, tình yêu thương và sự sẻ chia.
+</body>
+```

@@ -1,0 +1,79 @@
+<prompt>
+Please write a dialog-based Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Léachtaí Luaighte faoin Éirinn Uaimhe'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>ga</lang_id>
+
+```xml
+<title>Léachtaí Luaighte faoin Éirinn Uaimhe</title>
+<body>
+Bhí beirt pháiste ann, Órla agus Dónal, a bhí ag freastal ar scoil bheag i gCill Orglach. Ba iad an bheirt acu na páistí ba fhiosaí sa rang, agus bhí dúil mhór acu i gcúrsaí staire agus seanchais. Bhí grá acu go háirithe ar an Éirinn uaimhe, an áit faoi thalamh.
+
+Lá amháin, tar éis dóibh a gcuid lón a ithe, chuaigh Órla agus Dónal ag siúl thar an gcúrsa spóirt.
+“Dónal, an bhfaca tú riamh uaimh ar bith?” a d’fhiafraigh Órla.
+“Ní fhaca, ach is maith liom smaoineamh orthu,” a d’fhreagair Dónal. “Bheinn sásta féachaint ar cheann!”
+“D’fhéadfaimis féachaint ar rud éigin faoin uaimheanna sa leabharlann. Tá leabhair bhreátha acu,” a dúirt Órla, ag tarraingt Dónal léi i dtreo na leabharlainne.
+
+Nuair a shroich siad an leabharlann, chuaigh siad go díreach go dtí an raca leis na leabhair faoi Éirinn. Bhí rogha mhaith leabhar ann. Tharraing Órla leabhar mór síos. Ba leabhar le grianghraif agus léaráidí é.
+“Féach, Dónal! Seo leabhar iontach faoi na huaimheanna in Éirinn!” a dúirt Órla go sceitimíneach.
+Thosaigh siad ag léamh an leabhair le chéile.
+“Tá an oiread sin uaimheanna éagsúla ann,” a dúirt Dónal, ag breathnú ar na grianghraif. “Tá uaimheanna móra, agus uaimheanna beaga. Tá uaimheanna fada, agus uaimheanna dorcha.”
+“Tá uaimh an tSléibhe i gContae Lú,” a dúirt Órla. “Agus tá uaimh na gCaorach i gContae an Chláir. Ach nílim cinnte an dtéann daoine isteach iontu anois.”
+“Féach ar seo, Órla!” a dúirt Dónal, ag pointeáil ag léaráid de uaimh. “Féach cé chomh deas agus dorcha is atá sé istigh!”
+“Is dócha go bhfuil ainmhithe beaga, cosúil le ialtóga, ina gcónaí iontu,” a dúirt Órla.
+
+Tar éis dóibh tamall fada a chaitheamh ag léamh agus ag caint, d’fhéach siad ar a gclog. Bhí sé beagnach am trátha chun dul ar ais chuig an rang.
+“Caithfimid dul ar ais,” a dúirt Órla go drogallach.
+“Sea, ach beidh muid ag teacht ar ais go dtí an leabharlann amárach arís,” a dúirt Dónal, ag súil. “Beidh muid ag foghlaim tuilleadh faoi na huaimheanna.”
+
+An lá dár gcionn, bhí Órla agus Dónal ar ais sa leabharlann, ag lorg tuilleadh eolais faoin Éirinn uaimhe. Thosaigh siad ag léamh leabhar eile. Ba leabhar beag é seo, faoi sheanchas agus scéalta faoi na huaimheanna.
+“Éist leis seo, Dónal,” a dúirt Órla, ag léamh os ard. “Deirtear gur úsáid na Fianna uaimheanna mar chraoslaoiche le linn aimsire.”
+“Wow!” a dúirt Dónal. “B’fhéidir gur bhuail na Fianna le roinnt créatúirí mistéireacha ann!”
+“B’fhéidir,” a dúirt Órla, ag gáire. “Agus seo scéal eile. Deirtear gur fhéach fear, leis an ainm Seán Óg, ar stór mór óir i gceann uaimhe!”
+“An bhfaca sé an t-ór?” a d’fhiafraigh Dónal, ar bís.
+“Ní fhaca,” a dúirt Órla, “bhí airgead agus diamaint ina sheasamh ann. Ach fuair sé eolas uaidh faoin áit cheart chun dul go dtí an teach aige! Ach fuair sé bás sa deireadh.”
+“Oiche Dhia! Nach míorúilach an scéal sin!” a dúirt Dónal.
+“Tá!” a dúirt Órla. “Ach bhí seanchas eile ann freisin!”
+“Léigh ar!” a d’iarr Dónal.
+
+Léigh Órla níos mó.
+“Deirtear go mbíonn taibhse, bean ag caitheamh éadaí glasa, ag beannú do dhaoine ó na huaimheanna,” a dúirt Órla. “Ní mór dul go haerach ar shiúl uaithi.”
+“Cad faoin domhan?” a d’fhiafraigh Dónal, beagán eagla air. “Is scéalta dochreidte iad seo!”
+“Is scéalta sean-aimsire iad,” a dúirt Órla. “Ach b’fhéidir go bhfuil fírinne éigin iontu. Cé a fhios?”
+“Sílim go mbeimid i gceart,” a dúirt Dónal, ag gáire beagáinín. “Ach, b’fhearr gan aon uaimheanna dorcha a thaiscéaladh dár gcuid féin.”
+“Is dócha gur ceart duit a bheith cúramach,” a dúirt Órla.
+Chaithe siad an chuid eile den lá ag léamh scéalta agus ag phlé. Thosaigh siad fiú ag déanamh pleananna faoi conas an Éirinn uaimhe a iniúchadh lá amháin.
+“D’fhéadfaimis ceann d’uaimheanna na hÉireann a fheiceáil,” a dúirt Órla.
+“Bheinn sásta sin a dhéanamh!” a d’fhreagair Dónal. “Ach caithfimid a bheith cinnte go mbeidh duine againn le linn an am.”
+“Beidh orainn ár dtuismitheoirí a chur ar an eolas ar dtús!” a dúirt Órla, ag gáire.
+“Sea!” a dúirt Dónal.
+Tháinig an tráthnóna, agus d’fhág an bheirt pháiste an leabharlann, agus iad lán le smaointe faoi na huaimheanna. Bhí a fhios acu go raibh eachtraí iontacha eile ag fanacht leo.
+Nuair a fuair siad ar ais go dtí an rang, dúirt an múinteoir, Bean Uí Néill, leo go raibh tionscadal scoile nua.
+“An bhféadfaimis eolas a dhéanamh faoin uaimheanna?” a d’fhiafraigh Órla.
+“Ar ndóigh, is féidir!” a d’fhreagair Bean Uí Néill, ag miongháire. “Is ábhar an-spéisiúil é sin. B’fhéidir gur féidir linn an leabhar a léamh arís agus scéalaí faoin ábhar.”
+
+D’fhan siad ag comhrá le Bean Uí Néill faoin Éirinn uaimhe ar feadh tamaill. D’inis Órla agus Dónal di faoin méid a d’fhoghlaim siad, agus d’iarr sí orthu a n-eolas a roinnt leis an rang ar fad.
+
+Ar na laethanta amach romhainn, chuir Órla agus Dónal a gcuid taighde ar a gcairt páipéir mhóir agus iad ar taispeáint ar an mballa sa rang. Rinne siad léachtaí gearra don rang. Thug siad cuireadh do gach duine léamh a dhéanamh faoi na huaimheanna agus faoin seanchas iontach a bhain leo. Bhí an oiread sin ceisteanna ann.
+“Cá bhfuil an uaimh is faide?” d’fhiafraigh duine den rang.
+“Cad a tharla sa leabhar ar thaiscéalaí,” a d’fhiafraigh fear eile.
+“Ar ndóigh, de réir an leabhair, tharla gur bhreathnaigh an taiscéalaí isteach sa dorchadas, an dorchadas is doimhne.”
+“An raibh eagla ort riamh?” a d’fhiafraigh cailín beag ón rang.
+“Bhí,” a d’fhreagair Dónal agus Órla le chéile, ag gáire.
+“Agus d’fhoghlaim muid níos mó,” a dúirt Órla. “Tá an uaimh is faide ar domhan i Meiriceá. Tá os cionn míle méadar ar fhaid.”
+“Agus an dorchadas istigh,” a lean Dónal. “Níl ach beagán solais.”
+
+Chuir Órla agus Dónal a gcuid léachtaí i láthair go fonnmhar agus go géarchúiseach. Thaitin na scéalta agus na grianghraif a roinneadh acu go mór leis na páistí eile. D’éirigh leo suim gach duine sa rang a spreagadh.
+
+Nuair a chríochnaigh na páistí eile na léachtaí faoi, chonaic Órla agus Dónal Bean Uí Néill, ag miongháire.
+“Bhí sé sin an-mhaith,” a dúirt sí. “Chonaic mé go léir a d’fhoghlaim sibh, agus a léir a dhéana sibh i mbun léitheoireachta. Tá tú araon an-chliste agus tá aithne agat ar na huaimheanna. Is dócha go bhfuil tú beirt, ina gcónaí sna huaimheanna freisin.”
+Rinne gáire an rang ar fad agus lean siad ag comhrá faoin Éirinn uaimhe ar feadh lae fada. Thuig Órla agus Dónal gur fhoghlaim siad an oiread sin rud i mbun na léachtaí luaite. B’fhearr i bhfad iad agus an leabhar, ná an scéalta iad féin. Agus anois, bhí beagán níos mó eolais ag gach páiste faoin saol i gcaitheamh na hÉireann uaimhe.
+</body>
+```

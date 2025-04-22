@@ -1,0 +1,87 @@
+<prompt>
+Please write a simple and easy-to-follow Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Tajemnice Domu Babci i Wnuczka, którzy odkryli Wspaniałe Przygody razem.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pl</lang_id>
+
+```xml
+<title>Tajemnice Domu Babci i Wnuczka, którzy odkryli Wspaniałe Przygody razem.</title>
+<body>
+Dawno, dawno temu, w małej, malowniczej wiosce, otoczonej zielonymi polami i szumiącym lasem, stał uroczy, stary dom. Należał on do babci Heleny, kobiety o dobrym sercu i błyszczących oczach, które widziały już wiele. W tym domu, każdego lata, spędzał wakacje mały chłopiec o imieniu Jaś, jej ukochany wnuczek.
+
+Dom babci Heleny był pełen tajemnic. Ściany pamiętały śmiech i radość wielu pokoleń, a podłogi skrzypiały cicho, jakby szeptały historie z dawnych lat. W każdym zakamarku można było znaleźć coś ciekawego – stare książki ze zniszczonymi okładkami, kolorowe obrazki na ścianach, pachnące lawendą suszone kwiaty w glinianych wazonach i wiele innych skarbów.
+
+Pewnego słonecznego poranka, gdy Jaś przyjechał na wakacje, babcia Helena zaprosiła go do ogrodu. Ogród był równie magiczny, co dom. Rosły w nim stare jabłonie, obficie obdarzające owocami, kolorowe rabaty pełne kwiatów i kręte ścieżki, które zapraszały do wędrówki.
+
+– Jasiu – powiedziała babcia Helena z uśmiechem – Chcę ci opowiedzieć o skarbach tego domu. Nie tych materialnych, ale o tych, które ukryte są w każdym jego kącie. Chcesz je odkryć razem ze mną?
+
+Oczy Jasia zabłyszczały z ciekawości. Zawsze uwielbiał przygody.
+
+– Tak! Tak! – zawołał podekscytowany.
+
+I tak rozpoczęła się ich wspólna przygoda. Pierwszym skarbem okazała się stara skrzynia na strychu. Babcia Helena powiedziała, że skrzynia należała do jej prababci i kryje w sobie niezwykłe historie. Z duszą na ramieniu wdrapali się na strych, gdzie unosił się zapach kurzu i starych mebli. W świetle słonecznym, które wpadało przez okno, widzieli mnóstwo zakurzonych przedmiotów. Pośród nich stała duża, drewniana skrzynia.
+
+– Otwórzmy ją – powiedziała babcia, podając Jasiowi stary klucz.
+
+Jaś z trudem otworzył skrzynię. W środku znaleźli stare listy pisane pięknym, kaligraficznym pismem, suszone kwiaty, haftowane serwetki i drewniane zabawki.
+
+– To listy od mojego dziadka, pisane jeszcze podczas wojny – wyjaśniła babcia Helena, ocierając łzę wzruszenia. – A te zabawki to ręcznie robione przez pradziadka. Każdy z tych przedmiotów opowiada jakąś historię.
+
+Jaś słuchał z zapartym tchem. Odkrył, że najciekawsze nie są przedmioty same w sobie, ale historie, które się z nimi wiążą. Przeczytali wspólnie kilka listów, podziwiając staranne pismo i ucząc się o odwadze i miłości, które przetrwały trudne czasy.
+
+Kolejnego dnia, ich poszukiwania przeniosły się do kuchni. Babcia Helena była wspaniałą kucharką. W kuchni pachniało zawsze świeżym pieczywem, cynamonem i owocami. Na półce z przyprawami, babcia wskazała na małą, metalową puszkę.
+
+– To puszka mojej babci – powiedziała. – Kryje w sobie przepis na najlepszy na świecie piernik.
+
+Wspólnie otworzyli puszkę. Przepis był stary i zapisany drobnymi, nieco niewyraźnymi literami. Jaś pomógł babci w pieczeniu piernika. Z uwagą mieszał składniki, podawał przyprawy i z radością obserwował, jak ciasto rośnie w piekarniku. Zapach piernika rozniósł się po całym domu, wypełniając go ciepłem i szczęściem. Kiedy piernik był gotowy, wspólnie go ozdobili i zjedli, dzieląc się radością z każdego kęsa. Jaś poczuł, że ten piernik smakuje lepiej niż wszystkie, jakie jadł dotychczas, bo został zrobiony z miłością i opowiedziami.
+
+Następnie babcia Helena zabrała Jasia do biblioteki. Mały pokój, pełen wysokich regałów z książkami, pachniał starością i papierem.
+
+– Książki to skarby, które otwierają przed nami nowe światy – powiedziała babcia.
+
+Przejrzeli wspólnie wiele książek, wybierając te z pięknymi ilustracjami i ciekawymi historiami. Babcia czytała Jasiowi bajki na dobranoc, a on z zachwytem słuchał o odważnych rycerzach, magicznych stworzeniach i dalekich krajach. Dzięki książkom, Jaś wyruszył w niezwykłe podróże, nie ruszając się z domu.
+
+Pewnego popołudnia, babcia Helena zabrała Jasia do ogrodu, aby odkryć kolejny skarb. Stanęli przy starej jabłoni.
+
+– Ta jabłoń – powiedziała babcia – jest świadkiem wielu lat. Pamięta śmiech dzieci, które bawiły się pod jej koronami, i ciche rozmowy zakochanych.
+
+Babcia Helena opowiedziała Jasiowi historię o tym, jak zasadziła to drzewo razem z dziadkiem, i jak co roku obdarzało ich wspaniałymi jabłkami. Razem zebrali jabłka, które babcia przetworzyła na pyszny kompot i dżem.
+
+Najbardziej niesamowita przygoda czekała na nich jednak w lesie, który otaczał dom. Babcia Helena opowiedziała Jasiowi o magicznym miejscu w lesie, gdzie podobno żyły leśne duszki. Postanowili wybrać się na poszukiwania.
+
+Zapakowani w plecaki, pełne kanapek i soku, ruszyli do lasu. Las witał ich szumem liści i śpiewem ptaków. Przez gałęzie przebijały się promienie słońca, tworząc magiczną grę świateł i cieni. Szli ścieżką, uważnie obserwując otoczenie. Nagle, babcia Helena zatrzymała się przy starym dębie.
+
+– Tutaj – powiedziała szeptem – podobno mieszkają leśne duszki.
+
+Oboje z Jasiem wsłuchali się w ciszę. Nic się nie działo. Jaś zaczął już wątpić w opowieść, gdy nagle usłyszał delikatny szmer. Wpatrywał się w miejsce pod dębem, aż ujrzał maleńkie, świecące światełko.
+
+– To duszki! – zawołał z zachwytem.
+
+Światełko wirowało w powietrzu, a potem zniknęło. Babcia Helena uśmiechnęła się do Jasia.
+
+– Leśne duszki pokazują się tylko tym, którzy mają dobre serce i wierzą w magię – powiedziała.
+
+Po powrocie z lasu, Jaś poczuł, że ta przygoda była czymś wyjątkowym. Zrozumiał, że prawdziwe skarby nie zawsze są widoczne na pierwszy rzut oka. Czasem ukrywają się w codziennych czynnościach, w rozmowach z bliskimi, w otaczającej nas przyrodzie i w małych radościach.
+
+Przez całe lato, Jaś i babcia Helena odkrywali kolejne tajemnice domu. Każda z nich była okazją do wspólnej zabawy, nauki i wzmacniania więzi. Dzień po dniu, Jaś stawał się mądrzejszy, bardziej wrażliwy i bardziej doceniał to, co miał.
+
+Nadszedł dzień pożegnania. Czas wakacji minął szybko. Jaś musiał wracać do domu. Zanim wyjechał, babcia Helena dała mu małą szkatułkę.
+
+– To pamiątka dla ciebie, Jasiu – powiedziała. – W środku znajdziesz najważniejszy skarb.
+
+Jaś otworzył szkatułkę. W środku, na miękkiej poduszeczce, leżało serduszko.
+
+– To serce wypełnione miłością i wspomnieniami – powiedziała babcia Helena. – Pamiętaj, że najważniejsze skarby kryją się w naszych sercach. I zawsze wracaj, byśmy mogli razem odkrywać kolejne tajemnice.
+
+Jaś przytulił babcię, ściskając mocno szkatułkę. Wiedział, że te wakacje zmieniły go na zawsze. Zyskał nie tylko wspaniałe wspomnienia, ale także najważniejszy skarb – miłość i obecność babci w swoim życiu.
+
+Pożegnał babcię, wsiadł do samochodu i machnął na pożegnanie. Obiecał sobie, że wróci do niej następnego lata, aby znów wspólnie odkrywać tajemnice, które skrywał stary dom. I w sercu nosił obietnicę, że będzie szukał magii w każdym dniu, tak jak nauczyła go tego ukochana babcia.
+</body>
+```

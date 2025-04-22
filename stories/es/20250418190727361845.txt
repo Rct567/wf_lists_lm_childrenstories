@@ -1,0 +1,89 @@
+<prompt>
+Please write a uncomplicated Spanish children's story that is at least 1000 words long.
+It must be completely written in proper Spanish (ES).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La doctora amable y la curación de los animalitos enfermos.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>es</lang_id>
+
+```xml
+<title>La doctora amable y la curación de los animalitos enfermos.</title>
+<body>
+En un valle verde y soleado, vivía una doctora muy amable llamada Sofía. La doctora Sofía amaba a todos los animales del mundo. Tenía una clínica pequeña pero muy acogedora, con ventanas grandes que dejaban entrar mucha luz. En la entrada, había un letrero pintado con letras coloridas que decía: “Clínica para Animalitos – Doctora Sofía”.
+
+La doctora Sofía era conocida por su gran corazón y sus manos mágicas. Sabía mucho sobre cómo cuidar a los animalitos, desde los gatitos juguetones hasta los osos perezosos. Cada mañana, antes de que el sol despertara por completo, Sofía ya estaba en la clínica, preparando sus instrumentos y revisando su libro de recetas mágicas.
+
+Un día, mientras el sol pintaba el cielo de rosa y naranja, llegó la primera paciente. Era un conejito llamado Ramón, con las orejas caídas y la nariz roja. Ramón se veía muy triste.
+
+—¡Buenos días, doctorita Sofía! —dijo Ramón con voz débil.
+
+—¡Buenos días, Ramón! —respondió Sofía con una sonrisa— ¿Qué te pasa, amigo mío?
+
+Ramón suspiró y dijo: —Me duele mucho la pancita y no puedo comer las zanahorias que tanto me gustan.
+
+Sofía le hizo una revisión completa. Le escuchó el corazón, le palpó la pancita con suavidad y le miró los dientes.
+
+—Parece que tienes un pequeño problema con la digestión, Ramón. —dijo Sofía—. No te preocupes, tengo la solución.
+
+Sacó de un frasco un jarabe rosado con sabor a fresas y se lo dio a Ramón en una pequeña jeringa.
+
+—Este jarabe te ayudará a sentirte mejor. Tómalo tres veces al día y pronto estarás saltando y comiendo zanahorias como siempre.
+
+Ramón se tomó el jarabe con confianza y le dio las gracias a la doctora Sofía. Sofía le dio unas palmaditas en la espalda y le dijo: “¡Recupérate pronto, campeón!”
+
+Mientras Ramón se recuperaba, un pajarito pequeño y azul, llamado Azulito, entró volando a la clínica. Tenía un ala lastimada y no podía volar.
+
+—¡Ayuda, ayuda! —cantaba Azulito con voz aguda—. ¡Me he caído del nido!
+
+Sofía lo recogió con cuidado. Examinó su ala cuidadosamente, con su mirada experta y gentil. Limpió la herida con un poco de agua tibia y le colocó una pequeña venda.
+
+—No te preocupes, Azulito. —le dijo Sofía—. Pronto estarás volando de nuevo. Necesitarás descansar un poco.
+
+Le preparó una camita suave con algodón y le dio semillas para comer. Azulito, agradecido, se acurrucó en la camita y le sonrió a Sofía.
+
+Durante el día, la clínica de Sofía no dejó de recibir visitantes. Un perrito labrador, llamado Lucas, llegó cojeando con una pata lastimada. Un gatito negro, llamado Noche, tenía un resfriado y estornudaba sin parar. Una tortuga, llamada Lenta, se había caído de una piedra y tenía el caparazón un poco roto.
+
+Para cada animalito, la doctora Sofía tenía una cura y una palabra de consuelo. A Lucas le vendó la pata y le dio un huesito especial para que se recuperara. A Noche le dio un poco de miel con limón para la tos y le hizo un poco de masajes en el pecho. A Lenta le aplicó una pomada mágica en su caparazón y le prometió que se curaría.
+
+La doctora Sofía nunca se cansaba de ayudar. Trabajaba con paciencia y dedicación, con el único objetivo de ver a los animalitos sanos y felices. Usaba hierbas mágicas, ungüentos especiales y mucha, mucha bondad. Sabía que el amor y el cuidado son el mejor remedio para cualquier enfermedad.
+
+Al caer la tarde, el valle se pintó de colores anaranjados y morados. Todos los animalitos que habían sido atendidos por Sofía se sentían mucho mejor. Ramón jugaba alegremente con sus amigos conejos, Azulito cantaba canciones desde su ventana, Lucas correteaba por el jardín y Noche ronroneaba en el regazo de Sofía. Lenta tomaba el sol en su rincón especial.
+
+Sofía se sentó en un banco a descansar, rodeada de sus pequeños pacientes. Miró a todos y sonrió con satisfacción. Sabía que había hecho un buen trabajo.
+
+De repente, escuchó un pequeño sollozo. Era un mapache, llamado Mapachín, que tenía la carita cubierta de lágrimas.
+
+—¿Qué te pasa, Mapachín? —le preguntó Sofía con ternura.
+
+Mapachín levantó la mirada y dijo: —Me he perdido en el bosque y tengo mucho miedo. No sé cómo volver a casa.
+
+Sofía se puso de pie y lo abrazó.
+
+—No te preocupes, Mapachín. Yo te ayudaré. Dime, ¿dónde vives?
+
+Mapachín le contó que vivía cerca del río, en un árbol grande y hueco. Sofía, con su farol, decidió acompañarlo a casa. Caminaron juntos por el bosque, cruzando arroyos y pasando por debajo de árboles frondosos.
+
+Después de un rato, llegaron al río. Desde lejos, se veía la silueta del árbol de Mapachín.
+
+—¡Mira, ahí está mi casa! —exclamó Mapachín, saltando de alegría.
+
+Sofía lo acompañó hasta la entrada de su casa. Allí, lo esperaban sus padres, preocupados.
+
+—¡Mapachín! ¡Hijo mío! —gritaron los padres del mapache, corriendo a abrazarlo.
+
+Agradecieron a la doctora Sofía por su ayuda. Sofía, con una sonrisa, les dijo que siempre estaría dispuesta a ayudar a quien lo necesitara.
+
+Al volver a la clínica, el cielo ya estaba completamente oscuro y salpicado de estrellas. Sofía, cansada pero feliz, se preparó para ir a dormir. Sabía que mañana, el sol volvería a salir y que, de nuevo, tendría muchos animalitos que cuidar.
+
+Antes de cerrar los ojos, la doctora Sofía pensó en todas las criaturas que había ayudado ese día. Se sentía feliz y agradecida por tener la oportunidad de hacer la diferencia en el mundo. Sabía que su trabajo era importante y que el amor y la bondad son la mejor medicina.
+
+Y así, en su clínica pequeña y acogedora, la doctora Sofía continuó curando a los animalitos enfermos, demostrando que con cariño, paciencia y un poco de magia, todo es posible. Cada día, ella extendía su mano, escuchando los latidos de los corazones de sus pacientes y ofreciendo una sonrisa que calmaba el alma.
+Y todos los animales del valle sabían que siempre, siempre, podían contar con la doctora Sofía. Era su amiga, su confidente, y su protectora. Era la doctora amable, la doctora de los corazones grandes, la doctora que los sanaba y los hacía felices. Y en ese valle verde, la vida continuaba floreciendo, gracias a la doctora Sofía y a su infinito amor por los animales.
+Fin.
+</body>
+```

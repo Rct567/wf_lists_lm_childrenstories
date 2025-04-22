@@ -1,0 +1,65 @@
+<prompt>
+Please write a timeless Slovak children's story that is at least 1000 words long.
+It must be completely written in proper Slovak (SK).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Stratená hviezda a jej cesta späť na oblohu k svojim kamarátom.'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>sk</lang_id>
+
+```xml
+<title>Stratená hviezda a jej cesta späť na oblohu k svojim kamarátom.</title>
+<body>
+V malej, útulnej dedinke, schovanej v lone zasnežených Tatier, žila kdysi dávno malá, ale veľmi veselá hviezda. Volala sa Zornička. Zornička nebola ako ostatné hviezdy. Kým jej sestry a bratia na nočnej oblohe krásne žiarili a usmievali sa na ľudí dole na zemi, Zornička sa najradšej hrala. Milovala skrývačky medzi mrakmi, pretekala sa s padajúcimi hviezdami a často sa strácala v rozsiahlej tme.
+
+Jednej noci, keď ostatné hviezdy už dávno svietili, Zornička sa vyhrala tak, že sa stratila. Hrala sa s bielučkým, nadýchaným mrakom a vrazila doňho takou silou, že sa oddelila od svojej oblačnej rodiny a odrazu sa ocitla sama, v úplnej tme.
+
+"Joj, kde som?" zaplačkala Zornička, jej malé, zlaté svetielko sa začalo triasť od strachu. "Kde sú moji kamaráti? Kde je Veľký Voz? Kde je Mesiac, ktorý na nás vždy dozerá?"
+
+Zornička sa rozhliadla navôkol, ale nevidela nič, iba čiernotu. Cítila sa strašne osamelo. Začala letieť, dúfajúc, že nájde cestu späť. Letela dlho, veľmi dlho, až jej svetlo začalo slabnúť.
+
+Zrazu, v diaľke, uvidela svetlo. "Hurá!" zvolala Zornička. "Niečo vidím! Niekto je tam!"
+
+Letela k svetlu čo najrýchlejšie. Keď sa priblížila, zistila, že to nie je hviezda, ale malý, zapálený lampášik, ktorý svietil v okne malej, drevenej chalúpky. Pred chalúpkou stála stará žena, babka Helena, s vráskavou tvárou a dobrotivými očami.
+
+"Kto si?" spýtala sa Zornička, keď sa zastavila pred lampášikom.
+
+"Som Zornička," odpovedala hviezda smutným hláskom. "Stratila som sa a neviem, ako sa dostať späť na oblohu."
+
+Babka Helena sa usmiala. "Neboj sa, dieťa. Ja ti pomôžem. Poď sem bližšie."
+
+Zornička poslúchla a vletela do chalúpky. Babka Helena ju pozorné prezrela. "Si krásna hviezda," povedala. "Ale vyzeráš unavene. Poď, posadíš sa a dáme si teplý čaj."
+
+Babka Helena Zorničku zahriala a dala jej sladký med, aby sa posilnila. Zornička jej rozpovedala celý svoj príbeh. Babka Helena ju s pozornosťou počúvala a potom povedala: "Vieš, Zornička, cesta späť na oblohu je dlhá a ťažká. Musíš byť statočná a odvážna. Ale neboj sa, ja ti dám dar, ktorý ti pomôže."
+
+Babka Helena vzala z poličky malú, striebornú lyžičku, ktorú mala zdobenú hviezdicami. "Táto lyžička," povedala, "ti ukáže správnu cestu. Vždy, keď sa budeš cítiť stratená alebo smutná, podrž ju v ruke a ona ti napovie, kam máš ísť."
+
+Zornička s vďakou prijala lyžičku a babke Helene sa poďakovala. Potom sa rozlúčila a vydala sa na cestu.
+
+Letela cez lesy, cez hory, cez rieky. Cesta bola dlhá a plná prekážok. Niekedy sa cítila zúfalo, ale vždy si spomenula na slová babky Heleny a na striebornú lyžičku. Vždy, keď sa stratila, vybrala lyžičku a držala ju v ruke. A lyžička, ako zázrakom, jej ukazovala správnu cestu.
+
+Počas svojej cesty stretla Zornička mnoho zaujímavých ľudí a zvierat. Stretla jeleňa s obrovskými parožiami, ktorý jej ukázal cestu cez tmavý les. Stretla malú veveričku, ktorá jej dala orechy, aby sa posilnila. Stretla dobrosrdečného pastiera, ktorý jej rozprával príbehy o hviezdach a oblohe.
+
+Raz, keď letela ponad rozľahlú lúku, zbadala dole, pri rieke, hrajúce sa deti. Boli to tri malé dievčatá, ktoré sa smiali a radovali. Zornička sa na ne pozrela a pocítila v srdci túžbu podeliť sa s nimi o svoje svetlo.
+
+Preniesla k dievčatám trochu svojho svetla. Dievčatá prestali s hrou a zdvihli hlavy k oblohe. Vyzerali, že zažívajú niečo krásne. Zornička sa usmiala, pretože v tú chvíľu vedela, že robí správnu vec.
+
+Po mnohých dňoch a nociach, plných dobrodružstiev a skúseností, sa Zornička konečne priblížila k oblohe. Boli už cítiť chladný vánok a vidieť jemný lesk hviezd. Vzala striebornú lyžičku a pevne ju zovrela v ruke. Lyžička sa rozžiarila jasnejšie ako predtým.
+
+A potom, zrazu, uvidela známe tváre! Jej sestry a bratia, ostatné hviezdy, svietili jasnejšie ako kedykoľvek predtým. Zdalo sa, akoby ju vítali.
+
+"Zornička!" zvolali v zbore. "Kde si bola tak dlho? Báli sme sa o teba!"
+
+Zornička sa rozbehla k nim. "Prepáčte, že som sa stratila," povedala so slzami radosti v očiach. "Bolo to dlhé dobrodružstvo, ale už som späť!"
+
+Hviezdy sa radovali. Obklopili Zorničku a zahriali ju svojím svetlom. Znova sa cítila súčasťou svojej rodiny, súčasťou oblohy.
+
+Od tej noci Zornička už nikdy nezabudla na cestu späť. Boli pre ňu cennou lekciou. Naučila sa, že aj keď sa stratíte, vždy existuje cesta späť, ak máte odvahu a dôveru. A strieborná lyžička od babky Heleny sa stala jej najväčším pokladom.
+
+A tak, Zornička, krásna, veselá hviezda, svieti dodnes na nočnej oblohe, žiari rovnako jasne ako ostatné hviezdy, a s úsmevom sleduje deti dole na zemi, a pripomína im, že ani v najväčšej tme nie sú nikdy úplne sami. Pretože vždy existuje nádej, a cesta späť k svojmu domovu. A ak sa niekedy budete cítiť stratení, nezabudnite sa pozrieť na hviezdy. Možno práve Zornička vám bude svietiť a pripomínať, že dobrodružstvo je súčasťou života a že nakoniec, všetko sa vždy dobre skončí.
+</body>
+```

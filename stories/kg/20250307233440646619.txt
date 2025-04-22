@@ -1,0 +1,46 @@
+<prompt>
+Please write a simple and easy-to-follow Kongo children's story that is at least 1000 words long.
+It must be completely written in proper Kongo (KG).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>kg</lang_id>
+
+<title>Nkanza ya Mbisi ya Mbula</title>
+<body>
+Nkanza ya Mbisi ya Mbula
+
+Muna mbanza ya Kongo, kuna muntu mosi ya nkumbu andi Mukuna.  Mukuna yandi vandaka muntu ya ngolo, ya lendo, kansi yandi vandaka mpi muntu ya ntima ya mbote. Yandi vandaka kutala bambisi, yo vanda ya nzadi yo vanda ya ntoto.  Yandi vandaka kuzola mpi kulungisa bantu na nzila ya kubakisa banzila ya mabundu ya kinsuni.
+
+
+Kuna lukufi, na kinsansa ya mbanza, kuna vandaka mbanza ya ngolo ya mbeni, yo vandaka na nsudi ya nzadi ya mpembe. Nsungi ya nzie, bambisi ya nzadi vandaka kulwata monso ya ntete. Kansi, nzo na nzadi yango yina, yo vandaka mbwa ya mbisi.  Bonso kilundu ya mbwa, na nzila ya kubumba kikalulu ya nzadi. Yo vandaka kutambula ntangu yonso, yandi vandaka na kikalulu ya kusadila mazyoki yina vandaka na zulu ya nzadi. 
+
+
+Mukuna vandaka kuyitisa makaya na yandi ya mpembe.  Ntangu yandi vandaka kulutisa minyikinu na ngolo na yandi, yandi vandaka kumona mutindu banzadi na kulutisa mabundu ya kinsuni. Konso ntangu yandi vandaka kutambula, yandi vandaka kudiyangisa na nzila ya ngolo ya lero ya bambisi.  Yina vandaka mutindu ya nsinga ya nene.
+
+
+Mbala mosi, Mukuna kumaka kumona mutindu ngonda vandaka kufwa. Yandi vandaka kukwenda na nzadi yina.  Ntang
+u yandi kumaka penepene, yandi waka makelele ya nene ya mbeni. Mbisi, mbisi ya nzadi ya mpembe, yo vandaka kubumbama.  Ntu na yo ya ngolo, yo vandaka kubumbama,  yo vandaka kuzingisa ntima ya yandi, kansi ntima ya Mukuna, na kutadila banzila ya nzadi ya nti, yo vandaka kumenga ntima ya muntu yonso. 
+
+
+Mbisi ya nzadi vandaka kumata, makayala ya nene yina vandaka na yandi yo vandaka kutina mukuna, nima ya mvimba ya muntu. Yo vandaka kundima ve, yandi vandaka kukwenda kota na ngumba, kutesa bambisu ti mikondu. Yandi vandaka kutola yo kwaye. Yandi vandaka kudimonisa mbisi ya nzadi na mpenza.  Yandi vandaka kuwila Mukuna mawa. Yandi vandaka kundima nsungi ya kukwenda kusala.  Mukuna waka mbisi yango, kansi yandi vandaka kusala.
+
+
+Mukuna vandaka kutomboka kulutisa lero na yandi, yina vandaka kusadisana ti nzadi yango. Yandi vandaka kubaka mampa ya nzadi yango na maboko na yandi, na kukota yo, na kuwila yo nzala, nsungi mosi. Kansi, yandi vandaka kutomboka.  Ndinga yina vandaka kukwenda. Na kusosa mbisi, ya mbi. Mukuna waka. Yina nsudi mosi ya nzadi.
+
+
+Yandi vandaka kubakisa mutindu yandi lenda tanina luzingu ya bambisi ya mbisi,  na mpenza. Mukuna vandaka kubakisa mpenza lukumu ya luzingu yonso. Yandi vandaka kutula dikema ya kulwata mfuka ya nzadi. Yandi zabaka, nde yandi fwete sadila nzila ya mbote ya kusala mpi ya kutadila ntima, nzila ya mbote, sambu na bambisi na mbanza yina.
+
+
+Na kisalu na yandi ya nkaka,  yandi salaka mbote na mpila ya kusadisa nzadi, yina vandaka mpenza mpi kunu kumona mawa. Yo kumaka kumona yandi kaka ti makaya na yandi na muntu.
+
+
+Yandi kumaka mpi kuwakana ti bambisi ya kinsuni.  Yo kumaka kumonisa nsadisi yina vandaka na Mukuna sambu na kufuta luzingu ya bantu. Nde nzadi fwete tula na maboko na yandi mpenza. Yina vandaka nsasa ya ngolo na yandi.  Yina salaka mukuna mosi ya mbote na mbanza yonso ya Kongo. 
+
+
+Nsungi yina, bambisi yonso kuvandaka na luzolo mpi mawa. Yo vandaka mutindu ya mbote. Mukuna, mbisi ya nzadi ti mbisi ya ntoto na lutila.  Yandi monisaka nzila ya luzingu yina. Muntu, mbuma, bambisi ya mbote. Nkanza yango vandaka ndola ya nene, sambu na luzingu na yo.  Mbanza Kongo mpi vandaka na mpenza kiese sambu na luzolo yonso na nsuka ya luzingu.
+</body>

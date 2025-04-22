@@ -1,0 +1,36 @@
+<prompt>
+Please write a educational Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Yulduzlar mamlakatiga sayohat qilgan jasur bola va uning eng yaqin siri.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>uz</lang_id>
+
+<title>Yulduzlar mamlakatiga sayohat qilgan jasur bola va uning eng yaqin siri.</title><body>
+Bir zamonda, juda uzoqda, Osiyoning qadimiy go'zalligi - O'zbekiston zaminida, Olim ismli jasur bir bola yashar edi. Olimning ko'zlari osmon kabi musaffo, sochlari esa tun kabi qora edi. U har doim yulduzlarga termulib, ularning sirlarini bilishga intilardi. Olimning eng yaqin siri – u yulduzlar mamlakatiga sayohat qilishni juda orzu qilardi. U har kuni bog'ida o'tirib, teleskop orqali osmonni kuzatardi, yulduzlar haqidagi kitoblarni o'qirdi va o'z tasavvurida u yerga qanday borishni rejalashtirardi.
+
+Bir kuni kechasi, oyning nuri shabadaning ohangi bilan uyg'unlashgan paytda, Olim uxlab qoldi. Tushida u o'zini katta-katta yulduzlar bilan bezatilgan, yaltiroq bir yo'lda topdi. Yo'l uni go'zal bir eshikka boshladi. Eshikning tepasida "Yulduzlar mamlakatiga xush kelibsiz!" degan yozuv bor edi. Olim qo'rquv bilan eshikni ochdi va o'zini sehrli bir dunyoda ko'rdi.
+
+Yulduzlar mamlakati yorqin ranglarga to'lgan, quvnoq va baxtli edi. Osmonda rang-barang yulduzlar uchib yurardi, ularning har biri o'ziga xos jilosi bilan yarqirardi. Olim hayron qoldi. Uning oldida yulduz shaklida uchuvchi, kulgili bir figura paydo bo'ldi. U Olimga yaqinlashib, yumshoq ovoz bilan: "Salom, men Yorqinman! Yulduzlar mamlakatiga xush kelibsiz! Sizni bu yerga sirlar va qiziqarli topshiriqlar kutmoqda." dedi.
+
+Yorqin Olimni mamlakat bo'ylab sayohatga olib ketdi. Ular turli xil yulduzlarga duch kelishdi. Birinchi bo'lib, ular Matematika yulduziga yo'liqdilar. Matematika yulduzi juda aqlli edi. U Olimga turli xil matematik misollarni berdi. Olim bu misollarni juda tez yechdi. Uga qo'shimcha qilib, o'zining matematika bo'yicha bilimlari bilan hayratga soldi. Matematika yulduzi Olimga juda xursand bo'ldi va unga bilim ramzi sifatida kichik bir geometrik shakl - uchburchakni sovg'a qildi. "Uchburchak - bu mustahkamlik va bilim ramzi," dedi u. "Uni har doim yoningizda saqlang va bilimingizni oshirishda davom eting!"
+
+Keyin ular Adabiyot yulduzining yoniga borishdi. Adabiyot yulduzi katta kitobni ushlab o'tirardi. U Olimga turli xil she'rlar va ertaklarni o'qib berdi. Olimning ichi zavqqa to'ldi. U she'rlarni diqqat bilan tingladi, ertak qahramonlarining sarguzashtlariga berildi. Adabiyot yulduzi Olimga badiiy asarlar dunyosini tanishtirdi. Olim adabiyotga bo'lgan qiziqishi ortib bordi. Adabiyot yulduzi Olimga o'z qalbini ochadigan, hikoyalar yozadigan qalam sovg'a qildi. "Qalam sizga his-tuyg'ularingizni, tasavvuringizni qog'ozga tushirishga yordam beradi," dedi u. "Sizdan juda ko'p ajoyib hikoyalar kutamiz!"
+
+Ular keyin Tabiat yulduziga yo'l olishdi. Tabiat yulduzi atrofida ko'plab gullar, daraxtlar va qushlar sayr qilib yurardi. U Olimga sayyoraning go'zalligini ko'rsatdi, hayvonlarning hayoti haqida hikoya qildi, daraxtlar bilan gaplashdi. Olim tabiatning naqadar boy va ajoyib ekanligiga amin bo'ldi. Tabiat yulduzi Olimga Yer sayyorasining kichik bir modeli – globusni sovg'a qildi. "Bu sizga dunyoni, undagi har bir narsani anglashga yordam beradi," dedi u. "Uni qadrlang va atrof-muhitingizni himoya qiling!"
+
+Sayohat davom etdi. Ular tarix yulduzini, san'at yulduzini, fan yulduzini ko'rdilar. Har biri Olimga o'z bilimlarini berishga, unga yangi narsalarni o'rgatishga harakat qildi. Olim har bir yulduzdan nimadir o'rgandi, u yangi bilimlar bilan to'ldi. Ular bilan suhbatlashar ekan, Olim o'zining ichki kuchini va intilishlarini yanada yaxshiroq his qildi.
+
+Bir kuni Yorqin Olimga: "Endi siz Yulduzlar mamlakati sirlarini bilib oldingiz. Siz juda jasursiz va bilimga chanqoqsiz. Ammo har bir jasur inson o'z vatani, oilasi bilan birga bo'lishi kerak. Sizning uyga qaytish vaqti keldi," dedi.
+
+Olim qayg'urdi. Yulduzlar mamlakati juda ajoyib edi, ammo u ota-onasi, do'stlari bilan qolishni juda istardi. U bilan xayrlashish qiyin bo'ldi. Har bir yulduz unga yaxshi tilaklar bildirdi, unga yangi bilimlar sovg'a qildi va uni yaxshi inson bo'lishga chaqirdi.
+
+Uning ko'zidan bir tomchi yosh oqdi, keyin hamma narsa g'oyib bo'ldi. Uning ko'zlari ochildi va u o'z yotoqxonasida ekanligini tushundi. Uning yonida teleskopi turardi. U derazaga qarab, osmonga termuldi. U endi yulduzlarga boshqacha nazar bilan qarardi. U ularni yaxshi tushunardi, ularning sirlaridan xabardor edi.
+
+U to'shagidan turdi va Yulduzlar mamlakatida olgan sovg'alarini topdi: uchburchak, qalam va globus. U o'zini butunlay o'zgartirgan edi. U o'z oldiga katta maqsadlar qo'yishga, o'qishga, bilim olishga, o'z yaqinlariga g'amxo'rlik qilishga va eng muhimi, orzusiga erishishga ahd qildi. Olim o'sha kuni ertasi ota-onasiga tushini aytib berdi. Ular ham uning jasoratiga va bilimga intilishiga juda quvonishdi. Olim endi boshqacha odam bo'lib ulg'aydi. U o'z bilimini doimo kengaytirardi, insonlarga yaxshilik ulashdi va eng asosiysi, orzusiga erishishga harakat qildi. Uning eng katta siri - Yulduzlar mamlakatiga qilgan sayohati - unga qanot bo'ldi va u endi hech qachon yulduzlardan qo'rqmasdi. U endi yulduzlar bilan birga edi, ularning qalbida, ularning hikoyalarida.
+</body>

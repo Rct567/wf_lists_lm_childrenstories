@@ -1,0 +1,48 @@
+<prompt>
+Please write a silly Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kissanpentujen seikkailu puutarhassa: kepposet ja ystävyys puutarhan pimeydessä.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>fi</lang_id>
+
+<title>Kissanpentujen seikkailu puutarhassa: kepposet ja ystävyys puutarhan pimeydessä.</title>
+<body>
+Eräänä sateisen kesäpäivänä, kun pilvet olivat harmaat ja taivas oli melkein musta, kissanpentu nimeltä Miki päätti lähteä seikkailulle puutarhaan. Miki oli utelias ja rohkea kissanpentu, joka halusi tutkia maailman ympärillään. Hänellä oli kolme ystävää, jotka olivat myös kissanpentuja: Saku, Joku ja Hupi. He asuivat samassa talossa ja olivat aina yhdessä.
+
+Miki kutsui ystävänsä mukaansa seikkailulle ja he lähtivät puutarhaan. Puutarha oli täynnä erilaisia kasveja, kukkia ja puita. Kissanpentujen oli helppo piillä ja juosta kasvien seassa. He leikkiä ja kilpailivat, kuka pääsee ensin puutarhan toiseen päähän.
+
+Kun he juoksivat, he huomasivat, että puutarhassa oli paljon eläimiä. He näkivät lintuja, jotka laulivat ja lentävät puitten välissä. He näkivät myös hyönteisiä, kuten mehiläisiä ja perhosia, jotka lensivät kukkien ympärillä. Kissanpentujen oli vaikea olla ottamatta niitä kiinni, mutta he muistivat, että eläimet ovat ystäviä, eivät leluja.
+
+Puutarhassa oli myös paljon salaperäisiä paikkoja. Kissanpentujen löysi vanhan, kuivan kaivon, joka oli peitetty kasvien alle. He löysivät myös vanhan, rikkinäisen penkin, joka oli jäänyt puutarhaan. Miki ja hänen ystävänsä istuivat penkille ja katselivat ympärillään olevaa puutarhaa.
+
+Kun ilta alkoi laskea, kissanpentujen huomasivat, että puutarha oli paljon erilainen kuin päivällä. Kasvit ja puut olivat varjoissa, ja ilmassa oli outo, salaperäinen tunnelma. Kissanpentujen alkoi tuntua, että he olivat aivan yksin puutarhassa.
+
+Miki, joka oli aina rohkea, päätti, että heidän pitää tutkia puutarhaa pimeässä. Hän kutsui ystävänsä mukaansa, ja he lähtivät liikkeelle. He kävelivät hitaasti ja varovasti, kuunnellen ääniä ympärillään. He kuulivat öiseen elämään kuuluvia ääniä, kuten pöllöjen haukkumista ja hiirien piipitystä.
+
+Kun he kävelivät, he löysivät vanhan, hylätyn talon puutarhan takana. Talo oli pimeä ja salaperäinen, ja kissanpentujen tuntui, että se oli täynnä mysteerejä. Miki, joka oli utelias, päätti, että heidän pitää mennä taloon sisään.
+
+He menivät taloon ja löysivät itsensä isoista, tyhjistä huoneista. Huoneet olivat pimeitä ja kylmiä, ja kissanpentujen tuntui, että he olivat aivan yksin. Mutta sitten he kuulivat äänen. Ääni tuli ylhäältä, ja se kuulosti kuin joku olisi puhunut heille.
+
+Kissanpentujen menivät ylös ja löysivät vanhan, viisaan kissan, joka istui ikkunalla. Kissa katseli heitä ja puhui heille. "Hei, kissanpentujen", kissa sanoi. "Mitä teette täällä? Teidän ei pitäisi olla täällä pimeällä."
+
+Miki ja hänen ystävänsä selittivät, että he olivat tulleet tutkimaan puutarhaa ja taloa. Vanha kissa kuunteli heitä ja sanoi: "Te olette rohkeita ja uteliaita. Minä olen täällä, jotta voisin opettaa teille asioita, jotka te ette tiedä."
+
+Vanha kissa opetti heille puutarhan ja talon historiasta. Hän kertoi heille, kuinka puutarha oli aikoinaan ollut kaunis ja täynnä elämää. Hän kertoi heille, kuinka talo oli ollut perheen koti, jossa oli asunut paljon lapsia ja eläimiä.
+
+Kissanpentujen kuuntelivat vanhan kissan tarinaa ja oppivat paljon uutta. He ymmärsivät, että puutarha ja talo olivat täynnä mysteerejä ja tarinoita, jotka odottivat tutkimista.
+
+Kun vanha kissa oli lopettanut puhumisen, kissanpentujen kiittivät häntä ja lähtivät takaisin puutarhaan. He olivat nälkäisiä ja väsyneitä, mutta he olivat myös onnellisia ja tyytyväisiä. He tiesivät, että he olivat oppineet paljon uutta ja että he olivat saaneet uuden ystävän, vanhan kissan.
+
+Kun he palasivat taloon, he kertoivat omistajilleen, mitä he olivat kokeneet. Omistajat kuuntelivat heitä ja olivat ylpeitä kissanpentujen rohkeudesta ja uteliaisuudesta.
+
+Seuraavana päivänä kissanpentujen lähtivät uudestaan puutarhaan, mutta tällä kertaa heillä oli mukana vanha kissa. He tutkivat puutarhaa ja taloa yhdessä, ja vanha kissa opetti heille vielä enemmän asioita, jotka he eivät tienneet.
+
+Kissanpentujen ja vanhan kissan ystävyys kesti pitkään, ja he tutkivat puutarhaa ja taloa yhdessä monena päivänä. He oppivat paljon uutta, ja he olivat aina onnellisia ja tyytyväisiä.
+
+Ja niin kissanpentujen seikkailu puutarhassa jatkui, täynnä kepposia, ystävyyttä ja mysteerejä. He tiesivät, että he olivat osa jotain suurempaa, jotain, mikä yhdisti heidät puutarhaan, taloon ja eläimiin, jotka asuivat siellä.</body>

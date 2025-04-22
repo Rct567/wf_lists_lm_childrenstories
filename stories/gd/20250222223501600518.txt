@@ -1,0 +1,73 @@
+<prompt>
+Please write a dialog-based Scottish Gaelic children's story that is at least 1000 words long.
+It must be completely written in proper Scottish Gaelic (GD).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'An Crann a' Fàs air a' Chnoc'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>gd</lang_id>
+
+<title>An Crann a' Fàs air a' Chnoc</title>
+<body>
+Am bi ùidh agad ann an sgeulachd mu chrann beag a bha a' fàs air a' chnoc? Bha e na chrann beag, dorcha, agus a' bruidhinn ri gach duine agus gach nì a bha timcheall air.  Bha ainm air a' chrann:  Iain.
+
+"A h-uile duine a tha a' coiseachd anns an àite seo," thòisich Iain, "feuch an cuir sibh faicinn air mo chlach-mhearachd. Tha mi a' fàs."
+
+"Tha thu a' fàs, Iain?" fhuair e fios bho ghaoth nach robh roimhe.
+
+"Tha mi a' fàs," thuirt Iain, "a' fàs nas àirde agus nas làidire gach là. Ach, chan eil mi a' coimhead cho dona 's a tha mi a' smaoineachadh."
+
+"Is e sin ceist fhathast!" chuala Iain bho bheag-bheatha a bha a' seinn anns na craoibhean.
+
+"Tha mi a' faicinn cuid de dhuilgheadasan a' dol air an làimh," thuirt Iain.  "Tha mi a' faicinn na fiadh-bheatha, na h-eòin, agus na gaothan a' seinn gu ceart mu'm bhòidhchead."
+
+"Tha thu a' fàs, Iain," thuirt na gaothan, "agus tha thu a' fàs gu math."
+
+"Tha mi a' fàs, ach chan eil mi cho furasta a' coimhead riut," arsa Iain.  "Tha mi a' faireachdainn beag na bu mhionnach."
+
+"Gabh aire do na craoibhean mòra," thuirt beàrn a bha a' tighinn thairis air a' chnoc. "Tha iad an làthair airson a' bhuidhinn."
+
+"Tha mi a' coimhead air, ach chan eil mi a' faicinn a' chùis," thuirt Iain.
+
+"Tha cuid de chomain eile a' dol air an làimh," chuir a' bheag-bheatha gu h-èadhair. "Feuch an cuir sibh faicinn air na cloinne a tha a' cluich anns an fiodh."
+
+"Tha mi a' faicinn iad!" chuir Iain.  "Tha iad a' cluich gu math."
+
+"Tha iad a' cluich, ach faodaidh iad a bhith a' fàs cuideachd," thuirt a' bheag-bheatha.
+
+"A' fàs?" thuirt Iain.  "Ciamar as urrainn dhaibh sin a dhèanamh?"
+
+"Tha iad a' fàs gu ceart air a' bheag-bheatha!" arsa na gaothan.
+
+"Feuch an cuir sibh faicinn air a' bhlàth," thuirt Iain.  "Tha iad a' tuiteam suas."
+
+"Tha iad gu math," fhuair Iain fios bho ghrinn sgaoilte.
+
+"Aon latha," thuirt Iain, "bidh mi cho mòr 's a tha na craoibhean mòra.  Tha mi ag iarraidh a bhith cho làidir 's a tha iad."
+
+"Tha sin ceart, Iain," thuirt a' bheag-bheatha. "Feuch an cuir thu faicinn air na h-eòin.  Faodaidh iad an àite a chruthachadh."
+
+Thòisich Iain air a' fàs nas àirde.  Thòisich e air a bhith nas làidire.  Thòisich e air a bhith a' faireachdainn mar chrann fìor.  Bha e a' faireachdainn mar a bha iad uile a' cur làmh air a' chrann.
+
+"Tha mi a' fàs," thuirt Iain, "agus tha mi a' faireachdainn math."
+
+"Tha thu a' fàs gu math, Iain," thuirt a' bheag-bheatha. "Aon latha bidh thu agad na chrann mòr."
+
+Bha Iain a' fàs agus a' fàs.  Bha e a' fàs nas àirde agus nas làidire.  Bha e a' faireachdainn mar a bha a h-uile duine a' cur làmh air a' chrann.  Bha e a' faireachdainn mar a bha e gu math.  Bha Iain a' faireachdainn mar chrann sàr-mhath.
+
+Aon latha, chunnaic Iain bean a bha a' coiseachd air a' chnoc.  Bha a' bhean a' faireachdainn a' chrann a' fàs suas.  Chaidh i chun chrann agus thuirt i, "Iain, tha thu a' fàs gu math."
+
+"Tha mi a' fàs gu math," arsa Iain.  "Tha mi a' faireachdainn cho math."
+
+"Is e sin ceart, Iain," thuirt a' bhean. "Tha sinn a' faireachdainn math airson do mhionnachd."
+
+"Tha mi a' toirt aire do gach duine a tha timcheall orm," thuirt Iain.  "Tha a h-uile duine a' toirt aire dhomh."
+
+"Tha sinn uile agad na chrann mòr," thuirt a' bhean.  "Is e sin a tha sinn a' smaoineachadh."
+
+Agus mar sin, fhuair Iain a' chrann aige fhèin. Agus rinn e deagh chrann.
+</body>

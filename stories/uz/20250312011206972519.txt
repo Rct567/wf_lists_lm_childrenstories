@@ -1,0 +1,42 @@
+<prompt>
+Please write a relatable Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kichkina Echki va uning do'stlari bilan qilingan o'rmon sayohati'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>Kichkina Echki va uning do'stlari bilan qilingan o'rmon sayohati</title>
+<body>
+Oqto'm, qoralamangina bir kichkina echki, Bobo nomini o'ziga olgandi. Bobo, ko'ngil-xotirali, quvnoq va har doim o'zining qiziqarli g'oyalari bilan atrofni o'rab olgan edi. Uning do'stlari bor edi: mushukcha Mynx, dumaloq va yumshoq quloqlari bilan, va quvnoq qushcha Chaqmoq.  Ular uchta ham bir-biriga juda yaqin edi.  Har bir dam olish kuni, ular bir-biriga  sayr qilish taklifini o'ziga xos qiziqarli tarzda yuborardilar.
+
+Bir kuni, Bobo, o'zining odatiy tongi sifatida, do'stlariga o'rmonga sayrga borishni taklif qildi. "Bu yerda biz yangi gullarni topamiz, o'rmon o'liklarining sirlarini bilib olamiz va hasharotlarning  turlarini ko'rib o'rganamiz," dedi u, ko'zlari quvonchdan porlab.
+
+Mynx va Chaqmoq, albatta, o'sha fikrda edi. Chaqmoq, uchi-boshidan porlab turadigan qanotlari bilan darhol tayyor edi.  Mynx esa, kichkina ko'zlaridan porlayotgan hayajonni yashirmoqchi bo'lmay, o'zining yumshoq qo'llarini silab, yulduzchaga o'xshab oqibat qurdi.
+
+
+Erta tongda, ular uyatchanliklari osmonning oltin nurlari o'rmonning boshiga yotqizilgan paytida o'rmonga yuz oldi.  Quyosh nurlarining iliqligidan o'rmon go'zal, mo'l-ko'l edi.  Havo  muzlatilgan o'tlarning lazzatli hidlaridan,  ko'plab rang-barang gullarning lazzatidan  va  hasharotlarning chiroyli  o'yinidan  tashkil topgandi.
+
+Ular o'rmon ichida sayr qilayotganda, ular har bir yo'lda yo'qolgan yo'l belgilarini, yo'qolgan  o'simliklarning lazzatidan  va hasharotlarning ko'pligi  bilan birga ko'rishdi.
+
+
+Bobo, oddiy yalpiz bargli daraxti ostida yotgan qalin bir gulzorni ko'rib qoldi. "Qarang, do'stlar," dedi u,  qo'llarini guldastalik kabi ochib qo'yib.  Mynx, tezda, daraxtga yopishgan yalpiz gulining chiroyli va xushbo'y bo'lishini ma'lum qildi. Uning ko'zlari, juda katta havo tomon qarab turib, sayyorada bu turdagi gullar bilan birga boshqa qiziqarli mavjudotlar haqida hayron qoldi.  Chaqmoq ham, sayohatdan hayratlangan va u yalpiz o'simligida ko'rilgan yo'qolgan g'oyalari bilan birga, o'rmon o'liklarining tarixidan chiqarilgan va'dalarida chiroyli hayot yo'nalishi bo'yicha izlanish haqida gapirdi.
+
+Yosh o'rmon go'zallariga yana qiziqish bilan to'ldirib, o'rmon jonivorlari  uyning ajoyib  tomoniga birlashib  har bir joydagi yo'llar bilan yuz to'g'rilay boshladilar.
+
+
+Ularning  yo'li juda xavfli joylarda bo'lgan. Katta yoki baland joylarda ular juda ehtiyot bo'lishdi, chunki ular yoshlar uchun haqiqiy ta'sir ko'rsata olishganligi sababli xavfli edi. Ular bir-birlariga toshni  yoqish va g'olib kelish bo'yicha  aylanib yurishni yaxshi ko'rishgan edi.
+
+Qizig'i shundaki, ko'proq ular borgan sayin, o'rmon tobora ko'proq o'zgarib bordi.  Yo'llar bo'rtish bilan chiroyli bo'lib qoldi, daraxtlar porlab boshladi, go'zallar tobora yulduzli bo'lib qoldi, xuddi bir go'zal kitobda bo'lgandek. Ular katta va kuchli bir go'zallikka yo'naltirilib, sayohatning mazmuniga ega edilar.  Bu yo'lning mukammalligi, har bir yaratilgan joni, va kichik ko'p jonzotlari o'rtasidagi g'oyalardan biri edi. Ularning tashrifi juda o'qimishli tuyular edi.
+
+
+Ular katta ko'kka yotadigan chuqur uyda, to'g'ridan-to'g'ri va ochiq bir gulzorlarni topdilar.  Yulduzchalarning chiroyli porlashining yuqori qavatlari o'sha gulzorlar orasida yotishdi, har bir guldasta yorqin chiroyli edi.  Bobo xursand bo'ldi va ustiga harakat qilib turib, aylanayotgan tushning mazmuni ostida yozib oldi.
+
+Ahiringida, orqalarida qoldirilgan uy yo'lining ta'sirini to'plash osonlashdi. O'rmonda  bir  oqlaydigan  yomg'ir tushib,  ular uyga qarab ketganda  o'zlarini qanchalik yaxshi tuyg'udikularidan hayratga tushgan edilar. Bu sayohat  butun hayotlarini yanada ajoyib va ta'sirchanligini oshirib,   ularda  yanada ajoyib hayot tajribalariga  muvofiqlashtirib turgan edilar.  Bir-biriga qaramasdan, ularning yodlari ostida to'g'ri bo'lishdan, juda ko'p hayajonli yo'l boshlanadi!
+
+Bu bir  g'oyalar to'plami va   bir umr yodda qolish  xushchaqchaq  va unutilmas bir sayohat bo'lgan edi.

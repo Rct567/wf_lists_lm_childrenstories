@@ -1,0 +1,49 @@
+<prompt>
+Please write a timeless Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Jak liška a zajíc společně našli poklad'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Jak liška a zajíc společně našli poklad</title>
+<body>
+V malebném lesíku, plném šumivých stromů a křivolakých cestiček, žila liška s jménem Líška a zajíc s jménem Zajíc. Nebyli to obyčejní partneři, naopak – byli to nečekaní přátelé, spojení podivuhodnými okolnostmi.
+
+Líška, s koženým kožešinovým pláštěm a lesklými, zelenými očima, byla známá po celém lesíku pro svou šikovnost a chytrost.  Zajíc, s bílým kožešincem a nervózně skákajícími nožičkami, proslul svou opatrností a snahou vyhnout se každému nebezpečí.  Přesto se odjakživa dívali na svět skrz různé brýle a hledali různé úkoly. Líška hledala dobrodružství a poklad, zatímco Zajíc s oblibou hledal úkryty a schovávací místa.
+
+Jednoho krásného podzimního dne, když se lesík barvil do oranžova a zlatava, přišla pověst o pohádkovém pokladu ukrytém někde hluboko v lese. Říkalo se, že poklad obsahuje starobylé mince, lesklé jako slunce, a tajné mapy plné tajemných symbolů.  Líška, s ohněm v očích, to s radostí a chutí shledala jako skvělý úkol.
+
+"Zajíciku," řekla Líška s vlídným úsměvem, "společně se vydáme hledat poklad!"
+
+Zajíc, s rozpačitou mimikou, váhal. "Ale Líško," zamlouval se, "poklad je to moc riskantní. A jak my, dva s tak odlišnými postupy, budeme hledat společně?"
+
+Líška se rozveselila.  "Neboj se, Zajíciku. Moje šikovnost bude doplněná tvé opatrnosti a tvé skákání po lesíku mi dovolí odhalit stopy. Věříš mi?"
+
+Zajíc, s výhledem na společný úkol, s úsměvem odpověděl: "Dobře, Líško. Ale dej si na to pozor."
+
+Tak se oba neobyčejní přátelé vydali na cestu. Líška s hbitostí prohledávala cestu, její ostré smysly zachycovaly sebemenší zvuk, a Zajíc opatrně sledovaval, poslouchal a vyhýbal se nebezpečným kořenům a kamenům. Cestou narazili na zmatené stopy medvěda a očekávali zběsilý boj, ale to se zrovna nedělo. Jejich zášť vymizela za hloučkem stromů, kde se k nim přidalo krtčí hlodání. Krt, s jeho krtčí moudrostí, s údivem odhalil tajné zprávy, šepot lesa a ukazoval cesty na strmých kopcích.
+
+První stopa vedla k staré dubovému stromu, protkaném pavučinou dějin.  Líška, s úklony a s pevnou rukou, uchopila kořeny stromu a objevila malý, poškrábaný kameník. Pod ním, ve stínu, byl ukryt pergamen.
+
+"Tady je to," zvolala Líška s nadšením a otevřela pergamen.  Přestože písemnost byla zahalená podivuhodnými symboly, Líška a Zajíc, po dlouhé době s ní a bez její pomocné stopy, objevili tajné pokyny.
+
+Pergamen vedl k proudu, protékajícímu hlubokým údolím.  Tam, mezi oblázky a starobylými kameny, objevili lesklé mince.  Byly z mraky starého zlata a diamantové.
+
+Naproti vodě stála starobylá socha, střežící bránu k nejmilejším snům.
+
+"Podívej, Zajíciku," zvolala Líška, s úsměvem. "Našli jsme to! Našli jsme poklad!"
+
+Zajíc s radostným skákáním poděkoval Krtkovi za cenný a poutavý vhled do lesního umění a přírody, protože krtkovo štěbetání do ticha bylo klíčem ke zjednodušenému hledání. Díky tomu objevili nejen poklady, ale také pocity solidarity.
+
+"Tento poklad je nejen zlatý,"  vysvětlila Líška.  "Získali jsme poučení, kamarádství a důvěru."
+
+Nechali si zlato jako memento ze ztracené cestě do lesů. Zlato se proměnilo v láskyplnou vzpomínku na dobu, kdy se nesmyslně vydávali na zbytečná dobrodružství.
+
+S novými přátelstvími a splněnými sny, odváželi se obojí hrdí z lesů, navždy spojení s tajemstvím lesního světa. A tak Liška a Zajíc, i přes rozdílné přístupy a povahy, s radostným úsměvem objevili, že nejlepší dobrodružství se odehrává v rytmu spolupráce a přátelství.
+</body>

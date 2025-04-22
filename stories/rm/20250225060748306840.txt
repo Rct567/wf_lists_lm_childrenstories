@@ -1,0 +1,33 @@
+<prompt>
+Please write a silly Romansh children's story that is at least 1000 words long.
+It must be completely written in proper Romansh (RM).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Il bab da la famiglia da contadins'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>rm</lang_id>
+
+<title>Il bab da la famiglia da contadins</title>
+<body>Il bab da la famiglia da contadins era in um da la val da Tujetsch. El viveva cun sia famiglia en in pitget bell e confortabel en las vischnancas da Sedrun. Il bab era in um bun e lavurava dur en la terra per purtar en il sustegn per sia famiglia. El era il pli grond da sia famiglia e saviva tut qua zacan da far per far mo ina buna vita.
+
+Sia dunna, la mama, era ina dunna buna e savia. Ella era la chesa da la famiglia e fascinava tut il lavur da chasa. Ella era ina dunna da la cuschina e preparava sapurits da plats per la famiglia. Ils uffants, Luca e Lea, eran ils pli pitschens da la famiglia e frequentavan la scola da Sedrun. I ls eran pitschens averts e fascinavan il lavur da scola.
+
+Ina di, il bab ha decidì da far ina surpraisa per la famiglia. El ha decidì da far in tur en il chantun Grischun per visitar ils lieus istorics. La mama e ils uffants eran molt entusiasmos e han preparà ils bagagls per il viadi. Il bab ha prendì il car e han partì per il viadi.
+
+Durant il viadi, il bab ha contà istorias da la historia dal chantun Grischun. El ha dit da ils Romans e da ils celtics e da las guerras ch'han fatg en il chantun. La mama e ils uffants han ascultà cun interess e han fatg dumondas. Il bab ha rispost a las dumondas e ha dat explications.
+
+Il prim di han visità la citad da Cuira. Han visità il casti da la famiglia da las Habsburgs e han vist il museum da la citad. Ils han vist ils objects da la prehistoria e han ascultà las explicacziuns dal museum. La mama ha preparà in picnick en il park da la citad e han mangià ensemble.
+
+Il secund di han visità la val da la Verserravina. Han caminà en la val e han vist ils lieus da la prehistoria. I ls han vist ils objets da las culturas preistoricas e han ascultà las explicacziuns dal guide. Il bab ha contà istorias da las culturas preistoricas e ha dit da las tradiziuns da las populaziuns preistoricas.
+
+Il tiers di han visità la muntogna da il Piz Bernina. Han prendì il train da montogna e han ascensiunà en la muntogna. Ils han vist il panorama da la muntogna e han ascultà las explicacziuns dal guide. La mama ha preparà in té en il restaurant da la muntogna e han mangià ensemble.
+
+Il quart di han visità la citad da Sogn Gagl. Han visità il convent da las monias e han vist il museum da la citad. Ils han vist ils objects da la prehistoria e han ascultà las explicacziuns dal museum. Il bab ha contà istorias da la historia dal convent e ha dit da las tradiziuns da las monias.
+
+Il quint di han returnà a Sedrun. La famiglia era stancha ma contenta. Ils han mangià ina cena ensemble e han discutà dal viadi. Il bab ha dit ch'el era content da la famiglia e ch'el aveva passà in bell temp. La mama ha dit ch'ella era gratefula per il bab e per il viadi. Ils uffants han dit ch'els eran contents da la scola e ch'els avevan passà in bell temp.
+
+Il bab da la famiglia da contadins era in um bun e savia. El ha fatg ina surpraisa per la famiglia e ha prendì els en in tur en il chantun Grischun. La famiglia ha visità ils lieus istorics e ha ascultà las istorias da la historia dal chantun. Ils han passà in bell temp e han discutà dal viadi. Il bab ha dit ch'el era content da la famiglia e ch'el aveva passà in bell temp.</body>

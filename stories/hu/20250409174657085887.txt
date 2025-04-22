@@ -1,0 +1,49 @@
+<prompt>
+Please write a educational Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A tündérkert, ahol a tündérek táncoltak a holdfényben esténként.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>hu</lang_id>
+
+```html
+<title>A tündérkert, ahol a tündérek táncoltak a holdfényben esténként.</title>
+<body>
+<p>Élt egyszer egy aprócska tündér, Lilla, aki egy varázslatos tündérkertben lakott. Ez a kert, amit senki más nem láthatott, csak a tündérek, egy hatalmas, öreg tölgyfa gyökerei között rejtőzött. A tölgyfa törzse olyan vastag volt, mint egy egész ház, és a lombkoronája megérintette a felhőket. A gyökerei alatt pedig labirintusszerű járatok, apró tündérházikók és ragyogó virágok tündököltek, a legszebb színekben.</p>
+
+<p>Lilla szárnyai olyan ragyogóak voltak, mint a napsugár, hajában pedig a legszebb szivárványszínek pompáztak. Egyedül élt a tündérkertben, de nem volt magányos. Volt egy legjobb barátja, Barnabás, egy hatalmas, de szelíd bagoly. Barnabás gyakran repült be a tündérkertbe, a tölgyfa lombkoronájában fészkelve, és elmesélte Lillának a nagyvilág csodáit, a folyókról, a hegyekről és a távoli erdőkről.</p>
+
+<p>Minden este, ahogy a nap leszállt, és a hold előbukkant, a tündérkert életre kelt. A virágok lassan behúzták a szirmaikat, a fák megpihentek, és a fű lágyan hintázott a szellőben. Lilla előkészült a nagy estére. Kikeresett egy vörös levelű, illatos virágot a rét szélén, és azt tűzte hajába. A kert közepén, egy kerek, mohás placcra varázsolt egy pici táncparkettet, tele csillogó porral. Ebben a porban nem csak csillogás volt, hanem tündérvarázs is!</p>
+
+<p>A többi tündér is elkezdett érkezni a kertbe. voltak vékonyak és kövérek, nagy szárnyúak és picik. Volt, aki zöldbe öltözött, és a virágokkal volt kapcsolatban, volt, aki kékbe, és a víz tündére volt, de mindegyikük szerette a zenét és a táncot. Mielőtt elkezdődött volna a tánc, Lilla mindig felkészítette a tündéreket az éjszaka csodálatos élményére. Elmondta nekik, hogy hogyan viseljék magukat, hogyan legyenek udvariasak és hogy hogyan tiszteljék a természetet. Fontos volt, hogy az összejövetelek mindenki számára örömet szerezzenek.</p>
+
+<p>A zene lassan megszólalt. A kis tündérek zenekarát apró bogarak alkották: zöld sáskák, tücskök, akik gitároztak, bogárhuzalozók hegedültek és a csillámpikkelyes lepkék énekeltek a varázslatos hangszerekkel. A dallam a holdfényben terjedt szét, és a tündérek körbetáncolták a tisztást. A lábuk alatt csillogó por felkavarodott, a táncuk ritmusára, a szellő lágyan libbentette szárnyaikat, a mosolyok ragyogtak az arcukon.</p>
+
+<p>A tánc közben a tündérek játékos feladatokat is kaptak. Lilla gondoskodott a kreatív játékokról, hogy a tündérek a lehető legtöbbet tanulhassanak. Az egyik ilyen feladat volt a "Csillagközelítés". Ebben a játékban a tündéreknek egy pillanat erejéig el kellett képzelniük, hogy egy távoli csillagon járnak. Meg kellett figyelniük, hogyan világítanak a csillagok, hogyan hatnak a bolygók és a természetükre. A tündérek lejegyezték az ötleteiket, hogy megőrizhessék ezeket a különleges emlékeket. Persze, ezeket csak Lilla jegyzetfüzetében lehetett olvasni!</p>
+
+<p>Egy másik játék, a "Hangok nyomában", a természet megfigyelésére ösztönözte a tündéreket. Ez magában foglalta, hogy meghallgatták a patak csobogását, a fák suttogását, és a bogarak zümmögését. A tündéreknek meg kellett próbálniuk azonosítani a hangok eredetét, és el kellett mesélniük egymásnak, hogy ezek a hangok milyen történeteket mesélnek nekik. Ez a játék arra tanította a tündéreket, hogy értékeljék a természet harmóniáját.</p>
+
+<p>Barnabás, a bagoly, olykor lejött a fáról, és ő is belépett a játékba. Felidézte a nappali világ történeteit, a dolgok, a dolgok, amiket látott, mikor ébren volt, s közben elmesélte a távoli világokat, a napnyugta színeit, és a különleges állatok történeteit. A tündérek nagy figyelemmel hallgatták, és szívükben a képzelőerő új dimenziói nyíltak meg.</p>
+
+<p>Az éjszakák egyformán varázslatosak voltak, de mindig volt valami új, ami meglepte a tündéreket. Egy este a holdfényben, a táncparkett köré óriási gombák nőttek, amelyek olyanok voltak, mint a házikók. A tündérek ezekbe a gombákba menekülhettek a hold sugarai elől, vagy pihenhettek a szél szünetében. Egy másik alkalommal apró fénylő gombák nőttek a fűben, amelyek lámpákként világították meg a táncteret, vagy megmutatták a csillagképeket az égen.</p>
+
+<p>Egyik éjjel, a tündérkertbe egy új tündér érkezett. A neve Liliána volt, és olyan szomorú volt. Lilla észrevette, és odament hozzá. Megkérdezte Liliánát, hogy mi a baja. Liliána elmondta, hogy egy messzi erdőben lakik, ahol a gonosz emberek sokat szennyezik a folyókat, és letarolják a fákat. Fél, hogy a természetnek nincs jövője, és a szépsége eltűnik.</p>
+
+<p>Lilla meghallgatta, majd a tündérekhez fordult. "Testvéreim, - mondta - segítenünk kell Liliánán!" Majd elmesélte a tündéreknek Liliána történetét. A tündérek együtt elhatározták, hogy segítenek. Azt a feladatot kapták, hogy összegyűjtsék a nap minden tapasztalatát, gondolatát, emlékeit, és átadniuk Liliánának, hogy újra elhiggye a szépségbe, és higgyen a változásban.</p>
+
+<p>A tündérek egy csoportba gyűltek, és megmutatták Liliánának, hogyan táncoltak a holdfényben, milyen gyönyörűek a színek, és milyen sokszínű a természet. Megmutatták neki, hogyan hallgatnak a természet hangjaira, hogy megértsék, mi a dolguk. A tündérek egyre közelebb és közelebb vitték Liliánát a varázslathoz, hogy a gyötrődése átalakulhasson.</p>
+
+<p>Együtt vittek a folyóhoz, és megmutatták, hogy hogyan lehet tisztítani a vizet. Összegyűjtötték a szemetet, és olyan varázslatot készítettek, hogy a folyó visszanyerte eredeti tisztaságát. Megmutatták a virágokat, amelyeket szerettek, hogyan nőnek, milyen csodálatosak, hogyan illatoznak, és hogyan viselik az évszakok változásait. Kifogták a gonosz emberek legfőbb jelképét, és kicserélték egy olyan képpel, amely a béke, a természet, a harmónia örömét hozta magával. A tündérek megtanították neki, hogy soha nem szabad feladni a reményt.</p>
+
+<p>Liliána, amikor a tündérekkel játszott, és figyelte a varázslatos kertet, újra megtalálta az örömét. A szomorúsága lassan elszállt, helyét a remény, a szeretet és a boldogság vette át. Ő is egyre aktívabban segített a tündérkertben, a feladatok elvégzésében. Sikerült elérnie, hogy a tündérkert olyan hatással legyen rá, hogy a továbbiakban nem volt kedve a gonosz dolgok felé fordulni.</p>
+
+<p>Végül Liliána visszatért a saját erdőjébe, de már egy új reménnyel a szívében. Elkezdett dolgozni azon, hogy megóvja a természetet. Elmondta az embereknek a szépségét és a természet fontosságát, amiről a tündérkertben tanult. A segítsége után a folyó ismét ragyogó lett, mint a kristály, a fák kihajtottak, a színek élettel teltek, és a madarak boldogan daloltak újra.</p>
+
+<p>A tündérkertben pedig azóta is táncoltak a tündérek a holdfényben esténként, még több boldogsággal a szívükben, tudva, hogy a tündérkert varázsa a világon terjed, és a szeretet, a gondoskodás, a természet tisztelete a legfontosabb varázslat. S Lilla, Barnabás és a többi tündér minden este a jövőt építették, egy kis darabot a csodálatos világukból, amely reményt adott mindenkinek, akinek szüksége volt rá.</p>
+</body>
+```

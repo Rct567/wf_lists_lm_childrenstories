@@ -1,0 +1,53 @@
+<prompt>
+Please write a funny Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'De Luna Argentea et Secretis Quae Nocte Oscura Revelantur Universis'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>la</lang_id>
+
+<title>De Luna Argentea et Secretis Quae Nocte Oscura Revelantur Universis</title>
+<body>
+Luna argentea, lucens in caelo profundo, spectavit urbem dormitantem.  In aedibus parvis, ubi pueri et puellae dormiebant, sonitus leves et susurri, quasi murmura ventorum, audiebantur.  Inter eos, in cubiculo modico, habitabat puella nomine  Flora, filiusque eius,  Bartholomaeus, puer risus et jocis plenus.
+
+Noctis obscuris, Luna argentea secretis suis universis revelabat, et in cubiculo Florae et Bartholomaei,  miracula apparuerunt.  In pariete, pictura parva,  imagine  draconis viridi, volantis per nubes,  eminebat.  Bartholomaeus, cum oculis magnis et mirantibus, ad picturam spectans, exclamavit: "O, draco mirabilis!  Quid in coelo facit?"
+
+Flora, cum oculis apertis, in tenebris  respondit: "Bartholomaeus, haec est fabula.  Dicunt dracones, nocte,  secreta mundi custodientes."
+
+"Sed ubi sunt?" interrogavit Bartholomaeus,  curiositate plena.
+
+"A,  Bartholomaeus," dixit Flora.  "Secreta sunt omnia circa te.  Vide, sub lecto tuo.  Fortasse,  aliqua tibi occurret."
+
+Bartholomaeus, audito hoc, cum celeritate felis ad lectum suum cucurrit,  et sub eo,  aliquid mirabile invenit.  Non erat draco, sed  canis parvus,  coloris aurei,  cum oculis magnis et nigris.
+
+"Canis," exclamavit  Bartholomaeus, "quid agis hic?"
+
+Canis, qui nomen habebat  Aurelius,  ad Bartholomaeum,  cum voce dulci, locutus est: "Ego sum custos secretorum noctis.  Ad te,  Bartholomaeus,  haec secreta revelabo."
+
+Aurelius, cum cauda agitant,  in circulum Bartholomaei se collocavit.  "Primo,"  incipiens, dixit,  "noctes  secreta innumerabilia continent.  Mundi miracula  in tenebris  nunc  revelantur."
+
+"Dic mihi,"  interrogavit Bartholomaeus,  "quid in coelo draco facit?"
+
+"Dracones,"  dixit Aurelius,  "custodiunt stellae et lunae.  In coelo,  per nubes volitant,  et fabulas antiquas sermone subtili narrant."
+
+"Sed..."  inquit Bartholomaeus,  "quibus fabulis?"
+
+"Fabulae de amoriis, de armis et de virtutibus.  De rebus, quas dies non videt,  sed nox solum,"  explicavit Aurelius.
+
+Flora, audiens dialogum, ad Bartholomaeum et Aurelium accessit.  "Sunt et alia secreta?"
+
+"A, Flora,"  dixit Aurelius, "si vis, audi.  Mundi pulchritudo non solum in diurna luce, sed et in tenebris latet.  Imaginem tuam de stella,  in nocte,  de nube obscura,  in nocte solum videre potes."
+
+"Stellae nocte lucent,  et stellae tuae,"  continuat Aurelius,  "in animo tuo latent, et in animo tuo,  in corde tuo,  in anima tua."
+
+Bartholomaeus et Flora,  intrigante historia Aurelii,  in nocte fabulosa et plena secretis manere volebant.  Aurelius  dixit: "In hortis secretorum,  secreta in fabulis narrantur, et in fabulis,  in imaginibus,  in anima tua et mea."
+
+Et sic,  in nocte profunda,  cum Luna argentea super caelum luceret,  Bartholomaeus et Flora, cum canis aureo Aurelio,  secreta noctis audiebant, et in fabulis noctis profundae,  in imagine draconis volantis,  in stellata caelo,  in corde suo,  secreta sua invenerunt.
+
+Et in tenebris,  et in nocte, et in secretis,  omnia fuerunt bona.
+</body>

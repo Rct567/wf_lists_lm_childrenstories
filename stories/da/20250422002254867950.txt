@@ -1,0 +1,98 @@
+<prompt>
+Please write a simple and easy-to-follow Danish children's story that is at least 1000 words long.
+It must be completely written in proper Danish (DA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Katrine finder en talende hund i parken.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>da</lang_id>
+
+```xml
+<title>Katrine finder en talende hund i parken.</title><body>
+Katrine var en lille pige med rødt hår og fregner. Hun elskede at lege i parken tæt på sit hus. Parken var fyldt med høje træer, blomster i alle regnbuens farver, og en stor sø, hvor ænderne svømmede rundt. Katrine havde altid en bold med sig, og hun brugte timer på at kaste den op i luften og fange den igen.
+
+En solrig eftermiddag, mens Katrine legede i parken, hørte hun en lille grynten fra en busk. Hun kiggede nysgerrigt efter, og der sad en lille hund. Den var sort og hvid med store, brune øjne. Hunden så meget sød ud, men Katrine lagde mærke til noget helt specielt: Hunden havde et lille, rødt tørklæde om halsen.
+
+"Hej," sagde Katrine forsigtigt.
+
+Hunden så op på hende og logrede med halen. Så åbnede den munden.
+
+"Davs!" sagde hunden.
+
+Katrine fik et chok. Hun tabte bolden. "Talte... talte du?" spurgte hun forbløffet.
+
+Hunden nikkede. "Ja, det gør jeg. Jeg hedder Buster."
+
+Katrine var helt målløs. Hun havde aldrig mødt en talende hund før. "Jeg hedder Katrine," sagde hun endelig. "Det er... det er helt utroligt!"
+
+Buster grinede. Det var en lille, glad lyd. "Det er måske lidt utroligt, ja. Men det er sandt."
+
+Katrine satte sig ned på græsset ved siden af Buster. "Hvorfor taler du?" spurgte hun.
+
+Buster rystede lidt på hovedet. "Det ved jeg ikke helt. Jeg har altid kunnet. Jeg er bare sådan."
+
+De sad tavse et øjeblik og betragtede hinanden. Katrine spekulerede på, om det var en drøm. Hun knyttede næverne og prikkede sig selv i armen. Nej, det gjorde ondt. Det var virkeligt.
+
+"Hvad laver du her i parken, Buster?" spurgte Katrine.
+
+"Jeg bor her," svarede Buster. "Eller, jeg sover her om natten. Om dagen løber jeg rundt og finder på sjove ting."
+
+"Sjove ting?" spurgte Katrine.
+
+"Ja! Jeg elsker at lege fangeleg med sommerfugle, jagte ænderne i søen (selvom jeg aldrig fanger dem) og snakke med alle de mennesker, der kommer i parken."
+
+Katrine grinede. "Lyder sjovt!"
+
+"Vil du være med mig?" spurgte Buster.
+
+"Ja!" sagde Katrine straks. Hun glemte alt om sin bold. Nu var der noget meget mere spændende at lave.
+
+Katrine og Buster tilbragte hele eftermiddagen sammen. De løb rundt i parken, legede gemmeleg bag træerne og fortalte hinanden historier. Katrine fandt ud af, at Buster elskede pølser og krummer, og at han ikke brød sig om katte. Buster fandt ud af, at Katrine elskede is og eventyr, og at hun var lidt bange for store hunde.
+
+Da solen begyndte at gå ned, og parken blev fyldt med lange skygger, sagde Katrine: "Jeg skal hjem nu. Men jeg kommer igen i morgen, ikke?"
+
+Buster logrede ivrigt. "Ja, selvfølgelig! Jeg glæder mig!"
+
+Katrine gav Buster et stort kram, og så løb hun hjemad. Hun kunne næsten ikke vente med at fortælle sine forældre om den talende hund i parken.
+
+Næste dag skyndte Katrine sig hen i parken så snart hun havde spist sin morgenmad. Buster ventede på hende ved busken, hvor de havde mødt hinanden. Han hoppede op og ned af glæde, da han så hende komme.
+
+"Hej, Katrine!" sagde Buster. "Jeg har tænkt på dig hele natten!"
+
+"Hej Buster!" svarede Katrine. "Jeg har også tænkt på dig! Jeg ville bare lige fortælle mine forældre om dig. De synes, du er meget spændende."
+
+"Har du fortalt dem alt?" spurgte Buster.
+
+Katrine grinede. "Ja, alt sammen! De troede næsten ikke på mig i starten, men så sagde jeg bare, at de skulle komme med i parken og møde dig."
+
+De to venner legede igen hele dagen. De byggede en hule af grene og blade, de klatrede i træerne og sang sange. De spiste også is, som Katrines mor havde lavet. Det var den bedste dag nogensinde.
+
+Katrine og Buster blev de bedste venner. Hver dag efter skole løb Katrine hen til parken for at lege med Buster. De oplevede mange eventyr sammen.
+
+En dag opdagede de en lille, forladt kattekilling i en papkasse. Kattekillingen var helt alene og klynkede svagt. Katrine og Buster besluttede straks, at de måtte hjælpe den.
+
+"Vi skal finde et hjem til den," sagde Katrine bekymret.
+
+"Ja, og vi skal finde mad og vand til den," tilføjede Buster.
+
+De tog kattekillingen med hjem til Katrines hus. Katrines forældre var først lidt tøvende med at tage sig af en kat, men da de så, hvor ked af det kattekillingen var, kunne de ikke sige nej.
+
+Katrine og Buster passede kattekillingen sammen. De gav den mælk og legede med den. Katrines forældre kontaktede Dyreværnet, og efter et par uger fandt de et godt hjem til kattekillingen hos en sød familie.
+
+En anden dag så Katrine og Buster en ældre dame, der var faldet på jorden. Hun havde slået sit knæ og græd stille. Katrine og Buster løb hen til hende og spurgte, om hun havde brug for hjælp.
+
+"Jeg er faldet," sagde damen. "Jeg kan ikke komme op."
+
+Buster, der var meget stærk til en lille hund, forsøgte at hjælpe damen med at rejse sig, men det var for svært. Katrine løb hjem og hentede sin mor, der kom til hjælp. De ringede efter en ambulance og sørgede for, at damen fik den hjælp, hun havde brug for.
+
+En gang om ugen, tog Katrine Buster med til Katrines bedsteforældre på besøg. Katrines bedsteforældre var også helt vilde med Buster. De lavede ekstra mange hundekiks til ham, og de fortalte mange historier sammen.
+
+Katrines mor og far var også meget glade for Buster. Han var en del af familien. De tog ham med på gåture, gav ham masser af godbidder og sørgede for, at han altid havde det godt.
+
+Katrine og Buster fortsatte med at være de bedste venner, selv da Katrine blev ældre. De voksede op sammen, og de oplevede mange flere eventyr. Buster blev aldrig træt af at lege og grine, og Katrine elskede at være sammen med ham. Og selvom de ikke længere legede fangeleg eller byggede huler, var deres venskab stærkere end nogensinde. De var sammen om alt, og de vidste, at de altid ville have hinanden. Og det hele startede med en lille, sort og hvid hund med et rødt tørklæde og en magisk evne til at tale i en park.
+</body>
+```

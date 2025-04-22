@@ -1,0 +1,37 @@
+<prompt>
+Please write a timeless Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Pūķa dārzs un maģiskā zāle'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>lv</lang_id>
+
+<title>Pūķa dārzs un maģiskā zāle</title>
+<body>Reiz sen senos laikos, zemē, kur saule riet un auskari sāk dziedāt savas skaistās dziesmas, bija viens brīnums dārzs. Šo dārzu sauca par Pūķa dārzu, jo te bija daudz dārgu un retu augu, kā arī daudz maģiskas zāles, kas spēja ārstēt jebkuru slimību. Dārzs bija apauglis ar biezām koku zāģiem un bija aplūkots ar augstām akmeņu sienām, lai neviens netikams cilvēks nevarētu iekļūt šajā brīnumā.
+
+Dārza vidū bija liels, skaists pils, kurā dzīvoja pūķis ar savu ģimeni. Pūķis bija labs un gudrs, viņš zāļu un augu lietošanu zināja labāk nekā kurš citāds dzīvības radītājs. Viņš bija iemācījies no savas vecāmām, kuras bija bijušas ļoti gudras un zinājušas daudz par maģiju un dabu.
+
+Pūķa ģimenē bija arī viena meita, kuras vārdā bija Zelta. Zelta bija skaista un labsirdīga, viņai patika palīdzēt tēvam dārzā un mācīties no viņa visu par augiem un to īpašībām. Zelta bija ļoti mīlēta visiem dārza iemītājiem, jo viņai bija labs sirds un viņa vienmēr bija gatava palīdzēt tiem, kas to vajadzēja.
+
+Viens dienas, dārzā ienāca viens jauns cilvēks, kurš sauca sevi par Kārli. Kārlis bija jauns un spēcīgs, viņam bija liela sirds un viņš bija nācis dārzā, lai mācīties no pūķa par maģiju un augiem. Pūķis bija ļoti priecīgs, ka Kārlis bija nācis, jo viņam bija vajadzīgs palīgs dārzā un viņš zināja, ka Kārlis būs labs māceklis.
+
+Kārlis sāka strādāt dārzā un mācīties no pūķa. Viņš bija ļoti ieguldīgs un strādīgais, un drīzumā viņš kļuva par labu pūķa palīgu. Zelta arī kļuva laba draudzene Kārlim, un abi viņi strādāja kopā dārzā, palīdzot pūķim un mācoties no viņa.
+
+Bet dārzā bija arī viens ļauns dārgums, kurš sauca sevi par Melno. Melns bija ļoti niecīgs un ļauns, viņam bija sliktas nākstis un viņš bija visu laiku domājis, kā kļūt par dārza valdnieku. Melns bija visu laiku cenšies nogalināt pūķi un Zeltu, lai viņš varētu kļūt par dārza valdnieku, bet līdz šim viņam nebija bijis veiksmes.
+
+Viens dienas, Melns izdomāja plānu, kā nogalināt pūķi un Zeltu. Viņš sāka strādāt pie savu plānu īstenošanas, un drīzumā viņam bija gatavs plans, kā kļūt par dārza valdnieku. Melns bija ļoti priecīgs, jo viņam bija pārliecināts, ka viņš varēs nogalināt pūķi un Zeltu un kļūt par dārza valdnieku.
+
+Bet Kārlis un Zelta bija ļoti rūpīgi un viņi atklāja Melna plānu. Viņi bija ļoti bīstami, jo viņi zināja, ka Melns bija ļoti bīstams un ka viņam bija jābūt ļoti uzmanīgiem. Kārlis un Zelta sāka strādāt pie plāna, kā aizsargāt pūķi un dārzu no Melna. Viņi bija ļoti ieguldīgi un strādīgi, un drīzumā viņiem bija gatavs plans, kā aizsargāt dārzu.
+
+Kad Melns sāka īstenot savu plānu, Kārlis un Zelta bija gatavi. Viņi aizsargāja pūķi un dārzu no Melna, un pēc ilgas un ieguldīgas cīņas, viņi spēja uzvarēt Melnu. Pūķis un Zelta bija ļoti pateicīgi Kārlim un Zeltai, jo viņi bija aizsargājuši viņus no Melna.
+
+Pēc šī notikuma, Kārlis kļuva par oficiālo pūķa palīgu, un Zelta kļuva par viņa labāko draudzeni. Pūķis bija ļoti priecīgs, jo viņam bija labi palīgi un draugi, kuri viņam palīdzēja dārzā. Dārzs bija drošs un mierīgs, un visi dārza iemītāji bija ļoti laimīgi.
+
+Laika gaitā, Kārlis un Zelta kļuva aizvien tuvāki, un viņi ieguva viens otru. Viņi apprecējās dārzā, un pūķis bija viņu kāzās. Pēc kāzām, Kārlis un Zelta palika dārzā un palīdzēja pūķim dārzā. Viņi bija ļoti laimīgi un mierīgi, un dārzs bija aizvien skaistāks un labāks.
+
+Un tā šī stāsta beidzas, jo Kārlis un Zelta bija atraduši savu laimi un mieru dārzā, un pūķis bija atradis labus palīgus un draugus. Dārzs bija aizvien skaistāks un labāks, un visi dārza iemītāji bija ļoti laimīgi un mierīgi.</body>

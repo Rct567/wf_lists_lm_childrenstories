@@ -1,0 +1,31 @@
+<prompt>
+Please write a relatable Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Pūpumu Draugi un Mirdzošās Aizputes'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>lv</lang_id>
+
+<title>Pūpumu Draugi un Mirdzošās Aizputes</title>
+<body>Kad saulriets nokrietīja virs mazas Latvijas pilsētiņas, tad sākās brīnišķīga stāsta par pūpumu draugiem un mirdzošām aizputēm. Šajā pilsētiņā dzīvoja daudz bērnu, kuriem patika spēlēties ārā un izdomāt jaunus piedzīvojumus. Viens no šiem bērniem bija mazs zēns ar nosaukumu Roberts, kuram īpaši patika pūpumi. Viņš bija redzējis daudz dažādu pūpumu, bet nekad nebija redzējis tādus, kādi bija šie.
+
+Roberts dzīvoja mazā, sarkanā mājiņā ar savām vecākām un māsu. Viņa māja bija pilna ar dažādiem rotaļlietiem un grāmatām, bet Roberts visvairāk mīlēja savus pūpumus. Viņš bija izveidojis patīkami pūpumu ģimeni, kurā bija tēvs, māte un trīs bērni. Roberts šos pūpumus sauca par saviem draugiem un vienmēr bija gatavs viņiem palīdzēt.
+
+Vienu dienu, kad Roberts gāja skolā, viņš redzēja dāvanu veikalā logā daudz krāsainu un skaistu pūpumu. Roberts bija ļoti ieinteresēts un nolēma iekļūt veikalā, lai redzētu šos pūpumus no tuvāk. Veikala īpašniece, kura sauca sevi par Līgu, bija ļoti atvēlīga un draudzīga sieviete. Viņa teica Robertam, ka šie pūpumi ir īpaši un ka viņi var runāt. Roberts nebija ticis, bet Līga viņam atklāja, ka šie pūpumi ir no īpašas vietas, kur pūpumi dzīvo un runā viens ar otru.
+
+Roberts bija ļoti noskumis un nolēma iegādāties vienu no šiem pūpumiem. Līga viņam ieteica pūpumu ar nosaukumu Kārlis, kurš bija ļoti draudzīgs un runāja ar skaistu balsi. Roberts Kārli nopirka un aizveda mājās. Mājās Roberts iepazīstināja Kārli ar savām pūpumu draugiem un Kārlis viņiem stāstīja par savu dzimteni, kur pūpumi dzīvoja un runāja viens ar otru.
+
+Kārlis stāstīja, ka viņa dzimtene bija pilna ar mirdzošām aizputēm, kurās pūpumi varēja iekļūt un atklāt jaunus pasaulē. Roberts un viņa pūpumu draugi bija ļoti ieinteresēti un nolēma doties uz Kārļa dzimteni, lai redzētu šīs mirdzošās aizputes. Kārlis viņiem atklāja, ka līdz šai dzimtenei var nokļūt, ja viņi seko īpašam ceļam, kurš bija norādīts ar zvaigznēm.
+
+Roberts, Kārlis un pūpumu draugi devās ceļā un sekoja zvaigznes ceļam. Viņi gāja cauri mežam, kurā bija daudz dzīvnieku un augu. Pēc ilga gājiena viņi sasniedza kalnu, kurā bija ieeja uz Kārļa dzimteni. Ieeja bija norādīta ar lielu, spožu zvaigzni, kurā bija ierakstīts vārds "Pūpumu Zeme".
+
+Roberts, Kārlis un pūpumu draugi iekļūda Pūpumu Zemē un atklāja, ka šeit bija daudz mirdzošo aizpušu. Viņi iekļūda pirmajā aizputē un atklāja, ka šeit bija daudz pūpumu, kuri runāja viens ar otru. Pūpumi viņus sagaidīja ar atvēlību un uzaicināja pievienoties viņiem. Roberts, Kārlis un pūpumu draugi pievienojās pūpumiem un kopā viņi spēlējās un runāja.
+
+Pēc ilga laika Roberts, Kārlis un pūpumu draugi nolēma doties atpakaļ mājās. Pūpumi viņus pavadīja līdz ieejai un pateicās viņiem par apciemu. Roberts, Kārlis un pūpumu draugi atgriezās mājās un stāstīja savām ģimenēm par savu piedzīvojumu Pūpumu Zemē. Viņi bija ļoti noskumji un gaidīja, kad varēs atgriezties Pūpumu Zemē un atkal satikties ar saviem jaunajiem draugiem.
+
+No šīs dienas Roberts, Kārlis un pūpumu draugi kļuva par tuviem draugiem un vienmēr bija gatavi doties jauniem piedzīvojumiem. Viņi zināja, ka Pūpumu Zeme ir vieta, kur viņi var būt brīvi un runāt viens ar otru. Un Roberts zināja, ka Kārlis ir viņa draugs, kurš vienmēr būs viņa pusē un palīdzēs viņam atklāt jaunas pasaules.</body>

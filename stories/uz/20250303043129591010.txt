@@ -1,0 +1,50 @@
+<prompt>
+Please write a timeless Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'O'zbekistonning sehrlangan go'zal bolalari'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>uz</lang_id>
+
+```uz
+<title>O'zbekistonning sehrlangan go'zal bolalari</title><body>
+Bir zamonda, O'zbekistonning eng go'zal shaharlaridan biri – Samarqandda, uchta juda ham mehribon va aqlli bolalar yashardi: Dilnoza, Javohir va Zulfiya. Ular har kuni o'zlarining katta hovlisida o'ynashar, kitob o'qishar va bir-birlariga ertaklar aytib berishardi.
+
+Dilnoza uzun, qora sochli, kulgichli ko'zlari bilan dunyoga mehr bilan boqadigan qizcha edi. U gullarni juda yaxshi ko'rar, har kuni ularga suv quyar va ularning gullashini kuzatardi. Javohir esa kuchli, jasoratli va doimiy harakatda bo'lar edi. U sportni yaxshi ko'rar, daraxtlarga chiqardi va koptok o'ynardi. Zulfiya esa juda ham aqlli, kitobxon va hayotga qiziqish bilan qaraydigan qizcha edi. U har qanday savolga javob topishga intilardi va yangi narsalarni o'rganishni yaxshi ko'rardi.
+
+Bir kuni, bahorning iliq kunlaridan birida, ular hovlida o'ynab yurishganda, eski, qadimiy bir sandiq topib olishdi. Sandiq chang bosgan, eskirgan va juda ham og'ir edi. Ular uni ochishga harakat qilishdi, lekin qulfi juda qattiq edi. Javohir kuch bilan tortdi, Dilnoza esa ehtiyotkorlik bilan qulfni tozalashga harakat qildi, Zulfiya esa nima uchun bu sandiq bu qadar og'ir ekanligini o'ylab qoldi.
+
+Nihoyat, Dilnoza qulfni tozalab bo'ldi va Javohir sandiqni ochdi. Ichidan yaltiroq, oltin rangli bir kitob chiqdi. Kitobning muqovasida "Sehrlangan ertaklar kitobi" deb yozilgan edi. Ular kitobni ochishdi va birinchi sahifada quyidagi so'zlar yozilgan edi: "Bu kitob sehrlangan. Uni o'qigan har bir bola O'zbekistonning go'zal joylariga sayohat qilishi mumkin."
+
+Ular hayron bo'lib, bir-birlariga qarashdi. Zulfiya kitobni o'qishga boshladi. U birinchi ertakni o'qib bo'lishi bilan, ular o'zlarini birdaniga Xiva shahrining ichida, Minorai Kalta Minordan unchalik uzoq bo'lmagan joyda topib qolishdi.
+
+Ular hayratda qolishdi. Shahar juda chiroyli edi. Ular ko'chalarda sayr qilishdi, tarixiy binolarni tomosha qilishdi va hunarmandlarning ishlashini kuzatishdi. Ular Xivaning me'morchiligidan, uning ranglaridan va odamlarining mehribonligidan hayratda qolishdi. Ular bu shaharni juda yoqtirib qolishdi.
+
+Keyingi ertakni o'qigandan so'ng, ular Buxoro shahridagi Labi Hovuz oldida paydo bo'lishdi. Labi Hovuzning atrofidagi ko'plab kafelar va restoranlarda odamlar dam olishardi. Ular Labi Hovuzning suvida suzib yurgan o'rdaklarni tomosha qilishdi va Buxoroning qadimiy tarixini his qilishdi. Ular Buxoroning sokinligi va go'zalligidan zavq olishdi.
+
+Uchinchi ertakni o'qigandan so'ng, ular Toshkent shahrida, Mustaqillik maydonida paydo bo'lishdi. Ular o'zlarining poytaxtlarining kengligi, zamonaviy binolari va gullari bilan bezatilgan maydonlaridan hayratda qolishdi. Ular Toshkentning rivojlanganligini va odamlarning hayotga bo'lgan intilishini ko'rdilar.
+
+Ular har bir shaharda turli xil odamlar bilan uchrashdilar, ularning madaniyati va urf-odatlarini o'rgandilar. Ular do'stlar orttirishdi, yangi taomlar tatib ko'rishdi va O'zbekistonning boy tarixidan bahramand bo'lishdi.
+
+Dilnoza gullarni ko'rdi va ularning go'zalligidan zavqlandi. Javohir sport maydonlarida yugurdi va kuchini sinab ko'rdi. Zulfiya esa har bir shaharning tarixini o'rgandi va yangi bilimlarga ega bo'ldi.
+
+Ular kitob orqali O'zbekistonning barcha go'zal joylariga sayohat qilishdi. Ular Samarqandning Registon maydonida, Farg'ona vodiysining tog'larida, Qoraqalpog'istonning cho'llarida bo'lishdi. Ular O'zbekistonning har bir burchagida o'zlarining go'zalligini topdilar.
+
+Bir kuni, ular o'zlarining hovlisiga qaytib kelishdi. Ular sandiqni yana topdilar, kitobni ochishdi va oxirgi sahifani o'qishdi. Sahifada quyidagi so'zlar yozilgan edi: "Sizlar O'zbekistonning go'zalligini ko'rdingizlar. Endi, sizlar bu go'zallikni himoya qilishingiz kerak."
+
+Ular kitobni yopishdi va sandiqni yana yashirin joyga qo'yishdi. Ular o'zlariga berilgan vazifani tushunishdi. Ular endi o'z vatanlarini yaxshiroq himoya qilishlari, uning go'zalligini saqlab qolishlari va kelajak avlodlarga o'tkazishlari kerak edi.
+
+Ular har kuni o'qishni, o'rganishni va mehnat qilishni davom ettirdilar. Ular o'z shaharlarini, o'z oilalarini va o'z vatanlarini sevishdi. Ular O'zbekistonning haqiqiy farzandlari bo'lib qolishdi.
+
+Dilnoza gullarni parvarish qilishda davom etdi, Javohir sport bilan shug'ullandi va o'zining jismoniy kuchini rivojlantirdi, Zulfiya esa kitob o'qishni va yangi bilimlarni o'rganishni davom ettirdi. Ular O'zbekistonning kelajagi uchun harakat qildilar.
+
+Ular katta bo'lishdi, lekin ularning qalbida o'sha sehrlangan ertaklar kitobining xotirasi abadiy qoldi. Ular har doim o'zlarining kichikligida boshdan kechirgan sarguzashtlarini eslab, O'zbekistonning go'zalligini qadrlashdi.
+
+Va ular doimiy ravishda o'zlarining farzandlariga O'zbekistonning go'zalligi, uning tarixi va uning odamlarining mehr-oqibatligi haqida gapirib berishdi. Chunki ular bilishardi, O'zbekistonning sehrlangan go'zalligi faqat kitoblarda emas, balki har bir O'zbekiston fuqarosining qalbida ham yashaydi. Va bu go'zallik abadiy davom etishi kerak.
+</body>
+```

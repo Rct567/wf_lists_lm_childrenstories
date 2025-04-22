@@ -1,0 +1,73 @@
+<prompt>
+Please write a creative and original Bosnian children's story that is at least 1000 words long.
+It must be completely written in proper Bosnian (BS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Prijateljstvo koje je promijenilo sve'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>bs</lang_id>
+
+```xml
+<title>Prijateljstvo koje je promijenilo sve</title>
+<body>
+U srcu Bosne, u dolini okruženoj visokim, zelenim planinama, ležalo je selo zvano Zelenkovac. Zelenkovac je bio poznat po svojim bujnim voćnjacima, bistrim potocima i toplim, gostoljubivim ljudima. U tom selu živjela su dva djeteta koja su, naizgled, bila potpuno različita, ali su ih sudbina i avantura spojile u neraskidivo prijateljstvo.
+
+Prvo dijete, dječak po imenu Tarik, bio je sin lokalnog kovača. Tarik je bio snažan, vrckav i pun energije. Njegove ruke su bile spretne kao i njegov otac, a oči su mu sjajile od znatiželje. Volio je da provodi dane istražujući šumu, penjući se po drveću i igrajući se pored potoka. Imao je vatru u srcu i želju da sve doživi.
+
+Drugo dijete, djevojčica po imenu Selma, bila je kćerka seoske učiteljice. Selma je bila tiha, zamišljena i inteligentna. Više je voljela da čita knjige, crta i piše priče. Njene oči su bile boje lješnjaka, pune mudrosti i razumijevanja. Selma je imala sanjivu dušu i dar da vidi ljepotu u najjednostavnijim stvarima.
+
+Tarik i Selma se u početku nisu mnogo družili. Tarik je mislio da je Selma previše mirna i dosadna, dok je Selma smatrala Tarika previše bučnim i nemirnim. Ali sudbina je imala drugačije planove.
+
+Jednog sunčanog proljetnog dana, dok se Tarik igrao u šumi, naišao je na nešto neobično. Vidio je staru, hrđavu gvozdenu kutiju skrivenu ispod korijena ogromnog hrasta. Znatželjan, pokušao je da otvori kutiju, ali je bila zaključana.
+
+"Šta je to?", začuo je nježan glas iza sebe. Okrenuo se i vidio Selmu, koja je stajala sa svojom knjigom u rukama.
+
+"Ne znam", rekao je Tarik, "ali izgleda zanimljivo. Ne mogu da je otvorim."
+
+Selma je prišla bliže i pažljivo pogledala kutiju. "Izgleda staro", rekla je. "Možda je unutra nešto važno."
+
+Zajedno su proveli sate pokušavajući da otvore kutiju. Koristili su kamenje, grančice i sve što su pronašli, ali bez uspjeha. Na kraju dana, umorni i pomalo razočarani, odlučili su da se vrate kući.
+
+Sutradan, Tarik je došao u Selminu kuću. "Imam ideju", rekao je uzbuđeno. "Moj otac je kovač. Možda on može da otvori kutiju."
+
+Selma se složila i zajedno su otišli kod Tarikovog oca. Kovač je pažljivo pregledao kutiju i rekao: "Ovo je stara brava. Trebaće mi malo vremena, ali mislim da je mogu otvoriti."
+
+Kovač je radio na bravi dva dana. Na kraju, uz pomoć nekoliko alata i puno strpljenja, uspio je da je otvori.
+
+Kada su otvorili kutiju, unutra su pronašli staru, požutjelu mapu, nekoliko pisama i mali, srebrni privjesak u obliku zvijezde. Mapa je crtala put do skrivenog izvora, za koji se pričalo da ima čarobne moći. U pismima je pisalo o tajni koja je čuvala snagu Zelenkovca i o potrebi da se izvor zaštiti.
+
+Tarik i Selma su bili zapanjeni. "Šta da radimo?", pitala je Selma.
+
+"Moramo da slijedimo mapu!", rekao je Tarik uzbuđeno. "Moramo da pronađemo taj izvor i da zaštitimo Zelenkovac."
+
+Tako je počela njihova avantura. Zajedno su krenuli na put, slijedeći mapu kroz guste šume, preko strmih planina i pored brzih rijeka. Tarik je koristio svoju snagu i spretnost da ih vodi kroz opasne terene, dok je Selma koristila svoju inteligenciju i znanje da ih usmjerava i rješava zagonetke.
+
+Tokom putovanja, Tarik i Selma su naučili mnogo jedno o drugom. Tarik je otkrio da Selma nije samo mudra i tiha, već i hrabra i odlučna. Selma je otkrila da Tarik nije samo bučan i nemiran, već i ljubazan i pažljiv. Njihovo prijateljstvo je jačalo svakim korakom, a poštovanje jedno prema drugom je raslo.
+
+Na svom putu susreli su razne ljude, dobre i loše. Neki su im pomagali, dajući im hranu, smještaj i savjete. Drugi su pokušavali da ih prevare i ukradu im mapu. Ali Tarik i Selma su bili odlučni da ne odustaju. Uvijek su jedno drugom čuvali leđa, oslanjajući se na snagu svojeg prijateljstva.
+
+Nakon mnogo dana putovanja, konačno su stigli do mjesta označenog na mapi. Pred njima se nalazila prekrasna, bistra rijeka, a u sredini rijeke ležao je mali, sjajni izvor. Izvor je bio okružen cvijećem i drvećem, a vazduh je bio ispunjen magičnom energijom.
+
+Ali, ispred izvora su stajala dva zla čarobnjaka. Oni su htjeli da ukradu snagu izvora i da je iskoriste za svoje zle planove.
+
+"Nećete uzeti ovu snagu!", rekao je Tarik hrabro.
+
+"Mi ćemo je uzeti!", odgovorili su čarobnjaci. "I niko nas ne može zaustaviti!"
+
+Došlo je do borbe. Tarik je koristio svoju snagu i spretnost da se bori protiv čarobnjaka, dok je Selma koristila svoju inteligenciju i mudrost da pronađe način da ih zaustavi. Koristili su kamenje, grane i sve što su mogli da nađu, ali čarobnjaci su bili jako moćni.
+
+U jednom trenutku, Selma se sjetila privjeska u obliku zvijezde. Prisnula ga je na svoje srce i izgovorila čarobne riječi koje su bile napisane na jednom od pisama. Odjednom, iz privjeska je zasjala jaka svjetlost. Svjetlost je obasjala čarobnjake, koji su počeli da se tope.
+
+"Šta se dešava?", vikali su čarobnjaci u strahu.
+
+"Vi ste poraženi!", rekla je Selma. "Snaga prijateljstva i dobra uvijek pobjeđuje zlo."
+
+Čarobnjaci su nestali, a izvor je ponovo bio slobodan. Tarik i Selma su bili srećni i iscrpljeni, ali znali su da su učinili pravu stvar.
+
+Vratili su se u Zelenkovac kao heroji. Ljudi iz sela su im se zahvaljivali i slavili ih. Tarik i Selma su zauvijek ostali najbolji prijatelji. Njihovo prijateljstvo je promijenilo sve. Dokazali su da snaga leži u jedinstvu, hrabrosti i, iznad svega, u prijateljstvu. Zelenkovac je nastavio da prosperira, zahvaljujući hrabrosti dvoje djece koja su se usudila da prate svoju sudbinu i koja su pronašla pravu vrijednost u međusobnoj ljubavi i podršci. A zvjezdani privjesak, čuvan u Selminoj kući, podsjećao ih je na avanturu koja ih je zauvijek promijenila, na prijateljstvo koje je pobijedilo sve.
+</body>
+```

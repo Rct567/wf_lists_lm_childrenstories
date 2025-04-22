@@ -1,0 +1,61 @@
+<prompt>
+Please write a uncomplicated French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Le bus scolaire et les enfants contents et les histoires amusantes.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```xml
+<title>Le bus scolaire et les enfants contents et les histoires amusantes.</title>
+<body>
+Il était une fois, dans un petit village niché entre de vertes montagnes et une rivière scintillante, un bus scolaire tout jaune, le "Soleil Brillant". Le Soleil Brillant était très important. Il emmenait chaque matin et ramenait chaque après-midi les enfants de l'école. Et quel bonheur !
+
+Chaque matin, dès que le soleil commençait à peindre le ciel de couleurs vives, le Soleil Brillant partait de son garage. Il klaxonnait joyeusement pour signaler son arrivée et annoncer le début d'une nouvelle journée pleine d'aventures.
+
+À bord du Soleil Brillant, il y avait toujours beaucoup d'enfants contents. Il y avait Sophie, avec ses nattes blondes qui rebondissaient à chaque mouvement, et Lucas, un garçon espiègle aux yeux pétillants, toujours prêt à une blague. Il y avait aussi Emma, une petite fille timide, qui adorait dessiner, et Théo, le grand frère protecteur, qui veillait sur tout le monde. Et bien d'autres encore, chacun avec son sourire, son sac à dos rempli de cahiers et de crayons, et son impatience de retrouver ses amis et les leçons de l'école.
+
+Le chauffeur du bus, Monsieur Paul, était un homme gentil et souriant. Il connaissait tous les enfants par leur prénom et aimait raconter des histoires. Il conduisait le Soleil Brillant avec beaucoup de soin, toujours attentif à la sécurité des enfants.
+
+Un matin, alors que le Soleil Brillant roulait sur la route sinueuse qui menait à l'école, Sophie remarqua quelque chose d'étrange. "Monsieur Paul, regardez !" s'exclama-t-elle. "Il y a un drôle d'oiseau sur la branche d'un arbre !"
+
+Tous les enfants se penchèrent pour observer. C'était vrai, il y avait un oiseau, mais pas n'importe quel oiseau. Il avait des plumes de toutes les couleurs de l'arc-en-ciel, un bec en forme de cuillère et il semblait... chanter !
+
+Monsieur Paul s'arrêta sur le bas-côté de la route. "C'est un oiseau très spécial," dit-il avec un sourire. "C'est un oiseau qui porte bonheur et qui parle aux enfants qui ont le cœur pur."
+
+Les enfants, émerveillés, écoutèrent attentivement. L'oiseau, sentant l'attention des enfants, se mit à chanter une mélodie joyeuse. Puis, d'une voix cristalline, il dit : "Bonjour les enfants ! Aujourd'hui, je vais vous raconter une histoire. Une histoire sur un petit lapin qui voulait voler !"
+
+Les enfants étaient fascinés. Le Soleil Brillant resta silencieux, et pendant que l'oiseau coloré racontait son histoire, les enfants étaient transportés dans un monde imaginaire. Ils voyaient le petit lapin maladroit essayer de battre des ailes, se hisser sur les montagnes, et finalement, grâce à son courage et sa persévérance, apprendre à voler.
+
+À la fin de l'histoire, l'oiseau coloré s'envola vers le ciel, laissant derrière lui un sentiment de bonheur et d'espoir. Les enfants, les yeux brillants, remercièrent l'oiseau.
+
+Quand le Soleil Brillant reprit sa route, l'ambiance était encore plus joyeuse. Les enfants partageaient leurs impressions et discutaient de l'histoire du lapin volant.
+
+Le lendemain, alors qu'ils étaient sur le point d'arriver à l'école, une nouvelle aventure les attendait. "Monsieur Paul, regardez !" cria Lucas. "Un petit chat est coincé dans un arbre !"
+
+Encore une fois, Monsieur Paul stoppa le bus. Le chaton, tout petit et effrayé, était perché très haut dans l'arbre. Les enfants étaient très inquiets pour lui.
+
+Théo, le grand frère, se porta volontaire pour l'aider. Avec l'aide de Monsieur Paul, il grimpa prudemment dans l'arbre et réussit à secourir le chaton. Le chaton, tout tremblant, se blottit dans les bras de Théo.
+
+Une fois le chaton en sécurité, Monsieur Paul expliqua : "Le chaton a besoin d'un endroit où vivre. Est-ce que quelqu'un veut l'adopter ?"
+
+Immédiatement, Emma, la petite fille timide qui adorait dessiner, leva la main. Elle avait toujours rêvé d'avoir un chat. Elle promit de s'occuper du chaton et de lui donner beaucoup d'amour. Le chaton, sentant la gentillesse d'Emma, ronronna doucement contre elle.
+
+En ce jour-là, le Soleil Brillant fut un véritable lieu de joie et de compassion. Les enfants avaient non seulement vécu une nouvelle aventure, mais ils avaient aussi appris l'importance de l'entraide et de la générosité.
+
+Au cours des jours suivants, d'autres histoires amusantes se déroulèrent dans le Soleil Brillant. Il y eut l'histoire du bonbon géant, trouvé par Sophie, et partagé entre tous les enfants. Il y eut la découverte d'un coffre au trésor (rempli de faux bijoux, bien sûr !) trouvé près d'une vieille cabane. Et il y eut les éclats de rire et les chants qui résonnaient à chaque trajet.
+
+Un jour, avant les grandes vacances, Monsieur Paul réunit tous les enfants. Il avait une surprise. "Mes chers enfants," dit-il, "j'ai décidé de créer un petit carnet de bord. Dans ce carnet, nous écrirons et dessinerons toutes les histoires amusantes que nous vivons ensemble."
+
+Les enfants furent ravis. Chaque semaine, ils se relayaient pour raconter, dessiner ou écrire les aventures qu'ils avaient vécues dans le Soleil Brillant. Le carnet de bord devint un précieux souvenir, un témoignage de leurs rires, de leurs découvertes et de leurs liens d'amitié.
+
+Les vacances arrivèrent enfin. Le Soleil Brillant se rangea au garage pour se reposer, mais les enfants continuèrent à se voir, à jouer ensemble, et à inventer de nouvelles histoires.
+
+À la rentrée, le Soleil Brillant reprit son service avec enthousiasme. Il était prêt pour de nouvelles aventures, pour de nouvelles rencontres, et pour de nouvelles histoires. Car le Soleil Brillant savait que le plus grand bonheur était de partager des moments de joie et de complicité avec les enfants contents qui le remplissaient chaque jour. Et tant que le Soleil Brillant roulerait sur les routes sinueuses et lumineuses, les enfants seraient toujours contents, et les histoires amusantes ne manqueraient jamais. Et Monsieur Paul, avec son sourire et son cœur grand ouvert, serait toujours là pour les accueillir et pour rendre leur trajet le plus merveilleux possible. Le Soleil Brillant, un bus scolaire, un ami, et un fabuleux conteur d'histoires, pour tous les enfants.
+</body>
+```

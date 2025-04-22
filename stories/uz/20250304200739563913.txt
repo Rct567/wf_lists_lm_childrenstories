@@ -1,0 +1,61 @@
+<prompt>
+Please write a silly Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Qarg'a va itning do'stlik ertaklari'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>Qarg'a va itning do'stlik ertaklari</title>
+<body>
+Qoraqalpog'istonning quyoshli, cho'l tekisligida, bir qarg'a o'tirgandi.  Uning nomi Qarg'o'chqon edi.  Qarg'o'chqon odatdagi qarg'alardan farq qilardi.  Uning qanotlari oq chiziqlar bilan bezatilgan edi, u hamma qarg'alarni hayratga solardi.  Qarg'o'chqon yaxshi ovqat topishni yaxshi ko'rardi, lekin yomon ko'ngil ayollarga yordam berishdan ham zavq olardi.
+
+
+Bir kuni, u daryo bo'yida yurish paytida, shovqinli hayotini eslamaslikning iloji yo'q bo'lgan ajablanarli voqea bilan uchrashdi.  Qarg'a oyoqlari oldidan kulrang, shunaqangi yosh, bir it yurganini ko'rdi.  Bu itning nomi,  to'g'ri eslatib bo'lmaydigan qishloqqa kelib tushgan,  "Savo" edi. Savoning ko'zlari quyonlarning ko'zlari singari yoshligiga to'la edi. Uning quyruqi esa, g'alati bir shovqin bilan yerga yopishdi. Qarg'o'chqon, Savoga ozgina ishora qildi, u esa hayratga tushib yurardi.  
+
+"Salom, Savol!" deb shivirladi Qarg'o'chqon.  "Mening ismim Qarg'o'chqon. Siz nimaga shu yerlarda yurmoqdasiz?"
+
+
+Savo, baland tovush bilan, o'ziga kelmadi, shunchaki o'zining o'ng yelkasidan yalang'och holda edi va u qarg'a, deb his qildi. U, "Eh... Qarg'o'chqon..." deb kechikkan va kulrang ohangida qarg'a bilan gaplashishga qaror qildi.
+
+"Men yo'ldan ozganman" dedi Savo.  "Uydan uzoqlashib ketdim.  Bir-biriga yomon gap aytgan bola-qizlarga, ham yomon yordam bera olmayman".
+
+
+"Ahvoling achinarli-ku" dedi Qarg'o'chqon. "Bunday paytda har kimning do'sti kerak bo'ladi. Bilasizmi, men o'zim uchun siz kabi do'st izlamoqdamiz. Qolganlari ham juda yomon va qo'rqinchli". 
+
+
+"Do'st izlamoqdamizmi?"  dedi Savo. "Bu qo'rqinchli ish emasmi? Do'st bo'lishni juda ham talab qiladi!"
+
+
+"Yo'q!" javob berdi Qarg'o'chqon.  "Do'stlik oson bo'lmaydi, ammo u hech qachon achinmaslikni tug'dirmaydi!" U, quvonchdan qanotlari bilan uchishga kirishib ketdi va ko'klarni yig'laganiga qadar u qush bilan birga juda qimmatli joylarga bordi, ammo bir lahzada, ertadan biron joydan bo'lak kechayotgan Savoni ko'rishdi.  
+
+
+"Qanaqali yo'ldas?" deb so'radi Qarg'o'chqon, uning ko'zlari Savoning xavasini eslay olmadi.  Uning o'yin-kulgisi o'g'rilangan edi.  "Qara, o'rta o'rtadagi yosh itlardan farq qiladigan joy yo'q."
+
+
+Savo boshini chayqadi. "To'g'ri.  Xo'sh, yana nima?"
+
+
+Qarg'o'chqon tetikgina boshini silkitdi, u xuddi quyonlarga qoyil qolgandek.  "Menga shu yoqishgan do'stim".
+
+
+Keyingi o'ttiz daqiqa, qarg'o'chqon bir to'g'ri xitlar bilan, yagona so'z yoki hech nimaga ta'sir qila olmadi. Savoga shu qadar bevaqtki, qichqirig'i tebranib yurdi. Shunday qilib, uning ismini Savoni tushundi. U juda uzoq yashagan va o'ziga xos bir narsa qilishni juda ham xohladi.
+
+
+"Do'stlarsiz hayot shunchaki hech qachon tugashga yo'l qo'ymasligini hamma biladi."  dedi Savo.
+
+
+Ular yuzma-yuz bo'lishar ekan, qarg'a bir ko'zi Savoga bir boshidan chiqargan, boshini harakatlantirmasdan so'zlagan.
+
+
+Qarg'o'chqon quvonchdan ko'ngil ko'taribdi!  "Keyin bu do'stlarsiz qo'rqinchli ekan.  Bu juda qo'rqinchli, lekin birgalikda o'rganamiz" deb qarg'adi.
+
+
+Shundan beri Qarg'o'chqon va Savo birga ko'p yoqimli tadbirlarni qilishdi.  Ular birga yuzlab hayvonlar bilan do'st bo'lishdi, ko'zlarini yoqilg'ilarga qadar saqlamaslik, hatto yosh qon oqimi tufayli hatto bir-biriga uzoq qilavermaydi, hatto xalqqa katta zarar etkazadi.  Ular har doim ham do'st bo'lib qolishdi va shu bilan birga juda xushnud bo'ldilar.   Ular, Qoraqalpog'istonning cheksiz cho'llari, tog'lari va daryolari bo'ylab sayohat qildilar, hayrat va do'stlik haqida o'zlarining kulgili ertaklarini aytishdi.  Endi qarg'o'chqon va savoning kulgili ishlari o'zgacha ekanligini hamma bilib qolishdi. Va bu sehrli ertak ham har bir o'quvchi qalbida abadiy qoladi.
+
+</body>

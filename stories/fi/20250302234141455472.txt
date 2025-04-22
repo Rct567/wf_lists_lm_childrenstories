@@ -1,0 +1,41 @@
+<prompt>
+Please write a creative and original Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Pikku Kettu ja Hänen Ystävälliset Seikkailut'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>fi</lang_id>
+
+<title>Pikku Kettu ja Hänen Ystävälliset Seikkailut</title>
+<body>
+Pikku kettu, nimeltään Viljo, oli todella utelias ja rohkean sydämen omaava. Hänen villa oli kirkkaan punainen, kuin syksyisen auringonlaskut hehkuivat, ja silmät kuin kultaiset nappulat. Viljo asui tiheässä metsässä, täynnä salaperäisiä polkuja ja ihmeellisiä kukkia.
+
+Yhtenä aurinkoisella syyspäivänä Viljo oli matkalla tutkitsemaan salaperäistä mäntymetsän reunusosaa.  Tuulen tuoma havupuiden vihreys ja alaspäin tippuvat lehtiä tanssivat hämmästyttävän rytmin mukaan. Yhtäkkiä, keskellä vaaleanruskeita kuusenlehtiä, Viljo näki jotain yllättävää.  Se oli aivan pieni, kuvioidulla villaisella ja lumouttavilla silmillä varustettu eläin – pikkuinen, sinivalkoinen laukka!  Laukan nimi oli Luna.
+
+"Moi!", Viljo sanoi hellästi ja kumarsi päätään, toivoen ettei pieni laukka peljästyisi.
+
+"Moi", Luna vastasi hohtavilla silmillään, ääni kuin hellä soukkia.  "Minä olen Luna ja olen kadonnut omasta joukostani."
+
+Viljo tunsi heti myötähäpeää.  "Onko sinulle tarpeen apua, Luna?", Viljo kysyi ystävällisellä äänellä.
+
+"Kyllä", Luna vastasi ja kertoi surullisella äänellä kuinka oli eksynyt syksyisen metsän villiin laajuuteen, etsintäryhmänsä jättäen. Hän oli hyvin pieni ja hänen oli todella vaikea löytää tietä takaisin.
+
+Viljo päätti auttaa Lunan. "Älä huoli," hän sanoi rohkeasti.  "Me etsimme sinun tilaisuuttasi yhdessä. Tarvitsemme vain ystäviä."
+
+He matkustivat yhdessä ja löysivät pian pikkuiset metsärotan jäänteet, jotka kertoneen jalkapoluista.  Ne johtivat pikkuputkeen, joka oli eräs heistä jo kulkenut aivan vähän.
+
+"Mitä tässä oikein on?", Luna kysyi, kurkistellen putkeen.  Viljo vastasi: "Tuosta, ehkä jokin apu löytyis!". Viljo painoi kurkkiessaan ja pääsi läpi putken ja tiesi minne oli matkaa kuljettava.
+
+Matkalla he tapasivat erään vanhan ja viisaan metsänpeuran. Peura, nimeltään Pippa, oli kuullut Lunaa etsivän. Pippa kertoi kauniin tarinan metsästä ja sen kätköistä, johdattaen Viljon ja Lunalla tehokkaammalle polulle.  Pippa osoitti ylhäältä näkyvää puupainon kylmää polkua ja sen yllä pitkälle roikkumat kahden luolan seinä. Viljo katsoi huolissaan, sillä ne näyttivät erittäin kylmiltä.
+
+Viljo ja Luna jatkoivat varovaisesti ja väsymättä. Kun lopulta ylsivät vuorostaan ja saapuivat metsän yläreunaan, he olivat lopulta löytäneet  Lunaan kotitoimin. He löysivät Lunasta heidän kaiken yllättävin ystävänsä.
+
+"Hyvä tietää, että olet ehjänä, pieni Luna", sanoi Lunaa kuulemassa eräs laukka heidän kotoihinsa tulemassa. Hän oli suurennettu ja kaunis laukka, nimi Eira!  Eira oli iloinen ja kiitti Viljoa ystävällisesti kaikesta.
+
+Viljo oli tyytyväinen, sillä hän oli auttanut Lunan ja tunsi olevansa todellinen metsän sankari. Kaikkien yhteistyö ja ystävällisyys vei heidät kotiin. Seuraavina päivinä Viljo ja Luna leikkivät ja nauttivat metsän kauneudesta, muistaen kaiken yhteen löytämänsä ystävät.  He olivat opettaneet, että ystävyys ja rohkeus ovat vahvempia kuin kukaan ja mikään este voi olla. Ystävällisillä seikkailuilla on todella valtava arvo.  Se ei vain ojenna maailmaa ja elämyksiä, vaan se parantaa ihmisiä.
+</body>

@@ -1,0 +1,58 @@
+<prompt>
+Please write a fun and entertaining Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Cô Gái Nhỏ Nhắn Và Cuộc Thi Nấu Ăn Vĩ Đại Nhất Mọi Thời Đại'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>vi</lang_id>
+
+```vi
+<title>Cô Gái Nhỏ Nhắn Và Cuộc Thi Nấu Ăn Vĩ Đại Nhất Mọi Thời Đại</title><body>
+Ngày xửa ngày xưa, ở một ngôi làng nhỏ bé nép mình bên bờ sông Hồng hiền hòa, có một cô bé tên là Mai. Mai không chỉ là một cô bé xinh xắn với mái tóc đen óng ả và đôi mắt to tròn, mà còn là một đầu bếp tài năng. Niềm đam mê lớn nhất của Mai là nấu ăn. Cô bé thích khám phá những hương vị mới lạ, biến tấu những món ăn quen thuộc và luôn tràn đầy nhiệt huyết khi vào bếp.
+
+Một ngày nọ, tiếng trống dồn dập vang vọng khắp làng. Mọi người tụ tập tại quảng trường, xôn xao bàn tán về điều gì đó vô cùng quan trọng. Hóa ra, sắp tới sẽ diễn ra “Cuộc Thi Nấu Ăn Vĩ Đại Nhất Mọi Thời Đại” do chính Đức Vua đích thân tổ chức. Giải thưởng là một túi vàng lớn cùng với danh hiệu “Đầu Bếp Tài Ba Nhất Vương Quốc”.
+
+Mai, với trái tim đầy đam mê và khát khao chinh phục, lập tức muốn tham gia. Tuy nhiên, mẹ của Mai lại hơi lo lắng. “Mai ơi, con còn nhỏ quá. Những người tham gia đều là những đầu bếp chuyên nghiệp, dày dặn kinh nghiệm. Con có chắc chắn không?”
+
+Mai nhìn mẹ với ánh mắt quyết tâm. “Mẹ ơi, con thích nấu ăn lắm. Con muốn được trổ tài nấu nướng, và con tin là con có thể làm được!”
+
+Nghe vậy, mẹ Mai mỉm cười gật đầu. “Được rồi, mẹ sẽ ủng hộ con. Nhưng con phải cố gắng hết mình nhé.”
+
+Ngay lập tức, Mai bắt tay vào chuẩn bị. Cô bé dành hàng giờ trong bếp, luyện tập các món ăn từ đơn giản đến phức tạp. Mai học cách chọn nguyên liệu tươi ngon, cách nêm nếm gia vị sao cho vừa miệng, và cả cách trang trí món ăn sao cho thật đẹp mắt.
+
+Mai đặc biệt thích món “Bánh Xèo Giòn Rụm” của bà ngoại. Bà thường kể cho Mai nghe về bí quyết làm bánh xèo ngon nhất, từ việc pha bột, đến cách tráng bánh trên chảo. Mai chăm chú lắng nghe, ghi nhớ từng chi tiết nhỏ nhất. Cô bé tập làm bánh xèo mỗi ngày, thử nghiệm nhiều công thức khác nhau, đến khi nào đạt được độ giòn rụm hoàn hảo thì thôi.
+
+Đến ngày diễn ra cuộc thi, không khí trong quảng trường thật náo nhiệt. Các đầu bếp đến từ khắp mọi miền đất nước đều tụ tập, với dụng cụ nấu nướng, nguyên liệu và sự tự tin tràn đầy. Mai, với chiếc tạp dề xinh xắn và khuôn mặt rạng rỡ, nhỏ bé giữa đám đông, nhưng cô bé không hề e ngại.
+
+Khi đến lượt, Mai nhanh chóng bắt tay vào việc. Cô bé tự tin trình bày món “Bánh Xèo Giòn Rụm” mà mình đã dày công luyện tập. Mai nhanh nhẹn tráng bánh trên chảo nóng, thoăn thoắt cho nhân vào, rồi gấp đôi bánh lại thành hình bán nguyệt. Hương thơm của bột bánh vàng ươm, của tôm thịt thơm lừng, cùng với tiếng xèo xèo vui tai, lan tỏa khắp không gian.
+
+Các vị giám khảo, là những đầu bếp nổi tiếng và uy tín nhất vương quốc, đều tỏ ra thích thú trước sự xuất hiện của cô bé Mai. Họ chăm chú quan sát từng động tác của Mai, từ khâu chuẩn bị nguyên liệu, đến khâu tráng bánh, và cả cách Mai trình bày món ăn.
+
+Mai nhẹ nhàng đặt chiếc bánh xèo giòn rụm lên đĩa, trang trí thêm một vài cọng rau sống và chén nước chấm chua ngọt hấp dẫn. Cô bé tự tin giới thiệu món ăn của mình, giải thích về cách làm, về ý nghĩa của món ăn truyền thống này.
+
+Khi các vị giám khảo nếm thử, ai nấy đều trầm trồ khen ngợi. Bánh xèo của Mai giòn rụm đến từng miếng, nhân bánh đậm đà hương vị, và nước chấm thì hoàn hảo. Một vị giám khảo lớn tuổi còn xúc động nói: “Đây là chiếc bánh xèo ngon nhất mà ta từng được thưởng thức! Nó gợi nhớ cho ta về hương vị tuổi thơ.”
+
+Sau khi các thí sinh khác trình bày xong món ăn của mình, Ban Giám Khảo họp lại để đưa ra quyết định. Thời gian dường như chậm lại, và Mai cảm thấy hồi hộp đến lạ thường.
+
+Cuối cùng, sau những phút giây căng thẳng, Đức Vua tuyên bố người chiến thắng là… Mai!
+
+Cả quảng trường ồ lên vì ngạc nhiên và vui mừng. Mai, với khuôn mặt ngỡ ngàng, tiến lên nhận giải thưởng. Đức Vua tự tay trao cho Mai chiếc túi vàng lớn và danh hiệu “Đầu Bếp Tài Ba Nhất Vương Quốc”.
+
+Mai, trong niềm hạnh phúc vỡ òa, cảm ơn Đức Vua và tất cả mọi người. Cô bé đã chứng minh rằng, dù nhỏ bé về tuổi tác, nhưng với niềm đam mê, sự kiên trì và tài năng của mình, bất cứ ai cũng có thể đạt được thành công.
+
+Kể từ đó, danh tiếng của Mai lan xa khắp vương quốc. Mọi người đều biết đến cô bé đầu bếp tài ba, người đã chiến thắng trong cuộc thi nấu ăn vĩ đại nhất mọi thời đại.
+
+Mai tiếp tục theo đuổi đam mê nấu ăn của mình. Cô bé mở một quán ăn nhỏ, nơi phục vụ những món ăn ngon và mang đậm hương vị truyền thống. Mai luôn cố gắng truyền cảm hứng cho những người khác, đặc biệt là trẻ em, hãy theo đuổi ước mơ của mình.
+
+Và câu chuyện về “Cô Gái Nhỏ Nhắn Và Cuộc Thi Nấu Ăn Vĩ Đại Nhất Mọi Thời Đại” trở thành một trong những câu chuyện cổ tích được yêu thích nhất ở vương quốc. Nó nhắc nhở mọi người rằng, hãy luôn tin vào bản thân, đừng bao giờ từ bỏ ước mơ, và hãy luôn giữ ngọn lửa đam mê cháy mãi trong tim mình. Và trên hết, hãy luôn biết trân trọng những giá trị truyền thống, những món ăn đã nuôi dưỡng chúng ta khôn lớn.
+
+Mai lớn lên, trở thành một đầu bếp lừng danh, một người truyền cảm hứng cho biết bao thế hệ. Quán ăn của cô bé ngày nào, vẫn tồn tại đến ngày nay, luôn tấp nập khách ra vào, và luôn giữ nguyên hương vị thơm ngon của những món ăn truyền thống Việt Nam. Và trong lòng mỗi thực khách, luôn có một chỗ đặc biệt dành cho món “Bánh Xèo Giòn Rụm” – món ăn đã làm nên tên tuổi của cô gái nhỏ nhắn, nhưng lại vĩ đại vô cùng.
+
+Mãi về sau, người ta còn đồn đại rằng, mỗi khi trời trở gió, hương thơm của bánh xèo vẫn còn thoang thoảng đâu đó, như một lời nhắc nhở về một câu chuyện cổ tích diệu kỳ, về một cô gái nhỏ nhắn và ước mơ vĩ đại.
+</body>
+```

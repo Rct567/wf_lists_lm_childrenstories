@@ -1,0 +1,38 @@
+<prompt>
+Please write a silly Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A sárga kiskacsa kalandjai a réten'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>hu</lang_id>
+
+<title>A sárga kiskacsa kalandjai a réten</title><body>
+Egyszer volt, hol nem volt, még a kerek erdőn túl is volt egy hatalmas rét, mely zöldben pompázott, tele színes virágokkal. A réten éldegélt egy sárga kiskacsa, akinek a neve, mint ahogy más kacskázók neve is: Kacsintó Kázmér volt. Kázmér egy igazi kalandvágyó kacsa volt, akinek a napjai csak mókázásból, fürdőzésből és persze, rovarok vadászatából álltak. Imádta a napfelkeltét, amikor a rétet arany fénnyel festette meg, és a naplementét, amikor a színek lassan elhalványultak, mint egy rosszul festett kép.
+
+Egyik szép napon, amikor a nap már vidáman sütött, Kázmér úgy döntött, hogy egy nagyszerű kalandba kezd. "Ma én felfedezem a rét titkait!" - hirdette ki a szájával, amivel általában mosolyogni szokott. Békéivel persze nem, mert ők is kacagó kacagással kísérték a bejelentését. Elindult tehát, csapkodva szárnyait, melyek még ügyetlenek voltak, mint a papírrepülők.
+
+Elsőként a hatalmas bodzabokorhoz ért, ami a rét közepén állt, mint egy zöld óriás. "Na, mit rejtesz te nagy bokor?" - kérdezte Kázmér, és nagy pofával megközelítette a bokrot. A bodzabokor persze csak susogott, de a susogásban Kázmér egy rejtélyes suttogást hallott: "Kövesd a libát, ha tudni akarod, mi a titok!" Kázmér megdöbbent. Vajon ki lehet ez a titokzatos liba? Hiszen a rét összes libáját ismeri! De a kíváncsiság nagyobb volt, mint a meglepettség, így nekivágott a rétnek.
+
+Ahogy haladt, meglátott egy zöld színű, nagydarab cicát, akinek hosszú füle volt, ami minden mozgására vidám szélben lobogott. A macska éppen egy gilisztát kísért, persze nem kedvességből, hanem azért, mert imádta a föld mélyén élő vékony barátait megenni. Kázmér a cicát megkérdezte: "Hé, te cicus, láttál libát erre?" A cica ahelyett, hogy válaszolt volna, hirtelen kiterült a fűben, és el kezdett nyávogni a giliszta miatt. Kázmér egy pillanatra elfeledkezett a küldetéséről, és azon kezdett gondolkozni, vajon mitől lehet egy macska ennyire "el" a gilisztáktól. A macska közben nyávogott, és nyávogott, míg Kázmér a következő gondolatot meg nem jegyezte magában: "Lehet, hogy ezt én is ki kellene próbáljak." Persze nem tette, inkább továbbindult, mert az ő kalandja nem a giliszták megevéséről szólt, hanem a nagy titok felfedezéséről.
+
+Egy kicsivel odébb egy hatalmas tölgyfa alatt egy igazi liba üldögélt. Na, nem is akármilyen liba, hanem Guszti néni, a rét legnagyobb nagymamája! Kázmér odament hozzá, és kíváncsian megkérdezte: "Guszti néni, mi az a nagy titok?" Guszti néni csak felnevetett, ami a hangjában egy nagy, kacskó kacska volt, és így szólt: "Kázmérkám, te még mindig nem tudod? Hát az a nagy titok, hogy az élet a rét szépségében rejlik! A rovarok a vacsorában, a napfény a melegben, a víz a fürdőben."
+
+Kázmér egy kicsit szomorúan konstatálta, hogy a nagy titok nem is olyan nagy titok, mint képzelte. "De... de akkor mégis?" - nyögte ki. Guszti néni csak megmosolyogott. "A titok az, hogy te magad is a titok vagy, Kázmér! A kalandok a kalandokért! Nincs egyetlen nagy titok, amihez el kell jutnod. A lényeg az, hogy élvezd az utat!"
+
+Ezen a ponton megzavarta őket egy csapat fecske, akik hatalmas ricsajjal suhantak el fölöttük. Kázmér felkapta a fejét. A fecskék szanaszét szelték az eget. Ő is szerette őket nézni, ahogy a levegőben táncolnak, bár néha egy pici aggodalom futott át rajta, mert rettegett, hogy elkapnak valahova, a világ végére. De ez csak a gondolata volt, a kalandvágy megmaradt, így Kázmér meggondolta, milyen kalandba is vágjon bele.
+
+Ebben a pillanatban a rét túlsó szélén, a hínárfolt mellett meglátott egy hatalmas, zöld teknőst. A teknős lassan araszolt, és egy nagy kőhöz ért, amit éppen próbált megmászni. Kázmér úgy gondolta, ez lehet a következő kalandja. Odarohant a teknőshöz, és megkérdezte: "Segíthetek valamiben?" A teknős megfordult, és a lassan a lencsevégére vette a fióka, hogy kinek is beszél a szokatlan nagymester. A teknős bólintott. "Kedves kiskacsa, a nevemet amúgy Zsombor, s ezt a követ képtelen vagyok megmászni." Kázmér nagy mosolyogva felelte: "Segítek!" És a nagy kacsa segített is, ami után együtt felkapaszkodtak a kőre, onnan pedig a rét hatalmas mezőjére, ahol a legszebb kalandjai várták.
+
+Zsombor ekkor elmondta, hogy a kövön is egy titok lapul: valami ínycsiklandozó finomság vár rájuk. És persze igaza volt, mivel a kő tövében hatalmas finomabbnál-finomabb mezeinyúl gyökerek békésen lapultak. És persze mi volt aznap a vacsora? Gyerekek, csak is isteni réti giliszta, rovarokkal telerakva, természetesen Guszti nénitől.
+
+A naplemente már lassan közeledett. Kázmér és Zsombor visszatértek Guszti nénihez, aki már a napi utolsó meséjét mesélte. Kázmér ekkor már teljesen megváltozott, a nagymama meséjét teljesen átszellemülten hallgatta. Lassan belefolyt az egész napos élményébe, de azt tudta, hogy a kaland nem ért véget, sőt! Holnap újra felfedezi a rétet, és keresi a titkokat, a barátokat, a gilisztákat (vagy nem...), és természetesen a mosolyt.
+
+A kacsa már nem csak egy sárga kis kacsa volt, hanem egy nagyméretű kacsa, aki megértette, hogy a világ nemcsak a titkokból áll, hanem a barátságból, a naplementéből, a kacsintó szemekből, és a rét minden aprócska rejtélyéből is.
+
+És így Kázmér Kacsintó a következő nap is elindult, de nem egy nagy titkot akart felfedezni, hanem megérteni, hogy mit szeret, miként élhet, s nem másban keresni a nagy "mindenséget", hanem önmagában, hiszen ő is a része a rét hatalmas rejtekének.
+</body>

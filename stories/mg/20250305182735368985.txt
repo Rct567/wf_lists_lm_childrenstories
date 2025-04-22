@@ -1,0 +1,48 @@
+<prompt>
+Please write a dialog-based Malagasy children's story that is at least 1000 words long.
+It must be completely written in proper Malagasy (MG).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>mg</lang_id>
+
+<title>Ny Zanak'ilay Vorona Mahagaga</title>
+<body>
+Nisy vorona iray mahagaga, nantsoina hoe Ranovo, nipetraka teo amin'ny hazo avo be teo afovoan'ny ala.  Nanan-jaza kely izy, nantsoina hoe  Lilo.  Nitsangana vaovao i Lilo, ary nirehareha ny tenany.
+
+"Avia ianao, Ranovo," hoy i Lilo, "Mampiseho ahy ny lalana mankany amin'ny lohasaha feno voankazo ahoana ny lalana?"
+
+"Tsy mora ny lalana mankany amin'ny lohasaha feno voankazo, Lilo," hoy i Ranovo, "Feno vatolampy sy renirano ary bibilava ny lalana.  Mila fahendrena sy faharetana ianao."
+
+"Faharetana?  Fahendrena?  Aiza no misy izany?" hoy i Lilo, izay nihevitra fa mora ny zava-drehetra.  "Handeha aho ankehitriny ihany!"
+
+Nandeha i Lilo, tsy niraharaha ny tenin'ny reniny.  Nianjera izy tamin'ny vatolampy lehibe.  "Aiza no misy ny voankazo?" hoy izy, nihorakoraka.
+
+Nisy bibilava kely nitsambikina teo, nisy ny feony nanambara hoe, "Tsy ho hitanao ny voankazo raha tsy manaraka ny lalana marina ianao."
+
+"Aza manelingelina ahy," hoy i Lilo, nanohy ny lalany.  Nianjera izy tamin'ny renirano lalina.  Nifoka rano izy.
+
+"Mampalahelo ny lalana," hoy izy, "Tsy hitako ny voankazo."
+
+Nisy kintana kely nivoaka avy tao anaty rano, nisy ny feony nanambara hoe, "Ny faharetana sy ny fahendrena no fanalahidy mankany amin'ny voankazo."
+
+Nandeha hatrany i Lilo, tsy niraharaha ny tenin'ny bibilava sy ny kintana.  Nisy hazo lehibe iray nianjera teo amin'ny lalany.  Naka fotoana ela izy vao nahavita nanarona ny hazo.
+
+"Mampalahelo," hoy i Lilo, "Tsy hitako ny voankazo."
+
+Nisy voalavo kely nitsambikina teo, nisy ny feony nanambara hoe, "Ny faharetana sy ny fahendrena no fanalahidy mankany amin'ny voankazo."
+
+Tamin'ny farany, taorian'ny dia mafy, dia tonga teo amin'ny lohasaha feno voankazo i Lilo.  Nisy voankazo matsiro sy mahafinaritra maro.  Fa nisy zavatra hafa koa. Nisy olona nanenina ny voankazo, ary nisy olona nanenina ny voankazo noho ny tsy faharetana.
+
+"Ho tsara kokoa raha nandeha niaraka tamin'ny reniny aho," hoy i Lilo, naneho ny fihetseham-pony.
+
+Nitsambikina teo ny reniny, i Ranovo, ary nanambara hoe, "Lilo, nianatra zavatra betsaka ianao androany.  Ny faharetana sy ny fahendrena no fanalahidy mankany amin'ny fahasambarana.  Mbola misy dingana hafa ho avy."
+
+"Misaotra anao, Ranovo," hoy i Lilo, izay nahatsapa ny lanjan'ny tenin'ny reniny.  "Hanaraka ny lalana marina aho amin'ny manaraka."
+
+Nandeha izy ireo, niaraka, mankany amin'ny ala.  Nianatra ny maha-zava-dehibe ny faharetana sy ny fahendrena i Lilo.  Nisy lesona maro ho an'ny hafa koa, ny lesona momba ny faharetana sy ny fahendrena.  Ary ny zanak'ilay vorona mahagaga dia nanomboka ny diany mba ho lasa olona hendry sy mahay.
+</body>

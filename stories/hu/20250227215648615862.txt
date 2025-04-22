@@ -1,0 +1,41 @@
+<prompt>
+Please write a timeless Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A Varázsló és a Hét Tündér'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>hu</lang_id>
+
+<title>A Varázsló és a Hét Tündér</title><body>  
+Egyszer volt, hol nem volt, egy távoli királyságban, ahol a hegyek tetején megbújó várak és az erdők mélyén rejtőző tündérkert virított. Ebben a királyságban élt egy fiatal varázsló, akit Zoltánnak hívtak. Zoltán nem volt közönséges varázsló, hanem egy olyan, aki mindig is mások boldogságát kereste, és aki minden varázslatát a jóra fordította. De Zoltánnak volt egy titka, amit senki sem tudott: ő egykoron a hét tündér barátja volt, akik eltűntek, amikor a királyságot egy sötét varázsló elárasztotta félelemmel.
+
+A történet kezdetén Zoltán éppen az erdő szélén sétált, amikor egy gyönyörű, ezüstös madár szállt le mellette. A madár egy csillogó papírdarabot hozott a csőrében, amelyen ezek a szavak álltak: *"Segíts nekünk, Zoltán. A hét tündér veszélyben van."* Zoltán szíve összeszorult. Tudta, hogy a tündérek, akiket régen ismert, valahol a sötét varázsló fogságában szenvednek. Azonnal elindult, hogy megkeresse őket.
+
+Az útja során Zoltán találkozott egy öreg erdei manóval, aki bölcsességeiről volt híres. A manó elmondta neki, hogy a hét tündér egy titkos barlangban van bezárva, amelyet csak a varázsló szívének ereje nyithat meg. De figyelmeztette Zoltánt: *"A sötét varázsló hatalmas, és nem könnyű legyőzni. Csak akkor tudod megmenteni a tündéreket, ha a szíved tiszta és a szándékaid nemesek."*
+
+Zoltán nem habozott. Tudta, hogy nem lehet megállni, amíg a barátai szenvednek. Tovább ment, és végül eljutott a titkos barlanghoz, amelyet egy hatalmas kőajtó zár el. Az ajtón hét szimbólum volt, amelyek a hét tündér szíveit jelképezték. Zoltán megérintette az ajtót, és a szíve melegsége áthatolt a kőn. Az ajtó lassan kinyílt, és Zoltán belépett a barlangba.
+
+A barlang belseje csillogott és ragyogott, mint az éjszakai ég. De a szépség mögött ott lappangott a sötétség. A sötét varázsló, akit Malachinak hívtak, várakozott. *"Végre itt vagy, Zoltán,"* mondta a varázsló, és hangja hideg volt, mint a jég. *"De ha azt hiszed, hogy megmentheted a tündéreket, tévedsz. Csak én irányíthatom őket."*
+
+Zoltán nem ijedt meg. *"A szívem tiszta, és a szándékom nemes,"* válaszolta. *"Nem félek tőled."* Malachi nevetett, és előhívott egy hatalmas sötét szörnyet, amely Zoltán felé rohant. De Zoltán nem habozott. Egy gyönyörű fényt hívott elő, amely elnyelte a sötétséget. A szörny eltűnt, és Malachi dühbe gurult.
+
+*"Nem lehet!"* kiáltotta a sötét varázsló. *"Hogyan tudtad legyőzni a sötétséget?"*
+
+*"Mert a fény mindig erősebb, mint a sötétség,"* válaszolta Zoltán. *"És a szeretet mindig győz."*
+
+Malachi dühe végül elérte a csúcspontját. Egy utolsó varázslatot hajtott végre, amelyben a barlang falai elkezdtek összeomlani. Zoltán gyorsan felkapta a hét tündér kőszívét, amelyek a barlang közepén raktározódtak, és azzal a gondolattal élt, hogy megmenti a barátait. Ahogy a kövek a kezébe értek, a tündérek szívei újra elkezdtek dobogni. A hét tündér, akiket Zoltán régen ismert, előtte állt, ragyogó és szabad.
+
+*"Köszönjük, Zoltán,"* mondta az egyik tündér, akit Liliának hívtak. *"Nélküled örökre elveszettünk volna."*
+
+De Malachi még nem adta fel. Az utolsó erejével egy hatalmas sötét gömböt hozott létre, amely Zoltán és a tündérek felé sodródott. Zoltán tudta, hogy ez az utolsó lehetőségük. A hét tündér és Zoltán összefogott, és egy közös varázslatot hajtottak végre. A fényük összeolvadt, és egy hatalmas sugárzássá vált, amely elnyelte a sötét gömböt. Malachi utolsó kiáltása a barlang falai között visszhangzott, mielőtt örökre eltűnt.
+
+A barlang falai megálltak, és a fény visszatért. Zoltán és a hét tündér szabadon lélegzett, tudva, hogy a királyság újra biztonságban van. A tündérek köszönetet mondtak Zoltánnak, és megígérték, hogy soha nem felejtik el a tettét.
+
+Zoltán visszatért a királyságba, ahol hősként ünnepelték. De ő nem a dicsőségre vágyott, hanem a barátságra és a szeretetre, amelyet a tündérek közösen megosztottak vele. A története századokon át mesélődött, és mindig emlékeztette az embereket arra, hogy a fény és a szeretet mindig győz.
+
+És ha nem hiszed, menj el a királyságba, és kérdezd meg a tündéreket. Bizonyára mesélni fognak neked arról a fiatal varázslóról, aki mindent feláldozott, hogy megmentse őket.</body>

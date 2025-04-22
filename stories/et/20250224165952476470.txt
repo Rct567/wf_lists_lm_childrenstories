@@ -1,0 +1,53 @@
+<prompt>
+Please write a silly Estonian children's story that is at least 1000 words long.
+It must be completely written in proper Estonian (ET).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Õhtu kaja ja tema üllatused'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>et</lang_id>
+
+<title>Õhtu kaja ja tema üllatused</title>
+<body>
+Õhtu kaja, kellel oli nimeks Kaia, polnud tavaline kaja. Ta ei kaja ainult sõnu, vaid ka mõtteid, naeru ja isegi unistusi! Kaia elas metsa sügaval, vana tamme juures, kus kõige salapärasem õhkkond valitses.  Tema hääl oli imeline, aeg-ajalt kõlav nagu pehme looduslik kõmina ja vahel sügava, salapärase mühaina.  Kõik metsloomad tundsid Kaia häält ja uskusid, et ta on nende saladuste hoidja.
+
+Ühel ilusal suveõhtul istus Kaia tamme juures, kuulates metsa müha.  Ta kuulis väikese orava, Siili, murelikult nuuksumas. Siil oli uhke orav, kellel oli suur unistus - õnnestuda lendamises.  Kõik teised oravad naersid tema unistuste peale, öeldes, et oravad ei lenda.
+
+"Miks sa muretsed, Siil?" küsis Kaia pehmelt.
+
+"Ma tahaksin nii lennata, nagu lind," lausus Siil, tema hääles oli nutt.  "Aga minu väikesed jalad ja paks saba ei lase mul seda teha. Kõik teised oravad naervad mu unistuse üle!"
+
+Kaia kaalus hetkeks Siili mure ja siis kõlas tema hääl, mis oli täis salapärast looduslikku heledust, metsa terves ulatuses.  "Lennata sa võid, Siil! Aga mitte sel viisil, mida sa ette kujutad."
+
+Siil vaatas Kaiale imestunult. "Kuidas? Kuidas see võimalik on?"
+
+"Selleks peab sul leidma uusi teid," vastas Kaia, "et mitte lennata, nagu lind, vaid lennata, nagu… õhk ise!"
+
+Kaia lendas Tamme otsa, hõljates õhus nagu kerge suitsu pilv. Ta näitas Siilile, kuidas õhul on võim.  Ta näitas talle, kuidas puude otsas tuulega suhelda, kuidas tuule häälega liikumist avastada.  Ta õpetas Siilil, et iga väikese liikumisega puude otsas, liigub Siil õhuga samal ajal kaasa.  Siil oli imetlust täis.
+
+Siil proovis ja proovis. Ta avastas, et puude okste liigutamisega sai ta isegi kõrgele tõusta, tundes kerget õhu voolu oma väikesel kehal.  Ta tundis end kergemana kui kunagi varem, igavene unetuse tunne oli kadunud ja tema pilk oli säravam kui kunagi varem.
+
+Õhtul, kui päike varjus, lendas Siil jälle, kõigil metsa puudel ja okstel. Ta lendas ilma tiivata, vaid õhu abil.  Ta tundis ennast vabana, õnnelikuna ja uhkena oma uue leidmise üle.
+
+Teisel päeval külastas metsa oma salapärase metsa elanikega ja metsloomadega kährik, kelle nimi oli Kõrn.  Kõrn oli kuulnud Siili uuest oskusest ja soovis näha teda lennukõrguselt.
+
+"Mulle tundub, et ma pean sind proovima oma uusi oskusi, väikest Siili," lausus Kõrn.
+
+"Aga miks?" küsis Siil. "Äkki ma ei suuda lennata kõrgemate puude vahel."
+
+"Ma usun sinusse, Siil! Sinu uus leidmine on suur asi," vastas Kõrn.
+
+Siil oli uuesti julgustundelt täis ja asus lendu.  Ta oli nii kõrgel, et mets tundus väike ja mänguline. Ta nägi metsa ülemiste kihtide ülesehitust ja nägi metsa uusi ilude detaile.  Kõrn oli imetuses.
+
+Õhtul rääkis Siil Kõrnile oma kogemustest.  Kaia kuulis nende vestlust ja naeris kergelt oma salapärase häältega.
+
+Kaia ei olnud vaid kaja. Ta oli kõige metsa saladuste valvur, õpetaja ja inspireeriv jõud. Ta aitas kõigil metsa elanikel leida uusi teid, teha uusi avastusi ja leida oma unistuste teele.
+
+Ja nii edasi ja edasi elas Kaia oma imelist elu metsas, olles iga metslooma sõber ja inspireerides igaüht neist oma unistuste nimel.
+
+Ja see ongi lugu Õhtu Kaja ja tema üllatustest.
+</body>

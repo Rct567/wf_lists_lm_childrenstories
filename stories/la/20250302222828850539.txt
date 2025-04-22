@@ -1,0 +1,34 @@
+<prompt>
+Please write a relatable Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Scrinium Secretum et Mappae Antiquae'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>la</lang_id>
+
+<title>Scrinium Secretum et Mappae Antiquae</title><body>Olim, in villa rustica prope flumen Tiberim, habitabat puella nomine Lucia. Lucia erat puella curiosa et audax, quae semper novas res discere cupiebat. Domus eius erat plena librorum antiquorum et rerum mirabilium, quae ab avo suo collectae erant. Avo eius, nomine Marcus, erat explorator famosus, qui multas terras peragraverat et thesauros occultos invenerat.
+
+Quadam die, dum Lucia in cenaculo domus suae libros ordinabat, scrinium parvum et vetustum invenit. Scrinium erat ligneum, cum seris ferreis et clavi antiquo. Lucia, curiosa ut semper, claven quaesivit et, postquam eam invenit, scrinium aperuit. Intus erat mappa antiqua, quae loca incognita et notas mysticas ostendebat. Ad margines mappae erant scripturae obscurae, quas Lucia non intellegere poterat.
+
+Lucia, excitata inventione, ad avum suum cucurrit. "Ave, avus! Ecce mappam antiquam inveni! Credo hanc thesaurum occultum indicare!" Marcus, cum mappam inspexisset, subrisit. "Hoc est, mi Lucia, mappa mea antiqua, quam olim in itinere meo inveni. Sed thesaurus, quem quaeris, non est aurum vel gemmae, sed scientia et sapientia."
+
+Lucia, paulum confusa, rogavit, "Quid significat, avus? Quomodo scientia thesaurus esse potest?" Marcus, sedens et puellam ad se vocans, respondit, "Scientia, mi Lucia, est clavis ad mundum intellegendum. Hae notae et scripturae sunt indicia ad mysteria naturae et historiae solvenda. Si vis, tecum iter faciamus et hanc mappam sequamur."
+
+Lucia, laeta et plena spe, consensit. Postridie, cum sol ortus est, Lucia et Marcus iter suum inceperunt. Secundum mappam, primum ad locum nomine "Silva Mystica" ire debebant. Silva erat spissa et umbrosa, cum arboribus altis et animalibus miris. Dum ambulabant, Lucia multas plantas et animalia vidit, quae numquam antea viderat. Marcus ei narravit de proprietatibus herbarum et de fabulis animalium.
+
+Postquam silvam transierunt, ad montem altum pervenerunt. Mons erat saxeus et arduus, cum cavernis profundis. Secundum mappam, in una ex cavernis erat indicium ad mysterium solvendum. Lucia, quamquam paulum timens, fortis mansit. Cum facem accenderunt et in cavernam intraverunt, parietes plenos picturis antiquis invenerunt. Picturae erant plenae symbolis et figuris, quae historiam populorum antiquorum narrabant.
+
+Marcus, cum picturas inspexisset, dixit, "Ecce, Lucia! Hae picturae nos docent de vita et cultura hominum, qui hic ante nos habitaverunt. Scientia eorum et sapientia sunt thesauri veri." Lucia, mirata et admirans, omnia diligenter notavit.
+
+Postquam ex caverna exierunt, ad flumen magnum pervenerunt. Secundum mappam, flumen transire debebant, ut ad insulam secretam pervenirent. Sed flumen erat rapidum et periculosum. Marcus, callidus ut semper, parvam ratem fecit, et ita flumen transierunt.
+
+In insula, arborem magnam et vetustam invenerunt, quae secundum mappam erat locus finalis. Ad radices arboris, scrinium aliud invenerunt, plenum libris et chartis antiquis. Libri erant pleni scientia de astronomia, medicina, et philosophia. Lucia, cum libros inspexisset, intellexit verba avi sui: scientia erat thesaurus verus.
+
+Post dies multos, domum redierunt, cum mente plena novarum rerum et corde gaudio pleno. Lucia, quae semper curiosa fuerat, nunc etiam sapientior erat. Scrinium et mappam in loco tuto reposuit, sciens quod thesauri veri non sunt aurum vel gemmae, sed scientia et experientiae, quas in itinere collegerat.
+
+Et sic, Lucia et Marcus, cum mappa antiqua et scrinio secreto, non solum thesaurum invenerunt, sed etiam amorem ad discendum et explorandum. Et haec est fabula de scrinio secreto et mappa antiqua, quae docet nos quod verus thesaurus est scientia et sapientia.</body>

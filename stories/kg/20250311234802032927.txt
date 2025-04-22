@@ -1,0 +1,49 @@
+<prompt>
+Please write a simple and easy-to-follow Kongo children's story that is at least 1000 words long.
+It must be completely written in proper Kongo (KG).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Nsangu ya Mwana Kisiá mpi Mpangi Yandi ya Mbote'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>kg</lang_id>
+
+<title>Nsangu ya Mwana Kisiá mpi Mpangi Yandi ya Mbote</title>
+<body>
+Muna nkumbu a kaka muntu, kisiá vandaka mwana ya kwikama mpi ya ngolo. Yandi vandaka kuzinga na kintinu ya mpembe na kinsangu ya bima ya kitoko. Mpangi yandi ya ngolo, ndambu, vandaka mwana ya ngolo mpi ya maswama, kansi yandi vandaka mpi ya kuyantika.
+
+Kisiá vandaka na kimpwanza ya kuzola kuluta bima yonso. Yandi vandaka kuzola nkodi yonso, zamba mpi mambu yonso ya kitoko ya kinsangu ya bo. Mpangi yandi ya mbote, ndambu, yandi vandaka kulanda yonso ya kisiá ke sala.
+
+Mu kilumbu mosi, kisiá monaka diamba mosi ya nene na zamba ya kinsangu na bo. Diamba yango vandaka ti mayele mpi kimpwanza.  Kisiá yulaka ndambu nde: "Mpangi, tala diamba yango ya kitoko! Beto ta sala nki samu na yo?"
+
+"Aa, kisiá," ndambu vutulaka, "Beto ta yantika kutuba diamba. Beto ta sadila nkodi ya mazi ya kisambu samu na kupesa yo kikanda."
+
+Kisiá mpi ndambu vutukilaka na ntima na bo na kikesa ya kubwa. Bo yantikaka kutuba diamba. Bo vandaka kulutisa bangidika ya mbote ti nsatu ya bifu ya kubaka zumba mpi nzumb'abanza.
+
+Kana bo vandaka kuyantikaka kubaka ngolo na nsonso ya kupesa diamba kikanda, mbona ya mvu ya kingulu ya muntu ya kifu ya ngolo, yandi kuzabisaka bima na yandi nde: "Nani sala diamba yai?”
+
+"Mono," kisiá vandaka kutuba, “mpe mpangi na mono ndambu."
+
+Muntu ya nku yandi vutulaka: "Mambu yina ya kisambu kele ve ntangu mosi kaka. Beto fwete sala ve ata kimuntu na kinsangu ya bima na beno, kana ve kinsangu ke pesa beno ntangila mbote to ve."
+
+Kisiá mpi ndambu zabaka nde yandi vandaka kutuba nsangu ya kyeleka. Bo vandaka kuzoba mpi bo waka kiese samu na bansangu.  Bo yantikaka kusosa nsongo mosi ya kulungana samu na kubakisa mbote kigangilu ya kinsangu na bo mpi samu na kuyantikisa ntete zumba yonso.
+
+Muntu ya nku vandaka kulala na makasi, kutuba nde: "Samu na kuzaba kisalu, beno fwete landa bansonga yina, ke kuzwa nsungu ya mbote samu na kuzitisa bima. Beno ke zaba ve ata mbona.”
+
+
+Kisiá mpi ndambu yantikaka kutungisa, kubaka ba nsansa ya bima yonso, ya masa ti zamba ya kinsangu. Yandi landaka balusilu ya luzingu na yandi mpi balusilu ya mbote samu na kinsangu na yandi. Yandi me yulaka luzingu samu na kuzaba ngolo ya mbote mpi samu na kudinda ngolo na nsonso.
+
+
+Bo salaka ntangu ya ngolo, kubasisa na yonso samu na kusadisa kinsangu, ti yonso na kinsangu samu na kukotisa na bo mpwanza. Yandi zabaka nde yandi fwete sala diaka. Yandi pesaka ngolo ti ndinga ya ndambu ya kuzola bima mpi zamba samu na kukulumusa ngolo na bo mpi kuvanda na mvu ya mbote, kuzitisa makasi yonso.
+
+Na nsuka ya ntangu ya bo salaka kisiá mpi ndambu, muntu ya nku yantikaka kumonisa ngolo na yandi,  kansi mbeni yango monaka bo vandaka na mpila ya ngolo na bima ya kinsangu. Muntu ya nku vandaka kudila, na kufwetisa makasi na yandi. 
+
+
+Muntu ya nku kumonaka kisiá mpi ndambu me sala mambu yonso ya mbote na nsonso yonso samu na bima yonso. Yandi longukaka mambu mingi.  Muntu ya nku vutukaka na luzingu na yandi ti ntangu ya kuzola bima ya kinsangu.  Yandi lungisaka bangogo na yandi ti mbote samu na luzingu.
+
+
+Kisiá mpi ndambu vandaka ntangu yonso ti kinsangu ya mbote, ya kimuntu mpi ya kuyedisa luzingu na luzingu na bo. Bo vutukaka na bangidika na bo ya kulunga ti zamba na bo.  Kinsangu kuvandaka na kiese mpi kulutisaka bilumbu na bo na kimpwanza, bo sala ngolo ti nsonso mpi makasi samu na kuzitisa bima ya ngolo ya kinsangu.  Kisiá mpi ndambu monaka bima ya kinsangu mpi mambu yonso ya mbote ti mambu ya mbote. Kisiá mpi ndambu vandaka kulonguka bilumbu yonso.
+</body>

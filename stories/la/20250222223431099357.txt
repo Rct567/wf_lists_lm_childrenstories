@@ -1,0 +1,35 @@
+<prompt>
+Please write a relatable Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Magus Malus In Castrum Fuit; Pueri Fortes Resistent Cum Fortitudine'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>la</lang_id>
+
+<title>Magus Malus In Castrum Fuit; Pueri Fortes Resistent Cum Fortitudine</title>
+<body>
+Magus malus, nomine  Bartholomaeus, in castrum  fortisimum  Aequum venit.  Murus altissimus  et portas validas habebat, sed  animus  Bartholomaei  malus  erat,  et  sperabat  ut  castrum  capere  posset.  Noctu,  cum  sol  dormiret,  in  umbra  se  occultissime  movere  coepit.
+
+In castro  erat  familia  puerorum  fortium.  Tres  erant,  et  nomina  eorum  erant  Lucius,  Gemma,  et  Aeneas.  Lucius,  puer  ingeniosus,  sapiens, et  fortis  erat;  Gemma,  puella  ingeniosa  et  valens,  artificiosa  cum  machinis  erat;  Aeneas,  puer  fortissimus,  habens  brachia  valida  et  cor  magnum,  in  defensione  castri  praecipuus  erat.
+
+Bartholomaeus,  cum  omni  malitia,  ad  portas  venit.  Claustra  ferrea  magna  erat,  et  sperate  difficilia  erat.  Sed  Bartholomaeus  ingenium  suum  demonstravit;  in  porta  magnum  foramen  creavit,  et  cum  incantationibus  difficilibus,  claustra  aperuit.  Intra  castrum  ingressus  est,  et  sane  multum  timoris  in  pueris  creavit.
+
+Lucius,  ad  sonitum  inopinatum  pertubatus,  exclamavit.  "Gemma!  Aeneas!  Magus  malus  in  castrum  intravit!"  Gemma,  cum  machina  ingente  et  ingenio  magnifico,  ad  portas  venit.  "Non  timeatis,"  dixit,  "arma  mea  sunt  fortia!"
+
+Gemma  machinam  suam  in  movebat  et  in  Bartholomaei  directa  est,  et  in  eum  magna  fortitudo  emittebatur.  Bartholomaeus  exclamavit,  "Ah,  machina  ingeniosa!  Sed  ego  sum  fortissimus  magus!"  Et  incantationem  magnam  in  machinam  projecit,  sed  machina  fortes  erat.
+
+Aeneas,  cum  brachiis  validissimis,  in  Bartholomaeus  decus  ferit.  Bartholomaeus  incantationem  exclamavit,  sed  Aeneas  validissimus  erat.  Lucius,  cum  ingenio  et  sapientia  suis,  Bartholomaei  malitiam  intellexit.  "Bartholomaeus,"  dixit  Lucius,  "non  es  in  castrum  venit  pro  bono,  sed  pro  malitia."
+
+Bartholomaeus,  cum  profectus  est,  in  castrum  magnum  fortiter  resistent,  cum  malitia  omnem  rejecta.  Sed  Bartholomaeus,  non  perditus  erat.  "Capere  castrum  non  possum,"  dixit  Bartholomaeus,  "sed  aliam  via  inveniam."
+
+Gemma,  Aeneas,  et  Lucius,  intellexerunt  quod  Bartholomaeus  non  devincitus  erat.  Cognito,  quod  castrum  defendere  possent.  Bartholomaeus  in  silvis  obskurus  fuit,  et  non  reversurum  es,  sed  aliam  via  in  castrum  venire  cogitavit.
+
+Sed  Lucius,  Gemma,  et  Aeneas  cautum  erant.  Murus  castrum  circumdabat,  et  vigilantiam  non  perderunt,  et  in  castrum  non  reverti  posset.  Murus  altus  erat  et  fortis,  et  porta  validissimum  erat.
+
+Cum  dies  venit,  Bartholomaeus  in  castrum  ne  reversus  est.  Pueri  fortes  in  castrum  manent,  et  de  magnus  magus  memoria  tenuerunt.  Et  castrum  Aequum  in  pace  et  silentium  fuit.
+</body>

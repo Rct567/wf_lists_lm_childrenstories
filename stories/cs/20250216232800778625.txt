@@ -1,0 +1,58 @@
+<prompt>
+Please write a creative and original Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Největší dobrodružství malého ježka'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>cs</lang_id>
+
+```xml
+<title>Největší dobrodružství malého ježka</title><body>
+Podzimní sluníčko lenivě malovalo zlatavé skvrny na bukové listí. V lese vonělo po zralých šípcích a vlhké hlíně. Právě takový den se narodil malý ježek Ježatec, s trny měkkými jako podzimní listí a očima velikýma jako oříšky. Jeho máma, ježibaba Eliška, se o něj pečlivě starala, hřála ho v doupěti z listí a učila ho všem ježčím dovednostem.
+
+"Až budeš dost velký, Ježatci," říkávala Eliška, "půjdeš na svou první velkou cestu. Musíš objevit ten nejlepší spánek na zimu a najít si dostatečně tučné brouky, aby sis na zimu uložil."
+
+Ježatec sice jedl brouky s velkou chutí, ale na cestu se mu moc nechtělo. Raději se schovával pod listím a pozoroval svět kolem. V lese žilo tolik zajímavých tvorů! Od chytré lišky, co se vždycky snažila ulovit myši, přes lenivého medvěda, který se už od konce léta připravoval na zimní spánek, až po ptáčky, co se chystali na dalekou cestu do teplých krajin.
+
+Jednoho dne, když už se podzim chýlil ke konci a dny se zkracovaly, se Eliška rozhodla, že je čas. "Ježatci," řekla pevným hlasem, "dneska jdeš na svou velkou cestu. Musíš najít místo pro zimní spánek."
+
+Ježatec se zatvářil smutně. "Ale mami," zamumlal, "já se bojím. Co když se ztratím? Co když mě někdo uloví?"
+
+Eliška si ho přitiskla k sobě. "Neboj se, synku. Jsi statečný ježek. A já ti dám něco, co tě bude chránit." Z kufříku, který měla vždycky schovaný v doupěti, vytáhla malý, lesklý kamínek. "Tento kamínek je kouzelný. Pokud budeš myslet na lásku a dobro, bude tě chránit před vším zlým."
+
+Ježatec se podíval na kamínek s důvěrou. Pak se rozloučil s mámou a vyrazil do lesa.
+
+Cesta byla dlouhá a plná překážek. Ježatec prošel kolem potůčku, kde se lesní víly koupaly a zpívaly si kouzelné písničky. Potkal veverku, která mu nabídla oříšky, a sýkorku, která mu ukázala cestu na sever.
+
+Největší dobrodružství ho ale čekalo v údolí, kde žil zlý vlk. Vlk měl velké zuby a ještě větší hlad. Když Ježatec procházel kolem jeho doupěte, vlk ho uviděl a vrhl se na něj.
+
+Ježatec se vylekal. Zkusil se schoulit do klubíčka, jak ho učila Eliška, ale vlk byl silný. Jeho ostré zuby se přibližovaly. Ježatec zavřel oči a v duchu si představoval mámu, veverku a sýkorku. Myslel na dobro a na lásku.
+
+V tu chvíli se stalo něco neuvěřitelného. Kamínek, který měl Ježatec v ruce, začal zářit jasně modrým světlem. To světlo se rozšířilo kolem Ježatce a vytvořilo ochranný štít. Vlk, oslněný světlem, zakopl a spadl. Ježatec, chráněný štítem, se mohl odvalit pryč.
+
+Utekl co nejrychleji to šlo, až se zastavil u starého dubu. Byl unavený a vyděšený. Vzpomněl si na mámu a na kamínek. Uvědomil si, že kamínek ho opravdu ochránil.
+
+Pod dubem našel malou, útulnou noru. Byla teplá a suchá, plná měkkého listí. Rozhodl se, že to bude jeho místo pro zimní spánek. Než se uložil, vzpomněl si na všechny brouky, které za celý den snědl, a na to, jak mu chutnaly. Usnul s pocitem štěstí a bezpečí.
+
+Když se Ježatec probudil ze zimního spánku, bylo jaro. Slunce svítilo, ptáci zpívali a v lese to vonělo po květinách. Vylezl z nory a roztáhl se. Byl zase o něco větší a silnější.
+
+V tu chvíli ho uviděla liška. "Ahoj, Ježatci," řekla liška. "Už ses probudil? Vypadáš báječně."
+
+Ježatec se usmál. "Ano, probudil. A mám za sebou to největší dobrodružství v mém životě."
+
+Ježatec se vrátil domů k mámě Elišce. Po cestě potkal veverku a sýkorku. Všem vyprávěl o svém dobrodružství, o zlém vlkovi a o kouzelném kamínku. Všichni ho obdivovali a byli na něj pyšní.
+
+Když se Ježatec vrátil domů, Eliška už na něj čekala. Objala ho a líbala. "Vím, že sis vedl dobře, synku," řekla. "Jsem na tebe moc pyšná."
+
+Ježatec jí vyprávěl o všem, co se mu stalo. Eliška ho poslouchala pozorně a hladila mu trny. "A co ten kamínek, mami?" zeptal se Ježatec. "Stále funguje?"
+
+Eliška se usmála. "Ano, Ježatci. Kouzlo kamínku bude fungovat tak dlouho, jak dlouho budeš věřit v dobro a lásku."
+
+Ježatec se objal s mámou. Věděl, že ať už se stane cokoliv, má naději. Měl kouzelný kamínek, ale co bylo důležitější, měl lásku a odvahu v srdci. A to bylo to největší bohatství. Od té doby, Ježatec už nikdy neměl strach z dobrodružství. Věděl, že s tím správným srdcem a s pomocí kouzelného kamínku, dokáže překonat všechny překážky. A tak se z malého, bojácného ježka stal statečný a moudrý ježek, připravený na další dobrodružství, které mu život přinese. A v lese se o něm vyprávěly příběhy ještě dlouho potom.
+</body>
+```

@@ -1,0 +1,33 @@
+<prompt>
+Please write a silly Scottish Gaelic children's story that is at least 1000 words long.
+It must be completely written in proper Scottish Gaelic (GD).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'An Drochaid Shìorraidh eadar Dà Shruth'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>gd</lang_id>
+
+<title>An Drochaid Shìorraidh eadar Dà Shruth</title>
+<body>
+'S ann an dùthaich bhlàth, làn de chruthan iomadach, bha dùthaich a' bheòthail, Làir a' Bhùthaich, a' suidhe. Bha an dùthaich seo làn de shiùrachadh shruthach, de shruth a' sgàineadh tro na beàrn agus na cnocaichean. Agus bha an t-sruth seo air a chomharrachadh le làn chraobhan. Ach bha fear eile a’ ruith thar àite a chaidh ainmeachadh ann an Leac a' Bhùthaich. 'S e aon t-sruth dìreach a bh’ann, agus bha cùl gu sgoinneil aige, gun samhail air an talamh, far an robh dùthchannan brèagha de mheur gorm fèin-shealbhach.
+
+Bha dùthaich Làir a' Bhùthaich làn de dhaoine bheò, le sgiathan dhorcha, cluichean sgiathan gàirdeach, agus gaol fada a dh'ionnsaigh a chéile. Ach bha dragh ann.  Bha an t-sruth a’ ruith a dh'ionnsaigh a chèile, ach nach d'fhuair iad an còrr. Bha am fear a’ sgàineadh tron ​​chnoc air a shàsachadh, ach tha fear eile a’ sgàineadh air aghaidh mòr farsaing na talmhainn air a fhàs air ais gu lèir. Agus mar thoradh air an sin, bha an ceangal fìor mhòr ag amharc air leth ag amharc air le cumail a dhèanadh sìmplidh eadar luchd-aonaidh aon ghrunn, fìor mhòr eadar na h-ionadan.
+
+Ach, anns an fhear eile den chuairt, tha iad air ainmeachadh nan Gèidhean aige, na h-eileanan brèagha. Bha craobhan tana aig na gèidhean, agus tha cùil gòrach mòr ag ionnsaigh, cumadh còmhla ris na fàinneachan is na h-eilidean aig an fìon gaoithe. Is e ceangail a’ chuairt an aon uirsgeul, an aon fheart àrd, ach chan e aon air a leigheas le uirsgeul.
+
+Ann an t-sròn uaine seo, far a bheil an àile a’ strì ri leasachadh an dùthaich bhlàth seo, bha an Gorm, is an Uaine air ruith an tè ri chèile. Thug an duine a ruith ann an smòid an t-slighe chruaidh dhèanadh a 'chàraid a dhèanamh cho fad sin, an dà shruth a shealltadh a h-iongann, an sgìre eadar-nàiseanta, agus, le brònach iomlan. Tha sgèin brèagha aig na craobhan iongantach a thaobh an drochaid fhad'sa bha iad ag innse nan daoine mun drochaid, gu còmhnaidh fadalach ach brèagha ann an sgìre fharsaing. Agus bha feusg a chòmhnaidh aig a chèile, an t-sruth a ruith sìos am fiadhbhach seo mar fhliuch a rùin. Bha na sruthann ag ruith gu làidir le caitheamh gu furasta tro shlighe eadar-mheadhonta, an slighe a bha ag obair agus a’ cuir às don bhrùid. Ach cha robh an drochaid.
+
+Anns an rathad, thuit dragh gu h-iomlan air an Uaine a tha ag ionnsaigh, bha am fear gu tur ag eagairt. Cha robh e a' toirt aire dha chèile, cho fada is a dh'ionnsaigh aon chùis aig a chèile. Bidh na fàinneachan a’ snìomhadh chun a chèile anns an gorm sìos, am fear a bu chruaidhe. Agus bha an duine sin a dh'ionnsaigh an dùthcha, ach fhuair e a' dol le bhith a' dol thairis agus thairis air a' ghluasad gun uirsgeul gu leòr, na dùilean fhèin agus a' leudachadh cùl gu leòr.
+
+Ach bha sgìre fharsaing aghaidh le fàinne ann. Bha duine a’ coimhead tron ​​sgeulachd a bh’ ann an drochaid naomh seo.
+
+Anns na làithean sin, tha còrr air tiodhlac gu h-iomlan ann an rathad gu tur eadar-mheadhanta gu drochaid mòr gu làidir a ruith thairis. Agus mar an fhear a ghrinnich agus a chuir às do bhith ann.  Ann an dìoghaltas aige agus an aonaichte. An t-slighe seo a chòmhdaich e, le fòcas air àm eadar-ghluasad. Agus bha drochaid ann. Bha a’ chuilean àrd ag obair leis an uirsgeul,  a bha a’ ruith tro na slighean sìorraidh, is sìmple.
+
+Bha na h-Uainnean agus a’ Ghorm air cùl an aonaichte gu sgoinneil a bha a’ faireachdainn a chèile. Air cùl drochaid ann. Thug an drochaid aodach do na sruthann uime sin, do na fionnadh gu lèir. Agus bha an fhìon sin a’ toirt taic do chumhachd nan gàirean iomlan ann an fheart iomlan, bhlàth, fàilte. Ach thug iad leud gu mòr leis an cruinneachadh.
+
+B’ e seo deireadh sgeulachd gu tur àrd. Dh’fhàg an drochaid, na duilleagan a bh’ann gu dearbh a’ cuir às do gach càch eile.
+</body>

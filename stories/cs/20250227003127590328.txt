@@ -1,0 +1,30 @@
+<prompt>
+Please write a educational Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kouzelná flétna, která probouzí spící hory'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>cs</lang_id>
+
+<title>Kouzelná flétna, která probouzí spící hory</title><body>Byl jednou jeden malý chlapec jménem Honza, který žil v malé vesničce obklopené vysokými horami. Ty hory byly tak velké a tajemné, že nikdo z vesnice si netroufal vystoupit na jejich vrcholky. Říkalo se, že jsou to „spící hory“, protože nikdy nepromluvily a nikdo je nikdy neslyšel. Lidé věřili, že jsou to kdysi živí obři, kteří se proměnili v kamenné velikány, aby chránili okolní krajinu.
+
+Honza byl zvědavý a odvážný chlapec. Rád poslouchal příběhy starých lidí o tom, jak hory kdysi mluvily a zpívaly, ale nikdo nevěděl, proč najednou ztichly. Jednoho dne se rozhodl, že to musí zjistit. Vzal si svůj batoh, pár koláčů od maminky a vydal se na cestu k horám.
+
+Cesta byla dlouhá a náročná. Honza šplhal přes kameny, prodíral se hustými lesy a překračoval potoky. Když už byl skoro na vrcholu nejvyšší hory, uviděl malou jeskyni. Uvnitř jeskyně našel starou flétnu. Byla vyřezaná z kouzelného dřeva a zdálo se, že září slabým světlem. Honza flétnu opatrně vzal do rukou a zkusil na ni zahrát.
+
+Jakmile zazněly první tóny, stalo se něco neuvěřitelného. Hora se začala třást a z hlubin se ozval hlas: „Kdo to probouzí spící horu?“ Honza se lekla, ale rychle se vzpamatoval a odpověděl: „Jsem Honza z vesnice pod horami. Chtěl jsem vědět, proč už hory nemluví.“
+
+Hlas odpověděl: „Dávno jsme byli živí obři, ale lidé na nás zapomněli. Přestali naslouchat našim písním a příběhům. Bez jejich pozornosti jsme zkameněli. Tato flétna je jediná věc, která nás může probudit, ale musí být hrána s upřímným srdcem.“
+
+Honza pochopil, že musí pomoci horám. Vrátil se do vesnice a řekl všem, co se dozvěděl. Lidé byli skeptičtí, ale nakonec se rozhodli Honzovi věřit. Společně vystoupili na horu a Honza začal hrát na flétnu. Tentokrát hrál s celým svým srdcem, protože chtěl, aby hory opět ožily.
+
+Jak flétna zněla, hory se začaly probouzet. Kamenní obři se pomalu měnili zpět v živé bytosti a začali zpívat. Jejich hlasy byly hluboké a melodické, jako by vyprávěly příběhy staré jako svět sám. Lidé z vesnice poslouchali s otevřenými ústy a srdci plnými radosti.
+
+Od toho dne se hory a lidé z vesnice stali přáteli. Obři vyprávěli příběhy o dávných dobách a lidé jim naslouchali s úctou a obdivem. Honza se stal hrdinou vesnice a jeho kouzelná flétna byla uchována jako poklad, který připomínal důležitost naslouchání a porozumění.
+
+A tak žili šťastně až do konce svých dnů, s horami, které již nikdy neusnuly, protože věděly, že je někdo miluje a naslouchá jim. A Honza? Ten se naučil, že někdy i ta nejmenší věc, jako je obyčejná flétna, může mít velkou moc, když je používána s láskou a odvahou.</body>

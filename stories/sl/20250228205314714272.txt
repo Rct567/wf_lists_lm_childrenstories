@@ -1,0 +1,36 @@
+<prompt>
+Please write a uncomplicated Slovenian children's story that is at least 1000 words long.
+It must be completely written in proper Slovenian (SL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Lutka, ki je odšla iskat svoje sanje'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>sl</lang_id>
+
+<title>Lutka, ki je odšla iskat svoje sanje</title><body>Nekoč je živela majhna lutka po imeni Lili. Bila je rožnata, z mehkimi lasmi iz svile in velikimi modrimi očmi, ki so se svetila kot dve majhni zvezdi. Lili je živela v igračarni, kjer je bila obdana z drugimi lutkami, avtomobilčki, plišastimi medvedki in vsemi mogočimi igračami. Vsak dan je videla, kako otroci prihajajo v trgovino, si ogledujejo igrače in jih nekateri tudi odpeljejo s seboj domov. Lili je sanjala, da bi tudi ona našla svoj dom in otroka, ki bi jo imel rad.
+
+Ampak čas je mineval, in Lili je še vedno ostajala na polici v igračarni. Nekateri otroci so jo vzeli v roke, a nihče je ni odnesel s seboj. "Morda sem preveč navadna," je pomislila Lili s težkim srcem. "Morda nisem dovolj posebna, da bi me kdo hotel."
+
+Neke noči, ko je bila trgovina tiha in temna, se je Lili odločila, da ne bo več čakala. "Če me nihče ne najde, bom sama šla iskat svoje sanje," je rekla sama pri sebi. Previdno se je spustila s police in se odpravila na pot.
+
+Ko je stopila na ulico, jo je obdalo neznano. Svetilke so svetile kot zvezde, in zrak je bil poln vonja po svežem kruhu iz bližnje pekarne. Lili je bila malce prestrašena, a tudi navdušena. "Kje naj začnem?" je vprašala sama sebe.
+
+Kmalu je srečala majhnega mišjega dečka, ki je sedel ob robu pločnika. "Kaj delaš tukaj sama, lutka?" jo je vprašal mišji deček.
+
+"Odšla sem iskat svoje sanje," je odgovorila Lili. "Sanjam, da bi našla dom in otroka, ki bi me imel rad."
+
+Mišji deček se je nasmehnil. "To je lepa sanja. Morda ti lahko pomagam. Poznam vse skrivne poti v tem mestu. Pridi z menoj."
+
+Lili je sledila miškemu dečku skozi ozke uličice in skrite prehode. Na koncu so prišli do majhnega parka, kjer je na klopi sedela deklica. Imela je solzne oči in v rokah je držala strgano knjigo.
+
+"To je Ana," je šepnil mišji deček. "Zadnjič je izgubila svojo najljubšo lutko. Morda si ti ravno tista, ki jo potrebuje."
+
+Lili se je približala Ani in jo nežno dotaknila. Ana je dvignila pogled in se nasmehnila. "Kako si lepa," je rekla. "Ali bi hotela biti moja lutka?"
+
+Lili je prikimala, in Ana jo je nežno dvignila. "Hvala," je rekla Lili. "Končno sem našla svoj dom."
+
+Od tistega dne naprej je Lili živela s Ano. Skupaj sta preživljali dneve, igrali se in si pripovedovali zgodbe. Lili je vedela, da je našla svoje sanje – in da so bile še lepše, kot si jih je kdaj predstavljala.</body>

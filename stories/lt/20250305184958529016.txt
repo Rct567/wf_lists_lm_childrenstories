@@ -1,0 +1,39 @@
+<prompt>
+Please write a uncomplicated Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Naktinis miesto švyturys ir jo magiškos istorijos'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lt</lang_id>
+
+<title>Naktinis miesto švyturys ir jo magiškos istorijos</title>
+<body>
+Saulė nusileido už miesto pakraščių, dažydami dangų ryškiais oranžinėmis ir violetinėmis spalvomis.  Miestelio širdyje, ant kalvos, stovėjo senas, išdžiūvusių medžių apsuptas švyturys.  Jo žibintai, švytintys tamsioje naktį, atrodė tarsi stebuklingos akys, stebinčios visą miestą.
+
+Švyturys turėjo vardą -  Saulėtasis.  Ne dėl to, kad jis švytėjo saulės šviesa, bet dėl to, kad jo šviesa, lyg saulės spinduliai, apšviesdavo visus gyvenimo kelius.  Per šimtmečius, Saulėtasis švyturys buvo liudininkas daugybės istorijų.  Jis matė, kaip augo ir žydėjo medžiai, kaip statėsi namai, kaip gimė ir augo vaikai.  Jis matė meilę, džiaugsmą, liūdesį ir netgi pyktį.  Visos istorijos buvo įrašytos į jo šviesos spindulius, kaip į brangius akmenukus.
+
+Vieną dieną, po ilgos ir šaltomis žiemos, atėjo pavasaris.  Mažas, smalsus berniukas, vardu Jonas, gyvenęs šalia švyturio, nusprendė aplankyti jį.  Jonas mylėjo stebėti švyturio šviesą.  Jis svajojo sužinoti, ką švyturys matė per tiek metų.  Jonas pasiekė kalvą, jo širdis plaka greičiau, nes jis jau jautė švyturio paslaptis.
+
+Saulėtasis švyturys pasirodė esąs ne tik švyturys, bet ir pasakotojas.  Jo šviesa, švelniai švytėdama, pasakojo istoriją: "Aš matau, kaip žmonės ieško savo kelio.  Vieni eina drąsiai, kiti - atsargiai.  Aš matau jų viltis, baimes, džiaugsmus ir liūdesius.  Aš matau, kaip jie šypsosi, verkia ir myli.  Aš matau, kaip jie auga ir keičiasi."
+
+Jonas klausėsi, jo akys buvo plačiai atmerktos.  "Ar matai ir mano svajones?" paklausė jis.
+
+"Taip, mažas drauge", atsakė švyturys. "Aš matau visas svajones, visas viltis ir visus troškimus.  Aš matau, kaip jie spindi kaip žvaigždės tamsoje.  Ir žinai, kas svarbiausia?  Svajonės niekada nedingsta, net ir kai atrodo, kad jos dingsta.  Jos slepiasi, laukdamos tinkamo momento sugrįžti."
+
+Jonas nusišypsojo.  "Aš noriu būti geras žmogus, padėti kitiems ir atrasti savo kelio žvaigždę", tarė jis.
+
+"Tai puiki svajonė, Jonas", atsakė švyturys. "Aš matau, kad tu jau esi geras žmogus.  Kiekvienas žingsnis, kiekviena gera mintis, kiekviena šypsena - tai žvaigždės tavo kelyje.  Sek juos, ir tu atrasi savo žvaigždę."
+
+Jonas, kupinas džiaugsmo ir vilties, nusileido nuo kalvos.  Jis žinojo, kad švyturys visada bus jo draugas, vadovas ir pasakotojas.  Jis žinojo, kad Saulėtasis švyturys, su savo magiška šviesa, visada apšvies jo kelią, net ir tamsiausiais laikais.
+
+Kiekvieną vakarą Jonas grįždavo pas švyturį.  Kartu su juo,  Saulėtasis švyturys dalinosi savo istorijomis su kitais vaikais, padedamas jiems suprasti gyvenimo prasmę ir svarbą.  Švyturio šviesa tapo ne tik šviesa, bet ir draugystės, supratimo bei meilės simbolis.  Miestelyje visada buvo šviesu, net ir naktimis.  Saulėtasis švyturys apšviesdavo ne tik kelią, bet ir širdis.
+
+Vieną dieną, kai Jonas jau buvo didelis,  jis atėjo pas švyturį su savo vaikais.  Jie klausėsi istorijų, kurias pasakojo švyturys, ir juose rado džiaugsmo ir vilties.  Jonas suprato, kad švyturys yra ne tik šviesos šaltinis, bet ir amžinas pasakotojas, kuris visada apšvies kelius ir širdis.
+
+Ir taip, Saulėtasis švyturys, su savo magiška šviesa, švytėjo amžinai, pasakojęs savo istorijas, kurias galėjo girdėti kiekvienas, kas ieškojo savo kelio.
+</body>

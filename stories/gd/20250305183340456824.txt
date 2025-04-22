@@ -1,0 +1,35 @@
+<prompt>
+Please write a simple and easy-to-follow Scottish Gaelic children's story that is at least 1000 words long.
+It must be completely written in proper Scottish Gaelic (GD).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Na Ceithir Geamannan agus an Spèir Ghorm'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>gd</lang_id>
+
+<title>Na Ceithir Geamannan agus an Spèir Ghorm</title>
+<body>
+A bha a’ cluich air an fhearann gorm farsaing, bha ceithir gheamannan:  an cuileag, an t-uain, an t-eilean, agus an t-eilean beag. Bha iad uile a’ dol air adhart, a’ coimhead air an t-saoghal a bha timcheall orra.
+
+Bha an cuileag, a bha ainmeil airson a chùisean, a’ dol air adhart gu luath, a’ sùileachadh air na creagan agus na h-uachdar. Bha e a’ faireachdainn gu robh cuid de chùis ann an gach aon de na h-eileamaidean.  Bha e a’ cur sùil air na blàthan, a’ sùileachadh air na h-eileanan beaga, agus a’ faireachdainn gu robh cuid de chùis ann an gach aon de na h-eileamaidean. Bha e a’ cluinntinn fuaim na gaoithe a’ cur draibhean air na creagan, a’ cluinntinn fuaim na mara a’ cur draibhean air na creagan.  Bha e a’ coimhead air na h-uile rud a bha timcheall air, a’ faireachdainn gu robh cuid de chùis ann an gach aon de na h-eileamaidean.
+
+Bha an t-uain, a bha ainmeil airson a chùram, a’ dol air adhart gu slaodach, a’ faireachdainn a h-uile rud a bha timcheall air. Bha e a’ coimhead air na blàthan, a’ coimhead air na h-eileanan beaga, agus a’ faireachdainn gu robh cuid de chùram ann an gach aon de na h-eileamaidean. Bha e a’ cluinntinn fuaim na gaoithe a’ cur draibhean air na creagan, a’ cluinntinn fuaim na mara a’ cur draibhean air na creagan.  Bha e a’ coimhead air na h-uile rud a bha timcheall air, a’ faireachdainn gu robh cuid de chùram ann an gach aon de na h-eileamaidean. Bha e a’ coimhead air a h-uile rud a bha timcheall air, a’ faireachdainn gu robh cuid de chùram ann an gach aon de na h-eileamaidean.
+
+Bha an t-eilean, a bha ainmeil airson a chùis, a’ dol air adhart gu slaodach, a’ faireachdainn a h-uile rud a bha timcheall air. Bha e a’ coimhead air na blàthan, a’ coimhead air na h-eileanan beaga, agus a’ faireachdainn gu robh cuid de chùram ann an gach aon de na h-eileamaidean. Bha e a’ cluinntinn fuaim na gaoithe a’ cur draibhean air na creagan, a’ cluinntinn fuaim na mara a’ cur draibhean air na creagan.  Bha e a’ coimhead air na h-uile rud a bha timcheall air, a’ faireachdainn gu robh cuid de chùram ann an gach aon de na h-eileamaidean.
+
+Bha an t-eilean beag, a bha ainmeil airson a chùram, a’ dol air adhart gu luath, a’ faireachdainn a h-uile rud a bha timcheall air. Bha e a’ coimhead air na blàthan, a’ coimhead air na h-eileanan beaga, agus a’ faireachdainn gu robh cuid de chùis ann an gach aon de na h-eileamaidean. Bha e a’ cluinntinn fuaim na gaoithe a’ cur draibhean air na creagan, a’ cluinntinn fuaim na mara a’ cur draibhean air na creagan.  Bha e a’ coimhead air na h-uile rud a bha timcheall air, a’ faireachdainn gu robh cuid de chùis ann an gach aon de na h-eileamaidean.
+
+Agus mar a bha iad a’ gluasad, bha iad a’ coimhead air an spèir gorm mòr.  Bha iad a’ faireachdainn gu robh cuid de chùram ann an gach aon de na h-eileamaidean.  Bha iad a’ faireachdainn gu robh cuid de chùis ann an gach aon de na h-eileamaidean.  Bha iad a’ faireachdainn gu robh cuid de chùram ann an gach aon de na h-eileamaidean. Agus bha iad a’ faireachdainn an t-saoghail gu lèir.
+
+Aon latha, dh’fhàs an spèir gorm nas dorcha, agus thòisich an uisge a’ cur draibhean.  Thòisich an cuileag a’ faireachdainn gu robh e ann an cunnart.  Thòisich an t-uain a’ faireachdainn gu robh e ann an cunnart.  Thòisich an t-eilean a’ faireachdainn gu robh e ann an cunnart.  Thòisich an t-eilean beag a’ faireachdainn gu robh e ann an cunnart.
+
+Ach, bha iad uile a’ faireachdainn gu robh cuid de chùram ann an gach aon de na h-eileamaidean.  Bha iad a’ faireachdainn gu robh cuid de chùis ann an gach aon de na h-eileamaidean.  Bha iad uile a’ cluinntinn fuaim na gaoithe a’ cur draibhean air na creagan, a’ cluinntinn fuaim na mara a’ cur draibhean air na creagan.  Bha iad a’ faireachdainn gu robh iad uile a’ dol air adhart còmhla.
+
+Choisich iad gu lèir gu crìoch na mara, agus bha iad uile a’ faireachdainn gu robh iad uile a’ dol air adhart còmhla.  Bha iad a’ faireachdainn gu robh cuid de chùram ann an gach aon de na h-eileamaidean.  Bha iad uile a’ cluinntinn fuaim na gaoithe a’ cur draibhean air na creagan, a’ cluinntinn fuaim na mara a’ cur draibhean air na creagan.  Bha iad a’ faireachdainn gu robh iad uile a’ dol air adhart còmhla.
+
+Agus ann an aon chùis, bha iad uile a’ faireachdainn gu robh cuid de chùram ann an gach aon de na h-eileamaidean.  Bha iad uile a’ faireachdainn gu robh cuid de chùis ann an gach aon de na h-eileamaidean.  Agus bha iad uile a’ faireachdainn gu robh iad uile a’ dol air adhart còmhla.
+</body>

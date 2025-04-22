@@ -1,0 +1,35 @@
+<prompt>
+Please write a creative and original Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kichik mushukchaning uyga qaytishga intilishi va uning iztiroblari.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>Kichik mushukchaning uyga qaytishga intilishi va uning iztiroblari.</title>
+<body>
+Kichik, qora mushukchaning nomi Qoraqo'ng'ir edi. Uning katta, quyuq ko'zlari tushkunlik bilan porlaydi, to'q qora qisqichbaqasimon sochlari esa, yomg'ir yog'gan kundagi qora bulutlardek, qorong'u tuyular edi. Qoraqo'ng'ir juda kichik va xursandchiliksiz tug'ilgan, har kuni o'ziga maqtov olishni orzu qilgan edi. Lekin o'zini hayotda umuman muhim emas, yordamsiz deya his qilar edi.
+
+Bir kun, qora qo'ng'ir quyosh nuridan o'ynab o'tirgan, eski, toshloq, yog'ochdan yasalgan katta uyning etagida, quritilgan suv omborining chetiga yaqin o'tganidan kichik bir suzuvchi qushlarni kuzatdi.  Uning oyoqlari tor, nozik va o'rnatilmagan tuproqlar bo'ylab qishlayotgan daraxtlarning soyasiga asta-sekin siljib borar ekan, eshitish qobiliyati uni juda katta, to'liq joy bilan bog'lab qo'ydi. Hayot o'zining xushmuomala yuzini ochgandek edi. Yomg'irli tungi tushdan keyin kechki to'q quyuq ko'kning rangi bo'lib, o'sha quduqsiz joy, ulkan qo'y cho'lida joylashgandek tuyuldi. Uning ko'zlarida xursandchilik qo'rquv bilan birga ko'rining.
+
+"Men uyga borishim kerak", - deb o'ylagan, lekin uyga qaytish g'oyasi, uzoq, o'zining izolyatsiyasiga joylashgandek tuyulgan bo'sh olamda yo'qolgandek.
+
+Qoraqo'ng'ir qo'rqib, to'q kulrang tuproq ustiga qo'yilgan uydan uzoqlashib, o'sha ulkan bog'lar orqali yurishga majbur edi. U yurak urishi borligini anglagan. Uning kichkina tanasi tebranib va titraib turaveradi.
+
+Har bir daraxt, gullab-yashnayotgan g'isht, yulduzlardek ko'tarilib yurishda edi, o'zi uning ichki sokinligini to'ldiradi. Biroq, u hali ham o'z izidan qabul qilib o'rnatishi va ma'rifat topishiga mos keladi deb, hech narsaga ishongan emas edi. Ko'lni aylanib o'tib, cho'lga yugurganida, har tomondan qo'y qulog'i ovozini eshitdi. Hayvonlar, hayvonlarning uydan quvishda va yo'lda hech kim bilan baqirmasliklari ajablanarli darajada ajralib turardi. U ularning dahshatli sochlarini qanday ko'riydi va quyonlar uzoq yerdan qo'rqitgan qo'rqmas bo'liqlari bilan ularni juda uzoq yurgandek edi. Ammo shu daqiqada, juda toshli, yomg'irli joy orqasiga o'rnatildi. Har safar bo'ylab kichkina mushukchaning diqqatini yaxshilashda ishlatilgan barcha vositalarning oldini oldinga olib bordi va yo'naltmalarga e'tibor qaratish uchun juda to'g'ri tuyuladigan bo'ldi.
+
+Ko'p vaqt o'tgach, u uy quritgichlarning oyoqlari yonidagi ko'cha bo'ylab yuqoriga ko'tarildi va yo'lda har bir oqsoy bo'yicha muloyim tosh devor orqasiga o'rnatildi. Lekin uy orqali o'tayotganda, undan ham ko'proq joy olishni xohlagan edi.
+
+Bu jarayon to'rt kun davom etdi, u vaqtlar ichida uning sochini chiqadigan qora bulutlari uzoq qumga botib ketdi. Qoraqo'ng'ir uyni qoqishdan qo'rqib, hech kimga ozgina joyni va izolyatsiya qilingan sokinlikni yoqmaganini angladi.
+
+U to'satdan qora yomg'ir yog'ib, uyga bir narsalarni ko'tarmishni sezdi. U yopishib, chiqadigan ovoz va to'qashni ko'rib turadi. Qoraqo'ng'ir yurganingizda, orqa tomoni chiroyli qo'llab-quvvatlanadi. Uy darhol uni olib keldi, u darhol quritadigan uyning egasi sifatida tan olindi va shundan keyin katta bir yirtqichning qiyofasidan va boshqa ko'rinishdan xalos qilindi. Keyin u har safar uyni eslaganingizda uni juda muhim darajada his qilasiz.
+
+Qoraqo'ng'ir shuni bilib oldi ki, baxtning barcha ashyosi dunyoning barcha joylaridan kelmasligini bildiradi. Hayotning yulduzi hech qachon yo'qolib ketmaydi. Aksincha, biz hayot bilan yuguradi, uni bosib chiqarib, ular o'tkazish qanchalik kerakligini bildiradi. U hozircha uyda bo'lishidan mamnun, boshqa xurmatlarini yoki uy o'rnatishi kerakligi hech qanday o'zgarish qilmaydi.
+
+Bu voqelik har bir kichkina mushukcha uchun ibratchi hikoya bo'ldi, chunki bu dunyoga quvonch bilan keladi.
+</body>

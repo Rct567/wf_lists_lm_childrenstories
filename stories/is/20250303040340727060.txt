@@ -1,0 +1,93 @@
+<prompt>
+Please write a dialog-based Icelandic children's story that is at least 1000 words long.
+It must be completely written in proper Icelandic (IS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Skógarþjóðin sem varð að ætt'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>is</lang_id>
+
+```xml
+<title>Skógarþjóðin sem varð að ætt</title>
+<body>
+<p>Einu sinni, langt, langt í burtu, í landi þar sem fjöllin kysstu skýin og árnar sungu um dýpstu leyndarmál, bjó skógarþjóð. Þessi þjóð var ekki eins og önnur. Hún var gerð úr trjám, stórum og litlum, sterkum og veikum. Ræturnar þeirra náðu djúpt í jörðina og greinarnar teygðust upp til himins, eins og þær væru að biðja um meiri sólskin.</p>
+
+<p>Í hjarta skógarins, þar sem elstu trén stóðu, stóð stórt, gamalt eikartré. Þetta tré var konungur skógarþjóðarinnar. Hann hét Eikarkóngurinn og var vitur og góður leiðtogi.</p>
+
+<p>Einn daginn, þegar sólin skein bjart yfir skóginum, sat lítil birki, sem hét Birna, við rætur Eikarkóngsins. Hún var ung og forvitin og alltaf að spyrja spurninga.</p>
+
+<p>„Eikarkóngur, af hverju erum við svona?“ spurði Birna með röddu sem var eins og hljóðin í læknum.</p>
+
+<p>Eikarkóngurinn hristi greinarnar sínar varlega. „Af hverju spyrðu þú þess, litla Birna?“</p>
+
+<p>„Ég sé aðrar skógarverur,“ sagði Birna, „eins og refi og uglur, og þær geta gengið og flogið. Við getum það ekki. Við stöndum bara hér.“</p>
+
+<p>Eikarkóngurinn brosti með laufunum sínum. „Það er rétt, Birna. Við stöndum hér. En við erum sterkari en þú heldur. Ræturnar okkar halda jörðinni saman. Við gefum skugga og skjól. Við gefum súrefni og húsrúm. Við erum heimilið.“</p>
+
+<p>„En er það nóg?“ spurði Birna. „Mig langar að ferðast. Mig langar að sjá heiminn.“</p>
+
+<p>„Heimurinn er stór og stórfenglegur, litla Birna,“ sagði Eikarkóngurinn. „En þú getur séð hann, á þinn hátt. Þú getur séð hann í gegnum vindinn sem blæs í gegnum greinarnar þínar. Þú getur séð hann í gegnum fuglana sem hreiðra sig í þér. Þú getur séð hann í gegnum ræturnar þínar, sem ná djúpt í jörðina og tengja okkur öll saman.“</p>
+
+<p>„Tengja okkur saman?“ spurði Birna.</p>
+
+<p>„Já,“ sagði Eikarkóngurinn. „Við erum öll tengd saman. Við erum öll hluti af sömu fjölskyldunni. Við erum öll hluti af sömu ættinni.“</p>
+
+<p>Birna hugsaði um þetta. Hún horfði á önnur trén í kringum sig, stór og smá, og skildi hvað Eikarkóngurinn meinti. Hún skildi að hún var ekki bara eitt birkitré, heldur hluti af stærri heild.</p>
+
+<p>„En hvað gerist þegar við deyjum?“ spurði Birna, rödd hennar varð skyndilega sorgmædd.</p>
+
+<p>Eikarkóngurinn svaraði rólega. „Þegar tré deyr, þá snýr það aftur til jarðar. Það verður að næringu fyrir ný tré. Það verður að hluta af ættinni. Lífið heldur áfram, Birna, í nýjum trjám, í nýjum laufum, í nýjum greinum.“</p>
+
+<p>Birna varð hugsi. Hún horfði upp í himininn og sá sólargeislana leika sér í laufunum. Hún skildi að hún var hluti af einhverju stærra en hún sjálf. Hún skildi að hún var hluti af skógarþjóðinni, hluti af ættinni.</p>
+
+<p>Dagarnir liðu og Birna óx og stækkaði. Hún lærði að njóta lífsins í skóginum. Hún lærði að elska vindinn, fuglana, dýrin og sólina. Hún lærði að vera stolt af því að vera hluti af ættinni.</p>
+
+<p>Einn daginn, þegar Birna var orðin stórt og sterkt tré, kom ungur birkikvistur til hennar. Hann hét Kvistur.</p>
+
+<p>„Birna, af hverju erum við hér?“ spurði Kvistur.</p>
+
+<p>Birna brosti. Hún sagði sömu orðin sem Eikarkóngurinn hafði sagt við hana, löngu áður.</p>
+
+<p>„Við erum hér,“ sagði Birna, „vegna þess að við erum sterkari en þú heldur. Ræturnar okkar halda jörðinni saman. Við gefum skugga og skjól. Við gefum súrefni og húsrúm. Við erum heimilið.“</p>
+
+<p>„En mig langar að ferðast,“ sagði Kvistur. „Mig langar að sjá heiminn.“</p>
+
+<p>„Heimurinn er stór og stórfenglegur, litli Kvistur,“ sagði Birna. „En þú getur séð hann, á þinn hátt. Þú getur séð hann í gegnum vindinn sem blæs í gegnum greinarnar þínar. Þú getur séð hann í gegnum fuglana sem hreiðra sig í þér. Þú getur séð hann í gegnum ræturnar þínar, sem ná djúpt í jörðina og tengja okkur öll saman.“</p>
+
+<p>„Tengja okkur saman?“ spurði Kvistur.</p>
+
+<p>„Já,“ sagði Birna. „Við erum öll tengd saman. Við erum öll hluti af sömu fjölskyldunni. Við erum öll hluti af sömu ættinni.“</p>
+
+<p>Kvistur hugsaði um þetta. Hann horfði á Birnu og önnur trén í kringum sig og skildi hvað hún meinti. Hann skildi að hann var ekki bara einn birkikvistur, heldur hluti af stærri heild.</p>
+
+<p>„Hvað gerist þegar við deyjum?“ spurði Kvistur.</p>
+
+<p>Birna svaraði rólega. „Þegar tré deyr, þá snýr það aftur til jarðar. Það verður að næringu fyrir ný tré. Það verður að hluta af ættinni. Lífið heldur áfram, Kvistur, í nýjum trjám, í nýjum laufum, í nýjum greinum.“</p>
+
+<p>Kvistur varð hugsi. Hann horfði upp í himininn og sá sólargeislana leika sér í laufunum. Hann skildi að hann var hluti af einhverju stærra en hann sjálfur. Hann skildi að hann var hluti af skógarþjóðinni, hluti af ættinni.</p>
+
+<p>Og þannig hélt saga skógarþjóðarinnar áfram, kynslóð eftir kynslóð. Trén óxu og stækkuðu, og þau deildu sömu sögunni, sögunni um ættina, sögunni um tengslin, sögunni um lífið í skóginum.</p>
+
+<p>Á hverju vori, þegar ný lauf spruttu og sólin skein bjart yfir skóginum, minntu trén hvert annað á mikilvægi þess að vera hluti af ættinni. Þau minntu hvert annað á að vera sterk, að vera góð og að vera samheldin.</p>
+
+<p>Og þótt trén gætu ekki gengið eða flogið, þá ferðuðust þau samt. Ræturnar þeirra náðu djúpt í jörðina og tengdu þau saman, þannig að þau voru alltaf saman, hluti af einni stórri fjölskyldu.</p>
+
+<p>Og skógarþjóðin, sem varð að ætt, lifði hamingjusöm og samheldin, í friði og sátt, um ókomna tíð.</p>
+
+<p>Einn daginn, langt síðar, kom lítil stelpa að nafni Lilja inn í skóginn. Hún var forvitin og hrifin af náttúrunni. Hún sat við rætur eins af stóru trjánum og hlustði á vindinn sem lék í laufunum.</p>
+
+<p>Hún heyrði hljóð, eins og tré væru að tala saman. Hún skildi ekki orðin, en hún fann fyrir friði og ró. Hún skildi að hún var komin á sérstakan stað.</p>
+
+<p>Lilja sat þarna lengi, hrifin af fegurð skógarins. Hún fann fyrir tengslum við trén, eins og hún væri hluti af sömu fjölskyldu.</p>
+
+<p>Þegar hún fór út úr skóginum, vissi hún að hún myndi aldrei gleyma þessum stað. Hún vissi að hún myndi alltaf muna skógarþjóðina, sem varð að ætt, og hvernig trén höfðu kennt henni mikilvægi tengslanna og samkenndar.</p>
+
+<p>Og þannig lifði saga skógarþjóðarinnar áfram, í minningum þeirra sem höfðu komið í skóginn og fundið fyrir töfrum hans. Saga um ætt, saga um tengsl, saga um lífið.</p>
+
+<p>Og ef þú hlustar vel, þá getur þú kannski ennþá heyrt hljóðið af trjánum sem tala saman, í vindinum sem blæs í gegnum greinarnar, og þú getur fundið fyrir tengslunum við skógarþjóðina, sem varð að ætt.</p>
+</body>
+```

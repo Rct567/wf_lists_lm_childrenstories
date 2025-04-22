@@ -1,0 +1,39 @@
+<prompt>
+Please write a relatable Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Danguje Skraidančių Medžių ir Giedrų Debesių Muzika'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lt</lang_id>
+
+<title>Danguje Skraidančių Medžių ir Giedrų Debesių Muzika</title>
+<body>
+Greta, maža mergaitė su plaukais, kaip rudens lapai, gyveno šalia senos, pilkos upelio kranto.  Ten, kur saulėlydžiai dažydavo dangų ryškiausiais oranžais ir rožinėmis spalvomis, o vėjas šnabždėdavo paslaptingas pasakas, ji ieškojo muzikos.  Ne tokios, kurią groja pianinas ar smuikas, bet tokios, kurią kuriantys debesys ir skraidantys medžiai.
+
+Greta mėgdavo sėdėti ant šalto upelio akmens ir klausytis. Upeliui šnabždant jos ausyje pasakas, ji įsivaizduodavo, kad kiekvienas žaliasis lapas – smuiko styga, kiekvienas švelnus vėjelis – muzikantai, grojantys paslaptingą harmoniją.  Bet ta muzika jai atrodė nesuprantama. Ji, kaip ir neapdorotas marmuras, laukė dailininko ranka, norinti prisijungti prie šios įspūdingos gamtos orkestro.
+
+Vieną rytą, saulės spinduliai jau įkaisę visą Žemę, Greta pamatė neįprastą reiškinį.  Danguje skraidė medžiai, žali, galingi ir žavūs,  pūkuoti debesys sudarydavo įmantrias formas, lyg piešinys, išmargintos švelnios spalvos. Jie sukosi ir šokdavo aplink vieną kitą tarsi atsakas į kažkokį kosminį signalą.  Greta išgirdo tykų, rafinuotą garsą – lengvą, sklindantį iš skraidančių medžių, lyg švelnios gitaros stygų muziką, o tyras debesų šnabždesys kūrė išskirtines ir sudėtingas melodijas.
+
+"Kur ta muzika atsiranda?", sušnabždėjo Greta, sušildama savo jautrią mintį, ir užkėlė klausimai sau apie nežinomas jėgas.  Ji suprato, kad tai nebūtinai žmogaus kūrinys, bet neišaiškinamai susijęs su aplinka. Greta susidomėjusi stebėjo toliau.
+
+
+Atrodė, kad kiekvienas šniokštantis upelis sukūrė harmonijos tašką ir pridėjo savo garsą prie visatos orkestro muzikos. Paukščiai, būdami muzikinių akordų dainininkai, įterpdavo į savo giesmes harmoniją. Jie padėjo sukurti visumos simfoniją, atveriančią naujas, dar nematytas akimirkas.
+
+Ta muzika kalbėjo apie metų laikų pokyčius – pavasario žalios spalvos jausmus, vasaros atodūsį ir švelnios rudens liūdesio bei ramios žiemos aidas. Greta suprato, kad šis grožis neieško pritarimo, o savaime egzistuoja ir išlieka nuostabus net ir be žmogaus pažiūros.
+
+Vėjas privertė kelis medžius nusileisti ant šlaito.  Greta prie jų pribėgo ir apžiūrėjo juos su susižavėjimu. Vienas medis šnabždėjo, tarsi šnabždesys apie kažką išties galingo, bet tyloje.  Kita švelniai drebėjo su švelnaus vėjelis pasakojimu ir nuskendo jaukioje atmosferoje. Greta patirties metu prisiminusi anksčiau nematytus pasaulis apžiūrėjo medžius.
+
+
+"Ar jūs supantys gamtos grožio kūriniai girdite šią muziką?", ji paklausė.
+"Žinoma, miela mergaite", tarė medis, tarsi senas patyręs žmogus.
+"Mes esame įvairiais gamtos procesais sujungti į vieną šlovę. Kai tyrumas ir didumas atsiranda, mes taip pat turime bendrą prisiminimą", pasakė jis, kalbant apie gyvenimo prasmės išgryninimo jėgą, kuri tarsi gėlių pumpurai sprogsta visateisingai grožio estetikoje.
+
+Greta, apgaubta paslapčių ir supratimo spindulių, ėmė geriau suprasti paslėptas gamtos melodijas.  Ji pajuto šį galingą muzikos sąjūdį ir rado jį sau šioje nuostabioje ir neatrastoje erdvėje.
+
+Nuo tos dienos, Greta tapo nepaprasta dainininkė.  Ji atrado, kad ne tik gamta groja, bet kiekvienas širdis ir kiekviena mintis taip pat išlieka savita muzikine styga.  Visas pasaulis aplink ją, upė, medžiai, debesys, paukščiai, net vabzdžiai, virto simfoniniu ansambliu. Ji mokėsi klausyti ne tik grožio, bet ir tylos muzikos, kurią žmonės praleidžia kiekvieną dieną.  Jos širdyje skambėjo dangų skraidančių medžių ir giedrų debesų muzika, ir tai tęsėsi visoje jos gyvenimo kelionėje.
+</body>

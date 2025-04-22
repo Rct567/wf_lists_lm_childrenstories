@@ -1,0 +1,56 @@
+<prompt>
+Please write a emotional Welsh children's story that is at least 1000 words long.
+It must be completely written in proper Welsh (CY).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Y Gelliau a'r Gwarchodwyr Rhyfeddod'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>cy</lang_id>
+
+```xml
+<title>Y Gelliau a'r Gwarchodwyr Rhyfeddod</title><body>
+Roedd unwaith, ym mhlith mynyddoedd garw Eryri, bentref bychan o'r enw Pant y Mellt. Nid oedd yn bentref fel unrhyw un arall. Roedd gan Pant y Mellt gyfrinach, cyfrinach oedd wedi ei chuddio y tu mewn i’r gelliâu hen, tywyll, a brith, a oedd yn sefyll yn uchel ar ochr y llechwedd.
+
+O fewn y gelliâu, lle ni chyrhaeddai’r haul erioed, roedd yna nifer o warchodwyr - anifeiliaid a oedd wedi hen adael y byd hwn, ond yn parhau i fyw fel ysbrydion, yn amddiffyn y drysor mwyaf gwerthfawr o bob un – dagrau y plant.
+
+Roedd gan bob plentyn ar draws y byd ddagrau hudolus. Roedd pob dagrau yn gofnod o'u profiadau, eu llawenydd a'u tristwch. Pan fyddai plentyn yn wylo, fe fyddai rhywun yn gweld y dagrau'n cwympo, yn ddisglair ac yn dryloyw, fel sêr bach. Yr unig ffordd i’r dagrau honno ymyrryd a gadael ei ol, i gadw’r emosiynau hynny yn gywir, oedd eu casglu. A dyna'n union oedd y Gwarchodwyr Rhyfeddod yn gwneud.
+
+Roedd y Gwarchodwyr yn cymryd siâp amrywiol. Roedd Owain, yr arth wen hynaf, â llygaid mor ddeallus â hen ddyn, bob amser yn teimlo'r angen i ddiogelu'r gelliâu rhag unrhyw berygl. Yna, roedd Branwen, yr eryr falch, a'i phlu'n sgleinio â llewyrch y lleuad, yn gallu gweld y byd isod, gan weld y tywyllwch yn ogystal â’r goleuni. Roedd Myrddin y llwynog, â’i glustiau'n llawn gwybodaeth o bob cwr o’r byd, yn ddoniol ac yn greadigol bob amser. Ac i gyd, ynghyd â llu o anifeiliaid eraill a oedd yn unedig yn y gwaith pwysig, yn eu galw.
+
+Yn aml, roedd gan y Gwarchodwyr Rhyfeddod ddewis oherwydd yr amser ar y ddaear. Roedd yna ddeg dagrau euraidd o orfoledd plant, yna deg arall yn wyrddlas o anniddigrwydd ac wyth fel sêr iach, yn gweddïo i fynd. O fewn y gelliâu roedd yn rhaid iddynt ddyfalu a byddent yn cadw dagrau annhebygol eraill yn fuan, gyda’u galar hiraethus eu hunain.
+
+Un diwrnod tywyll ac ysblennydd, daeth annwyd i’r pentref. Y gwynt yn chwipio o gwmpas y gelliâu, yn cario galar, yr amheuaeth, a’r ofn dros y pentref. Dechreuodd plant Pant y Mellt grio, ac ni chafodd yr oedolion eu hunain eu hunain rhag bod yn gysglyd, y tristwch amlwg.
+
+Roedd Owain yn cerdded yn ôl ac ymlaen, fel arfer yn gwybod beth i’w wneud. “Mae pethau’n newid,” meddai'n uchel wrth y gwarchodwyr eraill. “Rhaid i ni fod yn barod.”
+
+Wrth gwrs, roedd y dagrau yn llifo. Disgrifiodd Branwen eu lliwiau; llwyd fel stormydd, du fel nosweithiau diddiwedd, ac yna melyn fel canrifau, yr adeilad yn y golau. Myrddin, o dan ei bwysau arferol, adroddodd yn llythrennol yr emosiynau yng ngeiriau’r plant. Y cyfan arferol, wedi dysgu’r wers, ac yna… digwyddodd rhywbeth anarferol.
+
+Roedd rhywbeth yn gwneud y gelliâu'n ysgwyd. Ni ddywedodd yr ergydion eu bod yn ofnadwy, ond roedd y dirgryniadau hynny’n eu hunain, yn ddigon i godi'r ofn. Arddangosodd Myrddin, "Maen nhw eisiau cael yr hyn sydd gennym ni."
+
+Rhuthrodd y gwarchodwyr i amddiffyn y dagrau, gan ymdrechu yn erbyn y gwyntoedd hynod o gryf. Yna daeth y mwg. Roedd y mwg yn ddu ac yn drwchus, fel pe bai'n bwriadu gwrthdaro’n bwrpasol ar eu dagrau hudolus, eu disodli. Daeth ei arogl yn gyfarwydd, y ffordd roedd ei fraw gwasgaru i ymddangos, fel llygaid ofnus ac agored. Gwelodd y gwarchodwyr haint y mwg hwn.
+
+“Mae hwn yn rhyfel,” gwaeddodd Branwen. "Mae'r gwrthryfelwyr eisiau rheoli'r holl emosiynau."
+
+Wrth iddi ddweud, daethant i gyd i mewn. Nid yw Owain, Branwen na Myrddin yn ymddangos yn arbennig ar frys. Ar gyfer gwirionedd fe sylweddolasant na fyddai'r gelynion ddim yn stopio, os gallent eu cael, ni fyddai rhyfel yn debygol yn dda i unrhyw un. Roedd dagrau plant fel arf pwerus, y gellir ei gweled.
+
+Cyfarfûm â llawer o ymladd, roedd yr ymladd mor ddwys â daeargryn, cynhyrfus fel ergyd fellt, crio a gwenu’n gyflym yn gysylltiedig, yn ddynol bob amser. Cynorthwyodd anifeiliaid o bob math yn ofalus, cysgodi a tharawodd yn ôl gyda phwer heb ei gweld, amddiffynnodd y Gwarchodwyr Rhyfeddod eu tŷ.
+
+Wrth iddynt ymladd, deallodd Myrddin rywbeth. “Rydyn ni’n amddiffyn, ond maen nhw’n ymosod,” meddai, “Rhaid i ni ymosod hefyd.”
+
+Roedd gan Myrddin syniad, syniad yn gwbl anhygoel a llewyrchus, yn sêr iach. "Rydyn ni'n mynd i danseilio'r emosiynau sy'n achosi i'r plant grio!"
+
+Cymerodd Owain arweinyddiaeth ar unwaith, gyda'i syniad ei hun. Anfonodd ychydig o warchodwyr, ar ei orchymyn, i'r pentref. Gyda llygad o gwmpas y mwg tywyll, anfonodd Owain negeseuon gwrthryfelgar i bob cartref: negeseuon o obaith. Negeseuon oedd mor felys a charedig, ag aduniadau gweledol, gyda chwant am gofleidio ac addoli.
+
+Wrth i'r negeseuon ymledu, gwelodd y Gwarchodwyr newid. Cilioedd y mwg, ac dechreuodd y sêr ysgwyd. Gwelodd y gwallau’n disbyddu. Gwelodd yr ofn yn lleihau. Cynyddu cyfradd yr emosiynau. Dechreuodd plant Pant y Mellt chwerthin.
+
+Roedd rhai'n dal i grio, wrth gwrs, ond roedd eu dagrau yn llawn gobaith. Roedd y dagrau yn cynnwys yr heddwch yr oedd y Gwarchodwyr wedi'i ddwyn yn ôl. Un gwanwyn dydd, daeth pob gwrthryfelwr i dderbyn dagrau’r plant a llithro i mewn i’r goleuni disglair, am byth, i golli ymdrech, i adael yr holl ofn i gyd.
+
+Buont yn y gelliâu’n am byth wedyn. Fe wnaethant amddiffyn y dagrau yn y goleuni, heb ofni. Ond ar un olau unig, efallai, fyddai pethau byth yn dda yn dilyn. Gwelodd y gelliâu ymddangos, gyda llawenydd mawr. Ni welsant ddagrau tywyll ym Pant y Mellt mwyach.
+
+A chan hynny, mae'r Gwarchodwyr Rhyfeddod yn parhau i gadw'r dagrau hudolus, yn dilyn. Nid yw eu gwaith ar ben erioed, ond fe wyddant fod heddwch yn bosibl, os ceir gobaith bob amser. Ac maent yn gobeithio y gellir dod o hyd i'r emosiynau cryf ar gyfer y lleoedd ysblennydd hynny, am byth, hyd yn oed os bydd angen iddynt wylo am ychydig, mae rhywbeth newydd o gwmpas. Ac felly mae'r stori’n dod i ben, gyda phlant Pant y Mellt yn chwerthin, yn canu, ac yn breuddwydio. Oherwydd bod y Gwarchodwyr Rhyfeddod yn eu gwylio, bob amser, o fewn y gelliâu tywyll, fel gwylwyr sydd eisiau'r gorau.
+</body>
+```

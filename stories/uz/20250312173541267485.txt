@@ -1,0 +1,44 @@
+<prompt>
+Please write a educational Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Poyezdda sayohat qilayotgan bolalarning unutilmas sarguzashtlari'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>Poyezdda sayohat qilayotgan bolalarning unutilmas sarguzashtlari</title>
+<body>
+Oybek, Dilorom va Xushnud qiziqarli sayohatga chiqishga qaror qildilar. Ularning orzulari tog'lar orasidagi go'zal vodiylarni va daryolar bo'yidagi yashil bog'larni ko'rish edi. Poyezdda o'tirish va tashqaridan ajoyib manzaralarni tomosha qilish, ularning hayotlaridagi eng esda qolarli voqealarni yaratishga qaratilgandi.
+
+To'rttadan iborat kiyim-kechaklarini to'plagandan so'ng, uchalasi ham poyezd stantsiyasiga shoshilib ketishdi. Poyezd allaqachon harakatlanishga tayyor edi, va u qandaydir jimjitlik va intizom bilan o'ralgan edi. Uchalasi ham tezda o'zlarining joylariga o'tirishdi va poyezdning qat'iy harakatini kuzatib borishdi. Oyna orqali, ular sayyorani yangi joylar va ko'ngilchan, hayajonli voqealar bilan uchrashishini bilishgan edi.
+
+Dastlabki to'rt soat yomon kechmadi. Qizlarning shovqini osongina oshib ketdi. Lekin, to'satdan, bir muncha vaqt o'tgach, Oybek qo'llarida tutib turgan o'yinchoq avtomobilini yo'qotdi. U barcha yo'lovchilar va o'tgan manzaralar bilan qabariq oynani ko'rib, avtomobilini qayerga qo'ydigini bilmasdi.
+
+Dilorom, shoshqaloqlik va qayg'u bilan, poyezdning bo'sh joylari va sayyohlik qutilari orasidagi tor qadamlar bilan qidirishga kirishdi. Xushnud ham uni izlashadi, yuragida umid bilan va g'ayrat bilan. Ammo Oybekning avtomobili qanday qilib yo'qolgan edi.
+
+Shu payt, poyezd kutilmagan ravishda sekinlashdi. Qizlar qo'rquv bilan qarashar va darhol bir-biriga yuzlanishdi.  Poyezd shunga o'xshash yo'lovchilar va manzaralar ko'rgan bo'lar edi, lekin hozirgi yo'qolishlar yomon bir soatdan keyin boshladi. Oybek o'yinchoq avtomobilsiz endi bechora his qilgan edi.
+
+Poyezd to'xtadi, va barcha sayyohlar endi ko'rgan manzaralarga hayrat bilan qarashar edi. Shuni ko'rib, ular hozirgacha hech narsani unutmagan va hech qachon unutmaganligini angladilar. Poyezdning eshiklari ochildi, va bir-ikki yolg'iz, orzu bilan yo'l olgan sayyohlar quruq ko'zlarini boqishdi va eshikdan o'tishdi.
+
+Hozir, shoshlar darvozasining oldiga yetib borish uchun qanday qadamlar qo'yilgan edi. Qo'llarni sinab ko'rish va sayyohlarning diqqatli yordam bilan qo'llari yordamida qila olgan haqiqiy ish. Shoshilinch o'tirish bo'lsa, har bir bola uyda qolgan bir joy.
+
+Ko'cha bo'ylab o'tib,  to'xtab qolgan bir avtomobilni ko'rishlarini angladilar. U ko'tarilib ketishar edi. Xushnud tez o'yladi va u erga tez o'tirishi mumkin deb o'yladi. U bilan hamma shoshilmasdan va uyda bo'lmasdan o'zini himoyalay oladi.
+
+Uch bolani birlashib bir joyga to'plash va barcha qayg'u va baxtlarini birlashtirish bor. Keling, hammaga xush kelibsiz. Uch bolalar shoshadi va bir avtomobilga minib qo'yishga ulguradilar. Kutilmagan ravishda, shoshilinch qoidalar paydo bo'la boshladi. Poyezdni unutgan va kelajakdagi hayotlari uchun ko'p narsalarni o'ylashlari mumkin emas.
+
+Ayniqsa, Xushnud uchun muhim bo'lgan uch nafar bolaning hayotiy hikoyasi, har qanday holatda ham boshqalarga ijobiy ta'sir qiladi. Har bir tafovutlar har bir bolani baxtli saqlaydi. Bu, hamma shunga o'xshash bolalarga taalluqli va bu hikoyalar bir kun kelajakda ularni yorqin qilishni maqsad qiladi.
+
+Va nihoyat, bir yaxshi ishtirokchi ularga avtomobilning yo'nalishi bilan mos keladigan qiziqarli avtomobilni topishga yordam beradi. Ular shoshilmay qanday tashqariga qaraydigan va hayajonlanuvchanlikni boshqarishni bilishadi.
+
+Xushnud avtomobilga yuguradi. Qanday ajoyib sayohat! Kutilmagan sovg'alar - hayajonli sarguzasht va ajoyib kashfiyotlar - unutiladigan darajada.
+
+Yo'lovchilar birlashganlari, Dilorom va Xushnud qo'llaridan qulab tushgan avtomobilni qo'ydilar va uni Oybekga ko'rsatdilar. Endi Oybek xursand bo'ldi va hayratga tushdi va har biriga qarshi o'tirib, quvnoq tuyg'ular his qilishini va eslab qolishi kerak edi.
+
+Oybekning unutilmas avtomobil bilan o'yinlari esdalikda qoldi va ulardan o'zgarmas yulduzga o'xshash do'stlik simini hosil qilgan o'zbek bolalarining yoqimli yodgorligi edi.
+</body>
+```

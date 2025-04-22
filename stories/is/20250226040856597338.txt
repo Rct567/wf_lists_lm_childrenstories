@@ -1,0 +1,69 @@
+<prompt>
+Please write a funny Icelandic children's story that is at least 1000 words long.
+It must be completely written in proper Icelandic (IS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Skógarkonan sem talaði við börnin'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>is</lang_id>
+
+```xml
+<title>Skógarkonan sem talaði við börnin</title>
+<body>
+<p>Einu sinni, fyrir löngu síðan, í hrjóstrugum og fallegum dal á Íslandi, bjó skógarkona. Ekki bara hvaða skógarkona sem er, heldur skógarkona sem talaði - og það hástöfum! Hún hét Gunnhildur, og hún var með svo stórt og grænt hár að það náði niður á tær. Í raun, þá var hún oftast í felum á bak við tré, því hún gat auðveldlega ruglað saman við einn risastóran kjarra. Gunnhildur var svolítið sérvitringur, en samt alveg dásamlegur. Hún elskaði að hlusta á fuglana syngja, telja hálfétandi lambakjöt úr rusli (ekki spyrja!), og, auðvitað, að tala við börn.</p>
+
+<p>Það voru þrír litlir krakkar sem áttu það til að fara í leik í skóginum: Tryggvi, sem var alltaf með skítugan haus en stórt hjarta; Brynja, sem kunni allar nöfn á blómum; og lítill, feitur köttur sem hét Hnokki, sem fylgdi þeim hvert sem þau fóru. Hnokki var reyndar ekkert barn, en hann hugsaði eins og einn, sérstaklega um mat.</p>
+
+<p>Einn daginn, þegar börnin voru að leika sér í felum, heyrði Tryggvi hástæðan rödd. “HÆ! Eru einhver börn þarna?”</p>
+
+<p>Tryggvi kveinkaði sér. “Bíddu, hvað var þetta?”</p>
+
+<p>Brynja greip um handlegginn á honum. “Þetta var eins og tré að tala!”</p>
+
+<p>Þau horfðu hvert á annað, og á endanum, þá hélt Tryggvi hugrakklega áfram í átt að röddinni. Hnokki, að sjálfsögðu, fylgdi á eftir, bullandi af forvitni eða mögulegu rusli.</p>
+
+<p>Á bak við risastórt, loðið barrtré, sá Tryggvi stóru, grænu hárið. Og þar, á bakvið laufskrúðið, stóð Gunnhildur, skógarkonan. Hún var með stór augu og bros á vör. Á höfði hennar var kóróna úr berjum og hún hélt á tuskudúkku sem hún talaði við stundum.</p>
+
+<p>“Jæja, jæja! Komið þið hingað, ungu vinir mínir!” sagði Gunnhildur með stóru brosi. “Ég hef beðið eftir ykkur! Ég veit allt um ykkur.”</p>
+
+<p>Tryggva brá. “Veist… allt? Eins og hvað?”</p>
+
+<p>Gunnhildur hló hátt og skemmtilega. “Ég veit að Tryggvi kann að lenda í vandræðum með skítugan haus, Brynjar kann öll blómanöfnin, og Hnokki elskar mat. Og ég veit að þið eruð að leita að gullinu undir regnboganum!”</p>
+
+<p>Börn, sem og kötturinn, urðu agndofa. “Hvað? Við vorum bara að leika!” sagði Brynja.</p>
+
+<p>Gunnhildur kinkaði kolli. “Auðvitað, en hvert barn leitar að gulli einhvers staðar! Við skulum fara að leita saman!”</p>
+
+<p>Og þannig hófust ævintýri. Gunnhildur, með stóru hárið sitt og hástemmtu röddina, leiddi börnin og Hnokka um skóginn. Hún sagði þeim frá töfrum í trjám, sögum af dýrum, og stundum (ósóma!), fann hún einhvern afganga og spurði börnin hvort þau vildu smakka. Brynjan var alltaf tilbúin að læra allskonar, Tryggvi og Hnokki voru það ekki alltaf, en þeir létu undan!</p>
+
+<p>“Gullið er ekki í lok regnbogans, heldur er það í hjörtunum ykkar!” sagði Gunnhildur skyndilega, á meðan hún stóð á milli tveggja mjög stórra eikartrjáa.</p>
+
+<p>“Hvað meinarðu?” spurði Tryggvi, sem var að klifra í tré. Hnokki reyndi líka að klifra, en hann endaði með því að rúlla niður.</p>
+
+<p>Gunnhildur brosti. “Gullið er gleði, vinátta, það er að hlæja, upplifa ævintýri... að finna mat í rusli, ef þú vilt! Hver er tilbúin að deila með mér eitthvað? Ég átti nefnilega einu sinnu afgang af lambalæri…”</p>
+
+<p>Brynja, sem var að hlusta á, hló. “Ég myndi frekar finna blóm!”</p>
+
+<p>“Mér finnst gott að hlusta á hljóðið í fuglunum,” sagði Tryggvi, þótt hann var ennþá að reyna að rísa upp úr tré. Hann var alltaf svolítið skakkur.</p>
+
+<p>Hnokki, þar sem hann sat við rætur eikartrjáa, hreyndi líka við sér. “Ég vil deila mínum mat! Og ég skal deila… en þú verður að sleppa mig á morgun!"</p>
+
+<p>Gunnhildur hló aftur, og úr vasa hennar dró hún lítinn, guldan kassa. “Ég hef eitthvað til að deila líka! Hérna, þetta er kassi af hamingju, sem er í boði fyrir alla!”</p>
+
+<p>Hún opnaði kassann og í honum voru smáar, litríkar steinar. “Hver steinn táknar eitthvað gott: gleði, hugrekki, vináttu, og, auðvitað, mat! Takið þið einn, og munið alltaf að gullið er í ykkur sjálfum.”</p>
+
+<p>Börnin og Hnokki tóku hvert sinn sinn steinn. Tryggvi, sem var ennþá í trénu, endaði á því að detta niður, en hann hló bara. Þau áttu öll stór bros á vör.</p>
+
+<p>Gunnhildur, skógarkonan, hélt áfram að vera vinur barnanna. Hún talði við þau, deildi sögum, og leitaði stöðugt að gulli í kringum þau.</p>
+
+<p>Stundum fann hún eitthvað í ruslinu. Stundum ekki. En það skipti engu máli. Þau höfðu öll gullið. Það var í þeim sjálfum. Og það var, að sjálfsögðu, með stórum og grænum hástöfum, sem Gunnhildur hélt áfram að minna börnin á.</p>
+
+<p>Í lok dags, þegar sólin fór að setjast og málaði skóginn í gylltum lit, kveikti Gunnhildur stóran varðelda, sem hún gerði alltaf. Þau sungu lög, hlógu, og borðuðu nokkra úr rusli. Hnokki var sérstaklega ánægður. Þau vissu öll að morgundagurinn myndi koma með ný ævintýri, nýjar uppgötvanir og, auðvitað, meira hástemmt tal frá Gunnhildi, skógarkonunni sem kunni meira en flestir um gull, gleði, og afganga úr rusli.</p>
+
+<p>Og svo sofnuðu öll, nema Hnokki, sem sat við eldinn, og hugsaði um mat. Honum fannst öruggt að hann myndi eflaust finna eitthvað nýtt á morgun.</p>
+</body>
+```

@@ -1,0 +1,81 @@
+<prompt>
+Please write a light-hearted Swedish children's story that is at least 1000 words long.
+It must be completely written in proper Swedish (SV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Dem okända öns mystiska skattjakt äventyr'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>sv</lang_id>
+
+```xml
+<title>Dem okända öns mystiska skattjakt äventyr</title>
+<body>
+Båtbussen, en knallgul amfibiebuss döpt till "Kräftan", tuffade fram över de sju haven, eller ja, åtminstone sjön Glädjen. Ombord satt tre spända vänner: Lilla Astrid, med sitt röda hår som alltid stod i spretiga taggar; Stora Sven, en modig pojke med en näsa som en liten potatis; och Kloka Karin, som alltid hade en bok instoppad i ryggsäcken, redo att lösa vilket mysterium som helst.
+
+De var på väg till en ö, en ö som inte fanns på någon karta. En ö som bara de tre visste om. En ö som, enligt ett gammalt, dammigt pergament som Astrid hittat på sin mormors vind, gömde en fantastisk skatt.
+
+"Är ni verkligen säkra på att vi är på rätt väg?" frågade Sven, och kliade sig nervöst på näsan. "Den här sjön ser väldigt... sjöig ut."
+
+Astrid, som satt vid ratten (med en högre planka för att nå upp), blinkade. "Sluta oroa dig, Sven! Pergamentet sa att vi skulle följa 'den böljande fiskens svans'. Och kolla!" Hon pekade ut genom fönstret. "En böljande fisk! Förmodligen en lax."
+
+Sven stirrade skeptiskt på de cirkelformade vågorna som bildades runt Kräftan. "Det ser mer ut som en fet, glad valross som plaskar."
+
+Karin, som vanligtvis var uppslukad av sin bok, höjde blicken. "Kanske det är en metafor, Sven. 'Den böljande fisken' kan lika gärna betyda en speciell ström eller en vinkel i landskapet. Vi måste vara uppmärksamma på detaljer."
+
+Efter en stunds plaskande, som mestadels bestod av Sven som försökte fånga "den böljande fisken" (vilket slutade med att han blev rejält blöt), kom de äntligen fram till ön. Ön visade sig vara... ganska liten. En grön liten plätt med ett enda stort, knotigt träd i mitten.
+
+"Är det här allt?" suckade Sven, lätt besviken. "Jag trodde det skulle vara en hel skattkista full med guldmynt!"
+
+Astrid hoppade ur Kräftan, följd av Karin. "Ge inte upp än! Pergamentet sa att skatten vaktades av 'den viskande vinden'."
+
+De började utforska ön. Karin letade efter ledtrådar i marken, Astrid klättrade i trädet (vilket hon var expert på) och Sven, ja, han försökte fortfarande fånga den där olyckliga valrossen (eller laxen, vad det nu var).
+
+"Här!" ropade Karin plötsligt och pekade på en liten sten, täckt av mossor. "Det står något skrivet här!"
+
+Med hjälp av Astrid, som kunde läsa det mesta med sina pigga ögon, dechiffrerade de meddelandet: "Under den äldsta grenen, där vinden viskar sin sång."
+
+Astrid klättrade upp i trädet igen, och Sven följde efter. "Se upp, jag är inte lika bra på att klättra som du, Astrid!"
+
+Efter en stunds sökande hittade Astrid en tjock, grön gren som såg ut att vara äldre än alla andra. När vinden fläktade genom löven hörde de ett svagt, viskande ljud.
+
+"Här!" skrek Astrid, och fortsatte: "Det finns en liten håla här! Men vad är det..."
+
+Inuti hålet fann de inte en skattkista, inte ens en liten låda. Istället fann de... en gammal, rostig nyckel.
+
+Sven suckade. "En nyckel? Men till vad?"
+
+Karin tog nyckeln i handen och studerade den. "En nyckel... Det måste finnas något mer. Låt oss fortsätta leta!"
+
+De fortsatte att utforska ön, letade efter en dörr, en kista, vad som helst som den nyckeln kunde passa till. De letade under stenar, runt träd, och till och med i Kräftans motor (vilket inte var så smart).
+
+Till slut, efter flera timmars letande, började de bli lite frustrerade.
+
+"Kanske det inte finns någon skatt alls," sade Sven, med en suck. "Kanske det bara var en massa... bus?"
+
+Astrid, som alltid var positiv, ryckte på axlarna. "Vi har i alla fall haft ett äventyr! Och vi har haft kul!"
+
+Just då hörde de ett svagt "klick!"
+
+De vände sig om. Kräftan! Bakluckan på bussen hade öppnats sig. Och... inuti, i en liten låda, låg en glänsande, gyllene medaljong.
+
+"En medaljong!" utbrast Karin. "Men... hur?"
+
+Astrid tog medaljongen i handen. Den var rund, med en bild av en glad sjöhäst på. På baksidan stod det skrivet: "Till de modiga upptäckarna, från den glada sjöhästen."
+
+"Jag tror," sade Karin, "att skatten inte var något guld. Skatten var själva äventyret. Och minnet av det."
+
+Sven nickade. "Och den här medaljongen! En minnessak!"
+
+De tre vännerna skrattade. De hade inte hittat en skattkista full med guld, men de hade hittat något mycket mer värdefullt: ett minne, en upplevelse tillsammans.
+
+De hoppade in i Kräftan, redo att åka hem. När Kräftan tuffade iväg, vinkade de till den lilla ön, och till den viskande vinden.
+
+"Vi ses igen, ön!" ropade Astrid.
+
+Och med ett stort plask, fortsatte Kräftan sin resa, mot nya äventyr i de sju haven (eller åtminstone sjön Glädjen). Och vem vet? Kanske skulle de en dag hitta en riktig skattkista full med guld. Men viktigast av allt var att de hade varandra, och en Kräfta som kunde ta dem varthelst de ville.
+</body>
+```

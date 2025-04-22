@@ -1,0 +1,51 @@
+<prompt>
+Please write a emotional Portuguese (Portugal) children's story that is at least 1000 words long.
+It must be completely written in proper Portuguese (Portugal) (PT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A Criação do Mundo e Os Primeiros Homens e Animais da Terra.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pt</lang_id>
+
+```xml
+<title>A Criação do Mundo e Os Primeiros Homens e Animais da Terra</title>
+<body>
+Era uma vez, num tempo muito antigo, antes de existir o sol, a lua ou mesmo as estrelas que brilham no céu, a Terra. A Terra era um caos absoluto, um vazio imenso onde nada se movia. Ali, no profundo abismo escuro, vivia um ser majestoso e poderoso chamado Deus Pai. Deus Pai, sentia uma profunda solidão. Ele observava o nada e desejava criar, desejava sentir a alegria de ver a vida a brotar.
+
+Então, um dia, uma ideia nasceu no coração de Deus Pai, como uma semente de luz. Ele decidiu quebrar o silêncio eterno e dar início à criação. Com um sopro, Deus Pai criou a luz. A luz espalhou-se pelo vazio, rompendo as trevas e trazendo consigo cores e formas que antes não existiam.
+
+Depois, com um gesto suave, separou as águas das terras. As águas, até então misturadas num oceano sem limites, dividiram-se em rios, lagos e mares. As terras, antes planas e sem vida, ergueram-se, formando montanhas majestosas e vales verdejantes.
+
+Deus Pai olhou para a sua criação e viu que era boa. Mas ainda faltava algo, uma presença que preenchesse a beleza que ele havia criado. Com carinho e paciência, Deus Pai moldou o barro da terra e criou os primeiros animais. Primeiro, surgiram os pássaros, com as suas penas coloridas e o canto melodioso. Eles encheram o céu com a sua alegria, voando de um lado para o outro, a espalhar as sementes da vida.
+
+Depois, nasceram os peixes, que nadavam nas águas cristalinas dos rios e oceanos. Eram seres de escamas brilhantes e caudas elegantes, que deslizavam com graça pelo mundo aquático.
+
+Deus Pai continuou a criar, dando vida a animais de todas as formas e tamanhos. Criou o leão, forte e corajoso, o elefante, gentil e sábio, e a raposa, esperta e astuta. Cada animal tinha um papel a desempenhar, cada um contribuindo para a harmonia do mundo.
+
+Mas Deus Pai sentia que ainda faltava algo. Sentia uma necessidade profunda de criar um ser semelhante a ele, um ser capaz de amar, de sentir e de compreender a beleza da criação. Então, com as mãos cheias de amor e de esperança, moldou o barro e criou o primeiro homem, Adão.
+
+Adão era forte e belo, com uma pele suave e olhos brilhantes. Deus Pai respirou no seu nariz e deu-lhe vida. Adão abriu os olhos e viu o mundo pela primeira vez. Ficou maravilhado com a luz, com as cores e com a diversidade dos animais. Deus Pai levou Adão a passear pela Terra, mostrando-lhe cada criatura, cada árvore, cada rio. Adão aprendeu os nomes de todos e sentiu uma profunda ligação com tudo o que o rodeava.
+
+Mas Adão estava sozinho. Deus Pai percebeu a tristeza no coração de Adão. Ele viu que Adão precisava de companhia, de alguém com quem pudesse partilhar a beleza do mundo. Então, enquanto Adão dormia, Deus Pai retirou uma costela dele e, com ela, criou a primeira mulher, Eva.
+
+Eva era bela e delicada, com longos cabelos negros e olhos doces. Quando Adão acordou e a viu, ficou imediatamente apaixonado. Eva tornou-se a sua companheira, a sua amiga, a sua amada. Juntos, caminharam pelos jardins do Éden, desfrutando da felicidade e da paz.
+
+Deus Pai deu-lhes todas as coisas, todos os frutos da terra, e ensinou-lhes a viver em harmonia com a natureza. A única regra que lhes impôs foi que não comessem do fruto da árvore do conhecimento do bem e do mal. Mas o mal, representado pela serpente, era astuto e perspicaz. Ele tentou Eva, prometendo-lhe sabedoria e conhecimento. Eva, tentada, provou do fruto, e ofereceu a Adão, que também comeu.
+
+Imediatamente, os seus olhos se abriram para o bem e para o mal. Perceberam a sua nudez e sentiram vergonha. Deus Pai ficou triste com a desobediência deles, mas também sentiu compaixão. Ele sabia que, apesar do pecado, o amor e a esperança ainda existiam no coração deles.
+
+Deus Pai expulsou Adão e Eva do Éden, mas não os abandonou. Prometeu-lhes que, um dia, enviaria o seu filho, Jesus, para redimir os seus pecados e trazer a salvação ao mundo.
+
+Apesar da expulsão do paraíso, a vida continuou. Adão e Eva tiveram filhos e filhas, e a família humana começou a crescer. Com o passar do tempo, os homens e as mulheres aprenderam a plantar, a colher, a construir e a amar.
+
+Os animais da Terra continuaram a viver em harmonia, embora por vezes os humanos, por ganância ou ignorância, esquecessem a importância de proteger e preservar a natureza. Mas a esperança, como uma pequena semente, nunca deixou de brotar nos corações dos homens.
+
+A criação do mundo e a história dos primeiros homens e animais são um lembrete constante da beleza, do amor e da esperança que Deus Pai colocou em cada um de nós. É uma história sobre a importância da amizade, da família, da bondade e da fé.
+
+E assim, a história da Terra, desde a criação do nada até à chegada dos primeiros homens e animais, continuou a ser contada, geração após geração, ensinando-nos a valorizar o mundo que nos foi dado e a amar o próximo como a nós mesmos. Porque no final, o amor e a esperança são as forças mais poderosas do universo, capazes de superar qualquer desafio e de transformar o mundo num lugar melhor. E cada dia que passa, é uma oportunidade de celebrar a criação de Deus, de agradecer pela vida e de viver em harmonia com tudo o que nos rodeia. A história continua… e continuará sempre.
+</body>
+```

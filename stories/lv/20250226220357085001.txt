@@ -1,0 +1,31 @@
+<prompt>
+Please write a relatable Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Šī ir stāsts par ziedu valstību'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lv</lang_id>
+
+<title>Šī ir stāsts par ziedu valstību</title>
+<body>
+Ilgi, ilgi atpakaļ, tālu, tālu mežā, kur saule rotaļājās starp zaļajām lapām, atradās ziedu valstība.  Šajā valstībā nebija māju no koka vai akmens, bet gan no ziedlapiņām, un ielas bija izklātas ar krāšņiem, ziediem smaržojošiem paklājiem.  Pūķīši, dārgumiņi un kukaiņi, kas dziedāja visādas dziesmas, iemirdzējās arkrāsainiem spārniem un skaistām krāsām.  Šeit dzīvoja daudzveidīgi ziedi – spilgti sarkani rīta saulaputni, gaiši zili debesu zilieņi, zeltaini dzelteni saulrieta puķīši. Ikviens zieds bija unikāls un skaists savā veidā.
+
+Mazā, dzintara krāsas pupiņziediņa vārdā bija Āris. Viņš nebija tik augsts kā citi ziedi, viņa ziedlapiņas nebija tik spožas un sulīgas. Viņš bija neliels un pieticīgs, un bieži vien jūtas mazliet vientuļš. Savu vienīgumu pastiprināja fakts, ka Āris audzēja gar lauku taku, kur garām vilka zāles un gājēji, nekad nepamanot viņa skaistumu.  Viņš gribēja kļūt kā kāds no lielo ziediem pie kāpņu stāvu, apžilbinātiem un bagātīgiem, ar tādu krāsu spēli.
+
+Viņš bieži paskatījās uz citām puķēm ar ilgām ziedlapiņām, iekārojot lielu skaistumu un vareni krāsotus spārnus.  Bet Āris zināja vienu lielu noslēpumu par ziedu valstību.  Neviens zieds nebija tāds pats kā cits. Katram ziedam bija savs īpatnējais skaistums, kas parādīja katras skaistās dabas puķītes talantu. Vairākām ziediem bija garākās kātu stīgas, tādēļ viņiem nebija jāslēpjas ēnās, bet viņu talants slēpās ne tik bieži redzamās daļās, zem zaļumiem un aiz zaļumiem. Bet Āris saprata, ka katrs zieds ir dārgais labums ziedu valstībā.
+
+Vienā saulainā rītā, kad Āris atradās pilnīgā ziedēšanā, no tālas takas līdzās tam piestāja maza meitenīte. Meitenes vārds bija Laura, un viņai patika staigāt pa ziedu valstību, vērojot ziedu, ko dzīvnieki bija savākuši, vai kāds puķes krāsas bija nokritis uz smiltīm.  Viņa nekad nepamanīja nevienu Āri. Laura ieraudzīja Āri, ar saviem nelielo skaistumu, un apturēja savus solus. Meitene pacēla viņu ar savu smilšainām pirkstiņiem, un no viņa nāca gaisīga smarža, kas ietīrās starp viņas rokām.
+
+Meitenīte nosmaidījās un nosarka. Laura pieķērās pie maza krūma un noskatījās to sīkāku ziedēšanu, smiltis, kas tika paņemti, no zemās kāta augšdaļas. Meitene saprata ziedu īpatnējos talantus. Katram ziedam ir savs raksturīgs veids un skaistums, zieds parādījās tā augstumā, kas pieejams tai. Lai gan citi ziedi izcēlās ar apburošo krāsu vai sulīgu smaržu, Āris pacēlās visapkārt ar visām ziedu ziedlapiņām, un bija skaisti.
+
+No Āri nāca liela, neaizmirstama aromāts. Āris izcēlās starp citām krāsām un parādīja visām krāsām, kas atrodas ap viņu, kas tas ir spēcīgs. Viņa neliela izskats spēja atnest laimīgākās un spilgtākās saules stariņas un sildīja viņas laimes dēļ.  Āri šī sirsnība patika daudz. Pēkšņi Āris saprata, ka viņa skaistums netika mērīts ar augstumu vai ziedlapiņu skaitu, bet gan ar to, ka kāds atrada prieku viņa neparastajā krāsā.
+
+Laura novietoja Āri uz mazas purnītes, kas gulēja zem kāpņu starpa.   Tā biji maza gulēja purnīte. Tad Laura noņēma nelielus smilšus no ziediem un ieslēdza Āri savā ziedu groziņā.
+
+Līdz ar to, kad Laura gāja atpakaļ mājās, Āris zināja, ka savā sirsnīgumā nevienam ziedam nevajadzēja domāt par citiem ziediem.  Katrs no ziediem ir unikāls un skaists savā veidā, tāpat kā Āris. Tā tas vienmēr ir bijis. Ziedu valstībā vienmēr ir vieta katram ziedam, atkarībā no tam piešķirtiem dabas dārgumiem.
+</body>

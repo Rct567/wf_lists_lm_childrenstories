@@ -1,0 +1,64 @@
+<prompt>
+Please write a funny Icelandic children's story that is at least 1000 words long.
+It must be completely written in proper Icelandic (IS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kattarvinurinn sem leitaði að dularfulla fisknum sem syngur fallegar söngva.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>is</lang_id>
+
+```xml
+<title>Kattarvinurinn sem leitaði að dularfulla fisknum sem syngur fallegar söngva.</title><body>
+Einu sinni var lítill, rauðhærður köttur að nafni Kalli. Kalli bjó í litlu, krúttlega húsi í Reykjavík, umkringdur stórum fjöllum og endalausu Atlantshafi. Kalli elskaði að leika sér úti, þvælast um í þröngum götunum og glápa á ferðamennina sem komu alls staðar að úr heiminum. En eitt kvöld, meðan hann sat við gluggann og horfði á stjörnurnar, heyrði hann ótrúlega falleg lag.
+
+Það var mjúkt, melódískt og eins og einhver væri að syngja eitthvað fallega í fjarska. Kalli hélst á eyrunum og pældi. "Hvað í ósköpunum var þetta?" hvíslaði hann við sjálfan sig. Næsta dag ákvað hann að fara í könnunarleiðangur. Hann vissi að eitthvað mjög dularfullt var í gangi.
+
+Hann byrjaði á að leita í nágrenninu. Hann skoðaði undir bílum, innan við ruslafötur og jafnvel í gegnum opna glugga nágrannanna (afsaklega!). En ekkert, bara sama gamla Reykjavík. Hann ákvað þá að fara lengra, alveg út að sjónum.
+
+Á leiðinni hitti Kalli gamla hunda að nafni Tryggva. Tryggvi var með stórt nef og stóran, loðinn líkama og hafði það sérkennilega áhugamál að safna gömlum sokkum. "Hæ, Kalli!" sagði Tryggvi með röddu eins og hljóðið í risastóru píanói. "Hvað ertu að brasa?"
+
+"Ég er að leita að einhverju," svaraði Kalli, "Fisk, reyndar. Einn sem syngur fallegar söngva! Hefurðu heyrt eitthvað svoleiðis?"
+
+Tryggvi kreppti augun. "Hmm, fiskur sem syngur? Það er nú meira en líklegt! Ég heyrði eitthvað óskiljanlegt mjálm frá smá börninni áðan." Tryggvi velti hausnum svolítið, og bætti við: "Fiskur… fallegir söngvar… ég man! Elsku afi minn sagði mér sögu, að undan ströndinni undan Akranesi eða Kópavogi, eitthvað svoleiðis, búa fiskar sem syngja. Þeir eru kallaðir „Söngflækja“. Þú ættir að leita þar."
+
+Kalli varð strax spenntur! Akranes eða Kópavogur! Þangað var það! Hann kvaddi Tryggva, sem gaf honum gamlan sokk til gæfu (þó Kalli hafi ekki vitað hvað hann átti að gera með hann), og hélt áfram.
+
+Ferðin var löng. Kalli þurfti að fara um víðáttumiklar brekkur, yfir margar áar (og þurfti einu sinni að forðast arga gæs, sem vildi alls ekki að hann færi yfir landsvæðið sitt), og í gegnum fjarri byggðar bæir. Eftir tveggja daga labbtúr kom hann loksins til Akraness (Hann var alveg viss um það, því Akranes er næstum alltaf fyrst þegar þú spyrur fólk sem kemur frá Reykjavík, hvort það sé leið inn að vesturlandi). Hann ákvað að skoða höfnina fyrst. Þar var fullt af stórum skipum og bátum.
+
+Skyndilega, á meðan Kalli var að glápa á krana, heyrði hann lagið aftur! Það kom greinilega frá sjónum. Hann hljóp á bryggjuna og hélt niður. Undir honum, í djúpinu, sá hann – eða honum fannst eins og hann sæi – ljós sem blikaði. Þar byrjaði lagið að hljóma hærra. Kalli, sem vissi ekkert um þá hættu sem leynst gat í djúpinu, hoppaði út í sjóinn.
+
+"Mjaú!" öskraði hann og dýfði í, fann fyrir köldu vatninu. Hann byrjaði að synda í átt að ljósinu. Ljósið var að verða stærra og stærra. Skyndilega, kom hann inn í fallegt undirheimssvið. Þar var allt lýst af stórum, glitrandi perlum, og allskonar litríkir fiskar syntu um á undan og eftir honum.
+
+Og þar, í miðjunni, var hann. Fiskurinn. Hann var ekki stór, eða ljótur, eins og hann hafði hugsað sér. Hann var skínandi silfurfiskur með gylltar ugga og hneigði hann stórar, blíðar augu á Kalla. Fiskurinn opnaði munninn og söng aftur. Þetta var ótrúlega fallegt. Röddin var björt og tær, eins og bjölluhljómur sem flæddi yfir vatnið. Söngurinn var um ást, vináttu og fegurð sjávar.
+
+Kalli var töfraður. Hann hafði aldrei heyrt eitthvað svona fallegt.
+
+"Hæ," sagði fiskurinn með rólegri, söngröddinni. "Ég er Söngurinn. Hvað heitir þú?"
+
+"Ég heiti Kalli," svaraði kötturinn. "Og ég… ég er mjög ánægður að hitta þig! Tryggvi, gamli vinur minn, sagði mér af þér."
+
+Söngurinn brosti. "Tryggvi er góður vinur, og reyndar er ég alls staðar að hjálpa fiskum og öllum sem vilja bera vináttu og hamingju um." Hann leit sorgmæddur niður. "Því miður get ég ekki verið meira hjálpsamur eins og er. Stór, vondu hafrar í þessum héraði eru að reyna að halda mér fangi. Og ég þarf hjálp til að sleppa frá þeim."
+
+"Ertu að meina hvalir?" spurði Kalli.
+
+"Já, eða mjög stórar fiskategundir. Og einn stór, vondu maur á jörðinni er að stjórna þeim, eins og spólar með streng. En þú getur hjálpað! Við vitum að þú ert snjall," sagði Söngurinn.
+
+Kalli, þrátt fyrir að vera bara lítill köttur, var ekki hræddur. Hann var reiðubúinn til að hjálpa. Hann sagði: "Auðvitað! Segðu mér hvað ég á að gera."
+
+Söngurinn útskýrði áætlun sína fyrir Kalla. Þeir þurftu að lauma sér í höfnina og stela takkanum sem stýrði vondu fiskunum. Það myndi auðvitað vera mjög erfitt. Eftir smá hugsun, kom Kalli með frábæra hugmynd. "Ég mun reyna!"
+
+Eftir samning, söng Söngurinn smá lag sem leiddi Kalla í átt að yfirborðinu og út í höfnina aftur. Kalli synti vandlega á land og hélt í átt að skipinu þar sem vondir fiskarnir höfðu verð eitthvað á ferð. Kalli fór óséður framhjá mönnum, hoppandi, skríðandi og leikandi sér að vera þurr á bryggjunni og náði á endanum að leysa lásinn sem stjórnaði vöndu fiskunum og einhvern undirdeild af risa-maurum.
+
+Og það gekk! Hægt og rólega byrjaði fiskurinn, sem voru komnir undir Kalla, að þjarma um og syngja fallegar söngva. Risastór maurarnir féllu af áætluninni.
+
+Söngurinn kom upp úr djúpinu, nú frjáls, og þakkaði Kalla. "Takk, Kalli," söng hann. "Þú bjargaðir okkur öllum!"
+
+Kalli, blautur og þreyttur en mjög ánægður, fór aftur heim til Reykjavíkur. Þegar hann kom heim, settist hann aftur við gluggann. Hann heyrði hljómi frá fallegum, róandi laginu í fjarska, sem Söngurinn og allir fiskarnir í hafinu sungu í kvöld, takkandi Kalla fyrir hans hugrekki og vináttu. Hann varð þreyttur, klappaði krummunum sínum saman og sofnaði.
+
+Það varð langur dagur fyrir lítinn kött. En frá þeim degi, var Kalli kötturinn sem alltaf verður minnst, kötturinn sem fann fiskinn sem syngur fallegar söngva. Og stundum, ef þú hlustar mjög vel á, geturðu heyrt þennan falda söng, líka. Því saga Kalla og Söngsins er óskrifuð, og verður að endast um eilífð.
+</body>
+```

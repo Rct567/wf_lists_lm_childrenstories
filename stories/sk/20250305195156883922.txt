@@ -1,0 +1,35 @@
+<prompt>
+Please write a light-hearted Slovak children's story that is at least 1000 words long.
+It must be completely written in proper Slovak (SK).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Malý jednorožec, ktorý hľadal svoj domov'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>sk</lang_id>
+
+<title>Malý jednorožec, ktorý hľadal svoj domov</title>
+<body>
+Raz v rozprávkovom lese, plnom lesklých kvetov a šumivých potokov, žil malý jednorožec menom Šíp.  Jeho roh, namiesto klasickej bielej, žiaril jemnou, ružovou farbou, ako západ slnka.  Šíp nebol ako ostatní jednorožce, ktoré sa pásli na šťavnatých trávičkách a hrali sa v rozkvitnutých lúkach.  Šíp túžil po poznaní. Túžil po dobrodružstve.  Túžil po svojom dome.
+
+Jeho mama, krásna jednorožec s rohom ako čistá sneh, ho ubezpečovala, že jeho domov je všade tam, kde je šťastie.  "Šípko," hovorila, "tvoj domov je v tvojom srdci.  Je v každom úsmeve, v každom vtáčom speve, v každom slnkom zaliatom lístíku."  Ale Šíp cítil prázdnotu.  Cítil, že jeho domov je niekde inde, niekde, čo ešte nevidel.
+
+Jedného rána, keď sa slnko prebúdalo a maľovalo les v rozprávkové farby, Šíp sa rozhodol vydať sa na cestu.  Zobral so sebou malú taštičku plnú sladkých lesných plodov, ktoré mu dala jeho mama a odvážne sa vydal na cestu.
+
+Prechádzal cez rozkvitnutú lúku, kde sa motýle preháňali ako farebné loptičky.  Stretával roztomilé zvieratká:  medvedíka s medom v labkách, líšku s chvostom ako žiarivé plamene a zajaca, ktorý sa snažil ujsť pred zvedavými očiami dravých vtákov.  Šíp sa s nimi rozprával, pýtal sa ich na cestu k jeho domovu, ale nikto mu nevedel odpovedať.
+
+Prišiel k majestátne vysokému dubu, pod ktorým sa zlievala úžasná rieka.  Na brehu riečky sa zhromaždili rozprávkové žaby, ktoré spievali čarovné piesne.  Šíp sa im opýtal na cestu a žaby, s ich veľkými, lesklými očami, mu povedali, že domov nájde len ten, kto hľadá v srdci.
+
+Šíp sa prechádzal dlho a dlho.  Stretával čudné bytosti a prežíval zábavné dobrodružstvá.  Prekonal strmé kopce a preplával cez šumivé potoky.  Videl lesklé vodopády, ktoré padali ako strieborné záclony a cítil vôňu exotických kvetov.  Videl aj chmúrne jaskyne, plné neznámych tvorov, a prekonal strach zo tmy.
+
+Jedného dňa, keď sa Šíp prechádzal cez les, plný vône divých jahôd, narazil na starú, múdru sovu, ktorá sedela na starej vetve.  Sova s rozsiahlymi krídlami a múdrym pohľadom sa ho spýtala: "Malý jednorožec, čo hľadáš?"
+
+Šíp jej porozprával o svojom túžbe nájsť svoj domov.  Sova sa naňho usmiala a povedala: "Domov nie je miesto, Šípko.  Domov je v tvojej duši.  Je to pocit bezpečia a lásky, ktorý cítiš v srdci."
+
+Šíp sa zamyslel nad slovami starej sovy.  A zrazu, v tom okamihu, keď sa slnko dotýkalo vrcholkov stromov, pochopil.  Jeho domov nie je miesto, ale pocit.  Domov je v láske jeho mamy, v úsmevoch zvierat, v šume stromov a v spievaní vtákov.  Domov je všade okolo neho.
+
+Šíp sa vrátil domov, s novým pocitom šťastia v srdci.  Už nehľadal domov, lebo ho našiel v každom okamihu.  A odvtedy, bol Šíp šťastným jednorožcom, ktorý žil v rozprávkovom lese a rozdával úsmevy a radosť všetkým okolo seba.  A jeho ružový roh, ako západ slnka, svietil ešte jasnejšie, plný lásky a šťastia.
+</body>

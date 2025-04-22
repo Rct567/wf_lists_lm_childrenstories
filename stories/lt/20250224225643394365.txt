@@ -1,0 +1,37 @@
+<prompt>
+Please write a relatable Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Visi Mūsų Šeimos Nariai Yra'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>lt</lang_id>
+
+<title>Visi Mūsų Šeimos Nariai Yra</title>
+<body>Kačiams žiemą, kai sniegas uždirba visą kiemą, o šaltis čia pat, prie langų, šniokščia pro vožučius, tarp mūsų šeimos narių kilo diskusija. Visi norėjo žinoti, kas yra svarbiausias šeimoje. 
+
+Tėvas sėdėjo prie stalo, gėrė arbatą ir sakė: "Aš esu svarbiausias, nes aš uždirbu pinigus šeimai." Mama, kurios rankos buvo visuomet užimtos, nes ji niekada nelipo nuo darbo, atsakė: "O kas apie mane? Aš viską prižiūriu, nuo maisto iki aprangos."
+
+Vaikai, sėdintys ant kilimėlio, žaisdami su savo leliumi, prašė: "Ir kas apie mus? Mes esame šeimos ateitis!" Senelis, kuris tupėjo prie krosnies, dėvėjo senas, bet patogias kojines, ir sakydavo: "Aš esu šeimos istorija, nes be manęs viskas būtų nepažįstama."
+
+Ši diskusija tęsėsi vis labiau, kol vienas mažas balsas, kuris iki šiol niekas nebuvo girdėjęs, pasirodė iš kambario gilumo. Tai buvo balsele, mūsų šeimos katė. Ji sėdėjo ant savo mėgstamiausio kilimėlio, jos akys blėsojo tarpumyje, ir sakė: "Aš esu ta, kuri priima ir myli visus, nepriklausomai nuo to, kas yra svarbiausia."
+
+Visi šeimos nariai pažvelgė į katę, ir staiga viskas taps paslaptinga. Tėvas paklausė: "Kaip tai, kad tu, mažoji katė, esi svarbiausia?" Katė atsakė: "Kadangi aš esu ta, kuri visada esu čia, nepriklausomai nuo oro, ar šeima yra kartu, ar ne."
+
+Mama pridūrė: "Taip, ir tu visada esi maloni, nepriklausomai nuo mūsų humoro." Vaikai šūktelėjo: "Ir tu mūsų mylimiausia leluke!" Senelis tarė: "Taip, ir aš turiu pripažinti, kad katė yra ta, kuri mūsų šeimai suteikia meilę."
+
+Šiandien visi suprantame, kad visi mūsų šeimos nariai yra svarbūs, bet kasdienė meilė ir dėmesys yra svarbiausi. Nes jei mes neturėtume meilės ir dėmesio, tai gyvenimas būtų panašus į sniegą, kuris uždirba visą kiemą, bet pražūsta, kai oras taps šiltesniu.
+
+Visi mūsų šeimos nariai taps geriausiais draugais ir gins vienas kitą. Katė taps mūsų simboliu, kuris primins mums, kad meilė ir dėmesys yra svarbiausi. Ir kai mes eisime pro kiemą, kur sniegas jau nebėra, mes suprasime, kad visi mūsų šeimos nariai yra lygūs, ir kad meilė, kuri mus jungia, yra stipriausia.
+
+Tada visi šeimos nariai susirinksime ir pasakysime: "Visi mūsų šeimos nariai yra svarbūs, ir meilė, kuri mus jungia, yra amžina." Ir katė, kuri visada bus kartu, taps mūsų šeimos simboliu, kuris primins mums, kad meilė ir dėmesys yra svarbiausi gyvenime.
+
+Ir taip, mūsų šeima taps dar stipresne, nes visi suprasime, kad meilė ir dėmesys yra svarbiausi. Ir kai mes žvelgsime į katę, mes pamatysime simbolį, kuris primins mums, kad visi mūsų šeimos nariai yra lygūs, ir kad meilė, kuri mus jungia, yra amžina.
+
+Visi mūsų šeimos nariai taps geriausiais draugais, ir katė taps mūsų mylimiausia drauge, kuris visada bus kartu. Ir kai mes eisime pro kiemą, kur sniegas jau nebėra, mes suprasime, kad visi mūsų šeimos nariai yra svarbūs, ir kad meilė, kuri mus jungia, yra stipriausia.
+
+Tada visi šeimos nariai susirinksime ir pasakysime: "Visi mūsų šeimos nariai yra svarbūs, ir meilė, kuri mus jungia, yra amžina." Ir mūsų šeima taps dar stipresne, nes visi suprasime, kad meilė ir dėmesys yra svarbiausi gyvenime. Ir katė, kuri visada bus kartu, taps mūsų šeimos simboliu, kuris primins mums, kad visi mūsų šeimos nariai yra lygūs, ir kad meilė, kuri mus jungia, yra amžina.</body>

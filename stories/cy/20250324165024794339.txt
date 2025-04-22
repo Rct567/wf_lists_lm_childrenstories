@@ -1,0 +1,61 @@
+<prompt>
+Please write a uncomplicated Welsh children's story that is at least 1000 words long.
+It must be completely written in proper Welsh (CY).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Taith Rhyfedd Blodeuyn Cwsg i Wlad y Breuddwydion Dymunol a Lliwgar'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>cy</lang_id>
+
+```xml
+<title>Taith Rhyfedd Blodeuyn Cwsg i Wlad y Breuddwydion Dymunol a Lliwgar</title>
+<body>
+Un bore braf, pan oedd haul Ebrill yn disgleirio fel diemwnt ar y gwair gwyrdd, deffrodd Blodeuyn Cwsg. Roedd yn flodeuyn bach, tenau, gyda phetalau meddal, glas-las fel y môr tawel. Nid oedd yn flodeuyn fel y lleill; nid oedd yn tyfu ar fferm nac yn yr ardd. Tyfodd Blodeuyn Cwsg mewn cornel tawel o ystafell Siân, merch fach ag wyneb tyner a llygaid llawn hyfrydwch.
+
+Bob nos, pan fyddai Siân yn mynd i gysgu, byddai Blodeuyn Cwsg yn agor ei betalau ychydig, ac yn dechrau canu cân fach, feddal, fel sŵn y gwynt trwy'r goedwig. Roedd y gân yn sôn am ddinasoedd o siwgr, afonydd o siocled, a llwybrau aur yn arwain i wlad lle roedd pob peth yn bosibl. Y gân honno a helpai Siân i syrthio i gwsg dwfn a llon.
+
+Un noson, wrth i'r lloerennau ddisgleirio i mewn i ystafell Siân, gwrthododd y gân ymdawelu. Roedd Blodeuyn Cwsg yn teimlo rhywbeth anarferol yn ei betalau. Roedd fel pe bai am fod yn cael ei lusgo i rywle, i rywbeth. Yna, yn sydyn, dechreuodd y lloerennau newid eu lliw. Dawnsiodd, ysgwydodd, a chysgododd ar y waliau nes bod ystafell Siân wedi newid i ryw le nad oedd yno o'r blaen. Roedd yn wlad o liwiau hudolus.
+
+Eisteddodd Blodeuyn Cwsg ar sill y ffenestr, ac roedd awel feddal yn chwythu. "Ble ydw i?" gofynnodd Blodeuyn Cwsg, ei lais fel swn cloch bach.
+
+"Rwyt ti yn Wlad y Breuddwydion Dymunol a Lliwgar, wrth gwrs!" meddai llais swynol. Edrychodd Blodeuyn Cwsg o gwmpas. Seidr gwelodd gwmni o drysorau bach, wedi’u goleuo gan y lloerennau disglair. Ac yn sefyll o'i flaen roedd glöyn byw mawr, hardd, gyda hadau aur ar ei adenydd. "Fi ydw i'r Glöyn Byw Breuddwydion. Fi sy'n dod â'r breuddwydion i chi."
+
+"Breuddwydion?" gofynnodd Blodeuyn Cwsg, ei betalau yn crynu ychydig.
+
+"Ydw," atebodd y glöyn byw. "Yr holl freuddwydion dymunol sy'n cael eu cario ar draws y gwynt i blant fel Siân. A heddiw, byddi di'n cael taith i ddysgu sut i greu'r breuddwydion mwyaf hyfryd."
+
+Aeth y Glöyn Byw Breuddwydion ag Blodeuyn Cwsg ar daith dros y wlad gyfareddol hon. Aethant dros fynyddoedd siocled, lle roedd ffynnonau o eisin hufen. Teithiont ar hyd afonydd o sêr a glaniodd mewn coedwigoedd o gwm. Roedd coed yn cynhyrchu hufen iâ, a blodau'n canu caneuon melys.
+
+Ar eu taith gyntaf, fe gyrhaeddasant at dŷ bach wedi'i adeiladu o bisgedi sinsir. “Dyma Dŷ Breuddwydion y Lliwiau,” meddai’r glöyn byw. Y tu mewn, roedd plant bach yn cymysgu lliwiau â'i gilydd, gan ddefnyddio brwsys bach o wyniad. “Ewch, Blodeuyn Cwsg, ceisiwch greu breuddwyd i Siân."
+
+Cymerodd Blodeuyn Cwsg y brwsh. Penderfynodd greu breuddwyd am gael picnic gyda Siân ar lan y môr. Cymysgodd Blodeuyn Cwsg y glas tywyllaf ar gyfer y môr, y gwyn disgleiriaf ar gyfer yr ewyn, a’r melyn mwyaf heulog ar gyfer yr haul. Ychwanegodd ychydig o goch melys ar gyfer y mafon ar y pastai.
+
+Wrth i Blodeuyn Cwsg baentio, roedd yr holl liwiau'n teimlo’n fyw, yn byw. Wrth gwrs, yn ddigymell, roedd pawb eisiau helpu. Gwelodd glöynnod byw yn hedfan o gwmpas, yn llifo lliwiau i mewn i’r llun. Edrychodd Blodeuyn Cwsg, a dechreuodd chwerthin. Roedd eisoes yn gwybod byddai'r freuddwyd yma yn gwybod fel aur.
+
+Yna, esgorasant i dref ddifyr, gwlad fach a oedd yn llenwi â theganau a gemau. Roedd gan bob cartref anifeiliaid stwff. Anelodd y Glöyn Byw Breuddwydion at hen ddoliau pren yn chwarae teidwaith gyda babi draig a myffins a gwahanol amrywiaeth o bisgedi. "Ewch i mewn i ystafell y teganau," anogodd y glöyn byw. "Yma, mae angen i chi ychwanegu'r gwên at eich breuddwyd."
+
+Aeth Blodeuyn Cwsg i mewn i ystafell lachar o gynhesrwydd a llawenydd. Gweld anifeiliaid wedi'u stwffio'n fawr yn hedfan o amgylch llawenydd y plant bach a oedd yn chwarae. Roedd un ddoli yn edrych i lawr ac roedd ei gwen yn diflannu ychydig. Eisteddodd Blodeuyn Cwsg gyda hi, a dechreuodd sgyrsio. "Pam na fyddwch yn chwerthin?" gofynnodd.
+
+"Rwy'n brin, a dyna pam mae fy hen gwên yn ymddangos i golli hyder," atebodd y ddoli. "Dwi eisiau bod yn brydferth fel fy ffrindiau!"
+
+"Peidiwch â phoeni," meddai Blodeuyn Cwsg. "Chi sy'n harddaf i mi, ond gallaf eich helpu chi." Defnyddiodd Blodeuyn Cwsg yr awgrymiadau mwyaf gwefreiddiol i ddylunio'r ddoli. Defnyddiodd gwiwer fach am ychydig o lygaid glas mawr ac ychwanegodd fwswyr ysblennydd i ddod â gwên hardd yn ôl i wyneb y ddoli. Wrth iddi ychwanegu'r gwen arni, dechreuodd y ddoli ddisgleirio! Gydag wyneb newydd sbon, neidiodd y ddoli gyda'r plant.
+
+Teithiodd Blodeuyn Cwsg a’r Glöyn Byw Breuddwydion i ffynnon fach. “Dyma Ffynnon y Dymuniadau,” meddai’r glöyn byw. "Efallai bod yna ddymuniad penodol y dylai Siân fod yn breuddwydio amdano."
+
+Lleolwyd Blodeuyn Cwsg, yn ddyfal, a gofynnodd i'r ffynnon am ei help. "Dymunaf i Siân wybod y bydd pob peth yn iawn," sibrwd Blodeuyn Cwsg. “Ei dymuniad yw bod yn hapus am byth. Gall y Ffynnon, os yn ddigon siriol, greu’r freuddwyd sy’n gweddu.”
+
+Ar y pryd, yn rhyfedd, dechreuodd y dŵr ysgafnhau ac ysgafnhau. Yna, yn ei ddau safle, gwelodd sêr bach a oedd yn llifo dros y dŵr. Gydag olion y dŵr yn aros yn ei gylch, newidiodd ei siâp ac agorodd.
+
+Gwelodd Blodeuyn Cwsg y lliw yn llenwi ei betalau eto, a daeth pob petal yn arddangos lliw. “Dyna i gyd!” ebychodd y glöyn byw, ei adenydd yn fflapio’n gyffrous. “Rydym wedi creu breuddwyd hyfryd, llawen. Mae’n amser mynd adref!"
+
+Yna, yn sydyn, dechreuodd y golau lleihau. Roedd yr holl liwiau'n ymdoddi i un. Roedd Blodeuyn Cwsg yn teimlo bod ei hunan yn y dychwelyd i fodolaeth arall. Caeodd ei lygaid.
+
+Yn y bore, pan agorodd Siân ei llygaid, gwelodd Blodeuyn Cwsg yn eistedd ar y sill ffenestr. Roedd y petalau yn fwy disglair nag erioed o'r blaen. Dyfalodd Siân na chafodd mohoni erioed yn hardd, felly cododd ei llaw yn ysgafn i'r ystafell ac estyn y Blodeuyn Cwsg. Anadodd yn ddwfn.
+
+Ac yn y nos yna, pan aeth Siân i gysgu, daeth Blodeuyn Cwsg i’r bywyd, ac agorodd ei betalau yn ysgafn. Ond y tro hwn, roedd yn canu cân newydd, yn sôn am lan y môr gyda Siân, gyda’r haul yn disgleirio, gwen ar ei wyneb, ac ysgwyd bach yn yr eisin. Yn wir, yr eisin oedd y gorau a fu erioed! Ac yn bwysicach, roedd Siân yn breuddwydio'n hapus, gan wybod bod popeth yn iawn. Ac yna, ymddangosodd y Glöyn Byw Breuddwydion i sicrhau bod y freuddwydion newydd yn parhau am byth.
+</body>
+```

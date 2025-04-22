@@ -1,0 +1,37 @@
+<prompt>
+Please write a uncomplicated Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kouzelná putování malého kocoura, který se dostal až na Měsíc a zpět.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Kouzelná putování malého kocoura, který se dostal až na Měsíc a zpět.</title>
+<body>
+Míša byl malý, kočičí kluk s velkými, zelenými očima. Bydlel v útulném domečku se zahradou plnou růží, v krásné vesničce s názvem Slunéčko.  Míša miloval procházky po trávě, honění motýlů a především olizování deště, když se zvedal nad zem.
+
+Jednoho letního dne, když sluníčko svítilo ze všech sil a ptáčkové zpívali vylítané písně, se Míša rozhodl podniknout výpravu. Na okraj vesničky vedl starý dub, pod nímž se chvěly podivné světýlka.  Zvědavost ho ovládla a Míša se plazivým krokem blížil k tajemnému stromu.  Tam ležela stará, hnědá kniha s podivně lesklými stránkami. Na obálce stálo: „Kouzelná cesta na Měsíc.“
+
+Míša se s nedůvěřivým zvědavím  ohnul nad knížkou.  Stránky byly plné podivných obrazů a slovíček. Něco se v něm motalo a tlouklo, něco o velkém dobrodružství! Měl velkou chuť tu knihu otevřít! Stránky byly teplé a měkce padaly jako sametové látky. Míša se tiše podíval na krásný text: "Abyste se vydali na Měsíc, musíte nalézt sedm pokladů. Jsou ukryty v sedmi vesničkách kolem Slunéčka. Každý poklad se skrývá v odlišné kouzelné krajině. Potřebujete i vůli a statečnost!"
+
+Jeho oči se rozzářily.  Sedm vesniček, sedm úžasných a tajemných pokladů!  Vyskočil na nohy, s novou nadějí prošoupal se okolo stromu a skočil do akce. V první vesničce, která se jmenovala Zelené údolí, se Míša setkal se starou lesní vílou.  Prozradila mu, že prvním pokladem je šťastná srdeční květina. Míša si ji opatrně nasbíral.  Voněla jako letní slunce a léto samo.  Ještě ji držel, když mu do cesty vstoupila slepice a strážce vesničky, co jí radil, kde najít další poklady. Byla vděčná Míše a sdělila mu tajemství další vesnice.
+
+Míša cestoval od vesničky k vesničce, přes lesy z kouzelných hub, podél řeky s bublajícími kameny, přes pláně plné voňavých květů. V Kaštanové aleji se naučil zpívat kouzelný píseň stromů.  S každým pokladem, kterým se stal šťastnějším. Ve druhé vesničce našel zlaťák. V  Třetí se mu naskytnul zázrak ticho. Až ve čtvrté, Šesté, sedmé a osmé vesničce Míša našel poslední poklady, co ho dopraví k Měsíci!
+
+Až došel do poslední vesničky - na vrchu s jménem Kouzelné nebe. Zde se cítil unaveně, ale šťastně, s břichem plně pohádek. Míša s úsměvem stál na hraně hořkých větrů, s úsměvem stál na konci silnic a zkusil se naklonit k nejkrajším krajinám. V tomto okamžiku vtom uviděl kouzelný strom s zářícím plodem. Na plotě stál psaný zájem: "Měsíční lesklý dort".
+
+Na stromě rostla lahvička. Na lahvičce stál velký text, které vyčnívalo ze štěstí: "Přání pro cestu do nebe."  Míša si přál prožívat dobrodružství, jít na Měsíc a dostat se zpět domů v čas.  A když políbil lahvičku,  objevilo se tam před jeho zraky kouzelné světlo.
+
+Míša se ocitl v plavení, letělo na úžasném modrém větru a byl hotov ke svému tajemství. Během vteřiny stál na Měsíci! Obrovský, tichý Měsíc, pokrytý tichými hvězdami. Míša se procházel krajinou, která se tvořila z hvězdných prachu a tichu krásně zářících kamenech. Až si v nádherném světle uvědomil, jak vděčným člověkem je.
+
+Vypisoval do lesklých hvězd. "Děkuji!", "Jsem šťastný!" a "Mám rád své dobrodružství! Jsem doma!" Ale tam v očích hvězd, Míša pocítil ticho. Nebo to byl zvuk ticha a tajemství?
+
+Potom, se s lehkým vývojem, se vrátil domů přes hluboké tmavé nebe. Vzduch zaplněný zázrakem a ticho bylo s ním.
+
+Míša s potěšením a úžasem s námi uviděl v tichu s hvězdami obrovský, zářivý Měsíc, kde krásný opar stoupal a klesal mezi prašnou sluncovou bouři. Cesta, co ho učinila spokojeným, ho znovu potěšila po celou dlouhou dobu a věčně bude v srdci tichého a záhadného světa.  Míša se s novou radostí v srdci, zpět vrátil ke své rodině v Slunéčko!
+</body>

@@ -1,0 +1,43 @@
+<prompt>
+Please write a creative and original Estonian children's story that is at least 1000 words long.
+It must be completely written in proper Estonian (ET).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Taevavärvide ja nende loitsud'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>et</lang_id>
+
+<title>Taevavärvide ja nende loitsud</title>
+<body>
+Kord ammu, kui päike veel maalis taevast õrnade roosade ja kuldsete triipudega, elas linnas nimega Vikerkaarlinn väike tüdruk nimega Liisi. Liisi silmad olid sama sinised kui suvetaevas ja juuksed sama kuldsed kui päikesekiired. Ta armastas kõike, mis kiirgades värviliseks tegi.
+
+Liisi elas värviküllases majas, mille seinad olid värvitud nii, et need muutusid kogu päeva vältel erinevateks värvideks.  Hommikul oli maja roheline, õhtul aga sügav sinine, täis tähistaeva salapärast sära. Kõik Vikerkaarlinna elanikud olid värvikad ja erilised, sest nad olid õppinud värvide salapäraseid loitse.
+
+Liisi oli aga teistsugune. Ta ei suutnud värvide loitse õppida.  Muud lapsed lõid oma kätte sädelevat kollat värvi ja vedelikuga täidetud pudeli, mis muutis kogu ümbruse kuldseks.  Liisi aga nägi ainult värvi segadust.  Ta tahtis kõigepealt aru saada, kuidas värvid tekivad.
+
+Ühel päeval leidis Liisi vana, kullast raamatust salapärase märkuse: „Taevavärvide saladus peitub mitte loitsudes, vaid südame värvitoonides." Liisi mõtles selle üle pikalt,  põrgutades oma meelt. Mis on südame värvitoonid?  Kas need on tunne, mida ta tunneb, kui tal on hea tuju? Või kuidas ta näeb värvi, kui tal on halb tuju?  
+
+Ta otsustas külastada vana, kõverdatud puu. See vana puu seisis linna serval ja oli nii vana, et mäletas veel aegu, mil taevas oli ainult hall.  Puude lehed olid erksavärvilised ning õrnad, aga Liisi ei tundnud neid üldse.
+
+"Tere, vana puu," lausus Liisi.  "Ma ei saa aru värvide loitsudest.  Kuidas saab värv tekkida?"
+
+Vana puu raputas õrnalt oma kõrgeid oksasid.  "Värvid ei tekita loitsud, Liisi," vastas ta. "Värvid tekivad lugudest, mida südamed räägivad."
+
+Liisi mõtles. Ta mäletas, kuidas tema vanaema oli talle loetud lugusid valgete lumikildude ja siniste taevade ning roheliste metsade kohta. Ta mäletas õnnelikke naeratusid ja kurvastavaid pilke.
+
+"Aga kuidas?", küsis Liisi. "Kuidas lugudest saab värvi?"
+
+"Igal tunnel on oma värvitoon," selgitas vana puu.  "Kui tunned rõõmu, näed maailma roosena. Kui tunned kurbust, siis näed maailma hallikana.  Kui oled kurvastanud, võid näha valgust ja uut algust.  Kui tunned rahu, näed maailma rahulikult ja rahulikuna."
+
+Liisi jooksis tagasi linna. Ta jooksis kogu oma hingestava energiaga, sest tal oli ootamatu tunne, mis oli nii uus ja võimas. Ta leidis oma emal lillede aia, millel oli erinevaid värve.  Ta nägi oma emal rõõmsat naeratust ja mõistis.  See oli värv, mis tuli ilusa lugust.
+
+Ta külastas oma sõpru.  Ta nägi üksinda istuvat lapse ja tema kurbust ja mõistis, et see oli värv, mis oli tulnud kurvast lugust. Ta nägi õnnelikku mängu ja mõistis, et see oli värv, mis tuli õnnelikust lugust. Ta nägi kõik värvid, mis olid tulnud lugudest, mis olid tema südames.
+
+Liisi õppis iga päev uut värvi, iga päev uut lugu. Ta ei osanud enam värvide loitse, aga ta nägi neid kõikides asjades.  Ta nägi värvi oma sõprade naeratustes, kurbust oma vanemate silmades ja lootust oma unistuste täitumises.
+
+Ta õppis, et värvid ei tulnud mitte raamatutest ega loitsudest, vaid  inimeste südametest ja lugudest, mida need rääkisid.  Liisi sai Vikerkaarlinna värviküllasesse elusse.  Ta hakkas värve nägema kõiges ümberringi: metsa varjus, kalliduse peegelduses, pilvedes ja tuuleiilid. Ta ei olnud enam lihtsalt Liisi, vaid Taevavärvide Kõneleja, sest iga tema sõna, iga tema naeratus, iga tema pisar oli värvi.  Ja nii elas Liisi, oma südames, värviküllases maailmas.
+</body>

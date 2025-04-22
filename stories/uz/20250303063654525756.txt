@@ -1,0 +1,41 @@
+<prompt>
+Please write a simple and easy-to-follow Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Samarqand bozoridagi sehrli chirog‘'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>uz</lang_id>
+
+<title>Samarqand bozoridagi sehrli chirog‘</title>
+<body>Uzoq-zamonlar oldin, go‘zal Samarqand shahrida katta bozor bo‘lib, unda turli xil savdo mollari sotilardi. Bozorda har xil rangdagi matolar, zargarlik buyumlari, xushbo‘y ovqatlar va boshqa narsalar sotilardi. Lekin bozorda bitta maxsus do‘kon bor edi, uning nomi “Sehrli chirog‘” edi.
+
+Bu do‘konning egasi qariya bo‘lib, uning ismi Xo‘ja edi. Xo‘ja juda mehribon va yaxshi odam edi, u hamma odamga yaxshilik qilardi. Xo‘ja do‘konida turli xil sehrli narsalar bor edi, lekin eng sehrlisidir chirog‘. Bu chirog‘ni Xo‘ja o‘z qo‘li bilan yasagan edi, u juda go‘zal va rangdor edi.
+
+Bir kuni, bozorda bir yosh o‘g‘il paydo bo‘ldi, uning ismi Doston edi. Doston juda qiziquvchan va jigarxoh o‘g‘il edi, u hamma narsani bilishni xohlardi. U bozorda sayr qilib, turli xil narsalarni ko‘rib, savdo mollari haqida so‘radi. Lekin Doston hech narsani xarid qilmadi, chunki u juda kambag‘al edi.
+
+Doston Xo‘janing do‘koniga kirib, sehrli chirog‘ni ko‘rdi. U chirog‘ni juda yoqtirdi va Xo‘jadan uni sotib olishni so‘radi. Lekin Xo‘ja Dostonga chirog‘ni sotishni rad etdi, chunki u chirog‘ni juda qimmatli deb hisoblardi.
+
+Doston juda g‘ussa bo‘ldi va Xo‘jadan chirog‘ni o‘g‘irlashga qaror qildi. U tun bo‘yi Xo‘janing do‘koniga kirib, chirog‘ni o‘g‘rib oldi. Lekin Doston chirog‘ni o‘g‘irganida, u juda katta xato qildi, chunki chirog‘ sehrli edi.
+
+Chirog‘ Dostonni sehrli dunyoga olib ketdi, u yerda juda ko‘p sehrli narsalar bor edi. Doston sehrli dunyoda sayr qilib, turli xil sehrli narsalarni ko‘rdi. U sehrli qushlarni, sehrli hayvonlarni va sehrli odamlarni ko‘rdi.
+
+Lekin Doston sehrli dunyoda juda oz vaqt qoldi, chunki u juda tez qaytib kelishi kerak edi. Chirog‘ Dostonni Samarqandga qaytarib oldi, u yerda Xo‘ja Dostonni kutib olardi. Xo‘ja Dostonni ko‘rib, juda g‘azablandi, chunki Doston uning chirog‘ini o‘g‘irgan edi.
+
+Xo‘ja Dostonga juda qattiq jazolashni xohlardi, lekin Doston Xo‘jadan afv so‘radi. Xo‘ja Dostonni afv qildi, lekin u Dostonga bir shart qo‘ydi. Xo‘ja Dostonni sehrli chirog‘ni saqlashga buyurdi, chunki chirog‘ juda sehrli edi.
+
+Doston sehrli chirog‘ni saqlashga rozi bo‘ldi, chunki u juda mehribon o‘g‘il edi. U chirog‘ni Xo‘janing do‘koniga qaytarib oldi, u yerda Xo‘ja Dostonni kutib olardi. Xo‘ja Dostonni ko‘rib, juda xursand bo‘ldi, chunki Doston uning chirog‘ini qaytarib bergan edi.
+
+Xo‘ja Dostonni sehrli chirog‘ haqida hikoya qildi, chunki Doston chirog‘ni juda yoqtirardi. Xo‘ja Dostonga chirog‘ning sehrli kuchini aytib berdi, chunki chirog‘ juda qimmatli edi. Doston chirog‘ning sehrli kuchini eshitib, juda hayron bo‘ldi, chunki u chirog‘ning sehrli kuchini bilmasdi.
+
+Xo‘ja Dostonga chirog‘ning sehrli kuchini ishlatishni o‘rgatdi, chunki Doston chirog‘ni juda yoqtirardi. Doston chirog‘ning sehrli kuchini ishlatib, juda ko‘p sehrli narsalarni ko‘rdi. U sehrli qushlarni, sehrli hayvonlarni va sehrli odamlarni ko‘rdi.
+
+Doston sehrli chirog‘ni saqlashda davom etdi, chunki u juda mehribon o‘g‘il edi. U chirog‘ni Xo‘janing do‘konida saqlardi, u yerda Xo‘ja Dostonni kutib olardi. Xo‘ja Dostonni ko‘rib, juda xursand bo‘ldi, chunki Doston uning chirog‘ini saqlardi.
+
+Va shu tariqa, Doston sehrli chirog‘ni saqlashda davom etdi, chunki u juda mehribon o‘g‘il edi. U chirog‘ni Xo‘janing do‘konida saqlardi, u yerda Xo‘ja Dostonni kutib olardi. Xo‘ja Dostonni ko‘rib, juda xursand bo‘ldi, chunki Doston uning chirog‘ini saqlardi.
+
+O‘sha vaqtdan boshlab, Doston va Xo‘ja juda yaqin do‘st bo‘lishdi, chunki ular bir-birlarini juda yoqtirardi. Ular birgalikda sehrli chirog‘ni saqlashdi, chunki chirog‘ juda sehrli edi. Va shu tariqa, sehrli chirog‘ Samarqand bozorining eng sehrli narsasiga aylandi, chunki u juda qimmatli edi.</body>

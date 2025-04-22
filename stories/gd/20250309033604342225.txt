@@ -1,0 +1,43 @@
+<prompt>
+Please write a uncomplicated Scottish Gaelic children's story that is at least 1000 words long.
+It must be completely written in proper Scottish Gaelic (GD).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'An sgeulachd mu na h-innealan-ciùil a bha beò agus a’ seinn còmhla.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>gd</lang_id>
+
+<title>An sgeulachd mu na h-innealan-ciùil a bha beò agus a’ seinn còmhla.</title><body>
+Anns an dùthaich bhig, a bha làn de chrainn uaine agus sruthanaibh frasda, bha baile beag ann, an t-ainm baile Creagach.  Bha sgeulachd beò ann am baile Creagach, nach robh i cho furasta a chluinntinn, ach anns a’ chridhe mhòr aice, bha beannachdan aig gach neach.
+
+Bha inneal-ciùil ann an baile Creagach, a bha uamhlach agus math. Bha an pianò dearg a’ cur a chuid sùla dorcha, le bhith a’ seinn na sgeulachdan a bha a’ cur fàilte air a ghràdh gach latha. Bha am buachaille òg, uamhlach, agus airson a h-uile bàs a bha ann, bha a ghuth blàth, a bhios gu math co-fhuil. Bha e cuideachd cho fada 's a bhiodh an oidhche airson a sgrìobh air. Ach bha gach uile sgrìobhaidh ann an cuirm àrd agus rùmha, ag iarraidh feadhainn fada gus seinn an làthair.
+
+Bha eagal aig an uilleann sgàthannach airson sgeulachd a dhèanamh; cha robh e comasach air bàs a chuir an cèill ach leis a chuid sgrìobhaidhean buille buille, ge b’ fhasa airson uile choirps. Bha e an-còmhnaidh an dùil gum biodh an cleasaiche a ’dèanamh bàs agus gu b’ urrainn dhoibh fàilte fhaighinn bho dhaoine uile.  Bha e uile anns na làmhan. 
+
+Bha fìor-thionsaig ann am baile Creagach. Bhiodh buailteach an fhiaclan agus gach neach eile. B’ urrainn dhoibh na fuaimean a chumail agus gach sgeulachd ann an gach dath a dhèanamh fìor, aig nach biodh iad an-còmhnaidh marbh ach airson bith.
+
+Aon là, dh’ iarr buachaille òg an pianò dearg sgeulachd mhòr a chruinneachadh.
+
+"Dè a thèid a dhèanamh," chuir an pianò dearg a-steach. "Chaidh mi a-mach a-nis gus am fiosraichinn."
+
+Bha am buachaille òg uamhlach airson an duilgheadas mhòr, ach chunnaic e gu robh buille aig an uilleann sgàthannach. Thuirt e gu robh sgeulachd ann an gach duilleag, air gach cruinne-cè.  Dh'aidich e gun tàinig còir chuid sùla ann. Agus thuirt e gu robh e gu mòr.
+
+"Dè mu d’ chàraidean, a 'bhualaidh?" chuir an pianò dearg ceist. "Is fìor iad."
+
+"Fìor iad.  Aig còmhradh." Fhreagair am buachaille. 
+
+Ach bha buaidh aige. Thachair bàs, agus ghlac na h-innealan-ciùil a’ chuideam agus an gaol airson cuid a bhualadh gu bàs agus gun dùil a bheireadh iad don deasg seo. 
+
+Thòisich iad a’ seinn còmhla.  Bha an uilleann sgàthannach a’ bualadh noaidean sìos airson sgeulachdan air bòrd. Bhios na ceòl a tha an pianò dearg a’ cur a mach fuaim uisge suas ann an dùrachdan, agus bha iad ga chomharrachadh fìor. Thàinig cuid an dàrna h-uinneach ag ionnsachadh gu leòr, bho chàraidean gu bàs a bhios an uair sin a’ tuigsinn.
+
+Bha am buachaille òg a’ cluinntinn a h-uile rud, ach dh’ fhàs e greimeach nuair a dh’fhuirich na fuaimean dìreach gu na làmhan aige. Bha fàileadh an dàrna fhear aig an pianò dearg a dh’ionnsaich am buachaille a’ chuspair an oidhche shuas, air a thoirt airson faireachdainn a bhith ann an dìreach na h-amannan.
+
+Chuir iad fuaim is fuaim còmhla anns an t-sgeulachd mòr a bha a’ seinn air bòrd. Thachair iad. Ach bha iad a-staigh an cridhe. Fuaimean a dh'ionnsaich e gu cruinn, bha iad sin aig bàs. Agus b’àill nach biodh aon bhall ga chuideachadh aon latha no nach fhaca. Fuar e bàs, ach thug iad am beannachadh dha fhèin marbh.
+
+
+Bha sgeulachd mòr ann am baile Creagach, gu ruige an latha seo. Agus bha na h-innealan-ciùil beò, a’ seinn a-riamh còmhla, ag ràdh gu bheil an cruth fìrinneach ag èirigh gach latha. Bha bàs an cuid sùla beò anns gach seinneach an còmhla a thug air fhàileadh am beannachadh. An rud as cudromaiche a chunnaic am buachaille òg.
+</body>

@@ -1,0 +1,43 @@
+<prompt>
+Please write a educational Esperanto children's story that is at least 1000 words long.
+It must be completely written in proper Esperanto (EO).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kiel Mia Urso Lernis Danci Salson'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>eo</lang_id>
+
+<title>Kiel Mia Urso Lernis Danci Salson</title>
+<body>En urbo nomita Verda Valo, loĝis urso nomita Bruno. Bruno estis tre amika kaj ŝatis lerni novajn aferojn. Li ofte vizitis la lernejon de la urbo, kie li aŭdis pri diversaj subjektoj, de matematiko ĝis muziko.
+
+Unu tago, dum promeno, Bruno aŭdis la sonon de gitaro kaj tamburoj. Li sekvis la muzikon kaj trovis sin antaŭ dancsalono. La salono estis plena de homoj, kiuj dancis kun granda ĝojo. Bruno estis fascinita de la movoj kaj la ritmo. Li decidis eniri kaj scii pli pri tiu ĉi dancstilo.
+
+Dentristo, kiu ankaŭ estis dancinstruisto, vidis Brunon kaj ekkris: "Ho, urso! Ĉu vi volas lerni danci?" Bruno respondis: "Jes, mi volas lerni. Kio estas la nomo de tiu ĉi dancstilo?" La dentristo respondis: "Tiu ĉi dancstilo nomiĝas Salso. Ĝi estas tre populara en multaj landoj kaj estas konata pro sia energia kaj vivplena ritmo."
+
+Bruno estis tre entuziasma kaj decidis komenci la lecionon. La dentristo instruis al li la bazajn paŝojn de Salso, kaj Bruno lernis tre rapide. Li estis tre koordinata kaj havis bonan ritmon. Post kelkaj lecionoj, Bruno jam povis danci kun la aliaj studentoj.
+
+Sed Bruno ne estis kontenta kun nur danci. Li volis scii pli pri la historio de Salso. La dentristo rakontis al li, ke Salso originis en Latinameriko, precipe en Kubo kaj Porto-Riko. Li ankaŭ rakontis, ke Salso estis influita de afrikaj kaj eŭropaj ritmoj.
+
+Bruno estis tre interesa kaj demandis: "Kio estas la diferenco inter la diversaj stiloj de Salso?" La dentristo respondis: "Ekzistas multaj stiloj de Salso, kiel Kubana Salso, Porto-Rika Salso kaj Kolombia Salso. Ĉiu stilo havas sian propran karakteron kaj ritmon."
+
+Bruno decidis lerni pli pri ĉiu stilo kaj komencis esplori la muzikon kaj la dancmovojn de ĉiu stilo. Li malkovris, ke Kubana Salso estis tre energia kaj havis multajn turnojn, dum Porto-Rika Salso estis pli malrapida kaj havis pli da stilo.
+
+Unu tago, la dentristo proponis, ke Bruno partoprenu en danckonkurso. Bruno estis tre nervoza, sed ankaŭ tre entuziasma. Li decidis partopreni kaj komencis praktiki siajn dancmovojn.
+
+La tago de la konkurso alvenis kaj la salono estis plena de homoj. Bruno estis tre nervoza, sed kiam la muziko komencis, li komencis danci kun granda ĝojo. Li dancis kun tuta sia koro kaj montris ĉiujn siajn lernitajn movojn.
+
+La juĝistoj estis tre impresitaj de la dancado de Bruno kaj li gajnis la unuan premion. La homoj en la salono aplaŭdis kaj kris: "Urso, urso, urso! Vi estas la plej bona dancisto!"
+
+Bruno estis tre feliĉa kaj dankis la dentriston kaj la aliaj studentojn, kiuj helpis lin lerni danci. Li ankaŭ dankis la muzikon kaj la ritmon, kiuj inspiris lin danci.
+
+De tiam, Bruno estis konata kiel la "Dancanta Urso" kaj li daŭre dancis en la salono. Li ankaŭ instruis aliaj ursoj kaj bestoj, kiuj volis lerni danci. Kaj li vivis feliĉa, kun la muziko kaj la dancado en sia koro.
+
+Kaj tiel, la historio de Bruno, la dancanta urso, instruis al ni, ke kun dediĉo kaj pasio, ni povas lerni ion novan kaj fariĝi grandaj en ĝi. Ĉu vi volas lerni danci Salson? Komenciĝu kun la bazaj paŝoj kaj praktiki kun muziko. Vi ne scias, kiom da ĝojo kaj feliĉo vi povos trovi en la mondo de dancado.
+
+Fine, Bruno kaj liaj amikoj decidis organizi dancfeston, kie ĉiuj povus veni kaj danci. La festo estis tre sukcesa kaj ĉiuj havis grandan ĝojon. Bruno dankis ĉiujn, kiuj partoprenis kaj promesis, ke li daŭre instruos kaj dancos por ĉiuj.
+
+Kaj nun, se vi iam estas en Verda Valo, iru viziti la dancsalonon kaj demandu pri Bruno, la dancanta urso. Li certe invitos vin danci kaj vi povos sperti la ĝojon de Salso. Ĝis la revido, dancantoj! Kun Salso en via koro, vi povos konkeri la mondon.</body>

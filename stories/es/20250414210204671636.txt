@@ -1,0 +1,74 @@
+<prompt>
+Please write a silly Spanish children's story that is at least 1000 words long.
+It must be completely written in proper Spanish (ES).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'El mirlo cantarín que despertaba la primavera con su canto alegre.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>es</lang_id>
+
+```xml
+<title>El mirlo cantarín que despertaba la primavera con su canto alegre.</title>
+<body>
+Había una vez, en un valle escondido entre montañas color malva y lila, un mirlo muy especial. No era un mirlo cualquiera; ¡era un mirlo cantarín! Su canto, tan alegre y brillante, era famoso en todo el valle. Pero lo más asombroso era que su canto tenía un poder mágico: despertaba la primavera.
+
+Sí, así es. Cada año, cuando los inviernos largos y grises se resistían a soltar su agarre, el mirlo, cuyo nombre era Pepito, saltaba a la rama más alta del manzano más florido y entonaba su canción. Y al instante, los capullos se abrían, las flores brotaban y el valle se llenaba de vida y color.
+
+Pepito era un mirlo pequeño, con plumas negras azabache y un pico naranja como una zanahoria jugosa. Era un poco despistado, a decir verdad. A veces olvidaba dónde había dejado su desayuno de gusanos (¡le encantaban los gusanos, especialmente los que tenían un sombrero de copa!). Otras veces, se caía de las ramas mientras cantaba, pero eso nunca le impedía seguir con su misión primaveral.
+
+Vivía en un nido hecho de ramitas y barro, forrado con suaves plumas de pato, en lo alto del manzano. Compartía el árbol con una ardilla parlanchina llamada Rufina, que siempre estaba contándole chistes malos, y con una familia de orugas muy comilonas.
+
+Un día, el invierno, aburrido de su monotonía y enfadado porque Pepito le robaba la diversión, decidió tramar un plan malvado. Se disfrazó de abuela, con un abrigo de nieve, un gorro de hielo y una voz grave y siseante. Se acercó a Pepito, que estaba a punto de comer un gusano con sombrero de copa, y le dijo:
+
+– ¡Ay, mirlo cantarín! Qué canto tan aburrido tienes. Necesitas aprender a cantar canciones más… invernales.
+
+Pepito, que era muy confiado y un poco crédulo, se sintió inseguro.
+
+– ¿En serio, abuela? ¿Crees que mi canto es aburrido?
+
+La abuela, con su voz de hielo, asintió. – Sí, muy aburrido. Necesitas canciones tristes, sobre la nieve y el frío, y sobre… ¡gusanos congelados!
+
+Pepito, asustado por la crítica, prometió intentar cantar canciones invernales. Y así lo hizo. Intentó entonar canciones sobre el frío, sobre la nieve, sobre los gusanos congelados… pero no le salían bien. Sus canciones eran un desastre. Las flores se marchitaban, el sol se escondía y las risas del valle se silenciaban.
+
+La ardilla Rufina, al ver la tristeza del valle, se enfadó mucho. – ¡Pepito, deja de cantar esas tonterías! ¡Estás estropeando la primavera! – exclamó.
+
+Las orugas, que adoraban comer hojas verdes y jugosas, empezaron a estar preocupadas. – ¡Nuestras hojas! ¡Nuestras hojas! – gimieron, con lágrimas de rocío en sus ojos.
+
+Pepito, desanimado y frustrado, se encerró en su nido. No quería cantar más, no quería estropear más la primavera.
+
+Mientras tanto, la abuela, la cual era realmente el invierno disfrazado, se frotaba las manos con malicia. – ¡Ja, ja! Ahora nadie podrá despertar la primavera. ¡El invierno reinará para siempre!
+
+Pero la ardilla Rufina, decidida a solucionar el problema, ideó un plan. – ¡Necesitamos que Pepito cante como siempre! ¡Necesitamos la alegría de su canto! – le dijo a las orugas.
+
+Las orugas, después de mucho pensar (eran muy lentas, pero pensaban con mucho cuidado), tuvieron una idea. – ¡Podemos ayudar! ¡Podemos recordar a Pepito lo bueno de la primavera!
+
+Así, la ardilla Rufina y las orugas, se adentraron en el nido de Pepito. Lo encontraron encogido, cubierto con sus plumas, totalmente desanimado.
+
+– Pepito – dijo Rufina – Sabes que el invierno es un gruñón, ¿verdad? Y las abuelas… ¡nunca son lo que parecen! ¡Esa abuela era el invierno!
+
+– ¿El invierno? – preguntó Pepito, asustado.
+
+– ¡Sí! – respondió Rufina – Y te engañó para que cantaras canciones tristes. ¡Pero nosotros sabemos lo que necesitamos!
+
+Las orugas, moviéndose lentamente, empezaron a contarle a Pepito las maravillas de la primavera: la luz del sol cálida en la piel, el olor a flores frescas, el sabor dulce de las fresas, la alegría de las mariposas revoloteando en el aire, los gusanos con sombreros de copa…
+
+Pepito escuchó con atención, sus ojitos brillando de nuevo. Recordó la felicidad que sentía al cantar para despertar la primavera. Recordó la alegría que sentía al ver florecer las flores y sonreír a todos.
+
+De repente, su pico se abrió, y una pequeña melodía, tímida al principio, empezó a salir de su garganta. La ardilla Rufina y las orugas animaban a Pepito, repitiéndole: – ¡Canta! ¡Canta como siempre! ¡Despierta la primavera!
+
+Poco a poco, la melodía se hizo más fuerte y brillante, más alegre y vibrante. El canto del mirlo resonó por todo el valle. Las flores que se habían marchitado comenzaron a revivir, abriendo sus pétalos. El sol, al escuchar la música, rompió las nubes y sus rayos dorados inundaron el valle.
+
+¡Y entonces ocurrió! El mirlo, con toda la fuerza de su corazón, cantó la canción que despertaba la primavera. Sus notas llenaron el aire, vibrando con la magia de la vida. Las hojas de los árboles reverdecieron con rapidez, los pájaros comenzaron a cantar y el valle entero se transformó en un espectáculo de color y alegría.
+
+El invierno, al escuchar el canto del mirlo, sintió un escalofrío y desapareció, derritiéndose como la nieve bajo el sol de la primavera.
+
+Pepito, al darse cuenta de que había recuperado su poder, sonrió. Ya no se preocuparía por los consejos de nadie, ¡sino que siempre seguiría cantando su canción!
+
+Desde ese día, Pepito el mirlo cantarín continuó despertando la primavera con su canto. Y, de vez en cuando, todavía se caía de las ramas y olvidaba dónde había dejado sus gusanos. Pero ya nada importaba, porque sabía que su canto alegre traía la magia y la alegría al valle cada año. Y siempre, cada primavera, la ardilla Rufina y las orugas comilonas, celebraban el regreso de Pepito y la llegada de las flores con una gran fiesta, ¡con muchos gusanos con sombreros de copa!
+Y colorín colorado, este cuento se ha acabado.
+</body>
+```

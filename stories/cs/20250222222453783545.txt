@@ -1,0 +1,35 @@
+<prompt>
+Please write a fun and entertaining Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Český lidový hrdina na cestě za štěstím'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Český lidový hrdina na cestě za štěstím</title>
+<body>
+Honza, chlapec s očima jako modré jezero a vlasy jako sluncem prosvětlené obilí, se probudil s úsměvem.  Slunce, rudé jako jablíčko z Jizerských hor, se probouzelo s ním.  V srdci Honzy, plném naděje jako pohádková zahrada, se zrodila myšlenka.  Chtěl najít štěstí.  Ne takové obyčejné štěstí, jaké mají všichni, ale takové, které svítí jako ohniště v chladném zimním večeru.
+
+Honza si oblékl své staré, ale stále pevné boty, které pro něj ušila babička z koží z lesních zvířat.  Do batohu si uložil sušená jablíčka, lískové oříšky, které mu dal dědeček z lesa, a hrst ječmene pro chudé ptáčky.  V kapse si schoval malou, ale neuvěřitelně hlučnou píšťalku, která uměla napodobit zpěv všech ptáků v Čechách.
+
+Jeho cesta začala u rybníka, kde plavaly kachny s krásně žlutými zobáky.  Honza s nimi promluvil.  "Dobré ráno, krásné kachny," pozdravil.  "Kam se vydáváte?"  Kachny se na sebe podívaly s tichým kvíknutím a pak se rozletěly směrem k lesu.  Honza pochopil, že štěstí se skrývá někde v hlubokém lese.
+
+V lese se Honza setkal s medvědem, který se vynasnažil ukrást jeho jablíčka.  Honza ale z píšťalky zahrají medvědí píseň, tak krásnou a strhující, že medvěd omdlel.  Poté Honza medvěda probudil a ten mu s úsměvem nabídl sladké lesní plody.
+
+Daleko za lesem, u stinné skalní stěny, potkal Honzu vlk.  Vlk se Honzovi snažil ukrást jeho lískové oříšky.  Honza z píšťalky ale zahrají vlkodavskou píseň, tak zlověstnou a hroznou, že vlk okamžitě zmizel do svého doupěte.
+
+Na cestě za štěstím Honza potkal starou, moudrou lišku.  "Sláva, malý hrdino," usmála se liška. "Štěstí není na jediné cestě. Je to jako duha, skrývá se a objevuje."  Liška mu ukázala cestičku přes skalnaté vrcholky hor.
+
+Na vrcholu hory, u bájného pramene, stál krásný vodopád.  A uprostřed vodopádu, na zeleném kamínku, seděl malý, štíhlý chlapec.  Honza ho poznal.  Byl to on sám, jenom malý a slabý.  V jeho očích se zrcadily obavy a strach.
+
+Honza se k němu přiblížil.  "Neboj se," řekl mu. "Štěstí není dárek, ale cesta.  Jsou to radosti z malých věcí, úsměvy známých tváří, a pocit, že jsi k něčemu užitečný."  Honza mu pomohl s těžkým kamenem a společně s ním ho přemístili do bezpečnějšího místa.
+
+Pak si Honza uvědomil, že štěstí je uvnitř.  Je to pocit radosti a spokojenosti, kterou cítíte, když pomáháte druhým, když se díváte na západ slunce nad Českým krajem, a když si uvědomíte, že jste šťastný s tím, kým jste.
+
+Honza se usmíval.  V srdci cítil teplo a štěstí, které svítilo jako malé sluníčko.  S úsměvem se vrátil do svého domova, plný radosti a nových sil.  Věděl, že štěstí není cíl, ale cesta plná krásných zážitků.  A že nejlepší cesta do štěstí vede skrz laskavost, odvahu a hluboký respekt k přírodě.
+</body>

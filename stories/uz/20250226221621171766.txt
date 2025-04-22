@@ -1,0 +1,57 @@
+<prompt>
+Please write a timeless Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Baland Tog‘larda Topilgan Do‘stlik'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>uz</lang_id>
+
+<title>Baland Tog‘larda Topilgan Do‘stlik</title>
+<body>
+Qoraqo‘rg‘on tog‘larining yon bag‘rida, bulutlar bilan o‘ynashadigan,  shirin suvli daryolar oqib o‘tuvchi biror joy bor edi.  O‘sha tog‘larda,  daraxtlar orasida,  uchta kichkina cho‘chqa,  Ismoil,  Melika va Shohrux yashagan. Ularning kichik ormonlari ham, katta qalblari ham bor edi.
+
+
+Ismoil – ayniqsa ajoyib qora rangli cho‘chqa edi. U qattiq ishchi, har doim har qanday vazifani ham samarali bajarishga intilar edi.  U juda katta qulaylikka ega edi – juda chiroyli qurol bilan  uchta ko‘zlarida juda ko‘p hayajon  birlashganini  bilishar edi.
+
+Melika esa – silliq,  yumshoq qora to‘qimadan qilingan go‘zal qiz cho‘chqasi edi.  U har doim o‘z atrofida tabiat go‘zalligiga quvonish bilan qaraydi,  kuyoshning nurini ko‘p o‘ynab olishni yoqtiradi va boshqalarni qushiqlarga  etab, g‘oyat  o‘ziga xos uslubda  yuradi. Uning og‘zidan  hamisha kulgi oqib turardi, chunki  Melika har qanday  qiyin vaziyatdan  ham yoqimli qilib chiqardi.
+
+
+Shohrux esa, ularning ikkalasidan ham katta cho‘chqa edi va u doimo halol  yo‘ldan yurgan holda har doim hammaga bir tekis yordam bera olishi uchun tinimsiz kuch sarflardi.
+
+
+Kunlardan birida,  tog‘lar yuqori qismida, qor va yomg‘ir ortiqcha kuchli bo‘ldi. Qishki ob-havo og‘irlashib, o‘rmon yo‘llarini  yomon holga keltirdi va uzoqqa borish qiyin bo‘ldi. Uch do‘st to‘planganda, har birining yuzlarida  bir xil tashvishlar qaralardi.
+
+
+"Qanday qilib biz qish bo‘roni ichidan omon qolish mumkin?", dedi Ismoil, har qanday ob-havoda, uyqudan oldin har doim qurol va niyatlariga amal qilishni  yoqtirgan odam.
+
+
+"Uzoq safarga chiqishga qoldim, lekin siz bilan juda xursandman,"  dedi Melika,   har qanday musiqa asbobiga  va  uch qanotli oyoqqa ham ko‘p ishonarli xotirasi  bo‘lishini ko‘rsatadigan kishilar.
+
+
+"Biz birga bo'lsak, barchasi  hal bo'ladi, qo'rqmang",  deb javob berdi Shohrux.  U doimo qolgan hammaga yaxshi narsalar qiladigan odam edi va qaytgan yondashuvini yoqtirgan edi. U o'zining yaxshi ish qilish  mahoratiga ishonar, hatto eng qiyin to'siqlardan ham o'tishga ishonar edi.
+
+
+Ular tog‘ orqali o‘tishdan o‘zi ko‘rganidan  haqiqatiga qarab halollik qoidasi asosida ish ko‘rganini his qilib yordamlashadi. Ishchi, qo'y va ayiq, tog‘lar balandligiga chiqib,  qish bo‘roni qoqib qatnashganlariga katta  sa'y bilan   yordam berishdi va hattoki yo‘q  yuz  to‘rtta  tushigan  ham bo'ldi.
+
+
+Daraxtlar ichiga oqib kelayotgan bir daryoni ko'rgani,  chunki cho‘chqalar,  suvni o‘rganib borishardi, hammaga o‘zini  birma-bir ko'rganini qabul qilib olgani bir xil muhimlikka ega ekanligini  eslatib turadi.  Barcha do‘stlik o'z o'rnini qidirib topganidek,  do‘stlik hammaga ajoyib  dengizdir.
+
+
+Ularning ko‘ziga juda ko‘p odamlarni qo‘yishdi.  Bu cho‘chqalarga yordam qilish qiyin bo‘lishi mumkin edi. Biroq, ular,  butun qiyin vaziyatlarda va tog‘lar oqishi orqali ularning yuragi, ularning fikrlarini bilishdan, his etishdan va shuningdek,   dushmandan  himoya qilmaslikdan o'tishdi.
+
+
+
+Ularning sa'y-harakatlari  jamlamaga va'da bilan to'lib ketdi.  Odamlar ularning do'stligini juda  qat'iy qilib  his etardi. Do'stlik to'planib,  bir joyga yaqinlashdi, shundan so'ng  har biriga   tushunarli bo'lgan bir uyda birlashdi.
+
+
+
+Baland tog‘larda ular do'stlik  topdi. Ular birga bo'lib,  qor va  quruqlik bo'ronidan, qurol  qochib,  o'z  tog'lariga o'z vaqtida   kelishgan edi. Ularning hissiyotlar  va  do‘stlik   hammaga,  har bir  kichkina cho‘chqaga va  har  biriga  namuna bo'ldi.  Ular  har doim  birga bo‘lib, birga muvaffaqiyat qozonishlariga ishonishlariga his qildi.  Va   tog‘lar  o'shanday  chigo'ntalarga aylantirildi.
+
+
+Ular  do'stlaridan birlashganligidan xursand edi.   Yilning istalgan vaqti, qashshoqlikda  va baxtda  birlashgan  do‘stlar, hech qachon  ularda qo‘shma ishonch  yo‘qotilmaydi.
+</body>

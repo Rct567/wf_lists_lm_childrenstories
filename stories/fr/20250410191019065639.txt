@@ -1,0 +1,51 @@
+<prompt>
+Please write a timeless French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La Nuit des Étoiles Filantes et les Souhaits Magiques Exaucés'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```xml
+<title>La Nuit des Étoiles Filantes et les Souhaits Magiques Exaucés</title>
+<body>
+Il était une fois, dans un petit village pittoresque niché au cœur de la Provence, une petite fille nommée Éloïse. Éloïse avait les cheveux blonds comme le blé mûr et les yeux bleus comme le ciel d'été. Elle aimait par-dessus tout les étoiles, et chaque soir, elle se rendait sur la colline surplombant son village pour les contempler.
+
+Un soir d'été, l'air était tiède et parfumé par la lavande et les pins. Éloïse s'était installée sur un vieux tapis tissé, accompagnée de son fidèle compagnon, un petit chat roux appelé Minou. Le ciel, ce soir-là, était d'un noir d'encre, parsemé de milliers d'étoiles scintillantes.
+
+"Minou, regarde comme elles brillent!" dit Éloïse en pointant du doigt le firmament. Minou, confortablement blotti à ses côtés, ronronna doucement en signe d'accord.
+
+Ce soir-là, c'était la nuit des étoiles filantes, une nuit où, disait la légende, les vœux formulés avec sincérité se réalisaient. Éloïse avait attendu ce moment toute l'année. Elle avait préparé une liste de vœux, griffonnée dans un petit carnet secret.
+
+Soudain, une étoile filante fendit le ciel, laissant derrière elle une traînée de lumière argentée. Éloïse ferma les yeux et, avec ferveur, exprima son premier souhait. Elle désirait plus que tout que son grand-père, qui vivait loin, vienne lui rendre visite.
+
+Plusieurs autres étoiles filantes traversèrent le ciel. Éloïse formula ensuite d'autres vœux. Elle souhaita que tous les enfants du monde soient heureux, qu'il n'y ait plus de tristesse et que la paix règne sur la Terre. Elle souhaita aussi que Minou ne tombe jamais malade et vive très longtemps.
+
+Toute la nuit, Éloïse et Minou restèrent assis, le regard fixé sur le ciel étoilé, attendant patiemment les étoiles filantes. Au fur et à mesure que les heures passaient, la fatigue commençait à se faire sentir. Éloïse, malgré son excitation, sentait ses paupières devenir lourdes.
+
+Au petit matin, les premiers rayons du soleil apparurent à l'horizon, dissipant l'obscurité. Éloïse, exténuée mais heureuse, se leva, rassembla son tapis et, avec Minou toujours à ses côtés, redescendit la colline.
+
+Le lendemain matin, Éloïse fut réveillée par un doux bruit à la porte. Elle ouvrit précipitamment et vit, émerveillée, son grand-père, souriant et les bras chargés de cadeaux. Son cœur bondit de joie. Son vœu le plus cher s'était réalisé !
+
+Les jours suivants, l'ambiance au village était particulière. Une vague de bonheur semblait flotter dans l'air. Les enfants jouaient gaiement dans les rues, riant et s'amusant sans soucis. On n'entendait plus de disputes et les gens se montraient plus généreux les uns envers les autres. Éloïse pensait à son vœu pour la paix et se sentait emplie d'une douce espérance.
+
+Et Minou, contre toute attente, semblait plus vif et joueur que jamais. Il gambadait dans le jardin, chassant les papillons et les abeilles, pour la plus grande joie d'Éloïse. Son vœu pour son ami félin avait aussi été exaucé !
+
+Pendant ce temps, ailleurs dans le monde, d'autres enfants, sans connaître l'origine de ce bonheur soudain, ressentaient eux aussi cette vague positive. Des gestes de bonté étaient accomplis, des querelles s'apaisaient, et un sentiment d'unité grandissait.
+
+Éloïse, chaque soir, retournait sur la colline avec Minou. Elle regardait le ciel, pensant aux étoiles filantes et à la magie qu'elles avaient apportée. Elle se sentait reconnaissante pour tout ce qu'elle avait, pour sa famille, ses amis, son petit chat. Elle comprit que les vœux étaient précieux, mais que la véritable magie résidait dans l'amour et la gentillesse que l'on partageait avec les autres.
+
+Un an passa, puis un autre. La nuit des étoiles filantes revint chaque année, et Éloïse ne manqua jamais l'occasion de formuler de nouveaux vœux. Elle souhaitait que cette vague de bonheur continue de se répandre, que l'amitié et l'amour triomphent toujours.
+
+Avec le temps, les habitants du village gardèrent toujours un souvenir particulier de cette nuit étoilée. Ils apprirent à prendre soin les uns des autres, à s'entraider et à vivre en harmonie. L'esprit de la nuit des étoiles filantes continua de vivre dans leurs cœurs.
+
+Et Éloïse, devenue une jeune femme, racontait aux enfants du village l'histoire de cette nuit magique, leur rappelant que la bonté, l'espoir et l'amour sont les plus belles étoiles qui puissent briller dans le ciel. Elle leur disait que les vœux peuvent se réaliser, mais que le plus important est de semer la joie et de faire le bien autour de soi.
+
+Et ainsi, l'histoire de la nuit des étoiles filantes et des vœux magiques exaucés continua de se transmettre de génération en génération, un conte intemporel qui rappelle à chacun la puissance de l'espoir et la beauté de la générosité. Chaque fois qu'une étoile filante traversait le ciel, on savait qu'un nouveau souhait avait été formulé, et l'espoir renaissait dans le cœur de chacun, perpétuant ainsi la magie de cette nuit spéciale. La légende disait même que si l'on écoutait attentivement, on pouvait entendre le doux ronronnement de Minou, un signe certain que la magie continuait d'opérer, veillant sur tous ceux qui croyaient en elle.
+</body>
+```

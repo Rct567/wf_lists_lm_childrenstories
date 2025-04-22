@@ -1,0 +1,41 @@
+<prompt>
+Please write a timeless Basque children's story that is at least 1000 words long.
+It must be completely written in proper Basque (EU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Zazpi Herrikoa eta Irudiak Ahaztezina'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>eu</lang_id>
+
+```xml
+<title>Zazpi Herrikoa eta Irudiak Ahaztezina</title><body>
+
+Bazen behin, Zazpi Herrietan, Izarra izeneko neskato bat. Txikia zen, begi zabal urdinak eta ile luze beltz-beltzak zituena, gaueko zerua gogora ekartzen zutenak. Izarra oso jakin-mina zuen, eta beti galdetzen zuen zergatia gauza guztiei. Goizero, amonarekin esnatzen zen, Aralar mendian eguzkiaren lehen izpiek herrixka argiztatzen zuten arte. Amona, Jakintza izenekoa, kontalari handia zen.
+
+Baina, egun batean, tristura etorri zen herrira. Ahots zahar bat entzun zen, airean barreiatuz: "Irudiak galduko dituzue! Ahaztuko dituzue istorioak!". Izarra beldurtu egin zen, amonak, tristuraren gainean irriz, besarkatu eta esan zion: "Ez izan beldur, Izarra. Istorioak gure bihotzetan gordetzen dira, eta haiek aurkitzeko bidea aurkituko dugu".
+
+Hurrengo egunean, Izarrak amonarekin batera, herriz herri ibili ziren, Irudien bila. Lehenengo herria, Leizarraldea, baso ederrez inguratuta zegoen. Han, zuhaitz zahar batean, harritxo batekin jolasten ari zen ume bat aurkitu zuten. "Kaixo, ume! Ez duzu ezer ahaztu?", galdetu zuen Izarrak. Umeak negar egin zuen, "Nire lagunaren irudia ahaztu dut!". Amonak, jakintza pixka bat erabiliz, harritxoa hartu eta eguzkira jarri zuen. Harritxoa, argiak jotuta, dirdira egin zuen, eta umearen lagunaren irudia agertu zitzaion. Umea pozik korrika egin zuen bere lagunarekin jolastera.
+
+Bigarren herria, Otxandio, zelai berdeak eta larreak zituen. Han, artzain zahar bat ikusi zuten, ahuntz talde handi bat zaintzen. "Artzain jauna, zerbait galdu duzu?", galdetu zion Izarrak. Artzainak burua astindu zuen. "Irudi bat galdu dut, nire ardiei istorioak kontatzeko...". Amonak, soinu bat hartuz, ardiekin kantatu zuen, eta ahuntz bat, arreta galdu barik, artzainaren irudia gogoratu zuen. Artzaina pozez beteta zegoen.
+
+Hirugarren herria, Abaltzisketa, bailarako txoko ezkutu bat zen. Han, errekan, arrantzale gazte bat ikusi zuten, sarea jaurtitzen. "Gizon gaztea, irudiren bat galdu duzu?", galdetu zuen Izarrak. Arrantzaleak baietz esan zuen, "Nire aitaren irudia... itsasoan galdu nuen!". Amonak, uretara begiratu eta esan zuen: "Itsasoak irudiak gordetzen ditu. Jarri eskua uretan eta ikusi!". Arrantzaleak hala egin zuen, eta une batez, bere aitaren aurpegia ikusi zuen, irrifarrez. Arrantzalea pozik jarri zen.
+
+Laugarren herria, Arantzazu, baseliz handi baten ondoan zegoen. Han, neska talde bat ikusi zuten, musika tresnekin jolasten. "Neskatilak, ezer ahaztu duzue?", galdetu zuen Izarrak. Neskek negar egin zuten, "Gure musika galdu dugu! Irudirik gabe ezin dugu musika egin!". Amonak, euren instrumentuak hartu eta pieza bat jo zuen. Musika entzun orduko, nesken irudiak gogora etorri ziren eta musika berreskuratu zuten.
+
+Bosgarren herria, Urnieta, azokaz beteta zegoen. Han, merkatari zahar bat ikusi zuten, ezin ezer saldu. "Merkatari jauna, zer gertatzen da?", galdetu zion Izarrak. "Irudia ahaztu zait, galdutako gauzen irudia...", erantzun zuen merkatariak. Amonak, burua astindu eta, errematantea bezala, "Etxean, hemen aurkitzen da irudia!" esan zuen. Merkataria pozik zegoen eta dena saldu zuen.
+
+Seigarren herria, Itziar, itsasoaren ondoan zegoen. Han, itsasgizon zahar bat ikusi zuten, itsasoari begira. "Itsasgizon jauna, zer galdu duzu?", galdetu zuen Izarrak. Itsasgizonak, triste, "Nire itsasontziaren irudia..." erantzun zuen. Amonak, itsasoan arretaz begiratu eta "Begiratu uhinen joan etorria" esan zuen. Uretan, itsasontziaren irudia agertu zen, urpean desagertuz.
+
+Zazpigarren herria, Elgoibar, mendien artean ezkutatuta zegoen. Han, haur multzo bat jolasten ari zen, eta itzal bakoitzaren atzean irudi bat ezkutatuta zegoen. "Haurrak, ahaztu al duzue ezer?", galdetu zuen Izarrak. Haurrek burua astindu zuten. Amonak, irribarre egin zuen. "Irudiak ezin dira ahaztu, bihotzetan daude. Jolastu!" Izarrak, jolasean sartu zen, eta guztiek, jolasean ari zirela, irudirik ahaztezina aurkitu zuten: familiarena.
+
+Gau hartan, Zazpi Herrietako guztiak bildu ziren, sutan. Istorioak kontatu zituzten, irudien oroimenez. Izarrak amonari begiratu zion. Amonak, irriz, "Bihotza ahazten denean, irudia galduta dago. Baina bihotza baduzu, irudi guztiak aurkituko dituzu!" esan zion.
+
+Eta horrela, Izarra, Zazpi Herriko haurrek eta Jakintzak aurkitu zuten benetako altxorra: irudiak gorde eta maitatu behar direla, bihotzetan. Eta ordutik aurrera, irudiak ez ziren ahaztu, herriz herri, belaunaldiz belaunaldi. Zeren eta, maitasuna eta oroimena nahasten baditugu, istorioak beti biziko dira.
+
+Bukaera zoriontsua izan zen, eta irudien indarra gure artean jarraitzen du gaur egun ere. Izarra, hazten joan zen, eta amonaren jakinduriarekin, irudiak bilatzen jarraitu zuen, baita Zazpi Herrietatik kanpo ere.
+</body>
+```

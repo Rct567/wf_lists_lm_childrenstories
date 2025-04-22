@@ -1,0 +1,45 @@
+<prompt>
+Please write a light-hearted Catalan children's story that is at least 1000 words long.
+It must be completely written in proper Catalan (CA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'L'ós rentador que sempre trobava la mel més dolça del bosc espès.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>ca</lang_id>
+
+<title>L'ós rentador que sempre trobava la mel més dolça del bosc espès</title>
+<body>En un racó amagat del bosc espès, on les flors silvestres perfumaven l'aire amb les seves essències delicades i els ocells cantaven melodies alegres, hi vivia un ós rentador anomenat Oriol. Oriol era conegut per tots els animals del bosc per la seva passió insaciable per la mel. Mentre la majoria dels óssos es conformaven amb menjussar baies i nous, Oriol estava decidit a trobar la mel més dolça del bosc.
+
+Cada matí, Oriol s'aixecava abans que el sol sortís per sobre dels arbres i començava la seva recerca diària. Amb el seu nas fi i la seva olfacte aguda, seguia el perfum de les abelles fins als racons més remots del bosc. Les abelles, que coneixien la seva afició per la mel, sovint li deixaven petites mostres de les seves collites més recents, i Oriol les tastava amb delit, decidint quina era la més dolça.
+
+Un dia, mentre Oriol vagava per un camí estret i sinuós, va sentir un murmuri suau que provenia d'una clariana propera. La curiositat el va portar cap a la clariana, on va trobar un grup d'abelles treballant afanyosament al voltant d'un eixam. El cap de les abelles, una abella sàvia anomenada Àuria, va saludar Oriol convidant-lo a seure en un tronc proper.
+
+—Bona tarda, Oriol —va dir Àuria—. Hem sentit parlar de la teva recerca de la mel més dolça del bosc. Ens alegra que hagis vingut a visitar-nos, perquè tenim una sorpresa per a tu.
+
+Oriol es va asseure al tronc, intrigat per les paraules d'Àuria. Les abelles van començar a volar al seu voltant, formant un núvol d'activitat al voltant del seu cap. De sobte, una abella jove va sortir de l'eixam portant un petit pots de mel. Àuria va prendre el pots i el va oferir a Oriol.
+
+—Aquesta és la nostra collita més recent —va explicar Àuria—. L'hem fet amb les flors més rares i exòtiques del bosc. Esperem que sigui la mel més dolça que hagis tastat mai.
+
+Oriol va prendre el pots i el va obrir, alliberant un perfum intens que va omplir l'aire. Va tastar la mel amb la seva llengua, i els seus ulls es van eixamplar de sorpresa. Era la mel més dolça que havia tastat en la seva vida.
+
+—Això és increïble! —va exclamar Oriol—. Com heu aconseguit fer una mel tan deliciosa?
+
+Àuria va somriure, satisfeta de la reacció d'Oriol.
+
+—És un secret que només les abelles coneixem —va dir—. Però podem ensenyar-te com fer-ho, si vols.
+
+Oriol va acceptar l'oferta d'Àuria i va començar a aprendre l'art de fer mel. Les abelles li van ensenyar com recol·lectar el pol·len de les flors, com barrejar-lo amb la seva pròpia secreció i com deixar-lo madurar al sol. Oriol va passar dies aprenent i practicant, fins que finalment va poder fer la seva pròpia mel.
+
+Quan va tastar la seva primera collita, Oriol va sentir una sensació de satisfacció i felicitat. Havia aconseguit fer la mel més dolça del bosc, i ho havia fet gràcies a l'ajuda de les abelles. Des d'aquell dia, Oriol i les abelles van ser els millors amics, i van passar els dies fent mel i compartint-la amb la resta dels animals del bosc.
+
+Però la història d'Oriol no acaba aquí. Un dia, un grup de lladres de mel va arribar al bosc, buscant robar la mel de les abelles. Els lladres eren uns animals astuts i perillosos, i les abelles sabien que no podrien defensar-se sols. Oriol, que havia après a fer mel i havia esdevingut un expert en el tema, va decidir ajudar les abelles a protegir la seva mel.
+
+Va idear un pla per enganyar els lladres i fer-los creure que la mel estava guardada en un lloc segur. Les abelles van col·laborar amb Oriol, i van crear un sistema de túnels i trampes per confondre els lladres. Quan els lladres van arribar, Oriol i les abelles van posar en marxa el seu pla, i van aconseguir fer-los fugir del bosc.
+
+Les abelles van celebrar la seva victòria, i van agrair a Oriol la seva ajuda. Des d'aquell dia, Oriol va ser conegut com el protector de la mel del bosc, i les abelles li van oferir una recompensa especial: un pots de mel que sempre estaria ple, i que li donaria la força i la saviesa per continuar protegint el bosc i les seves criatures.
+
+I així, Oriol va viure feliç per sempre, envoltat de les abelles i la mel que tant estimava. La seva història es va convertir en una llegenda, i els animals del bosc van aprendre a respectar i protegir la natura, gràcies a l'exemple d'Oriol, l'ós rentador que sempre trobava la mel més dolça del bosc espès.</body>

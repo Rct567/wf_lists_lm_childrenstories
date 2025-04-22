@@ -1,0 +1,35 @@
+<prompt>
+Please write a simple Catalan children's story that is at least 1000 words long.
+It must be completely written in proper Catalan (CA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'El país de les meravelles i els encants'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>ca</lang_id>
+
+<title>El país de les meravelles i els encants</title>
+<body>
+Una petita núvia, anomenada Mariona, vivia en un poble ple de cases de teula vermella i jardins florits.  Mariona, amb els seus cabells com el raïm d'estiu i els ulls com les pedres blaves del riu, era molt curiosa.  Cada dia, mentre passejava pel bosc que envoltava el poble, buscava secrets ocults a les fulles dels arbres i en les pedres llises del torrent.
+
+Un dia, mentre explorava una part més profunda del bosc, es va trobar amb una petita porta de fusta, pintada de colors vibrants, que semblava talla de l’ mateix arbre.  No hi havia cap pany visible, però, un petit disc de fusta, brillant com un diamant, hi estava incrustat.  Mariona, amb la curiositat esquitxant-li els ulls, va tocar el disc.  En aquell instant, la porta va gemegar i es va obrir amb un so suau com el xiuxiueig del vent.
+
+Darrere de la porta s'estenia un paisatge meravellós.  Flors de tots els colors imaginables, des del groc lluminós del sol fins al blau profund del cel nocturn, cobrien l'herba.  Ocells cantava melodies que mai abans havia sentit.  A l'aire flotava un aroma dolç de mel i maduixes silvestres. Era un país de meravelles i encants, ple de secrets i aventures.
+
+Mariona va entrar cautelosament, el cor bategant com un tambor.  Els seus peus van caure sobre una catifa de flors que respiraven.  Va avançar entre arbustos fantasiosos, formats per branques que brillaven amb llums de colors.  A la distància, va veure un llac d'aigua cristal·lina, on reflectien el cel com un mirall.  Al voltant del llac, petits animals sorprenents, amb banyes d'or i ales de seda, es passejaven amb elegància. Un lleó amb pèl de seda blanca i un xai amb llana de colors es van fer amic d'ella i li van explicar les llegendes del país.
+
+Un cavall blanc, amb crinera d'or i un relinyo dolç, es va apropar a ella.  El cavall, amb un gest gentil, va estirar una pota davant d'ella. Mariona va comprendre que el cavall li demanava que muntés.  Amb una sonrisa, va pujar sobre l'animal. El cavall, amb la suavitat d'una brisa, va començar a caminar, guiant-la per aquest increïble país.
+
+Van anar a un bosc encantat on els arbres es movien al ritme del vent i les flors ballaven amb les notes de les melodies de l'aire.  Van trobar un rierol que cantava i que menjava amb l'aigua, i al seu costat, una font màgica que regalava l'aigua que volien.
+
+Mentre caminaven, van trobar un grup de nens i nenes que jugaven amb objectes màgics.  Els nens i nenes brillaven i volaven al voltant dels seus propis jocs, com els estels a la nit.  Mariona va jugar amb ells, i tots plegats van riure i van cantar, creant una melodia bella i plena d'alegria.
+
+Un vell, amb barbas de plata i ulls que brillaven amb la saviesa dels milers d'anys, va aparèixer davant d'ells.  El vell, que es presentava com el Guardià dels Encants, li va explicar que aquest país estava ple de meravelles, però que només aquells amb un cor obert i una ment curiosa podien descobrir-les.  Mariona, amb els seus ulls brillants, va entendre les seves paraules.
+
+El Guardià dels Encants li va regalar un petit cordill de llum, que brillava amb colors canviants.  El cordill estava destinat a recordar-li els encants del país.  Mariona es va acomiadar del vell, prometent tornar.  A mesura que el cavall blanc la tornava al bosc, el país de les meravelles i els encants va desaparèixer lentament, fins a convertir-se en un bonic record dins el seu cor.
+
+Quan Mariona va tornar al seu poble, ho va fer amb una mirada diferent.  Els arbres, les flors, el rierol i cada pedra del seu poble, ara, brillaven amb la seva pròpia alegria.  Ja no eren només elements naturals, sinó porcions d'aquest país de meravelles i encants, que havia descobert dins del seu cor.  I cada dia, Mariona buscava un poc més d'encant i meravella a les coses més petites del seu voltant.  El país de les meravelles i els encants, ja no estava amagat en un bosc profund, sinó que estava amagat dins el seu cor.
+</body>

@@ -1,0 +1,45 @@
+<prompt>
+Please write a educational Turkish children's story that is at least 1000 words long.
+It must be completely written in proper Turkish (TR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Yürüyen Ağaçların Anlattığı Eski Zaman Masalları'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>tr</lang_id>
+
+<title>Yürüyen Ağaçların Anlattığı Eski Zaman Masalları</title>
+<body>
+Bir zamanlar, yemyeşil vadilerin, gürül gürül akan derelerin ve göğe yükselen heybetli dağların arasında, insanların ve hayvanların huzur içinde yaşadığı büyülü bir diyar varmış. Bu diyarda, sıradan ağaçlardan farklı olarak yürüyebilen, konuşabilen ve çok bilge olan ağaçlar yaşarmış. Bunlara 'Yürüyen Ağaçlar' denirmiş. Yürüyen Ağaçlar, köklerini toprağa salmış olsalar da, tıpkı insanlar gibi gezip dolaşır, güneşin doğuşunu ve batışını izler, mevsimlerin değişimini hissederlermiş.
+
+Günlerden bir gün, küçük Elif ve Can, ormanın derinliklerine doğru maceraya atılmaya karar vermişler. Elif, meraklı gözleriyle etrafı inceler, Can ise cesur adımlarıyla patikalarda ilerlermiş. Ormanın kalbine doğru ilerlerken, daha önce hiç görmedikleri, devasa boyutta, gövdeleri gümüş gibi parlayan, dalları gökyüzüne uzanan bir ağaçla karşılaşmışlar. Ağacın gövdesine yaklaştıklarında, hafif bir rüzgarın etkisiyle dalların arasından narin bir ses duyulmuş: "Hoş geldiniz çocuklar... Bana 'Akasya Dede' derler."
+
+Elif ve Can, şaşkınlıkla Akasya Dede'ye bakmışlar. Akasya Dede, binlerce yıldır bu ormanda yaşarmış ve sayısız hikaye biliyormuş. Onlara ormanın gizemlerini, geçmiş zamanların efsanelerini anlatmayı teklif etmiş. Çocuklar, sevinçle kabul etmişler ve Akasya Dede'nin etrafına oturup hikayelerini dinlemeye başlamışlar.
+
+Akasya Dede, ilk olarak, 'Gökkuşağı Kalesi' masalını anlatmış:
+
+"Çok uzaklarda, gökkuşağının bittiği yerde, rengarenk taşlardan yapılmış bir kale varmış. Bu kaleyi, gökkuşağının renklerini çalan kötü kalpli bir cadı korurmuş. Cadı, renkleri çalarak, dünyayı karanlığa gömmek istemiş. Ancak, cesur bir prenses, gökkuşağı renklerini geri almak ve dünyayı kurtarmak için yola çıkmış. Prenses, kaleye ulaşmak için çeşitli zorluklarla karşılaşmış: Sularında büyülü balıkların yüzdüğü derelerden geçmiş, devasa çiçeklerin koruduğu bahçelerden geçmiş ve konuşan hayvanların yardımıyla cadının tuzaklarından kurtulmuş. Sonunda kaleye ulaşmış ve cadıyla savaşmış. Cesareti ve iyiliği sayesinde cadıyı yenmiş, gökkuşağı renklerini geri getirmiş ve dünya yeniden aydınlanmış."
+
+Elif ve Can, bu heyecan verici masalı dinlerken gözlerini kırpmadan Akasya Dede'ye bakmışlar. Hikayenin kahramanına duydukları hayranlıkla dolmuşlar.
+
+Sıra ikinci masala geldiğinde, Akasya Dede 'Bilge Baykuş'un Hikayesi'ni anlatmış:
+
+"Bir zamanlar, ormanın en yüksek ağacında yaşayan, bilgeliğiyle ünlü bir baykuş varmış. Bu baykuş, ormanda yaşayan tüm hayvanlara yol gösterir, sorunlarına çözümler bulurmuş. Ormanda, bir kuraklık yaşandığında, diğer hayvanlar çaresiz kalmışlar. Bilge Baykuş, onları yönlendirerek, derinlerde saklı bir su kaynağını bulmalarını sağlamış. Hayvanlar, suyu bularak susuzluklarını gidermişler ve hayata tutunmuşlar. Bilge Baykuş, sabrın, bilginin ve işbirliğinin önemini öğreterek, ormanın düzenini sağlamış. Onun bilgeliği sayesinde, orman her zaman canlı ve yeşil kalmış."
+
+Can, Bilge Baykuş'un hikayesinden çok etkilenmiş. "Ağaç dede, o baykuş nasıl bu kadar bilgiliymiş?" diye sormuş. Akasya Dede gülümsemiş ve "Bilgi, çok çalışmak, gözlem yapmak ve başkalarına yardım etmekle elde edilir, Can'cığım" demiş.
+
+Son olarak, Akasya Dede 'Güneş Çiçeği'nin Serüveni'ni anlatmış:
+
+"Uzak diyarlarda, sadece güneşi takip eden, sarı yapraklı bir çiçek varmış. Bu çiçek, gün doğumuyla birlikte doğar, gün batımında ise uykuya dalarmış. Bir gün, çiçek, karanlığın dünyayı sardığını görmüş. Güneş kaybolmuş, gökyüzü kararmış. Güneş Çiçeği, dünyayı aydınlatmak için cesaretle yola çıkmış. Zorlu yollardan geçmiş, fırtınalarla savaşmış ve sonunda kaybolan güneşi bulmuş. Güneşi geri getirerek, karanlığı yenmiş ve dünyayı yeniden ışığa kavuşturmuş."
+
+Elif, Güneş Çiçeği'nin hikayesinden çok etkilenmiş ve "Cesaret ve umutla her şeyin üstesinden gelinebilir, değil mi dede?" diye sormuş. Akasya Dede başını sallamış ve "Evet, Elif'çim. Unutmayın ki, umut ve cesaret kalplerimizde olduğu sürece, hiçbir engel bizi durduramaz." demiş.
+
+Gün batımına doğru, Akasya Dede'nin hikayeleri bitmiş. Elif ve Can, dinledikleri masallarla dolmuş kalpleriyle, Akasya Dede'ye veda etmişler. Akasya Dede, onlara, hikayelerin sadece geçmişi değil, aynı zamanda geleceği de şekillendirdiğini hatırlatmış.
+
+Elif ve Can, ormandan ayrılırken, Yürüyen Ağaçların, özellikle de Akasya Dede'nin, dünyanın gizemlerini ve güzelliklerini anlatan bilge varlıklar olduğunu anlamışlar. Onlar, artık sadece birer çocuk değil, aynı zamanda gerçek yaşam dersleri öğrenmiş küçük maceraperestlerdi. Bundan sonra, ormanın derinliklerinde yeni maceralara atılmaya, Yürüyen Ağaçlardan daha nice hikayeler dinlemeye can atıyorlardı.
+
+Yürüyen Ağaçların anlattığı masallar, Elif ve Can'ın kalplerinde sonsuza dek yaşayacak ve onlara hayatları boyunca yol gösterecekti. Çünkü masallar, sadece eğlendirmekle kalmaz, aynı zamanda öğretir, ilham verir ve dünyayı daha iyi bir yer haline getirirlerdi. Ve Elif ile Can, bu masalların sihirli dünyasında yaşamaya devam edeceklerdi...
+</body>

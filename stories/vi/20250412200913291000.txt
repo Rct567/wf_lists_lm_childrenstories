@@ -1,0 +1,89 @@
+<prompt>
+Please write a simple and easy-to-follow Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Vì sao chị Hằng lại luôn mỉm cười nhìn xuống các bạn nhỏ trên trần gian.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>vi</lang_id>
+
+```vi
+<title>Vì sao chị Hằng lại luôn mỉm cười nhìn xuống các bạn nhỏ trên trần gian.</title>
+<body>
+Ngày xửa ngày xưa, ở một vùng quê thanh bình của Việt Nam, có một cô bé tên là Mai. Mai có mái tóc đen dài óng ả, đôi mắt to tròn long lanh như hai viên bi ve. Mai rất thích nghe bà kể chuyện cổ tích, đặc biệt là những câu chuyện về chị Hằng, người con gái xinh đẹp sống trên cung trăng.
+
+Một buổi tối nọ, khi trăng vừa tròn vành vạnh, Mai cùng bà ra sân nhà, trải chiếu và ngắm trăng. Ánh trăng dịu nhẹ rọi xuống, bao trùm lấy hai bà cháu một không gian yên bình. Bà Mai khẽ khàng kể: “Ngày xưa, trên cung trăng, có một người con gái tên là Hằng Nga. Nàng xinh đẹp, hiền lành và có tài thổi sáo. Tiếng sáo của nàng vang vọng khắp nơi, mang đến niềm vui cho mọi người.”
+
+Mai chăm chú lắng nghe, mắt không rời khỏi vầng trăng. Bà tiếp tục: “Nhưng rồi, Hằng Nga phải chịu một nỗi buồn lớn. Nàng không có ai chơi cùng, quanh năm chỉ một mình trong cung trăng lạnh lẽo.”
+
+Mai ngước nhìn lên, hỏi bà: “Vậy sao chị Hằng không xuống trần gian chơi với các bạn nhỏ hả bà?”
+
+Bà Mai mỉm cười hiền hậu, xoa đầu Mai: “Ngày xưa, chị Hằng cũng có thể xuống trần gian. Nhưng vì một sự việc đặc biệt, chị Hằng đã quyết định ở lại trên cung trăng, và luôn mỉm cười nhìn xuống chúng ta, các bạn nhỏ của trần gian.”
+
+Mai tò mò hỏi tiếp: “Sự việc đặc biệt là gì hả bà?”
+
+Bà Mai bắt đầu kể câu chuyện về ngày xửa ngày xưa, khi chị Hằng còn nhỏ.
+
+…
+
+Ngày ấy, chị Hằng là một cô bé rất thích khám phá. Nàng sống trong một khu rừng xanh thẳm, nơi có biết bao điều kỳ diệu. Nàng có một người bạn thân là chú thỏ ngọc. Chú thỏ có bộ lông trắng muốt, đôi tai dài và đôi mắt đỏ long lanh.
+
+Một ngày nọ, Hằng và Thỏ Ngọc đang vui vẻ chơi đùa dưới ánh nắng vàng. Bỗng, từ đâu xuất hiện một cơn gió lớn, thổi tung những chiếc lá vàng, mang theo cả một tiếng khóc thảm thiết. Hằng và Thỏ Ngọc chạy theo hướng phát ra tiếng khóc.
+
+Đến nơi, họ thấy một cậu bé nhỏ đang ngồi một mình, đôi mắt rưng rưng nước mắt. Cậu bé có đôi mắt đen láy, gầy gò. Quần áo cậu rách tả tơi, mặt mày dính đầy bụi bẩn. Hằng hỏi: “Chào bạn nhỏ, bạn có chuyện gì buồn vậy?”
+
+Cậu bé ngước nhìn Hằng, nghẹn ngào trả lời: “Mình… mình bị lạc đường. Mình không biết nhà mình ở đâu nữa.”
+
+Hằng và Thỏ Ngọc nhìn nhau, thương cảm. Hằng hỏi tiếp: “Vậy bạn có muốn chúng mình giúp bạn tìm đường về nhà không?”
+
+Cậu bé gật đầu lia lịa. Thế là, Hằng và Thỏ Ngọc quyết định giúp cậu bé.
+
+Họ cùng nhau đi tìm đường về nhà cho cậu bé. Hằng dùng trí thông minh của mình, hỏi han người dân trong làng về tung tích của cậu bé. Thỏ Ngọc dùng đôi tai thính nhạy, lắng nghe những âm thanh xung quanh để tìm manh mối.
+
+Suốt ngày hôm đó, ba người đi khắp nơi, từ cánh đồng lúa vàng óng, đến những con suối trong vắt. Họ đi qua những khu rừng rậm rạp, vượt qua những ngọn đồi cao. Cậu bé dần bớt sợ hãi, vui vẻ cười nói. Hằng và Thỏ Ngọc cũng cảm thấy vui lây khi thấy cậu bé tươi tỉnh hơn.
+
+Cuối cùng, khi ánh chiều tà buông xuống, họ cũng tìm được nhà của cậu bé. Ngôi nhà nhỏ bé nằm nép mình dưới chân đồi. Cậu bé chạy ùa vào vòng tay mẹ, hai mắt rơm rớm nước mắt vì vui mừng. Mẹ cậu bé ôm chầm lấy cậu, vừa khóc vừa cười.
+
+Cậu bé quay lại, nhìn Hằng và Thỏ Ngọc, chắp tay nói: “Cảm ơn hai người rất nhiều! Nếu không có hai người, mình không biết phải làm sao nữa.”
+
+Hằng mỉm cười hiền hậu: “Không có gì đâu bạn. Chúng mình rất vui vì đã giúp được bạn.”
+
+Từ ngày hôm đó, Hằng và Thỏ Ngọc trở thành những người bạn thân thiết của cậu bé. Họ thường xuyên đến chơi với cậu, cùng nhau chơi đùa, học tập. Tình bạn của họ ngày càng khăng khít.
+
+Nhưng rồi, một ngày nọ, có một vị thần từ trên trời xuống. Vị thần trông rất uy nghiêm, nhưng cũng rất tốt bụng. Vị thần nói với Hằng: “Hằng Nga, con là một cô bé rất tốt bụng. Ta muốn ban thưởng cho con. Con muốn gì?”
+
+Hằng suy nghĩ một lúc rồi trả lời: “Thưa thần, con không cần gì cả. Con chỉ mong tất cả mọi người đều được vui vẻ, hạnh phúc.”
+
+Vị thần mỉm cười, hài lòng với tấm lòng của Hằng. Ông nói: “Vì tấm lòng nhân hậu của con, ta sẽ cho con một điều ước. Con có thể ở trên cung trăng, ngắm nhìn và giúp đỡ tất cả mọi người trên trần gian.”
+
+Hằng ngạc nhiên hỏi: “Nhưng thưa thần, con không thể xuống trần gian chơi với các bạn nhỏ được sao?”
+
+Vị thần giải thích: “Ở trên cung trăng, con có thể nhìn thấy tất cả mọi người. Con có thể gửi những lời động viên, những nụ cười đến cho mọi người. Con có thể giúp đỡ họ trong lúc khó khăn.”
+
+Hằng suy nghĩ rất lâu. Cuối cùng, nàng quyết định chọn điều ước của vị thần. Nàng muốn lan tỏa niềm vui và hạnh phúc đến cho mọi người, hơn là niềm vui riêng của mình.
+
+Từ đó, Hằng Nga lên cung trăng, cùng Thỏ Ngọc. Nàng luôn mỉm cười nhìn xuống trần gian, theo dõi các bạn nhỏ. Khi các bạn buồn, nàng gửi ánh trăng dịu nhẹ để an ủi. Khi các bạn gặp khó khăn, nàng gửi những điều ước tốt đẹp để giúp đỡ.
+
+…
+
+Bà Mai kể xong, Mai vẫn chăm chú lắng nghe. Bà hỏi: “Thế đấy, vì chị Hằng muốn mang đến niềm vui cho tất cả mọi người, nên chị đã chọn ở lại trên cung trăng. Chị không cô đơn đâu con. Chị có Thỏ Ngọc, và chị còn có tình yêu thương của tất cả chúng ta.”
+
+Mai ngước nhìn lên vầng trăng. Chị thấy như có một khuôn mặt xinh đẹp đang mỉm cười với mình. Ánh mắt chị hiền dịu, ấm áp. Mai hiểu rằng, nụ cười của chị Hằng là nụ cười của tình yêu thương, của sự quan tâm, của niềm vui.
+
+Mai thầm nghĩ: “Mình cũng sẽ sống thật tốt, thật vui vẻ để chị Hằng trên cung trăng cũng vui.”
+
+Mai dụi mắt, hỏi bà: “Bà ơi, vậy khi nào con cũng lên cung trăng chơi với chị Hằng được không?”
+
+Bà Mai xoa đầu Mai và mỉm cười: “Khi con sống tốt, luôn làm điều tốt, con sẽ luôn ở gần chị Hằng. Bởi vì, chị Hằng luôn ở trong trái tim của những người tốt bụng.”
+
+Mai gật đầu, lòng tràn ngập niềm vui. Mai lại nhìn lên trăng, trong lòng thầm hứa sẽ luôn ngoan ngoãn, học giỏi, giúp đỡ mọi người để chị Hằng luôn mỉm cười.
+
+Đêm hôm đó, Mai ngủ một giấc thật ngon. Trong giấc mơ, Mai thấy mình đang bay lên cung trăng, cùng chơi đùa với chị Hằng và Thỏ Ngọc. Tiếng cười của chị Hằng vang vọng khắp nơi, mang đến niềm vui và hạnh phúc cho cả thế gian.
+
+Và đó là lý do vì sao chị Hằng lại luôn mỉm cười nhìn xuống các bạn nhỏ trên trần gian. Vì chị yêu thương mọi người, và luôn muốn mang đến cho mọi người những điều tốt đẹp nhất. Và cứ như vậy, mỗi khi nhìn lên bầu trời đêm, ta lại thấy nụ cười hiền từ của chị Hằng, như một lời nhắc nhở về tình yêu thương, sự sẻ chia, và lòng tốt bụng.
+</body>
+```

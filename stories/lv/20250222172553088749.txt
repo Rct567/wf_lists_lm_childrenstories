@@ -1,0 +1,41 @@
+<prompt>
+Please write a funny Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Cīņa par labāko kūkas receptu'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>lv</lang_id>
+
+<title>Cīņa par labāko kūkas receptu</title>
+<body>Reizēm, mazā, bet īpašīgā ciematā, kas atradās starp diviem lieliem mežiem, notika liela un skanīga kūku gatavošanas sacensība. Visi ciemata iedzīvotāji bija aicināti piedalīties šajā sacensībā, jo uzvarētājam bija jāiegūst tituls "Labākais kūkas gatavotājs".
+
+Ciemata iedzīvotājiem šī sacensība bija ļoti svarīga, jo viņi visi bija lieli kūku mīļēji un gribēja zināt, kurš no viņiem var gatavot vislabāko kūku. Sacensības noritēja ciemata centrā, kur bija ierīkots liels pagatavošanas laukums ar daudziem virtuvēm un pagatavošanas instrumentiem.
+
+Viens no ciemata iedzīvotājiem, jaunais zēns ar nosaukumu Kārlis, bija ļoti nopietns par savu kūku gatavošanu. Viņš bija visu savu brīvo laiku vēlies kūku receptēm un bija izmēģinājis daudzus no tiem. Kārlim bija ļoti laba kūku gatavošanas tehnika un viņa kūkas bija visiem ļoti garšīgas.
+
+Kārlis bija ļoti pārliecināts, ka viņš var kļūt par uzvarētāju šajā sacensībā, jo viņa kūkas bija visiem ļoti patīkamas. Bet, kā viņš vēlāk uzzināja, bija arī citi ciemata iedzīvotāji, kas bija ļoti labi kūku gatavotāji. Viens no tiem bija vecā kundze ar nosaukumu Māra, kas bija visu savu mūžu vēlējusi kūku receptēm un bija izstrādājusi savu pašu unikālo kūku gatavošanas stilu.
+
+Mārai bija ļoti daudz pieredzes kūku gatavošanā un viņa kūkas bija visiem ļoti iecienītas. Viņa bija ļoti rūpīga un gāja līdz galam, lai visi viņas kūku sastāvdaļas būtu vislabākās un visfriskākās. Māra bija ļoti pārliecināta, ka viņa var kļūt par uzvarētāju šajā sacensībā, jo viņa kūkas bija visiem ļoti garšīgas.
+
+Sacensību dienā ciemata centrā bija ļoti daudz cilvēku, kas gaidīja, kad sacensības sāksies. Kārlis un Māra bija abiem ļoti gatavi un bija sagatavoti savas labākās kūkas. Abi bija ļoti nervozi, jo zināja, ka sacensības būs ļoti aizkaitinātas.
+
+Sacensību sākumā, visi dalībnieki saņēma savus receptes un sāka gatavot savas kūkas. Kārlis un Māra strādāja ļoti smagi, lai gatavotu savas kūkas, jo zināja, ka laiks bija ļoti ierobežots. Abi bija ļoti koncentrēti un gāja līdz galam, lai visi viņu kūku sastāvdaļas būtu vislabākās.
+
+Pēc daudziem stundu, sacensības beidzās un visi dalībnieki bija gatavi ar savām kūkām. Kārlis un Māra bija abiem ļoti apmierināti ar savām kūkām un zināja, ka viņi bija gatavoti vislabāko, ko viņi varēja.
+
+Žūrijas locekļi, kas bija ciemata vecākais un divi citi ciemata iedzīvotāji, sāka degustēt kūkas un vērtēt tās. Abi, Kārlis un Māra, bija ļoti nervozi, jo zināja, ka žūrijas locekļi bija ļoti prasīgi.
+
+Pēc daudziem stundu, žūrijas locekļi bija gatavi ar savām atzīmēm un sacensību uzvarētājs tika paziņots. Kārlis un Māra bija abiem ļoti sabiedroti, jo zināja, ka viņi bija gatavoti vislabāko, ko viņi varēja.
+
+Bet, žūrijas locekļi paziņoja, ka uzvarētājs ir... Kārlis! Kārlis bija ļoti pārliecināts, ka viņš var kļūt par uzvarētāju, un tagad viņš to bija izdarījis. Viņš bija ļoti laimīgs un pateicās žūrijas locekļiem par atzīmi.
+
+Māra bija ļoti sabiedrota, jo zināja, ka viņa kūkas bija visiem ļoti patīkamas. Bet viņa arī bija ļoti laimīga par Kārli, jo zināja, ka viņš bija gatavojis vislabāko, ko viņš varēja. Abi, Kārlis un Māra, bija ļoti draudzīgi un pateicās viens otram par cīņu.
+
+Ciemata iedzīvotāji bija visi ļoti laimīgi par Kārli, jo zināja, ka viņš bija gatavojis vislabāko kūku. Viņi visi bija ļoti pārliecināti, ka Kārlis bija vislabākais kūkas gatavotājs ciemā. Un Kārlis bija ļoti pārliecināts, ka viņš var atkārtot savu uzvaru nākamajā sacensībā.
+
+Šī sacensība bija ļoti nozīmīga Kārlim, jo viņš bija izdarījis savu mūža mērķi - kļūt par labāko kūkas gatavotāju ciemā. Un Kārlis bija ļoti pārliecināts, ka viņš var turpināt gatavot vislabākās kūkas ciemā. Un ciemata iedzīvotāji bija visi ļoti laimīgi par to.</body>

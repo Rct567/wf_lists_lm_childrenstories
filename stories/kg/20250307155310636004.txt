@@ -1,0 +1,66 @@
+<prompt>
+Please write a creative and original Kongo children's story that is at least 1000 words long.
+It must be completely written in proper Kongo (KG).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>kg</lang_id>
+
+```kg
+<title>Mbote ya Nsungi ya Ngemba</title>
+<body>
+Kuna ntama-ntama, kuna Nzadi-Kongo y’a mbote, kuna mbanza ya mpika, kuna nzo z’a masa, kwenda-kwenda, kuna nzo yimosi ya ntete, kwendakalanga bana zole. Bana yayi, bo bakala bo bana ya muntu mosi ya yikama, mwana ya nkento yayela. Nkumbu ya mwana ya nkento yayela yayi, bo bam-vovanga 'Mama Nsaku'. Mwana ya ntete, yandi mosi yandi nkumbu, bo bam-vovanga 'Kongo', ye yandi mwana ya zole, bo bam-vovanga 'Mbote'.
+
+Kongo, yandi mwana ya nene, yandi muntu ya ngolo. Yandi zolaka kuvokisa makala, ye kukanda nkuni mu tula na fulu ya tiya mu nkumbu ya kumisa madia. Yandi zolaka mpe kubanga mianda ya mino, ye kuvunda ntoto. Mbote, yandi mwana ya fioti, yandi muntu ya bumuna. Yandi zolaka ku tunga nzo za masa, ye kusala bilembo ya ntoto na makelele, ye kusala mambu ma tina mpe-mpe.
+
+Bana bayayi bakala b’a nkenda ya ngolo. Kongo, yandi zolaka kuta Mbote mambu ya ngolo. “Mbote, kwiza kuna kubanga nti yayi!” yandi ke yimbanga. “Kansi, ngeye zaba ve bubu yayi!” Ye Mbote ke fiana, ye kutunguna mambu malungi.
+
+Mama Nsaku, yandi bakala muntu ya zola ngolo. Yandi ke zolanga bana yandi bonso mu mosi. Yandi ke zolanga kubasonga mambu ma vanga, ye kubafunda mambu ma mbote ye ya luzolo. Yandi ke vovanga, “Bana bame, beno fwete zolana. Beno fwete sala mambu ma mbote konso ntangu.”
+
+Kilumbu kimosi, kuna bakala kuna fuka ya nzadi, Kongo ye Mbote ke lungana masumu ma ngolo. Kongo ke zolanga kubaka mamba ma tina, kansi Mbote ke zolanga kusala nzo ya masa kuna nsi ya nzadi. “Ngeye ke zaba mambu ve, Mbote!” Kongo ke vovanga. “Ngeye fwete sala mambu bu mono!”
+
+Mbote ke vovanga, “Ve! Mono zolaka kusala nzo ya masa! Ngeye zaba ve mambu ma mbote ya kulungana!”
+
+B’a tina, b’a landana. B’a landana ngolo, b’a kwendana. Mama Nsaku ke kwenda kuta bo. Yandi ke vovanga, “Bana bame! Ekuma beno ke sala mambu ma ngeye mosi? Beno fwete zolana!”
+
+Kongo ke vovanga, “Kansi, yandi ke yandi mbote!”
+
+Mbote ke vovanga, “Kansi, ngeye ke ngeye mbote!”
+
+Mama Nsaku ke vovanga, “Mono zolaka beno benso, kansi y’a mfunu mpe benso beno fwete zolana. Beno fwete kubakula kima ya nengi ya ntima ya muntu yimosi, ye kubakula mambu ya mfunu ye ngolo.”
+
+Yandi kubasonga ku nzadi, “Beno mona nzadi yayi? Yayi ya nene, y’a ngolo. Kansi, vava ya luka, y’a ngemba. Bonso beno. Beno ke benso bana ya ngolo, kansi beno fwete zolana ye kuvanga mambu ma ngemba.”
+
+Kongo ye Mbote ke kubakula. B’a landana mu zola tiya.
+
+Kuna makinu, b’a vonga mambu. Kongo ke yela ye Mbote. “Mbote, ngeye sala nzo yi ya muntu. Mono ke kwenda kusala mayele.”
+
+Mbote ke vovanga, “Mono sala nzo yayi, kansi ngeye ke landa kwisa ye kusala makelele ya nengi ku nzo.”
+
+B’a sala mpe-mpe. Kongo ke bangula makunku ku nzo. Mbote ke sala makelele ya ntoto ya nengi ku nzo. Bambe, nzo ya masa ya nengi, ya nene y’a kubokila ya tina.
+
+Kilumbu kimosi, kuna bakala kuna nzila ya mbote, bakala kuna mbanza ya ntete. Bo bakala b’a kwenda ku fuka mu kwenda ku sumbula nkuni ye madia. Kuna nzila, bo mono, bo kuta muntu yimosi ya ntete, yandi fwiti, y’a lenda kulandu. Muntu yandi ke lela masangu ma ngolo.
+
+Kongo ye Mbote ke kwenda yandimunu. “Ngeye kanda ekuma ke lela masangu?” Kongo ke vovanga.
+
+Muntu ke vovanga, “Mono, mono zolaka kutuma mwana yame mbote kwenda ku sumbula madia, kansi yandi ke kwenda ve! Yandi me fwa!”
+
+Mbote ke vovanga, “Ekuma ngeye ke zola kwenda? Mono, mono zolaka kusala ngeye!”
+
+Muntu ke vovanga, “Mono ve, mono ke zola ngeye fwa mpe!”
+
+Mbote ke vovanga, “Mono ke yenda kwisa. Mono ke baka mayele ma Mbote!”
+
+Mbote ke kwendana ku mbanza. Yandi kulandana ku mbote, ye kwenda ku mbanza. Yandi ke sumbula madia, ye kubuta ku muntu. Nkumi yandi ke baka madia, ye kubaka mbote. Muntu yandi ke yendana ku nzietu, ye kutumina Mbote mbotama ya ngolo. “Ngeye mwana ya ngemba, ngeye muntu ya mbote.”
+
+Vava Mbote ke bueta ku nzo, Kongo kubotuka mbote. “Mbote, ngeye sala mambu ma mbote ngolo! Mono zaba ve b’a ngolo ya ngeye!”
+
+Mama Nsaku ku kwenda ku bangula. “Mono zaba beno benso kana, kansi mona! Mbote, yandi sala mambu ma ngolo, ye yandi bakisa mpe muntu mosi.”
+
+Kufunda kilumbu kiawu, Kongo ye Mbote ke vovanga. Bo ke zolana mu ntima w’a mosi. Bo sala mambu ma ngemba, ye kwisa kwenda mu fuka ya Nzadi-Kongo. Bo kumisa mpe mambu ma nengi ya luzolo ye ngemba. Ku nzadi, bo kala bana ya ngemba, b’a zolana, ye b’a sala mambu ma mbote. Kufunda kilumbu, bo zolana mpe.
+
+Kuna ntama ye kuna ntama, kuna Nzadi-Kongo.

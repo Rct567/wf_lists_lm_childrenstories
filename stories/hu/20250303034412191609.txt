@@ -1,0 +1,45 @@
+<prompt>
+Please write a silly Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Az Aranyhal, aki Három Kívánságot Teljesített Hibával'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>Az Aranyhal, aki Három Kívánságot Teljesített Hibával</title>
+<body>
+Kis Pistike, egy vidám, vörös hajú fiúcska, akinek a cipője mindig csillogott a sárban, éppen a patakparton játszott.  A patakban, a kövek között,  egy apró, szinte láthatatlan aranyhal úszkált.  Az aranyhal, akinek a pikkelyei mintha apró, csillogó gyémántok lettek volna, nem volt olyan aranyos és kedves, mint ahogy a mesék ígérik. Ő, bizony, kissé hibás volt.
+
+Először is, csak három kívánságot tudott teljesíteni, nem tizenkettőt, vagy bármilyen nagyobb számot. Másodszor, a kívánságok teljesítése közben  sokszor keveredett a dolgokba. Ahogy mondta is az anyukája, a nagyma, minden kívánságot, úgy teljesített, mint egy rossz, csupa hibát szülő varázsló.  Harmadszor pedig, nagyon, de nagyon szeretne elaludni a folytonos kívánság teljesítés közben.
+
+Pistike, aki kíváncsi volt mindenre, ami csillogott, egy vödörben próbált belekapni a halacskába, és ahogy a vízcseppek elszánkáztak a fényben, véletlenül leejtette a vödröt. Az aranyhal pedig kiugrott a vízből, és megvillantotta aranyos, pikkelyeit, amelyek olyanok voltak, mint a fényes, szivárványos kőlapok.
+
+"Segítség! Segítség!" kiáltotta a kisfiú, és felállt a patakpartra. Az aranyhal gyorsan visszatért a vízsugár alá, hogy Pistike vödrjét ne tegyék tönkre az ijesztően nagy vízesés miatt.
+
+"Elég!" kiáltotta Pistike a halhoz, aki megremegett a félelemtől. "Kérlek, teljesítsd a kívánságom! Szeretnék egy ezernyi, csokoládéval töltött tortát!"
+
+A kis aranyhal  csóválta pikkelyeit, aztán halkan szólalt meg: "Jól van, akkor ezer csokoládés tortát! De ha a vékony tészták tövébe egy pár dió nem kerül, az nem a te hibád, érted?"
+
+"Persze, értem!" szólt Pistike vidáman, mert biztos volt benne, hogy ez remek ötlet. Rögtön elkezdték gyártani a tortákat, amiket egy óriási, aranyos fésűk segítségével szállítottak a boltba. Az aranyhal a cukorréteshez hasonló, csillogó tortákat vitt az édesbolthoz.
+
+"Akkor én azt szeretném," mondta Pistike, a szeme már el volt borítva a finom csokis tortától, hogy a szomszéd gyerekei még mindig nyalogatták az ujjaikat, "hogy repülővé váljon a biciklim!"
+
+"Rendben, egy repülő bicikli!" felelte az aranyhal.  Csakhogy a bicikli egy repülő hajóvá alakult, egy hatalmas vízeséshez képest egy nagyon szűk hajóvá. Egy kis, piros madárral is repültek egy csomó időre egy szép tóhoz.
+
+"Jaj, most mi lesz?" gondolkodott Pistike, miközben a hullámok megtépázták az utazását. "És azt szeretném... szeretném egy nagy, fenséges aranyvárat a hátsó udvaromba!"
+
+"Egy aranyvárat!" kiáltotta a hal, és Pistike biciklije, nem, bocsánat,  a piros madárra szegődés, pirosmadaras csónak felugrott a vízből, és leült Pistike kertjébe egy aranyvárat képezve. Pistike nagy boldogan rohangált körülötte.
+
+A várat hatalmas sárkányok és rettenetes boszorkányok védték. Pistike csak nézett, és nagy kiáltással szaladt meg az aranyvárának védelmezői elé. Hirtelen a hátsó kertjét felgyújtották.  Pistike csak sírt, mert az aranyvárat nem volt képes megvédeni.
+
+A kis aranyhal sóhajtott egy nagyot és egy pillanat múlva már másképp festett:  "Valami el lett kavarászva! Sajnálom, a tortákat egy élelmiszerboltba viszem a sárkányok és boszorkányok elől!" Pistike szörnyű volt ettől, de legalább a torták elvesztését megúszták.
+
+A vékony tészták nem kerültek bele a diók, de a gyerekek nagyon boldogok voltak. Pistike megtanulta, hogy néha még a jó szándékú varázslatok is tudnak hibázni, és nem minden kívánság teljesíthető pontosan úgy, ahogy elképzeljük.  De azért,  még mindig csillogott a vörös haja a sárban, és mosolygott a tavaszi napon, mert a barátság, az a legnagyobb kincs.  Meg még a torták.
+
+
+</body>

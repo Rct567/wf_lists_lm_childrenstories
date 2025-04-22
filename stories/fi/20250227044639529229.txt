@@ -1,0 +1,38 @@
+<prompt>
+Please write a relatable Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Salainen keittiö ja sen herkulliset tarinat'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>fi</lang_id>
+
+<title>Salainen keittiö ja sen herkulliset tarinat</title>
+<body>
+Oli kylmä syyspäivä Helsingissä, ja pihalla leijui viileä ilmavirtaus. Lapset olivat päättäneet rakentaa oman salaisen keittiön vanhan puutarhamajan sisälle. He olivat korjanneet vanhoja keittiökalusteita ja -välineitä sekä vanhoja astioita ja ruokailuvälineitä omiin tärkeisiin tehtäviinsä.
+
+Lapset olivat kaikki ystäviä ja asuivat samalla kadulla. Heidän joukossaan oli Leena, joka oli keittiön pääkokki, ja hänen paras ystävänsä, Mikko, joka oli erinomainen leipuri. Heillä oli myös muita ystäviä, kuten Emma, joka oli erittäin taitava siivooja, ja Antti, joka oli salaisen keittiön johtaja.
+
+Salainen keittiö oli oiva paikka, jossa lapset voivat toteuttaa ruokahaaveitaan ja kokeilla uusia makuja. He valmistivat ruokaa yhdessä ja jaettuun iloon. Leena ja Mikko olivat erityisen läheisiä, ja heidän yhteinen intohimo ruokaan ja leivontaan oli saanut heidät keksimään uusia ja herkullisia reseptejä.
+
+Yhtenä päivänä, kun lapset olivat kokoontuneet salaisessa keittiössä, he päättivät valmistaa erityisen herkullisen aterian. He olivat kuulleet, että naapurustossa asui vanha rouva, joka oli kuuluisa herkullisista marja- ja hedelmäkakkuistaan. Lapset olivat päättäneet pyytää rouvalta apua ja neuvoja, jotta he voivat valmistaa oman version hänen kuuluisasta kakustaan.
+
+Rouva oli ystävällinen ja antoi lapset tulla luokseen. Hän kertoi heille, että hänen salaisuutensa oli hyvin yksinkertainen: hän käytti aina vain tuoreita ja laadukkaita raaka-aineita, ja hän teki kaiken itse, ilman mitään valmiiksi tehtyjä aineita. Lapset kuuntelivat tarkkaan ja ottivat rouvan neuvot sydämeen.
+
+Seuraavana päivänä lapset kokoontuivat salaisessa keittiössä ja alkoivat valmistaa rouvan ohjeiden mukaan. He käyttivät tuoreita marjoja ja hedelmiä, ja he teki kakun itse, ilman mitään valmiiksi tehtyjä aineita. Työskentely oli hauskaa, ja lapset nauroivat ja keskustelivat kun he työskentelivät yhdessä.
+
+Lopulta kakku oli valmis, ja lapset olivat äärettömän ylpeitä työstään. He kutsuivat rouvan salaisesta keittiöön, ja hän oli äärettömän iloinen nähdessään, miten hyvin lapset olivat onnistuneet. Rouva kertoi, että hänen kakku oli yksi parhaista, mitä hän oli koskaan maistanut, ja lapset olivat täysin onnettomia.
+
+Salainen keittiö oli saavuttanut uuden tason, ja lapset olivat valmiit kokeilemaan uusia ja jännittäviä asioita. He alkoivat suunnitella uusia reseptejä ja aterioita, ja he pyysivät rouvalta apua ja neuvoja jokaisessa vaiheessa. Rouva oli iloinen auttamaan, ja hän opetti lapset uusia taitoja ja salaisuuksia.
+
+Ajan myötä salainen keittiö sai mainetta naapurustossa, ja lapset alkoivat saada pyynnöksiä erilaisiin tilaisuuksiin ja juhliin. He valmistivat ruokaa syntymäpäiviin, häihin ja jopa joulujuhliin. Lapset olivat äärettömän ylpeitä työstään, ja he tiesivät, että he olivat löytäneet oman erityisen paikkansa maailmassa.
+
+Salainen keittiö oli enemmän kuin vain paikka, jossa lapset valmistivat ruokaa. Se oli paikka, jossa he voivat olla yhdessä, jakaa iloja ja suruja, ja toteuttaa unelmiaan. Se oli paikka, jossa he voivat olla itsensä, ilman pelkoa tai epävarmuutta. Ja se oli paikka, jossa he voivat rakentaa elämän pitkäaikaisia muistoja ja ystävyyksiä.
+
+Vuodet menivät, ja lapset kasvoivat aikuiseksi. He menivät eri teille, mutta he pitivät yhteyttä toisiinsa ja muistelivat salaisen keittiön päiviä. He kertoi lapsilleen ja lastenlastensa tarinoita salaisesta keittiöstä ja sen herkullisista tarinoista. Ja he tiesivät, että salainen keittiö oli aina heidän sydämissään, paikka, jossa he voivat aina palata ja muistella iloisia päiviä.
+
+Salainen keittiö oli ollut enemmän kuin vain paikka, jossa lapset valmistivat ruokaa. Se oli ollut paikka, jossa he olivat löytäneet itsensä, ystävyyden ja elämän. Ja se oli paikka, joka oli jäänyt heidän sydämiinsä, ikuisesti.</body>

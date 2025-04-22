@@ -1,0 +1,37 @@
+<prompt>
+Please write a relatable Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Senojo Laikrodžio Tiktak: Kas atsitinka, kai laikrodis sustoja ir neskuba'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>lt</lang_id>
+
+<title>Senojo Laikrodžio Tiktak: Kas atsitinka, kai laikrodis sustoja ir neskuba</title>
+<body>Kadaise, senos Vilniaus gatvėje, stovėjo mažas, bet labai senas laikrodžio parduotuvė. Parduotuvę valdė senas meistras, vardu Jonas, kuris visą savo gyvenimą praleido laikrodžių taisyme ir jų gamyboje. Jo rankose net ir seniausi, sugedę laikrodžiai vėl pradėdavo tiktakauti.
+
+Parduotuvėje stovėjo daugybė laikrodžių, visų formų ir dydžių. Buvo laikrodžiai su grandinėliais, laikrodžiai ant sienos, net ir laikrodžiai, kurie rodė laiką visame pasaulyje. Tačiau tarp visų šių laikrodžių Jonas turėjo vieną labai specialų - senąjį laikrodį, kurį jis pavadino "Tiktak". Šis laikrodis buvo labai senas, jo korpusas buvo padarytas iš medžio, o jo veidrodis buvo apsipūtęs ir senas.
+
+Jonas rūpinosi Tiktak, kaip savo vaiku. Jis kasdien jį valydavo, priežiūrėdavo, kad jo mechanizmas būtų gražiai suoliutas, ir netgi kalbėdavo su juo, kaip su senu draugu. Tiktak buvo ne tik laikrodis, bet ir Jonas draugas, kuris kartu su juo dalijosi visais jo gyvenimo džiaugsmais ir liūdesiais.
+
+Tačiau vieną dieną, kai Jonas atėjo į parduotuvę, jis pamatė, kad Tiktak sustojo. Jonas buvo labai nustebintas, kadangi Tiktak visada buvo tikras ir niekada nesustojo. Jis bandė jį sujudinti, bet nieko neįvyko. Tiktak buvo sustojęs, ir Jonas nesuprato, ką daryti.
+
+Jonas pradėjo ieškoti problema, bet viskas atrodė gerai. Mechanizmas buvo gražiai suoliutas, visi ratukai buvo tvarkingai, bet Tiktak vis tiek nesuveikė. Jonas buvo labai liūdnas, kadangi jis žinojo, kad be Tiktak, jo parduotuvė nebus ta pati. Jis pradėjo galvoti, ar Tiktak galiausiai sugedo, ar Jonas turės jį pakeisti nauju laikrodiu.
+
+Tačiau Jonas negalėjo atmesti Tiktak. Jis buvo pernai jau per daug kartų padėjęs jam, ir Jonas žinojo, kad Tiktak visada bus jo draugas. Jonas nusprendė, kad jis turės rasti būdą, kaip Tiktak vėl pradėtų tiktakauti.
+
+Jonas pradėjo skaityti senas knygas apie laikrodžių taisymą, jis kalbėjo su kitais meistrais, ir netgi bandė naudoti senas, paslaptingas priemones, kad Tiktak vėl pradėtų veikti. Tačiau niekas neįvyko, ir Jonas buvo vis labiau nusigraudęs, kad Tiktak galiausiai sugedo.
+
+Vieną dieną, kai Jonas sėdėjo prie Tiktak, jis girdėjo mažytį balselį, kuris kalbėjo: "Jonas, aš čia esu, aš tiesiog sustojau, bet aš vis dar galiu tiktakauti". Jonas buvo labai nustebintas, kadangi jis niekada nesuošdavo, kad laikrodžiai galėtų kalbėti. Jis atsikrenkęs pažiūrėjo į Tiktak, ir pamatė, kad jo veidrodis šviesėjo.
+
+Tiktak kalbėjo toliau: "Jonas, aš sustojau, kadangi aš norėjau, kad tu pamatytum, kad laikas yra brangus, ir kad jis negali būti atgautas. Aš norėjau, kad tu suprastum, kad kiekvienas momentas yra svarbus, ir kad jis niekada negali būti sugrąžintas". Jonas buvo labai gilus, kadangi jis suprato, kad Tiktak teisus. Jis visada buvo taip užimtas savo darbu, kad jis nesuprato, kad laikas yra brangus.
+
+Jonas nusprendė, kad jis turės pakeisti savo gyvenimą. Jis pradėjo leisti daugiau laiko su savo šeima, jis pradėjo klausyti savo draugų, ir jis netgi pradėjo dalijimis savo patirtimi su kitais. Jonas suprato, kad laikas yra brangus, ir kad jis negali būti atgautas.
+
+Tiktak, matydamas, kad Jonas suprato jo žinutę, pradėjo tiktakauti vėl. Jonas buvo labai džiaugsmingas, kadangi jis žinojo, kad Tiktak vėl yra gyvas. Jis apglėbė Tiktak, ir pasakė: "Ačiū, Tiktak, kad tu man parodė, kad laikas yra brangus. Aš nesužmiršiu tavo žinutės, ir aš visada busiu atiduodantis laiką tiems, kurie jį vertina".
+
+Nuo tos dienos, Jonas ir Tiktak buvo labai artimi. Jonas visada rūpinosi Tiktak, ir Tiktak visada buvo jo šalia. Jonas suprato, kad laikas yra brangus, ir kad jis negali būti atgautas, bet jis žinojo, kad su Tiktak, jis visada galės pamatyti laiką, ir jį atiduoti tiems, kurie jį vertina. Jonas ir Tiktak gyveno ilgai ir laimingai, ir jų istorija buvo pasakojama visiems, kad žmonės suprastų, kad laikas yra brangus, ir kad jis negali būti atgautas.</body>

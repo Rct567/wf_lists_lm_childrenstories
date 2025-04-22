@@ -1,0 +1,43 @@
+<prompt>
+Please write a uncomplicated Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Chumchukning sehrli ovozi va uning sirlari'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>uz</lang_id>
+
+<title>Chumchukning sehrli ovozi va uning sirlari</title>
+<body>Qadimda, O'zbekistonning eng go'zal viloyatlaridan birida, Chimyon tog'larining etagida, kichkina qishloq bo'lib, u yerda Chumchuk ismli yosh bolakay yashir edi. Chumchuk juda xushchaqchaq va iste'dodli bola edi, uning ovozi esa sehrli edi. Uning ovosi eshitgan barcha odamlar, hayvonlar va hatto o'simliklar ham unga maftun bo'lib qolar edi.
+
+Chumchukning sehrli ovozi haqida qishloq aholisi juda ko'p gapirardi. Ba'zilar uni shahzoda, boshqalari esa farishta deb atashardi. Lekin Chumchuk o'zini oddiy bola deb hisoblar va o'zining sehrli ovozini sir deb saqlardi.
+
+Bir kuni, Chumchuk o'zining eng yaqin do'sti, qushni ovlayotganida, u yo'lida katta daraxtga chiqqan holda, uning oldiga qarab turdi. Daraxtning oldida kichkina g'orda bor edi, unda juda katta va go'zal qush o'tirardi. Qush Chumchukka qarab, unga: "Assalomu alaykum, Chumchuk!" deb murojaat qildi. Chumchuk juda hayron bo'lib, qushga javob berdi: "Va alaykum assalom, qushaka! Siz mening ismimni qanday bilasiz?"
+
+Qush: "Men sening sehrli ovozingni eshitdim, Chumchuk. Men sen bilan gaplashmoqchiman. Men o'zimga bir ism qo'ydim, uning ismi - Qorabura. Men sening yordamingizga ega bo'lishni xohlayman", deb javob berdi. Chumchuk Qoraburaga: "Men sizga qanday yordam berishim mumkin?" deb so'radi. Qorabura: "Men o'z vatanimdan uzoqlashib, bu yerda qolganman. Men o'z oilamni, do'stlarimni juda ko'p sog'inaman. Men ularni ko'rishni xohlayman. Lekin men o'z vatanimga qaytishga qurbon bo'lmayman. Shuning uchun men sening sehrli ovozingiz yordamida ularni chaqirishni xohlayman", deb aytdi.
+
+Chumchuk Qoraburaga: "Men sizning xohishingizni bajaraman. Lekin sizning oila va do'stlaringiz qayerda ekanligini bilingimiz kerak", deb javob berdi. Qorabura: "Ular Chimyon tog'larining narigi tomonida, Oltinsoy daryosi bo'yida yashaydi", deb aytdi. Chumchuk: "Men sizning oila va do'stlaringizni chaqiraman. Lekin ularni eshitish uchun men o'z sehrli ovozimni juda baland chiqarishim kerak. Buning uchun men sizdan yordam so'rayman", deb so'radi. Qorabura: "Men sizga yordam berishga tayyorman. Nima qilishim kerak?" deb so'radi.
+
+Chumchuk Qoraburaga: "Siz menning sehrli ovozimni eshitganida, siz ham o'z ovozingizni chiqarishingiz kerak. Shunday qilib, bizning ovozimiz bir-biriga qo'shilib, juda baland bo'lib, Oltinsoy daryosi bo'yidagi oila va do'stlaringizni eshitiladi", deb javob berdi. Qorabura: "Men tayyorman. Boshlang!" deb aytdi.
+
+Chumchuk o'z sehrli ovozini chiqara boshladi. Qorabura ham o'z ovozini chiqara boshladi. Ikkovoning ovozi bir-biriga qo'shilib, juda baland bo'ldi. Ular o'z ovozlarini chiqarishni davom ettirdilar. Va nihoyat, ularning ovozi Oltinsoy daryosi bo'yidagi Qoraburaning oila va do'stlariga yetib bordi.
+
+Qoraburaning oila va do'stlari uning ovozini eshitib, juda hayron bo'lishdi. Ular Qorabura haqida juda ko'p fikr yuritishdi. Ba'zilar: "Qorabura o'ldi", deb o'ylashdi. Boshqalari: "U uzoqlashib ketdi", deb taxmin qilishdi. Lekin ularning biri: "Qorabura tirik. U bizning oldimizda turib, bizni chaqirayotgan bo'lsa kerak", deb aytdi.
+
+Qoraburaning oila va do'stlari o'zaro maslahatlashib, Qoraburani topishga qaror qilishdi. Ular Chimyon tog'larini kezib, Qoraburani topishdi. Qorabura ularni ko'rib, juda shod bo'ldi. Ular ham Qoraburani ko'rib, juda shod bo'lishdi.
+
+Qorabura o'z oila va do'stlariga: "Men sizlarni juda sog'inaman. Men sizlarni topish uchun Chumchukning sehrli ovozidan foydalanishga qaror qildim. U menning yordamim bilan sizlarni chaqirdi", deb aytdi. Ular: "Chumchuk kim?" deb so'radi. Qorabura: "Chumchuk - bu mening do'stim. U sehrli ovozga ega. U men bilan birga sizlarni chaqirdi", deb javob berdi.
+
+Qoraburaning oila va do'stlari Chumchukni ko'rishni xohlashdi. Qorabura ularni Chumchukning uyiga olib bordi. Chumchuk ularni ko'rib, juda shod bo'ldi. Ular ham Chumchukni ko'rib, juda shod bo'lishdi.
+
+Chumchuk Qoraburaning oila va do'stlariga: "Men sizlarni juda xush kelibsiz, deb qutlayman. Men Qorabura bilan birga sizlarni chaqirdim. Men o'z sehrli ovozimdan foydalanib, sizlarni topishga yordam berdim", deb aytdi. Ular: "Sizga juda rahmat, Chumchuk. Siz bizni birlashtirdingiz", deb javob berishdi.
+
+Qorabura va uning oila va do'stlari Chumchukning uyida bir necha kun qolishdi. Ular Chumchuk bilan juda ko'p vaqt o'tkazishdi. Ular Chumchukning sehrli ovozini o'zlariga xos usulda eshitishdi. Ular Chumchukka: "Sizning sehrli ovozingiz juda go'zal. Siz uni bizga o'rgatishingiz mumkinmi?" deb so'radi. Chumchuk: "Men sizlarga o'z sehrli ovozimni o'rgatishga tayyorman. Lekin sizlarga ayting, men o'z sehrli ovozimni faqat yaxir odamlarga o'zlashtiraman", deb javob berdi.
+
+Qorabura va uning oila va do'stlari Chumchukka: "Biz sizning sehrli ovozingizni yaxshi niyat bilan o'zlashtirishga qaror qildik. Biz sizga va'da beramiz, biz uning yordamida faqat yaxshilik qilamiz", deb aytdi. Chumchuk ularning so'ziga ishondi. U ularni o'z sehrli ovoziga o'rgatishni boshladi.
+
+Chumchuk Qorabura va uning oila

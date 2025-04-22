@@ -1,0 +1,39 @@
+<prompt>
+Please write a silly Croatian children's story that is at least 1000 words long.
+It must be completely written in proper Croatian (HR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Zanimljiva avantura medvjedića i njegovih vesilih prijatelja'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hr</lang_id>
+
+<title>Zanimljiva avantura medvjedića i njegovih vesilih prijatelja</title>
+<body>
+Mali medvjedić, Budimir, nije bio kao ostali medvjedići. Dok su oni ribarili u rijeci, Budimir je volio čitati knjige.  Dok su oni skupljali jagode u šumi, Budimir je crtalj karikature svojeg šumske prijatelje.  A dok su ostali medvjedići pili med iz cvijeća, Budimir bi se smjestio na suncu, luđački čitao, često se smijući naglas.
+
+Jednog sunčanog jutra, Budimir je čitao bajku o prekrasnom Zlatnom Otoku, prepunom svjetlucanja i slatkiša.  Ispunjen znatiželjom, odlučio je da mora posjetiti to čarobno mjesto.  Njegova vesela društvo, zec Vukoslav, vjeverica Ljiljana i zečić Marija, pridružili su se njegovom avanturi.  "Hajde, prijatelji!" vikao je Budimir, "U potrazi za Zlatnim Otokom!"
+
+Vukoslav, poznat po svojim dugim i čudnim ušima, trčao je tako brzo da je podigao oblake prašine.  Ljiljana, poznata po svojim elegantnim skokovima, letjela je kroz grane drveća. Marija, smiješnim kljucanjem svojim malenim nožicama, uspješno pratila svoje prijatelje.
+
+
+Put ih je vodio kroz bajkovitu šumu, gdje su susreli starog, mudrog vuka.  "Gdje tražite, mali prijatelji?" upitao je vuk, dubokim glasom. Budimir je ispričao svoju avanturu, dok su mu oči sjale od uzbuđenja.
+
+Vuk, nakon slušanja Budimirova uzbudljivog pripovijedanja o čarobnom Zlatnom Otoku, zakašljao je.  "Zlatni Otok, kažem vam, ne nalazi se na jugu, na istoku, niti na zapadu. Znam točno kamo ga morate pronaći, Budimir..." Vuk je, sa misterioznim izrazom lica, preporučio svojim malim prijateljima da idu do potoka, pravac koji se proteže do planina, kroz tajanstvene šumske staze, te do misterioznog ruba šume.  Onaj rub skriva vrata za magični Zlatni Otok.
+
+Prijatelji su slijedili Vukov savjet. Kroz bujne zelene livade, preko riječica koje su žuborile kao pjesme, do misterioznog ruba šume, pronašli su mala vrata, koliko mala da su se mogla sakriti ispod lišća. Na vratima je bila mala zlatna kapija. Vuk je rekao da samo najveseliji, najpažljiviji i najuporniji mogu otvoriti te kapije. 
+
+Odlučni da pronađu otok, prijatelji su pokušali, pokušali i opet pokušali otvoriti te vrata. No, vrata su ostala zatvorena, hladna i tvrdoglava.  Vukoslav, pomalo nervozan,  počeo je plakati od umora. "Neće ovo nikad uspjeti!", uzdahnuo je.  
+
+No, Ljiljana, mala vjeverica, s puno upornosti, zaključila je kako to mogu postići samo zajedno. Ljiljana je tada, koristeći svoju nadljudsku snagu (kako su izračunali kasnije, vjerojatno je dobila dozu zrnaca iz magičnog grmlja koje je sretno raslo na toj strani šume) otvorila vrata, pogledala unutra, pa nazad prema prijateljima, s pogledima punih dobrih novina, te preporučila da svi uđu unutra.
+
+Unutra ih je dočekao divni Zlatni Otok.  Drveće je zračilo zlatnom svjetlošću, a cvijeće je mirisalo na med i slatkiše. Na travi, rasuti u obliku slagalice, ležali su komadići Zlatnog Otoka, te su iznenada shvatili da je Otok složen upravo od onih, malih zlata.
+
+S puno slatkiša, medveda, i zdravog, ukusnog i hrskavog voća uši, prijatelji su se sretno napunili.  Provela su dana šetajući i putujući po Zlatnom Otoku.  Vukoslav je naučio o važnosti strpljenja, Ljiljana o potrebi zajedničke snage, Marija o brizi o prijateljima, i Budimir je otkrio koliko je prekrasno znati biti razumijevan, unatoč neobičnim interesima.
+
+
+Vraćajući se nazad u šumu, osjećali su se lakši, sretniji, puni iskustva i puni utisaka. Budimir se pobrinuo da ispriča priču svim medvjedićima, tako da se oni smiju od sreće. Zbog tog iskustva, njihov je život bio još ljepši, a šuma im je zvučala kao pjesma.
+</body>

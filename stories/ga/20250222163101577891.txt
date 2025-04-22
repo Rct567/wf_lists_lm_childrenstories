@@ -1,0 +1,48 @@
+<prompt>
+Please write a uncomplicated Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'An Píobaire agus an Leigheas a Thug sé don Daoine.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>ga</lang_id>
+
+<title>An Píobaire agus an Leigheas a Thug sé don Daoine</title>
+<body>
+Bhí baile beag álainn ar aon chnoc gar don bhfarraige.  Bhí sé ainmnithe Baile na nGrianghraf, mar gheall ar an ngrian a bhí ag soiléiriú an áit ar fad laethanta an tsamhraidh.  Sa bhaile sin, bhí fear píobaire, a bhí ainmnithe Píobaire Pádraig, a bhí cáiliúil don chuid oibre a bhí ann.  Bhí aon píopaí aige ag gníomhú mar leigheas don mhaith.
+
+Bhí géarchéim ar an mbaile, áfach.  Bhí fiabhras trom ar na daoine ar fad, agus ní raibh aon leigheas acu.  D'fhéach na daoine ar a chéile, díomhaoin agus gan ach go leor.  Bhí siad ag caint go brúite faoi an t-ardú agus an chríoch.
+
+Chuala Píobaire Pádraig an fhadhb, agus bhí sé i gciontú mór.  Bhí sé ag smaoineamh ar a píopaí.  Bhí a fhios aige go raibh cumhacht mhór ag a chuid ceoil.  Níor thug sé aire do na daoine a bhí aige.  Agus, leis an gcuid oibre a bhí ann, bhí sé ag smaoineamh ar an ngrian.
+
+Agus, mar sin, bhuaileadh aige le smaoineamh.  D'fhéadfaidh sé ceol a chruthú, ceol éadroma a bhí mar leigheas don fiabhras.
+
+Agus, ar maidin, tháinig Píobaire Pádraig chun an bhfearann le láimhseáil ar a píopaí.  Bhí sé i dtaca leis na daoine a bhí aige ar an chnoc, ag gníomhú mar leigheas.  Bhí na daoine ag éisteacht le ceol Pádraig go cúramach, go láidir.  D'fhulaing siad, agus bhí siad ag éisteacht.
+
+Bhí an t-aer iomlán ag athrú le ceol an píobaire.  Bhí na crithithe i bhfeidhm ar feadh idir na daoine.  Bhí an t-aer éadrom ag druidim ar fud na ndaoine.  Ach ní raibh an ghéarchéim fós ag éirí níos fearr.
+
+Bhí Pádraig ag imirt le suim ghéar.  Agus le linn an t-am sin, chuala sé an ngrian ag imirt leis an ngealach, ar aon turas.  Chomh maith leis an ngealach, chuala sé an ghaoth ag caoineadh.  Bhí sé ag smaoineamh faoi sin go domhain, ar an gcuid oibre a bhí ar na daoine.
+
+Bhí a fhios aige go raibh an ceol níos mó ná ceol, go raibh sé leigheas don anam agus don corp.  Mar sin, thosaigh sé ag gníomhú ar an gceol, ag éisteacht leis na daoine.
+
+Thosaigh ceol a bhí ar an gceol níos mó, ag tosú ar níos mó leigheas, ag athrú go leigheas iontach.  Agus, an chéad uair, bhí an mhaith ag tosú ag éirí níos fearr.
+
+Fuair Pádraig a lámh ar an gcúis.  Bhí an ceol ag tosú ag leigheas an fiabhras.  Bhí an ceol ag tosú ag scaipeadh ar fud na mbaile, ag tosú ar níos mó leigheas.  Bhí an ghaoth ag tosú ag dul in éineacht leis an ngealach agus an ngrian, agus bhí an t-aer ag athrú.  Bhí sé níos fearr agus níos fearr.
+
+Ní raibh aon duine ag fulaingt fós.  Ní raibh aon duine ag caoineadh fós.  Bhí an ceol ag fulaingt, agus ní raibh aon duine ag caoineadh fós.
+
+Bhí an leigheas ag obair.  Agus, de réir a chéile, thosaigh na daoine ag éirí níos fearr.  Thosaigh siad ag sníomh, ag seinm agus ag seinm a chéile arís.
+
+Bhí siad ag gáire agus ag caoineadh arís.  Bhí siad ag gáire agus ag caoineadh arís, agus bhí an baile ag éirí níos fearr agus níos fearr.  Bhí siad ag gáire, ag sníomh agus ag seinm a chéile.  Bhí siad ag gáire agus ag caoineadh.
+
+Chríochnaigh Píobaire Pádraig a imirt, agus d'fhulaing na daoine go léir.  Bhí siad go léir ag sníomh, ag seinm agus ag seinm a chéile.
+
+Agus, ar ndóigh, bhí an baile ag fáil níos fearr agus níos fearr.  Bhí siad ag gáire agus ag caoineadh.  Bhí an ceol ag leigheas.  Bhí siad ag léiríochtaí iontach.
+
+
+Agus, ó shin i leith, thug Píobaire Pádraig ceol do Baile na nGrianghraf, agus bhí an mbaile álainn sin i gcónaí slán agus sona.  Bhí a fhios ag an gcéad duine go raibh ceol leigheas don anam agus don corp.
+</body>

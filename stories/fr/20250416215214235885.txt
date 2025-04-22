@@ -1,0 +1,71 @@
+<prompt>
+Please write a funny French children's story that is at least 1000 words long.
+It must be completely written in proper French (FR).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Sophie et le Secret du Jardin Magique.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>fr</lang_id>
+
+```xml
+<title>Sophie et le Secret du Jardin Magique.</title>
+<body>
+Sophie était une petite fille aux couettes rousses, toujours ébouriffées. Elle habitait une maison rose bonbon, avec un jardin plus grand que la cour d’école, au bord d’un village charmant qui s’appelait Coquelicot-sur-Mer, parce que… bah, il y avait beaucoup de coquelicots et qu’il était sur la mer.  Sophie, elle, n'était pas très impressionnée par les coquelicots. Ce qu'elle aimait vraiment, c'était le mystère.
+
+Or, son jardin était bourré de mystères. Il y avait un vieux puits en pierre, toujours fermé, un arbre étrange qui ressemblait à un monsieur grognon, et une cabane en bois où personne n'était jamais allé, sauf peut-être les escargots. Un jour, en explorant, Sophie découvrit une petite porte cachée, peinte en vert émeraude et dissimulée derrière un énorme buisson de roses – des roses avec des épines tellement pointues qu’elles faisaient peur aux chaussettes.
+
+Elle tenta de l’ouvrir. Rien. Elle tira, poussa, renifla (au cas où il y aurait une odeur suspecte de gâteau, mais non). Finalement, après avoir lutté pendant ce qui lui parut être une éternité, une petite voix aiguë siffla : "Mot de passe ?"
+
+Sophie sursauta. Une petite coccinelle, arborant un chapeau melon minuscule et un monocle, était perchée sur la poignée de la porte.
+
+"Euh… mot de passe ?" répéta Sophie, confuse. Elle n'avait pas vraiment de mot de passe.
+
+"Absolument ! Sans le mot de passe, vous ne passez pas ! C’est la règle numéro… oh là là… la règle numéro mille-quarante-deux du Jardin Magique." La coccinelle sortit une petite liste de son chapeau.
+
+Sophie réfléchit. Elle avait mangé une tarte aux fraises ce matin… ses parents avaient chanté « Alouette »… Elle avait vu un chat qui… qui… Eh bien, rien de passionnant. "Je… je ne sais pas," avoua-t-elle, un peu honteuse.
+
+La coccinelle soupira, faisant trembler son monocle. "Ah, ces humains… toujours incapables de se souvenir. Bon, je vais vous donner un indice. Quel est le légume préféré des lutins ?"
+
+Sophie réfléchit encore plus fort. Elle n’avait jamais rencontré de lutin. Mais elle avait vu son grand-père, un monsieur adorable avec des moustaches qui lui chatouillaient le nez, manger des… "Des carottes !" s'exclama-t-elle, ravie.
+
+La coccinelle hocha sa tête rouge et noire. "Bravo ! Carotte ! Ouvrez-vous, portes ! Et dépêchez-vous, car il est l'heure du goûter et j'ai promis à Marcel le ver de terre une part de crumble aux pommes."
+
+La porte s'ouvrit alors avec un petit grincement, révélant un passage sombre et mystérieux. Sophie hésita un instant. "Et… Marcel, il mange quoi avec le crumble ?"
+
+La coccinelle, pressée, répondit : "Du thé à la camomille, bien sûr ! Maintenant, entrez !"
+
+Sophie, munie de son courage et d'une soif insatiable d'aventure, franchit le seuil. Le passage conduisait à un jardin… magique, comme le suggérait son nom. Il était rempli de plantes géantes qui parlaient, d'arbres fruitiers qui chantaient des chansons d’opéra, et de fleurs aux couleurs impossibles : des bleues avec des rayures jaunes, des roses avec des pois violets, et même des… des fleurs au goût de chocolat !
+
+Sophie parcourut ce nouveau monde émerveillée. Des papillons aux ailes ornées de lettres alphabétiques volaient autour d'elle, lui susurrant des devinettes. Des escargots, chaussés de bottes de sept lieues miniatures, dévalaient des pentes herbeuses, laissant des traces brillantes derrière eux. Et il y avait… Oh là là ! Un lutin, justement, avec un chapeau en forme de champignon et des lunettes rondes, qui jonglait avec des petits cailloux brillants.
+
+Le lutin, qui s’appelait Barnabé, sourit à Sophie, révélant une dent manquante. "Bienvenue au Jardin Magique, petite dame ! Vous êtes la première humaine à nous rendre visite depuis… très, très longtemps."
+
+"C'est magnifique !" s'exclama Sophie, les yeux brillants. "Mais… pourquoi personne ne vient ?"
+
+Barnabé soupira. "C'est à cause des chaussettes sales, ma chère. Les humains, vous perdez souvent vos chaussettes, et les chaussettes sales… bah, elles sont toxiques pour les fleurs magiques. Elles les font éternuer des confettis empoisonnés pour lutins !"
+
+Sophie, un peu perplexe, observa l'un des escargots tomber dans un énorme bol de chocolat chaud, et se dit que c’était peut-être un peu compliqué.
+
+Elle passa l’après-midi à jouer avec les habitants du Jardin Magique. Elle écouta les arbres raconter des histoires de pirates, mangea des fraises qui faisaient rire, et chanta des chansons avec les champignons musiciens. Barnabé, après lui avoir expliqué mille fois les règles du jardin, lui offrit une fleur de chocolat.
+
+Quand le soleil commença à se coucher, peignant le ciel de couleurs flamboyantes, Sophie sentit la fatigue la gagner. Il était temps de rentrer.
+
+Barnabé lui tendit une petite bourse pleine de poussière d’étoiles. "C’est pour votre voyage de retour. Elle vous aidera à retrouver le chemin. Et n’oubliez pas : le mot de passe change tous les jours !"
+
+Sophie remercia le lutin, lui promit de revenir, et, avec un dernier regard émerveillé, emprunta le chemin qui la ramènerait à sa maison.
+
+De retour chez elle, elle ouvrit la petite porte. Le jardin de Sophie semblait tout à coup bien moins ordinaire. Elle courut ensuite vers sa chambre, trouva une vieille paire de chaussettes et les… rangea méticuleusement dans un tiroir, pour éviter les accidents "confettis explosifs". Elle voulait, au moins, respecter l’une des mille-quarante-deux règles du Jardin Magique !
+
+Le lendemain matin, après avoir déjeuné une tartine beurrée, Sophie retourna devant la porte verte. "Mot de passe !" siffla la coccinelle.
+
+Sophie réfléchit rapidement. Elle avait… Elle avait… Elle avait oublié de fermer la porte de sa chambre à clé. Elle a tout simplement ouvert une fenêtre sur la cour et… "La porte oubliée !", s'écria-t-elle triomphalement.
+
+La coccinelle roula ses yeux ronds. "Correct. Vous avez de la chance, petite fille. Dépêchez-vous ! Marcel est impatient pour sa deuxième portion de crumble. On a même prévu de la crème Chantilly cette fois !"
+
+Et ainsi, Sophie continua à visiter le Jardin Magique. Chaque jour, elle apprenait de nouveaux mots de passe, découvrait de nouvelles merveilles, et veillait à ranger ses chaussettes. Elle devint la gardienne du secret du Jardin Magique, l'amie des lutins et la plus heureuse des petites filles rousses de Coquelicot-sur-Mer. Et parfois, elle se demandait si ce n'était pas elle qui avait rendu le jardin encore plus magique...
+</body>
+```

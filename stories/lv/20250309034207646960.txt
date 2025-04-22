@@ -1,0 +1,50 @@
+<prompt>
+Please write a dialog-based Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Zvaigžņotās Nakts Noslēpumi un Zaļā Meža Dzīvnieki'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lv</lang_id>
+
+<title>Zvaigžņotās Nakts Noslēpumi un Zaļā Meža Dzīvnieki</title>
+<body>
+Aina un Jānis, divi draugi, kuri mīlēja piedzīvojumus, sēdēja uz pļavas malas.  Debesis bija izkaisītas ar bezgalīgi daudzām zvaigznēm, kas mirdzēja kā milzīgi, dzirkstoši dimanti.
+
+Aina, ar lielu iztēli un neizsīkstošu zinātkāri, jautāja: "Jāni, vai tu domā, ka zvaigznes ir citas pasaules loģijas? Vai tur dzīvo mazi zvaigžņainie radījumi?"
+
+Jānis, ar savām dzeltenām acīm raugās uz debesīm, nopietni atbildēja: "Tieši tā, Aina.  Varbūt tur ir pilna valsts, kas nekad neiziet saulē. Varbūt tur pat ir Zvaigžņainais karalis, kam piemīt spēks, lai visu zvaigžņu dziedinātu."
+
+"Un kā mēs varētu viņus satikt?" jautāja Aina, sirdī jau vizualizējot spožu, zvaigžņotu pilsētu.
+
+"Mums vajag Zvaigžņu ceļvedi," atbildēja Jānis. "Dzirdēju stāstus par zaru vecpuišiem, kas dzīvo Zilajā mežā. Viņi zina visas zvaigžņu stāstus."
+
+Aina, piespiesusi lūpas, apdomīgi atbildēja: "Labi. Zaru vecpuiši, tā ir mūsu jauna misija."  Viņi pameta pļavu un iegāja Zaļajā mežā. Meža iekšienē augsne bija klātā ar dažādiem zālājiem.  Vētras mirdzēja starp kokiem, un gariem un tumšiem stumbriem.
+
+Mežā pēkšņi parādījās mazs, gandrīz nemanāms būtnis – zaļš vāverītis ar dzelteniem acīm.  Vāverītis uzmanīgi pētīja Ainavas un Jāņa uzvalkus.
+
+Vāverītis nopēti un teica: "Es esmu Pēteris, un esmu Zilajā mežā viens no nedaudzajiem. Ko jūs meklējat šādos meža dziļumos?"
+
+Aina un Jānis pastāstīja par savām atradnēm un ceļojuma motīviem, kas novedīs pie zvaigžņu stāstu un uz Zvaigžņu pilsētu.
+
+Pēteris sarauca pieri, aizdomīgi novērtējot bērnu entuziasma un atbildēja: "Zaru vecpuiši dzīvo tālumā, aiz zelta ūdenskrituma. Bet jūs rīt nesāks esat ceļā, lai tos atrastu!"
+
+"Zaru vecpuiši -  zelta ūdenskrituma aizā?  Tas izklausās interesanti!", iesaucās Jānis, jau iepriecinoties nākamajā piedzīvojumā.
+
+Pēteris nodūra ar galvu: "Ceļā ir vēl viens izaicinājums, – meža drakons, kas apņēmies uzsargāt Zelta ūdenskritumu. Viņš ir ļoti briesmīgs."
+
+Aina un Jānis apmainījās ar baidītiem skatieniem. "Vai tad šī ir zaru vecpuišu atrašana? Tiešām tik sarežģīta ceļa!?", iebildīja Aina.
+
+Pēteris, uzmanīgi skatīdamies uz viņiem, nomierinoši pasmaidīja un ieteica: "Nedaudz apstājieties un tuvāko meža ēnojumu ieklausāties dabas skaņās! Tur jūs satiksit mazus meža garus, kas jums var pateikt draudzīgākas vēsmas."
+
+Viņi devās tālāk, uzcildinoties ar domu. Aina un Jānis atrada, ka Zilais mežs ir aizpildīts ar dziedojošu meža dziedātājiem. Meža vēstures dziedājumi apņēma, kā ar vismīļākām un mierinātākajām apsolījumām. Tie ieteica, kā tikt pāri drakonam ar gudrību un izturību.
+
+Aiz ceļa, kur meža drakonis bija bijis uzgaidē, viņi ieraudzīja spožu, zeltainu ūdenskritumu.  Uz iegremdētā akmens pie ūdenskrituma atradās trīs vecīši, kuru zaru galvas tika izrotāti ar spožām, gaišām zvaigznēm. Tieši tur, Zaru vecīši, tieši viņi bija to meklējuši!
+
+
+Zaru vecīši apgaismoja ceļu Ainai un Jānim.  Viņi apmeklēja Zvaigžņoto pilsētu, dzirdot neskaitāmus Zvaigžņu stāstus. Jānis un Aina izjuta milzīgu mieru un zināšanu sajūtu. Vēlāk ceļotāji atgriezās savā mājās, bagātāki par pieredzi un gudrību.
+</body>

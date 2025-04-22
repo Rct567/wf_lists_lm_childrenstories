@@ -1,0 +1,50 @@
+<prompt>
+Please write a silly Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Szczęśliwy Pies, Który Został Bohaterem: Historia o Odwadze i Miłości'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pl</lang_id>
+
+```xml
+<title>Szczęśliwy Pies, Który Został Bohaterem: Historia o Odwadze i Miłości</title><body>
+Pewnego razu, w małej, uroczej wiosce o nazwie Jagódkowo, mieszkał pies o imieniu Pyrek. Pyrek był nie byle jakim psem. Po pierwsze, miał grzywę rudych włosów, która wyglądała jak burza nad jego głową. Po drugie, był niezwykle… szczęśliwy! Uśmiech nigdy nie schodził z jego pyszczka, a merdanie ogonem mogło z łatwością wywołać trzęsienie ziemi (przynajmniej tak twierdziła pani Jadzia, jego najlepsza przyjaciółka).
+
+Pani Jadzia, starsza pani z rumianą cerą i ogromnym sercem, uwielbiała Pyrka. Często gotowała mu specjalne przysmaki: marchewki z miodem i serca kurczacze polane sosem z buraków. Pyrek uwielbiał te rarytasy, ale najbardziej na świecie kochał przygody.
+
+Jagódkowo było wioską pełną niespodzianek. Codziennie na łące fruwały motyle w kolorach tęczy, a wieczorami słychać było chichot leśnych skrzatów. Pewnego dnia, podczas spaceru z panią Jadzią, Pyrek poczuł nagły zapach… szynki! Zazwyczaj nie zwracał uwagi na tego typu aromaty, bo przecież codziennie dostawał serca kurczacze. Ale ten zapach był… wyjątkowy.
+
+Poprowadził panią Jadzię przez gęsty zagajnik, przeciskając się przez krzaki malin i przeskakując nad kałużami. W końcu dotarli do drewnianej chatki, z której dochodził kuszący zapach. Zaintrygowany, Pyrek wbiegł do środka.
+
+W chałupie zastał Maćka, młodego chłopca z piegami na nosie, który właśnie miał się zabrać za przygotowanie... gigantycznej porcji kiełbasy na festyn wiejski. Problem polegał na tym, że piec do wędzenia w chatce… się zapalił! Maciek spanikował, próbował gasić ogień wiadrem wody, ale płomienie buchały coraz wyżej.
+
+Pyrek, widząc zagrożenie, od razu wiedział, co robić. Jego szczęśliwy uśmiech zniknął z pyszczka, a w jego oczach pojawiła się determinacja. Ruszył do działania! Zaczął szczekać, merdając ogonem tak szybko, że wokół zrobił się wiatr. Potem, obskoczył Maćka, popychając go w kierunku wyjścia z płonącej chaty.
+
+- Uciekaj, Maćku! – zawarczał Pyrek, choć oczywiście mówił jedynie językiem psów.
+
+Maćkowi opadła szczęka. Nie miał pojęcia, co się dzieje, ale instynktownie posłuchał Pyrka i wyskoczył z chatki. Pyrek, wykorzystując swój nadludzki spryt i wyjątkowy węch (szczególnie przydatny w wykrywaniu sosu buraczanego), pobiegł w kierunku jeziora. Po chwili wrócił, trzymając w zębach… olbrzymi liść łopianu, wypełniony wodą!
+
+Biegał z tym liściem tam i z powrotem, polewając ogień. Maciek, który otrząsnął się już z szoku, wziął przykład z Pyrka i zaczął pomagać, przynosząc wiaderka wody. Po długich, żmudnych wysiłkach, ogień został ugaszony.
+
+Wszyscy w Jagódkowie zbiegli się, słysząc odgłosy zamieszania. Zobaczywszy Pyrka, zmęczonego, ale z dumnym wyrazem pyska, otoczyli go wianuszkami. Pani Jadzia, ocierając łzy wzruszenia, przytuliła go mocno.
+
+- Jesteś bohaterem, Pyrek! – zawołała pani Jadzia. – Nasz dzielny, kochany pies!
+
+Od tego dnia Pyrek stał się prawdziwą gwiazdą Jagódkowa. Dzieci podbiegały do niego na ulicy, chcąc pogłaskać jego grzywę. Dorośli dziękowali mu za odwagę. Maciek, który początkowo był trochę przerażony, stał się najlepszym przyjacielem Pyrka.
+
+Festiwal wiejski, na którym miała być kiełbasa, w końcu się odbył. Kiełbasa, choć przyrządzona z opóźnieniem, smakowała wyśmienicie. Najważniejsze jednak było to, że dzięki Pyrkowi nikomu nic się nie stało.
+
+Burmistrz Jagódkowa wręczył Pyrkowi specjalny medal „Za Odwagę i Miłość”. Medal był duży, okrągły i błyszczący. Pyrek dumnie go nosił, chodząc dumnie po wiosce. Merdanie jego ogonem stało się jeszcze szybsze, a uśmiech na pyszczku jeszcze szerszy.
+
+Pewnego dnia, Pyrek znowu poczuł znajomy zapach – zapach szynki! Tym razem, zapach dochodził z… domu sąsiada, pana Kazia. Okazało się, że pan Kaziu, nieco roztargniony staruszek, zapomniał wyłączyć piekarnik, w którym piekł szynkę. Pyrek, pamiętając o lekcji, od razu ruszył do akcji. Najpierw szczekał, żeby zwrócić uwagę, a potem, przyciągnął panią Jadzię do domu pana Kazia. Szybka reakcja uratowała szynkę przed spaleniem.
+
+Od tamtej pory Pyrek stał się strażnikiem Jagódkowa. Nosił medal dumnie, pilnując bezpieczeństwa wszystkich mieszkańców. Zawsze gotowy do pomocy, zawsze z uśmiechem na pyszczku. A w nagrodę za swoją odwagę i miłość, codziennie dostawał od pani Jadzi marchewki z miodem, serca kurczacze z sosem buraczanym i mnóstwo, mnóstwo miłości.
+
+Pyrek wiedział, że najważniejsze na świecie jest dbanie o innych, pomoc i bycie dobrym przyjacielem. I że szczęście, choć czasem trudne do odnalezienia, zawsze jest w zasięgu ręki (a raczej w zasięgu ogona!). I tak żył sobie Pyrek, szczęśliwy pies, który stał się bohaterem, w uroczej wiosce Jagódkowo, gdzie przygody czaiły się na każdym kroku, a miłość i dobroć zawsze zwyciężały. A wieczorami, gdy słońce zachodziło, a gwiazdy świeciły na niebie, Pyrek marzył o kolejnych przygodach, czekających na niego w kolejnym dniu. I oczywiście o… jeszcze większej porcji serc kurczaczych z sosem buraczanym! Bo przecież nawet bohater potrzebuje czasem dobrej uczty.
+</body>
+```

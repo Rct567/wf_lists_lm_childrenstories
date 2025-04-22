@@ -1,0 +1,31 @@
+<prompt>
+Please write a creative and original Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kuka pelkää pimeää metsää öisin'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>fi</lang_id>
+
+<title>Kuka pelkää pimeää metsää öisin</title>
+<body>
+<p>Pieni, punapäinen piisami nimeltä Pippa asui kauniissa, kukkivassa metsässä. Metsän reunalla oli kirkas puro, jossa lohikäärmeet naurattivat ja virtaavat vesi virtasivat kuin silkkiä.  Pippa rakastoi metsää, sen villiä, salaperäistä kauneutta, mutta öisin, kun aurinko peittyi horisonttiin ja metsä peittyi syvään pimeyteen, Pippa pelkäsi.  Pelko syöksyi hänen pieneen sydämeensä kuin kylmä tuulenpuuskia.</p>
+
+<p>Yhtenä syksyn iltana, kun lehdet pyörivät kuin kimaltelevia, keltaisia ja ruskeita tanssijoita, Pippa istui pensaassa.  Kuunvaloa suodattui läpi puiden latvojen, maalaten metsän hopeiseksi.  Rauha oli ilmassa, mutta Pippa tunsi syvää pelkoa.  Hän kuuli kuiskaavia ääniä puiden takaa,  haamuja ja viisaita vanhoja puita, joiden kuorissa oli kerrottuja.  Kuu kuiskasi  Pipalle, että pimeä metsä ei ole paha, vaan se on paikka, missä kuulet sen, mitä sydämesi haluaa kuulla, sen, mikä on todellinen.</p>
+
+<p>Yhtäkkiä, pimeydestä kuului  kuuluva ääni: "Kuka siellä on?"  Pippa hyppäsi, sydän pomppasi kuin pikkulintu häkissään.  Hän peitti itsensä lehtien alle, varjojen syvyyksiin, pelossaan.  "Älä pelkää", kuului ääni jälleen, lempeä ja hellä.  "Olen  Tuuli,  metsän viisas tuuli." </p>
+
+<p>Pippa uskaltautui  hieman esiin.  Tuuli oli hento, läpinäkyvä ja  ilmeeltään kuin  lämmin syksyinen aurinko.  "Miksi sinä pelkäät?" Tuuli kysyi lempeästi.  Pippa kertoi  Tuulelle pelostaan pimeydestä,  haamuista ja salaperäisistä ääneistä, joita hän kuuli öisin metsän syvyydessä.  "Pimeys on vain puiden hiljaisuutta",  Tuuli kuiskasi. "Pimeydessä kuulee luonnon äänet, kuulet sydämesi äänen."  </p>
+
+<p>Tuuli johdatti Pipan metsän syvemmälle.  Hän näytti, kuinka yö oli täynnä ihmeitä.  Hän kertoi  kuinka  lintujen äänet  muuttuvat yön hämärissä, kuinka hämärän kuiskaus muuttuu  maagiseksi salaisuudeksi. Hän kertoi, kuinka  pimeys suojaa ja antaa tilaa todellisen itsensä löytämiseen.</p>
+
+<p>Pippa oppi kuuntelemaan  pimeydessä, kuinka  lehdet kuiskasivat ja  puut kertoivat tarinoita.  Kuinka  virta  murisi, ja  kuinka  pimeä  metsä,  se kaunis ja salaperäinen paikka, oli täynnä luonnon kauneutta.  Pippa huomasi, kuinka lepakot lentelivät kuin salaperäiset yöperhoset.  Hän kuuli  kuinka  myyrät  naurasivat syödessään maasta  ja kuinka  pimeä metsä  suojeli kaikkia sen asukkaita.</p>
+
+<p>Pippa ymmärsi, että pimeys ei ole pelkoa, vaan  mahdollisuus.  Se on  paikka, jossa  sydän kuulee  luonnon musiikkia, jossa  todelliset tarinat  kuiskaavat  läpi yötaivaan.  Ja siitä lähtien  Pippa ei pelännyt pimeää metsää öisin. Hän tiesi, että se oli paikka, missä  hän  voi  löytää  itselleen uusia  tunteita, uutta viisautta.  Pippa oli oppinut, että pimeä metsä on kuin kirjan sivut,  täynnä lukemattomia tarinoita,  ja  kun kuuntelet, kaikki äänet  kertovat  sinulle  sinun omasi.</p>
+
+<p>Ja niin, Pippa nauroi syksyisessä  pimeydessä,  ja  metsän syvyydestä  kuului toinen ääni,  se oli iloinen ja lempeä,  se oli Pipan sydämen ääni.  Pimeä metsä  ei ollut paha,  se oli  kaunis ja turvallinen.</p>
+</body>

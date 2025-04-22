@@ -1,0 +1,100 @@
+<prompt>
+Please write a silly Spanish children's story that is at least 1000 words long.
+It must be completely written in proper Spanish (ES).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Los Superhéroes de la Guardería que Salvaban el Mundo.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>es</lang_id>
+
+```xml
+<title>Los Superhéroes de la Guardería que Salvaban el Mundo.</title><body>
+En una guardería muy, muy especial, llamada “Solcitos Brillantes”, vivían seis superhéroes… ¡de guardería! Y eran, para decirlo con claridad, un poco… desastrosos. Pero tenían grandes corazones y aún mayores ideas.
+
+El primero era Pepito. Pepito era un niño con una capa hecha con la cortina de la cocina y unas botas hechas con… ¡brócoli! Sí, brócoli. Se autodenominaba "El Broccoli-Heroico" y su superpoder era… ¡comer brócoli súper rápido! Lo cual, a veces, era más un problema que una solución.
+
+Luego estaba Laurita, la chica con la imaginación más grande del mundo. Su disfraz consistía en un gorro de ducha y una capa de papel de aluminio. Se hacía llamar "La Chispita Luminosa" y su poder era… ¡ver el futuro! Bueno, no todo el futuro, solo… ¡qué merienda habría al día siguiente!
+
+Le seguía Juanito, que siempre llevaba puesto un casco de juguete y una camiseta de rayas. Se hacía llamar "El Capitán Rayas" y su superpoder era… ¡oler pedos! Sí, es un superpoder raro, lo sabemos. Pero, en su defensa, a veces era útil para detectar… hmm, cosas sospechosas.
+
+Después estaba Sofía, una niña con una diadema de flores y un delantal manchado de pintura. Era "La Flor de la Fuerza" y su poder era… ¡hacer florecer las plantas con la mente! ¡Era genial para los cumpleaños!
+
+A continuación, estaba Miguelito, un niño que siempre andaba con una máscara de papel y unas gafas de sol. Se hacía llamar "El Misterioso Misterio" (¡sí, lo sabemos, el nombre no era muy original!) y su poder era… ¡hacer desaparecer los calcetines! (Solo los suyos, por supuesto).
+
+Y, por último, estaba la pequeña María, con una capa hecha de una toalla de baño y un gorro de lana. Era "La Super-Sonrisa" y su poder era… ¡hacer reír a la gente! ¡Y era increíblemente buena en eso!
+
+Un lunes por la mañana, mientras jugaban a construir castillos con bloques, el mundo (o al menos, la guardería) ¡estaba en peligro! Un villano malvado, conocido solo como "El Señor Comegalletas" (¡tenía una obsesión con las galletas!), había robado… ¡todas las galletas de la guardería! ¡Y no solo eso! ¡También había secuestrado al peluche favorito de todos los niños: el señor Peluchito!
+
+¡"¡Maldito Señor Comegalletas!" gritó Pepito, intentando morder una de sus botas de brócoli de la emoción. "¡Tenemos que salvar las galletas y al señor Peluchito!"
+
+"¡Cierto!" exclamó Laurita, parpadeando su gorro de ducha. "¡He tenido una visión! ¡El Señor Comegalletas está en el… baño de los mayores!"
+
+El Capitán Rayas, con su nariz en alto, aspiró profundamente. "¡Puedo… oler galletas y… ¡malicia!"
+
+Sofía hizo florecer una maceta de claveles con entusiasmo. "¡Debemos ir! ¡Por el señor Peluchito y las galletas de avena!"
+
+Miguelito, con su máscara de papel, asintió solemnemente. "¡Que los calcetines se salven… solos!"
+
+María, con una sonrisa resplandeciente, dijo: "¡Y que nos divirtamos mucho, mucho!"
+
+Así, los seis superhéroes de la guardería salieron disparados hacia el baño de los mayores, listos para enfrentarse al malvado Señor Comegalletas.
+
+El Broccoli-Heroico lideraba el camino, tropezando con sus botas de brócoli. "¡Adelante, equipo! ¡A la carga!"
+
+Laurita, guiándolos, gritaba: "¡Por aquí! ¡Por el inodoro con cisterna rota!"
+
+Juanito, moviendo su nariz, exclamaba: "¡El hedor a… champú… me indica que estamos cerca!"
+
+Sofía, mirando con valentía, decía: "¡No permitiremos que las flores del lavabo se marchiten por esta maldad!"
+
+Miguelito, intentando parecer misterioso, añadía: "¡Las toallas de la mano, a buen recaudo!"
+
+María, con su risa contagiosa, decía: "¡Y hagamos reír a este villano… que se vea menos malo!"
+
+Llegaron al baño y… ¡allí estaba! El Señor Comegalletas, con un bigote pegajoso de galleta, escondido detrás de una pila de… ¡papel higiénico! Y, en sus manos, el señor Peluchito, temblando de miedo. Y junto a él… ¡una caja gigante llena de galletas de todas las formas y tamaños!
+
+"¡Ja, ja, ja!" se rio el Señor Comegalletas con voz ronca. "¡Nadie puede detenerme! ¡Voy a comer todas estas galletas y me convertiré en… ¡el Rey de las Galletas!"
+
+"¡Alto ahí, villano!" gritó Pepito, plantándose frente al Señor Comegalletas. "¡Somos los Superhéroes de la Guardería! ¡Y vamos a detenerte!"
+
+El Señor Comegalletas se rio aún más fuerte. "¡Ustedes? ¡Pero si parecen un montón de niños disfrazados!"
+
+El Broccoli-Heroico se preparó para su ataque… y se comió media bota de brócoli. "¡No me subestimes, Señor Comegalletas! ¡Tengo el poder… de comer brócoli… y… y…" Se atragantó.
+
+Laurita, mirando hacia el futuro (y aprovechando que tenía sed), vio que no funcionaría. "¡Chicos! ¡Necesitamos una estrategia! ¡Mi visión indica… ¡que el Señor Comegalletas tiene alergia al… ajo!"
+
+El Capitán Rayas olisqueó el aire, buscando rastros de ajo. "¡Confirmado! ¡Hay un ligero aroma a… pizza con ajo… en el pasillo!"
+
+Sofía sonrió. "¡Perfecto! ¡Tengo una idea!" Concentró su mente y… ¡empezó a hacer florecer las cebolletas del jardín que podían verse desde la ventana! ¡Eran un tipo de "ajo"!
+
+Miguelito, aprovechando el caos, susurró: "¡Hora de la… desaparición de los calcetines… otra vez!" (Pero esta vez se equivocó, y en vez de los calcetines, hizo desaparecer la esponja del lavamanos).
+
+María, con su sonrisa radiante, empezó a contar un chiste: "¿Qué le dice una galleta a otra? ¡Dame un mordisco! Ja, ja, ja!"
+
+El Señor Comegalletas, confundido por tanta locura, miró la lluvia de pétalos de cebolletas y escuchó el chiste, ¡y de repente… empezó a estornudar! "¡Achís! ¡Achís! ¡Aaaaachís!"
+
+Juanito, con el olor del estornudo a… ajo, aprovechó el momento. “¡Chicos! ¡Es el momento! ¡A por el Señor Comegalletas!"
+
+El Broccoli-Heroico, con el brócoli atascado en la garganta, corrió a toda velocidad y… ¡tropezó con una toalla!
+
+Laurita, resuelta, señaló el saco de las galletas con un grito: "¡A por las galletas, que se las comen ellos!"
+
+Sofía hizo florecer un clavel para intentar atrapar al señor Comegalletas, pero acabó atascada en una cortina.
+
+María, contagiando su alegría, hizo que la tos del señor Comegalletas, al ser más fuerte, se parase el susto. “¡Ahora toca abrazarlo!”
+
+El Capitán Rayas olfateó un poco más fuerte y, de repente, le entró un ataque de hipo… que impidió que pudiese ayudar en la refriega.
+
+Miguelito, al fin, decidió hacer un último movimiento… ¡y con su poder logró desaparecer la galleta que tenía el señor Comegalletas en el bolsillo!
+
+Así que, entre estornudos, flores, chistes, abrazos y un poco de brócoli (sí, también eso), los Superhéroes de la Guardería lograron… ¡vencer al Señor Comegalletas! Le quitaron el señor Peluchito, recuperaron las galletas (¡y el brócoli!), y lo convencieron de que las galletas son más sabrosas si se comparten.
+
+El Señor Comegalletas, tras recuperar la calma y dejar de estornudar, se unió a los niños y se convirtió en su… ¡amigo! Y cada día, después de la merienda, jugaban juntos a salvar la guardería de… bueno, de cualquier problema divertido que se les ocurriera.
+
+Y así, los Superhéroes de la Guardería, aunque un poco desastrosos y con superpoderes raros, demostraron que el trabajo en equipo, la amistad y, sobre todo, las ganas de divertirse… ¡son los mejores superpoderes del mundo!
+</body>
+```

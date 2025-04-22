@@ -1,0 +1,41 @@
+<prompt>
+Please write a creative and original Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Zahradní dobrodružství s malou květinkou a jejími roztomilými kamarády.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Zahradní dobrodružství s malou květinkou a jejími roztomilými kamarády.</title>
+<body>
+V malebné zahradě, plné kvetoucích růží a vonících levandulí, žila malá, něžná květinka jménem Růženka.  Byla to drobounká fialová květenka, s korunou jako z nejjemnějšího hedvábí.  Růženka milovala sluníčko, které ji denně hřálo na lístcích, a šumění větru, který jí proplétal korunou.  Ale nejvíc na světě si přála dobrodružství.
+
+Jednoho krásného rána, když slunce barvilo trávu do zlatavých odstínů,  se Růženka seznámila se svými novými kamarády.  Prvním byl brouček, sametový a lesklý jako drahokam, jménem Brouček Blesk.  Brouček Blesk se pyšnil svými rychlými křídly a rád létal od květiny ke květině, sbíral pyl a sdílel ho se svými přáteli.  Druhým kamarádem byla motýlka s křídly jako z duhy, jménem Motýlka Duha.  Její křídla se leskla, jak se v nich odráželo světlo, a  mluvila krásnými, melodickými tóny.
+
+"Ahoj," řekla Růženka, "jsem Růženka a já chci zažít dobrodružství!"
+
+Brouček Blesk přikývl: "Dobrodružství? To je skvělé!  Mám pro vás nádherný plán.  Zkusíme najít Tajemný dub, o kterém se povídá, že schovává poklady!"
+
+Motýlka Duha se zasmála: "Poklady?  To zní naprosto úchvatně!  Letíme!"
+
+A tak se trojice vydala na cestu.  Přeletěli přes záhon s voňavými levandulemi, proplouvali mezi vysokými kopřivami a přelézali přes kamennou cestičku.  Cesta nebyla jednoduchá.  Několikrát se ztratili v hustém keři, ale jejich neutuchající odvaha a vzájemná podpora je vždycky vrátily na správnou cestu.
+
+Po dlouhém putování narazili na majestátní starý dub, jehož kmen byl starší než samotná zahrada.  Jeho koruna se dotýkala nebe a jeho stín byl chladný a tichý.  Brouček Blesk, s jeho skvělým čichem, vnímal tajemnou vůni a v dálce slyšel slabé švitoření.
+
+"To je to!" zvolal.  "Tajemný dub!"
+
+Vstoupili pod rozložitou korunu a objevili tajnou stezku, která se vinula mezi kořeny.  S každým krokem se vzduch stával tajemnějším a plným neznámých zvuků.  A najednou, pod mohutným kořenem, našli skrytou, malou dřevěnou bedýnku.
+
+Byla zamčená, ale Brouček Blesk, s pomocí ostrých kousků trávy, ji s úžasnou zručností otevřel.  Uvnitř nebyly žádné drahé kameny ani zlato, ale sbírka krásných, sušených květů,  drobné semenáčky a kniha plná podivných obrázků a nádherných kreseb.
+
+Růženka, Motýlka Duha a Brouček Blesk se s úžasem dívali na nádherný poklad.  Kniha se jmenovala "Tajemství zahrady" a ukázala jim, jak důležité je vnímat malá, skrytá zázraky v zahradě.
+
+Pochopili, že poklad není jen v drahokamu, ale i v kráse přírody a v přátelství.  S plnými srdci se vrátili do svého domova, kde si přečetli každou stránku knihy.
+
+A tak se malá květinka Růženka, a její roztomilí kamarádi, měli stále s dobrodružstvími v zahradě, ale vždy s úctou a respektem k tajemstvím přírody.  A oni věděli, že dobrodružství čeká vždy za rohem, pokud máš odvahu a lásku k přírodě.
+</body>

@@ -1,0 +1,73 @@
+<prompt>
+Please write a uncomplicated Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Zagadka Starego Zegara, Który Znał Historie Wielu Pokoleń Ludzi'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>pl</lang_id>
+
+```xml
+<title>Zagadka Starego Zegara, Który Znał Historie Wielu Pokoleń Ludzi</title>
+<body>
+W małym, przytulnym miasteczku, gdzie domy malowano w pastelowych barwach, a zapach świeżych bułek unosił się w powietrzu każdego ranka, stał stary, piękny dom. Dom ten należał do rodziny Kowalskich. W samym sercu domu, w salonie z kominkiem i miękkimi dywanami, znajdował się wyjątkowy zegar. Był to Stary Zegar, wysoki, dębowy, z misternie rzeźbionymi liśćmi i postaciami aniołów na szczycie. Jego wahadło kołysało się miarowo, wydając cichy, spokojny dźwięk – tyk, tak, tyk, tak, jakby odmierzało czas dla całego świata.
+
+Zegar nie był zwyczajnym zegarem. Posiadał sekret. Znał historie wielu pokoleń ludzi, którzy mieszkali w tym domu. Widział śmiech dzieci, pierwsze kroki, pocałunki zakochanych, a także chwile smutku i pożegnań. Czasami, kiedy słońce wpadało przez okno, rzucał cienie, które tańczyły po ścianach, opowiadając historie tym, którzy chcieli słuchać.
+
+Pewnego dnia do rodziny Kowalskich zawitała mała dziewczynka o imieniu Zosia. Miała osiem lat, oczy pełne ciekawości i niespożytą energię. Od razu zauważyła Stary Zegar. Zafascynowana jego pięknem, zaczęła się przyglądać. Przez długie godziny siedziała obok niego, słuchając jego cichego tykania i wyobrażając sobie historie, które mógłby opowiedzieć.
+
+Pewnego wieczoru, gdy rodzice Zosi poszli już spać, dziewczynka cicho ześlizgnęła się z łóżka. Wiedziała, że nie powinna wychodzić, ale coś ciągnęło ją do salonu. Stary Zegar wydawał się czekać właśnie na nią. Zosia ostrożnie podeszła do zegara i szepnęła:
+
+– Cześć, Stary Zegarze. Czy masz jakąś historię dla mnie?
+
+Zegar, jakby usłyszał jej pytanie, cichutko zadzwonił. Dźwięk był tak delikatny, jak dzwoneczek. Nagle, wokół zegara zaczęło się dziać coś niezwykłego. Cienie na ścianach zaczęły się poruszać i formować obrazy. Zosia z zaciekawieniem wpatrywała się w nie.
+
+Obrazy zaczęły opowiadać historię. Widziała małego chłopca, który uczył się chodzić, trzymając się drewnianych mebli. Potem zobaczyła, jak ten sam chłopiec, już dorosły, zakłada rodzinę w tym samym domu. Zobaczyła wesela, urodziny, święta Bożego Narodzenia i smutne pożegnania.
+
+Obrazy przemawiały do niej w sposób, którego nie potrafiła wytłumaczyć. Rozumiała wszystkie emocje, radości i smutki, które towarzyszyły tym ludziom. Poczuła się częścią tych historii, jakby sama tam była.
+
+Gdy ostatni cień zniknął, a obrazy przestały tańczyć na ścianach, Zosia zdała sobie sprawę, że usłyszała jedną z wielu historii Starego Zegara. W głębi serca poczuła, że łączy ją z nim szczególna więź.
+
+– To było… niesamowite! – wyszeptała Zosia, nie mogąc oderwać wzroku od zegara.
+
+Zegar znów delikatnie zadzwonił. Tym razem w jego dolnej części pojawiła się malutka szufladka, którą Zosia wcześniej nigdy nie zauważyła. Dziewczynka ostrożnie ją otworzyła. W środku znajdowała się karteczka. Na karteczce napisane było:
+
+"Szukaj klucza ukrytego w książkach,
+które znają dawne ścieżki.
+Odszukaj sekret, który skrywa się w dębie,
+A poznamy całą historię ciebie."
+
+Zosia zamyśliła się. Klucz i książki… Wiedziała, że w domu jest wiele książek. Razem z dziadkiem uwielbiali przeglądać stare albumy i czytać baśnie. Przez kilka następnych dni Zosia spędzała czas w biblioteczce, przeszukując książki. Przeglądała strony, zaglądała za nie, próbując znaleźć klucz.
+
+Po kilku dniach, już prawie zrezygnowana, wzięła do ręki starą, grubą książkę z obrazkami. Była to książka o historii miasteczka. Zosia zaczęła przeglądać strony. Nagle, na jednej z ilustracji, zauważyła mały, metalowy przedmiot w kształcie liścia. Wyglądał jak… klucz!
+
+Ostrym paznokciem delikatnie wydostała klucz zza obrazka. Był mały i srebrny, bardzo delikatny. Uśmiechnęła się szeroko. Zadanie nie było łatwe, ale czuła się zdeterminowana, by poznać dalszą część tajemnicy Starego Zegara.
+
+Zgodnie z drugą wskazówką, musiała znaleźć sekret ukryty w dębie. Oznaczało to, że klucz pasuje do jakiegoś przedmiotu zrobionego z dębu. Najbliżej był przecież Stary Zegar!
+
+Zosia, trzymając klucz w dłoni, podeszła do zegara. Rozglądała się w poszukiwaniu otworu, do którego mogłaby włożyć klucz. W końcu, zauważyła malutką szczelinę w dolnej części zegara, tuż obok wahadła. Włożyła klucz i… pasował idealnie!
+
+Zosia przekręciła klucz. Usłyszała ciche kliknięcie. Z tyłu zegara otworzyły się drzwiczki. W środku, na półeczce, leżała kolejna karteczka. Zosia wzięła ją do ręki. Na karteczce napisane było:
+
+"Kto pierwszy w tym domu śmiech dał,
+jego sekret poznasz na swój wgląd.
+Gdy wskażesz ten uśmiech na portrecie,
+Historie nowe rozbłysną w świecie."
+
+Zosia zrozumiała, że musi odnaleźć portret osoby, która jako pierwsza zamieszkała w tym domu i się roześmiała. Wpadła na pomysł! Dziadkowie mieli mnóstwo rodzinnych zdjęć. Pobiegła do nich i zapytała, gdzie mogłaby znaleźć najstarsze zdjęcia.
+
+Po krótkich poszukiwaniach, znaleźli razem stary album, pełen czarno-białych fotografii. Na jednej z nich, uśmiechała się młoda kobieta, trzymając w ramionach małe dziecko. Obok nich stał mężczyzna, także uśmiechnięty. Zosia pokazała tę fotografię dziadkom.
+
+– To jest praprababcia Aniela i pradziadek Jan – powiedziała babcia. – Oni byli pierwszymi mieszkańcami tego domu.
+
+Zosia z radością wróciła do salonu. Stanęła przed Starym Zegarem i spojrzała na niego z nadzieją. Nagle, na tarczy zegara, zaczęły się pojawiać kolejne obrazy. Tym razem, były to obrazy z życia Anieli i Jana. Zobaczyła ich miłość, ich radości i troski. Zobaczyła, jak wychowywali dzieci, jak budowali swoje życie w tym domu.
+
+Obrazy były tak piękne i wzruszające, że Zosia poczuła łzy w oczach. Zrozumiała, że Stary Zegar nie tylko odmierza czas, ale także przechowuje wspomnienia i opowieści o ludziach, którzy mieszkali w tym domu.
+
+Gdy ostatni obraz zniknął, a cienie zamilkły, Zosia poczuła się zupełnie inaczej. Wiedziała, że Stary Zegar stał się jej przyjacielem. Rozumiała, że czas to coś więcej niż tylko minuty i godziny. To także historie, wspomnienia i miłość, które pozostają z nami na zawsze.
+
+Od tamtego dnia Zosia regularnie odwiedzała Stary Zegar. Rozmawiała z nim, opowiadała mu swoje historie. Stary Zegar, w zamian, wciąż dzielił się z nią swoimi sekretami, cichymi opowieściami o życiu, miłości i przemijaniu. A Zosia, z każdym dniem, coraz bardziej doceniała to, co ma.

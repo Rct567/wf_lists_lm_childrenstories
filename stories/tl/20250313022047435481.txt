@@ -1,0 +1,63 @@
+<prompt>
+Please write a educational Tagalog children's story that is at least 1000 words long.
+It must be completely written in proper Tagalog (TL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kung Paano Nagkaroon ng mga Gintong Dahon ang Puno ng Bayabas'.
+</prompt>
+
+<model>google/gemma-3-27b-it:free</model>
+
+<lang_id>tl</lang_id>
+
+<title>Kung Paano Nagkaroon ng mga Gintong Dahon ang Puno ng Bayabas</title>
+<body>
+Sa isang maliit na baryo na napapaligiran ng malawak na bukirin at malulusog na kahoy, may isang napakagandang puno ng bayabas. Hindi ito katulad ng ibang puno ng bayabas. Bagama’t mayroon din itong matamis na bunga, ang kanyang mga dahon ay karaniwang luntian lamang – hindi nakakasilaw, hindi rin ginto.  Ang punong ito ay kinalalakihan na ni Lola Ising, ang pinakamahusay na storyteller sa buong baryo.
+
+Isang araw, dumating sa baryo si Mang Tomas, isang magsasaka mula sa malalayong probinsya. Si Mang Tomas ay kilala sa kanyang pagiging masipag at lalo na sa kanyang kaalaman sa mga halaman.  Nakita niya agad ang puno ng bayabas ni Lola Ising at humanga, ngunit nanliit sa kulay ng mga dahon nito.
+
+“Ang ganda ng puno ninyo, Lola Ising,” bati niya. “Pero kung gintong-ginto sana ang mga dahon nito, sadyang hindi na kakayanin ang kagandahan.”
+
+Ngumiti lamang si Lola Ising. “Ah, napansin mo rin pala. May kuwento riyan, Mang Tomas. Kuwento ng katipiran, tiyaga, at pagmamalasakit sa kalikasan.”
+
+“Tunay na interesado po akong marinig iyan,” sagot ni Mang Tomas, humalukipkip at naupo sa ilalim ng lilim ng puno.
+
+“Noong araw, mahirap ang buhay.  Ang mga magsasaka sa baryong ito ay halos walang ani. Hindi sapat ang pagkain, at kulang pa nga sa pera para pambili ng mga kailangan, lalo na ang pataba para sa mga pananim,” simulang kuwento ni Lola Ising. “Ang puno na ‘to…mas bata pa sa akin noong mga panahong iyon. Maliliit pa lang siya, nanghihina at halos matuyo na.  Ang mga dahon niya, kulay kalawang, halos wala nang silbi.”
+
+“Nakakalungkot naman po,” tugon ni Mang Tomas.
+
+“E, walang kumikilos noon. Sabi ng karamihan, ‘Hayaan na ‘yan. Wala na tayong magagawa.’ Pero iba ang puso ni Aling Marta, ang lola sa lola ko. Matiyaga at mapagmahal, lalo na sa kalikasan. Ayaw niyang manood habang humihina ang napakagandang punong bayabas na ito.”
+
+“Ano pong ginawa ni Aling Marta?” tanong ni Mang Tomas.
+
+“Hindi yumuko si Aling Marta. Alam niya na kailangan ng puno ng bayabas ng pataba, ngunit wala silang pambili. Kaya nag-isip siya ng paraan. Sa halip na bumili ng chemical fertilizer, inumpisahan niyang mangolekta ng mga nahulog na dahon, mga balat ng prutas, mga tirang pagkain mula sa bahay…At hindi lamang iyon,  nanghihingi rin siya sa mga kapitbahay, nagpapaliwanag at humihingi ng tulong.  Sa unang pagkakataon, nagkaisa ang mga tao sa baryo na tulungan ang isa’t isa.”
+
+“Talagang maganda po ‘iyan!” bumilib si Mang Tomas. 
+
+“Sa halip na itapon, lahat ng mga organikong materyal na nakukuha nila, pinupulbos o pinaghihiwa-hiwalay ni Aling Marta at ikinakalat sa paligid ng puno. Sa una, halos walang nagbago. Pero araw-araw, matiyagang ginagawa ni Aling Marta.  Nagsasabi siya sa puno, ‘Lumakas ka, anak. Kaya mo ‘yan.’  Ka-usap pa niya ang puno, alam mo…”
+
+Napangiti si Mang Tomas. “Mahalaga po talaga ang pag-aalaga at pagmamahal.”
+
+Ipinagpatuloy ni Lola Ising ang kuwento, “Lumipas ang mga buwan, at unti-unti, nagsimulang magbago ang itsura ng puno.  Naging luntian ang mga dahon, mas malaki, mas makulay.  Sumibol ang napakaraming bulaklak ng bayabas, at pagkatapos, napakaraming bunga! Hindi lang iyon, nagsimula ring maging masagana ang ani ng lahat ng mga pananim sa baryo!  Naging mas masaya tayo, mas mayaman, mas malusog!”
+
+“Isang himala!” bulalas ni Mang Tomas.
+
+“Hindi himala, iho,” natawa si Lola Ising. “Gawa iyon ng sipag, tiyaga, at pagmamalasakit sa kalikasan.  Ipinakita ni Aling Marta na hindi kailangang magastos upang makapagpataba ng lupa. Pwede natin gamitin ang mga likas na yaman na nasa paligid natin, 'yung mga tinatawag nating biodegradable wastes – mga bagay na nabubulok. Pinaiiral niya ang cyclic na proseso ng kalikasan - nabubulok, nagiging pataba, dinidilig sa halaman, lumalaki, nagbubunga…”
+
+“Talaga pong napakatalino ni Aling Marta!” tuwa ni Mang Tomas.
+
+“Opo! Ngayon para sa paggantimpala, napansin ni Bathala ang kabutihan ni Aling Marta at ang katatagan ng komunidad. Isang gabi, habang natutulog ang lahat, nagpadala si Bathala ng bahagharing nagkislap sa ibabaw ng puno ng bayabas. At sa pagsikat ng araw, lumitaw ang kamangha-manghang pagbabago....” itinuro ni Lola Ising ang itaas, “Ang mga dahon ng puno, hindi na berde… naging GINTO!"
+
+“Ginto?!” manghang Tanong ni Mang Tomas.
+
+"Oo, ginto! Hindi tunay na ginto na pwedeng ipambenta, Mang Tomas, kundi isang kulay-ginto na nagpapakita ng pagpapala at pagsang-ayon ni Bathala sa ating pagmamalasakit sa kalikasan. Simula noon, ang puno ng bayabas na ito’y naging simbolo ng kasaganaan at pagkakaisa sa ating baryo.  Pinaaalalahanan tayo na palaging magtipid, mangalaga, at magmahal sa ating kalikasan.”
+
+Tinitigan ni Mang Tomas ang puno ng bayabas. Napansin niya na kahit hindi 'tunay' na kulay-ginto ang mga dahon, mayroon silang kakaibang kinang - parang sinag ng araw na sumasayaw at nagbibigay buhay sa puno.
+
+"Maraming salamat po, Lola Ising," sabi ni Mang Tomas. "Hindi lang po ako natuwa sa kuwento, kundi tinuruan mo rin ako ng mahalagang aral. Babalik po ako sa probinsya namin at ituturo ko sa aking mga kababayan ang inyong kuwento at pamamaraan.  Kailangan nga nating alagaan ang ating lupa!"
+
+Ngumiti si Lola Ising. "Magaling, iho.  Iyan ang pinakamagandang regalo na maibibigay mo sa aking at sa aming komunidad.  Lahat tayo, may pananagutan sa pag-aalaga ng ating Inang Kalikasan. Dahil kapag iniingatan natin siya, siya rin ang mag-aalaga sa atin.”
+
+Bago umalis si Mang Tomas, nakita niyang may mga bata na naglalaro at nangunguha ng bunga mula sa puno ng bayabas.  Ngayon, alam na ni Mang Tomas, at alam na rin ng lahat ng mga bata sa baryo, ang tunay na dahilan kung paano nagkaroon ng mga gintong dahon ang puno ng bayabas. Ang mga dahon na iyon ay hindi lamang simbolo ng kagandahan, kundi simbolo ng pag-asa, pagkakaisa, at pagmamahal sa kalikasan.
+</body>

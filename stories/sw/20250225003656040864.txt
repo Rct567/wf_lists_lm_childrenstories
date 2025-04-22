@@ -1,0 +1,56 @@
+<prompt>
+Please write a simple and easy-to-follow Swahili children's story that is at least 1000 words long.
+It must be completely written in proper Swahili (SW).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Matendo Ya Kihisia Ya Mvulana'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>sw</lang_id>
+
+<title>Matendo Ya Kihisia Ya Mvulana</title>
+<body>
+Hapo zamani, katika kijiji cha/remove kitongoji, kulikuwa na mvulana mdogo aliyeitwa Tatu. Tatu alikuwa mvulana mwenye furaha na raha, lakini pia alikuwa na matatizo mengi ya kihisia. Mara nyingi alikuwa na hasira, na mara nyingi alikuwa na huzuni.
+
+Mvulana mdogo Tatu alikuwa na kaka yake mkubwa aliyeitwa Dadi, ambaye alikuwa na umri wa miaka kumi na tano. Dadi alikuwa mvulana mwenye hekima na busara, na mara nyingi alimsaidia Tatu kuondokana na matatizo yake ya kihisia.
+
+Siku moja, Tatu alikuwa katika shamba la kaka yake, akipanda mashine za kumwagilia maji kwenye mashamba. Alipokuwa akifanya kazi, aliona ndege mdogo wa kijani akiruka kwenye mti ulio karibu na shamba. Tatu alikuwa na hamu ya kuona ndege huyo kwa karibu, na akaamua kumfuata.
+
+Tatu aliacha kazi yake na kuendelea kusonga nyuma ya ndege, ambaye alikuwa akiruka kutoka mmoja hadi mwingine. Tatu alikuwa na furaha kubwa, na alikuwa na matumaini ya kuona ndege huyo kwa karibu. Lakini, pamoja na furaha yake, Tatu alikuwa na wasiwasi kwamba atapoteza ndege huyo.
+
+Baada ya kuendelea kusonga nyuma ya ndege kwa muda mrefu, Tatu alifika kwenye eneo la mbuga, ambapo aliona ndege huyo akiruka kwenye mti mkubwa. Tatu alikuwa na furaha kubwa, na akaamua kukaa chini ya mti ili kuona ndege huyo kwa karibu.
+
+Wakati Tatu alipokuwa akikaa chini ya mti, aliona kwamba ndege huyo alikuwa na matatizo yake mwenyewe. Ndege huyo alikuwa na mwili uliojeruhiwa, na alikuwa na ugumu wa kuruka. Tatu alikuwa na huruma kwa ndege huyo, na akaamua kuimsaidia.
+
+Tatu alienda kukutana na ndege huyo, na kuona kwamba alikuwa na wingi wa majeraha. Tatu alikuwa na wasiwasi kwamba ndege huyo atafeli, na akaamua kuitwa kaka yake Dadi kuja kusaidia. Dadi alifika haraka, na akaona kwamba ndege huyo alikuwa na matatizo yake.
+
+Dadi aliamua kuwaokoa ndege huyo, na kutoa huduma ya kwanza. Baada ya kutoa huduma ya kwanza, Dadi alienda kuokota dawa za kuokoa ndege huyo. Tatu alibaki na ndege huyo, na kuwa na matumaini ya kuona akapona.
+
+Baada ya muda mrefu, Dadi alirudi na dawa, na kuzitoa kwa ndege huyo. Ndege huyo alianza kupona haraka, na Tatu alikuwa na furaha kubwa. Tatu alikuwa na shukrani kwa Dadi kwa kusaidia kuokoa ndege huyo.
+
+Wakati ndege huyo alipokuwa akipona, Tatu alikuwa na nia ya kuifanya ndege huyo iwe rafiki yake. Tatu alikuwa na matumaini ya kuona ndege huyo kwa mara nyingi, na kuwa na furaha pamoja. Ndege huyo alikuwa na hisia sawa, na akaanza kuwa na uhusiano wa karibu na Tatu.
+
+Tatu na ndege huyo walikuwa na muda mgumu wa kuwa pamoja, na Tatu alikuwa na furaha kubwa ya kuwa na rafiki mpya. Tatu alikuwa na nia ya kushiriki habari zake na ndege huyo, na kuwa na usaidizi wa pamoja.
+
+Wakati Tatu na ndege huyo walikuwa wakiwa pamoja, Tatu alikuwa na matatizo yake ya kihisia. Tatu alikuwa na hasira na huzuni, lakini ndege huyo alimsaidia kusonga mbele. Ndege huyo alikuwa na busara na hekima, na alimpa Tatu ushauri wa kutatua matatizo yake.
+
+Tatu alikuwa na shukrani kwa ndege huyo kwa kusaidia, na akaamua kuwa na matumaini ya kushinda matatizo yake. Tatu alikuwa na nia ya kuwa na furaha na raha, na kuwa na uhusiano mzuri na ndege huyo.
+
+Baada ya muda mrefu, Tatu alikuwa na mabadiliko makubwa katika maisha yake. Tatu alikuwa na furaha na raha, na alikuwa na uhusiano wa karibu na ndege huyo. Tatu alikuwa na shukrani kwa ndege huyo kwa kusaidia, na akaamua kuwa na matumaini ya kuendelea kuwa na uhusiano mzuri.
+
+Tatu na ndege huyo walikuwa na maisha mazuri pamoja, na Tatu alikuwa na furaha kubwa ya kuwa na rafiki mpya. Tatu alikuwa na nia ya kushiriki habari zake na ndege huyo, na kuwa na usaidizi wa pamoja. Na kwa hivyo, Tatu na ndege huyo walikuwa na uhusiano wa karibu na wa furaha, na Tatu alikuwa na matumaini ya kuendelea kuwa na maisha mazuri.
+
+Mwisho wa siku, Tatu alikuwa na furaha kubwa, na alikuwa na shukrani kwa ndege huyo kwa kusaidia. Tatu alikuwa na nia ya kuwa na matumaini ya kushinda matatizo yake, na kuwa na uhusiano mzuri na ndege huyo. Na kwa hivyo, Tatu alikuwa na maisha mazuri, na alikuwa na furaha kubwa ya kuwa na rafiki mpya.
+
+Na kwa hivyo, hadithi ya Tatu na ndege huyo inaonyesha kwamba uhusiano wa karibu na wa furaha unaweza kusaidia watu kusonga mbele na kushinda matatizo yao. Hadithi ya Tatu na ndege huyo pia inaonyesha kwamba matumaini na furaha yanaweza kusaidia watu kuwa na maisha mazuri.
+
+Kwa hivyo, tunaweza kujifunza kutoka kwa hadithi ya Tatu na ndege huyo kwamba uhusiano wa karibu na wa furaha ni muhimu kwa kuwa na maisha mazuri. Tunaweza pia kujifunza kwamba matumaini na furaha yanaweza kusaidia watu kusonga mbele na kushinda matatizo yao.
+
+Na kwa hivyo, hebu tujifunze kutoka kwa hadithi ya Tatu na ndege huyo, na kuwa na matumaini ya kuwa na uhusiano wa karibu na wa furaha. Hebu tuwe na furaha na raha, na kuwa na usaidizi wa pamoja. Na kwa hivyo, tutakuwa na maisha mazuri, na tutakuwa na furaha kubwa ya kuwa na marafiki wapya.
+
+Mwisho wa hadithi, Tatu alikuwa na furaha kubwa, na alikuwa na shukrani kwa ndege huyo kwa kusaidia. Tatu alikuwa na nia ya kuwa na matumaini ya kushinda matatizo yake, na kuwa na uhusiano mzuri na ndege huyo. Na kwa hivyo, Tatu alikuwa na maisha mazuri, na alikuwa na furaha kubwa ya kuwa na rafiki mpya.
+
+Na kwa hivyo, hadithi ya Tatu na ndege

@@ -1,0 +1,35 @@
+<prompt>
+Please write a creative and original Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Spītnieks zēns, kas apguva pacietību un draudzību ar dzīvniekiem.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lv</lang_id>
+
+<title>Spītnieks zēns, kas apguva pacietību un draudzību ar dzīvniekiem.</title>
+<body>
+Rūdolfs bija spītnieks zēns.  Viņš neklausījās vecākiem, nepievērsa uzmanību skolotājām un, protams, nekad nebija pirmais spēlēs.  Viņam patika strīdēties, un viņš bieži izaicināja visu pasauli.  Rūdolfa istaba bija pilna ar noliktiem rotaļlietu zvēriem, bet tie palika vienaldzīgi pret viņa nepārtraukto, spītīgo uzvedību.  Pat viņa mīļākā rotaļlieta, pelēkā zaķīte, šķita piemirsusi viņa pastāvīgo skaudību.
+
+Viņa māte, kas saucās Elīza, bija nogurusi.  Viņa centās ar Rūdolfu runāt, bet viņš vienkārši noraidīja viņas gudros vārdus.  Tēvs, Juris, mēģināja iemācīt viņam pacietību, stāstot par meža dzīvniekiem un viņu savstarpējo cieņu, bet Rūdolfs uzskatīja, ka tas viss ir garlaicīgi.  Viņš vēlējās ātrus rezultātus, ātras uzvaras un ātrus atzinumus.  Viņš nevarēja saprast, ka pacietība ir kā lēni augošs kokaugs – ar laiku tā dos savus sulīgos augļus.
+
+Vienu saulainu rītadien, ejot meža ceļmalē, Rūdolfs satika vecu meža lauvīti.  Lauvīte ar dziļām acīm un mīkstu kažokādu sēdēja pie koka, nomodā.  Rūdolfs, apduļķojies ar nicinājumu pret visu un visiem, pamāja ar roku. "Vēl viens garlaicīgs dzīvnieks," viņš nodomāja.
+
+Bet lauvīte, šķietami nesaprotot viņa necieņpilno attieksmi, lēnām pacēla galvu.  "Sveicināti, mazais zēn," viņa sacīja, un viņas balss bija kā plūstošs strauts.  "Atnāc tuvāk, ļauj man tev stāstīt stāstu."
+
+Rūdolfs, neskatoties uz sevi, noķēra lauvītes skatienu un tuvojās. Viņš uzskatīja, ka viņa nodarbosies ar garlaicīgu stāstījumu par kādu meža dzīvnieku.  Bet lauvīte sāka stāstīt par pacietību. Viņa stāstīja par lapseni, kas gadiem ilgi gaidīja, kad ziedēs baltais liepas zieds, lai uz tā varētu izveidot savu medu. Viņa stāstīja par vāverīti, kas lēnām, diena pēc dienas, krāja riekstus, lai ziemā varētu izdzīvot. Viņa stāstīja par ērgļa cāļiem, kas nedrīkstēja lidot, līdz bija pietiekami stipri. Un Rūdolfs, klausoties, saprata, ka pacietība nav vājums, bet gan spēks.
+
+Pēc lauvītes stāsta, Rūdolfs nejutās tik spītīgs kā iepriekš.  Viņš sajuta kaut ko jaunu, kaut ko dziļu.  Viņš lūdza lauvīti atļaut viņam palīdzēt, ievācot riekstus vāverītei.  Un, lai gan Rūdolfs vēlējās ātri izpildīt uzdevumu, lauvīte lūdza viņu apstāties. Viņa teica: "Pacietība nav tā, kas notiek ātri. Tas ir tas, ko tu dari katru dienu."
+
+Rūdolfs, klausoties lauvītes vārdos, sāka ievākt riekstus. Viņš veltīja laiku katram riekstam, pārbaudīja katru koku,  un tas nebija tik garlaicīgi kā iepriekš.  Viņš sāka pamanīt dabu, katru mazo detaļu.  Viņš saprata, ka dabā viss ir savstarpēji saistīts.
+
+Tā Rūdolfs atrada draudzību ar citiem meža dzīvniekiem.  Viņš palīdzēja meža vāverēm, pamanīja kā putni būvē savus ligzdotājus un saprata, ka tas nav tikai par uzvarām.
+
+Un, ar katru jauno draugu, Rūdolfs atrada kaut ko jaunu un skaistu.  Viņš satika zvirbuļus, kas dziedāja skaistas dziesmas rīta gaismā, un saprata, ka arī viņam ir ko dot.  Spītnieka zēns bija pazudis, vietā bija izaudzis zēns, kurš izprast pacietību un draudzību ar dzīvniekiem.
+
+Viņa dzīve vairs nebija par spīdīgām uzvarām, bet par skaistumu, kas auga, lēnām un konsekventi.  Viņš nebija pirmais visā, bet viņš bija zēns, kurš saprata, ka skaistums atrodas katrā mazā un lielsā lietā, katrā lapas uzpūtienā, katrā putna dziedāšanā.  Rūdolfs saprata, ka pacietība un draudzība ir svarīgāk par jebkuru uzvaru.
+</body>

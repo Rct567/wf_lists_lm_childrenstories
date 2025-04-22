@@ -1,0 +1,45 @@
+<prompt>
+Please write a educational Kongo children's story that is at least 1000 words long.
+It must be completely written in proper Kongo (KG).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Mpasi ya Kinzodi ya Mbangu ya Ntima ya Ngombo'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>kg</lang_id>
+
+<title>Mpasi ya Kinzodi ya Mbangu ya Ntima ya Ngombo</title>
+<body>
+Ngeye wina mpangi, wazi! Lelo, beto ta tuba diaka mukanda mosi ya kyeleka, ya nkumbu ya Mpasi ya Kinzodi ya Mbangu ya Ntima ya Ngombo.
+
+Muna nene ya zulu, kuna ya bansi bonso, muna bambanza ya banzola ya Bantu, kuna kwa nkufi ya Kinzodi,  bantu batondaka kikalulu ya mbangu ya ntima. Kansi, nkumbu na yau ya kyeleka ziku beto zaba ko, kansi yau yadiambudisa ebi.
+
+Muna nsi ya nkanda ya mbangu, kuna ngombo mosi ya nkumbu ya Mboma. Ngombo yayi yadi kala ngombo ya lulendo, yo kelombaka na mbuta bonso yo ke yau mosi. Yo kedingisaka nsangu, yo ke tubaka na bantu,  kansi konso ntangu yau keningisaka bamambulu y'e ngindu ya bantu, ya ntangu yina yau yadikala mbongo.
+
+Muna mbangi ya ngombo yayi, Mboma yameka mpila zole yonso ya kubaka yau na ntoto. Yau yadi fulumuna mbalu, yau yadi sala na nzala na zoba. Kansi yau yakukuma na ndumbu yonso.
+
+Muna nsuka, yau yatonga ntangwa ya kusala kangu ya nkufi. Muna lango ya ntangwa yina, nsi ya Kinzodi, yadi kuminina nkisi ya ndulu ya nzela mosi ya bantu.
+
+Ntangu mbangu ya ntima ya yau yadi kubakama, yau yakukuma na kinguma, mpasi ya bampunda. Yau yamesima mpila zole ya ngogo, na ngindu yau yadi sumbaka.
+
+"Tuba," ngombo Mboma kutuba. "Beno, beto fwete longa konso muntu mpasi na beto ya lulendo."
+
+Beno na bantu ba ntoto batondaka ngogo yayina ya mbangu. Yo yameka na kuyika konso muntu ya nzola ya ngindu ya lulendo. Yo yavanga na ntotila na makasi ya nima.  Yau yasala makasi bonso nzadi.
+
+Muna nsuka, bantu banso bayika yango. Kansi, muna yina, bantu bonso basumbaka.  Ngombo Mboma yakumonisa kibeni ntangwa, mbangu na ntima yau yasala mayela.
+
+Kansi, yau yasala diaka mpasi, kansi ko mpasi ya mbote.  Muna dibundu na Kinzodi, bantu bonso balongaka mutindu ya kutuba mbangu, kansi ko,  mpila ya kuyamba konso mpasi na ntima. Bantu kubakaka ngolo na kusala mayela mpe na kutambula nsangu.
+
+Yau yatokama ngogo, bonso nzadi. Yo yatokama konso kilumbu, yatokama konso ntangu, yau yatokama yina mbangu. Muna ntotila na mvu yau, bo kuzwaka ngolo.
+
+Ngombo Mboma yameka kuminisa bantu na ntoto mpila mosi, bayimina konso ngogo ya yau. Ya yidina, mayala na yau yasala ya kusingaka, mbangu.  Kansi yau yadi ko nsuka ya dibundu, ko yau yadi muntu wa yina.  Ntalu ya nkisi ya ntotila, mbeni yasala ngolo. Yau yayika konso muntu.
+
+Yo yalumbama konso mvu ya bosoto. Ntangu mbangu yasala ya ntangwa, na ngindu ya mbeni, konso ngindu ya yau. Bantu bayimina mambote, mu nkutu.
+
+Kansi ntangu, ntangu beto kelemvoka bonso Mboma. Kansi, beto fwete vanda ya beto, muna ntima ya mbangu, ya ngolo. Ngombo Mboma, yameka nzila yina.
+
+Yau yatambula luzingu na mbu. Mbangu na ntima yau yambudilwa mayela, yo kemonisaka muntu.  Beto fwete songa nsangu yayina, yo kelemvoka diaka yo. Ngeye wina mpangi. Beto ke samba mu diambu ya lukumu, mpe yingila konso kilumbu ya mpila, beto ke sambaka, ntangwa bonso ntu. Muna mpila ya nzola, beto fwete vanda ya ngolo. Beto fwete lungisa mbeya yonso na kinzodi. Ya lukumu, ya nsangu ya mbote.  Beto ta sala yo!
+</body>

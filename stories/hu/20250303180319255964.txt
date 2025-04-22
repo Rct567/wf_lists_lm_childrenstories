@@ -1,0 +1,70 @@
+<prompt>
+Please write a dialog-based Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Karcsi, a Kismalac, aki Utazni Vágytaz a Holdra'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>hu</lang_id>
+
+<title>Karcsi, a Kismalac, aki Utazni Vágytaz a Holdra</title>
+<body>
+Karcsi, a kismalac, mindig is érdeklődött a csillagok és a hold iránt. Gyakran ült az ablakánál, és nézte, ahogy a hold felkel, és az éjszakai égbolton ragyog. Álmait beteljesítendő, Karcsi elhatározta, hogy egyszer elutazik a holdra.
+
+- Anya, én a holdra akarok utazni! - mondta Karcsi izgatottan.
+
+- De Karcsi, az lehetetlen! - válaszolta az anyja. - A hold olyan messze van, és nincs olyan jármű, amely el tudna vinni oda.
+
+Karcsi nem adta fel. Keresni kezdte a megoldást, és hamarosan talált egy öreg, bölcs baglyot, aki a holdról és a csillagokról mesélt neki.
+
+- Hallottam egy történetet egy varázslatos űrhajóról, amely el tud vinni a holdra - mondta a bagoly. - De az űrhajó rejtve van, és csak azok találhatják meg, akik elég bátrak és okosak.
+
+Karcsi izgatottan hallgatta a bagoly szavait, és elhatározta, hogy megkeresi az űrhajót. Útnak indult, és hamarosan találkozott egy barátságos sárkánnyal, aki hajlandó volt segíteni neki.
+
+- Én ismerem az utat az űrhajóhoz - mondta a sárkány. - De vigyázz, mert az út veszélyes, és sok akadályba ütközhetsz.
+
+Karcsi és a sárkány elindultak az űrhajó keresésére. Útközben találkoztak egy bölcs öreg teknőccel, aki tanácsokat adott nekik.
+
+- Az űrhajóhoz vezető út hosszú és nehéz - mondta a teknőc. - De ha kitartóak vagytok, és együttműködtök, akkor elérhetitek a célotokat.
+
+Karcsi, a sárkány és a teknőc továbbindultak, és hamarosan elértek egy nagy, zöld erdőhöz. Az erdőben találkoztak egy csapat vidám tündérrel, akik hajlandóak voltak segíteni nekik.
+
+- Mi ismerjük az erdőt, és tudjuk, hol van az űrhajó - mondták a tündérek. - De először meg kell oldanotok egy feladatot, hogy bizonyítsátok, érdemesek vagytok az űrutazásra.
+
+A tündérek egy feladatot adtak Karcsinak és barátainak: meg kellett találniuk egy rejtett kincset az erdőben. Karcsi és barátai nekiindultak a kincskeresésnek, és hamarosan találtak egy rejtett barlangot.
+
+- A kincs itt van! - mondta Karcsi izgatottan.
+
+De a barlangban egy nagy, gonosz sárkány várt rájuk. A sárkány nem akarta, hogy Karcsi és barátai megtalálják a kincset, és elkezdte üldözni őket.
+
+- Gyorsan! - kiáltotta a sárkány. - Nem engedem, hogy elvigyétek a kincset!
+
+Karcsi és barátai futni kezdtek, de a sárkány közeledett. Éppen amikor úgy tűnt, hogy mindent elveszítenek, a teknőcnek eszébe jutott egy ötlet.
+
+- Használjuk a sárkány erejét ellenünk! - mondta a teknőc.
+
+A sárkányt sikerült megállítani, és Karcsi és barátai megtalálták a kincset. A tündérek gratuláltak nekik, és elmondták, hol van az űrhajó.
+
+- Az űrhajó a következő dombon van - mondták a tündérek. - De vigyázzatok, mert az utazás veszélyes lesz!
+
+Karcsi és barátai elindultak az űrhajóhoz, és hamarosan elértek a dombhoz. Az űrhajó egy nagy, fényes gép volt, amely készen állt az indulásra.
+
+- Itt van! - mondta Karcsi izgatottan. - Az űrhajó, amely elvisz a holdra!
+
+Karcsi és barátai beszálltak az űrhajóba, és elindultak a hold felé. Az utazás hosszú és veszélyes volt, de Karcsi és barátai kitartottak, és végül elértek a holdra.
+
+- Megcsináltuk! - mondta Karcsi boldogan. - Eljutottunk a holdra!
+
+Karcsi és barátai a holdon sétáltak, és csodálták a csillagokat. Az űrhajó várta őket, hogy visszavigye őket a Földre.
+
+- Köszönöm, barátaim - mondta Karcsi. - Nem tudtam volna megcsinálni nélkületek.
+
+Karcsi és barátai visszatértek a Földre, és mindig emlékeztek az űrutazásra. Karcsi anyja boldog volt, és büszke volt a fiára.
+
+- Karcsi, te egy hős vagy! - mondta az anyja. - Sosem felejtem el, hogy eljutottál a holdra!
+
+Karcsi mosolygott, és tudta, hogy az álmai valóra váltak. A holdra utazás lehetetlennek tűnt, de ő kitartott, és elérte a célját. És mindig emlékezett barátaira, akik segítették őt az úton.</body>

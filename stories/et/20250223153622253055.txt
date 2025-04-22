@@ -1,0 +1,33 @@
+<prompt>
+Please write a fun and entertaining Estonian children's story that is at least 1000 words long.
+It must be completely written in proper Estonian (ET).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Minu Lapsepõlv Ja Selle Väga Ilusad Mälestused'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>et</lang_id>
+
+<title>Minu Lapsepõlv Ja Selle Väga Ilusad Mälestused</title>
+<body>
+Kui ma olin väike laps, elasime me ilusas puidust majas, mis seisis kõrge mäe tipul.  Maja akendest avanes imeilus vaade rohelistele mägedele ja sinisele järvele, mis peegeldas taevaserval valgete pilvede peegeldust.  Mulle meeldis kõige rohkem hommikused päikesetõusud, sest siis värvus taevas kõikvõimalikes roosades ja oranžides toonides.  Mäe nõlvadel kasvasid imepärased lilled, igaüks neist omal moel eriline.  Mägi oli minu mängumaa.
+
+Päikesepaistelisel suvepäeval, kui õhk oli täis metsalinde ja mesilaste suminat, otsisin ma oma mängukaaslasi, et koos metsas seiklusi ette võtta.  Linnulaulu saatel kõndisime mööda rohelisi teid, jalad märjad aga õnnelikud.  Me leidsime kaugelt kuldset liiva, mille sees peitusid imepärased kivid.  Mõnikord tundus, et kivid räägivad minuga oma salajastest lugudest, ja mulle tundus, et mõistan neid.  Meil oli oma salajane metsa-ühing, kus kõik olid võrdsed ja koos rääkisime kõikvõimalikest asjadest.
+
+Ühel päeval, kui päike paistis kõige valgemalt ja kuumalt, leidsin ma metsa servast kummalise puu.  Puul oli ainulaadne kuju ja sellel näis olevat suur, tumeroheline leht, mis oli kumer nagu suur vihmavari.  Ma uurisin seda puud ja tundsin, et see paistab nähtamatult minuga rääkimas.  Puust paistsid läbi imepärased sädemed ja ma arvasin, et puu on mõni salapärane võlur.
+
+Siis hakkasid meile ette tulema uusi ja uusi seiklusi.  Leidsime metsast peidetud allika, mille vesi oli kristallselge ja nii külm, et see andis meile erilise värskuse.  Me mängisime selles allikas, hüppides ja pritsides vesi üksteise peale.  Meil oli omamoodi keel, millega suhtlesime metsloomadega, kes tundsid meid ja meid usaldanud.
+
+Ühel päeval, kui metsas seiklusi ette võtsime, leidsime kivi, millel olid veidrad tähed ja märgid.  Ma arvasin, et see on iidne võluri-kirst, mis on peidetud meie eesmärkideks.  Võtsime selle kivi endaga kaasa ja suhtlesime sellega pikalt, et püüda selle saladust lahti mõtestada.  Meil õnnestus, sest see kivi rääkis meile lugu kaugest minevikust, rääkis meile lugusid vanade metsavendade ja õnnelikest lindudest.
+
+Eriti meeldis mulle mängida peidus.  Püüdsin oma sõpru leida, peites end puude taha ja kõrgemate metsapõõsaste vahele.  Mõnikord leidis keegi mind kohe, kuid mõnikord oli minu leidmine suurem väljakutse.  Olles peidus, tundsin ma ennast maailma keskseimana ja ma tundsin, et ma olin osaline kõigest selle looduskeskkonna ilu.
+
+Kui päike hakkas laskuma ja värvis taevas erksate punaste ja kuldsete toonidega, kogunesime me oma puidust majade juurde, et jagada oma päeva seiklusi.  Me rääkisime ja naersime, ja tundsime end kõige õnnelikumana.  See oli meie metsamaa, meie metsa-ühing, meie koht.
+
+Ühel külmal talveõhtul, kui lumest oli tekkinud imeilus lumisel mäe tipul ja kõik ümberringi oli vaikne, istusin ma oma voodis ja mäletasime oma imelise lapsepõlve.  Kõik need metsa seiklused, kõiksugu mängud ja uusi metsa asulaid, need meeldejäävad kohad ja sõbrad olid minu mälus kindlalt.  Ma mäletan neid sädemeid, neid linde, neid kive, neid maastikke ja seiklusi igavesti.
+
+Ja nüüd, täiskasvanuna, kui ma mõtlen oma lapsepõlvele, näen ma oma mägedes endiselt neid samu erksaid värve.  Kuulen lindude laulu ja maailma hingamist.  Iga päev, kui ma astun välja oma majast, tunnen ma end sarnaselt, et olen osa sellest metsast, mis on täis ilusaid mälestusi.  Ja see mets on minu sees, jääb igaveseks.
+</body>

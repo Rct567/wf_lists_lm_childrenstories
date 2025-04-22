@@ -1,0 +1,53 @@
+<prompt>
+Please write a simple and easy-to-follow Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Chiếc đàn piano và những giai điệu du dương vang vọng.'.
+</prompt>
+
+<model>meta-llama/llama-4-maverick:free</model>
+
+<lang_id>vi</lang_id>
+
+<title>Chiếc đàn piano và những giai điệu du dương vang vọng.</title><body>
+Vào một ngày đẹp trời, tại một ngôi làng nhỏ nằm giữa những ngọn đồi xanh mướt, có một chiếc đàn piano cũ kỹ được đặt trong một ngôi nhà nhỏ xinh xắn. Chiếc đàn piano đó đã được để lại từ nhiều năm trước bởi một người chủ nhà cũ, và kể từ đó, nó đã trở thành một phần không thể thiếu của ngôi nhà.
+
+Ngôi nhà nhỏ xinh xắn đó thuộc về một gia đình nghèo nhưng hạnh phúc. Ông bà Nguyễn sống cùng với cô con gái nhỏ tên là Linh. Linh là một cô bé hiếu động, luôn tò mò về mọi thứ xung quanh mình. Cô bé thường dành thời gian khám phá ngôi nhà và sân vườn xung quanh.
+
+Một ngày nọ, trong khi đang chơi đùa trong nhà, Linh tình cờ phát hiện ra chiếc đàn piano cũ kỹ. Cô bé chưa bao giờ nhìn thấy một chiếc đàn piano trước đây, và sự tò mò của cô bé đã khiến cô muốn khám phá nó. Linh nhẹ nhàng chạm vào những phím đàn, và bất ngờ thay, những âm thanh du dương đã vang vọng khắp ngôi nhà.
+
+Linh rất thích những âm thanh đó, và cô bé bắt đầu tự mình khám phá chiếc đàn piano. Cô bé ấn những phím đàn một cách ngẫu nhiên, tạo ra những giai điệu khác nhau. Có những giai điệu nghe rất vui tươi, nhưng cũng có những giai điệu nghe rất buồn. Linh không hiểu tại sao lại như vậy, nhưng cô bé không ngừng thử nghiệm.
+
+Ông bà Nguyễn, thấy Linh quan tâm đến chiếc đàn piano, đã rất vui mừng. Họ nhớ lại người chủ nhà cũ đã để lại chiếc đàn piano và kể cho Linh nghe về những kỷ niệm của họ với người đó. Người chủ nhà cũ là một nghệ sĩ piano nổi tiếng, và ông đã dành nhiều thời gian để chơi đàn trong ngôi nhà này.
+
+Linh trở nên hứng thú hơn với chiếc đàn piano sau khi nghe ông bà Nguyễn kể về người chủ nhà cũ. Cô bé bắt đầu tìm hiểu về cách chơi đàn piano và cố gắng học hỏi. Tuy nhiên, việc học đàn piano không hề dễ dàng. Những ngón tay của Linh còn vụng về, và cô bé thường xuyên ấn nhầm phím đàn.
+
+Dù vậy, Linh không bỏ cuộc. Cô bé kiên nhẫn luyện tập hàng ngày, và dần dần, những ngón tay của cô trở nên linh hoạt hơn. Những giai điệu du dương do Linh tạo ra ngày càng trở nên hay hơn, và không gian ngôi nhà nhỏ xinh xắn lại tràn ngập âm nhạc.
+
+Khi những người hàng xóm đi ngang qua ngôi nhà, họ thường dừng lại để lắng nghe những giai điệu du dương của Linh. Họ rất ngạc nhiên khi biết rằng những âm thanh tuyệt vời đó được tạo ra bởi một cô bé nhỏ. Tin đồn về "cô bé thần đồng piano" nhanh chóng lan truyền khắp làng.
+
+Một ngày nọ, một người phụ nữ đến thăm ngôi làng. Bà là một nhà tổ chức lễ hội âm nhạc nổi tiếng, và bà đang tìm kiếm những tài năng trẻ cho lễ hội sắp tới. Khi đi ngang qua ngôi nhà của gia đình ông bà Nguyễn, bà đã nghe thấy những giai điệu du dương của Linh.
+
+Bà rất ấn tượng với tài năng của Linh và quyết định gặp gỡ cô bé. Sau khi trò chuyện và nghe Linh chơi đàn, bà mời cô bé tham gia lễ hội âm nhạc. Linh và gia đình rất bất ngờ và hạnh phúc khi nhận được lời mời.
+
+Lễ hội âm nhạc diễn ra vào một ngày đẹp trời tại một công viên lớn. Có rất nhiều người đến tham dự, và không khí thật sôi động. Linh, với sự hỗ trợ của ông bà Nguyễn, đã chuẩn bị rất kỹ lưỡng cho buổi biểu diễn.
+
+Khi đến lượt Linh biểu diễn, cô bé bước lên sân khấu với chiếc đàn piano và bắt đầu chơi. Những giai điệu du dương lại một lần nữa vang vọng, nhưng lần này là trước hàng ngàn người. Khán giả rất thích thú và vỗ tay nhiệt tình sau khi Linh kết thúc bản nhạc.
+
+Sau buổi biểu diễn, Linh đã trở thành một ngôi sao trong làng. Cô bé tiếp tục luyện tập và tham gia nhiều buổi biểu diễn khác. Chiếc đàn piano cũ kỹ đã trở thành một phần quan trọng trong cuộc đời của Linh, và nó tiếp tục tạo ra những giai điệu du dương vang vọng khắp nơi.
+
+Linh không bao giờ quên đi nguồn gốc của mình và luôn biết ơn ông bà Nguyễn đã hỗ trợ và khuyến khích cô bé theo đuổi đam mê âm nhạc. Cô bé hiểu rằng, với sự kiên nhẫn và đam mê, bất kỳ ai cũng có thể tạo ra những điều kỳ diệu.
+
+Và chiếc đàn piano, giờ đây, không chỉ là một công cụ âm nhạc mà còn là một biểu tượng của hy vọng và cơ hội cho những đứa trẻ có đam mê và nghị lực. Những giai điệu du dương của Linh không chỉ vang vọng trong ngôi nhà nhỏ xinh xắn mà còn trong lòng của mọi người, như một lời nhắc nhở về sức mạnh của âm nhạc và tình yêu thương.
+
+Năm tháng trôi qua, Linh trưởng thành và trở thành một nghệ sĩ piano nổi tiếng. Cô không bao giờ quên những kỷ niệm tuổi thơ bên chiếc đàn piano cũ kỹ và luôn chia sẻ câu chuyện của mình với những đứa trẻ khác, hy vọng sẽ truyền cảm hứng cho chúng.
+
+Chiếc đàn piano vẫn ở đó, trong ngôi nhà nhỏ xinh xắn, như một lời nhắc nhở về một quá khứ đẹp đẽ và một tương lai đầy hứa hẹn. Mỗi khi Linh về thăm, cô lại chơi những giai điệu du dương trên chiếc đàn piano đó, và những âm thanh lại vang vọng khắp không gian, như một vòng tròn khép kín của hạnh phúc và âm nhạc.
+
+Khi đó, mọi người lại tụ họp xung quanh, lắng nghe và mỉm cười, biết rằng những giai điệu du dương sẽ mãi mãi là một phần của cuộc sống họ. Và chiếc đàn piano, giờ đây đã trở thành một di sản quý giá, không chỉ của gia đình ông bà Nguyễn mà còn của cả cộng đồng, như một biểu tượng của tình yêu thương và đam mê.
+
+Linh đã chứng minh rằng, với sự kiên nhẫn và đam mê, bất kỳ ai cũng có thể đạt được thành công và tạo ra những điều kỳ diệu cho bản thân và cho xã hội. Câu chuyện của Linh và chiếc đàn piano sẽ mãi mãi được kể lại, như một lời khích lệ cho những ai đang trên con đường theo đuổi đam mê của mình.
+
+Và thế là, những giai điệu du dương của chiếc đàn piano cũ kỹ tiếp tục vang vọng, không chỉ trong ngôi nhà nhỏ xinh xắn mà còn trong tâm hồn của mọi người, như một nguồn cảm hứng vô tận cho cuộc sống.</body>

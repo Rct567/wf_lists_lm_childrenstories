@@ -1,0 +1,46 @@
+<prompt>
+Please write a uncomplicated Scottish Gaelic children's story that is at least 1000 words long.
+It must be completely written in proper Scottish Gaelic (GD).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Na Reultan is na Tuinn: Sgeulachd Mu Chaomhalachd is Dùrachd mhòr.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>gd</lang_id>
+
+<title>Na Reultan is na Tuinn: Sgeulachd Mu Chaomhalachd is Dùrachd mhòr</title><body>
+Bha fear-a-chaoraich òg, le ainm Iain, a’ fuireach ann an dùthaich bheag, a’ cluich gu h-ìosal thairis air cùlaibh na mòintean. Bha na cùirteagan aige, na sheilleanan buidhe, a’ bruadar ann an gàire gach latha, a’ cur sìos na làraich glasa. Ach bha Iain na dhuine a’ faireachdainn mì-shàbhailte, gu h-àraid ann an aon àite, a’ chuan mòr.
+
+Bha na tuinn a’ gluasad gu h-fìor mhòr, a’ dèanamh fuaimean ghuailnean, agus bha na craobhan mòra air taobh an fhearainn a’ gèilleadh ri gach gaoth. Bha Iain a’ faireachdainn eagallach, a’ faireachdainn gu robh a’ chuan a’ brosnachadh nam beatha aige gu h-ìosal agus gu robh e a’ toirt a-mach a chasaid gu h-àrd. Bha e a’ faireachdainn gu robh e a-mhàin beag agus lag, gun chomharradh.
+
+Aon latha, bha Iain a’ cluich aig mullach na bheinn, nuair a chunnaic e rud uaine sìos, a’ seasamh aig an taobh de na tuinnean. Bha e na ghaoth-bhean, a’ faireachdainn gu robh i a’ faighinn sìos na h-àiteach. Bha na tuinnean a’ tarraing iad gu h-àrd agus iad a’ cuir às iad.
+
+Rinn Iain a' chùis, agus thàinig e sìos gu h-ìosal, gun a bhith a’ brosnachadh a’ chùis aige. Nuair a chunnaic e an ghaoth-bhean, bha e a’ faireachdainn a h-uile rud a bha ann. Bha e a’ faireachdainn uamhasach; bha uiread mòr de dhuine a bh’ann.
+
+“A ghaoth-bhean,” thuirt Iain gu h-ìosal, “Carson a tha thu a’ faireachdainn a’ chùis agus a’ coiseachd gu h-àrd ann an dìomhaireachd?”
+
+Thuirt a’ ghaoth-bhean gu sìmplidh, “Feumaidh mi a bhith a’ dìoghaltas air na tuinnean. Feumaidh mi a bhith a’ brosnachadh na tuinnean gu mòr, gus am faigh iad a-mach eagal.”
+
+“Ach, carson a tha thu a’ faireachdainn eagal?” chuir Iain ceist.
+
+“Chan eil eagal orm,” fhreagair a’ ghaoth-bhean. “Tha mi dìreach a’ faireachdainn an tuinnean, a’ faireachdainn a’ chùis a tha iad a’ cur a-mach. Tha mi ag iarraidh gum faic thu an t-saoghal mu thimcheall ort, Iain. Faic a’ chùis agus a’ gaoth agus na tuinnean. Tha mi a’ brosnachadh nam beatha, agus bha mi a’ brosnachadh gach beatha ann an cuairte na tuinnean.”
+
+Chunnaic Iain an fhìrinn a bha anns an gaoth-bhean. Bha e a’ faireachdainn an t-sìoraidh, an aithne, an làn-bhreith. Dh’fhuaireadh Iain an aithne aige, agus thòisich e a’ faireachdainn a’ chùis aige fhèin. Tha e a’ faireachdainn gu robh e a’ faireachdainn a-mhàin a’ gaoth-bhean.
+
+“Tha thu ceart,” thuirt Iain. “Tha mi airson faighinn a-mach an t-saoghal, a’ faireachdainn a’ gaoth agus na tuinnean. Tha mi airson faighinn a-mach mo chùis fhèin.”
+
+Thòisich Iain a’ coiseachd air taobh na tuinnean. Bha e a’ cluinntinn na fuaimean ghuailnean, agus bha e a’ faireachdainn an t-sìoraidh air na taobhan.  Bha e a’ faireachdainn gu robh e a’ faighinn nas làidire. Bha e a’ faireachdainn an aithne agus an sàbhailteachd ann an aonadh leis a’ chuan, agus chuir e sìos a’ chùis aige fhèin anns a’ chuan.
+
+Bha e a’ coiseachd air fad an fhearainn, a’ faireachdainn na tuinnean a’ brosnachadh agus a’ coiseachd aige fhèin. Bha e a’ faireachdainn, ann an aonadh leis a’ chuan, na h-ìre mhòr de dhuine. Chuir e an aithne ann an gach tuinn agus ann an gach gaoth.  Bha e a’ faireachdainn gu robh a’ chuan a’ bruidhinn ris, a’ nochdadh an t-saoghal gu h-àrd.
+
+Bha na h-aoigh mòra a’ faireachdainn a’ chùis aige fhèin, ann an aonadh leis a’ chuan, agus bha Iain a’ faireachdainn gu robh e a’ faireachdainn gu robh e a’ faireachdainn a h-uile rud ann an cuairte na tuinnean.
+
+Nuair a chunnaic e na reultan sa chùlaibh, thàinig e gu bhith a’ faireachdainn mar an aon dhuine. Bha e a’ faireachdainn a h-uile rud, a’ faireachdainn gu robh e a’ faighinn sìos a’ chùis aige fhèin, a’ faireachdainn gu robh an làn-bhreith agus an aithne aige fhèin ann an gach rud.
+
+Dh’ionnsaigh e gu robh a’ chùis ann an a h-uile rud, ann an aonadh leis a’ chuan agus na reultan. Bha Iain air a bhith gu leòr a’ faireachdainn, air a bhith gu leòr a’ faireachdainn na chùis aige fhèin.  Bha e a’ faireachdainn gu robh e gu leòr a’ faireachdainn a h-uile rud a tha airson faicinn agus a faireachdainn. 
+
+Bha Iain, an t-sluagh òg, air a bhith gu leòr a’ faireachdainn mar an t-saoghal.  Bha e gu leòr airson a bhith na dhuine, gu leòr airson a bhith ann an aonadh leis na tuinnean agus na reultan.
+</body>

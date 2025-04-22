@@ -1,0 +1,40 @@
+<prompt>
+Please write a funny Latvian children's story that is at least 1000 words long.
+It must be completely written in proper Latvian (LV).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Karalistes karavīri un viņu drosmīgie darbi.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>lv</lang_id>
+
+<title>Karalistes karavīri un viņu drosmīgie darbi</title>
+<body>
+Reiz sen senos laikos, tālu, tālu no mūsu dzīves, bija viena brīnišķīga karaliste. Šajā karalistē dzīvoja daudz brīnišķīgu un drosmīgu karavīru, kuri aizstāvēja savu mīļo karali un karalieni. Karaliste bija pilna ar skaistiem dārziem, zīdaiņiem un sākumskolām, kur bērni mācījās lasīt, rakstīt un skaitļot.
+
+Karavīri bija ļoti drosmīgi un vienmēr gatavi aizstāvēt savu karalisti no jebkādiem draudiem. Viņi bija apbruņoti ar spīlēm, zobeniem un šķēpām, un vienmēr valkāja savas brīnišķīgās uniformas. Karavīriem bija arī savs īpašais himns, ko koriņš pēc koriņa dziedāja, kad viņi gāja karalistes ielās.
+
+Karalistes karavīri bija ļoti mīļi visiem karalistes iedzīvotājiem, jo viņi vienmēr palīdzēja tiem, kas to vajadzēja. Viņi palīdzēja vecām sievām pārvadāt viņu grozos, palīdzēja bērniem atrast zaudētās kurpes, un pat palīdzēja karalim un karalienai sagādāt vislabāko brokastu.
+
+Viena diena, karalistē notika liels notikums. Nācās ziņa, ka kāds ļauns velns no kaimiņu zemes plānoja iebrukt karalistē un nozagt visu tās bagātību. Karalis un karaliene bija ļoti bēdīgi un nezināja, ko darīt. Bet karavīri bija gatavi aizstāvēt savu karalisti.
+
+Karavīru komandieris, drosmīgais un spēcīgais kapteinis Jānis, sapulcināja visus karavīrus un teica: "Mēs esam gatavi aizstāvēt mūsu karalisti no jebkādiem draudiem! Mēs nesēsim savas spīles, zobenus un šķēpas, un mēs cīnīsimies līdz pat uzvarai!" Karavīri visi vienlaicīgi izkāra: "Uzvarai! Uzvarai!"
+
+Karavīri devās uz robežu, kur viņi satika ļauno velnu un viņa armiju. Velns bija ļoti liels un spēcīgs, un viņa armija bija pilna ar visdažādākajiem briesmoņiem. Bet karavīri nebija bēdīgi, jo viņi zināja, ka viņi ir drosmīgi un spēcīgi.
+
+Kapteinis Jānis izdeva komandu: " Uzbrūk! Uzbrūk!" Karavīri visi vienlaicīgi uzbruka ļaunam velnam un viņa armijai. Kauja bija ļoti asa un garlaicīga, bet karavīri nebija gatavi atkāpties. Viņi cīnījās ar visu spēku, un viņi sāka gūt uzvaru.
+
+Ļaunais velns bija ļoti izbrāzīts, jo viņa armija sāka bēgt. Velns pašam arī sāka bēgt, bet kapteinis Jānis viņu noķēra un teica: "Tu nevari iebrukt mūsu karalistē! Mēs esam drosmīgi un spēcīgi, un mēs aizstāvēsim mūsu mīļo karali un karalieni!"
+
+Ļaunais velns bija ļoti mūļots, jo viņam nebija iedomājies, ka karavīri būs tik drosmīgi un spēcīgi. Viņš atgriezās savā zemē, un no tā laika vairs neiebruka karalistē.
+
+Karalis un karaliene bija ļoti pateicīgi karavīriem, jo viņi bija aizstāvējuši savu karalisti no ļaunā vella. Viņi organizēja lielu svinību, kurā visi karalistes iedzīvotāji piedalījās. Karavīri bija godināti par viņu drosmi un spēku, un viņi saņēma daudz dāvanu un pateicības.
+
+No tā laika karavīri bija vēl drosmīgāki un spēcīgāki, jo viņi zināja, ka viņi ir spējīgi aizstāvēt savu karalisti no jebkādiem draudiem. Viņi turpināja cīnīties par savu karalisti, un viņi kļuva vēl slavenāki un cienītāki visā zemesšaurumā.
+
+Karalistes karavīri un viņu drosmīgie darbi kļuva par leģendu, un visi bērni karalistē vēlējās kļūt par karavīriem, jo viņi bija drosmīgi un spēcīgi. Karaliste bija droša un mierīga, jo karavīri aizstāvēja to no visiem draudiem, un visi karalistes iedzīvotāji bija mīļi un laimīgi.
+
+Un tā karalistes karavīri un viņu drosmīgie darbi palika karalistes vēsturē kā viens no vislielākajiem varoņdarbiem, un visi bērni karalistē uzauga, zinādami, ka viņi var būt drosmīgi un spēcīgi, tāpat kā karalistes karavīri.</body>

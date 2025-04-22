@@ -1,0 +1,68 @@
+<prompt>
+Please write a relatable Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Colm Agus An Chluiche Peile Mór Sa Pháirc'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>ga</lang_id>
+
+```xml
+<title>Colm Agus An Chluiche Peile Mór Sa Pháirc</title>
+<body>
+Bhí Colm ina bhuachaill beag le gruaig dhonn agus súile gorma, cosúil leis an spéir ar lá álainn samhraidh. Bhí sé ina chónaí i sráidbhaile beag gleoite in Éirinn, áit a raibh na tithe péinteáilte le dathanna geala agus na gairdíní lán de bhláthanna áille. Ba bhreá leis imirt amuigh, go háirithe sa pháirc mhór atá sa lár den sráidbhaile. Bhí an pháirc seo lán le crainn ard, féar glas agus cosáin leathan, agus is anseo a bhí sé ag caitheamh an chuid is mó dá chuid ama.
+
+Ba mhór an díograis a bhí ag Colm don pheil. Bhí sé ag imirt leis an mbliain anuas, agus d’fhoghlaim sé go leor scileanna. Bhí sé in ann an liathróid a rith go tapaidh, í a bhuachan go maith, agus fiú an liathróid a chiceáil isteach sa gclaí leis an mbeachtas. Bhí a chairde go léir ar an fhoireann freisin, agus ba bhreá leo go léir a bheith ag imirt le chéile.
+
+Lá amháin, bhí fógra ar an mbord fógra sa siopa ag rá go mbeadh cluiche peile mór ar siúl sa pháirc. Ba iad foireann na sráideanna bairr, “Na Faolchú,” a bheas ag imirt i gcoinne na foirne ón sráidbhaile in aice láimhe, “Na Ciorcaillí.” Chonaic Colm é agus bhí a chroí ag preabadh. Ba é seo an chluiche is mó a bhí riamh sa sráidbhaile, agus bhí sé ag iarraidh a bheith páirteach ann ar aon chostas.
+
+D’fhill sé abhaile, lán de ríméad, ag rith chomh tapaidh agus is féidir leis. “Mamaí! Daidí!” a ghlaoigh sé, “Beidh cluiche mór peile sa pháirc! An féidir liom a bheith páirteach ann?”
+
+Bhreathnaigh a thuismitheoirí ar a chéile agus d'fhéach an tAthair ar Cholm. "Ní bheidh sé furasta, a Chilmín," arsa an tAthair. “Beidh ar gach duine ar an bhfoireann bheith ag imirt go crua, agus beidh ort a bheith i do imreoir maith foirne.”
+
+"Tá a fhios agam, Daidí," d'fhreagair Colm go díograiseach. "Is féidir liom rith go tapaidh agus liathróidí a bhuachan agus…agus an liathróid a chiceáil go han-mhaith!"
+
+“Bhuel,” a dúirt a mháthair, “cuirfimid do ainm síos leis an bhfoireann agus féachfaimid cé mar a théann sé. Ach cuimhnigh, Colm, is tábhachtaí do bheith i do imreoir maith foirne ná a bheith i do pheileadóir maith."
+
+Bhí an oiread sin ríméid ar Cholm go raibh sé ag preabadh suas agus síos. “Go raibh maith agat, Mamaí! Go raibh maith agat, Daidí!” a dúirt sé, agus ansin rith sé amach chun a chairde a insint dóibh faoin nuacht iontach.
+
+Ar an lá a bhí an cluiche ann, bhí an pháirc lán le daoine. Bhí páistí, tuismitheoirí, seanmháthair agus seanathair, agus fiú an cat ó theach in aice láimhe, go léir ann chun féachaint ar an gcluiche. Bhí sé álainn, le balúin daite agus cairteacha beaga ag díol milseán agus deochanna. Bhí gach duine ar bís faoin gcluiche mór peile.
+
+Fuair Colm agus a chairde, atá ag imirt ar son Na Faolchú, a gcuid trealamh foirne agus chruinnigh siad le chéile chun plean a dhéanamh don chluiche. Dúirt an cóitseálaí leo go mbeadh sé tábhachtach imirt mar fhoireann, pas a thabhairt don liathróid agus comhoibriú. Bhí Colm beagáinín néarúil, ach bhí sé ag iarraidh an dícheall is fearr a dhéanamh.
+
+Nuair a fuaimeadh an fheadóg, thosaigh an cluiche. Bhí na Ciorcaillí ina bhfoireann mhaith, agus d'imríodar go crua. Thosaigh an liathróid ag dul ar aghaidh agus ar ais ar feadh an chluiche ar fad. Bhí an scór gar, agus chuir an bheirt fhoireann go mór in iúl a ndíograis agus a neart.
+
+Thosaigh Colm a imirt, agus rith sé go tapaidh síos an pháirc, ag iarraidh a liathróid a bhuachan. Bhí sé lán d’áthas, ach chuaigh sé ró-chrua isteach i gcoinne imreoir de chuid na Ciorcaillí agus thuirling sé ar an bhféar. Tháinig an cóitseálaí isteach agus fuair sé amach go raibh sé mí-ádh ar a chois. Chuir an cóitseálaí dó féin, "Colm! Tá sé ag baint le díobháil. Beidh ort a suí amach as an cluiche anois."
+
+D'imigh Colm ó thaobh na páirce agus bhí a dhrochdhúil ag an slabhra, é ag faire ar an gcluiche gan aon bhealach a bheith ann. Chonaic sé go ndearna a chairde a dhícheall, ach ní raibh siad in ann scór a dhéanamh. Ag an am, bhí an scór nialas le nialas.
+
+Bhí a lán smaointe ag Colm. Cad más nár tharlódh sé a dhrochdhúil, d'fhéadfadh sé cabhrú leo? Ní raibh sé ábalta bheith ina pheileadóir maith. Bhí sé ag iarraidh gur fhéad sí sé cabhrú. Cuimhní sé ar an méid a dúirt a mháthair dó. "Is tábhachtaí do bheith i do imreoir maith foirne ná a bheith i do pheileadóir maith." Cad a dhéanfadh sé?
+
+De réir mar a chuaigh an cluiche ar aghaidh, agus bhí an scór fós nialas le nialas, ghlaoigh an cóitseálaí chuig Colm. "Colm!" a dúirt sé. “Chiall mé duit dul go dtí an foireann agus dóchas a spreagadh. Buafaimid iad le do cheannaireacht."
+
+Ar an mbealach sin, thuig Colm cad a bhí le déanamh. Dhírigh sé isteach ar an gcúinne ina raibh an foireann le chéile. "Éist, a chairde," a dúirt Colm go mór agus go glé. “Tá sé ag teacht le cluiche deacair. Ach tá a fhios agam gur féidir linn é seo a dhéanamh má oibrímid le chéile. Cuimhnigh cad a dúirt an cóitseálaí faoi pas a thabhairt don liathróid agus faoi bheith in éineacht mar fhoireann. Ní mór dúinn creidiúint inár gcumas féin!"
+
+D’éist na himreoirí eile leis, ag féachaint ar Cholm le hiontas. D'fhéach siad le haghaidh agus iad ag tuiscint. Bhí focail Chilm cosúil le comhartha láidir acu. "Tá tú ceart," a dúirt ceann de na himreoirí. "Caithfimid a bheith ag obair le chéile."
+
+Chroith gach imreoir a gceann i gcomhartha aontaithe. Fill siad ar an gcúirt le hanam úr agus díograis athnuaite. Thosaigh siad a bheith ag obair le chéile ar bhealach níos fearr. Chuaigh siad ag pasadh an liathróid go tapaidh, gan smaoineamh faoi féin ach smaoineamh faoi fhoireann. Go tobann, bhí na Faolchú ar an luas. Chiceáil ceann de na himreoirí an liathróid anuas an pháirc. Sheas Colm ann leis a dhrochdhúil.
+
+Ina shuí dó, bhí an cóitseálaí agus a chairde thart dó. “Faic a dhéanfaimid, Colm?” a d'fhiafraigh duine acu.
+"Just a bheith i do chairde leis," a fhreagair Colm. “Spreagaimid iad.”
+
+De réir mar a chuaigh an chluiche ar aghaidh, bhí an ríméad ar an scór faoi dheireadh. Chinn an bheirt fhoireann iad féin a dhéanamh iarracht. D'imir an bheirt fhoireann go maith, ag imirt in éineacht. Nuair a chuaigh an liathróid in aice leis an gclaí, bhí an deis foirfe le haghaidh cic. Chonaic Colm an liathróid ag cic isteach ag a bhfoireann, ag baint leis na ceile i gcruicín amháin le mothú fíor. Rinne an fhoireann scór. Thug Colm gach fuinneamh aige a leithéidí de bhás.
+
+Bhuail an fheadóg. Bhí an cluiche thart. Buaigh Na Faolchú. Ba léir go raibh áthas ar na himreoirí go léir. Ba chailíní agus buachaillí iad ó aois gach duine, go léir ag preabadh le lúcháir.
+Bhí lúcháir ar Colm freisin. Bhí sé tar éis a bheith i ngrúpa le chéile. Thuig sé gur mhór an luach do bheith ina imreoir maith foirne. Bhí a fhoireann féin ag imirt le chéile go maith. Agus bhí sé chomh maith do gach imreoir ar fad.
+Tháinig an cóitseálaí chuige agus chuir a lámh ar a ghualainn. “Maith thú, Colm,” a dúirt sé. “Rinne tú go maith. Rinne tú a bheith in ann a bheith i do cheannaire don fhoireann. Ba tú an duine ba mhaith linn bheith."
+D’fhéach Colm ar na himreoirí go léir, ag preabadh, ag spraoi. “Is maith liom na cairde agam,” a dúirt Colm.
+
+Mar sin, d'fhill Colm abhaile le gáire mór. Rith sé go tapaidh go dtí a thuismitheoirí, ag rith isteach lena gabháil. Bhí ríméad a chroí. “Bhíomar iad! Bhíomar ag imirt le chéile!”
+Thug a mháthair agus a athair barróg dó go láidir, agus bhí siad an-bhródúil as. Thug a thuismitheoirí iad chuig an pháirc lena dinnéar. "Tá gá againn le haghaidh dinnéir le chéile, a Colm," arsa a Athair.
+
+Ansin d’ith siad dinnéar, agus roghnaigh siad scéal a dhéanamh leis an liathróid don lá dár gcionn. Agus é ag dul a chodladh an oíche sin, bhí Colm ag smaoineamh ar an gcluiche. D’fhoghlaim sé go raibh sé tábhachtach oibriú mar fhoireann, chun tacú lena chairde agus chun creidiúint ina gcumas féin. Agus bhí sé ag súil go mór leis an gcluiche peile mór eile, agus níos mó scéalta a dhéanamh leis a chairde sa pháirc.
+</body>
+```

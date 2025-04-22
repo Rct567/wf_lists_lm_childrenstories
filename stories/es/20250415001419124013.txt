@@ -1,0 +1,49 @@
+<prompt>
+Please write a timeless Spanish children's story that is at least 1000 words long.
+It must be completely written in proper Spanish (ES).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Un tesoro de piratas enterrado bajo la arena dorada y suave.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>es</lang_id>
+
+```xml
+<title>Un tesoro de piratas enterrado bajo la arena dorada y suave.</title><body>
+En una isla perdida en el vasto mar, donde el sol besaba las aguas turquesas y el viento susurraba secretos a los cocoteros, vivía una niña llamada Sofía. Sofía, con sus ojos color miel y su risa contagiosa, amaba la playa más que nada en el mundo. Pasaba horas construyendo castillos de arena, persiguiendo cangrejos y recolectando conchas marinas.
+
+Un día soleado, mientras jugaba cerca de una cala escondida, Sofía descubrió algo inusual. Enterrado a medias en la arena dorada y suave, brillaba un pequeño cofre de madera, adornado con herrajes oxidados. Con curiosidad, lo desenterró, sintiendo la suavidad de la arena deslizarse entre sus dedos. El cofre era pequeño, pero antiguo, y parecía llevar consigo el peso de muchos años y misterios.
+
+Con manos temblorosas, Sofía intentó abrir el cofre. Después de varios intentos, el cierre oxidado cedió con un crujido. Dentro, encontró un mapa amarillento, enrollado y atado con un cordel delgado. El mapa, hecho de pergamino delicado, mostraba una isla, y marcaba con una "X" roja un lugar específico. Alrededor de la "X", se dibujaban símbolos extraños, y la tinta parecía brillar levemente, como si contuviera un secreto mágico.
+
+Sofía, fascinada, comprendió de inmediato lo que tenía entre manos: ¡un mapa del tesoro! La emoción la recorrió como una corriente eléctrica. Sabía, por los cuentos que le contaba su abuelo, un viejo marinero con una barba blanca como la espuma del mar, que en aquella isla debían de haber tesoros de piratas enterrados.
+
+Sin dudarlo un instante, Sofía decidió seguir el mapa. Era una aventura, un juego, pero sobre todo, un enigma por resolver. Necesitaba un compañero, alguien que la ayudara a descifrar los símbolos y a encontrar el tesoro. Recordó a su mejor amigo, un niño llamado Mateo, conocido por su ingenio y su valentía. Mateo era un poco más mayor que ella, y le encantaban los rompecabezas y las historias de misterio.
+
+Corriendo como el viento, Sofía encontró a Mateo jugando con cometas cerca del faro. Le mostró el mapa, y la cara de Mateo se iluminó con entusiasmo. “¡Un mapa del tesoro! ¡Esto es increíble, Sofía! ¡Vamos a buscarlo!” exclamó, sus ojos brillando de emoción.
+
+Juntos, estudiaron el mapa. La isla dibujada no era la misma donde vivían, pero Sofía sabía que el contorno correspondía a la isla de las Rocas Escondidas, una isla deshabitada y conocida por sus acantilados peligrosos y sus playas secretas. Los símbolos alrededor de la "X" eran incomprensibles. Decidieron consultar el libro de los mitos y leyendas marinas que su abuelo tenía.
+
+Después de horas de estudio, lograron descifrar algunos de los símbolos. Eran pistas, enigmas que debían resolver para llegar al tesoro. La primera pista decía: “Busca la sombra de la garza dormida al amanecer.” La segunda: “Donde la roca abraza el mar, y la serpiente de piedra vigila el paso.” Y la tercera, la más misteriosa: “Solo el corazón valiente encontrará el brillo, donde las lágrimas de las estrellas se convierten en diamantes.”
+
+Al día siguiente, con el sol comenzando a asomar por el horizonte, Sofía y Mateo se embarcaron en una pequeña barca que encontraron varada en la playa. Remaron con fuerza, sus corazones latiendo de emoción. La isla de las Rocas Escondidas se veía imponente, con sus acantilados afilados y su vegetación espesa.
+
+Llegaron a la isla, y, guiados por el mapa y las pistas, comenzaron su búsqueda. Primero, se dirigieron a la sombra de la garza dormida. Encontraron una enorme roca con la forma de una garza, y justo al amanecer, su sombra se proyectó sobre un pequeño hueco en la arena. Allí encontraron una vieja brújula, oxidada y algo inestable.
+
+La segunda pista los llevó a un lugar donde la roca se abrazaba con el mar. Tras caminar por las rocas afiladas y sorteando las olas bravías, encontraron una roca que parecía una serpiente enrollada. Al pie de la serpiente de piedra, en una pequeña grieta, hallaron un trozo de pergamino con una nueva pista y una llave pequeña de oro. La nueva pista decía: “El corazón valiente necesita guía, busca donde el sol cae en la tarde fría.”
+
+La tercera pista, la del "corazón valiente", resultó ser la más difícil. Decidieron buscar un lugar donde el sol poniente se reflejara en la arena, un lugar donde las lágrimas de las estrellas pudieran simularse. Pensaron y pensaron, observando cómo el sol se iba escondiendo detrás de las olas.
+
+Después de mucho caminar, encontraron un pequeño arroyo que desembocaba en la playa. Las aguas cristalinas del arroyo reflejaban la luz del sol poniente, creando un brillo especial, como si fueran diamantes. Decidieron seguir el arroyo. A lo largo de su curso, hallaron una pequeña cueva. Al entrar, con la llave de oro, descubrieron una pequeña caja de madera.
+
+Con las manos temblorosas, Sofía abrió la caja. No esperaban oro ni joyas, sino algo mucho más valioso: un diario de bitácora. En su interior, se narraba la historia de un pirata, capitán de un barco llamado "La Gaviota", y sus aventuras por los mares. La última entrada decía: "El verdadero tesoro no son las riquezas, sino los amigos, la valentía y los recuerdos. He encontrado mi tesoro."
+
+Dentro del diario, encontraron una última pista: un dibujo que señalaba un lugar escondido en la cueva. Cavaron en el lugar indicado, y descubrieron... ¡otro mapa! Este mapa señalaba la misma isla donde vivían, la isla de Sofía. El tesoro real, la isla misma, llena de vida, amigos y aventuras.
+
+Sofía y Mateo entendieron el mensaje. El tesoro no era un cofre lleno de oro y joyas, sino la amistad, la valentía, la aventura y la alegría de descubrir. Regresaron a casa, felices y orgullosos de su aventura. Compartieron el diario con el abuelo de Sofía, quien les contó más historias sobre piratas y tesoros, confirmando la valía de lo que habían encontrado.
+
+Desde aquel día, Sofía y Mateo siguieron explorando, resolviendo misterios y disfrutando de su amistad. El cofre de madera y el diario de bitácora se convirtieron en sus tesoros más preciados, un recordatorio constante de la importancia de la amistad, la valentía y la búsqueda de la aventura. Y cada vez que veían la arena dorada y suave de la playa, recordaban la emocionante aventura que los unió, y la verdadera magia de encontrar un tesoro mucho más valioso que cualquier joya. El tesoro de la amistad, escondido, a veces, bajo la arena dorada y suave, esperando ser descubierto.
+```

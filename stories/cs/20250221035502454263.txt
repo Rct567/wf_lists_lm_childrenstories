@@ -1,0 +1,31 @@
+<prompt>
+Please write a creative and original Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Cesta k objevu vnitřní síly srdce'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>cs</lang_id>
+
+<title>Cesta k objevu vnitřní síly srdce</title>
+<body>
+Malá holčička jménem Eliška žila v malebném městečku pod rozkvetlou třešní.  Eliška byla bystrá a zvědavá, ale zároveň i trochu plachá.  Každý den se snažila objevovat svět, ale často se cítila malá a ztracená v moři velkých dospělých a ještě větších tajemství. Jednoho slunečného rána, když sbírala jarní květiny na okraji lesa, narazila na starý, zdánlivě zapomenutý dřevěný domeček.  Dveře byly lehce pootevřené a z nich se linul tichý, tajemný zvuk.
+
+Zvědavost ji přemohla a Eliška se odvážila dovnitř. Domeček byl malý a útulný, s kobercem z hebkého mechu a stěnami zdobenými obrazci z lesních plodů.  V rohu stál starý dřevěný kufřík, zdobený drobnými mosaznými zámky.  Eliška ho zvědavě otevřela.  Uvnitř nebyly žádné drahé kameny či poklady, ale malá, okouzlující kniha s krásně malovanými obrázky.  Kniha se jmenovala "Cesta k objevu vnitřní síly srdce".
+
+Eliška ji opatrně vzala do ruky.  Stránky byly vyrobeny z jemného plátna a psané malým, úhledným písmem.  První kapitola hovořila o tom, že každé srdce, ať už velké nebo malé, v sobě skrývá neuvěřitelnou sílu. Tato síla, pokračovala kniha, je skryta hluboko uvnitř a čeká na to, aby byla probouzena.
+
+Eliška se zamyslela. Vždycky se snažila být dobrá a snažit se, ale někdy se cítila bezmocná proti problémům, které se před ní stavěly.  Četla další kapitolu, která pojednávala o odvaze a důvěře.  Kniha vyprávěla o malém broučkovi, který se bál lézt na nejvyšší květinu v lese, ale nakonec se odhodlal a s hrdostí si užíval nádherný výhled z vrcholku.  Eliška si uvědomila, že i ona má v sobě takovou odvahu a silu.
+
+V další kapitole se dozvěděla o důležitosti laskavosti.  Kniha vyprávěla o malém ptáčkovi, který se naučil sdílet s ostatními ptáčky a tak se naučil překonávat samotu a poznávat společenství.  Eliška si uvědomila, že i ona může být laskavá k lidem kolem sebe a že to je krásný dar.  Srdce se otevírá a stává se silnější.
+
+Dále kniha líčila o toleranci a porozumění.  Vyprávěla o tom, jak se můžeme učit od jiných, ať už jsou to lidé nebo zvířata, i když se od nás liší. Eliška si vzpomněla na svého kamaráda Ondřeje, který byl trochu jiný, než ostatní děti, a když si s ním povídala, objevila v něm nové a krásné vlastnosti.  Právě tyto odlišnosti ji obohacovaly.
+
+Den se pomalu chýlil ke konci.  Eliška se cítila plná nových myšlenek a pocitů.  Kniha jí otevřela oči a ukázala jí tajemství vnitřní síly, která se skrývala v jejím srdci.  Něco se v ní změnilo.  Přestala se bát ztroskotat a místo toho se s radostí vrhla do dobrodružství, aby se objevila.
+
+Vrátila se do svého domova a ten den se již necítí ztracená a malá. Našla odvahu vyjádřit své myšlenky a pocity.  Začala se více zajímat o ostatní a rozvíjela své laskavé a toleranční já.  Eliška se stala součástí přírody, její laskavosti a porozumění a to jí dalo sílu a úsměv na tváři.  Každý den, když se probudila, věděla, že v jejím srdci se rodí nová síla, síla, která jí pomůže překonat všechny překážky a dosáhnout všech svých snů.  A tak se Eliška vydala na cestu objevování sebe sama a s ní i vnitřní síly svého srdce.
+</body>

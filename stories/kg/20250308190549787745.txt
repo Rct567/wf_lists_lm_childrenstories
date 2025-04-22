@@ -1,0 +1,108 @@
+<prompt>
+Please write a dialog-based Kongo children's story that is at least 1000 words long.
+It must be completely written in proper Kongo (KG).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Bana bafwete zaya nsadisa nti wa nzo, muna kumba luzingu lua bantu ba Kongo.'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>kg</lang_id>
+
+```xml
+<title>Bana bafwete zaya nsadisa nti wa nzo, muna kumba luzingu lua bantu ba Kongo.</title>
+<body>
+**Muntu wa Zola ye Mwana wa Mbote**
+
+**Muna nsi a Kongo, kuna kuna Mbanza ya Nza, kwenda kaka, kwayiza muntu wa zola zina diandi Nkosi. Nkosi wazala ye nzo andi yasonga, kwayala ye mwana andi wa mbote, Nsaku.**
+
+**Nsaku:** Tata, tata! Diampa kiama nkiele ka kifwete kala ki nki? Nga tuvwa muiza bundukisa fwa?**
+
+**Nkosi:** (Azinga, azinga) Mwana ame, ngeye wavola nkwenda? Bwe disongela ngeye wenda nkubukila yovo wenda vana makabu ma mbuta aku?**
+
+**Nsaku:** Kansi tata, edi dinkulu! Buna mbangami yayi?**
+
+**Nkosi:** (Kakudisa) E mwana ame, muna lusadisu lwa nti wa nzo, tuvwidi kuyendakana mu nsunga zeto. Nti wa nzo wumvanukisa e nsambu zeto, wukuyimina mu zingila. Omonisa ngeye e nduemo wawu?**
+
+**Nsaku:** Olooo, Nkosi, nkutu! Kansi tata, nti wa nzo nga uvanga ngolo?**
+
+**Nkosi:** (Wutuma nsoni) E mwana ame, monini e ngolo za nti wa nzo. Tuvwidi kumvanga e nti miolo, mu nkadulu zazi. Tuvwidi kuvanga malwanda, nkutu, kuisa nzo ya zizuma. Tuvwidi kuangula e nti wawu, muna mbanda za mambu ma luzingu. Oyi, wusadisa muna muntu wasiaka, yovo muntu wafueti!**
+
+**Nsaku:** Tata, nga tuvwa kuiza mona malonga ma nti wa nzo?**
+
+**Nkosi:** (Wakatuka) E mwana ame, yeziki! Yenda tuka kuna nzila, kwenda kuiza vana yanda. Tutumbulu, yivangisa malonga ma nti wa nzo. Tutuka kuna ndandu, kuiza mbaya, tuzinga nkutu kumosi. Muna kuiza kwizana, tusiakisa e kanda dieto. Bwe mambu ma sese, muna kukisa dieto.**
+
+**(Bafita mu nzila, bamba kuiza vana yanda.**
+
+**Nsaku:** (Wesanga ngolo) TATA! Monangila, monangila! Nti! Olooo, wusonga wenda, kaka ndombolo!**
+
+**Nkosi:** (Wevala) E mwana ame, mosi zaiza nti wa nzo. Tala e malonga miandi. Ngeye wumona e yanda? E nti wuzimina e nzila, bu kiese, wavanga yanda muna lukalu, vayi muna bu nsangu. E nti wuadi, muna lukenda, muna luvana. Nti mu zola.**
+
+**Nsaku:** Tata, olooo! Nkutu, monanga e nti wenda mu kubikisa. Tala, wavanga mukanda!**
+
+**Nkosi:** (Wuseka) E, e mwana ame, kuvwa kiese! Mukanda wawu wuna muiza benga, muna nzo, vayi mu nkubukisa e mambu. Tala e mukanda mu kumba e mvula, muna kumba muvulu, mu kumba e mfunu. Sola nti wusala nkumbu, vayi mu luvana, e mwana ame!**
+
+**Nsaku:** (Wutuka mu vangulula) TATA! Tala! Kwandi kwenda kuta muna nzo, muna kuvila e muntu wuandi! Wuvanda muna tumba!**
+
+**Nkosi:** (Wusongilisa) Mwana ame, wavova muna mbote. Tala e tumba. Tusenda mu nti. Kuenda vana tumba. Muntu wenda kuiza bwisa e mwanda, wasaka e ngolo mu nzo. Omonisa e zola.**
+
+**Nsaku:** Tata, kana tulendi vanga nti wa nzo mu kwendana na mu kwabisa mvula?**
+
+**Nkosi:** (Wusonga) E mwana ame. Kansi tuzola sala nti watuka muna nzo. Tala e nti mianda! Twenda kuiza vanga nzo mu kunda. Muna kunda, twenda vanga nzila ya mvula, vayi vana vovo, nsoni mu kulu kiaku. Kwizana yo muntu.**
+
+**Nsaku:** (Wesanga) Tata, kuvwa zola! Tukwenda!**
+
+**Nkosi:** (Wutoma) E, mwana ame, kwenda! Tusiaka e nzo ya mpasi. Tenda vanga fwa mu nsukani, muna mbaya zeto.**
+
+**(Babadila kaka mu vanga mosi.**
+
+**Nsaku:** (Wabomba) Tata, tala! Bantu ba kwiza!**
+
+**Nkosi:** (Wusunzulula) E mwana ame. Bantu bazaya nti wa nzo. Bafweti kuma muna sadisa nti muna nkumbu yovo.**
+
+**Nsaku:** (Wusongila) Tata, olooo! Bala va, muntu kuiza nua. E nti wuwu wukondwa.**
+
+**Nkosi:** (Wutoka) E mwana ame, omu, kana tusalula nti wawu, tuvwidi kuvanga luvana mu nzila zeto. Tuvwidi kukunisa e ntu muna kubikisa.**
+
+**Nsaku:** Tata, twenda kuma muna vanga nti wa nzo muna nkumbu ya kanda dieto?**
+
+**Nkosi:** (Wungudi) E mwana ame. Tala yenda muna zola. Kanda dietu, muna lusatu.**
+
+**(Bafita, bavanga nti wa nzo, nti wu kima.**
+
+**Nsaku:** (Wesanga) Tata, twenda mona nkumi wa nzo!**
+
+**Nkosi:** (Wuzola) E mwana ame, tukwenda. Tusenda na. Omonisa e ngolo za nti wa nzo. Ndungila bu nkunga.**
+
+**(Bajita e nzo, yina ya somba.**
+
+**Nsaku:** Tata! Mono ntuka!**
+
+**Nkosi:** E mwana ame, yeziki. Nti wa nzo, yikula ngolo zetu. Yikula e nsunga.**
+
+**Nsaku:** (Wusongila) Tata, ngeye wansadisa mu zaya nti wa nzo!**
+
+**Nkosi:** E mwana ame, e binu dieto. Tubenda, yikila. Bafweti zaya.**
+
+**Nsaku:** (Wumvutuka) TATA!**
+
+**Nkosi:** (Wutona) Kuma, yendana nkumbu! Bana bafwete zaya nti wa nzo. Kumi nti!**
+
+**Nsaku:** (Wesanga ngolo) EEH! Bana bafweti zaya nti wa nzo!**
+
+**(Nsaku ye Nkosi bavangila nkumbu, bena bena.**
+
+**Nsaku:** Tata. E munu buiza zaba nti wa nzo.**
+
+**Nkosi:** (Wasolola) E mwana ame. Kansi, ngeye wangula!
+**Nsaku: Mono. Mono.**
+**Nkosi: E mwana ame, e ngolo zeto. Nti wa nzo.**
+**Nsaku: Nti wa nzo.**
+**Nkosi: Ku zola.**
+**Nsaku: Ku zola.**
+**Nkosi: Kuna Kongo.**
+**Nsaku: Kuna Kongo!**
+</body>
+```

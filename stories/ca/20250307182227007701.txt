@@ -1,0 +1,83 @@
+<prompt>
+Please write a relatable Catalan children's story that is at least 1000 words long.
+It must be completely written in proper Catalan (CA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La Porta que Només es Obria amb una Cançó'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>ca</lang_id>
+
+<title>La Porta que Només es Obria amb una Cançó</title>
+<body>En un petit poble de la Catalunya interior, hi havia una porta molt especial. Aquesta porta era diferent de totes les altres, ja que només s'obria quan algú cantava una cançó molt concreta. La gent del poble l'anomenava "La Porta que Només es Obria amb una Cançó" i tothom estava molt curiós per saber quina era aquesta cançó màgica.
+
+La porta era situada en un carreró estret i empedrat, amb cases antigues de pedra i teulades de teula vermella. El carreró estava sempre buit, ja que la gent del poble preferia passar per la plaça major, on hi havia la font i el mercat. Però els nens del poble, que eren molt curiosos, sovint s'acostaven al carreró per veure la porta i intentar obrir-la.
+
+Un d'aquests nens era en Pere, un noi de deu anys amb els cabells rossos i els ulls blaus. En Pere estava obsessionat amb la porta i passava hores intentant obrir-la. Havia provat de tot: havia empenyut la porta amb totes les seves forces, havia utilitzat una clau per intentar obrir el pany, havia fins i tot intentat cantar cançons que coneixia, però res no havia funcionat.
+
+Un dia, en Pere va decidir anar a veure l'avi del poble, que era conegut per la seva saviesa i coneixement de les tradicions del poble. L'avi vivia en una casa petita al final del carreró, amb un jardí ple de flors i un banc on seia a prendre el sol.
+
+—Avi, avi! —va cridar en Pere, corrent cap a la casa—. Vull saber quina és la cançó que obre la porta!
+
+L'avi va somriure i va convidar en Pere a seure al seu costat.
+
+—La cançó que obre la porta és una cançó molt antiga —va dir—. La meva àvia em va ensenyar quan era petit, i jo l'he transmès als meus fills i nets. Però no és fàcil de recordar, ja que té moltes estrofes i una melodia molt complicada.
+
+En Pere va mirar l'avi amb els ulls verys d'esperança.
+
+—Puc aprendre la cançó, avi? —va preguntar.
+
+L'avi va assentir amb el cap.
+
+—Sí, en Pere. Puc ensenyar-te la cançó, però has de prometre'm que no la diràs a ningú més. La cançó és un secret que només pot conèixer una persona del poble.
+
+En Pere va prometre que no diria res a ningú i l'avi va començar a cantar la cançó. La melodia era molt bonica i en Pere va sentir que li posava un nus a la gola. La cançó deia així:
+
+"A la vora del riu, on les flors floreixen,
+Hi ha un pont que creua l'aigua clara.
+El pont és estret i les aigües són fondes,
+Però qui el creua amb coratge, trobarà la sort.
+
+A la vora del bosc, on els ocells canten,
+Hi ha un camí que porta a la llum.
+El camí és llarg i les ombres són fosques,
+Però qui el segueix amb fe, trobarà la pau.
+
+A la vora de la muntanya, on les estrelles brillen,
+Hi ha un cim que toca el cel.
+El cim és alt i l'aire és fred,
+Però qui l'escalada amb esperança, trobarà la glòria.
+
+A la vora del poble, on la gent somriu,
+Hi ha una porta que obre el cor.
+La porta és tancada i el pany és fort,
+Però qui canta aquesta cançó, l'obrirà amb facilitat."
+
+En Pere va repetir la cançó diverses vegades fins que la va memoritzar. L'avi li va donar un cop a l'esquena i li va dir que anés a provar la porta.
+
+En Pere va córrer cap al carreró i va trobar la porta tancada, com sempre. Però aquesta vegada, en lloc d'intentar obrir-la amb la força, va començar a cantar la cançó que l'avi li havia ensenyat. La veu d'en Pere va ressonar pel carreró i la porta va començar a vibrar. De sobte, el pany va clicar i la porta es va obrir.
+
+En Pere va entrar per la porta i es va trobar en un jardí molt bonic, ple de flors i arbres. Al centre del jardí hi havia una font que brollava aigua cristal·lina. En Pere va seure al voltant de la font i va sentir una sensació de pau i felicitat.
+
+De sobte, va sentir una veu que li parlava.
+
+—Benvingut, en Pere —va dir la veu—. Has obert la porta amb la cançó màgica. Ara pots demanar un desig, qualsevol que sigui.
+
+En Pere va pensAR un moment i va dir:
+
+—Voldria que tothom del poble fos feliç i tingués tot el que necessita.
+
+La veu va riure i va dir:
+
+—El teu desig és molt generós, en Pere. Des d'ara, el poble serà un lloc on tothom serà feliç i tindrà tot el que necessita.
+
+En Pere va sortir del jardí i va tornar al poble. Va veure que tot havia canviat. Les cases eren més boniques, les flors floreixien a tot arreu i la gent somreia i reia. En Pere va sentir que havia fet alguna cosa molt especial i va tornar a veure l'avi per explicar-li el que havia passat.
+
+L'avi va somriure i va dir:
+
+—En Pere, has fet un treball molt bo. La cançó màgica ha obert no només la porta, sinó també els cors de la gent del poble.
+
+Des d'aleshores, en Pere va ser conegut com el noi que havia obert la porta màgica i havia fet feliç el poble. I cada vegada que passava pel carreró, sentia la veu de la cançó màgica que li recordava el seu gran acompliment.</body>

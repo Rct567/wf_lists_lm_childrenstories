@@ -1,0 +1,58 @@
+<prompt>
+Please write a funny Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Sehrli olma daraxtining sirlari'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>uz</lang_id>
+
+<title>Sehrli olma daraxtining sirlari</title><body>  
+Bir bor ekan, bir yoq ekan, qadim zamonda, yashil vodiylar orasida joylashgan kichkina bir qishloq bo‘lgan. Bu qishloqning nomi Olmazor edi. Qishloqning markazida ulkan, yashil bargli, g‘alati shakldagi bir daraxt o‘sgan edi. Bu daraxtning nomi Sehrli Olma Daraxti edi. Qishloq aholisi bu daraxtni juda hurmat qilar, chunki u har yili faqat bitta olma berar edi. Bu olmani kim yeb qo‘ysa, bir hafta davomida hech qanday muammo va qiyinchiliklarga duch kelmasdi. Lekin bu olmani yeb bo‘lish uchun uning sirlarini bilish kerak edi.  
+
+Bir kuni, qishloqning eng chaqqon va qiziquvchan bolasi, ismi Zafar bo‘lgan yetti yoshli yigit, Sehrli Olma Daraxtining sirlarini o‘rganishga qaror qildi. Uning do‘sti, qo‘ng‘ir sochli va ko‘zlari yorqin bo‘lgan qiz Zuhra ham unga yordam berishga rozi bo‘ldi.  
+
+— Zafar, bu daraxtning sirlarini bilish uchun birinchi navbatda uning ildizlariga borishimiz kerak, — dedi Zuhra.  
+— Ildizlariga bormoqmi? Lekin daraxtning tagida hech narsa yo‘qki! — Zafar hayron bo‘lib javob qaytardi.  
+— Yo‘q, yo‘q, ildizlar yer ostida. Bizga yordam beradigan sehrli qulupnay bor, — dedi Zuhra va cho‘ntagidan mayda qizil qulupnayni olib ko‘rsatdi.  
+
+Zafar va Zuhra daraxt tagiga borib, qulupnayni yer ostiga tashladilar. Birdan, ularning oyoq ostidagi yer ochilib, ular pastga tushib ketishdi. Ular yer ostida g‘alati bir dunyoga kelishdi. Bu yerda har bir narsa yaltiroq va rang-barang edi.  
+
+— Bu qanday joy? — Zafar hayrat bilan so‘radi.  
+— Bu Sehrli Olma Daraxtining ildizlari orasi. Bu yerda daraxtning barcha sirlari saqlanadi, — dedi Zuhra.  
+
+Ular bir necha daqiqa yurishdi va birdan ularning oldiga kichkina, ko‘k rangli qush kelib qo‘ndi. Qushning so‘zlashish qobiliyati bor edi.  
+
+— Salom, bolalar! Sizlar Sehrli Olma Daraxtining sirlarini bilmoqchimisiz? — deb so‘radi qush.  
+— Ha, albatta! — Zafar va Zuhra bir ovozdan javob berishdi.  
+— U holda, sizga uchta sinovdan o‘tish kerak bo‘ladi. Agar siz bu sinovlarni muvaffaqiyatli o‘tasiz, daraxtning sirlari sizga ochiladi, — dedi qush.  
+
+Birinchi sinov: Qo‘rqmaslik. Qush ularni katta, qorong‘u g‘orga olib bordi. G‘orda qo‘rqinchli tovushlar va soyali narsalar bor edi. Zafar bir lahza qo‘rqib ketdi, lekin Zuhra unga:  
+
+— Qo‘rqma, Zafar! Bu faqat ko‘z o‘yini, — dedi.  
+
+Ular qo‘llaridan ushlashib, g‘orni kezib chiqdilar. Qush ularni ikkinchi sinovga olib bordi.  
+
+Ikkinchi sinov: Aql. Qush ularga bir jumboq berdi:  
+— Men har kuni ikkita olma beraman. Birini tushlikda, ikkinchisini kechki ovqatda. Necha kundan keyin men 10 ta olma beraman?  
+
+Zafar va Zuhra bir necha daqiqa fikr yuritishdi. Zuhra birdan javobni topdi:  
+— Besh kundan keyin!  
+
+Qush ularning javobidan mamnun bo‘lib, ularni uchinchi sinovga olib bordi.  
+
+Uchinchi sinov: Do‘stlik. Qush ularga bir quti berdi va dedi:  
+— Bu qutini ochish uchun siz bir-biringizga yordam berishingiz kerak.  
+
+Zafar va Zuhra qutini ochishga harakat qilishdi. Zafar qutining ustki qismini ushlab, Zuhra esa pastki qismini tortdi. Birdan, qutining ichidan yorug‘lik chiqdi va ular oldida Sehrli Olma Daraxtining eng katta siri ochildi: daraxt faqat do‘stlik va hamjihatlik bilan gullaydi va meva beradi.  
+
+Qush ularga minnatdorchilik bildirdi va ularni yer usti dunyosiga qaytarib yubordi. Ertasi kuni, qishloq aholisi Sehrli Olma Daraxti tagida ikkita olma ko‘rishdi. Bu Zafar va Zuhraning do‘stligi tufayli edi.  
+
+Shundan so‘ng, Olmazor qishlog‘ida har yili ikkita olma terilib, qishloq aholisi baxt-saodat bilan yashay boshladi. Zafar va Zuhra esa do‘stliklari bilan butun qishloqga namuna bo‘lishdi.  
+
+Va ular uzoq va baxtli hayot kechirishdi.  
+</body>

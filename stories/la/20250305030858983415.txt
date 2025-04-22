@@ -1,0 +1,53 @@
+<prompt>
+Please write a silly Latin children's story that is at least 1000 words long.
+It must be completely written in proper Latin (LA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Herba Mirabilis et Potio Magica'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>la</lang_id>
+
+<title>Herba Mirabilis et Potio Magica</title>
+<body>Erant in terra longinqua duo amici, Marcus et Lucius, qui semper in silvis et montibus vagabantur. Amabat Marcus herbas et flores, et noverat omnes species earum. Lucius autem amabat animalia et aves, et sciebat omnia de eis. 
+
+Die quadam, dum per silvam ambularent, invenerunt herbam mirabilem, cuius folia erant aurea et radices argenteae. Marcus dixit, "O Luci, ecce herba mirabilis! Audivi patrem meum dicentem, quod haec herba potest curare omnes morbos et donare vitam aeternam." Lucius respondit, "O Marce, si haec herba tam mirabilis est, cur non facimus potionem magicam ex ea?" 
+
+Marcus et Lucius collegerunt herbam mirabilem et portaverunt eam ad domum Marci. Uxorem Marci, qui nomine erat Julia, rogaverunt, ut faceret potionem magicam ex herba. Julia dixit, "Potionem magicam faciam, sed oportet me habere aliquot res, ut aquam crystallinam, lapidem pretiosum et florem rariorem." 
+
+Marcus et Lucius perierunt in silvam, ut invenirent res, quas Julia postulaverat. Invenerunt fontem crystallinum, et Marcus dixit, "Ecce aqua crystallina! Hauriamus eam in vasculum." Lucius respondit, "O Marce, sed oportet me habere lapidem pretiosum, ut potionem magicam perficiamus." 
+
+Lucius perrexit ad montem proximum, et invenit lapidem pretiosum, qui erat ruber et lucens. Tunc Marcus et Lucius redierunt ad domum Marci, et dixerunt Juliae, "Habemus omnes res, quas postulasti. Fac potionem magicam, ut curare possimus omnes morbos et donare vitam aeternam." 
+
+Julia fecit potionem magicam, et Marcus et Lucius biberunt eam. Statim senserunt se esse saniores et fortiores. Tunc Marcus dixit, "O Luci, potionem magicam biberimus! Nunc curare possumus omnes morbos et donare vitam aeternam." Lucius respondit, "O Marce, sed oportet me habere florem rariorum, ut potionem magicam perficiamus." 
+
+Marcus et Lucius perierunt in silvam, ut invenirent florem rariorum. Invenerunt hortum secretum, in quo erant flores omnes species. Marcus dixit, "O Luci, ecce hortus secretus! Inveniamus florem rariorum, ut potionem magicam perficiamus." Lucius respondit, "O Marce, sed oportet me habere scientiam, ut sciam, quis est flos rariorum." 
+
+Tunc apparuit sibi vir sapientissimus, qui dixit, "O Marcus et Lucius, ego sum custos horti secreti. Dicam vobis, quis est flos rariorum. Est flos, qui appelatur 'Flos Vitae', et habet virtutem curandi omnes morbos et donandi vitam aeternam." 
+
+Marcus et Lucius quaesierunt Florem Vitae, et invenere eum in medio horti. Tunc Marcus dixit, "O Luci, ecce Flos Vitae! Nunc habemus omnes res, quas necessarias sunt, ut curare possimus omnes morbos et donare vitam aeternam." Lucius respondit, "O Marce, sed oportet me habere amorem, ut potionem magicam perficiamus." 
+
+Tunc Marcus et Lucius redierunt ad domum Marci, et dixerunt Juliae, "Habemus omnes res, quas necessarias sunt. Faciamus potionem magicam, ut curare possimus omnes morbos et donare vitam aeternam." Julia fecit potionem magicam, et Marcus et Lucius biberunt eam. Statim senserunt se esse saniores et fortiores, et curaverunt omnes morbos et donaverunt vitam aeternam. 
+
+Postea Marcus et Lucius perierunt in terram, ut donarent vitam aeternam omnibus. Invenerunt regem, qui erat morbus, et dixerunt ei, "O rex, habemus potionem magicam, quae potest curare te et donare vitam aeternam." Rex respondit, "O Marcus et Lucius, si habetis potionem magicam, curate me et donate vitam aeternam." 
+
+Marcus et Lucius dederunt regi potionem magicam, et rex biberunt eam. Statim curatus est, et donata est ei vita aeterna. Tunc rex dixit, "O Marcus et Lucius, gratias vobis ago, quod curastis me et donastis vitam aeternam. Vos estis amici mei, et donabo vobis omnes divitias meas." 
+
+Marcus et Lucius responderunt, "O rex, non necessitas est nobis divitiarum. Sed oportet nobis donare vitam aeternam omnibus, ut sint saniores et fortiores." Rex dixit, "O Marcus et Lucius, vos estis viri sapientissimi, et donabo vobis omnes divitias meas, ut donare possitis vitam aeternam omnibus." 
+
+Tunc Marcus et Lucius perierunt in terram, ut donarent vitam aeternam omnibus. Invenerunt multos homines, qui erant morbi, et dederunt eis potionem magicam. Statim curati sunt, et donata est eis vita aeterna. Marcus et Lucius donaverunt vitam aeternam omnibus, et terra facta est sanior et fortior. 
+
+Postea Marcus et Lucius redierunt ad domum Marci, et dixerunt Juliae, "Habemus donatum vitam aeternam omnibus. Terra facta est sanior et fortior, et omnes homines sunt saniores et fortiores." Julia respondit, "O Marcus et Lucius, vos estis amici mei, et gratias vobis ago, quod donastis vitam aeternam omnibus. Terra erit semper sanior et fortior, et omnes homines erunt semper saniores et fortiores." 
+
+Tunc Marcus et Lucius vixerunt in terra, et donaverunt vitam aeternam omnibus. Terra facta est paradiso, et omnes homines vivebant in pace et in amore. Marcus et Lucius erant amici regis, et rex donabat eis omnes divitias suas. Marcus et Lucius donaverunt vitam aeternam omnibus, et terra erit semper sanior et fortior. 
+
+Sic Marcus et Lucius vixerunt in terra, et donaverunt vitam aeternam omnibus. Terra facta est paradiso, et omnes homines vivebant in pace et in amore. Et Marcus et Lucius erant amici regis, et rex donabat eis omnes divitias suas, et Marcus et Lucius donaverunt vitam aeternam omnibus, et terra erit semper sanior et fortior. 
+
+Et sic est finis historiae de Herba Mirabili et Potione Magica. Haec historia docet nos, quod amicitia et caritas possunt donare vitam aeternam omnibus, et terra erit semper sanior et fortior. Et Marcus et Lucius erant exemple nobis, quod donare vitam aeternam omnibus est opus Dei, et terra erit semper paradiso. 
+
+Et haec historia erit semper memoria nobis, quod amicitia et caritas possunt donare vitam aeternam omnibus, et terra erit semper sanior et fortior. Et Marcus et Lucius erunt semper amici nostri, et donabunt nobis vitam aeternam, et terra erit semper paradiso. 
+
+Et sic est finis historiae de Herba Mirabili et Potione Magica. Haec historia docet nos, quod amicitia et caritas possunt donare vitam aeternam omnibus, et terra erit semper sanior et fortior. Et Marcus et Lucius erant exemple nobis, quod donare vitam aeternam omnibus est opus Dei, et terra erit semper paradiso. </body>

@@ -1,0 +1,85 @@
+<prompt>
+Please write a creative and original Catalan children's story that is at least 1000 words long.
+It must be completely written in proper Catalan (CA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La gran aventura dels tres amics valents'.
+</prompt>
+
+<model>google/gemini-2.0-flash-lite-preview-02-05:free</model>
+
+<lang_id>ca</lang_id>
+
+```xml
+<title>La gran aventura dels tres amics valents</title>
+<body>
+A la petita vila de Castellroig, enmig de turons verdosos i olorosos a romaní, vivien tres amics inseparables: en Martí, la Júlia i en Pau. El Martí, amb els seus cabells rossos com el sol, era el més decidit; la Júlia, amb els seus ulls negres i brillants com estels, era la més intel·ligent; i en Pau, amb el seu somriure amable i les seves pigues, era el més valent de cor.
+
+Un dia assolellat, mentre jugaven a amagar-se a la plaça del poble, en Martí va trobar una vella ampolla de vidre, enterrada sota un arbre mil·lenari. Era una ampolla estranya, amb dibuixos gravats que representaven sirenes, dracs i mapes antics.
+
+"Què és això?", va exclamar en Martí, desempolsegant l'ampolla.
+
+La Júlia, sempre curiosa, va agafar l'ampolla i la va examinar detingudament. "Sembla un mapa", va dir, "Un mapa molt, molt antic. I mira, hi ha una nota dins!"
+
+Amb cuidado, en Martí va treure la nota de l'ampolla. Estava escrita amb una cal·ligrafia bonica i antiga. La Júlia va llegir en veu alta:
+
+"A la recerca del Tresor de la Muntanya Encantada, cal seguir el camí de l'estel fugaç, creuar el riu de les serps i despertar el drac adormit. Només els cors valents, amb esperit de lleó i intel·ligència d'àguila, podran trobar la fortuna amagada."
+
+En Pau, en sentir la nota, va inflar el pit. "Aventura! Això sona fantàstic! Segur que ho podem fer!"
+
+El Martí va assentir. "És clar que sí! Som els amics més valents de Castellroig! Som capaços de tot!"
+
+La Júlia, tot i ser la més prudent, no es va poder resistir a l'emoció. "Però necessitarem preparar-nos… hem de saber què és el riu de les serps i com despertar un drac!"
+
+Així doncs, els tres amics van començar els preparatius per a la seva gran aventura. Van consultar llibres antics a la biblioteca del poble, van parlar amb l'avi Pere, un home savi i ple d'històries, i van dibuixar un mapa del camí que havien de seguir.
+
+Seguint el mapa de l'ampolla, el primer pas era trobar l'estel fugaç. Van esperar a la nit a dalt del turó més alt de Castellroig. Després de molta espera, finalment en van veure un creuar el cel, deixant una estela brillant.
+
+"Seguim la direcció de l'estel!", va cridar el Martí.
+
+Van caminar durant hores, travessant boscos frondosos i prats plens de flors. El camí era llarg i ple de reptes. Al cap d'un temps, van arribar al riu. Era un riu estrany, amb l'aigua de color verd fosc i que feia un soroll sibilant.
+
+"Aquest ha de ser el riu de les serps", va dir la Júlia, amb un lleuger esgarrifament.
+
+En Pau, tanmateix, va prendre la iniciativa. "No us preocupeu, jo aniré primer. Si hi ha serps, les espantarem amb els nostres crits!"
+
+El Pau va entrar a l'aigua, que els hi arribava als genolls. L'aigua estava freda, i sí que hi havia serps! Però no eren serps normals, sinó serps de fusta, que feien un soroll xiuletant al lliscar per l'aigua. Eren inofensives.
+
+Van creuar el riu, rient per la seva aparent perillositat.
+
+Després de creuar el riu, van arribar a una cova fosca i misteriosa. A l'entrada, hi havia una porta de pedra amb un gran dibuix d'un drac adormit.
+
+"Aquesta ha de ser la cova del drac", va dir en Martí, amb un lleuger temor.
+
+"Hem de despertar-lo!", va recordar la Júlia, llegint la nota. "Però com ho farem? La nota no diu res!"
+
+Van passar una bona estona pensant. Finalment, la Júlia va tenir una idea. "Recordeu el conte que ens va explicar l'avi Pere sobre els dracs? Deia que els dracs eren molt sensibles a la música."
+
+En Martí va recordar que portava una flauta petita a la butxaca. El pare li havia regalat per el seu aniversari.
+
+"Perfecte!", va exclamar en Martí.
+
+Dins de la cova, que estava a les fosques, el Martí va començar a tocar una melodia suau i bonica amb la flauta. La música va ressonar per tota la cova. De sobte, la porta de pedra es va obrir. Dins, hi havia un gran drac dormint, però que, gràcies a la música, es va despertar poc a poc. El drac era de color verd maragda, amb escates brillants i uns ulls daurats.
+
+El drac, al veure els tres amics, no es va espantar, ans al contrari, va somriure.
+
+"Heu superat la prova!", va dir el drac amb una veu profunda i melodiosa. "Sou dignes de rebre el Tresor de la Muntanya Encantada."
+
+El drac els va portar a una habitació secreta de la cova. Allà, damunt d'un pedestal de pedra, hi havia un cofre daurat. El drac va obrir el cofre. Dins no hi havia or ni joies, com esperaven, sinó un llibre antic, amb les pàgines gastades.
+
+"Aquest és el Tresor", va dir el drac. "És el Llibre de la Saviesa. Conté tots els secrets de la natura, la història del món i la clau per a la felicitat. La veritable riquesa es troba en el coneixement."
+
+Els tres amics van quedar bocabadats. No esperaven un llibre!
+
+Van agafar el llibre i van tornar a Castellroig, contents i feliços. Durant les següents setmanes, van passar tardes senceres llegint el Llibre de la Saviesa, aprenent coses noves i emocionants. Van descobrir que el món era molt més gran i meravellós del que havien imaginat.
+
+Un dia, mentre lliuraven el llibre a la biblioteca del poble, van veure l'avi Pere.
+
+"Vaig saber que vau trobar el Tresor", els va dir l'avi Pere, somrient. "M'alegro molt. Heu demostrat ser bons amics, valents i intel·ligents."
+
+Els tres amics es van mirar, somrient. Era la major recompensa que podien haver tingut. L'aventura no havia acabat mai, perquè el coneixement és infinit. I ells, ara, tenien tot un món per explorar.
+I així, en Martí, la Júlia i en Pau, els tres amics valents, van continuar vivint aventures, explorant el món i aprenent sempre coses noves. Sabien que, junts, podrien superar qualsevol obstacle i descobrir tots els tresors que la vida els tenia reservats.
+I van viure feliços, per sempre més.
+</body>
+```

@@ -1,0 +1,47 @@
+<prompt>
+Please write a educational Welsh children's story that is at least 1000 words long.
+It must be completely written in proper Welsh (CY).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Y Bachgen Bach ar Ymchwil: Hanes Am Ddarganfod, Dysgu, a'r Gofyn Cwestiynau Mawr.'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>cy</lang_id>
+
+<title>Y Bachgen Bach ar Ymchwil: Hanes Am Ddarganfod, Dysgu, a'r Gofyn Cwestiynau Mawr</title>
+<body>Roedd bachgen bach o'r enw Ieuan yn byw mewn pentref bach yn y wlad. Roedd Ieuan yn fachgen curo a oedd wrth ei fodd yn dysgu pethau newydd. Un diwrnod, roedd Ieuan yn chwarae yn yr ardd pan ddarganfuodd ddau lyfr hen yn cuddio rhwng y coed. Roedd y llyfrau wedi eu gorchuddio â chlai a roedd eu tudalennau wedi eu malu â'r amser.
+
+Roedd Ieuan yn awyddus i ddysgu mwy am y llyfrau, felly aeth at ei dad i ofyn iddo beth oedd y llyfrau. "Beth yw'r llyfrau hyn, tad?" gofynodd Ieuan. "Mae'r llyfrau hyn yn hen lyfrau Cymraeg," atebodd ei dad. "Maen nhw'n cynnwys storiâu a hanesion am Gymru a'i phobl."
+
+Roedd Ieuan yn siomedig nad oedd ganddo ddigon o wybodaeth i ddarllen y llyfrau, ond roedd ei dad yn awyddus i'w helpu. "Dw i'n mynd i ddysgu Cymraeg, tad," meddai Ieuan. "Mae'r iaith Gymraeg yn iaith hyfryd," atebodd ei dad. "Mae hi'n iaith gyfoethog a llawn hanes."
+
+Dechreuodd Ieuan ddysgu Cymraeg yn ysgol, a roedd yn mwynhau pob eiliad o'r broses. Roedd ei athrawes, Mrs. Jones, yn athrawes hyfryd a oedd wrth ei fodd yn helpu ei disgyblion i ddysgu. Roedd Mrs. Jones yn dysgu Cymraeg i Ieuan a'i ffrindiau trwy storiâu a chaneuon.
+
+Un diwrnod, roedd Mrs. Jones yn dysgu stori am y Mabinogion. "Beth yw'r Mabinogion?" gofynodd Ieuan. "Mae'r Mabinogion yn gyfres o storiâu hynafol o Gymru," atebodd Mrs. Jones. "Maen nhw'n cynnwys storiâu am ddewiniaid, rhyfelwyr, a chymeriadau eraill o'r mytholeg Gymreig."
+
+Roedd Ieuan yn awyddus i ddysgu mwy am y Mabinogion, felly aeth at y llyfrgell i chwilio am lyfrau am y pwnc. Roedd y llyfrgell yn lle hyfryd a oedd llawn llyfrau a deunyddiau addysgol. Roedd Ieuan yn chwilio trwy'r silffoedd pan ddarganfuodd lyfr am y Mabinogion. Roedd y llyfr yn cynnwys storiâu a lluniau am y cymeriadau a'r storiâu o'r Mabinogion.
+
+Roedd Ieuan yn mwynhau darllen y llyfr, a roedd yn dysgu llawer am y Mabinogion. Roedd yn siomedig pan orffwythodd y llyfr, ond roedd yn gwybod bod llawer mwy i'w ddysgu. "Rwy'n mynd i ofyn cwestiynau mawr," meddai Ieuan wrth ei hun. "Rwy'n mynd i ddysgu am Gymru a'i phobl."
+
+Aeth Ieuan at ei dad i ofyn iddo am Gymru a'i phobl. "Tad, beth yw'r hanes o Gymru?" gofynodd Ieuan. "Mae hanes Cymru yn hanes hir a chymhleth," atebodd ei dad. "Mae hi'n cynnwys storiâu am y Rhufeiniaid, y Normaniaid, a'r Saeson, a'r modd y maen nhw wedi effeithio ar Gymru."
+
+Roedd Ieuan yn awyddus i ddysgu mwy am hanes Cymru, felly aeth at y llyfrgell i chwilio am lyfrau am y pwnc. Roedd y llyfrgell yn lle hyfryd a oedd llawn llyfrau a deunyddiau addysgol. Roedd Ieuan yn chwilio trwy'r silffoedd pan ddarganfuodd lyfr am hanes Cymru. Roedd y llyfr yn cynnwys storiâu a lluniau am y cymeriadau a'r storiâu o hanes Cymru.
+
+Roedd Ieuan yn mwynhau darllen y llyfr, a roedd yn dysgu llawer am hanes Cymru. Roedd yn siomedig pan orffwythodd y llyfr, ond roedd yn gwybod bod llawer mwy i'w ddysgu. "Rwy'n mynd i ofyn cwestiynau mawr," meddai Ieuan wrth ei hun. "Rwy'n mynd i ddysgu am Gymru a'i phobl."
+
+Aeth Ieuan at ei dad i ofyn iddo am Gymru a'i phobl. "Tad, beth yw'r diwylliant Cymreig?" gofynodd Ieuan. "Mae diwylliant Cymreig yn diwylliant hyfryd a llawn hanes," atebodd ei dad. "Mae hi'n cynnwys storiâu, caneuon, a dawnsio, a'r modd y maen nhw wedi effeithio ar Gymru."
+
+Roedd Ieuan yn awyddus i ddysgu mwy am diwylliant Cymreig, felly aeth at y llyfrgell i chwilio am lyfrau am y pwnc. Roedd y llyfrgell yn lle hyfryd a oedd llawn llyfrau a deunyddiau addysgol. Roedd Ieuan yn chwilio trwy'r silffoedd pan ddarganfuodd lyfr am diwylliant Cymreig. Roedd y llyfr yn cynnwys storiâu a lluniau am y cymeriadau a'r storiâu o diwylliant Cymreig.
+
+Roedd Ieuan yn mwynhau darllen y llyfr, a roedd yn dysgu llawer am diwylliant Cymreig. Roedd yn siomedig pan orffwythodd y llyfr, ond roedd yn gwybod bod llawer mwy i'w ddysgu. "Rwy'n mynd i ofyn cwestiynau mawr," meddai Ieuan wrth ei hun. "Rwy'n mynd i ddysgu am Gymru a'i phobl."
+
+Aeth Ieuan at ei dad i ofyn iddo am Gymru a'i phobl. "Tad, beth yw'r iaith Gymraeg?" gofynodd Ieuan. "Mae iaith Gymraeg yn iaith hyfryd a llawn hanes," atebodd ei dad. "Mae hi'n cynnwys geiriau a gramadeg, a'r modd y maen nhw wedi effeithio ar Gymru."
+
+Roedd Ieuan yn awyddus i ddysgu mwy am iaith Gymraeg, felly aeth at y llyfrgell i chwilio am lyfrau am y pwnc. Roedd y llyfrgell yn lle hyfryd a oedd llawn llyfrau a deunyddiau addysgol. Roedd Ieuan yn chwilio trwy'r silffoedd pan ddarganfuodd lyfr am iaith Gymraeg. Roedd y llyfr yn cynnwys storiâu a lluniau am y cymeriadau a'r storiâu o iaith Gymraeg.
+
+Roedd Ieuan yn mwynhau darllen y llyfr, a roedd yn dysgu llawer am iaith Gymraeg. Roedd yn siomedig pan orffwythodd y llyfr, ond roedd yn gwybod bod llawer mwy i'w ddysgu. "Rwy'n mynd i ofyn cwestiynau mawr," meddai Ieuan wrth ei hun. "Rwy'n mynd i ddysgu am Gymru a'i phobl."
+
+Aeth Ieuan at ei

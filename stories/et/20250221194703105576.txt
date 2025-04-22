@@ -1,0 +1,45 @@
+<prompt>
+Please write a creative and original Estonian children's story that is at least 1000 words long.
+It must be completely written in proper Estonian (ET).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kolm korstnapuhujat ja nende kooljalood'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>et</lang_id>
+
+<title>Kolm korstnapuhujat ja nende kooljalood</title>
+<body>
+Tumedas ja suitsuses Tallinnas, vanal linnusemäe jalamil, asus väike, kuid elav korstnapühkimise kool. Seal õppisid kolm noort korstnapuhujat –  Pirita,  Toomas ja Kaja. Nad olid kõik erinevad, kuid ühendas neid üks unistus: puhastada linna suitsust ja teha inimestele rõõmu.
+
+Pirita oli kiire ja energiline nagu punane tuvi, kes lendab taevasse. Ta oskas kõige kiiremini ronida suitsevate korstnate tippu,  nagu kiire kiiver, ja lasi end üle suitsusügavuste. Tema õpetused olid  lihtsad ja kiired, nagu lennukõrgusel lendav linn.
+
+Toomas oli aga hoopis rahulikum ja kannatlikum. Ta oli nagu rahulik tamm, kes talub kõike elu tormi. Tema puhastusmeetodid olid hoolikad ja täpsed,  nagu vanal ajal käisid kirurgid operatsioonil. Kõik tema puhastatud suitsukorstnad olid nii puhtat kui uued klaaskorstnad.
+
+Kaja oli aga ettevaatlik ja  kaval nagu väike rebane. Ta vaatles kõike tähelepanelikult, mõtles iga sammu enne kui tegi ja tähistas kõik korstnad ja nende puhastajad puhtuse märkidega. Tema meetodid olid  ainulaadsed ja imelised, nagu  õrnad  kõrvitsa seemned, mis puhastavad maad.
+
+Nende koolis õpetas neid tark ja kogemusrikas korstnapühkimise meister, vana Jaan. Ta oli näinud palju suitsulisi lende ja oskas rääkida korstnate lugusid.
+
+Ühel päeval käis linna kohal tugev torm. Tuul valetas ja vihmased tilgad langesid, nagu sadanud kivikesed.  Linnal oli raske hingata,  paljud korstnad suitsesid ja kõike häirisid tumedad pilved.  Lapsed nuttisid, sest nad ei näinud päikest.
+
+"Me peame korstnad puhastama!" ütles Pirita, tema nägu punane nagu tuvi saba.
+
+"See on raske," ütles Toomas, aga ta nägu oli rahulik, nagu rahulik veekogu.
+
+"Aga me suudame," ütles Kaja, tema silmad särasid nagu tarkade rebase silmad.
+
+Nad alustasid koos. Pirita ronib kõige kõrgematele korstnatele,  Toomas  puhastab hoolikalt ja Kaja vaatleb iga korstnat, enne kui teeb puhastustööd.  Nende tööriistad helisesid ja suits lagunes,  nagu vanad, kulunud raamatud.  Nad tegid tööd kogu päeva ja isegi öösel, kui taevas oli tumeroheline.
+
+Nad ei  peatunud, kuni viimasedki suitsukillud olid kadunud.  Päike paists nii kirkalt ja ütles kõigile, et elu on ilus.
+
+Torm vaibus ja taevas avanes. Linna täitsid rõõmsad naerud ja rõõmsad laulud.  Inimesed olid tänulikud korstnapuhujate eest.
+
+Jaan, nende õpetaja, kiitis neid kõigi heade sõnadega, ja nad said iga päev uusi auhindu.
+
+Pirita, Toomas ja Kaja said täiskasvanuteks korstnapuhujateks ja tegutsesid kõigis kõige raskemates kohtades. Nad puhastasid iga korstna nii hoolikalt, et inimesed saaksid hingata ja elada nagu kunagi varem. Ja inimesed said rõõmu lugeda igast loost ja iga päev nautida päikesepaistet.
+
+Nende loogilugu  tegi linna veelgi paremaks ja ilusamaks, nagu säravad ja peened kivikesed ja kullatud kaunistused. Linnal oli ilus elu.
+</body>

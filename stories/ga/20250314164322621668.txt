@@ -1,0 +1,62 @@
+<prompt>
+Please write a funny Irish children's story that is at least 1000 words long.
+It must be completely written in proper Irish (GA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Daoine an Ghleann Chabhrach, Scéalta Chroí'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>ga</lang_id>
+
+```xml
+<title>Daoine an Ghleann Chabhrach, Scéalta Chroí</title>
+<body>
+Bhí Gleann Chabhair ann, áit bheag, ghlas le fánaí beaga móra, agus abhainn bheag ag rith tríd. Bhí teachín bán ann agus beannaithe a chónaí istigh ann. Bhí Seán, buachaill beag le gruaig rua, agus Caitríona, a dheirfiúr bheag le ribín gorm ina cuid gruaige. B'iad sin an t-aon daoine óga sa ghleann, agus bhí grá mór acu dá chéile agus don áit ina raibh siad ag fás aníos.
+
+Ar ndóigh, ní bheadh Gleann Chabhair mar atá sé gan na daoine eile, agus is iad na daoine is suimiúla ar fad a bhí iad. Ar dtús, bhí Mamó O'Malley ann, bean mhaith le spéaclaí móra agus fuinneamh cosúil le hata óirleagtha. B'í an bhean seo an duine ab fhearr ar fad ag scéalaíocht, agus chaith Seán agus Caitríona an chuid is mó dá gcuid ama ag éisteacht le scéalta iontacha faoi na laochra sean-aimseartha.
+
+Ansin, bhí Daideo Murphy, fear dathúil le féasóg fhada bhán agus sraith leathan gáire. Bhí aithne mhaith ag Daideo ar gach planda agus ainmhí sa ghleann, agus bhí sé in ann iad aithris lena gcuid fuaimeanna. "Ó, is breá leis na fianna teacht chun cuairt a thabhairt ar an ghairdín," a dúirt sé go bog, ag déanamh fuaim chomh cosúil le fianna gur shíl Seán go raibh sé ar thóir.
+
+Ach an duine ba shuimiúla ar fad, is dócha, ná Pádraig, an béabhar. Bhí Pádraig ina chónaí i lochán beag sa ghleann, agus bhí a lán scileanna aige. D’fhéadfadh sé crainn a ghearradh leis na fiacla aige, agus bhí sé an-mhaith ag tógáil dambaí agus tollán faoin talamh. Bhí meas mór ag na páistí ar Pádraig, agus ba bhreá leo é a fheiceáil ag snámh ina ghleic agus ag déanamh a chuid oibre.
+
+Lá amháin, nuair a bhí an spéir ghorm agus na gréine ag taitneamh go geal, bhí Seán agus Caitríona ag imirt sa ghairdín. Thug Seán faoi deara rud aisteach. "Caitríona," a dúirt sé, "tá an t-iasc ar iarraidh!"
+
+D'fhéach Caitríona ar fud an locháin. Bhí gach rud ina áit féin - na crainn, na bláthanna, an béabhar ag obair ar a damba. Ach ní raibh iasc ann. "Tá sé aisteach, nach bhfuil?" a d'fhreagair sí. "Ní fheicim é."
+
+Chuaigh siad ag lorg Mamó O'Malley agus Daideo Murphy. "Ó, a pháistí," a dúirt Mamó, "cén cineál scéil atá ann faoin iasc atá imithe? Seans gur ghoid na sióga é! Bhí sí gnách sin a dhéanamh!"
+
+"B'fhéidir," a dúirt Daideo, "gur shiúil sé amach. Faigheann iasc an bealach amach ó am go ham."
+
+"Ach conas?" a d'iarr Seán. "Níl cosa ag iasc!"
+
+Agus iad ag caint, chonaic siad Pádraig, an béabhar, ag tarraingt rud éigin isteach i bpoll. "Pádraig!" ghlaoigh Caitríona, "cad atá á dhéanamh agat?"
+
+Tháinig Pádraig amach as an bpoll, agus é chomh feochmhar agus ab fhéidir le béabhar a bheith. Bhí an t-iasc beo ina bhéal aige!
+
+"Oh," arsa Seán, "tá an t-iasc gafa agat!"
+
+Shuí Pádraig ar an talamh agus d'oscail sé a bhéal. Tháinig an t-iasc amach agus thit sé ar ais san uisce. "Níl," a d'fhreagair Pádraig le guth balbh. "Thug mé é ar ais."
+
+"Thug tú é ar ais?" a d'iarr Caitríona, go hiontach. "Cén fáth?"
+
+"Bhí sé ag iarraidh bogadh," a dúirt Pádraig. "Bhí mé ag iarraidh cabhrú leis."
+
+D’fhéach na páistí ar a chéile. "Cad é?" a d'iarr Seán. "Tá tú ag déanamh gáire linn!"
+
+"Ní hea," a dúirt Pádraig. "Tá mé ag labhairt go fírinneach." Thosaigh sé ag insint dóibh an dóigh a raibh sé ag tochailt tollán faoin talamh, agus conas a tháinig sé ar an iasc. "Bhí sé ina luí ar an mbun. Ní raibh sé ag mothú go maith. Agus ansin, chuaigh sé tríd an tollán. Bhí sé ag iarraidh taisteal! Níor theastaigh uaim go gcaillfeadh sé é féin, agus mar sin thug mé ar ais é."
+
+Bhreathnaigh siad ar Pádraig, gan focal a rá. Níor thuig siad é. Ach, is dócha gur thuig siad go raibh an béabhar ag iarraidh rud éigin a dhéanamh le bheith ina chabhair.
+
+"Ó," a dúirt Mamó O'Malley, nuair a bhí siad imithe chuici, "sin Pádraig dóibh. Tá croí mór aige. Agus sin an fáth go bhfuilimid sa ghleann seo - toisc go bhfuil na daoine go léir ann atá ag cabhrú dá chéile."
+
+Ansin thosaigh Daideo Murphy ag gáire. "Féach," a dúirt sé, "agus tú ag gabháil le scéal, déanfaidh mé amhrán fúithi." Agus thosaigh sé ag canadh amhrán faoi Pádraig, an béabhar a thug an t-iasc ar ais chuig an uisce. Bhí sé an-ghreannmhar.
+
+An lá dár gcionn, shroich scéal an iasc seo gach duine sa ghleann. Chruinnigh siad go léir ag an lochán chun Pádraig a fheiceáil. Thug siad moladh mór dó, agus brioscaí milis agus úlla dó. Bhí Pádraig ag mothú thar a bheith bródúil, agus an chuid eile de na laethanta ag tógáil dambaí is tollán don fhear beag.
+Tháinig siad chun bheith ina chairde mór le gach duine sa ghleann.
+
+D'fhan Seán agus Caitríona ag déanamh cairdeas le Pádraig, leis an iasc, agus leis na daoine sa ghleann. Gach lá, bhí sé ina rud difriúil: bhí láitheanta aimsireacha, láitheanta aisteacha agus laethanta greannmhara ann. Chonaic siad rudaí gan áireamh, chuaigh siad trí eachtraí ar neamhréir agus, ar ndóigh, d'fhoghlaim siad go leor scéalta iontacha ón seanmháthair agus ón seanathair. Ba ghleann sona, álainn é. Agus d’fhan sé amhlaidh, toisc gur bhain na daoine uile taitneamh as an ghleann chomh maith agus ba mhian leo bheith le chéile. Mar gheall ar sin, mhair na scéalta ó chroí go ceann an domhain, ar fad.
+</body>
+```

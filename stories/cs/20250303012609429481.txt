@@ -1,0 +1,50 @@
+<prompt>
+Please write a educational Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Jak zachránit měsíc před hladovým drakem'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>cs</lang_id>
+
+<title>Jak zachránit měsíc před hladovým drakem</title><body>Byl jednou jeden malý chlapec jménem Tonda, který žil v poklidné vesnici pod vysokými horami. Tonda byl zvídavý a odvážný, ale jeho největší láskou bylo pozorovat noční oblohu. Každý večer sedával na svém oblíbeném kopci a díval se na hvězdy a měsíc, který zářil jako obrovská stříbrná koule. Jednoho večera se však stalo něco nečekaného.
+
+Tonda si všiml, že měsíc vypadá trochu jinak. Byl menší a jeho světlo bylo slabší. Chlapec si řekl, že to musí být jen jeho představivost, ale následující noc byl měsíc ještě menší. Tonda se rozhodl, že to musí prozkoumat. Vzal svou lucernu a vydal se do lesa, kde žil starý moudrý sova jménem Hubert.
+
+„Huberte,“ řekl Tonda, když dorazil k sovímu stromu, „prosím tě, pomoz mi. Měsíc mizí a já nevím proč.“
+
+Hubert zamrkal svými velkými žlutýma očima a řekl: „Tondo, to je vážné. Měsíc není jen kus kamene – je to kouzelný svět, který udržuje rovnováhu v naší přírodě. Pokud zmizí, bude to mít strašlivé následky.“
+
+„Ale co se s ním stalo?“ zeptal se Tonda znepokojeně.
+
+Hubert se zamyslel. „Existuje stará legenda o hladovém drakovi, který žije v hlubinách hor. Říká se, že tento drak má rád všechno, co svítí, a že se někdy vydá na oblohu, aby si pochutnal na měsíci. Možná je to on, kdo měsíc požírá.“
+
+Tonda se rozhodl, že musí draka najít a zastavit. Věděl, že to nebude snadné, ale nemohl si dovolit, aby měsíc zmizel. Hubert mu dal kouzelný amulet, který mu měl pomoci na cestě.
+
+„Tento amulet ti dá sílu a ochranu, ale musíš být opatrný. Drak je mocný a lstivý,“ varoval ho Hubert.
+
+Tonda se vydal na cestu. Procházel hustými lesy, překonával řeky a šplhal po strmých skalách. Po několika dnech dorazil k jeskyni, která byla obklopena temným kouřem. Uvnitř slyšel hlasité vrčení a chrochtání. Věděl, že našel draka.
+
+„Dobrý den,“ řekl Tonda odvážně, když vstoupil do jeskyně. „Jmenuji se Tonda a přišel jsem tě poprosit, abys přestal jíst měsíc.“
+
+Drak, obrovský a šupinatý, se na něj podíval svýma ohnivýma očima. „Proč bych měl poslouchat malého chlapce?“ zaburácel. „Měsíc je lahodný a já mám hlad!“
+
+„Ale měsíc je důležitý pro všechny lidi a zvířata,“ řekl Tonda. „Bez něj by byla noc příliš tmavá a svět by ztratil svou magii. Prosím, přestaň ho jíst.“
+
+Drak se zamyslel. „Hmm, možná máš pravdu. Ale co mám dělat, když mám takový hlad?“
+
+Tonda se zamyslel. „Co kdybych ti našel něco jiného, co by ti chutnalo? Něco, co by tě nasytilo, ale neublížilo měsíci?“
+
+Drak souhlasil. Tonda se vydal zpět do vesnice a požádal místní pekaře, aby upekli obrovský dort z medu a ovoce. Poté se vrátil do jeskyně a nabídl dort drakovi.
+
+Drak ochutnal a jeho oči se rozzářily. „To je výborné!“ zvolal. „Nikdy jsem nic takového nejedl!“
+
+„Tak vidíš,“ řekl Tonda. „Není třeba jíst měsíc, když existují takové dobroty.“
+
+Drak se usmál a slíbil, že už měsíc nikdy neochutná. Tonda se vrátil domů a měsíc se postupně vrátil do své původní velikosti a jasu. Vesnice oslavovala Tondovu odvahu a moudrost a od té doby se každý rok pekl obrovský medový dort na počest tohoto hrdinského činu.
+
+A tak Tonda naučil nejen draka, ale i všechny lidi, že někdy stačí najít správné řešení, aby se zachránilo něco krásného a důležitého. A měsíc od té doby zářil na obloze jasněji než kdy dřív, jako by děkoval za svou záchranu.</body>

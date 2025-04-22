@@ -1,0 +1,39 @@
+<prompt>
+Please write a uncomplicated Finnish children's story that is at least 1000 words long.
+It must be completely written in proper Finnish (FI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Käpylinnun salainen retki: Uuden pesän rakentaminen ja yllättävä ystävyys.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>fi</lang_id>
+
+<title>Käpylinnun salainen retki: Uuden pesän rakentaminen ja yllättävä ystävyys</title>
+<body>
+Pieni käpylinnu, nimeltään Pikku-Pirkko, asui vanhassa, kömpelössä kuusessa.  Talvi oli kääntänyt lehdet ruskeaksi ja maisema oli hiljainen ja hilpeä, juuri niin kuin käpylinnuille sopii.  Pikku-Pirkko oli aina ollut tarkka ja huolellinen. Hän halusi tehdä kaiken kunnolla ja oli siksi hyvin harmissaan, kun hänen vanha pesänsä oli jo niin kulunut ja vaurioitunut, että se ei enää ollut turvallinen kotinsa.  Syksy oli juuri menettämässä viimeisiä varjostaan, kun Pikku-Pirkko alkoi miettiä uutta pesäpaikkaa.
+
+”Uusi pesä”, hän ihmetteli itsekseen, ”miltä se voisi näyttää?” Hän lentää kuusen latvasta toiseen ja tutki tarkkaan oksia ja varmoja kohtia. Jokainen paikka tuntui joko liian matalalta tai liian alttiilta koville tuulille tai petoeläimille.   Yöllä hän oli täynnä unelmia moninaisista, hienoista pesistä, koristelluista kauniilla kankailla ja rikkaudellisilla männynkuilla, mutta päivä valaisi kaiken vaivaa tehokkaammin.
+
+Pikku-Pirkko halusi tietynlaisen pesän – hän halusi erityisen lujan pesän, mutta kaunis ja rikas.  Kuusi oli täynnä hämmästyttäviä käpyjä ja Pikku-Pirkko halusi näitä kaikissa pesän rakenteissa.  Lentäessään hän huomasivat levähtävänsä ystävällisen kuusen puun varjossa.  Sieltä paljastui kaunis, ikivanha männynköynnys, joka oli valloittanut kuusen, kasvaen villiytyneiden varrettaan sen viereen.   Pikku-Pirkko lensi aluksi pakahtua onnesta! Se oli ainutlaatuinen ja ainutkertainen!
+
+Aikaa kului hitaasti. Pikku-Pirkko työskenteli ahkerasti aamusta iltaan.  Hän keräsi pienikokoisia männyn kuitia, pehmeitä sammalia ja kuivaa kuorta.  Oli niin helppoa tehdä tästä pesästä ainutlaatuisen kaunis!   Hän totesi samalla, että männyn köynnöksen juurakko näytti mukavalta pesällä itsellään. Tämä oli mitä Pikku-Pirkko oli etsinyt!  Hän käveli rauhassa luopumaan kaikesta tarpeellisesta, joka olisi kuormittunut häntä tuleviksi projekteiksi ja jatkoi työskentelyään kauniilla männynköynnöksen läheisyydessä.   Se sopi erinomaisesti.
+
+Toisaalta kuusen rungossa asui lintu, nimeltään Pipsa. Pipsa oli mustavalkoinen lintu, jonka sininen kurkku erottui ympäröivästä. Pipsa oli varsin tarkka ja ylpeä ulkonäöstään. Hän oli harmissaan, kun oli täysin tietoinen Pikku-Pirkon työhön vaikuttavasta ahkeruudesta.
+
+”No, eiköhän sinulla ole tarpeeksi ongelmia,” Pipsa huokasi huomautukseksi.  Pikku-Pirkko huomioi hänen äänensä.
+
+”Mutta…mitä sinä teet?” Pikku-Pirkko kysyi, kummastuen äänen.  Hän alkoi kysyä, mitä Pipsa tarkoitti.
+
+"En todellakaan ymmärrä, miksi yrität olla onnistunut! Tiedätkö, ettemme todennäköisesti koskaan ymmärrä ystävyyttä tällä laajuudessa!", Pipsa toisti.
+
+Pikku-Pirkko naurahti yllättäen. ”Ymmärrän nyt!” hän totesi suu auki ja hämmästyksessä.  ”Me teemme sen yhdessä!" hän huudahti ja aloitti kuinka se voitaisiin toteuttaa.
+
+Ne työskentelivät yhdessä koko päivän.  Pikku-Pirkko otti hoitaakseen pesän rakentamisen ja Pipsa keräsi kauniita kuoria, lehdiä ja kiviä koristeeksi. Pian kaunis pesä oli valmis.  Se oli lujana, mutta kaunis, täynnä erilaisia kuvia ja pehmeämpiä männyn kuoria.  Se oli ehdottomasti niin kaunis ja erityinen.  Siitä lähtien käpylinnut olivat olleet ystäviä. Ne auttoivat toisiaan, iloitsivat toistensa onnesta ja jakoivat kaikista projekteistaan tietoaan ja ajatuksiaan.
+
+Talvi saapui ja tuuli puhalsi.  Mutta Pikku-Pirkko ja Pipsa olivat lämpimästi puolustettuja uudessa pesässään. Ja koska he olivat auttaneet toisiaan, heistä tuli erittäin läheisiä ystäviä.  Ne eivät enää pelänneet luontoa tai sitä, kuinka iso paikka maailma oli.
+
+Pikku-Pirkko iloitsi uudesta pesästään, tunteiden mukana. Ystävyyden lämpö lämmitti sydäntä hänen ja oli kaikki mitä hän oli koskaan halunnut.  Tämä ei ollut pelkkä pesä; tämä oli turvallisuus, ja se oli rakkautta.  Heidän luottamuksensa oli kirkkaanvaloinen ja ainutlaatuinen.
+</body>

@@ -1,0 +1,49 @@
+<prompt>
+Please write a timeless Estonian children's story that is at least 1000 words long.
+It must be completely written in proper Estonian (ET).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Salapärane maja, kus mööblid tantsivad'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>et</lang_id>
+
+<title>Salapärane maja, kus mööblid tantsivad</title>
+<body>
+Oli üks väike tüdruk, kelle nimi oli Mari. Mari elas väikeses külas, kus igaüks tundis teineteist. Mari armastas kuulata vanade naiste jutte, kes rääkisid salapärastest asjadest ja kohtadest. Üks neist juttudest käis ühe salapärase maja kohta, kus mööblid tantsisid.
+
+Mari oli väga uudishimulik ja tahtis selle salapärase maja kohta rohkem teada. Ta küsis vanadelt naistelt, kus see maja asub, aga nad ei tahtnud talle öelda. Mari otsustas, et ta läheb ise otsima.
+
+Ühel päeval, kui Mari käis metsas marju korjamas, nägi ta kaugel üht väikest maja. Maja oli väga ilus ja selle aknad särasid nagu päike. Mari mõtles, et see võib olla see salapärane maja, millest ta on kuulnud.
+
+Mari läks maja poole ja kui ta jõudis ukse ette, avas ta ukse ja astus sisse. Maja sees oli väga ilus ja Mari nägi, et kõik mööblid olid kohal. Aga midagi imelist - mööblid tantsisid! Toolid hüplesid üles ja alla, laud liikus edasi-tagasi ja tugitoolid keerlesid ringi.
+
+Mari oli väga üllatunud ja ta ei teadnud, mida teha. Ta vaatas ümber ja nägi, et mööblid tantsivad eri rütmides. Toolid tantsisid menuetti, laud tantsis valssi ja tugitoolid tantsisid tango't.
+
+Mari otsustas, et ta tahab ka tantsida. Ta võttis ühe tooli kätte ja tantsis koos teiste mööblitega. Mööblid võtsid Mari vastu ja nad tantsisid koos ööni.
+
+Kui öö sai hiliseks, lõppes tants ja mööblid seisid paigal. Mari istus ühe tugitooli peale ja mõtles, et see on olnud üks imelisemaid öösid tema elus.
+
+Aga siis kuulis Mari üht häält, mis ütles: "Tere, Mari! Me ootasime sind." Mari vaatas ümber, aga ta ei näinud kedagi. Hääl ütles: "Me oleme mööblid ja me ootasime sind, et sa tantsiksid meiega."
+
+Mari oli üllatunud ja ta küsis: "Kuidas te teadsite, et ma tuleb?" Hääl vastas: "Me teadsime, et sa oled uudishimulik ja et sa tahad salapärastest asjadest teada."
+
+Mari küsis: "Miks te tantsite?" Hääl vastas: "Me tantsime, et me oleksime õnnelikud ja et me saaksime teistega jagada meie õnne."
+
+Mari mõtles, et see on väga ilus ja ta tahab ka õnnelik olla. Ta küsis: "Kuidas ma saan õnnelik olla?" Hääl vastas: "Sa pead olema hea ja sa pead jagama teistega oma õnne."
+
+Mari otsustas, et ta tahab olla hea ja jagada teistega oma õnne. Ta tänas mööbleid ja läks koju. Alates sellest päevast oli Mari väga õnnelik ja ta jagas teistega oma õnne.
+
+Mari rääkis kõigile, kes ta kohtas, salapärasest majast, kus mööblid tantsivad. Kõik uskusid talle ja nad tahavad ka salapärase maja näha. Aga kui nad läksid maja poole, ei leidnud nad seda. Maja oli kadunud ja mööblid olid tagasi oma kohale asunud.
+
+Mari mõtles, et see on olnud üks imelisemaid seiklusi tema elus ja ta on väga õnnelik, et ta sai salapärase maja näha. Ta jagas teistega oma õnne ja ta oli hea kõigiga.
+
+Aastaid hiljem, kui Mari oli vanem, ta mõtles tagasi salapärasest majast ja mööblitest, kes tantsisid. Ta mõtles, et see oli üks väga ilusad asjad, mida ta on näinud ja ta on väga õnnelik, et ta sai selle näha.
+
+Ja nii elas Mari edasi, jagades teistega oma õnne ja olla hea kõigiga. Ta ei unustanud salapärast maja ja mööbleid, kes tantsisid, ja ta rääkis kõigile, kes ta kohtas, sellest imelisest seiklusest.
+
+Lõpp.
+</body>

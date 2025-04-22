@@ -1,0 +1,29 @@
+<prompt>
+Please write a relatable Lithuanian children's story that is at least 1000 words long.
+It must be completely written in proper Lithuanian (LT).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Ežero pabaisa ir mažojo berniuko draugystė: pasakojimas apie pasitikėjimą.'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>lt</lang_id>
+
+<title>Ežero pabaisa ir mažojo berniuko draugystė: pasakojimas apie pasitikėjimą</title>
+<body>
+Jonas, mažas berniukas su plaukais kaip rudos lazdelės ir akimis, pilnomis smalsumo, gyveno prie gražaus ežero.  Ežero vandenys buvo skaidrūs, žali ir žvilgantys, tarsi veidrodžiai atspindintys dangaus spalvas.  Bet niekas nežinojo, kad ežero gelmėse gyveno pabaisa. Ne baisi, žiauri, bet tyli, šiek tiek drovi būtybė, kurios pavadinimas buvo  Neptūnas.
+
+Neptūnas turėjo žvilgančius, violetinės spalvos žuvies svarstykles ir ilgus, tarsi auksiniai siūlai, plaukus, kurie plaukiojo aplink jo galvą, žaidžiant su ežero bangomis. Jis stebėdavo Joną, kaip šis žaidė prie ežero kranto, metadavo akmenukus į vandenį ir šnibždėdavo paslaptingas istorijas, nešdamas su savimi vasaros dvelksmą. Neptūnas jautėsi labai vienišas, nors ir turėjo visą ežerą savo namuose. Jis svajojo apie draugystę, bet nežinojo, kaip ją rasti.
+
+Jonas, žaisdamas prie ežero, pastebėjo, kaip šiek tiek svyra ežero paviršius tam tikrame taške.  Jis priėjo arčiau.  Nieko.  Tik tyla.  Bet tą pačią dieną, Jonas rado ant kranto mažą, blizgantį akmenuką.  Ant akmenuko buvo išgraviruotas keistas, sudėtingas ženklas. Jonas niekada nebuvo mačiusi tokio ženklo.  Jis vis labiau domėjosi ežero paslaptimis.
+
+Sekančios kelios dienos buvo kupinos tyliosios draugystės. Jonas ateidavo prie ežero kasdien. Jis nešiodavosi su savimi įvairius daiktus: gražų akmenuką, žydų žiedą, ar net apibarstytų sėklų.  Kasdien jis palikdavo juos ant kranto, žinodamas, kad Neptūnas tai matys.  Vieną dieną, Jonas paliko gražią, rankų darbo laivą. Laivas plaukė, tyliai šniokšdamas vandenyje. Neptūnas išsigando. Jis niekada nebuvo matęs tokio daikto. Jis palaukė, iki Jonas nuėjo namo. Tada, palengva,  pasirodė Neptūnas. Jo žvilgsnis buvo kupinas tylaus dėkingumo.
+
+Jonas, matydamas tai, suprato, kad turi ypatingą draugą. Neptūnas, matydamas Joną, suprato, kad turi draugą.  Jie pradėjo kalbėtis.  Ne žodžiais, bet mintimis. Jonas pasakojo apie savo svajones, apie mokyklą, apie žaidimus.  Neptūnas pasakojo apie ežero paslaptis, apie žuvų migraciją, apie saulės spindesius, kurie perveria ežero vandenį.  Jie bendravo, nors ir nekalbėjo viena kalba.
+
+Vieną dieną, Jonas pastebėjo, kad ežero vanduo atrodo drumstas.  Jis jau jautė, kad kažkas negerai.  Pasirodo, ežere buvo labai maža žuvyčių.  Neptūnas atrodo labai liūdnas.  Jonas suprato, kad reikia padėti. Jis kartu su savo tėvais surinko žuvytes ir jas padėjo į tinkamai pastatytą  akvariumą.  Žuvytės pradėjo judėti į ežerą.  Neptūnas buvo laimingas. Jis jau jautė, kad jis yra svarbus, kad yra reikalingas.
+
+Nuo to laiko, Jonas ir Neptūnas tapo neatskiriamais draugais. Jonas ateidavo prie ežero kasdien. Jis jautė, kad ten jo namai. Jis stebėdavo Neptūną, kaip šis žaidžia su bangomis, ir šypsojosi, žinodamas, kad turi draugą, kuris supranta jo tylią kalbą. Neptūnas visada laukdavo Joną, nes žinojo, kad draugystė yra vertingiausias turtas. Jų draugystė parodė, kad pasitikėjimas ir supratimas yra svarbiausi, nepriklausomai nuo to, ar bendraujame žodžiais, ar tyliais ženklais. Ir nors jie gyveno skirtingose pasaulio vietose, jų draugystė buvo stipresnė už bet kurį ežero vandenį.
+</body>

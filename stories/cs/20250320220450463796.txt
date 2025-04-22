@@ -1,0 +1,74 @@
+<prompt>
+Please write a light-hearted Czech children's story that is at least 1000 words long.
+It must be completely written in proper Czech (CS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Kouzelná kniha, která uměla vyprávět příběhy o létajících slonech.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>cs</lang_id>
+
+```xml
+<title>Kouzelná kniha, která uměla vyprávět příběhy o létajících slonech.</title><body>
+Bylo, nebylo, v malé, barevné vesničce, kde sluníčko svítilo obzvláště radostně a ptáčci si notovali ty nejveselejší písničky, žila malá holčička jménem Anička. Anička měla ráda všechno, co bylo barevné, veselé a nečekané. Nejraději však měla příběhy. Ať už je čítala v knížkách, nebo jí je vyprávěla babička, vždycky se zapomněla v kouzelném světě fantazie.
+
+Jednoho deštivého odpoledne, když Anička seděla u okna a sledovala, jak dešťové kapky tancují po skle, uviděla v antické půdě starého knihkupectví, které vlastnil pan Procházka, záblesk něčeho zvláštního. Utíkala hned ven, protančila loužemi a za chvilku stála před vchodem.
+
+Knihkupectví pana Procházky bylo kouzelné samo o sobě. Vonělo starým papírem, prachem a tajemstvím. Uprostřed regálů, zahlédla Anička knihu, která svítila zvláštním, teplým světlem. Měla červené desky, zdobené zlatými ornamenty, a na hřbetě bylo napsáno: "Knihovna snů – Příběhy létajících slonů."
+
+Anička vzala knihu do ruky. Byla těžká, ale zároveň jako by obsahovala to nejlehčí peříčko. Cítila zvláštní vibrace, jako by kniha mluvila. „Dobrý den,“ šeptla Anička tiše, čekajíc, co se bude dít.
+
+A najednou… se to stalo. Stránky knihy se samy začaly otáčet, písmena se skládala do vět a z knihy se začal linout hebký, teplý hlas.
+
+„Vítej, Aničko,“ zazněl hlas. „Jsem Kouzelná kniha a vyprávím příběhy o létajících slonech. Chceš slyšet první?“
+
+Anička zůstala jako zkoprnělá, ale radost a zvědavost zvítězily nad úlekem. „Ano! Prosím!“ zvolala.
+
+A kniha začala vyprávět.
+
+„Příběh první: O slonovi s modrými křídly a dobrodružné cestě do oblaků.
+
+V zemi zvané Slůňánie, kde sluníčko zářilo všem slonům na kulatých bříškách, žil slon jménem Modřínek. Modřínek nebyl jako ostatní sloni. Neměl šedou kůži a nechtěl trávit dny hrabáním se v bahně. Modřínek si přál létat! Jednoho dne, když pozoroval ptáky kroužící nad sluneční loukou, zatoužil Modřínek po křídlech. Zkoušel skákat ze skal, ale vždycky skončil bum! na zemi.
+
+Jednoho rána, když se slunce teprve probouzelo, našel Modřínek v zahradě divnou modrou věc. Byla to malá, zářivá koule. Hned ji zvedl a dotkl se jí svým chobotem. V ten moment se z ničeho nic z Modrínkových zad vyklubala nádherná, modrá křídla, stejně modrá jako obloha.
+
+‘Jupííí!’ křičel Modřínek a mával svými novými křídly. Zkusil se zvednout a… překvapivě to šlo! Slon, s křídly! Letěl! Vznášel se nad stromy, nad řekou, nad celou Slůňánií. Viděl krajinu z nové perspektivy a cítil se naprosto svobodný.
+
+Jeho dobrodružství se teprve začala. Letěl nad horami, kde se bavil s orly, a nad mořem, kde si zahrál s delfíny. Byl prvním létajícím slonem ve Slůňánii a jeho dobrodružství se stala legendou.“
+
+Když kniha dovyprávěla, Anička se usmívala od ucha k uchu. „To bylo úžasné!“ vydechla. „A můžu slyšet další příběh?“
+
+„Samozřejmě, malá Aničko,“ odpověděla kniha. „Jen se připrav na cestu do světa Fantazie.“ A otočila další stránku.
+
+„Příběh druhý: O sloní rodince, která cestovala na duze.
+
+Jednou v roce, když sluníčko svítilo nejvíc, se v Zemi Slonů, která se rozprostírala za Sedmero horami, objevovala duha. A ne jen tak ledajaká duha, ale duha, která uměla vozit. Sloní rodina, která se skládala z tatínka slona Bambulína, maminky slonice Eliny a jejich roztomilých slůňátek Bambína a Elišky, se rozhodla, že se na ní projede.
+
+Tatínek Bambulín byl veliký a silný slon, s chobotem, který se uměl smát a dokázal vtipkovat. Maminka Elina byla laskavá slonice s krásnýma očima, které sledovaly, aby se slůňátkům nic nestalo. Bambín a Eliška byli hraví a zvědaví, pořád se ptali na sto a jedno proč.
+
+„Tak děti, nastupte!“ zahřímal tatínek Bambulín, když duha začala svítit všemi barvami. Slůňátka se s radostí vyškrábala na duhu a celá rodinka se usadila na pestrobarevném koberci. A jelo se! Duha je nesla po nebi, přes mraky jako vatové cukrátky. Projížděli kolem usměvavého slunce a pozdravili tančící hvězdy.
+
+Cestovali přes lesy sladké limonády, kolem ledových hor zmrzliny a nad řekou horké čokolády. Po cestě sbírali barevné bonbóny, tancovali s větrem a smáli se radostí. Nakonec dojeli až na konec duhy, kde se jim otevřel kouzelný svět plný překvapení. Byl to den, na který sloni nikdy nezapomněli. Od té doby, co rok, to projížďka po duze!“
+
+Po druhém příběhu, Anička už se úplně ztratila v kouzelném světě. Kniha pokračovala, s dalšími příběhy. Anička poznala létající slony, kteří si hráli na schovávanou mezi hvězdami, slony, kteří se učili hrát na housle, a slony, kteří pořádali ve vesmíru karneval.
+
+Když slunce začalo zapadat a dešťové kapky ustaly, Anička si uvědomila, že už je dost pozdě.
+„Ach, kouzelná knížko, musím jít domů,“ řekla smutně. „Ale slibuju, že se zítra vrátím.“
+
+„Těším se na tebe, Aničko,“ odpověděla kniha. „Ale pamatuj, že příběhy o létajících slonech můžeš nosit i s sebou v srdci.“
+
+Anička se s knihou rozloučila, opatrně ji vrátila na poličku a běžela domů. Byla tak plná dojmů a štěstí, že se jí chtělo zpívat.
+
+Druhý den se Anička vrátila do knihkupectví pana Procházky a kniha ji s radostí uvítala. A tak to pokračovalo. Každý den se Anička vracela a naslouchala novým a novým příběhům o létajících slonech. Učila se o odvaze, přátelství a důležitosti snů.
+
+Jednoho dne, když se Anička chystala odejít, kniha promluvila: „Aničko, myslím, že už je čas, abys i ty vyprávěla příběh. Pomož mi, aby se radost šířila do světa.“
+
+Anička, překvapená, se podívala na knihu. Bála se, ale zároveň cítila, že má tu správnou příležitost. Zhluboka se nadechla a začala: „Příběh čtvrtý: O slonovi, který chtěl zachránit planetu…“
+
+A tak Anička, inspirovaná kouzelnou knihou, začala sama vyprávět příběhy o létajících slonech. Nejen o těch, co létali nad mraky, ale i o těch, kteří se starali o svět.  A příběhy o létajících slonech, které začaly v jedné malé vesničce, se rozletěly do světa a nesly s sebou radost, naději a víru, že i ty nejmenší sny se mohou splnit.  A každý, kdo tenkrát poslouchal, měl o chvilku svět šťastnější a plnější barev. A pan Procházka, udiven tímto počinem, začal knihu i doporučovat ostatním dětem.
+Konec.
+</body>
+```

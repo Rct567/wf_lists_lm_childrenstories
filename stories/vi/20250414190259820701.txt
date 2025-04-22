@@ -1,0 +1,80 @@
+<prompt>
+Please write a educational Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Bé Hoa và Chuyện Về Vườn Hoa Của Bà Ngoại.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>vi</lang_id>
+
+```vi
+<title>Bé Hoa và Chuyện Về Vườn Hoa Của Bà Ngoại</title><body>
+Ngày xửa ngày xưa, ở một ngôi làng nhỏ ven sông, có một cô bé tên là Hoa. Bé Hoa có mái tóc đen nhánh như tơ, đôi mắt sáng ngời như hai vì sao và nụ cười tươi tắn luôn nở trên môi. Hoa rất thích hoa, đặc biệt là những bông hoa trong vườn của bà ngoại.
+
+Bà ngoại của Hoa là một người phụ nữ hiền từ, tóc đã điểm sương nhưng vẫn luôn thoăn thoắt trong khu vườn. Khu vườn của bà không chỉ là nơi trồng hoa, mà còn là một thế giới nhỏ bé với đủ loại cây cối, chim chóc và tiếng rì rào của gió. Mỗi buổi sáng, Hoa đều chạy sang nhà bà ngoại để cùng bà chăm sóc vườn hoa.
+
+"Chào buổi sáng, bà ngoại!" Hoa vui vẻ chào.
+
+"Chào buổi sáng, bé Hoa của bà!" Bà ngoại cười hiền từ, ôm Hoa vào lòng. "Hôm nay cháu muốn làm gì trong vườn nào?"
+
+"Cháu muốn giúp bà tưới nước cho hoa, bà ngoại!" Hoa đáp.
+
+Bà ngoại gật đầu, lấy cho Hoa một cái bình tưới nhỏ. Hoa hào hứng đi theo bà tưới nước cho những bông hoa.
+
+"Cháu biết không, mỗi loài hoa đều có một câu chuyện riêng đấy," bà ngoại bắt đầu kể.
+
+Hoa chăm chú lắng nghe.
+
+"Hãy bắt đầu với bông hoa hồng này nhé. Hoa hồng tượng trưng cho tình yêu và sắc đẹp. Cháu thấy cánh hoa hồng mềm mại và thơm ngát không? Để có được những bông hoa hồng tuyệt vời như thế này, chúng ta cần phải chăm sóc rất cẩn thận. Phải tưới nước đủ, bón phân đúng cách và cắt tỉa những cành khô. Nếu không, hoa sẽ không nở rộ được đâu."
+
+Hoa gật đầu, vừa tưới nước vừa nhìn những bông hồng đỏ thắm.
+
+"Còn bông cúc vàng này," bà ngoại chỉ vào những bông cúc đang khoe sắc. "Cúc vàng tượng trưng cho sự trường thọ và may mắn. Cúc vàng rất dễ trồng, nhưng để cúc nở hoa to và đẹp, chúng ta cần phải trồng chúng ở nơi có nhiều ánh nắng mặt trời và đất phải được thoát nước tốt."
+
+Hoa ngắm nhìn những bông cúc vàng tươi tắn. Ánh nắng mặt trời chiếu vào chúng, tạo nên một cảnh tượng thật đẹp mắt.
+
+"Tiếp theo là hoa sen," bà ngoại nói, đưa tay về phía hồ sen trong vườn. "Hoa sen là quốc hoa của Việt Nam mình đấy. Nó tượng trưng cho sự thanh cao và thuần khiết. Hoa sen sống trong bùn, nhưng lại vươn mình lên nở rộ trên mặt nước. Đó là một điều thật kỳ diệu."
+
+Hoa chăm chú nhìn những búp sen xanh đang dần hé nở. Cô bé cảm nhận được sự thanh bình và yên ả toát ra từ hoa sen.
+
+"Còn hoa hướng dương thì sao, bà ngoại?" Hoa hỏi.
+
+"Hoa hướng dương là loài hoa rất đặc biệt. Chúng luôn hướng về phía mặt trời, như thể chúng đang tìm kiếm ánh sáng. Hoa hướng dương tượng trưng cho sự lạc quan và niềm tin. Cháu thấy những hạt hướng dương trong đài hoa chưa? Đó là những món quà quý giá mà thiên nhiên ban tặng cho chúng ta đấy."
+
+Bà ngoại và Hoa cùng nhau chăm sóc khu vườn. Bà kể cho Hoa nghe về những loài hoa khác nhau, về ý nghĩa của chúng và về cách chăm sóc chúng. Hoa vừa học hỏi vừa vui chơi, cảm thấy vô cùng hạnh phúc.
+
+"Bà ơi, tại sao chúng ta phải chăm sóc hoa?" Hoa hỏi.
+
+"Vì hoa mang đến cho chúng ta niềm vui, sự tươi đẹp và cả những bài học quý giá nữa, bé Hoa ạ," bà ngoại trả lời. "Chăm sóc hoa cũng giống như chăm sóc tình yêu thương vậy. Chúng ta cần phải quan tâm, chăm sóc và vun đắp để tình yêu thương ngày càng lớn mạnh."
+
+"Vậy làm thế nào để chăm sóc hoa, bà?"
+
+"Đầu tiên, cháu cần hiểu về từng loại hoa. Mỗi loài hoa có những yêu cầu khác nhau về ánh sáng, nước, đất và phân bón. Cháu phải tìm hiểu kỹ về chúng. Sau đó, cháu cần kiên nhẫn và tỉ mỉ. Chăm sóc hoa không phải là công việc một sớm một chiều. Cháu cần phải theo dõi sự phát triển của hoa, phát hiện ra những vấn đề và khắc phục chúng. Cuối cùng, cháu cần yêu thương những bông hoa. Hãy nói chuyện với chúng, hãy cảm nhận vẻ đẹp của chúng. Khi cháu yêu thương hoa, chúng sẽ đền đáp cháu bằng những bông hoa tươi thắm nhất."
+
+Hoa gật gù, cô bé đã hiểu.
+
+"Bây giờ, cháu có muốn tự mình trồng một vài loại hoa không?" Bà ngoại hỏi.
+
+"Dạ có ạ!" Hoa reo lên.
+
+Bà ngoại đưa cho Hoa những hạt giống nhỏ xinh của các loại hoa khác nhau, cùng với một chiếc xẻng nhỏ. Hoa bắt đầu trồng hoa dưới sự hướng dẫn của bà. Cô bé cẩn thận gieo từng hạt giống vào đất, tưới nước và vun xới đất.
+
+Thời gian trôi qua. Những hạt giống nhỏ bé bắt đầu nảy mầm. Hoa rất vui mừng khi nhìn thấy những mầm non xanh tươi nhú lên khỏi mặt đất. Cô bé chăm sóc chúng hàng ngày, tưới nước, bắt sâu và nhổ cỏ.
+
+Cuối cùng, những bông hoa bắt đầu nở rộ. Khu vườn của Hoa và bà ngoại trở nên rực rỡ và tràn đầy sức sống. Hoa nhìn ngắm những bông hoa mình đã trồng, trong lòng tràn ngập niềm vui và tự hào.
+
+Một ngày nọ, có một cơn mưa rào đến bất ngờ. Mưa lớn làm dập nát một số bông hoa. Hoa rất buồn.
+
+"Đừng lo lắng, bé Hoa," bà ngoại an ủi. "Mưa có thể làm dập nát hoa, nhưng nó cũng mang đến cho chúng sự tươi mát và sức sống mới. Cháu hãy cứ tin rằng, sau cơn mưa trời lại sáng, những bông hoa của chúng ta sẽ lại nở rộ thôi."
+
+Hoa nghe lời bà, cố gắng giữ vững niềm tin. Sau khi cơn mưa tạnh, cô bé lại cùng bà ra vườn. Hoa ngạc nhiên khi thấy những bông hoa bị dập nát đã dần hồi phục. Chúng vẫn tỏa ra vẻ đẹp của mình.
+
+Từ đó, Hoa hiểu rằng cuộc sống cũng giống như khu vườn này. Đôi khi có những thử thách, những khó khăn, nhưng quan trọng là chúng ta phải kiên nhẫn, nỗ lực và luôn tin vào những điều tốt đẹp.
+
+Mỗi ngày, Hoa vẫn cùng bà ngoại chăm sóc khu vườn. Cô bé học được nhiều điều từ những bông hoa, từ tình yêu thương và từ sự kiên nhẫn. Hoa hiểu rằng, mỗi bông hoa đều là một câu chuyện đẹp, và cô bé sẽ luôn trân trọng và yêu quý những câu chuyện ấy. Khu vườn của bà ngoại không chỉ là nơi trồng hoa, mà còn là nơi nuôi dưỡng tình yêu thương và những ước mơ của Hoa. Và mỗi khi ngắm nhìn những bông hoa nở rộ, Hoa lại cảm thấy lòng mình tràn ngập niềm vui và hạnh phúc.
+</body>
+```

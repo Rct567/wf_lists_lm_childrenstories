@@ -1,0 +1,51 @@
+<prompt>
+Please write a uncomplicated Basque children's story that is at least 1000 words long.
+It must be completely written in proper Basque (EU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Nekazari txikiaren nekazaritza magikoa'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo-Free</model>
+
+<lang_id>eu</lang_id>
+
+<title>Nekazari txikiaren nekazaritza magikoa</title>
+<body>Behinola, herri txiki batean, baserri batean bizi zen nekazari txiki bat. Nekazari txikiaren izena Kepa zen, eta bere amak hil ostean, aita bakarrik zegoen baserrian. Keparen aita, Joan, lan gogorra egiten zuen baserrian, baina Kepak laguntzen zion beti.
+
+Kepa oso txikia zen, baina oso indartsua zen, eta bere aita bezala nekazaritza lanetan interesa handia zuen. Bihotzean zuen nekazaritzaren magia, eta bere aita bezala, lurrari maitasuna zuen. Kepak ikasten zuen bere aitarengandik, eta laster hasi zen bere kabuz lan egiten baserrian.
+
+Baina Kepak ez zekien, bere baserriko lurrean zegoen magia handia. Lurra oso emankorra zen, eta urrezko ilargi baten argiarekin erein zen. Ilargi honek nekazaritzako landareei bizia ematen zien, eta Keparen baserria ezaguna zen herri osoan bere nekazaritzagatik.
+
+Kepa eta bere aita lanean ari ziren baserrian, eta Kepak ikusten zuen bere aita zegoen toki batean urrezko ilargi bat argitzen zuela. Kepak galdetu zion bere aita urrezko ilargiari buruz, eta Joanek esan zion ez zekitela urrezko ilargiaren sekretua. Baina Kepak jakin nahi zuen, eta bere aitari esan zion sekretua kontatzea.
+
+Joanek pentsatu zuen, eta esan zion Kepari urrezko ilargiaren sekretua kontatuko zuela, baina Kepak lehenago ikasi behar zuela nekazaritzaren artea. Kepak onartu zuen, eta bere aitarekin ikasi zuen. Kepak ikasi zuen lurraren zainketa, landareen ezagutza, eta urrezko ilargiaren magia.
+
+Urteak pasatu ziren, eta Kepa handitu zen. Bere aitarekin lanean ari zen, eta baserria oso arrakastatsua zen. Kepak ikusi zuen urrezko ilargia argitzen zuela, eta bere aitari galdetu zion berriro sekretua. Joanek esan zion Kepari urrezko ilargiaren sekretua kontatuko zuela, baina Kepak lehenago proba bat gainditu behar zuela.
+
+Kepak onartu zuen proba, eta bere aitak esan zion herriko plazara joan behar zuela. Han, zuhaitz handi bat zegoen, eta zuhaitzaren enborrean zegoen errege-koroa bat. Kepak errege-koroa hartu behar zuen, eta itzuli behar zuen baserrira. Baina Kepak ez zekien, zuhaitzaren enborrean zegoen errege-koroa, eta hura hartzea ez zela erraza izango.
+
+Kepa herriko plazara joan zen, eta zuhaitz handia ikusi zuen. Zuhaitzaren enborrean zegoen errege-koroa, eta Kepak ikusi zuen zuhaitza oso handia zela. Kepak pentsatu zuen, eta esan zuen bere buruari: "Nola hartuko dut errege-koroa?". Baina Kepak ez zekien, zuhaitzaren enborrean zegoen magia, eta Kepak zuhaitzaren magia ikusi zuen.
+
+Zuhaitzaren magia ikusi zuenean, Kepak ikusi zuen zuhaitzaren adarrak mugitzen zirela, eta errege-koroa hartzen uzten zutela. Kepak errege-koroa hartu zuen, eta itzuli zen baserrira. Bere aita Joanek ikusi zuen Kepa itzultzen zela, eta errege-koroa ikusi zuen Keparen eskuetan.
+
+Joanek esan zion Kepari urrezko ilargiaren sekretua kontatuko zuela, eta Kepak entzun zuen bere aitaren kontaketa. Joanek esan zion Kepari urrezko ilargia ez zela ilargi arrunta, baizik eta magiko ilargia zela. Magiko ilargi hau nekazaritzako landareei bizia ematen zien, eta Keparen baserria ezaguna zen herri osoan bere nekazaritzagatik.
+
+Kepak jakin zuen urrezko ilargiaren sekretua, eta bere aitarekin lanean ari zen. Baserria oso arrakastatsua zen, eta Kepak ikusi zuen urrezko ilargia argitzen zuela. Kepak bere aitari esan zion urrezko ilargiaren magia ikusi zuela, eta Joanek esan zion Kepari magia bereganatzen zuela.
+
+Urteak pasatu ziren, eta Kepa handitu zen. Bere aitarekin lanean ari zen, eta baserria oso arrakastatsua zen. Kepak ikusi zuen urrezko ilargia argitzen zuela, eta bere aitari esan zion urrezko ilargiaren magia bereganatzen zuela. Joanek esan zion Kepari bere semea zela, eta bere ondorengoa izango zela.
+
+Baina Kepak ez zekien, herriko etsaia zegoen, eta etsai honek Keparen baserriaren aurka zegoen. Etsai honek Keparen baserria suntsitu nahi zuen, eta Keparen aitaren aurka zegoen. Kepak ez zekien etsai honen izena, baina bere aitak esan zion etsai honen izena jakiteko.
+
+Kepak bere aitari galdetu zion etsai honen izena, eta Joanek esan zion etsai honen izena Malo zela. Malo herriko etsaia zen, eta Keparen baserria suntsitu nahi zuen. Kepak jakin zuen Maloren izena, eta bere aitari esan zion Maloren aurka borrokatuko zela.
+
+Kepak eta bere aita Maloren aurka borrokatu ziren, eta Kepak ikusi zuen Malo oso indartsua zela. Baina Kepak ez zekien, urrezko ilargiaren magia bereganatzen zuela, eta Maloren aurka borrokatu ahal zuen. Kepak Maloren aurka borrokatu zuen, eta Malo garaitu zuen.
+
+Kepak Malo garaitu zuenean, herria asko alegratu zen, eta Keparen baserria segurua zen. Kepak bere aitari esan zion urrezko ilargiaren magia bereganatzen zuela, eta Joanek esan zion Kepari bere semea zela, eta bere ondorengoa izango zela.
+
+Urteak pasatu ziren, eta Kepa handitu zen. Bere aitarekin lanean ari zen, eta baserria oso arrakastatsua zen. Kepak ikusi zuen urrezko ilargia argitzen zuela, eta bere aitari esan zion urrezko ilargiaren magia bereganatzen zuela. Joanek esan zion Kepari bere semea zela, eta bere ondorengoa izango zela.
+
+Egun batean, Kepak bere aitari esan zion urrezko ilargiaren magia ikusi zuela, eta Joanek esan zion Kepari magia bereganatzen zuela. Kepak bere aitari esan zion urrezko ilargiaren sekretua jakitea, eta Joanek esan zion Kepari sekretua kontatuko zuela.
+
+Joanek esan zion Kepari urrezko ilargiaren sekretua, eta Kepak entzun zuen bere aitaren kontaketa. Joanek esan zion Kepari urrezko ilargia ez zela ilargi arrunta, baizik eta magiko ilargia zela. Magiko ilargi

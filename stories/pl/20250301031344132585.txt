@@ -1,0 +1,37 @@
+<prompt>
+Please write a simple and easy-to-follow Polish children's story that is at least 1000 words long.
+It must be completely written in proper Polish (PL).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Magiczna podróż przez tajemniczy las'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>pl</lang_id>
+
+<title>Magiczna podróż przez tajemniczy las</title>
+<body>
+Mały, rudowłosy chłopiec, o imieniu Jakub, mieszkał w niewielkim domku na skraju ogromnego, tajemniczego lasu. Las ten słynął z niezwykłych drzew, których liście zmieniały kolory o każdej porze roku i szeleszczących na wietrze liści, wydających niezwykłe dźwięki.  Jakub uwielbiał ten las.  Słuchał opowieści, jakie opowiadali starzy drzewa o ukrytych ścieżkach, magicznych kwiatach i zwierzętach z innego świata.  Marzył o tym, żeby poznać jego sekretne zakamarki.
+
+Pewnego słonecznego popołudnia, gdy Jakub bawił się na łące przed swoim domkiem, zauważył pod wielkim, dębem ukrytą małą, drewnianą skrzynię. Była ona wykonana z pięknego, ciemnego drewna i ozdobiona misternymi, kolorowymi wzorami. Jakub, ciekawy, podejrzał do środka i ujrzał  bardzo cienką książkę z bardzo kolorowymi obrazkami i mnóstwem dziwacznych napisów. Z jednej strony książki było napisane: "Klucz do Magicznej Przygody". Jakub wiedział, że musi to zbadać!
+
+Z wielką ostrożnością otworzył książkę i przeczytał na pierwszej stronie: "Aby rozpocząć magiczną podróż, musisz znaleźć cztery skarby lasu: Skrzydła Sowy, Złotą Jaskółkę, Szmaragdowy Kamień i śpiewające serce leśnego wiewiórki."  Jakub był podekscytowany. Wziął książkę do ręki i wsunął się w las.
+
+Pierwszą przeszkodą było przejście przez gęste zarośla, pełne dzikich kwiatów i niezwykłych ptaków. Jakub szelzł, oglądając niezwykłe motyle, z wytrwałością odnajdywał ścieżkę pomiędzy drzewkami, aż trafił do jaskiń pod starym kamieniem. W głębi jaskini odkrył niezwykłe stworzenie – Sowę z olbrzymimi, błękitnymi skrzydłami, które rozciągały się od jednego końca do drugiego!   Udało mu się  włożyć skrzydła w kieszeń, w której było miejsce. Z zadowoleniem zaczął biec naprzód.
+
+Następnie spotkał małą jaskółkę, która siedziała na szczycie wysokiego drzewa. Jaskółka miała na szyi złoty naszyjnik.  "Być może znasz klucze do skarbu?" zapytał Jakub. Jaskółka delikatnie przytaknęła i podarowała mu złotą broń, którą dała.   Jakub czuł coraz większą siłę.
+
+Kolejnym miejscem była zagłębienie w którym Jakub natrafił na ukrytą w zagłębieniu tajemniczą skałę – błyszczący, zielony szmaragdowy kamień, który wydawał delikatny, odgłos.  Jakub zdjął szmaragdowy kamień ze skały i schował go ostrożnie do woreczka.   
+
+Ostatni skarb krył się w zagajniku, gdzie wiewiórka, z długim, pękatym ogonkiem, siedziała na gałęzi i śpiewała cudowną melodię. Jej piosenka wydawała się przenikać samą duszę lasu.   Z wielką delikatnością, Jakub położył swoją rękę na jej miękkim, sprężystym grzbiecie. Wiewiórka przekazała Jakubowi małe, drżące serce wyrzeźbione z drewna.  Jej serce biło niezwykłym rytmem.
+
+
+Po zebraniu wszystkich czterech skarbów, Jakub otworzył książkę.  W środku był opis jak te skarby pomogą mu w ujawnieniu ścieżki do tajemniczego, wewnętrznego świata lasu. Kombinacja z czterech skarbów umożliwiła otworzenie niewielkiego pudełka w którym ukryte były przepiękne, magiczne, złote klucz do zamkniętych drzwi!
+
+Jakub, za pomocą tego klucza, otworzył drzwi.  We wnętrzu znajdował się sekretny ogród, pełen migoczących kwiatów i niezwykłych owadów. Słońce przebijało przez ubrany liść i tworzyło na ziemi migoczące plamy światła.  Na środku ogrodu stał malutki wodospad i drzewo z błyszczącym, zielonym liśćmi. Ziemia pod stopami Jakuba wibrowała jak czujny słońce.  Jakub poczuł się niesamowicie szczęśliwy.  Był w magicznym świecie, pełnym tajemnic i cudów, a ten tajemniczy las stał się jego największym przyjacielem!
+
+
+Jakub zdał sobie sprawę, że magiczne opowieści były prawdziwe i że ten las strzegł swojego największego skarbu - doświadczenie w zrozumieniu i poznawaniu. On uczynił go lepszym i silniejszym człowiekiem.  Od tamtej pory Jakub często wracał do tajemniczego lasu, wciąż odnajdując w nim nowe skarby wiedzy, mądrości i zrozumienia samego siebie i otaczającego go świata.
+</body>

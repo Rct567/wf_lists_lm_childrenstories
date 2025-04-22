@@ -1,0 +1,46 @@
+<prompt>
+Please write a light-hearted Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A nagy kaland a szélvitorlás hajóval'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>A nagy kaland a szélvitorlás hajóval</title>
+<body>
+A Mátyás-hegy lábánál, egy kis faluban,  élt egy fiú, Barna, akinek hatalmas álmai voltak. Nem az a tipikus álom, mint a többi gyereknek: nem akart tűzoltó lenni, vagy űrhajós.  Barna a tengerre vágyott, a szélvitorlás hajókra, és a kalandokra, amik egy hatalmas, kék vitorla alatt vártak rá.
+
+Egy napon, amikor a falu piacán sétált, a hangos kiáltozás közepette felfigyelt egy furcsa standra.  Egy idős, hunyorító öregúr ült mögötte,  a kezén hatalmas, csavart szarvakkal,  és olyan fából készült hajómodelleket árult, amilyenekről Barna mindig álmodott.  A fa csillogott, a festésük élénk, a szélvitorláik pedig mintha táncolni készültek volna. Barna szívén hatalmasat dobbant. 
+
+– Nagyapám öröksége – mondta az öregúr egy halk sóhajjal,  amikor Barna megkérdezte az árat.  – Érezni rajta a tengert. Érezni rajta a szél örömét.  Érezni rajta az kaland ízét.
+
+Barna, zsebében maradt néhány apró pénzérmével, szinte azonnal döntött. Megvásárolta a legkisebb hajómodellt.  Egy tengerkék hajó, finoman faragott vitorlákkal.
+
+Azonnal hazament, és kutyáival együtt betette a hajócska a kertjükben a diófa alá.  Aztán hosszú időt töltött azzal, hogy elképzelje, milyen lesz a kaland. Szélvészt, hajóroncsot, és hatalmas hullámok között navigálást képzelt el, melyekben olyan titokzatos állatok bújkáltak, melyekről csak a tenger meséiben hallott.  Elképzelte, hogyan tapsol és örül a szelek táncának, és hogyan úszik a vízben olyan halakkal és tintahalakkal, amelyek sokkal okosabbak, mint az emberek, akikről a könyvek írtak.
+
+Egy napon, amikor a hegyen egy bárányfelhőkre hasonlító szürke-fehér felhő csoport sodródott, egy üzenetet talált, melynek egy része az idő vasfoga miatt olvashatatlanná vált, míg a másik részén furcsa betűket, számokat és szimbólumokat látott, melyek nagyon hasonlítottak a felhők alakjaira, mígnem hirtelen Barna egy ismerős, titkos nyelvet fedezett fel a faluban egy rejtélyes hangzó jelek sorozatában.
+
+Az üzenet egy furcsa nyelven, amely a tenger nyelvének hangzott, megkérdezte: „Milyen távoli útra vágyik, ó, szélvitorlás hajótulajdonos,  milyen hatalmas, új tengereket és titkokat vár?”  
+
+Barna nagyon boldog lett! Ő volt a választott, a kiválasztott, aki az ismeretlenre vágyott! Megfogta a hajómodelljét, és kivitte a kertjükből. Egy tengeri medve jelképe virult a farán.
+
+Hajnali derengésben indult útnak, megragadva a hajócska kormánya és maga mögött hagyva a hegyet, egy kőhajításnyira fekvő hatalmas tengert, és a faluját.
+
+Az öreg, Hunyorítóúr furcsa betűi és számjegyei segítették a navigációban. Megtalálta a Titokzatos Tenger szigeteit, és a világ legrejtélyesebb halait és lényeit látta.   A szél hozta a történeteket a hajócska vitorlákhoz, és egy furcsa hangú tengeri varázsló elmesélte neki, hogy hol vannak a  legendás Ékszer-sziget, az arany naplementák  és az óceán kék gyöngyei.
+
+Egy sziklás kikötőben fekvő, csendes, kis szigeten találták a Titokzatos Köveket, és Barna  egy gyönyörű tengeri sas követte őt a kalandja során. 
+
+Megtudta, hogyan szólaljanak meg az óceán titkai. Egy tündéri, titokzatos, tengeri tőrteként tiszta gyémánt a vitorlák mögött.
+
+De a legeslegszebb ajándék egy furcsa, zárványos, kőből készült kagyló volt a hajón, ami a kertjükben hagyta magán a felhőmintáit és szavait. A szél visszavitte Barnaként a hazatérés felé.
+
+Végül Barna a hajómodellel a kezében hazatért a falujába.  A naplementében egy úton meghallotta a falusi szélvésznek nevezett hangos ember örömteli ordításait.  Ő már nem volt egy egyszerű falusi fiú.  Ő egy híres tengerész, akinek történeteivel gazdagította a falu összes történetét.
+
+
+És Barna minden nap,  amikor kitekintett a falu erdei eresztékből,  még mindig emlékezett az örök titokra: hogy a szél vitorlás hajója a legnagyobb kaland, ami mindig benned vár. A tengeri mesékre. A  nagy, ismeretlen tengeri történetekre.
+</body>

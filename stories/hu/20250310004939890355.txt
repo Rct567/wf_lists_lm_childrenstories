@@ -1,0 +1,43 @@
+<prompt>
+Please write a silly Hungarian children's story that is at least 1000 words long.
+It must be completely written in proper Hungarian (HU).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'A varázsló és a szivárványos madár repülő kalandjai'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>hu</lang_id>
+
+<title>A varázsló és a szivárványos madár repülő kalandjai</title>
+<body>
+A patakparton, ahol a fű zöldebb volt, mint a királyi ruhák, és a virágok illata erősebb, mint a mézeskalács sütemény, élt egy varázsló, akinek a neve Kálmán volt. Nem volt sima, egyenes orra, hanem egy kicsit görbült, mintha egy tréfás szél fújt volna rajta.  A haja olyan volt, mint a szivárvány – sokféle színt ötvözött magában. És hogy milyen varázslatos volt! Egyik pillanatban bogarakat változtatott virágokká, a másikban meg gyönyörű pillangókat faragott a fából.  Csak egy problémája volt:  nincs baráta, senki sem örült annyira a trükköknek, mint ahogy ő örült.
+
+Egyszer, ahogy Kálmán egy szivárványos könyvön dolgozott a kertben, halk csattogás hallatszott.  Megtorpant és meglátta. Egy kis, szivárványos madár,  melynek a tolla olyan volt, mint a frissen sült mézeskalács – piros, narancssárga, sárga, zöld, kék, indigó és lila foltokból tevődött össze. Kálmán, meglepetésében, nem mondott semmit. A madár egy pillanatra leszállt egy közeli tulipánra, majd vidám csiripeléssel felemelkedett a levegőbe, elröppent, mint egy szélvész.
+
+“Hoppá!” kiáltotta Kálmán, és azonnal a madár után rohant.  Egész délelőtt keresgéltek a réteken és erdőkben, de a varázsló, és a szivárványos madár,  még nem találtak egymásra. Egy idő után már egy kicsit elkesergett Kálmán, hiszen egy nagy kék mező közepén,  már megfogyatkozott a kincsek száma az utóbbi napokban. 
+
+Estefelé egy patak partján, ahol a fény játékosan táncolt, egy gyönyörű kastélyba értek. A kastély ajtaja magától kitárult,  minden sarokban világító gyertyák voltak és finom illatos füst terjengett a levegőben.  Kálmán megérezte, hogy ez biztos a madár kedvenc helye, egy óriási meglepetés várt rájuk.
+
+
+
+Bement a szobába, ahol egy hatalmas asztal állt, tele mindenféle édességgel és játékkal. De a madarat sehol sem látta. Váratlanul egy hang megszólalt a sötétségből: „Üdvözöllek, Kálmán! Itt vagy végre!”
+
+Kálmán megfordult és látta, hogy egy öreg varázslónő,  szép és hatalmas. A haját olyan varázslatos szalagok díszítették, melyek mintha szivárványt tartónak tűnnének, de egy szomorúság árasztott ki belőle.
+
+"Megkerestél engem, Kálmán? Gondolom a szivárványos madár után jöttél, de megijedtél tőle. Az én kis barátjaim  kialakítják a saját sorsukat, csak az embernek sokszor kell meglátnia az ösvényen a varázsainkat." mondta, majd kigombolta kabátja nagy részét. Amikor ez megtörtént, kis patakok és ösvények jelentek meg a földön, minden egyes  kis ösvény és folyó különböző virágokat és terméseket viselt, sőt, még elvágta az éjjel szele által szőtt égi mintákat is!
+
+
+A varázslónő elmesélte, hogy a szivárványos madár a színek varázslója,  aki a természet minden fényes színét összekeverte magával, de nem volt tisztában a szeretet értelmével és erejével.  A varázslatokat és a vidámságot mindaddig szorongatta a szívben, míg nem tudta legyőzni saját szivárványos szorongását, s visszaszerezni a tiszta szerelmet és a világot a szíve közepén.  
+
+
+Kálmán nagyon sokat gondolkodott, majd megértette. Elhatározta, hogy ő is egy színt fog kiejteni, és örökre a barátai lesznek, mint őt mindenki ismerte a világ minden tájáról.
+
+
+Megtöltötte a szivárványos könyv lapjait  új történetekkel, amelyek az összes boldog történetek örömteli híreiről szóltak.  Közöttük volt a szerelmet, a szórakozást, az együttlétet, és még sok mindent más is. Amint Kálmán a könyv utolsó lapján dolgozott, a szivárványos madár visszatért. Telis tele élményekkel és megerősödésekkel. Szivárványos és vidám, de sokkal nyugodtabb,  tökéletes szinten fejezték ki és értettek meg egymást.
+
+
+És ettől kezdve,  Kálmán és a szivárványos madár együtt élt, varázsolt, és új kalandokat talált ki.  A varázslatos kalandok sosem értek véget. Mert a varázslat a levegőben szökdelt, a fény mindig feldereng és megtisztult,  és minden álom valóra vált.  A történetek vége!
+</body>

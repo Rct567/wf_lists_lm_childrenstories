@@ -1,0 +1,45 @@
+<prompt>
+Please write a silly Uzbek children's story that is at least 1000 words long.
+It must be completely written in proper Uzbek (UZ).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Qushlar bilan suhbatlashgan yosh qiz'.
+</prompt>
+
+<model>meta-llama/Llama-3.3-70B-Instruct-Turbo</model>
+
+<lang_id>uz</lang_id>
+
+<title>Qushlar bilan suhbatlashgan yosh qiz</title>
+<body>Uzoq-zamonlar avval, O'zbekistonning bir qishlog'ida yosh qiz yashardi. Uning ismi Malika edi. Malika juda go'zal, chiroyli va aqlli qiz edi. U qushlarni juda yaxshi ko'rar, ular bilan suhbatlashardi. Qushlar Malikaga o'zlarining sirli dunyosini ochib, unga turli xil hikoyalar aytar edi.
+
+Malika har kuni ertalab tong otganda uyidan chiqib, qishloq atrofidagi bog'larga borar, qushlarni ko'rar va ular bilan suhbatlashar edi. U qushlarning turli xil turlarini bilardi, ularning xususiyatlarini, ovqatlarini, uyalarini bilardi. Qushlar Malikani juda yaxshi ko'rar, unga o'zlarining sirli dunyosini ochib berar edi.
+
+Bir kuni Malika bog'ga borganida, u yerda bir go'zal bulbul ni ko'rdi. Bulbulning patlari juda chiroyli, rang-barang edi. Malika bulbulga yaqinlashib, uni qo'lga oldi. Bulbul Malikaga qaradi va dedi: "Salom, Malika! Men seni juda yaxshi ko'raman. Sen meni qo'lga olganingdan keyin, men sendan bir narsa so'rashga qaror qildim".
+
+Malika bulbulning so'zlariga juda qiziqib, dedi: "Ha, bulbul, men seni juda yaxshi ko'raman. Sen menga nima so'rab turasiz?" Bulbul dedi: "Men sizga o'z uyimni ko'rsatmoqchiman. Men sizni o'z uyimga taklif qilaman. Siz menga uyimga kelasizmi?" Malika bulbulning taklifiga rozi bo'ldi va dedi: "Ha, men sizning uygingizga kelay". Bulbul Malikani o'z uyiga olib bordi.
+
+Bulbulning uyi juda chiroyli, go'zal edi. Uyning devorlari rang-barang gullar bilan bezatilgan edi. Malika bulbulning uyini ko'rib, juda hayran bo'ldi. Bulbul Malikaga dedi: "Men sizga o'z uyimni ko'rsatdim. Endi men sizga o'z oilamni tanishtiraman". Bulbul Malikani o'z oilasiga olib bordi.
+
+Bulbulning oilasi juda chiroyli, go'zal edi. Oiladagi qushlar Malikaga salom berishdi. Malika bulbulning oilasini ko'rib, juda hayran bo'ldi. Bulbulning onasi Malikaga dedi: "Salom, Malika! Men sizni juda yaxshi ko'raman. Siz bulbul bilan suhbatlashganingizdan keyin, men sizga bir narsa so'rab turaman". Malika bulbulning onasining so'zlariga juda qiziqib, dedi: "Ha, siz nima so'rab turasiz?" Bulbulning onasi dedi: "Men sizga o'z sirimni aytmoqchiman. Men sizni o'z sirim bilan tanishtiraman".
+
+Bulbulning onasi Malikaga o'z sirini aytib berdi. Malika bulbulning onasining sirini eshitib, juda hayran bo'ldi. Bulbulning onasi Malikaga dedi: "Siz bulbul bilan suhbatlashganingizdan keyin, men sizga bir narsa beraman". Malika bulbulning onasining so'zlariga juda qiziqib, dedi: "Ha, siz nima berasiz?" Bulbulning onasi Malikaga bir chiroyli, go'zal gul berdi.
+
+Malika bulbulning onasidan gul olgach, juda hayran bo'ldi. Malika bulbulning onasiga dedi: "Rahmat, siz menga juda chiroyli gul bera oldingiz". Bulbulning onasi Malikaga dedi: "Sizga rahmat, Malika! Men sizni juda yaxshi ko'raman". Malika bulbulning uyidan chiqib, uyiga qaytdi.
+
+Malika uyiga qaytgach, juda baxtli edi. U bulbul bilan suhbatlashgani, bulbulning uyini ko'rgani, bulbulning oilasi bilan tanishgani haqida o'ylardi. Malika bulbulning onasidan olgan gulni eslab, juda hayran bo'ldi. Malika uyida o'tirib, bulbul bilan suhbatlashayotganini eslab, juda baxtli edi.
+
+Bir kuni Malika bog'ga borganida, u yerda bir go'zal lochin ni ko'rdi. Lochinning patlari juda chiroyli, rang-barang edi. Malika lochin ga yaqinlashib, uni qo'lga oldi. Lochin Malikaga qaradi va dedi: "Salom, Malika! Men seni juda yaxshi ko'raman. Sen meni qo'lga olganingdan keyin, men sendan bir narsa so'rashga qaror qildim".
+
+Malika lochin ning so'zlariga juda qiziqib, dedi: "Ha, lochin, men seni juda yaxshi ko'raman. Sen menga nima so'rab turasiz?" Lochin dedi: "Men sizga o'z uyimni ko'rsatmoqchiman. Men sizni o'z uyimga taklif qilaman. Siz menga uyimga kelasizmi?" Malika lochin ning taklifiga rozi bo'ldi va dedi: "Ha, men sizning uygingizga kelay". Lochin Malikani o'z uyiga olib bordi.
+
+Lochin ning uyi juda chiroyli, go'zal edi. Uyning devorlari rang-barang gullar bilan bezatilgan edi. Malika lochin ning uyini ko'rib, juda hayran bo'ldi. Lochin Malikaga dedi: "Men sizga o'z uyimni ko'rsatdim. Endi men sizga o'z oilamni tanishtiraman". Lochin Malikani o'z oilasiga olib bordi.
+
+Lochin ning oilasi juda chiroyli, go'zal edi. Oiladagi qushlar Malikaga salom berishdi. Malika lochin ning oilasini ko'rib, juda hayran bo'ldi. Lochin ning onasi Malikaga dedi: "Salom, Malika! Men sizni juda yaxshi ko'raman. Siz lochin bilan suhbatlashganingizdan keyin, men sizga bir narsa so'rab turaman". Malika lochin ning onasining so'zlariga juda qiziqib, dedi: "Ha, siz nima so'rab turasiz?" Lochin ning onasi dedi: "Men sizga o'z sirimni aytmoqchiman. Men sizni o'z sirim bilan tanishtiraman".
+
+Lochin ning onasi Malikaga o'z sirini aytib berdi. Malika lochin ning onasining sirini eshitib, juda hayran bo'ldi. Lochin ning onasi Malikaga dedi: "Siz lochin bilan suhbatlashganingizdan keyin, men sizga bir narsa beraman". Malika lochin ning onasining so'zlariga juda qiziqib, dedi: "Ha, siz nima berasiz?" Lochin ning onasi Malikaga bir chiroyli, go'zal tilla berdi.
+
+Malika lochin ning onasidan tilla olgach, juda hayran bo'ldi. Malika lochin ning onasiga dedi: "Rahmat, siz menga juda chiroyli tilla bera oldingiz". Lochin ning onasi Malikaga dedi: "Sizga rahmat, Malika! Men sizni juda yaxshi ko'raman". Malika lochin ning uyidan chiqib, uyiga qaytdi.
+
+Malika uyiga qaytgach, juda baxtli edi. U lochin bilan suhbatlashgani, lochin ning uyini ko'rgani, lochin ning oilasi bilan tanishgani haqida o'ylardi. Malika lochin ning

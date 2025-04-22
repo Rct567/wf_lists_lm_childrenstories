@@ -1,0 +1,31 @@
+<prompt>
+Please write a creative and original Bosnian children's story that is at least 1000 words long.
+It must be completely written in proper Bosnian (BS).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Život u velikoj porodici u Mostaru'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>bs</lang_id>
+
+<title>Život u velikoj porodici u Mostaru</title>
+<body>
+Sunce je obasjavalo Mostar, bacajući zlatne zrake na krovove kuća.  U jednoj od tih kuća, okruženoj bujnim lozom i mirisnim cvijećem, živjela je velika porodica.  Bila je to porodica Hadžić, poznata po svom srdačnom gostoprimstvu i nesvakidašnjem smislu za humor.  A u ovoj porodici, u središtu svih događanja, bila je mala, vesela djevojčica,  Amina.
+
+Amina je bila prava mala energija, puna smijeha i znatiželje.  Imala je šestero starijih braće i sestara, svaki sa svojom posebnom energijom.  Bilo je tamo i Mirze, s njegovim nadobudnim idejama i neprestanim izumljivanjem novih igara.  Postojala je i Selma, šarmantna i pametna, koja je voljela čitati knjige do kasno u noć.  A onda su tu bili i  Hasan,  Esma,  Emina i Senad, svaki s karakterističnim humorom i posebnim načinom izražavanja.
+
+Svaki dan u kući Hadžić bio je pun zvuka i živahnosti.  Miris svježe kafe i pečenog hljeba miješao se s šumom šargarepe i žuborenjem vode u dvorištu.  Amina je uvijek bila u središtu dešavanja, pratila braću i sestre u njihovim avanturama, učila ih novim pričama i igricama.  Često bi se okupili oko stola, gdje bi se priče prenosile iz generacije u generaciju, prepune smijeha i mudrosti.
+
+Jednog jutra, dok je Amina igrala skrivanje u vrtu, otkrila je skriveni prolaz koji se skrivao iza ogromnog, starog stabla smokve.  Prolaz je bio uzak i mračan, ali Amina, uprkos strahu, nije se ustručavala.  Kroz njega se spustila u podzemni tunel.  Tunel je bio ispunjen neobičnim, svjetlucavim kristalima, koji su se sjajili pod njenim nogama.  Amina je, oduševljena, krenula dalje.
+
+Na kraju tunela je otkrila malu, skrivenu pećinu, ispunjenu rijetkim biljkama i cvijećem.  Na zidovima pećine bile su ispisane drevne priče, urezane u kamen.  Aminine oči su se širom otvorile od čuđenja.  To je bila priča o Mostaru, o njegovom nastanku, o njegovim prekrasnim džamijama i mostovima.
+
+Amina je, s oduševljenjem, počela čitati priče.  Uskoro su se i ostala djeca Hadžića našla u pećini, oduševljena prizorom.  Mirza je pokušao nacrtati jednu od biljaka, Selma je pročitala priču o nastanku rijeke Neretve, a Hasan je pokušao razumjeti staro pismo.  Svi su bili oduševljeni ovim otkrićem, ovaj skriveni dio Mostara.
+
+Dok su se djeca igrala i učila,  začuo se zvuk.  Bio je to zvuk njihove bake, koja ih je pozvala na doručak.  Amina se, tužna što se avantura završava, vratila s braćom i sestrama u njihovu predivnu kuću.  Iako je pećina bila skrivena, iako su bile priče o njoj, ona je uvijek ostajala dio njihovih sjećanja.  Oni su shvatili da se čarobni gradovi skrivaju i u svakodnevnim stvarima.
+
+Od tog dana, porodica Hadžić je čuvala tajnu pećinu i priče koje su u njoj bile ispisane.  Amina je, svaki dan, pričala o svom otkriću, iako nije znala koliko su one važne.  Ona i njena braća i sestre naučili su da se čarobni svijevi nalaze svuda oko njih.  A Mostar, mali, prekrasni grad, postao je još posebniji, s predivnim pričama koje se prenose iz generacije u generaciju.  I tako je nastavio život u velikoj porodici u Mostaru, ispunjen smijehom, ljubavlju i prekrasnim pričama.
+</body>

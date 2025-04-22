@@ -1,0 +1,37 @@
+<prompt>
+Please write a funny Estonian children's story that is at least 1000 words long.
+It must be completely written in proper Estonian (ET).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Rahvatantsu võlusid ja võluvad rütmid'.
+</prompt>
+
+<model>deepseek-chat</model>
+
+<lang_id>et</lang_id>
+
+<title>Rahvatantsu võlusid ja võluvad rütmid</title><body>  
+Elas kord üks väike küla, mis asus metsa serval. Külas elasid väga erinevad inimesed, kuid üks asi ühendas neid kõiki – nad armastasid rahvatantsu. Igal õhtul, kui päike hakkas loojuma, tulid kõik külaelanikud kokku keskväljakule, et tantsida ja naerda. Aga see polnud tavaline rahvatants. Nende tantsud olid täis võlu ja imet.
+
+Külas elas üks väike poiss nimega Mart. Mart oli väiksem kui teised lapsed ja tema jalad olid nii kiired, et ta sõna otseses mõttes lendas üle põranda, kui ta tantsis. Kuid Martil oli üks suur mure – ta kardas, et ta ei suuda kunagi nii hästi tantsida nagu teised. Ta püüdis ja püüdis, kuid ikka tundus, et ta jalad käisid omas rütmis, mis ei sobinud kellegi teise omaga.
+
+Ühel päeval otsustas Mart, et on aeg leppida sellega, et ta ei ole kunagi suur rahvatantsu täht. Ta istus metsa ääres ja vaatas, kuidas teised lapsed keskväljakul naersid ja tantsisid. Äkki kuulis ta imelikku helinat. See tuli metsa sügavusest. Mart oli uudishimulik ja hakkas helina poole minema.
+
+Metsas leidis ta väikese valge jänesekese, kes istus kivil ja mängis imelikku väikest trummi. Trummist kostis võluv muusika, mis pani Marti jalad iseenesest liikuma.
+
+"Kas sa tahaksid minuga tantsida?" küsis jäneseke Martilt.
+
+Mart vaatas jänesekesse ja naeratas. "Ma arvan, et mu jalad tahavad juba ise tantsida," ütles ta ja hakkas jänesekese trummi rütmis hüplema.
+
+Nad tantsisid ja tantsisid, kuni Mart märkas, et tema jalad olid järsku täiesti kontrolli all. Ta ei komistanud ega kukkunud. Ta lihtsalt tantsis – nagu oleks ta sündinud selleks. Jäneseke naeratas ja ütles: "Sa näed, Mart, igaühel on oma rütm. Sul on lihtsalt eriline rütm, mis ootab, et seda avastataks."
+
+Mart tundis end nii uhkelt ja õnnelikult, et ta otsustas kohe külasse tagasi minna ja oma uut oskust näidata. Kui ta keskväljakule jõudis, olid kõik juba tantsimas. Mart astus keset ringi ja hakkas tantsima oma uue, imelise rütmiga. Alguses vaatasid teised imestunult, kuid varsti hakkasid ka nemad Marti rütmi järgima.
+
+Küla vanemad olid nii vaimustunud, et nad otsustasid korraldada suure rahvatantsu pidustiku. Martist sai pidustiku peaosaline. Ta tantsis nii hästi, et kõik külaelanikud olid tema ees vait. Isegi jäneseke, kes oli tulnud Martiga kaasa, hakkas trummiga saatma.
+
+Pärast pidustikku kutsusid külaelanikud Marti endale õpetajaks. Mart naeratas ja ütles: "Ma ei tea, kas ma olen kõige parem õpetaja, aga ma olen kindel, et igaühel on oma eriline rütm. Me peame lihtsalt leidma selle."
+
+Alates sellest päevast kutsuti küla "Võlujate Rahvatantsu Küla". Mart ja jäneseke jäid elama külla ja õpetasid kõigile, kuidas leida oma eriline rütm. Ja nii tantsiti seal igal õhtul, kui päike loojus, kuni kõikjal kostis naer ja muusika.
+
+Lõpp.</body>

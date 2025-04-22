@@ -1,0 +1,59 @@
+<prompt>
+Please write a simple and easy-to-follow Vietnamese children's story that is at least 1000 words long.
+It must be completely written in proper Vietnamese (VI).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Cô Tấm Xinh Đẹp và Cuộc Đời Giàu Sang, Hạnh Phúc Về Sau'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>vi</lang_id>
+
+```vi
+<title>Cô Tấm Xinh Đẹp và Cuộc Đời Giàu Sang, Hạnh Phúc Về Sau</title>
+<body>
+Ngày xửa ngày xưa, ở một ngôi làng nhỏ yên bình, có hai chị em gái sống cùng với dì ghẻ. Chị cả tên là Cám, một cô gái đỏng đảnh, lười biếng và luôn tìm cách hãm hại người khác. Em gái là Tấm, một cô bé xinh đẹp, hiền lành và rất chăm chỉ. Tấm mồ côi mẹ từ nhỏ, cha cũng mất sớm. Vì vậy, cô phải sống nương tựa vào dì ghẻ và chị Cám.
+
+Dì ghẻ đối xử với Tấm rất tệ bạc, bắt Tấm làm việc từ sáng sớm đến tối mịt, còn chị Cám thì suốt ngày rong chơi, chỉ thích ăn ngon mặc đẹp. Dù vậy, Tấm không bao giờ oán trách, cô luôn làm việc với tinh thần vui vẻ, yêu đời.
+
+Một hôm, nhà vua mở hội, ai cũng được đi dự, trừ Tấm. Dì ghẻ sai Tấm nhặt thóc và gạo đã trộn lẫn vào nhau, bảo rằng nếu Tấm nhặt xong mới được đi hội. Biết là dì ghẻ muốn hãm hại mình, nhưng Tấm vẫn lặng lẽ làm theo lời.
+
+Tấm ngồi xuống, nước mắt lưng tròng. Bỗng dưng, một bầy chim sẻ từ đâu bay đến. Chúng hót líu lo, rồi nhanh chóng nhặt thóc và gạo, chia ra thành hai đống riêng biệt. Tấm ngạc nhiên, vui mừng, cảm ơn bầy chim sẻ rối rít.
+
+Thế là, Tấm nhanh chóng nhặt xong thóc và gạo, kịp thời chuẩn bị đi hội. Tuy nhiên, dì ghẻ vẫn chưa muốn Tấm đi. Dì bắt Tấm phải chải tóc, rồi sai Tấm bỏ tóc vào một chiếc giỏ tre, bảo rằng nếu Tấm chải xong và tìm lại được tóc, mới được đi hội.
+
+Tấm lại buồn bã. Cô nghĩ mình không thể tìm lại tóc, rồi làm sao đi hội được. Trong lúc tuyệt vọng, Tấm nhìn xuống giỏ, chợt thấy một con rùa vàng từ dưới nước bò lên. Con rùa nói: "Chị Tấm, chị cứ ngồi xuống, em sẽ giúp chị."
+
+Rùa vàng bắt đầu chải tóc cho Tấm, sợi nào ra sợi đó, ngay ngắn vào giỏ. Nhờ vậy, Tấm đã có thể đi hội.
+
+Đến hội, Tấm không có quần áo đẹp. Cô chỉ có manh áo rách nát. Nhưng khi đến, Tấm lại gặp Bụt hiện ra. Bụt cho Tấm một bộ quần áo lộng lẫy, một đôi hài bằng ngọc và một con ngựa trắng để cưỡi.
+
+Tấm xinh đẹp bước vào hội, ai cũng phải ngước nhìn. Vẻ đẹp của Tấm đã làm say mê hoàng tử. Hoàng tử say mê Tấm đến nỗi quên cả việc chơi bời, chỉ mong tìm cho được cô gái tuyệt vời ấy.
+
+Trong khi đó, chị Cám thấy Tấm xinh đẹp hơn mình, liền ganh ghét, bày mưu hãm hại em. Chị ta giả vờ thân thiết, rủ Tấm ra bờ sông bắt cá. Khi Tấm vừa cúi xuống, Cám đã xô Tấm xuống sông. Tấm chết đuối.
+
+Cám lấy quần áo của Tấm, rồi khoác lên người, đến cung cấm gặp hoàng tử. Hoàng tử vốn rất nhớ Tấm, nhưng lại không nhận ra, vì Cám xấu xí hơn Tấm rất nhiều. Hoàng tử và Cám kết hôn.
+
+Linh hồn Tấm hóa thành một con chim vàng anh, ngày ngày đậu trên cây xoan đào sau nhà, hót líu lo. Tiếng hót của chim rất hay, đến nỗi hoàng tử phải thường xuyên ra vườn nghe. Chim vàng anh biết Cám là kẻ giết mình, nên đã kể hết mọi chuyện.
+
+Một hôm, khi hoàng tử đang trò chuyện với chim, Cám sợ hãi, sai người giết chim. Chim vàng anh bị giết, xác rụng xuống, hóa thành một cây xoan đào tươi tốt.
+
+Hoàng tử nhớ Tấm da diết. Chàng ra lệnh chặt cây xoan đào, rồi đem về làm khung cửi. Tiếng khung cửi kêu, lại cất lên giọng hát của Tấm. Hoàng tử nghe được, nhận ra sự thật.
+
+Hoàng tử tức giận, bắt Cám phải trả giá. Sau đó, chàng cho đào mồ Tấm lên. Khi quan tài vừa mở, Tấm sống lại, trở lại xinh đẹp như xưa. Hoàng tử vô cùng hạnh phúc, đón Tấm về cung, phong làm hoàng hậu.
+
+Từ đó, Tấm và hoàng tử sống hạnh phúc bên nhau. Cám bị trừng phạt vì những việc làm xấu xa.
+
+Một ngày nọ, Tấm làm cỗ cúng giỗ cha. Cám đến dự. Thấy Tấm được giàu sang, Cám lại càng ghen ghét. Tấm sai người mang đến một mâm cỗ ngon. Cám ăn hết, rồi hỏi Tấm: “Sao chị ăn ngon thế?”
+
+Tấm trả lời: “Chị ăn thịt mẹ chị đấy!”
+
+Nghe vậy, Cám giật mình kinh hãi. Tấm liền sai quân lính lôi Cám ra pháp trường, trừng trị tội ác của Cám.
+
+Tấm trở thành hoàng hậu, luôn được yêu thương, kính trọng. Cô là một người phụ nữ xinh đẹp, nhân hậu, biết ơn những người đã giúp đỡ mình và luôn sống lương thiện. Cô giúp đỡ dân lành, tạo ra nhiều điều tốt đẹp cho đất nước.
+
+Sau khi trừng phạt Cám, Tấm tiếp tục sống hạnh phúc với hoàng tử. Họ có với nhau nhiều người con ngoan ngoãn, hiếu thảo. Tấm trở thành một biểu tượng cho sự lương thiện, công lý, và sự chiến thắng của cái thiện trước cái ác. Cuộc đời của Tấm là một câu chuyện đẹp về sự kiên cường, lòng tốt, và phần thưởng xứng đáng cho những người có trái tim nhân hậu.
+</body>
+```

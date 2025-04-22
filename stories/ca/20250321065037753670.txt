@@ -1,0 +1,43 @@
+<prompt>
+Please write a funny Catalan children's story that is at least 1000 words long.
+It must be completely written in proper Catalan (CA).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'Història D'Un Pato Que Somiava Ser Pilot'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>ca</lang_id>
+
+```xml
+<title>Història D'Un Pato Que Somiava Ser Pilot</title>
+<body>
+<p>En Pau, el pato, era un pato molt, però que molt diferent dels altres. Els altres patos, els seus germans, els seus cosins, tots, només pensaven en nedar, picotejar cucs i fer grans remullades al llac de Can Fanga. Però en Pau, ell, tenia un somni gegant: volia ser pilot!</p>
+
+<p>Ja ho sé, ja ho sé, un pato pilot… us sembla estrany? Doncs sí, una mica ho era. Però en Pau tenia una determinació que ja la volguessin per a ell els millors pilots d’avions de l’aeroport del Prat. Cada dia, mentre la resta de la seva família s’estava fent un fart de llot al fons del llac, en Pau s’enlairava, literalment, a la terrassa de casa. Allà, amb les seves ales, feia “brrrr!” i “vroum!”, simulant el so dels motors d’un avió. Els altres patos, des de baix, només feien befa: “Què fas, Pau? Vols anar a l’espai amb les teves ales?” En Pau, impassible, responia: “Ja veureu, ja veureu! Algun dia volarà com un pilot de debò!”</p>
+
+<p>A la terrassa, en Pau es passava hores mirant els avions que deixaven un rastre blanc al cel. Observava com aterraven, com enlairaven, com giraven, com es movien... Tot ho enregistrava a la seva memòria de pato, que no era gaire gran, però que en aquells moments s’expandia com un globus ple d’heli. També recollia retalls de diaris i revistes que trobava pel voltant de casa (normalment, algun diari que el vent havia bufat cap allà), on hi sortien avions, pilots amb cascos, i mapes amb rutes aèries. Els enganxava amb fang (l’única cola que tenia a mà) a la paret de l’estable. Semblava un mapa del tresor, però en realitat era el seu quadre de somnis.</p>
+
+<p>Un dia, mentre jugava a la terrassa, en Pau va trobar una cosa molt especial: un casc! Un casc de moto, molt gran, molt desgastat, amb algunes ratllades i fins i tot un tros de vidre trencat a la visera. Però era perfecte! El casc representava la clau per realitzar el seu somni. El va netejar amb molta cura, i després de deixar-lo assecar al sol, se’l va posar. Li anava enorme, però l’efecte era magnífic. Amb el casc posat, en Pau se sentia encara més pilot. Es mirava al reflex de l’aigua del llac i, amb veu greu, s’imaginava donant ordres: “Torre de control, aquí Pato-1, sol·licitem enlairament…”. I aleshores, feia un gran salt i s’amagava darrere una pila de caixes, que era el seu particular hangar.</p>
+
+<p>Però el seu somni, per molt gran que fos, tenia un gran problema: les seves ales. Eren unes ales de pato normals i corrents, adaptades per a nedar i volar distàncies curtes. Però en Pau volia anar molt lluny, fins i tot volia fer la volta al món! Així que va decidir que havia de fer una investigació per veure si podia canviar les seves ales per unes de més potents, que aguantessin millor els vents forts i que fossin més veloces. Va passar hores a la biblioteca municipal, (sí, un pato a la biblioteca, imaginau-vos!) revisant llibres sobre aeronàutica i tecnologia, mirant els diferents models d'avions, els materials i els mecanismes que feien volar aquells aparells. Hi va trobar moltes coses interessants, però la solució al seu problema no estava allà: cap dels llibres parlava d'ales de pato modificades. Així que es va haver de buscar la vida per altres camins.</p>
+
+<p>Un bon dia, en Pau, en una de les seves investigacions a prop del riu Llobregat, va veure una cosa que li va canviar la vida. Un home, un inventor molt excèntric que tenia un taller a la vora del riu, estava provant una màquina estranya: era una mena d’aparell amb unes ales enormes, fetes de tela i fusta, amb un motor a l’esquena i un seient petit. “Què és això?”, es va preguntar en Pau, amb els ulls brillants de curiositat. S’hi va apropar cautelosament, caminant amagat entre els arbustos.</p>
+
+<p>L’inventor, que es deia en Bartomeu, era un personatge molt peculiar. Tenia el cabell despentinat, un davantal ple de taques de pintura i unes ulleres amb una lent trencada. Estava donant voltes al voltant de la seva màquina, parlant sol i ajustant algunes peces. En Pau, que estava molt curiós, va decidir apropar-s'hi una mica més i saludar-lo: “Bon dia, senyor… Què és això que està fent?”</p>
+
+<p>En Bartomeu, que no s'havia adonat de la presència d'en Pau, va donar un salt de l’ensurt. "Ai, mare! Un pato que parla!" – va exclamar sorprès. “Però… que fas aquí?” En Pau, sense perdre la calma, va explicar-li el seu somni de ser pilot. Va parlar-li del casc, de les seves ales petites i de la seva gran ambició.</p>
+
+<p>En Bartomeu, escoltant en Pau, es va mostrar entusiasmat. “Molt bé, molt bé! Un pato pilot! Això sí que és una bona idea! Potser la meva màquina pot ser la solució als teus problemes”, va dir, amb un somriure que li il·luminava la cara. Va explicar-li que estava construint un aparell per volar, però que encara tenia algunes dificultats. Ales de més tamany? Un motor més potent? Potser, junts, podien trobar una solució! I a partir d'aquell dia, en Pau i en Bartomeu es van fer amics i van començar a treballar junts a l'estrany taller del riu Llobregat.</p>
+
+<p>Van passar setmanes i setmanes, fent proves i experiments. La màquina d’en Bartomeu va anar evolucionant, fent-se més gran i més segura. En Pau, amb les seves idees i el seu entusiasme, era el millor ajudant que podia tenir. A vegades, les coses no sortien com volien i s'enfadaven i es discutien, però sempre acabaven fent les paus i continuaven endavant. Junts, van solucionar els problemes del motor, millorar la sustentació, i construir un seient còmode per al pato pilot.</p>
+
+<p>Finalment, després de moltes hores de treball, va arribar el dia de la primera prova. En Pau, amb el casc posat, i en Bartomeu, al costat per donar-li suport moral, van preparar l’aparell per l’enlairament. Tots els patos del llac de Can Fanga van anar cap allà a mirar, amb un gran somriure als llavis. A veure que passava! L’inventor li va donar les últimes indicacions: “Estira bé la palanca, aguanta el vol i recorda: el vent ve de cara!” En Pau, molt emocionat, va pujar a l'aparell i, amb el cor a mil, va engegar el motor. El soroll va ser ensordidor, les ales van començar a batre, i la màquina es va començar a moure amb una força que va fer tremolar la terra.</p>
+
+<p>I aleshores… PUM! La màquina va fer un cop de toss i es va quedar parada. Un tros de la palanca havia cedit. Però, inesperadament, la sort va estar al costat d’en Pau. Enmig de tota la situació, el motor es va posar en marxa de nou. A la següent ocasió, En Pau no es va poder controlar, i entre que va sentir el motor, i l’emoció, i els nervis... Va accelerar la palanca amb tota la força que tenia i… BUUUUM!!! La màquina, amb en Pau a sobre, va sortir disparada cap al cel com un coet! Va sobrevolar tot el llac, fent voltes i girs, davant l’estupefacció de tots els patos, que aplaudien i cridaven demanant que tornés a baixar, ja! En Pau, eufòric, cridava des de dalt: “Sóc un pilot! Sóc un pilot de veritat!”</p>
+
+<p>Després d’un vol impressionant, en Pau va aconseguir aterrar a la riba del llac, just davant d’en Bartomeu, qui el va felicitar, i abans que els seus germans i cosins patos l’anessin a abraçar. El primer vol d'en Pau havia estat tot un èxit! La màquina, malgrat els imprevistos, havia funcionat. En Pau havia aconseguit el seu somni i, per si no fos poc, es va guanyar el respecte de tots els seus veïns patos, qui ja no es burlaven de les seves ambicions. Aquell dia, tot el llac de Can Fanga es va convertir en una gran festa, amb picoteig de cucs especial i música de vent! En Pau, des d'aleshores, va seguir volant i practicant amb en Bartomeu, convertint-se en un pilot famós i respectat a tot arreu. I tot, gràcies al seu somni de pato, que per impossible que semblés, va acabar fent-se realitat.</p>
+</body>
+```

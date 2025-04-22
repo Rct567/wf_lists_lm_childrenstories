@@ -1,0 +1,41 @@
+<prompt>
+Please write a fun and entertaining Esperanto children's story that is at least 1000 words long.
+It must be completely written in proper Esperanto (EO).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'La Sekretoj de la Arbusta Reĝlando'.
+</prompt>
+
+<model>gemini-1.5-flash-8b</model>
+
+<lang_id>eo</lang_id>
+
+<title>La Sekretoj de la Arbusta Reĝlando</title>
+<body>
+En la kora parto de la mondo, kie la suno lumis varme sur la verdaj herbejoj, kaj la rivereto fluis kiel kanto, troviĝis mirinda regno. Ĝi ne estis farita el brikoj aŭ ŝtonoj, sed el arboj, grandaj kaj malgrandaj, dense kreskantaj, kreante arbonan urbon. Ĉi tiu estis la Arbusta Reĝlando.
+
+Tie, en loĝejo konstruita el branĉoj kaj foliaro, loĝis princino Floro. Ŝi posedis hararojn kiel oranĝaj folioj kaj okulojn kiel bluaj akvaj globetoj.  Sed Floro ne estis kiel la aliaj princinoj.  Ŝi ne ŝatis danci kun kristala spegulo, nek ŝatis spekti florojn.  Ŝi ŝatis esplori la sekretojn de la arboj.
+
+Unun tagon, dum ŝi vagadis tra la arbara regno, ŝi renkontis malgrandan arbon, kiu ploris.  "Kial vi ploras, malgranda arbo?" demandis Floro, mallaŭte kaj zorgoplene.
+
+"Mi ne povas atingi la sunon!" la arbo susurdis, ĝia foliaro tremante. "Mi estas tro malalta, kaj la aliaj arboj ŝajnas tute ne rigardi min."
+
+Floro ridis.  "Sed mi scias, kiel vi povas atingi la sunon."
+
+"Vere?" demandis la arbo, entuziasme.
+
+"Jes," Floro respondis. "Ĉu vi volas lerni la sekreton de la arboj?"
+
+Floro klarigis, ke ĉiu arbo havas sian propran vojon al la suno. Kelkaj arboj estas altaj kaj dikaj, por atingi la sunon per sia granda alteco. Aliaj kreskas en grupoj, por esti pli fortaj kaj atingi la sunon kune. Kaj aliaj arboj, eĉ malgrandaj arboj, povas trovi sian propran manieron atingi la sunon, per siaj radikoj.
+
+La malgranda arbo ŝajnis komprenanta.  Ĝi komencis elfosi siajn radikojn pli profunde en la teron, serĉante la plej bonan vojon.  Floro, kun ŝia magia foliaro, helpis la arbon trovi specialan rokon, kiu helpis pliigi la radikan sistemon.  La arbo sentis sin pli forta kaj pli ligita al la tero.
+
+Tamen, la sekretoj de la Arbusta Reĝlando ne limiĝis nur al la arboj.  Unun tagon, Floro trovis malgrandan birdon, kies flugiloj estis difektitaj.  Ŝi rapide sciigis la kuracistajn bestojn de la regno.  La bestoj, kun siaj specialaj kapabloj, zorgis pri la birdo, farante kuracan loĝejon el moltaj folioj kaj plumojn. 
+
+Dum la kuracado, la birdo rakontis al Floro rakonton pri la arboj.  Ĝi rakontis pri la magiaj floroj, kiuj kreskis sur la plej altaj branĉoj, kaj la mielo farita de la abeloj.  Ili kune eksploris la arbarojn, ĉiun el ili plenaj de surprizo kaj miraklo.
+
+Floro lernis, ke la sekretoj de la Arbusta Reĝlando ne estas gardataj de reĝoj, sed estas dividitaj de ĉiuj ĝiaj loĝantoj.  Ĝi lernis pri la graveco de la amikaro kaj kunlaboro.  Ŝi lernis pri la graveco de pasio, kaj la mirakloj kiuj kreskas kiam la arboj kaj la bestoj kune fortigas la ĉirkaŭaĵon.
+
+Tial, la malgranda arbo, poste kreskis alta kaj dika, iĝante unu el la plej belaj arboj en la Arbusta Reĝlando.  La birdo flugis libere, kantante kaj dancante inter la arboj, kun siaj novaj kaj fortaj flugiloj.  Floro, malgraŭ esti princino, ankaŭ iĝis granda esploristo, ĉiam serĉanta la sekretojn de la arboj kaj la miraklojn de la regno.  Kaj la Arbusta Reĝlando daŭre kreskis, plena de vivo, amikoj, kaj sekretoj atendantaj esti malkovritaj.
+</body>

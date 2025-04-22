@@ -1,0 +1,65 @@
+<prompt>
+Please write a educational Spanish children's story that is at least 1000 words long.
+It must be completely written in proper Spanish (ES).
+Ensure that the title of the story is enclosed in <title> tags and the body of the story is enclosed in <body> tags.
+Example: <title>The title of the story</title><body>The story itself</body>
+Do not include any extra commentary or explanation; output only the story in the specified format.
+The title of the story is: 'El avión de pasajeros que voló a destinos exóticos para divertir a todos.'.
+</prompt>
+
+<model>gemini-2.0-flash-lite</model>
+
+<lang_id>es</lang_id>
+
+```xml
+<title>El avión de pasajeros que voló a destinos exóticos para divertir a todos.</title><body>
+
+En el cielo azul, brillante y soleado, vivía un avión de pasajeros muy especial. Su nombre era "Aventurero", y no era como los demás. Aventurero no solo transportaba personas de un lugar a otro; ¡él quería divertirlos! Tenía ventanas redondas como ojos curiosos, alas fuertes para volar alto y una nariz pintada con una gran sonrisa.
+
+Un día, mientras esperaba su próximo vuelo en el aeropuerto, Aventurero escuchó a unos niños hablando.
+
+—¡Ay, qué aburrido es volar siempre a los mismos sitios! —exclamó una niña llamada Sofía, con un puchero en los labios.
+
+—¡Sí! ¡Queremos ir a lugares emocionantes! —respondió su hermano, Mateo, con una mueca de frustración.
+
+Aventurero, con su corazón de metal, sintió una chispa de inspiración. "¡Ya lo tengo!", pensó. "¡Volaré a lugares exóticos para que todos se diviertan!"
+
+Cuando el capitán llegó, Aventurero le contó su plan. El capitán, un hombre amable con bigote blanco y una gran sonrisa, estuvo de acuerdo. "¡Excelente idea, Aventurero! ¡Vamos a hacer de este vuelo una aventura inolvidable!"
+
+Así, el avión Aventurero despegó con un nuevo propósito. El primer destino era... ¡África!
+
+—¡Bienvenidos a África! —anunció Aventurero por los altavoces, su voz animada. —¡Prepárense para ver animales salvajes, selvas exuberantes y culturas fascinantes!
+
+Los niños, Sofía y Mateo entre ellos, aplaudieron emocionados. Al aterrizar en el aeropuerto de Nairobi, Kenia, la aventura comenzó. Los pasajeros subieron a jeeps y comenzaron un safari. Vieron leones majestuosos durmiendo bajo la sombra de los árboles, elefantes gigantes bañándose en los ríos y jirafas altas comiendo hojas de los árboles más altos. Sofía y Mateo tomaron fotos sin parar. Aprendieron sobre la importancia de proteger a estos animales y su hábitat. Comieron deliciosas samosas y escucharon historias sobre la tribu Maasai. ¡Fue una experiencia increíble!
+
+Luego, Aventurero voló hacia Brasil. "¡Bienvenidos a Brasil! —gritó Aventurero—. ¡Prepárense para el carnaval, playas hermosas y la exuberante selva amazónica!"
+
+En Río de Janeiro, los niños aprendieron a bailar samba y admiraron el Cristo Redentor, una enorme estatua que miraba la ciudad. Visitaron la playa de Copacabana, jugando en la arena y nadando en el mar. En la selva amazónica, navegaron en botes por el río, observando monos saltando entre los árboles, coloridas aves tropicales y jaguares acechando en la espesura. Comieron deliciosos acarajés y bebieron zumo de fruta fresca. Mateo incluso aprendió a decir "Olá!" (Hola) y "Obrigado!" (Gracias) en portugués.
+
+El siguiente destino fue Japón. "¡Kon'nichiwa! —dijo Aventurero—. ¡Bienvenidos a Japón! ¡Prepárense para la cultura samurái, la deliciosa comida y los cerezos en flor!"
+
+En Japón, visitaron templos budistas con techos dorados y jardines zen serenos. Aprendieron a hacer origami, el arte japonés de doblar papel. Probaron el sushi, el ramen y el té verde. Vieron un espectáculo de sumo, con luchadores enormes. Caminaron por las calles vibrantes de Tokio, con sus luces de neón y tiendas llenas de productos extraños y maravillosos. Aprendieron algunas palabras en japonés como "arigato" (gracias) y "sayonara" (adiós). ¡Fue una experiencia totalmente nueva y emocionante!
+
+Después de Japón, Aventurero se dirigió a Egipto. "¡Ahlan wa sahlan! —saludó Aventurero—. ¡Bienvenidos a Egipto! ¡Prepárense para las pirámides, los faraones y el misterio del Nilo!"
+
+En Egipto, los niños montaron camellos por el desierto, exploraron las pirámides de Giza y vieron la Esfinge. Navegaron por el río Nilo, visitando templos antiguos como el de Karnak y Luxor. Aprendieron sobre la historia de los faraones, los jeroglíficos y la importancia de la civilización egipcia. Sofía quedó fascinada por las joyas y los tesoros que vieron en los museos. Mateo aprendió algunas frases en árabe como "shukran" (gracias) y "ma'a as-salama" (adiós). ¡El viaje fue como retroceder en el tiempo!
+
+Luego, Aventurero voló a la gran muralla china. "¡Huan Ying! ¡Bienvenidos a China! ¡Prepárense para la historia milenaria, la comida deliciosa y los increíbles pandas!"
+
+En China, caminaron a lo largo de la Gran Muralla, admirando su grandeza. Visitaron la Ciudad Prohibida en Pekín, antigua residencia de los emperadores. Aprendieron a usar palillos y probaron el pato pekinés, el dim sum y el té chino. Visitaron un jardín de bambú y vieron pandas gigantes comiendo hojas. Mateo hasta intentó aprender algunos caracteres chinos. ¡Fue un choque cultural fascinante!
+
+A medida que Aventurero continuaba sus viajes, se detenía en Italia, donde comieron pasta y helado, aprendiendo un poco de italiano. Luego volaron a Australia, donde vieron canguros y koalas, y aprendieron sobre los aborígenes australianos. Visitaron la India, probando curry, aprendiendo sobre los festivales hindúes y maravillándose con el Taj Mahal. Exploraron el Polo Norte, donde pudieron ver pingüinos. Cada viaje era una nueva aventura, una nueva lección y una nueva oportunidad para reír y aprender.
+
+Aventurero se había convertido en el avión de pasajeros más famoso del mundo. Los niños siempre esperaban con entusiasmo su próximo destino. Se sentían felices de aprender sobre culturas diferentes, animales exóticos y la historia del mundo.
+
+Un día, de vuelta en el aeropuerto, Sofía y Mateo se encontraron con Aventurero.
+
+—¡Hola, Aventurero! —exclamó Sofía.
+
+—¡Hemos aprendido tantas cosas gracias a ti! —añadió Mateo.
+
+Aventurero sonrió con su gran nariz pintada. —¡Y yo he aprendido mucho de ustedes! Me encanta ver sus caras de felicidad y curiosidad. Recuerden, el mundo es un lugar maravilloso, lleno de aventuras esperando a ser descubiertas. ¡Y juntos, podemos explorarlo!
+
+Aventurero continuó volando por todo el mundo, compartiendo alegría y conocimiento. Nunca dejó de sonreír, y siempre estaba listo para su próxima aventura. Porque para Aventurero, la felicidad estaba en compartir el mundo con los demás, y en hacer que cada viaje fuera una experiencia inolvidable. Y así, el avión Aventurero, con su nariz sonriente y alas fuertes, siguió volando, llevando consigo la promesa de aventuras, descubrimientos y sonrisas a cada rincón del planeta, haciendo realidad los sueños de todos los niños y adultos que viajaban en él. Fin.
+</body>
+```
