@@ -93,7 +93,7 @@ def generate_titles(lang_id: str, titles_dir: str, run_num: int) -> None:
     else:
         print("Saved {} new titles.".format(num_saved-num_titles_original))
 
-    if story_titles.file_path:
+    if story_titles.file_path and os.path.exists(story_titles.file_path):
         file_size_in_mb = os.path.getsize(story_titles.file_path) / 1024 / 1024
         if file_size_in_mb > 1:
             raise Exception("Titles file is too large ({:.2f} MB).".format(file_size_in_mb))
@@ -107,8 +107,10 @@ def main(lang_ids: Union[str, list[str]]) -> None:
 
     for lang_id in keep_looping_through_languages(languages_to_process):
         if num_runs >= NUMBER_OF_RUNS:
+            print("Out of runs.")
             break
         if len(languages_skipped) >= len(languages_to_process):
+            print("Out of languages to process.")
             break
         if lang_id in languages_skipped:
             continue
