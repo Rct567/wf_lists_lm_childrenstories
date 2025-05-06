@@ -471,3 +471,22 @@ class TextProcessing:
             return s.replace('İ', 'i').replace('I', 'ı').lower()
         else:
             return s.lower()
+
+    @staticmethod
+    def has_long_alliteration(words: list[WordToken], n: int) -> bool:
+
+        first_letters = [word[0] for word in words if word]
+
+        current_letter = None
+        current_count = 0
+
+        for letter in first_letters:
+            if letter == current_letter:
+                current_count += 1
+            else:
+                current_letter = letter
+                current_count = 1
+            if current_count >= n:
+                return True
+
+        return False

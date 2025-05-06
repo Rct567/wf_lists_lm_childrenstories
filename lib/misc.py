@@ -139,6 +139,10 @@ class StoryTitles:
             print("Title '{}' has too many repeated words.".format(title))
             return False
 
+        if TextProcessing.has_long_alliteration(title_tokens, 4):
+            print("Title '{}' contains long alliteration.".format(title))
+            return False
+
         for word in title_tokens:
             if not word_accepter(word):
                 print("Title '{}' contains invalid word '{}' for language '{}'.".format(title, word, self.lang_id))
