@@ -135,8 +135,7 @@ class TextProcessing:
     }
 
     CHINESE_PATTERN = re.compile(r'^[\u4e00-\u9fff]+$', re.UNICODE)
-    JAPANESE_PATTERN = re.compile(r'^[\u3040-\u309F\u4E00-\u9FAF\uF900-\uFAFF\u3400-\u4DBF]+$', re.UNICODE)  # Kanji + Hiragana only
-    JAPANESE_ALL_PATTERN = re.compile(
+    JAPANESE_PATTERN = re.compile(
         r'^[\u3040-\u309f\u30a0-\u30ff\u4e00-\u9faf\uf900-\ufaff\u3400-\u4dbf]+$',
         re.UNICODE
     )  # Kanji + Hiragana + Katakana
@@ -187,10 +186,6 @@ class TextProcessing:
             word_pattern = TextProcessing.CHINESE_PATTERN
         elif lang_id == 'ja':
             word_pattern = TextProcessing.JAPANESE_PATTERN
-        elif lang_id == 'ja_katakana':
-            word_pattern = TextProcessing.JAPANESE_KATAKANA_PATTERN
-        elif lang_id == 'ja_all':
-            word_pattern = TextProcessing.JAPANESE_ALL_PATTERN
         elif lang_id == 'ko':
             word_pattern = TextProcessing.KOREAN_PATTERN
         elif lang_id == 'bo':
