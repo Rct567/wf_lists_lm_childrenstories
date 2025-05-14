@@ -215,6 +215,8 @@ class TextProcessing:
             word_pattern = TextProcessing.MONGOLIAN_PATTERN
         elif lang_id in {'be', 'ru', 'uk', 'bg', 'ce', 'mk', 'tg', 'tt'}: # Belarusian, Russian, Ukrainian, Bulgarian, Chechen, Macedonian, Tajik, Tatar
             word_pattern = TextProcessing.CYRILLIC_PATTERN
+        elif lang_id == 'kk': # Kazakh, only Cyrillic for now
+            word_pattern = TextProcessing.CYRILLIC_PATTERN
         elif lang_id in {'hi', 'mr', 'ne', 'bn', 'pa', 'gu', 'or', 'ta', 'te', 'kn', 'ml'}:
             word_pattern = TextProcessing.INDIC_PATTERN
         elif lang_id == 'cu':
