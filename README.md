@@ -7,7 +7,7 @@ This repository contains **word frequency lists** based on AI generated children
 - Create a .env file based on the .env.example file.
 - (Optional) Run `generate_titles.py` to generate titles for the stories.
 - Run `generate_stories.py` to generate the stories.
-- (Optional) Download [stories.zip](https://github.com/Rct567/wf_lists_lm_childrenstories/releases) to get the stories currently used.
+- (Optional) Download [stories.zip](https://github.com/Rct567/wf_lists_lm_childrenstories/releases) to get the generated stories currently used.
 - Run `generate_wf_lists.py` to generate the word frequencies lists.
 
 ## Word frequency lists overview
