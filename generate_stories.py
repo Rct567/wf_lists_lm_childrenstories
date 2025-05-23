@@ -12,9 +12,16 @@ from lib.misc import STORIES_DIR, TITLES_DIR, StoryTitles, get_languages_to_proc
 from lib.text_processing import TextProcessing, WordToken
 
 
-NUMBER_OF_RUNS = 600
-LANG_ID = "*"
-MAX_STORIES_PER_LANG = 600
+NUMBER_OF_RUNS = 750
+LANG_ID = "*" # all languages
+# LANG_ID = ["es", "fr", "de", "it", "zh", "en", "pt", "ru", "ja", "ar"]
+# LANG_ID = ["af", "ar", "bg", "bn", "br", "bs", "ca", "cs", "da", "de",
+#              "el", "en", "eo", "es", "et", "eu", "fa", "fi", "fr", "gl",
+#              "he", "hi", "hr", "hu", "hy", "id", "is", "it", "ja", "ka",
+#              "kk", "ko", "lt", "lv", "mk", "ml", "ms", "nl", "no", "pl",
+#              "pt", "pt_br", "ro", "ru", "si", "sk", "sl", "sq", "sr",
+#              "sv", "ta", "te", "th", "tl", "tr", "uk", "ur", "vi", "zh"]
+MAX_STORIES_PER_LANG = 1999
 
 
 selected_lm = get_selected_lm()
