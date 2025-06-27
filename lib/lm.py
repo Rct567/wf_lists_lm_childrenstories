@@ -118,7 +118,7 @@ def get_lm_caller(lm: LM):
         model_role = "system"
 
     @rate_limit_per_minute(lm.rate_limit_per_minute)
-    def call_lm(prompt_text: str, lang_id: str) -> Optional[LmResponse]:
+    def call_lm(prompt_text: str, system_prompt_text: str, lang_id: str) -> Optional[LmResponse]:
         global lm_caller_num_calls, lm_caller_num_errors
 
         if lm_caller_num_errors > 3:
@@ -126,7 +126,7 @@ def get_lm_caller(lm: LM):
             sys.exit(1)
 
         messages = [
-            {"role": model_role, "content": "You are a creative children's story writer."},
+            {"role": model_role, "content": system_prompt_text},
             {"role": "user", "content": prompt_text}
         ]
 

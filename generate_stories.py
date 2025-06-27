@@ -140,7 +140,8 @@ def build_story_prompt(lang_id: str, story_titles: StoryTitles) -> str:
     return prompt
 
 def get_story_response_from_lm(prompt_text: str, lang_id: str) -> Optional[LmStoryResponse]:
-    response = call_lm(prompt_text, lang_id)
+    sys_prompt_text = "You are a creative children's story writer."
+    response = call_lm(prompt_text, sys_prompt_text, lang_id)
     if not response:
         return None
     return LmStoryResponse(

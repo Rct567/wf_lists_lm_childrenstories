@@ -47,7 +47,9 @@ def generate_titles(lang_id: str, titles_dir: str, run_num: int) -> None:
     print("Generating titles for language '{}' ({}/{})...".format(LANGUAGE_CODES_WITH_NAMES[lang_id], run_num + 1, NUMBER_OF_RUNS))
 
     prompt_text = build_titles_prompt(lang_id)
-    response = call_lm(prompt_text, lang_id)
+    sys_prompt_text = "You are a creative children's story writer."
+
+    response = call_lm(prompt_text, sys_prompt_text, lang_id)
     if not response:
         return
 
