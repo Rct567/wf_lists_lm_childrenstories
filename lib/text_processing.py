@@ -244,7 +244,7 @@ class TextProcessing:
             word_pattern = TextProcessing.POLISH_PATTERN
         elif lang_id == 'cs':
             word_pattern = TextProcessing.CZECH_PATTERN
-        elif lang_id in {'en', 'es', 'fr', 'de', 'nl', 'fy', 'it', 'pt', 'pt_br', 'da', 'sv', 'no', 'fi', 'is', 'ca', 'af', 'gd', 'ht', 'kg', 'rm', 'sq', 'uz', 'la', 'nn', 'jv', 'tl', 'su'}:
+        elif lang_id in {'en', 'es', 'fr', 'de', 'nl', 'fy', 'it', 'pt', 'pt_br', 'da', 'sv', 'nb', 'nn', 'fi', 'is', 'ca', 'af', 'gd', 'ht', 'kg', 'rm', 'sq', 'uz', 'la', 'nn', 'jv', 'tl', 'su'}:
             word_pattern = TextProcessing.LATIN1_PATTERN
         elif lang_id in {'lv', 'lt', 'ro', 'et', 'mt', 'ga', 'cy', 'eu', 'br', 'lb', 'fo', 'kl', 'eo', 'gl'}:
             word_pattern = TextProcessing.LATIN_EXTENDED_PATTERN
