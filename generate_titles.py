@@ -1,6 +1,6 @@
 import os
 import random
-from typing import Union
+from typing import Optional, Union
 from lib.language_data import LANGUAGE_CODES_WITH_NAMES
 from lib.lm import LmResponse, get_lm_caller, get_selected_lm
 from lib.misc import TITLES_DIR, StoryTitles, get_languages_to_process, keep_looping_through_languages, num_lines_in_file
@@ -42,7 +42,7 @@ def build_titles_prompt(lang_id: str) -> str:
 
     return prompt
 
-def generate_titles(lang_id: str, titles_dir: str, run_num: int) -> None:
+def generate_titles(lang_id: str, titles_dir: str, run_num: int) -> Optional[int]:
 
     print("Generating titles for language '{}' ({}/{})...".format(LANGUAGE_CODES_WITH_NAMES[lang_id], run_num + 1, NUMBER_OF_RUNS))
 
@@ -88,17 +88,21 @@ def generate_titles(lang_id: str, titles_dir: str, run_num: int) -> None:
     else:
         num_saved = 0
 
+    num_new_titles_saved = num_saved-num_titles_original
+
     if num_titles_added == 0:
         print("No titles added to titles file!")
     elif num_saved == 0:
         print("No new titles saved to titles file!")
     else:
-        print("Saved {} new titles.".format(num_saved-num_titles_original))
+        print("Saved {} new titles.".format(num_new_titles_saved))
 
     if story_titles.file_path and os.path.exists(story_titles.file_path):
         file_size_in_mb = os.path.getsize(story_titles.file_path) / 1024 / 1024
         if file_size_in_mb > 1:
             raise Exception("Titles file is too large ({:.2f} MB).".format(file_size_in_mb))
+
+    return num_new_titles_saved
 
 
 def main(lang_ids: Union[str, list[str]]) -> None:
@@ -124,7 +128,11 @@ def main(lang_ids: Union[str, list[str]]) -> None:
             languages_skipped.add(lang_id)
             continue
 
-        generate_titles(lang_id, TITLES_DIR, num_runs)
+        num_new_titles_saved = generate_titles(lang_id, TITLES_DIR, num_runs)
+
+        if num_new_titles_saved and num_new_titles_saved < 5:
+            languages_skipped.add(lang_id)
+
         num_runs += 1
 
 
