@@ -107,7 +107,7 @@ class LmStoryResponse(LmResponse):
 def build_story_prompt(lang_id: str, story_titles: StoryTitles) -> str:
 
     assert lang_id == story_titles.lang_id
-    num_words = 1000
+    num_words = 5000
 
     story_adjectives = ['creative and original', 'dialog-based', 'funny', 'fun and entertaining', 'educational', 'silly', 'uncomplicated',
                         'simple and easy-to-follow', 'light-hearted', 'emotional', 'timeless', 'relatable']

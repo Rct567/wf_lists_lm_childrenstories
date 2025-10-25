@@ -39,7 +39,7 @@ def get_tokens_from_story(story_file_path: str, word_accepter: Callable[[str], b
     if not body_tokens:
         print("No word tokens found in body of file '{}'.".format(story_file_path))
         return None
-    elif len(body_tokens) > 3100:
+    elif len(body_tokens) > 10_000:
         print("WARNING: File '{}' contains {} words in body.".format(story_file_path, len(body_tokens)))
 
     word_token_rejection_rate = TextProcessing.get_word_token_rejection_rate(body_tokens, lang_id)
