@@ -7,9 +7,15 @@ from lib.misc import TITLES_DIR, StoryTitles, get_languages_to_process, keep_loo
 from lib.text_processing import TextProcessing
 
 
-NUMBER_OF_RUNS = 500
-LANG_ID = "*"
-MAX_TITLES_PER_LANG = 50
+NUMBER_OF_RUNS = 150
+# LANG_ID = "fr" # all languages
+# LANG_ID = ["es", "fr", "de", "it", "zh", "en", "pt", "ru", "ja", "ar"]
+LANG_ID = ["af", "ar", "bg", "br", "bs", "ca", "cs", "da", "de", "el", "en",
+           "eo", "es", "et", "eu", "fa", "fi", "fr", "gl", "he", "hr", "hu",
+           "hy", "id", "is", "it", "ja", "ka", "kk", "ko", "lt", "lv", "mk",
+           "ml", "ms", "nb", "nl", "pl", "pt", "pt_br", "ro", "ru", "si", "sk",
+           "sl", "sq", "sr", "sv", "th", "tl", "tr", "uk", "ur", "zh", "vi"]
+MAX_TITLES_PER_LANG = 2200
 
 selected_lm = get_selected_lm()
 call_lm = get_lm_caller(selected_lm)
