@@ -216,7 +216,7 @@ def main(lang_ids: Union[str, list[str]]) -> None:
         lang_story_dir = os.path.join(STORIES_DIR, lang_id)
         lang_num_stories = num_text_files_in_dir(lang_story_dir)
         if lang_num_stories >= MAX_STORIES_PER_LANG:
-            print("Skipping '{}' because it already has {} ore more stories ({}).".format(lang_id, MAX_STORIES_PER_LANG, lang_num_stories))
+            print("Skipping '{}' because it already has {} or more stories ({}).".format(lang_id, MAX_STORIES_PER_LANG, lang_num_stories))
             languages_skipped.add(lang_id)
             continue
 
