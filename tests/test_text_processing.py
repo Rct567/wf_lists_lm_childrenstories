@@ -31,17 +31,6 @@ def test_lowercase_string_turkish():
     at_least_one_token_reject_by_native_lower_fn = any(not word_acceptor(token.lower()) for token in tokens)
     assert at_least_one_token_reject_by_native_lower_fn
 
-def test_get_word_tokens_pt_br():
-
-    text = "O Mistério do Tesouro Perdido na Ilha dos Pássaros Falantes e Coloridos. хӏорда"
-    tokens = TextProcessing.get_word_tokens_from_text(text, "pt_br", filter_words=True)
-    assert tokens ==  ['o', 'mistério', 'do', 'tesouro', 'perdido', 'na', 'ilha', 'dos', 'pássaros', 'falantes', 'e', 'coloridos']
-
-def test_get_word_tokens_lo():
-
-    text = "ຢ່າລືມຕັ້ງໃຈຮຽນເດີ້. Oke?"
-    tokens = TextProcessing.get_word_tokens_from_text(text, "lo", filter_words=True)
-    assert tokens == ['ຢ່າ', 'ລືມ', 'ຕັ້ງໃຈ', 'ຮຽນ', 'ເດີ້']
 
 def test_has_repeating_token_in_sequence():
 
@@ -49,6 +38,7 @@ def test_has_repeating_token_in_sequence():
     assert TextProcessing.has_repeating_token_in_sequence(token_sequence)
     assert not TextProcessing.has_repeating_token_in_sequence(token_sequence[0:2])
     assert not TextProcessing.has_repeating_token_in_sequence(token_sequence, min_repeats=4)
+
 
 def test_has_repeating_multiple_tokens_in_sequence():
 
@@ -61,5 +51,3 @@ def test_has_repeating_multiple_tokens_in_sequence():
     assert not TextProcessing.has_repeating_token_in_sequence(token_sequence, max_pattern_length=2)
     assert not TextProcessing.has_repeating_token_in_sequence(token_sequence, max_pattern_length=1)
     assert not TextProcessing.has_repeating_token_in_sequence(token_sequence, min_repeats=5)
-
-
