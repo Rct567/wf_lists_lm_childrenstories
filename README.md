@@ -10,67 +10,66 @@ This repository contains **word frequency lists** based on AI generated children
 - (Optional) Download [stories.zip](https://github.com/Rct567/wf_lists_lm_childrenstories/releases) to get the generated stories currently used.
 - Run `generate_wf_lists.py` to generate the word frequencies lists.
 
-## Word frequency lists overview
-
+# Word frequency lists overview
 
 | Language | Word count | Story count |
 | --- | --- | --- |
-| [English](wf_lists/wf_list_en.csv) | 24,428 | 4,559 |
-| [French](wf_lists/wf_list_fr.csv) | 33,440 | 4,278 |
-| [Spanish](wf_lists/wf_list_es.csv) | 30,053 | 4,274 |
-| [Chinese](wf_lists/wf_list_zh.csv) | 29,872 | 4,274 |
-| [Russian](wf_lists/wf_list_ru.csv) | 55,793 | 4,248 |
-| [Japanese](wf_lists/wf_list_ja.csv) | 17,567 | 4,238 |
-| [Arabic](wf_lists/wf_list_ar.csv) | 77,810 | 4,130 |
-| [Portuguese (Portugal)](wf_lists/wf_list_pt.csv) | 29,871 | 3,828 |
-| [German](wf_lists/wf_list_de.csv) | 32,417 | 3,827 |
-| [Italian](wf_lists/wf_list_it.csv) | 31,497 | 3,827 |
-| [Dutch](wf_lists/wf_list_nl.csv) | 24,166 | 3,483 |
-| [Portuguese (Brazil)](wf_lists/wf_list_pt_br.csv) | 23,820 | 2,791 |
-| [Persian](wf_lists/wf_list_fa.csv) | 16,357 | 2,789 |
-| [Greek (Modern)](wf_lists/wf_list_el.csv) | 26,467 | 2,788 |
-| [Indonesian](wf_lists/wf_list_id.csv) | 13,176 | 2,788 |
-| [Polish](wf_lists/wf_list_pl.csv) | 45,867 | 2,787 |
-| [Danish](wf_lists/wf_list_da.csv) | 21,853 | 2,784 |
-| [Swedish](wf_lists/wf_list_sv.csv) | 22,269 | 2,782 |
-| [Hungarian](wf_lists/wf_list_hu.csv) | 51,979 | 2,780 |
-| [Vietnamese](wf_lists/wf_list_vi.csv) | 4,509 | 2,780 |
-| [Korean](wf_lists/wf_list_ko.csv) | 50,154 | 2,758 |
-| [Thai](wf_lists/wf_list_th.csv) | 11,382 | 2,752 |
-| [Turkish](wf_lists/wf_list_tr.csv) | 45,303 | 2,745 |
-| [Finnish](wf_lists/wf_list_fi.csv) | 45,577 | 2,738 |
-| [Norwegian Bokmål](wf_lists/wf_list_nb.csv) | 20,501 | 2,625 |
-| [Hebrew](wf_lists/wf_list_he.csv) | 34,177 | 2,610 |
-| [Icelandic](wf_lists/wf_list_is.csv) | 31,311 | 2,604 |
-| [Catalan](wf_lists/wf_list_ca.csv) | 25,691 | 2,600 |
-| [Latvian](wf_lists/wf_list_lv.csv) | 38,034 | 2,578 |
-| [Galician](wf_lists/wf_list_gl.csv) | 28,089 | 2,452 |
-| [Macedonian](wf_lists/wf_list_mk.csv) | 29,790 | 2,440 |
-| [Bulgarian](wf_lists/wf_list_bg.csv) | 33,146 | 2,438 |
-| [Albanian](wf_lists/wf_list_sq.csv) | 23,329 | 2,433 |
-| [Tagalog](wf_lists/wf_list_tl.csv) | 15,679 | 2,430 |
-| [Ukrainian](wf_lists/wf_list_uk.csv) | 41,852 | 2,430 |
-| [Bosnian](wf_lists/wf_list_bs.csv) | 37,297 | 2,424 |
-| [Croatian](wf_lists/wf_list_hr.csv) | 37,785 | 2,421 |
-| [Romanian](wf_lists/wf_list_ro.csv) | 26,560 | 2,420 |
-| [Slovak](wf_lists/wf_list_sk.csv) | 42,525 | 2,419 |
-| [Urdu](wf_lists/wf_list_ur.csv) | 10,660 | 2,418 |
-| [Czech](wf_lists/wf_list_cs.csv) | 43,116 | 2,416 |
-| [Esperanto](wf_lists/wf_list_eo.csv) | 26,077 | 2,416 |
-| [Slovenian](wf_lists/wf_list_sl.csv) | 37,599 | 2,410 |
-| [Serbian](wf_lists/wf_list_sr.csv) | 51,137 | 2,407 |
-| [Estonian](wf_lists/wf_list_et.csv) | 37,407 | 2,406 |
-| [Lithuanian](wf_lists/wf_list_lt.csv) | 39,742 | 2,404 |
-| [Georgian](wf_lists/wf_list_ka.csv) | 33,137 | 2,390 |
-| [Basque](wf_lists/wf_list_eu.csv) | 25,240 | 2,388 |
-| [Malay](wf_lists/wf_list_ms.csv) | 12,761 | 2,364 |
-| [Armenian](wf_lists/wf_list_hy.csv) | 19,613 | 1,845 |
+| [English](wf_lists/wf_list_en.csv) | 25,047 | 4,621 |
+| [Chinese](wf_lists/wf_list_zh.csv) | 32,361 | 4,334 |
+| [French](wf_lists/wf_list_fr.csv) | 34,370 | 4,333 |
+| [Spanish](wf_lists/wf_list_es.csv) | 31,351 | 4,332 |
+| [Russian](wf_lists/wf_list_ru.csv) | 58,164 | 4,302 |
+| [Japanese](wf_lists/wf_list_ja.csv) | 18,789 | 4,298 |
+| [Arabic](wf_lists/wf_list_ar.csv) | 81,599 | 4,190 |
+| [Italian](wf_lists/wf_list_it.csv) | 32,807 | 3,889 |
+| [Portuguese (Portugal)](wf_lists/wf_list_pt.csv) | 31,269 | 3,887 |
+| [German](wf_lists/wf_list_de.csv) | 33,890 | 3,885 |
+| [Dutch](wf_lists/wf_list_nl.csv) | 25,312 | 3,546 |
+| [Portuguese (Brazil)](wf_lists/wf_list_pt_br.csv) | 25,158 | 2,855 |
+| [Greek (Modern)](wf_lists/wf_list_el.csv) | 28,490 | 2,851 |
+| [Persian](wf_lists/wf_list_fa.csv) | 17,352 | 2,851 |
+| [Indonesian](wf_lists/wf_list_id.csv) | 14,090 | 2,849 |
+| [Polish](wf_lists/wf_list_pl.csv) | 48,714 | 2,848 |
+| [Danish](wf_lists/wf_list_da.csv) | 23,032 | 2,845 |
+| [Swedish](wf_lists/wf_list_sv.csv) | 23,660 | 2,844 |
+| [Vietnamese](wf_lists/wf_list_vi.csv) | 4,718 | 2,837 |
+| [Hungarian](wf_lists/wf_list_hu.csv) | 54,809 | 2,834 |
+| [Thai](wf_lists/wf_list_th.csv) | 12,133 | 2,815 |
+| [Korean](wf_lists/wf_list_ko.csv) | 53,976 | 2,812 |
+| [Turkish](wf_lists/wf_list_tr.csv) | 48,930 | 2,806 |
+| [Finnish](wf_lists/wf_list_fi.csv) | 49,192 | 2,802 |
+| [Norwegian Bokmål](wf_lists/wf_list_nb.csv) | 21,953 | 2,685 |
+| [Hebrew](wf_lists/wf_list_he.csv) | 36,809 | 2,673 |
+| [Icelandic](wf_lists/wf_list_is.csv) | 33,607 | 2,663 |
+| [Catalan](wf_lists/wf_list_ca.csv) | 27,091 | 2,657 |
+| [Latvian](wf_lists/wf_list_lv.csv) | 41,461 | 2,645 |
+| [Galician](wf_lists/wf_list_gl.csv) | 30,123 | 2,509 |
+| [Macedonian](wf_lists/wf_list_mk.csv) | 31,607 | 2,504 |
+| [Bulgarian](wf_lists/wf_list_bg.csv) | 35,360 | 2,498 |
+| [Albanian](wf_lists/wf_list_sq.csv) | 25,120 | 2,497 |
+| [Ukrainian](wf_lists/wf_list_uk.csv) | 45,215 | 2,497 |
+| [Tagalog](wf_lists/wf_list_tl.csv) | 17,361 | 2,493 |
+| [Bosnian](wf_lists/wf_list_bs.csv) | 40,140 | 2,490 |
+| [Croatian](wf_lists/wf_list_hr.csv) | 40,484 | 2,487 |
+| [Slovak](wf_lists/wf_list_sk.csv) | 45,888 | 2,485 |
+| [Urdu](wf_lists/wf_list_ur.csv) | 11,600 | 2,485 |
+| [Czech](wf_lists/wf_list_cs.csv) | 46,853 | 2,481 |
+| [Romanian](wf_lists/wf_list_ro.csv) | 28,002 | 2,480 |
+| [Slovenian](wf_lists/wf_list_sl.csv) | 40,347 | 2,474 |
+| [Estonian](wf_lists/wf_list_et.csv) | 40,819 | 2,473 |
+| [Serbian](wf_lists/wf_list_sr.csv) | 55,198 | 2,473 |
+| [Lithuanian](wf_lists/wf_list_lt.csv) | 43,139 | 2,463 |
+| [Georgian](wf_lists/wf_list_ka.csv) | 37,157 | 2,451 |
+| [Basque](wf_lists/wf_list_eu.csv) | 27,357 | 2,449 |
+| [Malay](wf_lists/wf_list_ms.csv) | 13,471 | 2,421 |
+| [Esperanto](wf_lists/wf_list_eo.csv) | 26,176 | 2,419 |
+| [Armenian](wf_lists/wf_list_hy.csv) | 23,767 | 1,909 |
 | [Hindi](wf_lists/wf_list_hi.csv) | 1,663 | 1,745 |
-| [Malayalam](wf_lists/wf_list_ml.csv) | 2,730 | 1,679 |
-| [Afrikaans](wf_lists/wf_list_af.csv) | 13,336 | 1,677 |
-| [Breton](wf_lists/wf_list_br.csv) | 16,270 | 1,635 |
-| [Sinhala](wf_lists/wf_list_si.csv) | 2,722 | 1,601 |
-| [Kazakh](wf_lists/wf_list_kk.csv) | 23,842 | 1,594 |
+| [Afrikaans](wf_lists/wf_list_af.csv) | 14,785 | 1,739 |
+| [Malayalam](wf_lists/wf_list_ml.csv) | 3,253 | 1,738 |
+| [Breton](wf_lists/wf_list_br.csv) | 18,900 | 1,698 |
+| [Sinhala](wf_lists/wf_list_si.csv) | 3,384 | 1,663 |
+| [Kazakh](wf_lists/wf_list_kk.csv) | 27,560 | 1,648 |
 | [Bengali (Bangla script)](wf_lists/wf_list_bn.csv) | 2,081 | 1,568 |
 | [Tamil](wf_lists/wf_list_ta.csv) | 1,322 | 1,510 |
 | [Telugu](wf_lists/wf_list_te.csv) | 1,986 | 1,508 |
