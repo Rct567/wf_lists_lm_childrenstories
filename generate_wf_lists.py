@@ -77,11 +77,13 @@ def get_tokens_from_story(story_file_path: str, word_accepter: Callable[[str], b
 
     return tokens
 
-def count_tokens_from_story_file(lang_id: str, story_file_path: str) -> Counter[str]:
+def count_tokens_from_story_file(lang_id: str, story_file_path: str) -> tuple[Counter[str], Counter[str]]:
 
     word_accepter = TextProcessing.get_word_accepter(lang_id)
     tokens = get_tokens_from_story(story_file_path, word_accepter, lang_id)
-    return Counter(tokens)
+    if not tokens:
+        return Counter(), Counter()
+    return Counter(token for token in tokens), Counter(token for token in tokens if token.is_lowercase())
 
 
 class WFListData(NamedTuple):
@@ -96,6 +98,7 @@ def create_wf_list(lang_story_dir: str, executor: Executor) -> WFListData:
 
     lang_id = lang_story_dir
     word_counter: Counter[str] = Counter()
+    word_counter_lc: Counter[str] = Counter()
     word_counter_per_story: Counter[str]  = Counter()
 
     if lang_id not in LANGUAGE_CODES_WITH_NAMES:
@@ -122,16 +125,42 @@ def create_wf_list(lang_story_dir: str, executor: Executor) -> WFListData:
     count_tokens_from_story_file_fn_for_lang = partial(count_tokens_from_story_file, lang_id)
     stories_counted_tokens = list(executor.map(count_tokens_from_story_file_fn_for_lang, story_files))
 
-    for story_counted_tokens in stories_counted_tokens:
+    for story_counted_tokens, story_counted_tokens_lc in stories_counted_tokens:
         word_counter.update(story_counted_tokens)
         word_counter_per_story.update(set(story_counted_tokens))
+        word_counter_lc.update(story_counted_tokens_lc)
 
     wf_file = os.path.join(WF_LISTS_DIR, "wf_list_{}.csv".format(lang_id))
 
-    entries = [(word, count, word_counter_per_story[word]) for word, count in word_counter.items()]
+    entries = [
+        (word, count, word_counter_lc.get(word.lower(), 0), word_counter_per_story[word])
+        for word, count in word_counter.items()
+    ]
     max_count = max([entry[1] for entry in entries])
-    max_story_count = max([entry[2] for entry in entries])
-    sorted_entries = sorted(entries, key=lambda x: fmean([x[1]/max_count,x[2]/max_story_count]), reverse=True)
+    max_lc_count = max([entry[2] for entry in entries])
+    max_story_count = max([entry[3] for entry in entries])
+
+    def get_score(entry: tuple[str, int, int, int]) -> float:
+
+        count_score = entry[1]/max_count
+        story_count_score = entry[3]/max_story_count
+
+        lc_count_score = entry[2]/max_lc_count
+        lc_rate = entry[2]/entry[1]
+
+        if entry[0] not in word_counter_lc:
+            lc_count_score = 0
+        if lc_rate > 0.1: # good enough
+            lc_count_score = count_score
+
+        score = (count_score + lc_count_score + (story_count_score * 2)) / 4
+
+        if entry[0] not in word_counter_lc: # word is always upper-case
+            score *= 0.1
+
+        return score
+
+    sorted_entries = sorted(entries, key=get_score, reverse=True)
 
     num_stories = len(story_files)
     num_words = 0
@@ -139,7 +168,7 @@ def create_wf_list(lang_story_dir: str, executor: Executor) -> WFListData:
     with open(wf_file, 'w', newline='', encoding="utf-8") as file:
         writer = csv.writer(file)
         writer.writerow(["word", "count", "doc_count"])
-        for word, count, story_count in sorted_entries:
+        for word, count, _, story_count in sorted_entries:
             if story_count < 2:
                 continue
             writer.writerow([word, count, story_count])

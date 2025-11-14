@@ -3,12 +3,29 @@
 from functools import partial
 import html
 import re
-from typing import Callable, Counter, NewType, Optional, Sequence, Union
-
+from typing import Callable, Counter, Optional, Sequence, Union
 
 import spacy
 from spacy.tokens import Doc
 from spacy.language import Language
+
+
+
+class WordToken(str):
+    def __new__(cls, value: str):
+        return str.__new__(cls, value.lower())
+
+    def __init__(self, value: str):
+        self.original_value = value
+
+    def __repr__(self): # type: ignore
+        return str(self)
+
+    def is_lowercase(self) -> bool:
+        return str(self) == self.original_value
+
+
+Tokenizer = Callable[[str], list[str]]
 
 loaded_spacy: dict[str, Language] = {}
 
@@ -84,9 +101,6 @@ def get_spacy_pipeline(lang_code: str) -> Language:
     loaded_spacy[lang_code] = nlp
     return nlp
 
-
-WordToken = NewType('WordToken', str)
-Tokenizer = Callable[[str], list[str]]
 
 class TextProcessing:
 
@@ -296,7 +310,7 @@ class TextProcessing:
             if normalize_curly_apostrophe and '’' in token:
                 token = token.replace("’", "'")
 
-            return WordToken(token.lower())
+            return WordToken(token)
 
         return create_word_token
 
